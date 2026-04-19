@@ -2,7 +2,7 @@
 title: "Terranova"
 layout: "single"
 type: "directory"
-description: "Terranova (formerly Levitree) is a San Francisco/Berkeley-based infrastructure startup using autonomous \"Ark\" and \"Prometheus\" robots to inject wood-waste"
+description: "Autonomous subsurface injection of wood-waste slurry 40-60 ft underground, creating anoxic biomass burial chambers that both elevate flood-prone terrain and durably sequester biogenic carbon"
 url: "/directory/terranova/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.terranova.inc/" target="_blank" rel="noopener">https://www.terranova.inc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/levitree/" target="_blank" rel="noopener">levitree — 4,970 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~28</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Terranova (formerly Levitree) is a San Francisco/Berkeley-based infrastructure startup using autonomous "Ark" and "Prometheus" robots to inject wood-waste slurry deep underground, lifting flood-prone properties while permanently burying biomass for carbon removal. The company emerged from stealth on November 10, 2025 with a $7M seed round (3x oversubscribed) led by Outlander and Congruent Ventures, with participation from GoAhead Ventures, Gothams, and Ponderosa (a Galvanize Climate fund). Its business model splits project revenue with contractors and plans to sell carbon credits since the buried wood remains sequestered underground.
+Terranova (formerly Levitree) is a San Francisco/Berkeley-based terraforming robotics startup that emerged from stealth in November 2025 with a $7M seed round led by Outlander and Congruent Ventures, valuing the company at $25.1M. Its core product is autonomous car-sized robots that inject wood-waste slurry 40-60 feet underground to lift flood-prone land as a cheaper alternative to levees and seawalls; the buried biomass also generates durable carbon removal as a secondary revenue stream.
 
 ![Terranova website](/screenshots/terranova.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=side_business liveliness=🟢 Active ([source](https://www.terranova.inc/press/terranova-funding))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.terranova.inc/press/terranova-funding))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://terranovacorp.com/))

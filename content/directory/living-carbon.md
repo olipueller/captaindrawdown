@@ -2,7 +2,7 @@
 title: "Living Carbon"
 layout: "single"
 type: "directory"
-description: "Founded in 2019, California-based Living Carbon transforms marginal land into high-value environmental assets, with a focus on restoring abandoned mines,"
+description: "Plants native hardwood and pine species on former coal-mine lands and degraded farmland in Appalachia, combining site preparation, invasive species control and tech-enabled MRV (via Isometric"
 url: "/directory/living-carbon/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.livingcarbon.com/" target="_blank" rel="noopener">https://www.livingcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/living-carbon/" target="_blank" rel="noopener">living-carbon — 15,209 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~35 (-5% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Founded in 2019, California-based Living Carbon transforms marginal land into high-value environmental assets, with a focus on restoring abandoned mines, degraded farmland, and unproductive soils with site-tailored reforestation. The company is a public benefit company and Microsoft has agreed to purchase 1.4 million tonnes of carbon removal credits from Living Carbon's US-based reforestation projects, generated through large-scale reforestation of 25,000 acres of degraded lands in the broader Appalachian region. In 2026, the Symbiosis Coalition also signed long-term offtake agreements with Living Carbon securing 131,240 tonnes of carbon removal over 10 years, with Google, McKinsey, and Meta among the buyers.
+Founded in 2019, California-based Living Carbon transforms marginal land into high-value environmental assets, with a focus on restoring abandoned mines, degraded farmland, and unproductive soils with site-tailored reforestation. The company is a public benefit corporation that generates carbon removal credits via large-scale reforestation of degraded lands in Appalachia, with major offtakes signed with Microsoft and the Symbiosis Coalition (Google, Meta, McKinsey).
 
 ![Living Carbon website](/screenshots/living-carbon.png)
 
@@ -33,6 +33,7 @@ Founded in 2019, California-based Living Carbon transforms marginal land into hi
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.livingcarbon.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.livingcarbon.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.livingcarbon.com/))

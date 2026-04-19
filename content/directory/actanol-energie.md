@@ -2,7 +2,7 @@
 title: "Actanol Energie"
 layout: "single"
 type: "directory"
-description: "ACTANOL Energie GmbH (Kempten, Allgäu, Germany) handles planning, financing and management for operating companies of renewable energy plants, especially"
+description: "Operates Carbo-FORCE pyrolysis plants that convert biomass into biochar while generating heat and ORC-based electricity, selling biochar and CO2 sink certificates alongside energy contracting."
 url: "/directory/actanol-energie/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,23 +11,25 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://actanol-energie.de/" target="_blank" rel="noopener">https://actanol-energie.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/actanol-energie-gmbh/" target="_blank" rel="noopener">actanol-energie-gmbh — 101 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+75% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-ACTANOL Energie GmbH (Kempten, Allgäu, Germany) handles planning, financing and management for operating companies of renewable energy plants, especially pyrolysis plants. The separate company ACTANOL Energie GmbH was founded in 2024 and focuses on renewable-energy plant contracting, offering heat, electricity, biochar and CO₂ certificates from its pyrolysis plants. It is a member of the German Biochar e.V. network.
+ACTANOL Energie GmbH (Kempten, Germany) was founded in 2024 as a dedicated renewable-energy arm of the ACTANOL Group to plan, finance and operate pyrolysis plants using Carbo-FORCE technology. The company produces heat, electricity, biochar and CO2 removal certificates from biomass pyrolysis, and is a member of the German Biochar association.
 
 ![Actanol Energie website](/screenshots/actanol-energie.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://actanol-energie.de/energiegewinnung/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://actanol.de/actanol-energie/))

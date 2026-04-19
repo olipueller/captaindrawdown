@@ -2,7 +2,7 @@
 title: "renu.earth"
 layout: "single"
 type: "directory"
-description: "Renu Earth, Inc. is a US-incorporated biochar carbon-removal company operating a pilot project with a major sawmill in KwaZulu-Natal, South Africa, converting"
+description: "Converts sawmill wood residues into biochar via pyrolysis in Southern Africa, generating Puro.earth CORCs tracked through Carbonfuture's dMRV platform."
 url: "/directory/renuearth/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -21,13 +21,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Renu Earth, Inc. is a US-incorporated biochar carbon-removal company operating a pilot project with a major sawmill in KwaZulu-Natal, South Africa, converting wood residues into biochar and generating Puro.earth-certified CORCs in partnership with Carbonfuture for dMRV and offtake. Carbonfuture committed to purchasing the initial 1,000 CORCs and will broker a total volume of up to 102,000 CORCs yearly. By 2027, Renu Earth plans to expand to 10 additional sites, potentially generating up to 200,000 CORCs annually.
+Renu Earth, Inc. is a US-incorporated biochar carbon-removal company operating a pilot project in partnership with a major sawmill in KwaZulu-Natal, South Africa. It converts sustainable wood residues from the sawmill into biochar, generating Puro.earth-certified CORCs tracked via Carbonfuture's dMRV system, with Carbonfuture committed to purchase the initial 1,000 CORCs and broker up to 102,000 CORCs yearly. The company plans to expand to 10 additional sawmill sites with a projected annual capacity of 200,000 CORCs by 2027.
 
 ![renu.earth website](/screenshots/renuearth.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://renu.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Renu Earth, Inc.
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://renu.earth/about-us))

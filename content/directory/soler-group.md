@@ -2,7 +2,7 @@
 title: "SOLER Group"
 layout: "single"
 type: "directory"
-description: "SOLER Group (parent of Carbonex) is a French family-owned renewable carbon producer that operates three biorefineries in France using its own patented"
+description: "Low-temperature pyrolysis of sustainably sourced French hardwood residues into charcoal, biocarbon and biochar, with syngas cogeneration for green electricity; biochar fraction is EBC-certified and"
 url: "/directory/soler-group/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://soler-group.com/" target="_blank" rel="noopener">https://soler-group.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonex/" target="_blank" rel="noopener">carbonex — 3,315 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~58</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-SOLER Group (parent of Carbonex) is a French family-owned renewable carbon producer that operates three biorefineries in France using its own patented pyrolysis technology to convert wood residues from sustainably managed forests into charcoal, biocarbon, biochar, and green electricity. The Group sells biochar carbon removal credits via the Carbonfuture marketplace through its Carbon Centric subsidiary and announced a large biocarbon plant in the US Appalachian region with at least 80,000 tpa capacity.
+SOLER Group is a French family-owned renewable carbon producer (founded 1993, parent of Carbonex) operating three biorefineries that use proprietary pyrolysis technology to convert sustainably sourced wood residues into charcoal, biocarbon, biochar and green electricity. Biochar and CDR credits — sold via Carbonfuture through their Carbon Centric team — are an adjacent product line added around 2021; the core business remains industrial charcoal/biocarbon for metallurgy, construction and barbecue markets, plus cogenerated electricity.
 
 ![SOLER Group website](/screenshots/soler-group.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://soler-group.com/))
 - **2026-04-19** — merged 1 duplicate(s): Carbonex | Soler Group
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

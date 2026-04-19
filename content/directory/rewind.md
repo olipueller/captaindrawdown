@@ -2,7 +2,7 @@
 title: "Rewind"
 layout: "single"
 type: "directory"
-description: "Israel-based Rewind was founded in 2022 and is led by Ram Amar, Kobi Kaminitz, Eitan Brettler and a founding team of scientists and environmentalists. In"
+description: "Stores sustainably sourced waste biomass (sawdust, wood offcuts) in naturally anoxic environments — disused deep mines and anoxic marine basins — to preserve plant carbon on geological timescales."
 url: "/directory/rewind/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Israel-based Rewind was founded in 2022 and is led by Ram Amar, Kobi Kaminitz, Eitan Brettler and a founding team of scientists and environmentalists. In October 2025 the company launched DMS Georgia, the world's first commercial deep mine carbon storage project, storing plant-based carbon in naturally oxygen-free underground environments 1.3 km underground in western Georgia, with capacity projected to reach 50,000 tons per year by 2027. Rewind also runs two Marine Anoxic Carbon Storage (MACS) initiatives, one in Romania and a second in the Mediterranean Sea in Israel.
+Rewind is an Israeli nature-powered carbon removal company that launched the world's first commercial deep mine carbon storage project, DMS Georgia, located 1.3 km underground in western Georgia, issuing certified carbon credits by preserving plant-based carbon in naturally oxygen-free underground environments. The company also runs two Marine Anoxic Carbon Storage (MACS) initiatives — one in Romania and one in the Mediterranean Sea near Israel. The first certified credits are expected in early 2026, the site's annual capacity is projected to reach 50,000 tonnes by 2027, and by 2030 Rewind aims to remove one million tonnes of carbon per year across a global network of deep mines and marine basins.
 
 ![Rewind website](/screenshots/rewind.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.rewind.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Rewind.earth
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.rewind.earth/))

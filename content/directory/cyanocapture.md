@@ -2,7 +2,7 @@
 title: "CyanoCapture"
 layout: "single"
 type: "directory"
-description: "CyanoCapture is a UK biotech spun out of Oxford in 2021, led by CEO David Kim, developing genetically engineered cyanobacterial strains for CO2 capture from"
+description: "Engineers genetically modified fast-growing cyanobacteria strains that fix CO2 from industrial point-source emissions, with pathways including geological biomass burial, bioprecipitation of calcium"
 url: "/directory/cyanocapture/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -11,7 +11,7 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>BECCS</td></tr>
-  <tr><th>Secondary pathways</th><td>Biochar, Mineralization, Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization, Biochar</td></tr>
   <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://cyanocapture.com/" target="_blank" rel="noopener">https://cyanocapture.com/</a></td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-CyanoCapture is a UK biotech spun out of Oxford in 2021, led by CEO David Kim, developing genetically engineered cyanobacterial strains for CO2 capture from industrial emissions. The company pursues multiple storage pathways including biochar production, carbonate mineralization for construction fillers (Innovate UK-funded), and biomass-to-products biomanufacturing (insulin, recombinant proteins, graphite). It was selected for the Leap stage of the Remove programme and has raised approximately $1.8-3M in seed funding.
+CyanoCapture is a UK biotech founded in January 2021 by David Kim and Samir Chitnavis, spun out of the University of Oxford, that uses genetically modified cyanobacteria for industrial-scale carbon capture. The company buries excess biomass and bioproduct deep underground in approved geological facilities and also pursues bioprecipitation of calcium carbonates for sustainable mineral manufacturing, targeting carbon-negative fillers for construction, alongside CO2-to-insulin and CO2-to-graphite biomanufacturing pathways.
 
 ![CyanoCapture website](/screenshots/cyanocapture.png)
 
@@ -34,6 +34,7 @@ CyanoCapture is a UK biotech spun out of Oxford in 2021, led by CEO David Kim, d
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://cyanocapture.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.cyanocapture.com/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=review_needed liveliness=🟢 Active ([source](https://www.cipa.org.uk/earthshot/capturing-co2-with-supercharged-bacteria/))

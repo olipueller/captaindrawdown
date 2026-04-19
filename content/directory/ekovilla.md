@@ -2,7 +2,7 @@
 title: "Ekovilla"
 layout: "single"
 type: "directory"
-description: "Ekovilla is the insulation brand of EcoUp Oyj, a Finnish circular-economy company listed on Nasdaq First North, whose insulation segment manufactures Ekovilla,"
+description: "Manufactures cellulose fiber insulation from recycled wood fiber/newspaper that stores carbon in building structures for decades, credited under Puro.earth's Wooden Building Elements methodology."
 url: "/directory/ekovilla/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -15,14 +15,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.ekovilla.com" target="_blank" rel="noopener">https://www.ekovilla.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ekovilla-oy/" target="_blank" rel="noopener">ekovilla-oy — 570 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~20 (+5% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Ekovilla is the insulation brand of EcoUp Oyj, a Finnish circular-economy company listed on Nasdaq First North, whose insulation segment manufactures Ekovilla, an energy-efficient thermal insulation made from recycled wood fiber that functions as a carbon sink. Ekovilla recycles wood-building-element waste into carbon-negative cellulose fiber insulation (CFI) under Puro.earth's Wooden Building Elements methodology, storing carbon for roughly 50 years. In 2024, 1,500 vintage 2022 CORCs from the Ekovilla project were the first Puro.earth CORCs traded on Xpansiv's CBL spot exchange, sold to thyssenkrupp Materials Trading.
+Ekovilla is the thermal insulation brand of Finnish circular-economy company EcoUp Oyj, producing cellulose fiber insulation from recycled wood fiber and newspaper for buildings. The core business is selling insulation products (40+ years of production, used in ~10,000 buildings annually), with CORC carbon-removal credits sold via Puro.earth's Wooden Building Elements methodology as an adjacent revenue stream.
 
 ![Ekovilla website](/screenshots/ekovilla.png)
 
@@ -32,6 +32,7 @@ Ekovilla is the insulation brand of EcoUp Oyj, a Finnish circular-economy compan
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=side_business liveliness=🟢 Active ([source](https://ekovilla.com/en/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=division liveliness=🟢 Active ([source](https://ecoup.fi/en/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/carbon-sequestration/projects/Wooden-Building-Element/Ekovilla-2-Kuusankoski/643002406801000053))

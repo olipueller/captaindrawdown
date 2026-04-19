@@ -2,10 +2,10 @@
 title: "Cambridge Carbon Capture"
 layout: "single"
 type: "directory"
-description: "Cambridge Carbon Capture Ltd was a UK startup developing CO2LOC, a two-stage mineralisation process that reacted magnesium hydroxide with CO2 (from industrial"
+description: "Two-stage ex-situ mineralisation process reacting magnesium hydroxide with CO2 from flue gas or DAC to form stable magnesium carbonate plus saleable mineral/metal co-products."
 url: "/directory/cambridge-carbon-capture/"
 pathway: "Mineralization"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.co2loc.com/" target="_blank" rel="noopener">https://www.co2loc.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 5/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Cambridge Carbon Capture Ltd was a UK startup developing CO2LOC, a two-stage mineralisation process that reacted magnesium hydroxide with CO2 (from industrial flue gas or direct air capture) to form magnesium carbonate and saleable co-products. The company entered creditors' voluntary liquidation on 3 June 2025 and its co2loc.com domain is now listed for sale.
+Cambridge Carbon Capture Ltd was a UK startup developing the CO2LOC process, a two-stage ex-situ mineralisation technology reacting magnesium hydroxide with CO2 to produce magnesium carbonate for industrial and construction uses. The company entered creditors' voluntary liquidation on 3 June 2025, with KRE Corporate Recovery Limited appointed as liquidators.
 
 ![Cambridge Carbon Capture website](/screenshots/cambridge-carbon-capture.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🔴 Likely Dead ([source](https://www.thegazette.co.uk/notice/4900649/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🔴 Likely Dead ([source](https://www.thegazette.co.uk/notice/4900649/))

@@ -2,7 +2,7 @@
 title: "Carbon Removal India Alliance"
 layout: "single"
 type: "directory"
-description: "The Carbon Removal India Alliance (CRIA) is a non-partisan membership organisation and industry coalition dedicated to accelerating the development,"
+description: "Industry alliance/coalition convening CDR developers, researchers, and policymakers to build a durable CDR sector in India; it does not itself remove CO2."
 url: "/directory/carbon-removal-india-alliance/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,7 +2,7 @@
 title: "CleanCapture Tech"
 layout: "single"
 type: "directory"
-description: "CleanCapture Tech is an early-stage U.S. direct air capture startup founded in 2021 by MIT-trained engineers with prior experience at Corning and Amoco. The"
+description: "Solid-sorbent DAC using a plate-and-heat-exchanger gas/solid reactor design with low-temperature electric regeneration, targeting ~860 kWh/ton and <$85/ton capture cost."
 url: "/directory/cleancapture-tech/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
@@ -21,13 +21,14 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-CleanCapture Tech is an early-stage U.S. direct air capture startup founded in 2021 by MIT-trained engineers with prior experience at Corning and Amoco. The company has developed a gas/solid reactor design using solid sorbents with a plate-and-heat-exchanger architecture, targeting capture costs below $85/ton, and has demonstrated a lab-scale prototype with DOE support. Participated in Creative Destruction Lab and Carbon to Value accelerators.
+CleanCapture Tech is an early-stage U.S. direct air capture startup founded in 2021 by MIT-trained engineers with prior Corning and Amoco experience. The company has developed a solid-sorbent plate-and-heat-exchanger reactor design and demonstrated a lab-scale prototype with DOE support, targeting costs below $85/ton. The website has not been updated since 2023 and shows the company is still seeking investors and partners to scale beyond lab-scale.
 
 ![CleanCapture Tech website](/screenshots/cleancapture-tech.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://cleancapturetech.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://cleancapturetech.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://cleancapturetech.com/))

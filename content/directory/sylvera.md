@@ -2,7 +2,7 @@
 title: "Sylvera"
 layout: "single"
 type: "directory"
-description: "Sylvera is a UK-based carbon credit ratings and data platform that independently assesses carbon project quality using geospatial analytics, machine learning"
+description: "Independent carbon credit ratings agency combining satellite remote sensing, machine learning and field measurement to score project quality and deliver MRV, pricing and market intelligence data."
 url: "/directory/sylvera/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

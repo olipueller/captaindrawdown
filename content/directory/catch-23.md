@@ -2,7 +2,7 @@
 title: "Catch 23"
 layout: "single"
 type: "directory"
-description: "Catch 23 AB is a Swedish reseller/broker of carbon removal certificates (CRCs), founded in 2020/2021 and headquartered in Stockholm. The company has an"
+description: "Broker/retailer of BECCS-derived Carbon Removal Certificates sourced from Stockholm Exergi's Värtan facility, targeting Nordic corporate buyers."
 url: "/directory/catch-23/"
 pathway: "BECCS"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "NAWARO ENERGIE Betrieb"
 layout: "single"
 type: "directory"
-description: "NAWARO ENERGIE Betrieb GmbH is an Austrian bioenergy producer headquartered in Zwettl, Lower Austria, operating biomass power plants in the Waldviertel region"
+description: "Operates SynCraft wood-gas \"reverse power plants\" that co-produce biochar (~800 t/yr at Perg) alongside electricity and heat, plus three conventional biomass CHP plants."
 url: "/directory/nawaro-energie-betrieb/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.nawaro-energie.at" target="_blank" rel="noopener">https://www.nawaro-energie.at</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nawaro-energie/" target="_blank" rel="noopener">nawaro-energie — 377 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~9 (-10% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-NAWARO ENERGIE Betrieb GmbH is an Austrian bioenergy producer headquartered in Zwettl, Lower Austria, operating biomass power plants in the Waldviertel region plus SynCraft wood-gasification "reverse power plants" in Perg and Groß Gerungs. The Perg plant (two CW1800-500 units, operational since January 2023) co-produces ~800 t of biochar per year, which is EBC- and PEFC-certified and sold to customers for CO2 reduction applications. The company supplies ~30,000 households with green electricity and is a member of the European Biochar Industry Consortium.
+NAWARO ENERGIE Betrieb GmbH is an Austrian bioenergy producer headquartered in Zwettl, Lower Austria, operating biomass power plants and SynCraft wood-gasification plants that supply green electricity, heat and pellets to ~32,500 households. Biochar is a byproduct of wood gasification at its Perg plant (EBC and PEFC certified), sold to agriculture, landscaping and metallurgy customers; the core business is renewable energy, not CDR.
 
 ![NAWARO ENERGIE Betrieb website](/screenshots/nawaro-energie-betrieb.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.kaup.de/en/info-center/case-studies/nawaro-energie-betrieb-gmbh))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.syncraft.at/en/exkursion-perg-gruengaskongress/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.nawaro-energie.at/willkommen-auf-der-website-von-nawaro-energie/))

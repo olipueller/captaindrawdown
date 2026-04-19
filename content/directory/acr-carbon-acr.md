@@ -2,7 +2,7 @@
 title: "ACR Carbon (ACR)"
 layout: "single"
 type: "directory"
-description: "ACR (formerly American Carbon Registry) is a nonprofit carbon crediting program and registry, founded in 1996 as the world's first private voluntary GHG"
+description: "Carbon crediting program, standards body, and registry that issues and tracks serialized carbon credits (including removals) across voluntary and compliance markets."
 url: "/directory/acr-carbon-acr/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

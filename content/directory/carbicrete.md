@@ -2,7 +2,7 @@
 title: "CarbiCrete"
 layout: "single"
 type: "directory"
-description: "CarbiCrete is a Montreal-based carbon removal technology company that licenses a patented process for producing cement-free concrete by replacing cement with"
+description: "Replaces 100% of portland cement in concrete blocks/pavers with EAF steel slag, which is cured with captured CO2 to form calcium carbonate, permanently mineralizing ~150 kg CO2 per tonne of slag"
 url: "/directory/carbicrete/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-CarbiCrete is a Montreal-based carbon removal technology company that licenses a patented process for producing cement-free concrete by replacing cement with steel slag and mineralizing captured CO2 into the concrete for permanent storage. The company licenses its technology to block and paver manufacturers in Quebec, Ontario, the northeastern US, and — starting Q1 2026 — France via Saint-Gobain's POINT.P brand.
+CarbiCrete is a Montreal-based carbon removal technology company that licenses a patented process for producing cement-free concrete by replacing cement with steel slag and curing with captured CO2 for permanent mineralized storage. The company licenses its technology to block and paver manufacturers in Quebec, Ontario and the northeastern US, with a Saint-Gobain/POINT.P production line slated to open in France in Q1 2026.
 
 ![CarbiCrete website](/screenshots/carbicrete.png)
 
@@ -33,6 +33,7 @@ CarbiCrete is a Montreal-based carbon removal technology company that licenses a
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))

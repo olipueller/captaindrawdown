@@ -2,7 +2,7 @@
 title: "DAC Labs"
 layout: "single"
 type: "directory"
-description: "Dac Labs (Dac Laboratories) is a University of Sydney spinout developing a scalable, low-cost electrochemical direct air capture process using earth-abundant"
+description: "Aqueous electrochemical DAC using earth-abundant electroactive capturing agents (e.g., Alizarin Red S) in a redox flow cell, with storage via natural mineral carbonation."
 url: "/directory/dac-labs/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -11,24 +11,26 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.daclaboratories.com/" target="_blank" rel="noopener">https://www.daclaboratories.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dac-laboratories/" target="_blank" rel="noopener">dac-laboratories — 185 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Dac Labs (Dac Laboratories) is a University of Sydney spinout developing a scalable, low-cost electrochemical direct air capture process using earth-abundant materials. Founded by Dr Sam Wenger based on his chemistry PhD, the company has published peer-reviewed work on aqueous electrochemical DAC and secured pre-seed funding from the University of Sydney's Pre-Seed Launch Fund, with a roadmap toward a 10-tonne/year demo and eventual megatonne-scale deployment.
+Dac Labs (Dac Laboratories) is a University of Sydney spinout developing a low-cost, scalable direct air capture process using earth-abundant materials and leveraging natural mineral weathering/carbonation. Founded by Dr Sam Wenger, the company has published peer-reviewed work on aqueous electrochemical DAC and secured pre-seed backing from the University of Sydney, with a roadmap targeting a 10-tonne demo and progression to kilotonne pilots.
 
 ![DAC Labs website](/screenshots/dac-labs.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.daclaboratories.com/))
 - **2026-04-19** — merged 1 duplicate(s): Dac Laboratories
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.daclaboratories.com/))

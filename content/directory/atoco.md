@@ -2,7 +2,7 @@
 title: "Atoco"
 layout: "single"
 type: "directory"
-description: "Atoco is a California-based deep-tech startup founded in 2020 by Professor Omar Yaghi (2025 Nobel laureate in Chemistry) that commercializes metal-organic"
+description: "Develops solid-state MOF and COF sorbent modules (reticular chemistry) for direct air capture and post-combustion CO2 capture, plus atmospheric water harvesting."
 url: "/directory/atoco/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Atoco is a California-based deep-tech startup founded in 2020 by Professor Omar Yaghi (2025 Nobel laureate in Chemistry) that commercializes metal-organic frameworks (MOFs) and covalent organic frameworks (COFs) for carbon capture and atmospheric water harvesting. The company develops solid-state modules for both direct air capture and post-combustion capture, targeting substantially lower energy and cost than incumbent sorbent technologies.
+Atoco is a California-based deep-tech company founded in 2020 by Professor Omar Yaghi, inventor of metal-organic frameworks (MOFs) and covalent organic frameworks (COFs), who was awarded the 2025 Nobel Prize in Chemistry. Its solid-state carbon capture modules are designed to capture CO2 from ambient air and industrial emissions, and the company also develops atmospheric water harvesting solutions using the same reticular materials platform.
 
 ![Atoco website](/screenshots/atoco.png)
 
@@ -34,6 +34,7 @@ Atoco is a California-based deep-tech startup founded in 2020 by Professor Omar 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://atoco.com/our-technology/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://atoco.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://atoco.com/carbon-capture/our-dac-innovation/))

@@ -2,7 +2,7 @@
 title: "Black Bull Biochar"
 layout: "single"
 type: "directory"
-description: "Black Bull Biochar is a UK-based biochar producer that operates PYREG and BioMaCon pyrolysis units to convert forestry co-products (sawdust, woodchip) into"
+description: "Pyrolyzes forestry co-products (sawdust, woodchip) using PYREG and BioMaCon units to produce biochar tailored for dairy manure management on UK farms."
 url: "/directory/black-bull-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Black Bull Biochar is a UK-based biochar producer that operates PYREG and BioMaCon pyrolysis units to convert forestry co-products (sawdust, woodchip) into biochar for UK agriculture, particularly dairy manure management. The company raised £4 million in late seed funding in December 2025 co-led by TSP Ventures and the GMCA Investment Fund to scale operations in North West England and expand into Denmark, building on £3.2 million previously awarded through the UK Net Zero Innovation Portfolio DAC/GGR competition.
+Black Bull Biochar (BBB) is a UK-based start-up specialising in biochar for sustainable agriculture and carbon removal, scaling operations across the North West of England and accelerating entry into northern Europe, including Denmark. The company operates PYREG and BioMaCon pyrolysis units to convert forestry co-products into biochar applied via dairy manure management. In December 2025, BBB raised £4 million in late seed funding co-led by TSP Ventures and the GMCA Investment Fund, with the investment funding new production sites and relocation of headquarters from London to Manchester.
 
 ![Black Bull Biochar website](/screenshots/black-bull-biochar.png)
 
@@ -32,6 +32,7 @@ Black Bull Biochar is a UK-based biochar producer that operates PYREG and BioMaC
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bioenergy-news.com/news/black-bull-biochar-secures-4-million-for-biochar-expansion/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bioenergy-news.com/news/black-bull-biochar-secures-4-million-for-biochar-expansion/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.blackbullbiochar.com/about-us))

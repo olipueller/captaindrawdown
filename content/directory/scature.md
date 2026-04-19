@@ -2,7 +2,7 @@
 title: "Scature"
 layout: "single"
 type: "directory"
-description: "Scature is a Netherlands-based broker/marketplace connecting corporate buyers with nature-based carbon removal projects, primarily through partnerships with"
+description: "Broker/marketplace that connects corporate buyers with nature-based carbon removal projects (regenerative agriculture, agroforestry, seaweed, bio-based building) accredited under the ONCRA framework."
 url: "/directory/scature/"
 pathway: "Afforestation"
 liveliness: "🟡 Moderate"

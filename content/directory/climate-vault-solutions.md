@@ -2,7 +2,7 @@
 title: "Climate Vault Solutions"
 layout: "single"
 type: "directory"
-description: "Climate Vault Solutions, Inc. is the commercial/sales arm of the University of Chicago-founded Climate Vault 501(c)(3). It combines purchasing and retiring"
+description: "Climate Vault Solutions is a Chicago-based CDR portfolio manager and reseller that vaults compliance-market allowances and curates a portfolio of vetted CDR credits sourced via its Tech Chamber RFP"
 url: "/directory/climate-vault-solutions/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

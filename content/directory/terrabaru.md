@@ -2,7 +2,7 @@
 title: "TerraBaru"
 layout: "single"
 type: "directory"
-description: "TerraBaru is an Indonesian biochar producer headquartered in Bali with a Singapore office. It produces TerraKarbon, a stable carbon-rich biochar material made"
+description: "Produces engineered biochar (\"TerraKarbon\") via pyrolysis of Indonesian agricultural waste for soil, infrastructure, and carbon removal credits."
 url: "/directory/terrabaru/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-TerraBaru is an Indonesian biochar producer headquartered in Bali with a Singapore office. It produces TerraKarbon, a stable carbon-rich biochar material made through the pyrolysis of organic agricultural waste to international standards, with applications in soil health, infrastructure, and energy alongside carbon removal credits.
+TerraBaru produces TerraKarbon, a stable carbon-rich biochar made through pyrolysis of organic waste to international standards, from agricultural residues in Indonesia. The company is headquartered in Bali with a Singapore office and sells biochar alongside carbon removal credits, targeting soil health, infrastructure, and energy applications.
 
 ![TerraBaru website](/screenshots/terrabaru.png)
 
@@ -33,6 +33,7 @@ TerraBaru is an Indonesian biochar producer headquartered in Bali with a Singapo
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrabaru.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrabaru.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrabaru.com/about-us/))

@@ -2,7 +2,7 @@
 title: "Hago Energetics"
 layout: "single"
 type: "directory"
-description: "Hago Energetics is a California-based benefit corporation (founded 2017, HQ Camarillo) that uses a proprietary methane pyrolysis process to convert biogas from"
+description: "Methane pyrolysis of biogas producing fuel-cell-grade hydrogen plus solid biochar, with carbon sequestration credited via biochar soil amendment."
 url: "/directory/hago-energetics/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,19 +14,20 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://hagoenergetics.com/" target="_blank" rel="noopener">https://hagoenergetics.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Hago Energetics is a California-based benefit corporation (founded 2017, HQ Camarillo) that uses a proprietary methane pyrolysis process to convert biogas from agricultural, landfill, and wastewater waste into fuel-cell-grade hydrogen and solid biochar for soil amendment. A third-party EcoEngineers LCA validated carbon intensities as low as ‑492 gCO₂e/MJ when biochar sequestration is included. The company has recently expanded toward stranded-gas-to-hydrogen projects (e.g. an April 2026 MOU in Sutton County, Texas), so some production pathways are fossil-derived rather than biogenic.
+Hago Energetics is a California-based benefit corporation (HQ Camarillo) that uses a proprietary methane pyrolysis process to convert biogas from agricultural, landfill, and wastewater sources into fuel cell-grade hydrogen and solid biochar as a co-product for soil amendment. A third-party EcoEngineers LCA using CA-GREET 4.0 validated carbon intensities as low as -492 gCO₂e/MJ when biochar sequestration is included. The company was selected as a Qualified Hydrogen Supplier by California's First Public Hydrogen Authority in January 2026.
 
 ![Hago Energetics website](/screenshots/hago-energetics.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://hagoenergetics.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://hagoenergetics.com/2025/08/07/hago-energetics-wins-doe-funding-award-for-sustainable-hydrogen-from-waste/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://hagoenergetics.com/about/))

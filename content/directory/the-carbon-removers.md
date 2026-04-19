@@ -2,10 +2,10 @@
 title: "The Carbon Removers"
 layout: "single"
 type: "directory"
-description: "The Carbon Removers (formerly Carbon Capture Scotland) is a Scottish CDR supplier founded by brothers Richard and Ed Nimmons, based in Crocketford/Dumfries,"
+description: "Captures biogenic CO₂ from fermentation (whisky distilleries) and biogas/biomethane plants via modular cryogenic capture units, then transports it to mineralisation (recycled limestone → carbonate"
 url: "/directory/the-carbon-removers/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://thecarbonremovers.com/" target="_blank" rel="noopener">https://thecarbonremovers.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thecarbonremovers/" target="_blank" rel="noopener">thecarbonremovers — 6,781 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~12 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-The Carbon Removers (formerly Carbon Capture Scotland) is a Scottish CDR supplier founded by brothers Richard and Ed Nimmons, based in Crocketford/Dumfries, that captures biogenic CO₂ from whisky distilleries and biogas plants. The captured CO₂ is stored permanently via mineralization in construction aggregates or geological sequestration under the North Sea (Project Greensand), with credits verified by Puro.earth and Isometric.
+The Carbon Removers (formerly Carbon Capture Scotland) is a Scottish CDR company founded by brothers Ed and Richard Nimmons, headquartered in Crocketford, Dumfries & Galloway. It captures biogenic CO₂ from whisky distilleries and biogas/biomethane plants using its proprietary Nimmon900 modules, and permanently stores it either via mineralisation in building aggregates or via geological sequestration in the North Sea through Project Greensand Future (operated by INEOS). Credits are certified through Puro.earth and Isometric, with customers including British Airways and NatWest.
 
 ![The Carbon Removers website](/screenshots/the-carbon-removers.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://thecarbonremovers.com/))
 - **2026-04-19** — merged 1 duplicate(s): The Carbon Removers Limited
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

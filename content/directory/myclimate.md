@@ -2,7 +2,7 @@
 title: "myclimate"
 layout: "single"
 type: "directory"
-description: "myclimate is a Swiss non-profit climate protection foundation, spun out of ETH Zurich in 2002, that develops, finances and advises on voluntary carbon market"
+description: "Non-profit carbon offset project developer and retailer; CDR portfolio consists of biochar (coffee cultivation in Colombia), reforestation and peatland rewetting projects certified under Gold"
 url: "/directory/myclimate/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

@@ -2,10 +2,10 @@
 title: "Bigadan A/S"
 layout: "single"
 type: "directory"
-description: "Bigadan A/S (short for Biogas Danmark) is a Skanderborg-based Danish biogas plant developer and operator with 30+ years of experience, having built more than"
+description: "Captures biogenic CO2 separated during biogas-to-biomethane upgrading at its Kalundborg Bioenergi plant, liquefies it cryogenically, and ships it for permanent geological storage in depleted North"
 url: "/directory/bigadan-as/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://bigadan.com/" target="_blank" rel="noopener">https://bigadan.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bigadan-a-s/" target="_blank" rel="noopener">bigadan-a-s — 3,772 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~104</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Bigadan A/S (short for Biogas Danmark) is a Skanderborg-based Danish biogas plant developer and operator with 30+ years of experience, having built more than 40 plants in 14 countries. The company captures biogenic CO2 from its biogas upgrading process and liquefies it; it won a Danish NECCS Fund contract in April 2024 to permanently store 25,000 tonnes of biogenic CO2 per year from its Kalundborg plant between 2026 and 2032. Bigadan also supplies liquid bio-CO2 for industrial/food-grade use (CCU).
+Bigadan A/S is a Skanderborg-based Danish biogas developer and operator, majority-owned by Arjun Infrastructure Partners, that owns nine operational biogas facilities producing around 1.3 TWh of renewable energy annually. Through its Bioman subsidiary, it won a 2024 Danish NECCS tender to capture and permanently store 25,000 tonnes/year of biogenic CO2 from its Kalundborg Bioenergi plant, with injection via INEOS's Project Greensand expected to begin in 2026. Biogas/biomethane production is the core business; BECCS is an adjacent add-on enabled by building a cryogenic CO2 liquefaction unit onto existing biogas upgrading.
 
 ![Bigadan A/S website](/screenshots/bigadan-as.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.renewableenergymagazine.com/biogas/arjun-increases-stake-in-the-danish-biogas-20251029))
 - **2026-04-19** — merged 1 duplicate(s): Bioman
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://bigadan.com/bioman-bliver-en-del-af-bigadan))
 - **2026-04-19** — refresh: screenshot, liveliness

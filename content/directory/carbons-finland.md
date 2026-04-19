@@ -2,7 +2,7 @@
 title: "Carbons Finland"
 layout: "single"
 type: "directory"
-description: "Carbons Finland Oy (formerly Pajupojat Oy) is a small biochar producer based in Kouvola, Finland, founded in 2014 and focused on willow-based porous biochar"
+description: "Pyrolyzes willow biomass into porous biochar sold for soil improvement, stormwater filtration, and landscaping applications."
 url: "/directory/carbons-finland/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -14,13 +14,13 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://carbons.fi/en/home/" target="_blank" rel="noopener">https://carbons.fi/en/home/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbons-finland/" target="_blank" rel="noopener">carbons-finland</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbons Finland Oy (formerly Pajupojat Oy) is a small biochar producer based in Kouvola, Finland, founded in 2014 and focused on willow-based porous biochar for stormwater treatment, landscaping, composting, nutrient recycling and organic farming. Products are sold under the Carbons brand through an online shop, and the company is listed on the Puro.earth biochar registry. It is a micro-enterprise (~1 employee, ~€324k revenue in 2023) but remains registered as active in Finnish company records.
+Carbons Finland Oy is a micro-enterprise in Kouvola, Finland, founded in 2014, producing willow-based porous biochar for stormwater treatment, landscaping, composting, nutrient recycling and organic farming. Products are sold under the Carbons brand and the company is listed on the Puro.earth biochar registry. Revenue was approximately €324k in 2023 with roughly one employee.
 
 ![Carbons Finland website](/screenshots/carbons-finland.png)
 
@@ -30,6 +30,7 @@ Carbons Finland Oy (formerly Pajupojat Oy) is a small biochar producer based in 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carbons.fi/en/the-company/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carbons.fi/en/home/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.sitra.fi/en/cases/biochar-enhances-nutrient-recycling-carbon-sequestration/))

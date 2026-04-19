@@ -2,10 +2,10 @@
 title: "SRCNatura Sure"
 layout: "single"
 type: "directory"
-description: "SRCNatura Sure Pvt Ltd developed the biochar carbon removal project registered by Verra under VCS4679, involving 5,000 farmers. The company's natural farming"
+description: "Smallholder biochar project developer using flame-curtain pyrolysis of farm residues across decentralized Indian farming communities, with biochar applied to agricultural soils for carbon"
 url: "/directory/srcnatura-sure/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://srcnaturaproducts.com/" target="_blank" rel="noopener">https://srcnaturaproducts.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-SRCNatura Sure Pvt Ltd developed the biochar carbon removal project registered by Verra under VCS4679, involving 5,000 farmers. The company's natural farming systems integrate biochar to improve soil health, with biochar helping retain nutrients and water, support beneficial microbes, and lock carbon in the soil. Based in Sonipat, Haryana, India, the company combines rural livelihood development with biochar-based soil carbon sequestration.
+SRCNatura Sure Pvt Ltd is an India-based project developer that registered the first Verra VCS biochar carbon removal project (VCS4679, "Project Reignite"), operating with roughly 5,000 smallholder farmers in Odisha in partnership with Dutch developer Carboneers. The project aims to remove approximately 110,760 tCO2e annually by converting agricultural waste into biochar for application to farmland.
 
 ![SRCNatura Sure website](/screenshots/srcnatura-sure.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.green.earth/news/verra-registers-first-biochar-carbon-removal-project))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.green.earth/news/verra-registers-first-biochar-carbon-removal-project))

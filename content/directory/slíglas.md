@@ -2,7 +2,7 @@
 title: "Slíglas"
 layout: "single"
 type: "directory"
-description: "Slíglas is an Irish biochar startup based in Sligo that transforms residual forestry and woody biomass into biochar for carbon dioxide removal. Founded in 2024"
+description: "Pyrolyzes residual woody forestry biomass into biochar that is applied to agricultural soils for long-duration carbon sequestration."
 url: "/directory/slíglas/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://sliglas.com/" target="_blank" rel="noopener">https://sliglas.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sliglas/" target="_blank" rel="noopener">sliglas — 348 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Slíglas is an Irish biochar startup based in Sligo that transforms residual forestry and woody biomass into biochar for carbon dioxide removal. Founded in 2024 by Paul McGoldrick and Sadhbh McCarrick, the company applies biochar to agricultural soils and has a project listed on the Rainbow Standard registry.
+Slíglas is an Irish biochar startup based in Sligo, founded in 2024 by Paul McGoldrick and Sadhbh McCarrick, that converts residual forestry and woody biomass into biochar for carbon dioxide removal. The company has a project listed on the Rainbow Standard registry and in October 2025 won the Deep Tech category of the InterTradeIreland Seedcorn regional final, receiving €50,000 and advancing to the all-island final.
 
 ![Slíglas website](/screenshots/slíglas.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sliglas.com/))
 - **2026-04-19** — merged 1 duplicate(s): Slíglas Limited
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sliglas.com/))

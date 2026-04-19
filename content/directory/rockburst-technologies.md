@@ -2,7 +2,7 @@
 title: "Rockburst Technologies"
 layout: "single"
 type: "directory"
-description: "Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBurst™, a transcritical CO₂ pulverization technology that uses pressurized CO₂ to"
+description: "Uses pressurized/transcritical CO₂ to fracture mining ore from within, cutting comminution energy while mineralizing CO₂ into tailings as stable carbonates."
 url: "/directory/rockburst-technologies/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBurst™, a transcritical CO₂ pulverization technology that uses pressurized CO₂ to fracture mining ore from within, cutting comminution energy by roughly 50% while mineralizing CO₂ into mine tailings (~160 kg CO₂ per tonne of nickel ore). The company is in prototype/R&D stage, received a $500K NorthX Climate Tech investment plus additional funding, and plans its first industrial pilot in 2027.
+Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBurst™, a transcritical CO₂ pulverization technology for mining comminution that permanently mineralizes CO₂ into mine tailings (~160 kg CO₂/tonne of nickel ore) while cutting grinding energy by ~50%. The company is in prototype/R&D stage, targeting a first industrial pilot in 2027, and received non-dilutive funding from NorthX Climate Tech in November 2025.
 
 ![Rockburst Technologies website](/screenshots/rockburst-technologies.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.rockburst.tech/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.rockburst.tech/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://foresightcac.com/article/rockburst-technologies-spotlight))

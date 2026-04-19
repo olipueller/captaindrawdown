@@ -2,7 +2,7 @@
 title: "Brineworks"
 layout: "single"
 type: "directory"
-description: "Brineworks is an Amsterdam-based climate technology company founded in 2023 by Gudfinnur Sveinsson and Dr. Joseph Perryman, developing Direct Air Capture and"
+description: "Electrolyzer uses saltwater and intermittent renewable electricity with no precious metals to produce acid and base, where the base captures CO₂ from air and the acid releases it for storage/use"
 url: "/directory/brineworks/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Brineworks is an Amsterdam-based climate technology company founded in 2023 by Gudfinnur Sveinsson and Dr. Joseph Perryman, developing Direct Air Capture and hydrogen co-production technologies to enable affordable e-Fuel production for hard-to-abate sectors like aviation and maritime. Its electrolyzer uses saltwater, intermittent electricity and zero precious metals to produce acid and base, where the base captures CO₂ from air into water and the acid liberates it for storage or utilization, co-producing H₂. In September 2025 the company secured €6.8 million in funding led by SeaX Ventures with participation from Pale Blue Dot, First Momentum, AiiM Partners, Energie360°, and Katapult, plus a €1.8 million EIC Accelerator grant to advance R&D and pilot deployment.
+Brineworks is an Amsterdam-based climate tech startup founded in 2023 by Gudfinnur Sveinsson and Dr. Joseph Perryman, developing a patented saltwater electrolyzer that drives ultra-low-cost Direct Air Capture while co-producing hydrogen. The CO₂ and H₂ outputs are intended for e-fuels (SAF, e-methanol) and carbon dioxide removal, with the company targeting pilot-scale commercial readiness by the end of 2026.
 
 ![Brineworks website](/screenshots/brineworks.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://brineworks.tech/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://brineworks.tech/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://brineworks.tech/))

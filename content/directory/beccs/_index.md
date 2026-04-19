@@ -2,25 +2,25 @@
 title: "BECCS — CDR Pathway"
 layout: "single"
 type: "directory"
-description: "Captain Drawdown's directory of all companies working on BECCS as a primary pathway. 86 companies tracked."
+description: "Captain Drawdown's directory of all companies working on BECCS as a primary pathway. 85 companies tracked."
 url: "/directory/beccs/"
 ---
 
-# BECCS — 86 Companies Tracked
+# BECCS — 85 Companies Tracked
 
 **Market pulse for BECCS (updated 2026-04-19).**
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">86</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">52</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">27</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">7</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num">85</span><span class="label">Companies</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">81</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">2</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">2</span><span class="label">🟠 Suspect</span></div>
   <div class="stat-box"><span class="num" style="color:#ef4444">0</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">110,173</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">77/86</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">110,168</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">76/85</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies

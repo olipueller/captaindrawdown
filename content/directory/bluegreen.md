@@ -2,7 +2,7 @@
 title: "BlueGreen"
 layout: "single"
 type: "directory"
-description: "BlueGreen Water Technologies is a US-headquartered (Israel R&D) environmental technology company that remediates harmful algal blooms in freshwater bodies. It"
+description: "Applies proprietary Lake Guard® algaecide formulations to freshwater bodies to kill harmful cyanobacterial blooms, which the company claims sequesters atmospheric CO2 into inert mineral form; sells"
 url: "/directory/bluegreen/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://bluegreenwatertech.com/" target="_blank" rel="noopener">https://bluegreenwatertech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bluegreen-water-tech/" target="_blank" rel="noopener">bluegreen-water-tech — 5,539 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~41 (+2% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-BlueGreen Water Technologies is a US-headquartered (Israel R&D) environmental technology company that remediates harmful algal blooms in freshwater bodies. It generates Net Blue carbon credits under the Social Carbon Foundation's SOCIALCARBON standard, with first issuance of ~12,913 tonnes in April 2024 and a Series B2 round in 2024 led by TAU Capital with OurCrowd. The company continues to publish peer-reviewed validation work as of late 2025.
+BlueGreen Water Technologies is a US-headquartered (Israel R&D) environmental technology company whose primary business is remediating harmful algal blooms in freshwater bodies using its EPA-registered Lake Guard® formulations and BGi monitoring platform. The company also generates Net Blue™ carbon credits under the SOCIALCARBON standard as an adjacent revenue stream, with first issuance of ~12,913 tonnes in April 2024. Recent activity in 2025 includes a Winrock International partnership, a Houston office opening, a new CIO appointment, and a peer-reviewed validation study.
 
 ![BlueGreen website](/screenshots/bluegreen.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=side_business liveliness=🟢 Active ([source](https://bluegreenwatertech.com/news))
 - **2026-04-19** — merged 1 duplicate(s): BlueGreen Water Technologies
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

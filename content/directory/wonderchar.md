@@ -2,7 +2,7 @@
 title: "Wonderchar"
 layout: "single"
 type: "directory"
-description: "Wonderchar Inc. is a Texas-based biochar producer that converts waste pecan shells into OMRI-certified biochar products (PecanChar Natural, LG+, Soil+,"
+description: "Pyrolyzes pecan shell (and softwood) waste biomass into graded biochar products for agricultural soil amendment and fertilizer blending."
 url: "/directory/wonderchar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Wonderchar Inc. is a Texas-based biochar producer that converts waste pecan shells into OMRI-certified biochar products (PecanChar Natural, LG+, Soil+, Powder+, EZ MIX, plus WoodChar Natural) for farmers, nurseries, landscapers and fertilizer manufacturers. Products are supplied in bulk bags and sacks for soil amendment, compost, turf and fertilizer blending, with long-term carbon sequestration via pyrolysis as a co-benefit.
+Wonderchar Inc. is a Texas-based biochar producer that converts waste pecan shells (and some softwood) into OMRI-certified biochar products for soil amendment, compost, turf and fertilizer blending. Products are offered in bulk bags and paper sacks under the PecanChar and WoodChar brands, with pyrolysis-based carbon sequestration as a core value proposition.
 
 ![Wonderchar website](/screenshots/wonderchar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.wonderchar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.wonderchar.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.linkedin.com/posts/tomasz-zukowski-0861b090_wonderchar-activity-7026224377029398528-ceUL))

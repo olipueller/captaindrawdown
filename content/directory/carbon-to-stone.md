@@ -2,7 +2,7 @@
 title: "Carbon To Stone"
 layout: "single"
 type: "directory"
-description: "Carbon To Stone (CTS) is a Cornell University spinout based in Ithaca, New York, developing a reactive crystallization technology that couples CO2 capture"
+description: "Reactive crystallization that mineralizes captured CO2 with alkaline industrial waste streams (slag, dross, tailings) into solid carbonates while recovering critical metals."
 url: "/directory/carbon-to-stone/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbontostone.com/" target="_blank" rel="noopener">https://carbontostone.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-to-stone/" target="_blank" rel="noopener">carbon-to-stone — 1,091 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbon To Stone (CTS) is a Cornell University spinout based in Ithaca, New York, developing a reactive crystallization technology that couples CO2 capture (from air or point sources) with mineralization using alkaline industrial waste streams such as steel slag, aluminum dross, and mine tailings. The process produces solid carbonates suitable for construction use while recovering energy-critical metals (Li, Co, Ni, Mg, etc.) as co-products, targeting hard-to-abate sectors like steel and aluminum. CTS holds a Frontier pre-purchase agreement for 1,269 tons and is backed by the C2V Initiative, Carbontech Development Initiative, and the DOE DAC Pre-Commercial Prize program.
+Carbon To Stone (CTS) is a Cornell University spinout in Ithaca, New York, commercializing a reactive crystallization process that couples CO2 capture (from air or point sources) with mineralization using alkaline industrial residues such as steel slag, aluminum dross, and mine tailings. The process produces solid carbonates for construction while recovering energy-critical metals, and targets the iron/steel and aluminum industries for its first pilots.
 
 ![Carbon To Stone website](/screenshots/carbon-to-stone.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbontostone.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbontostone.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbontostone.com/our-tech/))

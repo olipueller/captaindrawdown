@@ -2,7 +2,7 @@
 title: "Accend"
 layout: "single"
 type: "directory"
-description: "Accend advises companies with carbon-negative products on the CORC markets and offers a full-service process including pre-qualification, registration, life"
+description: "Accend is a Norway-based CDR consultancy and project developer providing ISO-compliant LCA services, Puro.earth CORC certification support, and credit brokerage for biochar and bio-based construction"
 url: "/directory/accend/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

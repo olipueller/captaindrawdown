@@ -2,10 +2,10 @@
 title: "Renewables Plus"
 layout: "single"
 type: "directory"
-description: "Renewables Plus Sdn. Bhd. (R+) is a Malaysian biomass gasification specialist and EPC contractor, incorporated in 2004, that builds Blue Flame™ downdraft"
+description: "Builds Blue Flame™ downdraft biomass gasification systems for energy recovery from agricultural residues (palm kernel shell, bamboo), producing syngas as primary product and biochar as a co-product."
 url: "/directory/renewables-plus/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Website</th><td><a href="https://www.renewablesplus.com/" target="_blank" rel="noopener">https://www.renewablesplus.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/renewables-plus/" target="_blank" rel="noopener">renewables-plus — 415 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~13</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Renewables Plus Sdn. Bhd. (R+) is a Malaysian biomass gasification specialist and EPC contractor, incorporated in 2004, that builds Blue Flame™ downdraft gasification systems for energy recovery from agricultural residues. Their technology powers Malaysia's first industrial biochar facility — the Bukit Selar Carbon Station operated by Carbon Plus — which produces biochar from bamboo and palm kernel shell and generates Puro.earth CORCs. R+ has completed gasification projects in six countries across ASEAN and West Asia.
+Renewables Plus Sdn Bhd (R+) is a Malaysian biomass gasification specialist and EPC contractor, incorporated in 2004, that builds Blue Flame™ downdraft gasification systems for energy recovery from agricultural residues across ASEAN and West Asia. Biochar is explicitly a by-product of their gasification process; their technology powers Carbon Plus's Bukit Selar Carbon Station (Malaysia's first industrial biochar facility), but Carbon Plus — not R+ — is the entity generating Puro.earth CORCs.
 
 ![Renewables Plus website](/screenshots/renewables-plus.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.renewablesplus.com/gasificationoverview/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.renewablesplus.com/about-us/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greenstories.org.uk/anthology-for-cop27/solutions/biochar/))

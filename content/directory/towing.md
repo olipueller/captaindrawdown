@@ -2,7 +2,7 @@
 title: "Towing"
 layout: "single"
 type: "directory"
-description: "TOWING is a Nagoya University spinout founded in February 2020 that develops Soratan, a high-performance biochar made from carbonized locally sourced biomass"
+description: "Produces Soratan, a near-neutral-pH biochar inoculated with beneficial microbes, made by pyrolyzing local biomass residues for soil application and carbon sequestration."
 url: "/directory/towing/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://towing.co.jp/" target="_blank" rel="noopener">https://towing.co.jp/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/towing-co-ltd/" target="_blank" rel="noopener">towing-co-ltd — 711 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~24 (+41% YoY)</td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-TOWING is a Nagoya University spinout founded in February 2020 that develops Soratan, a high-performance biochar made from carbonized locally sourced biomass enhanced with functional microbes, delivering increased yield, improved crop quality, and soil carbon sequestration when applied to farmland. In June 2023, a Soratan project was registered under Japan's J-Credit Scheme for "Biochar Application to Farmland" and has issued carbon credits three times. The company closed a Series B in May 2025 to expand Soratan production, distribution, and carbon credit generation, and has also partnered with Suntory, J-POWER, and Biocare.
+TOWING is a Nagoya University spinout founded in February 2020 that develops and sells Soratan, a high-performance biochar soil conditioner produced from carbonized local biomass and enhanced with microbes. Its Soratan projects are registered under Japan's J-Credit Scheme for biochar application to farmland, and the company has recent partnerships with Suntory (2025 pilot) and J-POWER (2025 investment), plus a global partnership with Biocare.
 
 ![Towing website](/screenshots/towing.png)
 
@@ -32,6 +32,7 @@ TOWING is a Nagoya University spinout founded in February 2020 that develops Sor
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.suntory.com/news/article/14813E.html))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.suntory.com/news/article/14813E.html))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.suntory.com/news/article/14813E.html))

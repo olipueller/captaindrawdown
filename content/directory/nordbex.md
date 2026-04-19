@@ -2,7 +2,7 @@
 title: "Nordbex"
 layout: "single"
 type: "directory"
-description: "Nordbex AB is a Swedish climate-tech company developing modular carbon-negative combined heat and power plants using bioenergy with carbon capture, utilization"
+description: "Develops modular combined heat-and-power plants that gasify forestry waste and capture up to 200,000 tCO2/year for permanent storage via Northern Lights/Greensand."
 url: "/directory/nordbex/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://nordbex.com/" target="_blank" rel="noopener">https://nordbex.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nordbex/" target="_blank" rel="noopener">nordbex — 1,112 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
   <tr><th>Employees</th><td>~9 (+12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Nordbex AB is a Swedish climate-tech company developing modular carbon-negative combined heat and power plants using bioenergy with carbon capture, utilization and storage (BECCUS). Its first facility, Nordbex 1, is scheduled to start operations in Sweden's SE4 region by 2029, converting forestry waste into electricity and district heat while capturing up to 200,000 tonnes of biogenic CO2 per year for transport to storage via Northern Lights or Project Greensand. The company works with Aker Solutions (EPCm) and Aker Carbon Capture (Just Catch 100 units).
+Nordbex AB is a Swedish climate-tech company developing BECCUS plants; its flagship Nordbex 1 facility, scheduled for the SE4 region in 2029, will convert forestry waste into electricity and district heat while capturing biogenic CO2. The company partnered with Aker Solutions in October 2025 as project developer, with a pipeline of replicable Bio-CCUS projects across Europe.
 
 ![Nordbex website](/screenshots/nordbex.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://nordbex.com/about-us/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://nordbex.com/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://nordbex.com/))

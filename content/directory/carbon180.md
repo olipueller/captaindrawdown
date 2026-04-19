@@ -2,7 +2,7 @@
 title: "Carbon180"
 layout: "single"
 type: "directory"
-description: "Carbon180 is a Washington, D.C.-based nonprofit, nonpartisan climate NGO founded in 2015 (formerly the Center for Carbon Removal) that advocates for federal"
+description: "Nonprofit policy advocacy, field-building, and regranting organization supporting carbon removal across all pathways; does not physically remove CO2."
 url: "/directory/carbon180/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

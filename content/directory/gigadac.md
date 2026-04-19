@@ -2,10 +2,10 @@
 title: "GigaDAC"
 layout: "single"
 type: "directory"
-description: "GigaDAC is a Houston, Texas-based direct air capture startup founded in 2022, spun out of Rice University and based at Greentown Labs Houston. The company uses"
+description: "Uses a proprietary liquid-spray airflow approach (instead of filters) that binds CO2 molecules and removes the spray from airflow, designed with aerospace engineering principles for low"
 url: "/directory/gigadac/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.gigadac.org/" target="_blank" rel="noopener">https://www.gigadac.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gigadac/" target="_blank" rel="noopener">gigadac — 250 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-GigaDAC is a Houston, Texas-based direct air capture startup founded in 2022, spun out of Rice University and based at Greentown Labs Houston. The company uses a proprietary liquid-spray approach instead of filters, claiming roughly six times better airflow efficiency, and was building a commercial-scale pilot targeted for early 2025. Co-founder Harrison Rice was still listed as CEO on the CERAWeek 2025 agenda, indicating continued operation, though the team remains small (~4 employees).
+GigaDAC (legal name Victory Over Carbon Inc.) is a Houston-based direct air capture startup founded in 2022, spun out of Rice University and incubated at Greentown Labs Houston. The company is developing a spray-based DAC process using aerospace engineering principles, targeting costs below $90/ton, and was building a commercial-scale pilot for 2025. Backed by the NSF and Greentown Labs.
 
 ![GigaDAC website](/screenshots/gigadac.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
 - **2026-04-19** — merged 1 duplicate(s): GigaDAC/Victory Over Carbon
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))

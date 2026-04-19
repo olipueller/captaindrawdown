@@ -2,7 +2,7 @@
 title: "LignoCarbon"
 layout: "single"
 type: "directory"
-description: "LignoCarbon Schweiz AG is a Swiss biochar producer based in Illnau-Effretikon (Zurich), founded in 2020 as a subsidiary of ZürichHolz AG. It operates what is"
+description: "Wood-chip pyrolysis producing EBC-certified biochar with waste-heat recovery into a district heating network."
 url: "/directory/lignocarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://lignocarbon.ch/" target="_blank" rel="noopener">https://lignocarbon.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lignocarbon-schweiz-ag/" target="_blank" rel="noopener">lignocarbon-schweiz-ag — 5 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-LignoCarbon Schweiz AG is a Swiss biochar producer based in Illnau-Effretikon (Zurich), founded in 2020 as a subsidiary of ZürichHolz AG. It operates what is described as Switzerland's largest wood-chip pyrolysis plant, producing EBC-certified biochar from local wood chips, with waste heat fed into a district heating network.
+LignoCarbon Schweiz AG is a Swiss biochar producer in Illnau-Effretikon, founded in 2020 as a subsidiary of timber company ZürichHolz AG. It operates a wood-chip pyrolysis plant producing EBC-certified biochar for agriculture, animal feed, soil improvement, and concrete additives, with waste heat fed into a district heating network.
 
 ![LignoCarbon website](/screenshots/lignocarbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://lignocarbon.ch/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://lignocarbon.ch/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://lignocarbon.ch/))

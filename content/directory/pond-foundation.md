@@ -2,7 +2,7 @@
 title: "Pond Foundation"
 layout: "single"
 type: "directory"
-description: "The Pond Foundation is a Swiss-registered non-profit (founded 2021 by Scott Poynton in Carouge/Gingins) that runs the \"My Carbon Zero\" initiative, offering ISO"
+description: "Non-profit providing GHG accounting/advisory services and a transparency verification platform (Earthtrust), brokering carbon removal credits from partner suppliers (e.g. biochar) to its corporate"
 url: "/directory/pond-foundation/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

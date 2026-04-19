@@ -2,7 +2,7 @@
 title: "Institute for Responsible Carbon Removal"
 layout: "single"
 type: "directory"
-description: "The Institute for Responsible Carbon Removal is an academic research center at American University's School of International Service in Washington, DC, founded"
+description: "University-based research center producing CDR policy, governance, and justice/equity research across pathways including mCDR, DAC, and nature-based approaches."
 url: "/directory/institute-for-responsible-carbon-removal/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

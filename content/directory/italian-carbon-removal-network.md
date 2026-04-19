@@ -2,7 +2,7 @@
 title: "Italian Carbon Removal Network"
 layout: "single"
 type: "directory"
-description: "The Italian Carbon Removal Network (Rete Italiana Rimozione Carbonio, RIRC) is Italy's first dedicated national carbon removal industry network, launched on 14"
+description: "National industry network/association coordinating Italian CDR stakeholders (startups, researchers, policymakers, investors) — not a technology developer or removal supplier itself."
 url: "/directory/italian-carbon-removal-network/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

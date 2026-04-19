@@ -2,7 +2,7 @@
 title: "Cool Effect Inc"
 layout: "single"
 type: "directory"
-description: "Cool Effect is a US-based 501(c)(3) nonprofit carbon credit marketplace headquartered in Greenbrae, California. The platform curates and sells vetted carbon"
+description: "Online nonprofit marketplace that curates, vets, and retails third-party carbon credits (both emission reductions and removals) to individual and corporate buyers."
 url: "/directory/cool-effect-inc/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,10 +2,10 @@
 title: "Clairity Technology"
 layout: "single"
 type: "directory"
-description: "Clairity Technology is a Los Angeles-based direct air capture startup founded in 2022 by former SpaceX engineer Glen Meyerowitz. The company uses low-cost"
+description: "Uses alkali carbonate sorbents on ceramic honeycomb monoliths to capture atmospheric CO2, then permanently sequesters it via ex-situ mineralization into concrete and other waste materials."
 url: "/directory/clairity-technology/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.clairitytech.com/" target="_blank" rel="noopener">https://www.clairitytech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clairity-tech/" target="_blank" rel="noopener">clairity-tech — 1,012 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-73% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Clairity Technology is a Los Angeles-based direct air capture startup founded in 2022 by former SpaceX engineer Glen Meyerowitz. The company uses low-cost alkali carbonate sorbents on ceramic honeycomb monoliths to capture atmospheric CO2, then permanently sequesters it via ex-situ mineralization into carbonated materials. Its pilot, Project Juniper in Southern Nevada, is sized at 100 tCO2/yr and is undergoing validation by Isometric, expected to produce the first independently verified DAC credits in North America.
+Clairity Technology is a Los Angeles-based direct air capture startup founded in 2022 by former SpaceX engineer Glen Meyerowitz. The company operates Project Juniper in North Las Vegas, Nevada — the first integrated DAC and storage project in the US — using low-cost carbonate sorbents and ex-situ mineralization. It raised $6.75M seed funding in 2024 from Lowercarbon Capital and Initialized Capital.
 
 ![Clairity Technology website](/screenshots/clairity-technology.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.fastcompany.com/91299835/in-las-vegas-a-former-spacex-engineer-is-pulling-co2-from-the-air-and-turning-it-into-concrete))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.businesswire.com/news/home/20250520800629/en/Cool-Effect-Adds-First-Direct-Air-Capture-Project-to-Portfolio-Following-Rigorous-Review))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.clairitytech.com/projects))

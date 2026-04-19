@@ -2,10 +2,10 @@
 title: "Woodcache"
 layout: "single"
 type: "directory"
-description: "Woodcache PBC is a U.S. public benefit corporation that buries waste woody biomass (from wildfire mitigation and forestry thinning) in engineered cold, dry,"
+description: "Buries unmerchantable waste woody biomass (wildfire-mitigation residues) in engineered cold, dry, anaerobic underground vaults with in-situ sensor-based MRV."
 url: "/directory/woodcache/"
 pathway: "Biomass Burial"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.woodcache.org/" target="_blank" rel="noopener">https://www.woodcache.org/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Woodcache PBC is a U.S. public benefit corporation that buries waste woody biomass (from wildfire mitigation and forestry thinning) in engineered cold, dry, anaerobic underground vaults for durable CO2 removal. They completed their first production-scale La Veta project in Huerfano County, Colorado in 2024 with support from a 4 Corners Carbon Removal grant, and sell Puro.earth-certified credits. A DOE grant is supporting infrastructure expansion to additional sites in Colorado, Utah, Arizona, and Mississippi.
+Woodcache PBC is a U.S. public benefit corporation (founded 2022, based in Provo, UT) that removes CO2 by burying waste woody biomass from wildfire-mitigation thinning in engineered underground vaults, with Puro.earth-certified credits. Its first production-scale project, La Veta in Huerfano County, Colorado, buried ~1,000+ tonnes of Lodgepole Pine and Aspen biomass in 2024 with a 4 Corners Carbon Removal Coalition grant, and it is scoping additional sites in Colorado, Utah, Arizona, and Mississippi. A DOE grant and forward credit pre-sales (e.g. via Lympha) support scale-up toward 100,000+ tonnes across planned batches.
 
 ![Woodcache website](/screenshots/woodcache.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.woodcache.org/))
 - **2026-04-19** — merged 1 duplicate(s): Woodcache PBC
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

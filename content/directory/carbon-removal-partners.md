@@ -2,7 +2,7 @@
 title: "Carbon Removal Partners"
 layout: "single"
 type: "directory"
-description: "Carbon Removal Partners (CRP) is a Zurich-based venture capital firm exclusively focused on investing in early-stage carbon dioxide removal technologies and"
+description: "Specialist venture capital firm investing in durable carbon removal technology startups and CDR value-chain companies across Europe and North America."
 url: "/directory/carbon-removal-partners/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

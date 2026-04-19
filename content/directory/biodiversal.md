@@ -2,7 +2,7 @@
 title: "Biodiversal"
 layout: "single"
 type: "directory"
-description: "Biodiversal is a Colombian regenerative-agriculture company that partners with smallholder coffee farmers to produce biochar from coffee tree pruning residues."
+description: "Trains smallholder Colombian coffee farmers to convert pruning and stumping biomass into biochar via artisanal pyrolysis kilns, applying the biochar as a soil amendment and issuing biochar carbon"
 url: "/directory/biodiversal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Colombia</td></tr>
   <tr><th>Website</th><td><a href="https://biodiversal.com/" target="_blank" rel="noopener">https://biodiversal.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biodiversal-biogrowth/" target="_blank" rel="noopener">biodiversal-biogrowth — 1,132 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~20 (+25% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Biodiversal is a Colombian regenerative-agriculture company that partners with smallholder coffee farmers to produce biochar from coffee tree pruning residues. Through its Coffee Biochar Project launched in 2024 with Planboo, it generates durable carbon removal credits while improving soil health; it sold its first 1,500 CDR credits in early 2025 and engages roughly 300–1,600 farmers across Colombia.
+Biodiversal is a Colombian regenerative agriculture company founded in 2018 that sells biostimulants and plant-nutrition products and provides technical assistance to smallholder coffee farmers. Since 2024 it has co-coordinated the Coffee Biochar Project with Planboo and Circular Agro, training farmers to pyrolyze coffee pruning residues into biochar and generating durable carbon removal credits endorsed by Carbon Standards International.
 
 ![Biodiversal website](/screenshots/biodiversal.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.biodiversal.com/en))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biodiversal.com/en))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://biodiversal.com/ ([source](https://www.cdr.fyi/supplier/biodiversal))

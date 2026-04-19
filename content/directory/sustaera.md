@@ -2,10 +2,10 @@
 title: "Sustaera"
 layout: "single"
 type: "directory"
-description: "Sustaera is a North Carolina-based Direct Air Capture startup (spun out of Susteon Inc. and founded in 2021) developing a low-cost, modular DAC system using"
+description: "Electro-thermal DAC using nano-structured alkali-based sorbents regenerated via integrated electric resistive heating, powered by renewable electricity."
 url: "/directory/sustaera/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.sustaera.com/" target="_blank" rel="noopener">https://www.sustaera.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sustaera/" target="_blank" rel="noopener">sustaera — 2,757 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Sustaera is a North Carolina-based Direct Air Capture startup (spun out of Susteon Inc. and founded in 2021) developing a low-cost, modular DAC system using natural-mineral sorbents and electric resistive heating. Backed by Breakthrough Energy Ventures, the Grantham Foundation, the U.S. DOE, and XPRIZE, the company announced a major efficiency breakthrough in March 2026, claiming 90%+ efficiency and a new technology licensing model targeting sub-$100/ton carbon removal.
+Sustaera is a North Carolina-based Direct Air Capture startup spun out of Susteon Inc. and founded in 2021, developing a modular DAC system using natural-mineral sorbents and integrated electric resistive heating. Backed by Breakthrough Energy Ventures, the Grantham Foundation, the U.S. DOE, and XPRIZE, the company announced a major efficiency breakthrough in March 2026, claiming 90%+ energy efficiency and a path to sub-$100/ton DAC. The company is pursuing a licensing model for project developers.
 
 ![Sustaera website](/screenshots/sustaera.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2026/03/09/3251955/0/en/DAC-Breakthrough-Unlocks-3x-Cheaper-Carbon-Removal-Projects.html))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.manilatimes.net/2026/03/09/tmt-newswire/globenewswire/dac-breakthrough-unlocks-3x-cheaper-carbon-removal-projects/2296131))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.sustaera.com/))

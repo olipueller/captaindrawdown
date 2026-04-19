@@ -2,7 +2,7 @@
 title: "ARC"
 layout: "single"
 type: "directory"
-description: "ARC (Amager Resource Center) is a Danish inter-municipal waste management company that owns and operates the Amager Bakke (CopenHill) waste-to-energy plant in"
+description: "Amine/solvent-based post-combustion carbon capture retrofit on the CopenHill waste-to-energy plant, capturing biogenic CO2 from combustion of organic waste fractions for geological storage."
 url: "/directory/arc/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://a-r-c.dk/" target="_blank" rel="noopener">https://a-r-c.dk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/amagerressourcecenter/" target="_blank" rel="noopener">amagerressourcecenter — 6,171 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~268 (+5% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-ARC (Amager Resource Center) is a Danish inter-municipal waste management company that owns and operates the Amager Bakke (CopenHill) waste-to-energy plant in Copenhagen. Through its CopenCapture partnership with E.ON, ARC is developing a full-scale CCS facility targeting up to 400,000–500,000 tonnes of CO2/year, with the biogenic share qualifying as BECCS and sellable as Carbon Removal Credits. The project is contingent on Denmark's CCS funding scheme, with prequalification submitted in March 2025.
+ARC (Amager Resource Center) is a Danish inter-municipal waste management company that owns and operates the Amager Bakke (CopenHill) waste-to-energy plant in Copenhagen. Together with E.ON under the CopenCapture partnership, ARC is developing a full-scale CCS facility on the plant's flue stack targeting ~400,000–500,000 tonnes CO2/year, with the biogenic portion qualifying as BECCS carbon removal. Waste management and district heating remain ARC's core business.
 
 ![ARC website](/screenshots/arc.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))

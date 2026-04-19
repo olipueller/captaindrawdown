@@ -2,7 +2,7 @@
 title: "RegenCo Group Ltd"
 layout: "single"
 type: "directory"
-description: "RegenCo is an Australian natural capital and carbon project developer based in Adelaide, South Australia. Founded in 2019, it partners with Australian"
+description: "Develops Human-Induced Regeneration (HIR) native-vegetation and beef cattle herd management carbon projects on Australian rangelands, generating ACCUs on behalf of landholders."
 url: "/directory/regenco-group-ltd/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://regenco.earth/" target="_blank" rel="noopener">https://regenco.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenco-earth/" target="_blank" rel="noopener">regenco-earth — 1,560 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~23 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-RegenCo is an Australian natural capital and carbon project developer based in Adelaide, South Australia. Founded in 2019, it partners with Australian landholders to develop Human-Induced Regeneration (HIR) native forest and beef cattle herd management projects under the ACCU scheme, with registered projects spanning roughly 4 million hectares. RegenCo manages project development, MRV, and credit marketing in return for a share of generated carbon credits.
+RegenCo is an Adelaide-based Australian natural capital and carbon project developer founded in 2019 that partners with landholders to develop HIR native forest regeneration and beef cattle herd management projects under the ACCU scheme. Following a 2024 merger with Revaia, the company manages over 6.5 million hectares of projects forecast to generate more than two million ACCUs annually. RegenCo handles project development, MRV, and credit marketing in return for a share of credits.
 
 ![RegenCo Group Ltd website](/screenshots/regenco-group-ltd.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://regenco.earth/who-we-are/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://regenco.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://regenco.earth/ ([source](https://www.cdr.fyi/supplier/regenco-group))

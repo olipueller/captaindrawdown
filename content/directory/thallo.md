@@ -2,7 +2,7 @@
 title: "Thallo"
 layout: "single"
 type: "directory"
-description: "Thallo is a London-based climate-tech startup founded in 2021 that provides a blockchain-powered carbon credit marketplace and API connecting project"
+description: "Blockchain-based carbon credit marketplace and API for buying, selling, tokenizing, and retiring verified carbon credits from multiple registries."
 url: "/directory/thallo/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,7 +2,7 @@
 title: "Chooose AS"
 layout: "single"
 type: "directory"
-description: "Chooose AS is an Oslo-based climate-tech SaaS company founded in 2017 that provides software, APIs, and a marketplace platform for enterprises — particularly"
+description: "SaaS platform and API providing emissions calculation, SAF program management, and a vetted marketplace of carbon removals and offsets for enterprises in aviation, travel and logistics."
 url: "/directory/chooose-as/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

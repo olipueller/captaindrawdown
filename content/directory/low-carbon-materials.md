@@ -2,10 +2,10 @@
 title: "Low Carbon Materials"
 layout: "single"
 type: "directory"
-description: "Low Carbon Materials (LCM) is a Durham University spin-out based in Seaham, UK, that designs and manufactures carbon-negative aggregates — OSTO® for concrete"
+description: "Manufactures biochar-mineral matrix aggregates (OSTO® for concrete, ACLA® for asphalt) that embed biogenic carbon permanently into construction materials as a drop-in replacement for traditional"
 url: "/directory/low-carbon-materials/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.lowcarbonmaterials.com/" target="_blank" rel="noopener">https://www.lowcarbonmaterials.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/spherauk/" target="_blank" rel="noopener">spherauk — 5,744 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~20</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Low Carbon Materials (LCM) is a Durham University spin-out based in Seaham, UK, that designs and manufactures carbon-negative aggregates — OSTO® for concrete and ACLA® for asphalt — built on a proprietary biochar-mineral matrix that locks biogenic carbon permanently into construction materials. The company closed a £3M growth round led by Ada Ventures (with Green Angel Ventures, Northstar Ventures, Innovate UK and Deloitte) and has deployed ACLA across 40+ infrastructure projects including the M11, A64 and A30 with National Highways, Skanska and Tarmac. LCM was a 2022 Earthshot Prize finalist.
+Low Carbon Materials (LCM) is a Durham University spin-out based in Seaham, UK, that manufactures carbon-negative aggregates — OSTO® for concrete and ACLA® for asphalt — using a proprietary biochar-mineral matrix that locks biogenic carbon permanently into construction materials. ACLA has an EPD-verified GWP of -798 kg CO2e/t and has been deployed on UK motorways (M11, A64, A30) and over 40 infrastructure projects. The company won the BE100 SCALE award at Blue Earth Summit 2025.
 
 ![Low Carbon Materials website](/screenshots/low-carbon-materials.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.lowcarbonmaterials.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.lowcarbonmaterials.com/acla))

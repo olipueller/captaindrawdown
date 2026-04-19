@@ -2,7 +2,7 @@
 title: "Engrow"
 layout: "single"
 type: "directory"
-description: "Engrow Carbon Energy Private Limited is an India-based biochar producer incorporated in 2019 and located in Erode, Tamil Nadu. The company converts"
+description: "Operates pyrolysis and gasification plants in Tamil Nadu that convert agricultural and woody biomass residues into biochar, bio-furnace oil, and carbon briquettes, with biochar carbon removal credits"
 url: "/directory/engrow/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://engrowfuels.com/" target="_blank" rel="noopener">https://engrowfuels.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/engrow-group/" target="_blank" rel="noopener">engrow-group — 507 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~14 (+27% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Engrow Carbon Energy Private Limited is an India-based biochar producer incorporated in 2019 and located in Erode, Tamil Nadu. The company converts agricultural and biomass residues into biochar, bio-furnace oil, and carbon briquettes via pyrolysis and gasification, and operates an integrated forestry-agri model with farmers in South India. It is named by the International Biochar Initiative among scaling biochar producers in India.
+Engrow Carbon Energy Private Limited is an Indian private limited company incorporated on May 23, 2019, registered in Erode, Tamil Nadu, with active status. Its product range includes bio-fuel, bio-char, and carbon removal credits, with a stated mission of transforming industrial biomass waste into clean energy and permanent carbon removal. It is listed by the International Biochar Initiative among biochar producers actively scaling projects across India and other regions.
 
 ![Engrow website](/screenshots/engrow.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://new.engrowfuels.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://engrowfuels.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://engrowfuels.com/))

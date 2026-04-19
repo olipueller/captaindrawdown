@@ -2,7 +2,7 @@
 title: "Verde Resources"
 layout: "single"
 type: "directory"
-description: "Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructure company that produces BioAsphalt™, a road paving material incorporating"
+description: "Produces BioAsphalt™, a cold-mix asphalt made from 100% reclaimed asphalt pavement blended with engineered biochar, turning roads into durable carbon sinks that generate Puro.earth biochar carbon"
 url: "/directory/verde-resources/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructure company that produces BioAsphalt™, a road paving material incorporating engineered biochar into cold-mix asphalt to turn roads into durable carbon sinks. The company generated the first-ever Puro.earth-verified carbon removal credits from an asphalt application (8 tons at the NCAT Test Track), and has since signed a 10-year exclusive commercialization agreement with Ergon Asphalt & Emulsions and a supply/credit agreement with Biochar Solutions LLC for up to 38,500 tons/year of engineered biochar.
+Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructure company developing BioAsphalt™, a biochar-enhanced cold-mix asphalt that sequesters carbon in road pavements. In December 2024 the company completed a proof-of-concept at the NCAT Test Track that produced the world's first Puro.earth-verified carbon removal credits from asphalt (8 tonnes), and in 2025–2026 it signed a 10-year exclusive commercialization agreement with Ergon Asphalt & Emulsions (plus a $2M strategic investment) and a biochar supply/credit-sharing deal with Biochar Solutions LLC for up to 38,500 tons/year.
 
 ![Verde Resources website](/screenshots/verde-resources.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/verde-developing-environmental-product-declaration-epd-for-its-engineered-biochar-in-road-materials-302742596.html))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/verde-developing-environmental-product-declaration-epd-for-its-engineered-biochar-in-road-materials-302742596.html))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/verde-secures-key-engineered-biochar-supply-and-carbon-credit-agreement-with-biochar-solutions-llc-302714164.html))

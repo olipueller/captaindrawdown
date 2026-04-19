@@ -2,10 +2,10 @@
 title: "ADNOC"
 layout: "single"
 type: "directory"
-description: "ADNOC is Abu Dhabi's state-owned energy and petrochemicals group that has entered CDR through its Low Carbon Solutions directorate and its $80B+ XRG investment"
+description: "State-owned oil & gas major investing in and co-developing megaton-scale DAC facilities (with Occidental/1PointFive) in the UAE and South Texas, with CO2 stored in saline aquifers via ADNOC's"
 url: "/directory/adnoc/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Arab Emirates</td></tr>
   <tr><th>Website</th><td><a href="https://www.adnoc.ae" target="_blank" rel="noopener">https://www.adnoc.ae</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adnoc/" target="_blank" rel="noopener">adnoc — 2,492,807 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~50026</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-ADNOC is Abu Dhabi's state-owned energy and petrochemicals group that has entered CDR through its Low Carbon Solutions directorate and its $80B+ XRG investment platform. It is co-developing DAC with Occidental/1PointFive (a preliminary engineering study for a megaton-scale UAE DAC facility, and a May 2025 Strategic DAC Framework Agreement to consider investing up to $500M in the South Texas DAC Hub), partners with 44.01 on CO2 mineralization, and operates Al Reyadah and the Habshan CCUS projects with DNV-certified saline aquifer storage at West Aquifer.
+ADNOC (Abu Dhabi National Oil Company) is the UAE's state-owned oil, gas, and petrochemicals group. Its CDR involvement is an adjacent activity pursued through its Low Carbon Solutions directorate and its $80B+ XRG investment arm, including a 2023 preliminary engineering study with Occidental/1PointFive for a megaton-scale UAE DAC facility and a May 2025 Strategic DAC Framework Agreement to consider investing up to $500M in 1PointFive's South Texas DAC Hub. CDR represents a small fraction of ADNOC's core hydrocarbons business.
 
 ![ADNOC website](/screenshots/adnoc.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.oxy.com/news/news-releases/occidental-and-adnocs-xrg-agree-to-evaluate-joint-venture-to-develop-south-texas-direct-air-capture-hub/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))

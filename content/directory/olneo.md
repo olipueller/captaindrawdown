@@ -2,7 +2,7 @@
 title: "OLNEO"
 layout: "single"
 type: "directory"
-description: "OLNEO is a Paris-based climate deeptech startup developing biochar-based carbon dioxide removal projects, initially rooted in Algeria with plans to expand"
+description: "Converts agricultural residues into certified biochar via pyrolysis for durable carbon sequestration, paired with soil-restoration benefits and digital MRV."
 url: "/directory/olneo/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -21,13 +21,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-OLNEO is a Paris-based climate deeptech startup developing biochar-based carbon dioxide removal projects, initially rooted in Algeria with plans to expand across Africa and the MENA region. The company converts local agricultural residues into certified biochar through pyrolysis, pairing soil restoration with durable carbon sequestration and digital MRV. It remains an early-stage operation with a small team.
+OLNEO is a Paris-based climate deeptech startup developing biochar carbon removal projects in Algeria, with plans to expand across Africa and the MENA region. The company is building Africa's scalable carbon-removal infrastructure using biochar, converting local agricultural residues into high-quality biochar. It is an early-stage, small-team operation.
 
 ![OLNEO website](/screenshots/olneo.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://olneo.green/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.olneo.green/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.instagram.com/olneo_green/))

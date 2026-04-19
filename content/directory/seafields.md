@@ -2,34 +2,35 @@
 title: "Seafields"
 layout: "single"
 type: "directory"
-description: "Seafields is a UK-based aquaculture company that intercepts and farms pelagic Sargassum seaweed in floating AlgaePonix paddocks, primarily deployed in the"
+description: "Farms and harvests pelagic Sargassum in floating AlgaePonix paddocks, processes it into bioproducts, bales and sinks surplus biomass to the deep-sea floor for carbon sequestration, and converts"
 url: "/directory/seafields/"
 pathway: "Ocean CDR"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Ocean CDR</td></tr>
-  <tr><th>Secondary pathways</th><td>Biochar, Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
   <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
-  <tr><th>Website</th><td><a href="https://www.seafields.eco/" target="_blank" rel="noopener">https://www.seafields.eco/</a></td></tr>
+  <tr><th>Website</th><td><a href="https://www.seafields.eco" target="_blank" rel="noopener">https://www.seafields.eco</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seafieldssl/" target="_blank" rel="noopener">seafieldssl — 2,369 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
   <tr><th>Employees</th><td>~20 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Seafields is a UK-based aquaculture company that intercepts and farms pelagic Sargassum seaweed in floating AlgaePonix paddocks, primarily deployed in the Caribbean. The company valorises the biomass into biostimulants, bioplastics and other bio-products, with unsold pulp converted to biochar and plans to sink baled Sargassum in ocean gyres for carbon removal.
+Seafields is a UK-based aquaculture carbon-removal company that intercepts, farms, and harvests pelagic Sargassum seaweed using floating AlgaePonix paddocks and SeaClear deflection barriers, primarily deployed in the Caribbean. The company valorises the biomass into biostimulants, bioplastics, and other bio-products, with unsold pulp converted to biochar through partners and long-term plans to bale and sink Sargassum in ocean gyres for permanent carbon sequestration.
 
 ![Seafields website](/screenshots/seafields.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seafields.eco))
 - **2026-04-19** — merged 1 duplicate(s): Seafields Solutions Limited
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

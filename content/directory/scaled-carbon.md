@@ -2,34 +2,35 @@
 title: "Scaled Carbon"
 layout: "single"
 type: "directory"
-description: "Scaled Carbon is an early-stage US-based marine CDR developer working on a novel tracer-based MRV approach for ocean alkalinity enhancement. The company states"
+description: "Grinds silicate rock into sand and adds it to the ocean (oceanic enhanced weathering / OAE) with a proprietary tracer-based MRV method to quantify CO2 removal."
 url: "/directory/scaled-carbon/"
 pathway: "Ocean CDR"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Ocean CDR</td></tr>
-  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Enhanced Weathering</td></tr>
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://scaledcarbon.com/" target="_blank" rel="noopener">https://scaledcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scaled-carbon/" target="_blank" rel="noopener">scaled-carbon — 51 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Scaled Carbon is an early-stage US-based marine CDR developer working on a novel tracer-based MRV approach for ocean alkalinity enhancement. The company states it is actively fundraising and working toward an in-ocean pilot deployment. It appears to be a very small (solo-founder-scale) outfit with no registry-issued credits to date.
+Scaled Carbon is an early-stage US-based marine CDR developer focused on oceanic enhanced weathering (a form of ocean alkalinity enhancement) using a novel tracer-based MRV approach. The company states it is actively fundraising and working toward an in-ocean pilot, and appears to be a solo-founder-scale outfit with no registry-issued credits to date.
 
 ![Scaled Carbon website](/screenshots/scaled-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://scaledcarbon.com/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://scaledcarbon.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://scaledcarbon.com/))

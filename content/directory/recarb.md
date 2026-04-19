@@ -2,7 +2,7 @@
 title: "recarb"
 layout: "single"
 type: "directory"
-description: "recarb is a Hamburg-based nature-tech company founded in 2022 that provides a digital due diligence, risk assessment, and rating platform for nature-based"
+description: "Digital risk-assessment and rating platform that performs due diligence on reforestation/afforestation project developers using 200+ scientific criteria and proprietary sequestration modeling across"
 url: "/directory/recarb/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

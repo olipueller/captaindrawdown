@@ -2,33 +2,34 @@
 title: "Terrafront"
 layout: "single"
 type: "directory"
-description: "Terrafront Ventures develops climate change adaptation and mitigation infrastructure in South Asia and Africa, operating Terrachar (biochar), Terraroots"
+description: "Develops biochar production from agricultural residues plus agroforestry/reforestation projects with smallholder farmers in India and Africa, integrating dMRV, IoT and remote sensing."
 url: "/directory/terrafront/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
-  <tr><th>Secondary pathways</th><td>Afforestation, Enhanced Weathering</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terrafront.com/" target="_blank" rel="noopener">https://terrafront.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terrafront/" target="_blank" rel="noopener">terrafront</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Terrafront Ventures develops climate change adaptation and mitigation infrastructure in South Asia and Africa, operating Terrachar (biochar), Terraroots (agroforestry/reforestation under Verra VM47 and Gold Standard ARR methodologies), and TerraRevive (regenerative agriculture). They collaborate with Carboneers to process agricultural residues into biochar and heat, working with rice, cotton and maize farmers in Odisha, Assam, and Nagaland, with projects registered on Isometric.
+Terrafront Ventures develops carbon removal infrastructure in South Asia and Africa through three programs: Terrachar (biochar from agricultural residues), Terraroots (agroforestry/reforestation under Verra VM47 and Gold Standard ARR), and TerraRevive (regenerative agriculture). They partner with Carboneers on biochar projects with rice, cotton and maize farmers in Indian regions including Odisha, Assam, and Nagaland, and joined Carbon Standards International's Global Artisan C-Sink as a dMRV provider in 2025.
 
 ![Terrafront website](/screenshots/terrafront.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafront.com/))
 - **2026-04-19** — merged 1 duplicate(s): Terrafront Ventures
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

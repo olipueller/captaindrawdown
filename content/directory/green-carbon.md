@@ -2,7 +2,7 @@
 title: "Green Carbon"
 layout: "single"
 type: "directory"
-description: "Green Carbon Inc. is a Tokyo-based developer of nature-based carbon credits founded in December 2019, operating across Japan, Southeast Asia, Australia, and"
+description: "Develops biochar CDR projects (pyrolysis of agricultural residues) via partnerships with plant manufacturers in India and Thailand, alongside a larger portfolio of non-CDR nature-based credits (rice"
 url: "/directory/green-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://green-carbon.co.jp/" target="_blank" rel="noopener">https://green-carbon.co.jp/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/green-carbon-inc/" target="_blank" rel="noopener">green-carbon-inc — 7,158 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~149 (+314% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Green Carbon Inc. is a Tokyo-based developer of nature-based carbon credits founded in December 2019, operating across Japan, Southeast Asia, Australia, and South America. Its CDR-relevant activity centers on industrial-scale biochar projects, including partnerships with Excellent Enfab (India) targeting Isometric-certified biochar carbon removal (~18,000 t CO2/yr per plant), The Varhad Group (India) targeting Puro.earth certification, and MOUs with the Rubber Authority of Thailand and Living Roots for biochar from rubber-tree residues. The company also develops agricultural J-Credits (rice paddy AWD, livestock methane) which are non-CDR.
+Green Carbon Inc. is a Tokyo-based nature-based carbon credit project developer founded in December 2019, operating across Japan, Southeast Asia, Australia, and South America. Its primary business is rice paddy methane reduction (AWD) credits, but it also develops biochar CDR projects targeting Puro.earth certification, including partnerships with The Varhad Group in India (targeting ~110,000 t CO2 per plant over 15 years) and Living Roots for 3,000+ t/year of biochar in Thailand. The company also offers the Agreen credit-registration platform and GreenChecker AI quality-assessment tool.
 
 ![Green Carbon website](/screenshots/green-carbon.png)
 
@@ -33,6 +33,7 @@ Green Carbon Inc. is a Tokyo-based developer of nature-based carbon credits foun
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://green-carbon.co.jp/en/enindia-biochar/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://green-carbon.co.jp/en/excellent-enfab-incorporation/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://green-carbon.co.jp/en/excellent-enfab-incorporation/))

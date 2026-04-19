@@ -2,7 +2,7 @@
 title: "Creturner"
 layout: "single"
 type: "directory"
-description: "Creturner Group AB is a Swedish environmental-technology company headquartered in Smedjebacken that produces carbon removal credits by converting wood-based"
+description: "Converts residual wood biomass into biochar (Biochar Carbon Removal / bio-CCS) at a facility in Smedjebacken, Sweden, storing the carbon for permanent CO2 removal credits."
 url: "/directory/creturner/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -23,13 +23,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Creturner Group AB is a Swedish environmental-technology company headquartered in Smedjebacken that produces carbon removal credits by converting wood-based residual biomass into biochar/carbon, which is deposited in end-of-life mining pits for permanent storage (a process it markets as Bio-CCS / Biochar Carbon Removal). The company is publicly listed on NGM Nordic SME in Stockholm and the Stuttgart Stock Exchange, and also operates a separate HPC/data-center business line. As of August 2025 its shares were placed under observation status due to material uncertainty about its financial situation and repeated postponement of the 2024 annual report.
+Creturner Group AB is a publicly listed Swedish environmental technology group with two business areas: a digital/high-performance-computing division and an environmental division that offers corporate customers a permanent offsetting method based on Biochar Carbon Removal (BCR), converting residual biomass into carbon for storage. The company is listed on NGM Nordic SME in Stockholm and on the Stuttgart Stock Exchange in Germany. The firm is headquartered in Smedjebacken, Sweden and remains operationally active as of early 2026.
 
 ![Creturner website](/screenshots/creturner.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.inderes.dk/en/releases/notice-of-annual-general-meeting-of-creturner-group-ab))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.creturner.com/))

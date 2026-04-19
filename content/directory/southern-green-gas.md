@@ -2,7 +2,7 @@
 title: "Southern Green Gas"
 layout: "single"
 type: "directory"
-description: "Southern Green Gas (SGG) is an Australian DAC technology developer founded in 2018, headquartered in Southbank, Victoria. The company builds modular, 100%"
+description: "Develops modular, solar-powered direct air capture units using metal-organic framework (MOF) sorbents for CO2 removal and e-fuel feedstock."
 url: "/directory/southern-green-gas/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.southerngreengas.com.au/" target="_blank" rel="noopener">https://www.southerngreengas.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/southern-green-gas/" target="_blank" rel="noopener">southern-green-gas — 891 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Southern Green Gas (SGG) is an Australian DAC technology developer founded in 2018, headquartered in Southbank, Victoria. The company builds modular, 100% solar-powered DAC units using MOF sorbents and partners with Corporate Carbon and AspiraDAC on pilot projects targeting both sequestration and e-fuels pathways. The firm has raised ~$3.9M and was an XPRIZE Carbon Removal Milestone Award finalist.
+Southern Green Gas (SGG) is an Australian company extracting CO2 from air using solar power, with modules that use adsorbent material to capture CO2 and solar-generated heat to release it. Based in Southbank, Victoria, it has partnered with AspiraDAC and Corporate Carbon on solar-powered DAC modules and targets both sequestration and e-fuels (SAF/e-kerosene) applications. The company is headquartered in Southbank, Australia, has 5 employees, and has raised $3.9M.
 
 ![Southern Green Gas website](/screenshots/southern-green-gas.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://southerngreengas.com.au/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://southerngreengas.com.au/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://southerngreengas.com.au/news/southern-green-gas-secures-22m-order-to-develop-renewable-methane-demonstration-project))

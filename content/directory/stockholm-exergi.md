@@ -2,7 +2,7 @@
 title: "Stockholm Exergi"
 layout: "single"
 type: "directory"
-description: "Stockholm Exergi is a Swedish municipal energy utility (owned by the City of Stockholm and a pension-fund consortium) building one of the world's first"
+description: "Adding post-combustion carbon capture (Capsol HPC technology) to an existing biomass-fired CHP plant, with CO2 transported and stored permanently sub-seabed via Northern Lights."
 url: "/directory/stockholm-exergi/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -16,18 +16,19 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stockholm-exergi/" target="_blank" rel="noopener">stockholm-exergi — 19,652 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
   <tr><th>Employees</th><td>~826 (+12% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Stockholm Exergi is a Swedish municipal energy utility (owned by the City of Stockholm and a pension-fund consortium) building one of the world's first large-scale BECCS facilities at its Värtaverket biomass CHP plant. FID was reached in March 2025 with Capsol Technologies providing HPC-based capture technology, Saipem as EPC contractor, and Skanska performing groundworks; operations targeted for 2028 at up to 800,000 tCO2/yr, with offtake from Microsoft and Frontier, EUR 180M from the EU Innovation Fund, and ~SEK 20B in Swedish state support.
+Stockholm Exergi is the municipal energy utility for the Stockholm region, providing district heating, electricity, cooling and waste services to over 800,000 residents via a large district-heating network. It is building Beccs Stockholm at its Värtaverket biomass CHP plant — one of the world's first large-scale BECCS facilities — with FID taken in March 2025, construction underway, and 800,000 t CO2/yr removal targeted from 2028, backed by Microsoft and Frontier offtakes, an EU Innovation Fund grant, SEK 20 billion in Swedish state support, and a €260 million EIB loan.
 
 ![Stockholm Exergi website](/screenshots/stockholm-exergi.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/stockholm-exergi-takes-final-investment-decision-on-worlds-first-large-scale-beccs-project-using-capsols-carbon-capture-technology-302413620.html))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/stockholm-exergi-takes-final-investment-decision-on-worlds-first-large-scale-beccs-project-using-capsols-carbon-capture-technology-302413617.html))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.stockholmexergi.se/en/beccs/))

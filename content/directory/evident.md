@@ -2,7 +2,7 @@
 title: "Evident"
 layout: "single"
 type: "directory"
-description: "Evident is a Sheffield, UK-based certification and registry provider, best known for operating the I-REC(E) renewable energy certificate registry in over 140"
+description: "Operates the C-Capsule registry and standard that issues tradable Carbon Removal Units (CRUs) for independently-verified durable CDR activity, under the I-TRACK Foundation's International Attribute"
 url: "/directory/evident/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

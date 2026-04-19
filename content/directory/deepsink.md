@@ -2,7 +2,7 @@
 title: "Deepsink"
 layout: "single"
 type: "directory"
-description: "Deepsink is a UK-based fractional sales and commercialization service for engineered carbon dioxide removal projects, helping CDR developers connect with"
+description: "Fractional commercial/sales service for engineered CDR project developers, acting as an outsourced offtake/business-development function rather than performing removals."
 url: "/directory/deepsink/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "CO2Re"
 layout: "single"
 type: "directory"
-description: "CO₂RE is the UK's national research hub on Greenhouse Gas Removal, led by the Smith School, University of Oxford. It conducts research, co-ordinates"
+description: "Academic research hub at Oxford's Smith School coordinating the UKRI GGR Demonstrators Programme, publishing evaluation frameworks, policy briefings and cost analyses across biochar, ERW, BECCS,"
 url: "/directory/co2re/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

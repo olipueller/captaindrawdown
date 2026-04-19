@@ -2,10 +2,10 @@
 title: "Mast Reforestation"
 layout: "single"
 type: "directory"
-description: "Seattle-based Mast Reforestation is a North American post-wildfire reforestation company that generates durable CDR credits via biomass burial. Its MT1 project"
+description: "Buries wildfire-killed trees in engineered anoxic underground chambers (Terrestrial Storage of Biomass) combined with post-wildfire reforestation, generating durable Puro.earth CORC credits."
 url: "/directory/mast-reforestation/"
 pathway: "Biomass Burial"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,14 +16,14 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.mastreforest.com/" target="_blank" rel="noopener">https://www.mastreforest.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/droneseed/" target="_blank" rel="noopener">droneseed — 18,143 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~43</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Seattle-based Mast Reforestation is a North American post-wildfire reforestation company that generates durable CDR credits via biomass burial. Its MT1 project in Montana received Puro.earth certification for 4,277 carbon removal credits from the burial of more than 10 million pounds of wildfire-killed trees in an engineered underground chamber, and the company was recognized as one of Fast Company's Most Innovative Companies of 2026 and MT1 received an A rating from BeZero Carbon.
+Mast Reforestation is a Seattle-based post-wildfire reforestation and CDR company that produces durable carbon removal credits via biomass burial of fire-killed trees. Its MT1 project in Montana delivered 4,277 Puro.earth-certified credits in January 2026 — the largest issuance to date under Puro's Terrestrial Storage of Biomass methodology — and sold out within six weeks to buyers including RBC, Bain, BMO, and CNaught. The company also operates Silvaseed and Cal Forest nurseries and plans to scale to 150,000 tonnes/year by 2030.
 
 ![Mast Reforestation website](/screenshots/mast-reforestation.png)
 
@@ -34,6 +34,7 @@ Seattle-based Mast Reforestation is a North American post-wildfire reforestation
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.mastreforest.com/insights/mast-sells-and-delivers))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-and-delivers-market-first-biomass-burial-credits-to-royal-bank-of-canada-cnaught-and-others-302673476.html))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.mastreforest.com/insights/mast-sells-and-delivers))

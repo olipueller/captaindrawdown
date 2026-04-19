@@ -2,7 +2,7 @@
 title: "Oncra"
 layout: "single"
 type: "directory"
-description: "Oncra (Open Natural Carbon Removal Accounting) is a carbon-removal certification framework developed by the Netherlands-based Climate Cleanup Foundation. It"
+description: "Open-source MRV, certification standard, and registry framework for nature-based carbon removal credits, with associated Onsets.org marketplace."
 url: "/directory/oncra/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

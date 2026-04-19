@@ -2,7 +2,7 @@
 title: "BlueShift"
 layout: "single"
 type: "directory"
-description: "BlueShift is a Cambridge, Massachusetts startup founded in 2024 developing a membrane-free electrochemical system that simultaneously extracts critical"
+description: "Membrane-free redox electrochemical process that processes alkaline industrial waste and seawater to extract critical minerals/REEs while mineralizing dissolved CO2 into carbonates, returning"
 url: "/directory/blueshift/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.buildblueshift.com/" target="_blank" rel="noopener">https://www.buildblueshift.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/buildblueshift/" target="_blank" rel="noopener">buildblueshift — 857 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
   <tr><th>Employees</th><td>~6</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-BlueShift is a Cambridge, Massachusetts startup founded in 2024 developing a membrane-free electrochemical system that simultaneously extracts critical minerals and rare earth elements from industrial waste and removes CO2 from seawater as carbonate. The company exited stealth in March 2025 with $2.1M pre-seed funding from ConocoPhillips, Ridgeline, and MassCEC, and is building a pilot facility in Boston Harbor co-located with coal and desalination infrastructure. It operates out of Greentown Labs and The Engine (MIT), with technology co-developed with the University of Michigan and Harvard.
+BlueShift is a Cambridge, Massachusetts startup founded in 2024 developing a membrane-free redox-based electrochemical system that extracts critical minerals and rare earth elements from industrial waste (mine tailings, coal fly ash) while simultaneously mineralizing CO2 from seawater into carbonates. The company exited stealth in March 2025 with $2.1M pre-seed funding from ConocoPhillips, Ridgeline, and MassCEC, and is building a pilot facility at Boston Harbor with a one-ton-per-year nickel/REE target by Q2 2026.
 
 ![BlueShift website](/screenshots/blueshift.png)
 
@@ -34,6 +34,7 @@ BlueShift is a Cambridge, Massachusetts startup founded in 2024 developing a mem
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.buildblueshift.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.buildblueshift.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.buildblueshift.com/))

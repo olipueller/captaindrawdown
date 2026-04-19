@@ -2,7 +2,7 @@
 title: "Decarbon"
 layout: "single"
 type: "directory"
-description: "Decarbontek, Inc. is a Massachusetts-based climate tech startup founded by Dr. Yong Ding that develops solid fiber adsorbents (including a proprietary MOF,"
+description: "Manufactures solid MOF-based fiber sorbents (DCF-1) and modular structured contactor modules for point-source CO2 capture and direct air capture."
 url: "/directory/decarbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"

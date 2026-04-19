@@ -2,7 +2,7 @@
 title: "Biocarbon Tech Asia"
 layout: "single"
 type: "directory"
-description: "Biocarbon Tech Asia is listed as a biochar supplier on Puro.earth with a planned production facility in Malaysia, targeting CORC 100+ durability credits."
+description: "Plans to pyrolyze biomass (likely agricultural residues) into biochar for permanent carbon sequestration, credited via the Puro.earth CORC 100+ methodology."
 url: "/directory/biocarbon-tech-asia/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
@@ -12,19 +12,20 @@ liveliness: "🟠 Suspect"
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Malaysia</td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 25/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Biocarbon Tech Asia is listed as a biochar supplier on Puro.earth with a planned production facility in Malaysia, targeting CORC 100+ durability credits. According to the Puro listing, the project is in early development with 0 CORCs issued and feasibility/implementation work still ongoing. There is no independent website, news coverage, or other public footprint for the company beyond the Puro supplier page.
+Biocarbon Tech Asia is a biochar carbon removal supplier listed on Puro.earth, targeting CORC 100+ durability credits from a planned facility in Malaysia. According to the Puro.earth listing, the project remains in early development with feasibility work ongoing and construction in progress, with zero CORCs issued to date. The company has no independent website or news footprint beyond the Puro.earth supplier page.
 
 ![Biocarbon Tech Asia website](/screenshots/biocarbon-tech-asia.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))

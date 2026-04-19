@@ -2,7 +2,7 @@
 title: "Sylva Fertilis"
 layout: "single"
 type: "directory"
-description: "Sylva Fertilis is a French biochar manufacturer based in Argentan, Normandy, part of the SLB Group forestry consortium. The company produces biochar via slow"
+description: "Slow pyrolysis of French wood pellets from sustainably-managed forests to produce high-carbon biochar (>90% C) sold as soil amendment, with Puro.earth CORC credits."
 url: "/directory/sylva-fertilis/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,14 +14,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://terrafertilis.com/" target="_blank" rel="noopener">https://terrafertilis.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-fertilis/" target="_blank" rel="noopener">terra-fertilis — 3,564 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~9 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Sylva Fertilis is a French biochar manufacturer based in Argentan, Normandy, part of the SLB Group forestry consortium. The company produces biochar via slow pyrolysis of sustainably-sourced French wood, and sells soil amendment products under the Terra Fertilis brand to agriculture, viticulture, municipalities, and golf courses. They are Puro.earth certified and in 2024 consolidated the Group's biochar activities under the newly created Sylva Fertilis International entity.
+Sylva Fertilis is a French biochar producer based in Argentan, Normandy, operating as part of the SLB Group forestry consortium. The company produces biochar via slow pyrolysis of sustainably-sourced French wood pellets and sells it as a soil amendment under the Terra Fertilis brand to agriculture, viticulture, municipalities, forestry, and golf courses. They are Puro.earth certified and in 2024 consolidated Group biochar activities into Sylva Fertilis International.
 
 ![Sylva Fertilis website](/screenshots/sylva-fertilis.png)
 
@@ -31,6 +31,7 @@ Sylva Fertilis is a French biochar manufacturer based in Argentan, Normandy, par
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-04-19** — merged 2 duplicate(s): Terra fertilis, Terra Fertilis | Sylva Fertilis
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

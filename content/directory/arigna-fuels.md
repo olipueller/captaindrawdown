@@ -2,10 +2,10 @@
 title: "Arigna Fuels"
 layout: "single"
 type: "directory"
-description: "Arigna Fuels is an Irish fifth-generation family-run firm (part of Arigna Group) that transitioned from smokeless coal manufacturing into biochar production."
+description: "Operates a ~70,000 tpa pyrolysis plant in Co. Roscommon producing biochar from biomass feedstocks, used both as soil amendment/carbon sequestration and as input to their Harvest Flame renewable solid"
 url: "/directory/arigna-fuels/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,19 +13,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://arignafuels.ie/" target="_blank" rel="noopener">https://arignafuels.ie/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Arigna Fuels is an Irish fifth-generation family-run firm (part of Arigna Group) that transitioned from smokeless coal manufacturing into biochar production. It operates what has been described as one of Europe's largest biochar production facilities in Co. Roscommon, with output used for horticulture, agriculture, construction, carbon sequestration, and as the basis for its Harvest Flame renewable solid fuel.
+Arigna Fuels is a fifth-generation Irish family-run solid fuel manufacturer (part of Arigna Group) historically known for smokeless coal brands Ecobrite and Cosyglo. In 2023 they commissioned one of Europe's largest biochar plants in Co. Roscommon, using pyrolysis to produce biochar for agriculture, carbon sequestration, and as feedstock for their Harvest Flame renewable biomass heating product. Solid fuel remains a core business alongside the biochar activities.
 
 ![Arigna Fuels website](/screenshots/arigna-fuels.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://arignafuels.ie/biochar/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://arigna-group.com/transitioning-from-black-to-green/))

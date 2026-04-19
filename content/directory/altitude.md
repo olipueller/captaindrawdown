@@ -2,7 +2,7 @@
 title: "Altitude"
 layout: "single"
 type: "directory"
-description: "Altitude is a Switzerland-based carbon removal financier that provides structured offtake and financing to CDR suppliers, primarily biochar developers, via its"
+description: "CDR offtake financier deploying structured capital to purchase Puro.earth-certified biochar CORCs from project developers in the Global South."
 url: "/directory/altitude/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

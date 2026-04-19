@@ -2,7 +2,7 @@
 title: "Carbon Containment Lab"
 layout: "single"
 type: "directory"
-description: "Carbon Containment Lab is a 501(c)(3) climate nonprofit supporting the design, testing, and implementation of novel and neglected climate solutions, bringing"
+description: "Independent nonprofit R&D lab that researches, pilots, and supports scaling of novel/neglected CDR and super-pollutant mitigation approaches (BiCRS, ex-situ mineralization, HFC recovery, methane"
 url: "/directory/carbon-containment-lab/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

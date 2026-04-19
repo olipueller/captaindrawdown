@@ -2,7 +2,7 @@
 title: "Rainforest Builder"
 layout: "single"
 type: "directory"
-description: "Rainforest Builder is a UK-headquartered tropical forest restoration company founded in 2022, operating four large-scale reforestation projects in Sierra"
+description: "Tropical reforestation at scale in West Africa (Sierra Leone, Ghana, Guinea), planting native species to restore degraded Upper Guinean Forest and generate durable carbon removal credits."
 url: "/directory/rainforest-builder/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.rainforestbuilder.com" target="_blank" rel="noopener">https://www.rainforestbuilder.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rainforest-builder/" target="_blank" rel="noopener">rainforest-builder — 6,791 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 96/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~111 (+127% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Rainforest Builder is a UK-headquartered tropical forest restoration company founded in 2022, operating four large-scale reforestation projects in Sierra Leone, Ghana and Guinea within the Upper Guinean Forest ecoregion and employing over 2,500 people. In February 2026 it signed a 15-year, 1.8M-credit carbon removal offtake with Microsoft from Project Buffalo (Sierra Leone), and in March 2026 closed a Series A led by BNP Paribas AM Alts with parallel project financing for Project Colobus in Ghana.
+Founded in 2022, Rainforest Builder is a fully integrated tropical forest restoration company with operations in Sierra Leone, Ghana and Guinea, employing more than 2,500 people. In February 2026 it signed an offtake agreement with Microsoft for Project Buffalo in Sierra Leone, delivering up to 1.8 million carbon removal credits over 15 years, and in March 2026 closed a Series A led by BNPP AM Alts to scale operations and its Chameleon data platform.
 
 ![Rainforest Builder website](/screenshots/rainforest-builder.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.rainforestbuilder.com/post/rainforest-builder-sells-carbon-removal-credits-to-microsoft-from-project-buffalo-in-sierra-leone))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.rainforestbuilder.com/post/rainforest-builder-sells-carbon-removal-credits-to-microsoft-from-project-buffalo-in-sierra-leone))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.rainforestbuilder.com/post/rainforest-builder-sells-carbon-removal-credits-to-microsoft-from-project-buffalo-in-sierra-leone))

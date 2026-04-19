@@ -2,7 +2,7 @@
 title: "Desired Future Conditions"
 layout: "single"
 type: "directory"
-description: "Desired Future Conditions, PBC (DFC) is a U.S. public benefit corporation producing premium in-woods biochar and nature-based carbon solutions for working"
+description: "DFC produces in-woods biochar from forest slash and logging residues using air curtain burners with continuous biochar production, selling physical biochar and associated CDR credits."
 url: "/directory/desired-future-conditions/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -21,13 +21,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Desired Future Conditions, PBC (DFC) is a U.S. public benefit corporation producing premium in-woods biochar and nature-based carbon solutions for working forests in North America. The company partners with landowners to produce biochar from woody forest residues at in-woods production sites, selling physical biochar as an agricultural soil amendment and associated carbon removal credits while supporting sustainable forest management and wildfire resilience.
+Desired Future Conditions, PBC (DFC) is a U.S. public benefit corporation producing premium in-woods biochar and nature-based carbon solutions for working forests in North America. The company pyrolyzes clean biomass (forest slash, logging residues, and cull timber) in air curtain burners with built-in continuous biochar production features, producing high-carbon biochar for soil applications. DFC partners with landowners to generate both biochar product revenue and carbon removal credits.
 
 ![Desired Future Conditions website](/screenshots/desired-future-conditions.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.dfconditions.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.dfconditions.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.dfconditions.com/))

@@ -2,7 +2,7 @@
 title: "Econew"
 layout: "single"
 type: "directory"
-description: "Econew is a Brazilian clean bioenergy company located in northern Minas Gerais that produces biochar through continuous pyrolysis of FSC®/PEFC-certified"
+description: "Continuous slow pyrolysis of FSC/PEFC-certified eucalyptus residues into biochar, alongside the company's core hardwood charcoal briquette manufacturing."
 url: "/directory/econew/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://econew.net" target="_blank" rel="noopener">https://econew.net</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/econew/" target="_blank" rel="noopener">econew — 1,222 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+20% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Econew is a Brazilian clean bioenergy company located in northern Minas Gerais that produces biochar through continuous pyrolysis of FSC®/PEFC-certified eucalyptus residues. Each ton of verified CO₂ removal is issued as a carbon credit on the voluntary market. The company installed what it describes as Brazil's largest biochar production reactor in late 2024.
+Econew is a Brazilian bioenergy company in northern Minas Gerais whose core business is producing hardwood charcoal briquettes from eucalyptus for industrial heating, grilling and steam boilers. In late 2024 it installed a large continuous pyrolysis reactor to add biochar as an adjacent climate-positive product line, and has passed a preliminary Puro.earth assessment toward issuing CORCs. Biochar is a side activity alongside the established briquette business.
 
 ![Econew website](/screenshots/econew.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://econew.net/en/about-us/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://econew.net/en/carbon-credits/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://econew.net/en/carbon-credits/))

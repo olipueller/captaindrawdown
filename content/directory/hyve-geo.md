@@ -2,7 +2,7 @@
 title: "Hyve Geo"
 layout: "single"
 type: "directory"
-description: "HyveGeo is a climate-tech startup with operations in Cambridge (UK) and Abu Dhabi that combines microalgae cultivation with biochar production to regenerate"
+description: "Cultivates microalgae in desert environments, extracts bioactive compounds as biostimulants, and converts biogenic waste into engineered biochar used to regenerate arid soils and sequester carbon."
 url: "/directory/hyve-geo/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,25 +11,26 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
-  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.hyvegeo.com/" target="_blank" rel="noopener">https://www.hyvegeo.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hyvegeo/" target="_blank" rel="noopener">hyvegeo — 1,460 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-HyveGeo is a climate-tech startup with operations in Cambridge (UK) and Abu Dhabi that combines microalgae cultivation with biochar production to regenerate arid desert soils while generating carbon removal credits. Founded in 2023, the company engineers biochar as a carrier for microalgae-derived bioactive compounds and microbes, aiming to turn desert sand into arable land and remove 1 million tonnes of CO2 by 2035.
+HyveGeo is a climate-tech startup with operations in Cambridge, England and Abu Dhabi that combines microalgae technology for carbon removal and soil regeneration with biochar production. The company puts microalgae through a "biorefinery concept," extracting bioactive compounds that act as biostimulants and are added along with beneficial microbes to biochar in different recipes to promote crop growth. The company was founded in 2023 and is at pilot stage targeting commercial rollout in the UAE.
 
 ![Hyve Geo website](/screenshots/hyve-geo.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cnn.com/2025/03/30/business/hyvegeo-green-desert-microalgae-charcoal-spc))
 - **2026-04-19** — merged 1 duplicate(s): HyveGeo
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://hyvegeo.com/))

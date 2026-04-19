@@ -2,7 +2,7 @@
 title: "Cercarbono"
 layout: "single"
 type: "directory"
-description: "Cercarbono is a voluntary carbon certification standard established in Colombia in 2016, with over 200 global projects registered in more than 20 countries,"
+description: "Voluntary carbon certification standard/registry that validates methodologies and issues carbon credits for climate change mitigation projects, paired with the EcoRegistry blockchain platform."
 url: "/directory/cercarbono/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

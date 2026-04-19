@@ -2,7 +2,7 @@
 title: "Carbon Plant"
 layout: "single"
 type: "directory"
-description: "Carbon Plant is an Isle of Man-based, FSA-registered carbon credit exchange that uses NFT digital certificates to authenticate ownership of carbon contracts"
+description: "FSA-registered carbon credit exchange that tokenizes carbon contracts as NFTs and offers forward and securitised products to connect buyers with carbon projects."
 url: "/directory/carbon-plant/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

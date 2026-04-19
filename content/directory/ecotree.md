@@ -2,7 +2,7 @@
 title: "Ecotree"
 layout: "single"
 type: "directory"
-description: "EcoTree is a French nature-based solutions company that directly plants and manages mixed-species, continuous-cover forests across France, Denmark, the UK,"
+description: "EcoTree plants and sustainably manages mixed-species, continuous-cover forests across several European countries, issuing Bureau Veritas and Label Bas Carbone-certified carbon credits from"
 url: "/directory/ecotree/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://ecotree.green/" target="_blank" rel="noopener">https://ecotree.green/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecotree/" target="_blank" rel="noopener">ecotree — 24,484 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~43 (-9% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-EcoTree is a French nature-based solutions company that directly plants and manages mixed-species, continuous-cover forests across France, Denmark, the UK, Germany and Belgium, generating third-party verified carbon credits from afforestation/reforestation and peatland restoration projects. It operates its own forestry teams and sells both tree ownership to individuals and carbon credits to corporates for CSRD/SBTi reporting, with credits verified by Bureau Veritas, Label Bas Carbone, MoorFutures, and the Woodland Carbon Code.
+EcoTree provides verified carbon sequestration through afforestation and peatland restoration projects in Belgium, Denmark, France, and Germany, with projects third-party verified by bodies such as Bureau Veritas, Label Bas Carbone and MoorFutures. The company owns and manages its own forests, sells tree ownership to individuals and carbon credits to corporates, and operates its own registry. Its main business is forestry, sustainably managed to enrich biodiversity and produce renewable raw materials alongside carbon removal.
 
 ![Ecotree website](/screenshots/ecotree.png)
 
@@ -34,6 +34,7 @@ EcoTree is a French nature-based solutions company that directly plants and mana
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://ecotree.green/en/))
 - **2026-04-19** — merged 1 duplicate(s): EcoTree SAS
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -2,7 +2,7 @@
 title: "Euthenia Energy Group"
 layout: "single"
 type: "directory"
-description: "Euthenia Energy Group is a Spain-based renewable energy company operating the Euthenia Energy Center biochar facility in Lucena (Córdoba), Andalusia, designed"
+description: "Operates a Beston BST-30 pyrolysis plant in Lucena, Andalusia that converts olive-orchard agricultural residues into biochar for soil amendment, with CORCs issued under Puro.earth's biochar"
 url: "/directory/euthenia-energy-group/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,14 +14,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.euthenia-energy.com" target="_blank" rel="noopener">https://www.euthenia-energy.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/euthenia-energy/" target="_blank" rel="noopener">euthenia-energy — 792 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Euthenia Energy Group is a Spain-based renewable energy company operating the Euthenia Energy Center biochar facility in Lucena (Córdoba), Andalusia, designed to produce up to 10,000 tons of biochar from olive orchard residues. The company is registered on Puro.earth with issued CORCs under the Biochar methodology, sells credits through the Supercritical marketplace (e.g., to EcoVadis), and co-organized the October 2025 European Biochar CDR Conference in Málaga with Beston Group.
+Euthenia Energy Group is a Spain-based renewable energy developer whose flagship asset is the Euthenia Energy Center biochar facility in Lucena (Córdoba), designed to produce up to 10,000 tons/year of biochar from olive orchard residues. The company is registered on Puro.earth (4,520 CORCs issued, 2,198 retired as of crediting period 2024–2029), sells credits through Supercritical (e.g., to EcoVadis), is a member of the European Biochar Industry Association, and co-organized the 2025 European Biochar CDR Conference in Málaga with Beston Group. Alongside biochar, the group also develops biofuels, syngas, biogas, solar and green-H2 projects in Europe and the Caribbean.
 
 ![Euthenia Energy Group website](/screenshots/euthenia-energy-group.png)
 
@@ -31,6 +31,7 @@ Euthenia Energy Group is a Spain-based renewable energy company operating the Eu
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/projects/272454))
 - **2026-04-19** — merged 1 duplicate(s): Euthenia Energy
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/projects/272454))

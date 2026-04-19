@@ -2,10 +2,10 @@
 title: "Circle Carbon"
 layout: "single"
 type: "directory"
-description: "Circle Carbon Labs is a Mallorca, Spain-based social enterprise producing biochar from organic waste and applying it on-site to regenerate soil and grow"
+description: "Kon-Tiki kiln pyrolysis of organic/garden waste biomass into biochar, composted into a biochar-based soil substrate (\"Terra Llum\") applied on the farm."
 url: "/directory/circle-carbon/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://circlecarbon.com/" target="_blank" rel="noopener">https://circlecarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circlecarbon/" target="_blank" rel="noopener">circlecarbon — 262 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Circle Carbon Labs is a Mallorca, Spain-based social enterprise producing biochar from organic waste and applying it on-site to regenerate soil and grow organic produce. The company has pivoted toward education, farm tours, and R&D alongside biochar and compost production.
+Circle Carbon Labs is a small social enterprise in Mallorca, Spain producing biochar from organic/garden waste using Kon-Tiki kilns and blending it into a "Terra Llum" soil substrate applied on-site for soil regeneration and organic produce. Following pandemic-era setbacks, the company has pivoted toward education, R&D, and guided farm tours alongside its biochar/compost production, with no registry issuances and only 1 employee on LinkedIn.
 
 ![Circle Carbon website](/screenshots/circle-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://circlecarbon.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://circlecarbon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/circle-carbon))

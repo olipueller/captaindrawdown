@@ -2,10 +2,10 @@
 title: "Clean Maine Carbon"
 layout: "single"
 type: "directory"
-description: "Clean Maine Carbon purchased the Greenville Steam Biomass facility in Greenville, Maine in 2017 and started its first biochar facility in July 2023,"
+description: "Pyrolyzes woody biomass in a BET 24-PRD rotary kiln to produce biochar for agricultural and other applications, generating Puro.earth CORC credits."
 url: "/directory/clean-maine-carbon/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,14 +14,14 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://cleanmainecarbon.com/" target="_blank" rel="noopener">https://cleanmainecarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clean-maine-carbon/" target="_blank" rel="noopener">clean-maine-carbon — 233 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Clean Maine Carbon purchased the Greenville Steam Biomass facility in Greenville, Maine in 2017 and started its first biochar facility in July 2023, transforming low-value discarded local woody biomass into high-value biochar. The company operates a biochar manufacturing line comprised of a combustion chamber, retention chamber, rotary kiln, thermal oxidation chamber, and water cooler — a BET 24-PRD model developed by BioMass Energy Techniques Inc. It has issued biochar CORCs on the Puro.earth registry via Flowcarbon as carbon developer.
+Clean Maine Carbon is a biochar producer operating from the former Greenville Steam biomass plant in Greenville, Maine, which it purchased in 2017 and converted into a biochar facility that began operating in July 2023. The company pyrolyzes low-value local woody biomass into biochar using a BET 24-PRD rotary kiln system, and issues carbon removal credits via Puro.earth with Flowcarbon as carbon developer.
 
 ![Clean Maine Carbon website](/screenshots/clean-maine-carbon.png)
 
@@ -31,6 +31,7 @@ Clean Maine Carbon purchased the Greenville Steam Biomass facility in Greenville
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://cleanmainecarbon.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://mainebiz.biz/article/biochar-startups-use-thermal-process-to-transform-waste-wood-into-a-versatile-product/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://cleanmainecarbon.com/))

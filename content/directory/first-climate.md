@@ -2,7 +2,7 @@
 title: "First Climate"
 layout: "single"
 type: "directory"
-description: "First Climate is a German/Swiss carbon asset manager and climate services firm founded in 1999 that develops, finances, certifies, and markets carbon"
+description: "Carbon project developer and credit marketer running a biochar carbon removal program (industrial and artisanal biochar projects) alongside nature-based and peatland projects, selling verified"
 url: "/directory/first-climate/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

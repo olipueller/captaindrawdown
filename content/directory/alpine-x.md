@@ -2,10 +2,10 @@
 title: "Alpine X"
 layout: "single"
 type: "directory"
-description: "Alpine X is a French deeptech startup founded in September 2023 in Val d'Isère, developing high-altitude direct air capture (DAC) units optimized for alpine"
+description: "Develops modular MOF-sorbent direct air capture units optimized for high-altitude Alpine conditions (cold, dry, low-pressure, high solar), with CO2 intended for permanent storage/mineralization."
 url: "/directory/alpine-x/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://alpinex.tech/" target="_blank" rel="noopener">https://alpinex.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon15/" target="_blank" rel="noopener">carbon15 — 241 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Alpine X is a French deeptech startup founded in September 2023 in Val d'Isère, developing high-altitude direct air capture (DAC) units optimized for alpine mountain conditions. Its systems use metal-organic framework (MOF) sorbents that benefit from cold temperatures, low humidity, and high-intensity solar at elevations above 1500m, with captured CO₂ intended for regional mineralization into low-carbon building materials.
+Alpine X is a French deeptech startup based in Val d'Isère developing high-altitude direct air capture systems optimized for cold, dry, high-insolation Alpine conditions above 1500m. Its technology uses metal-organic framework (MOF) sorbents in modular DAC units and is currently being tested on a lab bench replicating Alpine atmospheric conditions, with a first pilot in early deployment.
 
 ![Alpine X website](/screenshots/alpine-x.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://alpinex.tech/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/remove-announces-the-new-cdr-startups-to-join-its-european-accelerator-program/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://alpinex.tech/))

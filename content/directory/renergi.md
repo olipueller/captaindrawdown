@@ -2,7 +2,7 @@
 title: "Renergi"
 layout: "single"
 type: "directory"
-description: "Renergi is an Australian waste-to-energy and carbon removal company based in Collie, Western Australia, spun out of Curtin University in 2012. It operates a"
+description: "Operates a patented \"grinding pyrolysis\" plant in Collie, WA that converts municipal solid waste and forestry/agricultural residues into biochar, bio-oil, and wood vinegar for soil and construction"
 url: "/directory/renergi/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,24 +11,25 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
-  <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://renergi.net/" target="_blank" rel="noopener">https://renergi.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/renergi-australia/" target="_blank" rel="noopener">renergi-australia — 51 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Renergi is an Australian waste-to-energy and carbon removal company based in Collie, Western Australia, spun out of Curtin University in 2012. It operates a patented "grinding pyrolysis" demonstration plant that converts municipal solid waste, forestry and agricultural residues into biochar, bio-oil and wood vinegar, with biochar sold as a soil conditioner and listed on Puro.earth for CORC issuance.
+Renergi is an Australian waste-to-energy and carbon removal technology company spun out of Curtin University in 2012 and based in Collie, Western Australia. Its first commercial-scale grinding pyrolysis plant, backed by ARENA and the WA Government, converts biomass and municipal solid waste into biochar, bio-oil and wood vinegar. The project is listed on Puro.earth (2024 audit passed) for CORC issuance.
 
 ![Renergi website](/screenshots/renergi.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://renergi.net/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://renergi.net/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://renergi.net/))

@@ -2,10 +2,10 @@
 title: "Tapovanam Organic Farming Systems"
 layout: "single"
 type: "directory"
-description: "Tapovanam Organic Farming Systems is a Bangalore-based regenerative agriculture company producing biochar for soil amendment and carbon removal. Founded in"
+description: "Pyrolyzes agricultural residues into biochar in a self-sustaining reactor that uses syngas for heat/power, producing biochar for soil amendment and carbon removal."
 url: "/directory/tapovanam-organic-farming-systems/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.tapovanam.earth/" target="_blank" rel="noopener">https://www.tapovanam.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/" target="_blank" rel="noopener">tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture — 459 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+75% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Tapovanam Organic Farming Systems is a Bangalore-based regenerative agriculture company producing biochar for soil amendment and carbon removal. Founded in 2021, it also operates Organic Tap (a digital marketplace for organic produce) and provides farming consultancy services. Biochar Carbon Removal is one of its three main initiatives.
+Tapovanam is a Bangalore-based regenerative agriculture company founded in 2021, operating three initiatives: Organic Tap (a digital marketplace for organic produce), Biochar Carbon Removal, and an agriculture consultancy. They produce biochar from agricultural residues using pyrolysis as one of three business lines, with the broader business focused on organic farming and food distribution.
 
 ![Tapovanam Organic Farming Systems website](/screenshots/tapovanam-organic-farming-systems.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟡 Moderate ([source](https://www.tapovanam.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Tapovanam
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.tapovanam.earth/about))

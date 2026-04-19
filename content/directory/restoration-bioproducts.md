@@ -2,7 +2,7 @@
 title: "Restoration Bioproducts"
 layout: "single"
 type: "directory"
-description: "Restoration Bioproducts is a Virginia-based biochar producer that deploys pyrolysis-based projects converting low-value biomass and forestry waste into"
+description: "Pyrolysis of waste wood (co-located with a wood pellet manufacturer) producing biochar, bio-oil, syngas, and power, with CDR credits sold via Carbon Streaming."
 url: "/directory/restoration-bioproducts/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Restoration Bioproducts is a Virginia-based biochar producer that deploys pyrolysis-based projects converting low-value biomass and forestry waste into biochar, bio-oil, syngas, and power. Its flagship ~$10M Waverly, VA facility opened in October 2024 and is expected to generate roughly 10,000 tCO2e/year of carbon removal credits, marketed via Carbon Streaming Corporation with Microsoft as an early buyer. The company is majority-owned by FDCE and headquartered in Lynchburg, VA.
+Restoration Bioproducts is a Virginia-based pyrolysis company that converts low-value biomass and forestry waste into biochar, bio-oil, syngas, and power. Its ~$10M Waverly, VA flagship facility opened in October 2024 and is expected to generate ~10,000 tCO2e/year of carbon removal credits, marketed via Carbon Streaming Corporation, with Microsoft as an early buyer.
 
 ![Restoration Bioproducts website](/screenshots/restoration-bioproducts.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://virginiabusiness.com/10m-biochar-plant-opens-in-waverly/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://virginiabusiness.com/10m-biochar-plant-opens-in-waverly/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.restorationbio.com/))

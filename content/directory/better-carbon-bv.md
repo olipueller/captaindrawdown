@@ -2,7 +2,7 @@
 title: "Better Carbon BV"
 layout: "single"
 type: "directory"
-description: "Better Carbon B.V. is a Netherlands-based (Goes) biochar producer that converts local biomass waste into biochar and carbon-negative materials for agricultural"
+description: "Produces biochar via pyrolysis of local biomass waste and develops carbon-negative materials from it."
 url: "/directory/better-carbon-bv/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://bettercarbon.eu/" target="_blank" rel="noopener">https://bettercarbon.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/better-carbon/" target="_blank" rel="noopener">better-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Better Carbon B.V. is a Netherlands-based (Goes) biochar producer that converts local biomass waste into biochar and carbon-negative materials for agricultural and industrial use. The company pursues biochar carbon removal alongside product development, with co-founders focused on ecological design and regenerative economy solutions.
+Better Carbon B.V. is a Netherlands-based small biochar producer that creates biochar from local biomass waste and transforms it into carbon-negative materials. The company offers biochar products, co-development of solutions, and partnerships under a "Better Carbon Hub" model.
 
 ![Better Carbon BV website](/screenshots/better-carbon-bv.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.bettercarbon.eu/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.bettercarbon.eu/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://bettercarbon.eu/ ([source](https://www.cdr.fyi/supplier/better-carbon-bv))

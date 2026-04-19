@@ -2,34 +2,35 @@
 title: "Hemp Carbon Standard"
 layout: "single"
 type: "directory"
-description: "Hemp Carbon Standard (HCS) is a wholly-owned subsidiary of Calgary-based Hempalta Corp (TSXV:HEMP) that develops ISO 14064-2-certified methodologies for"
+description: "ISO 14064-2 methodology developer and MRV platform operator that generates carbon removal credits from industrial hemp farming across regenerative soil carbon, biochar, and hemp biomass burial"
 url: "/directory/hemp-carbon-standard/"
-pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
-  <tr><th>Pathway</th><td>Afforestation</td></tr>
-  <tr><th>Secondary pathways</th><td>Biochar, Biomass Burial</td></tr>
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, Biomass Burial</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://hempcarbonstandard.org" target="_blank" rel="noopener">https://hempcarbonstandard.org</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hemp-carbon-standard/" target="_blank" rel="noopener">hemp-carbon-standard — 4,075 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1 (-67% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Hemp Carbon Standard (HCS) is a wholly-owned subsidiary of Calgary-based Hempalta Corp (TSXV:HEMP) that develops ISO 14064-2-certified methodologies for generating carbon removal credits from industrial hemp cultivation, including regenerative agriculture soil carbon, hemp biochar, hemp biomass burial, and hemp building materials. HCS operates an AI/satellite-based MRV platform and runs verified hemp carbon programs with farms across Canada, the US, UK, Ukraine, Sweden, Germany, and Australia, with 29,448 tonnes verified for the 2024 crop year. The parent company pivoted in 2025 to focus exclusively on the carbon-credit business after winding down its hemp processing operations.
+Hemp Carbon Standard (HCS) is a Calgary-based wholly-owned subsidiary of Hempalta Corp (TSXV:HEMP), which has pivoted its strategic focus to nature-based carbon credits through HCS. HCS develops ISO 14064-2 methodologies and operates an AI/satellite-based MRV platform to generate carbon removal credits from industrial hemp cultivation — including regenerative soil carbon, hemp biochar, and biomass burial — running an on-farm program with 13 Alberta farms plus partners in the US and internationally.
 
 ![Hemp Carbon Standard website](/screenshots/hemp-carbon-standard.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://hempcarbonstandard.org/about-hcs/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://hempcarbonstandard.org/))

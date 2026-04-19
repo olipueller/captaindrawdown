@@ -2,7 +2,7 @@
 title: "Carbonaide"
 layout: "single"
 type: "directory"
-description: "Carbonaide is a Finnish VTT spin-out (founded 2022) that enables manufacturing of carbon-negative concrete via ex-situ mineralization, injecting biogenic CO₂"
+description: "Ex-situ CO₂ curing process that mineralizes biogenic CO₂ into carbonate minerals within precast concrete during production."
 url: "/directory/carbonaide/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbonaide is a Finnish VTT spin-out (founded 2022) that enables manufacturing of carbon-negative concrete via ex-situ mineralization, injecting biogenic CO₂ during concrete curing so calcium ions react to form stable carbonate minerals. The company raised €3.7M in January 2026 and is deploying commercial units with Lakan Betoni and Lipa-Betoni; its removals are certified by Isometric.
+Carbonaide is a Finnish VTT spin-out (founded 2022) that has developed an ex-situ mineralization process injecting biogenic CO₂ during concrete curing to form stable carbonate minerals, permanently storing CO₂ while reducing cement demand. The company raised €3.7M in January 2026 and is deploying commercial systems at Finnish concrete producers Lakan Betoni and Lipa-Betoni, with removals certified by Isometric.
 
 ![Carbonaide website](/screenshots/carbonaide.png)
 
@@ -33,6 +33,7 @@ Carbonaide is a Finnish VTT spin-out (founded 2022) that enables manufacturing o
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbonaide.com/news-en/finnish-concrete-producer-lakka-adopts-carbonaides-technology/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbonaide.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://businessjoensuu.fi/en/news/carbonaide-raises-37-million-to-accelerate-international-growth-and-lead-the-decarbonisation-of-construction-industry))

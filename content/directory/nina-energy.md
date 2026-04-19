@@ -2,7 +2,7 @@
 title: "Nina Energy"
 layout: "single"
 type: "directory"
-description: "Nina Energy Limited is an Ecuadorian start-up (founded 2021, formerly Andes Bioenergy) that develops thermochemical conversion systems — principally pyrolysis"
+description: "Designs and builds on-site pyrolysis reactors that convert agricultural and forestry waste into biochar for carbon sequestration and soil amendment."
 url: "/directory/nina-energy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Ecuador</td></tr>
   <tr><th>Website</th><td><a href="https://nina.energy/en/" target="_blank" rel="noopener">https://nina.energy/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nina-energy/" target="_blank" rel="noopener">nina-energy — 786 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Nina Energy Limited is an Ecuadorian start-up (founded 2021, formerly Andes Bioenergy) that develops thermochemical conversion systems — principally pyrolysis reactors — for residual biomass from Latin American agro-industries. In November 2025 it launched a pyrolysis plant near Cotopaxi with German partner atmosfair, converting ecological-forestry wood waste into biochar for negative emissions and soil fertility. The company both builds/sells pyrolysis technology and operates biochar production itself.
+Nina Energy Limited is an Ecuadorian startup (founded 2021, formerly Andes Bioenergy) that designs and deploys proprietary pyrolysis reactors for converting agro-industrial and forestry residues into biochar for permanent carbon removal. In November 2025 it launched a pyrolysis plant near Cotopaxi with German partner atmosfair, and it is part of the remove Cohort 2 accelerator, selling verified biochar carbon credits.
 
 ![Nina Energy website](/screenshots/nina-energy.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nina.energy/en/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nina.energy/en/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nina.energy/en/))

@@ -2,7 +2,7 @@
 title: "Ecologi Action Ltd"
 layout: "single"
 type: "directory"
-description: "Ecologi Action Ltd (trading as Ecologi) is a UK-based all-in-one climate action platform and carbon credit marketplace for businesses, founded in 2019 and"
+description: "Online carbon credit marketplace and climate-action subscription platform that resells a curated portfolio of avoidance and removal credits (reforestation, biochar, enhanced weathering, blue carbon)"
 url: "/directory/ecologi-action-ltd/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,10 +2,10 @@
 title: "Red Mountain Biochar"
 layout: "single"
 type: "directory"
-description: "Red Mountain Biochar is a Texas-based (Atlanta, TX) biochar producer that transforms forestry and agricultural waste biomass into biochar, BioCoal, and Carbon"
+description: "Pyrolyzes forestry and agricultural biomass residuals (sawdust, wood chips) into biochar, BioCoal, and Carbon Black for concrete, steel and agricultural applications."
 url: "/directory/red-mountain-biochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://redmountainbiochar.com/" target="_blank" rel="noopener">https://redmountainbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/red-mountain-biochar/" target="_blank" rel="noopener">red-mountain-biochar — 694 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Red Mountain Biochar is a Texas-based (Atlanta, TX) biochar producer that transforms forestry and agricultural waste biomass into biochar, BioCoal, and Carbon Black via pyrolysis. In October 2024 it formed BluMountain Carbon, a 50/50 joint venture with publicly-listed BluSky Carbon Inc., which subsequently signed LOIs for biochar projects in Orlando, Tanzania, and the southeastern US using BluSky's Vulcan pyrolysis equipment. CEO Bill Wyatt continues to publicly promote the company as of mid-2025.
+Red Mountain Biochar is a Texas-based (Atlanta, TX) biochar producer that converts lumber and forestry waste into biochar, BioCoal, and Carbon Black via pyrolysis. In October 2024 it formed BluMountain Carbon, a 50/50 joint venture with publicly-listed BluSky Carbon Inc. (CSE:BSKY), which subsequently signed binding LOIs for biochar projects in Orlando and Tanzania. The small team (est. 3–11 employees) added a CFO in January 2025 and the CEO continues posting on LinkedIn as of August 2025.
 
 ![Red Mountain Biochar website](/screenshots/red-mountain-biochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))

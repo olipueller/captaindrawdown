@@ -2,7 +2,7 @@
 title: "International Biochar Initiative"
 layout: "single"
 type: "directory"
-description: "The International Biochar Initiative (IBI) is a U.S.-based 501(c)(3) nonprofit member organization founded in 2006 that serves as a global industry platform"
+description: "Nonprofit industry association and standards body for the global biochar sector; produces market research, guidelines, and educational programs rather than carbon removal itself."
 url: "/directory/international-biochar-initiative/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

@@ -2,10 +2,10 @@
 title: "Liferaft"
 layout: "single"
 type: "directory"
-description: "Liferaft is a U.S.-based biochar company operating large-scale facilities in Iowa and Illinois that source agricultural and municipal biomass from the"
+description: "Pyrolyzes agricultural and municipal biomass at facilities in Iowa and Illinois to produce biochar, which is blended with compost and applied to agricultural soils for durable carbon sequestration."
 url: "/directory/liferaft/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.liferaft.cc/" target="_blank" rel="noopener">https://www.liferaft.cc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/liferaftcc/" target="_blank" rel="noopener">liferaftcc</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Liferaft is a U.S.-based biochar company operating large-scale facilities in Iowa and Illinois that source agricultural and municipal biomass from the surrounding region and process it on site using pyrolysis to produce durable biochar. In March 2026 the company signed an agreement with Microsoft for 1 million biochar carbon removal units to be delivered over 10 years — facilitated by Supercritical and the biggest U.S. biochar deal to date.
+Liferaft is a U.S.-headquartered biochar company focused on durable carbon capture and restoring rural economies, which finalized an agreement in March 2026 to supply Microsoft with one million carbon removal units over ten years. The company operates biochar facilities in Iowa and Illinois, with the Microsoft deal facilitated by Supercritical, producing biochar via pyrolysis of agricultural and municipal biomass that is blended with compost for agricultural soil applications.
 
 ![Liferaft website](/screenshots/liferaft.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2026/03/25/3262003/0/en/Liferaft-Announces-a-10-Year-1-Million-Carbon-Removal-Units-Offtake-Agreement-with-Microsoft.html))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.liferaft.cc/))

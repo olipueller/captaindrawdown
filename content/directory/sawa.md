@@ -2,7 +2,7 @@
 title: "SAWA"
 layout: "single"
 type: "directory"
-description: "SAWA EcoSolutions is a Singapore-based climate technology company with its Indonesian operating arm Legasi Alam Indonesia, founded in 2021, that produces"
+description: "Converts agricultural waste (sugarcane bagasse, palm EFB) into biochar via pyrolysis for soil application and carbon sequestration."
 url: "/directory/sawa/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.sawa.green/" target="_blank" rel="noopener">https://www.sawa.green/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sawa-eco-solution/" target="_blank" rel="noopener">sawa-eco-solution — 472 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~12</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-SAWA EcoSolutions is a Singapore-based climate technology company with its Indonesian operating arm Legasi Alam Indonesia, founded in 2021, that produces biochar from agricultural residues like sugarcane bagasse and palm oil empty fruit bunches. Its first biochar facility in Majalengka, West Java became operational in April 2024 in partnership with PG Rajawali II sugar factory, and it is financed by a ~$50M carbon credit deal with Abu Dhabi-based Offset8 Capital. The company is listed on Puro.earth's Accelerate program and is expanding via franchise partners in Saudi Arabia and Taiwan.
+SAWA EcoSolutions is a Singapore-based climate technology company with its Indonesian operating arm Legasi Alam Indonesia, founded in 2021/2022, that produces biochar from agricultural residues like sugarcane bagasse and palm oil empty fruit bunches. Its first biochar facility in Majalengka, West Java became operational in April 2024, and the project is financed via a $50M carbon credit deal with Abu Dhabi-based Offset8 Capital. SAWA is listed on Puro.earth's Accelerate program.
 
 ![SAWA website](/screenshots/sawa.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sawa.green/))
 - **2026-04-19** — merged 1 duplicate(s): Sawa EcoSolutions
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.sawa.green/))

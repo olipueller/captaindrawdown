@@ -2,7 +2,7 @@
 title: "Social Carbon"
 layout: "single"
 type: "directory"
-description: "The SocialCarbon Standard was developed by the Ecológica Institute in Brazil in 1998 as a methodology focused on enhancing co-benefits such as biodiversity and"
+description: "Social Carbon Foundation is a voluntary carbon market standard-setter that publishes methodologies and certifies nature-based projects (forests, agriculture, peatland, conservation) against"
 url: "/directory/social-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

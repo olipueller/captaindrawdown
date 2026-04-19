@@ -2,10 +2,10 @@
 title: "Pacific Biochar"
 layout: "single"
 type: "directory"
-description: "Pacific Biochar is a California-based benefit corporation that partners with bioenergy facilities and sawmills to retrofit them for biochar co-production from"
+description: "Retrofits existing biomass power plants and sawmills to co-produce biochar from forest/sawmill residues, which is then applied to agricultural soils for durable carbon storage."
 url: "/directory/pacific-biochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,14 +15,14 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.pacificbiochar.com" target="_blank" rel="noopener">https://www.pacificbiochar.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pacific-biochar/" target="_blank" rel="noopener">pacific-biochar — 2,096 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Pacific Biochar is a California-based benefit corporation that partners with bioenergy facilities and sawmills to retrofit them for biochar co-production from forest residues, with biochar applied to agricultural land. The company is among the leading biochar CDR suppliers globally, with credits registered on Puro.earth and, as of December 2025, newly verified under Isometric's Biochar Protocol via the Humboldt Sawmill project.
+Pacific Biochar is a California-based benefit corporation founded in 2014 that partners with bioenergy facilities and sawmills—retrofitting existing infrastructure—to produce biochar from forest residues and sawmill waste, with the biochar applied to agricultural land. The company is a leading biochar CDR supplier with credits on Puro.earth and, as of December 16, 2025, 3,042 credits issued under Isometric's Biochar Production and Storage Protocol from its flagship Humboldt Sawmill project in Scotia, CA (annual capacity ~10,000+ tCO2e).
 
 ![Pacific Biochar website](/screenshots/pacific-biochar.png)
 
@@ -33,6 +33,7 @@ Pacific Biochar is a California-based benefit corporation that partners with bio
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
 - **2026-04-19** — merged 1 duplicate(s): Pacific Biochar/Wren
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pacificbiochar.com/how-we-produce-biochar/))

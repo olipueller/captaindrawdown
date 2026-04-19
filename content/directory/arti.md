@@ -2,10 +2,10 @@
 title: "ARTi"
 layout: "single"
 type: "directory"
-description: "ARTi (Advanced Renewable Technology International) is a U.S.-based biochar company founded in 2013, headquartered in Prairie City, Iowa. It designs and"
+description: "Designs and manufactures containerized pyrolysis reactors (Biochar Production Units) and produces biochar from agricultural/forestry biomass for soil amendment and carbon sequestration."
 url: "/directory/arti/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.arti.com/" target="_blank" rel="noopener">https://www.arti.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/advanced-renewable-technology-international-inc-artichar-/" target="_blank" rel="noopener">advanced-renewable-technology-international-inc-artichar- — 2,534 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~74</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-ARTi (Advanced Renewable Technology International) is a U.S.-based biochar company founded in 2013, headquartered in Prairie City, Iowa. It designs and manufactures containerized pyrolysis reactors (Biochar Production Units) and produces biochar from agricultural and forestry biomass, selling both equipment and biochar products. It is listed as a Puro.earth CORC supplier.
+ARTi (Advanced Renewable Technology International) is a U.S.-based biochar company founded in 2013 and headquartered in Prairie City, Iowa. It designs modular 40-foot containerized pyrolysis reactors that process 8-40 tons of biomass per day, sells biochar products, and certifies its machines for the Puro.earth CORC market.
 
 ![ARTi website](/screenshots/arti.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.arti.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.arti.com/))

@@ -2,10 +2,10 @@
 title: "C-Capture Ltd"
 layout: "single"
 type: "directory"
-description: "C-Capture is a Leeds-based spinout from the University of Leeds that develops proprietary solvent-based technology to capture CO2 from flue gas streams. Their"
+description: "Develops a proprietary non-amine solvent-based post-combustion CO2 capture process for flue gases, piloted at Drax (BECCS) and at cement/glass sites."
 url: "/directory/c-capture-ltd/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://c-capture.co.uk/" target="_blank" rel="noopener">https://c-capture.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/c-capture-ltd-university-of-leeds/" target="_blank" rel="noopener">c-capture-ltd-university-of-leeds — 5,973 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
   <tr><th>Employees</th><td>~16 (-57% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-C-Capture is a Leeds-based spinout from the University of Leeds that develops proprietary solvent-based technology to capture CO2 from flue gas streams. Their technology has been piloted at Drax Power Station for BECCS (bioenergy with carbon capture) and trialed for cement and flat glass decarbonization. When applied to biomass combustion (BECCS), the technology enables carbon dioxide removal.
+C-Capture is a 2009 University of Leeds spinout based in Leeds, UK, developing a low-hazard, non-amine solvent system for post-combustion CO2 capture from industrial flue gases, with pilot deployments at Drax Power Station for BECCS and at Heidelberg Materials and Pilkington sites. In March 2025 the company carried out mass redundancies after cancelling a planned 2025 fundraise; Drax is providing bridging funding to keep the firm solvent while a buyer is sought, and only a small number of staff have been retained.
 
 ![C-Capture Ltd website](/screenshots/c-capture-ltd.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟠 Suspect ([source](https://www.yorkshirepost.co.uk/business/c-capture-mass-redundancies-at-yorkshire-carbon-capture-firm-backed-by-government-drax-and-bp-5012716))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://c-capture.co.uk/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://c-capture.co.uk ([source](https://www.cdr.fyi/supplier/c-capture))

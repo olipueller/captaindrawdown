@@ -2,7 +2,7 @@
 title: "Explocom"
 layout: "single"
 type: "directory"
-description: "Explocom GK SRL, operating under the GEKKA brand, is a Romanian biochar and wood vinegar producer based in Cristuru Secuiesc, Harghita County, using a patented"
+description: "Patented pyrolysis-based carbonization of wood biomass producing biochar (granular and crystal form) and wood vinegar co-product for agricultural soil amendment, with Puro.earth-registered carbon"
 url: "/directory/explocom/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,14 +14,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Romania</td></tr>
   <tr><th>Website</th><td><a href="https://gekka.bio/" target="_blank" rel="noopener">https://gekka.bio/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biogekka/" target="_blank" rel="noopener">biogekka — 28 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Explocom GK SRL, operating under the GEKKA brand, is a Romanian biochar and wood vinegar producer based in Cristuru Secuiesc, Harghita County, using a patented pyrolysis process for biomass carbonization. The company started as a charcoal producer in 1992, patented its pyrolysis method in 2013, and since 2018 has focused on biochar for agricultural soil amendment. Its biochar carbon credits are managed via the Puro.earth registry.
+Explocom GK SRL, operating under the GEKKA brand, is a Romanian biochar and wood vinegar producer based in Cristuru Secuiesc, Harghita County. Originally founded in 1992 as a charcoal producer, the company patented a biomass pyrolysis carbonization process in 2013 and since 2018 has focused on biochar for agricultural soil amendment, with carbon credits issued through the Puro.earth registry.
 
 ![Explocom website](/screenshots/explocom.png)
 
@@ -31,6 +31,7 @@ Explocom GK SRL, operating under the GEKKA brand, is a Romanian biochar and wood
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://gekka.bio/en/))
 - **2026-04-19** — merged 1 duplicate(s): Gekka Biochar
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

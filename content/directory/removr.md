@@ -2,10 +2,10 @@
 title: "Removr"
 layout: "single"
 type: "directory"
-description: "Removr is a Norwegian direct air capture company jointly owned by Vanir Green Industries and GreenCap Solutions, developing solid-sorbent (zeolite) DAC"
+description: "Solid-sorbent DAC using microporous zeolite molecular sieves; CO2 is adsorbed from ambient air then released via heat for compression and permanent geological storage."
 url: "/directory/removr/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.removr.com/" target="_blank" rel="noopener">https://www.removr.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/removr/" target="_blank" rel="noopener">removr</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~4 (-43% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Removr is a Norwegian direct air capture company jointly owned by Vanir Green Industries and GreenCap Solutions, developing solid-sorbent (zeolite) DAC technology. The company is scaling from a pilot at Technology Centre Mongstad toward industrial-scale deployments, including participation in the RMI-led Ankeron Carbon Management Hub feasibility study in the Pacific Northwest, with ambitions for a 1-million-ton-per-year plant.
+Removr is a Norwegian direct air capture company jointly owned by Vanir Green Industries and GreenCap Solutions, developing zeolite-based solid-sorbent DAC technology. The company is piloting its technology with SINTEF in Oslo and at Technology Centre Mongstad, and is part of the RMI-led Ankeron Carbon Management Hub feasibility consortium in the US Pacific Northwest. Its stated ambition is to build the world's first 1-million-ton solid sorbent DAC plant.
 
 ![Removr website](/screenshots/removr.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.removr.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://cleantech.com/can-sorbent-innovation-make-dac-viable/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.removr.com/))

@@ -2,7 +2,7 @@
 title: "Biopower Tana"
 layout: "single"
 type: "directory"
-description: "Biopower Tana AS is a Norwegian biochar developer founded in 2020 and based in Austertana, Finnmark. It plans to convert local residual biomass into"
+description: "Pyrolysis of local residual biomass (forestry, dairy, slaughterhouse, fish-farm waste) into biochar used in fertilizer pellets and animal feed, with residual heat recovery."
 url: "/directory/biopower-tana/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -13,19 +13,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://biopowertana.no" target="_blank" rel="noopener">https://biopowertana.no</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Biopower Tana AS is a Norwegian biochar developer founded in 2020 and based in Austertana, Finnmark. It plans to convert local residual biomass into biochar-based fertilizer and feed supplement, with carbon credit sales via Puro.earth (in partnership with Accend). The project is in early development, with the first plant targeted for commissioning in Austertana and future expansion planned to Børøya (Norway) and Thailand.
+Biopower Tana AS is a Norwegian biochar developer founded in 2020, based in Austertana, Finnmark, and owned by Unni Sekkesæter since October 2022. The company plans to convert local residual biomass (forestry waste, dairy, slaughterhouse and fish-farm residues) into biochar-based fertilizer, with carbon credit sales via Puro.earth through a partnership with Accend. The first plant was planned for commissioning in Austertana in 2025, with future expansion planned to Børøya in Norway and sites in Thailand.
 
 ![Biopower Tana website](/screenshots/biopower-tana.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-international.org/news/this-is-biochar-harnessing-biomass-to-power-a-circular-economy/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-international.org/news/this-is-biochar-harnessing-biomass-to-power-a-circular-economy/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biopowertana.no/wp-content/uploads/2024/11/Biopower-Tana-Final-English-Investor-presentation.pdf))

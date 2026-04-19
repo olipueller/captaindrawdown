@@ -2,7 +2,7 @@
 title: "ReCarber"
 layout: "single"
 type: "directory"
-description: "ReCarber is a Stockholm-based startup founded in 2024 that operates a platform to commercialize and finance BECCS (bio-CCS) projects across the Nordics,"
+description: "Software platform and commercial developer that matches biogenic CO2 emitters (CHP, pulp/paper) with CDR buyers and orchestrates financing for BECCS projects in the Nordics."
 url: "/directory/recarber/"
 pathway: "BECCS"
 liveliness: "🟢 Active"

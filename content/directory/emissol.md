@@ -2,10 +2,10 @@
 title: "Emissol"
 layout: "single"
 type: "directory"
-description: "Emissol is a Bothell, Washington-based company founded in 2013 that develops direct air capture technology, in particular a proprietary low-sorbent,"
+description: "Develops and licenses a low-sorbent, low-pressure-drop contactor for direct air capture alongside non-CDR diesel emission control technologies (NOx mixer and catalytic converter)."
 url: "/directory/emissol/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.emissol.com/" target="_blank" rel="noopener">https://www.emissol.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Emissol is a Bothell, Washington-based company founded in 2013 that develops direct air capture technology, in particular a proprietary low-sorbent, low-pressure-drop DAC contactor. It is partnering with Kenyan climate-tech company Octavia Carbon on Project Hummingbird, a DAC + basalt mineralization project in Kenya's Rift Valley. The company also develops adjacent emission-reduction tech (NOx mixers, catalytic converters) for diesel aftertreatment.
+Emissol is a small R&D firm founded in 2013 and headquartered in Bothell (Mill Creek), Washington that develops and licenses clean-air technologies. Its portfolio spans a sorbent-saving contactor for direct air capture, a low-cost urea mixer for diesel NOx reduction, and a catalytic converter that reduces platinum-group metal loading. The company is supporting Octavia Carbon's Project Hummingbird in Kenya by providing proprietary engineering and simulation models to optimize the DAC process.
 
 ![Emissol website](/screenshots/emissol.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.emissol.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.emissol.com/dac-contactor))

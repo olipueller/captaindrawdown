@@ -2,7 +2,7 @@
 title: "Verra"
 layout: "single"
 type: "directory"
-description: "Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Standard (VCS) Program, the world's most widely used voluntary carbon crediting"
+description: "Nonprofit carbon-crediting standards body operating the VCS Program registry and methodologies that certify emissions reductions and removals projects, issuing Verified Carbon Units."
 url: "/directory/verra/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

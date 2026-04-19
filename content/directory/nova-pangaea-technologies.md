@@ -2,10 +2,10 @@
 title: "Nova Pangaea Technologies"
 layout: "single"
 type: "directory"
-description: "Nova Pangaea Technologies (NPT) is a clean technology company headquartered in Teesside that has developed REFNOVA®, a proprietary patented second generation"
+description: "REFNOVA® steam-assisted rapid pyrolysis process converts woody and agricultural biomass residues into 2G bioethanol (for Sustainable Aviation Fuel via alcohol-to-jet) plus biochar as a"
 url: "/directory/nova-pangaea-technologies/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.novapangaea.com/" target="_blank" rel="noopener">https://www.novapangaea.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nova-pangaea-technologies-uk-limited/" target="_blank" rel="noopener">nova-pangaea-technologies-uk-limited — 3,811 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~30 (-19% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Nova Pangaea Technologies (NPT) is a clean technology company headquartered in Teesside that has developed REFNOVA®, a proprietary patented second generation technology process that converts woody and non-food derived agricultural residues into 2G ethanol and biochar, with the ethanol usable via the alcohol-to-jet pathway for Sustainable Aviation Fuel and the biochar functioning as a natural carbon removal product via sequestration. NPT is in partnership with British Airways and LanzaJet to deliver Project Speedbird, a commercial plant that will produce 102 million litres of SAF per year, and has secured Government funding through the Advanced Fuels Fund of £9 million.
+Nova Pangaea Technologies is a UK cleantech company headquartered in Wilton International, Redcar/Teesside that licenses its patented REFNOVA® biomass conversion technology, primarily positioning itself as a sustainable aviation fuel (SAF) specialist. Biochar (NOVACHAR) is a co-product of its process that provides carbon sequestration, but the company's main business is supplying 2G bioethanol for SAF production through partnerships such as Project Speedbird with British Airways and LanzaJet.
 
 ![Nova Pangaea Technologies website](/screenshots/nova-pangaea-technologies.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.novapangaea.com/nova-pangaea-technologies-appoints-new-ceo-to-lead-global-growth/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.novapangaea.com/about/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.novapangaea.com/about/))

@@ -2,7 +2,7 @@
 title: "ZeroMission AB"
 layout: "single"
 type: "directory"
-description: "ZeroMission AB is a Stockholm-based climate strategy consultancy and carbon credit reseller founded in 2006. The company helps businesses measure, reduce, and"
+description: "Carbon credit reseller and climate strategy consultancy selling nature-based offsets (Plan Vivo tree planting, biochar) to Swedish corporates."
 url: "/directory/zeromission-ab/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

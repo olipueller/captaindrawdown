@@ -2,7 +2,7 @@
 title: "Everest Carbon"
 layout: "single"
 type: "directory"
-description: "Everest Carbon is a San Francisco- and Linz, Austria-based carbon removal measurement company that builds a patent-pending, in-field alkalinity sensor for"
+description: "Builds an in-situ, IoT-enabled alkalinity sensor using ion-exchange resin to measure cumulative carbonate alkalinity export from ERW fields for real-time MRV."
 url: "/directory/everest-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.everestcarbon.com/" target="_blank" rel="noopener">https://www.everestcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/everest-carbon/" target="_blank" rel="noopener">everest-carbon — 4,471 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~10 (-23% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Everest Carbon is a San Francisco- and Linz, Austria-based carbon removal measurement company that builds a patent-pending, in-field alkalinity sensor for Enhanced Rock Weathering (ERW) projects. Originally founded in late 2022 as an ERW project developer, it pivoted in early 2024 to commercialize MRV hardware/software that aims to cut measurement costs by over 90%, selling to ERW project developers.
+Everest Carbon is a San Francisco- and Linz, Austria-based company that develops an in-field alkalinity sensor ("Pulsar") for Enhanced Rock Weathering MRV. Founded in late 2022 as an ERW project developer, it pivoted in January 2024 to commercialize its patent-pending ion-exchange-resin sensor that measures carbonate alkalinity efflux directly in soil, targeting a 90% reduction in MRV costs. The company raised $3M led by Carbon Removal Partners and has hundreds of sensors deployed at ERW projects worldwide.
 
 ![Everest Carbon website](/screenshots/everest-carbon.png)
 
@@ -34,6 +34,7 @@ Everest Carbon is a San Francisco- and Linz, Austria-based carbon removal measur
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://www.everestcarbon.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://www.everestcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://www.everestcarbon.com/))

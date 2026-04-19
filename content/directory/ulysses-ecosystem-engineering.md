@@ -2,10 +2,10 @@
 title: "Ulysses Ecosystem Engineering"
 layout: "single"
 type: "directory"
-description: "Ulysses Ecosystem Engineering is an ocean carbon removal startup developing autonomous underwater drones and robotics for large-scale seagrass meadow"
+description: "Autonomous underwater drones that collect, process, and plant seagrass seeds to restore blue-carbon meadows at scale."
 url: "/directory/ulysses-ecosystem-engineering/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://ulysses.eco" target="_blank" rel="noopener">https://ulysses.eco</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Ulysses Ecosystem Engineering is an ocean carbon removal startup developing autonomous underwater drones and robotics for large-scale seagrass meadow restoration. Founded in 2023 by Irish engineers and now based in San Francisco, the company raised a $2M pre-seed in November 2024 led by Lowercarbon Capital, with partners including The Nature Conservancy and government agencies in Florida and Australia. Its "Mako" UUV was trialed on the Great Barrier Reef in 2025 for seed planting at hectare-scale rates.
+Ulysses Ecosystem Engineering is a San Francisco-based marine robotics startup founded in 2023 developing autonomous underwater drones ("Mako") that harvest, plant, and monitor seagrass seeds for large-scale blue-carbon ecosystem restoration. The company has partnerships with The Nature Conservancy and government agencies in Florida and Australia, and in 2025 conducted trials on the Great Barrier Reef.
 
 ![Ulysses Ecosystem Engineering website](/screenshots/ulysses-ecosystem-engineering.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.barrierreef.org/news/news/robot-a-new-era-in-seagrass-restoration))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/))

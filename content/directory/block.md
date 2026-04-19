@@ -2,7 +2,7 @@
 title: "BLOCK"
 layout: "single"
 type: "directory"
-description: "BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run biochar producer in Osterrade, Dithmarschen, Schleswig-Holstein, operated by"
+description: "Pyrolyzes regional wood chips, landscape-care residues, and reed from rewetted moors in a Carbo Force reactor to produce EBC-AgroOrganic certified biochar, with process heat supplied to a local"
 url: "/directory/block/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -21,13 +21,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run biochar producer in Osterrade, Dithmarschen, Schleswig-Holstein, operated by brothers Mathis and Steffen Block. The facility uses a Carbo Force pyrolysis system to carbonize regional biomass (wood chips, landscape-care residues, reed from rewetted moorlands) into EBC-AgroOrganic certified biochar, with waste heat feeding a local district heating network. The project targets approximately 2,000 tonnes of CO2 sequestration per year and holds EBC sink certification.
+BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run biochar producer in Osterrade, Dithmarschen, Schleswig-Holstein, founded by brothers Mathis and Steffen Block. The facility uses a Carbo Force pyrolysis system to carbonize regional biomass (woodchips, landscape-care residues, reed from rewetted moorlands) into EBC-AgroOrganic certified biochar, with waste heat feeding a local district-heating network. The project targets roughly 550 tonnes of biochar and ~2,000 t CO2/yr of sequestration.
 
 ![BLOCK website](/screenshots/block.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://block-pflanzenkohle.de/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://block-pflanzenkohle.de/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://block.xyz/inside/clean-energy-portfolios))

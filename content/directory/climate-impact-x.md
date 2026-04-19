@@ -2,7 +2,7 @@
 title: "Climate Impact X"
 layout: "single"
 type: "directory"
-description: "Climate Impact X (CIX) is a Singapore-headquartered global carbon exchange and marketplace for verified carbon credits and environmental commodities, with"
+description: "Operates a carbon credit exchange, auction house, and project marketplace for voluntary carbon credits (including carbon removals contracts) and environmental commodities."
 url: "/directory/climate-impact-x/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

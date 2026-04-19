@@ -2,7 +2,7 @@
 title: "CtrlZ Climate Corporation"
 layout: "single"
 type: "directory"
-description: "CtrlZ Climate Corp. is a California-based early-stage carbon removal startup spun out of Stanford's TomKat Center, founded by Amit Bharti and Ananya Jain. The"
+description: "Develops distributed CO2 capture technology that integrates with commercial buildings' HVAC systems to capture and store atmospheric CO2."
 url: "/directory/ctrlz-climate-corporation/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://ctrlzclimate.com/" target="_blank" rel="noopener">https://ctrlzclimate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ctrlz-climate/" target="_blank" rel="noopener">ctrlz-climate — 127 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-CtrlZ Climate Corp. is a California-based early-stage carbon removal startup spun out of Stanford's TomKat Center, founded by Amit Bharti and Ananya Jain. The company is developing a distributed approach to capture CO2 from commercial buildings' HVAC systems and store it, targeting gigaton-scale removal. As of late 2024/2025 the website still states the product is "launching soon."
+CtrlZ Climate offers carbon removal and storage services based on chemical, engineering, and logistical technologies to capture carbon dioxide (CO2) from commercial buildings' heating, ventilation, and air conditioning (HVAC) systems, allowing clients to reduce emissions, lower operational expenses, comply with regulations, and generate carbon credits. The California-based early-stage startup was spun out of Stanford's TomKat Center and founded by Amit Bharti and Ananya Jain. As of 2024/2025 the product is still listed as launching soon.
 
 ![CtrlZ Climate Corporation website](/screenshots/ctrlz-climate-corporation.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://ctrlzclimate.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://ctrlzclimate.com/))

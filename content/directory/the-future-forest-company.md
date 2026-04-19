@@ -2,7 +2,7 @@
 title: "The Future Forest Company"
 layout: "single"
 type: "directory"
-description: "The Future Forest Company restores nature at scale through award-winning reforestation and peatland restoration projects spanning Scotland and Northern"
+description: "Acquires and manages UK estates where it plants native trees and restores peatlands, issuing Woodland Carbon Code and Peatland Code units."
 url: "/directory/the-future-forest-company/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-The Future Forest Company restores nature at scale through award-winning reforestation and peatland restoration projects spanning Scotland and Northern England, issuing validated UK Woodland Carbon Code and Peatland Code units. The company has planted over 1.59 million trees across its UK sites, and its enhanced-weathering arm previously spun out as UNDO in 2022.
+Founded by Jim Mann and Jade Rein, the Future Forest Company delivers large-scale reforestation projects in the UK and has planted over 1.59 million trees across its UK sites. Its award-winning reforestation and peatland restoration projects span Scotland and Northern England. Its enhanced-weathering arm previously spun out as UNDO in 2022.
 
 ![The Future Forest Company website](/screenshots/the-future-forest-company.png)
 
@@ -33,6 +33,7 @@ The Future Forest Company restores nature at scale through award-winning refores
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://thefutureforestcompany.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://thefutureforestcompany.com/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://thefutureforestcompany.com/))

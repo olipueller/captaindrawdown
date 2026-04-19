@@ -2,7 +2,7 @@
 title: "Grain Ecosystem"
 layout: "single"
 type: "directory"
-description: "Grain Ecosystem was a Boston-based digital platform (founded 2022) that provided software, workflows, and financing tools for biochar project developers,"
+description: "Digital platform offering equipment selection software, project finance matching, and carbon accounting workflows for biochar project developers; not a physical CDR producer."
 url: "/directory/grain-ecosystem/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

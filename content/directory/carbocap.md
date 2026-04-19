@@ -2,7 +2,7 @@
 title: "CarboCap"
 layout: "single"
 type: "directory"
-description: "CarboCap is an unfunded company based in Delhi, India, founded in 2023 by Mayur Sachdeva and Soham Mukherjee, operating as a developer of a carbon offset"
+description: "Blockchain-based MRV (monitoring, reporting, verification) platform that partners with carbon project developers to track and verify removal outcomes."
 url: "/directory/carbocap/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

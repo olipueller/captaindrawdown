@@ -2,7 +2,7 @@
 title: "Pelican Renewables"
 layout: "single"
 type: "directory"
-description: "Pelican Renewables LLC is developing the Pelican Carbon Sequestration Hub on Rindge Tract in California's Sacramento-San Joaquin Delta, anchored by its"
+description: "Geologic CO2 storage hub anchored by biogenic CO2 from a co-owned ethanol plant, with barge/rail transport of third-party CO2 to a deep saline formation under the Sacramento-San Joaquin Delta."
 url: "/directory/pelican-renewables/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -14,19 +14,20 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>DAC</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pelicanrenewables.com/" target="_blank" rel="noopener">https://pelicanrenewables.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Pelican Renewables LLC is developing the Pelican Carbon Sequestration Hub on Rindge Tract in California's Sacramento-San Joaquin Delta, anchored by its Stockton ethanol facility which provides biogenic CO2 for permanent geologic storage. The project received a $45.2M DOE CarbonSAFE Phase III award (shared with LLNL) and will accept third-party CO2 via rail and barge through affiliate ZuCO2 Transport. The Stockton site is also hosting AirMyne's DAC pilot following an October 2025 California Energy Commission grant.
+Pelican Renewables LLC is a Stockton, California venture developing the Pelican Carbon Sequestration Hub on Rindge Tract in the Sacramento-San Joaquin Delta, anchored by biogenic CO2 from its Stockton ethanol facility and designed to accept third-party CO2 by rail and barge (via affiliate ZuCO2 Transport). The project received a $45.2M DOE CarbonSAFE Phase III award (with $6M to LLNL) and is also hosting AirMyne's DeltaDAC pilot, approved by the California Energy Commission in October 2025.
 
 ![Pelican Renewables website](/screenshots/pelican-renewables.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.llnl.gov/article/52346/llnl-supports-co2-storage-californias-delta))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.llnl.gov/article/52346/llnl-supports-co2-storage-californias-delta))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://ghgdata.epa.gov/ghgp/service/facilityDetail/2022?id=1007262&ds=E&et=&popup=true))

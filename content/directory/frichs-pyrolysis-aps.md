@@ -2,7 +2,7 @@
 title: "Frichs Pyrolysis Aps"
 layout: "single"
 type: "directory"
-description: "Frichs Pyrolysis ApS is a Danish development company based in Horsens that supplies patented flash pyrolysis systems converting agricultural residues, food"
+description: "Designs and supplies patented flash pyrolysis reactors that convert agricultural residues, food waste, sewage sludge and other biomass into biochar and clean (tar-free) pyrolysis gas used for CHP."
 url: "/directory/frichs-pyrolysis-aps/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,6 +11,7 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://frichs-pyrolysis.com/" target="_blank" rel="noopener">https://frichs-pyrolysis.com/</a></td></tr>
@@ -22,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Frichs Pyrolysis ApS is a Danish development company based in Horsens that supplies patented flash pyrolysis systems converting agricultural residues, food waste, and other biomass into biochar and pyrolysis gas. The company, led by CEO Søren Bruun, received an additional DKK 32m from owners in 2025 and expects to kick off commercial sales of pyrolysis plants around the beginning of 2026. They are a member of the European Biochar Industry Consortium and have active projects including Vrejlev Energi.
+Frichs Pyrolysis ApS is a Danish development company based in Horsens that builds flash pyrolysis plants producing biochar and syngas. Led by CEO Søren Bruun, the firm is delivering demonstration plants (including the Vrejlev Energi project) and plans to begin commercial sales of pyrolysis plants in early 2026.
 
 ![Frichs Pyrolysis Aps website](/screenshots/frichs-pyrolysis-aps.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energywatch.com/EnergyNews/Utilities/article18369276.ece))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://frichs-pyrolysis.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.biochareurope.eu/members))

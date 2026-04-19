@@ -2,7 +2,7 @@
 title: "Anew Climate"
 layout: "single"
 type: "directory"
-description: "Anew Climate is a Houston-based carbon project developer and credit marketer, majority-owned by TPG Rise Climate, formed from the 2022 merger of Element"
+description: "Originates and markets nature-based (IFM, soil carbon, afforestation) and tech-based (BECCS) carbon removal credits on behalf of landowners and project developers; also trades RNG, RECs, and"
 url: "/directory/anew-climate/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"

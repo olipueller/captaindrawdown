@@ -2,7 +2,7 @@
 title: "Global Carbon Council (GCC)"
 layout: "single"
 type: "directory"
-description: "Global Carbon Council (GCC) is an international carbon crediting program and registry based in Qatar, established in 2016 by the Gulf Organisation for Research"
+description: "A carbon crediting standard and registry program based in Qatar that certifies GHG reduction/removal projects and issues Approved Carbon Credits, with CORSIA and ICROA accreditation."
 url: "/directory/global-carbon-council-gcc/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

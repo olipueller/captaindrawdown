@@ -2,7 +2,7 @@
 title: "Carbon Vault Sdn Bhd"
 layout: "single"
 type: "directory"
-description: "Carbon Vault Sdn Bhd (operating as Carbon Bank) is a Malaysia-based carbon credit platform that provides audit, registry, and trading services, and co-develops"
+description: "Operates a carbon credit registry/trading platform (with a blockchain registry JV) and develops nature-based forestry carbon projects in Malaysia."
 url: "/directory/carbon-vault-sdn-bhd/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

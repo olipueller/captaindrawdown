@@ -2,10 +2,10 @@
 title: "Varhad"
 layout: "single"
 type: "directory"
-description: "Varhad Capital (VCAP), part of the Varhad Group based in Pune/Nagpur, India, is a biochar CDR project developer operating through a network of 165 farmer"
+description: "Varhad Capital operates artisanal Kon-Tiki kilns and industrial pyrolysis/gasification plants converting cotton and pigeon pea stalks from Indian farmer cooperatives into biochar, and is scaling"
 url: "/directory/varhad/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://varhad.in/" target="_blank" rel="noopener">https://varhad.in/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-varhad-group/" target="_blank" rel="noopener">the-varhad-group — 6,337 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~17</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Varhad Capital (VCAP), part of the Varhad Group based in Pune/Nagpur, India, is a biochar CDR project developer operating through a network of 165 farmer cooperatives to convert cotton and pigeon pea stalks into biochar via Kon-Tiki kilns and industrial pyrolysis. It has partnered with Japan's Green Carbon Inc. and Switzerland's Carbonfuture to deliver approximately 120,300 tonnes of biochar removal credits, and is expanding into biomethanol and biomass-to-SAF projects that generate additional CDR credits under Carbon Standard International and Isometric.
+Varhad Capital (VCAP), part of the Varhad Group based in Pune/Nagpur, India, is a biochar CDR project developer that works with roughly 165 farmer cooperatives to pyrolyze agricultural residues. The company has partnered with Japan's Green Carbon Inc. and Switzerland's Carbonfuture to deliver approximately 120,300 tonnes of biochar carbon removal credits, and is building integrated biochar-and-biomethanol plants targeting commissioning in late 2026.
 
 ![Varhad website](/screenshots/varhad.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://green-carbon.co.jp/en/enindias-largest-biochar-carbon-removal-project/))
 - **2026-04-19** — merged 1 duplicate(s): Varhad Capital Pvt Ltd
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

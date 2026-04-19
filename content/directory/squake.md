@@ -2,7 +2,7 @@
 title: "SQUAKE"
 layout: "single"
 type: "directory"
-description: "SQUAKE is a Berlin-based climate tech company providing an API-based platform for carbon calculations and automated carbon credit procurement, primarily"
+description: "API-based carbon accounting and credit procurement platform for travel/logistics that calculates emissions and routes customers to reduction and removal projects including DAC and reforestation."
 url: "/directory/squake/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

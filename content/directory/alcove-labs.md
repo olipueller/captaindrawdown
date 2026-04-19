@@ -2,7 +2,7 @@
 title: "Alcove Labs"
 layout: "single"
 type: "directory"
-description: "Alcove (alcove.io) is a New York-based software company building inventory management, dMRV and digital infrastructure for carbon credit project developers and"
+description: "SaaS platform for carbon credit inventory management, dMRV data pipelines, and registry/marketplace integrations serving CDR project developers."
 url: "/directory/alcove-labs/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

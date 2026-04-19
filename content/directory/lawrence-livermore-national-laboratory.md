@@ -2,7 +2,7 @@
 title: "Lawrence Livermore National Laboratory"
 layout: "single"
 type: "directory"
-description: "Lawrence Livermore National Laboratory (LLNL) is a U.S. Department of Energy national laboratory operated by Lawrence Livermore National Security, LLC for the"
+description: "DOE national laboratory conducting CDR research across DAC, BiCRS, mineralization, forests/soils, and geologic storage, including reservoir modeling for commercial CO2 storage permits and the Roads"
 url: "/directory/lawrence-livermore-national-laboratory/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

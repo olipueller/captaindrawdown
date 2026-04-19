@@ -2,7 +2,7 @@
 title: "Toucan"
 layout: "single"
 type: "directory"
-description: "Toucan is a blockchain-based carbon market infrastructure provider that tokenizes carbon credits (including biochar CDR credits via Puro.earth) to enable"
+description: "Tokenizes carbon credits on-chain (Polygon/Base) via bridges to registries like Verra and Puro.earth, and operates liquidity pools such as CHAR for biochar CDR credits."
 url: "/directory/toucan/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,7 +2,7 @@
 title: "OpenAir Collective"
 layout: "single"
 type: "directory"
-description: "OpenAir Collective is a distributed global volunteer network advancing carbon dioxide removal through collaborative R&D, citizen science, policy advocacy, and"
+description: "Volunteer nonprofit network running CDR policy advocacy, student innovation competitions, educational webinars, and the CDR.ai LLM knowledge platform — not a physical CO2 remover."
 url: "/directory/openair-collective/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

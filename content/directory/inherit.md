@@ -2,7 +2,7 @@
 title: "Inherit"
 layout: "single"
 type: "directory"
-description: "Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 and based in Oslo that develops carbon removal projects from organic waste to"
+description: "Develops BECCS projects capturing biogenic CO2 from biogas/wastewater facilities and permanently storing it in North Sea sub-seabed geological storage via Northern Lights."
 url: "/directory/inherit/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -14,19 +14,20 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.inheritcarbonsolutions.com/" target="_blank" rel="noopener">https://www.inheritcarbonsolutions.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 and based in Oslo that develops carbon removal projects from organic waste to geological storage and delivers verified carbon removal credits to buyers including Microsoft, DNV and Nordea. In March 2026 it launched what is claimed as the world's first BECCS project storing biogenic CO2 from a wastewater biogas facility: CO2 captured at the Veas plant in Slemmestad is liquefied, trucked to Northern Lights' Øygarden terminal, and piped to storage 2,600 metres below the seabed. Credits are certified through the Puro.earth registry.
+Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 and based in Oslo that develops carbon removal projects from organic waste to geological storage and delivers verified carbon removal credits to buyers including Microsoft, DNV and Nordea. In March 2026 the company began operation of a world-first BECCS project permanently storing biogenic CO2 captured from wastewater biogas 2,600 metres below the seabed. Credits are certified through the Puro.earth registry.
 
 ![Inherit website](/screenshots/inherit.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.inheritcarbonsolutions.com/news/inherit-enters-operation-with-worlds-first-carbon-removal-project-from-biogas-in-norway))
 - **2026-04-19** — merged 1 duplicate(s): Inherit Carbon Solutions
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

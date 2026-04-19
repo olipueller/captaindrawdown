@@ -2,10 +2,10 @@
 title: "Carbon Neutral Initiative"
 layout: "single"
 type: "directory"
-description: "Carbon Neutral Initiative (CNI) is a Netherlands-based organization running the Carbon Green Roof project, which aims to become the first bio-enhanced silicate"
+description: "Applies crushed silicate minerals (olivine) to green roofs and garden soils to permanently remove atmospheric CO2 via enhanced rock weathering."
 url: "/directory/carbon-neutral-initiative/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://carbon-neutral-initiative.com/" target="_blank" rel="noopener">https://carbon-neutral-initiative.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-neutral-initiative/" target="_blank" rel="noopener">carbon-neutral-initiative — 1,244 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbon Neutral Initiative (CNI) is a Netherlands-based organization running the Carbon Green Roof project, which aims to become the first bio-enhanced silicate weathering project in Europe. It collaborates with TNO, Utrecht University, Hasselt University, and Salamanca and Alicante Universities in Spain. CNI won the top prize for the Experiments Encouragement Award in Rotterdam in 2023, and its pilot is part of the broader LIFE@Urban Roofs project under the EU LIFE programme.
+Carbon Neutral Initiative (CNI) is a Dutch company founded by Robert van der Luijt and Peter-Paul Laarhuis focused on permanently removing CO2 from the atmosphere. The company specializes in enhanced weathering applied to green roofs and garden soil, and is setting up a 9-hectare Enhanced Weathering project in Georgetown, Guyana with the aim to remove 1,200 tons of CO2.
 
 ![Carbon Neutral Initiative website](/screenshots/carbon-neutral-initiative.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://carbon-neutral-initiative.com/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://carbon-neutral-initiative.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://carbon-neutral-initiative.com/))

@@ -2,10 +2,10 @@
 title: "Exterra"
 layout: "single"
 type: "directory"
-description: "Exterra (formerly Exterra Carbon Solutions, rebranded to Exterra Technologies in early 2026) is a Québec-based cleantech company that processes legacy asbestos"
+description: "Uses a proprietary hydrometallurgical LOW™ process to extract reactive metal oxides from asbestos mine tailings, and a ROC™ process that reacts those oxides with CO2 to form stable magnesium/calcium"
 url: "/directory/exterra/"
 pathway: "Mineralization"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://exterratechnologies.com/" target="_blank" rel="noopener">https://exterratechnologies.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/esgnr/" target="_blank" rel="noopener">esgnr — 3,018 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~24</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Exterra (formerly Exterra Carbon Solutions, rebranded to Exterra Technologies in early 2026) is a Québec-based cleantech company that processes legacy asbestos mine tailings into low-carbon critical minerals (magnesium oxide, nickel concentrate, amorphous silica) while permanently mineralizing CO2 via its ROC™ process. The company raised a CAD $20M Series A in May 2025 (co-led by Clean Energy Ventures and BDC Capital), has a Frontier Climate pre-purchase agreement, and is developing its Hub I plant in Val-des-Sources, with construction scheduled to begin in 2027.
+Exterra Technologies (formerly Exterra Carbon Solutions, rebranded February 2026) is a Montréal-based cleantech company that processes legacy asbestos mine tailings into critical minerals (magnesium oxide, nickel concentrate, amorphous silica) via its proprietary LOW™ process, and can optionally mineralize CO2 into stable carbonates via its ROC™ process. The company closed a CAD $20M Series A in May 2025 (co-led by Clean Energy Ventures and BDC Capital) bringing total funding to CAD $32M, and plans Hub I commercial construction in 2027. It has a Frontier pre-purchase agreement and partnerships with BASF, Énergir, and Deep Sky for carbon storage.
 
 ![Exterra website](/screenshots/exterra.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=side_business liveliness=🟢 Active ([source](https://exterratechnologies.com/news/exterra-carbon-solutions-becomes-exterra-technologies))
 - **2026-04-19** — merged 1 duplicate(s): Exterra Carbon Solutions
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

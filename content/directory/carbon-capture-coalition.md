@@ -2,7 +2,7 @@
 title: "Carbon Capture Coalition"
 layout: "single"
 type: "directory"
-description: "The Carbon Capture Coalition is a US nonpartisan policy advocacy coalition convened by the Great Plains Institute, uniting 100+ companies, labor unions, and"
+description: "A US policy advocacy coalition of companies, unions, and NGOs that lobbies for federal policy and tax-credit support (notably 45Q) for carbon capture, removal, transport, and storage — it does not"
 url: "/directory/carbon-capture-coalition/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

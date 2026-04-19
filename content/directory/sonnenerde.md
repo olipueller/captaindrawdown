@@ -2,10 +2,10 @@
 title: "Sonnenerde"
 layout: "single"
 type: "directory"
-description: "Sonnenerde GmbH is an Austrian biochar producer in Riedlingsdorf, Burgenland, operating the first biochar production plant in Europe approved under waste law,"
+description: "Pyrolysis of woody composting residues (sieve residues) into EBC-certified biochar, using a Pyreg-based process and now a new large-scale \"KOHLOSS\" carbonization plant."
 url: "/directory/sonnenerde/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,14 +14,14 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.sonnenerde.at" target="_blank" rel="noopener">https://www.sonnenerde.at</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sonnenerde/" target="_blank" rel="noopener">sonnenerde — 1,146 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Sonnenerde GmbH is an Austrian biochar producer in Riedlingsdorf, Burgenland, operating the first biochar production plant in Europe approved under waste law, in continuous operation since 2012 and having produced around 2,000 tons of biochar over 10 years. On April 30, 2025 the company opened its new "KOHLOSS" carbonization facility, and after three years of construction the plant is now in full operation. The company sells biochar-based soil, livestock and Terra Preta products and issues Puro.earth carbon removal credits.
+Sonnenerde GmbH is an Austrian composting and soil-production company in Riedlingsdorf, Burgenland, founded in 1998, that also operates a biochar pyrolysis facility. In April 2025 it opened a new large-scale carbonization plant ("KOHLOSS") that scales biochar output to around 2,000 tons per year, bound to roughly 4,000 tons of CO2. The company sells biochar carbon-removal credits via Puro.earth while its core business remains quality soil and compost products.
 
 ![Sonnenerde website](/screenshots/sonnenerde.png)
 
@@ -31,6 +31,7 @@ Sonnenerde GmbH is an Austrian biochar producer in Riedlingsdorf, Burgenland, op
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.sonnenerde.at/en/climate-protection/sonnenerde-biochar-plant))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sonnenerde.at/en/climate-protection/sonnenerde-biochar-plant))

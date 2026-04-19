@@ -2,10 +2,10 @@
 title: "Canadian Wollastonite"
 layout: "single"
 type: "directory"
-description: "Canadian Wollastonite is an Ontario-based mining company near Seeley's Bay that produces fast-weathering wollastonite (calcium silicate) used for enhanced rock"
+description: "Mines and crushes wollastonite (calcium silicate); supplies the fast-weathering mineral to UNDO for spreading on Ontario farmland to enable enhanced rock weathering CDR."
 url: "/directory/canadian-wollastonite/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://canadianwollastonite.com" target="_blank" rel="noopener">https://canadianwollastonite.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/canadian-wollastonite/" target="_blank" rel="noopener">canadian-wollastonite — 481 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-50% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Canadian Wollastonite is an Ontario-based mining company near Seeley's Bay that produces fast-weathering wollastonite (calcium silicate) used for enhanced rock weathering carbon removal. Through an exclusive partnership with UK-based UNDO, the company supplies and spreads crushed wollastonite on Canadian farmland to permanently remove atmospheric CO2 while improving soil health and crop yields. The mine has access to roughly 17 million tonnes of wollastonite and has been a key feedstock source for ERW credit deals including Microsoft's 25,000-tonne purchase in 2024.
+Canadian Wollastonite is an Ontario-based industrial minerals mine near Seeley's Bay / Kingston, in operation since 2013, that mines and crushes wollastonite for horticultural, industrial, and agricultural markets. Since 2023 it has partnered with UK-based UNDO Carbon to supply and spread crushed wollastonite on Canadian farmland for enhanced rock weathering carbon removal, a project that also underpinned UNDO's Microsoft ERW offtake. Mining is the core business; the ERW/CDR activity is an adjacent revenue stream enabled through the UNDO partnership.
 
 ![Canadian Wollastonite website](/screenshots/canadian-wollastonite.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=side_business liveliness=🟢 Active ([source](https://canadianwollastonite.com/a-deep-dive-into-the-science-of-proving-carbon-capture/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://canadianwollastonite.com/a-deep-dive-into-the-science-of-proving-carbon-capture/))

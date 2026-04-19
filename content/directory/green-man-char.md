@@ -2,10 +2,10 @@
 title: "Green Man Char"
 layout: "single"
 type: "directory"
-description: "Green Man Char is an Australian biochar producer (the brand of Cyclic Carbon Pty Ltd) operating at the Yarra Ranges Council biochar facility in Lysterfield,"
+description: "Continuous pyrolysis of woody waste biomass using Earth Systems' CharMaker technology to produce biochar, wood vinegar and activated charcoal."
 url: "/directory/green-man-char/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://greenmanchar.com.au/" target="_blank" rel="noopener">https://greenmanchar.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/green-man-char/" target="_blank" rel="noopener">green-man-char — 46 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Green Man Char is an Australian biochar producer (the brand of Cyclic Carbon Pty Ltd) operating at the Yarra Ranges Council biochar facility in Lysterfield, Victoria, using Earth Systems' CharMaker continuous pyrolysis technology to convert local woody waste into biochar and wood vinegar. The facility was commissioned in 2023 and won the 2025 LGPro VIC Award for Environmental Sustainability. Products are sold primarily as soil conditioners and horticultural inputs.
+Green Man Char is the product brand of Cyclic Carbon Pty Ltd, an Australian biochar producer operating at the Yarra Ranges biochar facility in Victoria using Earth Systems' CharMaker continuous pyrolysis technology to convert local woody waste into biochar and wood vinegar. The company sells biochar, activated charcoal, wood vinegar and frass for agricultural and horticultural applications, and the facility won the 2025 LGPro VIC Award for Environmental Sustainability.
 
 ![Green Man Char website](/screenshots/green-man-char.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://greenmanchar.com.au/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/green-man-char/__ZdJg_3A0SJptNkOg5XdOPUnp86GpP0A5oS7MXMOQ2Ws))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://greenmanchar.com.au/))

@@ -2,7 +2,7 @@
 title: "pHathom"
 layout: "single"
 type: "directory"
-description: "pHathom Technologies is a Halifax, Nova Scotia cleantech startup founded in 2024 developing a hybrid BECCS + ocean storage pathway it calls Bioenergy Carbon"
+description: "Captures biogenic CO2 from coastal biomass power plants and reacts it with seawater and crushed limestone in onshore weathering reactors to produce stable bicarbonate that is released to the ocean"
 url: "/directory/phathom/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://phathom.tech/" target="_blank" rel="noopener">https://phathom.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phathomtech/" target="_blank" rel="noopener">phathomtech — 1,004 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+120% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-pHathom Technologies is a Halifax, Nova Scotia cleantech startup founded in 2024 developing a hybrid BECCS + ocean storage pathway it calls Bioenergy Carbon Capture and Ocean Storage (BECCOS). Its technology bolts onto coastal biomass power plants, using limestone and seawater to convert captured CO2 into stable bicarbonate released into the ocean. The company closed a C$4M seed round in Feb 2026 (led by Propeller Ventures, with Carmeuse Ventures, NBIF, and Invest Nova Scotia), surpassed $12M in total committed capital, and is a Frontier APA supplier with pilots planned at Huntsman Marine Science Centre (2026) and a commercial demo in 2027.
+pHathom Technologies is a Halifax, Nova Scotia cleantech startup founded in 2024 developing a hybrid BECCS + ocean alkalinity pathway. Its "bolt-on" reactor captures biogenic CO2 from coastal bioenergy plants and reacts it with seawater and limestone to form dissolved bicarbonate, which is returned to the ocean for durable storage. In February 2026 it closed a C$4M seed round led by Propeller Ventures, bringing total committed capital past $12M, and it is a participant in Frontier's advance purchase program.
 
 ![pHathom website](/screenshots/phathom.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://phathom.tech/our-technology/))
 - **2026-04-19** — merged 1 duplicate(s): pHathom Technologies
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://betakit.com/phathom-technologies-closes-4-million-to-pilot-its-coastal-carbon-capture-tech/))

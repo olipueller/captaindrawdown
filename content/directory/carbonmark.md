@@ -2,7 +2,7 @@
 title: "Carbonmark"
 layout: "single"
 type: "directory"
-description: "Carbonmark is a global carbon credits marketplace that connects project developers and buyers via an open, blockchain-based platform with zero-commission"
+description: "Blockchain-based open marketplace and API for issuing, buying, selling, and retiring carbon credits, including a Carbonmark Direct on-chain issuance pathway for novel CDR methodologies (DAC, BECCS,"
 url: "/directory/carbonmark/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

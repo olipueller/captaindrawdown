@@ -2,7 +2,7 @@
 title: "BeZero"
 layout: "single"
 type: "directory"
-description: "BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose carbon credit ratings allow market participants to price and manage risk. It is"
+description: "Independent ratings agency that assesses quality and risk of carbon credit projects (both avoidance and removal) using an 8-point letter-rating scale, backed by geospatial data, proprietary models"
 url: "/directory/bezero/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

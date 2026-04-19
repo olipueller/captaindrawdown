@@ -2,7 +2,7 @@
 title: "greentrade.tech"
 layout: "single"
 type: "directory"
-description: "GreenTrade (GreenTrade Impact GmbH) is a Berlin-based marketplace founded in 2022 that provides forward financing for nature- and tech-based carbon projects"
+description: "Blockchain-based marketplace and forward-financing platform that converts multi-year offtake agreements with carbon project developers into tradable digital assets for corporate buyers."
 url: "/directory/greentradetech/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,7 +2,7 @@
 title: "Supercritical"
 layout: "single"
 type: "directory"
-description: "Supercritical is a London-based carbon removal marketplace that sources, vets, and distributes permanent CDR credits across biochar, BECCS, DAC, ERW, bio-oil"
+description: "Curated CDR marketplace and brokerage with proprietary 100+ point project vetting, live pricing/availability data, and offtake structuring — not itself a removal operator."
 url: "/directory/supercritical/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

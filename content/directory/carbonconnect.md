@@ -2,7 +2,7 @@
 title: "CarbonConnect"
 layout: "single"
 type: "directory"
-description: "CarbonConnect GmbH is a Hamburg-based biochar carbon removal project developer that trains smallholder farmers (\"Climate Agents\") in Africa to convert"
+description: "Trains smallholder farmers to produce biochar from agricultural residues using low-cost Kon-Tiki/flame-curtain pyrolysis kilns, with digital MRV and third-party-audited CDR certificate sales."
 url: "/directory/carbonconnect/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-CarbonConnect GmbH is a Hamburg-based biochar carbon removal project developer that trains smallholder farmers ("Climate Agents") in Africa to convert agricultural residues into biochar via flame-curtain pyrolysis. The company manages the full value chain from project design to MRV and sale of CDR certificates, with projects in Nigeria, Cameroon and Zimbabwe endorsed by Carbon Standards International.
+CarbonConnect GmbH is a Hamburg-based biochar CDR project developer founded in 2021 that trains smallholder farmers ("Climate Agents") in Africa and Latin America to convert agricultural residues into biochar via flame-curtain pyrolysis. The company manages the full value chain from project design and MRV to sale of CDR certificates, with projects in Nigeria, Cameroon, Zimbabwe, and Ecuador, certified under Carbon Standards International's Global Artisan C-Sink methodology.
 
 ![CarbonConnect website](/screenshots/carbonconnect.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbonconnect.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbonconnect.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonconnect.earth/ ([source](https://www.cdr.fyi/supplier/carbonconnect))

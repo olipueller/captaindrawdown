@@ -2,10 +2,10 @@
 title: "Novocarbo"
 layout: "single"
 type: "directory"
-description: "Novocarbo is a Hamburg-based climate tech company that builds and operates Carbon Removal Parks across Germany, using pyrolysis to convert biogenic residues"
+description: "Operates pyrolysis-based Carbon Removal Parks that turn biogenic residues into EBC-certified biochar while feeding excess heat into district heating networks."
 url: "/directory/novocarbo/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,14 +14,14 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.novocarbo.com/" target="_blank" rel="noopener">https://www.novocarbo.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbo3-gmbh/" target="_blank" rel="noopener">carbo3-gmbh — 10,244 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~20 (-44% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Novocarbo is a Hamburg-based climate tech company that builds and operates Carbon Removal Parks across Germany, using pyrolysis to convert biogenic residues into biochar while supplying renewable district heat. The company issues Puro-certified biochar carbon removal credits and has active sites and partnerships in Grevesmühlen, Bochum and Dessau, plus a biochar-in-asphalt pilot with Hansa Asphalt.
+Novocarbo is a Hamburg-based climate tech company that builds and operates Carbon Removal Parks across Germany, using pyrolysis to convert biogenic residues into biochar while supplying renewable district heat. The company issues Puro- and EBC-certified biochar carbon removal credits and has active sites and partnerships in Grevesmühlen, Bochum and Dessau, plus a biochar-in-asphalt pilot with Hansa Asphalt.
 
 ![Novocarbo website](/screenshots/novocarbo.png)
 
@@ -31,6 +31,7 @@ Novocarbo is a Hamburg-based climate tech company that builds and operates Carbo
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.novocarbo.com/news/turning-asphalt-into-a-climate-solution/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.novocarbo.com/biochar/green-construction/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/novocarbo-and-stadtwerke-dessau-sign-new-biochar-and-renewable-heat-partnership/))

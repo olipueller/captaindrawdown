@@ -2,7 +2,7 @@
 title: "Hafslund Celsio"
 layout: "single"
 type: "directory"
-description: "Hafslund Celsio is Norway's largest district heating supplier and operator of the Klemetsrud waste-to-energy plant in Oslo, owned by Hafslund (60%), Infranode"
+description: "Amine-based (SLB Capturi Just Catch) post-combustion capture retrofit on a municipal waste-to-energy plant, with liquefied CO2 shipped via Oslo harbour to Northern Lights for sub-seabed storage; ~50%"
 url: "/directory/hafslund-celsio/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -16,18 +16,19 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hafslundeco/" target="_blank" rel="noopener">hafslundeco — 13,382 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~952 (+23% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Hafslund Celsio is Norway's largest district heating supplier and operator of the Klemetsrud waste-to-energy plant in Oslo, owned by Hafslund (60%), Infranode (20%) and HitecVision (20%). It is developing a flagship full-scale BECCS project under Norway's Longship program, which reached FID in January 2025 (NOK 9.5 billion) and is targeted to be operational in 2029, capturing up to ~350,000–400,000 tonnes CO2/year with ~60% biogenic share. The project has secured major CDR offtake agreements with Microsoft (1.1 Mt over 10 years) and Frontier (100,000 t).
+Hafslund Celsio is Norway's largest district heating and waste-to-energy company, owned by Hafslund (60%), Infranode (20%) and HitecVision (20%). It is retrofitting its Klemetsrud WtE plant in Oslo with a full-scale carbon capture facility under Norway's Longship program, reaching FID in January 2025 and targeted to capture ~350,000 tonnes CO2/year from 2029, roughly half of which is biogenic (BECCS). The company's core business is district heating and waste incineration, with CDR as an emerging revenue stream via offtake deals with Frontier and Microsoft.
 
 ![Hafslund Celsio website](/screenshots/hafslund-celsio.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://kommunikasjon.ntb.no/pressemelding/18583528/hafslund-celsio-announces-a-10-year-carbon-removal-agreement-with-microsoft))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.slb.com/news-and-insights/newsroom/press-release/2025/slb-capturi-and-aker-solutions-win-contract-to-deliver-carbon-capture-solution-for-hafslund-celsio))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.slb.com/news-and-insights/newsroom/press-release/2025/slb-capturi-and-aker-solutions-win-contract-to-deliver-carbon-capture-solution-for-hafslund-celsio))

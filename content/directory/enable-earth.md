@@ -2,7 +2,7 @@
 title: "Enable Earth"
 layout: "single"
 type: "directory"
-description: "Enable Earth is a biochar project developer based in Wiang Pa Pao District, Chiang Rai Province, Thailand. The company converts local corn crop residues"
+description: "Pyrolyzes corn crop residues (stalks, leaves, cobs) from local farmers into biochar that is blended with compost and distributed locally."
 url: "/directory/enable-earth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Website</th><td><a href="https://enableearth.eco/" target="_blank" rel="noopener">https://enableearth.eco/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enable-earth/" target="_blank" rel="noopener">enable-earth — 625 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+300% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Enable Earth is a biochar project developer based in Wiang Pa Pao District, Chiang Rai Province, Thailand. The company converts local corn crop residues (stalks, leaves and cobs) — which would otherwise be openly burned and contribute to PM2.5 pollution — into stable biochar via pyrolysis, with the biochar blended with compost and distributed to local farmers. It has passed Puro.earth's Preliminary Assessment and is listed as a future CORC supplier.
+Enable Earth is a biochar project developer based in Wiang Pa Pao District, Chiang Rai Province, Thailand. It converts corn crop residues — otherwise openly burned and contributing to PM2.5 pollution — into biochar via pyrolysis, mixes it with compost, and distributes it to local farmers. The project has passed Puro.earth's Preliminary Assessment and is listed as a future supplier.
 
 ![Enable Earth website](/screenshots/enable-earth.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/enable-earth-chang-rai-1-127))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/enable-earth-chang-rai-1-127))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.accend.earth/projects-enable-earth))

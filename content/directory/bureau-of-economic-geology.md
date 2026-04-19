@@ -2,7 +2,7 @@
 title: "Bureau of Economic Geology"
 layout: "single"
 type: "directory"
-description: "The Gulf Coast Carbon Center (GCCC) is an industry-funded research programme run by the Bureau of Economic Geology at the University of Texas at Austin,"
+description: "University-based geological research institution (Texas state geological survey) whose Gulf Coast Carbon Center conducts site characterization, monitoring, and MRV science for geological CO2 storage"
 url: "/directory/bureau-of-economic-geology/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

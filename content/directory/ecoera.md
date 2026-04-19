@@ -2,7 +2,7 @@
 title: "Ecoera"
 layout: "single"
 type: "directory"
-description: "Ecoera was founded at Chalmers Ventures with Skånefrö AB and began Sweden's first large-scale biochar application for carbon removal in 2009. Biochar is"
+description: "Produces biochar via pyrolysis of pelletized agricultural residues using PYREG P500/P1500 systems at a facility in Hammenhög, Sweden, selling CORCs verified under the European Biochar Certificate and"
 url: "/directory/ecoera/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -14,14 +14,14 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://ecoera.se/" target="_blank" rel="noopener">https://ecoera.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoera-ab/" target="_blank" rel="noopener">ecoera-ab</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Ecoera was founded at Chalmers Ventures with Skånefrö AB and began Sweden's first large-scale biochar application for carbon removal in 2009. Biochar is produced at a large Hammenhög facility in South Sweden using PYREG P500 and P1500 carbonization systems. Output is third-party verified under the European Biochar Certificate and the Puro.earth Biochar methodology, and sold as CO2 Removal Certificates (CORCs).
+Ecoera is a Swedish biochar carbon removal company founded at Chalmers Ventures with Skånefrö AB, having started Sweden's first large-scale biochar application for carbon removal in 2009. Biochar is produced in Hammenhög, South Sweden, at one of the largest biochar facilities in the EU using PYREG P500 and P1500 systems. Output is third-party verified against the European Biochar Certificate and the Puro.earth Biochar methodology, and sold as CO2 Removal Certificates (CORCs).
 
 ![Ecoera website](/screenshots/ecoera.png)
 
@@ -31,6 +31,7 @@ Ecoera was founded at Chalmers Ventures with Skånefrö AB and began Sweden's fi
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://ecoera.se/))
 - **2026-04-19** — merged 1 duplicate(s): Ecoera AB
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

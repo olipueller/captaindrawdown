@@ -2,7 +2,7 @@
 title: "Goal 300"
 layout: "single"
 type: "directory"
-description: "Goal 300 is a small US-based enhanced rock weathering project developer operating in the Pacific Northwest (Oregon/Washington), partnering with landowners to"
+description: "Applies finely crushed basalt to agricultural fields in the US Pacific Northwest to accelerate silicate weathering and permanently sequester CO2 while improving soil health."
 url: "/directory/goal-300/"
 pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://goal300.earth/" target="_blank" rel="noopener">https://goal300.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/goal300/" target="_blank" rel="noopener">goal300 — 63 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Goal 300 is a small US-based enhanced rock weathering project developer operating in the Pacific Northwest (Oregon/Washington), partnering with landowners to spread finely crushed basalt on agricultural fields to sequester CO₂ and improve soil health. The company, founded by Zachary Price, operates on a model where they apply ERW for free and share resulting carbon credits with partner farmers. It is a very small operation (~1 employee) and the founder appears to split time between Goal 300 and other ventures.
+Goal 300 focuses on removing legacy greenhouse gas emissions through Enhanced Rock Weathering in the Pacific Northwest USA and claims the largest active carbon removal project in Washington State. The company partners with landowners to turn fields into carbon sinks using ERW technology, with farmers benefiting from soil vitality improvements, reduced liming costs, and future carbon credit income. The company is a small, founder-led pure-play ERW developer selling verified carbon credits to buyers.
 
 ![Goal 300 website](/screenshots/goal-300.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://goal300.earth/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://goal300.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://goal300.earth/carbon-buyers/))

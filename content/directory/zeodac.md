@@ -2,7 +2,7 @@
 title: "ZeoDAC"
 layout: "single"
 type: "directory"
-description: "ZeoDAC, Inc. was founded in June 2023 by Professors Christopher Jones (Georgia Tech) and Mark E. Davis (Caltech), holds an exclusive worldwide license to"
+description: "Amine-free solid-sorbent DAC using metal-containing MOR-type and mazzite zeolites via temperature-vacuum swing adsorption, co-producing water."
 url: "/directory/zeodac/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.zeodac.com/" target="_blank" rel="noopener">https://www.zeodac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zeodac-inc/" target="_blank" rel="noopener">zeodac-inc — 773 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+83% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-ZeoDAC, Inc. was founded in June 2023 by Professors Christopher Jones (Georgia Tech) and Mark E. Davis (Caltech), holds an exclusive worldwide license to Caltech zeolite IP, and is hosted at the Advanced Technology Development Center on the Georgia Tech campus in Atlanta. The company secured funding from institutional venture capital and strategic investors led by Wilson Hill Ventures. Captured CO₂ can be used in carbonated beverages, chemical manufacturing, or sequestration, making end-use mixed between CDR and CCU.
+ZeoDAC is a Caltech/Georgia Tech spinout founded in June 2023 by Professors Christopher Jones and Mark E. Davis, commercializing an amine-free, zeolite-based Direct Air Capture process under exclusive license to Caltech IP. Backed by Wilson Hill Ventures, Coca-Cola Europacific Partners, Freeflow Ventures, and Global Brain, and based at Georgia Tech's ATDC in Atlanta.
 
 ![ZeoDAC website](/screenshots/zeodac.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.zeodac.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.zeodac.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.zeodac.com/))

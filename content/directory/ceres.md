@@ -2,7 +2,7 @@
 title: "CERES"
 layout: "single"
 type: "directory"
-description: "CERES (CERtification of Environmental Standards GmbH) is a German inspection and certification body based in Hersbruck that validates and verifies carbon"
+description: "Third-party certification/verification body auditing biochar, humus/soil carbon and on-farm climate projects against ISO 14064 and related standards, with its own ICROA-endorsed registry."
 url: "/directory/ceres/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,10 +2,10 @@
 title: "Aquafin"
 layout: "single"
 type: "directory"
-description: "Aquafin is Belgium's Flemish wastewater treatment utility, responsible for collecting and treating domestic wastewater across Flanders. The company is"
+description: "Aquafin operates a wastewater treatment utility and is building a drying+pyrolysis unit at its RWZI Menen site to convert sewage sludge into biochar for carbon removal."
 url: "/directory/aquafin/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.aquafin.be/" target="_blank" rel="noopener">https://www.aquafin.be/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aquafin/" target="_blank" rel="noopener">aquafin — 22,951 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~1011 (+3% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Aquafin is Belgium's Flemish wastewater treatment utility, responsible for collecting and treating domestic wastewater across Flanders. The company is developing a full-scale biochar production unit at its RWZI Menen wastewater treatment site, integrating drying and pyrolysis of sewage sludge to produce biochar and achieve carbon removal. The project is developed in partnership with Ebema, D-CRBN, and Stadsbader Group, with financial backing from the Helios Foundation.
+Aquafin is the Flemish wastewater treatment utility, owned by the Flemish Environmental Holding, which operates over 300 wastewater treatment plants and treats ~86% of Flanders' domestic wastewater. Its biochar project at the RWZI Menen site—pyrolyzing sewage sludge in partnership with Ebema and D-CRBN—is an adjacent side activity within its broader sludge valorization strategy, alongside biogas, biomethane, and a BESIX-Indaver mono-incineration plant planned for Ghent. Wastewater treatment, not CDR, is the company's core business.
 
 ![Aquafin website](/screenshots/aquafin.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))

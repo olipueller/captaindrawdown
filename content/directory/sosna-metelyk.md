@@ -2,10 +2,10 @@
 title: "Sosna Metelyk"
 layout: "single"
 type: "directory"
-description: "Sosna Metelyk is an early-stage, unfunded American-Ukrainian climate hardware startup founded in 2023 and based in Cherkasy, Ukraine. It is developing a"
+description: "Concept-stage passive direct air capture pods combining a proprietary sorbent with integrated solar power, alongside unrelated hardware concepts (Gen-IV reactor, clean engines, orbital aircraft)."
 url: "/directory/sosna-metelyk/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>DAC (Cryogenic)</td></tr>
   <tr><th>Country</th><td>Ukraine</td></tr>
   <tr><th>Website</th><td><a href="https://sosnametelyk.com/" target="_blank" rel="noopener">https://sosnametelyk.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Sosna Metelyk is an early-stage, unfunded American-Ukrainian climate hardware startup founded in 2023 and based in Cherkasy, Ukraine. It is developing a concept for portable solar-powered passive direct-air-capture pods alongside several other unrelated hardware concepts (Gen-IV gas-cooled fast reactor, clean engines, orbital aircraft). The company self-reports TRL 4 R&D phase with no funding, deliveries, or validated technology.
+Sosna Metelyk is an unfunded American-Ukrainian early-stage climate hardware startup founded in 2023, incorporated in California with operations in Cherkasy, Ukraine. It is developing a conceptual passive direct-air-capture pod with embedded solar alongside several unrelated hardware ideas, and self-reports TRL 4 R&D with no commercial deliveries or registry issuances. Founder Oksana Gal remains publicly active, but the company has no funding, no team build-out, and no demonstrated hardware.
 
 ![Sosna Metelyk website](/screenshots/sosna-metelyk.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://sosnametelyk.com/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](https://www.startus-insights.com/innovators-guide/energy-startups-and-companies/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://sosnametelyk.com/))

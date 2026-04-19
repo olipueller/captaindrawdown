@@ -2,7 +2,7 @@
 title: "Great Carbon Valley"
 layout: "single"
 type: "directory"
-description: "Great Carbon Valley (GCV) is a Kenyan project development venture and systems integrator founded in 2023 by Bilha Ndirangu and James Irungu Mwangi, working to"
+description: "Project development venture/systems integrator aggregating renewable geothermal power, basalt mineralization storage, land, and third-party DAC technology partners to build DAC+S industrial hubs in"
 url: "/directory/great-carbon-valley/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
-  <tr><th>Website</th><td><a href="https://greatcarbonvalley.com/" target="_blank" rel="noopener">https://greatcarbonvalley.com/</a></td></tr>
+  <tr><th>Website</th><td><a href="https://www.greatcarbonvalley.com/" target="_blank" rel="noopener">https://www.greatcarbonvalley.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/great-carbon-valley/" target="_blank" rel="noopener">great-carbon-valley — 1,350 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Great Carbon Valley (GCV) is a Kenyan project development venture and systems integrator founded in 2023 by Bilha Ndirangu and James Irungu Mwangi, working to build DAC+storage hubs in the Great Rift Valley by aggregating geothermal/renewable power, basalt mineralization storage, land, and DAC technology partners. GCV has signed agreements with Climeworks, Sirona Technologies, Yama, AspiraDAC, Beyond Captur, Cella, and Carbfix to deploy projects targeting up to 1 million tonnes of CO2 removal annually by 2030, with Climeworks' first Kenyan plant targeted for 2028.
+Great Carbon Valley (GCV) is a Kenyan project development venture and systems integrator founded in 2023 by Bilha Ndirangu and James Irungu Mwangi, aiming to build DAC+storage industrial hubs in the Great Rift Valley by combining geothermal power, basalt mineralization storage, land, and DAC technology partners. GCV has signed agreements with Climeworks, Sirona Technologies, Yama, AspiraDAC, Cella, and Beyond Captur, with a first DAC+S facility targeted for 2028. Its vision is to capture at least 1 million tonnes of CO2 annually by 2030.
 
 ![Great Carbon Valley website](/screenshots/great-carbon-valley.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.greatcarbonvalley.com/news-and-insights))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.greatcarbonvalley.com/news-and-insights))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.third-derivative.org/portfolio/great-carbon-valley))

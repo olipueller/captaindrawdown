@@ -2,7 +2,7 @@
 title: "Carbon Standards (C-Sink)"
 layout: "single"
 type: "directory"
-description: "Carbon Standards International develops reliable solutions for the production of certified biochar and for delivering credible climate services, with"
+description: "Swiss standards body operating the EBC/WBC biochar certificates and the Global C-Sink Registry for biochar, ERW, biomass-in-construction, and tree-based carbon sinks."
 url: "/directory/carbon-standards-c-sink/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

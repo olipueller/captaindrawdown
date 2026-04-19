@@ -2,7 +2,7 @@
 title: "ClimateCarbon"
 layout: "single"
 type: "directory"
-description: "ClimateCarbon Eberswalde GmbH & Co. KG is a ForestFinance Group subsidiary established in 2020 to build and operate a biochar carbonization plant in"
+description: "Pyrolysis of forestry and industrial wood residues into biocarbon plus renewable energy, using carbonauten's modular carbonization reactors at a single pilot plant in Eberswalde."
 url: "/directory/climatecarbon/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
@@ -14,19 +14,20 @@ liveliness: "🟠 Suspect"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.climatecarbon.de/" target="_blank" rel="noopener">https://www.climatecarbon.de/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-ClimateCarbon Eberswalde GmbH & Co. KG is a ForestFinance Group subsidiary established in 2020 to build and operate a biochar carbonization plant in Eberswalde, Brandenburg, with carbonauten GmbH as technology partner. The facility was designed to produce approximately 4,800 tonnes of biocarbon per year plus renewable energy from forestry and industrial biomass residues, financed through a €3.6M limited-partner investment offering. Project commissioning has been repeatedly delayed since the original 2021 target.
+ClimateCarbon Eberswalde GmbH & Co. KG is a dedicated biochar subsidiary/SPV of the ForestFinance Group, founded in 2020 to build and operate a single carbonization plant in Eberswalde, Brandenburg, using technology from partner carbonauten GmbH, with a design capacity of ~4,800 t biocarbon per year from forestry and industrial wood residues. Financed by ~€3.6M of limited-partner capital, the project achieved only a first production test in December 2022 and no subsequent public evidence of commercial operation; its technology partner carbonauten has since entered insolvency proceedings, and the company's own website news feed has not been updated since 2022.
 
 ![ClimateCarbon website](/screenshots/climatecarbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟠 Suspect ([source](https://www.climatecarbon.de/ueber-uns/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟠 Suspect ([source](https://www.climatecarbon.de/ueber-uns/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.climatecarbon.de/))

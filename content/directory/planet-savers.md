@@ -2,7 +2,7 @@
 title: "Planet Savers"
 layout: "single"
 type: "directory"
-description: "Planet Savers is Japan's first Direct Air Capture startup, spun out of the University of Tokyo and founded in July 2023. The company develops a zeolite-based"
+description: "Develops a zeolite-based solid sorbent and an optimized CO2 recovery, separation and concentration unit for direct air capture (DACCU system)."
 url: "/directory/planet-savers/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://planetsavers.earth/" target="_blank" rel="noopener">https://planetsavers.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planetsavers/" target="_blank" rel="noopener">planetsavers — 747 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+62% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Planet Savers is Japan's first Direct Air Capture startup, spun out of the University of Tokyo and founded in July 2023. The company develops a zeolite-based CO2 adsorbent and optimized recovery/concentration unit (DACCU system), backed by NEDO, Japan's Ministry of Environment, Spiral Capital and JAFCO (¥250M seed in 2024). It is targeting a 1 ton/day prototype and was selected for the Bosch CarbonCapture Startup Challenge 2025.
+Planet Savers is a University of Tokyo spinout founded in July 2023, positioned as Japan's first Direct Air Capture startup. It develops a zeolite-based CO2 adsorbent and an optimized DACCU (DAC + Carbon Utilization) recovery/concentration unit, backed by NEDO, Spiral Capital and JAFCO (¥250M seed in 2024). The company is targeting a 1 ton/day prototype and was selected for the Bosch Carbon Capture Startup Challenge 2025.
 
 ![Planet Savers website](/screenshots/planet-savers.png)
 
@@ -33,6 +33,7 @@ Planet Savers is Japan's first Direct Air Capture startup, spun out of the Unive
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://planetsavers.earth/Home-en))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://planetsavers.earth/Home-en))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.nedo.go.jp/english/activities/startups/company77.html))

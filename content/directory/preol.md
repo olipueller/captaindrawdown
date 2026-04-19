@@ -2,7 +2,7 @@
 title: "Preol"
 layout: "single"
 type: "directory"
-description: "PREOL, a.s. is the largest Czech rapeseed processor and a subsidiary of the AGROFERT Group, operating a facility in Lovosice that produces biodiesel, rapeseed"
+description: "Pyrolyzes post-harvest rapeseed chaff in a PX1500 unit to produce biochar used as a soil amendment and long-term carbon store."
 url: "/directory/preol/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Czech Republic</td></tr>
   <tr><th>Website</th><td><a href="https://www.preol.cz/" target="_blank" rel="noopener">https://www.preol.cz/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspreol/" target="_blank" rel="noopener">aspreol — 91 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~9</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-PREOL, a.s. is the largest Czech rapeseed processor and a subsidiary of the AGROFERT Group, operating a facility in Lovosice that produces biodiesel, rapeseed oil, pharmaceutical-grade glycerin, and animal feed. In November 2024 it commissioned a PX1500 pyrolysis unit processing rapeseed chaff (~2,350 t/yr input) to produce ~715 t/yr of biochar, which it markets as a soil amendment and long-term carbon sequestration product.
+PREOL, a.s. is the largest Czech rapeseed processor and a member of the AGROFERT Group, operating a large biodiesel, edible oil, glycerine and animal-feed plant in Lovosice that processes about 460,000 tons of rapeseed per year. In November 2024 PREOL commissioned a PX1500 pyrolysis unit that converts rapeseed chaff (~2,350 t/yr input) into roughly 715 t/yr of biochar, which is sold as a soil amendment and carbon-storage product. Biochar is a small adjacent activity within a core biofuels/food-oil business that would continue to exist without it.
 
 ![Preol website](/screenshots/preol.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://preol.cz/en/))
 - **2026-04-19** — merged 1 duplicate(s): PREOL Biochar
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

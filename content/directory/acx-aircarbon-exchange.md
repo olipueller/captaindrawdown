@@ -2,7 +2,7 @@
 title: "ACX (AirCarbon Exchange)"
 layout: "single"
 type: "directory"
-description: "ACX (AirCarbon Exchange) is a global digital exchange for environmental instruments and carbon credits, headquartered in Singapore with a regulated exchange"
+description: "Operates a digital, blockchain-based exchange and clearing house for trading voluntary carbon credits and environmental instruments, regulated in ADGM with a Singapore trading platform."
 url: "/directory/acx-aircarbon-exchange/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

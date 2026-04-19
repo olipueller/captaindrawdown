@@ -2,10 +2,10 @@
 title: "Norma"
 layout: "single"
 type: "directory"
-description: "Norma is a Paris-based climate tech startup developing supercapacitor-based Direct Air Capture technology. It integrates supercapacitor-based energy storage"
+description: "Develops supercapacitor-based electrochemical Direct Air Capture that integrates energy storage with CO2 capture to reduce net energy consumption."
 url: "/directory/norma/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://norma.tech/" target="_blank" rel="noopener">https://norma.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/norma-tech/" target="_blank" rel="noopener">norma-tech — 2,208 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~16</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Norma is a Paris-based climate tech startup developing supercapacitor-based Direct Air Capture technology. It integrates supercapacitor-based energy storage with carbon capture in a single electrochemical system, storing and reusing the energy required to capture CO₂. The company has raised a $1M pre-seed round and signed its first customer over the past 15 months.
+Norma is a Paris-based climate tech startup building a novel Direct Air Capture system that combines supercapacitor energy storage with electrochemical CO2 capture in a single device, aiming for 10× lower energy consumption and sub-$100/ton costs. The company is backed by Counteract VC and Marble, has raised a $1M pre-seed round, and secured its first customer through the Milkywire Climate Transformation Fund. It plans a container-sized pilot in 2026 and a full-scale plant by 2029.
 
 ![Norma website](/screenshots/norma.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://norma.tech/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://norma.tech/))

@@ -2,33 +2,35 @@
 title: "Equinor/Rolls Royce"
 layout: "single"
 type: "directory"
-description: "Equinor is a Norwegian energy major that in April 2024 acquired Rolls-Royce's liquid-solvent (amine-based) DAC technology IP and novated the UK DESNZ-funded"
+description: "Operates an amine-based liquid-solvent DAC demonstrator acquired from Rolls-Royce (Project ENCORE) using CSIRO absorbent chemistry with low-temperature regeneration, integrated with Equinor's"
 url: "/directory/equinorrolls-royce/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.equinor.com/" target="_blank" rel="noopener">https://www.equinor.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equinor/" target="_blank" rel="noopener">equinor — 1,061,784 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~16593 (+1% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Equinor is a Norwegian energy major that in April 2024 acquired Rolls-Royce's liquid-solvent (amine-based) DAC technology IP and novated the UK DESNZ-funded Project ENCORE contract, taking over a demonstrator plant on the Rolls-Royce Derby campus. The program is now an internal DAC development effort within Equinor, complementing its Northern Lights CO2 transport/storage infrastructure and venture investments in RepAir, Captura and 44.01. A Phase 2 project report was published in June 2025, indicating the program remains active.
+Equinor is a Norwegian state-majority-owned international energy major (oil, gas, wind, CCS) headquartered in Stavanger with around 25,000 employees. In April 2024 it acquired Rolls-Royce's amine-based liquid-solvent DAC intellectual property and assets and novated the UK DESNZ-funded Project ENCORE contract, running a demonstrator plant on the Rolls-Royce Derby campus that complements its Northern Lights CO2 transport and storage infrastructure. DAC is an internal R&D side-activity within Equinor's broader low-carbon portfolio rather than its core business.
 
 ![Equinor/Rolls Royce website](/screenshots/equinorrolls-royce.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://assets.publishing.service.gov.uk/media/695cf2d4f41883f4e50ed996/Equinor_ENCORE_GGR_Phase_2_Report_for_publication.pdf))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://assets.publishing.service.gov.uk/media/695cf2d4f41883f4e50ed996/Equinor_ENCORE_GGR_Phase_2_Report_for_publication.pdf))

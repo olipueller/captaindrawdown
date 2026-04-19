@@ -2,7 +2,7 @@
 title: "Syncraft"
 layout: "single"
 type: "directory"
-description: "Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that produces electricity, heat and biochar from wood using its self-developed patented"
+description: "Syncraft designs and builds wood-gasification \"reverse power plants\" using a patented floating fixed-bed reactor that co-produces electricity, heat, and biochar from forest residues for long-term"
 url: "/directory/syncraft/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that produces electricity, heat and biochar from wood using its self-developed patented floating fixed-bed gasification technology. Syncraft has deployed over 45 such systems, with several additional powerplants currently being built, including one in Waiern, Austria. Its "Reverse power plants" generate renewable energy while sequestering carbon as biochar for long-term storage in construction materials, metallurgy, and soil.
+Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that builds patented floating fixed-bed wood gasification plants producing electricity, heat, and biochar. It has deployed 45+ systems across Austria, Germany, Italy, Croatia, Switzerland, and Japan, with multiple new plants commissioned or under construction in 2025 (Gänserndorf, Wallern, Waiern, Stanglwirt/Going am Wilden Kaiser).
 
 ![Syncraft website](/screenshots/syncraft.png)
 
@@ -34,6 +34,7 @@ Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that produces e
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://cleantechnica.com/2025/11/10/austrian-resort-inaugurates-its-climate-positive-syncraft-powerplant/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://cleantechnica.com/2025/11/10/austrian-resort-inaugurates-its-climate-positive-syncraft-powerplant/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.syncraft.at/en/))

@@ -2,7 +2,7 @@
 title: "Climate Action Reserve (CAR)"
 layout: "single"
 type: "directory"
-description: "Climate Action Reserve (CAR) is a Los Angeles-based environmental nonprofit carbon offset registry that develops protocols, accredits verifiers, and issues"
+description: "Nonprofit carbon offset registry that develops crediting protocols, oversees third-party verification, and issues/tracks carbon credits (Climate Reserve Tonnes) for voluntary and California"
 url: "/directory/climate-action-reserve-car/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

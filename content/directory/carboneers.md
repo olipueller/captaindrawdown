@@ -2,7 +2,7 @@
 title: "Carboneers"
 layout: "single"
 type: "directory"
-description: "Carboneers was initially founded as Dutch Carboneers in September 2021 by Mart de Bruijn, an environmental economist, and Berend de Haas, a biologist. The"
+description: "Decentralized pyrolysis of agricultural residues (rice, cotton, maize, cocoa pods) into biochar deployed at village level with smallholder farmers in the Global South, generating verified carbon"
 url: "/directory/carboneers/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carboneers was initially founded as Dutch Carboneers in September 2021 by Mart de Bruijn, an environmental economist, and Berend de Haas, a biologist. The Netherlands-based company partners with smallholder farming communities in India and Ghana to produce biochar from agricultural residues, issuing carbon removal credits through the Isometric registry. Projects are run in partnership with Terrafront Ventures and Together for Restoration in Assam and other Indian regions, with Isometric maintaining a buffer pool to protect against reversal risk.
+Carboneers (formerly Dutch Carboneers) is a Netherlands-based biochar CDR developer that partners with smallholder farming communities in India and Ghana to convert agricultural residues into biochar. The company issues carbon removal credits through the Isometric registry, working with partners such as Terrafront Ventures and Together for Restoration.
 
 ![Carboneers website](/screenshots/carboneers.png)
 
@@ -31,6 +31,7 @@ Carboneers was initially founded as Dutch Carboneers in September 2021 by Mart d
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneers.earth/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneers.earth/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneers.earth/))

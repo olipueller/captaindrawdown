@@ -2,10 +2,10 @@
 title: "EcoFix"
 layout: "single"
 type: "directory"
-description: "EcoFix Kenya Ltd (formerly Eco Fuels Kenya) is a Nanyuki-based social enterprise that processes Croton megalocarpus nuts into biofuel, animal feed, organic"
+description: "Pyrolysis of croton nut-processing residues into biochar via a Terraton-operated facility, stacked onto EcoFix's core croton biofuel/feed/fertilizer production."
 url: "/directory/ecofix/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.efk.co.ke/" target="_blank" rel="noopener">https://www.efk.co.ke/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco-fuels-kenya/" target="_blank" rel="noopener">eco-fuels-kenya — 2,157 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~16 (-6% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-EcoFix Kenya Ltd (formerly Eco Fuels Kenya) is a Nanyuki-based social enterprise that processes Croton megalocarpus nuts into biofuel, animal feed, organic fertilizer, and cosmetics. Through a partnership with Terraton (a full-stack biochar platform that closed an $11.5M seed round in August 2025 from Lowercarbon Capital and Gigascale Capital), EcoFix's nut-processing residues are being converted to biochar at a locally owned facility branded "EcoFix Kenya Biochar," which is under review with Isometric and, together with Terraton's Ghana cocoa project, is expected to remove over 20,000 tonnes of CO₂ annually.
+EcoFix Kenya Ltd (formerly Eco Fuels Kenya) is a Nanyuki-based social enterprise that processes Croton megalocarpus nuts into biofuel, animal feed, organic fertilizer, and cosmetics, sourcing from ~6,000 smallholder farmers. Through a 2025 partnership with Terraton, its nut-processing residues are being converted into biochar, with a facility currently under review with Isometric. Biochar/CDR is an adjacent activity layered onto EcoFix's core agribusiness, which would continue to exist without the CDR stream.
 
 ![EcoFix website](/screenshots/ecofix.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.efk.co.ke/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://esgpost.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-emerging-markets/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.efk.co.ke/))

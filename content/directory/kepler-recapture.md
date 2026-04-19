@@ -2,10 +2,10 @@
 title: "Kepler ReCapture"
 layout: "single"
 type: "directory"
-description: "Kepler ReCapture is a division of Austin, Texas-based aerospace consulting firm Kepler Shipyards, founded in 2021 as an XPRIZE Carbon Removal entrant. The"
+description: "Conceptual design of autonomous offshore spar platforms using OTEC to power combined seawater desalination and CO2 extraction from ocean and air, converting captured carbon into durable co-products."
 url: "/directory/kepler-recapture/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://keplerrecapture.com/" target="_blank" rel="noopener">https://keplerrecapture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kepler-carbon-recapture/" target="_blank" rel="noopener">kepler-carbon-recapture — 291 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
   <tr><th>Employees</th><td>~10 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-Kepler ReCapture is a division of Austin, Texas-based aerospace consulting firm Kepler Shipyards, founded in 2021 as an XPRIZE Carbon Removal entrant. The company is designing conceptual autonomous deep-water spar platforms that would combine OTEC-powered desalination with ocean and atmospheric CO2 removal, producing freshwater and durable carbon-containing co-products. The work remains at the artist-rendering/pre-deployment stage with no operational systems, deliveries, or registry credits reported.
+Kepler ReCapture is an Austin, Texas-based division of aerospace/defense consulting firm Kepler Shipyards, founded in May 2021 specifically to enter the $100M XPRIZE Carbon Removal competition. The team has designed (at conceptual/artist-rendering stage) autonomous deep-water spar platforms that would combine OTEC-powered desalination with ocean and atmospheric CO2 removal, producing freshwater and durable carbon-containing co-products. The company did not advance to the XPRIZE finalist round and has no disclosed deliveries, pilots, or registry credits.
 
 ![Kepler ReCapture website](/screenshots/kepler-recapture.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=division liveliness=🟠 Suspect ([source](https://keplerrecapture.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](https://keplerrecapture.com/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=division liveliness=🟠 Suspect ([source](https://keplerrecapture.com/))

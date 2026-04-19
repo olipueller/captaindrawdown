@@ -2,7 +2,7 @@
 title: "Cnaught"
 layout: "single"
 type: "directory"
-description: "CNaught is a US-based carbon credit marketplace and portfolio provider that curates diversified bundles of high-integrity carbon credits (including both"
+description: "Carbon credit marketplace/portfolio platform that bundles third-party CDR and avoidance credits with diligence, API, and reporting software for SME buyers."
 url: "/directory/cnaught/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

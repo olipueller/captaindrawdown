@@ -2,7 +2,7 @@
 title: "Carbonplace"
 layout: "single"
 type: "directory"
-description: "Carbonplace is a London-based carbon credit transaction and management platform founded in 2020 and backed by nine major international banks including Standard"
+description: "Bank-backed transaction network/marketplace that provides settlement, custody and multi-registry management for voluntary carbon credits, including CDR removal credits."
 url: "/directory/carbonplace/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

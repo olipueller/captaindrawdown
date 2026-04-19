@@ -2,7 +2,7 @@
 title: "CarbonChip"
 layout: "single"
 type: "directory"
-description: "Carbonchip is a Brisbane-based biochar manufacturer, established in 2020, that produces biochar from forestry residues via a mobile pyrolysis machine and sells"
+description: "Mobile pyrolysis unit converts forestry residue hardwood into biochar for agricultural soil amendment and carbon sequestration."
 url: "/directory/carbonchip/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonchip.com.au/" target="_blank" rel="noopener">https://www.carbonchip.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonchip-pty-ltd/" target="_blank" rel="noopener">carbonchip-pty-ltd — 32 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbonchip is a Brisbane-based biochar manufacturer, established in 2020, that produces biochar from forestry residues via a mobile pyrolysis machine and sells to Queensland farms and national customers. Its Mobile Carboniser #1 project is listed on Puro.earth with CORC 100+ durability certification. The company is small (~2 employees) and operates in early-development CORC issuance mode.
+Carbonchip is a small Brisbane-based biochar manufacturer, established in 2020, producing biochar from forestry residues via a mobile pyrolysis unit for Queensland farms and national customers. Its Mobile Carboniser #1 project is listed on Puro.earth with CORC 100+ durability certification and sits at "Early development" status. The company is very small (~2 employees) but has retail distribution (e.g. Fernland) and ongoing CORC issuance activity.
 
 ![CarbonChip website](/screenshots/carbonchip.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonchip.com.au/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonchip.com.au/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.biocareprojects.com/post/biocare-biochar-portfolio-turning-waste-into-climate-solutions))

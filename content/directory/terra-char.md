@@ -2,10 +2,10 @@
 title: "Terra Char"
 layout: "single"
 type: "directory"
-description: "Terra Char is a brand of BioEnergy Innovations Global, Inc., a Columbia, Missouri biochar producer that has marketed biochar since 2009. The company sells"
+description: "Produces and distributes biochar (pyrolyzed virgin hardwood/softwood) for soil amendment, bioremediation, water filtration, and carbon sink applications."
 url: "/directory/terra-char/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,19 +13,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.terra-char.com/" target="_blank" rel="noopener">https://www.terra-char.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Terra Char is a brand of BioEnergy Innovations Global, Inc., a Columbia, Missouri biochar producer that has marketed biochar since 2009. The company sells biochar in buckets, super totes, and bulk semi-loads for soil amendment, carbon sink projects, and related applications, and collaborates with the University of Missouri on biochar research.
+Terra Char is the registered brand of BioEnergy Innovations Global, Inc., a Columbia, Missouri biochar producer active since 2009. The company sells biochar in 5-gallon buckets, super totes, and bulk semi-loads for agricultural, horticultural, and carbon sink applications, and collaborates with the University of Missouri on biochar research. CEO Phil Blom also runs an affiliated combined heat and biochar (CHAB) equipment business.
 
 ![Terra Char website](/screenshots/terra-char.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.terra-char.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.terra-char.com/))

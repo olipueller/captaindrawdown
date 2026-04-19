@@ -2,7 +2,7 @@
 title: "EcoAct"
 layout: "single"
 type: "directory"
-description: "EcoAct, founded in France in 2006, was an international climate consultancy and carbon project developer acquired by Atos in 2020 and by Schneider Electric in"
+description: "Climate consultancy and carbon offset project developer (including nature-based/afforestation projects); not a direct CDR supplier but a carbon markets advisory/project-development player now"
 url: "/directory/ecoact/"
 pathway: "Afforestation"
 liveliness: "🔴 Likely Dead"

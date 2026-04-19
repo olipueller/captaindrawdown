@@ -2,7 +2,7 @@
 title: "Néolithe"
 layout: "single"
 type: "directory"
-description: "Néolithe is a French industrial startup founded in 2019, headquartered near Angers (Maine-et-Loire), that operates patented \"Fossilizers\" transforming"
+description: "Shreds non-recyclable mixed waste (plastic, wood, glass wool, etc.) and encapsulates it with a mineral binder under mechanical pressure to produce stable \"Anthropocite\" aggregates that lock biogenic"
 url: "/directory/néolithe/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -15,19 +15,20 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://neolithe.com/" target="_blank" rel="noopener">https://neolithe.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Néolithe is a French industrial startup founded in 2019, headquartered near Angers (Maine-et-Loire), that operates patented "Fossilizers" transforming non-recyclable waste into Anthropocite mineral aggregates for concrete and road base. The company claims that for every ton of aggregate produced, 337 kg of CO2 equivalent is stored, by preventing the landfilling or incineration of the biogenic fraction of the waste. In summer 2025 the firm pivoted away from construction-and-demolition waste due to asbestos contamination risks.
+Néolithe is a French industrial startup founded in 2019 near Angers that manufactures "Fossilizers" — containerized machines that shred non-recyclable waste, mix it with a proprietary binder, and press it into mineral aggregates called Anthropocite for use in non-structural concrete and road base. The company's primary business is waste treatment and construction-aggregate production; carbon storage (claimed at ~337-420 kg CO2e per tonne) is marketed as a co-benefit from avoiding landfill/incineration of biogenic waste fractions.
 
 ![Néolithe website](/screenshots/néolithe.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=side_business liveliness=🟢 Active ([source](https://neolithe.com/our-news/))
 - **2026-04-19** — reactivated — screenshot succeeded in reshoot3
 - **2026-04-19** — deactivated — URL https://neolithe.com/ returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://neolithe.fr/))

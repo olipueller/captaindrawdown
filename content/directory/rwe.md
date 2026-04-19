@@ -2,32 +2,33 @@
 title: "RWE"
 layout: "single"
 type: "directory"
-description: "RWE is a major German energy utility developing BECCUS (Bio-Energy Carbon Capture, Utilisation & Storage) at its Dutch Amer and Eemshaven biomass-fired power"
+description: "Post-combustion CO2 capture at biomass-fired power plants (Amer and Eemshaven in the Netherlands) with planned permanent geological storage under the North Sea."
 url: "/directory/rwe/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
-  <tr><th>Website</th><td><a href="https://benelux.rwe.com/en/our-energy/biomass/beccus/" target="_blank" rel="noopener">https://benelux.rwe.com/en/our-energy/biomass/beccus/</a></td></tr>
+  <tr><th>Website</th><td><a href="https://www.rwe.com/" target="_blank" rel="noopener">https://www.rwe.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rwe-/" target="_blank" rel="noopener">rwe- — 404,114 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~14888 (+2% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-RWE is a major German energy utility developing BECCUS (Bio-Energy Carbon Capture, Utilisation & Storage) at its Dutch Amer and Eemshaven biomass-fired power plants, targeting 11–14 Mt/yr of negative emissions from 2030 subject to technical and economic feasibility. As of early 2025, Amer is running on 100% biomass and Eemshaven on 25% biomass, with captured CO2 intended for permanent storage under the North Sea. The project remains in permitting/development stage with no final investment decision announced, and is facing NGO opposition over biomass-sourcing concerns.
+RWE is a major German energy utility (~20,000 employees globally) developing BECCUS at its Dutch Amer (Geertruidenberg) and Eemshaven biomass-fired power plants. The company plans to deliver 11–14 Mt/yr of negative emissions from 2030, with captured biogenic CO2 to be permanently stored under the North Sea, subject to technical and economic feasibility. Electricity generation remains RWE's core business; BECCUS is an add-on to existing biomass power operations.
 
 ![RWE website](/screenshots/rwe.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://benelux.rwe.com/en/our-energy/biomass/beccus/))
 - **2026-04-19** — merged 1 duplicate(s): RWE Generation
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

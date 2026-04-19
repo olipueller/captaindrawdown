@@ -2,7 +2,7 @@
 title: "Nature Broking"
 layout: "single"
 type: "directory"
-description: "Nature Broking is a UK-based natural capital brokerage that builds and manages tailored carbon credit and nature restoration portfolios for corporate clients,"
+description: "Carbon credit brokerage and portfolio management firm offering due-diligence-as-a-service for corporate buyers of nature-based carbon and removal credits."
 url: "/directory/nature-broking/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Carbonable"
 layout: "single"
 type: "directory"
-description: "Carbonable specializes in the management, monitoring, and reporting of carbon contributions, offering an all-in-one platform that digitizes carbon assets,"
+description: "Blockchain-based platform for managing, monitoring, tokenizing, and reporting carbon contribution portfolios, primarily for nature-based removal projects, using satellite imagery and smart contracts"
 url: "/directory/carbonable/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

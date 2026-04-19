@@ -2,7 +2,7 @@
 title: "CarbonMeld"
 layout: "single"
 type: "directory"
-description: "CarbonMeld is an independent carbon-credit screening and scoring tool that publishes quality scores for 650+ voluntary carbon market projects across 9"
+description: "AI/LLM-based scoring pipeline that evaluates carbon credit projects on integrity, transparency, claim safety and documentation from public registry documents."
 url: "/directory/carbonmeld/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

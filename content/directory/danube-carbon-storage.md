@@ -2,10 +2,10 @@
 title: "Danube Carbon Storage"
 layout: "single"
 type: "directory"
-description: "Danube Carbon Storage is a Budapest-based project developer building a full-chain BECCS operation in Central Hungary, backed by ClonBio Group (owner of"
+description: "Full-chain BECCS project capturing biogenic CO2 from Pannonia Bio's fermentation/anaerobic digestion processes and injecting it into an onshore saline aquifer in the Pannonian Basin."
 url: "/directory/danube-carbon-storage/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Hungary</td></tr>
   <tr><th>Website</th><td><a href="https://danubecarbon.com/" target="_blank" rel="noopener">https://danubecarbon.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Danube Carbon Storage is a Budapest-based project developer building a full-chain BECCS operation in Central Hungary, backed by ClonBio Group (owner of Pannonia Bio biorefinery) and EMOV Limited. Its Danube Removals project will capture ~500,000 tonnes/year of biogenic CO2 from Pannonia Bio's yeast fermentation and anaerobic digestion processes, transported via a 10-15 km pipeline for permanent storage in an onshore saline aquifer in the Pannonian Basin. The project was selected for EU Innovation Fund support in October 2024 and aims to generate CRCF-compliant carbon removal credits.
+Danube Carbon Storage is a Budapest-based project developer formed to create large-scale onshore geological carbon sequestration capacity, backed by ClonBio Group (owner of Pannonia Bio) and EMOV Limited. The Danube Removals Project, owned by Danube CCS Ventures Kft., will sequester ~500,000 tonnes/year of biogenic CO2 from the Pannonia Bio biorefinery to generate CRCF-compliant voluntary-market removal certificates. Captured CO2 will be compressed and sent via a 10-15 km pipeline to three nearby injection wells, with a CCS exploration license granted in June 2024.
 
 ![Danube Carbon Storage website](/screenshots/danube-carbon-storage.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://danubecarbon.com/about-us))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://danubecarbon.com/))

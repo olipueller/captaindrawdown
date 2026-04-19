@@ -2,7 +2,7 @@
 title: "[C]Worthy"
 layout: "single"
 type: "directory"
-description: "[C]Worthy is a nonprofit research and development organization focused on delivering the core computational technologies needed to support quantitative"
+description: "Builds C-Star, an open-source oceanographic and biogeochemical modeling platform for MRV of marine CDR (ocean alkalinity enhancement, direct ocean capture, etc.)."
 url: "/directory/cworthy/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

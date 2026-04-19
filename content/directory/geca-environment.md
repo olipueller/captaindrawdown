@@ -2,7 +2,7 @@
 title: "GECA Environment"
 layout: "single"
 type: "directory"
-description: "GECA Environnement is a Quebec City-based consulting firm specializing in biochar and pyrolysis project development. They provide services including"
+description: "Consulting firm advising biochar/pyrolysis project developers on technology, carbon credit certification (e.g. Puro.earth), commercialization, and brokerage rather than operating its own removal"
 url: "/directory/geca-environment/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

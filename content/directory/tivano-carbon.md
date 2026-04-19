@@ -2,7 +2,7 @@
 title: "Tivano Carbon"
 layout: "single"
 type: "directory"
-description: "Tivano Carbon restores Namibia's savanna rangelands by converting invasive encroacher bush into permanently stored carbon, using science-based carbon vaulting"
+description: "Harvests invasive encroacher bush from Namibian savannas and stores it in engineered, sensor-monitored underground carbon vaults to produce durable biomass burial CDR credits."
 url: "/directory/tivano-carbon/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Tivano Carbon restores Namibia's savanna rangelands by converting invasive encroacher bush into permanently stored carbon, using science-based carbon vaulting with engineered underground burial in sensor-monitored vaults and rigorous MRV to produce verified carbon removal credits. The company collaborates with local farmers and experts from TU Berlin on its carbon vaults and landscape regeneration initiatives. They are presenting at Climate Week Zurich in May 2026 as a CDR Swiss member, indicating active engagement with the CDR community.
+Tivano Carbon restores Namibia's savanna rangelands by converting invasive encroacher bush into permanently stored carbon via engineered underground burial in sensor-monitored vaults with MRV to produce verified carbon removal credits. Tivano collaborates with local farmers and experts from TU Berlin on its carbon vaults and landscape regeneration initiatives. The company is a CDR Swiss member presenting biomass storage at Climate Week Zurich in May 2026.
 
 ![Tivano Carbon website](/screenshots/tivano-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.tivano-carbon.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.tivano-carbon.com/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.tivano-carbon.com/))

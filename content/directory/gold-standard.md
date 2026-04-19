@@ -2,7 +2,7 @@
 title: "Gold Standard"
 layout: "single"
 type: "directory"
-description: "Gold Standard is a non-profit carbon credit certification standard and registry founded in 2003 by WWF and other NGOs, headquartered in Geneva, Switzerland. It"
+description: "Carbon credit standard-setter and registry that certifies emission reduction and removal projects (including afforestation/reforestation and soil carbon) and operates a public Impact Registry and"
 url: "/directory/gold-standard/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

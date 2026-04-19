@@ -2,7 +2,7 @@
 title: "CarbonBlue"
 layout: "single"
 type: "directory"
-description: "CarbonBlue is an Israeli water-based carbon removal startup founded in 2022 by CEO Dr. Dan Deviri and COO Iddo Tsur, based in Tel Aviv/Haifa. The company has"
+description: "Pumps water (sea, brackish, fresh, waste) through a fluidized-bed reactor where dissolved CO2 reacts with calcium hydroxide to precipitate calcium carbonate; decarbonated water is returned to absorb"
 url: "/directory/carbonblue/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://carbonblue.cc/" target="_blank" rel="noopener">https://carbonblue.cc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonblue-cc/" target="_blank" rel="noopener">carbonblue-cc — 3,628 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~18 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-CarbonBlue is an Israeli water-based carbon removal startup founded in 2022 by CEO Dr. Dan Deviri and COO Iddo Tsur, based in Tel Aviv/Haifa. The company has installed the world's first pilot plant for removing carbon dioxide from water at a desalination facility in Ma'agan Michael, Israel, using its proprietary reactor to convert dissolved CO2 into precipitated calcium carbonate (PCC) with calcium hydroxide. The Midway pilot processes 10% of the desalination facility's saline water intake, removing 40 tons of CO2 per year in Phase 1, and will scale to 100% of the inlet stream, removing over 400 tons of CO2 per year.
+CarbonBlue is an Israeli climate-tech startup founded in 2022 by Dr. Dan Deviri and Iddo Tsur that develops water-based CO2 removal hardware integrated into industrial water streams such as desalination plants. In mid-2025 it launched 'Midway,' a pilot at the Ma'agan Michael brackish-water desalination facility projected to scale from 40 to 400 tons CO2/yr. The company raised a $10M seed round in 2024.
 
 ![CarbonBlue website](/screenshots/carbonblue.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://finance.yahoo.com/news/carbonblue-launches-world-first-integration-123000206.html))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://carbonblue.cc/project-midway/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carbonblue-launches-midway-a-pioneering-desalination-incorporated-mcdr-pilot/))

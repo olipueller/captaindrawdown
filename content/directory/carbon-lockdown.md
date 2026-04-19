@@ -2,7 +2,7 @@
 title: "Carbon Lockdown"
 layout: "single"
 type: "directory"
-description: "Carbon Lockdown Project is a US public benefit corporation founded by University of Maryland professor Dr. Ning Zeng that develops engineered \"wood vaults\" for"
+description: "Buries sustainably-sourced coarse woody biomass in engineered underground \"Wood Vaults\" sealed with low-permeability clay soil to create anoxic conditions that prevent decomposition for 1,000+ years."
 url: "/directory/carbon-lockdown/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbonlockdown.net/" target="_blank" rel="noopener">https://carbonlockdown.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-lockdown-project/" target="_blank" rel="noopener">carbon-lockdown-project — 682 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
   <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbon Lockdown Project is a US public benefit corporation founded by University of Maryland professor Dr. Ning Zeng that develops engineered "wood vaults" for durable biomass burial carbon removal. Its flagship Potomac Project in Maryland targets 5,000 tCO2e of buried woody biomass, with CORC credits validated via Climate Vault and a first 1,000-ton sale to Kinnevik. The company received $4.7M from the US DOE Carbon Negative Shot Pilots program and is partnering with Mast Reforestation on a Montana site.
+Carbon Lockdown Project is a US public benefit corporation founded by University of Maryland professor Dr. Ning Zeng that develops engineered "Wood Vaults" for durable biomass burial carbon removal. Its flagship Potomac Project in Maryland targets 5,000 tCO2e of buried woody biomass under the Puro.earth Terrestrial Storage of Biomass methodology, and the company made a first 1,000-ton sale to Kinnevik in 2023. The wood burial method is designed to keep carbon stored for 1,000+ years under anaerobic conditions.
 
 ![Carbon Lockdown website](/screenshots/carbon-lockdown.png)
 
@@ -33,6 +33,7 @@ Carbon Lockdown Project is a US public benefit corporation founded by University
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonlockdown.net/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonlockdown.net/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonlockdown.net/))

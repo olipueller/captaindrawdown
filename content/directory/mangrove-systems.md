@@ -2,7 +2,7 @@
 title: "Mangrove Systems"
 layout: "single"
 type: "directory"
-description: "Mangrove Systems is a Toronto-based digital MRV software company whose Mangrove Nexus platform tracks CO2 across CDR and CCS project value chains, supporting"
+description: "Provides a digital measurement, reporting & verification (dMRV) SaaS platform (Mangrove Nexus) that ingests operational data across CDR/CCS project value chains and produces audit-ready carbon"
 url: "/directory/mangrove-systems/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Carbonsate"
 layout: "single"
 type: "directory"
-description: "Carbonsate is a Berlin-based carbon removal supplier founded in 2023 that operates biomass storage projects in Namibia, Cameroon, Colombia, and Bulgaria. Its"
+description: "Harvests woody biomass (e.g. encroaching bush) and seals it in engineered, oxygen-free underground pits with sensor-based MRV for >100-year carbon storage, certified under Puro.earth's Terrestrial"
 url: "/directory/carbonsate/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonsate.com/" target="_blank" rel="noopener">https://www.carbonsate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonsate/" target="_blank" rel="noopener">carbonsate — 2,081 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbonsate is a Berlin-based carbon removal supplier founded in 2023 that operates biomass storage projects in Namibia, Cameroon, Colombia, and Bulgaria. Its flagship Otjiwarongo Project in Namibia harvests encroaching bush biomass and stores it in sealed, oxygen-free underground pits, issuing its first 799 Puro.earth-certified credits in January 2026 as the 100th certified facility on the Puro Registry.
+Carbonsate is a Berlin-based carbon removal supplier founded in 2023 that develops terrestrial biomass storage projects in Namibia, Cameroon, Colombia, and Bulgaria. Its flagship Otjiwarongo project in Namibia harvests encroaching bush and stores it in sealed, oxygen-free underground pits, and in January 2026 issued its first 799 Puro.earth-certified credits as the 100th certified facility on the registry.
 
 ![Carbonsate website](/screenshots/carbonsate.png)
 
@@ -33,6 +33,7 @@ Carbonsate is a Berlin-based carbon removal supplier founded in 2023 that operat
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carbonsate-marks-first-credit-issuance-from-its-puro-earth-certified-biomass-storage-project/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carbonsate-marks-first-credit-issuance-from-its-puro-earth-certified-biomass-storage-project/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carbonsate-marks-first-credit-issuance-from-its-puro-earth-certified-biomass-storage-project/))

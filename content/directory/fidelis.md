@@ -2,7 +2,7 @@
 title: "Fidelis"
 layout: "single"
 type: "directory"
-description: "Fidelis (Fidelis New Energy, LLC) is a Houston-based energy infrastructure developer whose portfolio company AtmosClear is building an $800M BECCS facility at"
+description: "Develops BECCS (biomass power + CO2 capture using sugarcane bagasse and forestry residues) with permanent geological storage, plus operates CO2 storage hubs including Norne in Denmark."
 url: "/directory/fidelis/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Fidelis (Fidelis New Energy, LLC) is a Houston-based energy infrastructure developer whose portfolio company AtmosClear is building an $800M BECCS facility at the Port of Greater Baton Rouge, Louisiana, designed to capture 680,000 tonnes of biogenic CO2 per year starting in 2029. In April 2025 AtmosClear signed a 15-year, 6.75M-tonne CDR offtake with Microsoft — the world's largest permanent carbon removal contract at the time — and in September 2025 selected ExxonMobil as its CO2 transportation and storage partner. Fidelis also operates offices in Copenhagen and develops related biofuels/SAF and hydrogen infrastructure.
+Fidelis New Energy, LLC is a Houston-based energy infrastructure developer focused on decarbonization through BECCS, CO2 storage, biofuels, and clean hydrogen projects. Its flagship CDR project is AtmosClear, an $800M BECCS facility at the Port of Greater Baton Rouge, Louisiana, designed to capture 680,000 tonnes of biogenic CO2 per year starting in 2029, with ExxonMobil providing CO2 transport and storage. In April 2025 AtmosClear signed a 15-year, 6.75M-tonne CDR offtake with Microsoft — the world's largest permanent carbon-removal deal to date. Fidelis also operates the Norne Carbon Storage Hub in Denmark, an EU Project of Common Interest for onshore CO2 storage.
 
 ![Fidelis website](/screenshots/fidelis.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://fidelisinfra.com/project/atmosclear/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://fidelisinfra.com/project/atmosclear/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://fidelisinfra.com/project/atmosclear/))

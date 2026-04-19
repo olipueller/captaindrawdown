@@ -2,7 +2,7 @@
 title: "Gigablue"
 layout: "single"
 type: "directory"
-description: "Gigablue is a marine carbon dioxide removal developer using its Microalgae Carbon Fixation and Sinking (MCFS) method, which deploys engineered substrates that"
+description: "Deploys engineered buoyant/sinking substrates that stimulate native phytoplankton growth and export organic carbon (\"marine snow\") to the deep ocean (Microalgae Carbon Fixation and Sinking, MCFS)."
 url: "/directory/gigablue/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Gigablue is a marine carbon dioxide removal developer using its Microalgae Carbon Fixation and Sinking (MCFS) method, which deploys engineered substrates that enhance native phytoplankton growth and sink carbon to the deep ocean. The company signed a 200,000-ton CO2 sequestration agreement with SkiesFifty over four years, announced January 2025, building on a July 2024 partnership. In September 2025 it raised $20 million in fresh financing to scale its microalgae technology, and its MCFS methodology was approved by the Puro.earth Advisory Board.
+Founded in 2022, Gigablue develops and deploys a marine carbon removal pathway based on Microalgae Carbon Fixation and Sinking (MCFS), using the biological pump in which phytoplankton turn CO2 into organic matter that sinks as "marine snow" for deep-sea sequestration. In January 2025, Gigablue announced an agreement with SkiesFifty to sequester 200,000 tons of CO2 over four years, building on their July 2024 partnership. In late 2025/early 2026 the company raised $20 million in the first close of its Series A and had its methodology released by the Puro.earth Advisory Board.
 
 ![Gigablue website](/screenshots/gigablue.png)
 
@@ -33,6 +33,7 @@ Gigablue is a marine carbon dioxide removal developer using its Microalgae Carbo
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.gigablue.co/news/skiesfifty-200kton-carboncredit-announcement-gigablue))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2025/09/18/3152278/0/en/Gigablue-Strengthens-Deep-Sea-Monitoring-Capabilities-with-Custom-ROV.html))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://blueeconomynews.earth/gigablue-raises-20-million-for-marine-carbon-dioxide-removal-technology-that-mimics-oceans-biological-pump/))

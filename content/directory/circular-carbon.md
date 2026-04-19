@@ -2,7 +2,7 @@
 title: "Circular Carbon"
 layout: "single"
 type: "directory"
-description: "Circular Carbon GmbH is a Hamburg/Straubing-based German biochar producer founded in 2018 and a subsidiary of econnext AG. It operates a first-of-its-kind"
+description: "Operates industrial-scale pyrolysis plants (\"CarbonHubs\") that convert organic residues like cocoa shells into biochar while supplying process steam to co-located industrial partners."
 url: "/directory/circular-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Circular Carbon GmbH is a Hamburg/Straubing-based German biochar producer founded in 2018 and a subsidiary of econnext AG. It operates a first-of-its-kind industrial pyrolysis plant on Hamburg's Peute island that carbonizes cocoa shells into biochar while supplying process steam to a neighboring cocoa producer, and is developing additional CarbonHub facilities.
+Circular Carbon GmbH, founded in 2018, is a German biochar company and subsidiary of the econnext holding group. It operates an industrial pyrolysis plant on the island of Peute in Hamburg-Veddel where cocoa shells are carbonised into biochar, and the resulting steam is fed into a neighbouring industrial cocoa producer as an energy source. Each of its "CarbonHub" plants generates CDR credits alongside renewable energy, and the company plans to replicate this model in new facilities.
 
 ![Circular Carbon website](/screenshots/circular-carbon.png)
 
@@ -32,6 +32,7 @@ Circular Carbon GmbH is a Hamburg/Straubing-based German biochar producer founde
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://circular-carbon.com/en/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://circular-carbon.com/en/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://circular-carbon.com/en/carbonhubs/))

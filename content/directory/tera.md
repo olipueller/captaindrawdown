@@ -2,10 +2,10 @@
 title: "Tera"
 layout: "single"
 type: "directory"
-description: "Tera (Tera Carbon) is a Kenyan climate-tech startup that converts sugarcane bagasse waste from mills in the Kisumu/Lake Victoria sugarcane belt into biochar"
+description: "Pyrolysis of sugarcane bagasse into biochar applied to smallholder farmland in western Kenya, with IoT-based dMRV tracking from feedstock to field."
 url: "/directory/tera/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.teracarbon.earth/" target="_blank" rel="noopener">https://www.teracarbon.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/teracarbon/" target="_blank" rel="noopener">teracarbon — 1,716 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Tera (Tera Carbon) is a Kenyan climate-tech startup that converts sugarcane bagasse waste from mills in the Kisumu/Lake Victoria sugarcane belt into biochar via pyrolysis, distributing the resulting biochar to local sugarcane growers as a soil amendment. In June 2025 it became the first African project developer independently validated on the Riverse carbon registry, using a digital MRV system co-developed with Kenyan tech partner CYNK. The company targets producing 450,000 tons of biochar and sequestering ~1 million tons CO2e by 2030.
+Tera (Tera Carbon) is a Kenyan climate-tech startup that converts sugarcane bagasse from mills around Kisumu into biochar via pyrolysis, distributing it to local growers as a soil amendment. In June 2025 it became the first African project developer validated on the Riverse carbon registry, using a digital MRV system co-developed with Kenyan firm CYNK.
 
 ![Tera website](/screenshots/tera.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/tera-becomes-first-african-developer-validated-on-riverse-carbon-registry/))
 - **2026-04-19** — merged 1 duplicate(s): Tera Carbon Pte Ltd
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

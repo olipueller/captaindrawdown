@@ -2,7 +2,7 @@
 title: "CarbonPool"
 layout: "single"
 type: "directory"
-description: "CarbonPool is a Zurich-based carbon credit insurance company founded in 2023 by former Allianz executives. It provides in-kind insurance policies that pay"
+description: "Carbon credit insurance underwriter that pays claims in-kind (replacement carbon credits) to cover reversal, shortfall, and natural-catastrophe risk for buyers and developers of carbon removals."
 url: "/directory/carbonpool/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

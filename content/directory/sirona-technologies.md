@@ -2,7 +2,7 @@
 title: "Sirona Technologies"
 layout: "single"
 type: "directory"
-description: "Sirona Technologies develops and operates modular Direct Air Capture systems that permanently remove CO₂ from the atmosphere and store it through geological"
+description: "Modular solid-sorbent Direct Air Capture units, powered by renewable/solar heat, with CO₂ compressed and injected into geological formations for mineralized permanent storage."
 url: "/directory/sirona-technologies/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -16,14 +16,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.sirona.tech/" target="_blank" rel="noopener">https://www.sirona.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sirona-technologies/" target="_blank" rel="noopener">sirona-technologies — 6,947 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~34 (+48% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Sirona Technologies develops and operates modular Direct Air Capture systems that permanently remove CO₂ from the atmosphere and store it through geological mineralization. Built in Belgium and deployed globally, Sirona's systems enable carbon removal with durable storage and transparent MRV, and following the commissioning of its first commercial units, Sirona will begin delivering carbon removal credits in 2026. Founded in January 2023 by former Tesla engineer Thoralf Gutierrez and thermodynamics engineer Dr. Gauthier Limpens, the Brussels-based startup raised an initial pre-seed round of $1.09 million.
+Sirona Technologies is a Belgium-based Direct Air Capture startup founded in 2023 by a former Tesla engineer and a thermodynamics PhD. The company develops modular solid-sorbent DAC units manufactured in Brussels and deployed globally, with captured CO₂ permanently stored via geological mineralization. Sirona has raised ~€6M seed funding and is building out a pilot plant in Kenya, with first commercial credit deliveries expected in 2026.
 
 ![Sirona Technologies website](/screenshots/sirona-technologies.png)
 
@@ -33,6 +33,7 @@ Sirona Technologies develops and operates modular Direct Air Capture systems tha
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.sirona.tech/updates/sirona-technologies-completes-multi-year-carbon-removal-offtake-facilitated-by-patch))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.sirona.tech/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.sirona.tech/updates/sirona-technologies-completes-multi-year-carbon-removal-offtake-facilitated-by-patch))

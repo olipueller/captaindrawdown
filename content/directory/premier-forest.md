@@ -2,7 +2,7 @@
 title: "Premier Forest"
 layout: "single"
 type: "directory"
-description: "Premier Forest Products is a UK vertically integrated timber importer, processor and distributor headquartered in Newport, South Wales, with"
+description: "Pyrolyzes wood-waste from its own sawmilling operations into biochar bricks, previously certified under the Puro.earth biochar methodology."
 url: "/directory/premier-forest/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,16 +14,16 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
-  <tr><th>Website</th><td><a href="https://www.premierforest.co.uk" target="_blank" rel="noopener">https://www.premierforest.co.uk</a></td></tr>
+  <tr><th>Website</th><td><a href="https://premierforest.co.uk/" target="_blank" rel="noopener">https://premierforest.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/premier-forest-products-ltd/" target="_blank" rel="noopener">premier-forest-products-ltd — 4,886 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~117 (+30% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Premier Forest Products is a UK vertically integrated timber importer, processor and distributor headquartered in Newport, South Wales, with timber/panel-products wholesale as its primary business. As a side operation, it runs a custom-built biomass gasification facility that converts its own wood-waste into biochar, which was previously certified under the Puro.earth biochar methodology and issued CORCs. The parent company is clearly active and growing, but the Puro.earth facility listing appears to no longer be active, suggesting the CDR/biochar stream may have been paused or delisted.
+Premier Forest Products is a Newport (South Wales) based timber importer, sawmiller, and distributor operating multiple sites across the UK, with wholesale of wood and panel products as its core business. As an adjacent operation, it runs a biomass pyrolysis facility that converts its own wood waste into biochar bricks sold to compost producers, previously registered under the Puro.earth biochar methodology.
 
 ![Premier Forest website](/screenshots/premier-forest.png)
 
@@ -33,6 +33,7 @@ Premier Forest Products is a UK vertically integrated timber importer, processor
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://premierforest.co.uk/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.regreener.earth/blog/the-5-best-biochar-carbon-credit-and-offset-projects-of-2026))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/biochar-corcs-from-premier-forest-wales-100136))

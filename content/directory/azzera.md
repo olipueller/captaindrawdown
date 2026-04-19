@@ -2,7 +2,7 @@
 title: "Azzera"
 layout: "single"
 type: "directory"
-description: "Azzera is a carbon offset marketplace and aviation compliance services provider, founded in 2022 by Puja Mahajan and Nick Houseman, primarily serving business"
+description: "Carbon offset broker/marketplace and ETS/CORSIA compliance services for business aviation, reselling third-party avoidance and removal credits."
 url: "/directory/azzera/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

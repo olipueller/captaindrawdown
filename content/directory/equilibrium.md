@@ -2,7 +2,7 @@
 title: "Equilibrium"
 layout: "single"
 type: "directory"
-description: "Equilibrium is a full-stack carbon project developer with investments from Kalaari Capital, Peak XV Partners, and Avaana Capital, running agroforestry,"
+description: "Pyro-gasifies invasive Prosopis juliflora and corn cob residues into biochar for soil application, alongside agroforestry, regenerative agriculture and mangrove restoration projects with digital MRV."
 url: "/directory/equilibrium/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Equilibrium is a full-stack carbon project developer with investments from Kalaari Capital, Peak XV Partners, and Avaana Capital, running agroforestry, regenerative agriculture, mangrove restoration, and biochar projects. The operating entity is Climeverse Pvt. Ltd. (operating as Equilibrium), based in Bangalore, and its Murudagiri Biochar Facility transforms invasive Prosopis juliflora and corn cob residues into biochar using pyro-gasification. Funds raised will expand eight ongoing projects across nine Indian states, covering 120,000 hectares and involving more than 150,000 smallholder farmers.
+Equilibrium (operating entity Climeverse Pvt. Ltd.) is a Bangalore-based full-stack carbon project developer running biochar, agroforestry, regenerative agriculture, and mangrove restoration projects across India. It raised a $3M seed round in September 2025 from Kalaari Capital, Peak XV Partners, and Avaana Capital, and operates the Murudagiri Biochar Facility converting Prosopis juliflora and corn cobs into biochar via pyro-gasification.
 
 ![Equilibrium website](/screenshots/equilibrium.png)
 
@@ -34,6 +34,7 @@ Equilibrium is a full-stack carbon project developer with investments from Kalaa
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://equilibriumearth.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://equilibriumearth.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://equilibriumearth.com/projects))

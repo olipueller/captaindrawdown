@@ -2,7 +2,7 @@
 title: "Cultivo"
 layout: "single"
 type: "directory"
-description: "Cultivo is a California-based nature-tech platform that develops and operates large-scale natural capital projects, primarily U.S. grasslands regeneration for"
+description: "Develops and operates nature-based carbon removal projects (grasslands soil carbon, reforestation, agroforestry, mangroves) using an AI-powered geospatial platform for project discovery, MRV and"
 url: "/directory/cultivo/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Cultivo is a California-based nature-tech platform that develops and operates large-scale natural capital projects, primarily U.S. grasslands regeneration for soil carbon removal, along with afforestation/reforestation, agroforestry, improved forest management, mangrove restoration, and biochar. The company uses proprietary remote-sensing and modeling technology, packages projects into investment products, and partners with institutional investors such as Octopus Energy Generation ($100M commitment as of March 2026). Cultivo acquired grasslands developer Kateri in December 2025 and has enrolled over 650,000 acres targeting ~9 Mt CO2e of removals over 30 years.
+Cultivo is a California-based Public Benefit Corporation that develops, operates and finances large-scale nature-based carbon removal projects, with a growing focus on U.S. grasslands regeneration alongside afforestation/reforestation, agroforestry, improved forest management, and mangrove restoration. The company combines an AI/geospatial MRV platform with project finance to deliver verified nature-based carbon removal credits to corporate and institutional buyers.
 
 ![Cultivo website](/screenshots/cultivo.png)
 
@@ -34,6 +34,7 @@ Cultivo is a California-based nature-tech platform that develops and operates la
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://cultivo.land/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://cultivo.land/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://cultivo.land/remove-carbon))

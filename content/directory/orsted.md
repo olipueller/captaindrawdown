@@ -2,10 +2,10 @@
 title: "Orsted"
 layout: "single"
 type: "directory"
-description: "Ørsted is a Danish renewable energy utility developing the Ørsted Kalundborg CO2 Hub, a BECCS project capturing biogenic CO2 from its wood-chip-fired Asnæs and"
+description: "Post-combustion amine-based CO2 capture retrofitted to biomass-fired CHP plants, with CO2 shipped to Northern Lights for permanent subsea saline aquifer storage in the Norwegian North Sea."
 url: "/directory/orsted/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,14 +14,14 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://orsted.com/" target="_blank" rel="noopener">https://orsted.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/orsted/" target="_blank" rel="noopener">orsted — 561,817 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~9667</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Ørsted is a Danish renewable energy utility developing the Ørsted Kalundborg CO2 Hub, a BECCS project capturing biogenic CO2 from its wood-chip-fired Asnæs and straw-fired Avedøre CHP plants for permanent subsea storage via Northern Lights in the Norwegian North Sea. The project was awarded a 20-year contract by the Danish Energy Agency in 2023 and is expected to be operational in early 2026, capturing 430,000 tonnes of biogenic CO2 annually. Ørsted has signed major offtake agreements including 3.67 Mt with Microsoft.
+Ørsted is a major Danish renewable-energy utility (offshore wind, bioenergy CHP) constructing the Ørsted Kalundborg CO2 Hub, a BECCS project that will capture 430,000 tonnes/year of biogenic CO2 from its wood-chip-fired Asnæs and straw-fired Avedøre power stations for permanent subsea storage via Northern Lights. The project is backed by a 20-year Danish Energy Agency subsidy and a 3.67 Mt offtake contract with Microsoft, with operations expected to begin in early 2026. CDR is an adjacent activity on existing CHP assets — Ørsted's core business is power generation.
 
 ![Orsted website](/screenshots/orsted.png)
 
@@ -31,6 +31,7 @@ liveliness: "🟠 Suspect"
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://orsted.com/en/other-energy-sources/bioenergy/carbon-capture-and-storage))
 - **2026-04-19** — merged 1 duplicate(s): Ørsted
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

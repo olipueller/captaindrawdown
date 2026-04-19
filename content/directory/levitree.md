@@ -2,7 +2,7 @@
 title: "Levitree"
 layout: "single"
 type: "directory"
-description: "Levitree is a California-based startup (founded 2021, Berkeley/San Rafael) that sequesters carbon via Subterranean Wood Injection (SWI) — pumping wood-chip"
+description: "Pumps wood-chip slurries 5-100m underground via hydraulic injection to create anoxic apertures that preserve biomass long-term while simultaneously raising ground elevation."
 url: "/directory/levitree/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.levitree.com/" target="_blank" rel="noopener">https://www.levitree.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/levitree/" target="_blank" rel="noopener">levitree</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+120% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Levitree is a California-based startup (founded 2021, Berkeley/San Rafael) that sequesters carbon via Subterranean Wood Injection (SWI) — pumping wood-chip slurries 5-100 meters underground into anoxic apertures where the biomass resists decay. The process also raises ground elevation, providing a flood-protection co-benefit for coastal and subsiding areas. The company is affiliated with UC Berkeley's Bakar Labs and is running permitted pilot injections in Sacramento and Wilton, California.
+Levitree is a California-based startup (founded 2021, Berkeley/San Rafael) that sequesters carbon via Subterranean Wood Injection (SWI) — pumping wood-chip slurries 5-100 meters underground into anoxic apertures where the biomass is preserved. The process also raises ground surface elevation as a flood-protection co-benefit for coastal and subsiding areas. The company is affiliated with UC Berkeley's Bakar Labs and is operating pilot sites in Sacramento and Wilton, California.
 
 ![Levitree website](/screenshots/levitree.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.levitree.com/technology))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://bakarlabs.berkeley.edu/levitree-lifting-cities-out-of-flood-danger-with-robots/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.levitree.com/technology))

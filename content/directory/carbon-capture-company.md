@@ -2,7 +2,7 @@
 title: "Carbon Capture Company"
 layout: "single"
 type: "directory"
-description: "Carbon Capture Company (CCC) is a Swedish certification body that developed the Carbon Forestry Standard – Sweden, a methodology for certifying and issuing"
+description: "Operates a certification scheme and registry that issues forest-carbon credits to Swedish forest owners who increase standing timber stock, using National Forest Inventory data and ISO 14064-aligned"
 url: "/directory/carbon-capture-company/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

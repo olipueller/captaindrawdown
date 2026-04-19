@@ -2,7 +2,7 @@
 title: "Co-reactive"
 layout: "single"
 type: "directory"
-description: "Co-reactive is a Düsseldorf-based climate-tech startup, spun out of RWTH Aachen University in 2024, that operates a continuous ex-situ CO2 mineralization"
+description: "Continuous ex-situ CO2 mineralization that reacts captured CO2 with olivine or steel slags (EAF/BOF) to produce CO2-negative supplementary cementitious materials (CO-SCMs)."
 url: "/directory/co-reactive/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Co-reactive is a Düsseldorf-based climate-tech startup, spun out of RWTH Aachen University in 2024, that operates a continuous ex-situ CO2 mineralization process converting captured CO2 together with magnesium/calcium silicate minerals (olivine) or metallurgical slags (EAF/BOF) into CO2-negative supplementary cementitious materials (CO-SCMs) for cement and concrete. The company claims around 330 kg of CO₂ permanently stored per tonne of CO-SCM, enabling carbon-negative construction materials. In January 2026 it closed a €6.5M seed round led by HTGF with NRW.Bank, HBG Ventures, AFI Ventures, Evercurious VC and climate-tech angels, plus seven-figure BMWE grants, and has since been selected for the EIC Accelerator.
+Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spin-off, headquartered in Düsseldorf, developing a continuous CO2 mineralization process that converts CO2 together with olivine or metallurgical slags into CO2-negative supplementary cementitious materials. The company closed a €6.5 million seed round and is scaling from prototype to a 1,000-ton demonstration plant with plans for industrial pilot plants at the tens-of-thousands-of-tons scale.
 
 ![Co-reactive website](/screenshots/co-reactive.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))

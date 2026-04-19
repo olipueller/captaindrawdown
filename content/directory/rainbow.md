@@ -2,7 +2,7 @@
 title: "Rainbow"
 layout: "single"
 type: "directory"
-description: "Rainbow (formerly Riverse) is a France-based carbon credit standard and registry operated by Riverse SAS, headquartered in Fresnes, France. It certifies"
+description: "Carbon credit standard-setter and public registry certifying engineered CDR and avoidance projects with ISO 14064-2-aligned methodologies, ICROA endorsement and ICVCM CCP-Eligible status."
 url: "/directory/rainbow/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

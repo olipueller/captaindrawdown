@@ -2,25 +2,25 @@
 title: "Biochar — CDR Pathway"
 layout: "single"
 type: "directory"
-description: "Captain Drawdown's directory of all companies working on Biochar as a primary pathway. 377 companies tracked."
+description: "Captain Drawdown's directory of all companies working on Biochar as a primary pathway. 378 companies tracked."
 url: "/directory/biochar/"
 ---
 
-# Biochar — 377 Companies Tracked
+# Biochar — 378 Companies Tracked
 
 **Market pulse for Biochar (updated 2026-04-19).**
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">377</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">187</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">146</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">43</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">1</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num">378</span><span class="label">Companies</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">291</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">74</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">11</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">2</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">10,276</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">300/377</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">10,284</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">302/378</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies

@@ -2,10 +2,10 @@
 title: "Beaver Lake Renewable Energy"
 layout: "single"
 type: "directory"
-description: "Beaver Lake Renewable Energy LLC is a wholly-owned subsidiary of SunGas Renewables, developing a ~$2.4 billion green methanol facility in Rapides Parish,"
+description: "Biomass gasification of forestry residues into green methanol, with ~1 Mt/yr of biogenic CO2 captured and permanently sequestered (BECCS co-product)."
 url: "/directory/beaver-lake-renewable-energy/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://beaverlakerenewable.com/" target="_blank" rel="noopener">https://beaverlakerenewable.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Beaver Lake Renewable Energy LLC is a wholly-owned subsidiary of SunGas Renewables, developing a ~$2.4 billion green methanol facility in Rapides Parish, Louisiana, using biomass gasification of sustainably sourced forestry residues. The project is designed to sequester nearly 1 million tons/year of biogenic CO2 via Denbury Carbon Solutions, yielding negative-carbon-intensity methanol for marine and aviation fuel. FEED began in May 2025; construction targeted for H2 2026 with operations in 2028.
+Beaver Lake Renewable Energy LLC is a wholly-owned subsidiary of SunGas Renewables formed in 2023 to build a green methanol production facility in Rapides Parish, Louisiana, producing roughly 400,000-500,000 metric tons/year of methanol for Maersk's methanol-powered vessels. The project uses SunGas' S-1000 gasification technology to convert woody biomass into low-carbon methanol and plans to capture and permanently sequester approximately 1 million tonnes of biogenic CO2 annually, generating CDR credits. The primary product is marine/aviation fuel; the BECCS-derived CDR credits are a co-product.
 
 ![Beaver Lake Renewable Energy website](/screenshots/beaver-lake-renewable-energy.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://beaverlakerenewable.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://beaverlakerenewable.com/))

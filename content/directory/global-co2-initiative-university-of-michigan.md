@@ -2,7 +2,7 @@
 title: "Global CO2 Initiative (University of Michigan)"
 layout: "single"
 type: "directory"
-description: "The Global CO2 Initiative is a University of Michigan research program (housed in the College of Engineering) focused on advancing carbon capture, removal, and"
+description: "University research program developing TEA/LCA assessment methodologies, training workforce, and conducting research across CCU and CDR technologies rather than operating removal projects directly."
 url: "/directory/global-co2-initiative-university-of-michigan/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

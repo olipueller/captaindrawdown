@@ -2,7 +2,7 @@
 title: "Ag Carbon Solutions"
 layout: "single"
 type: "directory"
-description: "Ag Carbon Solutions (ACS) is an Orlando, Florida small operator that buries silvicultural residuals and clean organic waste below the water table on"
+description: "Buries silvicultural residuals and clean organic waste below the water table under anaerobic conditions to create permanent agricultural/grazing land atop sequestered carbon."
 url: "/directory/ag-carbon-solutions/"
 pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
@@ -23,13 +23,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Ag Carbon Solutions (ACS) is an Orlando, Florida small operator that buries silvicultural residuals and clean organic waste below the water table on agricultural land using their patented "Agricultural Production System" methodology (U.S. Patent 11,511,325). The process creates Permanent Agricultural Land (PAL) for grazing while sequestering carbon. It is a very small family-run operation at 5361 Young Pine Road run by CEO James Meade.
+Ag Carbon Solutions (ACS) is a small family-run Orlando, Florida operator that buries silvicultural residuals and clean organic waste below the water table on agricultural land using their patented Agricultural Production System (U.S. Patent 11,511,325). The process creates what they call Permanent Agricultural Land (PAL) for cattle grazing while sequestering carbon. The firm is very small (~2 employees) with no credit issuances on major registries.
 
 ![Ag Carbon Solutions website](/screenshots/ag-carbon-solutions.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://agcarbonsolutions.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://agcarbonsolutions.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

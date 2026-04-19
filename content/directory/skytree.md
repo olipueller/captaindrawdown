@@ -2,7 +2,7 @@
 title: "Skytree"
 layout: "single"
 type: "directory"
-description: "Skytree is a Dutch direct air capture technology company founded in 2014, headquartered in Amsterdam with offices in Toronto and Nashville. It builds modular"
+description: "Develops modular solid-sorbent Direct Air Capture machines (Cumulus and Stratus) for both CO₂ utilization and permanent carbon removal."
 url: "/directory/skytree/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Skytree is a Dutch direct air capture technology company founded in 2014, headquartered in Amsterdam with offices in Toronto and Nashville. It builds modular solid-sorbent DAC machines (Cumulus and Stratus product lines) for both CO₂ utilization (greenhouses, beverages, e-fuels) and permanent carbon removal, including a planned DAC park in Texas with EDF Renewables and Return Carbon. The company manufactures units via a partnership with Scanfil in Finland and Atlanta, and had recent activity in 2025-2026 including funding, partnerships, and a Power-to-X project with Forschungszentrum Jülich.
+Skytree is a Dutch direct air capture technology company founded in 2014 in Amsterdam, with offices in Toronto and Nashville. It builds modular, solid-sorbent DAC machines (Cumulus and Stratus lines) for greenhouse/industrial CO₂ supply and large-scale permanent removal, and is the DAC technology partner on the Texas DAC park being developed with EDF Renewables and Return Carbon targeting 500,000 tonnes/year.
 
 ![Skytree website](/screenshots/skytree.png)
 
@@ -33,6 +33,7 @@ Skytree is a Dutch direct air capture technology company founded in 2014, headqu
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://skytree.tech/en-en/newsroom))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://skytree.tech/en-en/newsroom))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.skytree.eu/))

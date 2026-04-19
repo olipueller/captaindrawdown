@@ -2,10 +2,10 @@
 title: "Scotia BioChar"
 layout: "single"
 type: "directory"
-description: "Scotia BioChar Inc. is headquartered in Bedford, Nova Scotia, Canada and aims to become a producer of high-quality biochar from waste wood biomass found in"
+description: "Plans industrial-scale pyrolysis of waste wood biomass (including Hurricane Fiona blowdown) using BluSky Carbon's Vulcan pyrolysis system to produce biochar for mine reclamation, soil remediation,"
 url: "/directory/scotia-biochar/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -13,19 +13,20 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://ca.linkedin.com/company/scotia-biochar-inc" target="_blank" rel="noopener">https://ca.linkedin.com/company/scotia-biochar-inc</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Scotia BioChar Inc. is headquartered in Bedford, Nova Scotia, Canada and aims to become a producer of high-quality biochar from waste wood biomass found in central Nova Scotia, including trees blown down during Hurricane Fiona. In October 2024 it signed a master services agreement with BluSky Carbon Inc. to procure pyrolysis equipment and consulting services, with biochar intended for mine reclamation, site remediation, agriculture, asphalt/concrete, and water treatment. Co-founder Liz MacKenzie had secured $3.6 million in government and private capital funding for Scotia projects as of that announcement.
+Scotia BioChar Inc. is a Bedford, Nova Scotia-based pre-commercial biochar producer co-founded by Liz and Francis MacKenzie, aiming to convert waste wood biomass — including trees downed by Hurricane Fiona — into biochar for mine reclamation, soil remediation, agriculture, and construction applications. In October 2024 it signed an exclusive master services agreement with BluSky Carbon to procure Vulcan pyrolysis equipment and consulting services for an Eastern Canada facility, with ~CA$3.6M in capital committed to date.
 
 ![Scotia BioChar website](/screenshots/scotia-biochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluskycarbon.com/blusky-carbon-signs-master-services-agreement-with-scotia-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://bluskycarbon.com/blusky-carbon-signs-master-services-agreement-with-scotia-biochar/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.bioenergy-news.com/news/blusky-carbon-secures-biochar-agreement-with-scotia-biochar/))

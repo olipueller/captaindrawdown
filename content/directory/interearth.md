@@ -2,7 +2,7 @@
 title: "InterEarth"
 layout: "single"
 type: "directory"
-description: "InterEarth is a Western Australian CDR startup pursuing woody biomass burial via above-ground \"Dry Stack\" storage chambers, using plantation-grown native"
+description: "Plants native Australian Eucalyptus/Acacia on marginal dryland, harvests above-ground woody biomass via coppicing, and stores it in sealed above-ground \"Dry Stack\" chambers engineered to maintain"
 url: "/directory/interearth/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -16,14 +16,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.inter.earth/" target="_blank" rel="noopener">https://www.inter.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/interearth/" target="_blank" rel="noopener">interearth — 389 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-InterEarth is a Western Australian CDR startup pursuing woody biomass burial via above-ground "Dry Stack" storage chambers, using plantation-grown native Eucalyptus and Acacia trees on marginal dryland. The company helped co-develop Puro.earth's Terrestrial Storage of Biomass (TSB) methodology and offers its CDR as Puro CORCs, with Counteract as seed investor and Zurich Insurance as a pre-purchaser.
+InterEarth is a Western Australian pure-play CDR startup pursuing woody biomass burial via its proprietary "Dry Stack" storage chambers, using plantation-grown native Eucalyptus and Acacia. Selected by Zurich Insurance for a pre-purchase agreement via Puro.earth, the project grows coppicing species on low-rainfall cleared farmland and buries the harvested biomass in engineered subterranean chambers to produce scalable, durable carbon removal. Its "InterEarth Bowgada" facility is listed on Puro.earth as a future supplier having passed preliminary assessment.
 
 ![InterEarth website](/screenshots/interearth.png)
 
@@ -33,6 +33,7 @@ InterEarth is a Western Australian CDR startup pursuing woody biomass burial via
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.inter.earth/whatwedo))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-july-24))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.inter.earth/whatwedo))

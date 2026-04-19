@@ -2,10 +2,10 @@
 title: "Carbon Time"
 layout: "single"
 type: "directory"
-description: "Carbon Time is a Paris, France–based startup founded in 2021 and led by CEO Ivan Communod that develops ocean alkalinity enhancement (OAE) approaches for"
+description: "Researches and develops ocean alkalinity enhancement (OAE) methods — primarily olivine rock weathering and electrochemical alkalinity generation tied to coastal water-treatment/desalination"
 url: "/directory/carbon-time/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-time.com/" target="_blank" rel="noopener">https://www.carbon-time.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-time/" target="_blank" rel="noopener">carbon-time — 1,850 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbon Time is a Paris, France–based startup founded in 2021 and led by CEO Ivan Communod that develops ocean alkalinity enhancement (OAE) approaches for carbon dioxide removal. Its initial focus is alkalinization via olivine rock weathering, alongside electrochemical approaches compatible with coastal industries such as desalination or water-treatment plants. The company was seed-financed by the Team for the Planet citizen-investor movement and has contributed to scientific OAE publications (e.g. mesocosm chapters of the Gattuso-led OAE guide presented at COP28).
+Carbon Time is a Paris-based startup founded in 2021 and led by Ivan Communod that develops ocean alkalinity enhancement (OAE) approaches for carbon dioxide removal. Its initial focus is alkalinization via olivine rock weathering, alongside electrochemical approaches compatible with coastal industries such as desalination or water-treatment plants. The company was seed-financed by the Team for the Planet movement and remains very small (around 2 employees).
 
 ![Carbon Time website](/screenshots/carbon-time.png)
 
@@ -34,6 +34,7 @@ Carbon Time is a Paris, France–based startup founded in 2021 and led by CEO Iv
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon-time.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/carbon-time/__17zs-noFXGmUi1E9rKCypx2b_9Mo8-kdJdKqSYefPb8))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon-time.com/))

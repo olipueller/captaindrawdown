@@ -2,10 +2,10 @@
 title: "Precision Combustion"
 layout: "single"
 type: "directory"
-description: "Precision Combustion, Inc. (PCI) is a North Haven, CT clean-energy R&D firm developing catalytic reactors, fuel processors, combustors, sorbents, and related"
+description: "Catalytic-reactor R&D firm developing a low-temperature solid-sorbent DAC concept that uses waste/geothermal heat for sorbent regeneration, funded under DOE SBIR awards."
 url: "/directory/precision-combustion/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pci.energy/" target="_blank" rel="noopener">https://pci.energy/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/precision-combustion-inc./" target="_blank" rel="noopener">precision-combustion-inc. — 6,331 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~43 (-7% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Precision Combustion, Inc. (PCI) is a North Haven, CT clean-energy R&D firm developing catalytic reactors, fuel processors, combustors, sorbents, and related technologies primarily under SBIR/STTR contracts with DoD, DOE, NASA, and EPA. Their DAC work is a low-temperature solid-sorbent research line leveraging waste and geothermal heat, funded via DOE SBIR awards and still at lab/bench demonstration scale. DAC is one of many parallel research programs (fuel cells, gas-turbine combustors, hydrogen, engine tech) and has not progressed to commercial CO2 removal.
+Precision Combustion, Inc. (PCI) is a North Haven, CT clean-energy R&D firm whose core business is Microlith® catalytic reactors, fuel processors/reformers, combustors, and sorption systems sold to DoD, DOE, NASA, EPA, and industry. DAC is one small SBIR-funded research line within a much broader portfolio spanning fuel cells, gas turbines, aerospace propulsion, soil fumigation, and engine emissions — the company would clearly continue to exist if its CDR work stopped.
 
 ![Precision Combustion website](/screenshots/precision-combustion.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://pci.energy/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://pci.energy/about-pci/pci-in-the-news/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.precision-combustion.com/about-pci/press-releases-pci/168-pci-doe-project-carbondioxide-direct-air-capture))

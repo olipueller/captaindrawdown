@@ -2,7 +2,7 @@
 title: "Carbfix"
 layout: "single"
 type: "directory"
-description: "Carbfix is an Icelandic carbon mineralization company and subsidiary of Reykjavík Energy that permanently stores CO2 by dissolving it in water and injecting it"
+description: "Dissolves CO2 in water and injects the solution into basaltic subsurface where natural reactions convert it to stable carbonate minerals."
 url: "/directory/carbfix/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbfix is an Icelandic carbon mineralization company and subsidiary of Reykjavík Energy that permanently stores CO2 by dissolving it in water and injecting it into basaltic rock, where it solidifies into carbonate minerals within about two years. It operates injection sites at the Hellisheiði and Nesjavellir geothermal plants, provides storage for DAC partners (e.g. Climeworks, Removr), and is developing the Coda Terminal transport-and-mineralization hub. In April 2025 Carbfix received the EU's first onshore CO2 geological storage permit under the 2009 CCS Directive.
+Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjavík Energy, that permanently stores CO2 by dissolving it in water and injecting it into basaltic rock where it mineralizes into carbonate minerals within roughly two years. It operates injection sites at the Hellisheiði and Nesjavellir geothermal plants and provides storage for DAC partners including Climeworks' Orca plant. It is developing Coda Terminal, a large-scale transport and mineralization hub, and recently received Europe's first onshore CO2 geological storage permit.
 
 ![Carbfix website](/screenshots/carbfix.png)
 
@@ -33,6 +33,7 @@ Carbfix is an Icelandic carbon mineralization company and subsidiary of Reykjav�
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=division liveliness=🟢 Active ([source](https://www.carbfix.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=division liveliness=🟢 Active ([source](https://www.carbfix.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbfix.com/))

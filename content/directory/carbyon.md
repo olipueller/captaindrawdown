@@ -2,7 +2,7 @@
 title: "Carbyon"
 layout: "single"
 type: "directory"
-description: "Carbyon is a Dutch deep-tech startup founded in 2019 as a TNO spin-off, developing modular Direct Air Capture machines branded \"Carbyon GO.\" It targets a cost"
+description: "Develops modular \"fast-swing\" sorbent-based Direct Air Capture machines (Carbyon GO) with ultra-short ~90-second capture cycles, selling equipment to operators rather than running capture projects."
 url: "/directory/carbyon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbyon is a Dutch deep-tech startup founded in 2019 as a TNO spin-off, developing modular Direct Air Capture machines branded "Carbyon GO." It targets a cost of €100/ton via ultra-fast sorbent cycles and sells the technology to operators rather than running its own projects. The company unveiled its first outdoor demonstrator at High Tech Campus Eindhoven in September 2025 and closed a €15.3M Series A the same month.
+Carbyon is a Dutch DAC startup founded in 2019 as a spin-off from research institute TNO, positioning itself as a technology supplier rather than a project operator. In September 2025 the company unveiled Carbyon GO, its first outdoor DAC demonstrator, at High Tech Campus Eindhoven, and in July 2025 it became the first DAC project to receive the Dutch DEI+ subsidy from Topsector Energie and RVO. It targets a cost of €100 per tonne through speed, modularity and mass manufacturing.
 
 ![Carbyon website](/screenshots/carbyon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))

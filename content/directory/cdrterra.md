@@ -2,7 +2,7 @@
 title: "CDRterra"
 layout: "single"
 type: "directory"
-description: "CDRterra is a German federal research funding program (BMFTR, formerly BMBF) launched in 2021 that coordinates academic research on land-based carbon dioxide"
+description: "Government-funded multi-consortium research program investigating land-based CDR pathways (afforestation, BECCS, biochar, enhanced weathering, DACCS, soil carbon) and their policy implications for"
 url: "/directory/cdrterra/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

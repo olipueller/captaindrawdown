@@ -2,10 +2,10 @@
 title: "BioC"
 layout: "single"
 type: "directory"
-description: "BioC is a Singapore-based biochar carbon removal supplier operating PyroCCS pyrolysis facilities that convert biomass into biochar, reformed bio-oil, syngas"
+description: "Operates indirectly-heated gravity-reactor pyrolysis plants that convert waste biomass into stable biochar plus bio-oil and syngas, with a proprietary Sarva Carbon dMRV system tied to CDR registries."
 url: "/directory/bioc/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://bio-c.com/" target="_blank" rel="noopener">https://bio-c.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioc-global/" target="_blank" rel="noopener">bioc-global</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-BioC is a Singapore-based biochar carbon removal supplier operating PyroCCS pyrolysis facilities that convert biomass into biochar, reformed bio-oil, syngas and clean energy. The company sells certified CDR credits (via registries such as Carbon Standards International and Isometric) alongside engineered biocarbon products for industrial/metallurgical use, and runs its own Sarva Carbon dMRV software stack. It develops projects primarily in the Global South, including Namibia via its PyroNam subsidiary.
+BioC is a Singapore-based biochar carbon removal supplier that operates PyroCCS pyrolysis plants converting biomass into biochar, reformed bio-oil and syngas/clean energy. The company issues certified CDR credits via registries such as Carbon Standards International and Isometric, uses its proprietary Sarva Carbon dMRV software, and also sells engineered biocarbon products for industrial applications. BioC is closely affiliated with PyroCCS (German climate-tech group) which has active projects in Namibia and India.
 
 ![BioC website](/screenshots/bioc.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bio-c.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bio-c.com/))

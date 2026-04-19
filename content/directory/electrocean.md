@@ -2,7 +2,7 @@
 title: "Electrocean"
 layout: "single"
 type: "directory"
-description: "Electrocean is an early-stage US student-founded marine CDR startup developing electrochemical technology to sequester CO2 directly from seawater while"
+description: "Electrochemical seawater process that removes CO2, precipitates calcium carbonate, and co-produces hydrogen, packaged with an oyster-aquaculture go-to-market."
 url: "/directory/electrocean/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
@@ -22,13 +22,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Electrocean is an early-stage US student-founded marine CDR startup developing electrochemical technology to sequester CO2 directly from seawater while co-producing calcium carbonate and hydrogen, with an initial go-to-market in oyster aquaculture. The team is building oyster farming technology that fortifies oysters against mass mortality, quickens their growth, and captures carbon dioxide to fight ocean acidification and climate change. The company was a Purdue Innovates Incubator Spring 2026 Moonshot Pitch Challenge winning team.
+Electrocean is an early-stage, Purdue University student-founded US startup developing electrochemical marine CDR technology that sequesters CO2 from seawater while producing calcium carbonate and hydrogen. Its initial commercial angle pairs the technology with oyster farming to enhance shellfish yields and combat ocean acidification. The team was a winner at Purdue's Spring 2026 Moonshot Pitch Challenge.
 
 ![Electrocean website](/screenshots/electrocean.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://electrocean.eco/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://electrocean.eco/))

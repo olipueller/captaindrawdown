@@ -2,7 +2,7 @@
 title: "Jord"
 layout: "single"
 type: "directory"
-description: "Jord AB is a Swedish company founded in 2017 and headquartered in Stockholm that cultivates perennial C4 grass on marginal/degraded land in Senegal and the"
+description: "Cultivates perennial C4 grass on degraded land, harvests it, and pyrolyzes the residues into biochar (stable soil-amendment carbon) while also pressing biomass into fuel pellets."
 url: "/directory/jord/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,24 +11,25 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
-  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.jord.one/" target="_blank" rel="noopener">https://www.jord.one/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/jordab/" target="_blank" rel="noopener">jordab — 1,009 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Jord AB is a Swedish company founded in 2017 and headquartered in Stockholm that cultivates perennial C4 grass on marginal/degraded land in Senegal and the Dominican Republic, producing solid biofuel pellets and biochar. The company is a Puro.earth-listed biochar carbon removal supplier and has active 2024-2025 partnerships with Votion Biorefineries (SAF), TEXEL (electricity), and others. It sells carbon credits combining avoidance and biochar-based removal.
+Jord AB (formerly Skymining) is a Swedish company founded in 2017 and headquartered in Stockholm that cultivates perennial C4 grass on marginal and degraded land in Senegal and the Dominican Republic, producing solid biofuel pellets and biochar via pyrolysis. The company is listed on Puro.earth's Accelerate program and sells biochar carbon removal credits (CORCs), while also partnering with Votion Biorefineries (SAF), TEXEL (electricity), and Borga Group (construction carbon credits). The company remains actively operational in 2025, with a May 2025 land allocation in Senegal and ongoing financing rounds.
 
 ![Jord website](/screenshots/jord.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.jord.one/news/jord-secures-300-hectares-for-flagship-biofuel-project-in-senegal))
 - **2026-04-19** — merged 1 duplicate(s): Jord. AB
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.jord.one/))

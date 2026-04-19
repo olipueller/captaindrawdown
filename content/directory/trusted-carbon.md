@@ -2,7 +2,7 @@
 title: "Trusted Carbon"
 layout: "single"
 type: "directory"
-description: "Trusted Carbon is a carbon credit platform focused on nature-based carbon removal solutions including industrial hemp cultivation, afforestation,"
+description: "Blockchain-based platform/marketplace for nature-based carbon removal credits spanning hemp cultivation, afforestation/reforestation, and biochar projects."
 url: "/directory/trusted-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

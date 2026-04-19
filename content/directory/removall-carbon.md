@@ -2,7 +2,7 @@
 title: "Removall Carbon"
 layout: "single"
 type: "directory"
-description: "Removall Carbon is a Paris-based carbon project developer that designs, operates, and invests in nature-based carbon projects including mangrove restoration"
+description: "Paris-based nature-based carbon project developer and investor that designs, finances and operates mangrove restoration, reforestation, and agroforestry projects, then sells the resulting carbon"
 url: "/directory/removall-carbon/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.removall-carbon.com/" target="_blank" rel="noopener">https://www.removall-carbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/removall-carbon/" target="_blank" rel="noopener">removall-carbon — 8,918 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~41 (+28% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Removall Carbon is a Paris-based carbon project developer that designs, operates, and invests in nature-based carbon projects including mangrove restoration and reforestation, with offices in Brazil and Kenya. In 2024 it launched "Summit Removall," a joint venture with Sumitomo Corporation that has invested in MozBlue Phase 1, a large-scale mangrove restoration initiative in Mozambique. The company also distributes high-integrity carbon credits to corporates and secured corporate debt financing from French banks in mid-2025.
+Removall Carbon is a developer and investor in high-integrity, nature-based projects that remove CO₂ from the atmosphere, with a portfolio of over 150 projects focused on reforestation, mangrove restoration, agroforestry, improved cookstoves, and clean water access. In April 2025 the company formed Summit Removall, a joint venture with Sumitomo Corporation, whose first investment is the MOZBLUE mangrove restoration project in Mozambique developed with Blue Forest. In July 2025 Removall secured corporate debt financing from four leading French banks to accelerate growth.
 
 ![Removall Carbon website](/screenshots/removall-carbon.png)
 
@@ -34,6 +34,7 @@ Removall Carbon is a Paris-based carbon project developer that designs, operates
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.removall-carbon.com/en/removall-and-blue-forest-partner-to-finance-the-largest-mangrove-reforestation-project-in-africa/))
 - **2026-04-19** — merged 1 duplicate(s): Removall
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.removall-carbon.com/en/))

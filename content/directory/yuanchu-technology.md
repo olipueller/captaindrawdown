@@ -2,7 +2,7 @@
 title: "Yuanchu Technology"
 layout: "single"
 type: "directory"
-description: "Yuanchu Technology (原初科技) is a Beijing-based startup founded in 2014 that develops CO2 mineralization technology, reacting captured CO2 with calcium from"
+description: "Reacts CO2 (from flue gas or air) with calcium-rich industrial solid wastes and silicate ores via a chemical-looping/ammonia-mediated carbonation process to produce stable CaCO3 particles."
 url: "/directory/yuanchu-technology/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -28,6 +28,7 @@ Yuanchu Technology (原初科技) is a Beijing-based startup founded in 2014 tha
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](http://www.yuanchutech.cn/en/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](http://www.yuanchutech.cn/en/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))

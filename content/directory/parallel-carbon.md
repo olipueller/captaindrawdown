@@ -2,7 +2,7 @@
 title: "Parallel Carbon"
 layout: "single"
 type: "directory"
-description: "Parallel Carbon is a Manchester, UK-based startup (founded 2021) developing an integrated electrochemical direct air capture and water electrolysis platform"
+description: "Electrochemical direct air capture integrated with water electrolysis, using mineral (limestone-derived) sorbents to co-produce captured CO2 (for geological storage) and carbon-negative hydrogen."
 url: "/directory/parallel-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -11,25 +11,26 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>DAC</td></tr>
-  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.parallelcarbon.com/" target="_blank" rel="noopener">https://www.parallelcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/parallel-carbon/" target="_blank" rel="noopener">parallel-carbon — 3,003 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~10 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Parallel Carbon is a Manchester, UK-based startup (founded 2021) developing an integrated electrochemical direct air capture and water electrolysis platform that co-produces durable CDR credits and low-cost green/carbon-negative hydrogen. In February 2026 it signed a pre-purchase agreement with Zurich Insurance Group for 1,200 tonnes of CORC-certified CDR under the Puro Standard, and reports that the majority of its CDR supply through 2030 is already sold. It has raised ~$3.6M seed (led by Aramco Ventures) with additional follow-on reported.
+Parallel Carbon is a Manchester, UK-based company founded in 2021 that develops an integrated direct air capture system using a limestone-derived mineral sorbent, with an electrochemical approach that simultaneously co-produces clean hydrogen from the same electrolyzer driving the DAC cycle. In February 2026 the company signed a pre-purchase agreement to supply 1,200 metric tons of CDR credits to Zurich Insurance Group, to be issued as CORCs under the Puro Standard and generated via its DAC+H2 process with geological storage. The company has raised approximately $23.8M to date.
 
 ![Parallel Carbon website](/screenshots/parallel-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.parallelcarbon.com/post/parallel-carbon-to-supply-1-200-tons-of-cdr-to-zurich-insurance-group-using-carbon-negative-hydrogen))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.parallelcarbon.com/post/parallel-carbon-to-supply-1-200-tons-of-cdr-to-zurich-insurance-group-using-carbon-negative-hydrogen))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.parallelcarbon.com/post/parallel-carbon-unlocking-cost-effective-carbon-removal-and-hydrogen-co-production))

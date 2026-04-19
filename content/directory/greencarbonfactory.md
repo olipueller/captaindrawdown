@@ -2,7 +2,7 @@
 title: "GreenCarbonFactory"
 layout: "single"
 type: "directory"
-description: "GreenCarbonFactory is an Arnhem-based Dutch sustainable technology company that operates as a Managed Service Provider, installing, owning and maintaining"
+description: "Small-scale on-site thermal conversion (pyrolysis/gasification) of certified sustainable woodchips into combined heat/power and EBC-certified biochar as a durable carbon sink."
 url: "/directory/greencarbonfactory/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-GreenCarbonFactory is an Arnhem-based Dutch sustainable technology company that operates as a Managed Service Provider, installing, owning and maintaining small-scale on-site facilities that produce high-quality biochar and green energy from locally sourced woodchips. Founders Jerom van Roosmalen and Harold Joanknecht convert clean, white-listed woody residue streams into green energy and biochar via thermal conversion. The company has registered a biochar project on the Rainbow Standard registry and remains operationally active in 2025-2026.
+GreenCarbonFactory is an Arnhem-based Dutch startup that installs, owns, and operates small-scale on-site pyrolysis/gasification facilities converting clean local woodchips into green energy (electricity/heat) and EBC-grade biochar for industrial site partners. Founded by Jerom van Roosmalen and Harold Joanknecht, the company operates as a Managed Service Provider and has registered a biochar production project on the Rainbow Standard registry in 2025.
 
 ![GreenCarbonFactory website](/screenshots/greencarbonfactory.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.greencarbonfactory.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.greencarbonfactory.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greencarbonfactory.com/contact-us/))

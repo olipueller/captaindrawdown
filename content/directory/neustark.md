@@ -2,7 +2,7 @@
 title: "Neustark"
 layout: "single"
 type: "directory"
-description: "Neustark is a Swiss climate-tech company, founded in 2019 as an ETH Zurich spin-off and based in Bern, that permanently stores biogenic CO2 in demolished"
+description: "Captures biogenic CO2 from biogas plants and injects it into demolished concrete aggregate, permanently binding it via accelerated mineralization."
 url: "/directory/neustark/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Neustark is a Swiss climate-tech company, founded in 2019 as an ETH Zurich spin-off and based in Bern, that permanently stores biogenic CO2 in demolished concrete and other mineral wastes via accelerated mineralization. It operates 30+ capture-and-storage sites across Europe and raised $69M in 2025 to expand into North America and Asia-Pacific.
+Neustark is a Swiss climate-tech company founded in 2019 (ETH Zurich spin-off), headquartered in Bern, that permanently stores biogenic CO2 in demolished concrete and other mineral waste through accelerated mineralization. As of 2025 it operates roughly 38 capture-and-storage sites across seven European countries and has raised ~$71M, with a Puro.earth certification partnership beginning issuance in 2026.
 
 ![Neustark website](/screenshots/neustark.png)
 
@@ -33,6 +33,7 @@ Neustark is a Swiss climate-tech company, founded in 2019 as an ETH Zurich spin-
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.neustark.com/en/news/press-release))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.neustark.com/en/our-solution-mineralization))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.neustark.com/en))

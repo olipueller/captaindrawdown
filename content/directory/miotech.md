@@ -2,10 +2,10 @@
 title: "MioTech"
 layout: "single"
 type: "directory"
-description: "MioTech is a Hong Kong/Shanghai-based AI-powered ESG data and sustainability software firm whose carbon asset team has expanded into CDR project development."
+description: "Through its carbon asset team, MioTech develops biochar CDR projects (pyrolysis of agricultural waste applied to farmland) registered on Puro.earth, with plans to diversify into geological storage,"
 url: "/directory/miotech/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Hong Kong</td></tr>
   <tr><th>Website</th><td><a href="https://www.miotech.com/" target="_blank" rel="noopener">https://www.miotech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/miotech/" target="_blank" rel="noopener">miotech — 6,386 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~148 (-6% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-MioTech is a Hong Kong/Shanghai-based AI-powered ESG data and sustainability software firm whose carbon asset team has expanded into CDR project development. Its Nian'da Biochar Facility became the first Chinese project to issue CORCs under the Puro.earth standard in 2025, and the company has announced plans to develop 50,000 tons of CDR credits by 2027 across biochar, geological storage, carbonated materials, and enhanced rock weathering.
+MioTech is a Hong Kong/Shanghai-based AI-powered ESG and sustainability data software company whose carbon asset team has expanded into CDR project development. Its Nian'da Biochar Facility in Nanjing became the first Chinese project to issue CORCs under the Puro.earth Standard in May 2025, generating 330 CORCs in its first crediting period with plans to scale to 4,500 CORCs/year by 2026-2027. The company also announced a target of 50,000 tons of CDR credits by 2027 across biochar, geological storage, carbonated materials and enhanced weathering.
 
 ![MioTech website](/screenshots/miotech.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.miotech.com/en-US/press/168))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.miotech.com/en-US/press/168))

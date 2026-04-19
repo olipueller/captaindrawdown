@@ -2,7 +2,7 @@
 title: "Arbon"
 layout: "single"
 type: "directory"
-description: "Arbon is a Brooklyn, NY-based direct air capture startup spun out of Columbia University, developing humidity-swing sorbent technology that releases captured"
+description: "Humidity/moisture-swing solid sorbent DAC that releases captured CO2 using water exposure instead of heat or pressure."
 url: "/directory/arbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.arboncorp.com/" target="_blank" rel="noopener">https://www.arboncorp.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbon-corp/" target="_blank" rel="noopener">arbon-corp — 514 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Arbon is a Brooklyn, NY-based direct air capture startup spun out of Columbia University, developing humidity-swing sorbent technology that releases captured CO2 using water instead of heat. The company holds a Frontier Climate 2023 offtake contract, was selected into the Activate Fellows and Carbon-to-Value 2025 cohort, and unveiled a 5-ton/year pilot on Governors Island during NY Climate Week 2025.
+Arbon is a Brooklyn-based climate tech startup spun out of Columbia University developing humidity-swing (moisture-swing) sorbent technology for direct air capture and point-source CO2 capture. The company holds a Frontier Climate 2023 offtake contract and was selected into the Carbon-to-Value 2025 fifth cohort and Activate Fellows program. It operates from Newlab in Brooklyn with a small team scaling from gram- to ton-scale pilots.
 
 ![Arbon website](/screenshots/arbon.png)
 
@@ -33,6 +33,7 @@ Arbon is a Brooklyn, NY-based direct air capture startup spun out of Columbia Un
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.arboncorp.com/))
 - **2026-04-19** — merged 1 duplicate(s): Arbon Earth
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://arbon.earth/about))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

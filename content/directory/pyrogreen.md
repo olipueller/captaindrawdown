@@ -2,10 +2,10 @@
 title: "Pyrogreen"
 layout: "single"
 type: "directory"
-description: "Pyrogreen Energy is a biochar equipment brand of Wuxi Powermax Renewable Energy Technology Co., Ltd., based in Wuxi, Jiangsu, China. It designs and"
+description: "Manufactures slow-pyrolysis biomass carbonization equipment (screw conveyor, rotary kiln, fixed-bed) that converts agricultural/forestry residues into biochar plus syngas, and provides dMRV and"
 url: "/directory/pyrogreen/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.pyrogreen-energy.com/" target="_blank" rel="noopener">https://www.pyrogreen-energy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wuxi-pyrogreen-energy-technology-co-ltd/" target="_blank" rel="noopener">wuxi-pyrogreen-energy-technology-co-ltd — 10,733 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~16</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Pyrogreen Energy is a biochar equipment brand of Wuxi Powermax Renewable Energy Technology Co., Ltd., based in Wuxi, Jiangsu, China. It designs and manufactures rotary kiln and screw-conveyor biomass carbonization/torrefaction systems that convert agricultural and forestry residues into stable biochar, and offers project development services including dMRV and carbon credit registration under Verra, Puro.earth, Gold Standard and Isometric.
+Pyrogreen Energy is the biochar brand of Wuxi Powermax Renewable Energy Technology Co., Ltd., a Chinese manufacturer of biomass pyrolysis and carbonization equipment (screw-conveyor, rotary kiln, and fixed-bed systems) based in Wuxi, Jiangsu. The company provides turnkey biochar production systems from 50 kg/hr to 5 MT/hr and offers dMRV and carbon-credit registration support under standards such as Verra, Puro.earth, and Isometric.
 
 ![Pyrogreen website](/screenshots/pyrogreen.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrogreen-energy.com/))
 - **2026-04-19** — merged 1 duplicate(s): Pyrogreen Energy
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

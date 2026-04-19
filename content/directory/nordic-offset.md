@@ -2,7 +2,7 @@
 title: "Nordic Offset"
 layout: "single"
 type: "directory"
-description: "Nordic Offset (Nordic Offset Oy) is a Finnish carbon footprint management consultancy and voluntary carbon credit retailer, founded in 2008 and headquartered"
+description: "Retailer/broker of third-party certified carbon credits combined with carbon-footprint calculation and ESG/CSRD sustainability-reporting consulting."
 url: "/directory/nordic-offset/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

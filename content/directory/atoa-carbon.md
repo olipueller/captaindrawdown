@@ -2,7 +2,7 @@
 title: "ATOA Carbon"
 layout: "single"
 type: "directory"
-description: "ATOA Carbon is a US-based carbon markets consultancy and project developer that helps clients with offset methodology development, digital MRV, carbon program"
+description: "Carbon markets consultancy offering methodology development, digital MRV tooling, offset project development, and sustainability advisory services."
 url: "/directory/atoa-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

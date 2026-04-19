@@ -2,7 +2,7 @@
 title: "Husk"
 layout: "single"
 type: "directory"
-description: "HUSK is a biochar producer operating in Cambodia and Vietnam that converts rice husks (a rice-milling byproduct) into biochar via pyrolysis, which is then"
+description: "HUSK operates pyrolysis plants co-located with rice mills in Cambodia and Vietnam that convert rice-husk residue into EBC-certified biochar, which is formulated into carbon-based fertilizers for"
 url: "/directory/husk/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,7 +11,7 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
-  <tr><th>Country</th><td>Cambodia</td></tr>
+  <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.huskventures.com/" target="_blank" rel="noopener">https://www.huskventures.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/huskventures/" target="_blank" rel="noopener">huskventures — 4,076 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-HUSK is a biochar producer operating in Cambodia and Vietnam that converts rice husks (a rice-milling byproduct) into biochar via pyrolysis, which is then processed into carbon-based fertilizers for smallholder farmers. The company issues EBC/Global Biochar C-Sink carbon removal credits and has signed long-term offtake agreements with atmosfair (20,000 tonnes over seven years) and Klarna/Carbonaires. Its second-generation plant in Kampong Thom was commissioned in November 2025 and a Vietnam plant is slated to begin operations in 2026.
+HUSK is a biochar producer headquartered in Singapore with operations in Cambodia (since 2019) and Vietnam (since 2024) that transforms rice husks into biochar-based fertilizers using pyrolysis. The company issues EBC/Global Biochar C-Sink carbon removal credits and has signed a seven-year, 20,000-tonne offtake with atmosfair (funding a new plant commissioning in Kampong Thom in November 2025) alongside a July 2024 investment from Mekong Capital.
 
 ![Husk website](/screenshots/husk.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.atmosfair.de/en/cambodia-biochar-rice-husks/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.huskventures.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.huskventures.com/))

@@ -2,10 +2,10 @@
 title: "EnergieWerk Ilg GmbH"
 layout: "single"
 type: "directory"
-description: "EnergieWerk Ilg GmbH is a family-owned regional energy company in Dornbirn, Vorarlberg, Austria operating wood-chip gasification CHP plants that produce"
+description: "Operates SYNCRAFT wood-chip gasification CHP plants that produce biochar as a coproduct, coupled since September 2025 with an amine-based post-combustion CO2 capture and liquefaction unit on the flue"
 url: "/directory/energiewerk-ilg-gmbh/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,14 +15,14 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.biomassehof.at/energiewerk-ilg/" target="_blank" rel="noopener">https://www.biomassehof.at/energiewerk-ilg/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energiewerk-ilg/" target="_blank" rel="noopener">energiewerk-ilg — 182 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-EnergieWerk Ilg GmbH is a family-owned regional energy company in Dornbirn, Vorarlberg, Austria operating wood-chip gasification CHP plants that produce renewable electricity, district heat and biochar. In September 2025 it commissioned Austria's first coupled biomass-power/carbon-capture/biochar facility (using a Bright Renewables CarboPac-C amine-based capture unit) at its Stöcken plant, and won the Holzenergiepreis Österreich 2025 for the project. Roughly one-third of tree CO2 is durably stored in biochar (CDR), while captured flue-gas CO2 is liquefied for food/beverage use (CCU).
+EnergieWerk Ilg GmbH is a family-owned regional energy utility in Dornbirn, Vorarlberg, Austria that operates wood-chip gasification CHP plants producing renewable electricity, district heat, and biochar. In September 2025 it commissioned Austria's first coupled biomass-power/carbon-capture/biochar facility at its Stöcken plant using Bright Renewables' CarboPac-C amine-based capture unit, and won the 2025 Austrian Wood Energy Prize for the project. Energy supply remains the core business; CDR (biochar + BECCS-style CO2 capture) is an adjacent activity built on top of the existing combustion infrastructure.
 
 ![EnergieWerk Ilg GmbH website](/screenshots/energiewerk-ilg-gmbh.png)
 
@@ -32,6 +32,7 @@ EnergieWerk Ilg GmbH is a family-owned regional energy company in Dornbirn, Vora
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.bright-renewables.com/austrias-carbon-capture-breakthrough-co2-capture-liquefacation-facility-at-energiewerk-ilg-operational/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bright-renewables.com/austrias-carbon-capture-breakthrough-co2-capture-liquefacation-facility-at-energiewerk-ilg-operational/))

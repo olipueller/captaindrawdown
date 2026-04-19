@@ -2,10 +2,10 @@
 title: "Marquis Energy"
 layout: "single"
 type: "directory"
-description: "Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, Illinois, and through its subsidiary Marquis Carbon Capture LLC is developing a"
+description: "Captures biogenic CO2 from corn ethanol fermentation at the Hennepin, IL industrial complex and injects it into the Mt. Simon saline formation via a Class VI well."
 url: "/directory/marquis-energy/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://marquisinc.com/" target="_blank" rel="noopener">https://marquisinc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/marquis-energy-llc/" target="_blank" rel="noopener">marquis-energy-llc — 2,172 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~147</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, Illinois, and through its subsidiary Marquis Carbon Capture LLC is developing a BECCS project to sequester up to 1.5 million metric tons of biogenic CO2 per year in the Mt. Simon saline formation beneath its industrial complex. The U.S. EPA issued a draft Class VI well permit in September 2025, with a final permit expected in February 2026. Ethanol production remains the core business, with CCS pursued to secure 45Q tax credits and advance the complex toward carbon-neutral status.
+Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, Illinois, producing ~395 million gallons of ethanol plus DDGS and corn oil. Through its subsidiary Marquis Carbon Injection LLC, it is developing a BECCS project to sequester over 1 million tons/year of biogenic CO2 in the Mt. Simon formation beneath the site, with a draft EPA Class VI well permit issued in September 2025 and a final permit expected in February 2026.
 
 ![Marquis Energy website](/screenshots/marquis-energy.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://marquisinc.com/carbon-and-sustainability/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://marquisinc.com/carbon-and-sustainability/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://marquisinc.com/carbon-and-sustainability/))

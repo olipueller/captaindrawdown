@@ -2,7 +2,7 @@
 title: "Remove Carbon Today"
 layout: "single"
 type: "directory"
-description: "Remove Carbon Today is an online retail storefront that enables individuals to purchase certified, durable carbon removal credits. It aggregates small customer"
+description: "Retail e-commerce reseller that bundles individual consumer purchases into Puro.earth-certified CORC retirements sourced from third-party removal suppliers."
 url: "/directory/remove-carbon-today/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

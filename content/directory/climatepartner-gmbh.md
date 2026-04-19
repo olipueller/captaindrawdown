@@ -2,7 +2,7 @@
 title: "ClimatePartner GmbH"
 layout: "single"
 type: "directory"
-description: "ClimatePartner GmbH is a Munich-based climate action consultancy and carbon project broker founded in 2006, helping corporate clients calculate carbon"
+description: "Corporate carbon accounting software, net-zero consulting, and brokerage/development of climate projects (mostly traditional offsets including renewables, afforestation, and cookstoves)."
 url: "/directory/climatepartner-gmbh/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

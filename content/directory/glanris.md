@@ -2,7 +2,7 @@
 title: "Glanris"
 layout: "single"
 type: "directory"
-description: "Glanris is a US clean-tech company based in Olive Branch, Mississippi that manufactures Biocarbon, a rice-hull-derived biochar used for water filtration, soil"
+description: "Pyrolyzes rice hulls (and testing nut shells) into silica-rich biocarbon used as water filtration media and soil amendment, with verified carbon removal via Puro.earth CORCs."
 url: "/directory/glanris/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Glanris is a US clean-tech company based in Olive Branch, Mississippi that manufactures Biocarbon, a rice-hull-derived biochar used for water filtration, soil amendment, and construction materials. The company is registered on Puro.Earth's CORC exchange and, as of 2024-2025, was scaling production with plans for a larger California plant using rice hulls and nut shells.
+Glanris is a US clean-tech company based in Olive Branch, Mississippi that manufactures Biocarbon, a rice-hull-derived biochar sold as water filtration media and soil amendment, with carbon removal credits listed on Puro.earth's CORC exchange. The company was founded in 2018 and has raised roughly $5.7M including SBIR grants, and in 2025 was expanding its Memphis facility and testing new feedstocks (walnut shells).
 
 ![Glanris website](/screenshots/glanris.png)
 
@@ -32,6 +32,7 @@ Glanris is a US clean-tech company based in Olive Branch, Mississippi that manuf
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://launchtn.org/memphis-glanris-biocarbon/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.glanris.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.glanris.com/blog/press-release-april2022))

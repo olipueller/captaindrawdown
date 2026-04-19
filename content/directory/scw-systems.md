@@ -2,7 +2,7 @@
 title: "SCW Systems"
 layout: "single"
 type: "directory"
-description: "SCW Systems is a Dutch climate-tech company headquartered in Alkmaar that operates the world's first industrial-scale supercritical water gasification plant,"
+description: "Supercritical water gasification of wet biomass waste into green methane/hydrogen plus biogenic CO2, with a secondary DAC tower (\"CO2 CleanUp\") for atmospheric CO2 removal and geological storage."
 url: "/directory/scw-systems/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.scwsystems.com/" target="_blank" rel="noopener">https://www.scwsystems.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scw-systems/" target="_blank" rel="noopener">scw-systems — 3,820 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~72 (-23% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-SCW Systems is a Dutch climate-tech company headquartered in Alkmaar that operates the world's first industrial-scale supercritical water gasification plant, partnering with Gasunie to convert wet organic waste streams (manure, sewage sludge, green waste) into green methane, hydrogen and biogenic CO2. It has also built and tested a 5,000 tpa Direct Air Capture tower ("CO2 CleanUp") in Alkmaar, with captured CO2 intended for permanent geological storage. Founded in 2013 by CEO Gerard Essing, the company received a €25M investment from Dutch pension fund PFZW in July 2024.
+SCW Systems is a Dutch energy-services company in Alkmaar that operates an industrial-scale supercritical water gasification plant, converting wet organic waste (manure, sewage sludge, green waste) into green methane and hydrogen injected into Gasunie's gas grid. Biogenic CO2 from the process and a separately developed Direct Air Capture tower ("CO2 CleanUp") provide carbon-removal side streams, but the primary business is renewable-gas production from waste.
 
 ![SCW Systems website](/screenshots/scw-systems.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.scwsystems.com/))
 - **2026-04-19** — merged 1 duplicate(s): SCW Systems B.V.
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

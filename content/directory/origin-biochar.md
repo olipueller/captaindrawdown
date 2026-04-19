@@ -2,7 +2,7 @@
 title: "Origin Biochar"
 layout: "single"
 type: "directory"
-description: "Origin Biochar (trading as R & S Biomass Equipment Ltd) is a Northern Ireland-based biochar manufacturer in Newtonstewart, Omagh, County Tyrone. They operate a"
+description: "Operates a Biomacon pyrolysis unit producing biochar granules sold as livestock feed additive (\"feedchar\") and horticultural biochar, with renewable heat and carbon sequestration as co-benefits."
 url: "/directory/origin-biochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -15,18 +15,19 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://originbiochar.com/" target="_blank" rel="noopener">https://originbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/origin-biochar/" target="_blank" rel="noopener">origin-biochar — 106 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Origin Biochar (trading as R & S Biomass Equipment Ltd) is a Northern Ireland-based biochar manufacturer in Newtonstewart, Omagh, County Tyrone. They operate a Biomacon pyrolysis unit producing feedchar products for livestock (cattle, sheep, pigs, poultry, equine) and horticultural biochar, with carbon sequestration and renewable heat positioned as co-benefits of the pyrolysis process. No evidence of CDR credit issuance on major registries.
+Origin Biochar is a biochar product brand of R&S Biomass Equipment Ltd, a Northern Ireland biomass heating equipment installer founded in 2008 that has completed over 1,200 Fröling boiler installations across Ireland. The biochar line, produced on a Biomacon pyrolysis unit in Newtownstewart, County Tyrone, is sold primarily as animal feed supplement and horticultural amendment rather than as CDR credits. Carbon sequestration is positioned as a co-benefit of the core biomass-heating business.
 
 ![Origin Biochar website](/screenshots/origin-biochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟡 Moderate ([source](https://originbiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://originbiochar.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://originbiochar.com/))

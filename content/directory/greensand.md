@@ -2,10 +2,10 @@
 title: "greenSand"
 layout: "single"
 type: "directory"
-description: "greenSand is a Netherlands-based enhanced rock weathering supplier based in Enkhuizen that mines, grinds and distributes olivine as a replacement for"
+description: "greenSand mines, grinds and distributes olivine rock as a replacement for conventional sand and stone to drive enhanced rock weathering, selling both certified olivine products and ONCRA-certified"
 url: "/directory/greensand/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://greensand.com/en" target="_blank" rel="noopener">https://greensand.com/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greensand/" target="_blank" rel="noopener">greensand — 1,468 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-greenSand is a Netherlands-based enhanced rock weathering supplier based in Enkhuizen that mines, grinds and distributes olivine as a replacement for conventional sand and stone to permanently capture atmospheric CO2. The company sells both certified olivine products and ONCRA-certified CO2 removal certificates, with validated projects including the Uithoornlijn and Arnhem Depot rail projects, and is expanding via a greenSand Japan partnership.
+greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen, led by Eddy Wijnker, that accelerates natural olivine weathering to permanently capture atmospheric CO2. The company distributes olivine for construction, landscaping and agricultural applications, and issues ONCRA-certified CO2 removal certificates. In late 2025 it launched greenSand Japan to expand its ERW method into Asia.
 
 ![greenSand website](/screenshots/greensand.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://greensand.com/en/blogs/news/greensand-japan))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))

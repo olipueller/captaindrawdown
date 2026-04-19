@@ -2,7 +2,7 @@
 title: "FETZER Rohstoffe + Recycling"
 layout: "single"
 type: "directory"
-description: "FETZER Rohstoffe + Recycling GmbH is a German recycling company in Eislingen that has produced Moola biochar since 2013, a pioneer of industrial biochar"
+description: "Pyrolysis of wood chips and spelt husks at 550–720°C to produce EBC-certified biochar for agricultural and animal-husbandry markets."
 url: "/directory/fetzer-rohstoffe-recycling/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,12 +16,12 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero — 4,479 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-FETZER Rohstoffe + Recycling GmbH is a German recycling company in Eislingen that has produced Moola biochar since 2013, a pioneer of industrial biochar production in Germany. Three pyrolysis plants produce about 1,500 m³ of biochar per year and their waste heat is reused in the recycling facility. Products are EBC-AgroBio and EBC-Csink certified and sold as soil amendment, feed additive, bedding, and biogas input.
+FETZER Rohstoffe + Recycling GmbH is a recycling company in Eislingen, Germany, that has produced Moola biochar from wood chips since 2013 using three pyrolysis plants (~1,500 m³/year), with waste heat reused at the recycling facility. Moola products are EBC-AgroBio and EBC-Csink certified and sold via retail (e.g. Dehner) and to farmers as soil amendment, feed additive, and animal bedding. Biochar is an adjacent product line to the core recycling business.
 
 ![FETZER Rohstoffe + Recycling website](/screenshots/fetzer-rohstoffe-recycling.png)
 
@@ -31,6 +31,7 @@ FETZER Rohstoffe + Recycling GmbH is a German recycling company in Eislingen tha
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.moola-pflanzenkohle.de/))
 - **2026-04-19** — merged 2 duplicate(s): Moola Pflanzenkohle, Fetzer Rohstoffe
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

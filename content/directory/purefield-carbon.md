@@ -2,10 +2,10 @@
 title: "PureField Carbon"
 layout: "single"
 type: "directory"
-description: "PureField Carbon Capture, LLC is a subsidiary of PureField Ingredients, a Kansas-based wheat-protein and ethanol producer. In April 2026, EPA Region 7 issued"
+description: "Captures biogenic CO2 from wheat-starch ethanol fermentation at Russell, Kansas and injects it via a Class VI well into the Arbuckle formation ~3,500 ft underground for permanent geologic"
 url: "/directory/purefield-carbon/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.purefield.com/" target="_blank" rel="noopener">https://www.purefield.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/purefield-ingredients/" target="_blank" rel="noopener">purefield-ingredients — 1,107 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~43</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-PureField Carbon Capture, LLC is a subsidiary of PureField Ingredients, a Kansas-based wheat-protein and ethanol producer. In April 2026, EPA Region 7 issued the company the first Class VI well permit in Kansas, authorizing injection of up to 150,000 metric tons of CO2 per year (1.8 million tons total over 12 years) from its Russell, Kansas ethanol fermentation operations into the Arbuckle rock formation. Operations are to start following final commissioning.
+PureField Carbon Capture, LLC is a subsidiary of PureField Ingredients authorized to inject CO2 from its Russell, Kansas ethanol operations into deep rock formations over a 12-year period. EPA Region 7 issued the final Class VI well permit in April 2026 — the first such permit in Kansas and across the four-state Heartland region. The permit allows up to 150,000 metric tons of CO2 annually, totaling 1.8 million metric tons over 12 years.
 
 ![PureField Carbon website](/screenshots/purefield-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.epa.gov/newsreleases/epa-issues-class-vi-well-permit-purefield-carbon-capture-kansas))
 - **2026-04-19** — merged 1 duplicate(s): PureField Ingredients
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.zoominfo.com/c/purefield-ingredients/346769939))

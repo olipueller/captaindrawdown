@@ -2,7 +2,7 @@
 title: "EAD"
 layout: "single"
 type: "directory"
-description: "EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is a 100%-city-owned municipal utility of Darmstadt, Germany, handling waste management and"
+description: "Carbon Technik Schuster (CTS) two-retort pyrolysis of urban green-cuttings producing ~1,000 t/yr EBC-certified biochar, with waste heat recovered via high-temperature gas turbine for on-site power."
 url: "/directory/ead/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://ead.darmstadt.de/" target="_blank" rel="noopener">https://ead.darmstadt.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wissenschaftsstadt-darmstadt/" target="_blank" rel="noopener">wissenschaftsstadt-darmstadt — 2,082 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~248 (+27% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is a 100%-city-owned municipal utility of Darmstadt, Germany, handling waste management and related services for residents and businesses. Via a carbonization plant, EAD processes urban green-cuttings into biochar and returns it to public spaces, closing waste loops. The biochar produced at its Sensfelderweg site is certified under the European Biochar Certificate (EBC-AgroBio) with certificate CC-0375. Biochar is a small CDR-relevant activity of an otherwise non-CDR municipal services operator.
+EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is the municipal waste management utility of Darmstadt, Germany, with ~248 employees handling waste collection, recycling, composting, and street cleaning. Since August 2022 EAD has operated a CTS two-retort carbonization plant at Sensfelderweg that converts ~4,000 t/yr of urban green cuttings into ~1,000 t/yr of EBC-certified biochar, partly funded by a Bloomberg Philanthropies Mayors Challenge grant. Waste management remains the overwhelmingly dominant activity; biochar is an adjacent climate-action project.
 
 ![EAD website](/screenshots/ead.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://ead.darmstadt.de/aktuelles/detail/bodenverbesserer-tierfutter-duengemittel-darmstaedter-pflanzenkohle-erhaelt-internationale-zertifika/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://ead.darmstadt.de/aktuelles/detail/bodenverbesserer-tierfutter-duengemittel-darmstaedter-pflanzenkohle-erhaelt-internationale-zertifika/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://biochar-zero.com/company/eigenbetrieb-fur-kommunale-aufgaben-und-dienstleistungen-ead/))

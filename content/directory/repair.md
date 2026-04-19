@@ -2,7 +2,7 @@
 title: "RepAir"
 layout: "single"
 type: "directory"
-description: "RepAir Carbon is an Israeli direct air capture company developing a solid-state electrochemical cell (inspired by battery and fuel-cell designs) that uses"
+description: "Develops a solid-state electrochemical cell (battery/fuel-cell inspired) that uses electricity and a selective membrane to separate CO2 from air or dilute industrial streams without heat or solvents."
 url: "/directory/repair/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://www.repair-carbon.com/" target="_blank" rel="noopener">https://www.repair-carbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/repair-carbon/" target="_blank" rel="noopener">repair-carbon — 9,619 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~51 (+34% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-RepAir Carbon is an Israeli direct air capture company developing a solid-state electrochemical cell (inspired by battery and fuel-cell designs) that uses electricity and a selective membrane to separate CO2 from air or dilute industrial streams without heat or solvents. In April 2025 the company raised a $15M Series A extension co-led by Taranis Carbon Ventures and Extantia Capital, with Ormat, Repsol, and a $3M Israel Innovation Authority grant, and is partnered on the Pelican DAC hub in Louisiana and a C-Questra onshore DAC project in France.
+Founded in 2020, RepAir Carbon develops an ultra-efficient electrochemical system that captures CO₂ from diluted sources including direct air capture and industrial emissions, without requiring heat, liquids, or solvents. In April 2025 the company secured $15 million in Series A extension funding co-led by Taranis Carbon Ventures and Extantia Capital, with participation from Ormat Technologies and Repsol, plus a $3M non-dilutive grant from the Israeli Innovation Authority. RepAir has operations in the US, Israel and Luxembourg, and has been selected for the Pelican DAC project in Louisiana with Shell and Mitsubishi as well as Europe's first onshore DAC-CCS project in France with C-Questra.
 
 ![RepAir website](/screenshots/repair.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.repair-carbon.com/press-posts/repair-carbon-raises-15m-to-commercialize-breakthrough-technology))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.repair-carbon.com/press-posts/repair-carbon-raises-15m-to-commercialize-breakthrough-technology))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.repair-carbon.com/press-posts/repair-unveils-direct-air-capture-field-prototype))

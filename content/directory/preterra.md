@@ -2,10 +2,10 @@
 title: "Preterra"
 layout: "single"
 type: "directory"
-description: "Preterra BioCarbon Solutions Ltd. is a Salt Spring Island, BC-based biochar company founded in 2022 that deploys German SP-SC pyrolysis kiln technology to"
+description: "Operates mobile SP-SC pyrolysis retorts on Salt Spring Island to convert BC wood-waste biomass into biochar for soil amendment and concrete admixture applications."
 url: "/directory/preterra/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://preterra.ca/" target="_blank" rel="noopener">https://preterra.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/preterra-biocarbon-solutions-ltd/" target="_blank" rel="noopener">preterra-biocarbon-solutions-ltd — 41 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Preterra BioCarbon Solutions Ltd. is a Salt Spring Island, BC-based biochar company founded in 2022 that deploys German SP-SC pyrolysis kiln technology to convert BC wood waste (forest thinning slash, sawmill residues) into biochar. The biochar is sold as a soil amendment and is also formulated into a concrete admixture for long-term carbon storage in building materials.
+Preterra BioCarbon Solutions Ltd. is a Salt Spring Island, BC-based biochar producer founded in 2022 that uses German SP-SC pyrolysis retort technology to convert BC wood waste (sawmill residues, forest thinning slash) into high-carbon biochar. The biochar is sold as a soil amendment (including via Amazon.ca) and is being developed as a concrete admixture for long-term carbon storage in building materials.
 
 ![Preterra website](/screenshots/preterra.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://preterra.ca/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://preterra.ca/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://preterra.ca/))

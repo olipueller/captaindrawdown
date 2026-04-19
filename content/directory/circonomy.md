@@ -2,7 +2,7 @@
 title: "Circonomy"
 layout: "single"
 type: "directory"
-description: "Circonomy develops high-integrity biochar carbon removal projects in the Global South, connected to the Global C-Sink Registry, and is expanding into"
+description: "Circonomy develops biochar carbon removal projects with smallholder farmers in Asia (India, Malaysia, Laos) using Kon-Tiki kilns and its own digital MRV system endorsed by Carbon Standards"
 url: "/directory/circonomy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,6 +11,7 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.circonomy.co/" target="_blank" rel="noopener">https://www.circonomy.co/</a></td></tr>
@@ -23,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Circonomy develops high-integrity biochar carbon removal projects in the Global South, connected to the Global C-Sink Registry, and is expanding into industrial biochar production projects meeting Puro and Isometric standards. It operates as an artisanal biochar venture active in India, Malaysia, and Kenya. The company also builds a digital MRV app used by smallholder "Artisan Pro" operators to document biochar production and generate credits.
+Circonomy is a Singapore-based climate tech startup specialized in carbon removal through biochar projects, working with farmer producer organizations, biomass aggregators and smallholder farmers in India to turn organic waste into biochar. The company received dMRV certification from Carbon Standards International in December 2023 for its digital Measurement, Reporting, and Verification system used in its carbon removal initiatives. In late 2025 Circonomy, a Biochar CDR project developer, announced an agreement with Narmada Bio-Chem Limited in India to develop a fully integrated, industrial-scale biochar facility.
 
 ![Circonomy website](/screenshots/circonomy.png)
 
@@ -33,6 +34,7 @@ Circonomy develops high-integrity biochar carbon removal projects in the Global 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.circonomy.co/))
 - **2026-04-19** — merged 1 duplicate(s): Circonomy Pte. Ltd.
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.circonomy.co/))

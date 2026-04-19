@@ -2,7 +2,7 @@
 title: "Carbonaires"
 layout: "single"
 type: "directory"
-description: "Carbonaires is a London-based carbon asset management and finance firm that structures investments in high-integrity carbon removal projects. The company has"
+description: "Carbon asset management firm that invests in and structures finance vehicles for high-integrity carbon removal projects such as biochar."
 url: "/directory/carbonaires/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Tau Carbon"
 layout: "single"
 type: "directory"
-description: "Tau Carbon is a Cupertino, California-based CDR startup founded by John Lin and Amber Janda that removes atmospheric CO2 by preserving dry, densified wood"
+description: "Preserves dry, densified non-merchantable wood waste from forest thinning in proprietary aboveground modular containers to prevent decomposition and durably store biogenic carbon."
 url: "/directory/tau-carbon/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.taucarbon.com/" target="_blank" rel="noopener">https://www.taucarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tau-carbon/" target="_blank" rel="noopener">tau-carbon — 500 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Tau Carbon is a Cupertino, California-based CDR startup founded by John Lin and Amber Janda that removes atmospheric CO2 by preserving dry, densified wood waste in aboveground modular tanks to prevent decomposition. The company sells carbon removal credits under Puro.earth's Terrestrial Storage of Biomass methodology, using non-merchantable forest-thinning wood waste as feedstock. It is a founding member of the Carbon Business Council's Direct Storage of Biomass (DSB) Coalition launched in March 2026.
+Tau Carbon was founded by John Lin and Dr. Amber Janda, who developed the idea of removing CO₂ from the atmosphere by stopping the decomposition of wood while researching CO₂-to-fuels catalysts at Stanford. The California-based company stores wood biomass aboveground in modular, stackable containers, claiming a 25-meter stack can store 100,000 dry tonnes of wood waste (equivalent to 180,000 tonnes of CO2) on 2.5 acres. The firm sells credits under Puro.earth's Terrestrial Storage of Biomass methodology.
 
 ![Tau Carbon website](/screenshots/tau-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.taucarbon.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.taucarbon.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.linkedin.com/company/tau-carbon))

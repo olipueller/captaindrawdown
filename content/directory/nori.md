@@ -2,7 +2,7 @@
 title: "Nori"
 layout: "single"
 type: "directory"
-description: "Nori was a Seattle-based carbon removal marketplace and registry that connected buyers with US farmers practicing regenerative agriculture for soil carbon"
+description: "Operated an integrated carbon removal issuing program, registry, and online marketplace (with blockchain tracking) for soil carbon sequestration credits from regenerative agriculture."
 url: "/directory/nori/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

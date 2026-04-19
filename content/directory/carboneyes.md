@@ -2,10 +2,10 @@
 title: "Carboneyes"
 layout: "single"
 type: "directory"
-description: "Carboneyes creates carbon removal credits by permanently storing carbon in soil, supporting smallholder sugarcane farmers and soil health. The company"
+description: "Pyrolysis of waste sugarcane bagasse into biochar, applied to smallholder farmers' soils for durable carbon storage."
 url: "/directory/carboneyes/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboneyes.co/" target="_blank" rel="noopener">https://www.carboneyes.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboneyesltd/" target="_blank" rel="noopener">carboneyesltd</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carboneyes creates carbon removal credits by permanently storing carbon in soil, supporting smallholder sugarcane farmers and soil health. The company carbonises waste bagasse into biochar, locking carbon into a stable form for at least 1,000 years, and donates the biochar to sugarcane farmers at no cost with on-the-ground training. It aims to remove over 500,000 tonnes of CO2 and donate over 200,000 tonnes of biochar to farmers by 2030.
+Carboneyes is a UK-based biochar carbon removal company that pyrolyzes waste sugarcane bagasse into biochar and donates it to smallholder sugarcane farmers in Africa. The company generates carbon removal credits by permanently storing carbon in soil, targeting over 500,000 tonnes of CO2 removal and 200,000 tonnes of biochar donation by 2030.
 
 ![Carboneyes website](/screenshots/carboneyes.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneyes.co/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carboneyes.co/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carboneyes.co/))

@@ -2,7 +2,7 @@
 title: "Byron Biochar"
 layout: "single"
 type: "directory"
-description: "Byron Biochar is an Australian social enterprise founded by Don Coyne that produces and distributes biochar and wood vinegar products for agriculture and soil"
+description: "Small Australian biochar reseller and consultancy that distributes biochar and wood vinegar products and runs biochar workshops for soil/agriculture applications."
 url: "/directory/byron-biochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://byronbiochar.com.au/" target="_blank" rel="noopener">https://byronbiochar.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/byron-biochar/" target="_blank" rel="noopener">byron-biochar</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Byron Biochar is an Australian social enterprise founded by Don Coyne that produces and distributes biochar and wood vinegar products for agriculture and soil restoration. The company operates out of the Byron Bay/Tyagarah region in New South Wales and sells biochar products Australia-wide.
+Byron Biochar is a small Australian social enterprise founded and operated by horticulturist Don Coyne, based in the Byron Bay/Mullumbimby region of NSW. The business acts as a reseller of Australian-made biochar and wood vinegar products shipped nationwide, and offers private consultancy, workshops, and mobile on-property biochar services. Coyne is also CEO of the Australia New Zealand Biochar Industry Group (ANZBIG).
 
 ![Byron Biochar website](/screenshots/byron-biochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.byronbiochar.com.au/about-us/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://byronbiochar.com.au/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/byron-biochar))

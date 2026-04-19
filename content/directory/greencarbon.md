@@ -2,7 +2,7 @@
 title: "Greencarbon"
 layout: "single"
 type: "directory"
-description: "Greencarbon is a Dutch broker/marketplace for CO2 removal certificates based in Aalsmeer, Netherlands. The company sells carbon removal credits from Dutch and"
+description: "Broker/marketplace platform selling CO2 removal certificates from Dutch and Belgian nature-based and soil carbon removal projects, certified via ONCRA registry."
 url: "/directory/greencarbon/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,7 +2,7 @@
 title: "Dark Earth Carbon"
 layout: "single"
 type: "directory"
-description: "Dark Earth Carbon (DEC) is a Tanzanian biochar producer partnered with German offset provider atmosfair, operating a pyrolysis plant in Iringa that processes"
+description: "Operates a rotary-kiln pyrolysis plant converting forestry and agricultural wood residues into biochar applied to Tanzanian farmland as a soil amendment."
 url: "/directory/dark-earth-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Tanzania</td></tr>
   <tr><th>Website</th><td><a href="https://www.darkearthcarbon.com/" target="_blank" rel="noopener">https://www.darkearthcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dark-earth-carbon/" target="_blank" rel="noopener">dark-earth-carbon — 849 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
   <tr><th>Employees</th><td>~38 (+23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Dark Earth Carbon (DEC) is a Tanzanian biochar producer partnered with German offset provider atmosfair, operating a pyrolysis plant in Iringa that processes roughly 8,000 tonnes of wood residues per year. The company delivered what it describes as the first industrial biochar carbon removals in East Africa, with credits issued via the CSI Registry, and is planning a second plant in Mafinga.
+Dark Earth Carbon (DEC) is a Tanzanian biochar producer operating a rotary-kiln pyrolysis plant in Iringa that processes approximately 8,000 tonnes of wood waste per year, in partnership with German climate organization atmosfair. The company delivered what it describes as the first industrial biochar carbon removals in East Africa via the CSI Registry, and is planning a second plant in Mafinga.
 
 ![Dark Earth Carbon website](/screenshots/dark-earth-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.darkearthcarbon.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.darkearthcarbon.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.atmosfair.de/en/climate-protection-projects/negative-emissions/tanzania-industrial-production-of-biochar/))

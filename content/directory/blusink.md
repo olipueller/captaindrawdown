@@ -2,32 +2,33 @@
 title: "Blusink"
 layout: "single"
 type: "directory"
-description: "Founded in 2022 and based in London, Blusink uses proprietary, traceable technology to enhance ocean alkalinity, accelerating CO2 capture and locking it into"
+description: "Deploys engineered porous substrates on the seafloor to catalyze ocean alkalinity enhancement and support rhodolith (coralline algae) colonization, driving CO2 conversion into stable carbonate"
 url: "/directory/blusink/"
 pathway: "Ocean CDR"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Ocean CDR</td></tr>
-  <tr><th>Secondary pathways</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.blusink.com/" target="_blank" rel="noopener">https://www.blusink.com/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Founded in 2022 and based in London, Blusink uses proprietary, traceable technology to enhance ocean alkalinity, accelerating CO2 capture and locking it into stable mineral formations. The startup pioneers the sinking of substrates to help restore rhodolith beds to capture carbon and improve marine biodiversity. MRV relies on total alkalinity analyses and calcification-rate measurements, with pilot deployments in locations including Madeira and Colombia.
+Blusink is a London-based ocean CDR startup founded in 2022 that deploys engineered seafloor substrates ("Blusinkies") to enhance ocean alkalinity and restore rhodolith beds, combining carbon sequestration with marine biodiversity restoration. The company has early deployments in Colombia, the Maldives, Portugal, and Japan, and is running a mesocosm experiment with Plymouth Marine Laboratory to quantify chemical and biological carbon removal effects.
 
 ![Blusink website](/screenshots/blusink.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.blusink.com))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/blusink/__KT8yySwuSItcRGccE9bmxa_xgbPyW2Ggi4FCQNkk-p0))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.blusink.com/))

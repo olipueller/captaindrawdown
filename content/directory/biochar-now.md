@@ -2,10 +2,10 @@
 title: "Biochar Now"
 layout: "single"
 type: "directory"
-description: "Biochar Now is a Berthoud, Colorado-based biochar producer founded in 2011 that converts waste wood (beetle-kill pine, old pallets, utility poles,"
+description: "Pyrolyzes waste wood (beetle-kill pine, pallets, utility poles, wildfire timber) into biochar using patented kiln technology at its Berthoud, Colorado facility."
 url: "/directory/biochar-now/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://biocharnow.com/" target="_blank" rel="noopener">https://biocharnow.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-now-llc/" target="_blank" rel="noopener">biochar-now-llc — 3,320 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~16 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Biochar Now is a Berthoud, Colorado-based biochar producer founded in 2011 that converts waste wood (beetle-kill pine, old pallets, utility poles, wildfire-damaged timber) into biochar via pyrolysis using patented kiln technology. Products serve specialty agriculture, reclamation, oil and gas, odor control, nutrient removal, and as filler in plastics, concrete, and asphalt. The company is expanding feedstock partnerships (e.g. Larimer County landfill diversion) and geographic footprint.
+Biochar Now is a Berthoud, Colorado biochar producer founded in 2011 that converts waste wood into biochar via pyrolysis using its patented kiln technology. Products serve agriculture, environmental reclamation, oil and gas, odor/nutrient removal, and as filler in plastics, concrete, and asphalt. The company is actively pursuing landfill-diversion partnerships (e.g., Larimer County) and expansion.
 
 ![Biochar Now website](/screenshots/biochar-now.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biocharnow.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biocharnow.com/))

@@ -2,10 +2,10 @@
 title: "Carbon Kapture"
 layout: "single"
 type: "directory"
-description: "Carbon Kapture is a UK startup that has partnered with shellfish farmers to establish seaweed farms focused on carbon sequestration, starting with its first"
+description: "Grows sugar kelp (Saccharina latissima) on ropes via shellfish-farm partnerships, then pyrolyzes the dried seaweed into biochar that is applied to agricultural soils."
 url: "/directory/carbon-kapture/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://carbonkapture.com/" target="_blank" rel="noopener">https://carbonkapture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-kapture/" target="_blank" rel="noopener">carbon-kapture</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbon Kapture is a UK startup that has partnered with shellfish farmers to establish seaweed farms focused on carbon sequestration, starting with its first farm in Mulroy Bay, County Donegal, Ireland. The kelp is harvested, dried and processed into biochar, which is then spread on agricultural land, and carbon credits are sold on this basis; since 2022 the company has established 12 farms across Ireland, Spain, Portugal, the UK and France.
+Carbon Kapture is a UK startup (founded 2020, based in Poole) that partners with shellfish farmers to grow sugar kelp on ropes, then pyrolyzes the harvested seaweed into biochar which is distributed to farmers as a soil amendment. The company sells carbon credits based on this sequestration and, as of 2025, operates a network of 12 farms across Ireland, the UK, France, Spain and Portugal, with expansion plans further afield.
 
 ![Carbon Kapture website](/screenshots/carbon-kapture.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonkapture.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.geoengineeringmonitor.org/geo-map-biochar-apr25))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonkapture.com/what-we-do/))

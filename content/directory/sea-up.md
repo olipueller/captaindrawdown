@@ -2,7 +2,7 @@
 title: "Sea-Up"
 layout: "single"
 type: "directory"
-description: "Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) is a small US-based ocean CDR developer led by founder Philip Kithil. The"
+description: "Deploys wave-energy-powered artificial upwelling pumps with 200-600m fabric tubes and one-way valves to bring nutrient-rich deep water to the surface, triggering phytoplankton photosynthesis to drive"
 url: "/directory/sea-up/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.sea-up.life/" target="_blank" rel="noopener">https://www.sea-up.life/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-sea-upwelling-company/" target="_blank" rel="noopener">the-sea-upwelling-company — 14 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) is a small US-based ocean CDR developer led by founder Philip Kithil. The company deploys wave-driven artificial upwelling pumps that bring nutrient-rich deep water to the surface to stimulate phytoplankton photosynthesis, raise ocean pH, and enhance CO2 absorption, with planned deployments east of Bermuda in partnership with BIOS. It sells "Sea-Shares" fractional pump units and T-CDR subscriptions rather than tonnage credits.
+Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) is a small Santa Fe, NM-based ocean CDR developer founded and led by Philip Kithil. The company designs and deploys wave-powered artificial upwelling pumps that bring nutrient-rich deep water to the sunlit surface to stimulate phytoplankton growth and enhance CO2 uptake, with deployments planned east of Bermuda in partnership with BIOS. The company sells upwelling pumps and fractional "Sea-Shares" rather than tons of CDR.
 
 ![Sea-Up website](/screenshots/sea-up.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.londonclimateactionweek.org/event/real-time-measurements-of-marine-carbon-dioxide-removal-mcdr-triggered-by-wave-driven-artificial-upwelling-pumps/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.sea-up.life/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.climate.gov/news-features/understanding-climate/carbon-dioxide-removal-noaa-state-science-factsheet))

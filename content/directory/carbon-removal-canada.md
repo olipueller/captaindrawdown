@@ -2,7 +2,7 @@
 title: "Carbon Removal Canada"
 layout: "single"
 type: "directory"
-description: "Carbon Removal Canada is an independent policy advocacy initiative, a project of the Clean Prosperity Foundation, focused on scaling carbon dioxide removal in"
+description: "Policy advocacy and research organization promoting the scale-up of CDR in Canada; not a removal operator itself."
 url: "/directory/carbon-removal-canada/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

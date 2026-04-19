@@ -2,7 +2,7 @@
 title: "Northern Lights"
 layout: "single"
 type: "directory"
-description: "Northern Lights is a joint venture of Equinor, Shell, and TotalEnergies providing commercial CO2 transport and permanent geological storage as a service from"
+description: "Offshore geological CO2 storage service (transport by ship + pipeline + injection 2,600 m under North Sea seabed into the Aurora reservoir), used by BECCS and industrial CCS customers across Europe."
 url: "/directory/northern-lights/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Northern Lights is a joint venture of Equinor, Shell, and TotalEnergies providing commercial CO2 transport and permanent geological storage as a service from its Øygarden, Norway terminal, injecting CO2 2,600 m below the North Sea seabed. It began operations in August 2025 and has BECCS removal contracts with Stockholm Exergi (900kt/yr biogenic CO2 from 2028) and Ørsted alongside industrial CCS customers (Heidelberg Materials, Yara, Celsio). Phase 2 FID (March 2025) expands capacity from 1.5 to >5 Mt CO2/yr from 2028.
+Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEnergies that provides commercial CO2 transport and permanent geological storage as a service from its Øygarden, Norway terminal, injecting CO2 into a reservoir 2,600 m below the North Sea seabed. Phase 1 (1.5 Mt/yr capacity) began operations in August 2025 with CO2 from Heidelberg Materials' Brevik cement plant, and Phase 2 (expanding to 5+ Mt/yr by 2028) reached FID in March 2025 following a 15-year contract with Stockholm Exergi for 900,000 t/yr of biogenic CO2 from its BECCS facility.
 
 ![Northern Lights website](/screenshots/northern-lights.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.equinor.com/news/20250825-first-co2-volumes-stored-at-northern-lights))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://norlights.com/news/green-light-for-co2-injection-and-storage/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://norlights.com/news/northern-lights-jv-has-successfully-stored-first-co%E2%82%82/))

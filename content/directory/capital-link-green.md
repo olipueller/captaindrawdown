@@ -2,7 +2,7 @@
 title: "Capital Link Green"
 layout: "single"
 type: "directory"
-description: "Capital Link Green (CLG) transforms waste into premium biochar, while removing carbon, restoring ecosystems, and generating credits backed by science and"
+description: "Pyrolysis of waste biomass into biochar, with credits verified via Isometric and insured via Oka/Lloyd's of London."
 url: "/directory/capital-link-green/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Unknown</td></tr>
   <tr><th>Website</th><td><a href="https://www.capital.link/" target="_blank" rel="noopener">https://www.capital.link/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Capital Link Green (CLG) transforms waste into premium biochar, while removing carbon, restoring ecosystems, and generating credits backed by science and measurable results. The company produces biochar via pyrolysis and issues carbon credits insurable against reversal through Oka, via Lloyd's of London. They position themselves as a supplier targeting industrial-scale CDR delivery.
+Capital Link Green (CLG) produces biochar via pyrolysis of waste biomass and issues carbon removal credits. The company markets credits verified under Isometric methodology and insured against reversal via Oka/Lloyd's of London. Biochar products target applications including agriculture, water filtration, cement blending, and mine remediation.
 
 ![Capital Link Green website](/screenshots/capital-link-green.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.capital.link/))
 - **2026-04-19** — merged 1 duplicate(s): Capital Link
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.capital.link/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.capital.link/))

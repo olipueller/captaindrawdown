@@ -2,7 +2,7 @@
 title: "350solutions"
 layout: "single"
 type: "directory"
-description: "350Solutions provides independent evaluation of novel low-carbon and clean technologies, with a focus on emerging carbon removal (CDR) technologies, serving as"
+description: "Independent third-party Validation & Verification Body (VVB) providing ISO 14034-based verification and technical due diligence for CDR projects on behalf of registries (Puro.Earth, Isometric) and"
 url: "/directory/350solutions/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

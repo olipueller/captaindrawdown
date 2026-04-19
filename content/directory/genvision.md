@@ -2,7 +2,7 @@
 title: "Genvision"
 layout: "single"
 type: "directory"
-description: "Genvision is a Belgium-based (KU Leuven spin-out) AI startup originally focused on satellite-based measurement of CO2 removal by forests and nature-based"
+description: "AI/ML software company providing satellite-based MRV for nature-based carbon projects plus an AI suite (validation checker, RFP filler, unified registry search) for carbon-market participants — no"
 url: "/directory/genvision/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,7 +2,7 @@
 title: "Open Forest Protocol"
 layout: "single"
 type: "directory"
-description: "Open Forest Protocol (Open Forest AG) is a Swiss-based, blockchain-powered MRV and registry platform for nature-based carbon credits, primarily afforestation"
+description: "Blockchain-based digital MRV, validator network, and carbon credit registry for afforestation/reforestation projects using remote sensing and ground data."
 url: "/directory/open-forest-protocol/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

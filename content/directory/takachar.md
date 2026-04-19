@@ -2,7 +2,7 @@
 title: "Takachar"
 layout: "single"
 type: "directory"
-description: "Takachar is an MIT-spinoff social enterprise developing small-scale, portable biomass thermochemical conversion units (the Takavator and larger T1000) that"
+description: "Portable, tractor/truck-mounted oxygen-lean torrefaction/pyrolysis reactors that convert agricultural and forestry residues into biochar on-site for soil application."
 url: "/directory/takachar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://takachar.com/" target="_blank" rel="noopener">https://takachar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/takachar/" target="_blank" rel="noopener">takachar — 6,593 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~24 (+9% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Takachar is an MIT-spinoff social enterprise developing small-scale, portable biomass thermochemical conversion units (the Takavator and larger T1000) that produce biochar from crop and forest residues in rural, often off-grid settings. The company commercially launched the Takavator in October 2025 and has deployed units across the US, Canada, India, Kenya and Iraq, with carbon credits sold through the Milkywire Climate Transformation Fund. It is a 2021 Earthshot Prize winner and XPRIZE Carbon Removal finalist.
+Takachar is an MIT spin-off social enterprise that builds small-scale, portable thermochemical reactors (Takavator and T1000) that mount on tractors/pickups to convert crop and forest residues into biochar at the point of production. The company commercially launched its Takavator in October 2025 and has deployments across the US, Canada, India, Kenya and elsewhere, selling biochar carbon removal credits to buyers including Klarna and WRLD Foundation via Milkywire.
 
 ![Takachar website](/screenshots/takachar.png)
 
@@ -32,6 +32,7 @@ Takachar is an MIT-spinoff social enterprise developing small-scale, portable bi
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://takachar.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://takachar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://takachar.com/))

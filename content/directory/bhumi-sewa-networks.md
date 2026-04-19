@@ -2,7 +2,7 @@
 title: "Bhumi Sewa Networks"
 layout: "single"
 type: "directory"
-description: "Bhumi Sewa Networks is a Pokhara, Nepal-based for-purpose, profit-not-distributing company that partners with farmer cooperatives to convert agricultural"
+description: "Pyrolyzes agricultural residues from Nepali smallholder farmer cooperatives into biochar and sells verified carbon removal credits, with in-house digital MRV."
 url: "/directory/bhumi-sewa-networks/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -22,13 +22,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Bhumi Sewa Networks is a Pokhara, Nepal-based for-purpose, profit-not-distributing company that partners with farmer cooperatives to convert agricultural residues into biochar and verified carbon removal credits. They provide end-to-end biochar project development services, including agroforestry design, MRV, and financing regenerative practices for smallholder farmers.
+Bhumi Sewa Networks is a Pokhara, Nepal-based for-purpose, profit-not-distributing company that partners with farmer cooperatives to convert agricultural residues into biochar and verified carbon removal credits. They provide end-to-end biochar project development services including feasibility studies, farmer onboarding and training, pyrolysis technology deployment, in-house digital MRV, and credit sales to corporates. Their "Regeneration Rewards" program finances smallholder farmers to shift into regenerative practices.
 
 ![Bhumi Sewa Networks website](/screenshots/bhumi-sewa-networks.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bhumi.earth/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bhumi.earth/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://bhumi.earth/?page_id=87))

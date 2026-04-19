@@ -2,10 +2,10 @@
 title: "Truecoco Ghana"
 layout: "single"
 type: "directory"
-description: "Truecoco Ghana is a Ghana-based biochar CDR supplier that converts waste coconut husks sourced from smallholder farmer networks in the Western Region into"
+description: "Operates a 2 MT/hr two-layer rotary drum kiln pyrolysis plant in Ghana's Western Region, converting waste coconut husks sourced from smallholder farmers into Puro.earth-certified biochar used as soil"
 url: "/directory/truecoco-ghana/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,13 +13,13 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Ghana</td></tr>
   <tr><th>Website</th><td><a href="https://www.truecococarbon.green/" target="_blank" rel="noopener">https://www.truecococarbon.green/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Truecoco Ghana is a Ghana-based biochar CDR supplier that converts waste coconut husks sourced from smallholder farmer networks in the Western Region into biochar via pyrolysis for soil amendment and durable carbon storage. The project is Puro.earth certified with credits issued ex-post, and received $3.3M in 2024 from GIP Ghana (BII-backed) to scale operations. Truecoco produced its first tons of biochar on Earth Day 2025 and targets removing 250,000 tCO2 by 2030 while supporting 30,000+ farmers.
+Truecoco Ghana Ltd is an agricultural commodity processor and trading company established in 2017, starting with coconut processing and branching into other food and feed commodities with an organic supply chain focus, which now aims to become a leading carbon removal player in West Africa. In October 2024 Growth Investment Partners (GIP), a BII-backed platform, invested $3.3M to expand Truecoco's soybean processing and launch an industrial biochar carbon removal project. In February 2026 Climeworks signed an offtake for 90,000 Puro.earth-certified biochar credits, with Truecoco having already delivered over 3,000 tonnes of durable CO2 removal over the prior year.
 
 ![Truecoco Ghana website](/screenshots/truecoco-ghana.png)
 
@@ -29,6 +29,7 @@ Truecoco Ghana is a Ghana-based biochar CDR supplier that converts waste coconut
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://carbonherald.com/climeworks-embarks-on-a-muli-year-agreement-with-biochar-company-truecoco/))
 - **2026-04-19** — merged 1 duplicate(s): Truecoco
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

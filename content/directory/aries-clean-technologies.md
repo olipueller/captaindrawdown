@@ -2,10 +2,10 @@
 title: "Aries Clean Technologies"
 layout: "single"
 type: "directory"
-description: "Aries Clean Technologies, headquartered in Franklin, Tennessee, designs and builds gasification facilities that process wastewater biosolids and biomass into"
+description: "Fluidized-bed and downdraft gasification of biosolids and wood waste, producing syngas energy and biochar/bio-fly-ash used in concrete and soil amendments."
 url: "/directory/aries-clean-technologies/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://ariescleantech.com/" target="_blank" rel="noopener">https://ariescleantech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aries-clean-technologies/" target="_blank" rel="noopener">aries-clean-technologies — 11,216 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~49</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Aries Clean Technologies, headquartered in Franklin, Tennessee, designs and builds gasification facilities that process wastewater biosolids and biomass into renewable energy plus biochar products used in concrete, soil amendments, and filtration. The company operates a wood-waste gasification plant in Lebanon, TN and built a first-of-its-kind biosolids gasification facility in Linden, NJ, and is pursuing additional plants including a proposed site in Sanford, Maine.
+Aries Clean Technologies, based in Franklin, Tennessee, designs, builds, and operates patented fluidized-bed and downdraft gasification facilities that convert wastewater biosolids and wood waste into renewable energy plus biochar/Bio-Fly-Ash byproducts. Their commercial-scale Linden, NJ plant processes ~400 tons/day of biosolids, and a second facility is under development in Sanford, Maine. The core business is biosolids disposal and PFAS destruction for municipalities; carbon sequestration via biochar/bio-ash is an adjacent benefit.
 
 ![Aries Clean Technologies website](/screenshots/aries-clean-technologies.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://ariescleantech.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://ariescleantech.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.mainepublic.org/environment-and-outdoors/2026-02-24/sanford-could-host-sludge-processing-plant))

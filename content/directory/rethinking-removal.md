@@ -2,7 +2,7 @@
 title: "Rethinking Removal"
 layout: "single"
 type: "directory"
-description: "Rethinking Removals is a UK-based collaborative non-profit organisation focused on scaling the carbon dioxide removal industry through advocacy,"
+description: "Non-profit convener and advocacy organisation that works to build demand, narrative, policy, and accounting frameworks for the carbon removal industry; does not itself perform CO2 removal."
 url: "/directory/rethinking-removal/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

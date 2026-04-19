@@ -2,10 +2,10 @@
 title: "Tropicarbon"
 layout: "single"
 type: "directory"
-description: "Tropicarbon, founded in 2023, is headquartered in Colombia and develops enhanced rock weathering projects that spread custom silicate rock blends on farmland"
+description: "Spreads custom silicate rock blends on Colombian farmland with proprietary aqueous-phase MRV to quantify carbon removal and sell credits."
 url: "/directory/tropicarbon/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Colombia</td></tr>
   <tr><th>Website</th><td><a href="https://www.tropicarbon.com/" target="_blank" rel="noopener">https://www.tropicarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tropicarbon/" target="_blank" rel="noopener">tropicarbon</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,13 +23,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Tropicarbon, founded in 2023, is headquartered in Colombia and develops enhanced rock weathering projects that spread custom silicate rock blends on farmland while monitoring CO2 removal through proprietary MRV. Its Barranquilla Project, in collaboration with Universidad del Norte, represents the largest multi-soil experiment on EW in Latin America, studying soil samples from many locations in Colombia to map their potential for EW. The company aligns its work with leading carbon removal certifiers Isometric and Puro.Earth.
+Tropicarbon is a Colombia-based pure-play CDR startup founded in 2023 that deploys enhanced rock weathering on tropical farmland in partnership with local farmers and Universidad del Norte. It operates greenhouse and field-scale trials (including the Barranquilla Project) and develops proprietary MRV aligned with Isometric and Puro.Earth protocols.
 
 ![Tropicarbon website](/screenshots/tropicarbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.tropicarbon.com/enhanced-weathering))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/tropicarbon/__ZLzI5ELQl8S_k5eRBYurltZGTGfqGat_UGNb2_R4JXM))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.tropicarbon.com/enhanced-weathering))

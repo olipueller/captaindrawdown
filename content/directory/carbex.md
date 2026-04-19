@@ -2,7 +2,7 @@
 title: "Carbex"
 layout: "single"
 type: "directory"
-description: "Carbex GmbH is a German biochar producer based in Dischingen, Baden-Württemberg, founded in 2021. The company manufactures a comprehensive range of biochar and"
+description: "Produces EBC-certified biochar and biochar-based products for agriculture, livestock, construction, and filtration applications."
 url: "/directory/carbex/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,19 +14,20 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carbex.one/" target="_blank" rel="noopener">https://carbex.one/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbex-gmbh/" target="_blank" rel="noopener">carbex-gmbh</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbex GmbH is a German biochar producer based in Dischingen, Baden-Württemberg, founded in 2021. The company manufactures a comprehensive range of biochar and biochar-based products for agriculture, livestock, construction, and filtration applications. Its corporate purpose also includes research, production, trade and distribution of biochar and by-products as well as energy and emissions trading.
+Carbex GmbH is a German biochar producer based in Dischingen, Baden-Württemberg, founded in 2021. The company manufactures a range of EBC-certified biochar products for agriculture, livestock, construction, and filtration, and is listed as a member of the German biochar producer ecosystem. Its corporate purpose includes biochar R&D, production, trade, and emissions trading.
 
 ![Carbex website](/screenshots/carbex.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbex.one/kontakt))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbex.one/kontakt))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbex.one/side-facts))

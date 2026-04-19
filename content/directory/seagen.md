@@ -2,7 +2,7 @@
 title: "SeaGen"
 layout: "single"
 type: "directory"
-description: "Seaweed Generation (trading as SeaGen), based in Falmouth, UK and founded in 2021, builds AI-driven marine robots that intercept and sink invasive Sargassum"
+description: "Solar-powered autonomous marine robots (AlgaRay) that collect floating invasive Sargassum seaweed at the surface and submerge it to ~200m where buoyancy collapses, sinking the biomass and its carbon"
 url: "/directory/seagen/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -11,7 +11,7 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Ocean CDR</td></tr>
-  <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Method</th><td>Ocean-based CDR</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.seagen.io/" target="_blank" rel="noopener">https://www.seagen.io/</a></td></tr>
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Seaweed Generation (trading as SeaGen), based in Falmouth, UK and founded in 2021, builds AI-driven marine robots that intercept and sink invasive Sargassum seaweed to the deep ocean for carbon dioxide removal. Its flagship AlgaRay robot scoops up floating Sargassum mats and deposits them at ~200m depth, while the AlgaVator system is designed for automated offshore seaweed cultivation. The company has raised ~$2M, operates in the Caribbean (Antigua and Barbuda), and was selected for AirMiners' Kiloton Fund.
+SeaGen (Seaweed Generation Ltd), based in Falmouth, UK and founded in 2021, builds AI-driven solar-powered marine robots — notably the AlgaRay, which scoops up invasive Sargassum seaweed and sinks it to ~200m depth for deep-ocean carbon sequestration, and the AlgaVator for automated seaweed cultivation. The company is venture-backed (Aera VC, Climate Capital, Remove, others), employs ~12-19 people, and has been actively piloting in the Caribbean while developing MRV and monitoring technologies.
 
 ![SeaGen website](/screenshots/seagen.png)
 
@@ -32,6 +32,7 @@ Seaweed Generation (trading as SeaGen), based in Falmouth, UK and founded in 202
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seagen.io/))
 - **2026-04-19** — reactivated — screenshot succeeded in reshoot3
 - **2026-04-19** — deactivated — URL https://www.seagen.io/ returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seagen.io/))

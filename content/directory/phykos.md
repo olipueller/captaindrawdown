@@ -2,7 +2,7 @@
 title: "Phykos"
 layout: "single"
 type: "directory"
-description: "Phykos, PBC is an Oakland, California ocean CDR startup founded in 2020 by Jeff Zerger and Nico Julian (ex-Google X), backed by Y Combinator (S21). The company"
+description: "Develops solar-powered, autonomous robotic platforms that grow seaweed in the open ocean and then sink harvested biomass below 1,500 m for long-duration carbon sequestration."
 url: "/directory/phykos/"
 pathway: "Ocean CDR"
 liveliness: "🟠 Suspect"
@@ -21,13 +21,14 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-Phykos, PBC is an Oakland, California ocean CDR startup founded in 2020 by Jeff Zerger and Nico Julian (ex-Google X), backed by Y Combinator (S21). The company develops mobile, solar-powered autonomous platforms that grow seaweed on the open ocean and sink the biomass to depths over 1,500 m, aiming to sequester carbon for 1,000+ years. Team and funding are very small (~$130K raised), and the company's public-facing news updates appear to stop in 2022.
+Phykos, PBC is an Oakland, California ocean CDR startup founded in 2020 by ex-Google X engineers Jeff Zerger and Nico Julian and backed by Y Combinator (S21). The company builds mobile autonomous vessels that cultivate fast-growing seaweed on the open sea and deposit the biomass in the deep ocean to sequester carbon for ~1,000 years, selling the resulting credits. Funding and team are very small, and the company's public website and communications have not been meaningfully updated since 2023.
 
 ![Phykos website](/screenshots/phykos.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.phykos.co/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.phykos.co/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://newzchain.com/ocean-carbon-removal-a-new-frontier-in-climate-solutions-with-phykos/))

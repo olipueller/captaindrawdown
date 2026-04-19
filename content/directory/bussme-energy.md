@@ -2,7 +2,7 @@
 title: "Bussme Energy"
 layout: "single"
 type: "directory"
-description: "Bussme Energy AB is a Swedish family-owned company founded in 2010 that operates district heating plants in southern Sweden and produces biochar. It claims to"
+description: "Pyrolyzes woody biomass in district heating plants to produce EBC-certified biochar alongside renewable heat."
 url: "/directory/bussme-energy/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.bussmeenergy.se/" target="_blank" rel="noopener">https://www.bussmeenergy.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bussme-energy/" target="_blank" rel="noopener">bussme-energy</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Bussme Energy AB is a Swedish family-owned company founded in 2010 that operates district heating plants in southern Sweden and produces biochar. It claims to be one of Europe's largest biochar producers, with multiple production facilities in southern Sweden.
+Bussme Energy AB is a Swedish family-owned company founded in 2010 operating district heating plants in southern Sweden (Skåne), with a biochar production side-business via its subsidiary Bussme Biochar AB based in Svedala/Kävlinge. The company divested several district heating plants to Solör Bioenergi in 2020 and 2024 but continues heating and biochar operations, claiming to be one of Europe's largest biochar producers.
 
 ![Bussme Energy website](/screenshots/bussme-energy.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟡 Moderate ([source](https://www.bussmeenergy.se/biokol/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bussmeenergy.se/biokol/))

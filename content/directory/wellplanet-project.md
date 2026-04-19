@@ -2,10 +2,10 @@
 title: "WellPlanet Project"
 layout: "single"
 type: "directory"
-description: "WellPlanet Project is a US (Florida)-based early-stage initiative that aspires to build a solar- and geothermal-powered direct air capture and sequestration"
+description: "Concept-stage plan for a solar- and geothermal-powered direct air capture facility with underground geologic sequestration in Florida."
 url: "/directory/wellplanet-project/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://wellplanet.pro/" target="_blank" rel="noopener">https://wellplanet.pro/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wellplanetpro/" target="_blank" rel="noopener">wellplanetpro — 198 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 22/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-WellPlanet Project is a US (Florida)-based early-stage initiative that aspires to build a solar- and geothermal-powered direct air capture and sequestration facility with a stated goal of removing up to 10 Mt CO2 per year via deep underground geologic storage. Public content dates to 2022 and the project appears to still be in fundraising/concept phase with no evidence of an operational facility, recent news, or deliveries.
+WellPlanet is a direct air capture and sequestration company partnering with organizations, companies, and investors to remove CO2. The Panama City Beach, Florida-based startup has been working to capitalize on its venture to create the world's largest capture and sequestration facility, but public content appears frozen at 2022 with no evidence of an operating facility, funding milestones, or registry activity.
 
 ![WellPlanet Project website](/screenshots/wellplanet-project.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://wellplanet.pro/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://wellplanet.pro/))

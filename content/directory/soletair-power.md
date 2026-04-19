@@ -2,10 +2,10 @@
 title: "Soletair Power"
 layout: "single"
 type: "directory"
-description: "Soletair Power is a Finnish DAC technology supplier (founded 2016, HQ Lappeenranta) that integrates carbon-capture modules into building HVAC systems, turning"
+description: "Solid-sorbent (amine-functionalized) temperature-vacuum-swing DAC modules retrofitted into commercial building HVAC systems, with captured CO2 routed to storage (e.g., mineralization in concrete) or"
 url: "/directory/soletair-power/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,19 +15,20 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.soletairpower.fi/" target="_blank" rel="noopener">https://www.soletairpower.fi/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Soletair Power is a Finnish DAC technology supplier (founded 2016, HQ Lappeenranta) that integrates carbon-capture modules into building HVAC systems, turning commercial buildings into distributed CO2 scrubbers. Recent deployments include Wärtsilä's Sustainable Technology Hub (Vaasa), ZBT in Duisburg (Germany), and Danica Pension's Europaplads building in Aarhus (Denmark); in December 2024 they delivered DAC CO2 to Carbonaide for carbon-negative concrete, and in 2025 they announced a Middle East/India partnership with Aarksee for microalgae-based sequestration.
+Soletair Power is a Finnish direct air capture company (founded 2016, HQ Lappeenranta) that integrates modular CO2 capture units into building ventilation systems, turning commercial buildings into distributed DAC sinks. Deployments include Wärtsilä's Sustainable Technology Hub in Vaasa, ZBT in Duisburg, Danica Pension's Europaplads building in Aarhus, and a Vantaa factory, with partnerships including Carbonaide (net-negative concrete) and Aarksee (microalgae sequestration in the Middle East/India).
 
 ![Soletair Power website](/screenshots/soletair-power.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.soletairpower.fi/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.soletairpower.fi/technical-specs-soletair-power-dac-unit-for-zbt/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.soletairpower.fi/))

@@ -2,7 +2,7 @@
 title: "Senken"
 layout: "single"
 type: "directory"
-description: "Senken is a Berlin-based carbon credit procurement platform and marketplace that vets and sells high-integrity carbon credits, including removal credits"
+description: "Carbon credit marketplace and procurement platform with a proprietary 600+ data-point quality vetting framework (Sustainability Integrity Index), offering forward purchase agreements via acquired Ivy"
 url: "/directory/senken/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

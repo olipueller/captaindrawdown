@@ -2,10 +2,10 @@
 title: "Hovyu"
 layout: "single"
 type: "directory"
-description: "Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process. The technology is"
+description: "Develops the ZEUS liquid-solvent carbon capture process for DAC, flue gas, and biogas upgrading, with room-temperature CO2 release that avoids the steam/heat penalty of conventional amine systems."
 url: "/directory/hovyu/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://hovyu.com/" target="_blank" rel="noopener">https://hovyu.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hovyu-bv/" target="_blank" rel="noopener">hovyu-bv — 1,141 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process. The technology is positioned for Direct Air Capture, flue gas capture, and biogas upgrading, with CO2 release at room temperature avoiding the steam-heat penalty of conventional amine systems. The company is small (~6 employees) and appears to operate primarily as a process design/engineering consultancy with proprietary technology rather than an at-scale CDR operator.
+Hovyu is a small Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process, positioned for direct air capture, flue gas capture, and biogas upgrading. The company participates in R&D consortia including the DRIVE project with TNO and TU Eindhoven, and reports projects in the Netherlands, Norway, and Brazil. Their ZEUS process claims CO2 release at room temperature, avoiding the steam-heat penalty of conventional amine systems.
 
 ![Hovyu website](/screenshots/hovyu.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://hovyu.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://pitchbook.com/profiles/company/501256-54))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://hovyu.com/zeus-zero-emission-ultra-stripping/))

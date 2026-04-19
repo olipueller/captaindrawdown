@@ -2,7 +2,7 @@
 title: "Air View Engineering"
 layout: "single"
 type: "directory"
-description: "Air View Engineering is a Swansea, UK-based direct air capture startup founded in 2021 with approximately 4 employees. The company develops direct air capture"
+description: "Develops modular solid-sorbent DAC units using 3D-printed carbon-fibre components and regenerative chambers to reduce energy needs for sorbent regeneration."
 url: "/directory/air-view-engineering/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.airviewengineering.co.uk/" target="_blank" rel="noopener">https://www.airviewengineering.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/air-view-engineering-ltd/" target="_blank" rel="noopener">air-view-engineering-ltd — 280 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Air View Engineering is a Swansea, UK-based direct air capture startup founded in 2021 with approximately 4 employees. The company develops direct air capture systems designed for smaller scale and lower cost applications, aiming to make DAC technology accessible to a wider range of clients. It was selected for Shell's StartUp Engine UK programme and uses additive manufacturing (3D printing with carbon-fibre reinforced filaments) for its modular adsorbent units and regenerative chambers.
+Air View Engineering Ltd is a Swansea, UK-based direct air capture startup founded in 2021, developing smaller, more cost-efficient DAC systems using additive manufacturing (3D printing with carbon-fibre-reinforced filaments). The company was selected for Shell's StartUp Engine UK programme and won an Innovate UK Smart Grant to build its first pilot facility. It remains a small, early-stage, unfunded (by VC) R&D company with roughly 2–10 employees.
 
 ![Air View Engineering website](/screenshots/air-view-engineering.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.airviewengineering.co.uk/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.airviewengineering.co.uk/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

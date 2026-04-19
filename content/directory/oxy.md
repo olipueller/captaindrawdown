@@ -2,7 +2,7 @@
 title: "Oxy"
 layout: "single"
 type: "directory"
-description: "Occidental (Oxy) is one of the largest U.S. oil & gas producers that, through its Oxy Low Carbon Ventures subsidiary 1PointFive and wholly-owned Carbon"
+description: "Oxy is an oil & gas major whose 1PointFive/Carbon Engineering subsidiary operates liquid-solvent (KOH/lime pellet) DAC with geologic CO2 sequestration in Class VI wells."
 url: "/directory/oxy/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -11,6 +11,7 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Method</th><td>Direct Air Capture</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.oxy.com/" target="_blank" rel="noopener">https://www.oxy.com/</a></td></tr>
@@ -18,12 +19,12 @@ liveliness: "🟢 Active"
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~16340 (+1% YoY)</td></tr>
   <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Occidental (Oxy) is one of the largest U.S. oil & gas producers that, through its Oxy Low Carbon Ventures subsidiary 1PointFive and wholly-owned Carbon Engineering, is building large-scale Direct Air Capture infrastructure. Its flagship STRATOS facility in Ector County, Texas is designed for up to 500,000 tCO2/yr, received EPA Class VI sequestration permits in April 2025, and is expected to begin initial operations in Q2 2026. Offtake customers include Amazon, Microsoft, BlackRock, Airbus, ANA, TD Bank, and Bain & Company.
+Occidental Petroleum (Oxy) is one of the largest U.S. oil and gas producers, with major operations in the Permian and DJ basins and the Gulf of Mexico. Through its Oxy Low Carbon Ventures arm and the 1PointFive subsidiary (which owns Carbon Engineering), Oxy is building large-scale Direct Air Capture infrastructure, including the STRATOS facility in Ector County, Texas, designed for up to 500,000 tCO2/yr. CDR is an adjacent business line to Oxy's core upstream oil & gas operations, not its primary business.
 
 ![Oxy website](/screenshots/oxy.png)
 
@@ -33,6 +34,7 @@ Occidental (Oxy) is one of the largest U.S. oil & gas producers that, through it
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
 - **2026-04-19** — merged 1 duplicate(s): Occidental Petroleum
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

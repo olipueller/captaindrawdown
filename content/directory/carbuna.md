@@ -2,10 +2,10 @@
 title: "Carbuna"
 layout: "single"
 type: "directory"
-description: "Carbuna AG is a Memmingen, Germany-based biochar processing and trading company founded in 2015. It sources raw biochar from EBC-certified European producers,"
+description: "Trades and refines third-party EBC-certified biochar into agricultural, urban-greening, and construction products and sells the associated biochar carbon removal credits via Carbonfuture."
 url: "/directory/carbuna/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carbuna.com/" target="_blank" rel="noopener">https://carbuna.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbuna/" target="_blank" rel="noopener">carbuna — 602 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~7 (-12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbuna AG is a Memmingen, Germany-based biochar processing and trading company founded in 2015. It sources raw biochar from EBC-certified European producers, conditions/refines it (milling, pelletizing, blending) into agricultural and building-material products, and sells biochar carbon removal (BCR) credits via Carbonfuture's marketplace. The company positions itself as a platform connecting biochar producers to end markets across Europe.
+Carbuna AG is a Memmingen, Germany-based biochar processing and trading company that sources EBC-certified biochar from European pyrolysis operators, refines it (milling, pelletizing, blending) into products for agriculture, animal husbandry, urban greening, and building materials, and trades biochar carbon removal (BCR) credits via Carbonfuture. The company has been actively issuing biochar carbon-removal credits since 2020 and remains visibly active in 2024–2025 through trade shows, research co-authorship, and industry events.
 
 ![Carbuna website](/screenshots/carbuna.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbuna.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.compensate.com/projects/carbuna-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbuna.com/))

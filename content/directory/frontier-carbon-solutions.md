@@ -2,10 +2,10 @@
 title: "Frontier Carbon Solutions"
 layout: "single"
 type: "directory"
-description: "Frontier Carbon Solutions (now operating under Frontier Infrastructure Holdings) is a Dallas-based developer of carbon capture and storage infrastructure"
+description: "Develops carbon storage infrastructure (Class VI wells) in Wyoming's Sweetwater Hub, transporting biogenic CO2 by rail from Midwest ethanol refineries for permanent geologic sequestration (BECCS)."
 url: "/directory/frontier-carbon-solutions/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://frontierccus.com/" target="_blank" rel="noopener">https://frontierccus.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Frontier Carbon Solutions (now operating under Frontier Infrastructure Holdings) is a Dallas-based developer of carbon capture and storage infrastructure backed by Tailwater Capital. Its Sweetwater Carbon Storage Hub in southwest Wyoming uses Union Pacific rail to transport liquefied biogenic CO2 from Midwest ethanol refineries for permanent Class VI geologic sequestration in the Nugget Formation, generating BECCS-based carbon removal credits. The company holds the first Class VI UIC permits issued by Wyoming and has completed two deep characterization wells as of 2025.
+Frontier Carbon Solutions (now operating as Frontier Infrastructure Holdings), a Tailwater Capital portfolio company based in Dallas, is developing the Sweetwater Carbon Storage Hub in southwest Wyoming — one of the largest open-access Class VI carbon sequestration projects in the U.S. The company transports liquefied biogenic CO2 by rail from Midwest ethanol refineries for permanent storage, generating BECCS carbon removal credits, and also serves as an anchor storage partner for DAC projects (e.g. Project Bison) in the region.
 
 ![Frontier Carbon Solutions website](/screenshots/frontier-carbon-solutions.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierccus.com/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierccus.com/))

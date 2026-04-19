@@ -2,7 +2,7 @@
 title: "NuAria"
 layout: "single"
 type: "directory"
-description: "NuAria is a US-based direct air capture startup developing a novel solid sorbent packaged as cylindrical wound membranes for scalable, low-cost CO2 removal."
+description: "Develops a novel solid sorbent for DAC formed into cylindrical wound membrane modules to capture CO2 from ambient air."
 url: "/directory/nuaria/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -22,13 +22,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-NuAria is a US-based direct air capture startup developing a novel solid sorbent packaged as cylindrical wound membranes for scalable, low-cost CO2 removal. The company sells carbon credits via subscriptions and upfront purchases to industries and governments pursuing net-zero targets. Public signals are limited — the website is live and it was featured on a 2025 DAC watchlist, but no major funding, deliveries, or registry activity is visible.
+NuAria is a US-based early-stage direct air capture startup developing a solid sorbent packaged as cylindrical wound membranes for scalable, low-cost CO2 removal. The company offers carbon credit subscriptions and upfront purchases to industries and governments pursuing net-zero targets. Public signals are limited, with only a small team and no reported funding or registry issuances.
 
 ![NuAria website](/screenshots/nuaria.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.nuaria.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.nuaria.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.nuaria.com/))

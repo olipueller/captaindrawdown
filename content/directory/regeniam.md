@@ -2,7 +2,7 @@
 title: "Regeniam"
 layout: "single"
 type: "directory"
-description: "Regeniam is a US-based private advisory and asset management firm focused on nature-based solutions, real estate, infrastructure, and carbon removal projects."
+description: "Climate impact investment advisory and asset management firm deploying capital into real estate, infrastructure, and nature-based carbon removal projects; participates in voluntary carbon market"
 url: "/directory/regeniam/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

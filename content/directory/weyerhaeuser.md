@@ -2,10 +2,10 @@
 title: "Weyerhaeuser"
 layout: "single"
 type: "directory"
-description: "Weyerhaeuser is a major U.S. timberland REIT (NYSE: WY) and one of the world's largest private owners of timberlands, with approximately 10.4–11 million acres"
+description: "Develops Improved Forest Management (IFM) carbon credits across 200,000+ acres via extended harvest rotations and streamside no-harvest zones, plus subsurface pore-space leases to CCS operators."
 url: "/directory/weyerhaeuser/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.weyerhaeuser.com/climate-solutions/" target="_blank" rel="noopener">https://www.weyerhaeuser.com/climate-solutions/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/weyerhaeuser/" target="_blank" rel="noopener">weyerhaeuser — 110,165 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~7258</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Weyerhaeuser is a major U.S. timberland REIT (NYSE: WY) and one of the world's largest private owners of timberlands, with approximately 10.4–11 million acres in the U.S. Its Natural Climate Solutions division develops Improved Forest Management (IFM) forest carbon projects and leases subsurface pore space for geologic CO2 sequestration. The company sold its first IFM credits (Kibby Skinner Project, Maine) in 2023 in partnership with Carbon Direct.
+Weyerhaeuser (NYSE: WY) is one of the world's largest private timberland REITs, owning ~10.4 million acres of U.S. forests and operating as a major wood products manufacturer. Its Natural Climate Solutions division develops Improved Forest Management (IFM) carbon credit projects on its land base (registered with ACR, in partnership with Carbon Direct) and leases subsurface pore space for geologic CCS. CDR-related revenue is a small side-business adjacent to its core timber/REIT operations.
 
 ![Weyerhaeuser website](/screenshots/weyerhaeuser.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=side_business liveliness=🟢 Active ([source](https://www.weyerhaeuser.com/climate-solutions/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://www.weyerhaeuser.com/climate-solutions/forest-carbon/))

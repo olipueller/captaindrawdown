@@ -2,7 +2,7 @@
 title: "Clear Sky Ltd"
 layout: "single"
 type: "directory"
-description: "ClearSky Limited is an environmental markets platform and carbon project broker/originator backed by precious-metals group MKS PAMP. The company structures"
+description: "Environmental merchant bank/broker structuring offtake, prepay, and options deals for carbon removal and compliance credits across multiple pathways (TSB/biomass burial, DAC, BECCS, REDD+/ARR)."
 url: "/directory/clear-sky-ltd/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

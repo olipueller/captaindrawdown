@@ -2,7 +2,7 @@
 title: "ecosecurities"
 layout: "single"
 type: "directory"
-description: "EcoSecurities is a Geneva/Carouge-based carbon project developer and climate advisory firm founded in 1997 and reactivated in 2019 under new ownership by Pedro"
+description: "Carbon project developer and advisory firm that originates, finances, and structures carbon credit projects (NbS, blue carbon, renewables) and supports commercialisation of CDR methodologies (BECCS,"
 url: "/directory/ecosecurities/"
 pathway: "Afforestation"
 liveliness: "🟡 Moderate"

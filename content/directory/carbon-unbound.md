@@ -2,7 +2,7 @@
 title: "Carbon Unbound"
 layout: "single"
 type: "directory"
-description: "Carbon Unbound is a CDR-focused events organization that runs the Carbon Unbound Europe and Carbon Unbound USA summits, bringing together business leaders,"
+description: "Conference and events organizer hosting annual carbon removal industry summits in Europe and the US, plus buyer workshops and showcase content."
 url: "/directory/carbon-unbound/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

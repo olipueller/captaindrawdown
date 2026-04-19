@@ -2,10 +2,10 @@
 title: "PENNSACO TECHNOLOGIES"
 layout: "single"
 type: "directory"
-description: "Pennsaco Technologies is a Radnor, Pennsylvania-based company founded in 2018 that develops a patented thermal conversion process to turn biomass, plastic, and"
+description: "Patented thermal conversion / gasification of biomass, plastic, and MSW feedstocks to produce \"Ultra Green Hydrogen,\" renewable electricity, and high-purity biochar as a carbon-sequestration"
 url: "/directory/pennsaco-technologies/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pennsaco.com/" target="_blank" rel="noopener">https://pennsaco.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 28/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Pennsaco Technologies is a Radnor, Pennsylvania-based company founded in 2018 that develops a patented thermal conversion process to turn biomass, plastic, and municipal solid waste into "Ultra Green Hydrogen," renewable electricity, and high-purity biochar. The biochar co-product is marketed as a permanent carbon-removal pathway, and the company has explored deployments in the US (Kansas) and Latin America via MOU partners. Funding is undisclosed/unfunded and Tracxn lists only 1 employee as of mid-2024.
+Pennsaco Technologies is a Radnor, Pennsylvania company (founded 2018) developing a waste-to-hydrogen thermal conversion process whose biochar co-product is marketed as permanent carbon removal. Public activity peaked in 2021–2022 with a Latin America MOU and plans for a plant at Kansas' Great Plains Industrial Park; no subsequent deployments, funding rounds, or significant news have surfaced, and third-party data shows headcount of only 1–5 employees.
 
 ![PENNSACO TECHNOLOGIES website](/screenshots/pennsaco-technologies.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://pennsaco.com/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://pennsaco.com/))

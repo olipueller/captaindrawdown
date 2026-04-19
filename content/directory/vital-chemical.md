@@ -2,7 +2,7 @@
 title: "Vital Chemical"
 layout: "single"
 type: "directory"
-description: "Vital Chemical is a long-established (45+ years) Australian environmental products manufacturer headquartered in Darra, Queensland, whose core business is"
+description: "Produces biochar via pyrolysis of reclaimed construction timber and forestry residues, primarily blended into hydromulch and revegetation products for land rehabilitation."
 url: "/directory/vital-chemical/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,18 +16,19 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vitalchemical/" target="_blank" rel="noopener">vitalchemical — 2,328 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~46 (+28% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Vital Chemical is a long-established (45+ years) Australian environmental products manufacturer headquartered in Darra, Queensland, whose core business is erosion control, dust suppression, water treatment, and revegetation solutions for the mining, civil construction, and infrastructure sectors. Within this portfolio they produce Vital Biochar, pyrolysed from reclaimed construction timber and forestry residues, marketed as a soil amendment, stockfeed additive, and additive to their hydromulch products (VE Char-Matt, VE Organic-Matt). They are a foundation member of the ANZ Biochar Industry Group (ANZBIG) but do not appear to sell registered CDR credits.
+Vital Chemical is a ~50-year-old Australian environmental products manufacturer based in Darra, Queensland, whose core business is erosion control, dust suppression, water treatment, and revegetation for mining, civil construction, and infrastructure sectors. Vital Biochar, pyrolyzed from reclaimed construction timber and forestry residues, is one product within a broader portfolio and is often blended into their hydromulch and revegetation products (e.g. VE Char-Matt). The company would continue to exist without the biochar line.
 
 ![Vital Chemical website](/screenshots/vital-chemical.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://vitalindustries.com.au/products/vital-biochar/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://vitalindustries.com.au/products/vital-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://vitalindustries.com.au/products/vital-biochar/))

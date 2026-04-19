@@ -2,10 +2,10 @@
 title: "Arbreen"
 layout: "single"
 type: "directory"
-description: "Arbreen is a project developer aiming to implement super-scale reforestation projects across African countries to generate nature-based CDR carbon credits. The"
+description: "Project developer aiming to implement super-scale reforestation projects across African countries to generate nature-based CDR carbon credits."
 url: "/directory/arbreen/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Unknown</td></tr>
   <tr><th>Website</th><td><a href="https://arbreen.com/" target="_blank" rel="noopener">https://arbreen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbreen-llc/" target="_blank" rel="noopener">arbreen-llc — 183 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Arbreen is a project developer aiming to implement super-scale reforestation projects across African countries to generate nature-based CDR carbon credits. The company positions itself as a utility delivering carbon dioxide removal via Nature-Climate Solutions, targeting 5-10 million tCO2 annually per country across 5-20 African countries. No recent (2025-2026) public signals of deliveries, funding, or team hiring were found.
+Arbreen is an early-stage reforestation project developer targeting large-scale (5-10 million tCO2/yr per country) afforestation across 5-20 African countries. The company positions itself as a future utility for Nature-Climate Solutions CDR. Website content appears largely aspirational with no delivered credits or public milestones; LinkedIn shows a very small team.
 
 ![Arbreen website](/screenshots/arbreen.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟠 Suspect ([source](https://arbreen.com/our-projects/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟠 Suspect ([source](https://arbreen.com/))

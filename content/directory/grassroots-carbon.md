@@ -2,10 +2,10 @@
 title: "Grassroots Carbon"
 layout: "single"
 type: "directory"
-description: "Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company founded in 2021 that partners with U.S. ranchers to implement regenerative grazing"
+description: "Generates soil carbon removal credits by paying U.S. ranchers to adopt regenerative grazing practices (herd rotation, reduced inputs) that sequester atmospheric carbon in grassland soils, verified"
 url: "/directory/grassroots-carbon/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://grassrootscarbon.com" target="_blank" rel="noopener">https://grassrootscarbon.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grassrootscarbon/" target="_blank" rel="noopener">grassrootscarbon — 5,061 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~44</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company founded in 2021 that partners with U.S. ranchers to implement regenerative grazing practices and generate verified soil carbon credits. The company works with ranchers across more than 2 million acres in 22 states and, as of early 2026, has delivered 1.9 million tons of carbon removals to buyers including Nestlé, Microsoft, Shopify, Chevron, Boeing, and Olipop. It measures carbon via one-meter soil core sampling with third-party verification and has paid $40 million directly to ranchers since 2022.
+Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company founded in 2021 that partners with U.S. ranchers to implement regenerative grazing practices and generate verified soil carbon credits. As of early 2026, it works with ranchers across more than 2 million acres in 22 states and has delivered 1.9 million tons of verified carbon removals to corporate buyers including Nestlé, Microsoft, Shopify, Chevron, and Boeing.
 
 ![Grassroots Carbon website](/screenshots/grassroots-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://grassrootscarbon.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://grassrootscarbon.com/))

@@ -2,7 +2,7 @@
 title: "Residual Carbon"
 layout: "single"
 type: "directory"
-description: "Residual is a UK-based carbon project developer that partners with industrials to design carbon projects that meet the bar for financiers, ratings, insurance,"
+description: "Carbon project developer that designs, structures, and documents biochar and BECCS carbon removal projects for industrial biomass asset owners, handling methodology, MRV, ratings readiness, and buyer"
 url: "/directory/residual-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

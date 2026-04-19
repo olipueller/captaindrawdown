@@ -2,7 +2,7 @@
 title: "Arbor"
 layout: "single"
 type: "directory"
-description: "Arbor is a US-based BECCS startup founded in 2022 by SpaceX veterans that converts waste biomass into clean electricity while capturing >99% of CO2 via an"
+description: "Oxy-combustion supercritical CO2 turbine system that gasifies waste biomass, combusts syngas with pure oxygen, drives a sCO2 turbine for electricity, and captures >99% of CO2 for geologic storage."
 url: "/directory/arbor/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://arbor.co/" target="_blank" rel="noopener">https://arbor.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbor-energy-resources/" target="_blank" rel="noopener">arbor-energy-resources — 8,359 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~59 (+26% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Arbor is a US-based BECCS startup founded in 2022 by SpaceX veterans that converts waste biomass into clean electricity while capturing >99% of CO2 via an oxy-combustion supercritical CO2 turbine system. In July 2025 Frontier signed a $41M offtake for 116,000 tons of CDR delivered 2028-2030, funding Arbor's first commercial facility near Lake Charles, Louisiana. The company also has an offtake deal with Google and uses Isometric as its credit issuer.
+Arbor is a US-based BECCS startup founded in 2022 that converts waste biomass into syngas, burns it with pure oxygen in an oxycombustor, and uses the resulting supercritical CO2 to drive a turbine—generating clean electricity while capturing over 99% of the CO2 for permanent underground storage. In July 2025 Arbor signed a $41M offtake with the Frontier coalition to deliver 116,000 tons of CDR between 2028-2030, anchoring construction of its first commercial-scale facility near Lake Charles, Louisiana.
 
 ![Arbor website](/screenshots/arbor.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/arbor))
 - **2026-04-19** — merged 1 duplicate(s): Arbor Energy
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/arbor))

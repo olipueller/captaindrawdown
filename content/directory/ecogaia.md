@@ -2,10 +2,10 @@
 title: "EcoGaia"
 layout: "single"
 type: "directory"
-description: "EcoGaia is a carbon project developer that develops and operates climate-positive infrastructure, including biochar-based carbon removal facilities in"
+description: "Carbon project developer partnering with Emisiones Neutras to build biochar pyrolysis facilities in Argentina that convert forestry residues into durable stored carbon, while also developing ARR,"
 url: "/directory/ecogaia/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,23 +13,24 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
-  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Country</th><td>Argentina</td></tr>
   <tr><th>Website</th><td><a href="https://www.ecogaia.earth/" target="_blank" rel="noopener">https://www.ecogaia.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco2gaia/" target="_blank" rel="noopener">eco2gaia — 1,309 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~11 (0% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-EcoGaia is a carbon project developer that develops and operates climate-positive infrastructure, including biochar-based carbon removal facilities in Argentina in partnership with Emisiones Neutras. In December 2025 it signed an offtake agreement with Altitude for more than 165,000 tonnes of biochar CORCs to be issued via the Puro Registry. The company has worked on 27+ projects across 15 countries spanning biochar, ARR, REDD+, Blue Carbon, cookstoves, and renewables.
+EcoGaia is an Argentina-based sustainability consultancy and carbon project developer that works across carbon credit types including REDD+, ARR, biochar, efficient cookstoves, sustainable agriculture and renewable energy, having worked on 27+ projects in 15 countries. In December 2025 it signed an offtake agreement with Altitude for more than 165,000 tonnes of biochar CORCs from facilities in Argentina operated jointly with Emisiones Neutras, to be issued via the Puro Registry. Biochar CDR is one growing activity alongside the firm's broader sustainability/ESG consulting and carbon credit development services.
 
 ![EcoGaia website](/screenshots/ecogaia.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.altitudecarbon.com/news/altitude-ecogaia-emisiones-neutras))
 - **2026-04-19** — merged 1 duplicate(s): eCO2Gaia
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

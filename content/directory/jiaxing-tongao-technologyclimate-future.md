@@ -2,10 +2,10 @@
 title: "Jiaxing Tongao Technology/Climate Future"
 layout: "single"
 type: "directory"
-description: "Jiaxing Tongao Environmental Technology Co. Ltd. (part of Zhejiang Tongao Group) is a Chinese biochar pyrolysis equipment manufacturer and biochar producer"
+description: "Manufactures pyrolysis equipment and operates a Puro.earth-certified biochar facility that converts biomass into stable carbon for durable (100+ year) sequestration."
 url: "/directory/jiaxing-tongao-technologyclimate-future/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,19 +13,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>China</td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Jiaxing Tongao Environmental Technology Co. Ltd. (part of Zhejiang Tongao Group) is a Chinese biochar pyrolysis equipment manufacturer and biochar producer based in Jiaxing, Zhejiang. The Jiaxing Tongao Biochar Plant is listed on Puro.earth as a CORC 100+ durability biochar supplier with a production facility in China, first listed in 2022. In late 2025 the company signed an MoU with Stack Carbon and Norway's TerraCapX to supply pyrolysis equipment enabling 30 tonnes/day biochar production for Uganda's Nile Char Carbon Removal Project, its first international deployment.
+Jiaxing Tongao Environmental Technology Co. Ltd. (part of Zhejiang Tongao Group) is a Chinese biochar pyrolysis equipment manufacturer and biochar producer based in Jiaxing, Zhejiang. The Jiaxing Tongao Biochar Plant is listed on Puro.earth as a CORC 100+ durability biochar supplier with issued CORCs and continuing removal operations. In early 2026 the company signed an MoU with Stack Carbon and TerraCapX to supply pyrolysis equipment (30 tonnes/day capacity) for the $12M Nile Char Carbon Removal Project in Uganda — its first international deployment.
 
 ![Jiaxing Tongao Technology/Climate Future website](/screenshots/jiaxing-tongao-technologyclimate-future.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/jiaxing-tongao-biochar-plant-157))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/jiaxing-tongao-biochar-plant-157))

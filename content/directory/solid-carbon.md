@@ -2,7 +2,7 @@
 title: "Solid Carbon"
 layout: "single"
 type: "directory"
-description: "Solid Carbon is a Canadian research project led by Ocean Networks Canada (a University of Victoria initiative) developing an integrated offshore CDR system"
+description: "Offshore floating DAC powered by renewable energy, with captured CO2 injected into sub-seafloor ocean basalt for permanent mineralization into carbonate rock."
 url: "/directory/solid-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://solidcarbon.ca/" target="_blank" rel="noopener">https://solidcarbon.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/solidcarbon/" target="_blank" rel="noopener">solidcarbon — 183 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-Solid Carbon is a Canadian research project led by Ocean Networks Canada (a University of Victoria initiative) developing an integrated offshore CDR system combining Direct Air Capture on floating platforms with injection of CO2 into sub-seafloor ocean basalt off British Columbia for permanent mineralization. In March 2025 the project was awarded CA$24M over six years through the Government of Canada's New Frontiers in Research Fund (NFRF) Transformation stream to advance a field demonstration at the Cascadia Basin. The international team includes researchers from UVic, UBC, Columbia University and industry partners.
+Solid Carbon is a Canadian research initiative led by Ocean Networks Canada (a University of Victoria initiative) developing an integrated offshore CDR system combining Direct Air Capture on floating platforms with injection of CO2 into sub-seafloor ocean basalt off British Columbia for permanent mineralization. In March 2025 the project was awarded CA$24M over six years through Canada's New Frontiers in Research Fund (Transformation stream) to advance toward a small-scale demonstration at the Cascadia Basin.
 
 ![Solid Carbon website](/screenshots/solid-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://solidcarbon.ca/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://solidcarbon.ca/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://solidcarbon.ca/))

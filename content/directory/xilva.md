@@ -2,7 +2,7 @@
 title: "Xilva"
 layout: "single"
 type: "directory"
-description: "Xilva is a Zurich-based startup (founded 2021) that provides due diligence, rating, and monitoring services for forest and nature-based carbon removal"
+description: "Digital due-diligence, rating and risk-monitoring platform (GRADE/SCREEN/MONITOR) for forest and nature-based carbon removal project investments."
 url: "/directory/xilva/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

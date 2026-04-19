@@ -2,10 +2,10 @@
 title: "ClimatePartner Impact"
 layout: "single"
 type: "directory"
-description: "ClimatePartner Impact GmbH is a Munich-based subsidiary of ClimatePartner GmbH, founded in October 2022, that develops voluntary carbon market projects focused"
+description: "Project developer for nature-based carbon projects (reforestation, revegetation, SOC, blue carbon, biochar) plus cookstoves, taking projects from design through VER issuance and registry management."
 url: "/directory/climatepartner-impact/"
 pathway: "Afforestation"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://climatepartnerimpact.com/" target="_blank" rel="noopener">https://climatepartnerimpact.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climatepartner-impact/" target="_blank" rel="noopener">climatepartner-impact — 3,415 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
   <tr><th>Employees</th><td>~6 (-76% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-ClimatePartner Impact GmbH is a Munich-based subsidiary of ClimatePartner GmbH, founded in October 2022, that develops voluntary carbon market projects focused on nature-based removals (afforestation, reforestation, revegetation, soil organic carbon, blue carbon, biochar) and improved cookstoves. It handles the full project value chain from design through VER issuance, registry and portfolio management, and also provides structured carbon finance and impact investing vehicles. Flagship projects include Spekboom thicket restoration in South Africa's Eastern Cape.
+ClimatePartner Impact GmbH (CPI) is a Munich-based subsidiary of ClimatePartner GmbH that develops voluntary carbon market projects, handling the full project lifecycle from design through VER issuance and portfolio management. Their portfolio spans nature-based removals (afforestation/reforestation, soil organic carbon, blue carbon, biochar) alongside non-removal projects like improved cookstoves. Featured projects include Spekboom thicket restoration in South Africa's Eastern Cape.
 
 ![ClimatePartner Impact website](/screenshots/climatepartner-impact.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://climatepartnerimpact.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://climatepartnerimpact.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://climatepartnerimpact.com/))

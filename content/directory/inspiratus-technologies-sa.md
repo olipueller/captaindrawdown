@@ -2,7 +2,7 @@
 title: "Inspiratus Technologies SA"
 layout: "single"
 type: "directory"
-description: "Inspiratus Technologies SA is a biochar-focused carbon removal company, part of Belgium's Durabilis Group, developing pyrolysis-based solutions for carbon"
+description: "Operates pyrolysis plants that convert agricultural residues (e.g. sugar-cane bagasse, rice husk) into biochar for soil amendment and carbon removal credits."
 url: "/directory/inspiratus-technologies-sa/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://inspiratus.tech/" target="_blank" rel="noopener">https://inspiratus.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inspiratus-tech/" target="_blank" rel="noopener">inspiratus-tech — 1,457 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~31 (+107% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-Inspiratus Technologies SA is a biochar-focused carbon removal company, part of Belgium's Durabilis Group, developing pyrolysis-based solutions for carbon credits, soil amendment, renewable energy, and water treatment applications. The firm operates on-site field research for biochar production across Europe and the Americas and is a member of the CDR30 coalition.
+Inspiratus Technologies is a biochar-focused CDR subsidiary of the Belgian agribusiness holding Durabilis Group. In June 2025 it inaugurated a US$3 million industrial biochar plant in Sullana (Piura), Peru, designed to process 40,000 t/year of agricultural residues into 10,000 t/year of biochar, and it is a member of the CDR30 coalition.
 
 ![Inspiratus Technologies SA website](/screenshots/inspiratus-technologies-sa.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://inspiratus.tech/))
 - **2026-04-19** — merged 1 duplicate(s): Inspiratus Technology
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://inspiratus.tech/))

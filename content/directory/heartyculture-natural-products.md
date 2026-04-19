@@ -2,10 +2,10 @@
 title: "Heartyculture Natural Products"
 layout: "single"
 type: "directory"
-description: "Heartyculture Natural Products LLP is an Indian company based in Telangana that operates a biochar CDR program alongside its nursery and wellness-product"
+description: "Operates artisan biochar production sites in Indian villages, pyrolyzing crop residues (e.g. cotton stalks) into biochar that is applied to farmland, generating C-Sink credits under Global Artisan"
 url: "/directory/heartyculture-natural-products/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://biochar.heartyculture.com/" target="_blank" rel="noopener">https://biochar.heartyculture.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Heartyculture Natural Products LLP is an Indian company based in Telangana that operates a biochar CDR program alongside its nursery and wellness-product businesses. Through a partnership with Circonomy, it runs artisan biochar production sites that convert crop residues (such as cotton stalks) into biochar applied to soil, generating carbon removal credits under Global Artisan C-Sinks guidelines.
+Heartyculture Natural Products LLP is an Indian wellness brand offering natural products for everyday health alongside a 100-acre nursery providing horticulture solutions across India. Its biochar arm runs an artisan biochar CDR program in partnership with Circonomy, where Heartyculture handles logistics for biochar production and application while Circonomy manages monitoring and credit monetization, with 5 artisan production sites implemented across 3 states following Global Artisan C-Sinks guidelines from Carbon Standards International AG. CDR is an adjacent activity to its main wellness/nursery business.
 
 ![Heartyculture Natural Products website](/screenshots/heartyculture-natural-products.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://biochar.heartyculture.com/terms))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.heartyculture.com/))

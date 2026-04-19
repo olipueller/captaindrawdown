@@ -2,7 +2,7 @@
 title: "Timber Finance"
 layout: "single"
 type: "directory"
-description: "Timber Finance (Timber Finance Management AG) is a Zurich-based competence center founded in 2021 that develops methodology and financial instruments for mass"
+description: "Develops ICROA/VCS methodology and trades carbon removal credits for long-term CO2 storage in mass timber building structures, bridging forestry, timber construction, and voluntary carbon markets."
 url: "/directory/timber-finance/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"

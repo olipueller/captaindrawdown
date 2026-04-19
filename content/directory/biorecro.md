@@ -2,10 +2,10 @@
 title: "Biorecro"
 layout: "single"
 type: "directory"
-description: "Biorecro is a Stockholm-based BECCS project developer with 15+ years of experience integrating carbon capture into biomass power, CHP, pulp & paper, and"
+description: "Project developer that integrates carbon capture and geological storage into existing biomass/bioenergy industrial facilities to produce BECCS carbon removal credits."
 url: "/directory/biorecro/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.biorecro.com/" target="_blank" rel="noopener">https://www.biorecro.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biorecro-ab/" target="_blank" rel="noopener">biorecro-ab — 1,240 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Biorecro is a Stockholm-based BECCS project developer with 15+ years of experience integrating carbon capture into biomass power, CHP, pulp & paper, and bioenergy facilities. In September 2025 Biorecro and Gevo announced a $26M long-term carbon removal collaboration, and the company is also developing BECCS projects across Denmark and globally with partners including Carbon Clean, Sønderborg Varme, and Söderenergi.
+Biorecro is a Stockholm-based BECCS project developer that integrates carbon capture into existing biomass power, CHP, pulp & paper, and district heating facilities. Recent 2025 milestones include a $26M carbon removal collaboration with Gevo, BECCS deployment partnerships in Denmark (Carbon Clean, Sønderborg Varme, Thisted Varmeforsyning), and a Richardton, ND facility delivering Puro.earth-certified CDR credits.
 
 ![Biorecro website](/screenshots/biorecro.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.biorecro.com/))
 - **2026-04-19** — merged 1 duplicate(s): Biorecro AB
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

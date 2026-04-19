@@ -2,7 +2,7 @@
 title: "Planet Moja Limited"
 layout: "single"
 type: "directory"
-description: "Planet Moja is a UK-based carbon credit portfolio curator and broker with a research focus on Kenya and East Africa. They source independently verified carbon"
+description: "Carbon credit broker/curator offering portfolios of verified avoidance and removal credits, with a focus on projects in Kenya and East Africa."
 url: "/directory/planet-moja-limited/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

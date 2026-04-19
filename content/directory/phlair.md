@@ -2,7 +2,7 @@
 title: "Phlair"
 layout: "single"
 type: "directory"
-description: "Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup founded in 2022 that develops an electrochemical, hydrolyzer-powered pH-swing"
+description: "Electrochemical pH-swing DAC using a hydrolyzer to generate acid/base for liquid-solvent CO2 capture, designed for intermittent renewable power and modular manufacturability."
 url: "/directory/phlair/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://phlair.com/" target="_blank" rel="noopener">https://phlair.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phlair/" target="_blank" rel="noopener">phlair — 8,394 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~44 (+26% YoY)</td></tr>
   <tr><th>Open roles</th><td>10 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup founded in 2022 that develops an electrochemical, hydrolyzer-powered pH-swing DAC process for low-cost, renewable-powered CO2 capture. The company raised €14.5M seed funding in September 2024 (incl. €2.5M EIC grant) and is deploying its Electra pilot plants with plans for a 15,000+ tCO2/year commercial facility (Project Dawn) in Canada with Deep Sky.
+Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup founded in 2022 that develops an electrochemical, hydrolyzer-powered pH-swing DAC process designed for low-cost, renewable-powered CO2 capture. The company raised a €14.5M seed round in September 2024 and is deploying its Electra pilot plants with plans for a 20,000+ tCO2/year commercial facility (Project Dawn) in Canada.
 
 ![Phlair website](/screenshots/phlair.png)
 
@@ -33,6 +33,7 @@ Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup f
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://phlair.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://phlair.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://phlair.com/))

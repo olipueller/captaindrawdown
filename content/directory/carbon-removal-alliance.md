@@ -2,7 +2,7 @@
 title: "Carbon Removal Alliance"
 layout: "single"
 type: "directory"
-description: "Carbon Removal Alliance (CRA) is a US-based policy advocacy coalition founded in 2023 that represents 20+ permanent carbon removal companies. It lobbies"
+description: "Policy advocacy and trade-association coalition for permanent carbon removal companies, focused on US federal policy, procurement, and MRV standards."
 url: "/directory/carbon-removal-alliance/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Kairos"
 layout: "single"
 type: "directory"
-description: "Kairos Carbon is a UK-based carbon dioxide removal startup (incorporated April 2024) developing advanced hydrothermal/supercritical water oxidation technology"
+description: "Uses a self-sustaining supercritical water oxidation reactor to oxidize wet biogenic wastes (sewage sludge, manure, food waste) into CO2 for geological sequestration, plus recovered water, phosphorus"
 url: "/directory/kairos/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.kairoscarbon.com/" target="_blank" rel="noopener">https://www.kairoscarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kairos-carbon/" target="_blank" rel="noopener">kairos-carbon — 799 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Kairos Carbon is a UK-based carbon dioxide removal startup (incorporated April 2024) developing advanced hydrothermal/supercritical water oxidation technology that processes wet organic wastes such as sewage sludge, livestock manure, and food waste into CO2, clean water, and recoverable minerals. The CO2 is intended for permanent geological sequestration, while phosphorus and other nutrients are recycled as fertilizer. The company has raised ~$770K pre-seed from Zero Carbon Capital, Innovate UK, Grantham Foundation, and others, received a Milkywire CTF purchase in 2025, and is in early pilot development.
+Kairos Carbon, founded in 2024 and headquartered in Ingatestone, United Kingdom, is a CDR pure-play developing a novel supercritical water oxidation process for durable carbon removal. Its advanced hydrothermal processing system turns biogenic carbon from difficult-to-treat waste feedstocks into CO2, clean water and valuable minerals, with the CO2 permanently stored underground in exchange for carbon credits and phosphorus recovered as fertiliser.
 
 ![Kairos website](/screenshots/kairos.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.kairoscarbon.com/))
 - **2026-04-19** — merged 1 duplicate(s): Kairos Carbon
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://milkywire.com/articles/new-cdr-2025))

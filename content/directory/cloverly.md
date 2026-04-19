@@ -2,7 +2,7 @@
 title: "Cloverly"
 layout: "single"
 type: "directory"
-description: "Cloverly is an Atlanta-based carbon credit marketplace and software platform founded in 2019. It connects buyers with curated carbon removal and reduction"
+description: "API-first carbon credit marketplace and SaaS platform (Catalyst) for project developers to manage inventory, distribution, and sales across channels."
 url: "/directory/cloverly/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

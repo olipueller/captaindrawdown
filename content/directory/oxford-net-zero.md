@@ -2,7 +2,7 @@
 title: "Oxford Net Zero"
 layout: "single"
 type: "directory"
-description: "Oxford Net Zero is an interdisciplinary research initiative based at the University of Oxford, launched in 2021, that produces peer-reviewed research,"
+description: "Academic research programme at the University of Oxford producing net zero and carbon removal/offsetting principles, standards analysis, and policy guidance."
 url: "/directory/oxford-net-zero/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

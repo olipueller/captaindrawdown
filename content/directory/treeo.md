@@ -2,7 +2,7 @@
 title: "TREEO"
 layout: "single"
 type: "directory"
-description: "TREEO is operated by Fairventures Digital GmbH in Stuttgart, Germany, a for-profit spinoff (founded Nov 2021) of the reforestation NGO Fairventures Worldwide."
+description: "Single-tree MRV app connecting smallholder tree growers in Uganda and Indonesia to corporate carbon buyers, financing reforestation and storing carbon long-term in harvested wood products and biochar."
 url: "/directory/treeo/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -11,12 +11,12 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Afforestation</td></tr>
-  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech, Biochar</td></tr>
   <tr><th>Method</th><td>Afforestation/Reforestation</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.treeo.one/" target="_blank" rel="noopener">https://www.treeo.one/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/treeo-org/" target="_blank" rel="noopener">treeo-org — 4,460 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~36 (-5% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-TREEO is operated by Fairventures Digital GmbH in Stuttgart, Germany, a for-profit spinoff (founded Nov 2021) of the reforestation NGO Fairventures Worldwide. The company connects smallholder tree growers in countries like Uganda and Indonesia with corporate buyers via a single-tree monitoring app, financing reforestation and storing carbon long-term in timber and biochar. TREEO is certified as a C-Sink Manager and dMRV Provider by Carbon Standards International.
+TREEO, operated by Fairventures Digital GmbH (Stuttgart, Germany), is a for-profit spinoff of the reforestation NGO Fairventures Worldwide, founded in November 2021. The company uses a smartphone-based single-tree monitoring technology to enable smallholder farmers in the Global South to generate verified carbon removals, with long-term storage in timber products and biochar. In 2025, TREEO deepened its partnership with STIHL to deliver a reforestation impact storyboard covering 912,000+ trees on ~3,100 hectares.
 
 ![TREEO website](/screenshots/treeo.png)
 
@@ -34,6 +34,7 @@ TREEO is operated by Fairventures Digital GmbH in Stuttgart, Germany, a for-prof
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://corporate.stihl.com/en/press/press-release-company/2025/stihl-sustainability-report-2024))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://treeo.one/en/treeo/about-us))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://treeo.one/en/))

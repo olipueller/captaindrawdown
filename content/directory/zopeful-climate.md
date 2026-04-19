@@ -2,7 +2,7 @@
 title: "Zopeful Climate"
 layout: "single"
 type: "directory"
-description: "Zopeful Climate is a London-based company that curates ready-made portfolios of durable carbon dioxide removal credits for individuals and businesses, blending"
+description: "Retail/SMB-focused CDR portfolio aggregator offering subscription and one-off purchases across a curated mix of durable removal pathways."
 url: "/directory/zopeful-climate/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

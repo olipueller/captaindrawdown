@@ -2,10 +2,10 @@
 title: "Jeevan Climate Solutions"
 layout: "single"
 type: "directory"
-description: "Jeevan Climate Solutions was founded in 2022 and is based in Bethlehem, Pennsylvania (116 Research Drive). Founder and CEO Arup SenGupta led the Direct Air"
+description: "Solid-sorbent DAC using a novel Cu(II)-coordinated chelating weak-base ion exchange resin (DeCarbonHIX) that adsorbs CO2 from air and releases it via low-temperature heat or seawater regeneration,"
 url: "/directory/jeevan-climate-solutions/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://jeevanclimate.com/" target="_blank" rel="noopener">https://jeevanclimate.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Jeevan Climate Solutions was founded in 2022 and is based in Bethlehem, Pennsylvania (116 Research Drive). Founder and CEO Arup SenGupta led the Direct Air Capture research paper published in Science Advances (March 2023) on Cu(II)-coordinated chelating weak base ion exchangers, and was most recently the PC Rossin Professor of Chemical and Environmental Engineering at Lehigh University. The company has received over $1 million of innovation funding from the U.S. Department of Energy alongside Lehigh University and Advanced Cooling Technologies, Inc., and was jointly awarded a DOE SBIR Phase I grant with ACT to develop a novel ocean-based abiotic carbon capture technology based on DeCarbonHIX.
+Jeevan Climate Solutions (also operating as Jeevan Technology) is a U.S. DAC startup founded in 2022 and based in the Bethlehem/Allentown, Pennsylvania area, spun out of research led by Prof. Arup SenGupta at Lehigh University. The company is developing DeCarbonHIX, a copper-coordinated chelating weak-base ion exchange solid sorbent for direct air capture, with an operational laboratory prototype and plans for a pilot plant.
 
 ![Jeevan Climate Solutions website](/screenshots/jeevan-climate-solutions.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://jeevanclimate.com/news))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](https://startup-seeker.com/company/jeevanclimate~com))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://jeevanclimate.com/news))

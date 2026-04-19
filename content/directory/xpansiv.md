@@ -2,7 +2,7 @@
 title: "Xpansiv"
 layout: "single"
 type: "directory"
-description: "Xpansiv operates market infrastructure for environmental commodities, including the CBL spot exchange for carbon credits and RECs, Evolution Markets brokerage,"
+description: "Operates the CBL spot exchange, Evolution Markets brokerage, and Xpansiv Connect registry integration layer for trading and settling carbon credits, RECs and other environmental commodities."
 url: "/directory/xpansiv/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

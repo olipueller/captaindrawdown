@@ -2,7 +2,7 @@
 title: "AirMyne"
 layout: "single"
 type: "directory"
-description: "AirMyne is a Berkeley, California-based DAC startup launched in May 2022 out of Y Combinator, founded by Sudip Mukhopadhyay and Mark Cyffka, who bring combined"
+description: "Liquid-solvent DAC with low-temperature thermal regeneration compatible with waste heat and geothermal energy sources."
 url: "/directory/airmyne/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-AirMyne is a Berkeley, California-based DAC startup launched in May 2022 out of Y Combinator, founded by Sudip Mukhopadhyay and Mark Cyffka, who bring combined experience in the chemicals industry. The technology uses fans to pull air through a contactor where a proprietary liquid chemistry binds CO2, then pumps the CO2-rich solvent to a stripping column where low-pressure steam releases high-purity CO2. AirMyne is planning its initial DeltaDAC project for deployment at the Port of Stockton with support from the California Energy Commission.
+AirMyne is a Berkeley, California-based Direct Air Capture startup founded in 2022 via Y Combinator by Sudip Mukhopadhyay and Mark Cyffka. The company uses a liquid solvent system with low-temperature thermal regeneration, allowing integration with waste heat and geothermal energy, and has raised over $11M in seed funding plus a strategic investment from ENEOS Holdings in 2026.
 
 ![AirMyne website](/screenshots/airmyne.png)
 
@@ -33,6 +33,7 @@ AirMyne is a Berkeley, California-based DAC startup launched in May 2022 out of 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://decarbonfuse.com/posts/announcing-an-eneos-strategic-investment-in-airmyne-to-advance-dac-technology))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.airmyne.com))

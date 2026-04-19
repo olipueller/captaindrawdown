@@ -2,7 +2,7 @@
 title: "European Biochar Industry Consortium"
 layout: "single"
 type: "directory"
-description: "The European Biochar Industry Consortium (EBI), now operating as Biochar Europe, is a non-profit trade association founded in 2019 that represents European"
+description: "Industry trade association/consortium for the European biochar sector — advocacy, market reports, standards alignment; does not produce biochar itself."
 url: "/directory/european-biochar-industry-consortium/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

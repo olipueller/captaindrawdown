@@ -2,7 +2,7 @@
 title: "Climacrux"
 layout: "single"
 type: "directory"
-description: "Climacrux is a Swiss startup founded in 2020 that operates as a CDR reseller/broker, aggregating carbon removal from third-party suppliers (Charm Industrial,"
+description: "Reseller/broker platform and developer API aggregating CDR credits from third-party suppliers for B2C subscriptions and B2B integrations."
 url: "/directory/climacrux/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,7 +2,7 @@
 title: "GE Vernova"
 layout: "single"
 type: "directory"
-description: "GE Vernova Inc. (NYSE: GEV) is a global energy technology company headquartered in Cambridge, Massachusetts, spun off from General Electric in 2024, with"
+description: "Proprietary solid sorbent Direct Air Capture system leveraging temperature/vacuum swing cycles, developed within GE Vernova's Gas Power R&D organization."
 url: "/directory/ge-vernova/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,15 +15,15 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.gevernova.com/gas-power/future-of-energy/direct-air-capture" target="_blank" rel="noopener">https://www.gevernova.com/gas-power/future-of-energy/direct-air-capture</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alstom-power/" target="_blank" rel="noopener">alstom-power</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~6535 (-1% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-GE Vernova Inc. (NYSE: GEV) is a global energy technology company headquartered in Cambridge, Massachusetts, spun off from General Electric in 2024, with operations spanning Power, Wind, and Electrification. Its Direct Air Capture program, run out of the Advanced Research Centers in Niskayuna, NY and Bengaluru, India, is developing a proprietary solid sorbent DAC system, and in September 2025 announced a deployment agreement with Deep Sky to install a 1,500 tonne/year DAC unit at the Deep Sky Alpha hub in Innisfail, Alberta, beginning operations in late 2026.
+GE Vernova Inc. (NYSE: GEV) is a global energy technology company headquartered in Cambridge, Massachusetts, spun off from General Electric in 2024, with main businesses in Power, Wind, and Electrification. Its Direct Air Capture program, developed at Advanced Research Centers in Niskayuna, NY and Bengaluru, India, is an R&D initiative within Gas Power building a proprietary solid sorbent DAC system, with a 10-ton/year test facility commissioned in 2025 and a 1,500-ton/year deployment planned at Deep Sky Alpha in Alberta by late 2026.
 
 ![GE Vernova website](/screenshots/ge-vernova.png)
 
@@ -33,6 +33,7 @@ GE Vernova Inc. (NYSE: GEV) is a global energy technology company headquartered 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.gevernova.com/news/press-releases/ge-vernova-deploy-pioneering-direct-air-capture-technology-deep-sky-alpha-canada))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.gevernova.com/news/press-releases/ge-vernova-deploy-pioneering-direct-air-capture-technology-deep-sky-alpha-canada))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.gevernova.com/news/press-releases/ge-vernova-deploy-pioneering-direct-air-capture-technology-deep-sky-alpha-canada))

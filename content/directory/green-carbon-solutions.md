@@ -2,7 +2,7 @@
 title: "Green Carbon Solutions"
 layout: "single"
 type: "directory"
-description: "Green Carbon Solutions is an Indiantown, Florida-based climate-tech company led by founder Martin Ellis that uses pyrolysis to transform eucalyptus wood into"
+description: "Pyrolysis of eucalyptus short-rotation woody crops in a 110-foot retort to produce biochar, activated carbon, and bio-oil, with process-emission heat recovery for closed-loop electricity."
 url: "/directory/green-carbon-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,18 +15,19 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.greencarbonsolutions.com/" target="_blank" rel="noopener">https://www.greencarbonsolutions.com/</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Green Carbon Solutions is an Indiantown, Florida-based climate-tech company led by founder Martin Ellis that uses pyrolysis to transform eucalyptus wood into biochar and activated carbon. The plant, relocated from Poland and retrofitted for Florida, features a 110-foot retort structure and is designed to generate its own electricity from process emissions in a closed-loop system. Company milestones include commissioning of the retort and production of biochar & bio-oil (Jan 2024), certificate of occupancy (Dec 2023), and an exclusive license for Polchar to market GCS biochar to Europe's metallurgical industry.
+Green Carbon Solutions is an Indiantown, Florida climate-tech company founded by Martin Ellis that pyrolyzes eucalyptus wood into biochar, activated carbon, bio-oil, and bio-energy. The plant was relocated from Poland and retrofitted with a 110-foot retort; primary target markets are high-purity silicon/semiconductor, metallurgical industry (via a Polchar licensing deal), water purification, and soil amendment, with carbon sequestration as one of several product lines.
 
 ![Green Carbon Solutions website](/screenshots/green-carbon-solutions.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.theepochtimes.com/us/south-florida-biochar-plant-poised-to-be-key-for-domestic-silicon-chip-makers-5827011))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.theepochtimes.com/us/south-florida-biochar-plant-poised-to-be-key-for-domestic-silicon-chip-makers-5827011))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greencarbonsolutions.com/blog/biochar-basics---what-is-biochar))

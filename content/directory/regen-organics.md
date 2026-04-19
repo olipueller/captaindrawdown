@@ -2,10 +2,10 @@
 title: "Regen Organics"
 layout: "single"
 type: "directory"
-description: "Regen Organics is a Nairobi-based social venture and founding member of the Sanergy Collaborative that operates the largest organic recycling plant in East"
+description: "Pyrolysis of agro-processing waste (bagasse, mango/avocado residues) into biochar, blended into their EverGrow organic fertilizer; alongside a larger non-CDR circular-economy business of organic"
 url: "/directory/regen-organics/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.regenorganics.co/" target="_blank" rel="noopener">https://www.regenorganics.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenorganics/" target="_blank" rel="noopener">regenorganics — 5,807 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~44 (-10% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Regen Organics is a Nairobi-based social venture and founding member of the Sanergy Collaborative that operates the largest organic recycling plant in East Africa, converting sanitation and agricultural waste into insect protein, organic fertilizer (EverGrow/Farm Star), and biomass fuel. In partnership with TakaChar, it runs a pyrolysis biochar pilot in Machakos County processing bagasse and mango/avocado waste, targeting >800 tonnes/year of biochar and issuing carbon credits through both traditional and on-chain markets.
+Regen Organics is a Nairobi-based social venture and founding member of The Sanergy Collaborative that operates one of East Africa's largest organic recycling plants, converting sanitation and agricultural waste into organic fertilizer (EverGrow/Farm Star), insect protein (KuzaPro), and biomass fuel briquettes. In partnership with TakaChar, it runs a pyrolysis biochar pilot in Machakos County processing bagasse and mango/avocado waste, with biochar blended into its fertilizer line. Core business is fertilizer and regenerative-agriculture products; biochar/CDR is an adjacent pilot.
 
 ![Regen Organics website](/screenshots/regen-organics.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.regenorganics.co/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.regenorganics.co/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.regenorganics.co/products/))

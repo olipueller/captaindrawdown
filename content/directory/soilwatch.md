@@ -2,7 +2,7 @@
 title: "Soilwatch"
 layout: "single"
 type: "directory"
-description: "SoilWatch is a climate tech company that helps nature-based carbon removal projects to deliver and prove their impact, combining science, Earth observation,"
+description: "SoilWatch provides satellite remote sensing and machine-learning-based MRV (measurement, reporting, verification) and project design services for nature-based carbon removal projects (soil carbon,"
 url: "/directory/soilwatch/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Stack Carbon"
 layout: "single"
 type: "directory"
-description: "Stack Carbon Investments UG Ltd is the project developer and operator of the Nile Char Project, a carbon dioxide removal initiative utilizing biochar"
+description: "Develops the Nile Char Project in Uganda, pyrolyzing agricultural waste into biochar-based fertilizer (30 t/day capacity) and also applying crushed basalt for enhanced rock weathering on farmlands."
 url: "/directory/stack-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Uganda</td></tr>
   <tr><th>Website</th><td><a href="https://www.stackcarbon.earth/" target="_blank" rel="noopener">https://www.stackcarbon.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stackcarbon/" target="_blank" rel="noopener">stackcarbon — 961 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Stack Carbon Investments UG Ltd is the project developer and operator of the Nile Char Project, a carbon dioxide removal initiative utilizing biochar technology in mid-western Uganda. The company's work is rooted in two core solutions: Enhanced Rock Weathering, which applies finely crushed basalt rock to farmlands to permanently capture atmospheric CO2, and biochar, which converts biomass waste into valuable resources. Stack Carbon partners with Jiaxing Tongao Environmental Technology Co. Ltd of China and TerraCapX AS of Norway on Uganda's first large-scale industrial biochar facility, with Jiaxing Tongao supplying continuous pyrolysis equipment rated at 30 tonnes of biochar per day. The Nile Char Carbon Removal Project is slated to begin with equipment installation in mid-2026, with commercial operations expected to start in Q3 2026.
+Stack Carbon Investments UG Ltd is a Ugandan climate-tech company developing the Nile Char Carbon Removal Project, a large-scale biochar facility in mid-western Uganda that converts agricultural waste into biochar-based fertilizer. The company also works on Enhanced Rock Weathering using crushed basalt applied to farmlands. In January 2026 it signed an MoU with Jiaxing Tongao (China) and TerraCapX (Norway) for a USD $12M facility targeting Q3 2026 commercial operations.
 
 ![Stack Carbon website](/screenshots/stack-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))

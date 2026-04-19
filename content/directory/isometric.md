@@ -2,7 +2,7 @@
 title: "Isometric"
 layout: "single"
 type: "directory"
-description: "Isometric is a carbon removal registry headquartered in London (with offices in New York), founded in 2022 by Eamon Jubbawy. It issues science-backed CDR"
+description: "Carbon removal registry and verification platform (Certify) issuing scientifically rigorous CDR credits across 17+ pathway protocols, with approvals from ICVCM, CORSIA, and ICROA."
 url: "/directory/isometric/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

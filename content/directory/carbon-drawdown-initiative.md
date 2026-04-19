@@ -2,7 +2,7 @@
 title: "Carbon Drawdown Initiative"
 layout: "single"
 type: "directory"
-description: "Carbon Drawdown Initiative GmbH is a philanthropically-funded German organization founded in 2019 by Dirk Paessler (founder of Paessler AG) that supports the"
+description: "Runs Project Carbdown — multi-year ERW field and greenhouse experiments spreading basalt/olivine on croplands with custom-built sensor networks and fluxmeters to quantify CO2 removal rates; also"
 url: "/directory/carbon-drawdown-initiative/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"

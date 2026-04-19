@@ -12,15 +12,15 @@ url: "/directory/dac/"
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">125</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">68</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">41</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">16</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">0</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">91</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">24</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">9</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">1</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">441,475</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">101/125</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">441,480</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">102/125</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies

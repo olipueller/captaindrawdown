@@ -2,7 +2,7 @@
 title: "Offset8 Capital"
 layout: "single"
 type: "directory"
-description: "Offset8 Capital is an Abu Dhabi-based proprietary asset management and emissions investment firm, regulated by the ADGM FSRA, that finances and trades carbon"
+description: "Carbon credit investment/trading firm providing prepayments, offtake, and advisory financing for nature-based removal projects (biochar, ARR) in emerging markets."
 url: "/directory/offset8-capital/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,7 +2,7 @@
 title: "Kanop"
 layout: "single"
 type: "directory"
-description: "Kanop is a Paris-based MRV software company founded in 2021 that uses AI and satellite imagery (optical, radar, LiDAR) to support monitoring, baselining and"
+description: "AI + satellite (optical/SAR/LiDAR) MRV platform for nature-based carbon projects, measuring aboveground biomass, carbon stocks and land-use change for baseline, verification and supply-chain"
 url: "/directory/kanop/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

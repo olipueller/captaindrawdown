@@ -2,7 +2,7 @@
 title: "CarbonZero"
 layout: "single"
 type: "directory"
-description: "CarbonZero.Eco is a Silicon Valley-based, venture-backed climate technology startup that completed its first commercial biochar production facility in Colusa"
+description: "Pyrolyzes almond-shell agricultural waste into biochar that is mixed into compost and applied to partner almond farms for long-term soil carbon storage."
 url: "/directory/carbonzero/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-CarbonZero.Eco is a Silicon Valley-based, venture-backed climate technology startup that completed its first commercial biochar production facility in Colusa County, California and announced a landmark carbon removal credit purchase agreement with Climeworks in December 2025. Founded by Harper Moss, the company partners with almond farmers across Colusa and Yolo Counties, using almond-shell agricultural waste to produce biochar for long-lasting carbon storage and soil benefits. Puro.earth vetted the planned facility, registering CarbonZero.eco as a biochar CO2 Removal Certificate supplier, with certificates expected to begin generating in summer 2025.
+CarbonZero.Eco is a Silicon Valley-based, venture-backed biochar startup founded in 2024 by Harper Moss that pyrolyzes almond-shell agricultural waste from Colusa and Yolo County farms into biochar for soil amendment and durable carbon storage. In December 2025 it completed its first commercial biochar plant in Colusa County, California, and signed a carbon removal credit purchase agreement with Climeworks.
 
 ![CarbonZero website](/screenshots/carbonzero.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/carbonzeroeco-unveils-first-biochar-production-plant-and-announces-major-carbon-credit-deal-with-climeworks-302632929.html))
 - **2026-04-19** — merged 1 duplicate(s): CarbonZero.eco
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonzero.eco/))

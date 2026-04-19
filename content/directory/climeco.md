@@ -2,7 +2,7 @@
 title: "ClimeCo"
 layout: "single"
 type: "directory"
-description: "ClimeCo is a US-based global sustainability and decarbonization solutions firm providing climate strategy consulting, carbon project development, environmental"
+description: "Carbon project developer, environmental credit trader, and sustainability consultancy handling offsets, RECs, plastic credits, certification programs, and some CDR pathway projects (biochar, NBS)."
 url: "/directory/climeco/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

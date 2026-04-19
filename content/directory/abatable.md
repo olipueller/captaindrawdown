@@ -2,7 +2,7 @@
 title: "Abatable"
 layout: "single"
 type: "directory"
-description: "Abatable is a London-based carbon intelligence and procurement platform for the voluntary carbon market, providing RFP/RFQ tooling, pricing benchmarks across"
+description: "Procurement and market intelligence platform for the voluntary carbon market — RFP/RFQ tooling, pricing benchmarks across 10,000+ projects, portfolio monitoring, and advisory for corporate buyers."
 url: "/directory/abatable/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

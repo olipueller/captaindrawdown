@@ -2,7 +2,7 @@
 title: "Thalo Labs"
 layout: "single"
 type: "directory"
-description: "Thalo Labs is a New York City-based climate-tech company that builds the Thalo Capture indoor DAC + mineralization system (deployed at Newark Airport Terminal"
+description: "Modular plug-in indoor direct air capture units that mineralize captured CO2 into a synthetic carbonate powder used in concrete and consumer goods, alongside an HVAC sensing/AI platform."
 url: "/directory/thalo-labs/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -16,15 +16,15 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://thalolabs.com/" target="_blank" rel="noopener">https://thalolabs.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thalo-labs/" target="_blank" rel="noopener">thalo-labs — 2,679 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~17 (+13% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Thalo Labs is a New York City-based climate-tech company that builds the Thalo Capture indoor DAC + mineralization system (deployed at Newark Airport Terminal B and the Empire State Building) alongside an HVAC sensing/AI platform called Copilot. Their main website has pivoted to emphasize predictive HVAC intelligence for contractors, but the Thalo Capture DAC product line remains active with ongoing deployments and Port Authority partnerships on captured-CO₂ concrete.
+Thalo Labs is a New York City-based climate-tech startup founded in 2021 whose primary website and commercial focus has pivoted to Thalo Copilot, a hardware + AI platform for predictive HVAC maintenance and leak detection in commercial and residential buildings. The company also continues to operate its Thalo Capture indoor direct air capture + mineralization product, with deployments at Newark Liberty Airport Terminal B and the Empire State Building, but DAC is now an adjacent product line rather than the main business.
 
 ![Thalo Labs website](/screenshots/thalo-labs.png)
 
@@ -34,6 +34,7 @@ Thalo Labs is a New York City-based climate-tech company that builds the Thalo C
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://thalolabs.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://thalolabs.com/innovations/))
 - **2026-04-18** — reclassified: pathway=DAC focus=review_needed liveliness=🟡 Moderate ([source](https://thalolabs.com/))

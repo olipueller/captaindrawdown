@@ -2,7 +2,7 @@
 title: "Neutura.Earth"
 layout: "single"
 type: "directory"
-description: "Neutura is a Singapore-headquartered carbon removal company operating pyrolysis biochar projects in Indonesia. It converts agricultural waste—primarily empty"
+description: "Pyrolyzes palm oil empty fruit bunches (EFB) and other agri-waste into biochar for soil amendment and durable carbon removal credits."
 url: "/directory/neuturaearth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://neutura.earth/" target="_blank" rel="noopener">https://neutura.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neutura-earth/" target="_blank" rel="noopener">neutura-earth — 434 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Neutura is a Singapore-headquartered carbon removal company operating pyrolysis biochar projects in Indonesia. It converts agricultural waste—primarily empty fruit bunches (EFB) from palm oil mills—into biochar for soil amendment and carbon removal credits. The company launched its first pilot in 2024 with Universitas Sumatera Utara and has since partnered with Indonesian farms on carbon farming deployments.
+Neutura (PT Penyerapan Karbon Khatulistiwa) is a Singapore/Jakarta-based carbon removal startup founded in 2023, converting palm oil waste and other agricultural residues in Indonesia into biochar via pyrolysis. It launched its first pilot with Universitas Sumatera Utara in 2024 and was named Best Impact Entrepreneur at the KEHATI ESG Award 2025.
 
 ![Neutura.Earth website](/screenshots/neuturaearth.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://neutura.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Neutura
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://neutura.earth/))

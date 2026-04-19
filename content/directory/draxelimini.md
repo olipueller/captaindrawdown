@@ -2,10 +2,10 @@
 title: "Drax/Elimini"
 layout: "single"
 type: "directory"
-description: "Elimini is a wholly owned US-based subsidiary of UK energy group Drax, launched in September 2024 at Climate Week NYC to develop BECCS projects in North"
+description: "Elimini develops bioenergy with carbon capture and storage (BECCS) projects — pairing biomass-fired power generation with CO2 capture and geological storage to produce durable carbon removal credits."
 url: "/directory/draxelimini/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://elimini.com/" target="_blank" rel="noopener">https://elimini.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/elimini/" target="_blank" rel="noopener">elimini — 2,332 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
   <tr><th>Employees</th><td>~39 (-38% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-Elimini is a wholly owned US-based subsidiary of UK energy group Drax, launched in September 2024 at Climate Week NYC to develop BECCS projects in North America and internationally, and to market carbon removals generated at Drax Power Station. Its first greenfield 300 MW BECCS project (designed to capture ~3 Mt CO2/year) is under development with Sargent & Lundy, and in July 2025 it signed a joint development agreement with Copenhagen utility HOFOR to develop a BECCS facility at the Amagerværket CHP plant. Parent Drax scaled back UK BECCS investment and staffing in late 2025 but continues to back Elimini as an Options-for-Growth business.
+Elimini is a wholly-owned US-based subsidiary of UK energy group Drax, launched in September 2024 at Climate Week NYC to develop BECCS projects in North America and internationally and to market carbon removals from Drax Power Station. It is developing a greenfield 300 MW BECCS facility with Sargent & Lundy (targeting ~3 Mt CO2/year, ~$2.5bn capex, online by 2030) and in July 2025 signed a joint development agreement with Copenhagen utility HOFOR for a BECCS retrofit at Amagerværket.
 
 ![Drax/Elimini website](/screenshots/draxelimini.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟡 Moderate ([source](https://www.drax.com/press_release/introducing-elimini-new-carbon-removal-leader-launches-at-new-york-climate-week/))
 - **2026-04-19** — merged 1 duplicate(s): Elimini
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

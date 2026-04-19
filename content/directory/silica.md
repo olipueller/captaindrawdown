@@ -2,10 +2,10 @@
 title: "Silica"
 layout: "single"
 type: "directory"
-description: "Silica is an enhanced rock weathering (ERW) project developer based in Mexico, spreading finely ground volcanic silicate rocks on agricultural fields —"
+description: "Spreads finely ground silicate rocks on Mexican sugarcane fields to accelerate natural weathering and permanently sequester CO2 as bicarbonates."
 url: "/directory/silica/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Website</th><td><a href="https://silica.earth" target="_blank" rel="noopener">https://silica.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicaearth/" target="_blank" rel="noopener">silicaearth — 390 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+75% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Silica is an enhanced rock weathering (ERW) project developer based in Mexico, spreading finely ground volcanic silicate rocks on agricultural fields — starting with Mexican sugarcane regions — to permanently remove CO2 while regenerating soils and benefiting rural communities in Latin America. The company is a member of the Enhanced Weathering Alliance and generates carbon removal credits.
+Silica is an ERW project developer permanently removing CO2 in LatAm, starting with Mexican sugarcane regions, with a mission to remove CO2 at scale while regenerating soils, increasing crop yields and improving the livelihoods of rural communities. The company is a member of the Enhanced Weathering Alliance and generates carbon removal credits through spreading silicate rock dust on agricultural lands.
 
 ![Silica website](/screenshots/silica.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://silica.earth))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://silica.earth))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://silica.earth))

@@ -2,7 +2,7 @@
 title: "CAPTURENOW LIMITED"
 layout: "single"
 type: "directory"
-description: "CaptureNow (legal name CAPTURENOW LIMITED) is a London-based pre-seed startup that structures long-term (15-25 year) carbon removal offtake agreements for"
+description: "Financial intermediary structuring long-duration prepaid/deferred offtake agreements for carbon removal credits to align corporate emissions liabilities with removal supply."
 url: "/directory/capturenow-limited/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

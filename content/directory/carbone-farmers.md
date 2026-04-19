@@ -2,7 +2,7 @@
 title: "Carbone Farmers"
 layout: "single"
 type: "directory"
-description: "Carbone Farmers is a French project developer founded in 2021 that helps farmers and agricultural cooperatives transition to regenerative, low-carbon"
+description: "Project developer aggregating French farmers into collective regenerative-agriculture projects that generate soil-carbon credits certified under the Label Bas-Carbone, with a FarmGate Metrics/Credits"
 url: "/directory/carbone-farmers/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonefarmers.com/" target="_blank" rel="noopener">https://www.carbonefarmers.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbone-farmers/" target="_blank" rel="noopener">carbone-farmers — 6,234 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~36 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbone Farmers is a French project developer founded in 2021 that helps farmers and agricultural cooperatives transition to regenerative, low-carbon practices, generating soil carbon credits certified under the French Label Bas Carbone. The company works with cooperatives and agri-food businesses across France, covering over 1,000 farms, and also operates FarmGate Metrics/Credits platforms for MRV and scope 3 reporting.
+Carbone Farmers coordinates collective Label Bas-Carbone projects, such as one where 157 farmers in Hauts-de-France, Île-de-France, Grand Est and Centre-Val de Loire deploy regenerative agriculture practices over 27,057 hectares. Carbon credits are calculated using national methodologies framed by standards like Label bas carbone, based on field measurements consolidated in internal tools, with independent certifiers such as Bureau Veritas. The company also operates the FarmGate Metrics platform for Scope-3 tracking and reporting for food-industry clients.
 
 ![Carbone Farmers website](/screenshots/carbone-farmers.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.carbonefarmers.com/accueil/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.carbonefarmers.com/accueil/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonefarmers.com/ ([source](https://www.cdr.fyi/supplier/carbone-farmers))

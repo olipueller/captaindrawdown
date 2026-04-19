@@ -2,7 +2,7 @@
 title: "Earthshot Labs"
 layout: "single"
 type: "directory"
-description: "Earthshot Labs is a tech-enabled nature-based carbon project developer based in Sebastopol, California, that supports land stewards in developing reforestation"
+description: "Develops nature-based carbon projects (ARR, REDD+, IFM) and operates LandOS, an AI/remote-sensing platform for carbon modeling and project diligence."
 url: "/directory/earthshot-labs/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Earthshot Labs is a tech-enabled nature-based carbon project developer based in Sebastopol, California, that supports land stewards in developing reforestation (ARR), REDD+, and improved forest management (IFM) projects worldwide. The company operates the LandOS platform for project feasibility, carbon modeling, and diligence, and raised a $5.5M Series A in 2024 led by Acorn Pacific Ventures. Its portfolio with partners like BirdLife International and Tree Aid covers over a million hectares.
+Earthshot Labs is a US-based nature-based carbon project developer and technology platform that helps land stewards develop reforestation (ARR), REDD+, and improved forest management projects globally. The company operates LandOS for project feasibility and MRV, has developed 60+ projects, and raised a $5.5M Series A in 2024. It also operates its own reforestation project in Panama.
 
 ![Earthshot Labs website](/screenshots/earthshot-labs.png)
 
@@ -34,6 +34,7 @@ Earthshot Labs is a tech-enabled nature-based carbon project developer based in 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.earthshot.eco/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.earthshot.eco/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.earthshot.eco/))

@@ -2,7 +2,7 @@
 title: "Onnu"
 layout: "single"
 type: "directory"
-description: "Onnu is a project developer and technology provider headquartered in the UK that develops its own pyrolysis plants and consults on plants for clients across"
+description: "Onnu develops its proprietary CarboFlow pyrolysis technology to convert waste biomass (poultry litter, green waste, agricultural residues) into biochar and renewable energy, generating Puro.earth"
 url: "/directory/onnu/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Onnu is a project developer and technology provider headquartered in the UK that develops its own pyrolysis plants and consults on plants for clients across Europe and SE Asia. Its Onnu Biochar arm sells EBC-certified biochar and soil products to retail customers in Europe, while Onnu Bioflow is the renewable commodities trading arm for larger-scale customers worldwide. Onnu is registered with the Puro.Earth carbon registry and biochar from its Wye Valley hubs qualifies for CORCs.
+Onnu is a UK-headquartered project developer and technology provider that builds its own pyrolysis plants and consults on plants for clients across Europe and SE Asia. It operates two commercial arms — Onnu Biochar (EBC-certified biochar retail) and Onnu Bioflow (renewable commodities trading) — and is registered with Puro.earth, with Wye Valley hubs expected to generate hundreds of thousands of CORCs.
 
 ![Onnu website](/screenshots/onnu.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.onnu.com/company))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.onnu.com/company))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.onnu.com/company))

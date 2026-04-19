@@ -2,7 +2,7 @@
 title: "MASH Makes"
 layout: "single"
 type: "directory"
-description: "MASH Makes A/S is a Danish-Indian cleantech company spun out of the Technical University of Denmark in 2015 that operates containerised pyrolysis plants in"
+description: "Operates containerised pyrolysis plants in India that convert agricultural residues (primarily cashew waste) into biochar for carbon sequestration and drop-in advanced biofuel as a co-product."
 url: "/directory/mash-makes/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.mashmakes.com/" target="_blank" rel="noopener">https://www.mashmakes.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mash-energy/" target="_blank" rel="noopener">mash-energy — 9,930 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~92</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-MASH Makes A/S is a Danish-Indian cleantech company spun out of the Technical University of Denmark in 2015 that operates containerised pyrolysis plants in Karnataka, India, converting agricultural waste into biochar, advanced biofuel, and carbon removal credits. In 2025 it launched Phase 2 of its Udupi facility (claimed as Asia's largest biochar carbon removal site), doubling capacity to 7,000 t biofuel and 14,000 t biochar per year, and was named to the 2026 Global Cleantech 100.
+MASH Makes is an Indo-Danish cleantech company that operates India's first large-scale biofuel and biochar carbon removal plant in Udupi district, Karnataka, converting waste from the cashew industry into renewable biofuel and carbon-rich biochar. In early 2025 it broke ground on Phase 2 of its Udupi facility, doubling annual production capacity to 7,000 tonnes of biofuel and 14,000 tonnes of biochar, and sells carbon removal credits via the Carbonfuture platform.
 
 ![MASH Makes website](/screenshots/mash-makes.png)
 
@@ -33,6 +33,7 @@ MASH Makes A/S is a Danish-Indian cleantech company spun out of the Technical Un
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.mashmakes.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/mash-makes-launches-phase-2-of-asias-largest-carbon-removal-facility/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nefco.int/news/mash-makes-receives-new-loan-from-nefco/))

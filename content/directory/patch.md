@@ -2,7 +2,7 @@
 title: "Patch"
 layout: "single"
 type: "directory"
-description: "Patch is a San Francisco-based carbon credit platform that combines software, data, and climate-expert services to help corporate buyers source, diligence,"
+description: "Software platform and expert services aggregating carbon credit project data across registries to streamline buyer sourcing, diligence, procurement, and portfolio management."
 url: "/directory/patch/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

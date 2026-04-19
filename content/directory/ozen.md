@@ -2,10 +2,10 @@
 title: "Ozen"
 layout: "single"
 type: "directory"
-description: "OZEN Sp. z o.o. (OZEN Plus) is a Polish charcoal manufacturer based in Wałcz operating since 2011, producing approximately 20,000 tonnes/year of charcoal and"
+description: "Charcoal manufacturer using vertical retort pyrolysis of hardwood, co-generating electricity from pyrolysis heat; a portion of output has been EBC C-Sink certified as biochar."
 url: "/directory/ozen/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Website</th><td><a href="https://ozen.pl/en/homepage/" target="_blank" rel="noopener">https://ozen.pl/en/homepage/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-OZEN Sp. z o.o. (OZEN Plus) is a Polish charcoal manufacturer based in Wałcz operating since 2011, producing approximately 20,000 tonnes/year of charcoal and charcoal briquettes alongside about 52,000 MWh of renewable electricity from pyrolysis heat and biomass. The company holds a European Biochar Certificate (EBC) C-Sink certification covering a biochar batch produced 25/6/2021–24/06/2022, with a carbon sink potential of 87.7% (3.22 t CO2eq per tonne biochar). Most output is sold as BBQ/industrial charcoal, with the EBC-certified portion qualifying as biochar carbon removal.
+OZEN Sp. z o.o. (OZEN Plus) is a Polish charcoal manufacturer in Wałcz operating since 2011, producing about 20,000 tonnes/year of charcoal and charcoal briquettes plus about 52,000 MWh of electricity from pyrolysis heat. The company's core business is grill/BBQ charcoal sold primarily to the German market; biochar/C-Sink certification is an adjacent activity on part of its output.
 
 ![Ozen website](/screenshots/ozen.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://ozen.pl/en/homepage/))
 - **2026-04-19** — merged 1 duplicate(s): OZEN Sp. z o.o.
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate

@@ -2,10 +2,10 @@
 title: "Carboliva"
 layout: "single"
 type: "directory"
-description: "Carboliva is a Spanish biochar producer headquartered in Osuna (Seville) that has operated since 2018 a pyrolysis furnace at the Acesur-Coosur facility in"
+description: "Produces biochar via oxygen-free pyrolysis of olive pits and pulp (olive grove biomass) at a facility in Andalusia, Spain."
 url: "/directory/carboliva/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboliva.es/" target="_blank" rel="noopener">https://www.carboliva.es/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/" target="_blank" rel="noopener">carboliva-biocarb%c3%b3n-sostenible — 1,664 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carboliva is a Spanish biochar producer headquartered in Osuna (Seville) that has operated since 2018 a pyrolysis furnace at the Acesur-Coosur facility in Puente del Obispo (Jaén), producing around 5,000 tonnes annually of olive biochar using a patented oxygen-free pyrolysis system developed with the Seville School of Engineers, Inerco and the University of Málaga. The company, founded in 2017 by Álvaro Espuny, is pursuing a five-year, roughly €120 million plan to build up to 20 furnaces in olive-pomace dryers across Spain and Portugal, targeting 200,000 tonnes per year of olive biochar. Carboliva is the first company in Spain to obtain the EBC certification to participate in the voluntary carbon market.
+Carboliva is a Spanish company based in Osuna (Seville), led by Álvaro Espuny, focused on valorizing olive grove biomass to create high-quality charcoal and clean thermal energy. The company produces biochar from olive pits through a controlled pyrolysis process in the absence of oxygen, fixing carbon in a solid, stable structure. It collaborates on research projects applying its biochar to olive cultivation, tomato agriculture, and concrete/asphalt construction materials.
 
 ![Carboliva website](/screenshots/carboliva.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboliva.es/en/))
 - **2026-04-19** — merged 1 duplicate(s): CARBOLIVA SLU
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -2,7 +2,7 @@
 title: "Yama"
 layout: "single"
 type: "directory"
-description: "Yama is a Paris-based Direct Air Capture startup developing a hybrid electrochemical/thermal desorption technology using a proprietary non-toxic liquid sorbent"
+description: "Hybrid electrochemical/thermal liquid-sorbent DAC using pH and low-grade-heat temperature swings to desorb CO2, with modular systems built from mass-manufactured components."
 url: "/directory/yama/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Yama is a Paris-based Direct Air Capture startup developing a hybrid electrochemical/thermal desorption technology using a proprietary non-toxic liquid sorbent with pH and temperature swing regeneration. The company operates a small pilot near Paris capturing about 25 tCO2/yr and is targeting first-of-a-kind commercial deployment near geological storage sites in Europe, the Nordics, Canada, or the Middle East.
+Paris-based Yama Carbon is developing a DAC system using an electrochemical approach to capture CO2 with a combination of pH changes and low-grade heat. It operates a small pilot near Paris capturing around 25 tonnes of CO2 per year, at less than 1,500 kWh per tonne. It plans a first-of-a-kind commercial plant around 2030 at roughly 50,000 t/yr, targeting locations near geological storage in the Nordics, Denmark, Canada, or the Middle East.
 
 ![Yama website](/screenshots/yama.png)
 
@@ -31,6 +31,7 @@ Yama is a Paris-based Direct Air Capture startup developing a hybrid electrochem
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://yamacarbon.com/))
 - **2026-04-19** — merged 1 duplicate(s): Yama Carbon
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

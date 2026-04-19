@@ -2,7 +2,7 @@
 title: "Atmoz Restore AB"
 layout: "single"
 type: "directory"
-description: "Atmoz Restore AB is the carbon-credit/offset arm of the Swedish Atmoz group (parent Atmoz AB, Stockholm), which provides carbon management software and"
+description: "Carbon-credit brokerage/reseller: curates a portfolio of third-party removal and avoidance projects (biochar, boreal forestry, cookstoves) and retires credits on behalf of corporate clients through"
 url: "/directory/atmoz-restore-ab/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

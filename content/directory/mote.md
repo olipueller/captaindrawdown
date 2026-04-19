@@ -2,7 +2,7 @@
 title: "Mote"
 layout: "single"
 type: "directory"
-description: "Mote is a Los Angeles-based BECCS startup, spun out of Lawrence Livermore National Laboratory, that converts wood waste into carbon-negative hydrogen with"
+description: "Gasifies woody waste into clean hydrogen while capturing and permanently sequestering the byproduct CO2 in saline aquifers (BiCRS)."
 url: "/directory/mote/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Mote is a Los Angeles-based BECCS startup, spun out of Lawrence Livermore National Laboratory, that converts wood waste into carbon-negative hydrogen with geological CO2 sequestration. Its flagship Bakersfield facility has completed a FEL-2 study and received a formal DOE Loan Programs Office Part II invitation under the Title 17 Clean Energy Financing program. In March 2025 Mote raised $7 million in the first close of its Series A.
+Mote is a Los Angeles-based BECCS/BiCRS startup spun out of Lawrence Livermore National Laboratory that gasifies woody waste into carbon-negative hydrogen while geologically sequestering CO2. Its flagship Bakersfield facility completed a FEL-2 study and received a DOE LPO Title 17 Part II invitation, with a second plant planned with SMUD in Sacramento. In March 2025 Mote closed the first $7M tranche of a targeted $15M Series A led by Nella Next and Preston-Werner Ventures.
 
 ![Mote website](/screenshots/mote.png)
 
@@ -32,6 +32,7 @@ Mote is a Los Angeles-based BECCS startup, spun out of Lawrence Livermore Nation
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20250304282371/en/Mote-Secures-$7-Million-Funding-in-First-Close-of-Series-A-Round-to-Advance-Companys-Carbon-Negative-Biomass-to-Energy-Technology))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.motehydrogen.com/news/mote-kicks-off-second-biomass-to-hydrogen-project-in-northern-california))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20250304282371/en/Mote-Secures-$7-Million-Funding-in-First-Close-of-Series-A-Round-to-Advance-Companys-Carbon-Negative-Biomass-to-Energy-Technology))

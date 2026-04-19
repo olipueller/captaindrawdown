@@ -2,7 +2,7 @@
 title: "Bioenergie Frauenfeld"
 layout: "single"
 type: "directory"
-description: "Bioenergie Frauenfeld is the largest SynCraft (pyrolysis) plant configuration globally and a joint project of Energie 360° AG and Schweizer Zucker AG,"
+description: "Operates a 4 MW SynCraft wood-gas CHP plant that pyrolyzes residual forestry wood to co-produce electricity, district/process heat, and EBC-certified biochar (~3,500 t/yr, ~12,000 t CO2 removed"
 url: "/directory/bioenergie-frauenfeld/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -17,18 +17,19 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioenergie-frauenfeld/" target="_blank" rel="noopener">bioenergie-frauenfeld — 956 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Bioenergie Frauenfeld is the largest SynCraft (pyrolysis) plant configuration globally and a joint project of Energie 360° AG and Schweizer Zucker AG, converting residual wood biomass into biochar through pyrolysis. With an electrical output of 4 MW, the plant is one of the largest of its kind in the world, and the carbon-negative facility provides power to 8,000 households as well as heat to the resident sugar factory and the town of Frauenfeld. Overall, the carbon-negative plant removes 9,000 metric tons of CO2 annually from the atmosphere.
+Bioenergie Frauenfeld AG is a Swiss wood CHP plant operator jointly owned by Energie 360° AG and Schweizer Zucker AG, operating one of the world's largest SynCraft pyrolysis-based wood gasification plants in Frauenfeld, Thurgau. The 4 MW plant processes ~25,000 tonnes of residual wood annually into electricity for ~8,000 households, heat for the adjacent sugar factory and district heating, plus biochar as a third product. Biochar/CDR is an adjacent revenue stream to the core energy generation business.
 
 ![Bioenergie Frauenfeld website](/screenshots/bioenergie-frauenfeld.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.syncraft.at/en/references/frauenfeld/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.jenbacher.com/en/case-studies/syncraft-frauenfeld))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bioenergie-frauenfeld.ch/))

@@ -2,7 +2,7 @@
 title: "Mosaic Materials"
 layout: "single"
 type: "directory"
-description: "Mosaic Materials is a direct air capture (DAC) technology developer based in Alameda, California, spun out of UC Berkeley. It develops metal-organic framework"
+description: "Develops metal-organic framework (MOF) sorbents that selectively bind atmospheric CO2 via cooperative amine chemistry, used in direct air capture contactors and confined-space CO2 scrubbers."
 url: "/directory/mosaic-materials/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -23,13 +23,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Mosaic Materials is a direct air capture (DAC) technology developer based in Alameda, California, spun out of UC Berkeley. It develops metal-organic framework (MOF) adsorbents that selectively capture CO2 from ambient air and from confined spaces (submarines, spacecraft). Mosaic was acquired by Baker Hughes in April 2022 and continues to operate as its DAC technology arm, with pilot units being tested toward commercial-scale deployment.
+Mosaic Materials is a direct air capture technology developer based in Alameda, California, spun out of UC Berkeley, that develops metal-organic framework (MOF) adsorbents selectively capturing CO2 from ambient air and confined spaces (submarines, spacecraft via NASA/Navy contracts). It was acquired by Baker Hughes in April 2022 and continues operating as Baker Hughes' dedicated DAC technology arm, with pilot units being tested as of late 2024 alongside a new Baker Hughes Institute for Decarbonization Materials at UC Berkeley.
 
 ![Mosaic Materials website](/screenshots/mosaic-materials.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://www.bakerhughes.com/company/news/baker-hughes-acquires-mosaic-materials-advance-nextgeneration-carbon-dioxide-capture))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://mosaicmaterials.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://mosaicmaterials.com/ ([source](https://www.cdr.fyi/supplier/mosaic))

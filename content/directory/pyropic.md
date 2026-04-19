@@ -2,7 +2,7 @@
 title: "Pyropic"
 layout: "single"
 type: "directory"
-description: "Pyropic designs and builds turn-key pyrolysis systems that convert agricultural residues into biochar for durable carbon dioxide removal. The company positions"
+description: "Pyropic designs and builds turn-key pyrolysis systems that convert agricultural residues (screened, dried, pelletized) into stable biochar, with syngas combusted for renewable energy."
 url: "/directory/pyropic/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -13,20 +13,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
-  <tr><th>Website</th><td><a href="https://www.pyropic.com" target="_blank" rel="noopener">https://www.pyropic.com</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Website</th><td><a href="https://pyropic.com" target="_blank" rel="noopener">https://pyropic.com</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Pyropic designs and builds turn-key pyrolysis systems that convert agricultural residues into biochar for durable carbon dioxide removal. The company positions its technology as a way for agricultural operators to reduce hauling/spreading costs while improving soil health and generating CDR-grade biochar.
+Pyropic is a US-based pure-play biochar company that deploys integrated, turn-key pyrolysis systems for agricultural operators, converting crop residues into biochar for durable carbon dioxide removal while generating renewable energy from syngas. The company positions its technology as reducing hauling and spreading costs for farmers while producing CDR-grade biochar.
 
 ![Pyropic website](/screenshots/pyropic.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://pyropic.com/))
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.pyropic.com ([source](https://www.cdr.fyi/supplier/pyropic))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://pyropic.com/))

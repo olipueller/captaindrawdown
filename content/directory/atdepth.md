@@ -2,7 +2,7 @@
 title: "atdepth"
 layout: "single"
 type: "directory"
-description: "atdepth MRV is a Cambridge, Massachusetts-based MIT spin-off providing Monitoring, Reporting and Verification (MRV) services to the marine carbon dioxide"
+description: "GPU-accelerated multi-scale ocean and biogeochemical modeling integrated with in-situ monitoring to deliver MRV (Measurement, Reporting, Verification) for marine CDR projects."
 url: "/directory/atdepth/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

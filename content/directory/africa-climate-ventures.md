@@ -2,7 +2,7 @@
 title: "Africa Climate Ventures"
 layout: "single"
 type: "directory"
-description: "Africa Climate Ventures (ACV) is a Kigali-based venture builder and early-stage investor founded in 2023 that backs climate-positive businesses across Africa,"
+description: "Venture builder and early-stage investor that founds and scales African climate-positive businesses, including CDR ventures like biochar producer Safi Organics and DAC-focused Great Carbon Valley."
 url: "/directory/africa-climate-ventures/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

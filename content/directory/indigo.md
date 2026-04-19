@@ -2,7 +2,7 @@
 title: "Indigo"
 layout: "single"
 type: "directory"
-description: "Indigo Ag is a US-based sustainable agriculture company whose Carbon by Indigo program (operated by subsidiary Indigo Carbon PBC) develops and issues"
+description: "Operates Carbon by Indigo, a soil carbon credit program that pays US farmers to adopt regenerative practices (cover cropping, reduced tillage, nitrogen management) and issues registry-verified"
 url: "/directory/indigo/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -18,12 +18,12 @@ liveliness: "🟢 Active"
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~1404 (-0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Indigo Ag is a US-based sustainable agriculture company whose Carbon by Indigo program (operated by subsidiary Indigo Carbon PBC) develops and issues agricultural soil carbon credits through the Climate Action Reserve. Since 2018, the program has enrolled more than 8 million acres across 28 U.S. states and sequestered/abated approximately 2.1 million metric tons of CO₂e, with buyers including Microsoft (under a 12-year, 2.85M-tonne agreement), Honda, Walmart, Kellanova, and Block.
+Indigo Ag is a US-based sustainable agriculture company whose core business is biotrinsic natural microbial seed/foliar treatments and agronomic technology for farmers and agribusinesses. Alongside this, its subsidiary Indigo Carbon PBC runs the Carbon by Indigo soil carbon credit program; since 2018 Indigo has enrolled more than 8 million acres across 28 states, sequestering and abating 2.1 million metric tons of CO₂e, with buyers including Microsoft, Block, JPMorgan, Shopify and Barclays.
 
 ![Indigo website](/screenshots/indigo.png)
 
@@ -33,6 +33,7 @@ Indigo Ag is a US-based sustainable agriculture company whose Carbon by Indigo p
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=side_business liveliness=🟢 Active ([source](https://www.indigoag.com/pages/news/indigo-surpasses-2-million-metric-tons-of-verified-soil-carbon-impact-with-fifth-credit-issuance))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.indigoag.com/pages/news/indigo-surpasses-2-million-metric-tons-of-verified-soil-carbon-impact-with-fifth-credit-issuance))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.indigoag.com/pages/news/indigo-surpasses-2-million-metric-tons-of-verified-soil-carbon-impact-with-fifth-credit-issuance))

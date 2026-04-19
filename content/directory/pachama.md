@@ -2,7 +2,7 @@
 title: "Pachama"
 layout: "single"
 type: "directory"
-description: "Pachama, based in California and launched in 2018, provided digital MRV products for forest carbon removal, helping companies identify forest-based carbon"
+description: "AI- and satellite-based monitoring, reporting, and verification (MRV) platform plus marketplace for forest-based carbon removal and avoidance projects; now part of Carbon Direct."
 url: "/directory/pachama/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

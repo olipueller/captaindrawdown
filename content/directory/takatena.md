@@ -2,7 +2,7 @@
 title: "Takatena"
 layout: "single"
 type: "directory"
-description: "Takatena Biochar Solutions is a Kenya-based biochar producer based in Nanyuki that transforms organic waste into biochar, marketed as a circular waste hub. The"
+description: "Pyrolyzes organic waste streams (sewage, garbage) into biochar sold for soil amendment with carbon-sequestration claims."
 url: "/directory/takatena/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -13,19 +13,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://takatena.com/" target="_blank" rel="noopener">https://takatena.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Takatena Biochar Solutions is a Kenya-based biochar producer based in Nanyuki that transforms organic waste into biochar, marketed as a circular waste hub. The company sells biochar online with explicit CO2-removal claims (e.g. 1000 kg biochar ≈ 3 t CO2 for $180). It operates as a small CDR supplier tied to waste-to-biochar conversion.
+Takatena Biochar Solutions is a Nanyuki, Kenya-based biochar producer that converts organic waste (sewage and garbage) into biochar via pyrolysis. The company operates an online store selling biochar with explicit CO2-removal claims (e.g. 1,000 kg biochar ≈ 3 t CO2 for $180) and markets itself as Kenya's first circular waste hub.
 
 ![Takatena website](/screenshots/takatena.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://takatena.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.takatena.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.takatena.com/))

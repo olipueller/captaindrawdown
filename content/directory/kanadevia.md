@@ -2,7 +2,7 @@
 title: "Kanadevia"
 layout: "single"
 type: "directory"
-description: "Kanadevia Corporation (formerly Hitachi Zosen Corporation, rebranded October 2024) is a major Japanese industrial and engineering company headquartered in"
+description: "Supplies amine-scrubbing post-combustion carbon capture as EPC contractor for waste-to-energy plants, capturing mixed biogenic/fossil CO2 from flue gas for permanent geological storage (e.g. via"
 url: "/directory/kanadevia/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://www.kanadevia.com/english/" target="_blank" rel="noopener">https://www.kanadevia.com/english/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hitachizosen/" target="_blank" rel="noopener">hitachizosen — 10,752 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~517 (+9% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Kanadevia Corporation (formerly Hitachi Zosen Corporation, rebranded October 2024) is a major Japanese industrial and engineering company headquartered in Osaka, with roughly 13,000 employees. Through its Swiss subsidiary Kanadevia Inova, it develops and delivers carbon capture technology (amine scrubbing) for waste-to-energy plants — including the UK's first full-scale WtE CCS facility at Protos ERF (~370,000 tCO2/yr, biogenic + fossil) — and biochar-producing anaerobic-digestion/gasification plants such as the Dem-Con HZI BioEnergy project in Minnesota.
+Kanadevia Corporation (formerly Hitachi Zosen, rebranded October 2024) is a large Japanese industrial engineering conglomerate headquartered in Osaka with about 13,000 employees and JPY 610 billion in FY2024 revenue, with core businesses in waste-to-energy plants, machinery, infrastructure, hydrogen systems, and biogas. Through its Swiss subsidiary Kanadevia Inova, it supplies amine-scrubbing carbon capture technology as an EPC contractor for waste-to-energy plants — including the UK's first full-scale WtE CCS project at the Protos Energy Recovery Facility (notice-to-proceed October 2025, handover mid-2029). Carbon capture is an adjacent offering bolted onto its core WtE business rather than the company's primary purpose.
 
 ![Kanadevia website](/screenshots/kanadevia.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
 - **2026-04-19** — merged 1 duplicate(s): Kanadevia Corporation
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://en.wikipedia.org/wiki/Kanadevia))

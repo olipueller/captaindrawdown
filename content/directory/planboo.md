@@ -2,7 +2,7 @@
 title: "Planboo"
 layout: "single"
 type: "directory"
-description: "Planboo is a Swedish biochar carbon removal company founded in Stockholm in 2020 that empowers smallholder farmers and project developers across the tropics"
+description: "Enables smallholder farmers in tropical regions to convert agricultural waste into biochar, tracked via a proprietary IoT+software dMRV system (MRVin), and sells Puro.earth and Carbon Standards"
 url: "/directory/planboo/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://planboo.eco/" target="_blank" rel="noopener">https://planboo.eco/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planboo/" target="_blank" rel="noopener">planboo — 5,966 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~21 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Planboo is a Swedish biochar carbon removal company founded in Stockholm in 2020 that empowers smallholder farmers and project developers across the tropics (Ghana, India, Namibia and others) to convert agricultural waste biomass into biochar. Its proprietary MRVin™ digital MRV system uses IoT thermal sensors (the Greenbox) on kilns to monitor pyrolysis in real time, and its credits are certified under Puro.earth and Carbon Standards International.
+Planboo is an early-stage Swedish company founded in Stockholm in 2020 that operates throughout the Tropics, supporting biochar carbon removal in the Global South. The company uses its digital Measurement, Reporting, and Verification (MRVin) system to collect data points from biochar production through carbon credit allocation. Credits are certified by Puro.earth and Carbon Standards International.
 
 ![Planboo website](/screenshots/planboo.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://planboo.eco/ ([source](https://www.cdr.fyi/supplier/planboo))

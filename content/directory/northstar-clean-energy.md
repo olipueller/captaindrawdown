@@ -2,10 +2,10 @@
 title: "NorthStar Clean Energy"
 layout: "single"
 type: "directory"
-description: "NorthStar Clean Energy is a wholly owned unregulated subsidiary of CMS Energy (NYSE: CMS), based in Michigan, developing the Filer City BECCS project — one of"
+description: "Developing conversion of the 73-MW TES Filer City coal plant to biomass fuel with B&W SolveBright post-combustion amine capture for permanent geologic CO2 storage."
 url: "/directory/northstar-clean-energy/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://northstarcleanenergy.com/" target="_blank" rel="noopener">https://northstarcleanenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northstarcleanenergy/" target="_blank" rel="noopener">northstarcleanenergy — 3,165 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~109</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-NorthStar Clean Energy is a wholly owned unregulated subsidiary of CMS Energy (NYSE: CMS), based in Michigan, developing the Filer City BECCS project — one of the first large-scale US bioenergy with carbon capture and storage projects. The project would convert a 73-MW coal plant to biomass firing with Babcock & Wilcox's SolveBright post-combustion capture, targeting up to 550,000 tons of CO2 captured and permanently stored annually. NorthStar also operates a broader 1.5+ GW portfolio of solar, wind, biomass, and gas assets.
+NorthStar Clean Energy is a wholly owned unregulated subsidiary of CMS Energy (NYSE: CMS) headquartered in Ann Arbor, Michigan, developing and operating over 2 GW of wind, solar, biomass, natural gas, and energy storage assets for commercial and industrial clients. Among its many projects, it is developing the Filer City BECCS retrofit (co-owned with Tondu Corp) to convert a 73-MW coal plant to biomass with Babcock & Wilcox's SolveBright post-combustion capture, targeting up to 550,000 tons CO2/yr. BECCS is one project within a much larger renewable-energy business.
 
 ![NorthStar Clean Energy website](/screenshots/northstar-clean-energy.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://northstarcleanenergy.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/northstarcleanenergy/__21wCHSYa3jZVH7X4S9fEwqmCdanhA4k1DbMbmjF2qQE))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.powermag.com/michigan-coal-plant-eyes-beccs-retrofit-could-become-first-us-facility-with-carbon-negative-power/))

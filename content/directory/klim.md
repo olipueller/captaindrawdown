@@ -2,7 +2,7 @@
 title: "Klim"
 layout: "single"
 type: "directory"
-description: "Klim is a Berlin-based agritech company founded in 2020 that scales regenerative agriculture by partnering with 3,500+ farmers covering roughly 700,000"
+description: "Klim develops soil organic carbon projects by onboarding farmers onto regenerative practices (cover crops, reduced tillage, agroforestry) and issues TÜV-validated (DIN ISO 14064-2) soil carbon"
 url: "/directory/klim/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.klim.eco/" target="_blank" rel="noopener">https://www.klim.eco/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klimfoods/" target="_blank" rel="noopener">klimfoods — 19,744 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~138 (+8% YoY)</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Klim is a Berlin-based agritech company founded in 2020 that scales regenerative agriculture by partnering with 3,500+ farmers covering roughly 700,000 hectares across Germany and internationally. The company acts as a project developer and MRV provider, generating TÜV-validated (DIN ISO 14064-2) soil carbon reduction and removal credits and Scope 3 insetting projects for corporate buyers such as Nestlé and Kaufland.
+Klim is a Berlin-based agritech company founded in 2020 that operates a digital platform enabling farmers to adopt regenerative agriculture practices and monetize resulting soil carbon sequestration. The company serves 3,500+ farmers covering ~700,000 hectares (about 5% of German farmland) and sells both removal/reduction carbon credits and Scope 3 insetting projects to corporate clients such as Nestlé, Kaufland, and Aryzta. In November 2024 Klim raised a $22M Series A led by BNP Paribas to internationalize the platform.
 
 ![Klim website](/screenshots/klim.png)
 
@@ -33,6 +33,7 @@ Klim is a Berlin-based agritech company founded in 2020 that scales regenerative
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.klim.eco/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.klim.eco/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.klim.eco/en))

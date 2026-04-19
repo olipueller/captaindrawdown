@@ -2,7 +2,7 @@
 title: "3Degrees"
 layout: "single"
 type: "directory"
-description: "3Degrees is a San Francisco-based global climate solutions provider and Certified B Corporation that helps Fortune 500 companies, utilities, and other"
+description: "Climate consultancy and carbon credit broker that originates, manages, and sells CDR credits across multiple pathways on behalf of project developers and corporate buyers."
 url: "/directory/3degrees/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

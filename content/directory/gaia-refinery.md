@@ -2,7 +2,7 @@
 title: "Gaia Refinery"
 layout: "single"
 type: "directory"
-description: "Gaia Refinery is a Halifax-based carbon removal startup founded in 2020 by Dr. Tammy Cai (CTO) and Genny Shaw (CEO) that combines liquid Direct Air Capture"
+description: "Hybrid Bio-DAC system that uses biogenic acetic acid (derived from processing biomass waste like wood chips and crop residues) to regenerate a liquid DAC sorbent at low energy, capturing CO2 from"
 url: "/directory/gaia-refinery/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.gaiarefinery.com/" target="_blank" rel="noopener">https://www.gaiarefinery.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gaia-refinery/" target="_blank" rel="noopener">gaia-refinery — 649 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Gaia Refinery is a Halifax-based carbon removal startup founded in 2020 by Dr. Tammy Cai (CTO) and Genny Shaw (CEO) that combines liquid Direct Air Capture with biomass conversion. Its Bio-DAC plug-in technology processes biomass waste (wood chips, crop residues, wastewater) to produce acetic acid that regenerates the DAC sorbent with minimal heat input, reducing energy demand versus conventional DAC. The company is backed by NorthX, CICE, MaRS and Milkywire's Climate Transformation Fund.
+Gaia Refinery is a Halifax-based carbon removal startup founded in 2020 by Dr. Tammy Cai (CTO) and Genny Shaw (CEO). Its Bio-DAC plug-in technology combines liquid direct air capture with biomass conversion, using acetic acid produced from bio-industrial waste streams to regenerate the DAC sorbent, reducing energy demand versus conventional DAC. The company targets bio-industrial customers like pulp and paper, ethanol, and forestry for drop-in carbon removal integration.
 
 ![Gaia Refinery website](/screenshots/gaia-refinery.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://northx.ca/project/gaia-refinery))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://northx.ca/project/gaia-refinery))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.gaiarefinery.com/))

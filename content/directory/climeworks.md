@@ -2,7 +2,7 @@
 title: "Climeworks"
 layout: "single"
 type: "directory"
-description: "Swiss-based Climeworks is the most visible name in direct air capture, using modular systems that pull CO2 from the air with fans and solid filters; its Orca"
+description: "Operates solid-sorbent Direct Air Capture plants (Orca, Mammoth in Iceland) that pull CO2 from ambient air and mineralize it underground with Carbfix, while also offering blended carbon-removal"
 url: "/directory/climeworks/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -25,7 +25,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Swiss-based Climeworks is the most visible name in direct air capture, using modular systems that pull CO2 from the air with fans and solid filters; its Orca plant in Iceland captures 4,000 tons of CO2 per year and the newer Mammoth facility scales capacity to 36,000 tons annually. The company combines DAC technology with holistic carbon removal solutions, offering an end-to-end enterprise service with tailored portfolios of nature-based and engineered solutions. In February 2026, Climeworks established its Canadian headquarters in Calgary, with a mobile test facility expected to begin gathering real-time performance data in Fall 2026 ahead of building a larger-scale commercial DAC plant.
+Swiss pioneer of solid-sorbent Direct Air Capture, operating the Orca (4,000 t/yr) and Mammoth (36,000 t/yr) DAC+storage plants in Iceland. Raised over $1B in cumulative funding (with a $162M extension in July 2025) and in Feb 2026 announced a Calgary, Canada headquarters for cold-weather DAC testing. The company also sells tailored carbon-removal portfolios combining engineered and nature-based credits to corporate buyers.
 
 ![Climeworks website](/screenshots/climeworks.png)
 
@@ -36,6 +36,7 @@ Swiss-based Climeworks is the most visible name in direct air capture, using mod
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://climeworks.com/news/climeworks-establishes-canadian-headquarters-in-calgary))
 - **2026-04-19** — merged 1 duplicate(s): Climeworks Solutions
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

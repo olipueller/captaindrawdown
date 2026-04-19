@@ -2,7 +2,7 @@
 title: "One Earth Energy"
 layout: "single"
 type: "directory"
-description: "One Earth Energy, LLC is a corn ethanol production plant in Gibson City, Illinois, majority-owned by NYSE-listed REX American Resources Corp. Through sister"
+description: "Capture of high-purity fermentation CO2 from a corn ethanol plant, compression, and planned pipeline transport to a Class VI injection well for permanent geologic storage in Mt. Simon Sandstone."
 url: "/directory/one-earth-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.oneearthenergy.com/" target="_blank" rel="noopener">https://www.oneearthenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/one-earth-enegry/" target="_blank" rel="noopener">one-earth-enegry</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~16 (0% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-One Earth Energy, LLC is a corn ethanol production plant in Gibson City, Illinois, majority-owned by NYSE-listed REX American Resources Corp. Through sister entity One Earth Sequestration, the company is developing a BECCS project to capture fermentation CO2 and inject it into the Mt. Simon Sandstone formation. The EPA Class VI injection well permitting process is moving forward with a final permitting decision expected in 2026, and the capture facility will initially sequester CO2 from the One Earth Energy ethanol plant with potential later capacity for third-party CO2 sequestration for a fee.
+One Earth Energy, LLC is a corn ethanol plant in Gibson City, Illinois, majority-owned by NYSE-listed REX American Resources Corp., currently expanding from 150 to 200 million gallons per year. Through sister entity One Earth Sequestration, the company is developing a BECCS project to capture fermentation CO2 and inject it into the Mt. Simon Sandstone via a Class VI well ~6 miles away in McLean County. Capture and compression are substantially built, but final EPA Class VI permitting and a CO2 pipeline (paused under Illinois's SAFE CCS Act moratorium through July 2026) remain pending.
 
 ![One Earth Energy website](/screenshots/one-earth-energy.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://investors.rexamerican.com/news-releases/news-release-details/rex-american-resources-reports-record-high-full-fiscal-year-2025))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://ethanolproducer.com/articles/rex-one-earth-energy-expansion-remains-on-track-for-2026-completion))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/illinois-rejects-carbon-pipeline-permit-for-one-earth-energy/))

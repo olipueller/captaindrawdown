@@ -2,7 +2,7 @@
 title: "UK Carbon Registry"
 layout: "single"
 type: "directory"
-description: "UK Carbon Registry (UKCR) is a UK-based carbon credit registry that onboards, validates, issues, tracks and retires carbon credits for projects following ISO"
+description: "Carbon credit registry providing project onboarding, validation, issuance, tracking and retirement services for STEM-based carbon avoidance and removal projects."
 url: "/directory/uk-carbon-registry/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

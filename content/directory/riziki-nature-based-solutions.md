@@ -2,7 +2,7 @@
 title: "Riziki Nature Based Solutions"
 layout: "single"
 type: "directory"
-description: "Riziki Nature Based Solutions is a Kenya-based company that harvests invasive mesquite (Prosopis juliflora) biomass and converts it into two product lines:"
+description: "Pyrolyzes invasive Prosopis juliflora biomass into biochar for soil application and carbon sequestration, alongside biofuel for industrial boilers."
 url: "/directory/riziki-nature-based-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Riziki Nature Based Solutions is a Kenya-based company that harvests invasive mesquite (Prosopis juliflora) biomass and converts it into two product lines: industrial biofuel for boilers/kilns and biochar for carbon sequestration and soil amendment. The biochar activity pyrolyzes invasive biomass, locking carbon into soil while restoring degraded rangelands. Website is live and describes active operations across both product lines.
+Riziki Nature Based Solutions is a Kenya-based startup that harvests invasive Prosopis juliflora (mesquite) biomass and converts it into industrial biofuel and biochar. The biochar line pyrolyzes invasive woody biomass to sequester carbon and amend degraded rangeland soils, while also providing a lower-emission fuel alternative for Kenyan industry.
 
 ![Riziki Nature Based Solutions website](/screenshots/riziki-nature-based-solutions.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nbs-ea.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.nbs-ea.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nbs-ea.com/))

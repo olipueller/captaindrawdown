@@ -2,7 +2,7 @@
 title: "BELOW2 Inc."
 layout: "single"
 type: "directory"
-description: "BELOW2 Inc. is a San Francisco-based startup (with German founders) that operates a data-driven verification automation platform and standard for carbon"
+description: "Provides an automated, data-driven verification platform and proprietary \"Verified Carbon Impact\" standard for issuing and tokenizing carbon credits from avoidance and removal projects."
 url: "/directory/below2-inc/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

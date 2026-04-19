@@ -2,10 +2,10 @@
 title: "Syntopa"
 layout: "single"
 type: "directory"
-description: "Syntopa was founded in 2023 by Hans Holtan to develop microbial products that address challenges at the intersection of crops and climate, starting with"
+description: "Develops microbial inoculants that accelerate silicate rock dissolution in agricultural soils, paired with a data platform (Toposight) that matches microbial strains to specific soil/environmental"
 url: "/directory/syntopa/"
 pathway: "Enhanced Weathering"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://syntopa.com/" target="_blank" rel="noopener">https://syntopa.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syntopa/" target="_blank" rel="noopener">syntopa — 727 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (-43% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,13 +24,14 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-Syntopa was founded in 2023 by Hans Holtan to develop microbial products that address challenges at the intersection of crops and climate, starting with microbes for enhanced rock weathering, and raised a $575,000 pre-seed round from Ponderosa Ventures. Their proprietary Toposight Platform uses a data-driven approach to match microbial strains with specific environmental conditions, aiming to produce measurable increases in rock weathering rates and carbon removal efficiency across various soil conditions. Founded in 2023, Syntopa has grown rapidly with a team of four additional researchers plus advisors, operating out of a lab in Alameda, California.
+Founded in 2023 by Hans Holtan, Syntopa develops microbial products addressing the intersection of crops and climate, starting with microbes for enhanced rock weathering, and raised a $575,000 pre-seed round from Ponderosa Ventures. The company operates from a lab in Alameda, California, where it isolates soil microbes and has built a collection of over 1,200 rock-weathering soil microbes from three continents. Syntopa is also backed by the Carbon Drawdown Initiative and was preparing 2025 field trials.
 
 ![Syntopa website](/screenshots/syntopa.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://syntopa.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.carbon-drawdown.de/blog/2025-4-22-portfolio-spotlight-syntopa))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://syntopa.com))

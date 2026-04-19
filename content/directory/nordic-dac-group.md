@@ -2,7 +2,7 @@
 title: "Nordic DAC Group"
 layout: "single"
 type: "directory"
-description: "Nordic DAC Group AB is a Swedish company (est. 2021) that markets and sells Direct Air Capture-based carbon removal certificates via its directairacapture.com"
+description: "Sells DAC-based carbon removal certificates sourced from partner capture-plant operators and provides commercialization/market-development support to DAC research projects in the Nordics."
 url: "/directory/nordic-dac-group/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"

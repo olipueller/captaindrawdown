@@ -2,7 +2,7 @@
 title: "Caligenia"
 layout: "single"
 type: "directory"
-description: "Caligenia is an Argentine biotechnology startup producing \"Bacterchar,\" a carbon-negative biofertilizer that combines biochar (made from organic waste) with"
+description: "Pyrolyzes organic waste into biochar, then combines it with plant-growth-promoting microorganisms (\"Bacterchar\") to restore degraded soils while sequestering carbon."
 url: "/directory/caligenia/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -19,13 +19,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Caligenia is an Argentine biotechnology startup producing "Bacterchar," a carbon-negative biofertilizer that combines biochar (made from organic waste) with plant-growth-promoting microorganisms (PGPM) to restore degraded soils. The company is building Argentina's first biochar production plant in Luján and has been publicly active through 2025, presenting at Aapresid 2025 and recruiting staff.
+Caligenia is an Argentine biotechnology startup whose flagship product Bacterchar is a carbon-negative biofertilizer combining plant-growth-promoting bacteria with biochar, a soil amendment that retains carbon for long periods. The company is building Argentina's first biochar production plant in Luján. The firm has been publicly active through 2025, presenting at Aapresid 2025 and recruiting staff.
 
 ![Caligenia website](/screenshots/caligenia.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.caligenia.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.caligenia.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/caligenia/__nyWPrjpJ2QMzgA8TeflWFrLVGOjzmztO-CTDdlb7lak))

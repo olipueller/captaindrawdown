@@ -2,7 +2,7 @@
 title: "Carbon to Sea Initiative"
 layout: "single"
 type: "directory"
-description: "Carbon to Sea Initiative is a non-profit research and development effort launched in June 2023 that has raised over $50 million from philanthropic funders to"
+description: "Non-profit philanthropic initiative that funds scientific research, field trials, MRV protocols, and policy work on ocean alkalinity enhancement, but does not itself remove CO2 or sell credits."
 url: "/directory/carbon-to-sea-initiative/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"

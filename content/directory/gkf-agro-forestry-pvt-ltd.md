@@ -2,10 +2,10 @@
 title: "GKF AGRO FORESTRY PVT LTD"
 layout: "single"
 type: "directory"
-description: "GKF Agro Forestry Pvt Ltd is an India-based company (Khammam, Telangana) incorporated in April 2021 that runs large-scale agroforestry/ARR plantations, biochar"
+description: "Multi-pathway carbon project developer doing agroforestry tree planting, biochar from crop residues, improved cookstoves, and AWD rice with Indian smallholder farmers."
 url: "/directory/gkf-agro-forestry-pvt-ltd/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://gkfagroforestry.com/" target="_blank" rel="noopener">https://gkfagroforestry.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-GKF Agro Forestry Pvt Ltd is an India-based company (Khammam, Telangana) incorporated in April 2021 that runs large-scale agroforestry/ARR plantations, biochar production from crop residues, improved cookstove distribution, and alternate wetting-and-drying (AWD) rice projects across nine Indian states. It partners with smallholder and tribal farmers to generate carbon credits from these interventions, with a stated goal of planting on 100,000+ hectares by 2030. ARR and biochar are its CDR-relevant pathways; cookstoves and AWD are emission-avoidance activities.
+GKF Agro Forestry Pvt Ltd is an India-based company headquartered in Khammam, Telangana, incorporated in April 2021. It develops carbon projects with smallholder and tribal farmers across six Indian states, combining agroforestry/ARR tree plantations, biochar production from crop residues, improved cookstove distribution, and alternate wetting-and-drying (AWD) rice projects. The company positions itself primarily as a carbon project developer generating credits from these interventions.
 
 ![GKF AGRO FORESTRY PVT LTD website](/screenshots/gkf-agro-forestry-pvt-ltd.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://gkfagroforestry.com/current-projects/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://gkfagroforestry.com/current-projects/))

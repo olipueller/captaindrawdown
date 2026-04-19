@@ -2,7 +2,7 @@
 title: "ReGenEarth"
 layout: "single"
 type: "directory"
-description: "ReGenEarth is a UK-based sustainability venture spun out of Stephen Lansdown's Earth Capital that integrates biochar pyrolysis into operational anaerobic"
+description: "Integrates Onnu CarboFlow pyrolysis units into existing UK anaerobic digestion and biomass sites to convert agricultural residues and digestate into biochar for carbon removal credits."
 url: "/directory/regenearth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-ReGenEarth is a UK-based sustainability venture spun out of Stephen Lansdown's Earth Capital that integrates biochar pyrolysis into operational anaerobic digestion and biomass sites. In June 2025 it launched a £100m Green Bond programme with RER Capital to finance nationwide rollout, and in January 2026 deployed Onnu's CarboFlow pyrolysis technology at its Sedgefield dairy farm (Hope Farm) to create a fully circular AD-pyrolysis hub producing carbon removal credits verified via Puro.earth and rated by BeZero.
+ReGenEarth is a UK sustainability venture originating from Stephen Lansdown's Earth Capital that, together with RER, launched a £100 million Green Bond programme to fund the deployment of biochar generation technologies integrated into existing anaerobic digestion and biomass plants. Its first flagship deployment is at Hope Farm in Sedgefield, a 3,500-acre dairy operation, where Onnu's CarboFlow pyrolysis system is being installed alongside the existing AD facility to create a combined renewable energy and carbon removal hub.
 
 ![ReGenEarth website](/screenshots/regenearth.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/onnu-and-regenearth-to-launch-a-landmark-pyrolysis-project-in-the-uk/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://regenearth.co.uk/news/regenearth-and-rer-financial-launch-green-bond-biochar-initiative))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://regenearth.co.uk/circularity-products/biochar))

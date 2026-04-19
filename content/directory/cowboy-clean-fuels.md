@@ -2,10 +2,10 @@
 title: "Cowboy Clean Fuels"
 layout: "single"
 type: "directory"
-description: "Cowboy Clean Fuels (CCF) is a Denver, Colorado-headquartered climate-tech company, founded in 2020 and spun out of the University of Wyoming, that"
+description: "Injects agricultural biomass into depleted Powder River Basin coalbed methane wells where native microbes convert it to CH4 (sold as RNG) and CO2 (permanently adsorbed onto the coal formation)."
 url: "/directory/cowboy-clean-fuels/"
 pathway: "Biomass Burial"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://cowboycleanfuels.com/" target="_blank" rel="noopener">https://cowboycleanfuels.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cowboy-clean-fuels/" target="_blank" rel="noopener">cowboy-clean-fuels — 1,153 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~15</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Cowboy Clean Fuels (CCF) is a Denver, Colorado-headquartered climate-tech company, founded in 2020 and spun out of the University of Wyoming, that commercializes a patented Biomass Carbon Removal and Storage plus Renewable Natural Gas (BiCRS+RNG) process. At its Triangle Unit project in Wyoming's Powder River Basin, agricultural biomass is injected into depleted coalbed methane wells where native microbes convert it into CO2 (permanently stored in the geologic formation) and biomethane (delivered as RNG). Credits are verified under the Absolute Carbon Standard and listed on Evident's C-Capsule registry, with Climate Vault Solutions acting as exclusive commercialization partner.
+Cowboy Clean Fuels is a Denver-headquartered climate-tech company spun out of the University of Wyoming in 2020 that commercializes a patented BiCRS+RNG process: biomass is injected into depleted coalbed methane wells in Wyoming's Powder River Basin, where microbes convert it to renewable natural gas while CO2 is adsorbed and stored in the coal seam. Its Triangle Unit (TRECCS) Project began commercial injection in 2024, and in 2025 CCF signed a 10-year offtake agreement with Mercuria, released an ISO 14064-2 aligned BiCRS+RNG methodology with EcoEngineers, and partnered with Mangrove Systems on digital MRV.
 
 ![Cowboy Clean Fuels website](/screenshots/cowboy-clean-fuels.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://cowboycleanfuels.com/cdr/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/cowboy-clean-fuels-and-mangrove-systems-to-deploy-digital-mrv-in-groundbreaking-carbon-removal-projects/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://cowboycleanfuels.com/))

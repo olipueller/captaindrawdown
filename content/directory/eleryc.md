@@ -2,7 +2,7 @@
 title: "Eleryc"
 layout: "single"
 type: "directory"
-description: "Eleryc, Inc. is a venture-backed stealth climate-tech startup based in San Jose, California, developing low-energy electrochemical hydroxide-generation"
+description: "Electrochemical hydroxide generation (liquid-solvent DAC) using patents acquired from Arelac/Fortera (originally Calera), coupled in some applications with lithium extraction."
 url: "/directory/eleryc/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,19 +15,20 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf" target="_blank" rel="noopener">https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Eleryc, Inc. is a venture-backed stealth climate-tech startup based in San Jose, California, developing low-energy electrochemical hydroxide-generation technology for direct air capture and industrial decarbonization. The company acquired a portfolio of electrochemical CO2/hydroxide patents from Arelac (dba Fortera), originally traceable to Calera Corporation. In 2025 Eleryc applied to Frontier Climate's summer prepurchase round and leased 45,000 sq ft of industrial space in San Jose to scale up its DAC demonstration.
+Eleryc, Inc. is a venture-backed, stealth-mode climate-tech startup based in San Jose, California that is developing low-energy electrochemical hydroxide-generation technology for direct air capture and industrial decarbonization. In October 2023 the company acquired a portfolio of electrochemical CO2/hydroxide patents from Arelac, Inc. (dba Fortera), originally filed by Calera Corporation. Eleryc applied to Frontier Climate's Summer 2025 prepurchase round as a CDR supplier.
 
 ![Eleryc website](/screenshots/eleryc.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://patents.justia.com/assignee/eleryc-inc))
 - **2026-04-19** — merged 1 duplicate(s): Geolocked
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BGeolocked%5D%20Frontier%202025%20Prepurchase%20Application%20vF.pdf))

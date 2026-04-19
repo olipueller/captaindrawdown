@@ -2,7 +2,7 @@
 title: "SeaO2"
 layout: "single"
 type: "directory"
-description: "SeaO2 is a Dutch TU Delft spin-off developing electrochemical Direct Ocean Capture (DOCC) technology that extracts CO2 from seawater using renewable"
+description: "Electrochemical Direct Ocean Capture (DOCC) that extracts CO2 from seawater using renewable electricity and vacuum, then stores it geologically or via mineralization."
 url: "/directory/seao2/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-SeaO2 is a Dutch TU Delft spin-off developing electrochemical Direct Ocean Capture (DOCC) technology that extracts CO2 from seawater using renewable electricity. The company validated its technology in the field in 2025 through a first pilot at the North Sea in the Netherlands and plans longer-term standalone operation in 2026 with a nameplate capacity to remove 25 tonnes of CO2 per year. In fall 2025 it launched DOCKER, a Dutch research collaboration under TKI Deltatechnologie with partners including Wageningen Marine Research, NIOZ, and the University of Exeter, to assess impacts and efficiency of scaled-up DOCC projects.
+SeaO2 is a Dutch TU Delft spin-off founded in 2021 offering direct ocean capture (DOC) technology for scalable carbon removal. Its containerised pilot 'Project Swell' has a 25 tCO2/year capacity at the Afsluitdijk in the Netherlands, following its 2023 Project Ripple proof-of-concept; a larger Project Breaker is planned for 2028 to deliver carbon credits commercially.
 
 ![SeaO2 website](/screenshots/seao2.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seao2.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seao2.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seao2.com))

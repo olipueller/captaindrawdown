@@ -2,33 +2,34 @@
 title: "Pull to Refresh"
 layout: "single"
 type: "directory"
-description: "Pull To Refresh Inc. is a San Francisco-based carbon removal startup founded in 2021 that originally qualified for the XPRIZE Carbon Removal competition with"
+description: "Pyrolysis of municipal/shredded waste into stable carbon char for soil storage, with co-produced energy supplied to cement industry."
 url: "/directory/pull-to-refresh/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
-  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pulltorefresh.earth/" target="_blank" rel="noopener">https://pulltorefresh.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pulltorefresh/" target="_blank" rel="noopener">pulltorefresh — 510 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Pull To Refresh Inc. is a San Francisco-based carbon removal startup founded in 2021 that originally qualified for the XPRIZE Carbon Removal competition with an autonomous solar-powered vessel concept to sink invasive seaweed in the deep sea. The company has since pivoted to a biomass-fueled process that transforms shredded garbage into carbon/hydrogen char for soil carbon storage while supplying energy to cement factories. Team size is small (11-50 employees on LinkedIn).
+Pull To Refresh Inc. is a San Francisco-based carbon removal startup founded in 2021 by CEO Arin Crumley. After initially pursuing an autonomous seaweed-sinking vessel concept as an XPRIZE Carbon Removal Top 100 (2024) honoree, the company pivoted to a biomass-fueled pyrolysis process that converts shredded municipal waste into carbon/hydrogen char for long-term soil carbon storage, with surplus energy aimed at cement-sector decarbonization.
 
 ![Pull to Refresh website](/screenshots/pull-to-refresh.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pulltorefresh.earth/how-it-works/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://pulltorefresh.earth/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://pulltorefresh.earth/))

@@ -2,7 +2,7 @@
 title: "Reverion"
 layout: "single"
 type: "directory"
-description: "Reverion is a German BECCS company spun out of the Technical University of Munich in 2022 that builds reversible solid oxide fuel cell power plants. Its"
+description: "Reverion builds reversible solid oxide fuel cell plants that convert biogas (methane + CO2) into electricity at 74% efficiency while producing a pure CO2 stream liquefied and permanently stored in"
 url: "/directory/reverion/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Reverion is a German BECCS company spun out of the Technical University of Munich in 2022 that builds reversible solid oxide fuel cell power plants. Its systems convert biogas (methane + CO2) into clean electricity at 74% efficiency while producing a pure CO2 stream that is liquefied and permanently stored in geological formations. In November 2025 it signed a $41M offtake with Frontier buyers (Google, Stripe, Shopify, H&M, McKinsey, and others) for 96,000 tons of permanent CO2 removal between 2027-2030.
+Reverion is a 2022 spin-off from the Technical University of Munich that has created a system that generates clean electricity and captures carbon from biogas at the same time. Its solid oxide fuel cell system receives methane and CO2 biogas from farmers' anaerobic digesters and converts the methane into electricity, with the pure CO2 stream byproduct liquefied and transported for permanent storage in geological formations. In November 2025, Reverion signed an offtake agreement with Frontier for 96,000 tonnes of CDR in a deal worth $41 million, with tonnes to be removed between 2027 and 2030.
 
 ![Reverion website](/screenshots/reverion.png)
 
@@ -32,6 +32,7 @@ Reverion is a German BECCS company spun out of the Technical University of Munic
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://reverion.com/en/reverion-and-frontier-advance-new-biogas-carbon-removal-pathway/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://reverion.com/en/reverion-and-frontier-advance-new-biogas-carbon-removal-pathway/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/frontier-buyers-sign-41m-offtake-agreement-with-reverion/))

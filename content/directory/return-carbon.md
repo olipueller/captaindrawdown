@@ -2,16 +2,16 @@
 title: "Return Carbon"
 layout: "single"
 type: "directory"
-description: "Return Carbon is a Dutch CDR project developer that integrates capture technology, transport and offshore storage to build DACCS and BECCS projects. It"
+description: "Project developer that integrates partner DAC/mineralization tech with CO2 ship transport and offshore North Sea / US Gulf geological storage to deliver DACCS and BECCS removal projects."
 url: "/directory/return-carbon/"
-pathway: "BECCS"
+pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
-  <tr><th>Pathway</th><td>BECCS</td></tr>
-  <tr><th>Secondary pathways</th><td>DAC, Mineralization</td></tr>
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS, Mineralization</td></tr>
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://returncarbon.nl/" target="_blank" rel="noopener">https://returncarbon.nl/</a></td></tr>
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Return Carbon is a Dutch CDR project developer that integrates capture technology, transport and offshore storage to build DACCS and BECCS projects. It partners with technology providers like Skytree (DAC) and Carbon8 (mineralization), storage investors like CapeOmega, and emitters such as RWE, and is involved in the NoordKaap cross-border CO2 shipping/storage project servicing RWE's Eemshaven biomass plant and a Texas-based DAC park with EDF Renewables targeting 500,000 t/yr.
+Return Carbon B.V. is a Dutch CDR project developer that integrates capture technology, CO2 transport and offshore geological storage to build DACCS, BECCS and mineralization projects. It partners with Skytree (DAC), Carbon8 (mineralization), CapeOmega (storage) and emitters such as RWE, and is involved in the NoordKaap cross-border CO2 shipping/storage project as well as large DAC developments in Texas with EDF Renewables and Greenalia.
 
 ![Return Carbon website](/screenshots/return-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://returncarbon.nl/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://returncarbon.nl/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://returncarbon.nl/))

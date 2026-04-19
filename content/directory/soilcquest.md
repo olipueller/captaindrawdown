@@ -2,10 +2,10 @@
 title: "SoilCQuest"
 layout: "single"
 type: "directory"
-description: "SoilCQuest 2031 is an Australian not-for-profit research institute founded in 2012 by Guy Webb, Mick Wettenhall and Mark Shortis to develop a microbial"
+description: "Non-profit researching agricultural soil carbon sequestration, including melanised endophytic fungal seed-inoculants that stabilise carbon in soils, plus farmer education on carbon farming."
 url: "/directory/soilcquest/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.soilcquest.org.au/" target="_blank" rel="noopener">https://www.soilcquest.org.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soilcquest/" target="_blank" rel="noopener">soilcquest — 1,359 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-SoilCQuest 2031 is an Australian not-for-profit research institute founded in 2012 by Guy Webb, Mick Wettenhall and Mark Shortis to develop a microbial inoculum from a carbon-capturing fungus discovered in soils. The melanised endophytic fungus sequesters long-lasting soil organic carbon around plant roots, and when inoculated onto crop roots via a seed dressing draws down atmospheric carbon at scale. They also run the ForGood Carbon research initiative and soil-carbon education/extension programs for Australian farmers.
+SoilCQuest 2031 is an Australian not-for-profit research institute founded in 2012 that researches soil carbon sequestration in agriculture, including microbial/fungal inoculants applied to crop seeds to draw down atmospheric carbon into agricultural soils. It spawned the for-profit Loam Bio in 2019 and remains Loam's largest shareholder, while continuing its own farmer-focused research, trials, and soil carbon education courses.
 
 ![SoilCQuest website](/screenshots/soilcquest.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.soilcquest.org.au/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟡 Moderate ([source](https://www.soilcquest.org.au/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.soilcquest.org.au/ ([source](https://www.cdr.fyi/supplier/soilcquest))

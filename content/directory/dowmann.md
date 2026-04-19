@@ -2,10 +2,10 @@
 title: "Dowmann"
 layout: "single"
 type: "directory"
-description: "Dowmann is an Irish carbon removal startup that breaks biomass down and separates it into several different products including biochar (a stable form of carbon"
+description: "Pyrolyzes waste plant biomass (forestry/landscaping residues) into biochar, bio-oil, and syngas-powered renewable electricity, with biochar as the durable carbon storage product."
 url: "/directory/dowmann/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://www.dowmann.com/" target="_blank" rel="noopener">https://www.dowmann.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dowmann/" target="_blank" rel="noopener">dowmann — 207 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Dowmann is an Irish carbon removal startup that breaks biomass down and separates it into several different products including biochar (a stable form of carbon storage used for soil improvement or as a concrete additive) and a renewable oil used in heavy industrial boilers. The company works with remove as a strategic partner and Puro.earth to verify their carbon removal efforts. The team is very lean — three full-time staff plus two remote workers, dispersed across Carlow, Dublin, and Cork.
+Dowmann is an Irish carbon removal company that transforms waste biomass into biochar, renewable fuel, and clean electricity via pyrolysis. It is a very lean startup with three full-time team members plus two remote workers, and is positioned to raise investment to establish its first production facility. It has used Puro.earth for carbon removal verification and participated in the EIT Climate-KIC Carbon Removal ClimAccelerator.
 
 ![Dowmann website](/screenshots/dowmann.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.dowmann.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.dowmann.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://climaccelerator.climate-kic.org/news/carbon-removal-climaccelerator-start-up-spotlight-downmann/))

@@ -2,7 +2,7 @@
 title: "AirMiners"
 layout: "single"
 type: "directory"
-description: "AirMiners is a community, education, and accelerator organization for the carbon dioxide removal sector. It runs the free BootUp learning cohort and the"
+description: "Nonprofit-style community, education (BootUp) and accelerator (Launchpad) platform supporting early-stage CDR founders across all pathways."
 url: "/directory/airminers/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

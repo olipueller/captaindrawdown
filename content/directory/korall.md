@@ -2,7 +2,7 @@
 title: "KORALL"
 layout: "single"
 type: "directory"
-description: "KORALL (Korall Carbon Capture AB) is a Gothenburg, Sweden-based DAC startup founded in 2023. It develops a liquid-solvent direct air capture technology whose"
+description: "Liquid-solvent Direct Air Capture with dynamically scalable power draw that ramps up when renewable electricity is cheap or in surplus, targeting mineralization storage or CO2 utilization for fuels."
 url: "/directory/korall/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-KORALL (Korall Carbon Capture AB) is a Gothenburg, Sweden-based DAC startup founded in 2023. It develops a liquid-solvent direct air capture technology whose power draw can dynamically scale with cheap/surplus renewable electricity, targeting both permanent geological mineralization and CO2 utilization for renewable fuels.
+KORALL is a Swedish DAC startup whose liquid Direct Air Carbon Capture plant dynamically scales its power consumption based on when energy is cheap or in surplus, turning grid overcapacity into carbon credits or feedstock for renewable fuels. The company uses a proprietary chemical blend to absorb CO₂ from ambient air, then either stores the carbon underground where it mineralizes in bedrock or uses it to make products. Based in Gothenburg, the company was selected into remove's Europe CDR Accelerator Cohort 8 in late 2025.
 
 ![KORALL website](/screenshots/korall.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.korall.cc/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.korall.cc/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.korall.cc/))

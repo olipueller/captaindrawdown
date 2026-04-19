@@ -2,7 +2,7 @@
 title: "Blue Flint Ethanol"
 layout: "single"
 type: "directory"
-description: "Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partners (HLCP) located near Underwood, North Dakota, that captures biogenic CO2 from"
+description: "Corn ethanol plant captures biogenic CO2 from fermentation, liquefies it, and injects it into a Class VI well in the Broom Creek formation for permanent geologic storage."
 url: "/directory/blue-flint-ethanol/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -16,18 +16,19 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/harvestonelcp/" target="_blank" rel="noopener">harvestonelcp — 1,388 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~42 (+11% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partners (HLCP) located near Underwood, North Dakota, that captures biogenic CO2 from corn ethanol fermentation and injects it into a Class VI well for permanent geologic storage. It was the first U.S. facility to begin CCS operations following the August 2022 Inflation Reduction Act, with over 125,000 metric tons sequestered as of September 2024 and a targeted capacity of ~200,000 tonnes/year.
+Blue Flint Ethanol is a corn ethanol biorefinery near Underwood, North Dakota, owned by Harvestone Low Carbon Partners, that added on-site carbon capture and sequestration to its existing fermentation operations. The facility began CO2 injection in October 2023 and was the first U.S. CCS project to operate under the Inflation Reduction Act, capturing roughly 600 metric tons of biogenic CO2 per day. Ethanol production remains the company's primary business, with CCS serving as an adjacent decarbonization add-on.
 
 ![Blue Flint Ethanol website](/screenshots/blue-flint-ethanol.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20240905948295/en/Harvestone-Low-Carbon-Partners-and-Bank-of-America-Close-205-Million-Carbon-Capture-and-Sequestration-Tax-Equity-Financing))
 - **2026-04-19** — merged 1 duplicate(s): Harvestone
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://harvestonelcp.com/))

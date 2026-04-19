@@ -2,7 +2,7 @@
 title: "Funga"
 layout: "single"
 type: "directory"
-description: "Funga is a US-based public benefit corporation that restores native mycorrhizal fungal communities to working forests (primarily loblolly pine plantations in"
+description: "Uses DNA sequencing and machine learning to select region-specific native mycorrhizal fungal communities and inoculate nursery seedlings, boosting pine forest growth and generating IFM carbon removal"
 url: "/directory/funga/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.funga.earth/" target="_blank" rel="noopener">https://www.funga.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/funga-pbc/" target="_blank" rel="noopener">funga-pbc — 10,453 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~38 (+52% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Funga is a US-based public benefit corporation that restores native mycorrhizal fungal communities to working forests (primarily loblolly pine plantations in the southeastern US) to accelerate tree growth and carbon drawdown. The company sells the additional carbon removal as credits; it secured a >500,000-ton carbon deal in November 2024 and scaled operations to approximately 25,000 acres by 2025.
+Funga is a US public benefit corporation that inoculates tree seedlings with native mycorrhizal fungal communities to accelerate growth and carbon sequestration in working forests, primarily southeastern loblolly pine plantations. It sells the resulting removals as Improved Forest Management credits via Verra's VM0045 protocol, and secured a 500,000+ ton offtake deal in November 2024.
 
 ![Funga website](/screenshots/funga.png)
 
@@ -33,6 +33,7 @@ Funga is a US-based public benefit corporation that restores native mycorrhizal 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.funga.earth/our-story))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.funga.earth/our-story))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.funga.earth/our-story))

@@ -2,7 +2,7 @@
 title: "CREW Carbon"
 layout: "single"
 type: "directory"
-description: "CREW Carbon is a US-based CDR supplier, founded in 2022 by Joachim Katchinoff and Noah Planavsky, that adds alkaline minerals (such as limestone) to municipal"
+description: "Engineered enhanced weathering deployed inside municipal wastewater treatment plants: dosing limestone to convert biogenic CO2 into dissolved bicarbonate that is discharged with treated effluent."
 url: "/directory/crew-carbon/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -25,7 +25,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-CREW Carbon is a US-based CDR supplier, founded in 2022 by Joachim Katchinoff and Noah Planavsky, that adds alkaline minerals (such as limestone) to municipal wastewater treatment tanks, converting biogenic CO2 into dissolved bicarbonate that is then discharged to rivers and oceans. In May 2025 the company delivered the world's first verified Wastewater Alkalinity Enhancement (WAE) credits — 104.4 tonnes certified by Isometric — as the first installment of a 71,878-tonne, $32.1M offtake agreement with Frontier running 2025–2030. Its flagship project is integrated into the East Shore Water Pollution Abatement Facility in New Haven, Connecticut.
+CREW Carbon is a US-based CDR startup founded in 2022 by Joachim Katchinoff and Noah Planavsky that doses wastewater treatment plants with calcium carbonate (limestone) to convert dissolved CO2 into stable bicarbonate ions that are discharged to rivers and oceans. In May 2025 the company delivered the first-ever verified Wastewater Alkalinity Enhancement credits (104.4 tonnes, certified by Isometric) to Frontier under a $32.1M, 71,878-tonne offtake agreement running through 2030. Operations are running in New Haven, Connecticut and expanding to additional US and European facilities.
 
 ![CREW Carbon website](/screenshots/crew-carbon.png)
 
@@ -36,6 +36,7 @@ CREW Carbon is a US-based CDR supplier, founded in 2022 by Joachim Katchinoff an
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://crewcarbon.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://crewcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://crewcarbon.com/))

@@ -2,10 +2,10 @@
 title: "Blue Planet"
 layout: "single"
 type: "directory"
-description: "Blue Planet Systems focuses on carbon capture technology within the construction materials industry. The company has a mineralization process that captures and"
+description: "Captures CO2 from flue gas or other sources and mineralizes it with calcium from waste streams (steel slag, cement kiln dust, recycled concrete) into synthetic limestone aggregate for concrete."
 url: "/directory/blue-planet/"
 pathway: "Mineralization"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.blueplanetsystems.com/" target="_blank" rel="noopener">https://www.blueplanetsystems.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blueplanet-ltd/" target="_blank" rel="noopener">blueplanet-ltd — 3,514 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~62</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Blue Planet Systems focuses on carbon capture technology within the construction materials industry. The company has a mineralization process that captures and sequesters CO2, converting it into synthetic limestone aggregate for use in building materials. These products aim to lower the carbon footprint of concrete and address global CO2 emissions. It was founded in 2013 and is based in Los Gatos, California. The company recently executed a Master Service Contract with Hargrove Engineers & Constructors to advance commercial production facility design and commissioning, as its Geomimetic mineralization approach sequesters and permanently stores CO2 in synthetic limestone.
+Blue Planet Systems is a Silicon Valley-based carbon capture and mineralization company founded in 2013. Its patented Geomimetic® process converts captured CO2 into synthetic limestone aggregate for use in concrete, permanently sequestering carbon in the built environment. The company operates a demonstration plant in Pittsburg, California and is scaling up commercial production.
 
 ![Blue Planet website](/screenshots/blue-planet.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.blueplanetsystems.com/news))
 - **2026-04-19** — merged 1 duplicate(s): Blue Planet Systems
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -2,7 +2,7 @@
 title: "Submarine Scientific"
 layout: "single"
 type: "directory"
-description: "Submarine Scientific (now branded as \"Submarine\") is a marine consulting firm providing scientific and technical advisory to ocean industries, including marine"
+description: "Marine science consultancy providing MRV, modeling, and environmental monitoring expertise to mCDR developers (notably ocean alkalinity enhancement) and other ocean technology sectors."
 url: "/directory/submarine-scientific/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

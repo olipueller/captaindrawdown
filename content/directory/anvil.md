@@ -2,7 +2,7 @@
 title: "Anvil"
 layout: "single"
 type: "directory"
-description: "Anvil Capture Systems is a US-based (Somerville, MA) carbon dioxide removal startup developing direct-air mineralization using alkaline-bearing ores in a"
+description: "Direct air mineralization using alkaline-bearing ores in a proprietary low-energy reactor to form durable solid carbonates stored on-site."
 url: "/directory/anvil/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Anvil Capture Systems is a US-based (Somerville, MA) carbon dioxide removal startup developing direct-air mineralization using alkaline-bearing ores in a proprietary low-energy reactor. The company received a Frontier prepurchase in Fall 2024 (~$500K) and was named a MassCEC climatetech grant awardee in 2025, and is a Greentown Labs member.
+Anvil Capture Systems is a CDR company focused on developing and scaling the CO2 mineralization reaction with alkaline-bearing ores, utilizing a proprietary low-energy reactor and feedstock preparation system. The Somerville, MA-based startup is a Greentown Labs member, received a Frontier prepurchase in Fall 2024, and was named an awardee of a Massachusetts state climate-tech grant program in 2025.
 
 ![Anvil website](/screenshots/anvil.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/fall-2024-prepurchases))
 - **2026-04-19** — merged 1 duplicate(s): Anvil Capture Systems
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.anvilcarbon.com/))

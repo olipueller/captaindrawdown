@@ -2,10 +2,10 @@
 title: "Made of Air"
 layout: "single"
 type: "directory"
-description: "Made of Air is a Berlin-based carbon-negative materials company founded in 2016 that converts wood-waste biochar into thermoplastic granules and composites for"
+description: "Pyrolyzes wood and agricultural waste into biochar, then compounds the biochar with bioplastic binders to produce injection-moldable thermoplastic granules used in long-lived products (facade panels,"
 url: "/directory/made-of-air/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.madeofair.com/" target="_blank" rel="noopener">https://www.madeofair.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/made-of-air/" target="_blank" rel="noopener">made-of-air — 6,051 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~13 (-19% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Made of Air is a Berlin-based carbon-negative materials company founded in 2016 that converts wood-waste biochar into thermoplastic granules and composites for durable applications in building facades, automotive, and consumer goods. Notable deployments include an Audi dealership cladding in Munich and a limited-edition H&M sunglasses line. The company positions its biochar-filled materials as engineered carbon sinks that permanently lock biogenic carbon in long-lived products.
+Made of Air is a Berlin-based carbon-negative materials company, founded in 2016 by architects Allison Dring and Daniel Schwaag, that converts forestry and agricultural waste into biochar and combines it with bioplastic binders to create thermoplastic granules. The material is used in durable applications including building facade cladding (notably an Audi dealership in Munich), automotive parts, and consumer goods such as an H&M sunglasses line. The company operates an R&D facility ("Carbon Lab") in Berlin and has been selected for WEF Technology Pioneers 2024 and Kickstart Innovation 2024.
 
 ![Made of Air website](/screenshots/made-of-air.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.madeofair.com/blog))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.madeofair.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.materially.eu/en/made-of-air-2/))

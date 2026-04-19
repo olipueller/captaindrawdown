@@ -2,7 +2,7 @@
 title: "Puro"
 layout: "single"
 type: "directory"
-description: "Puro.earth is a Finland-based carbon removal standard and registry, majority-owned by Nasdaq since 2021, that certifies engineered CDR suppliers (biochar,"
+description: "Operates the Puro Standard methodology framework and Puro Registry that certify and track engineered CDR projects, issuing tradable CORC credits purchased and retired by corporate buyers."
 url: "/directory/puro/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

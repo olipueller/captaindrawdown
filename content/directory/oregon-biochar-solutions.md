@@ -2,7 +2,7 @@
 title: "Oregon Biochar Solutions"
 layout: "single"
 type: "directory"
-description: "Oregon Biochar Solutions (OBS), based in White City, Oregon, operates an industrial-scale pyrolysis facility producing Rogue Biochar from Douglas fir and pine"
+description: "Operates an industrial-scale pyrolysis facility in White City, Oregon, producing Rogue Biochar from Pacific Northwest wood/logging residuals, sold as a soil amendment and generating Puro.earth"
 url: "/directory/oregon-biochar-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,14 +14,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.chardirect.com/" target="_blank" rel="noopener">https://www.chardirect.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oregon-biochar-solutions/" target="_blank" rel="noopener">oregon-biochar-solutions — 707 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Oregon Biochar Solutions (OBS), based in White City, Oregon, operates an industrial-scale pyrolysis facility producing Rogue Biochar from Douglas fir and pine logging/mill residues at roughly 45,000 cubic yards per year. The company is a registered Puro.earth biochar CORC supplier and partnered with Oka to issue the first invalidation-insured biochar credits in 2024.
+Oregon Biochar Solutions (OBS) is a biochar producer that was the first CDR project in the Americas to transact credits in 2021 and the first industrial-scale project in America certified under the Puro.earth standard. The company produces biochar at industrial volume, 24 hours a day, 7 days a week, 10 months per year, to meet demand from large consumers. In March 2024, OBS partnered with Oka, The Carbon Insurance Company, to bring world-first invalidation-insured biochar credits to the voluntary carbon market.
 
 ![Oregon Biochar Solutions website](/screenshots/oregon-biochar-solutions.png)
 
@@ -31,6 +31,7 @@ Oregon Biochar Solutions (OBS), based in White City, Oregon, operates an industr
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.chardirect.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.chardirect.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/projects/753518))

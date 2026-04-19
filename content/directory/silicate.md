@@ -2,7 +2,7 @@
 title: "Silicate"
 layout: "single"
 type: "directory"
-description: "Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD in Dublin (founded 2021 in County Sligo by Maurice Bryson), with field"
+description: "Mills waste returned concrete (and limestone) and spreads it on farmland as a soil pH amendment; CO2 is captured as dissolved bicarbonate verified via in-situ soil-water measurement and hydrological"
 url: "/directory/silicate/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD in Dublin (founded 2021 in County Sligo by Maurice Bryson), with field operations in Illinois, USA. The company mills waste/returned concrete and limestone and applies it to farmland, measuring durable CO2 removal as dissolved bicarbonate while optimizing soil pH for farmers. It sells removal credits (buyers include Klarna, Milkywire and Carbonfuture) and was a top-20 XPRIZE Carbon Removal finalist.
+Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD in Dublin, founded 2021 in County Sligo by Maurice Bryson with science lead Prof Frank McDermott (UCD). The company mills waste returned concrete and limestone and applies it to farmland, measuring permanent CO2 removal as dissolved bicarbonate while optimising soil pH for agronomic benefits. Customers include Klarna, Milkywire and Carbonfuture; field operations span Ireland and the US Midwest (Illinois).
 
 ![Silicate website](/screenshots/silicate.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.silicatecarbon.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.silicatecarbon.com/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.silicatecarbon.com/))

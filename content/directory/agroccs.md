@@ -2,7 +2,7 @@
 title: "AgroCCS"
 layout: "single"
 type: "directory"
-description: "AgroCCS B.V. is a Dutch-registered biochar project developer operating in the Varanasi region of Uttar Pradesh, India, where agricultural waste is pyrolyzed"
+description: "Pyrolyzes agricultural residues (rice husk/straw) into biochar using Beston pyrolysis units, then applies biochar as soil amendment on smallholder farmland across India and other Global South"
 url: "/directory/agroccs/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-AgroCCS B.V. is a Dutch-registered biochar project developer operating in the Varanasi region of Uttar Pradesh, India, where agricultural waste is pyrolyzed into biochar and applied to farmland. The project is financed through the sale of carbon removal credits issued under the Puro.Earth standard, and the company is currently offering pre-orders to early buyers.
+AgroCCS B.V. is a Dutch biochar project developer running pyrolysis-based carbon removal projects in the Global South, starting with Varanasi, Uttar Pradesh, India, with additional sites listed in Kenya, Guinea, Burundi, Uzbekistan, and Chandauli. The company sells CO2 removal credits under the Puro.earth standard and is currently pre-selling CORCs to early buyers while the Varanasi project remains in early development.
 
 ![AgroCCS website](/screenshots/agroccs.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://agroccs.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.linkedin.com/posts/agro-ccs_agroccs-carbonremoval-biochar-activity-7307710950319550465-f8pS))

@@ -2,7 +2,7 @@
 title: "ecoX"
 layout: "single"
 type: "directory"
-description: "ecoX, LLC is a US-based early-stage biochar project developer listed on Puro.earth as a future supplier (ecoX-1) with a planned pyrolysis facility in Namibia."
+description: "Early-stage biochar project developer planning a pyrolysis facility in Namibia, paired with community development and rewilding, listed as a future supplier on Puro.earth."
 url: "/directory/ecox/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
@@ -14,20 +14,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://eco-x.com/" target="_blank" rel="noopener">https://eco-x.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco-x-llc/" target="_blank" rel="noopener">eco-x-llc — 41 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-ecoX, LLC is a US-based early-stage biochar project developer listed on Puro.earth as a future supplier (ecoX-1) with a planned pyrolysis facility in Namibia. As of the most recent registry snapshot the project remains in feasibility/early-development stage with 0 CORCs issued, and the company appears to be a very small pre-operational venture.
+ecoX, LLC is a US-based pure-play biochar project developer whose mission is to produce durable CDR credits while pairing biochar production with community development ("Poverty Eradication Franchise") and African Savanna rewilding. The company is listed on Puro.earth as future supplier ecoX-1 with a planned Namibia facility, currently in feasibility/early development with 0 CORCs issued.
 
 ![ecoX website](/screenshots/ecox.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://eco-x.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/ecox-1-169))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://eco-x.com/))

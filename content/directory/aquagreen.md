@@ -2,10 +2,10 @@
 title: "AquaGreen"
 layout: "single"
 type: "directory"
-description: "AquaGreen is a Danish cleantech company that has developed a patented integrated steam-drying and pyrolysis solution treating wet biomass, initially focused on"
+description: "Integrated superheated-steam drying plus pyrolysis at 650°C that converts wet sewage sludge into stable biochar, excess thermal energy, and carbon removal credits."
 url: "/directory/aquagreen/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://aquagreen.dk/" target="_blank" rel="noopener">https://aquagreen.dk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aquagreenaps/" target="_blank" rel="noopener">aquagreenaps — 4,232 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~47 (-6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-AquaGreen is a Danish cleantech company that has developed a patented integrated steam-drying and pyrolysis solution treating wet biomass, initially focused on municipal wastewater sludge. Its fully automated facilities create revenue through biochar sales, carbon removal credits and excess heat, with each HECLA® Setores 1,000 plant storing 500 tonnes of carbon in biochar annually. In 2024 Marubeni Corporation acquired shares in AquaGreen Holding ApS through a third-party allotment.
+AquaGreen is a Danish cleantech company that develops and sells HECLA® integrated steam-drying and pyrolysis systems, primarily for municipal wastewater sludge, producing biochar, renewable thermal energy, and carbon removal credits. The company has raised ~DKK 60M from Marubeni, Nordic Alpha Partners and others, has commercial plants operating in Denmark and Sweden, and signed a 2025 MoU with Alfa Laval for joint market development.
 
 ![AquaGreen website](/screenshots/aquagreen.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://aquagreen.dk/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://aquagreen.dk/))

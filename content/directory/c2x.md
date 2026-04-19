@@ -2,10 +2,10 @@
 title: "C2X"
 layout: "single"
 type: "directory"
-description: "C2X is a green molecules company established in 2022/2023, majority-owned by the A.P. Moller Group with ENEOS as a minority shareholder, that develops and"
+description: "Biomass gasification (SunGas S-1000) of forestry residues to produce bio-methanol, with surplus biogenic CO2 captured and permanently stored geologically."
 url: "/directory/c2x/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,21 +14,22 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
-  <tr><th>Website</th><td><a href="https://c2xsolutions.com/" target="_blank" rel="noopener">https://c2xsolutions.com/</a></td></tr>
+  <tr><th>Website</th><td><a href="https://www.c2xglobal.com/" target="_blank" rel="noopener">https://www.c2xglobal.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/c2x-solutions-llc/" target="_blank" rel="noopener">c2x-solutions-llc</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-C2X is a green molecules company established in 2022/2023, majority-owned by the A.P. Moller Group with ENEOS as a minority shareholder, that develops and operates green methanol production facilities. Its Beaver Lake Biofuels project in Louisiana will convert forestry residues into bio-methanol via SunGas gasifiers while permanently storing biogenic CO2 in geological formations, generating CDR credits. The project signed a landmark 3.6 Mt offtake agreement with Microsoft over 12 years, with operations targeted for 2029.
+C2X is a green methanol project developer majority-owned by A.P. Moller Holding with Maersk and ENEOS as shareholders, headquartered in London. Its flagship Beaver Lake Renewable Energy project in Louisiana (with SunGas Renewables) will convert forestry residues into ~500,000 tonnes/year of bio-methanol for shipping and aviation, while capturing and geologically sequestering ~1 million tonnes/year of surplus biogenic CO2 to generate CDR credits as a co-product.
 
 ![C2X website](/screenshots/c2x.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.c2xglobal.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://c2xsolutions.com/))

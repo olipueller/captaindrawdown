@@ -2,10 +2,10 @@
 title: "Biochar Energy Sustainable Technologies"
 layout: "single"
 type: "directory"
-description: "Biochar Energy Sustainable Technologies (BEST) is a biochar producer that converts biomass into biochar via pyrolysis, marketing proprietary products branded"
+description: "Converts biomass into biochar via pyrolysis, branding proprietary OptiBiomass and Pyroltix/Pyrolytix AI products, and sells certified carbon credits."
 url: "/directory/biochar-energy-sustainable-technologies/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.biocharfarmer.com/" target="_blank" rel="noopener">https://www.biocharfarmer.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocharfarmer/" target="_blank" rel="noopener">biocharfarmer</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Biochar Energy Sustainable Technologies (BEST) is a biochar producer that converts biomass into biochar via pyrolysis, marketing proprietary products branded OptiBiomass and Pyroltix alongside certified carbon credits. The company operates under the biocharfarmer.com domain and positions itself toward both soil/agriculture markets and the voluntary carbon removal market.
+Biochar Energy Sustainable Technologies (BEST) is a US-based biochar producer that uses pyrolysis to convert biomass into biochar, marketed under the OptiBiomass and Pyroltix/Pyrolytix AI brands. The company positions itself around biomass-to-biochar pyrolysis and the market for high-quality biochar and certified carbon credits. It is a small-team operation (around 3 employees per LinkedIn) targeting both soil/agriculture and voluntary CDR markets.
 
 ![Biochar Energy Sustainable Technologies website](/screenshots/biochar-energy-sustainable-technologies.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.biocharfarmer.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.biocharfarmer.com/))

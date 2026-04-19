@@ -2,10 +2,10 @@
 title: "Carbon Instead"
 layout: "single"
 type: "directory"
-description: "Carbon Instead, founded in Berlin in 2020 by Julia Roth and Joanna Fatorelli, operates as a manufacturer of decarbonized construction materials, aiming to"
+description: "Biochar-based carbon storage solutions (pyrolysis of biomass into stable carbon), with apparent interest in construction-material applications per sector context."
 url: "/directory/carbon-instead/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carboninstead.de/" target="_blank" rel="noopener">https://carboninstead.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-instead/" target="_blank" rel="noopener">carbon-instead</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbon Instead, founded in Berlin in 2020 by Julia Roth and Joanna Fatorelli, operates as a manufacturer of decarbonized construction materials, aiming to reduce the carbon footprint of these materials by transforming them into long-term carbon stores. Their primary product is a biochar-based additive for concrete and mortar, produced through pyrolysis of biogenic waste, which partially or fully replaces carbon-intensive components like cement and sand. The company is small (~3 employees) and operates across biomass sourcing, carbonization technology and end-use formulation.
+Carbon Instead (Carbon Instead Solutions GmbH) is a Germany-based small company positioning itself around biochar-based carbon storage solutions. Their website (carboninstead.de) is live and the business appears focused on carbon removal via biochar, though public signals about project deliveries or registry issuances are limited.
 
 ![Carbon Instead website](/screenshots/carbon-instead.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carboninstead.de/de/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carboninstead.de/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carboninstead.de/))

@@ -2,7 +2,7 @@
 title: "Vaulted Deep"
 layout: "single"
 type: "directory"
-description: "Vaulted Deep is a Houston-based waste management company that turns excess organic material into permanent carbon removal by storing organic waste containing"
+description: "Slurry injection of organic waste (biosolids, manure, paper sludge, agricultural residues) into deep geologic formations via oil-and-gas-derived deep well injection technology."
 url: "/directory/vaulted-deep/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Vaulted Deep is a Houston-based waste management company that turns excess organic material into permanent carbon removal by storing organic waste containing atmospheric CO₂ deep underground. In 2025 it expanded operating capacity, delivered more than 23,000 tonnes of verified CO₂ removal, and secured long-term agreements including a 4.9 million tonne offtake with Microsoft and a 50,000 tonne commitment from Google. The company's methodology is certified by carbon registry Isometric for over 1,000 years of durability.
+Vaulted Deep is a Houston-based carbon removal company that injects organic waste (biosolids, manure, paper sludge, food and agricultural residues) deep underground using slurry injection technology for permanent storage. In 2025 it delivered over 23,000 tonnes of verified CO₂ removal and signed major offtake agreements with Microsoft (4.9 million tonnes through 2038) and Google (50,000 tonnes by 2030). The company was spun out of Advantek Waste Management in 2023 and operates its Great Plains Facility in Hutchinson, Kansas.
 
 ![Vaulted Deep website](/screenshots/vaulted-deep.png)
 
@@ -34,6 +34,7 @@ Vaulted Deep is a Houston-based waste management company that turns excess organ
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://vaulteddeep.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://vaulteddeep.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://vaulteddeep.com/))

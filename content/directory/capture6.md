@@ -2,7 +2,7 @@
 title: "Capture6"
 layout: "single"
 type: "directory"
-description: "Capture6 is a US-based direct air capture supplier that integrates CO2 removal with desalination and water treatment infrastructure, using waste brine to"
+description: "Converts desalination/industrial waste brine into a solvent that captures CO2 from air and mineralizes it, while recovering freshwater as a co-benefit."
 url: "/directory/capture6/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Capture6 is a US-based direct air capture supplier that integrates CO2 removal with desalination and water treatment infrastructure, using waste brine to generate a solvent that captures atmospheric CO2 while recovering freshwater and green chemicals. Active projects include Project Wallaby in Western Australia (with Pilot Energy), Project Monarch in Los Angeles County (with Palmdale Water District), and a partnership with K-Water in South Korea. In March 2025 the company raised $27.5M in Series A funding led by Tetrad Corp., and in July 2025 partnered with Isometric to issue DAC credits.
+Capture6 is a California- and New Zealand-based direct air capture supplier that integrates CO2 removal with water treatment infrastructure, using waste brine to generate a solvent that captures atmospheric CO2 while recovering freshwater. Active projects include Project Wallaby (Australia, with Pilot Energy), Project Monarch (Palmdale Water District, California), and Project Octopus (South Korea).
 
 ![Capture6 website](/screenshots/capture6.png)
 
@@ -32,6 +32,7 @@ Capture6 is a US-based direct air capture supplier that integrates CO2 removal w
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://capture6.com/news/capture6-completes-27-5-million-series-a-and-project-funding-round/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/capture6-teams-up-with-isometric-to-issue-dac-carbon-credits/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/capture6-teams-up-with-isometric-to-issue-dac-carbon-credits/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))

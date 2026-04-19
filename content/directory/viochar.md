@@ -2,7 +2,7 @@
 title: "Viochar"
 layout: "single"
 type: "directory"
-description: "Viochar is a Danish biochar startup producing biochar via pyrolysis for carbon removal and soil amendment. In August 2025 it entered a strategic partnership"
+description: "Pyrolysis of biomass into biochar for carbon sequestration and soil amendment in Denmark."
 url: "/directory/viochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -28,6 +28,7 @@ Viochar is a Danish biochar startup producing biochar via pyrolysis for carbon r
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://viochar.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://viochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://viochar.com/))

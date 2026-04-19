@@ -2,7 +2,7 @@
 title: "Three Mountains Cocoa"
 layout: "single"
 type: "directory"
-description: "Three Mountains Cocoa is a Ghanaian organic cocoa cooperative whose biochar project with Terraton is expected to remove more than 20,000 tons of CO2 annually"
+description: "Cocoa cooperative hosting a Terraton-operated biochar facility that pyrolyzes cocoa/agricultural waste into stable carbon for soil amendment and CORC-issued carbon removal credits."
 url: "/directory/three-mountains-cocoa/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Ghana</td></tr>
   <tr><th>Website</th><td><a href="https://threemountainscocoa.com" target="_blank" rel="noopener">https://threemountainscocoa.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/three-mountains-cocoa/" target="_blank" rel="noopener">three-mountains-cocoa — 3,604 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
   <tr><th>Employees</th><td>~6 (0% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Three Mountains Cocoa is a Ghanaian organic cocoa cooperative whose biochar project with Terraton is expected to remove more than 20,000 tons of CO2 annually (alongside Terraton's Kenya project), channeling new income to smallholder farmers through waste payments and improved soils. The project has preliminary approval from Puro.earth, and nonprofit climate fund Terraset has committed to a six-figure carbon credit pre-purchase from Three Mountains Cocoa. Puro.earth lists the facility as in early development with feasibility study ongoing, and notes it is fully funded and being implemented.
+Three Mountains Cocoa is a Ghanaian organic cocoa cooperative producing beans from smallholder farmers near the Mirisa Hills forest reserve. In partnership with biochar platform Terraton, the cooperative is hosting a biochar facility that converts cocoa waste into stable carbon, with preliminary Puro.earth approval and a six-figure pre-purchase from Terraset. Cocoa remains the core business; biochar is an adjacent revenue stream enabled by Terraton's financing and technology.
 
 ![Three Mountains Cocoa website](/screenshots/three-mountains-cocoa.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://carbonherald.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-africa/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-africa/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://threemountainscocoa.com/))

@@ -2,10 +2,10 @@
 title: "CO2 Energie"
 layout: "single"
 type: "directory"
-description: "CO2 Energie AG is a Swiss joint venture between Regionalwerke AG Baden (RWB) and Recycling Energie AG, founded in 2021 to capture and liquefy biogenic CO2 from"
+description: "Captures and liquefies biogenic CO2 from biogas upgrading plants in Switzerland; most output currently sold as industrial CO2 (CCU), with a new Niederwil plant planned for 2026 targeting permanent"
 url: "/directory/co2-energie/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.co2-energie.ch/" target="_blank" rel="noopener">https://www.co2-energie.ch/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-CO2 Energie AG is a Swiss joint venture between Regionalwerke AG Baden (RWB) and Recycling Energie AG, founded in 2021 to capture and liquefy biogenic CO2 from biogas upgrading. Its first plant in Nesselnbach was commissioned in April 2023 and captures up to 3,000 tonnes per year, with the CO2 sold via Messer Schweiz for industrial use. A second combined biogas-upgrading and CO2-capture plant is under construction in Niederwil with commissioning planned for spring 2026; this new facility is designed to produce net negative emissions by routing the captured CO2 to mineral storage where it turns into stone.
+CO2 Energie AG is a Swiss joint-venture subsidiary of Regionalwerke AG Baden (RWB) and Recycling Energie AG, founded in 2020/2021 to operate CO2 capture and liquefaction at their biogas upgrading sites. Its first Nesselnbach plant (commissioned April 2023) captures ~3,000 t/yr of biogenic CO2, with output sold to Messer Schweiz for industrial use; a third combined biogas/CO2 plant in Niederwil is under construction with 2026 commissioning and is intended to deliver negative emissions via permanent CO2 storage.
 
 ![CO2 Energie website](/screenshots/co2-energie.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.regionalwerke.ch/dritte-biogas-anlage-niederwil))
 - **2026-04-19** — merged 1 duplicate(s): CO₂ Energie | Regionalwerke AG Baden
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=review_needed liveliness=🟡 Moderate ([source](https://www.co2-energie.ch/))

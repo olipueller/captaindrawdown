@@ -2,7 +2,7 @@
 title: "Seqana"
 layout: "single"
 type: "directory"
-description: "Seqana is a Berlin-based B2B startup providing satellite and machine-learning-based monitoring, reporting and verification (MRV) tools for soil organic carbon"
+description: "Satellite remote sensing plus machine learning on a proprietary soil sample database to build SOC maps, sampling designs, and MRV documentation for soil carbon projects."
 url: "/directory/seqana/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

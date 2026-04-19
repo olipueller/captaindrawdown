@@ -2,7 +2,7 @@
 title: "Counteract"
 layout: "single"
 type: "directory"
-description: "Counteract is a London-based venture capital fund dedicated exclusively to carbon dioxide removal (CDR) startups. Its inaugural Counteract One fund targeted"
+description: "Specialist venture capital fund providing pre-seed and seed stage financing to early-stage carbon removal startups across all CDR pathways."
 url: "/directory/counteract/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,7 +2,7 @@
 title: "CO2T, LLC (DBA CO2Trust)"
 layout: "single"
 type: "directory"
-description: "CO2Trust (CO2T, LLC) is an Oregon-based carbon credit marketplace platform that enables buying, selling, trading, bridging and retirement of carbon credits,"
+description: "Blockchain-based carbon credit marketplace/bridging platform that tokenizes and trades third-party issued carbon credits (including Puro.earth biochar wCORCs)."
 url: "/directory/co2t-llc-dba-co2trust/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

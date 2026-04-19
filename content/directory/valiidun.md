@@ -2,10 +2,10 @@
 title: "Valiidun"
 layout: "single"
 type: "directory"
-description: "Valiidun is a Lexington, Kentucky-based direct air capture startup founded in 2022 by Seth Norat, aiming to develop large-scale DAC facilities powered by"
+description: "Project developer planning to deploy third-party direct air capture technology at large scale with renewable power, targeting Appalachian sites."
 url: "/directory/valiidun/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://valiidun.com/" target="_blank" rel="noopener">https://valiidun.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/valiidun/" target="_blank" rel="noopener">valiidun</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 20/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Valiidun is a Lexington, Kentucky-based direct air capture startup founded in 2022 by Seth Norat, aiming to develop large-scale DAC facilities powered by renewable energy using proven third-party capture technology. The company closed an angel round and hired a Chief Strategy Officer in 2022, but has shown no public activity, funding, or site announcements since then, with PitchBook listing only two employees.
+Valiidun is a Lexington, Kentucky-based direct air capture startup founded in 2022 by Seth Norat, with plans to develop large-scale DAC facilities powered by renewable energy using third-party capture technology. The company announced an angel round and hired a Chief Strategy Officer in August 2022 but has made no public announcements, funding disclosures, or site selections since. PitchBook lists only 2 employees and the company website's most recent content remains the 2022 launch press release.
 
 ![Valiidun website](/screenshots/valiidun.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://valiidun.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🔴 Likely Dead ([source](https://valiidun.com/))

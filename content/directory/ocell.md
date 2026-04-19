@@ -2,10 +2,10 @@
 title: "Ocell"
 layout: "single"
 type: "directory"
-description: "OCELL is a Munich-based climate-tech startup that develops improved forest management (IFM) carbon projects in European forests, using aerial photography and"
+description: "Develops improved forest management (IFM) carbon projects in European forests using aerial imagery and AI to create forest digital twins and run MRV for carbon credits."
 url: "/directory/ocell/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ocell.io/" target="_blank" rel="noopener">https://www.ocell.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocell-aero/" target="_blank" rel="noopener">ocell-aero — 7,569 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~50 (-18% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-OCELL is a Munich-based climate-tech startup that develops improved forest management (IFM) carbon projects in European forests, using aerial photography and AI-driven MRV (their "Dynamic Forest" platform). They partner with forest owners to transition monocultures to climate-resilient mixed forests and issue carbon credits under the Wald-Klimastandard (WKS).
+OCELL is a Munich-based climate-tech startup that develops IFM carbon projects and operates the Dynamic Forest software platform, creating AI-driven digital twins of forests for forestry management and carbon MRV. The company partners with forest owners to transition monocultures to climate-resilient mixed forests and issues carbon credits. In January 2025 it raised a €10M Series A led by Capnamic, and its software manages over 800,000 hectares across eleven countries.
 
 ![Ocell website](/screenshots/ocell.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.ocell.io/carbon?lang=en))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.ocell.io/en-us))

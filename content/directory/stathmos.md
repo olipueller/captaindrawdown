@@ -2,10 +2,10 @@
 title: "Stathmos"
 layout: "single"
 type: "directory"
-description: "Stathmos is a French DAC startup founded in 2023 by Dr. Amandine Cadiau and headquartered in Le Mans. Its modular \"Statbox\" units use proprietary solid sorbent"
+description: "Develops MOF-based solid sorbent Direct Air Capture in modular container-sized \"Statbox\" units designed to capture ~1,000 tCO2/year each, with geological storage or reuse as end-points, and"
 url: "/directory/stathmos/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://stathmos.earth/" target="_blank" rel="noopener">https://stathmos.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stathmos-balance-the-climate/" target="_blank" rel="noopener">stathmos-balance-the-climate</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~1 (-75% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Stathmos is a French DAC startup founded in 2023 by Dr. Amandine Cadiau and headquartered in Le Mans. Its modular "Statbox" units use proprietary solid sorbent materials to capture CO2 from ambient air (with co-production of water), targeting up to 1,000 tonnes CO2/year per unit for geological storage or industrial reuse.
+Stathmos is a French DAC startup founded in 2023 in Le Mans by Dr. Amandine Cadiau, spun out of academic research on amine-free MOF sorbents. Its modular Statbox units aim to capture up to 1,000 tonnes of CO2 per year each, with a first module targeted for 2026 and a 2.5 Mt/year ambition by 2030.
 
 ![Stathmos website](/screenshots/stathmos.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://stathmos.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/stathmos/__wuTY1uaXRBSwNi_qZvZFpDTqy4NtXGRpMmDA))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://stathmos.earth/))

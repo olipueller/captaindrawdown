@@ -2,10 +2,10 @@
 title: "Alcom Carbon Markets"
 layout: "single"
 type: "directory"
-description: "Alcom Carbon Markets (ACM) is a Singapore-based climate-tech company that develops biochar carbon removal projects, operating rice-husk gasifier/biochar plants"
+description: "Operates rice-husk pyrolysis/gasification plants in the Philippines producing biochar (plus heat and syngas) and issues Puro.earth-certified CDR credits."
 url: "/directory/alcom-carbon-markets/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,14 +16,14 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://alcomcm.com" target="_blank" rel="noopener">https://alcomcm.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alcom-pte-ltd/" target="_blank" rel="noopener">alcom-pte-ltd — 1,705 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~27</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Alcom Carbon Markets (ACM) is a Singapore-based climate-tech company that develops biochar carbon removal projects, operating rice-husk gasifier/biochar plants in the Philippines and generating Puro.earth-certified CDR credits. It is the carbon project development arm of Alcom, an energy/biofuels trading firm, and also develops biofuel-based carbon reduction methodologies with Gold Standard.
+Alcom Carbon Markets (ACM) is a Singapore-based climate-tech project developer that operates rice-husk gasifier/biochar facilities in the Philippines, including the NuevaChar plant which is Puro.earth-certified. It is the carbon project development arm of Alcom Pte Ltd (an energy/biofuels trader) and produces biochar CDR credits plus biofuel-based reduction credits under a Gold Standard methodology.
 
 ![Alcom Carbon Markets website](/screenshots/alcom-carbon-markets.png)
 
@@ -34,6 +34,7 @@ Alcom Carbon Markets (ACM) is a Singapore-based climate-tech company that develo
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://alcomcm.com/project/nuevachar/))
 - **2026-04-19** — merged 1 duplicate(s): Alcom
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://cleantechnica.com/2026/02/09/altitude-partners-with-alcom-for-360-000t-carbon-removals/))

@@ -2,7 +2,7 @@
 title: "Lithos"
 layout: "single"
 type: "directory"
-description: "Lithos Carbon is a San Francisco-based CDR supplier scaling Enhanced Rock Weathering by applying crushed basalt rock dust to US farmland, permanently removing"
+description: "Applies crushed basalt rock dust (quarry byproduct) to US farmland, using ML-driven soil sampling and monitoring to quantify CO2 captured as bicarbonate."
 url: "/directory/lithos/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Lithos Carbon is a San Francisco-based CDR supplier scaling Enhanced Rock Weathering by applying crushed basalt rock dust to US farmland, permanently removing CO2 while improving soil health and crop yields. The company has signed major offtakes including a $57.1M/154,240-ton agreement with Frontier and a multi-year deal with Microsoft, and in December 2025 it delivered 5,160 registry-certified tons—the largest ERW issuance to date.
+Lithos Carbon is a San Francisco-based pure-play CDR supplier using Enhanced Rock Weathering by applying crushed basalt rock dust to US farmland to permanently remove CO2 while improving soil health and crop yields. The company has a $57.1M Frontier offtake and a multi-year Microsoft deal, and in December 2025 delivered 5,160 registry-certified tons—reportedly the largest ERW issuance to date.
 
 ![Lithos website](/screenshots/lithos.png)
 
@@ -34,6 +34,7 @@ Lithos Carbon is a San Francisco-based CDR supplier scaling Enhanced Rock Weathe
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.lithoscarbon.com/))
 - **2026-04-19** — merged 1 duplicate(s): Lithos Carbon
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.lithoscarbon.com/))

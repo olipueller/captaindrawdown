@@ -2,7 +2,7 @@
 title: "Terraformation"
 layout: "single"
 type: "directory"
-description: "Terraformation is a Hawaii-based native forest restoration company founded in 2019 by former Reddit CEO Yishan Wong that scales biodiverse reforestation"
+description: "Supports biodiverse native tropical reforestation through seed banking, training, project finance, and the open-source Terraware forest-management platform, generating nature-based carbon credits."
 url: "/directory/terraformation/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Terraformation is a Hawaii-based native forest restoration company founded in 2019 by former Reddit CEO Yishan Wong that scales biodiverse reforestation projects across Africa, Latin America, and Southeast Asia. In 2025 it restored 2,155 hectares, planted 5.4 million native trees (up from 2.3 million in 2024), and had two supported projects enter validation under Verra's carbon standards. The company also develops Terraware, an open-source forest management platform, and runs a Seed to Forest Accelerator that trains and finances local reforestation teams.
+Terraformation is a Hawaii-based native forest restoration company founded by former Reddit CEO Yishan Wong that supports large-scale biodiverse reforestation projects across Africa, Latin America, and Southeast Asia. It provides forestry teams with training, the open-source Terraware platform, and project finance to generate high-integrity nature-based carbon credits, with projects entering validation under Verra standards and government agreements in Cameroon and Ghana.
 
 ![Terraformation website](/screenshots/terraformation.png)
 
@@ -34,6 +34,7 @@ Terraformation is a Hawaii-based native forest restoration company founded in 20
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://terraformation.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://terraformation.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://terraformation.com/press-posts/terraformation-scales-a-locally-led-native-reforestation-model-as-nature-finance-comes-of-age))

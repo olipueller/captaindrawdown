@@ -2,7 +2,7 @@
 title: "International Tie Disposal"
 layout: "single"
 type: "directory"
-description: "International Tie Disposal (ITD), a subsidiary of North Carolina-based Polivka International, operates a pyrolysis facility in Hamlet, Richmond County, NC that"
+description: "Pyrolyzes legacy creosote-treated railroad ties into biochar using Biochar Now kiln technology at a Hamlet, NC facility."
 url: "/directory/international-tie-disposal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,19 +13,20 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://tiedisposal.com/" target="_blank" rel="noopener">https://tiedisposal.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-International Tie Disposal (ITD), a subsidiary of North Carolina-based Polivka International, operates a pyrolysis facility in Hamlet, Richmond County, NC that converts legacy creosote-treated railroad ties into biochar using kiln technology supplied by Biochar Now of Colorado. The project has faced years of litigation reaching the NC Supreme Court and community opposition over air and water pollution concerns, but as of 2024-2025 the facility is operational with kilns, staff, and active hiring. Use of creosote-contaminated feedstock raises questions about the permanence and environmental integrity of any CDR credits.
+International Tie Disposal (ITD) is a subsidiary of Polivka International, a North Carolina railroad-services company, created to convert discarded creosote-treated railroad ties into biochar via pyrolysis at a Hamlet, NC facility using 426 kilns supplied by Biochar Now of Colorado. The project has faced years of litigation that reached the NC Supreme Court and community opposition over air/water pollution, but received its synthetic minor air quality permit from NCDEQ in late 2024.
 
 ![International Tie Disposal website](/screenshots/international-tie-disposal.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://tiedisposal.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://tiedisposal.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.wbtv.com/2024/03/27/nc-community-battles-against-controversial-railroad-project/))

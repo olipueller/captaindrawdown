@@ -2,7 +2,7 @@
 title: "NeoCarbon"
 layout: "single"
 type: "directory"
-description: "NeoCarbon GmbH is a Berlin-based climate tech company founded in January 2022 by René Haas and Silvain Toromanoff that focuses on making Direct Air Capture"
+description: "Modular solid-sorbent DAC units that leverage waste heat from cooling towers and industrial sites (data centers, cement, methanol), with captured CO2 permanently stored via concrete carbonation."
 url: "/directory/neocarbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-NeoCarbon GmbH is a Berlin-based climate tech company founded in January 2022 by René Haas and Silvain Toromanoff that focuses on making Direct Air Capture cost-effective and scalable by retrofitting existing industrial infrastructure. Its core business involves developing and installing modular DAC units that integrate with existing industrial sites, leveraging waste heat and airflow from infrastructure like cooling towers to lower the energy costs typically associated with DAC. The firm offers product modules such as the NeoDuo (5 tons CO₂/year) and NeoCore (62.5 tons/year).
+NeoCarbon GmbH is a Berlin-based DAC startup founded in 2022 by René Haas and Silvain Toromanoff, developing modular solid-sorbent Direct Air Capture reactors that retrofit onto cooling towers and industrial waste-heat sources. The company operates a sorbent chemistry lab, has deployed pilot modules, and was selected in 2025 for German federal BIK funding for its ANEWDACUS hollow-fibre DAC project with permanent storage via concrete carbonation.
 
 ![NeoCarbon website](/screenshots/neocarbon.png)
 
@@ -34,6 +34,7 @@ NeoCarbon GmbH is a Berlin-based climate tech company founded in January 2022 by
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dvne.org/en/news-en/four-members-achieve-federal-funding/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-neocarbon-turning))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.neocarbon.tech/))

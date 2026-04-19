@@ -2,27 +2,27 @@
 title: "Svante/Carbon Alpha"
 layout: "single"
 type: "directory"
-description: "Svante is a Vancouver, BC-based carbon capture and removal technology company that manufactures nanoengineered solid-sorbent filters and modular rotating"
+description: "Svante manufactures nanoengineered solid-sorbent filters and modular rotating contactor machines for capturing CO2 from industrial flue gas and air, and via its Carbon Alpha subsidiary develops BECCS"
 url: "/directory/svantecarbon-alpha/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>BECCS</td></tr>
-  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.svanteinc.com/" target="_blank" rel="noopener">https://www.svanteinc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/svantesolutions/" target="_blank" rel="noopener">svantesolutions — 25,849 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~289 (-2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Svante is a Vancouver, BC-based carbon capture and removal technology company that manufactures nanoengineered solid-sorbent filters and modular rotating contactor machines for capturing CO2 from industrial flue gas and air. In March 2026 Svante acquired Calgary-based Carbon Alpha Corp., bringing the North Star BECCS project in Meadow Lake, Saskatchewan (a joint venture with Meadow Lake Tribal Council) into its portfolio; in April 2026 the partnership signed a 15-year, 626,000-tonne CDR offtake with Microsoft, with commercial operations targeted for early 2029.
+Svante is a Vancouver, BC-based carbon capture and removal technology company. In March 2026 it acquired Calgary-based Carbon Alpha Corp., adding the North Star BECCS project in Saskatchewan (a partnership with Meadow Lake Tribal Council) and a CO2 pipeline/storage hub. In April 2026 the project signed a 626,000-tonne, 15-year CDR offtake with Microsoft.
 
 ![Svante/Carbon Alpha website](/screenshots/svantecarbon-alpha.png)
 
@@ -32,6 +32,7 @@ Svante is a Vancouver, BC-based carbon capture and removal technology company th
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-acquires-carbon-dioxide-removal-project-developer-carbon-alpha-corp/))
 - **2026-04-19** — merged 6 duplicate(s): North Star, North Star Carbon Solutions LP, Forward, North Star Carbon Solutions, Svante, Svante Technologies
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
@@ -61,7 +62,6 @@ Svante is a Vancouver, BC-based carbon capture and removal technology company th
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-mltc-beccs-cdrs-microsoft/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.carbonalpha.com/northstar))
-- **2026-04-18** — discovered via: news_feed ([source](https://www.gasworld.com/story/microsoft-signs-15-year-beccs-credit-deal-in-canada/2244832.article/))
 
 ---
 

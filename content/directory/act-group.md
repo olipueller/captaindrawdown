@@ -2,7 +2,7 @@
 title: "ACT Group"
 layout: "single"
 type: "directory"
-description: "ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental commodities broker and decarbonization solutions provider operating across"
+description: "Environmental commodities brokerage and carbon project development firm that sources, trades, and facilitates sales of carbon credits (including biochar CDR) alongside EACs, biofuels, and compliance"
 url: "/directory/act-group/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

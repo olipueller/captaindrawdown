@@ -2,10 +2,10 @@
 title: "Karbonetiq"
 layout: "single"
 type: "directory"
-description: "Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) developing surficial mineralization using alkaline industrial residues (slags, ash)"
+description: "Surficial mineralization: crushes alkaline industrial residues (slags, ash) and cycles them through passive aeration reactors so atmospheric CO2 bonds into stable carbonates, with sensor-based MRV."
 url: "/directory/karbonetiq/"
 pathway: "Mineralization"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,14 +15,14 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.karbonetiq.com/" target="_blank" rel="noopener">https://www.karbonetiq.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/karbonetiq-inc/" target="_blank" rel="noopener">karbonetiq-inc — 121 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) developing surficial mineralization using alkaline industrial residues (slags, ash) processed through a low-cost passive aeration system with sensor-based MRV. It was selected in Frontier's Summer 2025 prepurchase round for 2,142 tons on behalf of Stripe, Shopify, and Google, and is backed by Evok Innovations and Creative Destruction Lab.
+Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) developing surficial mineralization using alkaline industrial residues like slags and ash, processed through a low-cost passive aeration system with sensor-based MRV. In July 2025 it was selected in Frontier's fifth prepurchase round for 2,142 tons on behalf of Stripe, Shopify, and Google, and is backed by Evok Innovations.
 
 ![Karbonetiq website](/screenshots/karbonetiq.png)
 
@@ -32,6 +32,7 @@ Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) devel
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.karbonetiq.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.karbonetiq.com/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/summer-2025-prepurchases))

@@ -2,7 +2,7 @@
 title: "Sequestra"
 layout: "single"
 type: "directory"
-description: "Sequestra is a Vienna-based climate tech startup founded in 2024 that develops accelerated carbonation technology to permanently bind CO2 in industrial"
+description: "Accelerated ex-situ carbonation of alkaline industrial residues (steel slag, biomass ash, incineration ash, demolition debris) in modular containerized plants, with in-house material analytics and"
 url: "/directory/sequestra/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -20,13 +20,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Sequestra is a Vienna-based climate tech startup founded in 2024 that develops accelerated carbonation technology to permanently bind CO2 in industrial residues such as steel slag, biomass ash, incineration ash, and demolition debris. The resulting carbonates can be reused as construction materials, and the company is scaling from its analytical lab toward a first modular containerized mineralisation unit targeted for late 2027.
+Sequestra is a Vienna-based climate tech startup founded in 2024 that develops accelerated carbonation technology to permanently bind CO2 in industrial residues such as steel slag, biomass ash, incineration ash, and demolition debris. The resulting carbonates can be reused as construction materials. In March 2026 the company closed a €3M seed round led by VSE Beteiligungs-GmbH, targeting deployment of its first modular containerized mineralization plant by the end of 2027.
 
 ![Sequestra website](/screenshots/sequestra.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.sequestra.tech/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.sequestra.tech/))
 - **2026-04-19** — manually added by Dirk
 

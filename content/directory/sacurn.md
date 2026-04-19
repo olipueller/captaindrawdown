@@ -2,7 +2,7 @@
 title: "Sacurn"
 layout: "single"
 type: "directory"
-description: "Sacurn Carbon is a Taiwan-based voluntary carbon credit developer and trader, not a physical CDR supplier. In January 2024 they became the first and only"
+description: "Voluntary carbon credit developer and trader brokering international credits to Taiwanese enterprises via the Taiwan Carbon Solution Exchange."
 url: "/directory/sacurn/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

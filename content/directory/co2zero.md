@@ -2,7 +2,7 @@
 title: "CO2Zero"
 layout: "single"
 type: "directory"
-description: "CO₂Zero is an early-stage Rotterdam-based startup developing a modular, tech-agnostic Direct Air Capture integrator platform that combines multiple DAC"
+description: "Modular, tech-agnostic DAC integrator that combines multiple third-party DAC technologies with in-house process tech, power-to-heat and clean-water co-production, targeting capture at <€150/ton."
 url: "/directory/co2zero/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://co2zero.online/" target="_blank" rel="noopener">https://co2zero.online/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co%e2%82%82zero/" target="_blank" rel="noopener">co%e2%82%82zero — 72 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-CO₂Zero is an early-stage Rotterdam-based startup developing a modular, tech-agnostic Direct Air Capture integrator platform that combines multiple DAC technologies with power-to-heat and clean water co-production, targeting capture costs under €150/ton. The company went through the YES!Delft accelerator program and positions itself as an open-innovation DAC integrator.
+CO₂Zero positions itself as the first open-innovation DAC integrator, offering an end-to-end platform that accelerates DAC innovation from TRL 1–9 via a modular, upgradeable design at the component level. The Rotterdam-based startup joined YES!Delft's Spring 2025 accelerator batch and remains an early-stage team (~1 employee on LinkedIn) with no commercial deliveries yet.
 
 ![CO2Zero website](/screenshots/co2zero.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://co2zero.online/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://co2zero.online/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://yesdelft.com/startups/co%E2%82%82zero/))

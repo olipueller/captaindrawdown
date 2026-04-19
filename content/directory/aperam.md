@@ -2,10 +2,10 @@
 title: "Aperam"
 layout: "single"
 type: "directory"
-description: "Aperam BioEnergia is the Brazilian forestry and renewable-energy subsidiary of Luxembourg-based stainless-steel producer Aperam SA, operating ~156,000 hectares"
+description: "Pyrolyzes eucalyptus-wood byproducts from its charcoal-for-steel operation into biochar, which is applied to its own FSC-certified plantation soils and sold as Puro.earth CORC biochar carbon-removal"
 url: "/directory/aperam/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,14 +15,14 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://aperambioenergia.com.br/en/biochar/" target="_blank" rel="noopener">https://aperambioenergia.com.br/en/biochar/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aperam-bioenergia-ltda./" target="_blank" rel="noopener">aperam-bioenergia-ltda. — 318 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~139 (-4% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Aperam BioEnergia is the Brazilian forestry and renewable-energy subsidiary of Luxembourg-based stainless-steel producer Aperam SA, operating ~156,000 hectares of FSC-certified eucalyptus plantations in Minas Gerais that historically supplied charcoal to Aperam's steel mills. Since 2022 it markets Puro.earth-certified biochar carbon removal credits, and as of mid-2025 ranked as the second-largest CDR supplier on the CDR.fyi leaderboard with ~121,000 tonnes sold and ~40,000 t/yr production capacity. The company announced a 20% expansion of its forestry area in 2025.
+Aperam BioEnergia is the Brazilian forestry and renewable-energy unit of Luxembourg-based stainless-steel producer Aperam SA, managing roughly 100,000–156,000 hectares of FSC-certified eucalyptus in Minas Gerais that primarily supply charcoal to Aperam's Timóteo steel mill. Since December 2023 it has diverted charcoal-production byproducts into biochar applied to its own forest soils, selling Puro.earth-certified CORCs as a side-business to its core charcoal/steel operation. In 2025 it announced a ~20% expansion of its forestry area and plans to triple biochar production by 2026.
 
 ![Aperam website](/screenshots/aperam.png)
 
@@ -32,6 +32,7 @@ Aperam BioEnergia is the Brazilian forestry and renewable-energy subsidiary of L
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/aperam-bioenergia))
 - **2026-04-19** — merged 1 duplicate(s): Aperam BioEnergia
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

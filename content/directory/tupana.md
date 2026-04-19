@@ -2,7 +2,7 @@
 title: "Tupana"
 layout: "single"
 type: "directory"
-description: "Tupana (Tupana RGN) is a climate-tech startup focused on carbon removal and emission reduction through biochar technology, converting agricultural waste into"
+description: "Pyrolyzes agricultural waste into biochar and applies it to soil, with sensor-based MRV tracking H/C and O/C ratios and soil monitoring to validate durable carbon storage."
 url: "/directory/tupana/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://www.tupana.earth/" target="_blank" rel="noopener">https://www.tupana.earth/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Tupana (Tupana RGN) is a climate-tech startup focused on carbon removal and emission reduction through biochar technology, converting agricultural waste into fixed carbon for sale in voluntary carbon markets. The company is currently validating its solution via laboratory and field experiments, including pilot pyrolysis operations and biochar quality testing for >100-year permanence.
+Tupana (Tupana RGN) is a Brazilian climate-tech startup producing biochar from agricultural waste via pyrolysis, targeting voluntary carbon market sales. The company is in a validation phase with pilot pyrolysis operations, laboratory biochar quality testing, and field MRV trials aimed at ≥100-year carbon permanence.
 
 ![Tupana website](/screenshots/tupana.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.tupana.earth/))
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.tupana.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.tupana.earth/ ([source](https://www.cdr.fyi/supplier/tupana))

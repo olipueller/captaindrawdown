@@ -2,10 +2,10 @@
 title: "North Star CCS"
 layout: "single"
 type: "directory"
-description: "North Star Carbon Solutions LP is Canada's first majority Indigenous-owned CDR project, jointly developed by the Meadow Lake Tribal Council and Svante"
+description: "North Star will add a post-combustion carbon capture plant to the existing MLTC Bioenergy Centre biomass power facility in Saskatchewan, with captured biogenic CO2 transported via a new pipeline to"
 url: "/directory/north-star-ccs/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonalpha.com/northstar" target="_blank" rel="noopener">https://www.carbonalpha.com/northstar</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-alpha/" target="_blank" rel="noopener">carbon-alpha — 2,136 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~10 (-29% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-North Star Carbon Solutions LP is Canada's first majority Indigenous-owned CDR project, jointly developed by the Meadow Lake Tribal Council and Svante (following Svante's acquisition of Carbon Alpha). The project pairs CCS with the MLTC Bioenergy Centre in Saskatchewan, targeting up to 90,000 tonnes/year of CDR credits. Microsoft signed a 15-year offtake covering 626,000 tonnes, and the project is listed on Puro.earth.
+North Star Carbon Solutions LP is a dedicated BECCS project joint venture between Svante (via its acquired subsidiary Carbon Alpha Corp.) and the Meadow Lake Tribal Council, described as Canada's first majority Indigenous-owned CDR project. Phase 1 targets up to 140,000 tonnes/year of CO2 capture at the MLTC Bioenergy Centre in Saskatchewan, with roughly 90,000 tonnes/year of CDR credits sold to Microsoft under a 15-year 626,000-tonne offtake announced in April 2026. Final investment decision is expected in Q1 2027.
 
 ![North Star CCS website](/screenshots/north-star-ccs.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260406630377/en/Svante-Meadow-Lake-Tribal-Council-Partnership-Agrees-to-Sell-Microsoft-626000-Tonnes-of-Carbon-Removal-Credits))
 - **2026-04-19** — merged 1 duplicate(s): Carbon Alpha
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

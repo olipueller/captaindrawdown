@@ -2,7 +2,7 @@
 title: "ZEROCertified"
 layout: "single"
 type: "directory"
-description: "ZEROCertified was a Netherlands-based voluntary carbon market consultancy and methodology developer that helped project developers enter and scale in the VCM,"
+description: "VCM consultancy and methodology-development firm that supported carbon-removal project developers with certification, financing and credit trading."
 url: "/directory/zerocertified/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

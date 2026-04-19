@@ -2,7 +2,7 @@
 title: "Green Sequest"
 layout: "single"
 type: "directory"
-description: "Green Sequest is a Polish CDR startup founded in 2022, based in Nasławice, developing Enhanced Rock Weathering technology using antigorite serpentinite to"
+description: "Develops ex-situ Enhanced Rock Weathering using crushed antigorite serpentinite, accelerated via thermoactivation and organic salts, applied on soils as a dual-use mineral fertilizer and CO2 removal"
 url: "/directory/green-sequest/"
 pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
@@ -23,13 +23,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Green Sequest is a Polish CDR startup founded in 2022, based in Nasławice, developing Enhanced Rock Weathering technology using antigorite serpentinite to mineralize atmospheric CO2. The company also commercializes a serpentinite-based mineral fertilizer authorized by Poland's Ministry of Agriculture for use in agriculture and certified for organic farming by IUNG. It has completed the 'remove' and Carbon Removal ClimAccelerator programs and joined the CEEZER Carbon Coalition.
+Green Sequest is a Polish startup founded in 2022 and based in Nasławice that focuses on carbon sequestration through Enhanced Rock Weathering (ERW), using antigorite serpentinite to remove CO2 from the atmosphere while also providing mineral fertilizers for agriculture. The company is developing a low-cost, verifiable, scalable technology based on thermoactivation and organic salts to accelerate the natural mineralization process of serpentinite. As of 2025 the company had not raised institutional funding rounds.
 
 ![Green Sequest website](/screenshots/green-sequest.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://greensequest.earth/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://greensequest.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/green-sequest/__j85wWBPUkutZ7oIZFBXnL4ocO8YTwmnBSBG5q9iYZPY))

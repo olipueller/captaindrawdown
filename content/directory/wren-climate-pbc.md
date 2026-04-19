@@ -2,7 +2,7 @@
 title: "Wren Climate, PBC"
 layout: "single"
 type: "directory"
-description: "Wren Climate, PBC is a US-based public benefit corporation operating a consumer-facing platform that allows individuals and businesses to calculate their"
+description: "Subscription-based retail marketplace that aggregates consumer/business funding to procure and retire carbon removal credits from vetted suppliers across multiple pathways."
 url: "/directory/wren-climate-pbc/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

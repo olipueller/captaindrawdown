@@ -2,7 +2,7 @@
 title: "Biochar Byte"
 layout: "single"
 type: "directory"
-description: "Biochar Byte (Biochar Byte AgTech Pvt Ltd) is an early-stage Indian startup based in Pune, incorporated September 2024 by Udaykumar Mathapati and Vinayak"
+description: "Pyrolyzes agricultural crop residues collected from smallholder farmers into biochar for soil application, displacing open-field burning."
 url: "/directory/biochar-byte/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -21,13 +21,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Biochar Byte (Biochar Byte AgTech Pvt Ltd) is an early-stage Indian startup based in Pune, incorporated September 2024 by Udaykumar Mathapati and Vinayak Patil. It produces biochar at industrial scale by pyrolyzing agricultural residues collected from smallholder farmers, with the goal of preventing open-field burning and generating carbon credits. The company is unfunded with only two employees.
+Biochar Byte AgTech Pvt Ltd is an early-stage Pune-based Indian startup incorporated in September 2024 by Udaykumar Mathapati and Vinayak Patil. The company collects agricultural residue biomass from farmers' fields using geospatial-imaging-based logistics to prevent open-field burning, then pyrolyzes it into biochar at industrial scale to capture carbon in soil. It is a two-person unfunded company with no registry issuances yet.
 
 ![Biochar Byte website](/screenshots/biochar-byte.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biocharbyte.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biocharbyte.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biocharbyte.com/))

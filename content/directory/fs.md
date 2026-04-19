@@ -2,7 +2,7 @@
 title: "FS"
 layout: "single"
 type: "directory"
-description: "FS (FS Agrisolutions Indústria de Biocombustíveis / FS Bioenergia) is Brazil's largest corn-based ethanol producer, a joint venture between Summit Brazil"
+description: "Capture of biogenic fermentation CO2 from corn-ethanol production with compression, dehydration and geological injection into deep saline formations."
 url: "/directory/fs/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://www.fs.agr.br/en/" target="_blank" rel="noopener">https://www.fs.agr.br/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fs-bioenergia/" target="_blank" rel="noopener">fs-bioenergia — 130,472 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~1642 (+17% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-FS (FS Agrisolutions Indústria de Biocombustíveis / FS Bioenergia) is Brazil's largest corn-based ethanol producer, a joint venture between Summit Brazil Renewables and Tapajós Participações, headquartered in Lucas do Rio Verde, Mato Grosso. The company is developing South America's first BECCS project at its Lucas do Rio Verde plant, which will capture fermentation CO2 and inject it into deep geological storage, aiming to produce carbon-negative ethanol at commercial scale. Construction was slated to proceed with completion targeted around 2025–2026.
+FS (FS Agrisolutions / FS Bioenergia) is Brazil's fourth-largest ethanol producer, operating three corn-ethanol biorefineries in Mato Grosso with ~2.3 billion liters/year capacity plus animal nutrition (DDG), corn oil and bioelectricity. The company is developing Brazil's first BECCS project at its Lucas do Rio Verde plant, planning to capture fermentation CO2 and inject it ~800m+ underground in the Diamantino/Parecis Basin formation, with startup targeted for mid-2026. BECCS is a bolt-on to their core ethanol business rather than their primary activity.
 
 ![FS website](/screenshots/fs.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.fs.agr.br/en/))
 - **2026-04-19** — merged 1 duplicate(s): FS Fueling Sustainability
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.fs.agr.br/en/our-business/carbon/))

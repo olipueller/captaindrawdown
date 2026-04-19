@@ -2,10 +2,10 @@
 title: "Captura"
 layout: "single"
 type: "directory"
-description: "Captura is a Pasadena, California-based company publicly launched in 2021 focused on ocean-based carbon dioxide capture. The company operates a joint"
+description: "Uses proprietary bipolar-membrane electrodialysis to extract CO2 from seawater, allowing the ocean to re-absorb atmospheric CO2; captured CO2 is then permanently stored or reused."
 url: "/directory/captura/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://capturacorp.com/" target="_blank" rel="noopener">https://capturacorp.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capturaco2/" target="_blank" rel="noopener">capturaco2 — 15,800 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~82 (-4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Captura is a Pasadena, California-based company publicly launched in 2021 focused on ocean-based carbon dioxide capture. The company operates a joint 1,000-ton-per-year pilot facility in Kona, Hawaii, where its Direct Ocean Capture system was tested against 20 key metrics including carbon removal efficiency, safety, operational reliability, and MRV. Captura is now assessing potential sites for its first commercial-scale DOC project, with design underway for a facility that captures between 30,000 and 50,000 tons of CO₂ annually, with locations under consideration in Europe, the UK, and Asia-Pacific.
+Captura is a Pasadena, California-based Direct Ocean Capture company founded at Caltech in 2021. It operates a 1,000-ton-per-year pilot plant in Kona, Hawaii (opened February 2025, developed with Equinor) and in 2025 signed a 30,000-credit offtake with MOL, opened a Pasadena HQ/manufacturing facility, and completed Equinor's technology qualification program. Its business model is to license DOC technology to deployment partners for commercial facilities targeting 30,000–50,000 tons/year.
 
 ![Captura website](/screenshots/captura.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://capturacorp.com/equinor-and-captura-validate-doc/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://capturacorp.com/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://capturacorp.com/))

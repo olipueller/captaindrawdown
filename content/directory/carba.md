@@ -2,7 +2,7 @@
 title: "Carba"
 layout: "single"
 type: "directory"
-description: "Carba is a Minneapolis/Eden Prairie, Minnesota-based CDR supplier that converts waste biomass into stable biocarbon using a patented autothermal"
+description: "Carba uses a patented autothermal low-temperature pyrolysis (torrefaction) reactor to convert waste biomass into stable biochar, then buries it anoxically in landfills as alternate daily cover for"
 url: "/directory/carba/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carba.com/" target="_blank" rel="noopener">https://carba.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbacarbon/" target="_blank" rel="noopener">carbacarbon — 3,445 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~19</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carba is a Minneapolis/Eden Prairie, Minnesota-based CDR supplier that converts waste biomass into stable biocarbon using a patented autothermal low-temperature pyrolysis (torrefaction) reactor, then sequesters the biochar via anoxic burial in landfills for 1,000+ year durability. The company has signed a 44,000-ton, five-year carbon credit offtake agreement with Microsoft and was selected for a $7 million U.S. Department of Energy grant under the Carbon Negative Shot program. In December 2025, Carba closed a $6M investment round led by Rusheen Capital Management and Canopy Generations Fund.
+Carba is a Minneapolis, Minnesota carbon removal company whose pyrolysis technology and burial method removes CO2, storing biochar underground in low-oxygen environments using a patented, highly efficient pyrolysis reactor. The company will deliver 44,000 CDR credits to Microsoft over 5 years, and its methodology is certified by carbon removal registry Isometric for 1000+ year durability. Carba also received a $7 million DOE Carbon Negative Shot Pilot grant and is backed by GigaClimate Builder.
 
 ![Carba website](/screenshots/carba.png)
 
@@ -34,6 +34,7 @@ Carba is a Minneapolis/Eden Prairie, Minnesota-based CDR supplier that converts 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carba.com/press/carba-announces-5-year-carbon-removal-credit-purchase-agreement-with-microsoft))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carba.com/press/carba-raises-6m-investment-round))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carba.com/press/carba-raises-6m-investment-round))

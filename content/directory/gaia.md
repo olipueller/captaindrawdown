@@ -2,10 +2,10 @@
 title: "Gaia"
 layout: "single"
 type: "directory"
-description: "Gaia is a Danish joint venture between Copenhagen Infrastructure Partners (majority, via its Energy Transition Fund) and waste-to-energy operator"
+description: "Post-combustion amine-based carbon capture retrofit on a municipal waste-to-energy incinerator, with biogenic-fraction CO₂ (determined via radiocarbon) transported for permanent geological storage"
 url: "/directory/gaia/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟠 Suspect"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.gaia-ccs.dk/" target="_blank" rel="noopener">https://www.gaia-ccs.dk/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-Gaia is a Danish joint venture between Copenhagen Infrastructure Partners (majority, via its Energy Transition Fund) and waste-to-energy operator Vestforbrænding, developing a full-scale carbon capture retrofit at the Glostrup incineration facility. The project targets up to 500,000 tonnes of CO₂ captured annually starting 2029, with the biogenic portion sold as carbon removal credits — including a landmark 2.95 Mt offtake to Microsoft.
+Gaia is a Danish joint venture (Gaia ProjectCo P/S) between Copenhagen Infrastructure Partners' Energy Transition Fund (majority) and municipal waste-to-energy operator Vestforbrænding, developing a full-scale amine-based carbon capture retrofit at the Glostrup incineration facility. The project targets up to 500,000 tonnes of CO₂ captured annually from 2029, with the biogenic portion sold as carbon removal credits; Microsoft signed a 2.95 Mt offtake agreement in July 2025.
 
 ![Gaia website](/screenshots/gaia.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.gaia-ccs.dk/about-us/))
 - **2026-04-19** — merged 1 duplicate(s): Gaia ProjectCo
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -2,7 +2,7 @@
 title: "Hjelmsäters Egendom"
 layout: "single"
 type: "directory"
-description: "Hjelmsäters Egendom is a Swedish agricultural estate in Hällekis (Kinnekulle) that operates a pyrolysis unit to produce EBC-certified biochar from forestry"
+description: "Pyrolysis of forestry residues on an agricultural estate to produce EBC-certified biochar soil amendment, with CORCs issued on Puro.earth."
 url: "/directory/hjelmsäters-egendom/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,13 +13,13 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.biokol.se/" target="_blank" rel="noopener">https://www.biokol.se/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Hjelmsäters Egendom is a Swedish agricultural estate in Hällekis (Kinnekulle) that operates a pyrolysis unit to produce EBC-certified biochar from forestry residues, sold as soil amendment under the biokol.se brand. The estate also resells Brachio Solutions biochar boilers in Sweden and has issued carbon removal credits via Puro.earth. Contact is Edvard Hamilton of the Hamilton family who owns the estate.
+Hjelmsäters Egendom is a centuries-old Swedish agricultural estate in Hällekis (Kinnekulle), owned by the Hamilton family since the early 1700s, which operates a pyrolysis unit producing EBC-certified biochar from forestry residues for soil amendment. They sell biochar under the biokol.se brand, resell Brachio Solutions biochar boilers in Sweden, and have registered as a supplier on Puro.earth. Biochar is an adjacent add-on activity to the estate's core agriculture/forestry business.
 
 ![Hjelmsäters Egendom website](/screenshots/hjelmsäters-egendom.png)
 
@@ -29,6 +29,7 @@ Hjelmsäters Egendom is a Swedish agricultural estate in Hällekis (Kinnekulle) 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.biokol.se/))
 - **2026-04-19** — merged 3 duplicate(s): Biokol, BC Trading AB, Biokol.se
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -2,7 +2,7 @@
 title: "Restord"
 layout: "single"
 type: "directory"
-description: "Restord is a Cornwall, UK biochar startup founded by Tom Previte that converts local forestry and agricultural waste into biochar via pyrolysis, using"
+description: "Pyrolysis of Cornish forestry and agricultural waste into biochar for soil application and durable carbon removal credits, using CapChar's on-farm technology."
 url: "/directory/restord/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.restord.earth/" target="_blank" rel="noopener">https://www.restord.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/restord-earth/" target="_blank" rel="noopener">restord-earth — 1,686 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Restord is a Cornwall, UK biochar startup founded by Tom Previte that converts local forestry and agricultural waste into biochar via pyrolysis, using CapChar's on-farm technology. The company runs farm-scale pilot production near Liskeard and supplies biochar for soil application and carbon removal, with partnerships including Cormac and the University of Plymouth.
+Restord is a Cornwall-based UK biochar startup founded by Tom Previte that converts local forestry and agricultural waste into biochar via pyrolysis on a family farm near Liskeard. The company has delivered its first carbon removal credits (8.6 tonnes) as part of a 50-tonne pre-purchase agreement with architecture firm Bennetts Associates, and runs farm-scale trials in partnership with Cormac and the University of Plymouth.
 
 ![Restord website](/screenshots/restord.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.restord.earth/news/biochar-in-the-field-what-we-learned-from-real-farm-trials-in-cornwall))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.restord.earth/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.restord.earth/news/biochar-in-the-field-what-we-learned-from-real-farm-trials-in-cornwall))

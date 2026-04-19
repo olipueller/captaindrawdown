@@ -2,10 +2,10 @@
 title: "Super Biochar"
 layout: "single"
 type: "directory"
-description: "Super Biochar is a South Norwalk, Connecticut-based climate-tech startup founded in 2025 that develops biochar-based soil remediation and carbon removal"
+description: "Produces engineered region-specific biochar blends paired with AI-driven soil diagnostics and MRV software for soil remediation (PFAS, heavy metals) and carbon sequestration."
 url: "/directory/super-biochar/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.superbiochar.com/" target="_blank" rel="noopener">https://www.superbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/superbiochar/" target="_blank" rel="noopener">superbiochar — 343 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~6</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Super Biochar is a South Norwalk, Connecticut-based climate-tech startup founded in 2025 that develops biochar-based soil remediation and carbon removal solutions. The company pairs AI-guided SuperChar™ biochar blends with independent soil diagnostics (via a partnership with Ward Laboratories) and a mobile platform that connects soil testing, biochar recommendations, and ordering, targeting brownfield remediation, farms, and turf in the Northeast.
+Super Biochar is a South Norwalk, Connecticut-based climate-tech startup founded in 2025 that develops AI-designed biochar blends (SuperChar™) for soil remediation and carbon removal. The company pairs region-specific biochar formulations with independent soil diagnostics via Ward Laboratories and a mobile platform connecting soil testing, recommendations, and ordering, targeting brownfields, farms, vineyards and municipal lands.
 
 ![Super Biochar website](/screenshots/super-biochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.superbiochar.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.superbiochar.com/home))

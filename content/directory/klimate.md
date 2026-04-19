@@ -2,7 +2,7 @@
 title: "Klimate"
 layout: "single"
 type: "directory"
-description: "Klimate is a Copenhagen-based carbon asset management platform founded in 2020 that curates vetted carbon removal portfolios (biochar, BECCS, forestry, etc.)"
+description: "Digital platform and advisory service that builds and manages portfolios of third-party carbon removal projects for corporate buyers."
 url: "/directory/klimate/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

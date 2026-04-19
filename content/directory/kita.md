@@ -2,7 +2,7 @@
 title: "Kita"
 layout: "single"
 type: "directory"
-description: "Kita is a UK-based Lloyd's of London coverholder and carbon insurance specialist offering policies like Carbon Purchase Protection Cover, Carbon Political Risk"
+description: "Provides specialty insurance products (delivery, counterparty, political, buffer depletion, non-payment) that underwrite the risk of forward-purchased carbon and CDR credits failing to deliver."
 url: "/directory/kita/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

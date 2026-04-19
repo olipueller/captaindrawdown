@@ -2,7 +2,7 @@
 title: "WasteX"
 layout: "single"
 type: "directory"
-description: "WasteX is a Singapore-based climate tech startup founded in 2022 by Pawel Kuznicki that builds small-scale, semi-automated carbonizer equipment to convert"
+description: "Develops small-scale, semi-automated biochar carbonizer equipment deployed at mills and farms in Southeast Asia to pyrolyze agri-waste into biochar, generating soil/agronomic benefits and carbon"
 url: "/directory/wastex/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,14 +13,14 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.wastex.io/" target="_blank" rel="noopener">https://www.wastex.io/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-WasteX is a Singapore-based climate tech startup founded in 2022 by Pawel Kuznicki that builds small-scale, semi-automated carbonizer equipment to convert agricultural biomass waste into biochar for farms across Southeast Asia. The company invests in and operates biochar production facilities in partnership with mills in Indonesia and the Philippines, and sells carbon credits alongside agronomic benefits to farmers.
+WasteX is a Singapore-based climate-tech startup founded in 2022 by Pawel Kuznicki that builds proprietary small-scale carbonizer equipment and runs biochar facilities in partnership with mills and farms in Indonesia, the Philippines, and India. The company sells equipment, biochar, and carbon credits, and has raised roughly $975K including a $450K P4G grant in 2024.
 
 ![WasteX website](/screenshots/wastex.png)
 
@@ -30,6 +30,7 @@ WasteX is a Singapore-based climate tech startup founded in 2022 by Pawel Kuznic
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.wastex.io/post/biochar-in-concrete))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.wastex.io/about-us))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.wastex.io))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))

@@ -2,7 +2,7 @@
 title: "E-quester"
 layout: "single"
 type: "directory"
-description: "E-quester is a University of Toronto spinout founded in 2021 and based in Toronto, Ontario. Their technology captures atmospheric CO2 and uses an"
+description: "Liquid-solvent DAC using an electrochemical regeneration system that converts dissolved carbonates directly to CO2, aiming to eliminate the high-temperature calcination step of conventional alkaline"
 url: "/directory/e-quester/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
@@ -22,13 +22,14 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-E-quester is a University of Toronto spinout founded in 2021 and based in Toronto, Ontario. Their technology captures atmospheric CO2 and uses an electrochemical regeneration system to liberate the captured CO2, powered by renewable electricity. The team earned an XPRIZE Carbon Removal Student Award with US $250,000 in seed funding, which was used to further develop their prototype.
+E-quester is a University of Toronto spinout founded in 2021 that is developing a liquid-solvent direct air capture system with a novel electrochemical regeneration step to liberate captured CO2, powered by renewable electricity. The team won a US$250,000 XPRIZE Carbon Removal Student Award in 2021 and placed in the XPRIZE Top 60 Milestone round in 2022. Public activity has been limited since then, though the company was still featured in U of T's UTEST early-stage startup program as recently as 2025.
 
 ![E-quester website](/screenshots/e-quester.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://e-quester.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://e-quester.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://e-quester.com/))

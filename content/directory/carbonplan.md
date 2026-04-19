@@ -2,7 +2,7 @@
 title: "CarbonPlan"
 layout: "single"
 type: "directory"
-description: "CarbonPlan is a U.S. nonprofit (California public benefit corporation) that produces open data, analyses, and tools evaluating the scientific integrity of"
+description: "Nonprofit analyst/transparency organization building open datasets and tools (e.g., offsets database, CDR verification confidence levels) to evaluate climate solutions and carbon removal claims."
 url: "/directory/carbonplan/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

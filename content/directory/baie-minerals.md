@@ -2,7 +2,7 @@
 title: "BAIE Minerals"
 layout: "single"
 type: "directory"
-description: "BAIE Minerals is a Canadian startup based in Baie Verte, Newfoundland (with a Calgary office) that processes asbestos and ultramafic mine tailings to extract"
+description: "Ex-situ carbon mineralization via processing (heating, acid leaching, surface-area enhancement) of asbestos/ultramafic mine tailings to accelerate CO2 uptake into stable Mg-carbonates while also"
 url: "/directory/baie-minerals/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.baieminerals.com/" target="_blank" rel="noopener">https://www.baieminerals.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/baie-minerals-inc/" target="_blank" rel="noopener">baie-minerals-inc — 3,671 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-BAIE Minerals is a Canadian startup based in Baie Verte, Newfoundland (with a Calgary office) that processes asbestos and ultramafic mine tailings to extract critical minerals and sequester CO2 through carbon mineralization. Their process yields high-purity magnesium oxide that reacts with atmospheric CO2 to form stable magnesium carbonate, and they are planning a community demonstration project ahead of a full-scale facility targeted for 2027.
+BAIE Minerals is a Canadian startup based in Baie Verte, Newfoundland (with a Calgary office) developing technology to process asbestos and ultramafic mine tailings to detoxify waste, extract critical minerals (magnesium oxide, silica), and sequester CO2 via carbon mineralization. The company plans a demonstration project at the Baie Verte community college and was featured in 2025 coverage by Yale E360 and asbestos.com describing heat/acid-based processing of tailings from the former Advocate asbestos mine.
 
 ![BAIE Minerals website](/screenshots/baie-minerals.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.baieminerals.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.baieminerals.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.baieminerals.com/))

@@ -2,7 +2,7 @@
 title: "PlantVillage+"
 layout: "single"
 type: "directory"
-description: "PlantVillage+ is a worker cooperative originating from Penn State's PlantVillage project that deploys solar-powered \"PyroTower\" pyrolysis units in African"
+description: "Worker cooperative deploying low-cost, solar-powered \"PyroTower\" pyrolysis units across African smallholder farms to convert agricultural waste into biochar and sell durable carbon removal credits"
 url: "/directory/plantvillage/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-PlantVillage+ is a worker cooperative originating from Penn State's PlantVillage project that deploys solar-powered "PyroTower" pyrolysis units in African farming communities (Kenya, Uganda, Burkina Faso) to convert agricultural waste biomass into biochar. The coop sells durable carbon removal credits via subscription, passing 95% of revenue to worker-farmers, and uses AI/satellite tools to monitor sequestration. It was a $1M milestone winner in the XPRIZE Carbon Removal Competition.
+PlantVillage+ is a worker-owned cooperative spun out of Penn State's PlantVillage project that deploys mobile, solar-powered PyroTower pyrolysis machines in African farming communities (notably Kenya, Uganda, Burkina Faso) to convert crop waste into biochar. The coop sells carbon removal credits through a subscription model, passing 95% of revenue to worker-farmers, and uses AI and digital MRV tools integrated with the PlantVillage Nuru app.
 
 ![PlantVillage+ website](/screenshots/plantvillage.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://plantvillageplus.coop/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://plantvillageplus.coop/carbon/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://plantvillageplus.coop/ ([source](https://www.cdr.fyi/supplier/plantvillageplus))

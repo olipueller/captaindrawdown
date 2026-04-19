@@ -2,7 +2,7 @@
 title: "Ucaneo"
 layout: "single"
 type: "directory"
-description: "Ucaneo is a Berlin-based direct air capture startup developing electrochemical DAC technology that uses a biomimetic solvent to remove CO2 from ambient air at"
+description: "Electrochemical direct air capture using a biomimetic solvent that mimics the human lung to remove CO2 from ambient air at room temperature."
 url: "/directory/ucaneo/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Ucaneo is a Berlin-based direct air capture startup developing electrochemical DAC technology that uses a biomimetic solvent to remove CO2 from ambient air at room temperature. The company operates an industrial pilot capturing 30-50 tons CO2/year and is commissioning a first-of-a-kind demonstration plant in Berlin-Marzahn in Q2 2026, targeted to capture up to 150 tons CO2/year. Ucaneo raised €6.75M in seed funding in September 2024 and received additional investment from Aramco Ventures in March 2025.
+Ucaneo is a Berlin-based direct air capture startup developing a biomimetic electrochemical DAC technology that uses a specialized solvent to remove atmospheric CO2 at room temperature, producing industrial-grade CO2 and integrating with renewable energy sources. In Q2 2026, Ucaneo plans to commission one of Germany's largest industrial DAC plants in Berlin (~150 tCO2/year) and is advancing the design of a first-of-a-kind facility in the 1,000-1,500 tCO2/year range. The company raised €6.75M seed in September 2024 and received follow-on investment from Aramco Ventures in March 2025.
 
 ![Ucaneo website](/screenshots/ucaneo.png)
 
@@ -33,6 +33,7 @@ Ucaneo is a Berlin-based direct air capture startup developing electrochemical D
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://aramcoventures.com/news/aramco-ventures-joins-ucaneos-seed-funding-round-to-build-germanys-largest-direct-air-capture/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://aramcoventures.com/news/aramco-ventures-joins-ucaneos-seed-funding-round-to-build-germanys-largest-direct-air-capture/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://aramcoventures.com/news/aramco-ventures-joins-ucaneos-seed-funding-round-to-build-germanys-largest-direct-air-capture/))

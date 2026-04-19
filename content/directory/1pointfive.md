@@ -2,10 +2,10 @@
 title: "1PointFive"
 layout: "single"
 type: "directory"
-description: "Houston-based 1PointFive is a subsidiary of Occidental Petroleum Corp. developing the STRATOS direct air capture facility in Ector County, Texas. Phase 1 is in"
+description: "Develops large-scale Direct Air Capture facilities (STRATOS in Ector County, TX) and geologic sequestration hubs for permanent CO2 storage in saline formations."
 url: "/directory/1pointfive/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.1pointfive.com/" target="_blank" rel="noopener">https://www.1pointfive.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/1pointfive/" target="_blank" rel="noopener">1pointfive — 28,248 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~32 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-Houston-based 1PointFive is a subsidiary of Occidental Petroleum Corp. developing the STRATOS direct air capture facility in Ector County, Texas. Phase 1 is in the final stage of startup and Phase 2 will begin commissioning in Q2 2026, with STRATOS designed to capture up to 500,000 tonnes/year of CO2. Offtake buyers include Microsoft, Amazon, AT&T, Airbus, Bain & Company, the Houston Astros and the Houston Texans.
+1PointFive is a Houston-based CCUS subsidiary of Occidental Petroleum developing the STRATOS direct air capture facility in the Permian Basin, designed to capture up to 500,000 tonnes of CO2 per year. Phase 1 is in final startup stage with operations expected to begin in Q2 2026, and the project is being developed through a joint venture with BlackRock. Offtake buyers include Microsoft, Amazon, AT&T, Airbus, Bain & Company, and the Houston Astros.
 
 ![1PointFive website](/screenshots/1pointfive.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.1pointfive.com/news/1pointfive-and-bain-company-announce-agreement-for-direct-air-capture-carbon-removal-credits))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.1pointfive.com/news/1pointfive-south-texas-dac-hub-awarded-us-doe-funding))

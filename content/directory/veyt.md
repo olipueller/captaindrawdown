@@ -2,7 +2,7 @@
 title: "Veyt"
 layout: "single"
 type: "directory"
-description: "Veyt is an Oslo-based independent market intelligence provider for carbon markets and renewable energy, founded in 2016. It delivers subscription-based"
+description: "Subscription analytics platform providing price data, forecasts, and policy intelligence for compliance and voluntary carbon markets (including removals) plus renewable energy certificates."
 url: "/directory/veyt/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

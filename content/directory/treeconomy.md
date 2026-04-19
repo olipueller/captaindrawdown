@@ -2,7 +2,7 @@
 title: "Treeconomy"
 layout: "single"
 type: "directory"
-description: "Treeconomy is a London-based earth-tech company providing MRV and project-enablement services for nature-based carbon removal. It combines high-resolution"
+description: "Geospatial AI MRV platform (satellite + drone LiDAR) plus marketplace for nature-based afforestation/reforestation/rewilding carbon removal credits."
 url: "/directory/treeconomy/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

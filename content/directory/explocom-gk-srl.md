@@ -2,10 +2,10 @@
 title: "Explocom GK SRL"
 layout: "single"
 type: "directory"
-description: "Explocom GK SRL is a Romanian company founded in 1992, originally producing charcoal and now manufacturing biochar and wood vinegar for agricultural use under"
+description: "Operates a patented biomass pyrolysis process producing biochar and wood vinegar for agricultural soil amendment, with CDR credits registered on Puro.earth."
 url: "/directory/explocom-gk-srl/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,20 +13,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Romania</td></tr>
-  <tr><th>Website</th><td><a href="https://www.retorte.ro/" target="_blank" rel="noopener">https://www.retorte.ro/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Website</th><td><a href="https://gekka.bio/" target="_blank" rel="noopener">https://gekka.bio/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Explocom GK SRL is a Romanian company founded in 1992, originally producing charcoal and now manufacturing biochar and wood vinegar for agricultural use under the GEKKA brand. It operates a patented pyrolysis process and registers carbon removal credits on Puro.earth.
+Explocom GK SRL is a Romanian company based in Cristuru Secuiesc that started producing charcoal for grilling in 1992, patented a biomass pyrolysis carbonization method in 2013, and began researching agricultural uses of biochar in 2018. The company markets biochar and wood vinegar products under the GEKKA brand for ecological agriculture and issues CORC carbon removal credits through Puro.earth.
 
 ![Explocom GK SRL website](/screenshots/explocom-gk-srl.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://gekka.bio/en/about-us/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.retorte.ro/))

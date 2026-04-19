@@ -2,7 +2,7 @@
 title: "Enchar"
 layout: "single"
 type: "directory"
-description: "Enchar is a B2B biochar market-maker with a biochar supply database and expertise in biochar characterization, providing buyers with suitable biochar and"
+description: "Commission-based B2B marketplace/broker that matches biochar producers with buyers, supports CO2 certification and logistics, but does not produce biochar itself."
 url: "/directory/enchar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

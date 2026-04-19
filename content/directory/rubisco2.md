@@ -2,7 +2,7 @@
 title: "RubisCO2"
 layout: "single"
 type: "directory"
-description: "RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado (a former Ludwig-Maximilians-Universität München student) that turns algae blooms into"
+description: "Operates pyrolysis reactors (\"Tlacuache 1\") that convert Caribbean Sargassum seaweed into biochar for use in construction materials and carbon sequestration."
 url: "/directory/rubisco2/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -22,13 +22,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado (a former Ludwig-Maximilians-Universität München student) that turns algae blooms into biochar to decarbonize construction. The company operates a pyrolysis reactor ("Tlacuache 1") and aimed to deploy reactors along the Mexican coastline to convert Sargassum into biochar. It participated in the Carbon Removal ClimAccelerator programme of EIT Climate-KIC supported by Munich Re and ERGO.
+RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado that transforms Sargassum algae blooms into biochar, aiming to decarbonize construction while tackling coastal seaweed pollution. The company has tested prototype pyrolysis reactors in Mexico and participated in the EIT Climate-KIC Carbon Removal ClimAccelerator. The founder is based in Munich while the technical team operates in Guadalajara, Mexico.
 
 ![RubisCO2 website](/screenshots/rubisco2.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://rubisco2.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://rubisco2.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://climaccelerator.climate-kic.org/news/carbon-removal-climaccelerator-start-up-spotlight-rubisco2/))

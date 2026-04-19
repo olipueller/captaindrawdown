@@ -2,28 +2,28 @@
 title: "Gevo, Inc."
 layout: "single"
 type: "directory"
-description: "Gevo, Inc. (NASDAQ: GEVO) is a US-based renewable fuels and chemicals company headquartered in Englewood, Colorado. Its Gevo North Dakota facility (acquired"
+description: "Captures biogenic CO2 from corn-ethanol fermentation at its Richardton, ND plant and injects it into an onsite Class VI well in the Broom Creek formation, issuing Puro.earth CORCs."
 url: "/directory/gevo-inc/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>BECCS</td></tr>
-  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://gevo.com" target="_blank" rel="noopener">https://gevo.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gevo/" target="_blank" rel="noopener">gevo — 22,538 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~124 (0% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Gevo, Inc. (NASDAQ: GEVO) is a US-based renewable fuels and chemicals company headquartered in Englewood, Colorado. Its Gevo North Dakota facility (acquired from Red Trail Energy in January 2025) captures biogenic CO2 from ethanol production and permanently sequesters it in an onsite Class VI well in the Broom Creek formation, issuing Puro.earth-certified CORCs. As of January 2026 the site had issued over 500,000 engineered carbon removal credits and received an "A" rating from BeZero Carbon.
+Gevo, Inc. (NASDAQ: GEVO) is a US renewable fuels and chemicals company headquartered in Englewood, Colorado, producing low-carbon ethanol, SAF, and renewable natural gas. Its Gevo North Dakota facility (acquired from Red Trail Energy in January 2025) couples ethanol production with carbon capture and sequestration in an onsite Class VI well, and had issued more than 500,000 Puro.earth-certified CORCs as of January 2026. CDR is one revenue stream alongside fuels and chemicals; the broader business would continue without it.
 
 ![Gevo, Inc. website](/screenshots/gevo-inc.png)
 
@@ -33,6 +33,7 @@ Gevo, Inc. (NASDAQ: GEVO) is a US-based renewable fuels and chemicals company he
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-achieves-industry-milestone-500000-high-quality-carbon))
 - **2026-04-19** — merged 1 duplicate(s): Gevo (Red Trail Energy)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.globenewswire.com/news-release/2026/01/21/3222854/23976/en/Gevo-Achieves-Industry-Milestone-500-000-High-Quality-Carbon-Removal-Credits-Issued-from-Gevo-North-Dakota-Plant.html))

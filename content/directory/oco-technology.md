@@ -2,7 +2,7 @@
 title: "O.C.O Technology"
 layout: "single"
 type: "directory"
-description: "O.C.O Technology is a UK-based carbon mineralization supplier headquartered in Brandon, Suffolk, operating multiple aggregate manufacturing facilities"
+description: "Accelerated Carbonation Technology (ACT) reacts CO2 with alkaline waste residues (APCr, ashes) to produce permanently carbonated manufactured limestone aggregate for construction."
 url: "/directory/oco-technology/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -18,12 +18,12 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/o-c-o-technology-ltd/" target="_blank" rel="noopener">o-c-o-technology-ltd — 2,999 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~61 (+24% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-O.C.O Technology is a UK-based carbon mineralization supplier headquartered in Brandon, Suffolk, operating multiple aggregate manufacturing facilities (Brandon, Avonmouth, Leeds) that use Accelerated Carbonation Technology (ACT) to react CO2 with air pollution control residues from energy-from-waste plants, producing carbon-negative manufactured limestone (M-LS) aggregate for construction. They sell verified carbon removal credits via Puro.earth and have signed offtake agreements with buyers including Rothschild & Co and Swiss Re. A subsidiary of Grundon Waste Management, they are also partnering with Repsol on a Spanish plant and licensing the technology internationally.
+O.C.O Technology is a UK-based carbon mineralization company headquartered in Brandon, Suffolk, operating multiple plants that use Accelerated Carbonation Technology (ACT) to react CO2 with air pollution control residues from energy-from-waste facilities, producing carbon-negative manufactured limestone (M-LS) aggregate for construction. Originally Carbon8 Aggregates, it operates as a subsidiary of Grundon Waste Management, with CDR/carbon-negative aggregate production as its sole operational purpose.
 
 ![O.C.O Technology website](/screenshots/oco-technology.png)
 
@@ -34,6 +34,7 @@ O.C.O Technology is a UK-based carbon mineralization supplier headquartered in B
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=division liveliness=🟢 Active ([source](https://oco.co.uk/news/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://oco.co.uk/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/oco-technology))

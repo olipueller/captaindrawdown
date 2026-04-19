@@ -2,7 +2,7 @@
 title: "Telge Återvinning"
 layout: "single"
 type: "directory"
-description: "Telge Återvinning is a municipal waste management and recycling subsidiary of Telge AB, serving Södertälje municipality since 1998 with household and"
+description: "Operates a CharMaker MPP batch pyrolysis unit that converts municipal green waste (branches, twigs, Christmas trees) into biochar at its Södertälje resource recovery center."
 url: "/directory/telge-återvinning/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.telge.se/om-telge/vara-bolag/telge-atervinning/" target="_blank" rel="noopener">https://www.telge.se/om-telge/vara-bolag/telge-atervinning/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/telge-ab/" target="_blank" rel="noopener">telge-ab — 5,997 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~659 (+6% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Telge Återvinning is a municipal waste management and recycling subsidiary of Telge AB, serving Södertälje municipality since 1998 with household and commercial waste collection and processing. In spring 2021 it installed Sweden's first CharMaker MPP unit from Australia and now converts roughly 2,000 tonnes of branches, twigs and Christmas trees into about 300 tonnes of biochar annually. The project was installed and commissioned in 2020 and registered for C-sink credits in 2021.
+Telge Återvinning is a municipal waste management and recycling subsidiary of Telge AB serving Södertälje, Sweden since 1998, handling household and commercial waste collection and sorting. In 2020-2021 it installed Europe's first CharMaker MPP biochar unit from Australia's Earth Systems, converting roughly 2,000 tonnes of green waste into about 300 tonnes of biochar annually. Biochar is an adjacent activity to its core waste-management mandate.
 
 ![Telge Återvinning website](/screenshots/telge-återvinning.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.telge.se/om-telge/vara-bolag/telge-atervinning/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://thecharmaker.com/project/telge-atervinning-ab-biochar-facility/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://www.telge.se/om-telge/vara-bolag/telge-atervinning/))

@@ -2,7 +2,7 @@
 title: "Compensate"
 layout: "single"
 type: "directory"
-description: "Compensate is a Helsinki-based carbon offset broker/retailer that curates a portfolio of third-party carbon projects and resells them as \"Compensate Credits\""
+description: "Carbon credit retailer/broker that vets and bundles third-party offset and removal projects (mostly nature-based, ~20% engineered including biochar) into its branded \"Compensate Credit\" with built-in"
 url: "/directory/compensate/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

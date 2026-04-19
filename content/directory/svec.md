@@ -2,7 +2,7 @@
 title: "SVEC"
 layout: "single"
 type: "directory"
-description: "Scotts Valley Energy Company (SVEC) is a tribal enterprise of the Scotts Valley Band of Pomo Indians in Lake County, California, established in 2018 to develop"
+description: "Operates small-scale pyrolysis/gasification plants that convert waste woody biomass into syngas for electricity and biochar as a co-product for carbon sequestration and soil amendment."
 url: "/directory/svec/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -20,13 +20,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Scotts Valley Energy Company (SVEC) is a tribal enterprise of the Scotts Valley Band of Pomo Indians in Lake County, California, established in 2018 to develop small-scale bioenergy/biochar plants using pyrolysis-gasification technology. After winning unanimous Lake County Planning Commission approval for an Upper Lake biochar facility in December 2024, trade press reported in December 2025 that SVEC and Lake County terminated facility development following grant-funding and land-use conflicts. The company website (copyright 2021) has not been substantively updated, and the project was also listed as an "early development" future facility on Puro.earth with no CORCs issued.
+Scotts Valley Energy Corporation (SVEC), a tribal enterprise of the Scotts Valley Band of Pomo Indians, was established in late 2018 to develop a distributive network of small-scale bioenergy plants using pyrolysis/gasification technology that generate energy sold under 15-20 year agreements, with biochar as an additional revenue stream. In December 2024 the Lake County Planning Commission approved its Upper Lake biochar processing plant, which will convert forest woodchips into syngas to power generators, with the plant to be built on county-leased land under a 15-year lease. The company is listed as a biochar supplier on Puro.earth (Red Hills project, early development stage).
 
 ![SVEC website](/screenshots/svec.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://scottsvalleyenergycompany.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate ([source](N/A))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🔴 Likely Dead ([source](https://biochartoday.com/news/scotts-valley-energy-corporation-and-lake-county-terminate-biochar-facility-development-following-grant-funding-and-land-use-conflicts/))

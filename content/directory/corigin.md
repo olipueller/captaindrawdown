@@ -2,7 +2,7 @@
 title: "corigin"
 layout: "single"
 type: "directory"
-description: "Corigin Solutions is a Merced, California-based biorefinery that uses vacuum pyrolysis to convert agricultural waste (primarily almond shells) into biochar"
+description: "Vacuum pyrolysis of almond shells and other nutshell/orchard biomass produces biochar for soil amendment plus bio-oil that is sent to Charm Industrial for deep underground injection."
 url: "/directory/corigin/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.corigin.co/" target="_blank" rel="noopener">https://www.corigin.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/corigin-solutions/" target="_blank" rel="noopener">corigin-solutions — 346 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Corigin Solutions is a Merced, California-based biorefinery that uses vacuum pyrolysis to convert agricultural waste (primarily almond shells) into biochar (Corichar), liquid plant growth enhancer (Coriphol), and bio-oil. Biochar is sold to farmers as a soil amendment, while bio-oil is supplied to Charm Industrial for permanent underground sequestration. The company is listed as a supplier on the Isometric registry with a biochar project currently in validation.
+Corigin Solutions is a Merced, California biorefinery that uses vacuum pyrolysis to convert agricultural waste (primarily almond shells) into biochar (Corichar), a liquid plant-growth enhancer (Coriphol), and bio-oil. The biochar is sold as a soil amendment and the bio-oil is supplied to Charm Industrial for permanent underground sequestration. The company brands itself as a carbon-removal business and was featured in a January 2026 WRI article on BiCRS suppliers.
 
 ![corigin website](/screenshots/corigin.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.corigin.co/))
 - **2026-04-19** — merged 1 duplicate(s): Corigin Solutions
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

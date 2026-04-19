@@ -2,10 +2,10 @@
 title: "Dotz Nano"
 layout: "single"
 type: "directory"
-description: "Dotz Nano (ASX: DTZ; operating R&D from Kefar-Sava, Israel with corporate listing in Melbourne, Australia) is a materials-science company whose DOTZearth"
+description: "Develops and supplies nano-porous carbon and polymer-based (p-AMP) solid sorbents for direct air capture and point-source CO2 capture, sold to DAC system developers."
 url: "/directory/dotz-nano/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://dotz.tech/" target="_blank" rel="noopener">https://dotz.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dotznano/" target="_blank" rel="noopener">dotznano — 3,061 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~19 (0% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Dotz Nano (ASX: DTZ; operating R&D from Kefar-Sava, Israel with corporate listing in Melbourne, Australia) is a materials-science company whose DOTZearth division develops solid sorbents for Direct Air Capture and point-source carbon capture. They supply sorbent material (including the polymeric p-AMP and carbon-based nanoporous sorbents) to DAC system developers rather than operating capture plants themselves, with an MOU signed in 2025 with CarbonCapture Inc. for kilogram-scale trials and ongoing collaborations with SINTEF and Bar-Ilan University.
+Dotz Nano (ASX: DTZ) is an Israeli-Australian nanomaterials and specialty chemistry company with two main product lines: DotzShield (in-product tagging for oil & gas corrosion monitoring) and DotzEarth (nano-porous and polymer-based solid sorbents for DAC and point-source carbon capture). They supply sorbent material to DAC developers — including a 2025 MoU with CarbonCapture Inc. — rather than operating capture plants themselves.
 
 ![Dotz Nano website](/screenshots/dotz-nano.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://dotz.tech/co2-capture-technology/dotz-modified-direct-air-capture-dac-sorbents/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://dotz.tech/resources/blog/dotz-announces-first-commercial-order-for-dac-sorbent/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dotz.tech/co2-capture-technology/dotz-modified-direct-air-capture-dac-sorbents/))

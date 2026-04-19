@@ -2,7 +2,7 @@
 title: "Graphyte"
 layout: "single"
 type: "directory"
-description: "Founded in 2023 and based in Arkansas, Graphyte is a US carbon-removal startup that uses a proprietary 'Carbon Casting' process to dry and compress timber and"
+description: "Carbon Casting: dries and compresses residual timber/agricultural biomass into wrapped blocks that are buried underground to prevent decomposition and sequester carbon for 1,000+ years."
 url: "/directory/graphyte/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Founded in 2023 and based in Arkansas, Graphyte is a US carbon-removal startup that uses a proprietary 'Carbon Casting' process to dry and compress timber and agricultural residues into stable buried carbon blocks. The company operates Project Loblolly in Pine Bluff, Arkansas, which issued 15,000 credits in 2025, and is developing Project Ponderosa in Flagstaff, Arizona. It is backed by Breakthrough Energy Ventures, Prelude Ventures and Carbon Direct Capital and recently signed a 10-year, 60,000-tonne deal with JPMorganChase.
+Graphyte is a US carbon removal startup founded in 2023 and based in Pine Bluff, Arkansas, that uses its proprietary Carbon Casting process to dry, compress, and bury biomass residues from timber and agricultural operations as durable carbon blocks. It operates Project Loblolly in Arkansas (which issued 15,000 credits in 2025) and is developing Project Ponderosa in Flagstaff, Arizona, and is backed by Breakthrough Energy Ventures, Prelude Ventures, Carbon Direct Capital, and Overture.
 
 ![Graphyte website](/screenshots/graphyte.png)
 
@@ -34,6 +34,7 @@ Founded in 2023 and based in Arkansas, Graphyte is a US carbon-removal startup t
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.ccarbon.info/news/graphyte-announces-60000-ton-carbon-removal-agreement-with-jpmorganchase/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.graphyte.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.graphyte.com/post/graphyte-enters-into-carbon-removal-prepurchase-agreement-with-frontier))

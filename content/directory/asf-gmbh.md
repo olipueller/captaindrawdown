@@ -2,7 +2,7 @@
 title: "ASF GmbH"
 layout: "single"
 type: "directory"
-description: "ASF GmbH (Abfallwirtschaft und Stadtreinigung Freiburg) is the municipal waste-management and street-cleaning utility for the city of Freiburg, jointly owned"
+description: "Operates a PYREG pyrolysis unit that carbonises regional green cuttings into EBC-Premium-certified biochar as a side stream of its municipal green-waste processing."
 url: "/directory/asf-gmbh/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,18 +16,19 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/abfallwirtschaft-und-stadtreinigung-freiburg-gmbh/" target="_blank" rel="noopener">abfallwirtschaft-und-stadtreinigung-freiburg-gmbh — 310 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~40 (+54% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-ASF GmbH (Abfallwirtschaft und Stadtreinigung Freiburg) is the municipal waste-management and street-cleaning utility for the city of Freiburg, jointly owned by the City of Freiburg (53%) and Remondis (47%). Since 2017 it has operated a PYREG pyrolysis plant on the former Eichelbuck landfill site that carbonises regional green-cuttings into EBC-certified Premium-quality biochar (~80–100 t/year) for agricultural and viticultural use. Biochar is a small side activity relative to its 450+ employee core waste business, and its removal credits are listed via Carbonfuture.
+ASF (Abfallwirtschaft und Stadtreinigung Freiburg GmbH) is the municipal waste-management and street-cleaning utility for the City of Freiburg, jointly owned by the City (53%) and Remondis (47%). Since March 2017 it has operated a PYREG pyrolysis plant on the former Eichelbuck landfill site that converts regional green cuttings into EBC Premium-quality biochar as an adjacent activity to its core waste and street-cleaning business. The company operates a fleet of 135+ vehicles and would continue to exist as a waste utility regardless of the biochar operation.
 
 ![ASF GmbH website](/screenshots/asf-gmbh.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.abfallwirtschaft-freiburg.de/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.abfallwirtschaft-freiburg.de/de/news/Pflanzenkohle.php))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.abfallwirtschaft-freiburg.de/))

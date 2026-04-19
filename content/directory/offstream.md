@@ -2,7 +2,7 @@
 title: "Offstream"
 layout: "single"
 type: "directory"
-description: "Offstream is a U.S.-based software and services platform that helps carbon removal project developers — primarily in biochar — manage carbon credit"
+description: "Software + services platform providing LCAs, dMRV, and certification workflow tooling for biochar and other CDR project developers across registries (Puro.earth, Isometric, Verra) and U.S. tax credit"
 url: "/directory/offstream/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

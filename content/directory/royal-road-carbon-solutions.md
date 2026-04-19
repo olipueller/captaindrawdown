@@ -2,7 +2,7 @@
 title: "Royal Road Carbon Solutions"
 layout: "single"
 type: "directory"
-description: "Royal Road Carbon Solutions is a US-based carbon offset broker and advisory firm that helps businesses identify and purchase verified carbon reduction/offset"
+description: "Carbon offset broker/reseller sourcing verified projects (initial focus on US farmer soil organic carbon via regenerative ag) for corporate clients."
 url: "/directory/royal-road-carbon-solutions/"
 pathway: "Afforestation"
 liveliness: "🟡 Moderate"

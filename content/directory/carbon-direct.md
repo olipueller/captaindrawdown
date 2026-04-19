@@ -2,7 +2,7 @@
 title: "Carbon Direct"
 layout: "single"
 type: "directory"
-description: "Carbon Direct is a New York-based science-driven carbon management firm that advises Fortune 500 companies and governments on procuring, diligencing, and"
+description: "Science-backed carbon credit advisory, due diligence, portfolio management and digital MRV (post-Pachama) for corporate CDR buyers."
 url: "/directory/carbon-direct/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

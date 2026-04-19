@@ -2,7 +2,7 @@
 title: "American BioCarbon"
 layout: "single"
 type: "directory"
-description: "American BioCarbon produces biochar, renewable energy, and carbon removal credits at its facility in White Castle, Louisiana, and is constructing one of the"
+description: "Pyrolyzes sugarcane bagasse (a sugar-mill byproduct) into biochar and fuel pellets, generating Puro.earth CORCs at a co-located facility with Cora Texas Sugar Mill in White Castle, Louisiana."
 url: "/directory/american-biocarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,14 +15,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://americanbiocarbon.com/" target="_blank" rel="noopener">https://americanbiocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/americanbiocarbon/" target="_blank" rel="noopener">americanbiocarbon — 407 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+38% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-American BioCarbon produces biochar, renewable energy, and carbon removal credits at its facility in White Castle, Louisiana, and is constructing one of the largest industrial biochar plants in the U.S., set to go live in 2026. It currently operates a pilot pyrolysis plant able to produce 3,000 tonnes a year of biochar, with plans to expand to 107,000 t/year. Its carbon removal credits (CORCs) are sold via an agreement with Puro.earth.
+American BioCarbon produces biochar, renewable energy, and carbon removal credits at its facility in Louisiana, USA, and is currently constructing one of the largest industrial biochar plants in the country, set to go live in 2026 as a self-powered facility. The company uses its patented Biomass Separation Unit combined with a proprietary pyrolysis process to transform bagasse, a byproduct of sugar cane processing, into biochar. Its CORCs are certified via Puro.earth and its biochar earned OMRI listing for organic agriculture use in January 2025.
 
 ![American BioCarbon website](/screenshots/american-biocarbon.png)
 
@@ -32,6 +32,7 @@ American BioCarbon produces biochar, renewable energy, and carbon removal credit
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://americanbiocarbon.com/pages/about-us))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://americanbiocarbon.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20250117713162/en/American-BioCarbon-Biochar-Achieves-OMRI-Listing-for-Organic-Crop-Fertilizer-and-Soil-Amendments))

@@ -2,7 +2,7 @@
 title: "Alt Carbon"
 layout: "single"
 type: "directory"
-description: "India-based climate tech startup Alt Carbon raised $12 million in a seed financing round in May 2025 — the largest seed round to date for climate tech in India"
+description: "Spreads waste basalt rock dust from Rajmahal Traps on tea and rice farmland in eastern India, where it reacts with rainwater to form bicarbonate ions that eventually store carbon in oceans for"
 url: "/directory/alt-carbon/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://altcarbon.com/" target="_blank" rel="noopener">https://altcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alt-carbon/" target="_blank" rel="noopener">alt-carbon — 38,626 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~51 (+155% YoY)</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-India-based climate tech startup Alt Carbon raised $12 million in a seed financing round in May 2025 — the largest seed round to date for climate tech in India — to scale its Enhanced Rock Weathering solution across the Global South, targeting 5 million metric tons of CO2 removal by 2030. Alt Carbon is the first Indian-headquartered company to receive a prepurchase agreement from Frontier ($500,000) and the first ERW company globally to receive an offtake from the South Pole & Mitsubishi-led NextGen buyer's coalition. It also signed a historic 10,000-tonne offtake with MOL Group, the world's first direct CDR offtake by a shipping company for ERW.
+Alt Carbon is an India-based CDR startup founded in 2023 by brothers Shrey and Sparsh Agarwal that deploys Enhanced Rock Weathering by spreading waste basalt rock dust on tea, rice, and bamboo farms in the Darjeeling/Rajmahal region. The company raised a $12M seed round in May 2025 and has secured agreements with Frontier, NextGen (South Pole/Mitsubishi), and MOL Group, with credits issued via Isometric.
 
 ![Alt Carbon website](/screenshots/alt-carbon.png)
 
@@ -34,6 +34,7 @@ India-based climate tech startup Alt Carbon raised $12 million in a seed financi
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/))

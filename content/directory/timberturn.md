@@ -2,7 +2,7 @@
 title: "TimberTurn"
 layout: "single"
 type: "directory"
-description: "TimberTurn is a Canadian (Calgary, Alberta) CDR supplier that takes uneconomical, non-merchantable waste wood from fuel-thinning treatments and converts it"
+description: "Engineered underground wood vaults that bury waste forest biomass under anaerobic conditions to prevent decay, with sensor-based MRV and third-party verification."
 url: "/directory/timberturn/"
 pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://timberturn.ca/" target="_blank" rel="noopener">https://timberturn.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wood-safe/" target="_blank" rel="noopener">wood-safe — 234 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-TimberTurn is a Canadian (Calgary, Alberta) CDR supplier that takes uneconomical, non-merchantable waste wood from fuel-thinning treatments and converts it into a carbon asset through engineered burial, offering landowners revenue-sharing partnerships. The company delivers permanent, verifiable carbon storage using engineered wood vaults, integrated sensors, third-party verification, and MRV technology. They partner with First Nations, community forest operators, and private landowners to develop projects.
+TimberTurn is a Calgary, Alberta-based carbon removal startup that buries non-merchantable waste wood from forest fuel-thinning treatments in engineered underground wood vaults for permanent storage. The company partners with First Nations, community forest operators, and private landowners on revenue-sharing projects that combine wildfire risk reduction with carbon credit generation, using sensors and third-party MRV for verification.
 
 ![TimberTurn website](/screenshots/timberturn.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://timberturn.ca/))
 - **2026-04-19** — merged 1 duplicate(s): Timber Turn Storage Inc
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.pollutiononline.com/doc/direct-storage-of-biomass-coalition-launches-to-advance-carbon-removal-pathway-0001))

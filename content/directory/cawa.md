@@ -2,7 +2,7 @@
 title: "CAWA"
 layout: "single"
 type: "directory"
-description: "Cawa is an Amsterdam-based software startup (founded 2022) that provides API infrastructure enabling carbon accounting and ESG platforms to sell traceable,"
+description: "API-based carbon credit marketplace/broker connecting corporate buyers to a curated portfolio of third-party CDR projects with traceability and reporting features."
 url: "/directory/cawa/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

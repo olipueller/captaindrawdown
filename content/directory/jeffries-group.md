@@ -2,7 +2,7 @@
 title: "Jeffries Group"
 layout: "single"
 type: "directory"
-description: "Jeffries Group is a long-established South Australian composting and soil products family business that in 2021 commissioned one of the Southern Hemisphere's"
+description: "Pyrolysis of oversize woody green-waste feedstock (Pyrocal CCT technology) into biochar that is blended into organic compost/fertiliser and registered on Puro.earth."
 url: "/directory/jeffries-group/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -17,12 +17,12 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/jeffries/" target="_blank" rel="noopener">jeffries — 2,456 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~45 (+5% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Jeffries Group is a long-established South Australian composting and soil products family business that in 2021 commissioned one of the Southern Hemisphere's largest biochar plants, producing roughly 1,500 dry tonnes of biochar annually from recycled green organics. Biochar is sold as a soil amendment and in pelletized CulChar fertiliser, and the company is a Puro.earth-listed CORC supplier with hundreds of CORCs issued and retired under the Biochar 2022 methodology.
+Jeffries Group is a fourth-generation South Australian family composting and soil products company that recycles over 150,000 tonnes of organic material annually from Adelaide councils into compost, soil and mulch. In 2021 it commissioned a biochar plant (using Pyrocal CCT pyrolysis technology) that processes oversize woody material into biochar, blended into their CulChar organic fertiliser and sold as Puro.earth-listed CORCs. Composting/soil products remains the core business; biochar is an adjacent value-added product stream.
 
 ![Jeffries Group website](/screenshots/jeffries-group.png)
 
@@ -32,6 +32,7 @@ Jeffries Group is a long-established South Australian composting and soil produc
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://jeffries.com.au/home-gardening/jeffries-culchar/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/projects/114352))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://jeffries.com.au/about-us/corc/))

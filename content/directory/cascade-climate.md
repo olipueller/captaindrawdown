@@ -2,7 +2,7 @@
 title: "Cascade Climate"
 layout: "single"
 type: "directory"
-description: "Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) that accelerates open-system CDR pathways, with an initial focus on enhanced"
+description: "Nonprofit that builds ERW quantification standards, digital tools (Weathering Potential Explorer, ERW-MAC, Data Quarry), and funds R&D/policy to scale enhanced rock weathering as a CDR pathway."
 url: "/directory/cascade-climate/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"

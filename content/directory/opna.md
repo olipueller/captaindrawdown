@@ -2,7 +2,7 @@
 title: "Opna"
 layout: "single"
 type: "directory"
-description: "Opna is a UK-based climate finance platform founded in 2022 by Shilpika Gautam that helps corporates discover, finance, and manage high-integrity carbon"
+description: "Software/finance platform for sourcing, diligence, pooled-fund financing, and impact management of carbon removal projects on behalf of corporate buyers."
 url: "/directory/opna/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

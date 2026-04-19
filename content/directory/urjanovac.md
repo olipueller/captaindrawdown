@@ -2,7 +2,7 @@
 title: "UrjanovaC"
 layout: "single"
 type: "directory"
-description: "UrjanovaC is a Mumbai-based startup incubated at IIT Bombay's SINE, co-founded in 2023 by Prof. Vikram Vishal and Prof. Arnab Dutta, spun out of the"
+description: "Aqueous catalyst-based CO2 capture from flue gas and ambient air using water (including industrial wastewater or seawater), with captured CO2 converted to stable mineral carbonates or to CO for"
 url: "/directory/urjanovac/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.urjanovac.com/" target="_blank" rel="noopener">https://www.urjanovac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/urjanovac-pvt-ltd/" target="_blank" rel="noopener">urjanovac-pvt-ltd — 7,398 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+86% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-UrjanovaC is a Mumbai-based startup incubated at IIT Bombay's SINE, co-founded in 2023 by Prof. Vikram Vishal and Prof. Arnab Dutta, spun out of the DST-supported National Centre of Excellence in Carbon Capture and Utilization. The company is developing a patented aqueous, catalyst-based CO2 capture technology (TRL 5) that captures CO2 from flue gas or ambient air using water, converting it into mineral carbonates, and is deploying a 3-tonne-per-day pilot at IIT Bombay. It has won multiple 2025 awards including NASSCOM Emerge50, the Avinya Energy Startup Challenge at India Energy Week 2025, and the Carbon Capture Technology Hackathon 2025.
+UrjanovaC is a Mumbai-based climate-tech startup founded in 2023 by IIT Bombay professors Vikram Vishal and Arnab Dutta, incubated at SINE and spun out of the DST-supported National Centre of Excellence in Carbon Capture and Utilization. The company develops a patented aqueous, catalyst-based CO2 capture technology that captures CO2 from flue gas or ambient air using water (including industrial wastewater or seawater), converting it into stable mineral carbonates or usable chemicals like CO.
 
 ![UrjanovaC website](/screenshots/urjanovac.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dst.gov.in/newly-developed-resilient-cost-effective-carbon-capture-technology-represents-significant))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dst.gov.in/newly-developed-resilient-cost-effective-carbon-capture-technology-represents-significant))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://in.linkedin.com/company/urjanovac-pvt-ltd))

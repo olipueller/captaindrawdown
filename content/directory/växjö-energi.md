@@ -2,7 +2,7 @@
 title: "Växjö Energi"
 layout: "single"
 type: "directory"
-description: "Växjö Energi AB (VEAB) is a Swedish municipal energy company owned by Växjö municipality, operating the Sandviksverket biomass CHP plant. It is developing a"
+description: "Post-combustion CO2 capture (hot potassium carbonate / HPC) at a biomass-fired combined heat and power plant, with liquefaction, rail-plus-ship transport, and geological storage under the North Sea."
 url: "/directory/växjö-energi/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.veab.se/" target="_blank" rel="noopener">https://www.veab.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vaxjo-energi-ab/" target="_blank" rel="noopener">vaxjo-energi-ab — 3,428 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~172 (+4% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Växjö Energi AB (VEAB) is a Swedish municipal energy company owned by Växjö municipality, operating the Sandviksverket biomass CHP plant. It is developing a BECCS facility in collaboration with Sumitomo SHI FW using hot potassium carbonate (HPC) capture technology, targeting approximately 200,000 tonnes of CO2 captured annually starting in 2028, with storage planned in the North Sea.
+Växjö Energi AB (VEAB) is a Swedish municipal energy utility owned by Växjö municipality, providing district heating, district cooling, electricity, and (via subsidiary Wexnet) broadband. It operates the fully biomass-fueled Sandviksverket CHP plant and is developing a BECCS facility (the POSCLIMB project) with Sumitomo SHI FW using hot potassium carbonate capture technology, targeting ~200,000 t CO2/yr starting 2028 with storage in the North Sea.
 
 ![Växjö Energi website](/screenshots/växjö-energi.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.veab.se/en/about/investments-and-projects/beccs/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.veab.se/en/about/investments-and-projects/beccs/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.veab.se/en/about/investments-and-projects/beccs/))

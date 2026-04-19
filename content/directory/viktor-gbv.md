@@ -2,10 +2,10 @@
 title: "Viktor G.BV"
 layout: "single"
 type: "directory"
-description: "Viktor Goes Green is an Antwerp, Belgium-based company that develops green energy projects, including biomass gasification to green gas and biomass"
+description: "Designs and sells biomass gasification/pyrolysis equipment that produces biochar alongside syngas/green gas, with deployments in Belgium and Benin."
 url: "/directory/viktor-gbv/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.viktorgoesgreen.be/" target="_blank" rel="noopener">https://www.viktorgoesgreen.be/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/viktor-goes-green.be/" target="_blank" rel="noopener">viktor-goes-green.be</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Viktor Goes Green is an Antwerp, Belgium-based company that develops green energy projects, including biomass gasification to green gas and biomass installations. The firm (presented by Marc Moons in a 2023 Green Carbon Webinar) produces biochar and biochar production equipment. They act as a CDR supplier by producing durable biochar and enabling others to do so through their equipment.
+Viktor Goes Green is a Belgian green-energy company founded in 2011/2015 by Marc Moons, based in the Antwerp area, that provides consulting and installations for horticulture and industry including E-boilers, biomass gasification, and biochar production equipment. Their CDR-relevant work includes biochar production and deployments of small-scale biochar/charcoal kilns in Benin plus a first industrial installation sold, while the business also covers non-CDR green-energy services such as E-boiler installations for greenhouses and biomethanol R&D.
 
 ![Viktor G.BV website](/screenshots/viktor-gbv.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.marccornelissenbrightlandsaward.com/marc-moons))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.viktorgoesgreen.be/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.viktorgoesgreen.be ([source](https://www.cdr.fyi/supplier/viktor))

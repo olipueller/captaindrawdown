@@ -2,7 +2,7 @@
 title: "Carbon Streaming"
 layout: "single"
 type: "directory"
-description: "Carbon Streaming Corporation is a publicly traded (NETZ/OFSTF) carbon credit streaming and royalty company headquartered in Vancouver, Canada. It provides"
+description: "Carbon credit streaming/royalty finance firm that provides upfront capital to project developers in exchange for rights to future credits, then sells those credits to corporate buyers."
 url: "/directory/carbon-streaming/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

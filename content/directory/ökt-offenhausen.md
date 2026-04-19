@@ -2,10 +2,10 @@
 title: "ÖKT Offenhausen"
 layout: "single"
 type: "directory"
-description: "Ökologische Klärschlammtrocknung Offenhausen GmbH (ÖKT Offenhausen) is a Bavarian facility that operates two pyrolysis units producing biochar from wood chips"
+description: "Operates two wood-chip pyrolysis units producing EBC Agro-Bio biochar, using waste heat to dry sewage sludge and digestate from an integrated biogas plant; credits issued under Global C-Sink and sold"
 url: "/directory/ökt-offenhausen/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/" target="_blank" rel="noopener">https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero — 4,517 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Ökologische Klärschlammtrocknung Offenhausen GmbH (ÖKT Offenhausen) is a Bavarian facility that operates two pyrolysis units producing biochar from wood chips while providing waste heat to dry sewage sludge and fermentation residues from its integrated biogas plant. The biochar is EBC Agro-Bio certified and credits are issued under the Global C-Sink standard and sold via Carbonfuture and Klimate.
+ÖKT Offenhausen (Ökologische Klärschlammtrocknung Offenhausen GmbH) is a Bavarian GmbH founded in 2019 whose registered business purpose is operating a drying plant for sewage sludge and fermentation residues at the Offenhausen biogas plant. It runs pyrolysis units that convert wood chips into EBC-certified biochar, using the process heat to dry sludge, with credits sold via Carbonfuture and Klimate. CDR is an adjacent revenue stream to the core sludge-drying/biogas utility operation.
 
 ![ÖKT Offenhausen website](/screenshots/ökt-offenhausen.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟡 Moderate ([source](https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/))
 - **2026-04-19** — merged 1 duplicate(s): Biochar-Zero
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟡 Moderate ([source](https://biochar-zero.com/))

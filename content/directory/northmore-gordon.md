@@ -2,7 +2,7 @@
 title: "Northmore Gordon"
 layout: "single"
 type: "directory"
-description: "Northmore Gordon is an Australian energy and carbon advisory consultancy (founded 2009, consolidated with Wattly in 2021) with offices in Melbourne, Sydney,"
+description: "Energy/carbon consultancy that brokers CORCs and other environmental certificates as a Puro.earth sales channel partner; also registers and manages carbon projects under ACCU, Verra, Gold Standard"
 url: "/directory/northmore-gordon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Carbon Square"
 layout: "single"
 type: "directory"
-description: "Carbon Square (CarbonSQR) is an early-stage Indian startup developing Direct Air Capture technology and planning what is described as India's first pilot DAC"
+description: "Early-stage Indian startup developing a liquid-solvent Direct Air Capture pilot, planning India's first DAC facility near Hyderabad targeting up to 8 tCO2/day, with both permanent sequestration and"
 url: "/directory/carbon-square/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://carbonsqr.com/" target="_blank" rel="noopener">https://carbonsqr.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonsqr/" target="_blank" rel="noopener">carbonsqr</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbon Square (CarbonSQR) is an early-stage Indian startup developing Direct Air Capture technology and planning what is described as India's first pilot DAC facility near Hyderabad, targeting up to 8 tonnes of CO₂ per day. The company also mentions carbon reuse alongside permanent sequestration, suggesting a mixed CDR/CCU orientation at this early stage.
+CarbonSQR is planning India's first pilot DAC facility near Hyderabad, expected to capture up to 8 tonnes of CO₂ per day. The company's mission is to sequester carbon permanently or repurpose it for beneficial applications, and it frames itself as delivering affordable Direct Air Capture credits. It is at an early, pre-commercial stage with no registry issuances to date.
 
 ![Carbon Square website](/screenshots/carbon-square.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://carbonsqr.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://carbonsqr.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://carbonsqr.com/careers))

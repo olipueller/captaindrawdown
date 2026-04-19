@@ -2,7 +2,7 @@
 title: "Salient Direct Ocean Capture"
 layout: "single"
 type: "directory"
-description: "Salient Direct Ocean Capture (Salient DOC) is an early-stage startup developing electrochemical technology for direct ocean capture of CO2 from seawater."
+description: "Early-stage startup developing electrochemical direct ocean capture (DOC) technology to extract dissolved CO2 from seawater."
 url: "/directory/salient-direct-ocean-capture/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
@@ -13,17 +13,18 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Ocean CDR</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Unknown</td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Salient Direct Ocean Capture (Salient DOC) is an early-stage startup developing electrochemical technology for direct ocean capture of CO2 from seawater. Public information is scarce — the only visible reference is via an advisor's LinkedIn profile describing the company as pioneering electrochemical CDR from seawater and scaling from concept to pilot. No company website, funding announcements, or pilot deployments have been publicly confirmed.
+Salient Direct Ocean Capture (Salient DOC) is an early-stage startup pioneering electrochemical technology for direct ocean capture of CO2 from seawater, scaling from concept to pilot. Public information is extremely limited — there is no company website or funding announcements, with the only public references being a LinkedIn company page and an advisor's profile description.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.linkedin.com/company/salient-doc))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.linkedin.com/in/arsalana/))

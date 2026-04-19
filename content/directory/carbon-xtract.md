@@ -2,10 +2,10 @@
 title: "Carbon Xtract"
 layout: "single"
 type: "directory"
-description: "Carbon Xtract Corporation is a Fukuoka, Japan-based company established in 2023 by Sojitz Corporation (with Kyushu University as investor) to commercialize"
+description: "Develops small-scale, distributed direct air capture devices using high-permeability nano-separation membranes (m-DAC®) that capture CO2 by filtering ambient air through gas separation membranes."
 url: "/directory/carbon-xtract/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://c-xtract.com/en/" target="_blank" rel="noopener">https://c-xtract.com/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-xtract/" target="_blank" rel="noopener">carbon-xtract — 182 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~6 (0% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbon Xtract Corporation is a Fukuoka, Japan-based company established in 2023 by Sojitz Corporation (with Kyushu University as investor) to commercialize membrane-based Direct Air Capture (m-DAC®) technology developed at Kyushu University. The technology uses high-permeability nano-separation membranes to capture CO₂ from ambient air in small-scale, distributed devices. The company has joint-development partnerships with Tokyo Ohka Kogyo and was selected for a Tokyo Metropolitan Government GX project with Shimizu Corporation.
+Carbon Xtract Corporation is a Fukuoka, Japan startup established in May 2023 by Sojitz Corporation, Kyushu University, and NanoMembrane Technologies to commercialize membrane-based Direct Air Capture (m-DAC®) technology developed at Kyushu University. The company develops small-scale, distributed DAC devices using high-permeability nano-separation membranes and has signed joint development agreements with Tokyo Ohka Kogyo, Shimizu Corporation, ZEN-NOH, MUFG Bank, and JR West for applications including greenhouse horticulture, plant factories, and urban building installations.
 
 ![Carbon Xtract website](/screenshots/carbon-xtract.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://c-xtract.com/en/news/press-release/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://c-xtract.com/en/))

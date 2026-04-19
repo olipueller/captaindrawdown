@@ -2,7 +2,7 @@
 title: "Solör Bioenergy"
 layout: "single"
 type: "directory"
-description: "Solör Bioenergy Group is a leading Scandinavian renewable energy company that produces and distributes district heating, steam and electricity from wood fuels"
+description: "Retrofits biomass-fired district heating plants with pyrolysis units (PyCCS) to co-produce biochar alongside heat, steam and electricity."
 url: "/directory/solör-bioenergy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://solorbioenergi.com/" target="_blank" rel="noopener">https://solorbioenergi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sol%c3%b6r-bioenergi-ab/" target="_blank" rel="noopener">sol%c3%b6r-bioenergi-ab — 557 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~63</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Solör Bioenergy Group is a leading Scandinavian renewable energy company that produces and distributes district heating, steam and electricity from wood fuels across approximately 300 sites in Sweden and Norway. It operates biochar production (pyrolysis with carbon capture/PyCCS) at multiple district heating plants including Skurup, Svedala, Munka-Ljungby, Herrljunga and a newly built facility in Ulricehamn (2025). In October 2025 the group completed a SEK 22 billion long-term refinancing to support its growth strategy.
+Solör Bioenergy Group is a major Scandinavian renewable energy utility operating roughly 300 sites in Sweden and Norway, producing and distributing district heating, steam and electricity from wood fuels. At several plants (Skurup, Svedala, Munka-Ljungby, Herrljunga, Ulricehamn) it has added pyrolysis-with-carbon-capture units that co-produce biochar as a side stream. District heating remains the core business; biochar is an adjacent CDR activity.
 
 ![Solör Bioenergy website](/screenshots/solör-bioenergy.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://bioenergyinternational.com/solor-bioenergi-enters-biochar-production-collaboration/))
 - **2026-04-19** — merged 1 duplicate(s): Solör Bioenergi
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

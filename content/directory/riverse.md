@@ -2,7 +2,7 @@
 title: "Riverse"
 layout: "single"
 type: "directory"
-description: "Riverse (rebranded as Rainbow Standard in 2025) is a French carbon credit certification standard and registry focused on engineered and circular-economy"
+description: "Carbon credit certification standard and registry (with digital MRV platform) for engineered and circular-economy projects, including CDR pathways like biochar and enhanced weathering."
 url: "/directory/riverse/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

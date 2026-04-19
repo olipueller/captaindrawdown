@@ -2,7 +2,7 @@
 title: "Yard Stick PBC"
 layout: "single"
 type: "directory"
-description: "Yard Stick PBC is a Cambridge, Massachusetts-based soil carbon MRV company founded in 2021 that builds a handheld VisNIR spectroscopy probe for in-situ"
+description: "Builds a handheld in-situ visible/near-infrared (VisNIR) spectroscopy probe and software platform for measuring soil organic carbon stocks down to ~45 cm (with a 1 m probe in development) for use in"
 url: "/directory/yard-stick-pbc/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

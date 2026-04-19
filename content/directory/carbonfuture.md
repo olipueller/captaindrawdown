@@ -2,7 +2,7 @@
 title: "Carbonfuture"
 layout: "single"
 type: "directory"
-description: "Carbonfuture operates a digital Trust Infrastructure for durable carbon removal, combining its MRV+ dMRV platform with a marketplace that connects buyers to"
+description: "Digital MRV platform plus marketplace that tracks durable CDR credits end-to-end and brokers offtake agreements between buyers and suppliers across multiple pathways."
 url: "/directory/carbonfuture/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

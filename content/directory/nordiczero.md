@@ -2,7 +2,7 @@
 title: "Nordiczero"
 layout: "single"
 type: "directory"
-description: "Nordiczero is a Swedish company developing solutions that use biochar and bioash, produced from biogenic residues, for concrete and building materials. By"
+description: "Develops biochar- and bioash-based additives for concrete and building materials to lock biogenic carbon into long-lived construction products."
 url: "/directory/nordiczero/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -22,13 +22,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Nordiczero is a Swedish company developing solutions that use biochar and bioash, produced from biogenic residues, for concrete and building materials. By embedding pyrolysis-derived carbon in cementitious products, the company targets durable CO2 storage in the built environment. It appears to be a very small, early-stage venture with a minimal public footprint.
+Nordiczero is an early-stage Swedish venture developing solutions that incorporate biochar and bioash from biogenic residues into concrete and building materials. The company aims to lock biogenic carbon into cementitious products for durable storage in the built environment. It has a very small public footprint (one-person team on LinkedIn) and no registry issuances to date.
 
 ![Nordiczero website](/screenshots/nordiczero.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://nordiczero.com/en/))
 - **2026-04-19** — merged 1 duplicate(s): Nordiczero AB
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

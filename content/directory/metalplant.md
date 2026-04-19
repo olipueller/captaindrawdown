@@ -2,7 +2,7 @@
 title: "Metalplant"
 layout: "single"
 type: "directory"
-description: "Metalplant is a US-domiciled (Delaware) CDR supplier with field operations in northern Albania that combines enhanced rock weathering of olivine with nickel"
+description: "Grinds olivine and spreads it on serpentine soils in Albania where nickel-hyperaccumulator plants grow, co-producing ERW-based CDR and extracting nickel from plant biomass."
 url: "/directory/metalplant/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://metalplant.com/" target="_blank" rel="noopener">https://metalplant.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phytomining/" target="_blank" rel="noopener">phytomining</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~204 (+48% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Metalplant is a US-domiciled (Delaware) CDR supplier with field operations in northern Albania that combines enhanced rock weathering of olivine with nickel phytomining using hyperaccumulator plants (Odontarrhena chalcidica) to co-produce carbon removal credits and carbon-negative nickel ("NegativeNickel™"). The company has raised ~$3.7M from investors including Carbon Removal Partners and Carbon Drawdown Initiative, and received a $1.72M ARPA-E PHYTOMINES grant in 2024. Metalplant is developing MRV with EcoEngineers targeting Puro.earth ERW methodology compliance.
+Metalplant is a US-domiciled startup with field operations in northern Albania that integrates enhanced rock weathering of olivine with nickel phytomining using hyperaccumulator plants (Odontarrhena chalcidica) to co-produce carbon removal credits and carbon-negative nickel ("NegativeNickel"). The company has raised ~$3.7M in venture funding and was awarded $1.72M by ARPA-E in partnership with Verinomics to scale phytomining in the US.
 
 ![Metalplant website](/screenshots/metalplant.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://metalplant.com/hyperweathering-enhanced-rock-weathering-for-climate-change-mitigation-meets-phytomining-technology/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://metalplant.com/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://metalplant.com/))

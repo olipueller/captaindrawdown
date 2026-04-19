@@ -2,33 +2,35 @@
 title: "High Plains Biochar"
 layout: "single"
 type: "directory"
-description: "High Plains Biochar is a Wyoming-based biochar producer and manufacturer of small-scale biochar equipment, including the RocketChar furnace, Earth Kiln, and"
+description: "Designs and manufactures small-scale biochar pyrolysis equipment (RocketChar, Earth Kiln, Boulder Biochar Barrel), produces pine-feedstock biochar, and operates a biochar co-op to help small"
 url: "/directory/high-plains-biochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.hpbiochar.com/" target="_blank" rel="noopener">https://www.hpbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/high-plains-biochar-llc/" target="_blank" rel="noopener">high-plains-biochar-llc — 556 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-High Plains Biochar is a Wyoming-based biochar producer and manufacturer of small-scale biochar equipment, including the RocketChar furnace, Earth Kiln, and Boulder Biochar Barrel. The company also produces bagged biochar from pine feedstock and helps small-scale producers verify and market carbon credits through a biochar co-op. Its Earth Kiln is endorsed under the Global Artisan C-Sink Standard.
+High Plains Biochar designs and manufactures small scale biochar equipment and helps small-scale biochar producers verify and market the carbon credits they produce through a biochar co-op. Its Earth Kiln is endorsed under the Global Artisan C-Sink Standard, making it one of the few technology providers worldwide to achieve the recognition. Based in Laramie, Wyoming with a recently opened larger facility in Laporte, Colorado.
 
 ![High Plains Biochar website](/screenshots/high-plains-biochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.hpbiochar.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.hpbiochar.com/))

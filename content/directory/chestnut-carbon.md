@@ -2,7 +2,7 @@
 title: "Chestnut Carbon"
 layout: "single"
 type: "directory"
-description: "Chestnut Carbon is a New York-based developer of nature-based carbon removal credits, founded in 2022 with support from Kimmeridge. The company runs a large"
+description: "Develops U.S. afforestation/reforestation and Improved Forest Management projects to generate Gold Standard-verified carbon removal credits on privately-owned forestland."
 url: "/directory/chestnut-carbon/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://chestnutcarbon.com/" target="_blank" rel="noopener">https://chestnutcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/chestnut-carbon/" target="_blank" rel="noopener">chestnut-carbon — 7,376 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 96/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~55 (+267% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Chestnut Carbon is a New York-based developer of nature-based carbon removal credits, founded in 2022 with support from Kimmeridge. The company runs a large U.S. afforestation program (Chestnut Sustainable Restoration Project) and an Improved Forest Management program (Forest Carbon Works) on family-owned forestland and marginal crop/pastureland across the southeastern U.S. It has major offtake agreements with Microsoft and has raised significant equity and project financing in 2025.
+Chestnut Carbon is a New York-based pure-play nature-based carbon removal developer founded in 2022 with backing from Kimmeridge. It runs the Chestnut Sustainable Restoration Project (afforestation) across the southeastern U.S. and the Forest Carbon Works IFM membership program, with long-term offtake agreements including Microsoft and Mercedes-AMG PETRONAS F1.
 
 ![Chestnut Carbon website](/screenshots/chestnut-carbon.png)
 
@@ -33,6 +33,7 @@ Chestnut Carbon is a New York-based developer of nature-based carbon removal cre
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://chestnutcarbon.com/news-resources/chestnut-carbon-raises-an-additional-90-million-for-series-b/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://chestnutcarbon.com/news-resources/chestnut-carbon-scales-up-nature-based-carbon-removal-with-largest-afforestation-project-in-the-u-s/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://chestnutcarbon.com/news-resources/chestnut-carbon-raises-an-additional-90-million-for-series-b/))

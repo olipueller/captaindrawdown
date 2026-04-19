@@ -2,7 +2,7 @@
 title: "agriCARBON/MicroCHAR"
 layout: "single"
 type: "directory"
-description: "MicroCHAR is marketed by BIOUHEL.CZ s.r.o. as the first fertiliser that removes carbon using the PyCCS method, with a 2025 copyright on the site. Development"
+description: "Pyrolysis of biomass into microgranular biochar enriched with organic nutrients, rhizobacteria and mycorrhizal fungi, marketed as a soil conditioner/fertilizer with PyCCS carbon-removal claim."
 url: "/directory/agricarbonmicrochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -20,13 +20,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-MicroCHAR is marketed by BIOUHEL.CZ s.r.o. as the first fertiliser that removes carbon using the PyCCS method, with a 2025 copyright on the site. Development of MicroCHAR® began in fall 2020 and ended in fall 2021 as corporate research of AIVOTEC s.r.o. and BIOUHEL.CZ, with a patent application submitted 22.12.2021. BIOUHEL.CZ was founded in 2013 to develop biochar production and use as a sustainability tool, based on a biochar production solution at an agricultural biogas plant that won the Czech Innovation 2013 award.
+MicroCHAR is a microgranular biochar-based soil conditioner/fertilizer developed and marketed by BIOUHEL.CZ s.r.o. (with AIVOTEC s.r.o.) in the Czech Republic, combining biochar with nutrients, rhizobacteria and mycorrhizal fungi. The product was developed through corporate research in 2020–2021, with a Czech patent (P 309512) and PCT application filed in December 2021, and has been evaluated in peer-reviewed agronomic studies including a 2024 Soil Use and Management paper and a 2025 Journal of Soil Science and Plant Nutrition paper.
 
 ![agriCARBON/MicroCHAR website](/screenshots/agricarbonmicrochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.microchar.eu/en/microchar-en/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.microchar.eu/en/microchar-en/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

@@ -2,10 +2,10 @@
 title: "Appalachian Carbon Exchange"
 layout: "single"
 type: "directory"
-description: "Appalachian Carbon Exchange (ACE) is a non-profit based in Chattanooga, Tennessee that develops nature-based carbon projects across the Southern and Central"
+description: "Non-profit aggregator that enrolls Appalachian forest landowners into improved forest management, reforestation, agroforestry and pocket-forest carbon projects registered on the American Carbon"
 url: "/directory/appalachian-carbon-exchange/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.appalachiancarbonexchange.com/" target="_blank" rel="noopener">https://www.appalachiancarbonexchange.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/appalachian-carbon-exchange/" target="_blank" rel="noopener">appalachian-carbon-exchange — 284 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Appalachian Carbon Exchange (ACE) is a non-profit based in Chattanooga, Tennessee that develops nature-based carbon projects across the Southern and Central Appalachian region, including improved forest management, agroforestry, and pocket forests. Spun out of the Tennessee River Gorge Trust in 2021, ACE partners with landowners and corporate buyers, registering credits under the American Carbon Registry in collaboration with Finite Carbon. In 2024 it received a $2M USDA Forest Service grant to expand into coal-affected communities in Kentucky and West Virginia.
+Appalachian Carbon Exchange (ACE) is a Chattanooga, Tennessee-based non-profit spun out of the Tennessee River Gorge Trust in 2021 that aggregates improved forest management, reforestation, agroforestry/silvopasture, and pocket-forest projects across Central and Southern Appalachia. ACE develops projects under the American Carbon Registry's IFM protocol, partnering with Finite Carbon for project development and corporate buyers such as Mannington Commercial. In 2024 ACE received a $2M U.S. Forest Service grant to expand into coal-affected communities in Kentucky and West Virginia.
 
 ![Appalachian Carbon Exchange website](/screenshots/appalachian-carbon-exchange.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.appalachiancarbonexchange.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.appalachiancarbonexchange.com/))

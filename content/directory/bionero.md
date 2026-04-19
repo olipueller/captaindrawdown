@@ -2,7 +2,7 @@
 title: "bionero"
 layout: "single"
 type: "directory"
-description: "bionero GmbH is a small biochar producer based in Thurnau, Bavaria, founded in 2018. The company produces biochar via pyrolysis of organic residues and"
+description: "Produces biochar via pyrolysis of regional organic residues (wood-waste from nearby sawmills) and refines it into peat-free Terra Preta potting soils and garden substrates."
 url: "/directory/bionero/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-bionero GmbH is a small biochar producer based in Thurnau, Bavaria, founded in 2018. The company produces biochar via pyrolysis of organic residues and incorporates it into peat-free Terra Preta potting soils and garden substrates sold to consumers, retailers, and horticultural markets. As of late 2025 they are expanding with additional decentralized pyrolysis production sites.
+bionero GmbH, based in Thurnau near Bayreuth in Upper Franconia, was founded in 2018 to produce biochar from organic residues and refine it into various products. The company sells EBC-certified Terra Preta potting soils and garden substrates to retailers and hobby gardeners, and is currently building additional decentralized pyrolysis sites where biogenic residues are available for reuse. bionero claims to have been the first company in Germany to operate in a certified climate-positive manner, making biochar-based carbon removal central to the business.
 
 ![bionero website](/screenshots/bionero.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bionero.de/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bionero.de/pflanzenkohle))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.bionero.de/))

@@ -2,7 +2,7 @@
 title: "Airbuild"
 layout: "single"
 type: "directory"
-description: "Airbuild is an early-stage US climate tech startup (Troy, NY / San Diego) that integrates microalgae cultivation with solar panels to treat wastewater and"
+description: "Uses microalgae in solar-powered pods to treat polluted water and capture CO2, then pyrolyzes algal biomass with local organic waste into biochar for permanent carbon storage."
 url: "/directory/airbuild/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,24 +11,25 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
-  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.airbuildinc.com/" target="_blank" rel="noopener">https://www.airbuildinc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airbuild/" target="_blank" rel="noopener">airbuild — 3,184 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~24 (+140% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Airbuild is an early-stage US climate tech startup (Troy, NY / San Diego) that integrates microalgae cultivation with solar panels to treat wastewater and capture CO2, then pyrolyzes algal biomass plus local waste biomass into biochar for permanent carbon storage. The company is pre-commercial and advancing its first deployment on a 37-acre site in Green River, Utah, targeting rural municipalities with sewer-lagoon wastewater systems.
+Airbuild is a US climate tech startup (San Diego / Troy, NY) developing self-powered BioPod systems that cultivate microalgae to bioremediate wastewater while sequestering atmospheric carbon, then converting the algal biomass into biochar. The company is advancing its first commercial deployment on a 37-acre site in Green River, Utah and is exploring additional pilots in San Juan County, Utah.
 
 ![Airbuild website](/screenshots/airbuild.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.airbuildinc.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.airbuildinc.com/))

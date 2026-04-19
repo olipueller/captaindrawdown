@@ -2,7 +2,7 @@
 title: "Longstraw Carbon"
 layout: "single"
 type: "directory"
-description: "Longstraw Carbon is a Delhi, India-based biochar startup founded in 2024 by Utkarsh Raj, Anwita Mukherjee and Vineet Agarwal. The company uses its proprietary"
+description: "Pyrolyzes rice husk and crop residues via their RiceLoop/STS pyrolysis tech to produce biochar, bio-oil, and syngas."
 url: "/directory/longstraw-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Longstraw Carbon is a Delhi, India-based biochar startup founded in 2024 by Utkarsh Raj, Anwita Mukherjee and Vineet Agarwal. The company uses its proprietary RiceLoop™ / STS™ pyrolysis process to convert rice husk and other crop residues from Indian rice mills into biochar (targeted at high-integrity CDR standards such as Isometric and Puro.earth), bio-oil and syngas, with active production sites in Kalahandi and Sambalpur, Odisha.
+Longstraw Carbon is a Delhi, India-based biochar startup founded in 2024 by Utkarsh Raj, Anwita Mukherjee and Vineet Agarwal. The team has been on the ground setting up biochar production equipment across projects in Kalahandi and Sambalpur. They are targeting high-integrity CDR standards such as Isometric and are members of the Carbon Removal India Alliance.
 
 ![Longstraw Carbon website](/screenshots/longstraw-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://longstraw.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Longstraw Technologies
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://longstraw.earth/))

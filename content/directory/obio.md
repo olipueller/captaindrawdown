@@ -2,10 +2,10 @@
 title: "OBIO"
 layout: "single"
 type: "directory"
-description: "OBIO is a Norwegian biochar company based in the Opland/central region that built the first industrial-scale pyrolysis plant in Norway at Rudshøgda in"
+description: "Operates an industrial-scale pyrolysis plant at Rudshøgda, Norway, producing biochar from locally-sourced PEFC-certified wood chips, with residual heat feeding a district heating system."
 url: "/directory/obio/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,14 +14,14 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.obio.no/" target="_blank" rel="noopener">https://www.obio.no/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/obio-norge/" target="_blank" rel="noopener">obio-norge — 18 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-OBIO is a Norwegian biochar company based in the Opland/central region that built the first industrial-scale pyrolysis plant in Norway at Rudshøgda in Ringsaker municipality. Obio AS was founded in December 2022 when the pyrolysis business was transferred from Oplandske Bioenergi; it is owned 60% by district heating company Eidsiva Bioenergi and 40% by forest owners cooperative Glommen Mjøsen Skog. In autumn 2024 the facility was expanded with a new hall, pyrolysis oven and bagging line; with two Biomacon ovens the annual capacity is about 2,700 m3 (750 tonnes).
+OBIO AS is a Norwegian biochar company that built and operates the first industrial-scale pyrolysis plant in Norway at Rudshøgda, Ringsaker, which has been running 24/7 since January 2021. Founded in December 2022 when the pyrolysis business was spun out from Oplandske Bioenergi, it is owned 60% by district-heating utility Eidsiva Bioenergi and 40% by forest-owner cooperative Glommen Mjøsen Skog, and sells Puro.earth CORC biochar carbon removal credits.
 
 ![OBIO website](/screenshots/obio.png)
 
@@ -31,6 +31,7 @@ OBIO is a Norwegian biochar company based in the Opland/central region that buil
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.obio.no/about-us))
 - **2026-04-19** — merged 1 duplicate(s): Oplandske Bioenergi (OBIO)
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

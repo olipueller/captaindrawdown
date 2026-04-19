@@ -2,7 +2,7 @@
 title: "Brodie Biomass"
 layout: "single"
 type: "directory"
-description: "Brodie Biomass is a UK-based biochar producer in Brockham, Surrey that launched its pyrolysis facility in 2024 and holds EBC Animal Feed Plus grade"
+description: "Operates a Woodtek two-stage pyrolysis unit on a family farm in Surrey, converting locally sourced woodchip into EBC-certified biochar, with carbon credits registered under Puro.earth."
 url: "/directory/brodie-biomass/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,12 +16,12 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brodiebiomass/" target="_blank" rel="noopener">brodiebiomass — 1,693 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Brodie Biomass is a UK-based biochar producer in Brockham, Surrey that launched its pyrolysis facility in 2024 and holds EBC Animal Feed Plus grade certification. It sells biochar and biochar-enriched composts for agriculture and gardening, and registers associated carbon removal credits under Puro.earth. In March 2025 it acquired the SoilFixer brand from ACI Innovations Ltd., expanding its soil-improvement product line.
+Brodie Biomass is a biochar production arm of Brodie Farms, a family-owned Surrey farming group that diversified into pyrolysis in 2024 using a £1.3M HSBC green loan. It produces EBC-certified biochar from locally sourced woodchip, sells biochar and biochar-composts (including through the acquired SoilFixer brand), and registers carbon removal credits with Puro.earth. The biochar venture is positioned as diversification alongside the family's core farming and wood-recycling operations.
 
 ![Brodie Biomass website](/screenshots/brodie-biomass.png)
 
@@ -31,6 +31,7 @@ Brodie Biomass is a UK-based biochar producer in Brockham, Surrey that launched 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.brodiebiomass.co.uk/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.brodiebiomass.co.uk/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.brodiebiomass.co.uk/))

@@ -2,7 +2,7 @@
 title: "Sponge DAC"
 layout: "single"
 type: "directory"
-description: "Sponge DAC, Inc. is an early-stage Direct Air Capture startup based in Cambridge, Massachusetts, led by CEO Marek Herrmann-Nowosielski. The company is"
+description: "Solid-sorbent DAC using a continuously moving web of sorbent material cycled between a low-temperature CO2 absorption zone and a higher-temperature desorption zone."
 url: "/directory/sponge-dac/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -20,13 +20,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Sponge DAC, Inc. is an early-stage Direct Air Capture startup based in Cambridge, Massachusetts, led by CEO Marek Herrmann-Nowosielski. The company is developing a sorbent-web DAC apparatus (with a moving web that shuttles between cool absorption and hot desorption zones) and has filed multiple US patents as well as a "SPONGE" trademark for DAC services. It remains very small (roughly 2 employees) with no publicly disclosed funding or deliveries.
+Sponge DAC, Inc. is an early-stage Direct Air Capture startup based in Cambridge, Massachusetts, led by CEO Marek Herrmann-Nowosielski. The company is developing a moving sorbent-web DAC apparatus that shuttles between cool absorption and hot desorption zones, with multiple US patent applications and a "SPONGE" trademark filing. It remains very small (approximately 2 employees) with no publicly disclosed funding or deliveries.
 
 ![Sponge DAC website](/screenshots/sponge-dac.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://patents.justia.com/inventor/marek-herrmann-nowosielski))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://patents.justia.com/inventor/marek-herrmann-nowosielski))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://uspto.report/TM/98677960))

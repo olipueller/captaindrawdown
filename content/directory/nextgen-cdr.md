@@ -2,7 +2,7 @@
 title: "NextGen CDR"
 layout: "single"
 type: "directory"
-description: "NextGen CDR is a buyers' club and advance-market-commitment facility jointly established by South Pole and Mitsubishi Corporation to aggregate corporate demand"
+description: "Advance-market-commitment buyers' club / aggregator that purchases and retires certified durable CDRs on behalf of corporate member buyers across multiple pathways."
 url: "/directory/nextgen-cdr/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

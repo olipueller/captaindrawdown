@@ -2,10 +2,10 @@
 title: "Ecological Carbon Offset Partners"
 layout: "single"
 type: "directory"
-description: "EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project consultancy founded in 2010 that develops nature-based carbon projects and also"
+description: "Carbon Yards stores woodchips from certified forests in engineered aboveground chambers with halite preservatives issuing Puro Standard CORCs; also provides technical consulting on"
 url: "/directory/ecological-carbon-offset-partners/"
 pathway: "Biomass Burial"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.epcarbon.com/" target="_blank" rel="noopener">https://www.epcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecopartners-carbon/" target="_blank" rel="noopener">ecopartners-carbon — 2,925 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~19</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project consultancy founded in 2010 that develops nature-based carbon projects and also operates "Carbon Yards," a biomass burial/terrestrial biomass storage product issuing Puro Standard CORCs at ~$65-85/ton. The firm received an investment from Macquarie's Global Carbon in 2022 and works on afforestation (VCS 5500) and REDD+ (VCS 5501) foundations projects using VM0047 and VM0048 methodologies.
+EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project developer and technical consultancy founded around 2009-2010, headquartered with offices in Minneapolis and Berkeley. The firm develops nature-based carbon projects (ARR, REDD+, IFM) and operates Carbon Yards, a terrestrial biomass storage product issuing Puro Standard CORCs from engineered aboveground woodchip stockpiles, with its first facility planned in Georgia. Macquarie's Global Carbon invested in the company in 2022.
 
 ![Ecological Carbon Offset Partners website](/screenshots/ecological-carbon-offset-partners.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.epcarbon.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.epcarbon.com/carbon-yards/))

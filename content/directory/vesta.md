@@ -2,7 +2,7 @@
 title: "Vesta"
 layout: "single"
 type: "directory"
-description: "Vesta (formerly Project Vesta) is a US-based Public Benefit Corporation developing \"Coastal Carbon Capture,\" a form of ocean alkalinity enhancement that places"
+description: "Deploys finely ground olivine sand into coastal/nearshore waters to accelerate marine enhanced rock weathering, increasing ocean alkalinity and permanently storing atmospheric CO2 as bicarbonate."
 url: "/directory/vesta/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
@@ -23,13 +23,21 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Vesta (formerly Project Vesta) is a US-based Public Benefit Corporation developing "Coastal Carbon Capture," a form of ocean alkalinity enhancement that places olivine sand in coastal waters to accelerate marine enhanced rock weathering and permanently store atmospheric CO2. The company has conducted pilot deployments in Southampton, NY (2022) and Duck, NC (2024, 8,200 tonnes of olivine), and was the first company granted a US federal permit for a standalone ocean-based carbon removal pilot.
+Vesta (formerly Project Vesta) is a San Francisco-based Public Benefit Corporation developing "Coastal Carbon Capture," an ocean alkalinity enhancement approach that places olivine sand in coastal waters. The company has conducted pilot deployments in Southampton, NY (2022, 500 cu yd) and Duck, NC (2024, 8,200 metric tons of olivine), the first standalone ocean-based CDR pilot permitted in the US.</parameter>
+<parameter name="country">United States</parameter>
+<parameter name="homepage_url">https://www.vesta.earth/</parameter>
+<parameter name="liveliness_verdict">🟢 Active</liveliness_verdict>
+<parameter name="liveliness_score">80</liveliness_score>
+<parameter name="liveliness_reasoning">Website live with current content; August 2025 press coverage (Undark, Maine Morning Star, Inside Climate News) references Vesta as an operating ocean CDR company with Duck NC pilot underway. Multi-year monitoring program ongoing through 2026. No signs of wind-down.</liveliness_reasoning>
+<parameter name="evidence_urls">["https://www.vesta.earth/", "https://www.vesta.earth/blog/duckannouncement", "https://undark.org/2025/08/13/ocean-carbon-removal/", "https://mainemorningstar.com/2025/08/12/can-we-alter-the-ocean-to-counter-climate-change-faster-this-experiment-aims-to-find-out/", "https://carbonherald.com/top-10-ocean-carbon-removal-companies-in-2023/"]</evidence_urls>
+</invoke>
 
 ![Vesta website](/screenshots/vesta.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=? focus=supplier liveliness=?
 - **2026-04-19** — merged 1 duplicate(s): Project Vesta
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

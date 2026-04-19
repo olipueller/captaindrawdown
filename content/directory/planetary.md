@@ -2,10 +2,10 @@
 title: "Planetary"
 layout: "single"
 type: "directory"
-description: "Planetary Technologies is a Canadian ocean alkalinity enhancement (OAE) supplier headquartered in Nova Scotia, with active projects at Tufts Cove (Halifax) and"
+description: "Planetary doses purified alkaline minerals (e.g. magnesium/calcium oxide) into coastal seawater via existing power-plant and wastewater outfalls, converting dissolved CO2 into stable bicarbonates for"
 url: "/directory/planetary/"
 pathway: "Ocean CDR"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,14 +16,14 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.planetarytech.com/" target="_blank" rel="noopener">https://www.planetarytech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planetary-hydrogen/" target="_blank" rel="noopener">planetary-hydrogen — 7,797 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~34</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Planetary Technologies is a Canadian ocean alkalinity enhancement (OAE) supplier headquartered in Nova Scotia, with active projects at Tufts Cove (Halifax) and in Virginia. In 2025 they delivered the world's first independently verified OAE credits (625.6 tonnes) to Stripe, Shopify and British Airways under Isometric's OAE protocol, and signed a $31M offtake with Frontier.
+Planetary delivered the first-ever independently verified carbon removal credits from Ocean Alkalinity Enhancement — 625.6 tonnes of CO₂ — at its Halifax, Nova Scotia project site, purchased by Stripe, Shopify, and British Airways. Frontier signed a $31M offtake with Planetary; the process adds dissolved alkaline minerals like CaO or MgO to coastal surface waters, converting CO₂ into bicarbonate durably stored for over 10,000 years. In fall 2025 the company completed the world's first successful dosing pilot in Virginia using a calcium byproduct.
 
 ![Planetary website](/screenshots/planetary.png)
 
@@ -33,6 +33,7 @@ Planetary Technologies is a Canadian ocean alkalinity enhancement (OAE) supplier
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.planetarytech.com/the-worlds-first-verified-oae-credits/))
 - **2026-04-19** — news mention: Frontiers | Leveraging soil organic carbon credits to enhance smallholder food security and planetar ([source](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1800887/full))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.planetarytech.com/))

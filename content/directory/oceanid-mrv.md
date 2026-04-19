@@ -2,7 +2,7 @@
 title: "Oceanid MRV"
 layout: "single"
 type: "directory"
-description: "Oceanid MRV (Oceanid Climate and Carbon Solutions) is a US-based public benefit corporation providing measurement, reporting, and verification (MRV) services"
+description: "MRV methodology, verification, and carbon accounting services for marine CDR suppliers (ocean alkalinity enhancement, kelp sink, coastal enhanced weathering)."
 url: "/directory/oceanid-mrv/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

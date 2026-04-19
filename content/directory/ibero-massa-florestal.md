@@ -2,7 +2,7 @@
 title: "Ibero Massa Florestal"
 layout: "single"
 type: "directory"
-description: "Ibero Massa Florestal (IMF) is a Portuguese biochar producer based in Oliveira de Azeméis with installed capacity of 5,000 tonnes/year, operating under EBC,"
+description: "Produces biochar via slow pyrolysis of forest/agricultural biomass at its Oliveira de Azeméis plant, selling Ecochar (agricultural soil amendment) and Carvão Zero (household charcoal) alongside"
 url: "/directory/ibero-massa-florestal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Ibero Massa Florestal (IMF) is a Portuguese biochar producer based in Oliveira de Azeméis with installed capacity of 5,000 tonnes/year, operating under EBC, GLOBAL C-SINK, FSC, PEFC, DIN Plus, SURE and ISO 9001 certifications. Products include Ecochar (agricultural biochar for soil restoration and carbon removal) and Carvão Zero (ecological household charcoal). IMF partners with Carbonfuture for CDR credit sales and is an active member of the European Biochar Industry consortium.
+Ibero Massa Florestal (IMF) is a Portuguese biochar producer based in Oliveira de Azeméis that transforms forest biomass through slow pyrolysis into Ecochar (agricultural biochar) and Carvão Zero (household charcoal), with an installed capacity of 5,000 tonnes/year. The company is certified under EBC, GLOBAL C-SINK, FSC, PEFC, DIN Plus, SURE and ISO 9001, and partners with Carbonfuture to sell biochar carbon removal credits.
 
 ![Ibero Massa Florestal website](/screenshots/ibero-massa-florestal.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://en.imflorestal.com/))
 - **2026-04-19** — merged 1 duplicate(s): Ibero Massa Florestal, S.A.
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -2,7 +2,7 @@
 title: "Miraïa"
 layout: "single"
 type: "directory"
-description: "Miraïa is a Toulouse-based French climate-tech startup founded in May 2023 that develops a modernized continuous vertical-furnace wood pyrolysis technology to"
+description: "Modernized continuous vertical-furnace wood pyrolysis that converts forestry/sawmill residues into biochar, bio-oils and syngas, with all co-products valorized."
 url: "/directory/miraïa/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Miraïa is a Toulouse-based French climate-tech startup founded in May 2023 that develops a modernized continuous vertical-furnace wood pyrolysis technology to produce biochar, bio-oils, and renewable energy from wood industry residues. The company is building a pilot demonstrator in Colomiers (Haute-Garonne) and is preparing its first commercial-scale plant in Garlin (Pyrénées-Atlantiques), with longer-term ambitions for 6 industrial units each producing 20,000 t/yr of biochar.
+Miraïa is a French climate-tech startup founded in May 2023 in Toulouse by Jean Escaffre, developing an innovative wood pyrolysis process to sequester CO₂ and valorize the full set of co-products. The company is building an 800 m² pilot site in Colomiers (Haute-Garonne) with support from AD'OCC and the Occitanie region, and plans nine additional hires there. Carbon credits from its pilot unit are now registered on the Rainbow standard, en route to ICROA certification.
 
 ![Miraïa website](/screenshots/miraïa.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://miraia.fr/en/home/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://miraia.fr/en/home/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://miraia.fr/en/home/))

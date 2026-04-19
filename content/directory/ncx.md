@@ -2,7 +2,7 @@
 title: "NCX"
 layout: "single"
 type: "directory"
-description: "NCX (Natural Capital Exchange), formerly SilviaTerra, is a US-based platform that helps private landowners discover, compare, and enroll in natural capital"
+description: "Satellite/AI-based forest inventory (\"Basemap\") powering a marketplace that matches landowners with carbon, timber, solar, and wildlife programs; no longer issues its own harvest-deferral carbon"
 url: "/directory/ncx/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

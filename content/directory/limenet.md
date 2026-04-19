@@ -2,7 +2,7 @@
 title: "Limenet"
 layout: "single"
 type: "directory"
-description: "Limenet is an Italian climate tech company that operates an ocean alkalinity enhancement (OAE) facility in Augusta, Sicily, where it reacts CO₂ with hydrated"
+description: "Reacts CO2 with hydrated lime and seawater in a reactor to produce an equilibrated calcium bicarbonate solution released to the ocean for long-duration CO2 storage and alkalinity enhancement."
 url: "/directory/limenet/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Website</th><td><a href="https://limenet.tech/en/" target="_blank" rel="noopener">https://limenet.tech/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/limenet-tech/" target="_blank" rel="noopener">limenet-tech — 6,350 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~29 (+32% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Limenet is an Italian climate tech company that operates an ocean alkalinity enhancement (OAE) facility in Augusta, Sicily, where it reacts CO₂ with hydrated lime and seawater to produce a calcium bicarbonate solution released to the ocean for long-duration storage. The company raised €7M in December 2025, received a Frontier prepurchase in 2025 for zero-carbon quicklime development, and issued its first blockchain-based OAE credits via Carbonmark Direct.
+Limenet is an Italian climate tech company operating an ocean alkalinity enhancement facility in Augusta, Sicily, where CO2 from a nearby biogas plant is combined with hydrated lime and seawater to form calcium bicarbonate discharged to the ocean. The plant has been operational since September 2023 (~800 tpa) with plans to scale, and the company received a Frontier prepurchase in 2025 for zero-carbon quicklime development and raised €7M in December 2025.
 
 ![Limenet website](/screenshots/limenet.png)
 
@@ -34,6 +34,7 @@ Limenet is an Italian climate tech company that operates an ocean alkalinity enh
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.finsmes.com/2025/12/limenet-raises-e7m-in-funding.html))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.finsmes.com/2025/12/limenet-raises-e7m-in-funding.html))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.finsmes.com/2025/12/limenet-raises-e7m-in-funding.html))

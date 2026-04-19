@@ -2,7 +2,7 @@
 title: "Liquid Trees"
 layout: "single"
 type: "directory"
-description: "Liquid Trees is a seed-stage ocean CDR company (founded 2022 in San Francisco by Daniel Neetzel, with operations in Noida, India) backed by Unruly Capital. It"
+description: "Researches and advocates for ocean iron fertilization (OIF) in high-nutrient, low-chlorophyll ocean regions, and has deployed diatom-based bioremediation in rivers and microalgae photobioreactors"
 url: "/directory/liquid-trees/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -11,7 +11,7 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Ocean CDR</td></tr>
-  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Method</th><td>Ocean Fertilization</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.liquidtrees.org/" target="_blank" rel="noopener">https://www.liquidtrees.org/</a></td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Liquid Trees is a seed-stage ocean CDR company (founded 2022 in San Francisco by Daniel Neetzel, with operations in Noida, India) backed by Unruly Capital. It evolved from freshwater diatom-led bioremediation projects across rivers in Bangladesh, Pakistan, Mexico, and India into Ocean Iron Fertilization research and advocacy in high-nutrient, low-chlorophyll ocean regions. The company also deployed an urban photobioreactor with India's DS Group in 2024.
+Liquid Trees is a seed-stage CDR company founded in 2022 by Daniel Neetzel, headquartered in San Francisco with operations in India, backed by Unruly Capital. It evolved from diatom-led freshwater bioremediation projects into ocean iron fertilization research, and partnered with India's DS Group to deploy an urban microalgae photobioreactor in Noida.
 
 ![Liquid Trees website](/screenshots/liquid-trees.png)
 
@@ -34,6 +34,7 @@ Liquid Trees is a seed-stage ocean CDR company (founded 2022 in San Francisco by
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.liquidtrees.org/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.liquidtrees.org/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.liquidtrees.org/))

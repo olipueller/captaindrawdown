@@ -2,10 +2,10 @@
 title: "NEG8 Carbon"
 layout: "single"
 type: "directory"
-description: "NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company that has developed a proprietary Electrostatic DAC technology using thin-layer sorbent"
+description: "Proprietary electrostatic solid-sorbent Direct Air Capture technology using thin-layer sorbent deployment to cut sorbent use and regeneration energy."
 url: "/directory/neg8-carbon/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://neg8carbon.com/" target="_blank" rel="noopener">https://neg8carbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/trinity-green-energies/" target="_blank" rel="noopener">trinity-green-energies — 3,231 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~11 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company that has developed a proprietary Electrostatic DAC technology using thin-layer sorbent systems. It built Ireland's first DAC prototype (1.2 tpa) and, as of January 2026, has partnered with Prochem Engineering on an engineering study for Ireland's first full-scale 50 tpa DAC module at its Waterford headquarters.
+NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company (originally founded in 2014 as Trinity Green Energies, a spin-out from Trinity College Dublin and UCD) that develops proprietary Electrostatic DAC technology using thin-layer sorbent systems. It built Ireland's first DAC prototype (1.2 tpa) and in January 2026 signed an engineering study agreement with Prochem Engineering for a 50 tpa full-scale DAC module at its Waterford headquarters.
 
 ![NEG8 Carbon website](/screenshots/neg8-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://neg8carbon.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://neg8carbon.com/solid-sorbent-dac-compared-with-electrochemical-dac/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://neg8carbon.com/))

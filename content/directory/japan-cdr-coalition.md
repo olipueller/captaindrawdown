@@ -2,7 +2,7 @@
 title: "Japan CDR Coalition"
 layout: "single"
 type: "directory"
-description: "The Japan CDR Coalition (J-CDR) is a multi-stakeholder platform launched in September 2025 by Mitsubishi Research Institute and Mitsubishi Corporation,"
+description: "Industry coalition/platform coordinating CDR policy proposals, research, training and stakeholder collaboration in Japan — not a removal operator."
 url: "/directory/japan-cdr-coalition/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

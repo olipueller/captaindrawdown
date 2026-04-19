@@ -2,7 +2,7 @@
 title: "NULIFE GreenTech"
 layout: "single"
 type: "directory"
-description: "NULIFE GreenTech is a Saskatoon-based clean-tech company founded in 2016 that uses patented Hydrothermal Liquefaction (HTL) technology to transform food"
+description: "Uses hydrothermal liquefaction (HTL) to convert wet and dry biomass waste into bio-oil and biochar, which are injected into licensed salt caverns >1,000m underground for permanent geological storage."
 url: "/directory/nulife-greentech/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -14,16 +14,16 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Method</th><td>Bio-oil Sequestration</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
-  <tr><th>Website</th><td><a href="https://www.nulifegreentech.com/" target="_blank" rel="noopener">https://www.nulifegreentech.com/</a></td></tr>
+  <tr><th>Website</th><td><a href="https://nulifegreentech.com/" target="_blank" rel="noopener">https://nulifegreentech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nulife-greentech/" target="_blank" rel="noopener">nulife-greentech — 1,135 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~8 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-NULIFE GreenTech is a Saskatoon-based clean-tech company founded in 2016 that uses patented Hydrothermal Liquefaction (HTL) technology to transform food processing waste and agricultural residues into bio-oil for carbon removal. The bio-oil and biochar are transported via trucks to salt cavern storage sites where they are injected for long-term underground storage at a depth of 1,000 meters. In December 2025, Frontier buyers including Google and Stripe agreed to invest $44.2 million for the removal of 122,000 tons of CO2 between 2026 and 2030.
+NULIFE GreenTech is a Canadian climate-tech company delivering permanent, Isometric-verified carbon removal through hydrothermal liquefaction (HTL), a form of biomass carbon removal and storage (BiCRS), operating modular HTL facilities close to biomass feedstock sources. The Saskatoon-based company converts biowaste into a concentrated bio-oil and stores the CO₂ geologically in licensed salt caverns, and Frontier buyers are paying NULIFE USD $44.2 million to remove 122,000 tons of CO₂ between 2026 and 2030.
 
 ![NULIFE GreenTech website](/screenshots/nulife-greentech.png)
 
@@ -33,6 +33,7 @@ NULIFE GreenTech is a Saskatoon-based clean-tech company founded in 2016 that us
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://nulifegreentech.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.nulifegreentech.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://nulifegreentech.com/))

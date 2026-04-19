@@ -2,10 +2,10 @@
 title: "ReCarbn"
 layout: "single"
 type: "directory"
-description: "ReCarbn was a Netherlands-based Direct Air Capture startup spun out of the University of Twente in 2022, developing a circulating solid-sorbent DAC technology"
+description: "Solid-sorbent direct air capture using a patent-pending circulating filtration and sorbent cycle designed to reduce energy consumption and cycle time."
 url: "/directory/recarbn/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://recarbn.eu/" target="_blank" rel="noopener">https://recarbn.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recarbneu/" target="_blank" rel="noopener">recarbneu — 1,721 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 10/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-ReCarbn was a Netherlands-based Direct Air Capture startup spun out of the University of Twente in 2022, developing a circulating solid-sorbent DAC technology based on research by Professor Wim Brilman. In December 2024, ReCarbn was acquired by Amsterdam-based Skytree, which absorbed its IP and founding team; it no longer operates as a standalone company.
+ReCarbn was a Dutch direct air capture startup spun out of the University of Twente in 2022, developing circulating solid-sorbent DAC technology focused on filtration and sorbent circulation. In December 2024, it was acquired by Amsterdam-based Skytree, which absorbed ReCarbn's IP and moved all three co-founders into Skytree leadership roles, so it no longer operates as a standalone company.
 
 ![ReCarbn website](/screenshots/recarbn.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🔴 Likely Dead ([source](https://skytree.tech/en-en/news/skytree-acquires-direct-air-capture-startup-recarbn))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
 - **2026-04-19** — url added from cdr.fyi supplier page: https://recarbn.eu/ ([source](https://www.cdr.fyi/supplier/recarbn))

@@ -2,7 +2,7 @@
 title: "Omiti Biochar"
 layout: "single"
 type: "directory"
-description: "Omiti Biochar is a Namibian company that develops community-based biochar carbon removal projects by harvesting encroacher bush biomass and converting it into"
+description: "Harvests encroacher bush biomass in Namibia and converts it into biochar using Kon-Tiki flame-curtain kilns (and now modular Ikigai POD pyrolysis units) for carbon removal credits."
 url: "/directory/omiti-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Namibia</td></tr>
   <tr><th>Website</th><td><a href="https://omitibiochar.com/" target="_blank" rel="noopener">https://omitibiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/omiti-biochar/" target="_blank" rel="noopener">omiti-biochar — 328 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Omiti Biochar is a Namibian company that develops community-based biochar carbon removal projects by harvesting encroacher bush biomass and converting it into biochar via flame-curtain kilns. The company partners with rural communities (e.g. Otjimbingwe) and organizations like Planboo and Carbon Standards International to generate and sell carbon removal certificates on the voluntary market, while also producing biochar for agriculture and mine rehabilitation.
+Omiti Biochar is a Namibian company developing community-based biochar carbon removal projects, partnering with rural communities like Otjimbingwe to sustainably harvest encroacher bush and pyrolyze it into biochar. It works with Planboo (MRV) and Carbon Standards International (certification) to generate and sell carbon removal credits on the voluntary market, and has signed a joint venture with Ikigai Carbon/BluSky Carbon to scale pyrolysis deployments in Namibia.
 
 ![Omiti Biochar website](/screenshots/omiti-biochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://omitibiochar.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://omitibiochar.com/))

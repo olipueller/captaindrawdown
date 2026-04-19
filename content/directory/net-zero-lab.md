@@ -2,7 +2,7 @@
 title: "Net Zero Lab"
 layout: "single"
 type: "directory"
-description: "Net Zero Lab is an independent Max Planck Research Group at the Max Planck Institute for Innovation and Competition in Munich, led by environmental economist"
+description: "Academic research group studying economics of climate technology, carbon market quality, and CDR innovation diffusion — no physical removal activity."
 url: "/directory/net-zero-lab/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

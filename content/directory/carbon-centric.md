@@ -2,7 +2,7 @@
 title: "Carbon Centric"
 layout: "single"
 type: "directory"
-description: "Carbon Centric is a Norwegian carbon capture developer founded in 2021 that builds, owns and operates modular carbon capture plants for small- and medium-scale"
+description: "Post-combustion amine-based carbon capture at small- and medium-scale waste-to-energy and bioenergy plants in the Nordics, with CO2 either sold for utilization or sent to permanent geological storage."
 url: "/directory/carbon-centric/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -11,23 +11,25 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboncentric.no/en" target="_blank" rel="noopener">https://www.carboncentric.no/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncentric/" target="_blank" rel="noopener">carboncentric — 4,285 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~22 (+16% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbon Centric is a Norwegian carbon capture developer founded in 2021 that builds, owns and operates modular carbon capture plants for small- and medium-scale bio- and waste-incineration emitters across the Nordics. Its first plant at Rakkestad (Østfold Energi waste-to-energy) began operations in September 2025 as a 10,000 tpa CCU facility delivering food-grade CO2 to Linde Gas, while its flagship BECCS project at Kirkenær with Solør Bioenergi targets ~32,000 tpa of permanent biogenic CO2 removals from 2028, with additional BECCS projects at Skogn, Trehørningen, Kalka and Treklyngen in development.
+Carbon Centric is a Norwegian carbon-capture developer founded in 2021 that builds, owns and operates modular capture plants at waste- and bio-incineration sites across the Nordics. Its first 10,000 tpa facility at Østfold Energi's Rakkestad waste-to-energy plant began operations in September 2025 delivering food-grade CO2 to Linde Gas, while its flagship Kirkenær BECCS project with Solør Bioenergi targets ~32,000 tpa of biogenic CO2 and is expected to begin issuing CDR credits from 2028.
 
 ![Carbon Centric website](/screenshots/carbon-centric.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carboncentric.no/en/rakkestad-ccus))
 - **2026-04-19** — merged 2 duplicate(s): Carbon Centric AS, Carbon Centric (SOLER Group)
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

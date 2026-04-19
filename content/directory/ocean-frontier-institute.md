@@ -2,7 +2,7 @@
 title: "Ocean Frontier Institute"
 layout: "single"
 type: "directory"
-description: "The Ocean Frontier Institute (OFI) is a non-profit research and higher education organization dedicated to ocean-based research and data, established in 2016"
+description: "Academic research institute running marine CDR science programs (CONVERGE CDR, North Atlantic Carbon Observatory) covering ocean alkalinity enhancement, iron fertilization, seaweed, and direct ocean"
 url: "/directory/ocean-frontier-institute/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"

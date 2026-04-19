@@ -2,7 +2,7 @@
 title: "Nurist Biocarbon"
 layout: "single"
 type: "directory"
-description: "Nurist Biocarbon is an early-stage Indian company based in Didwana, Rajasthan that produces biochar from crop residue, dung, and native plant waste via"
+description: "Pyrolyzes crop residue, dung, and invasive Prosopis juliflora biomass into biochar applied to degraded arid soils in Rajasthan."
 url: "/directory/nurist-biocarbon/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://nuristbiocarbon.com/" target="_blank" rel="noopener">https://nuristbiocarbon.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Nurist Biocarbon is an early-stage Indian company based in Didwana, Rajasthan that produces biochar from crop residue, dung, and native plant waste via pyrolysis. The company markets biochar as a soil amendment to improve soil health, reduce emissions, and support rural livelihoods. Registered as Nurist Biocarbon Private Limited in India.
+Nurist Biocarbon Private Limited is an early-stage Indian biochar producer based in Didwana, Nagaur district, Rajasthan. It converts crop residues and invasive Prosopis juliflora into biochar used as a soil amendment on degraded arid land, claiming a partnership with CAZRI and a pilot that reclaimed 50 acres in Barmer. Biochar production and sale of associated carbon credits is the company's core business.
 
 ![Nurist Biocarbon website](/screenshots/nurist-biocarbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://nuristbiocarbon.com/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://nuristbiocarbon.com/))

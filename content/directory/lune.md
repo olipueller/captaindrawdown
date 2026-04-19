@@ -2,7 +2,7 @@
 title: "Lune"
 layout: "single"
 type: "directory"
-description: "Lune (Lune Climate Ltd) is a London-based climate API and platform that helps businesses calculate Scope 3 emissions and purchase carbon credits, including"
+description: "API and marketplace platform for emissions accounting and procurement of carbon credits (including permanent removal) from a curated project library."
 url: "/directory/lune/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

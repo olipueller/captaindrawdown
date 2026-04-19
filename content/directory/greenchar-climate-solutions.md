@@ -2,10 +2,10 @@
 title: "GreenChar Climate Solutions"
 layout: "single"
 type: "directory"
-description: "GreenChar Climate Solutions is a Singapore-incorporated biochar project developer operating across China and Southeast Asia that converts agricultural and"
+description: "Biochar project developer and aggregator that partners with pyrolysis producers across China and Southeast Asia to convert agricultural/organic waste into biochar and generate certified carbon"
 url: "/directory/greenchar-climate-solutions/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.greenchar.co/" target="_blank" rel="noopener">https://www.greenchar.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenchar-climate-solutions/" target="_blank" rel="noopener">greenchar-climate-solutions — 30 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-GreenChar Climate Solutions is a Singapore-incorporated biochar project developer operating across China and Southeast Asia that converts agricultural and organic waste into biochar and generates carbon removal credits under standards including Puro.Earth, Verra, Isometric, EBC, and CSI. The company partners with regional biochar producers, provides MRV and certification services, and acts as the bridge to international CDR credit buyers. It was incorporated in June 2024 and operates a B2B biochar marketplace alongside its credit business.
+GreenChar Climate Solutions is a Singapore-based startup that serves as a link between regional biochar producers in China and Southeast Asia and the international carbon removal market, focusing on carbon credit certification. The company presented its scalable biochar and carbon certification platform at the 2025 Tianjin-Singapore Eco-City exchange, showcasing a biochar-based carbon credit and soil regeneration model that turns agricultural waste into verified carbon-negative assets. It is also involved in the Nile Char Carbon Removal Project in Uganda as a partner supporting high-integrity biochar carbon removal project development.
 
 ![GreenChar Climate Solutions website](/screenshots/greenchar-climate-solutions.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.greenchar.co/about-us))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/legal-entities/singapore/greenchar-climate-solutions-pte.ltd./__GK5flpzvhSJIfr0oru3OW-MTGMyW3sAXY4w8XaDmvNc))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.greenchar.co/))

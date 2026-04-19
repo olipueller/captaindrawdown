@@ -2,7 +2,7 @@
 title: "Pyrogen"
 layout: "single"
 type: "directory"
-description: "Founded in 2022 and headquartered in Gilgil, Kenya, Pyrogen is developing its first-of-a-kind biochar-concrete facility in Africa, working with local"
+description: "Pyrolyzes invasive/waste biomass into biochar and blends it into patented concrete mix designs for construction products, permanently sequestering carbon in the built environment."
 url: "/directory/pyrogen/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.pyrogen.energy/" target="_blank" rel="noopener">https://www.pyrogen.energy/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyrogen-energy/" target="_blank" rel="noopener">pyrogen-energy — 921 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Founded in 2022 and headquartered in Gilgil, Kenya, Pyrogen is developing its first-of-a-kind biochar-concrete facility in Africa, working with local communities to source invasive biomass species for biochar production. The company is a Puro.earth supplier developing biochar-based cement for affordable and sustainable housing in Kenya, including a pilot with CGAP (World Bank) and Habitat for Humanity. Pyrogen is the exclusive holder of IP for biochar use in concrete in Kenya and received a Terraset pre-purchase supporting its full-scale biochar-concrete plant.
+Pyrogen is a Kenya-based biochar-concrete carbon removal startup founded in 2022 and headquartered in Gilgil. It produces biochar from invasive and waste biomass and incorporates it into patented low-carbon concrete mix designs for construction products, and is developing a commercial pilot plant in Baringo County targeting ~3,000 tonnes CO2 sequestration per year at full capacity.
 
 ![Pyrogen website](/screenshots/pyrogen.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrogen.energy/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrogen.energy/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrogen.energy/))

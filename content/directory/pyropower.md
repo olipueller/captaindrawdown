@@ -2,7 +2,7 @@
 title: "pyropower"
 layout: "single"
 type: "directory"
-description: "pyropower GmbH is a German cleantech company founded in 2022 based in Cottbus, Lusatia, led by CEOs Lucie Töpfer and Steffen Kießling. Their Pyro-ClinX product"
+description: "Develops Pyro-ClinX pyrolysis CHP systems that combine an externally fired micro gas turbine with pyrolysis to produce biochar, heat and electricity from woody residues."
 url: "/directory/pyropower/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-pyropower GmbH is a German cleantech company founded in 2022 based in Cottbus, Lusatia, led by CEOs Lucie Töpfer and Steffen Kießling. Their Pyro-ClinX product combines a pyrolysis process with an externally fired micro gas turbine to produce biochar, heat and electricity in one process, with the plant being self-sufficient in energy and having a negative carbon footprint. Feedstocks include forest and industrial waste wood, landscape conservation wood, and biogenic waste streams such as fermentation residues, sewage sludge and screen overflows.
+pyropower GmbH is a German cleantech company based in Cottbus, Lusatia, founded in 2022 and led by Lucie Töpfer and Steffen Kießling. Its Pyro-ClinX system pairs a pyrolysis reactor with an externally fired micro gas turbine to produce biochar, heat and electricity from woody residual materials, sewage sludge and biogenic waste. The company designs and sells these decentralized plants and also offers consulting services related to biochar and CO2 certificates.
 
 ![pyropower website](/screenshots/pyropower.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyro-power.com/en/welcome-to-pyro-power/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyro-power.com/en/welcome-to-pyro-power/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyro-power.com/en/welcome-to-pyro-power/))

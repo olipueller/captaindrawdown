@@ -2,7 +2,7 @@
 title: "C-Capsule"
 layout: "single"
 type: "directory"
-description: "C-Capsule is a carbon removal certification and registry service operated by Evident (the registry provider behind International Renewable Energy Certificates"
+description: "Registry and certification service issuing Carbon Removal Units (CRUs) for durable CDR, operated by Evident and aligned with the Absolute Carbon Standard."
 url: "/directory/c-capsule/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

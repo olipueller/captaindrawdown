@@ -2,7 +2,7 @@
 title: "Planeteers"
 layout: "single"
 type: "directory"
-description: "Planeteers GmbH is a Hamburg-based climate-tech company founded in December 2022 that develops reactor-based ocean alkalinity enhancement technology. Its"
+description: "Reactor-based ocean alkalinity enhancement: captures CO2 from point sources (e.g. wastewater plants), reacts it with limestone to form bicarbonate/ikaite, and releases the alkaline product into"
 url: "/directory/planeteers/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -25,7 +25,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Planeteers GmbH is a Hamburg-based climate-tech company founded in December 2022 that develops reactor-based ocean alkalinity enhancement technology. Its patented HCM (Hydrated Carbonate Minerals) process captures CO2 from point sources such as wastewater treatment plants and reacts it with limestone to produce bicarbonate and ikaite, which are then released into marine environments to increase ocean alkalinity and lock away carbon. The company closed a seed round in July 2024 (BonVenture, Smart Energy Innovationsfonds, ClimaNow) and is scaling pilots across Germany with an upcoming deployment in Switzerland.
+Planeteers is a Hamburg-based climate-tech company founded in December 2022 by engineers, scientists, and entrepreneurs developing patented HCM (hydrated carbonate minerals) reactor technology for ocean alkalinity enhancement. Their container-sized modular reactors capture CO2 from industrial point sources such as cement or lime plants, dissolve it in water to form carbonic acid, and neutralize it with limestone to produce mineralized, alkaline water. In July 2024 they closed a single-digit million seed round with investors including BonVenture, Smart Energy Innovationsfonds AG, and ClimaNow.
 
 ![Planeteers website](/screenshots/planeteers.png)
 
@@ -35,6 +35,7 @@ Planeteers GmbH is a Hamburg-based climate-tech company founded in December 2022
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://planeteers.de/en/company/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://planeteers.de/en/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://planeteers.de/en/))

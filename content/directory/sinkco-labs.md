@@ -2,7 +2,7 @@
 title: "Sinkco Labs"
 layout: "single"
 type: "directory"
-description: "Sinkco Labs is a US-based marine CDR startup developing a micro-injection system that embeds waste biomass into anoxic marine sub-sediments for permanent"
+description: "Uses a patent-pending vibration-based micro-injection system to inject biomass slurry into anoxic marine sub-sediments, where compaction prevents microbial degradation and permanently stores the"
 url: "/directory/sinkco-labs/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Sinkco Labs is a US-based marine CDR startup developing a micro-injection system that embeds waste biomass into anoxic marine sub-sediments for permanent carbon storage. Founded in 2019 and based in New York, the company was selected for the Breakthrough Energy Fellows Program and is piloting in Louisiana wetlands and the Gulf of Mexico. Its science team co-authored the Rainbow Standard's marine sub-sediment burial methodology.
+Sinkco Labs is a US-based marine CDR startup developing a micro-injection system that embeds waste biomass into anoxic marine sub-sediments for permanent carbon storage. The company was selected for the Breakthrough Energy Fellows Program and co-developed the Rainbow Standard's Marine Sub-Sediment Burial (MSSB) methodology. Their approach also aims to rebuild coastal marshland and improve shoreline resilience alongside carbon sequestration.
 
 ![Sinkco Labs website](/screenshots/sinkco-labs.png)
 
@@ -34,6 +34,7 @@ Sinkco Labs is a US-based marine CDR startup developing a micro-injection system
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.sinkcolabs.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.sinkcolabs.com/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.sinkcolabs.com/))

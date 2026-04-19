@@ -2,7 +2,7 @@
 title: "EcoEngineers"
 layout: "single"
 type: "directory"
-description: "EcoEngineers is a Des Moines, Iowa-based consulting, auditing, and advisory firm focused on the energy transition, low-carbon fuels, and carbon markets. They"
+description: "Third-party verification, auditing, MRV, and advisory services for low-carbon fuels and carbon removal/offset projects across voluntary and compliance markets."
 url: "/directory/ecoengineers/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

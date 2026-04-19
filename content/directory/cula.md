@@ -2,7 +2,7 @@
 title: "Cula"
 layout: "single"
 type: "directory"
-description: "Cula Technologies is a digital MRV (Monitoring, Reporting and Verification) software provider for carbon removal projects, founded in 2023 by"
+description: "Digital MRV software platform that ingests machine, sensor and IoT data from CDR plants (primarily biochar pyrolysis) and streams it via API into registries like Puro.earth and CSI for automated"
 url: "/directory/cula/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

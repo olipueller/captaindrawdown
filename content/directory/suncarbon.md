@@ -2,7 +2,7 @@
 title: "SunCarbon"
 layout: "single"
 type: "directory"
-description: "SunCarbon is a biochar brand operated by Teo Ventures in India, producing biochar-based soil enhancers from agricultural biomass residues. The product is sold"
+description: "Pyrolyzes agricultural biomass residues in India into biochar sold as a soil enhancer and registered as CDR projects via the SunCarbon Saarthi farmer platform."
 url: "/directory/suncarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,13 +20,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-SunCarbon is a biochar brand operated by Teo Ventures in India, producing biochar-based soil enhancers from agricultural biomass residues. The product is sold direct-to-consumer (e.g. via their website and Amazon) and through the SunCarbon Saarthi farmer platform, and has been certified as India's first biochar-based soil amendment by ECOCERT India under NPOP/APEDA. The company operates CDR project sites collecting biomass at ~100 tons/month MRR with a second site scaling.
+SunCarbon is a biochar brand operated by Teo Ventures in India that converts agricultural biomass residues into biochar-based soil amendments, certified by ECOCERT India under NPOP/APEDA. Products are sold D2C (website, Amazon) and the company runs CDR project sites with farmer onboarding via its SunCarbon Saarthi platform.
 
 ![SunCarbon website](/screenshots/suncarbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://suncarbon.in/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://suncarbon.in/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.youtube.com/watch?v=xM5XyDath98))

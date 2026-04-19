@@ -2,7 +2,7 @@
 title: "remove"
 layout: "single"
 type: "directory"
-description: "remove is a non-profit accelerator program focused solely on carbon dioxide removal (CDR) startups, run by the Stichting Carbon Removal Foundation and"
+description: "Non-profit accelerator program offering coaching, purchase agreements, recoverable grants, and network access to early-stage CDR startups across multiple pathways and geographies."
 url: "/directory/remove/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

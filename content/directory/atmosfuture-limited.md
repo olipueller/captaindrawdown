@@ -2,10 +2,10 @@
 title: "Atmosfuture Limited"
 layout: "single"
 type: "directory"
-description: "Atmosfuture Limited is a UK early-stage startup developing REVFRACC, a patented cryogenic DAC technology that super-cools atmospheric air to liquefy and"
+description: "Fanless cryogenic DAC (\"Reverse Fractionation\") that uses liquid nitrogen heat exchangers to super-cool ambient air, liquefying and separating CO2 as dry ice while recovering thermal energy through a"
 url: "/directory/atmosfuture-limited/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.atmosfuture.co.uk/" target="_blank" rel="noopener">https://www.atmosfuture.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atmosfutureltd/" target="_blank" rel="noopener">atmosfutureltd — 620 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Atmosfuture Limited is a UK early-stage startup developing REVFRACC, a patented cryogenic DAC technology that super-cools atmospheric air to liquefy and separate CO2 while co-producing clean power for data centres and other energy-intensive industries. The company was selected for Remove's Europe CDR accelerator in early 2025 and is pursuing pilot and demonstration projects, though it remains very small (single-digit headcount on LinkedIn) and pre-commercial.
+Atmosfuture Limited is a UK early-stage startup developing REVFRACC, a patented cryogenic direct air capture system that super-cools atmospheric air without fans to liquefy and separate CO2 while co-producing clean baseload power via a phase-change turbine. The company targets data centers and energy-intensive industries, was selected for Remove's Europe CDR accelerator in February 2025, and markets containerised pilot units of 30-100 MW. It remains a very small pre-commercial venture with only a handful of employees.
 
 ![Atmosfuture Limited website](/screenshots/atmosfuture-limited.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.atmosfuture.co.uk/))
 - **2026-04-19** — merged 1 duplicate(s): Atmosfuture
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.atmosfuture.co.uk/))

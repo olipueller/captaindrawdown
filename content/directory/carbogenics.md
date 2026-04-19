@@ -2,7 +2,7 @@
 title: "Carbogenics"
 layout: "single"
 type: "directory"
-description: "Carbogenics is a University of Edinburgh spinout (2016) that produces CreChar, a biochar additive made in a high-temperature low-oxygen process using"
+description: "Produces engineered biochar (CreChar) via pyrolysis of difficult-to-recycle organic waste such as coffee cups and cardboard, used as an additive to enhance anaerobic digestion and wastewater"
 url: "/directory/carbogenics/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbogenics.com/" target="_blank" rel="noopener">https://www.carbogenics.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbogenics-ltd/" target="_blank" rel="noopener">carbogenics-ltd — 2,991 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~20 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbogenics is a University of Edinburgh spinout (2016) that produces CreChar, a biochar additive made in a high-temperature low-oxygen process using difficult-to-recycle organic waste such as coffee cups and cardboard, which improves the efficiency of anaerobic digestion plants by stabilising digestion and creating better conditions for microorganisms. In early 2026 the company closed a $3M investment and grant round from backers including Dangerous Ventures, Green Angel Ventures, Scottish Enterprise, Old College Capital, Innovate UK and the New Mexico Government to scale UK operations and introduce US manufacturing.
+Carbogenics is a University of Edinburgh spinout (2016) that produces CreChar, an engineered biochar made from waste paper and secondary biomass that stabilizes and improves the efficiency of anaerobic digestion plants. In January 2026 the company closed a $3M investment and grant round from Dangerous Ventures, Green Angel Ventures, Scottish Enterprise, Innovate UK and the New Mexico state government to scale UK operations and launch US manufacturing.
 
 ![Carbogenics website](/screenshots/carbogenics.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbogenics.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbogenics.com/news/carbogenics-secures-3-million-investment-for-growth-and-international-expansion/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbogenics.com/))

@@ -2,7 +2,7 @@
 title: "Carbonx SAS"
 layout: "single"
 type: "directory"
-description: "Carbonx SAS (Paris-based, founded 2022 by Paolo Piffaretti and Sébastien Dewarrat) is a durable carbon removal procurement, finance, and portfolio management"
+description: "Buyer-side CDR procurement, market intelligence, finance and portfolio risk management platform facilitating purchases of durable carbon removal credits across DAC, ERW, mineralization, biochar,"
 url: "/directory/carbonx-sas/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

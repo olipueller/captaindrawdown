@@ -2,7 +2,7 @@
 title: "Absolute Climate"
 layout: "single"
 type: "directory"
-description: "Absolute Climate is an independent quality-assurance and standards developer for carbon dioxide removal, headquartered in San Francisco. Its flagship Absolute"
+description: "Develops the Absolute Carbon Standard (ACS), a pathway-agnostic, science-based quality-assurance framework applied by third-party registries to certify CDR and low-carbon product credits."
 url: "/directory/absolute-climate/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

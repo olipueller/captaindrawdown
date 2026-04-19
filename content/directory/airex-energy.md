@@ -2,7 +2,7 @@
 title: "Airex Energy"
 layout: "single"
 type: "directory"
-description: "Airex Energy is a Québec-based biochar technology company that uses its patented CarbonFX™ pyrolysis and DryFX™ drying solutions to convert forestry residues"
+description: "Develops proprietary CarbonFX pyrolysis and DryFX biomass drying technology to convert forestry residues into biochar, biocarbon and biocoal."
 url: "/directory/airex-energy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Airex Energy is a Québec-based biochar technology company that uses its patented CarbonFX™ pyrolysis and DryFX™ drying solutions to convert forestry residues into biochar, biocarbon and biocoal. Through its Carbonity joint venture with SUEZ and Groupe Rémabec, it inaugurated Canada's largest industrial biochar plant in Port-Cartier in May 2025, starting at 10,000 t/yr and ramping to 30,000 t/yr (75,000 t CO2/yr sequestered). The project is Puro.earth certified and has delivered the first credits under a 36,000-credit Microsoft offtake.
+Airex Energy is a Québec-based biochar technology company that licenses and operates its patented CarbonFX pyrolysis and DryFX drying systems. Through the Carbonity joint venture with SUEZ and Groupe Rémabec, it inaugurated Canada's first industrial-scale biochar plant in Port-Cartier in May 2025 (10,000 t/yr ramping to 30,000 t/yr by 2026), with Puro.earth certification and a 36,000-credit offtake with Microsoft.
 
 ![Airex Energy website](/screenshots/airex-energy.png)
 
@@ -32,6 +32,7 @@ Airex Energy is a Québec-based biochar technology company that uses its patente
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))

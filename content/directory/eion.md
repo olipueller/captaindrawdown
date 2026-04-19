@@ -2,10 +2,10 @@
 title: "Eion"
 layout: "single"
 type: "directory"
-description: "Eion was a US-based enhanced rock weathering supplier that deployed olivine (sourced from Sibelco's Åheim, Norway quarry) on Midwest and Southern US farmland"
+description: "Applies crushed olivine (from Sibelco's Åheim, Norway quarry) to US farmland as an ag-lime replacement, using a patented direct soil-sampling MRV approach that tracks magnesium and trace-element"
 url: "/directory/eion/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://eioncarbon.com/" target="_blank" rel="noopener">https://eioncarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eioncarbon/" target="_blank" rel="noopener">eioncarbon — 5,861 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~44 (-31% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Eion was a US-based enhanced rock weathering supplier that deployed olivine (sourced from Sibelco's Åheim, Norway quarry) on Midwest and Southern US farmland via partnerships with agricultural cooperatives including Growmark and Southern Ag. It delivered the first ERW credits to Stripe, signed offtakes with Microsoft and a $33M/78,707-ton Frontier agreement for 2027-2030, and held a patent on direct soil-sampling MRV using trace elements. In February 2026 Terradot agreed to acquire Eion's assets, IP, contracts, and core team, folding the company into Terradot's global ERW platform.
+Eion was a US-based enhanced rock weathering carbon removal company that deployed olivine (sourced from Sibelco's Norwegian quarry) on Midwest and Southern US farmland via partnerships with agricultural cooperatives like Growmark, Southern Ag, and Perdue AgriBusiness. It delivered the first ERW credits to Stripe and signed offtakes including a $33M/78,707-ton Frontier agreement. In February 2026, Eion's assets, team, IP, and carbon removal contracts were acquired by Terradot, which is consolidating ERW operations across US (olivine) and Brazil (basalt).
 
 ![Eion website](/screenshots/eion.png)
 
@@ -34,6 +34,7 @@ Eion was a US-based enhanced rock weathering supplier that deployed olivine (sou
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://agfundernews.com/terradot-acquires-eion-to-build-global-enhanced-rock-weathering-carbon-removal-platform))
 - **2026-04-19** — merged 2 duplicate(s): Eion Carbon, Enhanced rock weathering start
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate

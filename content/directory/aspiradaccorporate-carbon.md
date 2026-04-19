@@ -2,7 +2,7 @@
 title: "AspiraDAC/Corporate Carbon"
 layout: "single"
 type: "directory"
-description: "AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Australia's first solar-powered Direct Air Capture project in partnership with"
+description: "Modular, solar-powered direct air capture using MOF-based solid sorbents with vacuum-temperature swing regeneration and geological storage of captured CO2."
 url: "/directory/aspiradaccorporate-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Australia's first solar-powered Direct Air Capture project in partnership with Southern Green Gas. It was selected in Frontier's first 2022 purchase round (Stripe offtake at ~$1,000/tonne for 500 tonnes by 2027) and in 2025 signed an MoU with Great Carbon Valley in Kenya to scale to 5,000 tCO2/year, and appointed a new CTO.
+AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Australia's first modular, solar-powered Direct Air Capture project using MOF-based solid sorbents, in partnership with Southern Green Gas. It was selected in Frontier's first 2022 prepurchase round (Stripe offtake) and continues to advance toward commercialization, appointing a new CTO in late 2025.
 
 ![AspiraDAC/Corporate Carbon website](/screenshots/aspiradaccorporate-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.aspiradac.com/news))
 - **2026-04-19** — merged 1 duplicate(s): AspiraDAC
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.aspiradac.com/news))

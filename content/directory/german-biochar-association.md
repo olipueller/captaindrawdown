@@ -2,7 +2,7 @@
 title: "German Biochar Association"
 layout: "single"
 type: "directory"
-description: "German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenkohle, with the goal of supporting the use of biochar and contributing to"
+description: "Non-profit industry association advocating for biochar production and use in Germany; runs working groups, hosts conferences, and engages in policy and quality management."
 url: "/directory/german-biochar-association/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

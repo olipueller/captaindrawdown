@@ -2,7 +2,7 @@
 title: "Carbonified"
 layout: "single"
 type: "directory"
-description: "Carbonified is a small Canadian carbon project developer focused on biochar, regenerative agriculture, and afforestation/reforestation/restoration (ARR). It is"
+description: "Small Canadian carbon project developer working across biochar, regenerative agriculture, and afforestation/reforestation/restoration (ARR)."
 url: "/directory/carbonified/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -22,13 +22,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Carbonified is a small Canadian carbon project developer focused on biochar, regenerative agriculture, and afforestation/reforestation/restoration (ARR). It is listed in Carbon Removal Canada's Carbon Console supplier directory but has minimal public footprint, ~3 employees, and no registry issuances to date.
+Carbonified is a Canadian company providing "high-integrity carbon solutions" as a project developer focused on biochar, regenerative agriculture, and afforestation/reforestation/restoration. The company positions biochar, regenerative agriculture, and ARR as scalable carbon sequestration solutions and is listed in Carbon Removal Canada's Carbon Console. It has a minimal public footprint with ~3 employees and no registry issuances to date.
 
 ![Carbonified website](/screenshots/carbonified.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonified.ca/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonified.ca/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.carbonified.ca/))

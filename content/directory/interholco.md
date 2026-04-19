@@ -2,7 +2,7 @@
 title: "Interholco"
 layout: "single"
 type: "directory"
-description: "Interholco AG is a Swiss timber company (founded 1962) with HQ in Baar that manages 1.16 million hectares of FSC-certified tropical forest in the Republic of"
+description: "Pyrolyzes FSC-certified sawmill residues from its Congo timber operation into biochar applied to tropical soils, certified via EBC/Global C-Sink Registry."
 url: "/directory/interholco/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,18 +16,19 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/interholco-ag/" target="_blank" rel="noopener">interholco-ag — 6,640 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~156 (+5% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Interholco AG is a Swiss timber company (founded 1962) with HQ in Baar that manages 1.16 million hectares of FSC-certified tropical forest in the Republic of Congo via its IFO subsidiary. Through its biochar project, it converts sawmill residues into stable carbon, certified via EBC / Global C-Sink Registry, with production capacity of roughly 15,000 t CO2eq. While timber remains its core business, the biochar operation is an integrated CDR supplier activity.
+Interholco AG is a Swiss timber company (founded 1962) headquartered in Baar that supplies African, European and North American hardwood to B2B customers in over 40 countries. Through its IFO subsidiary it manages 1.16 million hectares of FSC-certified natural rainforest in the Republic of Congo, and as a side activity converts sawmill biomass residues into biochar for soil application, with production scaling toward ~30,000 tCO2eq/year. Timber remains the core business; CDR is adjacent.
 
 ![Interholco website](/screenshots/interholco.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://milkywire.com/articles/new-cdr-2025))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://milkywire.com/articles/new-cdr-2025))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://milkywire.com/articles/new-cdr-2025))

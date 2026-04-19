@@ -2,7 +2,7 @@
 title: "The Biochar Impact Company"
 layout: "single"
 type: "directory"
-description: "The Biochar Impact Company is a biochar-focused advisory/consulting firm that helps clients evaluate biochar quality and integrate it into land, agriculture,"
+description: "Biochar advisory/consulting firm guiding clients on biochar quality, agricultural integration, and carbon credit strategies rather than operating pyrolysis facilities directly."
 url: "/directory/the-biochar-impact-company/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

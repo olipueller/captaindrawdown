@@ -2,7 +2,7 @@
 title: "CarbonPilot"
 layout: "single"
 type: "directory"
-description: "CarbonPilot (now Valorize Systems) is a software platform that helps biochar and biocarbon producers with MRV, life cycle assessments, certification, and"
+description: "Software platform (MRV, LCA, feasibility modeling, credit sales management) for biochar and biocarbon carbon-removal projects; rebranded from CarbonPilot to Valorize Systems in 2025."
 url: "/directory/carbonpilot/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

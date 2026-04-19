@@ -2,7 +2,7 @@
 title: "BioCirc"
 layout: "single"
 type: "directory"
-description: "BioCirc is a Danish circular bioeconomy company founded in 2021 that operates eight biogas plants and is implementing biogenic CO2 capture at five of them."
+description: "Captures biogenic CO2 from five of its eight biogas/biomethane plants, liquefies it via Pentair equipment, and ships it to Project Greensand for permanent geological storage under the Danish North"
 url: "/directory/biocirc/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -17,12 +17,12 @@ liveliness: "🟢 Active"
   <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~113 (+9% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-BioCirc is a Danish circular bioeconomy company founded in 2021 that operates eight biogas plants and is implementing biogenic CO2 capture at five of them. Captured CO2 will be liquefied (via Pentair equipment) and transported for permanent geological storage in Project Greensand in the Danish North Sea, with up to 1 million tonnes of CO2 to be stored between 2026-2032, generating CDR credits.
+BioCirc is a Danish circular bioeconomy company founded in 2021 that owns and operates eight biogas plants and is one of the largest biomethane producers globally. It is adding CO2 capture at five of its plants to deliver up to 1 million tonnes of biogenic CO2 to Project Greensand between 2026-2032, generating BECCS CDR credits as an additional revenue stream alongside its core biogas, solar, and energy-cluster businesses.
 
 ![BioCirc website](/screenshots/biocirc.png)
 
@@ -32,6 +32,7 @@ BioCirc is a Danish circular bioeconomy company founded in 2021 that operates ei
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://biocirc.com/projects))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocirc.com/projects))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocirc.com/projects))

@@ -2,7 +2,7 @@
 title: "Octavia Carbon"
 layout: "single"
 type: "directory"
-description: "Octavia Carbon is a Nairobi-based direct air capture company founded in 2022 by Martin Freimüller and Duncan Kariuki that designs, builds, and operates"
+description: "Builds solid-sorbent DAC modules powered by geothermal heat/electricity and injects captured CO2 into Rift Valley basalt for in-situ mineralization (via Cella)."
 url: "/directory/octavia-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -25,7 +25,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Octavia Carbon is a Nairobi-based direct air capture company founded in 2022 by Martin Freimüller and Duncan Kariuki that designs, builds, and operates solid-sorbent DAC machines powered by Kenyan geothermal energy. Its Project Hummingbird pilot in the Rift Valley pairs DAC with in-situ basalt mineralization via storage partner Cella, targeting ~1,500 tCO2/yr gross (~1,000 tCO2/yr net) with plans to scale to ~10,000 tCO2/yr. The company has raised seed funding, signed offtakes facilitated by Carbonfuture and Carbon Direct, and is deploying units for customers such as atmosfair.
+Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by Martin Freimüller and Duncan Kariuki that designs and operates solid-sorbent DAC machines powered by Kenyan geothermal energy. Its Project Hummingbird pilot in the Rift Valley pairs DAC with in-situ basalt mineralization via storage partner Cella, targeting roughly 1,500 tCO2/yr gross (~1,000 tCO2/yr net), with a larger ~10,000 tCO2/yr follow-on planned.
 
 ![Octavia Carbon website](/screenshots/octavia-carbon.png)
 
@@ -35,6 +35,7 @@ Octavia Carbon is a Nairobi-based direct air capture company founded in 2022 by 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.technologyreview.com/2025/12/22/1130153/geothermal-energy-carbon-capture-kenya-climate-solution/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.octaviacarbon.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.technologyreview.com/2025/12/22/1130153/geothermal-energy-carbon-capture-kenya-climate-solution/))

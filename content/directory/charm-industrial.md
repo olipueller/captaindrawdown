@@ -2,7 +2,7 @@
 title: "Charm Industrial"
 layout: "single"
 type: "directory"
-description: "Charm Industrial is a San Francisco-based CDR supplier that uses fast pyrolysis to convert agricultural and forestry residues into bio-oil, which is injected"
+description: "Fast pyrolysis of agricultural/forestry residues into bio-oil that is injected into EPA-regulated deep wells for permanent geological sequestration; biochar is produced as a secondary co-product."
 url: "/directory/charm-industrial/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Charm Industrial is a San Francisco-based CDR supplier that uses fast pyrolysis to convert agricultural and forestry residues into bio-oil, which is injected into EPA-regulated wells in Kansas for permanent geological sequestration. The company also produces biochar as a secondary pathway and counts Frontier, Google, JPMorgan, and Workday among its offtake customers.
+Charm Industrial is a San Francisco-based pure-play CDR company that uses fast pyrolysis to convert agricultural and forestry residues into bio-oil, which is injected into EPA-regulated wells for permanent geological sequestration. The company also produces biochar as a secondary product and counts Frontier, Google, JPMorgan Chase, and Workday among its major offtake customers.
 
 ![Charm Industrial website](/screenshots/charm-industrial.png)
 
@@ -35,6 +35,7 @@ Charm Industrial is a San Francisco-based CDR supplier that uses fast pyrolysis 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://charmindustrial.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://charmindustrial.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://charmindustrial.com/))

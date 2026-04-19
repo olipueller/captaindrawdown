@@ -2,10 +2,10 @@
 title: "Swiss Biochar"
 layout: "single"
 type: "directory"
-description: "Swiss Biochar is a Swiss biochar producer based in Belmont-sur-Lausanne (with a 2025 legal-seat change to Zürich), operating since 2010 and part of the"
+description: "Pyrolyzes biogenic residues (wood, grape pomace, miscanthus, urban lop) at ~400-700°C to produce EBC-certified biochar for soil applications and CDR credits."
 url: "/directory/swiss-biochar/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.swiss-biochar.com/" target="_blank" rel="noopener">https://www.swiss-biochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbocontrol/" target="_blank" rel="noopener">carbocontrol — 754 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Swiss Biochar is a Swiss biochar producer based in Belmont-sur-Lausanne (with a 2025 legal-seat change to Zürich), operating since 2010 and part of the Novocarbo Group since 2021. The company produces EBC-certified biochar and activated soil substrates via pyrolysis for agriculture, viticulture, and urban green infrastructure, and its output feeds into Novocarbo's carbon-removal credit programme.
+Swiss Biochar is a Swiss producer of EBC-certified biochar and soil substrates based in Belmont-sur-Lausanne (with 2025 legal seat in Zürich), operating since 2010 and part of the Novocarbo Group since 2021. The company pyrolyzes biomass (urban lop, grape pomace, wood, miscanthus) into high-carbon biochar for agriculture, viticulture, and urban green infrastructure, and its output contributes to Novocarbo's carbon removal credit program.
 
 ![Swiss Biochar website](/screenshots/swiss-biochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.swiss-biochar.com/?lang=en))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.swiss-biochar.com/?lang=en))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://novocarbo-biochar.com/de/))

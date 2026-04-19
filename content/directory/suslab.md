@@ -2,7 +2,7 @@
 title: "sus.lab"
 layout: "single"
 type: "directory"
-description: "sus.lab (Sustainability in Business Lab) is a \"think and do tank\" at ETH Zurich, founded in 2016, that brings sustainability research into practice through"
+description: "University-based research and innovation lab running CDR accelerators, open-innovation programs, and MRV/LCA research rather than performing removals directly."
 url: "/directory/suslab/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,10 +2,10 @@
 title: "DACLAB"
 layout: "single"
 type: "directory"
-description: "DACLab is a Palo Alto-based climate-tech startup developing a modular solid-sorbent direct air capture system branded \"Kelvin,\" using a patent-pending"
+description: "Solid-sorbent DAC using a moving-bed Temperature Vacuum Swing Adsorption (TVSA) architecture that decouples adsorption and desorption, regenerating at ~70°C with under 1,800 kWh/tCO2."
 url: "/directory/daclab/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.daclab.us" target="_blank" rel="noopener">https://www.daclab.us</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/daclab-us/" target="_blank" rel="noopener">daclab-us — 288 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-DACLab is a Palo Alto-based climate-tech startup developing a modular solid-sorbent direct air capture system branded "Kelvin," using a patent-pending Temperature Vacuum Swing Adsorption (TVSA) cycle that regenerates at ~70°C and under 1,800 kWh/ton. The company emerged from stealth in September 2025 with a $3M seed round led by Peter Relan, with participation from Silver Lake co-founder Dave Roux and WovenEarth Ventures, and is targeting e-fuels producers and CO2 sequestration operators. Founded in 2023 by Aditya Bhandari and Samip Bhavsar, the technology was adapted from a TU Wien/Shell point-source capture project.
+DACLab is a Palo Alto-based climate-tech startup developing a modular solid-sorbent direct air capture system branded "Kelvin," using a patent-pending Temperature Vacuum Swing Adsorption (TVSA) cycle that regenerates at ~70°C and below 1,800 kWh/ton. The company emerged from stealth in September 2025 with a $3M seed round led by Peter Relan, and has run over 2,000 hours of pilot testing across two 100-ton/year pilots. Klaus Lackner serves as a technical advisor.
 
 ![DACLAB website](/screenshots/daclab.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.daclab.us/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2025/09/18/daclab-says-it-can-remove-co2-using-less-electricity-than-many-competitors/))

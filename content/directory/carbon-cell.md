@@ -2,7 +2,7 @@
 title: "Carbon Cell"
 layout: "single"
 type: "directory"
-description: "Carbon Cell is a UK startup founded by Imperial College alumni that produces a plastic-free, compostable rigid foam made from biochar and natural bio-based"
+description: "Combines biochar with natural bio-based polymers to make an expandable, compostable rigid foam that replaces expanded polystyrene in packaging and insulation, locking biochar carbon into durable"
 url: "/directory/carbon-cell/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbon Cell is a UK startup founded by Imperial College alumni that produces a plastic-free, compostable rigid foam made from biochar and natural bio-based polymers, intended as a carbon-negative replacement for expanded polystyrene in packaging and building insulation. The biochar locks sequestered carbon into durable products, with the natural polymer binder composting at end of life while the biochar remains to enrich soil. The company raised £1.2m pre-seed in 2025 and was preparing pilot production as of late 2025.
+Carbon Cell is a London-based materials startup founded in 2023 by Imperial College London and Royal College of Art alumni Elizabeth Lee, Ori Blich, Eden Harrison and Juan Ignacio Rion. The company makes a patent-pending, plastic-free foam from biochar and natural polymers that has a low or negative carbon footprint and can replace expanded polystyrene, EPP and PUR/PIR in packaging and insulation. In May 2025 it raised a £1.2M pre-seed round to scale pellet manufacturing to 20kg per hour and deliver its first full commercial-scale order through 2026.
 
 ![Carbon Cell website](/screenshots/carbon-cell.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.imperial.ac.uk/news/263993/carbon-cell-raises-12m-scale-carbon/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboncell.co/technology))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.imperial.ac.uk/news/263993/carbon-cell-raises-12m-scale-carbon/))

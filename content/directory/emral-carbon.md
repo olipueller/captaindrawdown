@@ -2,7 +2,7 @@
 title: "Emral Carbon"
 layout: "single"
 type: "directory"
-description: "Emral Carbon is a UK-based carbon market brokerage, project finance, and advisory firm led by Simon Puleston Jones. It sources spot/forward buyers and project"
+description: "Carbon market brokerage and project finance advisory firm intermediating between carbon project developers and buyers across compliance and voluntary markets including CDR-relevant frameworks (EU"
 url: "/directory/emral-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

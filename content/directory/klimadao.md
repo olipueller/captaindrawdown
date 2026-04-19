@@ -2,7 +2,7 @@
 title: "KlimaDAO"
 layout: "single"
 type: "directory"
-description: "KlimaDAO is a decentralized autonomous organization building blockchain-based infrastructure for tokenized carbon markets, operating the Carbonmark marketplace"
+description: "Blockchain-based tokenization, liquidity, and marketplace infrastructure (Carbonmark) for voluntary carbon credits, enabling on-chain purchase and retirement of credits from Verra, Gold Standard,"
 url: "/directory/klimadao/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,7 +2,7 @@
 title: "Marble"
 layout: "single"
 type: "directory"
-description: "Marble is a Paris-based climate-tech venture studio founded in 2021 by Benjamin Tincq and Jonny Everett. It partners with scientists and engineers as"
+description: "Climate-tech venture studio that co-founds and pre-seed-funds deeptech CDR and decarbonization startups through a Founders-in-Residence programme."
 url: "/directory/marble/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Milkywire"
 layout: "single"
 type: "directory"
-description: "Stockholm-based Milkywire is an impact platform that channels corporate funding into durable CDR pre-purchases through its Climate Transformation Fund, backed"
+description: "Aggregates corporate climate funding and runs annual open calls to pre-purchase durable CDR credits from early-stage suppliers across multiple pathways (DAC, biochar, ERW, BECCS, ocean) via the"
 url: "/directory/milkywire/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

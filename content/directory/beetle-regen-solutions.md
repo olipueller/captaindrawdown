@@ -2,7 +2,7 @@
 title: "Beetle Regen Solutions"
 layout: "single"
 type: "directory"
-description: "Beetle Regen Solutions is an India-based regenerative agriculture company that works with cotton farmers to implement biochar application and regenerative soil"
+description: "Trains Indian cotton farmers to convert crop residue into biochar for soil application, generating verified CDR credits sold through voluntary markets and textile-brand insetting programs."
 url: "/directory/beetle-regen-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.beetleregen.com/" target="_blank" rel="noopener">https://www.beetleregen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beetle-regen-solutions/" target="_blank" rel="noopener">beetle-regen-solutions — 3,271 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~25 (+39% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Beetle Regen Solutions is an India-based regenerative agriculture company that works with cotton farmers to implement biochar application and regenerative soil practices, generating Carbon Dioxide Removal credits sold via voluntary carbon markets and insetting programs for apparel brands. They partner with organizations like CITI-CDRA to scale regenerative cotton farming across India.
+Beetle Regen Solutions is an India-based regenerative agriculture startup founded in 2023 by Amol Mishra and Hemant Rajput, working with smallholder cotton farmers in Madhya Pradesh to convert crop residue into biochar. The company partners with CITI-CDRA and apparel/textile brands to scale regenerative cotton farming and sells carbon removal credits via insetting programs aligned with SBTi guidelines.
 
 ![Beetle Regen Solutions website](/screenshots/beetle-regen-solutions.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://thebetterindia.com/startup/agri-startup/beetle-regen-solutions-amol-mishra-hemant-rajput-regenerative-farming-india-farmers-10486138))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.beetleregen.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.beetleregen.com/ ([source](https://www.cdr.fyi/supplier/beetle-regen-solutions))

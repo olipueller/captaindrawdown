@@ -2,7 +2,7 @@
 title: "ClimeRock"
 layout: "single"
 type: "directory"
-description: "ClimeRock is a French Enhanced Rock Weathering startup founded in 2023, headquartered in Colombes (Île-de-France) with field operations in the Massif Central."
+description: "Spreads finely ground basalt sourced from Massif Central quarries onto agricultural fields to accelerate silicate weathering and sequester CO2 as dissolved bicarbonate."
 url: "/directory/climerock/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://climerock.com/" target="_blank" rel="noopener">https://climerock.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climerock/" target="_blank" rel="noopener">climerock — 763 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-ClimeRock is a French Enhanced Rock Weathering startup founded in 2023, headquartered in Colombes (Île-de-France) with field operations in the Massif Central. The company spreads finely ground basalt sourced from local quarries onto agricultural fields to sequester CO2 as dissolved bicarbonate, while also improving soil health, and sells carbon removal credits to corporate buyers. It is the first ERW specialist in France and a member of AFEN (Association Française pour les Émissions Négatives).
+ClimeRock is a French startup that spreads basalt rock powder onto farming fields to remove carbon from the atmosphere, with its first pilot projects located in Cantal, an agricultural region with many basalt quarries. It is the first French ERW specialist. The company is a partner in the LSCE-led C-ROCK research project alongside Eco&Sols, University of Antwerp and a Chinese lab studying how organic and inorganic carbon pools respond to ERW.
 
 ![ClimeRock website](/screenshots/climerock.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://climerock.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://climerock.com/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://climerock.com/))

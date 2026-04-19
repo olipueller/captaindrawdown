@@ -2,7 +2,7 @@
 title: "Climitra"
 layout: "single"
 type: "directory"
-description: "Climitra Carbon Private Limited is a Delhi-based biochar company incorporated on 22 February 2025 and registered at the Registrar of Companies in Delhi. Its"
+description: "Climitra produces engineered biochar from agricultural waste and invasive biomass via controlled pyrolysis, designed as a 1:1 drop-in replacement for PCI coal in steel blast furnaces and for soil"
 url: "/directory/climitra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://climitra.com/" target="_blank" rel="noopener">https://climitra.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climitra/" target="_blank" rel="noopener">climitra — 1,497 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+450% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Climitra Carbon Private Limited is a Delhi-based biochar company incorporated on 22 February 2025 and registered at the Registrar of Companies in Delhi. Its core product is engineered biochar designed as a drop-in replacement for PCI coal in blast furnaces without costly retrofits. The company raised $1.8M in pre-seed funding in June 2025 and is scaling projects across India — a first facility in Kutch, plus planned projects in Punjab (rice stubble) and Uttarakhand (carbon removal focus).
+Climitra Carbon Private Limited is a Delhi-based biochar startup incorporated in February 2025 that converts agricultural waste and invasive biomass (e.g. Prosopis juliflora in Gujarat) into industrial-grade biochar for steel decarbonization and carbon removal. It raised $1.8M in pre-seed funding in June 2025 and is scaling projects across India, starting with a facility in Kutch serving a major steelmaker, with further sites planned in Punjab and Uttarakhand.
 
 ![Climitra website](/screenshots/climitra.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://climitra.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://climitra.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://climitra.com/))

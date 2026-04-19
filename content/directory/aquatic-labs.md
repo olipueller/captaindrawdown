@@ -2,7 +2,7 @@
 title: "Aquatic Labs"
 layout: "single"
 type: "directory"
-description: "Aquatic Labs is a Cambridge, Massachusetts-based ocean sensing startup founded in 2022 by MIT physicist Allan Adams. The company builds solid-state sensors"
+description: "Builds solid-state carbon/alkalinity sensors and eDNA samplers for real-time ocean carbon-system measurement and MRV of ocean CDR projects."
 url: "/directory/aquatic-labs/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Cquesta"
 layout: "single"
 type: "directory"
-description: "Cquesta is a US-based agricultural biotech spun out of the Salk Institute's Harnessing Plants Initiative in 2022, developing gene-edited crop varieties with"
+description: "Uses gene editing to develop crop varieties with larger, deeper, suberin-enriched root systems that sequester atmospheric carbon in deep soil layers, licensing traits to seed companies."
 url: "/directory/cquesta/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Cquesta is a US-based agricultural biotech spun out of the Salk Institute's Harnessing Plants Initiative in 2022, developing gene-edited crop varieties with deeper, larger root systems to sequester atmospheric carbon in deep soil layers. The company licenses its root-architecture traits to seed companies, starting with CoverCress and expanding to soybean, canola, corn, sorghum, and rice, aiming to generate carbon credits for farmers with no change in agronomic practices. Field trials are underway in Illinois with additional trials planned, and the company operates from San Diego, Chicago, and St. Louis.
+Cquesta is a US-based agricultural biotech spun out of the Salk Institute's Harnessing Plants Initiative that leverages gene editing to generate carbon credits for farmers, having closed a $5 million seed round (led by Hess Corporation) to develop deep-rooted crops for carbon sequestration and drought tolerance. Target crops include soybean, canola, sorghum, corn, and rice, with plans to scale in North and South America. The company aims to achieve commercialized carbon removal at the gigaton scale.
 
 ![Cquesta website](/screenshots/cquesta.png)
 
@@ -33,6 +33,7 @@ Cquesta is a US-based agricultural biotech spun out of the Salk Institute's Harn
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://cquesta.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.cquesta.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://cquesta.com/))

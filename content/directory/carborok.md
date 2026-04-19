@@ -2,7 +2,7 @@
 title: "Carborok"
 layout: "single"
 type: "directory"
-description: "Carborok is a Nantes-based French startup and spin-off of engineering firm Voltigital, focused on CO2 mineralization in recycled concrete and alkaline"
+description: "Proprietary carbonation reactors that accelerate mineralization of biogenic CO2 into recycled concrete aggregates for durable storage."
 url: "/directory/carborok/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carborok is a Nantes-based French startup and spin-off of engineering firm Voltigital, focused on CO2 mineralization in recycled concrete and alkaline industrial wastes. The company designs, builds, and operates mineralization reactors, including a pilot at Chauvé (Ocaapi project) in Loire-Atlantique. It partners with biogenic CO2 producers and construction companies like Bouygues to sequester CO2 in carbonated concrete aggregates.
+Carborok is a Nantes-based French startup, spin-off of engineering firm Voltigital, developing CO2 mineralization reactors that sequester biogenic CO2 in recycled concrete aggregates. The company builds and operates pilot units (Ocaapi project in Chauvé, Loire-Atlantique) and plans to sell mineralization machines and carbon removal credits, partnering with Bouygues Construction's Cyneo hub.
 
 ![Carborok website](/screenshots/carborok.png)
 
@@ -31,6 +31,7 @@ Carborok is a Nantes-based French startup and spin-off of engineering firm Volti
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carborok.com/en))
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carborok.com/en))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carborok.com/en))

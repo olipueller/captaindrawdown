@@ -2,7 +2,7 @@
 title: "Climate Cleanup Foundation"
 layout: "single"
 type: "directory"
-description: "Climate Cleanup Foundation is an Amsterdam-based non-profit (founded 2018) that develops accounting methodologies and certification protocols for nature-based"
+description: "Develops the ONCRA open accounting framework and certification protocols for nature-based carbon removal (construction-stored carbon in biobased building materials, ocean-stored carbon, land/rock),"
 url: "/directory/climate-cleanup-foundation/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

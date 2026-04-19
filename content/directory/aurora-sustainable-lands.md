@@ -2,7 +2,7 @@
 title: "Aurora Sustainable Lands"
 layout: "single"
 type: "directory"
-description: "Aurora Sustainable Lands (formerly Bluesource Sustainable Forests Company) is a US-based forest carbon project developer and landowner that owns and manages"
+description: "Acquires industrially logged US forestland and implements Improved Forest Management (longer rotations, intentional harvest) to increase standing biomass carbon, generating nature-based forest carbon"
 url: "/directory/aurora-sustainable-lands/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://aurorasustainablelands.com" target="_blank" rel="noopener">https://aurorasustainablelands.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aurora-sustainable-lands/" target="_blank" rel="noopener">aurora-sustainable-lands — 4,028 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~32 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Aurora Sustainable Lands (formerly Bluesource Sustainable Forests Company) is a US-based forest carbon project developer and landowner that owns and manages roughly 1.65–1.7 million acres of formerly industrial American forestland, shifting them from timber harvesting to carbon-first Improved Forest Management. It is a joint venture between Anew Climate and an equity consortium led by Oak Hill Advisors, with investors including AB CarVal, EIG and GenZero; credits are exclusively marketed by Anew Climate. Recent activity includes issuing credits in Dec 2025 under ACR's IFM 2.1 methodology and a $100M offtake deal with TotalEnergies in 2024.
+Aurora Sustainable Lands (formerly Bluesource Sustainable Forests Company) is a US-based carbon-stewardship company and forest landowner that owns and manages roughly 1.65–1.7 million acres of formerly industrial American forestland across 17 states, converting them from timber harvesting to carbon-first Improved Forest Management. It is a joint venture between Anew Climate and an equity consortium led by Oak Hill Advisors (with AB CarVal, EIG, and GenZero). Carbon credits from Aurora's projects are exclusively marketed by Anew Climate and issued under standards such as ACR's IFM 2.1 methodology.
 
 ![Aurora Sustainable Lands website](/screenshots/aurora-sustainable-lands.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://aurorasustainablelands.com/about/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://aurorasustainablelands.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://aurorasustainablelands.com/about/))

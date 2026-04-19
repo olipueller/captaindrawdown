@@ -2,7 +2,7 @@
 title: "BIOCHAR GmbH"
 layout: "single"
 type: "directory"
-description: "BIOCHAR GmbH & Co. KG is the biochar production and sales subsidiary of the German CONVORIS Unternehmensgruppe, operating at the Reuden/Draschwitz industrial"
+description: "Pyrolysis of PEFC/FSC-certified softwood chips into biochar for agricultural use (feed additive, manure stabilizer, soil improver), with syngas byproduct used for on-site power and heat."
 url: "/directory/biochar-gmbh/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -19,7 +19,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-BIOCHAR GmbH & Co. KG is the biochar production and sales subsidiary of the German CONVORIS Unternehmensgruppe, operating at the Reuden/Draschwitz industrial park near Leipzig. The company uses softwood chips from German forestry as feedstock, with pyrolysis plants supplied by sister company BEHORE Technology, and is listed on the Puro.earth registry. Its biochar is primarily marketed to agriculture as a feed additive and soil amendment.
+BIOCHAR GmbH & Co. KG is the Convoris subsidiary that produces and sells biochar (for example as a feed additive). It operates at the Reuden/Draschwitz industrial park near Leipzig using softwood chips from German forestry, processed exclusively on pyrolysis plants built by sister company BEHORE Technologie GmbH & Co. KG. The company sells biochar products and CO2 certificates through an online shop.
 
 ![BIOCHAR GmbH website](/screenshots/biochar-gmbh.png)
 
@@ -29,6 +29,7 @@ BIOCHAR GmbH & Co. KG is the biochar production and sales subsidiary of the Germ
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://www.biochar.de/unternehmen/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://www.biochar.de/unternehmen/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](http://biochar-biokohle.de/ansprechpartner))

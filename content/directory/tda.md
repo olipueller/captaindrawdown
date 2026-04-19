@@ -2,7 +2,7 @@
 title: "TDA"
 layout: "single"
 type: "directory"
-description: "TDA Research, Inc. is a Wheat Ridge, Colorado-based contract R&D company founded in 1987 that develops catalysts, sorbents, and advanced materials, primarily"
+description: "Develops solid sorbents and adsorbent-based processes for CO2 capture from ambient air (and post-combustion flue gas) under DOE R&D contracts."
 url: "/directory/tda/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.tda.com" target="_blank" rel="noopener">https://www.tda.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tda-research/" target="_blank" rel="noopener">tda-research — 4,480 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~121 (-7% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-TDA Research, Inc. is a Wheat Ridge, Colorado-based contract R&D company founded in 1987 that develops catalysts, sorbents, and advanced materials, primarily under U.S. government contracts. Within CDR, TDA develops sorbent-based CO2 capture technology, including a DOE-funded Direct Air Capture and methanol utilization conceptual design (DE-FE0032400) and a pilot sorbent-based post-combustion capture project at the Wyoming Integrated Test Center with SLB, under a DOE award of up to $49 million.
+TDA Research, Inc. is a Wheat Ridge, Colorado-based contract R&D company founded in 1987 with ~120 staff, primarily funded by U.S. government R&D contracts (DOE, NASA, DoD, HHS) across defense, aerospace, medical, energy, and chemical industries. Within its broad portfolio, TDA develops sorbent-based CO2 capture technology, including a DOE-funded direct air capture sorbent project, but CDR is one of many lines of work rather than the company's primary business.
 
 ![TDA website](/screenshots/tda.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.tda.com))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.tda.com))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tdainc.com/careers/))

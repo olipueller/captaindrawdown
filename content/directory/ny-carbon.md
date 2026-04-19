@@ -2,10 +2,10 @@
 title: "NY Carbon"
 layout: "single"
 type: "directory"
-description: "NY Carbon is a Saugerties, NY-based biochar producer and the only commercial-scale biochar producer in the Hudson Valley, using 100% locally sourced woody"
+description: "Pyrolyzes locally sourced woody biomass waste into biochar for agricultural soil application in the Hudson Valley."
 url: "/directory/ny-carbon/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.nycarbon.co/" target="_blank" rel="noopener">https://www.nycarbon.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ny-carbon/" target="_blank" rel="noopener">ny-carbon — 76 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-NY Carbon is a Saugerties, NY-based biochar producer and the only commercial-scale biochar producer in the Hudson Valley, using 100% locally sourced woody waste feedstock. It partners with 4 Corners Carbon Coalition, Terraset, Sustainable Hudson Valley, and Cornell Cooperative Extension under the Hudson Valley Biochar Pioneers program, which equipped 14 farms with locally produced biochar.
+NY Carbon is a small Saugerties, NY-based commercial biochar producer using locally sourced woody waste feedstock via pyrolysis. It serves as the exclusive biochar supplier for the Hudson Valley Biochar Pioneers program (4 Corners Carbon Coalition, Terraset, Sustainable Hudson Valley, Cornell Cooperative Extension), which equipped 14 farms with biochar in spring 2025.
 
 ![NY Carbon website](/screenshots/ny-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.4cornerscarbon.org/hudson-valley-biochar-pioneers))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://biochar-us.org/ny-carbon))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nycarbon.co/))

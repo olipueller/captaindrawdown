@@ -2,7 +2,7 @@
 title: "Calyx Global"
 layout: "single"
 type: "directory"
-description: "Calyx Global is an independent carbon credit ratings agency for the voluntary carbon market, providing GHG integrity and SDG impact ratings across 25+ project"
+description: "Independent ratings agency providing expert-led GHG integrity and SDG impact assessments of carbon credits, covering both avoidance and removal project types across multiple registries."
 url: "/directory/calyx-global/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

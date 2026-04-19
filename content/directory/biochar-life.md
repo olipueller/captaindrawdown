@@ -2,7 +2,7 @@
 title: "Biochar Life"
 layout: "single"
 type: "directory"
-description: "Biochar Life is a Delaware Public Benefit Corporation and impact venture of nonprofit Warm Heart Worldwide, operating primarily in Thailand with programs in"
+description: "Trains smallholder farmers in Thailand, Kenya, Malawi, and Indonesia to convert crop residues into biochar using low-tech Kon-Tiki/Aom kilns, certified under the EBC Global Artisan C-Sink standard."
 url: "/directory/biochar-life/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Biochar Life is a Delaware Public Benefit Corporation and impact venture of nonprofit Warm Heart Worldwide, operating primarily in Thailand with programs in Kenya, Malawi, Tanzania and Indonesia. It trains smallholder farmers to convert crop waste into biochar using low-tech kilns, certifies the carbon removed via the EBC/Global Artisan C-Sink standard, and sells c-sink credits through partners like Carbonfuture. By March 2025 it had paid over US$1 million to smallholder farmers and generated 21,000+ tonnes of verified carbon removals.
+Biochar Life is a Delaware Public Benefit Corporation and impact venture of the nonprofit Warm Heart Worldwide, headquartered operationally in northern Thailand with programs in Kenya, Malawi, and Indonesia. It trains smallholder farmers to pyrolyze crop waste into biochar, verifies carbon removal under the EBC/Global Artisan C-Sink standard, and sells C-sink credits through partners including Carbonfuture.
 
 ![Biochar Life website](/screenshots/biochar-life.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.life/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.life/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))

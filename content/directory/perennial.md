@@ -2,7 +2,7 @@
 title: "Perennial"
 layout: "single"
 type: "directory"
-description: "Perennial (formerly Cloud Agronomics) is a Boulder, Colorado-based MRV company for soil-based carbon removal, using digital soil mapping, machine learning"
+description: "Digital soil mapping MRV platform combining satellite remote sensing, 350,000+ soil samples, and machine learning (ATLAS-SOC model) to quantify soil organic carbon stocks and changes for agricultural"
 url: "/directory/perennial/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

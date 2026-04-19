@@ -2,7 +2,7 @@
 title: "Ducks Unlimited"
 layout: "single"
 type: "directory"
-description: "Ducks Unlimited (DU) is a North American waterfowl and wetlands conservation nonprofit that runs a carbon program partnering with private landowners. Its"
+description: "Nonprofit land trust running bottomland hardwood reforestation (Flyway Forests) and avoided grassland conversion projects on private lands, issuing credits via ACR and Climate Action Reserve"
 url: "/directory/ducks-unlimited/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ducks.org/" target="_blank" rel="noopener">https://www.ducks.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ducks-unlimited/" target="_blank" rel="noopener">ducks-unlimited — 72,474 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~1127 (+7% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Ducks Unlimited (DU) is a North American waterfowl and wetlands conservation nonprofit that runs a carbon program partnering with private landowners. Its projects include avoided grassland conversion in the Northern Great Plains and the Flyway Forests bottomland-hardwood reforestation program in the lower Mississippi River valley. Credits are sold on voluntary carbon markets to fund ongoing conservation and landowner payments.
+Ducks Unlimited is a large US-based nonprofit (founded 1937) dedicated to wetland and waterfowl conservation, with over 1,000 employees and 16+ million acres restored or protected across North America. Its carbon program is a secondary activity that monetizes grassland conservation and bottomland hardwood reforestation projects (including Flyway Forests with Pachama and PERENfra) through the voluntary carbon market to fund its conservation mission. Conservation, not CDR, is the organization's core business.
 
 ![Ducks Unlimited website](/screenshots/ducks-unlimited.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=side_business liveliness=🟢 Active ([source](https://www.ducks.org/conservation/sustainability/ducks-unlimiteds-carbon-program))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.ducks.org/conservation/sustainability/ducks-unlimiteds-carbon-program))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ducks-unlimited ))

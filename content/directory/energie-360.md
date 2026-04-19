@@ -2,7 +2,7 @@
 title: "Energie 360°"
 layout: "single"
 type: "directory"
-description: "Energie 360° AG is a Zurich-based energy utility (96% owned by the City of Zurich) supplying renewable gas, heat, electricity and mobility solutions across"
+description: "Co-owns Bioenergie Frauenfeld AG, a SynCraft wood-pyrolysis CHP plant that converts regional residual wood into biochar plus renewable heat and electricity, generating ~9,000 tonnes of CO2 removals"
 url: "/directory/energie-360/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.energie360.ch/" target="_blank" rel="noopener">https://www.energie360.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energie360/" target="_blank" rel="noopener">energie360 — 15,773 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~368 (+6% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Energie 360° AG is a Zurich-based energy utility (96% owned by the City of Zurich) supplying renewable gas, heat, electricity and mobility solutions across Switzerland. Together with Schweizer Zucker AG, it co-founded and co-owns Bioenergie Frauenfeld AG, a wood-pyrolysis CHP plant in Frauenfeld that produces biochar and delivers carbon removal credits (17,500 t CDR agreement via Carbonfuture announced in 2022). The Frauenfeld facility is described as carbon-negative, removing roughly 9,000 t CO2/year.
+Energie 360° AG is a Zurich-based energy utility, 96% owned by the City of Zurich, supplying biogas, wood pellets, heat, electricity, e-mobility and energy services to Zurich and 42 other Swiss municipalities. Together with Schweizer Zucker AG it co-founded and co-owns Bioenergie Frauenfeld AG, a SynCraft wood-pyrolysis CHP plant producing biochar and carbon removal credits (sold via Carbonfuture). CDR is an adjacent activity to its core utility business.
 
 ![Energie 360° website](/screenshots/energie-360.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.energie360.ch/de/leistungen/co2-entfernung/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.bioenergie-frauenfeld.ch/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://energie360.ch/ ([source](https://www.cdr.fyi/supplier/energie-360))

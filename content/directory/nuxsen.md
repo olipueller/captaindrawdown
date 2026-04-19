@@ -2,7 +2,7 @@
 title: "Nuxsen"
 layout: "single"
 type: "directory"
-description: "Nūxsen is a New York-based direct air capture startup founded in 2022 that is developing electrochemical DAC reactors (CarbonJet and SlipStream) using a"
+description: "Develops electrochemical direct air capture reactors (CarbonJet, SlipStream) using a patented solid sorbent activated by variable voltage rather than heat."
 url: "/directory/nuxsen/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
@@ -22,13 +22,14 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-Nūxsen is a New York-based direct air capture startup founded in 2022 that is developing electrochemical DAC reactors (CarbonJet and SlipStream) using a patented sorbent activated by variable voltage rather than heat. The company was a Phase 1 semifinalist in the DOE Direct Air Capture Pre-Commercial Technology Prize and tested its sorbent at the NETL Direct Air Capture Center in Pittsburgh, capturing 2.6 grams of CO2 in lab-scale tests. Per Tracxn it remains unfunded, and no public news has appeared since late 2024.
+Nūxsen is a New York-based direct air capture startup founded in 2022 developing electrochemical DAC reactors with a voltage-activated sorbent instead of thermal regeneration. It was a Phase 1 semifinalist in the DOE Direct Air Capture Pre-Commercial Technology Prize and tested its sorbent at the NETL DAC Center in Pittsburgh, capturing ~2.6 g CO2 at lab scale. The company remains small (~5 employees), unfunded as of mid-2025, and has shown limited public activity since late 2024.
 
 ![Nuxsen website](/screenshots/nuxsen.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://nuxsen.com/news/))
 - **2026-04-19** — merged 1 duplicate(s): Nūxsen
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://nuxsen.com/news/))

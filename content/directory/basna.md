@@ -2,7 +2,7 @@
 title: "Basna"
 layout: "single"
 type: "directory"
-description: "Basna is a Swiss company, founded in 2010 and headquartered in Čačak, Serbia, engaged in the conversion of biomass into heat and high quality charcoal. It has"
+description: "Pyrolysis of wood biomass to produce EBC-certified biochar (feed additive, soil amendment) alongside other charcoal products, with co-generated heat."
 url: "/directory/basna/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Basna is a Swiss company, founded in 2010 and headquartered in Čačak, Serbia, engaged in the conversion of biomass into heat and high quality charcoal. It has been EBC certified since 2016, producing customized biochar products with extra long pores and high carbon content, optimized for improved milk production and anaerobic digesters. It is a small family-run operation (LinkedIn shows ~2 employees) that was previously listed on Puro.earth, though the specific CORC listing page now returns 404.
+Basna d.o.o. is a small Swiss-owned, family-run company founded in 2010 and headquartered in Čačak, Serbia, producing charcoal and biochar from wood biomass via pyrolysis. It holds European Biochar Certificate (EBC) certification and is listed as a Puro.earth biochar supplier, with products used primarily as animal feed additive and soil amendment.
 
 ![Basna website](/screenshots/basna.png)
 
@@ -31,6 +31,7 @@ Basna is a Swiss company, founded in 2010 and headquartered in Čačak, Serbia, 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.basna.net/))
 - **2026-04-19** — merged 1 duplicate(s): Basna d.o.o.
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.basna.net/strane/o-nama-1.html))

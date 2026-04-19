@@ -2,10 +2,10 @@
 title: "MYNO"
 layout: "single"
 type: "directory"
-description: "MYNO Carbon Corp. is a Washington-based biochar startup founded in 2020 that is developing a large-scale Carbon Removal Facility in Port Angeles, WA, using"
+description: "MYNO pyrolyzes forest residuals into biochar at large-scale Carbon Removal Facilities, also producing renewable energy and selling carbon removal credits."
 url: "/directory/myno/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://mynocarbon.com/" target="_blank" rel="noopener">https://mynocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/myno-enterprises/" target="_blank" rel="noopener">myno-enterprises — 1,425 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
   <tr><th>Employees</th><td>~14</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-MYNO Carbon Corp. is a Washington-based biochar startup founded in 2020 that is developing a large-scale Carbon Removal Facility in Port Angeles, WA, using forest residuals as feedstock to produce biochar and renewable energy. The company has executed early biochar field applications with Washington conservation districts and WSU, and its CEO continued to publicly promote the Port Angeles project as of October 2025 despite the cancellation of a $20.4M USDA Fertilizer Production Expansion Program grant.
+MYNO Carbon Corp. is a Washington-based biochar company founded in 2020 that is developing its first large-scale Carbon Removal Facility in Port Angeles, WA, using forest residuals from Hermann Brothers. The project was awarded a $20.49 million USDA Fertilizer Production Expansion Program grant in late 2024, targeting 40,000 tons of biochar annually. CEO Thor Kallestad continues to publicly promote the project, including a Peninsula College presentation in October 2025.
 
 ![MYNO website](/screenshots/myno.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://mynocarbon.com/myno-plans-to-build-its-first-large-scale-biochar-carbon-removal-facility-in-port-angeles-washington/))
 - **2026-04-19** — merged 1 duplicate(s): Myno Carbon
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://mynocarbon.com/))

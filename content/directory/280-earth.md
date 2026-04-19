@@ -2,7 +2,7 @@
 title: "280 Earth"
 layout: "single"
 type: "directory"
-description: "280 Earth is a Direct Air Capture company spun out of Alphabet's X (The Moonshot Factory) in 2022, headquartered in Mountain View, California, with its first"
+description: "Low-temperature solid-sorbent Direct Air Capture system using waste heat, producing both CO2 removal and fresh water as a co-product."
 url: "/directory/280-earth/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-280 Earth is a Direct Air Capture company spun out of Alphabet's X (The Moonshot Factory) in 2022, headquartered in Mountain View, California, with its first commercial demonstration DAC facility in The Dalles, Oregon. The 500 t/yr Phase 1 plant began operations in May 2024, backed by a $50M Series B led by Builders VC and a $40M Frontier offtake agreement for 61,571 tons of CO2 between 2024-2030. The company is scaling toward a 5,000 t/yr module and signed Volotea as its first European airline partner in March 2025.
+280 Earth was launched in 2018 at X, Google's moonshot factory, and spun out in 2022; the first phase of its Dalles, Oregon facility was built to capture 500 tons/year of CO2, with the site sized to eventually capture more than 20,000 tons/year. Frontier buyers are paying 280 Earth $40m to permanently remove 61,571 tons of CO₂ between 2024 and 2030 at the pilot facility. The company is headquartered in Mountain View, California and backed by Builders VC, Gideon Yu, and Alphabet.
 
 ![280 Earth website](/screenshots/280-earth.png)
 
@@ -33,6 +33,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://280.earth/stories/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://280.earth/))

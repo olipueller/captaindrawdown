@@ -2,7 +2,7 @@
 title: "Taranis"
 layout: "single"
 type: "directory"
-description: "Taranis is a France-based investment and asset management company owned by the Perenco Group, operating four funds: Carbon Ventures (CCUS and plastic recycling"
+description: "Perenco-owned investment firm running a €200M Carbon Ventures VC fund backing CCUS hardware startups and an NBS arm developing forest conservation/afforestation carbon projects."
 url: "/directory/taranis/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Pinwheel (Messier Holdings Limited)"
 layout: "single"
 type: "directory"
-description: "Pinwheel (trading name of Messier Holdings Limited) is a UK-based climate engagement platform that curates and brokers carbon removal and biodiversity projects"
+description: "Digital marketplace/engagement platform that curates vetted CDR and biodiversity projects and channels corporate and employee funding to them; not a physical removal operator."
 url: "/directory/pinwheel-messier-holdings-limited/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

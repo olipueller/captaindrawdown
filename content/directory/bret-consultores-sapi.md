@@ -2,7 +2,7 @@
 title: "Bret Consultores SAPI"
 layout: "single"
 type: "directory"
-description: "Bret Consultores SAPI de CV is a Mexico-based carbon project developer that generates forestry-based carbon removal credits through Improved Forest Management"
+description: "Develops Improved Forest Management (IFM) carbon removal projects with ejidos and private landowners across Mexico under the Climate Action Reserve's Mexico Forest Protocol."
 url: "/directory/bret-consultores-sapi/"
 pathway: "Afforestation"
 liveliness: "🟡 Moderate"
@@ -22,13 +22,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Bret Consultores SAPI de CV is a Mexico-based carbon project developer that generates forestry-based carbon removal credits through Improved Forest Management (IFM) projects with ejidos and private landowners across Mexican states including Chihuahua, Durango, Jalisco and Quintana Roo. It is a wholly-owned subsidiary of US-listed Arma Services Inc. (OTC: ARMV) following a 2023 reverse merger, and its projects follow the Climate Action Reserve Forest Protocol for Mexico.
+Bret Consultores SAPI de CV is a Mexico-based forestry carbon project developer that partners with ejidos and private landowners across Chihuahua, Durango, Jalisco and Quintana Roo to generate IFM-based removal credits. The company became a wholly-owned subsidiary of US-listed Arma Services (OTC: ARMV) via a 2023 reverse merger in which Bret was the accounting acquirer, effectively making Arma the public holding vehicle for Bret's CDR business. Projects cover over 117,000 hectares combined and follow the Climate Action Reserve's Forest Protocol for Mexico.
 
 ![Bret Consultores SAPI website](/screenshots/bret-consultores-sapi.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟡 Moderate ([source](https://bret-co.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://bret-co.com/))

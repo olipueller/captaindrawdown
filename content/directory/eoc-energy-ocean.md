@@ -2,7 +2,7 @@
 title: "eoc energy ocean"
 layout: "single"
 type: "directory"
-description: "eoc energy ocean GmbH is a Lucerne-based Swiss company that produces and sells EBC-certified biochar (\"Swiss Pflanzenkohle\") from regional forestry wood via"
+description: "Pyrolyzes regional forestry wood residues into EBC-certified biochar, with waste heat used for local district heating."
 url: "/directory/eoc-energy-ocean/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,19 +14,20 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://energyocean.ch/" target="_blank" rel="noopener">https://energyocean.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eoc-energy-ocean-gmbh/" target="_blank" rel="noopener">eoc-energy-ocean-gmbh — 192 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-eoc energy ocean GmbH is a Lucerne-based Swiss company that produces and sells EBC-certified biochar ("Swiss Pflanzenkohle") from regional forestry wood via pyrolysis at its plant in Luthern, LU, with waste heat used for district heating. The firm received the Albert Koechlin Foundation Environment Award in 2024 and markets its products to agriculture and animal husbandry sectors.
+eoc energy ocean GmbH is a Lucerne-based Swiss biochar producer that operates a pyrolysis plant in Luthern (LU), converting regional forestry wood residues into EBC-certified Swiss Pflanzenkohle while using waste heat for district heating. The company received the Albert Koechlin Foundation 2024 Environment Award and markets its biochar primarily to agriculture and animal husbandry.
 
 ![eoc energy ocean website](/screenshots/eoc-energy-ocean.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energyocean.ch/))
 - **2026-04-19** — merged 1 duplicate(s): Energy Ocean
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energyocean.ch/))
 - **2026-04-19** — refresh: coresignal, liveliness

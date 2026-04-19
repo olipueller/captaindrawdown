@@ -2,7 +2,7 @@
 title: "Ocean"
 layout: "single"
 type: "directory"
-description: "Ocean Visions is a US-based science-focused nonprofit that catalyzes research, road maps, field trials, and policy frameworks for marine carbon dioxide removal"
+description: "Nonprofit convener, funder, and knowledge-producer for marine CDR — road maps, accelerator (Launchpad), ecosystem/field-trial databases, and an environmental impact assessment framework for mCDR."
 url: "/directory/ocean/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"

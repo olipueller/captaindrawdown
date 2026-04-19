@@ -2,7 +2,7 @@
 title: "Carbonera, Inc."
 layout: "single"
 type: "directory"
-description: "Carbonera eXchange is a small US-based online marketplace platform for buying and selling carbon offsets and carbon removal credits, headquartered in Campbell,"
+description: "SaaS/blockchain-based online exchange platform that lists and brokers third-party carbon offset and removal credits (Verra, Gold Standard, ACR), rather than producing CDR itself."
 url: "/directory/carbonera-inc/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

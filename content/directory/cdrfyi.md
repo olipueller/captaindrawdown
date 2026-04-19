@@ -2,7 +2,7 @@
 title: "CDR.fyi"
 layout: "single"
 type: "directory"
-description: "CDR.fyi is a market intelligence and data platform for the durable carbon dioxide removal industry, tracking transactions, prices, deliveries, and"
+description: "Web-based data platform aggregating publicly announced and partner-reported CDR transactions to produce leaderboards, market reports, and subscription analytics."
 url: "/directory/cdrfyi/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

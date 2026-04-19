@@ -2,7 +2,7 @@
 title: "ECM | Environmental Commodities Marketplace"
 layout: "single"
 type: "directory"
-description: "ECM (Environmental Commodities Marketplace) is the flagship platform of Erguvan, an Istanbul-based climate technology firm founded in 2022. It is a digital"
+description: "Digital marketplace and trading terminal for carbon credits and Renewable Energy Certificates connecting end buyers directly with project developers, with portfolio management, ratings, and custodial"
 url: "/directory/ecm-environmental-commodities-marketplace/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

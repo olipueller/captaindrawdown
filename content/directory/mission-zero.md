@@ -2,10 +2,10 @@
 title: "Mission Zero"
 layout: "single"
 type: "directory"
-description: "Mission Zero Technologies is a UK-based company that develops electrochemical direct air capture (DAC) technology inspired by biological reactions that manage"
+description: "Electrochemical, water-based solvent direct air capture technology using a modular, plug-and-play platform powered by electricity."
 url: "/directory/mission-zero/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.missionzero.tech/" target="_blank" rel="noopener">https://www.missionzero.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mission-zero/" target="_blank" rel="noopener">mission-zero — 13,008 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~49</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Mission Zero Technologies is a UK-based company that develops electrochemical direct air capture (DAC) technology inspired by biological reactions that manage CO₂ in the body, designed to recover atmospheric CO₂ at any scale. The company has deployed three systems across the UK and Canada, including a Norfolk DAC-to-building-materials plant with O.C.O Technology and a third system at Deep Sky's Alpha site in Alberta. Applications span carbon removal, sustainable aviation fuel feedstock, and carbon-negative building materials.
+Mission Zero Technologies is a UK-based company that develops electrochemical direct air capture (DAC) technology inspired by biological reactions that manage CO₂ in the body. The company had three DAC facilities operational by end of 2025, including a Norfolk DAC-to-limestone plant with O.C.O Technology and a third unit at Deep Sky's Alpha site in Alberta, Canada.
 
 ![Mission Zero website](/screenshots/mission-zero.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.missionzero.tech/lab-notes/our-second-direct-air-capture-plant))
 - **2026-04-19** — merged 1 duplicate(s): Mission Zero Technologies
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

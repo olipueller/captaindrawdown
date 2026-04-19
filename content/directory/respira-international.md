@@ -2,7 +2,7 @@
 title: "Respira International"
 layout: "single"
 type: "directory"
-description: "Respira International is a London-based impact-driven carbon finance business that uses its balance sheet to pre-purchase carbon credits from project"
+description: "Carbon finance/offtake house that pre-purchases and resells voluntary carbon credits, primarily nature-based with some engineered CDR (BECCS, DAC) in portfolio."
 url: "/directory/respira-international/"
 pathway: "Afforestation"
 liveliness: "🟡 Moderate"

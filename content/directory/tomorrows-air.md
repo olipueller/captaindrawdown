@@ -2,7 +2,7 @@
 title: "Tomorrow's Air"
 layout: "single"
 type: "directory"
-description: "Tomorrow's Air is a carbon removal collective and marketplace for the travel industry, incubated and owned by the Adventure Travel Trade Association (ATTA). It"
+description: "Travel-industry CDR marketplace/aggregator that channels traveler and travel-business contributions to DAC, biochar, and enhanced weathering suppliers, with blockchain-backed Digital Product"
 url: "/directory/tomorrows-air/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

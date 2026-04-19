@@ -2,7 +2,7 @@
 title: "Sanctu"
 layout: "single"
 type: "directory"
-description: "Sanctu is a Brazilian reforestation startup focused on restoring the Amazon by partnering with low-income farmers (\"Guardians\") to transform degraded land into"
+description: "Reforestation of degraded Amazon land via a platform partnering with smallholder farmers, monetized through carbon credits and regenerative bioproducts."
 url: "/directory/sanctu/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Afforestation</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
-  <tr><th>Website</th><td><a href="http://www.sanctu.com" target="_blank" rel="noopener">http://www.sanctu.com</a></td></tr>
+  <tr><th>Website</th><td><a href="https://www.sanctu.com" target="_blank" rel="noopener">https://www.sanctu.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sanctu/" target="_blank" rel="noopener">sanctu — 2,472 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~23 (+28% YoY)</td></tr>
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Sanctu is a Brazilian reforestation startup focused on restoring the Amazon by partnering with low-income farmers ("Guardians") to transform degraded land into biodiverse native forests. The company monetizes restoration through the sale of carbon credits and bioproducts.
+Sanctu is a Brazilian reforestation startup that partners with low-income Amazonian smallholder farmers ("Guardians") to transform degraded land into biodiverse native forests. The company finances, provides technical assistance to, and commercializes output from these projects, generating revenue through the sale of carbon credits and bioproducts (fruits, seeds, oils) to corporate buyers working toward Net Zero targets.
 
 ![Sanctu website](/screenshots/sanctu.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.sanctu.com/en))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟡 Moderate ([source](https://www.linkedin.com/company/sanctu/))

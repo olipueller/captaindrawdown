@@ -2,7 +2,7 @@
 title: "Watershed"
 layout: "single"
 type: "directory"
-description: "Watershed is an enterprise sustainability software platform that helps companies measure, report, and reduce emissions, and operates a curated marketplace of"
+description: "Enterprise carbon accounting/reporting SaaS combined with a curated marketplace that brokers vetted carbon removal credits to corporate buyers."
 url: "/directory/watershed/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

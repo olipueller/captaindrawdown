@@ -2,7 +2,7 @@
 title: "Enrzi"
 layout: "single"
 type: "directory"
-description: "Enrzi is an India-based biochar producer that converts biomass into carbon-rich material via pyrolysis for use as a soil amendment. The company has minimal"
+description: "Pyrolyzes biomass into biochar for use as a soil amendment and carbon sequestration."
 url: "/directory/enrzi/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
@@ -14,19 +14,20 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.enrzi.com/" target="_blank" rel="noopener">https://www.enrzi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enrzibio/" target="_blank" rel="noopener">enrzibio</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 25/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Enrzi is an India-based biochar producer that converts biomass into carbon-rich material via pyrolysis for use as a soil amendment. The company has minimal public footprint — no registry-listed credits, a near-empty LinkedIn presence, no notable press coverage, and no search result presence for its name. Its website is live but external validation of operational scale is absent.
+Enrzi is an India-based biochar venture that converts biomass into carbon-rich char via pyrolysis for soil amendment and carbon removal. The company has effectively no public footprint — web searches for the name return no news, no registry-listed credits, and no press coverage, and its LinkedIn (enrzibio) shows zero employees. The homepage is live but external validation of operational activity is absent.
 
 ![Enrzi website](/screenshots/enrzi.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.enrzi.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.enrzi.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.enrzi.com/))

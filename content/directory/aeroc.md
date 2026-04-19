@@ -2,7 +2,7 @@
 title: "AEROC"
 layout: "single"
 type: "directory"
-description: "AEROC (Aeroc GmbH) is a Cologne-based German startup founded in 2024 that develops Enhanced Rock Weathering (ERW) projects by spreading basalt rock powder on"
+description: "Spreads crushed basalt rock flour on agricultural fields in Germany to accelerate silicate weathering and permanently sequester atmospheric CO2 as bicarbonates."
 url: "/directory/aeroc/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.aeroc.earth/" target="_blank" rel="noopener">https://www.aeroc.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aeroccarbon/" target="_blank" rel="noopener">aeroccarbon — 895 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-AEROC (Aeroc GmbH) is a Cologne-based German startup founded in 2024 that develops Enhanced Rock Weathering (ERW) projects by spreading basalt rock powder on agricultural fields to permanently sequester CO2 while improving soil quality. The company has expanded into offering a remote-sensing "Multi-Sensing" soil intelligence layer to help ERW project developers identify viable sites and reduce measurement costs. They run field trials in Germany (including a 2025–2027 collaboration with Naturland) and generate CO2 negative certificates.
+AEROC (Aeroc GmbH) is a Cologne, Germany-based startup founded in 2024 by Felix Nosske and Georg Sticka that develops Enhanced Rock Weathering carbon-removal projects on agricultural fields. The company manages the full ERW value chain — sourcing and grinding basalt at local quarries, transporting it to farms, and handling MRV via measurement and modelling. As of 2025 the team includes a dedicated isotope geochemist and they have launched their first ERW project in Germany.
 
 ![AEROC website](/screenshots/aeroc.png)
 
@@ -34,6 +34,7 @@ AEROC (Aeroc GmbH) is a Cologne-based German startup founded in 2024 that develo
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.aeroc.earth/en))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.aeroc.earth/))

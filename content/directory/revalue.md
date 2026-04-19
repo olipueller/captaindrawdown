@@ -2,7 +2,7 @@
 title: "Revalue"
 layout: "single"
 type: "directory"
-description: "Revalue Nature is a London-based climate tech company founded in 2022 that provides end-to-end tools and services to nature-based carbon project developers,"
+description: "Platform and services provider for nature-based carbon project developers, using LiDAR, eDNA, bioacoustics, and ML-based remote sensing for MRV on reforestation and conservation projects."
 url: "/directory/revalue/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

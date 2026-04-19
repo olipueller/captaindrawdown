@@ -2,7 +2,7 @@
 title: "Carbon2H"
 layout: "single"
 type: "directory"
-description: "Based in Berlin, Germany, Carbon2H specializes in advanced biomass gasification systems, with technology that converts biomass into clean syngas using modular,"
+description: "Designs and deploys modular, container-housed biomass gasification systems that convert organic residues into syngas/renewable energy while producing biochar as a carbon-sequestering byproduct."
 url: "/directory/carbon2h/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -11,7 +11,7 @@ liveliness: "🟡 Moderate"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
-  <tr><th>Secondary pathways</th><td>BECCS, Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon2h.com/" target="_blank" rel="noopener">https://www.carbon2h.com/</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
@@ -20,13 +20,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Based in Berlin, Germany, Carbon2H specializes in advanced biomass gasification systems, with technology that converts biomass into clean syngas using modular, customizable gasifiers housed in shipping containers for easy deployment and scalability. During gasification, CO₂ is captured and stored in the biochar, which sequesters carbon for more than 1,000 years and can be used in soil improvement, construction materials, and more. They also position carbon credits from captured CO₂ as a revenue stream for operators of their equipment.
+Based in Berlin, Germany, Carbon2H specializes in advanced biomass gasification systems, with technology that converts biomass into clean syngas using modular, customizable gasifiers housed in shipping containers for easy deployment and scalability. During gasification, CO₂ is captured and stored in the biochar, which sequesters carbon for more than 1,000 years and can be used in soil improvement, construction materials, and more. The company offers both stationary and mobile gasifier products targeted at agriculture, forestry, waste management, and off-grid energy use cases.
 
 ![Carbon2H website](/screenshots/carbon2h.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon2h.com/about))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon2h.com/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.carbon2h.com/blog/how-biomass-gasification-can-help-companies-reduce-pollution))

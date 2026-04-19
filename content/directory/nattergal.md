@@ -2,10 +2,10 @@
 title: "Nattergal"
 layout: "single"
 type: "directory"
-description: "Nattergal is a UK private nature recovery company founded in 2021 that acquires and rewilds degraded agricultural land at scale, operating Boothby Wildland"
+description: "Acquires degraded farmland and uses process-led rewilding (scrub, grassland, wetland mosaic habitats, natural regeneration) to sequester carbon in soils and biomass, selling credits under the Wilder"
 url: "/directory/nattergal/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://nattergal.co.uk" target="_blank" rel="noopener">https://nattergal.co.uk</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Nattergal is a UK private nature recovery company founded in 2021 that acquires and rewilds degraded agricultural land at scale, operating Boothby Wildland (Lincolnshire), High Fen Wildland (Norfolk), and Harold's Park (Essex). It generates revenue through carbon removal credits (certified by Wilder Carbon), Biodiversity Net Gain units, water credits, UK Landscape Recovery Scheme funding, and ecotourism. Notable deals include Arup's £1M investment securing 10,000 tCO2e over 30 years and a Treeconomy/Naturalis carbon credit purchase from Boothby Wildland.
+Nattergal is a UK private nature recovery company founded in 2021 that acquires and rewilds degraded agricultural land at sites including Boothby Wildland (Lincolnshire), High Fen Wildland (Norfolk), and Harold's Park (Essex). It generates revenue through carbon removal credits certified by Wilder Carbon, Biodiversity Net Gain units, water credits, UK Landscape Recovery Scheme funding, and ecotourism. While the business model is multi-revenue (natural capital), carbon removal via rewilding is a core output and the company is actively delivering verified carbon credits to buyers like Arup and Naturalis.
 
 ![Nattergal website](/screenshots/nattergal.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.sustainabletimes.co.uk/post/arup-invests-1-million-in-nature-restoration-at-boothby-wildland))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.sustainabletimes.co.uk/post/arup-invests-1-million-in-nature-restoration-at-boothby-wildland))

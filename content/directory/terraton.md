@@ -2,7 +2,7 @@
 title: "Terraton"
 layout: "single"
 type: "directory"
-description: "Terraton is a San Francisco-based, full-stack biochar carbon removal platform that partners with agribusinesses in emerging markets to build and operate"
+description: "Full-stack biochar platform providing hardware, software, financing and MRV to agribusiness operators in emerging markets to pyrolyze crop waste into stable carbon and generate credits."
 url: "/directory/terraton/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terraton.ai/" target="_blank" rel="noopener">https://terraton.ai/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terraton/" target="_blank" rel="noopener">terraton — 1,540 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Terraton is a San Francisco-based, full-stack biochar carbon removal platform that partners with agribusinesses in emerging markets to build and operate biochar facilities, providing hardware, SaaS, financing and MRV. It raised $11.5M in seed funding in August 2025, co-led by Lowercarbon Capital and Gigascale Capital, with participation from ANA Future Frontier Fund, East Japan Railway's Takanawa Gateway Global Co-Benefits Fund, and angels including Jeff Dean and Bret Taylor. Its first projects are Three Mountains Cocoa in Ghana (preliminary approval from Puro.earth) and EcoFix in Kenya (under review by Isometric), expected to deliver over 20,000 tonnes of annual CO₂ removal.
+Terraton is a San Francisco-based climate tech startup building a full-stack platform for biochar-based carbon removal, helping agribusiness operators deploy biochar facilities and generate carbon credits. Its $11.5M seed funding round was co-led by Lowercarbon Capital and Gigascale Capital, alongside strategic investors including the ANA Future Frontier Fund and the Takanawa Gateway Global Co-Benefits Fund. First two projects — Three Mountains Cocoa in Ghana (preliminary approval by Puro.earth) and EcoFix in Kenya (under review with Isometric) — are expected to remove over 20,000 tons of CO₂ annually.
 
 ![Terraton website](/screenshots/terraton.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terraton.ai/))
 - **2026-04-19** — merged 1 duplicate(s): Terraton Industrial Inc.
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terraton.ai/))

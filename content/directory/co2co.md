@@ -2,10 +2,10 @@
 title: "CO2CO"
 layout: "single"
 type: "directory"
-description: "CO2CO Ltd is a UK carbon-removal startup spun out of Imperial College London in 2021. The company grows microalgae in outdoor ponds and converts the biomass"
+description: "Grows microalgae in outdoor ponds and converts the biomass via two-step carbonisation (HTC/pyrolysis) into biochar for soil amendment, afforestation, construction aggregate, and a microalgal"
 url: "/directory/co2co/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟠 Suspect"
   <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.co2co.earth/" target="_blank" rel="noopener">https://www.co2co.earth/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-CO2CO Ltd is a UK carbon-removal startup spun out of Imperial College London in 2021. The company grows microalgae in outdoor ponds and converts the biomass via a two-step carbonisation process into biochar for agricultural, afforestation, or construction aggregate uses, and is also developing a bio-bitumen road-construction material with Tarmac and Innovate UK funding.
+CO2CO is a 2021 Imperial College London startup focused on atmospheric carbon dioxide removal, using thermal transformation of biological waste material to decarbonise the transport, construction, and energy industry sectors. The company grows microalgae in large outdoor ponds and processes the algal biomass to biochar using a two-step carbonisation system. It is also leading development of a microalgal-based biohybrid bitumen (MAB-bitumen) with Innovate UK, Tarmac, Nanolyse Technologies, Imperial College London, and the University of Sheffield.
 
 ![CO2CO website](/screenshots/co2co.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.co2co.earth/))
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.co2co.earth/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.co2co.earth/))

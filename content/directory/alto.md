@@ -2,10 +2,10 @@
 title: "Alto"
 layout: "single"
 type: "directory"
-description: "Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of specialty alcohols and renewable fuels headquartered in Pekin, Illinois. The"
+description: "Captures biogenic CO2 from corn ethanol fermentation at Pekin, IL campus for permanent geological sequestration in the Mt. Simon sandstone formation via partnership with Vault 44.01."
 url: "/directory/alto/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.altoingredients.com/" target="_blank" rel="noopener">https://www.altoingredients.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pacific-ethanol/" target="_blank" rel="noopener">pacific-ethanol — 3,304 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~223 (-3% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of specialty alcohols and renewable fuels headquartered in Pekin, Illinois. The company is developing a BECCS project with Vault 44.01 to capture the ~600,000 metric tons/year of biogenic CO2 generated from corn fermentation at its Pekin campus and permanently sequester it in the Mt. Simon sandstone formation. A definitive CO2 Transportation and Sequestration Agreement was signed in November 2024, though the project still awaits EPA Class VI permit approval, financing, and equipment sourcing.
+Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of specialty alcohols, renewable fuels and essential ingredients headquartered in Pekin, Illinois. The company signed a CO2 Transportation and Sequestration Agreement with Vault 44.01 in November 2024 to capture ~600,000 metric tons/year of biogenic CO2 from corn fermentation at its Pekin campus and store it in the Mt. Simon sandstone formation, though Illinois SB 1723 has delayed the project with first revenues potentially pushed to 2029-2030. CCS is an adjacent initiative to the company's core ethanol/specialty alcohol business.
 
 ![Alto website](/screenshots/alto.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://ir.altoingredients.com/news-events/press-releases/detail/626/alto-ingredients-inc-enters-co2-transportation-and))
 - **2026-04-19** — merged 1 duplicate(s): Alto Ingredients
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

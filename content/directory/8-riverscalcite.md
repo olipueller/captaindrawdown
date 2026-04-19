@@ -2,10 +2,10 @@
 title: "8 Rivers/Calcite"
 layout: "single"
 type: "directory"
-description: "8 Rivers Capital is a Durham, North Carolina-based decarbonization technology developer whose Calcite process is a calcium-looping direct air capture"
+description: "Calcite uses a calcium-looping (calcium sorbent) process: hydrated lime reacts with ambient air to form limestone, which is then heated in an oxygen-fired kiln to release concentrated CO2 for"
 url: "/directory/8-riverscalcite/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,14 +15,14 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://8rivers.com/" target="_blank" rel="noopener">https://8rivers.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/8-rivers-capital/" target="_blank" rel="noopener">8-rivers-capital — 10,981 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~59 (-35% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-8 Rivers Capital is a Durham, North Carolina-based decarbonization technology developer whose Calcite process is a calcium-looping direct air capture technology anchoring the DOE-funded Southeast DAC (SEDAC) Hub in Mobile County, Alabama. Project Cardinal, the first commercial Calcite deployment planned for the U.S. Gulf Coast, began FEED in 2025 backed by a September 2024 investment from JX Nippon Oil Exploration. Calcite is also a Phase I XPRIZE Carbon Removal winner and received initial Frontier pre-purchases.
+8 Rivers Capital is a Durham, North Carolina-based climate technology developer founded in 2008 and majority-owned by Korean conglomerate SK. Its Calcite calcium-looping direct air capture technology anchors the DOE-funded Southeast DAC (SEDAC) Hub in Mobile County, Alabama, with Project Cardinal — the first commercial Calcite deployment — scheduled to begin FEED in 2025 following a September 2024 investment from JX Nippon (now ENEOS Xplora). Calcite is one of four technology platforms alongside 8RH2 low-carbon hydrogen, the Allam-Fetvedt power cycle, and sour-gas processing.
 
 ![8 Rivers/Calcite website](/screenshots/8-riverscalcite.png)
 
@@ -32,6 +32,7 @@ liveliness: "🟠 Suspect"
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://8rivers.com/8-rivers-2024-year-in-review/))
 - **2026-04-19** — merged 2 duplicate(s): 8 Rivers, 8 Rivers Capital, LLC
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

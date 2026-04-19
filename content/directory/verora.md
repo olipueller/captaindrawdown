@@ -2,7 +2,7 @@
 title: "Verora"
 layout: "single"
 type: "directory"
-description: "Verora GmbH/AG is a Swiss cooperative of farmers in the Zug canton that has operated a PYREG pyrolysis facility in Neuheim since 2012, producing EBC-certified"
+description: "Pyrolyzes clean tree/shrub cuttings at 500–600°C in a PYREG pyrolysis unit to produce EBC-certified biochar for animal feed, bedding, compost, and soil amendment."
 url: "/directory/verora/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,19 +13,20 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.verora.ch/" target="_blank" rel="noopener">https://www.verora.ch/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Verora GmbH/AG is a Swiss cooperative of farmers in the Zug canton that has operated a PYREG pyrolysis facility in Neuheim since 2012, producing EBC-certified biochar (Pflanzenkohle) from tree and shrub cuttings alongside humus compost and Terra Preta products. The company won the Swiss federal Watt d'Or 2022 energy prize for its biochar pioneering work, and sells biochar with CO2 sink performance transferred in the price via multiple retail channels.
+Verora GmbH/AG is a Swiss farmers' cooperative in the Zug canton that processes green waste, tree and shrub cuttings into humus compost, Terra Preta, quality wood chips, and EBC-certified biochar via a PYREG pyrolysis plant in Neuheim running since 2012. The cooperative's primary business is agricultural green-waste valorization for its member farms; biochar with CO2 sink certificates is one of several product lines. Verora won the Swiss federal Watt d'Or 2022 for its biochar pioneering work.
 
 ![Verora website](/screenshots/verora.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.verora.ch/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.verora.ch/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://pyreg.com/tag/verora-2/))

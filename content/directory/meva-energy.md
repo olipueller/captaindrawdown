@@ -2,10 +2,10 @@
 title: "Meva Energy"
 layout: "single"
 type: "directory"
-description: "Meva Energy is a Swedish cleantech company (founded 2008, HQ Gothenburg) that builds modular biomass gasification plants converting wood and agricultural"
+description: "Entrained-flow biomass gasification of fine-fraction wood/agricultural residues producing biosyngas (primary product) plus biochar as a stable-carbon by-product usable as soil amendment or"
 url: "/directory/meva-energy/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://mevaenergy.com/" target="_blank" rel="noopener">https://mevaenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/meva-energy/" target="_blank" rel="noopener">meva-energy — 3,905 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~52 (+2% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Meva Energy is a Swedish cleantech company (founded 2008, HQ Gothenburg) that builds modular biomass gasification plants converting wood and agricultural residues into industrial-grade biosyngas for manufacturers, with biochar as a carbon-negative by-product. In October 2025 the EIB announced €40M in venture debt to scale plants for Sofidel (Sweden), IKEA (Poland), and a fossil-free copper smelter for Elcowire.
+Meva Energy is a Swedish cleantech company (founded 2008, HQ Gothenburg) that builds modular biomass gasification plants for manufacturers such as Sofidel, IKEA and Elcowire, converting wood and agricultural residues into industrial-grade biosyngas as a fossil-gas substitute, with biochar produced as a carbon-negative by-product. In October 2025 the EIB announced €40M in venture debt financing to scale up the technology across Europe. The primary business is renewable industrial gas; biochar carbon removal is an adjacent revenue stream.
 
 ![Meva Energy website](/screenshots/meva-energy.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://mevaenergy.com/technology/))
 - **2026-04-19** — merged 1 duplicate(s): Meva Energy AB
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

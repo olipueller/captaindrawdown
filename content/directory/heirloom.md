@@ -2,7 +2,7 @@
 title: "Heirloom"
 layout: "single"
 type: "directory"
-description: "Heirloom is a U.S. Direct Air Capture company using limestone-based solid sorbent technology to remove CO2 from the atmosphere. It operates North America's"
+description: "Uses calcined limestone as a solid sorbent that absorbs atmospheric CO2 in days (accelerated carbonation), then re-calcines to release concentrated CO2 for permanent geologic storage or"
 url: "/directory/heirloom/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Heirloom is a U.S. Direct Air Capture company using limestone-based solid sorbent technology to remove CO2 from the atmosphere. It operates North America's first commercial DAC facility in Tracy, California (opened late 2023), and is building two additional DAC facilities at the Port of Caddo-Bossier in Northwest Louisiana, including its contribution to the DOE-funded Project Cypress DAC Hub. Captured CO2 is stored permanently via CapturePoint's Class VI wells or mineralized in concrete via CarbonCure.
+Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid sorbents to remove CO2 from the atmosphere. It operates North America's first commercial DAC facility in Tracy, California, and is building two additional DAC facilities at the Port of Caddo-Bossier in Northwest Louisiana, the second of which is Heirloom's contribution to the DOE-funded Project Cypress DAC Hub.
 
 ![Heirloom website](/screenshots/heirloom.png)
 
@@ -34,6 +34,7 @@ Heirloom is a U.S. Direct Air Capture company using limestone-based solid sorben
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.heirloomcarbon.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.heirloomcarbon.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.heirloomcarbon.com/))

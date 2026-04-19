@@ -2,10 +2,10 @@
 title: "Jiaxing Tongao Environmental Technology"
 layout: "single"
 type: "directory"
-description: "Jiaxing Tongao Environmental Technology is a Chinese biochar producer and pyrolysis equipment manufacturer based in Zhejiang province. It operates a biochar"
+description: "Manufactures continuous biomass pyrolysis equipment and operates a Puro.earth-listed biochar production facility converting agricultural residues into stable biochar for carbon sequestration."
 url: "/directory/jiaxing-tongao-environmental-technology/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="http://www.zjtongao.com/" target="_blank" rel="noopener">http://www.zjtongao.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Jiaxing Tongao Environmental Technology is a Chinese biochar producer and pyrolysis equipment manufacturer based in Zhejiang province. It operates a biochar plant listed on the Puro.earth registry and supplies pyrolysis equipment for international biochar carbon removal projects, including an MOU signed in early 2026 with Stack Carbon and TerraCapX for Uganda's first large-scale biochar facility.
+Jiaxing Tongao Environmental Technology is a Chinese biochar producer and continuous-pyrolysis equipment manufacturer based in Zhejiang province, with a biochar plant listed as a supplier on the Puro.earth registry. In early 2026 the company signed an MOU with Stack Carbon and TerraCapX to supply 30 t/day continuous pyrolysis equipment for Uganda's first large-scale biochar carbon removal facility, its first international deployment.
 
 ![Jiaxing Tongao Environmental Technology website](/screenshots/jiaxing-tongao-environmental-technology.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/jiaxing-tongao-biochar-plant-157))

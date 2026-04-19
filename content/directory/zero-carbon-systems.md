@@ -2,7 +2,7 @@
 title: "Zero Carbon Systems"
 layout: "single"
 type: "directory"
-description: "Zero Carbon Systems is a US-based direct air capture company that acquired pioneer Global Thermostat in May 2024, combining Global Thermostat's solid-sorbent"
+description: "Solid-sorbent direct air capture using Global Thermostat's monolith contactor with low-temperature vacuum adsorption, paired with Zero Carbon Systems' continuous-process large-scale engineering"
 url: "/directory/zero-carbon-systems/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.zerocarbonsystems.com/" target="_blank" rel="noopener">https://www.zerocarbonsystems.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zero-carbon-systems/" target="_blank" rel="noopener">zero-carbon-systems</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~56 (-10% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Zero Carbon Systems is a US-based direct air capture company that acquired pioneer Global Thermostat in May 2024, combining Global Thermostat's solid-sorbent DAC technology with Zero Carbon Systems' engineering design for large-scale units. The company has articulated a roadmap from a 2,500-ton/year demonstration plant in 2025-2026 to a 50,000-ton commercial plant and a million-ton-scale plant by 2030, and its subsidiary Global Thermostat was selected as technology provider for two DOE CDR Purchase Pilot Prize Phase 1 awards.
+Zero Carbon Systems is a US-based direct air capture company that acquired Global Thermostat in May 2024, combining Global Thermostat's solid-sorbent DAC core technology with Zero Carbon Systems' engineering design. The company plans to own and operate a 2,500-ton per year demonstration plant in 2025-2026, a 50,000-ton commercial plant two years later, and a million-ton scale plant by around 2030. The firm is funded primarily by founder David Elenowitz's investment vehicle Zero Carbon Partners.
 
 ![Zero Carbon Systems website](/screenshots/zero-carbon-systems.png)
 
@@ -33,6 +33,7 @@ Zero Carbon Systems is a US-based direct air capture company that acquired pione
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.zerocarbonsystems.com/news))
 - **2026-04-19** — merged 1 duplicate(s): Global Thermostat
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://www.prnewswire.com/news-releases/zero-carbon-systems-acquires-global-thermostat-and-its-best-in-class-technology-to-capture-carbon-dioxide-from-the-air-302153089.html))

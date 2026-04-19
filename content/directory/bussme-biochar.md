@@ -2,10 +2,10 @@
 title: "Bussme Biochar"
 layout: "single"
 type: "directory"
-description: "Bussme Biochar AB is a Swedish biochar producer based in Svedala, Skåne, operating since 2020 as a subsidiary of family-owned Bussme Energy AB. The company"
+description: "Pyrolyzes wood chips and garden/park waste in modified solid-fuel district heating boilers (PyCCS configuration) to co-produce heat and EBC-certified biochar, selling carbon removal as CORCs on"
 url: "/directory/bussme-biochar/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,14 +14,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.bussmeenergy.se/biokol/" target="_blank" rel="noopener">https://www.bussmeenergy.se/biokol/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero — 4,479 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 45/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Bussme Biochar AB is a Swedish biochar producer based in Svedala, Skåne, operating since 2020 as a subsidiary of family-owned Bussme Energy AB. The company pyrolyzes biomass (including garden waste from Sysav's Måsalycke facility) to produce EBC-certified biochar and is listed on the Puro.earth registry (Bussme-01-Svedala project) selling CORCs. Audits have been performed annually through 2024 and the crediting period runs through August 2025.
+Bussme Biochar AB is a Swedish biochar-producing subsidiary of family-owned district heating company Bussme Energy AB, based in Svedala/Kävlinge, Skåne. The parent modified its solid-fuel boilers (from Osby Parca) to restrict oxygen and run a pyrolysis process that co-produces biochar alongside district heat at four 1-5 MW plants in southern Sweden. In 2023-2024 the parent sold the three district-heating subsidiaries (Bjäre Biovärme, Munka-Ljungby Biovärme, Svedala Fjärrvärme) to Solör Bioenergi, which sees biochar production as an exciting development; Bussme continued operating the sites through end of 2024. Carbon removal credits are sold via Puro.earth as CORCs.
 
 ![Bussme Biochar website](/screenshots/bussme-biochar.png)
 
@@ -31,6 +31,7 @@ Bussme Biochar AB is a Swedish biochar producer based in Svedala, Skåne, operat
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟠 Suspect ([source](https://www.bussmeenergy.se/biokol/))
 - **2026-04-19** — reactivated — screenshot succeeded in reshoot3
 - **2026-04-19** — deactivated — URL https://www.bussmeenergy.se/biokol/ returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://registry.puro.earth/projects/665890))

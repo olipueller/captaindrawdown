@@ -2,10 +2,10 @@
 title: "Phoenix Energy"
 layout: "single"
 type: "directory"
-description: "Phoenix Energy is a California-based developer and operator of community-scale BECCS plants that gasify forestry and agricultural waste to produce renewable"
+description: "Develops and operates community-scale biomass gasification plants that convert forestry and agricultural waste into renewable electricity, heat, and biochar, with the solid carbon sequestered as a"
 url: "/directory/phoenix-energy/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.phoenixenergy.net/" target="_blank" rel="noopener">https://www.phoenixenergy.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phoenix-energy-1/" target="_blank" rel="noopener">phoenix-energy-1 — 1,382 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~18 (-5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Phoenix Energy is a California-based developer and operator of community-scale BECCS plants that gasify forestry and agricultural waste to produce renewable electricity, heat, and biochar. Its flagship North Fork Community Power plant (2 MW) is commissioning, the 3 MW Blue Mountain Electric Company plant is under construction, and a third project at Napa Recycling & Waste Services is planned. The company partners with Carbonfuture for carbon-removal credits and targets 50 plants over the next decade.
+Phoenix Energy develops, owns, and operates community-scale Bioenergy with Carbon Capture and Storage (BECCS) plants in California, having completed the 2MW North Fork Community Power (NFCP) project in the Sierra National Forest, with construction underway on a 3MW plant (BMEC) at the Stanislaus/Eldorado National Forests intersection and a third project at Napa Recycling & Waste Services (NRWS) breaking ground in 2025. The company describes itself as the largest owner operator of community scale bioenergy and carbon removal facilities in California, with products including wildfire mitigation services, hydrogen-rich syngas for renewable energy, biochar, and carbon credits.
 
 ![Phoenix Energy website](/screenshots/phoenix-energy.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.phoenixenergy.net/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/podcast-beccs-is-the-way-forward-greg-stangl-phoenix-energy-ceo/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.phoenixenergy.net/project-sites))

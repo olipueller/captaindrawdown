@@ -2,7 +2,7 @@
 title: "Negative Emissions Platform"
 layout: "single"
 type: "directory"
-description: "The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership association (ASBL) representing the carbon dioxide removal industry before EU"
+description: "Industry association / policy advocacy body representing CDR developers, investors, and buyers before the EU and UNFCCC."
 url: "/directory/negative-emissions-platform/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

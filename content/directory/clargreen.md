@@ -2,10 +2,10 @@
 title: "Clargreen"
 layout: "single"
 type: "directory"
-description: "Clargreen Technologies is a Nigeria-based climate-smart agribusiness that converts palm kernel shells and black soldier fly frass into biochar-based organic"
+description: "Pyrolyzes palm kernel shells and black soldier fly frass into a biochar-based organic fertilizer (CO₂ Savior) sold to African smallholder farmers, with carbon credits to be issued under Verra and"
 url: "/directory/clargreen/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Nigeria</td></tr>
   <tr><th>Website</th><td><a href="https://clargreen.earth/" target="_blank" rel="noopener">https://clargreen.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clargreen-technologies/" target="_blank" rel="noopener">clargreen-technologies — 212 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Clargreen Technologies is a Nigeria-based climate-smart agribusiness that converts palm kernel shells and black soldier fly frass into biochar-based organic fertilizer (branded CO₂ Savior) sold to smallholder farmers. The company plans to monetize carbon removal via Verra and Puro.earth standards and is operating in both Nigeria and the U.S., with the founder actively engaging the CDR community through AirMiners and Founder Institute.
+Clargreen converts agricultural waste, specifically palm kernel shells, into high-carbon biochar used as part of a soil amendment product to boost crop yields, regenerate degraded soils, and earn certified carbon removal credits under global standards like Verra and Puro.earth. The founder leads initiatives under Clargreen in Nigeria and the U.S., and actively engages with the CDR community including the AirMiners network.
 
 ![Clargreen website](/screenshots/clargreen.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://clargreen.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.linkedin.com/in/tobechukwu-obi-1ab751263/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://clargreen.earth/about/))

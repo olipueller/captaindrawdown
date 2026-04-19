@@ -2,7 +2,7 @@
 title: "Giner"
 layout: "single"
 type: "directory"
-description: "Giner, Inc. is a Newton, Massachusetts electrochemical R&D firm founded in 1973, with a broad portfolio covering fuel cells, electrolyzers, batteries, medical"
+description: "Electrochemical DAC prototype: concentrated KOH absorbs atmospheric CO2 as potassium carbonate, then a hydrogen-assisted carbonate electrolyzer regenerates pure CO2 and recycles the KOH at low"
 url: "/directory/giner/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,18 +18,19 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/giner-inc/" target="_blank" rel="noopener">giner-inc — 3,528 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~50 (-26% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Giner, Inc. is a Newton, Massachusetts electrochemical R&D firm founded in 1973, with a broad portfolio covering fuel cells, electrolyzers, batteries, medical devices, and aerospace hardware. One R&D line is a DOE/ARPA-E-funded DAC prototype using a KOH air contactor paired with a hydrogen-assisted carbonate electrolyzer. DAC is a minor piece of their overall contract-research business, but they are developing removal technology directly.
+Giner, Inc. (Giner Labs) is a Newton, Massachusetts electrochemical R&D firm founded in 1973 with expertise spanning fuel cells, PEM electrolyzers, batteries, medical oxygen devices, and aerospace/defense hardware. One of its many government-funded research lines is a DAC prototype using a concentrated KOH air contactor coupled to a hydrogen-assisted carbonate electrolyzer, developed under ARPA-E/DOE programs. DAC is a small research project within a broader contract-R&D business that would continue unchanged if the CDR work stopped.
 
 ![Giner website](/screenshots/giner.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.ginerinc.com/electroco2))
 - **2026-04-19** — merged 1 duplicate(s): Giner (United States)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -2,7 +2,7 @@
 title: "crbnfix"
 layout: "single"
 type: "directory"
-description: "CRBNFIX is an India-based climate-tech company producing biochar and bio-carbon from bamboo and agri-residues via pyrolysis, with processes aligned with"
+description: "Produces biochar and bio-carbon from bamboo and agri-residues via pyrolysis, and develops MRV tooling for artisanal biochar carbon-credit projects in India."
 url: "/directory/crbnfix/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -11,23 +11,24 @@ liveliness: "🟡 Moderate"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
-  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://crbnfix.com/" target="_blank" rel="noopener">https://crbnfix.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-CRBNFIX is an India-based climate-tech company producing biochar and bio-carbon from bamboo and agri-residues via pyrolysis, with processes aligned with international carbon standards. The company helps local producers generate carbon credits from artisanal biochar through methodologies such as Verra and Gold Standard and offers MRV platforms using IoT sensors and geospatial analytics. It also develops bamboo-based products like bioinoculants, biodegradable polymers, and soil conditioners.
+CrbnFix is an India-based climate-tech company that produces biochar and bio-carbon from bamboo and agri-residues through pyrolysis, with processes aligned with international carbon standards. The company also supports local producers in generating carbon credits from artisanal biochar and offers MRV tooling. CDR is its core focus rather than an adjacent activity.
 
 ![crbnfix website](/screenshots/crbnfix.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://crbnfix.com/services/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://crbnfix.com/services/))

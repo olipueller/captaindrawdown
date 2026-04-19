@@ -2,7 +2,7 @@
 title: "Flux"
 layout: "single"
 type: "directory"
-description: "Flux is a Nairobi-based CDR supplier scaling enhanced rock weathering across Africa by spreading crushed basalt on farmland in Kenya, with expansion plans in"
+description: "Spreads crushed basalt rock powder on African farmland (Kenya, with expansion to Cameroon and Nigeria) to accelerate silicate weathering and permanently sequester CO2 while boosting maize yields."
 url: "/directory/flux/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Flux is a Nairobi-based CDR supplier scaling enhanced rock weathering across Africa by spreading crushed basalt on farmland in Kenya, with expansion plans in Nigeria and Cameroon. The company sells carbon removal credits while providing farmers free rock-powder fertilizer that has shown substantial maize yield improvements in pilot trials.
+Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basalt on farmland in Kenya while providing free rock-powder fertilizer to smallholder farmers. The company sold Africa's first ERW carbon removal credits in 2024 (540 tons pre-sold to Milkywire via the CYNK platform) and is expanding to Cameroon (205,000-hectare maize project) and Nigeria.
 
 ![Flux website](/screenshots/flux.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.fluxcarbon.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Flux Carbon
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.fluxcarbon.earth/))

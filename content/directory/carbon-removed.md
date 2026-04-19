@@ -2,7 +2,7 @@
 title: "Carbon Removed"
 layout: "single"
 type: "directory"
-description: "Carbon Removed is a B2C/B2B carbon removal marketplace operated by Climacrux GmbH, a Swiss start-up based in Kastanienbaum/Lucerne. The platform lets"
+description: "Web/API marketplace that resells CDR credits from a curated set of supplier partners to retail and developer customers."
 url: "/directory/carbon-removed/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

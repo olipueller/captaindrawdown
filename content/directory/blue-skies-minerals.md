@@ -2,10 +2,10 @@
 title: "Blue Skies Minerals"
 layout: "single"
 type: "directory"
-description: "Blue Skies Minerals is a Berlin-based startup (founded 2023) developing the Carbonated Tailings Process, which reacts CO2 with mine tailings to permanently"
+description: "Reacts captured CO2 with mine tailings plus additives to produce a cementitious carbonated mixture that permanently stores carbon while stabilizing mining waste against leaching."
 url: "/directory/blue-skies-minerals/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.blueskiesminerals.com/" target="_blank" rel="noopener">https://www.blueskiesminerals.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blueskiesminerals/" target="_blank" rel="noopener">blueskiesminerals — 993 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Blue Skies Minerals is a Berlin-based startup (founded 2023) developing the Carbonated Tailings Process, which reacts CO2 with mine tailings to permanently store carbon as carbonate minerals while stabilizing mining waste and preventing toxic metal leaching. The company is seeking investment and plans its first commercial plant by 2027, with Letters of Intent secured from several mining partners.
+Blue Skies Minerals is a Berlin-based startup developing the Carbonated Tailings Process, which reacts CO2 with mine tailings to create a cementitious mixture that stores carbon as carbonate minerals while stabilizing mining waste and preventing toxic metal leaching. The company is pre-revenue, seeking investment, has Letters of Intent from mining partners, and plans its first commercial plant by 2027.
 
 ![Blue Skies Minerals website](/screenshots/blue-skies-minerals.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟡 Moderate ([source](https://www.blueskiesminerals.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟡 Moderate ([source](https://www.blueskiesminerals.com/))

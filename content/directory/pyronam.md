@@ -2,7 +2,7 @@
 title: "Pyronam"
 layout: "single"
 type: "directory"
-description: "PyroNam is the Namibian subsidiary of German PyroCCS GmbH, producing biochar from FSC-certified encroaching bush biomass at its industrial plant in the"
+description: "Pyrolyzes FSC-certified encroacher bush biomass using PyroCCS SCB-series low-tech pyrolysis plants to produce EBC-certified biochar applied to Namibian soils as a durable carbon sink."
 url: "/directory/pyronam/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,18 +14,19 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Namibia</td></tr>
   <tr><th>Website</th><td><a href="https://pyronam.com/" target="_blank" rel="noopener">https://pyronam.com/</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-PyroNam is the Namibian subsidiary of German PyroCCS GmbH, producing biochar from FSC-certified encroaching bush biomass at its industrial plant in the Otjozondjupa region near Otjiwarongo. The company partners with atmosfair and sells EBC-certified carbon credits on the voluntary market, with plans to scale to 50 plants across Namibia by 2030.
+PyroNam is the Namibian operating subsidiary of German biochar CDR company PyroCCS GmbH, producing biochar from FSC-certified encroaching bush biomass at an industrial plant in the Otjozondjupa region near Otjiwarongo. The company partners with atmosfair, sells EBC-certified biochar carbon removal credits, and plans to scale to 50 plants across Namibia by 2030.
 
 ![Pyronam website](/screenshots/pyronam.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyronam.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyronam.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/pyroccs-and-atmosfair-join-forces-to-scale-biochar-cdr-in-namibia/))

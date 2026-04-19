@@ -2,10 +2,10 @@
 title: "Avnos"
 layout: "single"
 type: "directory"
-description: "Avnos is a Los Angeles-based Direct Air Capture company developing its proprietary Hybrid Direct Air Capture (HDAC) technology, which uses a moisture-swing"
+description: "Pure-play Direct Air Capture developer using proprietary Hybrid DAC (HDAC) moisture-swing sorbent technology that captures CO2 while co-producing clean water and eliminating external heat input."
 url: "/directory/avnos/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.avnos.com/" target="_blank" rel="noopener">https://www.avnos.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/avnos-inc/" target="_blank" rel="noopener">avnos-inc — 3,602 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
   <tr><th>Employees</th><td>~30 (-6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Avnos is a Los Angeles-based Direct Air Capture company developing its proprietary Hybrid Direct Air Capture (HDAC) technology, which uses a moisture-swing sorbent to capture CO2 while co-producing clean water and eliminating the need for external heat input. The company operates a pilot in Bakersfield, CA, an R&D center in Bridgewater, NJ (Project Brighton), and in November 2025 announced Project Cedar, a commercial-scale facility funded by Shell and Mitsubishi Corporation targeting 3,000 tCO2/year by end of 2026.
+Los Angeles-based Avnos develops Hybrid Direct Air Capture technology that produces roughly five tons of water as a co-product alongside every ton of CO2 removed, in contrast to conventional DAC systems which consume water. In November 2025 the company announced Project Cedar, a first-of-its-kind HDAC facility financed by up to $17 million from Shell US Gas and Power and Mitsubishi Corporation (Americas). Avnos is advancing projects with Shell, Mitsubishi, the U.S. Office of Naval Research, and the U.S. Department of Energy.
 
 ![Avnos website](/screenshots/avnos.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.avnos.com/news/avnos-secures-up-to-17-million-in-funding-to-build-flagship-dac-facility/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.globenewswire.com/news-release/2026/02/06/3233649/28124/en/Direct-Air-Capture-DAC-Market-Report-2025-2035-Collaborations-New-Clusters-and-Upcoming-Projects-Accelerate-Market-Expansion-Across-Key-Regions.html))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.avnos.com/news/avnos-secures-up-to-17-million-in-funding-to-build-flagship-dac-facility/))

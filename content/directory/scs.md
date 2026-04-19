@@ -2,7 +2,7 @@
 title: "SCS"
 layout: "single"
 type: "directory"
-description: "SCS GmbH is a Stuttgart-region German startup producing biochar from regional biomass (prunings, green waste, sawmill residues). After a 900 m²"
+description: "Continuous pyrolysis of regional woody biomass (prunings, green waste, sawmill residues) into EBC-certified biochar for soil, urban tree, and vineyard applications."
 url: "/directory/scs/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-SCS GmbH is a Stuttgart-region German startup producing biochar from regional biomass (prunings, green waste, sawmill residues). After a 900 m² proof-of-concept site in Stuttgart-Obertürkheim starting December 2022, it scaled to a new continuous pyrolysis plant in Leinfelden producing 400 tonnes/year of European Biochar Certificate (EBC) certified biochar in 24/7 operation, supplying applications ranging from urban trees to vineyards.
+SCS GmbH is a Stuttgart-area German startup producing biochar from regional biomass. After a proof-of-concept site in Stuttgart-Obertürkheim, it scaled to a new continuous pyrolysis plant in Leinfelden-Echterdingen running 24/7 to produce roughly 400 tonnes/year of EBC-certified biochar. Applications include soil improvement, urban trees, vineyards, and recycled stadium turf substrate.
 
 ![SCS website](/screenshots/scs.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.scs.earth/scs/en/home))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.scs.earth/scs/en/home))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.scs.earth/scs/en/home))

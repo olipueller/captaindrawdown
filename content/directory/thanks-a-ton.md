@@ -2,7 +2,7 @@
 title: "Thanks-A-Ton"
 layout: "single"
 type: "directory"
-description: "Thanks a Ton is a B2C/B2B platform that pairs custom digital greeting cards with bundled carbon dioxide removal credits sourced from vetted third-party CDR"
+description: "Consumer-facing greeting-card gifting platform that resells bundled CDR credits across multiple pathways, with supply sourced from external removal providers."
 url: "/directory/thanks-a-ton/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

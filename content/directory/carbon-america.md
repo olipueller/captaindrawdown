@@ -2,10 +2,10 @@
 title: "Carbon America"
 layout: "single"
 type: "directory"
-description: "Carbon America is a Colorado-based vertically integrated CCS developer that finances, builds, owns and operates capture and Class VI geological storage"
+description: "Vertically integrated CCS developer capturing fermentation CO2 from ethanol plants for Class VI geological storage, plus a proprietary cryogenic desublimation capture technology (FrostCC)."
 url: "/directory/carbon-america/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonamerica.com/" target="_blank" rel="noopener">https://www.carbonamerica.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonamerica/" target="_blank" rel="noopener">carbonamerica — 6,724 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~9 (-59% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbon America is a Colorado-based vertically integrated CCS developer that finances, builds, owns and operates capture and Class VI geological storage projects. Its flagship BECCS projects are at the Yuma, Sterling (Colorado) and Bridgeport (Nebraska) ethanol plants, targeting ~525,000 tCO2/year of biogenic CO2 storage. The company is also commercializing FrostCC, a proprietary cryogenic point-source capture technology that reached TRL 6 after a 1,000-hour pilot at the National Carbon Capture Center.
+Carbon America is a Colorado-based vertically integrated CCS developer that finances, builds, owns and operates capture and Class VI geological storage projects. Its flagship BECCS projects target biogenic CO2 from ethanol plants in Yuma and Sterling (Colorado) and Bridgeport (Nebraska), and the company is also developing FrostCC, a proprietary cryogenic point-source capture technology piloted at the National Carbon Capture Center. Additional work includes Project Eos, a DOE CarbonSAFE-funded commercial carbon hub in southern Colorado.
 
 ![Carbon America website](/screenshots/carbon-america.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbonamerica.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.climatory.com/company/carbon-america))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbonamerica.com/news/carbon-americas-frostcc-technology-demostrates-ultraclean-carbon-capture))

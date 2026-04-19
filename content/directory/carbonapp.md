@@ -2,7 +2,7 @@
 title: "Carbonapp"
 layout: "single"
 type: "directory"
-description: "Founded in March 2021, Carbonapp is a mission-driven company that develops low-carbon projects in France and internationally. As a recognized agent, Carbonapp"
+description: "Carbonapp operates as a mandataire (recognized agent) that develops, certifies and aggregates multi-sector carbon contribution projects (forestry, agriculture, biochar, construction) under Label"
 url: "/directory/carbonapp/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

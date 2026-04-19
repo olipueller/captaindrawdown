@@ -2,7 +2,7 @@
 title: "EGoS"
 layout: "single"
 type: "directory"
-description: "EGoS Bio GmbH (trading as Pflanzenkohle24) is a German biochar producer founded in 2002 and based in Bottrop-Kirchhellen, operating a BImSchG-permitted"
+description: "Operates a BImSchG-permitted pyrolysis plant converting biomass into biochar, feed charcoal and Terra Preta, with syngas-based CO2-negative power and heat cogeneration."
 url: "/directory/egos/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,13 +20,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-EGoS Bio GmbH (trading as Pflanzenkohle24) is a German biochar producer founded in 2002 and based in Bottrop-Kirchhellen, operating a BImSchG-permitted pyrolysis plant that produces biochar, feed charcoal, and Terra Preta for agriculture and livestock. The plant also generates CO2-negative electricity and heat from synthesis gases, reportedly absorbing around 10,000 tonnes of CO2 per year as fixed carbon. Founder Theo Houy retired in July 2025 and was succeeded by managing director Thomas Krause.
+EGoS was founded in 2002 by Theo Houy and has been based at its current site in Bottrop-Kirchhellen since 2005, trading its biochar, feed charcoal and Terra Preta products through the Pflanzenkohle24.de online shop. The BImSchG-permitted plant produces around 22,000 L/day of high-porosity biochar (500 m²/g) along with roughly 13,000 kWh of green electricity and 19,200 kWh of heat, and the company reports absorbing around 10,000 tonnes of CO2 per year as fixed carbon. Theo Houy retired in July 2025 and Thomas Krause took over as successor.
 
 ![EGoS website](/screenshots/egos.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pflanzenkohle24.de/info/Anlagentechnik.html))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pflanzenkohle24.de/info/Anlagentechnik.html))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))

@@ -2,7 +2,7 @@
 title: "Cascadia Carbon"
 layout: "single"
 type: "directory"
-description: "Cascadia Carbon is a US/Canadian public benefit corporation founded in 2019, headquartered in Portland, Oregon, with a Canadian subsidiary in Vancouver, BC. It"
+description: "Blockchain/NFT-based marketplace (\"CODEX\" / \"NFTrees\") that tokenizes individual geotagged trees in certified reforestation projects, allowing retail participation in the voluntary carbon offset"
 url: "/directory/cascadia-carbon/"
 pathway: "Afforestation"
 liveliness: "🟡 Moderate"

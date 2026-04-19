@@ -2,10 +2,10 @@
 title: "Drax"
 layout: "single"
 type: "directory"
-description: "Drax Group plc is a UK-listed energy company that launched Elimini, a wholly owned, U.S.-based subsidiary focused on the development of BECCS in North America."
+description: "Operates biomass-fueled power generation and is developing bioenergy with carbon capture and storage (BECCS) at its UK power station and via US subsidiary Elimini."
 url: "/directory/drax/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.drax.com" target="_blank" rel="noopener">https://www.drax.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/drax-power/" target="_blank" rel="noopener">drax-power — 57,910 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~2081 (-5% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Drax Group plc is a UK-listed energy company that launched Elimini, a wholly owned, U.S.-based subsidiary focused on the development of BECCS in North America. More than 20 potential BECCS sites are under review in North America, with additional projects under consideration in six more countries, and Elimini has entered into 11 carbon dioxide removal deals with eight companies. In December 2025 Drax confirmed it will cut more than half of its global CCS division, eliminating around 100 roles across its core business and Elimini, which analysts view as a signal of market recalibration amid BECCS economic headwinds.
+Drax Group plc is a UK-listed energy utility that operates the Drax Power Station in Selby, North Yorkshire, converting biomass wood pellets into electricity. Its wholly-owned U.S. subsidiary Elimini is developing BECCS projects in North America, and Drax is installing BECCS units at its UK power station. In December 2025, Drax announced cuts of around 100 CCS-related roles across the group and Elimini, citing insufficient regulatory and commercial frameworks for large-scale BECCS investment.
 
 ![Drax website](/screenshots/drax.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.drax.com/financial-news/trading-update-strong-performance-and-options-to-invest/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.drax.com/financial-news/full-year-results-for-the-twelve-months-ended-31-december-2025/))

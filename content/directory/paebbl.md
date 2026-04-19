@@ -2,7 +2,7 @@
 title: "Paebbl"
 layout: "single"
 type: "directory"
-description: "Paebbl is a Dutch-Nordic climate tech company that permanently stores captured CO₂ by mineralizing it with crushed olivine rock to produce a silicon-rich"
+description: "Paebbl accelerates natural carbon mineralization by reacting captured CO2 with crushed olivine to produce a silicon-rich magnesium carbonate powder used as a supplementary cementitious material (SCM)."
 url: "/directory/paebbl/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Paebbl is a Dutch-Nordic climate tech company that permanently stores captured CO₂ by mineralizing it with crushed olivine rock to produce a silicon-rich magnesium carbonate powder used as a supplementary cementitious material. Its continuous demo plant in Rotterdam has been operating since late March 2025, and the company is advancing design and site selection for a first-of-a-kind commercial plant targeted for 2028.
+Paebbl is a Dutch-Nordic climate-tech startup that permanently stores CO2 by mineralizing it with olivine rock, producing a powder used as a supplementary cementitious material for concrete. Its continuous demo plant in Rotterdam has been running since late March 2025, and the company is designing a first-of-a-kind commercial facility targeted for 2027.
 
 ![Paebbl website](/screenshots/paebbl.png)
 
@@ -33,6 +33,7 @@ Paebbl is a Dutch-Nordic climate tech company that permanently stores captured C
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/technology))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/news-feed/paebbl-starts-operating-its-continuous-demo-plant-a-world-first-for-co2-mineralisation))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/technology))

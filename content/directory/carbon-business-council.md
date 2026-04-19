@@ -2,7 +2,7 @@
 title: "Carbon Business Council"
 layout: "single"
 type: "directory"
-description: "The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade association representing more than 100 carbon management companies across six"
+description: "A tech-neutral CDR industry trade association providing policy advocacy, coalition building, and responsible-deployment training across all major carbon removal pathways."
 url: "/directory/carbon-business-council/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

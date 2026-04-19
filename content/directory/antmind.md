@@ -2,7 +2,7 @@
 title: "AntMind"
 layout: "single"
 type: "directory"
-description: "AntMind is a Canadian startup developing a biomass gasification platform that converts forestry wood waste into hydrogen fuel while capturing CO2 for"
+description: "Steam gasification of forestry wood waste to produce hydrogen, with CO2 captured and liquefied for geologic storage plus biochar as a solid-carbon byproduct."
 url: "/directory/antmind/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-AntMind is a Canadian startup developing a biomass gasification platform that converts forestry wood waste into hydrogen fuel while capturing CO2 for sequestration and producing biochar as a stable carbon byproduct. The company is currently designing a pilot facility to process waste from a single sawmill, targeting roughly 20 tons of hydrogen per day, and its business model spans technology licensing, modular plant construction, and on-site compute operations.
+AntMind is a Canadian startup developing a biomass gasification platform that converts forestry wood waste into hydrogen while capturing CO2 for geologic sequestration and producing biochar as a stable carbon byproduct. The company is currently designing a pilot facility to process waste from a single sawmill, targeting roughly 20 tons of hydrogen per day, with a business model spanning technology licensing, modular plant construction, and on-site compute operations.
 
 ![AntMind website](/screenshots/antmind.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.antmind.io/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.ibtimes.com/antmind-its-scalable-approach-carbon-negative-energy-forestry-waste-3788373))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.antmind.io/))

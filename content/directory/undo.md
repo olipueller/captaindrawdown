@@ -2,7 +2,7 @@
 title: "UNDO"
 layout: "single"
 type: "directory"
-description: "UNDO is a UK-based carbon removal supplier specializing in Enhanced Rock Weathering (ERW), spreading crushed basalt and wollastonite on agricultural land in"
+description: "UNDO spreads crushed basalt and wollastonite on agricultural fields to accelerate silicate weathering and generate durable CO2 removal credits, with proprietary MRV."
 url: "/directory/undo/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-UNDO is a UK-based carbon removal supplier specializing in Enhanced Rock Weathering (ERW), spreading crushed basalt and wollastonite on agricultural land in the UK and Canada (hub in Kingston, Ontario) to permanently sequester CO2. The company was named one of four global winners of the $100M XPRIZE Carbon Removal competition in April 2025, and has delivered removal credits to Microsoft, Barclays, British Airways, McLaren Racing, and Stripe.
+UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock weathering. UNDO has spread more than 313,800 tonnes of silicate rock across 398 farms, enriching 54,400 acres of agricultural land and setting up the permanent removal of roughly 69,000 tonnes of CO2, and in 2025 was named one of four global winners of the US$100 million XPRIZE Carbon Removal competition. In November 2025 UNDO signed an exclusive partnership with Verde AgriTech to scale ERW in Brazil.
 
 ![UNDO website](/screenshots/undo.png)
 
@@ -33,6 +33,7 @@ UNDO is a UK-based carbon removal supplier specializing in Enhanced Rock Weather
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2025/11/17/3188971/0/en/Verde-AgriTech-Enters-Exclusive-Carbon-Credit-Partnership-with-UNDO.html))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://un-do.com/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://un-do.com/))

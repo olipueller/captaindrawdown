@@ -2,7 +2,7 @@
 title: "Carbo Culture"
 layout: "single"
 type: "directory"
-description: "Carbo Culture's patented Carbolysis™ reactors take waste biomass and convert it into stable biochar, locking carbon safely away for centuries and generating"
+description: "Operates patented Carbolysis™ pyrolysis reactors that convert waste biomass into stable biochar for permanent carbon storage, while producing renewable heat/electricity."
 url: "/directory/carbo-culture/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbo Culture's patented Carbolysis™ reactors take waste biomass and convert it into stable biochar, locking carbon safely away for centuries and generating renewable energy in the process. The Finland/California-based company is scaling commercial biochar production, including the announced ARC Middenmeer plant at the ECW Energy site in North Holland, expected to remove more than 20,000 tonnes of CO2 annually while producing 40,000 m³ of biochar and 16 MW of sustainable energy. Carbo Culture has raised $24.9M in funding from investors like True Ventures, Wave Ventures and Lifeline Ventures.
+Carbo Culture takes waste biomass and transforms it using patented reactors, producing biochar for agricultural and construction applications, generating renewable energy, and creating carbon credits. The Finland/Netherlands-active company is building the ARC Middenmeer biochar plant at the ECW Energy site in North Holland, expected to remove more than 20,000 tonnes of CO2 annually while producing 40,000 m³ of biochar and 16 MW of sustainable energy.
 
 ![Carbo Culture website](/screenshots/carbo-culture.png)
 
@@ -32,6 +32,7 @@ Carbo Culture's patented Carbolysis™ reactors take waste biomass and convert i
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carboculture.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carboculture.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carboculture.com/))

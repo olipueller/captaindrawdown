@@ -2,7 +2,7 @@
 title: "Waterberg Carbon Co"
 layout: "single"
 type: "directory"
-description: "Waterberg Carbon Co is a South African biochar-focused CDR venture with a LinkedIn presence but no standalone website. A recent LinkedIn post announces a"
+description: "Pyrolysis of biomass into biochar for soil application and carbon removal credits, with MRV via Cula Technologies."
 url: "/directory/waterberg-carbon-co/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -13,19 +13,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>South Africa</td></tr>
   <tr><th>Website</th><td><a href="https://www.linkedin.com/company/waterberg-carbon-co/about/" target="_blank" rel="noopener">https://www.linkedin.com/company/waterberg-carbon-co/about/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Waterberg Carbon Co is a South African biochar-focused CDR venture with a LinkedIn presence but no standalone website. A recent LinkedIn post announces a partnership with Cula Technologies (a biochar MRV platform) for carbon removal, indicating they are producing or planning to produce biochar credits. Scale and operational status remain unclear.
+Waterberg Carbon Co is a small South African biochar venture that produces biochar for carbon removal credits. In October 2025 it announced a partnership with Cula Technologies, a biochar MRV platform, signaling intent to issue biochar carbon removal credits. The company has a LinkedIn presence but no standalone website; scale and operational maturity remain unclear.
 
 ![Waterberg Carbon Co website](/screenshots/waterberg-carbon-co.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.linkedin.com/posts/waterberg-carbon-co_biochar-carboncredits-carbonremoval-activity-7382402966462283776-YxmU))
 - **2026-04-19** — merged 2 duplicate(s): Salient DOC, Yggdrasil Trees
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://climatebase.org/job/56880806/chemical-engineer--direct-air-capture-dac-expert))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://efiling.energy.ca.gov/GetDocument.aspx?tn=261435&DocumentContentId=97818))

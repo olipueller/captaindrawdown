@@ -2,7 +2,7 @@
 title: "Equatic"
 layout: "single"
 type: "directory"
-description: "Equatic is a UCLA spin-out based in Los Angeles that uses a patented seawater electrolysis process to permanently store atmospheric CO2 as dissolved"
+description: "Uses seawater electrolysis to permanently store atmospheric CO2 as dissolved bicarbonate and solid calcium/magnesium carbonates, while co-producing green hydrogen."
 url: "/directory/equatic/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -11,12 +11,12 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Ocean CDR</td></tr>
-  <tr><th>Secondary pathways</th><td>DAC, Mineralization</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.equatic.tech/" target="_blank" rel="noopener">https://www.equatic.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equatic-tech/" target="_blank" rel="noopener">equatic-tech — 4,689 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+30% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Equatic is a UCLA spin-out based in Los Angeles that uses a patented seawater electrolysis process to permanently store atmospheric CO2 as dissolved bicarbonate and solid mineral carbonates, while co-producing green hydrogen. The company operates pilot plants in Los Angeles and Singapore, is building its Equatic-1 demonstration plant in Singapore, and is engineering a commercial-scale facility in Canada with Deep Sky. It closed an $11.6M Series A in August 2025 led by Temasek Trust's C3H and Kibo Invest.
+Equatic is a carbon removal company combining carbon dioxide removal and green hydrogen production, using patented seawater electrolysis and a direct air capture process to activate and amplify the ocean's ability to store carbon. The UCLA spin-out operates pilot plants in Los Angeles and Singapore and is expanding with a demonstration plant in Singapore (Equatic-1) and a commercial-scale plant in Canada.
 
 ![Equatic website](/screenshots/equatic.png)
 
@@ -34,6 +34,7 @@ Equatic is a UCLA spin-out based in Los Angeles that uses a patented seawater el
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))

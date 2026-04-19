@@ -2,7 +2,7 @@
 title: "malama labs inc"
 layout: "single"
 type: "directory"
-description: "Mālama Labs is a Hawaii-based carbon removal startup that produces biochar from agricultural waste (macadamia nut shells, albizia) and invasive species at a"
+description: "Pyrolysis of agricultural waste and invasive species into biochar in Hawaii, paired with a blockchain-based MRV and credit marketplace."
 url: "/directory/malama-labs-inc/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Mālama Labs is a Hawaii-based carbon removal startup that produces biochar from agricultural waste (macadamia nut shells, albizia) and invasive species at a Maui facility, while operating a blockchain-based digital MRV platform and marketplace for durable carbon credits. Founded in 2024, the company raised a pre-seed round in February 2025 and is pursuing its first commercial deployment with AgEnergy Hawaiʻi. It is also piloting in Prince Edward Island, Canada.
+Mālama Labs is a Hawaii-based carbon removal startup founded in 2024 that produces biochar from agricultural byproducts (macadamia nut shells, albizia) and invasive species at a Maui facility. The company also operates a blockchain-based digital MRV and carbon marketplace platform, and raised a pre-seed round in February 2025.
 
 ![malama labs inc website](/screenshots/malama-labs-inc.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.malamalabs.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.malamalabs.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://malamaproject.org ([source](https://www.cdr.fyi/supplier/malama-labs))

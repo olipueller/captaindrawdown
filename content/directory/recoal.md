@@ -2,7 +2,7 @@
 title: "Recoal"
 layout: "single"
 type: "directory"
-description: "Recoal AG is a Zurich-based CDR startup founded in 2023 that uses hydrothermal carbonization (HTC) to convert wet-waste biomass into hydrochar, a coal-like"
+description: "Uses hydrothermal carbonization (HTC) to convert wet-waste biomass into hydrochar, which is then stored in underground geological formations for durable carbon removal."
 url: "/directory/recoal/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Recoal AG is a Zurich-based CDR startup founded in 2023 that uses hydrothermal carbonization (HTC) to convert wet-waste biomass into hydrochar, a coal-like stable carbon product that is then stored in underground geological formations (e.g. gravel pits) for durable carbon removal. The company's methodology was validated by the Rainbow Standard (formerly Riverse) carbon registry following an independent audit by Enviance under ISO standards. Recoal is preparing to launch its pilot plant in 2026, backed by the Migros Pioneer Fund and the City of Zurich's KlimUp program.
+Recoal AG is a Zurich-based CDR startup founded in 2023 that converts wet-waste biomass into hydrochar via hydrothermal carbonization (HTC) and stores the resulting carbon-rich material in underground geological formations in Switzerland for permanent sequestration. Its methodology was validated under the Rainbow Standard (formerly Riverse) in 2025, and it is planning a pilot plant for 2026 with support from the Migros Pioneer Fund and the City of Zurich's KlimUp program.
 
 ![Recoal website](/screenshots/recoal.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://recoal.net/en/recoal-rainbow-standard/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://recoal.net/en/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://recoal.net/en/))

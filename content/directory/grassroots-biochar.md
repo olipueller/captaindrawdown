@@ -2,10 +2,10 @@
 title: "Grassroots Biochar"
 layout: "single"
 type: "directory"
-description: "Grassroots Biochar AB is a small Swedish biochar producer based on Öland/Kalmar that makes and refines biochar products for agricultural, horticultural and"
+description: "Kon-Tiki flame-curtain pyrolysis of biomass producing EBC-certified biochar for Swedish agriculture, horticulture, and soil management."
 url: "/directory/grassroots-biochar/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://grassrootsbiochar.nu/" target="_blank" rel="noopener">https://grassrootsbiochar.nu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grassroots-biochar-ab/" target="_blank" rel="noopener">grassroots-biochar-ab — 30 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Grassroots Biochar AB is a small Swedish biochar producer based on Öland/Kalmar that makes and refines biochar products for agricultural, horticultural and soil-management uses. The company uses the Kon-Tiki method and focuses on the Swedish agricultural and gardening market, without listed carbon-sink registry certifications.
+Grassroots Biochar AB is a small Swedish biochar producer based on Öland/Kalmar that makes and refines biochar products for agricultural, horticultural and soil-management uses. The company is a production company of biochar-based products located in Kalmar, Sweden, using the Kon-Tiki burning method, focused on the agricultural sector. Their products are reported to be EBC certified.
 
 ![Grassroots Biochar website](/screenshots/grassroots-biochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://grassrootsbiochar.nu/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://grassrootsbiochar.nu/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://grassrootsbiochar.nu/))

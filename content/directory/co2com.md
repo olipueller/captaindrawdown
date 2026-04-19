@@ -2,7 +2,7 @@
 title: "CO2.com"
 layout: "single"
 type: "directory"
-description: "CO2.com is a curated climate portfolio provider that packages and sells carbon credit portfolios to corporate buyers. It was an inaugural partner in"
+description: "Broker/curator of carbon credit portfolios for corporate net-zero buyers, sold via partners like Salesforce's Net Zero Marketplace."
 url: "/directory/co2com/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

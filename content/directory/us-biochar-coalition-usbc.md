@@ -2,7 +2,7 @@
 title: "US Biochar Coalition (USBC)"
 layout: "single"
 type: "directory"
-description: "The U.S. Biochar Coalition (USBC) is a Washington, DC-based industry trade association founded in May 2023 that advocates for legislative, policy, and"
+description: "Industry trade association advocating for federal policy, regulation, and market development for the U.S. biochar sector."
 url: "/directory/us-biochar-coalition-usbc/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

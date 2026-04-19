@@ -2,7 +2,7 @@
 title: "Taking Root"
 layout: "single"
 type: "directory"
-description: "Taking Root is a Canadian reforestation project developer that partners with smallholder farmers, primarily through its CommuniTree Carbon Program in Nicaragua"
+description: "Reforestation project developer working with smallholder farmers in Nicaragua, using a mobile/web platform combining ground data, satellite imagery and ML for MRV, with Plan Vivo-certified carbon"
 url: "/directory/taking-root/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -11,12 +11,12 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Afforestation</td></tr>
-  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
   <tr><th>Method</th><td>Afforestation/Reforestation</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://takingroot.com/" target="_blank" rel="noopener">https://takingroot.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/takingroot/" target="_blank" rel="noopener">takingroot — 5,542 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~26 (-35% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Taking Root is a Canadian reforestation project developer that partners with smallholder farmers, primarily through its CommuniTree Carbon Program in Nicaragua (co-founded with local implementer APRODEIN/BOSNICA), certified under Plan Vivo. It provides a technology platform (mobile app + web platform combining ground data, satellite imagery and machine learning) to design, manage, monitor and verify forest carbon removals, and sells the resulting credits to corporate buyers.
+Taking Root co-founded the CommuniTree Carbon Program with local NGO BOSNICA in 2010; it is a Plan Vivo-certified reforestation program that works with smallholder farmers in Nicaragua and has grown into the largest reforestation initiative in the country. The company has developed a management platform with a mobile app for field data collection and a web platform for program reporting to deliver high-integrity carbon removals. It has also launched biochar trials with partner PRIMAKLIMA, applying biochar in the CommuniTree program to improve soil health and store additional carbon.
 
 ![Taking Root website](/screenshots/taking-root.png)
 
@@ -34,6 +34,7 @@ Taking Root is a Canadian reforestation project developer that partners with sma
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://takingroot.com/project/communitree/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://takingroot.com/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://takingroot.com/))

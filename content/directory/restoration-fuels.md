@@ -2,7 +2,7 @@
 title: "Restoration Fuels"
 layout: "single"
 type: "directory"
-description: "Restoration Fuels was a commercial-scale torrefaction and biochar facility in John Day, Oregon, operated as a wholly-owned subsidiary of the U.S. Endowment for"
+description: "Operated a torrefaction/pyrolysis plant converting small-diameter forest thinnings and waste wood into torrefied pellets and biochar, with Puro.earth-registered carbon removal credits from biochar"
 url: "/directory/restoration-fuels/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
@@ -21,7 +21,7 @@ liveliness: "🔴 Likely Dead"
 
 ## About
 
-Restoration Fuels was a commercial-scale torrefaction and biochar facility in John Day, Oregon, operated as a wholly-owned subsidiary of the U.S. Endowment for Forestry and Communities. The plant closed permanently on July 15, 2024, laying off 11 employees after the endowment's board decided ongoing sole ownership of a manufacturing subsidiary was outside its core mission. The company is defunct.
+Restoration Fuels was a commercial-scale torrefaction and biochar facility in John Day, Oregon, operated as a wholly-owned subsidiary of the U.S. Endowment for Forestry and Communities. The plant closed permanently on July 15, 2024, laying off 11 employees after the endowment decided ongoing sole ownership of a manufacturing subsidiary was outside its mission and no private investors stepped in to take it over. The company is defunct.
 
 ![Restoration Fuels website](/screenshots/restoration-fuels.png)
 
@@ -31,6 +31,7 @@ Restoration Fuels was a commercial-scale torrefaction and biochar facility in Jo
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🔴 Likely Dead ([source](https://bluemountaineagle.com/2024/07/31/restoration-fuels-shutters-john-day-torrefaction-plant/))
 - **2026-04-19** — merged 1 duplicate(s): Restoration Fuels, LLC
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate

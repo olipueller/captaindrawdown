@@ -2,7 +2,7 @@
 title: "Deep Sky"
 layout: "single"
 type: "directory"
-description: "Deep Sky is a Montreal-based, tech-agnostic carbon removal project developer that builds and operates DAC-to-storage infrastructure in Canada, aggregating"
+description: "Tech-agnostic DAC-to-storage project developer aggregating multiple third-party DAC units at hub sites and injecting captured CO2 into geological storage in Alberta."
 url: "/directory/deep-sky/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Deep Sky is a Montreal-based, tech-agnostic carbon removal project developer that builds and operates DAC-to-storage infrastructure in Canada, aggregating third-party DAC units at its sites. Its flagship Deep Sky Alpha facility in Innisfail, Alberta began operations in August 2025 as North America's first DAC-to-underground-storage site, with partnerships including Skyrenu, GE Vernova, DACMA, Carbyon, Greenlyte, and others.
+Deep Sky is a Montreal-based tech-agnostic carbon removal project developer that builds and operates DAC-to-storage infrastructure in Canada. Its flagship Deep Sky Alpha facility in Innisfail, Alberta began operations in August 2025, marking North America's first permanent underground sequestration of CO2 captured directly from the air, hosting multiple third-party DAC units including Skyrenu, Airhive, Mission Zero, DACMA, and GE Vernova.
 
 ![Deep Sky website](/screenshots/deep-sky.png)
 
@@ -34,6 +34,7 @@ Deep Sky is a Montreal-based, tech-agnostic carbon removal project developer tha
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.deepskyclimate.com/blog/history-made-deep-sky-alpha-begins-operations-with-north-americas-first-co2-storage-via-direct-air-capture-2))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.deepskyclimate.com/blog/history-made-deep-sky-alpha-begins-operations-with-north-americas-first-co2-storage-via-direct-air-capture-2))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.deepskyclimate.com/blog/history-made-deep-sky-alpha-begins-operations-with-north-americas-first-co2-storage-via-direct-air-capture-2))

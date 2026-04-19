@@ -2,7 +2,7 @@
 title: "Carbofex Oy"
 layout: "single"
 type: "directory"
-description: "Carbofex Oy is a Finnish biochar producer headquartered in Nokia, operating a continuous pyrolysis plant that converts PEFC-certified spruce thinnings into"
+description: "Continuous pyrolysis of PEFC-certified spruce wood chips at ~600°C producing biochar, pyrolysis oil, and district heat, with CORCs issued via Puro.earth."
 url: "/directory/carbofex-oy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,14 +14,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://carbofex.fi/" target="_blank" rel="noopener">https://carbofex.fi/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbofex/" target="_blank" rel="noopener">carbofex — 2,799 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~14 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbofex Oy is a Finnish biochar producer headquartered in Nokia, operating a continuous pyrolysis plant that converts PEFC-certified spruce thinnings into high-carbon-content biochar while supplying renewable heat to the local district system. The company issues CO2 Removal Certificates (CORCs) through Puro.earth — it was the first registered commercial CORC trader on the marketplace in 2019 — and has signed multi-year forward offtake deals including one with Shopify. It was also an XPRIZE Carbon Removal Top 60 finalist.
+Carbofex Oy is a Finnish biochar producer based in Nokia that operates a continuous pyrolysis plant converting PEFC-certified spruce wood chips into high-carbon biochar while generating renewable heat for district energy. The company was the first registered commercial CORC trader on Puro.earth in 2019 and supplies biochar for agriculture, soil amendment, and water filtration globally.
 
 ![Carbofex Oy website](/screenshots/carbofex-oy.png)
 
@@ -31,6 +31,7 @@ Carbofex Oy is a Finnish biochar producer headquartered in Nokia, operating a co
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbofex.fi/))
 - **2026-04-19** — merged 1 duplicate(s): Carbofex
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbofex.fi/))

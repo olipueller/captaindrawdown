@@ -2,7 +2,7 @@
 title: "GreenGlow"
 layout: "single"
 type: "directory"
-description: "GreenGlow is a Malaysia-based biochar producer operating carbon hubs across Southeast Asia that convert agricultural waste and forestry residues into biochar"
+description: "Slow pyrolysis of Southeast Asian agricultural waste and forestry residues (e.g. palm oil byproducts, crop residues) into stable biochar for soil application, generating Puro.earth CORCs."
 url: "/directory/greenglow/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-GreenGlow is a Malaysia-based biochar producer operating carbon hubs across Southeast Asia that convert agricultural waste and forestry residues into biochar via pyrolysis. In September 2025 the company signed a 50,000+ ton CORC offtake agreement with Swiss CDR financier Altitude, with credits verified through the Puro.earth registry.
+GreenGlow is a Malaysia-based biochar project developer operating carbon hubs across Southeast Asia that convert agricultural waste and forestry residues into biochar via advanced pyrolysis. In August 2025 the company signed its first offtake agreement with Swiss CDR financier Altitude for 50,000+ tons of CORCs, with credits verified through the Puro.earth registry. The Malaysian entity Green Glow P1 Sdn Bhd operates biochar production facilities with FGV laboratory-tested output.
 
 ![GreenGlow website](/screenshots/greenglow.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.altitudecarbon.com/news/corcs-greenglow))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.altitudecarbon.com/news/corcs-greenglow))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.altitudecarbon.com/news/corcs-greenglow))

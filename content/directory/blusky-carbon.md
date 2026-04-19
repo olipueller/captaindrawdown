@@ -2,7 +2,7 @@
 title: "BluSky Carbon"
 layout: "single"
 type: "directory"
-description: "BluSky Carbon (CSE: BSKY / OTCQB: BSKCF) is a Vancouver, BC–based publicly-listed carbon removal company that converts organic waste into biochar via its"
+description: "Designs and operates Vulcan biomass pyrolysis systems to produce biochar (with bio-oil and syngas co-products), and markets complementary MEDUSA mineralization and Kronos DAC concepts."
 url: "/directory/blusky-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://bluskycarbon.com/" target="_blank" rel="noopener">https://bluskycarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blu-sky-creative/" target="_blank" rel="noopener">blu-sky-creative — 249 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~85 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-BluSky Carbon (CSE: BSKY / OTCQB: BSKCF) is a Vancouver, BC–based publicly-listed carbon removal company that converts organic waste into biochar via its Vulcan Heavy biomass pyrolysis systems. Its flagship AR1 facility in Warren, Arkansas began production in late 2024 to service a $105M, 10-year, 382,213-tonne biochar offtake agreement, and the company has signed additional LOIs for an AR2 project and international JVs in Namibia, Tanzania, and Florida. Secondary activities include carbon mineralization (Medusa) and DAC (Kronos) technology development.
+BluSky Carbon Inc. (CSE: BSKY / OTCQB: BSKCF) is a Vancouver, BC–based publicly-listed carbon removal company that converts organic waste into biochar using its Vulcan Heavy pyrolysis systems. Its flagship AR1 facility in Warren, Arkansas began production in late 2024 to service a US$105M, 10-year, 382,213-tonne biochar offtake agreement, and the company announced a Carbonpave partnership in September 2025 to co-develop biochar-based asphalt at AR1.
 
 ![BluSky Carbon website](/screenshots/blusky-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bluskycarbon.com/category/corporate-news/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bluskycarbon.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://bluskycarbon.com/ ([source](https://www.cdr.fyi/supplier/blusky-carbon))

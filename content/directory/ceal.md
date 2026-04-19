@@ -2,7 +2,7 @@
 title: "Ceal"
 layout: "single"
 type: "directory"
-description: "Ceal was founded in April 2024 after receiving a grant under Israel's \"Blue Economy\" Program, which required creation of a company with financial/operational"
+description: "Electrochemical cell installed on seawater-cooled power plants that applies a gentle current to crystallize dissolved calcium and carbon as calcium carbonate (PCC), simultaneously preventing scale"
 url: "/directory/ceal/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Ceal was founded in April 2024 after receiving a grant under Israel's "Blue Economy" Program, which required creation of a company with financial/operational infrastructure and a defined business model. Its technology is built on an electrochemical mineralization process that applies a gentle electric current to seawater to crystallize dissolved calcium and carbon as calcium carbonate, yielding precipitated calcium carbonate (PCC) used in paints, plastics, paper, pharmaceuticals and food. The company's roadmap begins with a pilot project with the Israel Electric Corporation, followed by expanded serial production for smaller industrial facilities.
+Ceal (Ceal Minerals) is an Israeli climate-tech startup founded in April 2024, spun out of Dr. Charlotte Vogt's lab at the Technion under Israel's Blue Economy program. Its electrochemical mineralization process treats seawater running through power-plant cooling intakes to precipitate calcium carbonate, producing a salable PCC byproduct while sequestering CO2. First pilot began operating in December 2024 at the National Institute of Oceanography in Haifa, with a planned deployment at Israel Electric Corporation's Orot Rabin power station.
 
 ![Ceal website](/screenshots/ceal.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://ceal.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Ceal Minerals Ltd.
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://ceal.earth/))

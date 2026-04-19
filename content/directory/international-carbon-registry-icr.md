@@ -2,7 +2,7 @@
 title: "International Carbon Registry (ICR)"
 layout: "single"
 type: "directory"
-description: "International Carbon Registry (ICR) is an Iceland-based ISO-aligned GHG program and carbon credit registry platform that registers climate projects and issues,"
+description: "ISO 14064-2-aligned carbon crediting program and digital registry platform for issuing, tracking, and retiring carbon credits (ICCs), with blockchain-based serialization."
 url: "/directory/international-carbon-registry-icr/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

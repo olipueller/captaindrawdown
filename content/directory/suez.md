@@ -2,7 +2,7 @@
 title: "SUEZ"
 layout: "single"
 type: "directory"
-description: "SUEZ is a French waste and water utility whose UK arm is developing BECCS retrofits on its Teesside energy-from-waste facilities at Haverton Hill and Wilton,"
+description: "Solvent-based post-combustion CO2 capture retrofits on energy-from-waste flue gas (UK Teesside, targeting North Sea storage via East Coast Cluster) plus biogenic CO2 recovery from anaerobic digestion"
 url: "/directory/suez/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.suez.com/en" target="_blank" rel="noopener">https://www.suez.com/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/suez/" target="_blank" rel="noopener">suez — 898,889 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~26066 (+3% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-SUEZ is a French waste and water utility whose UK arm is developing BECCS retrofits on its Teesside energy-from-waste facilities at Haverton Hill and Wilton, with Pre-FEED contractors Fluor and Technip Energies, targeting operations by 2027 with permanent CO2 storage in the North Sea via the East Coast Cluster pipeline. SUEZ also inaugurated a 3,500 t/yr biogenic CO2 capture unit at its Terres d'Aquitaine anaerobic digestion site in Gironde, France in June 2025, though that stream is used in greenhouses (CCU, not permanent storage). The company has additional EfW carbon-capture projects in development including Severnside (Bristol) within the 7CO2 cluster.
+SUEZ is a large French waste and water utility (~26,000 employees) developing carbon capture as an adjunct to its existing energy-from-waste and anaerobic digestion operations. Its UK arm is pursuing BECCS retrofits at Teesside energy-from-waste plants (Haverton Hill and Wilton), with Pre-FEED completed by Fluor and Technip Energies and CO2 destined for permanent storage via the East Coast Cluster, pending government funding. SUEZ also inaugurated a 3,500 t/yr biogenic CO2 recovery unit at Terres d'Aquitaine in Gironde in 2025, though that output is used in greenhouses (CCU rather than durable CDR).
 
 ![SUEZ website](/screenshots/suez.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.suez.com/en/news/press-releases/inauguration-biogenic-co2-unit-terres-aquitaine-gironde-suez-biowaste-recovery))
 - **2026-04-19** — merged 2 duplicate(s): Biochar: a scalable carbon sink solution, SUEZ International
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=review_needed liveliness=🟢 Active ([source](https://www.suez.com/en/group/innovation/innovating-reduce-carbon-footprint))

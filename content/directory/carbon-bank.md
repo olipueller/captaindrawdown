@@ -2,10 +2,10 @@
 title: "Carbon Bank"
 layout: "single"
 type: "directory"
-description: "Carbon Bank is a UK-based CDR project developer and a division of the Green Britain Group (sister company to Ecotricity), headquartered in Stroud,"
+description: "Develops enhanced rock weathering projects spreading basalt dust on UK farmland (Northumberland), verified under the Isometric Standard, alongside nature-based afforestation projects using the"
 url: "/directory/carbon-bank/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,19 +15,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonbank.co.uk/" target="_blank" rel="noopener">https://www.carbonbank.co.uk/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
 ## About
 
-Carbon Bank is a UK-based CDR project developer and a division of the Green Britain Group (sister company to Ecotricity), headquartered in Stroud, Gloucestershire. They operate an enhanced rock weathering project in Northumberland using basalt from Breedon quarries spread on local farmland, verified under the Isometric Standard, and are developing afforestation/nature recovery projects aligned with the Woodland Carbon Code and BSI Flex 701.
+Carbon Bank is a UK CDR project developer based in Stroud, Gloucestershire and part of the Green Britain Group (sister to Ecotricity and Forest Green Rovers, led by Dale Vince OBE). It operates an enhanced rock weathering project in Northumberland using local basalt quarry material spread on farmland, and is developing UK afforestation/nature-recovery projects. The company sells high-quality carbon credits and explicitly will not sell to heavy polluting industries.
 
 ![Carbon Bank website](/screenshots/carbon-bank.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=division liveliness=🟢 Active ([source](https://www.carbonbank.co.uk/about-us/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carbonbank.co.uk/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=division liveliness=🟢 Active ([source](https://www.carbonbank.co.uk/what-we-do/))

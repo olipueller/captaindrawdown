@@ -2,10 +2,10 @@
 title: "Leilac/Calix"
 layout: "single"
 type: "directory"
-description: "Leilac is a 93%-owned subsidiary of ASX-listed Calix Limited that develops indirectly heated electric calcination technology, originally for decarbonising"
+description: "Indirectly heated electric calciner that separates pure CO2 from limestone; licensed exclusively to Heirloom for limestone-looping DAC, while the core business is process-emission capture for cement"
 url: "/directory/leilaccalix/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.leilac.com/" target="_blank" rel="noopener">https://www.leilac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/leilac/" target="_blank" rel="noopener">leilac — 2,801 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~32 (-40% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Leilac is a 93%-owned subsidiary of ASX-listed Calix Limited that develops indirectly heated electric calcination technology, originally for decarbonising cement and lime production. Its CDR relevance comes from a perpetual, exclusive global licence with Heirloom, whose limestone-based Direct Air Capture facilities (including a ~17,000 tpa Shreveport plant slated for 2026 and Heirloom's contribution to the 300,000 tpa Project Cypress DAC Hub) deploy Leilac's electric kilns to separate CO2 from carbonated lime. Leilac/Calix also recently received a Frontier zero-carbon lime grant (January 2026).
+Leilac is a 93%-owned subsidiary of ASX-listed Calix Limited that develops indirectly heated electric calcination technology primarily for decarbonising cement and lime production. Its CDR relevance derives from a perpetual, exclusive global licence with Heirloom, which uses Leilac's electric kiln to separate CO2 from limestone in its DAC process — including the ~17,000 tpa Shreveport facility targeted for 2026 and a follow-on ~300,000 tpa plant. Cement/lime decarbonisation remains Leilac's core business; DAC royalties are an adjacent revenue stream.
 
 ![Leilac/Calix website](/screenshots/leilaccalix.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.leilac.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.calix.com/careers.html))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.leilac.com/))

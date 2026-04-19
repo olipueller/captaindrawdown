@@ -2,7 +2,7 @@
 title: "Sinkit"
 layout: "single"
 type: "directory"
-description: "Sinkit is a Dutch cooperative carbon-removal platform that curates, rates (via its proprietary SCORE methodology), and sells carbon removal credits to"
+description: "A cooperative marketplace/project-accelerator that curates, rates (SCORE methodology), and sells carbon removal credits, and co-invests in partner projects such as biochar retort kilns."
 url: "/directory/sinkit/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

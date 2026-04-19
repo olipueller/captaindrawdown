@@ -2,7 +2,7 @@
 title: "CDRjobs"
 layout: "single"
 type: "directory"
-description: "CDRjobs is a dedicated jobs board and industry-insights platform for the carbon dioxide removal sector, launched in May 2024. It aggregates CDR job listings,"
+description: "Job board and talent/industry-data platform focused exclusively on the carbon dioxide removal sector; not a removal supplier."
 url: "/directory/cdrjobs/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

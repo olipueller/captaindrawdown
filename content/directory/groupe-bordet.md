@@ -2,7 +2,7 @@
 title: "Groupe Bordet"
 layout: "single"
 type: "directory"
-description: "Groupe Bordet is a French industrial group based in Leuglay (Burgundy) that has transformed wood into charcoal since 1860 using its patented Carboépuré®"
+description: "Continuous closed-loop pyrolysis of local sawmill wood residues (within 100km) into biochar, bio-oils, and activated carbon, with pyrolysis gases recycled to self-power the process."
 url: "/directory/groupe-bordet/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -17,12 +17,12 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groupe-bordet/" target="_blank" rel="noopener">groupe-bordet — 977 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+38% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Groupe Bordet is a French industrial group based in Leuglay (Burgundy) that has transformed wood into charcoal since 1860 using its patented Carboépuré® continuous pyrolysis process, and is expanding into biochar and bio-oils. Its biochar production is Puro.earth-certified (via partner Carbonapp), and the group is investing over €30M — with €14.1M backing from Bpifrance — in a new plant in Decize (Nièvre) expected online in H1 2027, targeting 15,000 t/yr of biochar and 5,000–6,000 t/yr of bio-oils, plus partnerships such as with Holcim (biochar in low-carbon concrete) and SUEZ/CNRS (activated carbon for water treatment).
+Groupe Bordet is a French industrial group based in Leuglay (Burgundy) that has produced wood charcoal since 1860 using its patented Carboépuré® continuous pyrolysis process, serving charcoal markets including food, BBQ, aluminum smelting and activated carbon. It has expanded into Puro.earth-certified biochar (via partner Carbonapp) and bio-oils, and is investing over €30M — with €14.1M support from Bpifrance — in a new plant at Decize targeting 15,000 t/year of biochar plus bio-oils by 2027.
 
 ![Groupe Bordet website](/screenshots/groupe-bordet.png)
 
@@ -32,6 +32,7 @@ Groupe Bordet is a French industrial group based in Leuglay (Burgundy) that has 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))

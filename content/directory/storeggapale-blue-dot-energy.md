@@ -2,7 +2,7 @@
 title: "Storegga/Pale Blue Dot Energy"
 layout: "single"
 type: "directory"
-description: "Storegga is a UK-based independent decarbonisation developer (parent of Pale Blue Dot Energy) that partnered with Carbon Engineering on a planned 0.5–1 Mt/yr"
+description: "Independent UK decarbonisation developer leading the Acorn CCS and hydrogen project at St Fergus and previously partnered with Carbon Engineering on a planned 0.5–1 Mt/yr DAC facility in north-east"
 url: "/directory/storeggapale-blue-dot-energy/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
@@ -11,25 +11,26 @@ liveliness: "🟠 Suspect"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>DAC</td></tr>
-  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://storegga.earth/" target="_blank" rel="noopener">https://storegga.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/storegga-geotechnologies/" target="_blank" rel="noopener">storegga-geotechnologies — 10,141 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
   <tr><th>Employees</th><td>~67 (-39% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Storegga is a UK-based independent decarbonisation developer (parent of Pale Blue Dot Energy) that partnered with Carbon Engineering on a planned 0.5–1 Mt/yr DAC facility in north-east Scotland and led the Acorn CCS and hydrogen project at St Fergus. In December 2025 Storegga announced a structured sales process for its portfolio of assets, including the sale of its 30% stake in Acorn, after a strategic review concluded a new long-term owner was needed for the capital-intensive next phase. Reports in January 2026 also indicate Storegga is set to discontinue its Speyside green hydrogen project, signalling a broader wind-down of its development portfolio.
+Storegga (holding company of Pale Blue Dot Energy) is a UK-based independent developer of carbon capture, storage and hydrogen projects, best known as lead developer of the Acorn CCS project in Aberdeenshire and a DAC partnership with Carbon Engineering. In December 2025 Storegga announced a structured sales process for its portfolio of assets, including its 30% stake in Acorn, after a strategic review concluded a new long-term owner was better placed to advance the capital-intensive project.
 
 ![Storegga/Pale Blue Dot Energy website](/screenshots/storeggapale-blue-dot-energy.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://carbonherald.com/storegga-to-pull-out-of-acorn-carbon-capture-project/))
 - **2026-04-19** — merged 1 duplicate(s): Storegga
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -2,10 +2,10 @@
 title: "Robinson Lumber"
 layout: "single"
 type: "directory"
-description: "Robinson Lumber Company is a 132-year-old, fifth-generation family-owned wholesale wood products business headquartered in New Orleans, Louisiana, with roughly"
+description: "Pyrolyzes waste wood from its lumber milling/processing operations into biochar for voluntary carbon market credits."
 url: "/directory/robinson-lumber/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.roblumco.com/" target="_blank" rel="noopener">https://www.roblumco.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/robinson-lumber-company-inc-/" target="_blank" rel="noopener">robinson-lumber-company-inc- — 2,069 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~60 (-5% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Robinson Lumber Company is a 132-year-old, fifth-generation family-owned wholesale wood products business headquartered in New Orleans, Louisiana, with roughly 100 employees and customers in over 70 countries. In 2025 the company launched a biochar initiative that converts waste wood from its lumber operations into biochar, with the intent to sell carbon credits on the voluntary market. The biochar effort is a secondary business line alongside the core lumber wholesaling and manufacturing operations.
+Robinson Lumber Company is a 132-year-old, fifth-generation family-owned wholesale wood products business headquartered in New Orleans, Louisiana, with approximately 100 employees and customers in 70+ countries. The company's core business is international hardwood and softwood lumber wholesale, manufacturing and distribution (roughly $100M annual revenue), and in 2025 it launched a biochar initiative converting waste wood from its lumber operations into biochar with the intent to sell carbon credits on the voluntary market.
 
 ![Robinson Lumber website](/screenshots/robinson-lumber.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.nola.com/news/business/innovation/this-south-louisiana-family-owned-business-is-going-strong-after-132-years/article_a4757320-2615-4b9b-a845-c432ec0b2f69.html))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nola.com/news/business/innovation/this-south-louisiana-family-owned-business-is-going-strong-after-132-years/article_a4757320-2615-4b9b-a845-c432ec0b2f69.html))

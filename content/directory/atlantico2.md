@@ -2,7 +2,7 @@
 title: "AtlantiCO2"
 layout: "single"
 type: "directory"
-description: "AtlantiCO2 is a Brazilian carbon removal company that has developed its own pyrolysis technology to produce biochar for the agricultural sector. The company"
+description: "In-house pyrolysis technology converting biomass into biochar for agricultural soil application in Brazil."
 url: "/directory/atlantico2/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://atlantico2.com/" target="_blank" rel="noopener">https://atlantico2.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atlantico2/" target="_blank" rel="noopener">atlantico2 — 73 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-AtlantiCO2 is a Brazilian carbon removal company that has developed its own pyrolysis technology to produce biochar for the agricultural sector. The company stores carbon in soil by converting biomass into stable biochar, aiming to decarbonise Brazil's agriculture industry at industrial scale.
+AtlantiCO2 is a Brazilian carbon removal startup that has built in-house pyrolysis technology to produce biochar for the agricultural sector. The company aims to store carbon in soil at industrial scale by converting biomass into stable biochar, targeting Brazil's agriculture industry.
 
 ![AtlantiCO2 website](/screenshots/atlantico2.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.atlantico2.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.atlantico2.com/))
 - **2026-04-19** — discovered via: exa, cdrfyi ([source](https://atlantico2.com/))

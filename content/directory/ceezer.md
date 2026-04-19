@@ -2,7 +2,7 @@
 title: "Ceezer"
 layout: "single"
 type: "directory"
-description: "CEEZER is a Berlin-based B2B enterprise platform and marketplace connecting corporate carbon credit buyers with project developers across both removal and"
+description: "Digital B2B marketplace and portfolio-management software that vets carbon credit projects using millions of data points and facilitates buyer-supplier transactions, MRV reporting, and long-term"
 url: "/directory/ceezer/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

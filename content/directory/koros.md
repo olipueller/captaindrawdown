@@ -2,7 +2,7 @@
 title: "Koros"
 layout: "single"
 type: "directory"
-description: "Koros is a Philippines-based carbon-smart solutions company that converts local biomass into biochar for rural community development projects. The company"
+description: "Pyrolysis of local agricultural biomass into biochar for soil biofertilizer blends and biochar-enhanced cement/metallurgical materials, deployed in rural Philippine communities."
 url: "/directory/koros/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Philippines</td></tr>
   <tr><th>Website</th><td><a href="https://koros.earth/" target="_blank" rel="noopener">https://koros.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/koros-biochar/" target="_blank" rel="noopener">koros-biochar — 157 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Koros is a Philippines-based carbon-smart solutions company that converts local biomass into biochar for rural community development projects. The company partners with the University of the Philippines Los Baños (UPLB) and the Provincial Government of Camiguin to deploy biochar gasification for rural energy, community biofertilizer hubs, and biochar-enhanced cement and metallurgical formulations.
+Koros is a Philippines-based biochar venture, spun out of Freya (a Spanish-Filipino renewable-energy consultancy), that converts local biomass into biochar via pyrolysis at a facility in Camiguin Province. The company partners with the University of the Philippines Los Baños (UPLB) and the Provincial Government of Camiguin on biochar-based biofertilizers, rural energy, and biochar-enhanced cement and metallurgical applications.
 
 ![Koros website](/screenshots/koros.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://koros.earth/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://koros.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://koros.earth/ ([source](https://www.cdr.fyi/supplier/koros))

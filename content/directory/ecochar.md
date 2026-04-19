@@ -2,7 +2,7 @@
 title: "EcoChar"
 layout: "single"
 type: "directory"
-description: "EcoChar is a small France-based company developing agroforestry and regenerative agriculture projects that produce biochar and green charcoal briquettes"
+description: "Pyrogasification of biomass waste at ~1000°C to produce biochar (soil bio-stimulant) and green charcoal briquettes as a wood-charcoal substitute."
 url: "/directory/ecochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -22,13 +22,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-EcoChar is a small France-based company developing agroforestry and regenerative agriculture projects that produce biochar and green charcoal briquettes through pyrolysis of biomass waste. They position biochar as both an agricultural bio-stimulant and a carbon sink for soil regeneration. The firm appears very small (~3 employees) with no registry listings and limited public signals, though its website remains live.
+EcoChar is a France-based company that develops projects in agroforestry and regenerative agriculture, producing biochar as an agricultural bio-stimulant and green charcoal briquettes from biomass via pyrolysis units it operates. The company targets soil restoration without chemical fertilizers and offers an alternative to wood charcoal to reduce deforestation, using pyrogasification at around 1000°C in a low-oxygen environment to co-produce biochar. It is a very small operation (~3 employees) with no registry listings and limited public signals.
 
 ![EcoChar website](/screenshots/ecochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.ecochar.tech/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.ecochar.tech/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.ecoverse.net/brands/ecochar/))

@@ -2,7 +2,7 @@
 title: "Cap Clean"
 layout: "single"
 type: "directory"
-description: "Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development company developing biofuel facilities that convert crop residues and other biomass"
+description: "Plans to produce SAF and renewable diesel from crop residues via Raven SR's Steam/CO2 Reforming (non-combustion) process, with integrated carbon capture and storage of biogenic CO2."
 url: "/directory/cap-clean/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -17,18 +17,19 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/raven-renewable-energies/" target="_blank" rel="noopener">raven-renewable-energies — 3,451 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+10% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development company developing biofuel facilities that convert crop residues and other biomass feedstocks into sustainable aviation fuel (SAF) and renewable diesel, with integrated carbon capture and storage. The company has MOUs with Raven SR (2023) for Steam/CO2 Reforming technology and ABB (2024) for automation/electrification, and in May 2025 acquired 40 acres in Beaver County, Alberta for a proposed facility near existing carbon capture infrastructure. Production start is targeted for 2027.
+Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development startup planning modular biofuel facilities that convert cereal crop residues and other biomass into sustainable aviation fuel (SAF) and renewable diesel, with integrated CCUS. The company has signed MOUs with Raven SR (2023, Steam/CO2 Reforming technology) and ABB (2024, automation/electrification), and in May 2025 announced acquisition of a 40-acre site in Beaver County, Alberta for its first facility. It is listed on LinkedIn as a subsidiary of Aether Catalyst (ATHR.cn).
 
 ![Cap Clean website](/screenshots/cap-clean.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://capclean.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://advancedbiofuelsusa.info/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://ravensr.com/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))

@@ -2,7 +2,7 @@
 title: "BioFlux"
 layout: "single"
 type: "directory"
-description: "BioFlux is a consultancy focused on biochar carbon removal project development. It guides project developers and empowers existing biochar producers by working"
+description: "Consultancy that designs, certifies, and operationalizes third-party biochar projects (feasibility, LCA, MRV, registry submission, offtake) rather than producing biochar itself."
 url: "/directory/bioflux/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

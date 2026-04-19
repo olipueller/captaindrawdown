@@ -2,7 +2,7 @@
 title: "Rubicon Carbon"
 layout: "single"
 type: "directory"
-description: "Rubicon Carbon is a US-based carbon credit management and investment platform backed by TPG Rise Climate Fund, headquartered in Marina del Rey, California. The"
+description: "Carbon credit portfolio manager and offtaker that finances and aggregates high-integrity avoidance and removal credits (biochar, DAC, enhanced weathering, nature-based) for enterprise buyers."
 url: "/directory/rubicon-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

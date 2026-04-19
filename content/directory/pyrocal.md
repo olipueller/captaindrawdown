@@ -2,7 +2,7 @@
 title: "Pyrocal"
 layout: "single"
 type: "directory"
-description: "Pyrocal is a Queensland, Australia-based engineering firm that designs and manufactures proprietary Continuous Carbonisation Technology (CCT) systems, which"
+description: "Designs and manufactures proprietary Continuous Carbonisation Technology (CCT) pyrolysis systems that convert biosolids and organic biomass into biochar, generating Puro.earth-certified carbon"
 url: "/directory/pyrocal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,14 +15,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.pyrocal.com.au" target="_blank" rel="noopener">https://www.pyrocal.com.au</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyrocal/" target="_blank" rel="noopener">pyrocal — 2,098 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~12 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Pyrocal is a Queensland, Australia-based engineering firm that designs and manufactures proprietary Continuous Carbonisation Technology (CCT) systems, which convert biosolids and organic biomass into biochar via pyrolysis. They built and operate Australia's first biosolids carbonisation facility at Logan Water's Loganholme WWTP and were selected in 2025 to deliver a similar system for the Capital Regional District in British Columbia, Canada. Their biochar projects are certified on the Puro.earth registry for durable carbon removal credits.
+Pyrocal is a Queensland, Australia-based engineering firm that builds proprietary continuous pyrolysis systems (CCT) to convert biosolids and organic waste into biochar. They operate Australia's first biosolids carbonisation facility at Logan Water's Loganholme WWTP and were selected in 2025 to deliver a similar Canadian-first system for the Capital Regional District in British Columbia.
 
 ![Pyrocal website](/screenshots/pyrocal.png)
 
@@ -32,6 +32,7 @@ Pyrocal is a Queensland, Australia-based engineering firm that designs and manuf
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrocal.com.au/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrocal.com.au/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrocal.com.au/))

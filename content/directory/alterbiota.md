@@ -2,7 +2,7 @@
 title: "alterBiota"
 layout: "single"
 type: "directory"
-description: "alterBiota is a Sydney/Edwardsville, Nova Scotia-based cleantech company that makes deltaC, a biochar-derived liquid admixture that reduces Portland cement use"
+description: "Converts forestry-waste biochar via a patented process into a liquid concrete admixture (deltaC) that stores biogenic carbon and reduces cement use."
 url: "/directory/alterbiota/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://alterbiota.com/" target="_blank" rel="noopener">https://alterbiota.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alterbiotainc/" target="_blank" rel="noopener">alterbiotainc — 566 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~18 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-alterBiota is a Sydney/Edwardsville, Nova Scotia-based cleantech company that makes deltaC, a biochar-derived liquid admixture that reduces Portland cement use and stores biogenic carbon in concrete, claiming up to 30% embodied-carbon reduction. In December 2025 the company announced that deltaC had moved from R&D into commercial production, following summer 2025 trials delivering over 100 m³ of low-carbon concrete with partners including Casey Concrete and CarbonRun. It also develops digitalAggregate, a computer-vision tool for concrete mix QC, integrated with Giatec's SmartMix platform in October 2025.
+alterBiota is a Nova Scotia-based cleantech startup that makes deltaC (∆C), a biochar-derived liquid concrete admixture produced via a patented process from forestry-waste biochar. The product stores biogenic carbon in concrete and enables cement reduction, claiming up to 30% embodied-carbon reduction. The company entered commercial production in December 2025 following 2025 field trials with Casey Concrete and CarbonRun.
 
 ![alterBiota website](/screenshots/alterbiota.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.newswire.ca/news-releases/alterbiota-enters-commercialization-phase-with-deltac-a-liquid-biochar-admixture-transforming-concrete-832873178.html))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://alterbiota.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://betakit.com/alterbiota-closes-4-million-seed-round-in-mission-to-decarbonize-concrete/))

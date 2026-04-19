@@ -2,7 +2,7 @@
 title: "DACMA GmbH"
 layout: "single"
 type: "directory"
-description: "DACMA GmbH is a Hamburg-based manufacturer of solid-sorbent Direct Air Capture systems, founded by Jörg Spitzner with roots in aerospace engineering. The"
+description: "DACMA designs and manufactures modular solid-sorbent Direct Air Capture (DAC) systems for CCS and CCU applications."
 url: "/directory/dacma-gmbh/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,14 +15,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://dacma.com/" target="_blank" rel="noopener">https://dacma.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dacma/" target="_blank" rel="noopener">dacma — 2,573 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~33 (+18% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-DACMA GmbH is a Hamburg-based manufacturer of solid-sorbent Direct Air Capture systems, founded by Jörg Spitzner with roots in aerospace engineering. The company has delivered DAC machines since 2023, including units deployed in South America (Repsol Sinopec Brazil), to KIT for the H2Mare offshore hydrogen project, and is supplying systems to Deep Sky in Canada. A DACMA Competence Center at the Port of Hamburg is scheduled to open in spring 2026.
+DACMA GmbH is a Hamburg, Germany-headquartered manufacturer of Direct Air Capture (DAC) systems, and is considered one of the world's pioneers in DAC system development. In December 2025 DACMA entered a long-term joint development agreement with Canadian project developer Deep Sky to deploy DACMA units in North America, starting with a 600 tonnes-per-year unit. The DACMA Competence Center, its R&D facility at the Port of Hamburg, is scheduled to open in spring 2026 as a hub for development, construction and deployment of modular DAC systems.
 
 ![DACMA GmbH website](/screenshots/dacma-gmbh.png)
 
@@ -32,6 +32,7 @@ DACMA GmbH is a Hamburg-based manufacturer of solid-sorbent Direct Air Capture s
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dacma.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dacma.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dacma.com/))

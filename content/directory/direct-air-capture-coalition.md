@@ -2,7 +2,7 @@
 title: "Direct Air Capture Coalition"
 layout: "single"
 type: "directory"
-description: "The Direct Air Capture Coalition was founded in 2022 as a non-profit, multi-stakeholder, climate-focused coalition consisting of over 110 companies, civil"
+description: "Non-profit multi-stakeholder coalition advocating for and coordinating the Direct Air Capture industry through policy engagement, conferences, and a global DAC deployment map."
 url: "/directory/direct-air-capture-coalition/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"

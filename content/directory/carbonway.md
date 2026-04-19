@@ -2,7 +2,7 @@
 title: "Carbonway"
 layout: "single"
 type: "directory"
-description: "Carbonway is a France-based CDR project developer that captures biogenic CO2 from biomethanization plants and mineralizes it in construction and backfill"
+description: "Tech-agnostic project developer that captures biogenic CO2 from biomethanization plants and mineralizes it in construction/backfill materials like bottom ash and construction debris."
 url: "/directory/carbonway/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonway.org/" target="_blank" rel="noopener">https://www.carbonway.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonwayorg/" target="_blank" rel="noopener">carbonwayorg — 262 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Carbonway is a France-based CDR project developer that captures biogenic CO2 from biomethanization plants and mineralizes it in construction and backfill materials such as bottom ash and construction debris. It positions itself as a tech-agnostic project developer focused on mineralising biogenic CO₂ in construction materials, building local industrial hubs rather than owning a proprietary process technology.
+Carbonway is a France-based CDR project developer focused on mineralizing biogenic CO2 from biomethane plants into construction and backfill materials such as bottom ash, recycled concrete aggregate, and construction debris. The company positions itself as a technology-agnostic developer building local industrial hubs rather than owning a proprietary process, generating additional revenue for biomethane operators and waste recyclers.
 
 ![Carbonway website](/screenshots/carbonway.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbonway.org/what-we-do))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbonway.org/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.carbonway.org/news))

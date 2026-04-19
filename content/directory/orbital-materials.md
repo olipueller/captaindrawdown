@@ -2,7 +2,7 @@
 title: "Orbital Materials"
 layout: "single"
 type: "directory"
-description: "Founded in late 2022, Orbital Materials leverages AI to accelerate discovery, testing and deployment of advanced materials, with an R&D facility in Princeton,"
+description: "AI-designed solid sorbent DAC system integrated into data centers, using server waste heat to drive regeneration."
 url: "/directory/orbital-materials/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Founded in late 2022, Orbital Materials leverages AI to accelerate discovery, testing and deployment of advanced materials, with an R&D facility in Princeton, NJ where it designs and synthesizes end-to-end technologies. Its first commercial product is a data-center-integrated direct air capture system using a novel AI-designed sorbent that operates at elevated temperatures using server waste heat. The company has piloted with AWS signed in December 2024, and announced a partnership with UK cloud provider Civo to deploy its carbon removal technology at an undisclosed UK data center by the end of 2025.
+Orbital Materials is an AI-for-materials company founded in late 2022, headquartered in London with an R&D lab in Princeton, NJ. Its flagship commercial product is a data-center-integrated direct air capture (DAC) system using an AI-designed sorbent that operates on server waste heat. The company has active pilot partnerships with AWS (announced Dec 2024) and UK cloud provider Civo (April 2025) to deploy its carbon removal technology at partner data centers by end of 2025.
 
 ![Orbital Materials website](/screenshots/orbital-materials.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://press.aboutamazon.com/2024/12/orbital-materials-and-aws-enter-strategic-partnership-to-develop-and-pilot-technologies-for-data-center-decarbonization-and-efficiency))
 - **2026-04-19** — reactivated — screenshot succeeded in reshoot3
 - **2026-04-19** — deactivated — URL https://www.orbitalmaterials.com returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2025/04/09/3058782/0/en/Orbital-Materials-Partners-with-Civo-to-Pilot-Data-Center-Integrated-Carbon-Removal-Technology.html))

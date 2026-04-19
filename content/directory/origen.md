@@ -2,7 +2,7 @@
 title: "Origen"
 layout: "single"
 type: "directory"
-description: "Origen (Origen Power Limited) is a UK/US climate-tech company developing limestone-based direct air capture technology, headquartered in Bristol with US"
+description: "Uses a proprietary zero-emission limestone kiln and low-intensity air contactor to cycle lime/limestone, capturing atmospheric CO2 and producing a pure CO2 stream for permanent underground storage."
 url: "/directory/origen/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -23,13 +23,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Origen (Origen Power Limited) is a UK/US climate-tech company developing limestone-based direct air capture technology, headquartered in Bristol with US operations. It closed a $13M Series A in January 2025 led by Barclays Climate Ventures (with Shell Ventures, Exascale, Elemental Impact, Hatch) and is building a 1,000 tpa demonstration at EERC in North Dakota, while participating in the Pelican Gulf Coast DAC Hub in Louisiana with Shell and Mitsubishi.
+Origen (Origen Power Limited) is a UK/US climate-technology company headquartered in Bristol developing limestone-based direct air capture. It closed a $13M Series A in January 2025 led by Barclays Climate Ventures (with Shell Ventures, Exascale, Elemental Impact, Hatch) and is building a 1,000 tpa demonstration at EERC in North Dakota while participating in the Pelican Gulf Coast DAC Hub with Shell and Mitsubishi.
 
 ![Origen website](/screenshots/origen.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.origencarbon.com/news/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.origencarbon.com/news/completing-the-loop-origen-commissions-proprietary-air-contactor/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.origencarbon.com/news/origen-series-a/))

@@ -2,7 +2,7 @@
 title: "GreenCap Solutions"
 layout: "single"
 type: "directory"
-description: "GreenCap Solutions AS is a Norwegian environmental technology provider of large-scale carbon dioxide removal solutions, applying Direct Air Capture (DAC)"
+description: "Patented zeolite solid-sorbent adsorption DAC with physical (non-chemical) CO₂ capture, using dehumidified air and heat-driven desorption, applied to greenhouses, industrial CO₂-free air, and"
 url: "/directory/greencap-solutions/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-GreenCap Solutions AS is a Norwegian environmental technology provider of large-scale carbon dioxide removal solutions, applying Direct Air Capture (DAC) technology to fully closed greenhouse systems and industrial applications using patented zeolite-based adsorption. The company was founded in 2016 and is headquartered in Sandnes, Norway. It is the technology partner to Removr, a JV 60% owned by Vanir Green Industries and 40% owned by GreenCap Solutions, established to scale and industrialize DAC.
+GreenCap Solutions AS is a Norwegian environmental technology company developing zeolite-based solid-sorbent Direct Air Capture (DAC) technology for both atmospheric removal and low-concentration point-source capture. Founded in 2016 and headquartered in Sandnes, it is the technology partner to Removr (the JV scaling DAC to industrial size) and in 2025 launched a demonstration project with Hydro Aluminium to capture CO₂ from aluminium smelter flue gases.
 
 ![GreenCap Solutions website](/screenshots/greencap-solutions.png)
 
@@ -32,6 +32,7 @@ GreenCap Solutions AS is a Norwegian environmental technology provider of large-
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://greencap-solutions.com/))
 - **2026-04-19** — merged 1 duplicate(s): GreenCap Solutions AS
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://greencap-solutions.com/direct-air-capture/))

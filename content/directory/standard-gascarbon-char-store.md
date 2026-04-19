@@ -2,7 +2,7 @@
 title: "Standard Gas/Carbon Char Store"
 layout: "single"
 type: "directory"
-description: "Standard Gas Technologies is a UK-based company whose patented SG100 Advanced Thermal Cracking (pyrolysis/gasification) technology converts non-recyclable and"
+description: "SG100 Advanced Thermal Cracking (pyrolysis/gasification) plants convert non-recyclable and hazardous wastes into syngas (primary output, for power/hydrogen/fuels) and biochar co-product (~10-15% of"
 url: "/directory/standard-gascarbon-char-store/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,20 +15,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://standardgas.com/" target="_blank" rel="noopener">https://standardgas.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/standardgas/" target="_blank" rel="noopener">standardgas — 9,613 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~21 (+5% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Standard Gas Technologies is a UK-based company whose patented SG100 Advanced Thermal Cracking (pyrolysis/gasification) technology converts non-recyclable and hazardous wastes into clean syngas and carbon-removing biochar. Its Carbon Char Store subsidiary markets and sells the resulting carbon removals, sequestered in soil enhancers and construction aggregates. The first commercial SG100 plant is in pre-commercialisation commissioning at Scottow Enterprise Park, Norfolk.
+London-based Standard Gas Technologies is commercialising its carbon-negative energy-from-waste SG100 technology and has launched Carbon Char Store as its carbon removals sales and marketing arm. The patented SG100 generates clean renewable energy plus carbon-capturing biochar, and provides an alternative to landfill and incineration. Biochar is a co-product (~10-15% of output) sequestered in soil and construction aggregates.
 
 ![Standard Gas/Carbon Char Store website](/screenshots/standard-gascarbon-char-store.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://standardgas.com/decarbonisation-solutions/))
 - **2026-04-19** — merged 1 duplicate(s): Standard Gas
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://standardgas.com/sg100-technology/))

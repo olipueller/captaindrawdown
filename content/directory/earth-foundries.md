@@ -2,7 +2,7 @@
 title: "Earth Foundries"
 layout: "single"
 type: "directory"
-description: "Earth Foundries is a California-based, woman-owned Benefit Corporation founded in 2021 that processes unmerchantable forest waste from hazardous fuels"
+description: "Mobile pyrolysis (Tigercat carbonizers) of forest slash on-site in California, producing biochar at 10-20 green tons/hour throughput."
 url: "/directory/earth-foundries/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.earthfoundriesinc.com/" target="_blank" rel="noopener">https://www.earthfoundriesinc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/earth-foundries-inc/" target="_blank" rel="noopener">earth-foundries-inc — 786 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Earth Foundries is a California-based, woman-owned Benefit Corporation founded in 2021 that processes unmerchantable forest waste from hazardous fuels reduction projects into biochar using mobile pyrolysis equipment (Slash Attack®). The company operates across California in partnership with CAL FIRE, the US Forest Service and local agencies to reduce wildfire risk while producing carbon-negative biochar for soil, compost, and stormwater applications.
+Earth Foundries is a California-based, woman-owned Benefit Corporation founded in 2021 that uses mobile Tigercat carbonizers (branded Slash Attack®) to convert unmerchantable forest waste from hazardous fuels reduction projects into biochar. The company partners with CAL FIRE, USFS, East Bay Regional Park District and private forestry contractors to reduce wildfire risk while producing carbon-sequestering biochar.
 
 ![Earth Foundries website](/screenshots/earth-foundries.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.earthfoundriesinc.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.earthfoundriesinc.com/news/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.earthfoundriesinc.com/))

@@ -2,7 +2,7 @@
 title: "Greener Tokens"
 layout: "single"
 type: "directory"
-description: "Greener Tokens is a climatech that tokenizes carbon credits from Brazilian Amazon forest preservation projects on blockchain (Polygon/Ethereum) via its Greener"
+description: "Blockchain-based tokenization platform that issues NFT-backed carbon credits (GPT) from audited Amazon forest preservation projects for corporate offsetting."
 url: "/directory/greener-tokens/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

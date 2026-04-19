@@ -2,7 +2,7 @@
 title: "ÖkoMAXX Energiewerke"
 layout: "single"
 type: "directory"
-description: "ÖkoMAXX Energiewerke GmbH is an Austrian company headquartered in Gänserndorf, registered in 2021, engaged in electricity and heat generation, operation of"
+description: "Operates a Syncraft biomass gasification CHP plant that generates renewable electricity and district heat from forest residues while producing biochar as a carbon-sink byproduct."
 url: "/directory/ökomaxx-energiewerke/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,20 +13,21 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
-  <tr><th>Website</th><td><a href="https://global-c-registry.org/project-view/1127" target="_blank" rel="noopener">https://global-c-registry.org/project-view/1127</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Website</th><td><a href="http://www.purenergy.at/" target="_blank" rel="noopener">http://www.purenergy.at/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-ÖkoMAXX Energiewerke GmbH is an Austrian company headquartered in Gänserndorf, registered in 2021, engaged in electricity and heat generation, operation of biomass power plants, and general trading. It is wholly owned by PurEnergy Holding GmbH. Its biochar project (GCSP1127) at Altweitra 70, AT-3970 Weitra was validated under the Global Biochar C-Sink Standard with a closing date of 2025-06-23.
+ÖkoMAXX Energiewerke GmbH is a small Austrian energy utility headquartered in Gänserndorf, wholly owned by PurEnergy Holding GmbH. Its core business is producing green electricity and district heating from biomass via a Syncraft gasification power plant, with biochar generated as a byproduct and registered under the Global Biochar C-Sink Standard (GCSP1127). Its primary business is electricity/heat supply, not CDR.
 
 ![ÖkoMAXX Energiewerke website](/screenshots/ökomaxx-energiewerke.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://cleantechnica.com/2025/05/12/syncraft-opens-clean-power-plant-that-provides-electricity-heat-cdr/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.firmenabc.at/oekomaxx-energiewerke-gmbh_zrGX))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.wirtschaft.at/u/553028b))

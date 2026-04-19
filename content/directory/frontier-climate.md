@@ -2,7 +2,7 @@
 title: "Frontier Climate"
 layout: "single"
 type: "directory"
-description: "Frontier Climate is an advance market commitment (AMC) that aggregates buyer demand to purchase over $1 billion of permanent carbon dioxide removal between"
+description: "Buyer-coalition AMC that pools committed CDR demand from corporate members and facilitates prepurchase and offtake contracts with vetted permanent-removal suppliers across DAC, BECCS, ERW,"
 url: "/directory/frontier-climate/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

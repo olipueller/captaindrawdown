@@ -2,7 +2,7 @@
 title: "Aircapture"
 layout: "single"
 type: "directory"
-description: "Aircapture is a Berkeley, California-based direct air capture company founded in 2019 that builds modular, containerized DAC units installed on-site at"
+description: "Aircapture builds modular, containerized solid-sorbent DAC units deployed on-site at industrial customers to deliver high-purity atmospheric CO2 for use or permanent sequestration."
 url: "/directory/aircapture/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Aircapture is a Berkeley, California-based direct air capture company founded in 2019 that builds modular, containerized DAC units installed on-site at industrial customers (food, beverage, concrete, manufacturing) to supply high-purity atmospheric CO2. In 2025 it won the XPRIZE Carbon Removal with partner 44.01 for Project Hajar in the UAE, raised a $50M Series A led by the Larsen Lam Climate Change Foundation, and opened Japan's first DAC plant with Aizawa Concrete in Fukushima.
+Aircapture, headquartered in Berkeley, CA, is a direct air capture company founded in 2019 that deploys modular DAC systems delivering atmospheric CO2 as a circular commodity for industrial and commercial customers. In 2025 it won the XPrize "Carbon Removal" prize and raised a $50M Series A led by the Larsen Lam Climate Change Foundation to scale its modular DAC systems serving food, beverage, industrial, and agricultural customers. In 2023 it partnered with 44.01 on Project Hajar in Oman, combining DAC with mineralization.
 
 ![Aircapture website](/screenshots/aircapture.png)
 
@@ -34,6 +34,7 @@ Aircapture is a Berkeley, California-based direct air capture company founded in
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.eznewswire.com/newsroom/aircapture-raises-50-million-in-series-a-financing-to-scale-modular-profitable-direct-air-capture-solution))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.esgtoday.com/direct-air-capture-startup-aircapture-raises-50-million-to-remove-and-re-use-co2-at-industrial-sites/))

@@ -2,7 +2,7 @@
 title: "AWN"
 layout: "single"
 type: "directory"
-description: "AWN (Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH) is a municipal waste-management company based in Buchen, Germany, founded in 1992. At its"
+description: "Operates a Pyreg pyrolysis unit at a municipal waste site to convert woody green-waste into biochar sold as soil amendment, Terra Preta substrate, and livestock feed additive."
 url: "/directory/awn/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,18 +16,19 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kwin-kreislaufwirtschaft-neckar-odenwald-a%c3%b6r/" target="_blank" rel="noopener">kwin-kreislaufwirtschaft-neckar-odenwald-a%c3%b6r — 28 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-AWN (Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH) is a municipal waste-management company based in Buchen, Germany, founded in 1992. At its Biomassezentrum in the Sansenhecken disposal center, the company pyrolyzes the woody portion of roughly 20,000 tonnes/year of regional green waste into biochar and compost/Terra Preta products for agriculture and livestock use. CDR is a side-activity of the core municipal waste operation but produces real biochar.
+AWN (Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH) is a municipal waste-management utility for the Neckar-Odenwald district in Baden-Württemberg, Germany. At its Biomassezentrum at the Sansenhecken disposal site in Buchen, it operates a Pyreg pyrolysis unit that converts the woody fraction of regional green waste into biochar (Pflanzenkohle), which is sold directly or blended into Terra Preta substrates and compost. Waste management is the primary business; biochar production is an adjacent valorization side-stream.
 
 ![AWN website](/screenshots/awn.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.awn-online.de/unternehmen/biomassezentrum-buchen.html))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.awn-online.de/unternehmen/biomassezentrum-buchen.html))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.awn-online.de/unternehmen/biomassezentrum-buchen.html))

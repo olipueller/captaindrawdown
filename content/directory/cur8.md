@@ -2,7 +2,7 @@
 title: "CUR8"
 layout: "single"
 type: "directory"
-description: "CUR8 is an intelligence provider for the carbon removal market, positioned at the intersection of climate science and finance, using proprietary scientific"
+description: "CUR8 is a carbon removal market intelligence, due diligence, and portfolio management platform that helps corporate buyers procure, finance, and track CDR credits across pathways (DAC, biochar,"
 url: "/directory/cur8/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

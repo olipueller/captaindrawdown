@@ -2,7 +2,7 @@
 title: "Alithic"
 layout: "single"
 type: "directory"
-description: "Alithic (formerly Earth RepAIR) is a University of Wisconsin–Madison spinout based in Madison, WI, developing an integrated direct air capture and"
+description: "Solvent-based direct air capture coupled with mineralization of industrial wastes (fly ash, slag, mine tailings) to produce a supplementary cementitious material (SCM) that permanently stores CO2."
 url: "/directory/alithic/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://alithic.com/" target="_blank" rel="noopener">https://alithic.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/earth-repair/" target="_blank" rel="noopener">earth-repair — 773 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>Employees</th><td>~10</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Alithic (formerly Earth RepAIR) is a University of Wisconsin–Madison spinout based in Madison, WI, developing an integrated direct air capture and mineralization process. Its solvent-based capture reacts CO₂ with industrial wastes (fly ash, steel slag, mine tailings) to produce a supplementary cementitious material (SCM) sold as a cement replacement. The company was selected for Frontier's Fall 2024 prepurchase round and is backed by Kiko Ventures, IP Group, Counteract, Clim8 and others.
+Alithic (formerly Earth RepAIR) is a University of Wisconsin–Madison spinout commercializing an integrated DAC + mineralization process that captures CO2 and locks it into a carbon-negative cement replacement. It was selected in Frontier's Fall 2024 prepurchase round and has raised ~$2M+ from investors including Kiko/Clim8 Ventures, IP Group, and WARF.
 
 ![Alithic website](/screenshots/alithic.png)
 
@@ -34,6 +34,7 @@ Alithic (formerly Earth RepAIR) is a University of Wisconsin–Madison spinout b
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://alithic.com/))
 - **2026-04-19** — merged 1 duplicate(s): Earth Repair Global
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -2,7 +2,7 @@
 title: "Earthly"
 layout: "single"
 type: "directory"
-description: "Earthly is a UK-based nature-based carbon credit marketplace that connects businesses with vetted reforestation, mangrove, and biodiversity projects via"
+description: "Curated marketplace offering vetted nature-based carbon and biodiversity credits (reforestation, mangroves, regenerative agriculture) to businesses, using a 106-data-point scoring methodology rather"
 url: "/directory/earthly/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"

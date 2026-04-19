@@ -2,7 +2,7 @@
 title: "BlueLayer"
 layout: "single"
 type: "directory"
-description: "BlueLayer is a Berlin-based software platform providing an end-to-end operating system for carbon project developers, covering inventory management, dMRV,"
+description: "SaaS platform for carbon project developers providing inventory, dMRV, credit lifecycle, and sales workflow tooling—not a physical CO2 remover."
 url: "/directory/bluelayer/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

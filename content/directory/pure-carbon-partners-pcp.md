@@ -2,7 +2,7 @@
 title: "Pure Carbon Partners (PCP)"
 layout: "single"
 type: "directory"
-description: "Pure Carbon Partners (PCP) is a buyer-side carbon asset management and procurement advisor focused exclusively on durable carbon dioxide removal. The firm"
+description: "Buyer-side CDR procurement advisor and broker: aggregates corporate demand, structures long-term offtake agreements, and manages delivery risk across durable CDR pathways (e.g. BECCS)."
 url: "/directory/pure-carbon-partners-pcp/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

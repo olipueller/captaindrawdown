@@ -2,10 +2,10 @@
 title: "Wongphai Co.,Ltd"
 layout: "single"
 type: "directory"
-description: "Wongphai Co., Ltd. is a Thailand-based community-driven biochar producer founded in 2019 that converts bamboo offcuts into biochar via pyrolysis in Prachin"
+description: "Produces biochar via Kontiki-kiln pyrolysis of bamboo offcuts in central Thailand, applied to rice paddies and bamboo groves, with Planboo providing digital MRV and credit brokerage."
 url: "/directory/wongphai-coltd/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,17 +13,19 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Thailand</td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Website</th><td><a href="https://www.wongphai.com/" target="_blank" rel="noopener">https://www.wongphai.com/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Wongphai Co., Ltd. is a Thailand-based community-driven biochar producer founded in 2019 that converts bamboo offcuts into biochar via pyrolysis in Prachin Buri and Ratchaburi. The project partners with Planboo for MRV and credit brokerage, and has cumulatively removed over 6,000 tonnes of CO2, targeting ~32,000 tCO2e over 5 years. It received a Sylvera AA–BBB estimated rating in September 2025.
+Wongphai Co., Ltd. is a community-driven initiative in rural Thailand that promotes bamboo cultivation and utilisation, converting bamboo offcuts that were traditionally burned into biochar. Founded in 2019, the company operates in Prachin Buri and Ratchaburi, partners with Planboo for MRV and credit brokerage, and received a Sylvera AA–BBB Estimated Rating in September 2025. The project targets roughly 32,000 tCO₂e over 5 years and has cumulatively removed over 6,000 tonnes of CO2.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/project/wongphai-biochar-project/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/project/wongphai-biochar-project/))

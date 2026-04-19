@@ -2,7 +2,7 @@
 title: "Rhinoflux"
 layout: "single"
 type: "directory"
-description: "Rhinoflux is a Kyoto-based startup founded in 2024 and spun out of Kyoto University, developing next-generation Bio-Energy with Carbon Capture & Storage"
+description: "Rhinoflux's \"hydro/wet chemical looping\" technology uses redox reactions of metal-ion solutions to convert biomass into clean electricity and >99.9% purity CO2 without combustion, integrating BECCS"
 url: "/directory/rhinoflux/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Rhinoflux is a Kyoto-based startup founded in 2024 and spun out of Kyoto University, developing next-generation Bio-Energy with Carbon Capture & Storage (BECCS) plants. Its proprietary hydro chemical looping technology uses redox reactions of metal ion solutions to generate clean electricity from biomass while capturing CO2 at over 99.9% purity, without combustion. The company raised a JPY 200M seed round in October 2024 and won the KPMG Global Tech Innovator 2025 award at Web Summit Lisbon.
+Rhinoflux is a seed-stage company based in Kyoto, Japan, founded in 2024, that operates as a provider of CO2 capture and utility solutions and has raised $1.83M in funding. The company aims to develop and commercialize biomass energy and carbon capture plants, along with their core modular units, using its wet chemical looping technology. Coca-Cola Bottlers Japan began a demonstration experiment at its Kyoto plant in 2025, aiming to generate clean electricity and capture high-purity CO₂ from biomass derived from tea leaves and coffee grounds.
 
 ![Rhinoflux website](/screenshots/rhinoflux.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://beyondnextventures.com/insight/invested-in-rhinoflux))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.shimadzu.com/news/2024/rerin779fc7gg23o.html))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://rhinoflux.com ([source](https://www.cdr.fyi/supplier/rhinoflux))

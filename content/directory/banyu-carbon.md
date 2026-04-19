@@ -2,10 +2,10 @@
 title: "Banyu Carbon"
 layout: "single"
 type: "directory"
-description: "Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of Washington in 2022 by chemical oceanographers Alex Gagnon and Julian Sachs. It"
+description: "Uses reversible photoacids activated by sunlight to release CO2 from seawater, enabling the ocean to reabsorb atmospheric CO2 while storing captured CO2 geologically or in products."
 url: "/directory/banyu-carbon/"
 pathway: "Ocean CDR"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.banyucarbon.com/" target="_blank" rel="noopener">https://www.banyucarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/banyu-carbon/" target="_blank" rel="noopener">banyu-carbon — 2,151 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
   <tr><th>Employees</th><td>~10 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of Washington in 2022 by chemical oceanographers Alex Gagnon and Julian Sachs. It is developing a sunlight-driven process using reversible photoacids to release CO2 from seawater, and has raised a $6.5M seed round from Grantham Foundation, Propeller, United Airlines Ventures, Carbon Removal Partners and ReGen Ventures, plus a Frontier pre-purchase from Stripe, Shopify and H&M.
+Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of Washington in 2022 by chemical oceanographers Alex Gagnon and Julian Sachs. The company is developing a sunlight-driven photoacid process to remove CO2 from seawater, and has raised approximately $8.5M from investors including Grantham Foundation, Propeller, United Airlines Ventures, Carbon Removal Partners and ReGen Ventures. It was selected by Frontier for a pre-purchase, joined Ocean Visions' Launchpad, and received a DOE voucher.
 
 ![Banyu Carbon website](/screenshots/banyu-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.banyucarbon.com/news/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.banyucarbon.com/news/))

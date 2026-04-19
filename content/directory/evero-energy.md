@@ -2,10 +2,10 @@
 title: "Evero Energy"
 layout: "single"
 type: "directory"
-description: "Evero Energy Group Limited (previously known as Bioenergy Infrastructure Group) is a UK low-carbon waste-to-energy company partnering with Mitsubishi Heavy"
+description: "Retrofits existing waste-wood biomass power plants with MHI's Advanced KM CDR amine solvent capture, transporting biogenic CO2 via HyNet cluster to depleted Irish Sea gas-field geological storage."
 url: "/directory/evero-energy/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,20 +14,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://evero.energy/" target="_blank" rel="noopener">https://evero.energy/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioenergy-infrastructure-limited/" target="_blank" rel="noopener">bioenergy-infrastructure-limited — 9,370 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~103</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Evero Energy Group Limited (previously known as Bioenergy Infrastructure Group) is a UK low-carbon waste-to-energy company partnering with Mitsubishi Heavy Industries to deliver its InBECCS (Ince Bioenergy with Carbon Capture and Storage) project. The company operates waste-wood biomass plants in North-West England and plans to retrofit them with MHI's amine carbon capture technology, linking to the HyNet CO2 transport and storage network. InBECCS, located at Ince BioPower in Cheshire, has the capability to capture and permanently store up to 217,000 tonnes of biogenic CO₂ each year in geological storage via the HyNet North West network, and is currently the first and only UK BECCS project included in Puro.earth's Future Facility program.
+Evero Energy (formerly Bioenergy Infrastructure Group) is a UK waste-wood-to-energy utility operating three biomass power plants (Ince, Mersey, Lisahally) that generate electricity from waste wood diverted from landfill. The company is retrofitting its Ince and Mersey plants with Mitsubishi Heavy Industries' amine carbon capture technology to deliver BECCS, with InBECCS targeted for 2029 operation and ~217,000 tonnes/year CO2 removals stored via the HyNet cluster. Power generation remains the core business; CDR is an adjacent upgrade to existing assets.
 
 ![Evero Energy website](/screenshots/evero-energy.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://evero.energy/))
 - **2026-04-19** — merged 1 duplicate(s): Evero Energy Group Limited
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -2,7 +2,7 @@
 title: "Plantd Materials"
 layout: "single"
 type: "directory"
-description: "Plantd is an Oxford, North Carolina-based company founded in 2021 that cultivates fast-growing perennial Arundo donax grass and manufactures it into"
+description: "Converts farm-grown Arundo donax grass into durable structural panels that lock biogenic CO2 into the walls and roofs of long-lived buildings as a wood-panel replacement."
 url: "/directory/plantd-materials/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Plantd is an Oxford, North Carolina-based company founded in 2021 that cultivates fast-growing perennial Arundo donax grass and manufactures it into carbon-negative structural building panels as drop-in replacements for OSB/plywood. The company sequesters atmospheric CO2 in the walls and roofs of new homes via long-lived building materials. It closed a $22M Series B in September 2025, bringing total funding to approximately $35.6M.
+Plantd is an Oxford, North Carolina-based company founded in 2021 that cultivates fast-growing perennial Arundo donax grass and manufactures it into carbon-negative structural building panels as drop-in replacements for OSB/plywood. Plantd's structural panels retain 80% of the atmospheric carbon dioxide captured in the field, which is then locked away inside the walls and roofs of new homes. The company raised a $22 million Series B in September 2025, following $20.6 million previously raised, doubling its valuation since the Series A.
 
 ![Plantd Materials website](/screenshots/plantd-materials.png)
 
@@ -33,6 +33,7 @@ Plantd is an Oxford, North Carolina-based company founded in 2021 that cultivate
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.plantdmaterials.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.ncbiotech.org/news/plantd-raises-22m-develop-green-building-materials))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.ncbiotech.org/news/plantd-raises-22m-develop-green-building-materials))

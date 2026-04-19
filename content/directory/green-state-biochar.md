@@ -2,7 +2,7 @@
 title: "Green State Biochar"
 layout: "single"
 type: "directory"
-description: "Green State Biochar is a small family-run biochar producer in Greensboro Bend, Vermont, founded by Roger and Donna Pion and Luke Persons. They produce biochar"
+description: "Small-scale pyrolysis of locally sourced waste wood into biochar, sold as soil amendment and deployed in on-farm filtration units to capture phosphorus and other runoff contaminants."
 url: "/directory/green-state-biochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -19,13 +19,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Green State Biochar is a small family-run biochar producer in Greensboro Bend, Vermont, founded by Roger and Donna Pion and Luke Persons. They produce biochar via pyrolysis from locally sourced waste wood purchased from Northeast Kingdom sawmills, selling it for soil amendment and using it in on-farm filtration systems for manure runoff and phosphorus capture. Production is bench-scale (hundreds of pounds per day) and the firm has not issued registry-tracked CDR credits.
+Green State Biochar is a Vermont-based company in Greensboro Bend founded by Roger and Donna Pion and Luke Persons, producing biochar from wood waste purchased at local Northeast Kingdom sawmills. Their machine produces roughly 450 pounds of biochar in a 7-hour period, which they use in on-farm filtration units to prevent manure-pit runoff and sell directly to consumers, farmers and researchers. The company operates at bench scale and is not listed in major CDR registries.
 
 ![Green State Biochar website](/screenshots/green-state-biochar.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://greenstatebiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://greenstatebiochar.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://greenstatebiochar.com/newsroom/))

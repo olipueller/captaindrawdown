@@ -2,7 +2,7 @@
 title: "ClimateSeed"
 layout: "single"
 type: "directory"
-description: "ClimateSeed is a France-based digital marketplace that connects companies with voluntary carbon market projects (both avoidance and removal), offering project"
+description: "B2B digital marketplace and carbon accounting platform (GEMS) that brokers voluntary carbon credits from vetted avoidance and removal projects."
 url: "/directory/climateseed/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

@@ -2,7 +2,7 @@
 title: "Carbon Gap"
 layout: "single"
 type: "directory"
-description: "Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and research NGO, headquartered in the UK with staff also in Belgium and France. Its"
+description: "Non-profit advocacy and research NGO that shapes EU and national CDR policy, produces policy trackers, funding databases, and country readiness assessments — it does not physically remove CO2."
 url: "/directory/carbon-gap/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

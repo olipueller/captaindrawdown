@@ -2,10 +2,10 @@
 title: "Woodgas Pyrolytics Inc"
 layout: "single"
 type: "directory"
-description: "Woodgas Pyrolytics, Inc. is an Illinois-based small company founded and led by Dr. Paul S. Anderson (\"Dr TLUD\") that develops and disseminates small- and"
+description: "Designs and disseminates low-cost small/medium-scale TLUD gasifier cookstoves and RoCC (Rotatable Covered Cavity) kilns for pyrolytic biochar production."
 url: "/directory/woodgas-pyrolytics-inc/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,19 +14,20 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://woodgas.com/" target="_blank" rel="noopener">https://woodgas.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Woodgas Pyrolytics, Inc. is an Illinois-based small company founded and led by Dr. Paul S. Anderson ("Dr TLUD") that develops and disseminates small- and medium-scale biomass pyrolysis technology, notably the patented Rotatable Covered Cavity (RoCC) kiln, for biochar production and carbon sequestration. The company supports deployments globally, particularly in Africa, Asia, and Latin America, combining clean cookstove/micro-gasification with biochar-based CDR. It is essentially a one-principal technology-provider / consultancy operation rather than a large CDR producer.
+Woodgas Pyrolytics, Inc. is an Illinois-based small company led by Dr. Paul S. Anderson ("Dr TLUD") that develops and disseminates small- and medium-scale biomass pyrolysis technology, including the patented RoCC (Rotatable Covered Cavity) kiln for biochar production. The company supports deployments globally, particularly in Africa, Asia, and Latin America, with biochar used for carbon sequestration and soil amendment.
 
 ![Woodgas Pyrolytics Inc website](/screenshots/woodgas-pyrolytics-inc.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://woodgas.com/))
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://woodgas.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://woodgas.com ([source](https://www.cdr.fyi/supplier/woodgas-pyrolytics-inc))

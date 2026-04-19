@@ -2,7 +2,7 @@
 title: "Regional Voluntary Carbon Market Company"
 layout: "single"
 type: "directory"
-description: "The Regional Voluntary Carbon Market Company (RVCMC/VCM) is a Riyadh-based carbon credit exchange and auction platform established in October 2022 as a joint"
+description: "Operates a voluntary carbon credit exchange/auction platform (technology provided by Xpansiv) trading CORSIA-eligible and Verra/GCC-registered credits across MENA and globally."
 url: "/directory/regional-voluntary-carbon-market-company/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

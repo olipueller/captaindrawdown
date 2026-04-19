@@ -2,7 +2,7 @@
 title: "Char2Cool"
 layout: "single"
 type: "directory"
-description: "Char2Cool e.V. is a registered German non-profit association based in Reisbach, Bavaria, that works with local partners in Africa (Nigeria, Ghana, Kenya,"
+description: "Char2Cool supports local entrepreneurs in Africa and Peru in using a low-tech C2C-Kiln to pyrolyze harvested invasive water hyacinths into biochar, which is applied as a soil amendment and sold as"
 url: "/directory/char2cool/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,19 +13,20 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://char2cool.org" target="_blank" rel="noopener">https://char2cool.org</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Char2Cool e.V. is a registered German non-profit association based in Reisbach, Bavaria, that works with local partners in Africa (Nigeria, Ghana, Kenya, Uganda, Ethiopia) and Peru to harvest invasive water hyacinths and carbonize them into biochar using a low-tech C2C-Kiln. The biochar is applied as a soil amendment, and the organization sells CO2 compensation certificates based on verified carbon savings. They operate a decentralized model supporting local entrepreneurs rather than centralized production.
+Char2Cool e.V. is a registered German non-profit association based in Reisbach, Bavaria, that partners with local entrepreneurs in Nigeria, Ghana, Kenya, Uganda, Ethiopia and Peru to convert harvested invasive water hyacinths into biochar using a frugal low-tech kiln. The biochar is sold locally as a soil conditioner, and the organisation sells CO2 compensation certificates based on the resulting carbon sink. It operates on a small scale with a focus on community-level, decentralized production.
 
 ![Char2Cool website](/screenshots/char2cool.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://char2cool.org/the-project/?lang=en))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://char2cool.org/?lang=en))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://char2cool.org/?lang=en))

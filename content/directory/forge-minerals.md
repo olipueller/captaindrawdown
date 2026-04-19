@@ -2,7 +2,7 @@
 title: "Forge Minerals"
 layout: "single"
 type: "directory"
-description: "Forge Minerals is an Edinburgh-based startup founded in 2024 that converts waste CO2 into high-purity carbonate minerals, initially magnesium carbonate, using"
+description: "Low-energy continuous reactor that converts waste CO2 into high-purity carbonate minerals (starting with magnesium carbonate) for use in flame retardants, pharmaceuticals, and supplements,"
 url: "/directory/forge-minerals/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -22,13 +22,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Forge Minerals is an Edinburgh-based startup founded in 2024 that converts waste CO2 into high-purity carbonate minerals, initially magnesium carbonate, using a low-energy reactor process. The resulting products target existing markets (flame retardants, pharmaceuticals, supplements) while permanently locking CO2 into stable mineral form. The company closed a £1M pre-seed round in early 2026 and opened its first lab at the Edinburgh Innovation Hub, collaborating with the University of Edinburgh's Applied Geosciences Lab.
+Forge Minerals is an Edinburgh-based deep-tech startup incorporated in June 2024 that converts waste CO2 into carbon-negative carbonate minerals via a proprietary reactor process, initially targeting magnesium carbonate markets. In early 2026 it closed a £1M pre-seed round co-led by Sustainable Ventures and The Conduit Impact Fund and opened its first laboratory as the inaugural tenant of the Edinburgh Innovation Hub. The company collaborates with the University of Edinburgh's Applied Geosciences Laboratory and is actively hiring.
 
 ![Forge Minerals website](/screenshots/forge-minerals.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.scottish-enterprise-mediacentre.com/news/forge-minerals-completes-gbp-1m-pre-seed-funding-round-and-opens-first-laboratory-in-edinburgh))
 - **2026-04-19** — merged 1 duplicate(s): Forge Minerals Limited
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=review_needed liveliness=🟢 Active ([source](https://forgeminerals.com))

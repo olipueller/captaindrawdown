@@ -2,7 +2,7 @@
 title: "Coastal Carbon"
 layout: "single"
 type: "directory"
-description: "Coastal Carbon is a Canadian startup that uses AI and remote sensing to verify and monitor blue carbon projects (mangroves, seagrass, seaweed) globally. The"
+description: "AI and remote-sensing platform that quantifies and verifies carbon stocks in blue-carbon ecosystems (mangroves, seagrass, seaweed) for MRV of carbon credits."
 url: "/directory/coastal-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

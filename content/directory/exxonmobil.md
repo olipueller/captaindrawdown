@@ -2,7 +2,7 @@
 title: "ExxonMobil"
 layout: "single"
 type: "directory"
-description: "ExxonMobil is a major integrated oil and gas company whose Low Carbon Solutions division operates a proprietary solid-sorbent DAC pilot at its Baytown, Texas"
+description: "Proprietary solid-sorbent direct air capture pilot at Baytown, Texas, plus a U.S. Gulf Coast CO2 pipeline and geologic storage network used primarily for industrial point-source CCS."
 url: "/directory/exxonmobil/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -11,19 +11,19 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>DAC</td></tr>
-  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://lowcarbon.exxonmobil.com/" target="_blank" rel="noopener">https://lowcarbon.exxonmobil.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exxonmobil/" target="_blank" rel="noopener">exxonmobil — 3,743,535 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
   <tr><th>Employees</th><td>~68441 (+10% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-ExxonMobil is a major integrated oil and gas company whose Low Carbon Solutions division operates a proprietary solid-sorbent DAC pilot at its Baytown, Texas manufacturing site, started up in February 2024 after ending its research partnership with Global Thermostat. The division also operates the largest CO2 pipeline network in the U.S. (acquired via Denbury in 2023) and has ~9 MTA of third-party point-source CCS contracts across the Gulf Coast, with its first commercial CCS operation (CF Industries, Louisiana) starting up in 2025. CEO Darren Woods has called DAC the "holy grail" of emissions technologies but has emphasized the need to cut costs from the current $600–$1,000/ton range.
+ExxonMobil is one of the world's largest integrated oil and gas companies. Its Low Carbon Solutions business segment runs a proprietary solid-sorbent direct air capture pilot at the Baytown, Texas complex and operates the largest CO2 pipeline network in the U.S. (acquired with Denbury in 2023), primarily serving point-source CCS customers like Calpine, Linde, Nucor, and CF Industries. DAC is a small R&D-stage activity inside a multinational energy major whose core business remains hydrocarbons.
 
 ![ExxonMobil website](/screenshots/exxonmobil.png)
 
@@ -33,6 +33,7 @@ ExxonMobil is a major integrated oil and gas company whose Low Carbon Solutions 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://lowcarbon.exxonmobil.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://corporate.exxonmobil.com/what-we-do/delivering-industrial-solutions/direct-air-capture-technology/insights-from-our-direct-air-capture-pilot))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://corporate.exxonmobil.com/what-we-do/delivering-industrial-solutions/direct-air-capture-technology))

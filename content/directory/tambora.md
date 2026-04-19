@@ -2,10 +2,10 @@
 title: "Tambora"
 layout: "single"
 type: "directory"
-description: "Tambora Carbon Removal (TCR) is an Indonesian CDR startup deploying Enhanced Rock Weathering and biochar in partnership with agribusinesses, mining companies,"
+description: "Deploys Enhanced Rock Weathering (crushed silicate rock dust) and biochar across Indonesian and Asia-Pacific agricultural and mining lands to remove CO2 and generate carbon credits."
 url: "/directory/tambora/"
 pathway: "Enhanced Weathering"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Indonesia</td></tr>
   <tr><th>Website</th><td><a href="https://www.tambora.asia" target="_blank" rel="noopener">https://www.tambora.asia</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tamboracdr/" target="_blank" rel="noopener">tamboracdr — 137 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Tambora Carbon Removal (TCR) is an Indonesian CDR startup deploying Enhanced Rock Weathering and biochar in partnership with agribusinesses, mining companies, and smallholder farmers across Asia. In April 2025 the company signed an offtake agreement with a US-based asset manager for 4,400 ERW removal credits, confirming active commercial operations.
+Tambora Carbon Removal (TCR) is an Indonesian CDR startup scaling Enhanced Rock Weathering and biochar in partnership with agribusinesses, mining companies, and smallholder farmers across Asia to generate high-quality carbon credits while improving soil health. In April 2025 the company signed a CDR offtake agreement with a US-based asset management firm for 4,400 removal credits. The company's website is live and actively describes its ERW and biochar operations.
 
 ![Tambora website](/screenshots/tambora.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://www.tambora.asia))
 - **2026-04-19** — merged 1 duplicate(s): Tambora Carbon Removal
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://www.tambora.asia))

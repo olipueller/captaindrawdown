@@ -2,7 +2,7 @@
 title: "GreenBoost"
 layout: "single"
 type: "directory"
-description: "GreenBoost is an Italian consultancy offering carbon removal project due diligence, decarbonization advisory, and ESG services for investors and corporates."
+description: "Advisory/due-diligence services for CDR project selection and ESG/decarbonization strategy — not a physical removal operator."
 url: "/directory/greenboost/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"

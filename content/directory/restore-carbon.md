@@ -2,7 +2,7 @@
 title: "Restore Carbon"
 layout: "single"
 type: "directory"
-description: "Restore Carbon is a Netherlands-based CDR startup developing a patented peatland-based carbon removal method. The company injects plant cuttings below the"
+description: "Injects plant cuttings below the groundwater table in peat soils, where anaerobic waterlogged conditions prevent decomposition and lock carbon in place long-term."
 url: "/directory/restore-carbon/"
 pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
@@ -16,20 +16,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://restorecarbon.eu/" target="_blank" rel="noopener">https://restorecarbon.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/re-store-carbon/" target="_blank" rel="noopener">re-store-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Restore Carbon is a Netherlands-based CDR startup developing a patented peatland-based carbon removal method. The company injects plant cuttings below the groundwater table in peat soils, where plant residues do not decompose, creating permanent CO₂ storage while restoring peatland ecosystems. It targets carbon removal costs below $100/ton by 2030.
+Restore Carbon is a Netherlands-based CDR startup developing a patented peatland-based carbon removal method that stores plant biomass below the peatland water table, where anaerobic conditions prevent decomposition. The company targets permanent CO₂ removal while restoring peatland ecosystems and is partnering with research institutions (including in Ireland) to validate the approach.
 
 ![Restore Carbon website](/screenshots/restore-carbon.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://restorecarbon.eu/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://restorecarbon.eu/))

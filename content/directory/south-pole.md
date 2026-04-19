@@ -2,7 +2,7 @@
 title: "South Pole"
 layout: "single"
 type: "directory"
-description: "South Pole is a Zurich-based climate consultancy and carbon project developer founded in 2006. It advises corporates on net-zero strategies, develops and"
+description: "Carbon project developer and climate consultancy that originates, certifies, and trades carbon credits (mostly avoidance + nature-based) and provides net-zero advisory services."
 url: "/directory/south-pole/"
 pathway: "Afforestation"
 liveliness: "🟡 Moderate"

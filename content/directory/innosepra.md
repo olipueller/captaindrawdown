@@ -2,10 +2,10 @@
 title: "InnoSepra"
 layout: "single"
 type: "directory"
-description: "InnoSepra LLC, founded in 2007 by Dr. Ravi Jain and headquartered in Middlesex, New Jersey, develops physical-sorbent-based technologies for Direct Air"
+description: "Develops physical-sorbent-based DAC and post-combustion CO2 capture processes targeting sub-4 GJ/tonne energy consumption, demonstrated at bench/pilot scale under multiple DOE SBIR and NETL awards."
 url: "/directory/innosepra/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,20 +16,21 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.innosepra.com/" target="_blank" rel="noopener">https://www.innosepra.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/innosepra/" target="_blank" rel="noopener">innosepra — 11 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-InnoSepra LLC, founded in 2007 by Dr. Ravi Jain and headquartered in Middlesex, New Jersey, develops physical-sorbent-based technologies for Direct Air Capture, post-combustion CO2 capture, flue-gas purification, and renewable natural gas upgrading. The company has been advancing its sorbent DAC process under multiple DOE SBIR/NETL awards (e.g. SC0020740, FE0031953) and as of late 2024 was testing its second-generation post-combustion capture technology at Technology Centre Mongstad (TCM) in Norway.
+InnoSepra LLC is a New Jersey-based R&D company founded by Dr. Ravi Jain that develops physical-sorbent-based gas separation technologies for Direct Air Capture, post-combustion CO2 capture, flue gas purification, and renewable natural gas upgrading. The company has received multiple DOE SBIR/NETL awards for its transformational sorbent-based DAC process and tested post-combustion capture at the Technology Centre Mongstad (TCM) in Norway in 2024. It remains a small, grant-funded technology developer rather than a commercial-scale CDR operator.
 
 ![InnoSepra website](/screenshots/innosepra.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.innosepra.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.innosepra.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://nationalcarboncapturecenter.com/developers-direct-air-capture-technologies/))

@@ -2,7 +2,7 @@
 title: "goodcarbon"
 layout: "single"
 type: "directory"
-description: "goodcarbon is a Berlin-based platform founded in 2021 by Jérôme Cochet and David Diallo that helps companies build and manage carbon credit portfolios sourced"
+description: "Marketplace/advisory platform curating and managing portfolios of nature-based carbon credits (reforestation, regenerative agriculture, wetlands) with a proprietary quality assessment framework."
 url: "/directory/goodcarbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

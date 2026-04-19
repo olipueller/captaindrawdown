@@ -2,7 +2,7 @@
 title: "Metzler"
 layout: "single"
 type: "directory"
-description: "Metzler Biochar is a division of Metzler Forest Products LLC in Reedsville, Pennsylvania, producing wood-based biochar from local hardwood sawmill co-products."
+description: "Pyrolyzes mixed hardwood sawmill residues into high-carbon biochar (up to ~90% C) sold for agriculture, stormwater management, livestock bedding and soil amendment uses."
 url: "/directory/metzler/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,19 +13,20 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.metzlerbiochar.com/" target="_blank" rel="noopener">https://www.metzlerbiochar.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Metzler Biochar is a division of Metzler Forest Products LLC in Reedsville, Pennsylvania, producing wood-based biochar from local hardwood sawmill co-products. The company sells multiple biochar grades (pureCHAR, agriCHAR, primaryCHAR) along with biochar-amended compost and soil blends for agriculture, stormwater management, and livestock uses, and recovers process heat to displace propane at its firewood heat-treating facility.
+Metzler Biochar is a biochar product line of Metzler Forest Products LLC, a Pennsylvania-based timber harvesting, forestry services, land clearing, mulch, compost and soil company. The biochar operation uses local hardwood sawmill co-products as feedstock, sells multiple grades (pureCHAR, agriCHAR, primaryCHAR) plus biochar-amended compost/soil blends, and recovers process heat to offset propane at its firewood heat-treating facility.
 
 ![Metzler website](/screenshots/metzler.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.metzlerbiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.metzlerbiochar.com/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.metzlerbiochar.com/))

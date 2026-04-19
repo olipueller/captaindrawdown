@@ -2,7 +2,7 @@
 title: "Öresundskraft"
 layout: "single"
 type: "directory"
-description: "Öresundskraft is Sweden's first municipally owned energy company to secure an investment decision for a CCS project, a first-of-its-kind Swedish initiative"
+description: "Amine-based post-combustion carbon capture on a waste-fired combined heat and power plant, with CO2 to be transported and permanently stored geologically under the North Sea; biogenic fraction of"
 url: "/directory/öresundskraft/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -16,12 +16,12 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oresundskraft-ab/" target="_blank" rel="noopener">oresundskraft-ab — 11,144 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>Employees</th><td>~428 (+9% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Öresundskraft is Sweden's first municipally owned energy company to secure an investment decision for a CCS project, a first-of-its-kind Swedish initiative applying CCS technology to a waste-fired CHP facility at Filbornaverket in Helsingborg. The roughly SEK 3 billion facility will capture 200,000 tonnes of CO2 annually and is targeted to be operational by 2028. The project is backed by 228 million SEK from the Swedish Energy Agency plus approximately 600 million SEK from the EU Innovation Fund, and roughly half of the captured CO₂ is biogenic, producing BECCS removals.
+Öresundskraft is a municipal energy utility owned by the City of Helsingborg, Sweden, providing district heating, electricity, biogas, fiber and energy services to around 100,000 customers. The company is building a ~SEK 3 billion CCS facility (Innozhero project) at its Filbornaverket waste-fired CHP plant, designed to capture 200,000 tonnes of CO2 annually (roughly half biogenic) with target operation in 2028. CCS is an adjacent add-on to the core utility business rather than the primary activity.
 
 ![Öresundskraft website](/screenshots/öresundskraft.png)
 
@@ -31,6 +31,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://bioenergyinternational.com/oresundskraft-secures-sek-228m-grant-for-filbornaverket-ccs-project/))
 - **2026-04-19** — merged 1 duplicate(s): Öresundskraft AB
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))

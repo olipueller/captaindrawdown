@@ -2,10 +2,10 @@
 title: "Ökologische Klärschlammtrocknung Offenhausen GmbH"
 layout: "single"
 type: "directory"
-description: "Ökologische Klärschlammtrocknung Offenhausen GmbH is a German farm-based operator in Offenhausen (Bavaria) that runs a biogas plant alongside a sewage"
+description: "Two wood-chip pyrolysis units producing biochar whose waste heat dries sewage sludge and digestate at an adjacent biogas plant, replacing fossil LPG burners."
 url: "/directory/ökologische-klärschlammtrocknung-offenhausen-gmbh/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,20 +15,21 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/" target="_blank" rel="noopener">https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/egrw/" target="_blank" rel="noopener">egrw</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
-  <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Ökologische Klärschlammtrocknung Offenhausen GmbH is a German farm-based operator in Offenhausen (Bavaria) that runs a biogas plant alongside a sewage sludge/digestate drying facility and two biochar pyrolysis units producing biochar from wood chips (~3,000 tonnes DM/year). The pyrolysis units replaced fossil LPG burners for drying and the biochar output is registered under the Global Biochar C-Sink Standard (project GCSP1126, PDD dated 28.04.2025).
+Ökologische Klärschlammtrocknung Offenhausen GmbH is a Bavarian company founded in 2019 whose registered purpose is operating a sewage sludge and digestate drying plant at an existing biogas facility in Offenhausen. They added two wood-chip pyrolysis units (~3,000 t DM/year) that replaced fossil LPG burners for the drying process, and register the resulting biochar as a carbon sink under the Global Biochar C-Sink standard (project GCSP1126, April 2025).
 
 ![Ökologische Klärschlammtrocknung Offenhausen GmbH website](/screenshots/ökologische-klärschlammtrocknung-offenhausen-gmbh.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
