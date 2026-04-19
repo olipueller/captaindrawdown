@@ -2,25 +2,44 @@
 title: "First Climate"
 layout: "single"
 type: "directory"
-description: ""
+description: "First Climate is a 25-year-old German/Swiss carbon management services firm that develops, finances, sources, certifies, and markets verified emission reduction"
 url: "/directory/first-climate/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>BiCRS (Other)</td></tr>
-  <tr><td><strong>Country</strong></td><td>Germany</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.firstclimate.com/?lang=en">https://www.firstclimate.com/?lang=en</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~89 (-18% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>17,073</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Secondary pathways:** Afforestation
+**Method:** BiCRS (Other)
+**Country:** Germany
+**Website:** [https://www.firstclimate.com/?lang=en](https://www.firstclimate.com/?lang=en)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~89 (-18% YoY)
+**LinkedIn Followers:** 17,073
+**CDR Focus:** ecosystem
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-First Climate is a global provider of carbon management and green energy services. They support companies in achieving climate goals through climate strategy, carbon offsets, and green energy.
+First Climate is a 25-year-old German/Swiss carbon management services firm that develops, finances, sources, certifies, and markets verified emission reduction and carbon removal credits (especially biochar) from partner projects worldwide, alongside climate strategy consulting and green energy procurement. They do not operate removal technology themselves — e.g., the CARBONITY biochar plant in Canada uses Airex Energy pyrolysis technology, with First Climate acting as the offtake/certification/marketing partner. CDR project development is a core part of their business, placing them in the CDR ecosystem as a developer/broker rather than a technology supplier.
 
-![First Climate website](/images/directory/first-climate.jpg)
+![First Climate website](/screenshots/v1-thumbnails/first-climate.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.firstclimate.com/carbon-removals?lang=en))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/first-climate/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,25 +2,43 @@
 title: "BAIE Minerals"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"5-15,5-17,5-18,5-19\\">BAIE Minerals is a Canadian startup extracting critical minerals from mining waste and using what's left over to draw CO2 from"
 url: "/directory/baie-minerals/"
+pathway: "Mineralization"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Mineralization (Other)</td></tr>
-  <tr><td><strong>Country</strong></td><td>Canada</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.baieminerals.com/">https://www.baieminerals.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~4 (+100% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>3,532</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Mineralization
+**Method:** Mineralization (Other)
+**Country:** Canada
+**Website:** [https://www.baieminerals.com/](https://www.baieminerals.com/)
+**Status:** 🟢 Active (score: 78/100)
+**Employees:** ~4 (+100% YoY)
+**LinkedIn Followers:** 3,532
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-BAIE Minerals specializes in upcycling mine waste to produce net-zero carbon minerals and sequester CO2 through carbon mineralization. They transform mine waste into decarbonized cement and concrete.
+<cite index="5-15,5-17,5-18,5-19">BAIE Minerals is a Canadian startup extracting critical minerals from mining waste and using what's left over to draw CO2 from the atmosphere, by leveraging magnesium-rich ultramafic tailings that react with atmospheric CO2 to form magnesium carbonate and permanently sequester carbon.</cite> <cite index="5-8,5-9,5-10">Their process produces high-purity magnesium oxide that absorbs 1.1 tons of CO2 per ton of material within hours; the pilot facility currently processes around 200 pounds of tailings an hour and the company aims to build a full-scale facility in 2027.</cite> Business model combines carbon removal credits with sales of extracted minerals for cement and fertilizer.
 
-![BAIE Minerals website](/images/directory/baie-minerals.jpg)
+![BAIE Minerals website](/screenshots/v1-thumbnails/baie-minerals.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.baieminerals.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/baie-minerals-inc/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,25 +2,43 @@
 title: "Carbon Collect"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"10-3,10-4,10-5,10-6,10-7\\">Carbon Collect, formerly Silicon Kingdom Holdings Limited, specializes in carbon capture technology and offers the Mechan"
 url: "/directory/carbon-collect/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Solid Sorbent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>Ireland</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://carboncollect.com/">https://carboncollect.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~9 (+11% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>4,375</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Solid Sorbent)
+**Country:** Ireland
+**Website:** [https://carboncollect.com/](https://carboncollect.com/)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~9 (+11% YoY)
+**LinkedIn Followers:** 4,375
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Collect is a Direct Air Capture (DAC) company that develops scalable and cost-effective solutions for removing CO2 from the atmosphere using a low-temperature thermal vacuum swing system and engineered materials that mimic photosynthesis.
+<cite index="10-3,10-4,10-5,10-6,10-7">Carbon Collect, formerly Silicon Kingdom Holdings Limited, specializes in carbon capture technology and offers the MechanicalTree, a passive, scalable system designed to capture CO₂ from ambient air without energy-intensive processes; it was founded in 2018 and is based in Dublin, Ireland.</cite> <cite index="2-8,2-9">In 2025, Carbon Collect installed its Gen-II MechanicalTree™, which doubles CO₂ capture per cycle and uses lightweight, non-metallic, recyclable materials.</cite>
 
-![Carbon Collect website](/images/directory/carbon-collect.jpg)
+![Carbon Collect website](/screenshots/v1-thumbnails/carbon-collect.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carboncollect.com/mechanical-tree/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/silicon-kingdom-holdings/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,25 +2,46 @@
 title: "Bussme Biochar"
 layout: "single"
 type: "directory"
-description: ""
+description: "Bussme Biochar AB is a Swedish family-run biochar producer based in Svedala, Skåne, operating since 2020 and producing EBC-certified biochar primarily for agric"
 url: "/directory/bussme-biochar/"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Sweden</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://biochar-zero.com/company/bussme-biochar/">https://biochar-zero.com/company/bussme-biochar/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~2 (-33% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>4,479</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Sweden
+**Website:** [https://biochar-zero.com/company/bussme-biochar/](https://biochar-zero.com/company/bussme-biochar/)
+**Status:** 🟡 Moderate (score: 60/100)
+**Employees:** ~2 (-33% YoY)
+**LinkedIn Followers:** 4,479
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-Bussme Biochar is a Swedish company that produces biochar-based products, primarily focusing on agriculture and soil production, and has recently been involved in testing biochar production from garden waste.
+Bussme Biochar AB is a Swedish family-run biochar producer based in Svedala, Skåne, operating since 2020 and producing EBC-certified biochar primarily for agriculture and soil applications. The company is registered on Puro.earth (project Bussme-01-Svedala) with 2,332 CORCs issued and 1,811 retired under the Biochar 2022 methodology, with a crediting period running through 31 Aug 2025. Its sister company Bussme Energy divested district-heating plants to Solör Bioenergi in 2020 and 2024, but the Biochar AB entity remains a distinct operating biochar producer.
 
-![Bussme Biochar website](/images/directory/bussme-biochar.jpg)
+![Bussme Biochar website](/screenshots/v1-thumbnails/bussme-biochar.jpg)
+
+## Registry Memberships
+
+- Puro.earth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://registry.puro.earth/projects/665890))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

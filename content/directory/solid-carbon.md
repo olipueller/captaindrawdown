@@ -2,20 +2,40 @@
 title: "Solid Carbon"
 layout: "single"
 type: "directory"
-description: ""
+description: "Solid Carbon is a Canadian research initiative led by Ocean Networks Canada (University of Victoria) developing an integrated offshore CDR system combining Dire"
 url: "/directory/solid-carbon/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Other/Undisclosed)</td></tr>
-  <tr><td><strong>Country</strong></td><td>Canada</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://solidcarbon.ca/">https://solidcarbon.ca/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-</table>
+**Pathway:** DAC
+**Secondary pathways:** Mineralization
+**Method:** DAC (Other/Undisclosed)
+**Country:** Canada
+**Website:** [https://solidcarbon.ca/](https://solidcarbon.ca/)
+**Status:** 🟢 Active (score: 80/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-Solid Carbon aims to remove CO2 from the atmosphere via Direct Air Capture (DAC) and then inject it below the sea floor where it reacts with ocean basalt and mineralizes into rock. They integrate six separate, proven technologies into a fully integrated system.
+Solid Carbon is a Canadian research initiative led by Ocean Networks Canada (University of Victoria) developing an integrated offshore CDR system combining Direct Air Capture on floating platforms with injection of CO2 into sub-seafloor ocean basalt for permanent mineralization. In 2025 the project was awarded $24M over six years through the Government of Canada's New Frontiers in Research Fund to advance from feasibility study to demonstration. It is a research/demonstration-stage supplier rather than a commercial credit vendor.
 
-![Solid Carbon website](/images/directory/solid-carbon.jpg)
+![Solid Carbon website](/screenshots/v1-thumbnails/solid-carbon.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://solidcarbon.ca/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

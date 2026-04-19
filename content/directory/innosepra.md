@@ -2,25 +2,44 @@
 title: "InnoSepra"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"16-7,16-3,16-4\\">InnoSepra, founded in 2007 by Dr. Ravi Jain and based in Middlesex, NJ, is testing its second-generation post-combustion carbon cap"
 url: "/directory/innosepra/"
+pathway: "DAC"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Solid Sorbent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.innosepra.com/dac-main">https://www.innosepra.com/dac-main</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~1</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>9</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** DAC
+**Secondary pathways:** Enabling Tech
+**Method:** DAC (Solid Sorbent)
+**Country:** United States
+**Website:** [https://www.innosepra.com/dac-main](https://www.innosepra.com/dac-main)
+**Status:** 🟡 Moderate (score: 60/100)
+**Employees:** ~1
+**LinkedIn Followers:** 9
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-InnoSepra is a US-based company developing Direct Air Capture (DAC) technology using novel solid sorbent materials to reduce the energy and cost of CO2 capture.
+<cite index="16-7,16-3,16-4">InnoSepra, founded in 2007 by Dr. Ravi Jain and based in Middlesex, NJ, is testing its second-generation post-combustion carbon capture technology at Technology Centre Mongstad (TCM), with partial funding from the US Department of Energy.</cite> The company has received multiple DOE SBIR awards to develop a sorbent-based Direct Air Capture process, <cite index="2-1">advancing a DAC process using sorbent materials with high CO2 capacities and low regeneration energy requirements</cite>. It remains an R&D-stage DAC technology developer and therefore qualifies as a supplier.
 
-![InnoSepra website](/images/directory/innosepra.jpg)
+![InnoSepra website](/screenshots/v1-thumbnails/innosepra.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.innosepra.com/dac-main))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/innosepra/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

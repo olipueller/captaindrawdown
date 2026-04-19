@@ -2,18 +2,37 @@
 title: "Southwest Biochar Products"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"4-1,4-2\\">Southwest Biochar Products, operating since 2022, scaled up in fall 2024 from a single reactor to a 5-reactor system with capacity to prod"
 url: "/directory/southwest-biochar-products/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://sowbiochar.com/">https://sowbiochar.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟡 Moderate (score: 65/100)</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** United States
+**Website:** [https://sowbiochar.com/](https://sowbiochar.com/)
+**Status:** 🟢 Active (score: 80/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-Southwest Biochar Products is a company based in Eagar, AZ, that specializes in producing carbon-negative biochar from woodchips using pyrolysis reactors.
+<cite index="4-1,4-2">Southwest Biochar Products, operating since 2022, scaled up in fall 2024 from a single reactor to a 5-reactor system with capacity to produce over 12,000 yards per year.</cite> <cite index="4-9,4-10,4-11">Feedstock is sourced entirely from National Forest thinning projects, using biomass that would otherwise be burned to reduce wildfire risk.</cite> The company sells biochar as a soil amendment and partners with 3Degrees on carbon credit offtake.
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sowbiochar.com/about/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

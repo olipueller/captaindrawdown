@@ -2,20 +2,39 @@
 title: "ReCarber"
 layout: "single"
 type: "directory"
-description: ""
+description: "ReCarber is a Swedish startup (founded 2024, based in Stockholm) that commercially develops, finances, and brings to market BECCS/bio-CCS projects in the Nordic"
 url: "/directory/recarber/"
+pathway: "BECCS"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>BECCS</td></tr>
-  <tr><td><strong>Country</strong></td><td>Sweden</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://recarber.com/">https://recarber.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 85/100)</td></tr>
-</table>
+**Pathway:** BECCS
+**Method:** BECCS
+**Country:** Sweden
+**Website:** [https://recarber.com/](https://recarber.com/)
+**Status:** 🟢 Active (score: 85/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-ReCarber is a Swedish company that commercializes and finances Bioenergy with Carbon Capture and Storage (BECCS) projects, matching emitters with off-takers and orchestrating financing to accelerate carbon removal.
+ReCarber is a Swedish startup (founded 2024, based in Stockholm) that commercially develops, finances, and brings to market BECCS/bio-CCS projects in the Nordics, partnering with biomass-fired heat and power operators like Skellefteå Kraft. The company raised SEK 60M (~$5.3M) seed in February 2025 from Luminar Ventures, Spintop Ventures, and Course Corrected, and operates a digital platform that matches CDR suppliers with buyers and orchestrates project financing.
 
-![ReCarber website](/images/directory/recarber.jpg)
+![ReCarber website](/screenshots/v1-thumbnails/recarber.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://recarber.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

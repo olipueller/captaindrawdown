@@ -2,25 +2,44 @@
 title: "Húmica"
 layout: "single"
 type: "directory"
-description: ""
+description: "Húmica is a Mexican biotech startup founded in 2019–2020 that works with smallholder farmers (with a focus on women producers in Puebla, Veracruz, Tabasco, and "
 url: "/directory/húmica/"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Mexico</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://humica.mx/">https://humica.mx/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~5 (+25% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>260</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Secondary pathways:** Afforestation
+**Method:** Biochar
+**Country:** Mexico
+**Website:** [https://humica.mx/](https://humica.mx/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~5 (+25% YoY)
+**LinkedIn Followers:** 260
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Húmica is a Mexican company that removes carbon from the atmosphere by transforming it into biochar-based biofertilizers for agricultural soils, while also promoting regenerative farming practices.
+Húmica is a Mexican biotech startup founded in 2019–2020 that works with smallholder farmers (with a focus on women producers in Puebla, Veracruz, Tabasco, and Oaxaca) to sequester carbon through biochar production and regenerative agroforestry. The company diagnoses soils, formulates site-specific biochar recipes, and helps farmers access carbon credit markets while commercializing their crops.
 
-![Húmica website](/images/directory/h-mica.jpg)
+![Húmica website](/screenshots/v1-thumbnails/h-mica.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://humica.mx/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/h%c3%bamica/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

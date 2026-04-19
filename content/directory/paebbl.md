@@ -2,20 +2,43 @@
 title: "Paebbl"
 layout: "single"
 type: "directory"
-description: ""
+description: "Paebbl is a Dutch-Nordic mineralization company that converts captured CO₂ into a stable mineral powder used as a supplementary cementitious material (SCM) for "
 url: "/directory/paebbl/"
+pathway: "Mineralization"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Mineralization (Other)</td></tr>
-  <tr><td><strong>Country</strong></td><td>Netherlands</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://paebbl.com/">https://paebbl.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 90/100)</td></tr>
-</table>
+**Pathway:** Mineralization
+**Method:** Mineralization (Other)
+**Country:** Netherlands
+**Website:** [https://paebbl.com/](https://paebbl.com/)
+**Status:** 🟢 Active (score: 92/100)
+**Open roles on cdrjobs:** 1
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Paebbl is a mineralization company that converts captured CO2 into carbon-storing Supplementary Cementitious Material (SCM) and other carbon-negative building materials through accelerated mineralization, mimicking natural geological processes.
+Paebbl is a Dutch-Nordic mineralization company that converts captured CO₂ into a stable mineral powder used as a supplementary cementitious material (SCM) for the construction industry. In March 2025 the company launched its continuous demo plant in Rotterdam, claimed as a world-first for continuous CO₂ mineralization at demo scale, and plans a commercial plant by 2027.
 
-![Paebbl website](/images/directory/paebbl.jpg)
+![Paebbl website](/screenshots/v1-thumbnails/paebbl.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/technology))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

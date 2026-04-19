@@ -2,20 +2,38 @@
 title: "ÖkoMAXX Energiewerke"
 layout: "single"
 type: "directory"
-description: ""
+description: "ÖkoMAXX Energiewerke GmbH operates biomass power plants for the generation of electricity and heat. While the company is listed in a biochar registry, the searc"
 url: "/directory/ökomaxx-energiewerke/"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Austria</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://global-c-registry.org/project-view/1127">https://global-c-registry.org/project-view/1127</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟡 Moderate (score: 55/100)</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Austria
+**Website:** [https://global-c-registry.org/project-view/1127](https://global-c-registry.org/project-view/1127)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
 ÖkoMAXX Energiewerke GmbH operates biomass power plants for the generation of electricity and heat. While the company is listed in a biochar registry, the search results primarily indicate its core business is biomass energy production, not explicitly biochar CDR.
 
-![ÖkoMAXX Energiewerke website](/images/directory/komaxx-energiewerke.jpg)
+![ÖkoMAXX Energiewerke website](/screenshots/v1-thumbnails/komaxx-energiewerke.jpg)
+
+
+## History
+
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

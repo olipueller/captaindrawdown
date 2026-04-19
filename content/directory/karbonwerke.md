@@ -2,23 +2,41 @@
 title: "Karbonwerke"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"11-1,11-2,11-3,11-4\\">Karbonwerke is a Swiss company that captures and stores CO2 from biogenic sources — biogas plants and biorefineries that relea"
 url: "/directory/karbonwerke/"
+pathway: "BECCS"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>BECCS</td></tr>
-  <tr><td><strong>Country</strong></td><td>Switzerland</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.karbonwerke.com/">https://www.karbonwerke.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~2 (-33% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>199</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** BECCS
+**Method:** BECCS
+**Country:** Switzerland
+**Website:** [https://www.karbonwerke.com/](https://www.karbonwerke.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2 (-33% YoY)
+**LinkedIn Followers:** 199
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Karbonwerke captures and stores CO2 from biogenic sources to provide negative emissions, offering carbon credits and long-term CO2 offtake. Their method is BECCS (Bioenergy with Carbon Capture and Storage).
+<cite index="11-1,11-2,11-3,11-4">Karbonwerke is a Swiss company that captures and stores CO2 from biogenic sources — biogas plants and biorefineries that release CO2 as a byproduct — to provide negative emissions.</cite> They offer carbon removal credits and long-term CO2 offtake to partner facilities, and also run a small advisory arm on CDR technologies.
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.karbonwerke.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/karbonwerkeinternational/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

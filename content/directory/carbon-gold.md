@@ -2,25 +2,43 @@
 title: "Carbon Gold"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"10-3\\">Carbon Gold was founded in 2007 by Craig Sams, founder of Green & Blacks Chocolate, and Dan Morrell, founder of the Carbon Neutral Company.</"
 url: "/directory/carbon-gold/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>United Kingdom</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.carbongold.com/">https://www.carbongold.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~9</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>1,631</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** United Kingdom
+**Website:** [https://www.carbongold.com/](https://www.carbongold.com/)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~9 (0% YoY)
+**LinkedIn Followers:** 1,631
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Gold is the UK's longest-established biochar company that produces and sells enriched biochar products for soil and non-soil applications to deliver durable carbon sequestration and improve soil health.
+<cite index="10-3">Carbon Gold was founded in 2007 by Craig Sams, founder of Green & Blacks Chocolate, and Dan Morrell, founder of the Carbon Neutral Company.</cite> The UK-based B Corp produces enriched biochar products (composts, fertilisers, soil improvers, tree care) that sequester carbon in soil while improving plant health. <cite index="8-1">Retail products have moved to Marshalls Garden</cite>, while the company continues trade sales directly.
 
-![Carbon Gold website](/images/directory/carbon-gold.jpg)
+![Carbon Gold website](/screenshots/v1-thumbnails/carbon-gold.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbongold.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbon-gold-ltd/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,18 +2,41 @@
 title: "Deepsink"
 layout: "single"
 type: "directory"
-description: ""
+description: "Deepsink is a UK-based fractional sales and commercialization service for engineered carbon dioxide removal projects, helping project developers connect with bu"
 url: "/directory/deepsink/"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>CDR Platform/Marketplace</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.deepsink.com/">https://www.deepsink.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🔴 Likely Dead</td></tr>
-</table>
+**Pathway:** Enabling Tech
+**Method:** CDR Platform/Marketplace
+**Country:** United States
+**Website:** [https://www.deepsink.com/](https://www.deepsink.com/)
+**Status:** 🟢 Active (score: 75/100)
+**Open roles on cdrjobs:** 1
+**CDR Focus:** ecosystem
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-No relevant search results were found for the specified CDR company 'Deepsink'. All results either refer to other entities with similar names (e.g., 'Deepsink Digital LLC', 'DEEPsink' blog platform, 'Deepsink Partners') or discuss general CDR topics without mentioning the company.
+Deepsink is a UK-based fractional sales and commercialization service for engineered carbon dioxide removal projects, helping project developers connect with buyers and market makers. The team (co-founder Oliver Erb, partnerships lead Oliver Grogono, and others) was active in 2025, including attending DeCarbon Tokyo 2025. The actual operating domain is deepsink.co.uk, not deepsink.com as listed in the DB snapshot.
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://deepsink.co.uk/about))
+- **2026-04-18** — backfilled from V1
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

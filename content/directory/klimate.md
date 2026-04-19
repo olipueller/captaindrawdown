@@ -2,20 +2,43 @@
 title: "Klimate"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"3-1,3-2\\">Klimate.co is a Copenhagen-based company founded in 2020 that specializes in carbon asset management, with a platform that enables busines"
 url: "/directory/klimate/"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>CDR Platform/Marketplace</td></tr>
-  <tr><td><strong>Country</strong></td><td>Denmark</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.klimate.co/">https://www.klimate.co/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 80/100)</td></tr>
-</table>
+**Pathway:** Enabling Tech
+**Method:** CDR Platform/Marketplace
+**Country:** Denmark
+**Website:** [https://www.klimate.co/](https://www.klimate.co/)
+**Status:** 🟢 Active (score: 90/100)
+**Open roles on cdrjobs:** 4
+**CDR Focus:** ecosystem
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Klimate is a CDR platform/marketplace that helps corporate buyers procure carbon removal credits by connecting them with carbon removal developers and assisting with sustainability planning and reporting.
+<cite index="3-1,3-2">Klimate.co is a Copenhagen-based company founded in 2020 that specializes in carbon asset management, with a platform that enables businesses to secure high-quality carbon removal solutions.</cite> <cite index="7-9,7-10">Klimate buys the removal of CO2 from the atmosphere on behalf of its clients through different removal projects and combines them into portfolios, with options for custom portfolios.</cite> They are a broker/marketplace rather than a technology developer, making them part of the CDR ecosystem.
 
-![Klimate website](/images/directory/klimate.jpg)
+![Klimate website](/screenshots/v1-thumbnails/klimate.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.klimate.co))
+- **2026-04-18** — backfilled from V1
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,20 +2,43 @@
 title: "Taking Root"
 layout: "single"
 type: "directory"
-description: ""
+description: "Taking Root is a Canadian project developer that partners with smallholder farmers (primarily in Nicaragua through its CommuniTree Carbon Program, certified und"
 url: "/directory/taking-root/"
+pathway: "Afforestation"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Afforestation/Reforestation</td></tr>
-  <tr><td><strong>Country</strong></td><td>Canada</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://takingroot.com/">https://takingroot.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 75/100)</td></tr>
-</table>
+**Pathway:** Afforestation
+**Method:** Afforestation/Reforestation
+**Country:** Canada
+**Website:** [https://takingroot.com/](https://takingroot.com/)
+**Status:** 🟢 Active (score: 80/100)
+**Open roles on cdrjobs:** 1
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Taking Root enables smallholder farmers to generate transparent and robust forest carbon removals through afforestation/reforestation, allowing them to get paid for growing trees. They have planted over 19 million trees since 2010.
+Taking Root is a Canadian project developer that partners with smallholder farmers (primarily in Nicaragua through its CommuniTree Carbon Program, certified under Plan Vivo) to restore forests and generate forest carbon removal credits. The company provides technology (FARM-TRACE platform/mobile app), MRV support, and handles project design, certification, and sale of removals.
 
-![Taking Root website](/images/directory/taking-root.jpg)
+![Taking Root website](/screenshots/v1-thumbnails/taking-root.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://takingroot.com/))
+- **2026-04-18** — backfilled from V1
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

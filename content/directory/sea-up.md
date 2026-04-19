@@ -2,20 +2,39 @@
 title: "Sea-Up"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"4-1,4-2\\">Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) is a US ocean CDR developer that pairs deep (450 m) upwelli"
 url: "/directory/sea-up/"
+pathway: "Ocean CDR"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Ocean Fertilization</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.sea-up.life/">https://www.sea-up.life/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟠 Suspect (score: 35/100)</td></tr>
-</table>
+**Pathway:** Ocean CDR
+**Method:** Ocean Fertilization
+**Country:** United States
+**Website:** [https://www.sea-up.life/](https://www.sea-up.life/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-No search results directly refer to the company Sea-Up. The provided search results discuss general CDR methods, funding trends in Southeast Asia, and other ocean-based CDR companies, but not Sea-Up specifically.
+<cite index="4-1,4-2">Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) is a US ocean CDR developer that pairs deep (450 m) upwelling with an equal-depth downwelling ribbon using wave energy to achieve carbon removal, sea-surface cooling, and sargassum suppression.</cite> <cite index="15-1,15-2,15-3">The company commercializes fractional "Sea-Shares" of its upwelling pumps rather than tons of CDR, measures ocean pH to confirm photosynthesis in real time, and has announced a first deployment off Bermuda.</cite> <cite index="13-8,13-9,13-10">Their planned deployment east of Bermuda, in partnership with the Bermuda Institute of Ocean Sciences (BIOS), was billed as the first open-ocean upwelling CDR project worldwide.</cite>
 
-![Sea-Up website](/images/directory/sea-up.jpg)
+![Sea-Up website](/screenshots/v1-thumbnails/sea-up.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.sea-up.life/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

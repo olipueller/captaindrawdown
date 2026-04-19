@@ -2,25 +2,42 @@
 title: "Advanced Cooling Technologies"
 layout: "single"
 type: "directory"
-description: ""
+description: "Advanced Cooling Technologies (ACT) is developing a novel acid/base ion-exchange direct air capture (DAC) process using a hydroxide-coated amine solid sorbent, "
 url: "/directory/advanced-cooling-technologies/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Solid Sorbent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.1-act.com/engineering-services/research-development/emerging-technology/">https://www.1-act.com/engineering-services/research-development/emerging-technology/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~185 (+7% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>5,634</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>division</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Solid Sorbent)
+**Country:** United States
+**Website:** [https://www.1-act.com/engineering-services/research-development/emerging-technology/](https://www.1-act.com/engineering-services/research-development/emerging-technology/)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~185 (+7% YoY)
+**LinkedIn Followers:** 5,634
+**CDR Focus:** division
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
 Advanced Cooling Technologies (ACT) is developing a novel acid/base ion-exchange direct air capture (DAC) process using a hydroxide-coated amine solid sorbent, which has demonstrated high CO₂ capture rates and low-temperature thermal regeneration.
 
-![Advanced Cooling Technologies website](/images/directory/advanced-cooling-technologies.jpg)
+![Advanced Cooling Technologies website](/screenshots/v1-thumbnails/advanced-cooling-technologies.jpg)
+
+
+## History
+
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/advanced-cooling-technologies/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

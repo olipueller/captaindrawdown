@@ -2,18 +2,42 @@
 title: "Carbon Direct"
 layout: "single"
 type: "directory"
-description: ""
+description: "Carbon Direct is a US-based carbon management firm combining a science advisory team with software to help large buyers procure, verify, and monitor high-qualit"
 url: "/directory/carbon-direct/"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>CDR Platform/Marketplace</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.carbondirect.com/">https://www.carbondirect.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-</table>
+**Pathway:** Enabling Tech
+**Method:** CDR Platform/Marketplace
+**Country:** United States
+**Website:** [https://www.carbondirect.com/](https://www.carbondirect.com/)
+**Status:** 🟢 Active (score: 85/100)
+**Open roles on cdrjobs:** 5
+**CDR Focus:** ecosystem
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Carbon Direct operates a science-backed carbon management platform and marketplace, offering solutions for emission reduction, removal, and compliance. They recently launched the CDR 2.0 framework to accelerate high-durability carbon dioxide removal projects.
+Carbon Direct is a US-based carbon management firm combining a science advisory team with software to help large buyers procure, verify, and monitor high-quality carbon removal and reduction credits. It does not physically remove CO2 itself but sits in the CDR ecosystem as a broker/advisor/diligence provider, working with Fortune 500 clients including Microsoft, Shopify, and Alaska Airlines. A sister firm, Carbon Direct Capital, invests growth equity in carbon management technologies.
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-direct.com/))
+- **2026-04-18** — news mention: US Energy Department Restores Funding to Carbon Removal Projects - Today in Oil and Gas ([source](https://www.todayinoilandgas.com/2026/04/17/us-energy-department-restores-funding-to-carbon-removal-projects/))
+- **2026-04-18** — backfilled from V1
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

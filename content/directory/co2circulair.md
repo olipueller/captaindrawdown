@@ -2,20 +2,39 @@
 title: "CO2CirculAir"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"2-1\\">CO2CirculAir is a Dutch R&D and innovation start-up formed by a group of membrane technology experts</cite> developing a direct air capture sy"
 url: "/directory/co2circulair/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Membrane)</td></tr>
-  <tr><td><strong>Country</strong></td><td>Netherlands</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.co2circulair.com/">https://www.co2circulair.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Membrane)
+**Country:** Netherlands
+**Website:** [https://www.co2circulair.com/](https://www.co2circulair.com/)
+**Status:** 🟢 Active (score: 75/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-CO2CirculAir develops SMART-DAC technology, a direct air capture (DAC) system that uses membrane gas absorption and membrane electrolysis regeneration to capture and separate CO2 from the air.
+<cite index="2-1">CO2CirculAir is a Dutch R&D and innovation start-up formed by a group of membrane technology experts</cite> developing a direct air capture system. <cite index="8-5,8-6">Funded under the UK DESNZ Greenhouse Gas Removal Programme, SMART-DAC is a passive wind-driven DAC system using a two-step process with KOH-based absorption and membrane electrolysis/electrodialysis regeneration.</cite> <cite index="8-4">The pilot first captured CO2 in September 2023 and operated at over 80% uptime through April 2025.</cite>
 
-![CO2CirculAir website](/images/directory/co2circulair.jpg)
+![CO2CirculAir website](/screenshots/v1-thumbnails/co2circulair.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.co2circulair.com/how-smart-dac-works.html))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

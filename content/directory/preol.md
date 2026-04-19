@@ -2,20 +2,39 @@
 title: "Preol"
 layout: "single"
 type: "directory"
-description: ""
+description: "PREOL is the largest Czech rapeseed processor (subsidiary of the AGROFERT Group) producing biofuels, rapeseed oil, glycerin, and animal feed, with biochar added"
 url: "/directory/preol/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Czech Republic</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.preol.cz/">https://www.preol.cz/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 75/100)</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Czech Republic
+**Website:** [https://www.preol.cz/](https://www.preol.cz/)
+**Status:** 🟢 Active (score: 85/100)
+**CDR Focus:** division
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-PREOL is a Czech company that processes rapeseed and produces vegetable oils, animal feed, and biochar. They utilize pyrolysis of agricultural post-harvest residues to create biochar, which serves as a soil conditioner and contributes to carbon sequestration.
+PREOL is the largest Czech rapeseed processor (subsidiary of the AGROFERT Group) producing biofuels, rapeseed oil, glycerin, and animal feed, with biochar added as a product line. Their pyrolysis unit for rapeseed chaff was commissioned in November 2024 following a CZK 38 million investment, producing biochar marketed as a soil amendment and long-term carbon storage medium.
 
-![Preol website](/images/directory/preol.jpg)
+![Preol website](/screenshots/v1-thumbnails/preol.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://preol.cz/en/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

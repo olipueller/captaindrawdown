@@ -2,25 +2,43 @@
 title: "APChemi"
 layout: "single"
 type: "directory"
-description: ""
+description: "APChemi is an Indian pyrolysis technology company offering biomass-to-biochar plants alongside plastic and tire pyrolysis systems. <cite index=\\"3-5\\">In April 20"
 url: "/directory/apchemi/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>India</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.apchemi.com/">https://www.apchemi.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~48 (+12% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>3,334</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** India
+**Website:** [https://www.apchemi.com/](https://www.apchemi.com/)
+**Status:** 🟢 Active (score: 88/100)
+**Employees:** ~48 (+12% YoY)
+**LinkedIn Followers:** 3,334
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-APChemi is an Indian company specializing in pyrolysis technology, offering eco-friendly solutions for converting biomass waste into high-quality biochar for carbon sequestration. They are actively developing biomass to biochar projects and forming a joint venture to create India's largest biochar CDR platform.
+APChemi is an Indian pyrolysis technology company offering biomass-to-biochar plants alongside plastic and tire pyrolysis systems. <cite index="3-5">In April 2025 it partnered with PRESPL and Intellecap to set up Biochar India Private Limited (BiocharIND), intended to be India's largest biochar-based carbon credit platform</cite>, with a <cite index="7-5">first facility in Punjab-Haryana producing 10,000 MT of biochar per annum and generating ~25,000 tCO2e of carbon credits per annum</cite>.
 
-![APChemi website](/images/directory/apchemi.jpg)
+![APChemi website](/screenshots/v1-thumbnails/apchemi.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.apchemi.com/biomass-pyrolysis-biochar))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/apchemi/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

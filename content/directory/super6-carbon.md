@@ -2,20 +2,40 @@
 title: "Super6 Carbon"
 layout: "single"
 type: "directory"
-description: ""
+description: "Super6 Carbon is a U.S.-based engineered CDR project developer that aggregates biogenic/concentrated CO2 from multiple capture sites at transload hubs and deliv"
 url: "/directory/super6-carbon/"
+pathway: "BECCS"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>BiCRS (Other)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.super6carbon.com/">https://www.super6carbon.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 90/100)</td></tr>
-</table>
+**Pathway:** BECCS
+**Secondary pathways:** Enabling Tech
+**Method:** BiCRS (Other)
+**Country:** United States
+**Website:** [https://www.super6carbon.com/](https://www.super6carbon.com/)
+**Status:** 🟢 Active (score: 88/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-Super6 Carbon captures CO₂ and stores it underground, generating credits for the removal of one tonne of carbon from the atmosphere. They are partnering with ADM to produce CDR credits by permanently storing CO₂ at ADM’s existing CCS site in Decatur, Illinois.
+Super6 Carbon is a U.S.-based engineered CDR project developer that aggregates biogenic/concentrated CO2 from multiple capture sites at transload hubs and delivers it for permanent geological storage. In October 2025 it signed an MOU with ADM to produce CDR credits at ADM's Class VI CCS facility in Decatur, Illinois, with ADM taking a minority stake once definitive agreements are finalized. First carbon is expected in 2027 with megatonne-scale targets by 2030.
 
-![Super6 Carbon website](/images/directory/super6-carbon.jpg)
+![Super6 Carbon website](/screenshots/v1-thumbnails/super6-carbon.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.adm.com/en-us/news/news-releases/2025/10/adm-super6-carbon-announce-plans-to-produce-cdr-credits-in-decatur/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

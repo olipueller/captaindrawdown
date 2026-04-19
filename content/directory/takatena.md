@@ -2,20 +2,39 @@
 title: "Takatena"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"16-1,16-2\\">Takatena transforms Kenya's organic waste into biochar via pyrolysis plants, aiming to enhance soil health and reduce carbon emissions.<"
 url: "/directory/takatena/"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Kenya</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://takatena.com/">https://takatena.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Kenya
+**Website:** [https://takatena.com/](https://takatena.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-Takatena Biochar Solutions transforms sewage and garbage into clean soil, energy, and revenue in Nanyuki, Kenya, using pyrolysis to produce biochar for carbon dioxide removal.
+<cite index="16-1,16-2">Takatena transforms Kenya's organic waste into biochar via pyrolysis plants, aiming to enhance soil health and reduce carbon emissions.</cite> They sell biochar in volumes tied to CO2 removal (e.g. <cite index="6-4">1000 kg biochar representing ~3 tons CO2</cite>) and have received early-stage investment from Remove (Netherlands).
 
-![Takatena website](/images/directory/takatena.jpg)
+![Takatena website](/screenshots/v1-thumbnails/takatena.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.takatena.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

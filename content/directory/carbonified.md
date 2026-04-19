@@ -2,25 +2,44 @@
 title: "Carbonified"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"2-1,2-3\\">Carbonified is a Canadian company providing high-integrity carbon solutions aimed at reversing climate change with measurable impact.</cit"
 url: "/directory/carbonified/"
+pathway: "Biochar"
+liveliness: "🟠 Suspect"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Canada</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.carbonified.ca/">https://www.carbonified.ca/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟡 Moderate (score: 65/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~3</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>53</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Secondary pathways:** Afforestation
+**Method:** Biochar
+**Country:** Canada
+**Website:** [https://www.carbonified.ca/](https://www.carbonified.ca/)
+**Status:** 🟠 Suspect (score: 35/100)
+**Employees:** ~3 (0% YoY)
+**LinkedIn Followers:** 53
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbonified is a BiCRS company that provides high-integrity carbon solutions to reverse climate change, focusing on meaningful and measurable impact.
+<cite index="2-1,2-3">Carbonified is a Canadian company providing high-integrity carbon solutions aimed at reversing climate change with measurable impact.</cite> <cite index="11-2,11-3">They focus on biochar, regenerative agriculture, and ARR as scalable carbon sequestration solutions.</cite> They are a small (~3 employees) project developer listed in Carbon Removal Canada's directory.
 
-![Carbonified website](/images/directory/carbonified.jpg)
+![Carbonified website](/screenshots/v1-thumbnails/carbonified.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.carbonified.ca/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbonified/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

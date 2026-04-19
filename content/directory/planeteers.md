@@ -2,22 +2,43 @@
 title: "Planeteers"
 layout: "single"
 type: "directory"
-description: ""
+description: "Planeteers is a German climate tech startup that uses ocean alkalinity enhancement (OAE) through its patented HCM technology to produce mineral compounds (ikait"
 url: "/directory/planeteers/"
+pathway: "Ocean CDR"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Ocean Alkalinity Enhancement</td></tr>
-  <tr><td><strong>Country</strong></td><td>Germany</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://planeteers.de/">https://planeteers.de/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 100/100)</td></tr>
-</table>
-
+**Pathway:** Ocean CDR
+**Method:** Ocean Alkalinity Enhancement
+**Country:** Germany
+**Website:** [https://planeteers.de/](https://planeteers.de/)
+**Status:** 🟢 Active (score: 100/100)
+**Open roles on cdrjobs:** 2
 **CDI Portfolio Company**
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
 Planeteers is a German climate tech startup that uses ocean alkalinity enhancement (OAE) through its patented HCM technology to produce mineral compounds (ikaite) that increase ocean alkalinity, allowing seawater to absorb and store additional CO2.
 
-![Planeteers website](/images/directory/planeteers.jpg)
+![Planeteers website](/screenshots/v1-thumbnails/planeteers.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

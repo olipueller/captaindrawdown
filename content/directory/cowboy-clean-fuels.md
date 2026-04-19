@@ -2,23 +2,42 @@
 title: "Cowboy Clean Fuels"
 layout: "single"
 type: "directory"
-description: ""
+description: "Cowboy Clean Fuels (CCF), founded in 2020 and spun out of the University of Wyoming's Center for Biogenic Natural Gas Research, commercializes a patented Biomas"
 url: "/directory/cowboy-clean-fuels/"
+pathway: "Biomass Burial"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>BiCRS (Other)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://cowboycleanfuels.com/">https://cowboycleanfuels.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~16 (+23% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>1,122</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biomass Burial
+**Secondary pathways:** BECCS
+**Method:** BiCRS (Other)
+**Country:** United States
+**Website:** [https://cowboycleanfuels.com/](https://cowboycleanfuels.com/)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~16 (+23% YoY)
+**LinkedIn Followers:** 1,122
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Cowboy Clean Fuels is a climate tech and energy transition company that uses a unique BiCRS+RNG (Biomass Carbon Removal and Storage plus Renewable Natural Gas) process. This method involves injecting biomass into coalbed methane wells where microorganisms convert it into carbon dioxide and methane, commercializing carbon removal and renewable natural gas.
+Cowboy Clean Fuels (CCF), founded in 2020 and spun out of the University of Wyoming's Center for Biogenic Natural Gas Research, commercializes a patented Biomass Carbon Removal and Storage plus Renewable Natural Gas (BiCRS+RNG) process. Its Triangle Unit project in the Powder River Basin uses agricultural residues injected into deep coal seams to produce RNG while permanently sequestering CO2, and CCF sells durable CDR credits alongside renewable gas.
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://cowboycleanfuels.com/cdr/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/cowboy-clean-fuels/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

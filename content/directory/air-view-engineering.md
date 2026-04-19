@@ -2,25 +2,42 @@
 title: "Air View Engineering"
 layout: "single"
 type: "directory"
-description: ""
+description: "Air View Engineering Ltd is a Direct Air Capture (DAC) startup that aims to provide smaller, more cost-efficient solid sorbent carbon capture solutions to incre"
 url: "/directory/air-view-engineering/"
+pathway: "DAC"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Solid Sorbent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United Kingdom</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.airviewengineering.co.uk/">https://www.airviewengineering.co.uk/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~4</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>277</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Solid Sorbent)
+**Country:** United Kingdom
+**Website:** [https://www.airviewengineering.co.uk/](https://www.airviewengineering.co.uk/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~4 (0% YoY)
+**LinkedIn Followers:** 277
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
 Air View Engineering Ltd is a Direct Air Capture (DAC) startup that aims to provide smaller, more cost-efficient solid sorbent carbon capture solutions to increase their use globally.
 
-![Air View Engineering website](/images/directory/air-view-engineering.jpg)
+![Air View Engineering website](/screenshots/v1-thumbnails/air-view-engineering.jpg)
+
+
+## History
+
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/air-view-engineering-ltd/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,20 +2,43 @@
 title: "Phlair"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"3-1,3-3,3-4\\">Founded in 2022 and based in Munich, Germany, Phlair develops hydrolyzer-based Direct Air Capture technology that uses a pH-swing mech"
 url: "/directory/phlair/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Liquid Solvent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>Germany</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://phlair.com/">https://phlair.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 100/100)</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Liquid Solvent)
+**Country:** Germany
+**Website:** [https://phlair.com/](https://phlair.com/)
+**Status:** 🟢 Active (score: 95/100)
+**Open roles on cdrjobs:** 10
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Phlair develops an electrochemical direct air capture (DAC) system using a liquid solvent and the "pH swing" method to capture CO2 from ambient air.
+<cite index="3-1,3-3,3-4">Founded in 2022 and based in Munich, Germany, Phlair develops hydrolyzer-based Direct Air Capture technology that uses a pH-swing mechanism for CO2 capture and release, enabling permanent storage or use in CO2-negative chemicals.</cite> <cite index="6-10,6-11,6-12">The company serves buyers including Google, McKinsey, JPMorganChase, Shopify, Stripe, H&M, and Deep Sky, closed a €12M+ seed round in 2024 with a €2.5M EU grant, and announced a $30M offtake agreement in 2025.</cite>
 
-![Phlair website](/images/directory/phlair.jpg)
+![Phlair website](/screenshots/v1-thumbnails/phlair.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://phlair.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

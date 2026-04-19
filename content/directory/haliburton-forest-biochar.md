@@ -2,20 +2,39 @@
 title: "Haliburton Forest Biochar"
 layout: "single"
 type: "directory"
-description: ""
+description: "Haliburton Forest Biochar is a joint venture/subsidiary of Haliburton Forest & Wild Life Reserve Ltd. in central Ontario, Canada, producing high-quality biochar"
 url: "/directory/haliburton-forest-biochar/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Canada</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.haliburtonforestbiochar.com/">https://www.haliburtonforestbiochar.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 85/100)</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Canada
+**Website:** [https://www.haliburtonforestbiochar.com/](https://www.haliburtonforestbiochar.com/)
+**Status:** 🟢 Active (score: 85/100)
+**CDR Focus:** division
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-Haliburton Forest Biochar specializes in producing high-quality biochar from sustainable forest resources using proprietary pyrolysis technology, aiming to displace fossil fuel products and for applications like soil amendment and water filtration.
+Haliburton Forest Biochar is a joint venture/subsidiary of Haliburton Forest & Wild Life Reserve Ltd. in central Ontario, Canada, producing high-quality biochar from sustainably harvested hardwood sawmill residues via proprietary pyrolysis. Products serve soil amendment and advanced manufacturing applications (e.g., as a fossil carbon-black replacement). The company received a $4.6M Ontario provincial investment announced in 2025 to scale engineered biochar production.
 
-![Haliburton Forest Biochar website](/images/directory/haliburton-forest-biochar.jpg)
+![Haliburton Forest Biochar website](/screenshots/v1-thumbnails/haliburton-forest-biochar.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.haliburtonforestbiochar.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

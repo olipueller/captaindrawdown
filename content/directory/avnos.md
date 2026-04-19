@@ -2,25 +2,43 @@
 title: "Avnos"
 layout: "single"
 type: "directory"
-description: ""
+description: "Avnos is a Los Angeles-based Direct Air Capture company developing its proprietary Hybrid Direct Air Capture (HDAC) technology, which uses moisture-swing sorben"
 url: "/directory/avnos/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Solid Sorbent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.avnos.com/">https://www.avnos.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~37 (+23% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>3,454</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Solid Sorbent)
+**Country:** United States
+**Website:** [https://www.avnos.com/](https://www.avnos.com/)
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~37 (+23% YoY)
+**LinkedIn Followers:** 3,454
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Avnos is a US-based company commercializing a Hybrid Direct Air Capture (DAC) technology that uses solid sorbents to capture CO2 and also produces water, eliminating the need for external heat input.
+Avnos is a Los Angeles-based Direct Air Capture company developing its proprietary Hybrid Direct Air Capture (HDAC) technology, which uses moisture-swing sorbents to capture CO2 while co-producing clean water and eliminating the need for external heat input. The company operates a pilot in Bakersfield, CA, an R&D center in Bridgewater, NJ, and in November 2025 announced Project Cedar, a commercial-scale facility backed by $17M from Shell and Mitsubishi, scheduled to come online by end of 2026.
 
-![Avnos website](/images/directory/avnos.jpg)
+![Avnos website](/screenshots/v1-thumbnails/avnos.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.avnos.com/news/avnos-secures-up-to-17-million-in-funding-to-build-flagship-dac-facility/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/avnos-inc/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

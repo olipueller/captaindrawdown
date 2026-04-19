@@ -2,18 +2,40 @@
 title: "NormaTech"
 layout: "single"
 type: "directory"
-description: ""
+description: "No information found for NormaTech, a DAC company based in Germany, in the provided search results."
 url: "/directory/normatech/"
+pathway: "DAC"
+liveliness: "🟠 Suspect"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Direct Air Capture</td></tr>
-  <tr><td><strong>Country</strong></td><td>Germany</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.normatech-dac.com/">https://www.normatech-dac.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟠 Suspect (score: 30/100)</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** Direct Air Capture
+**Country:** Germany
+**Website:** [https://www.normatech-dac.com/](https://www.normatech-dac.com/)
+**Status:** 🟠 Suspect (score: 30/100)
+**Open roles on cdrjobs:** 2
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
 No information found for NormaTech, a DAC company based in Germany, in the provided search results.
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — backfilled from V1
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

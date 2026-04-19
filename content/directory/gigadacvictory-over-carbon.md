@@ -2,25 +2,43 @@
 title: "GigaDAC/Victory Over Carbon"
 layout: "single"
 type: "directory"
-description: ""
+description: "GigaDAC (legal name Victory Over Carbon Inc.) is a Houston-based DAC startup spun out of Rice Alliance and resident at Greentown Labs, developing a spray-and-ae"
 url: "/directory/gigadacvictory-over-carbon/"
+pathway: "DAC"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Liquid Solvent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.gigadac.org/">https://www.gigadac.org/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~4</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>240</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Liquid Solvent)
+**Country:** United States
+**Website:** [https://www.gigadac.org/](https://www.gigadac.org/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~4 (0% YoY)
+**LinkedIn Followers:** 240
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-GigaDAC is an environmental services and aerospace engineering company that optimizes energy production, commodities supply, and climate remediation, aiming to lower costs for Direct Air Capture (DAC) geared for gigaton scale.
+GigaDAC (legal name Victory Over Carbon Inc.) is a Houston-based DAC startup spun out of Rice Alliance and resident at Greentown Labs, developing a spray-and-aerodynamic-separator contactor to replace filter/cooling-tower designs. The company has received NSF SBIR funding and was building a commercial-scale pilot targeted for early 2025, with plans to sell removal credits and claim 45Q. Small team (~4 employees) in early R&amp;D stage.
 
-![GigaDAC/Victory Over Carbon website](/images/directory/gigadac-victory-over-carbon.jpg)
+![GigaDAC/Victory Over Carbon website](/screenshots/v1-thumbnails/gigadac-victory-over-carbon.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/gigadac/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

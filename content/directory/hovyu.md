@@ -2,25 +2,44 @@
 title: "Hovyu"
 layout: "single"
 type: "directory"
-description: ""
+description: "Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process for Direct Air Capture, "
 url: "/directory/hovyu/"
+pathway: "DAC"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Liquid Solvent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>Netherlands</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://hovyu.com/zeus-zero-emission-ultra-stripping/">https://hovyu.com/zeus-zero-emission-ultra-stripping/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~6 (+20% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>1,126</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** DAC
+**Secondary pathways:** Enabling Tech
+**Method:** DAC (Liquid Solvent)
+**Country:** Netherlands
+**Website:** [https://hovyu.com/zeus-zero-emission-ultra-stripping/](https://hovyu.com/zeus-zero-emission-ultra-stripping/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~6 (+20% YoY)
+**LinkedIn Followers:** 1,126
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Hovyu specializes in carbon capture processes, specifically Direct Air Capture (DAC) using a liquid solvent method called ZEUS (Zero-Emission Ultra-Stripping) to produce CO2 at high pressure.
+Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process for Direct Air Capture, flue gas capture, and biogas upgrading. <cite index="3-1,3-3,3-4">Their ZEUS technology is a flexible and scalable process to remove CO2 from industrial emissions or from air, with CO2 release proceeding at room temperature requiring no heat, which is an advantage where steam availability is constrained.</cite> <cite index="1-2">They have diversified international operations with projects in the Netherlands, Norway and Brazil.</cite>
 
-![Hovyu website](/images/directory/hovyu.jpg)
+![Hovyu website](/screenshots/v1-thumbnails/hovyu.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://hovyu.com/zeus-zero-emission-ultra-stripping/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/hovyu-bv/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,25 +2,43 @@
 title: "Anvil"
 layout: "single"
 type: "directory"
-description: ""
+description: "Anvil Capture Systems is a US-based (New York/Somerville, MA) carbon dioxide removal company developing direct-air mineralization using alkaline-bearing ores in"
 url: "/directory/anvil/"
+pathway: "Mineralization"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Mineralization (Other)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.anvilcarbon.com/">https://www.anvilcarbon.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~5 (+67% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>438</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Mineralization
+**Method:** Mineralization (Other)
+**Country:** United States
+**Website:** [https://www.anvilcarbon.com/](https://www.anvilcarbon.com/)
+**Status:** 🟢 Active (score: 78/100)
+**Employees:** ~5 (+67% YoY)
+**LinkedIn Followers:** 438
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Anvil (also known as Anvil Capture Systems) is a carbon dioxide removal (CDR) company that uses a low-energy system to contact highly reactive alkaline minerals with atmospheric CO₂ to speed up the mineralization process, resulting in solid carbonate minerals.
+Anvil Capture Systems is a US-based (New York/Somerville, MA) carbon dioxide removal company developing direct-air mineralization using alkaline-bearing ores in a proprietary low-energy reactor. The company received a Frontier prepurchase in Fall 2024 and was awarded a MassCEC climatetech grant in 2025, and is a Greentown Labs member.
 
-![Anvil website](/images/directory/anvil.jpg)
+![Anvil website](/screenshots/v1-thumbnails/anvil.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.anvilcarbon.com))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/anvil-capture-systems/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

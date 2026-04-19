@@ -2,25 +2,43 @@
 title: "Airhive"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"4-2\\">Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energy-efficient and rapidly scalable technology to capture carbon "
 url: "/directory/airhive/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Solid Sorbent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United Kingdom</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://airhive.earth/">https://airhive.earth/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~19 (-10% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>2,752</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Solid Sorbent)
+**Country:** United Kingdom
+**Website:** [https://airhive.earth/](https://airhive.earth/)
+**Status:** 🟢 Active (score: 95/100)
+**Employees:** ~19 (-10% YoY)
+**LinkedIn Followers:** 2,752
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Airhive develops modular Direct Air Capture (DAC) technology using a fluidized bed reactor and a low-cost, non-toxic metal oxide-based solid sorbent to rapidly remove CO2 from the air.
+<cite index="4-2">Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energy-efficient and rapidly scalable technology to capture carbon from the atmosphere.</cite> <cite index="1-5,1-6">Its system uses a novel DAC method based on fluidised beds, a proven industrial technology, and the speed and efficiency of this fluidisation-based capture method, combined with heat recovery and reuse, helps Airhive lower costs.</cite> <cite index="1-9,1-10">Airhive's 1,000-tonne-per-year system is one of the largest operational DAC systems in the world and is operating as part of Deep Sky Alpha, a cross-technology DAC hub in Innisfail, Alberta.</cite>
 
-![Airhive website](/images/directory/airhive.jpg)
+![Airhive website](/screenshots/v1-thumbnails/airhive.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.airhive.earth/publications/airhive-opens-one-of-the-worlds-largest-and-lowest-cost-direct-air-capture-systems))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbonnet-limited/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,20 +2,43 @@
 title: "Skytree"
 layout: "single"
 type: "directory"
-description: ""
+description: "Skytree is a Dutch direct air capture technology company founded in 2014, headquartered in Amsterdam with offices in Toronto and Nashville. It develops modular "
 url: "/directory/skytree/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Solid Sorbent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>Netherlands</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.skytree.eu/">https://www.skytree.eu/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 85/100)</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Solid Sorbent)
+**Country:** Netherlands
+**Website:** [https://www.skytree.eu/](https://www.skytree.eu/)
+**Status:** 🟢 Active (score: 92/100)
+**Open roles on cdrjobs:** 5
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Skytree is a Dutch climate technology company specializing in Direct Air Capture (DAC) using solid sorbent materials to capture CO2 for utilization or removal. They develop and manufacture cutting-edge DAC technology for CO2 end-users and project developers.
+Skytree is a Dutch direct air capture technology company founded in 2014, headquartered in Amsterdam with offices in Toronto and Nashville. It develops modular solid-sorbent DAC machines (Cumulus and Stratus product lines) for both CO₂ utilization (greenhouses, beverages) and permanent carbon removal, including a planned 500,000 tpa DAC park in Texas with EDF Renewables and Return Carbon.
 
-![Skytree website](/images/directory/skytree.jpg)
+![Skytree website](/screenshots/v1-thumbnails/skytree.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.skytree.eu/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

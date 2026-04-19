@@ -2,20 +2,39 @@
 title: "Bioman"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"14-1,14-2\\">Bioman ApS is a Bigadan-owned Danish biogas company that bid to capture and store 25,000 tonnes of CO2 annually at a support price of DK"
 url: "/directory/bioman/"
+pathway: "BECCS"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>BECCS</td></tr>
-  <tr><td><strong>Country</strong></td><td>Denmark</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://bioman.dk/">https://bioman.dk/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-</table>
+**Pathway:** BECCS
+**Method:** BECCS
+**Country:** Denmark
+**Website:** [https://bioman.dk/](https://bioman.dk/)
+**Status:** 🟢 Active (score: 85/100)
+**CDR Focus:** division
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-Bioman ApS is a Danish company involved in Carbon Dioxide Removal (CDR) using the Bioenergy with Carbon Capture and Storage (BECCS) method, participating in government-backed deals to capture and store CO2.
+<cite index="14-1,14-2">Bioman ApS is a Bigadan-owned Danish biogas company that bid to capture and store 25,000 tonnes of CO2 annually at a support price of DKK 1,175.5 per tonne</cite> under the Danish Energy Agency's NECCS fund. <cite index="18-1,18-2">As of August 19, 2025, Bioman merged into its parent group and now operates legally as Bigadan Sourcing & Commodities</cite>, covering the full value chain from biomass and biogas to CO2 storage.
 
-![Bioman website](/images/directory/bioman.jpg)
+![Bioman website](/screenshots/v1-thumbnails/bioman.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

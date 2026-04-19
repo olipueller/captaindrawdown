@@ -2,20 +2,40 @@
 title: "Blusink"
 layout: "single"
 type: "directory"
-description: ""
+description: "Blusink is a UK-based marine CDR startup pioneering seabed-deployed substrates that restore rhodolith (coralline algae) beds while enhancing local ocean alkalin"
 url: "/directory/blusink/"
+pathway: "Ocean CDR"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Ocean Alkalinity Enhancement</td></tr>
-  <tr><td><strong>Country</strong></td><td>United Kingdom</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.blusink.com/">https://www.blusink.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 80/100)</td></tr>
-</table>
+**Pathway:** Ocean CDR
+**Secondary pathways:** Mineralization
+**Method:** Ocean Alkalinity Enhancement
+**Country:** United Kingdom
+**Website:** [https://www.blusink.com/](https://www.blusink.com/)
+**Status:** 🟢 Active (score: 80/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-Blusink is a marine CDR company that uses proprietary biomaterials to enhance ocean alkalinity and stimulate calcifying macroalgae, accelerating CO2 capture and locking it into stable mineral formations.
+Blusink is a UK-based marine CDR startup pioneering seabed-deployed substrates that restore rhodolith (coralline algae) beds while enhancing local ocean alkalinity. Their dual approach combines materials engineering, chemistry and biology, with MRV based on total alkalinity measurements and calcification rates validated through a mesocosm experiment with Plymouth Marine Laboratory. Early deployments have been conducted off the coast of Colombia.
 
-![Blusink website](/images/directory/blusink.jpg)
+![Blusink website](/screenshots/v1-thumbnails/blusink.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.blusink.com))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

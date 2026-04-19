@@ -2,20 +2,39 @@
 title: "Mission Zero"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"2-14,2-15\\">Mission Zero Technologies is a UK-based company that develops electrochemical direct air capture (DAC) technology inspired by biological"
 url: "/directory/mission-zero/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Liquid Solvent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United Kingdom</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.missionzero.tech/">https://www.missionzero.tech/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 100/100)</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Liquid Solvent)
+**Country:** United Kingdom
+**Website:** [https://www.missionzero.tech/](https://www.missionzero.tech/)
+**Status:** 🟢 Active (score: 92/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-Mission Zero is a UK-based company that develops electrochemical Direct Air Capture (DAC) technology. Their method involves using a liquid solvent to capture CO2 from the air, which is then concentrated and released using renewable electricity.
+<cite index="2-14,2-15">Mission Zero Technologies is a UK-based company that develops electrochemical direct air capture (DAC) technology inspired by biological reactions that manage CO₂ in the body, designed to recover atmospheric CO₂ at any scale.</cite> <cite index="10-1,10-2">The company has deployed three systems to date, including a UK plant with O.C.O Technology that pairs DAC with building-materials production and a third system now capturing CO₂ for permanent underground storage at Deep Sky in Canada.</cite>
 
-![Mission Zero website](/images/directory/mission-zero.jpg)
+![Mission Zero website](/screenshots/v1-thumbnails/mission-zero.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.missionzero.tech/lab-notes/our-second-direct-air-capture-plant))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

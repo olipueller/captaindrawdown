@@ -2,25 +2,43 @@
 title: "Aquafin"
 layout: "single"
 type: "directory"
-description: ""
+description: "Aquafin is Belgium's Flemish wastewater treatment utility, established in 1990, which treats household wastewater across Flanders. The company is developing a b"
 url: "/directory/aquafin/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Belgium</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.aquafin.be/">https://www.aquafin.be/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~1007 (+2% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>22,436</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>division</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Belgium
+**Website:** [https://www.aquafin.be/](https://www.aquafin.be/)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~1007 (+2% YoY)
+**LinkedIn Followers:** 22,436
+**CDR Focus:** division
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Aquafin is a Belgian wastewater treatment company that is developing a biochar project to convert wastewater sludge into biochar, a method of carbon dioxide removal.
+Aquafin is Belgium's Flemish wastewater treatment utility, established in 1990, which treats household wastewater across Flanders. The company is developing a biochar project at its RWZI Menen site, in partnership with Ebema, D-CRBN, and Stadsbader Group, that will pyrolyze sewage sludge into biochar. While wastewater treatment is its core business, the Menen biochar plant represents a CDR-producing division/project within the larger utility.
 
-![Aquafin website](/images/directory/aquafin.jpg)
+![Aquafin website](/screenshots/v1-thumbnails/aquafin.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/aquafin/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

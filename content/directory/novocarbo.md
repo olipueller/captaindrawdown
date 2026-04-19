@@ -2,20 +2,42 @@
 title: "Novocarbo"
 layout: "single"
 type: "directory"
-description: ""
+description: "Novocarbo is a Hamburg-based climate tech company that operates Carbon Removal Parks across Germany, using pyrolysis to convert biogenic residues into biochar w"
 url: "/directory/novocarbo/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Germany</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.novocarbo.com/">https://www.novocarbo.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 100/100)</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Germany
+**Website:** [https://www.novocarbo.com/](https://www.novocarbo.com/)
+**Status:** 🟢 Active (score: 95/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, registry_puro
 
 ## About
 
-Novocarbo uses state-of-the-art pyrolysis technology to process plant residues into biochar, removing CO₂ and generating renewable energy. Their biochar is used as a soil conditioner, peat alternative, in storm-water management, and in pioneering pilot projects like biochar-infused asphalt.
+Novocarbo is a Hamburg-based climate tech company that operates Carbon Removal Parks across Germany, using pyrolysis to convert biogenic residues into biochar while producing renewable heat. Recent activity includes new sites in Bochum and Dessau, the German Sustainability Award 2025, and a 2025 pilot with Hansa Asphalt that produced the first certified CDR credits from biochar-infused asphalt.
 
-![Novocarbo website](/images/directory/novocarbo.jpg)
+![Novocarbo website](/screenshots/v1-thumbnails/novocarbo.jpg)
+
+## Registry Memberships
+
+- Puro.earth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/novocarbo-and-stadtwerke-dessau-sign-new-biochar-and-renewable-heat-partnership/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

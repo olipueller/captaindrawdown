@@ -2,20 +2,39 @@
 title: "OLNEO"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"10-1\\">OLNEO is a climate deeptech startup developing modular carbon removal systems, based in Paris, France with 1-10 employees.</cite> <cite index"
 url: "/directory/olneo/"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>France</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.olneo.green/">https://www.olneo.green/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 75/100)</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** France
+**Website:** [https://www.olneo.green/](https://www.olneo.green/)
+**Status:** 🟡 Moderate (score: 60/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-OLNEO is a climate deeptech startup based in France that leverages premium biochar and AI-powered MRV to regenerate soils and remove carbon at scale, transforming agri-waste into climate-positive soil tech.
+<cite index="10-1">OLNEO is a climate deeptech startup developing modular carbon removal systems, based in Paris, France with 1-10 employees.</cite> <cite index="6-1,6-2">The company is building carbon removal infrastructure in Africa using biochar, converting local agricultural residues into high-quality biochar</cite>, <cite index="2-14,2-15">rooted in Algeria and designed to scale across Africa and the MENA region.</cite>
 
-![OLNEO website](/images/directory/olneo.jpg)
+![OLNEO website](/screenshots/v1-thumbnails/olneo.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://olneo.green/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

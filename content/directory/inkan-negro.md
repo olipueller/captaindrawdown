@@ -2,25 +2,43 @@
 title: "Inkan Negro"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"2-1,2-2\\">Inkan Negro is a Peruvian-owned company that manufactures and sells its own ecologically sustainable biochar soil amendment, based on over"
 url: "/directory/inkan-negro/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Peru</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://inkannegro.com/">https://inkannegro.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~3</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>31</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Peru
+**Website:** [https://inkannegro.com/](https://inkannegro.com/)
+**Status:** 🟢 Active (score: 75/100)
+**Employees:** ~3
+**LinkedIn Followers:** 31
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Inkan Negro is a Peruvian company that innovates in biochar formulations, using biomass waste from agribusinesses to create ecological biochar solutions for soil remediation and improvement, and as a sustainable CDR method.
+<cite index="2-1,2-2">Inkan Negro is a Peruvian-owned company that manufactures and sells its own ecologically sustainable biochar soil amendment, based on over 10 years of scientific research conducted in Peru.</cite> <cite index="3-1,3-2">They produce biochar by converting urban green and agricultural wastes into an optimized soil amendment that improves soil structural properties and fertility.</cite> The company has engaged with Puro.earth through a Pre-CORC biochar project.
 
-![Inkan Negro website](/images/directory/inkan-negro.jpg)
+![Inkan Negro website](/screenshots/v1-thumbnails/inkan-negro.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://inkannegro.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/inkan-negro/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

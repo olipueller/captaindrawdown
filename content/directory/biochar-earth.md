@@ -2,22 +2,40 @@
 title: "Biochar Earth"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"2-1,2-2\\">Biochar Earth sells premium carbon dioxide removal at $199 per metric tonne of CO2 removed, grounded in controlled pyrolysis and conversio"
 url: "/directory/biochar-earth/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://biochar.earth">https://biochar.earth</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>120</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** United States
+**Website:** [https://biochar.earth](https://biochar.earth)
+**Status:** 🟢 Active (score: 80/100)
+**LinkedIn Followers:** 120
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Biochar Earth provides durable carbon dioxide removal using coconut shell waste from existing agricultural streams in the Philippines. Pyrolysis transforms short-cycle biomass carbon into durable carbon storage via biochar designed to persist for centuries. Supports 3.5 million coconut farmers, replacing open burning and landfill disposal with managed biochar production.
+<cite index="2-1,2-2">Biochar Earth sells premium carbon dioxide removal at $199 per metric tonne of CO2 removed, grounded in controlled pyrolysis and conversion into durable biochar designed for long-term storage, representing CO2 taken from the atmosphere and stored as a material.</cite> <cite index="5-2">The company's BCR operations are currently centered in the Philippines, using coconut biochar to also support the local economy in the Global South.</cite> They also offer separately-priced avoided-emissions credits tied to diverting coconut waste from open burning.
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.earth/bcr-biochar-carbon-removal-how-it-works-and-why-it-matters/))
+- **2026-04-18** — backfilled from V1 ([source](https://www.linkedin.com/company/biochar-earth/))
 
 [View on LinkedIn](https://www.linkedin.com/company/biochar-earth/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

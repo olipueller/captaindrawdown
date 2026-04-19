@@ -2,25 +2,49 @@
 title: "8 Rivers/Calcite"
 layout: "single"
 type: "directory"
-description: ""
+description: "8 Rivers Capital is a Durham, NC-based decarbonization technology developer whose Calcite process is a calcium-looping direct air capture technology anchoring t"
 url: "/directory/8-riverscalcite/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Solid Sorbent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://8rivers.com/portfolio/calcite/">https://8rivers.com/portfolio/calcite/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~60 (-36% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>10,931</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Solid Sorbent)
+**Country:** United States
+**Website:** [https://8rivers.com/portfolio/calcite/](https://8rivers.com/portfolio/calcite/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~60 (-36% YoY)
+**LinkedIn Followers:** 10,931
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin, registry_cdrjobsearth
 
 ## About
 
-8 Rivers/Calcite is a US-based company that develops and commercializes infrastructure-scale direct air capture (DAC) technology using a solid sorbent method. They are also involved in other low-carbon energy solutions.
+8 Rivers Capital is a Durham, NC-based decarbonization technology developer whose Calcite process is a calcium-looping direct air capture technology anchoring the DOE-funded Southeast DAC (SEDAC) Hub in Mobile County, Alabama. Project Cardinal, the first commercial Calcite deployment, is planned for the US Gulf Coast with FEED commencing in 2025 (Wood was awarded the FEED in March 2025), backed by a September 2024 investment from JX Nippon (now ENEOS Xplora). The company is majority-owned by SK Group.
 
-![8 Rivers/Calcite website](/images/directory/8-rivers-calcite.jpg)
+![8 Rivers/Calcite website](/screenshots/v1-thumbnails/8-rivers-calcite.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/portfolio/calcite/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/portfolio/calcite/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/portfolio/calcite/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/portfolio/calcite/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/8-rivers-capital/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

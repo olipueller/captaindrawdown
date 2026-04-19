@@ -2,20 +2,43 @@
 title: "Klim"
 layout: "single"
 type: "directory"
-description: ""
+description: "Klim is a Berlin-based agritech company that scales regenerative agriculture by partnering with 3,500+ farmers across Germany, Poland, the USA, UK, Slovakia, an"
 url: "/directory/klim/"
+pathway: "Afforestation"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Soil Carbon Sequestration</td></tr>
-  <tr><td><strong>Country</strong></td><td>Germany</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.klim.eco/">https://www.klim.eco/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 80/100)</td></tr>
-</table>
+**Pathway:** Afforestation
+**Method:** Soil Carbon Sequestration
+**Country:** Germany
+**Website:** [https://www.klim.eco/](https://www.klim.eco/)
+**Status:** 🟢 Active (score: 85/100)
+**Open roles on cdrjobs:** 6
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Klim is a German agritech company that promotes regenerative agricultural practices to sequester carbon in the soil and reduce emissions across supply chains. They develop climate protection projects and provide high-quality carbon credits.
+Klim is a Berlin-based agritech company that scales regenerative agriculture by partnering with 3,500+ farmers across Germany, Poland, the USA, UK, Slovakia, and the Czech Republic. They act as project developer, manager, and MRV provider, offering Scope 3 insetting projects and soil-carbon credits to corporate buyers including Nestlé and ADM.
 
-![Klim website](/images/directory/klim.jpg)
+![Klim website](/screenshots/v1-thumbnails/klim.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.klim.eco/en))
+- **2026-04-18** — backfilled from V1
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,25 +2,48 @@
 title: "Carbon Time"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"2-1,2-2\\">Carbon Time is a Paris, France–based company founded in 2021 that operates as a developer of ocean alkalinity enhancement for carbon dioxi"
 url: "/directory/carbon-time/"
+pathway: "Ocean CDR"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Ocean Alkalinity Enhancement</td></tr>
-  <tr><td><strong>Country</strong></td><td>France</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.carbon-time.com/">https://www.carbon-time.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~2</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>1,850</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Ocean CDR
+**Secondary pathways:** Enhanced Weathering
+**Method:** Ocean Alkalinity Enhancement
+**Country:** France
+**Website:** [https://www.carbon-time.com/](https://www.carbon-time.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2 (0% YoY)
+**LinkedIn Followers:** 1,850
+**Open roles on cdrjobs:** 1
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Carbon Time, operating as Carbon Impact, is a French company specializing in Marine CDR through Ocean Alkalinity Enhancement to enhance the ocean's capacity to absorb and store CO2.
+<cite index="2-1,2-2">Carbon Time is a Paris, France–based company founded in 2021 that operates as a developer of ocean alkalinity enhancement for carbon dioxide removal.</cite> <cite index="1-5,1-6,1-8">Its initial focus is alkalinization via rock weathering using olivine, alongside electrochemical approaches compatible with coastal industries like desalination or water treatment.</cite> <cite index="1-12,1-13">The company was financed by the Team for the Planet citizen-investor movement.</cite>
 
-![Carbon Time website](/images/directory/carbon-time.jpg)
+![Carbon Time website](/screenshots/v1-thumbnails/carbon-time.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon-time.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbon-time/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

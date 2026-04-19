@@ -2,25 +2,43 @@
 title: "Biochar Rendsburg"
 layout: "single"
 type: "directory"
-description: ""
+description: "Biochar Rendsburg GmbH is a German company based in Borgstedt (Schleswig-Holstein) that operates the first commercial Carbo-FORCE pyrolysis plant on the site of"
 url: "/directory/biochar-rendsburg/"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Germany</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://biochar-zero.com/company/biochar-rendsburg-gmbh/">https://biochar-zero.com/company/biochar-rendsburg-gmbh/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~2 (-33% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>4,479</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Germany
+**Website:** [https://biochar-zero.com/company/biochar-rendsburg-gmbh/](https://biochar-zero.com/company/biochar-rendsburg-gmbh/)
+**Status:** 🟡 Moderate (score: 65/100)
+**Employees:** ~2 (-33% YoY)
+**LinkedIn Followers:** 4,479
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Biochar Rendsburg GmbH operates a Carbo-FORCE brand carbonization plant to produce biochar, a method of carbon dioxide removal.
+Biochar Rendsburg GmbH is a German company based in Borgstedt (Schleswig-Holstein) that operates the first commercial Carbo-FORCE pyrolysis plant on the site of the AWR waste-disposal region. The facility converts organic residues into biochar via partial oxidation, producing a durable carbon material and removing CO2 from the atmosphere. It is affiliated with the Carbo-FORCE technology brand (Bauer group ecosystem) and listed on the biochar-zero marketplace.
 
-![Biochar Rendsburg website](/images/directory/biochar-rendsburg.jpg)
+![Biochar Rendsburg website](/screenshots/v1-thumbnails/biochar-rendsburg.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-rd.de/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

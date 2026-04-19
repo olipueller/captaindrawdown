@@ -2,25 +2,46 @@
 title: "InterEarth"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"20-1\\">InterEarth removes CO2 with the woody biomass burial method to store carbon captured within the biomass.</cite> <cite index=\\"6-2,6-3\\">Their b"
 url: "/directory/interearth/"
+pathway: "Biomass Burial"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>BiCRS (Other)</td></tr>
-  <tr><td><strong>Country</strong></td><td>Australia</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.inter.earth/">https://www.inter.earth/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~4 (+33% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>388</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biomass Burial
+**Method:** BiCRS (Other)
+**Country:** Australia
+**Website:** [https://www.inter.earth/](https://www.inter.earth/)
+**Status:** 🟡 Moderate (score: 60/100)
+**Employees:** ~4 (+33% YoY)
+**LinkedIn Followers:** 388
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-InterEarth is an Australian BiCRS company that removes atmospheric CO2 by planting native trees on degraded farmland, which are then harvested and buried, creating a repeating grow-harvest-bury cycle.
+<cite index="20-1">InterEarth removes CO2 with the woody biomass burial method to store carbon captured within the biomass.</cite> <cite index="6-2,6-3">Their business is harvesting, transporting and stacking dried biomass within their Dry Stack above-ground storage chamber, using woody biomass from plantation-grown native Australian Eucalyptus and Acacia trees.</cite> <cite index="6-26">InterEarth lodged an Australian Provisional Patent in May 2023 and filed an International PCT in May 2024 for its Dry Stack Biomass Carbon sequestration technology.</cite>
 
-![InterEarth website](/images/directory/interearth.jpg)
+![InterEarth website](/screenshots/v1-thumbnails/interearth.jpg)
+
+## Registry Memberships
+
+- Puro.earth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.inter.earth/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/interearth/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

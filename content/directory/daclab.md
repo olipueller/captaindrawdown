@@ -2,23 +2,41 @@
 title: "DACLAB"
 layout: "single"
 type: "directory"
-description: ""
+description: "DACLab is a Palo Alto-based climate-tech startup developing modular solid-sorbent direct air capture (DAC) systems using a patent-pending Temperature Vacuum Swi"
 url: "/directory/daclab/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Solid Sorbent)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.daclab.us/home">https://www.daclab.us/home</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~3 (+200% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>287</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Solid Sorbent)
+**Country:** United States
+**Website:** [https://www.daclab.us/home](https://www.daclab.us/home)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~3 (+200% YoY)
+**LinkedIn Followers:** 287
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-DACLAB is a climate technology company specializing in scalable, cost-effective direct air capture (DAC) solutions using a solid sorbent and a patent-pending Temperature Vacuum Swing Adsorption (TVSA) cycle to remove carbon dioxide.
+DACLab is a Palo Alto-based climate-tech startup developing modular solid-sorbent direct air capture (DAC) systems using a patent-pending Temperature Vacuum Swing Adsorption (TVSA) cycle that regenerates at ultra-low temperatures (~70°C) and under 1,800 kWh/ton. It launched out of stealth in September 2025 with a $3M seed round and its first commercial "Kelvin" product line aimed at e-fuels and CO2 sequestration markets.
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.daclab.us/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/daclab-us/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

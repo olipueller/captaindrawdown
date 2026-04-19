@@ -2,23 +2,40 @@
 title: "Gary Climate Solutions"
 layout: "single"
 type: "directory"
-description: ""
+description: "Gary Climate Solutions is a Carbon Capture and Storage developer that partners with industrial emitters to provide a turnkey solution for capturing, transportin"
 url: "/directory/gary-climate-solutions/"
+pathway: "BECCS"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>BECCS</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.garyclimatesolutions.com/">https://www.garyclimatesolutions.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~2 (-33% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>190</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** BECCS
+**Method:** BECCS
+**Country:** United States
+**Website:** [https://www.garyclimatesolutions.com/](https://www.garyclimatesolutions.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2 (-33% YoY)
+**LinkedIn Followers:** 190
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
 Gary Climate Solutions is a Carbon Capture and Storage developer that partners with industrial emitters to provide a turnkey solution for capturing, transporting, and permanently sequestering carbon dioxide.
 
+
+## History
+
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
 [View on LinkedIn](https://www.linkedin.com/company/gary-climate-solutions/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,20 +2,40 @@
 title: "SVEC"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"6-1,6-7\\">Scotts Valley Energy Company (SVEC) is a business enterprise of the Scotts Valley Band of Pomo Indians developing a bioenergy/biochar prod"
 url: "/directory/svec/"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://scottsvalleyenergycompany.com/">https://scottsvalleyenergycompany.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟠 Suspect (score: 20/100)</td></tr>
-</table>
+**Pathway:** Biochar
+**Secondary pathways:** BECCS
+**Method:** Biochar
+**Country:** United States
+**Website:** [https://scottsvalleyenergycompany.com/](https://scottsvalleyenergycompany.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-N/A
+<cite index="6-1,6-7">Scotts Valley Energy Company (SVEC) is a business enterprise of the Scotts Valley Band of Pomo Indians developing a bioenergy/biochar production facility on tribal lands in Lake County, California, with a sister enterprise (The Clean Carbon Co.) that processes the biochar into activated charcoal.</cite> <cite index="7-1,7-4">A biochar processing plant in Upper Lake, California, had its permit approved in December 2024; the project led by SVEC with the Habematolel Pomo Tribal Nation will convert forest woodchips into syngas to power generators.</cite> <cite index="9-1,9-4,9-5">The company is listed as a Puro.earth CORC supplier (Red Hills, Biochar 2022) in early development status with an ongoing feasibility study.</cite>
 
-![SVEC website](/images/directory/svec.jpg)
+![SVEC website](/screenshots/v1-thumbnails/svec.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.bioenergy-news.com/news/california-woodchip-to-biochar-facility-receives-approval/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,20 +2,44 @@
 title: "O.C.O Technology"
 layout: "single"
 type: "directory"
-description: ""
+description: "O.C.O Technology is a UK-based mineralization CDR supplier operating multiple aggregate manufacturing facilities (Brandon, Avonmouth, Leeds, Wretham) that trans"
 url: "/directory/oco-technology/"
+pathway: "Mineralization"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Mineralization (Other)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United Kingdom</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://oco.co.uk/">https://oco.co.uk/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 100/100)</td></tr>
-</table>
+**Pathway:** Mineralization
+**Secondary pathways:** DAC
+**Method:** Mineralization (Other)
+**Country:** United Kingdom
+**Website:** [https://oco.co.uk/](https://oco.co.uk/)
+**Status:** 🟢 Active (score: 92/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, registry_puro, registry_cdrjobsearth
 
 ## About
 
-O.C.O Technology uses accelerated carbonation technology to speed up the natural mineralization of waste materials, transforming CO2 and industrial residues into carbon-negative aggregate for construction.
+O.C.O Technology is a UK-based mineralization CDR supplier operating multiple aggregate manufacturing facilities (Brandon, Avonmouth, Leeds, Wretham) that transform hazardous waste residues and CO2 into carbon-negative construction aggregate. They sell verified carbon removal credits via the Puro.earth registry and are partnering with Mission Zero Technologies to co-locate DAC at their Wretham site.
 
-![O.C.O Technology website](/images/directory/o-c-o-technology.jpg)
+![O.C.O Technology website](/screenshots/v1-thumbnails/o-c-o-technology.jpg)
+
+## Registry Memberships
+
+- Puro.earth
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://oco.co.uk/carbon-capture/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

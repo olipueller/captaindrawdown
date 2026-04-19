@@ -2,25 +2,43 @@
 title: "Ebb Carbon"
 layout: "single"
 type: "directory"
-description: ""
+description: "Ebb Carbon is a US-based marine CDR supplier using electrochemical ocean alkalinity enhancement (bipolar membrane electrodialysis) to convert desalination brine"
 url: "/directory/ebb-carbon/"
+pathway: "Ocean CDR"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Ocean Alkalinity Enhancement</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.ebbcarbon.com/">https://www.ebbcarbon.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~33 (-18% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>6,910</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Ocean CDR
+**Method:** Ocean Alkalinity Enhancement
+**Country:** United States
+**Website:** [https://www.ebbcarbon.com/](https://www.ebbcarbon.com/)
+**Status:** 🟢 Active (score: 95/100)
+**Employees:** ~33 (-18% YoY)
+**LinkedIn Followers:** 6,910
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Ebb Carbon is a Marine CDR company that uses an electrochemical ocean alkalinity enhancement (OAE) approach to safely enhance seawater's capacity to absorb atmospheric CO2 by raising pH and promoting bicarbonate formation.
+Ebb Carbon is a US-based marine CDR supplier using electrochemical ocean alkalinity enhancement (bipolar membrane electrodialysis) to convert desalination brine into alkaline seawater that draws down atmospheric CO2 as stable bicarbonate. The company operates Project Macoma in Port Angeles, WA and runs a demonstration system at PNNL-Sequim. Recent commercial traction includes a 350,000-tonne Microsoft offtake, a 3,500-tonne Google prepurchase (Dec 2025), and a partnership with the Saudi Water Authority.
 
-![Ebb Carbon website](/images/directory/ebb-carbon.jpg)
+![Ebb Carbon website](/screenshots/v1-thumbnails/ebb-carbon.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20251210046603/en/Ebb-signs-initial-carbon-removal-offtake-agreement-with-Google-to-accelerate-innovation-for-ocean-alkalinity-enhancement))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/ebb-carbon/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

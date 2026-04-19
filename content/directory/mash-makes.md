@@ -2,20 +2,44 @@
 title: "MASH Makes"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"2-10,2-11,2-12\\">MASH Makes A/S is a Danish company established in 2015 as a spin-off from the Technical University of Denmark, whose pyrolysis and "
 url: "/directory/mash-makes/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Denmark</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.mashmakes.com/">https://www.mashmakes.com/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 100/100)</td></tr>
-</table>
+**Pathway:** Biochar
+**Secondary pathways:** BECCS
+**Method:** Biochar
+**Country:** Denmark
+**Website:** [https://www.mashmakes.com/](https://www.mashmakes.com/)
+**Status:** 🟢 Active (score: 92/100)
+**Open roles on cdrjobs:** 6
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-MASH Makes is a Danish company that converts agricultural waste into biofuel and soil-enriching biochar through pyrolysis, generating carbon removal credits and sequestering carbon.
+<cite index="2-10,2-11,2-12">MASH Makes A/S is a Danish company established in 2015 as a spin-off from the Technical University of Denmark, whose pyrolysis and gasification technology converts agricultural waste into carbon-negative energy commodities and biochar that removes CO2 from the atmosphere and produces carbon removal credits.</cite> <cite index="2-13,2-14">The company employs 11 people in Denmark and 49 at its subsidiary in India operating the production facility in Udupi, Karnataka, and aims to scale from two to 30 sites by 2027.</cite> Credits are distributed via Carbonfuture under EBC certification.
 
-![MASH Makes website](/images/directory/mash-makes.jpg)
+![MASH Makes website](/screenshots/v1-thumbnails/mash-makes.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nefco.int/news/mash-makes-receives-new-loan-from-nefco/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

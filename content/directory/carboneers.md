@@ -2,25 +2,46 @@
 title: "Carboneers"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"5-1,5-2\\">Carboneers works with farming communities across the Global South to develop biochar and carbon sequestration projects, with a mission to "
 url: "/directory/carboneers/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Netherlands</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.carboneers.earth/">https://www.carboneers.earth/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~14 (+133% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>3,525</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Netherlands
+**Website:** [https://www.carboneers.earth/](https://www.carboneers.earth/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~14 (+133% YoY)
+**LinkedIn Followers:** 3,525
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin, registry_cdrjobsearth
 
 ## About
 
-Carboneers develops decentralized biochar projects, primarily in the Global South, by empowering smallholder farmers to convert agricultural biomass waste into biochar, which locks carbon in the soil and enhances fertility.
+<cite index="5-1,5-2">Carboneers works with farming communities across the Global South to develop biochar and carbon sequestration projects, with a mission to remove 1 million tons of CO2 by 2028.</cite> The company (originally Dutch Carboneers) operates projects in India and Ghana, and is <cite index="9-7,9-8">listed as a supplier on Isometric with a buffer pool for reversal protection</cite>, partnering with Terrafront Ventures and Together for Restoration.
 
-![Carboneers website](/images/directory/carboneers.jpg)
+![Carboneers website](/screenshots/v1-thumbnails/carboneers.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneers.earth/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/ipcita/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

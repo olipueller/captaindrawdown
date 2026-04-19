@@ -2,25 +2,43 @@
 title: "EAD"
 layout: "single"
 type: "directory"
-description: ""
+description: "EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is the 100% city-owned municipal services utility of Darmstadt, Germany, responsible for waste ma"
 url: "/directory/ead/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Germany</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://biochar-zero.com/company/eigenbetrieb-fur-kommunale-aufgaben-und-dienstleistungen-ead/">https://biochar-zero.com/company/eigenbetrieb-fur-kommunale-aufgaben-und-dienstleistungen-ead/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~2 (-33% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>4,479</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Germany
+**Website:** [https://biochar-zero.com/company/eigenbetrieb-fur-kommunale-aufgaben-und-dienstleistungen-ead/](https://biochar-zero.com/company/eigenbetrieb-fur-kommunale-aufgaben-und-dienstleistungen-ead/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~2 (-33% YoY)
+**LinkedIn Followers:** 4,479
+**CDR Focus:** division
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is a German company that has partnered with ICBA to bolster Abu Dhabi's sustainability goals, including research on hydroponics and managing forage crops.
+EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is the 100% city-owned municipal services utility of Darmstadt, Germany, responsible for waste management, street cleaning, and composting. As a division of the municipality, it runs a biochar carbonization plant producing EBC-certified biochar products from urban green-space biomass. The biochar activity is a small CDR-relevant operation within a much larger municipal utility.
 
-![EAD website](/images/directory/ead.jpg)
+![EAD website](/screenshots/v1-thumbnails/ead.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://biochar-zero.com/company/eigenbetrieb-fur-kommunale-aufgaben-und-dienstleistungen-ead/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

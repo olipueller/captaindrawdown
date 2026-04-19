@@ -2,20 +2,39 @@
 title: "KohleHelden"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"1-1\\">KohleHelden GmbH & Co. KG is a manufacturing company of biochar located in Zierenberg, Germany.</cite> <cite index=\\"6-1\\">They produce EBC- and"
 url: "/directory/kohlehelden/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Germany</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://kohlehelden.de/">https://kohlehelden.de/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 90/100)</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Germany
+**Website:** [https://kohlehelden.de/](https://kohlehelden.de/)
+**Status:** 🟢 Active (score: 75/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-KohleHelden is a German company that manufactures and sells EBC- and GMP+ certified biochar (plant charcoal and feed charcoal) for soil improvement and animal feed, contributing to carbon dioxide removal.
+<cite index="1-1">KohleHelden GmbH & Co. KG is a manufacturing company of biochar located in Zierenberg, Germany.</cite> <cite index="6-1">They produce EBC- and GMP+ certified plant charcoal and feed charcoal (Pflanzenkohle and Futterkohle), sourced regionally from North Hesse near Kassel.</cite> Products are actively sold via their website and Amazon, providing a permanent biochar carbon sink for agricultural applications.
 
-![KohleHelden website](/images/directory/kohlehelden.jpg)
+![KohleHelden website](/screenshots/v1-thumbnails/kohlehelden.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://kohlehelden.de/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

@@ -2,20 +2,39 @@
 title: "Rainbow Bee Eater"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"1-1\\">Rainbow Bee Eater's ECHO2 is a modular automated carbon-negative system for transforming low-value biomass residues into energy, biochar, wood"
 url: "/directory/rainbow-bee-eater/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Australia</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.rainbowbeeeater.com.au/">https://www.rainbowbeeeater.com.au/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟡 Moderate (score: 55/100)</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Australia
+**Website:** [https://www.rainbowbeeeater.com.au/](https://www.rainbowbeeeater.com.au/)
+**Status:** 🟢 Active (score: 80/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-Rainbow Bee Eater is an Australian company that develops and supplies modular 'biomass to energy systems' called ECHO2, which transform low-value biomass residues into energy, biochar, wood vinegar, and horticultural CO2 for atmospheric carbon dioxide removal.
+<cite index="1-1">Rainbow Bee Eater's ECHO2 is a modular automated carbon-negative system for transforming low-value biomass residues into energy, biochar, wood vinegar, horticultural CO2 and carbon drawdown certificates.</cite> <cite index="2-10,2-11">They were the first company outside Europe to produce and sell Puro.earth certified CORCs, generating roughly 1 CORC per tonne of feedstock.</cite> <cite index="7-1,7-9">RBE installed a Mark 4 ECHO2 system at Holla-Fresh in June 2024 and is installing six Mark 4 modules at Katunga Fresh in Victoria.</cite>
 
-![Rainbow Bee Eater website](/images/directory/rainbow-bee-eater.jpg)
+![Rainbow Bee Eater website](/screenshots/v1-thumbnails/rainbow-bee-eater.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.rainbowbeeeater.com.au/what-we-do))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

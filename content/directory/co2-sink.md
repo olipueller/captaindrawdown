@@ -2,23 +2,41 @@
 title: "CO2 Sink"
 layout: "single"
 type: "directory"
-description: ""
+description: "CO2 Sink (co2sink.co) is listed as a US-based biochar company, but web research returned no substantive information about the firm — no press, no projects, no r"
 url: "/directory/co2-sink/"
+pathway: "Biochar"
+liveliness: "🔴 Likely Dead"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://co2sink.co/">https://co2sink.co/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🔴 Likely Dead (score: 10/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~4 (+200% YoY)</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>25</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** United States
+**Website:** [https://co2sink.co/](https://co2sink.co/)
+**Status:** 🔴 Likely Dead (score: 15/100)
+**Employees:** ~4 (+200% YoY)
+**LinkedIn Followers:** 25
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-No specific information about the company 'CO2 Sink' was found in the search results. The results discuss biochar as a CO2 sink generally, but do not refer to the company itself.
+CO2 Sink (co2sink.co) is listed as a US-based biochar company, but web research returned no substantive information about the firm — no press, no projects, no registry listings, and no distinguishing operational footprint. LinkedIn shows only 4 employees and the entity appears to have minimal public presence. Note: co2sink.org is an unrelated defunct EU geological storage research project completed in 2010.
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🔴 Likely Dead ([source](https://co2sink.co/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/co2-sink/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

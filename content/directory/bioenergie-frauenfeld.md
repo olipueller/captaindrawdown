@@ -2,25 +2,44 @@
 title: "Bioenergie Frauenfeld"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"2-1,2-2,2-3\\">Bioenergie Frauenfeld AG, a joint venture between Energie 360° AG and Schweizer Zucker AG, operates a climate-positive wood-fired powe"
 url: "/directory/bioenergie-frauenfeld/"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Switzerland</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.bioenergie-frauenfeld.ch/">https://www.bioenergie-frauenfeld.ch/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~6</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>933</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Secondary pathways:** BECCS
+**Method:** Biochar
+**Country:** Switzerland
+**Website:** [https://www.bioenergie-frauenfeld.ch/](https://www.bioenergie-frauenfeld.ch/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~6 (0% YoY)
+**LinkedIn Followers:** 933
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Bioenergie Frauenfeld produces EBC certified biochar from residual wood through pyrolysis, generating ecological electricity and waste heat, and enabling carbon removal.
+<cite index="2-1,2-2,2-3">Bioenergie Frauenfeld AG, a joint venture between Energie 360° AG and Schweizer Zucker AG, operates a climate-positive wood-fired power plant in Frauenfeld that has been in operation since spring 2022, converting regional residual wood via pyrolysis into durable carbon (biochar).</cite> <cite index="3-15,3-16">The carbon-negative plant removes 9,000 metric tons of CO2 annually and was built in collaboration with IWK Integrierte Wärme Kraft AG and SYNCRAFT.</cite> <cite index="7-2">Carbonfuture has signed a partnership with Bioenergie Frauenfeld to enable large-scale carbon removal deliveries.</cite>
 
-![Bioenergie Frauenfeld website](/images/directory/bioenergie-frauenfeld.jpg)
+![Bioenergie Frauenfeld website](/screenshots/v1-thumbnails/bioenergie-frauenfeld.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bioenergie-frauenfeld.ch/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/bioenergie-frauenfeld/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

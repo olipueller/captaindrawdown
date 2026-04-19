@@ -2,20 +2,40 @@
 title: "Yuanchu Technology"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"3-1,3-2\\">Yuanchu Technology is a Beijing-based company founded in 2014 that develops large-scale, low-cost permanent carbon mineralization technolo"
 url: "/directory/yuanchu-technology/"
+pathway: "Mineralization"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Mineralization (Other)</td></tr>
-  <tr><td><strong>Country</strong></td><td>China</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="http://www.yuanchutech.cn/en/h-col-109.html">http://www.yuanchutech.cn/en/h-col-109.html</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 75/100)</td></tr>
-</table>
+**Pathway:** Mineralization
+**Secondary pathways:** DAC
+**Method:** Mineralization (Other)
+**Country:** China
+**Website:** [http://www.yuanchutech.cn/en/h-col-109.html](http://www.yuanchutech.cn/en/h-col-109.html)
+**Status:** 🟢 Active (score: 85/100)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url
 
 ## About
 
-Yuanchu Technology develops advanced Carbon Capture Utilization and Storage (CCUS) and Carbon Dioxide Removal (CDR) technology through mineralization, converting CO2 into stable calcium carbonates using flue gas and industrial solid waste, and also direct air mineralization (DAM).
+<cite index="3-1,3-2">Yuanchu Technology is a Beijing-based company founded in 2014 that develops large-scale, low-cost permanent carbon mineralization technology.</cite> <cite index="16-1,16-2">It is developing direct air mineralization (DAM) technology for removing CO2 from air and permanently sequestering it into solid carbonated material, claiming stability for 1000 years.</cite> <cite index="12-5,12-6">It was selected as an XPRIZE Carbon Removal finalist in the Rocks category competing for the $50M Musk Foundation prize.</cite>
 
-![Yuanchu Technology website](/images/directory/yuanchu-technology.jpg)
+![Yuanchu Technology website](/screenshots/v1-thumbnails/yuanchu-technology.jpg)
+
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.yuanchutech.com/en/sys-nd/67.html))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

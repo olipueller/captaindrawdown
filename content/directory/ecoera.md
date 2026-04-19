@@ -2,24 +2,45 @@
 title: "Ecoera"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"1-1,14-9\\">Ecoera is a Swedish biochar CDR company founded at Chalmers Ventures in collaboration with Skånefrö AB, and started Sweden's first large-"
 url: "/directory/ecoera/"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
-  <tr><td><strong>Country</strong></td><td>Sweden</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://ecoera.se/">https://ecoera.se/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~2</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** Biochar
+**Method:** Biochar
+**Country:** Sweden
+**Website:** [https://ecoera.se/](https://ecoera.se/)
+**Status:** 🟡 Moderate (score: 60/100)
+**Employees:** ~2 (0% YoY)
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-Ecoera is a Swedish company that removes carbon using biochar technology, creating a biochar carbon removal platform for soil carbon capture and bioenergy from biomass.
+<cite index="1-1,14-9">Ecoera is a Swedish biochar CDR company founded at Chalmers Ventures in collaboration with Skånefrö AB, and started Sweden's first large-scale biochar carbon removal work in 2009.</cite> <cite index="3-15,3-16">Biochar is produced in Hammenhög, South Sweden, at one of the largest biochar production facilities in the EU using PYREG P500 and P1500 carbonization systems.</cite> <cite index="3-5,3-7">Output is third-party verified under the European Biochar Certificate and the Puro.earth Biochar methodology, and sold as CORC removal credits on carbon marketplaces.</cite>
 
-![Ecoera website](/images/directory/ecoera.jpg)
+![Ecoera website](/screenshots/v1-thumbnails/ecoera.jpg)
+
+## Registry Memberships
+
+- Puro.earth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://ecoera.se/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/ecoera-ab/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

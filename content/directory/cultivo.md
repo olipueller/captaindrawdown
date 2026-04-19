@@ -2,20 +2,44 @@
 title: "Cultivo"
 layout: "single"
 type: "directory"
-description: ""
+description: "<cite index=\\"6-8,6-9,6-10,6-11\\">Cultivo is a platform for developing and operating natural assets, partnering with institutional investors and multinational cor"
 url: "/directory/cultivo/"
+pathway: "Afforestation"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>Soil Carbon Sequestration</td></tr>
-  <tr><td><strong>Country</strong></td><td>United States</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.cultivo.land/">https://www.cultivo.land/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 70/100)</td></tr>
-</table>
+**Pathway:** Afforestation
+**Secondary pathways:** Biochar
+**Method:** Soil Carbon Sequestration
+**Country:** United States
+**Website:** [https://www.cultivo.land/](https://www.cultivo.land/)
+**Status:** 🟢 Active (score: 95/100)
+**Open roles on cdrjobs:** 4
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Cultivo is a public benefit corporation that accelerates investment into nature regeneration at scale, leveraging an AI-driven platform to drive land resilience and regenerative investments. While they focus on nature-based solutions, the specific CDR method of soil carbon sequestration is not explicitly detailed in the provided results, but rather a broader approach to natural capital.
+<cite index="6-8,6-9,6-10,6-11">Cultivo is a platform for developing and operating natural assets, partnering with institutional investors and multinational corporations, with a model that generates returns through payments for services, primarily carbon removal, unlocked by land regeneration activities.</cite> They focus heavily on U.S. grasslands but also cover afforestation/reforestation, agroforestry, improved forest management, mangrove restoration, and biochar. <cite index="8-13,8-14,8-15,8-16">Cultivo acquired Kateri, a U.S.-based carbon grasslands project developer, effective December 1, 2025, strengthening its vertically integrated model; combined projects aim to remove over 9 million tonnes CO₂e over 30 years.</cite>
 
-![Cultivo website](/images/directory/cultivo.jpg)
+![Cultivo website](/screenshots/v1-thumbnails/cultivo.jpg)
+
+## Registry Memberships
+
+- Cdrjobsearth
+
+## History
+
+- **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://cultivo.land/remove-carbon))
+- **2026-04-18** — backfilled from V1
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).

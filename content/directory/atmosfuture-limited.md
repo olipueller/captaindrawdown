@@ -2,25 +2,42 @@
 title: "Atmosfuture Limited"
 layout: "single"
 type: "directory"
-description: ""
+description: "Atmosfuture Limited develops REVFRACC, a novel Direct Air Capture (DAC) system that uses a cryogenic method to capture CO2 without requiring a fan, while also p"
 url: "/directory/atmosfuture-limited/"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-
-<table class="company-info">
-  <tr><td><strong>Category</strong></td><td>DAC (Cryogenic)</td></tr>
-  <tr><td><strong>Country</strong></td><td>United Kingdom</td></tr>
-  <tr><td><strong>Website</strong></td><td><a href="https://www.atmosfuture.co.uk/">https://www.atmosfuture.co.uk/</a></td></tr>
-  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><td><strong>Employees</strong></td><td>~1</td></tr>
-  <tr><td><strong>LinkedIn Followers</strong></td><td>527</td></tr>
-  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
-</table>
+**Pathway:** DAC
+**Method:** DAC (Cryogenic)
+**Country:** United Kingdom
+**Website:** [https://www.atmosfuture.co.uk/](https://www.atmosfuture.co.uk/)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~1 (0% YoY)
+**LinkedIn Followers:** 527
+**CDR Focus:** supplier
+**Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
 Atmosfuture Limited develops REVFRACC, a novel Direct Air Capture (DAC) system that uses a cryogenic method to capture CO2 without requiring a fan, while also providing renewable energy for data centers.
 
-![Atmosfuture Limited website](/images/directory/atmosfuture-limited.jpg)
+![Atmosfuture Limited website](/screenshots/v1-thumbnails/atmosfuture-limited.jpg)
+
+
+## History
+
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/atmosfutureltd/)
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).
