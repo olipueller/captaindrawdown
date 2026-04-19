@@ -2,20 +2,30 @@
 title: "Transformando la Zoca en Biochar."
 layout: "single"
 type: "directory"
-description: "Transformando la Zoca en Biochar. — Unknown company in Unknown"
+description: "Transformando la Zoca en Biochar is a community-led Colombian project that converts coffee plantation pruning residues (\"zoca\") into biochar, aiming to"
 url: "/directory/transformando-la-zoca-en-biochar/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Colombia
+**Website:** [https://zocacoffeecolombia.com.co/](https://zocacoffeecolombia.com.co/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Transformando la Zoca en Biochar is a community-led Colombian project that converts coffee plantation pruning residues ("zoca") into biochar, aiming to sequester carbon while improving soils on smallholder coffee farms. The project is listed on the UN SDG Actions Platform and registered with the Global Carbon Registry (project #1036), and is linked to Café Zoca in Colombia.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://sdgs.un.org/partnerships/transformando-la-zoca-en-biochar-community-led-coffee-residue-biochar-climate-soil))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/transformando-la-zoca-en-biochar))
 
 ---

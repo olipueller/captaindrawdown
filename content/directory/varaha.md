@@ -2,7 +2,7 @@
 title: "Varaha"
 layout: "single"
 type: "directory"
-description: "Varaha is an India-based carbon removal project developer operating across India, Nepal, Bangladesh, Bhutan and Ivory Coast, working with ~170,000+ smallholder"
+description: "Varaha is a New Delhi-based carbon removal project developer founded in 2022, operating across India, Nepal, Bangladesh, Bhutan and Ivory Coast with"
 url: "/directory/varaha/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,13 +13,15 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** India
 **Website:** [https://www.varaha.earth/](https://www.varaha.earth/)
-**Status:** 🟢 Active (score: 97/100)
+**Status:** 🟢 Active (score: 98/100)
+**Employees:** ~281 (+34% YoY)
+**LinkedIn Followers:** 30,518
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_puro, registry_cdrjobsearth
 
 ## About
 
-Varaha is an India-based carbon removal project developer operating across India, Nepal, Bangladesh, Bhutan and Ivory Coast, working with ~170,000+ smallholder farmers. Their primary pathway is industrial and artisanal biochar (registered on Puro.earth), supplemented by regenerative agriculture, agroforestry, and enhanced rock weathering. Major offtake deals with Google (100,000t, Jan 2025) and Microsoft (100,000t+, Jan 2026), and they raised $20M of a $45M Series B led by WestBridge Capital in Feb 2026.
+Varaha is a New Delhi-based carbon removal project developer founded in 2022, operating across India, Nepal, Bangladesh, Bhutan and Ivory Coast with ~150,000–175,000 smallholder farmers. Its primary pathway is biochar (registered on Puro.earth), supplemented by soil carbon/regenerative agriculture, agroforestry and enhanced rock weathering. Major offtakes include Google (100,000 t, Jan 2025) and Microsoft (100,000+ t over three years, Jan 2026); the company has raised ~$50M to date.
 
 ![Varaha website](/screenshots/v1-thumbnails/varaha.jpg)
 
@@ -30,8 +32,17 @@ Varaha is an India-based carbon removal project developer operating across India
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Varaha Climate AG
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.varaha.earth/))
+- **2026-04-19** — discovered via: cdrjobs ([source](https://www.cdrjobs.earth/job-board))
+- **** — merged duplicate: Varaha Climate AG (slug=varaha-climate-ag)
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/meta-carbontech/)
 
 ---
 

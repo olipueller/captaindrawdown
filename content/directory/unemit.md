@@ -2,24 +2,25 @@
 title: "Unemit"
 layout: "single"
 type: "directory"
-description: "Unemit's DAC technology is designed to be scalable to gigatons, relying on existing supply chains, with CO2 captured in modular, factory-assembled contactors an"
+description: "Unemit is a Berkeley, California-based Direct Air Capture startup backed by Breakthrough Energy Fellows. It is developing a modular, factory-assembled DAC"
 url: "/directory/unemit/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://unemit.com/](https://unemit.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 100/100)
+**Employees:** ~3 (0% YoY)
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Unemit's DAC technology is designed to be scalable to gigatons, relying on existing supply chains, with CO2 captured in modular, factory-assembled contactors and extracted from the sorbent using low-temperature heat that can be powered by concentrated solar or other renewables, then permanently stored underground. The company is a Berkeley, California-based startup backed by Breakthrough Energy Fellows.
+Unemit is a Berkeley, California-based Direct Air Capture startup backed by Breakthrough Energy Fellows. It is developing a modular, factory-assembled DAC contactor system that uses a chemical sorbent regenerated with low-temperature heat (compatible with concentrated solar or other renewables), with the aim of scaling to gigaton-level atmospheric CO2 removal.
 
 ![Unemit website](/screenshots/v1-thumbnails/unemit.jpg)
 
@@ -29,8 +30,13 @@ Unemit's DAC technology is designed to be scalable to gigatons, relying on exist
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://unemit.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://unemit.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://unemit.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/unemit/)
 
 ---
 

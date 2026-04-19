@@ -2,31 +2,36 @@
 title: "Green Sequest"
 layout: "single"
 type: "directory"
-description: "Green Sequest is a Polish startup (founded 2022, based in Nasławice) developing an Enhanced Rock Weathering technology based on antigorite serpentinite, a magne"
+description: "Green Sequest is a Polish CDR startup founded in 2022, based in Nasławice, developing Enhanced Rock Weathering technology using antigorite serpentinite to"
 url: "/directory/green-sequest/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Enhanced Weathering
+**Secondary pathways:** Mineralization
 **Method:** Enhanced Rock Weathering
 **Country:** Poland
 **Website:** [https://greensequest.earth/](https://greensequest.earth/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 719
+**LinkedIn Followers:** 724
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Green Sequest is a Polish startup (founded 2022, based in Nasławice) developing an Enhanced Rock Weathering technology based on antigorite serpentinite, a magnesium-rich rock that permanently mineralizes CO2. They also commercialize a serpentinite-based fertilizer ("Green Mag Balance") approved by the Polish Ministry of Agriculture, and have participated in accelerators such as Carbon Removal ClimAccelerator and Google Startups for Sustainable Development.
+Green Sequest is a Polish CDR startup founded in 2022, based in Nasławice, developing Enhanced Rock Weathering technology using antigorite serpentinite to mineralize atmospheric CO2. The company also commercializes a serpentinite-based mineral fertilizer authorized by Poland's Ministry of Agriculture for use in agriculture and certified for organic farming by IUNG. It has completed the 'remove' and Carbon Removal ClimAccelerator programs and joined the CEEZER Carbon Coalition.
 
-![Green Sequest website](/screenshots/v1-thumbnails/green-sequest.jpg)
+![Green Sequest website](/screenshots/green-sequest/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://greensequest.earth/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/green-sequest/__j85wWBPUkutZ7oIZFBXnL4ocO8YTwmnBSBG5q9iYZPY))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://greensequest.earth/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensequest.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

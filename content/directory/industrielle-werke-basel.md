@@ -2,7 +2,7 @@
 title: "Industrielle Werke Basel"
 layout: "single"
 type: "directory"
-description: "IWB (Industrielle Werke Basel) is the municipal utility of the Swiss canton of Basel-City, providing electricity, natural gas, district heat, drinking water, an"
+description: "IWB (Industrielle Werke Basel) is the municipal utility of the Swiss canton of Basel-City, providing electricity, natural gas, district heat, drinking water,"
 url: "/directory/industrielle-werke-basel/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,26 +11,34 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Switzerland
-**Website:** [https://biochar-zero.com/company/iwb-industrielle-werke-basel/](https://biochar-zero.com/company/iwb-industrielle-werke-basel/)
+**Website:** [https://www.iwb.ch/](https://www.iwb.ch/)
 **Status:** 🟢 Active (score: 85/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 4,479
+**Employees:** ~787 (+8% YoY)
+**LinkedIn Followers:** 12,196
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-IWB (Industrielle Werke Basel) is the municipal utility of the Swiss canton of Basel-City, providing electricity, natural gas, district heat, drinking water, and telecommunications. Within the utility, IWB operates a PYREG pyrolysis plant that carbonises green waste into biochar (~550 t/year) sold to farmers and private customers, and has piloted biochar-infused "CO2-negative" asphalt. CDR is a flagship sustainability initiative but a small part of the utility's overall business.
+IWB (Industrielle Werke Basel) is the municipal utility of the Swiss canton of Basel-City, providing electricity, natural gas, district heat, drinking water, and telecommunications. As a small business line within the utility, IWB operates biomass pyrolysis plants (including a PYREG unit and a new BIOMACON-supplied plant in Maisprach commissioned December 2025) that carbonise green waste and wood chips into EBC-certified biochar, with by-product heat fed into local district heating networks.
 
 ![Industrielle Werke Basel website](/screenshots/v1-thumbnails/industrielle-werke-basel.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Industrielle Werke Basel IWB
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.iwb.ch/angebote/produkte/pflanzenkohle))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.iwb.ch/ ([source](https://www.cdr.fyi/supplier/iwb))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/iwb))
+- **** — merged duplicate: Industrielle Werke Basel IWB (slug=industrielle-werke-basel-iwb)
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.biomacon.com/post/participation-of-biomacon-in-the-maispracher-w%C3%A4rmeverbund-project-switzerland?lang=en))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyreg.com/flagship-project-climate-neutral-district-heating-in-basel/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
-[View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)
+[View on LinkedIn](https://www.linkedin.com/company/iwb-industrielle-werke-basel/)
 
 ---
 

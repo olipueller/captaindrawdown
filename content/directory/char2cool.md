@@ -2,29 +2,33 @@
 title: "Char2Cool"
 layout: "single"
 type: "directory"
-description: "Char2Cool e.V. is a registered German non-profit association, run by a two-person core team (Walter and Katharina) based in Reisbach, Lower Bavaria, focused on"
+description: "Char2Cool e.V. is a registered German non-profit association based in Reisbach, Bavaria, that works with local partners in Africa (Nigeria, Ghana, Kenya,"
 url: "/directory/char2cool/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
-**Website:** [https://char2cool.org/?lang=en](https://char2cool.org/?lang=en)
-**Status:** 🟡 Moderate (score: 55/100)
+**Website:** [https://char2cool.org](https://char2cool.org)
+**Status:** 🟢 Active (score: 70/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Char2Cool e.V. is a registered German non-profit association, run by a two-person core team (Walter and Katharina) based in Reisbach, Lower Bavaria, focused on climate protection through the use of water hyacinths. They work with communities across Africa to turn the invasive weed into biochar as a permanent carbon sink, with the Char2Cool team providing know-how while local partners set up and run production and sell the biochar locally as a soil enhancer.
+Char2Cool e.V. is a registered German non-profit association based in Reisbach, Bavaria, that works with local partners in Africa (Nigeria, Ghana, Kenya, Uganda, Ethiopia) and Peru to harvest invasive water hyacinths and carbonize them into biochar using a low-tech C2C-Kiln. The biochar is applied as a soil amendment, and the organization sells CO2 compensation certificates based on verified carbon savings. They operate a decentralized model supporting local entrepreneurs rather than centralized production.
 
-![Char2Cool website](/screenshots/v1-thumbnails/char2cool.jpg)
+![Char2Cool website](/screenshots/char2cool/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://char2cool.org/?lang=en))
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://char2cool.org/?lang=en))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://char2cool.org/?lang=en))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://char2cool.org/?lang=en))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

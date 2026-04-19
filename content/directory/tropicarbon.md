@@ -2,32 +2,38 @@
 title: "Tropicarbon"
 layout: "single"
 type: "directory"
-description: "Tropicarbon leads Enhanced Rock Weathering in Colombia, targeting 1 million tons of CO2 removal by 2030, with a mission to achieve trustworthy carbon removal wi"
+description: "Tropicarbon, founded in 2023, is headquartered in Colombia and develops enhanced rock weathering projects that spread custom silicate rock blends on farmland"
 url: "/directory/tropicarbon/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Enhanced Weathering
 **Method:** Enhanced Rock Weathering
 **Country:** Colombia
 **Website:** [https://www.tropicarbon.com/](https://www.tropicarbon.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2
 **CDI Portfolio Company**
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Tropicarbon leads Enhanced Rock Weathering in Colombia, targeting 1 million tons of CO2 removal by 2030, with a mission to achieve trustworthy carbon removal with innovative technology while optimizing benefits for local farmers. In partnership with Universidad del Norte, Tropicarbon launched the Barranquilla Project, testing how its rock powder interacts with dozens of Colombian soils under tropical conditions. Founded in 2023 and headquartered in Colombia, the company has raised $100K with investment from GLOCAL (Argentina).
+Tropicarbon, founded in 2023, is headquartered in Colombia and develops enhanced rock weathering projects that spread custom silicate rock blends on farmland while monitoring CO2 removal through proprietary MRV. Its Barranquilla Project, in collaboration with Universidad del Norte, represents the largest multi-soil experiment on EW in Latin America, studying soil samples from many locations in Colombia to map their potential for EW. The company aligns its work with leading carbon removal certifiers Isometric and Puro.Earth.
 
 ![Tropicarbon website](/screenshots/v1-thumbnails/tropicarbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/tropicarbon/__ZLzI5ELQl8S_k5eRBYurltZGTGfqGat_UGNb2_R4JXM))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.tropicarbon.com/enhanced-weathering))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.tropicarbon.com/enhanced-weathering))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/tropicarbon/)
 
 ---
 

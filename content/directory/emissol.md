@@ -2,20 +2,34 @@
 title: "Emissol"
 layout: "single"
 type: "directory"
-description: "Emissol — Unknown company in Unknown"
+description: "Emissol is a Bothell, Washington-based company founded in 2013 that develops direct air capture technology, in particular a proprietary low-sorbent,"
 url: "/directory/emissol/"
-pathway: "Unknown"
+pathway: "DAC"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** DAC
+**Secondary pathways:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://www.emissol.com/](https://www.emissol.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Emissol is a Bothell, Washington-based company founded in 2013 that develops direct air capture technology, in particular a proprietary low-sorbent, low-pressure-drop DAC contactor. It is partnering with Kenyan climate-tech company Octavia Carbon on Project Hummingbird, a DAC + basalt mineralization project in Kenya's Rift Valley. The company also develops adjacent emission-reduction tech (NOx mixers, catalytic converters) for diesel aftertreatment.
+
+![Emissol website](/screenshots/emissol/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.emissol.com/dac-contactor))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.emissol.com/ ([source](https://www.cdr.fyi/supplier/emissol))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/emissol))
 
 ---

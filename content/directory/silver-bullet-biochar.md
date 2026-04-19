@@ -2,31 +2,38 @@
 title: "Silver Bullet Biochar"
 layout: "single"
 type: "directory"
-description: "Silver Bullet Biochar appears to be a Singapore-based biochar venture with a LinkedIn page but virtually no public footprint — no press, no product pages surfac"
+description: "Silver Bullet Biochar is a Singapore-based biochar venture with a minimal public footprint — essentially only a LinkedIn page and a domain. No press coverage,"
 url: "/directory/silver-bullet-biochar/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** BiCRS (Other)
 **Country:** Singapore
 **Website:** [https://silverbulletbiochar.com/](https://silverbulletbiochar.com/)
-**Status:** 🟠 Suspect (score: 25/100)
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~2 (+100% YoY)
+**LinkedIn Followers:** 87
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Silver Bullet Biochar appears to be a Singapore-based biochar venture with a LinkedIn page but virtually no public footprint — no press, no product pages surfaced in search, and no evidence of deliveries or certifications. The pathway is biochar (pyrolysis of biomass), not BECCS as previously tagged.
+Silver Bullet Biochar is a Singapore-based biochar venture with a minimal public footprint — essentially only a LinkedIn page and a domain. No press coverage, registry listings, or evidence of biochar deliveries or carbon credit issuance could be found. Pathway is biochar (pyrolysis of biomass) rather than the BECCS tag previously applied.
 
 ![Silver Bullet Biochar website](/screenshots/v1-thumbnails/silver-bullet-biochar.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.linkedin.com/company/silver-bullet-biochar))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://silverbulletbiochar.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.linkedin.com/company/silver-bullet-biochar))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/silver-bullet-biochar/)
 
 ---
 

@@ -2,10 +2,10 @@
 title: "TerraNova Energy"
 layout: "single"
 type: "directory"
-description: "TerraNova Energy is a technology provider for upgrading organic waste streams via Thermal Hydrolysis Process (THP) and Hydrothermal Carbonization (HTC). Its Ter"
+description: "TerraNova Energy is a German technology provider that builds Hydrothermal Carbonization (HTC) and Thermal Hydrolysis (THP) plants which convert wet organic"
 url: "/directory/terranova-energy/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
@@ -13,21 +13,28 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://www.terranova-energy.com/](https://www.terranova-energy.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~4 (-20% YoY)
+**LinkedIn Followers:** 629
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-TerraNova Energy is a technology provider for upgrading organic waste streams via Thermal Hydrolysis Process (THP) and Hydrothermal Carbonization (HTC). Its TerraNova®ultra process enables the use of moist biomass, particularly waste streams such as sewage sludge or organic waste, to generate "Hydrochar," in which over 90% of the biomass carbon is stored; it has a stability comparable to lignite and is positioned for permanent CO2 removal. A plant based on TerraNova HTC technology including a pyrolysis unit was built in Mexico City to process 23,000 tons of organic waste per year.
+TerraNova Energy is a German technology provider that builds Hydrothermal Carbonization (HTC) and Thermal Hydrolysis (THP) plants which convert wet organic waste streams — primarily sewage sludge and biowaste — into stable hydrochar. The company positions its TerraNova®ultra "wet pyrolysis" process as a permanent carbon-removal pathway under the EU CRCF (Regulation 2024/3012), with installations in China, Mexico, Turkey, Poland, and Germany.
 
-![TerraNova Energy website](/screenshots/v1-thumbnails/terranova-energy.jpg)
+![TerraNova Energy website](/screenshots/terranova-energy/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.terranova-energy.com/en/applications/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.terranova-energy.com/en/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.terranova-energy.com/en/applications/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/terranova-energy/)
 
 ---
 

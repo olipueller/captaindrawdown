@@ -2,32 +2,35 @@
 title: "Kepler ReCapture"
 layout: "single"
 type: "directory"
-description: "Kepler ReCapture is a U.S.-based (Austin, TX) division of aerospace firm Kepler Shipyards, developing conceptual ocean-based floating platforms that integrate c"
+description: "Kepler ReCapture is a division of Austin, Texas-based aerospace consulting firm Kepler Shipyards, founded in 2021 as an XPRIZE Carbon Removal entrant. The"
 url: "/directory/kepler-recapture/"
 pathway: "Ocean CDR"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Ocean CDR
-**Secondary pathways:** DAC, Mineralization
+**Secondary pathways:** DAC
 **Method:** Direct Ocean Removal
 **Country:** United States
 **Website:** [https://keplerrecapture.com/](https://keplerrecapture.com/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~10 (-17% YoY)
-**LinkedIn Followers:** 284
-**CDR Focus:** supplier
+**LinkedIn Followers:** 291
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Kepler ReCapture is a U.S.-based (Austin, TX) division of aerospace firm Kepler Shipyards, developing conceptual ocean-based floating platforms that integrate carbon-negative desalination with CO2 removal from the ocean-atmosphere system. The company was founded in 2021 as an XPRIZE Carbon Removal entrant and remains in early/pre-deployment stage, with artist renderings rather than operational systems. Multiple revenue streams are claimed including freshwater, renewable energy, carbonate minerals, and gases.
+Kepler ReCapture is a division of Austin, Texas-based aerospace consulting firm Kepler Shipyards, founded in 2021 as an XPRIZE Carbon Removal entrant. The company is designing conceptual autonomous deep-water spar platforms that would combine OTEC-powered desalination with ocean and atmospheric CO2 removal, producing freshwater and durable carbon-containing co-products. The work remains at the artist-rendering/pre-deployment stage with no operational systems, deliveries, or registry credits reported.
 
-![Kepler ReCapture website](/screenshots/v1-thumbnails/kepler-recapture.jpg)
+![Kepler ReCapture website](/screenshots/kepler-recapture/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](https://keplerrecapture.com/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=division liveliness=🟠 Suspect ([source](https://keplerrecapture.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://keplerrecapture.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

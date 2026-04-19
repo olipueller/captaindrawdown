@@ -2,21 +2,37 @@
 title: "Bret Consultores SAPI"
 layout: "single"
 type: "directory"
-description: "Bret Consultores SAPI — Unknown company in Unknown"
+description: "Bret Consultores SAPI de CV is a Mexico-based carbon project developer that generates forestry-based carbon removal credits through Improved Forest Management"
 url: "/directory/bret-consultores-sapi/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Mexico
+**Website:** [https://bret-co.com/](https://bret-co.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~5 (0% YoY)
+**LinkedIn Followers:** 142
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Bret Consultores SAPI de CV is a Mexico-based carbon project developer that generates forestry-based carbon removal credits through Improved Forest Management (IFM) projects with ejidos and private landowners across Mexican states including Chihuahua, Durango, Jalisco and Quintana Roo. It is a wholly-owned subsidiary of US-listed Arma Services Inc. (OTC: ARMV) following a 2023 reverse merger, and its projects follow the Climate Action Reserve Forest Protocol for Mexico.
+
+![Bret Consultores SAPI website](/screenshots/bret-consultores-sapi/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://bret-co.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bret-consultores))
+
+[View on LinkedIn](https://www.linkedin.com/company/bret-consultores/)
 
 ---
 

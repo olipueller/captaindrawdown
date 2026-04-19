@@ -2,7 +2,7 @@
 title: "Timber Finance"
 layout: "single"
 type: "directory"
-description: "Timber Finance (Timber Finance Management AG), founded 2021 in Zurich, is a specialized investment advisor and methodology developer focused on mass timber as a"
+description: "Timber Finance (Timber Finance Management AG) is a Zurich-based competence center founded in 2021 that develops methodology and financial instruments for mass"
 url: "/directory/timber-finance/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -13,16 +13,18 @@ liveliness: "🟢 Active"
 **Method:** Biomass Carbon Removal
 **Country:** Switzerland
 **Website:** [https://timberfinance.ch/](https://timberfinance.ch/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~12 (+33% YoY)
+**LinkedIn Followers:** 3,242
 **Open roles on cdrjobs:** 1
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Timber Finance (Timber Finance Management AG), founded 2021 in Zurich, is a specialized investment advisor and methodology developer focused on mass timber as a carbon storage pathway. They are developing the world's first ICROA-aligned methodology for timber carbon removal certificates and offer financial products channeling capital into the forest-to-frame timber value chain. They do not physically operate removal facilities themselves — they build the financial/MRV infrastructure for timber-based CDR.
+Timber Finance (Timber Finance Management AG) is a Zurich-based competence center founded in 2021 that develops methodology and financial instruments for mass timber as a carbon storage pathway. They developed the world's first ICROA-compliant VCS methodology for mass timber construction (recognized December 2023), certify building projects, and trade Mass Timber Carbon Removal Credits, partnering with real estate developers, timber construction firms, and forest managers rather than physically performing removals themselves.
 
-![Timber Finance website](/screenshots/v1-thumbnails/timber-finance.jpg)
+![Timber Finance website](/screenshots/timber-finance/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -30,8 +32,17 @@ Timber Finance (Timber Finance Management AG), founded 2021 in Zurich, is a spec
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Timber Carbon
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=ecosystem liveliness=🟢 Active ([source](https://timberfinance.ch/en/carbon/))
+- **2026-04-19** — discovered via: cdrjobs ([source](https://www.cdrjobs.earth/job-board))
+- **** — merged duplicate: Timber Carbon (slug=timber-carbon)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=ecosystem liveliness=🟢 Active ([source](https://timberfinance.ch/en/carbon/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=ecosystem liveliness=🟢 Active ([source](https://timberfinance.ch/en/carbon/randd/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/timberfinance/)
 
 ---
 

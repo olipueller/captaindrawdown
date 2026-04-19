@@ -2,7 +2,7 @@
 title: "NuAria"
 layout: "single"
 type: "directory"
-description: "NuAria is a US-based direct air capture startup developing a novel sorbent packaged as cylindrical wound membranes, aiming at affordable and scalable CO2 remova"
+description: "NuAria is a US-based direct air capture startup developing a novel solid sorbent packaged as cylindrical wound membranes for scalable, low-cost CO2 removal."
 url: "/directory/nuaria/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -12,21 +12,27 @@ liveliness: "🟡 Moderate"
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://www.nuaria.com/](https://www.nuaria.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟡 Moderate (score: 45/100)
+**Employees:** ~2
+**LinkedIn Followers:** 87
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-NuAria is a US-based direct air capture startup developing a novel sorbent packaged as cylindrical wound membranes, aiming at affordable and scalable CO2 removal. The company sells carbon credits via subscriptions and upfront purchases to industries and governments pursuing net-zero targets. Public signals are limited — the website is live and it was featured on a 2025 DAC watchlist, but there is no recent funding or deployment news.
+NuAria is a US-based direct air capture startup developing a novel solid sorbent packaged as cylindrical wound membranes for scalable, low-cost CO2 removal. The company sells carbon credits via subscriptions and upfront purchases to industries and governments pursuing net-zero targets. Public signals are limited — the website is live and it was featured on a 2025 DAC watchlist, but no major funding, deliveries, or registry activity is visible.
 
 ![NuAria website](/screenshots/v1-thumbnails/nuaria.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.nuaria.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.nuaria.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/nuaria/)
 
 ---
 

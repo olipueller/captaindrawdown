@@ -2,7 +2,7 @@
 title: "CDR.fyi"
 layout: "single"
 type: "directory"
-description: "CDR.fyi is a trusted source for durable carbon removal market data that tracks CDR transactions, prices, and supplier rankings, and is used by buyers, suppliers"
+description: "CDR.fyi is a market intelligence and data platform for the durable carbon dioxide removal industry, tracking transactions, prices, deliveries, and"
 url: "/directory/cdrfyi/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -10,21 +10,27 @@ liveliness: "🟢 Active"
 
 **Pathway:** Enabling Tech
 **Method:** Enabling Tech
-**Country:** Unknown
+**Country:** United States
 **Website:** [https://cdr.fyi](https://cdr.fyi)
 **Status:** 🟢 Active (score: 95/100)
+**Employees:** ~31 (+72% YoY)
+**LinkedIn Followers:** 16,781
 **CDR Focus:** ecosystem
 **Evidence signals:** news_mention
 
 ## About
 
-CDR.fyi is a trusted source for durable carbon removal market data that tracks CDR transactions, prices, and supplier rankings, and is used by buyers, suppliers, investors, and policymakers worldwide. Originally a volunteer effort, it structured as a Delaware public benefit corporation (PBC) in 2024 with a "give to get" model, keeping website content free while offering subscription plans for companies to access comprehensive datasets and insights. It is a CDR-ecosystem reporter/analytics provider, not a physical CO2 remover.
+CDR.fyi is a market intelligence and data platform for the durable carbon dioxide removal industry, tracking transactions, prices, deliveries, and supplier/buyer rankings. Structured as a Delaware public benefit corporation, it publishes quarterly market updates and operates a subscription-based data portal used by buyers, suppliers, investors, and policymakers.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cdr.fyi/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cdr.fyi/about))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.linkedin.com/feed/update/urn:li:share:7450554592624349185/))
+
+[View on LinkedIn](https://www.linkedin.com/company/cdr-fyi/)
 
 ---
 

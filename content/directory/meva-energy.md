@@ -2,10 +2,10 @@
 title: "Meva Energy"
 layout: "single"
 type: "directory"
-description: "Meva Energy is a Swedish cleantech firm (founded 2008, based in Gothenburg) that builds modular biomass gasification plants producing renewable biosyngas for in"
+description: "Meva Energy is a Swedish cleantech company (founded 2008, HQ Gothenburg) that builds modular biomass gasification plants converting wood and agricultural"
 url: "/directory/meva-energy/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
@@ -13,21 +13,35 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Sweden
 **Website:** [https://mevaenergy.com/](https://mevaenergy.com/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~52 (+2% YoY)
+**LinkedIn Followers:** 3,905
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Meva Energy is a Swedish cleantech firm (founded 2008, based in Gothenburg) that builds modular biomass gasification plants producing renewable biosyngas for industrial customers, with biochar as a carbon-negative by-product used for soil carbon storage. In October 2025 the company secured €40M venture debt from the EIB to scale plants for Sofidel, IKEA Poland, and Elcowire.
+Meva Energy is a Swedish cleantech company (founded 2008, HQ Gothenburg) that builds modular biomass gasification plants converting wood and agricultural residues into industrial-grade biosyngas for manufacturers, with biochar as a carbon-negative by-product. In October 2025 the EIB announced €40M in venture debt to scale plants for Sofidel (Sweden), IKEA (Poland), and a fossil-free copper smelter for Elcowire.
 
-![Meva Energy website](/screenshots/v1-thumbnails/meva-energy.jpg)
+![Meva Energy website](/screenshots/meva-energy/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Meva Energy AB
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.eib.org/en/press/all/2025-410-eib-backs-swedish-cleantech-pioneer-meva-energy-with-eur40-million-for-biogas-innovation))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://mevaenergy.com/ ([source](https://www.cdr.fyi/supplier/meva-energy))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/meva-energy))
+- **** — merged duplicate: Meva Energy AB (slug=meva-energy-ab)
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://mevaenergy.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://mevaenergy.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://mevaenergy.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/meva-energy/)
 
 ---
 

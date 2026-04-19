@@ -2,7 +2,7 @@
 title: "Poás Bioenergy"
 layout: "single"
 type: "directory"
-description: "Poás Bioenergy is a University of Michigan-spinout startup (founded 2021/2022, HQ Ann Arbor with Costa Rica operations) commercializing a proprietary gasifier f"
+description: "Poás Bioenergy is a developer of carbon-negative biomass gasification systems designed to serve agriculture and the carbon market, transforming agricultural"
 url: "/directory/poás-bioenergy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,26 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://www.poasbioenergy.com/](https://www.poasbioenergy.com/)
 **Status:** 🟢 Active (score: 80/100)
+**Employees:** ~6 (+100% YoY)
+**LinkedIn Followers:** 517
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Poás Bioenergy is a University of Michigan-spinout startup (founded 2021/2022, HQ Ann Arbor with Costa Rica operations) commercializing a proprietary gasifier for agribusinesses in Latin America. The system monetizes waste handling, clean process heat, and biochar carbon credits shared with smallholder farmers. It has secured offtake agreements (e.g., Nicoverde pineapple) and investment from Mercy Corps Ventures, Brinc, Ecosphere Ventures, and others.
+Poás Bioenergy is a developer of carbon-negative biomass gasification systems designed to serve agriculture and the carbon market, transforming agricultural waste into biochar to regenerate soils and capture carbon while providing clean energy. Founded in 2021 and headquartered in Ann Arbor, MI, the University of Michigan spinout operates pilots in Costa Rica with agribusiness partners like Nicoverde.
 
-![Poás Bioenergy website](/screenshots/v1-thumbnails/po-s-bioenergy.jpg)
+![Poás Bioenergy website](/screenshots/poás-bioenergy/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.poasbioenergy.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.poasbioenergy.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/po%c3%a1s-bioenergy/)
 
 ---
 

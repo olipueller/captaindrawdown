@@ -2,7 +2,7 @@
 title: "Carbonway"
 layout: "single"
 type: "directory"
-description: "Carbonway is a France-based CDR project developer that captures biogenic CO2 from biomethanization plants and mineralizes it in construction and backfill materi"
+description: "Carbonway is a France-based CDR project developer that captures biogenic CO2 from biomethanization plants and mineralizes it in construction and backfill"
 url: "/directory/carbonway/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -13,21 +13,25 @@ liveliness: "🟢 Active"
 **Method:** Mineralization (Other)
 **Country:** France
 **Website:** [https://www.carbonway.org/](https://www.carbonway.org/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~2 (+100% YoY)
-**LinkedIn Followers:** 219
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~2 (0% YoY)
+**LinkedIn Followers:** 262
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbonway is a France-based CDR project developer that captures biogenic CO2 from biomethanization plants and mineralizes it in construction and backfill materials such as bottom ash and construction debris. They describe themselves as the first tech-agnostic project developer in the space, building local industrial hubs and licensing mineralization technologies rather than owning a proprietary process.
+Carbonway is a France-based CDR project developer that captures biogenic CO2 from biomethanization plants and mineralizes it in construction and backfill materials such as bottom ash and construction debris. It positions itself as a tech-agnostic project developer focused on mineralising biogenic CO₂ in construction materials, building local industrial hubs rather than owning a proprietary process technology.
 
 ![Carbonway website](/screenshots/v1-thumbnails/carbonway.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbonway.org/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.carbonway.org/news))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbonway.org/what-we-do))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbonway.org/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

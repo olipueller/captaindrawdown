@@ -2,7 +2,7 @@
 title: "Caligenia"
 layout: "single"
 type: "directory"
-description: "Caligenia is an Argentine biotechnology startup that leverages scientific knowledge in biochar, microorganisms, and soil management practices to restore degrade"
+description: "Caligenia is an Argentine biotechnology startup producing \"Bacterchar,\" a carbon-negative biofertilizer that combines biochar (made from organic waste) with"
 url: "/directory/caligenia/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,13 +18,17 @@ liveliness: "🟢 Active"
 
 ## About
 
-Caligenia is an Argentine biotechnology startup that leverages scientific knowledge in biochar, microorganisms, and soil management practices to restore degraded soils and remove CO2 from the atmosphere. The company is building the first biochar production plant in Argentina, located in Luján. The Argentina-based firm transforms chicken manure into "bacterchar" to turn degraded soils into farmable land, and is seeking to relocate/expand to Tulsa and test in U.S. fields.
+Caligenia is an Argentine biotechnology startup producing "Bacterchar," a carbon-negative biofertilizer that combines biochar (made from organic waste) with plant-growth-promoting microorganisms (PGPM) to restore degraded soils. The company is building Argentina's first biochar production plant in Luján and has been publicly active through 2025, presenting at Aapresid 2025 and recruiting staff.
 
-![Caligenia website](/screenshots/v1-thumbnails/caligenia.jpg)
+![Caligenia website](/screenshots/caligenia/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.caligenia.com/))
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/caligenia/__nyWPrjpJ2QMzgA8TeflWFrLVGOjzmztO-CTDdlb7lak))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.fan.org.ar/noticias/caligenia-una-nueva-empresa-agro-se-incuba-en-la-fan/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.fan.org.ar/noticias/caligenia-una-nueva-empresa-agro-se-incuba-en-la-fan/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

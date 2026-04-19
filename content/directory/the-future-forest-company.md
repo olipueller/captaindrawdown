@@ -2,7 +2,7 @@
 title: "The Future Forest Company"
 layout: "single"
 type: "directory"
-description: "The Future Forest Company is a UK-based reforestation and peatland restoration developer operating sites in Scotland and Northern England, issuing Woodland Carb"
+description: "The Future Forest Company restores nature at scale through award-winning reforestation and peatland restoration projects spanning Scotland and Northern"
 url: "/directory/the-future-forest-company/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -13,13 +13,15 @@ liveliness: "🟢 Active"
 **Country:** United Kingdom
 **Website:** [https://thefutureforestcompany.com/](https://thefutureforestcompany.com/)
 **Status:** 🟢 Active (score: 85/100)
+**Employees:** ~20 (-26% YoY)
+**LinkedIn Followers:** 8,335
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-The Future Forest Company is a UK-based reforestation and peatland restoration developer operating sites in Scotland and Northern England, issuing Woodland Carbon Units and Peatland Carbon Units under the UK Woodland Carbon Code and Peatland Code. They have planted over one million trees and published a 2025 Impact Report. Their enhanced-weathering arm spun out as UNDO in 2022, leaving the parent focused on nature-based removals.
+The Future Forest Company restores nature at scale through award-winning reforestation and peatland restoration projects spanning Scotland and Northern England, issuing validated UK Woodland Carbon Code and Peatland Code units. The company has planted over 1.59 million trees across its UK sites, and its enhanced-weathering arm previously spun out as UNDO in 2022.
 
 ![The Future Forest Company website](/screenshots/v1-thumbnails/the-future-forest-company.jpg)
 
@@ -29,8 +31,12 @@ The Future Forest Company is a UK-based reforestation and peatland restoration d
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://thefutureforestcompany.com/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://thefutureforestcompany.com/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/the-future-forest-company/)
 
 ---
 

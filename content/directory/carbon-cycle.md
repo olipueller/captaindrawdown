@@ -2,17 +2,17 @@
 title: "Carbon Cycle"
 layout: "single"
 type: "directory"
-description: "Carbon Cycle GmbH & Co. KG is a German biochar producer based in Rieden, Bavaria, producing Pflanzenkohle from PEFC-certified untreated wood chips via pyrolysis"
+description: "Carbon Cycle GmbH & Co. KG is a German biochar producer based in Rieden, Bavaria, manufacturing Pflanzenkohle from PEFC-certified untreated wood chips via"
 url: "/directory/carbon-cycle/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://carbon-cycle.de](https://carbon-cycle.de)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~2 (-33% YoY)
 **LinkedIn Followers:** 4,479
 **CDR Focus:** supplier
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbon Cycle GmbH & Co. KG is a German biochar producer based in Rieden, Bavaria, producing Pflanzenkohle from PEFC-certified untreated wood chips via pyrolysis for agricultural soil improvement and animal feed applications. The company is EBC-certified and Puro.earth-listed (CORC 100+), with biochar production starting in 2019 and a larger second production system commissioned in 2023. They export to Norway and Switzerland and are exploring biochar-in-concrete pilots and district heating networks.
+Carbon Cycle GmbH & Co. KG is a German biochar producer based in Rieden, Bavaria, manufacturing Pflanzenkohle from PEFC-certified untreated wood chips via pyrolysis for agricultural soil improvement and animal feed applications. The company is EBC-certified and Puro.earth-listed (CORC 100+ durability), with biochar production starting in 2019 and a larger second production system commissioned in 2023. It also offers biochar project-development consultancy under the Biochar Zero brand.
 
 ![Carbon Cycle website](/screenshots/v1-thumbnails/carbon-cycle.jpg)
 
@@ -30,6 +30,9 @@ Carbon Cycle GmbH & Co. KG is a German biochar producer based in Rieden, Bavaria
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://biochar-zero.com/company/carbon-cycle-gmbh-co-kg/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/carbon-cycle-001-rieden-de))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/carbon-cycle-germany-premium-quality-biochar-100018))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

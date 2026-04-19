@@ -2,24 +2,27 @@
 title: "BioFlux"
 layout: "single"
 type: "directory"
-description: "BioFlux helps organizations design, certify, and deploy biochar projects and builds the operational infrastructure that connects biochar production to carbon ma"
+description: "BioFlux is a consultancy focused on biochar carbon removal project development. It guides project developers and empowers existing biochar producers by working"
 url: "/directory/bioflux/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** Enabling Tech
 **Method:** Biomass Carbon Removal
 **Country:** Netherlands
 **Website:** [https://www.bioflux.earth/](https://www.bioflux.earth/)
 **Status:** 🟢 Active (score: 80/100)
+**Employees:** ~6 (+20% YoY)
+**LinkedIn Followers:** 2,557
 **Open roles on cdrjobs:** 1
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-BioFlux helps organizations design, certify, and deploy biochar projects and builds the operational infrastructure that connects biochar production to carbon markets, integrating feedstock networks, production logistics, and verification systems. They are a consultancy/enabler rather than a biochar producer themselves — a consultancy firm focused on project development and optimisation with a focus on biochar carbon removal, guiding project developers and biochar producers on biomass waste streams, pyrolysis, and carbon credits.
+BioFlux is a consultancy focused on biochar carbon removal project development. It guides project developers and empowers existing biochar producers by working on topics related to biomass waste streams, biochar, pyrolysis, and carbon credits. Services include designing pathways from production to certified carbon credits, including LCAs, project design documentation, MRV system setup, and registry submission support for Puro.Earth, Isometric, Riverse, CSI and VERRA.
 
 ![BioFlux website](/screenshots/v1-thumbnails/bioflux.jpg)
 
@@ -29,8 +32,12 @@ BioFlux helps organizations design, certify, and deploy biochar projects and bui
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.bioflux.earth/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.bioflux.earth/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/bioflux-eu/)
 
 ---
 

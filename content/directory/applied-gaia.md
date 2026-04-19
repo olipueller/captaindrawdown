@@ -2,30 +2,33 @@
 title: "Applied Gaia"
 layout: "single"
 type: "directory"
-description: "Applied Gaia Corporation is a pyrolysis CO2 removal business and technology manufacturer offering modular, scalable continuous pyrolysis technologies. Its flags"
+description: "Applied Gaia Corporation is a pyrolysis CO2 removal business and technology manufacturer offering modular, scalable continuous pyrolysis technologies. Its B3"
 url: "/directory/applied-gaia/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://appliedgaia.com/](https://appliedgaia.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟠 Suspect (score: 40/100)
 **Employees:** ~3 (0% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Applied Gaia Corporation is a pyrolysis CO2 removal business and technology manufacturer offering modular, scalable continuous pyrolysis technologies. Its flagship B3 machine is a continuous process unit with a 3:1 feedstock-to-biochar ratio, producing 80%+ carbon content biochar and eligible CO2 Removal Certificates (CORCs). They sell pyrolysis equipment and project engineering services rather than operating removal facilities at scale themselves.
+Applied Gaia Corporation is a pyrolysis CO2 removal business and technology manufacturer offering modular, scalable continuous pyrolysis technologies. Its B3 machine is a continuous-process unit with a 3:1 feedstock-to-biochar ratio that produces 80%+ carbon content biochar and CO2 Removal Certificates (CORCs). The company is based in Houston, Texas and sells equipment and engineering services rather than operating pyrolysis facilities directly.
 
-![Applied Gaia website](/screenshots/v1-thumbnails/applied-gaia.jpg)
+![Applied Gaia website](/screenshots/applied-gaia/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://greentownlabs.com/members/applied-gaia/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://appliedgaia.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://appliedgaia.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

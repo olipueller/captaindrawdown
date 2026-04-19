@@ -2,7 +2,7 @@
 title: "Carbonaught"
 layout: "single"
 type: "directory"
-description: "Carbonaught is a Brisbane-based startup founded by former mining professionals Andrew Pedley, James Lyons and Rhys Heffernan to turn mining waste into a farm in"
+description: "Carbonaught is a Brisbane, Australia-based agtech startup founded in 2021 that applies enhanced rock weathering (crushed basalt from mining/quarry waste) to"
 url: "/directory/carbonaught/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -19,13 +19,17 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbonaught is a Brisbane-based startup founded by former mining professionals Andrew Pedley, James Lyons and Rhys Heffernan to turn mining waste into a farm input that delivers measurable carbon removal. Its enhanced rock weathering technology is deployed in trials across Queensland, New South Wales, Western Australia and California, with initial focus on sugarcane and expansion into horticulture, grains, cotton, beef, dairy and rice. The company is also developing a digital platform connecting quarry operators, farmers and carbon credit buyers, with GPS-based application tracking and carbon-removal verification.
+Carbonaught is a Brisbane, Australia-based agtech startup founded in 2021 that applies enhanced rock weathering (crushed basalt from mining/quarry waste) to farmland to remove CO2 while improving soil health and reducing fertilizer needs. The company runs field trials across Queensland, New South Wales, Western Australia and California on sugarcane, bananas, avocados and other crops, and serves as commercial lead on an Australian-government-funded multi-partner ERW research project with James Cook University and Adelaide University.
 
 ![Carbonaught website](/screenshots/v1-thumbnails/carbonaught.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.remineralize.org/2025/09/carbonaught-turning-quarry-waste-into-climate-solutions/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

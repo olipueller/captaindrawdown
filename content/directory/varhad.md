@@ -2,10 +2,10 @@
 title: "Varhad"
 layout: "single"
 type: "directory"
-description: "VCAP, a Varhad Group subsidiary, is India's largest artisanal biochar producer and registered C-sink manager, offering expert advisory on eco-friendly biocoal a"
+description: "Varhad Capital (VCAP), part of the Varhad Group based in Pune/Nagpur, India, is a biochar CDR project developer operating through a network of 165 farmer"
 url: "/directory/varhad/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
@@ -13,21 +13,34 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** India
 **Website:** [https://varhad.in/](https://varhad.in/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~17
+**LinkedIn Followers:** 6,337
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-VCAP, a Varhad Group subsidiary, is India's largest artisanal biochar producer and registered C-sink manager, offering expert advisory on eco-friendly biocoal and biochar production. The company partnered with Japan's Green Carbon Inc. and Switzerland's Carbonfuture on a large-scale CDR project that will make approximately 120,300 tonnes of carbon removal credits available via Carbonfuture. As of early 2026, Varhad is scaling up carbon-removal capacity using both biochar and biomethanol pathways in an integrated biomass-to-biofuel and CDR model.
+Varhad Capital (VCAP), part of the Varhad Group based in Pune/Nagpur, India, is a biochar CDR project developer operating through a network of 165 farmer cooperatives to convert cotton and pigeon pea stalks into biochar via Kon-Tiki kilns and industrial pyrolysis. It has partnered with Japan's Green Carbon Inc. and Switzerland's Carbonfuture to deliver approximately 120,300 tonnes of biochar removal credits, and is expanding into biomethanol and biomass-to-SAF projects that generate additional CDR credits under Carbon Standard International and Isometric.
 
 ![Varhad website](/screenshots/v1-thumbnails/varhad.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Varhad Capital Pvt Ltd
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://varhad.in/about-us/))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/varhad-capital))
+- **** — merged duplicate: Varhad Capital Pvt Ltd (slug=varhad-capital-pvt-ltd)
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://varhad.in/about-us/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://varhad.in/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/the-varhad-group/)
 
 ---
 

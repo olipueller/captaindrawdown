@@ -2,29 +2,41 @@
 title: "ACT Group"
 layout: "single"
 type: "directory"
-description: "ACT Group is a Netherlands-headquartered decarbonization solutions provider and carbon/environmental commodities broker founded in 2009, with offices in Amsterd"
+description: "ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental commodities broker and decarbonization solutions provider operating across"
 url: "/directory/act-group/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Enabling Tech
 **Secondary pathways:** Biochar
 **Method:** Biochar
 **Country:** Netherlands
-**Status:** 🟢 Active (score: 85/100)
+**Website:** [https://www.actgroup.com/](https://www.actgroup.com/)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** ecosystem
 **Evidence signals:** last_evidence_url
 
 ## About
 
-ACT Group is a Netherlands-headquartered decarbonization solutions provider and carbon/environmental commodities broker founded in 2009, with offices in Amsterdam, New York, Shanghai, and Paris. It develops and facilitates climate projects — including biochar-based CDR deals such as the Freres Lumber project sold to Microsoft — but acts as an intermediary/project developer rather than a physical CO2 remover.
+ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental commodities broker and decarbonization solutions provider operating across carbon credits, EACs, renewable fuels, and emissions allowances. It develops and facilitates climate projects — including biochar-based CDR transactions such as the Freres Lumber project sold to Microsoft — but acts as an intermediary, trader, and project developer rather than operating physical CDR technology itself.
 
-![ACT Group website](/screenshots/v1-thumbnails/act-group.jpg)
+![ACT Group website](/screenshots/act-group/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): ACT Commodities
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=buyer_excluded liveliness=🟢 Active ([source](https://www.actgroup.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.actgroup.com/ ([source](https://www.cdr.fyi/supplier/act-commodities))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/act-commodities))
+- **** — merged duplicate: ACT Commodities (slug=act-commodities)
+- **2026-04-19** — refresh: screenshot
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/act/__GAJU5-yrR0sqroC2dU8aCTG3YwtV7m-Rp1lslgoR15Y/funding-and-investors))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.actgroup.com/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.actgroup.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

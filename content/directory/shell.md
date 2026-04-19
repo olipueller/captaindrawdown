@@ -2,31 +2,38 @@
 title: "Shell"
 layout: "single"
 type: "directory"
-description: "Shell is developing an in-house solid sorbent Direct Air Capture technology, with an industrial-scale demonstration unit at the Shell Technology Center Houston"
+description: "Shell is developing proprietary solid-sorbent Direct Air Capture technology with an industrial-scale demonstration unit at Shell Technology Center Houston (FID"
 url: "/directory/shell/"
 pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
+**Secondary pathways:** BECCS
 **Method:** DAC (Solid Sorbent)
-**Country:** United States
+**Country:** United Kingdom
 **Website:** [https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html](https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html)
 **Status:** 🟢 Active (score: 85/100)
+**Employees:** ~192273 (+25% YoY)
+**LinkedIn Followers:** 7,625,535
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Shell is developing an in-house solid sorbent Direct Air Capture technology, with an industrial-scale demonstration unit at the Shell Technology Center Houston (FID taken in 2023, targeted start-up 2025). In 2025, Shell US Gas and Power and Mitsubishi Corporation (Americas) advanced the Pelican DAC Hub in Louisiana, bringing in technology partners including RepAir (electrochemical) and Origen (limestone-based), and Shell Ventures co-invested $17M with Mitsubishi in Avnos's Project Cedar. Shell's CDR activity is a dedicated division of a larger oil & gas major.
+Shell is developing proprietary solid-sorbent Direct Air Capture technology with an industrial-scale demonstration unit at Shell Technology Center Houston (FID 2023, targeted 2025 start-up). Through Shell US Gas and Power, it is the technical delivery partner on the Pelican Gulf Coast DAC Hub in Louisiana (with Mitsubishi, LSU and UH), which in 2025 signed commercial agreements with technology providers RepAir Carbon (electrochemical DAC) and Origen (limestone-based DAC).
 
 ![Shell website](/screenshots/v1-thumbnails/shell.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/shell/)
 
 ---
 

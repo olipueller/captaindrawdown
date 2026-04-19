@@ -2,7 +2,7 @@
 title: "RubiscoBlack"
 layout: "single"
 type: "directory"
-description: "RubiscoBlack Environmental Technologies and Services Pvt Ltd is an India-based early-stage startup (based in Hyderabad and Chennai) developing microbial approac"
+description: "RubiscoBlack Environmental Technologies and Services Pvt Ltd is a DPIIT-recognised Indian CDR startup based in Hyderabad, developing microbial/bio-enhanced"
 url: "/directory/rubiscoblack/"
 pathway: "Enhanced Weathering"
 liveliness: "🟠 Suspect"
@@ -11,22 +11,30 @@ liveliness: "🟠 Suspect"
 **Pathway:** Enhanced Weathering
 **Method:** Enhanced Rock Weathering
 **Country:** India
-**Website:** [https://www.linkedin.com/company/rubiscoblack/](https://www.linkedin.com/company/rubiscoblack/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Website:** [https://rubiscoblack.com/](https://rubiscoblack.com/)
+**Status:** 🟠 Suspect (score: 30/100)
+**Employees:** ~1
+**LinkedIn Followers:** 53
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-RubiscoBlack Environmental Technologies and Services Pvt Ltd is an India-based early-stage startup (based in Hyderabad and Chennai) developing microbial approaches to overcome two key bottlenecks of olivine-based Enhanced Rock Weathering: rock powder wastage and passivation layer formation on mineral grain surfaces. The company positions itself as a CDR technology developer aiming to increase ERW efficiency on agricultural fields.
+RubiscoBlack Environmental Technologies and Services Pvt Ltd is a DPIIT-recognised Indian CDR startup based in Hyderabad, developing microbial/bio-enhanced weathering technology to address olivine rock powder wastage and passivation layer formation on agricultural fields. Incorporated in May 2023 and registered with the Registrar of Companies, Hyderabad, the company remains officially active but appears to be very early-stage with 1 employee, no reported revenue, and no public registry issuances or funding announcements.
 
 ![RubiscoBlack website](/screenshots/v1-thumbnails/rubiscoblack.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://rubiscoblack.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://rubiscoblack.com/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://rubiscoblack.com/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://rubiscoblack.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/rubiscoblack/)
 
 ---
 

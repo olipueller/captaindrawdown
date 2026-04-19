@@ -2,20 +2,29 @@
 title: "WindCapture Technology"
 layout: "single"
 type: "directory"
-description: "WindCapture Technology — Unknown company in Unknown"
+description: "WindCapture Technologies is a Dublin, Ireland-based direct air capture startup founded in September 2022 by Aaron Boylan and Ronan Hearne. The company designs"
 url: "/directory/windcapture-technology/"
-pathway: "Unknown"
+pathway: "DAC"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** DAC
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Ireland
+**Website:** [https://www.windcapturetech.com](https://www.windcapturetech.com)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+WindCapture Technologies is a Dublin, Ireland-based direct air capture startup founded in September 2022 by Aaron Boylan and Ronan Hearne. The company designs novel DAC systems integrated into wind turbine blades, aiming to retrofit existing end-of-life turbines to capture CO2 while the turbine continues to generate power. Early-stage with ~4 employees, grant-funded through Enterprise Ireland, EIT Climate-KIC, AirMiners, and Remove.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.crunchbase.com/organization/windcapture-technologies))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.windcapturetech.com ([source](https://www.cdr.fyi/supplier/windcapture-technology))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/windcapture-technology))
 
 ---

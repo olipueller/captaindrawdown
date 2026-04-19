@@ -2,7 +2,7 @@
 title: "NeoCarbon"
 layout: "single"
 type: "directory"
-description: "NeoCarbon is a Berlin-based DAC startup that retrofits solid-sorbent carbon-capture modules onto industrial cooling towers, leveraging existing airflow and wast"
+description: "NeoCarbon GmbH is a Berlin-based climate tech company founded in January 2022 by René Haas and Silvain Toromanoff that focuses on making Direct Air Capture"
 url: "/directory/neocarbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -13,14 +13,16 @@ liveliness: "🟢 Active"
 **Method:** DAC (Solid Sorbent)
 **Country:** Germany
 **Website:** [https://www.neocarbon.tech/](https://www.neocarbon.tech/)
-**Status:** 🟢 Active (score: 88/100)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~16 (-27% YoY)
+**LinkedIn Followers:** 11,906
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-NeoCarbon is a Berlin-based DAC startup that retrofits solid-sorbent carbon-capture modules onto industrial cooling towers, leveraging existing airflow and waste heat to reduce DAC costs. The company has built autonomous pilot modules, produced its first batch of low-carbon concrete with partner Carbonaide in early 2025, and plans to deploy its third DAC unit at a live data center in 2026.
+NeoCarbon GmbH is a Berlin-based climate tech company founded in January 2022 by René Haas and Silvain Toromanoff that focuses on making Direct Air Capture cost-effective and scalable by retrofitting existing industrial infrastructure. Its core business involves developing and installing modular DAC units that integrate with existing industrial sites, leveraging waste heat and airflow from infrastructure like cooling towers to lower the energy costs typically associated with DAC. The firm offers product modules such as the NeoDuo (5 tons CO₂/year) and NeoCore (62.5 tons/year).
 
 ![NeoCarbon website](/screenshots/v1-thumbnails/neocarbon.jpg)
 
@@ -30,8 +32,12 @@ NeoCarbon is a Berlin-based DAC startup that retrofits solid-sorbent carbon-capt
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-neocarbon-turning))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.neocarbon.tech/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/neocarbon-tech/)
 
 ---
 

@@ -2,20 +2,32 @@
 title: "Frontier Carbon Solutions"
 layout: "single"
 type: "directory"
-description: "Frontier Carbon Solutions — Unknown company in Unknown"
+description: "Frontier Carbon Solutions (now operating under Frontier Infrastructure Holdings) is a Dallas-based developer of carbon capture and storage infrastructure"
 url: "/directory/frontier-carbon-solutions/"
-pathway: "Unknown"
+pathway: "BECCS"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** BECCS
+**Secondary pathways:** DAC
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://frontierccus.com/](https://frontierccus.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Frontier Carbon Solutions (now operating under Frontier Infrastructure Holdings) is a Dallas-based developer of carbon capture and storage infrastructure backed by Tailwater Capital. Its Sweetwater Carbon Storage Hub in southwest Wyoming uses Union Pacific rail to transport liquefied biogenic CO2 from Midwest ethanol refineries for permanent Class VI geologic sequestration in the Nugget Formation, generating BECCS-based carbon removal credits. The company holds the first Class VI UIC permits issued by Wyoming and has completed two deep characterization wells as of 2025.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierccus.com/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierccus.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/frontier-carbon-solutions))
 
 ---

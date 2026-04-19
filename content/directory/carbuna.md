@@ -2,31 +2,34 @@
 title: "Carbuna"
 layout: "single"
 type: "directory"
-description: "Carbuna AG is a Germany-based company founded in 2015 that focuses on the processing and sale of biochar in various forms and products, active in several Europe"
+description: "Carbuna AG is a Memmingen, Germany-based biochar processing and trading company founded in 2015. It sources raw biochar from EBC-certified European producers,"
 url: "/directory/carbuna/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://carbuna.com/](https://carbuna.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~7 (0% YoY)
-**LinkedIn Followers:** 598
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~7 (-12% YoY)
+**LinkedIn Followers:** 602
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbuna AG is a Germany-based company founded in 2015 that focuses on the processing and sale of biochar in various forms and products, active in several European countries, positioning itself as a platform that links biochar production and demand. It is one of the pioneering companies trading biochar-based carbon removal certificates, working closely with MRV provider Carbonfuture, and voluntary-market BCR certificates have become a major driver of its growth.
+Carbuna AG is a Memmingen, Germany-based biochar processing and trading company founded in 2015. It sources raw biochar from EBC-certified European producers, conditions/refines it (milling, pelletizing, blending) into agricultural and building-material products, and sells biochar carbon removal (BCR) credits via Carbonfuture's marketplace. The company positions itself as a platform connecting biochar producers to end markets across Europe.
 
-![Carbuna website](/screenshots/v1-thumbnails/carbuna.jpg)
+![Carbuna website](/screenshots/carbuna/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.compensate.com/projects/carbuna-biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbuna.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbuna.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

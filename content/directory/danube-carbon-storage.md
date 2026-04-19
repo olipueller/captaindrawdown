@@ -2,26 +2,32 @@
 title: "Danube Carbon Storage"
 layout: "single"
 type: "directory"
-description: "Danube Carbon Storage is a Budapest-based project developer building a full-chain BECCS operation in Central Hungary, backed by ClonBio Group (owner of Pannonia"
+description: "Danube Carbon Storage is a Budapest-based project developer building a full-chain BECCS operation in Central Hungary, backed by ClonBio Group (owner of"
 url: "/directory/danube-carbon-storage/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** BECCS
 **Method:** Enabling Tech
-**Country:** Unknown
-**Status:** 🟢 Active (score: 85/100)
+**Country:** Hungary
+**Website:** [https://danubecarbon.com/](https://danubecarbon.com/)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** news_mention
 
 ## About
 
-Danube Carbon Storage is a Budapest-based project developer building a full-chain BECCS operation in Central Hungary, backed by ClonBio Group (owner of Pannonia Bio biorefinery) and EMOV Limited. Its flagship Danube Removals project, selected for €48.4M EU Innovation Fund support in October 2024, will generate 5.6 million tonnes of EU-CRCF-certified carbon removal credits over 10 years. Operations are carried out via OGD Green Storage, a subsidiary of Hungary's third-largest hydrocarbon producer.
+Danube Carbon Storage is a Budapest-based project developer building a full-chain BECCS operation in Central Hungary, backed by ClonBio Group (owner of Pannonia Bio biorefinery) and EMOV Limited. Its Danube Removals project will capture ~500,000 tonnes/year of biogenic CO2 from Pannonia Bio's yeast fermentation and anaerobic digestion processes, transported via a 10-15 km pipeline for permanent storage in an onshore saline aquifer in the Pannonian Basin. The project was selected for EU Innovation Fund support in October 2024 and aims to generate CRCF-compliant carbon removal credits.
+
+![Danube Carbon Storage website](/screenshots/danube-carbon-storage/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://danubecarbon.com/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://danubecarbon.com/about-us))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.negative-emissions.org/updates/danube-carbon-storage-joins-the-negative-emissions-platform))
 

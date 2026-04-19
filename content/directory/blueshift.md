@@ -2,7 +2,7 @@
 title: "BlueShift"
 layout: "single"
 type: "directory"
-description: "BlueShift is a Boston/Cambridge-based startup founded in 2024 developing membrane-free electrochemical direct ocean removal (DOR) co-located with coal plants an"
+description: "BlueShift is a Cambridge, Massachusetts startup founded in 2024 developing a membrane-free electrochemical system that simultaneously extracts critical"
 url: "/directory/blueshift/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -13,18 +13,18 @@ liveliness: "🟢 Active"
 **Method:** Direct Ocean Removal
 **Country:** United States
 **Website:** [https://www.buildblueshift.com/](https://www.buildblueshift.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~7
-**LinkedIn Followers:** 788
+**Status:** 🟢 Active (score: 75/100)
+**Employees:** ~6
+**LinkedIn Followers:** 857
 **Open roles on cdrjobs:** 5
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-BlueShift is a Boston/Cambridge-based startup founded in 2024 developing membrane-free electrochemical direct ocean removal (DOR) co-located with coal plants and desalination facilities. The company exited stealth in March 2025 with $2.1M pre-seed funding from ConocoPhillips, Ridgeline, and MassCEC, and is building a Boston Harbor pilot. It is an independent supplier, not a division of a larger firm.
+BlueShift is a Cambridge, Massachusetts startup founded in 2024 developing a membrane-free electrochemical system that simultaneously extracts critical minerals and rare earth elements from industrial waste and removes CO2 from seawater as carbonate. The company exited stealth in March 2025 with $2.1M pre-seed funding from ConocoPhillips, Ridgeline, and MassCEC, and is building a pilot facility in Boston Harbor co-located with coal and desalination infrastructure. It operates out of Greentown Labs and The Engine (MIT), with technology co-developed with the University of Michigan and Harvard.
 
-![BlueShift website](/screenshots/v1-thumbnails/blueshift.jpg)
+![BlueShift website](/screenshots/blueshift/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -32,6 +32,8 @@ BlueShift is a Boston/Cambridge-based startup founded in 2024 developing membran
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.buildblueshift.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.buildblueshift.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

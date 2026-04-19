@@ -2,10 +2,10 @@
 title: "Mast Reforestation"
 layout: "single"
 type: "directory"
-description: "Mast Reforestation is a Seattle-based post-wildfire reforestation company that removes CO2 by burying unmerchantable fire-killed trees in engineered anoxic cham"
+description: "Seattle-based Mast Reforestation is a North American post-wildfire reforestation company that generates durable CDR credits via biomass burial. Its MT1 project"
 url: "/directory/mast-reforestation/"
 pathway: "Biomass Burial"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biomass Burial
@@ -13,15 +13,17 @@ liveliness: "🟢 Active"
 **Method:** BiCRS (Other)
 **Country:** United States
 **Website:** [https://www.mastreforest.com/](https://www.mastreforest.com/)
-**Status:** 🟢 Active (score: 95/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~43
+**LinkedIn Followers:** 18,143
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_cdrfyi, registry_puro
 
 ## About
 
-Mast Reforestation is a Seattle-based post-wildfire reforestation company that removes CO2 by burying unmerchantable fire-killed trees in engineered anoxic chambers, using credit revenue to fund native conifer replanting. Its MT1 project in Montana buried over 10 million pounds of biomass and issued 4,277 Puro.earth TSB credits in early 2026, with all MT1 credits sold to buyers including RBC, BMO, Bain & Company, CNaught, and Muir AI. The company operates two major Western US tree nurseries (Silvaseed and Cal Forest) and is scaling additional biomass burial projects.
+Seattle-based Mast Reforestation is a North American post-wildfire reforestation company that generates durable CDR credits via biomass burial. Its MT1 project in Montana received Puro.earth certification for 4,277 carbon removal credits from the burial of more than 10 million pounds of wildfire-killed trees in an engineered underground chamber, and the company was recognized as one of Fast Company's Most Innovative Companies of 2026 and MT1 received an A rating from BeZero Carbon.
 
-![Mast Reforestation website](/screenshots/v1-thumbnails/mast-reforestation.jpg)
+![Mast Reforestation website](/screenshots/mast-reforestation/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -30,8 +32,13 @@ Mast Reforestation is a Seattle-based post-wildfire reforestation company that r
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-and-delivers-market-first-biomass-burial-credits-to-royal-bank-of-canada-cnaught-and-others-302673476.html))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.mastreforest.com/insights/mast-sells-and-delivers))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-out-mt1-biomass-burial-credits-with-bain--company-and-bmo-joining-as-buyers-302742040.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/droneseed/)
 
 ---
 

@@ -2,21 +2,33 @@
 title: "Carbon Removed"
 layout: "single"
 type: "directory"
-description: "Carbon Removed — Unknown company in Unknown"
+description: "Carbon Removed is a B2C/B2B carbon removal marketplace operated by Climacrux GmbH, a Swiss start-up based in Kastanienbaum/Lucerne. The platform lets"
 url: "/directory/carbon-removed/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Switzerland
+**Website:** [https://carbonremoved.com](https://carbonremoved.com)
+**Status:** 🟡 Moderate (score: 45/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Carbon Removed is a B2C/B2B carbon removal marketplace operated by Climacrux GmbH, a Swiss start-up based in Kastanienbaum/Lucerne. The platform lets individuals and businesses purchase one-time or subscription CDR credits sourced from third-party suppliers such as Climeworks, Charm Industrial, greenSand and Eden Reforestation. Climacrux also offers a developer-facing 'CDR Platform' API for embedding removals into other products.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://carbonremoved.com/about/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://carbonremoved.com ([source](https://www.cdr.fyi/marketplace/carbon-removed))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-removed))
+
+[View on LinkedIn](https://www.linkedin.com/company/carbon-removed/)
 
 ---
 

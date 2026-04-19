@@ -2,7 +2,7 @@
 title: "Capture6"
 layout: "single"
 type: "directory"
-description: "Capture6 is a US-based DAC supplier that integrates carbon removal with desalination and water treatment infrastructure, turning waste brine into a CO2-capturin"
+description: "Capture6 is a US-based direct air capture supplier that integrates CO2 removal with desalination and water treatment infrastructure, using waste brine to"
 url: "/directory/capture6/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Capture6 is a US-based DAC supplier that integrates carbon removal with desalination and water treatment infrastructure, turning waste brine into a CO2-capturing solvent while recovering freshwater. Active projects include Project Wallaby in Western Australia (with Pilot Energy), Project Monarch in Los Angeles County (with Palmdale Water District), and a partnership with K-Water in South Korea.
+Capture6 is a US-based direct air capture supplier that integrates CO2 removal with desalination and water treatment infrastructure, using waste brine to generate a solvent that captures atmospheric CO2 while recovering freshwater and green chemicals. Active projects include Project Wallaby in Western Australia (with Pilot Energy), Project Monarch in Los Angeles County (with Palmdale Water District), and a partnership with K-Water in South Korea. In March 2025 the company raised $27.5M in Series A funding led by Tetrad Corp., and in July 2025 partnered with Isometric to issue DAC credits.
 
 ## Registry Memberships
 
@@ -28,6 +28,7 @@ Capture6 is a US-based DAC supplier that integrates carbon removal with desalina
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/capture6-teams-up-with-isometric-to-issue-dac-carbon-credits/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/capture6-teams-up-with-isometric-to-issue-dac-carbon-credits/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,7 +2,7 @@
 title: "Unyte"
 layout: "single"
 type: "directory"
-description: "Unyte Group is a UK-based sustainability group whose Unyte Hemp/Unyte Solutions division produces biochar from hemp and wood waste using Multi-Eco pyrolysing fu"
+description: "Unyte Group is a UK-based sustainability holding company headquartered in Market Harborough, Leicestershire, whose Unyte BioChar division (part of Unyte"
 url: "/directory/unyte/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,20 +11,35 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United Kingdom
-**Website:** [https://unyte.co.uk/unyte-biochar/](https://unyte.co.uk/unyte-biochar/)
-**Status:** 🟢 Active (score: 78/100)
-**CDR Focus:** supplier
+**Website:** [https://unyte.co.uk/](https://unyte.co.uk/)
+**Status:** 🟢 Active (score: 75/100)
+**Employees:** ~8 (-43% YoY)
+**LinkedIn Followers:** 775
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Unyte Group is a UK-based sustainability group whose Unyte Hemp/Unyte Solutions division produces biochar from hemp and wood waste using Multi-Eco pyrolysing furnaces at a facility in Leicestershire. The project is registered under the Riverse biochar methodology and the company is an active participant in UK hemp-carbon research consortia including CHCx3.
+Unyte Group is a UK-based sustainability holding company headquartered in Market Harborough, Leicestershire, whose Unyte BioChar division (part of Unyte Solutions) produces biochar from hemp and wood waste. The project is registered under Riverse's BECCS and Biochar pyrolysis methodology, with Unyte Biochar as host party, and is expected to generate around 6,976 tCO2eq of removals per year. The parent group also runs hemp cultivation, energy efficiency, retrofit, and waste divisions.
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Unyte Bio Char Ltd
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://companycheck.co.uk/company/15868584/UNYTE-BIO-CHAR-LTD/contact))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://Unyte.co.uk ([source](https://www.cdr.fyi/supplier/unyte-bio-char))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/unyte-bio-char))
+- **** — merged duplicate: Unyte Bio Char Ltd (slug=unyte-bio-char-ltd)
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://unyte.co.uk/unyte-solutions/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://unyte.co.uk/unyte-solutions/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://unyte.co.uk/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/unyte-capital/)
 
 ---
 

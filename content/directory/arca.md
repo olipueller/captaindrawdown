@@ -2,27 +2,27 @@
 title: "Arca"
 layout: "single"
 type: "directory"
-description: "Arca (Arca Climate Technologies Inc.), headquartered in Vancouver, BC, is a carbon mineralization supplier that repurposes alkaline industrial waste such as ult"
+description: "Arca Climate Technologies Inc., headquartered in Vancouver, BC, is a UBC spin-off that repurposes alkaline industrial waste — primarily ultramafic mine"
 url: "/directory/arca/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Mineralization
 **Method:** Mineralization (Other)
 **Country:** Canada
 **Website:** [https://arcaclimate.com/](https://arcaclimate.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~32 (0% YoY)
-**LinkedIn Followers:** 5,366
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~33 (-8% YoY)
+**LinkedIn Followers:** 5,571
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_cdrjobsearth
 
 ## About
 
-Arca (Arca Climate Technologies Inc.), headquartered in Vancouver, BC, is a carbon mineralization supplier that repurposes alkaline industrial waste such as ultramafic mine tailings to permanently store atmospheric CO2 as carbonate rock. The company completed an 18-month pilot at BHP's Mt. Keith nickel mine in Western Australia, has an ISO 14064-2 DNV-validated methodology, and signed a 10-year ~300,000-tonne offtake agreement with Microsoft in October 2025.
+Arca Climate Technologies Inc., headquartered in Vancouver, BC, is a UBC spin-off that repurposes alkaline industrial waste — primarily ultramafic mine tailings — to permanently mineralize atmospheric CO2 into solid carbonate rock. The company completed an 18-month demonstration pilot at BHP's Mt. Keith nickel mine in Western Australia, holds a DNV-validated ISO 14064-2 methodology, and in January 2026 signed a 10-year exclusive tailings access agreement with Giga Metals at the Turnagain Nickel Project in BC. Arca has received funding from NRCan, CICE, MICA, and InBC, and announced a Microsoft carbon removal offtake in October 2025.
 
-![Arca website](/screenshots/v1-thumbnails/arca.jpg)
+![Arca website](/screenshots/arca/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -30,6 +30,9 @@ Arca (Arca Climate Technologies Inc.), headquartered in Vancouver, BC, is a carb
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/arca/__5q2gep_5KQ2LVib8z2XQv0nQADM4iUhgs-ZJTCuVVys))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://arcaclimate.com/what-we-do/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://arcaclimate.com/newsroom/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

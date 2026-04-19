@@ -2,7 +2,7 @@
 title: "Glanris"
 layout: "single"
 type: "directory"
-description: "Glanris specializes in the production of biocarbon biochar, with offerings including biochar for water filtration and soil enhancement, as well as an additive i"
+description: "Glanris is a US clean-tech company based in Olive Branch, Mississippi that manufactures Biocarbon, a rice-hull-derived biochar used for water filtration, soil"
 url: "/directory/glanris/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,17 +12,17 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.glanris.com/](https://www.glanris.com/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~4 (-33% YoY)
-**LinkedIn Followers:** 1,530
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~5 (-17% YoY)
+**LinkedIn Followers:** 1,545
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_puro, registry_cdrjobsearth
 
 ## About
 
-Glanris specializes in the production of biocarbon biochar, with offerings including biochar for water filtration and soil enhancement, as well as an additive in cement and concrete, all derived from processed agricultural waste such as rice husks. It was founded in 2018 and is based in Olive Branch, Mississippi. Its Biocarbon filtration biochar was declared net CO2 negative via a Life Cycle Assessment with Accend, a Puro.Earth partner, and was added to the Puro.Earth CORC exchange.
+Glanris is a US clean-tech company based in Olive Branch, Mississippi that manufactures Biocarbon, a rice-hull-derived biochar used for water filtration, soil amendment, and construction materials. The company is registered on Puro.Earth's CORC exchange and, as of 2024-2025, was scaling production with plans for a larger California plant using rice hulls and nut shells.
 
-![Glanris website](/screenshots/v1-thumbnails/glanris.jpg)
+![Glanris website](/screenshots/glanris/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -31,6 +31,11 @@ Glanris specializes in the production of biocarbon biochar, with offerings inclu
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.glanris.com/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.glanris.com/blog/press-release-april2022))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.glanris.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.glanris.com/biocarbon))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.glanris.com/biocarbon))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

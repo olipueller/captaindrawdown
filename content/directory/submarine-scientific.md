@@ -2,7 +2,7 @@
 title: "Submarine Scientific"
 layout: "single"
 type: "directory"
-description: "Submarine Scientific is a marine consulting company using modeling, satellite observations, ocean data, and AI to support ocean technology sector projects, incl"
+description: "Submarine Scientific (now branded as \"Submarine\") is a marine consulting firm providing scientific and technical advisory to ocean industries, including marine"
 url: "/directory/submarine-scientific/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -12,15 +12,19 @@ liveliness: "🟢 Active"
 **Secondary pathways:** Ocean CDR
 **Method:** Ocean-based CDR
 **Country:** Canada
-**Website:** [https://submarinescientific.com/](https://submarinescientific.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Website:** [https://www.submarine.earth](https://www.submarine.earth)
+**Status:** 🟢 Active (score: 82/100)
+**Employees:** ~4 (+33% YoY)
+**LinkedIn Followers:** 522
 **Open roles on cdrjobs:** 1
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Submarine Scientific is a marine consulting company using modeling, satellite observations, ocean data, and AI to support ocean technology sector projects, including Marine Carbon Dioxide Removal (mCDR) with guidance in MRV and environmental monitoring. They served as third-party subject matter expert in partnership with 350 Solutions for validation and verification of the first OAE credits to be issued under Isometric's protocol. They do not physically remove CO2 themselves; they are part of the CDR ecosystem as an MRV/verification consultancy.
+Submarine Scientific (now branded as "Submarine") is a marine consulting firm providing scientific and technical advisory to ocean industries, including marine carbon dioxide removal (mCDR). Services span MRV, environmental monitoring, modeling, and satellite/AI-based ocean data analysis, supporting projects such as ocean alkalinity enhancement standards work.
+
+![Submarine Scientific website](/screenshots/submarine-scientific/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -28,8 +32,12 @@ Submarine Scientific is a marine consulting company using modeling, satellite ob
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.submarine.earth))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.submarine.earth))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/submarinemrv/)
 
 ---
 

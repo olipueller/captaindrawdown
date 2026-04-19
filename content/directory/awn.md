@@ -2,7 +2,7 @@
 title: "AWN"
 layout: "single"
 type: "directory"
-description: "AWN (Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH) is a municipal waste-management company in Buchen, Germany, which operates the Biomassezentr"
+description: "AWN (Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH) is a municipal waste-management company based in Buchen, Germany, founded in 1992. At its"
 url: "/directory/awn/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,26 +11,28 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
-**Website:** [https://biochar-zero.com/company/awn-abfallwirtschaftsgesellschaft-des-neckar-odenwald-kreises-mbh/](https://biochar-zero.com/company/awn-abfallwirtschaftsgesellschaft-des-neckar-odenwald-kreises-mbh/)
-**Status:** 🟢 Active (score: 72/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 4,479
+**Website:** [https://www.awn-online.de/](https://www.awn-online.de/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~2 (+100% YoY)
+**LinkedIn Followers:** 28
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-AWN (Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH) is a municipal waste-management company in Buchen, Germany, which operates the Biomassezentrum at the Sansenhecken disposal center. Among compost and Terra Preta substrates, they pyrolyze the woody fraction of roughly 20,000 tonnes of regional green waste per year into biochar for agricultural and livestock use. While waste management is their core mandate, they physically produce biochar and thus act as a CDR supplier at a small, municipal scale.
+AWN (Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH) is a municipal waste-management company based in Buchen, Germany, founded in 1992. At its Biomassezentrum in the Sansenhecken disposal center, the company pyrolyzes the woody portion of roughly 20,000 tonnes/year of regional green waste into biochar and compost/Terra Preta products for agriculture and livestock use. CDR is a side-activity of the core municipal waste operation but produces real biochar.
 
 ![AWN website](/screenshots/v1-thumbnails/awn.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.awn-online.de/unternehmen/biomassezentrum-buchen.html))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.awn-online.de/unternehmen/biomassezentrum-buchen.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
-[View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)
+[View on LinkedIn](https://www.linkedin.com/company/kwin-kreislaufwirtschaft-neckar-odenwald-a%c3%b6r/)
 
 ---
 

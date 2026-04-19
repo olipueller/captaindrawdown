@@ -2,26 +2,26 @@
 title: "EnergieWerk Ilg GmbH"
 layout: "single"
 type: "directory"
-description: "EnergieWerk Ilg GmbH is a family-owned regional energy company in Dornbirn, Vorarlberg, Austria that runs wood-chip gasification CHP plants producing biochar al"
+description: "EnergieWerk Ilg GmbH is a family-owned regional energy company in Dornbirn, Vorarlberg, Austria operating wood-chip gasification CHP plants that produce"
 url: "/directory/energiewerk-ilg-gmbh/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Secondary pathways:** BECCS
 **Method:** Biochar
 **Country:** Austria
-**Website:** [https://biochar-zero.com/company/energiewerk-ilg-gmbh/](https://biochar-zero.com/company/energiewerk-ilg-gmbh/)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 4,479
+**Website:** [https://www.biomassehof.at/energiewerk-ilg/](https://www.biomassehof.at/energiewerk-ilg/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~1
+**LinkedIn Followers:** 182
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_cdrjobsearth
 
 ## About
 
-EnergieWerk Ilg GmbH is a family-owned regional energy company in Dornbirn, Vorarlberg, Austria that runs wood-chip gasification CHP plants producing biochar alongside renewable electricity and district heat. In 2025 it commissioned a Bright Renewables carbon capture and liquefaction unit on its gasifier, moving it from pure biochar production into BECCS-style biogenic CO2 capture.
+EnergieWerk Ilg GmbH is a family-owned regional energy company in Dornbirn, Vorarlberg, Austria operating wood-chip gasification CHP plants that produce renewable electricity, district heat and biochar. In September 2025 it commissioned Austria's first coupled biomass-power/carbon-capture/biochar facility (using a Bright Renewables CarboPac-C amine-based capture unit) at its Stöcken plant, and won the Holzenergiepreis Österreich 2025 for the project. Roughly one-third of tree CO2 is durably stored in biochar (CDR), while captured flue-gas CO2 is liquefied for food/beverage use (CCU).
 
 ![EnergieWerk Ilg GmbH website](/screenshots/v1-thumbnails/energiewerk-ilg-gmbh.jpg)
 
@@ -31,10 +31,13 @@ EnergieWerk Ilg GmbH is a family-owned regional energy company in Dornbirn, Vora
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bright-renewables.com/austrias-carbon-capture-breakthrough-co2-capture-liquefacation-facility-at-energiewerk-ilg-operational/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bright-renewables.com/austrias-carbon-capture-breakthrough-co2-capture-liquefacation-facility-at-energiewerk-ilg-operational/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
-[View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)
+[View on LinkedIn](https://www.linkedin.com/company/energiewerk-ilg/)
 
 ---
 

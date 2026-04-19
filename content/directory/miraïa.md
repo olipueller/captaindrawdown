@@ -2,7 +2,7 @@
 title: "Miraïa"
 layout: "single"
 type: "directory"
-description: "Miraïa is a French (Toulouse-based) climate-tech startup, founded in 2023, commercializing continuous wood pyrolysis to produce biochar, bio-oils, and renewable"
+description: "Miraïa is a Toulouse-based French climate-tech startup founded in May 2023 that develops a modernized continuous vertical-furnace wood pyrolysis technology to"
 url: "/directory/miraïa/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,20 +13,26 @@ liveliness: "🟢 Active"
 **Country:** France
 **Website:** [https://miraia.fr/en/home/](https://miraia.fr/en/home/)
 **Status:** 🟢 Active (score: 85/100)
+**Employees:** ~5 (+25% YoY)
+**LinkedIn Followers:** 652
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Miraïa is a French (Toulouse-based) climate-tech startup, founded in 2023, commercializing continuous wood pyrolysis to produce biochar, bio-oils, and renewable energy. It is building a pilot demonstrator in Colomiers (Haute-Garonne) and plans its first commercial-scale plant in Garlin (Pyrénées-Atlantiques) with a target of 20,000 t/yr biochar, with longer-term ambitions for 6–7 plants.
+Miraïa is a Toulouse-based French climate-tech startup founded in May 2023 that develops a modernized continuous vertical-furnace wood pyrolysis technology to produce biochar, bio-oils, and renewable energy from wood industry residues. The company is building a pilot demonstrator in Colomiers (Haute-Garonne) and is preparing its first commercial-scale plant in Garlin (Pyrénées-Atlantiques), with longer-term ambitions for 6 industrial units each producing 20,000 t/yr of biochar.
 
 ![Miraïa website](/screenshots/v1-thumbnails/mira-a.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://miraia.fr/en/home/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://miraia.fr/en/home/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/mira%c3%afa/)
 
 ---
 

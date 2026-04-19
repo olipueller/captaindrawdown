@@ -2,7 +2,7 @@
 title: "Reforestaction"
 layout: "single"
 type: "directory"
-description: "Reforest'Action is a French B-Corp certified reforestation project developer founded in 2010 and headquartered in Rueil-Malmaison. It designs, develops and moni"
+description: "Reforest'Action is a French B-Corp certified reforestation and agroforestry project developer founded in 2010 and headquartered in Rueil-Malmaison. It designs,"
 url: "/directory/reforestaction/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -12,16 +12,18 @@ liveliness: "🟢 Active"
 **Method:** Afforestation/Reforestation
 **Country:** France
 **Website:** [https://www.reforestaction.com/](https://www.reforestaction.com/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~78 (-26% YoY)
+**LinkedIn Followers:** 27,365
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Reforest'Action is a French B-Corp certified reforestation project developer founded in 2010 and headquartered in Rueil-Malmaison. It designs, develops and monitors large-scale afforestation, reforestation and agroforestry projects across 45+ countries, generating VCS-certified carbon credits, funded by 650+ corporate clients. In 2024 it secured a €20m growth investment from Blisce and Eiffel Essentiel.
+Reforest'Action is a French B-Corp certified reforestation and agroforestry project developer founded in 2010 and headquartered in Rueil-Malmaison. It designs, develops and monitors afforestation, reforestation, mangrove restoration and agroforestry projects across 45+ countries, generating VCS-certified carbon credits funded by 3,600+ corporate clients. The company secured a €20m growth investment from Blisce and Eiffel Essentiel in June 2024 and had 90+ employees as of 2025.
 
-![Reforestaction website](/screenshots/v1-thumbnails/reforestaction.jpg)
+![Reforestaction website](/screenshots/reforestaction/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,8 +31,12 @@ Reforest'Action is a French B-Corp certified reforestation project developer fou
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.reforestaction.com/en))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.reforestaction.com/en))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/reforest%27action/)
 
 ---
 

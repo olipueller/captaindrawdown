@@ -2,27 +2,33 @@
 title: "Nattergal"
 layout: "single"
 type: "directory"
-description: "Nattergal is a UK private nature recovery company founded in 2021 that acquires and rewilds degraded agricultural land at scale, currently operating three sites"
+description: "Nattergal is a UK private nature recovery company founded in 2021 that acquires and rewilds degraded agricultural land at scale, operating Boothby Wildland"
 url: "/directory/nattergal/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Afforestation
 **Secondary pathways:** Afforestation
 **Method:** Afforestation
-**Country:** Unknown
-**Status:** 🟢 Active (score: 85/100)
+**Country:** United Kingdom
+**Website:** [https://nattergal.co.uk](https://nattergal.co.uk)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** news_mention
 
 ## About
 
-Nattergal is a UK private nature recovery company founded in 2021 that acquires and rewilds degraded agricultural land at scale, currently operating three sites (Boothby Wildland in Lincolnshire, High Fen Wildland in Norfolk, and Harold's Park in Essex). It generates revenue from carbon credits, Biodiversity Net Gain units, water credits, UK Landscape Recovery Scheme funding, and ecotourism, and partnered with Knepp Estate and Arup on the Knepp Wildland Carbon Project to quantify rewilding carbon sequestration.
+Nattergal is a UK private nature recovery company founded in 2021 that acquires and rewilds degraded agricultural land at scale, operating Boothby Wildland (Lincolnshire), High Fen Wildland (Norfolk), and Harold's Park (Essex). It generates revenue through carbon removal credits (certified by Wilder Carbon), Biodiversity Net Gain units, water credits, UK Landscape Recovery Scheme funding, and ecotourism. Notable deals include Arup's £1M investment securing 10,000 tCO2e over 30 years and a Treeconomy/Naturalis carbon credit purchase from Boothby Wildland.
+
+![Nattergal website](/screenshots/nattergal/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.sustainabletimes.co.uk/post/arup-invests-1-million-in-nature-restoration-at-boothby-wildland))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.nattergal.com/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/in-a-new-collab-earthly-and-nattergal-to-bring-biodiversity-credits-to-market/))
 

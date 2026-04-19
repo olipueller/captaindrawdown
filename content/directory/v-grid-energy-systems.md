@@ -2,23 +2,25 @@
 title: "V-Grid Energy Systems"
 layout: "single"
 type: "directory"
-description: "V-Grid Energy Systems is a California-based clean energy and biochar producer headquartered in Camarillo, operating Bioserver gasification units in the Central"
+description: "VGrid Energy Systems is a California-based clean energy company whose mobile, high-temperature gasification units have been operating in the Central Valley"
 url: "/directory/v-grid-energy-systems/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://vgridenergy.com/](https://vgridenergy.com/)
-**Status:** 🟢 Active (score: 78/100)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~8 (-20% YoY)
+**LinkedIn Followers:** 319
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_puro
 
 ## About
 
-V-Grid Energy Systems is a California-based clean energy and biochar producer headquartered in Camarillo, operating Bioserver gasification units in the Central Valley since 2019. The company sells CORC carbon removal credits through Puro.earth and markets biochar and bio-liquid products under the Persist and Karrikaid brands.
+VGrid Energy Systems is a California-based clean energy company whose mobile, high-temperature gasification units have been operating in the Central Valley since 2019, converting waste biomass into electricity plus biochar and wood vinegar. The company is Puro.earth-certified, sells CORCs (removing ~2.94 tCO2 per ton of biochar), and markets retail biochar/bio-liquid products under Persist and Karrikaid brands. In 2023 it listed its Lost Hills expansion project on Puro.earth's Accelerate program, offering up to $9M in Pre-CORC purchases.
 
 ![V-Grid Energy Systems website](/screenshots/v1-thumbnails/v-grid-energy-systems.jpg)
 
@@ -28,8 +30,13 @@ V-Grid Energy Systems is a California-based clean energy and biochar producer he
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/vgrid-energy-systems/__20sNMytyR040TanyeM8j9NQOUWvwGtPgzjWBNiFzWZc))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://vgridenergy.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://vgridenergy.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/vgrid-energy-systems/)
 
 ---
 

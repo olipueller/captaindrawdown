@@ -2,30 +2,31 @@
 title: "Cquestr8"
 layout: "single"
 type: "directory"
-description: "Cquestr8 is a UK-based startup (Durham) developing a reactor-based accelerated mineral carbonation process using magnesium-rich silicates to sequester CO2 from"
+description: "Cquestr8 is a Durham, UK-based startup founded in 2020 developing a reactor-based accelerated mineral carbonation process that uses magnesium-rich silicates to"
 url: "/directory/cquestr8/"
 pathway: "Mineralization"
 liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Mineralization
-**Secondary pathways:** Enhanced Weathering, Ocean CDR
+**Secondary pathways:** Ocean CDR
 **Method:** Mineralization (Other)
 **Country:** United Kingdom
 **Website:** [https://cquestr8.com/](https://cquestr8.com/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Status:** 🟠 Suspect (score: 30/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Cquestr8 is a UK-based startup (Durham) developing a reactor-based accelerated mineral carbonation process using magnesium-rich silicates to sequester CO2 from industrial sources (biogas, fermentation, cement, lime, steel) as stable carbonates and ocean bicarbonate. Founded in 2020, it raised $300K seed from Counteract in 2021 and was a 2023 SOSV Climate Tech Summit finalist. No significant public news or follow-on funding since 2023, though the UK entity remains registered as Active.
+Cquestr8 is a Durham, UK-based startup founded in 2020 developing a reactor-based accelerated mineral carbonation process that uses magnesium-rich silicates to sequester CO2 from concentrated industrial sources (cement, lime, steel, biogas, fermentation) and lock it away as stable carbonates and ocean bicarbonate. The company raised a $300K seed round from Counteract in April 2021 and was a finalist at the 2023 SOSV Climate Tech Summit, but has not announced significant news since.
 
 ![Cquestr8 website](/screenshots/v1-thumbnails/cquestr8.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟠 Suspect ([source](https://find-and-update.company-information.service.gov.uk/company/12990074))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟠 Suspect ([source](https://find-and-update.company-information.service.gov.uk/company/12990074))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

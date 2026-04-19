@@ -2,7 +2,7 @@
 title: "Biochar Rendsburg"
 layout: "single"
 type: "directory"
-description: "Biochar Rendsburg GmbH is a German company based in Borgstedt (Schleswig-Holstein) that operates the first commercial Carbo-FORCE pyrolysis plant on the site of"
+description: "Biochar Rendsburg GmbH is a German operating company based in Borgstedt (Schleswig-Holstein) that runs the first commercial Carbo-FORCE pyrolysis plant on the"
 url: "/directory/biochar-rendsburg/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -11,8 +11,8 @@ liveliness: "🟡 Moderate"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
-**Website:** [https://biochar-zero.com/company/biochar-rendsburg-gmbh/](https://biochar-zero.com/company/biochar-rendsburg-gmbh/)
-**Status:** 🟡 Moderate (score: 65/100)
+**Website:** [https://biochar-rd.de/](https://biochar-rd.de/)
+**Status:** 🟡 Moderate (score: 60/100)
 **Employees:** ~2 (-33% YoY)
 **LinkedIn Followers:** 4,479
 **CDR Focus:** supplier
@@ -20,13 +20,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Biochar Rendsburg GmbH is a German company based in Borgstedt (Schleswig-Holstein) that operates the first commercial Carbo-FORCE pyrolysis plant on the site of the AWR waste-disposal region. The facility converts organic residues into biochar via partial oxidation, producing a durable carbon material and removing CO2 from the atmosphere. It is affiliated with the Carbo-FORCE technology brand (Bauer group ecosystem) and listed on the biochar-zero marketplace.
+Biochar Rendsburg GmbH is a German operating company based in Borgstedt (Schleswig-Holstein) that runs the first commercial Carbo-FORCE pyrolysis plant on the site of the AWR waste-disposal region near Rendsburg. The facility converts woody organic residues into biochar via partial oxidation, producing durable carbon and process heat. It is affiliated with Carbo-FORCE GmbH (the technology provider, now 50% owned by Bauer Resources) and shares managing directors Kai Alberding and Malte Graf.
 
 ![Biochar Rendsburg website](/screenshots/v1-thumbnails/biochar-rendsburg.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://resources.bauer.de/en/successful-start-first-commercial-carbo-force-plant-operation))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-rd.de/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

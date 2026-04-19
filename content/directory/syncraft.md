@@ -2,7 +2,7 @@
 title: "Syncraft"
 layout: "single"
 type: "directory"
-description: "Syncraft is an Austrian technology firm (founded 2009, based in Schwaz, Tyrol) that builds Reversepowerplants — biomass gasification plants using a patented f"
+description: "Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that produces electricity, heat and biochar from wood using its self-developed patented"
 url: "/directory/syncraft/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,7 +13,9 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Austria
 **Website:** [https://www.syncraft.at/en/](https://www.syncraft.at/en/)
-**Status:** 🟢 Active (score: 95/100)
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~31 (0% YoY)
+**LinkedIn Followers:** 4,080
 **Open roles on cdrjobs:** 8
 **CDI Portfolio Company**
 **CDR Focus:** supplier
@@ -21,9 +23,9 @@ liveliness: "🟢 Active"
 
 ## About
 
-Syncraft is an Austrian technology firm (founded 2009, based in Schwaz, Tyrol) that builds "Reversepowerplants" — biomass gasification plants using a patented floating fixed-bed gasifier to convert forest residues into renewable electricity, heat, and biochar ("Green Carbon"). More than 40 plants have been built across Europe and Japan, and the company is actively expanding with new installations (e.g., Gänserndorf 2024, Stanglwirt 2025, Zwickau 2025, Bruck an der Leitha 2026). The biochar permanently stores roughly 30% of the feedstock CO2, qualifying their systems as Biochar Carbon Removal (BCR).
+Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that produces electricity, heat and biochar from wood using its self-developed patented floating fixed-bed gasification technology. Syncraft has deployed over 45 such systems, with several additional powerplants currently being built, including one in Waiern, Austria. Its "Reverse power plants" generate renewable energy while sequestering carbon as biochar for long-term storage in construction materials, metallurgy, and soil.
 
-![Syncraft website](/screenshots/v1-thumbnails/syncraft.jpg)
+![Syncraft website](/screenshots/syncraft/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -31,8 +33,12 @@ Syncraft is an Austrian technology firm (founded 2009, based in Schwaz, Tyrol) t
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://cleantechnica.com/2025/11/10/austrian-resort-inaugurates-its-climate-positive-syncraft-powerplant/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.syncraft.at/en/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/syncraft/)
 
 ---
 

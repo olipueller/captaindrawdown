@@ -2,22 +2,36 @@
 title: "SoilLogia LLC"
 layout: "single"
 type: "directory"
-description: "SoilLogia LLC — Unknown company in Unknown"
+description: "SoilLogia LLC is a Delaware-based ag-climate-tech startup producing biochar from organic waste streams (including sewage sludge) via pyrolysis, to enhance soil"
 url: "/directory/soillogia-llc/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
+**Country:** United States
 **Website:** [https://soillogia.com/](https://soillogia.com/)
-**CDR Focus:** unclassified
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~4 (+300% YoY)
+**LinkedIn Followers:** 165
+**CDR Focus:** supplier
 **Evidence signals:** exa_search
+
+## About
+
+SoilLogia LLC is a Delaware-based ag-climate-tech startup producing biochar from organic waste streams (including sewage sludge) via pyrolysis, to enhance soil health and sequester carbon. The small team (~4 employees) is led by CEO Antonio Timoteo, Ph.D., and engages in carbon project development for biochar-based carbon removal.
+
+![SoilLogia LLC website](/screenshots/soillogia-llc/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://soillogia.com/))
 - **2026-04-19** — discovered via: exa ([source](https://soillogia.com/))
+
+[View on LinkedIn](https://www.linkedin.com/company/soillogia-llc/)
 
 ---
 

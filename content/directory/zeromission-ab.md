@@ -2,21 +2,35 @@
 title: "ZeroMission AB"
 layout: "single"
 type: "directory"
-description: "ZeroMission AB — Unknown company in Unknown"
+description: "ZeroMission AB is a Stockholm-based climate strategy consultancy and carbon credit reseller founded in 2006. The company helps businesses measure, reduce, and"
 url: "/directory/zeromission-ab/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation, Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Sweden
+**Website:** [https://zeromission.se/](https://zeromission.se/)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~23 (+10% YoY)
+**LinkedIn Followers:** 3,774
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+ZeroMission AB is a Stockholm-based climate strategy consultancy and carbon credit reseller founded in 2006. The company helps businesses measure, reduce, and offset emissions, selling credits from nature-based projects (Plan Vivo afforestation, biochar) and offering climate accounting and advisory services. It is a broker/consultant within the carbon credit ecosystem rather than a CDR supplier.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://zeromission.se/en/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/zeromission-ab))
+
+[View on LinkedIn](https://www.linkedin.com/company/zeromission-ab/)
 
 ---
 

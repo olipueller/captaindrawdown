@@ -2,29 +2,38 @@
 title: "Grassroots Carbon"
 layout: "single"
 type: "directory"
-description: "Founded in 2021, Grassroots Carbon is a U.S. company dedicated to measuring, verifying, and rewarding ranchers for storing carbon on America's grasslands, now s"
+description: "Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company founded in 2021 that partners with U.S. ranchers to implement regenerative grazing"
 url: "/directory/grassroots-carbon/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Afforestation
 **Method:** Afforestation
-**Country:** Unknown
+**Country:** United States
 **Website:** [https://grassrootscarbon.com](https://grassrootscarbon.com)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~44
+**LinkedIn Followers:** 5,061
 **CDR Focus:** supplier
 **Evidence signals:** news_mention
 
 ## About
 
-Founded in 2021, Grassroots Carbon is a U.S. company dedicated to measuring, verifying, and rewarding ranchers for storing carbon on America's grasslands, now spanning 2 million acres across 22 states. They generate soil carbon removal credits through regenerative grazing practices and have delivered credits to buyers including Nestlé, Microsoft, Shopify, and Chevron.
+Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company founded in 2021 that partners with U.S. ranchers to implement regenerative grazing practices and generate verified soil carbon credits. The company works with ranchers across more than 2 million acres in 22 states and, as of early 2026, has delivered 1.9 million tons of carbon removals to buyers including Nestlé, Microsoft, Shopify, Chevron, Boeing, and Olipop. It measures carbon via one-meter soil core sampling with third-party verification and has paid $40 million directly to ranchers since 2022.
+
+![Grassroots Carbon website](/screenshots/grassroots-carbon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://grassrootscarbon.com/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://grassrootscarbon.com/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carboncredits.com/boeing-locks-in-40000-tons-of-soil-carbon-removal-with-texas-based-grassroots-carbon/))
+
+[View on LinkedIn](https://www.linkedin.com/company/grassrootscarbon/)
 
 ---
 

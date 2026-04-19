@@ -2,7 +2,7 @@
 title: "Sinkco Labs"
 layout: "single"
 type: "directory"
-description: "Sinkco Labs is developing a scalable solution for permanently storing organic carbon in marine sediments, using a delivery system for micro-injecting organic ca"
+description: "Sinkco Labs is a US-based marine CDR startup developing a micro-injection system that embeds waste biomass into anoxic marine sub-sediments for permanent"
 url: "/directory/sinkco-labs/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -14,13 +14,15 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://www.sinkcolabs.com/](https://www.sinkcolabs.com/)
 **Status:** 🟢 Active (score: 85/100)
+**Employees:** ~6 (-25% YoY)
+**LinkedIn Followers:** 1,111
 **Open roles on cdrjobs:** 3
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Sinkco Labs is developing a scalable solution for permanently storing organic carbon in marine sediments, using a delivery system for micro-injecting organic carbon into marine sediments where anoxic compaction preserves the carbon. The company was selected for the Breakthrough Energy Fellows Program, with co-founders Viji Thomas, Victor Choquet, and Brenna Boehman receiving non-dilutive funding to launch a pilot in the Gulf of Mexico. Sinkco has secured state and federal permits from the Louisiana Department of Natural Resources and the U.S. Army Corps of Engineers to embed waste biomass beneath degraded marsh sediments across 11 acres.
+Sinkco Labs is a US-based marine CDR startup developing a micro-injection system that embeds waste biomass into anoxic marine sub-sediments for permanent carbon storage. Founded in 2019 and based in New York, the company was selected for the Breakthrough Energy Fellows Program and is piloting in Louisiana wetlands and the Gulf of Mexico. Its science team co-authored the Rainbow Standard's marine sub-sediment burial methodology.
 
 ![Sinkco Labs website](/screenshots/v1-thumbnails/sinkco-labs.jpg)
 
@@ -30,8 +32,12 @@ Sinkco Labs is developing a scalable solution for permanently storing organic ca
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.sinkcolabs.com/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.sinkcolabs.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/sinkco-labs/)
 
 ---
 

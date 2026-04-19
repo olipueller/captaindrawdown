@@ -2,31 +2,34 @@
 title: "Carbon Gold"
 layout: "single"
 type: "directory"
-description: "Carbon Gold was founded in 2007 by Craig Sams, founder of Green & Blacks Chocolate, and Dan Morrell, founder of the Carbon Neutral Company. The UK-based B Corp"
+description: "Carbon Gold is a UK-based biochar company founded in 2007 by Craig Sams (Green & Black's Chocolate). It produces enriched biochar products — soil improvers,"
 url: "/directory/carbon-gold/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United Kingdom
 **Website:** [https://www.carbongold.com/](https://www.carbongold.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~9 (0% YoY)
-**LinkedIn Followers:** 1,631
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~9 (-10% YoY)
+**LinkedIn Followers:** 1,663
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Gold was founded in 2007 by Craig Sams, founder of Green & Blacks Chocolate, and Dan Morrell, founder of the Carbon Neutral Company. The UK-based B Corp produces enriched biochar products (composts, fertilisers, soil improvers, tree care) that sequester carbon in soil while improving plant health. Retail products have moved to Marshalls Garden, while the company continues trade sales directly.
+Carbon Gold is a UK-based biochar company founded in 2007 by Craig Sams (Green & Black's Chocolate). It produces enriched biochar products — soil improvers, composts, fertilisers and tree-care products — for horticultural, agricultural and garden-retail markets, with retail distribution via Marshalls Garden and a 2024 partnership with Westland Horticulture.
 
 ![Carbon Gold website](/screenshots/v1-thumbnails/carbon-gold.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carbongold.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbongold.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbongold.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

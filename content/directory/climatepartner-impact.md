@@ -2,10 +2,10 @@
 title: "ClimatePartner Impact"
 layout: "single"
 type: "directory"
-description: "ClimatePartner Impact GmbH is a Munich-based subsidiary of ClimatePartner GmbH, founded in 2022, that develops voluntary carbon market projects with a focus on"
+description: "ClimatePartner Impact GmbH is a Munich-based subsidiary of ClimatePartner GmbH, founded in October 2022, that develops voluntary carbon market projects focused"
 url: "/directory/climatepartner-impact/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Afforestation
@@ -13,19 +13,24 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://climatepartnerimpact.com/](https://climatepartnerimpact.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~5 (-80% YoY)
-**LinkedIn Followers:** 3,397
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~6 (-76% YoY)
+**LinkedIn Followers:** 3,415
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-ClimatePartner Impact GmbH is a Munich-based subsidiary of ClimatePartner GmbH, founded in 2022, that develops voluntary carbon market projects with a focus on nature-based removals (afforestation, reforestation, revegetation, soil/blue carbon, biochar) and improved cookstoves. It provides project development, due diligence, portfolio management, and carbon/impact investing opportunities, with a Kenya subsidiary (Sand River Carbon) and projects including Spekboom thicket restoration in South Africa.
+ClimatePartner Impact GmbH is a Munich-based subsidiary of ClimatePartner GmbH, founded in October 2022, that develops voluntary carbon market projects focused on nature-based removals (afforestation, reforestation, revegetation, soil organic carbon, blue carbon, biochar) and improved cookstoves. It handles the full project value chain from design through VER issuance, registry and portfolio management, and also provides structured carbon finance and impact investing vehicles. Flagship projects include Spekboom thicket restoration in South Africa's Eastern Cape.
+
+![ClimatePartner Impact website](/screenshots/climatepartner-impact/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://climatepartnerimpact.com/))
+- **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://climatepartnerimpact.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://climatepartnerimpact.com/about-us/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

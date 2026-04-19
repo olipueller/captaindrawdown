@@ -2,31 +2,37 @@
 title: "Removr"
 layout: "single"
 type: "directory"
-description: "Removr is a Norwegian DAC company, jointly founded by Vanir Green Industries and GreenCap Solutions, that develops large-scale solid sorbent direct air capture"
+description: "Removr is a Norwegian direct air capture company jointly owned by Vanir Green Industries and GreenCap Solutions, developing solid-sorbent (zeolite) DAC"
 url: "/directory/removr/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** Norway
 **Website:** [https://www.removr.com/](https://www.removr.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~4 (-43% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Removr is a Norwegian DAC company, jointly founded by Vanir Green Industries and GreenCap Solutions, that develops large-scale solid sorbent direct air capture plants using zeolite molecular sieves. The company is scaling through a stepwise pilot program (TCM Mongstad, the SINTEF-led Genesis pilot, and pilots in the Netherlands/Spain) toward a planned ~50,000 t/yr facility in North America and a long-term 1-million-ton plant. Removr is also a partner in the Ankeron Carbon Management Hub consortium in Washington State.
+Removr is a Norwegian direct air capture company jointly owned by Vanir Green Industries and GreenCap Solutions, developing solid-sorbent (zeolite) DAC technology. The company is scaling from a pilot at Technology Centre Mongstad toward industrial-scale deployments, including participation in the RMI-led Ankeron Carbon Management Hub feasibility study in the Pacific Northwest, with ambitions for a 1-million-ton-per-year plant.
 
 ![Removr website](/screenshots/v1-thumbnails/removr.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://cleantech.com/can-sorbent-innovation-make-dac-viable/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.removr.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.removr.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/removr/)
 
 ---
 

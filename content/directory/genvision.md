@@ -2,20 +2,34 @@
 title: "Genvision"
 layout: "single"
 type: "directory"
-description: "Genvision — Unknown company in Unknown"
+description: "Genvision is a Belgium-based (KU Leuven spin-out) AI startup originally focused on satellite-based measurement of CO2 removal by forests and nature-based"
 url: "/directory/genvision/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Belgium
+**Website:** [https://genvision.com/](https://genvision.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Genvision is a Belgium-based (KU Leuven spin-out) AI startup originally focused on satellite-based measurement of CO2 removal by forests and nature-based projects. It has since broadened into an AI suite for the voluntary carbon market, offering a unified cross-registry search (Verra, Gold Standard, Isometric, ACR, CAR), AI-powered validation/audit compliance tools for VVBs, and RFP automation for project developers.
+
+![Genvision website](/screenshots/genvision/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://genvision.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: http://www.genvision.com ([source](https://www.cdr.fyi/marketplace/genvision))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://genvision.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/genvision))
 
 ---

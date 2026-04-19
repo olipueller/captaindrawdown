@@ -2,7 +2,7 @@
 title: "Origen"
 layout: "single"
 type: "directory"
-description: "Origen (Origen Power Limited) is a UK/US-based DAC company using limestone chemistry combined with a proprietary green lime kiln and low-intensity air contactor"
+description: "Origen (Origen Power Limited) is a UK/US climate-tech company developing limestone-based direct air capture technology, headquartered in Bristol with US"
 url: "/directory/origen/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -13,21 +13,29 @@ liveliness: "🟢 Active"
 **Method:** DAC (Solid Sorbent)
 **Country:** United Kingdom
 **Website:** [https://www.origencarbon.com/](https://www.origencarbon.com/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~86
+**LinkedIn Followers:** 4,074
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Origen (Origen Power Limited) is a UK/US-based DAC company using limestone chemistry combined with a proprietary green lime kiln and low-intensity air contactor to capture CO2 and store it underground. The company raised $13M Series A in January 2025 led by Barclays Climate Ventures with Shell Ventures participation, and has partnerships with EERC (North Dakota, 1,000 tpa) and Shell/Mitsubishi (Pelican Gulf Coast DAC Hub, up to 50,000 tpa).
+Origen (Origen Power Limited) is a UK/US climate-tech company developing limestone-based direct air capture technology, headquartered in Bristol with US operations. It closed a $13M Series A in January 2025 led by Barclays Climate Ventures (with Shell Ventures, Exascale, Elemental Impact, Hatch) and is building a 1,000 tpa demonstration at EERC in North Dakota, while participating in the Pelican Gulf Coast DAC Hub in Louisiana with Shell and Mitsubishi.
 
 ![Origen website](/screenshots/v1-thumbnails/origen.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.origencarbon.com/news/completing-the-loop-origen-commissions-proprietary-air-contactor/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.origencarbon.com/news/origen-series-a/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.origencarbon.com/news/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.origencarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/origen-power/)
 
 ---
 

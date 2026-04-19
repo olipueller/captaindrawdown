@@ -2,7 +2,7 @@
 title: "Aurora Sustainable Lands"
 layout: "single"
 type: "directory"
-description: "Aurora Sustainable Lands (formerly Blue Source Sustainable Forests Company) is a joint venture between Anew Climate and an equity consortium led by Oak Hill Adv"
+description: "Aurora Sustainable Lands (formerly Bluesource Sustainable Forests Company) is a US-based forest carbon project developer and landowner that owns and manages"
 url: "/directory/aurora-sustainable-lands/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -10,21 +10,27 @@ liveliness: "🟢 Active"
 
 **Pathway:** Afforestation
 **Method:** Afforestation
-**Country:** Unknown
+**Country:** United States
 **Website:** [https://aurorasustainablelands.com](https://aurorasustainablelands.com)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~32 (+14% YoY)
+**LinkedIn Followers:** 4,028
 **CDR Focus:** supplier
 **Evidence signals:** news_mention
 
 ## About
 
-Aurora Sustainable Lands (formerly Blue Source Sustainable Forests Company) is a joint venture between Anew Climate and an equity consortium led by Oak Hill Advisors that has enrolled 1.65 million acres of historically industrial American forestlands into carbon-first management projects, shifting land use from timber harvesting to long-term carbon sequestration. The company was established in 2021 and has completed approximately $1.7 billion in acquisitions to date, with investors including Oak Hill Advisors and AB CarVal. Carbon credits from its forest portfolio are marketed by Anew Climate.
+Aurora Sustainable Lands (formerly Bluesource Sustainable Forests Company) is a US-based forest carbon project developer and landowner that owns and manages roughly 1.65–1.7 million acres of formerly industrial American forestland, shifting them from timber harvesting to carbon-first Improved Forest Management. It is a joint venture between Anew Climate and an equity consortium led by Oak Hill Advisors, with investors including AB CarVal, EIG and GenZero; credits are exclusively marketed by Anew Climate. Recent activity includes issuing credits in Dec 2025 under ACR's IFM 2.1 methodology and a $100M offtake deal with TotalEnergies in 2024.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://aurorasustainablelands.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://aurorasustainablelands.com/about/))
 - **2026-04-18** — discovered via: news_feed ([source](https://sustainabilityonline.net/news/anew-climate-issues-85000-metric-tonnes-of-carbon-credits-to-jpmorgan-chase/))
+
+[View on LinkedIn](https://www.linkedin.com/company/aurora-sustainable-lands/)
 
 ---
 

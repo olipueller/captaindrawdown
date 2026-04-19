@@ -2,7 +2,7 @@
 title: "Living Carbon"
 layout: "single"
 type: "directory"
-description: "Founded in 2019, California-based Living Carbon transforms marginal land into high-value environmental assets, with a focus on restoring abandoned mines, degrad"
+description: "Founded in 2019, California-based Living Carbon transforms marginal land into high-value environmental assets, with a focus on restoring abandoned mines,"
 url: "/directory/living-carbon/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -12,14 +12,16 @@ liveliness: "🟢 Active"
 **Method:** Ocean-based CDR
 **Country:** United States
 **Website:** [https://www.livingcarbon.com/](https://www.livingcarbon.com/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 95/100)
+**Employees:** ~35 (-5% YoY)
+**LinkedIn Followers:** 15,209
 **Open roles on cdrjobs:** 5
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Founded in 2019, California-based Living Carbon transforms marginal land into high-value environmental assets, with a focus on restoring abandoned mines, degraded farmland, and unproductive soils with site-tailored reforestation. The company combines biotech (photosynthesis-enhanced hybrid poplars) with large-scale reforestation of degraded lands, especially former Appalachian coal-mine sites. It is a CDR supplier generating verified reforestation carbon removal credits.
+Founded in 2019, California-based Living Carbon transforms marginal land into high-value environmental assets, with a focus on restoring abandoned mines, degraded farmland, and unproductive soils with site-tailored reforestation. The company is a public benefit company and Microsoft has agreed to purchase 1.4 million tonnes of carbon removal credits from Living Carbon's US-based reforestation projects, generated through large-scale reforestation of 25,000 acres of degraded lands in the broader Appalachian region. In 2026, the Symbiosis Coalition also signed long-term offtake agreements with Living Carbon securing 131,240 tonnes of carbon removal over 10 years, with Google, McKinsey, and Meta among the buyers.
 
 ![Living Carbon website](/screenshots/v1-thumbnails/living-carbon.jpg)
 
@@ -29,8 +31,12 @@ Founded in 2019, California-based Living Carbon transforms marginal land into hi
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.livingcarbon.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.livingcarbon.com/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/living-carbon/)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "CUR8"
 layout: "single"
 type: "directory"
-description: "CUR8 is a UK-based carbon removal intelligence and portfolio platform that helps corporate buyers procure, finance, and manage CDR credits across pathways inclu"
+description: "CUR8 is an intelligence provider for the carbon removal market, positioned at the intersection of climate science and finance, using proprietary scientific"
 url: "/directory/cur8/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -12,14 +12,18 @@ liveliness: "🟢 Active"
 **Method:** CDR Platform/Marketplace
 **Country:** United Kingdom
 **Website:** [https://cur8.earth/](https://cur8.earth/)
-**Status:** 🟢 Active (score: 92/100)
+**Status:** 🟢 Active (score: 95/100)
+**Employees:** ~38 (+6% YoY)
+**LinkedIn Followers:** 9,926
 **Open roles on cdrjobs:** 4
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-CUR8 is a UK-based carbon removal intelligence and portfolio platform that helps corporate buyers procure, finance, and manage CDR credits across pathways including DAC, enhanced weathering, and biochar. They act as a market-maker/broker rather than a removal supplier, providing due diligence, portfolio construction, and offtake financing for clients such as British Airways, Standard Chartered, and Coca-Cola HBC.
+CUR8 is an intelligence provider for the carbon removal market, positioned at the intersection of climate science and finance, using proprietary scientific models to assess efficacy, quality, value, and delivery risk of carbon removal projects, enabling corporate buyers to build de-risked net-zero portfolios. Its platform is trusted by multinational banks like Standard Chartered and major brands like British Airways. CUR8 describes itself as a market-maker for carbon removals, offering products and services to scale the market and unlock financing for innovative removal projects.
+
+![CUR8 website](/screenshots/cur8/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -27,8 +31,12 @@ CUR8 is a UK-based carbon removal intelligence and portfolio platform that helps
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://cur8.earth/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://cur8.earth/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/cur8earth/)
 
 ---
 

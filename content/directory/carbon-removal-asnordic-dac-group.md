@@ -2,7 +2,7 @@
 title: "Carbon Removal AS/Nordic DAC Group"
 layout: "single"
 type: "directory"
-description: "Carbon Removal AS is a Norwegian project development company developing a large-scale Direct Air Capture facility at Kollsnes in Øygarden, adjacent to the North"
+description: "Carbon Removal AS is a Norwegian project development company building a large-scale Direct Air Capture facility at Kollsnes in Øygarden, adjacent to the"
 url: "/directory/carbon-removal-asnordic-dac-group/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,20 +12,28 @@ liveliness: "🟢 Active"
 **Method:** DAC (Other/Undisclosed)
 **Country:** Norway
 **Website:** [https://www.carbonremoval.no/](https://www.carbonremoval.no/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~6 (+100% YoY)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~5 (+67% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Removal AS is a Norwegian project development company developing a large-scale Direct Air Capture facility at Kollsnes in Øygarden, adjacent to the Northern Lights CO2 storage terminal. In July 2025, via subsidiary NorDAC Kollsnes AS, it signed an agreement with German DAC technology provider Phlair to deploy an electrochemical liquid-solvent DAC plant targeting 60,000 tpa initially and scaling to 500,000 tpa. Nordic DAC Group AB is a Swedish affiliate/minority shareholder that sells the resulting removal certificates.
+Carbon Removal AS is a Norwegian project development company building a large-scale Direct Air Capture facility at Kollsnes in Øygarden, adjacent to the Northern Lights CO2 storage terminal. Through its subsidiary NorDAC Kollsnes AS, it signed a 2025 agreement with German DAC tech provider Phlair to deploy an electrochemical liquid-solvent DAC plant starting at 60,000 tpa and scaling to 500,000 tpa. NorDAC will be the operator and handle project development and infrastructure.
 
 ![Carbon Removal AS/Nordic DAC Group website](/screenshots/v1-thumbnails/carbon-removal-as-nordic-dac-group.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Carbon Removal
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbonremoval.no/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonremoval.no ([source](https://www.cdr.fyi/supplier/carbon-removal))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-removal))
+- **** — merged duplicate: Carbon Removal (slug=carbon-removal)
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://phlair.com/news/carbon-removal-nordac))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbonremoval.no/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

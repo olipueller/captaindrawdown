@@ -2,7 +2,7 @@
 title: "Ashwood Biochar"
 layout: "single"
 type: "directory"
-description: "Ashwood Biochar produces carbon-rich biochar from 100% sustainable woody biomass waste in Lexington, Kentucky, used as a soil amendment to improve fertility, wa"
+description: "Ashwood BioChar produces carbon-rich biochar from 100% sustainable woody biomass waste in Lexington, Kentucky, with product used as a soil amendment to improve"
 url: "/directory/ashwood-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,20 +13,24 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://ashwoodbiochar.com/](https://ashwoodbiochar.com/)
 **Status:** 🟢 Active (score: 75/100)
-**Employees:** ~1 (0% YoY)
-**LinkedIn Followers:** 227
+**Employees:** ~1 (-100% YoY)
+**LinkedIn Followers:** 228
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Ashwood Biochar produces carbon-rich biochar from 100% sustainable woody biomass waste in Lexington, Kentucky, used as a soil amendment to improve fertility, water retention, and as a method of permanent carbon sequestration. They supply large volumes of wood-based biochar in the Southeast US, offering both bulk and granulated products. The company is part of Ashwood Trinity, which invests in soil health and biochar projects and operates a farmer sign-up program offering per-acre incentives.
+Ashwood BioChar produces carbon-rich biochar from 100% sustainable woody biomass waste in Lexington, Kentucky, with product used as a soil amendment to improve fertility, water retention, and as a method of permanent carbon sequestration. The company uses woody biomass feedstock via gasification technology and runs a Cover Crops & Carbon Assistance Program paying farmers $100–$300 per acre to adopt biochar, covering upfront costs for participating farmers.
 
-![Ashwood Biochar website](/screenshots/v1-thumbnails/ashwood-biochar.jpg)
+![Ashwood Biochar website](/screenshots/ashwood-biochar/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://ashwoodbiochar.com/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://ecmc.colorado.gov/sites/ecmc/files/documents/CO_HB_23_1069_Pilot_Study_Recommendation.pdf))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://ashwoodbiochar.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://ashwoodbiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

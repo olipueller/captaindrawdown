@@ -2,31 +2,35 @@
 title: "Airhive"
 layout: "single"
 type: "directory"
-description: "Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energy-efficient and rapidly scalable technology to capture carbon from the atmospher"
+description: "Airhive is a UK-based direct air capture company founded in 2022 that develops modular, fluidised-bed DAC systems using natural-mineral sorbents. The company"
 url: "/directory/airhive/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** United Kingdom
 **Website:** [https://airhive.earth/](https://airhive.earth/)
-**Status:** 🟢 Active (score: 95/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~19 (-10% YoY)
-**LinkedIn Followers:** 2,752
+**LinkedIn Followers:** 2,856
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energy-efficient and rapidly scalable technology to capture carbon from the atmosphere. Its system uses a novel DAC method based on fluidised beds, a proven industrial technology, and the speed and efficiency of this fluidisation-based capture method, combined with heat recovery and reuse, helps Airhive lower costs. Airhive's 1,000-tonne-per-year system is one of the largest operational DAC systems in the world and is operating as part of Deep Sky Alpha, a cross-technology DAC hub in Innisfail, Alberta.
+Airhive is a UK-based direct air capture company founded in 2022 that develops modular, fluidised-bed DAC systems using natural-mineral sorbents. The company is now capturing carbon dioxide directly from the atmosphere with its system in Alberta, Canada, using a novel DAC method based on fluidised beds combined with heat recovery to lower costs. It has commercial pilots with Coca-Cola Europacific Partners and Deep Sky, and was pre-purchased by Frontier in 2023.
 
-![Airhive website](/screenshots/v1-thumbnails/airhive.jpg)
+![Airhive website](/screenshots/airhive/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/airhive/__58otEpxQIKuZ3IUk3wwzVyXRekF9iOrUoIuzs9evcG0))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.airhive.earth/publications/airhive-opens-one-of-the-worlds-largest-and-lowest-cost-direct-air-capture-systems))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.airhive.earth/publications/airhive-opens-one-of-the-worlds-largest-and-lowest-cost-direct-air-capture-systems))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

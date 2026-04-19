@@ -2,29 +2,33 @@
 title: "CarboVerte"
 layout: "single"
 type: "directory"
-description: "CarboVerte is a German company specialized in producing biochar and biochar-based products using a modern pyrolysis plant. Based in Eibenstock, its focus is the"
+description: "CarboVerte GmbH is a small German biochar producer and trader based in Eibenstock, Saxony, founded in 2015. The company processes biomass into biochar and"
 url: "/directory/carboverte/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://carboverte.de/](https://carboverte.de/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟢 Active (score: 75/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-CarboVerte is a German company specialized in producing biochar and biochar-based products using a modern pyrolysis plant. Based in Eibenstock, its focus is the agricultural and livestock industry as well as urban green spaces. Products are sold via their own store and Amazon, marketed as permanent atmospheric CO2 sinks for soil, composting and animal feed applications.
+CarboVerte GmbH is a small German biochar producer and trader based in Eibenstock, Saxony, founded in 2015. The company processes biomass into biochar and biochar-based soil amendments, feed additives and grilling products sold via its own webshop, Amazon and retail partners. It is primarily a consumer/agriculture retail business rather than a formal CDR credit supplier and is not listed on any CDR registry.
 
-![CarboVerte website](/screenshots/v1-thumbnails/carboverte.jpg)
+![CarboVerte website](/screenshots/carboverte/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carboverte.de/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://carboverte.de/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carboverte.de/kontakt))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-zero.com/company/carboverte-gmbh/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

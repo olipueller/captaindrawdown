@@ -2,7 +2,7 @@
 title: "Cultivo"
 layout: "single"
 type: "directory"
-description: "Cultivo is a platform for developing and operating natural assets, partnering with institutional investors and multinational corporations, with a model that gen"
+description: "Cultivo is a California-based nature-tech platform that develops and operates large-scale natural capital projects, primarily U.S. grasslands regeneration for"
 url: "/directory/cultivo/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -13,16 +13,18 @@ liveliness: "🟢 Active"
 **Method:** Soil Carbon Sequestration
 **Country:** United States
 **Website:** [https://www.cultivo.land/](https://www.cultivo.land/)
-**Status:** 🟢 Active (score: 95/100)
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~176 (+28% YoY)
+**LinkedIn Followers:** 10,208
 **Open roles on cdrjobs:** 4
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Cultivo is a platform for developing and operating natural assets, partnering with institutional investors and multinational corporations, with a model that generates returns through payments for services, primarily carbon removal, unlocked by land regeneration activities. They focus heavily on U.S. grasslands but also cover afforestation/reforestation, agroforestry, improved forest management, mangrove restoration, and biochar. Cultivo acquired Kateri, a U.S.-based carbon grasslands project developer, effective December 1, 2025, strengthening its vertically integrated model; combined projects aim to remove over 9 million tonnes CO₂e over 30 years.
+Cultivo is a California-based nature-tech platform that develops and operates large-scale natural capital projects, primarily U.S. grasslands regeneration for soil carbon removal, along with afforestation/reforestation, agroforestry, improved forest management, mangrove restoration, and biochar. The company uses proprietary remote-sensing and modeling technology, packages projects into investment products, and partners with institutional investors such as Octopus Energy Generation ($100M commitment as of March 2026). Cultivo acquired grasslands developer Kateri in December 2025 and has enrolled over 650,000 acres targeting ~9 Mt CO2e of removals over 30 years.
 
-![Cultivo website](/screenshots/v1-thumbnails/cultivo.jpg)
+![Cultivo website](/screenshots/cultivo/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -30,8 +32,12 @@ Cultivo is a platform for developing and operating natural assets, partnering wi
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://cultivo.land/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://cultivo.land/remove-carbon))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/cultivo/)
 
 ---
 

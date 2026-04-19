@@ -2,7 +2,7 @@
 title: "Jeffries Group"
 layout: "single"
 type: "directory"
-description: "Jeffries Group is a 180+ year-old South Australian composting and soil products family business that commissioned one of the Southern Hemisphere's largest bioch"
+description: "Jeffries Group is a long-established South Australian composting and soil products family business that in 2021 commissioned one of the Southern Hemisphere's"
 url: "/directory/jeffries-group/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,16 +12,16 @@ liveliness: "🟢 Active"
 **Secondary pathways:** BECCS
 **Method:** Biochar
 **Country:** Australia
-**Website:** [https://jeffries.com.au/agriculture/biochar/](https://jeffries.com.au/agriculture/biochar/)
+**Website:** [https://jeffries.com.au/](https://jeffries.com.au/)
 **Status:** 🟢 Active (score: 85/100)
-**Employees:** ~43 (-2% YoY)
-**LinkedIn Followers:** 2,433
+**Employees:** ~45 (+5% YoY)
+**LinkedIn Followers:** 2,456
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-Jeffries Group is a 180+ year-old South Australian composting and soil products family business that commissioned one of the Southern Hemisphere's largest biochar plants in 2021. The plant pyrolyzes kerbside green waste into biochar (sold as soil amendment and in pelletized CulChar fertiliser) while powering itself via ORC turbines driven by syngas. The company is a Puro.earth-listed CORC supplier, though the CDR-credit project remains in early development status.
+Jeffries Group is a long-established South Australian composting and soil products family business that in 2021 commissioned one of the Southern Hemisphere's largest biochar plants, producing roughly 1,500 dry tonnes of biochar annually from recycled green organics. Biochar is sold as a soil amendment and in pelletized CulChar fertiliser, and the company is a Puro.earth-listed CORC supplier with hundreds of CORCs issued and retired under the Biochar 2022 methodology.
 
 ![Jeffries Group website](/screenshots/v1-thumbnails/jeffries-group.jpg)
 
@@ -31,6 +31,8 @@ Jeffries Group is a 180+ year-old South Australian composting and soil products 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/projects/114352))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://jeffries.com.au/about-us/corc/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

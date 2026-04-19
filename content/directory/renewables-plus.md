@@ -2,10 +2,10 @@
 title: "Renewables Plus"
 layout: "single"
 type: "directory"
-description: "Renewables Plus Sdn. Bhd. (R+) is a gasification specialist system provider and EPC contractor, incorporated in April 2004 in Malaysia, with completed projects"
+description: "Renewables Plus Sdn. Bhd. (R+) is a Malaysian biomass gasification specialist and EPC contractor, incorporated in 2004, that builds Blue Flame™ downdraft"
 url: "/directory/renewables-plus/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
@@ -13,21 +13,29 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Malaysia
 **Website:** [https://www.renewablesplus.com/](https://www.renewablesplus.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 65/100)
+**Employees:** ~13
+**LinkedIn Followers:** 415
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Renewables Plus Sdn. Bhd. (R+) is a gasification specialist system provider and EPC contractor, incorporated in April 2004 in Malaysia, with completed projects in 6 countries. Their gasification technology powers Malaysia's first industrial biochar facility (Bukit Selar Carbon Station, operated by Carbon Plus), using bamboo and palm kernel shell feedstocks, generating Puro.earth CORCs. They also market a Biofix biochar product alongside the Blue Flame™ gasifier.
+Renewables Plus Sdn. Bhd. (R+) is a Malaysian biomass gasification specialist and EPC contractor, incorporated in 2004, that builds Blue Flame™ downdraft gasification systems for energy recovery from agricultural residues. Their technology powers Malaysia's first industrial biochar facility — the Bukit Selar Carbon Station operated by Carbon Plus — which produces biochar from bamboo and palm kernel shell and generates Puro.earth CORCs. R+ has completed gasification projects in six countries across ASEAN and West Asia.
 
 ![Renewables Plus website](/screenshots/v1-thumbnails/renewables-plus.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.renewablesplus.com/about-us/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greenstories.org.uk/anthology-for-cop27/solutions/biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.renewablesplus.com/about-us/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.renewablesplus.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/renewables-plus/)
 
 ---
 

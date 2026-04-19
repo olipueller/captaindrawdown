@@ -2,7 +2,7 @@
 title: "Inkoh"
 layout: "single"
 type: "directory"
-description: "Inkoh AG is a Swiss biochar producer that has operated a pyrolysis plant in Maienfeld since May 2020, capable of producing approximately 450 tons of biochar per"
+description: "Inkoh AG is a Swiss biochar producer based in Maienfeld, Graubünden, and a subsidiary of Zindel United Holding AG. It operates a Biomacon pyrolysis plant"
 url: "/directory/inkoh/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,22 +11,24 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Switzerland
-**Website:** [https://inkoh.swiss/produkte-leistungen/pflanzenkohle-produkte/](https://inkoh.swiss/produkte-leistungen/pflanzenkohle-produkte/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~7 (+17% YoY)
-**LinkedIn Followers:** 742
-**CDR Focus:** supplier
+**Website:** [https://inkoh.swiss/](https://inkoh.swiss/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~8 (+33% YoY)
+**LinkedIn Followers:** 788
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Inkoh AG is a Swiss biochar producer that has operated a pyrolysis plant in Maienfeld since May 2020, capable of producing approximately 450 tons of biochar per year from forest waste wood. The company sells biochar directly and as substrate mixtures (including tree-pit substrates for sponge-city applications) and issues carbon removal certificates via First Climate. Swiss Post is a notable partner investing in Inkoh biochar as part of its 2040 carbon-neutral strategy.
+Inkoh AG is a Swiss biochar producer based in Maienfeld, Graubünden, and a subsidiary of Zindel United Holding AG. It operates a Biomacon pyrolysis plant producing around 450 tons of biochar per year from FSC-certified forest waste wood, selling biochar products and issuing CO2 removal certificates via First Climate. In 2024 it received a 7,600 m² site in Landquart to build a new headquarters and expanded production facility called "Biochar Circle Switzerland".
 
 ![Inkoh website](/screenshots/v1-thumbnails/inkoh.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://inkoh.swiss/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.firstclimate.com/projektpartnerschaft/biochar-partner:-inkoh?lang=en))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

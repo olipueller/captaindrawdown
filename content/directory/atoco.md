@@ -2,7 +2,7 @@
 title: "Atoco"
 layout: "single"
 type: "directory"
-description: "Atoco is a California-based startup founded by Omar Yaghi in 2020 focused on commercializing advancements in MOF and COF technologies for carbon capture and atm"
+description: "Atoco is a California-based deep-tech startup founded in 2020 by Professor Omar Yaghi (2025 Nobel laureate in Chemistry) that commercializes metal-organic"
 url: "/directory/atoco/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,19 +12,19 @@ liveliness: "🟢 Active"
 **Secondary pathways:** Enabling Tech
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
-**Website:** [https://atoco.com/carbon-capture/our-dac-innovation/](https://atoco.com/carbon-capture/our-dac-innovation/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~31 (+41% YoY)
-**LinkedIn Followers:** 7,582
+**Website:** [https://atoco.com/](https://atoco.com/)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~30 (+43% YoY)
+**LinkedIn Followers:** 8,855
 **Open roles on cdrjobs:** 4
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Atoco is a California-based startup founded by Omar Yaghi in 2020 focused on commercializing advancements in MOF and COF technologies for carbon capture and atmospheric water harvesting. The company develops solid-state DAC and post-combustion capture modules using nano-engineered reticular materials, and its founder won the 2025 Nobel Prize in Chemistry for the development of MOFs. The startup is also targeting data centers in water-stressed regions as customers for its water-harvesting technology.
+Atoco is a California-based deep-tech startup founded in 2020 by Professor Omar Yaghi (2025 Nobel laureate in Chemistry) that commercializes metal-organic frameworks (MOFs) and covalent organic frameworks (COFs) for carbon capture and atmospheric water harvesting. The company develops solid-state modules for both direct air capture and post-combustion capture, targeting substantially lower energy and cost than incumbent sorbent technologies.
 
-![Atoco website](/screenshots/v1-thumbnails/atoco.jpg)
+![Atoco website](/screenshots/atoco/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -32,6 +32,8 @@ Atoco is a California-based startup founded by Omar Yaghi in 2020 focused on com
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://atoco.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://atoco.com/carbon-capture/our-dac-innovation/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

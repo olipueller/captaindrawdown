@@ -2,7 +2,7 @@
 title: "Blue Flint Ethanol"
 layout: "single"
 type: "directory"
-description: "Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partners (HLCP) located near Underwood, North Dakota, that generates, captures, and seq"
+description: "Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partners (HLCP) located near Underwood, North Dakota, that captures biogenic CO2 from"
 url: "/directory/blue-flint-ethanol/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -12,21 +12,29 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://harvestonelcp.com/fccp-blue-flint-19634](https://harvestonelcp.com/fccp-blue-flint-19634)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~41 (+8% YoY)
-**LinkedIn Followers:** 1,359
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~42 (+11% YoY)
+**LinkedIn Followers:** 1,388
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partners (HLCP) located near Underwood, North Dakota, that generates, captures, and sequesters biogenic CO2, and was the first CCS entity to commence carbon capture operations following the August 2022 passage of the Inflation Reduction Act. Using CCS, Blue Flint captures 100% of its CO2 emissions from fermentation, injecting approximately 600 metric tons of CO2 per day permanently stored about one mile below the surface in the Broom Creek formation. As a CDR-tech operating subsidiary of HLCP, it qualifies as a "division" supplier for the directory.
+Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partners (HLCP) located near Underwood, North Dakota, that captures biogenic CO2 from corn ethanol fermentation and injects it into a Class VI well for permanent geologic storage. It was the first U.S. facility to begin CCS operations following the August 2022 Inflation Reduction Act, with over 125,000 metric tons sequestered as of September 2024 and a targeted capacity of ~200,000 tonnes/year.
 
-![Blue Flint Ethanol website](/screenshots/v1-thumbnails/blue-flint-ethanol.jpg)
+![Blue Flint Ethanol website](/screenshots/blue-flint-ethanol/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Harvestone
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://harvestonelcp.com/))
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://harvestonelcp.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **** — merged duplicate: Harvestone (slug=harvestone)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://harvestonelcp.com/story-harvestone-low-carbon-partners-bank-america-close-205-million-carbon-capture-sequestration-tax-equity-financing-375-247776))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://harvestonelcp.com/story-harvestone-low-carbon-partners-bank-america-close-205-million-carbon-capture-sequestration-tax-equity-financing-375-247776))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

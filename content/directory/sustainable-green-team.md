@@ -2,28 +2,33 @@
 title: "Sustainable Green Team"
 layout: "single"
 type: "directory"
-description: "Sustainable Green Team, Ltd. (OTC: SGTM) is a Florida-based publicly-traded company that converts organic waste into biochar, regenerative soils, and carbon rem"
+description: "Sustainable Green Team, Ltd. (OTC: SGTM) is a Florida-based publicly-traded company headquartered in Astatula that converts organic waste streams (yard waste,"
 url: "/directory/sustainable-green-team/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Secondary pathways:** Enabling Tech
 **Method:** Biochar
-**Country:** Unknown
+**Country:** United States
 **Website:** [https://sustainablegreenteam.com](https://sustainablegreenteam.com)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** news_mention
 
 ## About
 
-Sustainable Green Team, Ltd. (OTC: SGTM) is a Florida-based publicly-traded company that converts organic waste into biochar, regenerative soils, and carbon removal credits. The company is repositioning around its Restore.Earth "Physical Truth Infrastructure" verification platform while continuing biochar production via its patented pyrolysis technology stack.
+Sustainable Green Team, Ltd. (OTC: SGTM) is a Florida-based publicly-traded company headquartered in Astatula that converts organic waste streams (yard waste, tree trimmings, storm debris) into biochar, regenerative soils (Water Less Garden™), and carbon removal credits. The company is increasingly repositioning around its Restore.Earth "Physical Truth Infrastructure" — a GPS- and AI-verified blockchain ledger for biochar carbon removal credits — while continuing biochar production via its SGTM Gasifier Forge pyrolysis technology.
+
+![Sustainable Green Team website](/screenshots/sustainable-green-team/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2026/04/13/3272495/0/en/Sustainable-Green-Team-Ltd-OTC-SGTM-Welcomes-Phil-Blom-Founder-of-Terra-Char-as-Strategic-Ambassador-for-Soil-and-Biochar-Verification.html))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2026/04/13/3272495/0/en/Sustainable-Green-Team-Ltd-OTC-SGTM-Welcomes-Phil-Blom-Founder-of-Terra-Char-as-Strategic-Ambassador-for-Soil-and-Biochar-Verification.html))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.stocktitan.net/news/SGTM/sustainable-green-team-ltd-otc-sgtm-welcomes-phil-blom-founder-of-9o21srar2nep.html))
 

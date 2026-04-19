@@ -2,20 +2,31 @@
 title: "Heartyculture Natural Products"
 layout: "single"
 type: "directory"
-description: "Heartyculture Natural Products — Unknown company in Unknown"
+description: "Heartyculture Natural Products LLP is an Indian company based in Telangana that operates a biochar CDR program alongside its nursery and wellness-product"
 url: "/directory/heartyculture-natural-products/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** India
+**Website:** [https://biochar.heartyculture.com/](https://biochar.heartyculture.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Heartyculture Natural Products LLP is an Indian company based in Telangana that operates a biochar CDR program alongside its nursery and wellness-product businesses. Through a partnership with Circonomy, it runs artisan biochar production sites that convert crop residues (such as cotton stalks) into biochar applied to soil, generating carbon removal credits under Global Artisan C-Sinks guidelines.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.heartyculture.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://biochar.heartyculture.com/ ([source](https://www.cdr.fyi/supplier/heartyculture-natural-products))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/heartyculture-natural-products))
 
 ---

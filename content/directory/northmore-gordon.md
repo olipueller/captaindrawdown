@@ -2,21 +2,34 @@
 title: "Northmore Gordon"
 layout: "single"
 type: "directory"
-description: "Northmore Gordon — Unknown company in Unknown"
+description: "Northmore Gordon is an Australian energy and carbon advisory consultancy (founded 2009, consolidated with Wattly in 2021) with offices in Melbourne, Sydney,"
 url: "/directory/northmore-gordon/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Australia
+**Website:** [https://northmoregordon.com/](https://northmoregordon.com/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~37 (+23% YoY)
+**LinkedIn Followers:** 2,788
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Northmore Gordon is an Australian energy and carbon advisory consultancy (founded 2009, consolidated with Wattly in 2021) with offices in Melbourne, Sydney, Newcastle, the Philippines and Singapore. They act as a Puro.earth sales channel partner, brokering CO2 Removal Certificates (CORCs) and other environmental attribute certificates (ACCUs, Verra, Gold Standard, RECs) for industrial and commercial clients pursuing net-zero goals. They do not physically remove CO2 themselves.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://northmoregordon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/northmore-gordon))
+
+[View on LinkedIn](https://www.linkedin.com/company/northmore-gordon-pty-ltd/)
 
 ---
 

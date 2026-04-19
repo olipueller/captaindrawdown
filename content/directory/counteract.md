@@ -2,21 +2,38 @@
 title: "Counteract"
 layout: "single"
 type: "directory"
-description: "Counteract — Unknown company in Unknown"
+description: "Counteract is a London-based venture capital fund dedicated exclusively to carbon dioxide removal (CDR) startups. Its inaugural Counteract One fund targeted"
 url: "/directory/counteract/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United Kingdom
+**Website:** [https://counteract.vc/](https://counteract.vc/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~9 (-10% YoY)
+**LinkedIn Followers:** 3,993
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Counteract is a London-based venture capital fund dedicated exclusively to carbon dioxide removal (CDR) startups. Its inaugural Counteract One fund targeted ~£35M/$42M and invests across all CDR pathways including DAC, mineralisation, biomass, enhanced weathering, soil carbon and forestry. The firm does not remove CO2 itself but finances and supports CDR supplier companies.
+
+![Counteract website](/screenshots/counteract/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://counteract.vc/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://counteract.vc/ ([source](https://www.cdr.fyi/marketplace/counteract))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/counteract))
+
+[View on LinkedIn](https://www.linkedin.com/company/wecounteract/)
 
 ---
 

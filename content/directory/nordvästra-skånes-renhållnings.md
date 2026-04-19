@@ -2,7 +2,7 @@
 title: "Nordvästra Skånes Renhållnings"
 layout: "single"
 type: "directory"
-description: "Nordvästra Skånes Renhållnings AB (NSR) is a Swedish municipal recycling company owned by six northwest Skåne municipalities (Bjuv, Båstad, Helsingborg, Höganäs"
+description: "Nordvästra Skånes Renhållnings AB (NSR) is a municipal waste-management company owned by six northwest Skåne municipalities (Bjuv, Båstad, Helsingborg,"
 url: "/directory/nordvästra-skånes-renhållnings/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,22 +11,28 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Sweden
-**Website:** [https://biochar-zero.com/company/nordvastra-skanes-renhallnings-ab/](https://biochar-zero.com/company/nordvastra-skanes-renhallnings-ab/)
-**Status:** 🟢 Active (score: 80/100)
+**Website:** [https://nsr.se/](https://nsr.se/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~140 (+10% YoY)
+**LinkedIn Followers:** 1,928
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Nordvästra Skånes Renhållnings AB (NSR) is a Swedish municipal recycling company owned by six northwest Skåne municipalities (Bjuv, Båstad, Helsingborg, Höganäs, Åstorp, Ängelholm). At its Filborna site in Helsingborg it operates a biochar production facility inaugurated in June 2022 — the largest of its kind in Sweden — converting residual urban green waste into biochar while supplying district heating, and hosts a Biochar Competence Centre opened alongside the 2023 International Biochar Summit.
+Nordvästra Skånes Renhållnings AB (NSR) is a municipal waste-management company owned by six northwest Skåne municipalities (Bjuv, Båstad, Helsingborg, Höganäs, Åstorp, Ängelholm). At its Filborna site in Helsingborg it operates Sweden's largest biochar production facility, inaugurated in June 2022, converting residual urban garden waste into biochar via BioGreen pyrolysis while supplying district heat. NSR also hosts the Reco Park Biochar Competence Centre, funded in part by Bloomberg Philanthropies.
 
 ![Nordvästra Skånes Renhållnings website](/screenshots/v1-thumbnails/nordv-stra-sk-nes-renh-llnings.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/nsr-closes-the-circle-with-novel-biochar-plant/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/nsr-closes-the-circle-with-novel-biochar-plant/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/nsr-ab/)
 
 ---
 

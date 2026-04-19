@@ -2,7 +2,7 @@
 title: "Clo Carbon Cymru"
 layout: "single"
 type: "directory"
-description: "Clo Carbon Cymru is a Welsh (UK) company based in Llandeilo that produces biochar on agricultural land and issues Carbon Lock Origin Certificates (CLOCs), each"
+description: "Clo Carbon Cymru Ltd is an active private limited company registered at Cwmcrymlyn, Bethlehem, Llandeilo, Wales, incorporated on 6 August 2021, classified"
 url: "/directory/clo-carbon-cymru/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -11,21 +11,29 @@ liveliness: "🟡 Moderate"
 **Pathway:** Biochar
 **Secondary pathways:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
+**Country:** United Kingdom
 **Website:** [https://clocarbon.cymru/](https://clocarbon.cymru/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2 (0% YoY)
+**LinkedIn Followers:** 483
 **CDR Focus:** supplier
 **Evidence signals:** exa_search
 
 ## About
 
-Clo Carbon Cymru is a Welsh (UK) company based in Llandeilo that produces biochar on agricultural land and issues Carbon Lock Origin Certificates (CLOCs), each representing one tonne of CO2e removed and stored in biochar. It targets Welsh farmers as an alternative to the Sustainable Farming Scheme, integrating biochar production with biodiversity enhancement. The company combines physical biochar removal with its own registry/certification framework.
+Clo Carbon Cymru Ltd is an active private limited company registered at Cwmcrymlyn, Bethlehem, Llandeilo, Wales, incorporated on 6 August 2021, classified under environmental consulting and natural-sciences R&D. It offers an alternative approach to the Welsh government's Sustainable Farming Scheme built around agroforestry biomass for biochar conversion, deep soil carbon sequestration, manure/slurry emissions reduction, and a Thermal Aerobic Carbon Production (TACP) process generating heat for farm buildings. Each CLOC is backed by laboratory-verified biochar with chain-of-custody tracking and mandatory biodiversity enhancement on participating farms.
+
+![Clo Carbon Cymru website](/screenshots/clo-carbon-cymru/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://clocarbon.cymru/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://clocarbon.cymru/))
 - **2026-04-18** — discovered via: exa ([source](https://clocarbon.cymru/))
+
+[View on LinkedIn](https://www.linkedin.com/company/clo-carbon-cymru/)
 
 ---
 

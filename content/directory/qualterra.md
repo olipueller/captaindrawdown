@@ -2,31 +2,39 @@
 title: "Qualterra"
 layout: "single"
 type: "directory"
-description: "Qualterra is an agricultural technology company whose Cheney, Washington biochar production facility was listed on the Climate Action Reserve (CAR) registry in"
+description: "Qualterra is a Washington State-based agricultural technology company that produces biochar from agricultural waste using its patented Biomass Processing Units"
 url: "/directory/qualterra/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** Enabling Tech
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.qualterraag.com/](https://www.qualterraag.com/)
-**Status:** 🟢 Active (score: 88/100)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~20
+**LinkedIn Followers:** 1,083
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Qualterra is an agricultural technology company whose Cheney, Washington biochar production facility was listed on the Climate Action Reserve (CAR) registry in April 2025 — only the third biochar project globally to achieve registration under CAR's U.S. Biochar Protocol. Headquartered in Washington State, Qualterra operates three commercial facilities that serve customers all over the world. They sell biochar to farmers and manufacture/sell biomass processing units to customers such as Vaagen Timbers, and partner with 3Degrees to deliver verified carbon removal credits.
+Qualterra is a Washington State-based agricultural technology company that produces biochar from agricultural waste using its patented Biomass Processing Units at its Cheney, WA facility. In April 2025 its Cheney biochar project was listed on the Climate Action Reserve registry — only the third biochar project globally under CAR's U.S. Biochar Protocol — with 3Degrees as carbon partner. The company also manufactures and sells its BPU units to other operators (e.g. Vaagen Timbers) and received a USDA SBIR Phase I grant in September 2025 to scale its next-generation BPU.
 
-![Qualterra website](/screenshots/v1-thumbnails/qualterra.jpg)
+![Qualterra website](/screenshots/qualterra/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.qualterraag.com/qualterra-achieves-climate-action-reserve-car-listing-for-biochar-project-in-cheney-washington/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.qualterraag.com/qualterra-inc-and-prairie-view-am-university-implement-new-biomass-processing-and-biochar-production-site-in-texas/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/nuphyplants/)
 
 ---
 

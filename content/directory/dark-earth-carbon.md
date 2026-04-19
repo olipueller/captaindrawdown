@@ -2,7 +2,7 @@
 title: "Dark Earth Carbon"
 layout: "single"
 type: "directory"
-description: "Since 2024, atmosfair and Tanzanian company Dark Earth Carbon (DEC) produce biochar in a large pyrolysis plant in Iringa, Tanzania, and use it as fertiliser on"
+description: "Dark Earth Carbon (DEC) is a Tanzanian biochar producer partnered with German offset provider atmosfair, operating a pyrolysis plant in Iringa that processes"
 url: "/directory/dark-earth-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,20 +13,22 @@ liveliness: "🟢 Active"
 **Country:** Tanzania
 **Website:** [https://www.darkearthcarbon.com/](https://www.darkearthcarbon.com/)
 **Status:** 🟢 Active (score: 80/100)
-**Employees:** ~37 (+32% YoY)
-**LinkedIn Followers:** 813
+**Employees:** ~38 (+23% YoY)
+**LinkedIn Followers:** 849
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Since 2024, atmosfair and Tanzanian company Dark Earth Carbon (DEC) produce biochar in a large pyrolysis plant in Iringa, Tanzania, and use it as fertiliser on Tanzanian farmland. DEC has delivered the first industrial biochar carbon removals in East Africa, with credits issued via the CSI Registry. atmosfair and Dark Earth Carbon are planning a second pyrolysis plant in Mafinga to leverage existing infrastructure.
+Dark Earth Carbon (DEC) is a Tanzanian biochar producer partnered with German offset provider atmosfair, operating a pyrolysis plant in Iringa that processes roughly 8,000 tonnes of wood residues per year. The company delivered what it describes as the first industrial biochar carbon removals in East Africa, with credits issued via the CSI Registry, and is planning a second plant in Mafinga.
 
 ![Dark Earth Carbon website](/screenshots/v1-thumbnails/dark-earth-carbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.darkearthcarbon.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.atmosfair.de/en/climate-protection-projects/negative-emissions/tanzania-industrial-production-of-biochar/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

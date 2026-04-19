@@ -2,7 +2,7 @@
 title: "Carboneyes"
 layout: "single"
 type: "directory"
-description: "Carboneyes is a UK-based biochar carbon removal project developer that converts waste bagasse from sugarcane processing into biochar and donates it to smallhold"
+description: "Carboneyes creates carbon removal credits by permanently storing carbon in soil, supporting smallholder sugarcane farmers and soil health. The company"
 url: "/directory/carboneyes/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -13,20 +13,25 @@ liveliness: "🟡 Moderate"
 **Country:** United Kingdom
 **Website:** [https://www.carboneyes.co/](https://www.carboneyes.co/)
 **Status:** 🟡 Moderate (score: 60/100)
+**Employees:** ~2
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Carboneyes is a UK-based biochar carbon removal project developer that converts waste bagasse from sugarcane processing into biochar and donates it to smallholder sugarcane farmers, generating carbon credits from the resulting soil carbon storage. The company states it aims to remove over 500,000 tonnes of CO2 and donate over 200,000 tonnes of biochar by 2030.
+Carboneyes creates carbon removal credits by permanently storing carbon in soil, supporting smallholder sugarcane farmers and soil health. The company carbonises waste bagasse into biochar, locking carbon into a stable form for at least 1,000 years, and donates the biochar to sugarcane farmers at no cost with on-the-ground training. It aims to remove over 500,000 tonnes of CO2 and donate over 200,000 tonnes of biochar to farmers by 2030.
 
 ![Carboneyes website](/screenshots/v1-thumbnails/carboneyes.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carboneyes.co/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carboneyes.co/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/carboneyesltd/)
 
 ---
 

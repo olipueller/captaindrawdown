@@ -2,22 +2,37 @@
 title: "Offstream"
 layout: "single"
 type: "directory"
-description: "Offstream — Afforestation company in Unknown"
+description: "Offstream is a U.S.-based software and services platform that helps carbon removal project developers — primarily in biochar — manage carbon credit"
 url: "/directory/offstream/"
-pathway: "Afforestation"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
+**Pathway:** Enabling Tech
+**Secondary pathways:** Biochar
 **Method:** Afforestation
-**Country:** Unknown
-**Website:** [https://useoffstream.notion.site/Founding-Account-Executive-Biochar-33ac6e703a1680f69f5bcdca02e87679](https://useoffstream.notion.site/Founding-Account-Executive-Biochar-33ac6e703a1680f69f5bcdca02e87679)
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://www.useoffstream.com/](https://www.useoffstream.com/)
+**Status:** 🟢 Active (score: 82/100)
+**Employees:** ~12 (+100% YoY)
+**LinkedIn Followers:** 2,291
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrjobs, hiring, cdrfyi_listing, marketplace
+
+## About
+
+Offstream is a U.S.-based software and services platform that helps carbon removal project developers — primarily in biochar — manage carbon credit certification, life-cycle assessments, dMRV, and regulatory compliance across standards like Puro.earth and Isometric. Founded in 2023 by Varsha Ramesh Walsh and Zach Janicki, the company is registry-agnostic and explicitly avoids brokering, positioning itself as compliance infrastructure for the CDR market. It does not physically remove CO2 itself.
+
+![Offstream website](/screenshots/offstream/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.useoffstream.com/))
 - **2026-04-19** — discovered via: cdrjobs, cdrfyi ([source](https://www.cdrjobs.earth/job-board))
+
+[View on LinkedIn](https://www.linkedin.com/company/useoffstream/)
 
 ---
 

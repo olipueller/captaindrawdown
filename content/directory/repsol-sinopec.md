@@ -2,10 +2,10 @@
 title: "Repsol Sinopec"
 layout: "single"
 type: "directory"
-description: "Repsol Sinopec Brasil is a joint venture (Repsol 60% / Sinopec 40%) oil & gas operator in Brazil that has established a CDR technology division developing Latin"
+description: "Repsol Sinopec Brasil is an oil & gas joint venture (Repsol 60% / Sinopec 40%) operating in Brazil that runs the DAC.SI (Direct Air Capture System Integration)"
 url: "/directory/repsol-sinopec/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** DAC
@@ -13,17 +13,20 @@ liveliness: "🟢 Active"
 **Method:** DAC (Other/Undisclosed)
 **Country:** Brazil
 **Website:** [https://www.repsolsinopecbr.com.br/](https://www.repsolsinopecbr.com.br/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟠 Suspect (score: 40/100)
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Repsol Sinopec Brasil is a joint venture (Repsol 60% / Sinopec 40%) oil & gas operator in Brazil that has established a CDR technology division developing Latin America's first Direct Air Capture pilot plants. Through the DAC.SI initiative, it partners with PUCRS University and German startup DACMA to test adsorbent-based DAC systems with planned CO2 mineralization in basalt. The CDR program is a sub-unit of a much larger fossil-fuel parent, so it is classified as a division/supplier for our directory.
+Repsol Sinopec Brasil is an oil & gas joint venture (Repsol 60% / Sinopec 40%) operating in Brazil that runs the DAC.SI (Direct Air Capture System Integration) R&D program in partnership with PUCRS University and German startup DACMA. The program has deployed a 15 t/yr DAC reactor and a 300 t/yr pilot (DAC 300TA) in Porto Alegre, with planned CO2 mineralization in Brazilian basalts. It is positioned as Latin America's first DAC initiative and is financed by revenues from the JV's Brazilian gas operations.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://dacma.com/partners/))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.pucrs.br/en/blog/pucrs-and-repsol-sinopec-to-work-on-a-project/))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://carbonherald.com/dacma-and-repsol-successfully-launch-the-largest-dac-project-in-brazil/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

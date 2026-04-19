@@ -2,10 +2,10 @@
 title: "United Earth Energy"
 layout: "single"
 type: "directory"
-description: "United Earth Energy is a US-based waste-to-energy technology company selling the UNI-Box mobile pyrolysis system, which converts agricultural, municipal, and in"
+description: "United Earth Energy is a US-based waste-to-energy technology company that sells the UNI-Box, a containerized mobile pyrolysis reactor that converts organic and"
 url: "/directory/united-earth-energy/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
@@ -13,17 +13,20 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://unitedearth.energy/](https://unitedearth.energy/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-United Earth Energy is a US-based waste-to-energy technology company selling the UNI-Box mobile pyrolysis system, which converts agricultural, municipal, and industrial organic waste into biochar, bio-oil, and syngas. The biochar output provides carbon sequestration and soil enrichment, while the system also processes non-CDR feedstocks such as tires and plastics. The company markets the UNI-Box to municipalities, farms, and industrial clients and references carbon credit eligibility as a customer value proposition.
+United Earth Energy is a US-based waste-to-energy technology company that sells the UNI-Box, a containerized mobile pyrolysis reactor that converts organic and mixed waste into biochar, bio-oil, and syngas. The biochar output provides carbon sequestration alongside soil-enrichment uses, though the system is also marketed for non-CDR feedstocks such as tires and plastics. The firm positions itself primarily as a waste-management equipment supplier with carbon-credit monetization as a secondary value proposition.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://unitedearth.energy/%E2%99%BB%EF%B8%8F-from-trash-to-treasure-the-hidden-power-of-pyrolysis-technology/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://unitedearth.energy/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://unitedearth.energy/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

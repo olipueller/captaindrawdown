@@ -2,31 +2,45 @@
 title: "ÖKT Offenhausen"
 layout: "single"
 type: "directory"
-description: "ÖKT Offenhausen is a biogas facility in Offenhausen, Bavaria, Germany that dries up to 30,000 tons of locally sourced sewage sludge annually, with drying units"
+description: "Ökologische Klärschlammtrocknung Offenhausen GmbH (ÖKT Offenhausen) is a Bavarian facility that operates two pyrolysis units producing biochar from wood chips"
 url: "/directory/ökt-offenhausen/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/](https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/)
-**Status:** 🟢 Active (score: 78/100)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~2
+**LinkedIn Followers:** 4,517
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-ÖKT Offenhausen is a biogas facility in Offenhausen, Bavaria, Germany that dries up to 30,000 tons of locally sourced sewage sludge annually, with drying units powered by sustainable biogas waste heat and CO2-negative Biomass-to-Biochar heat. The pyrolysis system dries sewage sludge and organic residues to create nutrient-rich biochar as a soil additive, produces pyrolysis gas for thermal energy, and is certified by EBC and EBC Agro-Bio. Carbon Standards International documented ÖKT as a case study creating a carbon sink of approximately 1,937 tons of CO2e.
+Ökologische Klärschlammtrocknung Offenhausen GmbH (ÖKT Offenhausen) is a Bavarian facility that operates two pyrolysis units producing biochar from wood chips while providing waste heat to dry sewage sludge and fermentation residues from its integrated biogas plant. The biochar is EBC Agro-Bio certified and credits are issued under the Global C-Sink standard and sold via Carbonfuture and Klimate.
 
 ![ÖKT Offenhausen website](/screenshots/v1-thumbnails/kt-offenhausen.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Biochar-Zero
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟡 Moderate ([source](https://biochar-zero.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://biochar-zero.com/ ([source](https://www.cdr.fyi/marketplace/biochar-zero))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/biochar-zero))
+- **** — merged duplicate: Biochar-Zero (slug=biochar-zero)
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.carmen-ev.de/2025/09/29/neues-zum-thema-pyrolyseanlagen-im-c-a-r-m-e-n-statusseminar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.klimate.co/project/okt-offenhausen))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)
 
 ---
 

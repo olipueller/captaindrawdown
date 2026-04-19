@@ -2,25 +2,29 @@
 title: "Cascade Climate"
 layout: "single"
 type: "directory"
-description: "Cascade Climate is a philanthropically-backed US-based nonprofit (launched June 2023) that accelerates open-system CDR pathways, with an initial focus on enhanc"
+description: "Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) that accelerates open-system CDR pathways, with an initial focus on enhanced"
 url: "/directory/cascade-climate/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Enhanced Weathering
-**Secondary pathways:** Enabling Tech, Ocean CDR
+**Secondary pathways:** Enabling Tech
 **Method:** CDR Platform/Marketplace
 **Country:** United States
-**Website:** [https://www.cascadeclimate.com/](https://www.cascadeclimate.com/)
-**Status:** 🟢 Active (score: 92/100)
+**Website:** [https://cascadeclimate.org/](https://cascadeclimate.org/)
+**Status:** 🟢 Active (score: 95/100)
+**Employees:** ~22 (+5% YoY)
+**LinkedIn Followers:** 7,556
 **Open roles on cdrjobs:** 3
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Cascade Climate is a philanthropically-backed US-based nonprofit (launched June 2023) that accelerates open-system CDR pathways, with an initial focus on enhanced rock weathering (ERW). It does not remove CO2 itself — instead it runs market-shaping initiatives, develops a Community Quantification Standard, builds tools like the Weathering Potential Explorer and ERW-MAC, and drives science and policy coordination across the ERW field.
+Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) that accelerates open-system CDR pathways, with an initial focus on enhanced rock weathering (ERW). It does not remove CO2 itself; instead it develops community quantification standards, tools like the Weathering Potential Explorer and ERW-MAC, the Data Quarry data-sharing platform, and funds ERW R&D and policy work. Backers include the Grantham Foundation, Quadrature Climate Foundation, Google, and Frontier.
+
+![Cascade Climate website](/screenshots/cascade-climate/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -28,8 +32,12 @@ Cascade Climate is a philanthropically-backed US-based nonprofit (launched June 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://cascadeclimate.org/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://cascadeclimate.org/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/cascade-climate/)
 
 ---
 

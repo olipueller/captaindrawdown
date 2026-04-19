@@ -2,7 +2,7 @@
 title: "Phykos"
 layout: "single"
 type: "directory"
-description: "Phykos, PBC is an Oakland, California ocean CDR startup (YC S21) founded in 2020 that develops mobile, solar-powered robotic vessels to cultivate seaweed in the"
+description: "Phykos, PBC is an Oakland, California ocean CDR startup founded in 2020 by Jeff Zerger and Nico Julian (ex-Google X), backed by Y Combinator (S21). The company"
 url: "/directory/phykos/"
 pathway: "Ocean CDR"
 liveliness: "🟠 Suspect"
@@ -12,18 +12,24 @@ liveliness: "🟠 Suspect"
 **Secondary pathways:** Biomass Burial
 **Method:** Marine CDR (Other)
 **Country:** United States
-**Website:** [https://www.phykos.com/](https://www.phykos.com/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Website:** [https://www.phykos.co/](https://www.phykos.co/)
+**Status:** 🟠 Suspect (score: 30/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Phykos, PBC is an Oakland, California ocean CDR startup (YC S21) founded in 2020 that develops mobile, solar-powered robotic vessels to cultivate seaweed in the open ocean and sink the biomass in the deep sea for carbon sequestration. The company sells carbon credits based on biomass sunk and remains a small early-stage team with limited public activity in the last ~12 months.
+Phykos, PBC is an Oakland, California ocean CDR startup founded in 2020 by Jeff Zerger and Nico Julian (ex-Google X), backed by Y Combinator (S21). The company develops mobile, solar-powered autonomous platforms that grow seaweed on the open ocean and sink the biomass to depths over 1,500 m, aiming to sequester carbon for 1,000+ years. Team and funding are very small (~$130K raised), and the company's public-facing news updates appear to stop in 2022.
+
+![Phykos website](/screenshots/phykos/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.phykos.co/))
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://newzchain.com/ocean-carbon-removal-a-new-frontier-in-climate-solutions-with-phykos/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.phykos.co/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.phykos.co/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

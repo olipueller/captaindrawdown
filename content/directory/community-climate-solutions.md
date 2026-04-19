@@ -2,21 +2,35 @@
 title: "Community Climate Solutions"
 layout: "single"
 type: "directory"
-description: "Community Climate Solutions — Unknown company in Unknown"
+description: "Community Climate Solutions (CCS) is a social carbon project developer operating in Zambia's Miombo Woodlands. Working with Climate Impact Partners, its"
 url: "/directory/community-climate-solutions/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Zambia
+**Website:** [https://community-climate-solutions.com/](https://community-climate-solutions.com/)
+**Status:** 🟢 Active (score: 88/100)
+**Employees:** ~44 (+144% YoY)
+**LinkedIn Followers:** 1,171
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Community Climate Solutions (CCS) is a social carbon project developer operating in Zambia's Miombo Woodlands. Working with Climate Impact Partners, its Ecopreneur Movement trains smallholder farmers to plant native trees, manage fires, and restore degraded woodland, targeting removal of up to 2 million tonnes of CO₂ annually by 2030 under Verra's VM0047 reforestation methodology.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://community-climate-solutions.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://community-climate-solutions.com/ ([source](https://www.cdr.fyi/supplier/community-climate-solutions))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/community-climate-solutions))
+
+[View on LinkedIn](https://www.linkedin.com/company/communityclimatesolutions/)
 
 ---
 

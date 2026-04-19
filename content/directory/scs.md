@@ -2,7 +2,7 @@
 title: "SCS"
 layout: "single"
 type: "directory"
-description: "SCS GmbH is a Stuttgart-based start-up producing sustainable biochar, originally at a 900 m² site in Stuttgart-Obertürkheim from December 2022. It has since sca"
+description: "SCS GmbH is a Stuttgart-region German startup producing biochar from regional biomass (prunings, green waste, sawmill residues). After a 900 m²"
 url: "/directory/scs/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,22 +11,28 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
-**Website:** [https://www.scs.earth/scs/](https://www.scs.earth/scs/)
+**Website:** [https://www.scs.earth/](https://www.scs.earth/)
 **Status:** 🟢 Active (score: 80/100)
+**Employees:** ~2 (+100% YoY)
+**LinkedIn Followers:** 799
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-SCS GmbH is a Stuttgart-based start-up producing sustainable biochar, originally at a 900 m² site in Stuttgart-Obertürkheim from December 2022. It has since scaled to a new continuous pyrolysis plant in Leinfelden producing 400 tonnes of EBC-certified biochar per year in 24/7 operation. The company is positioned as a biochar producer (not just a consultancy) focused on regional circular-economy urban greening and carbon removal.
+SCS GmbH is a Stuttgart-region German startup producing biochar from regional biomass (prunings, green waste, sawmill residues). After a 900 m² proof-of-concept site in Stuttgart-Obertürkheim starting December 2022, it scaled to a new continuous pyrolysis plant in Leinfelden producing 400 tonnes/year of European Biochar Certificate (EBC) certified biochar in 24/7 operation, supplying applications ranging from urban trees to vineyards.
 
 ![SCS website](/screenshots/v1-thumbnails/scs.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.scs.earth/scs/en/home))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.scs.earth/scs/en/home))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/scs-gmbh-stuttgart/)
 
 ---
 

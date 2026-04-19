@@ -2,21 +2,36 @@
 title: "Koros"
 layout: "single"
 type: "directory"
-description: "Koros — Unknown company in Unknown"
+description: "Koros is a Philippines-based carbon-smart solutions company that converts local biomass into biochar for rural community development projects. The company"
 url: "/directory/koros/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
+**Secondary pathways:** BECCS
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Philippines
+**Website:** [https://koros.earth/](https://koros.earth/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~3
+**LinkedIn Followers:** 157
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Koros is a Philippines-based carbon-smart solutions company that converts local biomass into biochar for rural community development projects. The company partners with the University of the Philippines Los Baños (UPLB) and the Provincial Government of Camiguin to deploy biochar gasification for rural energy, community biofertilizer hubs, and biochar-enhanced cement and metallurgical formulations.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://koros.earth/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://koros.earth/ ([source](https://www.cdr.fyi/supplier/koros))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/koros))
+
+[View on LinkedIn](https://www.linkedin.com/company/koros-biochar/)
 
 ---
 

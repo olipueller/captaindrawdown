@@ -2,7 +2,7 @@
 title: "Anglo American"
 layout: "single"
 type: "directory"
-description: "Anglo American is a major global mining company running Project Earthstone in Brazil, which uses magnesium-rich ferronickel slag from its mining operations as f"
+description: "Anglo American is a global mining major that has partnered with Isometric and ZeroEx to issue Enhanced Weathering credits from Project Earthstone in Brazil,"
 url: "/directory/anglo-american/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -11,22 +11,24 @@ liveliness: "🟢 Active"
 **Pathway:** Enhanced Weathering
 **Method:** Enhanced Rock Weathering
 **Country:** United Kingdom
-**Website:** [https://www.angloamerican.com/our-stories/environment/removing-co2-from-the-atmosphere-with-enhanced-rock-weathering](https://www.angloamerican.com/our-stories/environment/removing-co2-from-the-atmosphere-with-enhanced-rock-weathering)
+**Website:** [https://www.angloamerican.com/our-stories/healthy-environment/turning-waste-into-a-climate-solution-with-enhanced-rock-weathering](https://www.angloamerican.com/our-stories/healthy-environment/turning-waste-into-a-climate-solution-with-enhanced-rock-weathering)
 **Status:** 🟢 Active (score: 88/100)
-**Employees:** ~26537 (+4% YoY)
-**LinkedIn Followers:** 1,402,130
+**Employees:** ~26627 (+4% YoY)
+**LinkedIn Followers:** 1,421,454
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Anglo American is a major global mining company running Project Earthstone in Brazil, which uses magnesium-rich ferronickel slag from its mining operations as feedstock for Enhanced Rock Weathering on agricultural land. In September 2025 Anglo American partnered with Isometric (registry) and ZeroEx (MRV) to issue verified Enhanced Weathering credits, with stockpiles estimated to have potential for up to 15 million tonnes of CO2 removal.
+Anglo American is a global mining major that has partnered with Isometric and ZeroEx to issue Enhanced Weathering credits from Project Earthstone in Brazil, which uses mining by-products as feedstock. The project uses smelter slag from its Barro Alto and Codemin ferronickel operations in Goiás state, Brazil, as a magnesium-rich mineral fertiliser on agricultural land. Project Earthstone is located close to agricultural land and already has stockpiles of fast-weathering EW feedstock with the potential to remove up to 15 million tonnes of CO2 from the atmosphere.
 
-![Anglo American website](/screenshots/v1-thumbnails/anglo-american.jpg)
+![Anglo American website](/screenshots/anglo-american/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=division liveliness=🟢 Active ([source](https://www.angloamerican.com/our-stories/healthy-environment/turning-waste-into-a-climate-solution-with-enhanced-rock-weathering))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=division liveliness=🟢 Active ([source](https://isometric.com/writing-articles/isometric-partners-with-anglo-american-and-zeroex-to-issue-high-quality-cdr-credits))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,21 +2,37 @@
 title: "Hemp Carbon Standard"
 layout: "single"
 type: "directory"
-description: "Hemp Carbon Standard — Unknown company in Unknown"
+description: "Hemp Carbon Standard (HCS) is a wholly-owned subsidiary of Calgary-based Hempalta Corp (TSXV:HEMP) that develops ISO 14064-2-certified methodologies for"
 url: "/directory/hemp-carbon-standard/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
+**Secondary pathways:** Biochar, Biomass Burial
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Canada
+**Website:** [https://hempcarbonstandard.org](https://hempcarbonstandard.org)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~1 (-67% YoY)
+**LinkedIn Followers:** 4,075
+**CDR Focus:** division
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Hemp Carbon Standard (HCS) is a wholly-owned subsidiary of Calgary-based Hempalta Corp (TSXV:HEMP) that develops ISO 14064-2-certified methodologies for generating carbon removal credits from industrial hemp cultivation, including regenerative agriculture soil carbon, hemp biochar, hemp biomass burial, and hemp building materials. HCS operates an AI/satellite-based MRV platform and runs verified hemp carbon programs with farms across Canada, the US, UK, Ukraine, Sweden, Germany, and Australia, with 29,448 tonnes verified for the 2024 crop year. The parent company pivoted in 2025 to focus exclusively on the carbon-credit business after winding down its hemp processing operations.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://hempcarbonstandard.org/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://hempcarbonstandard.org ([source](https://www.cdr.fyi/supplier/hemp-carbon-standard))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/hemp-carbon-standard))
+
+[View on LinkedIn](https://www.linkedin.com/company/hemp-carbon-standard/)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Sylvera"
 layout: "single"
 type: "directory"
-description: "UK-based carbon credit ratings agency that uses satellite data, machine learning and field measurements to independently assess the quality of carbon projects o"
+description: "Sylvera is a UK-based carbon credit ratings and data platform that independently assesses carbon project quality using geospatial analytics, machine learning"
 url: "/directory/sylvera/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -12,16 +12,18 @@ liveliness: "🟢 Active"
 **Method:** CDR Platform/Marketplace
 **Country:** United Kingdom
 **Website:** [https://www.sylvera.com/](https://www.sylvera.com/)
-**Status:** 🟢 Active (score: 92/100)
+**Status:** 🟢 Active (score: 95/100)
+**Employees:** ~149 (-3% YoY)
+**LinkedIn Followers:** 44,719
 **Open roles on cdrjobs:** 7
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-UK-based carbon credit ratings agency that uses satellite data, machine learning and field measurements to independently assess the quality of carbon projects on a AAA-D scale. Sylvera serves corporates, investors, developers and governments with ratings, market intelligence and pre-issuance risk assessments across voluntary and compliance-adjacent markets. They are an ecosystem player (ratings/data provider), not a CO2-removal supplier.
+Sylvera is a UK-based carbon credit ratings and data platform that independently assesses carbon project quality using geospatial analytics, machine learning and field data. The company offers geospatial analytics, ratings, market data, and carbon intensity assessments for project developers, corporate buyers, investors, and governments, and in 2026 expanded into carbon-differentiated commodity markets for hydrogen, ammonia and cement.
 
-![Sylvera website](/screenshots/v1-thumbnails/sylvera.jpg)
+![Sylvera website](/screenshots/sylvera/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,8 +31,12 @@ UK-based carbon credit ratings agency that uses satellite data, machine learning
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.sylvera.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.sylvera.com/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/sylveracarbon/)
 
 ---
 

@@ -2,28 +2,36 @@
 title: "EcoFix"
 layout: "single"
 type: "directory"
-description: "EcoFix is a nut processor in Kenya whose agricultural waste is being converted to biochar through a partnership with Terraton Biochar Platform. The EcoFix Kenya"
+description: "EcoFix Kenya Ltd (formerly Eco Fuels Kenya) is a Nanyuki-based social enterprise that processes Croton megalocarpus nuts into biofuel, animal feed, organic"
 url: "/directory/ecofix/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Kenya
-**Status:** 🟢 Active (score: 80/100)
+**Website:** [https://www.efk.co.ke/](https://www.efk.co.ke/)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~16 (-6% YoY)
+**LinkedIn Followers:** 2,157
 **CDR Focus:** supplier
 **Evidence signals:** last_evidence_url
 
 ## About
 
-EcoFix is a nut processor in Kenya whose agricultural waste is being converted to biochar through a partnership with Terraton Biochar Platform. The "EcoFix Kenya Biochar" facility is listed as a future supplier on Puro.earth and is under review by Isometric, and is expected (together with a Ghana cocoa project) to deliver over 20,000 tonnes of annual CO₂ removal. The biochar project carries the EcoFix name and the host is the operational site for CDR.
+EcoFix Kenya Ltd (formerly Eco Fuels Kenya) is a Nanyuki-based social enterprise that processes Croton megalocarpus nuts into biofuel, animal feed, organic fertilizer, and cosmetics. Through a partnership with Terraton (a full-stack biochar platform that closed an $11.5M seed round in August 2025 from Lowercarbon Capital and Gigascale Capital), EcoFix's nut-processing residues are being converted to biochar at a locally owned facility branded "EcoFix Kenya Biochar," which is under review with Isometric and, together with Terraton's Ghana cocoa project, is expected to remove over 20,000 tonnes of CO₂ annually.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://esgpost.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-emerging-markets/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.efk.co.ke/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/ecofix-kenya-biochar-176))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/eco-fuels-kenya/)
 
 ---
 

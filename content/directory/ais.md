@@ -2,17 +2,17 @@
 title: "AiS"
 layout: "single"
 type: "directory"
-description: "AiS (Arbeit in Selbsthilfe gGmbH) is a German non-profit inclusion enterprise based in Bodelshausen that primarily provides employment to people with disabiliti"
+description: "AiS (Arbeit in Selbsthilfe gGmbH) is a German non-profit inclusion enterprise based in Mössingen/Bodelshausen that employs people with and without disabilities"
 url: "/directory/ais/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
-**Website:** [https://arbeit-in-selbsthilfe.de/pyrolyse-und-heizzentrale/](https://arbeit-in-selbsthilfe.de/pyrolyse-und-heizzentrale/)
-**Status:** 🟡 Moderate (score: 65/100)
+**Website:** [https://arbeit-in-selbsthilfe.de/](https://arbeit-in-selbsthilfe.de/)
+**Status:** 🟢 Active (score: 75/100)
 **Employees:** ~6 (-25% YoY)
 **LinkedIn Followers:** 7
 **CDR Focus:** supplier
@@ -20,13 +20,17 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-AiS (Arbeit in Selbsthilfe gGmbH) is a German non-profit inclusion enterprise based in Bodelshausen that primarily provides employment to people with disabilities across multiple work areas (agriculture, gastronomy, retail, landscaping). As part of its Kastanienhof site it operates a heating center with a pyrolysis plant that produces biochar within a regional circular-economy concept, though biochar is a side activity rather than its core mission.
+AiS (Arbeit in Selbsthilfe gGmbH) is a German non-profit inclusion enterprise based in Mössingen/Bodelshausen that employs people with and without disabilities across agriculture, gastronomy, retail, gardening and a manufactory. In May 2025 it commissioned a pyrolysis and heating plant at its Kastanienhof site, operated as a "Reallabor" together with the University of Tübingen, which converts orchard prunings and forestry residues into biochar while supplying heat to the farm's local heat network.
 
-![AiS website](/screenshots/v1-thumbnails/ais.jpg)
+![AiS website](/screenshots/ais/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://arbeit-in-selbsthilfe.de/pyrolyse-und-heizzentrale/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://arbeit-in-selbsthilfe.de/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://arbeit-in-selbsthilfe.de/pyrolyse-und-heizzentrale/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://arbeit-in-selbsthilfe.de/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

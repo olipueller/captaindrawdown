@@ -2,21 +2,34 @@
 title: "Circle Carbon"
 layout: "single"
 type: "directory"
-description: "Circle Carbon — Unknown company in Unknown"
+description: "Circle Carbon Labs is a Mallorca, Spain-based social enterprise producing biochar from organic waste and applying it on-site to regenerate soil and grow"
 url: "/directory/circle-carbon/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Spain
+**Website:** [https://circlecarbon.com/](https://circlecarbon.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~1 (0% YoY)
+**LinkedIn Followers:** 262
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Circle Carbon Labs is a Mallorca, Spain-based social enterprise producing biochar from organic waste and applying it on-site to regenerate soil and grow organic produce. The company has pivoted toward education, farm tours, and R&D alongside biochar and compost production.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://circlecarbon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/circle-carbon))
+
+[View on LinkedIn](https://www.linkedin.com/company/circlecarbon/)
 
 ---
 

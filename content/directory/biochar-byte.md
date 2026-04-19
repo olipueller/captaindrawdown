@@ -2,7 +2,7 @@
 title: "Biochar Byte"
 layout: "single"
 type: "directory"
-description: "Biochar Byte is an unfunded company based in Pune, India, founded in 2024 by Udaykumar Mathapati and Vinayak Patil, operating as a provider of industrial-scale"
+description: "Biochar Byte (Biochar Byte AgTech Pvt Ltd) is an early-stage Indian startup based in Pune, incorporated September 2024 by Udaykumar Mathapati and Vinayak"
 url: "/directory/biochar-byte/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -14,19 +14,21 @@ liveliness: "🟡 Moderate"
 **Website:** [https://biocharbyte.com/](https://biocharbyte.com/)
 **Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 295
+**LinkedIn Followers:** 309
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Biochar Byte is an unfunded company based in Pune, India, founded in 2024 by Udaykumar Mathapati and Vinayak Patil, operating as a provider of industrial-scale biochar production and carbon credit generation. The startup transforms agricultural biomass into carbon-rich material through pyrolysis, integrating geospatial imaging and technology-driven logistics to collect crop residues and prevent open-field burning.
+Biochar Byte (Biochar Byte AgTech Pvt Ltd) is an early-stage Indian startup based in Pune, incorporated September 2024 by Udaykumar Mathapati and Vinayak Patil. It produces biochar at industrial scale by pyrolyzing agricultural residues collected from smallholder farmers, with the goal of preventing open-field burning and generating carbon credits. The company is unfunded with only two employees.
 
-![Biochar Byte website](/screenshots/v1-thumbnails/biochar-byte.jpg)
+![Biochar Byte website](/screenshots/biochar-byte/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biocharbyte.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biocharbyte.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

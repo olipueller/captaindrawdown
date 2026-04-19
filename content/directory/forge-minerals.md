@@ -2,7 +2,7 @@
 title: "Forge Minerals"
 layout: "single"
 type: "directory"
-description: "Forge Minerals was founded in 2024 in Edinburgh to turn waste CO2 into high-quality mineral products that can directly replace carbon-intensive materials used a"
+description: "Forge Minerals is an Edinburgh-based startup founded in 2024 that converts waste CO2 into high-purity carbonate minerals, initially magnesium carbonate, using"
 url: "/directory/forge-minerals/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -12,21 +12,28 @@ liveliness: "🟢 Active"
 **Method:** Mineralization (Other)
 **Country:** United Kingdom
 **Website:** [https://forgeminerals.com/](https://forgeminerals.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~4
-**LinkedIn Followers:** 325
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~5 (+67% YoY)
+**LinkedIn Followers:** 612
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Forge Minerals was founded in 2024 in Edinburgh to turn waste CO2 into high-quality mineral products that can directly replace carbon-intensive materials used across industry, focusing on displacement of carbon-intensive materials with substantially lower embedded emissions. At the heart of their technology is a low-energy reactor that permanently stores CO2 by converting it into valuable mineral products, displacing emissions in downstream industries such as pharmaceuticals, construction, and chemicals. The company recently opened its first laboratory at the Edinburgh Innovation Hub and is using pre-seed funding to support lab and pilot-scale trials toward initial commercial deployment.
+Forge Minerals is an Edinburgh-based startup founded in 2024 that converts waste CO2 into high-purity carbonate minerals, initially magnesium carbonate, using a low-energy reactor process. The resulting products target existing markets (flame retardants, pharmaceuticals, supplements) while permanently locking CO2 into stable mineral form. The company closed a £1M pre-seed round in early 2026 and opened its first lab at the Edinburgh Innovation Hub, collaborating with the University of Edinburgh's Applied Geosciences Lab.
 
-![Forge Minerals website](/screenshots/v1-thumbnails/forge-minerals.jpg)
+![Forge Minerals website](/screenshots/forge-minerals/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Forge Minerals Limited
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Mineralization focus=review_needed liveliness=🟢 Active ([source](https://forgeminerals.com))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/forge-minerals))
+- **** — merged duplicate: Forge Minerals Limited (slug=forge-minerals-limited)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://forgeminerals.com))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://forgeminerals.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,26 +2,32 @@
 title: "Terra Char"
 layout: "single"
 type: "directory"
-description: "Terra Char (trademark of BioEnergy Innovations Global, Inc., based in Columbia, Missouri) has marketed biochar products since 2009/2013 across the U.S. Midwest"
+description: "Terra Char is a brand of BioEnergy Innovations Global, Inc., a Columbia, Missouri biochar producer that has marketed biochar since 2009. The company sells"
 url: "/directory/terra-char/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
-**Country:** Unknown
-**Status:** 🟢 Active (score: 80/100)
+**Country:** United States
+**Website:** [https://www.terra-char.com/](https://www.terra-char.com/)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** news_mention
 
 ## About
 
-Terra Char (trademark of BioEnergy Innovations Global, Inc., based in Columbia, Missouri) has marketed biochar products since 2009/2013 across the U.S. Midwest for soil amendment and carbon sink projects. The company sells biochar in retail buckets, totes, and bulk loads, and its founder Phil Blom recently joined Sustainable Green Team's Restore.Earth platform as a strategic ambassador for biochar verification.
+Terra Char is a brand of BioEnergy Innovations Global, Inc., a Columbia, Missouri biochar producer that has marketed biochar since 2009. The company sells biochar in buckets, super totes, and bulk semi-loads for soil amendment, carbon sink projects, and related applications, and collaborates with the University of Missouri on biochar research.
+
+![Terra Char website](/screenshots/terra-char/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.terra-char.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.terra-char.com/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.globenewswire.com/news-release/2026/04/13/3272495/0/en/Sustainable-Green-Team-Ltd-OTC-SGTM-Welcomes-Phil-Blom-Founder-of-Terra-Char-as-Strategic-Ambassador-for-Soil-and-Biochar-Verification.html))
 

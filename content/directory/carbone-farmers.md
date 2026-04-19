@@ -2,21 +2,36 @@
 title: "Carbone Farmers"
 layout: "single"
 type: "directory"
-description: "Carbone Farmers — Unknown company in Unknown"
+description: "Carbone Farmers is a French project developer founded in 2021 that helps farmers and agricultural cooperatives transition to regenerative, low-carbon"
 url: "/directory/carbone-farmers/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
+**Secondary pathways:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** France
+**Website:** [https://www.carbonefarmers.com/](https://www.carbonefarmers.com/)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~36 (+50% YoY)
+**LinkedIn Followers:** 6,234
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Carbone Farmers is a French project developer founded in 2021 that helps farmers and agricultural cooperatives transition to regenerative, low-carbon practices, generating soil carbon credits certified under the French Label Bas Carbone. The company works with cooperatives and agri-food businesses across France, covering over 1,000 farms, and also operates FarmGate Metrics/Credits platforms for MRV and scope 3 reporting.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.carbonefarmers.com/accueil/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonefarmers.com/ ([source](https://www.cdr.fyi/supplier/carbone-farmers))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbone-farmers))
+
+[View on LinkedIn](https://www.linkedin.com/company/carbone-farmers/)
 
 ---
 

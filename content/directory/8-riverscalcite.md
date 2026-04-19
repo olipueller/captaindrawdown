@@ -2,27 +2,27 @@
 title: "8 Rivers/Calcite"
 layout: "single"
 type: "directory"
-description: "8 Rivers Capital is a Durham, NC-based decarbonization technology developer whose Calcite process is a calcium-looping direct air capture technology anchoring t"
+description: "8 Rivers Capital is a Durham, North Carolina-based decarbonization technology developer whose Calcite process is a calcium-looping direct air capture"
 url: "/directory/8-riverscalcite/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
-**Website:** [https://8rivers.com/portfolio/calcite/](https://8rivers.com/portfolio/calcite/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~60 (-36% YoY)
-**LinkedIn Followers:** 10,931
+**Website:** [https://8rivers.com/](https://8rivers.com/)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~59 (-35% YoY)
+**LinkedIn Followers:** 10,981
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_cdrjobsearth
 
 ## About
 
-8 Rivers Capital is a Durham, NC-based decarbonization technology developer whose Calcite process is a calcium-looping direct air capture technology anchoring the DOE-funded Southeast DAC (SEDAC) Hub in Mobile County, Alabama. Project Cardinal, the first commercial Calcite deployment, is planned for the US Gulf Coast with FEED commencing in 2025 (Wood was awarded the FEED in March 2025), backed by a September 2024 investment from JX Nippon (now ENEOS Xplora). The company is majority-owned by SK Group.
+8 Rivers Capital is a Durham, North Carolina-based decarbonization technology developer whose Calcite process is a calcium-looping direct air capture technology anchoring the DOE-funded Southeast DAC (SEDAC) Hub in Mobile County, Alabama. Project Cardinal, the first commercial Calcite deployment planned for the U.S. Gulf Coast, began FEED in 2025 backed by a September 2024 investment from JX Nippon Oil Exploration. Calcite is also a Phase I XPRIZE Carbon Removal winner and received initial Frontier pre-purchases.
 
-![8 Rivers/Calcite website](/screenshots/v1-thumbnails/8-rivers-calcite.jpg)
+![8 Rivers/Calcite website](/screenshots/8-riverscalcite/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -30,6 +30,21 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-04-19** — merged 2 duplicate(s): 8 Rivers, 8 Rivers Capital, LLC
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/8-rivers-and-siemens-energy-partner-on-development-program-of-carbon-capture-power-generation/))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/8-rivers-capital))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/))
+- **2026-04-19** — discovered via: cdrjobs ([source](https://www.cdrjobs.earth/job-board))
+- **** — merged duplicate: 8 Rivers Capital, LLC (slug=8-rivers-capital-llc)
+- **** — merged duplicate: 8 Rivers (slug=8-rivers)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://8rivers.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/portfolio/calcite/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/portfolio/calcite/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/portfolio/calcite/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/portfolio/calcite/))

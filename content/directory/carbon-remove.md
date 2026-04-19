@@ -2,7 +2,7 @@
 title: "Carbon Remove"
 layout: "single"
 type: "directory"
-description: "Carbon Remove is a small Brazilian biochar producer based in Anhembi, São Paulo state, founded and led by Thomas Britze. The company produces biochar from bioma"
+description: "Carbon Remove (Carbon Remove - Biochar Solutions) is a small Brazilian biochar company based in Anhembi, São Paulo, founded and led by Thomas Britze. The"
 url: "/directory/carbon-remove/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,21 +12,25 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Brazil
 **Website:** [https://www.carbonremove.com.br/en](https://www.carbonremove.com.br/en)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3 (-40% YoY)
-**LinkedIn Followers:** 454
+**Status:** 🟡 Moderate (score: 50/100)
+**Employees:** ~3
+**LinkedIn Followers:** 473
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Remove is a small Brazilian biochar producer based in Anhembi, São Paulo state, founded and led by Thomas Britze. The company produces biochar from biomass via pyrolysis to generate carbon removal credits while providing soil fertility benefits for Brazilian agriculture.
+Carbon Remove (Carbon Remove - Biochar Solutions) is a small Brazilian biochar company based in Anhembi, São Paulo, founded and led by Thomas Britze. The company produces biochar from residual biomass via pyrolysis for use as a soil amendment and to generate carbon removal credits under established biochar methodologies.
 
 ![Carbon Remove website](/screenshots/v1-thumbnails/carbon-remove.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonremove.com.br/en))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.carbonremove.com.br/post/biochar-a-transformative-tool-for-reforestation-and-sustainable-soil-management))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonremove.com.br/en))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonremove.com.br/en))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

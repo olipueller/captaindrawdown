@@ -2,20 +2,20 @@
 title: "Carbonfuture"
 layout: "single"
 type: "directory"
-description: "Carbonfuture is the Trust Infrastructure for durable carbon removal, centered on Carbonfuture MRV+, a fully integrated, end-to-end solution for monitoring, repo"
+description: "Carbonfuture operates a digital Trust Infrastructure for durable carbon removal, combining its MRV+ dMRV platform with a marketplace that connects buyers to"
 url: "/directory/carbonfuture/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Enabling Tech
-**Secondary pathways:** Biochar
+**Secondary pathways:** Biochar, BECCS, DAC, Biomass Burial
 **Method:** Biochar
-**Country:** Germany
+**Country:** Switzerland
 **Website:** [https://www.carbonfuture.earth/](https://www.carbonfuture.earth/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~62 (+15% YoY)
-**LinkedIn Followers:** 28,365
+**Status:** 🟢 Active (score: 95/100)
+**Employees:** ~63 (+11% YoY)
+**LinkedIn Followers:** 29,216
 **Open roles on cdrjobs:** 2
 **CDI Portfolio Company**
 **CDR Focus:** ecosystem
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbonfuture is the Trust Infrastructure for durable carbon removal, centered on Carbonfuture MRV+, a fully integrated, end-to-end solution for monitoring, reporting, and verification of carbon removal projects. They operate as a marketplace/broker rather than a physical remover, aggregating supply from biochar, BECCS, DACCS, and mineralization projects across five continents. Clients include Microsoft, Swiss Re, Boeing, and the WEF First Movers Coalition.
+Carbonfuture operates a digital Trust Infrastructure for durable carbon removal, combining its MRV+ dMRV platform with a marketplace that connects buyers to biochar, BECCS, DACCS, and TSB suppliers. It does not physically remove CO2 itself; instead it tracks, verifies, and transacts credits from third-party projects. The company closed a Series A2 in late 2025 and facilitated the Microsoft–Exomad Green megatonne biochar deal.
 
 ![Carbonfuture website](/screenshots/v1-thumbnails/carbonfuture.jpg)
 
@@ -33,6 +33,8 @@ Carbonfuture is the Trust Infrastructure for durable carbon removal, centered on
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonfuture.com/2025-year-end-announcement))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonfuture.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://www.carbon-drawdown.de/))
 

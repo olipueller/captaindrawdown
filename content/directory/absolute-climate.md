@@ -2,27 +2,30 @@
 title: "Absolute Climate"
 layout: "single"
 type: "directory"
-description: "Absolute Climate designs independent quality-assurance standards for CDR that certify whether a project's claims match their atmospheric impacts, with a univers"
+description: "Absolute Climate is an independent quality-assurance standards provider for carbon dioxide removal, developing the Absolute Carbon Standard (ACS) — a"
 url: "/directory/absolute-climate/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Enabling Tech
 **Method:** Enabling Tech
-**Country:** Unknown
+**Country:** United States
 **Website:** [https://absoluteclimate.org](https://absoluteclimate.org)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** ecosystem
 **Evidence signals:** news_mention, llm_web_search
 
 ## About
 
-Absolute Climate designs independent quality-assurance standards for CDR that certify whether a project's claims match their atmospheric impacts, with a universal approach where every removal project is evaluated the same way across all pathways. The company separates quality assurance from credit issuance — it builds standards but does not operate its own registry. It partners with registries (e.g., Evident/C-Capsule) and financial infrastructure providers (Northern Trust) and certifies projects such as Cowboy Clean Fuels and Vesta.
+Absolute Climate is an independent quality-assurance standards provider for carbon dioxide removal, developing the Absolute Carbon Standard (ACS) — a universal, pathway-agnostic framework for certifying CDR credits. The company deliberately separates standard-setting from credit issuance and partners with registries (e.g. Evident's C-Capsule, Northern Trust Carbon Ecosystem) rather than operating its own. Headquartered in San Francisco and founded by Peter Minor, Greg Becker, and Friedel Pretorius.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://absoluteclimate.org))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.absoluteclimate.com/))
 - **2026-04-18** — discovered via: news_feed, web_search_ai ([source](https://carbonherald.com/cowboy-clean-fuels-absolute-climate-and-evident-team-up-for-high-integrity-cdr/))
 

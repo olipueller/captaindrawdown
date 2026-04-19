@@ -2,10 +2,10 @@
 title: "ecoLocked"
 layout: "single"
 type: "directory"
-description: "Berlin-based startup ecoLocked, founded in 2021, is among the few global producers of concrete admixtures utilizing biochar for carbon removal, focusing on eco-"
+description: "Berlin-based startup ecoLocked, founded in 2021, is among the few global producers of concrete admixtures utilizing biochar for carbon removal, providing the"
 url: "/directory/ecolocked/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
@@ -13,21 +13,25 @@ liveliness: "🟢 Active"
 **Method:** BiCRS (Other)
 **Country:** Germany
 **Website:** [https://www.ecolocked.com/](https://www.ecolocked.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~27 (-7% YoY)
-**LinkedIn Followers:** 6,501
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~24 (-23% YoY)
+**LinkedIn Followers:** 6,915
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Berlin-based startup ecoLocked, founded in 2021, is among the few global producers of concrete admixtures utilizing biochar for carbon removal, focusing on eco-friendly building materials. Its flagship product, eLM Zero, is a carbon-negative admixture designed to reduce concrete's net carbon footprint by up to 100%. The company raised €4 million in a seed round led by Matterwave Ventures and Climentum Capital, with proceeds used to expand production, introduce new product lines and grow demand.
+Berlin-based startup ecoLocked, founded in 2021, is among the few global producers of concrete admixtures utilizing biochar for carbon removal, providing the construction industry with eco-friendly building materials. Its flagship product eLM Zero is a biochar-based admix that can reduce concrete's net CO2 footprint by up to 100%, and the company sells third-party-verified carbon removal certificates alongside its materials. In 2024 the company closed a €4M seed funding round and works with industry partners across Germany and the Netherlands.
 
 ![ecoLocked website](/screenshots/v1-thumbnails/ecolocked.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ecolocked.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ecolocked.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ecolocked.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

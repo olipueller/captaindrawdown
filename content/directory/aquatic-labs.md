@@ -2,21 +2,38 @@
 title: "Aquatic Labs"
 layout: "single"
 type: "directory"
-description: "Aquatic Labs — Unknown company in Unknown"
+description: "Aquatic Labs is a Cambridge, Massachusetts-based ocean sensing startup founded in 2022 by MIT physicist Allan Adams. The company builds solid-state sensors"
 url: "/directory/aquatic-labs/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Ocean CDR
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://www.aquatic-labs.com/](https://www.aquatic-labs.com/)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~17 (+13% YoY)
+**LinkedIn Followers:** 1,449
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Aquatic Labs is a Cambridge, Massachusetts-based ocean sensing startup founded in 2022 by MIT physicist Allan Adams. The company builds solid-state sensors that measure pH, total alkalinity, conductivity and temperature for ocean carbon-system monitoring, along with eDNA sampling tools, targeting MRV for ocean CDR, coastal monitoring, and industrial water applications. They are an MRV/enabling-tech provider rather than a direct CO2 remover.
+
+![Aquatic Labs website](/screenshots/aquatic-labs/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.aquatic-labs.com/cdr))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.aquatic-labs.com/ ([source](https://www.cdr.fyi/supplier/aquatic-labs))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/aquatic-labs))
+
+[View on LinkedIn](https://www.linkedin.com/company/aquatic-labs/)
 
 ---
 

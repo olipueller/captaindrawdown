@@ -2,10 +2,10 @@
 title: "LightNET Carbon Capture"
 layout: "single"
 type: "directory"
-description: "LightNET Carbon Capture (LNCC) is a Barcelona-based spin-off of ICN2 and CSIC that develops accelerated ex-situ CO2 mineralization technologies, turning CO2 int"
+description: "LightNET Carbon Capture (LNCC) is a Barcelona-based ICN2/CSIC spin-off commercializing accelerated ex-situ CO2 mineralization technologies for point-source and"
 url: "/directory/lightnet-carbon-capture/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Mineralization
@@ -13,21 +13,24 @@ liveliness: "🟢 Active"
 **Method:** Mineralization (Other)
 **Country:** Spain
 **Website:** [https://www.lightnetcc.com/en](https://www.lightnetcc.com/en)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~4
-**LinkedIn Followers:** 41
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~3
+**LinkedIn Followers:** 53
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-LightNET Carbon Capture (LNCC) is a Barcelona-based spin-off of ICN2 and CSIC that develops accelerated ex-situ CO2 mineralization technologies, turning CO2 into carbonates within coatings (CO2atings®) and advanced ceramics (CO2rallites®) using earth-abundant oxides/hydroxides and industrial waste. The company has run pilots with SACYR on construction sites, published a peer-reviewed paper in APL Energy (2025), was a finalist at the SteelTech Awards 2025, and had CSIC formalize shareholder participation in November 2025.
+LightNET Carbon Capture (LNCC) is a Barcelona-based ICN2/CSIC spin-off commercializing accelerated ex-situ CO2 mineralization technologies for point-source and DAC applications. Pilots include a CO2atings® mortar test with SACYR on a Barcelona construction site and the Esco2rias project with CELSA Group to mineralize CO2 in steelmaking slags. In November 2025 CSIC formally joined as a shareholder, and the company was a SteelTech Awards 2025 startup finalist.
 
-![LightNET Carbon Capture website](/screenshots/v1-thumbnails/lightnet-carbon-capture.jpg)
+![LightNET Carbon Capture website](/screenshots/lightnet-carbon-capture/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.lightnetcc.com/en))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

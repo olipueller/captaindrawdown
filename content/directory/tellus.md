@@ -2,7 +2,7 @@
 title: "Tellus"
 layout: "single"
 type: "directory"
-description: "Tellus Biocarbon is a Brazilian climate-tech company that works with local producers to transform biomass waste into biochar, marketed as a soil-improving, carb"
+description: "Tellus Biocarbon is a Brazilian climate-tech company that converts agricultural biomass residues into biochar, a carbon-negative soil amendment. It partners"
 url: "/directory/tellus/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -18,13 +18,20 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Tellus Biocarbon is a Brazilian climate-tech company that works with local producers to transform biomass waste into biochar, marketed as a soil-improving, carbon-removing product. They are listed as a CDR30 member and their biochar is reportedly certified under international CDR standards.
+Tellus Biocarbon is a Brazilian climate-tech company that converts agricultural biomass residues into biochar, a carbon-negative soil amendment. It partners with local producers to source feedstock and is listed as a member of the CDR30 industry group.
 
-![Tellus website](/screenshots/v1-thumbnails/tellus.jpg)
+![Tellus website](/screenshots/tellus/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Tellus Biocarbon
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://tellusbiocarbon.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://tellusbiocarbon.com/ ([source](https://www.cdr.fyi/supplier/tellus))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/tellus))
+- **** — merged duplicate: Tellus Biocarbon (slug=tellus-biocarbon)
+- **2026-04-19** — refresh: screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://cdr30.org/member/tellus/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://tellusbiocarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

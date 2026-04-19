@@ -2,7 +2,7 @@
 title: "Terradot"
 layout: "single"
 type: "directory"
-description: "Terradot is a U.S.-headquartered Enhanced Rock Weathering carbon removal supplier founded in 2022 at Stanford, with large-scale basalt deployments across 5,000+"
+description: "Terradot is a U.S.-headquartered Enhanced Rock Weathering carbon removal supplier founded in 2022 at Stanford University, operating basalt deployments across"
 url: "/directory/terradot/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -13,21 +13,27 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://terradot.earth/](https://terradot.earth/)
 **Status:** 🟢 Active (score: 95/100)
+**Employees:** ~93 (+107% YoY)
+**LinkedIn Followers:** 8,514
 **CDI Portfolio Company**
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Terradot is a U.S.-headquartered Enhanced Rock Weathering carbon removal supplier founded in 2022 at Stanford, with large-scale basalt deployments across 5,000+ hectares of Brazilian farmland. The company has raised $58.2M, holds major offtake contracts with Google (200,000 tonnes), Frontier, and Microsoft, and in February 2026 acquired Eion's assets to form one of the largest contracted ERW portfolios globally (~400,000 tonnes).
+Terradot is a U.S.-headquartered Enhanced Rock Weathering carbon removal supplier founded in 2022 at Stanford University, operating basalt deployments across thousands of hectares of Brazilian farmland. The company has raised $58.2M in Series A funding and holds major offtake agreements with Google (200,000 tonnes), Frontier ($33M/~78,707 tonnes), and Microsoft (12,000 tonnes). In February 2026 Terradot acquired Eion's assets, bringing its contracted portfolio above 400,000 tonnes and adding olivine-based U.S. deployments.
 
-![Terradot website](/screenshots/v1-thumbnails/terradot.jpg)
+![Terradot website](/screenshots/terradot/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260206062937/en/Terradot-Acquires-Eion-to-Form-Leading-Global-Enhanced-Rock-Weathering-Carbon-Removal-Platform))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260206062937/en/Terradot-Acquires-Eion-to-Form-Leading-Global-Enhanced-Rock-Weathering-Carbon-Removal-Platform))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/terradot/)
 
 ---
 

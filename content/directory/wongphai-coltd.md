@@ -2,20 +2,29 @@
 title: "Wongphai Co.,Ltd"
 layout: "single"
 type: "directory"
-description: "Wongphai Co.,Ltd — Unknown company in Unknown"
+description: "Wongphai Co., Ltd. is a Thailand-based community-driven biochar producer founded in 2019 that converts bamboo offcuts into biochar via pyrolysis in Prachin"
 url: "/directory/wongphai-coltd/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Thailand
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Wongphai Co., Ltd. is a Thailand-based community-driven biochar producer founded in 2019 that converts bamboo offcuts into biochar via pyrolysis in Prachin Buri and Ratchaburi. The project partners with Planboo for MRV and credit brokerage, and has cumulatively removed over 6,000 tonnes of CO2, targeting ~32,000 tCO2e over 5 years. It received a Sylvera AA–BBB estimated rating in September 2025.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/project/wongphai-biochar-project/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/wongphai))
 
 ---

@@ -2,10 +2,10 @@
 title: "Skyology"
 layout: "single"
 type: "directory"
-description: "Skyology is a UK-based ocean carbon dioxide removal developer pursuing ocean alkalinity enhancement (OAE) via a renewable-energy, wave-powered reactor that acce"
+description: "Skyology is an early-stage ocean CDR developer pursuing ocean alkalinity enhancement (OAE) via a proprietary \"georeactor\" that converts mining waste and"
 url: "/directory/skyology/"
 pathway: "Ocean CDR"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Ocean CDR
@@ -13,14 +13,14 @@ liveliness: "🟠 Suspect"
 **Method:** Direct Air Capture
 **Country:** United Kingdom
 **Website:** [https://skyology.co.uk/](https://skyology.co.uk/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Status:** 🟢 Active (score: 100/100)
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Skyology is a UK-based ocean carbon dioxide removal developer pursuing ocean alkalinity enhancement (OAE) via a renewable-energy, wave-powered reactor that accelerates natural mineral weathering. The company is frequently listed among early OAE players but appears to be very early stage with minimal disclosed funding (~$63K per PitchBook) and limited recent public activity.
+Skyology is an early-stage ocean CDR developer pursuing ocean alkalinity enhancement (OAE) via a proprietary "georeactor" that converts mining waste and atmospheric CO2 into a mild, dispersible form of ocean alkalinity, intended to draw down CO2 and counter ocean acidification. The company has disclosed only minimal funding (~$63K per PitchBook) and has very limited recent public signal beyond a handful of third-party listings; its operational status is unclear.
 
 ## Registry Memberships
 
@@ -28,6 +28,9 @@ Skyology is a UK-based ocean carbon dioxide removal developer pursuing ocean alk
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.ecomagazine.com/news/opportunity/ocean-career-skyology-project-scientist-biogeochemistry))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://skyology.co.uk/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.skyology.io/))
 - **2026-04-18** — backfilled from V1
 

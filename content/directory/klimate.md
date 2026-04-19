@@ -2,26 +2,29 @@
 title: "Klimate"
 layout: "single"
 type: "directory"
-description: "Klimate.co is a Copenhagen-based company founded in 2020 that specializes in carbon asset management, with a platform that enables businesses to secure high-qua"
+description: "Klimate is a Copenhagen-based carbon asset management platform founded in 2020 that curates vetted carbon removal portfolios (biochar, BECCS, forestry, etc.)"
 url: "/directory/klimate/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Enabling Tech
+**Secondary pathways:** Biochar, BECCS, Afforestation
 **Method:** CDR Platform/Marketplace
 **Country:** Denmark
 **Website:** [https://www.klimate.co/](https://www.klimate.co/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~29 (-9% YoY)
+**LinkedIn Followers:** 13,442
 **Open roles on cdrjobs:** 4
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Klimate.co is a Copenhagen-based company founded in 2020 that specializes in carbon asset management, with a platform that enables businesses to secure high-quality carbon removal solutions. Klimate buys the removal of CO2 from the atmosphere on behalf of its clients through different removal projects and combines them into portfolios, with options for custom portfolios. They are a broker/marketplace rather than a technology developer, making them part of the CDR ecosystem.
+Klimate is a Copenhagen-based carbon asset management platform founded in 2020 that curates vetted carbon removal portfolios (biochar, BECCS, forestry, etc.) for corporate clients. It is a broker/platform connecting buyers to CDR suppliers, not a physical remover itself. The company raised a €3.5M seed round in 2023 and continues to publish project work and partnerships through 2025.
 
-![Klimate website](/screenshots/v1-thumbnails/klimate.jpg)
+![Klimate website](/screenshots/klimate/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,8 +32,12 @@ Klimate.co is a Copenhagen-based company founded in 2020 that specializes in car
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.klimate.co))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.klimate.co))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/klimate-co/)
 
 ---
 

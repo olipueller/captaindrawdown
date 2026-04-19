@@ -2,7 +2,7 @@
 title: "Biochar Life"
 layout: "single"
 type: "directory"
-description: "Biochar Life is a Delaware Public Benefit Corporation and impact venture of nonprofit Warm Heart Worldwide that trains smallholder farmers in Thailand and Afric"
+description: "Biochar Life is a Delaware Public Benefit Corporation and impact venture of nonprofit Warm Heart Worldwide, operating primarily in Thailand with programs in"
 url: "/directory/biochar-life/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,20 +13,24 @@ liveliness: "🟢 Active"
 **Country:** Thailand
 **Website:** [https://biochar.life/](https://biochar.life/)
 **Status:** 🟢 Active (score: 85/100)
-**Employees:** ~19 (-5% YoY)
-**LinkedIn Followers:** 4,503
+**Employees:** ~18 (-14% YoY)
+**LinkedIn Followers:** 4,663
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Biochar Life is a Delaware Public Benefit Corporation and impact venture of nonprofit Warm Heart Worldwide that trains smallholder farmers in Thailand and Africa to convert crop waste into biochar using low-tech kilns (including the new Aom Kiln). The company issues carbon-sink credits under the Global Artisan C-Sink / EBC Tropical Farmer standard and has generated over 21,000 tonnes of verified carbon removals since founding.
+Biochar Life is a Delaware Public Benefit Corporation and impact venture of nonprofit Warm Heart Worldwide, operating primarily in Thailand with programs in Kenya, Malawi, Tanzania and Indonesia. It trains smallholder farmers to convert crop waste into biochar using low-tech kilns, certifies the carbon removed via the EBC/Global Artisan C-Sink standard, and sells c-sink credits through partners like Carbonfuture. By March 2025 it had paid over US$1 million to smallholder farmers and generated 21,000+ tonnes of verified carbon removals.
 
-![Biochar Life website](/screenshots/v1-thumbnails/biochar-life.jpg)
+![Biochar Life website](/screenshots/biochar-life/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.life/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.life/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.life/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

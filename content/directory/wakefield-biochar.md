@@ -2,7 +2,7 @@
 title: "Wakefield BioChar"
 layout: "single"
 type: "directory"
-description: "Wakefield BioChar is a US family-owned biochar producer founded in 2014, headquartered in Valdosta, Georgia. It converts low-value woody biomass and paper mill"
+description: "Wakefield BioChar (Wakefield Agricultural Carbon LLC) is a US family-owned biochar producer founded in 2014, headquartered in Valdosta, Georgia. It operates"
 url: "/directory/wakefield-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,13 +13,15 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://wakefieldbiochar.com/](https://wakefieldbiochar.com/)
 **Status:** 🟢 Active (score: 90/100)
+**Employees:** ~23 (+44% YoY)
+**LinkedIn Followers:** 1,629
 **Open roles on cdrjobs:** 2
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_puro, registry_cdrjobsearth
 
 ## About
 
-Wakefield BioChar is a US family-owned biochar producer founded in 2014, headquartered in Valdosta, Georgia. It converts low-value woody biomass and paper mill waste into biochar soil conditioners sold through retail channels and for agriculture, sequestering carbon while improving soil health.
+Wakefield BioChar (Wakefield Agricultural Carbon LLC) is a US family-owned biochar producer founded in 2014, headquartered in Valdosta, Georgia. It operates four pyrolysis facilities across Georgia (Brunswick, Fitzgerald, Valdosta, and the Wakefield Innovation Center) that convert woody residues from paper/pulp/saw mills into biochar sold for agriculture, retail gardening, and industrial use, with CO2 removal credits registered on Puro.earth.
 
 ![Wakefield BioChar website](/screenshots/v1-thumbnails/wakefield-biochar.jpg)
 
@@ -30,8 +32,12 @@ Wakefield BioChar is a US family-owned biochar producer founded in 2014, headqua
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://wakefieldbiochar.com/our-story/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://wakefieldbiochar.com/our-story/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/wakefieldbiochar/)
 
 ---
 

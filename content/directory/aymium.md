@@ -2,7 +2,7 @@
 title: "Aymium"
 layout: "single"
 type: "directory"
-description: "Aymium is a U.S.-based biocarbon producer operating multiple facilities in North America, headquartered in Minnesota. In December 2025 it announced a joint vent"
+description: "Aymium is a U.S. biocarbon producer headquartered in Minnesota that operates multiple North American facilities and holds 600+ patents on biomass-to-biocarbon"
 url: "/directory/aymium/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,21 +13,23 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://aymium.com/](https://aymium.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~29 (+7% YoY)
-**LinkedIn Followers:** 1,003
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~29 (+4% YoY)
+**LinkedIn Followers:** 1,032
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Aymium is a U.S.-based biocarbon producer operating multiple facilities in North America, headquartered in Minnesota. In December 2025 it announced a joint venture (TerraForge Biocarbon Solutions) with Weyerhaeuser to scale metallurgical-grade biocarbon production to 1.5M tons/year, with the first McComb, Mississippi facility targeted for 2027. The company has raised ~$200M+ from investors including Steel Dynamics, Rio Tinto, Nippon Steel Trading, CIP, and Fortress.
+Aymium is a U.S. biocarbon producer headquartered in Minnesota that operates multiple North American facilities and holds 600+ patents on biomass-to-biocarbon conversion. In December 2025, it formed TerraForge Biocarbon Solutions, a joint venture with Weyerhaeuser, to build a ~$100M plant in Magnolia, Mississippi (online 2027) and scale toward 1.5M tons/year of metallurgical-grade biocarbon that replaces coal and coke in iron, steel, silicon and ferro-alloy production.
 
 ![Aymium website](/screenshots/v1-thumbnails/aymium.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://investor.weyerhaeuser.com/2025-12-11-Weyerhaeuser-and-Aymium-Enter-Agreement-to-Rapidly-Scale-Biocarbon-Market))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://investor.weyerhaeuser.com/2025-12-11-Weyerhaeuser-and-Aymium-Enter-Agreement-to-Rapidly-Scale-Biocarbon-Market))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

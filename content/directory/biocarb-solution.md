@@ -2,7 +2,7 @@
 title: "BioCarb Solution"
 layout: "single"
 type: "directory"
-description: "BioCarb Solution is a Danish biogenic CO2 aggregator based in Hirtshals that collects CO2 from biogas plants, waste incinerators and biomass-fired district heat"
+description: "BioCarb Solution is a Danish BECCS service provider that aggregates biogenic CO2 from Danish biogas plants, arranges transport (via Greenport Scandinavia /"
 url: "/directory/biocarb-solution/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -13,21 +13,25 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** Denmark
 **Website:** [https://biocarb.dk/](https://biocarb.dk/)
-**Status:** 🟢 Active (score: 72/100)
+**Status:** 🟢 Active (score: 80/100)
 **Employees:** ~5 (-17% YoY)
-**LinkedIn Followers:** 467
+**LinkedIn Followers:** 477
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-BioCarb Solution is a Danish biogenic CO2 aggregator based in Hirtshals that collects CO2 from biogas plants, waste incinerators and biomass-fired district heating, and arranges permanent underground storage in depleted North Sea oil fields via Project Greensand. The company sells Puro.earth-certified CDR credits and is owned by a consortium of Danish biogas investors (Agri Energi, GrønGas, Sindal Biogas, Vrejlev Bioenergi, Bioman) under Danish Bio Commodities.
+BioCarb Solution is a Danish BECCS service provider that aggregates biogenic CO2 from Danish biogas plants, arranges transport (via Greenport Scandinavia / Port of Hirtshals), and delivers it to INEOS' Project Greensand for permanent offshore geological storage in the North Sea, with Puro.earth certification. The company was acquired in October 2024 by Danish Bio Commodities (DBC), which has since consolidated biogas, engineering and substrate operations around it. It also plans to produce biochar from biogas residues starting in 2026.
 
 ![BioCarb Solution website](/screenshots/v1-thumbnails/biocarb-solution.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocarb.dk/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biocarb.dk/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocarb.dk/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocarb.dk/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,20 +2,32 @@
 title: "ZEROCertified"
 layout: "single"
 type: "directory"
-description: "ZEROCertified — Unknown company in Unknown"
+description: "ZEROCertified was a Netherlands-based voluntary carbon market consultancy and methodology developer that helped project developers enter and scale in the VCM,"
 url: "/directory/zerocertified/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Netherlands
+**Website:** [https://zerocertified.com/](https://zerocertified.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+ZEROCertified was a Netherlands-based voluntary carbon market consultancy and methodology developer that helped project developers enter and scale in the VCM, including carbon-negative/removal projects (e.g. partnership with STERCORE on bio-based carbon). It provided services spanning project assessment, methodology development, certification, financing via pre-purchase agreements, and credit trading. In 2024/2025 the founders announced they are stepping back from ZEROCertified and redirecting their focus elsewhere.
+
+![ZEROCertified website](/screenshots/zerocertified/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🔴 Likely Dead ([source](https://zerocertified.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/zerocertified))
 
 ---

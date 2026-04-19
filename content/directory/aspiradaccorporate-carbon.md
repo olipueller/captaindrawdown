@@ -2,7 +2,7 @@
 title: "AspiraDAC/Corporate Carbon"
 layout: "single"
 type: "directory"
-description: "AspiraDAC is a wholly owned subsidiary of Corporate Carbon Group developing Australia's first solar-powered Direct Air Capture project in partnership with South"
+description: "AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Australia's first solar-powered Direct Air Capture project in partnership with"
 url: "/directory/aspiradaccorporate-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,21 +12,29 @@ liveliness: "🟢 Active"
 **Method:** DAC (Solid Sorbent)
 **Country:** Australia
 **Website:** [https://www.aspiradac.com/](https://www.aspiradac.com/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~5 (+67% YoY)
-**LinkedIn Followers:** 395
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~5 (+25% YoY)
+**LinkedIn Followers:** 418
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-AspiraDAC is a wholly owned subsidiary of Corporate Carbon Group developing Australia's first solar-powered Direct Air Capture project in partnership with Southern Green Gas and the University of Sydney. The company was selected in Frontier's first round of purchases, with Stripe buying CO₂ removal via the Frontier AMC (backed by Alphabet, Meta, Shopify and McKinsey). In 2025 it signed an MoU with Great Carbon Valley in Kenya to deploy modules aiming for 5,000 t CO₂/yr.
+AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Australia's first solar-powered Direct Air Capture project in partnership with Southern Green Gas. It was selected in Frontier's first 2022 purchase round (Stripe offtake at ~$1,000/tonne for 500 tonnes by 2027) and in 2025 signed an MoU with Great Carbon Valley in Kenya to scale to 5,000 tCO2/year, and appointed a new CTO.
 
-![AspiraDAC/Corporate Carbon website](/screenshots/v1-thumbnails/aspiradac-corporate-carbon.jpg)
+![AspiraDAC/Corporate Carbon website](/screenshots/aspiradaccorporate-carbon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): AspiraDAC
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.aspiradac.com/news))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.aspiradac.com/ ([source](https://www.cdr.fyi/supplier/aspiradac))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/aspiradac))
+- **** — merged duplicate: AspiraDAC (slug=aspiradac)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.aspiradac.com/news))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.aspiradac.com/news))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

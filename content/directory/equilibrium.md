@@ -2,7 +2,7 @@
 title: "Equilibrium"
 layout: "single"
 type: "directory"
-description: "Equilibrium (operating entity Climeverse Pvt. Ltd.) is an India-based full-stack carbon removal project developer running biochar, agroforestry, regenerative ag"
+description: "Equilibrium is a full-stack carbon project developer with investments from Kalaari Capital, Peak XV Partners, and Avaana Capital, running agroforestry,"
 url: "/directory/equilibrium/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,15 +14,15 @@ liveliness: "🟢 Active"
 **Country:** India
 **Website:** [https://equilibriumearth.com/](https://equilibriumearth.com/)
 **Status:** 🟢 Active (score: 90/100)
-**Employees:** ~72 (+454% YoY)
-**LinkedIn Followers:** 6,964
+**Employees:** ~82 (+531% YoY)
+**LinkedIn Followers:** 7,773
 **Open roles on cdrjobs:** 12
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_isometric, registry_cdrjobsearth
 
 ## About
 
-Equilibrium (operating entity Climeverse Pvt. Ltd.) is an India-based full-stack carbon removal project developer running biochar, agroforestry, regenerative agriculture, and mangrove restoration projects across nine Indian states. It operates a Puro.earth-listed biochar facility (Mundargi/Murudagiri) that pyro-gasifies invasive Prosopis juliflora and corn cobs, and raised $3M seed funding in September 2025 from Kalaari Capital, Peak XV Partners, and Avaana Capital.
+Equilibrium is a full-stack carbon project developer with investments from Kalaari Capital, Peak XV Partners, and Avaana Capital, running agroforestry, regenerative agriculture, mangrove restoration, and biochar projects. The operating entity is Climeverse Pvt. Ltd. (operating as Equilibrium), based in Bangalore, and its Murudagiri Biochar Facility transforms invasive Prosopis juliflora and corn cob residues into biochar using pyro-gasification. Funds raised will expand eight ongoing projects across nine Indian states, covering 120,000 hectares and involving more than 150,000 smallholder farmers.
 
 ![Equilibrium website](/screenshots/v1-thumbnails/equilibrium.jpg)
 
@@ -33,6 +33,8 @@ Equilibrium (operating entity Climeverse Pvt. Ltd.) is an India-based full-stack
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://equilibriumearth.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://equilibriumearth.com/projects))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,21 +2,38 @@
 title: "The Green Branch"
 layout: "single"
 type: "directory"
-description: "The Green Branch — Unknown company in Unknown"
+description: "The Green Branch is an Amsterdam-based carbon asset developer founded in 2019 that creates nature-based solutions projects for the voluntary carbon market."
 url: "/directory/the-green-branch/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Netherlands
+**Website:** [https://www.thegreenbranch.nl/](https://www.thegreenbranch.nl/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~16 (0% YoY)
+**LinkedIn Followers:** 5,964
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+The Green Branch is an Amsterdam-based carbon asset developer founded in 2019 that creates nature-based solutions projects for the voluntary carbon market. They develop and manage reforestation, restoration, and sustainable land-management projects primarily in Brazil (including co-developing "Trees for Farmers" with Rabobank) and Tanzania, acting as project proponent through VCS/CCB certification.
+
+![The Green Branch website](/screenshots/the-green-branch/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.thegreenbranch.nl/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.thegreenbranch.nl/ ([source](https://www.cdr.fyi/supplier/the-green-branch))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/the-green-branch))
+
+[View on LinkedIn](https://www.linkedin.com/company/the-green-branch/)
 
 ---
 

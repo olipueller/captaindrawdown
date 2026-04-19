@@ -2,7 +2,7 @@
 title: "Öresundskraft"
 layout: "single"
 type: "directory"
-description: "Öresundskraft is a Swedish municipally owned energy utility developing a first-of-its-kind CCS facility at its Filbornaverket waste-fired CHP plant in Helsingbo"
+description: "Öresundskraft is Sweden's first municipally owned energy company to secure an investment decision for a CCS project, a first-of-its-kind Swedish initiative"
 url: "/directory/öresundskraft/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -11,14 +11,16 @@ liveliness: "🟢 Active"
 **Pathway:** BECCS
 **Method:** BECCS
 **Country:** Sweden
-**Website:** [https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/)
-**Status:** 🟢 Active (score: 92/100)
+**Website:** [https://www.oresundskraft.se/](https://www.oresundskraft.se/)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~428 (+9% YoY)
+**LinkedIn Followers:** 11,144
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
 
 ## About
 
-Öresundskraft is a Swedish municipally owned energy utility developing a first-of-its-kind CCS facility at its Filbornaverket waste-fired CHP plant in Helsingborg, expected to cost approximately SEK 3 billion and capture 200,000 tonnes of CO2 annually. The biogenic fraction of the captured waste-derived CO2 is stored permanently to generate bio-CCS negative emissions. The company has already signed agreements for future purchase of negative emissions certificates with buyers including Wihlborgs and Helsingborgshem.
+Öresundskraft is Sweden's first municipally owned energy company to secure an investment decision for a CCS project, a first-of-its-kind Swedish initiative applying CCS technology to a waste-fired CHP facility at Filbornaverket in Helsingborg. The roughly SEK 3 billion facility will capture 200,000 tonnes of CO2 annually and is targeted to be operational by 2028. The project is backed by 228 million SEK from the Swedish Energy Agency plus approximately 600 million SEK from the EU Innovation Fund, and roughly half of the captured CO₂ is biogenic, producing BECCS removals.
 
 ![Öresundskraft website](/screenshots/v1-thumbnails/resundskraft.jpg)
 
@@ -28,8 +30,19 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Öresundskraft AB
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/oresundskraft))
+- **** — merged duplicate: Öresundskraft AB (slug=öresundskraft-ab)
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/oresundskraft-ab/)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Flux"
 layout: "single"
 type: "directory"
-description: "Flux is a Nairobi-based climate startup that has sold Africa's first carbon dioxide removal credits based on the practice of using crushed basalt to absorb CO2,"
+description: "Flux is a Nairobi-based CDR supplier scaling enhanced rock weathering across Africa by spreading crushed basalt on farmland in Kenya, with expansion plans in"
 url: "/directory/flux/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -13,21 +13,29 @@ liveliness: "🟢 Active"
 **Country:** Kenya
 **Website:** [https://www.fluxcarbon.earth/](https://www.fluxcarbon.earth/)
 **Status:** 🟢 Active (score: 85/100)
-**Employees:** ~14 (+27% YoY)
-**LinkedIn Followers:** 3,452
+**Employees:** ~11 (+10% YoY)
+**LinkedIn Followers:** 3,483
 **CDI Portfolio Company**
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Flux is a Nairobi-based climate startup that has sold Africa's first carbon dioxide removal credits based on the practice of using crushed basalt to absorb CO2, pre-selling credits for 540 tons of CO2 removal via enhanced rock weathering. Flux is working to unlock the potential of ERW across Africa, aiming to sequester hundreds of millions of tonnes of CO2 while improving soils and yields for millions of farmers across the continent. The company has also signed on to work with African Food Security on a 205,000-hectare maize farming project in Cameroon.
+Flux is a Nairobi-based CDR supplier scaling enhanced rock weathering across Africa by spreading crushed basalt on farmland in Kenya, with expansion plans in Nigeria and Cameroon. The company sells carbon removal credits while providing farmers free rock-powder fertilizer that has shown substantial maize yield improvements in pilot trials.
 
-![Flux website](/screenshots/v1-thumbnails/flux.jpg)
+![Flux website](/screenshots/flux/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Flux Carbon
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.fluxcarbon.earth/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.fluxcarbon.earth/ ([source](https://www.cdr.fyi/supplier/flux-carbon))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/flux-carbon))
+- **** — merged duplicate: Flux Carbon (slug=flux-carbon)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.fluxcarbon.earth/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.fluxcarbon.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,10 +2,10 @@
 title: "Carbonified"
 layout: "single"
 type: "directory"
-description: "Carbonified is a Canadian company providing high-integrity carbon solutions aimed at reversing climate change with measurable impact. They focus on biochar, reg"
+description: "Carbonified is a small Canadian carbon project developer focused on biochar, regenerative agriculture, and afforestation/reforestation/restoration (ARR). It is"
 url: "/directory/carbonified/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
@@ -13,7 +13,7 @@ liveliness: "🟠 Suspect"
 **Method:** Biochar
 **Country:** Canada
 **Website:** [https://www.carbonified.ca/](https://www.carbonified.ca/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Status:** 🟡 Moderate (score: 45/100)
 **Employees:** ~3 (0% YoY)
 **LinkedIn Followers:** 53
 **CDR Focus:** supplier
@@ -21,13 +21,17 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-Carbonified is a Canadian company providing high-integrity carbon solutions aimed at reversing climate change with measurable impact. They focus on biochar, regenerative agriculture, and ARR as scalable carbon sequestration solutions. They are a small (~3 employees) project developer listed in Carbon Removal Canada's directory.
+Carbonified is a small Canadian carbon project developer focused on biochar, regenerative agriculture, and afforestation/reforestation/restoration (ARR). It is listed in Carbon Removal Canada's Carbon Console supplier directory but has minimal public footprint, ~3 employees, and no registry issuances to date.
 
 ![Carbonified website](/screenshots/v1-thumbnails/carbonified.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonified.ca/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.carbonified.ca/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.carbonified.ca/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.carbonified.ca/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

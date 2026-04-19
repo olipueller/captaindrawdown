@@ -2,10 +2,10 @@
 title: "Aeon Blue"
 layout: "single"
 type: "directory"
-description: "Aeon Blue is a Cape Breton (Sydney, Nova Scotia) startup developing sustainable eFuel production by harnessing wind energy and seawater, integrating hydrogen pr"
+description: "Aeon Blue is a Cape Breton, Nova Scotia startup (founded 2018) developing an integrated saltwater electrolyzer that produces green hydrogen and captures"
 url: "/directory/aeon-blue/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
@@ -13,14 +13,14 @@ liveliness: "🟡 Moderate"
 **Method:** DAC (Liquid Solvent)
 **Country:** Canada
 **Website:** [https://www.aeonbluetechnologies.com/](https://www.aeonbluetechnologies.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 72/100)
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Aeon Blue is a Cape Breton (Sydney, Nova Scotia) startup developing sustainable eFuel production by harnessing wind energy and seawater, integrating hydrogen production with carbon capture technology using atmospheric CO2. The company's saltwater electrolyzer produces synthetic fuel that can replace gasoline or diesel while capturing CO2 and storing it underground, with some configurations capturing up to six times as much CO2 as the eFuel emits when burned. The company has only three employees and is raising a bridge round before a planned $10M seed round to build a pilot reactor.
+Aeon Blue is a Cape Breton, Nova Scotia startup (founded 2018) developing an integrated saltwater electrolyzer that produces green hydrogen and captures atmospheric CO2 simultaneously, yielding carbon-negative eFuels (gasoline, diesel, SAF) with surplus CO2 stored underground. The company sells Geologically Stored Carbon (GSC) credits, has passed preliminary assessments with Puro.earth, and plans a commercial Cape Breton facility for 2027 targeting ~6,800 tonnes of net CO2 removal annually.
 
 ## Registry Memberships
 
@@ -28,6 +28,7 @@ Aeon Blue is a Cape Breton (Sydney, Nova Scotia) startup developing sustainable 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.aeonbluetechnologies.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.aeonbluetechnologies.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

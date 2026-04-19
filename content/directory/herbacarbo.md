@@ -2,7 +2,7 @@
 title: "HerbaCarbo"
 layout: "single"
 type: "directory"
-description: "HerbaCarbo GbR is a production company of biochar-based products located in Andernach, Germany, with products sold under the HerbaCarbo brand. They produce EBC-"
+description: "HerbaCarbo GbR is a production company of biochar-based products located in Andernach, Germany, with products sold under the HerbaCarbo brand name. The firm"
 url: "/directory/herbacarbo/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -18,13 +18,17 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-HerbaCarbo GbR is a production company of biochar-based products located in Andernach, Germany, with products sold under the HerbaCarbo brand. They produce EBC-certified biochar from biomass including herbal pomace and woodchips via pyrolysis at 500–700°C, marketed for Terra Preta soil applications and as a feed additive. The company is a small, family-run GbR that has been operating since ~2015.
+HerbaCarbo GbR is a production company of biochar-based products located in Andernach, Germany, with products sold under the HerbaCarbo brand name. The firm sells premium plant biochar and feed biochar directly from the producer, with EBC-certified quality. The company is organized as a small GbR run by Timo Ferdinand and Andreas Scherer and also operates a related Beteiligungsgesellschaft UG registered at the same Andernach address.
 
 ![HerbaCarbo website](/screenshots/v1-thumbnails/herbacarbo.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.herbacarbo.com/))
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.herbacarbo.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.herbacarbo.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.herbacarbo.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,22 +2,37 @@
 title: "Rubicon Carbon"
 layout: "single"
 type: "directory"
-description: "Rubicon Carbon — Afforestation company in Unknown"
+description: "Rubicon Carbon is a US-based carbon credit management and investment platform backed by TPG Rise Climate Fund, headquartered in Marina del Rey, California. The"
 url: "/directory/rubicon-carbon/"
-pathway: "Afforestation"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation, Biochar, DAC, Enhanced Weathering
 **Method:** Afforestation
-**Country:** Unknown
-**Website:** [https://job-boards.greenhouse.io/rubiconcarbon/jobs/4676390005](https://job-boards.greenhouse.io/rubiconcarbon/jobs/4676390005)
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://rubiconcarbon.com/](https://rubiconcarbon.com/)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~46 (+18% YoY)
+**LinkedIn Followers:** 12,926
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrjobs, hiring, cdrfyi_listing, marketplace
+
+## About
+
+Rubicon Carbon is a US-based carbon credit management and investment platform backed by TPG Rise Climate Fund, headquartered in Marina del Rey, California. The company curates risk-adjusted carbon credit portfolios (Rubicon Carbon Tonne, Rubicon Rated Tonne) combining avoidance and removal credits for corporate buyers, and signs multi-year offtake agreements with CDR developers such as Terradot (enhanced weathering), Bio-Logical (biochar), and Deep Sky (DAC). It is a financier/aggregator in the CDR ecosystem rather than a physical removal operator.
+
+![Rubicon Carbon website](/screenshots/rubicon-carbon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://rubiconcarbon.com/))
 - **2026-04-19** — discovered via: cdrjobs, cdrfyi ([source](https://www.cdrjobs.earth/job-board))
+
+[View on LinkedIn](https://www.linkedin.com/company/rubicon-carbon/)
 
 ---
 

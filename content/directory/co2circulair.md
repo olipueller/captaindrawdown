@@ -2,7 +2,7 @@
 title: "CO2CirculAir"
 layout: "single"
 type: "directory"
-description: "CO2CirculAir is a Dutch R&D and innovation start-up formed by a group of membrane technology experts developing a direct air capture system. Funded under the UK"
+description: "CO2CirculAir is a Dutch start-up based in Arnhem developing SMART-DAC, a passive wind-driven direct air capture technology using membrane gas absorption (with"
 url: "/directory/co2circulair/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,13 +18,17 @@ liveliness: "🟢 Active"
 
 ## About
 
-CO2CirculAir is a Dutch R&D and innovation start-up formed by a group of membrane technology experts developing a direct air capture system. Funded under the UK DESNZ Greenhouse Gas Removal Programme, SMART-DAC is a passive wind-driven DAC system using a two-step process with KOH-based absorption and membrane electrolysis/electrodialysis regeneration. The pilot first captured CO2 in September 2023 and operated at over 80% uptime through April 2025.
+CO2CirculAir is a Dutch start-up based in Arnhem developing SMART-DAC, a passive wind-driven direct air capture technology using membrane gas absorption (with a KOH absorbent) and electrodialysis-based regeneration. The company led a UK consortium (with Heriot-Watt, Net Zero Technology Centre, PDC, Optimus and B9 Energy) funded through BEIS/DESNZ GGR Phase 1 and Phase 2, building and operating a ~100 tpa pilot plant in Larne, Northern Ireland through 2024–2025. A Phase 2 final public report covering testing through April 2025 was published, and the company and its pilot remain active.
 
-![CO2CirculAir website](/screenshots/v1-thumbnails/co2circulair.jpg)
+![CO2CirculAir website](/screenshots/co2circulair/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.co2circulair.com/))
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.youtube.com/watch?v=6b-PhP6LXEE))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.co2circulair.com/how-smart-dac-works.html))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.co2circulair.com/how-smart-dac-works.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

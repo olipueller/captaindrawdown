@@ -2,7 +2,7 @@
 title: "Econew"
 layout: "single"
 type: "directory"
-description: "Econew is a Brazilian clean bioenergy company based in northern Minas Gerais that produces biochar via continuous pyrolysis of FSC®/PEFC-certified eucalyptus re"
+description: "Econew is a Brazilian clean bioenergy company located in northern Minas Gerais that produces biochar through continuous pyrolysis of FSC®/PEFC-certified"
 url: "/directory/econew/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,22 +11,24 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Brazil
-**Website:** [https://econew.net/en/biochar-2/](https://econew.net/en/biochar-2/)
+**Website:** [https://econew.net](https://econew.net)
 **Status:** 🟢 Active (score: 80/100)
-**Employees:** ~27 (+8% YoY)
-**LinkedIn Followers:** 1,177
+**Employees:** ~30 (+20% YoY)
+**LinkedIn Followers:** 1,222
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Econew is a Brazilian clean bioenergy company based in northern Minas Gerais that produces biochar via continuous pyrolysis of FSC®/PEFC-certified eucalyptus residues. Their continuous pyrolysis process converts FSC®/PEFC-certified eucalyptus residues into biochar with a high fixed-carbon content, with each ton of confirmed CO₂ removal corresponding to one carbon credit available in the voluntary market. They align with Puro.earth standards for permanent carbon removal credits.
+Econew is a Brazilian clean bioenergy company located in northern Minas Gerais that produces biochar through continuous pyrolysis of FSC®/PEFC-certified eucalyptus residues. Each ton of verified CO₂ removal is issued as a carbon credit on the voluntary market. The company installed what it describes as Brazil's largest biochar production reactor in late 2024.
 
 ![Econew website](/screenshots/v1-thumbnails/econew.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://econew.net/en/carbon-credits/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://econew.net/en/carbon-credits/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

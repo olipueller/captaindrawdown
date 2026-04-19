@@ -2,21 +2,36 @@
 title: "Oncra"
 layout: "single"
 type: "directory"
-description: "Oncra — Unknown company in Unknown"
+description: "Oncra (Open Natural Carbon Removal Accounting) is a carbon-removal certification framework developed by the Netherlands-based Climate Cleanup Foundation. It"
 url: "/directory/oncra/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation, Enhanced Weathering, Ocean CDR
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Netherlands
+**Website:** [https://oncra.org](https://oncra.org)
+**Status:** 🟢 Active (score: 75/100)
+**Employees:** ~2 (+100% YoY)
+**LinkedIn Followers:** 746
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Oncra (Open Natural Carbon Removal Accounting) is a carbon-removal certification framework developed by the Netherlands-based Climate Cleanup Foundation. It quantifies, verifies, and certifies nature-based CDR projects across land, oceans, rocks, and constructions, issuing measurement-based removal credits that are sold via the affiliated Onsets.org platform.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://oncra.org/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://oncra.org ([source](https://www.cdr.fyi/marketplace/oncra))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/oncra))
+
+[View on LinkedIn](https://www.linkedin.com/company/oncra/)
 
 ---
 

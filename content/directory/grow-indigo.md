@@ -2,21 +2,37 @@
 title: "Grow Indigo"
 layout: "single"
 type: "directory"
-description: "Grow Indigo — Unknown company in Unknown"
+description: "Grow Indigo is a Mumbai-based joint venture of Mahyco and Indigo Ag, founded in 2018, that develops agricultural carbon projects with smallholder farmers"
 url: "/directory/grow-indigo/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
+**Secondary pathways:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** India
+**Website:** [https://www.growindigo.co.in/](https://www.growindigo.co.in/)
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~368 (+16% YoY)
+**LinkedIn Followers:** 20,598
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Grow Indigo is a Mumbai-based joint venture of Mahyco and Indigo Ag, founded in 2018, that develops agricultural carbon projects with smallholder farmers across India. It enrolls farmers in regenerative practices (direct-seeded rice, no-till, biological inputs, biochar, irrigation management) and generates soil carbon credits under Verra's VM0042 methodology, with its Aadi project (VCS 2590) receiving first issuance in January 2026 covering ~30,000 acres across Punjab and Haryana.
+
+![Grow Indigo website](/screenshots/grow-indigo/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.growindigo.co.in/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/grow-indigo))
+
+[View on LinkedIn](https://www.linkedin.com/company/grow-indigo-pvt-ltd/)
 
 ---
 

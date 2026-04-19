@@ -2,29 +2,35 @@
 title: "Next Wave Carbon Removals"
 layout: "single"
 type: "directory"
-description: "Next Wave Carbon Removal is a US-based (Des Moines, Iowa) biochar producer combining ARTi Biochar's pyrolysis technology with Maxsum Environmental's investment"
+description: "Next Wave Carbon Removal is a US-based (Des Moines, Iowa) biochar producer that combines ARTi Biochar's pyrolysis technology with Maxsum Environmental's"
 url: "/directory/next-wave-carbon-removals/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://nextwavecr.com/](https://nextwavecr.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2 (0% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Next Wave Carbon Removal is a US-based (Des Moines, Iowa) biochar producer combining ARTi Biochar's pyrolysis technology with Maxsum Environmental's investment backing. The company aims to be a vertically integrated biochar-to-carbon-credit operation, starting in the US and expanding into Latin America.
+Next Wave Carbon Removal is a US-based (Des Moines, Iowa) biochar producer that combines ARTi Biochar's pyrolysis technology with Maxsum Environmental's investment backing. The company produces biochar from local waste wood and operates as a vertically integrated biochar-to-carbon-credit business, with plans to expand from the US into Latin America.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://nextwavecr.com/shop/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nextwavecr.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nextwavecr.com/our-product-biochar/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/next-wave-cr/)
 
 ---
 

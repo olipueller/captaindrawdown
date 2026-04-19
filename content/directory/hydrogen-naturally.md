@@ -2,31 +2,35 @@
 title: "Hydrogen Naturally"
 layout: "single"
 type: "directory"
-description: "Hydrogen Naturally (H2N) is a Canadian startup developing Bright Green Hydrogen facilities that gasify forestry residuals to co-produce hydrogen and pure CO2"
+description: "Hydrogen Naturally (H2N) is a Canadian startup founded by Brian Fehr and Ian MacGregor that plans to build BECCS hubs across North America, gasifying forestry"
 url: "/directory/hydrogen-naturally/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** BECCS
 **Method:** BECCS
 **Country:** Canada
 **Website:** [https://www.h2naturally.com/](https://www.h2naturally.com/)
-**Status:** 🟡 Moderate (score: 60/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 597
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~2
+**LinkedIn Followers:** 602
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Hydrogen Naturally (H2N) is a Canadian startup developing "Bright Green Hydrogen" facilities that gasify forestry residuals to co-produce hydrogen and pure CO2 for permanent underground storage. It is backed by founding partners Peak Renewables and North West Capital, and is planning hubs in Alberta's Industrial Heartland and British Columbia. In April 2025 it received a $3M grant from Emissions Reduction Alberta to advance its negative-emission hydrogen project.
+Hydrogen Naturally (H2N) is a Canadian startup founded by Brian Fehr and Ian MacGregor that plans to build BECCS hubs across North America, gasifying forestry residuals to produce carbon-negative hydrogen while permanently sequestering the biogenic CO2 underground. The company is backed by Peak Renewables and North West Capital Partners, and in April 2025 received $3M from Emissions Reduction Alberta for a Front-End Engineering Design study for its first hydrogen production unit in Alberta's Industrial Heartland.
 
 ![Hydrogen Naturally website](/screenshots/v1-thumbnails/hydrogen-naturally.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.h2naturally.com))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.h2naturally.com/home-2))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.eralberta.ca/media-releases/turning-forestry-waste-into-industrial-fuel/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.h2naturally.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

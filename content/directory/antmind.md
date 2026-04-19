@@ -2,10 +2,10 @@
 title: "AntMind"
 layout: "single"
 type: "directory"
-description: "AntMind is a Canadian startup developing a biomass gasification platform that converts wood waste into hydrogen fuel while capturing CO2 for sequestration and p"
+description: "AntMind is a Canadian startup developing a biomass gasification platform that converts forestry wood waste into hydrogen fuel while capturing CO2 for"
 url: "/directory/antmind/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** BECCS
@@ -13,21 +13,24 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Canada
 **Website:** [https://www.antmind.io/](https://www.antmind.io/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 30
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~2 (+100% YoY)
+**LinkedIn Followers:** 31
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-AntMind is a Canadian startup developing a biomass gasification platform that converts wood waste into hydrogen fuel while capturing CO2 for sequestration and producing biochar as a stable carbon byproduct. The company is currently in a funding phase and designing a pilot facility to process waste from a single sawmill.
+AntMind is a Canadian startup developing a biomass gasification platform that converts forestry wood waste into hydrogen fuel while capturing CO2 for sequestration and producing biochar as a stable carbon byproduct. The company is currently designing a pilot facility to process waste from a single sawmill, targeting roughly 20 tons of hydrogen per day, and its business model spans technology licensing, modular plant construction, and on-site compute operations.
 
-![AntMind website](/screenshots/v1-thumbnails/antmind.jpg)
+![AntMind website](/screenshots/antmind/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.ibtimes.com/antmind-its-scalable-approach-carbon-negative-energy-forestry-waste-3788373))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.antmind.io/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.antmind.io/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,31 +2,34 @@
 title: "C-Crete"
 layout: "single"
 type: "directory"
-description: "C-Crete Technologies is a California-based materials science company commercializing Portland-cement-free concrete in which pulverized natural rocks like granit"
+description: "C-Crete Technologies has developed an \"activated rock\" production process in which abundant, locally sourced, non-carbonate rocks are pulverized and used as a"
 url: "/directory/c-crete/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Mineralization
 **Method:** Mineralization (Other)
 **Country:** United States
 **Website:** [https://ccretetech.com/](https://ccretetech.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~5 (-17% YoY)
-**LinkedIn Followers:** 2,704
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~5
+**LinkedIn Followers:** 2,711
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-C-Crete Technologies is a California-based materials science company commercializing Portland-cement-free concrete in which pulverized natural rocks like granite, basalt and zeolite replace cement. Their binder emits no CO2 during manufacturing and the cured concrete absorbs CO2 from the air over time, resulting in a carbon-negative building material. The company has poured thousands of tonnes across commercial, government and residential projects and received over $10M in grants from the US DOE and California Energy Commission.
+C-Crete Technologies has developed an "activated rock" production process in which abundant, locally sourced, non-carbonate rocks are pulverized and used as a binder, doing away with Portland cement entirely, and already holds 10 patents related to the process. By February 2025 the company had surpassed 3,000 tonnes of near-zero-emissions Portland-cement-free concrete poured across commercial, government, and residential projects. Customers include JPMorgan Chase's 270 Park Avenue HQ, San Francisco International Airport, MnDOT's I-94, Costco, and data-center pilots.
 
-![C-Crete website](/screenshots/v1-thumbnails/c-crete.jpg)
+![C-Crete website](/screenshots/c-crete/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://ccretetech.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://ccretetech.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

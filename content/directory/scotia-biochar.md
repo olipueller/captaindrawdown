@@ -2,29 +2,33 @@
 title: "Scotia BioChar"
 layout: "single"
 type: "directory"
-description: "Scotia BioChar Inc. is a Nova Scotia-based company aiming to produce biochar from waste wood biomass (including fallen trees from Hurricane Fiona) using pyrolys"
+description: "Scotia BioChar Inc. is headquartered in Bedford, Nova Scotia, Canada and aims to become a producer of high-quality biochar from waste wood biomass found in"
 url: "/directory/scotia-biochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Canada
 **Website:** [https://ca.linkedin.com/company/scotia-biochar-inc](https://ca.linkedin.com/company/scotia-biochar-inc)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟠 Suspect (score: 35/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Scotia BioChar Inc. is a Nova Scotia-based company aiming to produce biochar from waste wood biomass (including fallen trees from Hurricane Fiona) using pyrolysis technology. In October 2024 they signed a master services agreement with BluSky Carbon to deploy a Vulcan pyrolysis system in Eastern Canada, with biochar intended for mine reclamation, soil amendment, concrete, and water treatment applications.
+Scotia BioChar Inc. is headquartered in Bedford, Nova Scotia, Canada and aims to become a producer of high-quality biochar from waste wood biomass found in central Nova Scotia, including trees blown down during Hurricane Fiona. In October 2024 it signed a master services agreement with BluSky Carbon Inc. to procure pyrolysis equipment and consulting services, with biochar intended for mine reclamation, site remediation, agriculture, asphalt/concrete, and water treatment. Co-founder Liz MacKenzie had secured $3.6 million in government and private capital funding for Scotia projects as of that announcement.
 
 ![Scotia BioChar website](/screenshots/v1-thumbnails/scotia-biochar.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://bluskycarbon.com/blusky-carbon-signs-master-services-agreement-with-scotia-biochar/))
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.bioenergy-news.com/news/blusky-carbon-secures-biochar-agreement-with-scotia-biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://bluskycarbon.com/blusky-carbon-signs-master-services-agreement-with-scotia-biochar/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluskycarbon.com/blusky-carbon-signs-master-services-agreement-with-scotia-biochar/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

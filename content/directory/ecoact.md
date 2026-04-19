@@ -2,31 +2,43 @@
 title: "EcoAct"
 layout: "single"
 type: "directory"
-description: "EcoAct is an international climate and sustainability consultancy and carbon project developer, founded in France in 2006, acquired by Atos in 2020 and then by"
+description: "EcoAct, founded in France in 2006, was an international climate consultancy and carbon project developer acquired by Atos in 2020 and by Schneider Electric in"
 url: "/directory/ecoact/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 **Pathway:** Afforestation
+**Secondary pathways:** Enabling Tech
 **Method:** BiCRS (Other)
-**Country:** United Kingdom
+**Country:** France
 **Website:** [https://eco-act.com/](https://eco-act.com/)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~138 (-23% YoY)
-**LinkedIn Followers:** 32,946
+**Status:** 🔴 Likely Dead (score: 15/100)
+**Employees:** ~131 (-25% YoY)
+**LinkedIn Followers:** 33,009
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-EcoAct is an international climate and sustainability consultancy and carbon project developer, founded in France in 2006, acquired by Atos in 2020 and then by Schneider Electric in 2023. As of 2025 it has been rebranded as SE Advisory Services, Schneider Electric's global consulting branch, focused on net-zero strategy, carbon accounting, reporting, and nature-based carbon project development (e.g., mangrove restoration, reforestation). They are a consultancy/project-developer in the CDR ecosystem rather than a removal technology supplier.
+EcoAct, founded in France in 2006, was an international climate consultancy and carbon project developer acquired by Atos in 2020 and by Schneider Electric in November 2023. As of October/November 2025 the EcoAct brand was officially retired and absorbed into SE Advisory Services, Schneider Electric's new flagship global consulting brand covering sustainability, energy, and digitalization. The underlying team continues to offer net-zero strategy, carbon accounting, and carbon credit/nature-based project advisory under the new brand.
 
 ![EcoAct website](/screenshots/v1-thumbnails/ecoact.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): EcoAct SAS
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://eco-act.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://eco-act.com/ ([source](https://www.cdr.fyi/marketplace/eco-act))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/eco-act))
+- **** — merged duplicate: EcoAct SAS (slug=ecoact-sas)
+- **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🔴 Likely Dead ([source](https://eco-act.com/blog/introducing-se-advisory-services/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://edscleanenergysustainabilityjobs.com/eds-clean-energy-sustainability-jobs-list-12-08-24/))
+- **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://eco-act.com/blog/introducing-se-advisory-services/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://eco-act.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

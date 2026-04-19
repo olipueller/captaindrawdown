@@ -2,7 +2,7 @@
 title: "Energnist CaptureCo"
 layout: "single"
 type: "directory"
-description: "Energnist is West Denmark's largest waste-to-energy company, owned by 16 municipalities and operating waste-energy plants in Esbjerg and Kolding. Energnist Capt"
+description: "Energnist CaptureCo A/S is the dedicated carbon-capture subsidiary of Energnist, West Denmark's largest waste-to-energy company owned by 16 municipalities. It"
 url: "/directory/energnist-captureco/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -11,20 +11,27 @@ liveliness: "🟢 Active"
 **Pathway:** BECCS
 **Secondary pathways:** BECCS
 **Method:** BECCS
-**Country:** Unknown
-**Status:** 🟢 Active (score: 88/100)
+**Country:** Denmark
+**Website:** [https://energnist.dk](https://energnist.dk)
+**Status:** 🟢 Active (score: 82/100)
+**Employees:** ~50 (+6% YoY)
+**LinkedIn Followers:** 1,358
 **CDR Focus:** division
 **Evidence signals:** news_mention
 
 ## About
 
-Energnist is West Denmark's largest waste-to-energy company, owned by 16 municipalities and operating waste-energy plants in Esbjerg and Kolding. Energnist CaptureCo A/S is its dedicated carbon-capture subsidiary developing a CCS facility at the Esbjerg plant to capture over 200,000 tonnes of CO2 per year, with transport via pipeline to an Esbjerg Harbour CO2 terminal for liquefaction and permanent storage. It is one of 10 companies prequalified by the Danish Energy Agency to compete for DKK 28.7 billion in CCS funding, and signed a letter of intent with Carbon Circle in April 2026 to jointly develop the capture project using Carbon Circle's CaCiMod modular system.
+Energnist CaptureCo A/S is the dedicated carbon-capture subsidiary of Energnist, West Denmark's largest waste-to-energy company owned by 16 municipalities. It is developing a CCS facility at the Esbjerg waste-incineration plant intended to capture over 200,000 tonnes of CO2 per year, with pipeline transport to a liquefaction terminal at Esbjerg Harbour and eventual geological storage in the North Sea. In January 2026 the board decided not to apply to the Danish state CCS fund due to tender risks, but the project continues and in April 2026 Energnist CaptureCo signed a letter of intent with Carbon Circle to jointly develop the Esbjerg capture project.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
+
+[View on LinkedIn](https://www.linkedin.com/company/energnist/)
 
 ---
 

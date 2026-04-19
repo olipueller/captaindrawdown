@@ -2,21 +2,36 @@
 title: "Zopeful Climate"
 layout: "single"
 type: "directory"
-description: "Zopeful Climate — Unknown company in Unknown"
+description: "Zopeful Climate is a London-based company that curates ready-made portfolios of durable carbon dioxide removal credits for individuals and businesses, blending"
 url: "/directory/zopeful-climate/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United Kingdom
+**Website:** [https://zopeful.com/](https://zopeful.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2 (-33% YoY)
+**LinkedIn Followers:** 1,308
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Zopeful Climate is a London-based company that curates ready-made portfolios of durable carbon dioxide removal credits for individuals and businesses, blending solutions across DAC, biochar, enhanced weathering, bio-oil, ocean and nature-based pathways. It also runs free climate education courses. The company aggregates and resells CDR rather than producing removals itself.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://zopeful.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://zopeful.com/ ([source](https://www.cdr.fyi/marketplace/zopeful-climate))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/zopeful-climate))
+
+[View on LinkedIn](https://www.linkedin.com/company/zopeful/)
 
 ---
 

@@ -2,31 +2,37 @@
 title: "Stathmos"
 layout: "single"
 type: "directory"
-description: "Stathmos is a French startup using Direct Air Capture (DAC) to address both CO2 removal and water scarcity, with Statbox systems designed to capture up to 1,000"
+description: "Stathmos is a French DAC startup founded in 2023 by Dr. Amandine Cadiau and headquartered in Le Mans. Its modular \"Statbox\" units use proprietary solid sorbent"
 url: "/directory/stathmos/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** France
 **Website:** [https://stathmos.earth/](https://stathmos.earth/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~1 (-75% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Stathmos is a French startup using Direct Air Capture (DAC) to address both CO2 removal and water scarcity, with Statbox systems designed to capture up to 1,000 tonnes of CO2 annually while producing clean water in arid regions. The company was founded in 2023 from Marble Studio by Amandine Cadiau and uses solid alkaline carbonate sorbents at its headquarters in Le Mans, France.
+Stathmos is a French DAC startup founded in 2023 by Dr. Amandine Cadiau and headquartered in Le Mans. Its modular "Statbox" units use proprietary solid sorbent materials to capture CO2 from ambient air (with co-production of water), targeting up to 1,000 tonnes CO2/year per unit for geological storage or industrial reuse.
 
-![Stathmos website](/screenshots/v1-thumbnails/stathmos.jpg)
+![Stathmos website](/screenshots/stathmos/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/stathmos/__wuTY1uaXRBSwNi_qZvZFpDTqy4NtXGRpMmDA))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://stathmos.earth/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://stathmos.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/stathmos-balance-the-climate/)
 
 ---
 

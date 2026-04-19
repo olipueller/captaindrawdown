@@ -2,21 +2,36 @@
 title: "Noya | Inactive"
 layout: "single"
 type: "directory"
-description: "Noya | Inactive — Unknown company in Unknown"
+description: "Noya PBC was a San Francisco-based direct air capture startup founded in 2020 by Josh Santos and Daniel Cavero, originally retrofitting cooling towers before"
 url: "/directory/noya-inactive/"
-pathway: "Unknown"
+pathway: "DAC"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** DAC
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://www.noya.co/](https://www.noya.co/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~172
+**LinkedIn Followers:** 7,458
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Noya PBC was a San Francisco-based direct air capture startup founded in 2020 by Josh Santos and Daniel Cavero, originally retrofitting cooling towers before pivoting to standalone modular DAC units with an all-electric electrothermal regeneration approach. Backers included Union Square Ventures, Collaborative Fund, Lowercarbon Capital and MCJ Collective (Series A of $11M in 2023), with credit offtakes from Shopify and Watershed. The company ceased operations in 2025.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🔴 Likely Dead ([source](https://www.technologyreview.com/2025/10/24/1126478/whats-next-for-carbon-removal/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.noya.co/ ([source](https://www.cdr.fyi/supplier/noya))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/noya))
+
+[View on LinkedIn](https://www.linkedin.com/company/aether-laboratories/)
 
 ---
 

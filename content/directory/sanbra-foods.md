@@ -2,28 +2,35 @@
 title: "Sanbra Foods"
 layout: "single"
 type: "directory"
-description: "Sanbra Foods Ghana is a sustainable agriculture company based in Ghana that is listed on Puro.earth as a prospective biochar carbon removal supplier. The projec"
+description: "Sanbra Foods Ghana offers services to smallholder farmers including soil testing, precision agriculture, and training. The company is listed as a prospective"
 url: "/directory/sanbra-foods/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Ghana
-**Status:** 🟠 Suspect (score: 35/100)
+**Website:** [https://sanbrafoods-ghana.com/](https://sanbrafoods-ghana.com/)
+**Status:** 🟡 Moderate (score: 45/100)
 **CDR Focus:** supplier
 **Evidence signals:** last_evidence_url
 
 ## About
 
-Sanbra Foods Ghana is a sustainable agriculture company based in Ghana that is listed on Puro.earth as a prospective biochar carbon removal supplier. The project is in early development stage with feasibility studies ongoing and no CORCs issued to date. The company website is live but minimal, suggesting limited public activity.
+Sanbra Foods Ghana offers services to smallholder farmers including soil testing, precision agriculture, and training. The company is listed as a prospective biochar supplier on Puro.earth, but the facility is in early development with an ongoing feasibility study and the supplier is still collecting data to prove the concept, with zero CORCs issued to date.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://sanbrafoods-ghana.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/sanbra-foods-biochar-161))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/sanbra-foods-biochar-161))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/sanbra-foods-biochar-161))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/sanbrafoods/)
 
 ---
 

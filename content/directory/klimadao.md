@@ -2,21 +2,34 @@
 title: "KlimaDAO"
 layout: "single"
 type: "directory"
-description: "KlimaDAO — Unknown company in Unknown"
+description: "KlimaDAO is a decentralized autonomous organization building blockchain-based infrastructure for tokenized carbon markets, operating the Carbonmark marketplace"
 url: "/directory/klimadao/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Singapore
+**Website:** [https://www.klimadao.finance/](https://www.klimadao.finance/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+KlimaDAO is a decentralized autonomous organization building blockchain-based infrastructure for tokenized carbon markets, operating the Carbonmark marketplace and the KLIMA token on Polygon/Base. It aggregates and facilitates trading/retirement of voluntary carbon credits (predominantly avoidance credits, with some removal credits) rather than physically removing CO2 itself.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.klimadao.finance/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.klimadao.finance/ ([source](https://www.cdr.fyi/supplier/klimadao))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/klimadao))
+
+[View on LinkedIn](https://www.linkedin.com/company/klima-dao/)
 
 ---
 

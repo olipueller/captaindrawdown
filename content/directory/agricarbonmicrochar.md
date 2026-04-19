@@ -2,7 +2,7 @@
 title: "agriCARBON/MicroCHAR"
 layout: "single"
 type: "directory"
-description: "MicroCHAR is a Czech biochar-based microgranular soil conditioner developed by the BIOUHEL.CZ team in collaboration with Czech University of Life Sciences Pragu"
+description: "MicroCHAR is marketed by BIOUHEL.CZ s.r.o. as the first fertiliser that removes carbon using the PyCCS method, with a 2025 copyright on the site. Development"
 url: "/directory/agricarbonmicrochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,20 +12,25 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Czech Republic
 **Website:** [https://www.microchar.eu/](https://www.microchar.eu/)
-**Status:** 🟡 Moderate (score: 65/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **LinkedIn Followers:** 96
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-MicroCHAR is a Czech biochar-based microgranular soil conditioner developed by the BIOUHEL.CZ team in collaboration with Czech University of Life Sciences Prague. The product combines biochar (from biomass pyrolysis) with organic nutrients, rhizobacteria, and mycorrhizal fungi for application in ecological agriculture, positioning itself as both a soil amendment and a carbon sequestration tool.
+MicroCHAR is marketed by BIOUHEL.CZ s.r.o. as the first fertiliser that removes carbon using the PyCCS method, with a 2025 copyright on the site. Development of MicroCHAR® began in fall 2020 and ended in fall 2021 as corporate research of AIVOTEC s.r.o. and BIOUHEL.CZ, with a patent application submitted 22.12.2021. BIOUHEL.CZ was founded in 2013 to develop biochar production and use as a sustainability tool, based on a biochar production solution at an agricultural biogas plant that won the Czech Innovation 2013 award.
 
-![agriCARBON/MicroCHAR website](/screenshots/v1-thumbnails/agricarbon-microchar.jpg)
+![agriCARBON/MicroCHAR website](/screenshots/agricarbonmicrochar/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.microchar.eu/en/microchar-en/))
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.microchar.eu/en/microchar-en/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.microchar.eu/en/microchar-en/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.microchar.eu/en/microchar-en/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,29 +2,46 @@
 title: "Altitude"
 layout: "single"
 type: "directory"
-description: "Altitude is a Switzerland-based carbon removal financier that provides structured offtake and financing to CDR suppliers — primarily biochar developers — via it"
+description: "Altitude is a Switzerland-based carbon removal financier that provides structured offtake and financing to CDR suppliers, primarily biochar developers, via its"
 url: "/directory/altitude/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Secondary pathways:** Enabling Tech
 **Method:** Biochar
-**Country:** Unknown
-**Status:** 🟢 Active (score: 92/100)
+**Country:** Switzerland
+**Website:** [https://www.altitudecarbon.com/](https://www.altitudecarbon.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~1 (0% YoY)
+**LinkedIn Followers:** 687
 **CDR Focus:** ecosystem
 **Evidence signals:** news_mention
 
 ## About
 
-Altitude is a Switzerland-based carbon removal financier that provides structured offtake and financing to CDR suppliers — primarily biochar developers — via its Ascent purchasing facility. Launched in early 2025, Altitude: Ascent 1 was created to provide structured financing for high-integrity removal projects, with an initial commitment of 50,000 t of CDRs, with availability to bring financing to CDR facilities globally, especially in the Global South, and was later expanded to 250,000t. It is named in our guidance as an ecosystem example.
+Altitude is a Switzerland-based carbon removal financier that provides structured offtake and financing to CDR suppliers, primarily biochar developers, via its Ascent purchasing facility. Launched in February 2025, Ascent 1 was initially sized at 50,000 tonnes and expanded to 250,000 tonnes in September 2025, with commitments across Southeast Asia and West Africa biochar facilities certified under Puro.earth.
+
+![Altitude website](/screenshots/altitude/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Altitude Carbon
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-august-2025))
+- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://www.carbon-drawdown.de/))
+- **** — merged duplicate: Altitude Carbon (slug=altitude-carbon)
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.qcintel.com/carbon/article/interview-cdr-trader-altitude-eyes-more-biochar-credit-purchases-62435.html))
+
+[View on LinkedIn](https://www.linkedin.com/company/altitude-sustainable/)
 
 ---
 

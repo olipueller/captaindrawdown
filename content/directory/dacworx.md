@@ -2,29 +2,42 @@
 title: "DACworx"
 layout: "single"
 type: "directory"
-description: "DACworx is a European DAC technology developer offering cost-efficient, scalable carbon capture for project developers, contractors, and operators aiming for pe"
+description: "DACworx is an Austrian direct air capture technology developer that co-designed and built the Austrian Pilot Unit 1 (APU1), a container-sized DAC pilot plant"
 url: "/directory/dacworx/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
 **Method:** DAC
-**Country:** Unknown
+**Country:** Austria
 **Website:** [https://dacworx.eu/](https://dacworx.eu/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 78/100)
+**Employees:** ~3 (+200% YoY)
+**LinkedIn Followers:** 81
 **CDR Focus:** supplier
 **Evidence signals:** exa_search
 
 ## About
 
-DACworx is a European DAC technology developer offering cost-efficient, scalable carbon capture for project developers, contractors, and operators aiming for permanent CO₂ removal or production of sustainable chemicals and fuels, via modular standardized designs. The process uses ambient operating conditions and readily available CO₂ filter materials, backed by in-house manufacturing and partnerships across Europe and the U.S.
+DACworx is an Austrian direct air capture technology developer that co-designed and built the Austrian Pilot Unit 1 (APU1), a container-sized DAC pilot plant based on TU Wien research, together with U.S.-based startup DAClab. The pilot, commissioned in 2025 and financed by the Dharma Karma Foundation, extracts around 50 tons of CO₂ per year with energy consumption under 2,000 kWh per ton. The company offers modular, scalable DAC units aimed at permanent CO₂ removal and sustainable fuels/chemicals production.
+
+![DACworx website](/screenshots/dacworx/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): DACworx Engineering
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dacworx.eu/))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/dacworx-engineering))
+- **** — merged duplicate: DACworx Engineering (slug=dacworx-engineering)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dacworx.eu/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://dacworx.eu/))
 - **2026-04-18** — discovered via: exa ([source](https://dacworx.eu/))
+
+[View on LinkedIn](https://www.linkedin.com/company/dacworx-engineering-gmbh/)
 
 ---
 

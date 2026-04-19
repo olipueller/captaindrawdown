@@ -2,21 +2,35 @@
 title: "Carbonera, Inc."
 layout: "single"
 type: "directory"
-description: "Carbonera, Inc. — Unknown company in Unknown"
+description: "Carbonera eXchange is a small US-based online marketplace platform for buying and selling carbon offsets and carbon removal credits, headquartered in Campbell,"
 url: "/directory/carbonera-inc/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://carboneraexchange.com/](https://carboneraexchange.com/)
+**Status:** 🟢 Active (score: 65/100)
+**Employees:** ~3 (+50% YoY)
+**LinkedIn Followers:** 88
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Carbonera eXchange is a small US-based online marketplace platform for buying and selling carbon offsets and carbon removal credits, headquartered in Campbell, California. The platform lists credits validated by registries such as Verra, Gold Standard, and ACR, spanning reforestation, methane capture, biochar, and other carbon removal methods. It operates as a broker/exchange rather than a physical CDR supplier.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carboneraexchange.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://carboneraexchange.com/ ([source](https://www.cdr.fyi/marketplace/carbonera))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbonera))
+
+[View on LinkedIn](https://www.linkedin.com/company/carboneraexchange2023/)
 
 ---
 

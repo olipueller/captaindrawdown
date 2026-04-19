@@ -2,21 +2,35 @@
 title: "Frichs Pyrolysis Aps"
 layout: "single"
 type: "directory"
-description: "Frichs Pyrolysis Aps — Unknown company in Unknown"
+description: "Frichs Pyrolysis ApS is a Danish development company based in Horsens that supplies patented flash pyrolysis systems converting agricultural residues, food"
 url: "/directory/frichs-pyrolysis-aps/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Denmark
+**Website:** [https://frichs-pyrolysis.com/](https://frichs-pyrolysis.com/)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~27 (+42% YoY)
+**LinkedIn Followers:** 938
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Frichs Pyrolysis ApS is a Danish development company based in Horsens that supplies patented flash pyrolysis systems converting agricultural residues, food waste, and other biomass into biochar and pyrolysis gas. The company, led by CEO Søren Bruun, received an additional DKK 32m from owners in 2025 and expects to kick off commercial sales of pyrolysis plants around the beginning of 2026. They are a member of the European Biochar Industry Consortium and have active projects including Vrejlev Energi.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://frichs-pyrolysis.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.biochareurope.eu/members))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/frichs-pyrolysis-aps))
+
+[View on LinkedIn](https://www.linkedin.com/company/frichs-pyrolysis/)
 
 ---
 

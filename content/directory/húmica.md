@@ -2,10 +2,10 @@
 title: "Húmica"
 layout: "single"
 type: "directory"
-description: "Húmica is a Mexican biotech startup founded in 2019–2020 that works with smallholder farmers (with a focus on women producers in Puebla, Veracruz, Tabasco, and"
+description: "Húmica is a Mexican soil biotechnology startup founded in 2019-2020 that partners with smallholder farmers — with an emphasis on women producers in Puebla,"
 url: "/directory/húmica/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
@@ -13,21 +13,24 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Mexico
 **Website:** [https://humica.mx/](https://humica.mx/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 70/100)
 **Employees:** ~5 (+25% YoY)
-**LinkedIn Followers:** 260
+**LinkedIn Followers:** 263
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Húmica is a Mexican biotech startup founded in 2019–2020 that works with smallholder farmers (with a focus on women producers in Puebla, Veracruz, Tabasco, and Oaxaca) to sequester carbon through biochar production and regenerative agroforestry. The company diagnoses soils, formulates site-specific biochar recipes, and helps farmers access carbon credit markets while commercializing their crops.
+Húmica is a Mexican soil biotechnology startup founded in 2019-2020 that partners with smallholder farmers — with an emphasis on women producers in Puebla, Veracruz, Tabasco, and Oaxaca — to produce site-specific biochar and implement regenerative agroforestry. The company performs soil diagnostics, formulates tailored biochar-based biofertilizers, and helps farmers access carbon credit markets while commercializing their crops. It remains a small team (≈4-5 people) and reports having issued its first agricultural carbon removal certificates in Mexico.
 
 ![Húmica website](/screenshots/v1-thumbnails/h-mica.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://thoughtforfood.org/content-hub/meet-humica-a-mexican-startup-on-a-mission-to-solve-climate-change-by-reviving-ancient-soil-tech/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://humica.mx/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://humica.mx/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

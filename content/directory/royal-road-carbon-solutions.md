@@ -2,21 +2,37 @@
 title: "Royal Road Carbon Solutions"
 layout: "single"
 type: "directory"
-description: "Royal Road Carbon Solutions — Unknown company in Unknown"
+description: "Royal Road Carbon Solutions is a US-based carbon offset broker and advisory firm that helps businesses identify and purchase verified carbon reduction/offset"
 url: "/directory/royal-road-carbon-solutions/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
+**Secondary pathways:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://www.royalroadcarbon.com/](https://www.royalroadcarbon.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2 (-33% YoY)
+**LinkedIn Followers:** 52
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Royal Road Carbon Solutions is a US-based carbon offset broker and advisory firm that helps businesses identify and purchase verified carbon reduction/offset projects. Their first initiative with Steinbrenner Management focuses on soil organic carbon sequestration via regenerative agriculture with US farmers. They are affiliated with Royal Road Wealth Partners (a registered investment advisor).
+
+![Royal Road Carbon Solutions website](/screenshots/royal-road-carbon-solutions/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟡 Moderate ([source](https://www.royalroadcarbon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/royal-road-carbon-solutions))
+
+[View on LinkedIn](https://www.linkedin.com/company/royal-road-carbon-solutions/)
 
 ---
 

@@ -2,21 +2,34 @@
 title: "Azzera"
 layout: "single"
 type: "directory"
-description: "Azzera — Unknown company in Unknown"
+description: "Azzera is a carbon offset marketplace and aviation compliance services provider, founded in 2022 by Puja Mahajan and Nick Houseman, primarily serving business"
 url: "/directory/azzera/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Switzerland
+**Website:** [https://azzera.com](https://azzera.com)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~11 (-21% YoY)
+**LinkedIn Followers:** 3,430
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Azzera is a carbon offset marketplace and aviation compliance services provider, founded in 2022 by Puja Mahajan and Nick Houseman, primarily serving business aviation clients with EU ETS, UK ETS, Swiss ETS and CORSIA compliance. It resells a portfolio of avoidance and removal credits (including biochar, nature-based and DAC) through its GHG marketplace rather than producing removals itself.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://azzera.com/about-us/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/azzera))
+
+[View on LinkedIn](https://www.linkedin.com/company/azzera/)
 
 ---
 

@@ -2,29 +2,39 @@
 title: "NextGen CDR"
 layout: "single"
 type: "directory"
-description: "NextGen CDR is a buyers' club / advance-market-commitment facility jointly established by South Pole and Mitsubishi Corporation to aggregate corporate demand fo"
+description: "NextGen CDR is a buyers' club and advance-market-commitment facility jointly established by South Pole and Mitsubishi Corporation to aggregate corporate demand"
 url: "/directory/nextgen-cdr/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Enabling Tech
+**Secondary pathways:** DAC, Biochar, Enhanced Weathering, Mineralization, BECCS
 **Method:** Unknown
-**Country:** Unknown
+**Country:** Switzerland
 **Website:** [https://nextgencdr.com/](https://nextgencdr.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~3 (-25% YoY)
+**LinkedIn Followers:** 2,477
 **CDR Focus:** ecosystem
 **Evidence signals:** exa_search
 
 ## About
 
-NextGen CDR is a buyers' club / advance-market-commitment facility jointly established by South Pole and Mitsubishi Corporation to aggregate corporate demand for durable, certified carbon removals at a target price of $200/tonne. Founding and subsequent buyers include BCG, LGT, Mitsui O.S.K. Lines, Swiss Re, UBS and Mizuho. It has contracted offtakes across DAC, BiCRS, biochar, mineralization and enhanced weathering (e.g. Neustark, Exomad Green, Alt Carbon) but does not itself remove CO2 — it is a demand-side aggregator in the CDR ecosystem.
+NextGen CDR is a buyers' club and advance-market-commitment facility jointly established by South Pole and Mitsubishi Corporation to aggregate corporate demand for durable carbon removals at an average target price of $200/tonne. Founding buyers include Boston Consulting Group, LGT, Mitsui O.S.K. Lines, Swiss Re, UBS and Mizuho, and the facility has contracted offtakes across DAC, BiCRS, biochar, enhanced weathering and product mineralization.
+
+![NextGen CDR website](/screenshots/nextgen-cdr/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.nextgencdr.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.nextgencdr.com/))
 - **2026-04-18** — discovered via: exa ([source](https://nextgencdr.com/))
+
+[View on LinkedIn](https://www.linkedin.com/company/nextgencdr/)
 
 ---
 

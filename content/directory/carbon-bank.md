@@ -2,10 +2,10 @@
 title: "Carbon Bank"
 layout: "single"
 type: "directory"
-description: "Carbon Bank is a UK-based CDR project developer and part of the Green Britain Group (sister company to Ecotricity). They run an enhanced rock weathering project"
+description: "Carbon Bank is a UK-based CDR project developer and a division of the Green Britain Group (sister company to Ecotricity), headquartered in Stroud,"
 url: "/directory/carbon-bank/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Enhanced Weathering
@@ -13,19 +13,22 @@ liveliness: "🟢 Active"
 **Method:** Enhanced Rock Weathering
 **Country:** United Kingdom
 **Website:** [https://www.carbonbank.co.uk/](https://www.carbonbank.co.uk/)
-**Status:** 🟢 Active (score: 75/100)
-**CDR Focus:** supplier
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Carbon Bank is a UK-based CDR project developer and part of the Green Britain Group (sister company to Ecotricity). They run an enhanced rock weathering project in Northumberland using basalt from Breedon quarries spread on local farmland, and plan afforestation/nature recovery projects aligned with BSI Flex 701 and the Woodland Carbon Code.
+Carbon Bank is a UK-based CDR project developer and a division of the Green Britain Group (sister company to Ecotricity), headquartered in Stroud, Gloucestershire. They operate an enhanced rock weathering project in Northumberland using basalt from Breedon quarries spread on local farmland, verified under the Isometric Standard, and are developing afforestation/nature recovery projects aligned with the Woodland Carbon Code and BSI Flex 701.
 
 ![Carbon Bank website](/screenshots/v1-thumbnails/carbon-bank.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carbonbank.co.uk/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=division liveliness=🟢 Active ([source](https://www.carbonbank.co.uk/what-we-do/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.carbonbank.co.uk/what-we-do/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

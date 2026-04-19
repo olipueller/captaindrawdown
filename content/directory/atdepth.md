@@ -2,7 +2,7 @@
 title: "atdepth"
 layout: "single"
 type: "directory"
-description: "atdepth MRV is a Cambridge, MA-based MIT spin-off providing MRV services to the marine CDR (mCDR) industry. It combines multi-scale ocean and biogeochemical mod"
+description: "atdepth MRV is a Cambridge, Massachusetts-based MIT spin-off providing Monitoring, Reporting and Verification (MRV) services to the marine carbon dioxide"
 url: "/directory/atdepth/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -11,21 +11,29 @@ liveliness: "🟢 Active"
 **Pathway:** Enabling Tech
 **Secondary pathways:** Ocean CDR
 **Method:** Unknown
-**Country:** Unknown
+**Country:** United States
 **Website:** [https://atdepthmrv.com/](https://atdepthmrv.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~7 (+17% YoY)
+**LinkedIn Followers:** 403
 **CDR Focus:** ecosystem
 **Evidence signals:** exa_search
 
 ## About
 
-atdepth MRV is a Cambridge, MA-based MIT spin-off providing MRV services to the marine CDR (mCDR) industry. It combines multi-scale ocean and biogeochemical modeling with monitoring data to quantify carbon removal for mCDR project developers. The company received a $2.6M ARPA-E SEA-CO2 grant and has partnered with Deep Sky to monitor direct ocean capture operations in Canada.
+atdepth MRV is a Cambridge, Massachusetts-based MIT spin-off providing Monitoring, Reporting and Verification (MRV) services to the marine carbon dioxide removal (mCDR) industry. The company combines GPU-based multi-scale ocean and biogeochemical modeling with monitoring data to quantify ocean carbon removal for mCDR project developers. It is funded by the US DOE ARPA-E SEA-CO2 program and has partnered with Deep Sky to monitor direct ocean capture operations in Canada.
+
+![atdepth website](/screenshots/atdepth/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.atdepth.org/deepsky-pressrelease))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://atdepthmrv.com/))
 - **2026-04-18** — discovered via: exa ([source](https://atdepthmrv.com/))
+
+[View on LinkedIn](https://www.linkedin.com/company/atdepth-mrv/)
 
 ---
 

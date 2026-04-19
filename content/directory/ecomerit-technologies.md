@@ -2,17 +2,17 @@
 title: "Ecomerit Technologies"
 layout: "single"
 type: "directory"
-description: "Ecomerit Technologies is a Santa Barbara-based marine-renewable product design studio and laboratory founded in 2010 by Jim and Brent Dehlsen, developing the Pr"
+description: "Ecomerit Technologies is a Santa Barbara, California-based marine renewable energy product design studio and laboratory, founded in 2010 by Jim and Brent"
 url: "/directory/ecomerit-technologies/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Ocean CDR
-**Secondary pathways:** Mineralization, Enhanced Weathering
+**Secondary pathways:** Enhanced Weathering, Mineralization
 **Method:** Ocean Alkalinity Enhancement
 **Country:** United States
-**Website:** [https://www.ecomerittech.com/precipitor-carbon-dioxide-removal](https://www.ecomerittech.com/precipitor-carbon-dioxide-removal)
+**Website:** [https://www.ecomerittech.com/](https://www.ecomerittech.com/)
 **Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~4 (-43% YoY)
 **CDR Focus:** supplier
@@ -20,13 +20,15 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Ecomerit Technologies is a Santa Barbara-based marine-renewable product design studio and laboratory founded in 2010 by Jim and Brent Dehlsen, developing the Precipitor CDR system alongside Aquantis marine current turbines, Anacapa wave energy generators, and SeaWell desalination buoys. The CO2 Precipitor project pursues atmospheric CDR via mineralization and OAE with durable carbon sequestration at ocean depth, mounting systems on offshore wind turbines, ships, and platforms. They are a CDR technology developer (supplier) operating at early/R&D scale.
+Ecomerit Technologies is a Santa Barbara, California-based marine renewable energy product design studio and laboratory, founded in 2010 by Jim and Brent Dehlsen. Alongside their Aquantis marine current turbines, Anacapa wave energy generators, and SeaWell desalination buoys, they are developing the Precipitor — a wind-powered system mounted on offshore platforms that uses electrolysis of seawater to precipitate CO2 directly from the atmosphere while reducing ocean acidity. The CDR work is at the R&D/prototype stage within a broader marine-tech portfolio.
 
 ![Ecomerit Technologies website](/screenshots/v1-thumbnails/ecomerit-technologies.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.precipitor.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.precipitor.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

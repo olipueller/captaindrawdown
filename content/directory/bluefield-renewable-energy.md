@@ -2,7 +2,7 @@
 title: "Bluefield Renewable Energy"
 layout: "single"
 type: "directory"
-description: "Bluefield Renewable Energy is a Singapore-headquartered biochar producer whose operations officially started in 2023. Using proprietary advanced pyrolysis techn"
+description: "Bluefield Renewable Energy (BRE) is a Singapore-headquartered biochar producer that converts waste into biochar via advanced pyrolysis, generating"
 url: "/directory/bluefield-renewable-energy/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,21 +12,25 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Singapore
 **Website:** [https://bluefieldrenewable.com/](https://bluefieldrenewable.com/)
-**Status:** 🟡 Moderate (score: 62/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~2 (-75% YoY)
-**LinkedIn Followers:** 1,366
+**LinkedIn Followers:** 1,375
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Bluefield Renewable Energy is a Singapore-headquartered biochar producer whose operations officially started in 2023. Using proprietary advanced pyrolysis technology, it converts waste into biochar — a stable, carbon-rich material — with applications including integration into green concrete for lower-embodied-carbon construction. It states it is the sole Asia firm certified by the European Biochar Certificate (EBC) and International Biochar Initiative (IBI), and partners with SembWaste in Singapore to generate carbon removal credits.
+Bluefield Renewable Energy (BRE) is a Singapore-headquartered biochar producer that converts waste into biochar via advanced pyrolysis, generating internationally recognized carbon removal credits. The firm is certified under both EBC and IBI, received an IAF-ICP grant from Singapore's A*STAR, and partnered with SembWaste in late 2024 under the Closed-Loop Partners Network to scale biochar production from local waste streams.
 
-![Bluefield Renewable Energy website](/screenshots/v1-thumbnails/bluefield-renewable-energy.jpg)
+![Bluefield Renewable Energy website](/screenshots/bluefield-renewable-energy/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluefieldrenewable.com/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://bluefieldrenewable.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://bluefieldrenewable.com/about-us/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluefieldrenewable.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

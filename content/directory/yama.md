@@ -2,7 +2,7 @@
 title: "Yama"
 layout: "single"
 type: "directory"
-description: "Yama is a Paris-based Direct Air Capture startup developing a hybrid electrochemical/thermal desorption technology with a proprietary liquid sorbent to lower DA"
+description: "Yama is a Paris-based Direct Air Capture startup developing a hybrid electrochemical/thermal desorption technology using a proprietary non-toxic liquid sorbent"
 url: "/directory/yama/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Yama is a Paris-based Direct Air Capture startup developing a hybrid electrochemical/thermal desorption technology with a proprietary liquid sorbent to lower DAC energy and cost. The company operates a small pilot near Paris (~25 tCO2/yr) and is targeting a first-of-a-kind commercial plant around 2030, with partnerships including Great Carbon Valley in Kenya and early credit buyers like Klarna via Milkywire.
+Yama is a Paris-based Direct Air Capture startup developing a hybrid electrochemical/thermal desorption technology using a proprietary non-toxic liquid sorbent with pH and temperature swing regeneration. The company operates a small pilot near Paris capturing about 25 tCO2/yr and is targeting first-of-a-kind commercial deployment near geological storage sites in Europe, the Nordics, Canada, or the Middle East.
 
 ![Yama website](/screenshots/v1-thumbnails/yama.jpg)
 
@@ -29,6 +29,13 @@ Yama is a Paris-based Direct Air Capture startup developing a hybrid electrochem
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Yama Carbon
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://yamacarbon.com/))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/yama-carbon))
+- **** — merged duplicate: Yama Carbon (slug=yama-carbon)
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://yamacarbon.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://yamacarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

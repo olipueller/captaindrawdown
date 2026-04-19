@@ -2,29 +2,32 @@
 title: "Haliburton Forest Biochar"
 layout: "single"
 type: "directory"
-description: "Haliburton Forest Biochar is a joint venture/subsidiary of Haliburton Forest & Wild Life Reserve Ltd. in central Ontario, Canada, producing high-quality biochar"
+description: "Haliburton Forest Biochar is a subsidiary of Haliburton Forest and Wildlife Reserve in Ontario, producing biochar from sawmill residues via pyrolysis at a"
 url: "/directory/haliburton-forest-biochar/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Canada
 **Website:** [https://www.haliburtonforestbiochar.com/](https://www.haliburtonforestbiochar.com/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Haliburton Forest Biochar is a joint venture/subsidiary of Haliburton Forest & Wild Life Reserve Ltd. in central Ontario, Canada, producing high-quality biochar from sustainably harvested hardwood sawmill residues via proprietary pyrolysis. Products serve soil amendment and advanced manufacturing applications (e.g., as a fossil carbon-black replacement). The company received a $4.6M Ontario provincial investment announced in 2025 to scale engineered biochar production.
+Haliburton Forest Biochar is a subsidiary of Haliburton Forest and Wildlife Reserve in Ontario, producing biochar from sawmill residues via pyrolysis at a facility on Kennaway Road in Haliburton County. The company uses novel exfoliation equipment to develop a high-performance processed biochar replacement for fossil fuel products in the automotive foam sector with production capacity of 17,500 kg/week of micronized biochar. Ontario announced a $4.6 million investment on July 7, 2025 to acquire new technology for engineered biochar production.
 
-![Haliburton Forest Biochar website](/screenshots/v1-thumbnails/haliburton-forest-biochar.jpg)
+![Haliburton Forest Biochar website](/screenshots/haliburton-forest-biochar/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.ontario.ca/page/2025-interim-report-forest-biomass-action-plan))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.haliburtonforestbiochar.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.haliburtonforestbiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

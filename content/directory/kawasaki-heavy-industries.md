@@ -12,26 +12,28 @@ liveliness: "🟢 Active"
 **Secondary pathways:** Mineralization
 **Method:** DAC (Solid Sorbent)
 **Country:** Japan
-**Website:** [https://www.eco-business.com/news/kawasaki-heavy-unveils-japans-biggest-air-carbon-removal-pilot-plans-megatonne-system-by-2030/](https://www.eco-business.com/news/kawasaki-heavy-unveils-japans-biggest-air-carbon-removal-pilot-plans-megatonne-system-by-2030/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~86 (+10% YoY)
-**LinkedIn Followers:** 27,198
+**Website:** [https://global.kawasaki.com/en/energy/equipment/co2sr/index.html](https://global.kawasaki.com/en/energy/equipment/co2sr/index.html)
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~1694 (+8% YoY)
+**LinkedIn Followers:** 61,711
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Kawasaki Heavy Industries is a Japanese industrial conglomerate whose Kawasaki CO2 Capture (KCC) division develops proprietary solid-sorbent Direct Air Capture technology, originally derived from CO2 control systems for submarines and space stations. In November 2025 it commissioned one of Japan's largest DAC pilots at its Kobe Works (100–200 tCO2/yr) and has announced ambitions to scale to a 500,000–1,000,000 tCO2/yr commercial unit by 2030. It is also collaborating with Kajima Corporation to store captured CO2 in CO2-SUICOM concrete.
+Kawasaki Heavy Industries is a Japanese industrial conglomerate whose Kawasaki CO2 Capture (KCC) division develops proprietary solid-sorbent Direct Air Capture technology, originally derived from CO2 control systems for submarines and space stations. In November 2025 it commissioned one of Japan's largest DAC pilots at its Kobe Works (100–200 tCO2/yr), using an amine-coated solid sorbent that regenerates at ~60°C using factory waste heat. The company aims to scale to a commercial 500,000–1,000,000 tCO2/yr system by 2030.
 
 ![Kawasaki Heavy Industries website](/screenshots/v1-thumbnails/kawasaki-heavy-industries.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://global.kawasaki.com/en/corp/newsroom/news/detail/?f=20251112_6035))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://carbonherald.com/kawasaki-heavy-industries-completes-one-of-japans-largest-dac-pilots/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
-[View on LinkedIn](https://www.linkedin.com/company/eco-business/)
+[View on LinkedIn](https://www.linkedin.com/company/kawasaki-motors-corp.-u.s.a./)
 
 ---
 

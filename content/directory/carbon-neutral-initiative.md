@@ -2,31 +2,35 @@
 title: "Carbon Neutral Initiative"
 layout: "single"
 type: "directory"
-description: "Carbon Neutral Initiative develops green roofs that remove CO2 through the addition of olivine, expecting net removal of 1,804 tonnes of CO2 over 25 years from"
+description: "Carbon Neutral Initiative (CNI) is a Netherlands-based organization running the Carbon Green Roof project, which aims to become the first bio-enhanced silicate"
 url: "/directory/carbon-neutral-initiative/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Enhanced Weathering
 **Method:** Enhanced Rock Weathering
 **Country:** Netherlands
 **Website:** [https://carbon-neutral-initiative.com/](https://carbon-neutral-initiative.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 1,218
+**LinkedIn Followers:** 1,244
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Neutral Initiative develops green roofs that remove CO2 through the addition of olivine, expecting net removal of 1,804 tonnes of CO2 over 25 years from its flagship project. The Netherlands-based company runs the Carbon Green Roof project as part of its bio-enhanced silicate weathering programme and collaborates with TNO, Utrecht University, Hasselt University, and Spanish universities. It is also initiating similar Enhanced Weathering projects in Suriname and Spain using other suitable rock types beyond olivine.
+Carbon Neutral Initiative (CNI) is a Netherlands-based organization running the Carbon Green Roof project, which aims to become the first bio-enhanced silicate weathering project in Europe. It collaborates with TNO, Utrecht University, Hasselt University, and Salamanca and Alicante Universities in Spain. CNI won the top prize for the Experiments Encouragement Award in Rotterdam in 2023, and its pilot is part of the broader LIFE@Urban Roofs project under the EU LIFE programme.
 
 ![Carbon Neutral Initiative website](/screenshots/v1-thumbnails/carbon-neutral-initiative.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://carbon-neutral-initiative.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://carbon-neutral-initiative.com/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://remineralize.org/2024/10/unlocking-urban-rooftops-for-carbon-capture-in-the-netherlands/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://carbon-neutral-initiative.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

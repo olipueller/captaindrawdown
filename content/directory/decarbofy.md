@@ -2,21 +2,34 @@
 title: "Decarbofy"
 layout: "single"
 type: "directory"
-description: "Decarbofy — Unknown company in Unknown"
+description: "Decarbofy is an environmental management company establishing operations in Argentina to build a biochar production plant in the Ituzaingó Industrial Park,"
 url: "/directory/decarbofy/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Argentina
+**Website:** [https://decarbofy.com/](https://decarbofy.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~1 (0% YoY)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Decarbofy is an environmental management company establishing operations in Argentina to build a biochar production plant in the Ituzaingó Industrial Park, Corrientes province. The project aims to valorize regional agricultural and forestry biomass residues into biochar. As of late 2024, the company was still seeking investors and at the permitting/siting stage.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://agroempresario.com/publicacion/96714/decarbofy-planea-instalar-una-planta-de-biochar-en-el-parque-industrial-de-ituzaingo/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://decarbofy.com/ ([source](https://www.cdr.fyi/supplier/decarbofy))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/decarbofy))
+
+[View on LinkedIn](https://www.linkedin.com/company/decarbofy/)
 
 ---
 

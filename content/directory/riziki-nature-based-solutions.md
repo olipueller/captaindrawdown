@@ -2,31 +2,37 @@
 title: "Riziki Nature Based Solutions"
 layout: "single"
 type: "directory"
-description: "Riziki Nature Based Solutions is a Kenya-based company that converts invasive mesquite (Prosopis) biomass into biofuel for industrial use and biochar for carbon"
+description: "Riziki Nature Based Solutions is a Kenya-based company that harvests invasive mesquite (Prosopis juliflora) biomass and converts it into two product lines:"
 url: "/directory/riziki-nature-based-solutions/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Kenya
 **Website:** [https://www.nbs-ea.com/](https://www.nbs-ea.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~3 (+200% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Riziki Nature Based Solutions is a Kenya-based company that converts invasive mesquite (Prosopis) biomass into biofuel for industrial use and biochar for carbon sequestration and soil amendment. The biochar arm involves pyrolysis of invasive biomass, locking carbon into soil while restoring degraded ecosystems. Their website is live and emphasizes both biofuel and biochar product lines.
+Riziki Nature Based Solutions is a Kenya-based company that harvests invasive mesquite (Prosopis juliflora) biomass and converts it into two product lines: industrial biofuel for boilers/kilns and biochar for carbon sequestration and soil amendment. The biochar activity pyrolyzes invasive biomass, locking carbon into soil while restoring degraded rangelands. Website is live and describes active operations across both product lines.
 
 ![Riziki Nature Based Solutions website](/screenshots/v1-thumbnails/riziki-nature-based-solutions.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.nbs-ea.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nbs-ea.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nbs-ea.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/riziki-nature-based-solutions/)
 
 ---
 

@@ -2,21 +2,36 @@
 title: "BlueLayer"
 layout: "single"
 type: "directory"
-description: "BlueLayer — Unknown company in Unknown"
+description: "BlueLayer is a Berlin-based software platform providing an end-to-end operating system for carbon project developers, covering inventory management, dMRV,"
 url: "/directory/bluelayer/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Germany
+**Website:** [https://bluelayer.io/](https://bluelayer.io/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~23 (-26% YoY)
+**LinkedIn Followers:** 3,972
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+BlueLayer is a Berlin-based software platform providing an end-to-end operating system for carbon project developers, covering inventory management, dMRV, credit lifecycle tracking, RFP response, and sales analytics. Customers include major nature-based and CDR developers such as Permian Global, Conservation International, Carbon2Nature, and New Forests. The company raised a $10M seed round led by Point Nine and partners with Sylvera on carbon data exchange.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://bluelayer.io/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://bluelayer.io/ ([source](https://www.cdr.fyi/marketplace/bluelayer))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/bluelayer))
+
+[View on LinkedIn](https://www.linkedin.com/company/getbluelayer/)
 
 ---
 

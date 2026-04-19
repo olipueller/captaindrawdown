@@ -2,35 +2,39 @@
 title: "Cler-Verts"
 layout: "single"
 type: "directory"
-description: "Cler Verts is a French group established in Occitanie since 2003 that collects, treats and valorizes organic matter for communities and professionals, with acti"
+description: "Cler Verts is a French organic waste valorization group established in Occitanie in 2003, operating a multi-filière platform at Bélesta-en-Lauragais that"
 url: "/directory/cler-verts/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Secondary pathways:** BECCS
 **Method:** Biochar
 **Country:** France
-**Website:** [https://www.industrie-online.com/en/news/562/cler-verts-celebrates-its-20th-anniversary-and-creates-a-new-production-unit](https://www.industrie-online.com/en/news/562/cler-verts-celebrates-its-20th-anniversary-and-creates-a-new-production-unit)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~1 (0% YoY)
+**Website:** [https://www.cler-verts.fr](https://www.cler-verts.fr)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~34
+**LinkedIn Followers:** 2,851
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Cler Verts is a French group established in Occitanie since 2003 that collects, treats and valorizes organic matter for communities and professionals, with activities including wood recycling, biomass fuels for boilers, green waste composting, biodéchets valorization, methanization/renewable energy, and biochar and organic soil amendment production. The company claims to produce the first CE-certified biochar in France. A new pyrolyzer installation was planned for August 2024.
+Cler Verts is a French organic waste valorization group established in Occitanie in 2003, operating a multi-filière platform at Bélesta-en-Lauragais that handles wood recycling, biomass fuels, green waste composting, biodéchet collection, methanization, and biochar production. The group markets the first CE-certified biochar in France under its CHARD'OCC brand, sold alongside its organic amendments for soils. A new pyrolyser was installed in August 2024 as part of a €2.8M investment inaugurated for the company's 20th anniversary.
 
-![Cler-Verts website](/screenshots/v1-thumbnails/cler-verts.jpg)
+![Cler-Verts website](/screenshots/cler-verts/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cler-verts.fr/actualites-liste/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cler-verts.fr/actualites-liste/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
-[View on LinkedIn](https://www.linkedin.com/company/industrie-online/)
+[View on LinkedIn](https://www.linkedin.com/company/cler-verts/)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Phlair"
 layout: "single"
 type: "directory"
-description: "Founded in 2022 and based in Munich, Germany, Phlair develops hydrolyzer-based Direct Air Capture technology that uses a pH-swing mechanism for CO2 capture and"
+description: "Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup founded in 2022 that develops an electrochemical, hydrolyzer-powered pH-swing"
 url: "/directory/phlair/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,16 +12,18 @@ liveliness: "🟢 Active"
 **Method:** DAC (Liquid Solvent)
 **Country:** Germany
 **Website:** [https://phlair.com/](https://phlair.com/)
-**Status:** 🟢 Active (score: 95/100)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~44 (+26% YoY)
+**LinkedIn Followers:** 8,394
 **Open roles on cdrjobs:** 10
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Founded in 2022 and based in Munich, Germany, Phlair develops hydrolyzer-based Direct Air Capture technology that uses a pH-swing mechanism for CO2 capture and release, enabling permanent storage or use in CO2-negative chemicals. The company serves buyers including Google, McKinsey, JPMorganChase, Shopify, Stripe, H&M, and Deep Sky, closed a €12M+ seed round in 2024 with a €2.5M EU grant, and announced a $30M offtake agreement in 2025.
+Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup founded in 2022 that develops an electrochemical, hydrolyzer-powered pH-swing DAC process for low-cost, renewable-powered CO2 capture. The company raised €14.5M seed funding in September 2024 (incl. €2.5M EIC grant) and is deploying its Electra pilot plants with plans for a 15,000+ tCO2/year commercial facility (Project Dawn) in Canada with Deep Sky.
 
-![Phlair website](/screenshots/v1-thumbnails/phlair.jpg)
+![Phlair website](/screenshots/phlair/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,8 +31,12 @@ Founded in 2022 and based in Munich, Germany, Phlair develops hydrolyzer-based D
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://phlair.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://phlair.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/phlair/)
 
 ---
 

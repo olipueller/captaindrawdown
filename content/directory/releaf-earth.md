@@ -2,29 +2,32 @@
 title: "Releaf Earth"
 layout: "single"
 type: "directory"
-description: "Releaf Earth is a Nigerian climate-agritech startup that launched the country's first operational industrial biochar production facility in Iwuru, Cross River S"
+description: "Releaf Earth is a Nigerian climate-agritech company operating the country's first industrial-scale biochar carbon removal facility, converting palm kernel"
 url: "/directory/releaf-earth/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Nigeria
 **Website:** [https://www.wereleaf.earth/](https://www.wereleaf.earth/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Releaf Earth is a Nigerian climate-agritech startup that launched the country's first operational industrial biochar production facility in Iwuru, Cross River State, using palm kernel shells processed through its proprietary Kraken machine to produce biochar that enhances soil and sequesters carbon. In early 2026, the company issued Nigeria's first industrial-scale carbon removal credits — an initial tranche of 190 tCO₂e — purchased by global buyers including Salesforce via Milkywire.
+Releaf Earth is a Nigerian climate-agritech company operating the country's first industrial-scale biochar carbon removal facility, converting palm kernel shells into biochar through pyrolysis. In February 2026 it issued Nigeria's first verified industrial-scale carbon removal credits (initial tranche of 190 tCO2e) through the Rainbow Standard, with purchases including Salesforce via Milkywire. The company targets 40 kt CO2e removal by 2030 and is backed by Y Combinator, Breakthrough Energy Ventures, AirMiners, and Angaza Capital.
 
 ![Releaf Earth website](/screenshots/v1-thumbnails/releaf-earth.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.wereleaf.earth/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.wereleaf.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

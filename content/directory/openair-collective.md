@@ -2,21 +2,36 @@
 title: "OpenAir Collective"
 layout: "single"
 type: "directory"
-description: "OpenAir Collective — Unknown company in Unknown"
+description: "OpenAir Collective is a distributed global volunteer network advancing carbon dioxide removal through collaborative R&D, citizen science, policy advocacy, and"
 url: "/directory/openair-collective/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://openaircollective.cc/](https://openaircollective.cc/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~24
+**LinkedIn Followers:** 4,041
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+OpenAir Collective is a distributed global volunteer network advancing carbon dioxide removal through collaborative R&D, citizen science, policy advocacy, and educational initiatives. They run the annual Carbon Removal Challenge (a global student CDR competition), monthly "This is CDR" webinars, and the CDR.ai knowledge platform. They are a CDR ecosystem/advocacy organization, not a physical removal supplier.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://openaircollective.com/crc/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://openaircollective.cc/ ([source](https://www.cdr.fyi/marketplace/openair-collective))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/openair-collective))
+
+[View on LinkedIn](https://www.linkedin.com/company/the-open-air-collective/)
 
 ---
 

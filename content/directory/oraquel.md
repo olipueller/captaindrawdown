@@ -2,7 +2,7 @@
 title: "Oraquel"
 layout: "single"
 type: "directory"
-description: "Oraquel S.A. is a Warsaw-based DAC technology developer (the website references a Swiss Oraquel Group) building modular, solar-powered direct air capture reac"
+description: "Oraquel S.A. is a Warsaw-based direct air capture technology developer (referencing a Swiss \"Oraquel Group\") that builds modular, solar-powered DAC reactors"
 url: "/directory/oraquel/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -10,7 +10,7 @@ liveliness: "🟡 Moderate"
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
-**Country:** Switzerland
+**Country:** Poland
 **Website:** [https://www.oraquel.com/](https://www.oraquel.com/)
 **Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
@@ -18,13 +18,16 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Oraquel S.A. is a Warsaw-based DAC technology developer (the website references a Swiss "Oraquel Group") building modular, solar-powered direct air capture reactors rated at up to 500 tCO2/yr each. In September 2025 the company partnered with the city of Kielce to deploy Poland's first DAC pilot facility, providing the hardware and technical expertise under CEO Wojciech Mudyna.
+Oraquel S.A. is a Warsaw-based direct air capture technology developer (referencing a Swiss "Oraquel Group") that builds modular, solar-powered DAC reactors using patented replaceable filters. In September 2025 Oraquel partnered with the city of Kielce to deploy Poland's first DAC pilot facility, rated at approximately 500 tCO2/year, under CEO Wojciech Mudyna.
 
 ![Oraquel website](/screenshots/v1-thumbnails/oraquel.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.oraquel.com/de/how-many-liters-of-water-are-there-in-the-world-de))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/poland-to-introduce-its-first-direct-air-capture-pilot/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.oraquel.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

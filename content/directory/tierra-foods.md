@@ -2,32 +2,39 @@
 title: "Tierra Foods"
 layout: "single"
 type: "directory"
-description: "Tierra Foods is a UK climate tech startup developing a carbon-removal system centred on plants that perform biomineralisation — specifically oxalogenic species"
+description: "Tierra Foods is a UK-based climate tech startup developing agroforestry carbon-removal projects using oxalogenic plants (notably the ramón/Brosimum alicastrum"
 url: "/directory/tierra-foods/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Mineralization
-**Secondary pathways:** Afforestation
+**Secondary pathways:** Afforestation, Enabling Tech
 **Method:** Mineralization (Other)
 **Country:** United Kingdom
 **Website:** [https://tierra-foods.com/](https://tierra-foods.com/)
-**Status:** 🟢 Active (score: 78/100)
+**Status:** 🟢 Active (score: 75/100)
+**LinkedIn Followers:** 133
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Tierra Foods is a UK climate tech startup developing a carbon-removal system centred on plants that perform biomineralisation — specifically oxalogenic species that convert atmospheric CO2 into calcium carbonate stored in soil. The company develops agroforestry projects using biomineralisation-capable plants like the Uje/ramón tree (Brosimum alicastrum) via the Oxalate-Carbonate Pathway, producing both permanent carbon removal and sustainable food ingredients. It has raised a $520K round announced in early 2025 and is backed by £496,000 of Innovate UK funding for an AI-based MRV methodology with the University of Huddersfield.
+Tierra Foods is a UK-based climate tech startup developing agroforestry carbon-removal projects using oxalogenic plants (notably the ramón/Brosimum alicastrum tree) that convert atmospheric CO2 into stable soil calcium carbonate via the Oxalate-Carbonate Pathway. The company runs pilot sites in Mexico (Rio Tule/Playa Viva) and the UK, and partnered with the University of Huddersfield on Innovate UK-funded AI-based MRV. It sells permanent carbon removal units alongside edible ramón-seed ingredients.
 
 ![Tierra Foods website](/screenshots/v1-thumbnails/tierra-foods.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://tierra-foods.com/about-us))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.leadsontrees.com/news/tierrasphere-fuels-tierra-foods-vision-520k-grant-ignites-climate-tech-innovation-for-permanent-carbon-capture-and-restoration))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://tierra-foods.com/about-us))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://tierra-foods.com/about-us))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/tierra-foods-mexico/)
 
 ---
 

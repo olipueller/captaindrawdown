@@ -2,7 +2,7 @@
 title: "Treeconomy"
 layout: "single"
 type: "directory"
-description: "Treeconomy is a London-based CDR enabling-tech company focused on MRV and project enablement for nature-based carbon removal. It uses high-resolution satellite"
+description: "Treeconomy is a London-based earth-tech company providing MRV and project-enablement services for nature-based carbon removal. It combines high-resolution"
 url: "/directory/treeconomy/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -11,16 +11,18 @@ liveliness: "🟢 Active"
 **Pathway:** Enabling Tech
 **Secondary pathways:** Afforestation
 **Method:** Afforestation/Reforestation
-**Country:** Portugal
+**Country:** United Kingdom
 **Website:** [https://www.treeconomy.co/](https://www.treeconomy.co/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 88/100)
+**Employees:** ~19 (-17% YoY)
+**LinkedIn Followers:** 8,543
 **Open roles on cdrjobs:** 3
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Treeconomy is a London-based CDR enabling-tech company focused on MRV and project enablement for nature-based carbon removal. It uses high-resolution satellite imagery, drone LiDAR and AI to quantify and monitor forest carbon stocks, supports project developers from concept to credit issuance, and runs a marketplace for afforestation/reforestation removal credits.
+Treeconomy is a London-based earth-tech company providing MRV and project-enablement services for nature-based carbon removal. It combines high-resolution satellite imagery, drone LiDAR, and machine learning to quantify and monitor forest carbon stocks, supports project developers from design to credit issuance, and operates the Sherwood platform/marketplace connecting corporate buyers with afforestation and rewilding removal credits.
 
 ![Treeconomy website](/screenshots/v1-thumbnails/treeconomy.jpg)
 
@@ -30,8 +32,12 @@ Treeconomy is a London-based CDR enabling-tech company focused on MRV and projec
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.treeconomy.co/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.treeconomy.co/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/treeconomyltd/)
 
 ---
 

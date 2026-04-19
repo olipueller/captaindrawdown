@@ -2,23 +2,23 @@
 title: "Carbons Finland"
 layout: "single"
 type: "directory"
-description: "Carbons Finland Oy is a production company of biochar-based products located in Kouvola, Finland, selling products under the Carbons brand, with focus on urban"
+description: "Carbons Finland Oy (formerly Pajupojat Oy) is a small biochar producer based in Kouvola, Finland, founded in 2014 and focused on willow-based porous biochar"
 url: "/directory/carbons-finland/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Finland
 **Website:** [https://carbons.fi/en/home/](https://carbons.fi/en/home/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Status:** 🟡 Moderate (score: 45/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-Carbons Finland Oy is a production company of biochar-based products located in Kouvola, Finland, selling products under the Carbons brand, with focus on urban green spaces as well as filtration and decontamination. The company was founded in 2014 to develop biochar solutions for stormwater treatment, landscaping, composting, nutrient recycling and organic farming. They are registered as a biochar supplier on Puro.earth.
+Carbons Finland Oy (formerly Pajupojat Oy) is a small biochar producer based in Kouvola, Finland, founded in 2014 and focused on willow-based porous biochar for stormwater treatment, landscaping, composting, nutrient recycling and organic farming. Products are sold under the Carbons brand through an online shop, and the company is listed on the Puro.earth biochar registry. It is a micro-enterprise (~1 employee, ~€324k revenue in 2023) but remains registered as active in Finnish company records.
 
 ![Carbons Finland website](/screenshots/v1-thumbnails/carbons-finland.jpg)
 
@@ -28,6 +28,10 @@ Carbons Finland Oy is a production company of biochar-based products located in 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carbons.fi/en/home/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.sitra.fi/en/cases/biochar-enhances-nutrient-recycling-carbon-sequestration/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://carbons.fi/en/home/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://carbons.fi/en/the-company/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,21 +2,35 @@
 title: "Crystaltrade"
 layout: "single"
 type: "directory"
-description: "Crystaltrade — Unknown company in Unknown"
+description: "CrystalTrade is a France-based digital Monitoring, Reporting, and Verification (dMRV) platform for carbon removal projects, operated by Crystalchain. It"
 url: "/directory/crystaltrade/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** France
+**Website:** [https://crystalchain.io/crystaltrade](https://crystalchain.io/crystaltrade)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~31 (+24% YoY)
+**LinkedIn Followers:** 6,313
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+CrystalTrade is a France-based digital Monitoring, Reporting, and Verification (dMRV) platform for carbon removal projects, operated by Crystalchain. It supports biochar and other CDR project developers with traceability, life cycle analysis, and Puro.earth CORC issuance workflows, and also facilitates the sale of credits.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://crystalchain.io/crystaltrade))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/crystaltrade))
+
+[View on LinkedIn](https://www.linkedin.com/company/crystalchain/)
 
 ---
 

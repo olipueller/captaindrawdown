@@ -2,7 +2,7 @@
 title: "Gaia Refinery"
 layout: "single"
 type: "directory"
-description: "Halifax-based Gaia Refinery was founded in 2020 by Dr. Tammy Cai and Genny Shaw to scale up carbon removal systems. The company has developed a dual-capture pro"
+description: "Gaia Refinery is a Halifax-based carbon removal startup founded in 2020 by Dr. Tammy Cai (CTO) and Genny Shaw (CEO) that combines liquid Direct Air Capture"
 url: "/directory/gaia-refinery/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -13,21 +13,24 @@ liveliness: "🟢 Active"
 **Method:** DAC (Liquid Solvent)
 **Country:** Canada
 **Website:** [https://www.gaiarefinery.com/](https://www.gaiarefinery.com/)
-**Status:** 🟢 Active (score: 72/100)
+**Status:** 🟢 Active (score: 80/100)
 **Employees:** ~6 (+50% YoY)
-**LinkedIn Followers:** 613
+**LinkedIn Followers:** 649
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Halifax-based Gaia Refinery was founded in 2020 by Dr. Tammy Cai and Genny Shaw to scale up carbon removal systems. The company has developed a dual-capture process that combines biomass carbon removal (BiCRS) with direct air capture (DAC) to remove CO2 from the atmosphere and biogenic sources, designed for integration into industrial operations. They are a Canadian CDR technology developer (supplier), backed by accelerators including Brinc, Hatcher+, Kiloton Fund, and CICE's Women in Climate Tech program.
+Gaia Refinery is a Halifax-based carbon removal startup founded in 2020 by Dr. Tammy Cai (CTO) and Genny Shaw (CEO) that combines liquid Direct Air Capture with biomass conversion. Its Bio-DAC plug-in technology processes biomass waste (wood chips, crop residues, wastewater) to produce acetic acid that regenerates the DAC sorbent with minimal heat input, reducing energy demand versus conventional DAC. The company is backed by NorthX, CICE, MaRS and Milkywire's Climate Transformation Fund.
 
-![Gaia Refinery website](/screenshots/v1-thumbnails/gaia-refinery.jpg)
+![Gaia Refinery website](/screenshots/gaia-refinery/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://northx.ca/project/gaia-refinery))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.gaiarefinery.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://gaiarefinery.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

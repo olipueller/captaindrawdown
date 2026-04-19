@@ -2,21 +2,37 @@
 title: "South Pole"
 layout: "single"
 type: "directory"
-description: "South Pole — Unknown company in Unknown"
+description: "South Pole is a Zurich-based climate consultancy and carbon project developer founded in 2006. It advises corporates on net-zero strategies, develops and"
 url: "/directory/south-pole/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
+**Secondary pathways:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Switzerland
+**Website:** [https://www.southpole.com](https://www.southpole.com)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~860 (-9% YoY)
+**LinkedIn Followers:** 158,952
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+South Pole is a Zurich-based climate consultancy and carbon project developer founded in 2006. It advises corporates on net-zero strategies, develops and finances carbon credit projects (forestry, renewables, cookstoves), and brokers credits — it is a carbon markets intermediary rather than a CDR technology supplier. The company has been under scrutiny since 2023 over the integrity of its Kariba REDD+ project.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://www.southpole.com))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.southpole.com/ ([source](https://www.cdr.fyi/marketplace/south-pole))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/south-pole))
+
+[View on LinkedIn](https://www.linkedin.com/company/south-pole-/)
 
 ---
 

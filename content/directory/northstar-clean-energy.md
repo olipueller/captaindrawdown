@@ -2,31 +2,38 @@
 title: "NorthStar Clean Energy"
 layout: "single"
 type: "directory"
-description: "NorthStar Clean Energy is a wholly owned subsidiary of CMS Energy (NYSE: CMS) developing one of the first US large-scale BECCS/BiCRS projects at the Filer City"
+description: "NorthStar Clean Energy is a wholly owned unregulated subsidiary of CMS Energy (NYSE: CMS), based in Michigan, developing the Filer City BECCS project — one of"
 url: "/directory/northstar-clean-energy/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** BECCS
 **Method:** BECCS
 **Country:** United States
-**Website:** [https://northstarcleanenergy.com/overview/default.aspx](https://northstarcleanenergy.com/overview/default.aspx)
-**Status:** 🟢 Active (score: 80/100)
+**Website:** [https://northstarcleanenergy.com/](https://northstarcleanenergy.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~109
+**LinkedIn Followers:** 3,165
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-NorthStar Clean Energy is a wholly owned subsidiary of CMS Energy (NYSE: CMS) developing one of the first US large-scale BECCS/BiCRS projects at the Filer City Station in Michigan, with planned commercial operation in 2029. The project would capture and permanently store up to 550,000 tons of CO2 annually and sell carbon removal credits to corporate buyers, alongside the parent firm's broader solar, wind, storage, and natural gas portfolio.
+NorthStar Clean Energy is a wholly owned unregulated subsidiary of CMS Energy (NYSE: CMS), based in Michigan, developing the Filer City BECCS project — one of the first large-scale US bioenergy with carbon capture and storage projects. The project would convert a 73-MW coal plant to biomass firing with Babcock & Wilcox's SolveBright post-combustion capture, targeting up to 550,000 tons of CO2 captured and permanently stored annually. NorthStar also operates a broader 1.5+ GW portfolio of solar, wind, biomass, and gas assets.
 
 ![NorthStar Clean Energy website](/screenshots/v1-thumbnails/northstar-clean-energy.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/northstarcleanenergy/__21wCHSYa3jZVH7X4S9fEwqmCdanhA4k1DbMbmjF2qQE))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.powermag.com/michigan-coal-plant-eyes-beccs-retrofit-could-become-first-us-facility-with-carbon-negative-power/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://northstarcleanenergy.com/solutions/carbon-management-solutions/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/northstarcleanenergy/)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Graphyte"
 layout: "single"
 type: "directory"
-description: "Graphyte is a US-based carbon removal supplier backed by Breakthrough Energy Ventures, Prelude Ventures and Carbon Direct Capital that operates Project Loblolly"
+description: "Founded in 2023 and based in Arkansas, Graphyte is a US carbon-removal startup that uses a proprietary 'Carbon Casting' process to dry and compress timber and"
 url: "/directory/graphyte/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -13,17 +13,17 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://www.graphyte.com/](https://www.graphyte.com/)
 **Status:** 🟢 Active (score: 95/100)
-**Employees:** ~22 (+16% YoY)
-**LinkedIn Followers:** 5,524
+**Employees:** ~21 (+5% YoY)
+**LinkedIn Followers:** 5,703
 **Open roles on cdrjobs:** 2
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_isometric, registry_cdrjobsearth
 
 ## About
 
-Graphyte is a US-based carbon removal supplier backed by Breakthrough Energy Ventures, Prelude Ventures and Carbon Direct Capital that operates Project Loblolly in Pine Bluff, Arkansas, and is developing Project Ponderosa in Arizona. It delivers biomass-burial CDR credits to buyers including American Airlines, JPMorganChase (60,000 tons over 10 years), and Frontier, targeting sub-$100/ton durable removal.
+Founded in 2023 and based in Arkansas, Graphyte is a US carbon-removal startup that uses a proprietary 'Carbon Casting' process to dry and compress timber and agricultural residues into stable buried carbon blocks. The company operates Project Loblolly in Pine Bluff, Arkansas, which issued 15,000 credits in 2025, and is developing Project Ponderosa in Flagstaff, Arizona. It is backed by Breakthrough Energy Ventures, Prelude Ventures and Carbon Direct Capital and recently signed a 10-year, 60,000-tonne deal with JPMorganChase.
 
-![Graphyte website](/screenshots/v1-thumbnails/graphyte.jpg)
+![Graphyte website](/screenshots/graphyte/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -32,6 +32,8 @@ Graphyte is a US-based carbon removal supplier backed by Breakthrough Energy Ven
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.graphyte.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.graphyte.com/post/graphyte-enters-into-carbon-removal-prepurchase-agreement-with-frontier))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

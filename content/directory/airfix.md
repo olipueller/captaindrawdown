@@ -2,7 +2,7 @@
 title: "Airfix"
 layout: "single"
 type: "directory"
-description: "Airfix is a Swiss subsidiary of South Pole, backed by the Migros Pioneer Fund, focused on activating the European BECCS (Bioenergy with Carbon Capture and Stora"
+description: "Airfix is a Swiss subsidiary of South Pole, backed by the Migros Pioneer Fund, focused on developing Europe's BECCS/BiCRS market by structuring biogenic CO2"
 url: "/directory/airfix/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -12,21 +12,24 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** Switzerland
 **Website:** [https://www.airfixcarbon.com/](https://www.airfixcarbon.com/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 88/100)
 **Employees:** ~8 (+33% YoY)
-**LinkedIn Followers:** 2,559
+**LinkedIn Followers:** 2,653
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Airfix is a Swiss subsidiary of South Pole, backed by the Migros Pioneer Fund, focused on activating the European BECCS (Bioenergy with Carbon Capture and Storage) market. It acts as a project developer and CO₂ transport/storage structurer for biogenic emitters, enabling BECCS projects such as the CO2 Energie AG biogas plant near Zurich and a cross-border storage deal with INEOS Greensand announced in January 2026.
+Airfix is a Swiss subsidiary of South Pole, backed by the Migros Pioneer Fund, focused on developing Europe's BECCS/BiCRS market by structuring biogenic CO2 capture, transport and storage projects. Its first projects include the CO2 Energie AG biogas BECCS plant near Zurich and a cross-border CO2 storage agreement with INEOS's Greensand site in Denmark, making it Switzerland's first commercial cross-border CO2 storage deal.
 
-![Airfix website](/screenshots/v1-thumbnails/airfix.jpg)
+![Airfix website](/screenshots/airfix/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.airfixcarbon.com/about-airfix/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.airfixcarbon.com/about-airfix/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,27 +2,31 @@
 title: "Groh Land Air & Water"
 layout: "single"
 type: "directory"
-description: "Groh Land Air & Water is a Wisconsin-based environmental services company that uses biochar as one of several natural tools for sustainable agriculture, water t"
+description: "Groh Land, Air & Water is a Waukesha, Wisconsin-based environmental solutions company that produces biochar alongside microbial products, biopolymers, and"
 url: "/directory/groh-land-air-water/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.grohusa.com/](https://www.grohusa.com/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Groh Land Air & Water is a Wisconsin-based environmental services company that uses biochar as one of several natural tools for sustainable agriculture, water treatment, and ecosystem restoration. They describe biochar as a porous charcoal-like substance created through pyrolysis that sequesters carbon and improves soil health. They are a member of the US Biochar Initiative but there is no public evidence of CDR credit issuance or registry activity.
+Groh Land, Air & Water is a Waukesha, Wisconsin-based environmental solutions company that produces biochar alongside microbial products, biopolymers, and nanobubble water-treatment services. Biochar is a highly porous charcoal-like substance created through the process of pyrolysis, known for its ability to improve soil health, sequester carbon, and enhance agricultural productivity. Their biochar is marketed for agricultural soil amendment, forestry, home gardening, and water filtration, with carbon sequestration presented as a co-benefit.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.grohusa.com/))
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.grohusa.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=review_needed liveliness=🟠 Suspect ([source](https://www.grohusa.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.grohusa.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,29 +2,32 @@
 title: "SIOTUU"
 layout: "single"
 type: "directory"
-description: "SIOTUU Group is an Austrian biochar producer headquartered in Landeck/Fließ that converts residual wood from the Austrian Alps into biochar via Syncraft pyrolys"
+description: "SIOTUU GmbH is an Austrian biochar producer based in Landeck/Fließ that converts residual wood from the Austrian Alps into biochar using Syncraft pyrolysis"
 url: "/directory/siotuu/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Austria
 **Website:** [https://siotuu.com/en/home-e/](https://siotuu.com/en/home-e/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟠 Suspect (score: 40/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-SIOTUU Group is an Austrian biochar producer headquartered in Landeck/Fließ that converts residual wood from the Austrian Alps into biochar via Syncraft pyrolysis technology, generating electricity, heat, and durable carbon removal credits. Products are sold under the Alpenkohle brand across barbecue, agricultural, construction, and industrial/metallurgical segments. Credits have been distributed through platforms such as Klimate.co.
+SIOTUU GmbH is an Austrian biochar producer based in Landeck/Fließ that converts residual wood from the Austrian Alps into biochar using Syncraft pyrolysis technology. Products are marketed under the Alpenkohle brand for barbecue, agricultural, construction and metallurgical applications, and carbon removal credits are distributed through partners including Klimate and featured at European Bioenergy Future 2024.
 
 ![SIOTUU website](/screenshots/v1-thumbnails/siotuu.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.klimate.co/project/siotuu-biochar))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://siotuu.com/en/home-e/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://siotuu.com/en/home/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

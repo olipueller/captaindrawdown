@@ -2,7 +2,7 @@
 title: "Nordic Carbon"
 layout: "single"
 type: "directory"
-description: "Nordic Carbon is a Danish biochar supplier that designs, builds and commissions pyrolysis facilities converting underutilized biomass residues into stable bioch"
+description: "Nordic Carbon is a Danish biochar supplier whose team brings 20+ years of biomass industry experience in sourcing, logistics and commercialisation, focused on"
 url: "/directory/nordic-carbon/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -13,12 +13,14 @@ liveliness: "🟡 Moderate"
 **Country:** Denmark
 **Website:** [https://www.nordiccarbon.dk/](https://www.nordiccarbon.dk/)
 **Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~9
+**LinkedIn Followers:** 526
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Nordic Carbon is a Danish biochar supplier that designs, builds and commissions pyrolysis facilities converting underutilized biomass residues into stable biochar applied to local farmland. The team brings 20+ years of biomass industry experience and generates carbon credits from the sequestered CO₂. Note: distinct from the similarly-named Nordic Carbon Removal Association (nordiccarbon.org).
+Nordic Carbon is a Danish biochar supplier whose team brings 20+ years of biomass industry experience in sourcing, logistics and commercialisation, focused on transforming underutilized biomass into high-quality biochar to create value through carbon sequestration, soil enhancement, and carbon credit generation. The company builds, installs, and commissions complete carbon removal facilities, provides operational support, training and MRV, and uses advanced pyrolysis to transform waste biomass into stable biochar. Distinct from the similarly named Nordic Carbon Removal Association (nordiccarbon.org), which is a non-profit trade association.
 
 ![Nordic Carbon website](/screenshots/v1-thumbnails/nordic-carbon.jpg)
 
@@ -26,7 +28,13 @@ Nordic Carbon is a Danish biochar supplier that designs, builds and commissions 
 ## History
 
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nordiccarbon.dk/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nordiccarbon.dk/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nordiccarbon.dk/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/nordic-carbon/)
 
 ---
 

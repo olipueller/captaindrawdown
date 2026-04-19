@@ -2,7 +2,7 @@
 title: "Longstraw Carbon"
 layout: "single"
 type: "directory"
-description: "Longstraw Carbon is a Delhi, India-based biochar producer founded in 2024 that converts agricultural residues (rice husk, crop straw) into biochar, bio-oil, and"
+description: "Longstraw Carbon is a Delhi, India-based biochar startup founded in 2024 by Utkarsh Raj, Anwita Mukherjee and Vineet Agarwal. The company uses its proprietary"
 url: "/directory/longstraw-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,19 +14,27 @@ liveliness: "🟢 Active"
 **Website:** [https://longstraw.earth/](https://longstraw.earth/)
 **Status:** 🟢 Active (score: 80/100)
 **Employees:** ~5 (+25% YoY)
-**LinkedIn Followers:** 1,532
+**LinkedIn Followers:** 1,850
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Longstraw Carbon is a Delhi, India-based biochar producer founded in 2024 that converts agricultural residues (rice husk, crop straw) into biochar, bio-oil, and syngas via its proprietary STS™ / RiceLoop™ pyrolysis technology. The company operates production sites in Kalahandi and Sambalpur (Odisha) and targets carbon removal markets for Indian smallholder agriculture.
+Longstraw Carbon is a Delhi, India-based biochar startup founded in 2024 by Utkarsh Raj, Anwita Mukherjee and Vineet Agarwal. The company uses its proprietary RiceLoop™ / STS™ pyrolysis process to convert rice husk and other crop residues from Indian rice mills into biochar (targeted at high-integrity CDR standards such as Isometric and Puro.earth), bio-oil and syngas, with active production sites in Kalahandi and Sambalpur, Odisha.
 
-![Longstraw Carbon website](/screenshots/v1-thumbnails/longstraw-carbon.jpg)
+![Longstraw Carbon website](/screenshots/longstraw-carbon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Longstraw Technologies
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://longstraw.earth/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://longstraw.earth ([source](https://www.cdr.fyi/supplier/longstraw-technologies))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/longstraw-technologies))
+- **** — merged duplicate: Longstraw Technologies (slug=longstraw-technologies)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://longstraw.earth/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://longstraw.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

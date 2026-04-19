@@ -2,7 +2,7 @@
 title: "eoc energy ocean"
 layout: "single"
 type: "directory"
-description: "eoc energy ocean GmbH is a Lucerne-based biochar producer founded in 2017 that turns untreated regional wood into EBC AgroBio/Futter+ certified Swiss biochar, b"
+description: "eoc energy ocean GmbH is a Lucerne-based Swiss company that produces and sells EBC-certified biochar (\"Swiss Pflanzenkohle\") from regional forestry wood via"
 url: "/directory/eoc-energy-ocean/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,20 +12,33 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Switzerland
 **Website:** [https://energyocean.ch/](https://energyocean.ch/)
-**Status:** 🟢 Active (score: 78/100)
-**LinkedIn Followers:** 190
+**Status:** 🟢 Active (score: 72/100)
+**LinkedIn Followers:** 192
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-eoc energy ocean GmbH is a Lucerne-based biochar producer founded in 2017 that turns untreated regional wood into EBC AgroBio/Futter+ certified Swiss biochar, binding CO2 and delivering process heat to the local village. The company also advises on pyrolysis projects, biomass utilization, and CO2/EBC certification. It won the Albert Koechlin Foundation's 2024 Environment Award.
+eoc energy ocean GmbH is a Lucerne-based Swiss company that produces and sells EBC-certified biochar ("Swiss Pflanzenkohle") from regional forestry wood via pyrolysis at its plant in Luthern, LU, with waste heat used for district heating. The firm received the Albert Koechlin Foundation Environment Award in 2024 and markets its products to agriculture and animal husbandry sectors.
 
 ![eoc energy ocean website](/screenshots/v1-thumbnails/eoc-energy-ocean.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Energy Ocean
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energyocean.ch/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://energyocean.ch/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energyocean.ch/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.schweizerpflanzenkohle.ch/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **** — merged duplicate: Energy Ocean (slug=energy-ocean)
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energyocean.ch/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.linkedin.com/in/benjamin-schmei%C3%9Fer-3a0b657b/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energyocean.ch/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.schweizerpflanzenkohle.ch/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energyocean.ch/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,22 +2,39 @@
 title: "PlantVillage+"
 layout: "single"
 type: "directory"
-description: "PlantVillage+ — Unknown company in Unknown"
+description: "PlantVillage+ is a worker cooperative originating from Penn State's PlantVillage project that deploys solar-powered \"PyroTower\" pyrolysis units in African"
 url: "/directory/plantvillage/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
+**Secondary pathways:** Afforestation, Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://plantvillageplus.coop/](https://plantvillageplus.coop/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~30 (+400% YoY)
+**LinkedIn Followers:** 2,074
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+PlantVillage+ is a worker cooperative originating from Penn State's PlantVillage project that deploys solar-powered "PyroTower" pyrolysis units in African farming communities (Kenya, Uganda, Burkina Faso) to convert agricultural waste biomass into biochar. The coop sells durable carbon removal credits via subscription, passing 95% of revenue to worker-farmers, and uses AI/satellite tools to monitor sequestration. It was a $1M milestone winner in the XPRIZE Carbon Removal Competition.
+
+![PlantVillage+ website](/screenshots/plantvillage/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://plantvillageplus.coop/carbon/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://plantvillageplus.coop/ ([source](https://www.cdr.fyi/supplier/plantvillageplus))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/plantvillage))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/plantvillageplus))
+
+[View on LinkedIn](https://www.linkedin.com/company/carbon4good.net/)
 
 ---
 

@@ -2,29 +2,32 @@
 title: "Arigna Fuels"
 layout: "single"
 type: "directory"
-description: "Arigna Fuels (part of Arigna Group) is an Irish fifth-generation family firm that transitioned from coal mining/smokeless fuel manufacture to biochar production"
+description: "Arigna Fuels is an Irish fifth-generation family-run firm (part of Arigna Group) that transitioned from smokeless coal manufacturing into biochar production."
 url: "/directory/arigna-fuels/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Ireland
 **Website:** [https://arignafuels.ie/](https://arignafuels.ie/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Arigna Fuels (part of Arigna Group) is an Irish fifth-generation family firm that transitioned from coal mining/smokeless fuel manufacture to biochar production. It operates what has been described as one of Europe's largest biochar production facilities in Co. Roscommon, producing biochar for fuel (Harvest Flame), horticulture, construction and carbon sequestration applications.
+Arigna Fuels is an Irish fifth-generation family-run firm (part of Arigna Group) that transitioned from smokeless coal manufacturing into biochar production. It operates what has been described as one of Europe's largest biochar production facilities in Co. Roscommon, with output used for horticulture, agriculture, construction, carbon sequestration, and as the basis for its Harvest Flame renewable solid fuel.
 
-![Arigna Fuels website](/screenshots/v1-thumbnails/arigna-fuels.jpg)
+![Arigna Fuels website](/screenshots/arigna-fuels/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://arigna-group.com/transitioning-from-black-to-green/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://arignafuels.ie/biochar/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

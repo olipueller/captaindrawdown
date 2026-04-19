@@ -2,7 +2,7 @@
 title: "Dair Capture"
 layout: "single"
 type: "directory"
-description: "Dair Capture is a U.S.-based direct air capture startup developing a DAC technology it claims is roughly 10x cheaper than incumbents, marketed for both carbon s"
+description: "Dair Capture is a U.S.-based direct air capture startup commercializing sorbent-based DAC technology developed at Los Alamos National Laboratory, backed by"
 url: "/directory/dair-capture/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
@@ -13,18 +13,23 @@ liveliness: "🟠 Suspect"
 **Country:** United States
 **Website:** [https://www.dair.energy/](https://www.dair.energy/)
 **Status:** 🟠 Suspect (score: 25/100)
+**Employees:** ~1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Dair Capture is a U.S.-based direct air capture startup developing a DAC technology it claims is roughly 10x cheaper than incumbents, marketed for both carbon sequestration and supply of clean CO2 to industrial users. The company's public footprint is minimal — website only, 0 employees reported on LinkedIn, no registry listings, no funding announcements, and no evidence of deployed hardware or delivered tonnes.
+Dair Capture is a U.S.-based direct air capture startup commercializing sorbent-based DAC technology developed at Los Alamos National Laboratory, backed by three pending U.S. patents. The company claims a ~10x cost reduction versus incumbent DAC technologies and markets clean CO2 supply for industrial uses such as cement, healthcare, and beverages, alongside sequestration. Public footprint is minimal — no funding announcements, no recent press, and no detectable LinkedIn employees — though the company website remains live.
 
 ![Dair Capture website](/screenshots/v1-thumbnails/dair-capture.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.dair.energy/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.dair.energy/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.dair.energy/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.dair.energy/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

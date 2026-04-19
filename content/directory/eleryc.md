@@ -2,28 +2,41 @@
 title: "Eleryc"
 layout: "single"
 type: "directory"
-description: "Eleryc, Inc. is a US-based CDR startup that acquired electrochemical hydroxide-generation patents from Arelac/Fortera in October 2023 and submitted a Frontier C"
+description: "Eleryc, Inc. is a venture-backed stealth climate-tech startup based in San Jose, California, developing low-energy electrochemical hydroxide-generation"
 url: "/directory/eleryc/"
-pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+pathway: "DAC"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Enhanced Weathering
+**Pathway:** DAC
+**Secondary pathways:** Ocean CDR
 **Method:** DAC (Liquid Solvent)
 **Country:** United States
 **Website:** [https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 85/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Eleryc, Inc. is a US-based CDR startup that acquired electrochemical hydroxide-generation patents from Arelac/Fortera in October 2023 and submitted a Frontier Climate Summer 2025 prepurchase application. Their technology uses low-energy electrochemistry to generate alkalinity that converts CO2 into stable bicarbonate/carbonate species for long-term storage, placing them in the ocean alkalinity enhancement / electrochemical OAE category rather than liquid-solvent DAC as previously recorded.
+Eleryc, Inc. is a venture-backed stealth climate-tech startup based in San Jose, California, developing low-energy electrochemical hydroxide-generation technology for direct air capture and industrial decarbonization. The company acquired a portfolio of electrochemical CO2/hydroxide patents from Arelac (dba Fortera), originally traceable to Calera Corporation. In 2025 Eleryc applied to Frontier Climate's summer prepurchase round and leased 45,000 sq ft of industrial space in San Jose to scale up its DAC demonstration.
+
+![Eleryc website](/screenshots/geolocked/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Geolocked
+- **2026-04-19** — refresh: screenshot
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BGeolocked%5D%20Frontier%202025%20Prepurchase%20Application%20vF.pdf))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BGeolocked%5D%20Frontier%202025%20Prepurchase%20Application%20vF.pdf))
+- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **** — merged duplicate: Geolocked (slug=geolocked)
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://patents.google.com/patent/US7790012B2/en))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

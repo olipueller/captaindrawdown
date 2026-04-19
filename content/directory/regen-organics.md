@@ -2,32 +2,39 @@
 title: "Regen Organics"
 layout: "single"
 type: "directory"
-description: "Regen Organics is a Nairobi, Kenya-based social venture operating the largest organic recycling plant in East Africa, using a circular economy model to upcycle"
+description: "Regen Organics is a Nairobi-based social venture and founding member of the Sanergy Collaborative that operates the largest organic recycling plant in East"
 url: "/directory/regen-organics/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Secondary pathways:** Afforestation
 **Method:** Biochar
 **Country:** Kenya
-**Website:** [https://www.regenorganics.co/products/](https://www.regenorganics.co/products/)
-**Status:** 🟢 Active (score: 80/100)
+**Website:** [https://www.regenorganics.co/](https://www.regenorganics.co/)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~44 (-10% YoY)
+**LinkedIn Followers:** 5,807
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Regen Organics is a Nairobi, Kenya-based social venture operating the largest organic recycling plant in East Africa, using a circular economy model to upcycle sanitation and organic waste into insect-based protein, organic fertilizer, and biomass fuel. In partnership with TakaChar, it is piloting a pyrolysis plant in Machakos County that converts bagasse and mango/avocado processing waste into biochar to be blended into its fertilizer offering. Regen Organics sells carbon credits through both traditional and on-chain markets.
+Regen Organics is a Nairobi-based social venture and founding member of the Sanergy Collaborative that operates the largest organic recycling plant in East Africa, converting sanitation and agricultural waste into insect protein, organic fertilizer (EverGrow/Farm Star), and biomass fuel. In partnership with TakaChar, it runs a pyrolysis biochar pilot in Machakos County processing bagasse and mango/avocado waste, targeting >800 tonnes/year of biochar and issuing carbon credits through both traditional and on-chain markets.
 
 ![Regen Organics website](/screenshots/v1-thumbnails/regen-organics.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.regenorganics.co/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.regenorganics.co/products/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.regenorganics.co/products/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/regenorganics/)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Carborok"
 layout: "single"
 type: "directory"
-description: "Carborok is a Nantes-based French startup, a spin-off of engineering firm Voltigital, founded in 2021. It designs, builds and operates CO2 mineralization units"
+description: "Carborok is a Nantes-based French startup and spin-off of engineering firm Voltigital, focused on CO2 mineralization in recycled concrete and alkaline"
 url: "/directory/carborok/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -19,9 +19,9 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carborok is a Nantes-based French startup, a spin-off of engineering firm Voltigital, founded in 2021. It designs, builds and operates CO2 mineralization units that sequester biogenic CO2 in recycled concrete and alkaline industrial wastes, and also sells reactors and licenses. The company runs a pilot reactor at Chauvé (Ocaapi project) backed by France2030 and GRDF's bioCO2 sequestration call.
+Carborok is a Nantes-based French startup and spin-off of engineering firm Voltigital, focused on CO2 mineralization in recycled concrete and alkaline industrial wastes. The company designs, builds, and operates mineralization reactors, including a pilot at Chauvé (Ocaapi project) in Loire-Atlantique. It partners with biogenic CO2 producers and construction companies like Bouygues to sequester CO2 in carbonated concrete aggregates.
 
-![Carborok website](/screenshots/v1-thumbnails/carborok.jpg)
+![Carborok website](/screenshots/carborok/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,6 +29,8 @@ Carborok is a Nantes-based French startup, a spin-off of engineering firm Voltig
 
 ## History
 
+- **2026-04-19** — refresh: screenshot
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carborok.com/en))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carborok.com/en))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

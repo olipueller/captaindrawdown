@@ -2,27 +2,33 @@
 title: "Green State Biochar"
 layout: "single"
 type: "directory"
-description: "Green State Biochar is a family-run Vermont biochar producer based in Greensboro Bend, making biochar from locally sourced waste wood for soil amendment, manure"
+description: "Green State Biochar is a small family-run biochar producer in Greensboro Bend, Vermont, founded by Roger and Donna Pion and Luke Persons. They produce biochar"
 url: "/directory/green-state-biochar/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://greenstatebiochar.com/](https://greenstatebiochar.com/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Status:** 🟡 Moderate (score: 45/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Green State Biochar is a family-run Vermont biochar producer based in Greensboro Bend, making biochar from locally sourced waste wood for soil amendment, manure management, and runoff filtration. The company operates a homemade pyrolysis kiln producing a few hundred pounds per day and sells in buckets and supersacks to farmers, consumers, and researchers.
+Green State Biochar is a small family-run biochar producer in Greensboro Bend, Vermont, founded by Roger and Donna Pion and Luke Persons. They produce biochar via pyrolysis from locally sourced waste wood purchased from Northeast Kingdom sawmills, selling it for soil amendment and using it in on-farm filtration systems for manure runoff and phosphorus capture. Production is bench-scale (hundreds of pounds per day) and the firm has not issued registry-tracked CDR credits.
+
+![Green State Biochar website](/screenshots/green-state-biochar/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://greenstatebiochar.com/))
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://greenstatebiochar.com/newsroom/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://greenstatebiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://greenstatebiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

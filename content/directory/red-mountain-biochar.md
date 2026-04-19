@@ -2,7 +2,7 @@
 title: "Red Mountain Biochar"
 layout: "single"
 type: "directory"
-description: "Red Mountain Biochar is a Texas-based biochar producer that transforms forestry and lumber residuals into biochar, biocoal, and carbon black via pyrolysis, targ"
+description: "Red Mountain Biochar is a Texas-based (Atlanta, TX) biochar producer that transforms forestry and agricultural waste biomass into biochar, BioCoal, and Carbon"
 url: "/directory/red-mountain-biochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,19 +12,27 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://redmountainbiochar.com/](https://redmountainbiochar.com/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~3 (-40% YoY)
+**LinkedIn Followers:** 694
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Red Mountain Biochar is a Texas-based biochar producer that transforms forestry and lumber residuals into biochar, biocoal, and carbon black via pyrolysis, targeting concrete, steel, and agricultural markets. In late 2024 they formed a 50/50 joint venture (BluMountain Carbon) with BluSky Carbon to commercialize biochar offtake and project financing in the Southern U.S., and have signed LOIs on projects in Orlando and Tanzania.
+Red Mountain Biochar is a Texas-based (Atlanta, TX) biochar producer that transforms forestry and agricultural waste biomass into biochar, BioCoal, and Carbon Black via pyrolysis. In October 2024 it formed BluMountain Carbon, a 50/50 joint venture with publicly-listed BluSky Carbon Inc., which subsequently signed LOIs for biochar projects in Orlando, Tanzania, and the southeastern US using BluSky's Vulcan pyrolysis equipment. CEO Bill Wyatt continues to publicly promote the company as of mid-2025.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://redmountainbiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://redmountainbiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/red-mountain-biochar/)
 
 ---
 

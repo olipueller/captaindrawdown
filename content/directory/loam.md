@@ -2,22 +2,37 @@
 title: "Loam"
 layout: "single"
 type: "directory"
-description: "Loam — Unknown company in Unknown"
+description: "Loam Bio is an Australian agritech company (founded 2019, HQ in Orange, NSW) that develops microbial seed treatments using endophytic fungi to increase stable"
 url: "/directory/loam/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**Website:** [https://ats.rippling.com/en-GB/loam-bio/jobs/cad8d0a4-8e98-4e1d-8e2b-770ce4013644](https://ats.rippling.com/en-GB/loam-bio/jobs/cad8d0a4-8e98-4e1d-8e2b-770ce4013644)
-**CDR Focus:** unclassified
+**Country:** Australia
+**Website:** [https://www.loambio.com/](https://www.loambio.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~77
+**LinkedIn Followers:** 19,565
+**CDR Focus:** supplier
 **Evidence signals:** cdrjobs, hiring, cdrfyi_listing
+
+## About
+
+Loam Bio is an Australian agritech company (founded 2019, HQ in Orange, NSW) that develops microbial seed treatments using endophytic fungi to increase stable carbon sequestration in agricultural soils. Its CarbonBuilder product and SecondCrop carbon program generate soil carbon credits for broadacre grain farmers in Australia, the US, Canada, and Brazil. The company has raised roughly $120M including a $73M Series B.
+
+![Loam website](/screenshots/loam/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.loambio.com/us/))
 - **2026-04-19** — discovered via: cdrjobs, cdrfyi ([source](https://www.cdrjobs.earth/job-board))
+
+[View on LinkedIn](https://www.linkedin.com/company/soilcarbonco/)
 
 ---
 

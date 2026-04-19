@@ -2,7 +2,7 @@
 title: "Co-reactive"
 layout: "single"
 type: "directory"
-description: "Co-reactive is a Düsseldorf-based climate-tech startup, spun out of RWTH Aachen University in 2024, that converts CO2 with silicate minerals (olivine) or metall"
+description: "Co-reactive is a Düsseldorf-based climate-tech startup, spun out of RWTH Aachen University in 2024, that operates a continuous ex-situ CO2 mineralization"
 url: "/directory/co-reactive/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -13,21 +13,23 @@ liveliness: "🟢 Active"
 **Country:** Germany
 **Website:** [https://www.co-reactive.com/](https://www.co-reactive.com/)
 **Status:** 🟢 Active (score: 92/100)
-**Employees:** ~15 (+67% YoY)
-**LinkedIn Followers:** 2,381
+**Employees:** ~17 (+70% YoY)
+**LinkedIn Followers:** 2,939
 **CDI Portfolio Company**
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Co-reactive is a Düsseldorf-based climate-tech startup, spun out of RWTH Aachen University in 2024, that converts CO2 with silicate minerals (olivine) or metallurgical slags into CO2-negative supplementary cementitious materials (CO-SCMs) via a continuous mineralization process. In January 2026 the company closed a €6.5M seed round led by HTGF to scale from pilot to a 1,000-ton/year demonstration plant in Q2 2026, with industrial-scale plants planned from 2027. CO2 is permanently bound as stable carbonates within the SCM product.
+Co-reactive is a Düsseldorf-based climate-tech startup, spun out of RWTH Aachen University in 2024, that operates a continuous ex-situ CO2 mineralization process converting captured CO2 together with magnesium/calcium silicate minerals (olivine) or metallurgical slags (EAF/BOF) into CO2-negative supplementary cementitious materials (CO-SCMs) for cement and concrete. The company claims around 330 kg of CO₂ permanently stored per tonne of CO-SCM, enabling carbon-negative construction materials. In January 2026 it closed a €6.5M seed round led by HTGF with NRW.Bank, HBG Ventures, AFI Ventures, Evercurious VC and climate-tech angels, plus seven-figure BMWE grants, and has since been selected for the EIC Accelerator.
 
-![Co-reactive website](/screenshots/v1-thumbnails/co-reactive.jpg)
+![Co-reactive website](/screenshots/co-reactive/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://www.carbon-drawdown.de/))
 

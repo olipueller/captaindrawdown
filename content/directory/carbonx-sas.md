@@ -2,21 +2,42 @@
 title: "Carbonx SAS"
 layout: "single"
 type: "directory"
-description: "Carbonx SAS — Unknown company in Unknown"
+description: "Carbonx SAS (Paris-based, founded 2022 by Paolo Piffaretti and Sébastien Dewarrat) is a durable carbon removal procurement, finance, and portfolio management"
 url: "/directory/carbonx-sas/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** France
+**Website:** [https://www.climefi.com/](https://www.climefi.com/)
+**Status:** 🟢 Active (score: 95/100)
+**Employees:** ~31 (+41% YoY)
+**LinkedIn Followers:** 9,539
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Carbonx SAS (Paris-based, founded 2022 by Paolo Piffaretti and Sébastien Dewarrat) is a durable carbon removal procurement, finance, and portfolio management service provider for corporate buyers. The company rebranded to ClimeFi and has since facilitated hundreds of thousands of tonnes of contracted dCDR on behalf of clients including the LEGO Group, backed by investors such as ENGIE New Ventures, Redstone and PROfounders.
+
+![Carbonx SAS website](/screenshots/carbonx-sas/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): ClimeFi
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.climefi.com/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.climefi.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://www.climefi.com))
+- **** — merged duplicate: ClimeFi (slug=climefi)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.climefi.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbonx-sas))
+
+[View on LinkedIn](https://www.linkedin.com/company/carbonx-world/)
 
 ---
 

@@ -2,30 +2,36 @@
 title: "UrjanovaC"
 layout: "single"
 type: "directory"
-description: "UrjanovaC is a Mumbai-based startup spun out of IIT Bombay's DST-supported National Centre of Excellence in Carbon Capture and Utilization, co-founded by Prof."
+description: "UrjanovaC is a Mumbai-based startup incubated at IIT Bombay's SINE, co-founded in 2023 by Prof. Vikram Vishal and Prof. Arnab Dutta, spun out of the"
 url: "/directory/urjanovac/"
-pathway: "Mineralization"
+pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Secondary pathways:** DAC
+**Pathway:** DAC
+**Secondary pathways:** Mineralization
 **Method:** DAC (Other/Undisclosed)
 **Country:** India
 **Website:** [https://www.urjanovac.com/](https://www.urjanovac.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~13 (+86% YoY)
+**LinkedIn Followers:** 7,398
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-UrjanovaC is a Mumbai-based startup spun out of IIT Bombay's DST-supported National Centre of Excellence in Carbon Capture and Utilization, co-founded by Prof. Vikram Vishal and Prof. Arnab Dutta. The company is developing a catalyst-based aqueous CO2 capture technology (TRL 5) that works on both industrial flue gas and ambient air, with captured CO2 converted into stable mineral carbonates. The team is building a 3 tonnes-per-day pilot at IIT Bombay.
+UrjanovaC is a Mumbai-based startup incubated at IIT Bombay's SINE, co-founded in 2023 by Prof. Vikram Vishal and Prof. Arnab Dutta, spun out of the DST-supported National Centre of Excellence in Carbon Capture and Utilization. The company is developing a patented aqueous, catalyst-based CO2 capture technology (TRL 5) that captures CO2 from flue gas or ambient air using water, converting it into mineral carbonates, and is deploying a 3-tonne-per-day pilot at IIT Bombay. It has won multiple 2025 awards including NASSCOM Emerge50, the Avinya Energy Startup Challenge at India Energy Week 2025, and the Carbon Capture Technology Hackathon 2025.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dst.gov.in/newly-developed-resilient-cost-effective-carbon-capture-technology-represents-significant))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://in.linkedin.com/company/urjanovac-pvt-ltd))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/urjanovac-pvt-ltd/)
 
 ---
 

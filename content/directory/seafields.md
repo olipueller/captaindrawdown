@@ -2,10 +2,10 @@
 title: "Seafields"
 layout: "single"
 type: "directory"
-description: "Seafields is a UK-based aquaculture business whose mission is to harness the ocean to grow huge amounts of biomass for carbon dioxide removal by growing and har"
+description: "Seafields is a UK-based aquaculture company that intercepts and farms pelagic Sargassum seaweed in floating AlgaePonix paddocks, primarily deployed in the"
 url: "/directory/seafields/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Ocean CDR
@@ -13,21 +13,35 @@ liveliness: "🟢 Active"
 **Method:** Marine CDR (Other)
 **Country:** United Kingdom
 **Website:** [https://www.seafields.eco/](https://www.seafields.eco/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~20 (0% YoY)
+**LinkedIn Followers:** 2,369
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Seafields is a UK-based aquaculture business whose mission is to harness the ocean to grow huge amounts of biomass for carbon dioxide removal by growing and harvesting the floating seaweed Sargassum in the Atlantic Ocean. The company combines offshore Sargassum aquaculture with artificial upwelling, valorises biomass into bio-based products, and converts any unsold pulp into biochar, which can be used in green concrete and other sustainable building materials, locking the carbon away for hundreds to thousands of years. They also pilot Caribbean beach-protection contracts and plan deep-sea biomass sinking for permanent sequestration.
+Seafields is a UK-based aquaculture company that intercepts and farms pelagic Sargassum seaweed in floating AlgaePonix paddocks, primarily deployed in the Caribbean. The company valorises the biomass into biostimulants, bioplastics and other bio-products, with unsold pulp converted to biochar and plans to sink baled Sargassum in ocean gyres for carbon removal.
 
 ![Seafields website](/screenshots/v1-thumbnails/seafields.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Seafields Solutions Limited
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seafields.eco))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://seafields.eco/ ([source](https://www.cdr.fyi/supplier/seafields-solutions-limited))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/seafields-solutions-limited))
+- **** — merged duplicate: Seafields Solutions Limited (slug=seafields-solutions-limited)
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seafields.eco/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seafields.eco/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/seafieldssl/)
 
 ---
 

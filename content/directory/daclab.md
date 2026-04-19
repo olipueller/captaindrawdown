@@ -2,29 +2,32 @@
 title: "DACLAB"
 layout: "single"
 type: "directory"
-description: "DACLab is a Palo Alto-based climate-tech startup developing modular solid-sorbent direct air capture (DAC) systems using a patent-pending Temperature Vacuum Swi"
+description: "DACLab is a Palo Alto-based climate-tech startup developing a modular solid-sorbent direct air capture system branded \"Kelvin,\" using a patent-pending"
 url: "/directory/daclab/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
-**Website:** [https://www.daclab.us/home](https://www.daclab.us/home)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~3 (+200% YoY)
-**LinkedIn Followers:** 287
+**Website:** [https://www.daclab.us](https://www.daclab.us)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~3 (0% YoY)
+**LinkedIn Followers:** 288
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-DACLab is a Palo Alto-based climate-tech startup developing modular solid-sorbent direct air capture (DAC) systems using a patent-pending Temperature Vacuum Swing Adsorption (TVSA) cycle that regenerates at ultra-low temperatures (~70°C) and under 1,800 kWh/ton. It launched out of stealth in September 2025 with a $3M seed round and its first commercial "Kelvin" product line aimed at e-fuels and CO2 sequestration markets.
+DACLab is a Palo Alto-based climate-tech startup developing a modular solid-sorbent direct air capture system branded "Kelvin," using a patent-pending Temperature Vacuum Swing Adsorption (TVSA) cycle that regenerates at ~70°C and under 1,800 kWh/ton. The company emerged from stealth in September 2025 with a $3M seed round led by Peter Relan, with participation from Silver Lake co-founder Dave Roux and WovenEarth Ventures, and is targeting e-fuels producers and CO2 sequestration operators. Founded in 2023 by Aditya Bhandari and Samip Bhavsar, the technology was adapted from a TU Wien/Shell point-source capture project.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2025/09/18/daclab-says-it-can-remove-co2-using-less-electricity-than-many-competitors/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.daclab.us/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

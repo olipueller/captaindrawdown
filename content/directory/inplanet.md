@@ -2,7 +2,7 @@
 title: "InPlanet"
 layout: "single"
 type: "directory"
-description: "InPlanet is a Brazil/Germany-based CDR supplier pioneering tropical Enhanced Rock Weathering, spreading finely crushed basalt on farmland to permanently sequest"
+description: "InPlanet is a Brazil/Germany-based AgTech company pioneering tropical Enhanced Rock Weathering (ERW), spreading finely crushed basalt on farmland to"
 url: "/directory/inplanet/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -13,8 +13,8 @@ liveliness: "🟢 Active"
 **Country:** Brazil
 **Website:** [https://inplanet.earth/](https://inplanet.earth/)
 **Status:** 🟢 Active (score: 95/100)
-**Employees:** ~76 (+92% YoY)
-**LinkedIn Followers:** 20,224
+**Employees:** ~81 (+80% YoY)
+**LinkedIn Followers:** 21,373
 **Open roles on cdrjobs:** 4
 **CDI Portfolio Company**
 **CDR Focus:** supplier
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-InPlanet is a Brazil/Germany-based CDR supplier pioneering tropical Enhanced Rock Weathering, spreading finely crushed basalt on farmland to permanently sequester CO2 as bicarbonates while improving soil fertility. The company delivered the world's first independently verified ERW credits (via Isometric) and in December 2025 signed a deal with Microsoft for 28,500+ tonnes to be delivered 2026-2028.
+InPlanet is a Brazil/Germany-based AgTech company pioneering tropical Enhanced Rock Weathering (ERW), spreading finely crushed basalt on farmland to permanently sequester CO2 as bicarbonates while improving soil fertility. It delivered the world's first independently verified ERW credits via Isometric in late 2024, and in December 2025 signed an agreement with Microsoft to deliver 28,500+ tonnes between 2026 and 2028. The company operates the largest ERW program in Brazil, covering more than 12,000 hectares of farmland.
 
 ![InPlanet website](/screenshots/v1-thumbnails/inplanet.jpg)
 
@@ -33,6 +33,8 @@ InPlanet is a Brazil/Germany-based CDR supplier pioneering tropical Enhanced Roc
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://inplanet.earth/press/inplanet-secures-agreement-to-deliver-28500-enhanced-rock-weathering-credits-to-microsoft-providing-durable-carbon-removal-and-regenerative-agriculture-benefits-in-brazil/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://inplanet.earth/press/inplanet-secures-agreement-to-deliver-28500-enhanced-rock-weathering-credits-to-microsoft-providing-durable-carbon-removal-and-regenerative-agriculture-benefits-in-brazil/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

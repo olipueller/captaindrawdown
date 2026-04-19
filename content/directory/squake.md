@@ -2,21 +2,36 @@
 title: "SQUAKE"
 layout: "single"
 type: "directory"
-description: "SQUAKE — Unknown company in Unknown"
+description: "SQUAKE is a Berlin-based climate tech company providing an API-based platform for carbon calculations and automated carbon credit procurement, primarily"
 url: "/directory/squake/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Germany
+**Website:** [https://www.squake.earth](https://www.squake.earth)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~21
+**LinkedIn Followers:** 5,339
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+SQUAKE is a Berlin-based climate tech company providing an API-based platform for carbon calculations and automated carbon credit procurement, primarily serving the travel and logistics industries. The platform integrates with booking and expense systems to calculate emissions and enables customers to purchase reduction and removal credits (including DAC, reforestation, and SAF) from a network of 150+ providers.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.squake.earth/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.squake.earth ([source](https://www.cdr.fyi/marketplace/SQUAKE))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/SQUAKE))
+
+[View on LinkedIn](https://www.linkedin.com/company/squake/)
 
 ---
 

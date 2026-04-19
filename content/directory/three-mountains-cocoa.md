@@ -2,7 +2,7 @@
 title: "Three Mountains Cocoa"
 layout: "single"
 type: "directory"
-description: "Three Mountains Cocoa (TMC) is a Ghanaian cocoa cooperative founded by Leslie Agyare that works with over 2,000 farmers across 15 communities producing organic"
+description: "Three Mountains Cocoa is a Ghanaian organic cocoa cooperative whose biochar project with Terraton is expected to remove more than 20,000 tons of CO2 annually"
 url: "/directory/three-mountains-cocoa/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,19 +11,28 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Ghana
-**Status:** 🟢 Active (score: 78/100)
+**Website:** [https://threemountainscocoa.com](https://threemountainscocoa.com)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~6 (0% YoY)
+**LinkedIn Followers:** 3,604
 **CDR Focus:** supplier
 **Evidence signals:** last_evidence_url
 
 ## About
 
-Three Mountains Cocoa (TMC) is a Ghanaian cocoa cooperative founded by Leslie Agyare that works with over 2,000 farmers across 15 communities producing organic single-origin cocoa beans. The Three Mountains Cocoa biochar project in Ghana, developed with Terraton and with preliminary approval from Puro.earth, is expected to contribute to over 20,000 tons of annual CO₂ removal, and Terraset has committed a six-figure carbon credit pre-purchase from the project. TMC serves as the host site and feedstock supplier (cocoa pod husk) for the biochar facility, which is listed on Puro.earth under its name.
+Three Mountains Cocoa is a Ghanaian organic cocoa cooperative whose biochar project with Terraton is expected to remove more than 20,000 tons of CO2 annually (alongside Terraton's Kenya project), channeling new income to smallholder farmers through waste payments and improved soils. The project has preliminary approval from Puro.earth, and nonprofit climate fund Terraset has committed to a six-figure carbon credit pre-purchase from Three Mountains Cocoa. Puro.earth lists the facility as in early development with feasibility study ongoing, and notes it is fully funded and being implemented.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-africa/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://threemountainscocoa.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-africa/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/three-mountains-biochar-faclity-138))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/three-mountains-cocoa/)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Takachar"
 layout: "single"
 type: "directory"
-description: "Takachar is an MIT-spinoff social enterprise that builds portable, tractor-mounted pyrolysis/torrefaction reactors to convert agricultural and forestry residues"
+description: "Takachar is an MIT-spinoff social enterprise developing small-scale, portable biomass thermochemical conversion units (the Takavator and larger T1000) that"
 url: "/directory/takachar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,16 +12,18 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://takachar.com/](https://takachar.com/)
-**Status:** 🟢 Active (score: 88/100)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~24 (+9% YoY)
+**LinkedIn Followers:** 6,593
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Takachar is an MIT-spinoff social enterprise that builds portable, tractor-mounted pyrolysis/torrefaction reactors to convert agricultural and forestry residues into biochar at the farm gate. The company launched commercial sales of its Takavator unit in October 2025 and operates in the US, Canada, India, Kenya and other markets. It is a previous Earthshot Prize and XPRIZE Carbon Removal winner.
+Takachar is an MIT-spinoff social enterprise developing small-scale, portable biomass thermochemical conversion units (the Takavator and larger T1000) that produce biochar from crop and forest residues in rural, often off-grid settings. The company commercially launched the Takavator in October 2025 and has deployed units across the US, Canada, India, Kenya and Iraq, with carbon credits sold through the Milkywire Climate Transformation Fund. It is a 2021 Earthshot Prize winner and XPRIZE Carbon Removal finalist.
 
-![Takachar website](/screenshots/v1-thumbnails/takachar.jpg)
+![Takachar website](/screenshots/takachar/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,8 +31,12 @@ Takachar is an MIT-spinoff social enterprise that builds portable, tractor-mount
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://takachar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://takachar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/takachar/)
 
 ---
 

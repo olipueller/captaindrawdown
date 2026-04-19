@@ -2,20 +2,32 @@
 title: "Tupana"
 layout: "single"
 type: "directory"
-description: "Tupana — Unknown company in Unknown"
+description: "Tupana (Tupana RGN) is a climate-tech startup focused on carbon removal and emission reduction through biochar technology, converting agricultural waste into"
 url: "/directory/tupana/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Brazil
+**Website:** [https://www.tupana.earth/](https://www.tupana.earth/)
+**Status:** 🟡 Moderate (score: 60/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Tupana (Tupana RGN) is a climate-tech startup focused on carbon removal and emission reduction through biochar technology, converting agricultural waste into fixed carbon for sale in voluntary carbon markets. The company is currently validating its solution via laboratory and field experiments, including pilot pyrolysis operations and biochar quality testing for >100-year permanence.
+
+![Tupana website](/screenshots/tupana/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.tupana.earth/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.tupana.earth/ ([source](https://www.cdr.fyi/supplier/tupana))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/tupana))
 
 ---

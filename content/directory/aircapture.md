@@ -2,7 +2,7 @@
 title: "Aircapture"
 layout: "single"
 type: "directory"
-description: "Founded in 2019, Aircapture provides modular on-site DAC machines to produce CO2 at the site of industrial demand, and in late 2024 teamed up with 44.01 to laun"
+description: "Aircapture is a Berkeley, California-based direct air capture company founded in 2019 that builds modular, containerized DAC units installed on-site at"
 url: "/directory/aircapture/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -14,17 +14,17 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://www.aircapture.com/](https://www.aircapture.com/)
 **Status:** 🟢 Active (score: 95/100)
-**Employees:** ~49 (+17% YoY)
-**LinkedIn Followers:** 5,998
+**Employees:** ~50
+**LinkedIn Followers:** 6,109
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Founded in 2019, Aircapture provides modular on-site DAC machines to produce CO2 at the site of industrial demand, and in late 2024 teamed up with 44.01 to launch a DAC-to-sequestration project in Fujairah, UAE, where captured CO2 is mineralised into rock. In June 2025 the company announced a $50 million Series A round led by the Larsen Lam Climate Change Foundation to scale deployment of its modular DAC systems, following its 2025 XPRIZE Carbon Removal win. Most output serves CO2-as-a-Service (beverage, concrete, agriculture), but Project Hajar provides a permanent removal pathway.
+Aircapture is a Berkeley, California-based direct air capture company founded in 2019 that builds modular, containerized DAC units installed on-site at industrial customers (food, beverage, concrete, manufacturing) to supply high-purity atmospheric CO2. In 2025 it won the XPRIZE Carbon Removal with partner 44.01 for Project Hajar in the UAE, raised a $50M Series A led by the Larsen Lam Climate Change Foundation, and opened Japan's first DAC plant with Aizawa Concrete in Fukushima.
 
-![Aircapture website](/screenshots/v1-thumbnails/aircapture.jpg)
+![Aircapture website](/screenshots/aircapture/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -32,6 +32,9 @@ Founded in 2019, Aircapture provides modular on-site DAC machines to produce CO2
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.esgtoday.com/direct-air-capture-startup-aircapture-raises-50-million-to-remove-and-re-use-co2-at-industrial-sites/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/aircapture-secures-50m-in-series-a-funding-to-scale-its-modular-dac-tech/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,21 +2,35 @@
 title: "Climate Impact X"
 layout: "single"
 type: "directory"
-description: "Climate Impact X — Unknown company in Unknown"
+description: "Climate Impact X (CIX) is a Singapore-headquartered global carbon exchange and marketplace for verified carbon credits and environmental commodities, with"
 url: "/directory/climate-impact-x/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Singapore
+**Website:** [https://www.climateimpactx.com/](https://www.climateimpactx.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~139 (-3% YoY)
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Climate Impact X (CIX) is a Singapore-headquartered global carbon exchange and marketplace for verified carbon credits and environmental commodities, with offices in London. It was jointly founded by DBS Bank, GenZero (Temasek), Standard Chartered, Mizuho, and Singapore Exchange (SGX), and operates spot trading, auctions, and a project marketplace including a carbon removals contract series.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://climateimpactx.com/about/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.climateimpactx.com/ ([source](https://www.cdr.fyi/marketplace/climate-impact-x))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/climate-impact-x))
+
+[View on LinkedIn](https://www.linkedin.com/company/new-york-mercantile-exchange/)
 
 ---
 

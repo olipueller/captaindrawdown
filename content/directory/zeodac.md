@@ -2,7 +2,7 @@
 title: "ZeoDAC"
 layout: "single"
 type: "directory"
-description: "Founded in June 2023, the Atlanta-based company was established by Professor Christopher W. Jones (Georgia Tech) and Professor Mark E. Davis (Caltech) to extrac"
+description: "ZeoDAC, Inc. was founded in June 2023 by Professors Christopher Jones (Georgia Tech) and Mark E. Davis (Caltech), holds an exclusive worldwide license to"
 url: "/directory/zeodac/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -13,20 +13,26 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://www.zeodac.com/](https://www.zeodac.com/)
 **Status:** 🟢 Active (score: 80/100)
+**Employees:** ~11 (+83% YoY)
+**LinkedIn Followers:** 773
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Founded in June 2023, the Atlanta-based company was established by Professor Christopher W. Jones (Georgia Tech) and Professor Mark E. Davis (Caltech) to extract carbon dioxide from air using zeolites. Investors include Wilson Hill Ventures, Caltech, Coca-Cola Europacific Partners, Freeflow Ventures and Global Brain. Note: captured CO2 may be sequestered or used in beverages/chemicals, so end-use pathway is a mix of CDR and CCU.
+ZeoDAC, Inc. was founded in June 2023 by Professors Christopher Jones (Georgia Tech) and Mark E. Davis (Caltech), holds an exclusive worldwide license to Caltech zeolite IP, and is hosted at the Advanced Technology Development Center on the Georgia Tech campus in Atlanta. The company secured funding from institutional venture capital and strategic investors led by Wilson Hill Ventures. Captured CO₂ can be used in carbonated beverages, chemical manufacturing, or sequestration, making end-use mixed between CDR and CCU.
 
 ![ZeoDAC website](/screenshots/v1-thumbnails/zeodac.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.zeodac.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.zeodac.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/zeodac-inc/)
 
 ---
 

@@ -2,21 +2,34 @@
 title: "Zeru Earth"
 layout: "single"
 type: "directory"
-description: "Zeru Earth — Unknown company in Unknown"
+description: "Zeru.Earth was a UK-based Web3 carbon removal marketplace and subscription climate app founded in 2022 (formerly Carbon Captors), offering a personal carbon"
 url: "/directory/zeru-earth/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United Kingdom
+**Website:** [https://www.zeru.earth/](https://www.zeru.earth/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Zeru.Earth was a UK-based Web3 carbon removal marketplace and subscription climate app founded in 2022 (formerly Carbon Captors), offering a personal carbon calculator and curated portfolio of engineered CDR credits. The company was dissolved at UK Companies House on 25 March 2025 and PitchBook marks it as Out of Business.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🔴 Likely Dead ([source](https://find-and-update.company-information.service.gov.uk/company/14371166))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.zeru.earth/ ([source](https://www.cdr.fyi/marketplace/zeru-earth))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/zeru-earth))
+
+[View on LinkedIn](https://www.linkedin.com/company/carbon-captors/)
 
 ---
 

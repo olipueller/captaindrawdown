@@ -2,21 +2,37 @@
 title: "Climate Action Reserve (CAR)"
 layout: "single"
 type: "directory"
-description: "Climate Action Reserve (CAR) — Unknown company in Unknown"
+description: "Climate Action Reserve (CAR) is a Los Angeles-based environmental nonprofit carbon offset registry that develops protocols, accredits verifiers, and issues"
 url: "/directory/climate-action-reserve-car/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Biochar, Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://www.climateactionreserve.org/](https://www.climateactionreserve.org/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~28 (-7% YoY)
+**LinkedIn Followers:** 13,572
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Climate Action Reserve (CAR) is a Los Angeles-based environmental nonprofit carbon offset registry that develops protocols, accredits verifiers, and issues carbon credits for North American voluntary and compliance markets (including California's Cap-and-Trade Program). Founded in 2001 as the California Climate Action Registry, CAR serves as infrastructure for the carbon market rather than developing CDR projects itself, though it publishes protocols covering CDR-relevant pathways such as biochar and forest carbon.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://climateactionreserve.org/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.climateactionreserve.org/ ([source](https://www.cdr.fyi/marketplace/climate-action-reserve))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/climate-action-reserve))
+
+[View on LinkedIn](https://www.linkedin.com/company/climate-action-reserve/)
 
 ---
 

@@ -2,20 +2,37 @@
 title: "Capital Link Green"
 layout: "single"
 type: "directory"
-description: "Capital Link Green — Unknown company in Unknown"
+description: "Capital Link Green (CLG) transforms waste into premium biochar, while removing carbon, restoring ecosystems, and generating credits backed by science and"
 url: "/directory/capital-link-green/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
 **Country:** Unknown
-**CDR Focus:** unclassified
+**Website:** [https://www.capital.link/](https://www.capital.link/)
+**Status:** 🟡 Moderate (score: 60/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Capital Link Green (CLG) transforms waste into premium biochar, while removing carbon, restoring ecosystems, and generating credits backed by science and measurable results. The company produces biochar via pyrolysis and issues carbon credits insurable against reversal through Oka, via Lloyd's of London. They position themselves as a supplier targeting industrial-scale CDR delivery.
+
+![Capital Link Green website](/screenshots/capital-link-green/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Capital Link
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.capital.link/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.capital.link/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **** — merged duplicate: Capital Link (slug=capital-link)
+- **2026-04-19** — refresh: screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.capital.link/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.capital.link/ ([source](https://www.cdr.fyi/supplier/capital-link-green))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/capital-link-green))
 
 ---

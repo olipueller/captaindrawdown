@@ -2,7 +2,7 @@
 title: "Pyrogen"
 layout: "single"
 type: "directory"
-description: "Pyrogen is a Kenya-based biochar-concrete carbon removals company founded in 2022 and headquartered in Gilgil. It holds a Kenyan utility model patent for biocha"
+description: "Founded in 2022 and headquartered in Gilgil, Kenya, Pyrogen is developing its first-of-a-kind biochar-concrete facility in Africa, working with local"
 url: "/directory/pyrogen/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,21 +13,27 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Kenya
 **Website:** [https://www.pyrogen.energy/](https://www.pyrogen.energy/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~7 (+17% YoY)
+**LinkedIn Followers:** 921
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Pyrogen is a Kenya-based biochar-concrete carbon removals company founded in 2022 and headquartered in Gilgil. It holds a Kenyan utility model patent for biochar-infused concrete mixes and is developing a commercial pilot plant in Baringo County targeting ~3,000 tonnes CO2/yr of sequestration. It is a listed Puro.earth supplier and has piloted biochar-concrete affordable housing with CGAP (World Bank) and Habitat for Humanity.
+Founded in 2022 and headquartered in Gilgil, Kenya, Pyrogen is developing its first-of-a-kind biochar-concrete facility in Africa, working with local communities to source invasive biomass species for biochar production. The company is a Puro.earth supplier developing biochar-based cement for affordable and sustainable housing in Kenya, including a pilot with CGAP (World Bank) and Habitat for Humanity. Pyrogen is the exclusive holder of IP for biochar use in concrete in Kenya and received a Terraset pre-purchase supporting its full-scale biochar-concrete plant.
 
-![Pyrogen website](/screenshots/v1-thumbnails/pyrogen.jpg)
+![Pyrogen website](/screenshots/pyrogen/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrogen.energy/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrogen.energy/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/pyrogen-energy/)
 
 ---
 

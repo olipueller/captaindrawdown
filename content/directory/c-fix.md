@@ -2,7 +2,7 @@
 title: "C-Fix"
 layout: "single"
 type: "directory"
-description: "C-Fix is developing a solar-powered Direct Air Capture concept using alkaline metal sorbents and electrolytic regeneration, and is currently raising seed money"
+description: "C-Fix is a pre-seed concept for a solar-powered Direct Air Capture system using alkaline metal sorbents with electrolytic regeneration. The website, which has"
 url: "/directory/c-fix/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
@@ -12,19 +12,23 @@ liveliness: "🟠 Suspect"
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://www.remove-carbon.org/](https://www.remove-carbon.org/)
-**Status:** 🟠 Suspect (score: 25/100)
+**Status:** 🟠 Suspect (score: 15/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-C-Fix is developing a solar-powered Direct Air Capture concept using alkaline metal sorbents and electrolytic regeneration, and is currently raising seed money to hire a team and develop the technology. The website is minimal (essentially a single landing page) with no evidence of deployed pilot plants, deliveries, or team presence. No LinkedIn company page or recent press coverage was found.
+C-Fix is a pre-seed concept for a solar-powered Direct Air Capture system using alkaline metal sorbents with electrolytic regeneration. The website, which has remained essentially unchanged as a two-sentence placeholder, states the company is still raising seed money to assemble a team and develop the technology. There is no evidence of a pilot, employees, press coverage, registry issuances, or LinkedIn presence.
 
-![C-Fix website](/screenshots/v1-thumbnails/c-fix.jpg)
+![C-Fix website](/screenshots/c-fix/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.remove-carbon.org/))
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.remove-carbon.org/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.remove-carbon.org/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.remove-carbon.org/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

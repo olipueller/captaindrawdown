@@ -2,21 +2,36 @@
 title: "agriCARBON"
 layout: "single"
 type: "directory"
-description: "agriCARBON — Unknown company in Unknown"
+description: "Agricarbon is a Dundee, Scotland-based soil carbon measurement company that operates industrial-scale Automated Soil Carbon Analysis facilities to sample,"
 url: "/directory/agricarbon/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United Kingdom
+**Website:** [https://www.agricarbon.co.uk/](https://www.agricarbon.co.uk/)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~74 (+17% YoY)
+**LinkedIn Followers:** 14,440
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Agricarbon is a Dundee, Scotland-based soil carbon measurement company that operates industrial-scale Automated Soil Carbon Analysis facilities to sample, process and analyse soil for quantifying soil organic carbon stocks. Its customers include global food & beverage firms, carbon project developers and natural capital asset managers in the UK, Europe and the Americas. The company provides MRV infrastructure underpinning soil carbon removal claims rather than generating credits itself.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.agricarbon.co.uk/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.microchar.eu ([source](https://www.cdr.fyi/supplier/agricarbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/agricarbon))
+
+[View on LinkedIn](https://www.linkedin.com/company/agricarbon-earth/)
 
 ---
 

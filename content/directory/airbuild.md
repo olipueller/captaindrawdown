@@ -2,32 +2,35 @@
 title: "Airbuild"
 layout: "single"
 type: "directory"
-description: "Airbuild is a US-based (Troy, NY / San Diego) early-stage climate tech startup founded in 2023 that uses microalgae cultivation integrated with solar panels to"
+description: "Airbuild is an early-stage US climate tech startup (Troy, NY / San Diego) that integrates microalgae cultivation with solar panels to treat wastewater and"
 url: "/directory/airbuild/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
-**Secondary pathways:** Ocean CDR
+**Secondary pathways:** Enabling Tech
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.airbuildinc.com/](https://www.airbuildinc.com/)
 **Status:** 🟢 Active (score: 75/100)
-**Employees:** ~24 (+300% YoY)
-**LinkedIn Followers:** 2,749
+**Employees:** ~24 (+140% YoY)
+**LinkedIn Followers:** 3,184
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Airbuild is a US-based (Troy, NY / San Diego) early-stage climate tech startup founded in 2023 that uses microalgae cultivation integrated with solar panels to clean wastewater and capture CO2, then converts the algal biomass via pyrolysis into biochar. The company is pre-commercial, advancing its first deployment on a 37-acre site in Green River, Utah and pitching similar projects to other rural municipalities.
+Airbuild is an early-stage US climate tech startup (Troy, NY / San Diego) that integrates microalgae cultivation with solar panels to treat wastewater and capture CO2, then pyrolyzes algal biomass plus local waste biomass into biochar for permanent carbon storage. The company is pre-commercial and advancing its first deployment on a 37-acre site in Green River, Utah, targeting rural municipalities with sewer-lagoon wastewater systems.
 
-![Airbuild website](/screenshots/v1-thumbnails/airbuild.jpg)
+![Airbuild website](/screenshots/airbuild/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.airbuildinc.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.airbuildinc.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

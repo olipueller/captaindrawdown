@@ -2,7 +2,7 @@
 title: "Chooose AS"
 layout: "single"
 type: "directory"
-description: "Chooose AS is an Oslo, Norway-based climate-tech SaaS company that provides software and APIs for enterprises — particularly airlines, travel, and logistics — t"
+description: "Chooose AS is an Oslo-based climate-tech SaaS company founded in 2017 that provides software, APIs, and a marketplace platform for enterprises — particularly"
 url: "/directory/chooose-as/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -12,14 +12,16 @@ liveliness: "🟢 Active"
 **Method:** CDR Platform/Marketplace
 **Country:** Norway
 **Website:** [https://www.chooose.today/](https://www.chooose.today/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~70 (-7% YoY)
+**LinkedIn Followers:** 9,689
 **Open roles on cdrjobs:** 1
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Chooose AS is an Oslo, Norway-based climate-tech SaaS company that provides software and APIs for enterprises — particularly airlines, travel, and logistics — to manage SAF programs, calculate emissions, and access a vetted marketplace of carbon removals and offsets. They do not physically remove CO2 themselves; instead they operate as an ecosystem platform connecting SAF producers, registries (RSB, SAFc), airlines, and corporate scope-3 buyers. Founded in 2017, backed by GenZero, SOUNDWaves, Shell Ventures and Amadeus.
+Chooose AS is an Oslo-based climate-tech SaaS company founded in 2017 that provides software, APIs, and a marketplace platform for enterprises — particularly airlines, travel, and logistics firms — to manage SAF programs, calculate emissions, and access vetted carbon removals and offsets. They do not physically remove CO2; they operate as an ecosystem platform connecting buyers with SAF producers and carbon project developers. Customers include Delta, Air Canada, British Airways, Alaska Airlines, Japan Airlines, and Booking.com.
 
 ![Chooose AS website](/screenshots/v1-thumbnails/chooose-as.jpg)
 
@@ -29,8 +31,12 @@ Chooose AS is an Oslo, Norway-based climate-tech SaaS company that provides soft
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.chooose.today/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.chooose.today/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/chooose/)
 
 ---
 

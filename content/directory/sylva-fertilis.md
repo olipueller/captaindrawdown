@@ -2,7 +2,7 @@
 title: "Sylva Fertilis"
 layout: "single"
 type: "directory"
-description: "Sylva Fertilis is a French biochar manufacturer based in Argentan, Normandy, part of the SLB Group forestry consortium. They produce biochar via pyrolysis of su"
+description: "Sylva Fertilis is a French biochar manufacturer based in Argentan, Normandy, part of the SLB Group forestry consortium. The company produces biochar via slow"
 url: "/directory/sylva-fertilis/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,16 +11,18 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** France
-**Website:** [https://biochar-zero.com/company/sylva-fertilis/](https://biochar-zero.com/company/sylva-fertilis/)
-**Status:** 🟢 Active (score: 85/100)
+**Website:** [https://terrafertilis.com/](https://terrafertilis.com/)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~9 (-25% YoY)
+**LinkedIn Followers:** 3,564
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_puro
 
 ## About
 
-Sylva Fertilis is a French biochar manufacturer based in Argentan, Normandy, part of the SLB Group forestry consortium. They produce biochar via pyrolysis of sustainably-sourced wood pellets, selling products under the Terra Fertilis brand for agriculture, viticulture, municipalities, and golf courses. They are Puro.earth certified and in 2024 consolidated biochar activities under Sylva Fertilis International.
+Sylva Fertilis is a French biochar manufacturer based in Argentan, Normandy, part of the SLB Group forestry consortium. The company produces biochar via slow pyrolysis of sustainably-sourced French wood, and sells soil amendment products under the Terra Fertilis brand to agriculture, viticulture, municipalities, and golf courses. They are Puro.earth certified and in 2024 consolidated the Group's biochar activities under the newly created Sylva Fertilis International entity.
 
-![Sylva Fertilis website](/screenshots/v1-thumbnails/sylva-fertilis.jpg)
+![Sylva Fertilis website](/screenshots/sylva-fertilis/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -28,8 +30,28 @@ Sylva Fertilis is a French biochar manufacturer based in Argentan, Normandy, par
 
 ## History
 
+- **2026-04-19** — merged 2 duplicate(s): Terra fertilis, Terra Fertilis | Sylva Fertilis
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://terrafertilis.com/ ([source](https://www.cdr.fyi/supplier/terrafertillis))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/terrafertillis))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://terrafertilis.com/produit/biochar-fertilisant-sols-special-pro-5-kg/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **** — merged duplicate: Terra Fertilis | Sylva Fertilis (slug=terra-fertilis-sylva-fertilis)
+- **** — merged duplicate: Terra fertilis (slug=terra-fertilis)
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/qui-sommes-nous/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://terrafertilis.com/qui-sommes-nous/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/terra-fertilis/)
 
 ---
 

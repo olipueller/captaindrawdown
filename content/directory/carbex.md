@@ -2,7 +2,7 @@
 title: "Carbex"
 layout: "single"
 type: "directory"
-description: "Carbex GmbH is a manufacturing company of biochar-based products located in Dischingen, Germany, offering a range of biochar and biochar-based products for a va"
+description: "Carbex GmbH is a German biochar producer based in Dischingen, Baden-Württemberg, founded in 2021. The company manufactures a comprehensive range of biochar and"
 url: "/directory/carbex/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,13 +18,17 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbex GmbH is a manufacturing company of biochar-based products located in Dischingen, Germany, offering a range of biochar and biochar-based products for a variety of applications. The company's registered purpose covers R&D, production, trading and distribution of carbon-containing products, especially biochar, as well as energy and emissions trading. It operates at the same address as technology provider Carbon Technik Schuster GmbH, with managing director Vanessa Schuster.
+Carbex GmbH is a German biochar producer based in Dischingen, Baden-Württemberg, founded in 2021. The company manufactures a comprehensive range of biochar and biochar-based products for agriculture, livestock, construction, and filtration applications. Its corporate purpose also includes research, production, trade and distribution of biochar and by-products as well as energy and emissions trading.
 
 ![Carbex website](/screenshots/v1-thumbnails/carbex.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbex.one/kontakt))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbex.one/side-facts))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbex.one/kontakt))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar-zero.com/company/carbex-gmbh/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

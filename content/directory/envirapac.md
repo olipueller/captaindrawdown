@@ -2,17 +2,17 @@
 title: "EnviraPAC"
 layout: "single"
 type: "directory"
-description: "EnviraPAC Monticello LLC is one of the largest biomass-based carbon production facilities in the US, with capacity near 20 million pounds/year, producing biocha"
+description: "EnviraPAC Monticello LLC is an Arkansas-based biochar manufacturer that uses high-temperature pyrolysis of softwood pine residues from local sawmills to"
 url: "/directory/envirapac/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://envira-pac.com/](https://envira-pac.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 70/100)
 **Employees:** ~16 (+23% YoY)
 **LinkedIn Followers:** 100
 **CDR Focus:** supplier
@@ -20,11 +20,13 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-EnviraPAC Monticello LLC is one of the largest biomass-based carbon production facilities in the US, with capacity near 20 million pounds/year, producing biochar and renewable engineered carbon powders as substitutes for petroleum-derived carbon black. The company is ISO 9001:2015 certified, affiliated with Generate Capital, and listed with the American Biochar Institute (formerly USBI). A portion of output is industrial CCU rather than permanent sequestration, but agricultural biochar applications qualify as durable CDR.
+EnviraPAC Monticello LLC is an Arkansas-based biochar manufacturer that uses high-temperature pyrolysis of softwood pine residues from local sawmills to produce renewable engineered carbon powders and granules. Products target both agricultural (enviraChar) and industrial (enviraCarb) markets as substitutes for petroleum-based carbon black. The company is affiliated with Generate Capital and is one of the largest biochar production facilities in the US by capacity.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://envira-pac.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://envira-pac.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,7 +2,7 @@
 title: "Decarbon"
 layout: "single"
 type: "directory"
-description: "Decarbontek (decarbon.tech) is a Massachusetts-based climate tech startup founded by Dr. Yong Ding that develops proprietary solid fiber adsorbents and modular"
+description: "Decarbontek, Inc. is a Massachusetts-based climate tech startup founded by Dr. Yong Ding that develops solid fiber adsorbents (including a proprietary MOF,"
 url: "/directory/decarbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,19 +15,21 @@ liveliness: "🟢 Active"
 **Website:** [https://www.decarbon.tech/](https://www.decarbon.tech/)
 **Status:** 🟢 Active (score: 75/100)
 **Employees:** ~4 (+33% YoY)
-**LinkedIn Followers:** 1,123
+**LinkedIn Followers:** 1,218
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Decarbontek (decarbon.tech) is a Massachusetts-based climate tech startup founded by Dr. Yong Ding that develops proprietary solid fiber adsorbents and modular structured capture systems for both point-source CO2 capture and direct air capture. The company manufactures its own MOF-based sorbent (DCF-1) and a patent-pending fiber-winding platform, selling both cartridges/modules and managed capture services. They announced a major product launch in September 2025.
+Decarbontek, Inc. is a Massachusetts-based climate tech startup founded by Dr. Yong Ding that develops solid fiber adsorbents (including a proprietary MOF, DCF-1) and a patent-pending computerized fiber-winding platform for building modular structured CO2 capture modules. Its technology targets both point-source carbon capture and direct air capture applications, selling sorbent materials and capture hardware to industrial customers.
 
 ![Decarbon website](/screenshots/v1-thumbnails/decarbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.decarbon.tech/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.decarbon.tech/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,21 +2,36 @@
 title: "Carbonmark"
 layout: "single"
 type: "directory"
-description: "Carbonmark — Unknown company in Unknown"
+description: "Carbonmark is a global carbon credits marketplace that connects project developers and buyers via an open, blockchain-based platform with zero-commission"
 url: "/directory/carbonmark/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://www.carbonmark.com/](https://www.carbonmark.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~13 (-35% YoY)
+**LinkedIn Followers:** 2,261
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Carbonmark is a global carbon credits marketplace that connects project developers and buyers via an open, blockchain-based platform with zero-commission trading, APIs, and instant on-chain retirement. It lists credits from a wide range of methodologies (nature-based, renewable energy, and CDR pathways like DAC, BECCS, biochar, and ocean alkalinity) and also operates Carbonmark Direct to help emerging CDR project developers issue credits on-chain. It is an ecosystem/infrastructure player (marketplace), not a physical carbon remover.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonmark.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://carbonmark.com/ ([source](https://www.cdr.fyi/marketplace/carbonmark))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbonmark))
+
+[View on LinkedIn](https://www.linkedin.com/company/carbonmarkcom/)
 
 ---
 

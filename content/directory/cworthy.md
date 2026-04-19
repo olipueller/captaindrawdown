@@ -2,7 +2,7 @@
 title: "[C]Worthy"
 layout: "single"
 type: "directory"
-description: "[C]Worthy is a nonprofit research and development organization focused on delivering the core computational technologies needed to support quantitative assessme"
+description: "[C]Worthy is a nonprofit research and development organization focused on delivering the core computational technologies needed to support quantitative"
 url: "/directory/cworthy/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -13,16 +13,18 @@ liveliness: "🟢 Active"
 **Method:** CDR Platform/Marketplace
 **Country:** United States
 **Website:** [https://cworthy.org/](https://cworthy.org/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~11 (-8% YoY)
+**LinkedIn Followers:** 1,378
 **Open roles on cdrjobs:** 1
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-[C]Worthy is a nonprofit research and development organization focused on delivering the core computational technologies needed to support quantitative assessments of ocean-based carbon dioxide removal. They build open-source software, conduct basic research on the efficacy of ocean-based CDR technologies, create and curate publicly available datasets, and promote scientific standards for evaluating the safety and effectiveness of ocean-based CDR activities. They do not themselves remove CO2; they supply MRV modeling infrastructure (C-Star) used by mCDR developers and verifiers like Isometric.
+[C]Worthy is a nonprofit research and development organization focused on delivering the core computational technologies needed to support quantitative assessments of ocean-based carbon dioxide removal. They build open-source software, conduct basic research on the efficacy of ocean-based CDR technologies, create and curate publicly available datasets, and promote scientific standards for evaluating the safety and effectiveness of ocean-based CDR activities. The organization operates as a Focused Research Organization in partnership with Convergent Research. Its flagship product is C-Star, an open-source MRV modeling platform for marine CDR.
 
-![[C]Worthy website](/screenshots/v1-thumbnails/c-worthy.jpg)
+![[C]Worthy website](/screenshots/cworthy/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -30,8 +32,12 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cworthy.org/media))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://cworthy.org/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/cworthy/)
 
 ---
 

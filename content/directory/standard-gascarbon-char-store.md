@@ -2,7 +2,7 @@
 title: "Standard Gas/Carbon Char Store"
 layout: "single"
 type: "directory"
-description: "Standard Gas Technologies is a UK company whose SG100 pyrolysis technology processes non-recyclable waste into clean syngas and carbon-removing biochar. Its Car"
+description: "Standard Gas Technologies is a UK-based company whose patented SG100 Advanced Thermal Cracking (pyrolysis/gasification) technology converts non-recyclable and"
 url: "/directory/standard-gascarbon-char-store/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,31 @@ liveliness: "🟢 Active"
 **Country:** United Kingdom
 **Website:** [https://standardgas.com/](https://standardgas.com/)
 **Status:** 🟢 Active (score: 80/100)
+**Employees:** ~21 (+5% YoY)
+**LinkedIn Followers:** 9,613
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Standard Gas Technologies is a UK company whose SG100 pyrolysis technology processes non-recyclable waste into clean syngas and carbon-removing biochar. Its Carbon Char Store subsidiary markets and sells the resulting durable carbon removals (char bound into construction materials such as concrete and asphalt). The first commercial SG100 plant is under construction at Scottow Enterprise Park in Norfolk, UK.
+Standard Gas Technologies is a UK-based company whose patented SG100 Advanced Thermal Cracking (pyrolysis/gasification) technology converts non-recyclable and hazardous wastes into clean syngas and carbon-removing biochar. Its Carbon Char Store subsidiary markets and sells the resulting carbon removals, sequestered in soil enhancers and construction aggregates. The first commercial SG100 plant is in pre-commercialisation commissioning at Scottow Enterprise Park, Norfolk.
 
 ![Standard Gas/Carbon Char Store website](/screenshots/v1-thumbnails/standard-gas-carbon-char-store.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Standard Gas
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://standardgas.com/sg100-technology/))
+- **2026-04-19** — discovered via: web_search_ai, cdrfyi ([source](https://www.standardgas.co.uk))
+- **** — merged duplicate: Standard Gas (slug=standard-gas)
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://standardgas.com/sg100-technology/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://standardgas.com/sg100-technology/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/standardgas/)
 
 ---
 

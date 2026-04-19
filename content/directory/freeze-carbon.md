@@ -2,21 +2,37 @@
 title: "Freeze Carbon"
 layout: "single"
 type: "directory"
-description: "Freeze Carbon — Unknown company in Unknown"
+description: "Freeze Carbon is a Frankfurt, Germany-based online marketplace for carbon credits, founded in 2023 by Thorsten Ratzlaff and Florian Haubner. The platform"
 url: "/directory/freeze-carbon/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Germany
+**Website:** [https://www.freezecarbon.com/](https://www.freezecarbon.com/)
+**Status:** 🟡 Moderate (score: 60/100)
+**Employees:** ~3 (-62% YoY)
+**LinkedIn Followers:** 1,476
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Freeze Carbon is a Frankfurt, Germany-based online marketplace for carbon credits, founded in 2023 by Thorsten Ratzlaff and Florian Haubner. The platform curates and quality-screens carbon projects (including CDR pathways) and connects corporate buyers with project developers globally, rather than physically removing CO2 itself.
+
+![Freeze Carbon website](/screenshots/freeze-carbon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.freezecarbon.com/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.freezecarbon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/freeze-carbon))
+
+[View on LinkedIn](https://www.linkedin.com/company/freeze-carbon/)
 
 ---
 

@@ -2,32 +2,39 @@
 title: "MioTech"
 layout: "single"
 type: "directory"
-description: "MioTech is an AI-based ESG data and sustainability analytics company headquartered in Shanghai/Hong Kong that has expanded into CDR project development. Its car"
+description: "MioTech is a Hong Kong/Shanghai-based AI-powered ESG data and sustainability software firm whose carbon asset team has expanded into CDR project development."
 url: "/directory/miotech/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Secondary pathways:** Enhanced Weathering, Mineralization
 **Method:** Biochar
-**Country:** China
+**Country:** Hong Kong
 **Website:** [https://www.miotech.com/](https://www.miotech.com/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~148 (-6% YoY)
+**LinkedIn Followers:** 6,386
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-MioTech is an AI-based ESG data and sustainability analytics company headquartered in Shanghai/Hong Kong that has expanded into CDR project development. Its carbon asset team developed China's first biochar carbon credit project, registered on Puro.earth with support from Nanjing Nian'da Environmental Technology and Nanjing Forestry University, and became the first biochar supplier in China to issue CORCs, with the Nanjing-based Nian'da project generating 330 CORCs in its first accreditation period. MioTech has announced plans to develop 50,000 tons of carbon credits by 2027 spanning biochar, geological storage, carbonated materials, and enhanced rock weathering.
+MioTech is a Hong Kong/Shanghai-based AI-powered ESG data and sustainability software firm whose carbon asset team has expanded into CDR project development. Its Nian'da Biochar Facility became the first Chinese project to issue CORCs under the Puro.earth standard in 2025, and the company has announced plans to develop 50,000 tons of CDR credits by 2027 across biochar, geological storage, carbonated materials, and enhanced rock weathering.
 
 ![MioTech website](/screenshots/v1-thumbnails/miotech.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.miotech.com/en-US/press/168))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/puro-earth-enables-first-corcs-issued-in-china-with-nianda-biochar-project/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/miotech/)
 
 ---
 

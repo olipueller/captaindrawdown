@@ -2,26 +2,29 @@
 title: "Taking Root"
 layout: "single"
 type: "directory"
-description: "Taking Root is a Canadian project developer that partners with smallholder farmers (primarily in Nicaragua through its CommuniTree Carbon Program, certified und"
+description: "Taking Root is a Canadian reforestation project developer that partners with smallholder farmers, primarily through its CommuniTree Carbon Program in Nicaragua"
 url: "/directory/taking-root/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Afforestation
+**Secondary pathways:** Enabling Tech
 **Method:** Afforestation/Reforestation
 **Country:** Canada
 **Website:** [https://takingroot.com/](https://takingroot.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 88/100)
+**Employees:** ~26 (-35% YoY)
+**LinkedIn Followers:** 5,542
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Taking Root is a Canadian project developer that partners with smallholder farmers (primarily in Nicaragua through its CommuniTree Carbon Program, certified under Plan Vivo) to restore forests and generate forest carbon removal credits. The company provides technology (FARM-TRACE platform/mobile app), MRV support, and handles project design, certification, and sale of removals.
+Taking Root is a Canadian reforestation project developer that partners with smallholder farmers, primarily through its CommuniTree Carbon Program in Nicaragua (co-founded with local implementer APRODEIN/BOSNICA), certified under Plan Vivo. It provides a technology platform (mobile app + web platform combining ground data, satellite imagery and machine learning) to design, manage, monitor and verify forest carbon removals, and sells the resulting credits to corporate buyers.
 
-![Taking Root website](/screenshots/v1-thumbnails/taking-root.jpg)
+![Taking Root website](/screenshots/taking-root/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,8 +32,12 @@ Taking Root is a Canadian project developer that partners with smallholder farme
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://takingroot.com/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://takingroot.com/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/takingroot/)
 
 ---
 

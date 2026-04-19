@@ -2,26 +2,27 @@
 title: "BC Biocarbon"
 layout: "single"
 type: "directory"
-description: "BC Biocarbon is a Canadian biochar producer based in McBride, British Columbia, that transforms forest and sawmill wood residuals into biochar via a proprietary"
+description: "BC Biocarbon is a Canadian company headquartered in McBride, British Columbia, established in 2011, whose proprietary biorefinery technology produces bioenergy"
 url: "/directory/bc-biocarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** BECCS
 **Method:** Biochar
 **Country:** Canada
 **Website:** [https://www.bcbiocarbon.com/](https://www.bcbiocarbon.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~14 (-22% YoY)
-**LinkedIn Followers:** 1,150
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~12
+**LinkedIn Followers:** 1,171
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_puro, registry_cdrjobsearth
 
 ## About
 
-BC Biocarbon is a Canadian biochar producer based in McBride, British Columbia, that transforms forest and sawmill wood residuals into biochar via a proprietary continuous pyrolysis process. Its Black Bear Biochar is sold as an OMRI-listed soil amendment (including through Walmart, Menards and Home Depot soil mixes) and generates Puro.earth-certified carbon removal credits. The company is co-developing a biorefinery in Carrot River, Saskatchewan, through the BioLesna JV with Dunkley Lumber, backed by $10M from Natural Resources Canada.
+BC Biocarbon is a Canadian company headquartered in McBride, British Columbia, established in 2011, whose proprietary biorefinery technology produces bioenergy and biogenic carbon products including biochar, biocoal, biochemicals, and other valuable products. Through the BioLesna Carbon Technologies LP joint venture with Dunkley Lumber, the company is building a biorefinery in Carrot River, Saskatchewan to convert residual forest biomass into biochar, bio-oil, wood vinegar and pyrolysis gas. In early 2025 BC Biocarbon secured $2.5 million in funding from Natural Resources Canada to advance an innovative process that converts municipal waste into biocoal for the cement industry.
 
 ![BC Biocarbon website](/screenshots/v1-thumbnails/bc-biocarbon.jpg)
 
@@ -32,6 +33,8 @@ BC Biocarbon is a Canadian biochar producer based in McBride, British Columbia, 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bcbiocarbon.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bcbiocarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

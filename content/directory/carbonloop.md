@@ -2,17 +2,18 @@
 title: "Carbonloop"
 layout: "single"
 type: "directory"
-description: "Carbonloop is a French startup (launched 2021, part of the Kouros Group) that offers industrial customers turnkey on-site biomass pyrolysis units producing rene"
+description: "Carbonloop is a French startup (launched 2021, backed by Kouros Group) that provides industrial clients a turnkey decarbonization service combining on-site"
 url: "/directory/carbonloop/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** BECCS
 **Method:** Biochar
 **Country:** France
-**Website:** [https://www.haffner-energy.com/wp-content/uploads/20230404-pr-carbonloop-haffner-energy-hynoca.pdf](https://www.haffner-energy.com/wp-content/uploads/20230404-pr-carbonloop-haffner-energy-hynoca.pdf)
-**Status:** 🟢 Active (score: 75/100)
+**Website:** [https://www.carbonloop.energy](https://www.carbonloop.energy)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~49 (-20% YoY)
 **LinkedIn Followers:** 8,096
 **CDR Focus:** supplier
@@ -20,11 +21,15 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbonloop is a French startup (launched 2021, part of the Kouros Group) that offers industrial customers turnkey on-site biomass pyrolysis units producing renewable hydrogen/syngas and biochar, using Haffner Energy's HYNOCA technology. The biochar co-product is sold to the agricultural sector and generates carbon removal credits, while the renewable gas/hydrogen substitutes for fossil fuels in industry and heavy mobility.
+Carbonloop is a French startup (launched 2021, backed by Kouros Group) that provides industrial clients a turnkey decarbonization service combining on-site production of renewable gas or hydrogen from local biomass residues with co-production of biochar as a permanent carbon sink. Each planned site processes around 7,000 t of biomass/year to produce 1,100 t of biochar and sequester ~2,400 tCO2e, certified via carbon credits. The company remains active with ongoing agricultural biochar trials and a Solar Impulse label, though its first Villabé and Longvilliers project SPVs were subject to a 2025 legal dispute with tech supplier Haffner Energy.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.haffner-energy.com/2023/04/04/carbonloop-and-haffner-energy-announce-order-for-hynoca-equipment-for-first-two-hydrogen-and-biochar-production-sites-from-biomass/?lang=en))
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.bio360expo.com/sheet/559/3850?carbonloop=))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.haffner-energy.com/2023/04/04/carbonloop-and-haffner-energy-announce-order-for-hynoca-equipment-for-first-two-hydrogen-and-biochar-production-sites-from-biomass/?lang=en))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://fr.linkedin.com/company/carbonloop))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

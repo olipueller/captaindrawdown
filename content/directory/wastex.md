@@ -2,7 +2,7 @@
 title: "WasteX"
 layout: "single"
 type: "directory"
-description: "WasteX is a Singapore-based seed-stage company founded in 2022 by Pawel Kuznicki that develops biochar-based fertilizers. The firm provides an end-to-end soluti"
+description: "WasteX is a Singapore-based climate tech startup founded in 2022 by Pawel Kuznicki that builds small-scale, semi-automated carbonizer equipment to convert"
 url: "/directory/wastex/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,14 +12,14 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Singapore
 **Website:** [https://www.wastex.io/](https://www.wastex.io/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 80/100)
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-WasteX is a Singapore-based seed-stage company founded in 2022 by Pawel Kuznicki that develops biochar-based fertilizers. The firm provides an end-to-end solution to farms and agricultural producers, helping them convert biomass waste into biochar; it invests, develops, and operates facilities while partner mills provide biomass. It is a VC-backed climate tech startup headquartered in Singapore with operating teams in the Philippines and Indonesia.
+WasteX is a Singapore-based climate tech startup founded in 2022 by Pawel Kuznicki that builds small-scale, semi-automated carbonizer equipment to convert agricultural biomass waste into biochar for farms across Southeast Asia. The company invests in and operates biochar production facilities in partnership with mills in Indonesia and the Philippines, and sells carbon credits alongside agronomic benefits to farmers.
 
 ![WasteX website](/screenshots/v1-thumbnails/wastex.jpg)
 
@@ -29,6 +29,7 @@ WasteX is a Singapore-based seed-stage company founded in 2022 by Pawel Kuznicki
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.wastex.io/about-us))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.wastex.io))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

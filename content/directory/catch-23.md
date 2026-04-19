@@ -2,29 +2,37 @@
 title: "Catch 23"
 layout: "single"
 type: "directory"
-description: "Catch 23 was founded in 2020 as a Nordic retailer of captured carbon dioxide, working on the brokerage of captured carbon dioxide and communication about the be"
+description: "Catch 23 AB is a Swedish reseller/broker of carbon removal certificates (CRCs), founded in 2020/2021 and headquartered in Stockholm. The company has an"
 url: "/directory/catch-23/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** BECCS
+**Secondary pathways:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
+**Country:** Sweden
 **Website:** [https://catch23.se/](https://catch23.se/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~7 (+40% YoY)
+**LinkedIn Followers:** 80
 **CDR Focus:** ecosystem
 **Evidence signals:** exa_search
 
 ## About
 
-Catch 23 was founded in 2020 as a Nordic retailer of captured carbon dioxide, working on the brokerage of captured carbon dioxide and communication about the benefits of carbon capture. The company sells CRC (Carbon Removal Certificate) credits for negative emissions from Stockholm Exergi's planned BECCS facility in Värtan, Stockholm, targeting Nordic corporate customers. They do not physically remove CO2 themselves but operate as a sales channel for Stockholm Exergi's removals.
+Catch 23 AB is a Swedish reseller/broker of carbon removal certificates (CRCs), founded in 2020/2021 and headquartered in Stockholm. The company has an agreement with Stockholm Exergi to market and sell CRCs from the latter's planned Värtan BECCS facility to Nordic corporate buyers seeking to neutralize hard-to-abate emissions. Catch 23 does not physically capture or store CO2 itself — it operates purely as a brokerage/retail intermediary in the CDR value chain.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-19** — reclassified: pathway=BECCS focus=ecosystem liveliness=🟡 Moderate ([source](https://www.catch23.se/home-eng))
 - **2026-04-18** — reclassified: pathway=BECCS focus=ecosystem liveliness=🟢 Active ([source](https://www.catch23.se/news-1))
 - **2026-04-18** — discovered via: exa ([source](https://catch23.se/))
+
+[View on LinkedIn](https://www.linkedin.com/company/catch-23se/)
 
 ---
 

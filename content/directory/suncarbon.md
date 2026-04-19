@@ -2,7 +2,7 @@
 title: "SunCarbon"
 layout: "single"
 type: "directory"
-description: "SunCarbon, a brand of Teo Ventures, markets itself as India's first biochar-based soil enhancer, producing biochar from natural biomass for agricultural soil ap"
+description: "SunCarbon is a biochar brand operated by Teo Ventures in India, producing biochar-based soil enhancers from agricultural biomass residues. The product is sold"
 url: "/directory/suncarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,21 +12,28 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** India
 **Website:** [https://suncarbon.in/](https://suncarbon.in/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 78/100)
+**LinkedIn Followers:** 611
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-SunCarbon, a brand of Teo Ventures, markets itself as India's first biochar-based soil enhancer, producing biochar from natural biomass for agricultural soil applications. The company joined Cohort 2 of the Remove India CDR Accelerator Program with a mission to make, monitor, and monetise biochar for carbon removal, and also operates a SunCarbon Saarthi platform that registers projects, trains farmers, and connects them with carbon markets.
+SunCarbon is a biochar brand operated by Teo Ventures in India, producing biochar-based soil enhancers from agricultural biomass residues. The product is sold direct-to-consumer (e.g. via their website and Amazon) and through the SunCarbon Saarthi farmer platform, and has been certified as India's first biochar-based soil amendment by ECOCERT India under NPOP/APEDA. The company operates CDR project sites collecting biomass at ~100 tons/month MRR with a second site scaling.
 
-![SunCarbon website](/screenshots/v1-thumbnails/suncarbon.jpg)
+![SunCarbon website](/screenshots/suncarbon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://suncarbon.in/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.youtube.com/watch?v=xM5XyDath98))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://suncarbon.in/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://suncarbon.in/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/suncarbon/)
 
 ---
 

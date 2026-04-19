@@ -2,7 +2,7 @@
 title: "Adsorb Carbon"
 layout: "single"
 type: "directory"
-description: "Adsorb Carbon is a South African manufacturer based in Brakpan that converts wood chips (from pallet repair centers and responsibly managed forests) into activa"
+description: "Adsorb is a South African manufacturer of activated carbon operating a plant in Brakpan, east of Johannesburg. The company uses wood chips from pallet repair"
 url: "/directory/adsorb-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,21 +12,26 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** South Africa
 **Website:** [https://adsorb.co.za/](https://adsorb.co.za/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~5 (0% YoY)
-**LinkedIn Followers:** 86
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~4 (-20% YoY)
+**LinkedIn Followers:** 90
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Adsorb Carbon is a South African manufacturer based in Brakpan that converts wood chips (from pallet repair centers and responsibly managed forests) into activated carbon and steam-activated biochar, supplying fertilizer, animal feed, cosmetics, water treatment, and mine rehabilitation markets. The company reported capturing approximately 750 tonnes of CO2 in 2024 and positions its patented converter technology as a carbon-capture and green-jobs pathway. While the output is sold primarily as activated carbon for industrial use, the pyrolysis process and CO2-capture claims place it within the biochar CDR supplier category.
+Adsorb is a South African manufacturer of activated carbon operating a plant in Brakpan, east of Johannesburg. The company uses wood chips from pallet repair centres originating from responsibly managed forests, heating the wood at 1,000°C to first produce biochar and then activated charcoal. Adsorb captured approximately 750 tonnes of CO2 in 2024 and supplies activated charcoal to fertiliser, animal feed and cosmetic industries, with ambitions in water treatment, mine rehabilitation and cleaning mercury out of coal gas.
 
-![Adsorb Carbon website](/screenshots/v1-thumbnails/adsorb-carbon.jpg)
+![Adsorb Carbon website](/screenshots/adsorb-carbon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.context.news/just-transition/biochar-boom-south-africa-bets-on-super-charcoal-for-green-jobs))
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://adsorb.co.za/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.context.news/just-transition/biochar-boom-south-africa-bets-on-super-charcoal-for-green-jobs))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://adsorb.co.za/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

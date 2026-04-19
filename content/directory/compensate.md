@@ -2,20 +2,30 @@
 title: "Compensate"
 layout: "single"
 type: "directory"
-description: "Compensate — Unknown company in Unknown"
+description: "Compensate is a Helsinki-based carbon offset broker/retailer that curates a portfolio of third-party carbon projects and resells them as \"Compensate Credits\""
 url: "/directory/compensate/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation, Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Finland
+**Website:** [https://www.compensate.com/](https://www.compensate.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Compensate is a Helsinki-based carbon offset broker/retailer that curates a portfolio of third-party carbon projects and resells them as "Compensate Credits" to businesses and individuals. The company does not develop or operate removal projects itself; it screens projects against its own integrity criteria (built on Gold Standard and Verra), bundles them with built-in over-compensation, and provides emission calculation, reporting and communications services. The portfolio is roughly 80% nature-based projects and 20% engineered approaches such as biochar.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.compensate.com/about-us/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.compensate.com/ ([source](https://www.cdr.fyi/marketplace/compensate))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/compensate))
 
 ---

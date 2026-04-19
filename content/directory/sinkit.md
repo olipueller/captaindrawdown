@@ -2,21 +2,37 @@
 title: "Sinkit"
 layout: "single"
 type: "directory"
-description: "Sinkit — Unknown company in Unknown"
+description: "Sinkit is a Dutch cooperative carbon-removal platform that curates, rates (via its proprietary SCORE methodology), and sells carbon removal credits to"
 url: "/directory/sinkit/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Netherlands
+**Website:** [https://www.sinkit.org](https://www.sinkit.org)
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~8 (+14% YoY)
+**LinkedIn Followers:** 1,170
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Sinkit is a Dutch cooperative carbon-removal platform that curates, rates (via its proprietary SCORE methodology), and sells carbon removal credits to companies and individuals. It also co-develops removal projects with partners — notably a biochar retort kiln in Uganda with Bamboo Uganda — and aims to realize at least 55 CDR projects by 2030. It is an initiative of Dutch energy-transition consultancy DAREL.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.sinkit.org/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.sinkit.org/ ([source](https://www.cdr.fyi/marketplace/sinkit))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/sinkit))
+
+[View on LinkedIn](https://www.linkedin.com/company/sinkit/)
 
 ---
 

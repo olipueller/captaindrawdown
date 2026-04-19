@@ -2,21 +2,36 @@
 title: "Regeniam"
 layout: "single"
 type: "directory"
-description: "Regeniam — Unknown company in Unknown"
+description: "Regeniam is a US-based private advisory and asset management firm focused on nature-based solutions, real estate, infrastructure, and carbon removal projects."
 url: "/directory/regeniam/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://regeniamco.com/](https://regeniamco.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~4 (0% YoY)
+**LinkedIn Followers:** 7
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Regeniam is a US-based private advisory and asset management firm focused on nature-based solutions, real estate, infrastructure, and carbon removal projects. They act as financial intermediaries and advisors, helping corporates and investors deploy capital into climate assets and voluntary carbon market transactions rather than physically removing CO2 themselves.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://regeniamco.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/regeniam))
+
+[View on LinkedIn](https://www.linkedin.com/company/regeniamcompanies/)
 
 ---
 

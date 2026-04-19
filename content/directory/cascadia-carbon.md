@@ -2,21 +2,45 @@
 title: "Cascadia Carbon"
 layout: "single"
 type: "directory"
-description: "Cascadia Carbon — Unknown company in Unknown"
+description: "Cascadia Carbon is a US/Canadian public benefit corporation founded in 2019, headquartered in Portland, Oregon, with a Canadian subsidiary in Vancouver, BC. It"
 url: "/directory/cascadia-carbon/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
+**Secondary pathways:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://cascadiacarbon.com/](https://cascadiacarbon.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~1 (-50% YoY)
+**LinkedIn Followers:** 1,233
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Cascadia Carbon is a US/Canadian public benefit corporation founded in 2019, headquartered in Portland, Oregon, with a Canadian subsidiary in Vancouver, BC. It runs the CODEX / Carbonaut program, which uses blockchain and NFTs ("NFTrees") to tokenize individual trees in certified reforestation projects, effectively operating as a crowdsourced carbon offset marketplace rather than directly removing CO2. Activity signals are low and the website footer reads 2023, suggesting the company is operational but quiet.
+
+![Cascadia Carbon website](/screenshots/cascadia-carbon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): CODEX
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Afforestation focus=review_needed liveliness=🟠 Suspect ([source](https://cascadiacarbon.com/))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/codex))
+- **** — merged duplicate: CODEX (slug=codex)
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟠 Suspect ([source](https://cascadiacarbon.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://cascadiacarbon.com/ ([source](https://www.cdr.fyi/supplier/cascadia-carbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/cascadia-carbon))
+
+[View on LinkedIn](https://www.linkedin.com/company/cascadiacarbon/)
 
 ---
 

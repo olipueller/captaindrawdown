@@ -2,7 +2,7 @@
 title: "Takatena"
 layout: "single"
 type: "directory"
-description: "Takatena transforms Kenya's organic waste into biochar via pyrolysis plants, aiming to enhance soil health and reduce carbon emissions. They sell biochar in vol"
+description: "Takatena Biochar Solutions is a Kenya-based biochar producer based in Nanyuki that transforms organic waste into biochar, marketed as a circular waste hub. The"
 url: "/directory/takatena/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,19 +12,23 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Kenya
 **Website:** [https://takatena.com/](https://takatena.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟡 Moderate (score: 45/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Takatena transforms Kenya's organic waste into biochar via pyrolysis plants, aiming to enhance soil health and reduce carbon emissions. They sell biochar in volumes tied to CO2 removal (e.g. 1000 kg biochar representing ~3 tons CO2) and have received early-stage investment from Remove (Netherlands).
+Takatena Biochar Solutions is a Kenya-based biochar producer based in Nanyuki that transforms organic waste into biochar, marketed as a circular waste hub. The company sells biochar online with explicit CO2-removal claims (e.g. 1000 kg biochar ≈ 3 t CO2 for $180). It operates as a small CDR supplier tied to waste-to-biochar conversion.
 
-![Takatena website](/screenshots/v1-thumbnails/takatena.jpg)
+![Takatena website](/screenshots/takatena/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.takatena.com/))
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.takatena.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.takatena.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.takatena.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

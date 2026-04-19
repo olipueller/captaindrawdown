@@ -2,25 +2,25 @@
 title: "Bussme Biochar"
 layout: "single"
 type: "directory"
-description: "Bussme Biochar AB is a Swedish family-run biochar producer based in Svedala, Skåne, operating since 2020 and producing EBC-certified biochar primarily for agric"
+description: "Bussme Biochar AB is a Swedish biochar producer based in Svedala, Skåne, operating since 2020 as a subsidiary of family-owned Bussme Energy AB. The company"
 url: "/directory/bussme-biochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Sweden
-**Website:** [https://biochar-zero.com/company/bussme-biochar/](https://biochar-zero.com/company/bussme-biochar/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Website:** [https://bussme.se/](https://bussme.se/)
+**Status:** 🟠 Suspect (score: 35/100)
 **Employees:** ~2 (-33% YoY)
 **LinkedIn Followers:** 4,479
-**CDR Focus:** supplier
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-Bussme Biochar AB is a Swedish family-run biochar producer based in Svedala, Skåne, operating since 2020 and producing EBC-certified biochar primarily for agriculture and soil applications. The company is registered on Puro.earth (project Bussme-01-Svedala) with 2,332 CORCs issued and 1,811 retired under the Biochar 2022 methodology, with a crediting period running through 31 Aug 2025. Its sister company Bussme Energy divested district-heating plants to Solör Bioenergi in 2020 and 2024, but the Biochar AB entity remains a distinct operating biochar producer.
+Bussme Biochar AB is a Swedish biochar producer based in Svedala, Skåne, operating since 2020 as a subsidiary of family-owned Bussme Energy AB. The company pyrolyzes biomass (including garden waste from Sysav's Måsalycke facility) to produce EBC-certified biochar and is listed on the Puro.earth registry selling CORCs at €175/tonne. Revenue declined ~59% in 2024 (to 2.85M SEK) and parent Bussme Energy divested its district-heating plants to Solör Bioenergi in 2024, raising questions about the subsidiary's trajectory.
 
 ![Bussme Biochar website](/screenshots/v1-thumbnails/bussme-biochar.jpg)
 
@@ -30,6 +30,10 @@ Bussme Biochar AB is a Swedish family-run biochar producer based in Svedala, Sk�
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟠 Suspect ([source](https://www.bolagsfakta.se/5592766702-Bussme_Biochar_AB))
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.mynewsdesk.com/se/sysav/news/sysav-och-bussme-biochar-testar-biokol-fraan-traedgaardsavfall-477855))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://puro.earth/services/scaling-biochar-tech-to-fight-climate-change-100020))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://registry.puro.earth/projects/665890))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

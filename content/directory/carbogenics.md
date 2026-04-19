@@ -2,7 +2,7 @@
 title: "Carbogenics"
 layout: "single"
 type: "directory"
-description: "Carbogenics is an Edinburgh-based University of Edinburgh spinout (2016) producing CreChar®, an engineered biochar made from paper waste and secondary biomass v"
+description: "Carbogenics is a University of Edinburgh spinout (2016) that produces CreChar, a biochar additive made in a high-temperature low-oxygen process using"
 url: "/directory/carbogenics/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,20 +13,22 @@ liveliness: "🟢 Active"
 **Country:** United Kingdom
 **Website:** [https://www.carbogenics.com/](https://www.carbogenics.com/)
 **Status:** 🟢 Active (score: 90/100)
-**Employees:** ~20 (+33% YoY)
-**LinkedIn Followers:** 2,511
+**Employees:** ~20 (+25% YoY)
+**LinkedIn Followers:** 2,991
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbogenics is an Edinburgh-based University of Edinburgh spinout (2016) producing CreChar®, an engineered biochar made from paper waste and secondary biomass via pyrolysis. Its primary market is enhancing biogas yields in anaerobic digestion plants, with the stable carbon in the biochar providing durable CDR. The company is expanding into the US (New Mexico) following a $3M funding round in early 2026.
+Carbogenics is a University of Edinburgh spinout (2016) that produces CreChar, a biochar additive made in a high-temperature low-oxygen process using difficult-to-recycle organic waste such as coffee cups and cardboard, which improves the efficiency of anaerobic digestion plants by stabilising digestion and creating better conditions for microorganisms. In early 2026 the company closed a $3M investment and grant round from backers including Dangerous Ventures, Green Angel Ventures, Scottish Enterprise, Old College Capital, Innovate UK and the New Mexico Government to scale UK operations and introduce US manufacturing.
 
 ![Carbogenics website](/screenshots/v1-thumbnails/carbogenics.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbogenics.com/news/carbogenics-secures-3-million-investment-for-growth-and-international-expansion/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbogenics.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

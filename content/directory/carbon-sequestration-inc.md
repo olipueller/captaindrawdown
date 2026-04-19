@@ -2,7 +2,7 @@
 title: "Carbon Sequestration Inc"
 layout: "single"
 type: "directory"
-description: "Carbon Sequestration Inc. offers carbon removal methods including wood vaulting, biochar production, and carbon farming, founded by CEO Christopher Knop who beg"
+description: "Carbon Sequestration Inc. (CSI) is a Houston, Texas-based CDR supplier founded by CEO Christopher Knop that buries woody biomass waste in engineered"
 url: "/directory/carbon-sequestration-inc/"
 pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
@@ -13,21 +13,25 @@ liveliness: "🟡 Moderate"
 **Method:** BiCRS (Other)
 **Country:** United States
 **Website:** [https://www.carbonsequestration-inc.com/](https://www.carbonsequestration-inc.com/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟡 Moderate (score: 70/100)
 **Employees:** ~3 (-40% YoY)
-**LinkedIn Followers:** 679
+**LinkedIn Followers:** 683
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Sequestration Inc. offers carbon removal methods including wood vaulting, biochar production, and carbon farming, founded by CEO Christopher Knop who began experimenting with biomass burial in the mid-2010s. Each vault is excavated within the low-permeability clays of the Lissie Formation, where woody debris is stacked and compacted, then sealed with a 6–12 foot compacted clay cap to create an oxygen-limited barrier. The project is described as compliant with TCEQ, Puro.earth, and ICROA/ICVCM standards.
+Carbon Sequestration Inc. (CSI) is a Houston, Texas-based CDR supplier founded by CEO Christopher Knop that buries woody biomass waste in engineered underground clay vaults to sequester carbon long-term. The company has completed pilot credit sales (1,100 tCO₂ delivered from its 2022 pilot at $126/ton) and references biochar and terrestrial storage of biomass (TSB) as its core pathways. CSI also restores flood-prone and degraded sites above its vaults as a co-benefit.
 
 ![Carbon Sequestration Inc website](/screenshots/v1-thumbnails/carbon-sequestration-inc.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonsequestration-inc.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](registry_activity))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonsequestration-inc.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonsequestration-inc.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

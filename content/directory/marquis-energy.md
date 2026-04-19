@@ -2,29 +2,38 @@
 title: "Marquis Energy"
 layout: "single"
 type: "directory"
-description: "Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, Illinois, and is developing a large-scale BECCS project (via subsidiary Marquis"
+description: "Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, Illinois, and through its subsidiary Marquis Carbon Capture LLC is developing a"
 url: "/directory/marquis-energy/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** BECCS
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://marquisinc.com/](https://marquisinc.com/)
-**Status:** 🟢 Active (score: 80/100)
-**CDR Focus:** supplier
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~147
+**LinkedIn Followers:** 2,172
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, Illinois, and is developing a large-scale BECCS project (via subsidiary Marquis Carbon Capture LLC) to permanently sequester ~1.2 million tons/year of biogenic CO2 in the Mt. Simon formation beneath its industrial complex. While ethanol production is the core business, the company is building dedicated CDR removal infrastructure with permanent geological storage, qualifying it as a supplier.
+Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, Illinois, and through its subsidiary Marquis Carbon Capture LLC is developing a BECCS project to sequester up to 1.5 million metric tons of biogenic CO2 per year in the Mt. Simon saline formation beneath its industrial complex. The U.S. EPA issued a draft Class VI well permit in September 2025, with a final permit expected in February 2026. Ethanol production remains the core business, with CCS pursued to secure 45Q tax credits and advance the complex toward carbon-neutral status.
+
+![Marquis Energy website](/screenshots/marquis-energy/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://marquisinc.com/carbon-and-sustainability/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://marquisinc.com/carbon-and-sustainability/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://marquisinc.com/carbon-and-sustainability/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/marquis-energy-llc/)
 
 ---
 

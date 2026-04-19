@@ -2,21 +2,36 @@
 title: "AquaGreen"
 layout: "single"
 type: "directory"
-description: "AquaGreen — Unknown company in Unknown"
+description: "AquaGreen is a Danish cleantech company that has developed a patented integrated steam-drying and pyrolysis solution treating wet biomass, initially focused on"
 url: "/directory/aquagreen/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Denmark
+**Website:** [https://aquagreen.dk/](https://aquagreen.dk/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~47 (-6% YoY)
+**LinkedIn Followers:** 4,232
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+AquaGreen is a Danish cleantech company that has developed a patented integrated steam-drying and pyrolysis solution treating wet biomass, initially focused on municipal wastewater sludge. Its fully automated facilities create revenue through biochar sales, carbon removal credits and excess heat, with each HECLA® Setores 1,000 plant storing 500 tonnes of carbon in biochar annually. In 2024 Marubeni Corporation acquired shares in AquaGreen Holding ApS through a third-party allotment.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://aquagreen.dk/))
+- **2026-04-19** — url added from cdr.fyi supplier page: http://www.aquagreen.dk ([source](https://www.cdr.fyi/supplier/aquagreen))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/aquagreen))
+
+[View on LinkedIn](https://www.linkedin.com/company/aquagreenaps/)
 
 ---
 

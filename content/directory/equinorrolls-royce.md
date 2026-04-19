@@ -2,31 +2,38 @@
 title: "Equinor/Rolls Royce"
 layout: "single"
 type: "directory"
-description: "Equinor is a Norwegian energy major that in April 2024 acquired Rolls-Royce's liquid-solvent DAC technology IP and novated the UK DESNZ-funded Project ENCORE co"
+description: "Equinor is a Norwegian energy major that in April 2024 acquired Rolls-Royce's liquid-solvent (amine-based) DAC technology IP and novated the UK DESNZ-funded"
 url: "/directory/equinorrolls-royce/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Liquid Solvent)
-**Country:** United Kingdom
-**Website:** [https://www.linkedin.com/posts/equinor_according-to-the-intergovernmental-panel-activity-7203669019743178753-yLjf](https://www.linkedin.com/posts/equinor_according-to-the-intergovernmental-panel-activity-7203669019743178753-yLjf)
-**Status:** 🟢 Active (score: 85/100)
+**Country:** Norway
+**Website:** [https://www.equinor.com/](https://www.equinor.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~16593 (+1% YoY)
+**LinkedIn Followers:** 1,061,784
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Equinor is a Norwegian energy major that in April 2024 acquired Rolls-Royce's liquid-solvent DAC technology IP and novated the UK DESNZ-funded Project ENCORE contract, taking ownership of a demonstrator plant that has captured over 100 tonnes CO2/year at Rolls-Royce's Derby campus. The program is now an internal DAC development effort within Equinor, targeting a capture cost below USD 200/t, and sits alongside Equinor's other CDR/CCS activities (Northern Lights, RepAir, Captura).
+Equinor is a Norwegian energy major that in April 2024 acquired Rolls-Royce's liquid-solvent (amine-based) DAC technology IP and novated the UK DESNZ-funded Project ENCORE contract, taking over a demonstrator plant on the Rolls-Royce Derby campus. The program is now an internal DAC development effort within Equinor, complementing its Northern Lights CO2 transport/storage infrastructure and venture investments in RepAir, Captura and 44.01. A Phase 2 project report was published in June 2025, indicating the program remains active.
 
-![Equinor/Rolls Royce website](/screenshots/v1-thumbnails/equinor-rolls-royce.jpg)
+![Equinor/Rolls Royce website](/screenshots/equinorrolls-royce/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://assets.publishing.service.gov.uk/media/695cf2d4f41883f4e50ed996/Equinor_ENCORE_GGR_Phase_2_Report_for_publication.pdf))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.equinor.com/energy/direct-air-capture))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/equinor/)
 
 ---
 

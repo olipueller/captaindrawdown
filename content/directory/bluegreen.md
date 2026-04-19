@@ -2,32 +2,46 @@
 title: "BlueGreen"
 layout: "single"
 type: "directory"
-description: "BlueGreen Water Technologies (netbluezero.com / bluegreenwatertech.com) is a US-headquartered (R&D in Israel) water-restoration company that treats harmful alga"
+description: "BlueGreen Water Technologies is a US-headquartered (Israel R&D) environmental technology company that remediates harmful algal blooms in freshwater bodies. It"
 url: "/directory/bluegreen/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Ocean CDR
-**Secondary pathways:** Ocean CDR
+**Secondary pathways:** Biomass Burial
 **Method:** Marine CDR (Other)
 **Country:** United States
-**Website:** [https://www.netbluezero.com/](https://www.netbluezero.com/)
+**Website:** [https://bluegreenwatertech.com/](https://bluegreenwatertech.com/)
 **Status:** 🟢 Active (score: 80/100)
+**Employees:** ~41 (+2% YoY)
+**LinkedIn Followers:** 5,539
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-BlueGreen Water Technologies (netbluezero.com / bluegreenwatertech.com) is a US-headquartered (R&D in Israel) water-restoration company that treats harmful algal blooms and monetizes the resulting carbon sequestration as Net Blue™ credits. In April 2024 the Social Carbon Foundation issued 12,913 tCO2e of credits from their Mantua Reservoir (Utah) project at $100/credit, and in November 2025 the company announced a peer-reviewed study in Phycology validating the approach. They raised a Series B2 round led by TAU Capital with OurCrowd in 2024 to scale the CDR business unit.
+BlueGreen Water Technologies is a US-headquartered (Israel R&D) environmental technology company that remediates harmful algal blooms in freshwater bodies. It generates Net Blue carbon credits under the Social Carbon Foundation's SOCIALCARBON standard, with first issuance of ~12,913 tonnes in April 2024 and a Series B2 round in 2024 led by TAU Capital with OurCrowd. The company continues to publish peer-reviewed validation work as of late 2025.
 
-![BlueGreen website](/screenshots/v1-thumbnails/bluegreen.jpg)
+![BlueGreen website](/screenshots/bluegreen/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): BlueGreen Water Technologies
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://bluegreenwatertech.com/))
+- **2026-04-19** — discovered via: cdrjobs, cdrfyi ([source](https://www.cdrjobs.earth/job-board))
+- **** — merged duplicate: BlueGreen Water Technologies (slug=bluegreen-water-technologies)
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/first-ever-carbon-credits-from-toxic-algal-remediation-are-issued/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/bluegreen-water-technologies-raises-millions-in-series-b-funding-to-accelerate-water-based-co2-removal-at-scale/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://bluegreenwatertech.com/news))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/first-ever-carbon-credits-from-toxic-algal-remediation-are-issued/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/bluegreen-water-tech/)
 
 ---
 

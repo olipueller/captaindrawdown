@@ -2,31 +2,40 @@
 title: "Anvil"
 layout: "single"
 type: "directory"
-description: "Anvil Capture Systems is a US-based (New York/Somerville, MA) carbon dioxide removal company developing direct-air mineralization using alkaline-bearing ores in"
+description: "Anvil Capture Systems is a US-based (Somerville, MA) carbon dioxide removal startup developing direct-air mineralization using alkaline-bearing ores in a"
 url: "/directory/anvil/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Mineralization
+**Secondary pathways:** DAC
 **Method:** Mineralization (Other)
 **Country:** United States
-**Website:** [https://www.anvilcarbon.com/](https://www.anvilcarbon.com/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~5 (+67% YoY)
-**LinkedIn Followers:** 438
+**Website:** [https://www.anvilcarbon.com](https://www.anvilcarbon.com)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~5 (+25% YoY)
+**LinkedIn Followers:** 468
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Anvil Capture Systems is a US-based (New York/Somerville, MA) carbon dioxide removal company developing direct-air mineralization using alkaline-bearing ores in a proprietary low-energy reactor. The company received a Frontier prepurchase in Fall 2024 and was awarded a MassCEC climatetech grant in 2025, and is a Greentown Labs member.
+Anvil Capture Systems is a US-based (Somerville, MA) carbon dioxide removal startup developing direct-air mineralization using alkaline-bearing ores in a proprietary low-energy reactor. The company received a Frontier prepurchase in Fall 2024 (~$500K) and was named a MassCEC climatetech grant awardee in 2025, and is a Greentown Labs member.
 
-![Anvil website](/screenshots/v1-thumbnails/anvil.jpg)
+![Anvil website](/screenshots/anvil/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Anvil Capture Systems
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.anvilcarbon.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.anvilcarbon.com/ ([source](https://www.cdr.fyi/supplier/anvil))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/anvil))
+- **** — merged duplicate: Anvil Capture Systems (slug=anvil-capture-systems)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.anvilcarbon.com))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.anvilcarbon.com))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

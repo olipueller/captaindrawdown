@@ -2,20 +2,30 @@
 title: "Nordic Offset"
 layout: "single"
 type: "directory"
-description: "Nordic Offset — Unknown company in Unknown"
+description: "Nordic Offset (Nordic Offset Oy) is a Finnish carbon footprint management consultancy and voluntary carbon credit retailer, founded in 2008 and headquartered"
 url: "/directory/nordic-offset/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Finland
+**Website:** [https://nordicoffset.fi/](https://nordicoffset.fi/)
+**Status:** 🟡 Moderate (score: 60/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Nordic Offset (Nordic Offset Oy) is a Finnish carbon footprint management consultancy and voluntary carbon credit retailer, founded in 2008 and headquartered in Helsinki. It resells certified third-party credits (Gold Standard, Verra, Puro.earth) and offers emission calculation and sustainability (ESG/CSRD) reporting services. The firm has broadened into ESG reporting under the related Nordic Impact brand.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://nordicoffset.fi/en/carbon-offsetting/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://nordicoffset.fi/ ([source](https://www.cdr.fyi/marketplace/nordic-offset))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/nordic-offset))
 
 ---

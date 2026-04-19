@@ -2,7 +2,7 @@
 title: "Carboneers"
 layout: "single"
 type: "directory"
-description: "Carboneers works with farming communities across the Global South to develop biochar and carbon sequestration projects, with a mission to remove 1 million tons"
+description: "Carboneers was initially founded as Dutch Carboneers in September 2021 by Mart de Bruijn, an environmental economist, and Berend de Haas, a biologist. The"
 url: "/directory/carboneers/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,14 +13,14 @@ liveliness: "🟢 Active"
 **Country:** Netherlands
 **Website:** [https://www.carboneers.earth/](https://www.carboneers.earth/)
 **Status:** 🟢 Active (score: 85/100)
-**Employees:** ~14 (+133% YoY)
-**LinkedIn Followers:** 3,525
+**Employees:** ~19 (+171% YoY)
+**LinkedIn Followers:** 3,696
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_cdrjobsearth
 
 ## About
 
-Carboneers works with farming communities across the Global South to develop biochar and carbon sequestration projects, with a mission to remove 1 million tons of CO2 by 2028. The company (originally Dutch Carboneers) operates projects in India and Ghana, and is listed as a supplier on Isometric with a buffer pool for reversal protection, partnering with Terrafront Ventures and Together for Restoration.
+Carboneers was initially founded as Dutch Carboneers in September 2021 by Mart de Bruijn, an environmental economist, and Berend de Haas, a biologist. The Netherlands-based company partners with smallholder farming communities in India and Ghana to produce biochar from agricultural residues, issuing carbon removal credits through the Isometric registry. Projects are run in partnership with Terrafront Ventures and Together for Restoration in Assam and other Indian regions, with Isometric maintaining a buffer pool to protect against reversal risk.
 
 ![Carboneers website](/screenshots/v1-thumbnails/carboneers.jpg)
 
@@ -30,6 +30,8 @@ Carboneers works with farming communities across the Global South to develop bio
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneers.earth/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneers.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

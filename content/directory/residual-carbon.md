@@ -2,32 +2,38 @@
 title: "Residual Carbon"
 layout: "single"
 type: "directory"
-description: "Residual (residualcarbon.com) is a UK-based carbon project developer founded in 2024 by ex-Oka and ex-BeZero executives. It partners with industrial biomass ass"
+description: "Residual is a UK-based carbon project developer that partners with industrials to design carbon projects that meet the bar for financiers, ratings, insurance,"
 url: "/directory/residual-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
-**Secondary pathways:** BECCS, Enabling Tech
+**Secondary pathways:** BECCS
 **Method:** BiCRS (Other)
 **Country:** United Kingdom
 **Website:** [https://www.residualcarbon.com/](https://www.residualcarbon.com/)
-**Status:** 🟢 Active (score: 82/100)
+**Status:** 🟢 Active (score: 72/100)
+**Employees:** ~12 (+300% YoY)
+**LinkedIn Followers:** 3,336
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Residual (residualcarbon.com) is a UK-based carbon project developer founded in 2024 by ex-Oka and ex-BeZero executives. It partners with industrial biomass asset owners to design, structure, document, and commercialize biochar and BECCS carbon removal projects, handling methodology, MRV, ratings, insurance preparation, and buyer matchmaking — but does not itself operate removal technology.
+Residual is a UK-based carbon project developer that partners with industrials to design carbon projects that meet the bar for financiers, ratings, insurance, and offtake. It focuses on designing the methodology, MRV, and documentation needed to issue carbon credits that can generate revenue for biochar and BECCS projects using crop residues and mill waste. The firm sits in the CDR ecosystem as a project developer/structurer rather than operating removal technology directly.
 
 ![Residual Carbon website](/screenshots/v1-thumbnails/residual-carbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.residualcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.residualcarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/residualcarbon/)
 
 ---
 

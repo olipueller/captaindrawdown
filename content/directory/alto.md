@@ -2,29 +2,41 @@
 title: "Alto"
 layout: "single"
 type: "directory"
-description: "Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of specialty alcohols and renewable fuels based in Pekin, Illinois. The company is"
+description: "Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of specialty alcohols and renewable fuels headquartered in Pekin, Illinois. The"
 url: "/directory/alto/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** BECCS
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://www.altoingredients.com/](https://www.altoingredients.com/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~223 (-2% YoY)
-**LinkedIn Followers:** 3,270
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~223 (-3% YoY)
+**LinkedIn Followers:** 3,304
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of specialty alcohols and renewable fuels based in Pekin, Illinois. The company is developing a BECCS project with Vault 44.01 to capture ~600,000 metric tons/year of biogenic CO2 from corn fermentation at its Pekin campus and permanently sequester it in the Mt. Simon sandstone formation. The CCS project has been delayed by Illinois SB 1723 (signed Aug 2025) and may not start generating revenue until 2029-2030.
+Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of specialty alcohols and renewable fuels headquartered in Pekin, Illinois. The company is developing a BECCS project with Vault 44.01 to capture the ~600,000 metric tons/year of biogenic CO2 generated from corn fermentation at its Pekin campus and permanently sequester it in the Mt. Simon sandstone formation. A definitive CO2 Transportation and Sequestration Agreement was signed in November 2024, though the project still awaits EPA Class VI permit approval, financing, and equipment sourcing.
+
+![Alto website](/screenshots/alto/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Alto Ingredients
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://ir.altoingredients.com/news-events/press-releases/detail/626/alto-ingredients-inc-enters-co2-transportation-and))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.altoingredients.com/ ([source](https://www.cdr.fyi/supplier/alto-ingredients))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/alto-ingredients))
+- **** — merged duplicate: Alto Ingredients (slug=alto-ingredients)
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.opentable.com/altobelis-restaurant-and-piano-bar))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2024/11/06/2976081/0/en/Alto-Ingredients-Inc-Enters-CO2-Transportation-and-Sequestration-Agreement-with-Vault-44-01.html))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://ir.altoingredients.com/news-events/press-releases/detail/626/alto-ingredients-inc-enters-co2-transportation-and))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

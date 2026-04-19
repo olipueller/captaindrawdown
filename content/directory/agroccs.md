@@ -2,31 +2,35 @@
 title: "AgroCCS"
 layout: "single"
 type: "directory"
-description: "AgroCCS B.V. is developing a project in the Varanasi region of Uttar Pradesh, India, that converts agricultural waste (rice husks and straw) into biochar using"
+description: "AgroCCS B.V. is a Dutch-registered biochar project developer operating in the Varanasi region of Uttar Pradesh, India, where agricultural waste is pyrolyzed"
 url: "/directory/agroccs/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Netherlands
 **Website:** [https://agroccs.com/](https://agroccs.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 70/100)
 **Employees:** ~3 (+50% YoY)
-**LinkedIn Followers:** 490
+**LinkedIn Followers:** 503
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-AgroCCS B.V. is developing a project in the Varanasi region of Uttar Pradesh, India, that converts agricultural waste (rice husks and straw) into biochar using pyrolysis technology, with the biochar distributed to farmers as a soil amendment. The project's financial model is based on revenue from the sale of carbon credits issued under the Puro.Earth carbon removal standard, and it requires carbon credit financing to operate. The company is headquartered in the Netherlands and operates as a small team (3 employees per Coresignal).
+AgroCCS B.V. is a Dutch-registered biochar project developer operating in the Varanasi region of Uttar Pradesh, India, where agricultural waste is pyrolyzed into biochar and applied to farmland. The project is financed through the sale of carbon removal credits issued under the Puro.Earth standard, and the company is currently offering pre-orders to early buyers.
 
-![AgroCCS website](/screenshots/v1-thumbnails/agroccs.jpg)
+![AgroCCS website](/screenshots/agroccs/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.linkedin.com/posts/agro-ccs_agroccs-carbonremoval-biochar-activity-7307710950319550465-f8pS))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://agroccs.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://agroccs.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

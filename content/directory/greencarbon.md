@@ -2,21 +2,39 @@
 title: "Greencarbon"
 layout: "single"
 type: "directory"
-description: "Greencarbon — Unknown company in Unknown"
+description: "Greencarbon is a Dutch broker/marketplace for CO2 removal certificates based in Aalsmeer, Netherlands. The company sells carbon removal credits from Dutch and"
 url: "/directory/greencarbon/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation, Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Netherlands
+**Website:** [https://www.greencarbon.nl](https://www.greencarbon.nl)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~3 (0% YoY)
+**LinkedIn Followers:** 35
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Greencarbon is a Dutch broker/marketplace for CO2 removal certificates based in Aalsmeer, Netherlands. The company sells carbon removal credits from Dutch and Belgian projects (farmers and project developers) to SMEs and governments, with credits certified through registries such as ONCRA. They do not physically remove CO2 themselves but act as an intermediary in the CDR ecosystem.
+
+![Greencarbon website](/screenshots/greencarbon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://greencarbon.nl/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.greencarbon.nl ([source](https://www.cdr.fyi/supplier/greencarbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/greencarbon))
+
+[View on LinkedIn](https://www.linkedin.com/company/greencarbon-bv/)
 
 ---
 

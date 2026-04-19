@@ -2,21 +2,36 @@
 title: "ARTi"
 layout: "single"
 type: "directory"
-description: "ARTi — Unknown company in Unknown"
+description: "ARTi (Advanced Renewable Technology International) is a U.S.-based biochar company founded in 2013, headquartered in Prairie City, Iowa. It designs and"
 url: "/directory/arti/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://www.arti.com/](https://www.arti.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~74
+**LinkedIn Followers:** 2,534
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+ARTi (Advanced Renewable Technology International) is a U.S.-based biochar company founded in 2013, headquartered in Prairie City, Iowa. It designs and manufactures containerized pyrolysis reactors (Biochar Production Units) and produces biochar from agricultural and forestry biomass, selling both equipment and biochar products. It is listed as a Puro.earth CORC supplier.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.arti.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: http://www.ARTi.com ([source](https://www.cdr.fyi/supplier/arti))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/arti))
+
+[View on LinkedIn](https://www.linkedin.com/company/advanced-renewable-technology-international-inc-artichar-/)
 
 ---
 

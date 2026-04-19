@@ -2,31 +2,35 @@
 title: "Ground Up"
 layout: "single"
 type: "directory"
-description: "Ground Up is a Mumbai-based startup founded in 2024 by Shanay Jhaveri, Rhea Dabriwala and Naveen Shivalingam, developing industrial biochar production hubs that"
+description: "Ground Up is a Mumbai-based seed-stage biochar startup founded in 2024 (legal entity Ground Up Ecowaste Pvt Ltd registered in 2022). The company develops"
 url: "/directory/ground-up/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** India
-**Website:** [https://www.ground-up.in/](https://www.ground-up.in/)
-**Status:** 🟢 Active (score: 75/100)
+**Website:** [https://www.ground-up.in](https://www.ground-up.in)
+**Status:** 🟡 Moderate (score: 50/100)
 **Employees:** ~15
-**LinkedIn Followers:** 474
+**LinkedIn Followers:** 597
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Ground Up is a Mumbai-based startup founded in 2024 by Shanay Jhaveri, Rhea Dabriwala and Naveen Shivalingam, developing industrial biochar production hubs that convert agricultural residues into high-quality biochar using advanced pyrolysis technology, aiming to eliminate open-field burning and produce a carbon-rich soil amendment. Its latest funding round was a Seed round on May 21, 2025, and the company has joined the Carbon Business Council coalition of carbon management startups.
+Ground Up is a Mumbai-based seed-stage biochar startup founded in 2024 (legal entity Ground Up Ecowaste Pvt Ltd registered in 2022). The company develops industrial biochar production hubs that convert Indian agricultural residues into biochar via pyrolysis, selling biochar-based fertilisers to farmers while generating permanent carbon removal credits. Led by CEO Rhea Dabriwala with co-founders Shanay Jhaveri and Naveen Shivalingam.
 
-![Ground Up website](/screenshots/v1-thumbnails/ground-up.jpg)
+![Ground Up website](/screenshots/ground-up/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.ground-up.in))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.ground-up.in/news-and-resources))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.ground-up.in/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ground-up.in))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

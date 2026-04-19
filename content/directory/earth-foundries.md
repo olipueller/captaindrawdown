@@ -2,29 +2,32 @@
 title: "Earth Foundries"
 layout: "single"
 type: "directory"
-description: "Earth Foundries is a funded company based in Saratoga, California, founded in 2021 by Dorothea Dede Smullen and Roger Smullen, operating as a developer of carbo"
+description: "Earth Foundries is a California-based, woman-owned Benefit Corporation founded in 2021 that processes unmerchantable forest waste from hazardous fuels"
 url: "/directory/earth-foundries/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.earthfoundriesinc.com/](https://www.earthfoundriesinc.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~4 (0% YoY)
-**LinkedIn Followers:** 759
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~4 (+33% YoY)
+**LinkedIn Followers:** 786
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Earth Foundries is a funded company based in Saratoga, California, founded in 2021 by Dorothea Dede Smullen and Roger Smullen, operating as a developer of carbon-negative products from forest waste. Its mission is to reduce the cost and carbon footprint of landscape-scale forest health projects by processing unmerchantable forest material from hazardous fuels reduction projects into biochar on site and at scale with its Slash Attack service. The biochar is sold into compost, stormwater bioswale, and manure management applications.
+Earth Foundries is a California-based, woman-owned Benefit Corporation founded in 2021 that processes unmerchantable forest waste from hazardous fuels reduction projects into biochar using mobile pyrolysis equipment (Slash Attack®). The company operates across California in partnership with CAL FIRE, the US Forest Service and local agencies to reduce wildfire risk while producing carbon-negative biochar for soil, compost, and stormwater applications.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.earthfoundriesinc.com/news/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.earthfoundriesinc.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.earthfoundriesinc.com/news/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

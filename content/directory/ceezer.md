@@ -2,7 +2,7 @@
 title: "Ceezer"
 layout: "single"
 type: "directory"
-description: "CEEZER is a Berlin-based B2B enterprise platform and marketplace that connects corporate buyers with carbon credit project developers across removal and avoidan"
+description: "CEEZER is a Berlin-based B2B enterprise platform and marketplace connecting corporate carbon credit buyers with project developers across both removal and"
 url: "/directory/ceezer/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -12,16 +12,18 @@ liveliness: "🟢 Active"
 **Method:** CDR Platform/Marketplace
 **Country:** Germany
 **Website:** [https://www.ceezer.earth/](https://www.ceezer.earth/)
-**Status:** 🟢 Active (score: 88/100)
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~67
+**LinkedIn Followers:** 9,541
 **Open roles on cdrjobs:** 4
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-CEEZER is a Berlin-based B2B enterprise platform and marketplace that connects corporate buyers with carbon credit project developers across removal and avoidance pathways. It provides risk assessment, MRV data integration, and portfolio-management tools rather than physically removing CO2 itself. It belongs in the CDR ecosystem as a marketplace/enabler, not as a supplier.
+CEEZER is a Berlin-based B2B enterprise platform and marketplace connecting corporate carbon credit buyers with project developers across both removal and avoidance pathways. It provides risk assessment, MRV data integration, portfolio management tools, and runs the Carbon Coalition accelerator for CDR startups. It does not physically remove CO2 itself but is a core part of the CDR ecosystem as a marketplace/enabler.
 
-![Ceezer website](/screenshots/v1-thumbnails/ceezer.jpg)
+![Ceezer website](/screenshots/ceezer/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,8 +31,12 @@ CEEZER is a Berlin-based B2B enterprise platform and marketplace that connects c
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.ceezer.earth/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.ceezer.earth/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/ceezer/)
 
 ---
 

@@ -2,20 +2,31 @@
 title: "Nurist Biocarbon"
 layout: "single"
 type: "directory"
-description: "Nurist Biocarbon — Unknown company in Unknown"
+description: "Nurist Biocarbon is an early-stage Indian company based in Didwana, Rajasthan that produces biochar from crop residue, dung, and native plant waste via"
 url: "/directory/nurist-biocarbon/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** India
+**Website:** [https://nuristbiocarbon.com/](https://nuristbiocarbon.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Nurist Biocarbon is an early-stage Indian company based in Didwana, Rajasthan that produces biochar from crop residue, dung, and native plant waste via pyrolysis. The company markets biochar as a soil amendment to improve soil health, reduce emissions, and support rural livelihoods. Registered as Nurist Biocarbon Private Limited in India.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://nuristbiocarbon.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://nuristbiocarbon.com/ ([source](https://www.cdr.fyi/supplier/nurist-biocarbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/nurist-biocarbon))
 
 ---

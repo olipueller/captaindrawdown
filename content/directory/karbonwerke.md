@@ -2,7 +2,7 @@
 title: "Karbonwerke"
 layout: "single"
 type: "directory"
-description: "Karbonwerke is a Swiss company that captures and stores CO2 from biogenic sources — biogas plants and biorefineries that release CO2 as a byproduct — to provide"
+description: "Karbonwerke (KWI - Karbonwerke International) is a small Swiss company that captures biogenic CO2 from sources such as biogas plants, liquefies it, and"
 url: "/directory/karbonwerke/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
@@ -12,19 +12,23 @@ liveliness: "🟡 Moderate"
 **Method:** BECCS
 **Country:** Switzerland
 **Website:** [https://www.karbonwerke.com/](https://www.karbonwerke.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 199
+**Status:** 🟡 Moderate (score: 40/100)
+**Employees:** ~1 (-50% YoY)
+**LinkedIn Followers:** 200
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Karbonwerke is a Swiss company that captures and stores CO2 from biogenic sources — biogas plants and biorefineries that release CO2 as a byproduct — to provide negative emissions. They offer carbon removal credits and long-term CO2 offtake to partner facilities, and also run a small advisory arm on CDR technologies.
+Karbonwerke (KWI - Karbonwerke International) is a small Swiss company that captures biogenic CO2 from sources such as biogas plants, liquefies it, and transports it to permanent geological storage to generate carbon removal credits. It also operates a Karbon Advisory arm providing consulting on CO2 capture and carbon markets. Very small team (~1-2 employees) with no public registry deliveries identified.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.karbonwerke.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.karbonwerke.com/supply))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟠 Suspect ([source](https://www.karbonwerke.com/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.karbonwerke.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

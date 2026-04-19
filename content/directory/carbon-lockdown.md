@@ -2,7 +2,7 @@
 title: "Carbon Lockdown"
 layout: "single"
 type: "directory"
-description: "Carbon Lockdown Project is a US public benefit corporation spun out of University of Maryland research by Dr. Ning Zeng, developing wood-vault biomass burial fo"
+description: "Carbon Lockdown Project is a US public benefit corporation founded by University of Maryland professor Dr. Ning Zeng that develops engineered \"wood vaults\" for"
 url: "/directory/carbon-lockdown/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -12,16 +12,16 @@ liveliness: "🟢 Active"
 **Method:** BiCRS (Other)
 **Country:** United States
 **Website:** [https://carbonlockdown.net/](https://carbonlockdown.net/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~5 (0% YoY)
-**LinkedIn Followers:** 669
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~5
+**LinkedIn Followers:** 682
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Carbon Lockdown Project is a US public benefit corporation spun out of University of Maryland research by Dr. Ning Zeng, developing wood-vault biomass burial for durable carbon removal. Its flagship 5,000 tCO2e Potomac Project is considered the world's first commercial-scale wood vault, with CORC credits issued under the Puro.earth Terrestrial Storage of Biomass methodology, and the company has delivered tonnes to buyers including Kinnevik via Climate Vault.
+Carbon Lockdown Project is a US public benefit corporation founded by University of Maryland professor Dr. Ning Zeng that develops engineered "wood vaults" for durable biomass burial carbon removal. Its flagship Potomac Project in Maryland targets 5,000 tCO2e of buried woody biomass, with CORC credits validated via Climate Vault and a first 1,000-ton sale to Kinnevik. The company received $4.7M from the US DOE Carbon Negative Shot Pilots program and is partnering with Mast Reforestation on a Montana site.
 
 ## Registry Memberships
 
@@ -29,6 +29,8 @@ Carbon Lockdown Project is a US public benefit corporation spun out of Universit
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonlockdown.net/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonlockdown.net/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

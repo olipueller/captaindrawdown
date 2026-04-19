@@ -2,31 +2,38 @@
 title: "Retort Biofuels"
 layout: "single"
 type: "directory"
-description: "Retort Biofuels is a small India-based (Jaipur/Nagpur) biochar producer that pyrolyzes wood waste to manufacture biochar and wood vinegar for sustainable agricu"
+description: "Retort Biofuels is a small Jaipur, India-based producer of biochar and wood vinegar (pyroligneous acid) from wood-waste pyrolysis, marketed primarily through"
 url: "/directory/retort-biofuels/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** India
-**Website:** [https://www.linkedin.com/company/retort-biofuels/](https://www.linkedin.com/company/retort-biofuels/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Website:** [https://www.indiamart.com/retort-biofuels/](https://www.indiamart.com/retort-biofuels/)
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~53728 (+188% YoY)
+**LinkedIn Followers:** 2,118
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Retort Biofuels is a small India-based (Jaipur/Nagpur) biochar producer that pyrolyzes wood waste to manufacture biochar and wood vinegar for sustainable agriculture applications (soil amendment, pest control). The company markets through IndiaMart and LinkedIn, positioning itself as a renewable-fuels and agri-input supplier rather than a dedicated carbon-removal credit issuer. No registry listings or CDR credit sales were identified.
+Retort Biofuels is a small Jaipur, India-based producer of biochar and wood vinegar (pyroligneous acid) from wood-waste pyrolysis, marketed primarily through IndiaMart for agricultural uses such as soil amendment and pest control. The company positions itself as a sustainable agri-input supplier rather than a dedicated carbon-removal credit issuer, and has no registry listings or visible CDR credit sales.
 
 ![Retort Biofuels website](/screenshots/v1-thumbnails/retort-biofuels.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](N/A))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.indiamart.com/retort-biofuels/other-products.html))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.indiamart.com/retort-biofuels/other-products.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/amazom/)
 
 ---
 

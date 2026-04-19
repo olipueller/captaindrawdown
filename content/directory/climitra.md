@@ -2,7 +2,7 @@
 title: "Climitra"
 layout: "single"
 type: "directory"
-description: "Climitra Carbon Private Limited is a Delhi-based biochar startup founded in February 2025 that engineers feedstock-specific pyrolysis machinery and a geospatial"
+description: "Climitra Carbon Private Limited is a Delhi-based biochar company incorporated on 22 February 2025 and registered at the Registrar of Companies in Delhi. Its"
 url: "/directory/climitra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,21 +12,23 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** India
 **Website:** [https://climitra.com/](https://climitra.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~10
-**LinkedIn Followers:** 1,202
+**Status:** 🟢 Active (score: 88/100)
+**Employees:** ~11 (+450% YoY)
+**LinkedIn Followers:** 1,497
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Climitra Carbon Private Limited is a Delhi-based biochar startup founded in February 2025 that engineers feedstock-specific pyrolysis machinery and a geospatial biomass-intelligence platform to supply industrial-grade bio-coal to Indian steelmakers while generating CDR credits. The company raised $1.8M pre-seed in June 2025 and is deploying its first project in Kutch (Gujarat) plus projects in Punjab and Uttarakhand.
+Climitra Carbon Private Limited is a Delhi-based biochar company incorporated on 22 February 2025 and registered at the Registrar of Companies in Delhi. Its core product is engineered biochar designed as a drop-in replacement for PCI coal in blast furnaces without costly retrofits. The company raised $1.8M in pre-seed funding in June 2025 and is scaling projects across India — a first facility in Kutch, plus planned projects in Punjab (rice stubble) and Uttarakhand (carbon removal focus).
 
-![Climitra website](/screenshots/v1-thumbnails/climitra.jpg)
+![Climitra website](/screenshots/climitra/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://climitra.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://climitra.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

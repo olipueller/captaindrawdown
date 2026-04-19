@@ -2,31 +2,35 @@
 title: "greenSand"
 layout: "single"
 type: "directory"
-description: "greenSand is a Netherlands-based enhanced rock weathering supplier founded in 2009 that sells olivine products sourced from mines in Spain, Norway, Italy and Tu"
+description: "greenSand is a Netherlands-based enhanced rock weathering supplier based in Enkhuizen that mines, grinds and distributes olivine as a replacement for"
 url: "/directory/greensand/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Enhanced Weathering
 **Method:** Enhanced Rock Weathering
 **Country:** Netherlands
 **Website:** [https://greensand.com/en](https://greensand.com/en)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~5 (-17% YoY)
-**LinkedIn Followers:** 1,463
+**LinkedIn Followers:** 1,468
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-greenSand is a Netherlands-based enhanced rock weathering supplier founded in 2009 that sells olivine products sourced from mines in Spain, Norway, Italy and Turkey, replacing conventional sand and stone in gardens, pathways, municipalities and sports fields. They also issue CO2 removal certificates registered with ONCRA, including a certified Uithoornlijn project validated in 2025.
+greenSand is a Netherlands-based enhanced rock weathering supplier based in Enkhuizen that mines, grinds and distributes olivine as a replacement for conventional sand and stone to permanently capture atmospheric CO2. The company sells both certified olivine products and ONCRA-certified CO2 removal certificates, with validated projects including the Uithoornlijn and Arnhem Depot rail projects, and is expanding via a greenSand Japan partnership.
 
-![greenSand website](/screenshots/v1-thumbnails/greensand.jpg)
+![greenSand website](/screenshots/greensand/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://greensand.com/en/blogs/news/greensand-japan))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

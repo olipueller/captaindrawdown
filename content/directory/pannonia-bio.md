@@ -2,7 +2,7 @@
 title: "Pannonia Bio"
 layout: "single"
 type: "directory"
-description: "Pannonia Bio is Europe's largest single-site grain biorefinery, located in Dunaföldvár, Hungary, producing bioethanol, biomethane, animal feed, proteins and cor"
+description: "Pannonia Bio is Europe's largest single-site grain biorefinery, located in Dunaföldvár, Hungary, producing bioethanol, biomethane, animal feed, protein"
 url: "/directory/pannonia-bio/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -12,21 +12,27 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** Hungary
 **Website:** [https://www.pannoniabio.com/](https://www.pannoniabio.com/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~155 (+11% YoY)
+**LinkedIn Followers:** 3,434
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Pannonia Bio is Europe's largest single-site grain biorefinery, located in Dunaföldvár, Hungary, producing bioethanol, biomethane, animal feed, proteins and corn oil. The company is developing a BECCS project ("Danube Removals") to capture ~500,000 tonnes/year of biogenic CO2 from its fermentation and biomethane-upgrading processes and inject it into nearby depleted gas fields/saline aquifers with partner OGD Green Storage. The capture-and-storage infrastructure is pre-FID, pending a 3D seismic study and test well, but the fermentation CO2 source is operational today.
+Pannonia Bio is Europe's largest single-site grain biorefinery, located in Dunaföldvár, Hungary, producing bioethanol, biomethane, animal feed, protein concentrates and corn oil from corn and barley. Together with sister company Danube Carbon Storage (backed by parent ClonBio Group and EMOV Limited), it is developing the Danube Removals BECCS project to capture ~500,000 tonnes/year of biogenic CO2 from yeast fermentation and anaerobic digestion and permanently store it in a saline aquifer in the Pannonian Basin, generating CRCF-compliant carbon removal credits.
 
-![Pannonia Bio website](/screenshots/v1-thumbnails/pannonia-bio.jpg)
+![Pannonia Bio website](/screenshots/pannonia-bio/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://danubeenergy.com/danube-removals/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://carbon-pulse.com/206719/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/pannonia-bio-zrt/)
 
 ---
 

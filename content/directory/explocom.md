@@ -2,7 +2,7 @@
 title: "Explocom"
 layout: "single"
 type: "directory"
-description: "Explocom GK SRL is a production company of biochar-based products located in Lupeni Jud-Harghita, Romania, and its products are EBC certified. The firm is a man"
+description: "Explocom GK SRL, operating under the GEKKA brand, is a Romanian biochar and wood vinegar producer based in Cristuru Secuiesc, Harghita County, using a patented"
 url: "/directory/explocom/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,18 +11,18 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Romania
-**Website:** [https://biochar-zero.com/company/explocom-gk-srl/](https://biochar-zero.com/company/explocom-gk-srl/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 4,479
+**Website:** [https://gekka.bio/](https://gekka.bio/)
+**Status:** 🟢 Active (score: 78/100)
+**Employees:** ~3 (0% YoY)
+**LinkedIn Followers:** 28
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-Explocom GK SRL is a production company of biochar-based products located in Lupeni Jud-Harghita, Romania, and its products are EBC certified. The firm is a manufacturer of organic chemicals and a producer of charcoal and bulk char, which added wood waste to its production in 2007, and through Innovation Norway financing developed biochar, wood vinegar, wood oil and cellulosic alcohol products. The company is listed as a biochar supplier on the Puro.earth registry.
+Explocom GK SRL, operating under the GEKKA brand, is a Romanian biochar and wood vinegar producer based in Cristuru Secuiesc, Harghita County, using a patented pyrolysis process for biomass carbonization. The company started as a charcoal producer in 1992, patented its pyrolysis method in 2013, and since 2018 has focused on biochar for agricultural soil amendment. Its biochar carbon credits are managed via the Puro.earth registry.
 
-![Explocom website](/screenshots/v1-thumbnails/explocom.jpg)
+![Explocom website](/screenshots/explocom/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -30,10 +30,22 @@ Explocom GK SRL is a production company of biochar-based products located in Lup
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Gekka Biochar
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://gekka.bio/en/about-us/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.bio-gekka.ro/ ([source](https://www.cdr.fyi/supplier/gekka-biochar))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://gekka.bio/en/))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/gekka-biochar))
+- **** — merged duplicate: Gekka Biochar (slug=gekka-biochar)
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://gekka.bio/en/about-us/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.trustpilot.com/review/gekka.bio))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbuni.ro/despre-noi/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/explocom-1-lupeni))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
-[View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)
+[View on LinkedIn](https://www.linkedin.com/company/biogekka/)
 
 ---
 

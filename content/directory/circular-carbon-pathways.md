@@ -2,31 +2,34 @@
 title: "Circular Carbon Pathways"
 layout: "single"
 type: "directory"
-description: "Circular Carbon Pathways (CCP) is a Zambia-based company that aims to produce Biochar Carbon Removal (BCR) certificates through nature-based decarbonization. Th"
+description: "Circular Carbon Pathways (CCP) is a Zambia-based entity positioned around producing biochar carbon removal (BCR) credits from agricultural residues. Its public"
 url: "/directory/circular-carbon-pathways/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Zambia
 **Website:** [https://ccp.africa/](https://ccp.africa/)
-**Status:** 🟠 Suspect (score: 25/100)
-**Employees:** ~1
-**LinkedIn Followers:** 71
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2
+**LinkedIn Followers:** 78
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Circular Carbon Pathways (CCP) is a Zambia-based company that aims to produce Biochar Carbon Removal (BCR) certificates through nature-based decarbonization. The website is minimal with just a tagline, and no recent press, funding, or registry-listed issuances were found. With only 1 employee on LinkedIn and no public signals of operational activity, the company appears to be very early-stage or stalled.
+Circular Carbon Pathways (CCP) is a Zambia-based entity positioned around producing biochar carbon removal (BCR) credits from agricultural residues. Its public website contains only a tagline, and no registry issuances, funding, partnerships, or project deliveries have surfaced. With a single LinkedIn employee and no recent public signals, the company appears to be either very early-stage or effectively dormant.
 
-![Circular Carbon Pathways website](/screenshots/v1-thumbnails/circular-carbon-pathways.jpg)
+![Circular Carbon Pathways website](/screenshots/circular-carbon-pathways/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](https://circular-carbon.com/en/carbon-credits/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://ccp.africa/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://ccp.africa/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

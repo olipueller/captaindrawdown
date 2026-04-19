@@ -2,7 +2,7 @@
 title: "Patch"
 layout: "single"
 type: "directory"
-description: "Patch is a climate solutions provider that offers companies software, data and expertise to streamline purchasing and management of carbon credits. The platform"
+description: "Patch is a San Francisco-based carbon credit platform that combines software, data, and climate-expert services to help corporate buyers source, diligence,"
 url: "/directory/patch/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -13,15 +13,17 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://www.patch.io/](https://www.patch.io/)
 **Status:** 🟢 Active (score: 92/100)
+**Employees:** ~94
+**LinkedIn Followers:** 32,079
 **Open roles on cdrjobs:** 12
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Patch is a climate solutions provider that offers companies software, data and expertise to streamline purchasing and management of carbon credits. The platform aggregates a centralized database of more than 25,000 projects, including 100% of the projects from ICROA-endorsed registries. Patch is part of the CDR ecosystem as a marketplace/platform, not a supplier that physically removes CO2.
+Patch is a San Francisco-based carbon credit platform that combines software, data, and climate-expert services to help corporate buyers source, diligence, purchase, and manage voluntary carbon market credits (including CDR). It launched a relaunched, AI-powered platform in April 2025 aggregating 25,000+ projects across ICROA-endorsed registries. Patch is part of the CDR ecosystem as a marketplace/platform, not a physical CO2 remover.
 
-![Patch website](/screenshots/v1-thumbnails/patch.jpg)
+![Patch website](/screenshots/patch/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,8 +31,12 @@ Patch is a climate solutions provider that offers companies software, data and e
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.patch.io/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.patch.io/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/patch-technologies/)
 
 ---
 

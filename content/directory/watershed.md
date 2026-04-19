@@ -2,7 +2,7 @@
 title: "Watershed"
 layout: "single"
 type: "directory"
-description: "Watershed provides enterprise software for measuring, reducing, and reporting corporate emissions, and runs a curated marketplace of scientifically vetted carbo"
+description: "Watershed is an enterprise sustainability software platform that helps companies measure, report, and reduce emissions, and operates a curated marketplace of"
 url: "/directory/watershed/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -13,13 +13,15 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://watershed.com/](https://watershed.com/)
 **Status:** 🟢 Active (score: 95/100)
+**Employees:** ~603 (+5% YoY)
+**LinkedIn Followers:** 72,687
 **Open roles on cdrjobs:** 1
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Watershed provides enterprise software for measuring, reducing, and reporting corporate emissions, and runs a curated marketplace of scientifically vetted carbon removal projects (DAC, bio-oil, biochar, ERW, reforestation, etc.) that customers can purchase from. The company does not physically remove CO2 itself — it acts as an intermediary/marketplace and accounting platform in the CDR ecosystem, similar to Patch or Supercritical, while its primary business is broader sustainability reporting software.
+Watershed is an enterprise sustainability software platform that helps companies measure, report, and reduce emissions, and operates a curated marketplace of vetted carbon removal projects (DAC, bio-oil, biochar, ERW, reforestation, and more) that its enterprise customers can purchase from. Watershed does not physically remove CO2; it acts as an accounting platform and marketplace intermediary in the CDR ecosystem. Customers include Walmart, Airbnb, Stripe, Klarna, and Block.
 
 ![Watershed website](/screenshots/v1-thumbnails/watershed.jpg)
 
@@ -29,8 +31,12 @@ Watershed provides enterprise software for measuring, reducing, and reporting co
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://watershed.com/platform/marketplace))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://watershed.com/platform/marketplace))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/watershedclimate/)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Arbor"
 layout: "single"
 type: "directory"
-description: "Arbor Energy is a US-based BECCS/BiCRS startup founded in 2022 by SpaceX veterans, building a modular oxy-combustion + supercritical CO2 turbine system that con"
+description: "Arbor is a US-based BECCS startup founded in 2022 by SpaceX veterans that converts waste biomass into clean electricity while capturing >99% of CO2 via an"
 url: "/directory/arbor/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -13,20 +13,28 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://arbor.co/](https://arbor.co/)
 **Status:** 🟢 Active (score: 95/100)
-**Employees:** ~58 (+29% YoY)
-**LinkedIn Followers:** 8,086
+**Employees:** ~59 (+26% YoY)
+**LinkedIn Followers:** 8,359
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Arbor Energy is a US-based BECCS/BiCRS startup founded in 2022 by SpaceX veterans, building a modular oxy-combustion + supercritical CO2 turbine system that converts waste biomass into clean electricity while capturing >99% of CO2 for permanent geologic sequestration. In July 2025 Frontier signed a $41M offtake to deliver 116,000 tons of CDR between 2028-2030, supporting Arbor's first commercial plant near Lake Charles, Louisiana.
+Arbor is a US-based BECCS startup founded in 2022 by SpaceX veterans that converts waste biomass into clean electricity while capturing >99% of CO2 via an oxy-combustion supercritical CO2 turbine system. In July 2025 Frontier signed a $41M offtake for 116,000 tons of CDR delivered 2028-2030, funding Arbor's first commercial facility near Lake Charles, Louisiana. The company also has an offtake deal with Google and uses Isometric as its credit issuer.
 
-![Arbor website](/screenshots/v1-thumbnails/arbor.jpg)
+![Arbor website](/screenshots/arbor/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Arbor Energy
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/arbor))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/arbor))
+- **2026-04-18** — discovered via: web_search_ai ([source](https://arbor.earth))
+- **** — merged duplicate: Arbor Energy (slug=arbor-energy)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/portfolio/arbor))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/arbor))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

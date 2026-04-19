@@ -2,31 +2,36 @@
 title: "Air View Engineering"
 layout: "single"
 type: "directory"
-description: "Air View Engineering was founded in 2021, is headquartered in Swansea, United Kingdom, and has 4 total employees. The company is developing smaller, cost-effici"
+description: "Air View Engineering is a Swansea, UK-based direct air capture startup founded in 2021 with approximately 4 employees. The company develops direct air capture"
 url: "/directory/air-view-engineering/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** United Kingdom
 **Website:** [https://www.airviewengineering.co.uk/](https://www.airviewengineering.co.uk/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Status:** 🟡 Moderate (score: 45/100)
 **Employees:** ~4 (0% YoY)
-**LinkedIn Followers:** 277
+**LinkedIn Followers:** 280
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Air View Engineering was founded in 2021, is headquartered in Swansea, United Kingdom, and has 4 total employees. The company is developing smaller, cost-efficient solid sorbent Direct Air Capture systems, leveraging additive manufacturing for modular adsorbent units. It has raised $26.5K, with AirMiners and Remove (Netherlands) among its investors, and has participated in the Shell StartUp Engine UK programme and won Innovate UK Smart Grants.
+Air View Engineering is a Swansea, UK-based direct air capture startup founded in 2021 with approximately 4 employees. The company develops direct air capture systems designed for smaller scale and lower cost applications, aiming to make DAC technology accessible to a wider range of clients. It was selected for Shell's StartUp Engine UK programme and uses additive manufacturing (3D printing with carbon-fibre reinforced filaments) for its modular adsorbent units and regenerative chambers.
 
-![Air View Engineering website](/screenshots/v1-thumbnails/air-view-engineering.jpg)
+![Air View Engineering website](/screenshots/air-view-engineering/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.airviewengineering.co.uk/))
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.airviewengineering.co.uk/ourapproach))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.airviewengineering.co.uk/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.airviewengineering.co.uk/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

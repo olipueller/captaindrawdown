@@ -2,7 +2,7 @@
 title: "Carbon Gap"
 layout: "single"
 type: "directory"
-description: "Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and research NGO, based in the UK and focused on shaping EU policy frameworks to enable the"
+description: "Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and research NGO, headquartered in the UK with staff also in Belgium and France. Its"
 url: "/directory/carbon-gap/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -11,15 +11,17 @@ liveliness: "🟢 Active"
 **Pathway:** Enabling Tech
 **Method:** CDR Platform/Marketplace
 **Country:** United Kingdom
-**Website:** [https://www.carbongap.org/](https://www.carbongap.org/)
-**Status:** 🟢 Active (score: 88/100)
+**Website:** [https://carbongap.org/](https://carbongap.org/)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~25 (-14% YoY)
+**LinkedIn Followers:** 14,204
 **Open roles on cdrjobs:** 2
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and research NGO, based in the UK and focused on shaping EU policy frameworks to enable the scale-up of permanent carbon removal. Carbon Gap LTD is a registered charity (charity number 1200562) and a private company limited by guarantee, registered in England and Wales. It does not itself remove CO2 — it produces policy briefs, a Policy Tracker, the CARE Calculator, and country readiness assessments to guide European decision-makers.
+Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and research NGO, headquartered in the UK with staff also in Belgium and France. Its Carbon Removal Readiness Assessments project develops CDR roadmaps for European countries — having completed France and Norway, and now working on Finland, Germany, Italy, Poland, and Spain. It also runs an EU Policy Tracker and CDR Funding Tracker to support policymakers and the broader CDR ecosystem.
 
 ## Registry Memberships
 
@@ -27,8 +29,12 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbongap.org/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbongap.org/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/carbon-removal-advocacy-europe/)
 
 ---
 

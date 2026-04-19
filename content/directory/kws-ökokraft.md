@@ -2,18 +2,18 @@
 title: "KWS Ökokraft"
 layout: "single"
 type: "directory"
-description: "KWS Ökokraft GmbH is an Austrian company founded in 2017 that runs a 400 kW electric / 600 kW thermal wood gasification plant in Ternitz. The facility co-produc"
+description: "KWS Ökokraft GmbH is a small Austrian energy company (founded 2017, HQ Ternitz, Lower Austria) that operates a SynCraft CW1200-400 wood-gas CHP plant"
 url: "/directory/kws-ökokraft/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Secondary pathways:** BECCS
 **Method:** Biochar
 **Country:** Austria
-**Website:** [https://biochar-zero.com/company/kws-okokraft-gmbh/](https://biochar-zero.com/company/kws-okokraft-gmbh/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Website:** [https://www.oekokraft.at](https://www.oekokraft.at)
+**Status:** 🟢 Active (score: 72/100)
 **Employees:** ~2 (-33% YoY)
 **LinkedIn Followers:** 4,479
 **CDR Focus:** supplier
@@ -21,13 +21,17 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-KWS Ökokraft GmbH is an Austrian company founded in 2017 that runs a 400 kW electric / 600 kW thermal wood gasification plant in Ternitz. The facility co-produces biochar (roughly 3.7 m³/day, ~1.8 t CO2/day sequestered) alongside renewable power and heat fed into the local district-heating network. It is a small owner-operated facility (3 shareholders, ~2 employees) using SynCraft technology rather than a commercial CDR-credit issuer.
+KWS Ökokraft GmbH is a small Austrian energy company (founded 2017, HQ Ternitz, Lower Austria) that operates a SynCraft CW1200-400 wood-gas CHP plant commissioned in July 2020. The plant delivers ~400 kW electricity to the grid and ~600 kW heat to the local district-heating network, while co-producing EBC-certified biochar (~3.7 m³/day, sequestering roughly 1.8 t CO2/day) as a permanent carbon sink used for soil improvement.
 
-![KWS Ökokraft website](/screenshots/v1-thumbnails/kws--kokraft.jpg)
+![KWS Ökokraft website](/screenshots/kws-ökokraft/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.syncraft.at/en/references/ternitz/))
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.biomasseverband.at/wp-content/uploads/Holzenergiepreis2023SiegerHACKGUT.pdf))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.syncraft.at/en/references/ternitz/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-zero.com/company/kws-okokraft-gmbh/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,30 +2,37 @@
 title: "Bureau of Economic Geology"
 layout: "single"
 type: "directory"
-description: "The Bureau of Economic Geology (BEG) is the State Geological Survey of Texas, a research unit within the University of Texas at Austin's Jackson School of Geosc"
+description: "The Gulf Coast Carbon Center (GCCC) is an industry-funded research programme run by the Bureau of Economic Geology at the University of Texas at Austin,"
 url: "/directory/bureau-of-economic-geology/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Enabling Tech
 **Secondary pathways:** Mineralization
 **Method:** Unknown
-**Country:** Unknown
-**Website:** [https://ror.org/034bxn811](https://ror.org/034bxn811)
-**Status:** 🟢 Active (score: 95/100)
+**Country:** United States
+**Website:** [https://www.beg.utexas.edu/](https://www.beg.utexas.edu/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~26105
+**LinkedIn Followers:** 800,900
 **CDR Focus:** ecosystem
 **Evidence signals:** openalex_paper
 
 ## About
 
-The Bureau of Economic Geology (BEG) is the State Geological Survey of Texas, a research unit within the University of Texas at Austin's Jackson School of Geosciences. Its Gulf Coast Carbon Center (GCCC) has been a global leader since 1999 in geological CO2 storage research, monitoring, site characterization, and CCS/CDR science. BEG is a research institution that supports the CDR/CCS ecosystem rather than a commercial supplier of removals.
+The Gulf Coast Carbon Center (GCCC) is an industry-funded research programme run by the Bureau of Economic Geology at the University of Texas at Austin, started in 1998 with around 18 industry sponsors. Since 1999, the GCCC has been a global leader in research on geological storage, retention and monitoring of CO₂ in the deep subsurface, enabling the private sector to develop CO₂ storage industry in the Gulf of Mexico, across the U.S., and globally. BEG/GCCC supports the CDR/CCS ecosystem via research, site characterization, monitoring science, and training rather than operating commercial removal projects.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://gccc.beg.utexas.edu/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://gccc.beg.utexas.edu/))
 - **2026-04-18** — discovered via: openalex ([source](https://openalex.org/I4403928371))
+
+[View on LinkedIn](https://www.linkedin.com/company/theuniversityoftexasataustin-/)
 
 ---
 

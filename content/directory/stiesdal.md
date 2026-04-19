@@ -2,31 +2,38 @@
 title: "Stiesdal"
 layout: "single"
 type: "directory"
-description: "SkyClean is the biochar/pyrolysis division of Danish cleantech group Stiesdal (founded by wind pioneer Henrik Stiesdal). It develops and commercializes 20 MW tu"
+description: "Stiesdal SkyClean A/S is the biochar/pyrolysis subsidiary of Danish cleantech group Stiesdal, founded by wind-power pioneer Henrik Stiesdal. It develops"
 url: "/directory/stiesdal/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Denmark
 **Website:** [https://www.stiesdal.com/skyclean/](https://www.stiesdal.com/skyclean/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~116 (-13% YoY)
+**LinkedIn Followers:** 22,361
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-SkyClean is the biochar/pyrolysis division of Danish cleantech group Stiesdal (founded by wind pioneer Henrik Stiesdal). It develops and commercializes 20 MW turnkey pyrolysis plants; a commercial-scale plant in Vraa, Denmark was inaugurated in October 2024. The broader Stiesdal group also works on offshore wind, electrolyzers and energy storage, but SkyClean is a dedicated CDR supplier.
+Stiesdal SkyClean A/S is the biochar/pyrolysis subsidiary of Danish cleantech group Stiesdal, founded by wind-power pioneer Henrik Stiesdal. It develops turnkey 20 MW pyrolysis plants that convert agricultural and forestry residues into biochar (for permanent soil carbon storage) plus bio-oil and syngas; the first commercial-scale plant was inaugurated in Vrå, North Jutland in October 2024 and became fully operational in Q2 2024. The parent Stiesdal A/S also works on floating offshore wind (TetraSpar), GridScale energy storage and HydroGen electrolyzers, but SkyClean is a dedicated CDR supplier.
 
-![Stiesdal website](/screenshots/v1-thumbnails/stiesdal.jpg)
+![Stiesdal website](/screenshots/stiesdal/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.stiesdal.com/skyclean/the-skyclean-technology-explained/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.stiesdal.com/skyclean/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/stiesdal/)
 
 ---
 

@@ -2,30 +2,33 @@
 title: "EDAC Labs"
 layout: "single"
 type: "directory"
-description: "EDAC Labs is a Baltimore-based Johns Hopkins spin-out (founded July 2022) commercializing an exclusively-licensed electrochemical salt-splitting technology that"
+description: "EDAC Labs is a Baltimore-based Johns Hopkins spin-out (founded July 2022) that exclusively licensed an electrochemical salt-splitting technology producing"
 url: "/directory/edac-labs/"
-pathway: "DAC"
-liveliness: "🟡 Moderate"
+pathway: "Mineralization"
+liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization, Ocean CDR, Enhanced Weathering
+**Pathway:** Mineralization
+**Secondary pathways:** DAC, Enabling Tech, Enhanced Weathering, Ocean CDR
 **Method:** DAC (Liquid Solvent)
 **Country:** United States
 **Website:** [https://edaclabs.com/](https://edaclabs.com/)
-**Status:** 🟡 Moderate (score: 60/100)
-**Employees:** ~7 (-30% YoY)
-**LinkedIn Followers:** 685
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~7 (-22% YoY)
+**LinkedIn Followers:** 700
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-EDAC Labs is a Baltimore-based Johns Hopkins spin-out (founded July 2022) commercializing an exclusively-licensed electrochemical salt-splitting technology that produces low-cost acid and base for carbon removal applications. Its technology serves both as an enabling input for third-party DAC/OAE/ERW developers and as the basis for an in-house carbon-negative mining project that combines metal recovery with permanent CO2 storage as carbonates. Raised a $3M seed from the Grantham Foundation in Aug 2023 and received a $500K Frontier prepurchase the same year.
+EDAC Labs is a Baltimore-based Johns Hopkins spin-out (founded July 2022) that exclusively licensed an electrochemical salt-splitting technology producing low-cost acid and base for carbon-removal applications. Its in-house CDR project combines critical-metal recovery from mine tailings with permanent CO2 mineralization as carbonates, and it also sells its electrosynthesizer as an enabling input to third-party DAC, OAE, and ERW developers. Backed by a $3M seed round (Grantham Foundation, 2023), a $500K Frontier prepurchase (Stripe/Shopify, 2023), and ARPA-E MINER BOOST program funding.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://tracxn.com/d/companies/edac-labs/__M0SdvT2c4Zmc4AU5oeGjM6ENTnBhCGSjD30X_47lbXA))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟡 Moderate ([source](https://edaclabs.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://edaclabs.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

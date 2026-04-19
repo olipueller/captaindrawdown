@@ -2,21 +2,32 @@
 title: "Byron Biochar"
 layout: "single"
 type: "directory"
-description: "Byron Biochar — Unknown company in Unknown"
+description: "Byron Biochar is an Australian social enterprise founded by Don Coyne that produces and distributes biochar and wood vinegar products for agriculture and soil"
 url: "/directory/byron-biochar/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Australia
+**Website:** [https://byronbiochar.com.au/](https://byronbiochar.com.au/)
+**Status:** 🟡 Moderate (score: 60/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Byron Biochar is an Australian social enterprise founded by Don Coyne that produces and distributes biochar and wood vinegar products for agriculture and soil restoration. The company operates out of the Byron Bay/Tyagarah region in New South Wales and sells biochar products Australia-wide.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://byronbiochar.com.au/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/byron-biochar))
+
+[View on LinkedIn](https://www.linkedin.com/company/byron-biochar/)
 
 ---
 

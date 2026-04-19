@@ -2,21 +2,42 @@
 title: "DeCarbon Tech"
 layout: "single"
 type: "directory"
-description: "DeCarbon Tech — Unknown company in Unknown"
+description: "DeCarbon Tech is a Shenzhen-based climate technology company founded by professors from the Southern University of Science and Technology (SUSTech), developing"
 url: "/directory/decarbon-tech/"
-pathway: "Unknown"
+pathway: "DAC"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** DAC
+**Secondary pathways:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** China
+**Website:** [https://www.de-carbon.com.cn/en](https://www.de-carbon.com.cn/en)
+**Status:** 🟡 Moderate (score: 60/100)
+**Employees:** ~2 (0% YoY)
+**LinkedIn Followers:** 49
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+DeCarbon Tech is a Shenzhen-based climate technology company founded by professors from the Southern University of Science and Technology (SUSTech), developing next-generation CO2 capture technology. The company commercializes academic research on capture materials and operates an AI platform (aidecarbon.org) featuring a carbon capture LLM and materials development tools.
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): DeCarbon Technology
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.de-carbon.com.cn/en))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.de-carbon.com.cn/en ([source](https://www.cdr.fyi/supplier/decarbon-technology))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/decarbon-technology))
+- **** — merged duplicate: DeCarbon Technology (slug=decarbon-technology)
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.de-carbon.com.cn/en))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://de-carbon.com.cn/ ([source](https://www.cdr.fyi/supplier/decarbon-tech))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/decarbon-tech))
+
+[View on LinkedIn](https://www.linkedin.com/company/decarbon-tech/)
 
 ---
 

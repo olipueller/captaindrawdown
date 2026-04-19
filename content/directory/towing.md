@@ -2,7 +2,7 @@
 title: "Towing"
 layout: "single"
 type: "directory"
-description: "TOWING is a Japanese Nagoya University spinout founded in 2020 that has developed a crop cultivation system to enable more sustainable farming practices. In Jun"
+description: "TOWING is a Nagoya University spinout founded in February 2020 that develops Soratan, a high-performance biochar made from carbonized locally sourced biomass"
 url: "/directory/towing/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,14 +12,16 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Japan
 **Website:** [https://towing.co.jp/](https://towing.co.jp/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~24 (+41% YoY)
+**LinkedIn Followers:** 711
 **Open roles on cdrjobs:** 12
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-TOWING is a Japanese Nagoya University spinout founded in 2020 that has developed a crop cultivation system to enable more sustainable farming practices. In June 2023, a project of Soratan was registered under Japan's J-Credit Scheme for "Biochar Application to Farmland" and has issued carbon credits three times. The company partners with firms like Suntory and Biocare to scale biochar-based carbon removal globally.
+TOWING is a Nagoya University spinout founded in February 2020 that develops Soratan, a high-performance biochar made from carbonized locally sourced biomass enhanced with functional microbes, delivering increased yield, improved crop quality, and soil carbon sequestration when applied to farmland. In June 2023, a Soratan project was registered under Japan's J-Credit Scheme for "Biochar Application to Farmland" and has issued carbon credits three times. The company closed a Series B in May 2025 to expand Soratan production, distribution, and carbon credit generation, and has also partnered with Suntory, J-POWER, and Biocare.
 
 ![Towing website](/screenshots/v1-thumbnails/towing.jpg)
 
@@ -29,8 +31,12 @@ TOWING is a Japanese Nagoya University spinout founded in 2020 that has develope
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.suntory.com/news/article/14813E.html))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.suntory.com/news/article/14813E.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/towing-co-ltd/)
 
 ---
 

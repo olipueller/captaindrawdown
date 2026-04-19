@@ -2,25 +2,27 @@
 title: "Midori Partner"
 layout: "single"
 type: "directory"
-description: "Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer specializing in ecosystem restoration, structuring biochar and agroforestry projec"
+description: "Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer specializing in biochar carbon removal and ecosystem restoration projects across"
 url: "/directory/midori-partner/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
-**Secondary pathways:** Afforestation
+**Secondary pathways:** Afforestation, Enhanced Weathering
 **Method:** Biomass Carbon Removal
-**Country:** Germany
+**Country:** Singapore
 **Website:** [https://midori-partner.com/](https://midori-partner.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~6
+**LinkedIn Followers:** 1,063
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer specializing in ecosystem restoration, structuring biochar and agroforestry projects across Southeast Asia including Cambodia, Thailand, Vietnam, and Malaysia. In early 2025 the company closed a pre-seed round led by Tokio Marine Holdings to expand biochar carbon removal projects across Asia, with its first project launching in Cambodia. Note: DB listed as Germany-based, but company is actually headquartered in Singapore.
+Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer specializing in biochar carbon removal and ecosystem restoration projects across Southeast Asia (Cambodia, Thailand, Vietnam, Malaysia). It closed a pre-seed round led by Tokio Marine Holdings in early 2025 and is launching its first biochar project in Cambodia targeting >10,000 tCO2e of durable CDR.
 
 ![Midori Partner website](/screenshots/v1-thumbnails/midori-partner.jpg)
 
@@ -30,8 +32,19 @@ Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer sp
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Midori Climate Partner Pre. Ltd.
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://midori-partner.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://midori-partner.com/ ([source](https://www.cdr.fyi/supplier/midori-climate-partner))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/midori-climate-partner))
+- **** — merged duplicate: Midori Climate Partner Pre. Ltd. (slug=midori-climate-partner-pre-ltd)
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://midori-partner.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://midori-partner.com/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/midoriclimate/)
 
 ---
 

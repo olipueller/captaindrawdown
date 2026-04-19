@@ -2,7 +2,7 @@
 title: "Carbo Culture"
 layout: "single"
 type: "directory"
-description: "Carbo Culture is a Finland-based climate technology company that uses patented Carbolysis™ reactors to take waste biomass and convert it into stable biochar, lo"
+description: "Carbo Culture's patented Carbolysis™ reactors take waste biomass and convert it into stable biochar, locking carbon safely away for centuries and generating"
 url: "/directory/carbo-culture/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,16 +12,16 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Finland
 **Website:** [https://carboculture.com/](https://carboculture.com/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~39 (-13% YoY)
-**LinkedIn Followers:** 13,994
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~40
+**LinkedIn Followers:** 14,163
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Carbo Culture is a Finland-based climate technology company that uses patented Carbolysis™ reactors to take waste biomass and convert it into stable biochar, locking carbon away for centuries while generating renewable energy. In 2025 the company announced ARC Middenmeer, a new biochar plant at the ECW Energy site in Middenmeer, North Holland, expected to remove more than 20,000 tonnes of CO2 annually while producing 40,000 m³ of biochar and 16 MW of sustainable energy. The company produces premium biochar for carbon removal, horticulture, and industrial decarbonization.
+Carbo Culture's patented Carbolysis™ reactors take waste biomass and convert it into stable biochar, locking carbon safely away for centuries and generating renewable energy in the process. The Finland/California-based company is scaling commercial biochar production, including the announced ARC Middenmeer plant at the ECW Energy site in North Holland, expected to remove more than 20,000 tonnes of CO2 annually while producing 40,000 m³ of biochar and 16 MW of sustainable energy. Carbo Culture has raised $24.9M in funding from investors like True Ventures, Wave Ventures and Lifeline Ventures.
 
 ![Carbo Culture website](/screenshots/v1-thumbnails/carbo-culture.jpg)
 
@@ -31,6 +31,8 @@ Carbo Culture is a Finland-based climate technology company that uses patented C
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carboculture.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carboculture.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

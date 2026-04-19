@@ -2,7 +2,7 @@
 title: "Jeevan Climate Solutions"
 layout: "single"
 type: "directory"
-description: "Jeevan Climate Solutions is a Pennsylvania-based (Allentown/Bethlehem) DAC startup spun out of Lehigh University, founded in 2022 by Prof. Arup SenGupta. It dev"
+description: "Jeevan Climate Solutions was founded in 2022 and is based in Bethlehem, Pennsylvania (116 Research Drive). Founder and CEO Arup SenGupta led the Direct Air"
 url: "/directory/jeevan-climate-solutions/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -19,13 +19,16 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Jeevan Climate Solutions is a Pennsylvania-based (Allentown/Bethlehem) DAC startup spun out of Lehigh University, founded in 2022 by Prof. Arup SenGupta. It develops DeCarbonHIX, a copper-armored ion-exchange solid sorbent that captures CO2 from air or flue gas, regenerates with low-temperature heat or seawater, and can convert CO2 to baking soda for ocean storage. The company has received DOE SBIR Phase I funding and investment from Blue Action Accelerator, Founders Factory, and Ben Franklin Technology Partners.
+Jeevan Climate Solutions was founded in 2022 and is based in Bethlehem, Pennsylvania (116 Research Drive). Founder and CEO Arup SenGupta led the Direct Air Capture research paper published in Science Advances (March 2023) on Cu(II)-coordinated chelating weak base ion exchangers, and was most recently the PC Rossin Professor of Chemical and Environmental Engineering at Lehigh University. The company has received over $1 million of innovation funding from the U.S. Department of Energy alongside Lehigh University and Advanced Cooling Technologies, Inc., and was jointly awarded a DOE SBIR Phase I grant with ACT to develop a novel ocean-based abiotic carbon capture technology based on DeCarbonHIX.
 
-![Jeevan Climate Solutions website](/screenshots/v1-thumbnails/jeevan-climate-solutions.jpg)
+![Jeevan Climate Solutions website](/screenshots/jeevan-climate-solutions/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](https://startup-seeker.com/company/jeevanclimate~com))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://jeevanclimate.com/news))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://jeevanclimate.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

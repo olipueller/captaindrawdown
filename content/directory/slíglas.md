@@ -2,7 +2,7 @@
 title: "Slíglas"
 layout: "single"
 type: "directory"
-description: "Slíglas is an Irish biochar startup based in Sligo that transforms residual forestry biomass into biochar for carbon dioxide removal. Founded in 2024 by Paul Mc"
+description: "Slíglas is an Irish biochar startup based in Sligo that transforms residual forestry and woody biomass into biochar for carbon dioxide removal. Founded in 2024"
 url: "/directory/slíglas/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,21 +12,33 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Ireland
 **Website:** [https://sliglas.com/](https://sliglas.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~4 (+100% YoY)
+**LinkedIn Followers:** 348
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Slíglas is an Irish biochar startup based in Sligo that transforms residual forestry biomass into biochar for carbon dioxide removal. Founded in 2024 by Paul McGoldrick and Sadhbh McCarrick, the company partners with local farmers to apply biochar to agricultural land.
+Slíglas is an Irish biochar startup based in Sligo that transforms residual forestry and woody biomass into biochar for carbon dioxide removal. Founded in 2024 by Paul McGoldrick and Sadhbh McCarrick, the company applies biochar to agricultural soils and has a project listed on the Rainbow Standard registry.
 
 ![Slíglas website](/screenshots/v1-thumbnails/sl-glas.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Slíglas Limited
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sliglas.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://sliglas.com/ ([source](https://www.cdr.fyi/supplier/sliglas-limited))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/sliglas-limited))
+- **** — merged duplicate: Slíglas Limited (slug=slíglas-limited)
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sliglas.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sliglas.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/sliglas/)
 
 ---
 

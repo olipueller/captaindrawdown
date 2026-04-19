@@ -2,7 +2,7 @@
 title: "350solutions"
 layout: "single"
 type: "directory"
-description: "350Solutions is a Raleigh, NC-based independent Validation & Verification Body (VVB) for CDR projects. They are accredited by ANAB under ISO 17020 for Environme"
+description: "350Solutions provides independent evaluation of novel low-carbon and clean technologies, with a focus on emerging carbon removal (CDR) technologies, serving as"
 url: "/directory/350solutions/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -10,16 +10,18 @@ liveliness: "🟢 Active"
 
 **Pathway:** Enabling Tech
 **Method:** CDR Platform/Marketplace
-**Country:** Israel
-**Website:** [https://www.350solutions.com/](https://www.350solutions.com/)
-**Status:** 🟢 Active (score: 90/100)
+**Country:** United States
+**Website:** [https://350solutions.com/](https://350solutions.com/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~7 (+17% YoY)
+**LinkedIn Followers:** 981
 **Open roles on cdrjobs:** 1
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-350Solutions is a Raleigh, NC-based independent Validation & Verification Body (VVB) for CDR projects. They are accredited by ANAB under ISO 17020 for Environmental Technology Verification via ISO 14034 and are approved by both Puro and Isometric as VVBs. Their diligence efforts have been a part of over $200M in CDR purchase agreements and technology investments. They do not physically remove CO2 themselves — they are part of the CDR ecosystem as a third-party verifier.
+350Solutions provides independent evaluation of novel low-carbon and clean technologies, with a focus on emerging carbon removal (CDR) technologies, serving as an approved validation and verification body for leading carbon removal registries and providing due diligence to CDR credit buyers and project investors. They are accredited by ANAB under ISO 17020 for Environmental Technology Verification via ISO 14034 and are approved by both Puro and Isometric as VVBs. They are headquartered in Raleigh, North Carolina and do not physically remove CO2.
 
 ![350solutions website](/screenshots/v1-thumbnails/350solutions.jpg)
 
@@ -29,10 +31,14 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://350solutions.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://350solutions.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://350solutions.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://350solutions.com/solutions/carbon-removal-verification/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/350solutions/)
 
 ---
 

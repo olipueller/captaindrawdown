@@ -2,7 +2,7 @@
 title: "Cardinal Ethanol"
 layout: "single"
 type: "directory"
-description: "Cardinal Ethanol and Vault 44.01 formed a 50/50 joint venture, One Carbon Partnership, LP, to design, implement, and operate a CO2 capture and sequestration pro"
+description: "Cardinal Ethanol is an Indiana-based corn ethanol producer that, through a 50/50 joint venture with Vault 44.01 called One Carbon Partnership, is developing a"
 url: "/directory/cardinal-ethanol/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -12,21 +12,23 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://www.cardinalethanol.com/](https://www.cardinalethanol.com/)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~65 (+19% YoY)
-**LinkedIn Followers:** 615
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~65 (+16% YoY)
+**LinkedIn Followers:** 637
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Cardinal Ethanol and Vault 44.01 formed a 50/50 joint venture, One Carbon Partnership, LP, to design, implement, and operate a CO2 capture and sequestration project at Cardinal's ethanol facility near Union City, Indiana. In March 2026 EPA issued the Class VI permit allowing One Carbon Partnership to inject up to 450,000 metric tons of CO2 per year for 30 years (13.5 million tons total) at the Cardinal Ethanol facility. The biogenic fermentation CO2 from corn ethanol production, paired with permanent underground storage, qualifies the operation as BECCS.
+Cardinal Ethanol is an Indiana-based corn ethanol producer that, through a 50/50 joint venture with Vault 44.01 called One Carbon Partnership, is developing a BECCS project to capture and permanently sequester biogenic CO2 from its Union City, Indiana ethanol plant. In March 2026 the EPA issued the project's Class VI UIC permit, authorizing injection of up to 450,000 metric tons of CO2 per year (~13.5 million tons over 30 years).
 
-![Cardinal Ethanol website](/screenshots/v1-thumbnails/cardinal-ethanol.jpg)
+![Cardinal Ethanol website](/screenshots/cardinal-ethanol/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/vault-44-01-to-construct-first-ccs-project-in-indiana-with-epa-class-vi-permit-approval-302737596.html))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.epa.gov/newsreleases/epa-approves-carbon-storage-permit-randolph-county-indiana))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

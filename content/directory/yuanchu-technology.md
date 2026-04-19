@@ -2,7 +2,7 @@
 title: "Yuanchu Technology"
 layout: "single"
 type: "directory"
-description: "Yuanchu Technology is a Beijing-based company founded in 2014 that develops large-scale, low-cost permanent carbon mineralization technology. It is developing d"
+description: "Yuanchu Technology (原初科技) is a Beijing-based startup founded in 2014 that develops CO2 mineralization technology, reacting captured CO2 with calcium from"
 url: "/directory/yuanchu-technology/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -12,20 +12,24 @@ liveliness: "🟢 Active"
 **Secondary pathways:** DAC
 **Method:** Mineralization (Other)
 **Country:** China
-**Website:** [http://www.yuanchutech.cn/en/h-col-109.html](http://www.yuanchutech.cn/en/h-col-109.html)
-**Status:** 🟢 Active (score: 85/100)
+**Website:** [http://www.yuanchutech.cn/en/](http://www.yuanchutech.cn/en/)
+**Status:** 🟢 Active (score: 80/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Yuanchu Technology is a Beijing-based company founded in 2014 that develops large-scale, low-cost permanent carbon mineralization technology. It is developing direct air mineralization (DAM) technology for removing CO2 from air and permanently sequestering it into solid carbonated material, claiming stability for 1000 years. It was selected as an XPRIZE Carbon Removal finalist in the Rocks category competing for the $50M Musk Foundation prize.
+Yuanchu Technology (原初科技) is a Beijing-based startup founded in 2014 that develops CO2 mineralization technology, reacting captured CO2 with calcium from industrial solid waste (steel slag, carbide slag) and silicate ores to produce stable calcium carbonate. The company also pursues direct air mineralization (DAM) for permanent atmospheric CO2 removal and was selected as a 2025 Shell New Energy Challenge global top-12 finalist.
 
 ![Yuanchu Technology website](/screenshots/v1-thumbnails/yuanchu-technology.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](http://www.yuanchutech.cn/en/))
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.yuanchutech.com/en/sys-nd/67.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,7 +2,7 @@
 title: "Bioenergie Frauenfeld"
 layout: "single"
 type: "directory"
-description: "Bioenergie Frauenfeld AG, a joint venture between Energie 360° AG and Schweizer Zucker AG, operates a climate-positive wood-fired power plant in Frauenfeld that"
+description: "Bioenergie Frauenfeld is the largest SynCraft (pyrolysis) plant configuration globally and a joint project of Energie 360° AG and Schweizer Zucker AG,"
 url: "/directory/bioenergie-frauenfeld/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,20 +14,22 @@ liveliness: "🟢 Active"
 **Country:** Switzerland
 **Website:** [https://www.bioenergie-frauenfeld.ch/](https://www.bioenergie-frauenfeld.ch/)
 **Status:** 🟢 Active (score: 85/100)
-**Employees:** ~6 (0% YoY)
-**LinkedIn Followers:** 933
+**Employees:** ~7 (+17% YoY)
+**LinkedIn Followers:** 956
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Bioenergie Frauenfeld AG, a joint venture between Energie 360° AG and Schweizer Zucker AG, operates a climate-positive wood-fired power plant in Frauenfeld that has been in operation since spring 2022, converting regional residual wood via pyrolysis into durable carbon (biochar). The carbon-negative plant removes 9,000 metric tons of CO2 annually and was built in collaboration with IWK Integrierte Wärme Kraft AG and SYNCRAFT. Carbonfuture has signed a partnership with Bioenergie Frauenfeld to enable large-scale carbon removal deliveries.
+Bioenergie Frauenfeld is the largest SynCraft (pyrolysis) plant configuration globally and a joint project of Energie 360° AG and Schweizer Zucker AG, converting residual wood biomass into biochar through pyrolysis. With an electrical output of 4 MW, the plant is one of the largest of its kind in the world, and the carbon-negative facility provides power to 8,000 households as well as heat to the resident sugar factory and the town of Frauenfeld. Overall, the carbon-negative plant removes 9,000 metric tons of CO2 annually from the atmosphere.
 
-![Bioenergie Frauenfeld website](/screenshots/v1-thumbnails/bioenergie-frauenfeld.jpg)
+![Bioenergie Frauenfeld website](/screenshots/bioenergie-frauenfeld/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.jenbacher.com/en/case-studies/syncraft-frauenfeld))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bioenergie-frauenfeld.ch/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,24 +2,26 @@
 title: "Rock Flour Company"
 layout: "single"
 type: "directory"
-description: "Founded in 2023 by Greenland-native geologist Minik Rosing and climate investor 2degrees, Rock Flour Company is a Danish mining and climate innovation company t"
+description: "Rock Flour Company is a Danish/Greenlandic startup founded in 2023 by geologist Minik Rosing and climate investor 2degrees that harvests naturally ultra-fine"
 url: "/directory/rock-flour-company/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Enhanced Weathering
 **Method:** Enhanced Rock Weathering
 **Country:** Denmark
 **Website:** [https://www.rockflour.co/](https://www.rockflour.co/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~8 (0% YoY)
+**LinkedIn Followers:** 2,071
 **CDI Portfolio Company**
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
 
 ## About
 
-Founded in 2023 by Greenland-native geologist Minik Rosing and climate investor 2degrees, Rock Flour Company is a Danish mining and climate innovation company that ships nutrient-rich Greenlandic glacial rock flour to warmer climates, where it fertilizes crops and converts atmospheric CO2 into stable bicarbonate via enhanced rock weathering. In September 2025 the company raised approximately €6.1 million ($7.1 million) to scale its ERW-based CDR solution.
+Rock Flour Company is a Danish/Greenlandic startup founded in 2023 by geologist Minik Rosing and climate investor 2degrees that harvests naturally ultra-fine glacial rock flour from Greenlandic fjord deltas and applies it to croplands in warmer climates, where it fertilizes soils and sequesters atmospheric CO2 as stable bicarbonate via enhanced rock weathering. In September 2025 the company closed a €6.1 million ($7.1M) seed round backed by EIFO (the Danish state export/investment fund), Novo Holdings, and Greenlandic investors, with plans to launch its first commercial GRF project and pursue verified CDR credit issuance.
 
 ![Rock Flour Company website](/screenshots/v1-thumbnails/rock-flour-company.jpg)
 
@@ -29,8 +31,19 @@ Founded in 2023 by Greenland-native geologist Minik Rosing and climate investor 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): The Rock Flour Company ApS
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.rockflour.co/))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/the-rock-flour-company))
+- **** — merged duplicate: The Rock Flour Company ApS (slug=the-rock-flour-company-aps)
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.cleancluster.dk/en/case/rock-flour-company-receives-6-1-million/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.rockflour.co/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.rockflour.co/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/rockflourcompany/)
 
 ---
 

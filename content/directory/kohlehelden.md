@@ -2,29 +2,32 @@
 title: "KohleHelden"
 layout: "single"
 type: "directory"
-description: "KohleHelden GmbH & Co. KG is a manufacturing company of biochar located in Zierenberg, Germany. They produce EBC- and GMP+ certified plant charcoal and feed cha"
+description: "KohleHelden GmbH & Co. KG is a family-run biochar producer based in Zierenberg, North Hesse, Germany. They use a BIOMACON pyrolysis unit to convert regional"
 url: "/directory/kohlehelden/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://kohlehelden.de/](https://kohlehelden.de/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-KohleHelden GmbH & Co. KG is a manufacturing company of biochar located in Zierenberg, Germany. They produce EBC- and GMP+ certified plant charcoal and feed charcoal (Pflanzenkohle and Futterkohle), sourced regionally from North Hesse near Kassel. Products are actively sold via their website and Amazon, providing a permanent biochar carbon sink for agricultural applications.
+KohleHelden GmbH & Co. KG is a family-run biochar producer based in Zierenberg, North Hesse, Germany. They use a BIOMACON pyrolysis unit to convert regional wood chips into EBC- and GMP+-certified plant charcoal (Pflanzenkohle) and feed charcoal (Futterkohle) for agriculture, livestock, and soil applications. Products are sold directly through their webshop and Amazon.de.
 
-![KohleHelden website](/screenshots/v1-thumbnails/kohlehelden.jpg)
+![KohleHelden website](/screenshots/kohlehelden/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.moebel.de/garten/pflanzen?data-sheet=4b59640ca1afc9d6bd6b8af3adec86ed))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://kohlehelden.de/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://kohlehelden.de/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

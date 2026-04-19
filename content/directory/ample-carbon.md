@@ -2,20 +2,29 @@
 title: "Ample Carbon"
 layout: "single"
 type: "directory"
-description: "Ample Carbon — Unknown company in Unknown"
+description: "Ample Carbon is a US-based (California) BECCS startup founded in 2023 that converts retired coal power plants into bioenergy facilities with carbon capture and"
 url: "/directory/ample-carbon/"
-pathway: "Unknown"
+pathway: "BECCS"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** BECCS
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://amplecarbon.com/](https://amplecarbon.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Ample Carbon is a US-based (California) BECCS startup founded in 2023 that converts retired coal power plants into bioenergy facilities with carbon capture and storage, using purpose-grown herbaceous crops as feedstock. The company raised a seed round from Prime Coalition's Trellis Climate in April 2024 to build demonstration facilities, with the stated aim of bringing green development to former coal communities.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://amplecarbon.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://amplecarbon.com/ ([source](https://www.cdr.fyi/supplier/ample-carbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ample-carbon))
 
 ---

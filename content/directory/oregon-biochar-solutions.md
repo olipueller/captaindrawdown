@@ -2,7 +2,7 @@
 title: "Oregon Biochar Solutions"
 layout: "single"
 type: "directory"
-description: "Oregon Biochar Solutions (OBS), based in White City, Oregon, manufactures Rogue Biochar from Douglas fir and pine logging residues at its industrial-scale facil"
+description: "Oregon Biochar Solutions (OBS), based in White City, Oregon, operates an industrial-scale pyrolysis facility producing Rogue Biochar from Douglas fir and pine"
 url: "/directory/oregon-biochar-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,12 +13,14 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://www.chardirect.com/](https://www.chardirect.com/)
 **Status:** 🟢 Active (score: 80/100)
+**Employees:** ~4 (+33% YoY)
+**LinkedIn Followers:** 707
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_puro
 
 ## About
 
-Oregon Biochar Solutions (OBS), based in White City, Oregon, manufactures Rogue Biochar from Douglas fir and pine logging residues at its industrial-scale facility. The company is a registered Puro.earth biochar supplier with thousands of CORCs issued and retired, and partnered with Oka and GECA Environnement on world-first invalidation-insured biochar credits.
+Oregon Biochar Solutions (OBS), based in White City, Oregon, operates an industrial-scale pyrolysis facility producing Rogue Biochar from Douglas fir and pine logging/mill residues at roughly 45,000 cubic yards per year. The company is a registered Puro.earth biochar CORC supplier and partnered with Oka to issue the first invalidation-insured biochar credits in 2024.
 
 ![Oregon Biochar Solutions website](/screenshots/v1-thumbnails/oregon-biochar-solutions.jpg)
 
@@ -28,8 +30,12 @@ Oregon Biochar Solutions (OBS), based in White City, Oregon, manufactures Rogue 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.chardirect.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/projects/753518))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/oregon-biochar-solutions/)
 
 ---
 

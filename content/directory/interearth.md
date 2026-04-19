@@ -2,25 +2,26 @@
 title: "InterEarth"
 layout: "single"
 type: "directory"
-description: "InterEarth removes CO2 with the woody biomass burial method to store carbon captured within the biomass. Their business is harvesting, transporting and stacking"
+description: "InterEarth is a Western Australian CDR startup pursuing woody biomass burial via above-ground \"Dry Stack\" storage chambers, using plantation-grown native"
 url: "/directory/interearth/"
 pathway: "Biomass Burial"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biomass Burial
+**Secondary pathways:** Afforestation
 **Method:** BiCRS (Other)
 **Country:** Australia
 **Website:** [https://www.inter.earth/](https://www.inter.earth/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟢 Active (score: 70/100)
 **Employees:** ~4 (+33% YoY)
-**LinkedIn Followers:** 388
+**LinkedIn Followers:** 389
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-InterEarth removes CO2 with the woody biomass burial method to store carbon captured within the biomass. Their business is harvesting, transporting and stacking dried biomass within their Dry Stack above-ground storage chamber, using woody biomass from plantation-grown native Australian Eucalyptus and Acacia trees. InterEarth lodged an Australian Provisional Patent in May 2023 and filed an International PCT in May 2024 for its Dry Stack Biomass Carbon sequestration technology.
+InterEarth is a Western Australian CDR startup pursuing woody biomass burial via above-ground "Dry Stack" storage chambers, using plantation-grown native Eucalyptus and Acacia trees on marginal dryland. The company helped co-develop Puro.earth's Terrestrial Storage of Biomass (TSB) methodology and offers its CDR as Puro CORCs, with Counteract as seed investor and Zurich Insurance as a pre-purchaser.
 
 ![InterEarth website](/screenshots/v1-thumbnails/interearth.jpg)
 
@@ -30,6 +31,9 @@ InterEarth removes CO2 with the woody biomass burial method to store carbon capt
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-july-24))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.inter.earth/whatwedo))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.inter.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

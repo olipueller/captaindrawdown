@@ -2,7 +2,7 @@
 title: "Verra"
 layout: "single"
 type: "directory"
-description: "Verra is a US-based non-profit that operates the world's largest voluntary carbon crediting program (VCS) and public registry, setting methodologies and certify"
+description: "Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Standard (VCS) Program, the world's most widely used voluntary carbon crediting"
 url: "/directory/verra/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -10,21 +10,29 @@ liveliness: "🟢 Active"
 
 **Pathway:** Enabling Tech
 **Method:** Enabling Tech
-**Country:** Unknown
+**Country:** United States
 **Website:** [https://verra.org](https://verra.org)
-**Status:** 🟢 Active (score: 95/100)
+**Status:** 🟢 Active (score: 98/100)
+**Employees:** ~299 (+4% YoY)
+**LinkedIn Followers:** 98,225
 **CDR Focus:** ecosystem
 **Evidence signals:** news_mention
 
 ## About
 
-Verra is a US-based non-profit that operates the world's largest voluntary carbon crediting program (VCS) and public registry, setting methodologies and certifying projects that issue Verified Carbon Units. It is core ecosystem infrastructure — a standards-setter, verifier, and registry rather than a physical CDR supplier — and is widely used across forestry, REDD+, and emerging engineered-removal pathways.
+Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Standard (VCS) Program, the world's most widely used voluntary carbon crediting program, along with its project registry and methodologies. It sets standards, approves methodologies (including for engineered removals like CCS via VM0049), and credits projects that issue Verified Carbon Units (VCUs). Verra is core ecosystem infrastructure — a standards-setter and registry — rather than a physical CDR supplier.
+
+![Verra website](/screenshots/verra/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://verra.org/verra-launches-updated-landmark-standard-with-communities-at-its-core/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://verra.org/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/verra-updates-article-6-and-corsia-label-guidance-releases-new-tool-for-credit-buyers/))
+
+[View on LinkedIn](https://www.linkedin.com/company/verrastandards/)
 
 ---
 

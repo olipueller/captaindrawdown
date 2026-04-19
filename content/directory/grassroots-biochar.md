@@ -2,7 +2,7 @@
 title: "Grassroots Biochar"
 layout: "single"
 type: "directory"
-description: "Grassroots Biochar AB is a small Swedish company based on Öland that manufactures, refines and innovates biochar products, offering charged and activated biocha"
+description: "Grassroots Biochar AB is a small Swedish biochar producer based on Öland/Kalmar that makes and refines biochar products for agricultural, horticultural and"
 url: "/directory/grassroots-biochar/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
@@ -12,21 +12,23 @@ liveliness: "🟠 Suspect"
 **Method:** Biochar
 **Country:** Sweden
 **Website:** [https://grassrootsbiochar.nu/](https://grassrootsbiochar.nu/)
-**Status:** 🟠 Suspect (score: 40/100)
+**Status:** 🟠 Suspect (score: 35/100)
 **Employees:** ~1 (0% YoY)
-**LinkedIn Followers:** 29
+**LinkedIn Followers:** 30
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Grassroots Biochar AB is a small Swedish company based on Öland that manufactures, refines and innovates biochar products, offering charged and activated biochar for soil management, fertilizing, water holding, filtration and decontamination. The company uses the Kon-Tiki method and is focused on the agricultural/gardening market in Sweden, without any listed carbon-sink registry certifications.
+Grassroots Biochar AB is a small Swedish biochar producer based on Öland/Kalmar that makes and refines biochar products for agricultural, horticultural and soil-management uses. The company uses the Kon-Tiki method and focuses on the Swedish agricultural and gardening market, without listed carbon-sink registry certifications.
 
-![Grassroots Biochar website](/screenshots/v1-thumbnails/grassroots-biochar.jpg)
+![Grassroots Biochar website](/screenshots/grassroots-biochar/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://grassrootsbiochar.nu/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://grassrootsbiochar.nu/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,7 +2,7 @@
 title: "Atalanta Climate"
 layout: "single"
 type: "directory"
-description: "Atalanta Climate is a Vancouver, Canada-based climate-tech startup that designs compact, plug-and-play direct air capture devices (their first product is called"
+description: "Atalanta Climate is a Vancouver, BC-based startup building Ovi, an in-home/office direct air capture appliance that uses solid sorbent cartridges (\"CapSuls\")"
 url: "/directory/atalanta-climate/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -13,21 +13,23 @@ liveliness: "🟢 Active"
 **Method:** DAC (Solid Sorbent)
 **Country:** Canada
 **Website:** [https://www.atalantaclimate.co/](https://www.atalantaclimate.co/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~4 (+33% YoY)
-**LinkedIn Followers:** 245
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~4 (+100% YoY)
+**LinkedIn Followers:** 251
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Atalanta Climate is a Vancouver, Canada-based climate-tech startup that designs compact, plug-and-play direct air capture devices (their first product is called Ovi) for homes and offices. The units use solid sorbents to capture indoor CO₂ and mineralize it into limestone-like rock dust for permanent storage, while also acting as air purifiers.
+Atalanta Climate is a Vancouver, BC-based startup building Ovi, an in-home/office direct air capture appliance that uses solid sorbent cartridges ("CapSuls") made from natural gypsum to capture indoor CO₂ and convert it into a solid mineral powder. The device doubles as an air purifier targeting indoor CO₂ health impacts, and the company publicly launched at New York Climate Week 2025. Co-founded by Sally Chen and Prof. Lucas Dong (Georgia Tech), with ion-exchange resin research collaboration with Lehigh University.
 
-![Atalanta Climate website](/screenshots/v1-thumbnails/atalanta-climate.jpg)
+![Atalanta Climate website](/screenshots/atalanta-climate/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.atalantaclimate.co/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.atalantaclimate.co/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

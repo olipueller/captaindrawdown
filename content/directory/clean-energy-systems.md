@@ -2,7 +2,7 @@
 title: "Clean Energy Systems"
 layout: "single"
 type: "directory"
-description: "Clean Energy Systems (CES) is an independent California-based technology developer that commercializes oxy-fuel combustion systems for carbon-negative power and"
+description: "Clean Energy Systems (CES) is a Rancho Cordova, California-based technology developer of oxy-fuel combustion systems derived from rocket engine principles,"
 url: "/directory/clean-energy-systems/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -13,21 +13,25 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://www.cleanenergysystems.com/](https://www.cleanenergysystems.com/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~34 (0% YoY)
-**LinkedIn Followers:** 1,601
+**Status:** 🟢 Active (score: 82/100)
+**Employees:** ~33
+**LinkedIn Followers:** 1,619
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Clean Energy Systems (CES) is an independent California-based technology developer that commercializes oxy-fuel combustion systems for carbon-negative power and industrial decarbonization. It leads the Mendota BECCS project (converting agricultural waste biomass into syngas with ~99% CO2 capture for geologic storage) and has partnerships with PETRONAS/MISC/Aker Solutions (ZEUS offshore demo) and Metal One (green steel).
+Clean Energy Systems (CES) is a Rancho Cordova, California-based technology developer of oxy-fuel combustion systems derived from rocket engine principles, enabling near-complete CO2 capture from power generation and industrial processes. Its flagship CDR initiative is the Mendota BECCS project, a joint venture with Chevron, Schlumberger (SLB) and Microsoft to convert agricultural waste biomass into syngas and geologically sequester >99% of the CO2. CES also licenses its platelet-based oxy-combustor technology for other zero-emission power applications including the ZEUS project with PETRONAS, MISC and Aker Solutions.
 
-![Clean Energy Systems website](/screenshots/v1-thumbnails/clean-energy-systems.jpg)
+![Clean Energy Systems website](/screenshots/clean-energy-systems/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.cleanenergysystems.com/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.cleanenergysystems.com/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.cleanenergysystems.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

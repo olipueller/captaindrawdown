@@ -2,29 +2,29 @@
 title: "Boomitra"
 layout: "single"
 type: "directory"
-description: "Boomitra is a US-headquartered carbon project developer that works with over 100,000 farmers and ranchers across 10+ countries on soil carbon and grassland rest"
+description: "Boomitra is a US-headquartered carbon project developer working with over 100,000 farmers and ranchers across four continents on soil carbon and grassland"
 url: "/directory/boomitra/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Afforestation
-**Secondary pathways:** Biomass Burial, Enabling Tech
+**Secondary pathways:** Biomass Burial
 **Method:** BiCRS (Other)
 **Country:** United States
-**Website:** [https://boomitra.com/projects/boomitra-oasis-biomass-carbon-removal-and-storage/](https://boomitra.com/projects/boomitra-oasis-biomass-carbon-removal-and-storage/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~51 (-4% YoY)
-**LinkedIn Followers:** 19,798
+**Website:** [https://boomitra.com/](https://boomitra.com/)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~50
+**LinkedIn Followers:** 20,496
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Boomitra is a US-headquartered carbon project developer that works with over 100,000 farmers and ranchers across 10+ countries on soil carbon and grassland restoration, using proprietary AI and satellite remote sensing for MRV. In 2025 it expanded beyond soil carbon with the Oasis BiCRS project in Botswana, burying encroaching woody biomass for 100+ year storage. It won the 2023 Earthshot Prize and has issued record-scale Verra-verified credits.
+Boomitra is a US-headquartered carbon project developer working with over 100,000 farmers and ranchers across four continents on soil carbon and grassland restoration, using AI and satellite remote sensing for MRV. In July 2025 it expanded beyond soil carbon by launching the Oasis Biomass Carbon Removal and Storage (BiCRS) project in Botswana, which harvests encroaching woody bush, bales it, and buries it underground for 100+ year storage. The company is an Earthshot Prize winner and claims to have removed over 10 million tonnes of CO₂ to date.
 
-![Boomitra website](/screenshots/v1-thumbnails/boomitra.jpg)
+![Boomitra website](/screenshots/boomitra/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -32,6 +32,8 @@ Boomitra is a US-headquartered carbon project developer that works with over 100
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://boomitra.com/biomass-carbon-removal/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://boomitra.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

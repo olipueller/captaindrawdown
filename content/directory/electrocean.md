@@ -2,30 +2,37 @@
 title: "Electrocean"
 layout: "single"
 type: "directory"
-description: "Electrocean is an early-stage marine CDR supplier deploying electrochemical technology to sequester CO2 from seawater while co-producing carbon-negative calcium"
+description: "Electrocean is an early-stage US student-founded marine CDR startup developing electrochemical technology to sequester CO2 directly from seawater while"
 url: "/directory/electrocean/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Ocean CDR
 **Secondary pathways:** Mineralization
 **Method:** Ocean CDR
-**Country:** Unknown
+**Country:** United States
 **Website:** [https://electrocean.eco/](https://electrocean.eco/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2
+**LinkedIn Followers:** 55
 **CDR Focus:** supplier
 **Evidence signals:** exa_search
 
 ## About
 
-Electrocean is an early-stage marine CDR supplier deploying electrochemical technology to sequester CO2 from seawater while co-producing carbon-negative calcium carbonate and hydrogen, and enhancing shellfish aquaculture. The company's approach won Purdue Innovates' Spring 2026 Moonshot Pitch Competition.
+Electrocean is an early-stage US student-founded marine CDR startup developing electrochemical technology to sequester CO2 directly from seawater while co-producing calcium carbonate and hydrogen, with an initial go-to-market in oyster aquaculture. The team is building oyster farming technology that fortifies oysters against mass mortality, quickens their growth, and captures carbon dioxide to fight ocean acidification and climate change. The company was a Purdue Innovates Incubator Spring 2026 Moonshot Pitch Challenge winning team.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://electrocean.eco/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://electrocean.eco/))
 - **2026-04-18** — discovered via: exa ([source](https://electrocean.eco/))
+
+[View on LinkedIn](https://www.linkedin.com/company/electrocean/)
 
 ---
 

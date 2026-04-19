@@ -2,20 +2,33 @@
 title: "Jiaxing Tongao Environmental Technology"
 layout: "single"
 type: "directory"
-description: "Jiaxing Tongao Environmental Technology — Unknown company in Unknown"
+description: "Jiaxing Tongao Environmental Technology is a Chinese biochar producer and pyrolysis equipment manufacturer based in Zhejiang province. It operates a biochar"
 url: "/directory/jiaxing-tongao-environmental-technology/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** China
+**Website:** [http://www.zjtongao.com/](http://www.zjtongao.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Jiaxing Tongao Environmental Technology is a Chinese biochar producer and pyrolysis equipment manufacturer based in Zhejiang province. It operates a biochar plant listed on the Puro.earth registry and supplies pyrolysis equipment for international biochar carbon removal projects, including an MOU signed in early 2026 with Stack Carbon and TerraCapX for Uganda's first large-scale biochar facility.
+
+![Jiaxing Tongao Environmental Technology website](/screenshots/jiaxing-tongao-environmental-technology/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/jiaxing-tongao-biochar-plant-157))
+- **2026-04-19** — url added from cdr.fyi supplier page: http://www.zjtongao.com/ ([source](https://www.cdr.fyi/supplier/jiaxing-tongao))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/jiaxing-tongao))
 
 ---

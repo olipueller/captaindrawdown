@@ -2,10 +2,10 @@
 title: "Carbon Time"
 layout: "single"
 type: "directory"
-description: "Carbon Time is a Paris, France–based company founded in 2021 that operates as a developer of ocean alkalinity enhancement for carbon dioxide removal. Its initia"
+description: "Carbon Time is a Paris, France–based startup founded in 2021 and led by CEO Ivan Communod that develops ocean alkalinity enhancement (OAE) approaches for"
 url: "/directory/carbon-time/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Ocean CDR
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
 **Method:** Ocean Alkalinity Enhancement
 **Country:** France
 **Website:** [https://www.carbon-time.com/](https://www.carbon-time.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 100/100)
 **Employees:** ~2 (0% YoY)
 **LinkedIn Followers:** 1,850
 **Open roles on cdrjobs:** 1
@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Carbon Time is a Paris, France–based company founded in 2021 that operates as a developer of ocean alkalinity enhancement for carbon dioxide removal. Its initial focus is alkalinization via rock weathering using olivine, alongside electrochemical approaches compatible with coastal industries like desalination or water treatment. The company was financed by the Team for the Planet citizen-investor movement.
+Carbon Time is a Paris, France–based startup founded in 2021 and led by CEO Ivan Communod that develops ocean alkalinity enhancement (OAE) approaches for carbon dioxide removal. Its initial focus is alkalinization via olivine rock weathering, alongside electrochemical approaches compatible with coastal industries such as desalination or water-treatment plants. The company was seed-financed by the Team for the Planet citizen-investor movement and has contributed to scientific OAE publications (e.g. mesocosm chapters of the Gattuso-led OAE guide presented at COP28).
 
 ![Carbon Time website](/screenshots/v1-thumbnails/carbon-time.jpg)
 
@@ -32,6 +32,9 @@ Carbon Time is a Paris, France–based company founded in 2021 that operates as 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/carbon-time/__17zs-noFXGmUi1E9rKCypx2b_9Mo8-kdJdKqSYefPb8))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon-time.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon-time.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,28 +2,31 @@
 title: "PENNSACO TECHNOLOGIES"
 layout: "single"
 type: "directory"
-description: "Pennsaco Technologies is a US (Radnor, PA) green hydrogen and carbon capture company founded in 2018-2019 that produces 'Ultra Green Hydrogen' and high-purity b"
+description: "Pennsaco Technologies is a Radnor, Pennsylvania-based company founded in 2018 that develops a patented thermal conversion process to turn biomass, plastic, and"
 url: "/directory/pennsaco-technologies/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Secondary pathways:** BECCS
 **Method:** Unknown
-**Country:** Unknown
+**Country:** United States
 **Website:** [https://pennsaco.com/](https://pennsaco.com/)
-**Status:** 🟠 Suspect (score: 30/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** exa_search
 
 ## About
 
-Pennsaco Technologies is a US (Radnor, PA) green hydrogen and carbon capture company founded in 2018-2019 that produces 'Ultra Green Hydrogen' and high-purity biochar from waste feedstocks via patented thermal conversion. The biochar co-product is marketed as a permanent carbon-removal pathway alongside regenerative agriculture benefits. The company has no disclosed funding, very few employees, and no significant public news since 2021-2022.
+Pennsaco Technologies is a Radnor, Pennsylvania-based company founded in 2018 that develops a patented thermal conversion process to turn biomass, plastic, and municipal solid waste into "Ultra Green Hydrogen," renewable electricity, and high-purity biochar. The biochar co-product is marketed as a permanent carbon-removal pathway, and the company has explored deployments in the US (Kansas) and Latin America via MOU partners. Funding is undisclosed/unfunded and Tracxn lists only 1 employee as of mid-2024.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://pennsaco.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://pennsaco.com/))
 - **2026-04-18** — discovered via: exa ([source](https://pennsaco.com/))
 

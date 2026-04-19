@@ -2,31 +2,38 @@
 title: "South Ocean Air"
 layout: "single"
 type: "directory"
-description: "South Ocean Air is a Houston, Texas-based Direct Air Capture company that launched on Earth Day (April 22) 2023, using cellulose as the core material for its ca"
+description: "South Ocean Air is a Houston, Texas-based direct air capture company that launched on Earth Day, April 22, 2023, using cellulose as the core material for its"
 url: "/directory/south-ocean-air/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://southoceanair.com/](https://southoceanair.com/)
-**Status:** 🟡 Moderate (score: 45/100)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~2 (0% YoY)
+**LinkedIn Followers:** 61
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-South Ocean Air is a Houston, Texas-based Direct Air Capture company that launched on Earth Day (April 22) 2023, using cellulose as the core material for its carbon removal technology. The company uses a low-energy plasma treatment to turn plant cellulose into a passive "carbon magnet" that pulls ambient CO2 from the air for permanent storage or reuse. The company is pre-commercial, targeting a long-term cost of under $20/ton based on techno-economic projections, with no publicly announced deliveries or funding rounds to date.
+South Ocean Air is a Houston, Texas-based direct air capture company that launched on Earth Day, April 22, 2023, using cellulose as the core material for its CO2-capture technology. The company applies a low-energy plasma treatment to plant cellulose to create a passive "carbon magnet" that pulls ambient CO2 from the air for permanent storage or reuse. The firm remains pre-commercial with no public registry deliveries, founder-led, and is targeting an under-$20/tonne cost based on techno-economic modeling.
 
 ![South Ocean Air website](/screenshots/v1-thumbnails/south-ocean-air.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.startus-insights.com/innovators-guide/direct-air-capture-companies/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://southoceanair.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://southoceanair.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/south-ocean-air/)
 
 ---
 

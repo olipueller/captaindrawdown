@@ -2,29 +2,33 @@
 title: "Carbon America"
 layout: "single"
 type: "directory"
-description: "Carbon America is a Colorado-based vertically integrated CCS developer focused on capturing biogenic CO2 from ethanol plants (Yuma, Sterling, Bridgeport) and se"
+description: "Carbon America is a Colorado-based vertically integrated CCS developer that finances, builds, owns and operates capture and Class VI geological storage"
 url: "/directory/carbon-america/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** BECCS
+**Secondary pathways:** Enabling Tech
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://www.carbonamerica.com/](https://www.carbonamerica.com/)
 **Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~9 (-68% YoY)
-**LinkedIn Followers:** 6,703
+**Employees:** ~9 (-59% YoY)
+**LinkedIn Followers:** 6,724
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon America is a Colorado-based vertically integrated CCS developer focused on capturing biogenic CO2 from ethanol plants (Yuma, Sterling, Bridgeport) and sequestering it in Class VI geological storage wells. It is also developing a proprietary cryogenic point-source capture technology (FrostCC) for industrial emitters. The ethanol CCS projects qualify as BECCS removal; the FrostCC technology applied to fossil point sources would be emissions-avoidance rather than CDR.
+Carbon America is a Colorado-based vertically integrated CCS developer that finances, builds, owns and operates capture and Class VI geological storage projects. Its flagship BECCS projects are at the Yuma, Sterling (Colorado) and Bridgeport (Nebraska) ethanol plants, targeting ~525,000 tCO2/year of biogenic CO2 storage. The company is also commercializing FrostCC, a proprietary cryogenic point-source capture technology that reached TRL 6 after a 1,000-hour pilot at the National Carbon Capture Center.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.climatory.com/company/carbon-america))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbonamerica.com/news/carbon-americas-frostcc-technology-demostrates-ultraclean-carbon-capture))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonamerica.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

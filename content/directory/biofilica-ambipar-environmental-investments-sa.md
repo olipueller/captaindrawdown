@@ -2,20 +2,32 @@
 title: "BIOFILICA AMBIPAR ENVIRONMENTAL INVESTMENTS S.A."
 layout: "single"
 type: "directory"
-description: "BIOFILICA AMBIPAR ENVIRONMENTAL INVESTMENTS S.A. — Unknown company in Unknown"
+description: "Biofílica Ambipar Environment is a Brazilian nature-based solutions carbon project developer, now operating as Ambipar Environment's Carbon Solutions /"
 url: "/directory/biofilica-ambipar-environmental-investments-sa/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
+**Secondary pathways:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Brazil
+**Website:** [https://biofilica.com.br/en/](https://biofilica.com.br/en/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** division
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Biofílica Ambipar Environment is a Brazilian nature-based solutions carbon project developer, now operating as Ambipar Environment's Carbon Solutions / Decarbon business unit after being acquired by Ambipar Group in 2021. The company develops and markets forest-based carbon credits from REDD+ conservation, afforestation/reforestation (ARR), agricultural land management (ALM), Blue Carbon, and biochar projects across the Amazon, Atlantic Forest, and Pantanal biomes. It is a multi-award-winning forest project developer and one of the largest NbS carbon suppliers in Latin America.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://biofilica.com.br/en/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.biofilica.com.br/en/ ([source](https://www.cdr.fyi/supplier/biofilica-ambipar-environmental-investments))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/biofilica-ambipar-environmental-investments))
 
 ---

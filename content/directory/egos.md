@@ -2,13 +2,14 @@
 title: "EGoS"
 layout: "single"
 type: "directory"
-description: "EGoS GmbH (trading as Pflanzenkohle24) is a German biochar producer based in Bottrop-Kirchhellen that operates a BImSchG-permitted pyrolysis plant producing bio"
+description: "EGoS Bio GmbH (trading as Pflanzenkohle24) is a German biochar producer founded in 2002 and based in Bottrop-Kirchhellen, operating a BImSchG-permitted"
 url: "/directory/egos/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** BECCS
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://www.pflanzenkohle24.de/](https://www.pflanzenkohle24.de/)
@@ -18,13 +19,17 @@ liveliness: "🟢 Active"
 
 ## About
 
-EGoS GmbH (trading as Pflanzenkohle24) is a German biochar producer based in Bottrop-Kirchhellen that operates a BImSchG-permitted pyrolysis plant producing biochar, feed charcoal, and Terra Preta for agriculture and livestock. The plant also generates CO2-negative electricity and heat from synthesis gases, and the company reports absorbing roughly 10,000 tonnes of CO2 per year as fixed carbon.
+EGoS Bio GmbH (trading as Pflanzenkohle24) is a German biochar producer founded in 2002 and based in Bottrop-Kirchhellen, operating a BImSchG-permitted pyrolysis plant that produces biochar, feed charcoal, and Terra Preta for agriculture and livestock. The plant also generates CO2-negative electricity and heat from synthesis gases, reportedly absorbing around 10,000 tonnes of CO2 per year as fixed carbon. Founder Theo Houy retired in July 2025 and was succeeded by managing director Thomas Krause.
 
 ![EGoS website](/screenshots/v1-thumbnails/egos.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pflanzenkohle24.de/info/Anlagentechnik.html))
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pflanzenkohle24.de/info/Anlagentechnik.html))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pflanzenkohle24.de/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

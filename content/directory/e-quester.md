@@ -2,7 +2,7 @@
 title: "E-quester"
 layout: "single"
 type: "directory"
-description: "E-quester is a University of Toronto spinout (founded 2021) developing electrochemical Direct Air Capture technology. Based in Toronto, Ontario, the team is usi"
+description: "E-quester is a University of Toronto spinout founded in 2021 and based in Toronto, Ontario. Their technology captures atmospheric CO2 and uses an"
 url: "/directory/e-quester/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
@@ -12,19 +12,21 @@ liveliness: "🟠 Suspect"
 **Method:** DAC (Liquid Solvent)
 **Country:** Canada
 **Website:** [https://e-quester.com/](https://e-quester.com/)
-**Status:** 🟠 Suspect (score: 35/100)
-**Employees:** ~1 (-80% YoY)
-**LinkedIn Followers:** 175
+**Status:** 🟠 Suspect (score: 30/100)
+**Employees:** ~1 (-100% YoY)
+**LinkedIn Followers:** 179
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-E-quester is a University of Toronto spinout (founded 2021) developing electrochemical Direct Air Capture technology. Based in Toronto, Ontario, the team is using electrochemistry to lower the cost of a carbon capture technique known as Direct Air Capture. The team previously earned an XPRIZE Carbon Removal Student Award with US $250,000 in seed funding, which the team has used to further develop their prototype, and was later named an XPRIZE Milestone finalist.
+E-quester is a University of Toronto spinout founded in 2021 and based in Toronto, Ontario. Their technology captures atmospheric CO2 and uses an electrochemical regeneration system to liberate the captured CO2, powered by renewable electricity. The team earned an XPRIZE Carbon Removal Student Award with US $250,000 in seed funding, which was used to further develop their prototype.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://e-quester.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://e-quester.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

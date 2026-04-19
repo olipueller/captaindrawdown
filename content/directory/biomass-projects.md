@@ -2,7 +2,7 @@
 title: "Biomass Projects"
 layout: "single"
 type: "directory"
-description: "Biomass Projects is developing the Mardie char project in Western Australia, one of the largest biochar initiatives globally, which by 2028 is expected to reach"
+description: "Biomass Projects is an Australian biochar developer behind the Mardie char project in Pilbara, Western Australia, which converts invasive mesquite biomass (a"
 url: "/directory/biomass-projects/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,21 +12,25 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Australia
 **Website:** [https://biomassprojects.com.au/](https://biomassprojects.com.au/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 82/100)
 **Employees:** ~4 (0% YoY)
-**LinkedIn Followers:** 664
+**LinkedIn Followers:** 674
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Biomass Projects is developing the Mardie char project in Western Australia, one of the largest biochar initiatives globally, which by 2028 is expected to reach an annual carbon removal volume of 500,000 tonnes. Biomass Projects is an accredited supplier of Carbon Removal Certificates (CORCs) with puro.earth. Carbonfuture provides dMRV services for the project, with support from Residual.
+Biomass Projects is an Australian biochar developer behind the Mardie char project in Pilbara, Western Australia, which converts invasive mesquite biomass (a Weed of National Significance) into durable biochar using modular pyrolysis units. The company is an accredited Puro.earth CORC supplier partnered with Carbonfuture for dMRV and Residual for offtake/insurance/ratings, targeting 500,000 tonnes of annual CO2 removal by 2028. It also produces MetChar, a metallurgical biochar intended as a coal substitute in green steel production.
 
-![Biomass Projects website](/screenshots/v1-thumbnails/biomass-projects.jpg)
+![Biomass Projects website](/screenshots/biomass-projects/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biomassprojects.com.au/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biomassprojects.com.au/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biomassprojects.com.au/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biomassprojects.com.au/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

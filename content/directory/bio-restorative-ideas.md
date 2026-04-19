@@ -2,29 +2,30 @@
 title: "Bio-Restorative Ideas"
 layout: "single"
 type: "directory"
-description: "Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer that converts bamboo residues and post-hurricane biomass waste into biochar using a mobile p"
+description: "Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer converting bamboo residues and post-hurricane biomass into biochar at the Antigua Central"
 url: "/directory/bio-restorative-ideas/"
-pathway: "BiCRS"
+pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** BiCRS
+**Pathway:** Biochar
 **Method:** Biochar
 **Country:** Puerto Rico
 **Website:** [https://bri.earth/](https://bri.earth/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~4 (0% YoY)
-**LinkedIn Followers:** 478
-**CDR Focus:** unclassified
+**Status:** 🟠 Suspect (score: 45/100)
+**Employees:** ~4
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
 
 ## About
 
-Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer that converts bamboo residues and post-hurricane biomass waste into biochar using a mobile pyrolysis unit installed at the Eureka hacienda site. The project is registered on Puro.earth and managed by carbon developer GECA Environnement, targeting roughly 3,000 mtons of biochar annually from 13,000 mtons of bamboo feedstock. Biochar is applied in soils, building materials, and other sequestration end-uses locally.
+Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer converting bamboo residues and post-hurricane biomass into biochar at the Antigua Central Eureka site in Hormigueros. The project uses ARTi pyrolysis equipment, is managed by carbon developer GECA Environnement, and is registered on Puro.earth, with Zurich Insurance among its known credit buyers. The company has a small team (~4 employees) and its website has not been substantially updated since 2023.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://bri.earth/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bio-restorative-ideas))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/accelerate/cleaning-up-puerto-rico-by-bri-100079))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))

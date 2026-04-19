@@ -2,7 +2,7 @@
 title: "CarbiCrete"
 layout: "single"
 type: "directory"
-description: "CarbiCrete is a Montreal-based carbon removal technology company that licenses a patented process for producing cement-free concrete by replacing cement with st"
+description: "CarbiCrete is a Montreal-based carbon removal technology company that licenses a patented process for producing cement-free concrete by replacing cement with"
 url: "/directory/carbicrete/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -10,18 +10,18 @@ liveliness: "🟢 Active"
 
 **Pathway:** Mineralization
 **Method:** Mineralization (Other)
-**Country:** United States
+**Country:** Canada
 **Website:** [https://carbicrete.com/](https://carbicrete.com/)
 **Status:** 🟢 Active (score: 92/100)
-**Employees:** ~36 (-16% YoY)
-**LinkedIn Followers:** 9,918
+**Employees:** ~32 (-22% YoY)
+**LinkedIn Followers:** 10,057
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-CarbiCrete is a Montreal-based carbon removal technology company that licenses a patented process for producing cement-free concrete by replacing cement with steel slag and mineralizing CO2 into the concrete for permanent storage. They license their technology to block and paver manufacturers in Canada, the northeastern US, and (from 2026) France via Saint-Gobain's POINT.P brand.
+CarbiCrete is a Montreal-based carbon removal technology company that licenses a patented process for producing cement-free concrete by replacing cement with steel slag and mineralizing captured CO2 into the concrete for permanent storage. The company licenses its technology to block and paver manufacturers in Quebec, Ontario, the northeastern US, and — starting Q1 2026 — France via Saint-Gobain's POINT.P brand.
 
 ![CarbiCrete website](/screenshots/v1-thumbnails/carbicrete.jpg)
 
@@ -31,6 +31,8 @@ CarbiCrete is a Montreal-based carbon removal technology company that licenses a
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

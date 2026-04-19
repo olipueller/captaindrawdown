@@ -2,7 +2,7 @@
 title: "LOCOAL"
 layout: "single"
 type: "directory"
-description: "LOCOAL is a US waste-to-energy and biochar company that builds the Rainmaker induction pyrolysis platform to convert biomass waste (wood, agricultural, forestry"
+description: "LOCOAL is a Texas-based waste-to-energy company operating a biochar pilot plant in Vancouver, WA. Its Rainmaker induction-pyrolysis system converts wood waste"
 url: "/directory/locoal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,21 +13,25 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.locoal.com/](https://www.locoal.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~21 (0% YoY)
-**LinkedIn Followers:** 2,275
+**Status:** 🟢 Active (score: 78/100)
+**Employees:** ~19 (-10% YoY)
+**LinkedIn Followers:** 2,320
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-LOCOAL is a US waste-to-energy and biochar company that builds the Rainmaker induction pyrolysis platform to convert biomass waste (wood, agricultural, forestry residues) into biochar, bio-oil/wood vinegar, and syngas for clean electricity. The biochar co-product sequesters carbon, and the company's IMPCT.AI software tracks carbon reductions for carbon credits. Recent 2025 blog posts and LinkedIn activity indicate the company remains operational.
+LOCOAL is a Texas-based waste-to-energy company operating a biochar pilot plant in Vancouver, WA. Its Rainmaker induction-pyrolysis system converts wood waste into biochar, syngas, and bio-oils, with an IMPCT.AI software platform handling MRV for carbon credits. The company has raised approximately $8.68M from investors including Capital Factory and AFWERX.
 
-![LOCOAL website](/screenshots/v1-thumbnails/locoal.jpg)
+![LOCOAL website](/screenshots/locoal/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

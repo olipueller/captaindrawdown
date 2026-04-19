@@ -2,10 +2,10 @@
 title: "Energy Farmers"
 layout: "single"
 type: "directory"
-description: "Energy Farmers Australia is a Western Australia-based small company that has developed its own pyrolysis kilns (including mobile/containerised units) to process"
+description: "Energy Farmers Australia was established in 2010 by a farmer and engineer to help farmers utilise organic waste streams to create energy and by-products, and"
 url: "/directory/energy-farmers/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
@@ -13,21 +13,25 @@ liveliness: "🟠 Suspect"
 **Method:** Biochar
 **Country:** Australia
 **Website:** [https://www.energyfarmers.com.au/](https://www.energyfarmers.com.au/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Status:** 🟡 Moderate (score: 45/100)
 **Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 123
+**LinkedIn Followers:** 128
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Energy Farmers Australia is a Western Australia-based small company that has developed its own pyrolysis kilns (including mobile/containerised units) to process organic wastes into biochar and bioenergy. They supply biochar products to Australian agriculture and industry via their farmchar brand and have worked on projects with poultry farms, weed-control (African Boxthorn) and waste water sludge.
+Energy Farmers Australia was established in 2010 by a farmer and engineer to help farmers utilise organic waste streams to create energy and by-products, and has been developing pyrolysis technology and trialing biochar use in horticulture, agriculture and industry. FarmChar is a brand of Energy Farmers Australia Pty Ltd, owned and managed by Tom Vogan and Euan Beamont, selling locally produced biochars in Western Australia for livestock feed supplement, soil improvement for broadacre cropping and horticulture. The company focuses on waste-management challenges in Australian agriculture, using a fully automated pyrolysis system to transform organic and inorganic wastes into biochar.
 
 ![Energy Farmers website](/screenshots/v1-thumbnails/energy-farmers.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.energyfarmers.com.au/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.energyfarmers.com.au/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.energyfarmers.com.au/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.energyfarmers.com.au/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

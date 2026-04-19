@@ -2,26 +2,26 @@
 title: "CarbonRun"
 layout: "single"
 type: "directory"
-description: "CarbonRun is a Nova Scotia-based CDR supplier that deploys River Alkalinity Enhancement (RAE), adding finely ground limestone to rivers to reduce acidity, resto"
+description: "CarbonRun is a Nova Scotia-based company founded in 2022 by environmental scientists and freshwater ecologists to combat climate change through innovative"
 url: "/directory/carbonrun/"
-pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+pathway: "Enhanced Weathering"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Enhanced Weathering
+**Pathway:** Enhanced Weathering
+**Secondary pathways:** Ocean CDR
 **Method:** Ocean Alkalinity Enhancement
 **Country:** Canada
 **Website:** [https://www.carbonrun.io/](https://www.carbonrun.io/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~23 (-4% YoY)
-**LinkedIn Followers:** 3,855
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~23 (0% YoY)
+**LinkedIn Followers:** 4,181
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_isometric
 
 ## About
 
-CarbonRun is a Nova Scotia-based CDR supplier that deploys River Alkalinity Enhancement (RAE), adding finely ground limestone to rivers to reduce acidity, restore fish habitat, and permanently sequester CO2 as bicarbonate delivered to the ocean. In January 2026 the company issued the world's first Isometric-certified RAE credits (76 tonnes from its Kvina River project in Norway), delivered under a $25.4M Frontier offtake covering ~55,442 tonnes between 2025-2029.
+CarbonRun is a Nova Scotia-based company founded in 2022 by environmental scientists and freshwater ecologists to combat climate change through innovative river restoration techniques. In January 2026, Isometric issued the world's first certified River Alkalinity Enhancement credits to CarbonRun — 76 credits from the Kvina River Project in southern Norway, delivered to Frontier buyers including Stripe, Shopify, and McKinsey Sustainability. Frontier buyers' total offtake is $25.4M to deliver 55,442 tons between 2025 and 2029.
 
 ![CarbonRun website](/screenshots/v1-thumbnails/carbonrun.jpg)
 
@@ -31,6 +31,9 @@ CarbonRun is a Nova Scotia-based CDR supplier that deploys River Alkalinity Enha
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/the-worlds-first-river-alkalinity-enhancement-credits))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carbonrun-issues-worlds-first-river-alkalinity-enhancement-credits/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

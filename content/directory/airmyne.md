@@ -2,7 +2,7 @@
 title: "AirMyne"
 layout: "single"
 type: "directory"
-description: "AirMyne is a next-generation Direct Air Capture company whose patented process uses a liquid capture agent and a low-temperature thermal regeneration process th"
+description: "AirMyne is a Berkeley, California-based DAC startup launched in May 2022 out of Y Combinator, founded by Sudip Mukhopadhyay and Mark Cyffka, who bring combined"
 url: "/directory/airmyne/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,18 +12,18 @@ liveliness: "🟢 Active"
 **Method:** DAC (Liquid Solvent)
 **Country:** United States
 **Website:** [https://www.airmyne.com/](https://www.airmyne.com/)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~17 (-6% YoY)
-**LinkedIn Followers:** 1,898
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~17 (0% YoY)
+**LinkedIn Followers:** 2,025
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-AirMyne is a next-generation Direct Air Capture company whose patented process uses a liquid capture agent and a low-temperature thermal regeneration process that can integrate with various low-carbon energy sources. The company was selected for two DOE Regional DAC Hub projects, including the Red Rocks DAC Hub led by Fervo Energy and the CALDAC Hub led by UC Berkeley. AirMyne is planning its DeltaDAC initial project for deployment in the Port of Stockton with support from the California Energy Commission.
+AirMyne is a Berkeley, California-based DAC startup launched in May 2022 out of Y Combinator, founded by Sudip Mukhopadhyay and Mark Cyffka, who bring combined experience in the chemicals industry. The technology uses fans to pull air through a contactor where a proprietary liquid chemistry binds CO2, then pumps the CO2-rich solvent to a stripping column where low-pressure steam releases high-purity CO2. AirMyne is planning its initial DeltaDAC project for deployment at the Port of Stockton with support from the California Energy Commission.
 
-![AirMyne website](/screenshots/v1-thumbnails/airmyne.jpg)
+![AirMyne website](/screenshots/airmyne/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -31,6 +31,9 @@ AirMyne is a next-generation Direct Air Capture company whose patented process u
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.airmyne.com))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/airmyne-eneos-direct-air-capture/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

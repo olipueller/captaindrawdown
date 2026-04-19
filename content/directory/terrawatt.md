@@ -2,10 +2,10 @@
 title: "TerraWatt"
 layout: "single"
 type: "directory"
-description: "TerraWatt is a French startup (Meslay-du-Maine, founded 2014) developing a patented process that combines pyrolysis and biological methanation to produce biocha"
+description: "TerraWatt SAS is a French startup (founded 2014, based in Meslay-du-Maine) developing a combined pyrolysis and biological methanation process that converts"
 url: "/directory/terrawatt/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
@@ -13,19 +13,23 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** France
 **Website:** [https://terrawatt.earth/](https://terrawatt.earth/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟢 Active (score: 70/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-TerraWatt is a French startup (Meslay-du-Maine, founded 2014) developing a patented process that combines pyrolysis and biological methanation to produce biochar and biomethane from woody and non-fermentable biomass. The biochar is used as a soil amendment for long-term carbon sequestration, while the syngas is biologically converted into biomethane for grid injection or transport fuel. The company participates in EU Horizon projects FENIX and SEMPRE-BIO.
+TerraWatt SAS is a French startup (founded 2014, based in Meslay-du-Maine) developing a combined pyrolysis and biological methanation process that converts green waste, wood and non-fermentable biomass into biochar plus grid-injectable biomethane. The biochar is sold as a soil amendment, sequestering carbon for hundreds of years, while syngas is biologically converted to renewable gas. The company participates in EU-funded projects including SEMPRE-BIO and FENIX.
 
 ![TerraWatt website](/screenshots/v1-thumbnails/terrawatt.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrawatt.earth/en/our-technology/))
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.b2e.bzh/membres/transformer-la-biomasse-en-biochar-et-biomethane-terrawatt/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://terrawatt.earth/en/our-technology/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://terrawatt.earth/en/our-technology/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

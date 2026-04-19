@@ -2,31 +2,34 @@
 title: "Green Man Char"
 layout: "single"
 type: "directory"
-description: "Green Man Char is an Australian biochar producer operating at the Yarra Ranges Council biochar facility in Lysterfield, Victoria, using Earth Systems' CharMaker"
+description: "Green Man Char is an Australian biochar producer (the brand of Cyclic Carbon Pty Ltd) operating at the Yarra Ranges Council biochar facility in Lysterfield,"
 url: "/directory/green-man-char/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Australia
 **Website:** [https://greenmanchar.com.au/](https://greenmanchar.com.au/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~2
-**LinkedIn Followers:** 44
+**LinkedIn Followers:** 46
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Green Man Char is an Australian biochar producer operating at the Yarra Ranges Council biochar facility in Lysterfield, Victoria, using Earth Systems' CharMaker continuous pyrolysis technology to convert local woody waste into biochar and wood vinegar. The facility was commissioned in 2023 and won the 2025 LGPro VIC Award for Environmental Sustainability. Biochar products are sold primarily as soil conditioners for horticulture and agriculture.
+Green Man Char is an Australian biochar producer (the brand of Cyclic Carbon Pty Ltd) operating at the Yarra Ranges Council biochar facility in Lysterfield, Victoria, using Earth Systems' CharMaker continuous pyrolysis technology to convert local woody waste into biochar and wood vinegar. The facility was commissioned in 2023 and won the 2025 LGPro VIC Award for Environmental Sustainability. Products are sold primarily as soil conditioners and horticultural inputs.
 
-![Green Man Char website](/screenshots/v1-thumbnails/green-man-char.jpg)
+![Green Man Char website](/screenshots/green-man-char/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/green-man-char/__ZdJg_3A0SJptNkOg5XdOPUnp86GpP0A5oS7MXMOQ2Ws))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://greenmanchar.com.au/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://greenmanchar.com.au/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

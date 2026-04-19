@@ -2,7 +2,7 @@
 title: "alterBiota"
 layout: "single"
 type: "directory"
-description: "alterBiota is a Nova Scotia-based green-materials startup making hBGO, a wood-derived biographene concrete admixture that cuts cement use and stores biogenic ca"
+description: "alterBiota is a Sydney/Edwardsville, Nova Scotia-based cleantech company that makes deltaC, a biochar-derived liquid admixture that reduces Portland cement use"
 url: "/directory/alterbiota/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,19 +13,23 @@ liveliness: "🟢 Active"
 **Method:** BiCRS (Other)
 **Country:** Canada
 **Website:** [https://alterbiota.com/](https://alterbiota.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 88/100)
 **Employees:** ~18 (+20% YoY)
-**LinkedIn Followers:** 536
+**LinkedIn Followers:** 566
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-alterBiota is a Nova Scotia-based green-materials startup making hBGO, a wood-derived biographene concrete admixture that cuts cement use and stores biogenic carbon in concrete infrastructure. It closed a CAD$4M seed round in May 2024 led by Invest Nova Scotia and BDC Capital's Climate Tech Fund to build a commercial-scale plant and run industrial trials. The company operates a pilot plant in Edwardsville, NS and is scaling toward ~2,200 tonnes/year of solid biographene.
+alterBiota is a Sydney/Edwardsville, Nova Scotia-based cleantech company that makes deltaC, a biochar-derived liquid admixture that reduces Portland cement use and stores biogenic carbon in concrete, claiming up to 30% embodied-carbon reduction. In December 2025 the company announced that deltaC had moved from R&D into commercial production, following summer 2025 trials delivering over 100 m³ of low-carbon concrete with partners including Casey Concrete and CarbonRun. It also develops digitalAggregate, a computer-vision tool for concrete mix QC, integrated with Giatec's SmartMix platform in October 2025.
+
+![alterBiota website](/screenshots/alterbiota/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://alterbiota.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://betakit.com/alterbiota-closes-4-million-seed-round-in-mission-to-decarbonize-concrete/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

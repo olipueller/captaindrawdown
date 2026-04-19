@@ -2,7 +2,7 @@
 title: "OLNEO"
 layout: "single"
 type: "directory"
-description: "OLNEO is a climate deeptech startup developing modular carbon removal systems, based in Paris, France with 1-10 employees. The company is building carbon remova"
+description: "OLNEO is a Paris-based climate deeptech startup developing biochar-based carbon dioxide removal projects, initially rooted in Algeria with plans to expand"
 url: "/directory/olneo/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,21 +12,29 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** France
 **Website:** [https://www.olneo.green/](https://www.olneo.green/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2
+**LinkedIn Followers:** 55
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-OLNEO is a climate deeptech startup developing modular carbon removal systems, based in Paris, France with 1-10 employees. The company is building carbon removal infrastructure in Africa using biochar, converting local agricultural residues into high-quality biochar, rooted in Algeria and designed to scale across Africa and the MENA region.
+OLNEO is a Paris-based climate deeptech startup developing biochar-based carbon dioxide removal projects, initially rooted in Algeria with plans to expand across Africa and the MENA region. The company converts local agricultural residues into certified biochar through pyrolysis, pairing soil restoration with durable carbon sequestration and digital MRV. It remains an early-stage operation with a small team.
 
 ![OLNEO website](/screenshots/v1-thumbnails/olneo.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.olneo.green/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.instagram.com/olneo_green/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.olneo.green/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://olneo.green/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/olneo-%e2%80%a2-biochar-carbone/)
 
 ---
 

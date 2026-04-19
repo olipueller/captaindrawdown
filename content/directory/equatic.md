@@ -2,27 +2,27 @@
 title: "Equatic"
 layout: "single"
 type: "directory"
-description: "Founded in 2021, California-based Equatic has developed an electrolytic process for atmospheric carbon removal that accelerates the ocean's ability to absorb an"
+description: "Equatic is a UCLA spin-out based in Los Angeles that uses a patented seawater electrolysis process to permanently store atmospheric CO2 as dissolved"
 url: "/directory/equatic/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Ocean CDR
-**Secondary pathways:** Mineralization
+**Secondary pathways:** DAC, Mineralization
 **Method:** DAC (Liquid Solvent)
 **Country:** United States
 **Website:** [https://www.equatic.tech/](https://www.equatic.tech/)
 **Status:** 🟢 Active (score: 90/100)
-**Employees:** ~15 (+67% YoY)
-**LinkedIn Followers:** 4,568
+**Employees:** ~13 (+30% YoY)
+**LinkedIn Followers:** 4,689
 **Open roles on cdrjobs:** 2
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Founded in 2021, California-based Equatic has developed an electrolytic process for atmospheric carbon removal that accelerates the ocean's ability to absorb and permanently store massive amounts of carbon, while producing carbon negative hydrogen as a co-product. The company is a UCLA spin-out operating pilot plants in Los Angeles and Singapore, and is building the Equatic-1 demonstration plant in Singapore plus a planned commercial facility in Quebec with Deep Sky. In August 2025 Equatic raised $11.6 million in a Series A funding round led by Temasek Trust's C3H and Kibo Invest.
+Equatic is a UCLA spin-out based in Los Angeles that uses a patented seawater electrolysis process to permanently store atmospheric CO2 as dissolved bicarbonate and solid mineral carbonates, while co-producing green hydrogen. The company operates pilot plants in Los Angeles and Singapore, is building its Equatic-1 demonstration plant in Singapore, and is engineering a commercial-scale facility in Canada with Deep Sky. It closed an $11.6M Series A in August 2025 led by Temasek Trust's C3H and Kibo Invest.
 
 ![Equatic website](/screenshots/v1-thumbnails/equatic.jpg)
 
@@ -32,6 +32,8 @@ Founded in 2021, California-based Equatic has developed an electrolytic process 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

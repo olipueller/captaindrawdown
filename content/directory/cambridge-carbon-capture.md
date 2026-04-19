@@ -2,20 +2,34 @@
 title: "Cambridge Carbon Capture"
 layout: "single"
 type: "directory"
-description: "Cambridge Carbon Capture — Unknown company in Unknown"
+description: "Cambridge Carbon Capture Ltd was a UK startup developing CO2LOC, a two-stage mineralisation process that reacted magnesium hydroxide with CO2 (from industrial"
 url: "/directory/cambridge-carbon-capture/"
-pathway: "Unknown"
+pathway: "Mineralization"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Mineralization
+**Secondary pathways:** DAC
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United Kingdom
+**Website:** [https://www.co2loc.com/](https://www.co2loc.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Cambridge Carbon Capture Ltd was a UK startup developing CO2LOC, a two-stage mineralisation process that reacted magnesium hydroxide with CO2 (from industrial flue gas or direct air capture) to form magnesium carbonate and saleable co-products. The company entered creditors' voluntary liquidation on 3 June 2025 and its co2loc.com domain is now listed for sale.
+
+![Cambridge Carbon Capture website](/screenshots/cambridge-carbon-capture/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🔴 Likely Dead ([source](https://www.thegazette.co.uk/notice/4900649/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.co2loc.com/ ([source](https://www.cdr.fyi/supplier/cambridge-carbon-capture))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/cambridge-carbon-capture))
 
 ---

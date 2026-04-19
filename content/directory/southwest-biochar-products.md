@@ -2,29 +2,35 @@
 title: "Southwest Biochar Products"
 layout: "single"
 type: "directory"
-description: "Southwest Biochar Products, operating since 2022, scaled up in fall 2024 from a single reactor to a 5-reactor system with capacity to produce over 12,000 yards"
+description: "Southwest Biochar Products (SOWBiochar) is an Arizona-based biochar producer operating since 2022 in Eagar, AZ. It uses slow pyrolysis to convert wood chips"
 url: "/directory/southwest-biochar-products/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://sowbiochar.com/](https://sowbiochar.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~1 (0% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Southwest Biochar Products, operating since 2022, scaled up in fall 2024 from a single reactor to a 5-reactor system with capacity to produce over 12,000 yards per year. Feedstock is sourced entirely from National Forest thinning projects, using biomass that would otherwise be burned to reduce wildfire risk. The company sells biochar as a soil amendment and partners with 3Degrees on carbon credit offtake.
+Southwest Biochar Products (SOWBiochar) is an Arizona-based biochar producer operating since 2022 in Eagar, AZ. It uses slow pyrolysis to convert wood chips and forest-thinning residues into biochar sold as a soil amendment, and partners with 3Degrees on carbon credit sales. In fall 2024 the company expanded from a single reactor to a 5-reactor system with capacity exceeding 12,000 yards per year.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://3degreesinc.com/news/3degrees-lists-first-biochar-project-on-the-climate-action-reserve/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sowbiochar.com/about/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sowbiochar.com/about/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/southwest-biochar-products/)
 
 ---
 

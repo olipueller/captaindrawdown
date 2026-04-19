@@ -2,7 +2,7 @@
 title: "BioCirc"
 layout: "single"
 type: "directory"
-description: "BioCirc Group, founded in Denmark in 2021, is one of the largest biomethane producers globally, operating eight biogas plants. A Nordic Investment Bank loan is"
+description: "BioCirc is a Danish circular bioeconomy company founded in 2021 that operates eight biogas plants and is implementing biogenic CO2 capture at five of them."
 url: "/directory/biocirc/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -12,18 +12,18 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** Denmark
 **Website:** [https://biocirc.com/](https://biocirc.com/)
-**Status:** 🟢 Active (score: 92/100)
+**Status:** 🟢 Active (score: 90/100)
 **Employees:** ~113 (+9% YoY)
-**LinkedIn Followers:** 6,728
+**LinkedIn Followers:** 6,948
 **Open roles on cdrjobs:** 2
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-BioCirc Group, founded in Denmark in 2021, is one of the largest biomethane producers globally, operating eight biogas plants. A Nordic Investment Bank loan is financing infrastructure to clean and liquefy captured CO2 for delivery to Project Greensand, which will store the CO2 underground in the Danish part of the North Sea. CCS implementation is underway across five biogas plants, with operations ramping from 2026 to 2032, aiming to capture and store up to 1 million tonnes of CO2.
+BioCirc is a Danish circular bioeconomy company founded in 2021 that operates eight biogas plants and is implementing biogenic CO2 capture at five of them. Captured CO2 will be liquefied (via Pentair equipment) and transported for permanent geological storage in Project Greensand in the Danish North Sea, with up to 1 million tonnes of CO2 to be stored between 2026-2032, generating CDR credits.
 
-![BioCirc website](/screenshots/v1-thumbnails/biocirc.jpg)
+![BioCirc website](/screenshots/biocirc/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -31,6 +31,8 @@ BioCirc Group, founded in Denmark in 2021, is one of the largest biomethane prod
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocirc.com/projects))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocirc.com/projects))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

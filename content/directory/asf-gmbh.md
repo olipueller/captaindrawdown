@@ -2,7 +2,7 @@
 title: "ASF GmbH"
 layout: "single"
 type: "directory"
-description: "ASF GmbH (Abfallwirtschaft und Stadtreinigung Freiburg GmbH) is the municipal waste management and street cleaning company for the city of Freiburg, Germany, jo"
+description: "ASF GmbH (Abfallwirtschaft und Stadtreinigung Freiburg) is the municipal waste-management and street-cleaning utility for the city of Freiburg, jointly owned"
 url: "/directory/asf-gmbh/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,26 +11,28 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
-**Website:** [https://biochar-zero.com/de/unternehmen/abfallwirtschaft-und-stadtreinigung-freiburg-gmbh/](https://biochar-zero.com/de/unternehmen/abfallwirtschaft-und-stadtreinigung-freiburg-gmbh/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 4,479
+**Website:** [https://www.abfallwirtschaft-freiburg.de](https://www.abfallwirtschaft-freiburg.de)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~40 (+54% YoY)
+**LinkedIn Followers:** 310
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-ASF GmbH (Abfallwirtschaft und Stadtreinigung Freiburg GmbH) is the municipal waste management and street cleaning company for the city of Freiburg, Germany, jointly owned by the city (53%) and Remondis (47%). Alongside its core waste-management business, ASF operates its own pyrolysis plant producing biochar from regional green cuttings for agricultural use. Biochar production is a side activity of a ~400-employee municipal utility rather than a dedicated CDR company.
+ASF GmbH (Abfallwirtschaft und Stadtreinigung Freiburg) is the municipal waste-management and street-cleaning utility for the city of Freiburg, jointly owned by the City of Freiburg (53%) and Remondis (47%). Since 2017 it has operated a PYREG pyrolysis plant on the former Eichelbuck landfill site that carbonises regional green-cuttings into EBC-certified Premium-quality biochar (~80–100 t/year) for agricultural and viticultural use. Biochar is a small side activity relative to its 450+ employee core waste business, and its removal credits are listed via Carbonfuture.
 
-![ASF GmbH website](/screenshots/v1-thumbnails/asf-gmbh.jpg)
+![ASF GmbH website](/screenshots/asf-gmbh/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.abfallwirtschaft-freiburg.de/de/news/Pflanzenkohle.php))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.abfallwirtschaft-freiburg.de/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
-[View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)
+[View on LinkedIn](https://www.linkedin.com/company/abfallwirtschaft-und-stadtreinigung-freiburg-gmbh/)
 
 ---
 

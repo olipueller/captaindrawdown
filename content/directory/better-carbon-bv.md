@@ -2,21 +2,34 @@
 title: "Better Carbon BV"
 layout: "single"
 type: "directory"
-description: "Better Carbon BV — Unknown company in Unknown"
+description: "Better Carbon B.V. is a Netherlands-based (Goes) biochar producer that converts local biomass waste into biochar and carbon-negative materials for agricultural"
 url: "/directory/better-carbon-bv/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Netherlands
+**Website:** [https://bettercarbon.eu/](https://bettercarbon.eu/)
+**Status:** 🟡 Moderate (score: 65/100)
+**Employees:** ~2
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Better Carbon B.V. is a Netherlands-based (Goes) biochar producer that converts local biomass waste into biochar and carbon-negative materials for agricultural and industrial use. The company pursues biochar carbon removal alongside product development, with co-founders focused on ecological design and regenerative economy solutions.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.bettercarbon.eu/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://bettercarbon.eu/ ([source](https://www.cdr.fyi/supplier/better-carbon-bv))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/better-carbon-bv))
+
+[View on LinkedIn](https://www.linkedin.com/company/better-carbon/)
 
 ---
 

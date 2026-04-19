@@ -2,21 +2,35 @@
 title: "Qaptur"
 layout: "single"
 type: "directory"
-description: "Qaptur — Unknown company in Unknown"
+description: "Qaptur is a developer of a carbon credits management platform that provides access to nature-based projects that remove carbon dioxide, offering carbon and"
 url: "/directory/qaptur/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** France
+**Website:** [https://www.qaptur.earth/](https://www.qaptur.earth/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2 (0% YoY)
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Qaptur is a developer of a carbon credits management platform that provides access to nature-based projects that remove carbon dioxide, offering carbon and biodiversity assessments and a unified dashboard for sourcing, screening and analyzing nature-based projects. Founded in 2024, headquartered in Paris, France, with 3 total employees. The company acts as an intermediary/marketplace connecting nature investors with carbon project developers rather than physically removing CO2 itself.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.qaptur.earth/ ([source](https://www.cdr.fyi/marketplace/qaptur))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.qaptur.earth/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/qaptur))
+
+[View on LinkedIn](https://www.linkedin.com/company/qaptur-earth/)
 
 ---
 

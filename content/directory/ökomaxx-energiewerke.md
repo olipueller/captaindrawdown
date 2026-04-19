@@ -2,7 +2,7 @@
 title: "ÖkoMAXX Energiewerke"
 layout: "single"
 type: "directory"
-description: "ÖkoMAXX Energiewerke GmbH is an Austrian company based in Gänserndorf engaged in the generation of electricity and heat, operation of biomass power plants, and"
+description: "ÖkoMAXX Energiewerke GmbH is an Austrian company headquartered in Gänserndorf, registered in 2021, engaged in electricity and heat generation, operation of"
 url: "/directory/ökomaxx-energiewerke/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,19 +13,24 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Austria
 **Website:** [https://global-c-registry.org/project-view/1127](https://global-c-registry.org/project-view/1127)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 72/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-ÖkoMAXX Energiewerke GmbH is an Austrian company based in Gänserndorf engaged in the generation of electricity and heat, operation of biomass power plants, and trade in goods of all kinds. It is wholly owned by PurEnergy Holding GmbH and has a biochar production site at Altweitra; its biochar project (GCSP1127) was validated under the Global Biochar C-Sink Standard on 2025-06-23, making it an active biochar CDR supplier.
+ÖkoMAXX Energiewerke GmbH is an Austrian company headquartered in Gänserndorf, registered in 2021, engaged in electricity and heat generation, operation of biomass power plants, and general trading. It is wholly owned by PurEnergy Holding GmbH. Its biochar project (GCSP1127) at Altweitra 70, AT-3970 Weitra was validated under the Global Biochar C-Sink Standard with a closing date of 2025-06-23.
 
 ![ÖkoMAXX Energiewerke website](/screenshots/v1-thumbnails/komaxx-energiewerke.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.firmenabc.at/oekomaxx-energiewerke-gmbh_zrGX))
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.wirtschaft.at/u/553028b))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/bsXEqEiyFjFinding_Report_GCSP1127.pdf))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://global-c-registry.org/project-view/1127))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://global-c-registry.org/project-view/1127))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,7 +2,7 @@
 title: "Pyronam"
 layout: "single"
 type: "directory"
-description: "PyroNam is the Namibian subsidiary of German biochar CDR company PyroCCS GmbH, producing biochar from invasive bush biomass using locally-manufactured pyrolysis"
+description: "PyroNam is the Namibian subsidiary of German PyroCCS GmbH, producing biochar from FSC-certified encroaching bush biomass at its industrial plant in the"
 url: "/directory/pyronam/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,13 +18,17 @@ liveliness: "🟢 Active"
 
 ## About
 
-PyroNam is the Namibian subsidiary of German biochar CDR company PyroCCS GmbH, producing biochar from invasive bush biomass using locally-manufactured pyrolysis technology. It operates an industrial plant in Otjozondjupa/Otjiwarongo and partners with atmosfair to scale biochar CDR projects, with stated plans to deploy 50 plants across Namibia by 2030.
+PyroNam is the Namibian subsidiary of German PyroCCS GmbH, producing biochar from FSC-certified encroaching bush biomass at its industrial plant in the Otjozondjupa region near Otjiwarongo. The company partners with atmosfair and sells EBC-certified carbon credits on the voluntary market, with plans to scale to 50 plants across Namibia by 2030.
 
-![Pyronam website](/screenshots/v1-thumbnails/pyronam.jpg)
+![Pyronam website](/screenshots/pyronam/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyronam.com/))
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/pyroccs-and-atmosfair-join-forces-to-scale-biochar-cdr-in-namibia/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyronam.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyronam.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

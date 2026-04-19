@@ -2,7 +2,7 @@
 title: "Oxy"
 layout: "single"
 type: "directory"
-description: "Occidental (Oxy) is a major US oil & gas producer that, through its subsidiary 1PointFive (and with Carbon Engineering technology and OxyChem operations), is bu"
+description: "Occidental (Oxy) is one of the largest U.S. oil & gas producers that, through its Oxy Low Carbon Ventures subsidiary 1PointFive and wholly-owned Carbon"
 url: "/directory/oxy/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -13,13 +13,15 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://www.oxy.com/](https://www.oxy.com/)
 **Status:** 🟢 Active (score: 95/100)
+**Employees:** ~16340 (+1% YoY)
+**LinkedIn Followers:** 698,459
 **Open roles on cdrjobs:** 9
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Occidental (Oxy) is a major US oil & gas producer that, through its subsidiary 1PointFive (and with Carbon Engineering technology and OxyChem operations), is building large-scale Direct Air Capture facilities including STRATOS in Ector County, Texas. STRATOS, described as the world's largest DAC facility, received EPA Class VI sequestration permits in April 2025 for Ector County, Texas and in January 2026, 1PointFive announced Bain & Company had purchased 9,000 metric tons of DAC-based CDR credits over three years.
+Occidental (Oxy) is one of the largest U.S. oil & gas producers that, through its Oxy Low Carbon Ventures subsidiary 1PointFive and wholly-owned Carbon Engineering, is building large-scale Direct Air Capture infrastructure. Its flagship STRATOS facility in Ector County, Texas is designed for up to 500,000 tCO2/yr, received EPA Class VI sequestration permits in April 2025, and is expected to begin initial operations in Q2 2026. Offtake customers include Amazon, Microsoft, BlackRock, Airbus, ANA, TD Bank, and Bain & Company.
 
 ## Registry Memberships
 
@@ -27,8 +29,19 @@ Occidental (Oxy) is a major US oil & gas producer that, through its subsidiary 1
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Occidental Petroleum
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
+- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
+- **2026-04-18** — discovered via: news_feed ([source](https://heatmap.news/sparks/dac-hubs-wright-congress))
+- **** — merged duplicate: Occidental Petroleum (slug=occidental-petroleum)
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.oxy.com/news/news-releases/1pointfive-and-bain--company-announce-agreement-for-direct-air-capture-carbon-removal-credits/))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.oxy.com/news/news-releases/1pointfive-and-bain--company-announce-agreement-for-direct-air-capture-carbon-removal-credits/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/oxy/)
 
 ---
 

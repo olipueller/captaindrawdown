@@ -2,10 +2,10 @@
 title: "Carbon Instead"
 layout: "single"
 type: "directory"
-description: "Carbon Instead is a Berlin-based startup (founded 2020) that produces a biochar-based additive for construction materials like concrete and mortar, made via pyr"
+description: "Carbon Instead, founded in Berlin in 2020 by Julia Roth and Joanna Fatorelli, operates as a manufacturer of decarbonized construction materials, aiming to"
 url: "/directory/carbon-instead/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
@@ -13,20 +13,23 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://carboninstead.de/](https://carboninstead.de/)
-**Status:** 🟡 Moderate (score: 65/100)
+**Status:** 🟢 Active (score: 70/100)
 **Employees:** ~3 (+50% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Instead is a Berlin-based startup (founded 2020) that produces a biochar-based additive for construction materials like concrete and mortar, made via pyrolysis of biogenic waste streams. The biochar partially replaces cement and sand, turning building materials into long-term carbon stores. They operate across the value chain from biomass sourcing to carbonization technology to application.
+Carbon Instead, founded in Berlin in 2020 by Julia Roth and Joanna Fatorelli, operates as a manufacturer of decarbonized construction materials, aiming to reduce the carbon footprint of these materials by transforming them into long-term carbon stores. Their primary product is a biochar-based additive for concrete and mortar, produced through pyrolysis of biogenic waste, which partially or fully replaces carbon-intensive components like cement and sand. The company is small (~3 employees) and operates across biomass sourcing, carbonization technology and end-use formulation.
 
 ![Carbon Instead website](/screenshots/v1-thumbnails/carbon-instead.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carboninstead.de/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carboninstead.de/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carboninstead.de/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

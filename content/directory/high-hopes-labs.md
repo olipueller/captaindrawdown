@@ -2,7 +2,7 @@
 title: "High Hopes Labs"
 layout: "single"
 type: "directory"
-description: "High Hopes Labs is an Israeli startup based in central Israel that develops carbon-catching balloons intended to capture frozen CO2 roughly 9 miles above Earth"
+description: "High Hopes Labs is an Israeli startup based in Ramat Gan in central Israel, founded by CEO Nadav Mansdorf and CTO Eran Oren, a physicist and alumnus of the"
 url: "/directory/high-hopes-labs/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
@@ -13,19 +13,23 @@ liveliness: "🟠 Suspect"
 **Country:** Israel
 **Website:** [https://www.highopeslabs.com/](https://www.highopeslabs.com/)
 **Status:** 🟠 Suspect (score: 35/100)
-**Employees:** ~8 (-11% YoY)
+**Employees:** ~8 (0% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-High Hopes Labs is an Israeli startup based in central Israel that develops carbon-catching balloons intended to capture frozen CO2 roughly 9 miles above Earth at stratospheric altitudes. The company received a U.S. patent for its balloon-based capture invention, designed by CTO Eran Oren. The company is an independent startup (not a division of a larger firm) and is a genuine technology developer/supplier, though public signals of activity have been quiet since 2022.
+High Hopes Labs is an Israeli startup based in Ramat Gan in central Israel, founded by CEO Nadav Mansdorf and CTO Eran Oren, a physicist and alumnus of the army's elite Talpiot program. Their balloons float up to 15 km above Earth, where temperatures range from -60 to -70 °C, and a payload roughly the size of a minibar uses a coolant to bring air down to -80 °C, the freezing point of carbon dioxide, which is then stored in a pressurized container; once one metric ton is captured, the balloon deflates and returns to roughly the same spot. The US Patent and Trademark Office granted the company a patent on its balloon-based capture invention in 2022.
 
-![High Hopes Labs website](/screenshots/v1-thumbnails/high-hopes-labs.jpg)
+![High Hopes Labs website](/screenshots/high-hopes-labs/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.highopeslabs.com/about-us))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://carbonherald.com/high-hopes-labs-receives-patent-for-its-carbon-capture-balloons/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://carbonherald.com/high-hopes-labs-receives-patent-for-its-carbon-capture-balloons/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.highopeslabs.com/about-us))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

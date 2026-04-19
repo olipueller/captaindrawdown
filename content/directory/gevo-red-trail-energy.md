@@ -2,10 +2,10 @@
 title: "Gevo (Red Trail Energy)"
 layout: "single"
 type: "directory"
-description: "Gevo North Dakota (formerly Red Trail Energy, now renamed Net-Zero North) is an operating ethanol plant with adjacent CCS assets in Richardton, ND, acquired b"
+description: "Gevo, Inc. completed the purchase of Red Trail Energy in February 2025, renaming the ethanol facility Gevo North Dakota, with the CCS project now operated by"
 url: "/directory/gevo-red-trail-energy/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** BECCS
@@ -13,17 +13,17 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://gevonorthdakota.gevo.com/](https://gevonorthdakota.gevo.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~124 (+2% YoY)
-**LinkedIn Followers:** 22,173
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~124 (0% YoY)
+**LinkedIn Followers:** 22,538
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-Gevo North Dakota (formerly Red Trail Energy, now renamed "Net-Zero North") is an operating ethanol plant with adjacent CCS assets in Richardton, ND, acquired by Gevo in February 2025 for $210M. The CCS site, operated by Gevo subsidiary Richardton CCS, LLC (RCCS), has been sequestering biogenic CO2 since June 2022 and currently injects roughly 160,000–180,000 tonnes annually, generating BECCS credits registered on Puro.earth.
+Gevo, Inc. completed the purchase of Red Trail Energy in February 2025, renaming the ethanol facility Gevo North Dakota, with the CCS project now operated by Richardton CCS, LLC (RCCS), a wholly owned subsidiary of Gevo. RCCS operates a CO2 capture facility adjacent to the Gevo North Dakota ethanol facility that injects about 180,000 tonnes of CO2 annually more than a mile below RCCS property for permanent storage, having transitioned into North Dakota's first fully operational commercial CCS facility in June 2022. The acquisition purchase price was $210 million.
 
-![Gevo (Red Trail Energy) website](/screenshots/v1-thumbnails/gevo--red-trail-energy.jpg)
+![Gevo (Red Trail Energy) website](/screenshots/gevo-red-trail-energy/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -31,6 +31,10 @@ Gevo North Dakota (formerly Red Trail Energy, now renamed "Net-Zero North") is a
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.globenewswire.com/news-release/2026/01/21/3222854/23976/en/Gevo-Achieves-Industry-Milestone-500-000-High-Quality-Carbon-Removal-Credits-Issued-from-Gevo-North-Dakota-Plant.html))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-completes-acquisition-red-trail-energy-assets-north-dakota))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-completes-acquisition-red-trail-energy-assets-north-dakota))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-completes-acquisition-red-trail-energy-assets-north-dakota))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

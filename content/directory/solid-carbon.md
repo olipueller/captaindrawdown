@@ -2,7 +2,7 @@
 title: "Solid Carbon"
 layout: "single"
 type: "directory"
-description: "Solid Carbon is a Canadian research initiative led by Ocean Networks Canada (University of Victoria) developing an integrated offshore CDR system combining Dire"
+description: "Solid Carbon is a Canadian research project led by Ocean Networks Canada (a University of Victoria initiative) developing an integrated offshore CDR system"
 url: "/directory/solid-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -13,21 +13,29 @@ liveliness: "🟢 Active"
 **Method:** DAC (Other/Undisclosed)
 **Country:** Canada
 **Website:** [https://solidcarbon.ca/](https://solidcarbon.ca/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~1
+**LinkedIn Followers:** 183
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Solid Carbon is a Canadian research initiative led by Ocean Networks Canada (University of Victoria) developing an integrated offshore CDR system combining Direct Air Capture on floating platforms with injection of CO2 into sub-seafloor ocean basalt for permanent mineralization. In 2025 the project was awarded $24M over six years through the Government of Canada's New Frontiers in Research Fund to advance from feasibility study to demonstration. It is a research/demonstration-stage supplier rather than a commercial credit vendor.
+Solid Carbon is a Canadian research project led by Ocean Networks Canada (a University of Victoria initiative) developing an integrated offshore CDR system combining Direct Air Capture on floating platforms with injection of CO2 into sub-seafloor ocean basalt off British Columbia for permanent mineralization. In March 2025 the project was awarded CA$24M over six years through the Government of Canada's New Frontiers in Research Fund (NFRF) Transformation stream to advance a field demonstration at the Cascadia Basin. The international team includes researchers from UVic, UBC, Columbia University and industry partners.
 
 ![Solid Carbon website](/screenshots/v1-thumbnails/solid-carbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://solidcarbon.ca/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://solidcarbon.ca/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://solidcarbon.ca/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://solidcarbon.ca/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/solidcarbon/)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Carbono Capital"
 layout: "single"
 type: "directory"
-description: "Carbono Capital SpA is a Chile-based biochar producer whose website emphasizes soil enrichment, carbon sequestration, and promoting healthier ecosystems through"
+description: "Carbono Capital SpA is a Chile-based biochar supplier that transforms waste biomass into biochar through biogenic-fueled pyrolysis using off-grid kilns, with"
 url: "/directory/carbono-capital/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,19 +12,20 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Chile
 **Website:** [https://www.carbono.capital/](https://www.carbono.capital/)
-**Status:** 🟡 Moderate (score: 50/100)
+**Status:** 🟡 Moderate (score: 60/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Carbono Capital SpA is a Chile-based biochar producer whose website emphasizes soil enrichment, carbon sequestration, and promoting healthier ecosystems through biochar. The company operates as a CDR supplier producing biochar-based compost and carbon credits, though public activity signals and news coverage are limited.
+Carbono Capital SpA is a Chile-based biochar supplier that transforms waste biomass into biochar through biogenic-fueled pyrolysis using off-grid kilns, with the resulting material blended with compost and applied to agricultural land. The project integrates regenerative agriculture, digital MRV tools, and community-based compost-biochar application on family-owned farmland. The project is listed on the Isometric carbon removal registry.
 
 ![Carbono Capital website](/screenshots/v1-thumbnails/carbono-capital.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://registry.isometric.com/supplier/spl_1K1T6MQR51S0VENF))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbono.capital/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,7 +2,7 @@
 title: "One Earth Energy"
 layout: "single"
 type: "directory"
-description: "One Earth Energy operates a 150-million-gallon corn ethanol plant in Gibson City, Illinois, and (via sister entity One Earth Sequestration, owned by parent REX"
+description: "One Earth Energy, LLC is a corn ethanol production plant in Gibson City, Illinois, majority-owned by NYSE-listed REX American Resources Corp. Through sister"
 url: "/directory/one-earth-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -13,20 +13,27 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://www.oneearthenergy.com/](https://www.oneearthenergy.com/)
 **Status:** 🟢 Active (score: 80/100)
+**Employees:** ~16 (0% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-One Earth Energy operates a 150-million-gallon corn ethanol plant in Gibson City, Illinois, and (via sister entity One Earth Sequestration, owned by parent REX American Resources) is developing a BECCS project to capture ~460,000 tonnes CO2/year from fermentation and inject it into deep saline formations. As of FY2024, REX had substantially completed capture and compression construction, with >$115M invested, though the pipeline permit has faced Illinois Commerce Commission pushback. The project is progressing but delivery has slipped past mid-2025.
+One Earth Energy, LLC is a corn ethanol production plant in Gibson City, Illinois, majority-owned by NYSE-listed REX American Resources Corp. Through sister entity One Earth Sequestration, the company is developing a BECCS project to capture fermentation CO2 and inject it into the Mt. Simon Sandstone formation. The EPA Class VI injection well permitting process is moving forward with a final permitting decision expected in 2026, and the capture facility will initially sequester CO2 from the One Earth Energy ethanol plant with potential later capacity for third-party CO2 sequestration for a fee.
 
 ![One Earth Energy website](/screenshots/v1-thumbnails/one-earth-energy.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://ethanolproducer.com/articles/rex-one-earth-energy-expansion-remains-on-track-for-2026-completion))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/illinois-rejects-carbon-pipeline-permit-for-one-earth-energy/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://investors.rexamerican.com/news-releases/news-release-details/rex-american-resources-reports-record-high-full-fiscal-year-2025))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://ccusmap.com/markers/project-detail/one-earth-ccs-project-2024-2054))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/one-earth-enegry/)
 
 ---
 

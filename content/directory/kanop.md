@@ -2,24 +2,27 @@
 title: "Kanop"
 layout: "single"
 type: "directory"
-description: "Kanop is a Paris-based MRV software company founded in 2021 that provides satellite-based monitoring, baselining, and verification services for nature-based car"
+description: "Kanop is a Paris-based MRV software company founded in 2021 that uses AI and satellite imagery (optical, radar, LiDAR) to support monitoring, baselining and"
 url: "/directory/kanop/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation
 **Method:** CDR Platform/Marketplace
 **Country:** France
 **Website:** [https://www.kanop.io/](https://www.kanop.io/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 88/100)
+**Employees:** ~17 (0% YoY)
+**LinkedIn Followers:** 7,999
 **Open roles on cdrjobs:** 7
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Kanop is a Paris-based MRV software company founded in 2021 that provides satellite-based monitoring, baselining, and verification services for nature-based carbon projects and corporate supply chain reporting. It supports major carbon standards including Verra, Gold Standard, Isometric, and Equitable Earth, and was recently selected by Isometric as a nature-based service partner. Kanop does not remove CO2 itself but provides the measurement infrastructure used by project developers, investors, and buyers.
+Kanop is a Paris-based MRV software company founded in 2021 that uses AI and satellite imagery (optical, radar, LiDAR) to support monitoring, baselining and verification for nature-based carbon projects and corporate supply-chain reporting. It supports major standards including Verra VCS, Gold Standard, BioCarbon Standard, Cercarbono, Isometric, and Equitable Earth, and was recently selected by Isometric as a nature-based service partner. Kanop does not physically remove CO2 itself — it is an MRV enabling-tech provider in the CDR ecosystem.
 
 ![Kanop website](/screenshots/v1-thumbnails/kanop.jpg)
 
@@ -29,8 +32,12 @@ Kanop is a Paris-based MRV software company founded in 2021 that provides satell
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.kanop.io/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.kanop.io/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/kanop/)
 
 ---
 

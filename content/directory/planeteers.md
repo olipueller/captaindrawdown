@@ -2,7 +2,7 @@
 title: "Planeteers"
 layout: "single"
 type: "directory"
-description: "Planeteers GmbH is a Hamburg-based climate-tech company focused on carbon dioxide removal via ocean storage, founded in December 2022 by Florian Birner, Frank R"
+description: "Planeteers GmbH is a Hamburg-based climate-tech company founded in December 2022 that develops reactor-based ocean alkalinity enhancement technology. Its"
 url: "/directory/planeteers/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -13,7 +13,9 @@ liveliness: "🟢 Active"
 **Method:** Ocean Alkalinity Enhancement
 **Country:** Germany
 **Website:** [https://planeteers.de/](https://planeteers.de/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~27 (+42% YoY)
+**LinkedIn Followers:** 3,511
 **Open roles on cdrjobs:** 2
 **CDI Portfolio Company**
 **CDR Focus:** supplier
@@ -21,9 +23,9 @@ liveliness: "🟢 Active"
 
 ## About
 
-Planeteers GmbH is a Hamburg-based climate-tech company focused on carbon dioxide removal via ocean storage, founded in December 2022 by Florian Birner, Frank Rattey, Jens Hartmann, and Florian Brinkmann. The firm's patented HCM technology accelerates the natural weathering of limestone by reacting it with captured CO2 to produce bicarbonate and ikaite, which are then released into the marine environment to enhance ocean alkalinity. The company has field-tested a pilot unit with a 60-ton annual CO2 capture capacity and plans to scale rapidly, aiming for a global capacity of one megaton by 2030.
+Planeteers GmbH is a Hamburg-based climate-tech company founded in December 2022 that develops reactor-based ocean alkalinity enhancement technology. Its patented HCM (Hydrated Carbonate Minerals) process captures CO2 from point sources such as wastewater treatment plants and reacts it with limestone to produce bicarbonate and ikaite, which are then released into marine environments to increase ocean alkalinity and lock away carbon. The company closed a seed round in July 2024 (BonVenture, Smart Energy Innovationsfonds, ClimaNow) and is scaling pilots across Germany with an upcoming deployment in Switzerland.
 
-![Planeteers website](/screenshots/v1-thumbnails/planeteers.jpg)
+![Planeteers website](/screenshots/planeteers/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -31,8 +33,12 @@ Planeteers GmbH is a Hamburg-based climate-tech company focused on carbon dioxid
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://planeteers.de/en/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://planeteers.de/en/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/planeteersgmbh/)
 
 ---
 

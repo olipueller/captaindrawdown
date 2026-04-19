@@ -2,21 +2,37 @@
 title: "Cercarbono"
 layout: "single"
 type: "directory"
-description: "Cercarbono — Unknown company in Unknown"
+description: "Cercarbono is a voluntary carbon certification standard established in Colombia in 2016, with over 200 global projects registered in more than 20 countries,"
 url: "/directory/cercarbono/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Colombia
+**Website:** [https://www.cercarbono.com/](https://www.cercarbono.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~14 (0% YoY)
+**LinkedIn Followers:** 9,077
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Cercarbono is a voluntary carbon certification standard established in Colombia in 2016, with over 200 global projects registered in more than 20 countries, primarily serving Latin American markets. In September 2025 it was named 'Best GHG Crediting Programme / Standards Setter' at the Environmental Finance Voluntary Carbon Market Awards, becoming the first Global South standard to win the award. It certifies and registers both GHG removals and emission reductions across forestry, circular economy, and biodiversity projects.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cercarbono.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.cercarbono.com/ ([source](https://www.cdr.fyi/marketplace/cercarbono))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/cercarbono))
+
+[View on LinkedIn](https://www.linkedin.com/company/cercarbono/)
 
 ---
 

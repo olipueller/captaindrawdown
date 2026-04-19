@@ -2,24 +2,25 @@
 title: "Zero Carbon Systems"
 layout: "single"
 type: "directory"
-description: "Zero Carbon Systems is a US-based direct air capture company that acquired pioneer Global Thermostat in May 2024, combining Global Thermostat's solid-sorbent DA"
+description: "Zero Carbon Systems is a US-based direct air capture company that acquired pioneer Global Thermostat in May 2024, combining Global Thermostat's solid-sorbent"
 url: "/directory/zero-carbon-systems/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://www.zerocarbonsystems.com/](https://www.zerocarbonsystems.com/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟢 Active (score: 100/100)
+**Employees:** ~56 (-10% YoY)
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Zero Carbon Systems is a US-based direct air capture company that acquired pioneer Global Thermostat in May 2024, combining Global Thermostat's solid-sorbent DAC technology with Zero Carbon Systems' engineering capabilities. The company plans a 2,500-ton per year demonstration plant by 2025-2026, a 50,000-ton commercial plant two years later, and a million-ton scale plant by 2030. Global Thermostat's DAC technology uses a proprietary solid sorbent embedded on a monolith with a low-temperature vacuum adsorption process.
+Zero Carbon Systems is a US-based direct air capture company that acquired pioneer Global Thermostat in May 2024, combining Global Thermostat's solid-sorbent DAC technology with Zero Carbon Systems' engineering design for large-scale units. The company has articulated a roadmap from a 2,500-ton/year demonstration plant in 2025-2026 to a 50,000-ton commercial plant and a million-ton-scale plant by 2030, and its subsidiary Global Thermostat was selected as technology provider for two DOE CDR Purchase Pilot Prize Phase 1 awards.
 
 ![Zero Carbon Systems website](/screenshots/v1-thumbnails/zero-carbon-systems.jpg)
 
@@ -29,8 +30,19 @@ Zero Carbon Systems is a US-based direct air capture company that acquired pione
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Global Thermostat
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://www.prnewswire.com/news-releases/zero-carbon-systems-acquires-global-thermostat-and-its-best-in-class-technology-to-capture-carbon-dioxide-from-the-air-302153089.html))
+- **2026-04-19** — url added from cdr.fyi supplier page: http://globalthermostat.com ([source](https://www.cdr.fyi/supplier/global-thermostat))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/global-thermostat))
+- **** — merged duplicate: Global Thermostat (slug=global-thermostat)
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.zerocarbonsystems.com/news))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.zerocarbonsystems.com/news))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.zerocarbonsystems.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/zero-carbon-systems/)
 
 ---
 

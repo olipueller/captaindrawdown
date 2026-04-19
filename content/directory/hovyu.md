@@ -2,32 +2,35 @@
 title: "Hovyu"
 layout: "single"
 type: "directory"
-description: "Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process for Direct Air Capture,"
+description: "Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process. The technology is"
 url: "/directory/hovyu/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
 **Secondary pathways:** Enabling Tech
 **Method:** DAC (Liquid Solvent)
 **Country:** Netherlands
-**Website:** [https://hovyu.com/zeus-zero-emission-ultra-stripping/](https://hovyu.com/zeus-zero-emission-ultra-stripping/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Website:** [https://hovyu.com/](https://hovyu.com/)
+**Status:** 🟢 Active (score: 70/100)
 **Employees:** ~6 (+20% YoY)
-**LinkedIn Followers:** 1,126
+**LinkedIn Followers:** 1,141
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process for Direct Air Capture, flue gas capture, and biogas upgrading. Their ZEUS technology is a flexible and scalable process to remove CO2 from industrial emissions or from air, with CO2 release proceeding at room temperature requiring no heat, which is an advantage where steam availability is constrained. They have diversified international operations with projects in the Netherlands, Norway and Brazil.
+Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process. The technology is positioned for Direct Air Capture, flue gas capture, and biogas upgrading, with CO2 release at room temperature avoiding the steam-heat penalty of conventional amine systems. The company is small (~6 employees) and appears to operate primarily as a process design/engineering consultancy with proprietary technology rather than an at-scale CDR operator.
 
-![Hovyu website](/screenshots/v1-thumbnails/hovyu.jpg)
+![Hovyu website](/screenshots/hovyu/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://pitchbook.com/profiles/company/501256-54))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://hovyu.com/zeus-zero-emission-ultra-stripping/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://hovyu.com/zeus-zero-emission-ultra-stripping/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

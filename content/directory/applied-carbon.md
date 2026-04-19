@@ -2,27 +2,27 @@
 title: "Applied Carbon"
 layout: "single"
 type: "directory"
-description: "Applied Carbon (formerly Climate Robotics) is a Houston-based biochar supplier that deploys automated in-field pyrolysis machines to convert crop waste into bio"
+description: "Applied Carbon (formerly Climate Robotics) is a Houston-based biochar company that deploys mobile, in-field pyrolysis machines to convert agricultural crop"
 url: "/directory/applied-carbon/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.appliedcarbon.com/](https://www.appliedcarbon.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~27 (-10% YoY)
-**LinkedIn Followers:** 5,167
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~25 (-24% YoY)
+**LinkedIn Followers:** 5,206
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-Applied Carbon (formerly Climate Robotics) is a Houston-based biochar supplier that deploys automated in-field pyrolysis machines to convert crop waste into biochar for durable carbon removal and soil health benefits. The company has raised a $21.5M Series A led by TO VC with participation from Microsoft Climate Innovation Fund, Congruent Ventures, and Elemental Excelerator, and is an XPRIZE Carbon Removal finalist and DOE CDR Purchase Pilot semifinalist. It sells biochar carbon removal credits including to Microsoft's portfolio and is registered with Puro.earth.
+Applied Carbon (formerly Climate Robotics) is a Houston-based biochar company that deploys mobile, in-field pyrolysis machines to convert agricultural crop residues into biochar in a single pass, sequestering carbon while improving soil health. It raised a $21.5M Series A in mid-2024 led by TO VC with participation from Microsoft Climate Innovation Fund, Congruent Ventures, Elemental Excelerator and others, and is an XPRIZE Carbon Removal finalist.
 
-![Applied Carbon website](/screenshots/v1-thumbnails/applied-carbon.jpg)
+![Applied Carbon website](/screenshots/applied-carbon/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -30,6 +30,9 @@ Applied Carbon (formerly Climate Robotics) is a Houston-based biochar supplier t
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/applied-carbon/__YdS4qB8Ilkbaz2XG3VBz8Oh0jockE4GUVDm6KQl0iSs))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.appliedcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.appliedcarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

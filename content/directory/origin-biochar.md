@@ -2,7 +2,7 @@
 title: "Origin Biochar"
 layout: "single"
 type: "directory"
-description: "Origin Biochar is a Northern Ireland-based manufacturer producing biochar via pyrolysis using a Biomacon unit. Their product range includes feedchar for livesto"
+description: "Origin Biochar (trading as R & S Biomass Equipment Ltd) is a Northern Ireland-based biochar manufacturer in Newtonstewart, Omagh, County Tyrone. They operate a"
 url: "/directory/origin-biochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -13,18 +13,25 @@ liveliness: "🟡 Moderate"
 **Country:** United Kingdom
 **Website:** [https://originbiochar.com/](https://originbiochar.com/)
 **Status:** 🟡 Moderate (score: 55/100)
+**LinkedIn Followers:** 106
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Origin Biochar is a Northern Ireland-based manufacturer producing biochar via pyrolysis using a Biomacon unit. Their product range includes feedchar for livestock (cattle, sheep, pigs, poultry, equine) and horticultural biochar, marketed for animal health and soil amendment. Carbon sequestration is presented as a co-benefit of the pyrolysis process alongside renewable heat production.
+Origin Biochar (trading as R & S Biomass Equipment Ltd) is a Northern Ireland-based biochar manufacturer in Newtonstewart, Omagh, County Tyrone. They operate a Biomacon pyrolysis unit producing feedchar products for livestock (cattle, sheep, pigs, poultry, equine) and horticultural biochar, with carbon sequestration and renewable heat positioned as co-benefits of the pyrolysis process. No evidence of CDR credit issuance on major registries.
 
 
 ## History
 
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://originbiochar.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://originbiochar.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://originbiochar.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://originbiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/origin-biochar/)
 
 ---
 

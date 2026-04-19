@@ -2,7 +2,7 @@
 title: "Växjö Energi"
 layout: "single"
 type: "directory"
-description: "Växjö Energi AB is a Swedish municipal energy company collaborating with Sumitomo SHI FW on hot potassium carbonate carbon capture at its fully fossil-free CHP"
+description: "Växjö Energi AB (VEAB) is a Swedish municipal energy company owned by Växjö municipality, operating the Sandviksverket biomass CHP plant. It is developing a"
 url: "/directory/växjö-energi/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -11,22 +11,28 @@ liveliness: "🟢 Active"
 **Pathway:** BECCS
 **Method:** BECCS
 **Country:** Sweden
-**Website:** [https://www.veab.se/en/about/investments-and-projects/beccs/how-carbon-capture-works/](https://www.veab.se/en/about/investments-and-projects/beccs/how-carbon-capture-works/)
-**Status:** 🟢 Active (score: 80/100)
+**Website:** [https://www.veab.se/](https://www.veab.se/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~172 (+4% YoY)
+**LinkedIn Followers:** 3,428
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Växjö Energi AB is a Swedish municipal energy company collaborating with Sumitomo SHI FW on hot potassium carbonate carbon capture at its fully fossil-free CHP plant, aiming to capture approximately 200,000 tonnes of CO2 annually starting in 2028. Forestry residues fuel their bioenergy plant, flue-gas CO2 is separated and liquefied, then transported for permanent storage in the North Sea 2,000–3,000 m below sea level, yielding carbon dioxide removal. A permit application with Mark- och miljödomstolen is in progress, with a scoping consultation held in November 2024.
+Växjö Energi AB (VEAB) is a Swedish municipal energy company owned by Växjö municipality, operating the Sandviksverket biomass CHP plant. It is developing a BECCS facility in collaboration with Sumitomo SHI FW using hot potassium carbonate (HPC) capture technology, targeting approximately 200,000 tonnes of CO2 captured annually starting in 2028, with storage planned in the North Sea.
 
 ![Växjö Energi website](/screenshots/v1-thumbnails/v-xj--energi.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.veab.se/en/about/investments-and-projects/beccs/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.veab.se/en/about/investments-and-projects/beccs/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/vaxjo-energi-ab/)
 
 ---
 

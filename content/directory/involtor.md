@@ -2,20 +2,30 @@
 title: "Involtor"
 layout: "single"
 type: "directory"
-description: "Involtor — Unknown company in Unknown"
+description: "Involtor (Involtor Consult SRL) is a Romania-based soil carbon project developer that works with farmers to implement regenerative agricultural practices —"
 url: "/directory/involtor/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Romania
+**Website:** [https://involtor.ro/](https://involtor.ro/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Involtor (Involtor Consult SRL) is a Romania-based soil carbon project developer that works with farmers to implement regenerative agricultural practices — reduced tillage, cover cropping, residue retention, optimized fertilization, improved water management — to sequester carbon in soil. Their flagship Involtor Future Agriculture East-Europe Project (Verra VCS Project 3973) was the first project globally to have VCUs issued under Verra's VM0042 Improved Agricultural Land Management methodology (64,645 VCUs verified in January 2025), with expected lifetime reductions/removals of 480,000 tCO2e over 30 years across 4,170 hectares of Romanian Chernozem soils.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://involtor.ro/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/involtor))
 
 ---

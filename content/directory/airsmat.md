@@ -2,21 +2,37 @@
 title: "AIRSMAT"
 layout: "single"
 type: "directory"
-description: "AIRSMAT — Unknown company in Unknown"
+description: "AirSmat is a Lagos, Nigeria-based agritech startup (founded 2019) that works with African farmers on regenerative agriculture, combining biochar deployment for"
 url: "/directory/airsmat/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
+**Secondary pathways:** Enabling Tech, Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Nigeria
+**Website:** [https://airsmat.com](https://airsmat.com)
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~21 (+5% YoY)
+**LinkedIn Followers:** 3,542
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+AirSmat is a Lagos, Nigeria-based agritech startup (founded 2019) that works with African farmers on regenerative agriculture, combining biochar deployment for soil carbon sequestration with a proprietary satellite-imagery and machine-learning MRV platform (AnyFarm). The company positions itself as both a biochar-based carbon removal supplier and an MRV enabling-tech provider for soil carbon projects.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://airsmat.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.airsmat.com ([source](https://www.cdr.fyi/supplier/airsmat))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/airsmat))
+
+[View on LinkedIn](https://www.linkedin.com/company/airsmat/)
 
 ---
 

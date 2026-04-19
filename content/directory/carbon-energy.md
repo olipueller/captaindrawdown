@@ -2,10 +2,10 @@
 title: "Carbon Energy"
 layout: "single"
 type: "directory"
-description: "Carbon Energy (CarbonEnergy Inc.) is a seed-stage Daegu, South Korea-based DAC startup founded in 2022. It is piloting an electrochemical direct air capture pro"
+description: "Carbon Energy (CarbonEnergy Inc.) is a seed-stage Daegu, South Korea-based startup founded in 2022 that is developing an electrochemical direct air capture"
 url: "/directory/carbon-energy/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** DAC
@@ -13,21 +13,30 @@ liveliness: "🟠 Suspect"
 **Method:** DAC (Other/Undisclosed)
 **Country:** South Korea
 **Website:** [http://www.carbonenergy.ai/](http://www.carbonenergy.ai/)
-**Status:** 🟠 Suspect (score: 35/100)
-**Employees:** ~4 (+33% YoY)
-**LinkedIn Followers:** 97
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~4 (0% YoY)
+**LinkedIn Followers:** 99
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Energy (CarbonEnergy Inc.) is a seed-stage Daegu, South Korea-based DAC startup founded in 2022. It is piloting an electrochemical direct air capture process that simultaneously produces renewable energy/soda ash while removing CO2, with plans to scale and either sequester or recycle the captured CO2. Small team (~4-10 employees).
+Carbon Energy (CarbonEnergy Inc.) is a seed-stage Daegu, South Korea-based startup founded in 2022 that is developing an electrochemical direct air capture process. The company claims a technology that simultaneously produces renewable energy/soda ash while removing CO2, with plans to either sequester or recycle the captured CO2. It remains a very small team (~4 employees) with limited public signal in the last 12 months.
 
 ![Carbon Energy website](/screenshots/v1-thumbnails/carbon-energy.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): CarbonEnergy
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](http://www.carbonenergy.ai/))
+- **2026-04-19** — url added from cdr.fyi supplier page: http://www.carbonenergy.ai/ ([source](https://www.cdr.fyi/supplier/carbonenergy))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbonenergy))
+- **** — merged duplicate: CarbonEnergy (slug=carbonenergy)
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](N/A))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://shizune.co/investors/energy-investors-south-korea))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.crunchbase.com/organization/carbon-energy-cf97))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

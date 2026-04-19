@@ -2,7 +2,7 @@
 title: "Carba"
 layout: "single"
 type: "directory"
-description: "Carba is a Minneapolis-based CDR supplier that converts waste biomass into stable biocarbon via a patented autothermal low-temperature pyrolysis process and seq"
+description: "Carba is a Minneapolis/Eden Prairie, Minnesota-based CDR supplier that converts waste biomass into stable biocarbon using a patented autothermal"
 url: "/directory/carba/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,15 +14,15 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://carba.com/](https://carba.com/)
 **Status:** 🟢 Active (score: 92/100)
-**Employees:** ~18 (+260% YoY)
-**LinkedIn Followers:** 3,247
+**Employees:** ~19
+**LinkedIn Followers:** 3,445
 **Open roles on cdrjobs:** 2
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Carba is a Minneapolis-based CDR supplier that converts waste biomass into stable biocarbon via a patented autothermal low-temperature pyrolysis process and sequesters it through anoxic burial in landfills for 1,000+ year durability. The company has a 44,000-ton offtake with Microsoft, a $7M DOE Carbon Negative Shot grant, and recently raised $6M led by Rusheen Capital and Canopy Generations Fund. Its first project in Burnsville, MN is commissioning with Isometric-certified deliveries starting Q1 2026.
+Carba is a Minneapolis/Eden Prairie, Minnesota-based CDR supplier that converts waste biomass into stable biocarbon using a patented autothermal low-temperature pyrolysis (torrefaction) reactor, then sequesters the biochar via anoxic burial in landfills for 1,000+ year durability. The company has signed a 44,000-ton, five-year carbon credit offtake agreement with Microsoft and was selected for a $7 million U.S. Department of Energy grant under the Carbon Negative Shot program. In December 2025, Carba closed a $6M investment round led by Rusheen Capital Management and Canopy Generations Fund.
 
 ![Carba website](/screenshots/v1-thumbnails/carba.jpg)
 
@@ -32,6 +32,8 @@ Carba is a Minneapolis-based CDR supplier that converts waste biomass into stabl
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carba.com/press/carba-raises-6m-investment-round))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carba.com/press/carba-raises-6m-investment-round))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

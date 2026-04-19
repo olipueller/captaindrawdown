@@ -2,7 +2,7 @@
 title: "Paebbl"
 layout: "single"
 type: "directory"
-description: "Paebbl is a Dutch-Nordic mineralization company that converts captured CO₂ into a stable mineral powder used as a supplementary cementitious material (SCM) for"
+description: "Paebbl is a Dutch-Nordic climate tech company that permanently stores captured CO₂ by mineralizing it with crushed olivine rock to produce a silicon-rich"
 url: "/directory/paebbl/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -12,14 +12,16 @@ liveliness: "🟢 Active"
 **Method:** Mineralization (Other)
 **Country:** Netherlands
 **Website:** [https://paebbl.com/](https://paebbl.com/)
-**Status:** 🟢 Active (score: 92/100)
+**Status:** 🟢 Active (score: 95/100)
+**Employees:** ~72 (+31% YoY)
+**LinkedIn Followers:** 10,053
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Paebbl is a Dutch-Nordic mineralization company that converts captured CO₂ into a stable mineral powder used as a supplementary cementitious material (SCM) for the construction industry. In March 2025 the company launched its continuous demo plant in Rotterdam, claimed as a world-first for continuous CO₂ mineralization at demo scale, and plans a commercial plant by 2027.
+Paebbl is a Dutch-Nordic climate tech company that permanently stores captured CO₂ by mineralizing it with crushed olivine rock to produce a silicon-rich magnesium carbonate powder used as a supplementary cementitious material. Its continuous demo plant in Rotterdam has been operating since late March 2025, and the company is advancing design and site selection for a first-of-a-kind commercial plant targeted for 2028.
 
 ![Paebbl website](/screenshots/v1-thumbnails/paebbl.jpg)
 
@@ -29,8 +31,12 @@ Paebbl is a Dutch-Nordic mineralization company that converts captured CO₂ int
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/news-feed/paebbl-starts-operating-its-continuous-demo-plant-a-world-first-for-co2-mineralisation))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/technology))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/paebbl/)
 
 ---
 

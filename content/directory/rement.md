@@ -2,7 +2,7 @@
 title: "Rement"
 layout: "single"
 type: "directory"
-description: "Rement is a Karlsruhe Institute of Technology (KIT) spin-off based in Germany that develops a CO2-negative concrete upcycling process. The technology processes"
+description: "Rement is a Karlsruhe Institute of Technology (KIT) spin-off based in Eggenstein-Leopoldshafen, Germany, developing a carbon-negative concrete upcycling"
 url: "/directory/rement/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -12,19 +12,25 @@ liveliness: "🟢 Active"
 **Method:** Mineralization (Other)
 **Country:** Germany
 **Website:** [https://www.rement.tech/en](https://www.rement.tech/en)
-**Status:** 🟢 Active (score: 78/100)
+**Status:** 🟢 Active (score: 82/100)
+**Employees:** ~9 (+80% YoY)
+**LinkedIn Followers:** 1,359
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Rement is a Karlsruhe Institute of Technology (KIT) spin-off based in Germany that develops a CO2-negative concrete upcycling process. The technology processes demolition concrete fines with CO2 to recover sand/aggregates while producing precipitated calcium carbonate (PCC), permanently storing the CO2 in mineral form. The company operates a lab-scale prototype and is building a pilot plant, supported by the EXIST research transfer program and a pre-commercial procurement contract from the Schwedt Startup Challenge.
+Rement is a Karlsruhe Institute of Technology (KIT) spin-off based in Eggenstein-Leopoldshafen, Germany, developing a carbon-negative concrete upcycling process. The technology treats demolition concrete fines with CO2 to recover sand, aggregates, and precipitated calcium carbonate (PCC) as a filler/pigment, permanently mineralizing the CO2. The company operates a lab-scale prototype and is commissioning a pilot plant, supported by the EXIST Research Transfer program (BMWK/EU) and KIT investment.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.rement.tech/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.rement.tech/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/rement/)
 
 ---
 

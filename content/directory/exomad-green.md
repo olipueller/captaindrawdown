@@ -2,7 +2,7 @@
 title: "Exomad Green"
 layout: "single"
 type: "directory"
-description: "Exomad Green is the biochar/CDR division of Exomad, Bolivia's largest wood exporter. It converts hardwood forestry residues from ABT-certified sawmills into bio"
+description: "Exomad Green is the biochar CDR division of Exomad, Bolivia's largest wood exporter, operating pyrolysis facilities at Riberalta and Concepción with a third"
 url: "/directory/exomad-green/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,17 +12,17 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Bolivia
 **Website:** [https://www.exomadgreen.com/](https://www.exomadgreen.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~26 (+24% YoY)
-**LinkedIn Followers:** 6,925
+**Status:** 🟢 Active (score: 98/100)
+**Employees:** ~28 (+40% YoY)
+**LinkedIn Followers:** 7,664
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin, registry_cdrfyi, registry_puro
 
 ## About
 
-Exomad Green is the biochar/CDR division of Exomad, Bolivia's largest wood exporter. It converts hardwood forestry residues from ABT-certified sawmills into biochar via pyrolysis at Riberalta and Concepción facilities, with credits certified under Puro.earth. It is among the largest biochar CDR suppliers globally, notably signing a 1.24M-tonne 10-year offtake with Microsoft in May 2025.
+Exomad Green is the biochar CDR division of Exomad, Bolivia's largest wood exporter, operating pyrolysis facilities at Riberalta and Concepción with a third under construction in Guarayos. It is among the largest biochar CDR suppliers globally — delivering more than 300,000 Puro-certified CORCs by March 2026 and holding a 1.24Mt 10-year offtake with Microsoft signed in May 2025.
 
-![Exomad Green website](/screenshots/v1-thumbnails/exomad-green.jpg)
+![Exomad Green website](/screenshots/exomad-green/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -31,6 +31,8 @@ Exomad Green is the biochar/CDR division of Exomad, Bolivia's largest wood expor
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.exomadgreen.com/news))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.exomadgreen.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

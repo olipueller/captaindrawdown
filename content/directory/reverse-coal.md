@@ -2,32 +2,40 @@
 title: "Reverse Coal"
 layout: "single"
 type: "directory"
-description: "Reverse Coal is a UK biochar CDR project led by Lapwing Energy at The Lapwing Estate in Nottinghamshire/South Yorkshire. It combines peatland rewetting, paludic"
+description: "Reverse Coal is a UK biochar CDR pilot operated by Lapwing Energy at The Lapwing Estate near Doncaster. The project grows short-rotation coppice willow on"
 url: "/directory/reverse-coal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
-**Secondary pathways:** Afforestation
+**Secondary pathways:** Biomass Burial
 **Method:** Biochar
 **Country:** United Kingdom
 **Website:** [https://www.reversecoal.co.uk/](https://www.reversecoal.co.uk/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 82/100)
+**Employees:** ~2 (0% YoY)
+**LinkedIn Followers:** 256
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Reverse Coal is a UK biochar CDR project led by Lapwing Energy at The Lapwing Estate in Nottinghamshire/South Yorkshire. It combines peatland rewetting, paludiculture (willow SRC), pyrolysis, and biochar burial, with heat/power output feeding controlled environment agriculture. The project received £3–5M from the UK government's DAC & GGR Innovation Competition and completed its Phase 2 pilot in 2025.
+Reverse Coal is a UK biochar CDR pilot operated by Lapwing Energy at The Lapwing Estate near Doncaster. The project grows short-rotation coppice willow on rewetted lowland peatland, pyrolyses it into biochar, and buries the biochar in a patented flooded storage repository for permanent sequestration. It was funded through Phase 1 and Phase 2 of the UK DESNZ Direct Air Capture and Greenhouse Gas Removal Innovation Programme.
 
 ![Reverse Coal website](/screenshots/v1-thumbnails/reverse-coal.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reversecoal.co.uk/reverse-coal-phase-2-report-live/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reversecoal.co.uk/reverse-coal-phase-2-report-live/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reversecoal.co.uk/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/lapwing-energy-ltd/)
 
 ---
 

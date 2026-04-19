@@ -2,7 +2,7 @@
 title: "SeaGen"
 layout: "single"
 type: "directory"
-description: "Seaweed Generation (trading as SeaGen) was founded in 2021, is headquartered in Falmouth, United Kingdom, and has 19 total employees. The company physically rem"
+description: "Seaweed Generation (trading as SeaGen) is a company based in Falmouth, United Kingdom, founded in 2021 by Duncan Smallman and Mike Allen. It builds robots that"
 url: "/directory/seagen/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -10,16 +10,16 @@ liveliness: "🟢 Active"
 
 **Pathway:** Ocean CDR
 **Method:** Ocean-based CDR
-**Country:** United States
+**Country:** United Kingdom
 **Website:** [https://seagen.earth/](https://seagen.earth/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 85/100)
 **Open roles on cdrjobs:** 5
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Seaweed Generation (trading as SeaGen) was founded in 2021, is headquartered in Falmouth, United Kingdom, and has 19 total employees. The company physically removes CO2 by developing its AlgaRay technology, which intercepts and sinks invasive Sargassum into the deep ocean, before it can reach coasts. It has a 49-year license for trials in Antigua and Barbuda while it develops an autonomous version of the bot.
+Seaweed Generation (trading as SeaGen) is a company based in Falmouth, United Kingdom, founded in 2021 by Duncan Smallman and Mike Allen. It builds robots that sink invasive Sargassum seaweed into the deep ocean, with its AlgaRay robot developed to intercept, sink and track problematic seaweed for CDR credits. Recent activity includes deploying the AlgaVator cultivation platform, rebranding to SeaGen, and being selected for AirMiners' Kiloton Fund.
 
 ## Registry Memberships
 
@@ -27,6 +27,7 @@ Seaweed Generation (trading as SeaGen) was founded in 2021, is headquartered in 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://seagen.earth/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://pitchbook.com/profiles/company/503525-08))
 - **2026-04-18** — backfilled from V1
 

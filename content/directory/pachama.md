@@ -2,20 +2,32 @@
 title: "Pachama"
 layout: "single"
 type: "directory"
-description: "Pachama — Unknown company in Unknown"
+description: "Pachama, based in California and launched in 2018, provided digital MRV products for forest carbon removal, helping companies identify forest-based carbon"
 url: "/directory/pachama/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://pachama.com/](https://pachama.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Pachama, based in California and launched in 2018, provided digital MRV products for forest carbon removal, helping companies identify forest-based carbon removal projects and track their impact over time. In November 2025, Carbon Direct acquired Pachama, with co-founder and CEO Diego Saez Gil and others joining the Carbon Direct team. Pachama operated a forest carbon marketplace and AI-assisted MRV platform rather than physically removing CO2 itself.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://www.carbon-direct.com/press/carbon-direct-acquires-pachama))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://pachama.com/ ([source](https://www.cdr.fyi/marketplace/pachama))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/pachama))
 
 ---

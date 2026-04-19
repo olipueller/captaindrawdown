@@ -2,31 +2,38 @@
 title: "Retract"
 layout: "single"
 type: "directory"
-description: "Retract is a Boulder, Colorado-based company positioning itself as a U.S. developer, constructor, and operator of direct air capture facilities. The company is"
+description: "Retract is a Boulder, Colorado-based startup positioning itself as a developer, constructor, and operator of direct air capture and sequestration facilities."
 url: "/directory/retract/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Other/Undisclosed)
 **Country:** United States
 **Website:** [https://retract.com/](https://retract.com/)
-**Status:** 🟠 Suspect (score: 30/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~4 (0% YoY)
+**LinkedIn Followers:** 140
 **CDR Focus:** supplier
 **Evidence signals:** website
 
 ## About
 
-Retract is a Boulder, Colorado-based company positioning itself as a U.S. developer, constructor, and operator of direct air capture facilities. The company is very small (2-10 employees, ~87 LinkedIn followers) with a minimal website and no recent public news, press, funding announcements, or project milestones.
+Retract is a Boulder, Colorado-based startup positioning itself as a developer, constructor, and operator of direct air capture and sequestration facilities. The company is very small (2-10 employees per LinkedIn) with a minimal website and no public news, funding announcements, project milestones, or registry activity found in search. Operational status is unclear.
 
 ![Retract website](/screenshots/v1-thumbnails/retract.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://retract.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://retract.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/retract/)
 
 ---
 

@@ -2,31 +2,36 @@
 title: "Bhumi Sewa Networks"
 layout: "single"
 type: "directory"
-description: "Bhumi Sewa Networks is a Nepal-based (Pokhara) for-purpose company that partners with farmer cooperatives to convert agricultural residues into biochar, generat"
+description: "Bhumi Sewa Networks is a Pokhara, Nepal-based for-purpose, profit-not-distributing company that partners with farmer cooperatives to convert agricultural"
 url: "/directory/bhumi-sewa-networks/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** Afforestation
 **Method:** Biochar
 **Country:** Nepal
 **Website:** [https://bhumi.earth/](https://bhumi.earth/)
-**Status:** 🟡 Moderate (score: 70/100)
+**Status:** 🟡 Moderate (score: 60/100)
 **Employees:** ~5
-**LinkedIn Followers:** 198
+**LinkedIn Followers:** 243
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Bhumi Sewa Networks is a Nepal-based (Pokhara) for-purpose company that partners with farmer cooperatives to convert agricultural residues into biochar, generating verified carbon removals while promoting regenerative agriculture. They provide end-to-end biochar project development, from feasibility to implementation, and sell carbon credits to corporate buyers.
+Bhumi Sewa Networks is a Pokhara, Nepal-based for-purpose, profit-not-distributing company that partners with farmer cooperatives to convert agricultural residues into biochar and verified carbon removal credits. They provide end-to-end biochar project development services, including agroforestry design, MRV, and financing regenerative practices for smallholder farmers.
 
 ![Bhumi Sewa Networks website](/screenshots/v1-thumbnails/bhumi-sewa-networks.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bhumi.earth/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://bhumi.earth/?page_id=87))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bhumi.earth/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bhumi.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

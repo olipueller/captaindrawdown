@@ -2,7 +2,7 @@
 title: "Terrasols"
 layout: "single"
 type: "directory"
-description: "Terrasols (terrasols.earth) is an India-based enhanced rock weathering supplier that crushes volcanic basalt and applies it on farmers' fields to permanently re"
+description: "Terrasols (Terrasols Solutions) is an India-based enhanced rock weathering startup that crushes volcanic basalt and applies it to smallholder farmers' fields"
 url: "/directory/terrasols/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -11,22 +11,35 @@ liveliness: "🟢 Active"
 **Pathway:** Enhanced Weathering
 **Method:** Enhanced Rock Weathering
 **Country:** India
-**Website:** [https://www.terrasols.earth/](https://www.terrasols.earth/)
+**Website:** [https://terrasols.earth/](https://terrasols.earth/)
 **Status:** 🟢 Active (score: 70/100)
+**Employees:** ~4 (+100% YoY)
+**LinkedIn Followers:** 904
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Terrasols (terrasols.earth) is an India-based enhanced rock weathering supplier that crushes volcanic basalt and applies it on farmers' fields to permanently remove atmospheric CO₂ while improving soil health. They are profiled in the remove. Carbon Removal Accelerator as "Harnessing the power of ERW to permanently remove CO₂ while regenerating soils and enhancing microbial activity for long-term fertility." They also describe themselves as a sustainability consulting firm, but the operational activity is ERW deployment on smallholder farms.
+Terrasols (Terrasols Solutions) is an India-based enhanced rock weathering startup that crushes volcanic basalt and applies it to smallholder farmers' fields to permanently remove atmospheric CO₂ while improving soil health and crop yields. The company is profiled in the remove. Carbon Removal Accelerator and describes digital MRV systems for generating carbon credits.
 
 ![Terrasols website](/screenshots/v1-thumbnails/terrasols.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Terrasols Solutions Private Limited
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://terrasols.earth/))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/terrasols))
+- **** — merged duplicate: Terrasols Solutions Private Limited (slug=terrasols-solutions-private-limited)
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://terrasols.earth/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://terrasols.earth/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://terrasols.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/greenlife-sustainability/)
 
 ---
 

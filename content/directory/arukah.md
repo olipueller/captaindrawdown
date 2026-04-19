@@ -2,7 +2,7 @@
 title: "Arukah"
 layout: "single"
 type: "directory"
-description: "Arukah has commissioned Southeast Asia's largest biochar plant in Cambodia together with local partners, transforming agricultural by-products into durable carb"
+description: "Arukah is a Singapore-headquartered CDR project developer running Southeast Asia's largest biochar plant in Cambodia together with local partners, converting"
 url: "/directory/arukah/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,21 +13,23 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Singapore
 **Website:** [https://www.arukahcapital.com/](https://www.arukahcapital.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~15 (+50% YoY)
-**LinkedIn Followers:** 572
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~19 (+111% YoY)
+**LinkedIn Followers:** 626
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Arukah has commissioned Southeast Asia's largest biochar plant in Cambodia together with local partners, transforming agricultural by-products into durable carbon removal and climate-smart fertiliser, while allocating 50% of gross carbon credit revenues to participating smallholder farmers. The Singapore-headquartered firm also deploys household biodigesters and operates a digital MRV platform (CarbonCast) using IoT sensors and computer vision to track biomass and issue high-integrity carbon credits.
+Arukah is a Singapore-headquartered CDR project developer running Southeast Asia's largest biochar plant in Cambodia together with local partners, converting agricultural waste into durable carbon removal credits and biochar-based fertiliser. In March 2026 it became the first company to issue Puro.earth Biochar CORCs in Cambodia. Arukah shares 50% of gross carbon revenue with participating smallholder farmers and also develops biogas and digital MRV (CarbonCast) solutions.
 
-![Arukah website](/screenshots/v1-thumbnails/arukah.jpg)
+![Arukah website](/screenshots/arukah/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.arukahcapital.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.arukahcapital.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

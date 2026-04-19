@@ -2,21 +2,36 @@
 title: "Xilva"
 layout: "single"
 type: "directory"
-description: "Xilva — Unknown company in Unknown"
+description: "Xilva is a Zurich-based startup (founded 2021) that provides due diligence, rating, and monitoring services for forest and nature-based carbon removal"
 url: "/directory/xilva/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Switzerland
+**Website:** [https://xilva.global/](https://xilva.global/)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~17 (+55% YoY)
+**LinkedIn Followers:** 4,061
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Xilva is a Zurich-based startup (founded 2021) that provides due diligence, rating, and monitoring services for forest and nature-based carbon removal projects. Its GRADE, SCREEN and MONITOR tools help investors and offtakers assess risk and quality of afforestation/reforestation and REDD+ projects. Xilva is not itself a carbon remover but a ratings/MRV platform in the CDR ecosystem.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://xilva.global/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://xilva.global ([source](https://www.cdr.fyi/supplier/xilva))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/xilva))
+
+[View on LinkedIn](https://www.linkedin.com/company/xilva/)
 
 ---
 

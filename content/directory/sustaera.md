@@ -2,31 +2,38 @@
 title: "Sustaera"
 layout: "single"
 type: "directory"
-description: "Founded in 2021 and headquartered in Cary, North Carolina, Sustaera's technology captures CO2 directly from the atmosphere using renewable energy, designed for"
+description: "Sustaera is a North Carolina-based Direct Air Capture startup (spun out of Susteon Inc. and founded in 2021) developing a low-cost, modular DAC system using"
 url: "/directory/sustaera/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://www.sustaera.com/](https://www.sustaera.com/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~4 (0% YoY)
+**LinkedIn Followers:** 2,757
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Founded in 2021 and headquartered in Cary, North Carolina, Sustaera's technology captures CO2 directly from the atmosphere using renewable energy, designed for scalability and cost-effectiveness. The company is backed by Breakthrough Energy Ventures and the Grantham Foundation, and its technology was selected for the Ankeron Hub, a Department of Energy (DOE)-backed initiative designed to validate technologies at a readiness level of 4-6. Sustaera is also changing how its technology reaches the market by offering a technology licensing model, which reduces risk for carbon removal project developers.
+Sustaera is a North Carolina-based Direct Air Capture startup (spun out of Susteon Inc. and founded in 2021) developing a low-cost, modular DAC system using natural-mineral sorbents and electric resistive heating. Backed by Breakthrough Energy Ventures, the Grantham Foundation, the U.S. DOE, and XPRIZE, the company announced a major efficiency breakthrough in March 2026, claiming 90%+ efficiency and a new technology licensing model targeting sub-$100/ton carbon removal.
 
-![Sustaera website](/screenshots/v1-thumbnails/sustaera.jpg)
+![Sustaera website](/screenshots/sustaera/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.manilatimes.net/2026/03/09/tmt-newswire/globenewswire/dac-breakthrough-unlocks-3x-cheaper-carbon-removal-projects/2296131))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.sustaera.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/sustaera-unlocks-pathway-for-3x-more-affordable-dac-technology/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/sustaera/)
 
 ---
 

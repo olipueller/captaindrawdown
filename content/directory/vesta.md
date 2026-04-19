@@ -2,10 +2,10 @@
 title: "Vesta"
 layout: "single"
 type: "directory"
-description: "Vesta (formerly Project Vesta) is a US-based marine CDR supplier pioneering Coastal Carbon Capture — the deployment of olivine sand in coastal waters to drive"
+description: "Vesta (formerly Project Vesta) is a US-based Public Benefit Corporation developing \"Coastal Carbon Capture,\" a form of ocean alkalinity enhancement that places"
 url: "/directory/vesta/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Ocean CDR
@@ -13,21 +13,35 @@ liveliness: "🟢 Active"
 **Method:** Ocean Alkalinity Enhancement
 **Country:** United States
 **Website:** [https://www.vesta.earth/](https://www.vesta.earth/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~15
+**LinkedIn Followers:** 5,752
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Vesta (formerly Project Vesta) is a US-based marine CDR supplier pioneering "Coastal Carbon Capture" — the deployment of olivine sand in coastal waters to drive ocean alkalinity enhancement and remove atmospheric CO2. With the placement of 8,200 metric tons of olivine sand off the coast of Duck, NC, Vesta deployed a first-of-its-kind marine carbon removal pilot, estimated to remove approximately 5,000 metric tons of CO2. The company completed a Series A financing round led by the Grantham Trust's Neglected Climate Opportunities program.
+Vesta (formerly Project Vesta) is a US-based Public Benefit Corporation developing "Coastal Carbon Capture," a form of ocean alkalinity enhancement that places olivine sand in coastal waters to accelerate marine enhanced rock weathering and permanently store atmospheric CO2. The company has conducted pilot deployments in Southampton, NY (2022) and Duck, NC (2024, 8,200 tonnes of olivine), and was the first company granted a US federal permit for a standalone ocean-based carbon removal pilot.
 
 ![Vesta website](/screenshots/v1-thumbnails/vesta.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Project Vesta
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.vesta.earth/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.vesta.earth/ ([source](https://www.cdr.fyi/supplier/project-vesta))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/project-vesta))
+- **** — merged duplicate: Project Vesta (slug=project-vesta)
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://en.wikipedia.org/wiki/Project_Vesta))
+- **2026-04-19** — reclassified: pathway=? focus=supplier liveliness=🟢 Active ([source](https://www.vesta.earth/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.vesta.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/projectvesta/)
 
 ---
 

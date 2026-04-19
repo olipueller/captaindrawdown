@@ -2,29 +2,38 @@
 title: "GoBiochar"
 layout: "single"
 type: "directory"
-description: "GoBiochar LLC is a Salt Lake City, Utah-based biochar supply and consulting company that sources and distributes bulk biochar to agriculture, climate tech, and"
+description: "GoBiochar is a Salt Lake City, Utah-based biochar supply and production company led by John Webster, serving agricultural, livestock, and land-management"
 url: "/directory/gobiochar/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
-**Country:** Unknown
+**Country:** United States
 **Website:** [https://gobiochar.com/](https://gobiochar.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2 (0% YoY)
+**LinkedIn Followers:** 120
 **CDR Focus:** supplier
 **Evidence signals:** exa_search
 
 ## About
 
-GoBiochar LLC is a Salt Lake City, Utah-based biochar supply and consulting company that sources and distributes bulk biochar to agriculture, climate tech, and heavy industry clients across North America. Founded and led by John Webster (also Development Director for Biochar On Site and former Communications Director at US Biochar Initiative), the firm produces customer-specific biochar across a range of feedstocks and supports projects from concept to delivery. Their focus is primarily agricultural/soil amendment with carbon sequestration co-benefits rather than explicit CDR credit issuance.
+GoBiochar is a Salt Lake City, Utah-based biochar supply and production company led by John Webster, serving agricultural, livestock, and land-management customers across the Southwestern US. The company converts biomass to biochar via pyrolysis (including mobile in-field units) and also supports partners like Circle Forestry in wildfire-mitigation biochar burns.
+
+![GoBiochar website](/screenshots/gobiochar/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://gobiochar.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://gobiochar.com/about/))
 - **2026-04-18** — discovered via: exa ([source](https://gobiochar.com/))
+
+[View on LinkedIn](https://www.linkedin.com/company/gobiochar/)
 
 ---
 

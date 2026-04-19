@@ -2,21 +2,35 @@
 title: "Vlinder"
 layout: "single"
 type: "directory"
-description: "Vlinder — Unknown company in Unknown"
+description: "Vlinder is a nature-based climate company that develops mangrove restoration projects in Asia and Africa, generating blue carbon credits. Headquartered in"
 url: "/directory/vlinder/"
-pathway: "Unknown"
+pathway: "Afforestation"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Austria
+**Website:** [https://vlinderclimate.com/](https://vlinderclimate.com/)
+**Status:** 🟢 Active (score: 78/100)
+**Employees:** ~18 (+6% YoY)
+**LinkedIn Followers:** 2,986
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Vlinder is a nature-based climate company that develops mangrove restoration projects in Asia and Africa, generating blue carbon credits. Headquartered in Austria, the company co-designs projects with local communities and has restored over 1,600 hectares of mangroves, with a larger pipeline in development.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://vlinderclimate.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://vlinderclimate.com ([source](https://www.cdr.fyi/supplier/vlinder))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/vlinder))
+
+[View on LinkedIn](https://www.linkedin.com/company/vlinderapp/)
 
 ---
 

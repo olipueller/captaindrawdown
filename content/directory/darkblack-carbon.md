@@ -2,21 +2,32 @@
 title: "DarkBlack Carbon"
 layout: "single"
 type: "directory"
-description: "DarkBlack Carbon — Unknown company in Unknown"
+description: "DarkBlack Carbon is a UK-based biochar producer that converts arboreal wood waste and municipal biomass into biochar via pyrolysis, generating"
 url: "/directory/darkblack-carbon/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United Kingdom
+**Website:** [https://darkblackcarbon.com/](https://darkblackcarbon.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+DarkBlack Carbon is a UK-based biochar producer that converts arboreal wood waste and municipal biomass into biochar via pyrolysis, generating Puro.earth-certified carbon removal credits. The company operates a pyrolysis reactor called 'BlackBird I' and positions itself as one of the UK's first commercial-scale biochar producers. Biochar is sold as a soil additive while the underlying carbon removal is certified and sold as CORCs.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://darkblackcarbon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/rpbpalmer))
+
+[View on LinkedIn](https://www.linkedin.com/company/dark-black-carbon/)
 
 ---
 

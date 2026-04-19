@@ -2,30 +2,33 @@
 title: "Circularity2"
 layout: "single"
 type: "directory"
-description: "Circularity2 announced plans in August 2025 to construct a biochar facility in Cross City, Dixie County, Florida, producing biocarbon from woody biomass by-prod"
+description: "Circularity2 is a Minneapolis, Minnesota-based biochar producer founded in 2022. In August 2025, the company announced plans to construct a flagship biochar"
 url: "/directory/circularity2/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.circularity2.com/](https://www.circularity2.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟠 Suspect (score: 40/100)
 **Employees:** ~7
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Circularity2 announced plans in August 2025 to construct a biochar facility in Cross City, Dixie County, Florida, producing biocarbon from woody biomass by-products such as forestry and sawmill residuals. The company positions itself as a supplier of biochar and biochar-based carbon removal credits, operating from Minneapolis, MN.
+Circularity2 is a Minneapolis, Minnesota-based biochar producer founded in 2022. In August 2025, the company announced plans to construct a flagship biochar facility on a 24-acre site at the Cross City Industrial Park in Dixie County, Florida, using woody biomass residuals from regional forestry and sawmill operations. The company sells biocarbon products and biochar-based carbon removal credits targeting hard-to-decarbonize industries including steel, cement, and agriculture.
 
-![Circularity2 website](/screenshots/v1-thumbnails/circularity2.jpg)
+![Circularity2 website](/screenshots/circularity2/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://archive.is/DpwiB))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nflp.org/news/article/circularity2-locates-in-cross-city-florida))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://circularity2.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

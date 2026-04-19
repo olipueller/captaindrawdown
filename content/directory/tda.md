@@ -2,7 +2,7 @@
 title: "TDA"
 layout: "single"
 type: "directory"
-description: "TDA Research, under DOE contract DE-FE0032260, is developing novel 3D-printed sorbent structures that can capture carbon dioxide from air via a rapid thermal sw"
+description: "TDA Research, Inc. is a Wheat Ridge, Colorado-based contract R&D company founded in 1987 that develops catalysts, sorbents, and advanced materials, primarily"
 url: "/directory/tda/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,22 +12,30 @@ liveliness: "🟢 Active"
 **Secondary pathways:** Enabling Tech
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
-**Website:** [https://www.netl.doe.gov/project-information?p=FE0032260](https://www.netl.doe.gov/project-information?p=FE0032260)
-**Status:** 🟢 Active (score: 80/100)
+**Website:** [https://www.tda.com](https://www.tda.com)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~121 (-7% YoY)
+**LinkedIn Followers:** 4,480
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-TDA Research, under DOE contract DE-FE0032260, is developing novel 3D-printed sorbent structures that can capture carbon dioxide from air via a rapid thermal swing adsorption (RTSA) process. The company was also awarded a DOE contract valued at up to $49 million for a pilot project to evaluate a sorbent-based CO2 capture system after combustion at the Wyoming Integrated Test Center, in collaboration with SLB. TDA is a contract R&D firm based in Wheat Ridge, CO, with DAC being one of several R&D focus areas.
+TDA Research, Inc. is a Wheat Ridge, Colorado-based contract R&D company founded in 1987 that develops catalysts, sorbents, and advanced materials, primarily under U.S. government contracts. Within CDR, TDA develops sorbent-based CO2 capture technology, including a DOE-funded Direct Air Capture and methanol utilization conceptual design (DE-FE0032400) and a pilot sorbent-based post-combustion capture project at the Wyoming Integrated Test Center with SLB, under a DOE award of up to $49 million.
 
-![TDA website](/screenshots/v1-thumbnails/tda.jpg)
+![TDA website](/screenshots/tda/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.tda.com))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tdainc.com/careers/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://netl.doe.gov/sites/default/files/netl-file/24CM/24CM_CDR_5_Alptekin.pdf))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://tda.com/3d-printed-dac/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/tda-research/)
 
 ---
 

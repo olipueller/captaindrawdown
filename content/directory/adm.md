@@ -2,7 +2,7 @@
 title: "ADM"
 layout: "single"
 type: "directory"
-description: "ADM (Archer Daniels Midland) is a global agribusiness giant that operates one of North America's only commercial-scale bioenergy-with-carbon-capture-and-storage"
+description: "ADM (Archer Daniels Midland) is a global agribusiness giant whose CCS division operates one of North America's only commercial-scale BECCS facilities,"
 url: "/directory/adm/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -13,21 +13,24 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://www.adm.com/en-us/standalone-pages/adm-and-carbon-capture-and-storage/](https://www.adm.com/en-us/standalone-pages/adm-and-carbon-capture-and-storage/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~40058 (+22% YoY)
-**LinkedIn Followers:** 994,525
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~41049 (+20% YoY)
+**LinkedIn Followers:** 1,036,375
 **CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-ADM (Archer Daniels Midland) is a global agribusiness giant that operates one of North America's only commercial-scale bioenergy-with-carbon-capture-and-storage (BECCS) facilities, capturing CO2 from its Decatur, Illinois corn-to-ethanol plant and injecting it more than a mile underground into the Mt. Simon Sandstone formation. The CCS division has stored nearly 3 million tons of CO2 since 2011 and recently announced partnerships (Super6 Carbon in Oct 2025, Google/Broadwing Energy) to expand carbon management beyond bioethanol, though it also faced a 2024 leak incident that paused operations until August 2025.
+ADM (Archer Daniels Midland) is a global agribusiness giant whose CCS division operates one of North America's only commercial-scale BECCS facilities, capturing CO2 from corn-to-ethanol fermentation at its Decatur, Illinois complex and injecting it more than a mile underground into the Mt. Simon Sandstone under EPA Class VI permits. Operations resumed in August 2025 after a year-long pause following a 2024 subsurface leak, and in October 2025 ADM signed an MOU with Super6 Carbon to produce CDR credits by storing third-party CO2 at the Decatur site.
 
-![ADM website](/screenshots/v1-thumbnails/adm.jpg)
+![ADM website](/screenshots/adm/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.adm.com/en-us/news/news-releases/2025/10/adm-super6-carbon-announce-plans-to-produce-cdr-credits-in-decatur/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.adm.com/en-us/news/news-releases/2025/10/adm-super6-carbon-announce-plans-to-produce-cdr-credits-in-decatur/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

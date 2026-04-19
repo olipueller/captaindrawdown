@@ -2,7 +2,7 @@
 title: "Jord"
 layout: "single"
 type: "directory"
-description: "Jord is a Swedish company (founded 2017, HQ Stockholm) with cultivation operations in Senegal and the Dominican Republic that produces biochar and solid biofuel"
+description: "Jord AB is a Swedish company founded in 2017 and headquartered in Stockholm that cultivates perennial C4 grass on marginal/degraded land in Senegal and the"
 url: "/directory/jord/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,22 +12,30 @@ liveliness: "🟢 Active"
 **Secondary pathways:** BECCS
 **Method:** Biochar
 **Country:** Sweden
-**Website:** [https://www.jord.one/biochar](https://www.jord.one/biochar)
+**Website:** [https://www.jord.one/](https://www.jord.one/)
 **Status:** 🟢 Active (score: 80/100)
 **Employees:** ~7 (+17% YoY)
-**LinkedIn Followers:** 883
+**LinkedIn Followers:** 1,009
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Jord is a Swedish company (founded 2017, HQ Stockholm) with cultivation operations in Senegal and the Dominican Republic that produces biochar and solid biofuel pellets from C4 grass grown on degraded land. The company also sells carbon credits combining avoidance and biochar-based removal. It has active 2024-2025 partnerships with Votion Biorefineries (SAF), TEXEL (electricity), and Borga (construction).
+Jord AB is a Swedish company founded in 2017 and headquartered in Stockholm that cultivates perennial C4 grass on marginal/degraded land in Senegal and the Dominican Republic, producing solid biofuel pellets and biochar. The company is a Puro.earth-listed biochar carbon removal supplier and has active 2024-2025 partnerships with Votion Biorefineries (SAF), TEXEL (electricity), and others. It sells carbon credits combining avoidance and biochar-based removal.
 
-![Jord website](/screenshots/v1-thumbnails/jord.jpg)
+![Jord website](/screenshots/jord/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Jord. AB
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.jord.one/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.jord.one/ ([source](https://www.cdr.fyi/supplier/jord))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/jord))
+- **** — merged duplicate: Jord. AB (slug=jord-ab)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.jord.one/biochar))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.jord.one/about))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

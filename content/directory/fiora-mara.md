@@ -2,7 +2,7 @@
 title: "Fiora Mara"
 layout: "single"
 type: "directory"
-description: "Fiora Mara is developing ocean-based carbon removal systems by deploying regenerative seaweed farms designed to sequester atmospheric CO₂. The approach leverage"
+description: "Fiora Mara is an early-stage US (New York) startup founded in 2024 that cultivates seaweed (macroalgae such as kelp) on biodegradable ocean farms and sinks the"
 url: "/directory/fiora-mara/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -14,19 +14,21 @@ liveliness: "🟢 Active"
 **Website:** [https://fioramara.com/](https://fioramara.com/)
 **Status:** 🟢 Active (score: 70/100)
 **Employees:** ~5 (+150% YoY)
-**LinkedIn Followers:** 182
+**LinkedIn Followers:** 187
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Fiora Mara is developing ocean-based carbon removal systems by deploying regenerative seaweed farms designed to sequester atmospheric CO₂. The approach leverages large-scale, biodegradable cultivation arrays to grow fast-growing macroalgae such as kelp, and once matured the biomass is transported and sequestered in the deep ocean. The company is an early-stage US startup founded in 2024 that aims to generate revenue by selling high-integrity carbon credits.
+Fiora Mara is an early-stage US (New York) startup founded in 2024 that cultivates seaweed (macroalgae such as kelp) on biodegradable ocean farms and sinks the biomass to the deep ocean for long-term carbon sequestration. The company emerged from the ClimateBase Fellowship and has since joined accelerators including AirMiners Launchpad and VentureWell, and launched its first seaweed farm with the RETI Center.
 
-![Fiora Mara website](/screenshots/v1-thumbnails/fiora-mara.jpg)
+![Fiora Mara website](/screenshots/fiora-mara/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://fioramara.com/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://fioramara.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

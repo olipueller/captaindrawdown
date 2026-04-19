@@ -2,26 +2,28 @@
 title: "Svante/Carbon Alpha"
 layout: "single"
 type: "directory"
-description: "Svante is a carbon capture and removal solutions provider that makes nanoengineered filters and modular rotating contactor machines that capture and remove CO2"
+description: "Svante is a Vancouver, BC-based carbon capture and removal technology company that manufactures nanoengineered solid-sorbent filters and modular rotating"
 url: "/directory/svantecarbon-alpha/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** BECCS
-**Secondary pathways:** DAC, Enabling Tech
+**Secondary pathways:** Enabling Tech
 **Method:** BECCS
 **Country:** Canada
-**Website:** [https://www.carbonalpha.com/](https://www.carbonalpha.com/)
-**Status:** 🟢 Active (score: 98/100)
+**Website:** [https://www.svanteinc.com/](https://www.svanteinc.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~289 (-2% YoY)
+**LinkedIn Followers:** 25,849
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
 
 ## About
 
-Svante is a carbon capture and removal solutions provider that makes nanoengineered filters and modular rotating contactor machines that capture and remove CO2 from industrial emissions and the air. In March 2026 Svante acquired Calgary-based Carbon Alpha Corporation, including its ownership interests in North Star Carbon Solutions and its flagship North Star BECCS project in Meadow Lake, Saskatchewan. In April 2026 North Star Carbon Solutions LP signed an offtake agreement with Microsoft to deliver 626,000 tonnes of durable CDR credits over 15 years from the North Star BECCS project.
+Svante is a Vancouver, BC-based carbon capture and removal technology company that manufactures nanoengineered solid-sorbent filters and modular rotating contactor machines for capturing CO2 from industrial flue gas and air. In March 2026 Svante acquired Calgary-based Carbon Alpha Corp., bringing the North Star BECCS project in Meadow Lake, Saskatchewan (a joint venture with Meadow Lake Tribal Council) into its portfolio; in April 2026 the partnership signed a 15-year, 626,000-tonne CDR offtake with Microsoft, with commercial operations targeted for early 2029.
 
-![Svante/Carbon Alpha website](/screenshots/v1-thumbnails/svante-carbon-alpha.jpg)
+![Svante/Carbon Alpha website](/screenshots/svantecarbon-alpha/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,8 +31,38 @@ Svante is a carbon capture and removal solutions provider that makes nanoenginee
 
 ## History
 
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260304605629/en/Svante-Acquires-Carbon-Dioxide-Removal-Project-Developer-Carbon-Alpha-Corp.))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-19** — merged 6 duplicate(s): North Star, North Star Carbon Solutions LP, Forward, North Star Carbon Solutions, Svante, Svante Technologies
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20251030974500/en/Svante-Celebrates-18-Years-of-Carbon-Management-Innovation-with-Historic-Milestones-in-2025))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/))
+- **2026-04-18** — discovered via: news_feed ([source](https://biomassmagazine.com/articles/abc-biogas-creates-power-for-millions-of-homes-with-room-to-grow))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260406630377/en/Svante-Meadow-Lake-Tribal-Council-Partnership-Agrees-to-Sell-Microsoft-626000-Tonnes-of-Carbon-Removal-Credits))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20250513713072/en/Svante-Launches-Worlds-First-Commercial-Gigafactory-for-Carbon-Capture-Removal-Filters))
+- **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/microsoft-pauses-all-carbon-removal-purchases/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-mltc-beccs-cdrs-microsoft/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260304605629/en/Svante-Acquires-Carbon-Dioxide-Removal-Project-Developer-Carbon-Alpha-Corp.))
+- **2026-04-18** — discovered via: news_feed ([source](https://biomassmagazine.com/articles/abc-biogas-creates-power-for-millions-of-homes-with-room-to-grow))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/))
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/))
+- **2026-04-18** — discovered via: brave ([source](https://www.svanteinc.com/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-mltc-beccs-cdrs-microsoft/))
+- **2026-04-19** — discovered via: news_feed ([source](https://biomassmagazine.com/articles/abc-biogas-creates-power-for-millions-of-homes-with-room-to-grow))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-mltc-beccs-cdrs-microsoft/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.carbonalpha.com/northstar))
+- **2026-04-18** — discovered via: news_feed ([source](https://www.gasworld.com/story/microsoft-signs-15-year-beccs-credit-deal-in-canada/2244832.article/))
+
+[View on LinkedIn](https://www.linkedin.com/company/svantesolutions/)
 
 ---
 

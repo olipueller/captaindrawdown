@@ -2,30 +2,33 @@
 title: "Carbon Capital"
 layout: "single"
 type: "directory"
-description: "Carbon Capital is a Namibian biochar producer operating Farm Gai Kaisa 159, reportedly the largest industrial biochar project in Africa, developed in partnershi"
+description: "Carbon Capital is a Namibian bioeconomy company established in 2020 by Cirrus Capital and the Viridescent Trust, operating the Farm Gai Kaisa 159 biochar"
 url: "/directory/carbon-capital/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Namibia
 **Website:** [https://www.carboncapital.com.na/](https://www.carboncapital.com.na/)
-**Status:** 🟢 Active (score: 90/100)
-**LinkedIn Followers:** 360
+**Status:** 🟡 Moderate (score: 55/100)
+**LinkedIn Followers:** 405
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Capital is a Namibian biochar producer operating Farm Gai Kaisa 159, reportedly the largest industrial biochar project in Africa, developed in partnership with biochar developer Planboo. The project has produced over 16,000 tonnes of certified biochar, issued 19,500+ CORCs on Puro.earth, and earned a Sylvera A rating, with buyers including Boeing.
+Carbon Capital is a Namibian bioeconomy company established in 2020 by Cirrus Capital and the Viridescent Trust, operating the Farm Gai Kaisa 159 biochar project near Grootfontein in partnership with Planboo. The initiative converts acacia encroacher bush into biochar, which is applied to soils to store carbon, enhance soil fertility, restore ecosystems and regenerate rangelands; the project is the first in Namibia to be registered on the Puro.earth carbon removal registry and is the largest industrial biochar-based initiative in Africa. As of December 2025, Carbon Capital has produced 16,291 tonnes of certified biochar, representing roughly 1.6% of global biochar deliveries, with Boeing among committed buyers.
 
 ![Carbon Capital website](/screenshots/v1-thumbnails/carbon-capital.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

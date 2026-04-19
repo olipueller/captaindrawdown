@@ -2,7 +2,7 @@
 title: "Cquesta"
 layout: "single"
 type: "directory"
-description: "Cquesta is a US-based agricultural biotech developing gene-edited crop traits that produce deeper, larger root systems so that carbon is deposited further down"
+description: "Cquesta is a US-based agricultural biotech spun out of the Salk Institute's Harnessing Plants Initiative in 2022, developing gene-edited crop varieties with"
 url: "/directory/cquesta/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -10,16 +10,18 @@ liveliness: "🟢 Active"
 
 **Pathway:** Afforestation
 **Method:** Soil Carbon Sequestration
-**Country:** United Kingdom
+**Country:** United States
 **Website:** [https://cquesta.com/](https://cquesta.com/)
 **Status:** 🟢 Active (score: 80/100)
+**Employees:** ~12 (+9% YoY)
+**LinkedIn Followers:** 899
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Cquesta is a US-based agricultural biotech developing gene-edited crop traits that produce deeper, larger root systems so that carbon is deposited further down in the soil profile where it is more stable. The company licenses its deep-root traits to seed companies and aims to generate carbon credits for farmers with no change in agronomic practices. Crops being developed include cover crops (CoverCress), soybean, canola, sorghum, corn and rice.
+Cquesta is a US-based agricultural biotech spun out of the Salk Institute's Harnessing Plants Initiative in 2022, developing gene-edited crop varieties with deeper, larger root systems to sequester atmospheric carbon in deep soil layers. The company licenses its root-architecture traits to seed companies, starting with CoverCress and expanding to soybean, canola, corn, sorghum, and rice, aiming to generate carbon credits for farmers with no change in agronomic practices. Field trials are underway in Illinois with additional trials planned, and the company operates from San Diego, Chicago, and St. Louis.
 
 ![Cquesta website](/screenshots/v1-thumbnails/cquesta.jpg)
 
@@ -29,8 +31,12 @@ Cquesta is a US-based agricultural biotech developing gene-edited crop traits th
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.cquesta.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://cquesta.com/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/cquesta/)
 
 ---
 

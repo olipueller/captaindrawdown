@@ -2,31 +2,34 @@
 title: "CarbonCapture Inc."
 layout: "single"
 type: "directory"
-description: "CarbonCapture's DAC systems use solid sorbents that soak up atmospheric CO2 when cooled and release it when heated, capturing CO2 from the air and permanently s"
+description: "CarbonCapture Inc. is a Los Angeles-based direct air capture technology developer founded in 2019 that designs modular solid-sorbent DAC systems (Leo Series)."
 url: "/directory/carboncapture-inc/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://www.carboncapture.com/](https://www.carboncapture.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~51 (-26% YoY)
-**LinkedIn Followers:** 14,116
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~43 (-31% YoY)
+**LinkedIn Followers:** 14,211
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-CarbonCapture's DAC systems use solid sorbents that soak up atmospheric CO2 when cooled and release it when heated, capturing CO2 from the air and permanently storing it underground. Through its Canadian subsidiary True North Carbon, the company is deploying Project Tamarack at Deep Sky Alpha in Alberta, designed to remove up to 2,000 tonnes of CO2 annually, which achieved "First Capture" on October 22, 2025.
+CarbonCapture Inc. is a Los Angeles-based direct air capture technology developer founded in 2019 that designs modular solid-sorbent DAC systems (Leo Series). Through its Canadian subsidiary True North Carbon, the company achieved "First Capture" on October 22, 2025 at Project Tamarack at Deep Sky Alpha in Innisfail, Alberta — Canada's largest single-technology DAC deployment, designed to remove up to 2,000 tonnes of CO2 per year. The company previously had its U.S. Project Bison (Wyoming) and DOE Regional DAC Hub funding cancelled, prompting a strategic pivot to Canada.
 
 ![CarbonCapture Inc. website](/screenshots/v1-thumbnails/carboncapture-inc.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carboncapture.com/purchasing-crc))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carboncapture.com/newsroom/tnc-tamarack))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carboncapture.com/newsroom/tnc-tamarack))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

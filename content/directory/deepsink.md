@@ -2,7 +2,7 @@
 title: "Deepsink"
 layout: "single"
 type: "directory"
-description: "Deepsink is a UK-based fractional sales and commercialization service for engineered carbon dioxide removal projects, helping project developers connect with bu"
+description: "Deepsink is a UK-based fractional sales and commercialization service for engineered carbon dioxide removal projects, helping CDR developers connect with"
 url: "/directory/deepsink/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -10,16 +10,16 @@ liveliness: "🟢 Active"
 
 **Pathway:** Enabling Tech
 **Method:** CDR Platform/Marketplace
-**Country:** United States
-**Website:** [https://www.deepsink.com/](https://www.deepsink.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Country:** United Kingdom
+**Website:** [https://deepsink.co.uk/](https://deepsink.co.uk/)
+**Status:** 🟢 Active (score: 78/100)
 **Open roles on cdrjobs:** 1
 **CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Deepsink is a UK-based fractional sales and commercialization service for engineered carbon dioxide removal projects, helping project developers connect with buyers and market makers. The team (co-founder Oliver Erb, partnerships lead Oliver Grogono, and others) was active in 2025, including attending DeCarbon Tokyo 2025. The actual operating domain is deepsink.co.uk, not deepsink.com as listed in the DB snapshot.
+Deepsink is a UK-based fractional sales and commercialization service for engineered carbon dioxide removal projects, helping CDR developers connect with buyers and market makers. The team (co-founder Oliver Erb, partnerships lead Oliver Grogono) was active in 2025, including attending DeCarbon Tokyo 2025. The operating domain is deepsink.co.uk (not deepsink.com).
 
 ## Registry Memberships
 
@@ -27,6 +27,7 @@ Deepsink is a UK-based fractional sales and commercialization service for engine
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://deepsink.co.uk/about))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://deepsink.co.uk/about))
 - **2026-04-18** — backfilled from V1
 

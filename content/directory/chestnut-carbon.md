@@ -2,7 +2,7 @@
 title: "Chestnut Carbon"
 layout: "single"
 type: "directory"
-description: "Chestnut Carbon is a U.S. developer of nature-based carbon removal credits, founded in 2022 with support from asset manager Kimmeridge, that develops forest car"
+description: "Chestnut Carbon is a New York-based developer of nature-based carbon removal credits, founded in 2022 with support from Kimmeridge. The company runs a large"
 url: "/directory/chestnut-carbon/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -12,14 +12,16 @@ liveliness: "🟢 Active"
 **Method:** Afforestation/Reforestation
 **Country:** United States
 **Website:** [https://chestnutcarbon.com/](https://chestnutcarbon.com/)
-**Status:** 🟢 Active (score: 95/100)
+**Status:** 🟢 Active (score: 96/100)
+**Employees:** ~55 (+267% YoY)
+**LinkedIn Followers:** 7,376
 **Open roles on cdrjobs:** 2
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Chestnut Carbon is a U.S. developer of nature-based carbon removal credits, founded in 2022 with support from asset manager Kimmeridge, that develops forest carbon projects on family-owned forestland and marginal crop and pastureland. The company has planted over 17 million trees across 30,000+ acres of marginal land in the Southeastern U.S., spanning states like Arkansas, Mississippi, Alabama, Louisiana, Texas and Oklahoma, and operates the largest U.S.-based afforestation project listed on the Gold Standard. It also signed a 25-year, 7 million-ton offtake with Microsoft and closed a $210M non-recourse project finance facility led by J.P. Morgan in 2025.
+Chestnut Carbon is a New York-based developer of nature-based carbon removal credits, founded in 2022 with support from Kimmeridge. The company runs a large U.S. afforestation program (Chestnut Sustainable Restoration Project) and an Improved Forest Management program (Forest Carbon Works) on family-owned forestland and marginal crop/pastureland across the southeastern U.S. It has major offtake agreements with Microsoft and has raised significant equity and project financing in 2025.
 
 ![Chestnut Carbon website](/screenshots/v1-thumbnails/chestnut-carbon.jpg)
 
@@ -29,8 +31,12 @@ Chestnut Carbon is a U.S. developer of nature-based carbon removal credits, foun
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://chestnutcarbon.com/news-resources/chestnut-carbon-scales-up-nature-based-carbon-removal-with-largest-afforestation-project-in-the-u-s/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://chestnutcarbon.com/news-resources/chestnut-carbon-raises-an-additional-90-million-for-series-b/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/chestnut-carbon/)
 
 ---
 

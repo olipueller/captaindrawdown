@@ -2,7 +2,7 @@
 title: "RepAir"
 layout: "single"
 type: "directory"
-description: "RepAir Carbon Capture is an Israeli direct air capture company developing an electrochemical device inspired by batteries and fuel cells that uses electricity a"
+description: "RepAir Carbon is an Israeli direct air capture company developing a solid-state electrochemical cell (inspired by battery and fuel-cell designs) that uses"
 url: "/directory/repair/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,21 +12,27 @@ liveliness: "🟢 Active"
 **Method:** DAC (Membrane)
 **Country:** Israel
 **Website:** [https://www.repair-carbon.com/](https://www.repair-carbon.com/)
-**Status:** 🟢 Active (score: 78/100)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~51 (+34% YoY)
+**LinkedIn Followers:** 9,619
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-RepAir Carbon Capture is an Israeli direct air capture company developing an electrochemical device inspired by batteries and fuel cells that uses electricity and a selective membrane to separate CO2 from the atmosphere. The company raised a $10M Series A led by Extantia Capital, with participation from Equinor Ventures, Shell Ventures, and Zero Carbon Capital. They received a Frontier purchase for 199 tons of CO2 removal in 2022 and unveiled a field prototype in November 2023, achieving TRL 6.
+RepAir Carbon is an Israeli direct air capture company developing a solid-state electrochemical cell (inspired by battery and fuel-cell designs) that uses electricity and a selective membrane to separate CO2 from air or dilute industrial streams without heat or solvents. In April 2025 the company raised a $15M Series A extension co-led by Taranis Carbon Ventures and Extantia Capital, with Ormat, Repsol, and a $3M Israel Innovation Authority grant, and is partnered on the Pelican DAC hub in Louisiana and a C-Questra onshore DAC project in France.
 
 ![RepAir website](/screenshots/v1-thumbnails/repair.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.repair-carbon.com/press-posts/repair-carbon-raises-15m-to-commercialize-breakthrough-technology))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.repair-carbon.com/press-posts/repair-unveils-direct-air-capture-field-prototype))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/repair-carbon/)
 
 ---
 

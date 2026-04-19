@@ -2,31 +2,37 @@
 title: "ProE Bioenergie"
 layout: "single"
 type: "directory"
-description: "ProE Bioenergie GmbH is a German company founded in 2006, based in Auenwald, that produces and sells biochar products (marketed as Carbio®) and offers consultin"
+description: "ProE Bioenergie GmbH is a small German company based in Auenwald (founded 2006) that produces and distributes biochar products under the Carbio® brand and"
 url: "/directory/proe-bioenergie/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://www.proe-bioenergie.de/en/](https://www.proe-bioenergie.de/en/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~3 (+50% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-ProE Bioenergie GmbH is a German company founded in 2006, based in Auenwald, that produces and sells biochar products (marketed as Carbio®) and offers consulting services around biochar, pyrolysis, and renewable energy. They supply EBC-certified and non-certified biochar for agricultural, animal, and industrial applications. Scale appears modest and focus is commercial biochar distribution rather than engineered CDR with carbon-credit issuance.
+ProE Bioenergie GmbH is a small German company based in Auenwald (founded 2006) that produces and distributes biochar products under the Carbio® brand and provides consulting on biochar, pyrolysis and renewable-energy projects. They supply EBC-certified and non-certified biochar for agriculture, animal husbandry, horticulture and industrial applications, with pyrolysis plants located in Bavaria and Mecklenburg-Vorpommern. Business orientation is primarily commercial biochar sales rather than issuing CDR carbon-removal credits at scale.
 
-![ProE Bioenergie website](/screenshots/v1-thumbnails/proe-bioenergie.jpg)
+![ProE Bioenergie website](/screenshots/proe-bioenergie/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.proe-bioenergie.de/contact/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.proe-bioenergie.de/en/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-zero.com/company/proe-bioenergie-gmbh/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/proe-bioenergie-gmbh/)
 
 ---
 

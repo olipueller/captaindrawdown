@@ -2,31 +2,39 @@
 title: "Wonderchar"
 layout: "single"
 type: "directory"
-description: "Wonderchar INC. is a Texas-based biochar producer that converts waste pecan shells into OMRI-certified biochar products (PecanChar Natural, LG+, Soil+, Powder+,"
+description: "Wonderchar Inc. is a Texas-based biochar producer that converts waste pecan shells into OMRI-certified biochar products (PecanChar Natural, LG+, Soil+,"
 url: "/directory/wonderchar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.wonderchar.com/](https://www.wonderchar.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 75/100)
+**Employees:** ~2 (-33% YoY)
+**LinkedIn Followers:** 394
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Wonderchar INC. is a Texas-based biochar producer that converts waste pecan shells into OMRI-certified biochar products (PecanChar Natural, LG+, Soil+, Powder+, EZ MIX) sold to farmers, nurseries, landscapers and fertilizer manufacturers. Products are offered in bulk bags and sacks for soil, compost, turf and fertilizer blending applications, with carbon sequestration as a co-benefit.
+Wonderchar Inc. is a Texas-based biochar producer that converts waste pecan shells into OMRI-certified biochar products (PecanChar Natural, LG+, Soil+, Powder+, EZ MIX, plus WoodChar Natural) for farmers, nurseries, landscapers and fertilizer manufacturers. Products are supplied in bulk bags and sacks for soil amendment, compost, turf and fertilizer blending, with long-term carbon sequestration via pyrolysis as a co-benefit.
 
 ![Wonderchar website](/screenshots/v1-thumbnails/wonderchar.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.wonderchar.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.linkedin.com/posts/tomasz-zukowski-0861b090_wonderchar-activity-7026224377029398528-ceUL))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.wonderchar.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.wonderchar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/wonderchar-inc/)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Stockholm Exergi"
 layout: "single"
 type: "directory"
-description: "Stockholm Exergi is a Swedish municipal energy utility (owned by the City of Stockholm and a European pension-fund consortium Ankhiale) constructing one of the"
+description: "Stockholm Exergi is a Swedish municipal energy utility (owned by the City of Stockholm and a pension-fund consortium) building one of the world's first"
 url: "/directory/stockholm-exergi/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -13,20 +13,26 @@ liveliness: "🟢 Active"
 **Country:** Sweden
 **Website:** [https://www.stockholmexergi.se/en/](https://www.stockholmexergi.se/en/)
 **Status:** 🟢 Active (score: 98/100)
+**Employees:** ~826 (+12% YoY)
+**LinkedIn Followers:** 19,652
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Stockholm Exergi is a Swedish municipal energy utility (owned by the City of Stockholm and a European pension-fund consortium Ankhiale) constructing one of the world's largest BECCS facilities at its Värtaverket KVV8 biomass CHP plant. The project reached FID in 2025, is under construction with Saipem as EPC contractor, targets 2028 operations at up to 800,000 tCO2/yr, and has secured EU Innovation Fund grants, Swedish state aid, and major offtakes including an expanded deal with Microsoft for 5.08 Mt.
+Stockholm Exergi is a Swedish municipal energy utility (owned by the City of Stockholm and a pension-fund consortium) building one of the world's first large-scale BECCS facilities at its Värtaverket biomass CHP plant. FID was reached in March 2025 with Capsol Technologies providing HPC-based capture technology, Saipem as EPC contractor, and Skanska performing groundworks; operations targeted for 2028 at up to 800,000 tCO2/yr, with offtake from Microsoft and Frontier, EUR 180M from the EU Innovation Fund, and ~SEK 20B in Swedish state support.
 
-![Stockholm Exergi website](/screenshots/v1-thumbnails/stockholm-exergi.jpg)
+![Stockholm Exergi website](/screenshots/stockholm-exergi/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/stockholm-exergi-takes-final-investment-decision-on-worlds-first-large-scale-beccs-project-using-capsols-carbon-capture-technology-302413617.html))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.stockholmexergi.se/en/beccs/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/stockholm-exergi/)
 
 ---
 

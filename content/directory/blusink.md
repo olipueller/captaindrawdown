@@ -2,30 +2,33 @@
 title: "Blusink"
 layout: "single"
 type: "directory"
-description: "Blusink is a UK-based marine CDR startup pioneering seabed-deployed substrates that restore rhodolith (coralline algae) beds while enhancing local ocean alkalin"
+description: "Founded in 2022 and based in London, Blusink uses proprietary, traceable technology to enhance ocean alkalinity, accelerating CO2 capture and locking it into"
 url: "/directory/blusink/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Ocean CDR
-**Secondary pathways:** Mineralization
+**Secondary pathways:** Enhanced Weathering
 **Method:** Ocean Alkalinity Enhancement
 **Country:** United Kingdom
 **Website:** [https://www.blusink.com/](https://www.blusink.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟠 Suspect (score: 40/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Blusink is a UK-based marine CDR startup pioneering seabed-deployed substrates that restore rhodolith (coralline algae) beds while enhancing local ocean alkalinity. Their dual approach combines materials engineering, chemistry and biology, with MRV based on total alkalinity measurements and calcification rates validated through a mesocosm experiment with Plymouth Marine Laboratory. Early deployments have been conducted off the coast of Colombia.
+Founded in 2022 and based in London, Blusink uses proprietary, traceable technology to enhance ocean alkalinity, accelerating CO2 capture and locking it into stable mineral formations. The startup pioneers the sinking of substrates to help restore rhodolith beds to capture carbon and improve marine biodiversity. MRV relies on total alkalinity analyses and calcification-rate measurements, with pilot deployments in locations including Madeira and Colombia.
 
-![Blusink website](/screenshots/v1-thumbnails/blusink.jpg)
+![Blusink website](/screenshots/blusink/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/blusink/__KT8yySwuSItcRGccE9bmxa_xgbPyW2Ggi4FCQNkk-p0))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.blusink.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.blusink.com))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

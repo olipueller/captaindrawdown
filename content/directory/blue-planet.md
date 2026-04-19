@@ -2,35 +2,44 @@
 title: "Blue Planet"
 layout: "single"
 type: "directory"
-description: "Blue Planet Systems is a Los Gatos, California-based company that uses its patented Geomimetic® mineralization technology to convert CO2 from industrial flue ga"
+description: "Blue Planet Systems focuses on carbon capture technology within the construction materials industry. The company has a mineralization process that captures and"
 url: "/directory/blue-planet/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Mineralization
 **Method:** Mineralization (Other)
 **Country:** United States
 **Website:** [https://www.blueplanetsystems.com/](https://www.blueplanetsystems.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~63 (+9% YoY)
-**LinkedIn Followers:** 3,444
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~62
+**LinkedIn Followers:** 3,514
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Blue Planet Systems is a Los Gatos, California-based company that uses its patented Geomimetic® mineralization technology to convert CO2 from industrial flue gas (or DAC) into synthetic limestone aggregates for use in carbon-negative concrete. The company operates its San Francisco Bay Aggregates facility in Pittsburg, CA, and demonstrated the world's first net-zero embodied carbon concrete slab in February 2025. Much of their feedstock is point-source CO2 (CCUS), though the technology is pathway-agnostic and can accept DAC CO2.
+Blue Planet Systems focuses on carbon capture technology within the construction materials industry. The company has a mineralization process that captures and sequesters CO2, converting it into synthetic limestone aggregate for use in building materials. These products aim to lower the carbon footprint of concrete and address global CO2 emissions. It was founded in 2013 and is based in Los Gatos, California. The company recently executed a Master Service Contract with Hargrove Engineers & Constructors to advance commercial production facility design and commissioning, as its Geomimetic mineralization approach sequesters and permanently stores CO2 in synthetic limestone.
 
-![Blue Planet website](/screenshots/v1-thumbnails/blue-planet.jpg)
+![Blue Planet website](/screenshots/blue-planet/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Blue Planet Systems
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.blueplanetsystems.com))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/blue-planet-systems))
+- **** — merged duplicate: Blue Planet Systems (slug=blue-planet-systems)
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.blueplanetsystems.com/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.blueplanetsystems.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
-[View on LinkedIn](https://www.linkedin.com/company/blueplanetsystems/)
+[View on LinkedIn](https://www.linkedin.com/company/blueplanet-ltd/)
 
 ---
 

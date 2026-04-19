@@ -2,10 +2,10 @@
 title: "RubisCO2"
 layout: "single"
 type: "directory"
-description: "RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado, who paused his studies to focus on the company, which leverages algae blooms caused by cl"
+description: "RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado (a former Ludwig-Maximilians-Universität München student) that turns algae blooms into"
 url: "/directory/rubisco2/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
@@ -13,21 +13,29 @@ liveliness: "🟠 Suspect"
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://rubisco2.com/](https://rubisco2.com/)
-**Status:** 🟠 Suspect (score: 35/100)
+**Status:** 🟡 Moderate (score: 45/100)
+**Employees:** ~6 (-14% YoY)
+**LinkedIn Followers:** 360
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado, who paused his studies to focus on the company, which leverages algae blooms caused by climate change to decarbonize construction. The team developed prototype pyrolysis reactors in Mexico, upscaled via sponsorships and grants, and planned to transport a larger self-sustaining pyrolysis system to the Caribbean for Sargassum testing. The company is a small team of about three based in Guadalajara, Mexico, with additional German engineers.
+RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado (a former Ludwig-Maximilians-Universität München student) that turns algae blooms into biochar to decarbonize construction. The company operates a pyrolysis reactor ("Tlacuache 1") and aimed to deploy reactors along the Mexican coastline to convert Sargassum into biochar. It participated in the Carbon Removal ClimAccelerator programme of EIT Climate-KIC supported by Munich Re and ERGO.
 
 ![RubisCO2 website](/screenshots/v1-thumbnails/rubisco2.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://rubisco2.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://climaccelerator.climate-kic.org/news/carbon-removal-climaccelerator-start-up-spotlight-rubisco2/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://rubisco2.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://rubisco2.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/rubisco2/)
 
 ---
 

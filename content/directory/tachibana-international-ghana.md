@@ -2,20 +2,29 @@
 title: "Tachibana International Ghana"
 layout: "single"
 type: "directory"
-description: "Tachibana International Ghana — Unknown company in Unknown"
+description: "Tachibana International Ghana is a biochar producer operating in Ghana that carbonizes cacao pod husks and other agricultural residues using Kon-Tiki kilns. It"
 url: "/directory/tachibana-international-ghana/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Ghana
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Tachibana International Ghana is a biochar producer operating in Ghana that carbonizes cacao pod husks and other agricultural residues using Kon-Tiki kilns. It became Ghana's first C-Sink Manager under the Global Artisan C-Sink Standard and sells biochar carbon removal credits through Planboo, with its first 42 tCO2e credits issued in May 2024. The project is expanding through a cacao farmers cooperative (Assin Tachibana Union) representing 1,700 farmers.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/project-update-letter-from-the-tachibana-team-in-ghana/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/tachibana))
 
 ---

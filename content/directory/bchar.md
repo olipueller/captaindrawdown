@@ -2,31 +2,34 @@
 title: "BCHAR"
 layout: "single"
 type: "directory"
-description: "BCHAR is a Zurich-based developer of biochar carbon removal technologies that transforms bio-waste into biochar, and offers services for project setup, technolo"
+description: "BCHAR AG is a Zurich, Switzerland-based company founded in 2023 that develops industrial-scale biochar production systems. It launched its first pilot biochar"
 url: "/directory/bchar/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Switzerland
 **Website:** [https://bchar.earth/](https://bchar.earth/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~8 (-43% YoY)
-**LinkedIn Followers:** 1,874
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~8 (-33% YoY)
+**LinkedIn Followers:** 1,946
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-BCHAR is a Zurich-based developer of biochar carbon removal technologies that transforms bio-waste into biochar, and offers services for project setup, technology delivery, MRV, and carbon credit sales. The company launched its first biochar system in Thailand using coconut husks as feedstock as a pilot project, with insights being incorporated into an upcoming full-scale system. Founded in 2023 and based in Zurich, Switzerland, BCHAR has raised $743K from VC investors including Riceberg Ventures, BlueLion Incubator, SICTIC, Rockstart, and Founderful Campus.
+BCHAR AG is a Zurich, Switzerland-based company founded in 2023 that develops industrial-scale biochar production systems. It launched its first pilot biochar system in Thailand using coconut husks as feedstock, with insights being incorporated into an upcoming full-scale system. The company also provides consulting and engineering services for procuring and commissioning industrial-scale biochar facilities, along with financial modeling and feasibility assessments.
 
 ![BCHAR website](/screenshots/v1-thumbnails/bchar.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pitchbook.com/profiles/company/533180-35))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bchar.earth/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bchar.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

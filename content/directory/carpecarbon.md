@@ -2,31 +2,34 @@
 title: "CarpeCarbon"
 layout: "single"
 type: "directory"
-description: "CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022 that is developing a proprietary, energy-efficient Direct Air Capture (DAC) technology"
+description: "CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022 developing a proprietary, energy-efficient Direct Air Capture (DAC) technology,"
 url: "/directory/carpecarbon/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Other/Undisclosed)
 **Country:** Italy
 **Website:** [https://www.carpecarbon.com/](https://www.carpecarbon.com/)
-**Status:** 🟡 Moderate (score: 65/100)
-**Employees:** ~16 (+33% YoY)
-**LinkedIn Followers:** 3,217
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~16 (+23% YoY)
+**LinkedIn Followers:** 3,267
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022 that is developing a proprietary, energy-efficient Direct Air Capture (DAC) technology, positioned as the first Italian DAC company. They raised a €1.75M pre-seed round in 2023 from Tech4Planet (CDP Venture Capital), 360 Capital, Club degli Investitori and PiemonteNext to design Italy's first domestically-developed DAC plant in Piedmont.
+CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022 developing a proprietary, energy-efficient Direct Air Capture (DAC) technology, positioned as the first Italian DAC company. It raised a €1.75M pre-seed round in late 2023 from Tech4Planet (CDP Venture Capital), 360 Capital, Club degli Investitori and PiemonteNext to design Italy's first domestically-developed DAC plant in Piedmont, and has been opening a €5M seed round to build its first pilot.
 
-![CarpeCarbon website](/screenshots/v1-thumbnails/carpecarbon.jpg)
+![CarpeCarbon website](/screenshots/carpecarbon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carpecarbon.com/news-events/different-acronyms-for-different-technologies-it-is-not-easy-to-find-your-way-around-the-world-of-carbon-capture/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://carpecarbon.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://carpecarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

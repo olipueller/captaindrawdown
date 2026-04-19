@@ -2,10 +2,10 @@
 title: "Yellow Duck"
 layout: "single"
 type: "directory"
-description: "Yellow Duck Inc. is a Kobe, Japan cleantech startup, led by CEO Shigeo Nakayama, developing the Wave-DAC — an egg-shaped floating device that tilts with waves t"
+description: "Yellow Duck Inc. is a Kobe, Japan startup led by Shigeo Nakayama developing the Wave-DAC, a wave-powered direct air capture and hydrogen generation system that"
 url: "/directory/yellow-duck/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** DAC
@@ -13,19 +13,22 @@ liveliness: "🟢 Active"
 **Method:** DAC (Liquid Solvent)
 **Country:** Japan
 **Website:** [https://wave-dac.com/](https://wave-dac.com/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟠 Suspect (score: 40/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Yellow Duck Inc. is a Kobe, Japan cleantech startup, led by CEO Shigeo Nakayama, developing the Wave-DAC — an egg-shaped floating device that tilts with waves to generate power used to drive electrolysis and atmospheric CO2 capture. The company won the Marinetech Grand Prix 2023 Grand Prize and exhibited at Expo 2025 Osaka. Still at early prototype/verification stage.
+Yellow Duck Inc. is a Kobe, Japan startup led by Shigeo Nakayama developing the Wave-DAC, a wave-powered direct air capture and hydrogen generation system that uses the attitude change of floating bodies caused by ocean waves to capture CO2 from the atmosphere while simultaneously producing hydrogen. The company is currently conducting ocean-based basic research using a prototype approximately 2 meters in diameter, with power generation confirmed at wave heights as low as 0.3 m; commercialization is planned only after longer-term validation.
 
 ![Yellow Duck website](/screenshots/v1-thumbnails/yellow-duck.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://wave-dac.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://wave-dac.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.innovation-osaka.jp/companies/yellow-duck-inc/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

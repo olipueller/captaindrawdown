@@ -2,7 +2,7 @@
 title: "Inkan Negro"
 layout: "single"
 type: "directory"
-description: "Inkan Negro is a Peruvian-owned company that manufactures and sells its own ecologically sustainable biochar soil amendment, based on over 10 years of scientifi"
+description: "Inkan Negro is a Peruvian biochar company that manufactures and sells a biochar soil amendment developed from over a decade of academic research led by Dr."
 url: "/directory/inkan-negro/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,21 +12,25 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Peru
 **Website:** [https://inkannegro.com/](https://inkannegro.com/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~3
-**LinkedIn Followers:** 31
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~4
+**LinkedIn Followers:** 40
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Inkan Negro is a Peruvian-owned company that manufactures and sells its own ecologically sustainable biochar soil amendment, based on over 10 years of scientific research conducted in Peru. They produce biochar by converting urban green and agricultural wastes into an optimized soil amendment that improves soil structural properties and fertility. The company has engaged with Puro.earth through a Pre-CORC biochar project.
+Inkan Negro is a Peruvian biochar company that manufactures and sells a biochar soil amendment developed from over a decade of academic research led by Dr. Brenton Ladd. They convert urban green and agricultural waste biomass into biochar formulations for sustainable agriculture, mine reclamation, and heavy-metal soil remediation, and have pursued carbon credits via Puro.earth.
 
 ![Inkan Negro website](/screenshots/v1-thumbnails/inkan-negro.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://inkannegro.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.biocareprojects.com/post/inkan-negro))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://inkannegro.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://inkannegro.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

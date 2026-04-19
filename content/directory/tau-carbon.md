@@ -2,31 +2,39 @@
 title: "Tau Carbon"
 layout: "single"
 type: "directory"
-description: "Tau Carbon is a Cupertino, CA-based startup (founded 2022) that removes CO2 by preserving dry densified wood waste in aboveground modular fiberglass tanks and s"
+description: "Tau Carbon is a Cupertino, California-based CDR startup founded by John Lin and Amber Janda that removes atmospheric CO2 by preserving dry, densified wood"
 url: "/directory/tau-carbon/"
 pathway: "Biomass Burial"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biomass Burial
 **Method:** BiCRS (Other)
 **Country:** United States
 **Website:** [https://www.taucarbon.com/](https://www.taucarbon.com/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟢 Active (score: 80/100)
+**Employees:** ~2 (-33% YoY)
+**LinkedIn Followers:** 500
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Tau Carbon is a Cupertino, CA-based startup (founded 2022) that removes CO2 by preserving dry densified wood waste in aboveground modular fiberglass tanks and sells carbon removal credits under a Puro.earth terrestrial biomass storage methodology. The approach is biomass storage/burial (not BECCS — there is no bioenergy step), using forest-thinning waste wood as feedstock. Backed by AirMiners and The Sky Foundation with ~$850K raised and 3 employees.
+Tau Carbon is a Cupertino, California-based CDR startup founded by John Lin and Amber Janda that removes atmospheric CO2 by preserving dry, densified wood waste in aboveground modular tanks to prevent decomposition. The company sells carbon removal credits under Puro.earth's Terrestrial Storage of Biomass methodology, using non-merchantable forest-thinning wood waste as feedstock. It is a founding member of the Carbon Business Council's Direct Storage of Biomass (DSB) Coalition launched in March 2026.
 
-![Tau Carbon website](/screenshots/v1-thumbnails/tau-carbon.jpg)
+![Tau Carbon website](/screenshots/tau-carbon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.taucarbon.com/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.linkedin.com/company/tau-carbon))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.taucarbon.com/what-we-do))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.taucarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/tau-carbon/)
 
 ---
 

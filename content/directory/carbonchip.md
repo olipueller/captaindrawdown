@@ -2,7 +2,7 @@
 title: "CarbonChip"
 layout: "single"
 type: "directory"
-description: "Carbonchip is a Brisbane-based biochar manufacturer established in 2020 that processes sustainable forestry residue through a mobile pyrolysis machine to produc"
+description: "Carbonchip is a Brisbane-based biochar manufacturer, established in 2020, that produces biochar from forestry residues via a mobile pyrolysis machine and sells"
 url: "/directory/carbonchip/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,7 +12,7 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Australia
 **Website:** [https://www.carbonchip.com.au/](https://www.carbonchip.com.au/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~2 (-33% YoY)
 **LinkedIn Followers:** 32
 **CDR Focus:** supplier
@@ -20,13 +20,15 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Carbonchip is a Brisbane-based biochar manufacturer established in 2020 that processes sustainable forestry residue through a mobile pyrolysis machine to produce biochar for Queensland farms and larger national projects. The Carbonchip Mobile Carboniser Project uses a Tigercat 6050 mobile pyrolysis unit to process eucalyptus and pine residues from Queensland plantations in situ under Puro.earth's Biochar Methodology. As one of Biocare's earliest issued CDR projects (2023), Carbonchip has issued 579 carbon removal credits.
+Carbonchip is a Brisbane-based biochar manufacturer, established in 2020, that produces biochar from forestry residues via a mobile pyrolysis machine and sells to Queensland farms and national customers. Its Mobile Carboniser #1 project is listed on Puro.earth with CORC 100+ durability certification. The company is small (~2 employees) and operates in early-development CORC issuance mode.
 
 ![CarbonChip website](/screenshots/v1-thumbnails/carbonchip.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonchip.com.au/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.biocareprojects.com/post/biocare-biochar-portfolio-turning-waste-into-climate-solutions))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

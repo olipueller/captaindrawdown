@@ -2,7 +2,7 @@
 title: "CarStorCon"
 layout: "single"
 type: "directory"
-description: "CarStorCon Technologies GmbH, founded in 2022 in Marienhafe, Germany, develops the Clim@Add® additive — a modified technical carbon derived from biochar pyrolys"
+description: "CarStorCon Technologies, a start-up from Marienhafe, Germany, has developed an aggregate that actively removes CO2 from the atmosphere and permanently binds it"
 url: "/directory/carstorcon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,19 +15,27 @@ liveliness: "🟢 Active"
 **Website:** [https://carstorcon.technology/en/](https://carstorcon.technology/en/)
 **Status:** 🟢 Active (score: 80/100)
 **Employees:** ~5 (+67% YoY)
-**LinkedIn Followers:** 921
+**LinkedIn Followers:** 964
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-CarStorCon Technologies GmbH, founded in 2022 in Marienhafe, Germany, develops the Clim@Add® additive — a modified technical carbon derived from biochar pyrolysis — that turns concrete and asphalt into permanent carbon sinks. The company classifies its approach as Biochar Carbon Removal (BCR) and works with construction-industry partners across the DACH region and Europe. As of 2025 it reports over 5,000–6,500 m³ of climate concrete realized and participates in EU-funded biochar research consortia.
+CarStorCon Technologies, a start-up from Marienhafe, Germany, has developed an aggregate that actively removes CO2 from the atmosphere and permanently binds it in building materials, based on technical carbon obtained from regional biogenic waste streams. The company classifies its approach as Biochar Carbon Removal (BCR) and applies the technology in the construction industry. Via its Clim@Add additive, the firm has realized several thousand m³ of climate concrete across industrial buildings, multi-family housing and ÖBB technical buildings.
 
-![CarStorCon website](/screenshots/v1-thumbnails/carstorcon.jpg)
+![CarStorCon website](/screenshots/carstorcon/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): CarStorConTechnologies
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carstorcon.technology/en/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://carstorcon.technology/en/ ([source](https://www.cdr.fyi/supplier/carstorcontechnologies))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carstorcontechnologies))
+- **** — merged duplicate: CarStorConTechnologies (slug=carstorcontechnologies)
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carstorcon.technology/en/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carstorcon.technology/en/uber-uns/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

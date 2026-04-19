@@ -2,25 +2,27 @@
 title: "TREEO"
 layout: "single"
 type: "directory"
-description: "TREEO is operated by Fairventures Digital GmbH in Stuttgart, Germany, originally spun out of reforestation NGO Fairventures Worldwide. Through the TREEO technol"
+description: "TREEO is operated by Fairventures Digital GmbH in Stuttgart, Germany, a for-profit spinoff (founded Nov 2021) of the reforestation NGO Fairventures Worldwide."
 url: "/directory/treeo/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Afforestation
-**Secondary pathways:** Biochar, Enabling Tech
+**Secondary pathways:** Biochar
 **Method:** Afforestation/Reforestation
 **Country:** Germany
 **Website:** [https://www.treeo.one/](https://www.treeo.one/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 75/100)
+**Employees:** ~36 (-5% YoY)
+**LinkedIn Followers:** 4,460
 **Open roles on cdrjobs:** 3
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-TREEO is operated by Fairventures Digital GmbH in Stuttgart, Germany, originally spun out of reforestation NGO Fairventures Worldwide. Through the TREEO technology, they empower tree growers in the Global South, finance reforestation and restoration projects, store the carbon long-term in harvested wood products and biochar, and provide full transparency via single-tree monitoring. TREEO is certified as a C-Sink Manager and dMRV Provider by Carbon Standards International.
+TREEO is operated by Fairventures Digital GmbH in Stuttgart, Germany, a for-profit spinoff (founded Nov 2021) of the reforestation NGO Fairventures Worldwide. The company connects smallholder tree growers in countries like Uganda and Indonesia with corporate buyers via a single-tree monitoring app, financing reforestation and storing carbon long-term in timber and biochar. TREEO is certified as a C-Sink Manager and dMRV Provider by Carbon Standards International.
 
 ![TREEO website](/screenshots/v1-thumbnails/treeo.jpg)
 
@@ -30,8 +32,12 @@ TREEO is operated by Fairventures Digital GmbH in Stuttgart, Germany, originally
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://treeo.one/en/treeo/about-us))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://treeo.one/en/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/treeo-org/)
 
 ---
 

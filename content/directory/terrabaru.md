@@ -2,7 +2,7 @@
 title: "TerraBaru"
 layout: "single"
 type: "directory"
-description: "TerraBaru is an Indonesian biochar producer that converts agricultural waste into engineered biochar (TerraKarbon) via pyrolysis, generating carbon removal cr"
+description: "TerraBaru is an Indonesian biochar producer headquartered in Bali with a Singapore office. It produces TerraKarbon, a stable carbon-rich biochar material made"
 url: "/directory/terrabaru/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -11,15 +11,17 @@ liveliness: "🟢 Active"
 **Pathway:** Biochar
 **Method:** Biomass Carbon Removal
 **Country:** Indonesia
-**Website:** [https://terrabaru.id/](https://terrabaru.id/)
+**Website:** [https://terrabaru.com/](https://terrabaru.com/)
 **Status:** 🟢 Active (score: 80/100)
+**Employees:** ~18 (-14% YoY)
+**LinkedIn Followers:** 7,959
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-TerraBaru is an Indonesian biochar producer that converts agricultural waste into engineered biochar ("TerraKarbon") via pyrolysis, generating carbon removal credits alongside soil, infrastructure, and energy applications. The company operates in Indonesia with a Singapore office and is actively representing itself at carbon industry events in 2025.
+TerraBaru is an Indonesian biochar producer headquartered in Bali with a Singapore office. It produces TerraKarbon, a stable carbon-rich biochar material made through the pyrolysis of organic agricultural waste to international standards, with applications in soil health, infrastructure, and energy alongside carbon removal credits.
 
 ## Registry Memberships
 
@@ -27,8 +29,12 @@ TerraBaru is an Indonesian biochar producer that converts agricultural waste int
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrabaru.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrabaru.com/about-us/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/planet-netzero/)
 
 ---
 

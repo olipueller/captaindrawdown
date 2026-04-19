@@ -2,29 +2,37 @@
 title: "Biochar Production and Carbon Removal Company"
 layout: "single"
 type: "directory"
-description: "CapChar is a UK-based biochar startup (founded 2021) offering on-farm pyrolysis kiln technology and a software platform for tracking and verifying Biochar Carbo"
+description: "CapChar is a UK carbon removal company developing on-farm biochar production technology, with two operational plants in Cornwall and North Wales. They offer an"
 url: "/directory/biochar-production-and-carbon-removal-company/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** Enabling Tech
 **Method:** Biochar
-**Country:** Unknown
+**Country:** United Kingdom
 **Website:** [https://capchar.com/](https://capchar.com/)
-**Status:** 🟡 Moderate (score: 70/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~7
+**LinkedIn Followers:** 802
 **CDR Focus:** supplier
 **Evidence signals:** brave_search
 
 ## About
 
-CapChar is a UK-based biochar startup (founded 2021) offering on-farm pyrolysis kiln technology and a software platform for tracking and verifying Biochar Carbon Units (BCUs). They have operational plants in Cornwall and North Wales and developed their own Biochar Carbon Code for UK biochar quantification.
+CapChar is a UK carbon removal company developing on-farm biochar production technology, with two operational plants in Cornwall and North Wales. They offer an end-to-end solution combining pyrolysis kilns with a digital MRV software platform, and developed the UK-focused Biochar Carbon Code for quantifying biochar carbon removals into Biochar Carbon Units (BCUs).
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://capchar.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://capchar.com/))
 - **2026-04-18** — discovered via: brave ([source](https://capchar.com/))
+
+[View on LinkedIn](https://www.linkedin.com/company/capchar/)
 
 ---
 

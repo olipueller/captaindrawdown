@@ -2,30 +2,33 @@
 title: "Green Carbon Products"
 layout: "single"
 type: "directory"
-description: "Green Carbon Products provides sustainable wood reduction and biochar supply services, with an approach that amends soil and ensures minimal disruption to the e"
+description: "Green Carbon Products is a small Ontario-based biochar producer and retailer. They make biochar from sustainably sourced clean wood and sell it as a"
 url: "/directory/green-carbon-products/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Canada
 **Website:** [https://www.greencarbonproducts.com/](https://www.greencarbonproducts.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟠 Suspect (score: 40/100)
 **LinkedIn Followers:** 85
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Green Carbon Products provides sustainable wood reduction and biochar supply services, with an approach that amends soil and ensures minimal disruption to the environment. Their biochar is crafted from wood in Ontario using sustainable methods, aimed at gardeners and environmentalists. The company appears to be a small retail/agricultural biochar supplier with no publicly evident carbon credit registry issuances.
+Green Carbon Products is a small Ontario-based biochar producer and retailer. They make biochar from sustainably sourced clean wood and sell it as a soil/compost amendment to gardeners and farmers in Canadian dollars. No evidence of carbon credit issuance or registry participation; operates as a small retail biochar supplier with limited operating hours.
 
-![Green Carbon Products website](/screenshots/v1-thumbnails/green-carbon-products.jpg)
+![Green Carbon Products website](/screenshots/green-carbon-products/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-september-2025))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.greencarbonproducts.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.greencarbonproducts.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

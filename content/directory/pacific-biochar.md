@@ -2,34 +2,49 @@
 title: "Pacific Biochar"
 layout: "single"
 type: "directory"
-description: "Pacific Biochar is a California-based benefit corporation that produces biochar by modifying existing biomass power plants (e.g., Humboldt Sawmill, Hat Creek Bi"
+description: "Pacific Biochar is a California-based benefit corporation that partners with bioenergy facilities and sawmills to retrofit them for biochar co-production from"
 url: "/directory/pacific-biochar/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biomass Carbon Removal
 **Country:** United States
 **Website:** [https://www.pacificbiochar.com](https://www.pacificbiochar.com)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~3 (-25% YoY)
+**LinkedIn Followers:** 2,096
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_puro
 
 ## About
 
-Pacific Biochar is a California-based benefit corporation that produces biochar by modifying existing biomass power plants (e.g., Humboldt Sawmill, Hat Creek Bioenergy) to co-produce biochar from forest residue feedstock. The biochar is distributed for agricultural use, primarily blended with compost, delivering durable carbon removal credits registered on Puro.earth. They were CDR.FYI's #1 durable CDR supplier by deliveries in 2023.
+Pacific Biochar is a California-based benefit corporation that partners with bioenergy facilities and sawmills to retrofit them for biochar co-production from forest residues, with biochar applied to agricultural land. The company is among the leading biochar CDR suppliers globally, with credits registered on Puro.earth and, as of December 2025, newly verified under Isometric's Biochar Protocol via the Humboldt Sawmill project.
 
 ![Pacific Biochar website](/screenshots/v1-thumbnails/pacific-biochar.jpg)
 
 ## Registry Memberships
 
 - Puro.earth
+- Isometric
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Pacific Biochar/Wren
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pacificbiochar.com/how-we-produce-biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **** — merged duplicate: Pacific Biochar/Wren (slug=pacific-biocharwren)
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pacificbiochar.com/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/pacific-biochar/)
 
 ---
 

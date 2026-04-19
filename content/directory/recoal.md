@@ -2,7 +2,7 @@
 title: "Recoal"
 layout: "single"
 type: "directory"
-description: "Recoal AG is a Zurich-based CDR startup founded in 2023 that converts moist organic waste biomass into a stable carbon-rich solid (hydrochar) via hydrothermal c"
+description: "Recoal AG is a Zurich-based CDR startup founded in 2023 that uses hydrothermal carbonization (HTC) to convert wet-waste biomass into hydrochar, a coal-like"
 url: "/directory/recoal/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -12,21 +12,27 @@ liveliness: "🟢 Active"
 **Method:** BiCRS (Other)
 **Country:** Switzerland
 **Website:** [https://recoal.net/](https://recoal.net/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~7 (+17% YoY)
+**LinkedIn Followers:** 2,106
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Recoal AG is a Zurich-based CDR startup founded in 2023 that converts moist organic waste biomass into a stable carbon-rich solid (hydrochar) via hydrothermal carbonization, then stores it underground for durable CO2 removal. The company is backed by the Migros Pioneer Fund and was validated under the Rainbow Standard (formerly Riverse) carbon registry in 2025.
+Recoal AG is a Zurich-based CDR startup founded in 2023 that uses hydrothermal carbonization (HTC) to convert wet-waste biomass into hydrochar, a coal-like stable carbon product that is then stored in underground geological formations (e.g. gravel pits) for durable carbon removal. The company's methodology was validated by the Rainbow Standard (formerly Riverse) carbon registry following an independent audit by Enviance under ISO standards. Recoal is preparing to launch its pilot plant in 2026, backed by the Migros Pioneer Fund and the City of Zurich's KlimUp program.
 
-![Recoal website](/screenshots/v1-thumbnails/recoal.jpg)
+![Recoal website](/screenshots/recoal/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://recoal.net/en/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://recoal.net/en/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/recoal-net/)
 
 ---
 

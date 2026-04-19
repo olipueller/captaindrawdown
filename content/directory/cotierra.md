@@ -2,7 +2,7 @@
 title: "Cotierra"
 layout: "single"
 type: "directory"
-description: "Cotierra is a Swiss-Colombian, Zurich-headquartered company focused on decentralized biochar production for carbon removal and emission reduction. In partnershi"
+description: "Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Preta) producing decentralized biochar from coffee tree residues on Colombian"
 url: "/directory/cotierra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,8 +13,8 @@ liveliness: "🟢 Active"
 **Country:** Switzerland
 **Website:** [https://www.cotierra.com/](https://www.cotierra.com/)
 **Status:** 🟢 Active (score: 85/100)
-**Employees:** ~16 (+33% YoY)
-**LinkedIn Followers:** 4,967
+**Employees:** ~16
+**LinkedIn Followers:** 5,103
 **Open roles on cdrjobs:** 2
 **CDI Portfolio Company**
 **CDR Focus:** supplier
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Cotierra is a Swiss-Colombian, Zurich-headquartered company focused on decentralized biochar production for carbon removal and emission reduction. In partnership with Volcafe and its Colombian entity Carcafe, Cotierra has issued the first biochar-related carbon removal credits under an external carbon standard within Colombia's coffee value chains. It sells these credits on the voluntary carbon market and partners with myclimate as an exclusive project developer.
+Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Preta) producing decentralized biochar from coffee tree residues on Colombian smallholder farms. In partnership with Volcafe/Carcafe, it has issued biochar-based carbon removal credits under the Global Artisan C-Sink methodology and sells credits on the voluntary carbon market. The company raised a $1M pre-seed in March 2024 from Carbon Removal Partners, Carbon Drawdown Initiative, Partners in Clime, Climate Founders and others.
 
 ![Cotierra website](/screenshots/v1-thumbnails/cotierra.jpg)
 
@@ -32,6 +32,8 @@ Cotierra is a Swiss-Colombian, Zurich-headquartered company focused on decentral
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cotierra.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.volcafe.com/news/volcafe-cotierra-carbon-credits-biochar))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

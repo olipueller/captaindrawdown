@@ -2,7 +2,7 @@
 title: "Planet Savers"
 layout: "single"
 type: "directory"
-description: "Planet Savers is Japan's first Direct Air Capture startup, spun out of the University of Tokyo and founded in 2023, backed by NEDO and Japan's Ministry of Envir"
+description: "Planet Savers is Japan's first Direct Air Capture startup, spun out of the University of Tokyo and founded in July 2023. The company develops a zeolite-based"
 url: "/directory/planet-savers/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -13,15 +13,17 @@ liveliness: "🟢 Active"
 **Country:** Japan
 **Website:** [https://planetsavers.earth/](https://planetsavers.earth/)
 **Status:** 🟢 Active (score: 85/100)
+**Employees:** ~13 (+62% YoY)
+**LinkedIn Followers:** 747
 **Open roles on cdrjobs:** 5
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Planet Savers is Japan's first Direct Air Capture startup, spun out of the University of Tokyo and founded in 2023, backed by NEDO and Japan's Ministry of Environment. It is building a DACCU (DAC + Carbon Utilization) system based on an innovative zeolite adsorbent, having raised a ¥250M seed round in 2024 from Spiral Capital and JAFCO and targeting a 1 ton/day prototype.
+Planet Savers is Japan's first Direct Air Capture startup, spun out of the University of Tokyo and founded in July 2023. The company develops a zeolite-based CO2 adsorbent and optimized recovery/concentration unit (DACCU system), backed by NEDO, Japan's Ministry of Environment, Spiral Capital and JAFCO (¥250M seed in 2024). It is targeting a 1 ton/day prototype and was selected for the Bosch CarbonCapture Startup Challenge 2025.
 
-![Planet Savers website](/screenshots/v1-thumbnails/planet-savers.jpg)
+![Planet Savers website](/screenshots/planet-savers/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,8 +31,12 @@ Planet Savers is Japan's first Direct Air Capture startup, spun out of the Unive
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://planetsavers.earth/Home-en))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.nedo.go.jp/english/activities/startups/company77.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/planetsavers/)
 
 ---
 

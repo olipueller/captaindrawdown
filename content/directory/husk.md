@@ -2,7 +2,7 @@
 title: "Husk"
 layout: "single"
 type: "directory"
-description: "Husk operates a biochar plant co-located with a rice mill, producing biochar via pyrolysis from rice husks under European Biochar Certification (EBC C-Sink) sta"
+description: "HUSK is a biochar producer operating in Cambodia and Vietnam that converts rice husks (a rice-milling byproduct) into biochar via pyrolysis, which is then"
 url: "/directory/husk/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,20 +13,22 @@ liveliness: "🟢 Active"
 **Country:** Cambodia
 **Website:** [https://www.huskventures.com/](https://www.huskventures.com/)
 **Status:** 🟢 Active (score: 90/100)
-**Employees:** ~40 (+21% YoY)
-**LinkedIn Followers:** 3,938
+**Employees:** ~40 (+18% YoY)
+**LinkedIn Followers:** 4,076
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Husk operates a biochar plant co-located with a rice mill, producing biochar via pyrolysis from rice husks under European Biochar Certification (EBC C-Sink) standards. The company sells biochar-based fertilizers to smallholder farmers in Cambodia and Vietnam and issues EBC C-Sink carbon removal credits. In June 2025, atmosfair and HUSK signed a contract to build a new pyrolysis plant in Kampong Thom, Cambodia, commissioning in November 2025, producing ~3 tons of biochar per day.
+HUSK is a biochar producer operating in Cambodia and Vietnam that converts rice husks (a rice-milling byproduct) into biochar via pyrolysis, which is then processed into carbon-based fertilizers for smallholder farmers. The company issues EBC/Global Biochar C-Sink carbon removal credits and has signed long-term offtake agreements with atmosfair (20,000 tonnes over seven years) and Klarna/Carbonaires. Its second-generation plant in Kampong Thom was commissioned in November 2025 and a Vietnam plant is slated to begin operations in 2026.
 
 ![Husk website](/screenshots/v1-thumbnails/husk.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.huskventures.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.huskventures.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

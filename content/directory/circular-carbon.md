@@ -2,7 +2,7 @@
 title: "Circular Carbon"
 layout: "single"
 type: "directory"
-description: "Circular Carbon is a Hamburg-based company founded in 2018 that operates a first-of-its-kind industrial biochar plant on the Peute site in Hamburg-Veddel, carbo"
+description: "Circular Carbon GmbH is a Hamburg/Straubing-based German biochar producer founded in 2018 and a subsidiary of econnext AG. It operates a first-of-its-kind"
 url: "/directory/circular-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -13,17 +13,17 @@ liveliness: "🟢 Active"
 **Country:** Germany
 **Website:** [https://circular-carbon.com/en/](https://circular-carbon.com/en/)
 **Status:** 🟢 Active (score: 85/100)
-**Employees:** ~26 (-28% YoY)
-**LinkedIn Followers:** 5,100
+**Employees:** ~21 (-42% YoY)
+**LinkedIn Followers:** 5,197
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Circular Carbon is a Hamburg-based company founded in 2018 that operates a first-of-its-kind industrial biochar plant on the Peute site in Hamburg-Veddel, carbonizing cocoa shells from a neighbouring cocoa producer and feeding the co-produced steam back into the partner's factory. The facility is designed to deliver roughly 5,800 tCO2e/yr of carbon removal alongside ~5,000 t/yr of fossil-gas displacement, and the company generates CDR credits from its CarbonHubs while selling certified biochar for soil, animal feed, and industrial uses.
+Circular Carbon GmbH is a Hamburg/Straubing-based German biochar producer founded in 2018 and a subsidiary of econnext AG. It operates a first-of-its-kind industrial pyrolysis plant on Hamburg's Peute island that carbonizes cocoa shells into biochar while supplying process steam to a neighboring cocoa producer, and is developing additional CarbonHub facilities.
 
-![Circular Carbon website](/screenshots/v1-thumbnails/circular-carbon.jpg)
+![Circular Carbon website](/screenshots/circular-carbon/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -31,6 +31,8 @@ Circular Carbon is a Hamburg-based company founded in 2018 that operates a first
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://circular-carbon.com/en/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://circular-carbon.com/en/carbonhubs/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

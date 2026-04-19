@@ -2,7 +2,7 @@
 title: "Bella Biochar Corp"
 layout: "single"
 type: "directory"
-description: "Bella Biochar Corporation is an Ontario, Canada-based biochar producer that converts landfill-diverted forest and wood waste into certified organic biochar. The"
+description: "Bella Biochar Corporation is a small Ontario, Canada-based biochar producer that converts landfill-diverted forest and wood waste into certified organic"
 url: "/directory/bella-biochar-corp/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -13,17 +13,28 @@ liveliness: "🟡 Moderate"
 **Country:** Canada
 **Website:** [https://bellabiochar.com/](https://bellabiochar.com/)
 **Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3 (0% YoY)
+**Employees:** ~3
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Bella Biochar Corporation is an Ontario, Canada-based biochar producer that converts landfill-diverted forest and wood waste into certified organic biochar. The company is Puro.earth CORC-certified and markets its biochar for soil amendment, animal bedding, wetland restoration, and carbon dioxide removal credits. It is a small, founder-led operation targeting ~5,000 tonnes of CO2 removal per plant at scale.
+Bella Biochar Corporation is a small Ontario, Canada-based biochar producer that converts landfill-diverted forest and wood waste into certified organic biochar. The company describes itself as the first Canadian and first female-founded firm to achieve Puro.earth CDR certification, and markets its biochar for soil amendment, animal bedding, wetland restoration, and CDR credits. Founded in 2019, it remains a small operation (~3 employees) with products sold via Amazon.ca and Ontario garden retailers.
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Bella Biochar
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bellabiochar.com/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://bellabiochar.com/ ([source](https://www.cdr.fyi/supplier/bella-biochar))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bella-biochar))
+- **** — merged duplicate: Bella Biochar (slug=bella-biochar)
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bellabiochar.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://link.springer.com/article/10.1007/s42773-024-00366-7))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bellabiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bellabiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

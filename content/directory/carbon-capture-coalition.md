@@ -2,21 +2,39 @@
 title: "Carbon Capture Coalition"
 layout: "single"
 type: "directory"
-description: "Carbon Capture Coalition — Unknown company in Unknown"
+description: "The Carbon Capture Coalition is a US nonpartisan policy advocacy coalition convened by the Great Plains Institute, uniting 100+ companies, labor unions, and"
 url: "/directory/carbon-capture-coalition/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** DAC
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://carboncapturecoalition.org/](https://carboncapturecoalition.org/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~6 (-14% YoY)
+**LinkedIn Followers:** 3,711
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+The Carbon Capture Coalition is a US nonpartisan policy advocacy coalition convened by the Great Plains Institute, uniting 100+ companies, labor unions, and environmental NGOs to advance federal policies supporting carbon capture, removal, transport, utilization, and storage. The Coalition is known for driving bipartisan enhancements to the 45Q tax credit and publishing annual Federal Policy Blueprints. It does not itself remove CO2 — it is an advocacy/convening organization within the carbon management ecosystem.
+
+![Carbon Capture Coalition website](/screenshots/carbon-capture-coalition/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carboncapturecoalition.org/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://carboncapturecoalition.org/ ([source](https://www.cdr.fyi/marketplace/carbon-capture-coalition))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-capture-coalition))
+
+[View on LinkedIn](https://www.linkedin.com/company/carbon-capture-coalition/)
 
 ---
 

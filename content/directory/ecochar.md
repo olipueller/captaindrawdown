@@ -2,7 +2,7 @@
 title: "EcoChar"
 layout: "single"
 type: "directory"
-description: "EcoChar is a France-based company developing agroforestry and regenerative agriculture projects that produce biochar as an agricultural bio-stimulant and green"
+description: "EcoChar is a small France-based company developing agroforestry and regenerative agriculture projects that produce biochar and green charcoal briquettes"
 url: "/directory/ecochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -20,13 +20,17 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-EcoChar is a France-based company developing agroforestry and regenerative agriculture projects that produce biochar as an agricultural bio-stimulant and green charcoal briquettes via pyrolysis of biomass waste. They position biochar both as a soil amendment and as a carbon sink. The firm is very small (≈3 employees) with limited recent public signals.
+EcoChar is a small France-based company developing agroforestry and regenerative agriculture projects that produce biochar and green charcoal briquettes through pyrolysis of biomass waste. They position biochar as both an agricultural bio-stimulant and a carbon sink for soil regeneration. The firm appears very small (~3 employees) with no registry listings and limited public signals, though its website remains live.
 
 ![EcoChar website](/screenshots/v1-thumbnails/ecochar.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.ecochar.tech/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.ecoverse.net/brands/ecochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.ecochar.tech/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.ecochar.tech/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

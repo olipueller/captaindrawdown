@@ -2,7 +2,7 @@
 title: "BioCarbon"
 layout: "single"
 type: "directory"
-description: "BioCarbon is an Australian climate-tech company using proprietary pyrolysis technology to convert woody agricultural waste into biochar (GreenChar), bio-oil,"
+description: "BioCarbon is an Australian climate-tech company that uses proprietary pyrolysis and consolidation technology to convert woody biomass waste into GreenChar"
 url: "/directory/biocarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,21 +12,23 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Australia
 **Website:** [https://www.biocarbon.com.au/](https://www.biocarbon.com.au/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~9 (+50% YoY)
-**LinkedIn Followers:** 898
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~10 (+11% YoY)
+**LinkedIn Followers:** 992
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-BioCarbon is an Australian climate-tech company using proprietary pyrolysis technology to convert woody agricultural waste into biochar ("GreenChar"), bio-oil, wood vinegar, and syngas. Their primary application is replacing metallurgical coke in Electric Arc Furnace steelmaking, with a first commercial-scale plant under development at Bulahdelah, NSW. They also pursue ACCU-verified carbon credits from the biochar production process.
+BioCarbon is an Australian climate-tech company that uses proprietary pyrolysis and consolidation technology to convert woody biomass waste into GreenChar biochar, a drop-in replacement for metallurgical coke in Electric Arc Furnace steelmaking. It secured AU$4.8M from ARENA in early 2026 to build its first commercial-scale plant at Bulahdelah, NSW, and also plans to sell ACCU-verified carbon credits alongside steel-industry sales.
 
 ![BioCarbon website](/screenshots/v1-thumbnails/biocarbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.biocarbon.com.au/post/biocarbon-arena-support-commercial-biochar-steelmaking))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.biocarbon.com.au/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

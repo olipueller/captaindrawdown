@@ -2,7 +2,7 @@
 title: "Black Bull Biochar"
 layout: "single"
 type: "directory"
-description: "Black Bull Biochar is a UK-based biochar producer that operates pyrolysis units (using PYREG and BioMaCon technology) to convert forestry co-products into bioch"
+description: "Black Bull Biochar is a UK-based biochar producer that operates PYREG and BioMaCon pyrolysis units to convert forestry co-products (sawdust, woodchip) into"
 url: "/directory/black-bull-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,18 +12,18 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United Kingdom
 **Website:** [https://www.blackbullbiochar.com/](https://www.blackbullbiochar.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~9 (+12% YoY)
-**LinkedIn Followers:** 2,644
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~9
+**LinkedIn Followers:** 2,940
 **Open roles on cdrjobs:** 5
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Black Bull Biochar is a UK-based biochar producer that operates pyrolysis units (using PYREG and BioMaCon technology) to convert forestry co-products into biochar for UK agriculture, particularly dairy manure management. The company raised £4 million in late seed funding in December 2025 to scale operations in the North West of England and expand into Denmark, and has previously secured £3.2 million from the UK's Net Zero Innovation Portfolio.
+Black Bull Biochar is a UK-based biochar producer that operates PYREG and BioMaCon pyrolysis units to convert forestry co-products (sawdust, woodchip) into biochar for UK agriculture, particularly dairy manure management. The company raised £4 million in late seed funding in December 2025 co-led by TSP Ventures and the GMCA Investment Fund to scale operations in North West England and expand into Denmark, building on £3.2 million previously awarded through the UK Net Zero Innovation Portfolio DAC/GGR competition.
 
-![Black Bull Biochar website](/screenshots/v1-thumbnails/black-bull-biochar.jpg)
+![Black Bull Biochar website](/screenshots/black-bull-biochar/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -31,6 +31,8 @@ Black Bull Biochar is a UK-based biochar producer that operates pyrolysis units 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bioenergy-news.com/news/black-bull-biochar-secures-4-million-for-biochar-expansion/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.blackbullbiochar.com/about-us))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

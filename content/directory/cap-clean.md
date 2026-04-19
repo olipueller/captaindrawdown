@@ -2,18 +2,18 @@
 title: "Cap Clean"
 layout: "single"
 type: "directory"
-description: "Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development company (subsidiary of Aether Catalyst) developing biofuel and bioenergy facilities"
+description: "Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development company developing biofuel facilities that convert crop residues and other biomass"
 url: "/directory/cap-clean/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** BECCS
 **Secondary pathways:** Mineralization
 **Method:** BECCS
 **Country:** Canada
-**Website:** [https://ravensr.com/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/](https://ravensr.com/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Website:** [https://capclean.com/](https://capclean.com/)
+**Status:** 🟢 Active (score: 70/100)
 **Employees:** ~11 (+10% YoY)
 **LinkedIn Followers:** 3,451
 **CDR Focus:** supplier
@@ -21,13 +21,16 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development company (subsidiary of Aether Catalyst) developing biofuel and bioenergy facilities with carbon capture and geologic storage. It signed a 2023 MOU with Raven SR to co-develop BECCS-style SAF and renewable diesel projects in Canada, and in May 2025 announced a proposed facility in Beaver County, Alberta near existing carbon capture infrastructure. Their published technology covers oxy-fuel CO2 capture from biomass combustion with permanent geologic storage.
+Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development company developing biofuel facilities that convert crop residues and other biomass feedstocks into sustainable aviation fuel (SAF) and renewable diesel, with integrated carbon capture and storage. The company has MOUs with Raven SR (2023) for Steam/CO2 Reforming technology and ABB (2024) for automation/electrification, and in May 2025 acquired 40 acres in Beaver County, Alberta for a proposed facility near existing carbon capture infrastructure. Production start is targeted for 2027.
 
-![Cap Clean website](/screenshots/v1-thumbnails/cap-clean.jpg)
+![Cap Clean website](/screenshots/cap-clean/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://advancedbiofuelsusa.info/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://ravensr.com/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://ravensr.com/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

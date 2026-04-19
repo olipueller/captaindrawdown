@@ -2,7 +2,7 @@
 title: "Ecoera"
 layout: "single"
 type: "directory"
-description: "Ecoera is a Swedish biochar CDR company founded at Chalmers Ventures in collaboration with Skånefrö AB, and started Sweden's first large-scale biochar carbon re"
+description: "Ecoera was founded at Chalmers Ventures with Skånefrö AB and began Sweden's first large-scale biochar application for carbon removal in 2009. Biochar is"
 url: "/directory/ecoera/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,14 +12,14 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Sweden
 **Website:** [https://ecoera.se/](https://ecoera.se/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~2 (0% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-Ecoera is a Swedish biochar CDR company founded at Chalmers Ventures in collaboration with Skånefrö AB, and started Sweden's first large-scale biochar carbon removal work in 2009. Biochar is produced in Hammenhög, South Sweden, at one of the largest biochar production facilities in the EU using PYREG P500 and P1500 carbonization systems. Output is third-party verified under the European Biochar Certificate and the Puro.earth Biochar methodology, and sold as CORC removal credits on carbon marketplaces.
+Ecoera was founded at Chalmers Ventures with Skånefrö AB and began Sweden's first large-scale biochar application for carbon removal in 2009. Biochar is produced at a large Hammenhög facility in South Sweden using PYREG P500 and P1500 carbonization systems. Output is third-party verified under the European Biochar Certificate and the Puro.earth Biochar methodology, and sold as CO2 Removal Certificates (CORCs).
 
 ![Ecoera website](/screenshots/v1-thumbnails/ecoera.jpg)
 
@@ -29,6 +29,15 @@ Ecoera is a Swedish biochar CDR company founded at Chalmers Ventures in collabor
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Ecoera AB
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://ecoera.se/))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/ecoera-ab))
+- **** — merged duplicate: Ecoera AB (slug=ecoera-ab)
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://puro.earth/marketplace/ecoera))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://ecoera.se/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://ecoera.se/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

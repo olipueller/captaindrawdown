@@ -2,20 +2,33 @@
 title: "Explocom GK SRL"
 layout: "single"
 type: "directory"
-description: "Explocom GK SRL — Unknown company in Unknown"
+description: "Explocom GK SRL is a Romanian company founded in 1992, originally producing charcoal and now manufacturing biochar and wood vinegar for agricultural use under"
 url: "/directory/explocom-gk-srl/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Romania
+**Website:** [https://www.retorte.ro/](https://www.retorte.ro/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Explocom GK SRL is a Romanian company founded in 1992, originally producing charcoal and now manufacturing biochar and wood vinegar for agricultural use under the GEKKA brand. It operates a patented pyrolysis process and registers carbon removal credits on Puro.earth.
+
+![Explocom GK SRL website](/screenshots/explocom-gk-srl/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.retorte.ro/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.retorte.ro/en/home/ ([source](https://www.cdr.fyi/supplier/explocom))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/explocom))
 
 ---

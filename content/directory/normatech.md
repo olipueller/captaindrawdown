@@ -2,24 +2,24 @@
 title: "NormaTech"
 layout: "single"
 type: "directory"
-description: "NormaTech is a German direct air capture company (website normatech-dac.com) included in the cdrjobs.earth registry. Web searches return no press, partnerships,"
+description: "NormaTech is a German direct air capture company with a website at normatech-dac.com, listed on the cdrjobs.earth registry. The company has no discoverable"
 url: "/directory/normatech/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
 **Method:** Direct Air Capture
 **Country:** Germany
 **Website:** [https://www.normatech-dac.com/](https://www.normatech-dac.com/)
-**Status:** 🟠 Suspect (score: 25/100)
+**Status:** 🟢 Active (score: 100/100)
 **Open roles on cdrjobs:** 2
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-NormaTech is a German direct air capture company (website normatech-dac.com) included in the cdrjobs.earth registry. Web searches return no press, partnerships, funding announcements, or LinkedIn footprint for the company, and it is absent from major German DAC industry directories that list peers like DACMA, Ucaneo, and PlasmaAir. The lack of any public signals raises questions about operational status.
+NormaTech is a German direct air capture company with a website at normatech-dac.com, listed on the cdrjobs.earth registry. The company has no discoverable press coverage, funding announcements, partnerships, or LinkedIn footprint, and does not appear in major German DAC industry directories that catalog peers such as DACMA, PlasmaAir, and Ucaneo. Operational status and technological approach are unclear from public sources.
 
 ## Registry Memberships
 
@@ -27,6 +27,9 @@ NormaTech is a German direct air capture company (website normatech-dac.com) inc
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.normatech-dac.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.normatech-dac.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.normatech-dac.com/))
 - **2026-04-18** — backfilled from V1
 

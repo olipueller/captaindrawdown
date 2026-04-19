@@ -2,30 +2,35 @@
 title: "GreenCarbonFactory"
 layout: "single"
 type: "directory"
-description: "GreenCarbonFactory is an Arnhem-based Dutch sustainable technology company founded by Jerom van Roosmalen and Harold Joanknecht that operates small-scale biocha"
+description: "GreenCarbonFactory is an Arnhem-based Dutch sustainable technology company that operates as a Managed Service Provider, installing, owning and maintaining"
 url: "/directory/greencarbonfactory/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** BECCS
 **Method:** Biochar
 **Country:** Netherlands
 **Website:** [https://www.greencarbonfactory.com/](https://www.greencarbonfactory.com/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟢 Active (score: 75/100)
 **Employees:** ~4 (0% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-GreenCarbonFactory is an Arnhem-based Dutch sustainable technology company founded by Jerom van Roosmalen and Harold Joanknecht that operates small-scale biochar and green-energy facilities at client sites. They convert certified clean (White Listed, PEFC/FSC) woodchips into biochar and heat/electricity via thermal pyrolysis, serving as a Managed Service Provider for site partners.
+GreenCarbonFactory is an Arnhem-based Dutch sustainable technology company that operates as a Managed Service Provider, installing, owning and maintaining small-scale on-site facilities that produce high-quality biochar and green energy from locally sourced woodchips. Founders Jerom van Roosmalen and Harold Joanknecht convert clean, white-listed woody residue streams into green energy and biochar via thermal conversion. The company has registered a biochar project on the Rainbow Standard registry and remains operationally active in 2025-2026.
 
-![GreenCarbonFactory website](/screenshots/v1-thumbnails/greencarbonfactory.jpg)
+![GreenCarbonFactory website](/screenshots/greencarbonfactory/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.greencarbonfactory.com/))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greencarbonfactory.com/contact-us/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.greencarbonfactory.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.greencarbonfactory.com/about/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

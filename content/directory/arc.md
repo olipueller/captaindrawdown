@@ -2,7 +2,7 @@
 title: "ARC"
 layout: "single"
 type: "directory"
-description: "ARC (Amager Resource Center) is a Danish inter-municipal waste management company that owns and operates the Amager Bakke (CopenHill) waste-to-energy plant in C"
+description: "ARC (Amager Resource Center) is a Danish inter-municipal waste management company that owns and operates the Amager Bakke (CopenHill) waste-to-energy plant in"
 url: "/directory/arc/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -12,22 +12,24 @@ liveliness: "🟢 Active"
 **Secondary pathways:** BECCS
 **Method:** BECCS
 **Country:** Denmark
-**Website:** [https://a-r-c.dk/english/demonstration-plant-for-carbon-capture-2023/](https://a-r-c.dk/english/demonstration-plant-for-carbon-capture-2023/)
+**Website:** [https://a-r-c.dk/](https://a-r-c.dk/)
 **Status:** 🟢 Active (score: 85/100)
-**Employees:** ~270 (+8% YoY)
-**LinkedIn Followers:** 6,109
+**Employees:** ~268 (+5% YoY)
+**LinkedIn Followers:** 6,171
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-ARC (Amager Resource Center) is a Danish inter-municipal waste management company that owns and operates the Amager Bakke (CopenHill) waste-to-energy plant in Copenhagen. It runs a carbon capture demonstration plant and is developing a full-scale CCS facility (CopenCapture, in partnership with E.ON) targeting up to 400,000–500,000 tonnes of CO2 per year, with the biogenic portion counting as BECCS-based carbon removal.
+ARC (Amager Resource Center) is a Danish inter-municipal waste management company that owns and operates the Amager Bakke (CopenHill) waste-to-energy plant in Copenhagen. Through its CopenCapture partnership with E.ON, ARC is developing a full-scale CCS facility targeting up to 400,000–500,000 tonnes of CO2/year, with the biogenic share qualifying as BECCS and sellable as Carbon Removal Credits. The project is contingent on Denmark's CCS funding scheme, with prequalification submitted in March 2025.
 
-![ARC website](/screenshots/v1-thumbnails/arc.jpg)
+![ARC website](/screenshots/arc/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

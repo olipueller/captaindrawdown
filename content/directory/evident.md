@@ -2,28 +2,38 @@
 title: "Evident"
 layout: "single"
 type: "directory"
-description: "Evident is a global sustainability certification firm with over two decades of expertise in establishing trusted renewable energy markets. Its C-Capsule product"
+description: "Evident is a Sheffield, UK-based certification and registry provider, best known for operating the I-REC(E) renewable energy certificate registry in over 140"
 url: "/directory/evident/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Enabling Tech
 **Method:** Enabling Tech
-**Country:** Unknown
-**Status:** 🟢 Active (score: 85/100)
+**Country:** United Kingdom
+**Website:** [https://evident.global](https://evident.global)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~42
+**LinkedIn Followers:** 8,338
 **CDR Focus:** ecosystem
 **Evidence signals:** news_mention
 
 ## About
 
-Evident is a global sustainability certification firm with over two decades of expertise in establishing trusted renewable energy markets. Its C-Capsule product is a standard and registry for durable Carbon Dioxide Removal that certifies only carbon that has been permanently removed from the atmosphere. The C-Capsule registry issues CDR credits through partnerships such as with Cowboy Clean Fuels and Absolute Climate, aimed at meeting quality, traceability, and verification expectations.
+Evident is a Sheffield, UK-based certification and registry provider, best known for operating the I-REC(E) renewable energy certificate registry in over 140 countries. Its C-Capsule product is a standard and registry for durable Carbon Dioxide Removal, accredited by the I-TRACK Foundation, that issues Carbon Removal Units for verified CDR activities including biochar, DAC, mineralization, and enhanced weathering. Evident joined Xpansiv in late 2025 to form a combined clean energy registry leader.
+
+![Evident website](/screenshots/evident/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://evident.global/carbon))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://evident.global/carbon))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/cowboy-clean-fuels-absolute-climate-and-evident-team-up-for-high-integrity-cdr/))
+
+[View on LinkedIn](https://www.linkedin.com/company/international-rec-services/)
 
 ---
 

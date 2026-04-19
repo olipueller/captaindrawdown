@@ -2,7 +2,7 @@
 title: "CarbonCure"
 layout: "single"
 type: "directory"
-description: "CarbonCure Technologies, headquartered in Halifax, Canada, licenses carbon mineralization systems that inject CO2 into ready-mix concrete, precast concrete, and"
+description: "CarbonCure Technologies is a Halifax, Canada-based cleantech company that licenses carbon mineralization systems to concrete producers worldwide, injecting"
 url: "/directory/carboncure/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -12,14 +12,16 @@ liveliness: "🟢 Active"
 **Method:** Carbon Utilization
 **Country:** Canada
 **Website:** [https://www.carboncure.com/](https://www.carboncure.com/)
-**Status:** 🟢 Active (score: 95/100)
+**Status:** 🟢 Active (score: 92/100)
+**Employees:** ~81 (-14% YoY)
+**LinkedIn Followers:** 36,159
 **Open roles on cdrjobs:** 4
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-CarbonCure Technologies, headquartered in Halifax, Canada, licenses carbon mineralization systems that inject CO2 into ready-mix concrete, precast concrete, and reclaimed wash water at concrete plants. While primarily marketed as a carbon utilization solution, the company partners with DAC providers like Heirloom to deliver verified atmospheric CO2 removal via permanent mineralization, and has a Verra-verified methodology generating carbon credits.
+CarbonCure Technologies is a Halifax, Canada-based cleantech company that licenses carbon mineralization systems to concrete producers worldwide, injecting captured CO2 into ready-mix, precast, and reclaimed wash water where it mineralizes permanently. The company partners with DAC firms like Heirloom to permanently store atmospheric CO2 in concrete and sells verified carbon removal credits through a shared-revenue model.
 
 ![CarbonCure website](/screenshots/v1-thumbnails/carboncure.jpg)
 
@@ -29,8 +31,12 @@ CarbonCure Technologies, headquartered in Halifax, Canada, licenses carbon miner
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carboncure-hits-10-million-low-carbon-concrete-truckloads/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carboncure.com/news/carboncure-producers-reach-milestone-of-10-million-truckloads/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/carboncure-technologies/)
 
 ---
 

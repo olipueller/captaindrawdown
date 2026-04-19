@@ -2,29 +2,33 @@
 title: "Sponge DAC"
 layout: "single"
 type: "directory"
-description: "Sponge DAC describes itself as a Direct Air Capture (DAC) technology company removing carbon directly from the atmosphere, creating jobs and working towards net"
+description: "Sponge DAC, Inc. is an early-stage Direct Air Capture startup based in Cambridge, Massachusetts, led by CEO Marek Herrmann-Nowosielski. The company is"
 url: "/directory/sponge-dac/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Other/Undisclosed)
 **Country:** United States
-**Website:** [https://www.linkedin.com/company/sponge-dac/](https://www.linkedin.com/company/sponge-dac/)
-**Status:** 🟠 Suspect (score: 30/100)
+**Website:** [https://www.spongedac.com](https://www.spongedac.com)
+**Status:** 🟡 Moderate (score: 45/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Sponge DAC describes itself as a Direct Air Capture (DAC) technology company removing carbon directly from the atmosphere, creating jobs and working towards net-zero. The firm maintains a minimal LinkedIn presence with very limited public information, and appears to be associated with chemical engineer Marek Nowosielski. No standalone website, funding announcements, or project deployments were discoverable via public search.
+Sponge DAC, Inc. is an early-stage Direct Air Capture startup based in Cambridge, Massachusetts, led by CEO Marek Herrmann-Nowosielski. The company is developing a sorbent-web DAC apparatus (with a moving web that shuttles between cool absorption and hot desorption zones) and has filed multiple US patents as well as a "SPONGE" trademark for DAC services. It remains very small (roughly 2 employees) with no publicly disclosed funding or deliveries.
 
-![Sponge DAC website](/screenshots/v1-thumbnails/sponge-dac.jpg)
+![Sponge DAC website](/screenshots/sponge-dac/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://patents.justia.com/inventor/marek-herrmann-nowosielski))
+- **2026-04-19** — refresh: screenshot, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://uspto.report/TM/98677960))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.linkedin.com/in/mareksnowosielski/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.linkedin.com/company/sponge-dac/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

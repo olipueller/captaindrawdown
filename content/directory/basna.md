@@ -2,7 +2,7 @@
 title: "Basna"
 layout: "single"
 type: "directory"
-description: "Basna d.o.o. is a Swiss-owned company founded in 2010 and headquartered in Čačak, Serbia, producing biochar and heat energy from wooden biomass using pyrolysis."
+description: "Basna is a Swiss company, founded in 2010 and headquartered in Čačak, Serbia, engaged in the conversion of biomass into heat and high quality charcoal. It has"
 url: "/directory/basna/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -11,7 +11,7 @@ liveliness: "🟡 Moderate"
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Serbia
-**Website:** [https://biochar-zero.com/company/basna-d-o-o/](https://biochar-zero.com/company/basna-d-o-o/)
+**Website:** [https://www.basna.net/](https://www.basna.net/)
 **Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~2 (-33% YoY)
 **LinkedIn Followers:** 4,479
@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Basna d.o.o. is a Swiss-owned company founded in 2010 and headquartered in Čačak, Serbia, producing biochar and heat energy from wooden biomass using pyrolysis. The company sells EBC-certified biochar for agriculture, animal husbandry, and industrial applications, and is listed as a Puro.earth-registered biochar producer. It remains a small operation (~2 employees on LinkedIn) with limited recent public signals specifically about CDR credit sales.
+Basna is a Swiss company, founded in 2010 and headquartered in Čačak, Serbia, engaged in the conversion of biomass into heat and high quality charcoal. It has been EBC certified since 2016, producing customized biochar products with extra long pores and high carbon content, optimized for improved milk production and anaerobic digesters. It is a small family-run operation (LinkedIn shows ~2 employees) that was previously listed on Puro.earth, though the specific CORC listing page now returns 404.
 
 ![Basna website](/screenshots/v1-thumbnails/basna.jpg)
 
@@ -30,6 +30,16 @@ Basna d.o.o. is a Swiss-owned company founded in 2010 and headquartered in Čač
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Basna d.o.o.
+- **2026-04-19** — refresh: screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.basna.net/strane/o-nama-1.html))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.basna.net/ ([source](https://www.cdr.fyi/supplier/basna-doo))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/basna-doo))
+- **** — merged duplicate: Basna d.o.o. (slug=basna-doo)
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.basna.net/))
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://cordmagazine.com/equality/vesna-baur-basna-biochar-protects-our-planet/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-zero.com/company/basna-d-o-o/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.basna.net/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

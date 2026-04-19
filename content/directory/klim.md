@@ -2,7 +2,7 @@
 title: "Klim"
 layout: "single"
 type: "directory"
-description: "Klim is a Berlin-based agritech company that scales regenerative agriculture by partnering with 3,500+ farmers across Germany, Poland, the USA, UK, Slovakia, an"
+description: "Klim is a Berlin-based agritech company founded in 2020 that scales regenerative agriculture by partnering with 3,500+ farmers covering roughly 700,000"
 url: "/directory/klim/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -12,16 +12,18 @@ liveliness: "🟢 Active"
 **Method:** Soil Carbon Sequestration
 **Country:** Germany
 **Website:** [https://www.klim.eco/](https://www.klim.eco/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~138 (+8% YoY)
+**LinkedIn Followers:** 19,744
 **Open roles on cdrjobs:** 6
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Klim is a Berlin-based agritech company that scales regenerative agriculture by partnering with 3,500+ farmers across Germany, Poland, the USA, UK, Slovakia, and the Czech Republic. They act as project developer, manager, and MRV provider, offering Scope 3 insetting projects and soil-carbon credits to corporate buyers including Nestlé and ADM.
+Klim is a Berlin-based agritech company founded in 2020 that scales regenerative agriculture by partnering with 3,500+ farmers covering roughly 700,000 hectares across Germany and internationally. The company acts as a project developer and MRV provider, generating TÜV-validated (DIN ISO 14064-2) soil carbon reduction and removal credits and Scope 3 insetting projects for corporate buyers such as Nestlé and Kaufland.
 
-![Klim website](/screenshots/v1-thumbnails/klim.jpg)
+![Klim website](/screenshots/klim/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -29,8 +31,12 @@ Klim is a Berlin-based agritech company that scales regenerative agriculture by 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.klim.eco/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.klim.eco/en))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/klimfoods/)
 
 ---
 

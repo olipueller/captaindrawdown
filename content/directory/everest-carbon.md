@@ -2,7 +2,7 @@
 title: "Everest Carbon"
 layout: "single"
 type: "directory"
-description: "Everest Carbon was founded in late 2022 as an ERW project developer, but at the end of 2023 its co-founders pivoted the company to commercialize its proprietary"
+description: "Everest Carbon is a San Francisco- and Linz, Austria-based carbon removal measurement company that builds a patent-pending, in-field alkalinity sensor for"
 url: "/directory/everest-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -14,13 +14,15 @@ liveliness: "🟢 Active"
 **Country:** United States
 **Website:** [https://www.everestcarbon.com/](https://www.everestcarbon.com/)
 **Status:** 🟢 Active (score: 85/100)
+**Employees:** ~10 (-23% YoY)
+**LinkedIn Followers:** 4,471
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Everest Carbon was founded in late 2022 as an ERW project developer, but at the end of 2023 its co-founders pivoted the company to commercialize its proprietary sensor. The company now sells hardware and software that enables ERW project developers to measure carbon removal in the field, aiming to reduce MRV costs by over 90%. They are a technology supplier building core removal-enabling infrastructure for the ERW pathway.
+Everest Carbon is a San Francisco- and Linz, Austria-based carbon removal measurement company that builds a patent-pending, in-field alkalinity sensor for Enhanced Rock Weathering (ERW) projects. Originally founded in late 2022 as an ERW project developer, it pivoted in early 2024 to commercialize MRV hardware/software that aims to cut measurement costs by over 90%, selling to ERW project developers.
 
 ![Everest Carbon website](/screenshots/v1-thumbnails/everest-carbon.jpg)
 
@@ -30,8 +32,12 @@ Everest Carbon was founded in late 2022 as an ERW project developer, but at the 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://www.everestcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://www.everestcarbon.com/))
 - **2026-04-18** — backfilled from V1
+
+[View on LinkedIn](https://www.linkedin.com/company/everest-carbon/)
 
 ---
 

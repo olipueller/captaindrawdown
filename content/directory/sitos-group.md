@@ -2,31 +2,38 @@
 title: "Sitos Group"
 layout: "single"
 type: "directory"
-description: "Sitos Group launched a pilot-scale biochar production facility at ReGen Monterey in early 2023 using slow pyrolysis technology to produce high-quality biochar f"
+description: "Sitos Group launched a pilot-scale slow-pyrolysis biochar production facility at ReGen Monterey in early 2023 to prove high-quality biochar production for"
 url: "/directory/sitos-group/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.sitos.earth/](https://www.sitos.earth/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟠 Suspect (score: 40/100)
+**Employees:** ~6 (-14% YoY)
+**LinkedIn Followers:** 2,662
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Sitos Group launched a pilot-scale biochar production facility at ReGen Monterey in early 2023 using slow pyrolysis technology to produce high-quality biochar for agriculture and carbon markets. The pilot has concluded and they are now building a commercial biochar production facility in partnership with Treehouse California Almonds. They work with sister company Soil Amendment Injection (SAI) to precisely apply biochar at depth for long-term soil health and carbon sequestration.
+Sitos Group launched a pilot-scale slow-pyrolysis biochar production facility at ReGen Monterey in early 2023 to prove high-quality biochar production for agriculture and carbon markets. After concluding the pilot, the company is moving to a commercial biochar production facility in partnership with Treehouse California Almonds, focused on efficient throughput and integration with agricultural partners. Sitos also works with sister company Soil Amendment Injection (SAI), which deploys specialized equipment to apply biochar at depth for long-term soil health and carbon sequestration.
 
 ![Sitos Group website](/screenshots/v1-thumbnails/sitos-group.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sitos.earth/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sitos.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/sitos-group/)
 
 ---
 

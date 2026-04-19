@@ -2,29 +2,36 @@
 title: "Drax"
 layout: "single"
 type: "directory"
-description: "Drax Group is a UK-listed energy company that generates electricity from wood pellets and is developing BECCS projects to deliver engineered carbon removals. It"
+description: "Drax Group plc is a UK-listed energy company that launched Elimini, a wholly owned, U.S.-based subsidiary focused on the development of BECCS in North America."
 url: "/directory/drax/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** BECCS
 **Method:** BECCS
-**Country:** Unknown
+**Country:** United Kingdom
 **Website:** [https://www.drax.com](https://www.drax.com)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~2081 (-5% YoY)
+**LinkedIn Followers:** 57,910
 **CDR Focus:** supplier
 **Evidence signals:** news_mention
 
 ## About
 
-Drax Group is a UK-listed energy company that generates electricity from wood pellets and is developing BECCS projects to deliver engineered carbon removals. Its Elimini business markets CDRs from planned BECCS plants, though the flagship UK Selby BECCS project has been scaled back amid regulatory and cost uncertainty, and Drax announced staff cuts to its carbon capture division in late 2025.
+Drax Group plc is a UK-listed energy company that launched Elimini, a wholly owned, U.S.-based subsidiary focused on the development of BECCS in North America. More than 20 potential BECCS sites are under review in North America, with additional projects under consideration in six more countries, and Elimini has entered into 11 carbon dioxide removal deals with eight companies. In December 2025 Drax confirmed it will cut more than half of its global CCS division, eliminating around 100 roles across its core business and Elimini, which analysts view as a signal of market recalibration amid BECCS economic headwinds.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.drax.com/financial-news/full-year-results-for-the-twelve-months-ended-31-december-2025/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.drax.com/bioenergy-with-carbon-capture-and-storage-beccs/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.bode-living.com/2026/04/14/the-flawed-promise-of-bioenergy-with-carbon-capture-and-storage-beccs/))
+
+[View on LinkedIn](https://www.linkedin.com/company/drax-power/)
 
 ---
 

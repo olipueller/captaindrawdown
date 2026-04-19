@@ -2,20 +2,30 @@
 title: "Punarv Resources"
 layout: "single"
 type: "directory"
-description: "Punarv Resources — Unknown company in Unknown"
+description: "Punarv Resources Pvt Ltd is an Indian biochar producer based in Raipur, Chhattisgarh, incorporated in 2019. The company pyrolyzes agricultural residues such as"
 url: "/directory/punarv-resources/"
-pathway: "Unknown"
+pathway: "Biochar"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** India
+**Website:** [https://www.punarv.com](https://www.punarv.com)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Punarv Resources Pvt Ltd is an Indian biochar producer based in Raipur, Chhattisgarh, incorporated in 2019. The company pyrolyzes agricultural residues such as cotton stalk and pigeon pea stalk to produce biochar, generating carbon removal credits (CORCs) under the Puro.earth standard.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.linkedin.com/in/nitin-agrawal-40068a27/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/punarv-resources))
 
 ---

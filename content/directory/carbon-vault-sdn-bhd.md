@@ -2,21 +2,38 @@
 title: "Carbon Vault Sdn Bhd"
 layout: "single"
 type: "directory"
-description: "Carbon Vault Sdn Bhd — Unknown company in Unknown"
+description: "Carbon Vault Sdn Bhd (operating as Carbon Bank) is a Malaysia-based carbon credit platform that provides audit, registry, and trading services, and co-develops"
 url: "/directory/carbon-vault-sdn-bhd/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Malaysia
+**Website:** [https://co2bank.asia/](https://co2bank.asia/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~7 (-59% YoY)
+**LinkedIn Followers:** 1,428
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Carbon Vault Sdn Bhd (operating as Carbon Bank) is a Malaysia-based carbon credit platform that provides audit, registry, and trading services, and co-develops a blockchain carbon registry with KPRJ Environment Sdn Bhd. The company also develops nature-based forestry projects such as Improved Forest Management in Terengganu, and integrates Islamic finance principles with carbon markets.
+
+![Carbon Vault Sdn Bhd website](/screenshots/carbon-vault-sdn-bhd/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://co2bank.asia/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://co2bank.asia/ ([source](https://www.cdr.fyi/supplier/carbon-vault))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-vault))
+
+[View on LinkedIn](https://www.linkedin.com/company/carbonbank/)
 
 ---
 

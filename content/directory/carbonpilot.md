@@ -2,20 +2,31 @@
 title: "CarbonPilot"
 layout: "single"
 type: "directory"
-description: "CarbonPilot — Unknown company in Unknown"
+description: "CarbonPilot (now Valorize Systems) is a software platform that helps biochar and biocarbon producers with MRV, life cycle assessments, certification, and"
 url: "/directory/carbonpilot/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Biochar
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United States
+**Website:** [https://www.valorizesystems.com](https://www.valorizesystems.com)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+CarbonPilot (now Valorize Systems) is a software platform that helps biochar and biocarbon producers with MRV, life cycle assessments, certification, and carbon credit sales. The company does not physically remove CO2 itself but provides the transaction and compliance infrastructure for removal projects, and is a Puro.earth partner. It is led by co-founder/CEO Tristan Springer.
 
 
 ## History
 
+- **2026-04-19** — refresh: liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.valorizesystems.com))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbonpilot))
 
 ---

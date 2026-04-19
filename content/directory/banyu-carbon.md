@@ -2,31 +2,34 @@
 title: "Banyu Carbon"
 layout: "single"
 type: "directory"
-description: "Banyu Carbon is a Seattle-based company founded in 2022 by Alex Gagnon and Julian Sachs, former University of Washington professors of chemical oceanography, de"
+description: "Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of Washington in 2022 by chemical oceanographers Alex Gagnon and Julian Sachs. It"
 url: "/directory/banyu-carbon/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Ocean CDR
 **Method:** Direct Ocean Removal
 **Country:** United States
 **Website:** [https://www.banyucarbon.com/](https://www.banyucarbon.com/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟠 Suspect (score: 40/100)
 **Employees:** ~10 (-17% YoY)
-**LinkedIn Followers:** 2,125
+**LinkedIn Followers:** 2,151
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Banyu Carbon is a Seattle-based company founded in 2022 by Alex Gagnon and Julian Sachs, former University of Washington professors of chemical oceanography, developing a sunlight-driven process to strip CO2 from seawater. The company has raised a $6.5 million seed round from investors including the Grantham Foundation, Propeller, United Airlines Ventures, Carbon Removal Partners and ReGen Ventures. It is an Ocean CDR supplier physically removing CO2 via photochemical reactions.
+Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of Washington in 2022 by chemical oceanographers Alex Gagnon and Julian Sachs. It is developing a sunlight-driven process using reversible photoacids to release CO2 from seawater, and has raised a $6.5M seed round from Grantham Foundation, Propeller, United Airlines Ventures, Carbon Removal Partners and ReGen Ventures, plus a Frontier pre-purchase from Stripe, Shopify and H&M.
 
 ![Banyu Carbon website](/screenshots/v1-thumbnails/banyu-carbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.banyucarbon.com/news/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.banyucarbon.com/news/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

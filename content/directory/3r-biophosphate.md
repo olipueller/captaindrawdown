@@ -2,31 +2,35 @@
 title: "3R-BioPhosphate"
 layout: "single"
 type: "directory"
-description: "3R-BioPhosphate Ltd. is a Hungary-based pyrolysis engineering company that upcycles food-grade animal bones into ABC BioPhosphate fertilizer and carbon-negative"
+description: "3R-BioPhosphate Ltd. is a Hungary-based pyrolysis engineering company led by inventor Edward Someus that upcycles food-grade animal bones and biomass into ABC"
 url: "/directory/3r-biophosphate/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Hungary
 **Website:** [https://biophosphate.net/](https://biophosphate.net/)
-**Status:** 🟡 Moderate (score: 65/100)
+**Status:** 🟠 Suspect (score: 40/100)
 **Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 108
+**LinkedIn Followers:** 113
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-3R-BioPhosphate Ltd. is a Hungary-based pyrolysis engineering company that upcycles food-grade animal bones into ABC BioPhosphate fertilizer and carbon-negative biochar at its 30-hectare 3R-BIOFARM Upcycling Centre in Trans-Danubia. Led by inventor Edward Someus, the company operates EU-permitted, REACH-registered zero-emission pyrolysis systems with 2,000–20,800 t/y throughput capacities and has advanced to TRL9 industrial readiness. Primary products are phosphorus biofertilizer and biochar, with bio-oil and renewable energy as co-products.
+3R-BioPhosphate Ltd. is a Hungary-based pyrolysis engineering company led by inventor Edward Someus that upcycles food-grade animal bones and biomass into ABC BioPhosphate fertilizer and carbon-negative biochar at its 30-hectare 3R-BIOFARM Upcycling Centre in Trans-Danubia. The company operates EU-permitted, REACH-registered zero-emission pyrolysis systems with throughput capacities of 2,000–20,800 t/y and has reached TRL9 industrial readiness.
 
-![3R-BioPhosphate website](/screenshots/v1-thumbnails/3r-biophosphate.jpg)
+![3R-BioPhosphate website](/screenshots/3r-biophosphate/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://circulareconomy.europa.eu/platform/en/good-practices/3r-biophosphate-ltd-pioneering-zero-emission-and-energy-independent-pyrolysis-and-nutrient-recovery))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biophosphate.net/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biophosphate.net/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biophosphate.net/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biophosphate.net/))

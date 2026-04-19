@@ -2,7 +2,7 @@
 title: "Carbon Centric"
 layout: "single"
 type: "directory"
-description: "Carbon Centric, established in 2021, develops, builds and operates carbon capture plants for industry and the energy sector, aiming to make carbon capture scala"
+description: "Carbon Centric is a Norwegian carbon capture developer founded in 2021 that builds, owns and operates modular carbon capture plants for small- and medium-scale"
 url: "/directory/carbon-centric/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -13,20 +13,34 @@ liveliness: "🟢 Active"
 **Country:** Norway
 **Website:** [https://www.carboncentric.no/en](https://www.carboncentric.no/en)
 **Status:** 🟢 Active (score: 92/100)
-**Employees:** ~22 (+22% YoY)
-**LinkedIn Followers:** 4,078
+**Employees:** ~22 (+16% YoY)
+**LinkedIn Followers:** 4,285
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Centric, established in 2021, develops, builds and operates carbon capture plants for industry and the energy sector, aiming to make carbon capture scalable for small and medium-sized emission sources in Norway and the Nordic region. Its Rakkestad plant at Østfold Energi's waste-to-energy facility began operations in September 2025 as a CCU demonstrator, while its flagship BECCS project at Kirkenær with Solør Bioenergi targets ~32,000 t/yr of biogenic CO2 removal and has completed the Puro.earth Preliminary Assessment, backed by a long-term offtake agreement with DNV.
+Carbon Centric is a Norwegian carbon capture developer founded in 2021 that builds, owns and operates modular carbon capture plants for small- and medium-scale bio- and waste-incineration emitters across the Nordics. Its first plant at Rakkestad (Østfold Energi waste-to-energy) began operations in September 2025 as a 10,000 tpa CCU facility delivering food-grade CO2 to Linde Gas, while its flagship BECCS project at Kirkenær with Solør Bioenergi targets ~32,000 tpa of permanent biogenic CO2 removals from 2028, with additional BECCS projects at Skogn, Trehørningen, Kalka and Treklyngen in development.
 
 ![Carbon Centric website](/screenshots/v1-thumbnails/carbon-centric.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 2 duplicate(s): Carbon Centric AS, Carbon Centric (SOLER Group)
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://carbon-centric.fr/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://carbon-centric.fr/ ([source](https://www.cdr.fyi/supplier/carbon-centric-soler-group))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-centric-soler-group))
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carboncentric.no/en))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.carboncentric.no ([source](https://www.cdr.fyi/supplier/carbon-centric))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-centric))
+- **** — merged duplicate: Carbon Centric (SOLER Group) (slug=carbon-centric-soler-group)
+- **** — merged duplicate: Carbon Centric AS (slug=carbon-centric-as)
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carboncentric.no/en/rakkestad-ccus))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carboncentric.no/en/post/dnv-og-carbon-centric-enter-into-agreement-on-carbon-removal))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

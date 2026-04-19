@@ -2,31 +2,34 @@
 title: "Aquafin"
 layout: "single"
 type: "directory"
-description: "Aquafin is Belgium's Flemish wastewater treatment utility, established in 1990, which treats household wastewater across Flanders. The company is developing a b"
+description: "Aquafin is Belgium's Flemish wastewater treatment utility, responsible for collecting and treating domestic wastewater across Flanders. The company is"
 url: "/directory/aquafin/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Belgium
 **Website:** [https://www.aquafin.be/](https://www.aquafin.be/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~1007 (+2% YoY)
-**LinkedIn Followers:** 22,436
-**CDR Focus:** division
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~1011 (+3% YoY)
+**LinkedIn Followers:** 22,951
+**CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Aquafin is Belgium's Flemish wastewater treatment utility, established in 1990, which treats household wastewater across Flanders. The company is developing a biochar project at its RWZI Menen site, in partnership with Ebema, D-CRBN, and Stadsbader Group, that will pyrolyze sewage sludge into biochar. While wastewater treatment is its core business, the Menen biochar plant represents a CDR-producing division/project within the larger utility.
+Aquafin is Belgium's Flemish wastewater treatment utility, responsible for collecting and treating domestic wastewater across Flanders. The company is developing a full-scale biochar production unit at its RWZI Menen wastewater treatment site, integrating drying and pyrolysis of sewage sludge to produce biochar and achieve carbon removal. The project is developed in partnership with Ebema, D-CRBN, and Stadsbader Group, with financial backing from the Helios Foundation.
 
-![Aquafin website](/screenshots/v1-thumbnails/aquafin.jpg)
+![Aquafin website](/screenshots/aquafin/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

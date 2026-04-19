@@ -2,31 +2,34 @@
 title: "Engrow"
 layout: "single"
 type: "directory"
-description: "Engrow Carbon Energy Private Limited is an India-based biochar producer incorporated in May 2019 and registered in Erode, Tamil Nadu. The company converts bioma"
+description: "Engrow Carbon Energy Private Limited is an India-based biochar producer incorporated in 2019 and located in Erode, Tamil Nadu. The company converts"
 url: "/directory/engrow/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** Afforestation
 **Method:** Biochar
 **Country:** India
 **Website:** [https://engrowfuels.com/](https://engrowfuels.com/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~14 (+56% YoY)
-**LinkedIn Followers:** 476
+**Status:** 🟢 Active (score: 75/100)
+**Employees:** ~14 (+27% YoY)
+**LinkedIn Followers:** 507
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Engrow Carbon Energy Private Limited is an India-based biochar producer incorporated in May 2019 and registered in Erode, Tamil Nadu. The company converts biomass residues into energy and soil amendments via pyrolysis and gasification, and its thermochemical plant generates carbon reduction credits by producing bio-furnace oil and biochar. It is named by the International Biochar Initiative among biochar producers actively scaling projects in India.
+Engrow Carbon Energy Private Limited is an India-based biochar producer incorporated in 2019 and located in Erode, Tamil Nadu. The company converts agricultural and biomass residues into biochar, bio-furnace oil, and carbon briquettes via pyrolysis and gasification, and operates an integrated forestry-agri model with farmers in South India. It is named by the International Biochar Initiative among scaling biochar producers in India.
 
 ![Engrow website](/screenshots/v1-thumbnails/engrow.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://engrowfuels.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://engrowfuels.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

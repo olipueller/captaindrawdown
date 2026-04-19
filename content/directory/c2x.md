@@ -2,21 +2,34 @@
 title: "C2X"
 layout: "single"
 type: "directory"
-description: "C2X — Unknown company in Unknown"
+description: "C2X is a green molecules company established in 2022/2023, majority-owned by the A.P. Moller Group with ENEOS as a minority shareholder, that develops and"
 url: "/directory/c2x/"
-pathway: "Unknown"
+pathway: "BECCS"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** BECCS
+**Secondary pathways:** Biomass Burial
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** United Kingdom
+**Website:** [https://c2xsolutions.com/](https://c2xsolutions.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+C2X is a green molecules company established in 2022/2023, majority-owned by the A.P. Moller Group with ENEOS as a minority shareholder, that develops and operates green methanol production facilities. Its Beaver Lake Biofuels project in Louisiana will convert forestry residues into bio-methanol via SunGas gasifiers while permanently storing biogenic CO2 in geological formations, generating CDR credits. The project signed a landmark 3.6 Mt offtake agreement with Microsoft over 12 years, with operations targeted for 2029.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://c2xsolutions.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/c2x))
+
+[View on LinkedIn](https://www.linkedin.com/company/c2x-solutions-llc/)
 
 ---
 

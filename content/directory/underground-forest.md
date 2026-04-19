@@ -2,31 +2,38 @@
 title: "Underground Forest"
 layout: "single"
 type: "directory"
-description: "Founded by Kees de Gruiter in 2023, Underground Forest revives ancient wood-piling techniques for long-term carbon storage, using sustainably sourced logs to st"
+description: "Underground Forest BV was founded by Kees de Gruiter in 2023 in Rotterdam, sourcing Norway spruce from sustainably managed forests in the Belgian Ardennes,"
 url: "/directory/underground-forest/"
 pathway: "Biomass Burial"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biomass Burial
 **Method:** BiCRS (Other)
 **Country:** Netherlands
-**Website:** [https://www.undergroundforest.nl/home/en](https://www.undergroundforest.nl/home/en)
-**Status:** 🟢 Active (score: 82/100)
+**Website:** [https://www.undergroundforest.nl](https://www.undergroundforest.nl)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~1
+**LinkedIn Followers:** 94
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Founded by Kees de Gruiter in 2023, Underground Forest revives ancient wood-piling techniques for long-term carbon storage, using sustainably sourced logs to store CO₂ for up to 1,000 years while offering solutions for peatland restoration and climate-neutral housing, with support from CarbonFix preparing to sequester its first kiloton of CO₂ by 2025. Their method is certified according to the IPCC CDR Taxonomy and the EU CRCF programme with a permanence of more than a thousand years. In 2025, greenhouse builder KUBO launched a partnership with Underground Forest to use wooden pile foundations that enable long-term CO2 storage.
+Underground Forest BV was founded by Kees de Gruiter in 2023 in Rotterdam, sourcing Norway spruce from sustainably managed forests in the Belgian Ardennes, shipping them to the Netherlands, and driving them vertically deep into clay or peat soils for permanent carbon storage. The firm's method is certified under the IPCC CDR Taxonomy and the EU CRCF programme with a permanence of more than a thousand years. They issue credits via Oncra and are pursuing CORCs with Puro.earth, serving both net-negative construction foundations and standalone CDR offtake.
 
 ![Underground Forest website](/screenshots/v1-thumbnails/underground-forest.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.undergroundforest.nl/home/en))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.undergroundforest.nl/html/home/en/index.html))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.undergroundforest.nl/html/home/en/index.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/underground-forest-b-v/)
 
 ---
 

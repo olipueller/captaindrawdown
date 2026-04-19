@@ -2,10 +2,10 @@
 title: "Arbon Earth"
 layout: "single"
 type: "directory"
-description: "Arbon Earth is a Swedish marine-based Carbon Dioxide Removal company that removes CO₂ from the atmosphere by cultivating and sequestering macroalgae in the deep"
+description: "Arbon Earth is a marine-based Carbon Dioxide Removal (CDR) company that removes CO₂ from the atmosphere by cultivating and sequestering macroalgae in the deep"
 url: "/directory/arbon-earth/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Ocean CDR
@@ -13,21 +13,25 @@ liveliness: "🟡 Moderate"
 **Method:** Marine CDR (Other)
 **Country:** Sweden
 **Website:** [https://arbon.earth/](https://arbon.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~5 (+67% YoY)
-**LinkedIn Followers:** 438
+**Status:** 🟢 Active (score: 72/100)
+**Employees:** ~5
+**LinkedIn Followers:** 451
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Arbon Earth is a Swedish marine-based Carbon Dioxide Removal company that removes CO₂ from the atmosphere by cultivating and sequestering macroalgae in the deep ocean, using scalable systems where biomass is lowered to the deep sea floor to isolate carbon for centuries to millennia. The company is ONCRA-certified (verification number ARB-O-001, TRL 7) with first credit issuance in 2023. It is a small team (~5 employees) based in Gothenburg, Sweden.
+Arbon Earth is a marine-based Carbon Dioxide Removal (CDR) company that removes CO₂ from the atmosphere by cultivating and sequestering macroalgae in the deep ocean. OceanPods are built from bamboo and macroalgae and deployed offshore where the algae absorb CO₂ as they grow, and once fully grown, the biomass is lowered to the deep seabed. The sequestered CO₂ is verified and certified by a third party (ONCRA).
 
-![Arbon Earth website](/screenshots/v1-thumbnails/arbon-earth.jpg)
+![Arbon Earth website](/screenshots/arbon-earth/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://arbon.earth/about))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://onsets.org/product/arbon-earth/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://arbon.earth/about))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://arbon.earth/about))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

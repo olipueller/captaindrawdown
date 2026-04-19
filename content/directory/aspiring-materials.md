@@ -2,21 +2,37 @@
 title: "Aspiring Materials"
 layout: "single"
 type: "directory"
-description: "Aspiring Materials — Unknown company in Unknown"
+description: "Aspiring Materials is a Christchurch, New Zealand-based cleantech company that operates a patented process to transform olivine rock into critical minerals"
 url: "/directory/aspiring-materials/"
-pathway: "Unknown"
+pathway: "Mineralization"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Mineralization
+**Secondary pathways:** Enhanced Weathering
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** New Zealand
+**Website:** [https://www.aspiringmaterials.com/](https://www.aspiringmaterials.com/)
+**Status:** 🟡 Moderate (score: 55/100)
+**Employees:** ~13 (0% YoY)
+**LinkedIn Followers:** 2,119
+**CDR Focus:** supplier
 **Evidence signals:** cdrfyi_listing
+
+## About
+
+Aspiring Materials is a Christchurch, New Zealand-based cleantech company that operates a patented process to transform olivine rock into critical minerals (magnesium hydroxide, NCM hydroxide, reactive silica, iron) with carbon mineralization as a core output. Their magnesium hydroxide product captures CO2 from air or industrial emissions, forming stable magnesium carbonate. The company opened a 250 kg/day pilot plant in Christchurch in April 2025 and announced US expansion in May 2025.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.aspiringmaterials.com/faqs))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://www.aspiringmaterials.com/ ([source](https://www.cdr.fyi/supplier/aspiring-materials))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/aspiring-materials))
+
+[View on LinkedIn](https://www.linkedin.com/company/aspiring-materials/)
 
 ---
 

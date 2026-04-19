@@ -2,32 +2,35 @@
 title: "Adaptavate"
 layout: "single"
 type: "directory"
-description: "Bristol, UK-based construction materials company that has developed a drop-in, carbon-storing alternative to gypsum plasterboard. The technology combines CO2 ab"
+description: "Bristol, UK-based construction materials company developing Breathaboard, a drop-in carbon-storing alternative to gypsum plasterboard that combines mineral"
 url: "/directory/adaptavate/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Mineralization
-**Secondary pathways:** Biochar
+**Secondary pathways:** Biomass Burial
 **Method:** Mineralization (Other)
 **Country:** United Kingdom
 **Website:** [https://adaptavate.com/](https://adaptavate.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~24 (+9% YoY)
-**LinkedIn Followers:** 2,710
+**Status:** 🟢 Active (score: 88/100)
+**Employees:** ~23 (+5% YoY)
+**LinkedIn Followers:** 2,804
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Bristol, UK-based construction materials company that has developed a drop-in, carbon-storing alternative to gypsum plasterboard. The technology combines CO2 absorption during mineral curing with biochar incorporation to achieve permanent carbon storage in buildings, and the company licenses its platform to global manufacturers.
+Bristol, UK-based construction materials company developing Breathaboard, a drop-in carbon-storing alternative to gypsum plasterboard that combines mineral (calcium carbonate) curing with bio-based/cellulosic agricultural feedstocks. The company licenses its patented CCU/CCS technology platform to global construction-product manufacturers and is currently building 'Project Crystal,' an industrial demonstrator facility partnered with SigmaRoc, which is intended to showcase the carbon-credit potential of its technology.
 
-![Adaptavate website](/screenshots/v1-thumbnails/adaptavate.jpg)
+![Adaptavate website](/screenshots/adaptavate/2026-04-19.png)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://adaptavate.com/technology))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://adaptavate.com/technology))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

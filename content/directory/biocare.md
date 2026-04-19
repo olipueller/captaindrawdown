@@ -2,7 +2,7 @@
 title: "Biocare"
 layout: "single"
 type: "directory"
-description: "Biocare is an engineering-focused developer of biochar carbon removal projects, bringing deep technical expertise and project delivery capability across Asia, A"
+description: "Biocare Projects is a Sydney-based biochar CDR project developer that identifies, sources, finances, and engineers pyrolysis-based biochar projects globally."
 url: "/directory/biocare/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,18 +12,18 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Australia
 **Website:** [https://www.biocareprojects.com/](https://www.biocareprojects.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~12 (-14% YoY)
-**LinkedIn Followers:** 1,048
+**Status:** 🟢 Active (score: 85/100)
+**Employees:** ~13 (-13% YoY)
+**LinkedIn Followers:** 1,069
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Biocare is an engineering-focused developer of biochar carbon removal projects, bringing deep technical expertise and project delivery capability across Asia, Australia, North America and South America. They are developing 10+ projects, representing more than 300,000 tonnes of annual CO2e removal. The company is a registered supplier on Puro.earth with the Kangaroo Island Biochar Project.
+Biocare Projects is a Sydney-based biochar CDR project developer that identifies, sources, finances, and engineers pyrolysis-based biochar projects globally. Its flagship engagement is the Kangaroo Island project with Kiland/Re-Vi (converting bushfire-damaged timber into biochar), and it has since launched additional initiatives in Vietnam's Mekong Delta, Argentina, Peru, and South Australia processing agri-residues and forestry waste. The company provides end-to-end services including engineering, registry compliance, financing, and CDR credit sales.
 
-![Biocare website](/screenshots/v1-thumbnails/biocare.jpg)
+![Biocare website](/screenshots/biocare/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -31,6 +31,8 @@ Biocare is an engineering-focused developer of biochar carbon removal projects, 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.biocareprojects.com/post/biocare-launches-flagship-biochar-cdr-initiative-in-vietnam-s-mekong-delta))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.biocareprojects.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

@@ -2,7 +2,7 @@
 title: "DAC Labs"
 layout: "single"
 type: "directory"
-description: "DAC Labs (Dac Laboratories) is an Australian University of Sydney spinout based in Brookvale, NSW, developing electrochemical direct air capture technology aime"
+description: "Dac Labs (Dac Laboratories) is a University of Sydney spinout developing a scalable, low-cost electrochemical direct air capture process using earth-abundant"
 url: "/directory/dac-labs/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,21 +12,30 @@ liveliness: "🟢 Active"
 **Method:** DAC (Other/Undisclosed)
 **Country:** Australia
 **Website:** [https://www.daclaboratories.com/](https://www.daclaboratories.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 82/100)
 **Employees:** ~6
-**LinkedIn Followers:** 178
+**LinkedIn Followers:** 185
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-DAC Labs (Dac Laboratories) is an Australian University of Sydney spinout based in Brookvale, NSW, developing electrochemical direct air capture technology aimed at earth-abundant materials and low-cost equipment. Founded by Dr Sam Wenger, the company is building a ~10 tonne/year demonstration unit with plans to scale to a kilotonne-scale pilot plant, and was backed by the University of Sydney's Pre-Seed Launch Fund.
+Dac Labs (Dac Laboratories) is a University of Sydney spinout developing a scalable, low-cost electrochemical direct air capture process using earth-abundant materials. Founded by Dr Sam Wenger based on his chemistry PhD, the company has published peer-reviewed work on aqueous electrochemical DAC and secured pre-seed funding from the University of Sydney's Pre-Seed Launch Fund, with a roadmap toward a 10-tonne/year demo and eventual megatonne-scale deployment.
 
 ![DAC Labs website](/screenshots/v1-thumbnails/dac-labs.jpg)
 
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Dac Laboratories
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.daclaboratories.com/))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/dac-laboratories))
+- **** — merged duplicate: Dac Laboratories (slug=dac-laboratories)
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.daclaboratories.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.daclaboratories.com/media))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.daclaboratories.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.daclaboratories.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

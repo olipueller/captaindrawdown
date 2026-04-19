@@ -2,7 +2,7 @@
 title: "Arbon"
 layout: "single"
 type: "directory"
-description: "Arbon is a Brooklyn, NY-based DAC startup spun out of Columbia University, developing humidity-swing sorbent technology for atmospheric CO2 capture. The company"
+description: "Arbon is a Brooklyn, NY-based direct air capture startup spun out of Columbia University, developing humidity-swing sorbent technology that releases captured"
 url: "/directory/arbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,18 +12,18 @@ liveliness: "🟢 Active"
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://www.arboncorp.com/](https://www.arboncorp.com/)
-**Status:** 🟢 Active (score: 78/100)
+**Status:** 🟢 Active (score: 85/100)
 **Employees:** ~5 (+67% YoY)
-**LinkedIn Followers:** 464
+**LinkedIn Followers:** 514
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Arbon is a Brooklyn, NY-based DAC startup spun out of Columbia University, developing humidity-swing sorbent technology for atmospheric CO2 capture. The company has a Frontier Climate offtake contract (2023) and was selected into the Activate Fellows 2025 cohort. It is small (~5 employees) but clearly an early-stage CDR technology supplier.
+Arbon is a Brooklyn, NY-based direct air capture startup spun out of Columbia University, developing humidity-swing sorbent technology that releases captured CO2 using water instead of heat. The company holds a Frontier Climate 2023 offtake contract, was selected into the Activate Fellows and Carbon-to-Value 2025 cohort, and unveiled a 5-ton/year pilot on Governors Island during NY Climate Week 2025.
 
-![Arbon website](/screenshots/v1-thumbnails/arbon.jpg)
+![Arbon website](/screenshots/arbon/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -31,6 +31,8 @@ Arbon is a Brooklyn, NY-based DAC startup spun out of Columbia University, devel
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.arboncorp.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.arboncorp.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

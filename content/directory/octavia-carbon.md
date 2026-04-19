@@ -2,7 +2,7 @@
 title: "Octavia Carbon"
 layout: "single"
 type: "directory"
-description: "Founded in 2022 by Martin Freimüller and Duncan Kariuki, Octavia has grown to about 60 people designing, building, and deploying DAC machines in Kenya, with a p"
+description: "Octavia Carbon is a Nairobi-based direct air capture company founded in 2022 by Martin Freimüller and Duncan Kariuki that designs, builds, and operates"
 url: "/directory/octavia-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -14,6 +14,8 @@ liveliness: "🟢 Active"
 **Country:** Kenya
 **Website:** [https://www.octaviacarbon.com/](https://www.octaviacarbon.com/)
 **Status:** 🟢 Active (score: 95/100)
+**Employees:** ~67 (+18% YoY)
+**LinkedIn Followers:** 15,734
 **Open roles on cdrjobs:** 1
 **CDI Portfolio Company**
 **CDR Focus:** supplier
@@ -21,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Founded in 2022 by Martin Freimüller and Duncan Kariuki, Octavia has grown to about 60 people designing, building, and deploying DAC machines in Kenya, with a pilot along the Rift Valley near Gilgil. In 2025, Octavia commissioned Project Hummingbird, described as the first commercial DAC plant on the African continent. Hummingbird targets ~1,500 tCO2/yr gross (~1,000 tCO2/yr net) with a subsequent larger development aimed at ~10,000 tCO2/yr.
+Octavia Carbon is a Nairobi-based direct air capture company founded in 2022 by Martin Freimüller and Duncan Kariuki that designs, builds, and operates solid-sorbent DAC machines powered by Kenyan geothermal energy. Its Project Hummingbird pilot in the Rift Valley pairs DAC with in-situ basalt mineralization via storage partner Cella, targeting ~1,500 tCO2/yr gross (~1,000 tCO2/yr net) with plans to scale to ~10,000 tCO2/yr. The company has raised seed funding, signed offtakes facilitated by Carbonfuture and Carbon Direct, and is deploying units for customers such as atmosfair.
 
 ![Octavia Carbon website](/screenshots/v1-thumbnails/octavia-carbon.jpg)
 
@@ -31,8 +33,12 @@ Founded in 2022 by Martin Freimüller and Duncan Kariuki, Octavia has grown to a
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.octaviacarbon.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.technologyreview.com/2025/12/22/1130153/geothermal-energy-carbon-capture-kenya-climate-solution/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+
+[View on LinkedIn](https://www.linkedin.com/company/octavia-carbon/)
 
 ---
 

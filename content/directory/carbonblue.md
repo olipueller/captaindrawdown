@@ -2,7 +2,7 @@
 title: "CarbonBlue"
 layout: "single"
 type: "directory"
-description: "CarbonBlue is an Israeli climate-tech startup (founded 2022, based in Haifa/Tel Aviv) that develops water-based direct CO2 removal technology using a proprietar"
+description: "CarbonBlue is an Israeli water-based carbon removal startup founded in 2022 by CEO Dr. Dan Deviri and COO Iddo Tsur, based in Tel Aviv/Haifa. The company has"
 url: "/directory/carbonblue/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -13,21 +13,23 @@ liveliness: "🟢 Active"
 **Method:** Direct Ocean Removal
 **Country:** Israel
 **Website:** [https://carbonblue.cc/](https://carbonblue.cc/)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~20 (+11% YoY)
-**LinkedIn Followers:** 3,541
+**Status:** 🟢 Active (score: 90/100)
+**Employees:** ~18 (+20% YoY)
+**LinkedIn Followers:** 3,628
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-CarbonBlue is an Israeli climate-tech startup (founded 2022, based in Haifa/Tel Aviv) that develops water-based direct CO2 removal technology using a proprietary calcium-looping reactor to mineralize dissolved CO2 into calcium carbonate. In May 2025 it deployed its "Midway" pilot integrated into the Ma'agan Michael desalination plant, targeting 40 tCO2/yr in Phase 1 scaling to 400 tCO2/yr in Phase 2. Backed by Frontier and a $10M seed round (2024).
+CarbonBlue is an Israeli water-based carbon removal startup founded in 2022 by CEO Dr. Dan Deviri and COO Iddo Tsur, based in Tel Aviv/Haifa. The company has installed the world's first pilot plant for removing carbon dioxide from water at a desalination facility in Ma'agan Michael, Israel, using its proprietary reactor to convert dissolved CO2 into precipitated calcium carbonate (PCC) with calcium hydroxide. The Midway pilot processes 10% of the desalination facility's saline water intake, removing 40 tons of CO2 per year in Phase 1, and will scale to 100% of the inlet stream, removing over 400 tons of CO2 per year.
 
 ![CarbonBlue website](/screenshots/v1-thumbnails/carbonblue.jpg)
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://carbonblue.cc/project-midway/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carbonblue-launches-midway-a-pioneering-desalination-incorporated-mcdr-pilot/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

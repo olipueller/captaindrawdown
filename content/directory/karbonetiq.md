@@ -2,27 +2,27 @@
 title: "Karbonetiq"
 layout: "single"
 type: "directory"
-description: "Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) that mineralizes CO₂ by processing alkaline industrial residues through a low-cost pa"
+description: "Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) developing surficial mineralization using alkaline industrial residues (slags, ash)"
 url: "/directory/karbonetiq/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Mineralization
 **Method:** Mineralization (Other)
 **Country:** United States
 **Website:** [https://www.karbonetiq.com/](https://www.karbonetiq.com/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~2
-**LinkedIn Followers:** 103
+**LinkedIn Followers:** 121
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) that mineralizes CO₂ by processing alkaline industrial residues through a low-cost passive aeration system with sensor-based MRV. It was selected in Frontier's Summer 2025 prepurchase round (2,142 tons) alongside Limenet and pHathom, on behalf of Stripe, Shopify, and Google. The company is a Puro.earth registry participant and an active mineralization supplier.
+Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) developing surficial mineralization using alkaline industrial residues (slags, ash) processed through a low-cost passive aeration system with sensor-based MRV. It was selected in Frontier's Summer 2025 prepurchase round for 2,142 tons on behalf of Stripe, Shopify, and Google, and is backed by Evok Innovations and Creative Destruction Lab.
 
-![Karbonetiq website](/screenshots/v1-thumbnails/karbonetiq.jpg)
+![Karbonetiq website](/screenshots/karbonetiq/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -30,6 +30,9 @@ Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) that 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.karbonetiq.com/))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/summer-2025-prepurchases))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.karbonetiq.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

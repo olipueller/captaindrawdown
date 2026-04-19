@@ -2,29 +2,29 @@
 title: "AirZyme"
 layout: "single"
 type: "directory"
-description: "AirZyme is a Stockholm-based early-stage climate tech startup founded in 2022 developing enzymatic biocatalysts (Carbonic Anhydrase) to accelerate CO2-to-bicarb"
+description: "AirZyme is a Stockholm, Sweden-based climate tech company (founded 2022) developing biotechnology and material-science-based carbon removal solutions,"
 url: "/directory/airzyme/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
-**Secondary pathways:** BECCS, Enabling Tech
+**Secondary pathways:** BECCS
 **Method:** BECCS
 **Country:** Sweden
 **Website:** [https://airzy.me/](https://airzy.me/)
-**Status:** 🟡 Moderate (score: 62/100)
-**Employees:** ~4 (+100% YoY)
-**LinkedIn Followers:** 773
+**Status:** 🟢 Active (score: 100/100)
+**Employees:** ~5 (0% YoY)
+**LinkedIn Followers:** 804
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-AirZyme is a Stockholm-based early-stage climate tech startup founded in 2022 developing enzymatic biocatalysts (Carbonic Anhydrase) to accelerate CO2-to-bicarbonate conversion for carbon capture, targeting both Bio-DAC (biomimetic Direct Air Capture) and post-combustion BECCS applications. The company was selected for the remove CDR accelerator and Baker Hughes Energy Ideas program, and has received Vinnova funding for enzyme-enhanced biocatalytic DAC. Team size remains very small (~4 employees) with only ~$50K disclosed funding plus EU-Startups listing €1–2.5M total.
+AirZyme is a Stockholm, Sweden-based climate tech company (founded 2022) developing biotechnology and material-science-based carbon removal solutions, positioning itself as a supplier for gigaton-scale carbon management. The company combines biotechnology and material sciences to create "Bio-DAC," a biomimetic Direct Air Capture system inspired by lung gas exchange, using Carbonic Anhydrase enzymes to capture CO₂ in a low-energy loop. It has been supported by a Vinnova "Acceleration of Deep Tech Companies" grant of up to SEK 4 million for biomimetic CDR development and was selected for the remove CDR accelerator (Cohort 4) and Baker Hughes Energy Ideas program.
 
-![AirZyme website](/screenshots/v1-thumbnails/airzyme.jpg)
+![AirZyme website](/screenshots/airzyme/2026-04-19.png)
 
 ## Registry Memberships
 
@@ -32,6 +32,16 @@ AirZyme is a Stockholm-based early-stage climate tech startup founded in 2022 de
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): AirZyme Sweden AB
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://airzy.me/))
+- **2026-04-19** — url added from cdr.fyi supplier page: https://airzy.me/ ([source](https://www.cdr.fyi/supplier/airzyme-sweden))
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/airzyme-sweden))
+- **** — merged duplicate: AirZyme Sweden AB (slug=airzyme-sweden-ab)
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://o.parsers.vc/startup/airzy.me/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://airzy.me/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://airzy.me/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

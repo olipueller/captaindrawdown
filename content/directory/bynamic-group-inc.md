@@ -2,21 +2,34 @@
 title: "Bynamic Group Inc."
 layout: "single"
 type: "directory"
-description: "Bynamic Group Inc. — Unknown company in Unknown"
+description: "Bynamic Group is a Calgary, Canada-based consultancy and carbon-credit trading firm founded in 2022. They help organizations navigate voluntary carbon markets,"
 url: "/directory/bynamic-group-inc/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
 **Method:** Unknown
-**Country:** Unknown
-**CDR Focus:** unclassified
+**Country:** Canada
+**Website:** [https://www.bynamicgroup.com](https://www.bynamicgroup.com)
+**Status:** 🟢 Active (score: 70/100)
+**Employees:** ~5 (+150% YoY)
+**LinkedIn Followers:** 220
+**CDR Focus:** ecosystem
 **Evidence signals:** cdrfyi_listing, marketplace
+
+## About
+
+Bynamic Group is a Calgary, Canada-based consultancy and carbon-credit trading firm founded in 2022. They help organizations navigate voluntary carbon markets, I-REC renewable energy certificates, and project development, acting as a broker and advisor rather than a physical CO2 remover.
 
 
 ## History
 
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.bynamicgroup.com))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/bynamic-group))
+
+[View on LinkedIn](https://www.linkedin.com/company/bynamic-group/)
 
 ---
 

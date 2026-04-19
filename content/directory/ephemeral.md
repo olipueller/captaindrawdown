@@ -2,10 +2,10 @@
 title: "Ephemeral"
 layout: "single"
 type: "directory"
-description: "Ephemeral Carbon is an unfunded company based in Santa Clara, United States, founded in 2023 by Josh Perfetto, operating as a provider of carbon removal solutio"
+description: "Ephemeral Carbon is a Santa Clara, California-based marine CDR startup founded in 2023 by Josh Perfetto. It is developing Ocean Alkalinity Enhancement (OAE) by"
 url: "/directory/ephemeral/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Ocean CDR
@@ -13,21 +13,25 @@ liveliness: "🟡 Moderate"
 **Method:** Ocean Alkalinity Enhancement
 **Country:** United States
 **Website:** [https://ephemeralcarbon.com/](https://ephemeralcarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟠 Suspect (score: 35/100)
 **Employees:** ~1 (-100% YoY)
-**LinkedIn Followers:** 451
+**LinkedIn Followers:** 450
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Ephemeral Carbon is an unfunded company based in Santa Clara, United States, founded in 2023 by Josh Perfetto, operating as a provider of carbon removal solutions. The company specializes in the permanent removal of CO2 through Oceanic Enhanced Weathering, grinding alkaline rock into sand which is then deployed in ocean waters to neutralize acidity and restore marine ecosystems. It is a pre-revenue, early-stage OAE supplier focused on field trials and community engagement.
+Ephemeral Carbon is a Santa Clara, California-based marine CDR startup founded in 2023 by Josh Perfetto. It is developing Ocean Alkalinity Enhancement (OAE) by deploying ground alkaline silicate rock in coastal waters to lock away CO2 as stable carbonates. The company remains unfunded and pre-revenue with minimal public activity beyond its website and past job listings.
 
 ![Ephemeral website](/screenshots/v1-thumbnails/ephemeral.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://ephemeralcarbon.com/))
+- **2026-04-19** — refresh: coresignal, liveliness
+- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.career.com/job/ephemeral-carbon/marine-biogeochemist/j202403292107340478052))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://ephemeralcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://ephemeralcarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
