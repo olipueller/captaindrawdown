@@ -8,7 +8,7 @@ url: "/directory/dac/"
 
 # DAC — 125 Companies Tracked
 
-**Market pulse for DAC (updated 2026-04-19).**
+**Market pulse for DAC (updated 2026-04-20).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">125</span><span class="label">Companies</span></div>

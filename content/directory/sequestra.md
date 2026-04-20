@@ -15,6 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://sequestra.tech/" target="_blank" rel="noopener">https://sequestra.tech/</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

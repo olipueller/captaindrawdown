@@ -18,6 +18,7 @@ liveliness: "🟢 Active"
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-preta-carbon/" target="_blank" rel="noopener">terra-preta-carbon — 5,103 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
   <tr><th>Employees</th><td>~16</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

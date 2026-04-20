@@ -4,19 +4,21 @@ layout: "single"
 type: "directory"
 description: "CDR offtake financier deploying structured capital to purchase Puro.earth-certified biochar CORCs from project developers in the Global South."
 url: "/directory/altitude/"
-pathway: "Biochar"
+pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
 
 <table class="company-facts">
-  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.altitudecarbon.com/" target="_blank" rel="noopener">https://www.altitudecarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/altitude-sustainable/" target="_blank" rel="noopener">altitude-sustainable — 687 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 

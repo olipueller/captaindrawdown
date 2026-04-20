@@ -28,6 +28,7 @@ BioCarbon is an Australian climate-tech firm that uses proprietary pyrolysis and
 
 ## History
 
+- **2026-04-20** — news mention: CHAR Tech Closes Elkem Deal, 62,500-Ton Offtake | CTRNF Stock News ([source](https://www.stocktitan.net/news/CTRNF/char-tech-closes-acquisition-of-elkem-s-biocarbon-assets-in-saguenay-dmwst7jnb96i.html))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.biocarbon.com.au/post/biocarbon-arena-support-commercial-biochar-steelmaking))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.biocarbon.com.au/post/biocarbon-arena-support-commercial-biochar-steelmaking))

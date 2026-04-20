@@ -8,7 +8,7 @@ url: "/directory/mineralization/"
 
 # Mineralization — 42 Companies Tracked
 
-**Market pulse for Mineralization (updated 2026-04-19).**
+**Market pulse for Mineralization (updated 2026-04-20).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">42</span><span class="label">Companies</span></div>
