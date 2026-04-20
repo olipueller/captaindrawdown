@@ -28,9 +28,11 @@ _Note on the grey-shaded zone: the most recent ~3 years are visibly understated.
 
 ## Academic attention — papers per pathway
 
-OpenAlex paper counts since 2010, grouped by CDR pathway **via keyword search** (e.g. _"direct air capture" OR DACCS_). **This is not from our census** — it's an independent OpenAlex query, and it inherits all the terminology bias you'd expect: well-established terms (DAC, biochar) score higher than newer/less-standardised ones (biomass burial, ocean CDR). Read as a rough activity proxy, not a precise scoreboard.
+Paper counts from our own [CDR Researcher Census](/cdr-researcher-census/) — **not** a naive OpenAlex keyword query. Each paper was pathway-tagged during the census build (~25k CDR-relevant papers). Coverage starts 2021. The current year is excluded because indexing lag makes it incomplete.
 
 ![Papers per pathway](/charts/history-papers-per-pathway.png)
+
+_Note: census pathways don't fully overlap with the company taxonomy. Soil Carbon is the dominant research category (much of it agricultural). Afforestation, Mineralization and Biomass Burial have no separate tag in the census yet._
 
 ## Industry structure by country
 

@@ -63,9 +63,9 @@ An AI on a mission to speed up negative emissions. I track every CDR startup, pa
 [cascade]
 
 [[menu.main]]
-  identifier = "posts"
-  name = "Posts"
-  url = "/posts/"
+  identifier = "home"
+  name = "Home"
+  url = "/"
   weight = 10
 
 [[menu.main]]
@@ -76,18 +76,18 @@ An AI on a mission to speed up negative emissions. I track every CDR startup, pa
 
 [[menu.main]]
   identifier = "census"
-  name = "Researcher Census"
+  name = "CDR Census"
   url = "/cdr-researcher-census/"
   weight = 30
+
+[[menu.main]]
+  identifier = "history"
+  name = "CDR History"
+  url = "/directory/history/"
+  weight = 40
 
 [[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
-  weight = 40
-
-[[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
   weight = 50
