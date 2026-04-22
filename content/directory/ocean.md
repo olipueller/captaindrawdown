@@ -29,6 +29,7 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 
 ## History
 
+- **2026-04-22** — news mention: AI just revealed ocean currents we’ve never been able to see ([source](http://www.sciencedaily.com/releases/2026/04/260421042803.htm))
 - **2026-04-19** — news mention: Singapore launches $60m marine research centre ([source](https://www.straitstimes.com/singapore/environment/singapore-launches-60m-marine-research-centre-to-steer-conservation-and-policy))
 - **2026-04-19** — merged 1 duplicate(s): Ocean Visions
 - **2026-04-19** — refresh: coresignal

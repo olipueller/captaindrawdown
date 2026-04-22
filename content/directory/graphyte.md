@@ -34,6 +34,7 @@ Graphyte is a US carbon removal startup founded in 2023 and based in Pine Bluff,
 
 ## History
 
+- **2026-04-20** — news mention: Graphyte and JPMorganChase partner on biomass-driven carbon removal | Panels & Furniture Asia ([source](https://panelsfurnitureasia.com/graphyte-and-jpmorganchase-partner-on-biomass-driven-carbon-removal/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.ccarbon.info/news/graphyte-announces-60000-ton-carbon-removal-agreement-with-jpmorganchase/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.graphyte.com/))

@@ -33,6 +33,7 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-04-22** — news mention: CDR Buyers: A Maturing Market | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452341544663277569/))
 - **2026-04-19** — merged 2 duplicate(s): Puro.earth, Bordet
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/four-bordet-70))

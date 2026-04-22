@@ -30,6 +30,7 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 
 ## History
 
+- **2026-04-21** — news mention: #bilbao #coreactive #decarbonization #energytechsummit #cdlparis… | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452271413689872385/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))

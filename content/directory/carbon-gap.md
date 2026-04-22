@@ -33,6 +33,7 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-04-21** — news mention: New Report Signals CDR Integration Potential In European Wastewater, Concrete, And Mining Waste Sect ([source](https://carbonherald.com/new-report-signals-cdr-integration-potential-in-european-wastewater-concrete-and-mining-waste-sectors/?utm_source=rss&utm_medium=rss&utm_campaign=new-report-signals-cdr-integration-potential-in-european-wastewater-concrete-and-mining-waste-sectors))
 - **2026-04-20** — news mention: Italy Can Reach Net-Zero By 2050 If It Scales Its CDR Sector, Says New Carbon Gap & B3 Carbon Report ([source](https://carbonherald.com/italy-can-reach-net-zero-by-2050-if-it-scales-its-cdr-sector-says-new-carbon-gap-b3-carbon-report/?utm_source=rss&utm_medium=rss&utm_campaign=italy-can-reach-net-zero-by-2050-if-it-scales-its-cdr-sector-says-new-carbon-gap-b3-carbon-report))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbongap.org/))

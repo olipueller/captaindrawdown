@@ -34,6 +34,7 @@ Lithos Carbon is a San Francisco-based pure-play CDR supplier using Enhanced Roc
 
 ## History
 
+- **2026-04-20** — news mention: Questions about Lithos’ first ERW credit issuance – CarbonPlan ([source](https://carbonplan.org/blog/lithos-first-issuance))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.lithoscarbon.com/))
 - **2026-04-19** — merged 1 duplicate(s): Lithos Carbon
 - **2026-04-19** — refresh: coresignal, screenshot

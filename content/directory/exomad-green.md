@@ -32,6 +32,7 @@ Exomad Green is a specialized division of Exomad, the largest wood exporter in B
 
 ## History
 
+- **2026-04-20** — news mention: Exomad Green, Supercritical Sign 500,000-Ton Biochar Carbon Removal Agreement - ESG Today ([source](https://www.esgtoday.com/exomad-green-supercritical-sign-500000-ton-biochar-carbon-removal-agreement/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.exomadgreen.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.exomadgreen.com/news))

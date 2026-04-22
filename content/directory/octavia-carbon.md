@@ -35,6 +35,7 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 
 ## History
 
+- **2026-04-22** — news mention: #carbonremoval #climateaction #africaclimate #cdr #carbonmarkets #sustainability #communityengagemen ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452334685960990720/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.technologyreview.com/2025/12/22/1130153/geothermal-energy-carbon-capture-kenya-climate-solution/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.octaviacarbon.com/))

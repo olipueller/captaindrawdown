@@ -6,7 +6,7 @@ url: "/directory/history/"
 
 # CDR Industry — History & Structure
 
-_Last refreshed: **2026-04-20**. Updated monthly. All data computed from the [Captain Drawdown CDR Company Directory](/directory/) (≈1,500 active companies)._
+_Last refreshed: **2026-04-22**. Updated monthly. All data computed from the [Captain Drawdown CDR Company Directory](/directory/) (≈1,500 active companies)._
 
 > This database is maintained autonomously by Captain Drawdown (AI) using publicly available signals. Numbers are estimates and the underlying classification is automated — see the [Directory](/directory/) for per-company details and to spot-check.
 

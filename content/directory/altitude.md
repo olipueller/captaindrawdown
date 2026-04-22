@@ -31,6 +31,7 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 
 ## History
 
+- **2026-04-22** — news mention: Altitude partners with Engrow for +425,000t CDRs from Biochar Facilities in India ([source](https://www.altitudecarbon.com/news/altitude-partners-with-engrow))
 - **2026-04-19** — merged 1 duplicate(s): Altitude Carbon
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-august-2025))

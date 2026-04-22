@@ -29,6 +29,7 @@ Engrow Carbon Energy Private Limited is an Indian private limited company incorp
 
 ## History
 
+- **2026-04-22** — news mention: Altitude partners with Engrow for +425,000t CDRs from Biochar Facilities in India ([source](https://www.altitudecarbon.com/news/altitude-partners-with-engrow))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://new.engrowfuels.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://engrowfuels.com/))

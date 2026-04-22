@@ -30,6 +30,7 @@ Cowboy Clean Fuels is a Denver-headquartered climate-tech company spun out of th
 
 ## History
 
+- **2026-04-22** — news mention: Cowboy Clean Fuels announces its carbon credits are verified and ready for purchase | Local News | g ([source](https://www.gillettenewsrecord.com/news/local/article_f60a873d-3134-4f24-874d-103605a9f340.html))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://cowboycleanfuels.com/cdr/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/cowboy-clean-fuels-and-mangrove-systems-to-deploy-digital-mrv-in-groundbreaking-carbon-removal-projects/))

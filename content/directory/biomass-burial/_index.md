@@ -8,7 +8,7 @@ url: "/directory/biomass-burial/"
 
 # Biomass Burial — 31 Companies Tracked
 
-**Market pulse for Biomass Burial (updated 2026-04-20).**
+**Market pulse for Biomass Burial (updated 2026-04-22).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">31</span><span class="label">Companies</span></div>

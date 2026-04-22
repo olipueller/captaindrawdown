@@ -31,6 +31,7 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ## History
 
+- **2026-04-21** — news mention: #sfcw | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:share:7452087946192609280/))
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Isometric's actual LinkedIn company page is linkedin.com/company/isometric-hq (confirmed in search results showing Isometric as a carbon removal registry/standard). The slug "exponential-hq" refers to
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://isometric.com/))

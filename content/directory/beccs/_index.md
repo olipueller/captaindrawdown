@@ -8,7 +8,7 @@ url: "/directory/beccs/"
 
 # BECCS — 85 Companies Tracked
 
-**Market pulse for BECCS (updated 2026-04-20).**
+**Market pulse for BECCS (updated 2026-04-22).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">85</span><span class="label">Companies</span></div>

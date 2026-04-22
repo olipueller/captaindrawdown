@@ -29,6 +29,7 @@ Carbon Engineering is a Canadian DAC technology developer headquartered in Squam
 
 ## History
 
+- **2026-04-21** — news mention: Direct Air Capture Market (2026-2033) | Carbon Removal Technology, CO2 Capture Systems & Net Zero St ([source](https://www.openpr.com/news/4482183/direct-air-capture-market-2026-2033-carbon-removal))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://carbonengineering.com/news-updates/carbon-engineering-to-invest-in-technology-development-and-research-facilities/))
 - **2026-04-19** — merged 1 duplicate(s): Carbon Engineering/Occidental Petroleum
 - **2026-04-19** — refresh: coresignal, liveliness

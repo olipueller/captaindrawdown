@@ -29,6 +29,8 @@ CarbonPlan is a U.S. nonprofit (California public benefit corporation) that prod
 
 ## History
 
+- **2026-04-21** — news mention: Offset project paperwork should be internally consistent. It’s not. – CarbonPlan ([source](https://carbonplan.org/blog/pig-manure-inconsistencies))
+- **2026-04-20** — news mention: Questions about Lithos’ first ERW credit issuance – CarbonPlan ([source](https://carbonplan.org/blog/lithos-first-issuance))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbonplan.org/about))

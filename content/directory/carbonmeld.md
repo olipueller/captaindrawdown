@@ -26,6 +26,11 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 
 ## History
 
+- **2026-04-21** — news mention: Why EU ETS Industrial Decarbonisation Still Needs a Price Floor, Not Just a Price Signal · CarbonMel ([source](https://carbonmeld.com/en/articles/why-eu-ets-industrial-decarbonisation-still-needs-a-price-floor-not-just-a-price-signal/))
+- **2026-04-21** — news mention: Why a Montana Biomass Burial Deal Matters for the Future of Carbon Removal Finance · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-a-montana-biomass-burial-deal-matters-for-the-future-of-carbon-removal-finance/))
+- **2026-04-21** — news mention: Europe’s Peatland Restoration Could Become a New Climate Asset Class If Finance Barriers Fall · Carb ([source](https://carbonmeld.com/en/articles/europe-s-peatland-restoration-could-become-a-new-climate-asset-class-if-finance-barriers-fall/))
+- **2026-04-21** — news mention: Sri Lanka’s Carbon Market Could Scale Fast If Policy, Finance, and Project Readiness Finally Align · ([source](https://carbonmeld.com/en/articles/sri-lanka-s-carbon-market-could-scale-fast-if-policy-finance-and-project-readiness-finally-align/))
+- **2026-04-21** — news mention: What Amazon’s Record Offset Retirements and Microsoft’s CDR Critique Reveal About the Next Phase of  ([source](https://carbonmeld.com/en/articles/what-amazon-s-record-offset-retirements-and-microsoft-s-cdr-critique-reveal-about-the-next-phase-of-carbon-market-demand/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbonmeld.com/))
