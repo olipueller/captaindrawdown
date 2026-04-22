@@ -28,6 +28,7 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-04-22** — news mention: Who buys next? &mdash; Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/who-buys-next))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.negative-emissions.org/updates/negative-emissions-platform-publishes-2025-annual-report))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.negative-emissions.org/))

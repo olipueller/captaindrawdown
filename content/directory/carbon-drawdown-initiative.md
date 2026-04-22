@@ -29,6 +29,7 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-04-22** — news mention: A question I keep coming back to: are the numbers we report actually measuring what we think they ar ([source](https://x.com/dpaessler/status/2046937273048989752))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-drawdown.de/who))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-drawdown.de/what-we-do))

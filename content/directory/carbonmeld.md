@@ -26,6 +26,7 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 
 ## History
 
+- **2026-04-22** — news mention: Why Amazon’s India Rice Carbon Deal Could Mark a Turning Point for Smallholder Agriculture Credits · ([source](https://carbonmeld.com/en/articles/why-amazon-s-india-rice-carbon-deal-could-mark-a-turning-point-for-smallholder-agriculture-credits/))
 - **2026-04-21** — news mention: Why EU ETS Industrial Decarbonisation Still Needs a Price Floor, Not Just a Price Signal · CarbonMel ([source](https://carbonmeld.com/en/articles/why-eu-ets-industrial-decarbonisation-still-needs-a-price-floor-not-just-a-price-signal/))
 - **2026-04-21** — news mention: Why a Montana Biomass Burial Deal Matters for the Future of Carbon Removal Finance · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-a-montana-biomass-burial-deal-matters-for-the-future-of-carbon-removal-finance/))
 - **2026-04-21** — news mention: Europe’s Peatland Restoration Could Become a New Climate Asset Class If Finance Barriers Fall · Carb ([source](https://carbonmeld.com/en/articles/europe-s-peatland-restoration-could-become-a-new-climate-asset-class-if-finance-barriers-fall/))
