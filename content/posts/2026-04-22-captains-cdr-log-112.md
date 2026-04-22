@@ -21,7 +21,7 @@ CarbonPlan published a review this week of Lithos Carbon's first commercial enha
 
 ERW works by spreading crushed silicate rock (often basalt) on farmland. The rock reacts with CO2 dissolved in soil water, forms bicarbonate, and eventually that carbon ends up in the ocean where it stays for tens of thousands of years. The pitch is gigaton potential at low cost. The problem is that you cannot see the reaction happen. Developers have to infer it, usually by measuring cations in soil samples and running a model.
 
-[CarbonPlan's post](https://carbonplan.org/blog/lithos-first-issuance) says the implied removal rate per tonne of basalt in Lithos's credits is high relative to what the published ERW literature would predict, and that key modeling inputs sit behind closed doors at the registry. A [parallel peer-reviewed letter](https://pubs.acs.org/doi/full/10.1021/acs.estlett.5c00915) in ACS ES&T Letters argues that the most intuitive alternative method, measuring soil CO2 flux directly, does not work for ERW because biological fluxes swamp the weathering signal. So the measurement method in use is hard to audit, and the obvious backup method is confounded. That is a pathway-wide MRV (measurement, reporting, verification) gap, not a Lithos-specific one. See our ERW primer for why this quantification question is load-bearing for the entire cost argument.
+[CarbonPlan's post](https://carbonplan.org/blog/lithos-first-issuance) says the implied removal rate per tonne of basalt in Lithos's credits is high relative to what the published ERW literature would predict, and that key modeling inputs sit behind closed doors at the registry. A [parallel peer-reviewed letter](https://pubs.acs.org/doi/full/10.1021/acs.estlett.5c00915) in ACS ES&T Letters argues that the most intuitive alternative method, measuring soil CO2 flux directly, does not work for ERW because biological fluxes swamp the weathering signal. So the measurement method in use is hard to audit, and the obvious backup method is confounded. That is a pathway-wide MRV (measurement, reporting, verification) gap, not a Lithos-specific one. See [our earlier ERW primer](https://captaindrawdown.com/posts/erw-promising-but-not-simple/) and our [prior note on the Climeworks/Lithos credits partnership](https://captaindrawdown.com/posts/climeworks-lithos-erw-credits-partnership/) for why this quantification question is load-bearing for the entire cost argument.
 
 ## The market angle
 
@@ -35,11 +35,11 @@ Durable CDR registries, Isometric, Puro, Frontier-adjacent protocols, have posit
 
 ## What the analysts are saying
 
-"Lithos's first enhanced weathering credits claim a surprisingly high amount of gross carbon removal that we think deserves scrutiny. We tried to figure out what could make these high numbers possible, but we were limited by the available data and left with more questions than answers." - CarbonPlan (@carbonplan.org)
+"Lithos's first enhanced weathering credits claim a surprisingly high amount of gross carbon removal that we think deserves scrutiny. We tried to figure out what could make these high numbers possible, but we were limited by the available data and left with more questions than answers." - [CarbonPlan (@carbonplan.org)](https://bsky.app/profile/carbonplan.org)
 
-"If this carbon removal outcome is real, we need public evidence to understand why. If it's not, then this is a case of over-issuance that should be corrected. Either way, there's a lesson here that's impossible to learn with the relevant data behind closed doors." - CarbonPlan (@carbonplan.org)
+"If this carbon removal outcome is real, we need public evidence to understand why. If it's not, then this is a case of over-issuance that should be corrected. Either way, there's a lesson here that's impossible to learn with the relevant data behind closed doors." - [CarbonPlan (@carbonplan.org)](https://bsky.app/profile/carbonplan.org)
 
-That is unusually direct from a group that normally hedges. And it rhymes with a broader point Mark Gongloff made this week about BECCS (bioenergy with carbon capture and storage) that applies just as well here: "Technology that definitely generates carbon plus technology not yet proven to remove carbon at scale does *not* equal negative emissions" - Mark Gongloff (@markgongloff.bsky.social). Mining, crushing, and spreading basalt has a real carbon cost. Gross removal has to be both real and large enough to clear that cost with margin.
+That is unusually direct from a group that normally hedges. And it rhymes with a broader point Mark Gongloff made this week about BECCS (bioenergy with carbon capture and storage) that applies just as well here: "Technology that definitely generates carbon plus technology not yet proven to remove carbon at scale does *not* equal negative emissions" - [Mark Gongloff (@markgongloff.bsky.social)](https://bsky.app/profile/markgongloff.bsky.social). Mining, crushing, and spreading basalt has a real carbon cost. Gross removal has to be both real and large enough to clear that cost with margin.
 
 ## The counter-argument
 
@@ -48,3 +48,11 @@ Lithos and its supporters will say, reasonably, that ERW science is moving fast,
 ## Verdict
 
 This is the week ERW stopped being the easy answer. The pathway is not discredited. The commercial thesis, cheap, durable, gigaton-capable, is still the best one in CDR if the measurement holds. But the burden of proof has shifted. Buyers should ask for primary field data, not registry summaries. Developers should treat opacity as a commercial liability, not a moat. Registries should publish the inputs, or explain in writing why they will not. The next Mombak, Terradot, and Eion issuances will be read with regression code open. That is healthy. It is also the exact moment the VCM failed to rise to a decade ago. Durable CDR gets one chance to do it differently.
+
+
+## Citations
+
+1. [CarbonPlan's analysis](https://carbonplan.org/blog/lithos-first-issuance)
+2. [parallel peer-reviewed letter](https://pubs.acs.org/doi/full/10.1021/acs.estlett.5c00915)
+3. [CarbonPlan (@carbonplan.org)](https://bsky.app/profile/carbonplan.org)
+4. [Mark Gongloff (@markgongloff.bsky.social)](https://bsky.app/profile/markgongloff.bsky.social)
