@@ -2,43 +2,66 @@
 title: "Making of the April 2026 CDR Industry Update"
 date: 2026-04-22T09:00:00+00:00
 slug: "cdr-industry-making-of-2026-04"
-draft: true
+draft: false
 tags: ["cdr", "making-of", "directory", "methodology"]
 categories: ["making-of"]
+cover:
+  image: "/charts/directory-pathway-focus-alluvial.png"
+  alt: "Alluvial diagram showing how the 9 CDR pathways split across pure-play, ecosystem, side-business and division focus types"
+  hidden: false
 ---
 
-# April 2026: Making-of
+# How we built the CDR Company Directory
 
-*The making-of companion to this month's CDR Industry Update.*
+*A behind-the-scenes companion to this month's CDR Industry Update.*
 
-We write these companion posts because the industry update by itself doesn't show its seams. A monthly tally of new CDR companies, pathway shifts, and focus-area drift only means something if you know how the sausage got made: which pipes broke, which we rebuilt, and where the numbers are still soft. This one is for readers who use our directory as a working reference and want to know when to second-guess it.
+People sometimes ask how a directory like ours gets built. It is a fair question. "We track every company doing carbon removal" is the kind of claim that sounds simple until you try to do it. The truth is that "doing carbon removal" is a moving target, the companies are scattered across pretty much every continent and language, and most of them are too small to show up in normal industry datasets. This post walks through how we deal with all of that. It does not need any prior knowledge of the field.
 
-## What we rebuilt this cycle
+## How Captain Drawdown itself works now
 
-**The company database.** We rebuilt the Coresignal-enriched company database from scratch this month (PX-001). The new taxonomy is a 9-pathway by 5-focus grid, currently covering 973 visible companies, refreshed monthly via a cron job and a shell script that runs the full pipeline end-to-end. The directory now has four branded charts on the main page plus a five-chart history view grounded in academic-attention census data. Twenty-eight companies are flagged as CDI (CDR-Distant Industrial, our shorthand for parents whose CDR activity is a minority line). We also switched directory links from numeric IDs to slugs, which quietly fixed 49 broken internal links, and added a mid-month `add-companies.py` so new entrants don't have to wait for the monthly refresh. Carbon Herald citations are now banned in code rather than by convention.
+One thing changed under the hood this cycle that is worth saying out loud, because it shapes everything below. Captain Drawdown started life as a pure language-model agent inside our OpenClaw framework - we just gave a big model a goal and let it improvise the rest. That is fast to start with and useless for anything you need to repeat exactly the same way next month. So we rebuilt the Captain as a hybrid. The boring, repeatable parts - pulling sources, deduplicating, computing month-over-month deltas, rendering charts, posting on a schedule - are now ordinary Python code that runs the same way every time. The judgement parts - "is this actually a CDR company, given what its website says today" or "what is the most interesting story in this month's data" - still go to a language model, because no fixed rule survives contact with the real world here. The whole thing still runs inside an OpenClaw agent, so a human can talk to it on Telegram and steer it; it just no longer relies on the model for the work that does not need a model.
 
-**A CDR-relevance gate on new follows.** Before this month our Bluesky and X follow flows scored candidates on bio keywords only, which let through a lot of climate-generalist accounts who never actually post about CDR. The new gate (PX-003) pulls a candidate's last 20 posts and requires at least 20% to score as CDR-relevant before we follow. It's live on Bluesky now. X is gated by default, because per-account timeline fetches are quota-expensive there and we haven't wired the fetcher yet.
+## How we find companies
 
-**Data-driven voice list audits.** Related: our list of "voices we track" had been pruned once, by hand, on April 13. That's not a process. PX-009 replaces it with a monthly audit script that scores each voice over a 30-day window and reclassifies them as active, dormant, or off-topic, with a CSV trail. First automated run is May 1.
+The first job is finding them. There is no master list anywhere - no regulator publishes one, and the field is too young for the usual industry associations to be exhaustive. So we run a wide net of sources every month and pull anything that looks like it might be a CDR company.
 
-**Threads as sources.** We now treat substantive X and Bluesky threads as first-class newsroom input (PX-008), detected by length, reply count, or self-chain. They get stitched, relevance-gated, and handed to the Captain's Log synthesis alongside articles and press releases.
+The biggest sources are job boards aimed at the climate sector, public registries from removal-credit programs, the bibliographies of academic papers about specific pathways, press mentions in climate news, and broad business databases that we filter aggressively for CDR keywords. We also watch announcement feeds from a handful of community-run lists. Each source has its own bias: job boards over-index on companies that are hiring engineers, registries over-index on the ones already selling credits, papers over-index on the ones with academic ties. Pulling from many sources at once is the only way to keep any single bias from skewing the picture.
 
-**Referral mode for journalism portals.** Instead of paraphrasing paywalled or semi-paywalled journalism, PX-007 builds a short pointer post that links directly to the outlet. Nine portals are on the list, each capped at one referral per day.
+A new company has to clear a small evidence bar before we add it. We require at least two independent signals - for instance, a working website plus a press mention, or a website plus headcount data, or a website plus inclusion in a removal registry. One signal alone is not enough; the field has too many announcement-only entities that never become real companies. The bar is deliberately low because we would rather catch a company too early and clean up later than miss it.
 
-**Plumbing fixes worth naming.** The planner had a race condition where two concurrent runs could wipe the queue; it now uses an atomic lockfile with PID and timestamp checks (PX-004). We had cross-day duplicate posts of the same blog URL to LinkedIn and Bluesky; there's now a 7-day per-platform dedup check (PX-005). Captain's Log had a soft citation floor that lived only in the prompt; it's now enforced in code, with a four-external-citation minimum and a policy of skipping the log entirely rather than shipping something thinly sourced (PX-006).
+## How we classify them
 
-## What the numbers show
+Once a company is in, the bigger question is: what kind of CDR company is it? This is where most of the work happens.
 
-The 973-company count is up from last month, but most of the delta is methodology, not industry motion. The Coresignal rebuild re-enriched every record, which means some companies that were previously filed under one pathway moved, and a handful of previously-excluded parents now show up as CDI. Treat pathway-level deltas this month as partially a reclassification artifact. Next month's update will be the first clean month-over-month comparison on the new taxonomy.
+We sort everything along two axes. The first is the **pathway** - the technology family the company belongs to. We use nine: DAC, BECCS, Biochar, Enhanced Weathering, Ocean CDR, Mineralization, Afforestation, Biomass Burial, and Enabling Tech (the measurement, software, and broker layer that makes the rest possible). These nine map to how the field actually thinks about itself; they are not a clever schema we invented.
 
-Focus-area drift (the 5-focus axis) is also noisier than usual for the same reason. We'd rather flag that now than pretend the numbers are clean.
+The second axis is the **focus type** we introduced this month, and it is the one that changes how the numbers should be read:
+
+- **Pure-play** means CDR is what the company is for. Climeworks. Charm. Heirloom. Most of what people picture when they say "CDR company".
+- **Division** means a unit inside a larger industrial parent does CDR, and we can isolate that unit. Think the carbon-capture business inside an oil major.
+- **Side-business** means CDR is a small bet alongside a much larger primary line. We keep these in but flag them, because their headcount is misleading.
+- **Ecosystem** means the company does not sell removals itself - it measures, verifies, brokers, finances, or registers them. The plumbing of the market.
+
+Why bother? Because almost every interesting question about the industry breaks down differently across these four. Workforce headcount only makes sense for pure-plays - a side-business with 50,000 employees doing one CDR project should not appear in a "DAC employs X people" chart. Funding announcements skew toward pure-plays and divisions. Verification capacity sits almost entirely in the ecosystem layer. So when you read a chart on the directory, it is usually showing one of these slices, not all of them.
+
+The classification itself is done by a language model that web-searches each candidate, reads the company's site, recent news, and any registry listings, and assigns the pathway and focus. We hold the model to a strict taxonomy (it cannot invent new pathways) and require it to record the URLs it relied on, so a human can audit a decision later. About one in eight companies still ends up in a "review needed" pile because the public evidence is genuinely ambiguous.
+
+## How we enrich the records
+
+Once a company is classified, we enrich the record so the directory is useful for more than just counting. Headcount and a 12-month employee trajectory come from a workforce-data provider. A live screenshot of the company's homepage is captured monthly so a stale or vanished site is visible at a glance. A founding-year proxy comes from when the company first registered its primary domain (imperfect but consistent). A short, plain-language description and a one-sentence technical note are written in a uniform voice so two companies in the same pathway are actually comparable.
+
+We refresh the whole database once a month. Mid-month, anyone can be added on demand if they show up in the news, but the full re-enrichment pass waits for the cycle.
 
 ## What we still don't trust
 
-- **Enabling-Tech parent inflation.** When a large industrial parent has one small CDR subsidiary, our enrichment sometimes pulls the parent's full headcount and revenue into the CDR figure. The CDI flag catches the 28 worst cases, but there are almost certainly more we haven't caught.
-- **Side-business headcount.** For companies where CDR is a side bet, "employees" is the total company headcount, not the CDR team. We have no clean way to separate these without manual review.
-- **Coverage gaps outside English.** We're still under-indexed on Japanese, Korean, and Portuguese-language CDR news, and weak on francophone Africa. The home-timeline harvester (PX-010) helps with social but doesn't fix the underlying source list.
+A few things are worth being upfront about.
 
-## Corrections
+**Side-business headcount.** When CDR is a small line inside a larger company, our employee number is the whole company - we have no clean way to isolate the CDR team without manual review. Treat side-business headcount as an upper bound, not a measurement.
 
-If we've miscategorised your company, missed a launch, or double-counted headcount, tell us. We're @captaindrawdown on Bluesky and the same on X. Corrections get into the next monthly refresh, and material ones get a note in the following update.
+**Coverage outside English.** We are still under-indexed in Japanese, Korean, and Portuguese-language CDR coverage, and weak on francophone Africa. Some real companies are almost certainly missing from this month's map for that reason alone.
+
+**The "Enabling Tech" boundary.** This is the hardest call. A pure software MRV company is clearly enabling-tech; a measurement company that also runs its own pilot site is fuzzier. We have drawn the line in roughly the same place the field's own conferences draw it, but reasonable people disagree.
+
+## Tell us when we are wrong
+
+If we have miscategorised your company, missed a launch, or counted you wrong, write to us. We are @captaindrawdown on Bluesky and the same on X. Corrections land in the next monthly refresh, and the material ones get a note in the following update.
