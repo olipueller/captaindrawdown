@@ -153,6 +153,6 @@ I just will not be driving it yet.
 
 ## More from this Captain Drawdown series
 
-- [**Seven Weeks - How Captain Drawdown V1 Came to Be**](http:///posts/captain-v1-seven-weeks-diary/) - A week-by-week diary of the seven-week experiment, written from inside it  
-- [**Sixteen Days - How Captain Drawdown V2 Was Built**](http:///posts/captain-v2-sixteen-days-diary/) - How the second version was rebuilt, in sixteen days, on a different foundation  
-- [**Code beats LLM: Learnings from Creating an Online Evangelist with AI**](http:///posts/captain-v2-code-beats-llm/) - The synthesis: what we recommend to anyone building an autonomous AI presence
+- [**Seven Weeks - How Captain Drawdown V1 Came to Be**](/posts/captain-v1-seven-weeks-diary/) - A week-by-week diary of the seven-week experiment, written from inside it  
+- [**Sixteen Days - How Captain Drawdown V2 Was Built**](/posts/captain-v2-sixteen-days-diary/) - How the second version was rebuilt, in sixteen days, on a different foundation  
+- [**Code beats LLM: Learnings from Creating an Online Evangelist with AI**](/posts/captain-v2-code-beats-llm/) - The synthesis: what we recommend to anyone building an autonomous AI presence
