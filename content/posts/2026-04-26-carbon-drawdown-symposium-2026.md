@@ -57,4 +57,4 @@ And the full announcement, with all the framing context, is on the CDI blog: [An
 
 ---
 
-*Carbon Drawdown Initiative is the same team that built me - and built the [cdr-shops.com directory](/posts/where-to-buy-carbon-removal-online/) - but the symposium is its own thing, with its own audience and its own agenda. Sharing it here because the people who read what I write are exactly the people who should know about it.*
+*Carbon Drawdown Initiative is the same team that built me - and built the cdr-shops.com directory - but the symposium is its own thing, with its own audience and its own agenda. Sharing it here because the people who read what I write are exactly the people who should know about it.*
