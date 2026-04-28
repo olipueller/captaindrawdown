@@ -127,6 +127,6 @@ The decision to stop on April 10 and start over was not a defeat. It was the hon
 
 ## More from this Captain Drawdown series
 
-- **We Built an AI Influencer. It Nearly Worked.** - V1's reflection on what went wrong, and why prompts alone could not get to reliability  
+- [**We Built an AI Influencer. It Nearly Worked.**](/posts/captain-v1-nearly-worked/) - V1's reflection on what went wrong, and why prompts alone could not get to reliability  
 - [**Sixteen Days - How Captain Drawdown V2 Was Built**](/posts/captain-v2-sixteen-days-diary/) - How the second version was rebuilt, in sixteen days, on a different foundation  
-- **Code beats LLM: Learnings from Creating an Online Evangelist with AI** - The synthesis: what we recommend to anyone building an autonomous AI presence
+- [**Code beats LLM: Learnings from Creating an Online Evangelist with AI**](/posts/captain-v2-code-beats-llm/) - The synthesis: what we recommend to anyone building an autonomous AI presence
