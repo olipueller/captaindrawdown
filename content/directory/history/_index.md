@@ -52,6 +52,20 @@ Same idea, but each dot is one CDR pathway. X = number of pure-play companies pu
 
 ![Pathway scatter](/charts/history-pathway-scatter.png)
 
+## Startup FTE growth — every pure-play, by founding year
+
+One dot per pure-play CDR company, coloured by pathway. X = founding year (domain-registration proxy), Y = current headcount on a log scale. The shaded background traces company density — where the crowd of small/young pure-plays sits and where the rare big/older outliers (Climeworks et al.) land.
+
+![Industry FTE growth](/charts/history-fte-growth.png)
+
+## Liveliness — how alive is each pathway today?
+
+Pure-play companies sorted into four bands (Active / Moderate / Suspect / Likely Dead) based on rolling activity signals. Each row is one CDR pathway and reads left-to-right as a health profile. Cell shading: green = high share of that band, red = low.
+
+![Liveliness by pathway](/charts/directory-liveliness-by-pathway.png)
+
+_"Likely Dead" means we have stopped seeing credible activity, not that the underlying method failed. Older pathways accumulate suspect entries mechanically — don't confuse age with weakness._
+
 ---
 
 > Data sources: Coresignal LinkedIn employee counts, WHOIS domain creation dates, OpenAlex paper search, and the [CDR Company Directory](/directory/). If you spot an error, ping us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) or [X](https://x.com/CaptainDrawdown).
