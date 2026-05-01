@@ -64,13 +64,15 @@ Two readings are useful. **The cloud's centre of mass is small and young** — m
 
 ![FTE growth](/charts/history-fte-growth.png)
 
-## Pathway health — share of headcount by liveliness tier
+## Pathway health — company size × liveliness
 
-Each row is one CDR pathway. The cells show **what share of that pathway's total LinkedIn headcount sits in each liveliness tier** (Active / Moderate / Suspect / Likely Dead). The colour map runs green → red so a glance at the first column tells you how much of the pathway's actual industrial capacity is in healthy companies.
+Each dot is **one pure-play CDR company**. The X-axis groups them by primary pathway; the Y-axis is current headcount on a log scale (ticks at 1, 5, 10, 50, 100 — companies above 100 FTE still appear, they just sit above the labelled gridlines). The grey violin shape behind each pathway shows where the bulk of that pathway's companies sit by size — fat where companies cluster, thin where they're rare. Dot colour encodes the **liveliness tier**: green = Active, yellow = Moderate, orange = Suspect, red = Likely Dead.
 
-Two design notes are worth flagging. **First**, the weighting is by employees, not by company count. A pathway with five large, alive operators and a hundred tiny dead startups will read as healthy here — because the headcount concentration is in the surviving operators — even though a company-count chart would show it half-buried in red. **Second**, *Liveliness* is a composite signal: cdrjobs postings, recent hiring activity from Coresignal, news-event matches in the last 90 days, and homepage liveness. It's re-evaluated monthly. A company doesn't need every signal to land in *Active*; it needs roughly one credible signal of a heartbeat. Companies with no positive signal **and** no fresh news evidence drift into Suspect or Likely Dead.
+Two readings combine into one picture. **The violin shape** tells you the size structure of each pathway: Biochar's violin sits low and wide (lots of small operators), while DAC's shape stretches taller (a wider spread between single-digit teams and 100-plus engineering programmes). **The dot colours** tell you which size bands carry the health: red dots concentrated near the bottom mean the pathway's likely-dead companies are mostly the tiny ones — noise in any health discussion — while red dots higher up would be a real warning sign about pathway-level fragility. Read the two together: a wide pathway with green dots at the top and red dots only at the bottom is healthier than a narrow pathway with the same red-to-green ratio overall.
 
-![Liveliness by pathway](/charts/directory-liveliness-by-pathway.png)
+**Liveliness** is a composite signal — cdrjobs postings, Coresignal hiring activity, news-event matches in the last 90 days, and homepage liveness — re-evaluated monthly. A company doesn't need every signal to land in *Active*; one credible heartbeat is enough. Companies with no positive signal **and** no fresh news evidence drift into Suspect or Likely Dead.
+
+![Pathway size × liveliness](/charts/directory-liveliness-by-pathway.png)
 
 ---
 
