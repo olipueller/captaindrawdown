@@ -32,6 +32,8 @@ Circular Carbon GmbH, founded in 2018, is a German biochar company and subsidiar
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://circular-carbon.com/en/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://circular-carbon.com/en/))

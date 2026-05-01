@@ -34,6 +34,8 @@ CyanoCapture is a UK biotech founded in January 2021 by David Kim and Samir Chit
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://cyanocapture.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.cyanocapture.com/))

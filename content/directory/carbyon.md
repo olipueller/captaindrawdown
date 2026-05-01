@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops modular \"fast-swing\" sorbent-based Direct Air Capture machines (Carbyon GO) with ultra-short ~90-second capture cycles, selling equipment to operators rather than running capture projects."
 url: "/directory/carbyon/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://carbyon.com/" target="_blank" rel="noopener">https://carbyon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbyon/" target="_blank" rel="noopener">carbyon — 10,859 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~45 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Carbyon is a Dutch DAC startup founded in 2019 as a spin-off from research insti
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a patented biomass pyrolysis process producing biochar and wood vinegar for agricultural soil amendment, with CDR credits registered on Puro.earth."
 url: "/directory/explocom-gk-srl/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Romania</td></tr>
   <tr><th>Website</th><td><a href="https://gekka.bio/" target="_blank" rel="noopener">https://gekka.bio/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Explocom GK SRL is a Romanian company based in Cristuru Secuiesc that started pr
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://gekka.bio/en/about-us/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

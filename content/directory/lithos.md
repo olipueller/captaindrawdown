@@ -34,6 +34,11 @@ Lithos Carbon is a San Francisco-based pure-play CDR supplier using Enhanced Roc
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-26** — news mention: Prof. Dong-Yeun Koh's team adapted the dry-electrode process used for EV batteries to make a sorbent ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkewfvw6rm27))
+- **2026-04-23** — news mention: ERW developer set to publish data amid critique of removal rate ([source](https://www.qcintel.com/carbon/article/erw-developer-set-to-publish-data-amid-critique-of-removal-rate-63373.html))
+- **2026-04-23** — news mention: Captain's CDR Log #112: CarbonPlan's Lithos review puts enhanced weathering's MRV on trial | Captain ([source](https://captaindrawdown.com/posts/captains-cdr-log-112/))
 - **2026-04-20** — news mention: Questions about Lithos’ first ERW credit issuance – CarbonPlan ([source](https://carbonplan.org/blog/lithos-first-issuance))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.lithoscarbon.com/))
 - **2026-04-19** — merged 1 duplicate(s): Lithos Carbon

@@ -5,7 +5,7 @@ type: "directory"
 description: "Designs modular solid-sorbent direct air capture systems (Leo Series) deployed at third-party CO2 storage hubs."
 url: "/directory/carboncapture-inc/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboncapture.com/" target="_blank" rel="noopener">https://www.carboncapture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-capture-inc/" target="_blank" rel="noopener">carbon-capture-inc — 14,211 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~43 (-31% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ CarbonCapture Inc. is a Los Angeles-based direct air capture technology company 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carboncapture.com/purchasing-crc))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carboncapture.com/newsroom/tnc-tamarack))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carboncapture.com/purchasing-crc))

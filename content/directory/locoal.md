@@ -5,7 +5,7 @@ type: "directory"
 description: "LOCOAL operates a proprietary induction-pyrolysis system (Rainmaker) that converts wood and biomass waste into biochar, syngas, and bio-oils, with an AI-based MRV platform (IMPCT.AI) for carbon"
 url: "/directory/locoal/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.locoal.com/" target="_blank" rel="noopener">https://www.locoal.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/locoal/" target="_blank" rel="noopener">locoal — 2,320 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~19 (-10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ LOCOAL is a Texas-based waste-to-energy climate-tech company running a biochar p
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

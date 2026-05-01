@@ -32,6 +32,8 @@ CORMETECH is a North Carolina-based manufacturer of Selective Catalytic Reductio
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=side_business liveliness=🟢 Active ([source](https://www.cormetech.com/))
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.cormetech.com/carbon-capture/))

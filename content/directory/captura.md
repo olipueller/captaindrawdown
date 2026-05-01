@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses proprietary bipolar-membrane electrodialysis to extract CO2 from seawater, allowing the ocean to re-absorb atmospheric CO2; captured CO2 is then permanently stored or reused."
 url: "/directory/captura/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://capturacorp.com/" target="_blank" rel="noopener">https://capturacorp.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capturaco2/" target="_blank" rel="noopener">capturaco2 — 15,800 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~82 (-4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Captura is a Pasadena, California-based Direct Ocean Capture company founded at 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://capturacorp.com/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://capturacorp.com/equinor-and-captura-validate-doc/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://capturacorp.com/))

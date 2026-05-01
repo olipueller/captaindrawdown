@@ -32,6 +32,8 @@ Groupe Bordet is a French industrial group based in Leuglay (Burgundy) that has 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))

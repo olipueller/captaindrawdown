@@ -28,6 +28,8 @@ Cardinal Ethanol is an Indiana-based corn ethanol producer (roughly 135-140 mill
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/vault-44-01-to-construct-first-ccs-project-in-indiana-with-epa-class-vi-permit-approval-302737596.html))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/vault-44-01-to-construct-first-ccs-project-in-indiana-with-epa-class-vi-permit-approval-302737596.html))

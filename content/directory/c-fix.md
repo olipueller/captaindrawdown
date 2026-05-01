@@ -5,7 +5,7 @@ type: "directory"
 description: "Conceptual solar-powered direct air capture using alkaline metal sorbents with electrolytic regeneration."
 url: "/directory/c-fix/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.remove-carbon.org/" target="_blank" rel="noopener">https://www.remove-carbon.org/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 20/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ C-Fix is a pre-seed concept for a solar-powered direct air capture system. The C
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.remove-carbon.org/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.remove-carbon.org/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.remove-carbon.org/))
 - **2026-04-19** — refresh: screenshot, liveliness

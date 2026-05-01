@@ -29,6 +29,8 @@ Sacurn Carbon is a Taiwan-based voluntary carbon credit developer and trader, no
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): Sacurn Carbon Co.,LTD
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active

@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses patented thermal gasification to convert high-ash organic wastes (biosolids, manure, digestate) into biochar, generating Puro.earth CORCs."
 url: "/directory/earthcare-solutions/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://earthcare-solutions.com/" target="_blank" rel="noopener">https://earthcare-solutions.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/earthcare-solutions-llc/" target="_blank" rel="noopener">earthcare-solutions-llc — 319 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,9 @@ Earthcare Solutions is a U.S. biochar producer that deploys patented gasificatio
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://earthcare-solutions.com/solutions/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.waste360.com/wastewater/earthcare-makes-biochar-from-wastewater-biosolids-and-msw-digestate))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.waste360.com/wastewater/earthcare-makes-biochar-from-wastewater-biosolids-and-msw-digestate))
 - **2026-04-19** — refresh: coresignal, liveliness

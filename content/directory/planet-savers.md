@@ -33,6 +33,8 @@ Planet Savers is a University of Tokyo spinout founded in July 2023, positioned 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://planetsavers.earth/Home-en))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://planetsavers.earth/Home-en))

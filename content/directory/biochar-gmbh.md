@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of PEFC/FSC-certified softwood chips into biochar for agricultural use (feed additive, manure stabilizer, soil improver), with syngas byproduct used for on-site power and heat."
 url: "/directory/biochar-gmbh/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://biochar-biokohle.de/" target="_blank" rel="noopener">https://biochar-biokohle.de/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ BIOCHAR GmbH & Co. KG is the Convoris subsidiary that produces and sells biochar
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](http://biochar-biokohle.de/ansprechpartner))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://www.biochar.de/unternehmen/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://www.biochar.de/unternehmen/))
 - **2026-04-19** — refresh: screenshot, liveliness

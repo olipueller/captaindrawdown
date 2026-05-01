@@ -29,6 +29,8 @@ Südwestdeutsche Salzwerke AG is a Heilbronn-based German salt producer (~1,000 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.syncraft.at/en/references/heilbronn/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.syncraft.at/news/rueckwaertskraftwerk-in-heilbronn/))

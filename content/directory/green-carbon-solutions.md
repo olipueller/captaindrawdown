@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of eucalyptus short-rotation woody crops in a 110-foot retort to produce biochar, activated carbon, and bio-oil, with process-emission heat recovery for closed-loop electricity."
 url: "/directory/green-carbon-solutions/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.greencarbonsolutions.com/" target="_blank" rel="noopener">https://www.greencarbonsolutions.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Green Carbon Solutions is an Indiantown, Florida climate-tech company founded by
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greencarbonsolutions.com/blog/biochar-basics---what-is-biochar))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.theepochtimes.com/us/south-florida-biochar-plant-poised-to-be-key-for-domestic-silicon-chip-makers-5827011))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.theepochtimes.com/us/south-florida-biochar-plant-poised-to-be-key-for-domestic-silicon-chip-makers-5827011))
 - **2026-04-19** — refresh: screenshot, liveliness

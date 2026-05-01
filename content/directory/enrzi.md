@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes biomass into biochar for use as a soil amendment and carbon sequestration."
 url: "/directory/enrzi/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.enrzi.com/" target="_blank" rel="noopener">https://www.enrzi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enrzibio/" target="_blank" rel="noopener">enrzibio</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Enrzi is an India-based biochar venture that converts biomass into carbon-rich c
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.enrzi.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.enrzi.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.enrzi.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

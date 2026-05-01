@@ -5,7 +5,7 @@ type: "directory"
 description: "Markets biochar-based carbon removals produced by parent Standard Gas's SG100 pyrolysis/advanced thermal cracking of non-recyclable municipal waste, with char sequestered in construction materials"
 url: "/directory/carbon-char-store/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://carboncharstore.com/" target="_blank" rel="noopener">https://carboncharstore.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-char-store/" target="_blank" rel="noopener">carbon-char-store — 546 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -30,6 +30,9 @@ Carbon Char Store (CCS) is the UK-based carbon-removals sales and marketing arm 
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://carboncharstore.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://carboncharstore.com/))

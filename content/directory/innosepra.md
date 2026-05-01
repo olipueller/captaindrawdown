@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops physical-sorbent-based DAC and post-combustion CO2 capture processes targeting sub-4 GJ/tonne energy consumption, demonstrated at bench/pilot scale under multiple DOE SBIR and NETL awards."
 url: "/directory/innosepra/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.innosepra.com/" target="_blank" rel="noopener">https://www.innosepra.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/innosepra/" target="_blank" rel="noopener">innosepra — 11 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ InnoSepra LLC is a New Jersey-based R&D company founded by Dr. Ravi Jain that de
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://nationalcarboncapturecenter.com/developers-direct-air-capture-technologies/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.innosepra.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.innosepra.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

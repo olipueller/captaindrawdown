@@ -5,7 +5,7 @@ type: "directory"
 description: "Waste-to-energy combustion of municipal solid waste with amine-based post-combustion carbon capture and geological storage in Alberta's deep saline aquifers, generating BECCS credits from the"
 url: "/directory/varme/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.varme.ca/" target="_blank" rel="noopener">https://www.varme.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/varme-energy/" target="_blank" rel="noopener">varme-energy — 3,932 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~12 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Varme Energy is a Canadian developer (subsidiary of Norway's Varme Energy AS) bu
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://esgnews.com/carbon-direct-varme-energy-partner-on-canadas-first-waste-to-energy-with-carbon-capture-project/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbon-direct.com/press/carbon-direct-varme-energy))
 - **2026-04-19** — merged 1 duplicate(s): Varme Energy
 - **2026-04-19** — refresh: coresignal, liveliness

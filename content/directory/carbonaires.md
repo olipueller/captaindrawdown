@@ -30,6 +30,7 @@ Carbonaires is a London-based carbon asset management and finance firm that stru
 
 ## History
 
+- **2026-04-30** — news mention: In A New RFP, Carbonaires To Bring Offtake-Backed Financing Into High-Quality Removals ([source](https://carbonherald.com/in-a-new-rfp-carbonaires-to-bring-offtake-backed-financing-into-high-quality-removals/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-rfp-carbonaires-to-bring-offtake-backed-financing-into-high-quality-removals))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://carbonaires.com/))

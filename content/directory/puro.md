@@ -33,6 +33,11 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-29** — news mention: #bioco2 #carbonremoval #cdr #beccs #crcf #climatepolicy #helsinki | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7455239786749071360/))
+- **2026-04-24** — news mention: #carbonremoval #cdr #northernlights #ccs #beccs #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453428210014425088/))
+- **2026-04-23** — news mention: #earthday #carbonremoval #cdr #corcs #climateaction | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7452718002984321026/))
 - **2026-04-22** — news mention: CDR Buyers: A Maturing Market | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452341544663277569/))
 - **2026-04-19** — merged 2 duplicate(s): Puro.earth, Bordet
 - **2026-04-19** — refresh: coresignal

@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops and licenses a low-sorbent, low-pressure-drop contactor for direct air capture alongside non-CDR diesel emission control technologies (NOx mixer and catalytic converter)."
 url: "/directory/emissol/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.emissol.com/" target="_blank" rel="noopener">https://www.emissol.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ Emissol is a small R&D firm founded in 2013 and headquartered in Bothell (Mill C
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.emissol.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

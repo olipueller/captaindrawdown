@@ -28,6 +28,8 @@ Toshiba Energy Systems & Solutions (Toshiba ESS) is the energy-systems arm of To
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.global.toshiba/ww/news/energy/2020/10/news-20201031-01.html))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.global.toshiba/ww/news/energy/2020/10/news-20201031-01.html))

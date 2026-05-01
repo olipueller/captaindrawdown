@@ -5,7 +5,7 @@ type: "directory"
 description: "Slow pyrolysis of sustainably harvested hardwood sawmill residues (chips, sawdust, bark) producing high-carbon (70-95%) biochar, including a micronized/exfoliated grade for industrial applications."
 url: "/directory/haliburton-forest-biochar/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.haliburtonforestbiochar.com/" target="_blank" rel="noopener">https://www.haliburtonforestbiochar.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -26,6 +26,9 @@ Haliburton Forest Biochar (HFB) is a subsidiary of Haliburton Forest & Wild Life
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.ontario.ca/page/2025-interim-report-forest-biomass-action-plan))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.haliburtonforestbiochar.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.ontario.ca/page/2025-interim-report-forest-biomass-action-plan))

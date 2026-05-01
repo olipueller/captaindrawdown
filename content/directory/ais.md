@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of orchard prunings, landscaping biomass and forest residues into biochar, with the heat feeding a local heating network at the Kastanienhof site."
 url: "/directory/ais/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://arbeit-in-selbsthilfe.de/" target="_blank" rel="noopener">https://arbeit-in-selbsthilfe.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbeit-in-selbsthilfe-ais-ggmbh/" target="_blank" rel="noopener">arbeit-in-selbsthilfe-ais-ggmbh — 7 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~6 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -28,6 +28,9 @@ AiS (Arbeit in Selbsthilfe gGmbH) is a German non-profit inclusion enterprise in
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://arbeit-in-selbsthilfe.de/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://arbeit-in-selbsthilfe.de/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://arbeit-in-selbsthilfe.de/pyrolyse-und-heizzentrale/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

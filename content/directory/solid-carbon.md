@@ -30,6 +30,8 @@ Solid Carbon is a Canadian research initiative led by Ocean Networks Canada (a U
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-20** — news mention: Transforming natural waste into biochar for sustainable environmental remediation | Discover Environ ([source](https://link.springer.com/article/10.1007/s44274-026-00701-8))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://solidcarbon.ca/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://solidcarbon.ca/))

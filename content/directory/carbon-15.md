@@ -5,7 +5,7 @@ type: "directory"
 description: "Reportedly developing solid-sorbent direct air capture systems to remove CO2 from ambient air."
 url: "/directory/carbon-15/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon15.eu/" target="_blank" rel="noopener">https://www.carbon15.eu/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Carbon 1.5 is a France-based direct air capture startup said to be developing so
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.carbon15.eu/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon15.eu/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon15.eu/))
 - **2026-04-19** — refresh: liveliness

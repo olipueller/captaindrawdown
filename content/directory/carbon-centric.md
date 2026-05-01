@@ -29,6 +29,8 @@ Carbon Centric is a Norwegian carbon-capture developer founded in 2021 that buil
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carboncentric.no/en/rakkestad-ccus))
 - **2026-04-19** — merged 2 duplicate(s): Carbon Centric AS, Carbon Centric (SOLER Group)
 - **2026-04-19** — refresh: coresignal, liveliness

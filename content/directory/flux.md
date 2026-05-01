@@ -30,6 +30,10 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-29** — news mention: An Analytic Threshold for LESA-Driven Negative ELN Flux Directions in Core-Collapse Supernovae: Deri ([source](https://arxiv.org/abs/2604.21081v2))
+- **2026-04-23** — news mention: Captain's CDR Log #112: CarbonPlan's Lithos review puts enhanced weathering's MRV on trial | Captain ([source](https://captaindrawdown.com/posts/captains-cdr-log-112/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.fluxcarbon.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Flux Carbon
 - **2026-04-19** — refresh: coresignal

@@ -13,7 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://ead.darmstadt.de/" target="_blank" rel="noopener">https://ead.darmstadt.de/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wissenschaftsstadt-darmstadt/" target="_blank" rel="noopener">wissenschaftsstadt-darmstadt — 2,082 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~248 (+27% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -26,6 +28,8 @@ EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is the municipal
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: The LinkedIn slug "wissenschaftsstadt-darmstadt" represents the entire City of Darmstadt municipal government, not the EAD waste-management Eigenbetrieb specifically. While EAD is legally an Eigenbetr
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://ead.darmstadt.de/aktuelles/detail/bodenverbesserer-tierfutter-duengemittel-darmstaedter-pflanzenkohle-erhaelt-internationale-zertifika/))
 - **2026-04-19** — refresh: coresignal

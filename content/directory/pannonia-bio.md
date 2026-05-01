@@ -28,6 +28,8 @@ Pannonia Bio is Europe's largest single-site grain biorefinery in Dunaföldvár,
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://danubecarbon.com/about-us))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://danubeenergy.com/danube-removals/))

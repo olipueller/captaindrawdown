@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes coconut shell/husk biomass in the Philippines into stable biochar for long-term carbon storage, selling BCR credits at $199/tonne."
 url: "/directory/biochar-earth/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://biochar.earth" target="_blank" rel="noopener">https://biochar.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-earth/" target="_blank" rel="noopener">biochar-earth — 219 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Biochar Earth is a biochar carbon removal (BCR) supplier focused on converting c
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.linkedin.com/company/biochar-earth/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.earth/what-is-biochar-and-why-it-matters-for-permanent-carbon-dioxide-removal-cdr/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar.earth))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Applies crushed silicate minerals (olivine) to green roofs and garden soils to permanently remove atmospheric CO2 via enhanced rock weathering."
 url: "/directory/carbon-neutral-initiative/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://carbon-neutral-initiative.com/" target="_blank" rel="noopener">https://carbon-neutral-initiative.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-neutral-initiative/" target="_blank" rel="noopener">carbon-neutral-initiative — 1,244 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Carbon Neutral Initiative (CNI) is a Dutch company founded by Robert van der Lui
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbon-neutral-initiative.com/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://carbon-neutral-initiative.com/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://carbon-neutral-initiative.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

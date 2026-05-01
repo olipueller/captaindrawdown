@@ -33,6 +33,8 @@ InterEarth is a Western Australian pure-play CDR startup pursuing woody biomass 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.inter.earth/whatwedo))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-july-24))

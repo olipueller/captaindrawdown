@@ -8,18 +8,18 @@ url: "/directory/biomass-burial/"
 
 # Biomass Burial — 31 Companies Tracked
 
-**Market pulse for Biomass Burial (updated 2026-04-22).**
+**Market pulse for Biomass Burial (updated 2026-05-01).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">31</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">25</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">18</span><span class="label">🟢 Active</span></div>
   <div class="stat-box"><span class="num" style="color:#eab308">5</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">0</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">1</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">2</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">6</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">475</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">492</span><span class="label">Total employees (lower bound)</span></div>
   <div class="stat-box"><span class="num">28/31</span><span class="label">Companies with headcount data</span></div>
 </div>
 
@@ -29,12 +29,12 @@ url: "/directory/biomass-burial/"
 - [Vaulted Deep](/directory/vaulted-deep/) — 57 employees
 - [Plantd Materials](/directory/plantd-materials/) — 52 employees
 - [Mast Reforestation](/directory/mast-reforestation/) — 43 employees
+- [Levitree](/directory/levitree/) — 28 employees
 - [Terranova](/directory/terranova/) — 28 employees
 - [Graphyte](/directory/graphyte/) — 21 employees
 - [Ekovilla](/directory/ekovilla/) — 20 employees
 - [Ecological Carbon Offset Partners](/directory/ecological-carbon-offset-partners/) — 19 employees
 - [Kodama Systems](/directory/kodama-systems/) — 18 employees
-- [Cowboy Clean Fuels](/directory/cowboy-clean-fuels/) — 15 employees
 
 ## All Biomass Burial companies
 

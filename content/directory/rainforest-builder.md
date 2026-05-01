@@ -29,6 +29,8 @@ Founded in 2022, Rainforest Builder is a fully integrated tropical forest restor
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.rainforestbuilder.com/post/rainforest-builder-sells-carbon-removal-credits-to-microsoft-from-project-buffalo-in-sierra-leone))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.rainforestbuilder.com/post/rainforest-builder-sells-carbon-removal-credits-to-microsoft-from-project-buffalo-in-sierra-leone))

@@ -29,6 +29,8 @@ Forge Minerals is an Edinburgh-based deep-tech startup incorporated in June 2024
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.scottish-enterprise-mediacentre.com/news/forge-minerals-completes-gbp-1m-pre-seed-funding-round-and-opens-first-laboratory-in-edinburgh))
 - **2026-04-19** — merged 1 duplicate(s): Forge Minerals Limited
 - **2026-04-19** — refresh: coresignal, screenshot

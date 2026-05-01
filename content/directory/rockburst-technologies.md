@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses pressurized/transcritical CO₂ to fracture mining ore from within, cutting comminution energy while mineralizing CO₂ into tailings as stable carbonates."
 url: "/directory/rockburst-technologies/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.rockburst.tech/" target="_blank" rel="noopener">https://www.rockburst.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockburst-technologies/" target="_blank" rel="noopener">rockburst-technologies — 496 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBur
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://foresightcac.com/article/rockburst-technologies-spotlight))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.rockburst.tech/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.rockburst.tech/))
 - **2026-04-19** — refresh: coresignal, liveliness

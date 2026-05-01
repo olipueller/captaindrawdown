@@ -29,6 +29,8 @@ ARC (Amager Resource Center) is a Danish inter-municipal waste management compan
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))

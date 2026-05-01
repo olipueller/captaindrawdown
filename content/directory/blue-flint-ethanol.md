@@ -28,6 +28,8 @@ Blue Flint Ethanol is a corn ethanol biorefinery near Underwood, North Dakota, o
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20240905948295/en/Harvestone-Low-Carbon-Partners-and-Bank-of-America-Close-205-Million-Carbon-Capture-and-Sequestration-Tax-Equity-Financing))
 - **2026-04-19** — merged 1 duplicate(s): Harvestone
 - **2026-04-19** — refresh: coresignal, screenshot

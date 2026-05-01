@@ -5,7 +5,7 @@ type: "directory"
 description: "Fanless cryogenic DAC (\"Reverse Fractionation\") that uses liquid nitrogen heat exchangers to super-cool ambient air, liquefying and separating CO2 as dry ice while recovering thermal energy through a"
 url: "/directory/atmosfuture-limited/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.atmosfuture.co.uk/" target="_blank" rel="noopener">https://www.atmosfuture.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atmosfutureltd/" target="_blank" rel="noopener">atmosfutureltd — 620 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Atmosfuture Limited is a UK early-stage startup developing REVFRACC, a patented 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.atmosfuture.co.uk/))
 - **2026-04-19** — merged 1 duplicate(s): Atmosfuture
 - **2026-04-19** — refresh: coresignal

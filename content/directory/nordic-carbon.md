@@ -5,7 +5,7 @@ type: "directory"
 description: "Designs, builds, and operates pyrolysis facilities that convert waste biomass into stable biochar for carbon sequestration and soil amendment, with MRV and carbon credit generation."
 url: "/directory/nordic-carbon/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.nordiccarbon.dk/" target="_blank" rel="noopener">https://www.nordiccarbon.dk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nordic-carbon/" target="_blank" rel="noopener">nordic-carbon — 526 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~9</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Nordic Carbon is a Danish biochar developer that sources biomass residues and de
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nordiccarbon.dk/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nordiccarbon.dk/))
 - **2026-04-19** — refresh: coresignal, liveliness

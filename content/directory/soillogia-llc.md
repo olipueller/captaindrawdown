@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of waste biomass (sewage sludge, invasive species, municipal organics) into biochar applied to soil for durable carbon storage and regenerative agriculture."
 url: "/directory/soillogia-llc/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://soillogia.com/" target="_blank" rel="noopener">https://soillogia.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soillogia-llc/" target="_blank" rel="noopener">soillogia-llc — 165 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+300% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ SoilLogia LLC is a Delaware-based climate-tech startup that converts organic was
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://soillogia.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://soillogia.com/))

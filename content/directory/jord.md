@@ -29,6 +29,8 @@ Jord AB (formerly Skymining) is a Swedish company founded in 2017 and headquarte
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.jord.one/news/jord-secures-300-hectares-for-flagship-biofuel-project-in-senegal))
 - **2026-04-19** — merged 1 duplicate(s): Jord. AB
 - **2026-04-19** — refresh: coresignal

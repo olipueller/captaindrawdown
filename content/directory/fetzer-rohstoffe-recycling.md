@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of wood chips and spelt husks at 550–720°C to produce EBC-certified biochar for agricultural and animal-husbandry markets."
 url: "/directory/fetzer-rohstoffe-recycling/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.moola-pflanzenkohle.de" target="_blank" rel="noopener">https://www.moola-pflanzenkohle.de</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ FETZER Rohstoffe + Recycling GmbH is a recycling company in Eislingen, Germany, 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://fyi-pk-big.de/fetzer-rohstoffe-recycling-gmbh/))
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Biochar Zero (biochar-zero.com) is a biochar industry platform/directory that lists FETZER Rohstoffe + Recycling as one of many companies in its database. They are separate entities — FETZER is a Germ
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.moola-pflanzenkohle.de/))
 - **2026-04-19** — merged 2 duplicate(s): Moola Pflanzenkohle, Fetzer Rohstoffe

@@ -5,7 +5,7 @@ type: "directory"
 description: "Biomass gasification of forestry residues into green methanol, with ~1 Mt/yr of biogenic CO2 captured and permanently sequestered (BECCS co-product)."
 url: "/directory/beaver-lake-renewable-energy/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://beaverlakerenewable.com/" target="_blank" rel="noopener">https://beaverlakerenewable.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Beaver Lake Renewable Energy LLC is a wholly-owned subsidiary of SunGas Renewabl
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://beaverlakerenewable.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

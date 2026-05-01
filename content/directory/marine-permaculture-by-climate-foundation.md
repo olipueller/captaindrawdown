@@ -5,7 +5,7 @@ type: "directory"
 description: "Submersible seaweed cultivation platforms with renewable-powered deep-water upwelling pumps; harvested biomass yields products plus residual carbon-rich pulp sunk to the abyssal seafloor for"
 url: "/directory/marine-permaculture-by-climate-foundation/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.climatefoundation.org/" target="_blank" rel="noopener">https://www.climatefoundation.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-climate-foundation/" target="_blank" rel="noopener">the-climate-foundation — 2,747 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~19</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ The Climate Foundation is a US-based 501(c)(3) nonprofit, founded and led by Dr.
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.climatefoundation.org/marine-permaculture.html))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

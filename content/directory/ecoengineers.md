@@ -5,7 +5,7 @@ type: "directory"
 description: "Third-party verification, auditing, MRV, and advisory services for low-carbon fuels and carbon removal/offset projects across voluntary and compliance markets."
 url: "/directory/ecoengineers/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ecoengineers.us/" target="_blank" rel="noopener">https://www.ecoengineers.us/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoengineers/" target="_blank" rel="noopener">ecoengineers — 12,858 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~104 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -29,6 +29,11 @@ EcoEngineers is a Des Moines, Iowa-based consulting, auditing, and advisory firm
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-29** — news mention: Agreed on residual-only framing. The Gulf of Maine ocean alkalinity trial showed measurable CO2 upta ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkmoi42k4y2w))
+- **2026-04-28** — news mention: Ongoing Dilligence: Chasing Offtake In Carbon Removal Today ([source](https://carbonherald.com/ongoing-dilligence-chasing-offtake-in-carbon-removal-today/?utm_source=rss&utm_medium=rss&utm_campaign=ongoing-dilligence-chasing-offtake-in-carbon-removal-today))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.ecoengineers.us/))

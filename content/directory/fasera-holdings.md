@@ -5,7 +5,7 @@ type: "directory"
 description: "Steam-distills eucalyptus oil from mallee plantations, then pyrolyzes the spent biomass into biochar and wood vinegar, generating CORCs under Puro.earth and ACCUs from reforestation."
 url: "/directory/fasera-holdings/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://fasera.com/" target="_blank" rel="noopener">https://fasera.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fasera/" target="_blank" rel="noopener">fasera — 235 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -32,6 +32,9 @@ Fasera Holdings is an Australian company founded in 2005 that operates oil malle
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://fasera.com/products/biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://fasera.com/))
 - **2026-04-19** — merged 1 duplicate(s): Fasera Holdings Pty Ltd
 - **2026-04-19** — refresh: coresignal, liveliness

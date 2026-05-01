@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses retort kiln technology to convert invasive acacia encroacher bush into certified biochar applied to Namibian agricultural soils for durable carbon removal."
 url: "/directory/carbon-capital/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Namibia</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboncapital.com.na/" target="_blank" rel="noopener">https://www.carboncapital.com.na/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncapitalnamibia/" target="_blank" rel="noopener">carboncapitalnamibia — 405 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Carbon Capital is a Namibian bioeconomy company established in 2020 by Cirrus Ca
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))

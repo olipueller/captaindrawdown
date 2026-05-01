@@ -5,7 +5,7 @@ type: "directory"
 description: "Early-stage Indian startup developing a liquid-solvent Direct Air Capture pilot, planning India's first DAC facility near Hyderabad targeting up to 8 tCO2/day, with both permanent sequestration and"
 url: "/directory/carbon-square/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://carbonsqr.com/" target="_blank" rel="noopener">https://carbonsqr.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonsqr/" target="_blank" rel="noopener">carbonsqr</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ CarbonSQR is planning India's first pilot DAC facility near Hyderabad, expected 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://carbonsqr.com/careers))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://carbonsqr.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://carbonsqr.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

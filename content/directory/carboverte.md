@@ -5,7 +5,7 @@ type: "directory"
 description: "Processes biomass via pyrolysis into biochar and sells biochar-based soil amendments, feed additives, and consumer products for agriculture, livestock, and gardening applications."
 url: "/directory/carboverte/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carboverte.de/" target="_blank" rel="noopener">https://carboverte.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboverte-gmbh/" target="_blank" rel="noopener">carboverte-gmbh</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ CarboVerte GmbH is a trading company of biochar-based products located in Eibens
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://carboverte.de/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carboverte.de/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carboverte.de/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

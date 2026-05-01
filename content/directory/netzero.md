@@ -32,6 +32,9 @@ NetZero is a French biochar company founded in 2021 and headquartered in Paris t
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-28** — news mention: Plenary Session 10 at #Prakriti2026 highlighted how empowering farmers in the carbon economy through ([source](https://x.com/Prakriti_2026/status/2049020578645107088))
 - **2026-04-22** — news mention: #sfcw2026 #carbonremoval #cdr #climateaction #netzero | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452232565496836096/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.xprize.org/prizes/carbonremoval/articles/xprize-makes-history-awards-100m-prize-for-groundbreaking-carbon-removal-solutions))
 - **2026-04-19** — refresh: coresignal

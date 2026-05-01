@@ -5,7 +5,7 @@ type: "directory"
 description: "Torrefaction technology that thermally converts waste wood and biomass residues into bio-carbon/bio-coal used as a fossil-coal substitute in steel blast furnaces and as biochar for carbon"
 url: "/directory/torrcoal/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.torrcoal.com/" target="_blank" rel="noopener">https://www.torrcoal.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/torr-coal-international-bv/" target="_blank" rel="noopener">torr-coal-international-bv</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 20/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-29% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -29,6 +29,9 @@ TorrCoal was a Belgian torrefaction-technology specialist founded in 2005 in Dil
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟠 Suspect ([source](https://tracxn.com/d/companies/torrcoal/__U_kCQfLncycFZXT1I27gV_53W07nOfpN91YLPeAiRK8/funding-and-investors))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🔴 Likely Dead ([source](https://www.torrcoal.com/about-torrcoal/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟠 Suspect ([source](https://perpetualnext.com/en/news/press-release-perpetual-next-integrates-torrcoal-to-form-the-largest-global-player-in-sustainable-technology-to-replace-fossil-coal/))

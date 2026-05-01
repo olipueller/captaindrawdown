@@ -5,7 +5,7 @@ type: "directory"
 description: "Project development venture/systems integrator aggregating renewable geothermal power, basalt mineralization storage, land, and third-party DAC technology partners to build DAC+S industrial hubs in"
 url: "/directory/great-carbon-valley/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.greatcarbonvalley.com/" target="_blank" rel="noopener">https://www.greatcarbonvalley.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/great-carbon-valley/" target="_blank" rel="noopener">great-carbon-valley — 1,350 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Great Carbon Valley (GCV) is a Kenyan project development venture and systems in
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.third-derivative.org/portfolio/great-carbon-valley))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.greatcarbonvalley.com/news-and-insights))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.greatcarbonvalley.com/news-and-insights))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

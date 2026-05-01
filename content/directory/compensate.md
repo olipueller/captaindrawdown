@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon credit retailer/broker that vets and bundles third-party offset and removal projects (mostly nature-based, ~20% engineered including biochar) into its branded \"Compensate Credit\" with built-in"
 url: "/directory/compensate/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.compensate.com/" target="_blank" rel="noopener">https://www.compensate.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -28,6 +28,10 @@ Compensate is a Helsinki-based carbon offset broker/retailer that curates a port
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-29** — news mention: Import-Dependent Grain Processing Hubs: The Case of Türkiye's Flour Sector ([source](https://arxiv.org/abs/2604.17946v1))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.compensate.com/about-us/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.compensate.com/ ([source](https://www.cdr.fyi/marketplace/compensate))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/compensate))

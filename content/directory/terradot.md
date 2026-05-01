@@ -30,6 +30,8 @@ Terradot was founded in 2022 at Stanford and runs scaled ERW operations in Brazi
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-21** — news mention: #sfcw | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:share:7452087946192609280/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://terradot.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot

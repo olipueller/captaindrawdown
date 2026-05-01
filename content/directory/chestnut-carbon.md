@@ -33,6 +33,9 @@ Chestnut Carbon is a New York-based pure-play nature-based carbon removal develo
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-23** — news mention: Chestnut Carbon Succesfully Completes Its Largest U.S. Tree Planting Operation To Date ([source](https://carbonherald.com/chestnut-carbon-succesfully-completes-its-largest-u-s-tree-planting-operation-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=chestnut-carbon-succesfully-completes-its-largest-u-s-tree-planting-operation-to-date))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://chestnutcarbon.com/news-resources/chestnut-carbon-raises-an-additional-90-million-for-series-b/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://chestnutcarbon.com/news-resources/chestnut-carbon-scales-up-nature-based-carbon-removal-with-largest-afforestation-project-in-the-u-s/))

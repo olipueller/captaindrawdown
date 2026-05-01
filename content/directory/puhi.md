@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a pyrolysis facility converting wood- and agriculture-based biomass side streams (notably demolition wood) into biochar, with byproduct district heating and BCR carbon credits."
 url: "/directory/puhi/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.puhi.fi/" target="_blank" rel="noopener">https://www.puhi.fi/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/puhi/" target="_blank" rel="noopener">puhi — 1,429 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ PUHI is a Finland-based biochar and carbon removal company operating its first p
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.puhi.fi/news/puhi-receives-environmental-permit))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.puhi.fi/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.puhi.fi/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

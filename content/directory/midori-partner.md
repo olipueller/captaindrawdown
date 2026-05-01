@@ -34,6 +34,8 @@ Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer sp
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://midori-partner.com/))
 - **2026-04-19** — merged 1 duplicate(s): Midori Climate Partner Pre. Ltd.
 - **2026-04-19** — refresh: coresignal, liveliness

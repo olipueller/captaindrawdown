@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses a proprietary zero-emission limestone kiln and low-intensity air contactor to cycle lime/limestone, capturing atmospheric CO2 and producing a pure CO2 stream for permanent underground storage."
 url: "/directory/origen/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.origencarbon.com/" target="_blank" rel="noopener">https://www.origencarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/origen-power/" target="_blank" rel="noopener">origen-power — 4,074 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~86</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Origen (Origen Power Limited) is a UK/US climate-technology company headquartere
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.origencarbon.com/news/origen-series-a/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.origencarbon.com/news/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.origencarbon.com/news/completing-the-loop-origen-commissions-proprietary-air-contactor/))
 - **2026-04-19** — refresh: coresignal, liveliness

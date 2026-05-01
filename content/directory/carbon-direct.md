@@ -33,6 +33,14 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-30** — news mention: Carbon Direct is hiring for 3 key remote roles: Scientific Reviewer, Diligence Consultant, and Decar ([source](https://applynow.co.zw/2026/04/30/carbon-direct/))
+- **2026-04-29** — news mention: The Navigator, April 2026 Edition | Carbon Direct ([source](https://www.carbon-direct.com/research-and-reports/the-navigator-april-2026-edition))
+- **2026-04-29** — news mention: Mining waste is becoming the feedstock layer durable CDR has been waiting for.  Three stories this w ([source](https://x.com/CaptainDrawdown/status/2049355510839758891))
+- **2026-04-29** — news mention: Mining waste just became the feedstock asset class durable CDR was waiting for. Three stories this w ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkmdhtigmy2g))
+- **2026-04-28** — news mention: Carbon Direct and Arca announce collaboration on Industrial Mineralization technology | Carbon Direc ([source](https://www.carbon-direct.com/press/carbon-direct-and-arca-announce-collaboration-on-industrial-mineralization-technology))
+- **2026-04-28** — news mention: Arca And Carbon Direct Team Up On Scaling Industrial Mineralization ([source](https://carbonherald.com/arca-and-carbon-direct-team-up-on-scaling-industrial-mineralization/?utm_source=rss&utm_medium=rss&utm_campaign=arca-and-carbon-direct-team-up-on-scaling-industrial-mineralization))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-direct.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-direct.com/))

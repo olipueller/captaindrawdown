@@ -5,7 +5,7 @@ type: "directory"
 description: "Prospective biochar production from agricultural residues in Ghana, listed on Puro.earth in early-development/feasibility phase with no CORCs issued to date."
 url: "/directory/sanbra-foods/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Ghana</td></tr>
   <tr><th>Website</th><td><a href="https://sanbrafoods-ghana.com/" target="_blank" rel="noopener">https://sanbrafoods-ghana.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sanbrafoods/" target="_blank" rel="noopener">sanbrafoods</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Sanbra Foods Ghana is an agricultural services company providing soil testing, p
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/sanbra-foods-biochar-161))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/sanbra-foods-biochar-161))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://sanbrafoods-ghana.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

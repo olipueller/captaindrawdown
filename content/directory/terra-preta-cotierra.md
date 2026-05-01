@@ -5,7 +5,7 @@ type: "directory"
 description: "Mobile, on-farm pyrolysis reactors that convert coffee/cacao residues into biochar applied back to soils, with IoT-based MRV and Global Artisan C-Sink methodology certification."
 url: "/directory/terra-preta-cotierra/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.cotierra.com/" target="_blank" rel="noopener">https://www.cotierra.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-preta-carbon/" target="_blank" rel="noopener">terra-preta-carbon — 5,103 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~16</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,6 +34,9 @@ Cotierra (formerly Terra Preta) is a Swiss-Colombian ClimateTech startup, headqu
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cotierra.com/))
 - **2026-04-19** — merged 1 duplicate(s): Cotierra
 - **2026-04-19** — refresh: coresignal

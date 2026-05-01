@@ -31,6 +31,8 @@ Ecoera is a Swedish biochar carbon removal company founded at Chalmers Ventures 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://ecoera.se/))
 - **2026-04-19** — merged 1 duplicate(s): Ecoera AB
 - **2026-04-19** — refresh: coresignal, liveliness

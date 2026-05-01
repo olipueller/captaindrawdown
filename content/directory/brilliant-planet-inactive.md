@@ -5,7 +5,7 @@ type: "directory"
 description: "Grew local marine microalgae strains in open-air seawater raceway ponds in coastal desert Morocco, spray-dried the biomass into hypersaline flakes, and buried it underground in engineered dry-tomb"
 url: "/directory/brilliant-planet-inactive/"
 pathway: "Biomass Burial"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.brilliantplanet.com" target="_blank" rel="noopener">https://www.brilliantplanet.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brilliantplanet/" target="_blank" rel="noopener">brilliantplanet</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~14 (-48% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Brilliant Planet was a London-headquartered startup (founded 2013) that grew mar
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🔴 Likely Dead ([source](https://below280.com/project/independent-assessment-of-the-brilliant-planet-microalgae-carbon-capture-facility-in-morocco/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate

@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses a proprietary liquid-spray airflow approach (instead of filters) that binds CO2 molecules and removes the spray from airflow, designed with aerospace engineering principles for low"
 url: "/directory/gigadac/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.gigadac.org/" target="_blank" rel="noopener">https://www.gigadac.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gigadac/" target="_blank" rel="noopener">gigadac — 250 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ GigaDAC (legal name Victory Over Carbon Inc.) is a Houston-based direct air capt
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
 - **2026-04-19** — merged 1 duplicate(s): GigaDAC/Victory Over Carbon
 - **2026-04-19** — refresh: coresignal, screenshot

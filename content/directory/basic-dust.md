@@ -5,7 +5,7 @@ type: "directory"
 description: "Applies finely pulverized alkaline rock powder to water bodies and agricultural land to mineralize atmospheric CO2 into bicarbonates for durable removal, with co-benefits of reducing water acidity."
 url: "/directory/basic-dust/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://basicdust.com/" target="_blank" rel="noopener">https://basicdust.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ Basic Dust is a US-based enhanced weathering project developer that deploys alka
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://basicdust.com/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://basicdust.com/))
 - **2026-04-19** — merged 1 duplicate(s): Basic Dust SPC Inc
 - **2026-04-19** — refresh: screenshot, liveliness

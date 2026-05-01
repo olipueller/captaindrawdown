@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a 2 MT/hr two-layer rotary drum kiln pyrolysis plant in Ghana's Western Region, converting waste coconut husks sourced from smallholder farmers into Puro.earth-certified biochar used as soil"
 url: "/directory/truecoco-ghana/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Ghana</td></tr>
   <tr><th>Website</th><td><a href="https://www.truecococarbon.green/" target="_blank" rel="noopener">https://www.truecococarbon.green/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ Truecoco Ghana Ltd is an agricultural commodity processor and trading company es
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://carbonherald.com/climeworks-embarks-on-a-muli-year-agreement-with-biochar-company-truecoco/))
 - **2026-04-19** — merged 1 duplicate(s): Truecoco
 - **2026-04-19** — refresh: screenshot, liveliness

@@ -5,7 +5,7 @@ type: "directory"
 description: "Climate consultancy and carbon credit broker that originates, manages, and sells CDR credits across multiple pathways on behalf of project developers and corporate buyers."
 url: "/directory/3degrees/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://3degreesinc.com/" target="_blank" rel="noopener">https://3degreesinc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/3degrees/" target="_blank" rel="noopener">3degrees — 25,140 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~308 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,9 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://3degreesinc.com/insights/an-introduction-to-biochar-exploring-this-new-carbon-removal-technology/))
 - **2026-04-19** — merged 1 duplicate(s): 3Degrees Group, Inc.
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

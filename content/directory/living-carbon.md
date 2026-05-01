@@ -33,6 +33,10 @@ Founded in 2019, California-based Living Carbon transforms marginal land into hi
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-30** — news mention: Octopus commits $500M to Living Carbon as Google, Meta and McKinsey buy the carbon credits — TFN ([source](https://techfundingnews.com/octopus-500m-living-carbon-google-meta-mckinsey-reforestation/))
+- **2026-04-30** — news mention: RT @Climeworks: Today, we’re excited to announce a partnership with @nttdata_inc. @Climeworks will s ([source](https://x.com/geoengineering1/status/2049899722366923042))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.livingcarbon.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.livingcarbon.com/))

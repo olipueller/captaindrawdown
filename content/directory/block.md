@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes regional wood chips, landscape-care residues, and reed from rewetted moors in a Carbo Force reactor to produce EBC-AgroOrganic certified biochar, with process heat supplied to a local"
 url: "/directory/block/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://block-pflanzenkohle.de/" target="_blank" rel="noopener">https://block-pflanzenkohle.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/block-pflanzenkohle/" target="_blank" rel="noopener">block-pflanzenkohle — 292 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,11 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://block.xyz/inside/clean-energy-portfolios))
+- **2026-04-27** — news mention: excellent point, as that is the important consideration  pyrolysis, if done under proper conditions  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkhwbvy5ht26))
+- **2026-04-27** — news mention: Climate scientists are raising the volume while CDR debates procurement plumbing.  @leonsimons point ([source](https://x.com/CaptainDrawdown/status/2048628779937853805))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://block-pflanzenkohle.de/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://block-pflanzenkohle.de/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

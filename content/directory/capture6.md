@@ -32,6 +32,8 @@ Capture6 is a California- and New Zealand-based direct air capture supplier that
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-22** — news mention: Capture6 Prepares For Phase 2 Of Monarch With Newly Secured Project-Level Financing ([source](https://carbonherald.com/capture6-prepares-for-phase-2-of-monarch-with-newly-secured-project-level-financing/?utm_source=rss&utm_medium=rss&utm_campaign=capture6-prepares-for-phase-2-of-monarch-with-newly-secured-project-level-financing))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://capture6.com/news/capture6-completes-27-5-million-series-a-and-project-funding-round/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/capture6-teams-up-with-isometric-to-issue-dac-carbon-credits/))

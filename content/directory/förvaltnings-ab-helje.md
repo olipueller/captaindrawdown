@@ -5,7 +5,7 @@ type: "directory"
 description: "On-site Biomacon C160-F pyrolysis boiler converts wood chips into EBC-certified biochar used as a peat-replacement growing substrate and sold to agricultural/landscaping customers."
 url: "/directory/förvaltnings-ab-helje/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://essungaplantskola.se/" target="_blank" rel="noopener">https://essungaplantskola.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/essunga-plantskola/" target="_blank" rel="noopener">essunga-plantskola — 224 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~14 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -28,6 +28,9 @@ Essunga Plantskola (operated by Förvaltnings AB Helje) is a Swedish family-owne
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://global-c-registry.org/project-view/1111))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://essungaplantskola.se/biokol/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://essungaplantskola.se/biokol/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

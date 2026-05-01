@@ -5,7 +5,7 @@ type: "directory"
 description: "Voluntary carbon market retailer and project developer that sources, structures, and sells portfolios of carbon credits (avoidance and nature-based removals) and provides MRV/carbon asset development"
 url: "/directory/climate-impact-partners/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.climateimpact.com" target="_blank" rel="noopener">https://www.climateimpact.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climate-impact-partners/" target="_blank" rel="noopener">climate-impact-partners — 35,911 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~118 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -29,6 +29,11 @@ Climate Impact Partners is a UK/US-based voluntary carbon market specialist form
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-28** — news mention: Climate Impact Partners & Green Earth Secure Long-Term Offtake Agreement For Kenyan Agroforestry Pro ([source](https://carbonherald.com/climate-impact-partners-green-earth-secure-long-term-offtake-agreement-for-kenyan-agroforestry-project/?utm_source=rss&utm_medium=rss&utm_campaign=climate-impact-partners-green-earth-secure-long-term-offtake-agreement-for-kenyan-agroforestry-project))
+- **2026-04-24** — news mention: Climate Impact Partners And Aviva Investors Join Forces On Afforestation In Colombia ([source](https://carbonherald.com/climate-impact-partners-and-aviva-investors-join-forces-on-afforestation-in-colombia/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.climateimpact.com/))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Qualterra operates patented Biomass Processing Units that pyrolyze agricultural waste (wheat straw, wood shavings, etc.) into biochar soil amendment while capturing renewable energy, with carbon"
 url: "/directory/qualterra/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.qualterraag.com/" target="_blank" rel="noopener">https://www.qualterraag.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuphyplants/" target="_blank" rel="noopener">nuphyplants — 1,083 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~20</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Qualterra is a Washington State-based agricultural technology company that produ
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.qualterraag.com/qualterra-achieves-climate-action-reserve-car-listing-for-biochar-project-in-cheney-washington/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))

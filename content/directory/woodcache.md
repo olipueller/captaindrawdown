@@ -5,7 +5,7 @@ type: "directory"
 description: "Buries unmerchantable waste woody biomass (wildfire-mitigation residues) in engineered cold, dry, anaerobic underground vaults with in-situ sensor-based MRV."
 url: "/directory/woodcache/"
 pathway: "Biomass Burial"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.woodcache.org/" target="_blank" rel="noopener">https://www.woodcache.org/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Woodcache PBC is a U.S. public benefit corporation (founded 2022, based in Provo
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.woodcache.org/blog))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.woodcache.org/))
 - **2026-04-19** — merged 1 duplicate(s): Woodcache PBC
 - **2026-04-19** — refresh: screenshot, liveliness

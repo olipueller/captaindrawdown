@@ -34,6 +34,15 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-29** — news mention: Environmental technology: Climeworks receives surprising green light for plant in Louisiana | blue N ([source](https://www.bluewin.ch/en/news/climeworks-receives-surprising-green-light-for-plant-in-louisiana-3209383.html))
+- **2026-04-29** — news mention: Climeworks Given Surprise Green Light For US Plant ([source](https://menafn.com/1111044257/Climeworks-Given-Surprise-Green-Light-For-US-Plant))
+- **2026-04-29** — news mention: Climeworks given surprise green light for US plant - SWI swissinfo.ch ([source](https://www.swissinfo.ch/eng/climate-solutions/climeworks-receives-surprising-green-light-for-plant-in-louisiana/91326278))
+- **2026-04-28** — news mention: Trump Administration Preserves Federal Funding For US DAC And Hydrogen Hubs - Renewable Carbon News ([source](https://renewable-carbon.eu/news/?p=176095))
+- **2026-04-24** — news mention: 1PointFive - 2026 Company Profile, Team, Funding & Competitors - Tracxn ([source](https://tracxn.com/d/companies/1pointfive/__j1A8Bl4Dvpqzj2ZoKWjLOq3ugJabICgxasKvcf7xBdY))
+- **2026-04-24** — news mention: Occidental Carbon Capture 2025, $3.5B w/ Carbon Engineering ([source](https://enkiai.com/carbon-capture/direct-air-capture-projects-us/))
+- **2026-04-23** — news mention: Carbon removal, la startup che pietrifica la CO₂ ([source](https://www.startupbusiness.it/carbon-removal-la-startup-che-pietrifica-la-co%E2%82%82/164598/))
 - **2026-04-22** — news mention: Federal funding boost gives state carbon capture project new life ([source](https://www.1012industryreport.com/carbon-capture/federal-funding-boost-gives-state-carbon-capture-project-new-life/))
 - **2026-04-20** — news mention: Louisiana carbon capture project gets new life with federal funding boost ([source](https://www.businessreport.com/article/louisiana-carbon-capture-project-gets-new-life-with-federal-funding-boost))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.heirloomcarbon.com/))

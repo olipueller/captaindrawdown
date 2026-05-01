@@ -5,7 +5,7 @@ type: "directory"
 description: "Amine-scrubbing carbon capture integrated with waste-to-energy plants; biogenic portion of flue-gas CO2 delivers negative emissions when stored geologically (e.g. HyNet/Liverpool Bay)."
 url: "/directory/kanadevia-inova/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.kanadevia-inova.com/" target="_blank" rel="noopener">https://www.kanadevia-inova.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kanadevia-inova/" target="_blank" rel="noopener">kanadevia-inova — 88,173 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1935 (+3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,9 @@ Kanadevia Inova (formerly Hitachi Zosen Inova) is a Swiss-based Waste-to-Energy 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.rngcoalition.com/news/2026/3/5/kanadevia-inova-breaks-ground-on-minnesotas-first-organic-waste-to-biochar-renewable-gas-facility))
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.rngcoalition.com/news/2026/3/5/kanadevia-inova-breaks-ground-on-minnesotas-first-organic-waste-to-biochar-renewable-gas-facility))

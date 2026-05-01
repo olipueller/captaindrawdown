@@ -28,6 +28,11 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-30** — news mention: Verra Lifts Hold On Eight China Projects As Local Authorities Confirm Authorization ([source](https://carbonherald.com/verra-lifts-hold-on-eight-china-projects-as-local-authorities-confirm-authorization/?utm_source=rss&utm_medium=rss&utm_campaign=verra-lifts-hold-on-eight-china-projects-as-local-authorities-confirm-authorization))
+- **2026-04-29** — news mention: Prithu raises $1.1 m to scale carbon removal platform for nature-based solutions - The HinduBusiness ([source](https://www.thehindubusinessline.com/economy/agri-business/prithu-raises-11-m-to-scale-carbon-removal-platform-for-nature-based-solutions/article70919353.ece))
+- **2026-04-23** — news mention: Brazilian Project Becomes First To Earn Credits Under Verra’s New Reforestation Methodology ([source](https://carbonherald.com/brazilian-project-becomes-first-to-earn-credits-under-verras-new-reforestation-methodology/?utm_source=rss&utm_medium=rss&utm_campaign=brazilian-project-becomes-first-to-earn-credits-under-verras-new-reforestation-methodology))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://verra.org/verra-launches-updated-landmark-standard-with-communities-at-its-core/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://verra.org/))

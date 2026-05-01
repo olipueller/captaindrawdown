@@ -36,6 +36,9 @@ CREW Carbon is a US-based CDR startup founded in 2022 by Joachim Katchinoff and 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-28** — news mention: Strategic Finance Intern - CREW Carbon ([source](https://crewcarbon.com/jobs/commercial-finance-intern))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://crewcarbon.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://crewcarbon.com/))

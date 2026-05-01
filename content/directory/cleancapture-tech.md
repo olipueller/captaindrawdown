@@ -5,7 +5,7 @@ type: "directory"
 description: "Solid-sorbent DAC using a plate-and-heat-exchanger gas/solid reactor design with low-temperature electric regeneration, targeting ~860 kWh/ton and <$85/ton capture cost."
 url: "/directory/cleancapture-tech/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://cleancapturetech.com/" target="_blank" rel="noopener">https://cleancapturetech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cleancapturetech/" target="_blank" rel="noopener">cleancapturetech</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 25/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ CleanCapture Tech is an early-stage U.S. direct air capture startup founded in 2
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://cleancapturetech.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://cleancapturetech.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://cleancapturetech.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

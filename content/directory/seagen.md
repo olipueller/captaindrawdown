@@ -32,6 +32,8 @@ SeaGen (Seaweed Generation Ltd), based in Falmouth, UK and founded in 2021, buil
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seagen.io/))
 - **2026-04-19** — reactivated — screenshot succeeded in reshoot3
 - **2026-04-19** — deactivated — URL https://www.seagen.io/ returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct

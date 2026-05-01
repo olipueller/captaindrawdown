@@ -30,6 +30,8 @@ AntMind is a Canadian startup developing a biomass gasification platform that co
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.antmind.io/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.ibtimes.com/antmind-its-scalable-approach-carbon-negative-energy-forestry-waste-3788373))

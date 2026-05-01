@@ -5,7 +5,7 @@ type: "directory"
 description: "Drone-based reforestation using AI-targeted dispersal of seed capsules containing pre-germinated native species and microbiology, plus drone/satellite monitoring of biomass and carbon stocks."
 url: "/directory/morfo/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.morfo.rest" target="_blank" rel="noopener">https://www.morfo.rest</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/morforest/" target="_blank" rel="noopener">morforest — 17,277 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~37 (-27% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ MORFO is a Franco-Brazilian reforestation company (founded 2021) restoring degra
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.morfo.rest/challenge))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

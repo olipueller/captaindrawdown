@@ -28,6 +28,8 @@ Carbon Fields is a Madrid-based biochar company that transforms biomass waste in
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbonfields.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Carbon Fields on Earth SL
 - **2026-04-19** — refresh: coresignal, liveliness

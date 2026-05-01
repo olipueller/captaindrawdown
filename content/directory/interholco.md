@@ -28,6 +28,8 @@ Interholco AG is a Swiss timber company (founded 1962) headquartered in Baar tha
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://milkywire.com/articles/new-cdr-2025))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://milkywire.com/articles/new-cdr-2025))

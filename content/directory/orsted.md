@@ -5,7 +5,7 @@ type: "directory"
 description: "Post-combustion amine-based CO2 capture retrofitted to biomass-fired CHP plants, with CO2 shipped to Northern Lights for permanent subsea saline aquifer storage in the Norwegian North Sea."
 url: "/directory/orsted/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://orsted.com/" target="_blank" rel="noopener">https://orsted.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/orsted/" target="_blank" rel="noopener">orsted — 561,817 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~9667</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,9 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://orsted.com/en/other-energy-sources/bioenergy/carbon-capture-and-storage))
 - **2026-04-19** — merged 1 duplicate(s): Ørsted
 - **2026-04-19** — refresh: coresignal, liveliness

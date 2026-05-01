@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes wood chips and garden/park waste in modified solid-fuel district heating boilers (PyCCS configuration) to co-produce heat and EBC-certified biochar, selling carbon removal as CORCs on"
 url: "/directory/bussme-biochar/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.bussmeenergy.se/biokol/" target="_blank" rel="noopener">https://www.bussmeenergy.se/biokol/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero — 4,479 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 45/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bussme-energy/" target="_blank" rel="noopener">bussme-energy</a></td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,9 @@ Bussme Biochar AB is a Swedish biochar-producing subsidiary of family-owned dist
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.mynewsdesk.com/se/sysav/news/sysav-och-bussme-biochar-testar-biokol-fraan-traedgaardsavfall-477855))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟠 Suspect ([source](https://www.bussmeenergy.se/biokol/))
 - **2026-04-19** — reactivated — screenshot succeeded in reshoot3
 - **2026-04-19** — deactivated — URL https://www.bussmeenergy.se/biokol/ returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct

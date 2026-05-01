@@ -5,7 +5,7 @@ type: "directory"
 description: "Electrochemical salt-splitting cell (\"electrosynthesizer\") that produces acid (to leach metals from mine tailings) and base (to capture atmospheric CO2), combining them to precipitate permanent solid"
 url: "/directory/edac-labs/"
 pathway: "Mineralization"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://edaclabs.com/" target="_blank" rel="noopener">https://edaclabs.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/edac-labs/" target="_blank" rel="noopener">edac-labs — 700 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~7 (-22% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ EDAC Labs is a Baltimore-based Johns Hopkins spin-out founded in July 2022 that 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://tracxn.com/d/companies/edac-labs/__M0SdvT2c4Zmc4AU5oeGjM6ENTnBhCGSjD30X_47lbXA))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟡 Moderate ([source](https://edaclabs.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://tracxn.com/d/companies/edac-labs/__M0SdvT2c4Zmc4AU5oeGjM6ENTnBhCGSjD30X_47lbXA))

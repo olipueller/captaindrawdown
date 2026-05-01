@@ -33,6 +33,8 @@ TerraFixing is an Ottawa-based direct air capture startup founded in 2021 by two
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.canada.ca/en/natural-resources-canada/news/2025/08/canada-invests-in-carbon-capture-and-storage-in-ottawa.html))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.canada.ca/en/natural-resources-canada/news/2025/08/canada-invests-in-carbon-capture-and-storage-in-ottawa.html))

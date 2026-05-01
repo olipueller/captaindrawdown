@@ -14,7 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enhanced Weathering, Afforestation</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.varaha.earth/" target="_blank" rel="noopener">https://www.varaha.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/meta-carbontech/" target="_blank" rel="noopener">meta-carbontech — 30,518 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 97/100)</td></tr>
+  <tr><th>Employees</th><td>~281 (+34% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +33,9 @@ Varaha is a New Delhi-based carbon removal project developer founded in 2022, op
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-22** — news mention: 5 Indian Sustainability Startups Leading the Way on World Earth Day - Newspatrolling.com ([source](https://newspatrolling.com/5-indian-sustainability-startups-leading-the-way-on-world-earth-day/))
 - **2026-04-19** — nulled Coresignal enrichment — LinkedIn slug 'meta-carbontech' clearly not the same company; employee count 281 inflated
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/))
 - **2026-04-19** — merged 1 duplicate(s): Varaha Climate AG

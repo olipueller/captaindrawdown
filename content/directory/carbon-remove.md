@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes residual biomass into biochar at a Centro Experimental de Excelência em Biochar for soil bioinputs and carbon removal credits."
 url: "/directory/carbon-remove/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonremove.com.br/en" target="_blank" rel="noopener">https://www.carbonremove.com.br/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-remove-biochar-solutions/" target="_blank" rel="noopener">carbon-remove-biochar-solutions — 473 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Carbon Remove is a small Brazilian biochar startup founded in 2022 and based at 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.carbonremove.com.br/post/biochar-a-transformative-tool-for-reforestation-and-sustainable-soil-management))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonremove.com.br/en))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonremove.com.br/en))
 - **2026-04-19** — refresh: coresignal, liveliness

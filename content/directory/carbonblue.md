@@ -30,6 +30,8 @@ CarbonBlue is an Israeli climate-tech startup founded in 2022 by Dr. Dan Deviri 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://finance.yahoo.com/news/carbonblue-launches-world-first-integration-123000206.html))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://carbonblue.cc/project-midway/))

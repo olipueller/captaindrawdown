@@ -28,6 +28,8 @@ DACworx is an Austrian direct air capture technology developer that co-designed 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dacworx.eu/))
 - **2026-04-19** — merged 1 duplicate(s): DACworx Engineering
 - **2026-04-19** — refresh: coresignal

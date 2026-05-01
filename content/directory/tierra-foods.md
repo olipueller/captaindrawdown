@@ -5,7 +5,7 @@ type: "directory"
 description: "Agroforestry using oxalogenic trees (ramón, English Oak) that sequester atmospheric CO2 as stable soil calcium carbonate via the Oxalate-Carbonate Pathway, with AI-based MRV."
 url: "/directory/tierra-foods/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://tierra-foods.com/" target="_blank" rel="noopener">https://tierra-foods.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tierra-foods-mexico/" target="_blank" rel="noopener">tierra-foods-mexico — 133 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ Tierra Foods is a UK-based climate tech startup developing agroforestry projects
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.leadsontrees.com/news/tierrasphere-fuels-tierra-foods-vision-520k-grant-ignites-climate-tech-innovation-for-permanent-carbon-capture-and-restoration))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://tierra-foods.com/about-us))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://tierra-foods.com/about-us))
 - **2026-04-19** — refresh: coresignal, liveliness

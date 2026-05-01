@@ -28,6 +28,8 @@ RecyCoal GmbH is an Aachen, Germany-based biochar startup incorporated in 2023, 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.crunchbase.com/organization/recycoal-4057))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.qcintel.com/carbon/article/feature-biochar-carbon-credit-prices-need-to-rise-not-fall-while-producers-of-the-substance-need-buyers-36047.html))

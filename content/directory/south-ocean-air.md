@@ -5,7 +5,7 @@ type: "directory"
 description: "Plasma-treated cellulose acts as a passive solid sorbent that adsorbs ambient CO2 and is regenerated using moisture."
 url: "/directory/south-ocean-air/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://southoceanair.com/" target="_blank" rel="noopener">https://southoceanair.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/south-ocean-air/" target="_blank" rel="noopener">south-ocean-air — 61 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ South Ocean Air is a Houston, Texas-based direct air capture startup founded in 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.startus-insights.com/innovators-guide/direct-air-capture-companies/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://southoceanair.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.startus-insights.com/innovators-guide/direct-air-capture-companies/))

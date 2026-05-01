@@ -29,6 +29,8 @@ SUEZ is a large French waste and water utility (~26,000 employees) developing ca
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.suez.com/en/news/press-releases/inauguration-biogenic-co2-unit-terres-aquitaine-gironde-suez-biowaste-recovery))
 - **2026-04-19** — merged 2 duplicate(s): Biochar: a scalable carbon sink solution, SUEZ International
 - **2026-04-19** — refresh: coresignal

@@ -5,7 +5,7 @@ type: "directory"
 description: "Modular pyrolysis units converting harvested invasive mesquite biomass into durable biochar (and metallurgical MetChar) at the 225,000-hectare Mardie Station in the Pilbara."
 url: "/directory/biomass-projects/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://biomassprojects.com.au/" target="_blank" rel="noopener">https://biomassprojects.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biomass-projects/" target="_blank" rel="noopener">biomass-projects — 674 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Biomass Projects is an Australian pure-play CDR developer behind the Mardie char
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biomassprojects.com.au/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biomassprojects.com.au/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biomassprojects.com.au/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

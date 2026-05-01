@@ -29,6 +29,8 @@ Earthly is a UK-based nature-based carbon credit marketplace that connects busin
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://earthly.org/home))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://earthly.org/en-us))

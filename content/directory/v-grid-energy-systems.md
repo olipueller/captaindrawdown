@@ -5,7 +5,7 @@ type: "directory"
 description: "Mobile, modular biomass gasification units (\"Bioservers\") convert agricultural waste into renewable electricity plus stable biochar, with CORCs issued via Puro.earth."
 url: "/directory/v-grid-energy-systems/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://vgridenergy.com/" target="_blank" rel="noopener">https://vgridenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vgrid-energy-systems/" target="_blank" rel="noopener">vgrid-energy-systems — 319 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~8 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,9 @@ VGrid Energy Systems is a California-based clean energy company operating modula
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/vgrid-energy-systems/__20sNMytyR040TanyeM8j9NQOUWvwGtPgzjWBNiFzWZc))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://vgridenergy.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/vgrid-energy-systems/__20sNMytyR040TanyeM8j9NQOUWvwGtPgzjWBNiFzWZc))

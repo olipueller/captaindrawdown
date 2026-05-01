@@ -33,6 +33,8 @@ Mangrove Systems is a Toronto-based digital MRV software company whose Mangrove 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-22** — news mention: Mangrove Systems Acquires Biochar Carbon Removal ... ([source](https://www.esgtoday.com/mangrove-systems-acquires-biochar-carbon-removal-platform-grain-ecosystem/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.mangrovesystems.com/))

@@ -33,6 +33,8 @@ Pina Earth is a Munich-based forest carbon project developer that converts vulne
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://tree.ly/blog/pina-earth-treely-merge-europe-forest-carbon-provider))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.pina.earth/en))

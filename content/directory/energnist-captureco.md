@@ -29,6 +29,8 @@ Energnist CaptureCo A/S is the dedicated carbon-capture subsidiary of Energnist,
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))

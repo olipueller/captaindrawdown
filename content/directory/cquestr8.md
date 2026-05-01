@@ -5,7 +5,7 @@ type: "directory"
 description: "Reactor-based accelerated weathering of magnesium-rich silicates to lock concentrated industrial CO2 into stable carbonates and ocean bicarbonate."
 url: "/directory/cquestr8/"
 pathway: "Mineralization"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://cquestr8.com/" target="_blank" rel="noopener">https://cquestr8.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ Cquestr8 is a Durham, UK-based startup founded in 2020 developing a reactor-base
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://tracxn.com/d/companies/cquestr8/__-CnabcR4rjj-Os9fSTPr1Y5FIO4CZhqgFxcA9mJMs3Q))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟡 Moderate ([source](https://cquestr8.com/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟠 Suspect ([source](https://find-and-update.company-information.service.gov.uk/company/12990074))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟠 Suspect ([source](https://find-and-update.company-information.service.gov.uk/company/12990074))

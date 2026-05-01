@@ -28,6 +28,8 @@ Safi Organics is a Kenyan MIT-spinout (founded 2015) that converts rice husks an
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://techmoran.com/2025/01/17/ilara-health-safi-organics-get-1m-237500-respectfully-to-promote-health-food-security/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://safiorganics.co.ke/))

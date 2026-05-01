@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes organic waste streams (sewage, garbage) into biochar sold for soil amendment with carbon-sequestration claims."
 url: "/directory/takatena/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://takatena.com/" target="_blank" rel="noopener">https://takatena.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -26,6 +26,9 @@ Takatena Biochar Solutions is a Nanyuki, Kenya-based biochar producer that conve
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.takatena.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://takatena.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.takatena.com/))
 - **2026-04-19** — refresh: screenshot, liveliness

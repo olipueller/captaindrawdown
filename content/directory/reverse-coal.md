@@ -5,7 +5,7 @@ type: "directory"
 description: "Short-rotation willow grown on rewetted peatland is pyrolysed in a rotary kiln; biochar (~86% stable carbon) is pumped into a flooded buried repository for permanent storage, with syngas and heat"
 url: "/directory/reverse-coal/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.reversecoal.co.uk/" target="_blank" rel="noopener">https://www.reversecoal.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lapwing-energy-ltd/" target="_blank" rel="noopener">lapwing-energy-ltd — 256 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -29,6 +29,9 @@ Reverse Coal is a UK biochar CDR pilot operated by Lapwing Energy, the renewable
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.reversecoal.co.uk/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reversecoal.co.uk/reverse-coal-phase-2-report-live/))
 - **2026-04-19** — refresh: coresignal, liveliness

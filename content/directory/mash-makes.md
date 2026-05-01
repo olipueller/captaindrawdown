@@ -33,6 +33,8 @@ MASH Makes is an Indo-Danish cleantech company that operates India's first large
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.mashmakes.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/mash-makes-launches-phase-2-of-asias-largest-carbon-removal-facility/))

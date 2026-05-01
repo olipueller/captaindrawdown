@@ -34,6 +34,8 @@ O.C.O Technology is a UK-based carbon mineralization company headquartered in Br
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=division liveliness=🟢 Active ([source](https://oco.co.uk/news/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://oco.co.uk/))

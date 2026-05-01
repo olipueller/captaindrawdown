@@ -28,6 +28,11 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-26** — news mention: Did Microsoft Just Kill the Carbon Removal Industry? ([source](https://ctvr.substack.com/p/did-microsoft-just-kill-the-carbon))
+- **2026-04-25** — news mention: This Week in CDR - April 24, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453451962160734208/))
+- **2026-04-24** — news mention: Durable CDR: Reality vs Expectations: How are CDR methods performing relative to expectations? ([source](https://www.cdr.fyi/blog/durable-cdr-reality-vs-expectations))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cdr.fyi/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cdr.fyi/about))

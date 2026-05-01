@@ -28,6 +28,8 @@ Longstraw Carbon is a Delhi, India-based biochar startup founded in 2024 by Utka
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://longstraw.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Longstraw Technologies
 - **2026-04-19** — refresh: coresignal

@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates mobile SP-SC pyrolysis retorts on Salt Spring Island to convert BC wood-waste biomass into biochar for soil amendment and concrete admixture applications."
 url: "/directory/preterra/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://preterra.ca/" target="_blank" rel="noopener">https://preterra.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/preterra-biocarbon-solutions-ltd/" target="_blank" rel="noopener">preterra-biocarbon-solutions-ltd — 41 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Preterra BioCarbon Solutions Ltd. is a Salt Spring Island, BC-based biochar prod
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://preterra.ca/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://preterra.ca/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://preterra.ca/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

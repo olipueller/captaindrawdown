@@ -28,6 +28,11 @@ Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructu
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-30** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits  Verde Resources and Isometric ([source](https://x.com/CaptainDrawdown/status/2049715878086742265))
+- **2026-04-30** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits  Verde Resources and Isometric ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkotifsvp32y))
+- **2026-04-29** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits ([source](https://carbonherald.com/verde-and-isometric-to-commercialize-a-new-category-of-carbon-credits/?utm_source=rss&utm_medium=rss&utm_campaign=verde-and-isometric-to-commercialize-a-new-category-of-carbon-credits))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/verde-developing-environmental-product-declaration-epd-for-its-engineered-biochar-in-road-materials-302742596.html))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/verde-developing-environmental-product-declaration-epd-for-its-engineered-biochar-in-road-materials-302742596.html))

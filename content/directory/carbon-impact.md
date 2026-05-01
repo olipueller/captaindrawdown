@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops BECCS projects that capture biogenic CO2 from biomethane production units and store it geologically."
 url: "/directory/carbon-impact/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-impact.net/" target="_blank" rel="noopener">https://www.carbon-impact.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-impact-france/" target="_blank" rel="noopener">carbon-impact-france — 959 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Carbon Impact is a French carbon removal project developer, co-founded by energy
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.carbon-impact.net/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbon-impact.net/notre-approche/?lang=fr))
 - **2026-04-19** — merged 1 duplicate(s): Carbon Impact SAS
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

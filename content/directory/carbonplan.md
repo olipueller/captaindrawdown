@@ -5,7 +5,7 @@ type: "directory"
 description: "Nonprofit analyst/transparency organization building open datasets and tools (e.g., offsets database, CDR verification confidence levels) to evaluate climate solutions and carbon removal claims."
 url: "/directory/carbonplan/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbonplan.org/" target="_blank" rel="noopener">https://carbonplan.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplan/" target="_blank" rel="noopener">carbonplan — 6,155 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~15 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -29,6 +29,12 @@ CarbonPlan is a U.S. nonprofit (California public benefit corporation) that prod
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-28** — news mention: Job: Executive Director at CarbonPlan - Jobs - Pangeo ([source](https://discourse.pangeo.io/t/job-executive-director-at-carbonplan/5572))
+- **2026-04-23** — news mention: Captain's CDR Log #112: CarbonPlan's Lithos review puts enhanced weathering's MRV on trial | Captain ([source](https://captaindrawdown.com/posts/captains-cdr-log-112/))
+- **2026-04-23** — news mention: Designing a data pipeline for our highest-resolution dataset yet – CarbonPlan ([source](https://carbonplan.org/blog/producing-ocr-data))
 - **2026-04-21** — news mention: Offset project paperwork should be internally consistent. It’s not. – CarbonPlan ([source](https://carbonplan.org/blog/pig-manure-inconsistencies))
 - **2026-04-20** — news mention: Questions about Lithos’ first ERW credit issuance – CarbonPlan ([source](https://carbonplan.org/blog/lithos-first-issuance))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

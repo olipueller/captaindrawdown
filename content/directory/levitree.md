@@ -5,7 +5,7 @@ type: "directory"
 description: "Pumps wood-chip slurries 5-100m underground via hydraulic injection to create anoxic apertures that preserve biomass long-term while simultaneously raising ground elevation."
 url: "/directory/levitree/"
 pathway: "Biomass Burial"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.levitree.com/" target="_blank" rel="noopener">https://www.levitree.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/levitree/" target="_blank" rel="noopener">levitree</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (+120% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/levitree/" target="_blank" rel="noopener">levitree — 4,970 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~28</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ Levitree is a California-based startup (founded 2021, Berkeley/San Rafael) that 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/levitree/__plZdKRJIcopt8QBpbShVpTfBjzz3g1ekNnqbdDxOys0))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.levitree.com/technology))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://bakarlabs.berkeley.edu/levitree-lifting-cities-out-of-flood-danger-with-robots/))

@@ -33,6 +33,8 @@ Carbonaide is a Finnish VTT spin-out (founded 2022) that has developed an ex-sit
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbonaide.com/news-en/finnish-concrete-producer-lakka-adopts-carbonaides-technology/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbonaide.com/))

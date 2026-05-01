@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a Syncraft biomass gasification CHP plant that generates renewable electricity and district heat from forest residues while producing biochar as a carbon-sink byproduct."
 url: "/directory/ökomaxx-energiewerke/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="http://www.purenergy.at/" target="_blank" rel="noopener">http://www.purenergy.at/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.wirtschaft.at/u/553028b))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://cleantechnica.com/2025/05/12/syncraft-opens-clean-power-plant-that-provides-electricity-heat-cdr/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.firmenabc.at/oekomaxx-energiewerke-gmbh_zrGX))
 - **2026-04-19** — refresh: liveliness

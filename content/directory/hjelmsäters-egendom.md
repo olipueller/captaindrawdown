@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of forestry residues on an agricultural estate to produce EBC-certified biochar soil amendment, with CORCs issued on Puro.earth."
 url: "/directory/hjelmsäters-egendom/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.biokol.se/" target="_blank" rel="noopener">https://www.biokol.se/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ Hjelmsäters Egendom is a centuries-old Swedish agricultural estate in Hällekis
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.hjelmsater.se/egendom/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.biokol.se/))
 - **2026-04-19** — merged 3 duplicate(s): Biokol, BC Trading AB, Biokol.se
 - **2026-04-19** — refresh: liveliness

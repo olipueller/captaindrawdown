@@ -30,6 +30,8 @@ Ceal (Ceal Minerals) is an Israeli climate-tech startup founded in April 2024, s
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://ceal.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Ceal Minerals Ltd.
 - **2026-04-19** — refresh: coresignal, screenshot

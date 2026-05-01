@@ -5,7 +5,7 @@ type: "directory"
 description: "Gasifies biosolids, manure, food waste and MSW digestate into stable biochar (Ecochar), with Puro.earth-certified carbon removal credits sold alongside the char product."
 url: "/directory/earthcare/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.earthcarellc.com" target="_blank" rel="noopener">https://www.earthcarellc.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/earthcarellc/" target="_blank" rel="noopener">earthcarellc — 233 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~16</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Earthcare LLC is a US-based biochar producer that deploys patented gasification 
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.waste360.com/wastewater/earthcare-makes-biochar-from-wastewater-biosolids-and-msw-digestate))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

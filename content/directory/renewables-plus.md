@@ -5,7 +5,7 @@ type: "directory"
 description: "Builds Blue Flame™ downdraft biomass gasification systems for energy recovery from agricultural residues (palm kernel shell, bamboo), producing syngas as primary product and biochar as a co-product."
 url: "/directory/renewables-plus/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Website</th><td><a href="https://www.renewablesplus.com/" target="_blank" rel="noopener">https://www.renewablesplus.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/renewables-plus/" target="_blank" rel="noopener">renewables-plus — 415 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~13</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,9 @@ Renewables Plus Sdn Bhd (R+) is a Malaysian biomass gasification specialist and 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greenstories.org.uk/anthology-for-cop27/solutions/biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.renewablesplus.com/gasificationoverview/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.renewablesplus.com/about-us/))
 - **2026-04-19** — refresh: coresignal, liveliness

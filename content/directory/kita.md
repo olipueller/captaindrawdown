@@ -33,6 +33,9 @@ Kita is a UK-based Lloyd's of London coverholder and carbon insurance specialist
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-28** — news mention: Gallagher Аnd Kita Target Carbon Removal Uncertainty With Data Heavy Consulting Service ([source](https://carbonherald.com/gallagher-%d0%b0nd-kita-target-carbon-removal-uncertainty-with-data-heavy-consulting-service/?utm_source=rss&utm_medium=rss&utm_campaign=gallagher-%25d0%25b0nd-kita-target-carbon-removal-uncertainty-with-data-heavy-consulting-service))
 - **2026-04-19** — merged 1 duplicate(s): Kita.Earth
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.kita.earth/))

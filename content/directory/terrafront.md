@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops biochar production from agricultural residues plus agroforestry/reforestation projects with smallholder farmers in India and Africa, integrating dMRV, IoT and remote sensing."
 url: "/directory/terrafront/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terrafront.com/" target="_blank" rel="noopener">https://terrafront.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terrafront/" target="_blank" rel="noopener">terrafront</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Terrafront Ventures develops carbon removal infrastructure in South Asia and Afr
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://climateimpactx.com/perspectives/biochar-unlocked-a-buyers-roadmap-to-high-integrity-carbon-removal-credits/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafront.com/))
 - **2026-04-19** — merged 1 duplicate(s): Terrafront Ventures
 - **2026-04-19** — refresh: coresignal, liveliness

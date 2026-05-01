@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates SYNCRAFT wood-chip gasification CHP plants that produce biochar as a coproduct, coupled since September 2025 with an amine-based post-combustion CO2 capture and liquefaction unit on the flue"
 url: "/directory/energiewerk-ilg-gmbh/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.biomassehof.at/energiewerk-ilg/" target="_blank" rel="noopener">https://www.biomassehof.at/energiewerk-ilg/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energiewerk-ilg/" target="_blank" rel="noopener">energiewerk-ilg — 182 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -32,6 +32,9 @@ EnergieWerk Ilg GmbH is a family-owned regional energy utility in Dornbirn, Vora
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.bright-renewables.com/austrias-carbon-capture-breakthrough-co2-capture-liquefacation-facility-at-energiewerk-ilg-operational/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))

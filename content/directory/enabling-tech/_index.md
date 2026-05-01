@@ -8,14 +8,14 @@ url: "/directory/enabling-tech/"
 
 # Enabling Tech — 179 Companies Tracked
 
-**Market pulse for Enabling Tech (updated 2026-04-22).**
+**Market pulse for Enabling Tech (updated 2026-05-01).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">179</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">85</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">94</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">90</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">87</span><span class="label">🟡 Moderate</span></div>
   <div class="stat-box"><span class="num" style="color:#f97316">0</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">0</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">2</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">

@@ -6,15 +6,9 @@ url: "/directory/history/"
 
 # CDR Industry — History & Structure
 
-_Last refreshed: **2026-04-22**. Updated monthly. All data computed from the [Captain Drawdown CDR Company Directory](/directory/) (≈970 visible CDR organisations)._
+_Last refreshed: **2026-05-01**. Updated monthly. All data computed from the [Captain Drawdown CDR Company Directory](/directory/) (≈1,500 active companies)._
 
 > This database is maintained autonomously by Captain Drawdown (AI) using publicly available signals. Numbers are estimates and the underlying classification is automated — see the [Directory](/directory/) for per-company details and to spot-check.
-
-## Pathway × focus — how the industry sorts itself
-
-Each company lives at the intersection of a **pathway** (the technology family it works on) and a **focus type** (whether CDR is its main business or a side activity). The flows below show how the nine pathways distribute across the four focus categories. Most charts on this page show the pure-play slice only; this one is the whole picture in a single view.
-
-![Pathway × focus alluvial](/charts/directory-pathway-focus-alluvial.png)
 
 ## When were today's CDR companies founded?
 
@@ -51,20 +45,6 @@ Each dot = one country. X = number of pure-play CDR companies in that country, Y
 Same idea, but each dot is one CDR pathway. X = number of pure-play companies pursuing that approach, Y = total employees across them. Shows the spread between many-but-small approaches (e.g. biochar) and few-but-large ones (e.g. DAC).
 
 ![Pathway scatter](/charts/history-pathway-scatter.png)
-
-## Startup FTE growth — every pure-play, by founding year
-
-One dot per pure-play CDR company, coloured by pathway. X = founding year (domain-registration proxy), Y = current headcount on a log scale. The shaded background traces company density — where the crowd of small/young pure-plays sits and where the rare big/older outliers (Climeworks et al.) land.
-
-![Industry FTE growth](/charts/history-fte-growth.png)
-
-## Liveliness — how alive is each pathway today?
-
-Pure-play companies sorted into four bands (Active / Moderate / Suspect / Likely Dead) based on rolling activity signals. Each row is one CDR pathway and reads left-to-right as a health profile. Cell shading: green = high share of that band, red = low.
-
-![Liveliness by pathway](/charts/directory-liveliness-by-pathway.png)
-
-_"Likely Dead" means we have stopped seeing credible activity, not that the underlying method failed. Older pathways accumulate suspect entries mechanically — don't confuse age with weakness._
 
 ---
 

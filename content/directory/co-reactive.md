@@ -30,6 +30,14 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-29** — news mention: Co-reactive ([source](https://www.captaindrawdown.com/posts/coreactive-demoplant-milestone-carbonnegative-sustainablecon/))
+- **2026-04-29** — news mention: NEP Taps DNV For CO2 Transport Certification  DNV has been named Independent Certifier for the North ([source](https://x.com/CaptainDrawdown/status/2049460338421043312))
+- **2026-04-29** — news mention: NEP Taps DNV For CO2 Transport Certification  DNV has been named Independent Certifier for the North ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkn2qpj5ur2u))
+- **2026-04-29** — news mention: The price for liquid fossil methane has increased by over a third and the fossil fools in the USA ha ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkmzhdkt622t))
+- **2026-04-28** — news mention: #coreactive #demoplant #milestone #carbonnegative #sustainableconstruction #co2utilization #climatet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7454785479666933760/))
+- **2026-04-23** — news mention: #hellotomorrow2026 | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7453018415709097984/))
 - **2026-04-21** — news mention: #bilbao #coreactive #decarbonization #energytechsummit #cdlparis… | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452271413689872385/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
 - **2026-04-19** — refresh: coresignal, screenshot

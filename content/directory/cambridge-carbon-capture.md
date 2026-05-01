@@ -5,7 +5,7 @@ type: "directory"
 description: "Two-stage ex-situ mineralisation process reacting magnesium hydroxide with CO2 from flue gas or DAC to form stable magnesium carbonate plus saleable mineral/metal co-products."
 url: "/directory/cambridge-carbon-capture/"
 pathway: "Mineralization"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.co2loc.com/" target="_blank" rel="noopener">https://www.co2loc.com/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 5/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ Cambridge Carbon Capture Ltd was a UK startup developing the CO2LOC process, a t
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🔴 Likely Dead ([source](https://www.thegazette.co.uk/notice/4900649/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate

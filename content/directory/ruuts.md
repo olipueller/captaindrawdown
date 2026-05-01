@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops regenerative grazing soil-carbon projects with livestock farmers, operating an MRV app integrated with remote sensing to verify soil carbon removals under Verra VM0042."
 url: "/directory/ruuts/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Argentina</td></tr>
   <tr><th>Website</th><td><a href="https://ruuts.la" target="_blank" rel="noopener">https://ruuts.la</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ruutsnetwork/" target="_blank" rel="noopener">ruutsnetwork — 5,790 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~33 (-3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Ruuts is an Argentina-based regenerative agriculture platform that co-developed 
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.anthesisgroup.com/news/sara-programme-achieves-issuance/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

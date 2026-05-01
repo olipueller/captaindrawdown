@@ -34,6 +34,9 @@ Deep Sky is a Montreal-based tech-agnostic carbon removal project developer that
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-30** — news mention: Deep Sky Enters DAC-Focused Strategic Partnership With ENGIE ([source](https://carbonherald.com/deep-sky-enters-dac-focused-strategic-partnership-with-engie/?utm_source=rss&utm_medium=rss&utm_campaign=deep-sky-enters-dac-focused-strategic-partnership-with-engie))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.deepskyclimate.com/blog/history-made-deep-sky-alpha-begins-operations-with-north-americas-first-co2-storage-via-direct-air-capture-2))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.deepskyclimate.com/blog/history-made-deep-sky-alpha-begins-operations-with-north-americas-first-co2-storage-via-direct-air-capture-2))

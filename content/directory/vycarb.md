@@ -28,6 +28,9 @@ Vycarb is a Brooklyn-based ocean alkalinity enhancement startup founded in 2022 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-27** — news mention: Opinion: Beyond CDR: The Unexpected Legacy of Early Market-Makers ([source](https://carbonherald.com/opinion-beyond-cdr-the-unexpected-legacy-of-early-market-makers/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-beyond-cdr-the-unexpected-legacy-of-early-market-makers))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://oceanvisions.org/fieldtrials-vycarb/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pitchbook.com/profiles/company/515320-12))

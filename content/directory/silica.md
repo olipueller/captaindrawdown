@@ -5,7 +5,7 @@ type: "directory"
 description: "Spreads finely ground silicate rocks on Mexican sugarcane fields to accelerate natural weathering and permanently sequester CO2 as bicarbonates."
 url: "/directory/silica/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Website</th><td><a href="https://silica.earth" target="_blank" rel="noopener">https://silica.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicaearth/" target="_blank" rel="noopener">silicaearth — 390 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+75% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -30,6 +30,11 @@ Silica is an ERW project developer permanently removing CO2 in LatAm, starting w
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](N/A))
+- **2026-04-29** — news mention: A spectropolarimeter for vacuum-ultraviolet emission lines ([source](https://arxiv.org/abs/2604.08191v1))
+- **2026-04-27** — news mention: "In an offshore test of what happens when acid-lowering chemicals are added to the ocean, the compou ([source](https://x.com/geoengineering1/status/2048522489693949964))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://silica.earth))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://silica.earth))

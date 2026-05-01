@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops the Absolute Carbon Standard (ACS), a pathway-agnostic, science-based quality-assurance framework applied by third-party registries to certify CDR and low-carbon product credits."
 url: "/directory/absolute-climate/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.absoluteclimate.com" target="_blank" rel="noopener">https://www.absoluteclimate.com</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -26,6 +26,9 @@ Absolute Climate is an independent quality-assurance and standards developer for
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reactivated — screenshot succeeded in reshoot3
 - **2026-04-19** — deactivated — URL https://www.absoluteclimate.com returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2026/02/17/3239352/0/en/Absolute-Climate-Launches-New-Certification-Framework-for-Low-Carbon-Products.html))

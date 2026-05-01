@@ -5,7 +5,7 @@ type: "directory"
 description: "Small-scale pyrolysis of locally sourced waste wood into biochar, sold as soil amendment and deployed in on-farm filtration units to capture phosphorus and other runoff contaminants."
 url: "/directory/green-state-biochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://greenstatebiochar.com/" target="_blank" rel="noopener">https://greenstatebiochar.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -26,6 +26,9 @@ Green State Biochar is a Vermont-based company in Greensboro Bend founded by Rog
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://greenstatebiochar.com/newsroom/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://greenstatebiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://greenstatebiochar.com/))
 - **2026-04-19** — refresh: screenshot, liveliness

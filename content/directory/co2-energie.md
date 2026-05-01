@@ -5,7 +5,7 @@ type: "directory"
 description: "Captures and liquefies biogenic CO2 from biogas upgrading plants in Switzerland; most output currently sold as industrial CO2 (CCU), with a new Niederwil plant planned for 2026 targeting permanent"
 url: "/directory/co2-energie/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.co2-energie.ch/" target="_blank" rel="noopener">https://www.co2-energie.ch/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ CO2 Energie AG is a Swiss joint-venture subsidiary of Regionalwerke AG Baden (RW
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.regionalwerke.ch/dritte-biogas-anlage-niederwil))
 - **2026-04-19** — merged 1 duplicate(s): CO₂ Energie | Regionalwerke AG Baden
 - **2026-04-19** — refresh: screenshot

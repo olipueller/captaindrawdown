@@ -35,6 +35,9 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-27** — news mention: Key takeaways from SFCW2026 - Tannis Abdoli | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7454482293101993985/))
 - **2026-04-22** — news mention: #sfcw2026 #carbonremoval #cdr #climateaction #netzero | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452232565496836096/))
 - **2026-04-20** — news mention: Welcome to the team Tannis | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7451926822297944064/))
 - **2026-04-19** — refresh: coresignal

@@ -5,7 +5,7 @@ type: "directory"
 description: "Independent ratings agency that assesses quality and risk of carbon credit projects (both avoidance and removal) using an 8-point letter-rating scale, backed by geospatial data, proprietary models"
 url: "/directory/bezero/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://bezerocarbon.com/" target="_blank" rel="noopener">https://bezerocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bezero-carbon/" target="_blank" rel="noopener">bezero-carbon — 39,784 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~163 (-21% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -29,6 +29,10 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-28** — news mention: Carbon Credit Trading Platform ROI for Operators ([source](https://techaroha.com/carbon-credit-trading-platform-roi-operators/))
 - **2026-04-19** — merged 1 duplicate(s): BeZero Carbon
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

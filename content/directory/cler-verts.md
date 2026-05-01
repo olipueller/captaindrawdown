@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a pyrolysis unit (installed 2024) that converts woody residues into CHARD'OCC biochar, sold as soil amendment alongside the company's compost, methanization, and biomass activities."
 url: "/directory/cler-verts/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.cler-verts.fr" target="_blank" rel="noopener">https://www.cler-verts.fr</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cler-verts/" target="_blank" rel="noopener">cler-verts — 2,851 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~34</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,9 @@ CLER VERTS is an organic waste valorization group established in Occitanie, Fran
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.cler-verts.fr/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))

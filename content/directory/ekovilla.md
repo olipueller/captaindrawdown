@@ -32,6 +32,8 @@ Ekovilla is the thermal insulation brand of Finnish circular-economy company Eco
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=side_business liveliness=🟢 Active ([source](https://ekovilla.com/en/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=division liveliness=🟢 Active ([source](https://ecoup.fi/en/))

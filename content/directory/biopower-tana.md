@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of local residual biomass (forestry, dairy, slaughterhouse, fish-farm waste) into biochar used in fertilizer pellets and animal feed, with residual heat recovery."
 url: "/directory/biopower-tana/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://biopowertana.no" target="_blank" rel="noopener">https://biopowertana.no</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -26,6 +26,9 @@ Biopower Tana AS is a Norwegian biochar developer founded in 2020, based in Aust
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://biopowertana.no/wp-content/uploads/2024/11/Biopower-Tana-Final-English-Investor-presentation.pdf))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-international.org/news/this-is-biochar-harnessing-biomass-to-power-a-circular-economy/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-international.org/news/this-is-biochar-harnessing-biomass-to-power-a-circular-economy/))
 - **2026-04-19** — refresh: screenshot, liveliness

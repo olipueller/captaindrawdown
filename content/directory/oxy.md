@@ -34,6 +34,8 @@ Occidental Petroleum (Oxy) is one of the largest U.S. oil and gas producers, wit
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
 - **2026-04-19** — merged 1 duplicate(s): Occidental Petroleum
 - **2026-04-19** — refresh: coresignal, liveliness

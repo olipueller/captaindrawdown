@@ -5,7 +5,7 @@ type: "directory"
 description: "Converts agricultural crop residues (stubble) in South Asia into biochar via pyrolysis for soil amendment and infrastructure applications, displacing open-field stubble burning."
 url: "/directory/onepoint5/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.onepoint5.org/" target="_blank" rel="noopener">https://www.onepoint5.org/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -26,6 +26,9 @@ OnePoint5 is an India-based biomass carbon removal and storage company focused o
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.safinvestor.com/event/145508/saf-investor-london-2025/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.onepoint5.org/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.safinvestor.com/event/145508/saf-investor-london-2025/))

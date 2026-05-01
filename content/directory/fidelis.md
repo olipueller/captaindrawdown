@@ -29,6 +29,8 @@ Fidelis New Energy, LLC is a Houston-based energy infrastructure developer focus
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://fidelisinfra.com/project/atmosclear/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://fidelisinfra.com/project/atmosclear/))

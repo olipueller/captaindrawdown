@@ -34,6 +34,8 @@ Carba is a Minneapolis, Minnesota carbon removal company whose pyrolysis technol
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carba.com/press/carba-announces-5-year-carbon-removal-credit-purchase-agreement-with-microsoft))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carba.com/press/carba-raises-6m-investment-round))

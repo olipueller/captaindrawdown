@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes eucalyptus-wood byproducts from its charcoal-for-steel operation into biochar, which is applied to its own FSC-certified plantation soils and sold as Puro.earth CORC biochar carbon-removal"
 url: "/directory/aperam/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://aperambioenergia.com.br/en/biochar/" target="_blank" rel="noopener">https://aperambioenergia.com.br/en/biochar/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aperam-bioenergia-ltda./" target="_blank" rel="noopener">aperam-bioenergia-ltda. — 318 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~139 (-4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -32,6 +32,9 @@ Aperam BioEnergia is the Brazilian forestry and renewable-energy unit of Luxembo
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/aperam-bioenergia))
 - **2026-04-19** — merged 1 duplicate(s): Aperam BioEnergia
 - **2026-04-19** — refresh: coresignal, liveliness

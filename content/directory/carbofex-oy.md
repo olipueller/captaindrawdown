@@ -31,6 +31,8 @@ Carbofex Oy is a Finnish biochar producer based in Nokia that operates a continu
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbofex.fi/))
 - **2026-04-19** — merged 1 duplicate(s): Carbofex
 - **2026-04-19** — refresh: coresignal

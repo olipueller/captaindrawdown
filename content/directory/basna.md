@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of wood biomass to produce EBC-certified biochar (feed additive, soil amendment) alongside other charcoal products, with co-generated heat."
 url: "/directory/basna/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Serbia</td></tr>
   <tr><th>Website</th><td><a href="https://www.basna.net/" target="_blank" rel="noopener">https://www.basna.net/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ Basna d.o.o. is a small Swiss-owned, family-run company founded in 2010 and head
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://cordmagazine.com/equality/vesna-baur-basna-biochar-protects-our-planet/))
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: "biochar-zero" is a separate biochar industry platform/directory (biochar-zero.com) that merely lists Basna d.o.o. as one of many biochar producers in its database. It is not Basna's LinkedIn page, no
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.basna.net/))
 - **2026-04-19** — merged 1 duplicate(s): Basna d.o.o.

@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes woody biomass in a BET 24-PRD rotary kiln to produce biochar for agricultural and other applications, generating Puro.earth CORC credits."
 url: "/directory/clean-maine-carbon/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://cleanmainecarbon.com/" target="_blank" rel="noopener">https://cleanmainecarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clean-maine-carbon/" target="_blank" rel="noopener">clean-maine-carbon — 233 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,9 @@ Clean Maine Carbon is a biochar producer operating from the former Greenville St
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://mainebiz.biz/article/biochar-startups-use-thermal-process-to-transform-waste-wood-into-a-versatile-product/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://cleanmainecarbon.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://mainebiz.biz/article/biochar-startups-use-thermal-process-to-transform-waste-wood-into-a-versatile-product/))

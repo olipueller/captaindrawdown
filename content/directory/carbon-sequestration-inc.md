@@ -5,7 +5,7 @@ type: "directory"
 description: "Buries woody biomass waste in engineered low-permeability clay vaults (Lissie Formation) sealed with thick clay caps, with embedded NDIR gas-monitoring systems for MRV."
 url: "/directory/carbon-sequestration-inc/"
 pathway: "Biomass Burial"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonsequestration-inc.com/" target="_blank" rel="noopener">https://www.carbonsequestration-inc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-sequestration-inc/" target="_blank" rel="noopener">carbon-sequestration-inc — 683 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Carbon Sequestration Inc. (CSI) is a Houston, Texas-based CDR supplier founded b
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](registry_activity))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonsequestration-inc.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonsequestration-inc.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

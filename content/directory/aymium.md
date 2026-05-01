@@ -29,6 +29,8 @@ Aymium is a U.S. biocarbon producer headquartered in Minnesota with 600+ patents
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://investor.weyerhaeuser.com/2025-12-11-Weyerhaeuser-and-Aymium-Enter-Agreement-to-Rapidly-Scale-Biocarbon-Market))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://investor.weyerhaeuser.com/2025-12-11-Weyerhaeuser-and-Aymium-Enter-Agreement-to-Rapidly-Scale-Biocarbon-Market))

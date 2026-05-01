@@ -29,6 +29,14 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-28** — news mention: We Built an AI Influencer. It Nearly Worked. ([source](https://captaindrawdown.com/posts/captain-v1-nearly-worked))
+- **2026-04-27** — news mention: Announcing Carbon Drawdown Symposium 2026 &mdash; Carbon Drawdown Initiative ([source](https://www.carbon-drawdown.de/blog/2026-4-24-announcing-carbon-drawdown-symposium-2026))
+- **2026-04-27** — news mention: After three years, 400 pots, and over 1,000 soil samples – the results are almost in. On 16–17 June, ([source](https://www.linkedin.com/feed/update/urn:li:share:7454514910442614784/))
+- **2026-04-27** — news mention: Carbon Drawdown Symposium 2026 | Carbon Drawdown Symposium 2026 ([source](https://events.carbon-drawdown.de/a/carbon-drawdown-symposium-2026))
+- **2026-04-27** — news mention: Climate scientists are raising the volume while CDR debates procurement plumbing.  @leonsimons point ([source](https://x.com/CaptainDrawdown/status/2048628779937853805))
+- **2026-04-23** — news mention: At Carbon Drawdown Initiative we&amp;#39;ve spent years asking one question: is the carbon we think  ([source](https://www.linkedin.com/feed/update/urn:li:share:7452702969524838400/))
 - **2026-04-22** — news mention: A question I keep coming back to: are the numbers we report actually measuring what we think they ar ([source](https://x.com/dpaessler/status/2046937273048989752))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-drawdown.de/who))

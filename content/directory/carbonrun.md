@@ -5,7 +5,7 @@ type: "directory"
 description: "Adds crushed limestone to acidified rivers (River Alkalinity Enhancement), converting CO2 to bicarbonate that is transported to the ocean for multi-millennial storage while simultaneously restoring"
 url: "/directory/carbonrun/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonrun.io/" target="_blank" rel="noopener">https://www.carbonrun.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonrun/" target="_blank" rel="noopener">carbonrun — 4,181 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~23 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -33,6 +33,9 @@ CarbonRun is a Nova Scotia-based CDR startup founded in 2022 that deploys river 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.carbonrun.io/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))

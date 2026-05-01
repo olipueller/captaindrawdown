@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes forestry and agricultural biomass residuals (sawdust, wood chips) into biochar, BioCoal, and Carbon Black for concrete, steel and agricultural applications."
 url: "/directory/red-mountain-biochar/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://redmountainbiochar.com/" target="_blank" rel="noopener">https://redmountainbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/red-mountain-biochar/" target="_blank" rel="noopener">red-mountain-biochar — 694 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Red Mountain Biochar is a Texas-based (Atlanta, TX) biochar producer that conver
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
 - **2026-04-19** — refresh: coresignal, liveliness

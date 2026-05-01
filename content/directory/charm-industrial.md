@@ -35,6 +35,8 @@ Charm Industrial is a San Francisco-based pure-play CDR company that uses fast p
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-22** — news mention: The context &amp; $16 Trillion opportunity | Enterprise | Charm Industrial ([source](https://charmindustrial.com/solutions))
 - **2026-04-22** — news mention: How Charm Industrial technology helps reduce wildfire risk | TD Stories ([source](https://stories.td.com/ca/en/article/charm-industrial-carbon-capture))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://charmindustrial.com/))

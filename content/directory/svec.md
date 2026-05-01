@@ -27,6 +27,8 @@ Scotts Valley Energy Corporation (SVEC), a tribal enterprise of the Scotts Valle
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://scottsvalleyenergycompany.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate ([source](N/A))

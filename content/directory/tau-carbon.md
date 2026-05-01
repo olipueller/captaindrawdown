@@ -5,7 +5,7 @@ type: "directory"
 description: "Preserves dry, densified non-merchantable wood waste from forest thinning in proprietary aboveground modular containers to prevent decomposition and durably store biogenic carbon."
 url: "/directory/tau-carbon/"
 pathway: "Biomass Burial"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.taucarbon.com/" target="_blank" rel="noopener">https://www.taucarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tau-carbon/" target="_blank" rel="noopener">tau-carbon — 500 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Tau Carbon was founded by John Lin and Dr. Amber Janda, who developed the idea o
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.linkedin.com/company/tau-carbon))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.taucarbon.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.taucarbon.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

@@ -33,6 +33,10 @@ Watershed is an enterprise sustainability software platform that helps companies
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-25** — news mention: @remineralize Watershed-scale MRV with seasonal predictability finally gives us the empirical ground ([source](https://x.com/makinggovq/status/2048007575560404995))
+- **2026-04-24** — news mention: A Watershed Reveals Carbon Removal, Soil Buffering, and Metal Stabilization ([source](https://remineralize.org/2026/04/a-watershed-reveals-carbon-removal-soil-buffering-and-metal-stabilization/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://watershed.com/platform/marketplace))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://watershed.com/platform/marketplace))

@@ -33,6 +33,10 @@ ExxonMobil is one of the world's largest integrated oil and gas companies. Its L
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-29** — news mention: The price for liquid fossil methane has increased by over a third and the fossil fools in the USA ha ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkmzhdkt622t))
+- **2026-04-22** — news mention: Future of Carbon Capture Technology Market (2026-2035) | Market Set for Strong Growth US$ 8.30 billi ([source](https://www.openpr.com/news/4484181/future-of-carbon-capture-technology-market-2026-2035-market))
 - **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://lowcarbon.exxonmobil.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://corporate.exxonmobil.com/what-we-do/delivering-industrial-solutions/direct-air-capture-technology/insights-from-our-direct-air-capture-pilot))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes mixed hardwood sawmill residues into high-carbon biochar (up to ~90% C) sold for agriculture, stormwater management, livestock bedding and soil amendment uses."
 url: "/directory/metzler/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.metzlerbiochar.com/" target="_blank" rel="noopener">https://www.metzlerbiochar.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -26,6 +26,9 @@ Metzler Biochar is a biochar product line of Metzler Forest Products LLC, a Penn
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.metzlerbiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.metzlerbiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.metzlerbiochar.com/))
 - **2026-04-19** — refresh: liveliness

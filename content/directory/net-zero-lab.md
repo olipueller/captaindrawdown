@@ -33,6 +33,8 @@ Net Zero Lab is an independent Max Planck Research Group at the Max Planck Insti
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.ip.mpg.de/en/the-institute/institute-news/the-institute-welcomes-new-max-planck-research-group-leader-benedict-probst-net-zero-lab.html))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://netzerolab.science/))

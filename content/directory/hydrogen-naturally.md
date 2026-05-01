@@ -5,7 +5,7 @@ type: "directory"
 description: "Gasifies forestry residual wood pellets to produce hydrogen plus a pure CO2 stream that is compressed and injected into onshore saline formations or depleted gas reservoirs."
 url: "/directory/hydrogen-naturally/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.h2naturally.com/" target="_blank" rel="noopener">https://www.h2naturally.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hydrogen-naturally/" target="_blank" rel="noopener">hydrogen-naturally — 602 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Hydrogen Naturally (H2N) is a Canadian startup founded by Brian Fehr and Ian Mac
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.h2naturally.com/home-2))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.h2naturally.com))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.h2naturally.com))
 - **2026-04-19** — refresh: coresignal, liveliness

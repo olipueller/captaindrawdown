@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops BECCS projects capturing biogenic CO2 from biogas/wastewater facilities and permanently storing it in North Sea sub-seabed geological storage via Northern Lights."
 url: "/directory/inherit/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.inheritcarbonsolutions.com/" target="_blank" rel="noopener">https://www.inheritcarbonsolutions.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 a
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://esgnews.com/nordea-signs-multi-year-deal-to-remove-68000-tonnes-of-co2-with-inherit-carbon-solutions/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.inheritcarbonsolutions.com/news/inherit-enters-operation-with-worlds-first-carbon-removal-project-from-biogas-in-norway))
 - **2026-04-19** — merged 1 duplicate(s): Inherit Carbon Solutions
 - **2026-04-19** — refresh: screenshot, liveliness

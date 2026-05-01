@@ -31,6 +31,9 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-23** — news mention: April CDR Industry Database Update.  We track ~970 organisations doing carbon removal. But only 570  ([source](https://x.com/CaptainDrawdown/status/2047201161388687652))
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://bioenergyinternational.com/oresundskraft-secures-sek-228m-grant-for-filbornaverket-ccs-project/))
 - **2026-04-19** — merged 1 duplicate(s): Öresundskraft AB
 - **2026-04-19** — refresh: coresignal, screenshot

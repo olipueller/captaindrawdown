@@ -5,7 +5,7 @@ type: "directory"
 description: "Manufactures magnesium-oxide cement building products (boards, panels, sheathing, tiles) that mineralize CO2, and is developing a proprietary solid-sorbent DAC unit to feed captured CO2 into the"
 url: "/directory/zs2/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://zs2technologies.com/" target="_blank" rel="noopener">https://zs2technologies.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zs2-technologies/" target="_blank" rel="noopener">zs2-technologies — 4,048 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~49 (+2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -33,6 +33,9 @@ ZS2 Technologies is a Calgary-based building-materials manufacturer whose core b
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=side_business liveliness=🟢 Active ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
 - **2026-04-19** — merged 1 duplicate(s): ZS2 Technologies
 - **2026-04-19** — refresh: coresignal, liveliness

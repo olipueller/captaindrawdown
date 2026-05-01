@@ -5,7 +5,7 @@ type: "directory"
 description: "CDR offtake financier deploying structured capital to purchase Puro.earth-certified biochar CORCs from project developers in the Global South."
 url: "/directory/altitude/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.altitudecarbon.com/" target="_blank" rel="noopener">https://www.altitudecarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/altitude-sustainable/" target="_blank" rel="noopener">altitude-sustainable — 687 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -31,6 +31,10 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-29** — news mention: Toward Environment-Aware LAE: SAR as a Shared Sensing Infrastructure ([source](https://arxiv.org/abs/2604.11298v1))
 - **2026-04-22** — news mention: Altitude partners with Engrow for +425,000t CDRs from Biochar Facilities in India ([source](https://www.altitudecarbon.com/news/altitude-partners-with-engrow))
 - **2026-04-19** — merged 1 duplicate(s): Altitude Carbon
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

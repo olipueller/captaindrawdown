@@ -29,6 +29,12 @@ BioC is a Singapore-based biochar carbon removal supplier that operates PyroCCS 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-29** — news mention: This is also an excellent to follow if you are concerned about climate change and how it can be addr ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mknjc4ty5c2t))
+- **2026-04-28** — news mention: I believe that U.S. auto manufacturers should have waited to try to build electric trucks and should ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkkxczxt2k2v))
+- **2026-04-27** — news mention: excellent point, as that is the important consideration  pyrolysis, if done under proper conditions  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkhwbvy5ht26))
+- **2026-04-24** — news mention: Biochar so strongly adsorbs heavy metals that it would most likely be safe in reality to use it if m ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkaprju2x226))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bio-c.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

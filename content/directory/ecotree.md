@@ -34,6 +34,8 @@ EcoTree provides verified carbon sequestration through afforestation and peatlan
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://ecotree.green/en/))
 - **2026-04-19** — merged 1 duplicate(s): EcoTree SAS
 - **2026-04-19** — refresh: coresignal, liveliness

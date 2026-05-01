@@ -27,6 +27,8 @@ MARINIX Ocean Tech AS is a Norwegian early-stage ocean CDR startup developing te
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: The slug "gea-carbon-capture" belongs to GEA Group, a Düsseldorf-based industrial technology company doing amine-based CO2 capture for cement/steel/chemicals. MARINIX Ocean Tech AS is an unrelated Nor
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://marinix.org/wp-content/uploads/2025/02/TWP2025.pdf))
 - **2026-04-19** — refresh: coresignal, screenshot

@@ -28,6 +28,8 @@ Telge Återvinning is a municipal waste management and recycling subsidiary of T
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.telge.se/om-telge/vara-bolag/telge-atervinning/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://thecharmaker.com/project/telge-atervinning-ab-biochar-facility/))

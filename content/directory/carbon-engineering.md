@@ -29,6 +29,9 @@ Carbon Engineering is a Canadian DAC technology developer headquartered in Squam
 
 ## History
 
+- **2026-04-24** — news mention: 1PointFive - 2026 Company Profile, Team, Funding & Competitors - Tracxn ([source](https://tracxn.com/d/companies/1pointfive/__j1A8Bl4Dvpqzj2ZoKWjLOq3ugJabICgxasKvcf7xBdY))
+- **2026-04-24** — news mention: Occidental Carbon Capture 2025, $3.5B w/ Carbon Engineering ([source](https://enkiai.com/carbon-capture/direct-air-capture-projects-us/))
+- **2026-04-22** — news mention: Future of Carbon Capture Technology Market (2026-2035) | Market Set for Strong Growth US$ 8.30 billi ([source](https://www.openpr.com/news/4484181/future-of-carbon-capture-technology-market-2026-2035-market))
 - **2026-04-21** — news mention: Direct Air Capture Market (2026-2033) | Carbon Removal Technology, CO2 Capture Systems & Net Zero St ([source](https://www.openpr.com/news/4482183/direct-air-capture-market-2026-2033-carbon-removal))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://carbonengineering.com/news-updates/carbon-engineering-to-invest-in-technology-development-and-research-facilities/))
 - **2026-04-19** — merged 1 duplicate(s): Carbon Engineering/Occidental Petroleum

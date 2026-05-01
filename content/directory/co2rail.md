@@ -5,7 +5,7 @@ type: "directory"
 description: "Designing rail-mounted DAC cars that use train slipstream airflow and regenerative braking energy to power sorbent-based CO2 capture, with a secondary locomotive-emissions point-source variant."
 url: "/directory/co2rail/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.co2rail.com/" target="_blank" rel="noopener">https://www.co2rail.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2rail/" target="_blank" rel="noopener">co2rail — 1,821 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+150% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ CO2Rail Company is a US-based start-up founded in 2020 developing rail-based, se
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.youtube.com/watch?v=DbhN6XHrofI))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.co2rail.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.youtube.com/watch?v=DbhN6XHrofI))

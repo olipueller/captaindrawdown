@@ -30,6 +30,7 @@ Kanadevia Corporation (formerly Hitachi Zosen, rebranded October 2024) is a larg
 
 ## History
 
+- **2026-04-23** — news mention: April CDR Industry Database Update.  We track ~970 organisations doing carbon removal. But only 570  ([source](https://x.com/CaptainDrawdown/status/2047201161388687652))
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
 - **2026-04-19** — merged 1 duplicate(s): Kanadevia Corporation
 - **2026-04-19** — refresh: coresignal

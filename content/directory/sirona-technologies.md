@@ -33,6 +33,8 @@ Sirona Technologies is a Belgium-based Direct Air Capture startup founded in 202
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.sirona.tech/updates/sirona-technologies-completes-multi-year-carbon-removal-offtake-facilitated-by-patch))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.sirona.tech/))

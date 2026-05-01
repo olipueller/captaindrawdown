@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces biochar via oxygen-free pyrolysis of olive pits and pulp (olive grove biomass) at a facility in Andalusia, Spain."
 url: "/directory/carboliva/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboliva.es/" target="_blank" rel="noopener">https://www.carboliva.es/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/" target="_blank" rel="noopener">carboliva-biocarb%c3%b3n-sostenible — 1,664 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Carboliva is a Spanish company based in Osuna (Seville), led by Álvaro Espuny, 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboliva.es/en/))
 - **2026-04-19** — merged 1 duplicate(s): CARBOLIVA SLU
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

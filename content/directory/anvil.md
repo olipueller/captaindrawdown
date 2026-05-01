@@ -30,6 +30,8 @@ Anvil Capture Systems is a CDR company focused on developing and scaling the CO2
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/fall-2024-prepurchases))
 - **2026-04-19** — merged 1 duplicate(s): Anvil Capture Systems
 - **2026-04-19** — refresh: coresignal, screenshot

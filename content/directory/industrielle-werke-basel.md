@@ -28,6 +28,8 @@ IWB (Industrielle Werke Basel) is the municipal utility of Basel-City providing 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.biomacon.com/post/participation-of-biomacon-in-the-maispracher-w%C3%A4rmeverbund-project-switzerland))
 - **2026-04-19** — merged 1 duplicate(s): Industrielle Werke Basel IWB
 - **2026-04-19** — refresh: coresignal

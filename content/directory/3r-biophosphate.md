@@ -5,7 +5,7 @@ type: "directory"
 description: "High-temperature (up to 850°C) zero-emission pyrolysis of food-grade animal bones and wood biomass producing phosphate biofertilizer, biochar soil amendments, and adsorbents."
 url: "/directory/3r-biophosphate/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Hungary</td></tr>
   <tr><th>Website</th><td><a href="https://biophosphate.net/" target="_blank" rel="noopener">https://biophosphate.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-humana-clean-technology-development-engineering-and-manufacturing-ltd./" target="_blank" rel="noopener">terra-humana-clean-technology-development-engineering-and-manufacturing-ltd. — 113 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -28,6 +28,9 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://circulareconomy.europa.eu/platform/en/good-practices/3r-biophosphate-ltd-pioneering-zero-emission-and-energy-independent-pyrolysis-and-nutrient-recovery))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://biophosphate.net/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

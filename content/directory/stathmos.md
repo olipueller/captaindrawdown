@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops MOF-based solid sorbent Direct Air Capture in modular container-sized \"Statbox\" units designed to capture ~1,000 tCO2/year each, with geological storage or reuse as end-points, and"
 url: "/directory/stathmos/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://stathmos.earth/" target="_blank" rel="noopener">https://stathmos.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stathmos-balance-the-climate/" target="_blank" rel="noopener">stathmos-balance-the-climate</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1 (-75% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Stathmos is a French DAC startup founded in 2023 in Le Mans by Dr. Amandine Cadi
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/stathmos/__wuTY1uaXRBSwNi_qZvZFpDTqy4NtXGRpMmDA))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://stathmos.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/stathmos/__wuTY1uaXRBSwNi_qZvZFpDTqy4NtXGRpMmDA))

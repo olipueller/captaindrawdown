@@ -29,6 +29,8 @@ ReGenerate Livermore Falls, LLC is a 39 MW biomass power facility in Livermore F
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.regenerate-energy.com/portfolio/regenerate-livermore-falls/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/regenerate-livermore-falls-llc-151))

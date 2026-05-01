@@ -5,7 +5,7 @@ type: "directory"
 description: "Deploys wave-energy-powered artificial upwelling pumps with 200-600m fabric tubes and one-way valves to bring nutrient-rich deep water to the surface, triggering phytoplankton photosynthesis to drive"
 url: "/directory/sea-up/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.sea-up.life/" target="_blank" rel="noopener">https://www.sea-up.life/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-sea-upwelling-company/" target="_blank" rel="noopener">the-sea-upwelling-company — 14 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) i
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.climate.gov/news-features/understanding-climate/carbon-dioxide-removal-noaa-state-science-factsheet))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.londonclimateactionweek.org/event/real-time-measurements-of-marine-carbon-dioxide-removal-mcdr-triggered-by-wave-driven-artificial-upwelling-pumps/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.sea-up.life/))
 - **2026-04-19** — refresh: coresignal, liveliness

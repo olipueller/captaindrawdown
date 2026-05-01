@@ -5,7 +5,7 @@ type: "directory"
 description: "AI/LLM-based scoring pipeline that evaluates carbon credit projects on integrity, transparency, claim safety and documentation from public registry documents."
 url: "/directory/carbonmeld/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Unknown</td></tr>
   <tr><th>Website</th><td><a href="https://carbonmeld.com" target="_blank" rel="noopener">https://carbonmeld.com</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -26,6 +26,12 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-25** — news mention: Why Microsoft’s CDR Pause Could Reshape How Carbon Removal Deals Are Priced, Structured, and Finance ([source](https://carbonmeld.com/en/articles/why-microsoft-s-cdr-pause-could-reshape-how-carbon-removal-deals-are-priced-structured-and-financed/))
+- **2026-04-25** — news mention: Why Carbon Removal Struggles to Attract Capital and How Carbon Credit Markets Can Fix the Funding Ga ([source](https://carbonmeld.com/en/articles/why-carbon-removal-struggles-to-attract-capital-and-how-carbon-credit-markets-can-fix-the-funding-gap/))
+- **2026-04-23** — news mention: Malaysia’s Choice to Build a Carbon Market Before a Carbon Tax: What the New Policy Signals for Buye ([source](https://carbonmeld.com/en/articles/malaysia-s-choice-to-build-a-carbon-market-before-a-carbon-tax-what-the-new-policy-signals-for-buyers-developers-and-asean-climate-finance/))
 - **2026-04-22** — news mention: Why Amazon’s India Rice Carbon Deal Could Mark a Turning Point for Smallholder Agriculture Credits · ([source](https://carbonmeld.com/en/articles/why-amazon-s-india-rice-carbon-deal-could-mark-a-turning-point-for-smallholder-agriculture-credits/))
 - **2026-04-21** — news mention: Why EU ETS Industrial Decarbonisation Still Needs a Price Floor, Not Just a Price Signal · CarbonMel ([source](https://carbonmeld.com/en/articles/why-eu-ets-industrial-decarbonisation-still-needs-a-price-floor-not-just-a-price-signal/))
 - **2026-04-21** — news mention: Why a Montana Biomass Burial Deal Matters for the Future of Carbon Removal Finance · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-a-montana-biomass-burial-deal-matters-for-the-future-of-carbon-removal-finance/))

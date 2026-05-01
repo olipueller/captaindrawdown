@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops ex-situ Enhanced Rock Weathering using crushed antigorite serpentinite, accelerated via thermoactivation and organic salts, applied on soils as a dual-use mineral fertilizer and CO2 removal"
 url: "/directory/green-sequest/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Website</th><td><a href="https://greensequest.earth/" target="_blank" rel="noopener">https://greensequest.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/green-sequest/" target="_blank" rel="noopener">green-sequest — 724 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Green Sequest is a Polish startup founded in 2022 and based in Nasławice that f
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/green-sequest/__j85wWBPUkutZ7oIZFBXnL4ocO8YTwmnBSBG5q9iYZPY))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://greensequest.earth/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://greensequest.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

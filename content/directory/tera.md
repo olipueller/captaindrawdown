@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of sugarcane bagasse into biochar applied to smallholder farmland in western Kenya, with IoT-based dMRV tracking from feedstock to field."
 url: "/directory/tera/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.teracarbon.earth/" target="_blank" rel="noopener">https://www.teracarbon.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/teracarbon/" target="_blank" rel="noopener">teracarbon — 1,716 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Tera (Tera Carbon) is a Kenyan climate-tech startup that converts sugarcane baga
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://allafrica.com/stories/202507230004.html))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/tera-becomes-first-african-developer-validated-on-riverse-carbon-registry/))
 - **2026-04-19** — merged 1 duplicate(s): Tera Carbon Pte Ltd
 - **2026-04-19** — refresh: coresignal, liveliness

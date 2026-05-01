@@ -5,7 +5,7 @@ type: "directory"
 description: "Captures biogenic CO₂ from fermentation (whisky distilleries) and biogas/biomethane plants via modular cryogenic capture units, then transports it to mineralisation (recycled limestone → carbonate"
 url: "/directory/the-carbon-removers/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://thecarbonremovers.com/" target="_blank" rel="noopener">https://thecarbonremovers.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thecarbonremovers/" target="_blank" rel="noopener">thecarbonremovers — 6,781 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~12 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ The Carbon Removers (formerly Carbon Capture Scotland) is a Scottish CDR company
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://thecarbonremovers.com/))
 - **2026-04-19** — merged 1 duplicate(s): The Carbon Removers Limited
 - **2026-04-19** — refresh: coresignal, liveliness

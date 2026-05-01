@@ -5,7 +5,7 @@ type: "directory"
 description: "Solid-sorbent DAC using a continuously moving web of sorbent material cycled between a low-temperature CO2 absorption zone and a higher-temperature desorption zone."
 url: "/directory/sponge-dac/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.spongedac.com" target="_blank" rel="noopener">https://www.spongedac.com</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sponge-dac/" target="_blank" rel="noopener">sponge-dac — 43 followers</a></td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +29,9 @@ Sponge DAC, Inc. is an early-stage Direct Air Capture startup based in Cambridge
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://uspto.report/TM/98677960))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://patents.justia.com/inventor/marek-herrmann-nowosielski))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://patents.justia.com/inventor/marek-herrmann-nowosielski))
 - **2026-04-19** — refresh: screenshot, liveliness

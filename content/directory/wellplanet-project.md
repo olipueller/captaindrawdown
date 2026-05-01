@@ -5,7 +5,7 @@ type: "directory"
 description: "Concept-stage plan for a solar- and geothermal-powered direct air capture facility with underground geologic sequestration in Florida."
 url: "/directory/wellplanet-project/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://wellplanet.pro/" target="_blank" rel="noopener">https://wellplanet.pro/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wellplanetpro/" target="_blank" rel="noopener">wellplanetpro — 198 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 22/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ WellPlanet is a direct air capture and sequestration company partnering with org
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://wellplanet.pro/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate

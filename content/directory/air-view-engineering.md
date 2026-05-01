@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops modular solid-sorbent DAC units using 3D-printed carbon-fibre components and regenerative chambers to reduce energy needs for sorbent regeneration."
 url: "/directory/air-view-engineering/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.airviewengineering.co.uk/" target="_blank" rel="noopener">https://www.airviewengineering.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/air-view-engineering-ltd/" target="_blank" rel="noopener">air-view-engineering-ltd — 280 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Air View Engineering Ltd is a Swansea, UK-based direct air capture startup found
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.airviewengineering.co.uk/ourapproach))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.airviewengineering.co.uk/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.airviewengineering.co.uk/))
 - **2026-04-19** — refresh: coresignal, screenshot

@@ -5,7 +5,7 @@ type: "directory"
 description: "Crushes volcanic basalt and applies it to smallholder farmers' fields in India to accelerate mineral weathering and permanently remove atmospheric CO₂."
 url: "/directory/terrasols/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://terrasols.earth/" target="_blank" rel="noopener">https://terrasols.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenlife-sustainability/" target="_blank" rel="noopener">greenlife-sustainability — 904 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Terrasols (Terrasols Solutions) is an India-based enhanced rock weathering start
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://terrasols.earth/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://terrasols.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Terrasols Solutions Private Limited
 - **2026-04-19** — refresh: coresignal, liveliness

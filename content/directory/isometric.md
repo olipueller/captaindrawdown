@@ -31,6 +31,15 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-30** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits  Verde Resources and Isometric ([source](https://x.com/CaptainDrawdown/status/2049715878086742265))
+- **2026-04-30** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits  Verde Resources and Isometric ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkotifsvp32y))
+- **2026-04-29** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits ([source](https://carbonherald.com/verde-and-isometric-to-commercialize-a-new-category-of-carbon-credits/?utm_source=rss&utm_medium=rss&utm_campaign=verde-and-isometric-to-commercialize-a-new-category-of-carbon-credits))
+- **2026-04-28** — news mention: Isometric, Verde Move to Scale Carbon Removal Credits Through Infrastructure - ESG News ([source](https://esgnews.com/isometric-verde-move-to-scale-carbon-removal-credits-through-infrastructure/))
+- **2026-04-27** — news mention: Verde and Isometric Aim to Scale High Integrity Carbon Credits Through Infrastructure ([source](https://www.prnewswire.com/news-releases/verde-and-isometric-aim-to-scale-high-integrity-carbon-credits-through-infrastructure-302753700.html))
+- **2026-04-26** — news mention: Prof. Dong-Yeun Koh's team adapted the dry-electrode process used for EV batteries to make a sorbent ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkewfvw6rm27))
+- **2026-04-23** — news mention: Isometric Targets Low-Carbon Materials With EAC Launch ([source](https://carbonherald.com/isometric-targets-low-carbon-materials-with-eac-launch/?utm_source=rss&utm_medium=rss&utm_campaign=isometric-targets-low-carbon-materials-with-eac-launch))
 - **2026-04-21** — news mention: #sfcw | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:share:7452087946192609280/))
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Isometric's actual LinkedIn company page is linkedin.com/company/isometric-hq (confirmed in search results showing Isometric as a carbon removal registry/standard). The slug "exponential-hq" refers to
 - **2026-04-19** — refresh: coresignal, screenshot

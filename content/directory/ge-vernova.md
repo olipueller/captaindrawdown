@@ -33,6 +33,8 @@ GE Vernova Inc. (NYSE: GEV) is a global energy technology company headquartered 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.gevernova.com/news/press-releases/ge-vernova-deploy-pioneering-direct-air-capture-technology-deep-sky-alpha-canada))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.gevernova.com/news/press-releases/ge-vernova-deploy-pioneering-direct-air-capture-technology-deep-sky-alpha-canada))

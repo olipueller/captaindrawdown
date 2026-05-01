@@ -5,7 +5,7 @@ type: "directory"
 description: "Blends third-party-pyrolyzed Southern Yellow Pine biochar (NAKED Char) with humate into granular and liquid (5-micron) soil amendments sold to growers, turf managers, arborists, and home gardeners."
 url: "/directory/american-biochar-company/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://ambiochar.com/" target="_blank" rel="noopener">https://ambiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/american-biochar/" target="_blank" rel="noopener">american-biochar — 2 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ American BioChar Company is a Michigan-based biochar soil amendment blender and 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://ambiochar.com/how-to-use-biochar-application-rates-and-methods-for-real-world-results/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://ambiochar.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://ambiochar.com/how-to-use-biochar-application-rates-and-methods-for-real-world-results/))

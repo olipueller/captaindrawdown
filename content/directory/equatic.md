@@ -34,6 +34,8 @@ Equatic is a carbon removal company combining carbon dioxide removal and green h
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))

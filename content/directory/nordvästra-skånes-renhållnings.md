@@ -28,6 +28,8 @@ NSR (Nordvästra Skånes Renhållnings AB) is a municipal waste-management utili
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://bioenergyinternational.com/nsr-closes-the-circle-with-novel-biochar-plant/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/nsr-closes-the-circle-with-novel-biochar-plant/))

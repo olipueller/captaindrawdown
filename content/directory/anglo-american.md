@@ -29,6 +29,8 @@ Anglo American is a global mining major headquartered in the UK that launched Pr
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=side_business liveliness=🟢 Active ([source](https://isometric.com/writing-articles/isometric-partners-with-anglo-american-and-zeroex-to-issue-high-quality-cdr-credits))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=division liveliness=🟢 Active ([source](https://www.angloamerican.com/our-stories/healthy-environment/turning-waste-into-a-climate-solution-with-enhanced-rock-weathering))

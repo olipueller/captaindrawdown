@@ -30,6 +30,8 @@ Founded in 2019 out of MIT, Verdox delivers electrochemical carbon capture techn
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20251110789998/en/Verdox-Demonstrates-Electrochemical-Carbon-Capture-From-Aluminum-Smelting))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://verdox.com/))

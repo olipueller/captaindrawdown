@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops ocean fertilization technology using a proprietary macronutrient biostimulant (PhytoPlus) deployed from ships/offshore platforms to stimulate phytoplankton growth and sequester CO2 in the"
 url: "/directory/ocean-nourishment-corporation/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.oceannourishment.com/" target="_blank" rel="noopener">https://www.oceannourishment.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-nourishment-corporation/" target="_blank" rel="noopener">ocean-nourishment-corporation — 304 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Ocean Nourishment Corporation (ONC) is an Australian company incorporated in 200
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://hakaimagazine.com/news/iron-fertilization-isnt-going-to-save-us/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.oceannourishment.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://hakaimagazine.com/news/iron-fertilization-isnt-going-to-save-us/))

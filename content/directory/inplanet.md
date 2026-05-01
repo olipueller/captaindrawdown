@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://inplanet.earth/" target="_blank" rel="noopener">https://inplanet.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inplanet/" target="_blank" rel="noopener">inplanet</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inplanet/" target="_blank" rel="noopener">inplanet — 16 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 97/100)</td></tr>
-  <tr><th>Employees</th><td>~80</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -35,6 +35,10 @@ InPlanet is a Brazil/Germany-based climate tech startup pioneering tropical Enha
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-24** — news mention: Silicon to Silicate: Understanding the InPlanet-Microsoft Deal ([source](https://remineralize.org/2026/04/silicon-to-silicate-understanding-the-inplanet-microsoft-deal/))
+- **2026-04-22** — news mention: RT @Climate_of_apes: Stratospheric aerosol injection geoengineering has the potential to increase la ([source](https://x.com/geoengineering1/status/2046988170152366434))
 - **2026-04-19** — restored: Dirk confirmed 80 employees correct; switched linkedin_slug to clean inplanet (was woonderlands parent)
 - **2026-04-19** — nulled Coresignal enrichment — LinkedIn slug 'woonderlands' clearly not the same company; employee count 81 inflated
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://inplanet.earth/press/inplanet-secures-agreement-to-deliver-28500-enhanced-rock-weathering-credits-to-microsoft-providing-durable-carbon-removal-and-regenerative-agriculture-benefits-in-brazil/))

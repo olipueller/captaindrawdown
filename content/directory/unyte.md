@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces biochar via pyrolysis of hemp and wood waste through its Unyte Solutions division, with a Riverse-registered biochar project and hemp-based carbon-negative construction materials."
 url: "/directory/unyte/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://unyte.co.uk/" target="_blank" rel="noopener">https://unyte.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/unyte-capital/" target="_blank" rel="noopener">unyte-capital — 775 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~8 (-43% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,9 @@ Unyte Group is a UK-based sustainability holding company headquartered in Market
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://unyte.co.uk/))
 - **2026-04-19** — merged 1 duplicate(s): Unyte Bio Char Ltd
 - **2026-04-19** — refresh: coresignal, liveliness

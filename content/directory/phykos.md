@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops solar-powered, autonomous robotic platforms that grow seaweed in the open ocean and then sink harvested biomass below 1,500 m for long-duration carbon sequestration."
 url: "/directory/phykos/"
 pathway: "Ocean CDR"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.phykos.co/" target="_blank" rel="noopener">https://www.phykos.co/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ Phykos, PBC is an Oakland, California ocean CDR startup founded in 2020 by ex-Go
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://newzchain.com/ocean-carbon-removal-a-new-frontier-in-climate-solutions-with-phykos/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.phykos.co/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.phykos.co/))
 - **2026-04-19** — refresh: screenshot, liveliness

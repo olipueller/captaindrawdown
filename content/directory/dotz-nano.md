@@ -30,6 +30,9 @@ Dotz Nano (ASX: DTZ) is an Israeli-Australian nanomaterials and specialty chemis
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-28** — news mention: Production Scale-Up For Co2 Capture Sorbent - Dotz Nano Limited (ASX:DTZ) - Listcorp. ([source](https://www.listcorp.com/asx/dtz/dotz-nano-limited/news/production-scale-up-for-co2-capture-sorbent-3344711.html))
 - **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://dotz.tech/co2-capture-technology/dotz-modified-direct-air-capture-dac-sorbents/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://dotz.tech/resources/blog/dotz-announces-first-commercial-order-for-dac-sorbent/))

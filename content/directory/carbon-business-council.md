@@ -29,6 +29,7 @@ The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade associati
 
 ## History
 
+- **2026-04-27** — news mention: How U.S. Department of Energy Awardees Are Shaping Carbon Management Innovation &mdash; Carbon Busin ([source](https://www.carbonbusinesscouncil.org/news/how-us-department-of-energy-awardees-are-shaping-the-future-of-carbon-management-innovation))
 - **2026-04-22** — news mention: #sfcw2026 #carbonremoval #cdr #climateaction #netzero | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452232565496836096/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonbusinesscouncil.org))

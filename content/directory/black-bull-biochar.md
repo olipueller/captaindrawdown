@@ -32,6 +32,8 @@ Black Bull Biochar (BBB) is a UK-based start-up specialising in biochar for sust
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bioenergy-news.com/news/black-bull-biochar-secures-4-million-for-biochar-expansion/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bioenergy-news.com/news/black-bull-biochar-secures-4-million-for-biochar-expansion/))

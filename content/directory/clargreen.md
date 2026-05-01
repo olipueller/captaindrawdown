@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes palm kernel shells and black soldier fly frass into a biochar-based organic fertilizer (CO₂ Savior) sold to African smallholder farmers, with carbon credits to be issued under Verra and"
 url: "/directory/clargreen/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Nigeria</td></tr>
   <tr><th>Website</th><td><a href="https://clargreen.earth/" target="_blank" rel="noopener">https://clargreen.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clargreen-technologies/" target="_blank" rel="noopener">clargreen-technologies — 212 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Clargreen converts agricultural waste, specifically palm kernel shells, into hig
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.linkedin.com/in/tobechukwu-obi-1ab751263/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://clargreen.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.linkedin.com/in/tobechukwu-obi-1ab751263/))

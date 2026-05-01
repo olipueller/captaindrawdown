@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops biochar- and bioash-based additives for concrete and building materials to lock biogenic carbon into long-lived construction products."
 url: "/directory/nordiczero/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://nordiczero.com/en/" target="_blank" rel="noopener">https://nordiczero.com/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nordiczero/" target="_blank" rel="noopener">nordiczero — 22 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Nordiczero is an early-stage Swedish venture developing solutions that incorpora
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://nordiczero.com/en/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://nordiczero.com/en/))
 - **2026-04-19** — merged 1 duplicate(s): Nordiczero AB
 - **2026-04-19** — refresh: coresignal, liveliness

@@ -5,7 +5,7 @@ type: "directory"
 description: "Originates and markets nature-based (IFM, soil carbon, afforestation) and tech-based (BECCS) carbon removal credits on behalf of landowners and project developers; also trades RNG, RECs, and"
 url: "/directory/anew-climate/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.anewclimate.com/" target="_blank" rel="noopener">https://www.anewclimate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blue-source/" target="_blank" rel="noopener">blue-source — 24,028 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~229</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,9 @@ Anew Climate is a Houston-based carbon project developer and credit marketer, ma
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.rngcoalition.com/news/2024/5/10/anew-climate-summit-carbon-solutions-advance-megaton-co2-removal-project))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://www.anewclimate.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.rngcoalition.com/news/2024/5/10/anew-climate-summit-carbon-solutions-advance-megaton-co2-removal-project))

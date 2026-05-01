@@ -30,6 +30,8 @@ Freshean Corp. is a Scottsdale, Arizona nanotechnology startup founded in 2017 b
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://forclimatetech.org/freshean-corp/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Stated intent to produce biochar via pyrolysis of biomass feedstocks for carbon removal, based in Singapore."
 url: "/directory/silver-bullet-biochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://silverbulletbiochar.com/" target="_blank" rel="noopener">https://silverbulletbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silver-bullet-biochar/" target="_blank" rel="noopener">silver-bullet-biochar — 87 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 35/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Silver Bullet Biochar is a Singapore-based biochar venture with a minimal public
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.linkedin.com/company/silver-bullet-biochar))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://silverbulletbiochar.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.linkedin.com/company/silver-bullet-biochar))

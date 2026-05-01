@@ -30,6 +30,8 @@ alterBiota is a Nova Scotia-based cleantech startup that makes deltaC (∆C), a 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.newswire.ca/news-releases/alterbiota-enters-commercialization-phase-with-deltac-a-liquid-biochar-admixture-transforming-concrete-832873178.html))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://alterbiota.com/))

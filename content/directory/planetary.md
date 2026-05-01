@@ -33,6 +33,9 @@ Planetary delivered the first-ever independently verified carbon removal credits
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-30** — news mention: RT @joewrote: The left has some good ideas, but they can't win elections outside small deep-blue dis ([source](https://x.com/DoctorVive/status/2049961017078161443))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.planetarytech.com/the-worlds-first-verified-oae-credits/))
 - **2026-04-19** — news mention: Frontiers | Leveraging soil organic carbon credits to enhance smallholder food security and planetar ([source](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1800887/full))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

@@ -5,7 +5,7 @@ type: "directory"
 description: "DFC produces in-woods biochar from forest slash and logging residues using air curtain burners with continuous biochar production, selling physical biochar and associated CDR credits."
 url: "/directory/desired-future-conditions/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.dfconditions.com/" target="_blank" rel="noopener">https://www.dfconditions.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/desired-future-conditions/" target="_blank" rel="noopener">desired-future-conditions — 96 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Desired Future Conditions, PBC (DFC) is a U.S. public benefit corporation produc
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.dfconditions.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.dfconditions.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.dfconditions.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

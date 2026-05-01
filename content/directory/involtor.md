@@ -5,7 +5,7 @@ type: "directory"
 description: "Soil organic carbon sequestration via regenerative cropland management (reduced tillage, cover crops, residue retention, optimized fertilization) certified under Verra VM0042."
 url: "/directory/involtor/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Romania</td></tr>
   <tr><th>Website</th><td><a href="https://involtor.ro/" target="_blank" rel="noopener">https://involtor.ro/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Involtor (Involtor Consult SRL) is a Romania-based soil carbon project developer
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://verra.org/approval-of-first-vcus-under-verras-improved-agricultural-land-management-methodology-vm0042/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

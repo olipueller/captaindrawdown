@@ -5,7 +5,7 @@ type: "directory"
 description: "Small-scale pyrolysis of waste wood into biochar plus manufacture of smokeless top-lit-updraft kilns for on-site biochar production."
 url: "/directory/earthly-biochar/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.earthlybiochar.com" target="_blank" rel="noopener">https://www.earthlybiochar.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/earthlybiochar/" target="_blank" rel="noopener">earthlybiochar</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Earthly Biochar is a small UK biochar producer founded in 2018 that sells EBC-ce
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://rootsandall.co.uk/podcast/episode-88-biochar-with-lottie-connor-of-earthly-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.earthlybiochar.com/en-us))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.earthlybiochar.com/en-us))
 - **2026-04-19** — refresh: coresignal, liveliness

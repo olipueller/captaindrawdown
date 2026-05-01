@@ -33,6 +33,8 @@ Neustark is a Swiss climate-tech company founded in 2019 (ETH Zurich spin-off), 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.neustark.com/en/news/press-release))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.neustark.com/en/our-solution-mineralization))

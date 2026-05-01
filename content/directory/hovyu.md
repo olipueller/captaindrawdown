@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops the ZEUS liquid-solvent carbon capture process for DAC, flue gas, and biogas upgrading, with room-temperature CO2 release that avoids the steam/heat penalty of conventional amine systems."
 url: "/directory/hovyu/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://hovyu.com/" target="_blank" rel="noopener">https://hovyu.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hovyu-bv/" target="_blank" rel="noopener">hovyu-bv — 1,141 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Hovyu is a small Netherlands-based carbon capture engineering firm developing th
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://pitchbook.com/profiles/company/501256-54))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://hovyu.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://pitchbook.com/profiles/company/501256-54))

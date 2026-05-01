@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops enhanced rock weathering projects spreading basalt dust on UK farmland (Northumberland), verified under the Isometric Standard, alongside nature-based afforestation projects using the"
 url: "/directory/carbon-bank/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonbank.co.uk/" target="_blank" rel="noopener">https://www.carbonbank.co.uk/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ Carbon Bank is a UK CDR project developer based in Stroud, Gloucestershire and p
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carbonbank.co.uk/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=division liveliness=🟢 Active ([source](https://www.carbonbank.co.uk/about-us/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carbonbank.co.uk/))

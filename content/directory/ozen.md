@@ -5,7 +5,7 @@ type: "directory"
 description: "Charcoal manufacturer using vertical retort pyrolysis of hardwood, co-generating electricity from pyrolysis heat; a portion of output has been EBC C-Sink certified as biochar."
 url: "/directory/ozen/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Website</th><td><a href="https://ozen.pl/en/homepage/" target="_blank" rel="noopener">https://ozen.pl/en/homepage/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ OZEN Sp. z o.o. (OZEN Plus) is a Polish charcoal manufacturer in Wałcz operatin
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://nowa.ozen.pl/wp-content/uploads/2022/11/EBC-C-Sink_2021_OZEN.pdf))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://ozen.pl/en/homepage/))
 - **2026-04-19** — merged 1 duplicate(s): OZEN Sp. z o.o.
 - **2026-04-19** — refresh: screenshot, liveliness

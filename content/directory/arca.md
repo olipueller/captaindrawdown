@@ -32,6 +32,12 @@ Arca Climate Technologies is a UBC spin-off based in Vancouver that works in par
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-29** — news mention: Mining waste is becoming the feedstock layer durable CDR has been waiting for.  Three stories this w ([source](https://x.com/CaptainDrawdown/status/2049355510839758891))
+- **2026-04-29** — news mention: Mining waste just became the feedstock asset class durable CDR was waiting for. Three stories this w ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkmdhtigmy2g))
+- **2026-04-28** — news mention: Carbon Direct and Arca announce collaboration on Industrial Mineralization technology | Carbon Direc ([source](https://www.carbon-direct.com/press/carbon-direct-and-arca-announce-collaboration-on-industrial-mineralization-technology))
+- **2026-04-28** — news mention: Arca And Carbon Direct Team Up On Scaling Industrial Mineralization ([source](https://carbonherald.com/arca-and-carbon-direct-team-up-on-scaling-industrial-mineralization/?utm_source=rss&utm_medium=rss&utm_campaign=arca-and-carbon-direct-team-up-on-scaling-industrial-mineralization))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://arcaclimate.com/newsroom/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/arca/__5q2gep_5KQ2LVib8z2XQv0nQADM4iUhgs-ZJTCuVVys))

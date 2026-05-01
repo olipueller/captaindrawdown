@@ -36,6 +36,18 @@ Swiss pioneer of solid-sorbent Direct Air Capture, operating the Orca (4,000 t/y
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-30** — news mention: RT @Climeworks: Today, we’re excited to announce a partnership with @nttdata_inc. @Climeworks will s ([source](https://x.com/geoengineering1/status/2049899722366923042))
+- **2026-04-30** — news mention: Exclusive: Data center firm inks carbon removal deal as AI demand surges ([source](https://www.axios.com/2026/04/30/data-center-deal-carbon-removal-ai))
+- **2026-04-30** — news mention: Climeworks partners with NTT DATA Group ([source](https://climeworks.com/press-release/climeworks-partners-with-ntt-data-group))
+- **2026-04-30** — news mention: https://t.co/nvogKM8TtW ([source](https://x.com/Climeworks/status/2049780398947815785))
+- **2026-04-29** — news mention: Climeworks Summit 2026 - Speakers | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455289122946125825/))
+- **2026-04-29** — news mention: Environmental technology: Climeworks receives surprising green light for plant in Louisiana | blue N ([source](https://www.bluewin.ch/en/news/climeworks-receives-surprising-green-light-for-plant-in-louisiana-3209383.html))
+- **2026-04-29** — news mention: Climeworks Given Surprise Green Light For US Plant ([source](https://menafn.com/1111044257/Climeworks-Given-Surprise-Green-Light-For-US-Plant))
+- **2026-04-29** — news mention: Climeworks given surprise green light for US plant - SWI swissinfo.ch ([source](https://www.swissinfo.ch/eng/climate-solutions/climeworks-receives-surprising-green-light-for-plant-in-louisiana/91326278))
+- **2026-04-29** — news mention: Direct air capture - Wikipedia ([source](https://en.wikipedia.org/wiki/Direct_air_capture))
+- **2026-04-24** — news mention: Occidental Carbon Capture 2025, $3.5B w/ Carbon Engineering ([source](https://enkiai.com/carbon-capture/direct-air-capture-projects-us/))
 - **2026-04-22** — news mention: Federal funding boost gives state carbon capture project new life ([source](https://www.1012industryreport.com/carbon-capture/federal-funding-boost-gives-state-carbon-capture-project-new-life/))
 - **2026-04-21** — news mention: Direct Air Capture Market (2026-2033) | Carbon Removal Technology, CO2 Capture Systems & Net Zero St ([source](https://www.openpr.com/news/4482183/direct-air-capture-market-2026-2033-carbon-removal))
 - **2026-04-20** — news mention: Louisiana carbon capture project gets new life with federal funding boost ([source](https://www.businessreport.com/article/louisiana-carbon-capture-project-gets-new-life-with-federal-funding-boost))

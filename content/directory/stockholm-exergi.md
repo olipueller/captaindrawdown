@@ -28,6 +28,13 @@ Stockholm Exergi is the municipal energy utility for the Stockholm region, provi
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-24** — news mention: Stockholm Exergi hoists football-field pipe bridge for 720k-ton BECCS plant ([source](https://www.captaindrawdown.com/posts/a-pipe-bridge-the-length-of-a-football-field-delivered-via-b/))
+- **2026-04-24** — news mention: Behind the scenes: how the CDR Company Directory actually gets built.  Today we published the making ([source](https://x.com/CaptainDrawdown/status/2047601531076100376))
+- **2026-04-24** — news mention: Northern Lights Expands CO2 Shipping Fleet With Third Carrier  https://carbonherald.com/northern-lig ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mk7yeghxky2u))
+- **2026-04-23** — news mention: A pipe bridge the length of a football field, delivered via boat and hoisted into place using a heav ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453001214646059008/))
+- **2026-04-23** — news mention: The pipe bridge in place – a milestone in our largest climate initiative - Stockholm Exergi ([source](https://www.stockholmexergi.se/nyheter/the-pipe-bridge-in-place-a-milestone-in-our-largest-climate-initiative/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/stockholm-exergi-takes-final-investment-decision-on-worlds-first-large-scale-beccs-project-using-capsols-carbon-capture-technology-302413620.html))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/stockholm-exergi-takes-final-investment-decision-on-worlds-first-large-scale-beccs-project-using-capsols-carbon-capture-technology-302413617.html))

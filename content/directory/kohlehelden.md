@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a BIOMACON pyrolysis unit converting regional wood chips into EBC-certified plant charcoal and GMP+-certified feed charcoal, with waste heat feeding a local district-heating network."
 url: "/directory/kohlehelden/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://kohlehelden.de/" target="_blank" rel="noopener">https://kohlehelden.de/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -26,6 +26,9 @@ KohleHelden is a family-run biochar producer in Zierenberg (North Hesse, Germany
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.moebel.de/garten/pflanzen?data-sheet=4b59640ca1afc9d6bd6b8af3adec86ed))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://kohlehelden.de/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.moebel.de/garten/pflanzen?data-sheet=4b59640ca1afc9d6bd6b8af3adec86ed))

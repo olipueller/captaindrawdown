@@ -5,7 +5,7 @@ type: "directory"
 description: "Designs and sells biomass gasification/pyrolysis equipment that produces biochar alongside syngas/green gas, with deployments in Belgium and Benin."
 url: "/directory/viktor-gbv/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.viktorgoesgreen.be/" target="_blank" rel="noopener">https://www.viktorgoesgreen.be/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/viktor-goes-green.be/" target="_blank" rel="noopener">viktor-goes-green.be</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,9 @@ Viktor Goes Green is a Belgian green-energy company founded in 2011/2015 by Marc
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.marccornelissenbrightlandsaward.com/marc-moons))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.viktorgoesgreen.be/))

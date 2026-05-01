@@ -5,7 +5,7 @@ type: "directory"
 description: "Grinds silicate rock into sand and adds it to the ocean (oceanic enhanced weathering / OAE) with a proprietary tracer-based MRV method to quantify CO2 removal."
 url: "/directory/scaled-carbon/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://scaledcarbon.com/" target="_blank" rel="noopener">https://scaledcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scaled-carbon/" target="_blank" rel="noopener">scaled-carbon — 51 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Scaled Carbon is an early-stage US-based marine CDR developer focused on oceanic
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://scaledcarbon.com/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://scaledcarbon.com/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://scaledcarbon.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

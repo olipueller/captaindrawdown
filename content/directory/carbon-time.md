@@ -5,7 +5,7 @@ type: "directory"
 description: "Researches and develops ocean alkalinity enhancement (OAE) methods — primarily olivine rock weathering and electrochemical alkalinity generation tied to coastal water-treatment/desalination"
 url: "/directory/carbon-time/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-time.com/" target="_blank" rel="noopener">https://www.carbon-time.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-time/" target="_blank" rel="noopener">carbon-time — 1,850 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,6 +34,9 @@ Carbon Time is a Paris-based startup founded in 2021 and led by Ivan Communod th
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/carbon-time/__17zs-noFXGmUi1E9rKCypx2b_9Mo8-kdJdKqSYefPb8))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon-time.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/carbon-time/__17zs-noFXGmUi1E9rKCypx2b_9Mo8-kdJdKqSYefPb8))

@@ -29,6 +29,8 @@ Grain Ecosystem was a Boston-based digital platform (founded 2022) that provided
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🔴 Likely Dead ([source](https://carbonherald.com/in-a-strategic-biochar-move-mangrove-systems-acquires-grain-ecosystem/))

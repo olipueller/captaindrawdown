@@ -5,7 +5,7 @@ type: "directory"
 description: "Worker cooperative deploying low-cost, solar-powered \"PyroTower\" pyrolysis units across African smallholder farms to convert agricultural waste into biochar and sell durable carbon removal credits"
 url: "/directory/plantvillage/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://plantvillageplus.coop/" target="_blank" rel="noopener">https://plantvillageplus.coop/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ PlantVillage+ is a worker-owned cooperative spun out of Penn State's PlantVillag
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Carbon4Good and PlantVillage+ share a founder (David Hughes) and Penn State origins, but PlantVillage+'s own website lists Carbon4Good as a separate third-party customer of their software ("companies 
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://plantvillageplus.coop/))
 - **2026-04-19** — refresh: coresignal, screenshot

@@ -33,6 +33,8 @@ Zero Carbon Systems is a US-based direct air capture company that acquired Globa
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.zerocarbonsystems.com/news))
 - **2026-04-19** — merged 1 duplicate(s): Global Thermostat
 - **2026-04-19** — refresh: coresignal

@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces a carbon-negative Portland-cement alternative using magnesium compounds from desalination brine and steel slag, curing at ambient temperature so the binder mineralizes CO₂ throughout the"
 url: "/directory/partanna/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Bahamas</td></tr>
   <tr><th>Website</th><td><a href="https://partanna.com/" target="_blank" rel="noopener">https://partanna.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/partannaglobal/" target="_blank" rel="noopener">partannaglobal — 7,886 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-73% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -32,6 +32,9 @@ Partanna Global is a Bahamian advanced materials company co-founded by former NB
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://industrytoday.com/partanna-makes-senior-hires-as-it-continues-to-scale/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://partanna.com/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://partanna.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

@@ -34,6 +34,8 @@ NeoCarbon GmbH is a Berlin-based DAC startup founded in 2022 by René Haas and S
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dvne.org/en/news-en/four-members-achieve-federal-funding/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-neocarbon-turning))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Autonomous subsurface injection of wood-waste slurry 40-60 ft underground, creating anoxic biomass burial chambers that both elevate flood-prone terrain and durably sequester biogenic carbon"
 url: "/directory/terranova/"
 pathway: "Biomass Burial"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.terranova.inc/" target="_blank" rel="noopener">https://www.terranova.inc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/levitree/" target="_blank" rel="noopener">levitree — 4,970 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~28</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,9 @@ Terranova (formerly Levitree) is a San Francisco/Berkeley-based terraforming rob
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://terranovacorp.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=side_business liveliness=🟢 Active ([source](https://www.terranova.inc/press/terranova-funding))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.terranova.inc/press/terranova-funding))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

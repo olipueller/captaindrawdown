@@ -5,7 +5,7 @@ type: "directory"
 description: "Developing conversion of the 73-MW TES Filer City coal plant to biomass fuel with B&W SolveBright post-combustion amine capture for permanent geologic CO2 storage."
 url: "/directory/northstar-clean-energy/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://northstarcleanenergy.com/" target="_blank" rel="noopener">https://northstarcleanenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northstarcleanenergy/" target="_blank" rel="noopener">northstarcleanenergy — 3,165 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~109</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -28,6 +28,9 @@ NorthStar Clean Energy is a wholly owned unregulated subsidiary of CMS Energy (N
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/northstarcleanenergy/__21wCHSYa3jZVH7X4S9fEwqmCdanhA4k1DbMbmjF2qQE))
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://northstarcleanenergy.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/northstarcleanenergy/__21wCHSYa3jZVH7X4S9fEwqmCdanhA4k1DbMbmjF2qQE))

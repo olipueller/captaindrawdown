@@ -5,7 +5,7 @@ type: "directory"
 description: "Patented thermal conversion / gasification of biomass, plastic, and MSW feedstocks to produce \"Ultra Green Hydrogen,\" renewable electricity, and high-purity biochar as a carbon-sequestration"
 url: "/directory/pennsaco-technologies/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pennsaco.com/" target="_blank" rel="noopener">https://pennsaco.com/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 28/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ Pennsaco Technologies is a Radnor, Pennsylvania company (founded 2018) developin
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://pennsaco.com/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate

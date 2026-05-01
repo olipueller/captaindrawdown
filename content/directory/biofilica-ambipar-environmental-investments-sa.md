@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops and commercializes nature-based carbon projects in Brazil (REDD+, afforestation/reforestation, agricultural land management, Blue Carbon, biochar) under Verra VCS/CCB standards."
 url: "/directory/biofilica-ambipar-environmental-investments-sa/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://biofilica.com.br/en/" target="_blank" rel="noopener">https://biofilica.com.br/en/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ Founded in 2008, Biofílica Ambipar Environment's mission is to establish a stro
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://biofilica.com.br/en/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

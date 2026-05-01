@@ -5,7 +5,7 @@ type: "directory"
 description: "Shreds non-recyclable mixed waste (plastic, wood, glass wool, etc.) and encapsulates it with a mineral binder under mechanical pressure to produce stable \"Anthropocite\" aggregates that lock biogenic"
 url: "/directory/néolithe/"
 pathway: "Biomass Burial"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://neolithe.com/" target="_blank" rel="noopener">https://neolithe.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ Néolithe is a French industrial startup founded in 2019 near Angers that manufa
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://neolithe.fr/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=side_business liveliness=🟢 Active ([source](https://neolithe.com/our-news/))
 - **2026-04-19** — reactivated — screenshot succeeded in reshoot3
 - **2026-04-19** — deactivated — URL https://neolithe.com/ returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct

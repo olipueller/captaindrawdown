@@ -5,7 +5,7 @@ type: "directory"
 description: "Integrated biomass gasification + Fischer-Tropsch SAF plant with BECCS capturing and geologically storing CO2 from the biomass power/gasification streams to produce carbon-negative jet fuel."
 url: "/directory/pathway-energy/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pathwayenergy.com/" target="_blank" rel="noopener">https://pathwayenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pathway-energy/" target="_blank" rel="noopener">pathway-energy</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~6</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Pathway Energy is a Houston-based developer of carbon-negative sustainable aviat
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/carbon-negative-fuels-pioneer-pathway-energy-debuts-with-ultra-negative-sustainable-aviation-fuel-and-plans-for-new-saf-facility-on-us-gulf-coast-302329556.html))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

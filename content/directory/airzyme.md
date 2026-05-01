@@ -34,6 +34,8 @@ AirZyme is a Stockholm-based climate tech startup (founded 2022) developing a bi
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.f6s.com/company/airzyme))
 - **2026-04-19** — merged 1 duplicate(s): AirZyme Sweden AB
 - **2026-04-19** — refresh: coresignal, liveliness

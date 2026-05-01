@@ -33,6 +33,8 @@ Carbonsate is a Berlin-based carbon removal supplier founded in 2023 that develo
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carbonsate-marks-first-credit-issuance-from-its-puro-earth-certified-biomass-storage-project/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carbonsate-marks-first-credit-issuance-from-its-puro-earth-certified-biomass-storage-project/))

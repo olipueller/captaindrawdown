@@ -5,7 +5,7 @@ type: "directory"
 description: "Aquafin operates a wastewater treatment utility and is building a drying+pyrolysis unit at its RWZI Menen site to convert sewage sludge into biochar for carbon removal."
 url: "/directory/aquafin/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.aquafin.be/" target="_blank" rel="noopener">https://www.aquafin.be/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aquafin/" target="_blank" rel="noopener">aquafin — 22,951 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1011 (+3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -28,6 +28,9 @@ Aquafin is the Flemish wastewater treatment utility, owned by the Flemish Enviro
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))

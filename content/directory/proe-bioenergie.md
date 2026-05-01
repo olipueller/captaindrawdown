@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes wood and plant biomass in closed batch reactors (~450 °C, Green-Carbon process) to produce EBC-certifiable biochar sold under the Carbio® brand."
 url: "/directory/proe-bioenergie/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.proe-bioenergie.de/en/" target="_blank" rel="noopener">https://www.proe-bioenergie.de/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/proe-bioenergie-gmbh/" target="_blank" rel="noopener">proe-bioenergie-gmbh</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ ProE Bioenergie GmbH is a small German company in Auenwald, founded in 2006, tha
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.proe-bioenergie.de/contact/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.proe-bioenergie.de/en/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.proe-bioenergie.de/contact/))

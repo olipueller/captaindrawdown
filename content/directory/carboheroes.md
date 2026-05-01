@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops pyrolysis-based biochar projects using agricultural residues in Costa Rica and Latin America, applying biochar to agricultural soils and generating CORC credits via Puro.earth."
 url: "/directory/carboheroes/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboheroes.com/" target="_blank" rel="noopener">https://www.carboheroes.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboheroes/" target="_blank" rel="noopener">carboheroes — 17 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ CarboHeroes GmbH is a Berlin-based biochar project developer running pilot pyrol
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://carboheroes.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.carboheroes.com/blank))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.carboheroes.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

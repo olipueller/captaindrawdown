@@ -29,6 +29,9 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 
 ## History
 
+- **2026-04-29** — news mention: Frontier And Carbon Removal Canada Launch The World’s First Surficial Mineralization Hub ([source](https://carbonherald.com/frontier-and-carbon-removal-canada-launch-the-worlds-first-surficial-mineralization-hub/?utm_source=rss&utm_medium=rss&utm_campaign=frontier-and-carbon-removal-canada-launch-the-worlds-first-surficial-mineralization-hub))
+- **2026-04-27** — news mention: Reports &amp; Resources ([source](https://carbonremoval.ca/reports-resources/))
+- **2026-04-24** — news mention: Biochar and Indigenous Nations: a double helix model for Canada - Carbon Removal Canada ([source](https://carbonremoval.ca/biochar-and-indigenous-nations-a-double-helix-model-for-canadas-climate-goals/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbonremoval.ca/about/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://carbonremoval.ca/ ([source](https://www.cdr.fyi/marketplace/carbon-removal-canada))

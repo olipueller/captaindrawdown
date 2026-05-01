@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes willow biomass into porous biochar sold for soil improvement, stormwater filtration, and landscaping applications."
 url: "/directory/carbons-finland/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://carbons.fi/en/home/" target="_blank" rel="noopener">https://carbons.fi/en/home/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbons-finland/" target="_blank" rel="noopener">carbons-finland</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ Carbons Finland Oy is a micro-enterprise in Kouvola, Finland, founded in 2014, p
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.sitra.fi/en/cases/biochar-enhances-nutrient-recycling-carbon-sequestration/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carbons.fi/en/the-company/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carbons.fi/en/home/))
 - **2026-04-19** — refresh: coresignal, liveliness

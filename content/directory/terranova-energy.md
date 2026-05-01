@@ -5,7 +5,7 @@ type: "directory"
 description: "Licenses HTC \"wet pyrolysis\" technology that carbonizes dewatered sewage sludge and biowaste at ~180–200°C and 20+ bar into lignite-like hydrochar, storing >90% of feedstock carbon in a form claimed"
 url: "/directory/terranova-energy/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.terranova-energy.com/" target="_blank" rel="noopener">https://www.terranova-energy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terranova-energy/" target="_blank" rel="noopener">terranova-energy — 629 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ TerraNova Energy is a Düsseldorf-based technology provider and licensor that bu
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.terranova-energy.com/en/applications/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.terranova-energy.com/en/applications/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.terranova-energy.com/en/applications/))

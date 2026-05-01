@@ -30,6 +30,8 @@ CarStorCon Technologies is a company founded in 2022 in Marienhafe, Germany. Car
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carstorcon.technology/en/uber-uns/))
 - **2026-04-19** — merged 1 duplicate(s): CarStorConTechnologies
 - **2026-04-19** — refresh: coresignal, screenshot

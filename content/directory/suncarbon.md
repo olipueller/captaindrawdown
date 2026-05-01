@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes agricultural biomass residues in India into biochar sold as a soil enhancer and registered as CDR projects via the SunCarbon Saarthi farmer platform."
 url: "/directory/suncarbon/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://suncarbon.in/" target="_blank" rel="noopener">https://suncarbon.in/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/suncarbon/" target="_blank" rel="noopener">suncarbon — 611 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ SunCarbon is a biochar brand operated by Teo Ventures in India that converts agr
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.youtube.com/watch?v=xM5XyDath98))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://suncarbon.in/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://suncarbon.in/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

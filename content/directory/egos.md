@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a BImSchG-permitted pyrolysis plant converting biomass into biochar, feed charcoal and Terra Preta, with syngas-based CO2-negative power and heat cogeneration."
 url: "/directory/egos/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.pflanzenkohle24.de/" target="_blank" rel="noopener">https://www.pflanzenkohle24.de/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ EGoS was founded in 2002 by Theo Houy and has been based at its current site in 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pflanzenkohle24.de/info/Anlagentechnik.html))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pflanzenkohle24.de/info/Anlagentechnik.html))
 - **2026-04-19** — refresh: liveliness

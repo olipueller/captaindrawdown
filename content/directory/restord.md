@@ -28,6 +28,8 @@ Restord is a Cornwall-based UK biochar startup founded by Tom Previte that conve
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.restord.earth/news/biochar-in-the-field-what-we-learned-from-real-farm-trials-in-cornwall))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.restord.earth/))

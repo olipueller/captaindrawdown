@@ -5,7 +5,7 @@ type: "directory"
 description: "REFNOVA® steam-assisted rapid pyrolysis process converts woody and agricultural biomass residues into 2G bioethanol (for Sustainable Aviation Fuel via alcohol-to-jet) plus biochar as a"
 url: "/directory/nova-pangaea-technologies/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.novapangaea.com/" target="_blank" rel="noopener">https://www.novapangaea.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nova-pangaea-technologies-uk-limited/" target="_blank" rel="noopener">nova-pangaea-technologies-uk-limited — 3,811 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~30 (-19% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,9 @@ Nova Pangaea Technologies is a UK cleantech company headquartered in Wilton Inte
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.novapangaea.com/about/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.novapangaea.com/nova-pangaea-technologies-appoints-new-ceo-to-lead-global-growth/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.novapangaea.com/about/))

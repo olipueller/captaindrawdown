@@ -5,7 +5,7 @@ type: "directory"
 description: "Captures biogenic CO2 from corn-ethanol fermentation at its Richardton, ND plant and injects it into an onsite Class VI well in the Broom Creek formation, issuing Puro.earth CORCs."
 url: "/directory/gevo-inc/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://gevo.com" target="_blank" rel="noopener">https://gevo.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gevo/" target="_blank" rel="noopener">gevo — 22,538 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~124 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -33,6 +33,9 @@ Gevo, Inc. (NASDAQ: GEVO) is a US renewable fuels and chemicals company headquar
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-achieves-industry-milestone-500000-high-quality-carbon))
 - **2026-04-19** — merged 1 duplicate(s): Gevo (Red Trail Energy)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

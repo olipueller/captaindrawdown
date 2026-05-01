@@ -30,6 +30,8 @@ Gaia Refinery is a Halifax-based carbon removal startup founded in 2020 by Dr. T
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://northx.ca/project/gaia-refinery))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://northx.ca/project/gaia-refinery))

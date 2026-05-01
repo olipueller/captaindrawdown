@@ -29,6 +29,8 @@ Founded in 2020, RepAir Carbon develops an ultra-efficient electrochemical syste
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-20** — news mention: The Living Climate - Sierra Club Canada ([source](https://www.sierraclub.ca/living-climate-lynn-jones-ole-hendrickson/?utm_source=rss&utm_medium=rss&utm_campaign=living-climate-lynn-jones-ole-hendrickson))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.repair-carbon.com/press-posts/repair-carbon-raises-15m-to-commercialize-breakthrough-technology))
 - **2026-04-19** — refresh: coresignal

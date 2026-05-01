@@ -5,7 +5,7 @@ type: "directory"
 description: "ISO 14064-2 methodology developer and MRV platform operator that generates carbon removal credits from industrial hemp farming across regenerative soil carbon, biochar, and hemp biomass burial"
 url: "/directory/hemp-carbon-standard/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://hempcarbonstandard.org" target="_blank" rel="noopener">https://hempcarbonstandard.org</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hemp-carbon-standard/" target="_blank" rel="noopener">hemp-carbon-standard — 4,075 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1 (-67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Hemp Carbon Standard (HCS) is a Calgary-based wholly-owned subsidiary of Hempalt
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://hempcarbonstandard.org/about-hcs/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

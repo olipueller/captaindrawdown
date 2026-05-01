@@ -5,7 +5,7 @@ type: "directory"
 description: "Solid-sorbent DAC using a moving-bed Temperature Vacuum Swing Adsorption (TVSA) architecture that decouples adsorption and desorption, regenerating at ~70°C with under 1,800 kWh/tCO2."
 url: "/directory/daclab/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.daclab.us" target="_blank" rel="noopener">https://www.daclab.us</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/daclab-us/" target="_blank" rel="noopener">daclab-us — 288 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ DACLab is a Palo Alto-based climate-tech startup developing a modular solid-sorb
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.daclab.us/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))

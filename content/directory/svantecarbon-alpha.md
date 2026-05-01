@@ -5,7 +5,7 @@ type: "directory"
 description: "Svante manufactures nanoengineered solid-sorbent filters and modular rotating contactor machines for capturing CO2 from industrial flue gas and air, and via its Carbon Alpha subsidiary develops BECCS"
 url: "/directory/svantecarbon-alpha/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.svanteinc.com/" target="_blank" rel="noopener">https://www.svanteinc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/svantesolutions/" target="_blank" rel="noopener">svantesolutions — 25,849 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~289 (-2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -32,6 +32,9 @@ Svante is a Vancouver, BC-based carbon capture and removal technology company. I
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-acquires-carbon-dioxide-removal-project-developer-carbon-alpha-corp/))
 - **2026-04-19** — merged 6 duplicate(s): North Star, North Star Carbon Solutions LP, Forward, North Star Carbon Solutions, Svante, Svante Technologies
 - **2026-04-19** — refresh: coresignal, liveliness
@@ -59,9 +62,6 @@ Svante is a Vancouver, BC-based carbon capture and removal technology company. I
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-mltc-beccs-cdrs-microsoft/))
 - **2026-04-19** — discovered via: news_feed ([source](https://biomassmagazine.com/articles/abc-biogas-creates-power-for-millions-of-homes-with-room-to-grow))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-mltc-beccs-cdrs-microsoft/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.carbonalpha.com/northstar))
 
 ---
 

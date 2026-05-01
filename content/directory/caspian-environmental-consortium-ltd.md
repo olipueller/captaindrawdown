@@ -5,7 +5,7 @@ type: "directory"
 description: "Cultivates local Caspian Sea diatom microalgae in coastal aquaponds using the Brilliant Planet model, then converts biomass to a stable form and buries it for long-term CO2 storage."
 url: "/directory/caspian-environmental-consortium-ltd/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kazakhstan</td></tr>
   <tr><th>Website</th><td><a href="https://www.caspian.eco/" target="_blank" rel="noopener">https://www.caspian.eco/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/caspian-environmental-consortium-ltd/" target="_blank" rel="noopener">caspian-environmental-consortium-ltd — 148 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Caspian Environmental Consortium Ltd. is a Kazakhstan-based bio-economy research
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.caspian.eco/projects/caspiancdr))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

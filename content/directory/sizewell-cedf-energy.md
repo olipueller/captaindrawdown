@@ -29,6 +29,8 @@ Sizewell C is a 3.2 GW nuclear power station project in Suffolk being developed 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.sizewellc.com/environment/net-zero/direct-air-capture/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.sizewellc.com/environment/net-zero/direct-air-capture/))

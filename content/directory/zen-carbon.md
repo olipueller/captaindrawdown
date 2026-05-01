@@ -5,7 +5,7 @@ type: "directory"
 description: "Injects CO₂ into wet ready-mix concrete where it reacts to form nano-scale CaCO₃ polymorphs, permanently storing carbon and allowing cement content reduction while improving early strength."
 url: "/directory/zen-carbon/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Construction)</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.zencarbon.org/" target="_blank" rel="noopener">https://www.zencarbon.org/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clitruct/" target="_blank" rel="noopener">clitruct — 399 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~6</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +30,9 @@ ZEN Carbon is a Nairobi-based startup developing reactor-driven CO₂ mineraliza
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: ZEN Carbon is a Nairobi-based CO₂-mineralization-in-concrete startup led by CEO Andy Onyango, with no reference to "clitruct" on its website or in any press coverage. The slug "clitruct" doesn't match
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.zencarbon.org/))
 - **2026-04-19** — refresh: coresignal, liveliness

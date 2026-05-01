@@ -5,7 +5,7 @@ type: "directory"
 description: "Thermal conversion (air-curtain incinerator) of landfill-diverted waste wood into certified organic biochar for soil application and CDR credits."
 url: "/directory/bella-biochar-corp/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://bellabiochar.com/" target="_blank" rel="noopener">https://bellabiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bella-biochar-corporation/" target="_blank" rel="noopener">bella-biochar-corporation</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Bella Biochar Corporation is an Ontario-based biochar producer that converts lan
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://link.springer.com/article/10.1007/s42773-024-00366-7))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bellabiochar.com/))
 - **2026-04-19** — merged 1 duplicate(s): Bella Biochar
 - **2026-04-19** — refresh: coresignal, liveliness

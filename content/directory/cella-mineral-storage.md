@@ -5,7 +5,7 @@ type: "directory"
 description: "Dissolves captured CO2 in water and injects it into basaltic formations in Kenya's Rift Valley for permanent in-situ mineralization."
 url: "/directory/cella-mineral-storage/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cellamineralstorage.com/" target="_blank" rel="noopener">https://www.cellamineralstorage.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cellamineral/" target="_blank" rel="noopener">cellamineral — 4,224 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~9 (-10% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -30,6 +30,9 @@ Cella Mineral Storage is a New York-based carbon mineralization startup operatin
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.sirona.tech/updates/sirona-technologies-and-cella-launch-project-jacaranda))
 - **2026-04-19** — merged 1 duplicate(s): Cella
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

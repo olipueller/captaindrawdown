@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates pyrolysis kilns in Kabati, Kenya that convert eucalyptus, Mathenge and macadamia husk waste into biochar, which is blended into an organic fertilizer (Asili) distributed to smallholder"
 url: "/directory/bio-logical/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.bio-logical.green/" target="_blank" rel="noopener">https://www.bio-logical.green/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bio-logical/" target="_blank" rel="noopener">bio-logical — 5,958 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~47 (+2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,9 @@ Bio-Logical is a Kenya-based climate tech company producing biochar from agricul
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))

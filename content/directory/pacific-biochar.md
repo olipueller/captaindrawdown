@@ -5,7 +5,7 @@ type: "directory"
 description: "Retrofits existing biomass power plants and sawmills to co-produce biochar from forest/sawmill residues, which is then applied to agricultural soils for durable carbon storage."
 url: "/directory/pacific-biochar/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.pacificbiochar.com" target="_blank" rel="noopener">https://www.pacificbiochar.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pacific-biochar/" target="_blank" rel="noopener">pacific-biochar — 2,096 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -33,6 +33,9 @@ Pacific Biochar is a California-based benefit corporation founded in 2014 that p
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
 - **2026-04-19** — merged 1 duplicate(s): Pacific Biochar/Wren
 - **2026-04-19** — refresh: coresignal, liveliness

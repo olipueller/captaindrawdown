@@ -29,6 +29,9 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-24** — news mention: Many countries combine GHG emissions and removals to get net emissions. On this accounting, Sweden h ([source](https://bsky.app/profile/glenpeters.bsky.social/post/3mk7vcupg3k24))
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: biochar-zero.com is an industry directory/database that lists Carbon Cycle GmbH & Co. KG as one entry among many biochar producers; it is a separate platform, not the same entity, rename, parent, or s
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/carbon-cycle-001-rieden-de))
 - **2026-04-19** — refresh: liveliness

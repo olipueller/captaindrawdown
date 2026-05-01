@@ -33,6 +33,8 @@ Founded in 2022, Gigablue develops and deploys a marine carbon removal pathway b
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.gigablue.co/news/skiesfifty-200kton-carboncredit-announcement-gigablue))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2025/09/18/3152278/0/en/Gigablue-Strengthens-Deep-Sea-Monitoring-Capabilities-with-Custom-ROV.html))

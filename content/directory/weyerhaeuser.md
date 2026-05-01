@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops Improved Forest Management (IFM) carbon credits across 200,000+ acres via extended harvest rotations and streamside no-harvest zones, plus subsurface pore-space leases to CCS operators."
 url: "/directory/weyerhaeuser/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.weyerhaeuser.com/climate-solutions/" target="_blank" rel="noopener">https://www.weyerhaeuser.com/climate-solutions/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/weyerhaeuser/" target="_blank" rel="noopener">weyerhaeuser — 110,165 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~7258</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,9 @@ Weyerhaeuser (NYSE: WY) is one of the world's largest private timberland REITs, 
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=side_business liveliness=🟢 Active ([source](https://www.weyerhaeuser.com/climate-solutions/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

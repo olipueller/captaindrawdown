@@ -34,6 +34,9 @@ Boomitra is a US-headquartered carbon removal project developer working with far
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-24** — news mention: Carbon Finance Reaches Mexico’s Desert Ranchers As Boomitra Begins Credit Payments ([source](https://carbonherald.com/carbon-finance-reaches-mexicos-desert-ranchers-as-boomitra-begins-credit-payments/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-finance-reaches-mexicos-desert-ranchers-as-boomitra-begins-credit-payments))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://boomitra.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://boomitra.com/biomass-carbon-removal/))

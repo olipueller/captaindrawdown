@@ -28,6 +28,8 @@ Hafslund Celsio is Norway's largest district heating and waste-to-energy company
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://kommunikasjon.ntb.no/pressemelding/18583528/hafslund-celsio-announces-a-10-year-carbon-removal-agreement-with-microsoft))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.slb.com/news-and-insights/newsroom/press-release/2025/slb-capturi-and-aker-solutions-win-contract-to-deliver-carbon-capture-solution-for-hafslund-celsio))

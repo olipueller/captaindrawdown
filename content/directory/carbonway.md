@@ -5,7 +5,7 @@ type: "directory"
 description: "Tech-agnostic project developer that captures biogenic CO2 from biomethanization plants and mineralizes it in construction/backfill materials like bottom ash and construction debris."
 url: "/directory/carbonway/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonway.org/" target="_blank" rel="noopener">https://www.carbonway.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonwayorg/" target="_blank" rel="noopener">carbonwayorg — 262 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Carbonway is a France-based CDR project developer focused on mineralizing biogen
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.carbonway.org/news))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbonway.org/what-we-do))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbonway.org/))
 - **2026-04-19** — refresh: coresignal, liveliness

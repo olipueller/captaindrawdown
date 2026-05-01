@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes post-harvest rapeseed chaff in a PX1500 unit to produce biochar used as a soil amendment and long-term carbon store."
 url: "/directory/preol/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Czech Republic</td></tr>
   <tr><th>Website</th><td><a href="https://www.preol.cz/" target="_blank" rel="noopener">https://www.preol.cz/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspreol/" target="_blank" rel="noopener">aspreol — 91 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~9</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -28,6 +28,9 @@ PREOL, a.s. is the largest Czech rapeseed processor and a member of the AGROFERT
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://preol.cz/en/))
 - **2026-04-19** — merged 1 duplicate(s): PREOL Biochar
 - **2026-04-19** — refresh: coresignal, liveliness

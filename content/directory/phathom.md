@@ -29,6 +29,8 @@ pHathom Technologies is a Halifax, Nova Scotia cleantech startup founded in 2024
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://phathom.tech/our-technology/))
 - **2026-04-19** — merged 1 duplicate(s): pHathom Technologies
 - **2026-04-19** — refresh: coresignal, screenshot

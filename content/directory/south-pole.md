@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon project developer and climate consultancy that originates, certifies, and trades carbon credits (mostly avoidance + nature-based) and provides net-zero advisory services."
 url: "/directory/south-pole/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.southpole.com" target="_blank" rel="noopener">https://www.southpole.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/south-pole-/" target="_blank" rel="noopener">south-pole- — 158,952 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~860 (-9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,11 @@ South Pole is a Zurich-based climate consultancy and carbon project developer fo
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-04-29** — news mention: New Observations of the Strongly Magnetic O-star NGC 1624-2 Reveal Its Magnetic South Pole ([source](https://arxiv.org/abs/2603.11297v1))
+- **2026-04-23** — news mention: Environmental Commodities TraderEAC & Voluntary Carbon Markets) - South Pole ([source](https://careers.southpole.com/jobs/7613605-environmental-commodities-tradereac-voluntary-carbon-markets))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://www.southpole.com))

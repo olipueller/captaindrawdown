@@ -5,7 +5,7 @@ type: "directory"
 description: "Mobile pyrolysis unit converts forestry residue hardwood into biochar for agricultural soil amendment and carbon sequestration."
 url: "/directory/carbonchip/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonchip.com.au/" target="_blank" rel="noopener">https://www.carbonchip.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonchip-pty-ltd/" target="_blank" rel="noopener">carbonchip-pty-ltd — 32 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Carbonchip is a small Brisbane-based biochar manufacturer, established in 2020, 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.biocareprojects.com/post/biocare-biochar-portfolio-turning-waste-into-climate-solutions))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonchip.com.au/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonchip.com.au/))

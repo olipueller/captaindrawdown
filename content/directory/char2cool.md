@@ -5,7 +5,7 @@ type: "directory"
 description: "Char2Cool supports local entrepreneurs in Africa and Peru in using a low-tech C2C-Kiln to pyrolyze harvested invasive water hyacinths into biochar, which is applied as a soil amendment and sold as"
 url: "/directory/char2cool/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://char2cool.org" target="_blank" rel="noopener">https://char2cool.org</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -26,6 +26,9 @@ Char2Cool e.V. is a registered German non-profit association based in Reisbach, 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://char2cool.org/?lang=en))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://char2cool.org/the-project/?lang=en))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://char2cool.org/?lang=en))
 - **2026-04-19** — refresh: screenshot, liveliness

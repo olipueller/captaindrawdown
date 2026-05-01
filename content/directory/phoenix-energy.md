@@ -29,6 +29,9 @@ Phoenix Energy develops, owns, and operates community-scale Bioenergy with Carbo
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-24** — news mention: Biochar so strongly adsorbs heavy metals that it would most likely be safe in reality to use it if m ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkaprju2x226))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.phoenixenergy.net/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/podcast-beccs-is-the-way-forward-greg-stangl-phoenix-energy-ceo/))

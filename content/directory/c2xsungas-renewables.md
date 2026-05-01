@@ -28,6 +28,8 @@ SunGas Renewables (headquartered in Houston, Texas, and majority-owned by C2X Lt
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://sungasrenewables.com/c2x-to-deliver-3-6-million-metric-tons-of-carbon-removal-to-microsoft-over-12-years/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://sungasrenewables.com/c2x-to-deliver-3-6-million-metric-tons-of-carbon-removal-to-microsoft-over-12-years/))

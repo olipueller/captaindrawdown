@@ -5,7 +5,7 @@ type: "directory"
 description: "Non-profit aggregator that enrolls Appalachian forest landowners into improved forest management, reforestation, agroforestry and pocket-forest carbon projects registered on the American Carbon"
 url: "/directory/appalachian-carbon-exchange/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.appalachiancarbonexchange.com/" target="_blank" rel="noopener">https://www.appalachiancarbonexchange.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/appalachian-carbon-exchange/" target="_blank" rel="noopener">appalachian-carbon-exchange — 284 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Appalachian Carbon Exchange (ACE) is a Chattanooga, Tennessee-based non-profit s
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.appalachiancarbonexchange.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

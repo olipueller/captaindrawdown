@@ -5,7 +5,7 @@ type: "directory"
 description: "Methane pyrolysis of biogas producing fuel-cell-grade hydrogen plus solid biochar, with carbon sequestration credited via biochar soil amendment."
 url: "/directory/hago-energetics/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://hagoenergetics.com/" target="_blank" rel="noopener">https://hagoenergetics.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Hago Energetics is a California-based benefit corporation (HQ Camarillo) that us
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://hagoenergetics.com/about/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://hagoenergetics.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://hagoenergetics.com/2025/08/07/hago-energetics-wins-doe-funding-award-for-sustainable-hydrogen-from-waste/))
 - **2026-04-19** — refresh: screenshot, liveliness

@@ -30,6 +30,12 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-24** — news mention: #carbonremoval #cdr #northernlights #ccs #beccs #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453428210014425088/))
+- **2026-04-24** — news mention: Northern Lights Expands CO2 Shipping Fleet With Third Carrier  https://carbonherald.com/northern-lig ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mk7yeghxky2u))
+- **2026-04-24** — news mention: The pivot: buyers needing hard-to-abate residual tonnes are routing around the cracked layer. Durabi ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mk7qslll7d2u))
+- **2026-04-23** — news mention: Northern Lights Expands CO2 Shipping Fleet With Third Carrier ([source](https://carbonherald.com/northern-lights-expands-co2-shipping-fleet-with-third-carrier/?utm_source=rss&utm_medium=rss&utm_campaign=northern-lights-expands-co2-shipping-fleet-with-third-carrier))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.equinor.com/news/20250825-first-co2-volumes-stored-at-northern-lights))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://norlights.com/news/green-light-for-co2-injection-and-storage/))

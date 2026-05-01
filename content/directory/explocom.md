@@ -5,7 +5,7 @@ type: "directory"
 description: "Patented pyrolysis-based carbonization of wood biomass producing biochar (granular and crystal form) and wood vinegar co-product for agricultural soil amendment, with Puro.earth-registered carbon"
 url: "/directory/explocom/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Romania</td></tr>
   <tr><th>Website</th><td><a href="https://gekka.bio/" target="_blank" rel="noopener">https://gekka.bio/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biogekka/" target="_blank" rel="noopener">biogekka — 28 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,9 @@ Explocom GK SRL, operating under the GEKKA brand, is a Romanian biochar and wood
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.trustpilot.com/review/gekka.bio))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://gekka.bio/en/))
 - **2026-04-19** — merged 1 duplicate(s): Gekka Biochar
 - **2026-04-19** — refresh: coresignal, liveliness

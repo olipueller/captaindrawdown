@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a Biomacon pyrolysis unit producing biochar granules sold as livestock feed additive (\"feedchar\") and horticultural biochar, with renewable heat and carbon sequestration as co-benefits."
 url: "/directory/origin-biochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://originbiochar.com/" target="_blank" rel="noopener">https://originbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/origin-biochar/" target="_blank" rel="noopener">origin-biochar — 106 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Origin Biochar is a biochar product brand of R&S Biomass Equipment Ltd, a Northe
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://originbiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟡 Moderate ([source](https://originbiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://originbiochar.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

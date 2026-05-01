@@ -29,6 +29,9 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-23** — news mention: The pipe bridge in place – a milestone in our largest climate initiative - Stockholm Exergi ([source](https://www.stockholmexergi.se/nyheter/the-pipe-bridge-in-place-a-milestone-in-our-largest-climate-initiative/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.stockholmexergi.se/en/beccs/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

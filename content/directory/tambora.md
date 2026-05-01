@@ -5,7 +5,7 @@ type: "directory"
 description: "Deploys Enhanced Rock Weathering (crushed silicate rock dust) and biochar across Indonesian and Asia-Pacific agricultural and mining lands to remove CO2 and generate carbon credits."
 url: "/directory/tambora/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Indonesia</td></tr>
   <tr><th>Website</th><td><a href="https://www.tambora.asia" target="_blank" rel="noopener">https://www.tambora.asia</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tamboracdr/" target="_blank" rel="noopener">tamboracdr — 137 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Tambora Carbon Removal (TCR) is an Indonesian CDR startup scaling Enhanced Rock 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://www.tambora.asia))
 - **2026-04-19** — merged 1 duplicate(s): Tambora Carbon Removal
 - **2026-04-19** — refresh: coresignal, screenshot

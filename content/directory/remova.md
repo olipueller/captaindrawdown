@@ -5,7 +5,7 @@ type: "directory"
 description: "Remova is developing a purpose-built BECCS/Bio-CCS facility in Central Alberta that converts forest and mill residuals into renewable energy while permanently storing biogenic CO2 underground."
 url: "/directory/remova/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.remova.earth/" target="_blank" rel="noopener">https://www.remova.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/remova-carbon-systems/" target="_blank" rel="noopener">remova-carbon-systems — 62 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Remova Carbon Systems Ltd. is a Calgary-based Canadian carbon dioxide removal de
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://decarbonfuse.com/posts/remova-selects-mangrove-systems-for-digital-mrv-to-support-alberta-beccs-facility))
 - **2026-04-19** — merged 1 duplicate(s): Remova Carbon Systems
 - **2026-04-19** — refresh: coresignal, screenshot

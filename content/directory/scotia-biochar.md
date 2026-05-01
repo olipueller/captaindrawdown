@@ -5,7 +5,7 @@ type: "directory"
 description: "Plans industrial-scale pyrolysis of waste wood biomass (including Hurricane Fiona blowdown) using BluSky Carbon's Vulcan pyrolysis system to produce biochar for mine reclamation, soil remediation,"
 url: "/directory/scotia-biochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://ca.linkedin.com/company/scotia-biochar-inc" target="_blank" rel="noopener">https://ca.linkedin.com/company/scotia-biochar-inc</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -26,6 +26,9 @@ Scotia BioChar Inc. is a Bedford, Nova Scotia-based pre-commercial biochar produ
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.bioenergy-news.com/news/blusky-carbon-secures-biochar-agreement-with-scotia-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluskycarbon.com/blusky-carbon-signs-master-services-agreement-with-scotia-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://bluskycarbon.com/blusky-carbon-signs-master-services-agreement-with-scotia-biochar/))
 - **2026-04-19** — refresh: liveliness

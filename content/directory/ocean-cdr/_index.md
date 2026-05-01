@@ -8,23 +8,24 @@ url: "/directory/ocean-cdr/"
 
 # Ocean CDR — 42 Companies Tracked
 
-**Market pulse for Ocean CDR (updated 2026-04-22).**
+**Market pulse for Ocean CDR (updated 2026-05-01).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">42</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">27</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">12</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">19</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">15</span><span class="label">🟡 Moderate</span></div>
   <div class="stat-box"><span class="num" style="color:#f97316">3</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">0</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">5</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">544</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">34/42</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">2,093</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">35/42</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
 
+- [Liquid Trees](/directory/liquid-trees/) — 1549 employees
 - [Captura](/directory/captura/) — 82 employees
 - [BlueGreen](/directory/bluegreen/) — 41 employees
 - [Ocean Frontier Institute](/directory/ocean-frontier-institute/) — 36 employees
@@ -34,7 +35,6 @@ url: "/directory/ocean-cdr/"
 - [Ebb Carbon](/directory/ebb-carbon/) — 27 employees
 - [Planeteers](/directory/planeteers/) — 27 employees
 - [Ocean](/directory/ocean/) — 26 employees
-- [Seafields](/directory/seafields/) — 20 employees
 
 ## All Ocean CDR companies
 

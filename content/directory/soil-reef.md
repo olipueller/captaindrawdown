@@ -5,7 +5,7 @@ type: "directory"
 description: "Markets and sells Soil Reef-branded biochar products (pure biochar and blends) in retail bags and bulk totes, sourced from wood waste and forest residue, for gardening, agriculture and land"
 url: "/directory/soil-reef/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.soilreef.com/" target="_blank" rel="noopener">https://www.soilreef.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-biochar-company/" target="_blank" rel="noopener">the-biochar-company — 241 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,9 @@ Soil Reef LLC (formerly The Biochar Company) is a Berwyn, Pennsylvania-based bio
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.soilreef.com))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.soilreef.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.soilreef.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

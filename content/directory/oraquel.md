@@ -5,7 +5,7 @@ type: "directory"
 description: "Oraquel builds modular, solar-powered Hi-DAC reactors that capture CO2 via patented replaceable sorbent filters containing a mix of eight natural absorbent/adsorbent substances."
 url: "/directory/oraquel/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Website</th><td><a href="https://www.oraquel.com/" target="_blank" rel="noopener">https://www.oraquel.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Oraquel S.A. is a Warsaw-based direct air capture developer that designs modular
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.oraquel.com/de/how-many-liters-of-water-are-there-in-the-world-de))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://esgnews.com/poland-to-launch-first-direct-air-capture-facility-in-kielce/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.oraquel.com/de/how-many-liters-of-water-are-there-in-the-world-de))

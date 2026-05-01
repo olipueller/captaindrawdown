@@ -28,6 +28,8 @@ ASF (Abfallwirtschaft und Stadtreinigung Freiburg GmbH) is the municipal waste-m
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.abfallwirtschaft-freiburg.de/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.abfallwirtschaft-freiburg.de/de/news/Pflanzenkohle.php))

@@ -35,6 +35,11 @@ Planeteers is a Hamburg-based climate-tech company founded in December 2022 by e
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-04-28** — news mention: 🌍 Please join us in welcoming Tatum Miko Herrero, our newest Planeteer! 💚
+
+With a background in volc ([source](https://www.linkedin.com/feed/update/urn:li:share:7454886286924107776/))
 - **2026-04-21** — news mention: #climatetransition #carbonremoval #ccs #climatetech #partnerships | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7451993267208019968/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://planeteers.de/en/company/))
 - **2026-04-19** — refresh: coresignal, screenshot

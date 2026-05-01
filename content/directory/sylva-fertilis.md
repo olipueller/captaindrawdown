@@ -5,7 +5,7 @@ type: "directory"
 description: "Slow pyrolysis of French wood pellets from sustainably-managed forests to produce high-carbon biochar (>90% C) sold as soil amendment, with Puro.earth CORC credits."
 url: "/directory/sylva-fertilis/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://terrafertilis.com/" target="_blank" rel="noopener">https://terrafertilis.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-fertilis/" target="_blank" rel="noopener">terra-fertilis — 3,564 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~9 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,8 @@ Sylva Fertilis is a French biochar producer based in Argentan, Normandy, operati
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-04-19** — merged 2 duplicate(s): Terra fertilis, Terra Fertilis | Sylva Fertilis
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

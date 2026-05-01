@@ -5,7 +5,7 @@ type: "directory"
 description: "Designs and manufactures two-stage flame-curtain C1000 pyrolysis units that convert waste biomass into biochar, and operates its own plants producing Puro.earth-registered CORCs."
 url: "/directory/woodtek-biochar/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.woodtekbiochar.com/" target="_blank" rel="noopener">https://www.woodtekbiochar.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -26,6 +26,9 @@ Woodtek is a family-run Mid-Wales engineering firm that designs and manufactures
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://biochartoday.com/news/ibi-study-tour-day-2-woodtek-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochartoday.com/news/ibi-study-tour-day-2-woodtek-biochar/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://biochartoday.com/news/ibi-study-tour-day-2-woodtek-biochar/))

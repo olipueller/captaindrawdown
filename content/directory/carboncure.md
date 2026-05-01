@@ -33,6 +33,9 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot
+- **2026-04-23** — news mention: CarbonCure Names Yuliya Kravtsov CEO to Scale CO2 Utilisation Across 10 Million Concrete Truckloads  ([source](https://onestopesg.com/esg-news/carboncure-appoints-yuliya-kravtsov-ceo-concrete-co2-utilisation-scale-up))
 - **2026-04-21** — news mention: CarbonCure Appoints Yuliya Kravtsov As CEO To Drive Global Growth ([source](https://carbonherald.com/carboncure-appoints-yuliya-kravtsov-as-ceo-to-drive-global-growth/?utm_source=rss&utm_medium=rss&utm_campaign=carboncure-appoints-yuliya-kravtsov-as-ceo-to-drive-global-growth))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carboncure.com/news/carboncure-producers-reach-milestone-of-10-million-truckloads/))
 - **2026-04-19** — refresh: coresignal

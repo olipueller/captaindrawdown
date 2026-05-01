@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of biomass into microgranular biochar enriched with organic nutrients, rhizobacteria and mycorrhizal fungi, marketed as a soil conditioner/fertilizer with PyCCS carbon-removal claim."
 url: "/directory/agricarbonmicrochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Czech Republic</td></tr>
   <tr><th>Website</th><td><a href="https://www.microchar.eu/" target="_blank" rel="noopener">https://www.microchar.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/microchar/" target="_blank" rel="noopener">microchar — 96 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ MicroCHAR is a microgranular biochar-based soil conditioner/fertilizer developed
 
 ## History
 
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — refresh: liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.microchar.eu/en/microchar-en/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.microchar.eu/en/microchar-en/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.microchar.eu/en/microchar-en/))
 - **2026-04-19** — refresh: coresignal, screenshot

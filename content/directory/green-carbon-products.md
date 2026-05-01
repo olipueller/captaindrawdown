@@ -5,7 +5,7 @@ type: "directory"
 description: "Small Ontario-based producer that pyrolyzes clean wood into biochar and sells it as a retail soil/compost amendment."
 url: "/directory/green-carbon-products/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.greencarbonproducts.com/" target="_blank" rel="noopener">https://www.greencarbonproducts.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/green-carbon-products/" target="_blank" rel="noopener">green-carbon-products — 85 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ Green Carbon Products is a small Ontario company that makes biochar from 100% su
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-september-2025))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.greencarbonproducts.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-september-2025))

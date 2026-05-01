@@ -5,7 +5,7 @@ type: "directory"
 description: "Proprietary electrostatic solid-sorbent Direct Air Capture technology using thin-layer sorbent deployment to cut sorbent use and regeneration energy."
 url: "/directory/neg8-carbon/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://neg8carbon.com/" target="_blank" rel="noopener">https://neg8carbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/trinity-green-energies/" target="_blank" rel="noopener">trinity-green-energies — 3,231 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~11 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company (originally
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://neg8carbon.com/solid-sorbent-dac-compared-with-electrochemical-dac/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://neg8carbon.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://neg8carbon.com/solid-sorbent-dac-compared-with-electrochemical-dac/))

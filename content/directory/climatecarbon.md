@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of forestry and industrial wood residues into biocarbon plus renewable energy, using carbonauten's modular carbonization reactors at a single pilot plant in Eberswalde."
 url: "/directory/climatecarbon/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.climatecarbon.de/" target="_blank" rel="noopener">https://www.climatecarbon.de/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ ClimateCarbon Eberswalde GmbH & Co. KG is a dedicated biochar subsidiary/SPV of 
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
+- **2026-05-01** — refresh: screenshot, liveliness
+- **2026-05-01** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.climatecarbon.de/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟠 Suspect ([source](https://www.climatecarbon.de/ueber-uns/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟠 Suspect ([source](https://www.climatecarbon.de/ueber-uns/))
 - **2026-04-19** — refresh: screenshot, liveliness

@@ -8,26 +8,26 @@ url: "/directory/enhanced-weathering/"
 
 # Enhanced Weathering — 33 Companies Tracked
 
-**Market pulse for Enhanced Weathering (updated 2026-04-22).**
+**Market pulse for Enhanced Weathering (updated 2026-05-01).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">33</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">24</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">9</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">0</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">0</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">17</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">5</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">3</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">8</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">27,112</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">30/33</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">27,239</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">31/33</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
 
 - [Anglo American](/directory/anglo-american/) — 26627 employees
+- [Metalplant](/directory/metalplant/) — 204 employees
 - [Terradot](/directory/terradot/) — 93 employees
-- [InPlanet](/directory/inplanet/) — 80 employees
 - [UNDO](/directory/undo/) — 62 employees
 - [Alt Carbon](/directory/alt-carbon/) — 51 employees
 - [Lithos](/directory/lithos/) — 45 employees
