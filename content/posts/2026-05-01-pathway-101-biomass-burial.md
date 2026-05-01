@@ -6,6 +6,10 @@ draft: false
 tags: ["cdr", "pathway-101", "evergreen", "biomass-burial"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"
+cover:
+  image: "/images/posts/pathway-101-biomass-burial.png"
+  alt: "Pathway 101: Biomass Burial"
+  hidden: false
 ---
 
 ## The premise
