@@ -5,7 +5,7 @@ type: "directory"
 description: "North Star will add a post-combustion carbon capture plant to the existing MLTC Bioenergy Centre biomass power facility in Saskatchewan, with captured biogenic CO2 transported via a new pipeline to"
 url: "/directory/north-star-ccs/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,8 +14,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonalpha.com/northstar" target="_blank" rel="noopener">https://www.carbonalpha.com/northstar</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-alpha/" target="_blank" rel="noopener">carbon-alpha — 2,136 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~10 (-29% YoY)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (-29% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -28,6 +28,8 @@ North Star Carbon Solutions LP is a dedicated BECCS project joint venture betwee
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

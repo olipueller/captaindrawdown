@@ -27,6 +27,7 @@ Remove Carbon Today is an online retail storefront that enables individuals to p
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.removecarbontoday.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.removecarbontoday.com ([source](https://www.cdr.fyi/marketplace/remove-carbon-today))

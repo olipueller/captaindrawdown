@@ -5,7 +5,7 @@ type: "directory"
 description: "Applies beneficial microorganisms with crop seeds that accelerate silicate weathering and carbonate precipitation in the root zone, converting atmospheric CO2 into stable soil inorganic carbon."
 url: "/directory/andes/"
 pathway: "Mineralization"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,8 +16,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.andes.bio/" target="_blank" rel="noopener">https://www.andes.bio/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/andesag/" target="_blank" rel="noopener">andesag — 12,188 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~219</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~27</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Andes is a climate tech startup headquartered in Alameda, California that uses b
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.andes.bio/carbon-removals))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.andes.bio/carbon-removals))

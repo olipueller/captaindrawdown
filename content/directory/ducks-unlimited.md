@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.ducks.org/" target="_blank" rel="noopener">https://www.ducks.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ducks-unlimited/" target="_blank" rel="noopener">ducks-unlimited — 72,474 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><th>Employees</th><td>~1127 (+7% YoY)</td></tr>
+  <tr><th>Employees</th><td>~768 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Ducks Unlimited is a large US-based nonprofit (founded 1937) dedicated to wetlan
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=side_business liveliness=🟢 Active ([source](https://www.ducks.org/conservation/sustainability/ducks-unlimiteds-carbon-program))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.ducks.org/conservation/sustainability/ducks-unlimiteds-carbon-program))

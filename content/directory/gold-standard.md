@@ -29,6 +29,7 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-29** — news mention: Prithu raises $1.1 m to scale carbon removal platform for nature-based solutions - The HinduBusiness ([source](https://www.thehindubusinessline.com/economy/agri-business/prithu-raises-11-m-to-scale-carbon-removal-platform-for-nature-based-solutions/article70919353.ece))
 - **2026-04-25** — news mention: Gold Standard Launches New Methodologies, Including First Biochar Standard  https://carbonherald.com ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkcb6bp3ll2v))
 - **2026-04-25** — news mention: This Week in CDR - April 24, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453451962160734208/))

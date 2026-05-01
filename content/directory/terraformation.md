@@ -34,6 +34,7 @@ Terraformation is a Hawaii-based native forest restoration company founded by fo
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://terraformation.com/))

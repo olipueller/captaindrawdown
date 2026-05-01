@@ -30,6 +30,7 @@ Sinkit is a Dutch cooperative carbon-removal platform that curates, rates (via i
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.sinkit.org/))

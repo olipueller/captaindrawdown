@@ -5,7 +5,7 @@ type: "directory"
 description: "Low-temperature pyrolysis of sustainably sourced French hardwood residues into charcoal, biocarbon and biochar, with syngas cogeneration for green electricity; biochar fraction is EBC-certified and"
 url: "/directory/soler-group/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://soler-group.com/" target="_blank" rel="noopener">https://soler-group.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonex/" target="_blank" rel="noopener">carbonex — 3,315 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~58</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,7 @@ SOLER Group is a French family-owned renewable carbon producer (founded 1993, pa
 
 ## History
 
+- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://soler-group.com/biochar-carbon-sink/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://soler-group.com/biochar-carbon-sink/))

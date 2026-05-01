@@ -28,6 +28,7 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-30** — news mention: Verra Lifts Hold On Eight China Projects As Local Authorities Confirm Authorization ([source](https://carbonherald.com/verra-lifts-hold-on-eight-china-projects-as-local-authorities-confirm-authorization/?utm_source=rss&utm_medium=rss&utm_campaign=verra-lifts-hold-on-eight-china-projects-as-local-authorities-confirm-authorization))

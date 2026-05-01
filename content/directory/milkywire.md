@@ -5,7 +5,7 @@ type: "directory"
 description: "Aggregates corporate climate funding and runs annual open calls to pre-purchase durable CDR credits from early-stage suppliers across multiple pathways (DAC, biochar, ERW, BECCS, ocean) via the"
 url: "/directory/milkywire/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.milkywire.com" target="_blank" rel="noopener">https://www.milkywire.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/milkywire/" target="_blank" rel="noopener">milkywire — 9,748 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~29 (-3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -28,6 +28,8 @@ Stockholm-based Milkywire is an impact platform that channels corporate funding 
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

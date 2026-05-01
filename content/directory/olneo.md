@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://www.olneo.green/" target="_blank" rel="noopener">https://www.olneo.green/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/olneo-%e2%80%a2-biochar-carbone/" target="_blank" rel="noopener">olneo-%e2%80%a2-biochar-carbone — 55 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carpecarbon.com/" target="_blank" rel="noopener">https://www.carpecarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carpecarbon/" target="_blank" rel="noopener">carpecarbon — 3,267 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~16 (+23% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

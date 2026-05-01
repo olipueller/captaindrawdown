@@ -14,9 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.gevernova.com/gas-power/future-of-energy/direct-air-capture" target="_blank" rel="noopener">https://www.gevernova.com/gas-power/future-of-energy/direct-air-capture</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alstom-power/" target="_blank" rel="noopener">alstom-power</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><th>Employees</th><td>~6535 (-1% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>

@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Website</th><td><a href="https://biophosphate.net/" target="_blank" rel="noopener">https://biophosphate.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-humana-clean-technology-development-engineering-and-manufacturing-ltd./" target="_blank" rel="noopener">terra-humana-clean-technology-development-engineering-and-manufacturing-ltd. — 113 followers</a></td></tr>
   <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +28,7 @@ liveliness: "🟠 Suspect"
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://circulareconomy.europa.eu/platform/en/good-practices/3r-biophosphate-ltd-pioneering-zero-emission-and-energy-independent-pyrolysis-and-nutrient-recovery))

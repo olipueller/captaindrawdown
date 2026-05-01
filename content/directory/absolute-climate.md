@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops the Absolute Carbon Standard (ACS), a pathway-agnostic, science-based quality-assurance framework applied by third-party registries to certify CDR and low-carbon product credits."
 url: "/directory/absolute-climate/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,7 +13,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.absoluteclimate.com" target="_blank" rel="noopener">https://www.absoluteclimate.com</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/we-are-absolute-climate/" target="_blank" rel="noopener">we-are-absolute-climate — 1,527 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (+167% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -26,6 +28,8 @@ Absolute Climate is an independent quality-assurance and standards developer for
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

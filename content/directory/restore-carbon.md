@@ -30,6 +30,7 @@ Restore Carbon is a Netherlands-based CDR startup developing a patented peatland
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://restorecarbon.eu/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

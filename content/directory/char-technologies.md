@@ -29,6 +29,7 @@ CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company operating
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-21** — news mention: CHAR Technologies Ltd. (CVE:YES) | CHAR Tech finalise l'acquisition des actifs de biocarbone d'Elkem ([source](https://lesechos-comfi.lesechos.fr/press-release/char-technologies-ltd-cve-yes-char-tech-finalise-lacquisition-des-actifs-de-biocarbone-delkem-a-saguenay-quebec-comprenant-un-accord-dapprovisionnement-de-62-500-tonnes-une-installation-et-de-la-propriete-intellectuelle-y3jD9EBcwiL))

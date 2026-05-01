@@ -30,6 +30,7 @@ HyveGeo is a climate-tech startup with operations in Cambridge, England and Abu 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cnn.com/2025/03/30/business/hyvegeo-green-desert-microalgae-charcoal-spc))
 - **2026-04-19** — merged 1 duplicate(s): HyveGeo
 - **2026-04-19** — refresh: coresignal

@@ -15,9 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://www.kanadevia.com/english/" target="_blank" rel="noopener">https://www.kanadevia.com/english/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hitachizosen/" target="_blank" rel="noopener">hitachizosen — 10,752 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
-  <tr><th>Employees</th><td>~517 (+9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +28,7 @@ Kanadevia Corporation (formerly Hitachi Zosen, rebranded October 2024) is a larg
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-04-23** — news mention: April CDR Industry Database Update.  We track ~970 organisations doing carbon removal. But only 570  ([source](https://x.com/CaptainDrawdown/status/2047201161388687652))
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
 - **2026-04-19** — merged 1 duplicate(s): Kanadevia Corporation

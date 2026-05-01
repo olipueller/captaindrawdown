@@ -5,7 +5,7 @@ type: "directory"
 description: "Injects CO₂ into wet ready-mix concrete where it reacts to form nano-scale CaCO₃ polymorphs, permanently storing carbon and allowing cement content reduction while improving early strength."
 url: "/directory/zen-carbon/"
 pathway: "Mineralization"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.zencarbon.org/" target="_blank" rel="noopener">https://www.zencarbon.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clitruct/" target="_blank" rel="noopener">clitruct — 399 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~6</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -30,6 +30,7 @@ ZEN Carbon is a Nairobi-based startup developing reactor-driven CO₂ mineraliza
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))

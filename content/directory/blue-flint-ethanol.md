@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://harvestonelcp.com/fccp-blue-flint-19634" target="_blank" rel="noopener">https://harvestonelcp.com/fccp-blue-flint-19634</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/harvestonelcp/" target="_blank" rel="noopener">harvestonelcp — 1,388 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~42 (+11% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

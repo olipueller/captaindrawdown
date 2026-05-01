@@ -28,6 +28,7 @@ Founded in 2008, Biofílica Ambipar Environment's mission is to establish a stro
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

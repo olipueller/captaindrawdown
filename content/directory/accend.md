@@ -5,7 +5,7 @@ type: "directory"
 description: "Accend is a Norway-based CDR consultancy and project developer providing ISO-compliant LCA services, Puro.earth CORC certification support, and credit brokerage for biochar and bio-based construction"
 url: "/directory/accend/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.accend.earth/" target="_blank" rel="noopener">https://www.accend.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/accend-conusulting/" target="_blank" rel="noopener">accend-conusulting — 1,240 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~8 (-11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -29,6 +29,8 @@ Accend advises companies with carbon-negative products on the CORC markets and o
 
 ## History
 
+- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.crunchbase.com/funding_round/accend-e26c-seed--151cdd0c))
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.crunchbase.com/funding_round/accend-e26c-seed--151cdd0c))

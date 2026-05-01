@@ -30,6 +30,7 @@ Beetle Regen Solutions is an India-based regenerative agriculture startup founde
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://thebetterindia.com/startup/agri-startup/beetle-regen-solutions-amol-mishra-hemant-rajput-regenerative-farming-india-farmers-10486138))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.beetleregen.com/))

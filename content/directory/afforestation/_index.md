@@ -12,15 +12,15 @@ url: "/directory/afforestation/"
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">56</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">31</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">22</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">1</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">2</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">45</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">10</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">0</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">1</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">13,304</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">52/56</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">13,075</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">51/56</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
@@ -31,10 +31,10 @@ url: "/directory/afforestation/"
 - [South Pole](/directory/south-pole/) — 860 employees
 - [Grow Indigo](/directory/grow-indigo/) — 368 employees
 - [ecosecurities](/directory/ecosecurities/) — 273 employees
-- [Anew Climate](/directory/anew-climate/) — 229 employees
 - [Cultivo](/directory/cultivo/) — 176 employees
 - [Klim](/directory/klim/) — 138 employees
 - [EcoAct](/directory/ecoact/) — 131 employees
+- [Rainforest Builder](/directory/rainforest-builder/) — 111 employees
 
 ## All Afforestation companies
 

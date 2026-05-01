@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://www.daclab.us" target="_blank" rel="noopener">https://www.daclab.us</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/daclab-us/" target="_blank" rel="noopener">daclab-us — 288 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

@@ -29,6 +29,7 @@ Air View Engineering Ltd is a Swansea, UK-based direct air capture startup found
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.airviewengineering.co.uk/ourapproach))

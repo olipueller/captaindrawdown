@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.aemetis.com" target="_blank" rel="noopener">https://www.aemetis.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aemetis/" target="_blank" rel="noopener">aemetis — 4,501 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><th>Employees</th><td>~50 (+9% YoY)</td></tr>
+  <tr><th>Employees</th><td>~350 (+9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +28,7 @@ Aemetis (NASDAQ: AMTX) is a Cupertino, California-based renewable natural gas, e
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.aemetis.com/products/carbon-capture/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

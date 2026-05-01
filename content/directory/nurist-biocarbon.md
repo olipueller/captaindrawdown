@@ -27,6 +27,7 @@ Nurist Biocarbon Private Limited is an early-stage Indian biochar producer based
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://nuristbiocarbon.com/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate

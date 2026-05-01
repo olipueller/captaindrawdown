@@ -12,15 +12,15 @@ url: "/directory/beccs/"
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">85</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">43</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">26</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">6</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">10</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">66</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">10</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">3</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">6</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">110,157</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">75/85</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">107,507</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">71/85</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
@@ -33,8 +33,8 @@ url: "/directory/beccs/"
 - [Toshiba ESS](/directory/toshiba-ess/) — 1965 employees
 - [Kanadevia Inova](/directory/kanadevia-inova/) — 1935 employees
 - [POET](/directory/poet/) — 1856 employees
-- [FS](/directory/fs/) — 1642 employees
 - [Uisa](/directory/uisa/) — 1328 employees
+- [Viridor](/directory/viridor/) — 1099 employees
 
 ## All BECCS companies
 

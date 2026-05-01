@@ -5,7 +5,7 @@ type: "directory"
 description: "Operated an integrated carbon removal issuing program, registry, and online marketplace (with blockchain tracking) for soil carbon sequestration credits from regenerative agriculture."
 url: "/directory/nori/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,8 +16,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://nori.com" target="_blank" rel="noopener">https://nori.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/noridoteco/" target="_blank" rel="noopener">noridoteco — 10,858 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~70</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Nori was a Seattle-based carbon removal marketplace and registry that connected 
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🔴 Likely Dead ([source](https://www.geekwire.com/2024/nori-a-seattle-based-carbon-removal-marketplace-that-raised-17m-shuts-down-after-7-years/))

@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://norlights.com" target="_blank" rel="noopener">https://norlights.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northern-lights-jv/" target="_blank" rel="noopener">northern-lights-jv — 25,881 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
-  <tr><th>Employees</th><td>~70 (+27% YoY)</td></tr>
+  <tr><th>Employees</th><td>~49 (+27% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-24** — news mention: #carbonremoval #cdr #northernlights #ccs #beccs #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453428210014425088/))

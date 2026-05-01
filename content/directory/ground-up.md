@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates industrial pyrolysis hubs converting Indian agricultural crop residues into biochar, selling biochar-based fertilisers to farmers while generating permanent carbon removal credits."
 url: "/directory/ground-up/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.ground-up.in" target="_blank" rel="noopener">https://www.ground-up.in</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ground-zero-in/" target="_blank" rel="noopener">ground-zero-in — 597 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~15</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,7 @@ Ground Up (Ground Up Ecowaste Pvt Ltd) is a Mumbai-based biochar startup founded
 
 ## History
 
+- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.ground-up.in/news-and-resources))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.ground-up.in/news-and-resources))

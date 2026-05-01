@@ -35,6 +35,7 @@ AEROC (Aeroc GmbH) is a Cologne, Germany-based startup founded in 2024 by Felix 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.aeroc.earth/en))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

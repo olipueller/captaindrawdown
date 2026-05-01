@@ -29,6 +29,7 @@ Rhinoflux is a seed-stage company based in Kyoto, Japan, founded in 2024, that o
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://beyondnextventures.com/insight/invested-in-rhinoflux))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.shimadzu.com/news/2024/rerin779fc7gg23o.html))

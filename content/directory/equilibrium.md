@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://equilibriumearth.com/" target="_blank" rel="noopener">https://equilibriumearth.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equilibrium-earth/" target="_blank" rel="noopener">equilibrium-earth — 7,773 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><th>Employees</th><td>~82 (+531% YoY)</td></tr>
+  <tr><th>Employees</th><td>~50 (+531% YoY)</td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>

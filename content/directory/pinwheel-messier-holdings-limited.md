@@ -30,6 +30,7 @@ Pinwheel (trading name of Messier Holdings Limited) is a UK-based climate engage
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.pinwheel.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.pinwheel.earth/ ([source](https://www.cdr.fyi/marketplace/pinwheel))

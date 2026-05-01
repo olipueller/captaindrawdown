@@ -30,6 +30,7 @@ Bristol, UK-based construction materials company developing Breathaboard, a carb
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://adaptavate.com/news/adaptavate-secures-2-7-million-in-a-pre-series-a-round-to-accelerate-global-scale-up-of-low-carbon-construction-technology))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

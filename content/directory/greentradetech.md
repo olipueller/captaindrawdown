@@ -30,6 +30,7 @@ GreenTrade (GreenTrade Impact GmbH) is a Berlin-based marketplace founded in 202
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://greentrade.tech/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://greentrade.tech/ ([source](https://www.cdr.fyi/marketplace/greentrade.tech))

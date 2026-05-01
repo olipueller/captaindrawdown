@@ -5,7 +5,7 @@ type: "directory"
 description: "Blockchain-based platform for managing, monitoring, tokenizing, and reporting carbon contribution portfolios, primarily for nature-based removal projects, using satellite imagery and smart contracts"
 url: "/directory/carbonable/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,8 +15,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonable.io/" target="_blank" rel="noopener">https://www.carbonable.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonable/" target="_blank" rel="noopener">carbonable — 5,098 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~101 (-13% YoY)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (-13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Carbonable specializes in the management, monitoring, and reporting of carbon co
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.carbonable.io/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonable.io/ ([source](https://www.cdr.fyi/marketplace/carbonable))

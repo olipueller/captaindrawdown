@@ -33,6 +33,7 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-30** — news mention: Carbon Direct is hiring for 3 key remote roles: Scientific Reviewer, Diligence Consultant, and Decar ([source](https://applynow.co.zw/2026/04/30/carbon-direct/))

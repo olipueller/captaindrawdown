@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://altcarbon.com/" target="_blank" rel="noopener">https://altcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alt-carbon/" target="_blank" rel="noopener">alt-carbon — 38,626 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
-  <tr><th>Employees</th><td>~51 (+155% YoY)</td></tr>
+  <tr><th>Employees</th><td>~40 (+155% YoY)</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>

@@ -29,6 +29,7 @@ Appalachian Carbon Exchange (ACE) is a Chattanooga, Tennessee-based non-profit s
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

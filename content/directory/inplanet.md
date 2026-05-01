@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://inplanet.earth/" target="_blank" rel="noopener">https://inplanet.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inplanet/" target="_blank" rel="noopener">inplanet — 16 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 97/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~60 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -35,6 +35,7 @@ InPlanet is a Brazil/Germany-based climate tech startup pioneering tropical Enha
 
 ## History
 
+- **2026-05-01** — news mention: #climateweekzurich #durablecdr #carbonremoval #climatetech #netzero | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7455560954865500161/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-24** — news mention: Silicon to Silicate: Understanding the InPlanet-Microsoft Deal ([source](https://remineralize.org/2026/04/silicon-to-silicate-understanding-the-inplanet-microsoft-deal/))

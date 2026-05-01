@@ -29,6 +29,7 @@ Carbonera eXchange is a small US-based online marketplace platform for buying an
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carboneraexchange.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://carboneraexchange.com/ ([source](https://www.cdr.fyi/marketplace/carbonera))

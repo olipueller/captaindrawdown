@@ -30,6 +30,7 @@ SoilWatch is a climate tech company that helps nature-based carbon removal proje
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://soilwatch.eu/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://soilwatch.eu/ ([source](https://www.cdr.fyi/marketplace/soilwatch))

@@ -29,6 +29,7 @@ CarbonConnect GmbH is a Hamburg-based biochar CDR project developer founded in 2
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbonconnect.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbonconnect.earth/))

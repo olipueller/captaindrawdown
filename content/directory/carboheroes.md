@@ -15,6 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://www.carboheroes.com/" target="_blank" rel="noopener">https://www.carboheroes.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboheroes/" target="_blank" rel="noopener">carboheroes — 17 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

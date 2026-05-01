@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://arbor.co/" target="_blank" rel="noopener">https://arbor.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbor-energy-resources/" target="_blank" rel="noopener">arbor-energy-resources — 8,359 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
-  <tr><th>Employees</th><td>~59 (+26% YoY)</td></tr>
+  <tr><th>Employees</th><td>~48 (+26% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

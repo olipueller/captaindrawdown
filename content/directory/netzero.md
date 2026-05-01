@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://netzero.green/en/" target="_blank" rel="noopener">https://netzero.green/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/netzerogreen/" target="_blank" rel="noopener">netzerogreen — 19,255 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
-  <tr><th>Employees</th><td>~207 (+30% YoY)</td></tr>
+  <tr><th>Employees</th><td>~135 (+30% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -32,6 +32,7 @@ NetZero is a French biochar company founded in 2021 and headquartered in Paris t
 
 ## History
 
+- **2026-05-01** — news mention: #climateweekzurich #durablecdr #carbonremoval #climatetech #netzero | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7455560954865500161/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-28** — news mention: Plenary Session 10 at #Prakriti2026 highlighted how empowering farmers in the carbon economy through ([source](https://x.com/Prakriti_2026/status/2049020578645107088))

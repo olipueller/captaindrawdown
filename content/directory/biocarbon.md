@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.biocarbon.com.au/" target="_blank" rel="noopener">https://www.biocarbon.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocarbon-au/" target="_blank" rel="noopener">biocarbon-au — 992 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
-  <tr><th>Employees</th><td>~10 (+11% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

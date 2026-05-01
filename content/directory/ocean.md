@@ -29,6 +29,7 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-29** — news mention: El Nino Prediction Based on Weather Forecast and Geographical Time-series Data ([source](https://arxiv.org/abs/2604.04998v1))

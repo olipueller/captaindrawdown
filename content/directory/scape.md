@@ -30,6 +30,7 @@ Scape Carbon is a Los Angeles startup founded in 2022 developing modular coastal
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟡 Moderate

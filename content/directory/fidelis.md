@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://fidelisinfra.com/" target="_blank" rel="noopener">https://fidelisinfra.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fidelis-infrastructure-lp/" target="_blank" rel="noopener">fidelis-infrastructure-lp — 3,730 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
-  <tr><th>Employees</th><td>~59 (+48% YoY)</td></tr>
+  <tr><th>Employees</th><td>~28 (+48% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

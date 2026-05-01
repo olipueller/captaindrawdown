@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://cdr.fyi" target="_blank" rel="noopener">https://cdr.fyi</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdr-fyi/" target="_blank" rel="noopener">cdr-fyi — 16,781 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
-  <tr><th>Employees</th><td>~31 (+72% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+72% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -28,6 +28,8 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-05-01** — news mention: 📊 Five years into the durable CDR market: how have different methods performed relative to their exp ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455627915750293504/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-26** — news mention: Did Microsoft Just Kill the Carbon Removal Industry? ([source](https://ctvr.substack.com/p/did-microsoft-just-kill-the-carbon))

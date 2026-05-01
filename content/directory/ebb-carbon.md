@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses bipolar membrane electrodialysis to split desalination brine into alkaline and acid streams, returning the alkaline stream to the ocean to drive CO2 uptake as stable bicarbonate."
 url: "/directory/ebb-carbon/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ebbcarbon.com/" target="_blank" rel="noopener">https://www.ebbcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ebb-carbon/" target="_blank" rel="noopener">ebb-carbon — 7,058 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~27 (-32% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Ebb Carbon is a South San Francisco-based marine CDR pure-play that integrates b
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))

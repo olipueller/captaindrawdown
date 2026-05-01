@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://beccs.se/" target="_blank" rel="noopener">https://beccs.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beccs-stockholm/" target="_blank" rel="noopener">beccs-stockholm — 5,226 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
-  <tr><th>Employees</th><td>~5</td></tr>
+  <tr><th>Employees</th><td>~750</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-23** — news mention: The pipe bridge in place – a milestone in our largest climate initiative - Stockholm Exergi ([source](https://www.stockholmexergi.se/nyheter/the-pipe-bridge-in-place-a-milestone-in-our-largest-climate-initiative/))

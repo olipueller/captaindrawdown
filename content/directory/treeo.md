@@ -34,6 +34,7 @@ TREEO, operated by Fairventures Digital GmbH (Stuttgart, Germany), is a for-prof
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://corporate.stihl.com/en/press/press-release-company/2025/stihl-sustainability-report-2024))

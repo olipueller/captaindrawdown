@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.indigoag.com/" target="_blank" rel="noopener">https://www.indigoag.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/indigoag/" target="_blank" rel="noopener">indigoag — 92,608 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
-  <tr><th>Employees</th><td>~1404 (-0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~346 (-0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>

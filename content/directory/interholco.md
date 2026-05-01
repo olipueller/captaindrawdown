@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.interholco.com/en/" target="_blank" rel="noopener">https://www.interholco.com/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/interholco-ag/" target="_blank" rel="noopener">interholco-ag — 6,640 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~156 (+5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~3000 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

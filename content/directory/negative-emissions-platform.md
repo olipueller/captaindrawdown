@@ -28,6 +28,7 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-22** — news mention: Who buys next? &mdash; Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/who-buys-next))

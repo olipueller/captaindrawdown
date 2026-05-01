@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces biochar via high-temperature pyrolysis of farm-gate agricultural residues (corn, wheat, sorghum) at its GBS facility in Irapuato, Mexico, for soil amendment and quarry rehabilitation with"
 url: "/directory/the-next-150/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://thenext150.com/" target="_blank" rel="noopener">https://thenext150.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thenext150/" target="_blank" rel="noopener">thenext150 — 2,715 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~7 (-36% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ The Next 150 is a Swiss-based carbon removal venture developer and operator foun
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://thenext150.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

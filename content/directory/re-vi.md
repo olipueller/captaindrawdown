@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes bushfire-damaged plantation timber into agricultural-grade biochar, generating durable CDR credits issued on Puro.earth."
 url: "/directory/re-vi/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://re-vi.com/" target="_blank" rel="noopener">https://re-vi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/re-vi-group/" target="_blank" rel="noopener">re-vi-group — 188 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~7 (-12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,7 @@ Re-Vi is an Australian CDR developer building a large-scale biochar project on K
 
 ## History
 
+- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://re-vi.com/products/biochar/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://re-vi.com/products/biochar/))

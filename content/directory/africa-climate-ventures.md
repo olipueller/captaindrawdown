@@ -5,7 +5,7 @@ type: "directory"
 description: "Venture builder and early-stage investor that founds and scales African climate-positive businesses, including CDR ventures like biochar producer Safi Organics and DAC-focused Great Carbon Valley."
 url: "/directory/africa-climate-ventures/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Rwanda</td></tr>
   <tr><th>Website</th><td><a href="https://africaclimateventures.com/" target="_blank" rel="noopener">https://africaclimateventures.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/africa-climate-ventures/" target="_blank" rel="noopener">africa-climate-ventures — 5,090 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,8 @@ Africa Climate Ventures (ACV) is a Kigali-based venture builder and early-stage 
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://africaclimateventures.com/))

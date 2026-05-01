@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbonapp operates as a mandataire (recognized agent) that develops, certifies and aggregates multi-sector carbon contribution projects (forestry, agriculture, biochar, construction) under Label"
 url: "/directory/carbonapp/"
 pathway: "Enabling Tech"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonapp.fr/" target="_blank" rel="noopener">https://www.carbonapp.fr/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonapp-fr/" target="_blank" rel="noopener">carbonapp-fr — 6,167 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~16 (-6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,7 @@ Founded in March 2021, Carbonapp is a mission-driven company that develops low-c
 
 ## History
 
+- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://fr.linkedin.com/posts/carbonapp-fr_biochar-d%C3%A9carbonation-changementclimatique-activity-7175755444404002816-FbLv))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://fr.linkedin.com/posts/carbonapp-fr_biochar-d%C3%A9carbonation-changementclimatique-activity-7175755444404002816-FbLv))

@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.deepskyclimate.com/" target="_blank" rel="noopener">https://www.deepskyclimate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/deep-sky-climate/" target="_blank" rel="noopener">deep-sky-climate — 24,748 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
-  <tr><th>Employees</th><td>~64 (+39% YoY)</td></tr>
+  <tr><th>Employees</th><td>~48 (+39% YoY)</td></tr>
   <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,10 @@ Deep Sky is a Montreal-based tech-agnostic carbon removal project developer that
 
 ## History
 
+- **2026-05-01** — news mention: Deep Sky Enters DAC-Focused Strategic Partnership With ENGIE  Deep Sky has signed a strategic partne ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkrdzbbq7o27))
+- **2026-05-01** — news mention: Deep Sky Enters DAC-Focused Strategic Partnership With ENGIE  Deep Sky has signed a strategic partne ([source](https://x.com/CaptainDrawdown/status/2050078538355687608))
+- **2026-05-01** — news mention: Higher near-term temps tighten the carbon budget and push more emissions into "residual" territory t ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkr7kfage52g))
+- **2026-05-01** — news mention: Deep Sky Announces Partnership to Advance Direct Air Capture with ENGIE ([source](https://www.prnewswire.com/news-releases/deep-sky-announces-partnership-to-advance-direct-air-capture-with-engie-302757436.html))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-30** — news mention: Deep Sky Enters DAC-Focused Strategic Partnership With ENGIE ([source](https://carbonherald.com/deep-sky-enters-dac-focused-strategic-partnership-with-engie/?utm_source=rss&utm_medium=rss&utm_campaign=deep-sky-enters-dac-focused-strategic-partnership-with-engie))

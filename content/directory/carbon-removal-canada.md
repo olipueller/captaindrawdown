@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://carbonremoval.ca/" target="_blank" rel="noopener">https://carbonremoval.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-canada/" target="_blank" rel="noopener">carbon-removal-canada — 7,799 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
-  <tr><th>Employees</th><td>~13 (+8% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-29** — news mention: Frontier And Carbon Removal Canada Launch The World’s First Surficial Mineralization Hub ([source](https://carbonherald.com/frontier-and-carbon-removal-canada-launch-the-worlds-first-surficial-mineralization-hub/?utm_source=rss&utm_medium=rss&utm_campaign=frontier-and-carbon-removal-canada-launch-the-worlds-first-surficial-mineralization-hub))
 - **2026-04-27** — news mention: Reports &amp; Resources ([source](https://carbonremoval.ca/reports-resources/))
 - **2026-04-24** — news mention: Biochar and Indigenous Nations: a double helix model for Canada - Carbon Removal Canada ([source](https://carbonremoval.ca/biochar-and-indigenous-nations-a-double-helix-model-for-canadas-climate-goals/))

@@ -17,6 +17,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://www.c2xglobal.com/" target="_blank" rel="noopener">https://www.c2xglobal.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/c2x-solutions-llc/" target="_blank" rel="noopener">c2x-solutions-llc</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +30,7 @@ C2X is a green methanol project developer majority-owned by A.P. Moller Holding 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

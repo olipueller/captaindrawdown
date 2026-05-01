@@ -30,6 +30,7 @@ Nature Broking is a UK-based natural capital brokerage that builds and manages t
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.naturebroking.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.naturebroking.com/ ([source](https://www.cdr.fyi/marketplace/nature-broking))

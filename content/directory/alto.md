@@ -13,9 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.altoingredients.com/" target="_blank" rel="noopener">https://www.altoingredients.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pacific-ethanol/" target="_blank" rel="noopener">pacific-ethanol — 3,304 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~223 (-3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +26,8 @@ Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of
 
 ## History
 
+- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.opentable.com/altobelis-restaurant-and-piano-bar))
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.opentable.com/altobelis-restaurant-and-piano-bar))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.opentable.com/altobelis-restaurant-and-piano-bar))

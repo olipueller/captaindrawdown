@@ -29,6 +29,7 @@ Lune (Lune Climate Ltd) is a London-based climate API and platform that helps bu
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://lune.co/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://lune.co/ ([source](https://www.cdr.fyi/marketplace/lune))

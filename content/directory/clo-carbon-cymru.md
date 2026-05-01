@@ -30,6 +30,7 @@ Clo Carbon Cymru Ltd is a Welsh CDR startup (incorporated 2021, based in Llandei
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://clocarbon.cymru/))

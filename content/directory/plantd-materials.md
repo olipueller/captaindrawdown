@@ -33,6 +33,7 @@ Plantd is an Oxford, North Carolina-based company founded in 2021 that cultivate
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.plantdmaterials.com/))

@@ -30,6 +30,7 @@ Catch 23 AB is a Swedish reseller/broker of carbon removal certificates (CRCs), 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, liveliness

@@ -17,7 +17,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://cascadiacarbon.com/" target="_blank" rel="noopener">https://cascadiacarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cascadiacarbon/" target="_blank" rel="noopener">cascadiacarbon — 1,233 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Cascadia Carbon is a US/Canadian public benefit corporation founded in 2019, hea
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): CODEX
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate

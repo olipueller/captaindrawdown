@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.motehydrogen.com/" target="_blank" rel="noopener">https://www.motehydrogen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/motehydrogen/" target="_blank" rel="noopener">motehydrogen — 2,490 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~17</td></tr>
+  <tr><th>Employees</th><td>~9</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>

@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops GPU-based multi-scale ocean and biogeochemical modeling combined with in-situ monitoring to deliver MRV for marine carbon dioxide removal projects."
 url: "/directory/atdepth-mrv/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,9 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.atdepth.org" target="_blank" rel="noopener">https://www.atdepth.org</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atdepth-mrv/" target="_blank" rel="noopener">atdepth-mrv — 629 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~8</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atdepth-mrv/" target="_blank" rel="noopener">atdepth-mrv — 403 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ atdepth MRV is an MIT spin-off based in Cambridge, Massachusetts that provides M
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.atdepth.org/deepsky-pressrelease))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.atdepthmrv.com ([source](https://www.cdr.fyi/marketplace/atdepth-mrv))

@@ -34,6 +34,7 @@ Timber Finance (Timber Finance Management AG) is a Zurich-based competence cente
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — merged 1 duplicate(s): Timber Carbon

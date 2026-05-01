@@ -27,6 +27,7 @@ Capital Link Green (CLG) produces biochar via pyrolysis of waste biomass and iss
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.capital.link/))
 - **2026-04-19** — merged 1 duplicate(s): Capital Link
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.capital.link/))

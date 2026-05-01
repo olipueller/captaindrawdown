@@ -29,6 +29,7 @@ EcoEngineers is a Des Moines, Iowa-based consulting, auditing, and advisory firm
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://lowcarbon.exxonmobil.com/" target="_blank" rel="noopener">https://lowcarbon.exxonmobil.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exxonmobil/" target="_blank" rel="noopener">exxonmobil — 3,743,535 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
-  <tr><th>Employees</th><td>~68441 (+10% YoY)</td></tr>
+  <tr><th>Employees</th><td>~750 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -33,6 +33,7 @@ ExxonMobil is one of the world's largest integrated oil and gas companies. Its L
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-29** — news mention: The price for liquid fossil methane has increased by over a third and the fossil fools in the USA ha ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkmzhdkt622t))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Applies fungal endophyte microbial inoculants to crop seeds to accelerate formation of stable (mineral-associated and aggregate) soil organic carbon in broadacre cropping systems."
 url: "/directory/loam/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.loambio.com/" target="_blank" rel="noopener">https://www.loambio.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soilcarbonco/" target="_blank" rel="noopener">soilcarbonco — 19,565 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~77</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ Loam Bio is an Australian agri-biotech company (founded 2019, HQ in Orange, NSW)
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

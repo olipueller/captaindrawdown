@@ -34,6 +34,7 @@ Aircapture, headquartered in Berkeley, CA, is a direct air capture company found
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.eznewswire.com/newsroom/aircapture-raises-50-million-in-series-a-financing-to-scale-modular-profitable-direct-air-capture-solution))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://inspiratus.tech/" target="_blank" rel="noopener">https://inspiratus.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inspiratus-tech/" target="_blank" rel="noopener">inspiratus-tech — 1,457 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><th>Employees</th><td>~31 (+107% YoY)</td></tr>
+  <tr><th>Employees</th><td>~350 (+107% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Inspiratus Technologies is a biochar-focused CDR subsidiary of the Belgian agrib
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://inspiratus.tech/))
 - **2026-04-19** — merged 1 duplicate(s): Inspiratus Technology
 - **2026-04-19** — refresh: coresignal

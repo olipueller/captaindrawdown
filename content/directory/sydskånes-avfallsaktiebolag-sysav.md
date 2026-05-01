@@ -30,6 +30,7 @@ Sysav (Sydskånes avfallsaktiebolag) is a waste management utility owned by 14 m
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.mynewsdesk.com/se/sysav/pressreleases/sysav-och-polykemi-tecknar-avsiktsfoerklaring-foer-permanenta-minusutslaepp-3340257))

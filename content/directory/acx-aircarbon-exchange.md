@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a digital, blockchain-based exchange and clearing house for trading voluntary carbon credits and environmental instruments, regulated in ADGM with a Singapore trading platform."
 url: "/directory/acx-aircarbon-exchange/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://acx.net/" target="_blank" rel="noopener">https://acx.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aircarbon-pte-ltd/" target="_blank" rel="noopener">aircarbon-pte-ltd — 16,196 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~33 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -29,6 +29,8 @@ ACX (AirCarbon Exchange) is a global digital exchange for environmental instrume
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): Air Carbon Exchange
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

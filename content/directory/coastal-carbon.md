@@ -28,6 +28,7 @@ Coastal Carbon is a Canadian startup that uses AI and remote sensing to verify a
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://coastalcarbon.ai/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/coastal-carbon))
 

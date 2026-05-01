@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Website</th><td><a href="https://atmosclear.earth/" target="_blank" rel="noopener">https://atmosclear.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atmosclearearth/" target="_blank" rel="noopener">atmosclearearth</a></td></tr>
   <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>Employees</th><td>~350</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 

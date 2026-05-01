@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.airbus.com" target="_blank" rel="noopener">https://www.airbus.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airbusgroup/" target="_blank" rel="noopener">airbusgroup — 2,832,642 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
-  <tr><th>Employees</th><td>~85861 (+10% YoY)</td></tr>
+  <tr><th>Employees</th><td>~3 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Airbus is a multinational aerospace corporation (~86,000 employees) whose Defenc
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.newswire.ca/news-releases/deep-sky-launches-operations-of-airbus-direct-air-capture-technology-at-canadian-facility-824731831.html))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

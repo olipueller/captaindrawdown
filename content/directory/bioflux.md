@@ -34,6 +34,7 @@ BioFlux is a consultancy focused on biochar carbon removal project development. 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal

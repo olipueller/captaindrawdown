@@ -28,6 +28,7 @@ WindCapture Technologies is a Dublin, Ireland-based startup founded in 2022 by A
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.businesspost.ie/making-it-work/making-it-work-start-up-wind-capture-technologies-plans-funding-round-to-drive-growth/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.crunchbase.com/organization/windcapture-technologies))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.windcapturetech.com ([source](https://www.cdr.fyi/supplier/windcapture-technology))

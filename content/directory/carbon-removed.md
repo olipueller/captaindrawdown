@@ -16,6 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://carbonremoved.com" target="_blank" rel="noopener">https://carbonremoved.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removed/" target="_blank" rel="noopener">carbon-removed</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -28,6 +29,7 @@ Carbon Removed is a B2C/B2B carbon removal marketplace operated by Climacrux Gmb
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://carbonremoved.com/about/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://carbonremoved.com ([source](https://www.cdr.fyi/marketplace/carbon-removed))

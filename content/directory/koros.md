@@ -17,7 +17,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://koros.earth/" target="_blank" rel="noopener">https://koros.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/koros-biochar/" target="_blank" rel="noopener">koros-biochar — 157 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
-  <tr><th>Employees</th><td>~3</td></tr>
+  <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Koros is a Philippines-based biochar venture, spun out of Freya (a Spanish-Filip
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://koros.earth/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://koros.earth/))

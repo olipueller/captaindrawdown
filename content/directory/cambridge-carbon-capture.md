@@ -28,6 +28,7 @@ Cambridge Carbon Capture Ltd was a UK startup developing the CO2LOC process, a t
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟡 Moderate

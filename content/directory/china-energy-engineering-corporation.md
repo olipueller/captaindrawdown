@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.ceec.net.cn/" target="_blank" rel="noopener">https://www.ceec.net.cn/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/china-energy-engineering-group-co-ltd-/" target="_blank" rel="noopener">china-energy-engineering-group-co-ltd- — 43,284 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~1743 (+25% YoY)</td></tr>
+  <tr><th>Employees</th><td>~3 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ China Energy Engineering Corporation (CEEC) is the developer of "CarbonBox", des
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](http://en.sasac.gov.cn/2024/08/01/c_17582.htm))
 - **2026-04-19** — refresh: coresignal, liveliness

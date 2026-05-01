@@ -35,6 +35,7 @@ Charm Industrial is a San Francisco-based pure-play CDR company that uses fast p
 
 ## History
 
+- **2026-05-01** — news mention: We recently hosted Dr. Robert Brown, godfather of modern pyrolysis, from Iowa State University for a ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455458374399315968/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-22** — news mention: The context &amp; $16 Trillion opportunity | Enterprise | Charm Industrial ([source](https://charmindustrial.com/solutions))

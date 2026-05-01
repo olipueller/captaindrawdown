@@ -5,7 +5,7 @@ type: "directory"
 description: "Fluidized-bed and downdraft gasification of biosolids and wood waste, producing syngas energy and biochar/bio-fly-ash used in concrete and soil amendments."
 url: "/directory/aries-clean-technologies/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,8 +15,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://ariescleantech.com/" target="_blank" rel="noopener">https://ariescleantech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aries-clean-technologies/" target="_blank" rel="noopener">aries-clean-technologies — 11,216 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~49</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~125</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Aries Clean Technologies, based in Franklin, Tennessee, designs, builds, and ope
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.mainepublic.org/environment-and-outdoors/2026-02-24/sanford-could-host-sludge-processing-plant))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.mainepublic.org/environment-and-outdoors/2026-02-24/sanford-could-host-sludge-processing-plant))

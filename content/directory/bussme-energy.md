@@ -30,6 +30,7 @@ Bussme Energy AB is a Swedish family-owned company founded in 2010 operating dis
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟡 Moderate ([source](https://www.bussmeenergy.se/biokol/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

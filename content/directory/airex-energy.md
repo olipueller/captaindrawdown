@@ -32,6 +32,7 @@ Airex Energy is a Québec-based biochar technology company that licenses and ope
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

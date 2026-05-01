@@ -12,15 +12,15 @@ url: "/directory/biochar/"
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">377</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">137</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">106</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">38</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">96</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">214</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">67</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">24</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">72</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">10,246</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">295/377</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">9,757</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">297/377</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
@@ -30,11 +30,11 @@ url: "/directory/biochar/"
 - [Industrielle Werke Basel](/directory/industrielle-werke-basel/) — 787 employees
 - [Telge Återvinning](/directory/telge-återvinning/) — 659 employees
 - [Energie 360°](/directory/energie-360/) — 368 employees
-- [Varaha](/directory/varaha/) — 281 employees
 - [Empacar](/directory/empacar/) — 277 employees
 - [SCG Cement](/directory/scg-cement/) — 254 employees
-- [EAD](/directory/ead/) — 248 employees
 - [NetZero](/directory/netzero/) — 207 employees
+- [Südwestdeutsche Salzwerke](/directory/südwestdeutsche-salzwerke/) — 164 employees
+- [Interholco](/directory/interholco/) — 156 employees
 
 ## All Biochar companies
 

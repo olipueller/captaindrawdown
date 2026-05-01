@@ -5,7 +5,7 @@ type: "directory"
 description: "Non-profit convener and advocacy organisation that works to build demand, narrative, policy, and accounting frameworks for the carbon removal industry; does not itself perform CO2 removal."
 url: "/directory/rethinking-removal/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://rethinkingremovals.org/" target="_blank" rel="noopener">https://rethinkingremovals.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rethinking-removals/" target="_blank" rel="noopener">rethinking-removals — 1,143 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -29,6 +29,8 @@ Rethinking Removals is a UK-based collaborative non-profit organisation focused 
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): Rethinking Removals
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -30,6 +30,7 @@ Grow Indigo is a Mumbai-based joint venture of Mahyco and Indigo Ag, founded in 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.growindigo.co.in/indian-farmers-unlock-a-new-harvest-as-grow-indigos-first-high-integrity-soil-carbon-credits-reach-issuance/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.growindigo.co.in/))

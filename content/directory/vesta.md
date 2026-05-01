@@ -5,7 +5,7 @@ type: "directory"
 description: "Deploys finely ground olivine sand into coastal/nearshore waters to accelerate marine enhanced rock weathering, increasing ocean alkalinity and permanently storing atmospheric CO2 as bicarbonate."
 url: "/directory/vesta/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.vesta.earth/" target="_blank" rel="noopener">https://www.vesta.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/projectvesta/" target="_blank" rel="noopener">projectvesta — 5,752 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~15</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -37,6 +37,7 @@ Vesta (formerly Project Vesta) is a San Francisco-based Public Benefit Corporati
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://en.wikipedia.org/wiki/Project_Vesta))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=? focus=supplier liveliness=?

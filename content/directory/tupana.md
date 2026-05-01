@@ -27,6 +27,7 @@ Tupana (Tupana RGN) is a Brazilian climate-tech startup producing biochar from a
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.tupana.earth/))
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.tupana.earth/))

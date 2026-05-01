@@ -29,6 +29,7 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

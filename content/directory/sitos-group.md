@@ -5,7 +5,7 @@ type: "directory"
 description: "Slow-pyrolysis biochar production using agricultural residues (almond shells, vineyard waste) for soil application and CDR credits."
 url: "/directory/sitos-group/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.sitos.earth/" target="_blank" rel="noopener">https://www.sitos.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sitos-group/" target="_blank" rel="noopener">sitos-group — 2,662 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~6 (-14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,7 @@ Sitos Group is a California-based biochar producer that uses slow pyrolysis to c
 
 ## History
 
+- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))

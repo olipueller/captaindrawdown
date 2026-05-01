@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://jeffries.com.au/" target="_blank" rel="noopener">https://jeffries.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/jeffries/" target="_blank" rel="noopener">jeffries — 2,456 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~45 (+5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

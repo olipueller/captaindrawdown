@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates mobile in-field pyrolysis machines pulled behind tractors that convert agricultural crop residues into biochar in a single pass, which is then spread back onto the field for durable soil"
 url: "/directory/applied-carbon/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.appliedcarbon.com/" target="_blank" rel="noopener">https://www.appliedcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/applied-carbon/" target="_blank" rel="noopener">applied-carbon — 5,206 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~25 (-24% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Applied Carbon (formerly Climate Robotics) is a Houston, Texas-based biochar com
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/applied-carbon/__YdS4qB8Ilkbaz2XG3VBz8Oh0jockE4GUVDm6KQl0iSs))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/applied-carbon/__YdS4qB8Ilkbaz2XG3VBz8Oh0jockE4GUVDm6KQl0iSs))

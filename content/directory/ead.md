@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon Technik Schuster (CTS) two-retort pyrolysis of urban green-cuttings producing ~1,000 t/yr EBC-certified biochar, with waste heat recovered via high-temperature gas turbine for on-site power."
 url: "/directory/ead/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,9 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://ead.darmstadt.de/" target="_blank" rel="noopener">https://ead.darmstadt.de/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wissenschaftsstadt-darmstadt/" target="_blank" rel="noopener">wissenschaftsstadt-darmstadt — 2,082 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~248 (+27% YoY)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +26,7 @@ EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is the municipal
 
 ## History
 
+- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.hortidaily.com/article/9662190/ead-and-icba-forge-new-partnership-to-bolster-abu-dhabi-s-sustainability-goals/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: The LinkedIn slug "wissenschaftsstadt-darmstadt" represents the entire City of Darmstadt municipal government, not the EAD waste-management Eigenbetrieb specifically. While EAD is legally an Eigenbetr

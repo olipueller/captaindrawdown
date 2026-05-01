@@ -27,6 +27,7 @@ Woodgas Pyrolytics, Inc. is an Illinois-based small company led by Dr. Paul S. A
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

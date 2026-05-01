@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.abfallwirtschaft-freiburg.de" target="_blank" rel="noopener">https://www.abfallwirtschaft-freiburg.de</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/abfallwirtschaft-und-stadtreinigung-freiburg-gmbh/" target="_blank" rel="noopener">abfallwirtschaft-und-stadtreinigung-freiburg-gmbh — 310 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~40 (+54% YoY)</td></tr>
+  <tr><th>Employees</th><td>~350 (+54% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

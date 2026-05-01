@@ -17,7 +17,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://www.de-carbon.com.cn/en" target="_blank" rel="noopener">https://www.de-carbon.com.cn/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbon-tech/" target="_blank" rel="noopener">decarbon-tech — 49 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ DeCarbon Tech is a climate governance company focused on new-generation CO2 capt
 
 ## History
 
+- **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.de-carbon.com.cn/en))
 - **2026-04-19** — merged 1 duplicate(s): DeCarbon Technology
 - **2026-04-19** — refresh: coresignal

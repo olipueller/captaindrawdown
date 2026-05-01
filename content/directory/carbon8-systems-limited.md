@@ -5,7 +5,7 @@ type: "directory"
 description: "Used patented Accelerated Carbonation Technology (ACT) in a modular CO₂ntainer skid to capture flue-gas CO2 and mineralize it into industrial residues to make carbon-negative aggregates (CircaBuild)"
 url: "/directory/carbon8-systems-limited/"
 pathway: "Mineralization"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon8.co.uk/" target="_blank" rel="noopener">https://www.carbon8.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon8-systems-limited/" target="_blank" rel="noopener">carbon8-systems-limited — 5,706 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~12 (-59% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ Carbon8 Systems was a UK-based CCUS/mineralization company spun out of the Unive
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟡 Moderate

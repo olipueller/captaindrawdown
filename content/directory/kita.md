@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.kita.earth/" target="_blank" rel="noopener">https://www.kita.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kitaearth/" target="_blank" rel="noopener">kitaearth — 9,963 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
-  <tr><th>Employees</th><td>~321 (+65% YoY)</td></tr>
+  <tr><th>Employees</th><td>~21 (+65% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -33,6 +33,7 @@ Kita is a UK-based Lloyd's of London coverholder and carbon insurance specialist
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-28** — news mention: Gallagher Аnd Kita Target Carbon Removal Uncertainty With Data Heavy Consulting Service ([source](https://carbonherald.com/gallagher-%d0%b0nd-kita-target-carbon-removal-uncertainty-with-data-heavy-consulting-service/?utm_source=rss&utm_medium=rss&utm_campaign=gallagher-%25d0%25b0nd-kita-target-carbon-removal-uncertainty-with-data-heavy-consulting-service))

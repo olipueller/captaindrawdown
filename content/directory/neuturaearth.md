@@ -29,6 +29,7 @@ Neutura (PT Penyerapan Karbon Khatulistiwa) is a Singapore/Jakarta-based carbon 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://neutura.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Neutura
 - **2026-04-19** — refresh: coresignal

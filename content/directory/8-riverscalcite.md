@@ -5,7 +5,7 @@ type: "directory"
 description: "Calcite uses a calcium-looping (calcium sorbent) process: hydrated lime reacts with ambient air to form limestone, which is then heated in an oxygen-fired kiln to release concentrated CO2 for"
 url: "/directory/8-riverscalcite/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://8rivers.com/" target="_blank" rel="noopener">https://8rivers.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/8-rivers-capital/" target="_blank" rel="noopener">8-rivers-capital — 10,981 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~59 (-35% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -32,6 +32,8 @@ liveliness: "🟠 Suspect"
 
 ## History
 
+- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://8rivers.com/))
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://8rivers.com/))

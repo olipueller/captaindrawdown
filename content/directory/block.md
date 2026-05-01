@@ -28,6 +28,7 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 
 ## History
 
+- **2026-05-01** — news mention: It would have reinforced a longstanding precedent and a potential outcome not the same as a legal pr ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkqwrxxsec2p))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://block.xyz/inside/clean-energy-portfolios))

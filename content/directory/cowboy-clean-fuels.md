@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://cowboycleanfuels.com/" target="_blank" rel="noopener">https://cowboycleanfuels.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cowboy-clean-fuels/" target="_blank" rel="noopener">cowboy-clean-fuels — 1,153 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~15</td></tr>
+  <tr><th>Employees</th><td>~10</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

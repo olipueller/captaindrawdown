@@ -29,6 +29,7 @@ German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenk
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://german-biochar.org/en/homepage/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://fachverbandpflanzenkohle.org/ ([source](https://www.cdr.fyi/marketplace/german-biochar-association))

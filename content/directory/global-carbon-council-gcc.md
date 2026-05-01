@@ -30,6 +30,7 @@ Global Carbon Council (GCC) is an international carbon crediting program and reg
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://globalcarboncouncil.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.globalcarboncouncil.com/ ([source](https://www.cdr.fyi/marketplace/global-carbon-council))

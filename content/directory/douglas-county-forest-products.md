@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="http://www.dcfp.com/" target="_blank" rel="noopener">http://www.dcfp.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/douglas-county-forest-products/" target="_blank" rel="noopener">douglas-county-forest-products</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~32 (+10% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Douglas County Forest Products is an independently owned sawmill in Roseburg, Or
 
 ## History
 
+- **2026-05-01** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](http://www.dcfp.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

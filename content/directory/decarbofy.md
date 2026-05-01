@@ -29,6 +29,7 @@ Decarbofy is an early-stage Argentinean biochar project developer that presented
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://agroempresario.com/publicacion/96714/decarbofy-planea-instalar-una-planta-de-biochar-en-el-parque-industrial-de-ituzaingo/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://agroempresario.com/publicacion/96714/decarbofy-planea-instalar-una-planta-de-biochar-en-el-parque-industrial-de-ituzaingo/))

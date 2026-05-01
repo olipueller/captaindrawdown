@@ -5,7 +5,7 @@ type: "directory"
 description: "Climate Vault Solutions is a Chicago-based CDR portfolio manager and reseller that vaults compliance-market allowances and curates a portfolio of vetted CDR credits sourced via its Tech Chamber RFP"
 url: "/directory/climate-vault-solutions/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://climatevault.com" target="_blank" rel="noopener">https://climatevault.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climatevault/" target="_blank" rel="noopener">climatevault — 3,240 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~16 (-27% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -29,6 +29,8 @@ Climate Vault Solutions, Inc. is the commercial/sales arm of the University of C
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, liveliness

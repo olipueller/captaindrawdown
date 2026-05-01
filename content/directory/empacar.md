@@ -29,6 +29,7 @@ Empacar S.A. is Bolivia's largest sustainable packaging and recycling company, f
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://puro.earth/our-blog/368-empacar-to-scale-biochar-as-high-integrity-carbon-dioxide-removal-pathway-in-bolivia))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://puro.earth/our-blog/368-empacar-to-scale-biochar-as-high-integrity-carbon-dioxide-removal-pathway-in-bolivia))

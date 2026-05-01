@@ -29,6 +29,7 @@ reCap Carbon Inc. is a US-based climate-tech company that converts municipal yar
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

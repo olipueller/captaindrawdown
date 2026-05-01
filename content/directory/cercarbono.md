@@ -5,7 +5,7 @@ type: "directory"
 description: "Voluntary carbon certification standard/registry that validates methodologies and issues carbon credits for climate change mitigation projects, paired with the EcoRegistry blockchain platform."
 url: "/directory/cercarbono/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Colombia</td></tr>
   <tr><th>Website</th><td><a href="https://www.cercarbono.com/" target="_blank" rel="noopener">https://www.cercarbono.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cercarbono/" target="_blank" rel="noopener">cercarbono — 9,077 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~14 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,8 @@ Cercarbono is a voluntary carbon certification standard established in Colombia 
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cercarbono.com/))

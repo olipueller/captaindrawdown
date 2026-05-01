@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates pyrolysis-based Carbon Removal Parks that turn biogenic residues into EBC-certified biochar while feeding excess heat into district heating networks."
 url: "/directory/novocarbo/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.novocarbo.com/" target="_blank" rel="noopener">https://www.novocarbo.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbo3-gmbh/" target="_blank" rel="noopener">carbo3-gmbh — 10,244 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~20 (-44% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Novocarbo is a Hamburg-based climate tech company that builds and operates Carbo
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.novocarbo.com/biochar/green-construction/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.novocarbo.com/biochar/green-construction/))

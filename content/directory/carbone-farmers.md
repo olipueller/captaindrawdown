@@ -30,6 +30,7 @@ Carbone Farmers coordinates collective Label Bas-Carbone projects, such as one w
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.carbonefarmers.com/accueil/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.carbonefarmers.com/accueil/))

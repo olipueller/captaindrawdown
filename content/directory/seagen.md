@@ -15,7 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean-based CDR</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.seagen.io/" target="_blank" rel="noopener">https://www.seagen.io/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seaweed-generation/" target="_blank" rel="noopener">seaweed-generation — 3,247 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~15 (-17% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -32,6 +34,7 @@ SeaGen (Seaweed Generation Ltd), based in Falmouth, UK and founded in 2021, buil
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seagen.io/))

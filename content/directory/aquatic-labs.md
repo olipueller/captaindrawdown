@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.aquatic-labs.com/" target="_blank" rel="noopener">https://www.aquatic-labs.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aquatic-labs/" target="_blank" rel="noopener">aquatic-labs — 1,449 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><th>Employees</th><td>~17 (+13% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Aquatic Labs is a Cambridge, Massachusetts-based ocean sensing startup founded i
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.aquatic-labs.com/cdr))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.aquatic-labs.com/ ([source](https://www.cdr.fyi/supplier/aquatic-labs))

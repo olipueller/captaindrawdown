@@ -30,6 +30,7 @@ Usinas Itamarati S.A. (UISA) is a large Brazilian biorefinery in Nova Olímpia, 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/usinas-itamarati-s-a-196))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/usinas-itamarati-s-a-196))

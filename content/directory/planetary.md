@@ -33,6 +33,7 @@ Planetary delivered the first-ever independently verified carbon removal credits
 
 ## History
 
+- **2026-05-01** — news mention: The idea that removing nearly a trillion tons of atmospheric CO2 by 2100 is plausible, but a forcing ([source](https://x.com/DoctorVive/status/2049962445280510157))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-30** — news mention: RT @joewrote: The left has some good ideas, but they can't win elections outside small deep-blue dis ([source](https://x.com/DoctorVive/status/2049961017078161443))

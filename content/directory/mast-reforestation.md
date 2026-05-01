@@ -5,7 +5,7 @@ type: "directory"
 description: "Buries wildfire-killed trees in engineered anoxic underground chambers (Terrestrial Storage of Biomass) combined with post-wildfire reforestation, generating durable Puro.earth CORC credits."
 url: "/directory/mast-reforestation/"
 pathway: "Biomass Burial"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.mastreforest.com/" target="_blank" rel="noopener">https://www.mastreforest.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/droneseed/" target="_blank" rel="noopener">droneseed — 18,143 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~43</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Mast Reforestation is a Seattle-based post-wildfire reforestation and CDR compan
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-and-delivers-market-first-biomass-burial-credits-to-royal-bank-of-canada-cnaught-and-others-302673476.html))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-and-delivers-market-first-biomass-burial-credits-to-royal-bank-of-canada-cnaught-and-others-302673476.html))

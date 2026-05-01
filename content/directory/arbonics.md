@@ -5,7 +5,7 @@ type: "directory"
 description: "Arbonics develops afforestation and improved forest management (Impact Forestry) carbon projects across Europe, using a data platform (satellite, LiDAR, soil, forest registry) to plan, monitor and"
 url: "/directory/arbonics/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Estonia</td></tr>
   <tr><th>Website</th><td><a href="https://www.arbonics.com/" target="_blank" rel="noopener">https://www.arbonics.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbonics/" target="_blank" rel="noopener">arbonics — 6,036 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~27 (-23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ Founded in 2022 by Kristjan Lepik and Lisett Luik, Arbonics is a Tallinn-based n
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

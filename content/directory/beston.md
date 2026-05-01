@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.bestongroup.com/" target="_blank" rel="noopener">https://www.bestongroup.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/" target="_blank" rel="noopener">beston-henan-machinery-co-ltd- — 35,299 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><th>Employees</th><td>~102 (+12% YoY)</td></tr>
+  <tr><th>Employees</th><td>~750 (+12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Beston Group is a Chinese pyrolysis equipment manufacturer based in Zhengzhou/Ji
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.bestongroup.com/))
 - **2026-04-19** — merged 1 duplicate(s): Beston Group
 - **2026-04-19** — refresh: coresignal, screenshot

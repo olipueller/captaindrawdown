@@ -30,6 +30,7 @@ PyroCCS is a Cologne, Germany-based climate tech startup founded in 2022 that de
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyroccs.com/about-us/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.pyroccs.com ([source](https://www.cdr.fyi/supplier/pyroccs))

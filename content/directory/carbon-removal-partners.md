@@ -29,6 +29,7 @@ Carbon Removal Partners (CRP) is a Zurich-based venture capital firm exclusively
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonremoval.partners/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonremoval.partners ([source](https://www.cdr.fyi/marketplace/carbon-removal-partners))

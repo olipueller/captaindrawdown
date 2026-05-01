@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates the C-Capsule registry and standard that issues tradable Carbon Removal Units (CRUs) for independently-verified durable CDR activity, under the I-TRACK Foundation's International Attribute"
 url: "/directory/evident/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,8 +14,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://evident.global" target="_blank" rel="noopener">https://evident.global</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/international-rec-services/" target="_blank" rel="noopener">international-rec-services — 8,338 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~42</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~125</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -28,6 +28,8 @@ Evident is a Sheffield, UK-based certification and registry provider, best known
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

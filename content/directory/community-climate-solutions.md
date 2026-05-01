@@ -29,6 +29,7 @@ Community Climate Solutions (CCS) is the project developer behind The Ecopreneur
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.climateimpact.com/news-insights/news/farmer-led-carbon-reduction-project-to-transform-rural-livelihoods-for-240000-zambians/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://community-climate-solutions.com/))

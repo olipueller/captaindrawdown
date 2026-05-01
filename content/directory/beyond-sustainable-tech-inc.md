@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.beyonders.tech" target="_blank" rel="noopener">https://www.beyonders.tech</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beyond-sustainable-tech/" target="_blank" rel="noopener">beyond-sustainable-tech — 587 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (+200% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+200% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Beyond Sustainable Tech (BST) is a small Canadian company based in Kedgwick, New
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carboncell.co/" target="_blank" rel="noopener">https://www.carboncell.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-cell/" target="_blank" rel="noopener">carbon-cell — 1,995 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (+22% YoY)</td></tr>
+  <tr><th>Employees</th><td>~9 (+22% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

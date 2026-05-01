@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carboncentric.no/en" target="_blank" rel="noopener">https://www.carboncentric.no/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncentric/" target="_blank" rel="noopener">carboncentric — 4,285 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><th>Employees</th><td>~22 (+16% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+16% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

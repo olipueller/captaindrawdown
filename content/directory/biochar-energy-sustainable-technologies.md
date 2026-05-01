@@ -29,6 +29,7 @@ Biochar Energy Sustainable Technologies (BEST) is a US-based biochar producer th
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

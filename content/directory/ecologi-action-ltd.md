@@ -30,6 +30,7 @@ Ecologi Action Ltd (trading as Ecologi) is a UK-based all-in-one climate action 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): Ecologi
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://ecologi.com/climate-action/carbon-removals))

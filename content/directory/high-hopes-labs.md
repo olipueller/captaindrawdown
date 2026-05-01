@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses high-altitude balloons carrying payloads to the stratosphere where ambient cold (-60 to -70 °C) allows CO2 to be cryogenically frozen out of air and returned to the ground."
 url: "/directory/high-hopes-labs/"
 pathway: "DAC"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,8 +15,8 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://www.highopeslabs.com/" target="_blank" rel="noopener">https://www.highopeslabs.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/high-hopes-labs/" target="_blank" rel="noopener">high-hopes-labs</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~8 (0% YoY)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ High Hopes Labs is an Israeli startup (Ramat Gan/Tel Aviv) founded by Nadav Mans
 
 ## History
 
+- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/high-hopes-labs-receives-patent-for-its-carbon-capture-balloons/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://carbonherald.com/high-hopes-labs-receives-patent-for-its-carbon-capture-balloons/))

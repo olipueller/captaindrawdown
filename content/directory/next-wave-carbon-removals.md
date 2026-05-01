@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://nextwavecr.com/" target="_blank" rel="noopener">https://nextwavecr.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/next-wave-cr/" target="_blank" rel="noopener">next-wave-cr</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

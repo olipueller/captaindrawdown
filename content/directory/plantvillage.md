@@ -5,7 +5,7 @@ type: "directory"
 description: "Worker cooperative deploying low-cost, solar-powered \"PyroTower\" pyrolysis units across African smallholder farms to convert agricultural waste into biochar and sell durable carbon removal credits"
 url: "/directory/plantvillage/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://plantvillageplus.coop/" target="_blank" rel="noopener">https://plantvillageplus.coop/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon4good.net/" target="_blank" rel="noopener">carbon4good.net — 2,074 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (+400% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +30,8 @@ PlantVillage+ is a worker-owned cooperative spun out of Penn State's PlantVillag
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

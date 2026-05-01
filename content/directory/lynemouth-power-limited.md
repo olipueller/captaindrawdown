@@ -27,6 +27,7 @@ Lynemouth Power Limited operates a 420MW biomass power station in Northumberland
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

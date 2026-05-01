@@ -5,7 +5,7 @@ type: "directory"
 description: "Harvests free-floating Sargassum macroalgae in the open Atlantic and pyrolyzes the biomass into biochar plus bio-oil/SAF precursors for long-term carbon storage."
 url: "/directory/macrocarbon/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.macrocarbon.world/" target="_blank" rel="noopener">https://www.macrocarbon.world/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/macrocarbon/" target="_blank" rel="noopener">macrocarbon — 1,981 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ MacroCarbon SL is a Las Palmas (Gran Canaria) startup spun out of Germany's Alfr
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))

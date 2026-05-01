@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carbonfuture.earth/" target="_blank" rel="noopener">https://www.carbonfuture.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonfuture/" target="_blank" rel="noopener">carbonfuture — 29,216 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
-  <tr><th>Employees</th><td>~63 (+11% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+11% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -35,6 +35,7 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 
 ## History
 
+- **2026-05-01** — news mention: Meet the Carbonfuture team at Climate Week Zurich 2026 | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455555282937532417/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-27** — news mention: Key takeaways from SFCW2026 - Tannis Abdoli | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7454482293101993985/))

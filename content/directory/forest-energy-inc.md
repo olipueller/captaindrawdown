@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates SynCraft wood-gasification CHP plants for electricity and heat, collecting the solid carbon residue as EBC-certified biochar for soil amendment and construction materials."
 url: "/directory/forest-energy-inc/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://forestenergy.jp/" target="_blank" rel="noopener">https://forestenergy.jp/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/forest-energy/" target="_blank" rel="noopener">forest-energy — 150 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~13 (-7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,8 @@ Forest Energy Inc. is a Tokyo-based company that develops and operates small-sca
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

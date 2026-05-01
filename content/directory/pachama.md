@@ -28,6 +28,7 @@ Pachama, based in California and launched in 2018, provided digital MRV products
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://www.carbon-direct.com/press/carbon-direct-acquires-pachama))

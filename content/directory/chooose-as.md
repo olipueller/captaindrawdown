@@ -33,6 +33,7 @@ Chooose AS is an Oslo-based climate-tech SaaS company founded in 2017 that provi
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal

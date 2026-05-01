@@ -29,6 +29,8 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-05-01** — news mention: Octopus Energy makes 'landmark' announcement for all 10 million customers - Birmingham Live ([source](https://www.birminghammail.co.uk/news/cost-of-living/octopus-energy-makes-landmark-announcement-33867237))
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

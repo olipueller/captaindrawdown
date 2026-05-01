@@ -5,7 +5,7 @@ type: "directory"
 description: "Entrained-flow biomass gasification of fine-fraction wood/agricultural residues producing biosyngas (primary product) plus biochar as a stable-carbon by-product usable as soil amendment or"
 url: "/directory/meva-energy/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,8 +15,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://mevaenergy.com/" target="_blank" rel="noopener">https://mevaenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/meva-energy/" target="_blank" rel="noopener">meva-energy — 3,905 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~52 (+2% YoY)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~35 (+2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Meva Energy is a Swedish cleantech company (founded 2008, HQ Gothenburg) that bu
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://mevaenergy.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://mevaenergy.com/))

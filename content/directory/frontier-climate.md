@@ -5,7 +5,7 @@ type: "directory"
 description: "Buyer-coalition AMC that pools committed CDR demand from corporate members and facilitates prepurchase and offtake contracts with vetted permanent-removal suppliers across DAC, BECCS, ERW,"
 url: "/directory/frontier-climate/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://frontierclimate.com/" target="_blank" rel="noopener">https://frontierclimate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/frontierclimate/" target="_blank" rel="noopener">frontierclimate — 1,797 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~12</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -28,6 +28,9 @@ Frontier Climate is an advance market commitment (AMC) that aggregates buyer dem
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot, liveliness
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — news mention: Deep Sky Announces Partnership to Advance Direct Air Capture with ENGIE ([source](https://www.prnewswire.com/news-releases/deep-sky-announces-partnership-to-advance-direct-air-capture-with-engie-302757436.html))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://frontierclimate.com/))

@@ -33,6 +33,7 @@ Watershed is an enterprise sustainability software platform that helps companies
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-25** — news mention: @remineralize Watershed-scale MRV with seasonal predictability finally gives us the empirical ground ([source](https://x.com/makinggovq/status/2048007575560404995))

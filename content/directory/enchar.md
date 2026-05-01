@@ -30,6 +30,7 @@ Enchar is a B2B biochar market-maker with a biochar supply database and expertis
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟡 Moderate ([source](https://enchar.co/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://enchar.co/ ([source](https://www.cdr.fyi/marketplace/enchar))

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.iwb.ch/" target="_blank" rel="noopener">https://www.iwb.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/iwb-industrielle-werke-basel/" target="_blank" rel="noopener">iwb-industrielle-werke-basel — 12,196 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
-  <tr><th>Employees</th><td>~787 (+8% YoY)</td></tr>
+  <tr><th>Employees</th><td>~3000 (+8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

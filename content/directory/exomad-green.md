@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.exomadgreen.com/" target="_blank" rel="noopener">https://www.exomadgreen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exomad-green/" target="_blank" rel="noopener">exomad-green — 7,664 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
-  <tr><th>Employees</th><td>~28 (+40% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (+40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 

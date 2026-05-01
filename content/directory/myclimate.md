@@ -5,7 +5,7 @@ type: "directory"
 description: "Non-profit carbon offset project developer and retailer; CDR portfolio consists of biochar (coffee cultivation in Colombia), reforestation and peatland rewetting projects certified under Gold"
 url: "/directory/myclimate/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.myclimate.org/" target="_blank" rel="noopener">https://www.myclimate.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/myclimate---the-climate-protection-partnership/" target="_blank" rel="noopener">myclimate---the-climate-protection-partnership — 27,233 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~155 (-16% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,8 @@ myclimate is a Swiss non-profit climate protection foundation, spun out of ETH Z
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, liveliness

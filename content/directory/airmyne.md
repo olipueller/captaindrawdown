@@ -33,6 +33,7 @@ AirMyne is a Berkeley, California-based Direct Air Capture startup founded in 20
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://decarbonfuse.com/posts/announcing-an-eneos-strategic-investment-in-airmyne-to-advance-dac-technology))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

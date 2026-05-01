@@ -30,6 +30,7 @@ Xilva is a Zurich-based startup (founded 2021) that provides due diligence, rati
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://xilva.global/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://xilva.global ([source](https://www.cdr.fyi/supplier/xilva))

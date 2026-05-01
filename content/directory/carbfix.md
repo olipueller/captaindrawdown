@@ -33,6 +33,7 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-29** — news mention: Direct air capture - Wikipedia ([source](https://en.wikipedia.org/wiki/Direct_air_capture))

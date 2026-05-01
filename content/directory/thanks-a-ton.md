@@ -5,7 +5,7 @@ type: "directory"
 description: "Consumer-facing greeting-card gifting platform that resells bundled CDR credits across multiple pathways, with supply sourced from external removal providers."
 url: "/directory/thanks-a-ton/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://thanksaton.earth/" target="_blank" rel="noopener">https://thanksaton.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thanks-a-ton/" target="_blank" rel="noopener">thanks-a-ton — 754 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,8 @@ Thanks a Ton is a B2C/B2B platform that pairs custom digital greeting cards with
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://thanksaton.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://thanksaton.earth/ ([source](https://www.cdr.fyi/marketplace/thanks-a-ton))

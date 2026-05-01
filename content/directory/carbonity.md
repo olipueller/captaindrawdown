@@ -15,6 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://carbonity.ca/" target="_blank" rel="noopener">https://carbonity.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonity/" target="_blank" rel="noopener">carbonity</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

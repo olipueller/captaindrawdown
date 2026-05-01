@@ -33,6 +33,8 @@ Founded in 2019, California-based Living Carbon transforms marginal land into hi
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-05-01** — news mention: Octopus Energy makes 'landmark' announcement for all 10 million customers - Birmingham Live ([source](https://www.birminghammail.co.uk/news/cost-of-living/octopus-energy-makes-landmark-announcement-33867237))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-30** — news mention: Octopus commits $500M to Living Carbon as Google, Meta and McKinsey buy the carbon credits — TFN ([source](https://techfundingnews.com/octopus-500m-living-carbon-google-meta-mckinsey-reforestation/))

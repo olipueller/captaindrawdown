@@ -29,6 +29,7 @@ Ocean-based Climate Solutions, Inc. (now rebranded as The Sea Upwelling Company 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://ocean-based.com/about-us/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://climatebase.org/company/1759/the-sea-upwelling-company-formerly-ocean-based-climate-solutions))

@@ -28,6 +28,7 @@ CarbonPilot (now Valorize Systems) is a software platform that helps biochar and
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.valorizesystems.com))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Trains smallholder farmers in Thailand, Kenya, Malawi, and Indonesia to convert crop residues into biochar using low-tech Kon-Tiki/Aom kilns, certified under the EBC Global Artisan C-Sink standard."
 url: "/directory/biochar-life/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Website</th><td><a href="https://biochar.life/" target="_blank" rel="noopener">https://biochar.life/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-life/" target="_blank" rel="noopener">biochar-life — 4,663 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~18 (-14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +28,7 @@ Biochar Life is a Delaware Public Benefit Corporation and impact venture of the 
 
 ## History
 
+- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))

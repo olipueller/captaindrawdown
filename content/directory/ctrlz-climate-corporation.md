@@ -29,6 +29,7 @@ CtrlZ Climate offers carbon removal and storage services based on chemical, engi
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://ctrlzclimate.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate

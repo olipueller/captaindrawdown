@@ -28,6 +28,7 @@ Frontier Carbon Solutions (now operating as Frontier Infrastructure Holdings), a
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

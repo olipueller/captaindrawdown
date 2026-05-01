@@ -5,7 +5,7 @@ type: "directory"
 description: "Processes biochar into concrete admixtures (eLM Zero) that lock biogenic carbon permanently into building materials."
 url: "/directory/ecolocked/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ecolocked.com/" target="_blank" rel="noopener">https://www.ecolocked.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecolocked/" target="_blank" rel="noopener">ecolocked — 6,915 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~24 (-23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ ecoLocked is a Berlin-based climate-tech startup founded in 2021 that produces b
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))

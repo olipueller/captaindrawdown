@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://biochar-international.org/" target="_blank" rel="noopener">https://biochar-international.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/international-biochar-initiative/" target="_blank" rel="noopener">international-biochar-initiative — 16,843 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~16 (+14% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ The International Biochar Initiative (IBI) is a U.S.-based 501(c)(3) nonprofit m
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-27** — news mention: Introducing the Biochar Operator Course - International Biochar Initiative ([source](https://biochar-international.org/event/introducing-the-biochar-operator-course/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://biochar-international.org/))

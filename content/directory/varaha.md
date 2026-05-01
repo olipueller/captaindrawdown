@@ -14,9 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enhanced Weathering, Afforestation</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.varaha.earth/" target="_blank" rel="noopener">https://www.varaha.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/meta-carbontech/" target="_blank" rel="noopener">meta-carbontech — 30,518 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 97/100)</td></tr>
-  <tr><th>Employees</th><td>~281 (+34% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

@@ -30,6 +30,7 @@ Ag Carbon Solutions (ACS) is a small family-run Orlando, Florida operator that b
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://agcarbonsolutions.com/wp-content/uploads/2024/03/ACS-THE-Climate-Change-Solution-10-X-Part-I-2020-10-27-Jenny-1.docx-1.pdf))

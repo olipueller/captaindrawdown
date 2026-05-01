@@ -32,6 +32,7 @@ Restoration Fuels was a commercial-scale torrefaction and biochar facility in Jo
 ## History
 
 - **2026-05-01** — refresh: coresignal
+- **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🔴 Likely Dead ([source](https://bluemountaineagle.com/2024/07/31/restoration-fuels-shutters-john-day-torrefaction-plant/))
 - **2026-04-19** — merged 1 duplicate(s): Restoration Fuels, LLC
 - **2026-04-19** — refresh: coresignal, liveliness

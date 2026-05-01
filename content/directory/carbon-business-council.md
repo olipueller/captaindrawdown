@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carbonbusinesscouncil.org/" target="_blank" rel="noopener">https://www.carbonbusinesscouncil.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonbusinesscouncil/" target="_blank" rel="noopener">carbonbusinesscouncil — 9,920 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
-  <tr><th>Employees</th><td>~18 (+50% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade associati
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-27** — news mention: How U.S. Department of Energy Awardees Are Shaping Carbon Management Innovation &mdash; Carbon Busin ([source](https://www.carbonbusinesscouncil.org/news/how-us-department-of-energy-awardees-are-shaping-the-future-of-carbon-management-innovation))
 - **2026-04-22** — news mention: #sfcw2026 #carbonremoval #cdr #climateaction #netzero | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452232565496836096/))
 - **2026-04-19** — refresh: coresignal

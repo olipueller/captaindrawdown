@@ -34,6 +34,7 @@ Circonomy is a Singapore-based climate tech startup specialized in carbon remova
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.circonomy.co/))

@@ -29,6 +29,8 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
+- **2026-05-01** — news mention: Enhanced rock weathering has real potential as a carbon removal pathway. The chemistry is well under ([source](https://www.linkedin.com/feed/update/urn:li:share:7455602010801774592/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-28** — news mention: We Built an AI Influencer. It Nearly Worked. ([source](https://captaindrawdown.com/posts/captain-v1-nearly-worked))

@@ -30,6 +30,7 @@ Shanghai Haiqi Environmental Protection Technology is a Chinese biomass gasifica
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.haiqienvtech.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.haiqienvtech.com/))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes waste wood from its lumber milling/processing operations into biochar for voluntary carbon market credits."
 url: "/directory/robinson-lumber/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.roblumco.com/" target="_blank" rel="noopener">https://www.roblumco.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/robinson-lumber-company-inc-/" target="_blank" rel="noopener">robinson-lumber-company-inc- — 2,069 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~60 (-5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -28,6 +28,7 @@ Robinson Lumber Company is a 132-year-old, fifth-generation family-owned wholesa
 
 ## History
 
+- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))

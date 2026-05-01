@@ -14,7 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://isometric.com/" target="_blank" rel="noopener">https://isometric.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exponential-hq/" target="_blank" rel="noopener">exponential-hq — 20,708 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Employees</th><td>~179</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +33,8 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ## History
 
+- **2026-05-01** — news mention: Solving distributed biochar&#x27;s certification problem ([source](https://isometric.com/writing-articles/solving-distributed-biochars-certification-problem))
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-30** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits  Verde Resources and Isometric ([source](https://x.com/CaptainDrawdown/status/2049715878086742265))

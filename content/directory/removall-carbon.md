@@ -34,6 +34,7 @@ Removall Carbon is a developer and investor in high-integrity, nature-based proj
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.removall-carbon.com/en/removall-and-blue-forest-partner-to-finance-the-largest-mangrove-reforestation-project-in-africa/))

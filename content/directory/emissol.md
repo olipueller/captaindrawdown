@@ -28,6 +28,7 @@ Emissol is a small R&D firm founded in 2013 and headquartered in Bothell (Mill C
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

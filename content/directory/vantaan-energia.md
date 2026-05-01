@@ -29,6 +29,7 @@ Vantaan Energia is a Finnish municipal energy utility majority-owned by the City
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.vantaanenergia.fi/en/about-us/projects/vantaa-carbon-capture/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.vantaanenergia.fi/en/about-us/projects/vantaa-carbon-capture/))

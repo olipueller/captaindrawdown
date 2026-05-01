@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.darkearthcarbon.com/" target="_blank" rel="noopener">https://www.darkearthcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dark-earth-carbon/" target="_blank" rel="noopener">dark-earth-carbon — 849 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
-  <tr><th>Employees</th><td>~38 (+23% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (+23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

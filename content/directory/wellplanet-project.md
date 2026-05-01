@@ -29,6 +29,7 @@ WellPlanet is a direct air capture and sequestration company partnering with org
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟡 Moderate

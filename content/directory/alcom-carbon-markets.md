@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates rice-husk pyrolysis/gasification plants in the Philippines producing biochar (plus heat and syngas) and issues Puro.earth-certified CDR credits."
 url: "/directory/alcom-carbon-markets/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,8 +16,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://alcomcm.com" target="_blank" rel="noopener">https://alcomcm.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alcom-pte-ltd/" target="_blank" rel="noopener">alcom-pte-ltd — 1,705 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~27</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~125</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -34,6 +34,8 @@ Alcom Carbon Markets (ACM) is a Singapore-based climate-tech project developer t
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

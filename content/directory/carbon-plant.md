@@ -5,7 +5,7 @@ type: "directory"
 description: "FSA-registered carbon credit exchange that tokenizes carbon contracts as NFTs and offers forward and securitised products to connect buyers with carbon projects."
 url: "/directory/carbon-plant/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,8 +15,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Isle of Man</td></tr>
   <tr><th>Website</th><td><a href="https://carbon-plant.com/" target="_blank" rel="noopener">https://carbon-plant.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-plant/" target="_blank" rel="noopener">carbon-plant — 316 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~11</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~8</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Carbon Plant is an Isle of Man-based, FSA-registered carbon credit exchange that
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbon-plant.com/))

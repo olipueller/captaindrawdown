@@ -29,6 +29,7 @@ RegenCo is an Adelaide-based Australian natural capital and carbon project devel
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://regenco.earth/who-we-are/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://regenco.earth/))

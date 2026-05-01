@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes agricultural residues (rice husks) into biochar at an industrial plant in Saraburi, Thailand, then incorporates the biochar into concrete and road-base products for durable storage."
 url: "/directory/scg-cement/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Website</th><td><a href="https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/" target="_blank" rel="noopener">https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scg-international/" target="_blank" rel="noopener">scg-international — 4,532 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~254 (-4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,8 @@ SCG Cement is the cement and building materials arm of Siam Cement Group, Thaila
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

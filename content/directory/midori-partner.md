@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://midori-partner.com/" target="_blank" rel="noopener">https://midori-partner.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/midoriclimate/" target="_blank" rel="noopener">midoriclimate — 1,063 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><th>Employees</th><td>~6</td></tr>
+  <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer sp
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://midori-partner.com/))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Supercritical water gasification of wet biomass waste into green methane/hydrogen plus biogenic CO2, with a secondary DAC tower (\"CO2 CleanUp\") for atmospheric CO2 removal and geological storage."
 url: "/directory/scw-systems/"
 pathway: "BECCS"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.scwsystems.com/" target="_blank" rel="noopener">https://www.scwsystems.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scw-systems/" target="_blank" rel="noopener">scw-systems — 3,820 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~72 (-23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,7 @@ SCW Systems is a Dutch energy-services company in Alkmaar that operates an indus
 
 ## History
 
+- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))

@@ -30,6 +30,7 @@ The Direct Air Capture Coalition was founded in 2022 as a non-profit, multi-stak
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=DAC focus=ecosystem liveliness=🟢 Active ([source](https://daccoalition.org/))

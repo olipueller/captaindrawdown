@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://www.biomassehof.at/energiewerk-ilg/" target="_blank" rel="noopener">https://www.biomassehof.at/energiewerk-ilg/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energiewerk-ilg/" target="_blank" rel="noopener">energiewerk-ilg — 182 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

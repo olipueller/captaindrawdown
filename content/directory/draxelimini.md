@@ -5,7 +5,7 @@ type: "directory"
 description: "Elimini develops bioenergy with carbon capture and storage (BECCS) projects — pairing biomass-fired power generation with CO2 capture and geological storage to produce durable carbon removal credits."
 url: "/directory/draxelimini/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,8 +14,8 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://elimini.com/" target="_blank" rel="noopener">https://elimini.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/elimini/" target="_blank" rel="noopener">elimini — 2,332 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~39 (-38% YoY)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-38% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -28,6 +28,7 @@ Elimini is a wholly-owned US-based subsidiary of UK energy group Drax, launched 
 
 ## History
 
+- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.drax.com/financial-news/half-year-results-for-the-six-months-ended-30-june-2025/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.drax.com/financial-news/half-year-results-for-the-six-months-ended-30-june-2025/))

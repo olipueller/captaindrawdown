@@ -5,7 +5,7 @@ type: "directory"
 description: "State-owned oil & gas major investing in and co-developing megaton-scale DAC facilities (with Occidental/1PointFive) in the UAE and South Texas, with CO2 stored in saline aquifers via ADNOC's"
 url: "/directory/adnoc/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,8 +16,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Arab Emirates</td></tr>
   <tr><th>Website</th><td><a href="https://www.adnoc.ae" target="_blank" rel="noopener">https://www.adnoc.ae</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adnoc/" target="_blank" rel="noopener">adnoc — 2,492,807 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~50026</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ ADNOC (Abu Dhabi National Oil Company) is the UAE's state-owned oil, gas, and pe
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))

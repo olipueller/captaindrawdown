@@ -30,6 +30,7 @@ Tapovanam is a Bangalore-based regenerative agriculture company founded in 2021,
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

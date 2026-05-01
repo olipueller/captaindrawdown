@@ -29,6 +29,7 @@ BELOW2 Inc. is a San Francisco-based startup (with German founders) that operate
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://below2.earth/))

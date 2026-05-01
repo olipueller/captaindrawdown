@@ -30,6 +30,7 @@ AirSmat is a Lagos-based climate-tech company that produces biochar from agricul
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.thisdaylive.com/2026/03/30/airsmat-dantata-foods-partner-on-biochar-carbon-removal-project-in-kano/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active

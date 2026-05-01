@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://marble.studio/" target="_blank" rel="noopener">https://marble.studio/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/marble-climate/" target="_blank" rel="noopener">marble-climate — 20,775 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><th>Employees</th><td>~299 (+53% YoY)</td></tr>
+  <tr><th>Employees</th><td>~34 (+53% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Marble is a Paris-based climate-tech venture studio founded in 2021 by Benjamin 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://marble.studio/about))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://marble.studio/ ([source](https://www.cdr.fyi/marketplace/marble))

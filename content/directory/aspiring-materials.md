@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses a patented acid digestion + electrolysis process to convert olivine rock into magnesium hydroxide (which captures CO2 to form stable magnesium carbonate) plus co-products including reactive"
 url: "/directory/aspiring-materials/"
 pathway: "Mineralization"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,8 +16,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>New Zealand</td></tr>
   <tr><th>Website</th><td><a href="https://www.aspiringmaterials.com/" target="_blank" rel="noopener">https://www.aspiringmaterials.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspiring-materials/" target="_blank" rel="noopener">aspiring-materials — 2,119 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~13 (0% YoY)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Aspiring Materials is a Christchurch, New Zealand cleantech company that process
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

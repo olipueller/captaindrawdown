@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces biochar via Kontiki-kiln pyrolysis of bamboo offcuts in central Thailand, applied to rice paddies and bamboo groves, with Planboo providing digital MRV and credit brokerage."
 url: "/directory/wongphai-coltd/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Website</th><td><a href="https://www.wongphai.com/" target="_blank" rel="noopener">https://www.wongphai.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wongphai/" target="_blank" rel="noopener">wongphai — 647 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -22,9 +24,13 @@ liveliness: "🟡 Moderate"
 
 Wongphai Co., Ltd. is a community-driven initiative in rural Thailand that promotes bamboo cultivation and utilisation, converting bamboo offcuts that were traditionally burned into biochar. Founded in 2019, the company operates in Prachin Buri and Ratchaburi, partners with Planboo for MRV and credit brokerage, and received a Sylvera AA–BBB Estimated Rating in September 2025. The project targets roughly 32,000 tCO₂e over 5 years and has cumulatively removed over 6,000 tonnes of CO2.
 
+![Wongphai Co.,Ltd website](/screenshots/wongphai-coltd.png)
+
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

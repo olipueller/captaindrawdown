@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://atlantico2.com/" target="_blank" rel="noopener">https://atlantico2.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atlantico2/" target="_blank" rel="noopener">atlantico2 — 73 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
-  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ AtlantiCO2 is a Brazilian carbon removal startup that has built in-house pyrolys
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.atlantico2.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.atlantico2.com/))

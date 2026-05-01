@@ -30,6 +30,7 @@ Mālama Labs is a Hawaii-based carbon removal startup founded in 2024 that produ
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.malamalabs.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.malamalabs.com/))

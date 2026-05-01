@@ -27,6 +27,7 @@ MicroCHAR is a microgranular biochar-based soil conditioner/fertilizer developed
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.microchar.eu/en/microchar-en/))

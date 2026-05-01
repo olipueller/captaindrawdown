@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carboneers.earth/" target="_blank" rel="noopener">https://www.carboneers.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ipcita/" target="_blank" rel="noopener">ipcita — 3,696 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~19 (+171% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+171% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

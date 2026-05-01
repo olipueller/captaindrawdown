@@ -29,6 +29,7 @@ GreenBoost is an Italian consultancy offering carbon removal project due diligen
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.greenboost.it/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.greenboost.it/ ([source](https://www.cdr.fyi/marketplace/greenboost))

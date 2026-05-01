@@ -30,6 +30,7 @@ Energie 360° AG is a Zurich-based energy utility, 96% owned by the City of Zuri
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.energie360.ch/de/leistungen/co2-entfernung/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.bioenergie-frauenfeld.ch/))

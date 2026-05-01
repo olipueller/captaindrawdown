@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon Yards stores woodchips from certified forests in engineered aboveground chambers with halite preservatives issuing Puro Standard CORCs; also provides technical consulting on"
 url: "/directory/ecological-carbon-offset-partners/"
 pathway: "Biomass Burial"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.epcarbon.com/" target="_blank" rel="noopener">https://www.epcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecopartners-carbon/" target="_blank" rel="noopener">ecopartners-carbon — 2,925 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~19</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project d
 
 ## History
 
+- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

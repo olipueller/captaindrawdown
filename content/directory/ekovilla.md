@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.ekovilla.com" target="_blank" rel="noopener">https://www.ekovilla.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ekovilla-oy/" target="_blank" rel="noopener">ekovilla-oy — 570 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><th>Employees</th><td>~20 (+5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

@@ -5,7 +5,7 @@ type: "directory"
 description: "Amine/solvent-based post-combustion carbon capture retrofit on the CopenHill waste-to-energy plant, capturing biogenic CO2 from combustion of organic waste fractions for geological storage."
 url: "/directory/arc/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,9 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://a-r-c.dk/" target="_blank" rel="noopener">https://a-r-c.dk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/amagerressourcecenter/" target="_blank" rel="noopener">amagerressourcecenter — 6,171 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
-  <tr><th>Employees</th><td>~268 (+5% YoY)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +27,7 @@ ARC (Amager Resource Center) is a Danish inter-municipal waste management compan
 
 ## History
 
+- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://a-r-c.dk/klima-og-miljo/co2-fangst/arc-og-carbon-capture/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))

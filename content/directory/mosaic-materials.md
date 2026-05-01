@@ -30,6 +30,7 @@ Mosaic Materials is a direct air capture technology developer based in Alameda, 
 
 ## History
 
+- **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://www.bakerhughes.com/company/news/baker-hughes-acquires-mosaic-materials-advance-nextgeneration-carbon-dioxide-capture))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://mosaicmaterials.com/))

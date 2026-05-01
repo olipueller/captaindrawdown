@@ -28,6 +28,7 @@ CrbnFix is an India-based climate-tech company that produces biochar and bio-car
 
 ## History
 
+- **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://crbnfix.com/services/))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate

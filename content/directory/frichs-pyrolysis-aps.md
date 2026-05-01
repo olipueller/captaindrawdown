@@ -30,6 +30,7 @@ Frichs Pyrolysis ApS is a Danish development company based in Horsens that build
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energywatch.com/EnergyNews/Utilities/article18369276.ece))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://frichs-pyrolysis.com/))

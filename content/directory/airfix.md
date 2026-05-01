@@ -28,6 +28,7 @@ Airfix is a Swiss subsidiary of climate consultancy South Pole, backed by the Mi
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.airfixcarbon.com/about-airfix/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

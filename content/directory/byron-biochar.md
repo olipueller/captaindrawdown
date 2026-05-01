@@ -28,6 +28,7 @@ Byron Biochar is a small Australian social enterprise founded and operated by ho
 
 ## History
 
+- **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.byronbiochar.com.au/about-us/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://byronbiochar.com.au/))
