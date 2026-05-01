@@ -46,6 +46,18 @@ Same idea, but each dot is one CDR pathway. X = number of pure-play companies pu
 
 ![Pathway scatter](/charts/history-pathway-scatter.png)
 
+## Industry-wide FTE growth — when did we hire?
+
+Each dot is one pure-play CDR company: founding year on the X-axis, headcount (log scale) on the Y-axis. The shaded background is a 2D-density underlay — it shows where the crowd of small/young pure-plays sits and where the rare older, larger outliers (Climeworks, etc.) land.
+
+![FTE growth](/charts/history-fte-growth.png)
+
+## Pathway health — share of companies by liveliness tier
+
+Each row is one CDR pathway. Cells = % of pure-play companies in that pathway falling into each liveliness tier (Active / Moderate / Suspect / Likely Dead). Liveliness is a composite signal — recent hiring activity, homepage liveness, news mentions — refreshed monthly.
+
+![Liveliness by pathway](/charts/directory-liveliness-by-pathway.png)
+
 ---
 
 > Data sources: Coresignal LinkedIn employee counts, WHOIS domain creation dates, OpenAlex paper search, and the [CDR Company Directory](/directory/). If you spot an error, ping us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) or [X](https://x.com/CaptainDrawdown).
