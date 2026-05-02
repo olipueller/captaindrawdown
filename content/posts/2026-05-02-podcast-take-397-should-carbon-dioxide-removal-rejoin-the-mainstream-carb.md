@@ -2,7 +2,7 @@
 title: "Take: 397: Should Carbon Dioxide Removal Rejoin the Mainstream Carbon Market?—w/ Martin Freimüller of Octavia Carbon"
 date: 2026-05-02T10:00:00+00:00
 slug: "podcast-take-397-should-carbon-dioxide-removal-rejoin-the-mainstream-carb"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

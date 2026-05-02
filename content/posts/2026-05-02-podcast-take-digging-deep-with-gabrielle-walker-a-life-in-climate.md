@@ -2,7 +2,7 @@
 title: "Take: DIGGING DEEP with Gabrielle Walker: A Life in Climate"
 date: 2026-05-02T10:00:00+00:00
 slug: "podcast-take-digging-deep-with-gabrielle-walker-a-life-in-climate"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
