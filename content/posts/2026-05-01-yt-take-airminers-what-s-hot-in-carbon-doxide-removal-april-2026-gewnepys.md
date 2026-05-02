@@ -1,13 +1,13 @@
 ---
 title: "Take: AirMiners: What's Hot in Carbon Doxide Removal, April 2026"
 date: 2026-05-01T10:00:00+00:00
-slug: "yt-take-airminers-what-s-hot-in-carbon-doxide-removal-april-2026-gEWnepyS"
+slug: "yt-take-airminers-what-s-hot-in-carbon-doxide-removal-april-2026-gewnepys"
 draft: false
 tags: ["cdr", "youtube-take", "airminers"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"
 cover:
-  image: "/images/posts/yt-take-airminers-what-s-hot-in-carbon-doxide-removal-april-2026-gEWnepyS.jpg"
+  image: "/images/posts/yt-take-airminers-what-s-hot-in-carbon-doxide-removal-april-2026-gewnepys.jpg"
   alt: "YouTube take: AirMiners: What's Hot in Carbon Doxide Removal, April 2026"
   hidden: false
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Take: The Future of Marine CDR: Scaling Ocean Alkalinity Enhancement with Planetary"
 date: 2026-05-01T10:00:00+00:00
-slug: "yt-take-the-future-of-marine-cdr-scaling-ocean-alkalinity-enhancemen-Qpq2v2HR"
+slug: "yt-take-the-future-of-marine-cdr-scaling-ocean-alkalinity-enhancemen-qpq2v2hr"
 draft: false
 tags: ["cdr", "youtube-take", "nature-tech-collective"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"
 cover:
-  image: "/images/posts/yt-take-the-future-of-marine-cdr-scaling-ocean-alkalinity-enhancemen-Qpq2v2HR.jpg"
+  image: "/images/posts/yt-take-the-future-of-marine-cdr-scaling-ocean-alkalinity-enhancemen-qpq2v2hr.jpg"
   alt: "YouTube take: The Future of Marine CDR: Scaling Ocean Alkalinity Enhancement with Planetary"
   hidden: false
 ---

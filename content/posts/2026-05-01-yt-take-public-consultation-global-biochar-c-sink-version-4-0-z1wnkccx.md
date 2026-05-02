@@ -1,13 +1,13 @@
 ---
 title: "Take: Public Consultation – Global Biochar C-Sink (Version 4.0)"
 date: 2026-05-01T10:00:00+00:00
-slug: "yt-take-public-consultation-global-biochar-c-sink-version-4-0-z1wNkCCx"
+slug: "yt-take-public-consultation-global-biochar-c-sink-version-4-0-z1wnkccx"
 draft: false
 tags: ["cdr", "youtube-take", "carbon-standards-international-ag"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"
 cover:
-  image: "/images/posts/yt-take-public-consultation-global-biochar-c-sink-version-4-0-z1wNkCCx.jpg"
+  image: "/images/posts/yt-take-public-consultation-global-biochar-c-sink-version-4-0-z1wnkccx.jpg"
   alt: "YouTube take: Public Consultation – Global Biochar C-Sink (Version 4.0)"
   hidden: false
 ---

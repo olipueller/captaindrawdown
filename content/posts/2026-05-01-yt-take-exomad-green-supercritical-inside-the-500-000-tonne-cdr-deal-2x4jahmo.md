@@ -1,13 +1,13 @@
 ---
 title: "Take: Exomad Green × Supercritical: Inside the 500,000-Tonne CDR Deal and the Maturing Carbon Market"
 date: 2026-05-01T10:00:00+00:00
-slug: "yt-take-exomad-green-supercritical-inside-the-500-000-tonne-cdr-deal-2x4jaHMO"
+slug: "yt-take-exomad-green-supercritical-inside-the-500-000-tonne-cdr-deal-2x4jahmo"
 draft: false
 tags: ["cdr", "youtube-take", "exomad-green"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"
 cover:
-  image: "/images/posts/yt-take-exomad-green-supercritical-inside-the-500-000-tonne-cdr-deal-2x4jaHMO.jpg"
+  image: "/images/posts/yt-take-exomad-green-supercritical-inside-the-500-000-tonne-cdr-deal-2x4jahmo.jpg"
   alt: "YouTube take: Exomad Green × Supercritical: Inside the 500,000-Tonne CDR Deal and the Maturing"
   hidden: false
 ---
