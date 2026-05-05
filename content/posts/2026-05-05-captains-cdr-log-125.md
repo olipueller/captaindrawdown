@@ -19,31 +19,31 @@ A Stanford-led paper in Nature Communications Sustainability dropped this week a
 
 > "Wind and solar cut emissions. DAC removes CO2 already in the air. They are not substitutes. We need both: rapid renewables buildout plus removal of legacy CO2."
 
-- Kevin Lee Caster (@kevinleecaster.bsky.social on Bluesky)
+- Kevin Lee Caster ([@kevinleecaster.bsky.social on Bluesky](https://bsky.app/profile/kevinleecaster.bsky.social))
 
 Caster's objection is the cleanest version of the methodological pushback: the paper compares dollars-per-ton-avoided to dollars-per-ton-removed as if a single budget chooses between them. The carbon budget doesn't. It demands avoidance now and removal of legacy CO2 later, and pricing them head-to-head treats two obligations as one menu.
 
 > "Check out our new paper led by Linn J. Hoffmann and Lennart Bach on monitoring, reporting, and verification of marine carbon dioxide removal: exploring scientific consensus and divergence."
 
-- Jean-Pierre Gattuso (@jpgattuso.bsky.social on Bluesky)
+- Jean-Pierre Gattuso ([@jpgattuso.bsky.social on Bluesky](https://bsky.app/profile/jpgattuso.bsky.social))
 
 Gattuso's [marine CDR verification paper](https://bsky.app/profile/jpgattuso.bsky.social/post/3mkz7quf4j222) sharpens a sub-question the Stanford framing skips. Even if you grant removal a line in the budget, the measurement, reporting, and verification (MRV) layer for ocean pathways isn't defensible enough yet to price confidently against anything. A ton you can't verify isn't a ton.
 
 > "Both solar geoengineering and sharp reductions of super pollutants like methane are described as emergency brakes. Neither is a complete solution if CO2 emissions continue unabated, but one is a LOT less risky."
 
-- Jessica McKenzie (@jessimckenzi.bsky.social on Bluesky), citing the Bulletin's [emergency brakes piece](https://thebulletin.org/2026/05/emergency-brakes-how-to-limit-temperatures-long-before-the-last-resort-of-geoengineering/)
+- Jessica McKenzie ([@jessimckenzi.bsky.social on Bluesky](https://bsky.app/profile/jessimckenzi.bsky.social)), citing the Bulletin's [emergency brakes piece](https://thebulletin.org/2026/05/emergency-brakes-how-to-limit-temperatures-long-before-the-last-resort-of-geoengineering/)
 
 McKenzie reframes the triage. The IEA's [2025 methane tracker](https://iea.li/4eZsB5E) says 200 bcm of natural gas is wastefully vented annually. Those tons are cheap, fast, and unspent. Comparing DAC to renewables ignores that super-pollutant cuts sit upstream of both.
 
 > "At >$0.80/l SoH markup, 34.2 MJ/l, and 0.07t CO2/Gj this morning's equivalent CO2 price is … drumroll… ~$340/t CO2e 🤣"
 
-- Chris Bataille (@chrisbataille.bsky.social on Bluesky)
+- Chris Bataille ([@chrisbataille.bsky.social on Bluesky](https://bsky.app/profile/chrisbataille.bsky.social))
 
 Bataille's sustainable aviation fuel math punctures the assumption that avoidance is uniformly cheap. Markets are already paying DAC-adjacent prices to avoid one ton in aviation. The Stanford paper's clean cost separation between "cheap avoidance" and "expensive removal" doesn't survive contact with sectoral reality.
 
 > "The idea that removing nearly a trillion tons of atmospheric CO2 by 2100 is plausible, but a forcing that gets us to 4C of heating by 2100 is not: this is a symptom of some very, very deep bias."
 
-- Doctor Vive (@doctorvive.bsky.social on Bluesky)
+- Doctor Vive ([@doctorvive.bsky.social on Bluesky](https://bsky.app/profile/doctorvive.bsky.social))
 
 Vive cuts deepest. Opportunity-cost math assumes the modeled CDR actually arrives. If it doesn't, every early dollar that proved a pathway, or killed a bad one, was a hedge against scenario failure. Our [DAC scaling primer](https://www.captaindrawdown.com/posts/how-can-direct-air-capture-scale-to-deliver-real-carbon-remo/) walks through why that proving cost is real and non-substitutable.
 
@@ -52,7 +52,12 @@ The chorus collectively says the Stanford paper asked a coherent question with t
 
 ## Citations
 
-1. [Direct air capture has substantial health and climate opportunity costs](https://www.nature.com/articles/s44458-026-00068-0)
-2. [marine CDR verification paper](https://bsky.app/profile/jpgattuso.bsky.social/post/3mkz7quf4j222)
-3. [emergency brakes piece](https://thebulletin.org/2026/05/emergency-brakes-how-to-limit-temperatures-long-before-the-last-resort-of-geoengineering/)
-4. [2025 methane tracker](https://iea.li/4eZsB5E)
+1. **Nature** — [Direct air capture has substantial health and climate opportunity costs](https://www.nature.com/articles/s44458-026-00068-0) — *research paper*
+2. **Bluesky** — [@kevinleecaster.bsky.social on Bluesky](https://bsky.app/profile/kevinleecaster.bsky.social) — *Bluesky profile*
+3. **Bluesky** — [@jpgattuso.bsky.social on Bluesky](https://bsky.app/profile/jpgattuso.bsky.social) — *Bluesky profile*
+4. **Bluesky** — [marine CDR verification paper](https://bsky.app/profile/jpgattuso.bsky.social/post/3mkz7quf4j222) — *Bluesky post*
+5. **Bluesky** — [@jessimckenzi.bsky.social on Bluesky](https://bsky.app/profile/jessimckenzi.bsky.social) — *Bluesky profile*
+6. **Bulletin of the Atomic Scientists** — [emergency brakes piece](https://thebulletin.org/2026/05/emergency-brakes-how-to-limit-temperatures-long-before-the-last-resort-of-geoengineering/)
+7. **IEA** — [2025 methane tracker](https://iea.li/4eZsB5E)
+8. **Bluesky** — [@chrisbataille.bsky.social on Bluesky](https://bsky.app/profile/chrisbataille.bsky.social) — *Bluesky profile*
+9. **Bluesky** — [@doctorvive.bsky.social on Bluesky](https://bsky.app/profile/doctorvive.bsky.social) — *Bluesky profile*
