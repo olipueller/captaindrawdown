@@ -12,9 +12,9 @@ cover:
   hidden: false
 ---
 
-This heatmap sorts every project in the Directory by its CDR pathway (rows) and its current liveliness band (columns: Active, Moderate, Suspect, Likely Dead). The cell shading shows what share of that pathway's project count sits in each band, so each row reads left to right as a health profile for one approach to carbon removal.
+This violin plot sorts every pure-play CDR company in the Directory by its pathway (columns) and its headcount (vertical axis, log scale from 1 to 100+). Each dot is one company, coloured by its current liveliness tier — Active, Moderate, Suspect, or Likely Dead. The grey shape behind each column is the size distribution: where it bulges, that's where most companies in that pathway sit.
 
-The value here is comparative. A raw project list tells you who exists; this view tells you where the attrition is concentrated. Pathways with fat right-side bands are churning through entrants faster than they are producing durable operators, while pathways with most weight on the left are either maturing or simply younger and not yet tested by time.
+The value here is comparative. A raw company list tells you who exists; this view tells you where the weight sits. Pathways with most dots stacked at the bottom are dominated by sub-10-employee firms — many small entrants, few that have grown. Pathways with dots reaching up the column have produced operators that scaled past the founder-and-a-few-engineers phase. Colour (not vertical position) is what tells you the health story: red dots high up the column mean a sizeable operator went quiet; red dots on the floor are the long tail churning as it always has.
 
 Read it as a snapshot of signal strength, not a verdict on the science. "Likely Dead" means we have stopped seeing credible activity, not that the underlying method failed. Older pathways accumulate more suspect entries mechanically, so do not confuse age with weakness.
 
