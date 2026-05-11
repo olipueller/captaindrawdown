@@ -14,9 +14,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.appliedcarbon.com/" target="_blank" rel="noopener">https://www.appliedcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/applied-carbon/" target="_blank" rel="noopener">applied-carbon — 5,206 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~25 (-24% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,12 +26,22 @@ Applied Carbon (formerly Climate Robotics) is a Houston, Texas-based biochar com
 
 ![Applied Carbon website](/screenshots/applied-carbon.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2024-12-10 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/terra-141)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Puro.earth
 
 ## History
 
+- **2026-05-06** — news mention: Biochar’s triple win: Healthier soils, improved crops, and decarbonization - Cisco Blogs ([source](https://blogs.cisco.com/our-corporate-purpose/biochars-triple-win-healthier-soils-improved-crops-and-decarbonization))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/applied-carbon/__YdS4qB8Ilkbaz2XG3VBz8Oh0jockE4GUVDm6KQl0iSs))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

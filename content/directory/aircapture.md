@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.aircapture.com/" target="_blank" rel="noopener">https://www.aircapture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aircapture-llc/" target="_blank" rel="noopener">aircapture-llc — 6,109 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~50</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Aircapture, headquartered in Berkeley, CA, is a direct air capture company founded in 2019 that deploys modular DAC systems delivering atmospheric CO2 as a circular commodity for industrial and commercial customers. In 2025 it won the XPrize "Carbon Removal" prize and raised a $50M Series A led by the Larsen Lam Climate Change Foundation to scale its modular DAC systems serving food, beverage, industrial, and agricultural customers. In 2023 it partnered with 44.01 on Project Hajar in Oman, combining DAC with mineralization.
 
 ![Aircapture website](/screenshots/aircapture.png)
+
 
 ## Registry Memberships
 

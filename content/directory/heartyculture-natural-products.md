@@ -25,6 +25,7 @@ Heartyculture Natural Products LLP is an Indian wellness brand offering natural 
 ![Heartyculture Natural Products website](/screenshots/heartyculture-natural-products.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

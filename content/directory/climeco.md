@@ -28,6 +28,7 @@ ClimeCo is a US-based global sustainability and decarbonization solutions firm p
 ![ClimeCo website](/screenshots/climeco.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -27,6 +27,7 @@ Carbony is an Austria-based CDR project developer focused on Enhanced Rock Weath
 ![Carbony website](/screenshots/carbony.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.carbonbusinesscouncil.org/news/ewalliance-2025))

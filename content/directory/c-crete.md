@@ -27,6 +27,7 @@ C-Crete Technologies is a California-based materials science company that produc
 ![C-Crete website](/screenshots/c-crete.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))

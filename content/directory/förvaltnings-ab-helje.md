@@ -26,6 +26,7 @@ Essunga Plantskola (operated by Förvaltnings AB Helje) is a Swedish family-owne
 ![Förvaltnings AB Helje website](/screenshots/förvaltnings-ab-helje.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://global-c-registry.org/project-view/1111))

@@ -27,6 +27,7 @@ CarboCap is an unfunded company based in Delhi, India, founded in 2023 by Mayur 
 ![CarboCap website](/screenshots/carbocap.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

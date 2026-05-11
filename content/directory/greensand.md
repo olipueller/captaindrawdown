@@ -27,6 +27,7 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 ![greenSand website](/screenshots/greensand.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://greensand.com/en/blogs/news/greensand-japan))

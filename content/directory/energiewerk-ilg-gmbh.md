@@ -26,6 +26,7 @@ EnergieWerk Ilg GmbH is a family-owned regional energy utility in Dornbirn, Vora
 
 ![EnergieWerk Ilg GmbH website](/screenshots/energiewerk-ilg-gmbh.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth

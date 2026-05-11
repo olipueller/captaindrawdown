@@ -26,6 +26,7 @@ Carbon Impact is a French carbon removal project developer, co-founded by energy
 ![Carbon Impact website](/screenshots/carbon-impact.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

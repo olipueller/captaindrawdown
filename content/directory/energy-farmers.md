@@ -27,6 +27,7 @@ Energy Farmers Australia is a Western Australia-based biochar and bioenergy proj
 ![Energy Farmers website](/screenshots/energy-farmers.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

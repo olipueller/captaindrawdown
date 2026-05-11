@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonfields.earth/" target="_blank" rel="noopener">https://www.carbonfields.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-fields/" target="_blank" rel="noopener">carbon-fields — 158 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Carbon Fields is a Madrid-based biochar company that transforms biomass waste into biochar and sustainable bioproducts for agriculture and industry. The company participates in the EU-funded FENIX Project, producing biochar-digestate mixtures at TerraWatt SAS that are being field-tested by Universidad de Granada, INRAE, and the Soil & Water Resources Institute ELGO-DIMITRA. Led by CEO Eric Suñol, the company has ~7 employees and focuses on carbon-negative solutions.
 
 ![CarbonFields website](/screenshots/carbonfields.png)
+
 
 
 ## History

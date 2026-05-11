@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://e-quester.com/" target="_blank" rel="noopener">https://e-quester.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/e-quester/" target="_blank" rel="noopener">e-quester — 179 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~1 (-100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟠 Suspect"
 E-quester is a University of Toronto spinout founded in 2021 that is developing a liquid-solvent direct air capture system with a novel electrochemical regeneration step to liberate captured CO2, powered by renewable electricity. The team won a US$250,000 XPRIZE Carbon Removal Student Award in 2021 and placed in the XPRIZE Top 60 Milestone round in 2022. Public activity has been limited since then, though the company was still featured in U of T's UTEST early-stage startup program as recently as 2025.
 
 ![E-quester website](/screenshots/e-quester.png)
+
 
 
 ## History

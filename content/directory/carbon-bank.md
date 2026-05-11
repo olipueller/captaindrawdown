@@ -26,6 +26,7 @@ Carbon Bank is a UK CDR project developer based in Stroud, Gloucestershire and p
 ![Carbon Bank website](/screenshots/carbon-bank.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

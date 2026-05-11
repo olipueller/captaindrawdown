@@ -14,10 +14,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.blackbullbiochar.com/" target="_blank" rel="noopener">https://www.blackbullbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/black-bull-biochar-ltd/" target="_blank" rel="noopener">black-bull-biochar-ltd — 2,940 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~9</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 Black Bull Biochar (BBB) is a UK-based start-up specialising in biochar for sustainable agriculture and carbon removal, scaling operations across the North West of England and accelerating entry into northern Europe, including Denmark. The company operates PYREG and BioMaCon pyrolysis units to convert forestry co-products into biochar applied via dairy manure management. In December 2025, BBB raised £4 million in late seed funding co-led by TSP Ventures and the GMCA Investment Fund, with the investment funding new production sites and relocation of headquarters from London to Manchester.
 
 ![Black Bull Biochar website](/screenshots/black-bull-biochar.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 2 projects · Biochar, 2022 · since 2024-01-01
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

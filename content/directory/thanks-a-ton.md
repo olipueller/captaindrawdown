@@ -28,6 +28,7 @@ Thanks a Ton is a B2C/B2B platform that pairs custom digital greeting cards with
 ![Thanks-A-Ton website](/screenshots/thanks-a-ton.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

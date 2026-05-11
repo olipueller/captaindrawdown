@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonremovalalliance.org/" target="_blank" rel="noopener">https://www.carbonremovalalliance.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-alliance/" target="_blank" rel="noopener">carbon-removal-alliance — 3,242 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -27,8 +27,11 @@ Carbon Removal Alliance (CRA) is a US-based policy advocacy coalition founded in
 ![Carbon Removal Alliance website](/screenshots/carbon-removal-alliance.png)
 
 
+
 ## History
 
+- **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
+- **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age.  Deal sizes are climbing into six-fi ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonremovalalliance.org/))

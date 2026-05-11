@@ -27,6 +27,7 @@ Silver Bullet Biochar is a Singapore-based biochar venture with a minimal public
 ![Silver Bullet Biochar website](/screenshots/silver-bullet-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

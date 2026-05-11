@@ -28,6 +28,7 @@ Vault 44.01 is a Calgary- and Denver-based CCS project developer, backed by Grey
 ![Vault 44.01 website](/screenshots/vault-4401.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/vault-44.01/__v_IIcZ32wXr6Lu8Flc7iUwD4l3M77DTfrnVKCvyMGZo))

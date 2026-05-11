@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://capturacorp.com/" target="_blank" rel="noopener">https://capturacorp.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capturaco2/" target="_blank" rel="noopener">capturaco2 — 15,800 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~82 (-4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -27,8 +27,11 @@ Captura is a Pasadena, California-based Direct Ocean Capture company founded at 
 ![Captura website](/screenshots/captura.png)
 
 
+
 ## History
 
+- **2026-05-11** — news mention: 🧵 A $50M ocean startup raised serious money, built real technology, and delivered on every contract  ([source](https://x.com/MickH_W/status/2053804970387075432))
+- **2026-05-04** — news mention: Captura Wins Supplier Deal For eSAF Plant In France Using Ocean-Captured CO2 ([source](https://carbonherald.com/captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2/?utm_source=rss&utm_medium=rss&utm_campaign=captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://capturacorp.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.ceec.net.cn/" target="_blank" rel="noopener">https://www.ceec.net.cn/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/china-energy-engineering-group-co-ltd-/" target="_blank" rel="noopener">china-energy-engineering-group-co-ltd- — 43,284 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 China Energy Engineering Corporation (CEEC) is the developer of "CarbonBox", described as Asia's largest CO2 direct air capture device by capacity, which has completed reliability testing. CEEC itself is a large Chinese state-owned power and infrastructure EPC conglomerate; CarbonBox was co-developed by a CEEC subsidiary and Shanghai Jiao Tong University and can capture CO2 from air or from emission sources and output different concentrations of CO2. DAC is a small R&D side activity within a multi-billion-dollar engineering group, not the company's core business.
 
 ![China Energy Engineering Corporation website](/screenshots/china-energy-engineering-corporation.png)
+
 
 
 ## History

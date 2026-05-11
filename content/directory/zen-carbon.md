@@ -28,6 +28,7 @@ ZEN Carbon is a Nairobi-based startup developing reactor-driven CO₂ mineraliza
 ![ZEN Carbon website](/screenshots/zen-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))

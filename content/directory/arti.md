@@ -27,6 +27,7 @@ ARTi (Advanced Renewable Technology International) is a U.S.-based biochar compa
 ![ARTi website](/screenshots/arti.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

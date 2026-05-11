@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://harvestonelcp.com/fccp-blue-flint-19634" target="_blank" rel="noopener">https://harvestonelcp.com/fccp-blue-flint-19634</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/harvestonelcp/" target="_blank" rel="noopener">harvestonelcp — 1,388 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~125 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Blue Flint Ethanol is a corn ethanol biorefinery near Underwood, North Dakota, owned by Harvestone Low Carbon Partners, that added on-site carbon capture and sequestration to its existing fermentation operations. The facility began CO2 injection in October 2023 and was the first U.S. CCS project to operate under the Inflation Reduction Act, capturing roughly 600 metric tons of biogenic CO2 per day. Ethanol production remains the company's primary business, with CCS serving as an adjacent decarbonization add-on.
 
 ![Blue Flint Ethanol website](/screenshots/blue-flint-ethanol.png)
+
 
 
 ## History

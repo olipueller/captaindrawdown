@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://returncarbon.nl/" target="_blank" rel="noopener">https://returncarbon.nl/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/returncarbon/" target="_blank" rel="noopener">returncarbon — 641 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Return Carbon B.V. is a Dutch CDR project developer that integrates capture technology, CO2 transport and offshore geological storage to build DACCS, BECCS and mineralization projects. It partners with Skytree (DAC), Carbon8 (mineralization), CapeOmega (storage) and emitters such as RWE, and is involved in the NoordKaap cross-border CO2 shipping/storage project as well as large DAC developments in Texas with EDF Renewables and Greenalia.
 
 ![Return Carbon website](/screenshots/return-carbon.png)
+
 
 
 ## History

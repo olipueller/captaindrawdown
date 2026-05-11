@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.stockholmexergi.se/en/" target="_blank" rel="noopener">https://www.stockholmexergi.se/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stockholm-exergi/" target="_blank" rel="noopener">stockholm-exergi — 19,652 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~826 (+12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Stockholm Exergi is the municipal energy utility for the Stockholm region, providing district heating, electricity, cooling and waste services to over 800,000 residents via a large district-heating network. It is building Beccs Stockholm at its Värtaverket biomass CHP plant — one of the world's first large-scale BECCS facilities — with FID taken in March 2025, construction underway, and 800,000 t CO2/yr removal targeted from 2028, backed by Microsoft and Frontier offtakes, an EU Innovation Fund grant, SEK 20 billion in Swedish state support, and a €260 million EIB loan.
 
 ![Stockholm Exergi website](/screenshots/stockholm-exergi.png)
+
 
 
 ## History

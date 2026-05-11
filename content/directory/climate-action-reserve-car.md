@@ -28,6 +28,7 @@ Climate Action Reserve (CAR) is a Los Angeles-based environmental nonprofit carb
 ![Climate Action Reserve (CAR) website](/screenshots/climate-action-reserve-car.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

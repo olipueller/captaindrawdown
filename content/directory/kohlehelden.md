@@ -24,6 +24,7 @@ KohleHelden is a family-run biochar producer in Zierenberg (North Hesse, Germany
 ![KohleHelden website](/screenshots/kohlehelden.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

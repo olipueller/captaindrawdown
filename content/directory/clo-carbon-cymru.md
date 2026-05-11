@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://clocarbon.cymru/" target="_blank" rel="noopener">https://clocarbon.cymru/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clo-carbon-cymru/" target="_blank" rel="noopener">clo-carbon-cymru — 483 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟡 Moderate"
 Clo Carbon Cymru Ltd is a Welsh CDR startup (incorporated 2021, based in Llandeilo) developing a farmer-facing carbon removal framework called CLOCs that combines agroforestry biomass, biochar pyrolysis, and deep soil carbon sequestration as an alternative to the Welsh Sustainable Farming Scheme. The company has developed proprietary IP including a Thermal Aerobic Carbon Production (TACP) process and issues certificates backed by laboratory-verified biochar with chain-of-custody tracking.
 
 ![Clo Carbon Cymru website](/screenshots/clo-carbon-cymru.png)
+
 
 
 ## History

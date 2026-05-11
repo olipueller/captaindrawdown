@@ -28,6 +28,7 @@ The European Biochar Industry Consortium (EBI), now operating as Biochar Europe,
 ![European Biochar Industry Consortium website](/screenshots/european-biochar-industry-consortium.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

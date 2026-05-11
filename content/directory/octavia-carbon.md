@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.octaviacarbon.com/" target="_blank" rel="noopener">https://www.octaviacarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/octavia-carbon/" target="_blank" rel="noopener">octavia-carbon — 15,734 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~67 (+18% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -28,6 +28,7 @@ liveliness: "🟢 Active"
 Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by Martin Freimüller and Duncan Kariuki that designs and operates solid-sorbent DAC machines powered by Kenyan geothermal energy. Its Project Hummingbird pilot in the Rift Valley pairs DAC with in-situ basalt mineralization via storage partner Cella, targeting roughly 1,500 tCO2/yr gross (~1,000 tCO2/yr net), with a larger ~10,000 tCO2/yr follow-on planned.
 
 ![Octavia Carbon website](/screenshots/octavia-carbon.png)
+
 
 ## Registry Memberships
 

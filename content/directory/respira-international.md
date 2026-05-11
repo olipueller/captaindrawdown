@@ -28,6 +28,7 @@ Respira International is a London-based impact-driven carbon finance business th
 ![Respira International website](/screenshots/respira-international.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

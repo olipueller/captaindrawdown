@@ -25,6 +25,7 @@ Sosna Metelyk is an unfunded American-Ukrainian early-stage climate hardware sta
 ![Sosna Metelyk website](/screenshots/sosna-metelyk.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

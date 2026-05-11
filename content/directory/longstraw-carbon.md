@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://longstraw.earth/" target="_blank" rel="noopener">https://longstraw.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/longstraw-carbon/" target="_blank" rel="noopener">longstraw-carbon — 1,850 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Longstraw Carbon is a Delhi, India-based biochar startup founded in 2024 by Utkarsh Raj, Anwita Mukherjee and Vineet Agarwal. The team has been on the ground setting up biochar production equipment across projects in Kalahandi and Sambalpur. They are targeting high-integrity CDR standards such as Isometric and are members of the Carbon Removal India Alliance.
 
 ![Longstraw Carbon website](/screenshots/longstraw-carbon.png)
+
 
 
 ## History

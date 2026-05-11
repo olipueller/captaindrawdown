@@ -17,6 +17,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2022-03-15)</small></td></tr>
 </table>
 
 ## About
@@ -24,6 +25,15 @@ liveliness: "🔴 Likely Dead"
 Bella Biochar Corporation is an Ontario-based biochar producer that converts landfill-diverted waste wood into certified organic biochar using an air-curtain thermal conversion process. The company is Puro.earth CDR-certified and markets biochar for soil amendment and carbon removal credits, with a small team of ~3 employees.
 
 ![Bella Biochar Corp website](/screenshots/bella-biochar-corp.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2021-07-01
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

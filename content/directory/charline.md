@@ -26,6 +26,7 @@ CharLine GmbH is an Austrian biochar-products subsidiary of composting company S
 ![CharLine website](/screenshots/charline.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))

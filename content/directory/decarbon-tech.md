@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.de-carbon.com.cn/en" target="_blank" rel="noopener">https://www.de-carbon.com.cn/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbon-tech/" target="_blank" rel="noopener">decarbon-tech — 49 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟡 Moderate"
 DeCarbon Tech is a climate governance company focused on new-generation CO2 capture technology, founded by professors from Southern University of Science and Technology and industry experts, developing carbon capture and utilization technologies for both ambient air and industrial sources applicable to power generation, chemicals, steel, and cement. The Shenzhen-based startup commercializes SUSTech research on solid amine sorbents and runs an AI platform (aidecarbon.org) for carbon-capture materials development. Small team (~2 employees on LinkedIn) with no public registry issuances or delivery track record.
 
 ![DeCarbon Tech website](/screenshots/decarbon-tech.png)
+
 
 
 ## History

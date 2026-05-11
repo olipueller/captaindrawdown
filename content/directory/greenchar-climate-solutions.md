@@ -27,6 +27,7 @@ GreenChar Climate Solutions is a Singapore-based startup that serves as a link b
 ![GreenChar Climate Solutions website](/screenshots/greenchar-climate-solutions.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

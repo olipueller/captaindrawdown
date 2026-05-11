@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://recoal.net/" target="_blank" rel="noopener">https://recoal.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recoal-net/" target="_blank" rel="noopener">recoal-net — 2,106 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Recoal AG is a Zurich-based CDR startup founded in 2023 that converts wet-waste biomass into hydrochar via hydrothermal carbonization (HTC) and stores the resulting carbon-rich material in underground geological formations in Switzerland for permanent sequestration. Its methodology was validated under the Rainbow Standard (formerly Riverse) in 2025, and it is planning a pilot plant for 2026 with support from the Migros Pioneer Fund and the City of Zurich's KlimUp program.
 
 ![Recoal website](/screenshots/recoal.png)
+
 
 
 ## History

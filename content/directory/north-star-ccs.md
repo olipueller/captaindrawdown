@@ -26,6 +26,7 @@ North Star Carbon Solutions LP is a dedicated BECCS project joint venture betwee
 ![North Star CCS website](/screenshots/north-star-ccs.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

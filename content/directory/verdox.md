@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://verdox.com/" target="_blank" rel="noopener">https://verdox.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verdox/" target="_blank" rel="noopener">verdox — 5,857 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~25 (+9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Founded in 2019 out of MIT, Verdox delivers electrochemical carbon capture technology achieving energy of capture as low as 400 kWh per ton of CO2 even for emissions as dilute as 1% CO2. A two-month trial at Hydro's Sunndal plant in Norway confirmed Verdox's ability to capture CO₂ from a 1% aluminum-smelter stream, with CEO Friedrich von Gottberg calling it a defining milestone in the company's scale-up. Verdox commissioned a pilot-scale unit in October 2025, plans customer pilots in 2026, a first demonstration unit in 2027, and commercial operation in 2029.
 
 ![Verdox website](/screenshots/verdox.png)
+
 
 
 ## History

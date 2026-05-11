@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.restord.earth/" target="_blank" rel="noopener">https://www.restord.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/restord-earth/" target="_blank" rel="noopener">restord-earth — 1,686 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Restord is a Cornwall-based UK biochar startup founded by Tom Previte that converts local forestry and agricultural waste into biochar via pyrolysis on a family farm near Liskeard. The company has delivered its first carbon removal credits (8.6 tonnes) as part of a 50-tonne pre-purchase agreement with architecture firm Bennetts Associates, and runs farm-scale trials in partnership with Cormac and the University of Plymouth.
 
 ![Restord website](/screenshots/restord.png)
+
 
 
 ## History

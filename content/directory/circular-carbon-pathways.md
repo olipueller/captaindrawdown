@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Zambia</td></tr>
   <tr><th>Website</th><td><a href="https://ccp.africa/" target="_blank" rel="noopener">https://ccp.africa/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ccpafrica/" target="_blank" rel="noopener">ccpafrica — 78 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟡 Moderate"
 Circular Carbon Pathways (CCP) is a Zambia-based early-stage biochar project developer producing biochar carbon removal (BCR) credits from agricultural residues. The company is a cohort member of the Carbon Removal Foundation's remove.global accelerator, which lists it as a "project developer and operator of vetted high-integrity biochar carbon removal projects." Public footprint remains minimal — tagline-only website, ~2 LinkedIn employees, no registry issuances yet.
 
 ![Circular Carbon Pathways website](/screenshots/circular-carbon-pathways.png)
+
 
 
 ## History

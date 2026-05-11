@@ -27,6 +27,7 @@ Planet Moja is a UK-based carbon credit portfolio curator and broker with a rese
 ![Planet Moja Limited website](/screenshots/planet-moja-limited.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

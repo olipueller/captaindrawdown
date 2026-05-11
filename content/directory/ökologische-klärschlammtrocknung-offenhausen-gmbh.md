@@ -27,6 +27,7 @@ liveliness: "🟡 Moderate"
 ![Ökologische Klärschlammtrocknung Offenhausen GmbH website](/screenshots/ökologische-klärschlammtrocknung-offenhausen-gmbh.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -22,6 +22,7 @@ liveliness: "🟡 Moderate"
 Tachibana International Ghana is a cocoa and ingredients trading company that runs a biochar production program using Kon-Tiki kilns to convert cacao pod husks into biochar for soil application and carbon credits. It became Ghana's first C-Sink Manager under the Global Artisan C-Sink Standard, sold its first 42 tCO2e of credits through Planboo in May 2024, and has expanded to multiple sites with the Assin Tachibana Union cooperative representing 1,700 cacao farmers. Biochar is an adjacent activity to their core cocoa trading business.
 
 
+
 ## History
 
 - **2026-05-01** — refresh: liveliness

@@ -24,6 +24,7 @@ Carbons Finland Oy is a micro-enterprise in Kouvola, Finland, founded in 2014, p
 
 ![Carbons Finland website](/screenshots/carbons-finland.png)
 
+
 ## Registry Memberships
 
 - Puro.earth

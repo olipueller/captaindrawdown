@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://arbor.co/" target="_blank" rel="noopener">https://arbor.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbor-energy-resources/" target="_blank" rel="noopener">arbor-energy-resources — 8,359 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~48 (+26% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Arbor is a US-based BECCS startup founded in 2022 that converts waste biomass into syngas, burns it with pure oxygen in an oxycombustor, and uses the resulting supercritical CO2 to drive a turbine—generating clean electricity while capturing over 99% of the CO2 for permanent underground storage. In July 2025 Arbor signed a $41M offtake with the Frontier coalition to deliver 116,000 tons of CDR between 2028-2030, anchoring construction of its first commercial-scale facility near Lake Charles, Louisiana.
 
 ![Arbor website](/screenshots/arbor.png)
+
 
 
 ## History

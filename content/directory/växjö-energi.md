@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.veab.se/" target="_blank" rel="noopener">https://www.veab.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vaxjo-energi-ab/" target="_blank" rel="noopener">vaxjo-energi-ab — 3,428 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~172 (+4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Växjö Energi AB (VEAB) is a Swedish municipal energy utility owned by Växjö municipality, providing district heating, district cooling, electricity, and (via subsidiary Wexnet) broadband. It operates the fully biomass-fueled Sandviksverket CHP plant and is developing a BECCS facility (the POSCLIMB project) with Sumitomo SHI FW using hot potassium carbonate capture technology, targeting ~200,000 t CO2/yr starting 2028 with storage in the North Sea.
 
 ![Växjö Energi website](/screenshots/växjö-energi.png)
+
 
 
 ## History

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonfuture.earth/" target="_blank" rel="noopener">https://www.carbonfuture.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonfuture/" target="_blank" rel="noopener">carbonfuture — 29,216 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+11% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -29,12 +29,17 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 
 ![Carbonfuture website](/screenshots/carbonfuture.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-08** — news mention: #carbonremoval #cdr #climateweekzurich #cwz2026 #netzero #sustainability | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458165340045230080/))
+- **2026-05-07** — news mention: #climateweekzurich #projectfinance #infrastructurefinance #blendedfinance #climatefinance #carbonmar ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457795796906905601/))
+- **2026-05-03** — news mention: Directory feature: cdr-shops.com lists every durable CDR provider that will actually sell you small  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkwvlan2ol2v))
+- **2026-05-03** — news mention: Directory feature: https://t.co/fG4sjJDt5e lists every durable CDR provider that will actually sell  ([source](https://x.com/CaptainDrawdown/status/2050878236851089732))
 - **2026-05-01** — news mention: Meet the Carbonfuture team at Climate Week Zurich 2026 | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455555282937532417/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

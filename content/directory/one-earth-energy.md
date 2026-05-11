@@ -26,6 +26,7 @@ One Earth Energy, LLC is a corn ethanol plant in Gibson City, Illinois, majority
 ![One Earth Energy website](/screenshots/one-earth-energy.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/illinois-rejects-carbon-pipeline-permit-for-one-earth-energy/))

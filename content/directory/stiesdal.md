@@ -26,6 +26,7 @@ Stiesdal SkyClean A/S is the biochar/pyrolysis subsidiary of Danish climate-tech
 ![Stiesdal website](/screenshots/stiesdal.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))

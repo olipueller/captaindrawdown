@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes waste pecan shells into biochar used as agricultural soil amendment, generating Puro.earth-certified CDR credits."
 url: "/directory/tierra-prieta/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,10 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Website</th><td><a href="https://www.tierraprieta.org/en" target="_blank" rel="noopener">https://www.tierraprieta.org/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tierra-prieta/" target="_blank" rel="noopener">tierra-prieta</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,12 +26,22 @@ Tierra Prieta (Biochar de Nogal SA de CV) is a Mexican biochar producer based in
 
 ![Tierra Prieta website](/screenshots/tierra-prieta.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2023-06-01
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - [Puro.earth](https://registry.puro.earth/)
 
 ## History
 
+- **2026-05-11** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://biologicalslatam.com/en/tierra-prieta/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biologicalslatam.com/en/tierra-prieta/))

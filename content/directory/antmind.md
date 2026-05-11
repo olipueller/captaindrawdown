@@ -28,6 +28,7 @@ AntMind is a Canadian startup developing a biomass gasification platform that co
 ![AntMind website](/screenshots/antmind.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

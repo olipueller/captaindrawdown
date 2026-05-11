@@ -27,6 +27,7 @@ Better Carbon B.V. is a Netherlands-based small biochar producer that creates bi
 ![Better Carbon BV website](/screenshots/better-carbon-bv.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

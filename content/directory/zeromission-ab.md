@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://zeromission.se/" target="_blank" rel="noopener">https://zeromission.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zeromission-ab/" target="_blank" rel="noopener">zeromission-ab — 3,774 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~23 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 ZeroMission AB is a Stockholm-based climate strategy consultancy and carbon credit reseller founded in 2006. The company helps businesses measure, reduce, and offset emissions, selling credits from nature-based projects (Plan Vivo afforestation, biochar) and offering climate accounting and advisory services. It is a broker/consultant within the carbon credit ecosystem rather than a CDR supplier.
 
 ![ZeroMission AB website](/screenshots/zeromission-ab.png)
+
 
 
 ## History

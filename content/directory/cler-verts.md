@@ -27,6 +27,7 @@ CLER VERTS is an organic waste valorization group established in Occitanie, Fran
 ![Cler-Verts website](/screenshots/cler-verts.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))

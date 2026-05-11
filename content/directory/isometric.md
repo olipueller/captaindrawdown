@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://isometric.com/" target="_blank" rel="noopener">https://isometric.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exponential-hq/" target="_blank" rel="noopener">exponential-hq — 20,708 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~179</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,12 +27,16 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ![Isometric website](/screenshots/isometric.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-07** — news mention: Welcoming Isometric and Cercarbono to OffsetsDB – CarbonPlan ([source](https://carbonplan.org/blog/offsetsdb-cercarbono-isometric))
+- **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
+- **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))
 - **2026-05-01** — news mention: Solving distributed biochar&#x27;s certification problem ([source](https://isometric.com/writing-articles/solving-distributed-biochars-certification-problem))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

@@ -28,6 +28,7 @@ Ecomerit Technologies is a Santa Barbara, California-based marine renewable ener
 ![Ecomerit Technologies website](/screenshots/ecomerit-technologies.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

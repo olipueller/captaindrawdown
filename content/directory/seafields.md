@@ -28,6 +28,7 @@ Seafields is a UK-based aquaculture carbon-removal company that intercepts, farm
 ![Seafields website](/screenshots/seafields.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))

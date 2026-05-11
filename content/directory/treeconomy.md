@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.treeconomy.co/" target="_blank" rel="noopener">https://www.treeconomy.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/treeconomyltd/" target="_blank" rel="noopener">treeconomyltd — 8,543 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~19 (-17% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Treeconomy is a London-based earth-tech company providing MRV and project-enablement services for nature-based carbon removal. It combines high-resolution satellite imagery, drone LiDAR, and machine learning to quantify and monitor forest carbon stocks, supports project developers from design to credit issuance, and operates the Sherwood platform/marketplace connecting corporate buyers with afforestation and rewilding removal credits.
 
 ![Treeconomy website](/screenshots/treeconomy.png)
+
 
 ## Registry Memberships
 

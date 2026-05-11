@@ -26,6 +26,7 @@ Tera (Tera Carbon) is a Kenyan climate-tech startup that converts sugarcane baga
 ![Tera website](/screenshots/tera.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

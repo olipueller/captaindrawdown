@@ -26,6 +26,7 @@ Carboliva is a Spanish company based in Osuna (Seville), led by Álvaro Espuny, 
 ![Carboliva website](/screenshots/carboliva.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))

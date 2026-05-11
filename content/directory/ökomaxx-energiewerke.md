@@ -25,6 +25,7 @@ liveliness: "🔴 Likely Dead"
 ![ÖkoMAXX Energiewerke website](/screenshots/ökomaxx-energiewerke.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

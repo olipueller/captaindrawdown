@@ -28,6 +28,7 @@ Great Carbon Valley (GCV) is a Kenyan project development venture and systems in
 ![Great Carbon Valley website](/screenshots/great-carbon-valley.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

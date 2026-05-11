@@ -25,6 +25,7 @@ Sanbra Foods Ghana is an agricultural services company providing soil testing, p
 ![Sanbra Foods website](/screenshots/sanbra-foods.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

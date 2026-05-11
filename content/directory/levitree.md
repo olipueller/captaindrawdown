@@ -27,6 +27,7 @@ Levitree is a California-based startup (founded 2021, Berkeley/San Rafael) that 
 ![Levitree website](/screenshots/levitree.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/levitree/__plZdKRJIcopt8QBpbShVpTfBjzz3g1ekNnqbdDxOys0))

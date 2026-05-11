@@ -26,6 +26,7 @@ CarboVerte GmbH is a trading company of biochar-based products located in Eibens
 ![CarboVerte website](/screenshots/carboverte.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

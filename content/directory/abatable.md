@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.abatable.com/" target="_blank" rel="noopener">https://www.abatable.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/abatable/" target="_blank" rel="noopener">abatable — 13,272 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~45 (+5% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Abatable is a London-based carbon intelligence and procurement platform for the voluntary carbon market, providing RFP/RFQ tooling, pricing benchmarks across 10,000+ projects, and advisory services to corporate buyers. It is not a physical CDR supplier; it sits in the ecosystem as a broker/marketplace/intelligence provider spanning the VCM including engineered removals. Abatable has supported more than 200 corporate buyers on their carbon credit journeys, sourcing over one billion tonnes of CO2 and transacting 55 million tonnes of high-quality carbon credits.
 
 ![Abatable website](/screenshots/abatable.png)
+
 
 ## Registry Memberships
 

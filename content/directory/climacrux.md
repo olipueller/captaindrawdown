@@ -27,6 +27,7 @@ Climacrux is a Swiss startup founded in 2020 that operates as a CDR reseller/bro
 ![Climacrux website](/screenshots/climacrux.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

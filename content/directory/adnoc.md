@@ -28,6 +28,7 @@ ADNOC (Abu Dhabi National Oil Company) is the UAE's state-owned oil, gas, and pe
 ![ADNOC website](/screenshots/adnoc.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ceezer.earth/" target="_blank" rel="noopener">https://www.ceezer.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ceezer/" target="_blank" rel="noopener">ceezer — 9,541 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~67</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 CEEZER is a Berlin-based B2B enterprise platform and marketplace connecting corporate carbon credit buyers with project developers across both removal and avoidance pathways. It provides risk assessment, MRV data integration, portfolio management tools, and runs the Carbon Coalition accelerator for CDR startups. It does not physically remove CO2 itself but is a core part of the CDR ecosystem as a marketplace/enabler.
 
 ![Ceezer website](/screenshots/ceezer.png)
+
 
 ## Registry Memberships
 

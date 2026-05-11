@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.oxy.com/" target="_blank" rel="noopener">https://www.oxy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oxy/" target="_blank" rel="noopener">oxy — 698,459 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~16340 (+1% YoY)</td></tr>
   <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Occidental Petroleum (Oxy) is one of the largest U.S. oil and gas producers, with major operations in the Permian and DJ basins and the Gulf of Mexico. Through its Oxy Low Carbon Ventures arm and the 1PointFive subsidiary (which owns Carbon Engineering), Oxy is building large-scale Direct Air Capture infrastructure, including the STRATOS facility in Ector County, Texas, designed for up to 500,000 tCO2/yr. CDR is an adjacent business line to Oxy's core upstream oil & gas operations, not its primary business.
 
 ![Oxy website](/screenshots/oxy.png)
+
 
 ## Registry Memberships
 

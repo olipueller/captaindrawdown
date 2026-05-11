@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://crbnfix.com/" target="_blank" rel="noopener">https://crbnfix.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -24,6 +24,7 @@ liveliness: "🟡 Moderate"
 CrbnFix is an India-based climate-tech company that produces biochar and bio-carbon from bamboo and agri-residues through pyrolysis, with processes aligned with international carbon standards. The company also supports local producers in generating carbon credits from artisanal biochar and offers MRV tooling. CDR is its core focus rather than an adjacent activity.
 
 ![crbnfix website](/screenshots/crbnfix.png)
+
 
 
 ## History

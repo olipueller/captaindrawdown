@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://strategicbiofuels.com/" target="_blank" rel="noopener">https://strategicbiofuels.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/strategic-biofuels/" target="_blank" rel="noopener">strategic-biofuels — 2,157 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~12 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Strategic Biofuels is a US project development company building a flagship BECCS facility called Louisiana Green Fuels at the Port of Columbia, Caldwell Parish. The project combines a biomass power plant (forestry waste feedstock) with carbon capture and geologic sequestration, targeting ~1 million tonnes CO2/year of durable removal. In Sept 2025 it announced a partnership with Carbon Direct, and in March 2026 secured a draft Class VI well permit and an agreement with SLB for sequestration services.
 
 ![Strategic Biofuels website](/screenshots/strategic-biofuels.png)
+
 
 
 ## History

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Bolivia</td></tr>
   <tr><th>Website</th><td><a href="https://www.empacar.com.bo/" target="_blank" rel="noopener">https://www.empacar.com.bo/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/empacar-s-a/" target="_blank" rel="noopener">empacar-s-a — 55,768 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~277 (+19% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Empacar S.A. is Bolivia's largest sustainable packaging and recycling company, founded in 1977 and headquartered in Santa Cruz de la Sierra, which launched a CDR business unit called CarbonX at the 2026 Bolivia Carbon Forum. Through CarbonX, Empacar is developing biochar production facilities (starting in Ascención de Guarayos) that convert forestry and agricultural residues from local sawmills into durable CO2 removal, targeting ~70,000 tonnes CO2/year with first credit issuance expected in 2027 under the Puro standard. Packaging and recycling remain the company's core business; CDR is an adjacent new venture.
 
 ![Empacar website](/screenshots/empacar.png)
+
 
 
 ## History

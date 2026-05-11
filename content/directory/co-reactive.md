@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.co-reactive.com/" target="_blank" rel="noopener">https://www.co-reactive.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co-reactive/" target="_blank" rel="noopener">co-reactive — 2,939 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+70% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -28,8 +28,10 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 ![Co-reactive website](/screenshots/co-reactive.png)
 
 
+
 ## History
 
+- **2026-05-05** — news mention: #oliverkrischer #coreactive #climatetech #ifat #zurichclimateweek #carbonremoval #decarbonization #s ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457155775157727232/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-29** — news mention: Co-reactive ([source](https://www.captaindrawdown.com/posts/coreactive-demoplant-milestone-carbonnegative-sustainablecon/))

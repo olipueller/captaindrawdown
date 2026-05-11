@@ -27,6 +27,7 @@ Loam Bio is an Australian agri-biotech company (founded 2019, HQ in Orange, NSW)
 ![Loam website](/screenshots/loam.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

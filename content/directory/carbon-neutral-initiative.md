@@ -27,6 +27,7 @@ Carbon Neutral Initiative (CNI) is a Dutch company founded by Robert van der Lui
 ![Carbon Neutral Initiative website](/screenshots/carbon-neutral-initiative.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

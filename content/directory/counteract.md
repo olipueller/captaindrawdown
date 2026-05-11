@@ -27,6 +27,7 @@ Counteract is a London-based venture capital fund dedicated exclusively to carbo
 ![Counteract website](/screenshots/counteract.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.telge.se/om-telge/vara-bolag/telge-atervinning/" target="_blank" rel="noopener">https://www.telge.se/om-telge/vara-bolag/telge-atervinning/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/telge-ab/" target="_blank" rel="noopener">telge-ab — 5,997 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~659 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Telge Återvinning is a municipal waste management and recycling subsidiary of Telge AB serving Södertälje, Sweden since 1998, handling household and commercial waste collection and sorting. In 2020-2021 it installed Europe's first CharMaker MPP biochar unit from Australia's Earth Systems, converting roughly 2,000 tonnes of green waste into about 300 tonnes of biochar annually. Biochar is an adjacent activity to its core waste-management mandate.
 
 ![Telge Återvinning website](/screenshots/telge-återvinning.png)
+
 
 
 ## History

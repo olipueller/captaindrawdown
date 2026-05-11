@@ -28,6 +28,7 @@ PlantVillage+ is a worker-owned cooperative spun out of Penn State's PlantVillag
 ![PlantVillage+ website](/screenshots/plantvillage.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

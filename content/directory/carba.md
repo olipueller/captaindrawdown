@@ -16,10 +16,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carba.com/" target="_blank" rel="noopener">https://carba.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbacarbon/" target="_blank" rel="noopener">carbacarbon — 3,445 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -27,6 +28,15 @@ liveliness: "🟢 Active"
 Carba is a Minneapolis, Minnesota carbon removal company whose pyrolysis technology and burial method removes CO2, storing biochar underground in low-oxygen environments using a patented, highly efficient pyrolysis reactor. The company will deliver 44,000 CDR credits to Microsoft over 5 years, and its methodology is certified by carbon removal registry Isometric for 1000+ year durability. Carba also received a $7 million DOE Carbon Negative Shot Pilot grant and is backed by GigaClimate Builder.
 
 ![Carba website](/screenshots/carba.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar &nbsp;[↗](https://to.isometric.com/prj_1JRZWM3BP1S071QG)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

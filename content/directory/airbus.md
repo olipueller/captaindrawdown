@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.airbus.com" target="_blank" rel="noopener">https://www.airbus.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airbusgroup/" target="_blank" rel="noopener">airbusgroup — 2,832,642 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Airbus is a multinational aerospace corporation (~86,000 employees) whose Defence and Space division has commercialized a modular Direct Air Capture unit derived from ISS life-support systems, brought to market in 2023. In November 2025, Airbus delivered and launched operations of a 250 t/yr DAC unit at Deep Sky Alpha in Innisfail, Alberta — its first operational field deployment. DAC is an adjacent activity within a company whose primary business is aircraft and defence/space hardware.
 
 ![Airbus website](/screenshots/airbus.png)
+
 
 
 ## History

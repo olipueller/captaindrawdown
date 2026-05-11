@@ -27,6 +27,7 @@ GigaDAC (legal name Victory Over Carbon Inc.) is a Houston-based direct air capt
 ![GigaDAC website](/screenshots/gigadac.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -27,6 +27,7 @@ Revata Carbon is a Singapore-incorporated biochar project developer that convert
 ![Revata Carbon PTE LTD website](/screenshots/revata-carbon-pte-ltd.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

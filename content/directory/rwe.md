@@ -26,6 +26,7 @@ RWE is a major German energy utility (~20,000 employees globally) developing BEC
 ![RWE website](/screenshots/rwe.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.ziprecruiter.com/Jobs/Rwe))

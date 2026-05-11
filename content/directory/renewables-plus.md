@@ -27,6 +27,7 @@ Renewables Plus Sdn Bhd (R+) is a Malaysian biomass gasification specialist and 
 ![Renewables Plus website](/screenshots/renewables-plus.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.greenstories.org.uk/anthology-for-cop27/solutions/biochar/))

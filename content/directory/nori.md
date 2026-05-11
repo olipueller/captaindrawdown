@@ -28,6 +28,7 @@ Nori was a Seattle-based carbon removal marketplace and registry that connected 
 ![Nori website](/screenshots/nori.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

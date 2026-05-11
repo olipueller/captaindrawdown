@@ -27,6 +27,7 @@ DACLab is a Palo Alto-based climate-tech startup developing a modular solid-sorb
 ![DACLAB website](/screenshots/daclab.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

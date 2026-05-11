@@ -27,8 +27,11 @@ BioC is a Singapore-based biochar carbon removal supplier that operates PyroCCS 
 ![BioC website](/screenshots/bioc.png)
 
 
+
 ## History
 
+- **2026-05-04** — news mention: I doubt that very many people are aware of how much methane is released from the continued use of co ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzkbvo4gt23))
+- **2026-05-03** — news mention: I'm pretty well convinced that Grassley was in on the treason planned for J6 and I hope that even if ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkxjdhyhb223))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-29** — news mention: This is also an excellent to follow if you are concerned about climate change and how it can be addr ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mknjc4ty5c2t))

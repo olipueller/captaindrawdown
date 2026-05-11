@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://brineworks.tech" target="_blank" rel="noopener">https://brineworks.tech</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brine-works/" target="_blank" rel="noopener">brine-works — 3,190 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~15 (+36% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Brineworks is an Amsterdam-based climate tech startup founded in 2023 by Gudfinnur Sveinsson and Dr. Joseph Perryman, developing a patented saltwater electrolyzer that drives ultra-low-cost Direct Air Capture while co-producing hydrogen. The CO₂ and H₂ outputs are intended for e-fuels (SAF, e-methanol) and carbon dioxide removal, with the company targeting pilot-scale commercial readiness by the end of 2026.
 
 ![Brineworks website](/screenshots/brineworks.png)
+
 
 
 ## History

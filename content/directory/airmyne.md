@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.airmyne.com/" target="_blank" rel="noopener">https://www.airmyne.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airmyne/" target="_blank" rel="noopener">airmyne — 2,025 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~17 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 AirMyne is a Berkeley, California-based Direct Air Capture startup founded in 2022 via Y Combinator by Sudip Mukhopadhyay and Mark Cyffka. The company uses a liquid solvent system with low-temperature thermal regeneration, allowing integration with waste heat and geothermal energy, and has raised over $11M in seed funding plus a strategic investment from ENEOS Holdings in 2026.
 
 ![AirMyne website](/screenshots/airmyne.png)
+
 
 ## Registry Memberships
 

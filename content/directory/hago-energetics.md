@@ -25,6 +25,7 @@ Hago Energetics is a California-based benefit corporation (HQ Camarillo) that us
 ![Hago Energetics website](/screenshots/hago-energetics.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -28,6 +28,7 @@ Creturner Group AB is a publicly listed Swedish environmental technology group w
 ![Creturner website](/screenshots/creturner.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -27,6 +27,7 @@ Down to Earth (formerly Norsk Karbonlagring AS) was founded in spring 2021 by Bj
 ![Down to Earth website](/screenshots/down-to-earth.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

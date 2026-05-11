@@ -27,6 +27,7 @@ Terrafront Ventures develops carbon removal infrastructure in South Asia and Afr
 ![Terrafront website](/screenshots/terrafront.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

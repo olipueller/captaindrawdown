@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Colombia</td></tr>
   <tr><th>Website</th><td><a href="https://biodiversal.com/" target="_blank" rel="noopener">https://biodiversal.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biodiversal-biogrowth/" target="_blank" rel="noopener">biodiversal-biogrowth — 1,132 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~20 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Biodiversal is a Colombian regenerative agriculture company founded in 2018 that sells biostimulants and plant-nutrition products and provides technical assistance to smallholder coffee farmers. Since 2024 it has co-coordinated the Coffee Biochar Project with Planboo and Circular Agro, training farmers to pyrolyze coffee pruning residues into biochar and generating durable carbon removal credits endorsed by Carbon Standards International.
 
 ![Biodiversal website](/screenshots/biodiversal.png)
+
 
 
 ## History

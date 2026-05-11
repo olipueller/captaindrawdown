@@ -27,6 +27,7 @@ CarbonPool is a Zurich-based carbon credit insurance company founded in 2023 by 
 ![CarbonPool website](/screenshots/carbonpool.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

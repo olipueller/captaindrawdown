@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonconnect.earth/" target="_blank" rel="noopener">https://www.carbonconnect.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hempconnecthamburg/" target="_blank" rel="noopener">hempconnecthamburg — 921 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 CarbonConnect GmbH is a Hamburg-based biochar CDR project developer founded in 2021 that trains smallholder farmers ("Climate Agents") in Africa and Latin America to convert agricultural residues into biochar via flame-curtain pyrolysis. The company manages the full value chain from project design and MRV to sale of CDR certificates, with projects in Nigeria, Cameroon, Zimbabwe, and Ecuador, certified under Carbon Standards International's Global Artisan C-Sink methodology.
 
 ![CarbonConnect website](/screenshots/carbonconnect.png)
+
 
 
 ## History

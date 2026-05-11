@@ -28,6 +28,7 @@ The SocialCarbon Standard was developed by the Ecológica Institute in Brazil in
 ![Social Carbon website](/screenshots/social-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -26,6 +26,7 @@ Aquafin is the Flemish wastewater treatment utility, owned by the Flemish Enviro
 ![Aquafin website](/screenshots/aquafin.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))

@@ -27,6 +27,7 @@ Preterra BioCarbon Solutions Ltd. is a Salt Spring Island, BC-based biochar prod
 ![Preterra website](/screenshots/preterra.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://unemit.com/" target="_blank" rel="noopener">https://unemit.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/unemit/" target="_blank" rel="noopener">unemit</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Unemit is a Berkeley, California-based Direct Air Capture startup backed by Breakthrough Energy Fellows and led by MIT-trained engineer Christian Haakonsen. The company is developing a modular DAC contactor system that uses a chemical sorbent regenerated with low-temperature heat, aiming to scale to gigaton-level atmospheric CO2 removal.
 
 ![Unemit website](/screenshots/unemit.png)
+
 
 ## Registry Memberships
 

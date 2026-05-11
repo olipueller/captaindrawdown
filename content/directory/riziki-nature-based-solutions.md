@@ -26,6 +26,7 @@ Riziki Nature Based Solutions is a Kenya-based startup that harvests invasive Pr
 ![Riziki Nature Based Solutions website](/screenshots/riziki-nature-based-solutions.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

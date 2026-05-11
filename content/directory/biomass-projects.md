@@ -26,6 +26,7 @@ Biomass Projects is an Australian pure-play CDR developer behind the Mardie char
 ![Biomass Projects website](/screenshots/biomass-projects.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

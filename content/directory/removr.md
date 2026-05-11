@@ -27,6 +27,7 @@ Removr is a Norwegian direct air capture company jointly owned by Vanir Green In
 ![Removr website](/screenshots/removr.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

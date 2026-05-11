@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://skyrenu.com/" target="_blank" rel="noopener">https://skyrenu.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/skyrenu-technologies/" target="_blank" rel="noopener">skyrenu-technologies — 1,340 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+57% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Skyrenu Technologies is a Quebec-based direct air capture company developing compact, scalable DAC systems, spun out of Sherbrooke University as a product of the XPRIZE Carbon Removal student competition which it won in 2021, and later ranked among the top 20 finalists in the overall XPRIZE Carbon Removal competition. In August 2025 the company, partnered with Deep Sky, became the first to permanently store CO2 captured directly from the air in North America at Deep Sky Alpha in Innisfail, Alberta. Skyrenu is now scaling to a 125 tCO₂/year Bellevue Class unit with advanced solid-sorbent structured filters in a reactor-less moving cell design, supplying captured CO₂ to CarbiCrete for carbon-negative concrete.
 
 ![Skyrenu website](/screenshots/skyrenu.png)
+
 
 
 ## History

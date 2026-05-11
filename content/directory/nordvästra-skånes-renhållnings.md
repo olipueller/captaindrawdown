@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://nsr.se/" target="_blank" rel="noopener">https://nsr.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nsr-ab/" target="_blank" rel="noopener">nsr-ab — 1,928 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~350 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 NSR (Nordvästra Skånes Renhållnings AB) is a municipal waste-management utility owned by six northwest Skåne municipalities (Bjuv, Båstad, Helsingborg, Höganäs, Åstorp, Ängelholm) serving about 266,000 residents. At its Filborna recycling site in Helsingborg it operates what it describes as Sweden's largest biochar plant, inaugurated in June 2022, converting roughly 7,000 tonnes/year of urban garden waste into ~1,500 tonnes of biochar via Vow/BioGreen pyrolysis while delivering ~11 GWh of district heating. Biochar is an adjacent climate side-activity; the core business remains municipal waste collection and recycling.
 
 ![Nordvästra Skånes Renhållnings website](/screenshots/nordvästra-skånes-renhållnings.png)
+
 
 
 ## History

@@ -27,6 +27,7 @@ Trusted Carbon is a carbon credit platform focused on nature-based carbon remova
 ![Trusted Carbon website](/screenshots/trusted-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

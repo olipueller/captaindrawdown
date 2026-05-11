@@ -26,6 +26,7 @@ Uisa is a large Brazilian integrated sugarcane and corn biorefinery based in Nov
 ![Uisa website](/screenshots/uisa.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

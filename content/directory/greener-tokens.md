@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.greenertokens.com/" target="_blank" rel="noopener">https://www.greenertokens.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenertoken/" target="_blank" rel="noopener">greenertoken — 923 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+18% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Greener Tokens is a climatech that tokenizes carbon credits from Brazilian Amazon forest preservation projects on blockchain (Polygon/Ethereum) via its Greener Preservation Token (GPT), which represents one tonne of CO2e from conserved native forest. The platform sells these tokens to companies and events (e.g. NASCAR Brasil, F1 São Paulo GP, Copa Truck) for voluntary carbon offsetting, functioning as a tokenization marketplace rather than a physical carbon remover. Founded as a joint venture between Dax (blockchain startup) and Reag Investimentos, with HQ in Switzerland and operations in Brazil, US, and Europe.
 
 ![Greener Tokens website](/screenshots/greener-tokens.png)
+
 
 
 ## History

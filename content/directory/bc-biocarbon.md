@@ -15,10 +15,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.bcbiocarbon.com/" target="_blank" rel="noopener">https://www.bcbiocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bc-biocarbon/" target="_blank" rel="noopener">bc-biocarbon — 1,171 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~12</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ liveliness: "🟢 Active"
 BC Biocarbon is a Canadian company headquartered in McBride, British Columbia, established in 2011, that operates a proprietary continuous pyrolysis/biorefinery process converting wood waste into biochar (marketed as Black Bear Biochar), biocoal, and other biogenic products. It sells Puro.earth-verified CO2 Removal Certificates (CORCs) and has signed offtake agreements with Invert and Ripple. The company is also developing a larger biorefinery in Carrot River, Saskatchewan via the BioLesna joint venture with Dunkley Lumber.
 
 ![BC Biocarbon website](/screenshots/bc-biocarbon.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 2 projects · Biochar, 2022 · since 2020-12-01
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

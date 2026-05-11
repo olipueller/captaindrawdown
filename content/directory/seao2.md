@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.seao2.com/" target="_blank" rel="noopener">https://www.seao2.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seao2-io/" target="_blank" rel="noopener">seao2-io — 7,336 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~19 (+19% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 SeaO2 is a Dutch TU Delft spin-off founded in 2021 offering direct ocean capture (DOC) technology for scalable carbon removal. Its containerised pilot 'Project Swell' has a 25 tCO2/year capacity at the Afsluitdijk in the Netherlands, following its 2023 Project Ripple proof-of-concept; a larger Project Breaker is planned for 2028 to deliver carbon credits commercially.
 
 ![SeaO2 website](/screenshots/seao2.png)
+
 
 
 ## History

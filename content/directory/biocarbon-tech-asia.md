@@ -12,7 +12,7 @@ liveliness: "🟠 Suspect"
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Malaysia</td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -21,6 +21,7 @@ liveliness: "🟠 Suspect"
 Biocarbon Tech Asia is a biochar carbon removal supplier listed on Puro.earth, targeting CORC 100+ durability credits from a planned facility in Malaysia. According to the Puro.earth listing, the project remains in early development with feasibility work ongoing and construction in progress, with zero CORCs issued to date. The company has no independent website or news footprint beyond the Puro.earth supplier page.
 
 ![Biocarbon Tech Asia website](/screenshots/biocarbon-tech-asia.png)
+
 
 
 ## History

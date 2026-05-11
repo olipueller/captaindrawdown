@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://rubiconcarbon.com/" target="_blank" rel="noopener">https://rubiconcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rubicon-carbon/" target="_blank" rel="noopener">rubicon-carbon — 12,926 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~46 (+18% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Rubicon Carbon is a US-based carbon credit management and investment platform backed by TPG Rise Climate Fund, headquartered in Marina del Rey, California. The company curates risk-adjusted carbon credit portfolios (Rubicon Carbon Tonne, Rubicon Rated Tonne) combining avoidance and removal credits for corporate buyers, and signs multi-year offtake agreements with CDR developers such as Terradot (enhanced weathering), Bio-Logical (biochar), and Deep Sky (DAC). It is a financier/aggregator in the CDR ecosystem rather than a physical removal operator.
 
 ![Rubicon Carbon website](/screenshots/rubicon-carbon.png)
+
 
 
 ## History

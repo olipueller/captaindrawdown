@@ -27,6 +27,7 @@ BioCarb Solution is a Danish BECCS aggregator that collects biogenic CO2 from Da
 ![BioCarb Solution website](/screenshots/biocarb-solution.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://biocarb.dk/))

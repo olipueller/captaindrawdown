@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://circular-carbon.com/en/" target="_blank" rel="noopener">https://circular-carbon.com/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circular-carbon/" target="_blank" rel="noopener">circular-carbon — 5,197 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~21 (-42% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Circular Carbon GmbH, founded in 2018, is a German biochar company and subsidiary of the econnext holding group. It operates an industrial pyrolysis plant on the island of Peute in Hamburg-Veddel where cocoa shells are carbonised into biochar, and the resulting steam is fed into a neighbouring industrial cocoa producer as an energy source. Each of its "CarbonHub" plants generates CDR credits alongside renewable energy, and the company plans to replicate this model in new facilities.
 
 ![Circular Carbon website](/screenshots/circular-carbon.png)
+
 
 ## Registry Memberships
 

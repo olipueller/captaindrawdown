@@ -28,6 +28,7 @@ Forest Energy Inc. is a Tokyo-based company that develops and operates small-sca
 ![Forest Energy Inc website](/screenshots/forest-energy-inc.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

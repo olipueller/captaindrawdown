@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://planetsavers.earth/" target="_blank" rel="noopener">https://planetsavers.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planetsavers/" target="_blank" rel="noopener">planetsavers — 747 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+62% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Planet Savers is a University of Tokyo spinout founded in July 2023, positioned as Japan's first Direct Air Capture startup. It develops a zeolite-based CO2 adsorbent and an optimized DACCU (DAC + Carbon Utilization) recovery/concentration unit, backed by NEDO, Spiral Capital and JAFCO (¥250M seed in 2024). The company is targeting a 1 ton/day prototype and was selected for the Bosch Carbon Capture Startup Challenge 2025.
 
 ![Planet Savers website](/screenshots/planet-savers.png)
+
 
 ## Registry Memberships
 

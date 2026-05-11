@@ -25,6 +25,7 @@ Gaia is a Danish joint venture (Gaia ProjectCo P/S) between Copenhagen Infrastru
 ![Gaia website](/screenshots/gaia.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

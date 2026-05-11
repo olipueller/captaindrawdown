@@ -26,6 +26,7 @@ Freres Engineered Wood (formerly Freres Lumber Co.) is a family-owned Oregon woo
 
 ![Freres Lumber website](/screenshots/freres-lumber.png)
 
+
 ## Registry Memberships
 
 - Puro.earth

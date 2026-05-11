@@ -26,6 +26,7 @@ The Biochar Impact Company is a biochar-focused advisory/consulting firm that he
 ![The Biochar Impact Company website](/screenshots/the-biochar-impact-company.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

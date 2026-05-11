@@ -5,7 +5,7 @@ type: "directory"
 description: "Retrofits existing biomass power plants and sawmills to co-produce biochar from forest/sawmill residues, which is then applied to agricultural soils for durable carbon storage."
 url: "/directory/pacific-biochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,9 +15,10 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.pacificbiochar.com" target="_blank" rel="noopener">https://www.pacificbiochar.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pacific-biochar/" target="_blank" rel="noopener">pacific-biochar — 2,096 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via isometric issuance through 2025-12-16</small></td></tr>
   <tr><th>Employees</th><td>~3 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2025-12-16)</small></td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ Pacific Biochar is a California-based benefit corporation founded in 2014 that p
 
 ![Pacific Biochar website](/screenshots/pacific-biochar.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar · 5,499 tCO₂ issued · 2,221 retired · since 2025-12-16 &nbsp;[↗](https://to.isometric.com/prj_1JXCRW5ST1S0EEKH)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Puro.earth
@@ -33,6 +43,7 @@ Pacific Biochar is a California-based benefit corporation founded in 2014 that p
 
 ## History
 
+- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))

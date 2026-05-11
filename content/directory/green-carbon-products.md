@@ -26,6 +26,7 @@ Green Carbon Products is a small Ontario company that makes biochar from 100% su
 ![Green Carbon Products website](/screenshots/green-carbon-products.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

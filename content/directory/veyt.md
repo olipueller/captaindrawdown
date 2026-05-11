@@ -27,6 +27,7 @@ Veyt is an Oslo-based independent market intelligence provider for carbon market
 ![Veyt website](/screenshots/veyt.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -25,6 +25,7 @@ CO2CirculAir is a Dutch DAC start-up based in Arnhem developing SMART-DAC, a pas
 ![CO2CirculAir website](/screenshots/co2circulair.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.rockflour.co/" target="_blank" rel="noopener">https://www.rockflour.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockflourcompany/" target="_blank" rel="noopener">rockflourcompany — 2,071 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~8 (0% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,12 +27,16 @@ Founded in 2023 by Greenland native and noted geologist Minik Rosing and climate
 
 ![Rock Flour Company website](/screenshots/rock-flour-company.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-07** — news mention: David Oldcorn, our GHG scientist, is just back from EGU26 in Vienna. 
+
+He shared findings from acros ([source](https://www.linkedin.com/feed/update/urn:li:share:7458077853725708288/))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.cleancluster.dk/en/case/rock-flour-company-receives-6-1-million/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

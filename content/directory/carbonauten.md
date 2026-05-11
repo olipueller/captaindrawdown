@@ -27,6 +27,7 @@ Carbonauten GmbH is a German cleantech company founded in 2017 and headquartered
 ![Carbonauten website](/screenshots/carbonauten.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

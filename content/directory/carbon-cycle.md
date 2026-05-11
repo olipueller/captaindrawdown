@@ -23,12 +23,16 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 
 ![Carbon Cycle website](/screenshots/carbon-cycle.png)
 
+
 ## Registry Memberships
 
 - Puro.earth
 
 ## History
 
+- **2026-05-05** — news mention: The thing is that as far as I'm concerned and climate hawks like California are doing all we can to  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml33j356ll23))
+- **2026-05-05** — news mention: Okay, I see.  Yeah, assuming that ocean can absorb half of the CO2 that is emitted this year in abou ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml2ycxrhf323))
+- **2026-05-03** — news mention: When I see the term geological scale, as a geologist, I think of geologic timeframes which most defi ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkxzveezws23))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-24** — news mention: Many countries combine GHG emissions and removals to get net emissions. On this accounting, Sweden h ([source](https://bsky.app/profile/glenpeters.bsky.social/post/3mk7vcupg3k24))

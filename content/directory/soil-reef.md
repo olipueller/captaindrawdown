@@ -26,6 +26,7 @@ Soil Reef LLC (formerly The Biochar Company) is a Berwyn, Pennsylvania-based bio
 ![Soil Reef website](/screenshots/soil-reef.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

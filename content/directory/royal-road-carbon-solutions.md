@@ -28,6 +28,7 @@ Royal Road Carbon Solutions is a US-based carbon offset broker and advisory firm
 ![Royal Road Carbon Solutions website](/screenshots/royal-road-carbon-solutions.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

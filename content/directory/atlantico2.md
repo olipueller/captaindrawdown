@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://atlantico2.com/" target="_blank" rel="noopener">https://atlantico2.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atlantico2/" target="_blank" rel="noopener">atlantico2 — 73 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟡 Moderate"
 AtlantiCO2 is a Brazilian carbon removal startup that has built in-house pyrolysis technology to produce biochar for the agricultural sector. The company aims to store carbon in soil at industrial scale by converting biomass into stable biochar, targeting Brazil's agriculture industry.
 
 ![AtlantiCO2 website](/screenshots/atlantico2.png)
+
 
 
 ## History

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.apchemi.com/" target="_blank" rel="noopener">https://www.apchemi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/apchemi/" target="_blank" rel="noopener">apchemi — 3,387 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~48 (+12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 APChemi is a Navi Mumbai-based pyrolysis technology company that designs and delivers commercial pyrolysis plants for plastics, tires, and biomass feedstocks, with patented PYROMAX reactor and PUREMAX oil-purification systems deployed across 49+ projects worldwide. Biomass-to-biochar for CDR carbon credits is one of several application lines alongside plastic-to-fuel chemical recycling and tire pyrolysis; in April 2025 APChemi co-founded BiocharIND with PRESPL and Intellecap, a JV targeting 10,000 MT/year biochar and ~25,000 tCO2e credits from a Punjab-Haryana facility.
 
 ![APChemi website](/screenshots/apchemi.png)
+
 
 
 ## History

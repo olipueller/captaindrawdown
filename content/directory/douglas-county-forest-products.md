@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="http://www.dcfp.com/" target="_blank" rel="noopener">http://www.dcfp.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/douglas-county-forest-products/" target="_blank" rel="noopener">douglas-county-forest-products</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~125 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Douglas County Forest Products is an independently owned sawmill in Roseburg, Oregon that produces kiln-dried studs from Douglas Fir, Hemlock, and other regional softwoods. As a side stream, it pyrolyzes wood chips, sawdust, bark, and shavings from its own operations into biochar, which is used by local farmers and sold as carbon removal credits via Puro.earth and aggregators such as Cloverly.
 
 ![Douglas County Forest Products website](/screenshots/douglas-county-forest-products.png)
+
 
 ## Registry Memberships
 

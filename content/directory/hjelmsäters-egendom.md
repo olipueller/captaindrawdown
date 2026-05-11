@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of forestry residues on an agricultural estate to produce EBC-certified biochar soil amendment, with CORCs issued on Puro.earth."
 url: "/directory/hjelmsäters-egendom/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,8 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.biokol.se/" target="_blank" rel="noopener">https://www.biokol.se/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100) <small>— verified active via puro issuance through 2024-03-31</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2024-03-31)</small></td></tr>
 </table>
 
 ## About
@@ -23,12 +24,22 @@ Hjelmsäters Egendom is a centuries-old Swedish agricultural estate in Hällekis
 
 ![Hjelmsäters Egendom website](/screenshots/hjelmsäters-egendom.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2019-04-01
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Puro.earth
 
 ## History
 
+- **2026-05-11** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.hjelmsater.se/egendom/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.hjelmsater.se/egendom/))

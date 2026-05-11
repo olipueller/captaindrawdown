@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.baieminerals.com/" target="_blank" rel="noopener">https://www.baieminerals.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/baie-minerals-inc/" target="_blank" rel="noopener">baie-minerals-inc — 3,671 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 BAIE Minerals is a Canadian startup based in Baie Verte, Newfoundland (with a Calgary office) developing technology to process asbestos and ultramafic mine tailings to detoxify waste, extract critical minerals (magnesium oxide, silica), and sequester CO2 via carbon mineralization. The company plans a demonstration project at the Baie Verte community college and was featured in 2025 coverage by Yale E360 and asbestos.com describing heat/acid-based processing of tailings from the former Advocate asbestos mine.
 
 ![BAIE Minerals website](/screenshots/baie-minerals.png)
+
 
 
 ## History

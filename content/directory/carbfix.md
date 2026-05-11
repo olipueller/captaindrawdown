@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Iceland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbfix.com/" target="_blank" rel="noopener">https://www.carbfix.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbfix/" target="_blank" rel="noopener">carbfix — 30,730 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~51 (-7% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjavík Energy, that permanently stores CO2 by dissolving it in water and injecting it into basaltic rock where it mineralizes into carbonate minerals within roughly two years. It operates injection sites at the Hellisheiði and Nesjavellir geothermal plants and provides storage for DAC partners including Climeworks' Orca plant. It is developing Coda Terminal, a large-scale transport and mineralization hub, and recently received Europe's first onshore CO2 geological storage permit.
 
 ![Carbfix website](/screenshots/carbfix.png)
+
 
 ## Registry Memberships
 

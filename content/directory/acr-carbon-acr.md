@@ -27,6 +27,7 @@ ACR (formerly American Carbon Registry) is a nonprofit carbon crediting program 
 ![ACR Carbon (ACR) website](/screenshots/acr-carbon-acr.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://www.silicatecarbon.com/" target="_blank" rel="noopener">https://www.silicatecarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicate-carbon/" target="_blank" rel="noopener">silicate-carbon — 3,148 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6 (-40% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -28,8 +28,10 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 ![Silicate website](/screenshots/silicate.png)
 
 
+
 ## History
 
+- **2026-05-03** — news mention: 20 Top Environmental Companies in Germany · August 2025 | F6S ([source](https://www.f6s.com/companies/environmental/germany/co))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-24** — news mention: Silicon to Silicate: Understanding the InPlanet-Microsoft Deal ([source](https://remineralize.org/2026/04/silicon-to-silicate-understanding-the-inplanet-microsoft-deal/))

@@ -27,6 +27,7 @@ Rethinking Removals is a UK-based collaborative non-profit organisation focused 
 ![Rethinking Removal website](/screenshots/rethinking-removal.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

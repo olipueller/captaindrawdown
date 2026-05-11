@@ -27,6 +27,7 @@ Carbonable specializes in the management, monitoring, and reporting of carbon co
 ![Carbonable website](/screenshots/carbonable.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

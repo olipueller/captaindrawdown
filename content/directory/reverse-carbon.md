@@ -25,6 +25,7 @@ Reverse Carbon is a Swedish climate tech company based in Stockholm, founded by 
 ![Reverse Carbon website](/screenshots/reverse-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

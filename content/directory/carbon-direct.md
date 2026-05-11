@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-direct.com/" target="_blank" rel="noopener">https://www.carbon-direct.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-direct/" target="_blank" rel="noopener">carbon-direct — 53,365 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~169 (+8% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,12 +27,16 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 
 ![Carbon Direct website](/screenshots/carbon-direct.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-03** — news mention: Week in CDR — 2026-W18 ([source](https://captaindrawdown.com/posts/week-in-cdr-2026-w18/))
+- **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
+- **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

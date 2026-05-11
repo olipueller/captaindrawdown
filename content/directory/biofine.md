@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.biofinedevelopments.com/" target="_blank" rel="noopener">https://www.biofinedevelopments.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biofine-developments-northeast/" target="_blank" rel="noopener">biofine-developments-northeast — 208 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Biofine Developments Northeast (BDNE) is a Maine-based biorefinery developer commercializing patented Biofine Technology to convert cellulosic waste into ethyl levulinate (EL), a drop-in renewable heating-oil substitute, with levulinic acid and biochar as co-products. Its Phase 1 plant at the former Lincoln Pulp & Tissue Mill site is slated to produce ~3–4 million gallons of EL and ~20,000 tons of biochar annually, with Sprague Resources as the offtake partner. Biofuel production is the primary business; biochar is an adjacent co-product.
 
 ![Biofine website](/screenshots/biofine.png)
+
 
 
 ## History

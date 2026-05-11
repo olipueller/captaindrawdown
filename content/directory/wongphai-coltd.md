@@ -27,6 +27,7 @@ Wongphai Co., Ltd. is a community-driven initiative in rural Thailand that promo
 ![Wongphai Co.,Ltd website](/screenshots/wongphai-coltd.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

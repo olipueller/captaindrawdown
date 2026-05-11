@@ -28,6 +28,7 @@ Cotierra (formerly Terra Preta) is a Swiss-Colombian ClimateTech startup, headqu
 
 ![Terra Preta (Cotierra) website](/screenshots/terra-preta-cotierra.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth

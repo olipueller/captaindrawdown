@@ -25,6 +25,7 @@ CO2 Energie AG is a Swiss joint-venture subsidiary of Regionalwerke AG Baden (RW
 ![CO2 Energie website](/screenshots/co2-energie.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

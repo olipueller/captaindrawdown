@@ -25,6 +25,7 @@ eoc energy ocean GmbH is a Lucerne-based Swiss biochar producer that operates a 
 ![eoc energy ocean website](/screenshots/eoc-energy-ocean.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

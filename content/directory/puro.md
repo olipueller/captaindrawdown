@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://puro.earth/" target="_blank" rel="noopener">https://puro.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/puro-co2-removal-marketplace/" target="_blank" rel="noopener">puro-co2-removal-marketplace — 30,028 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~52 (-7% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,12 +27,18 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ![Puro website](/screenshots/puro.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-08** — news mention: Enhanced Rock Weathering - Puro.earth ([source](https://puro.earth/methodologies/enhanced-rock-weathering/))
+- **2026-05-07** — news mention: Introducing a new Puro.earth brand for a new era of engineered carbon dioxide removal - Puro.earth ([source](https://puro.earth/insights/post/introducing-a-new-puro-earth-brand-for-a-new-era-of-engineered-carbon-dioxide-removal/))
+- **2026-05-07** — news mention: NoviqTech Targets Data Centre Carbon Removal Demand with Coralia Biochar Strategy ([source](https://smallcaps.com.au/article/noviqtech-targets-data-centre-carbon-removal-demand-with-coralia-biochar-strategy))
+- **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week Zuric ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
+- **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-29** — news mention: #bioco2 #carbonremoval #cdr #beccs #crcf #climatepolicy #helsinki | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7455239786749071360/))

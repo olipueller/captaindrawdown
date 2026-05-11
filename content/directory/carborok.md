@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carborok.com/" target="_blank" rel="noopener">https://www.carborok.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Carborok is a Nantes-based French startup, spin-off of engineering firm Voltigital, developing CO2 mineralization reactors that sequester biogenic CO2 in recycled concrete aggregates. The company builds and operates pilot units (Ocaapi project in Chauvé, Loire-Atlantique) and plans to sell mineralization machines and carbon removal credits, partnering with Bouygues Construction's Cyneo hub.
 
 ![Carborok website](/screenshots/carborok.png)
+
 
 ## Registry Memberships
 

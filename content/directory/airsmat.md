@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Nigeria</td></tr>
   <tr><th>Website</th><td><a href="https://airsmat.com" target="_blank" rel="noopener">https://airsmat.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airsmat/" target="_blank" rel="noopener">airsmat — 3,542 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~21 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 AirSmat is a Lagos-based climate-tech company that produces biochar from agricultural waste (corn cobs, cocoa pod waste) via pyrolysis across Nigeria and Côte d'Ivoire, working with smallholder farmers to sequester carbon in soils. It also operates its own CSI-certified AnyFarm dMRV platform for tracking biochar carbon credits end-to-end. The company pivoted from pure agritech/drone software into biochar CDR as its primary focus.
 
 ![AIRSMAT website](/screenshots/airsmat.png)
+
 
 
 ## History

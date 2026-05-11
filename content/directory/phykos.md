@@ -26,6 +26,7 @@ Phykos, PBC is an Oakland, California ocean CDR startup founded in 2020 by ex-Go
 ![Phykos website](/screenshots/phykos.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

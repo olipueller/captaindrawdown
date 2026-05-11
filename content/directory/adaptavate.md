@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://adaptavate.com/" target="_blank" rel="noopener">https://adaptavate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adaptavate-limited/" target="_blank" rel="noopener">adaptavate-limited — 2,804 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~23 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Bristol, UK-based construction materials company developing Breathaboard, a carbon-storing drop-in alternative to gypsum plasterboard that combines calcium carbonate mineral curing with bio-based/cellulosic feedstocks and biochar. The company licenses its patented CCU/CCS process to wallboard manufacturers and is building 'Project Crystal,' an industrial demonstrator, after raising a £2.7M pre-Series A in April 2025 with SigmaRoc and Undivided Ventures.
 
 ![Adaptavate website](/screenshots/adaptavate.png)
+
 
 
 ## History

@@ -14,10 +14,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.biocareprojects.com/" target="_blank" rel="noopener">https://www.biocareprojects.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocare-projects/" target="_blank" rel="noopener">biocare-projects — 1,069 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~13 (-13% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 Biocare is an engineering-focused developer of biochar carbon removal projects with technical expertise and project delivery capability across Asia, Australia, North America and South America, designing large-scale biochar systems that transform locally available agricultural and forestry residues into biochar. The company provides end-to-end project development services, including engineering, design and technology, registry compliance, financing and sale of CDR credits. Its flagship engagement is the Kiland Kangaroo Island project converting bushfire-damaged timber into biochar, with additional initiatives in Vietnam's Mekong Delta, Peru, Argentina, and South Australia.
 
 ![Biocare website](/screenshots/biocare.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2023-04-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/carbonchip-mobile-carboniser-1-137)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

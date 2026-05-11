@@ -27,6 +27,7 @@ Meva Energy is a Swedish cleantech company (founded 2008, HQ Gothenburg) that bu
 ![Meva Energy website](/screenshots/meva-energy.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://mevaenergy.com/))

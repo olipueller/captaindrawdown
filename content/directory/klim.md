@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.klim.eco/" target="_blank" rel="noopener">https://www.klim.eco/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klimfoods/" target="_blank" rel="noopener">klimfoods — 19,744 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~138 (+8% YoY)</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Klim is a Berlin-based agritech company founded in 2020 that operates a digital platform enabling farmers to adopt regenerative agriculture practices and monetize resulting soil carbon sequestration. The company serves 3,500+ farmers covering ~700,000 hectares (about 5% of German farmland) and sells both removal/reduction carbon credits and Scope 3 insetting projects to corporate clients such as Nestlé, Kaufland, and Aryzta. In November 2024 Klim raised a $22M Series A led by BNP Paribas to internationalize the platform.
 
 ![Klim website](/screenshots/klim.png)
+
 
 ## Registry Memberships
 

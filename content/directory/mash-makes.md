@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.mashmakes.com/" target="_blank" rel="noopener">https://www.mashmakes.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mash-energy/" target="_blank" rel="noopener">mash-energy — 9,930 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~92</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 MASH Makes is an Indo-Danish cleantech company that operates India's first large-scale biofuel and biochar carbon removal plant in Udupi district, Karnataka, converting waste from the cashew industry into renewable biofuel and carbon-rich biochar. In early 2025 it broke ground on Phase 2 of its Udupi facility, doubling annual production capacity to 7,000 tonnes of biofuel and 14,000 tonnes of biochar, and sells carbon removal credits via the Carbonfuture platform.
 
 ![MASH Makes website](/screenshots/mash-makes.png)
+
 
 ## Registry Memberships
 

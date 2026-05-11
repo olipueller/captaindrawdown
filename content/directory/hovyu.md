@@ -28,6 +28,7 @@ Hovyu is a small Netherlands-based carbon capture engineering firm developing th
 ![Hovyu website](/screenshots/hovyu.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

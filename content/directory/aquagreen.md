@@ -27,6 +27,7 @@ AquaGreen is a Danish cleantech company that develops and sells HECLA® integrat
 ![AquaGreen website](/screenshots/aquagreen.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

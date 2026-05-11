@@ -27,6 +27,7 @@ C-Capsule is a carbon removal certification and registry service operated by Evi
 ![C-Capsule website](/screenshots/c-capsule.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

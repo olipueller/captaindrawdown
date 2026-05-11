@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://renergi.net/" target="_blank" rel="noopener">https://renergi.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/renergi-australia/" target="_blank" rel="noopener">renergi-australia — 51 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Renergi is an Australian waste-to-energy and carbon removal technology company spun out of Curtin University in 2012 and based in Collie, Western Australia. Its first commercial-scale grinding pyrolysis plant, backed by ARENA and the WA Government, converts biomass and municipal solid waste into biochar, bio-oil and wood vinegar. The project is listed on Puro.earth (2024 audit passed) for CORC issuance.
 
 ![Renergi website](/screenshots/renergi.png)
+
 
 
 ## History

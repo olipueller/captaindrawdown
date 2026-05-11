@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://northmoregordon.com/" target="_blank" rel="noopener">https://northmoregordon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northmore-gordon-pty-ltd/" target="_blank" rel="noopener">northmore-gordon-pty-ltd — 2,788 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~37 (+23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Northmore Gordon is an Australian energy and carbon advisory consultancy (founded 2009, consolidated with Wattly in 2021) with offices in Melbourne, Sydney, Newcastle, the Philippines and Singapore. They act as a Puro.earth sales channel partner, brokering CO2 Removal Certificates (CORCs) and other environmental attribute certificates (ACCUs, Verra, Gold Standard, RECs) for industrial and commercial clients pursuing net-zero goals. They do not physically remove CO2 themselves.
 
 ![Northmore Gordon website](/screenshots/northmore-gordon.png)
+
 
 
 ## History

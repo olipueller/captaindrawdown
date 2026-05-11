@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://sliglas.com/" target="_blank" rel="noopener">https://sliglas.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sliglas/" target="_blank" rel="noopener">sliglas — 348 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Slíglas is an Irish biochar startup based in Sligo, founded in 2024 by Paul McGoldrick and Sadhbh McCarrick, that converts residual forestry and woody biomass into biochar for carbon dioxide removal. The company has a project listed on the Rainbow Standard registry and in October 2025 won the Deep Tech category of the InterTradeIreland Seedcorn regional final, receiving €50,000 and advancing to the all-island final.
 
 ![Slíglas website](/screenshots/slíglas.png)
+
 
 
 ## History

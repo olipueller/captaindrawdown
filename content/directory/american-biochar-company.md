@@ -25,6 +25,7 @@ American BioChar Company is a Michigan-based biochar soil amendment blender and 
 ![American BioChar Company website](/screenshots/american-biochar-company.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

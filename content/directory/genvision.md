@@ -25,6 +25,7 @@ Genvision is a Belgium-based (KU Leuven spin-out) AI startup originally focused 
 ![Genvision website](/screenshots/genvision.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

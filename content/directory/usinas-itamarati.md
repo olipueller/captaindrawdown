@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://www.uisa.com.br/" target="_blank" rel="noopener">https://www.uisa.com.br/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/uisa/" target="_blank" rel="noopener">uisa — 41,674 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~1328 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Usinas Itamarati S.A. (UISA) is a large Brazilian biorefinery in Nova Olímpia, Mato Grosso that produces sugar, ethanol, cogenerated electricity, animal feed and yeast from sugarcane and corn. It is listed as a carbon removal supplier on Puro.earth, where its facility has passed third-party audits and received CORC issuances, but CDR is a small adjacent activity alongside its core sugar/ethanol/energy business.
 
 ![Usinas Itamarati website](/screenshots/usinas-itamarati.png)
+
 
 
 ## History

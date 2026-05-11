@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://aymium.com/" target="_blank" rel="noopener">https://aymium.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aymium/" target="_blank" rel="noopener">aymium — 1,032 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~125 (+4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Aymium is a U.S. biocarbon producer headquartered in Minnesota with 600+ patents and multiple North American production facilities. In December 2025 it formed TerraForge Biocarbon Solutions, a joint venture with Weyerhaeuser, anchored by a ~$100M plant in Magnolia/McComb, Mississippi (online 2027), targeting 1.5 million tons/year of metallurgical-grade biocarbon to replace coal in iron, steel, silicon and ferro-alloys production.
 
 ![Aymium website](/screenshots/aymium.png)
+
 
 
 ## History

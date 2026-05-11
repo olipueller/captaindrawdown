@@ -27,6 +27,7 @@ Carbon Kapture is a UK startup (founded 2020, based in Poole) that partners with
 ![Carbon Kapture website](/screenshots/carbon-kapture.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.geoengineeringmonitor.org/geo-map-biochar-apr25))

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.globalco2initiative.org/" target="_blank" rel="noopener">https://www.globalco2initiative.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/global-co2-initiative/" target="_blank" rel="noopener">global-co2-initiative — 6,757 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+18% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 The Global CO2 Initiative is a University of Michigan research program (housed in the College of Engineering) focused on advancing carbon capture, removal, and utilization technologies through research, education, and methodology development. It is best known for co-developing widely used Techno-Economic Assessment (TEA) and Life Cycle Assessment (LCA) guidelines for CCU/CDR projects, rather than operating physical removal infrastructure itself.
 
 ![Global CO2 Initiative (University of Michigan) website](/screenshots/global-co2-initiative-university-of-michigan.png)
+
 
 
 ## History

@@ -24,6 +24,7 @@ Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of
 ![Alto website](/screenshots/alto.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.opentable.com/altobelis-restaurant-and-piano-bar))

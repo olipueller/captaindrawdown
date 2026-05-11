@@ -27,6 +27,7 @@ Carbon Collect is headquartered in Dublin, Ireland with a wholly owned subsidiar
 ![Carbon Collect website](/screenshots/carbon-collect.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.gasworld.com/story/carbon-collect-targets-lower-cost-direct-air-capture-with-latest-technology-release/2143176.article/))

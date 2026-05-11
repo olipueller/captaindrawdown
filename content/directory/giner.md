@@ -28,6 +28,7 @@ Giner, Inc. (Giner Labs) is a Newton, Massachusetts electrochemical R&D firm fou
 ![Giner website](/screenshots/giner.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.linkedin.com/posts/giner-inc_arpa-e-project-anion-exchange-membrane-activity-7075535683221647360-ML1X?trk=public_profile_like_view))

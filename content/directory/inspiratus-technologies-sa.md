@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://inspiratus.tech/" target="_blank" rel="noopener">https://inspiratus.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inspiratus-tech/" target="_blank" rel="noopener">inspiratus-tech — 1,457 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~350 (+107% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Inspiratus Technologies is a biochar-focused CDR subsidiary of the Belgian agribusiness holding Durabilis Group. In June 2025 it inaugurated a US$3 million industrial biochar plant in Sullana (Piura), Peru, designed to process 40,000 t/year of agricultural residues into 10,000 t/year of biochar, and it is a member of the CDR30 coalition.
 
 ![Inspiratus Technologies SA website](/screenshots/inspiratus-technologies-sa.png)
+
 
 
 ## History

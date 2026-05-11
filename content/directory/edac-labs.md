@@ -28,6 +28,7 @@ EDAC Labs is a Baltimore-based Johns Hopkins spin-out founded in July 2022 that 
 ![EDAC Labs website](/screenshots/edac-labs.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/edac-labs/__M0SdvT2c4Zmc4AU5oeGjM6ENTnBhCGSjD30X_47lbXA))

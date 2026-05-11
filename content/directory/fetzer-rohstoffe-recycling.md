@@ -23,6 +23,7 @@ FETZER Rohstoffe + Recycling GmbH is a recycling company in Eislingen, Germany, 
 
 ![FETZER Rohstoffe + Recycling website](/screenshots/fetzer-rohstoffe-recycling.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth

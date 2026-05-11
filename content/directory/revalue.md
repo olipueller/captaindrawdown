@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.revalue.earth/" target="_blank" rel="noopener">https://www.revalue.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/revalue-nature/" target="_blank" rel="noopener">revalue-nature — 14,668 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~60 (-2% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Revalue Nature is a London-based climate tech company founded in 2022 that provides end-to-end tools and services to nature-based carbon project developers, from project assessment and financing through credit issuance. Its Revalue Verse platform uses LiDAR, eDNA, bioacoustics, remote sensing, and ML-based Earth observation to monitor carbon stocks and biodiversity in reforestation and conservation projects. They raised a $10M Series A in August 2023 led by Ecosystem Integrity Fund and SJF Ventures.
 
 ![Revalue website](/screenshots/revalue.png)
+
 
 ## Registry Memberships
 

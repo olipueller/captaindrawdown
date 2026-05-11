@@ -27,6 +27,7 @@ CleanCapture Tech is an early-stage U.S. direct air capture startup founded in 2
 ![CleanCapture Tech website](/screenshots/cleancapture-tech.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

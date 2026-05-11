@@ -27,6 +27,7 @@ Frontier Infrastructure Holdings (formerly Frontier Carbon Solutions) is a Tailw
 ![Frontier Infrastructure Holdings website](/screenshots/frontier-infrastructure-holdings.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/frontier-unveils-rail-based-carbon-capture-platform-for-us-ethanol-industry/))

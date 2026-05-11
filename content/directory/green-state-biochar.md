@@ -24,6 +24,7 @@ Green State Biochar is a Vermont-based company in Greensboro Bend founded by Rog
 ![Green State Biochar website](/screenshots/green-state-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

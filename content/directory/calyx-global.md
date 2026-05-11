@@ -27,6 +27,7 @@ Calyx Global is an independent carbon credit ratings agency for the voluntary ca
 ![Calyx Global website](/screenshots/calyx-global.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

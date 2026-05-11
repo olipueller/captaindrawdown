@@ -26,6 +26,7 @@ Valiidun is a Lexington, Kentucky-based direct air capture startup founded in 20
 ![Valiidun website](/screenshots/valiidun.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

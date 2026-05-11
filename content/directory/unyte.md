@@ -27,6 +27,7 @@ Unyte Group is a UK-based sustainability holding company headquartered in Market
 ![Unyte website](/screenshots/unyte.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))

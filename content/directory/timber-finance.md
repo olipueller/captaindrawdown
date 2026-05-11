@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://timberfinance.ch/" target="_blank" rel="noopener">https://timberfinance.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/timberfinance/" target="_blank" rel="noopener">timberfinance — 3,242 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~12 (+33% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Timber Finance (Timber Finance Management AG) is a Zurich-based competence center founded in 2021 that develops methodology and financial instruments for mass timber as a carbon storage pathway. They developed the world's first ICROA-compliant VCS methodology for mass timber construction (recognized December 2023), certify building projects, and trade Mass Timber Carbon Removal Credits, partnering with real estate developers, timber construction firms, and forest managers rather than physically performing removals themselves.
 
 ![Timber Finance website](/screenshots/timber-finance.png)
+
 
 ## Registry Memberships
 

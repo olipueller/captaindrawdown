@@ -27,6 +27,7 @@ South Ocean Air is a Houston, Texas-based direct air capture startup founded in 
 ![South Ocean Air website](/screenshots/south-ocean-air.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://miraia.fr/en/home/" target="_blank" rel="noopener">https://miraia.fr/en/home/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mira%c3%afa/" target="_blank" rel="noopener">mira%c3%afa — 652 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Miraïa is a French climate-tech startup founded in May 2023 in Toulouse by Jean Escaffre, developing an innovative wood pyrolysis process to sequester CO₂ and valorize the full set of co-products. The company is building an 800 m² pilot site in Colomiers (Haute-Garonne) with support from AD'OCC and the Occitanie region, and plans nine additional hires there. Carbon credits from its pilot unit are now registered on the Rainbow standard, en route to ICROA certification.
 
 ![Miraïa website](/screenshots/miraïa.png)
+
 
 
 ## History

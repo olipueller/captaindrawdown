@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Ecuador</td></tr>
   <tr><th>Website</th><td><a href="https://nina.energy/en/" target="_blank" rel="noopener">https://nina.energy/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nina-energy/" target="_blank" rel="noopener">nina-energy — 786 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Nina Energy Limited is an Ecuadorian startup (founded 2021, formerly Andes Bioenergy) that designs and deploys proprietary pyrolysis reactors for converting agro-industrial and forestry residues into biochar for permanent carbon removal. In November 2025 it launched a pyrolysis plant near Cotopaxi with German partner atmosfair, and it is part of the remove Cohort 2 accelerator, selling verified biochar carbon credits.
 
 ![Nina Energy website](/screenshots/nina-energy.png)
+
 
 
 ## History

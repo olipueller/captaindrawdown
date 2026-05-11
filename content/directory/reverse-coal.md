@@ -27,6 +27,7 @@ Reverse Coal is a UK biochar CDR pilot operated by Lapwing Energy, the renewable
 ![Reverse Coal website](/screenshots/reverse-coal.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

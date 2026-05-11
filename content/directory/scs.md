@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.scs.earth/" target="_blank" rel="noopener">https://www.scs.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scs-gmbh-stuttgart/" target="_blank" rel="noopener">scs-gmbh-stuttgart — 799 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 SCS GmbH is a Stuttgart-area German startup producing biochar from regional biomass. After a proof-of-concept site in Stuttgart-Obertürkheim, it scaled to a new continuous pyrolysis plant in Leinfelden-Echterdingen running 24/7 to produce roughly 400 tonnes/year of EBC-certified biochar. Applications include soil improvement, urban trees, vineyards, and recycled stadium turf substrate.
 
 ![SCS website](/screenshots/scs.png)
+
 
 
 ## History

@@ -14,9 +14,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.bio-logical.green/" target="_blank" rel="noopener">https://www.bio-logical.green/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bio-logical/" target="_blank" rel="noopener">bio-logical — 5,958 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~125 (+2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -24,6 +25,15 @@ liveliness: "🟢 Active"
 Bio-Logical is a Kenya-based climate tech company producing biochar from agricultural waste at its Kabati facility near Mt. Kenya, claimed to be Africa's largest biochar plant with capacity up to 5,000 tonnes of biochar and 24,000 tonnes of compost annually. The company sells biochar carbon removal credits (including a 2023 Microsoft offtake, the largest biochar CDR deal in Africa) and uses revenue to subsidize its Asili biofertilizer for smallholder farmers.
 
 ![Bio-Logical website](/screenshots/bio-logical.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2024-03-22
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

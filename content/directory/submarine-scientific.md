@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.submarine.earth" target="_blank" rel="noopener">https://www.submarine.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/submarinemrv/" target="_blank" rel="noopener">submarinemrv — 522 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Submarine Scientific (now branded as "Submarine") is a marine consulting firm providing scientific and technical advisory to ocean industries, including marine carbon dioxide removal (mCDR). Services span MRV, environmental monitoring, modeling, and satellite/AI-based ocean data analysis, supporting projects such as ocean alkalinity enhancement standards work.
 
 ![Submarine Scientific website](/screenshots/submarine-scientific.png)
+
 
 ## Registry Memberships
 

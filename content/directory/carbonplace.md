@@ -27,6 +27,7 @@ Carbonplace is a London-based carbon credit transaction and management platform 
 ![Carbonplace website](/screenshots/carbonplace.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

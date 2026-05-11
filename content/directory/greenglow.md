@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Website</th><td><a href="https://greenglow.earth/" target="_blank" rel="noopener">https://greenglow.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenglowasia/" target="_blank" rel="noopener">greenglowasia</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 GreenGlow is a Malaysia-based biochar project developer operating carbon hubs across Southeast Asia that convert agricultural waste and forestry residues into biochar via advanced pyrolysis. In August 2025 the company signed its first offtake agreement with Swiss CDR financier Altitude for 50,000+ tons of CORCs, with credits verified through the Puro.earth registry. The Malaysian entity Green Glow P1 Sdn Bhd operates biochar production facilities with FGV laboratory-tested output.
 
 ![GreenGlow website](/screenshots/greenglow.png)
+
 
 
 ## History

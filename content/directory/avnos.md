@@ -27,6 +27,7 @@ Los Angeles-based Avnos develops Hybrid Direct Air Capture technology that produ
 ![Avnos website](/screenshots/avnos.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.globenewswire.com/news-release/2026/02/06/3233649/28124/en/Direct-Air-Capture-DAC-Market-Report-2025-2035-Collaborations-New-Clusters-and-Upcoming-Projects-Accelerate-Market-Expansion-Across-Key-Regions.html))

@@ -16,10 +16,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.deepskyclimate.com/" target="_blank" rel="noopener">https://www.deepskyclimate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/deep-sky-climate/" target="_blank" rel="noopener">deep-sky-climate — 24,748 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~48 (+39% YoY)</td></tr>
   <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -28,12 +29,25 @@ Deep Sky is a Montreal-based tech-agnostic carbon removal project developer that
 
 ![Deep Sky website](/screenshots/deep-sky.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Direct Air Capture &nbsp;[↗](https://to.isometric.com/prj_1HCHT9G2H1S05MYP)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-10** — news mention: France’s ENGIE Agrees to Buy 15K DAC Carbon Removal Credits From Deep Sky - ([source](https://www.esgtimes.in/climate/carbon/frances-engie-agrees-to-buy-15k-dac-carbon-removal-credits-from-deep-sky/))
+- **2026-05-05** — news mention: Deep Sky, ENGIE Partner to Scale Direct Air Capture Carbon Removal - ESG News ([source](https://esgnews.com/deep-sky-engie-partner-to-scale-direct-air-capture-carbon-removal/))
+- **2026-05-01** — news mention: Deep Sky Announces Partnership to Advance Direct Air Capture with ENGIE – Weekly Voice ([source](https://weeklyvoice.com/deep-sky-announces-partnership-to-advance-direct-air-capture-with-engie/))
+- **2026-05-01** — news mention: Deep Sky and ENGIE Sign Partnership for Up to 15,000 Direct Air Capture Carbon Removal Credits ([source](https://onestopesg.com/esg-news/deep-sky-engie-direct-air-capture-partnership))
 - **2026-05-01** — news mention: Deep Sky Enters DAC-Focused Strategic Partnership With ENGIE  Deep Sky has signed a strategic partne ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkrdzbbq7o27))
 - **2026-05-01** — news mention: Deep Sky Enters DAC-Focused Strategic Partnership With ENGIE  Deep Sky has signed a strategic partne ([source](https://x.com/CaptainDrawdown/status/2050078538355687608))
 - **2026-05-01** — news mention: Higher near-term temps tighten the carbon budget and push more emissions into "residual" territory t ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkr7kfage52g))

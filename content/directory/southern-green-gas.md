@@ -27,6 +27,7 @@ Southern Green Gas (SGG) is an Australian company extracting CO2 from air using 
 ![Southern Green Gas website](/screenshots/southern-green-gas.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://southerngreengas.com.au/news/southern-green-gas-secures-22m-order-to-develop-renewable-methane-demonstration-project))

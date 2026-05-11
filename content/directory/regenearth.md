@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://regenearth.co.uk/" target="_blank" rel="noopener">https://regenearth.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenearth/" target="_blank" rel="noopener">regenearth — 407 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+500% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 ReGenEarth is a UK sustainability venture originating from Stephen Lansdown's Earth Capital that, together with RER, launched a £100 million Green Bond programme to fund the deployment of biochar generation technologies integrated into existing anaerobic digestion and biomass plants. Its first flagship deployment is at Hope Farm in Sedgefield, a 3,500-acre dairy operation, where Onnu's CarboFlow pyrolysis system is being installed alongside the existing AD facility to create a combined renewable energy and carbon removal hub.
 
 ![ReGenEarth website](/screenshots/regenearth.png)
+
 
 
 ## History

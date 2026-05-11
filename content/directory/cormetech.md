@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Direct Air Capture</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cormetech.com/" target="_blank" rel="noopener">https://www.cormetech.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 CORMETECH is a North Carolina-based manufacturer of Selective Catalytic Reduction (SCR) and environmental catalysts for power, industrial, refinery, petrochemical and marine markets, with over 35 years in emissions control. It has leveraged its honeycomb ceramic extrusion expertise to develop custom CO2 adsorbers (CORAL product line) for DAC and point-source capture partners, backed by multiple DOE awards, though carbon capture remains a side-activity to its core SCR catalyst business.
 
 ![CORMETECH website](/screenshots/cormetech.png)
+
 
 ## Registry Memberships
 

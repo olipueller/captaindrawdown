@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cultivo.land/" target="_blank" rel="noopener">https://www.cultivo.land/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cultivo/" target="_blank" rel="noopener">cultivo — 10,208 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~49 (+28% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Cultivo is a California-based Public Benefit Corporation that develops, operates and finances large-scale nature-based carbon removal projects, with a growing focus on U.S. grasslands regeneration alongside afforestation/reforestation, agroforestry, improved forest management, and mangrove restoration. The company combines an AI/geospatial MRV platform with project finance to deliver verified nature-based carbon removal credits to corporate and institutional buyers.
 
 ![Cultivo website](/screenshots/cultivo.png)
+
 
 ## Registry Memberships
 

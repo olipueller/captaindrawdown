@@ -19,6 +19,7 @@ liveliness: "🟢 Active"
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~860 (-9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+  <tr><th>Registry-verified</th><td>Gold Standard · Verra (VCS) <small>(last issuance: 2015-08-24)</small></td></tr>
 </table>
 
 ## About
@@ -26,6 +27,18 @@ liveliness: "🟢 Active"
 South Pole is a Zurich-based climate consultancy and carbon project developer founded in 2006. It advises corporates on net-zero strategies, develops and finances carbon credit projects (forestry, renewables, cookstoves), and brokers credits — it is a carbon markets intermediary rather than a CDR technology supplier. The company has been under scrutiny since 2023 over the integrity of its Kariba REDD+ project.
 
 ![South Pole website](/screenshots/south-pole.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Gold Standard**
+- 1 project · Afforestation + Reforestation · 169,264 tCO₂ issued · 36,551 retired · since 2015-08-24 &nbsp;[↗](https://registry.goldstandard.org/projects?q=gs3565)
+
+**Verra (VCS)**
+- 1 project · Unknown &nbsp;[↗](https://registry.verra.org/app/projectDetail/VCS/4001)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

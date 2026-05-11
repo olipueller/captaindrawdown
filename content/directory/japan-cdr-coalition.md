@@ -25,6 +25,7 @@ The Japan CDR Coalition (J-CDR) is a multi-stakeholder platform launched in Sept
 ![Japan CDR Coalition website](/screenshots/japan-cdr-coalition.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

@@ -27,6 +27,7 @@ Gevo, Inc. (NASDAQ: GEVO) is a US renewable fuels and chemicals company headquar
 
 ![Gevo, Inc. website](/screenshots/gevo-inc.png)
 
+
 ## Registry Memberships
 
 - Puro.earth

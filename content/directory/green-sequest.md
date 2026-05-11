@@ -28,6 +28,7 @@ Green Sequest is a Polish startup founded in 2022 and based in Nasławice that f
 ![Green Sequest website](/screenshots/green-sequest.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://inkoh.swiss/" target="_blank" rel="noopener">https://inkoh.swiss/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inkoh-biochar-and-beyond/" target="_blank" rel="noopener">inkoh-biochar-and-beyond — 788 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -26,8 +26,12 @@ Inkoh AG is a Swiss biochar producer headquartered in Maienfeld, Graubünden, an
 ![Inkoh website](/screenshots/inkoh.png)
 
 
+
 ## History
 
+- **2026-05-05** — news mention: The thing is that as far as I'm concerned and climate hawks like California are doing all we can to  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml33j356ll23))
+- **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week Zuric ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
+- **2026-05-05** — news mention: Okay, I see.  Yeah, assuming that ocean can absorb half of the CO2 that is emitted this year in abou ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml2ycxrhf323))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://inkoh.swiss/ueber-uns/standorte/))

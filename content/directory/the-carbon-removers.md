@@ -27,6 +27,7 @@ The Carbon Removers (formerly Carbon Capture Scotland) is a Scottish CDR company
 ![The Carbon Removers website](/screenshots/the-carbon-removers.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))

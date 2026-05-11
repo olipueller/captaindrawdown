@@ -27,6 +27,7 @@ Substrate Biochar is a UK-registered carbon-removal startup whose leadership com
 ![Substrate Biochar website](/screenshots/substrate-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

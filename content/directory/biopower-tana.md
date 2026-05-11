@@ -24,6 +24,7 @@ Biopower Tana AS is a Norwegian biochar developer founded in 2020, based in Aust
 ![Biopower Tana website](/screenshots/biopower-tana.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

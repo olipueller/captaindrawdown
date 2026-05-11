@@ -28,6 +28,7 @@ ClimatePartner Impact GmbH (CPI) is a Munich-based subsidiary of ClimatePartner 
 ![ClimatePartner Impact website](/screenshots/climatepartner-impact.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://climatepartnerimpact.com/))

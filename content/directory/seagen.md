@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.seagen.io/" target="_blank" rel="noopener">https://www.seagen.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seaweed-generation/" target="_blank" rel="noopener">seaweed-generation — 3,247 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~15 (-17% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 SeaGen (Seaweed Generation Ltd), based in Falmouth, UK and founded in 2021, builds AI-driven solar-powered marine robots — notably the AlgaRay, which scoops up invasive Sargassum seaweed and sinks it to ~200m depth for deep-ocean carbon sequestration, and the AlgaVator for automated seaweed cultivation. The company is venture-backed (Aera VC, Climate Capital, Remove, others), employs ~12-19 people, and has been actively piloting in the Caribbean while developing MRV and monitoring technologies.
 
 ![SeaGen website](/screenshots/seagen.png)
+
 
 ## Registry Memberships
 

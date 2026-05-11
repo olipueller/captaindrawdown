@@ -27,6 +27,7 @@ Carbonified is a Canadian company providing "high-integrity carbon solutions" as
 ![Carbonified website](/screenshots/carbonified.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

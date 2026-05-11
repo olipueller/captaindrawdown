@@ -27,6 +27,7 @@ The Green Branch is an Amsterdam-based impact-first carbon asset developer found
 ![The Green Branch website](/screenshots/the-green-branch.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

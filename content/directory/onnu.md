@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.onnu.com/" target="_blank" rel="noopener">https://www.onnu.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/onnuhq/" target="_blank" rel="noopener">onnuhq — 1,453 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~16 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Onnu is a UK-headquartered project developer and technology provider that builds its own pyrolysis plants and consults on plants for clients across Europe and SE Asia. It operates two commercial arms — Onnu Biochar (EBC-certified biochar retail) and Onnu Bioflow (renewable commodities trading) — and is registered with Puro.earth, with Wye Valley hubs expected to generate hundreds of thousands of CORCs.
 
 ![Onnu website](/screenshots/onnu.png)
+
 
 
 ## History

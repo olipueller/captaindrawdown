@@ -28,6 +28,7 @@ Offset8 Capital is an Abu Dhabi-based proprietary asset management and emissions
 ![Offset8 Capital website](/screenshots/offset8-capital.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -28,6 +28,7 @@ BlueGreen Water Technologies is a US-headquartered (Israel R&D) environmental te
 ![BlueGreen website](/screenshots/bluegreen.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/bluegreen-water-technologies-raises-millions-in-series-b-funding-to-accelerate-water-based-co2-removal-at-scale/))

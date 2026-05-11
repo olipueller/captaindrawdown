@@ -26,6 +26,7 @@ Carboneyes is a UK-based biochar carbon removal company that pyrolyzes waste sug
 ![Carboneyes website](/screenshots/carboneyes.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

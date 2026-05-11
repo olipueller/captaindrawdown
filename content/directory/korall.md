@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.korall.cc/" target="_blank" rel="noopener">https://www.korall.cc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/korallcc/" target="_blank" rel="noopener">korallcc — 761 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 KORALL is a Swedish DAC startup whose liquid Direct Air Carbon Capture plant dynamically scales its power consumption based on when energy is cheap or in surplus, turning grid overcapacity into carbon credits or feedstock for renewable fuels. The company uses a proprietary chemical blend to absorb CO₂ from ambient air, then either stores the carbon underground where it mineralizes in bedrock or uses it to make products. Based in Gothenburg, the company was selected into remove's Europe CDR Accelerator Cohort 8 in late 2025.
 
 ![KORALL website](/screenshots/korall.png)
+
 
 
 ## History

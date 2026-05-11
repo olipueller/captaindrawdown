@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://watershed.com/" target="_blank" rel="noopener">https://watershed.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/watershedclimate/" target="_blank" rel="noopener">watershedclimate — 72,687 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~603 (+5% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Watershed is an enterprise sustainability software platform that helps companies measure, report, and reduce emissions, and operates a curated marketplace of vetted carbon removal projects (DAC, bio-oil, biochar, ERW, reforestation, and more) that its enterprise customers can purchase from. Watershed does not physically remove CO2; it acts as an accounting platform and marketplace intermediary in the CDR ecosystem. Customers include Walmart, Airbnb, Stripe, Klarna, and Block.
 
 ![Watershed website](/screenshots/watershed.png)
+
 
 ## Registry Memberships
 

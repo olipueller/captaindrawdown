@@ -28,6 +28,7 @@ Decahydron is an Irish startup developing an integrated natural hydrogen extract
 ![Decahydron website](/screenshots/decahydron.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

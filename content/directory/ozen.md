@@ -25,6 +25,7 @@ OZEN Sp. z o.o. (OZEN Plus) is a Polish charcoal manufacturer in Wałcz operatin
 ![Ozen website](/screenshots/ozen.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

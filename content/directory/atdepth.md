@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://atdepthmrv.com/" target="_blank" rel="noopener">https://atdepthmrv.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atdepth-mrv/" target="_blank" rel="noopener">atdepth-mrv — 403 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 atdepth MRV is a Cambridge, Massachusetts-based MIT spin-off providing Monitoring, Reporting and Verification (MRV) services to the marine carbon dioxide removal (mCDR) industry. The company combines GPU-based multi-scale ocean and biogeochemical modeling with monitoring data to quantify ocean carbon removal for mCDR project developers. It is funded by the US DOE ARPA-E SEA-CO2 program and has partnered with Deep Sky to monitor direct ocean capture operations in Canada.
 
 ![atdepth website](/screenshots/atdepth.png)
+
 
 
 ## History

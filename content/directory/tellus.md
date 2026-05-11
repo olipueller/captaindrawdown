@@ -24,6 +24,7 @@ Tellus is a Brazilian climate-tech company transforming biomass residues into bi
 ![Tellus website](/screenshots/tellus.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

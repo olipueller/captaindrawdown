@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.sinkcolabs.com/" target="_blank" rel="noopener">https://www.sinkcolabs.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sinkco-labs/" target="_blank" rel="noopener">sinkco-labs — 1,111 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~6 (-25% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Sinkco Labs is a US-based marine CDR startup developing a micro-injection system that embeds waste biomass into anoxic marine sub-sediments for permanent carbon storage. The company was selected for the Breakthrough Energy Fellows Program and co-developed the Rainbow Standard's Marine Sub-Sediment Burial (MSSB) methodology. Their approach also aims to rebuild coastal marshland and improve shoreline resilience alongside carbon sequestration.
 
 ![Sinkco Labs website](/screenshots/sinkco-labs.png)
+
 
 ## Registry Memberships
 

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://vitalindustries.com.au/" target="_blank" rel="noopener">https://vitalindustries.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vitalchemical/" target="_blank" rel="noopener">vitalchemical — 2,328 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~46 (+28% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Vital Chemical is a ~50-year-old Australian environmental products manufacturer based in Darra, Queensland, whose core business is erosion control, dust suppression, water treatment, and revegetation for mining, civil construction, and infrastructure sectors. Vital Biochar, pyrolyzed from reclaimed construction timber and forestry residues, is one product within a broader portfolio and is often blended into their hydromulch and revegetation products (e.g. VE Char-Matt). The company would continue to exist without the biochar line.
 
 ![Vital Chemical website](/screenshots/vital-chemical.png)
+
 
 
 ## History

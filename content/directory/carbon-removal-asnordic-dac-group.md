@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonremoval.no/" target="_blank" rel="noopener">https://www.carbonremoval.no/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal/" target="_blank" rel="noopener">carbon-removal</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Carbon Removal AS is a Norwegian project development company focused exclusively on large-scale Direct Air Capture. Through its subsidiary NorDAC Kollsnes AS, it signed a July 2025 agreement with German DAC technology provider Phlair to develop what is billed as Europe's first large-scale DAC and geologic storage project, starting at 60,000 tpa and scaling to 500,000 tpa, co-located with the Northern Lights CO2 storage terminal in Øygarden.
 
 ![Carbon Removal AS/Nordic DAC Group website](/screenshots/carbon-removal-asnordic-dac-group.png)
+
 
 
 ## History

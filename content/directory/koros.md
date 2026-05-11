@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Philippines</td></tr>
   <tr><th>Website</th><td><a href="https://koros.earth/" target="_blank" rel="noopener">https://koros.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/koros-biochar/" target="_blank" rel="noopener">koros-biochar — 157 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟡 Moderate"
 Koros is a Philippines-based biochar venture, spun out of Freya (a Spanish-Filipino renewable-energy consultancy), that converts local biomass into biochar via pyrolysis at a facility in Camiguin Province. The company partners with the University of the Philippines Los Baños (UPLB) and the Provincial Government of Camiguin on biochar-based biofertilizers, rural energy, and biochar-enhanced cement and metallurgical applications.
 
 ![Koros website](/screenshots/koros.png)
+
 
 
 ## History

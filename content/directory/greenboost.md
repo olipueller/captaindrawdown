@@ -27,6 +27,7 @@ GreenBoost is an Italian consultancy offering carbon removal project due diligen
 ![GreenBoost website](/screenshots/greenboost.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

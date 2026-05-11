@@ -28,6 +28,7 @@ EcoAct, founded in France in 2006, was an international climate consultancy and 
 ![EcoAct website](/screenshots/ecoact.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://edscleanenergysustainabilityjobs.com/eds-clean-energy-sustainability-jobs-list-12-08-24/))

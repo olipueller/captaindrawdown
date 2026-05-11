@@ -25,6 +25,7 @@ Pelican Renewables LLC is a Stockton, California venture developing the Pelican 
 ![Pelican Renewables website](/screenshots/pelican-renewables.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://www.kanadevia.com/english/" target="_blank" rel="noopener">https://www.kanadevia.com/english/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Kanadevia Corporation (formerly Hitachi Zosen, rebranded October 2024) is a large Japanese industrial engineering conglomerate headquartered in Osaka with about 13,000 employees and JPY 610 billion in FY2024 revenue, with core businesses in waste-to-energy plants, machinery, infrastructure, hydrogen systems, and biogas. Through its Swiss subsidiary Kanadevia Inova, it supplies amine-scrubbing carbon capture technology as an EPC contractor for waste-to-energy plants — including the UK's first full-scale WtE CCS project at the Protos Energy Recovery Facility (notice-to-proceed October 2025, handover mid-2029). Carbon capture is an adjacent offering bolted onto its core WtE business rather than the company's primary purpose.
 
 ![Kanadevia website](/screenshots/kanadevia.png)
+
 
 
 ## History

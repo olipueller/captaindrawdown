@@ -24,6 +24,7 @@ FS (FS Agrisolutions / FS Bioenergia) is Brazil's fourth-largest ethanol produce
 ![FS website](/screenshots/fs.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/fs-paves-the-way-for-beccs-and-carbon-negative-ethanol-production/))

@@ -26,6 +26,7 @@ Carbon Remove is a small Brazilian biochar startup founded in 2022 and based at 
 ![Carbon Remove website](/screenshots/carbon-remove.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

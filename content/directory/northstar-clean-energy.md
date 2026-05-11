@@ -26,6 +26,7 @@ NorthStar Clean Energy is a wholly owned unregulated subsidiary of CMS Energy (N
 ![NorthStar Clean Energy website](/screenshots/northstar-clean-energy.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/northstarcleanenergy/__21wCHSYa3jZVH7X4S9fEwqmCdanhA4k1DbMbmjF2qQE))

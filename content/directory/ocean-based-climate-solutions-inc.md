@@ -27,6 +27,7 @@ Ocean-based Climate Solutions, Inc. (now rebranded as The Sea Upwelling Company 
 ![Ocean-based Climate Solutions, Inc. website](/screenshots/ocean-based-climate-solutions-inc.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal

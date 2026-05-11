@@ -16,9 +16,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://oco.co.uk/" target="_blank" rel="noopener">https://oco.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/o-c-o-technology-ltd/" target="_blank" rel="noopener">o-c-o-technology-ltd — 2,999 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~61 (+24% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ liveliness: "🟢 Active"
 O.C.O Technology is a UK-based carbon mineralization company headquartered in Brandon, Suffolk, operating multiple plants that use Accelerated Carbonation Technology (ACT) to react CO2 with air pollution control residues from energy-from-waste facilities, producing carbon-negative manufactured limestone (M-LS) aggregate for construction. Originally Carbon8 Aggregates, it operates as a subsidiary of Grundon Waste Management, with CDR/carbon-negative aggregate production as its sole operational purpose.
 
 ![O.C.O Technology website](/screenshots/oco-technology.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 3 projects · Carbonated Materials · since 2021-09-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/avonmouth-production-facility-62)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

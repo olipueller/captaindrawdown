@@ -14,10 +14,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://takachar.com/" target="_blank" rel="noopener">https://takachar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/takachar/" target="_blank" rel="noopener">takachar — 6,593 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~24 (+9% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 Takachar is an MIT spin-off social enterprise that builds small-scale, portable thermochemical reactors (Takavator and T1000) that mount on tractors/pickups to convert crop and forest residues into biochar at the point of production. The company commercially launched its Takavator in October 2025 and has deployments across the US, Canada, India, Kenya and elsewhere, selling biochar carbon removal credits to buyers including Klarna and WRLD Foundation via Milkywire.
 
 ![Takachar website](/screenshots/takachar.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2023-11-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/usa-184)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

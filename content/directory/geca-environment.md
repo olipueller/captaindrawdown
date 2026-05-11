@@ -28,6 +28,7 @@ GECA Environnement is a Quebec City-based consulting firm specializing in biocha
 ![GECA Environment website](/screenshots/geca-environment.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

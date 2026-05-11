@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://yamacarbon.com/" target="_blank" rel="noopener">https://yamacarbon.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Paris-based Yama Carbon is developing a DAC system using an electrochemical approach to capture CO2 with a combination of pH changes and low-grade heat. It operates a small pilot near Paris capturing around 25 tonnes of CO2 per year, at less than 1,500 kWh per tonne. It plans a first-of-a-kind commercial plant around 2030 at roughly 50,000 t/yr, targeting locations near geological storage in the Nordics, Denmark, Canada, or the Middle East.
 
 ![Yama website](/screenshots/yama.png)
+
 
 ## Registry Memberships
 

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://sequestra.tech/" target="_blank" rel="noopener">https://sequestra.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sequestra-tech/" target="_blank" rel="noopener">sequestra-tech — 1,455 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~14 (+180% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Sequestra is a Vienna-based climate tech startup founded in 2024 that develops accelerated carbonation technology to permanently bind CO2 in industrial residues such as steel slag, biomass ash, incineration ash, and demolition debris. The resulting carbonates can be reused as construction materials. In March 2026 the company closed a €3M seed round led by VSE Beteiligungs-GmbH, targeting deployment of its first modular containerized mineralization plant by the end of 2027.
 
 ![Sequestra website](/screenshots/sequestra.png)
+
 
 
 ## History

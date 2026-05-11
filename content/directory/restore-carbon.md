@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://restorecarbon.eu/" target="_blank" rel="noopener">https://restorecarbon.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/re-store-carbon/" target="_blank" rel="noopener">re-store-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟡 Moderate"
 Restore Carbon is a Netherlands-based CDR startup developing a patented peatland-based carbon removal method that stores plant biomass below the peatland water table, where anaerobic conditions prevent decomposition. The company targets permanent CO₂ removal while restoring peatland ecosystems and is partnering with research institutions (including in Ireland) to validate the approach.
 
 ![Restore Carbon website](/screenshots/restore-carbon.png)
+
 
 
 ## History

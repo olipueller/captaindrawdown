@@ -28,6 +28,7 @@ Weyerhaeuser (NYSE: WY) is one of the world's largest private timberland REITs, 
 ![Weyerhaeuser website](/screenshots/weyerhaeuser.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

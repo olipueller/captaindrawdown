@@ -27,6 +27,7 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 ![Senken website](/screenshots/senken.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

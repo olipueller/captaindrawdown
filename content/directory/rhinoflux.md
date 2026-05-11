@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://rhinoflux.com" target="_blank" rel="noopener">https://rhinoflux.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rhinoflux/" target="_blank" rel="noopener">rhinoflux — 172 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Rhinoflux is a seed-stage company based in Kyoto, Japan, founded in 2024, that operates as a provider of CO2 capture and utility solutions and has raised $1.83M in funding. The company aims to develop and commercialize biomass energy and carbon capture plants, along with their core modular units, using its wet chemical looping technology. Coca-Cola Bottlers Japan began a demonstration experiment at its Kyoto plant in 2025, aiming to generate clean electricity and capture high-purity CO₂ from biomass derived from tea leaves and coffee grounds.
 
 ![Rhinoflux website](/screenshots/rhinoflux.png)
+
 
 
 ## History

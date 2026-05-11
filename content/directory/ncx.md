@@ -28,6 +28,7 @@ NCX (Natural Capital Exchange), formerly SilviaTerra, is a US-based platform tha
 ![NCX website](/screenshots/ncx.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.indigoag.com/" target="_blank" rel="noopener">https://www.indigoag.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/indigoag/" target="_blank" rel="noopener">indigoag — 92,608 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~346 (-0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Indigo Ag is a US-based sustainable agriculture company whose core business is biotrinsic natural microbial seed/foliar treatments and agronomic technology for farmers and agribusinesses. Alongside this, its subsidiary Indigo Carbon PBC runs the Carbon by Indigo soil carbon credit program; since 2018 Indigo has enrolled more than 8 million acres across 28 states, sequestering and abating 2.1 million metric tons of CO₂e, with buyers including Microsoft, Block, JPMorgan, Shopify and Barclays.
 
 ![Indigo website](/screenshots/indigo.png)
+
 
 ## Registry Memberships
 

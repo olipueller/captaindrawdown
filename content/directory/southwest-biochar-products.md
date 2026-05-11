@@ -26,6 +26,7 @@ Southwest Biochar Products (SOWBiochar) is an Arizona-based biochar producer in 
 ![Southwest Biochar Products website](/screenshots/southwest-biochar-products.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

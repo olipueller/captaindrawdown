@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.awn-online.de/" target="_blank" rel="noopener">https://www.awn-online.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kwin-kreislaufwirtschaft-neckar-odenwald-a%c3%b6r/" target="_blank" rel="noopener">kwin-kreislaufwirtschaft-neckar-odenwald-a%c3%b6r — 28 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 AWN (Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH) is a municipal waste-management utility for the Neckar-Odenwald district in Baden-Württemberg, Germany. At its Biomassezentrum at the Sansenhecken disposal site in Buchen, it operates a Pyreg pyrolysis unit that converts the woody fraction of regional green waste into biochar (Pflanzenkohle), which is sold directly or blended into Terra Preta substrates and compost. Waste management is the primary business; biochar production is an adjacent valorization side-stream.
 
 ![AWN website](/screenshots/awn.png)
+
 
 
 ## History

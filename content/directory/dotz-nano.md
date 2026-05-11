@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://dotz.tech/" target="_blank" rel="noopener">https://dotz.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dotznano/" target="_blank" rel="noopener">dotznano — 3,061 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~19 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Dotz Nano (ASX: DTZ) is an Israeli-Australian nanomaterials and specialty chemistry company with two main product lines: DotzShield (in-product tagging for oil & gas corrosion monitoring) and DotzEarth (nano-porous and polymer-based solid sorbents for DAC and point-source carbon capture). They supply sorbent material to DAC developers — including a 2025 MoU with CarbonCapture Inc. — rather than operating capture plants themselves.
 
 ![Dotz Nano website](/screenshots/dotz-nano.png)
+
 
 
 ## History

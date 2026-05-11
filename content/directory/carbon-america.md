@@ -27,6 +27,7 @@ Carbon America is a Colorado-based vertically integrated CCS developer that fina
 ![Carbon America website](/screenshots/carbon-america.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.climatory.com/company/carbon-america))

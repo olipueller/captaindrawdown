@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://norlights.com" target="_blank" rel="noopener">https://norlights.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northern-lights-jv/" target="_blank" rel="noopener">northern-lights-jv — 25,881 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~49 (+27% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEnergies that provides commercial CO2 transport and permanent geological storage as a service from its Øygarden, Norway terminal, injecting CO2 into a reservoir 2,600 m below the North Sea seabed. Phase 1 (1.5 Mt/yr capacity) began operations in August 2025 with CO2 from Heidelberg Materials' Brevik cement plant, and Phase 2 (expanding to 5+ Mt/yr by 2028) reached FID in March 2025 following a 15-year contract with Stockholm Exergi for 900,000 t/yr of biogenic CO2 from its BECCS facility.
 
 ![Northern Lights website](/screenshots/northern-lights.png)
+
 
 
 ## History

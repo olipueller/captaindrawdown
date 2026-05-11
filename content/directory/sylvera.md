@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.sylvera.com/" target="_blank" rel="noopener">https://www.sylvera.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sylveracarbon/" target="_blank" rel="noopener">sylveracarbon — 44,719 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~149 (-3% YoY)</td></tr>
   <tr><th>Open roles</th><td>7 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Sylvera is a UK-based carbon credit ratings and data platform that independently assesses carbon project quality using geospatial analytics, machine learning and field data. The company offers geospatial analytics, ratings, market data, and carbon intensity assessments for project developers, corporate buyers, investors, and governments, and in 2026 expanded into carbon-differentiated commodity markets for hydrogen, ammonia and cement.
 
 ![Sylvera website](/screenshots/sylvera.png)
+
 
 ## Registry Memberships
 

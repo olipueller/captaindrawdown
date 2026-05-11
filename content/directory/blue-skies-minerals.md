@@ -27,6 +27,7 @@ Blue Skies Minerals is a Berlin-based startup developing the Carbonated Tailings
 ![Blue Skies Minerals website](/screenshots/blue-skies-minerals.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

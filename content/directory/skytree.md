@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://skytree.tech/" target="_blank" rel="noopener">https://skytree.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/skytree/" target="_blank" rel="noopener">skytree — 17,107 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~150 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Skytree is a Dutch direct air capture technology company founded in 2014 in Amsterdam, with offices in Toronto and Nashville. It builds modular, solid-sorbent DAC machines (Cumulus and Stratus lines) for greenhouse/industrial CO₂ supply and large-scale permanent removal, and is the DAC technology partner on the Texas DAC park being developed with EDF Renewables and Return Carbon targeting 500,000 tonnes/year.
 
 ![Skytree website](/screenshots/skytree.png)
+
 
 ## Registry Memberships
 

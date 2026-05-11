@@ -14,9 +14,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Tanzania</td></tr>
   <tr><th>Website</th><td><a href="https://www.darkearthcarbon.com/" target="_blank" rel="noopener">https://www.darkearthcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dark-earth-carbon/" target="_blank" rel="noopener">dark-earth-carbon — 849 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~125 (+23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -24,6 +25,15 @@ liveliness: "🟢 Active"
 Dark Earth Carbon (DEC) is a Tanzanian biochar producer operating a rotary-kiln pyrolysis plant in Iringa that processes approximately 8,000 tonnes of wood waste per year, in partnership with German climate organization atmosfair. The company delivered what it describes as the first industrial biochar carbon removals in East Africa via the CSI Registry, and is planning a second plant in Mafinga.
 
 ![Dark Earth Carbon website](/screenshots/dark-earth-carbon.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar &nbsp;[↗](https://to.isometric.com/prj_1K6G4S1PJ1S0TR4Z)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

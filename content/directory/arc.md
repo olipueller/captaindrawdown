@@ -25,6 +25,7 @@ ARC (Amager Resource Center) is a Danish inter-municipal waste management compan
 ![ARC website](/screenshots/arc.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://a-r-c.dk/klima-og-miljo/co2-fangst/arc-og-carbon-capture/))

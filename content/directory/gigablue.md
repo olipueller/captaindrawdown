@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.gigablue.co/" target="_blank" rel="noopener">https://www.gigablue.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gigatontech/" target="_blank" rel="noopener">gigatontech — 3,936 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~34</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,12 +27,15 @@ Founded in 2022, Gigablue develops and deploys a marine carbon removal pathway b
 
 ![Gigablue website](/screenshots/gigablue.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
+- **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that DACCS ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.gigablue.co/news/skiesfifty-200kton-carboncredit-announcement-gigablue))

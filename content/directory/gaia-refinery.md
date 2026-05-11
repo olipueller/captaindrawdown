@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.gaiarefinery.com/" target="_blank" rel="noopener">https://www.gaiarefinery.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gaia-refinery/" target="_blank" rel="noopener">gaia-refinery — 649 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Gaia Refinery is a Halifax-based carbon removal startup founded in 2020 by Dr. Tammy Cai (CTO) and Genny Shaw (CEO). Its Bio-DAC plug-in technology combines liquid direct air capture with biomass conversion, using acetic acid produced from bio-industrial waste streams to regenerate the DAC sorbent, reducing energy demand versus conventional DAC. The company targets bio-industrial customers like pulp and paper, ethanol, and forestry for drop-in carbon removal integration.
 
 ![Gaia Refinery website](/screenshots/gaia-refinery.png)
+
 
 
 ## History

@@ -28,6 +28,7 @@ Viktor Goes Green is a Belgian green-energy company founded in 2011/2015 by Marc
 ![Viktor G.BV website](/screenshots/viktor-gbv.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

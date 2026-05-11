@@ -27,6 +27,7 @@ Bret Consultores SAPI de CV is a Mexico-based forestry carbon project developer 
 ![Bret Consultores SAPI website](/screenshots/bret-consultores-sapi.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

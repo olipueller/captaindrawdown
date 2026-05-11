@@ -28,6 +28,7 @@ Equinor is a Norwegian state-majority-owned international energy major (oil, gas
 ![Equinor/Rolls Royce website](/screenshots/equinorrolls-royce.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))

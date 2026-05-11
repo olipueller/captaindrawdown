@@ -27,6 +27,7 @@ Thallo is a London-based climate-tech startup founded in 2021 that provides a bl
 ![Thallo website](/screenshots/thallo.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

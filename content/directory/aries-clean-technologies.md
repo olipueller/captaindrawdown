@@ -27,6 +27,7 @@ Aries Clean Technologies, based in Franklin, Tennessee, designs, builds, and ope
 ![Aries Clean Technologies website](/screenshots/aries-clean-technologies.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.mainepublic.org/environment-and-outdoors/2026-02-24/sanford-could-host-sludge-processing-plant))

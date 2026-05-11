@@ -16,11 +16,12 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://climeworks.com/" target="_blank" rel="noopener">https://climeworks.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climeworks/" target="_blank" rel="noopener">climeworks — 115,515 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~401 (-21% YoY)</td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -29,6 +30,16 @@ Swiss pioneer of solid-sorbent Direct Air Capture, operating the Orca (4,000 t/y
 
 ![Climeworks website](/screenshots/climeworks.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Geologically stored carbon · since 2023-12-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/orca-plant-97)
+- 1 project · Geologically stored carbon, 2024 · since 2024-06-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/mammoth-117)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Puro.earth
@@ -36,6 +47,18 @@ Swiss pioneer of solid-sorbent Direct Air Capture, operating the Orca (4,000 t/y
 
 ## History
 
+- **2026-05-10** — news mention: Japan Advances Synthetic Fuel Production With New Demonstration Plant ([source](https://www.moroccoworldnews.com/2026/05/296067/japan-advances-synthetic-fuel-production-with-new-demonstration-plant/))
+- **2026-05-06** — news mention: Climeworks signs first AI carbon removal deal | Carbon Dioxide | gasworld ([source](https://www.gasworld.com/story/climeworks-signs-first-ai-carbon-removal-deal/2248623.article/))
+- **2026-05-06** — news mention: “Sustainability is not compliance; sustainability is value”.
+David Costa’s words captured the spirit ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457437804365717504/))
+- **2026-05-05** — news mention: Going from ~420 to 300 ppm means removing roughly 250 GtCO2. At today's DAC energy use (~2 MWh/ton), ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml444iq3ul2z))
+- **2026-05-05** — news mention: NTT Data taps Climeworks to address residual emissions - The Tech Capital ([source](https://thetechcapital.com/ntt-data-taps-climeworks-to-address-residual-emissions/))
+- **2026-05-03** — news mention: Directory feature: cdr-shops.com lists every durable CDR provider that will actually sell you small  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkwvlan2ol2v))
+- **2026-05-03** — news mention: Directory feature: https://t.co/fG4sjJDt5e lists every durable CDR provider that will actually sell  ([source](https://x.com/CaptainDrawdown/status/2050878236851089732))
+- **2026-05-01** — news mention: Heirloom Carbon Capture 2026 targets below $108/ton ([source](https://enkiai.com/carbon-capture/dac-companies-cost-per-ton/))
+- **2026-05-01** — news mention: NTT Data inks carbon removal portfolio deal with Climeworks - DCD ([source](https://www.datacenterdynamics.com/en/news/ntt-data-inks-carbon-removal-portfolio-deal-with-climeworks/))
+- **2026-05-01** — news mention: NTT DATA partners Climeworks on carbon removal credits ([source](https://datacenternews.asia/story/ntt-data-partners-climeworks-on-carbon-removal-credits))
+- **2026-05-01** — news mention: Climeworks And NTT DATA Strike Landmark Carbon Removal Deal ([source](https://carbonherald.com/climeworks-and-ntt-data-strike-landmark-carbon-removal-deal/?utm_source=rss&utm_medium=rss&utm_campaign=climeworks-and-ntt-data-strike-landmark-carbon-removal-deal))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-30** — news mention: RT @Climeworks: Today, we’re excited to announce a partnership with @nttdata_inc. @Climeworks will s ([source](https://x.com/geoengineering1/status/2049899722366923042))
@@ -55,14 +78,6 @@ Swiss pioneer of solid-sorbent Direct Air Capture, operating the Orca (4,000 t/y
 - **2026-04-19** — merged 1 duplicate(s): Climeworks Solutions
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://climeworks.com/news/climeworks-establishes-canadian-headquarters-in-calgary))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://climeworks.com/ ([source](https://www.cdr.fyi/marketplace/climeworks))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/climeworks))
-- **** — merged duplicate: Climeworks Solutions (slug=climeworks-solutions)
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://climeworks.com/news/climeworks-establishes-canadian-headquarters-in-calgary))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://climeworks.com/news/climeworks-establishes-canadian-headquarters-in-calgary))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

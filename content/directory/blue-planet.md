@@ -27,6 +27,7 @@ Blue Planet Systems is a Silicon Valley-based carbon capture and mineralization 
 ![Blue Planet website](/screenshots/blue-planet.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))

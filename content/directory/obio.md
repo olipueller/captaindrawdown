@@ -25,6 +25,7 @@ OBIO AS is a Norwegian biochar company that built and operates the first industr
 
 ![OBIO website](/screenshots/obio.png)
 
+
 ## Registry Memberships
 
 - Puro.earth

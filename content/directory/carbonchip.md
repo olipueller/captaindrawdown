@@ -26,6 +26,7 @@ Carbonchip is a small Brisbane-based biochar manufacturer, established in 2020, 
 ![CarbonChip website](/screenshots/carbonchip.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

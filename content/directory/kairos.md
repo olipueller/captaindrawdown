@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.kairoscarbon.com/" target="_blank" rel="noopener">https://www.kairoscarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kairos-carbon/" target="_blank" rel="noopener">kairos-carbon — 799 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Kairos Carbon, founded in 2024 and headquartered in Ingatestone, United Kingdom, is a CDR pure-play developing a novel supercritical water oxidation process for durable carbon removal. Its advanced hydrothermal processing system turns biogenic carbon from difficult-to-treat waste feedstocks into CO2, clean water and valuable minerals, with the CO2 permanently stored underground in exchange for carbon credits and phosphorus recovered as fertiliser.
 
 ![Kairos website](/screenshots/kairos.png)
+
 
 
 ## History

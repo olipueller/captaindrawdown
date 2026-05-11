@@ -27,6 +27,7 @@ BELOW2 Inc. is a San Francisco-based startup (with German founders) that operate
 ![BELOW2 Inc. website](/screenshots/below2-inc.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

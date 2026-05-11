@@ -24,6 +24,7 @@ EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is the municipal
 ![EAD website](/screenshots/ead.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.hortidaily.com/article/9662190/ead-and-icba-forge-new-partnership-to-bolster-abu-dhabi-s-sustainability-goals/))

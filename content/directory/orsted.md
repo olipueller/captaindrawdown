@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 
 ![Orsted website](/screenshots/orsted.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth

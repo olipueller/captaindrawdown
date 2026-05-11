@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.fluxcarbon.earth/" target="_blank" rel="noopener">https://www.fluxcarbon.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/flux-earth/" target="_blank" rel="noopener">flux-earth — 3,483 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+10% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basalt on farmland in Kenya while providing free rock-powder fertilizer to smallholder farmers. The company sold Africa's first ERW carbon removal credits in 2024 (540 tons pre-sold to Milkywire via the CYNK platform) and is expanding to Cameroon (205,000-hectare maize project) and Nigeria.
 
 ![Flux website](/screenshots/flux.png)
+
 
 
 ## History

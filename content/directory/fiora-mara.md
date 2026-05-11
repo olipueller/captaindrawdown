@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://fioramara.com/" target="_blank" rel="noopener">https://fioramara.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fiora-mara/" target="_blank" rel="noopener">fiora-mara — 187 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+150% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Fiora Mara is an early-stage New York–based marine CDR startup founded in 2024 that builds biodegradable seaweed farms designed to auto-sink matured kelp biomass to the deep ocean for long-term carbon sequestration. The company emerged from the ClimateBase Fellowship and has participated in AirMiners Launchpad and VentureWell accelerators, operating a seaweed hatchery and pilot farm with the RETI Center. It plans to sell carbon credits from sunk seaweed biomass.
 
 ![Fiora Mara website](/screenshots/fiora-mara.png)
+
 
 
 ## History

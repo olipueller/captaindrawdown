@@ -26,6 +26,7 @@ Atmoz Restore AB is the carbon-credit/offset arm of the Swedish Atmoz group (par
 ![Atmoz Restore AB website](/screenshots/atmoz-restore-ab.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -14,9 +14,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Bolivia</td></tr>
   <tr><th>Website</th><td><a href="https://www.exomadgreen.com/" target="_blank" rel="noopener">https://www.exomadgreen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exomad-green/" target="_blank" rel="noopener">exomad-green — 7,664 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~125 (+40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ Exomad Green is a specialized division of Exomad, the largest wood exporter in B
 
 ![Exomad Green website](/screenshots/exomad-green.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 2 projects · Biochar, 2022 · since 2023-04-03 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/concepcion-1-51)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - [CDR.fyi](https://www.cdr.fyi/supplier/exomad-green)
@@ -32,6 +42,7 @@ Exomad Green is a specialized division of Exomad, the largest wood exporter in B
 
 ## History
 
+- **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-20** — news mention: Exomad Green, Supercritical Sign 500,000-Ton Biochar Carbon Removal Agreement - ESG Today ([source](https://www.esgtoday.com/exomad-green-supercritical-sign-500000-ton-biochar-carbon-removal-agreement/))

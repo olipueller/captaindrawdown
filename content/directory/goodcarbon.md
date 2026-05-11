@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.goodcarbon.earth/" target="_blank" rel="noopener">https://www.goodcarbon.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/goodcarbon/" target="_blank" rel="noopener">goodcarbon — 11,192 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~22 (-8% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 goodcarbon is a Berlin-based platform founded in 2021 by Jérôme Cochet and David Diallo that helps companies build and manage carbon credit portfolios sourced from Nature-based Solutions projects. The company offers advisory, project development support, and a proprietary Nature Analytics Framework for assessing climate, biodiversity, and social impact, and has partnered with firms such as Bechtle and Swiss Re Corporate Solutions (on forward-credit insurance).
 
 ![goodcarbon website](/screenshots/goodcarbon.png)
+
 
 ## Registry Memberships
 

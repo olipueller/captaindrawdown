@@ -27,6 +27,7 @@ SQUAKE is a Berlin-based climate tech company providing an API-based platform fo
 ![SQUAKE website](/screenshots/squake.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

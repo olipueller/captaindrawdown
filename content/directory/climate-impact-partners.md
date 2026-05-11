@@ -27,6 +27,7 @@ Climate Impact Partners is a UK/US-based voluntary carbon market specialist form
 ![Climate Impact Partners website](/screenshots/climate-impact-partners.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

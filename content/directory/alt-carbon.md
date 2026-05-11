@@ -15,10 +15,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://altcarbon.com/" target="_blank" rel="noopener">https://altcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alt-carbon/" target="_blank" rel="noopener">alt-carbon — 38,626 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~40 (+155% YoY)</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-04-29)</small></td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ liveliness: "🟢 Active"
 Alt Carbon is an India-based CDR startup founded in 2023 by brothers Shrey and Sparsh Agarwal that deploys Enhanced Rock Weathering by spreading waste basalt rock dust on tea, rice, and bamboo farms in the Darjeeling/Rajmahal region. The company raised a $12M seed round in May 2025 and has secured agreements with Frontier, NextGen (South Pole/Mitsubishi), and MOL Group, with credits issued via Isometric.
 
 ![Alt Carbon website](/screenshots/alt-carbon.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 3 projects · Rock Weathering · 9,566 tCO₂ issued · since 2025-11-14 &nbsp;[↗](https://to.isometric.com/prj_1JYCV03BW1S0RTE5)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

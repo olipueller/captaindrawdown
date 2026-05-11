@@ -28,6 +28,7 @@ The U.S. Biochar Coalition (USBC) is a Washington, DC-based industry trade assoc
 ![US Biochar Coalition (USBC) website](/screenshots/us-biochar-coalition-usbc.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

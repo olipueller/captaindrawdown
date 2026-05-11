@@ -26,6 +26,7 @@ OLNEO is a Paris-based climate deeptech startup developing biochar carbon remova
 ![OLNEO website](/screenshots/olneo.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

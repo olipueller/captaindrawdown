@@ -26,6 +26,7 @@ Applied Gaia Corporation is a Houston, Texas-based pyrolysis technology manufact
 ![Applied Gaia website](/screenshots/applied-gaia.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

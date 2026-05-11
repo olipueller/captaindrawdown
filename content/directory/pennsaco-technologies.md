@@ -26,6 +26,7 @@ Pennsaco Technologies is a Radnor, Pennsylvania company (founded 2018) developin
 ![PENNSACO TECHNOLOGIES website](/screenshots/pennsaco-technologies.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

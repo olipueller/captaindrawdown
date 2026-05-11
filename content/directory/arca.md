@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://arcaclimate.com/" target="_blank" rel="noopener">https://arcaclimate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arcaclimate/" target="_blank" rel="noopener">arcaclimate — 5,571 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~33 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,12 +26,16 @@ Arca Climate Technologies is a UBC spin-off based in Vancouver that works in par
 
 ![Arca website](/screenshots/arca.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-03** — news mention: Week in CDR — 2026-W18 ([source](https://captaindrawdown.com/posts/week-in-cdr-2026-w18/))
+- **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
+- **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-29** — news mention: Mining waste is becoming the feedstock layer durable CDR has been waiting for.  Three stories this w ([source](https://x.com/CaptainDrawdown/status/2049355510839758891))

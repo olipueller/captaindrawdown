@@ -27,6 +27,7 @@ ClimateSeed is a France-based digital marketplace that connects companies with v
 ![ClimateSeed website](/screenshots/climateseed.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

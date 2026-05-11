@@ -27,6 +27,7 @@ Carbon Xtract Corporation is a Fukuoka, Japan startup established in May 2023 by
 ![Carbon Xtract website](/screenshots/carbon-xtract.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

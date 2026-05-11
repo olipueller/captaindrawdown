@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.chartechnologies.com" target="_blank" rel="noopener">https://www.chartechnologies.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/char-technologies/" target="_blank" rel="noopener">char-technologies — 4,584 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~32 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company operating high-temperature pyrolysis (HTP) systems that convert unmerchantable wood and organic waste into biocarbon alongside renewable natural gas or green hydrogen. Its Thorold, Ontario facility began staged startup on January 29, 2026, targeting 5,000 tonnes per year of biocarbon in Phase 1, with an offtake agreement with ArcelorMittal Dofasco. A larger Lake Nipigon plant targeting 30,000 tpa is planned for 2026 construction.
 
 ![CHAR Technologies website](/screenshots/char-technologies.png)
+
 
 
 ## History

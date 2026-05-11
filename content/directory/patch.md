@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.patch.io/" target="_blank" rel="noopener">https://www.patch.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/patch-technologies/" target="_blank" rel="noopener">patch-technologies — 32,079 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~94</td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Patch is a San Francisco-based carbon credit platform that combines software, data, and climate-expert services to help corporate buyers source, diligence, purchase, and manage voluntary carbon market credits (including CDR). It launched a relaunched, AI-powered platform in April 2025 aggregating 25,000+ projects across ICROA-endorsed registries. Patch is part of the CDR ecosystem as a marketplace/platform, not a physical CO2 remover.
 
 ![Patch website](/screenshots/patch.png)
+
 
 ## Registry Memberships
 

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://chestnutcarbon.com/" target="_blank" rel="noopener">https://chestnutcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/chestnut-carbon/" target="_blank" rel="noopener">chestnut-carbon — 7,376 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~55 (+267% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Chestnut Carbon is a New York-based pure-play nature-based carbon removal developer founded in 2022 with backing from Kimmeridge. It runs the Chestnut Sustainable Restoration Project (afforestation) across the southeastern U.S. and the Forest Carbon Works IFM membership program, with long-term offtake agreements including Microsoft and Mercedes-AMG PETRONAS F1.
 
 ![Chestnut Carbon website](/screenshots/chestnut-carbon.png)
+
 
 ## Registry Memberships
 

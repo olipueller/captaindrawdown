@@ -26,6 +26,7 @@ Orbital Materials is an AI-for-materials company founded in late 2022, headquart
 ![Orbital Materials website](/screenshots/orbital-materials.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

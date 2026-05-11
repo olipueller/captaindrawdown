@@ -29,6 +29,7 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 ![Altitude website](/screenshots/altitude.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

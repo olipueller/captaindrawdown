@@ -28,6 +28,7 @@ The Direct Air Capture Coalition was founded in 2022 as a non-profit, multi-stak
 ![Direct Air Capture Coalition website](/screenshots/direct-air-capture-coalition.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

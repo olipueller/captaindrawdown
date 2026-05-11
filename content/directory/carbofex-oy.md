@@ -14,9 +14,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://carbofex.fi/" target="_blank" rel="noopener">https://carbofex.fi/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbofex/" target="_blank" rel="noopener">carbofex — 2,799 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~14 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -24,6 +25,15 @@ liveliness: "🟢 Active"
 Carbofex Oy is a Finnish biochar producer based in Nokia that operates a continuous pyrolysis plant converting PEFC-certified spruce wood chips into high-carbon biochar while generating renewable heat for district energy. The company was the first registered commercial CORC trader on Puro.earth in 2019 and supplies biochar for agriculture, soil amendment, and water filtration globally.
 
 ![Carbofex Oy website](/screenshots/carbofex-oy.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 2 projects · Biochar, 2022 · since 2018-11-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/carbofex-nokia-1)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

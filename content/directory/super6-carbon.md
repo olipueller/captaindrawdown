@@ -28,6 +28,7 @@ Super6 Carbon is a U.S. engineered-CDR project developer that aggregates concent
 ![Super6 Carbon website](/screenshots/super6-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

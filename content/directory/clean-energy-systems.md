@@ -27,6 +27,7 @@ Clean Energy Systems develops patented oxy-fuel combustion systems derived from 
 ![Clean Energy Systems website](/screenshots/clean-energy-systems.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))

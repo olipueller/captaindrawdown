@@ -27,6 +27,7 @@ Spiritus is a Los Alamos National Lab spinout developing low-cost Direct Air Cap
 ![Spiritus website](/screenshots/spiritus.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/spiritus/__z3PyRolR1MDwzsGFzFRDqr6V_IKjzeoZ_ammIbxmtAs))

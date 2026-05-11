@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.drax.com" target="_blank" rel="noopener">https://www.drax.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/drax-power/" target="_blank" rel="noopener">drax-power — 57,910 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2081 (-5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -26,8 +26,10 @@ Drax Group plc is a UK-listed energy utility that operates the Drax Power Statio
 ![Drax website](/screenshots/drax.png)
 
 
+
 ## History
 
+- **2026-05-07** — news mention: Drax Group Trading Update Highlights Strong Visibility And Strategic Flexibility, Says Longspur Rese ([source](https://www.directorstalkinterviews.com/drax-group-trading-update-highlights-strong-visibility-and-strategic-flexibility-says-longspur-research/4121250700))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

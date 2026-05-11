@@ -25,6 +25,7 @@ Punarv Resources Pvt Ltd is an Indian biochar producer based in Raipur, Chhattis
 ![Punarv Resources website](/screenshots/punarv-resources.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -15,10 +15,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonsate.com/" target="_blank" rel="noopener">https://www.carbonsate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonsate/" target="_blank" rel="noopener">carbonsate — 2,081 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ liveliness: "🟢 Active"
 Carbonsate is a Berlin-based carbon removal supplier founded in 2023 that develops terrestrial biomass storage projects in Namibia, Cameroon, Colombia, and Bulgaria. Its flagship Otjiwarongo project in Namibia harvests encroaching bush and stores it in sealed, oxygen-free underground pits, and in January 2026 issued its first 799 Puro.earth-certified credits as the 100th certified facility on the registry.
 
 ![Carbonsate website](/screenshots/carbonsate.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Terrestrial Storage of Biomass · since 2025-01-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/carbonsate-project-namibia-227)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

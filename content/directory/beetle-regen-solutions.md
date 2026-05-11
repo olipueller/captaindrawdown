@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.beetleregen.com/" target="_blank" rel="noopener">https://www.beetleregen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beetle-regen-solutions/" target="_blank" rel="noopener">beetle-regen-solutions — 3,271 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~25 (+39% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Beetle Regen Solutions is an India-based regenerative agriculture startup founded in 2023 by Amol Mishra and Hemant Rajput, working with smallholder cotton farmers in Madhya Pradesh to convert crop residue into biochar. The company partners with CITI-CDRA and apparel/textile brands to scale regenerative cotton farming and sells carbon removal credits via insetting programs aligned with SBTi guidelines.
 
 ![Beetle Regen Solutions website](/screenshots/beetle-regen-solutions.png)
+
 
 
 ## History

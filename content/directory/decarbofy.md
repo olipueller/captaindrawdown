@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Argentina</td></tr>
   <tr><th>Website</th><td><a href="https://decarbofy.com/" target="_blank" rel="noopener">https://decarbofy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbofy/" target="_blank" rel="noopener">decarbofy</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟡 Moderate"
 Decarbofy is an early-stage Argentinean biochar project developer that presented plans in 2024 to build a biochar production plant in the Ituzaingó Industrial Park in Corrientes province, valorizing provincial agricultural and forestry biomass. The company remains at the project-planning/permitting stage with only one LinkedIn employee and no confirmed construction or offtake deals.
 
 ![Decarbofy website](/screenshots/decarbofy.png)
+
 
 
 ## History

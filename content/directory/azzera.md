@@ -27,6 +27,7 @@ Azzera is a carbon offset marketplace and aviation compliance services provider,
 ![Azzera website](/screenshots/azzera.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

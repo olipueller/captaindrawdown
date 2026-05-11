@@ -26,6 +26,7 @@ Circularity2 is a Minneapolis, Minnesota-based biochar producer founded in 2022 
 ![Circularity2 website](/screenshots/circularity2.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://archive.is/DpwiB))

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboncentric.no/en" target="_blank" rel="noopener">https://www.carboncentric.no/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncentric/" target="_blank" rel="noopener">carboncentric — 4,285 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+16% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Carbon Centric is a Norwegian carbon-capture developer founded in 2021 that builds, owns and operates modular capture plants at waste- and bio-incineration sites across the Nordics. Its first 10,000 tpa facility at Østfold Energi's Rakkestad waste-to-energy plant began operations in September 2025 delivering food-grade CO2 to Linde Gas, while its flagship Kirkenær BECCS project with Solør Bioenergi targets ~32,000 tpa of biogenic CO2 and is expected to begin issuing CDR credits from 2028.
 
 ![Carbon Centric website](/screenshots/carbon-centric.png)
+
 
 
 ## History

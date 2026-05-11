@@ -5,7 +5,7 @@ type: "directory"
 description: "Smallholder biochar project developer using flame-curtain pyrolysis of farm residues across decentralized Indian farming communities, with biochar applied to agricultural soils for carbon"
 url: "/directory/srcnatura-sure/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,8 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://srcnaturaproducts.com/" target="_blank" rel="noopener">https://srcnaturaproducts.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via verra issuance through 2025-06-30</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Verra (VCS) <small>(last issuance: 2025-06-30)</small></td></tr>
 </table>
 
 ## About
@@ -24,9 +25,19 @@ SRCNatura Sure Pvt Ltd is an India-based project developer that registered the f
 
 ![SRCNatura Sure website](/screenshots/srcnatura-sure.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Verra (VCS)**
+- 2 projects · Biochar · 115,103 tCO₂ issued · 15,929 retired · since 2025-06-30 &nbsp;[↗](https://registry.verra.org/app/projectDetail/VCS/4812)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 
 ## History
 
+- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

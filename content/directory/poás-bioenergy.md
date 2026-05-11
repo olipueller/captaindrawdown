@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.poasbioenergy.com/" target="_blank" rel="noopener">https://www.poasbioenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/po%c3%a1s-bioenergy/" target="_blank" rel="noopener">po%c3%a1s-bioenergy — 517 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Poás Bioenergy is a University of Michigan spinout (founded 2021, HQ Ann Arbor, MI) developing carbon-negative biomass gasification systems deployed with agribusiness partners in Costa Rica such as Nicoverde. Their technology converts agricultural waste into biochar (carbon sequestration + soil amendment) and syngas (clean thermal/electric energy), with a business model that shares carbon-credit revenue with smallholder farmers.
 
 ![Poás Bioenergy website](/screenshots/poás-bioenergy.png)
+
 
 
 ## History

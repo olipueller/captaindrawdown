@@ -28,6 +28,7 @@ GreenTrade (GreenTrade Impact GmbH) is a Berlin-based marketplace founded in 202
 ![greentrade.tech website](/screenshots/greentradetech.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

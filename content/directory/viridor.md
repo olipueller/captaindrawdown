@@ -26,6 +26,7 @@ Viridor is a UK resource recovery and recycling company (majority-owned by KKR) 
 ![Viridor website](/screenshots/viridor.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))

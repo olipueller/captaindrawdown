@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://recarber.com/" target="_blank" rel="noopener">https://recarber.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recarber/" target="_blank" rel="noopener">recarber — 668 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~12 (+71% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 ReCarber is a Stockholm-based startup founded in 2024 that operates a platform to commercialize and finance BECCS (bio-CCS) projects across the Nordics, matching emitters like combined heat-and-power plants and pulp/paper mills with carbon removal off-takers. It raised SEK 60M (~€5.1M/$5.3M) seed in February 2025 from Luminar Ventures, Spintop Ventures, and Course Corrected, and is working with partners such as Skellefteå Kraft. ReCarber itself is a commercial developer/broker, not a physical capture operator.
 
 ![ReCarber website](/screenshots/recarber.png)
+
 
 
 ## History

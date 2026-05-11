@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.funga.earth/" target="_blank" rel="noopener">https://www.funga.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/funga-pbc/" target="_blank" rel="noopener">funga-pbc — 10,453 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~38 (+52% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Funga is a US public benefit corporation that inoculates tree seedlings with native mycorrhizal fungal communities to accelerate growth and carbon sequestration in working forests, primarily southeastern loblolly pine plantations. It sells the resulting removals as Improved Forest Management credits via Verra's VM0045 protocol, and secured a 500,000+ ton offtake deal in November 2024.
 
 ![Funga website](/screenshots/funga.png)
+
 
 ## Registry Memberships
 

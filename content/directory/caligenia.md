@@ -24,6 +24,7 @@ Caligenia is an Argentine biotechnology startup whose flagship product Bactercha
 ![Caligenia website](/screenshots/caligenia.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://neutura.earth/" target="_blank" rel="noopener">https://neutura.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neutura-earth/" target="_blank" rel="noopener">neutura-earth — 434 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Neutura (PT Penyerapan Karbon Khatulistiwa) is a Singapore/Jakarta-based carbon removal startup founded in 2023, converting palm oil waste and other agricultural residues in Indonesia into biochar via pyrolysis. It launched its first pilot with Universitas Sumatera Utara in 2024 and was named Best Impact Entrepreneur at the KEHATI ESG Award 2025.
 
 ![Neutura.Earth website](/screenshots/neuturaearth.png)
+
 
 
 ## History

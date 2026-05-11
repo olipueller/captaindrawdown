@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://ceal.earth/" target="_blank" rel="noopener">https://ceal.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ceal-minerals/" target="_blank" rel="noopener">ceal-minerals — 537 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~9 (+350% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Ceal (Ceal Minerals) is an Israeli climate-tech startup founded in April 2024, spun out of Dr. Charlotte Vogt's lab at the Technion under Israel's Blue Economy program. Its electrochemical mineralization process treats seawater running through power-plant cooling intakes to precipitate calcium carbonate, producing a salable PCC byproduct while sequestering CO2. First pilot began operating in December 2024 at the National Institute of Oceanography in Haifa, with a planned deployment at Israel Electric Corporation's Orot Rabin power station.
 
 ![Ceal website](/screenshots/ceal.png)
+
 
 
 ## History

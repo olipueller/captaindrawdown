@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.naturebroking.com/" target="_blank" rel="noopener">https://www.naturebroking.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nature-broking/" target="_blank" rel="noopener">nature-broking — 2,156 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~10 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Nature Broking is a UK-based natural capital brokerage that builds and manages tailored carbon credit and nature restoration portfolios for corporate clients, including banks, airports, insurers and law firms. They vet projects through an ICVCM-aligned due diligence framework and act as an intermediary connecting buyers with UK and global nature-based carbon projects.
 
 ![Nature Broking website](/screenshots/nature-broking.png)
+
 
 
 ## History

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://un-do.com/" target="_blank" rel="noopener">https://un-do.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/undocarbon/" target="_blank" rel="noopener">undocarbon — 11,812 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~62 (-7% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,12 +27,14 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 
 ![UNDO website](/screenshots/undo.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-09** — news mention: If Microsoft is quietly walking back its 2030 climate goals while signing record CDR offtakes, the o ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlfpgrr25r2m))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-26** — news mention: Prof. Dong-Yeun Koh's team adapted the dry-electrode process used for EV batteries to make a sorbent ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkewfvw6rm27))

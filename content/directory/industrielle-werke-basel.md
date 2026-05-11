@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.iwb.ch/" target="_blank" rel="noopener">https://www.iwb.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/iwb-industrielle-werke-basel/" target="_blank" rel="noopener">iwb-industrielle-werke-basel — 12,196 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3000 (+8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 IWB (Industrielle Werke Basel) is the municipal utility of Basel-City providing electricity, gas, district heat, water, and telecoms to the region. As a small sustainability initiative within its heat-services business, IWB operates two biomass pyrolysis plants (a PYREG PX1500 in Basel and a BIOMACON unit commissioned in Maisprach in December 2025) that carbonise regional wood and green waste into ~550 t/year of EBC-AgroBio-certified biochar while feeding the district heating network.
 
 ![Industrielle Werke Basel website](/screenshots/industrielle-werke-basel.png)
+
 
 
 ## History

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Fertilization</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.liquidtrees.org/" target="_blank" rel="noopener">https://www.liquidtrees.org/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Liquid Trees is a seed-stage CDR company founded in 2022 by Daniel Neetzel, headquartered in San Francisco with operations in India, backed by Unruly Capital. It evolved from diatom-led freshwater bioremediation projects into ocean iron fertilization research, and partnered with India's DS Group to deploy an urban microalgae photobioreactor in Noida.
 
 ![Liquid Trees website](/screenshots/liquid-trees.png)
+
 
 ## Registry Memberships
 

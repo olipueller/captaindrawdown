@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.aeroc.earth/" target="_blank" rel="noopener">https://www.aeroc.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aeroccarbon/" target="_blank" rel="noopener">aeroccarbon — 895 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -28,6 +28,7 @@ liveliness: "🟢 Active"
 AEROC (Aeroc GmbH) is a Cologne, Germany-based startup founded in 2024 by Felix Nosske and Georg Sticka that develops Enhanced Rock Weathering carbon-removal projects on agricultural fields. The company manages the full ERW value chain — sourcing and grinding basalt at local quarries, transporting it to farms, and handling MRV via measurement and modelling. As of 2025 the team includes a dedicated isotope geochemist and they have launched their first ERW project in Germany.
 
 ![AEROC website](/screenshots/aeroc.png)
+
 
 ## Registry Memberships
 

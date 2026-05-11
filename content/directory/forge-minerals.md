@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://forgeminerals.com/" target="_blank" rel="noopener">https://forgeminerals.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/forge-minerals/" target="_blank" rel="noopener">forge-minerals — 612 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Forge Minerals is an Edinburgh-based deep-tech startup incorporated in June 2024 that converts waste CO2 into carbon-negative carbonate minerals via a proprietary reactor process, initially targeting magnesium carbonate markets. In early 2026 it closed a £1M pre-seed round co-led by Sustainable Ventures and The Conduit Impact Fund and opened its first laboratory as the inaugural tenant of the Edinburgh Innovation Hub. The company collaborates with the University of Edinburgh's Applied Geosciences Laboratory and is actively hiring.
 
 ![Forge Minerals website](/screenshots/forge-minerals.png)
+
 
 
 ## History

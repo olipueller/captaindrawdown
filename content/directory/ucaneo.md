@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ucaneo.com/" target="_blank" rel="noopener">https://www.ucaneo.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ucaneo/" target="_blank" rel="noopener">ucaneo — 6,684 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~26 (+86% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Ucaneo is a Berlin-based direct air capture startup developing a biomimetic electrochemical DAC technology that uses a specialized solvent to remove atmospheric CO2 at room temperature, producing industrial-grade CO2 and integrating with renewable energy sources. In Q2 2026, Ucaneo plans to commission one of Germany's largest industrial DAC plants in Berlin (~150 tCO2/year) and is advancing the design of a first-of-a-kind facility in the 1,000-1,500 tCO2/year range. The company raised €6.75M seed in September 2024 and received follow-on investment from Aramco Ventures in March 2025.
 
 ![Ucaneo website](/screenshots/ucaneo.png)
+
 
 ## Registry Memberships
 

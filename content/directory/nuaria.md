@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.nuaria.com/" target="_blank" rel="noopener">https://www.nuaria.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuaria/" target="_blank" rel="noopener">nuaria — 87 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟡 Moderate"
 NuAria is a US-based early-stage direct air capture startup developing a solid sorbent packaged as cylindrical wound membranes for scalable, low-cost CO2 removal. The company offers carbon credit subscriptions and upfront purchases to industries and governments pursuing net-zero targets. Public signals are limited, with only a small team and no reported funding or registry issuances.
 
 ![NuAria website](/screenshots/nuaria.png)
+
 
 
 ## History

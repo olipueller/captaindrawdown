@@ -24,6 +24,7 @@ PyroNam is the Namibian operating subsidiary of German biochar CDR company PyroC
 ![Pyronam website](/screenshots/pyronam.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

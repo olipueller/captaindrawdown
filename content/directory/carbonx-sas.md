@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.climefi.com/" target="_blank" rel="noopener">https://www.climefi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonx-world/" target="_blank" rel="noopener">carbonx-world — 9,539 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~31 (+41% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Carbonx SAS (Paris-based, founded 2022 by Paolo Piffaretti and Sébastien Dewarrat) is a durable carbon removal procurement, finance, and portfolio management service provider for corporate buyers. The company rebranded to ClimeFi and has since facilitated hundreds of thousands of tonnes of contracted dCDR on behalf of clients including the LEGO Group, backed by investors such as ENGIE New Ventures, Redstone and PROfounders.
 
 ![Carbonx SAS website](/screenshots/carbonx-sas.png)
+
 
 
 ## History

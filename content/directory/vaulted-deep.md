@@ -15,10 +15,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://vaulteddeep.com/" target="_blank" rel="noopener">https://vaulteddeep.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vaulted-deep/" target="_blank" rel="noopener">vaulted-deep — 7,057 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~57 (+73% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2023-12-23)</small></td></tr>
 </table>
 
 ## About
@@ -27,6 +28,15 @@ Vaulted Deep is a Houston-based carbon removal company that injects organic wast
 
 ![Vaulted Deep website](/screenshots/vaulted-deep.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 2 projects · Biomass Injection · 54,859 tCO₂ issued · 13,079 retired · since 2023-12-23 &nbsp;[↗](https://to.isometric.com/prj_1HHYZFVGW1S044ZY)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - [Isometric](https://registry.isometric.com/)
@@ -34,6 +44,8 @@ Vaulted Deep is a Houston-based carbon removal company that injects organic wast
 
 ## History
 
+- **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
+- **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://vaulteddeep.com/))

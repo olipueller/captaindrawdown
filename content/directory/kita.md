@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.kita.earth/" target="_blank" rel="noopener">https://www.kita.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kitaearth/" target="_blank" rel="noopener">kitaearth — 9,963 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~21 (+65% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Kita is a UK-based Lloyd's of London coverholder and carbon insurance specialist offering policies like Carbon Purchase Protection Cover, Carbon Political Risk Cover, Non-Payment and Buffer Depletion insurance tailored to carbon and natural-capital asset classes. In 2025 it expanded underwriting capacity to £22.5m and in 2026 launched a Non-Payment Insurance product with MS Amlin, serving buyers, sellers and financiers of carbon credits across multiple jurisdictions.
 
 ![Kita website](/screenshots/kita.png)
+
 
 ## Registry Memberships
 

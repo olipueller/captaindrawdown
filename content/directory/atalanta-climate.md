@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.atalantaclimate.co/" target="_blank" rel="noopener">https://www.atalantaclimate.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atalanta-climate/" target="_blank" rel="noopener">atalanta-climate — 251 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Atalanta Climate is a Vancouver-based startup co-founded by Sally Chen and Lucas Dong (PhD, Environmental Engineering professor at Georgia Tech) developing a home/office direct air capture device called Ovi. The CapSul cartridge is made from natural gypsum and chemically binds CO₂, turning it into a solid mineral powder, and the company launched publicly at New York Climate Week 2025.
 
 ![Atalanta Climate website](/screenshots/atalanta-climate.png)
+
 
 
 ## History

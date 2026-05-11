@@ -28,6 +28,7 @@ Africa Climate Ventures (ACV) is a Kigali-based venture builder and early-stage 
 ![Africa Climate Ventures website](/screenshots/africa-climate-ventures.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

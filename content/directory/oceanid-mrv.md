@@ -26,6 +26,7 @@ Oceanid MRV (Oceanid Climate and Carbon Solutions) is a US-based public benefit 
 ![Oceanid MRV website](/screenshots/oceanid-mrv.png)
 
 
+
 ## History
 
 - **2026-04-19** — refresh: liveliness

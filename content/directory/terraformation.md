@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terraformation.com/" target="_blank" rel="noopener">https://terraformation.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terraformation/" target="_blank" rel="noopener">terraformation — 20,769 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~107 (+5% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Terraformation is a Hawaii-based native forest restoration company founded by former Reddit CEO Yishan Wong that supports large-scale biodiverse reforestation projects across Africa, Latin America, and Southeast Asia. It provides forestry teams with training, the open-source Terraware platform, and project finance to generate high-integrity nature-based carbon credits, with projects entering validation under Verra standards and government agreements in Cameroon and Ghana.
 
 ![Terraformation website](/screenshots/terraformation.png)
+
 
 ## Registry Memberships
 

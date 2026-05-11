@@ -26,6 +26,7 @@ Carbon Gold is a UK-based biochar supplier founded in 2007 and headquartered in 
 ![Carbon Gold website](/screenshots/carbon-gold.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.carbongold.com/))

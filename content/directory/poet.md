@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://poet.com/" target="_blank" rel="noopener">https://poet.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/poet/" target="_blank" rel="noopener">poet — 31,275 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~1856 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 POET LLC is the world's largest bioethanol producer, headquartered in Sioux Falls, South Dakota, operating 34 bioprocessing plants across eight states producing bioethanol, animal feed, corn oil, purified alcohol, asphalt rejuvenator, and renewable CO2. Its CDR activity consists of capturing biogenic fermentation CO2 at selected plants and delivering it to third-party CCS pipelines — Summit Carbon Solutions (17 Iowa/South Dakota plants, ~4.7 Mt CO2/yr) and Tallgrass Trailblazer (Fairmont, Nebraska plant) — for permanent underground sequestration. Ethanol and agricultural bioproducts are the core business; CCS is an add-on that improves fuel carbon intensity.
 
 ![POET website](/screenshots/poet.png)
+
 
 
 ## History

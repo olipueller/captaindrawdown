@@ -27,6 +27,7 @@ NAWARO ENERGIE Betrieb GmbH is an Austrian bioenergy producer headquartered in Z
 ![NAWARO ENERGIE Betrieb website](/screenshots/nawaro-energie-betrieb.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.nawaro-energie.at/willkommen-auf-der-website-von-nawaro-energie/))

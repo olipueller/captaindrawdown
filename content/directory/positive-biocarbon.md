@@ -26,6 +26,7 @@ Positive BioCarbon is a biochar brand launched in 2021 by Rectella International
 ![Positive Biocarbon website](/screenshots/positive-biocarbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

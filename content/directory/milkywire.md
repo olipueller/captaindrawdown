@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.milkywire.com" target="_blank" rel="noopener">https://www.milkywire.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/milkywire/" target="_blank" rel="noopener">milkywire — 9,748 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~29 (-3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,8 +26,12 @@ Stockholm-based Milkywire is an impact platform that channels corporate funding 
 ![Milkywire website](/screenshots/milkywire.png)
 
 
+
 ## History
 
+- **2026-05-09** — news mention: Buyers of Enhanced Rock Weathering credits need to ask for the right type of MRV ([source](https://roberthoglund.medium.com/buyers-of-enhanced-rock-weathering-credits-need-to-ask-for-the-right-type-of-mrv-c109bc7cf100?source=rss-d3dbfac6b1e3------2))
+- **2026-05-09** — news mention: A new lens on corporate net zero ([source](https://roberthoglund.medium.com/a-new-lens-on-corporate-net-zero-e0cf73e65936?source=rss-d3dbfac6b1e3------2))
+- **2026-05-09** — news mention: January 09, 2026🚨 Big CDR Deal Alert! 🚨 Milkywire <> SalesforceDeal Alerts ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-1-9))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

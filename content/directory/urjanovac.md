@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.urjanovac.com/" target="_blank" rel="noopener">https://www.urjanovac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/urjanovac-pvt-ltd/" target="_blank" rel="noopener">urjanovac-pvt-ltd — 7,398 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+86% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 UrjanovaC is a Mumbai-based climate-tech startup founded in 2023 by IIT Bombay professors Vikram Vishal and Arnab Dutta, incubated at SINE and spun out of the DST-supported National Centre of Excellence in Carbon Capture and Utilization. The company develops a patented aqueous, catalyst-based CO2 capture technology that captures CO2 from flue gas or ambient air using water (including industrial wastewater or seawater), converting it into stable mineral carbonates or usable chemicals like CO.
 
 ![UrjanovaC website](/screenshots/urjanovac.png)
+
 
 
 ## History

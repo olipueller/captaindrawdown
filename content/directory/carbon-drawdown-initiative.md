@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-drawdown.de" target="_blank" rel="noopener">https://www.carbon-drawdown.de</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-drawdown-initiative/" target="_blank" rel="noopener">carbon-drawdown-initiative — 2,551 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -27,8 +27,14 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 ![Carbon Drawdown Initiative website](/screenshots/carbon-drawdown-initiative.png)
 
 
+
 ## History
 
+- **2026-05-09** — news mention: Creating An Autonomous AI Agent That Acts as Evangelist for Carbon Dioxide Removal - In One Day &mda ([source](https://www.carbon-drawdown.de/blog/2026-2-26-creating-an-ai-agent-that-acts-as-evangelist-for-carbon-dioxide-removal-in-one-day))
+- **2026-05-07** — news mention: The dataset we&amp;#39;re presenting at the Carbon Drawdown Symposium on 16 June spans multiple fiel ([source](https://www.linkedin.com/feed/update/urn:li:share:7457776306001178624/))
+- **2026-05-04** — news mention: #egu26 | Carbon Drawdown Initiative ([source](https://www.linkedin.com/feed/update/urn:li:share:7456965896474066944/))
+- **2026-05-03** — news mention: Directory feature: cdr-shops.com lists every durable CDR provider that will actually sell you small  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkwvlan2ol2v))
+- **2026-05-03** — news mention: Directory feature: https://t.co/fG4sjJDt5e lists every durable CDR provider that will actually sell  ([source](https://x.com/CaptainDrawdown/status/2050878236851089732))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — news mention: Enhanced rock weathering has real potential as a carbon removal pathway. The chemistry is well under ([source](https://www.linkedin.com/feed/update/urn:li:share:7455602010801774592/))
 - **2026-05-01** — refresh: screenshot

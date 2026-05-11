@@ -15,9 +15,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.angloamerican.com" target="_blank" rel="noopener">https://www.angloamerican.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/anglo-american/" target="_blank" rel="noopener">anglo-american — 1,421,454 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 Anglo American is a global mining major headquartered in the UK that launched Project Earthstone in Brazil, using magnesium-rich ferronickel slag from its Barro Alto and Codemin operations as feedstock for Enhanced Rock Weathering on agricultural land. In September 2025 it partnered with Isometric (registry) and ZeroEx (MRV technology) to issue verified Enhanced Weathering credits, with stockpiled feedstock potentially removing up to 15 million tonnes of CO2. Mining remains Anglo American's core business; CDR is an adjacent side-activity monetising mine byproducts.
 
 ![Anglo American website](/screenshots/anglo-american.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Rock Weathering &nbsp;[↗](https://to.isometric.com/prj_1K8BE4BSR1S06DWN)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

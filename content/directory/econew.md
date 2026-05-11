@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://econew.net" target="_blank" rel="noopener">https://econew.net</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/econew/" target="_blank" rel="noopener">econew — 1,222 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Econew is a Brazilian bioenergy company in northern Minas Gerais whose core business is producing hardwood charcoal briquettes from eucalyptus for industrial heating, grilling and steam boilers. In late 2024 it installed a large continuous pyrolysis reactor to add biochar as an adjacent climate-positive product line, and has passed a preliminary Puro.earth assessment toward issuing CORCs. Biochar is a side activity alongside the established briquette business.
 
 ![Econew website](/screenshots/econew.png)
+
 
 
 ## History

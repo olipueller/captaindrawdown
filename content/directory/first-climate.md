@@ -28,8 +28,10 @@ First Climate is a German/Swiss carbon asset manager and climate services firm f
 ![First Climate website](/screenshots/first-climate.png)
 
 
+
 ## History
 
+- **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week Zuric ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.firstclimate.com/?lang=en))
 - **2026-05-01** — news mention: Meet the Carbonfuture team at Climate Week Zurich 2026 | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455555282937532417/))
 - **2026-05-01** — refresh: screenshot

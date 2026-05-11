@@ -26,6 +26,7 @@ GoBiochar is a Salt Lake City, Utah-based biochar supply and production company 
 ![GoBiochar website](/screenshots/gobiochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

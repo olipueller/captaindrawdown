@@ -24,6 +24,7 @@ Char2Cool e.V. is a registered German non-profit association based in Reisbach, 
 ![Char2Cool website](/screenshots/char2cool.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

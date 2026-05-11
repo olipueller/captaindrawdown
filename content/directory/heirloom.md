@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.heirloomcarbon.com/" target="_blank" rel="noopener">https://www.heirloomcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/heirloom-carbon/" target="_blank" rel="noopener">heirloom-carbon — 35,104 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~173 (-14% YoY)</td></tr>
   <tr><th>Open roles</th><td>11 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -28,12 +28,17 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 
 ![Heirloom website](/screenshots/heirloom.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
+- **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age.  Deal sizes are climbing into six-fi ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
+- **2026-05-05** — news mention: Going from ~420 to 300 ppm means removing roughly 250 GtCO2. At today's DAC energy use (~2 MWh/ton), ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml444iq3ul2z))
+- **2026-05-01** — news mention: Heirloom Carbon Capture 2026 targets below $108/ton ([source](https://enkiai.com/carbon-capture/dac-companies-cost-per-ton/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-29** — news mention: Environmental technology: Climeworks receives surprising green light for plant in Louisiana | blue N ([source](https://www.bluewin.ch/en/news/climeworks-receives-surprising-green-light-for-plant-in-louisiana-3209383.html))

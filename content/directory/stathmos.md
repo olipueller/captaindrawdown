@@ -27,6 +27,7 @@ Stathmos is a French DAC startup founded in 2023 in Le Mans by Dr. Amandine Cadi
 ![Stathmos website](/screenshots/stathmos.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

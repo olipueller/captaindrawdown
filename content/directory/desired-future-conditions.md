@@ -26,6 +26,7 @@ Desired Future Conditions, PBC (DFC) is a U.S. public benefit corporation produc
 ![Desired Future Conditions website](/screenshots/desired-future-conditions.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

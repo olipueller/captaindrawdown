@@ -19,6 +19,7 @@ liveliness: "🟢 Active"
   <tr><th>Employees</th><td>~7 (+75% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ liveliness: "🟢 Active"
 Silica is an ERW project developer permanently removing CO2 in LatAm, starting with Mexican sugarcane regions, with a mission to remove CO2 at scale while regenerating soils, increasing crop yields and improving the livelihoods of rural communities. The company is a member of the Enhanced Weathering Alliance and generates carbon removal credits through spreading silicate rock dust on agricultural lands.
 
 ![Silica website](/screenshots/silica.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Rock Weathering &nbsp;[↗](https://to.isometric.com/prj_1K3MGXD4A1S0S3H8)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

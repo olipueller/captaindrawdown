@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://cowboycleanfuels.com/" target="_blank" rel="noopener">https://cowboycleanfuels.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cowboy-clean-fuels/" target="_blank" rel="noopener">cowboy-clean-fuels — 1,153 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~10</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,8 +28,11 @@ Cowboy Clean Fuels is a Denver-headquartered climate-tech company spun out of th
 ![Cowboy Clean Fuels website](/screenshots/cowboy-clean-fuels.png)
 
 
+
 ## History
 
+- **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
+- **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-22** — news mention: Cowboy Clean Fuels announces its carbon credits are verified and ready for purchase | Local News | g ([source](https://www.gillettenewsrecord.com/news/local/article_f60a873d-3134-4f24-874d-103605a9f340.html))

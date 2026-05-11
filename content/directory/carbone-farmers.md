@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonefarmers.com/" target="_blank" rel="noopener">https://www.carbonefarmers.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbone-farmers/" target="_blank" rel="noopener">carbone-farmers — 6,234 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~36 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Carbone Farmers coordinates collective Label Bas-Carbone projects, such as one where 157 farmers in Hauts-de-France, Île-de-France, Grand Est and Centre-Val de Loire deploy regenerative agriculture practices over 27,057 hectares. Carbon credits are calculated using national methodologies framed by standards like Label bas carbone, based on field measurements consolidated in internal tools, with independent certifiers such as Bureau Veritas. The company also operates the FarmGate Metrics platform for Scope-3 tracking and reporting for food-industry clients.
 
 ![Carbone Farmers website](/screenshots/carbone-farmers.png)
+
 
 
 ## History

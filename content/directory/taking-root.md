@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://takingroot.com/" target="_blank" rel="noopener">https://takingroot.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/takingroot/" target="_blank" rel="noopener">takingroot — 5,542 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~26 (-35% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Taking Root co-founded the CommuniTree Carbon Program with local NGO BOSNICA in 2010; it is a Plan Vivo-certified reforestation program that works with smallholder farmers in Nicaragua and has grown into the largest reforestation initiative in the country. The company has developed a management platform with a mobile app for field data collection and a web platform for program reporting to deliver high-integrity carbon removals. It has also launched biochar trials with partner PRIMAKLIMA, applying biochar in the CommuniTree program to improve soil health and store additional carbon.
 
 ![Taking Root website](/screenshots/taking-root.png)
+
 
 ## Registry Memberships
 

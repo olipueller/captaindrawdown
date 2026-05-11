@@ -27,6 +27,7 @@ Nordiczero is an early-stage Swedish venture developing solutions that incorpora
 ![Nordiczero website](/screenshots/nordiczero.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

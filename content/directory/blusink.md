@@ -26,6 +26,7 @@ Blusink is a London-based ocean CDR startup founded in 2022 that deploys enginee
 ![Blusink website](/screenshots/blusink.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

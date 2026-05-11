@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://xilva.global/" target="_blank" rel="noopener">https://xilva.global/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/xilva/" target="_blank" rel="noopener">xilva — 4,061 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~17 (+55% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Xilva is a Zurich-based startup (founded 2021) that provides due diligence, rating, and monitoring services for forest and nature-based carbon removal projects. Its GRADE, SCREEN and MONITOR tools help investors and offtakers assess risk and quality of afforestation/reforestation and REDD+ projects. Xilva is not itself a carbon remover but a ratings/MRV platform in the CDR ecosystem.
 
 ![Xilva website](/screenshots/xilva.png)
+
 
 
 ## History

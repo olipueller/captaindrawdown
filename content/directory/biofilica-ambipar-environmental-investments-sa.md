@@ -26,6 +26,7 @@ Founded in 2008, Biofílica Ambipar Environment's mission is to establish a stro
 ![BIOFILICA AMBIPAR ENVIRONMENTAL INVESTMENTS S.A. website](/screenshots/biofilica-ambipar-environmental-investments-sa.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

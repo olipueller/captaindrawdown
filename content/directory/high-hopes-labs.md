@@ -27,6 +27,7 @@ High Hopes Labs is an Israeli startup (Ramat Gan/Tel Aviv) founded by Nadav Mans
 ![High Hopes Labs website](/screenshots/high-hopes-labs.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/high-hopes-labs-receives-patent-for-its-carbon-capture-balloons/))

@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.amatagreen.com/" target="_blank" rel="noopener">https://www.amatagreen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/amata-green-llc/" target="_blank" rel="noopener">amata-green-llc — 804 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟡 Moderate"
 Amata Green is a Spain-based biochar startup planning a production facility in Jaén, Andalucía that would convert olive mill and olive-farming waste into biochar for agricultural soil application and carbon removal credits. The company has been construction-ready for several years pending investment funding, and sells small quantities of its "Eco-Mix" biochar product in the meantime.
 
 ![Amata Green Consulting, SL (Amata Green) website](/screenshots/amata-green-consulting-sl-amata-green.png)
+
 
 
 ## History

@@ -28,6 +28,7 @@ Minera Systems is an early-stage Canadian cleantech startup based in Squamish, B
 ![Minera Systems website](/screenshots/minera-systems.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

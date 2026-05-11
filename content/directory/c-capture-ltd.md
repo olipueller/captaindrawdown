@@ -28,6 +28,7 @@ C-Capture is a 2009 University of Leeds spinout based in Leeds, UK, developing a
 ![C-Capture Ltd website](/screenshots/c-capture-ltd.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

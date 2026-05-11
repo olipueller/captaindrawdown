@@ -16,9 +16,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.useoffstream.com/" target="_blank" rel="noopener">https://www.useoffstream.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/useoffstream/" target="_blank" rel="noopener">useoffstream — 2,291 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~12 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+  <tr><th>Registry-verified</th><td>Climate Action Reserve</td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ liveliness: "🟢 Active"
 Offstream is a U.S.-based software and services platform that helps carbon removal project developers — primarily in biochar — manage carbon credit certification, life-cycle assessments, dMRV, and regulatory compliance across standards like Puro.earth and Isometric. Founded in 2023 by Varsha Ramesh Walsh and Zach Janicki, the company is registry-agnostic and explicitly avoids brokering, positioning itself as compliance infrastructure for the CDR market. It does not physically remove CO2 itself.
 
 ![Offstream website](/screenshots/offstream.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Climate Action Reserve**
+- 1 project · Unknown &nbsp;[↗](https://thereserve2.apx.com/mymodule/reg/prjView.asp?id1=2239)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

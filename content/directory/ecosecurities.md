@@ -28,6 +28,7 @@ EcoSecurities is a Geneva/Carouge-based carbon project developer and climate adv
 ![ecosecurities website](/screenshots/ecosecurities.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

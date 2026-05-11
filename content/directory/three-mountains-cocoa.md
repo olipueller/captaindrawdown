@@ -26,6 +26,7 @@ Three Mountains Cocoa is a Ghanaian organic cocoa cooperative producing beans fr
 ![Three Mountains Cocoa website](/screenshots/three-mountains-cocoa.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://threemountainscocoa.com/))

@@ -27,6 +27,7 @@ Climate Impact X (CIX) is a Singapore-headquartered global carbon exchange and m
 ![Climate Impact X website](/screenshots/climate-impact-x.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

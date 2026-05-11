@@ -27,6 +27,7 @@ Kanadevia Inova (formerly Hitachi Zosen Inova) is a Swiss-based Waste-to-Energy 
 ![Kanadevia Inova website](/screenshots/kanadevia-inova.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.rngcoalition.com/news/2026/3/5/kanadevia-inova-breaks-ground-on-minnesotas-first-organic-waste-to-biochar-renewable-gas-facility))

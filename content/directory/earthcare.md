@@ -15,9 +15,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.earthcarellc.com" target="_blank" rel="noopener">https://www.earthcarellc.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/earthcarellc/" target="_blank" rel="noopener">earthcarellc — 233 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~16</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 Earthcare LLC is a US-based biochar producer that deploys patented gasification systems to convert high-ash organic waste streams — including biosolids, manure, food waste, and MSW digestate — into biochar ("Ecochar"). Projects are certified under Puro.earth and the company sells carbon removal credits alongside the biochar product. As of mid-2025 the company had 12 operational gasifiers with a 13th coming online at Minnich Eggs.
 
 ![Earthcare website](/screenshots/earthcare.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2023-01-01
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

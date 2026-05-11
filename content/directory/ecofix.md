@@ -26,6 +26,7 @@ EcoFix Kenya Ltd (formerly Eco Fuels Kenya) is a Nanyuki-based social enterprise
 ![EcoFix website](/screenshots/ecofix.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://esgpost.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-emerging-markets/))

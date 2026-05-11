@@ -27,6 +27,7 @@ Solör Bioenergy Group is a major Scandinavian renewable energy utility operatin
 ![Solör Bioenergy website](/screenshots/solör-bioenergy.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://solorbioenergi.com/about-solor-bioenergi/))

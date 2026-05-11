@@ -27,6 +27,7 @@ CarbonSQR is planning India's first pilot DAC facility near Hyderabad, expected 
 ![Carbon Square website](/screenshots/carbon-square.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

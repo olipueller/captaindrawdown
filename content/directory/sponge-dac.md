@@ -27,6 +27,7 @@ Sponge DAC, Inc. is an early-stage Direct Air Capture startup based in Cambridge
 ![Sponge DAC website](/screenshots/sponge-dac.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

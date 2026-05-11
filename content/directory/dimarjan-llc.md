@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.dimarjan.com/" target="_blank" rel="noopener">https://www.dimarjan.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dimarjan-llc/" target="_blank" rel="noopener">dimarjan-llc — 838 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Dimarjan LLC is a US-headquartered (Virginia) carbon removal supplier founded in 2020 that operates regenerative agroforestry projects in Angola, planting mixed fruit and non-fruit tree species intercropped with cassava, beans, corn, and sweet potatoes. They sell verified carbon removal credits issued under the Global Carbon Standard, using Carbify's blockchain and satellite monitoring for MRV, and are piloting biochar for longer-duration storage.
 
 ![Dimarjan LLC website](/screenshots/dimarjan-llc.png)
+
 
 
 ## History

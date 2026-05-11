@@ -27,6 +27,7 @@ Goal 300 focuses on removing legacy greenhouse gas emissions through Enhanced Ro
 ![Goal 300 website](/screenshots/goal-300.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

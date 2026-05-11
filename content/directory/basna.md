@@ -23,6 +23,7 @@ Basna d.o.o. is a small Swiss-owned, family-run company founded in 2010 and head
 
 ![Basna website](/screenshots/basna.png)
 
+
 ## Registry Memberships
 
 - Puro.earth

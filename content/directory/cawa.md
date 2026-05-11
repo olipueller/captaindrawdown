@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.cawa.tech/" target="_blank" rel="noopener">https://www.cawa.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cawa-tech/" target="_blank" rel="noopener">cawa-tech — 1,279 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Cawa is an Amsterdam-based software startup (founded 2022) that provides API infrastructure enabling carbon accounting and ESG platforms to sell traceable, high-quality carbon credits from vetted removal projects. The company curates a portfolio of ~10 carbon removal projects (afforestation, biochar, DAC, enhanced weathering) from standards such as Verra, Gold Standard and Puro.earth, and facilitates offtake agreements between corporate buyers and project developers (e.g. the September 2025 IMC Trading–Carboneers biochar deal).
 
 ![CAWA website](/screenshots/cawa.png)
+
 
 
 ## History

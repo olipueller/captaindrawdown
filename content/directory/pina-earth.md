@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.pina.earth/" target="_blank" rel="noopener">https://www.pina.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pina-de/" target="_blank" rel="noopener">pina-de — 8,316 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~41 (+78% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Pina Earth is a Munich-based forest carbon project developer that converts vulnerable monoculture forests in the DACH region into biodiverse, climate-resilient mixed forests, quantifying additional carbon stock with proprietary simulation software and selling TÜV/ISO 14064-2 verified credits. In July 2025 it merged with Austrian firm Tree.ly, with the combined entity operating under the Pina Earth brand across Germany, Austria, Switzerland, Czech Republic, Hungary, and Italy, managing 80,000+ hectares and 500,000+ tCO2 of issued credits.
 
 ![Pina Earth website](/screenshots/pina-earth.png)
+
 
 ## Registry Memberships
 

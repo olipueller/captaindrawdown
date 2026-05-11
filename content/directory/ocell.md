@@ -28,6 +28,7 @@ OCELL is a Munich-based climate-tech startup that develops IFM carbon projects a
 ![Ocell website](/screenshots/ocell.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

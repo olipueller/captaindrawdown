@@ -27,6 +27,7 @@ MORFO is a Franco-Brazilian reforestation company (founded 2021) restoring degra
 ![MORFO website](/screenshots/morfo.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

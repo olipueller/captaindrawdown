@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.groupebordet.fr/" target="_blank" rel="noopener">https://www.groupebordet.fr/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groupe-bordet/" target="_blank" rel="noopener">groupe-bordet — 977 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+38% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Groupe Bordet is a French industrial group based in Leuglay (Burgundy) that has produced wood charcoal since 1860 using its patented Carboépuré® continuous pyrolysis process, serving charcoal markets including food, BBQ, aluminum smelting and activated carbon. It has expanded into Puro.earth-certified biochar (via partner Carbonapp) and bio-oils, and is investing over €30M — with €14.1M support from Bpifrance — in a new plant at Decize targeting 15,000 t/year of biochar plus bio-oils by 2027.
 
 ![Groupe Bordet website](/screenshots/groupe-bordet.png)
+
 
 ## Registry Memberships
 

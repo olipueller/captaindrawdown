@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://phathom.tech/" target="_blank" rel="noopener">https://phathom.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phathomtech/" target="_blank" rel="noopener">phathomtech — 1,004 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+120% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 pHathom Technologies is a Halifax, Nova Scotia cleantech startup founded in 2024 developing a hybrid BECCS + ocean alkalinity pathway. Its "bolt-on" reactor captures biogenic CO2 from coastal bioenergy plants and reacts it with seawater and limestone to form dissolved bicarbonate, which is returned to the ocean for durable storage. In February 2026 it closed a C$4M seed round led by Propeller Ventures, bringing total committed capital past $12M, and it is a participant in Frontier's advance purchase program.
 
 ![pHathom website](/screenshots/phathom.png)
+
 
 
 ## History

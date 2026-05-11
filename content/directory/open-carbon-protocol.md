@@ -26,6 +26,7 @@ Open Carbon Protocol (OCP) is a collaborative carbon crediting registry and meth
 ![Open Carbon Protocol website](/screenshots/open-carbon-protocol.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

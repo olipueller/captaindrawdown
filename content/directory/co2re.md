@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://co2re.org/" target="_blank" rel="noopener">https://co2re.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2re/" target="_blank" rel="noopener">co2re — 3,992 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+38% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 CO₂RE is the UK's national research hub on Greenhouse Gas Removal, led by the Smith School, University of Oxford. It conducts research, co-ordinates demonstration projects around the UK, connects to other relevant national and international programmes, and commissions grants through a flexible fund. It also develops the CO2RE GGR Evaluation Framework and policy guidance rather than physically removing CO2 itself.
 
 ![CO2Re website](/screenshots/co2re.png)
+
 
 
 ## History

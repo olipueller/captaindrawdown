@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.zeodac.com/" target="_blank" rel="noopener">https://www.zeodac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zeodac-inc/" target="_blank" rel="noopener">zeodac-inc — 773 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+83% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 ZeoDAC is a Caltech/Georgia Tech spinout founded in June 2023 by Professors Christopher Jones and Mark E. Davis, commercializing an amine-free, zeolite-based Direct Air Capture process under exclusive license to Caltech IP. Backed by Wilson Hill Ventures, Coca-Cola Europacific Partners, Freeflow Ventures, and Global Brain, and based at Georgia Tech's ATDC in Atlanta.
 
 ![ZeoDAC website](/screenshots/zeodac.png)
+
 
 
 ## History

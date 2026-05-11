@@ -27,6 +27,7 @@ Holocene Climate Corporation is a Knoxville, Tennessee DAC startup founded in 20
 ![Holocene website](/screenshots/holocene.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

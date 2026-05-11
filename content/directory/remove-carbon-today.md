@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Unknown</td></tr>
   <tr><th>Website</th><td><a href="https://www.removecarbontoday.com/" target="_blank" rel="noopener">https://www.removecarbontoday.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -23,6 +23,7 @@ liveliness: "🟡 Moderate"
 Remove Carbon Today is an online retail storefront that enables individuals to purchase certified, durable carbon removal credits. It aggregates small customer purchases and retires Puro.earth CO₂ Removal Certificates (CORCs) on their behalf, sourcing removals from third-party supplier partners. The company does not operate its own removal technology.
 
 ![Remove Carbon Today website](/screenshots/remove-carbon-today.png)
+
 
 
 ## History

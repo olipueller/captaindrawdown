@@ -27,6 +27,7 @@ Founded in 2022 by Kristjan Lepik and Lisett Luik, Arbonics is a Tallinn-based n
 ![Arbonics website](/screenshots/arbonics.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

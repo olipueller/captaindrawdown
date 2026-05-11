@@ -27,6 +27,7 @@ Super Biochar is a South Norwalk, Connecticut-based climate-tech startup founded
 ![Super Biochar website](/screenshots/super-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))

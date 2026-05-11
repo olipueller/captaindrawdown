@@ -27,6 +27,7 @@ Electrocean is an early-stage, Purdue University student-founded US startup deve
 ![Electrocean website](/screenshots/electrocean.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

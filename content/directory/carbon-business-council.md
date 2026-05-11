@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonbusinesscouncil.org/" target="_blank" rel="noopener">https://www.carbonbusinesscouncil.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonbusinesscouncil/" target="_blank" rel="noopener">carbonbusinesscouncil — 9,920 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade association representing more than 100 carbon management companies across six continents. It advocates for CDR policy, runs regional working groups (APAC, Latin America, Canada), publishes policy primers, and provides training on responsible deployment of carbon removal.
 
 ![Carbon Business Council website](/screenshots/carbon-business-council.png)
+
 
 
 ## History

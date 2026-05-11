@@ -26,6 +26,7 @@ Renu Earth, Inc. is a US-incorporated biochar carbon-removal company operating a
 ![renu.earth website](/screenshots/renuearth.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal

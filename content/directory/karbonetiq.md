@@ -5,7 +5,7 @@ type: "directory"
 description: "Surficial mineralization: crushes alkaline industrial residues (slags, ash) and cycles them through passive aeration reactors so atmospheric CO2 bonds into stable carbonates, with sensor-based MRV."
 url: "/directory/karbonetiq/"
 pathway: "Mineralization"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,9 +15,10 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.karbonetiq.com/" target="_blank" rel="noopener">https://www.karbonetiq.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/karbonetiq-inc/" target="_blank" rel="noopener">karbonetiq-inc — 121 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -26,12 +27,22 @@ Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) devel
 
 ![Karbonetiq website](/screenshots/karbonetiq.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Carbonated Materials · since 2025-08-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/karbonetiq-contrecoeur-153)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Puro.earth
 
 ## History
 
+- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.karbonetiq.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.karbonetiq.com/))

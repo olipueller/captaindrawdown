@@ -26,6 +26,7 @@ Carbonity is a joint venture equally owned by Airex Energy, Groupe Rémabec, and
 ![Carbonity website](/screenshots/carbonity.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

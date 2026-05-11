@@ -27,6 +27,7 @@ CO₂Zero positions itself as the first open-innovation DAC integrator, offering
 ![CO2Zero website](/screenshots/co2zero.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -26,6 +26,7 @@ Oxford Charcoal Company is a UK producer of ethically-sourced lumpwood gourmet c
 ![Oxford Charcoal Company website](/screenshots/oxford-charcoal-company.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

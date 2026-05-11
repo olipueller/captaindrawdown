@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.bioflux.earth/" target="_blank" rel="noopener">https://www.bioflux.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioflux-eu/" target="_blank" rel="noopener">bioflux-eu — 2,557 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 BioFlux is a consultancy focused on biochar carbon removal project development. It guides project developers and empowers existing biochar producers by working on topics related to biomass waste streams, biochar, pyrolysis, and carbon credits. Services include designing pathways from production to certified carbon credits, including LCAs, project design documentation, MRV system setup, and registry submission support for Puro.Earth, Isometric, Riverse, CSI and VERRA.
 
 ![BioFlux website](/screenshots/bioflux.png)
+
 
 ## Registry Memberships
 

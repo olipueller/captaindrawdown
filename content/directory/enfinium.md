@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://enfinium.co.uk/" target="_blank" rel="noopener">https://enfinium.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enfiniumuk/" target="_blank" rel="noopener">enfiniumuk — 14,899 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~258 (+13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 enfinium is one of the UK's largest energy-from-waste operators, running six facilities across West Yorkshire, Kent and Flintshire that convert unrecyclable waste into power. The company is piloting carbon capture (with Kanadevia Inova at Parc Adfer and Nuada/MOF Technologies at Ferrybridge) and has progressed a Development Consent Order for full-scale CCS at its Ferrybridge site, which would capture the biogenic fraction of flue gas to generate BECCS-style carbon removals. Waste processing and power generation remain the core business; CDR is an adjacent decarbonisation strategy.
 
 ![enfinium website](/screenshots/enfinium.png)
+
 
 
 ## History

@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pyropic.com" target="_blank" rel="noopener">https://pyropic.com</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -23,6 +23,7 @@ liveliness: "🟡 Moderate"
 Pyropic is a US-based pure-play biochar company that deploys integrated, turn-key pyrolysis systems for agricultural operators, converting crop residues into biochar for durable carbon dioxide removal while generating renewable energy from syngas. The company positions its technology as reducing hauling and spreading costs for farmers while producing CDR-grade biochar.
 
 ![Pyropic website](/screenshots/pyropic.png)
+
 
 
 ## History

@@ -26,6 +26,7 @@ MYNO Carbon Corp. is a Washington-based biochar company founded in 2020 that is 
 ![MYNO website](/screenshots/myno.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://mynocarbon.com/))

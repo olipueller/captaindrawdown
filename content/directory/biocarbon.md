@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.biocarbon.com.au/" target="_blank" rel="noopener">https://www.biocarbon.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocarbon-au/" target="_blank" rel="noopener">biocarbon-au — 992 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 BioCarbon is an Australian climate-tech firm that uses proprietary pyrolysis and consolidation technology to transform woody biomass waste into GreenChar, a net-zero replacement for metallurgical coke in Electric Arc Furnace steelmaking. In January 2026 it secured AU$4.8M from ARENA to build its first commercial-scale plant at Bulahdelah, NSW, which will process ~20,000 t/yr of waste woodchips into ~8,000 t/yr of renewable carbon products, and it also markets ACCU-verified biochar carbon credits.
 
 ![BioCarbon website](/screenshots/biocarbon.png)
+
 
 
 ## History

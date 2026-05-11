@@ -27,6 +27,7 @@ SOLER Group is a French family-owned renewable carbon producer (founded 1993, pa
 ![SOLER Group website](/screenshots/soler-group.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://soler-group.com/biochar-carbon-sink/))

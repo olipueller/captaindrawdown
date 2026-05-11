@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cardinalethanol.com/" target="_blank" rel="noopener">https://www.cardinalethanol.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cardinal-ethanol-llc/" target="_blank" rel="noopener">cardinal-ethanol-llc — 637 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~65 (+16% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Cardinal Ethanol is an Indiana-based corn ethanol producer (roughly 135-140 million gallons per year) that, through the 50/50 One Carbon Partnership joint venture with Vault 44.01, is developing a BECCS project to capture and permanently sequester biogenic fermentation CO2 at its Union City, Indiana plant. In April 2026 the EPA Region 5 issued a final Class VI UIC permit authorizing injection of up to 450,000 metric tons of CO2 per year (about 13.5 million tonnes over 30 years). Ethanol production — not CDR — is Cardinal's core business; the CCS project is an adjacent decarbonization add-on driven by 45Q, 45Z and low-carbon-fuel economics.
 
 ![Cardinal Ethanol website](/screenshots/cardinal-ethanol.png)
+
 
 
 ## History

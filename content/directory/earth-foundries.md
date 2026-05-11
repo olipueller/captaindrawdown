@@ -14,9 +14,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.earthfoundriesinc.com/" target="_blank" rel="noopener">https://www.earthfoundriesinc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/earth-foundries-inc/" target="_blank" rel="noopener">earth-foundries-inc — 786 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Climate Action Reserve</td></tr>
 </table>
 
 ## About
@@ -24,6 +25,15 @@ liveliness: "🟢 Active"
 Earth Foundries is a California-based, woman-owned Benefit Corporation founded in 2021 that uses mobile Tigercat carbonizers (branded Slash Attack®) to convert unmerchantable forest waste from hazardous fuels reduction projects into biochar. The company partners with CAL FIRE, USFS, East Bay Regional Park District and private forestry contractors to reduce wildfire risk while producing carbon-sequestering biochar.
 
 ![Earth Foundries website](/screenshots/earth-foundries.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Climate Action Reserve**
+- 1 project · Unknown &nbsp;[↗](https://thereserve2.apx.com/mymodule/reg/prjView.asp?id1=2155)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

@@ -26,6 +26,7 @@ Biochar Life is a Delaware Public Benefit Corporation and impact venture of the 
 ![Biochar Life website](/screenshots/biochar-life.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))

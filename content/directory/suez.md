@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.suez.com/en" target="_blank" rel="noopener">https://www.suez.com/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/suez/" target="_blank" rel="noopener">suez — 898,889 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~26066 (+3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 SUEZ is a large French waste and water utility (~26,000 employees) developing carbon capture as an adjunct to its existing energy-from-waste and anaerobic digestion operations. Its UK arm is pursuing BECCS retrofits at Teesside energy-from-waste plants (Haverton Hill and Wilton), with Pre-FEED completed by Fluor and Technip Energies and CO2 destined for permanent storage via the East Coast Cluster, pending government funding. SUEZ also inaugurated a 3,500 t/yr biogenic CO2 recovery unit at Terres d'Aquitaine in Gironde in 2025, though that output is used in greenhouses (CCU rather than durable CDR).
 
 ![SUEZ website](/screenshots/suez.png)
+
 
 
 ## History

@@ -28,6 +28,7 @@ Kepler ReCapture is an Austin, Texas-based division of aerospace/defense consult
 ![Kepler ReCapture website](/screenshots/kepler-recapture.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://keplerrecapture.com/))

@@ -19,6 +19,7 @@ liveliness: "🟢 Active"
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~308 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+  <tr><th>Registry-verified</th><td>Climate Action Reserve</td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ liveliness: "🟢 Active"
 3Degrees is a San Francisco-based global climate solutions provider and Certified B Corporation that helps Fortune 500 companies, utilities, and other organizations meet decarbonization goals through renewable energy, carbon credit advisory, and CDR procurement services. Its Carbon Removal Suite (CDR Bridge and CDR Catalyst) curates verified portfolios across nature-based, hybrid, and engineered removal pathways including biochar and enhanced rock weathering. The firm acts as a broker/intermediary, having facilitated notable transactions such as an 80,000+ tonne removal purchase for Microsoft from the Blue Creek Forest project and an exclusive partnership with CarbiCrete.
 
 ![3Degrees website](/screenshots/3degrees.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Climate Action Reserve**
+- 4 projects · Unknown &nbsp;[↗](https://thereserve2.apx.com/mymodule/reg/prjView.asp?id1=2148)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

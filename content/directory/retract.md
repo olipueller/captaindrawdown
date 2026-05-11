@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://retract.com/" target="_blank" rel="noopener">https://retract.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/retract/" target="_blank" rel="noopener">retract — 140 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟡 Moderate"
 Retract is a Boulder, Colorado-based early-stage startup that describes itself as a developer, constructor, and operator of direct air capture and sequestration facilities. The company is very small (LinkedIn lists 2-10 employees) with no public news, funding announcements, or registry activity found via web search. Operational status is unclear beyond a minimal web/LinkedIn presence and a Crunchbase profile listing co-founder John H. Switzer.
 
 ![Retract website](/screenshots/retract.png)
+
 
 
 ## History

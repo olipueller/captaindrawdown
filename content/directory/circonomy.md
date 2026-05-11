@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.circonomy.co/" target="_blank" rel="noopener">https://www.circonomy.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circonomy/" target="_blank" rel="noopener">circonomy — 3,529 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+150% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Circonomy is a Singapore-based climate tech startup specialized in carbon removal through biochar projects, working with farmer producer organizations, biomass aggregators and smallholder farmers in India to turn organic waste into biochar. The company received dMRV certification from Carbon Standards International in December 2023 for its digital Measurement, Reporting, and Verification system used in its carbon removal initiatives. In late 2025 Circonomy, a Biochar CDR project developer, announced an agreement with Narmada Bio-Chem Limited in India to develop a fully integrated, industrial-scale biochar facility.
 
 ![Circonomy website](/screenshots/circonomy.png)
+
 
 ## Registry Memberships
 

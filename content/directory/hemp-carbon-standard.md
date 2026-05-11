@@ -28,6 +28,7 @@ Hemp Carbon Standard (HCS) is a Calgary-based wholly-owned subsidiary of Hempalt
 ![Hemp Carbon Standard website](/screenshots/hemp-carbon-standard.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

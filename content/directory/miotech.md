@@ -27,6 +27,7 @@ MioTech is a Hong Kong/Shanghai-based AI-powered ESG and sustainability data sof
 ![MioTech website](/screenshots/miotech.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))

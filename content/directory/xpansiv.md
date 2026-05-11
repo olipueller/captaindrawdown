@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.xpansiv.com/" target="_blank" rel="noopener">https://www.xpansiv.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/xpansiv-data-systems/" target="_blank" rel="noopener">xpansiv-data-systems — 15,804 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~245 (+42% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Xpansiv operates market infrastructure for environmental commodities, including the CBL spot exchange for carbon credits and RECs, Evolution Markets brokerage, and Xpansiv Connect registry/portfolio management integrating 15+ registries. It is a neutral marketplace and data platform rather than a CDR project developer, but carbon credits (including CDR) are a core part of its business.
 
 ![Xpansiv website](/screenshots/xpansiv.png)
+
 
 
 ## History

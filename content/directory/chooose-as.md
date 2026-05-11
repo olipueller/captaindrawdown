@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.chooose.today/" target="_blank" rel="noopener">https://www.chooose.today/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/chooose/" target="_blank" rel="noopener">chooose — 9,689 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~70 (-7% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Chooose AS is an Oslo-based climate-tech SaaS company founded in 2017 that provides software, APIs, and a marketplace platform for enterprises — particularly airlines, travel, and logistics firms — to manage SAF programs, calculate emissions, and access vetted carbon removals and offsets. They do not physically remove CO2; they operate as an ecosystem platform connecting buyers with SAF producers and carbon project developers. Customers include Delta, Air Canada, British Airways, Alaska Airlines, Japan Airlines, and Booking.com.
 
 ![Chooose AS website](/screenshots/chooose-as.png)
+
 
 ## Registry Memberships
 

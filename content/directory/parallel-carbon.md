@@ -28,6 +28,7 @@ Parallel Carbon is a Manchester, UK-based company founded in 2021 that develops 
 ![Parallel Carbon website](/screenshots/parallel-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.parallelcarbon.com/post/parallel-carbon-unlocking-cost-effective-carbon-removal-and-hydrogen-co-production))

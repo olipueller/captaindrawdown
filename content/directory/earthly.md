@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://earthly.org" target="_blank" rel="noopener">https://earthly.org</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/projectearthly/" target="_blank" rel="noopener">projectearthly — 24,178 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~35 (+13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -27,8 +27,10 @@ Earthly is a UK-based nature-based carbon credit marketplace that connects busin
 ![Earthly website](/screenshots/earthly.png)
 
 
+
 ## History
 
+- **2026-05-07** — news mention: Earthly Biochar Kiln: Original ([source](https://oldtreesoil.org/products/earthly-biochar-kiln))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

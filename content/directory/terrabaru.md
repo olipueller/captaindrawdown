@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Indonesia</td></tr>
   <tr><th>Website</th><td><a href="https://terrabaru.com/" target="_blank" rel="noopener">https://terrabaru.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planet-netzero/" target="_blank" rel="noopener">planet-netzero</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~20 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 TerraBaru produces TerraKarbon, a stable carbon-rich biochar made through pyrolysis of organic waste to international standards, from agricultural residues in Indonesia. The company is headquartered in Bali with a Singapore office and sells biochar alongside carbon removal credits, targeting soil health, infrastructure, and energy applications.
 
 ![TerraBaru website](/screenshots/terrabaru.png)
+
 
 ## Registry Memberships
 

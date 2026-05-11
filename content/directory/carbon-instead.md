@@ -27,6 +27,7 @@ Carbon Instead (Carbon Instead Solutions GmbH) is a Germany-based small company 
 ![Carbon Instead website](/screenshots/carbon-instead.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

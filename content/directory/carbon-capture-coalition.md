@@ -28,6 +28,7 @@ The Carbon Capture Coalition is a US nonpartisan policy advocacy coalition conve
 ![Carbon Capture Coalition website](/screenshots/carbon-capture-coalition.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

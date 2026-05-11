@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://ecotree.green/" target="_blank" rel="noopener">https://ecotree.green/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecotree/" target="_blank" rel="noopener">ecotree — 24,484 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~43 (-9% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 EcoTree provides verified carbon sequestration through afforestation and peatland restoration projects in Belgium, Denmark, France, and Germany, with projects third-party verified by bodies such as Bureau Veritas, Label Bas Carbone and MoorFutures. The company owns and manages its own forests, sells tree ownership to individuals and carbon credits to corporates, and operates its own registry. Its main business is forestry, sustainably managed to enrich biodiversity and produce renewable raw materials alongside carbon removal.
 
 ![Ecotree website](/screenshots/ecotree.png)
+
 
 ## Registry Memberships
 

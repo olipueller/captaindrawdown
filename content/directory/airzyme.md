@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://airzy.me/" target="_blank" rel="noopener">https://airzy.me/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airzyme/" target="_blank" rel="noopener">airzyme — 804 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 AirZyme is a Stockholm-based climate tech startup (founded 2022) developing a biomimetic "Bio-DAC" system inspired by lung gas exchange, using Carbonic Anhydrase enzymes as biocatalysts to enhance CO2 absorption efficiency. The company has participated in the remove CDR accelerator program and received a Vinnova deep-tech grant, and remains a small early-stage R&D team (~5 employees).
 
 ![AirZyme website](/screenshots/airzyme.png)
+
 
 ## Registry Memberships
 

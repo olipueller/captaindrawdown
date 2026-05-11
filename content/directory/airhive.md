@@ -27,6 +27,7 @@ Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energ
 ![Airhive website](/screenshots/airhive.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/airhive/__58otEpxQIKuZ3IUk3wwzVyXRekF9iOrUoIuzs9evcG0))

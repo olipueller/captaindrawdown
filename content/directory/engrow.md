@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://engrowfuels.com/" target="_blank" rel="noopener">https://engrowfuels.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/engrow-group/" target="_blank" rel="noopener">engrow-group — 507 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~14 (+27% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Engrow Carbon Energy Private Limited is an Indian private limited company incorporated on May 23, 2019, registered in Erode, Tamil Nadu, with active status. Its product range includes bio-fuel, bio-char, and carbon removal credits, with a stated mission of transforming industrial biomass waste into clean energy and permanent carbon removal. It is listed by the International Biochar Initiative among biochar producers actively scaling projects across India and other regions.
 
 ![Engrow website](/screenshots/engrow.png)
+
 
 
 ## History

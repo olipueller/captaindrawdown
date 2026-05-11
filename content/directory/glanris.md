@@ -25,6 +25,7 @@ Glanris is a US clean-tech company based in Olive Branch, Mississippi that manuf
 
 ![Glanris website](/screenshots/glanris.png)
 
+
 ## Registry Memberships
 
 - Puro.earth

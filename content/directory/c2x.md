@@ -28,6 +28,7 @@ C2X is a green methanol project developer majority-owned by A.P. Moller Holding 
 ![C2X website](/screenshots/c2x.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

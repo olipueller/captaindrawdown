@@ -26,6 +26,7 @@ Compensate is a Helsinki-based carbon offset broker/retailer that curates a port
 ![Compensate website](/screenshots/compensate.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

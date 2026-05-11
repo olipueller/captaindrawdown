@@ -26,6 +26,7 @@ Klimafarmer GmbH is a German biochar company based in Nierstein, Rhineland-Palat
 ![Klimafarmer website](/screenshots/klimafarmer.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

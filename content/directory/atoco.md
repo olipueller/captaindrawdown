@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://atoco.com/" target="_blank" rel="noopener">https://atoco.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atoco/" target="_blank" rel="noopener">atoco — 8,855 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+43% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Atoco is a California-based deep-tech company founded in 2020 by Professor Omar Yaghi, inventor of metal-organic frameworks (MOFs) and covalent organic frameworks (COFs), who was awarded the 2025 Nobel Prize in Chemistry. Its solid-state carbon capture modules are designed to capture CO2 from ambient air and industrial emissions, and the company also develops atmospheric water harvesting solutions using the same reticular materials platform.
 
 ![Atoco website](/screenshots/atoco.png)
+
 
 ## Registry Memberships
 

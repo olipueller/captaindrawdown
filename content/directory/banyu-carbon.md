@@ -27,6 +27,7 @@ Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of 
 ![Banyu Carbon website](/screenshots/banyu-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))

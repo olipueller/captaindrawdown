@@ -26,6 +26,7 @@ NY Carbon is a small Saugerties, NY-based commercial biochar producer using loca
 ![NY Carbon website](/screenshots/ny-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

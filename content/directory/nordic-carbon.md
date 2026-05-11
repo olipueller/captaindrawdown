@@ -26,6 +26,7 @@ Nordic Carbon is a Danish biochar developer that sources biomass residues and de
 ![Nordic Carbon website](/screenshots/nordic-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))

@@ -27,6 +27,7 @@ Regen Organics is a Nairobi-based social venture and founding member of The Sane
 ![Regen Organics website](/screenshots/regen-organics.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.regenorganics.co/))

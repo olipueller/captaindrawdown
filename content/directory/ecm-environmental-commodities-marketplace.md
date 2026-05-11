@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Turkey</td></tr>
   <tr><th>Website</th><td><a href="https://www.erguvan.co/" target="_blank" rel="noopener">https://www.erguvan.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/erguvan/" target="_blank" rel="noopener">erguvan — 3,373 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 ECM (Environmental Commodities Marketplace) is the flagship platform of Erguvan, an Istanbul-based climate technology firm founded in 2022. It is a digital trading platform that connects carbon credit and REC buyers directly with project developers, supporting spot/forward trading, tendering, and advance market commitments. ECM lists credits from various standards including Puro.earth's engineered carbon removal credits, placing it within the CDR ecosystem as a marketplace/broker rather than a removal supplier itself.
 
 ![ECM | Environmental Commodities Marketplace website](/screenshots/ecm-environmental-commodities-marketplace.png)
+
 
 
 ## History

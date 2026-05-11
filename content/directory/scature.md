@@ -28,6 +28,7 @@ Scature is a Netherlands-based broker/marketplace connecting corporate buyers wi
 ![Scature website](/screenshots/scature.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

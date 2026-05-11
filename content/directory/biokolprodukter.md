@@ -26,6 +26,7 @@ Biokolprodukter is a Swedish biochar company established in 2019 that partners w
 ![Biokolprodukter website](/screenshots/biokolprodukter.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

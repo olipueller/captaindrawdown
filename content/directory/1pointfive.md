@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.1pointfive.com/" target="_blank" rel="noopener">https://www.1pointfive.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/1pointfive/" target="_blank" rel="noopener">1pointfive — 28,248 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~32 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 1PointFive is a Houston-based CCUS subsidiary of Occidental Petroleum developing the STRATOS direct air capture facility in the Permian Basin, designed to capture up to 500,000 tonnes of CO2 per year. Phase 1 is in final startup stage with operations expected to begin in Q2 2026, and the project is being developed through a joint venture with BlackRock. Offtake buyers include Microsoft, Amazon, AT&T, Airbus, Bain & Company, and the Houston Astros.
 
 ![1PointFive website](/screenshots/1pointfive.png)
+
 
 
 ## History

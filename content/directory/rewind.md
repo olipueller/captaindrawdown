@@ -16,9 +16,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://www.rewind.earth/" target="_blank" rel="noopener">https://www.rewind.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rewindearth/" target="_blank" rel="noopener">rewindearth — 2,011 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via isometric issuance through 2026-05-01</small></td></tr>
   <tr><th>Employees</th><td>~13 (+44% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-05-01)</small></td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ liveliness: "🟢 Active"
 Rewind is an Israeli nature-powered carbon removal company that launched the world's first commercial deep mine carbon storage project, DMS Georgia, located 1.3 km underground in western Georgia, issuing certified carbon credits by preserving plant-based carbon in naturally oxygen-free underground environments. The company also runs two Marine Anoxic Carbon Storage (MACS) initiatives — one in Romania and one in the Mediterranean Sea near Israel. The first certified credits are expected in early 2026, the site's annual capacity is projected to reach 50,000 tonnes by 2027, and by 2030 Rewind aims to remove one million tonnes of carbon per year across a global network of deep mines and marine basins.
 
 ![Rewind website](/screenshots/rewind.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biomass Burial · 108 tCO₂ issued · since 2026-05-01 &nbsp;[↗](https://to.isometric.com/prj_1KFDNVSDZ1S0QA39)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

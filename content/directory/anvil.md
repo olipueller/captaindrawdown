@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.anvilcarbon.com" target="_blank" rel="noopener">https://www.anvilcarbon.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/anvil-capture-systems/" target="_blank" rel="noopener">anvil-capture-systems — 468 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Anvil Capture Systems is a CDR company focused on developing and scaling the CO2 mineralization reaction with alkaline-bearing ores, utilizing a proprietary low-energy reactor and feedstock preparation system. The Somerville, MA-based startup is a Greentown Labs member, received a Frontier prepurchase in Fall 2024, and was named an awardee of a Massachusetts state climate-tech grant program in 2025.
 
 ![Anvil website](/screenshots/anvil.png)
+
 
 
 ## History

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.pyrogen.energy/" target="_blank" rel="noopener">https://www.pyrogen.energy/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyrogen-energy/" target="_blank" rel="noopener">pyrogen-energy — 921 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Pyrogen is a Kenya-based biochar-concrete carbon removal startup founded in 2022 and headquartered in Gilgil. It produces biochar from invasive and waste biomass and incorporates it into patented low-carbon concrete mix designs for construction products, and is developing a commercial pilot plant in Baringo County targeting ~3,000 tonnes CO2 sequestration per year at full capacity.
 
 ![Pyrogen website](/screenshots/pyrogen.png)
+
 
 
 ## History

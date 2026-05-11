@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Website</th><td><a href="https://www.reclimate.earth/" target="_blank" rel="noopener">https://www.reclimate.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reclimateglobal/" target="_blank" rel="noopener">reclimateglobal — 1,818 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~9 (+125% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Reclimate has several biochar projects in its portfolio, working with farmers and other partners to turn agriculture waste into biochar and selling carbon credits generated from these projects. The company works with rice farmers in Kedah to turn paddy straw into biochar, with SEAD Bamboo to reach Orang Asli communities, and has a project in Sri Lanka in collaboration with a coconut mill. Quality is governed by third-party standards including the European Biochar Certificate and World Biochar Certificate from Carbon Standards International.
 
 ![Reclimate website](/screenshots/reclimate.png)
+
 
 
 ## History

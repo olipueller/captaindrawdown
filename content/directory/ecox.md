@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://eco-x.com/" target="_blank" rel="noopener">https://eco-x.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco-x-llc/" target="_blank" rel="noopener">eco-x-llc — 41 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟠 Suspect"
 ecoX, LLC is a US-based pure-play biochar project developer whose mission is to produce durable CDR credits while pairing biochar production with community development ("Poverty Eradication Franchise") and African Savanna rewilding. The company is listed on Puro.earth as future supplier ecoX-1 with a planned Namibia facility, currently in feasibility/early development with 0 CORCs issued.
 
 ![ecoX website](/screenshots/ecox.png)
+
 
 
 ## History

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Colombia</td></tr>
   <tr><th>Website</th><td><a href="https://www.cercarbono.com/" target="_blank" rel="noopener">https://www.cercarbono.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cercarbono/" target="_blank" rel="noopener">cercarbono — 9,077 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~14 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -28,8 +28,10 @@ Cercarbono is a voluntary carbon certification standard established in Colombia 
 ![Cercarbono website](/screenshots/cercarbono.png)
 
 
+
 ## History
 
+- **2026-05-07** — news mention: Welcoming Isometric and Cercarbono to OffsetsDB – CarbonPlan ([source](https://carbonplan.org/blog/offsetsdb-cercarbono-isometric))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness

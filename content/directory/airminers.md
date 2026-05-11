@@ -5,7 +5,7 @@ type: "directory"
 description: "Nonprofit-style community, education (BootUp) and accelerator (Launchpad) platform supporting early-stage CDR founders across all pathways."
 url: "/directory/airminers/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://airminers.com/" target="_blank" rel="noopener">https://airminers.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -25,8 +25,13 @@ AirMiners is a community, education, and accelerator organization for the carbon
 ![AirMiners website](/screenshots/airminers.png)
 
 
+
 ## History
 
+- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
+- **2026-05-06** — news mention: Take: AirMiners: What ([source](https://captaindrawdown.com/posts/yt-take-airminers-what-s-hot-in-carbon-doxide-removal-april-2026-gewnepys/))
+- **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age.  Deal sizes are climbing into six-fi ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

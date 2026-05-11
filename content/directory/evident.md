@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://evident.global" target="_blank" rel="noopener">https://evident.global</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/international-rec-services/" target="_blank" rel="noopener">international-rec-services — 8,338 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~125</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,8 +26,10 @@ Evident is a Sheffield, UK-based certification and registry provider, best known
 ![Evident website](/screenshots/evident.png)
 
 
+
 ## History
 
+- **2026-05-09** — news mention: Supercritical Secures Capital to Scale Carbon Removal Project Development – Biochar Today ([source](https://biochartoday.com/news/supercritical-secures-capital-to-scale-carbon-removal-project-development/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

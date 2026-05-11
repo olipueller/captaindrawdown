@@ -26,6 +26,7 @@ PUHI is a Finland-based biochar and carbon removal company operating its first p
 ![PUHI website](/screenshots/puhi.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

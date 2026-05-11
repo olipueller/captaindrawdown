@@ -28,6 +28,7 @@ Cool Effect is a US-based 501(c)(3) nonprofit carbon credit marketplace headquar
 ![Cool Effect Inc website](/screenshots/cool-effect-inc.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

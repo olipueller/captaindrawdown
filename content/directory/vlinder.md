@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://vlinderclimate.com/" target="_blank" rel="noopener">https://vlinderclimate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vlinderapp/" target="_blank" rel="noopener">vlinderapp — 2,986 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~18 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Vlinder is an Austria-headquartered nature-based climate company that develops mangrove restoration projects in Asia and Africa, generating blue carbon credits. They co-design projects with local communities, share at least 50% of carbon credits with local stakeholders, and have restored over 1,600 hectares with a larger pipeline.
 
 ![Vlinder website](/screenshots/vlinder.png)
+
 
 
 ## History

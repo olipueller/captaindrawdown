@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://beccs.se/" target="_blank" rel="noopener">https://beccs.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beccs-stockholm/" target="_blank" rel="noopener">beccs-stockholm — 5,226 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~750</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -27,8 +27,10 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 ![Beccs Stockholm website](/screenshots/beccs-stockholm.png)
 
 
+
 ## History
 
+- **2026-05-11** — news mention: Mammoet awarded heavy-lift scope for Beccs Stockholm - theenergyst.com ([source](https://theenergyst.com/mammoet-awarded-heavy-lift-scope-for-beccs-stockholm/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

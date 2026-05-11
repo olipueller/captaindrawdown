@@ -26,6 +26,7 @@ Söderenergi is a Swedish municipal energy utility jointly owned by the municipa
 ![Söderenergi website](/screenshots/söderenergi.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

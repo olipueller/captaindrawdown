@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.goldstandard.org/" target="_blank" rel="noopener">https://www.goldstandard.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gold-standard/" target="_blank" rel="noopener">gold-standard — 54,727 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~195 (+39% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -27,8 +27,10 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 ![Gold Standard website](/screenshots/gold-standard.png)
 
 
+
 ## History
 
+- **2026-05-06** — news mention: Gold Standard Modernizes Carbon Accounting For Cookstove Sector With Four Updated Methodologies ([source](https://carbonherald.com/gold-standard-modernizes-carbon-accounting-for-cookstove-sector-with-four-updated-methodologies/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-modernizes-carbon-accounting-for-cookstove-sector-with-four-updated-methodologies))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-29** — news mention: Prithu raises $1.1 m to scale carbon removal platform for nature-based solutions - The HinduBusiness ([source](https://www.thehindubusinessline.com/economy/agri-business/prithu-raises-11-m-to-scale-carbon-removal-platform-for-nature-based-solutions/article70919353.ece))
 - **2026-04-25** — news mention: Gold Standard Launches New Methodologies, Including First Biochar Standard  https://carbonherald.com ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkcb6bp3ll2v))

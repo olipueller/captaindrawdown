@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.alcove.io/" target="_blank" rel="noopener">https://www.alcove.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alcove-io/" target="_blank" rel="noopener">alcove-io — 1,173 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~9 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Alcove (alcove.io) is a New York-based software company building inventory management, dMRV and digital infrastructure for carbon credit project developers and standards. The platform automates forecasting, allocation, delivery and verification workflows, and integrates with registries like Isometric and with Shopify for sales. It is part of the CDR ecosystem (software/enabling tech), not a physical CO2 remover.
 
 ![Alcove Labs website](/screenshots/alcove-labs.png)
+
 
 
 ## History

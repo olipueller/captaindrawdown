@@ -28,6 +28,7 @@ Carbon Time is a Paris-based startup founded in 2021 and led by Ivan Communod th
 
 ![Carbon Time website](/screenshots/carbon-time.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://ahealthierearth.com" target="_blank" rel="noopener">https://ahealthierearth.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ahealthierearth/" target="_blank" rel="noopener">ahealthierearth — 2,970 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~13 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>7 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 A Healthier Earth (AHE) is the UK climate-tech R&D subsidiary of Pure Data Centres Group, operating the £24M PureBiochar facility in Royal Wootton Bassett, Wiltshire — billed as the UK's largest biochar plant. The site began phase 1 commissioning in November 2025 and at full capacity is designed to produce ~11,500 tonnes of biochar annually, removing up to 18,500 tonnes of CO2, using PYREG PX6000/PX1500/P500 pyrolysis equipment. AHE also runs ForestFactory, a reforestation partnership with Blenheim Palace.
 
 ![A Healthier Earth website](/screenshots/a-healthier-earth.png)
+
 
 ## Registry Memberships
 

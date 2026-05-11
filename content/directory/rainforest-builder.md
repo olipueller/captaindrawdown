@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.rainforestbuilder.com" target="_blank" rel="noopener">https://www.rainforestbuilder.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rainforest-builder/" target="_blank" rel="noopener">rainforest-builder — 6,791 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~111 (+127% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Founded in 2022, Rainforest Builder is a fully integrated tropical forest restoration company with operations in Sierra Leone, Ghana and Guinea, employing more than 2,500 people. In February 2026 it signed an offtake agreement with Microsoft for Project Buffalo in Sierra Leone, delivering up to 1.8 million carbon removal credits over 15 years, and in March 2026 closed a Series A led by BNPP AM Alts to scale operations and its Chameleon data platform.
 
 ![Rainforest Builder website](/screenshots/rainforest-builder.png)
+
 
 
 ## History

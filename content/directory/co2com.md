@@ -27,6 +27,7 @@ CO2.com is a curated climate portfolio provider that packages and sells carbon c
 ![CO2.com website](/screenshots/co2com.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

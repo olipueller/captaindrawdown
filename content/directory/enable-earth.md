@@ -17,6 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+300% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -24,6 +25,15 @@ liveliness: "🟢 Active"
 Enable Earth is a biochar project developer based in Wiang Pa Pao District, Chiang Rai Province, Thailand. It converts corn crop residues — otherwise openly burned and contributing to PM2.5 pollution — into biochar via pyrolysis, mixes it with compost, and distributes it to local farmers. The project has passed Puro.earth's Preliminary Assessment and is listed as a future supplier.
 
 ![Enable Earth website](/screenshots/enable-earth.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar &nbsp;[↗](https://to.isometric.com/prj_1KBECJX991S0EDE4)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

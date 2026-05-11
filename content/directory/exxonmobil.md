@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://lowcarbon.exxonmobil.com/" target="_blank" rel="noopener">https://lowcarbon.exxonmobil.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exxonmobil/" target="_blank" rel="noopener">exxonmobil — 3,743,535 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~750 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -27,12 +27,14 @@ ExxonMobil is one of the world's largest integrated oil and gas companies. Its L
 
 ![ExxonMobil website](/screenshots/exxonmobil.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-06** — news mention: Air Products Carbon Capture 2026, 5M Ton Project, ExxonMobil ([source](https://enkiai.com/carbon-capture/air-products-ccs-port-arthur/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

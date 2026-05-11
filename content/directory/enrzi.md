@@ -26,6 +26,7 @@ Enrzi is an India-based biochar venture that converts biomass into carbon-rich c
 ![Enrzi website](/screenshots/enrzi.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

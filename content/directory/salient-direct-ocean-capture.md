@@ -13,13 +13,14 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Ocean CDR</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Unknown</td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
 Salient Direct Ocean Capture (Salient DOC) is an early-stage startup pioneering electrochemical technology for direct ocean capture of CO2 from seawater, scaling from concept to pilot. Public information is extremely limited — there is no company website or funding announcements, with the only public references being a LinkedIn company page and an advisor's profile description.
+
 
 
 ## History

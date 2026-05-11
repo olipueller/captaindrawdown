@@ -24,6 +24,7 @@ Terra Char is the registered brand of BioEnergy Innovations Global, Inc., a Colu
 ![Terra Char website](/screenshots/terra-char.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

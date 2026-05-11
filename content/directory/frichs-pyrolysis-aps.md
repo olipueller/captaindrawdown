@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://frichs-pyrolysis.com/" target="_blank" rel="noopener">https://frichs-pyrolysis.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/frichs-pyrolysis/" target="_blank" rel="noopener">frichs-pyrolysis — 938 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~27 (+42% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Frichs Pyrolysis ApS is a Danish development company based in Horsens that builds flash pyrolysis plants producing biochar and syngas. Led by CEO Søren Bruun, the firm is delivering demonstration plants (including the Vrejlev Energi project) and plans to begin commercial sales of pyrolysis plants in early 2026.
 
 ![Frichs Pyrolysis Aps website](/screenshots/frichs-pyrolysis-aps.png)
+
 
 
 ## History

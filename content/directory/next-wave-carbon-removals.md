@@ -26,6 +26,7 @@ Next Wave Carbon Removal is a US-based (Des Moines, Iowa) joint venture combinin
 ![Next Wave Carbon Removals website](/screenshots/next-wave-carbon-removals.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

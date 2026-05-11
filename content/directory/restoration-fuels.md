@@ -5,7 +5,7 @@ type: "directory"
 description: "Operated a torrefaction/pyrolysis plant converting small-diameter forest thinnings and waste wood into torrefied pellets and biochar, with Puro.earth-registered carbon removal credits from biochar"
 url: "/directory/restoration-fuels/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,10 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://restorationfuels.com/" target="_blank" rel="noopener">https://restorationfuels.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/restoration-fuels/" target="_blank" rel="noopener">restoration-fuels — 1 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 5/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,12 +26,22 @@ Restoration Fuels was a commercial-scale torrefaction and biochar facility in Jo
 
 ![Restoration Fuels website](/screenshots/restoration-fuels.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2023-11-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/restoration-fuels-60)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Puro.earth
 
 ## History
 
+- **2026-05-11** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://bluemountaineagle.com/2024/07/31/restoration-fuels-shutters-john-day-torrefaction-plant/))
 - **2026-05-01** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🔴 Likely Dead ([source](https://bluemountaineagle.com/2024/07/31/restoration-fuels-shutters-john-day-torrefaction-plant/))

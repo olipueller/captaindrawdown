@@ -26,6 +26,7 @@ LignoCarbon Schweiz AG is a Swiss biochar producer in Illnau-Effretikon, founded
 ![LignoCarbon website](/screenshots/lignocarbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

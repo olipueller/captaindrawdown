@@ -28,6 +28,7 @@ EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project d
 ![Ecological Carbon Offset Partners website](/screenshots/ecological-carbon-offset-partners.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -27,6 +27,7 @@ Sanctu is a Brazilian reforestation startup that partners with low-income Amazon
 ![Sanctu website](/screenshots/sanctu.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

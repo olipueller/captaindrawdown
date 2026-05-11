@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.wastex.io/" target="_blank" rel="noopener">https://www.wastex.io/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -23,6 +23,7 @@ liveliness: "🟢 Active"
 WasteX is a Singapore-based climate-tech startup founded in 2022 by Pawel Kuznicki that builds proprietary small-scale carbonizer equipment and runs biochar facilities in partnership with mills and farms in Indonesia, the Philippines, and India. The company sells equipment, biochar, and carbon credits, and has raised roughly $975K including a $450K P4G grant in 2024.
 
 ![WasteX website](/screenshots/wastex.png)
+
 
 ## Registry Memberships
 

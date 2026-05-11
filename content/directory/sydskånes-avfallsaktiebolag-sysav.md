@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.sysav.se" target="_blank" rel="noopener">https://www.sysav.se</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sysav/" target="_blank" rel="noopener">sysav — 7,164 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~293 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Sysav (Sydskånes avfallsaktiebolag) is a waste management utility owned by 14 municipalities in southern Skåne, Sweden, handling collection, recycling, and waste-to-energy incineration. Through its SkyZero project, the company plans to install CCS at its Malmö waste-to-energy plant by 2030, capturing up to 400,000 tonnes CO2/yr with the biogenic fraction giving negative emissions. Waste management remains its core business; CDR is an adjacent activity.
 
 ![Sydskånes avfallsaktiebolag (SYSAV) website](/screenshots/sydskånes-avfallsaktiebolag-sysav.png)
+
 
 
 ## History

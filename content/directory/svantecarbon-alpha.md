@@ -26,6 +26,7 @@ Svante is a Vancouver, BC-based carbon capture and removal technology company. I
 
 ![Svante/Carbon Alpha website](/screenshots/svantecarbon-alpha.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terraton.ai/" target="_blank" rel="noopener">https://terraton.ai/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terraton/" target="_blank" rel="noopener">terraton — 1,540 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Terraton is a San Francisco-based climate tech startup building a full-stack platform for biochar-based carbon removal, helping agribusiness operators deploy biochar facilities and generate carbon credits. Its $11.5M seed funding round was co-led by Lowercarbon Capital and Gigascale Capital, alongside strategic investors including the ANA Future Frontier Fund and the Takanawa Gateway Global Co-Benefits Fund. First two projects — Three Mountains Cocoa in Ghana (preliminary approval by Puro.earth) and EcoFix in Kenya (under review with Isometric) — are expected to remove over 20,000 tons of CO₂ annually.
 
 ![Terraton website](/screenshots/terraton.png)
+
 
 
 ## History

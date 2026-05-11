@@ -27,6 +27,7 @@ Nūxsen is a New York-based direct air capture startup founded in 2022 developin
 ![Nuxsen website](/screenshots/nuxsen.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://nuxsen.com/news/))

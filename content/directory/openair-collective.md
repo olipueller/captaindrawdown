@@ -27,6 +27,7 @@ OpenAir Collective is a distributed global volunteer network advancing carbon di
 ![OpenAir Collective website](/screenshots/openair-collective.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

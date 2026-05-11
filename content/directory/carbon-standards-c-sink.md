@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-standards.com/en/home" target="_blank" rel="noopener">https://www.carbon-standards.com/en/home</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-standards/" target="_blank" rel="noopener">carbon-standards — 10,336 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~22 (+47% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Carbon Standards International develops reliable solutions for the production of certified biochar and for delivering credible climate services, with innovative standards designed for global application. The company is headquartered in Switzerland. It owns the European Biochar Certificate (EBC), World Biochar Certificate (WBC), Global Biochar C-Sink, Global Artisan C-Sink, and related standards, and runs the Global C-Sink Registry where certified sinks are registered and traded.
 
 ![Carbon Standards (C-Sink) website](/screenshots/carbon-standards-c-sink.png)
+
 
 
 ## History

@@ -15,9 +15,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://jeffries.com.au/" target="_blank" rel="noopener">https://jeffries.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/jeffries/" target="_blank" rel="noopener">jeffries — 2,456 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~125 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 Jeffries Group is a fourth-generation South Australian family composting and soil products company that recycles over 150,000 tonnes of organic material annually from Adelaide councils into compost, soil and mulch. In 2021 it commissioned a biochar plant (using Pyrocal CCT pyrolysis technology) that processes oversize woody material into biochar, blended into their CulChar organic fertiliser and sold as Puro.earth-listed CORCs. Composting/soil products remains the core business; biochar is an adjacent value-added product stream.
 
 ![Jeffries Group website](/screenshots/jeffries-group.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2023-02-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/jeffries-group)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

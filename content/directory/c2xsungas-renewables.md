@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://sungasrenewables.com/" target="_blank" rel="noopener">https://sungasrenewables.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sungas-renewables%20/" target="_blank" rel="noopener">sungas-renewables%20 — 3,608 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~25 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 SunGas Renewables (headquartered in Houston, Texas, and majority-owned by C2X Ltd, which is itself majority-controlled by A.P. Moller Holding with ENEOS and Maersk as minority shareholders) is developing the Beaver Lake Renewable Energy (BLRE) bio-methanol plant on a former paper mill site in Pineville, Louisiana. The facility will use three S1000 gasifiers to convert forestry residues into ~500,000 t/yr of green methanol for marine/aviation/chemical customers, while capturing and geologically sequestering ~1 million t/yr of surplus biogenic CO2 to generate engineered CDR credits. In December 2025 C2X signed a 12-year, 3.6 Mt CDR offtake with Microsoft; FID is targeted for 2026 with operations in 2029.
 
 ![C2X/SunGas Renewables website](/screenshots/c2xsungas-renewables.png)
+
 
 
 ## History

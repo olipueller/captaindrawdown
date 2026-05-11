@@ -27,6 +27,7 @@ TorrCoal was a Belgian torrefaction-technology specialist founded in 2005 in Dil
 ![TorrCoal website](/screenshots/torrcoal.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/torrcoal/__U_kCQfLncycFZXT1I27gV_53W07nOfpN91YLPeAiRK8/funding-and-investors))

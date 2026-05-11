@@ -25,6 +25,7 @@ ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental c
 
 ![ACT Group website](/screenshots/act-group.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth

@@ -26,6 +26,7 @@ Swiss Biochar is a Swiss producer of EBC-certified biochar and soil substrates b
 ![Swiss Biochar website](/screenshots/swiss-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

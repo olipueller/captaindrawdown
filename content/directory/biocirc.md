@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://biocirc.com/" target="_blank" rel="noopener">https://biocirc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocirc/" target="_blank" rel="noopener">biocirc — 6,948 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~350 (+9% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 BioCirc is a Danish circular bioeconomy company founded in 2021 that owns and operates eight biogas plants and is one of the largest biomethane producers globally. It is adding CO2 capture at five of its plants to deliver up to 1 million tonnes of biogenic CO2 to Project Greensand between 2026-2032, generating BECCS CDR credits as an additional revenue stream alongside its core biogas, solar, and energy-cluster businesses.
 
 ![BioCirc website](/screenshots/biocirc.png)
+
 
 ## Registry Memberships
 

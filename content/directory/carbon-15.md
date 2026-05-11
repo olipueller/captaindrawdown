@@ -25,6 +25,7 @@ Carbon 1.5 is a France-based direct air capture startup said to be developing so
 ![Carbon 1.5 website](/screenshots/carbon-15.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

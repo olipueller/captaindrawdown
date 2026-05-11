@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.tamu-group.com" target="_blank" rel="noopener">https://www.tamu-group.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tamugroup/" target="_blank" rel="noopener">tamugroup — 1,312 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+133% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Tamu Group is a Kenya-based (Singapore-incorporated) holding company that builds and scales environmental subsidiaries including Tamuwa (renewable biomass briquettes from sugarcane bagasse), Tera (biochar from bagasse pyrolysis), Flux (enhanced rock weathering on Kenyan farmland), and CYNK (a tokenized carbon credit trading platform). Through Tera and Flux it is a direct CDR supplier, while Tamuwa and CYNK handle biomass fuels and market infrastructure. The group is actively operating with recent (Nov 2025) coverage of Tera's biochar pilot in Western Kenya.
 
 ![Tamu group website](/screenshots/tamu-group.png)
+
 
 
 ## History

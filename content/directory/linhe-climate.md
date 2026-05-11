@@ -26,6 +26,7 @@ Linhe Climate Technology (霖和气候科技, Carbon Loop / co2loop) is a Beijin
 ![Linhe Climate website](/screenshots/linhe-climate.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

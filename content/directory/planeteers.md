@@ -16,11 +16,12 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://planeteers.de/" target="_blank" rel="noopener">https://planeteers.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh — 3,511 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~27 (+42% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -29,12 +30,22 @@ Planeteers is a Hamburg-based climate-tech company founded in December 2022 by e
 
 ![Planeteers website](/screenshots/planeteers.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Unknown &nbsp;[↗](https://to.isometric.com/prj_1K4SN1CT61S0NZ7N)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-06** — news mention: #mcdr #oae #mrv #carbonremoval #oceanscience #responsibleinnovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7457447545053704192/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-28** — news mention: 🌍 Please join us in welcoming Tatum Miko Herrero, our newest Planeteer! 💚

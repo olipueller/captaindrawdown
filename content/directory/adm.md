@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.adm.com/en-us/standalone-pages/adm-and-carbon-capture-and-storage/" target="_blank" rel="noopener">https://www.adm.com/en-us/standalone-pages/adm-and-carbon-capture-and-storage/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adm/" target="_blank" rel="noopener">adm — 1,036,375 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 ADM is a Chicago-based global agribusiness giant headquartered in Decatur, which is its largest employer with more than 4,000 employees. Its CCS operation at Decatur is one of the few commercial-scale BECCS projects in North America, capturing CO2 from ethanol fermentation and injecting it into the Mt. Simon Sandstone. ADM resumed injections at the Decatur site on August 29, 2025 after operations had been stopped for nearly a year following a leak that released 8,000 metric tons of CO2.
 
 ![ADM website](/screenshots/adm.png)
+
 
 
 ## History

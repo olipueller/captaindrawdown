@@ -26,6 +26,7 @@ Bluefield Renewable Energy (BRE) was founded in 2014 and is headquartered in Sin
 ![Bluefield Renewable Energy website](/screenshots/bluefield-renewable-energy.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal

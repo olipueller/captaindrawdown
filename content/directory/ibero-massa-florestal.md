@@ -26,6 +26,7 @@ Ibero Massa Florestal (IMF) is a Portuguese biochar producer based in Oliveira d
 ![Ibero Massa Florestal website](/screenshots/ibero-massa-florestal.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/ibero/__BreM4r32ZvwnH0EXNQ0tHL-VfrWWt4samxIgka68OBw))

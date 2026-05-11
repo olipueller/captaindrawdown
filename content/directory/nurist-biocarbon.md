@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://nuristbiocarbon.com/" target="_blank" rel="noopener">https://nuristbiocarbon.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -23,6 +23,7 @@ liveliness: "🟡 Moderate"
 Nurist Biocarbon Private Limited is an early-stage Indian biochar producer based in Didwana, Nagaur district, Rajasthan. It converts crop residues and invasive Prosopis juliflora into biochar used as a soil amendment on degraded arid land, claiming a partnership with CAZRI and a pilot that reclaimed 50 acres in Barmer. Biochar production and sale of associated carbon credits is the company's core business.
 
 ![Nurist Biocarbon website](/screenshots/nurist-biocarbon.png)
+
 
 
 ## History

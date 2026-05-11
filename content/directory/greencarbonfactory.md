@@ -27,6 +27,7 @@ GreenCarbonFactory is an Arnhem-based Dutch startup that installs, owns, and ope
 ![GreenCarbonFactory website](/screenshots/greencarbonfactory.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -27,6 +27,7 @@ International Carbon Registry (ICR) is an Iceland-based ISO-aligned GHG program 
 ![International Carbon Registry (ICR) website](/screenshots/international-carbon-registry-icr.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

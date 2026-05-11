@@ -27,6 +27,7 @@ Carbon8 Systems was a UK-based CCUS/mineralization company spun out of the Unive
 ![Carbon8 Systems Limited website](/screenshots/carbon8-systems-limited.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

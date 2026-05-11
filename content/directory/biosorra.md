@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.biosorra.com/" target="_blank" rel="noopener">https://www.biosorra.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biosorra/" target="_blank" rel="noopener">biosorra — 3,607 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+22% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Biosorra is a female-led Kenyan biochar pure-play operating what it describes as the largest industrial biochar facility in East Africa, based in Murang'a/Thika. It transforms tropical crop waste into Biochar Bora sold to smallholder farmers and Kenya Nut Company while issuing biochar carbon removal credits. In October 2025 it raised $3.5M in seed funding to scale production.
 
 ![Biosorra website](/screenshots/biosorra.png)
+
 
 
 ## History

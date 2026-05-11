@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Website</th><td><a href="https://limenet.tech/en/" target="_blank" rel="noopener">https://limenet.tech/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/limenet-tech/" target="_blank" rel="noopener">limenet-tech — 6,350 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~29 (+32% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Limenet is an Italian climate tech company operating an ocean alkalinity enhancement facility in Augusta, Sicily, where CO2 from a nearby biogas plant is combined with hydrated lime and seawater to form calcium bicarbonate discharged to the ocean. The plant has been operational since September 2023 (~800 tpa) with plans to scale, and the company received a Frontier prepurchase in 2025 for zero-carbon quicklime development and raised €7M in December 2025.
 
 ![Limenet website](/screenshots/limenet.png)
+
 
 ## Registry Memberships
 

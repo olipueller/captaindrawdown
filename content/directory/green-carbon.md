@@ -15,10 +15,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://green-carbon.co.jp/" target="_blank" rel="noopener">https://green-carbon.co.jp/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/green-carbon-inc/" target="_blank" rel="noopener">green-carbon-inc — 7,158 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~149 (+314% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ liveliness: "🟢 Active"
 Green Carbon Inc. is a Tokyo-based nature-based carbon credit project developer founded in December 2019, operating across Japan, Southeast Asia, Australia, and South America. Its primary business is rice paddy methane reduction (AWD) credits, but it also develops biochar CDR projects targeting Puro.earth certification, including partnerships with The Varhad Group in India (targeting ~110,000 t CO2 per plant over 15 years) and Living Roots for 3,000+ t/year of biochar in Thailand. The company also offers the Agreen credit-registration platform and GreenChecker AI quality-assessment tool.
 
 ![Green Carbon website](/screenshots/green-carbon.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 2 projects · Biochar &nbsp;[↗](https://to.isometric.com/prj_1KCNW12WM1S0AY3D)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

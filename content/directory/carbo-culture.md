@@ -14,10 +14,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://carboculture.com/" target="_blank" rel="noopener">https://carboculture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbo-culture/" target="_blank" rel="noopener">carbo-culture — 14,163 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~40</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 Carbo Culture takes waste biomass and transforms it using patented reactors, producing biochar for agricultural and construction applications, generating renewable energy, and creating carbon credits. The Finland/Netherlands-active company is building the ARC Middenmeer biochar plant at the ECW Energy site in North Holland, expected to remove more than 20,000 tonnes of CO2 annually while producing 40,000 m³ of biochar and 16 MW of sustainable energy.
 
 ![Carbo Culture website](/screenshots/carbo-culture.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2024-12-01
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

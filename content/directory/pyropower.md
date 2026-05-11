@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://pyro-power.com/" target="_blank" rel="noopener">https://pyro-power.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyropowersystems/" target="_blank" rel="noopener">pyropowersystems — 1,532 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~8 (+167% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 pyropower GmbH is a German cleantech company based in Cottbus, Lusatia, founded in 2022 and led by Lucie Töpfer and Steffen Kießling. Its Pyro-ClinX system pairs a pyrolysis reactor with an externally fired micro gas turbine to produce biochar, heat and electricity from woody residual materials, sewage sludge and biogenic waste. The company designs and sells these decentralized plants and also offers consulting services related to biochar and CO2 certificates.
 
 ![pyropower website](/screenshots/pyropower.png)
+
 
 
 ## History

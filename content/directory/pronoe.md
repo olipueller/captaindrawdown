@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.pronoe.earth/" target="_blank" rel="noopener">https://www.pronoe.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pronoe-earth/" target="_blank" rel="noopener">pronoe-earth — 3,539 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~16 (+78% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Pronoe is a Paris-based ocean CDR startup developing electrochemical ocean alkalinity enhancement (OAE) systems that attach to coastal industrial outflows such as desalination plants. Its process uses electricity to dissolve cheap limestone in brine, producing an alkaline stream without lime calcination or on-site CO2 storage. In January 2026 the company was selected as Frontier's first French portfolio company, receiving part of a $3.05M prepurchase alongside Cella.
 
 ![Pronoe website](/screenshots/pronoe.png)
+
 
 
 ## History

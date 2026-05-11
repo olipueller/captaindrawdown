@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.greenlyte.tech/" target="_blank" rel="noopener">https://www.greenlyte.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenlyte-carbon-technologies/" target="_blank" rel="noopener">greenlyte-carbon-technologies — 10,603 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~70 (+40% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Greenlyte Carbon Technologies is a German DAC startup founded in 2022 and headquartered in Essen. The company operates a liquid-sorbent DAC process that co-produces green hydrogen, and in November 2025 inaugurated the world's first LiquidSolar SNG plant in Duisburg with 40 tpy CO2 removal capacity. It has offtake agreements with Eurowings and MB Energy and is fast-tracking a 500-ton commercial module at Chempark Marl in 2026.
 
 ![Greenlyte Carbon Technologies website](/screenshots/greenlyte-carbon-technologies.png)
+
 
 ## Registry Memberships
 

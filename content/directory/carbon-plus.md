@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Website</th><td><a href="https://carbon-plus.org/" target="_blank" rel="noopener">https://carbon-plus.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-plus-sdn-bhd/" target="_blank" rel="noopener">carbon-plus-sdn-bhd — 354 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Carbon Plus is a Malaysia-based biochar project developer operating Malaysia's first industrial-scale commercial biochar plant through its subsidiary Carbon Zero. The Bukit Selar Carbon Station (commissioned 2024) has a nameplate capacity of 500 tonnes of biochar and ~1,200 tCO2e removed annually, uses CrystalTrade's dMRV system, and has received an Ae ex ante rating from BeZero Carbon.
 
 ![Carbon Plus website](/screenshots/carbon-plus.png)
+
 
 
 ## History

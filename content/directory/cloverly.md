@@ -27,6 +27,7 @@ Cloverly is an Atlanta-based carbon credit marketplace and software platform fou
 ![Cloverly website](/screenshots/cloverly.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a 2 MT/hr two-layer rotary drum kiln pyrolysis plant in Ghana's Western Region, converting waste coconut husks sourced from smallholder farmers into Puro.earth-certified biochar used as soil"
 url: "/directory/truecoco-ghana/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,8 +13,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Ghana</td></tr>
   <tr><th>Website</th><td><a href="https://www.truecococarbon.green/" target="_blank" rel="noopener">https://www.truecococarbon.green/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -23,12 +24,22 @@ Truecoco Ghana Ltd is an agricultural commodity processor and trading company es
 
 ![Truecoco Ghana website](/screenshots/truecoco-ghana.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2025-04-01
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Puro.earth
 
 ## History
 
+- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))

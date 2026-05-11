@@ -28,6 +28,7 @@ CO2Trust (CO2T, LLC) is an Oregon-based carbon credit marketplace platform that 
 ![CO2T, LLC (DBA CO2Trust) website](/screenshots/co2t-llc-dba-co2trust.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

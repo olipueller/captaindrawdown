@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboncell.co/" target="_blank" rel="noopener">https://www.carboncell.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-cell/" target="_blank" rel="noopener">carbon-cell — 1,995 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~9 (+22% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Carbon Cell is a London-based materials startup founded in 2023 by Imperial College London and Royal College of Art alumni Elizabeth Lee, Ori Blich, Eden Harrison and Juan Ignacio Rion. The company makes a patent-pending, plastic-free foam from biochar and natural polymers that has a low or negative carbon footprint and can replace expanded polystyrene, EPP and PUR/PIR in packaging and insulation. In May 2025 it raised a £1.2M pre-seed round to scale pellet manufacturing to 20kg per hour and deliver its first full commercial-scale order through 2026.
 
 ![Carbon Cell website](/screenshots/carbon-cell.png)
+
 
 
 ## History

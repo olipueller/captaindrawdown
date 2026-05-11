@@ -15,9 +15,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.regenerate-energy.com/" target="_blank" rel="noopener">https://www.regenerate-energy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenerate-energy/" target="_blank" rel="noopener">regenerate-energy — 61 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~8 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 ReGenerate Livermore Falls, LLC is a 39 MW biomass power facility in Livermore Falls, Maine, owned by ReGenerate Energy Holdings (a JV of Ember Infrastructure and ReEnergy Biomass Operations). The plant's primary business is selling baseload renewable electricity (under a 20-year PPA with Central Maine Power); biochar is produced as a byproduct of the gasification process and certified under Puro.earth's Biochar 2022 methodology, with 7,316 CORCs issued as of the latest listing.
 
 ![ReGenerate Livermore Falls website](/screenshots/regenerate-livermore-falls.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2024-02-09 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/regenerate-livermore-falls-llc-151)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

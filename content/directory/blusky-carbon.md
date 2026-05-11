@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://bluskycarbon.com/" target="_blank" rel="noopener">https://bluskycarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blu-sky-creative/" target="_blank" rel="noopener">blu-sky-creative — 249 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 BluSky Carbon Inc. (CSE: BSKY / OTCQB: BSKCF) is a Vancouver, BC–based publicly-listed carbon removal company that converts organic waste into biochar using its Vulcan Heavy pyrolysis systems. Its flagship AR1 facility in Warren, Arkansas began production in late 2024 to service a US$105M, 10-year, 382,213-tonne biochar offtake agreement, and the company announced a Carbonpave partnership in September 2025 to co-develop biochar-based asphalt at AR1.
 
 ![BluSky Carbon website](/screenshots/blusky-carbon.png)
+
 
 
 ## History

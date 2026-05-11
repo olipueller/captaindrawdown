@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://recycoal.earth/" target="_blank" rel="noopener">https://recycoal.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recycoal/" target="_blank" rel="noopener">recycoal — 1,230 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 RecyCoal GmbH is an Aachen, Germany-based biochar startup incorporated in 2023, originating from the RWTH Aachen student initiative Enactus Aachen. The company works with smallholder farmers in East and West Africa (Rwanda, Tanzania, Senegal) to produce artisan biochar from agricultural residues using Kon-Tiki-style kilns, generating carbon removal credits shared with local producers. They established RecyCoal Rwanda Ltd as a local subsidiary and were accepted into the Africa Carbon Removal Accelerator in April 2025.
 
 ![RecyCoal website](/screenshots/recycoal.png)
+
 
 
 ## History

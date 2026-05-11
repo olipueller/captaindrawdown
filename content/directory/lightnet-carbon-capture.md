@@ -28,6 +28,7 @@ LightNET Carbon Capture (LNCC) is a Barcelona-based ICN2/CSIC spin-off that deve
 ![LightNET Carbon Capture website](/screenshots/lightnet-carbon-capture.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

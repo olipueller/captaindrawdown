@@ -15,9 +15,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.accend.earth/" target="_blank" rel="noopener">https://www.accend.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/accend-conusulting/" target="_blank" rel="noopener">accend-conusulting — 1,240 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~8 (-11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,6 +26,16 @@ liveliness: "🟢 Active"
 Accend advises companies with carbon-negative products on the CORC markets and offers a full-service process including pre-qualification, registration, life cycle analysis, account management, certificate marketing, sales and settlement. They work with leading standards, including as a Puro.earth-accredited partner and C-sink trader, to bring projects to certification and market. They do not operate pyrolysis plants themselves but support biochar and timber producers across Europe and North America.
 
 ![Accend website](/screenshots/accend.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 13 projects · Biochar, 2022 · since 2019-10-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/squires-farm-73)
+- 5 projects · Wooden Building Elements · since 2019-04-01
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

@@ -15,6 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://www.metzlerbiochar.com/" target="_blank" rel="noopener">https://www.metzlerbiochar.com/</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
+  <tr><th>Registry-verified</th><td>Climate Action Reserve</td></tr>
 </table>
 
 ## About
@@ -22,6 +23,15 @@ liveliness: "🔴 Likely Dead"
 Metzler Biochar is a biochar product line of Metzler Forest Products LLC, a Pennsylvania-based timber harvesting, forestry services, land clearing, mulch, compost and soil company. The biochar operation uses local hardwood sawmill co-products as feedstock, sells multiple grades (pureCHAR, agriCHAR, primaryCHAR) plus biochar-amended compost/soil blends, and recovers process heat to offset propane at its firewood heat-treating facility.
 
 ![Metzler website](/screenshots/metzler.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Climate Action Reserve**
+- 1 project · Unknown &nbsp;[↗](https://thereserve2.apx.com/mymodule/reg/prjView.asp?id1=2220)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

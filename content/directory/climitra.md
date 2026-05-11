@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://climitra.com/" target="_blank" rel="noopener">https://climitra.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climitra/" target="_blank" rel="noopener">climitra — 1,497 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~9 (+450% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Climitra Carbon Private Limited is a Delhi-based biochar startup incorporated in February 2025 that converts agricultural waste and invasive biomass (e.g. Prosopis juliflora in Gujarat) into industrial-grade biochar for steel decarbonization and carbon removal. It raised $1.8M in pre-seed funding in June 2025 and is scaling projects across India, starting with a facility in Kutch serving a major steelmaker, with further sites planned in Punjab and Uttarakhand.
 
 ![Climitra website](/screenshots/climitra.png)
+
 
 
 ## History

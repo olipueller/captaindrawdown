@@ -27,6 +27,7 @@ Bhumi Sewa Networks is a Pokhara, Nepal-based for-purpose, profit-not-distributi
 ![Bhumi Sewa Networks website](/screenshots/bhumi-sewa-networks.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://bhumi.earth/?page_id=87))

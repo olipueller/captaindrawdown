@@ -27,6 +27,7 @@ Bynamic Group is a Calgary, Canada-based consultancy and carbon-credit trading f
 ![Bynamic Group Inc. website](/screenshots/bynamic-group-inc.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

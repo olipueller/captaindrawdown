@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs" target="_blank" rel="noopener">https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hafslundeco/" target="_blank" rel="noopener">hafslundeco — 13,382 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~952 (+23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Hafslund Celsio is Norway's largest district heating and waste-to-energy company, owned by Hafslund (60%), Infranode (20%) and HitecVision (20%). It is retrofitting its Klemetsrud WtE plant in Oslo with a full-scale carbon capture facility under Norway's Longship program, reaching FID in January 2025 and targeted to capture ~350,000 tonnes CO2/year from 2029, roughly half of which is biogenic (BECCS). The company's core business is district heating and waste incineration, with CDR as an emerging revenue stream via offtake deals with Frontier and Microsoft.
 
 ![Hafslund Celsio website](/screenshots/hafslund-celsio.png)
+
 
 
 ## History

@@ -19,6 +19,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-73% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ liveliness: "🟠 Suspect"
 Clairity Technology is a Los Angeles-based direct air capture startup founded in 2022 by former SpaceX engineer Glen Meyerowitz. The company operates Project Juniper in North Las Vegas, Nevada — the first integrated DAC and storage project in the US — using low-cost carbonate sorbents and ex-situ mineralization. It raised $6.75M seed funding in 2024 from Lowercarbon Capital and Initialized Capital.
 
 ![Clairity Technology website](/screenshots/clairity-technology.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Direct Air Capture &nbsp;[↗](https://to.isometric.com/prj_1JQCK4WZX1S0ANXP)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

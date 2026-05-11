@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.huskventures.com/" target="_blank" rel="noopener">https://www.huskventures.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/huskventures/" target="_blank" rel="noopener">huskventures — 4,076 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~40 (+18% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 HUSK is a biochar producer headquartered in Singapore with operations in Cambodia (since 2019) and Vietnam (since 2024) that transforms rice husks into biochar-based fertilizers using pyrolysis. The company issues EBC/Global Biochar C-Sink carbon removal credits and has signed a seven-year, 20,000-tonne offtake with atmosfair (funding a new plant commissioning in Kampong Thom in November 2025) alongside a July 2024 investment from Mekong Capital.
 
 ![Husk website](/screenshots/husk.png)
+
 
 
 ## History

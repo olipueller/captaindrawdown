@@ -26,6 +26,7 @@ Frontier Carbon Solutions (now operating as Frontier Infrastructure Holdings), a
 ![Frontier Carbon Solutions website](/screenshots/frontier-carbon-solutions.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

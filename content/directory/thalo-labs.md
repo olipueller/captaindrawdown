@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://thalolabs.com/" target="_blank" rel="noopener">https://thalolabs.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thalo-labs/" target="_blank" rel="noopener">thalo-labs — 2,679 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~17 (+13% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Thalo Labs is a New York City-based climate-tech startup founded in 2021 whose primary website and commercial focus has pivoted to Thalo Copilot, a hardware + AI platform for predictive HVAC maintenance and leak detection in commercial and residential buildings. The company also continues to operate its Thalo Capture indoor direct air capture + mineralization product, with deployments at Newark Liberty Airport Terminal B and the Empire State Building, but DAC is now an adjacent product line rather than the main business.
 
 ![Thalo Labs website](/screenshots/thalo-labs.png)
+
 
 ## Registry Memberships
 

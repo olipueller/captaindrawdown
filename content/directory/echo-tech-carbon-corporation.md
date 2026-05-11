@@ -25,6 +25,7 @@ Echo Tech Carbon Corporation is a Vancouver-based biochar project developer oper
 
 ![Echo Tech Carbon Corporation website](/screenshots/echo-tech-carbon-corporation.png)
 
+
 ## Registry Memberships
 
 - Puro.earth

@@ -28,6 +28,7 @@ Cascadia Carbon is a US/Canadian public benefit corporation founded in 2019, hea
 ![Cascadia Carbon website](/screenshots/cascadia-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

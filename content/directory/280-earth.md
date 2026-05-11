@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://280.earth" target="_blank" rel="noopener">https://280.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/280-earth/" target="_blank" rel="noopener">280-earth</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~24 (+50% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 280 Earth was launched in 2018 at X, Google's moonshot factory, and spun out in 2022; the first phase of its Dalles, Oregon facility was built to capture 500 tons/year of CO2, with the site sized to eventually capture more than 20,000 tons/year. Frontier buyers are paying 280 Earth $40m to permanently remove 61,571 tons of CO₂ between 2024 and 2030 at the pilot facility. The company is headquartered in Mountain View, California and backed by Builders VC, Gideon Yu, and Alphabet.
 
 ![280 Earth website](/screenshots/280-earth.png)
+
 
 ## Registry Memberships
 

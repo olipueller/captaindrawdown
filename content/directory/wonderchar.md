@@ -26,6 +26,7 @@ Wonderchar Inc. is a Texas-based biochar producer that converts waste pecan shel
 ![Wonderchar website](/screenshots/wonderchar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

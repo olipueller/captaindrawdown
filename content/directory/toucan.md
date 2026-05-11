@@ -28,6 +28,7 @@ Toucan is a blockchain-based carbon market infrastructure provider that tokenize
 ![Toucan website](/screenshots/toucan.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

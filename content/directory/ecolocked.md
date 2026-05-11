@@ -28,6 +28,7 @@ ecoLocked is a Berlin-based climate-tech startup founded in 2021 that produces b
 ![ecoLocked website](/screenshots/ecolocked.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))

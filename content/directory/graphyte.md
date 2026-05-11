@@ -15,10 +15,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.graphyte.com/" target="_blank" rel="noopener">https://www.graphyte.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/graphytecarbon/" target="_blank" rel="noopener">graphytecarbon — 5,703 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~21 (+5% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2024-11-07)</small></td></tr>
 </table>
 
 ## About
@@ -27,6 +28,15 @@ Graphyte is a US carbon removal startup founded in 2023 and based in Pine Bluff,
 
 ![Graphyte website](/screenshots/graphyte.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biomass Burial · 16,605 tCO₂ issued · 10,824 retired · since 2024-11-07 &nbsp;[↗](https://to.isometric.com/prj_1J4P33N6W1S0RKE2)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - [Isometric](https://registry.isometric.com/)
@@ -34,6 +44,9 @@ Graphyte is a US carbon removal startup founded in 2023 and based in Pine Bluff,
 
 ## History
 
+- **2026-05-06** — news mention: Carbon Removal, Corporate Targets, and Supply Chain Gaps: Where ESG Stands in 2025 | Livio Acerbo’s  ([source](https://www.acerbolivio.com/2026/05/06/carbon-removal-corporate-targets-and-supply-chain-gaps-where-esg-stands-in-2025/))
+- **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
+- **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-22** — news mention: JPMorgan Chase Signs 10-year Carbon Removal Deal With Graphyte ([source](https://www.tech-channels.com/breaking-news/jpmorgan-chase-signs-10-year-carbon-removal-deal-with-graphyte))

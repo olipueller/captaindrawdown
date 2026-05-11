@@ -26,6 +26,7 @@ Eleryc, Inc. is a venture-backed, stealth-mode climate-tech startup based in San
 ![Eleryc website](/screenshots/eleryc.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

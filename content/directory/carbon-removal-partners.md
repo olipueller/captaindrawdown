@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonremoval.partners" target="_blank" rel="noopener">https://www.carbonremoval.partners</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-partners/" target="_blank" rel="noopener">carbon-removal-partners — 5,538 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~10 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Carbon Removal Partners (CRP) is a Zurich-based venture capital firm exclusively focused on investing in early-stage carbon dioxide removal technologies and companies along the CDR value chain. Founded in 2022 and originating from a Liechtenstein family office, CRP launched its first alternative investment fund for CDR in 2024 and has backed companies such as Greenlyte Carbon Technologies and Carbonfuture.
 
 ![Carbon Removal Partners website](/screenshots/carbon-removal-partners.png)
+
 
 
 ## History

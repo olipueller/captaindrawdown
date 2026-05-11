@@ -15,10 +15,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.lithoscarbon.com/" target="_blank" rel="noopener">https://www.lithoscarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lithoscarbon/" target="_blank" rel="noopener">lithoscarbon — 13,122 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+15% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -27,6 +28,15 @@ Lithos Carbon is a San Francisco-based pure-play CDR supplier using Enhanced Roc
 
 ![Lithos website](/screenshots/lithos.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Rock Weathering &nbsp;[↗](https://to.isometric.com/prj_1JY1YXDBS1S01Y05)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Puro.earth
@@ -34,6 +44,8 @@ Lithos Carbon is a San Francisco-based pure-play CDR supplier using Enhanced Roc
 
 ## History
 
+- **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
+- **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age.  Deal sizes are climbing into six-fi ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-26** — news mention: Prof. Dong-Yeun Koh's team adapted the dry-electrode process used for EV batteries to make a sorbent ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkewfvw6rm27))

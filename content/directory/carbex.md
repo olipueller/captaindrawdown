@@ -25,6 +25,7 @@ Carbex GmbH is a German biochar producer based in Dischingen, Baden-Württemberg
 ![Carbex website](/screenshots/carbex.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

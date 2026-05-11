@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://fidelisinfra.com/" target="_blank" rel="noopener">https://fidelisinfra.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fidelis-infrastructure-lp/" target="_blank" rel="noopener">fidelis-infrastructure-lp — 3,730 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~28 (+48% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Fidelis New Energy, LLC is a Houston-based energy infrastructure developer focused on decarbonization through BECCS, CO2 storage, biofuels, and clean hydrogen projects. Its flagship CDR project is AtmosClear, an $800M BECCS facility at the Port of Greater Baton Rouge, Louisiana, designed to capture 680,000 tonnes of biogenic CO2 per year starting in 2029, with ExxonMobil providing CO2 transport and storage. In April 2025 AtmosClear signed a 15-year, 6.75M-tonne CDR offtake with Microsoft — the world's largest permanent carbon-removal deal to date. Fidelis also operates the Norne Carbon Storage Hub in Denmark, an EU Project of Common Interest for onshore CO2 storage.
 
 ![Fidelis website](/screenshots/fidelis.png)
+
 
 
 ## History

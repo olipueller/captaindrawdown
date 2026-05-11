@@ -27,6 +27,7 @@ Circle Carbon Labs is a small social enterprise in Mallorca, Spain producing bio
 ![Circle Carbon website](/screenshots/circle-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

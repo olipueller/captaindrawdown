@@ -26,6 +26,7 @@ Soletair Power is a Finnish direct air capture company (founded 2016, HQ Lappeen
 ![Soletair Power website](/screenshots/soletair-power.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

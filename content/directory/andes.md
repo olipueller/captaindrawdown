@@ -28,6 +28,7 @@ Andes is a climate tech startup headquartered in Alameda, California that uses b
 ![Andes website](/screenshots/andes.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.andes.bio/carbon-removals))

@@ -25,6 +25,7 @@ Explocom GK SRL, operating under the GEKKA brand, is a Romanian biochar and wood
 
 ![Explocom website](/screenshots/explocom.png)
 
+
 ## Registry Memberships
 
 - Puro.earth

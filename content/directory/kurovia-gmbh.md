@@ -26,6 +26,7 @@ KuroVia GmbH is a German climate-tech startup based in Meerbusch that develops, 
 ![KuroVia GmbH website](/screenshots/kurovia-gmbh.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

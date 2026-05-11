@@ -28,6 +28,7 @@ TDA Research, Inc. is a Wheat Ridge, Colorado-based contract R&D company founded
 ![TDA website](/screenshots/tda.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tdainc.com/careers/))

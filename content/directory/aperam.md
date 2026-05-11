@@ -26,6 +26,7 @@ Aperam BioEnergia is the Brazilian forestry and renewable-energy unit of Luxembo
 
 ![Aperam website](/screenshots/aperam.png)
 
+
 ## Registry Memberships
 
 - Puro.earth

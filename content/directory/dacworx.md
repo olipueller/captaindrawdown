@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://dacworx.eu/" target="_blank" rel="noopener">https://dacworx.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dacworx-engineering-gmbh/" target="_blank" rel="noopener">dacworx-engineering-gmbh — 81 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+200% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 DACworx is an Austrian direct air capture technology developer that co-designed the Austrian Pilot Unit 1 (APU1), a container-sized DAC pilot plant commissioned in 2025. The company develops modular DAC technology focused on low energy consumption through a two-zone sorbent process, with the pilot designed to capture 50 tons of CO₂ annually at under 2,000 kWh per ton.
 
 ![DACworx website](/screenshots/dacworx.png)
+
 
 
 ## History

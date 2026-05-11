@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://airex-energy.com/" target="_blank" rel="noopener">https://airex-energy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airex-energy/" target="_blank" rel="noopener">airex-energy — 3,814 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~38 (+6% YoY)</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Airex Energy is a Québec-based biochar technology company that licenses and operates its patented CarbonFX pyrolysis and DryFX drying systems. Through the Carbonity joint venture with SUEZ and Groupe Rémabec, it inaugurated Canada's first industrial-scale biochar plant in Port-Cartier in May 2025 (10,000 t/yr ramping to 30,000 t/yr by 2026), with Puro.earth certification and a 36,000-credit offtake with Microsoft.
 
 ![Airex Energy website](/screenshots/airex-energy.png)
+
 
 ## Registry Memberships
 

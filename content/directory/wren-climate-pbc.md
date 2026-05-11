@@ -28,6 +28,7 @@ Wren Climate, PBC is a US-based public benefit corporation operating a consumer-
 ![Wren Climate, PBC website](/screenshots/wren-climate-pbc.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

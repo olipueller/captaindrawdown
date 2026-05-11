@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.plantdmaterials.com/" target="_blank" rel="noopener">https://www.plantdmaterials.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/plantdmaterials/" target="_blank" rel="noopener">plantdmaterials — 7,916 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~52 (+33% YoY)</td></tr>
   <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Plantd is an Oxford, North Carolina-based company founded in 2021 that cultivates fast-growing perennial Arundo donax grass and manufactures it into carbon-negative structural building panels as drop-in replacements for OSB/plywood. Plantd's structural panels retain 80% of the atmospheric carbon dioxide captured in the field, which is then locked away inside the walls and roofs of new homes. The company raised a $22 million Series B in September 2025, following $20.6 million previously raised, doubling its valuation since the Series A.
 
 ![Plantd Materials website](/screenshots/plantd-materials.png)
+
 
 ## Registry Memberships
 

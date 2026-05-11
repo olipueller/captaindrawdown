@@ -25,6 +25,7 @@ TerraWatt SAS is a French technology startup (founded 2014, based in Meslay-du-M
 ![TerraWatt website](/screenshots/terrawatt.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

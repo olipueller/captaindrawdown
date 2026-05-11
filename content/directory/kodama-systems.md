@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://kodama.ai/" target="_blank" rel="noopener">https://kodama.ai/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kodama-systems/" target="_blank" rel="noopener">kodama-systems — 2,175 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~18 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Kodama Systems is a Sonora, California-based forest management startup, operating since 2021, that raised around $6.6 million from Breakthrough Energy Ventures, Congruent Ventures and others. In partnership with Yale's Carbon Containment Lab, Kodama is piloting the burial of woody biomass thinned from wildfire-prone forests in the Nevada desert, constructing underground vaults designed to minimize water, oxygen and microbial activity. The company combines forest-thinning automation with biomass burial for durable carbon removal and has sold credits to Stripe/Frontier.
 
 ![Kodama Systems website](/screenshots/kodama-systems.png)
+
 
 ## Registry Memberships
 

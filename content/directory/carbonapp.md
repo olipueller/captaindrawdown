@@ -16,9 +16,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonapp.fr/" target="_blank" rel="noopener">https://www.carbonapp.fr/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonapp-fr/" target="_blank" rel="noopener">carbonapp-fr — 6,167 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~16 (-6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -26,6 +27,16 @@ liveliness: "🟢 Active"
 Founded in March 2021, Carbonapp is a mission-driven company that develops low-carbon projects in France and internationally. As a recognized agent, Carbonapp certifies projects according to the main standards (Label Bas-Carbone, Rainbow, Puro.earth, etc.) and connects them to committed financiers. The company partners with biochar producers such as Groupe BORDET, which it supports in Puro.earth certification of biochar production, and acts as an aggregator/broker for French carbon projects rather than physically removing CO2 itself.
 
 ![Carbonapp website](/screenshots/carbonapp.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2022-10-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/four-bordet-70)
+- 4 projects · Wooden Building Elements · since 2020-07-01
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

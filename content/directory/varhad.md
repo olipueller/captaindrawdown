@@ -18,6 +18,7 @@ liveliness: "🟢 Active"
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~17</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 Varhad Capital (VCAP), part of the Varhad Group based in Pune/Nagpur, India, is a biochar CDR project developer that works with roughly 165 farmer cooperatives to pyrolyze agricultural residues. The company has partnered with Japan's Green Carbon Inc. and Switzerland's Carbonfuture to deliver approximately 120,300 tonnes of biochar carbon removal credits, and is building integrated biochar-and-biomethanol plants targeting commissioning in late 2026.
 
 ![Varhad website](/screenshots/varhad.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar &nbsp;[↗](https://to.isometric.com/prj_1JYGSV7SE1S03PH9)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

@@ -24,6 +24,7 @@ The New Black Biochar is a small Tasmanian grassroots biochar operation co-found
 ![The New Black Biochar website](/screenshots/the-new-black-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

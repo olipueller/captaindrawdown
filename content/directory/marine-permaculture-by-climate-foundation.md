@@ -28,6 +28,7 @@ The Climate Foundation is a US-based 501(c)(3) nonprofit, founded and led by Dr.
 ![Marine Permaculture by Climate Foundation website](/screenshots/marine-permaculture-by-climate-foundation.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

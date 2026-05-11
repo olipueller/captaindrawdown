@@ -25,6 +25,7 @@ ClimateCarbon Eberswalde GmbH & Co. KG is a dedicated biochar subsidiary/SPV of 
 ![ClimateCarbon website](/screenshots/climatecarbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

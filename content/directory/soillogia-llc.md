@@ -27,6 +27,7 @@ SoilLogia LLC is a Delaware-based climate-tech startup that converts organic was
 ![SoilLogia LLC website](/screenshots/soillogia-llc.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -27,6 +27,7 @@ RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado that trans
 ![RubisCO2 website](/screenshots/rubisco2.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://climaccelerator.climate-kic.org/news/carbon-removal-climaccelerator-start-up-spotlight-rubisco2/))

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.oresundskraft.se/" target="_blank" rel="noopener">https://www.oresundskraft.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oresundskraft-ab/" target="_blank" rel="noopener">oresundskraft-ab — 11,144 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~428 (+9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Öresundskraft is a municipal energy utility owned by the City of Helsingborg, Sweden, providing district heating, electricity, biogas, fiber and energy services to around 100,000 customers. The company is building a ~SEK 3 billion CCS facility (Innozhero project) at its Filbornaverket waste-fired CHP plant, designed to capture 200,000 tonnes of CO2 annually (roughly half biogenic) with target operation in 2028. CCS is an adjacent add-on to the core utility business rather than the primary activity.
 
 ![Öresundskraft website](/screenshots/öresundskraft.png)
+
 
 ## Registry Memberships
 

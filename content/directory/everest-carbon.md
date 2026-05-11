@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.everestcarbon.com/" target="_blank" rel="noopener">https://www.everestcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/everest-carbon/" target="_blank" rel="noopener">everest-carbon — 4,471 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~30 (-23% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -28,6 +28,7 @@ liveliness: "🟢 Active"
 Everest Carbon is a San Francisco- and Linz, Austria-based company that develops an in-field alkalinity sensor ("Pulsar") for Enhanced Rock Weathering MRV. Founded in late 2022 as an ERW project developer, it pivoted in January 2024 to commercialize its patent-pending ion-exchange-resin sensor that measures carbonate alkalinity efflux directly in soil, targeting a 90% reduction in MRV costs. The company raised $3M led by Carbon Removal Partners and has hundreds of sensors deployed at ERW projects worldwide.
 
 ![Everest Carbon website](/screenshots/everest-carbon.png)
+
 
 ## Registry Memberships
 

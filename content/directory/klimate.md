@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.klimate.co/" target="_blank" rel="noopener">https://www.klimate.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klimate-co/" target="_blank" rel="noopener">klimate-co — 13,442 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~29 (-9% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Klimate is a Copenhagen-based carbon asset management platform founded in 2020 that curates vetted carbon removal portfolios (biochar, BECCS, forestry, etc.) for corporate clients. It is a broker/platform connecting buyers to CDR suppliers, not a physical remover itself. The company raised a €3.5M seed round in 2023 and continues to publish project work and partnerships through 2025.
 
 ![Klimate website](/screenshots/klimate.png)
+
 
 ## Registry Memberships
 

@@ -28,6 +28,7 @@ Ruuts is an Argentina-based regenerative agriculture platform that co-developed 
 ![Ruuts website](/screenshots/ruuts.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

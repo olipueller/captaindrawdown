@@ -25,6 +25,7 @@ Involtor (Involtor Consult SRL) is a Romania-based soil carbon project developer
 ![Involtor website](/screenshots/involtor.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

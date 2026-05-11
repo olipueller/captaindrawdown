@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces biochar via pyrolysis of pelletized agricultural residues using PYREG P500/P1500 systems at a facility in Hammenhög, Sweden, selling CORCs verified under the European Biochar Certificate and"
 url: "/directory/ecoera/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,10 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://ecoera.se/" target="_blank" rel="noopener">https://ecoera.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoera-ab/" target="_blank" rel="noopener">ecoera-ab</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100) <small>— verified active via puro issuance through 2024-03-31</small></td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2024-03-31)</small></td></tr>
 </table>
 
 ## About
@@ -25,12 +26,22 @@ Ecoera is a Swedish biochar carbon removal company founded at Chalmers Ventures 
 
 ![Ecoera website](/screenshots/ecoera.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2019-07-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/ecoera-millennium-1-hammenhog-skanefro)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Puro.earth
 
 ## History
 
+- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://puro.earth/marketplace/ecoera))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://ecoera.se/))

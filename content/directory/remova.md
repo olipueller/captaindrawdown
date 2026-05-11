@@ -26,6 +26,7 @@ Remova Carbon Systems Ltd. is a Calgary-based Canadian carbon dioxide removal de
 ![Remova website](/screenshots/remova.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

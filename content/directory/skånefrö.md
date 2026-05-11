@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://skanefro.se/" target="_blank" rel="noopener">https://skanefro.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/skanefro/" target="_blank" rel="noopener">skanefro — 566 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~19 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Skånefrö is a family-owned Swedish seed company founded in 1928 in Tommarp/Hammenhög, producing agricultural, grass and turf seeds as its core business with ~40 employees and revenue over 300M SEK. As an adjacent activity, it operates a biochar production line using Pyreg pyrolysis units on agricultural residues, park/garden waste, seaweed and sludge, supplying district heating to Tommarp and Hammenhög and selling EBC-certified biochar for agriculture and landscaping, partnered with Ecoera for carbon removal certification.
 
 ![Skånefrö website](/screenshots/skånefrö.png)
+
 
 
 ## History

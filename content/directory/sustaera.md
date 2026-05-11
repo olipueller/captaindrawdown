@@ -27,6 +27,7 @@ Sustaera is a North Carolina-based Direct Air Capture startup spun out of Susteo
 ![Sustaera website](/screenshots/sustaera.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -27,6 +27,7 @@ Nova Pangaea Technologies is a UK cleantech company headquartered in Wilton Inte
 ![Nova Pangaea Technologies website](/screenshots/nova-pangaea-technologies.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.novapangaea.com/about/))

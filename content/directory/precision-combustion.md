@@ -28,6 +28,7 @@ Precision Combustion, Inc. (PCI) is a North Haven, CT clean-energy R&D firm whos
 ![Precision Combustion website](/screenshots/precision-combustion.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://pci.energy/about-pci/pci-in-the-news/))

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.terrafixing.com/" target="_blank" rel="noopener">https://www.terrafixing.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terrafixing/" target="_blank" rel="noopener">terrafixing — 1,840 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~12 (+20% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 TerraFixing is an Ottawa-based direct air capture startup founded in 2021 by two University of Ottawa chemical engineers, developing zeolite-based DAC technology optimized for cold, dry northern climates. The company aims to fit a 1,000 tonnes/year capture unit into a shipping container at below $100/tonne, and is deploying its first units with Tugliq Énergie in northern Quebec.
 
 ![TerraFixing website](/screenshots/terrafixing.png)
+
 
 ## Registry Memberships
 

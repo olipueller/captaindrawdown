@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://thefutureforestcompany.com/" target="_blank" rel="noopener">https://thefutureforestcompany.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-future-forest-company/" target="_blank" rel="noopener">the-future-forest-company — 8,335 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~20 (-26% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Founded by Jim Mann and Jade Rein, the Future Forest Company delivers large-scale reforestation projects in the UK and has planted over 1.59 million trees across its UK sites. Its award-winning reforestation and peatland restoration projects span Scotland and Northern England. Its enhanced-weathering arm previously spun out as UNDO in 2022.
 
 ![The Future Forest Company website](/screenshots/the-future-forest-company.png)
+
 
 ## Registry Memberships
 

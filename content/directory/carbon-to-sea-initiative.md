@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbontosea.org/" target="_blank" rel="noopener">https://carbontosea.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbontosea/" target="_blank" rel="noopener">carbontosea — 6,088 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -28,8 +28,10 @@ Carbon to Sea Initiative is a non-profit research and development effort launche
 ![Carbon to Sea Initiative website](/screenshots/carbon-to-sea-initiative.png)
 
 
+
 ## History
 
+- **2026-05-06** — news mention: #mcdr #oae #mrv #carbonremoval #oceanscience #responsibleinnovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7457447545053704192/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

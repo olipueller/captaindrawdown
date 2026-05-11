@@ -27,6 +27,7 @@ Tau Carbon was founded by John Lin and Dr. Amber Janda, who developed the idea o
 ![Tau Carbon website](/screenshots/tau-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

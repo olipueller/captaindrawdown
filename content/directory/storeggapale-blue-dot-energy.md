@@ -28,6 +28,7 @@ Storegga (holding company of Pale Blue Dot Energy) is a UK-based independent dev
 ![Storegga/Pale Blue Dot Energy website](/screenshots/storeggapale-blue-dot-energy.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))

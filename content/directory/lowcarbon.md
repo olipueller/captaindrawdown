@@ -28,6 +28,7 @@ LowCarbon is a South Korean climate-tech company founded in 2016 in Gangjin Coun
 ![LowCarbon website](/screenshots/lowcarbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))

@@ -26,6 +26,7 @@ Grassroots Biochar AB is a small Swedish biochar producer based on Öland/Kalmar
 ![Grassroots Biochar website](/screenshots/grassroots-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

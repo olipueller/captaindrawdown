@@ -27,6 +27,7 @@ Dair Capture is a U.S.-based DAC startup commercializing technology developed wi
 ![Dair Capture website](/screenshots/dair-capture.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

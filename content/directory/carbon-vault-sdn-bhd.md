@@ -28,6 +28,7 @@ Carbon Vault Sdn Bhd (operating as Carbon Bank) is a Malaysia-based carbon credi
 ![Carbon Vault Sdn Bhd website](/screenshots/carbon-vault-sdn-bhd.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

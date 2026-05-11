@@ -28,6 +28,7 @@ Dac Labs (Dac Laboratories) is a University of Sydney spinout developing a low-c
 ![DAC Labs website](/screenshots/dac-labs.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.daclaboratories.com/media))

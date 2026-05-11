@@ -28,6 +28,7 @@ MacroCarbon SL is a Las Palmas (Gran Canaria) startup spun out of Germany's Alfr
 ![Macrocarbon website](/screenshots/macrocarbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))

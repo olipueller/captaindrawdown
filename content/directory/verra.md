@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://verra.org" target="_blank" rel="noopener">https://verra.org</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verrastandards/" target="_blank" rel="noopener">verrastandards — 98,225 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~299 (+4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,8 +26,10 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 ![Verra website](/screenshots/verra.png)
 
 
+
 ## History
 
+- **2026-05-06** — news mention: Live Carbon Prices Today, Carbon Price Charts • Carbon Credits ([source](https://carboncredits.com/carbon-prices-today/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

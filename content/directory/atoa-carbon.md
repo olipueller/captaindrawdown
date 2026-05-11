@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://atoacarbon.com/" target="_blank" rel="noopener">https://atoacarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atoa-carbon/" target="_blank" rel="noopener">atoa-carbon — 329 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~9 (+29% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 ATOA Carbon is a US-based carbon markets consultancy and project developer that helps clients with offset methodology development, digital MRV, carbon program design, and sustainability consulting. They are not a physical CDR supplier but operate as an ecosystem player serving the broader carbon markets, including CDR project development.
 
 ![ATOA Carbon website](/screenshots/atoa-carbon.png)
+
 
 
 ## History

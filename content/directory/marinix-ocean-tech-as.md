@@ -27,6 +27,7 @@ MARINIX Ocean Tech AS is a Norwegian early-stage ocean CDR startup developing te
 ![MARINIX Ocean Tech AS website](/screenshots/marinix-ocean-tech-as.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

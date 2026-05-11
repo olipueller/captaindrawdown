@@ -25,6 +25,7 @@ Oraquel S.A. is a Warsaw-based direct air capture developer that designs modular
 ![Oraquel website](/screenshots/oraquel.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.bussmeenergy.se/" target="_blank" rel="noopener">https://www.bussmeenergy.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bussme-energy/" target="_blank" rel="noopener">bussme-energy</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟡 Moderate"
 Bussme Energy AB is a Swedish family-owned company founded in 2010 operating district heating plants in southern Sweden (Skåne), with a biochar production side-business via its subsidiary Bussme Biochar AB based in Svedala/Kävlinge. The company divested several district heating plants to Solör Bioenergi in 2020 and 2024 but continues heating and biochar operations, claiming to be one of Europe's largest biochar producers.
 
 ![Bussme Energy website](/screenshots/bussme-energy.png)
+
 
 
 ## History

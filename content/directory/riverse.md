@@ -25,6 +25,7 @@ Riverse (rebranded as Rainbow Standard in 2025) is a French carbon credit certif
 ![Riverse website](/screenshots/riverse.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://arrhenius.com/" target="_blank" rel="noopener">https://arrhenius.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arrhenius-ag/" target="_blank" rel="noopener">arrhenius-ag — 991 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Arrhenius AG is a Swiss HSLU (Lucerne University of Applied Sciences and Arts) spin-off founded in 2023 that grows microalgae in photobioreactors and geologically stores the resulting biomass to generate carbon removal credits. The company is pursuing a pilot plant in Portugal in partnership with Algae for Future SA (A4F) at sites in Lisbon and Matacães, and is developing a parallel AlgaeCycle wastewater-to-biochar project in Lucerne.
 
 ![Arrhenius website](/screenshots/arrhenius.png)
+
 
 
 ## History

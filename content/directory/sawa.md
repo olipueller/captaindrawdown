@@ -26,6 +26,7 @@ SAWA EcoSolutions is a Singapore-based climate technology company with its Indon
 ![SAWA website](/screenshots/sawa.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tb.che.itb.ac.id/en/2024/04/25/kunjungan-pembukaan-pabrik-biochar-majalengka/))

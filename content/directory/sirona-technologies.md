@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.sirona.tech/" target="_blank" rel="noopener">https://www.sirona.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sirona-technologies/" target="_blank" rel="noopener">sirona-technologies — 6,947 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~34 (+48% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Sirona Technologies is a Belgium-based Direct Air Capture startup founded in 2023 by a former Tesla engineer and a thermodynamics PhD. The company develops modular solid-sorbent DAC units manufactured in Brussels and deployed globally, with captured CO₂ permanently stored via geological mineralization. Sirona has raised ~€6M seed funding and is building out a pilot plant in Kenya, with first commercial credit deliveries expected in 2026.
 
 ![Sirona Technologies website](/screenshots/sirona-technologies.png)
+
 
 ## Registry Memberships
 

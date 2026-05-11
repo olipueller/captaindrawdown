@@ -15,6 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://www.carbono.capital/" target="_blank" rel="noopener">https://www.carbono.capital/</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -22,6 +23,15 @@ liveliness: "🟡 Moderate"
 Carbono Capital SpA is a Chile-based biochar producer that uses off-grid kilns to pyrolyze waste biomass into biochar, which is blended with compost and applied to family-owned agricultural land. The project is listed on the Isometric registry, with the first kiln unit launching in 2025 and five more planned for 2026, targeting ~3,110 tonnes of biochar and up to ~8,806 removal credits annually.
 
 ![Carbono Capital website](/screenshots/carbono-capital.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar &nbsp;[↗](https://to.isometric.com/prj_1K1T6SHXE1S0F3H4)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

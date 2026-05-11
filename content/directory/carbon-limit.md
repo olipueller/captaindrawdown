@@ -27,6 +27,7 @@ Carbon Limit is a Boca Raton, Florida climate tech company founded in 2020/2021 
 ![Carbon Limit website](/screenshots/carbon-limit.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

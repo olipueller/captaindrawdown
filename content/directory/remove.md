@@ -27,8 +27,25 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 ![remove website](/screenshots/remove.png)
 
 
+
 ## History
 
+- **2026-05-09** — news mention: Navigating clean energy procurement for carbon removal companies ([source](https://carbonbasedcommentary.substack.com/p/navigating-clean-energy-procurement))
+- **2026-05-09** — news mention: Carbon removal, co-products, and system boundaries ([source](https://carbonbasedcommentary.substack.com/p/carbon-removal-co-products-and-system))
+- **2026-05-09** — news mention: Why is it so difficult to fund projects that reduce emissions? ([source](https://medium.com/milkywire/why-is-it-so-difficult-to-fund-projects-that-reduce-emissions-ef1f85c08fc7?source=rss-d3dbfac6b1e3------2))
+- **2026-05-09** — news mention: How much carbon will we need to remove? ([source](https://roberthoglund.medium.com/how-much-carbon-will-we-need-to-remove-26fda7b5e19a?source=rss-d3dbfac6b1e3------2))
+- **2026-05-09** — news mention: Buyers of Enhanced Rock Weathering credits need to ask for the right type of MRV ([source](https://roberthoglund.medium.com/buyers-of-enhanced-rock-weathering-credits-need-to-ask-for-the-right-type-of-mrv-c109bc7cf100?source=rss-d3dbfac6b1e3------2))
+- **2026-05-08** — news mention: Europe’s quest for green steel ([source](https://www.canarymedia.com/articles/green-steel/europes-quest-for-green-steel))
+- **2026-05-06** — news mention: You obviously are reading challenged   The paper is clear it has nothing to do with CCU or anything  ([source](https://bsky.app/profile/mzjacobson.bsky.social/post/3ml5umr7dms2l))
+- **2026-05-05** — news mention: Octopus Energy Generation inks $500m US carbon removal deal | BusinessGreen News ([source](https://www.businessgreen.com/news/4529172/octopus-energy-generation-inks-usd500m-us-carbon-removal-deal))
+- **2026-05-05** — news mention: Agreed. CDR is for residual, hard-to-abate emissions and legacy CO2 cleanup, not a permission slip t ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml34avitwd27))
+- **2026-05-04** — news mention: True to a certain extent for now, but the framing matters.  Wind and solar cut emissions.  DAC remov ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzuh52v7323))
+- **2026-05-04** — news mention: PIK presents core research topics in a YouTube series ([source](https://www.pik-potsdam.de/en/news/latest-news/pik-presents-core-research-topics-in-a-youtube-series))
+- **2026-05-04** — news mention: I think @madisoncondon.bsky.social was talking about data centers in space. Maybe they are beaming d ([source](https://bsky.app/profile/davidho.bsky.social/post/3mkyhtpqh622t))
+- **2026-05-03** — news mention: RT @HPACoalition: Great effort!  Those most effected is precisely why cooling should start now:  htt ([source](https://x.com/geoengineering1/status/2051027429691641892))
+- **2026-05-03** — news mention: 20 Top Environmental Companies in Germany · August 2025 | F6S ([source](https://www.f6s.com/companies/environmental/germany/co))
+- **2026-05-02** — news mention: 6 Ways to Remove Carbon Pollution from the Atmosphere ([source](https://go.wri.org/carbon-removal))
+- **2026-05-01** — news mention: Octopus Energy Generation signs $500m carbon removal deal - edie ([source](https://www.edie.net/octopus-energy-generation-signs-500m-carbon-removal-deal/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — news mention: Octopus Energy makes 'landmark' announcement for all 10 million customers - Birmingham Live ([source](https://www.birminghammail.co.uk/news/cost-of-living/octopus-energy-makes-landmark-announcement-33867237))
 - **2026-05-01** — refresh: liveliness
@@ -43,14 +60,6 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 - **2026-04-26** — news mention: 400 Gt by 2100 means scaling CDR to ~6-10 Gt/year by mid-century. Today we remove maybe 2 Mt/year vi ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkera2fn4y2c))
 - **2026-04-24** — news mention: Behind the scenes: how the CDR Company Directory actually gets built.  Today we published the making ([source](https://x.com/CaptainDrawdown/status/2047601531076100376))
 - **2026-04-24** — news mention: Silicon to Silicate: Understanding the InPlanet-Microsoft Deal ([source](https://remineralize.org/2026/04/silicon-to-silicate-understanding-the-inplanet-microsoft-deal/))
-- **2026-04-22** — news mention: RT @Climate_of_apes: Stratospheric aerosol injection geoengineering has the potential to increase la ([source](https://x.com/geoengineering1/status/2046988170152366434))
-- **2026-04-19** — news mention: Bioenergy with carbon capture and storage - Wikipedia ([source](https://en.wikipedia.org/wiki/Bioenergy_with_carbon_capture_and_storage))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://remove.global/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://remove.global/ ([source](https://www.cdr.fyi/marketplace/remove))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://remove.global/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/remove))
 
 ---
 

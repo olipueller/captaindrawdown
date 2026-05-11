@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://taranis.eu" target="_blank" rel="noopener">https://taranis.eu</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/taranis-investment/" target="_blank" rel="noopener">taranis-investment — 6,285 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~37 (+118% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -27,8 +27,10 @@ Taranis is a France-based investment and asset management company owned by the P
 ![Taranis website](/screenshots/taranis.png)
 
 
+
 ## History
 
+- **2026-05-09** — news mention: Venture capital firm, Taranis, joins NEP ([source](https://www.negative-emissions.org/updates/venture-capital-firm-taranis-joins-nep))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

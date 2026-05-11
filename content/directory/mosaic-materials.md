@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://mosaicmaterials.com/" target="_blank" rel="noopener">https://mosaicmaterials.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mosaicmaterials/" target="_blank" rel="noopener">mosaicmaterials — 2,629 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~4 (-67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟡 Moderate"
 Mosaic Materials is a direct air capture technology developer based in Alameda, California, spun out of UC Berkeley, that develops metal-organic framework (MOF) adsorbents selectively capturing CO2 from ambient air and confined spaces (submarines, spacecraft via NASA/Navy contracts). It was acquired by Baker Hughes in April 2022 and continues operating as Baker Hughes' dedicated DAC technology arm, with pilot units being tested as of late 2024 alongside a new Baker Hughes Institute for Decarbonization Materials at UC Berkeley.
 
 ![Mosaic Materials website](/screenshots/mosaic-materials.png)
+
 
 
 ## History

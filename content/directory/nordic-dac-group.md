@@ -26,6 +26,7 @@ Nordic DAC Group AB is a Swedish company (est. 2021) that markets and sells Dire
 ![Nordic DAC Group website](/screenshots/nordic-dac-group.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -27,8 +27,12 @@ CarbonPlan is a U.S. nonprofit (California public benefit corporation) that prod
 ![CarbonPlan website](/screenshots/carbonplan.png)
 
 
+
 ## History
 
+- **2026-05-08** — news mention: An equation error in enhanced rock weathering models may have inflated CO2 removal estimates by up t ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlea35lefl2m))
+- **2026-05-08** — news mention: How surface roughness scaling can mislead enhanced weathering predictions – CarbonPlan ([source](https://carbonplan.org/research/modeling-bytes-02-roughness))
+- **2026-05-07** — news mention: Welcoming Isometric and Cercarbono to OffsetsDB – CarbonPlan ([source](https://carbonplan.org/blog/offsetsdb-cercarbono-isometric))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

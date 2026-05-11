@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://carbonaide.com/" target="_blank" rel="noopener">https://carbonaide.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonaide/" target="_blank" rel="noopener">carbonaide — 5,086 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+62% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Carbonaide is a Finnish VTT spin-out (founded 2022) that has developed an ex-situ mineralization process injecting biogenic CO₂ during concrete curing to form stable carbonate minerals, permanently storing CO₂ while reducing cement demand. The company raised €3.7M in January 2026 and is deploying commercial systems at Finnish concrete producers Lakan Betoni and Lipa-Betoni, with removals certified by Isometric.
 
 ![Carbonaide website](/screenshots/carbonaide.png)
+
 
 ## Registry Memberships
 

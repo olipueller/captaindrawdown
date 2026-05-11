@@ -27,6 +27,7 @@ LOCOAL is a Texas-based waste-to-energy climate-tech company running a biochar p
 ![LOCOAL website](/screenshots/locoal.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))

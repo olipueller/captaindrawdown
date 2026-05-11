@@ -14,9 +14,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.ground-up.in" target="_blank" rel="noopener">https://www.ground-up.in</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ground-zero-in/" target="_blank" rel="noopener">ground-zero-in — 597 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via isometric issuance through 2026-04-17</small></td></tr>
   <tr><th>Employees</th><td>~15</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-04-17)</small></td></tr>
 </table>
 
 ## About
@@ -24,6 +25,15 @@ liveliness: "🟢 Active"
 Ground Up (Ground Up Ecowaste Pvt Ltd) is a Mumbai-based biochar startup founded by Rhea Dabriwala, Naveen Shivalingam and Shanay Jhaveri. The company develops strategically located industrial biochar production hubs that pyrolyze Indian agricultural residues into biochar, producing soil-amendment fertilisers and permanent carbon removal credits. Seed-stage: raised ~$117K in a May 2025 seed round; roughly 15 employees.
 
 ![Ground Up website](/screenshots/ground-up.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar · 4 tCO₂ issued · since 2026-04-17 &nbsp;[↗](https://to.isometric.com/prj_1JWX91R5E1S00PN0)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

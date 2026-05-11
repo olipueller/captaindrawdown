@@ -27,6 +27,7 @@ Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) i
 ![Sea-Up website](/screenshots/sea-up.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

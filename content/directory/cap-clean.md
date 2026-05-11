@@ -25,6 +25,7 @@ Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development star
 ![Cap Clean website](/screenshots/cap-clean.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

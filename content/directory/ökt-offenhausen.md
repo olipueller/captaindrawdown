@@ -26,6 +26,7 @@ liveliness: "🟠 Suspect"
 ![ÖKT Offenhausen website](/screenshots/ökt-offenhausen.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

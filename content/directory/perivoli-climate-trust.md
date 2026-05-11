@@ -26,6 +26,7 @@ Perivoli Climate Trust is a Namibia-domiciled not-for-profit (company limited by
 ![Perivoli Climate Trust website](/screenshots/perivoli-climate-trust.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

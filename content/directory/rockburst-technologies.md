@@ -28,6 +28,7 @@ Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBur
 ![Rockburst Technologies website](/screenshots/rockburst-technologies.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

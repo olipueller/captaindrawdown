@@ -24,6 +24,7 @@ OnePoint5 is an India-based biomass carbon removal and storage company focused o
 ![OnePoint5 website](/screenshots/onepoint5.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

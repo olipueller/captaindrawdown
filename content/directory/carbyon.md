@@ -27,6 +27,7 @@ Carbyon is a Dutch DAC startup founded in 2019 as a spin-off from research insti
 ![Carbyon website](/screenshots/carbyon.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))

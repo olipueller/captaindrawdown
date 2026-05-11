@@ -28,6 +28,7 @@ Tambora Carbon Removal (TCR) is an Indonesian CDR startup scaling Enhanced Rock 
 ![Tambora website](/screenshots/tambora.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

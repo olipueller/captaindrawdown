@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://capture6.org/" target="_blank" rel="noopener">https://capture6.org/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Capture6 is a California- and New Zealand-based direct air capture supplier that integrates CO2 removal with water treatment infrastructure, using waste brine to generate a solvent that captures atmospheric CO2 while recovering freshwater. Active projects include Project Wallaby (Australia, with Pilot Energy), Project Monarch (Palmdale Water District, California), and Project Octopus (South Korea).
 
 ![Capture6 website](/screenshots/capture6.png)
+
 
 ## Registry Memberships
 

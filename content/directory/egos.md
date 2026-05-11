@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a BImSchG-permitted pyrolysis plant converting biomass into biochar, feed charcoal and Terra Preta, with syngas-based CO2-negative power and heat cogeneration."
 url: "/directory/egos/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.pflanzenkohle24.de/" target="_blank" rel="noopener">https://www.pflanzenkohle24.de/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -25,8 +25,11 @@ EGoS was founded in 2002 by Theo Houy and has been based at its current site in 
 ![EGoS website](/screenshots/egos.png)
 
 
+
 ## History
 
+- **2026-05-11** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
+- **2026-05-10** — news mention: Plugging Away at the Millions of Derelict Oil and Gas Wells in the US ([source](https://insideclimatenews.org/news/10052026/well-done-foundation-plugging-abandoned-oil-gas-wells/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))

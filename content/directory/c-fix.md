@@ -25,6 +25,7 @@ C-Fix is a pre-seed concept for a solar-powered direct air capture system. The C
 ![C-Fix website](/screenshots/c-fix.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

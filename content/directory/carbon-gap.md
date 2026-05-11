@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://carbongap.org/" target="_blank" rel="noopener">https://carbongap.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-advocacy-europe/" target="_blank" rel="noopener">carbon-removal-advocacy-europe — 14,204 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~25 (-14% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,12 +27,15 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ![Carbon Gap website](/screenshots/carbon-gap.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-05** — news mention: National Targets and Flexibilities - Call for evidence response - Carbon Gap ([source](https://carbongap.org/national-targets-and-flexibilities/))
+- **2026-05-01** — news mention: National targets and flexibilities - Carbon Gap ([source](https://carbongap.org/national-targets-and-flexibilities-submission))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

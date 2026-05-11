@@ -27,6 +27,7 @@ Pure Carbon Partners (PCP) is a buyer-side carbon asset management and procureme
 ![Pure Carbon Partners (PCP) website](/screenshots/pure-carbon-partners-pcp.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

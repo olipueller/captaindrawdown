@@ -27,6 +27,7 @@ Zopeful Climate is a London-based company that curates ready-made portfolios of 
 ![Zopeful Climate website](/screenshots/zopeful-climate.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

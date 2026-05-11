@@ -27,6 +27,7 @@ PureField Carbon Capture, LLC is a subsidiary of PureField Ingredients authorize
 ![PureField Carbon website](/screenshots/purefield-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

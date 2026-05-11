@@ -27,6 +27,7 @@ Carbon Plant is an Isle of Man-based, FSA-registered carbon credit exchange that
 ![Carbon Plant website](/screenshots/carbon-plant.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

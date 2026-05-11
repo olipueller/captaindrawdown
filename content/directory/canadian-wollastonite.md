@@ -27,6 +27,7 @@ Canadian Wollastonite is an Ontario-based industrial minerals mine near Seeley's
 ![Canadian Wollastonite website](/screenshots/canadian-wollastonite.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

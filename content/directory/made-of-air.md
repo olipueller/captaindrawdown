@@ -28,6 +28,7 @@ Made of Air is a Berlin-based carbon-negative materials company, founded in 2016
 ![Made of Air website](/screenshots/made-of-air.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.materially.eu/en/made-of-air-2/))

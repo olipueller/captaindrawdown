@@ -28,6 +28,7 @@ Leilac is a 93%-owned subsidiary of ASX-listed Calix Limited that develops indir
 ![Leilac/Calix website](/screenshots/leilaccalix.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.calix.com/careers.html))

@@ -28,6 +28,7 @@ High Plains Biochar designs and manufactures small scale biochar equipment and h
 ![High Plains Biochar website](/screenshots/high-plains-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

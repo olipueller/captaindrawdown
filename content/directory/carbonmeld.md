@@ -24,8 +24,13 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 ![CarbonMeld website](/screenshots/carbonmeld.png)
 
 
+
 ## History
 
+- **2026-05-11** — news mention: When Carbon Projects Lose Social Licence: What Community Pushback Means for the Future of Offset Sup ([source](https://carbonmeld.com/en/articles/when-carbon-projects-lose-social-licence-what-community-pushback-means-for-the-future-of-offset-supply/))
+- **2026-05-10** — news mention: Weekly link list: 18 candidate stories, 6-9 picks, each with our take so you don't have to click eve ([source](https://x.com/CaptainDrawdown/status/2053559769210769845))
+- **2026-05-09** — news mention: Why the EU Could Turn Carbon Removal Into a Competitive Advantage for Heavy Industry · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-the-eu-could-turn-carbon-removal-into-a-competitive-advantage-for-heavy-industry/))
+- **2026-05-09** — news mention: BP’s Carbon Capture Retreat and the New Test for UK CCS Supply and Carbon Removal Credibility · Carb ([source](https://carbonmeld.com/en/articles/bp-s-carbon-capture-retreat-and-the-new-test-for-uk-ccs-supply-and-carbon-removal-credibility/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

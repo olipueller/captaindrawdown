@@ -16,11 +16,12 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://crewcarbon.com/" target="_blank" rel="noopener">https://crewcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/crew-carbon/" target="_blank" rel="noopener">crew-carbon — 3,675 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+33% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2025-12-18)</small></td></tr>
 </table>
 
 ## About
@@ -29,6 +30,15 @@ CREW Carbon is a US-based CDR startup founded in 2022 by Joachim Katchinoff and 
 
 ![CREW Carbon website](/screenshots/crew-carbon.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 2 projects · Unknown · 526 tCO₂ issued · 166 retired · since 2025-04-30 &nbsp;[↗](https://to.isometric.com/prj_1K3S0527T1S0KYXT)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - [Isometric](https://registry.isometric.com/)
@@ -36,6 +46,7 @@ CREW Carbon is a US-based CDR startup founded in 2022 by Joachim Katchinoff and 
 
 ## History
 
+- **2026-05-06** — news mention: We’re heading to RBTT 2026! CREW will be presenting and highlighting Wastewater Alkalinity Enhanceme ([source](https://www.linkedin.com/feed/update/urn:li:share:7457728391580893184/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-28** — news mention: Strategic Finance Intern - CREW Carbon ([source](https://crewcarbon.com/jobs/commercial-finance-intern))

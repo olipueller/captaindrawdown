@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://nordbex.com/" target="_blank" rel="noopener">https://nordbex.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nordbex/" target="_blank" rel="noopener">nordbex — 1,112 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~9 (+12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Nordbex AB is a Swedish climate-tech company developing BECCUS plants; its flagship Nordbex 1 facility, scheduled for the SE4 region in 2029, will convert forestry waste into electricity and district heat while capturing biogenic CO2. The company partnered with Aker Solutions in October 2025 as project developer, with a pipeline of replicable Bio-CCUS projects across Europe.
 
 ![Nordbex website](/screenshots/nordbex.png)
+
 
 
 ## History

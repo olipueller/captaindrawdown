@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://climerock.com/" target="_blank" rel="noopener">https://climerock.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climerock/" target="_blank" rel="noopener">climerock — 763 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 ClimeRock is a French startup that spreads basalt rock powder onto farming fields to remove carbon from the atmosphere, with its first pilot projects located in Cantal, an agricultural region with many basalt quarries. It is the first French ERW specialist. The company is a partner in the LSCE-led C-ROCK research project alongside Eco&Sols, University of Antwerp and a Chinese lab studying how organic and inorganic carbon pools respond to ERW.
 
 ![ClimeRock website](/screenshots/climerock.png)
+
 
 
 ## History

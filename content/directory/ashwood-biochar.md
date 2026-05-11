@@ -26,6 +26,7 @@ Ashwood Biochar is a Lexington, Kentucky producer of wood-based biochar made fro
 ![Ashwood Biochar website](/screenshots/ashwood-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

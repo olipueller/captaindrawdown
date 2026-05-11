@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carboncontainmentlab.org/" target="_blank" rel="noopener">https://carboncontainmentlab.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-containment-lab/" target="_blank" rel="noopener">carbon-containment-lab — 2,713 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~32</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Carbon Containment Lab is a 501(c)(3) climate nonprofit supporting the design, testing, and implementation of novel and neglected climate solutions, bringing research from laboratories into pilot and commercialization across anthropogenic, biologic, and geologic emissions pathways, with current projects in biomass carbon removal and storage (BiCRS), carbon mineralization, fluorocarbon recovery, and low-concentration methane measurement. It operates as an independent nonprofit after spinning out of the Yale School of the Environment in early 2024. CC Lab is explicitly not a carbon credit registry, validator, verifier, or project developer, but engages with market stakeholders as an independent nonprofit.
 
 ![Carbon Containment Lab website](/screenshots/carbon-containment-lab.png)
+
 
 ## Registry Memberships
 

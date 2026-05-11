@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.restorationbio.com/" target="_blank" rel="noopener">https://www.restorationbio.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/restoration-bioproducts-llc/" target="_blank" rel="noopener">restoration-bioproducts-llc — 281 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Restoration Bioproducts is a Virginia-based pyrolysis company that converts low-value biomass and forestry waste into biochar, bio-oil, syngas, and power. Its ~$10M Waverly, VA flagship facility opened in October 2024 and is expected to generate ~10,000 tCO2e/year of carbon removal credits, marketed via Carbon Streaming Corporation, with Microsoft as an early buyer.
 
 ![Restoration Bioproducts website](/screenshots/restoration-bioproducts.png)
+
 
 
 ## History

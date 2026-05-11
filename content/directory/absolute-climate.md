@@ -26,6 +26,7 @@ Absolute Climate is an independent quality-assurance and standards developer for
 ![Absolute Climate website](/screenshots/absolute-climate.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

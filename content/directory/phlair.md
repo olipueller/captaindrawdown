@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://phlair.com/" target="_blank" rel="noopener">https://phlair.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phlair/" target="_blank" rel="noopener">phlair — 8,394 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~44 (+26% YoY)</td></tr>
   <tr><th>Open roles</th><td>10 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup founded in 2022 that develops an electrochemical, hydrolyzer-powered pH-swing DAC process designed for low-cost, renewable-powered CO2 capture. The company raised a €14.5M seed round in September 2024 and is deploying its Electra pilot plants with plans for a 20,000+ tCO2/year commercial facility (Project Dawn) in Canada.
 
 ![Phlair website](/screenshots/phlair.png)
+
 
 ## Registry Memberships
 

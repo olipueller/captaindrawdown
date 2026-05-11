@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.phoenixenergy.net/" target="_blank" rel="noopener">https://www.phoenixenergy.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phoenix-energy-1/" target="_blank" rel="noopener">phoenix-energy-1 — 1,382 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~18 (-5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Phoenix Energy develops, owns, and operates community-scale Bioenergy with Carbon Capture and Storage (BECCS) plants in California, having completed the 2MW North Fork Community Power (NFCP) project in the Sierra National Forest, with construction underway on a 3MW plant (BMEC) at the Stanislaus/Eldorado National Forests intersection and a third project at Napa Recycling & Waste Services (NRWS) breaking ground in 2025. The company describes itself as the largest owner operator of community scale bioenergy and carbon removal facilities in California, with products including wildfire mitigation services, hydrogen-rich syngas for renewable energy, biochar, and carbon credits.
 
 ![Phoenix Energy website](/screenshots/phoenix-energy.png)
+
 
 
 ## History

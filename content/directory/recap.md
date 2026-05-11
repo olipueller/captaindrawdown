@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates patented pyrolysis units on-site at municipal yard-waste facilities, converting yard debris into biochar."
 url: "/directory/recap/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.recapcarbon.com/" target="_blank" rel="noopener">https://www.recapcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recap-carbon/" target="_blank" rel="noopener">recap-carbon — 112 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -27,8 +27,12 @@ reCap Carbon Inc. is a US-based climate-tech company that converts municipal yar
 ![Recap website](/screenshots/recap.png)
 
 
+
 ## History
 
+- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-09** — news mention: Durable CDR Market Recap: February 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-february-2026))
+- **2026-05-09** — news mention: Durable CDR Market Recap: March 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-march-2026))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.brodiebiomass.co.uk/" target="_blank" rel="noopener">https://www.brodiebiomass.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brodiebiomass/" target="_blank" rel="noopener">brodiebiomass — 1,693 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Brodie Biomass is a biochar production arm of Brodie Farms, a family-owned Surrey farming group that diversified into pyrolysis in 2024 using a £1.3M HSBC green loan. It produces EBC-certified biochar from locally sourced woodchip, sells biochar and biochar-composts (including through the acquired SoilFixer brand), and registers carbon removal credits with Puro.earth. The biochar venture is positioned as diversification alongside the family's core farming and wood-recycling operations.
 
 ![Brodie Biomass website](/screenshots/brodie-biomass.png)
+
 
 ## Registry Memberships
 

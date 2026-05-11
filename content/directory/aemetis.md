@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.aemetis.com" target="_blank" rel="noopener">https://www.aemetis.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aemetis/" target="_blank" rel="noopener">aemetis — 4,501 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~350 (+9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Aemetis (NASDAQ: AMTX) is a Cupertino, California-based renewable natural gas, ethanol, and biofuels company operating a 65-million-gallon-per-year ethanol facility near Modesto and a dairy biogas digester network. Its Aemetis Carbon Capture subsidiary is permitting CCS injection wells at a 24-acre Riverbank site to sequester CO2 from its biofuels operations and third-party industrial sources, having received the first CO2 sequestration characterization well permit issued by California in 2023.
 
 ![Aemetis website](/screenshots/aemetis.png)
+
 
 
 ## History

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.ofi.ca/" target="_blank" rel="noopener">https://www.ofi.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-frontier-institute/" target="_blank" rel="noopener">ocean-frontier-institute — 7,063 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~36 (-5% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 The Ocean Frontier Institute (OFI) is a non-profit research and higher education organization dedicated to ocean-based research and data, established in 2016 and based at Dalhousie University in Halifax, Nova Scotia, focused on achieving net zero, protecting ocean biodiversity and sustaining ocean bioresources. OFI is a global hub for ocean research and innovation led by Dalhousie University, and its CONVERGE CDR program is part of OFI's Transforming Climate Action (TCA) program, a $397M research initiative at the intersection of oceans, climate, and human systems. It is part of the CDR ecosystem as a research/MRV enabler rather than a commercial supplier.
 
 ![Ocean Frontier Institute website](/screenshots/ocean-frontier-institute.png)
+
 
 ## Registry Memberships
 

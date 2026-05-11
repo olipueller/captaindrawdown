@@ -28,6 +28,7 @@ myclimate is a Swiss non-profit climate protection foundation, spun out of ETH Z
 ![myclimate website](/screenshots/myclimate.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

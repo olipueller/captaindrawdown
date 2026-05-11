@@ -26,6 +26,7 @@ Biorecro is a Stockholm-based BECCS project developer that integrates carbon cap
 ![Biorecro website](/screenshots/biorecro.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

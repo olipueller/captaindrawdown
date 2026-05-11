@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ebbcarbon.com/" target="_blank" rel="noopener">https://www.ebbcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ebb-carbon/" target="_blank" rel="noopener">ebb-carbon — 7,058 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~27 (-32% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -27,8 +27,11 @@ Ebb Carbon is a South San Francisco-based marine CDR pure-play that integrates b
 ![Ebb Carbon website](/screenshots/ebb-carbon.png)
 
 
+
 ## History
 
+- **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
+- **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that DACCS ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

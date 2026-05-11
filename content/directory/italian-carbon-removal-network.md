@@ -24,6 +24,7 @@ The Italian Carbon Removal Network (Rete Italiana Rimozione Carbonio, RIRC) is I
 ![Italian Carbon Removal Network website](/screenshots/italian-carbon-removal-network.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

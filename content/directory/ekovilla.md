@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.ekovilla.com" target="_blank" rel="noopener">https://www.ekovilla.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ekovilla-oy/" target="_blank" rel="noopener">ekovilla-oy — 570 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~125 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Ekovilla is the thermal insulation brand of Finnish circular-economy company EcoUp Oyj, producing cellulose fiber insulation from recycled wood fiber and newspaper for buildings. The core business is selling insulation products (40+ years of production, used in ~10,000 buildings annually), with CORC carbon-removal credits sold via Puro.earth's Wooden Building Elements methodology as an adjacent revenue stream.
 
 ![Ekovilla website](/screenshots/ekovilla.png)
+
 
 ## Registry Memberships
 

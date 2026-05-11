@@ -25,6 +25,7 @@ Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 a
 ![Inherit website](/screenshots/inherit.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -28,6 +28,7 @@ ClimatePartner GmbH is a Munich-based climate action consultancy and carbon proj
 ![ClimatePartner GmbH website](/screenshots/climatepartner-gmbh.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

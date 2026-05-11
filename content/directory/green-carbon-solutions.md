@@ -25,6 +25,7 @@ Green Carbon Solutions is an Indiantown, Florida climate-tech company founded by
 ![Green Carbon Solutions website](/screenshots/green-carbon-solutions.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

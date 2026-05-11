@@ -27,6 +27,7 @@ Norma is a Paris-based climate tech startup building a novel Direct Air Capture 
 ![Norma website](/screenshots/norma.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))

@@ -26,6 +26,7 @@ Adsorb is a South African manufacturer of activated carbon operating a plant in 
 ![Adsorb Carbon website](/screenshots/adsorb-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

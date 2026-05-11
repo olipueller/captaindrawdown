@@ -28,6 +28,7 @@ NextGen CDR is a buyers' club and advance-market-commitment facility jointly est
 ![NextGen CDR website](/screenshots/nextgen-cdr.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

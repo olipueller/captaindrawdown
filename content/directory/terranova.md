@@ -28,6 +28,7 @@ Terranova (formerly Levitree) is a San Francisco/Berkeley-based terraforming rob
 ![Terranova website](/screenshots/terranova.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://terranovacorp.com/))

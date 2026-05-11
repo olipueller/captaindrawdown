@@ -26,6 +26,7 @@ AiS (Arbeit in Selbsthilfe gGmbH) is a German non-profit inclusion enterprise in
 ![AiS website](/screenshots/ais.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://arbeit-in-selbsthilfe.de/))

@@ -26,6 +26,7 @@ Elimini is a wholly-owned US-based subsidiary of UK energy group Drax, launched 
 ![Drax/Elimini website](/screenshots/draxelimini.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.drax.com/financial-news/half-year-results-for-the-six-months-ended-30-june-2025/))

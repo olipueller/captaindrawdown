@@ -27,6 +27,7 @@ Hempalta Corp. (TSXV: HEMP) is a Calgary-based AgTech and climate-technology com
 ![HEMPALTA website](/screenshots/hempalta.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://investingnews.com/stocks/tsxv-hemp/hempalta/))

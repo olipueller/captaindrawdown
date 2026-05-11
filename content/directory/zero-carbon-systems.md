@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.zerocarbonsystems.com/" target="_blank" rel="noopener">https://www.zerocarbonsystems.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zero-carbon-systems/" target="_blank" rel="noopener">zero-carbon-systems</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~56 (-10% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Zero Carbon Systems is a US-based direct air capture company that acquired Global Thermostat in May 2024, combining Global Thermostat's solid-sorbent DAC core technology with Zero Carbon Systems' engineering design. The company plans to own and operate a 2,500-ton per year demonstration plant in 2025-2026, a 50,000-ton commercial plant two years later, and a million-ton scale plant by around 2030. The firm is funded primarily by founder David Elenowitz's investment vehicle Zero Carbon Partners.
 
 ![Zero Carbon Systems website](/screenshots/zero-carbon-systems.png)
+
 
 ## Registry Memberships
 

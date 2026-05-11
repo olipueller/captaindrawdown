@@ -28,6 +28,7 @@ Aspiring Materials is a Christchurch, New Zealand cleantech company that process
 ![Aspiring Materials website](/screenshots/aspiring-materials.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

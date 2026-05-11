@@ -27,6 +27,7 @@ Terrasols (Terrasols Solutions) is an India-based enhanced rock weathering start
 ![Terrasols website](/screenshots/terrasols.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

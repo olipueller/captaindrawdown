@@ -15,9 +15,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://thenext150.com/" target="_blank" rel="noopener">https://thenext150.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thenext150/" target="_blank" rel="noopener">thenext150 — 2,715 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~7 (-36% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 The Next 150 is a Swiss-based carbon removal venture developer and operator founded in late 2022, focused on scaling CDR projects in emerging markets, particularly Latin America. Its first venture, General Biochar Systems (GBS), operates an industrial-scale biochar plant in Guanajuato, Mexico, processing agricultural waste via pyrolysis and issuing credits on the Puro.Earth registry. The company has signed multi-year offtake agreements with Microsoft (95,000 tons over 6 years) and Shell (22,500 credits over 5 years).
 
 ![The Next 150 website](/screenshots/the-next-150.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2023-09-21
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

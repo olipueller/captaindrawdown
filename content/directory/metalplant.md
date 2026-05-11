@@ -25,6 +25,7 @@ Metalplant is a US-domiciled startup with field operations in northern Albania t
 ![Metalplant website](/screenshots/metalplant.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://metalplant.com/))

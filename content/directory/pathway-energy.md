@@ -27,6 +27,7 @@ Pathway Energy is a Houston-based developer of carbon-negative sustainable aviat
 ![Pathway Energy website](/screenshots/pathway-energy.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

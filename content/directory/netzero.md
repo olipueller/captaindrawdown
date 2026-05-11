@@ -14,10 +14,11 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://netzero.green/en/" target="_blank" rel="noopener">https://netzero.green/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/netzerogreen/" target="_blank" rel="noopener">netzerogreen — 19,255 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~135 (+30% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -26,12 +27,22 @@ NetZero is a French biochar company founded in 2021 and headquartered in Paris t
 
 ![NetZero website](/screenshots/netzero.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 3 projects · Biochar, 2022 · since 2022-06-06 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/netzero-002-lajinha)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Puro.earth
 
 ## History
 
+- **2026-05-08** — news mention: #carbonremoval #cdr #climateweekzurich #cwz2026 #netzero #sustainability | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458165340045230080/))
 - **2026-05-01** — news mention: #climateweekzurich #durablecdr #carbonremoval #climatetech #netzero | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7455560954865500161/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://carbicrete.com/" target="_blank" rel="noopener">https://carbicrete.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbicrete/" target="_blank" rel="noopener">carbicrete — 10,057 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~32 (-22% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 CarbiCrete is a Montreal-based carbon removal technology company that licenses a patented process for producing cement-free concrete by replacing cement with steel slag and curing with captured CO2 for permanent mineralized storage. The company licenses its technology to block and paver manufacturers in Quebec, Ontario and the northeastern US, with a Saint-Gobain/POINT.P production line slated to open in France in Q1 2026.
 
 ![CarbiCrete website](/screenshots/carbicrete.png)
+
 
 ## Registry Memberships
 

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://standardgas.com/" target="_blank" rel="noopener">https://standardgas.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/standardgas/" target="_blank" rel="noopener">standardgas — 9,613 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~21 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 London-based Standard Gas Technologies is commercialising its carbon-negative energy-from-waste SG100 technology and has launched Carbon Char Store as its carbon removals sales and marketing arm. The patented SG100 generates clean renewable energy plus carbon-capturing biochar, and provides an alternative to landfill and incineration. Biochar is a co-product (~10-15% of output) sequestered in soil and construction aggregates.
 
 ![Standard Gas/Carbon Char Store website](/screenshots/standard-gascarbon-char-store.png)
+
 
 
 ## History

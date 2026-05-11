@@ -27,6 +27,7 @@ sus.lab (Sustainability in Business Lab) is a "think and do tank" at ETH Zurich,
 ![sus.lab website](/screenshots/suslab.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

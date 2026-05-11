@@ -26,6 +26,7 @@ Re-Vi is an Australian CDR developer building a large-scale biochar project on K
 ![Re-Vi website](/screenshots/re-vi.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://re-vi.com/products/biochar/))

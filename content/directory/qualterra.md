@@ -27,6 +27,7 @@ Qualterra is a Washington State-based agricultural technology company that produ
 ![Qualterra website](/screenshots/qualterra.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))

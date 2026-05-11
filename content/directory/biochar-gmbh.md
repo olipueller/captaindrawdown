@@ -23,6 +23,7 @@ BIOCHAR GmbH & Co. KG is the Convoris subsidiary that produces and sells biochar
 
 ![BIOCHAR GmbH website](/screenshots/biochar-gmbh.png)
 
+
 ## Registry Memberships
 
 - [Puro.earth](https://registry.puro.earth/)

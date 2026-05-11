@@ -25,6 +25,7 @@ Beaver Lake Renewable Energy LLC is a wholly-owned subsidiary of SunGas Renewabl
 ![Beaver Lake Renewable Energy website](/screenshots/beaver-lake-renewable-energy.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

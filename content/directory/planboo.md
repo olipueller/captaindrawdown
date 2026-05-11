@@ -16,9 +16,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://planboo.eco/" target="_blank" rel="noopener">https://planboo.eco/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planboo/" target="_blank" rel="noopener">planboo — 5,966 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
   <tr><th>Employees</th><td>~21 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
 </table>
 
 ## About
@@ -26,6 +27,15 @@ liveliness: "🟢 Active"
 Planboo is an early-stage Swedish company founded in Stockholm in 2020 that operates throughout the Tropics, supporting biochar carbon removal in the Global South. The company uses its digital Measurement, Reporting, and Verification (MRVin) system to collect data points from biochar production through carbon credit allocation. Credits are certified by Puro.earth and Carbon Standards International.
 
 ![Planboo website](/screenshots/planboo.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 1 project · Biochar, 2022 · since 2024-01-30 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/farm-gai-kaisa-159-87)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

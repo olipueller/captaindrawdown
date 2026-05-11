@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.shell.com/what-we-do/carbon-capture-and-storage/direct-air-capture-projects.html" target="_blank" rel="noopener">https://www.shell.com/what-we-do/carbon-capture-and-storage/direct-air-capture-projects.html</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/shell/" target="_blank" rel="noopener">shell — 7,625,535 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~192273 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Shell is a global oil, gas and energy major headquartered in London that is developing DAC technology as one of several carbon management activities adjacent to its core hydrocarbon business. It operates a proprietary solid-sorbent DAC demonstration unit at Shell Technology Center Houston and, via Shell US Gas & Power, acts as technical delivery partner for the DOE-funded Pelican Gulf Coast DAC Hub in Louisiana alongside Mitsubishi, LSU, UH, RepAir Carbon and Origen. Shell Ventures also invests in DAC startups (Avnos, RepAir).
 
 ![Shell website](/screenshots/shell.png)
+
 
 
 ## History

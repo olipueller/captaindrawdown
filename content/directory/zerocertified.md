@@ -25,6 +25,7 @@ ZEROCertified was a Netherlands-based voluntary carbon market consultancy and me
 ![ZEROCertified website](/screenshots/zerocertified.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

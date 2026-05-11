@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://carbonengineering.com/" target="_blank" rel="noopener">https://carbonengineering.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-engineering-limited/" target="_blank" rel="noopener">carbon-engineering-limited — 61,943 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~186 (+1% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Carbon Engineering is a Canadian DAC technology developer headquartered in Squamish, British Columbia, founded in 2009 and acquired by Occidental's Oxy Low Carbon Ventures for approximately US$1.1 billion in 2023. Its liquid-solvent DAC technology is being deployed at commercial scale via the Stratos plant in Ector County, Texas and the South Texas DAC Hub, and in July 2025 it advanced plans for an expanded R&D campus in Squamish.
 
 ![Carbon Engineering website](/screenshots/carbon-engineering.png)
+
 
 
 ## History

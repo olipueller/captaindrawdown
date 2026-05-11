@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.hyvegeo.com/" target="_blank" rel="noopener">https://www.hyvegeo.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hyvegeo/" target="_blank" rel="noopener">hyvegeo — 1,460 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 HyveGeo is a climate-tech startup with operations in Cambridge, England and Abu Dhabi that combines microalgae technology for carbon removal and soil regeneration with biochar production. The company puts microalgae through a "biorefinery concept," extracting bioactive compounds that act as biostimulants and are added along with beneficial microbes to biochar in different recipes to promote crop growth. The company was founded in 2023 and is at pilot stage targeting commercial rollout in the UAE.
 
 ![Hyve Geo website](/screenshots/hyve-geo.png)
+
 
 
 ## History

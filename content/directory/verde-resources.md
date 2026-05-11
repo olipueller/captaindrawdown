@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.verderesources.com/" target="_blank" rel="noopener">https://www.verderesources.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verde-resources-inc-vrdr-/" target="_blank" rel="noopener">verde-resources-inc-vrdr- — 1,018 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~9 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructure company developing BioAsphalt™, a biochar-enhanced cold-mix asphalt that sequesters carbon in road pavements. In December 2024 the company completed a proof-of-concept at the NCAT Test Track that produced the world's first Puro.earth-verified carbon removal credits from asphalt (8 tonnes), and in 2025–2026 it signed a 10-year exclusive commercialization agreement with Ergon Asphalt & Emulsions (plus a $2M strategic investment) and a biochar supply/credit-sharing deal with Biochar Solutions LLC for up to 38,500 tons/year.
 
 ![Verde Resources website](/screenshots/verde-resources.png)
+
 
 
 ## History

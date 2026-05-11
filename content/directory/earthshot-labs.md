@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.earthshot.eco/" target="_blank" rel="noopener">https://www.earthshot.eco/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/earthshotlabs/" target="_blank" rel="noopener">earthshotlabs — 13,019 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~36 (+12% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Earthshot Labs is a US-based nature-based carbon project developer and technology platform that helps land stewards develop reforestation (ARR), REDD+, and improved forest management projects globally. The company operates LandOS for project feasibility and MRV, has developed 60+ projects, and raised a $5.5M Series A in 2024. It also operates its own reforestation project in Panama.
 
 ![Earthshot Labs website](/screenshots/earthshot-labs.png)
+
 
 ## Registry Memberships
 

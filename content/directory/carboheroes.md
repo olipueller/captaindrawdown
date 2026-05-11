@@ -26,6 +26,7 @@ CarboHeroes GmbH is a Berlin-based biochar project developer running pilot pyrol
 ![CarboHeroes website](/screenshots/carboheroes.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -26,6 +26,7 @@ Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company foun
 ![Grassroots Carbon website](/screenshots/grassroots-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -26,6 +26,7 @@ AtmosClear BR, LLC is a portfolio company of Houston-based Fidelis New Energy de
 ![AtmosClear website](/screenshots/atmosclear.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

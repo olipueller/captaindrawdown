@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://carboncapturecompany.se/" target="_blank" rel="noopener">https://carboncapturecompany.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncapturecompany/" target="_blank" rel="noopener">carboncapturecompany — 324 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Carbon Capture Company (CCC) is a Swedish certification body that developed the Carbon Forestry Standard – Sweden, a methodology for certifying and issuing carbon credits from actively managed Swedish forests. It does not physically remove CO2 itself; it acts as certification scheme, runs the certification registry, conducts audits, and issues credits to forest owners, aligning with the EU Carbon Removals and Carbon Farming Regulation.
 
 ![Carbon Capture Company website](/screenshots/carbon-capture-company.png)
+
 
 
 ## History

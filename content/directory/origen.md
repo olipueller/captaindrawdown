@@ -28,6 +28,7 @@ Origen (Origen Power Limited) is a UK/US climate-technology company headquartere
 ![Origen website](/screenshots/origen.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.origencarbon.com/news/origen-series-a/))

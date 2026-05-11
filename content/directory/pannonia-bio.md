@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Hungary</td></tr>
   <tr><th>Website</th><td><a href="https://www.pannoniabio.com/" target="_blank" rel="noopener">https://www.pannoniabio.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pannonia-bio-zrt/" target="_blank" rel="noopener">pannonia-bio-zrt — 3,434 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~155 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Pannonia Bio is Europe's largest single-site grain biorefinery in Dunaföldvár, Hungary, processing grain sourced from Hungarian farmers and employing nearly 400 people, producing bioethanol, biomethane, animal feed, protein concentrates and corn oil. Together with sister company Danube Carbon Storage (backed by parent ClonBio Group and EMOV Limited), it is developing a full-chain BECCS project in Central Hungary that will capture more than 500,000 tonnes of biogenic CO₂ per year from Pannonia Bio's fermentation and anaerobic digestion processes and permanently store it in a saline aquifer in the Pannonian Basin. The biorefinery is the primary business; the CDR activity is an adjacent add-on through a related SPV.
 
 ![Pannonia Bio website](/screenshots/pannonia-bio.png)
+
 
 
 ## History

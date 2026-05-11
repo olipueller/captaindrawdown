@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://energnist.dk" target="_blank" rel="noopener">https://energnist.dk</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energnist/" target="_blank" rel="noopener">energnist — 1,358 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~125 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Energnist CaptureCo A/S is the dedicated carbon-capture subsidiary of Energnist, West Denmark's largest waste-to-energy company owned by 16 municipalities. It is developing a CCS facility at the Esbjerg waste-incineration plant intended to capture over 200,000 tonnes of CO2 per year, with pipeline transport to a liquefaction terminal at Esbjerg Harbour and geological storage in the North Sea. In January 2026 the project withdrew from the Danish state CCS tender due to tight timelines, but continues to pursue private financing and recently signed an LOI with Carbon Circle on capture technology.
 
 ![Energnist CaptureCo website](/screenshots/energnist-captureco.png)
+
 
 
 ## History

@@ -27,6 +27,7 @@ UK Carbon Registry (UKCR) is a UK-based carbon credit registry that onboards, va
 ![UK Carbon Registry website](/screenshots/uk-carbon-registry.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

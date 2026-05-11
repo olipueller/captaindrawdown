@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.bloomineral.com/" target="_blank" rel="noopener">https://www.bloomineral.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bloomineral/" target="_blank" rel="noopener">bloomineral — 1,429 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+200% YoY)</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -28,6 +28,7 @@ liveliness: "🟢 Active"
 Bloomineral is a French climate deeptech startup spun out of Marble studio and hosted at the LSCE laboratory near Paris. It uses marine organisms (macroalgae) in open seawater systems with alkaline industrial residues to biomineralize atmospheric CO2 into ultra-pure calcium carbonate crystals intended as carbon-negative fillers for cement, paint, paper, and cosmetics. The company is a founding member of AFEN (French Association for Negative Emissions) and won a Women TechEU award in 2025.
 
 ![Bloomineral website](/screenshots/bloomineral.png)
+
 
 ## Registry Memberships
 

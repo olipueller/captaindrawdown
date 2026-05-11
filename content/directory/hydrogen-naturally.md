@@ -26,6 +26,7 @@ Hydrogen Naturally (H2N) is a Canadian startup founded by Brian Fehr and Ian Mac
 ![Hydrogen Naturally website](/screenshots/hydrogen-naturally.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -28,6 +28,7 @@ The Carbon Removal India Alliance (CRIA) is a non-partisan membership organisati
 ![Carbon Removal India Alliance website](/screenshots/carbon-removal-india-alliance.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

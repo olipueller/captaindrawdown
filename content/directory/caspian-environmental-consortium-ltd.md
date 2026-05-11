@@ -28,6 +28,7 @@ Caspian Environmental Consortium Ltd. is a Kazakhstan-based bio-economy research
 ![Caspian Environmental Consortium Ltd. website](/screenshots/caspian-environmental-consortium-ltd.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

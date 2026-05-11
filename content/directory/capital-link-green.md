@@ -16,6 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://www.capital.link/" target="_blank" rel="noopener">https://www.capital.link/</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -23,6 +24,15 @@ liveliness: "🟡 Moderate"
 Capital Link Green (CLG) produces biochar via pyrolysis of waste biomass and issues carbon removal credits. The company markets credits verified under Isometric methodology and insured against reversal via Oka/Lloyd's of London. Biochar products target applications including agriculture, water filtration, cement blending, and mine remediation.
 
 ![Capital Link Green website](/screenshots/capital-link-green.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar &nbsp;[↗](https://to.isometric.com/prj_1JYENJXB71S0CR1B)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

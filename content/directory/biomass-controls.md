@@ -28,8 +28,11 @@ Biomass Controls PBC is a Connecticut-based manufacturer of the Biogenic Refiner
 ![Biomass Controls website](/screenshots/biomass-controls.png)
 
 
+
 ## History
 
+- **2026-05-11** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

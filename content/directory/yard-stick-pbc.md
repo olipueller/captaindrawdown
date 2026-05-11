@@ -28,6 +28,7 @@ Yard Stick PBC is a Cambridge, Massachusetts-based soil carbon MRV company found
 ![Yard Stick PBC website](/screenshots/yard-stick-pbc.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

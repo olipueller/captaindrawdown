@@ -26,6 +26,7 @@ Red Mountain Biochar is a Texas-based (Atlanta, TX) biochar producer that conver
 ![Red Mountain Biochar website](/screenshots/red-mountain-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

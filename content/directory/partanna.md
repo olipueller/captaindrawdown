@@ -26,6 +26,7 @@ Partanna Global is a Bahamian advanced materials company co-founded by former NB
 
 ![Partanna website](/screenshots/partanna.png)
 
+
 ## Registry Memberships
 
 - [Verra](https://registry.verra.org/)

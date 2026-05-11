@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.malamalabs.com/" target="_blank" rel="noopener">https://www.malamalabs.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/malama-labs-incorporated/" target="_blank" rel="noopener">malama-labs-incorporated — 69 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Mālama Labs is a Hawaii-based carbon removal startup founded in 2024 that produces biochar from agricultural byproducts (macadamia nut shells, albizia) and invasive species at a Maui facility. The company also operates a blockchain-based digital MRV and carbon marketplace platform, and raised a pre-seed round in February 2025.
 
 ![malama labs inc website](/screenshots/malama-labs-inc.png)
+
 
 
 ## History

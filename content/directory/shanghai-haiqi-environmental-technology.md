@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.haiqienvtech.com/" target="_blank" rel="noopener">https://www.haiqienvtech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/shanghai-haiqi-environmental-protection-technology-co-ltd/" target="_blank" rel="noopener">shanghai-haiqi-environmental-protection-technology-co-ltd — 1,965 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Shanghai Haiqi Environmental Protection Technology is a Chinese biomass gasification and pyrolysis equipment manufacturer founded in 1995, headquartered in Pudong, Shanghai. Its core business is selling gasifiers, waste-to-energy systems, and carbonization/pyrolysis units to industrial customers globally (Thailand, Malaysia, Indonesia, France, etc.), with biochar produced as a co-product. The company recently rebranded toward "negative carbon CDR" marketing and references Puro.earth approval of its pyrolysis equipment.
 
 ![Shanghai HaiQi Environmental Technology website](/screenshots/shanghai-haiqi-environmental-technology.png)
+
 
 
 ## History

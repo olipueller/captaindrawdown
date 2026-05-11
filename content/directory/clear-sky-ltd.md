@@ -28,6 +28,7 @@ ClearSky Limited is an environmental markets platform and carbon project broker/
 ![Clear Sky Ltd website](/screenshots/clear-sky-ltd.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

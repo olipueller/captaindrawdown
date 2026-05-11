@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://nordicoffset.fi/" target="_blank" rel="noopener">https://nordicoffset.fi/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -24,6 +24,7 @@ liveliness: "🟡 Moderate"
 Nordic Offset (Nordic Offset Oy) is a Finnish carbon footprint management consultancy and voluntary carbon credit retailer, founded in 2008 and headquartered in Helsinki. It resells certified third-party credits (Gold Standard, Verra, Puro.earth) and offers emission calculation and sustainability (ESG/CSRD) reporting services. The firm has broadened into ESG reporting under the related Nordic Impact brand.
 
 ![Nordic Offset website](/screenshots/nordic-offset.png)
+
 
 
 ## History

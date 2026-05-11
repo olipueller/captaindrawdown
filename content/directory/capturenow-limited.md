@@ -27,6 +27,7 @@ CaptureNow (legal name CAPTURENOW LIMITED) is a London-based pre-seed startup th
 ![CAPTURENOW LIMITED website](/screenshots/capturenow-limited.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

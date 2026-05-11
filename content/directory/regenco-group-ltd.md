@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://regenco.earth/" target="_blank" rel="noopener">https://regenco.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenco-earth/" target="_blank" rel="noopener">regenco-earth — 1,560 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~23 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 RegenCo is an Adelaide-based Australian natural capital and carbon project developer founded in 2019 that partners with landholders to develop HIR native forest regeneration and beef cattle herd management projects under the ACCU scheme. Following a 2024 merger with Revaia, the company manages over 6.5 million hectares of projects forecast to generate more than two million ACCUs annually. RegenCo handles project development, MRV, and credit marketing in return for a share of credits.
 
 ![RegenCo Group Ltd website](/screenshots/regenco-group-ltd.png)
+
 
 
 ## History

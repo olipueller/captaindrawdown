@@ -27,6 +27,7 @@ CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022, posit
 ![CarpeCarbon website](/screenshots/carpecarbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

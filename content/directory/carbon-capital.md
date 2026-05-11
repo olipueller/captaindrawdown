@@ -26,6 +26,7 @@ Carbon Capital is a Namibian bioeconomy company established in 2020 by Cirrus Ca
 ![Carbon Capital website](/screenshots/carbon-capital.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

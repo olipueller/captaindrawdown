@@ -27,6 +27,7 @@ KlimaDAO is a decentralized autonomous organization building blockchain-based in
 ![KlimaDAO website](/screenshots/klimadao.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -27,6 +27,7 @@ CarbonCapture Inc. is a Los Angeles-based direct air capture technology company 
 ![CarbonCapture Inc. website](/screenshots/carboncapture-inc.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.carboncapture.com/purchasing-crc))

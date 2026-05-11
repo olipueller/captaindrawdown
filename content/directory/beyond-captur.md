@@ -27,6 +27,7 @@ Beyond Captur is a South Korea-based direct air capture startup developing elect
 ![Beyond Captur website](/screenshots/beyond-captur.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.bionero.de/" target="_blank" rel="noopener">https://www.bionero.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bionero-gmbh/" target="_blank" rel="noopener">bionero-gmbh</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 bionero GmbH, based in Thurnau near Bayreuth in Upper Franconia, was founded in 2018 to produce biochar from organic residues and refine it into various products. The company sells EBC-certified Terra Preta potting soils and garden substrates to retailers and hobby gardeners, and is currently building additional decentralized pyrolysis sites where biogenic residues are available for reuse. bionero claims to have been the first company in Germany to operate in a certified climate-positive manner, making biochar-based carbon removal central to the business.
 
 ![bionero website](/screenshots/bionero.png)
+
 
 
 ## History

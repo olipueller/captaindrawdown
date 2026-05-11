@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://carbonaires.com/" target="_blank" rel="noopener">https://carbonaires.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonaires/" target="_blank" rel="noopener">carbonaires — 10,739 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~23 (+15% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -28,8 +28,12 @@ Carbonaires is a London-based carbon asset management and finance firm that stru
 ![Carbonaires website](/screenshots/carbonaires.png)
 
 
+
 ## History
 
+- **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
+- **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))
+- **2026-05-02** — news mention: This Week in CDR - May 1, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455979489584619520/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-30** — news mention: In A New RFP, Carbonaires To Bring Offtake-Backed Financing Into High-Quality Removals ([source](https://carbonherald.com/in-a-new-rfp-carbonaires-to-bring-offtake-backed-financing-into-high-quality-removals/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-rfp-carbonaires-to-bring-offtake-backed-financing-into-high-quality-removals))
 - **2026-04-19** — refresh: coresignal, liveliness

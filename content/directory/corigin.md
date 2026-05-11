@@ -18,6 +18,7 @@ liveliness: "🟢 Active"
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 Corigin Solutions is a Merced, California biorefinery that uses vacuum pyrolysis to convert agricultural waste (primarily almond shells) into biochar (Corichar), a liquid plant-growth enhancer (Coriphol), and bio-oil. The biochar is sold as a soil amendment and the bio-oil is supplied to Charm Industrial for permanent underground sequestration. The company brands itself as a carbon-removal business and was featured in a January 2026 WRI article on BiCRS suppliers.
 
 ![corigin website](/screenshots/corigin.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar &nbsp;[↗](https://to.isometric.com/prj_1K051N4HQ1S02170)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

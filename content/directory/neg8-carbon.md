@@ -27,6 +27,7 @@ NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company (originally
 ![NEG8 Carbon website](/screenshots/neg8-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://neg8carbon.com/solid-sorbent-dac-compared-with-electrochemical-dac/))

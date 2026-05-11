@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://midori-partner.com/" target="_blank" rel="noopener">https://midori-partner.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/midoriclimate/" target="_blank" rel="noopener">midoriclimate — 1,063 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer specializing in biochar carbon removal projects across Southeast Asia, including Cambodia, Thailand, Vietnam, and Malaysia. The company partners with farmer cooperatives and food/wood processing factories to convert biomass waste into biochar for soil application, and closed a pre-seed round led by Tokio Marine Holdings in February 2025.
 
 ![Midori Partner website](/screenshots/midori-partner.png)
+
 
 ## Registry Memberships
 

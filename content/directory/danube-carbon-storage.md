@@ -5,7 +5,7 @@ type: "directory"
 description: "Full-chain BECCS project capturing biogenic CO2 from Pannonia Bio's fermentation/anaerobic digestion processes and injecting it into an onshore saline aquifer in the Pannonian Basin."
 url: "/directory/danube-carbon-storage/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Hungary</td></tr>
   <tr><th>Website</th><td><a href="https://danubecarbon.com/" target="_blank" rel="noopener">https://danubecarbon.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -25,8 +25,12 @@ Danube Carbon Storage is a Budapest-based project developer formed to create lar
 ![Danube Carbon Storage website](/screenshots/danube-carbon-storage.png)
 
 
+
 ## History
 
+- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-10** — news mention: Danube Carbon Storage joins the Negative Emissions Platform  Danube Carbon Storage has joined the Ne ([source](https://x.com/CaptainDrawdown/status/2053398220026380327))
+- **2026-05-09** — news mention: Danube Carbon Storage joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/danube-carbon-storage-joins-the-negative-emissions-platform))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

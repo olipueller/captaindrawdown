@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.sizewellc.com/" target="_blank" rel="noopener">https://www.sizewellc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sizewellc/" target="_blank" rel="noopener">sizewellc — 75,946 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~1039 (+89% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Sizewell C is a 3.2 GW nuclear power station project in Suffolk being developed by EDF Energy subsidiary NNB Generation Company, with the UK Government holding a major stake following the 2025 Final Investment Decision. Alongside the nuclear build, Sizewell C leads a consortium (Universities of Birmingham and Nottingham, AtkinsRéalis, Altrad/Doosan Babcock, Helical Energy, Strata Technology) that received £3m from the UK Government's Greenhouse Gas Removal competition to build a heat-driven DAC demonstrator at the Port of Lowestoft capable of capturing 100 tonnes CO2/year, with a vision for a future full-scale 1.5 Mt/year plant powered by nuclear heat.
 
 ![Sizewell C/EDF Energy website](/screenshots/sizewell-cedf-energy.png)
+
 
 
 ## History

@@ -27,6 +27,7 @@ Happy Ground is developing a large-scale biochar project in Thailand with a nati
 ![Happy Ground website](/screenshots/happy-ground.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

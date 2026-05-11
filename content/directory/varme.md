@@ -26,6 +26,7 @@ Varme Energy is a Canadian developer (subsidiary of Norway's Varme Energy AS) bu
 ![Varme website](/screenshots/varme.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://esgnews.com/carbon-direct-varme-energy-partner-on-canadas-first-waste-to-energy-with-carbon-capture-project/))

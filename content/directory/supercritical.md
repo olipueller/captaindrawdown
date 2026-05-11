@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.gosupercritical.com/" target="_blank" rel="noopener">https://www.gosupercritical.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gosupercritical/" target="_blank" rel="noopener">gosupercritical — 17,620 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~67</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -28,12 +28,25 @@ Supercritical is a London-based carbon removal marketplace that sources, vets, a
 
 ![Supercritical website](/screenshots/supercritical.png)
 
+
 ## Registry Memberships
 
 - Cdrjobsearth
 
 ## History
 
+- **2026-05-09** — news mention: Boeing Buys 20,000 Tonne Biochar and Enhanced Rock Weathering Carbon Removal Portfolio Through Super ([source](https://x.com/CaptainDrawdown/status/2053123122388234442))
+- **2026-05-09** — news mention: Supercritical Secures Capital to Scale Carbon Removal Project Development – Biochar Today ([source](https://biochartoday.com/news/supercritical-secures-capital-to-scale-carbon-removal-project-development/))
+- **2026-05-09** — news mention: Supercritical Lands Fresh Investment to Accelerate Global Carbon Removal Project Development | Susta ([source](https://www.sustainabletimes.co.uk/post/supercritical-lands-fresh-investment-to-accelerate-global-carbon-removal-project-development))
+- **2026-05-08** — news mention: Supercritical secures funding to expand carbon removal marketplace | BusinessGreen News ([source](https://www.businessgreen.com/news/4529357/supercritical-secures-funding-expand-carbon-removal-marketplace))
+- **2026-05-06** — news mention: Boeing Procures Supercritical Carbon Removal via Six Suppliers in Four Countries | Supercritical ([source](https://gosupercritical.com/resources/press/boeing-supercritical-portfolio))
+- **2026-05-05** — news mention: Boeing Secures 20,000-Ton Carbon Removal Deal via Supercritical ([source](https://serrarigroup.com/boeing-secures-20000-ton-carbon-removal-deal-via-supercritical/))
+- **2026-05-04** — news mention: Boeing Expands Carbon Strategy With Biochar And Enhanced Rock Weathering Deals ([source](https://carbonherald.com/boeing-expands-carbon-strategy-with-biochar-and-enhanced-rock-weathering-deals/?utm_source=rss&utm_medium=rss&utm_campaign=boeing-expands-carbon-strategy-with-biochar-and-enhanced-rock-weathering-deals))
+- **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
+- **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))
+- **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
+- **2026-05-01** — news mention: Boeing Secures 20,000 Tonnes of High-Quality Carbon Removal to Tackle Aviation Emissions - ESG News ([source](https://esgnews.com/boeing-secures-20000-tonnes-of-high-quality-carbon-removal-to-tackle-aviation-emissions/))
+- **2026-05-01** — news mention: Boeing Buys 20,000 Tonne Biochar and Enhanced Rock Weathering Carbon Removal Portfolio Through Super ([source](https://onestopesg.com/esg-news/boeing-supercritical-carbon-removal-portfolio))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

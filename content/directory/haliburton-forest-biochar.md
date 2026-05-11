@@ -24,6 +24,7 @@ Haliburton Forest Biochar (HFB) is a subsidiary of Haliburton Forest & Wild Life
 ![Haliburton Forest Biochar website](/screenshots/haliburton-forest-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

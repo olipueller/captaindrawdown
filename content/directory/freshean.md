@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.freshean.com/" target="_blank" rel="noopener">https://www.freshean.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/freshean-corp/" target="_blank" rel="noopener">freshean-corp — 18 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟡 Moderate"
 Freshean Corp. is a Scottsdale, Arizona nanotechnology startup founded in 2017 by Dr. Xiwang (Michael) Qi, developing a patent-protected solid-sorbent Direct Air Capture technology based on a proprietary "Nano-in-Nano" platform. The company claims order-of-magnitude improvements in CO2 capture efficiency and cost versus incumbent DAC technologies, and was selected into the 2024 Venture For ClimateTech Cohort 4 accelerator. It remains very small (roughly one employee on record) and appears to still be at the R&D/early-pilot stage.
 
 ![Freshean website](/screenshots/freshean.png)
+
 
 
 ## History

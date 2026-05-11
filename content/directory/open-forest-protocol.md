@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.openforestprotocol.org" target="_blank" rel="noopener">https://www.openforestprotocol.org</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/theopenforestprotocol/" target="_blank" rel="noopener">theopenforestprotocol — 10,494 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~28 (+8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Open Forest Protocol (Open Forest AG) is a Swiss-based, blockchain-powered MRV and registry platform for nature-based carbon credits, primarily afforestation and reforestation projects. It does not itself remove CO2; instead it digitizes project registration, coordinates a network of expert validators using satellite, AI and LIDAR data, and issues on-chain credits. The company collaborates with forest projects across roughly 20 countries.
 
 ![Open Forest Protocol website](/screenshots/open-forest-protocol.png)
+
 
 
 ## History

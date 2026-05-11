@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.nellie.tech/" target="_blank" rel="noopener">https://www.nellie.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nellie-tech/" target="_blank" rel="noopener">nellie-tech — 924 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Nellie Technologies is a UK pure-play CDR supplier operating a pilot site at Mwyndy Cross, South Wales, where it grows microalgae in proprietary photobioreactors to capture CO2 from ambient air and point sources, then pyrolyses the biomass into biochar and biogenic aggregates. The company sells Puro.earth CORCs (including a multi-year deal with Zurich Insurance), won the Institute of Physics 2025 Business Start-Up Award, and reports scaling to roughly 200 tCO2/year with a target of 10,000 t by end of FY2025-26.
 
 ![Nellie website](/screenshots/nellie.png)
+
 
 
 ## History

@@ -27,6 +27,7 @@ Carbonaught is a Brisbane, Australia-based agtech startup founded in 2021 that a
 ![Carbonaught website](/screenshots/carbonaught.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

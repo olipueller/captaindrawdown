@@ -26,6 +26,7 @@ Anew Climate is a Houston-based carbon project developer and credit marketer, ma
 ![Anew Climate website](/screenshots/anew-climate.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.rngcoalition.com/news/2024/5/10/anew-climate-summit-carbon-solutions-advance-megaton-co2-removal-project))

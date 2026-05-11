@@ -26,6 +26,7 @@ BCHAR AG was founded in 2023 and is headquartered in Zürich, Switzerland. The c
 ![BCHAR website](/screenshots/bchar.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://pitchbook.com/profiles/company/533180-35))

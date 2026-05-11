@@ -27,6 +27,7 @@ BlueLayer is a Berlin-based software platform providing an end-to-end operating 
 ![BlueLayer website](/screenshots/bluelayer.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.kanop.io/" target="_blank" rel="noopener">https://www.kanop.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kanop/" target="_blank" rel="noopener">kanop — 7,999 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~17 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>7 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Kanop is a Paris-based MRV software company founded in 2021 that uses AI and satellite imagery (optical, radar, LiDAR) to support monitoring, baselining and verification for nature-based carbon projects and corporate supply-chain reporting. It supports major standards including Verra VCS, Gold Standard, BioCarbon Standard, Cercarbono, Isometric, and Equitable Earth, and was recently selected by Isometric as a nature-based service partner. Kanop does not physically remove CO2 itself — it is an MRV enabling-tech provider in the CDR ecosystem.
 
 ![Kanop website](/screenshots/kanop.png)
+
 
 ## Registry Memberships
 

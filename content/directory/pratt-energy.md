@@ -26,6 +26,7 @@ Pratt Energy, LLC operates a corn and milo fuel ethanol plant in Pratt, Kansas. 
 ![Pratt Energy website](/screenshots/pratt-energy.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

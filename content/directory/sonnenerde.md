@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of woody composting residues (sieve residues) into EBC-certified biochar, using a Pyreg-based process and now a new large-scale \"KOHLOSS\" carbonization plant."
 url: "/directory/sonnenerde/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,10 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.sonnenerde.at" target="_blank" rel="noopener">https://www.sonnenerde.at</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sonnenerde/" target="_blank" rel="noopener">sonnenerde — 1,146 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100) <small>— verified active via puro issuance through 2024-03-31</small></td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2024-03-31)</small></td></tr>
 </table>
 
 ## About
@@ -25,12 +26,22 @@ Sonnenerde GmbH is an Austrian composting and soil-production company in Riedlin
 
 ![Sonnenerde website](/screenshots/sonnenerde.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 2 projects · Biochar, 2022 · since 2020-02-01
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
+
 ## Registry Memberships
 
 - Puro.earth
 
 ## History
 
+- **2026-05-11** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))

@@ -27,6 +27,7 @@ Mission Zero Technologies is a UK-based company that develops electrochemical di
 ![Mission Zero website](/screenshots/mission-zero.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))

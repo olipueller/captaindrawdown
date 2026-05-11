@@ -28,6 +28,7 @@ Scaled Carbon is an early-stage US-based marine CDR developer focused on oceanic
 ![Scaled Carbon website](/screenshots/scaled-carbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

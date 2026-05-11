@@ -28,6 +28,7 @@ Cella Mineral Storage is a New York-based carbon mineralization startup operatin
 ![Cella Mineral Storage website](/screenshots/cella-mineral-storage.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.krishecarbon.com/" target="_blank" rel="noopener">https://www.krishecarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/krishe-carbon/" target="_blank" rel="noopener">krishe-carbon — 2,126 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~9 (+140% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Kalp Climate Tech (operating as KriSHE Carbon) is an India-based biochar CDR supplier that trains smallholder and women farmers in Gujarat to convert crop residues like cotton stubble into biochar using low-tech Kon-Tiki kilns. The company channels carbon credit revenue back to rural communities and has run pilots through the SoilBox incubator program, with plans to register credits under a climate standard.
 
 ![Kalp Climate Tech website](/screenshots/kalp-climate-tech.png)
+
 
 
 ## History

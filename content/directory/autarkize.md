@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.autarkize.com" target="_blank" rel="noopener">https://www.autarkize.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/autarkize/" target="_blank" rel="noopener">autarkize — 986 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~22 (+38% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Autarkize is a German climate-tech startup based in Pfronten/Allgäu that develops containerized pyrolysis plants converting biogenic residues (wood waste, digestate, sewage sludge, green waste) into pyrolysis gas and certified biochar. The biochar serves as a permanent CO2 sink eligible for CDR certificates, with plants sized to remove roughly 1,000–5,500 tonnes of CO2 per year.
 
 ![autarkize website](/screenshots/autarkize.png)
+
 
 
 ## History

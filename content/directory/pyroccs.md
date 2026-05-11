@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://pyroccs.com" target="_blank" rel="noopener">https://pyroccs.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyroccs/" target="_blank" rel="noopener">pyroccs — 2,947 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 PyroCCS is a Cologne, Germany-based climate tech startup founded in 2022 that develops biochar carbon removal projects in the Global South, with operational plants in Namibia's Otjiwarongo district and India. The company produces biochar, sells LCA-based carbon credits, and offers plug-and-play pyrolysis systems plus proprietary MRV software to third-party developers.
 
 ![PyroCCS website](/screenshots/pyroccs.png)
+
 
 
 ## History

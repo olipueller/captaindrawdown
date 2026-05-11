@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://towing.co.jp/" target="_blank" rel="noopener">https://towing.co.jp/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/towing-co-ltd/" target="_blank" rel="noopener">towing-co-ltd — 711 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~24 (+41% YoY)</td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 TOWING is a Nagoya University spinout founded in February 2020 that develops and sells Soratan, a high-performance biochar soil conditioner produced from carbonized local biomass and enhanced with microbes. Its Soratan projects are registered under Japan's J-Credit Scheme for biochar application to farmland, and the company has recent partnerships with Suntory (2025 pilot) and J-POWER (2025 investment), plus a global partnership with Biocare.
 
 ![Towing website](/screenshots/towing.png)
+
 
 ## Registry Memberships
 

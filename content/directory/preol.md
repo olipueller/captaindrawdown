@@ -26,6 +26,7 @@ PREOL, a.s. is the largest Czech rapeseed processor and a member of the AGROFERT
 ![Preol website](/screenshots/preol.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))

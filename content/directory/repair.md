@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://www.repair-carbon.com/" target="_blank" rel="noopener">https://www.repair-carbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/repair-carbon/" target="_blank" rel="noopener">repair-carbon — 9,619 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~51 (+34% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -27,8 +27,11 @@ Founded in 2020, RepAir Carbon develops an ultra-efficient electrochemical syste
 ![RepAir website](/screenshots/repair.png)
 
 
+
 ## History
 
+- **2026-05-08** — news mention: War Harms the Environment. Can a Peace Treaty Repair the Damage? ([source](https://insideclimatenews.org/news/04052026/kurdish-fighters-turkey-peace-talks-environmental-impact/))
+- **2026-05-04** — news mention: True to a certain extent for now, but the framing matters.  Wind and solar cut emissions.  DAC remov ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzuh52v7323))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-20** — news mention: The Living Climate - Sierra Club Canada ([source](https://www.sierraclub.ca/living-climate-lynn-jones-ole-hendrickson/?utm_source=rss&utm_medium=rss&utm_campaign=living-climate-lynn-jones-ole-hendrickson))

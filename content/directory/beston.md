@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.bestongroup.com/" target="_blank" rel="noopener">https://www.bestongroup.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/" target="_blank" rel="noopener">beston-henan-machinery-co-ltd- — 35,299 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~750 (+12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Beston Group is a Chinese pyrolysis equipment manufacturer based in Zhengzhou/Jiaozuo, Henan, operating as the environmental protection division of Henan Golee Group. Its product range spans pyrolysis plants for plastic, tyres, oil sludge, rubber, and biomass-to-biochar, with the biochar line marketed to CDR project operators after receiving Puro.earth technology vetting and, in February 2026, pre-approval from Isometric. They supply BST-series biochar reactors to projects including Euthenia Energy in Spain and a North American almond-shell project.
 
 ![Beston website](/screenshots/beston.png)
+
 
 
 ## History

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.aspiradac.com/" target="_blank" rel="noopener">https://www.aspiradac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspiradac/" target="_blank" rel="noopener">aspiradac — 418 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Australia's first modular, solar-powered Direct Air Capture project using MOF-based solid sorbents, in partnership with Southern Green Gas. It was selected in Frontier's first 2022 prepurchase round (Stripe offtake) and continues to advance toward commercialization, appointing a new CTO in late 2025.
 
 ![AspiraDAC/Corporate Carbon website](/screenshots/aspiradaccorporate-carbon.png)
+
 
 
 ## History

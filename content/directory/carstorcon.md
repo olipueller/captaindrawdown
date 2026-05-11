@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carstorcon.technology/en/" target="_blank" rel="noopener">https://carstorcon.technology/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carstorcon-technologies/" target="_blank" rel="noopener">carstorcon-technologies — 964 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 CarStorCon Technologies is a company founded in 2022 in Marienhafe, Germany. CarStorCon stands for Carbon Storage Concrete - the permanent storage of technical carbon in concrete applications. The Clim@Add technology from CarStorCon makes building materials climate-positive and reduces the carbon footprint of concrete and asphalt. The company classifies its approach as Biochar Carbon Removal (BCR) and uses biochar from regional biogenic waste streams as an additive in concrete and asphalt.
 
 ![CarStorCon website](/screenshots/carstorcon.png)
+
 
 
 ## History

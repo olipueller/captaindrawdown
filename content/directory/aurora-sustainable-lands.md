@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://aurorasustainablelands.com" target="_blank" rel="noopener">https://aurorasustainablelands.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aurora-sustainable-lands/" target="_blank" rel="noopener">aurora-sustainable-lands — 4,028 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~32 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Aurora Sustainable Lands (formerly Bluesource Sustainable Forests Company) is a US-based carbon-stewardship company and forest landowner that owns and manages roughly 1.65–1.7 million acres of formerly industrial American forestland across 17 states, converting them from timber harvesting to carbon-first Improved Forest Management. It is a joint venture between Anew Climate and an equity consortium led by Oak Hill Advisors (with AB CarVal, EIG, and GenZero). Carbon credits from Aurora's projects are exclusively marketed by Anew Climate and issued under standards such as ACR's IFM 2.1 methodology.
 
 ![Aurora Sustainable Lands website](/screenshots/aurora-sustainable-lands.png)
+
 
 
 ## History

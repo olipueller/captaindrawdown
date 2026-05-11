@@ -28,6 +28,7 @@ Regeniam is a US-based private advisory and asset management firm focused on nat
 ![Regeniam website](/screenshots/regeniam.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

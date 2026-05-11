@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.motehydrogen.com/" target="_blank" rel="noopener">https://www.motehydrogen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/motehydrogen/" target="_blank" rel="noopener">motehydrogen — 2,490 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~9</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Mote is a Los Angeles-based BECCS/BiCRS startup spun out of Lawrence Livermore National Laboratory that gasifies woody waste into carbon-negative hydrogen while geologically sequestering CO2. Its flagship Bakersfield facility completed a FEL-2 study and received a DOE LPO Title 17 Part II invitation, with a second plant planned with SMUD in Sacramento. In March 2025 Mote closed the first $7M tranche of a targeted $15M Series A led by Nella Next and Preston-Werner Ventures.
 
 ![Mote website](/screenshots/mote.png)
+
 
 ## Registry Memberships
 

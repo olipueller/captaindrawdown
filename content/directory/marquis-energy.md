@@ -26,6 +26,7 @@ Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, 
 ![Marquis Energy website](/screenshots/marquis-energy.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://marquisinc.com/carbon-and-sustainability/))

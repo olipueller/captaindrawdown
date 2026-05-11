@@ -27,6 +27,7 @@ Exterra Technologies (formerly Exterra Carbon Solutions, rebranded February 2026
 ![Exterra website](/screenshots/exterra.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))

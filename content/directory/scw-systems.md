@@ -28,6 +28,7 @@ SCW Systems is a Dutch energy-services company in Alkmaar that operates an indus
 ![SCW Systems website](/screenshots/scw-systems.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))

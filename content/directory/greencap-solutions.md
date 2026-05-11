@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://greencap-solutions.com/" target="_blank" rel="noopener">https://greencap-solutions.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greencap-solutions-as/" target="_blank" rel="noopener">greencap-solutions-as — 3,144 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+18% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 GreenCap Solutions AS is a Norwegian environmental technology company developing zeolite-based solid-sorbent Direct Air Capture (DAC) technology for both atmospheric removal and low-concentration point-source capture. Founded in 2016 and headquartered in Sandnes, it is the technology partner to Removr (the JV scaling DAC to industrial size) and in 2025 launched a demonstration project with Hydro Aluminium to capture CO₂ from aluminium smelter flue gases.
 
 ![GreenCap Solutions website](/screenshots/greencap-solutions.png)
+
 
 ## Registry Memberships
 

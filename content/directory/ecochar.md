@@ -27,6 +27,7 @@ EcoChar is a France-based company that develops projects in agroforestry and reg
 ![EcoChar website](/screenshots/ecochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

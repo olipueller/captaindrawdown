@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://oceanvisions.org/" target="_blank" rel="noopener">https://oceanvisions.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-visions/" target="_blank" rel="noopener">ocean-visions — 16,333 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~26 (+13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -27,8 +27,23 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 ![Ocean website](/screenshots/ocean.png)
 
 
+
 ## History
 
+- **2026-05-11** — news mention: 🧵 A $50M ocean startup raised serious money, built real technology, and delivered on every contract  ([source](https://x.com/MickH_W/status/2053804970387075432))
+- **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
+- **2026-05-11** — news mention: Take: The Future of Marine CDR: Scaling Ocean Alkalinity Enhancement with Planetary ([source](https://captaindrawdown.com/posts/yt-take-the-future-of-marine-cdr-scaling-ocean-alkalinity-enhancemen-qpq2v2hr/))
+- **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that DACCS ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
+- **2026-05-11** — news mention: @BiocharToday I keep returning to this: governance doesn't start with laws, but with practical conve ([source](https://x.com/makinggovq/status/2053709149851005090))
+- **2026-05-09** — news mention: @geoengineering1 The ocean doesn't respect continental nodes. Without binding MRV coordination, regi ([source](https://x.com/makinggovq/status/2052885019488616617))
+- **2026-05-08** — news mention: New life cycle assessment compared direct air capture (#DAC) systems powered by solar PV, parabolic  ([source](https://x.com/geoengineering1/status/2052780303715111399))
+- **2026-05-08** — news mention: The ocean is fighting climate change and we’re trying to help it – here’s how ([source](https://theconversation.com/the-ocean-is-fighting-climate-change-and-were-trying-to-help-it-heres-how-271554))
+- **2026-05-08** — news mention: NGOs Release New Recommendations for Marine Carbon Dioxide Removal Field Experiments - Ocean Conserv ([source](https://oceanconservancy.org/newsroom/press-release/2026/05/07/new-recommendations-for-marine-carbon-dioxide-removal/))
+- **2026-05-08** — news mention: Offshore wind firm that took Trump payout hits a milestone in Europe ([source](https://www.canarymedia.com/articles/offshore-wind/ocean-winds-trump-deal-europe-floating-turbines))
+- **2026-05-06** — news mention: A framework for understanding efficiency losses of Ocean Alkalinity Enhancement – CDRXIV ([source](https://cdrxiv.org/preprint/517))
+- **2026-05-05** — news mention: Okay, I see.  Yeah, assuming that ocean can absorb half of the CO2 that is emitted this year in abou ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml2ycxrhf323))
+- **2026-05-04** — news mention: Captura Wins Supplier Deal For eSAF Plant In France Using Ocean-Captured CO2 ([source](https://carbonherald.com/captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2/?utm_source=rss&utm_medium=rss&utm_campaign=captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2))
+- **2026-05-04** — news mention: Marine CDR verification is the bottleneck right now. Ocean systems are open, dynamic, and signals ge ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkzc3lzm3o2z))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
@@ -45,17 +60,6 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 - **2026-04-23** — news mention: High frequency in situ total alkalinity measurement for monitoring ocean alkalinity enhancement fiel ([source](https://www.nature.com/articles/s44172-026-00665-w))
 - **2026-04-23** — news mention: High-Frequency Alkalinity Monitoring in Ocean Enhancement Trials ([source](https://bioengineer.org/high-frequency-alkalinity-monitoring-in-ocean-enhancement-trials/))
 - **2026-04-22** — news mention: AI just revealed ocean currents we’ve never been able to see ([source](http://www.sciencedaily.com/releases/2026/04/260421042803.htm))
-- **2026-04-19** — news mention: Singapore launches $60m marine research centre ([source](https://www.straitstimes.com/singapore/environment/singapore-launches-60m-marine-research-centre-to-steer-conservation-and-policy))
-- **2026-04-19** — merged 1 duplicate(s): Ocean Visions
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=? focus=ecosystem liveliness=🟢 Active ([source](https://oceanvisions.org/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.oceanvisions.org/ ([source](https://www.cdr.fyi/marketplace/ocean-visions))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/ocean-visions))
-- **** — merged duplicate: Ocean Visions (slug=ocean-visions)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=? focus=ecosystem liveliness=🟢 Active ([source](https://oceanvisions.org/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=ecosystem liveliness=🟢 Active ([source](https://oceanvisions.org/))
-- **2026-04-18** — discovered via: brave ([source](https://oceanvisions.org/ocean-based-carbon-dioxide-removal/))
 
 ---
 

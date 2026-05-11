@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://global-woods-international.com/" target="_blank" rel="noopener">https://global-woods-international.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/global-woods-international-ag/" target="_blank" rel="noopener">global-woods-international-ag — 967 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+57% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 global-woods international AG is a German project developer that develops afforestation/reforestation and biochar carbon removal projects in Latin America (Paraguay, Argentina) and East Africa (Uganda). In May 2025 TÜV Rheinland verified their Forestal Río Aquidabán project in Paraguay, which issued ~200,000 emission removal units on the International Carbon Registry, and the company is expanding into biochar CDR in Uganda with a facility planned to launch in 2026.
 
 ![Global Woods International website](/screenshots/global-woods-international.png)
+
 
 
 ## History

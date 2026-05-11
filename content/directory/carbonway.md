@@ -28,6 +28,7 @@ Carbonway is a France-based CDR project developer focused on mineralizing biogen
 ![Carbonway website](/screenshots/carbonway.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

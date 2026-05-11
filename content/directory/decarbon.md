@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.decarbon.tech/" target="_blank" rel="noopener">https://www.decarbon.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbontek/" target="_blank" rel="noopener">decarbontek — 1,218 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Decarbontek, Inc. is a Massachusetts-based climate tech startup founded by Dr. Yong Ding that develops solid fiber adsorbents (including a proprietary MOF, DCF-1) and a patent-pending computerized fiber-winding platform for building modular structured CO2 capture modules. Its technology targets both point-source carbon capture and direct air capture applications, selling sorbent materials and capture hardware to industrial customers.
 
 ![Decarbon website](/screenshots/decarbon.png)
+
 
 
 ## History

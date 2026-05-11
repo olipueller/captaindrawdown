@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.neustark.com" target="_blank" rel="noopener">https://www.neustark.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neustark/" target="_blank" rel="noopener">neustark — 29,335 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~62 (-30% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Neustark is a Swiss climate-tech company founded in 2019 (ETH Zurich spin-off), headquartered in Bern, that permanently stores biogenic CO2 in demolished concrete and other mineral waste through accelerated mineralization. As of 2025 it operates roughly 38 capture-and-storage sites across seven European countries and has raised ~$71M, with a Puro.earth certification partnership beginning issuance in 2026.
 
 ![Neustark website](/screenshots/neustark.png)
+
 
 ## Registry Memberships
 

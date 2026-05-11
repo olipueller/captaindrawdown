@@ -27,6 +27,7 @@ Liferaft is a U.S.-headquartered biochar company focused on durable carbon captu
 ![Liferaft website](/screenshots/liferaft.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

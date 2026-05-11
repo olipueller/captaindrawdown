@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://marble.studio/" target="_blank" rel="noopener">https://marble.studio/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/marble-climate/" target="_blank" rel="noopener">marble-climate — 20,775 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~34 (+53% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Marble is a Paris-based climate-tech venture studio founded in 2021 by Benjamin Tincq and Jonny Everett. It partners with scientists and engineers as Founders-in-Residence to create deeptech startups across CDR pathways (DAC, ocean carbon removal, biotech CDR, geochemical/mineralization) and other climate areas, providing pre-seed funding (~€250k) and support. It is a venture builder/investor in the CDR ecosystem, not a CO2-removal operator itself.
 
 ![Marble website](/screenshots/marble.png)
+
 
 
 ## History

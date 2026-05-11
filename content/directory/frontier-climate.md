@@ -26,8 +26,10 @@ Frontier Climate is an advance market commitment (AMC) that aggregates buyer dem
 ![Frontier Climate website](/screenshots/frontier-climate.png)
 
 
+
 ## History
 
+- **2026-05-01** — news mention: Deep Sky Announces Partnership to Advance Direct Air Capture with ENGIE – Weekly Voice ([source](https://weeklyvoice.com/deep-sky-announces-partnership-to-advance-direct-air-capture-with-engie/))
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — news mention: Deep Sky Announces Partnership to Advance Direct Air Capture with ENGIE ([source](https://www.prnewswire.com/news-releases/deep-sky-announces-partnership-to-advance-direct-air-capture-with-engie-302757436.html))

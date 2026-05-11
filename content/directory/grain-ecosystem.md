@@ -27,6 +27,7 @@ Grain Ecosystem was a Boston-based digital platform (founded 2022) that provided
 ![Grain Ecosystem website](/screenshots/grain-ecosystem.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

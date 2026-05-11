@@ -28,6 +28,7 @@ PYREG GmbH is a German cleantech company founded in 2009 as a TH Bingen Universi
 ![Pyreg website](/screenshots/pyreg.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

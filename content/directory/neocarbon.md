@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.neocarbon.tech/" target="_blank" rel="noopener">https://www.neocarbon.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neocarbon-tech/" target="_blank" rel="noopener">neocarbon-tech — 11,906 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~16 (-27% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 NeoCarbon GmbH is a Berlin-based DAC startup founded in 2022 by René Haas and Silvain Toromanoff, developing modular solid-sorbent Direct Air Capture reactors that retrofit onto cooling towers and industrial waste-heat sources. The company operates a sorbent chemistry lab, has deployed pilot modules, and was selected in 2025 for German federal BIK funding for its ANEWDACUS hollow-fibre DAC project with permanent storage via concrete carbonation.
 
 ![NeoCarbon website](/screenshots/neocarbon.png)
+
 
 ## Registry Memberships
 

@@ -28,6 +28,7 @@ Carbon Streaming Corporation is a publicly traded (NETZ/OFSTF) carbon credit str
 ![Carbon Streaming website](/screenshots/carbon-streaming.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

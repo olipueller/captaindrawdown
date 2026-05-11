@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.vy-carb.com/" target="_blank" rel="noopener">https://www.vy-carb.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 Vycarb is a Brooklyn-based ocean alkalinity enhancement startup founded in 2022 by Dr. Garrett Boudinot. Its system combines a CO2 neutralization process that reacts CO2 with water and alkaline minerals to form stable bicarbonate with a proprietary real-time sensor that autonomously measures the inorganic carbon system, enabling precise verification of removal. In October 2025 the company closed a $5M seed round led by Twynam with participation from MOL Switch, Hatch Blue, Clocktower Ventures, Idemitsu, and SGInnovate, bringing total funding to $5.15M.
 
 ![Vycarb website](/screenshots/vycarb.png)
+
 
 
 ## History

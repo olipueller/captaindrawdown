@@ -18,6 +18,7 @@ liveliness: "🟢 Active"
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~104</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -25,6 +26,15 @@ liveliness: "🟢 Active"
 Bigadan A/S is a Skanderborg-based Danish biogas developer and operator, majority-owned by Arjun Infrastructure Partners, that owns nine operational biogas facilities producing around 1.3 TWh of renewable energy annually. Through its Bioman subsidiary, it won a 2024 Danish NECCS tender to capture and permanently store 25,000 tonnes/year of biogenic CO2 from its Kalundborg Bioenergi plant, with injection via INEOS's Project Greensand expected to begin in 2026. Biogas/biomethane production is the core business; BECCS is an adjacent add-on enabled by building a cryogenic CO2 liquefaction unit onto existing biogas upgrading.
 
 ![Bigadan A/S website](/screenshots/bigadan-as.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Unknown &nbsp;[↗](https://to.isometric.com/prj_1KJQ2NM0R1S09256)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

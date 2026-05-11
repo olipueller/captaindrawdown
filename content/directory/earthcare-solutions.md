@@ -25,6 +25,7 @@ Earthcare Solutions is a U.S. biochar producer that deploys patented gasificatio
 
 ![Earthcare Solutions website](/screenshots/earthcare-solutions.png)
 
+
 ## Registry Memberships
 
 - Puro.earth

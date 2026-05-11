@@ -27,6 +27,7 @@ Provocative (Provocative Science Holdings) is a Boston-based startup founded in 
 ![Provocative Science Holdings website](/screenshots/provocative-science-holdings.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

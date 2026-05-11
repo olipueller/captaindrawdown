@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://groundworkbioag.com/" target="_blank" rel="noopener">https://groundworkbioag.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groundwork-bioagriculture/" target="_blank" rel="noopener">groundwork-bioagriculture — 8,293 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~53 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Groundwork BioAg is an Israeli bioagriculture company headquartered in Mazor that produces Rootella mycorrhizal fungi inoculants for commercial agriculture, sold across 3.7 million acres in 23 markets. Its Rootella Carbon program layers a soil-carbon CDR offering on top of the core inoculant business, generating Verra VM0042 v2.0 credits validated/verified by SCS Global, with a September 2025 Anew Climate partnership to commercialize 500,000 tCO2e of credits over three years.
 
 ![Groundwork BioAg website](/screenshots/groundwork-bioag.png)
+
 
 
 ## History

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://boomitra.com/" target="_blank" rel="noopener">https://boomitra.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/conserwater/" target="_blank" rel="noopener">conserwater — 20,496 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~125</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Boomitra is a US-headquartered carbon removal project developer working with farmers and ranchers across Latin America, Africa and Asia on soil carbon and grassland restoration, pioneering Verra-approved remote-sensing/AI MRV for soil organic carbon. The company won the 2023 Earthshot Prize and in 2025 issued a record 3.03 million Verra VM0042 soil-carbon removal credits from its Northern Mexico Grassland Restoration Project, while also expanding into biomass carbon removal and storage (BiCRS) via its Oasis project in Botswana.
 
 ![Boomitra website](/screenshots/boomitra.png)
+
 
 ## Registry Memberships
 

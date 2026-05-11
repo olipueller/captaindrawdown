@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://actanol-energie.de/" target="_blank" rel="noopener">https://actanol-energie.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/actanol-energie-gmbh/" target="_blank" rel="noopener">actanol-energie-gmbh — 101 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+75% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 ACTANOL Energie GmbH (Kempten, Germany) was founded in 2024 as a dedicated renewable-energy arm of the ACTANOL Group to plan, finance and operate pyrolysis plants using Carbo-FORCE technology. The company produces heat, electricity, biochar and CO2 removal certificates from biomass pyrolysis, and is a member of the German Biochar association.
 
 ![Actanol Energie website](/screenshots/actanol-energie.png)
+
 
 
 ## History

@@ -28,6 +28,7 @@ EcoGaia is an Argentina-based sustainability consultancy and carbon project deve
 ![EcoGaia website](/screenshots/ecogaia.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

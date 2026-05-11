@@ -28,6 +28,7 @@ Carbon Char Store (CCS) is the UK-based carbon-removals sales and marketing arm 
 ![Carbon Char Store website](/screenshots/carbon-char-store.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

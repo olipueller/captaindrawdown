@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://ecologi.com/" target="_blank" rel="noopener">https://ecologi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/offset-earth/" target="_blank" rel="noopener">offset-earth — 56,836 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~109 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Ecologi Action Ltd (trading as Ecologi) is a UK-based all-in-one climate action platform and carbon credit marketplace for businesses, founded in 2019 and headquartered in Bristol/London. It resells a portfolio of verified carbon avoidance, reforestation, habitat restoration, and removal credits (including biochar and enhanced weathering projects) to 20,000+ business customers. It is a marketplace/broker rather than a physical CDR supplier.
 
 ![Ecologi Action Ltd website](/screenshots/ecologi-action-ltd.png)
+
 
 
 ## History

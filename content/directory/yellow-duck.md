@@ -5,7 +5,7 @@ type: "directory"
 description: "Wave-powered floating device that tilts with ocean waves to generate electricity, driving DAC sorbent capture of atmospheric CO2 alongside hydrogen production via seawater electrolysis."
 url: "/directory/yellow-duck/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://wave-dac.com/" target="_blank" rel="noopener">https://wave-dac.com/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -26,8 +26,10 @@ Yellow Duck Inc. is a Kobe, Japan startup led by CEO Shigeo Nakayama developing 
 ![Yellow Duck website](/screenshots/yellow-duck.png)
 
 
+
 ## History
 
+- **2026-05-11** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://wave-dac.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://wave-dac.com/))

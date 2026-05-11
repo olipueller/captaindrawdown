@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.bioenergie-frauenfeld.ch/" target="_blank" rel="noopener">https://www.bioenergie-frauenfeld.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioenergie-frauenfeld/" target="_blank" rel="noopener">bioenergie-frauenfeld — 956 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~350 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -27,8 +27,10 @@ Bioenergie Frauenfeld AG is a Swiss wood CHP plant operator jointly owned by Ene
 ![Bioenergie Frauenfeld website](/screenshots/bioenergie-frauenfeld.png)
 
 
+
 ## History
 
+- **2026-05-06** — news mention: #climateweekzurich #bioenergie #carbonremoval #cdr #klimapositiveenergie #resilienteenergieversorgun ([source](https://www.linkedin.com/feed/update/urn:li:share:7457433884553576448/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.syncraft.at/en/references/frauenfeld/))

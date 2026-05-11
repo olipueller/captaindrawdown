@@ -27,6 +27,7 @@ CDRjobs is a dedicated jobs board and industry-insights platform for the carbon 
 ![CDRjobs website](/screenshots/cdrjobs.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

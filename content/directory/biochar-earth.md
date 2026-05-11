@@ -26,6 +26,7 @@ Biochar Earth is a biochar carbon removal (BCR) supplier focused on converting c
 ![Biochar Earth website](/screenshots/biochar-earth.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

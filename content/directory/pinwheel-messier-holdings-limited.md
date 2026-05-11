@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.pinwheel.earth/" target="_blank" rel="noopener">https://www.pinwheel.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pinwheelworld/" target="_blank" rel="noopener">pinwheelworld — 1,772 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~23 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Pinwheel (trading name of Messier Holdings Limited) is a UK-based climate engagement platform that curates and brokers carbon removal and biodiversity projects for corporate clients, allowing employees and customers to vote on which projects receive funding. The company identifies, validates and verifies CDR projects (e.g. biochar, mineralization, biomass burial via InterEarth) and sources buyers, rather than operating any physical removal itself.
 
 ![Pinwheel (Messier Holdings Limited) website](/screenshots/pinwheel-messier-holdings-limited.png)
+
 
 
 ## History

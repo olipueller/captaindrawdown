@@ -26,6 +26,7 @@ Evero Energy (formerly Bioenergy Infrastructure Group) is a UK waste-wood-to-ene
 ![Evero Energy website](/screenshots/evero-energy.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))

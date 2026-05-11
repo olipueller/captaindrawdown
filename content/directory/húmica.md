@@ -27,6 +27,7 @@ Húmica is a Mexican soil-biotechnology startup founded in 2020 that works with 
 ![Húmica website](/screenshots/húmica.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

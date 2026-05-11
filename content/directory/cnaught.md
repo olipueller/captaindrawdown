@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cnaught.com/" target="_blank" rel="noopener">https://www.cnaught.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cnaught/" target="_blank" rel="noopener">cnaught — 2,484 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~12 (+9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 CNaught is a US-based carbon credit marketplace and portfolio provider that curates diversified bundles of high-integrity carbon credits (including both avoided emissions and engineered carbon removal) for small and mid-sized business buyers. It does not operate removal projects itself but resells credits from suppliers such as Charm Industrial, Heirloom, CarbonCapture and Lithos, and provides diligence, reporting and API tools.
 
 ![Cnaught website](/screenshots/cnaught.png)
+
 
 
 ## History

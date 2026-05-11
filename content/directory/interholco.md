@@ -14,9 +14,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.interholco.com/en/" target="_blank" rel="noopener">https://www.interholco.com/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/interholco-ag/" target="_blank" rel="noopener">interholco-ag — 6,640 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3000 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -24,6 +25,15 @@ liveliness: "🟢 Active"
 Interholco AG is a Swiss timber company (founded 1962) headquartered in Baar that supplies African, European and North American hardwood to B2B customers in over 40 countries. Through its IFO subsidiary it manages 1.16 million hectares of FSC-certified natural rainforest in the Republic of Congo, and as a side activity converts sawmill biomass residues into biochar for soil application, with production scaling toward ~30,000 tCO2eq/year. Timber remains the core business; CDR is adjacent.
 
 ![Interholco website](/screenshots/interholco.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar &nbsp;[↗](https://to.isometric.com/prj_1JVC6T3VR1S0AJ5P)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

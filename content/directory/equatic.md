@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.equatic.tech/" target="_blank" rel="noopener">https://www.equatic.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equatic-tech/" target="_blank" rel="noopener">equatic-tech — 4,689 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+30% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 Equatic is a carbon removal company combining carbon dioxide removal and green hydrogen production, using patented seawater electrolysis and a direct air capture process to activate and amplify the ocean's ability to store carbon. The UCLA spin-out operates pilot plants in Los Angeles and Singapore and is expanding with a demonstration plant in Singapore (Equatic-1) and a commercial-scale plant in Canada.
 
 ![Equatic website](/screenshots/equatic.png)
+
 
 ## Registry Memberships
 

@@ -25,6 +25,7 @@ Origin Biochar is a biochar product brand of R&S Biomass Equipment Ltd, a Northe
 ![Origin Biochar website](/screenshots/origin-biochar.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

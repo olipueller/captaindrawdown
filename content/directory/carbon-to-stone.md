@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbontostone.com/" target="_blank" rel="noopener">https://carbontostone.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-to-stone/" target="_blank" rel="noopener">carbon-to-stone — 1,091 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Carbon To Stone (CTS) is a Cornell University spinout in Ithaca, New York, commercializing a reactive crystallization process that couples CO2 capture (from air or point sources) with mineralization using alkaline industrial residues such as steel slag, aluminum dross, and mine tailings. The process produces solid carbonates for construction while recovering energy-critical metals, and targets the iron/steel and aluminum industries for its first pilots.
 
 ![Carbon To Stone website](/screenshots/carbon-to-stone.png)
+
 
 
 ## History

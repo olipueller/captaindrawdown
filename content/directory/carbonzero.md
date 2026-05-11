@@ -14,9 +14,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbonzero.eco/" target="_blank" rel="noopener">https://carbonzero.eco/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonzero-eco/" target="_blank" rel="noopener">carbonzero-eco — 131 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -24,6 +25,15 @@ liveliness: "🟢 Active"
 CarbonZero.Eco is a Silicon Valley-based, venture-backed biochar startup founded in 2024 by Harper Moss that pyrolyzes almond-shell agricultural waste from Colusa and Yolo County farms into biochar for soil amendment and durable carbon storage. In December 2025 it completed its first commercial biochar plant in Colusa County, California, and signed a carbon removal credit purchase agreement with Climeworks.
 
 ![CarbonZero website](/screenshots/carbonzero.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar &nbsp;[↗](https://to.isometric.com/prj_1K48633C61S0WY58)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

@@ -28,6 +28,7 @@ Brilliant Planet was a London-headquartered startup (founded 2013) that grew mar
 ![Brilliant Planet | Inactive website](/screenshots/brilliant-planet-inactive.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

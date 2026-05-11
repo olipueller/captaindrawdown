@@ -24,6 +24,7 @@ Waterberg Carbon Co is a small South African biochar venture that produces bioch
 ![Waterberg Carbon Co website](/screenshots/waterberg-carbon-co.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

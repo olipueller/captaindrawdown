@@ -27,6 +27,7 @@ Emergent Waste Solutions (EWS) is a British Columbia–based private company tha
 ![Emergent Waste Solution website](/screenshots/emergent-waste-solution.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

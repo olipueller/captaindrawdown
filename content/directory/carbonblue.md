@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://carbonblue.cc/" target="_blank" rel="noopener">https://carbonblue.cc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonblue-cc/" target="_blank" rel="noopener">carbonblue-cc — 3,628 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~18 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 CarbonBlue is an Israeli climate-tech startup founded in 2022 by Dr. Dan Deviri and Iddo Tsur that develops water-based CO2 removal hardware integrated into industrial water streams such as desalination plants. In mid-2025 it launched 'Midway,' a pilot at the Ma'agan Michael brackish-water desalination facility projected to scale from 40 to 400 tons CO2/yr. The company raised a $10M seed round in 2024.
 
 ![CarbonBlue website](/screenshots/carbonblue.png)
+
 
 
 ## History

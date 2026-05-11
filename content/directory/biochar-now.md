@@ -26,6 +26,7 @@ Biochar Now is a Berthoud, Colorado biochar producer founded in 2011 that conver
 ![Biochar Now website](/screenshots/biochar-now.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))

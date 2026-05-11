@@ -28,6 +28,7 @@ Pyrogreen Energy is the biochar brand of Wuxi Powermax Renewable Energy Technolo
 ![Pyrogreen website](/screenshots/pyrogreen.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

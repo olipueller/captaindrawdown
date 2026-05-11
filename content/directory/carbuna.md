@@ -26,6 +26,7 @@ Carbuna AG is a Memmingen, Germany-based biochar processing and trading company 
 ![Carbuna website](/screenshots/carbuna.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.compensate.com/projects/carbuna-biochar/))

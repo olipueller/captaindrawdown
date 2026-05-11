@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://wakefieldbiochar.com/" target="_blank" rel="noopener">https://wakefieldbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wakefieldbiochar/" target="_blank" rel="noopener">wakefieldbiochar — 1,629 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~23 (+44% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Wakefield BioChar (Wakefield Agricultural Carbon LLC) is a US family-owned biochar producer founded in 2014 by twin brothers Tony and Tom Marrero, headquartered in Valdosta, Georgia. The company converts low-value woody biomass into biochar soil conditioners sold via retail and agricultural channels, and participates in carbon-removal credit markets via Puro.earth. It ranked #169 on the Inc. 5000 list in 2024 and secured additional funding in 2025.
 
 ![Wakefield BioChar website](/screenshots/wakefield-biochar.png)
+
 
 ## Registry Memberships
 

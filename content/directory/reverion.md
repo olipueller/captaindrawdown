@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://reverion.com/en/" target="_blank" rel="noopener">https://reverion.com/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reverion/" target="_blank" rel="noopener">reverion — 10,154 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~149 (+39% YoY)</td></tr>
   <tr><th>Open roles</th><td>21 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Reverion is a 2022 spin-off from the Technical University of Munich that has created a system that generates clean electricity and captures carbon from biogas at the same time. Its solid oxide fuel cell system receives methane and CO2 biogas from farmers' anaerobic digesters and converts the methane into electricity, with the pure CO2 stream byproduct liquefied and transported for permanent storage in geological formations. In November 2025, Reverion signed an offtake agreement with Frontier for 96,000 tonnes of CDR in a deal worth $41 million, with tonnes to be removed between 2027 and 2030.
 
 ![Reverion website](/screenshots/reverion.png)
+
 
 ## Registry Memberships
 

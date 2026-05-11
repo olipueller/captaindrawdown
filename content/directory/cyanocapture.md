@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://cyanocapture.com/" target="_blank" rel="noopener">https://cyanocapture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cyanocapture/" target="_blank" rel="noopener">cyanocapture — 6,425 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~17 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -27,6 +27,7 @@ liveliness: "🟢 Active"
 CyanoCapture is a UK biotech founded in January 2021 by David Kim and Samir Chitnavis, spun out of the University of Oxford, that uses genetically modified cyanobacteria for industrial-scale carbon capture. The company buries excess biomass and bioproduct deep underground in approved geological facilities and also pursues bioprecipitation of calcium carbonates for sustainable mineral manufacturing, targeting carbon-negative fillers for construction, alongside CO2-to-insulin and CO2-to-graphite biomanufacturing pathways.
 
 ![CyanoCapture website](/screenshots/cyanocapture.png)
+
 
 ## Registry Memberships
 

@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops modular MOF-sorbent direct air capture units optimized for high-altitude Alpine conditions (cold, dry, low-pressure, high solar), with CO2 intended for permanent storage/mineralization."
 url: "/directory/alpine-x/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://alpinex.tech/" target="_blank" rel="noopener">https://alpinex.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon15/" target="_blank" rel="noopener">carbon15 — 241 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,8 +28,10 @@ Alpine X is a French deeptech startup based in Val d'Isère developing high-alti
 ![Alpine X website](/screenshots/alpine-x.png)
 
 
+
 ## History
 
+- **2026-05-11** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://carbonherald.com/remove-announces-the-new-cdr-startups-to-join-its-european-accelerator-program/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/remove-announces-the-new-cdr-startups-to-join-its-european-accelerator-program/))

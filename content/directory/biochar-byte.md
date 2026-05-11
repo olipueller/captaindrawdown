@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes agricultural crop residues collected from smallholder farmers into biochar for soil application, displacing open-field burning."
 url: "/directory/biochar-byte/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://biocharbyte.com/" target="_blank" rel="noopener">https://biocharbyte.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-byte-agtech-pvt-ltd/" target="_blank" rel="noopener">biochar-byte-agtech-pvt-ltd — 309 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,8 +26,10 @@ Biochar Byte AgTech Pvt Ltd is an early-stage Pune-based Indian startup incorpor
 ![Biochar Byte website](/screenshots/biochar-byte.png)
 
 
+
 ## History
 
+- **2026-05-11** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://tracxn.com/d/companies/biochar-byte/__oGsOjgGJIIi-WRbeNbFFekm8Hs7wmYdLOM02gKb7fAs))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biocharbyte.com/))

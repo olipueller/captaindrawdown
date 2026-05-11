@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://cquesta.com/" target="_blank" rel="noopener">https://cquesta.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cquesta/" target="_blank" rel="noopener">cquesta — 899 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+9% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Cquesta is a US-based agricultural biotech spun out of the Salk Institute's Harnessing Plants Initiative that leverages gene editing to generate carbon credits for farmers, having closed a $5 million seed round (led by Hess Corporation) to develop deep-rooted crops for carbon sequestration and drought tolerance. Target crops include soybean, canola, sorghum, corn, and rice, with plans to scale in North and South America. The company aims to achieve commercialized carbon removal at the gigaton scale.
 
 ![Cquesta website](/screenshots/cquesta.png)
+
 
 ## Registry Memberships
 

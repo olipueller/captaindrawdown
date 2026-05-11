@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.gevernova.com/gas-power/future-of-energy/direct-air-capture" target="_blank" rel="noopener">https://www.gevernova.com/gas-power/future-of-energy/direct-air-capture</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟢 Active"
 GE Vernova Inc. (NYSE: GEV) is a global energy technology company headquartered in Cambridge, Massachusetts, spun off from General Electric in 2024, with main businesses in Power, Wind, and Electrification. Its Direct Air Capture program, developed at Advanced Research Centers in Niskayuna, NY and Bengaluru, India, is an R&D initiative within Gas Power building a proprietary solid sorbent DAC system, with a 10-ton/year test facility commissioned in 2025 and a 1,500-ton/year deployment planned at Deep Sky Alpha in Alberta by late 2026.
 
 ![GE Vernova website](/screenshots/ge-vernova.png)
+
 
 ## Registry Memberships
 

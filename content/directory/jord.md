@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.jord.one/" target="_blank" rel="noopener">https://www.jord.one/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/jordab/" target="_blank" rel="noopener">jordab — 1,009 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Jord AB (formerly Skymining) is a Swedish company founded in 2017 and headquartered in Stockholm that cultivates perennial C4 grass on marginal and degraded land in Senegal and the Dominican Republic, producing solid biofuel pellets and biochar via pyrolysis. The company is listed on Puro.earth's Accelerate program and sells biochar carbon removal credits (CORCs), while also partnering with Votion Biorefineries (SAF), TEXEL (electricity), and Borga Group (construction carbon credits). The company remains actively operational in 2025, with a May 2025 land allocation in Senegal and ongoing financing rounds.
 
 ![Jord website](/screenshots/jord.png)
+
 
 
 ## History

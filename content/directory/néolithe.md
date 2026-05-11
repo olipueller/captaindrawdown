@@ -26,6 +26,7 @@ Néolithe is a French industrial startup founded in 2019 near Angers that manufa
 ![Néolithe website](/screenshots/néolithe.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

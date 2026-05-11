@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Uganda</td></tr>
   <tr><th>Website</th><td><a href="https://www.stackcarbon.earth/" target="_blank" rel="noopener">https://www.stackcarbon.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stackcarbon/" target="_blank" rel="noopener">stackcarbon — 961 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Stack Carbon Investments UG Ltd is a Ugandan climate-tech company developing the Nile Char Carbon Removal Project, a large-scale biochar facility in mid-western Uganda that converts agricultural waste into biochar-based fertilizer. The company also works on Enhanced Rock Weathering using crushed basalt applied to farmlands. In January 2026 it signed an MoU with Jiaxing Tongao (China) and TerraCapX (Norway) for a USD $12M facility targeting Q3 2026 commercial operations.
 
 ![Stack Carbon website](/screenshots/stack-carbon.png)
+
 
 
 ## History

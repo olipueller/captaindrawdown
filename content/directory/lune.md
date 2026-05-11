@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://lune.co/" target="_blank" rel="noopener">https://lune.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lune-climate/" target="_blank" rel="noopener">lune-climate — 5,261 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~50 (+28% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -25,6 +25,7 @@ liveliness: "🟢 Active"
 Lune (Lune Climate Ltd) is a London-based climate API and platform that helps businesses calculate Scope 3 emissions and purchase carbon credits, including permanent carbon removal, from a curated portfolio of vetted projects. It acts as a marketplace/broker, integrating with partners like Salesforce's Net Zero Marketplace, Visa, and Payhawk rather than physically removing CO2 itself.
 
 ![Lune website](/screenshots/lune.png)
+
 
 
 ## History

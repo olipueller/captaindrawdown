@@ -27,6 +27,7 @@ Beyond Sustainable Tech (BST) is a small Canadian company based in Kedgwick, New
 ![Beyond Sustainable Tech inc. website](/screenshots/beyond-sustainable-tech-inc.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

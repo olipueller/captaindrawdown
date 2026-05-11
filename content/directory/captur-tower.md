@@ -27,6 +27,7 @@ Captur Tower is an early-stage Spanish direct air capture startup founded in 202
 ![Captur Tower website](/screenshots/captur-tower.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: screenshot

@@ -28,6 +28,7 @@ Greencarbon is a Dutch broker/marketplace for CO2 removal certificates based in 
 ![Greencarbon website](/screenshots/greencarbon.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

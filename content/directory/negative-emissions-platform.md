@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.negative-emissions.org" target="_blank" rel="noopener">https://www.negative-emissions.org</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/negative-emissions-platform/" target="_blank" rel="noopener">negative-emissions-platform — 7,278 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~13 (+8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -26,8 +26,14 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 ![Negative Emissions Platform website](/screenshots/negative-emissions-platform.png)
 
 
+
 ## History
 
+- **2026-05-10** — news mention: Danube Carbon Storage joins the Negative Emissions Platform  Danube Carbon Storage has joined the Ne ([source](https://x.com/CaptainDrawdown/status/2053398220026380327))
+- **2026-05-10** — news mention: Five hard numbers from the past week show public balance sheets absorbing CDR-adjacent infrastructur ([source](https://x.com/CaptainDrawdown/status/2053339930152034322))
+- **2026-05-09** — news mention: Negative Emissions Platform publishes 2025 Annual Report ([source](https://www.negative-emissions.org/updates/negative-emissions-platform-publishes-2025-annual-report))
+- **2026-05-09** — news mention: Danube Carbon Storage joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/danube-carbon-storage-joins-the-negative-emissions-platform))
+- **2026-05-09** — news mention: Sebastian Manhart joins the Negative Emissions Platform Board ([source](https://www.negative-emissions.org/updates/sebastian-manhart-joins-the-negative-emissions-platform-board))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

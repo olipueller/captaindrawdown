@@ -27,6 +27,7 @@ Carbon180 is a Washington, D.C.-based nonprofit, nonpartisan climate NGO founded
 ![Carbon180 website](/screenshots/carbon180.png)
 
 
+
 ## History
 
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

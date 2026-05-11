@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://alterbiota.com/" target="_blank" rel="noopener">https://alterbiota.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alterbiotainc/" target="_blank" rel="noopener">alterbiotainc — 566 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~18 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 alterBiota is a Nova Scotia-based cleantech startup that makes deltaC (∆C), a biochar-derived liquid concrete admixture produced via a patented process from forestry-waste biochar. The product stores biogenic carbon in concrete and enables cement reduction, claiming up to 30% embodied-carbon reduction. The company entered commercial production in December 2025 following 2025 field trials with Casey Concrete and CarbonRun.
 
 ![alterBiota website](/screenshots/alterbiota.png)
+
 
 
 ## History

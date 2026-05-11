@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ducks.org/" target="_blank" rel="noopener">https://www.ducks.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ducks-unlimited/" target="_blank" rel="noopener">ducks-unlimited — 72,474 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~768 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -26,6 +26,7 @@ liveliness: "🟢 Active"
 Ducks Unlimited is a large US-based nonprofit (founded 1937) dedicated to wetland and waterfowl conservation, with over 1,000 employees and 16+ million acres restored or protected across North America. Its carbon program is a secondary activity that monetizes grassland conservation and bottomland hardwood reforestation projects (including Flyway Forests with Pachama and PERENfra) through the voluntary carbon market to fund its conservation mission. Conservation, not CDR, is the organization's core business.
 
 ![Ducks Unlimited website](/screenshots/ducks-unlimited.png)
+
 
 
 ## History

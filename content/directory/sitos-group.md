@@ -17,6 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~6 (-14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
 
 ## About
@@ -24,6 +25,15 @@ liveliness: "🟢 Active"
 Sitos Group is a California-based biochar producer that uses slow pyrolysis to convert agricultural and municipal organic waste (almond shells, vineyard residues) into durable biochar for soil amendment and carbon dioxide removal. After running a pilot facility at ReGen Monterey from 2023-2025, the company is building a $9M commercial slow-pyrolysis plant in Delano, CA in partnership with Treehouse California Almonds, targeted for operation by end of 2025.
 
 ![Sitos Group website](/screenshots/sitos-group.png)
+
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Isometric**
+- 1 project · Biochar &nbsp;[↗](https://to.isometric.com/prj_1JQEW95GA1S0D2FD)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History

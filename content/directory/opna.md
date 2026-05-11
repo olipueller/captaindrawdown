@@ -27,6 +27,7 @@ Opna is a UK-based climate finance platform founded in 2022 by Shilpika Gautam t
 ![Opna website](/screenshots/opna.png)
 
 
+
 ## History
 
 - **2026-05-01** — refresh: coresignal, screenshot

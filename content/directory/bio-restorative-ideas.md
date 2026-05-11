@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Puerto Rico</td></tr>
   <tr><th>Website</th><td><a href="https://bri.earth/" target="_blank" rel="noopener">https://bri.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bio-restorative-ideas-llc/" target="_blank" rel="noopener">bio-restorative-ideas-llc</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 38/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -24,6 +24,7 @@ liveliness: "🟠 Suspect"
 Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer that transforms bamboo residues into biochar using ARTi pyrolysis equipment installed in 2023. The project is registered on Puro.earth with Zurich among its credit buyers, and is managed in partnership with carbon developer GECA Environnement. The company is small (~4 employees) and has shown limited public activity since 2024.
 
 ![Bio-Restorative Ideas website](/screenshots/bio-restorative-ideas.png)
+
 
 
 ## History
