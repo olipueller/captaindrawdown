@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
   <tr><th>Employees</th><td>~135 (+30% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-07-28)</small></td></tr>
 </table>
 
 ## About
@@ -32,7 +32,7 @@ NetZero is a French biochar company founded in 2021 and headquartered in Paris t
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 3 projects · Biochar, 2022 · since 2022-06-06 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/netzero-002-lajinha)
+- 3 projects · Biochar, 2022 · crediting period 2022-06-06 → 2029-07-28 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/netzero-002-lajinha)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

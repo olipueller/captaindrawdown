@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Ghana</td></tr>
   <tr><th>Website</th><td><a href="https://www.truecococarbon.green/" target="_blank" rel="noopener">https://www.truecococarbon.green/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-03-31</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-03-31)</small></td></tr>
 </table>
 
 ## About
@@ -29,7 +29,7 @@ Truecoco Ghana Ltd is an agricultural commodity processor and trading company es
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · since 2025-04-01
+- 1 project · Biochar, 2022 · crediting period 2025-04-01 → 2030-03-31 (active)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

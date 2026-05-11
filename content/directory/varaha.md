@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enhanced Weathering, Afforestation</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.varaha.earth/" target="_blank" rel="noopener">https://www.varaha.earth/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro · verra issuance through 2026-05-11</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro · verra crediting window through 2030-02-07</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth · Verra (VCS) <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth · Verra (VCS) <small>(active crediting window through 2030-02-07)</small></td></tr>
 </table>
 
 ## About
@@ -30,11 +30,11 @@ Varaha is a New Delhi-based carbon removal project developer founded in 2022, op
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 2 projects · Biochar, 2022 · since 2023-02-09 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/nsl-corn-seed-drying-facility-98)
-- 1 project · Enhanced Rock Weathering, 2022 · since 2024-05-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/enhanced-rock-weathering-smallholder-farmers-in-india-186)
+- 2 projects · Biochar, 2022 · crediting period 2023-02-09 → 2030-02-07 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/nsl-corn-seed-drying-facility-98)
+- 1 project · Enhanced Rock Weathering, 2022 · crediting period 2024-05-01 → 2029-04-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/enhanced-rock-weathering-smallholder-farmers-in-india-186)
 
 **Verra (VCS)**
-- 1 project · Afforestation + Reforestation · 68,259 tCO₂ issued · since 2026-05-01 &nbsp;[↗](https://registry.verra.org/app/projectDetail/VCS/4456)
+- 1 project · Afforestation + Reforestation · 68,259 tCO₂ issued · first issued 2026-05-01 &nbsp;[↗](https://registry.verra.org/app/projectDetail/VCS/4456)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

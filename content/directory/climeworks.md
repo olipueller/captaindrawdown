@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-05-31)</small></td></tr>
 </table>
 
 ## About
@@ -35,8 +35,8 @@ Swiss pioneer of solid-sorbent Direct Air Capture, operating the Orca (4,000 t/y
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Geologically stored carbon · since 2023-12-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/orca-plant-97)
-- 1 project · Geologically stored carbon, 2024 · since 2024-06-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/mammoth-117)
+- 1 project · Geologically stored carbon · crediting period 2023-12-01 → 2028-11-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/orca-plant-97)
+- 1 project · Geologically stored carbon, 2024 · crediting period 2024-06-01 → 2029-05-31 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/mammoth-117)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

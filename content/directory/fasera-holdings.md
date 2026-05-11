@@ -15,10 +15,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://fasera.com/" target="_blank" rel="noopener">https://fasera.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fasera/" target="_blank" rel="noopener">fasera — 235 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-02-28</small></td></tr>
   <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-02-28)</small></td></tr>
 </table>
 
 ## About
@@ -32,8 +32,8 @@ Fasera Holdings is an Australian company founded in 2005 that operates oil malle
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · since 2022-03-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/fasera-biochar-plant-1-91)
-- 1 project · Terrestrial Storage of Biomass · since 2024-03-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/fasera-tsb-facility-1-142)
+- 1 project · Biochar, 2022 · crediting period 2022-03-01 → 2027-02-28 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/fasera-biochar-plant-1-91)
+- 1 project · Terrestrial Storage of Biomass · crediting period 2024-03-01 → 2029-02-28 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/fasera-tsb-facility-1-142)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

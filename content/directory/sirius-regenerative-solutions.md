@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Colombia</td></tr>
   <tr><th>Website</th><td><a href="https://www.siriusregenerative.co/" target="_blank" rel="noopener">https://www.siriusregenerative.co/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-08-28</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-08-28)</small></td></tr>
 </table>
 
 ## About
@@ -31,7 +31,7 @@ Sirius Regenerative is a Colombian biochar producer based in Meta that operates 
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · since 2024-08-29
+- 1 project · Biochar, 2022 · crediting period 2024-08-29 → 2029-08-28 (active)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

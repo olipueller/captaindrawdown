@@ -33,7 +33,7 @@ Alt Carbon is an India-based CDR startup founded in 2023 by brothers Shrey and S
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 3 projects · Rock Weathering · 9,566 tCO₂ issued · since 2025-11-14 &nbsp;[↗](https://to.isometric.com/prj_1JYCV03BW1S0RTE5)
+- 3 projects · Rock Weathering · 9,566 tCO₂ issued · first issued 2025-11-14 &nbsp;[↗](https://to.isometric.com/prj_1JYCV03BW1S0RTE5)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

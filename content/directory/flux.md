@@ -14,9 +14,8 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.fluxcarbon.earth/" target="_blank" rel="noopener">https://www.fluxcarbon.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/flux-earth/" target="_blank" rel="noopener">flux-earth — 3,483 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/flux-carbon/" target="_blank" rel="noopener">flux-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (+10% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +30,7 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 
 ## History
 
+- **2026-05-11** — linkedin_slug corrected: 'flux-earth' → 'flux-carbon' (Dirk-confirmed via https://www.linkedin.com/company/flux-carbon/). Stale Coresignal data cleared. ([source](https://www.linkedin.com/company/flux-carbon/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-29** — news mention: An Analytic Threshold for LESA-Driven Negative ELN Flux Directions in Core-Collapse Supernovae: Deri ([source](https://arxiv.org/abs/2604.21081v2))

@@ -35,7 +35,7 @@ CREW Carbon is a US-based CDR startup founded in 2022 by Joachim Katchinoff and 
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 2 projects · Unknown · 526 tCO₂ issued · 166 retired · since 2025-04-30 &nbsp;[↗](https://to.isometric.com/prj_1K3S0527T1S0KYXT)
+- 2 projects · Unknown · 526 tCO₂ issued · 166 retired · first issued 2025-04-30 &nbsp;[↗](https://to.isometric.com/prj_1K3S0527T1S0KYXT)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

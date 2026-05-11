@@ -15,10 +15,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.arukahcapital.com/" target="_blank" rel="noopener">https://www.arukahcapital.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arukah-capital/" target="_blank" rel="noopener">arukah-capital — 626 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-09-30</small></td></tr>
   <tr><th>Employees</th><td>~19 (+111% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-09-30)</small></td></tr>
 </table>
 
 ## About
@@ -32,7 +32,7 @@ Arukah is a Singapore-headquartered CDR project developer operating what it desc
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · since 2025-10-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/foundation-1-241)
+- 1 project · Biochar, 2022 · crediting period 2025-10-01 → 2030-09-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/foundation-1-241)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

@@ -31,7 +31,7 @@ Oregon Biochar Solutions (OBS) is a biochar producer that was the first CDR proj
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · since 2019-10-01
+- 1 project · Biochar, 2022 · crediting period 2019-10-01 → 2024-09-30 (expired)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

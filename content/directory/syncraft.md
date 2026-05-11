@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.syncraft.at/en/" target="_blank" rel="noopener">https://www.syncraft.at/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syncraft/" target="_blank" rel="noopener">syncraft — 4,080 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~31 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~50 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -35,6 +35,7 @@ Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that builds pat
 
 ## History
 
+- **2026-05-11** — manual employee_count_override → 50 (Coresignal undercounted; manual override per Dirk 2026-05-11.)
 - **2026-05-06** — news mention: #climateweekzurich #bioenergie #carbonremoval #cdr #klimapositiveenergie #resilienteenergieversorgun ([source](https://www.linkedin.com/feed/update/urn:li:share:7457433884553576448/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

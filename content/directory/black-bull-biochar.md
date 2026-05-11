@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
   <tr><th>Employees</th><td>~9</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-09-16)</small></td></tr>
 </table>
 
 ## About
@@ -32,7 +32,7 @@ Black Bull Biochar (BBB) is a UK-based start-up specialising in biochar for sust
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 2 projects · Biochar, 2022 · since 2024-01-01
+- 2 projects · Biochar, 2022 · crediting period 2024-01-01 → 2029-09-16 (active)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

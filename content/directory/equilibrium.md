@@ -33,7 +33,7 @@ Equilibrium (operating entity Climeverse Pvt. Ltd.) is a Bangalore-based full-st
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 1 project · Biochar · 1 tCO₂ issued · since 2026-01-30 &nbsp;[↗](https://to.isometric.com/prj_1K3VWSDS61S0QKV7)
+- 1 project · Biochar · 1 tCO₂ issued · first issued 2026-01-30 &nbsp;[↗](https://to.isometric.com/prj_1K3VWSDS61S0QKV7)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

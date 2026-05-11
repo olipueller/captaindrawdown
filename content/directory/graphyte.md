@@ -33,7 +33,7 @@ Graphyte is a US carbon removal startup founded in 2023 and based in Pine Bluff,
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 1 project · Biomass Burial · 16,605 tCO₂ issued · 10,824 retired · since 2024-11-07 &nbsp;[↗](https://to.isometric.com/prj_1J4P33N6W1S0RKE2)
+- 1 project · Biomass Burial · 16,605 tCO₂ issued · 10,824 retired · first issued 2024-11-07 &nbsp;[↗](https://to.isometric.com/prj_1J4P33N6W1S0RKE2)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

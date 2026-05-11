@@ -16,10 +16,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Website</th><td><a href="https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/" target="_blank" rel="noopener">https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scg-international/" target="_blank" rel="noopener">scg-international — 4,532 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-05-02</small></td></tr>
   <tr><th>Employees</th><td>~254 (-4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-05-02)</small></td></tr>
 </table>
 
 ## About
@@ -33,7 +33,7 @@ SCG Cement is the cement and building materials arm of Siam Cement Group, Thaila
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · since 2025-05-03 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/scg-128)
+- 1 project · Biochar, 2022 · crediting period 2025-05-03 → 2030-05-02 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/scg-128)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

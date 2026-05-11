@@ -1,9 +1,9 @@
 ---
-title: "Terra Preta (Cotierra)"
+title: "Cotierra"
 layout: "single"
 type: "directory"
-description: "Mobile, on-farm pyrolysis reactors that convert coffee/cacao residues into biochar applied back to soils, with IoT-based MRV and Global Artisan C-Sink methodology certification."
-url: "/directory/terra-preta-cotierra/"
+description: "Builds low-cost mobile pyrolysis reactors deployed on smallholder coffee farms in Colombia to convert pruning residues into biochar with IoT-enabled MRV."
+url: "/directory/cotierra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
@@ -11,22 +11,21 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
-  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
-  <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.cotierra.com/" target="_blank" rel="noopener">https://www.cotierra.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-preta-carbon/" target="_blank" rel="noopener">terra-preta-carbon — 5,103 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
   <tr><th>Employees</th><td>~16</td></tr>
+  <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Cotierra (formerly Terra Preta) is a Swiss-Colombian ClimateTech startup, headquartered in Zurich and founded in 2023, that deploys mobile, decentralized biochar reactors on smallholder coffee and cacao farms in Latin America. It combines on-farm pyrolysis hardware with an IoT-enabled MRV platform to issue biochar carbon removal credits, validated via Carbon Standards International and distributed through partners including Volcafe, Neumann Kaffee Gruppe, and myclimate.
+Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Preta) producing decentralized biochar from coffee tree residues on Colombian smallholder farms. In partnership with Volcafe/Carcafe, it has issued biochar-based carbon removal credits under the Global Artisan C-Sink methodology and sells credits on the voluntary carbon market. The company raised a $1M pre-seed in March 2024 from Carbon Removal Partners, Carbon Drawdown Initiative, Partners in Clime, Climate Founders and others.
 
-![Terra Preta (Cotierra) website](/screenshots/terra-preta-cotierra.png)
+![Cotierra website](/screenshots/cotierra.png)
 
 
 ## Registry Memberships
@@ -35,6 +34,8 @@ Cotierra (formerly Terra Preta) is a Swiss-Colombian ClimateTech startup, headqu
 
 ## History
 
+- **2026-05-11** — reactivated — dedupe canonical, real CDI portfolio company (Dirk 2026-05-11)
+- **2026-05-11** — merged 1 duplicate(s): Terra Preta (Cotierra)
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
@@ -59,6 +60,10 @@ Cotierra (formerly Terra Preta) is a Swiss-Colombian ClimateTech startup, headqu
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cotierra.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://terra-preta.earth ([source](https://www.cdr.fyi/supplier/terra-preta))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/terra-preta))
+- **** — merged duplicate: Terra Preta (Cotierra) (slug=terra-preta-cotierra)
+- **2026-04-19** — deduped — canonical is terra-preta-cotierra (Terra Preta (Cotierra))
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cotierra.com/))
 
 ---
 

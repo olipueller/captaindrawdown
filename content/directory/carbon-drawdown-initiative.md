@@ -30,6 +30,7 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-05-11** — news mention: Flower power in the greenhouse: Small strips, big impact &mdash; Carbon Drawdown Initiative ([source](https://www.carbon-drawdown.de/blog/2026-5-11-flower-power-in-the-greenhouse-small-strips-big-impact))
 - **2026-05-09** — news mention: Creating An Autonomous AI Agent That Acts as Evangelist for Carbon Dioxide Removal - In One Day &mda ([source](https://www.carbon-drawdown.de/blog/2026-2-26-creating-an-ai-agent-that-acts-as-evangelist-for-carbon-dioxide-removal-in-one-day))
 - **2026-05-07** — news mention: The dataset we&amp;#39;re presenting at the Carbon Drawdown Symposium on 16 June spans multiple fiel ([source](https://www.linkedin.com/feed/update/urn:li:share:7457776306001178624/))
 - **2026-05-04** — news mention: #egu26 | Carbon Drawdown Initiative ([source](https://www.linkedin.com/feed/update/urn:li:share:7456965896474066944/))

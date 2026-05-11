@@ -34,7 +34,7 @@ Charm Industrial is a San Francisco-based pure-play CDR company that uses fast p
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 2 projects · Biochar · 6,040 tCO₂ issued · 4,004 retired · since 2024-08-20 &nbsp;[↗](https://to.isometric.com/prj_1HZSSWBQM1S08H83)
+- 2 projects · Biochar · 6,040 tCO₂ issued · 4,004 retired · first issued 2024-08-20 &nbsp;[↗](https://to.isometric.com/prj_1HZSSWBQM1S08H83)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

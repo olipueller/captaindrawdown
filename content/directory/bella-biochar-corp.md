@@ -31,7 +31,7 @@ Bella Biochar Corporation is an Ontario-based biochar producer that converts lan
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · since 2021-07-01
+- 1 project · Biochar, 2022 · crediting period 2021-07-01 → 2022-03-15 (expired)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

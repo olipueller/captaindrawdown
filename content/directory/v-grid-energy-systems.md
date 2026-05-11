@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://vgridenergy.com/" target="_blank" rel="noopener">https://vgridenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vgrid-energy-systems/" target="_blank" rel="noopener">vgrid-energy-systems — 319 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-03-23</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via puro issuance on 2026-03-23</small></td></tr>
   <tr><th>Employees</th><td>~8 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-03-23)</small></td></tr>
@@ -31,7 +31,7 @@ VGrid Energy Systems is a California-based clean energy company operating modula
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 2 projects · Biochar, 2022 · since 2021-03-24 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/v-grid-energy-systems-46)
+- 2 projects · Biochar, 2022 · crediting period 2021-03-24 → 2026-03-23 (expired) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/v-grid-energy-systems-46)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

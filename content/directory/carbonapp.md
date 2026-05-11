@@ -16,10 +16,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonapp.fr/" target="_blank" rel="noopener">https://www.carbonapp.fr/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonapp-fr/" target="_blank" rel="noopener">carbonapp-fr — 6,167 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2027-09-30</small></td></tr>
   <tr><th>Employees</th><td>~16 (-6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2027-09-30)</small></td></tr>
 </table>
 
 ## About
@@ -33,8 +33,8 @@ Founded in March 2021, Carbonapp is a mission-driven company that develops low-c
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · since 2022-10-01 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/four-bordet-70)
-- 4 projects · Wooden Building Elements · since 2020-07-01
+- 1 project · Biochar, 2022 · crediting period 2022-10-01 → 2027-09-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/four-bordet-70)
+- 4 projects · Wooden Building Elements · crediting period 2020-07-01 → 2022-04-30 (expired)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

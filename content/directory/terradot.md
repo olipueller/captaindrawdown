@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terradot.earth/" target="_blank" rel="noopener">https://terradot.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terradot/" target="_blank" rel="noopener">terradot — 8,514 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via isometric issuance through 2026-03-17</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2026-03-17</small></td></tr>
   <tr><th>Employees</th><td>~93 (+107% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -33,7 +33,7 @@ Terradot was founded in 2022 at Stanford and runs scaled ERW operations in Brazi
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 1 project · Rock Weathering · 204 tCO₂ issued · 23 retired · since 2026-03-17 &nbsp;[↗](https://to.isometric.com/prj_1K10D531D1S0DEV9)
+- 1 project · Rock Weathering · 204 tCO₂ issued · 23 retired · first issued 2026-03-17 &nbsp;[↗](https://to.isometric.com/prj_1K10D531D1S0DEV9)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

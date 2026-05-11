@@ -33,7 +33,7 @@ South Pole is a Zurich-based climate consultancy and carbon project developer fo
 Independently verified by carbon-credit registries:
 
 **Gold Standard**
-- 1 project · Afforestation + Reforestation · 169,264 tCO₂ issued · 36,551 retired · since 2015-08-24 &nbsp;[↗](https://registry.goldstandard.org/projects?q=gs3565)
+- 1 project · Afforestation + Reforestation · 169,264 tCO₂ issued · 36,551 retired · first issued 2015-08-24 &nbsp;[↗](https://registry.goldstandard.org/projects?q=gs3565)
 
 **Verra (VCS)**
 - 1 project · Unknown &nbsp;[↗](https://registry.verra.org/app/projectDetail/VCS/4001)

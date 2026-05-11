@@ -19,8 +19,8 @@ url: "/directory/enhanced-weathering/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">27,035</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">30/33</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">27,024</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">29/33</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
@@ -33,8 +33,8 @@ url: "/directory/enhanced-weathering/"
 - [CarbonRun](/directory/carbonrun/) — 23 employees
 - [Cascade Climate](/directory/cascade-climate/) — 22 employees
 - [CREW Carbon](/directory/crew-carbon/) — 20 employees
-- [Flux](/directory/flux/) — 11 employees
 - [Rock Flour Company](/directory/rock-flour-company/) — 8 employees
+- [Carbon Drawdown Initiative](/directory/carbon-drawdown-initiative/) — 7 employees
 
 ## All Enhanced Weathering companies
 

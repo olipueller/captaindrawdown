@@ -16,10 +16,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://alcomcm.com" target="_blank" rel="noopener">https://alcomcm.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alcom-pte-ltd/" target="_blank" rel="noopener">alcom-pte-ltd — 1,705 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2027-06-09</small></td></tr>
   <tr><th>Employees</th><td>~125</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2027-06-09)</small></td></tr>
 </table>
 
 ## About
@@ -33,7 +33,7 @@ Alcom Carbon Markets (ACM) is a Singapore-based climate-tech project developer t
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · since 2022-06-10 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/alcom-01-nuevaecijaphilippines)
+- 1 project · Biochar, 2022 · crediting period 2022-06-10 → 2027-06-09 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/alcom-01-nuevaecijaphilippines)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

@@ -14,10 +14,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.novocarbo.com/" target="_blank" rel="noopener">https://www.novocarbo.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbo3-gmbh/" target="_blank" rel="noopener">carbo3-gmbh — 10,244 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-02-10</small></td></tr>
   <tr><th>Employees</th><td>~20 (-44% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-02-10)</small></td></tr>
 </table>
 
 ## About
@@ -31,7 +31,7 @@ Novocarbo is a Hamburg-based climate tech company that builds and operates Carbo
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 3 projects · Biochar, 2022 · since 2020-09-24 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/novocarbo-baltic-sea)
+- 3 projects · Biochar, 2022 · crediting period 2020-09-24 → 2029-02-10 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/novocarbo-baltic-sea)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

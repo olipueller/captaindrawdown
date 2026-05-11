@@ -33,7 +33,7 @@ Vaulted Deep is a Houston-based carbon removal company that injects organic wast
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 2 projects · Biomass Injection · 54,859 tCO₂ issued · 13,079 retired · since 2023-12-23 &nbsp;[↗](https://to.isometric.com/prj_1HHYZFVGW1S044ZY)
+- 2 projects · Biomass Injection · 54,859 tCO₂ issued · 13,079 retired · first issued 2023-12-23 &nbsp;[↗](https://to.isometric.com/prj_1HHYZFVGW1S044ZY)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

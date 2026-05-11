@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://inplanet.earth/" target="_blank" rel="noopener">https://inplanet.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inplanet/" target="_blank" rel="noopener">inplanet — 16 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~60 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~70 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,7 +34,7 @@ InPlanet is a Brazil/Germany-based climate tech startup pioneering tropical Enha
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 3 projects · Rock Weathering · 709 tCO₂ issued · 81 retired · since 2024-12-23 &nbsp;[↗](https://to.isometric.com/prj_1JQ775W7D1S0WYSA)
+- 3 projects · Rock Weathering · 709 tCO₂ issued · 81 retired · first issued 2024-12-23 &nbsp;[↗](https://to.isometric.com/prj_1JQ775W7D1S0WYSA)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -45,6 +45,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-11** — manual employee_count_override → 70 (inflated by Coresignal — wrong LinkedIn entity. Confidential portfolio data confirms larger headcount; value rounded up to nearest 10.)
 - **2026-05-05** — news mention: #carbonremoval #cdr #climatetech #sustainability #climatefinance | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457080773632909312/))
 - **2026-05-01** — news mention: #climateweekzurich #durablecdr #carbonremoval #climatetech #netzero | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7455560954865500161/))
 - **2026-05-01** — refresh: screenshot

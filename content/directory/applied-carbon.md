@@ -14,10 +14,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.appliedcarbon.com/" target="_blank" rel="noopener">https://www.appliedcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/applied-carbon/" target="_blank" rel="noopener">applied-carbon — 5,206 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified active via puro issuance through 2026-05-11</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-12-09</small></td></tr>
   <tr><th>Employees</th><td>~25 (-24% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-05-11)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-12-09)</small></td></tr>
 </table>
 
 ## About
@@ -31,7 +31,7 @@ Applied Carbon (formerly Climate Robotics) is a Houston, Texas-based biochar com
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · since 2024-12-10 &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/terra-141)
+- 1 project · Biochar, 2022 · crediting period 2024-12-10 → 2029-12-09 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/terra-141)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
