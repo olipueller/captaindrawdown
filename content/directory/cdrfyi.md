@@ -29,6 +29,7 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 
 ## History
 
+- **2026-05-12** — news mention: Durable CDR Market Recap: April 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-april-2026))
 - **2026-05-09** — news mention: Introducing CDR.fyi Portal 2.0: Unparalleled Insights into the Global Durable Carbon Removal Market  ([source](https://www.cdr.fyi/blog/introducing-cdr.fyi-portal2.0))
 - **2026-05-09** — news mention: Introducing CDR.fyi Resources: The Definitive Resource Hub for Carbon Dioxide Removal  ([source](https://www.cdr.fyi/blog/introducing-cdr.fyi-resources))
 - **2026-05-09** — news mention: New Resource Live: The CDR.fyi Buyer’s Guide ([source](https://www.cdr.fyi/blog/introducing-the-cdr.fyi-buyers-guide))

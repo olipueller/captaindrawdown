@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.airbus.com" target="_blank" rel="noopener">https://www.airbus.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airbusgroup/" target="_blank" rel="noopener">airbusgroup — 2,832,642 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (+10% YoY)</td></tr>
+  <tr><th>Employees</th><td>~47941 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

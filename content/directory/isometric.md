@@ -34,6 +34,7 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ## History
 
+- **2026-05-12** — news mention: I understand the instinct. It sounds similar, but the analogy falls apart on inspection. ([source](https://x.com/dpaessler/status/2054185117765992576))
 - **2026-05-12** — news mention: Case Study: Vaulted Deep - Isometric ([source](https://isometric.com/case-studies/vaulted-deep))
 - **2026-05-12** — news mention: Isometric will be at Carbon Unbound East Coast. Here&amp;#39;s where you can find the team.
 

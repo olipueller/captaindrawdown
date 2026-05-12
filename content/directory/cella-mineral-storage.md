@@ -31,6 +31,7 @@ Cella Mineral Storage is a New York-based carbon mineralization startup operatin
 
 ## History
 
+- **2026-05-12** — news mention: Octavia Carbon And Cella Celebrate First Underground CO2 Injection ([source](https://carbonherald.com/octavia-carbon-and-cella-celebrate-first-underground-co2-injection/?utm_source=rss&utm_medium=rss&utm_campaign=octavia-carbon-and-cella-celebrate-first-underground-co2-injection))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

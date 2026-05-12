@@ -27,6 +27,8 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 
 ## History
 
+- **2026-05-12** — news mention: Singapore’s Carbon Tax Quota Carryover: What the 2026 Relief Says About Credit Supply, Integrity, an ([source](https://carbonmeld.com/en/articles/singapore-s-carbon-tax-quota-carryover-what-the-2026-relief-says-about-credit-supply-integrity-and-market-design/))
+- **2026-05-12** — news mention: Why the EU’s Carbon Credit Clampdown Could Change Net-Zero Buying Across Compliance and Voluntary Ma ([source](https://carbonmeld.com/en/articles/why-the-eu-s-carbon-credit-clampdown-could-change-net-zero-buying-across-compliance-and-voluntary-markets/))
 - **2026-05-11** — news mention: When Carbon Projects Lose Social Licence: What Community Pushback Means for the Future of Offset Sup ([source](https://carbonmeld.com/en/articles/when-carbon-projects-lose-social-licence-what-community-pushback-means-for-the-future-of-offset-supply/))
 - **2026-05-10** — news mention: Weekly link list: 18 candidate stories, 6-9 picks, each with our take so you don't have to click eve ([source](https://x.com/CaptainDrawdown/status/2053559769210769845))
 - **2026-05-09** — news mention: Why the EU Could Turn Carbon Removal Into a Competitive Advantage for Heavy Industry · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-the-eu-could-turn-carbon-removal-into-a-competitive-advantage-for-heavy-industry/))

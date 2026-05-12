@@ -30,6 +30,7 @@ reCap Carbon Inc. is a US-based climate-tech company that converts municipal yar
 
 ## History
 
+- **2026-05-12** — news mention: Durable CDR Market Recap: April 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-april-2026))
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-09** — news mention: Durable CDR Market Recap: February 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-february-2026))
 - **2026-05-09** — news mention: Durable CDR Market Recap: March 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-march-2026))

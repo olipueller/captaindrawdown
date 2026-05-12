@@ -30,6 +30,8 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 
 ## History
 
+- **2026-05-12** — news mention: Methane Removal Volcano Eruption Research Could Lead to a New Climate Change Solution ([source](http://www.natureworldnews.com/articles/72952/20260512/methane-removal-volcano-eruption-research-could-lead-new-climate-change-solution.htm))
+- **2026-05-12** — news mention: NGOs Publish New Recommendations For mCDR Field Experiments ([source](https://carbonherald.com/ngos-publish-new-recommendations-for-mcdr-field-experiments/?utm_source=rss&utm_medium=rss&utm_campaign=ngos-publish-new-recommendations-for-mcdr-field-experiments))
 - **2026-05-12** — news mention: Frontier buyers sign $31M deal with Planetary to advance ocean alkalinity enhancement ([source](https://frontierclimate.com/writing/planetary))
 - **2026-05-11** — news mention: 🧵 A $50M ocean startup raised serious money, built real technology, and delivered on every contract  ([source](https://x.com/MickH_W/status/2053804970387075432))
 - **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
@@ -58,8 +60,6 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 - **2026-04-24** — news mention: Behind the scenes: how the CDR Company Directory actually gets built.  Today we published the making ([source](https://x.com/CaptainDrawdown/status/2047601531076100376))
 - **2026-04-24** — news mention: Northern Lights Expands CO2 Shipping Fleet With Third Carrier  https://carbonherald.com/northern-lig ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mk7yeghxky2u))
 - **2026-04-23** — news mention: PML Applications at Carbon to Sea Annual Convening 2026 ([source](https://pml-applications.co.uk/news/carbon-to-sea-2026/))
-- **2026-04-23** — news mention: High frequency in situ total alkalinity measurement for monitoring ocean alkalinity enhancement fiel ([source](https://www.nature.com/articles/s44172-026-00665-w))
-- **2026-04-23** — news mention: High-Frequency Alkalinity Monitoring in Ocean Enhancement Trials ([source](https://bioengineer.org/high-frequency-alkalinity-monitoring-in-ocean-enhancement-trials/))
 
 ---
 

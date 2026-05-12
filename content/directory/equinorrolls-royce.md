@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.equinor.com/" target="_blank" rel="noopener">https://www.equinor.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equinor/" target="_blank" rel="noopener">equinor — 1,061,784 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (+1% YoY)</td></tr>
+  <tr><th>Employees</th><td>~16593 (+1% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

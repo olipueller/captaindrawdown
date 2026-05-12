@@ -28,6 +28,7 @@ Remove Carbon Today is an online retail storefront that enables individuals to p
 
 ## History
 
+- **2026-05-12** — news mention: New Platform Lets Individuals Buy Verified Carbon Removal With Registry Proof ([source](https://carbonherald.com/platform-individuals-buy-verified-carbon-removal-registry-proof/?utm_source=rss&utm_medium=rss&utm_campaign=platform-individuals-buy-verified-carbon-removal-registry-proof))
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.removecarbontoday.com/))

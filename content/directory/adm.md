@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.adm.com/en-us/standalone-pages/adm-and-carbon-capture-and-storage/" target="_blank" rel="noopener">https://www.adm.com/en-us/standalone-pages/adm-and-carbon-capture-and-storage/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adm/" target="_blank" rel="noopener">adm — 1,036,375 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (+20% YoY)</td></tr>
+  <tr><th>Employees</th><td>~41049 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

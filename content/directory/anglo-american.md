@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.angloamerican.com" target="_blank" rel="noopener">https://www.angloamerican.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/anglo-american/" target="_blank" rel="noopener">anglo-american — 1,421,454 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (+4% YoY)</td></tr>
+  <tr><th>Employees</th><td>~26627 (+4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
