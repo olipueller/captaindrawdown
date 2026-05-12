@@ -38,6 +38,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-12** — news mention: Credible carbon removal markets require credible policy frameworks. Few know this better than Puro.e ([source](https://www.linkedin.com/feed/update/urn:li:share:7458114573884170241/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.ground-up.in/news-and-resources))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

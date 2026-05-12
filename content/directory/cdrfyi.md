@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://cdr.fyi" target="_blank" rel="noopener">https://cdr.fyi</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdr-fyi/" target="_blank" rel="noopener">cdr-fyi — 16,781 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (+72% YoY)</td></tr>
+  <tr><th>Employees</th><td>~31 (+72% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 

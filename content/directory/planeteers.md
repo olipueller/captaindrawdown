@@ -45,6 +45,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-12** — news mention: 🌍 Please join us in welcoming Christian Barrera, our newest Planeteer! 💚
+
+With a Master’s in Geother ([source](https://www.linkedin.com/feed/update/urn:li:share:7457490151494049792/))
 - **2026-05-06** — news mention: #mcdr #oae #mrv #carbonremoval #oceanscience #responsibleinnovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7457447545053704192/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

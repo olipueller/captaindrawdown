@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.locoal.com/" target="_blank" rel="noopener">https://www.locoal.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/locoal/" target="_blank" rel="noopener">locoal — 2,320 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (-10% YoY)</td></tr>
+  <tr><th>Employees</th><td>~19 (-10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

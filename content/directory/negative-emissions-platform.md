@@ -29,6 +29,9 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-05-12** — news mention: We&amp;#39;re happy to announce that Cula Technologies is a Carbon Removal Leader partner at the Neg ([source](https://www.linkedin.com/feed/update/urn:li:share:7457750344320684033/))
+- **2026-05-12** — news mention: Credible carbon removal markets require credible policy frameworks. Few know this better than Puro.e ([source](https://www.linkedin.com/feed/update/urn:li:share:7458114573884170241/))
+- **2026-05-12** — news mention: #etsneedsremovals | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7458526324568141824/))
 - **2026-05-10** — news mention: Danube Carbon Storage joins the Negative Emissions Platform  Danube Carbon Storage has joined the Ne ([source](https://x.com/CaptainDrawdown/status/2053398220026380327))
 - **2026-05-10** — news mention: Five hard numbers from the past week show public balance sheets absorbing CDR-adjacent infrastructur ([source](https://x.com/CaptainDrawdown/status/2053339930152034322))
 - **2026-05-09** — news mention: Negative Emissions Platform publishes 2025 Annual Report ([source](https://www.negative-emissions.org/updates/negative-emissions-platform-publishes-2025-annual-report))

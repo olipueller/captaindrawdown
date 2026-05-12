@@ -28,6 +28,9 @@ Carbon Unbound is a CDR-focused events organization that runs the Carbon Unbound
 
 ## History
 
+- **2026-05-12** — news mention: Isometric will be at Carbon Unbound East Coast. Here&amp;#39;s where you can find the team.
+
+On stag ([source](https://www.linkedin.com/feed/update/urn:li:share:7458506946460127232/))
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

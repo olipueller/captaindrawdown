@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.aquatic-labs.com/" target="_blank" rel="noopener">https://www.aquatic-labs.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aquatic-labs/" target="_blank" rel="noopener">aquatic-labs — 1,449 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (+13% YoY)</td></tr>
+  <tr><th>Employees</th><td>~17 (+13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 

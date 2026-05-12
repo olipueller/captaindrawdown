@@ -8,7 +8,7 @@ url: "/directory/biochar/"
 
 # Biochar — 377 Companies Tracked
 
-**Market pulse for Biochar (updated 2026-05-11).**
+**Market pulse for Biochar (updated 2026-05-12).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">377</span><span class="label">Companies</span></div>

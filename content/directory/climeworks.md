@@ -47,6 +47,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-12** — news mention: Climeworks appoints senior advisors to accelerate market growth ([source](https://climeworks.com/press-release/climeworks-appoints-senior-advisors-to-accelerate-market-growth))
+- **2026-05-12** — news mention: 🌍 Please join us in welcoming Christian Barrera, our newest Planeteer! 💚
+
+With a Master’s in Geother ([source](https://www.linkedin.com/feed/update/urn:li:share:7457490151494049792/))
+- **2026-05-11** — news mention: Climeworks Carbon Capture 2025, $162M Funding, SAP ([source](https://enkiai.com/climeworks-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
 - **2026-05-10** — news mention: Japan Advances Synthetic Fuel Production With New Demonstration Plant ([source](https://www.moroccoworldnews.com/2026/05/296067/japan-advances-synthetic-fuel-production-with-new-demonstration-plant/))
 - **2026-05-06** — news mention: Climeworks signs first AI carbon removal deal | Carbon Dioxide | gasworld ([source](https://www.gasworld.com/story/climeworks-signs-first-ai-carbon-removal-deal/2248623.article/))
 - **2026-05-06** — news mention: “Sustainability is not compliance; sustainability is value”.
@@ -75,9 +80,6 @@ David Costa’s words captured the spirit ([source](https://www.linkedin.com/fee
 - **2026-04-21** — news mention: Direct Air Capture Market (2026-2033) | Carbon Removal Technology, CO2 Capture Systems & Net Zero St ([source](https://www.openpr.com/news/4482183/direct-air-capture-market-2026-2033-carbon-removal))
 - **2026-04-20** — news mention: Louisiana carbon capture project gets new life with federal funding boost ([source](https://www.businessreport.com/article/louisiana-carbon-capture-project-gets-new-life-with-federal-funding-boost))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://climeworks.com/news/climeworks-establishes-canadian-headquarters-in-calgary))
-- **2026-04-19** — merged 1 duplicate(s): Climeworks Solutions
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 
 ---
 

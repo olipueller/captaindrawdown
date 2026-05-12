@@ -34,6 +34,11 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ## History
 
+- **2026-05-12** — news mention: Case Study: Vaulted Deep - Isometric ([source](https://isometric.com/case-studies/vaulted-deep))
+- **2026-05-12** — news mention: Isometric will be at Carbon Unbound East Coast. Here&amp;#39;s where you can find the team.
+
+On stag ([source](https://www.linkedin.com/feed/update/urn:li:share:7458506946460127232/))
+- **2026-05-11** — news mention: ICVCM approves another carbon credit standard, mangrove restoration rules as high integrity | News | ([source](https://www.eco-business.com/news/icvcm-approves-another-carbon-credit-standard-mangrove-restoration-rules-as-high-integrity/))
 - **2026-05-07** — news mention: Welcoming Isometric and Cercarbono to OffsetsDB – CarbonPlan ([source](https://carbonplan.org/blog/offsetsdb-cercarbono-isometric))
 - **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
 - **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))

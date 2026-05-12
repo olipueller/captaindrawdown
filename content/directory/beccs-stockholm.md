@@ -30,6 +30,7 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 
 ## History
 
+- **2026-05-12** — news mention: Mammoet awarded heavy-lift scope for Beccs Stockholm | AJOT.COM ([source](https://www.ajot.com/news/mammoet-awarded-heavy-lift-scope-for-beccs-stockholm))
 - **2026-05-11** — news mention: Mammoet awarded heavy-lift scope for Beccs Stockholm - theenergyst.com ([source](https://theenergyst.com/mammoet-awarded-heavy-lift-scope-for-beccs-stockholm/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

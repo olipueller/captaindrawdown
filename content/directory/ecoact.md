@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://eco-act.com/" target="_blank" rel="noopener">https://eco-act.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoact/" target="_blank" rel="noopener">ecoact — 33,009 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (-25% YoY)</td></tr>
+  <tr><th>Employees</th><td>~131 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 

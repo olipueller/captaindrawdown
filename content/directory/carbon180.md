@@ -30,6 +30,8 @@ Carbon180 is a Washington, D.C.-based nonprofit, nonpartisan climate NGO founded
 
 ## History
 
+- **2026-05-12** — news mention: Congratulations to Dr. Jovan Keith, our Senior Director of People &amp;amp; Learning, on successfull ([source](https://www.linkedin.com/feed/update/urn:li:share:7457515674077179904/))
+- **2026-05-12** — news mention: Carbon180 had the honor of participating in Innovate Cordova convened by Senator Murkowski in Cordov ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458245871869030408/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

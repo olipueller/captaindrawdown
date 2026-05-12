@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://elimini.com/" target="_blank" rel="noopener">https://elimini.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/elimini/" target="_blank" rel="noopener">elimini — 2,332 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (-38% YoY)</td></tr>
+  <tr><th>Employees</th><td>~39 (-38% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 

@@ -30,6 +30,7 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 
 ## History
 
+- **2026-05-11** — news mention: Carbon Removal Canada Newsletter Signup ([source](https://mailchi.mp/carbonremoval/newsletter-signup))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))
 - **2026-05-02** — news mention: This Week in CDR - May 1, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455979489584619520/))

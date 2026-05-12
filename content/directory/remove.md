@@ -30,6 +30,8 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
+- **2026-05-12** — news mention: Meghalaya launches first community biochar carbon-removal unit in Ri Bhoi ([source](https://hubnetwork.in/meghalaya-launches-first-community-biochar-carbon-removal-unit-in-ri-bhoi/))
+- **2026-05-11** — news mention: Meghalaya CM: Farmers' Income Top Priority with New Biochar Plant ([source](https://www.newkerala.com/news/a/increasing-farmers-income-top-priority-government-meghalaya-cm-661.htm))
 - **2026-05-09** — news mention: Navigating clean energy procurement for carbon removal companies ([source](https://carbonbasedcommentary.substack.com/p/navigating-clean-energy-procurement))
 - **2026-05-09** — news mention: Carbon removal, co-products, and system boundaries ([source](https://carbonbasedcommentary.substack.com/p/carbon-removal-co-products-and-system))
 - **2026-05-09** — news mention: Why is it so difficult to fund projects that reduce emissions? ([source](https://medium.com/milkywire/why-is-it-so-difficult-to-fund-projects-that-reduce-emissions-ef1f85c08fc7?source=rss-d3dbfac6b1e3------2))
@@ -58,8 +60,6 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 - **2026-04-27** — news mention: How is the UK Decarbonising AI Data Centre Growth? | Data Centre Magazine ([source](https://datacentremagazine.com/news/how-is-the-uk-decarbonising-ai-data-centre-growth))
 - **2026-04-27** — news mention: What We Really Mean by “The Massive Scale” Required for CDR in Climate Goals - RMI ([source](https://rmi.org/what-we-real..))
 - **2026-04-26** — news mention: 400 Gt by 2100 means scaling CDR to ~6-10 Gt/year by mid-century. Today we remove maybe 2 Mt/year vi ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkera2fn4y2c))
-- **2026-04-24** — news mention: Behind the scenes: how the CDR Company Directory actually gets built.  Today we published the making ([source](https://x.com/CaptainDrawdown/status/2047601531076100376))
-- **2026-04-24** — news mention: Silicon to Silicate: Understanding the InPlanet-Microsoft Deal ([source](https://remineralize.org/2026/04/silicon-to-silicate-understanding-the-inplanet-microsoft-deal/))
 
 ---
 

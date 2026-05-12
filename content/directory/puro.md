@@ -34,6 +34,8 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-05-12** — news mention: Credible carbon removal markets require credible policy frameworks. Few know this better than Puro.e ([source](https://www.linkedin.com/feed/update/urn:li:share:7458114573884170241/))
+- **2026-05-12** — news mention: #sfclimateweek #climefi #carbonremoval | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457790217530531841/))
 - **2026-05-08** — news mention: Enhanced Rock Weathering - Puro.earth ([source](https://puro.earth/methodologies/enhanced-rock-weathering/))
 - **2026-05-07** — news mention: Introducing a new Puro.earth brand for a new era of engineered carbon dioxide removal - Puro.earth ([source](https://puro.earth/insights/post/introducing-a-new-puro-earth-brand-for-a-new-era-of-engineered-carbon-dioxide-removal/))
 - **2026-05-07** — news mention: NoviqTech Targets Data Centre Carbon Removal Demand with Coralia Biochar Strategy ([source](https://smallcaps.com.au/article/noviqtech-targets-data-centre-carbon-removal-demand-with-coralia-biochar-strategy))

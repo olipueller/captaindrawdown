@@ -34,6 +34,7 @@ Paebbl is a Dutch-Nordic climate-tech startup that permanently stores CO2 by min
 
 ## History
 
+- **2026-05-11** — news mention: Holcim Deploys Carbon-Storing Concrete Technology In Commercial Project ([source](https://carbonherald.com/holcim-deploys-carbon-storing-concrete-technology-in-commercial-project/?utm_source=rss&utm_medium=rss&utm_campaign=holcim-deploys-carbon-storing-concrete-technology-in-commercial-project))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/technology))

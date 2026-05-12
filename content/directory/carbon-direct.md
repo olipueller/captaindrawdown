@@ -34,6 +34,7 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 
 ## History
 
+- **2026-05-12** — news mention: Take: Carbon removal is stuck in low earth orbit. Here ([source](https://captaindrawdown.com/posts/podcast-take-carbon-removal-is-stuck-in-low-earth-orbit-here-s-how-we-get/))
 - **2026-05-03** — news mention: Week in CDR — 2026-W18 ([source](https://captaindrawdown.com/posts/week-in-cdr-2026-w18/))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))

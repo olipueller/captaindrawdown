@@ -34,6 +34,7 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-05-12** — news mention: EU ETS Review 2026 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458063115021189120/))
 - **2026-05-05** — news mention: National Targets and Flexibilities - Call for evidence response - Carbon Gap ([source](https://carbongap.org/national-targets-and-flexibilities/))
 - **2026-05-01** — news mention: National targets and flexibilities - Carbon Gap ([source](https://carbongap.org/national-targets-and-flexibilities-submission))
 - **2026-05-01** — refresh: coresignal, screenshot

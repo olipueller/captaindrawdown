@@ -45,6 +45,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-12** — news mention: India just became the supply backbone of durable CDR without writing a single CDR law. Microsoft's 5 ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlmzi6gnpn2v))
 - **2026-05-09** — news mention: January 15, 2026🚨 Mega CDR Deal Alert! 🚨 Varaha <> MicrosoftDeal Alerts ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-01-15))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://bluskycarbon.com/" target="_blank" rel="noopener">https://bluskycarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blu-sky-creative/" target="_blank" rel="noopener">blu-sky-creative — 249 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (+6% YoY)</td></tr>
+  <tr><th>Employees</th><td>~85 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

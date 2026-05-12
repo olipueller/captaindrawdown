@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.airhive.earth/" target="_blank" rel="noopener">https://www.airhive.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonnet-limited/" target="_blank" rel="noopener">carbonnet-limited — 2,856 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (-10% YoY)</td></tr>
+  <tr><th>Employees</th><td>~19 (-10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

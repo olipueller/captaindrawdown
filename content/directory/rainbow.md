@@ -30,6 +30,10 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 
 ## History
 
+- **2026-05-12** — news mention: Most carbon removal founders are trying to prove their technology works. Uzoma Bailey Ayogu and Iken ([source](https://www.linkedin.com/feed/update/urn:li:share:7458441953530060800/))
+- **2026-05-12** — news mention: Frontier has approved Rainbow as a credit issuer.
+
+Now suppliers can now work with Rainbow to certif ([source](https://www.linkedin.com/feed/update/urn:li:share:7459718646110580736/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-22** — news mention: #sfcw2026 #carbonremoval #cdr #climateaction #netzero | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452232565496836096/))
 - **2026-04-19** — refresh: coresignal

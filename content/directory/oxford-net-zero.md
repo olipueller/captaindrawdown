@@ -30,6 +30,7 @@ Oxford Net Zero is an interdisciplinary research initiative based at the Univers
 
 ## History
 
+- **2026-05-12** — news mention: India just became the supply backbone of durable CDR without writing a single CDR law. Microsoft's 5 ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlmzi6gnpn2v))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

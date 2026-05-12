@@ -8,7 +8,7 @@ url: "/directory/enabling-tech/"
 
 # Enabling Tech — 179 Companies Tracked
 
-**Market pulse for Enabling Tech (updated 2026-05-11).**
+**Market pulse for Enabling Tech (updated 2026-05-12).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">179</span><span class="label">Companies</span></div>

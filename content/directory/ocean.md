@@ -30,6 +30,7 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 
 ## History
 
+- **2026-05-12** — news mention: Frontier buyers sign $31M deal with Planetary to advance ocean alkalinity enhancement ([source](https://frontierclimate.com/writing/planetary))
 - **2026-05-11** — news mention: 🧵 A $50M ocean startup raised serious money, built real technology, and delivered on every contract  ([source](https://x.com/MickH_W/status/2053804970387075432))
 - **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
 - **2026-05-11** — news mention: Take: The Future of Marine CDR: Scaling Ocean Alkalinity Enhancement with Planetary ([source](https://captaindrawdown.com/posts/yt-take-the-future-of-marine-cdr-scaling-ocean-alkalinity-enhancemen-qpq2v2hr/))
@@ -59,7 +60,6 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 - **2026-04-23** — news mention: PML Applications at Carbon to Sea Annual Convening 2026 ([source](https://pml-applications.co.uk/news/carbon-to-sea-2026/))
 - **2026-04-23** — news mention: High frequency in situ total alkalinity measurement for monitoring ocean alkalinity enhancement fiel ([source](https://www.nature.com/articles/s44172-026-00665-w))
 - **2026-04-23** — news mention: High-Frequency Alkalinity Monitoring in Ocean Enhancement Trials ([source](https://bioengineer.org/high-frequency-alkalinity-monitoring-in-ocean-enhancement-trials/))
-- **2026-04-22** — news mention: AI just revealed ocean currents we’ve never been able to see ([source](http://www.sciencedaily.com/releases/2026/04/260421042803.htm))
 
 ---
 

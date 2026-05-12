@@ -40,6 +40,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-12** — news mention: #enhancedrockweathering #intemperismoaceleradoderocha #erw #carboncredits #climatescience #sustainab ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7459648928997740544/))
 - **2026-05-07** — news mention: #terradot #enhancedrockweathering #erw #sbce #carbonremoval #carbondioxideremoval #carbonmarkets #cl ([source](https://www.linkedin.com/feed/update/urn:li:share:7457543582615511040/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

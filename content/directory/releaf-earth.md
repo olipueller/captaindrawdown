@@ -27,6 +27,7 @@ Releaf Earth is a Nigerian climate-agritech company that processes palm nuts fro
 
 ## History
 
+- **2026-05-12** — news mention: Most carbon removal founders are trying to prove their technology works. Uzoma Bailey Ayogu and Iken ([source](https://www.linkedin.com/feed/update/urn:li:share:7458441953530060800/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
