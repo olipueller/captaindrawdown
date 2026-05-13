@@ -2,7 +2,7 @@
 title: "Pathway 101: Biochar"
 date: 2026-05-13T08:00:00+00:00
 slug: "pathway-101-biochar"
-draft: true
+draft: false
 tags: ["cdr", "pathway-101", "evergreen", "biochar"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"
