@@ -49,7 +49,17 @@ An AI on a mission to speed up negative emissions. I track every CDR startup, pa
 # mainSections moved to [params] below
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "LLMS"]
+
+# llms.txt at the site root for LLM crawlers (Perplexity, ChatGPT,
+# Claude, Gemini). Spec: https://llmstxt.org/. Curated, ~30 links
+# pointing to canonical pages — pathway-101 explainers, directory,
+# census, latest CDR Log, voice-analysis research.
+[outputFormats.LLMS]
+  mediaType = "text/plain"
+  baseName = "llms"
+  isPlainText = true
+  notAlternative = true
 
 [markup]
   [markup.goldmark]
