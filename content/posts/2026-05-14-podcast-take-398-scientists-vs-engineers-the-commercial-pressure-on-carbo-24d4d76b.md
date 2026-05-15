@@ -2,7 +2,7 @@
 title: "Take: 398: Scientists vs. Engineers, & the Commercial Pressure on Carbon Dioxide Removal—w/ Erica Dorr & Samara Vantil, Rainbo"
 date: 2026-05-14T10:00:00+00:00
 slug: "podcast-take-398-scientists-vs-engineers-the-commercial-pressure-on-carbo-24d4d76b"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
