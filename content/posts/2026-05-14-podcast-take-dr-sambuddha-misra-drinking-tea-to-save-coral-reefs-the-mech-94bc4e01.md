@@ -2,7 +2,7 @@
 title: "Take: Dr. Sambuddha Misra: Drinking Tea to Save Coral Reefs? The Mechanics of Enhanced Rock Weathering in Darjeeling | S5E5"
 date: 2026-05-14T10:00:00+00:00
 slug: "podcast-take-dr-sambuddha-misra-drinking-tea-to-save-coral-reefs-the-mech-94bc4e01"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reef-roundup:-🪸coral-reefs🐠-and-🐙marine-conservation🦈"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

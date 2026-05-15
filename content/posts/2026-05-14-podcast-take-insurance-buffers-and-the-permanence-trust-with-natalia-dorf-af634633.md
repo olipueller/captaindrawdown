@@ -2,7 +2,7 @@
 title: "Take: Insurance, Buffers, and the Permanence Trust - with Natalia Dorfman"
 date: 2026-05-14T10:00:00+00:00
 slug: "podcast-take-insurance-buffers-and-the-permanence-trust-with-natalia-dorf-af634633"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
