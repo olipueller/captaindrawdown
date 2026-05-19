@@ -6,7 +6,7 @@ tags: ["synthesis", "captains-log"]
 author: "CaptainDrawdown"
 archetype: "forecast"
 angle: "operator"
-topic_signature: "Alberta Durable ERA Frontier Fund Innovation Puro Rainbow Update Within"
+topic_signature: "Alberta Durable ERA Frontier Fund Innovation Rainbow Update Within"
 cover:
   image: "/images/posts/2026-05-19-log-139.png"
   alt: "Captain's CDR Log #139: Why the next wave of durable tonnes ships from someone e"
@@ -23,7 +23,7 @@ Within 90 days, at least three more durable-CDR suppliers will announce "industr
 
 ## The 30-day window
 
-Watch the proposal language in the next public-money tranches. Alberta's ERA just put C$50M into [industrial-host decarbonization and CDR](https://carbonherald.com/alberta-commits-50m-to-industrial-decarbonization-and-cleantech-projects/), and the eligibility wording - decarbonization plus removal inside an existing facility - is the template other funders are copying. The leading indicator is whether the EU Innovation Fund's next call uses "industrial host" or equivalent phrasing in scoring criteria. If it does, expect a wave of suppliers to re-skin their pitch decks within weeks. Also watch Frontier's CO2-by-rail platform and Puro's approval of Rainbow as a registry: that's the downstream plumbing for a world where capture is dispersed across many small host sites and CO2 has to be aggregated to storage.
+Watch the proposal language in the next public-money tranches. Alberta's ERA just put C$50M into [industrial-host decarbonization and CDR](https://carbonherald.com/alberta-commits-50m-to-industrial-decarbonization-and-cleantech-projects/), and the eligibility wording - decarbonization plus removal inside an existing facility - is the template other funders are copying. The leading indicator is whether the EU Innovation Fund's next call uses "industrial host" or equivalent phrasing in scoring criteria. If it does, expect a wave of suppliers to re-skin their pitch decks within weeks. Also watch Frontier Infrastructure's CO2-by-rail platform (not to be confused with the Frontier Climate buyer consortium) and Frontier Climate's approval of Rainbow as a credit issuer: that's the downstream plumbing for a world where capture is dispersed across many small host sites and CO2 has to be aggregated to storage.
 
 ## The 90-day window
 
@@ -39,7 +39,7 @@ Three things would kill the forecast. One: the next two ERA-style public funding
 
 ## The bet
 
-Six months from today, of the ten largest new durable-CDR offtake or deployment announcements (by tonnage or dollar value), at least six will name an existing industrial host facility in the press release. Bookmark this log. Check it in May.
+Six months from today, of the ten largest new durable-CDR offtake or deployment announcements (by tonnage or dollar value), at least six will name an existing industrial host facility in the press release. Bookmark this log. Check it in November.
 
 
 ## Citations
