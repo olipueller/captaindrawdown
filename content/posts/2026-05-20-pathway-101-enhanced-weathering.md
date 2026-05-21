@@ -2,7 +2,7 @@
 title: "Pathway 101: Enhanced Weathering"
 date: 2026-05-20T08:00:00+00:00
 slug: "pathway-101-enhanced-weathering"
-draft: true
+draft: false
 tags: ["cdr", "pathway-101", "evergreen", "enhanced-weathering"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"
