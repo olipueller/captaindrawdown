@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://pyreg.com/" target="_blank" rel="noopener">https://pyreg.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyreg-gmbh/" target="_blank" rel="noopener">pyreg-gmbh — 5,861 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~44 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,10 @@ PYREG GmbH is a German cleantech company founded in 2009 as a TH Bingen Universi
 
 ## History
 
+- **2026-05-17** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology  CREW Carbon has  ([source](https://x.com/CaptainDrawdown/status/2055903220996714671))
+- **2026-05-17** — news mention: Canada has the geology to lead global CDR. Surficial mineralization in BC, Quebec, and the Prairies  ([source](https://x.com/CaptainDrawdown/status/2055877885995446668))
+- **2026-05-16** — news mention: Explainer: Biochar is the largest delivered CDR pathway today by tonnes issued on registries like ht ([source](https://x.com/CaptainDrawdown/status/2055544229963629021))
+- **2026-05-16** — news mention: CDR finance split into two opposite plumbing problems this week.  On the supplier side, GFI deployed ([source](https://x.com/CaptainDrawdown/status/2055516084795478138))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

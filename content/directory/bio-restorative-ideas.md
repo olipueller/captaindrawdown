@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a 5-train ARTi pyrolysis reactor at the Antigua Central Eureka site in Hormigueros, Puerto Rico, converting bamboo (Bambusa vulgaris) residues into biochar for soil application and carbon"
 url: "/directory/bio-restorative-ideas/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Puerto Rico</td></tr>
   <tr><th>Website</th><td><a href="https://bri.earth/" target="_blank" rel="noopener">https://bri.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bio-restorative-ideas-llc/" target="_blank" rel="noopener">bio-restorative-ideas-llc</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer that transfo
 
 ## History
 
+- **2026-05-22** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/bio-restorative-ideas/__izSsxVBTDyidnC5QquHTc8oP4jrX7VY_dlkO7USseoQ))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://bri.earth/))

@@ -30,6 +30,7 @@ Carbon Engineering is a Canadian DAC technology developer headquartered in Squam
 
 ## History
 
+- **2026-05-13** — news mention: The Negative Emissions Summit 2026 is just weeks away and our 4th edition is shaping up to be our bi ([source](https://www.linkedin.com/feed/update/urn:li:share:7459642942765383680/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — news mention: As part of Carbon Engineering’s (CE) earth month activities, the team came together for an afternoon ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455697369603514369/))
 - **2026-04-24** — news mention: 1PointFive - 2026 Company Profile, Team, Funding & Competitors - Tracxn ([source](https://tracxn.com/d/companies/1pointfive/__j1A8Bl4Dvpqzj2ZoKWjLOq3ugJabICgxasKvcf7xBdY))

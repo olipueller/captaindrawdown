@@ -44,6 +44,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-22** — news mention: Deep Sky And Lufthansa Group Enter Carbon Removal Credit Agreement - Canadian Manufacturing ([source](https://www.canadianmanufacturing.com/manufacturing/deep-sky-and-lufthansa-group-enter-carbon-removal-credit-agreement-318932/))
+- **2026-05-22** — news mention: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa Gr ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
+- **2026-05-22** — news mention: Deep Sky Carbon Capture 2025, $3M Shell Agreement ([source](https://enkiai.com/canada-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
+- **2026-05-21** — news mention: Deep Sky and Lufthansa Group Enter Carbon Removal Credit Agreement ([source](http://www.prnewswire.com/news-releases/deep-sky-and-lufthansa-group-enter-carbon-removal-credit-agreement-302779193.html))
+- **2026-05-21** — news mention: What is Driving the Growth of the Carbon Removal Technology Market (2026-2034)? ([source](https://www.openpr.com/news/4522042/what-is-driving-the-growth-of-the-carbon-removal-technology))
+- **2026-05-19** — news mention: A Canadian Model For Tech-Agnostic Direct Air Capture - The Energy Pioneer ([source](https://theenergypioneer.com/a-canadian-model-for-tech-agnostic-direct-air-capture/))
 - **2026-05-10** — news mention: France’s ENGIE Agrees to Buy 15K DAC Carbon Removal Credits From Deep Sky - ([source](https://www.esgtimes.in/climate/carbon/frances-engie-agrees-to-buy-15k-dac-carbon-removal-credits-from-deep-sky/))
 - **2026-05-05** — news mention: Deep Sky, ENGIE Partner to Scale Direct Air Capture Carbon Removal - ESG News ([source](https://esgnews.com/deep-sky-engie-partner-to-scale-direct-air-capture-carbon-removal/))
 - **2026-05-01** — news mention: Deep Sky Announces Partnership to Advance Direct Air Capture with ENGIE – Weekly Voice ([source](https://weeklyvoice.com/deep-sky-announces-partnership-to-advance-direct-air-capture-with-engie/))

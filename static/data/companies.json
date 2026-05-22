@@ -420,10 +420,10 @@
     "employee_count_inferred": 32,
     "linkedin_followers": 2534,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "Biochar",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -1112,11 +1112,11 @@
     "description": "Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of specialty alcohols, renewable fuels and essential ingredients headquartered in Pekin, Illinois. The company signed a CO2 Transportation and Sequestration Agreement with Vault 44.01 in November 2024 to capture ~600,000 metric tons/year of biogenic CO2 from corn fermentation at its Pekin campus and store it in the Mt. Simon sandstone formation, though Illinois SB 1723 has delayed the project with first revenues potentially pushed to 2029-2030. CCS is an adjacent initiative to the company's core ethanol/specialty alcohol business.",
     "cdr_focus": "side_business",
     "cdi_portfolio": false,
-    "health_tier": "🟡 Moderate",
-    "health_score": 55,
+    "health_tier": "🟢 Active",
+    "health_score": 75,
     "pathway_primary": "BECCS",
-    "liveliness_tier": "🟡 Moderate",
-    "liveliness_score": 55,
+    "liveliness_tier": "🟢 Active",
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -1215,11 +1215,11 @@
     "description": "Anew Climate is a Houston-based carbon project developer and credit marketer, majority-owned by TPG Rise Climate, formed from the 2022 merger of Element Markets and Bluesource. The company originates, develops, and markets environmental credits across nature-based CDR (Improved Forest Management, soil carbon, afforestation) and technology-based pathways (BECCS via Summit Carbon Solutions), along with low-carbon fuels (RNG/Bio-LNG) and RECs. It operates primarily as an originator/marketer rather than a direct removal-technology operator, making it a major player in the CDR ecosystem.",
     "cdr_focus": "ecosystem",
     "cdi_portfolio": false,
-    "health_tier": "🔴 Likely Dead",
-    "health_score": 15,
+    "health_tier": "🟢 Active",
+    "health_score": 75,
     "pathway_primary": "Afforestation",
-    "liveliness_tier": "🔴 Likely Dead",
-    "liveliness_score": 15,
+    "liveliness_tier": "🟢 Active",
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -1604,11 +1604,11 @@
     "description": "Arigna Fuels is a fifth-generation Irish family-run solid fuel manufacturer (part of Arigna Group) historically known for smokeless coal brands Ecobrite and Cosyglo. In 2023 they commissioned one of Europe's largest biochar plants in Co. Roscommon, using pyrolysis to produce biochar for agriculture, carbon sequestration, and as feedstock for their Harvest Flame renewable biomass heating product. Solid fuel remains a core business alongside the biochar activities.",
     "cdr_focus": "side_business",
     "cdi_portfolio": false,
-    "health_tier": "🟡 Moderate",
-    "health_score": 55,
+    "health_tier": "🟠 Suspect",
+    "health_score": 40,
     "pathway_primary": "Biochar",
-    "liveliness_tier": "🟡 Moderate",
-    "liveliness_score": 55,
+    "liveliness_tier": "🟠 Suspect",
+    "liveliness_score": 40,
     "cdrjobs_job_count": 0
   },
   {
@@ -1779,11 +1779,11 @@
     "employee_count": 1,
     "employee_count_inferred": 1,
     "linkedin_followers": 0,
-    "health_tier": "🟠 Suspect",
-    "health_score": 40,
+    "health_tier": "🟢 Active",
+    "health_score": 75,
     "pathway_primary": "BECCS",
-    "liveliness_tier": "🟠 Suspect",
-    "liveliness_score": 40,
+    "liveliness_tier": "🟢 Active",
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -1908,10 +1908,10 @@
     "employee_growth_yoy": 3.571428571428571,
     "linkedin_followers": 1032,
     "health_tier": "🟢 Active",
-    "health_score": 70,
+    "health_score": 75,
     "pathway_primary": "Biochar",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 70,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -2322,10 +2322,10 @@
     "employee_growth_yoy": 25.0,
     "linkedin_followers": 258,
     "health_tier": "🟢 Active",
-    "health_score": 70,
+    "health_score": 75,
     "pathway_primary": "DAC",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 70,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -2428,11 +2428,11 @@
     "employee_count": 4,
     "employee_count_inferred": 4,
     "linkedin_followers": 0,
-    "health_tier": "🟠 Suspect",
-    "health_score": 40,
+    "health_tier": "🔴 Likely Dead",
+    "health_score": 15,
     "pathway_primary": "Biochar",
-    "liveliness_tier": "🟠 Suspect",
-    "liveliness_score": 40,
+    "liveliness_tier": "🔴 Likely Dead",
+    "liveliness_score": 15,
     "cdrjobs_job_count": 0
   },
   {
@@ -3560,11 +3560,11 @@
     "employee_count": 1,
     "employee_growth_yoy": 0.0,
     "linkedin_followers": 1846,
-    "health_tier": "🟡 Moderate",
-    "health_score": 55,
+    "health_tier": "🟢 Active",
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
-    "liveliness_tier": "🟡 Moderate",
-    "liveliness_score": 55,
+    "liveliness_tier": "🟢 Active",
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -3747,10 +3747,10 @@
     "employee_growth_yoy": 37.5,
     "linkedin_followers": 3992,
     "health_tier": "🟢 Active",
-    "health_score": 70,
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 70,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -4430,10 +4430,10 @@
     "employee_growth_yoy": 33.33333333333333,
     "linkedin_followers": 324,
     "health_tier": "🟢 Active",
-    "health_score": 70,
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 70,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -4708,10 +4708,10 @@
     "employee_growth_yoy": 50.0,
     "linkedin_followers": 0,
     "health_tier": "🟢 Active",
-    "health_score": 70,
+    "health_score": 75,
     "pathway_primary": "Biochar",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 70,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -4968,10 +4968,10 @@
     "employee_growth_yoy": 66.66666666666666,
     "linkedin_followers": 5538,
     "health_tier": "🟢 Active",
-    "health_score": 70,
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 70,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -4988,11 +4988,11 @@
     "employee_count": 3,
     "employee_count_inferred": 4,
     "linkedin_followers": 473,
-    "health_tier": "🔴 Likely Dead",
-    "health_score": 15,
+    "health_tier": "🟢 Active",
+    "health_score": 75,
     "pathway_primary": "Biochar",
-    "liveliness_tier": "🔴 Likely Dead",
-    "liveliness_score": 15,
+    "liveliness_tier": "🟢 Active",
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -5094,10 +5094,10 @@
     "employee_count_inferred": 4,
     "linkedin_followers": 5759,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -5155,11 +5155,11 @@
     "description": "Carbon Unbound is a CDR-focused events organization that runs the Carbon Unbound Europe and Carbon Unbound USA summits, bringing together business leaders, investors, buyers and policymakers in the carbon removal industry. They also run Buyers' Workshop series and industry showcases. Their main business is convening the CDR ecosystem, not removing carbon themselves.",
     "cdr_focus": "ecosystem",
     "cdi_portfolio": false,
-    "health_tier": "🟡 Moderate",
-    "health_score": 55,
+    "health_tier": "🟢 Active",
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
-    "liveliness_tier": "🟡 Moderate",
-    "liveliness_score": 55,
+    "liveliness_tier": "🟢 Active",
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -5243,10 +5243,10 @@
     "employee_count_inferred": 28,
     "linkedin_followers": 13777,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -5841,11 +5841,11 @@
     "employee_count": 0,
     "employee_growth_yoy": -100.0,
     "linkedin_followers": 0,
-    "health_tier": "🟡 Moderate",
-    "health_score": 55,
+    "health_tier": "🟠 Suspect",
+    "health_score": 40,
     "pathway_primary": "Biochar",
-    "liveliness_tier": "🟡 Moderate",
-    "liveliness_score": 55,
+    "liveliness_tier": "🟠 Suspect",
+    "liveliness_score": 40,
     "cdrjobs_job_count": 0
   },
   {
@@ -5864,10 +5864,10 @@
     "employee_growth_yoy": -35.0,
     "linkedin_followers": 2261,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -6270,10 +6270,10 @@
     "employee_growth_yoy": -10.0,
     "linkedin_followers": 4224,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "Mineralization",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -6548,11 +6548,11 @@
     "employee_count_inferred": 5,
     "employee_growth_yoy": -72.72727272727273,
     "linkedin_followers": 1012,
-    "health_tier": "🟠 Suspect",
-    "health_score": 40,
+    "health_tier": "🔴 Likely Dead",
+    "health_score": 15,
     "pathway_primary": "DAC",
-    "liveliness_tier": "🟠 Suspect",
-    "liveliness_score": 40,
+    "liveliness_tier": "🔴 Likely Dead",
+    "liveliness_score": 15,
     "cdrjobs_job_count": 0
   },
   {
@@ -7163,10 +7163,10 @@
     "employee_count_inferred": 13,
     "linkedin_followers": 5103,
     "health_tier": "🟢 Active",
-    "health_score": 85,
+    "health_score": 100,
     "pathway_primary": "Biochar",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 85,
+    "liveliness_score": 100,
     "cdrjobs_job_count": 2
   },
   {
@@ -8591,11 +8591,11 @@
     "employee_count": 1,
     "employee_count_inferred": 1,
     "linkedin_followers": 182,
-    "health_tier": "🟡 Moderate",
-    "health_score": 55,
+    "health_tier": "🟠 Suspect",
+    "health_score": 40,
     "pathway_primary": "Biochar",
-    "liveliness_tier": "🟡 Moderate",
-    "liveliness_score": 55,
+    "liveliness_tier": "🟠 Suspect",
+    "liveliness_score": 40,
     "cdrjobs_job_count": 0
   },
   {
@@ -9290,10 +9290,10 @@
     "employee_count_inferred": 12,
     "linkedin_followers": 2245,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "BECCS",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -10928,11 +10928,11 @@
     "description": "The Italian Carbon Removal Network (Rete Italiana Rimozione Carbonio, RIRC) is Italy's first dedicated national carbon removal industry network, launched on 14 April 2026 in Padova during Padova Climate Action Week in collaboration with the Negative Emissions Platform (NEP). It serves as a coordinating industry body connecting supply and demand players in the Italian CDR sector, promoting governance and aligning efforts with EU carbon removal policy — analogous to France's AFEN, Germany's DVNE, and the Nordic NCRA.",
     "cdr_focus": "ecosystem",
     "cdi_portfolio": false,
-    "health_tier": "🟡 Moderate",
-    "health_score": 55,
+    "health_tier": "🟢 Active",
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
-    "liveliness_tier": "🟡 Moderate",
-    "liveliness_score": 55,
+    "liveliness_tier": "🟢 Active",
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -12679,10 +12679,10 @@
     "employee_count_inferred": 7,
     "linkedin_followers": 526,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "Biochar",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -13642,10 +13642,10 @@
     "employee_growth_yoy": -7.8431372549019605,
     "linkedin_followers": 20659,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -14596,10 +14596,10 @@
     "employee_growth_yoy": -8.333333333333332,
     "linkedin_followers": 5861,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "Biochar",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -15169,11 +15169,11 @@
     "description": "Releaf Earth is a Nigerian climate-agritech company that processes palm nuts from smallholder farmers using its proprietary Kraken de-sheller, producing palm oil products while converting the resulting palm kernel shell waste into biochar via pyrolysis. In May 2025 it launched Nigeria's first industrial-scale biochar carbon removal facility in Iwuru, Cross River State, targeting 40 ktCO2e removal by 2030, with credits verified through the Riverse registry. The company is backed by Y Combinator, Breakthrough Energy Ventures, and AirMiners.",
     "cdr_focus": "side_business",
     "cdi_portfolio": false,
-    "health_tier": "🟡 Moderate",
-    "health_score": 55,
+    "health_tier": "🟢 Active",
+    "health_score": 75,
     "pathway_primary": "Biochar",
-    "liveliness_tier": "🟡 Moderate",
-    "liveliness_score": 55,
+    "liveliness_tier": "🟢 Active",
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -15231,11 +15231,11 @@
     "description": "Remove Carbon Today is an online retail storefront that enables individuals to purchase certified, durable carbon removal credits. It aggregates small customer purchases and retires Puro.earth CO₂ Removal Certificates (CORCs) on their behalf, sourcing removals from third-party supplier partners. The company does not operate its own removal technology.",
     "cdr_focus": "ecosystem",
     "cdi_portfolio": false,
-    "health_tier": "🟡 Moderate",
-    "health_score": 55,
+    "health_tier": "🟢 Active",
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
-    "liveliness_tier": "🟡 Moderate",
-    "liveliness_score": 55,
+    "liveliness_tier": "🟢 Active",
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -15428,10 +15428,10 @@
     "employee_growth_yoy": 33.33333333333333,
     "linkedin_followers": 1686,
     "health_tier": "🟢 Active",
-    "health_score": 70,
+    "health_score": 75,
     "pathway_primary": "Biochar",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 70,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -16382,10 +16382,10 @@
     "employee_growth_yoy": -7.6923076923076925,
     "linkedin_followers": 8424,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -16470,10 +16470,10 @@
     "employee_growth_yoy": 24.59935326252487,
     "linkedin_followers": 7625535,
     "health_tier": "🟢 Active",
-    "health_score": 70,
+    "health_score": 75,
     "pathway_primary": "DAC",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 70,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -17414,11 +17414,11 @@
     "employee_count_inferred": 5,
     "employee_growth_yoy": 0.0,
     "linkedin_followers": 2757,
-    "health_tier": "🟡 Moderate",
-    "health_score": 55,
+    "health_tier": "🟢 Active",
+    "health_score": 75,
     "pathway_primary": "DAC",
-    "liveliness_tier": "🟡 Moderate",
-    "liveliness_score": 55,
+    "liveliness_tier": "🟢 Active",
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -18160,10 +18160,10 @@
     "employee_growth_yoy": 40.0,
     "linkedin_followers": 1540,
     "health_tier": "🟢 Active",
-    "health_score": 70,
+    "health_score": 75,
     "pathway_primary": "Biochar",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 70,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -19679,10 +19679,10 @@
     "employee_growth_yoy": 42.44186046511628,
     "linkedin_followers": 15804,
     "health_tier": "🟢 Active",
-    "health_score": 70,
+    "health_score": 75,
     "pathway_primary": "Enabling Tech",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 70,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -19775,10 +19775,10 @@
     "employee_count_inferred": 6,
     "linkedin_followers": 399,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "Mineralization",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {
@@ -20311,10 +20311,10 @@
     "employee_growth_yoy": -15.760869565217392,
     "linkedin_followers": 27233,
     "health_tier": "🟢 Active",
-    "health_score": 65,
+    "health_score": 75,
     "pathway_primary": "Biochar",
     "liveliness_tier": "🟢 Active",
-    "liveliness_score": 65,
+    "liveliness_score": 75,
     "cdrjobs_job_count": 0
   },
   {

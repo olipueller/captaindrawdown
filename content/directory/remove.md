@@ -30,6 +30,16 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
+- **2026-05-21** — news mention: Republicans want federal regulators to remove the requirement for Clean Air Act permits before const ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmejwz5qn22f))
+- **2026-05-21** — news mention: Enhanced rock weathering: Potential UK greenhouse gas removal - POST ([source](https://post.parliament.uk/research-briefings/post-pn-0726/))
+- **2026-05-21** — news mention: In a series we present you our members and their solutions for carbon dioxide removal (CDR). This ti ([source](https://www.linkedin.com/feed/update/urn:li:share:7462449426238885889/))
+- **2026-05-16** — news mention: Soil carbon in cotton systems is interesting but tricky for CDR claims. Reversal risk is high under  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlxhkyjeul27))
+- **2026-05-15** — news mention: State offers minimum of $2.5M each for carbon 'direct air capture' projects | News | bakersfield.com ([source](https://www.bakersfield.com/news/state-offers-minimum-of-2-5m-each-for-carbon-direct-air-capture-projects/article_3fa73299-78f6-4e18-bf48-726cd76b6457.amp.html))
+- **2026-05-15** — news mention: I've done everything I can in my life to remove myself from these people. They are an aberration, ir ([source](https://bsky.app/profile/aarnegranlund.bsky.social/post/3mlwce5fv7c26))
+- **2026-05-14** — news mention: Carbon sequestration - Wikipedia ([source](https://en.wikipedia.org/wiki/Carbon_sequestration))
+- **2026-05-14** — news mention: Spotlight on Carbon: Understanding the new wave of CO2 removal projects - On demand | BusinessGreen  ([source](https://www.businessgreen.com/sponsored/4529748/spotlight-carbon-understanding-wave-co2-removal-projects-demand))
+- **2026-05-12** — news mention: Innovative Engineering: Driving Sustainability and Shaping the Future • The Naptime Reviewer ([source](https://www.thenaptimereviewer.com/2026/05/innovative-engineering-driving-sustainability-and-shaping-the-future.html))
+- **2026-05-12** — news mention: How governments could fund permanent carbon removal now and shift costs by 2035 ([source](https://phys.org/news/2026-05-fund-permanent-carbon-shift.html))
 - **2026-05-12** — news mention: New Platform Lets Individuals Buy Verified Carbon Removal With Registry Proof ([source](https://carbonherald.com/platform-individuals-buy-verified-carbon-removal-registry-proof/?utm_source=rss&utm_medium=rss&utm_campaign=platform-individuals-buy-verified-carbon-removal-registry-proof))
 - **2026-05-12** — news mention: Meghalaya launches first community biochar carbon-removal unit in Ri Bhoi ([source](https://hubnetwork.in/meghalaya-launches-first-community-biochar-carbon-removal-unit-in-ri-bhoi/))
 - **2026-05-11** — news mention: Meghalaya CM: Farmers' Income Top Priority with New Biochar Plant ([source](https://www.newkerala.com/news/a/increasing-farmers-income-top-priority-government-meghalaya-cm-661.htm))
@@ -50,16 +60,6 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 - **2026-05-02** — news mention: 6 Ways to Remove Carbon Pollution from the Atmosphere ([source](https://go.wri.org/carbon-removal))
 - **2026-05-01** — news mention: Octopus Energy Generation signs $500m carbon removal deal - edie ([source](https://www.edie.net/octopus-energy-generation-signs-500m-carbon-removal-deal/))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — news mention: Octopus Energy makes 'landmark' announcement for all 10 million customers - Birmingham Live ([source](https://www.birminghammail.co.uk/news/cost-of-living/octopus-energy-makes-landmark-announcement-33867237))
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-04-30** — news mention: Leaning on uncertainty​ - Carbon Market Watch ([source](https://carbonmarketwatch.org/publications/leaning-on-uncertainty/))
-- **2026-04-29** — news mention: Trust-SSL: Additive-Residual Selective Invariance for Robust Aerial Self-Supervised Learning ([source](https://arxiv.org/abs/2604.21349v1))
-- **2026-04-28** — news mention: I believe that U.S. auto manufacturers should have waited to try to build electric trucks and should ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkkxczxt2k2v))
-- **2026-04-28** — news mention: Carbon Direct and Arca announce collaboration on Industrial Mineralization technology | Carbon Direc ([source](https://www.carbon-direct.com/press/carbon-direct-and-arca-announce-collaboration-on-industrial-mineralization-technology))
-- **2026-04-27** — news mention: How is the UK Decarbonising AI Data Centre Growth? | Data Centre Magazine ([source](https://datacentremagazine.com/news/how-is-the-uk-decarbonising-ai-data-centre-growth))
-- **2026-04-27** — news mention: What We Really Mean by “The Massive Scale” Required for CDR in Climate Goals - RMI ([source](https://rmi.org/what-we-real..))
 
 ---
 

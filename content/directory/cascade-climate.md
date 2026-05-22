@@ -35,6 +35,14 @@ Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) 
 
 ## History
 
+- **2026-05-15** — news mention: Enhanced rock weathering is being sold by the ton today while the science to verify those tons is st ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlukhckpqx2u))
+- **2026-05-14** — news mention: Cascade Climate To Fortify ERW Scientific Evidence With New Global Bedrock Initiative ([source](https://carbonherald.com/cascade-climate-to-fortify-erw-scientific-evidence-with-new-global-bedrock-initiative/?utm_source=rss&utm_medium=rss&utm_campaign=cascade-climate-to-fortify-erw-scientific-evidence-with-new-global-bedrock-initiative))
+- **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
+- **2026-05-13** — news mention: Bedrock Initiative | Cascade Climate  https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
+- **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends  CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))
+- **2026-05-13** — news mention: Bedrock Initiative targets ERW ([source](https://www.captaindrawdown.com/posts/bedrock-initiative-cascade-climate/))
+- **2026-05-13** — news mention: Cascade Climate ([source](http://cascadeclimate.org/bedrock-initiative))
+- **2026-05-12** — news mention: Bedrock Initiative | Cascade Climate ([source](https://www.linkedin.com/feed/update/urn:li:share:7459766889116930051/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

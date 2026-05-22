@@ -5,7 +5,7 @@ type: "directory"
 description: "Government-funded multi-consortium research program investigating land-based CDR pathways (afforestation, BECCS, biochar, enhanced weathering, DACCS, soil carbon) and their policy implications for"
 url: "/directory/cdrterra/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://cdrterra.de/en/" target="_blank" rel="noopener">https://cdrterra.de/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdrterra/" target="_blank" rel="noopener">cdrterra — 1,846 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~125 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,9 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 
 ## History
 
+- **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-21** — news mention: #cdr #carbondioxideremoval #klimaschutz #wissenstransfer | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7462876992414289920/))
+- **2026-05-19** — news mention: BioFleCCS - CDRterra ([source](https://cdrterra.de/consortia/biofleccs/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

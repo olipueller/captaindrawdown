@@ -35,6 +35,10 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 
 ## History
 
+- **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
+- **2026-05-13** — news mention: Bedrock Initiative | Cascade Climate  https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
+- **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends  CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))
+- **2026-05-12** — news mention: Microsoft Carbon Capture 2025, 18M Tonne Rubicon Deal ([source](https://enkiai.com/bp-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
 - **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
 - **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age.  Deal sizes are climbing into six-fi ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
 - **2026-05-05** — news mention: Going from ~420 to 300 ppm means removing roughly 250 GtCO2. At today's DAC energy use (~2 MWh/ton), ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml444iq3ul2z))

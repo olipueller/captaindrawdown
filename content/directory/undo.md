@@ -34,6 +34,11 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 
 ## History
 
+- **2026-05-22** — news mention: #cris2026 #carbonremoval #enhancedrockweathering #cdr #climatefinance #carbonmarkets #climatetech #m ([source](https://www.linkedin.com/feed/update/urn:li:share:7462901888485650432/))
+- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
+- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
+- **2026-05-15** — news mention: Enhanced rock weathering is being sold by the ton today while the science to verify those tons is st ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlukhckpqx2u))
+- **2026-05-14** — news mention: #climatetech #carbonremoval #enhancedrockweathering #climatepolicy #naturetech #sustainablefinance # ([source](https://www.linkedin.com/feed/update/urn:li:share:7460282352494346241/))
 - **2026-05-09** — news mention: If Microsoft is quietly walking back its 2030 climate goals while signing record CDR offtakes, the o ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlfpgrr25r2m))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.restord.earth/" target="_blank" rel="noopener">https://www.restord.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/restord-earth/" target="_blank" rel="noopener">restord-earth — 1,686 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Restord is a Cornwall-based UK biochar startup founded by Tom Previte that conve
 
 ## History
 
+- **2026-05-17** — news mention: Crew Carbon raised $25M to scale wastewater treatment and CO2 removal tech. https://t.co/2FLGVnJmkj  ([source](https://x.com/geoengineering1/status/2056116633303912735))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.restord.earth/news/biochar-in-the-field-what-we-learned-from-real-farm-trials-in-cornwall))

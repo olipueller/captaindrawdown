@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Website</th><td><a href="https://www.beyondcaptur.com" target="_blank" rel="noopener">https://www.beyondcaptur.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beyond-captur/" target="_blank" rel="noopener">beyond-captur — 258 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Beyond Captur is a South Korea-based direct air capture startup developing elect
 
 ## History
 
+- **2026-05-14** — news mention: 🌍🇰🇪🇰🇷 From South Korea to Kenya,carbon removal collaboration is going global.
+
+This week, we had the ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460597675093139458/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.f6s.com/company/beyond-captur))

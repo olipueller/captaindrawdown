@@ -29,6 +29,7 @@ Stockholm Exergi is the municipal energy utility for the Stockholm region, provi
 
 ## History
 
+- **2026-05-14** — news mention: Mammoet to deploy PTC 140 DS at Beccs Stockholm - Heavy Lift & Project Forwarding International ([source](https://www.heavyliftpfi.com/projects/2026/05/13/mammoet-to-deploy-ptc-140-ds-at-beccs-stockholm/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-24** — news mention: Stockholm Exergi hoists football-field pipe bridge for 720k-ton BECCS plant ([source](https://www.captaindrawdown.com/posts/a-pipe-bridge-the-length-of-a-football-field-delivered-via-b/))

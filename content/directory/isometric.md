@@ -34,6 +34,13 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ## History
 
+- **2026-05-22** — news mention: CRCF, certified ([source](https://isometric.com/writing-articles/crcf-certified))
+- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
+- **2026-05-18** — news mention: Take: Dr. Sambuddha Misra: Drinking Tea to Save Coral Reefs? The Mechanics of Enhanced Rock Weatheri ([source](https://captaindrawdown.com/posts/podcast-take-dr-sambuddha-misra-drinking-tea-to-save-coral-reefs-the-mech-94bc4e01/))
+- **2026-05-18** — news mention: The AI Boom Needs Carbon Removal  The CEO of Climeworks argues in Heatmap News that carbon removal s ([source](https://x.com/CaptainDrawdown/status/2056268267589599562))
+- **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
+- **2026-05-13** — news mention: Bedrock Initiative | Cascade Climate  https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
+- **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends  CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))
 - **2026-05-12** — news mention: I understand the instinct. It sounds similar, but the analogy falls apart on inspection. ([source](https://x.com/dpaessler/status/2054185117765992576))
 - **2026-05-12** — news mention: Case Study: Vaulted Deep - Isometric ([source](https://isometric.com/case-studies/vaulted-deep))
 - **2026-05-12** — news mention: Isometric will be at Carbon Unbound East Coast. Here&amp;#39;s where you can find the team.
@@ -59,7 +66,6 @@ On stag ([source](https://www.linkedin.com/feed/update/urn:li:share:745850694646
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://isometric.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carboncredits.com/isometric-hits-100-supplier-milestone-with-flux-setting-new-standard-for-durable-carbon-removal/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

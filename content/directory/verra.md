@@ -29,6 +29,11 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 
 ## History
 
+- **2026-05-20** — news mention: Three biochar papers this week expose a pyrolysis-temperature fork the CDR credit market is ignoring ([source](https://x.com/CaptainDrawdown/status/2056964483990380953))
+- **2026-05-19** — news mention: Podcast: Natalia Dorfman (Kita CEO) on The CDR Policy Scoop with Eve Tamme and Sebastian Manhart, wa ([source](https://x.com/CaptainDrawdown/status/2056647673046814755))
+- **2026-05-19** — news mention: Post 1: 569 pure-play CDR companies, ~9,500 people total. This chart plots every one as a dot: found ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mm6tcfptlw27))
+- **2026-05-18** — news mention: Varaha & SAF Bangladesh Mark The Country’s First Agroforestry Credits Issued Under Verra’s Verified  ([source](https://carbonherald.com/varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard/?utm_source=rss&utm_medium=rss&utm_campaign=varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard))
+- **2026-05-16** — news mention: Verra Approves First Credits under DMRV Pilot for High-Frequency Issuances - Verra ([source](https://verra.org/verra-approves-first-credits-under-dmrv-pilot-for-high-frequency-issuances/))
 - **2026-05-06** — news mention: Live Carbon Prices Today, Carbon Price Charts • Carbon Credits ([source](https://carboncredits.com/carbon-prices-today/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

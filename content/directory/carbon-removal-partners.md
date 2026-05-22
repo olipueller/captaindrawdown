@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonremoval.partners" target="_blank" rel="noopener">https://www.carbonremoval.partners</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-partners/" target="_blank" rel="noopener">carbon-removal-partners — 5,538 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~10 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,9 @@ Carbon Removal Partners (CRP) is a Zurich-based venture capital firm exclusively
 
 ## History
 
+- **2026-05-21** — news mention: On the ground in APAC.
+This and next week, the Carbon Removal Partners team is spending time across  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7462855670489571328/))
+- **2026-05-17** — news mention: During the first-ever Climate Week Zurich, we convened a roundtable on “Opportunities for Heavy‑Emit ([source](https://www.linkedin.com/feed/update/urn:li:share:7461397778502479872/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonremoval.partners/))

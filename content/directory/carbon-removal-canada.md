@@ -30,6 +30,8 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 
 ## History
 
+- **2026-05-15** — news mention: TOCW Flagship Event - Carbon Solutions: Canada’s Competitive Edge · Luma ([source](https://luma.com/cpz1cjy8?tk=J9B3Hx))
+- **2026-05-14** — news mention: Carbon Removal Canada Welcomes Electricity Strategy, Urges Support for Removals ([source](https://carbonremoval.ca/press-release-carbon-removal-canada-welcomes-electricity-strategy-urges-ottawa-to-support-carbon-removal/))
 - **2026-05-11** — news mention: Carbon Removal Canada Newsletter Signup ([source](https://mailchi.mp/carbonremoval/newsletter-signup))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))

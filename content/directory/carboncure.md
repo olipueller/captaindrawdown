@@ -34,6 +34,9 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 
 ## History
 
+- **2026-05-21** — news mention: Republicans want federal regulators to remove the requirement for Clean Air Act permits before const ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmejwz5qn22f))
+- **2026-05-20** — news mention: CarbonCure Carbon Credits - CarbonCure Technologies Inc. ([source](https://www.carboncure.com/carbon-credits/))
+- **2026-05-20** — news mention: Happy #WorldBeeDay! 🐝 At #CarbonCure, we bee-lieve small changes build into big results. Over the pa ([source](https://x.com/CarbonCure/status/2057132812667416624))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

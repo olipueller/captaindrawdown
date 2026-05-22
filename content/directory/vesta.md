@@ -38,6 +38,7 @@ Vesta (formerly Project Vesta) is a San Francisco-based Public Benefit Corporati
 
 ## History
 
+- **2026-05-16** — news mention: Soil carbon in cotton systems is interesting but tricky for CDR claims. Reversal risk is high under  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlxhkyjeul27))
 - **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
 - **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that DACCS ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://en.wikipedia.org/wiki/Project_Vesta))

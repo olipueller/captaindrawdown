@@ -36,6 +36,7 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 
 ## History
 
+- **2026-05-13** — news mention: Meet the Carbonfuture team at these events in May! | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7459930827100082176/))
 - **2026-05-08** — news mention: #carbonremoval #cdr #climateweekzurich #cwz2026 #netzero #sustainability | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458165340045230080/))
 - **2026-05-07** — news mention: #climateweekzurich #projectfinance #infrastructurefinance #blendedfinance #climatefinance #carbonmar ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457795796906905601/))
 - **2026-05-03** — news mention: Directory feature: cdr-shops.com lists every durable CDR provider that will actually sell you small  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkwvlan2ol2v))

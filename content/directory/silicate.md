@@ -31,6 +31,11 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 
 ## History
 
+- **2026-05-22** — news mention: EGU 2026 | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463202751456374784/))
+- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
+- **2026-05-21** — news mention: Pathway 101: Enhanced Weathering ([source](https://captaindrawdown.com/posts/pathway-101-enhanced-weathering/))
+- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
+- **2026-05-13** — news mention: Bedrock Initiative targets ERW ([source](https://www.captaindrawdown.com/posts/bedrock-initiative-cascade-climate/))
 - **2026-05-03** — news mention: 20 Top Environmental Companies in Germany · August 2025 | F6S ([source](https://www.f6s.com/companies/environmental/germany/co))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -30,6 +30,8 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 
 ## History
 
+- **2026-05-14** — news mention: Mammoet to deploy PTC 140 DS at Beccs Stockholm - Heavy Lift & Project Forwarding International ([source](https://www.heavyliftpfi.com/projects/2026/05/13/mammoet-to-deploy-ptc-140-ds-at-beccs-stockholm/))
+- **2026-05-12** — news mention: Mammoet décroche le levage lourd du projet Beccs Stockholm ([source](https://jdlgroupe.com/2026/05/11/mammoet-decroche-le-levage-lourd-du-projet-beccs-stockholm/))
 - **2026-05-12** — news mention: Mammoet awarded heavy-lift scope for Beccs Stockholm | AJOT.COM ([source](https://www.ajot.com/news/mammoet-awarded-heavy-lift-scope-for-beccs-stockholm))
 - **2026-05-11** — news mention: Mammoet awarded heavy-lift scope for Beccs Stockholm - theenergyst.com ([source](https://theenergyst.com/mammoet-awarded-heavy-lift-scope-for-beccs-stockholm/))
 - **2026-05-01** — refresh: coresignal, screenshot

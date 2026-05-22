@@ -5,7 +5,7 @@ type: "directory"
 description: "National industry network/association coordinating Italian CDR stakeholders (startups, researchers, policymakers, investors) — not a technology developer or removal supplier itself."
 url: "/directory/italian-carbon-removal-network/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Website</th><td><a href="https://www.rirc.it" target="_blank" rel="noopener">https://www.rirc.it</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -27,6 +27,9 @@ The Italian Carbon Removal Network (Rete Italiana Rimozione Carbonio, RIRC) is I
 
 ## History
 
+- **2026-05-22** — refresh: liveliness
+- **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-15** — news mention: The Italian Carbon Removal Network is live ([source](https://www.negative-emissions.org/updates/the-italian-carbon-removal-network-is-live))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: screenshot, liveliness

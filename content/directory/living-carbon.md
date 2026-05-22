@@ -43,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-14** — news mention: Spotlight on Carbon: Understanding the new wave of CO2 removal projects - On demand | BusinessGreen  ([source](https://www.businessgreen.com/sponsored/4529748/spotlight-carbon-understanding-wave-co2-removal-projects-demand))
 - **2026-05-04** — news mention: $500M Carbon Bet: Octopus Energy Backs Massive U.S. Forest Carbon Removal Projects • Carbon Credits ([source](https://carboncredits.com/500m-carbon-bet-octopus-energy-backs-massive-u-s-forest-carbon-removal-projects/))
 - **2026-05-03** — news mention: RT @HPACoalition: Great effort!  Those most effected is precisely why cooling should start now:  htt ([source](https://x.com/geoengineering1/status/2051027429691641892))
 - **2026-05-02** — news mention: Octopus expands US presence with $500m carbon removal deal - Net Zero Investor - Net Zero Investor ([source](https://www.netzeroinvestor.net/news-and-views/briefs/octopus-expands-us-presence-with-500m-carbon-removal-deal))

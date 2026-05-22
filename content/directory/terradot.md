@@ -40,6 +40,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
+- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
+- **2026-05-13** — news mention: Next week, we&amp;#39;re hitting two of the most important events on the CDR calendar back to back.
+ ([source](https://www.linkedin.com/feed/update/urn:li:share:7459994858666213376/))
 - **2026-05-12** — news mention: #enhancedrockweathering #intemperismoaceleradoderocha #erw #carboncredits #climatescience #sustainab ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7459648928997740544/))
 - **2026-05-07** — news mention: #terradot #enhancedrockweathering #erw #sbce #carbonremoval #carbondioxideremoval #carbonmarkets #cl ([source](https://www.linkedin.com/feed/update/urn:li:share:7457543582615511040/))
 - **2026-05-01** — refresh: screenshot

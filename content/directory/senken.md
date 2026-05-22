@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.senken.io/" target="_blank" rel="noopener">https://www.senken.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/senken/" target="_blank" rel="noopener">senken — 8,424 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~24 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,15 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 
 ## History
 
+- **2026-05-22** — news mention: Lufthansa Signs Tech- And Nature-Based Multi-Year CDR Deal With Senken ([source](https://carbonherald.com/lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken))
+- **2026-05-22** — news mention: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa Gr ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
+- **2026-05-21** — news mention: #cdr #carbondioxideremoval #klimaschutz #wissenstransfer | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7462876992414289920/))
+- **2026-05-19** — news mention: Über den Weinanbau hinaus: Weinemissionen in biobasierte Wertstoffe umwandeln - Renewable Carbon New ([source](https://renewable-carbon.eu/news/?p=176903))
+- **2026-05-14** — news mention: CDR Daily Digest — 2026-05-14 ([source](https://www.captaindrawdown.com/posts/daily-digest-2026-05-14/))
+- **2026-05-14** — news mention: 377 biochar companies, but barely any with real headcount. This chart plots every CDR pathway by com ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlsavjcio62w))
+- **2026-05-14** — news mention: Germany's DAX40 corporate giants are buying carbon credits at scale and disclosing almost nothing ab ([source](https://x.com/CaptainDrawdown/status/2054790506933088352))
+- **2026-05-14** — news mention: Germany's DAX40 giants are buying carbon credits at scale. What they actually bought? Mostly a black ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mls2bszkmi2m))
+- **2026-05-13** — news mention: Senken And Sylvera Find Major Gaps In Carbon Credit Transparency Among DAX40 Firms ([source](https://carbonherald.com/senken-and-sylvera-find-major-gaps-in-carbon-credit-transparency-among-dax40-firms/?utm_source=rss&utm_medium=rss&utm_campaign=senken-and-sylvera-find-major-gaps-in-carbon-credit-transparency-among-dax40-firms))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness

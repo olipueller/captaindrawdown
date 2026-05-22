@@ -8,7 +8,7 @@ url: "/directory/enhanced-weathering/"
 
 # Enhanced Weathering — 33 Companies Tracked
 
-**Market pulse for Enhanced Weathering (updated 2026-05-12).**
+**Market pulse for Enhanced Weathering (updated 2026-05-22).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">33</span><span class="label">Companies</span></div>

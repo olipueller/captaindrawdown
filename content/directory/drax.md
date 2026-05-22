@@ -29,6 +29,7 @@ Drax Group plc is a UK-listed energy utility that operates the Drax Power Statio
 
 ## History
 
+- **2026-05-15** — news mention: How biomass delivers system stability in an uncertain energy landscape - Drax Global ([source](https://www.drax.com/opinion/how-biomass-delivers-system-stability-in-an-uncertain-energy-landscape/))
 - **2026-05-07** — news mention: Drax Group Trading Update Highlights Strong Visibility And Strategic Flexibility, Says Longspur Rese ([source](https://www.directorstalkinterviews.com/drax-group-trading-update-highlights-strong-visibility-and-strategic-flexibility-says-longspur-research/4121250700))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

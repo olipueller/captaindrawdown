@@ -34,6 +34,8 @@ Planet Savers is a University of Tokyo spinout founded in July 2023, positioned 
 
 ## History
 
+- **2026-05-17** — news mention: Crew Carbon raised $25M to scale wastewater treatment and CO2 removal tech. https://t.co/2FLGVnJmkj  ([source](https://x.com/geoengineering1/status/2056116633303912735))
+- **2026-05-16** — news mention: This Week in CDR - May 15, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7461066683122716690/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://planetsavers.earth/Home-en))

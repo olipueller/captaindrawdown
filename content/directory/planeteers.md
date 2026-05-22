@@ -45,6 +45,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-19** — news mention: #carbonremoval #climateintegrity #climatetech #planeteers #atmosfair #helix | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7460324716285853696/))
 - **2026-05-12** — news mention: 🌍 Please join us in welcoming Christian Barrera, our newest Planeteer! 💚
 
 With a Master’s in Geother ([source](https://www.linkedin.com/feed/update/urn:li:share:7457490151494049792/))

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://carboncapturecompany.se/" target="_blank" rel="noopener">https://carboncapturecompany.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncapturecompany/" target="_blank" rel="noopener">carboncapturecompany — 324 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,8 @@ Carbon Capture Company (CCC) is a Swedish certification body that developed the 
 
 ## History
 
+- **2026-05-19** — news mention: Mantel And Wood Partner To Scale High-Temperature Carbon Capture ([source](https://carbonherald.com/mantel-and-wood-partner-to-scale-high-temperature-carbon-capture/?utm_source=rss&utm_medium=rss&utm_campaign=mantel-and-wood-partner-to-scale-high-temperature-carbon-capture))
+- **2026-05-16** — news mention: Climeworks: The Carbon Capture Company that Emits More Than It Captures ([source](https://www.anarchistfederation.net/climeworks-the-carbon-capture-company-that-emits-more-than-it-captures))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

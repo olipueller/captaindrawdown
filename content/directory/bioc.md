@@ -30,6 +30,10 @@ BioC is a Singapore-based biochar carbon removal supplier that operates PyroCCS 
 
 ## History
 
+- **2026-05-19** — news mention: In an entirely predictable move, Republicans have relaxed Environmental Protections to protect the p ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mm7j2ik5tc2b))
+- **2026-05-16** — news mention: Why do so few climate action activists promote more biochar use?  I suppose it is because so many pe ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlxuy4eg3222))
+- **2026-05-14** — news mention: Nine percent of fossil fuel is used for air travel. Eighty percent of air travel is recreational by  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlsvhnqehk22))
+- **2026-05-14** — news mention: There are a couple of spots east of the Mississippi that have pockets of hot rocks so those may be f ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlsoortw6c22))
 - **2026-05-12** — news mention: Zero, one, two, three, five for today's #Wordle 1,788 5/6*  ⬜⬜⬜⬜⬜ 🟨⬜⬜⬜⬜ ⬜🟩🟩⬜⬜ 🟩🟩🟩⬜⬜ 🟩🟩🟩🟩🟩 ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlnnyfkwdk2p))
 - **2026-05-04** — news mention: I doubt that very many people are aware of how much methane is released from the continued use of co ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzkbvo4gt23))
 - **2026-05-03** — news mention: I'm pretty well convinced that Grassley was in on the treason planned for J6 and I hope that even if ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkxjdhyhb223))

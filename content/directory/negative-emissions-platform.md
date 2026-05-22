@@ -29,6 +29,17 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-05-22** — news mention: David Frank, Microsoft, Negative Emissions Summit 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463159082334478336/))
+- **2026-05-20** — news mention: Earlier today, Carbon Gap contributed input to a closed-door roundtable in Brussels on carbon remova ([source](https://www.linkedin.com/feed/update/urn:li:share:7462505613923651584/))
+- **2026-05-18** — news mention: The Negative Emissions Summit 2026 is back. And bigger than ever.
+
+Now in its fourth year, it&amp;#3 ([source](https://www.linkedin.com/feed/update/urn:li:share:7461010922401095680/))
+- **2026-05-15** — news mention: The European Lime Association joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/the-european-lime-association-joins-the-negative-emissions-platform))
+- **2026-05-15** — news mention: Rasha Abdrabu, UNIDO, Negative Emissions Summir 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460978054161489920/))
+- **2026-05-14** — news mention: 🗓️ Next week in Brussels. Join us for an evening of connections.
+
+On 20 May, the European Commission ([source](https://www.linkedin.com/feed/update/urn:li:share:7460291817306005504/))
+- **2026-05-13** — news mention: The Negative Emissions Summit 2026 is just weeks away and our 4th edition is shaping up to be our bi ([source](https://www.linkedin.com/feed/update/urn:li:share:7459642942765383680/))
 - **2026-05-12** — news mention: We&amp;#39;re happy to announce that Cula Technologies is a Carbon Removal Leader partner at the Neg ([source](https://www.linkedin.com/feed/update/urn:li:share:7457750344320684033/))
 - **2026-05-12** — news mention: Credible carbon removal markets require credible policy frameworks. Few know this better than Puro.e ([source](https://www.linkedin.com/feed/update/urn:li:share:7458114573884170241/))
 - **2026-05-12** — news mention: #etsneedsremovals | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7458526324568141824/))

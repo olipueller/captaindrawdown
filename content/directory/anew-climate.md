@@ -5,7 +5,7 @@ type: "directory"
 description: "Originates and markets nature-based (IFM, soil carbon, afforestation) and tech-based (BECCS) carbon removal credits on behalf of landowners and project developers; also trades RNG, RECs, and"
 url: "/directory/anew-climate/"
 pathway: "Afforestation"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.anewclimate.com/" target="_blank" rel="noopener">https://www.anewclimate.com/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Anew Climate is a Houston-based carbon project developer and credit marketer, ma
 
 ## History
 
+- **2026-05-22** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.rngcoalition.com/news/2024/5/10/anew-climate-summit-carbon-solutions-advance-megaton-co2-removal-project))
+- **2026-05-22** — news mention: EFM, Anew Climate And Mast Reforestation Issue  Verified Credits From Henry Creek Project ([source](https://carbonherald.com/efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project/?utm_source=rss&utm_medium=rss&utm_campaign=efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project))
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.rngcoalition.com/news/2024/5/10/anew-climate-summit-carbon-solutions-advance-megaton-co2-removal-project))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.rngcoalition.com/news/2024/5/10/anew-climate-summit-carbon-solutions-advance-megaton-co2-removal-project))
 - **2026-05-01** — refresh: screenshot

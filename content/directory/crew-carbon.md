@@ -46,6 +46,18 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-19** — news mention: &amp;quot;Dr. Charles Bott is the technology chief for HRSD, a public water utility in coastal Virgi ([source](https://www.linkedin.com/feed/update/urn:li:share:7462151436521611264/))
+- **2026-05-18** — news mention: CREW Carbon Raises $25 Million to Scale Wastewater Treatment Technology with Verified Carbon Removal ([source](https://onestopesg.com/esg-news/crew-carbon-wastewater-treatment-funding))
+- **2026-05-18** — news mention: The AI Boom Needs Carbon Removal  The CEO of Climeworks argues in Heatmap News that carbon removal s ([source](https://x.com/CaptainDrawdown/status/2056268267589599562))
+- **2026-05-17** — news mention: Japan's Idemitsu invests in US carbon removal firm CREW ([source](https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/051526-japans-idemitsu-invests-in-us-carbon-removal-firm-crew))
+- **2026-05-17** — news mention: Crew Carbon raised $25M to scale wastewater treatment and CO2 removal tech. https://t.co/2FLGVnJmkj  ([source](https://x.com/geoengineering1/status/2056116633303912735))
+- **2026-05-17** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology  CREW Carbon has  ([source](https://x.com/CaptainDrawdown/status/2055903220996714671))
+- **2026-05-17** — news mention: Canada has the geology to lead global CDR. Surficial mineralization in BC, Quebec, and the Prairies  ([source](https://x.com/CaptainDrawdown/status/2055877885995446668))
+- **2026-05-16** — news mention: This Week in CDR - May 15, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7461066683122716690/))
+- **2026-05-16** — news mention: ✍  from Tom Ferguson at Burnt Island Ventures (link in comments): 
+
+“Wastewater treatment plays a ma ([source](https://www.linkedin.com/feed/update/urn:li:share:7461108784623632384/))
+- **2026-05-15** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology ([source](https://carbonherald.com/crew-carbon-secures-25m-to-scale-its-wastewater-treatment-optimization-technology/?utm_source=rss&utm_medium=rss&utm_campaign=crew-carbon-secures-25m-to-scale-its-wastewater-treatment-optimization-technology))
 - **2026-05-06** — news mention: We’re heading to RBTT 2026! CREW will be presenting and highlighting Wastewater Alkalinity Enhanceme ([source](https://www.linkedin.com/feed/update/urn:li:share:7457728391580893184/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

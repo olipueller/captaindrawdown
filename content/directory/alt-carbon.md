@@ -44,6 +44,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
+- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
+- **2026-05-18** — news mention: Dr. Sambuddha Misra: Drinking Tea to Save Coral Reefs? The Mechanics of Enhanced Rock Weathering in  ([source](https://podcasters.spotify.com/pod/show/reefroundup/episodes/Dr--Sambuddha-Misra-Drinking-Tea-to-Save-Coral-Reefs--The-Mechanics-of-Enhanced-Rock-Weathering-in-Darjeeling--S5E5-e3hsh58))
+- **2026-05-18** — news mention: Take: Dr. Sambuddha Misra: Drinking Tea to Save Coral Reefs? The Mechanics of Enhanced Rock Weatheri ([source](https://captaindrawdown.com/posts/podcast-take-dr-sambuddha-misra-drinking-tea-to-save-coral-reefs-the-mech-94bc4e01/))
+- **2026-05-18** — news mention: The AI Boom Needs Carbon Removal  The CEO of Climeworks argues in Heatmap News that carbon removal s ([source](https://x.com/CaptainDrawdown/status/2056268267589599562))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/))

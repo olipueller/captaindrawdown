@@ -34,6 +34,10 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 
 ## History
 
+- **2026-05-21** — news mention: Putting CO2 into rocks and getting hydrogen out is climate double win | New Scientist ([source](https://www.newscientist.com/article/2527336-putting-co2-into-rocks-and-getting-hydrogen-out-is-climate-double-win/))
+- **2026-05-20** — news mention: We could generate hydrogen from rocks while storing CO2 in them | New Scientist ([source](https://www.newscientist.com/article/2527336-we-could-generate-hydrogen-from-rocks-while-storing-co2-in-them/))
+- **2026-05-16** — news mention: Climeworks: The Carbon Capture Company that Emits More Than It Captures ([source](https://www.anarchistfederation.net/climeworks-the-carbon-capture-company-that-emits-more-than-it-captures))
+- **2026-05-13** — news mention: La recherche sur l’éruption volcanique sur l’élimination du méthane pourrait conduire à une nouvelle ([source](https://www.pacte-climat.eu/la-recherche-sur-leruption-volcanique-sur-lelimination-du-methane-pourrait-conduire-a-une-nouvelle-solution-au-changement-climatique/26712))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

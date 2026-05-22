@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://co2re.org/" target="_blank" rel="noopener">https://co2re.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2re/" target="_blank" rel="noopener">co2re — 3,992 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+38% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,8 @@ CO₂RE is the UK's national research hub on Greenhouse Gas Removal, led by the 
 
 ## History
 
+- **2026-05-21** — news mention: Join CO2RE at #LondonClimateActionWeek! On 24 June at 9:30am, we're holding a panel discussion on "C ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mme5w6ok6c2j))
+- **2026-05-15** — news mention: We can't wait for our "Reclaiming Hope, Removing Carbon" event at the @bristoluni.bsky.social Botani ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mlutzzgvx22h))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://co2re.org/))

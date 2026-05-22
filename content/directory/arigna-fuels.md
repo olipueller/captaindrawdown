@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a ~70,000 tpa pyrolysis plant in Co. Roscommon producing biochar from biomass feedstocks, used both as soil amendment/carbon sequestration and as input to their Harvest Flame renewable solid"
 url: "/directory/arigna-fuels/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://arignafuels.ie/" target="_blank" rel="noopener">https://arignafuels.ie/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,6 +27,8 @@ Arigna Fuels is a fifth-generation Irish family-run solid fuel manufacturer (par
 
 ## History
 
+- **2026-05-22** — refresh: liveliness
+- **2026-05-22** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))

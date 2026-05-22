@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.zencarbon.org/" target="_blank" rel="noopener">https://www.zencarbon.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clitruct/" target="_blank" rel="noopener">clitruct — 399 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -31,6 +31,9 @@ ZEN Carbon is a Nairobi-based startup developing reactor-driven CO₂ mineraliza
 
 ## History
 
+- **2026-05-14** — news mention: 🌍🇰🇪🇰🇷 From South Korea to Kenya,carbon removal collaboration is going global.
+
+This week, we had the ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460597675093139458/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

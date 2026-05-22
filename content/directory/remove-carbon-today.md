@@ -5,7 +5,7 @@ type: "directory"
 description: "Retail e-commerce reseller that bundles individual consumer purchases into Puro.earth-certified CORC retirements sourced from third-party removal suppliers."
 url: "/directory/remove-carbon-today/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Unknown</td></tr>
   <tr><th>Website</th><td><a href="https://www.removecarbontoday.com/" target="_blank" rel="noopener">https://www.removecarbontoday.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -28,6 +28,8 @@ Remove Carbon Today is an online retail storefront that enables individuals to p
 
 ## History
 
+- **2026-05-22** — refresh: liveliness
+- **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-12** — news mention: New Platform Lets Individuals Buy Verified Carbon Removal With Registry Proof ([source](https://carbonherald.com/platform-individuals-buy-verified-carbon-removal-registry-proof/?utm_source=rss&utm_medium=rss&utm_campaign=platform-individuals-buy-verified-carbon-removal-registry-proof))
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: screenshot

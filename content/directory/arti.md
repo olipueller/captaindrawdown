@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.arti.com/" target="_blank" rel="noopener">https://www.arti.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/advanced-renewable-technology-international-inc-artichar-/" target="_blank" rel="noopener">advanced-renewable-technology-international-inc-artichar- — 2,534 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~74</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ ARTi (Advanced Renewable Technology International) is a U.S.-based biochar compa
 
 ## History
 
+- **2026-05-15** — news mention: Here's what Republicans' new statue park will look in the not too distant future under Republican cl ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlvgya6z6s22))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

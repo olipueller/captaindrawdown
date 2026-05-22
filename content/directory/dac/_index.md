@@ -8,14 +8,14 @@ url: "/directory/dac/"
 
 # DAC — 125 Companies Tracked
 
-**Market pulse for DAC (updated 2026-05-12).**
+**Market pulse for DAC (updated 2026-05-22).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">125</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">84</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">22</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">6</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">13</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">85</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">21</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">5</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">14</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">

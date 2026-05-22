@@ -8,13 +8,13 @@ url: "/directory/biochar/"
 
 # Biochar — 377 Companies Tracked
 
-**Market pulse for Biochar (updated 2026-05-12).**
+**Market pulse for Biochar (updated 2026-05-22).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">377</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">230</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">57</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">24</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">232</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">53</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">26</span><span class="label">🟠 Suspect</span></div>
   <div class="stat-box"><span class="num" style="color:#ef4444">66</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 

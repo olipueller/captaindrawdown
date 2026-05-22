@@ -47,6 +47,20 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-21** — news mention: Climeworks Adds Veteran CFO to Support Next Growth Phase - TipRanks.com ([source](https://www.tipranks.com/news/private-companies/climeworks-adds-veteran-cfo-to-support-next-growth-phase))
+- **2026-05-19** — news mention: Post 1: 569 pure-play CDR companies, ~9,500 people total. This chart plots every one as a dot: found ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mm6tcfptlw27))
+- **2026-05-19** — news mention: Prediction: within 90 days, expect at least 3 more durable-CDR suppliers to announce 'industry-integ ([source](https://x.com/CaptainDrawdown/status/2056602096242180202))
+- **2026-05-18** — news mention: #climateaction #carbonremoval #climatesolutions #netzero #event #italy | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7462050202669977600/))
+- **2026-05-18** — news mention: The AI Boom Needs Carbon Removal  The CEO of Climeworks argues in Heatmap News that carbon removal s ([source](https://x.com/CaptainDrawdown/status/2056268267589599562))
+- **2026-05-17** — news mention: During the first-ever Climate Week Zurich, we convened a roundtable on “Opportunities for Heavy‑Emit ([source](https://www.linkedin.com/feed/update/urn:li:share:7461397778502479872/))
+- **2026-05-16** — news mention: Climeworks: The Carbon Capture Company that Emits More Than It Captures ([source](https://www.anarchistfederation.net/climeworks-the-carbon-capture-company-that-emits-more-than-it-captures))
+- **2026-05-14** — news mention: #carbonremoval #climateaction #switzerland #sweden #cwz2026 #climateweekzurich | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460248367865176064/))
+- **2026-05-13** — news mention: Climeworks Welcomes Two New Strategic Members To Its Advisory Board ([source](https://carbonherald.com/climeworks-welcomes-two-new-strategic-members-to-its-advisory-board/?utm_source=rss&utm_medium=rss&utm_campaign=climeworks-welcomes-two-new-strategic-members-to-its-advisory-board))
+- **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
+- **2026-05-13** — news mention: Bedrock Initiative | Cascade Climate  https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
+- **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends  CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))
+- **2026-05-13** — news mention: #climateweekzurich #cwz2026 #carbonremoval #climeworkssummit | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7459929123595968512/))
+- **2026-05-12** — news mention: Microsoft Carbon Capture 2025, 18M Tonne Rubicon Deal ([source](https://enkiai.com/bp-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
 - **2026-05-12** — news mention: Climeworks appoints senior advisors to accelerate market growth ([source](https://climeworks.com/press-release/climeworks-appoints-senior-advisors-to-accelerate-market-growth))
 - **2026-05-12** — news mention: 🌍 Please join us in welcoming Christian Barrera, our newest Planeteer! 💚
 
@@ -66,20 +80,6 @@ David Costa’s words captured the spirit ([source](https://www.linkedin.com/fee
 - **2026-05-01** — news mention: Climeworks And NTT DATA Strike Landmark Carbon Removal Deal ([source](https://carbonherald.com/climeworks-and-ntt-data-strike-landmark-carbon-removal-deal/?utm_source=rss&utm_medium=rss&utm_campaign=climeworks-and-ntt-data-strike-landmark-carbon-removal-deal))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-30** — news mention: RT @Climeworks: Today, we’re excited to announce a partnership with @nttdata_inc. @Climeworks will s ([source](https://x.com/geoengineering1/status/2049899722366923042))
-- **2026-04-30** — news mention: Exclusive: Data center firm inks carbon removal deal as AI demand surges ([source](https://www.axios.com/2026/04/30/data-center-deal-carbon-removal-ai))
-- **2026-04-30** — news mention: Climeworks partners with NTT DATA Group ([source](https://climeworks.com/press-release/climeworks-partners-with-ntt-data-group))
-- **2026-04-30** — news mention: https://t.co/nvogKM8TtW ([source](https://x.com/Climeworks/status/2049780398947815785))
-- **2026-04-29** — news mention: Climeworks Summit 2026 - Speakers | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455289122946125825/))
-- **2026-04-29** — news mention: Environmental technology: Climeworks receives surprising green light for plant in Louisiana | blue N ([source](https://www.bluewin.ch/en/news/climeworks-receives-surprising-green-light-for-plant-in-louisiana-3209383.html))
-- **2026-04-29** — news mention: Climeworks Given Surprise Green Light For US Plant ([source](https://menafn.com/1111044257/Climeworks-Given-Surprise-Green-Light-For-US-Plant))
-- **2026-04-29** — news mention: Climeworks given surprise green light for US plant - SWI swissinfo.ch ([source](https://www.swissinfo.ch/eng/climate-solutions/climeworks-receives-surprising-green-light-for-plant-in-louisiana/91326278))
-- **2026-04-29** — news mention: Direct air capture - Wikipedia ([source](https://en.wikipedia.org/wiki/Direct_air_capture))
-- **2026-04-24** — news mention: Occidental Carbon Capture 2025, $3.5B w/ Carbon Engineering ([source](https://enkiai.com/carbon-capture/direct-air-capture-projects-us/))
-- **2026-04-22** — news mention: Federal funding boost gives state carbon capture project new life ([source](https://www.1012industryreport.com/carbon-capture/federal-funding-boost-gives-state-carbon-capture-project-new-life/))
-- **2026-04-21** — news mention: Direct Air Capture Market (2026-2033) | Carbon Removal Technology, CO2 Capture Systems & Net Zero St ([source](https://www.openpr.com/news/4482183/direct-air-capture-market-2026-2033-carbon-removal))
-- **2026-04-20** — news mention: Louisiana carbon capture project gets new life with federal funding boost ([source](https://www.businessreport.com/article/louisiana-carbon-capture-project-gets-new-life-with-federal-funding-boost))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://climeworks.com/news/climeworks-establishes-canadian-headquarters-in-calgary))
 
 ---
 

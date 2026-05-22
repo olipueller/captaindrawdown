@@ -45,6 +45,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-22** — news mention: EGU 2026 | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463202751456374784/))
+- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
+- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
 - **2026-05-11** — manual employee_count_override → 70 (inflated by Coresignal — wrong LinkedIn entity. Confidential portfolio data confirms larger headcount; value rounded up to nearest 10.)
 - **2026-05-05** — news mention: #carbonremoval #cdr #climatetech #sustainability #climatefinance | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457080773632909312/))
 - **2026-05-01** — news mention: #climateweekzurich #durablecdr #carbonremoval #climatetech #netzero | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7455560954865500161/))

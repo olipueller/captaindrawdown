@@ -34,6 +34,10 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-05-20** — news mention: New Paper Examines How An EU CDR Buyers’ Club Could Drive Demand In This Region ([source](https://carbonherald.com/new-paper-examines-how-an-eu-cdr-buyers-club-could-drive-demand-in-this-region/?utm_source=rss&utm_medium=rss&utm_campaign=new-paper-examines-how-an-eu-cdr-buyers-club-could-drive-demand-in-this-region))
+- **2026-05-20** — news mention: Earlier today, Carbon Gap contributed input to a closed-door roundtable in Brussels on carbon remova ([source](https://www.linkedin.com/feed/update/urn:li:share:7462505613923651584/))
+- **2026-05-19** — news mention: Advancing an EU Carbon Removal's Buyers Club - Carbon Gap ([source](https://carbongap.org/advancing-an-eu-carbon-removals-buyers-club))
+- **2026-05-19** — news mention: Ahead of the CRCF days, a new paper charts how an EU carbon removal Buyers’ Club can drive demand fo ([source](https://carbongap.org/crcf-days-buyers-club-paper))
 - **2026-05-12** — news mention: EU ETS Review 2026 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458063115021189120/))
 - **2026-05-05** — news mention: National Targets and Flexibilities - Call for evidence response - Carbon Gap ([source](https://carbongap.org/national-targets-and-flexibilities/))
 - **2026-05-01** — news mention: National targets and flexibilities - Carbon Gap ([source](https://carbongap.org/national-targets-and-flexibilities-submission))

@@ -35,6 +35,9 @@ Perennial (formerly Cloud Agronomics) is a Boulder, Colorado-based MRV company f
 
 ## History
 
+- **2026-05-19** — news mention: Stress-testing our own ERW data - forwards, backwards, upside down. Now you can do it too!
+
+In Enhan ([source](https://www.linkedin.com/feed/update/urn:li:share:7462163255784992768/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

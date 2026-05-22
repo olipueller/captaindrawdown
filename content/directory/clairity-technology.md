@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses alkali carbonate sorbents on ceramic honeycomb monoliths to capture atmospheric CO2, then permanently sequesters it via ex-situ mineralization into concrete and other waste materials."
 url: "/directory/clairity-technology/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.clairitytech.com/" target="_blank" rel="noopener">https://www.clairitytech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clairity-tech/" target="_blank" rel="noopener">clairity-tech — 1,012 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-73% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -40,6 +40,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-22** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.businesswire.com/news/home/20250520800629/en/Cool-Effect-Adds-First-Direct-Air-Capture-Project-to-Portfolio-Following-Rigorous-Review))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.businesswire.com/news/home/20250520800629/en/Cool-Effect-Adds-First-Direct-Air-Capture-Project-to-Portfolio-Following-Rigorous-Review))

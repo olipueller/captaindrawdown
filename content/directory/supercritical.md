@@ -35,6 +35,9 @@ Supercritical is a London-based carbon removal marketplace that sources, vets, a
 
 ## History
 
+- **2026-05-20** — news mention: The carbon removal market is entering a different phase.
+
+The challenge is no longer just proving th ([source](https://www.linkedin.com/feed/update/urn:li:share:7462300342014320640/))
 - **2026-05-11** — news mention: Supercritical To Expand CDR Supply Development With Newly Secured Funding ([source](https://carbonherald.com/supercritical-to-expand-cdr-supply-development-with-newly-secured-funding/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-to-expand-cdr-supply-development-with-newly-secured-funding))
 - **2026-05-09** — news mention: Boeing Buys 20,000 Tonne Biochar and Enhanced Rock Weathering Carbon Removal Portfolio Through Super ([source](https://x.com/CaptainDrawdown/status/2053123122388234442))
 - **2026-05-09** — news mention: Supercritical Secures Capital to Scale Carbon Removal Project Development – Biochar Today ([source](https://biochartoday.com/news/supercritical-secures-capital-to-scale-carbon-removal-project-development/))

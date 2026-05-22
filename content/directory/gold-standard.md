@@ -30,6 +30,7 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 
 ## History
 
+- **2026-05-14** — news mention: Gold Standard Rebuilds Carbon Credit Registry With Trovio To Boost Market Connectivity ([source](https://carbonherald.com/gold-standard-rebuilds-carbon-credit-registry-with-trovio-to-boost-market-connectivity/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-rebuilds-carbon-credit-registry-with-trovio-to-boost-market-connectivity))
 - **2026-05-06** — news mention: Gold Standard Modernizes Carbon Accounting For Cookstove Sector With Four Updated Methodologies ([source](https://carbonherald.com/gold-standard-modernizes-carbon-accounting-for-cookstove-sector-with-four-updated-methodologies/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-modernizes-carbon-accounting-for-cookstove-sector-with-four-updated-methodologies))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-29** — news mention: Prithu raises $1.1 m to scale carbon removal platform for nature-based solutions - The HinduBusiness ([source](https://www.thehindubusinessline.com/economy/agri-business/prithu-raises-11-m-to-scale-carbon-removal-platform-for-nature-based-solutions/article70919353.ece))

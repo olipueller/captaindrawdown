@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.shell.com/what-we-do/carbon-capture-and-storage/direct-air-capture-projects.html" target="_blank" rel="noopener">https://www.shell.com/what-we-do/carbon-capture-and-storage/direct-air-capture-projects.html</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/shell/" target="_blank" rel="noopener">shell — 7,625,535 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~192273 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,7 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 
 ## History
 
+- **2026-05-22** — news mention: Deep Sky Carbon Capture 2025, $3M Shell Agreement ([source](https://enkiai.com/canada-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html))

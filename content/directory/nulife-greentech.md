@@ -33,7 +33,7 @@ NULIFE GreenTech is a Canadian climate-tech company delivering permanent, Isomet
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 1 project · Biomass Injection · 626 tCO₂ issued · 145 retired · first issued 2025-09-30 &nbsp;[↗](https://to.isometric.com/prj_1JQEQKCF91S06HAJ)
+- 1 project · Biomass Injection · 923 tCO₂ issued · 145 retired · first issued 2025-09-30 &nbsp;[↗](https://to.isometric.com/prj_1JQEQKCF91S06HAJ)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

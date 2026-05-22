@@ -30,6 +30,12 @@ The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade associati
 
 ## History
 
+- **2026-05-19** — news mention: Corporates Are Ready To Invest In CDR, But Need Policy Clarity, New Research Finds ([source](https://carbonherald.com/corporates-are-ready-to-invest-in-cdr-but-need-policy-clarity-new-research-finds/?utm_source=rss&utm_medium=rss&utm_campaign=corporates-are-ready-to-invest-in-cdr-but-need-policy-clarity-new-research-finds))
+- **2026-05-16** — news mention: The Carbon Business Council team heads to New York next week for Carbon Unbound East Coast.
+
+We are  ([source](https://www.linkedin.com/feed/update/urn:li:share:7461079211177365504/))
+- **2026-05-14** — news mention: Carbon Business Council Has Published Investment Roadmap to Scale Carbon Removal in Latin America, I ([source](https://www.carbonbusinesscouncil.org/news/latam-investment-roadmap-2026))
+- **2026-05-14** — news mention: Carbon Business Council & Regional Industry Leaders Publish The Latin America Carbon Removal Investm ([source](https://carbonherald.com/carbon-business-council-regional-industry-leaders-publish-the-latin-america-carbon-removal-investment-roadmap/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-business-council-regional-industry-leaders-publish-the-latin-america-carbon-removal-investment-roadmap))
 - **2026-05-12** — news mention: APACdr Summit Singapore Ecosperity Week 2026 | Carbon Business Council posted on the topic | LinkedI ([source](https://www.linkedin.com/feed/update/urn:li:share:7458480140910632960/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-27** — news mention: How U.S. Department of Energy Awardees Are Shaping Carbon Management Innovation &mdash; Carbon Busin ([source](https://www.carbonbusinesscouncil.org/news/how-us-department-of-energy-awardees-are-shaping-the-future-of-carbon-management-innovation))

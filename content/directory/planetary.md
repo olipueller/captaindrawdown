@@ -33,7 +33,7 @@ Planetary delivered the first-ever independently verified carbon removal credits
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 1 project · Unknown · 4,853 tCO₂ issued · 2,049 retired · first issued 2025-06-16 &nbsp;[↗](https://to.isometric.com/prj_1H502CZZH1S0VMYW)
+- 1 project · Unknown · 4,853 tCO₂ issued · 2,059 retired · first issued 2025-06-16 &nbsp;[↗](https://to.isometric.com/prj_1H502CZZH1S0VMYW)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

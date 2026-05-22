@@ -40,6 +40,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-13** — news mention: A deep-ocean climate plan wins rare EPA approval, but is sinking plants in the sea the answer? ([source](https://theconversation.com/a-deep-ocean-climate-plan-wins-rare-epa-approval-but-is-sinking-plants-in-the-sea-the-answer-282361))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.rewind.earth/))

@@ -34,6 +34,11 @@ CUR8 is an intelligence provider for the carbon removal market, positioned at th
 
 ## History
 
+- **2026-05-15** — news mention: Podcast take: Gabrielle Walker (CUR8) on the CDR Policy Scoop's new long-form spinoff. First 60% is  ([source](https://x.com/CaptainDrawdown/status/2055196781667811467))
+- **2026-05-15** — news mention: DIGGING DEEP with Gabrielle Walker: A Life in Climate | The CDR Policy Scoop ([source](https://shows.acast.com/the-cdr-policy-scoop/episodes/digging-deep-with-gabrielle-walker-a-life-in-climate))
+- **2026-05-15** — news mention: Take: DIGGING DEEP with Gabrielle Walker: A Life in Climate ([source](https://captaindrawdown.com/posts/podcast-take-digging-deep-with-gabrielle-walker-a-life-in-climate/))
+- **2026-05-15** — news mention: Enhanced rock weathering is being sold by the ton today while the science to verify those tons is st ([source](https://x.com/CaptainDrawdown/status/2055151571629985909))
+- **2026-05-15** — news mention: Carbon Capture Debate Intensifies In Louisiana  Carbon Herald reports that carbon capture and storag ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlurzrujfp2b))
 - **2026-05-05** — news mention: #carbonremoval #cdr #climatetech #sustainability #climatefinance | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457080773632909312/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

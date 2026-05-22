@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonstreaming.com/" target="_blank" rel="noopener">https://www.carbonstreaming.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-streaming-corp/" target="_blank" rel="noopener">carbon-streaming-corp — 5,759 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ Carbon Streaming Corporation is a publicly traded (NETZ/OFSTF) carbon credit str
 
 ## History
 
+- **2026-05-14** — news mention: Carbon Streaming Announces Financial Results for the Three Months Ended March 31, 2026 | OFSTF Stock ([source](https://www.stocktitan.net/news/OFSTF/carbon-streaming-announces-financial-results-for-the-three-months-84ask4c20q4n.html))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

@@ -5,7 +5,7 @@ type: "directory"
 description: "Biomass power plant (sugarcane bagasse and forest residues) with post-combustion CO2 capture piped to ExxonMobil geologic storage for 680,000 t/yr of biogenic CO2 removal."
 url: "/directory/atmosclear/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://atmosclear.earth/" target="_blank" rel="noopener">https://atmosclear.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atmosclearearth/" target="_blank" rel="noopener">atmosclearearth</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~350</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -29,6 +29,8 @@ AtmosClear BR, LLC is a portfolio company of Houston-based Fidelis New Energy de
 
 ## History
 
+- **2026-05-22** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://esgnews.com/exxonmobil-secures-contract-to-store-atmosclears-biomass-co%E2%82%82-in-louisiana/))
+- **2026-05-21** — news mention: Microsoft signs seven-year CO2 storage deal with BioCirc | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/microsoft-signs-seven-year-co2-storage-deal-with-biocirc/2250060.article/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://esgnews.com/exxonmobil-secures-contract-to-store-atmosclears-biomass-co%E2%82%82-in-louisiana/))

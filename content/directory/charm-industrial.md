@@ -45,6 +45,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-20** — news mention: The carbon removal market is entering a different phase.
+
+The challenge is no longer just proving th ([source](https://www.linkedin.com/feed/update/urn:li:share:7462300342014320640/))
+- **2026-05-13** — news mention: A lot of project development happens in conference rooms.
+
+But a lot of it also happens behind the w ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7459814926291976192/))
 - **2026-05-08** — news mention: You can’t scale what you can’t measure.
 
 Charm operates across massive volumes of biomass — often in ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458041654361612288/))

@@ -42,6 +42,13 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-22** — news mention: #cris2026 #carbonremoval #enhancedrockweathering #cdr #climatefinance #carbonmarkets #climatetech #m ([source](https://www.linkedin.com/feed/update/urn:li:share:7462901888485650432/))
+- **2026-05-20** — news mention: #carbonunboundeastcoast #carbonunbound #carbonremoval #climateaction #netzero #decarbonization #carb ([source](https://www.linkedin.com/feed/update/urn:li:share:7462573132252459009/))
+- **2026-05-18** — news mention: #climateaction #carbonremoval #climatesolutions #netzero #event #italy | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7462050202669977600/))
+- **2026-05-17** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology  CREW Carbon has  ([source](https://x.com/CaptainDrawdown/status/2055903220996714671))
+- **2026-05-17** — news mention: Canada has the geology to lead global CDR. Surficial mineralization in BC, Quebec, and the Prairies  ([source](https://x.com/CaptainDrawdown/status/2055877885995446668))
+- **2026-05-16** — news mention: Explainer: Biochar is the largest delivered CDR pathway today by tonnes issued on registries like ht ([source](https://x.com/CaptainDrawdown/status/2055544229963629021))
+- **2026-05-16** — news mention: CDR finance split into two opposite plumbing problems this week.  On the supplier side, GFI deployed ([source](https://x.com/CaptainDrawdown/status/2055516084795478138))
 - **2026-05-08** — news mention: #carbonremoval #cdr #climateweekzurich #cwz2026 #netzero #sustainability | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458165340045230080/))
 - **2026-05-01** — news mention: #climateweekzurich #durablecdr #carbonremoval #climatetech #netzero | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7455560954865500161/))
 - **2026-05-01** — refresh: screenshot

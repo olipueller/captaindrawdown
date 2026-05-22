@@ -34,6 +34,16 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-05-21** — news mention: Residual Appoints Former Puro.earth Executive As VP Of Finance ([source](https://carbonherald.com/residual-appoints-former-puro-earth-executive-as-vp-of-finance/?utm_source=rss&utm_medium=rss&utm_campaign=residual-appoints-former-puro-earth-executive-as-vp-of-finance))
+- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
+- **2026-05-21** — news mention: #ecosperityweek #carbonremoval #cdr #arccoalition #apac #singapore #ecosperityweek #corcs #biochar | ([source](https://www.linkedin.com/feed/update/urn:li:share:7462862260827496448/))
+- **2026-05-20** — news mention: #crcf #carbonremoval #cdr #eupolicy #corcs #brussels | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7462487248312238080/))
+- **2026-05-17** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology  CREW Carbon has  ([source](https://x.com/CaptainDrawdown/status/2055903220996714671))
+- **2026-05-17** — news mention: Canada has the geology to lead global CDR. Surficial mineralization in BC, Quebec, and the Prairies  ([source](https://x.com/CaptainDrawdown/status/2055877885995446668))
+- **2026-05-16** — news mention: Explainer: Biochar is the largest delivered CDR pathway today by tonnes issued on registries like ht ([source](https://x.com/CaptainDrawdown/status/2055544229963629021))
+- **2026-05-16** — news mention: Pathway 101: Biochar ([source](https://captaindrawdown.com/posts/pathway-101-biochar/))
+- **2026-05-16** — news mention: CDR finance split into two opposite plumbing problems this week.  On the supplier side, GFI deployed ([source](https://x.com/CaptainDrawdown/status/2055516084795478138))
+- **2026-05-13** — news mention: Meet the Carbonfuture team at these events in May! | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7459930827100082176/))
 - **2026-05-12** — news mention: Credible carbon removal markets require credible policy frameworks. Few know this better than Puro.e ([source](https://www.linkedin.com/feed/update/urn:li:share:7458114573884170241/))
 - **2026-05-12** — news mention: #sfclimateweek #climefi #carbonremoval | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457790217530531841/))
 - **2026-05-08** — news mention: Enhanced Rock Weathering - Puro.earth ([source](https://puro.earth/methodologies/enhanced-rock-weathering/))
@@ -54,15 +64,6 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bordet))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://puro.earth/))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://puro.earth/))
-- **2026-04-18** — discovered via: news_feed ([source](https://www.qcintel.com/carbon/article/vcm-project-puro-lists-us-beccs-project-as-future-supplier-62593.html))
-- **** — merged duplicate: Bordet (slug=bordet)
-- **** — merged duplicate: Puro.earth (slug=puroearth)
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://puro.earth/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://puro.earth/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

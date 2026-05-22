@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://frontierholdings.com/" target="_blank" rel="noopener">https://frontierholdings.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/frontier-carbon-solutions/" target="_blank" rel="noopener">frontier-carbon-solutions — 2,245 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~12</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Frontier Infrastructure Holdings (formerly Frontier Carbon Solutions) is a Tailw
 
 ## History
 
+- **2026-05-15** — news mention: Frontier Advances CO2-By-Rail Platform With New Carbon Market Milestones ([source](https://carbonherald.com/frontier-advances-co2-by-rail-platform-with-new-carbon-market-milestones/?utm_source=rss&utm_medium=rss&utm_campaign=frontier-advances-co2-by-rail-platform-with-new-carbon-market-milestones))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/frontier-unveils-rail-based-carbon-capture-platform-for-us-ethanol-industry/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

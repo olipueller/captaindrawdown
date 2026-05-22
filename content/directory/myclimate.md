@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.myclimate.org/" target="_blank" rel="noopener">https://www.myclimate.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/myclimate---the-climate-protection-partnership/" target="_blank" rel="noopener">myclimate---the-climate-protection-partnership — 27,233 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~155 (-16% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ myclimate is a Swiss non-profit climate protection foundation, spun out of ETH Z
 
 ## History
 
+- **2026-05-20** — news mention: The aviation side: Germany's airports handled approximately 200 million passengers in 2024 (Destatis ([source](https://x.com/dpaessler/status/2057084083210002790))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

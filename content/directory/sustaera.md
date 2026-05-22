@@ -5,7 +5,7 @@ type: "directory"
 description: "Electro-thermal DAC using nano-structured alkali-based sorbents regenerated via integrated electric resistive heating, powered by renewable electricity."
 url: "/directory/sustaera/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.sustaera.com/" target="_blank" rel="noopener">https://www.sustaera.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sustaera/" target="_blank" rel="noopener">sustaera — 2,757 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Sustaera is a North Carolina-based Direct Air Capture startup spun out of Susteo
 
 ## History
 
+- **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.manilatimes.net/2026/03/09/tmt-newswire/globenewswire/dac-breakthrough-unlocks-3x-cheaper-carbon-removal-projects/2296131))
+- **2026-05-18** — news mention: Sustaera’s 2026 DAC Future: An Alkaline Sorbent Analysis - EnkiAI ([source](https://enkiai.com/carbon-capture/sustaeras-2026-dac-future-an-alkaline-sorbent-analysis/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.manilatimes.net/2026/03/09/tmt-newswire/globenewswire/dac-breakthrough-unlocks-3x-cheaper-carbon-removal-projects/2296131))

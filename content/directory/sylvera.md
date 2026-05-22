@@ -34,6 +34,11 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 
 ## History
 
+- **2026-05-14** — news mention: CDR Daily Digest — 2026-05-14 ([source](https://www.captaindrawdown.com/posts/daily-digest-2026-05-14/))
+- **2026-05-14** — news mention: 377 biochar companies, but barely any with real headcount. This chart plots every CDR pathway by com ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlsavjcio62w))
+- **2026-05-14** — news mention: Germany's DAX40 corporate giants are buying carbon credits at scale and disclosing almost nothing ab ([source](https://x.com/CaptainDrawdown/status/2054790506933088352))
+- **2026-05-14** — news mention: Germany's DAX40 giants are buying carbon credits at scale. What they actually bought? Mostly a black ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mls2bszkmi2m))
+- **2026-05-13** — news mention: Senken And Sylvera Find Major Gaps In Carbon Credit Transparency Among DAX40 Firms ([source](https://carbonherald.com/senken-and-sylvera-find-major-gaps-in-carbon-credit-transparency-among-dax40-firms/?utm_source=rss&utm_medium=rss&utm_campaign=senken-and-sylvera-find-major-gaps-in-carbon-credit-transparency-among-dax40-firms))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

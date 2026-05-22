@@ -29,6 +29,14 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 
 ## History
 
+- **2026-05-21** — news mention: Modelers assume 5-10 gigatons of CO2 removal per year by 2050. Actual durable delivery today: under  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdnbg3sib2v))
+- **2026-05-20** — news mention: In 2026, Carbon Removal Marks The Largest Q1 On Record, New CDR.fyi Report Shows ([source](https://carbonherald.com/in-2026-carbon-removal-marks-the-largest-q1-on-record-new-cdr-fyi-report-shows/?utm_source=rss&utm_medium=rss&utm_campaign=in-2026-carbon-removal-marks-the-largest-q1-on-record-new-cdr-fyi-report-shows))
+- **2026-05-19** — news mention: Post 1: 569 pure-play CDR companies, ~9,500 people total. This chart plots every one as a dot: found ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mm6tcfptlw27))
+- **2026-05-18** — news mention: 2026 Q1 Durable CDR Market Update - From Promise to Proof ([source](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof))
+- **2026-05-16** — news mention: This Week in CDR - May 15, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7461066683122716690/))
+- **2026-05-13** — news mention: Durable CDR Demand Structure Snapshot: Microsoft, Frontier, and the Rest of the Market ([source](https://www.cdr.fyi/blog/durable-cdr-demand-structure-snapshot-april-2026))
+- **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
+- **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends  CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))
 - **2026-05-12** — news mention: Durable CDR Market Recap: April 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-april-2026))
 - **2026-05-09** — news mention: Introducing CDR.fyi Portal 2.0: Unparalleled Insights into the Global Durable Carbon Removal Market  ([source](https://www.cdr.fyi/blog/introducing-cdr.fyi-portal2.0))
 - **2026-05-09** — news mention: Introducing CDR.fyi Resources: The Definitive Resource Hub for Carbon Dioxide Removal  ([source](https://www.cdr.fyi/blog/introducing-cdr.fyi-resources))
@@ -51,7 +59,6 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cdr.fyi/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cdr.fyi/about))
-- **2026-04-18** — discovered via: news_feed ([source](https://www.linkedin.com/feed/update/urn:li:share:7450554592624349185/))
 
 ---
 

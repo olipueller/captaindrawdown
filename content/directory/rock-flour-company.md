@@ -34,6 +34,7 @@ Founded in 2023 by Greenland native and noted geologist Minik Rosing and climate
 
 ## History
 
+- **2026-05-14** — news mention: #biosolutions #glacialrockflour #euagriculture #strategicautonomy #climateaction | Rock Flour Compan ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460308197099106305/))
 - **2026-05-07** — news mention: David Oldcorn, our GHG scientist, is just back from EGU26 in Vienna. 
 
 He shared findings from acros ([source](https://www.linkedin.com/feed/update/urn:li:share:7458077853725708288/))

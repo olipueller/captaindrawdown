@@ -34,6 +34,11 @@ Kita is a UK-based Lloyd's of London coverholder and carbon insurance specialist
 
 ## History
 
+- **2026-05-20** — news mention: Three biochar papers this week expose a pyrolysis-temperature fork the CDR credit market is ignoring ([source](https://x.com/CaptainDrawdown/status/2056964483990380953))
+- **2026-05-19** — news mention: Podcast: Natalia Dorfman (Kita CEO) on The CDR Policy Scoop with Eve Tamme and Sebastian Manhart, wa ([source](https://x.com/CaptainDrawdown/status/2056647673046814755))
+- **2026-05-19** — news mention: Post 1: 569 pure-play CDR companies, ~9,500 people total. This chart plots every one as a dot: found ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mm6tcfptlw27))
+- **2026-05-19** — news mention: Insurance, Buffers, and the Permanence Trust - with Natalia Dorfman | The CDR Policy Scoop ([source](https://shows.acast.com/the-cdr-policy-scoop/episodes/fixing-permanence-insurance-and-the-permanence-trust-with-na))
+- **2026-05-19** — news mention: Take: Insurance, Buffers, and the Permanence Trust - with Natalia Dorfman ([source](https://captaindrawdown.com/posts/podcast-take-insurance-buffers-and-the-permanence-trust-with-natalia-dorf-af634633/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

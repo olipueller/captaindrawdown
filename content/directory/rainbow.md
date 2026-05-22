@@ -30,6 +30,12 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 
 ## History
 
+- **2026-05-20** — news mention: 398: Scientists vs. Engineers, &amp; the Commercial Pressure on Carbon Dioxide Removal—w/ Erica Dorr ([source](https://podcasters.spotify.com/pod/show/reversingclimatechange/episodes/398-Scientists-vs--Engineers---the-Commercial-Pressure-on-Carbon-Dioxide-Removalw-Erica-Dorr--Samara-Vantil--Rainbow-e3j0jq0))
+- **2026-05-20** — news mention: Take: 398: Scientists vs. Engineers, & the Commercial Pressure on Carbon Dioxide Removal—w/ Erica Do ([source](https://captaindrawdown.com/posts/podcast-take-398-scientists-vs-engineers-the-commercial-pressure-on-carbo-24d4d76b/))
+- **2026-05-19** — news mention: Last month, our science and certification teams visited CLER VERTS’ biochar project in Occitanie, Fr ([source](https://www.linkedin.com/feed/update/urn:li:share:7462396642541916160/))
+- **2026-05-15** — news mention: Frontier’s Approval of Rainbow Carbon Removal and the Rise of De Facto Registry Gatekeepers · Carbon ([source](https://carbonmeld.com/en/articles/frontier-s-approval-of-rainbow-carbon-removal-and-the-rise-of-de-facto-registry-gatekeepers/))
+- **2026-05-15** — news mention: The most important questions in carbon markets are on the agenda at Carbon Unbound East Coast next w ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460984850229972992/))
+- **2026-05-15** — news mention: Frontier Approval Positions Rainbow Among Leading Carbon Removal Registries ([source](https://carbonherald.com/frontier-approval-positions-rainbow-among-leading-carbon-removal-registries/?utm_source=rss&utm_medium=rss&utm_campaign=frontier-approval-positions-rainbow-among-leading-carbon-removal-registries))
 - **2026-05-12** — news mention: Most carbon removal founders are trying to prove their technology works. Uzoma Bailey Ayogu and Iken ([source](https://www.linkedin.com/feed/update/urn:li:share:7458441953530060800/))
 - **2026-05-12** — news mention: Frontier has approved Rainbow as a credit issuer.
 

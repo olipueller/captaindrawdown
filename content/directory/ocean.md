@@ -30,6 +30,21 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 
 ## History
 
+- **2026-05-21** — news mention: China’s Shark Finning Could Lead to US Seafood Sanctions ([source](https://insideclimatenews.org/news/21052026/china-shark-finning-potential-us-sanctions/))
+- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
+- **2026-05-21** — news mention: Pathway 101: Enhanced Weathering ([source](https://captaindrawdown.com/posts/pathway-101-enhanced-weathering/))
+- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
+- **2026-05-19** — news mention: True for CDR. Setting a 2050 gigatonne removal goal then back-casting the R&D path is how DAC, enhan ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmafg4coiy2g))
+- **2026-05-18** — news mention: The AI Boom Needs Carbon Removal  The CEO of Climeworks argues in Heatmap News that carbon removal s ([source](https://x.com/CaptainDrawdown/status/2056268267589599562))
+- **2026-05-15** — news mention: @geoengineering1 The science is advancing fast. The real challenge? Building governance that keeps p ([source](https://x.com/makinggovq/status/2055245769225957687))
+- **2026-05-14** — news mention: 377 biochar companies, but barely any with real headcount. This chart plots every CDR pathway by com ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlsavjcio62w))
+- **2026-05-14** — news mention: Biochar dominates CDR with 377 of 969 companies tracked ([source](https://captaindrawdown.com/posts/data-viz-history-pathway-scatter-2026-05-14/))
+- **2026-05-14** — news mention: Germany's DAX40 corporate giants are buying carbon credits at scale and disclosing almost nothing ab ([source](https://x.com/CaptainDrawdown/status/2054790506933088352))
+- **2026-05-13** — news mention: An annotated literature database to support research on marine carbon dioxide removal (mCDR) and fis ([source](https://cdrxiv.org/preprint/519))
+- **2026-05-13** — news mention: A deep-ocean climate plan wins rare EPA approval, but is sinking plants in the sea the answer? ([source](https://theconversation.com/a-deep-ocean-climate-plan-wins-rare-epa-approval-but-is-sinking-plants-in-the-sea-the-answer-282361))
+- **2026-05-13** — news mention: A deep-ocean climate plan wins rare EPA approval, but is sinking plants in the sea the answer? | Nat ([source](https://www.fairfieldsuntimes.com/news/national/a-deep-ocean-climate-plan-wins-rare-epa-approval-but-is-sinking-plants-in-the/article_8c9a57a1-4b4a-5cfc-b043-e115b6c96d8e.html))
+- **2026-05-12** — news mention: A deep-ocean climate plan wins rare EPA approval, but is sinking plants in the sea the answer? | Nat ([source](https://www.hometownregister.com/news/national/a-deep-ocean-climate-plan-wins-rare-epa-approval-but-is-sinking-plants-in-the/article_036be3a7-34e7-5a85-a6ed-ee9af8b2577a.html))
+- **2026-05-12** — news mention: As El Niño Approaches, Scientists Predict Fierce Heatwaves, Wildfires and Floods ([source](https://insideclimatenews.org/news/12052026/el-nino-climate-extremes-heatwaves-wildfires-floods/))
 - **2026-05-12** — news mention: Methane Removal Volcano Eruption Research Could Lead to a New Climate Change Solution ([source](http://www.natureworldnews.com/articles/72952/20260512/methane-removal-volcano-eruption-research-could-lead-new-climate-change-solution.htm))
 - **2026-05-12** — news mention: NGOs Publish New Recommendations For mCDR Field Experiments ([source](https://carbonherald.com/ngos-publish-new-recommendations-for-mcdr-field-experiments/?utm_source=rss&utm_medium=rss&utm_campaign=ngos-publish-new-recommendations-for-mcdr-field-experiments))
 - **2026-05-12** — news mention: Frontier buyers sign $31M deal with Planetary to advance ocean alkalinity enhancement ([source](https://frontierclimate.com/writing/planetary))
@@ -45,21 +60,6 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 - **2026-05-08** — news mention: Offshore wind firm that took Trump payout hits a milestone in Europe ([source](https://www.canarymedia.com/articles/offshore-wind/ocean-winds-trump-deal-europe-floating-turbines))
 - **2026-05-06** — news mention: A framework for understanding efficiency losses of Ocean Alkalinity Enhancement – CDRXIV ([source](https://cdrxiv.org/preprint/517))
 - **2026-05-05** — news mention: Okay, I see.  Yeah, assuming that ocean can absorb half of the CO2 that is emitted this year in abou ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml2ycxrhf323))
-- **2026-05-04** — news mention: Captura Wins Supplier Deal For eSAF Plant In France Using Ocean-Captured CO2 ([source](https://carbonherald.com/captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2/?utm_source=rss&utm_medium=rss&utm_campaign=captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2))
-- **2026-05-04** — news mention: Marine CDR verification is the bottleneck right now. Ocean systems are open, dynamic, and signals ge ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkzc3lzm3o2z))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-29** — news mention: El Nino Prediction Based on Weather Forecast and Geographical Time-series Data ([source](https://arxiv.org/abs/2604.04998v1))
-- **2026-04-29** — news mention: Comparing Ocean Forecasts Driven with Machine Learning-based and Physics-based Atmospheric Forcings ([source](https://arxiv.org/abs/2604.07861v1))
-- **2026-04-29** — news mention: Representing the Surface Ocean in ECMWF's data-driven forecasting system AIFS ([source](https://arxiv.org/abs/2604.25559v1))
-- **2026-04-29** — news mention: Biochar dominates CDR with 377 of 970 companies ([source](https://captaindrawdown.com/posts/data-viz-history-pathway-scatter-2026-04-29/))
-- **2026-04-29** — news mention: Agreed on residual-only framing. The Gulf of Maine ocean alkalinity trial showed measurable CO2 upta ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkmoi42k4y2w))
-- **2026-04-27** — news mention: "In an offshore test of what happens when acid-lowering chemicals are added to the ocean, the compou ([source](https://x.com/geoengineering1/status/2048522489693949964))
-- **2026-04-24** — news mention: With Microsoft's Pause, Carbon Removals Will Bottom Out This Year | Cleantech Group ([source](https://cleantech.com/with-microsofts-pause-carbon-removals-will-bottom-out-this-year/))
-- **2026-04-24** — news mention: Behind the scenes: how the CDR Company Directory actually gets built.  Today we published the making ([source](https://x.com/CaptainDrawdown/status/2047601531076100376))
-- **2026-04-24** — news mention: Northern Lights Expands CO2 Shipping Fleet With Third Carrier  https://carbonherald.com/northern-lig ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mk7yeghxky2u))
-- **2026-04-23** — news mention: PML Applications at Carbon to Sea Annual Convening 2026 ([source](https://pml-applications.co.uk/news/carbon-to-sea-2026/))
 
 ---
 

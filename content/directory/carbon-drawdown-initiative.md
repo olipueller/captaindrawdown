@@ -30,6 +30,12 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-05-20** — news mention: One of the harder questions in enhanced rock weathering is not only how much inorganic carbon is rem ([source](https://www.linkedin.com/feed/update/urn:li:share:7462487428243537920/))
+- **2026-05-18** — news mention: Personal view from a newcomer in CDR about ERW &mdash; Carbon Drawdown Initiative ([source](https://www.carbon-drawdown.de/blog/2026-5-11-personal-view-from-a-newcomer-in-cdr-about-erw))
+- **2026-05-18** — news mention: A fresh perspective on ERW – from someone brand new to the field.
+
+One of our interns just wrapped u ([source](https://www.linkedin.com/feed/update/urn:li:share:7462123329467060224/))
+- **2026-05-14** — news mention: There are moments in a field when years of theory, small-scale experiments, and early deployments ar ([source](https://www.linkedin.com/feed/update/urn:li:share:7460313232323489793/))
 - **2026-05-11** — news mention: Flower power in the greenhouse: Small strips, big impact &mdash; Carbon Drawdown Initiative ([source](https://www.carbon-drawdown.de/blog/2026-5-11-flower-power-in-the-greenhouse-small-strips-big-impact))
 - **2026-05-09** — news mention: Creating An Autonomous AI Agent That Acts as Evangelist for Carbon Dioxide Removal - In One Day &mda ([source](https://www.carbon-drawdown.de/blog/2026-2-26-creating-an-ai-agent-that-acts-as-evangelist-for-carbon-dioxide-removal-in-one-day))
 - **2026-05-07** — news mention: The dataset we&amp;#39;re presenting at the Carbon Drawdown Symposium on 16 June spans multiple fiel ([source](https://www.linkedin.com/feed/update/urn:li:share:7457776306001178624/))

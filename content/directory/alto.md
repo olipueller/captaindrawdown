@@ -5,7 +5,7 @@ type: "directory"
 description: "Captures biogenic CO2 from corn ethanol fermentation at Pekin, IL campus for permanent geological sequestration in the Mt. Simon sandstone formation via partnership with Vault 44.01."
 url: "/directory/alto/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.altoingredients.com/" target="_blank" rel="noopener">https://www.altoingredients.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,6 +27,8 @@ Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of
 
 ## History
 
+- **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.opentable.com/altobelis-restaurant-and-piano-bar))
+- **2026-05-20** — news mention: Palo Alto Networks Carbon Capture 2025, $25 B Cyber Ark Deal ([source](https://enkiai.com/palo-alto-networks-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.opentable.com/altobelis-restaurant-and-piano-bar))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.opentable.com/altobelis-restaurant-and-piano-bar))
 - **2026-05-01** — refresh: screenshot
