@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses a proprietary hydrometallurgical LOW™ process to extract reactive metal oxides from asbestos mine tailings, and a ROC™ process that reacts those oxides with CO2 to form stable magnesium/calcium"
 url: "/directory/exterra/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://exterratechnologies.com/" target="_blank" rel="noopener">https://exterratechnologies.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/esgnr/" target="_blank" rel="noopener">esgnr — 3,018 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~24</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,7 @@ Exterra Technologies (formerly Exterra Carbon Solutions, rebranded February 2026
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

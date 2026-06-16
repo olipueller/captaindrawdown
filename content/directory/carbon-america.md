@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonamerica.com/" target="_blank" rel="noopener">https://www.carbonamerica.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonamerica/" target="_blank" rel="noopener">carbonamerica — 6,724 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~125 (-59% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Carbon America is a Colorado-based vertically integrated CCS developer that fina
 
 ## History
 
+- **2026-05-22** — news mention: Carbon America - 2026 Funding Rounds & List of Investors - Tracxn ([source](https://tracxn.com/d/companies/carbonamerica/__TikgzqtJoFKisRM45W8vT_YZTNwpyzOF6JQ-aCbiiIM/funding-and-investors))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.climatory.com/company/carbon-america))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

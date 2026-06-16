@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.rockflour.co/" target="_blank" rel="noopener">https://www.rockflour.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockflourcompany/" target="_blank" rel="noopener">rockflourcompany — 2,071 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/itinnera-solutions/" target="_blank" rel="noopener">itinnera-solutions — 2,071 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~8 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~9 (0% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,9 @@ Founded in 2023 by Greenland native and noted geologist Minik Rosing and climate
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-06-04** — news mention: We spent the day in conversation with farmers and advisors about what Glacial Rock Flour (GRF) could ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468266088091402240/))
 - **2026-05-14** — news mention: #biosolutions #glacialrockflour #euagriculture #strategicautonomy #climateaction | Rock Flour Compan ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460308197099106305/))
 - **2026-05-07** — news mention: David Oldcorn, our GHG scientist, is just back from EGU26 in Vienna. 
 

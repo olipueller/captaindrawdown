@@ -5,7 +5,7 @@ type: "directory"
 description: "Converts agricultural waste (sugarcane bagasse, palm EFB) into biochar via pyrolysis for soil application and carbon sequestration."
 url: "/directory/sawa/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.sawa.green/" target="_blank" rel="noopener">https://www.sawa.green/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sawa-eco-solution/" target="_blank" rel="noopener">sawa-eco-solution — 472 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~12</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ SAWA EcoSolutions is a Singapore-based climate technology company with its Indon
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tb.che.itb.ac.id/en/2024/04/25/kunjungan-pembukaan-pabrik-biochar-majalengka/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tb.che.itb.ac.id/en/2024/04/25/kunjungan-pembukaan-pabrik-biochar-majalengka/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

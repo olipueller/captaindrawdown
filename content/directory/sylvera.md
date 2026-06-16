@@ -34,6 +34,7 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 
 ## History
 
+- **2026-06-05** — news mention: Billions In CORSIA Compliance Spending Held Up By Missing Govt Approvals, Sylvera Warns ([source](https://carbonherald.com/billions-in-corsia-compliance-spending-held-up-by-missing-govt-approvals-sylvera-warns/?utm_source=rss&utm_medium=rss&utm_campaign=billions-in-corsia-compliance-spending-held-up-by-missing-govt-approvals-sylvera-warns))
 - **2026-05-14** — news mention: CDR Daily Digest — 2026-05-14 ([source](https://www.captaindrawdown.com/posts/daily-digest-2026-05-14/))
 - **2026-05-14** — news mention: 377 biochar companies, but barely any with real headcount. This chart plots every CDR pathway by com ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlsavjcio62w))
 - **2026-05-14** — news mention: Germany's DAX40 corporate giants are buying carbon credits at scale and disclosing almost nothing ab ([source](https://x.com/CaptainDrawdown/status/2054790506933088352))

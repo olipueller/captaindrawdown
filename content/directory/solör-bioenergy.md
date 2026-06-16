@@ -5,7 +5,7 @@ type: "directory"
 description: "Retrofits biomass-fired district heating plants with pyrolysis units (PyCCS) to co-produce biochar alongside heat, steam and electricity."
 url: "/directory/solör-bioenergy/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://solorbioenergi.com/" target="_blank" rel="noopener">https://solorbioenergi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sol%c3%b6r-bioenergi-ab/" target="_blank" rel="noopener">sol%c3%b6r-bioenergi-ab — 557 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~63</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,7 @@ Solör Bioenergy Group is a major Scandinavian renewable energy utility operatin
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://solorbioenergi.com/about-solor-bioenergi/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://solorbioenergi.com/about-solor-bioenergi/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

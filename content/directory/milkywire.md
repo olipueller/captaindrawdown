@@ -29,6 +29,7 @@ Stockholm-based Milkywire is an impact platform that channels corporate funding 
 
 ## History
 
+- **2026-06-04** — news mention: Milkywire | Build the world your net zero targets assumes ([source](https://milkywire.com/build-the-world-your-net-zero-targets-assumes))
 - **2026-05-09** — news mention: Buyers of Enhanced Rock Weathering credits need to ask for the right type of MRV ([source](https://roberthoglund.medium.com/buyers-of-enhanced-rock-weathering-credits-need-to-ask-for-the-right-type-of-mrv-c109bc7cf100?source=rss-d3dbfac6b1e3------2))
 - **2026-05-09** — news mention: A new lens on corporate net zero ([source](https://roberthoglund.medium.com/a-new-lens-on-corporate-net-zero-e0cf73e65936?source=rss-d3dbfac6b1e3------2))
 - **2026-05-09** — news mention: January 09, 2026🚨 Big CDR Deal Alert! 🚨 Milkywire <> SalesforceDeal Alerts ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-1-9))

@@ -30,6 +30,7 @@ reCap Carbon Inc. is a US-based climate-tech company that converts municipal yar
 
 ## History
 
+- **2026-06-09** — news mention: Reading about carbon removal is one thing. Seeing it firsthand is another.  Thanks to Climate Impact ([source](https://x.com/CharmIndustrial/status/2064346783246155824))
 - **2026-05-13** — news mention: Bedrock Initiative | Cascade Climate  https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
 - **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends  CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))
 - **2026-05-12** — news mention: Durable CDR Market Recap: April 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-april-2026))

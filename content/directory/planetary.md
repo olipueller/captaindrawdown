@@ -43,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-27** — news mention: In this article, the new CMIP7 Emissions Scenarios reveal how much the world will rely on Carbon Dio ([source](https://bsky.app/profile/drtomharris.bsky.social/post/3mmt24qqaok2s))
 - **2026-05-12** — news mention: Frontier buyers sign $31M deal with Planetary to advance ocean alkalinity enhancement ([source](https://frontierclimate.com/writing/planetary))
 - **2026-05-11** — news mention: 🧵 A $50M ocean startup raised serious money, built real technology, and delivered on every contract  ([source](https://x.com/MickH_W/status/2053804970387075432))
 - **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))

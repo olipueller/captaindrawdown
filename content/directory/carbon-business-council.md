@@ -30,6 +30,9 @@ The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade associati
 
 ## History
 
+- **2026-06-02** — news mention: How data center demand can accelerate climate tech deployment ([source](https://www.esgdive.com/news/how-data-center-demand-can-accelerate-climate-tech-deployment/821465/))
+- **2026-05-29** — news mention: Carbon removal in Asia-Pacific is moving towards implementation, a shift visible throughout the APAC ([source](https://www.linkedin.com/feed/update/urn:li:share:7466124373242896386/))
+- **2026-05-29** — news mention: Corporate buyers are measuring climate strategy the same way they measure everything else: long-term ([source](https://www.linkedin.com/feed/update/urn:li:share:7465761742090989568/))
 - **2026-05-19** — news mention: Corporates Are Ready To Invest In CDR, But Need Policy Clarity, New Research Finds ([source](https://carbonherald.com/corporates-are-ready-to-invest-in-cdr-but-need-policy-clarity-new-research-finds/?utm_source=rss&utm_medium=rss&utm_campaign=corporates-are-ready-to-invest-in-cdr-but-need-policy-clarity-new-research-finds))
 - **2026-05-16** — news mention: The Carbon Business Council team heads to New York next week for Carbon Unbound East Coast.
 

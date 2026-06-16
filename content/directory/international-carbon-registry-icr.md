@@ -5,7 +5,7 @@ type: "directory"
 description: "ISO 14064-2-aligned carbon crediting program and digital registry platform for issuing, tracking, and retiring carbon credits (ICCs), with blockchain-based serialization."
 url: "/directory/international-carbon-registry-icr/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Iceland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonregistry.com/" target="_blank" rel="noopener">https://www.carbonregistry.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/international-carbon-registry/" target="_blank" rel="noopener">international-carbon-registry — 6,857 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~10 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,7 @@ International Carbon Registry (ICR) is an Iceland-based ISO-aligned GHG program 
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

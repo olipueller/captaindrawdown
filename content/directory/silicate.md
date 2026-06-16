@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://www.silicatecarbon.com/" target="_blank" rel="noopener">https://www.silicatecarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicate-carbon/" target="_blank" rel="noopener">silicate-carbon — 3,148 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicate-carbon/" target="_blank" rel="noopener">silicate-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6 (-40% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -31,6 +31,16 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-06-11** — news mention: @climatejesper.bsky.social is an isotope geochemist at @yalecncc.bsky.social. His research focuses o ([source](https://bsky.app/profile/davidho.bsky.social/post/3mnyxvgxubs2i))
+- **2026-06-11** — news mention: File under: War Crimes ([source](https://bsky.app/profile/davidho.bsky.social/post/3mnysgc7msc2c))
+- **2026-06-06** — news mention: #undocarbon #carbonremoval #enhancedrockweathering #climatetech #cdr #soilhealth #mrv #sustainableag ([source](https://www.linkedin.com/feed/update/urn:li:share:7467927760230043648/))
+- **2026-06-02** — news mention: Beyond Trees: Why Enhanced Rock Weathering Could Reshape Africa’s Carbon Future | Nuvoni Centre for  ([source](https://nuvoniresearch.org/beyond-trees-why-enhanced-rock-weathering-could-reshape-africas-carbon-future/))
+- **2026-05-29** — news mention: Most ERW assessments focus on alkalinity-driven carbon dioxide removal but there may be another inte ([source](https://www.linkedin.com/feed/update/urn:li:share:7466111386818056192/))
+- **2026-05-28** — news mention: That's the core mechanism which is known over geological time scales.  What's less often discussed i ([source](https://x.com/dpaessler/status/2059983386924417137))
+- **2026-05-27** — news mention: Enhanced rock weathering uses silicate rock powders applied to agricultural soils. That raises a que ([source](https://www.linkedin.com/feed/update/urn:li:share:7465025344509669377/))
+- **2026-05-22** — news mention: Molecular Views of Mineral Carbonation: Reaction of CO2 with the Wollastonite (100) Surface ([source](https://pubs.acs.org/doi/10.1021/acsnano.5c19629))
 - **2026-05-22** — news mention: EGU 2026 | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463202751456374784/))
 - **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
 - **2026-05-21** — news mention: Pathway 101: Enhanced Weathering ([source](https://captaindrawdown.com/posts/pathway-101-enhanced-weathering/))

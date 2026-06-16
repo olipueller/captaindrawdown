@@ -34,6 +34,9 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 
 ## History
 
+- **2026-06-11** — news mention: The AI bubble debate misses the point: the bottleneck is physical | Carbon Direct ([source](https://www.carbon-direct.com/insights/the-ai-bubble-debate-misses-the-point-the-bottleneck-is-physical))
+- **2026-06-02** — news mention: Webinar 3 - Bridging Science and Accounting: AI for Carbon Dioxide Removal and Carbon Markets ([source](https://www.nationalacademies.org/projects/DEPS-BEES-25-P-692/event/46771))
+- **2026-05-28** — news mention: Carbon Direct, Microsoft, Stripe, And Experts Release Sustainable Biomass Sourcing Guidelines For CD ([source](https://carbonherald.com/carbon-direct-microsoft-stripe-and-experts-release-sustainable-biomass-sourcing-guidelines-for-cdr/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-direct-microsoft-stripe-and-experts-release-sustainable-biomass-sourcing-guidelines-for-cdr))
 - **2026-05-12** — news mention: Take: Carbon removal is stuck in low earth orbit. Here ([source](https://captaindrawdown.com/posts/podcast-take-carbon-removal-is-stuck-in-low-earth-orbit-here-s-how-we-get/))
 - **2026-05-03** — news mention: Week in CDR — 2026-W18 ([source](https://captaindrawdown.com/posts/week-in-cdr-2026-w18/))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))

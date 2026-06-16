@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes residual Alpine wood via Syncraft technology to co-produce electricity, heat and biochar sold for barbecue/agricultural/industrial use plus carbon removal credits."
 url: "/directory/siotuu/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,7 +13,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://siotuu.com/en/home-e/" target="_blank" rel="noopener">https://siotuu.com/en/home-e/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +27,8 @@ SIOTUU GmbH is an Austrian biochar producer based in Fließ/Landeck, Tyrol, that
 
 ## History
 
+- **2026-06-15** — refresh: liveliness
+- **2026-06-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.klimate.co/project/siotuu-biochar))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.klimate.co/project/siotuu-biochar))

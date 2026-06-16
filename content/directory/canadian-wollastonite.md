@@ -5,7 +5,7 @@ type: "directory"
 description: "Mines and crushes wollastonite (calcium silicate); supplies the fast-weathering mineral to UNDO for spreading on Ontario farmland to enable enhanced rock weathering CDR."
 url: "/directory/canadian-wollastonite/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://canadianwollastonite.com" target="_blank" rel="noopener">https://canadianwollastonite.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/canadian-wollastonite/" target="_blank" rel="noopener">canadian-wollastonite — 481 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,8 @@ Canadian Wollastonite is an Ontario-based industrial minerals mine near Seeley's
 
 ## History
 
+- **2026-06-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-06-04** — news mention: It is planting season! 🌱 And #carbonremoval can be part of the future of farming. Here’s a cool exam ([source](https://x.com/naimmerchant/status/2062534629153005788))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

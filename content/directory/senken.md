@@ -30,6 +30,9 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 
 ## History
 
+- **2026-06-10** — news mention: Wie Pflanzenkohle Landwirtschaft und Bauindustrie zusammenbringen kann | top agrar ([source](https://www.topagrar.com/energie/news/neues-geschaftsfeld-pflanzenkohle-a-20025927.html))
+- **2026-05-24** — news mention: Two corporate CDR offtakes this week reveal the market splitting in two: Microsoft signed 650kt of B ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmlbzeentl2m))
+- **2026-05-22** — news mention: Lufthansa’s Multi-Year Carbon Removal Bet: What a Mixed Tech-and-Nature Deal Signals for Corporate C ([source](https://carbonmeld.com/en/articles/lufthansa-s-multi-year-carbon-removal-bet-what-a-mixed-tech-and-nature-deal-signals-for-corporate-cdr-buying/))
 - **2026-05-22** — news mention: Lufthansa Signs Tech- And Nature-Based Multi-Year CDR Deal With Senken ([source](https://carbonherald.com/lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken))
 - **2026-05-22** — news mention: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa Gr ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
 - **2026-05-21** — news mention: #cdr #carbondioxideremoval #klimaschutz #wissenstransfer | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7462876992414289920/))

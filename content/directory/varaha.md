@@ -34,7 +34,7 @@ Independently verified by carbon-credit registries:
 - 1 project · Enhanced Rock Weathering, 2022 · crediting period 2024-05-01 → 2029-04-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/enhanced-rock-weathering-smallholder-farmers-in-india-186)
 
 **Verra (VCS)**
-- 1 project · Afforestation + Reforestation · 68,259 tCO₂ issued · 597 retired · first issued 2026-05-01 &nbsp;[↗](https://registry.verra.org/app/projectDetail/VCS/4456)
+- 1 project · Afforestation + Reforestation · 68,259 tCO₂ issued · 11,468 retired · first issued 2026-05-01 &nbsp;[↗](https://registry.verra.org/app/projectDetail/VCS/4456)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -45,6 +45,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-22** — news mention: Supercritical Partners With Varaha To Bring Distributed Biochar Credits To Market ([source](https://carbonherald.com/supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market))
 - **2026-05-20** — news mention: #carbonunboundeastcoast #carbonunbound #carbonremoval #climateaction #netzero #decarbonization #carb ([source](https://www.linkedin.com/feed/update/urn:li:share:7462573132252459009/))
 - **2026-05-18** — news mention: Varaha & SAF Bangladesh Mark The Country’s First Agroforestry Credits Issued Under Verra’s Verified  ([source](https://carbonherald.com/varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard/?utm_source=rss&utm_medium=rss&utm_campaign=varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard))
 - **2026-05-12** — news mention: India just became the supply backbone of durable CDR without writing a single CDR law. Microsoft's 5 ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlmzi6gnpn2v))

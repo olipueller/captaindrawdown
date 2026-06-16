@@ -35,6 +35,8 @@ Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) 
 
 ## History
 
+- **2026-05-23** — news mention: Week in CDR — 2026-W20 ([source](https://www.captaindrawdown.com/posts/week-in-cdr-2026-w20/))
+- **2026-05-23** — news mention: Weekly link list: this week's connective tissue is infrastructure quietly being rebuilt around CDR.  ([source](https://x.com/CaptainDrawdown/status/2058084297249018276))
 - **2026-05-15** — news mention: Enhanced rock weathering is being sold by the ton today while the science to verify those tons is st ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlukhckpqx2u))
 - **2026-05-14** — news mention: Cascade Climate To Fortify ERW Scientific Evidence With New Global Bedrock Initiative ([source](https://carbonherald.com/cascade-climate-to-fortify-erw-scientific-evidence-with-new-global-bedrock-initiative/?utm_source=rss&utm_medium=rss&utm_campaign=cascade-climate-to-fortify-erw-scientific-evidence-with-new-global-bedrock-initiative))
 - **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))

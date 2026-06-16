@@ -41,6 +41,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-10** — news mention: #cdr #bmukn #lne #germanbiochar #novocarbo #carbonfuture #dvne #klimaschutz | German Biochar e.V. (G ([source](https://www.linkedin.com/feed/update/urn:li:share:7470107511908614144/))
+- **2026-06-02** — news mention: Novocarbo Rhine - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/novocarbo-rhine/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.novocarbo.com/biochar/green-construction/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

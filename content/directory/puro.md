@@ -34,6 +34,20 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-06-11** — news mention: BECCS Kirkenær - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/beccs-kirkenaer/))
+- **2026-06-11** — news mention: Carbon Capture 2026, $41M Frontier Deal, DOE Risk - EnkiAI ([source](https://enkiai.com/carbon-capture/microalgae-dac-frontier-deal/))
+- **2026-06-09** — news mention: Thanks to Nasdaq for hosting Benjamin Schulz Altitude discussing the potential of large scale CDR fi ([source](https://www.linkedin.com/feed/update/urn:li:share:7469752168351424512/))
+- **2026-06-04** — news mention: #biochar #carbonremoval #cdr #india #corcs #agriculture #circulareconomy #climateaction | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7468285454115643392/))
+- **2026-06-04** — news mention: Puro submits bid to supply CDR credits to EU's removals market ([source](https://www.qcintel.com/carbon/article/puro-submits-bid-to-supply-cdr-credits-to-eu-s-removals-market-66033.html))
+- **2026-06-03** — news mention: Puro.earth Launches New CRCF Program To Certify Eligible Credits Under The EU CRCF Regulation ([source](https://carbonherald.com/puro-earth-launches-new-crcf-program-to-certify-eligible-credits-under-the-eu-crcf-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=puro-earth-launches-new-crcf-program-to-certify-eligible-credits-under-the-eu-crcf-regulation))
+- **2026-06-02** — news mention: Novocarbo Rhine - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/novocarbo-rhine/))
+- **2026-06-01** — news mention: Stockholm Exergi's 750kt deal with the City of Stockholm just set the floor for permanent BECCS (bio ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mn7cprsiog2e))
+- **2026-05-31** — news mention: The CDR registry stack is quietly bifurcating. Developers are building their own pre-issuance integr ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mn4s7qyfmt2j))
+- **2026-05-28** — news mention: New Audit Booking Calendar By Puro.earth Enables A Faster CDR Revenue Route And Enhanced Transparenc ([source](https://carbonherald.com/new-audit-booking-calendar-by-puro-earth-enables-a-faster-cdr-revenue-route-and-enhanced-transparency/?utm_source=rss&utm_medium=rss&utm_campaign=new-audit-booking-calendar-by-puro-earth-enables-a-faster-cdr-revenue-route-and-enhanced-transparency))
+- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
+- **2026-05-28** — news mention: Puro.earth: Last week, the @[Puro.earth](urn:li:organization:14052561) team was in New York for @[Ca ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465387141292879872/))
+- **2026-05-23** — news mention: Weekly link list: this week's connective tissue is infrastructure quietly being rebuilt around CDR.  ([source](https://x.com/CaptainDrawdown/status/2058084297249018276))
+- **2026-05-22** — news mention: #purocdrforum #ecosperityweek #purocdrforum #carbonremoval #cdr #apac #singapore #ecosperityweek #bi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463488726321713154/))
 - **2026-05-21** — news mention: Residual Appoints Former Puro.earth Executive As VP Of Finance ([source](https://carbonherald.com/residual-appoints-former-puro-earth-executive-as-vp-of-finance/?utm_source=rss&utm_medium=rss&utm_campaign=residual-appoints-former-puro-earth-executive-as-vp-of-finance))
 - **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
 - **2026-05-21** — news mention: #ecosperityweek #carbonremoval #cdr #arccoalition #apac #singapore #ecosperityweek #corcs #biochar | ([source](https://www.linkedin.com/feed/update/urn:li:share:7462862260827496448/))
@@ -50,20 +64,6 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 - **2026-05-07** — news mention: Introducing a new Puro.earth brand for a new era of engineered carbon dioxide removal - Puro.earth ([source](https://puro.earth/insights/post/introducing-a-new-puro-earth-brand-for-a-new-era-of-engineered-carbon-dioxide-removal/))
 - **2026-05-07** — news mention: NoviqTech Targets Data Centre Carbon Removal Demand with Coralia Biochar Strategy ([source](https://smallcaps.com.au/article/noviqtech-targets-data-centre-carbon-removal-demand-with-coralia-biochar-strategy))
 - **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week Zuric ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
-- **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-29** — news mention: #bioco2 #carbonremoval #cdr #beccs #crcf #climatepolicy #helsinki | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7455239786749071360/))
-- **2026-04-24** — news mention: #carbonremoval #cdr #northernlights #ccs #beccs #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453428210014425088/))
-- **2026-04-23** — news mention: #earthday #carbonremoval #cdr #corcs #climateaction | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7452718002984321026/))
-- **2026-04-22** — news mention: CDR Buyers: A Maturing Market | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452341544663277569/))
-- **2026-04-19** — merged 2 duplicate(s): Puro.earth, Bordet
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/four-bordet-70))
-- **2026-04-19** — url added from cdr.fyi supplier page: http://www.groupebordet.fr/ ([source](https://www.cdr.fyi/supplier/bordet))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bordet))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 
 ---
 

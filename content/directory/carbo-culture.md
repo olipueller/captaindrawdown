@@ -42,6 +42,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-05** — news mention: Projects - Carbo Culture ([source](https://carboculture.com/technology/arc))
+- **2026-05-22** — news mention: #crcf | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463474417994575872/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carboculture.com/))

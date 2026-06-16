@@ -5,7 +5,7 @@ type: "directory"
 description: "Industry trade association/consortium for the European biochar sector — advocacy, market reports, standards alignment; does not produce biochar itself."
 url: "/directory/european-biochar-industry-consortium/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.biochareurope.eu/" target="_blank" rel="noopener">https://www.biochareurope.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ebi-consortium/" target="_blank" rel="noopener">ebi-consortium — 8,643 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~125 (-11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ The European Biochar Industry Consortium (EBI), now operating as Biochar Europe,
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

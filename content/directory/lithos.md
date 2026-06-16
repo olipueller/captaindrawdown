@@ -14,12 +14,12 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.lithoscarbon.com/" target="_blank" rel="noopener">https://www.lithoscarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lithoscarbon/" target="_blank" rel="noopener">lithoscarbon — 13,122 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~45 (+15% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lithoscarbon/" target="_blank" rel="noopener">lithoscarbon — 13,556 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2026-05-22</small></td></tr>
+  <tr><th>Employees</th><td>~35 (-17% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
-  <tr><th>Registry-verified</th><td>Isometric</td></tr>
+  <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-05-22)</small></td></tr>
 </table>
 
 ## About
@@ -33,7 +33,7 @@ Lithos Carbon is a San Francisco-based pure-play CDR supplier using Enhanced Roc
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 1 project · Rock Weathering &nbsp;[↗](https://to.isometric.com/prj_1JY1YXDBS1S01Y05)
+- 1 project · Rock Weathering · 1,602 tCO₂ issued · first issued 2026-05-22 &nbsp;[↗](https://to.isometric.com/prj_1JY1YXDBS1S01Y05)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -44,6 +44,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-05-27** — news mention: 🪨 Lithos has issued our first batch of Isometric-verified carbon removal credits from the earliest P ([source](https://www.linkedin.com/feed/update/urn:li:share:7465090193377681408/))
 - **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
 - **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
 - **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))

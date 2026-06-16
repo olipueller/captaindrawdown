@@ -5,7 +5,7 @@ type: "directory"
 description: "University-based research and innovation lab running CDR accelerators, open-innovation programs, and MRV/LCA research rather than performing removals directly."
 url: "/directory/suslab/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.suslab.ch/" target="_blank" rel="noopener">https://www.suslab.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sustainability-in-business-lab/" target="_blank" rel="noopener">sustainability-in-business-lab — 3,454 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~13</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,7 @@ sus.lab (Sustainability in Business Lab) is a "think and do tank" at ETH Zurich,
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-11** — news mention: Biochar’s Triple Win: Healthier Soils, Improved Crops, and Decarbonization ([source](https://csrwire.com/press-release/biochars-triple-win-healthier-soils-improved-crops-and-decarbonization/))
 - **2026-05-21** — news mention: Biochar farm robots win $500K Wilkes Climate Launch Prize - @theU ([source](https://attheu.utah.edu/facultystaff/biochar-farm-robots-win-500k-wilkes-climate-launch-prize/))
 - **2026-05-06** — news mention: Biochar’s triple win: Healthier soils, improved crops, and decarbonization - Cisco Blogs ([source](https://blogs.cisco.com/our-corporate-purpose/biochars-triple-win-healthier-soils-improved-crops-and-decarbonization))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/applied-carbon/__YdS4qB8Ilkbaz2XG3VBz8Oh0jockE4GUVDm6KQl0iSs))

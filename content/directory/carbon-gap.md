@@ -34,6 +34,19 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-06-11** — news mention: 👏 We&amp;#39;re delighted to welcome Kaj Seeger  to the Carbon Gap team as our new Advocacy Lead for ([source](https://www.linkedin.com/feed/update/urn:li:share:7470399615628980224/))
+- **2026-06-10** — news mention: Buyers Club carousel.pdf | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470087058582171649/))
+- **2026-06-09** — news mention: EU Buyers&#039; Club - Carbon Gap - Policy Tracker ([source](https://tracker.carbongap.org/policy/eu-buyers-club/))
+- **2026-06-04** — news mention: Stockholm shows the way: How public buyers can boost the carbon removal market - Carbon Gap ([source](https://carbongap.org/stockholm-shows-the-way-how-public-buyers-can-boost-the-carbon-removal-market/))
+- **2026-06-04** — news mention: Copy of Stockholm shows the way: How public buyers can boost the carbon removal market | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468239829722492929/))
+- **2026-05-29** — news mention: Poland has significant carbon removal potential but urgently needs policy and infrastructure to matc ([source](https://carbongap.org/poland-has-significant-carbon-removal-potential-but-urgently-needs-policy-and-infrastructure-to-match/))
+- **2026-05-29** — news mention: New Report: Poland Holds Significant CDR Potential, But Urgently Needs Matching Policy & Infrastruct ([source](https://carbonherald.com/new-report-poland-holds-significant-cdr-potential-but-urgently-needs-matching-policy-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=new-report-poland-holds-significant-cdr-potential-but-urgently-needs-matching-policy-infrastructure))
+- **2026-05-26** — news mention: 🎉 We&amp;#39;re so pleased to welcome Camille Fessard as our France Advocacy Lead!
+
+Camille joins us ([source](https://www.linkedin.com/feed/update/urn:li:share:7464959266525855744/))
+- **2026-05-22** — news mention: Yesterday, on Day 2 of the CRCF Days, carbon farming was the focus. 
+
+Over the two days, a lot of gr ([source](https://www.linkedin.com/feed/update/urn:li:share:7463535518933319680/))
 - **2026-05-20** — news mention: New Paper Examines How An EU CDR Buyers’ Club Could Drive Demand In This Region ([source](https://carbonherald.com/new-paper-examines-how-an-eu-cdr-buyers-club-could-drive-demand-in-this-region/?utm_source=rss&utm_medium=rss&utm_campaign=new-paper-examines-how-an-eu-cdr-buyers-club-could-drive-demand-in-this-region))
 - **2026-05-20** — news mention: Earlier today, Carbon Gap contributed input to a closed-door roundtable in Brussels on carbon remova ([source](https://www.linkedin.com/feed/update/urn:li:share:7462505613923651584/))
 - **2026-05-19** — news mention: Advancing an EU Carbon Removal's Buyers Club - Carbon Gap ([source](https://carbongap.org/advancing-an-eu-carbon-removals-buyers-club))

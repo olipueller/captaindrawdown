@@ -5,7 +5,7 @@ type: "directory"
 description: "A US policy advocacy coalition of companies, unions, and NGOs that lobbies for federal policy and tax-credit support (notably 45Q) for carbon capture, removal, transport, and storage — it does not"
 url: "/directory/carbon-capture-coalition/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carboncapturecoalition.org/" target="_blank" rel="noopener">https://carboncapturecoalition.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-capture-coalition/" target="_blank" rel="noopener">carbon-capture-coalition — 3,711 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~6 (-14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ The Carbon Capture Coalition is a US nonpartisan policy advocacy coalition conve
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops \"Zero C\" DAC units and the KLC catalyst that mineralizes captured CO2 into carbonates, plus clean hydrogen production paired with CO2 capture."
 url: "/directory/lowcarbon/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Website</th><td><a href="https://www.lowcarbon.co.kr/en/" target="_blank" rel="noopener">https://www.lowcarbon.co.kr/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/%eb%a1%9c%ec%9a%b0%ec%b9%b4%eb%b3%b8/" target="_blank" rel="noopener">%eb%a1%9c%ec%9a%b0%ec%b9%b4%eb%b3%b8 — 254 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~125 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ LowCarbon is a South Korean climate-tech company founded in 2016 in Gangjin Coun
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

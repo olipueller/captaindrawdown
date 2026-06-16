@@ -5,7 +5,7 @@ type: "directory"
 description: "AI-designed solid sorbent DAC system integrated into data centers, using server waste heat to drive regeneration."
 url: "/directory/orbital-materials/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.orbitalmaterials.com" target="_blank" rel="noopener">https://www.orbitalmaterials.com</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Orbital Materials is an AI-for-materials company founded in late 2022, headquart
 
 ## History
 
+- **2026-06-15** — refresh: liveliness
+- **2026-06-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://tracxn.com/d/companies/orbital-materials/__BnXe7XTnvbT8EtTO5E13os14IjecGZGmscLm-cFWR3Q))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/orbital-materials/__BnXe7XTnvbT8EtTO5E13os14IjecGZGmscLm-cFWR3Q))

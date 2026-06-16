@@ -14,7 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://nuristbiocarbon.com/" target="_blank" rel="noopener">https://nuristbiocarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nurist-biocarbon/" target="_blank" rel="noopener">nurist-biocarbon</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +30,7 @@ Nurist Biocarbon Private Limited is an early-stage Indian biochar producer based
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://nuristbiocarbon.com/))
 - **2026-04-19** — refresh: liveliness

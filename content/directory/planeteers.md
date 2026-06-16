@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://planeteers.de/" target="_blank" rel="noopener">https://planeteers.de/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh — 3,511 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh — 3,905 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~27 (+42% YoY)</td></tr>
+  <tr><th>Employees</th><td>~31 (+29% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -45,6 +45,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-06-11** — news mention: #hhis #hamburginnovationsummit #carbonremoval #climatetech #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470410455300280320/))
+- **2026-06-10** — news mention: #unitedbytech #vivatech2026 #planeteers #climatetech #innovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7470095057581346816/))
+- **2026-06-04** — news mention: #lifeatplaneteers #teamculture #internationalevening #climatetech | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467859665549238272/))
+- **2026-05-29** — news mention: Planeteers: Meet us at the @[Negative Emissions Platform](urn:li:organization:69387564) Summit in Br ([source](https://www.linkedin.com/feed/update/urn:li:share:7465662435300003841/))
 - **2026-05-19** — news mention: #carbonremoval #climateintegrity #climatetech #planeteers #atmosfair #helix | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7460324716285853696/))
 - **2026-05-12** — news mention: 🌍 Please join us in welcoming Christian Barrera, our newest Planeteer! 💚
 

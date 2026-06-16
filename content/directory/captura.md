@@ -30,6 +30,8 @@ Captura is a Pasadena, California-based Direct Ocean Capture company founded at 
 
 ## History
 
+- **2026-06-03** — news mention: Fishermen take interest in federal marine carbon dioxide removal research bill | National Fisherman ([source](https://www.nationalfisherman.com/fishermen-take-interest-in-federal-marine-carbon-dioxide-removal-research-bill))
+- **2026-05-26** — news mention: Captura to Supply Ocean-Captured CO2 for Franco-Canadian eSAF Facility in France - Renewable Carbon  ([source](https://renewable-carbon.eu/news/?p=177076))
 - **2026-05-11** — news mention: 🧵 A $50M ocean startup raised serious money, built real technology, and delivered on every contract  ([source](https://x.com/MickH_W/status/2053804970387075432))
 - **2026-05-04** — news mention: Captura Wins Supplier Deal For eSAF Plant In France Using Ocean-Captured CO2 ([source](https://carbonherald.com/captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2/?utm_source=rss&utm_medium=rss&utm_campaign=captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://capturacorp.com/))

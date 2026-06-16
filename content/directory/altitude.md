@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.altitudecarbon.com/" target="_blank" rel="noopener">https://www.altitudecarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/altitude-sustainable/" target="_blank" rel="noopener">altitude-sustainable — 687 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/altitude-sustainable/" target="_blank" rel="noopener">altitude-sustainable</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -32,6 +32,13 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-06-09** — news mention: Thanks to Nasdaq for hosting Benjamin Schulz Altitude discussing the potential of large scale CDR fi ([source](https://www.linkedin.com/feed/update/urn:li:share:7469752168351424512/))
+- **2026-06-06** — news mention: This Week in CDR - June 5, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468696518095663104/))
+- **2026-06-05** — news mention: Altitude partners with Equilibrium for a Long-Term Bet on India: A Landmark 180,000t CDR Offtake ([source](https://www.altitudecarbon.com/news/altitude-partners-with-equilibrium-for-a-long-term-bet-on-india-a-landmark-180-000t-cdr-offtake))
+- **2026-06-04** — news mention: India-Based Equilibrium Inks New Biochar Deal With Altitude ([source](https://carbonherald.com/india-based-equilibrium-inks-new-biochar-deal-with-altitude/?utm_source=rss&utm_medium=rss&utm_campaign=india-based-equilibrium-inks-new-biochar-deal-with-altitude))
+- **2026-05-25** — news mention: Altitude and Fusinite Partner for Scientific Insights Across Carbon Removal Portfolio ([source](https://www.altitudecarbon.com/news/altitude-and-fusinite))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

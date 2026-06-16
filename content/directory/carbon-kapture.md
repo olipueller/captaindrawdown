@@ -5,7 +5,7 @@ type: "directory"
 description: "Grows sugar kelp (Saccharina latissima) on ropes via shellfish-farm partnerships, then pyrolyzes the dried seaweed into biochar that is applied to agricultural soils."
 url: "/directory/carbon-kapture/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://carbonkapture.com/" target="_blank" rel="noopener">https://carbonkapture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-kapture/" target="_blank" rel="noopener">carbon-kapture</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Carbon Kapture is a UK startup (founded 2020, based in Poole) that partners with
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.geoengineeringmonitor.org/geo-map-biochar-apr25))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.geoengineeringmonitor.org/geo-map-biochar-apr25))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

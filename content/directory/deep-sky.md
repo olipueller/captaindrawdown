@@ -44,6 +44,25 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-11** — news mention: Deep Sky announces direct air capture carbon removal agreement with TD Bank Group | Carbon Capture M ([source](https://carboncapturemagazine.com/articles/deep-sky-announces-direct-air-capture-carbon-removal-agreement-with-td-bank-group))
+- **2026-06-11** — news mention: Deep Sky Carbon Capture 2026, 10k Tonnes, Microsoft - EnkiAI ([source](https://enkiai.com/carbon-capture/deep-sky-dac-td-bank/))
+- **2026-06-11** — news mention: Climeworks Carbon Capture 2026, $10M Swiss Re Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/climeworks-dac-corporate-offtake/))
+- **2026-06-10** — news mention: TD Bank inks 10-year carbon removal deal with Deep Sky | ESG Dive ([source](https://www.esgdive.com/news/td-bank-inks-10-year-carbon-removal-deal-with-deep-sky/822390/))
+- **2026-06-09** — news mention: Climeworks Carbon Capture 2026, 31,000 Ton Schneider Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/climeworks-dac-aviation-offtake/))
+- **2026-06-08** — news mention: TD Bank Signs 10-Year Deal With Deep Sky for 18,000 Direct Air Capture Credits - ESG News ([source](https://esgnews.com/td-bank-signs-10-year-deal-with-deep-sky-for-18000-direct-air-capture-credits/))
+- **2026-06-08** — news mention: TD Signs 10-Year Carbon Removal Deal with Deep Sky - ESG Today ([source](https://www.esgtoday.com/td-signs-10-year-carbon-removal-deal-with-deep-sky/))
+- **2026-06-08** — news mention: Three CDR deals this week. Three different capital stacks. JPMorgan put $20M venture debt into Charm ([source](https://x.com/CaptainDrawdown/status/2063850137978273893))
+- **2026-06-08** — news mention: Three CDR deals this week. Three different capital stacks. JPMorgan put $20M of venture debt into Ch ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnqvwepcnf22))
+- **2026-06-06** — news mention: This Week in CDR - June 5, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468696518095663104/))
+- **2026-06-04** — news mention: Deep Sky Announces Direct Air Capture Carbon Removal Agreement with TD Bank Group, Advancing Canada' ([source](https://www.newswire.ca/news-releases/deep-sky-announces-direct-air-capture-carbon-removal-agreement-with-td-bank-group-advancing-canada-s-leadership-in-carbon-removal-899228119.html))
+- **2026-06-04** — news mention: Deep Sky signs 10-year carbon credit deal with TD Bank Group ([source](https://www.thestar.com/business/deep-sky-signs-10-year-carbon-credit-deal-with-td-bank-group/article_7d0db41f-8a9a-57d3-a46d-77ca9d8e8106.html))
+- **2026-06-04** — news mention: Deep Sky signs 10-year carbon credit deal with TD Bank Group - Investment Executive ([source](https://www.investmentexecutive.com/news/industry/deep-sky-signs-10-year-carbon-credit-deal-with-td-bank-group/))
+- **2026-06-04** — news mention: Deep Sky And TD Bank Sign New Carbon Removal Agreement ([source](https://carbonherald.com/deep-sky-and-td-bank-sign-new-carbon-removal-agreement/?utm_source=rss&utm_medium=rss&utm_campaign=deep-sky-and-td-bank-sign-new-carbon-removal-agreement))
+- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
+- **2026-05-23** — news mention: Why Aviation’s First Big DAC Purchase Could Reprice the Carbon Removal Market · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-aviation-s-first-big-dac-purchase-could-reprice-the-carbon-removal-market/))
+- **2026-05-22** — news mention: Deep Sky Raises C$75M to Advance Gigaton-Scale Carbon Removal ([source](https://www.causeartist.com/blog/deep-sky-raises-75m-carbon-removal))
+- **2026-05-22** — news mention: Deep Sky Secures $40M to Advance Direct Air Capture ([source](https://www.causeartist.com/blog/deep-sky-secures-40m-to-advance-direct-air-capture))
+- **2026-05-22** — news mention: Deep Sky & Lufthansa’s Carbon Removal Credit Partnership | Sustainability Magazine ([source](https://sustainabilitymag.com/news/deep-sky-lufthansas-carbon-removal-credit-partnership))
 - **2026-05-22** — news mention: Deep Sky And Lufthansa Group Enter Carbon Removal Credit Agreement - Canadian Manufacturing ([source](https://www.canadianmanufacturing.com/manufacturing/deep-sky-and-lufthansa-group-enter-carbon-removal-credit-agreement-318932/))
 - **2026-05-22** — news mention: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa Gr ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
 - **2026-05-22** — news mention: Deep Sky Carbon Capture 2025, $3M Shell Agreement ([source](https://enkiai.com/canada-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
@@ -55,17 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-05-01** — news mention: Deep Sky Announces Partnership to Advance Direct Air Capture with ENGIE – Weekly Voice ([source](https://weeklyvoice.com/deep-sky-announces-partnership-to-advance-direct-air-capture-with-engie/))
 - **2026-05-01** — news mention: Deep Sky and ENGIE Sign Partnership for Up to 15,000 Direct Air Capture Carbon Removal Credits ([source](https://onestopesg.com/esg-news/deep-sky-engie-direct-air-capture-partnership))
 - **2026-05-01** — news mention: Deep Sky Enters DAC-Focused Strategic Partnership With ENGIE  Deep Sky has signed a strategic partne ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkrdzbbq7o27))
-- **2026-05-01** — news mention: Deep Sky Enters DAC-Focused Strategic Partnership With ENGIE  Deep Sky has signed a strategic partne ([source](https://x.com/CaptainDrawdown/status/2050078538355687608))
-- **2026-05-01** — news mention: Higher near-term temps tighten the carbon budget and push more emissions into "residual" territory t ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkr7kfage52g))
-- **2026-05-01** — news mention: Deep Sky Announces Partnership to Advance Direct Air Capture with ENGIE ([source](https://www.prnewswire.com/news-releases/deep-sky-announces-partnership-to-advance-direct-air-capture-with-engie-302757436.html))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-30** — news mention: Deep Sky Enters DAC-Focused Strategic Partnership With ENGIE ([source](https://carbonherald.com/deep-sky-enters-dac-focused-strategic-partnership-with-engie/?utm_source=rss&utm_medium=rss&utm_campaign=deep-sky-enters-dac-focused-strategic-partnership-with-engie))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.deepskyclimate.com/blog/history-made-deep-sky-alpha-begins-operations-with-north-americas-first-co2-storage-via-direct-air-capture-2))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.deepskyclimate.com/blog/history-made-deep-sky-alpha-begins-operations-with-north-americas-first-co2-storage-via-direct-air-capture-2))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.deepskyclimate.com/blog/history-made-deep-sky-alpha-begins-operations-with-north-americas-first-co2-storage-via-direct-air-capture-2))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

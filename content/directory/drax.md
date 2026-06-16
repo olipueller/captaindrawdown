@@ -29,6 +29,10 @@ Drax Group plc is a UK-listed energy utility that operates the Drax Power Statio
 
 ## History
 
+- **2026-06-07** — news mention: Miliband’s Clean Power 2030 Plan Off the Rails ([source](https://davidturver.substack.com/p/miliband-clean-power-2030-plan-off-the-rails))
+- **2026-06-05** — news mention: UK agency backs permit change for Drax carbon capture project - Bioenergy Insight Magazine ([source](https://www.bioenergy-news.com/news/uk-agency-backs-permit-change-for-drax-carbon-capture-project/))
+- **2026-06-04** — news mention: UK Environment Agency supports Drax carbon capture permit approval ([source](https://www.gasworld.com/story/uk-environment-agency-supports-drax-carbon-capture-permit-approval/2250986.article/))
+- **2026-05-23** — news mention: Bioénergie avec captage et stockage de dioxyde de carbone — Wikipédia ([source](https://fr.wikipedia.org/wiki/Bio%C3%A9nergie_avec_captage_et_stockage_de_dioxyde_de_carbone))
 - **2026-05-15** — news mention: How biomass delivers system stability in an uncertain energy landscape - Drax Global ([source](https://www.drax.com/opinion/how-biomass-delivers-system-stability-in-an-uncertain-energy-landscape/))
 - **2026-05-07** — news mention: Drax Group Trading Update Highlights Strong Visibility And Strategic Flexibility, Says Longspur Rese ([source](https://www.directorstalkinterviews.com/drax-group-trading-update-highlights-strong-visibility-and-strategic-flexibility-says-longspur-research/4121250700))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

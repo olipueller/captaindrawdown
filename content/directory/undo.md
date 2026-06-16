@@ -34,6 +34,14 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 
 ## History
 
+- **2026-06-11** — news mention: 🔬 What is SAT-C? | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470422200110710786/))
+- **2026-06-06** — news mention: #undocarbon #carbonremoval #enhancedrockweathering #climatetech #cdr #soilhealth #mrv #sustainableag ([source](https://www.linkedin.com/feed/update/urn:li:share:7467927760230043648/))
+- **2026-06-04** — news mention: It is planting season! 🌱 And #carbonremoval can be part of the future of farming. Here’s a cool exam ([source](https://x.com/naimmerchant/status/2062534629153005788))
+- **2026-06-04** — news mention: UNDO Impact Update | May 2026 | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467492246150406144/))
+- **2026-06-02** — news mention: #enhancedrockweathering #erw #carbonremoval #cdr #mrv #climatetech #soilscience #geochemistry #clima ([source](https://www.linkedin.com/feed/update/urn:li:share:7467494413649412096/))
+- **2026-05-25** — news mention: Biochar from gasification projects like this can stack revenue: renewable gas plus durable carbon re ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmnmquzsm32b))
+- **2026-05-25** — news mention: Jim Mann, founder of UNDO, is becoming the geographic conscience of enhanced rock weathering. His ar ([source](https://x.com/CaptainDrawdown/status/2058776587550568848))
+- **2026-05-25** — news mention: Trees work, but they cap out fast. Limited land, fire risk, and carbon that returns to the air in de ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmndtpxfi62y))
 - **2026-05-22** — news mention: #cris2026 #carbonremoval #enhancedrockweathering #cdr #climatefinance #carbonmarkets #climatetech #m ([source](https://www.linkedin.com/feed/update/urn:li:share:7462901888485650432/))
 - **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
 - **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))

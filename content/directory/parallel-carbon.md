@@ -5,7 +5,7 @@ type: "directory"
 description: "Electrochemical direct air capture integrated with water electrolysis, using mineral (limestone-derived) sorbents to co-produce captured CO2 (for geological storage) and carbon-negative hydrogen."
 url: "/directory/parallel-carbon/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.parallelcarbon.com/" target="_blank" rel="noopener">https://www.parallelcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/parallel-carbon/" target="_blank" rel="noopener">parallel-carbon — 3,003 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~10 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Parallel Carbon is a Manchester, UK-based company founded in 2021 that develops 
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.parallelcarbon.com/post/parallel-carbon-unlocking-cost-effective-carbon-removal-and-hydrogen-co-production))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.parallelcarbon.com/post/parallel-carbon-unlocking-cost-effective-carbon-removal-and-hydrogen-co-production))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

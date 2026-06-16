@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces biochar via slow pyrolysis of forest/agricultural biomass at its Oliveira de Azeméis plant, selling Ecochar (agricultural soil amendment) and Carvão Zero (household charcoal) alongside"
 url: "/directory/ibero-massa-florestal/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Portugal</td></tr>
   <tr><th>Website</th><td><a href="https://en.imflorestal.com/" target="_blank" rel="noopener">https://en.imflorestal.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/imflorestal/" target="_blank" rel="noopener">imflorestal — 1,357 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~17</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Ibero Massa Florestal (IMF) is a Portuguese biochar producer based in Oliveira d
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/ibero/__BreM4r32ZvwnH0EXNQ0tHL-VfrWWt4samxIgka68OBw))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/ibero/__BreM4r32ZvwnH0EXNQ0tHL-VfrWWt4samxIgka68OBw))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

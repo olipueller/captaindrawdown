@@ -29,6 +29,11 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 
 ## History
 
+- **2026-06-06** — news mention: This Week in CDR - June 5, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468696518095663104/))
+- **2026-06-05** — news mention: JPMorgan signs carbon offtake and financing deal with Charm Industrial | ESG Dive ([source](https://www.esgdive.com/news/jpmorgan-signs-carbon-offtake-financing-deal-charm-industrial/822156/))
+- **2026-05-23** — news mention: 📊 Q1 2026: 2.3M tonnes contracted, 145K delivered. 
+
+🆕 We recently published our 2026 Q1 Durable CDR ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463554751562141698/))
 - **2026-05-21** — news mention: Modelers assume 5-10 gigatons of CO2 removal per year by 2050. Actual durable delivery today: under  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdnbg3sib2v))
 - **2026-05-20** — news mention: In 2026, Carbon Removal Marks The Largest Q1 On Record, New CDR.fyi Report Shows ([source](https://carbonherald.com/in-2026-carbon-removal-marks-the-largest-q1-on-record-new-cdr-fyi-report-shows/?utm_source=rss&utm_medium=rss&utm_campaign=in-2026-carbon-removal-marks-the-largest-q1-on-record-new-cdr-fyi-report-shows))
 - **2026-05-19** — news mention: Post 1: 569 pure-play CDR companies, ~9,500 people total. This chart plots every one as a dot: found ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mm6tcfptlw27))
@@ -56,9 +61,6 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 - **2026-04-26** — news mention: Did Microsoft Just Kill the Carbon Removal Industry? ([source](https://ctvr.substack.com/p/did-microsoft-just-kill-the-carbon))
 - **2026-04-25** — news mention: This Week in CDR - April 24, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453451962160734208/))
 - **2026-04-24** — news mention: Durable CDR: Reality vs Expectations: How are CDR methods performing relative to expectations? ([source](https://www.cdr.fyi/blog/durable-cdr-reality-vs-expectations))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cdr.fyi/))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cdr.fyi/about))
 
 ---
 

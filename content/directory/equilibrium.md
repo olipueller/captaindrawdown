@@ -44,6 +44,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-06** — news mention: This Week in CDR - June 5, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468696518095663104/))
+- **2026-06-05** — news mention: Equilibrium Secures Major Biochar Deal for Climate Action in India ([source](https://biochartoday.com/news/equilibrium-and-altitude-sign-multi-year-offtake-agreement-to-scale-biochar-carbon-removal-infrastructure-in-india/))
+- **2026-06-05** — news mention: Altitude partners with Equilibrium for a Long-Term Bet on India: A Landmark 180,000t CDR Offtake ([source](https://www.altitudecarbon.com/news/altitude-partners-with-equilibrium-for-a-long-term-bet-on-india-a-landmark-180-000t-cdr-offtake))
+- **2026-06-04** — news mention: India-Based Equilibrium Inks New Biochar Deal With Altitude ([source](https://carbonherald.com/india-based-equilibrium-inks-new-biochar-deal-with-altitude/?utm_source=rss&utm_medium=rss&utm_campaign=india-based-equilibrium-inks-new-biochar-deal-with-altitude))
 - **2026-05-13** — news mention: Sustained Neutralization of the Warming Response to Emissions through a Portfolio of GHG Mitigation  ([source](https://cdrxiv.org/preprint/521))
 - **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
 - **2026-05-11** — news mention: Take: The Future of Marine CDR: Scaling Ocean Alkalinity Enhancement with Planetary ([source](https://captaindrawdown.com/posts/yt-take-the-future-of-marine-cdr-scaling-ocean-alkalinity-enhancemen-qpq2v2hr/))

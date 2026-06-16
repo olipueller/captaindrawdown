@@ -30,6 +30,19 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-06-11** — news mention: One week until the Carbon Drawdown Symposium.
+
+On 16 June, we will open our measurement dataset on e ([source](https://www.linkedin.com/feed/update/urn:li:share:7470459956933263360/))
+- **2026-06-08** — news mention: This is what two years of enhanced weathering research looks like in practice.
+
+300+ lysimeter pots. ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7469735751434440705/))
+- **2026-06-03** — news mention: Two weeks from today, Carbon Drawdown Initiative will open its measurement dataset on enhanced rock  ([source](https://www.linkedin.com/feed/update/urn:li:share:7467560946639495168/))
+- **2026-06-02** — news mention: We hold positions in more than 30 companies working across the carbon removal landscape.
+
+For years, ([source](https://www.linkedin.com/feed/update/urn:li:share:7467198575551311872/))
+- **2026-05-29** — news mention: Most ERW assessments focus on alkalinity-driven carbon dioxide removal but there may be another inte ([source](https://www.linkedin.com/feed/update/urn:li:share:7466111386818056192/))
+- **2026-05-27** — news mention: Enhanced rock weathering uses silicate rock powders applied to agricultural soils. That raises a que ([source](https://www.linkedin.com/feed/update/urn:li:share:7465025344509669377/))
+- **2026-05-23** — news mention: When rock weathers, it releases cations into the soil. But where those cations end up, and for how l ([source](https://www.linkedin.com/feed/update/urn:li:share:7463574572806643712/))
 - **2026-05-20** — news mention: One of the harder questions in enhanced rock weathering is not only how much inorganic carbon is rem ([source](https://www.linkedin.com/feed/update/urn:li:share:7462487428243537920/))
 - **2026-05-18** — news mention: Personal view from a newcomer in CDR about ERW &mdash; Carbon Drawdown Initiative ([source](https://www.carbon-drawdown.de/blog/2026-5-11-personal-view-from-a-newcomer-in-cdr-about-erw))
 - **2026-05-18** — news mention: A fresh perspective on ERW – from someone brand new to the field.
@@ -55,8 +68,6 @@ One of our interns just wrapped u ([source](https://www.linkedin.com/feed/update
 - **2026-04-22** — news mention: A question I keep coming back to: are the numbers we report actually measuring what we think they ar ([source](https://x.com/dpaessler/status/2046937273048989752))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-drawdown.de/who))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-drawdown.de/what-we-do))
-- **2026-04-18** — discovered via: news_feed, exa ([source](https://www.carbon-drawdown.de/blog/2026-4-13-chasing-net-zero-is-futile-for-now-invest-your-ambitions-into-changing-systems-instead))
 
 ---
 

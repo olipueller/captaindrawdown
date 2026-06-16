@@ -34,6 +34,13 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 
 ## History
 
+- **2026-06-09** — news mention: California just began to impose CO2-neutrality regulations on commercial buildings last year which w ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnucokzco227))
+- **2026-06-04** — news mention: Careers - CarbonCure Technologies Inc. ([source](https://www.carboncure.com/careers/))
+- **2026-06-04** — news mention: Ready to do the best work of your career—while literally saving the planet?🌏  #CarbonCure is hiring  ([source](https://x.com/CarbonCure/status/2062560838926438843))
+- **2026-05-29** — news mention: I wonder if the lawyers attempting to convince the judge or jury will call upon "The Honest Broker"  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmyvpmhw3k2q))
+- **2026-05-28** — news mention: "Our technology-based, high value carbon offset purchases were concrete carbon capture (from #Carbon ([source](https://x.com/CarbonCure/status/2059988982415396885))
+- **2026-05-23** — news mention: @Sammy_Roth I kept thinking: no book saves the world. The harder part is building the institutional  ([source](https://x.com/makinggovq/status/2058127087651672315))
+- **2026-05-22** — news mention: Hold on. Before you purchase any nature-based #Offsets, what about certainty?   CarbonCure #CarbonCr ([source](https://bsky.app/profile/carboncure.bsky.social/post/3mmhfsqfjr22e))
 - **2026-05-21** — news mention: Republicans want federal regulators to remove the requirement for Clean Air Act permits before const ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmejwz5qn22f))
 - **2026-05-20** — news mention: CarbonCure Carbon Credits - CarbonCure Technologies Inc. ([source](https://www.carboncure.com/carbon-credits/))
 - **2026-05-20** — news mention: Happy #WorldBeeDay! 🐝 At #CarbonCure, we bee-lieve small changes build into big results. Over the pa ([source](https://x.com/CarbonCure/status/2057132812667416624))

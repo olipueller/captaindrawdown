@@ -5,7 +5,7 @@ type: "directory"
 description: "Solid-sorbent DAC using a novel Cu(II)-coordinated chelating weak-base ion exchange resin (DeCarbonHIX) that adsorbs CO2 from air and releases it via low-temperature heat or seawater regeneration,"
 url: "/directory/jeevan-climate-solutions/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://jeevanclimate.com/" target="_blank" rel="noopener">https://jeevanclimate.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Jeevan Climate Solutions (also operating as Jeevan Technology) is a U.S. DAC sta
 
 ## History
 
+- **2026-06-15** — refresh: liveliness
+- **2026-06-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://startup-seeker.com/company/jeevanclimate~com))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://startup-seeker.com/company/jeevanclimate~com))

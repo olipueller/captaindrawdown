@@ -30,6 +30,12 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 
 ## History
 
+- **2026-06-09** — news mention: Like much of rural Uganda, Got Ngur Village depends on diesel generators and kerosene for power. Mea ([source](https://www.linkedin.com/feed/update/urn:li:share:7470006875640578049/))
+- **2026-06-04** — news mention: Now open: 30-day public consultation on our pioneering bio-oil in asphalt module under the BiCRS met ([source](https://www.linkedin.com/feed/update/urn:li:share:7468194854825525248/))
+- **2026-06-02** — news mention: When every distributed biochar project gets the same credit, prices converge, regardless of how diff ([source](https://www.linkedin.com/feed/update/urn:li:share:7467486853869502464/))
+- **2026-05-29** — news mention: Rainbow Standard: Our team was in New York for @[Carbon Unbound](urn:li:organization:87408149). Two  ([source](https://www.linkedin.com/feed/update/urn:li:share:7466035628409819136/))
+- **2026-05-28** — news mention: Rainbow Standard: Science creates knowledge. Engineering turns it into solutions. It's a clean defin ([source](https://www.linkedin.com/feed/update/urn:li:share:7465323429005766656/))
+- **2026-05-23** — news mention: Weekly link list: this week's connective tissue is infrastructure quietly being rebuilt around CDR.  ([source](https://x.com/CaptainDrawdown/status/2058084297249018276))
 - **2026-05-20** — news mention: 398: Scientists vs. Engineers, &amp; the Commercial Pressure on Carbon Dioxide Removal—w/ Erica Dorr ([source](https://podcasters.spotify.com/pod/show/reversingclimatechange/episodes/398-Scientists-vs--Engineers---the-Commercial-Pressure-on-Carbon-Dioxide-Removalw-Erica-Dorr--Samara-Vantil--Rainbow-e3j0jq0))
 - **2026-05-20** — news mention: Take: 398: Scientists vs. Engineers, & the Commercial Pressure on Carbon Dioxide Removal—w/ Erica Do ([source](https://captaindrawdown.com/posts/podcast-take-398-scientists-vs-engineers-the-commercial-pressure-on-carbo-24d4d76b/))
 - **2026-05-19** — news mention: Last month, our science and certification teams visited CLER VERTS’ biochar project in Occitanie, Fr ([source](https://www.linkedin.com/feed/update/urn:li:share:7462396642541916160/))

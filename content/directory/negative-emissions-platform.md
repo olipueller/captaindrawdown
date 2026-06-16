@@ -29,6 +29,16 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-06-11** — news mention: 🌍 VOLUNTEER WITH US AT COP31 – THINK NEGATIVE: CARBON REMOVALS PAVILION
+
+We&amp;#39;re looking for p ([source](https://www.linkedin.com/feed/update/urn:li:share:7470419902172913664/))
+- **2026-06-09** — news mention: Europe is moving on carbon removals and we’ve been on the ground as it happens. Here are the signals ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7469647258750447616/))
+- **2026-06-04** — news mention: #nepsummit | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7467916739750555649/))
+- **2026-06-03** — news mention: #brussels | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:share:7467558566669729792/))
+- **2026-05-29** — news mention: Tibor Siering, German Energy Agency (dena) | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7466035796622434305/))
+- **2026-05-29** — news mention: Planeteers: Meet us at the @[Negative Emissions Platform](urn:li:organization:69387564) Summit in Br ([source](https://www.linkedin.com/feed/update/urn:li:share:7465662435300003841/))
+- **2026-05-28** — news mention: Jannicke Gerner Bjerkas, Negative Emissions Summit 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465299930388234240/))
+- **2026-05-22** — news mention: MEP Niels Flemming Hansen, Negative Emissions Summit | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463231679315394560/))
 - **2026-05-22** — news mention: David Frank, Microsoft, Negative Emissions Summit 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463159082334478336/))
 - **2026-05-20** — news mention: Earlier today, Carbon Gap contributed input to a closed-door roundtable in Brussels on carbon remova ([source](https://www.linkedin.com/feed/update/urn:li:share:7462505613923651584/))
 - **2026-05-18** — news mention: The Negative Emissions Summit 2026 is back. And bigger than ever.
@@ -55,7 +65,6 @@ On 20 May, the European Commission ([source](https://www.linkedin.com/feed/updat
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.negative-emissions.org/updates/negative-emissions-platform-publishes-2025-annual-report))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.negative-emissions.org/))
-- **2026-04-18** — discovered via: news_feed ([source](https://www.negative-emissions.org/updates/the-italian-carbon-removal-network-is-live))
 
 ---
 

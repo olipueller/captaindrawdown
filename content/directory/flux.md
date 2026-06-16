@@ -14,8 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.fluxcarbon.earth/" target="_blank" rel="noopener">https://www.fluxcarbon.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/flux-carbon/" target="_blank" rel="noopener">flux-carbon</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/flux-earth/" target="_blank" rel="noopener">flux-earth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~12 (0% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +31,11 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-05-29** — news mention: @amandakhurley @glenpeters So stop tracking roadmaps. Start tracking who signed, for how much, on wh ([source](https://x.com/CaptainDrawdown/status/2060226023824707624))
+- **2026-05-28** — news mention: The new Nature Reviews Bioengineering paper everyone is citing as a CDR breakthrough is not one. Eng ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvawuaxfp27))
+- **2026-05-23** — news mention: Sargassum biomass is interesting for CDR if you can sink or convert it without releasing the carbon  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmibbvssqr2w))
 - **2026-05-11** — linkedin_slug corrected: 'flux-earth' → 'flux-carbon' (Dirk-confirmed via https://www.linkedin.com/company/flux-carbon/). Stale Coresignal data cleared. ([source](https://www.linkedin.com/company/flux-carbon/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

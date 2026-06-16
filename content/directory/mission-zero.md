@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.missionzero.tech/" target="_blank" rel="noopener">https://www.missionzero.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mission-zero/" target="_blank" rel="noopener">mission-zero — 13,008 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~49</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Mission Zero Technologies is a UK-based company that develops electrochemical di
 
 ## History
 
+- **2026-06-11** — news mention: Mission Zero, Airhive, Progressive Energy To Build World-Class DAC Plant In The UK ([source](https://carbonherald.com/mission-zero-airhive-progressive-energy-to-build-world-class-dac-plant-in-the-uk/?utm_source=rss&utm_medium=rss&utm_campaign=mission-zero-airhive-progressive-energy-to-build-world-class-dac-plant-in-the-uk))
+- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

@@ -29,6 +29,10 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 
 ## History
 
+- **2026-06-03** — news mention: Argentine Rainforest Province Wins Landmark Jurisdictional Certification From Verra ([source](https://carbonherald.com/argentine-rainforest-province-wins-landmark-jurisdictional-certification-from-verra/?utm_source=rss&utm_medium=rss&utm_campaign=argentine-rainforest-province-wins-landmark-jurisdictional-certification-from-verra))
+- **2026-05-28** — news mention: Durability is clean in principle: mineralized CO2 in basalt is fixed within ~2 years. The qualifier  ([source](https://x.com/CaptainDrawdown/status/2059892651575439562))
+- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
+- **2026-05-23** — news mention: Weekly link list: this week's connective tissue is infrastructure quietly being rebuilt around CDR.  ([source](https://x.com/CaptainDrawdown/status/2058084297249018276))
 - **2026-05-20** — news mention: Three biochar papers this week expose a pyrolysis-temperature fork the CDR credit market is ignoring ([source](https://x.com/CaptainDrawdown/status/2056964483990380953))
 - **2026-05-19** — news mention: Podcast: Natalia Dorfman (Kita CEO) on The CDR Policy Scoop with Eve Tamme and Sebastian Manhart, wa ([source](https://x.com/CaptainDrawdown/status/2056647673046814755))
 - **2026-05-19** — news mention: Post 1: 569 pure-play CDR companies, ~9,500 people total. This chart plots every one as a dot: found ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mm6tcfptlw27))

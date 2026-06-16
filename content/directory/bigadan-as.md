@@ -5,7 +5,7 @@ type: "directory"
 description: "Captures biogenic CO2 separated during biogas-to-biomethane upgrading at its Kalundborg Bioenergi plant, liquefies it cryogenically, and ships it for permanent geological storage in depleted North"
 url: "/directory/bigadan-as/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://bigadan.com/" target="_blank" rel="noopener">https://bigadan.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bigadan-a-s/" target="_blank" rel="noopener">bigadan-a-s — 3,772 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~104</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -39,6 +39,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

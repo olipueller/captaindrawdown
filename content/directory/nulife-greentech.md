@@ -43,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-23** — news mention: In 2024, Frontier buyers became NULIFE GreenTech&amp;#39;s first customers, signing a prepurchase to ([source](https://www.linkedin.com/feed/update/urn:li:share:7463622319115063296/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://nulifegreentech.com/))

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://aperambioenergia.com.br/en/biochar/" target="_blank" rel="noopener">https://aperambioenergia.com.br/en/biochar/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aperam-bioenergia-ltda./" target="_blank" rel="noopener">aperam-bioenergia-ltda. — 318 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~139 (-4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -33,6 +33,7 @@ Aperam BioEnergia is the Brazilian forestry and renewable-energy unit of Luxembo
 
 ## History
 
+- **2026-06-11** — news mention: Aperam Site Visit | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470409314663337984/))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

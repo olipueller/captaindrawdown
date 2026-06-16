@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates SynCraft wood-gas \"reverse power plants\" that co-produce biochar (~800 t/yr at Perg) alongside electricity and heat, plus three conventional biomass CHP plants."
 url: "/directory/nawaro-energie-betrieb/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.nawaro-energie.at" target="_blank" rel="noopener">https://www.nawaro-energie.at</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nawaro-energie/" target="_blank" rel="noopener">nawaro-energie — 377 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~30 (-10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,7 @@ NAWARO ENERGIE Betrieb GmbH is an Austrian bioenergy producer headquartered in Z
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.nawaro-energie.at/willkommen-auf-der-website-von-nawaro-energie/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.nawaro-energie.at/willkommen-auf-der-website-von-nawaro-energie/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

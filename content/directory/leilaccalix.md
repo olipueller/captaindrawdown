@@ -5,7 +5,7 @@ type: "directory"
 description: "Indirectly heated electric calciner that separates pure CO2 from limestone; licensed exclusively to Heirloom for limestone-looping DAC, while the core business is process-emission capture for cement"
 url: "/directory/leilaccalix/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.leilac.com/" target="_blank" rel="noopener">https://www.leilac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/leilac/" target="_blank" rel="noopener">leilac — 2,801 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~125 (-40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,7 @@ Leilac is a 93%-owned subsidiary of ASX-listed Calix Limited that develops indir
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.calix.com/careers.html))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.calix.com/careers.html))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

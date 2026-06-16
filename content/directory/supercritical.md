@@ -35,6 +35,8 @@ Supercritical is a London-based carbon removal marketplace that sources, vets, a
 
 ## History
 
+- **2026-06-06** — news mention: BHEL gains on bagging Rs 21,000-crore EPC order for Meja supercritical power project | Capital Marke ([source](https://www.business-standard.com/markets/capital-market-news/bhel-gains-on-bagging-rs-21-000-crore-epc-order-for-meja-supercritical-power-project-126060500355_1.html))
+- **2026-05-22** — news mention: Supercritical Partners With Varaha To Bring Distributed Biochar Credits To Market ([source](https://carbonherald.com/supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market))
 - **2026-05-20** — news mention: The carbon removal market is entering a different phase.
 
 The challenge is no longer just proving th ([source](https://www.linkedin.com/feed/update/urn:li:share:7462300342014320640/))

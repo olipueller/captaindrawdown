@@ -34,6 +34,7 @@ CUR8 is an intelligence provider for the carbon removal market, positioned at th
 
 ## History
 
+- **2026-06-09** — news mention: NATS To Invest Over $600k In A Carbon Removal Portfolio Through CUR8 ([source](https://carbonherald.com/nats-to-invest-over-600k-in-a-carbon-removal-portfolio-through-cur8/?utm_source=rss&utm_medium=rss&utm_campaign=nats-to-invest-over-600k-in-a-carbon-removal-portfolio-through-cur8))
 - **2026-05-15** — news mention: Podcast take: Gabrielle Walker (CUR8) on the CDR Policy Scoop's new long-form spinoff. First 60% is  ([source](https://x.com/CaptainDrawdown/status/2055196781667811467))
 - **2026-05-15** — news mention: DIGGING DEEP with Gabrielle Walker: A Life in Climate | The CDR Policy Scoop ([source](https://shows.acast.com/the-cdr-policy-scoop/episodes/digging-deep-with-gabrielle-walker-a-life-in-climate))
 - **2026-05-15** — news mention: Take: DIGGING DEEP with Gabrielle Walker: A Life in Climate ([source](https://captaindrawdown.com/posts/podcast-take-digging-deep-with-gabrielle-walker-a-life-in-climate/))

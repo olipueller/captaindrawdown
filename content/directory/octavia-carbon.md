@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.octaviacarbon.com/" target="_blank" rel="noopener">https://www.octaviacarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/octavia-carbon/" target="_blank" rel="noopener">octavia-carbon — 15,734 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/octavia-carbon/" target="_blank" rel="noopener">octavia-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~67 (+18% YoY)</td></tr>
+  <tr><th>Employees</th><td>~71 (+34% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -36,6 +36,14 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-06-05** — news mention: The carbon removal ecosystem we imagined is beginning to take shape.
+
+At ZEN Carbon, we’ve always be ([source](https://www.linkedin.com/feed/update/urn:li:share:7468611921219317761/))
+- **2026-06-04** — news mention: 🤝 We are excited to be advancing our work on CO₂ mineralization in concrete through a collaboration  ([source](https://www.linkedin.com/feed/update/urn:li:share:7468260121639317504/))
+- **2026-05-29** — news mention: 🏛️ We had the honor of welcoming legislators from across Africa, alongside our Kenyan parliamentaria ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465721674936791040/))
+- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-20** — news mention: Five burning questions as a newbie to carbon removal ([source](https://terraset.substack.com/p/five-burning-questions-as-a-newbie))
 - **2026-05-14** — news mention: 🚀 We are proud to join the RESPOND Accelerator Energy Cohort #7, backed by BMW Foundation Herbert Qu ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460613177479802880/))
 - **2026-05-12** — news mention: Octavia Carbon And Cella Celebrate First Underground CO2 Injection ([source](https://carbonherald.com/octavia-carbon-and-cella-celebrate-first-underground-co2-injection/?utm_source=rss&utm_medium=rss&utm_campaign=octavia-carbon-and-cella-celebrate-first-underground-co2-injection))

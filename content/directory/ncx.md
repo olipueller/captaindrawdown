@@ -5,7 +5,7 @@ type: "directory"
 description: "Satellite/AI-based forest inventory (\"Basemap\") powering a marketplace that matches landowners with carbon, timber, solar, and wildlife programs; no longer issues its own harvest-deferral carbon"
 url: "/directory/ncx/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="http://ncx.com" target="_blank" rel="noopener">http://ncx.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ncx-carbon/" target="_blank" rel="noopener">ncx-carbon — 9,905 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ NCX (Natural Capital Exchange), formerly SilviaTerra, is a US-based platform tha
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness

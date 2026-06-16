@@ -31,6 +31,8 @@ Tropicarbon is a Colombia-based pure-play CDR startup founded in 2023 that deplo
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/tropicarbon/__ZLzI5ELQl8S_k5eRBYurltZGTGfqGat_UGNb2_R4JXM))

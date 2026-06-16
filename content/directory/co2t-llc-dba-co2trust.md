@@ -5,7 +5,7 @@ type: "directory"
 description: "Blockchain-based carbon credit marketplace/bridging platform that tokenizes and trades third-party issued carbon credits (including Puro.earth biochar wCORCs)."
 url: "/directory/co2t-llc-dba-co2trust/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://co2trust.earth" target="_blank" rel="noopener">https://co2trust.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2trust/" target="_blank" rel="noopener">co2trust — 647 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~6 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ CO2Trust (CO2T, LLC) is an Oregon-based carbon credit marketplace platform that 
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): CO2 Trust

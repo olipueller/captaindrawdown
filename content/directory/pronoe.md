@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.pronoe.earth/" target="_blank" rel="noopener">https://www.pronoe.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pronoe-earth/" target="_blank" rel="noopener">pronoe-earth — 3,539 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~16 (+78% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Pronoe is a Paris-based ocean CDR startup developing electrochemical ocean alkal
 
 ## History
 
+- **2026-05-22** — news mention: Singapore Management University Launches South-east Asia's First University-Anchored Fund Dedicated  ([source](https://moneycompass.com.my/singapore-management-university-launches-south-east-asias-first-university-anchored-fund-dedicated-to-urban-solutions-sustainability/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.pronoe.earth/))

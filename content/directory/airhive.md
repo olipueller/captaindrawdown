@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.airhive.earth/" target="_blank" rel="noopener">https://www.airhive.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonnet-limited/" target="_blank" rel="noopener">carbonnet-limited — 2,856 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~19 (-10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energ
 
 ## History
 
+- **2026-06-11** — news mention: Mission Zero, Airhive, Progressive Energy To Build World-Class DAC Plant In The UK ([source](https://carbonherald.com/mission-zero-airhive-progressive-energy-to-build-world-class-dac-plant-in-the-uk/?utm_source=rss&utm_medium=rss&utm_campaign=mission-zero-airhive-progressive-energy-to-build-world-class-dac-plant-in-the-uk))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/airhive/__58otEpxQIKuZ3IUk3wwzVyXRekF9iOrUoIuzs9evcG0))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

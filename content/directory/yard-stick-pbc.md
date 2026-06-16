@@ -5,7 +5,7 @@ type: "directory"
 description: "Builds a handheld in-situ visible/near-infrared (VisNIR) spectroscopy probe and software platform for measuring soil organic carbon stocks down to ~45 cm (with a 1 m probe in development) for use in"
 url: "/directory/yard-stick-pbc/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.useyardstick.com/" target="_blank" rel="noopener">https://www.useyardstick.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/useyardstick/" target="_blank" rel="noopener">useyardstick — 4,856 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~23</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ Yard Stick PBC is a Cambridge, Massachusetts-based soil carbon MRV company found
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness

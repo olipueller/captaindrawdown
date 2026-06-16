@@ -5,7 +5,7 @@ type: "directory"
 description: "Stimulates marine snow formation via light-spectrum replicator and sensor technology to sink organic carbon into deep-sea sediments, with blockchain-tokenized carbon credits."
 url: "/directory/marinix-ocean-tech-as/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://marinix.org/" target="_blank" rel="noopener">https://marinix.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gea-carbon-capture/" target="_blank" rel="noopener">gea-carbon-capture — 217 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ MARINIX Ocean Tech AS is a Norwegian early-stage ocean CDR startup developing te
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

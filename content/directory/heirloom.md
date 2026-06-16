@@ -35,6 +35,8 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 
 ## History
 
+- **2026-06-09** — news mention: Climeworks Carbon Capture 2026, 31,000 Ton Schneider Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/climeworks-dac-aviation-offtake/))
+- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
 - **2026-05-13** — news mention: Bedrock Initiative | Cascade Climate  https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
 - **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends  CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))

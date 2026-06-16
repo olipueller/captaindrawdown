@@ -5,7 +5,7 @@ type: "directory"
 description: "C-Crete makes a Portland-cement-free concrete binder from non-carbonate rocks (granite, basalt, zeolite) that absorbs atmospheric CO2 via carbonation as it cures."
 url: "/directory/c-crete/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://ccretetech.com/" target="_blank" rel="noopener">https://ccretetech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/c_crete-technologies-llc/" target="_blank" rel="noopener">c_crete-technologies-llc — 2,711 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ C-Crete Technologies is a California-based materials science company that produc
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

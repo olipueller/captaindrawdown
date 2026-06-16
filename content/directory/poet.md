@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://poet.com/" target="_blank" rel="noopener">https://poet.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/poet/" target="_blank" rel="noopener">poet — 31,275 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1856 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,8 @@ POET LLC is the world's largest bioethanol producer, headquartered in Sioux Fall
 
 ## History
 
+- **2026-05-29** — news mention: It must be painful to share a story about a biofuels decarbonization project, but I know what a big  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmynkylfb22q))
+- **2026-05-27** — news mention: The hidden innovation behind Antora’s massive new heat battery ([source](https://www.canarymedia.com/articles/energy-storage/innovation-antora-massive-heat-battery))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://poet.com/pr/poet-and-summit-carbon-solutions-announce-carbon-capture-partnership))

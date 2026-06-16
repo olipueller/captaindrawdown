@@ -30,6 +30,10 @@ BioC is a Singapore-based biochar carbon removal supplier that operates PyroCCS 
 
 ## History
 
+- **2026-06-03** — news mention: For some reason, carbon dioxide polluters have chosen to not offset their pollution putting our chil ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnex7wwvo22l))
+- **2026-05-25** — news mention: Fortescue is headed towards becoming our first net-zero mining company. I hope that they are able to ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmokvnslhs2f))
+- **2026-05-25** — news mention: Biochar from gasification projects like this can stack revenue: renewable gas plus durable carbon re ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmnmquzsm32b))
+- **2026-05-23** — news mention: Want to know one of the most important things that makes me so angry about how academia ignored bioc ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmjljxazfk2s))
 - **2026-05-19** — news mention: In an entirely predictable move, Republicans have relaxed Environmental Protections to protect the p ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mm7j2ik5tc2b))
 - **2026-05-16** — news mention: Why do so few climate action activists promote more biochar use?  I suppose it is because so many pe ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlxuy4eg3222))
 - **2026-05-14** — news mention: Nine percent of fossil fuel is used for air travel. Eighty percent of air travel is recreational by  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlsvhnqehk22))

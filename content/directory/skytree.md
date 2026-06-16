@@ -34,6 +34,14 @@ Skytree is a Dutch direct air capture technology company founded in 2014 in Amst
 
 ## History
 
+- **2026-06-08** — news mention: Trade-off analysis matters. Most CDR pathways have land, water, energy, or air-quality footprints th ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnrjvi5ukl2h))
+- **2026-06-06** — news mention: Skytree Launches First Commercial Skytree Stratus System at Lingezegen Energy to Provide Fossil-Free ([source](https://skytree.tech/en-en/news/skytree-launches-first-commercial-skytree-stratus-system-at-lingezegen-energy))
+- **2026-06-06** — news mention: Within the Sustainable Systems Engineering program, students engage directly with topics like agrivo ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnmqrrillk27))
+- **2026-06-06** — news mention: Skytree Secures First Commercial Deployment Of Stratus DAC System  Skytree has announced the first c ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnmcj7ljpt2d))
+- **2026-06-06** — news mention: https://www.captaindrawdown.com/posts/captains-cdr-log-157/ ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnlv3akgpq2c))
+- **2026-06-05** — news mention: Skytree Secures First Commercial Deployment Of Stratus DAC System ([source](https://carbonherald.com/skytree-secures-first-commercial-deployment-of-stratus-dac-system/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-secures-first-commercial-deployment-of-stratus-dac-system))
+- **2026-06-05** — news mention: Skytree en Lingezegen Energy kondigen gezamenlijke ambitie aan om Skytree Stratus Direct Air Capture ([source](https://skytree.tech/nl-nl/nieuws/skytree-kondigt-lancering-aan-van-eerste-skytree-stratus-direct-air-capture-systeem-bij-lingezegen-energy-voor-fossielvrije-glastuinbouw))
+- **2026-06-05** — news mention: Skytree to deploy direct air capture system for Dutch greenhouse CO2 supply | Carbon Capture | gaswo ([source](https://www.gasworld.com/story/skytree-to-deploy-direct-air-capture-system-for-dutch-greenhouse-co2-supply/2251367.article/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://skytree.tech/en-en/newsroom))

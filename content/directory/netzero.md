@@ -42,6 +42,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-10** — news mention: #carbonremoval #netzero #canada #event | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470375845363331072/))
+- **2026-06-08** — news mention: #biochar #carbonremoval #cdr #biocharsummit #netzero | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7469730049823244288/))
+- **2026-05-29** — news mention: #tocw #carbonremoval #netzero | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7465750358603264000/))
 - **2026-05-22** — news mention: #cris2026 #carbonremoval #enhancedrockweathering #cdr #climatefinance #carbonmarkets #climatetech #m ([source](https://www.linkedin.com/feed/update/urn:li:share:7462901888485650432/))
 - **2026-05-20** — news mention: #carbonunboundeastcoast #carbonunbound #carbonremoval #climateaction #netzero #decarbonization #carb ([source](https://www.linkedin.com/feed/update/urn:li:share:7462573132252459009/))
 - **2026-05-18** — news mention: #climateaction #carbonremoval #climatesolutions #netzero #event #italy | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7462050202669977600/))

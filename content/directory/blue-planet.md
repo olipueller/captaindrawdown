@@ -5,7 +5,7 @@ type: "directory"
 description: "Captures CO2 from flue gas or other sources and mineralizes it with calcium from waste streams (steel slag, cement kiln dust, recycled concrete) into synthetic limestone aggregate for concrete."
 url: "/directory/blue-planet/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.blueplanetsystems.com/" target="_blank" rel="noopener">https://www.blueplanetsystems.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blueplanet-ltd/" target="_blank" rel="noopener">blueplanet-ltd — 3,514 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~20</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Blue Planet Systems is a Silicon Valley-based carbon capture and mineralization 
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

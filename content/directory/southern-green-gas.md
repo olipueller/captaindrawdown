@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops modular, solar-powered direct air capture units using metal-organic framework (MOF) sorbents for CO2 removal and e-fuel feedstock."
 url: "/directory/southern-green-gas/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.southerngreengas.com.au/" target="_blank" rel="noopener">https://www.southerngreengas.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/southern-green-gas/" target="_blank" rel="noopener">southern-green-gas — 891 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Southern Green Gas (SGG) is an Australian company extracting CO2 from air using 
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://southerngreengas.com.au/news/southern-green-gas-secures-22m-order-to-develop-renewable-methane-demonstration-project))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://southerngreengas.com.au/news/southern-green-gas-secures-22m-order-to-develop-renewable-methane-demonstration-project))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

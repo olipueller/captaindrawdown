@@ -31,6 +31,12 @@ ZEN Carbon is a Nairobi-based startup developing reactor-driven CO₂ mineraliza
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-06-05** — news mention: The carbon removal ecosystem we imagined is beginning to take shape.
+
+At ZEN Carbon, we’ve always be ([source](https://www.linkedin.com/feed/update/urn:li:share:7468611921219317761/))
+- **2026-06-04** — news mention: 🤝 We are excited to be advancing our work on CO₂ mineralization in concrete through a collaboration  ([source](https://www.linkedin.com/feed/update/urn:li:share:7468260121639317504/))
 - **2026-05-14** — news mention: 🌍🇰🇪🇰🇷 From South Korea to Kenya,carbon removal collaboration is going global.
 
 This week, we had the ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460597675093139458/))

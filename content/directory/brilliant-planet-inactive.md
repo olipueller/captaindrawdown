@@ -5,7 +5,7 @@ type: "directory"
 description: "Grew local marine microalgae strains in open-air seawater raceway ponds in coastal desert Morocco, spray-dried the biomass into hypersaline flakes, and buried it underground in engineered dry-tomb"
 url: "/directory/brilliant-planet-inactive/"
 pathway: "Biomass Burial"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.brilliantplanet.com" target="_blank" rel="noopener">https://www.brilliantplanet.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brilliantplanet/" target="_blank" rel="noopener">brilliantplanet</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~14 (-48% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Brilliant Planet was a London-headquartered startup (founded 2013) that grew mar
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

@@ -33,6 +33,8 @@ BioCirc is a Danish circular bioeconomy company founded in 2021 that owns and op
 
 ## History
 
+- **2026-05-24** — news mention: Two corporate CDR offtakes this week reveal the market splitting in two: Microsoft signed 650kt of B ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmlbzeentl2m))
+- **2026-05-22** — news mention: Microsoft Signs Major Denmark Carbon Removal Deal ([source](https://serrarigroup.com/microsoft-signs-major-denmark-carbon-removal-deal/))
 - **2026-05-22** — news mention: Microsoft buys first carbon credits since reportedly pausing purchases | ESG Dive ([source](https://www.esgdive.com/news/microsoft-buys-first-carbon-credits-reportedly-pausing-purchases/820885/))
 - **2026-05-21** — news mention: Microsoft & BioCirc’s 590,000 tonne Carbon Capture & Storage | Sustainability Magazine ([source](https://sustainabilitymag.com/news/microsoft-biocircs-590-000-tonne-carbon-capture-storage))
 - **2026-05-21** — news mention: Microsoft Secures 650,000 Carbon Removal Credits From BioCirc’s Danish Carbon Capture Platform - ESG ([source](https://esgnews.com/microsoft-secures-650000-carbon-removal-credits-from-biocircs-danish-carbon-capture-platform/))

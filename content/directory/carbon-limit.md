@@ -5,7 +5,7 @@ type: "directory"
 description: "Powder additive (blend of active minerals + reactive catalyst) added to concrete mixes that causes the finished concrete to absorb atmospheric CO2 and mineralize it as stable carbonates."
 url: "/directory/carbon-limit/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonlimit.com/" target="_blank" rel="noopener">https://www.carbonlimit.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonlimit/" target="_blank" rel="noopener">carbonlimit — 2,683 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Carbon Limit is a Boca Raton, Florida climate tech company founded in 2020/2021 
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a carbon credit exchange, auction house, and project marketplace for voluntary carbon credits (including carbon removals contracts) and environmental commodities."
 url: "/directory/climate-impact-x/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.climateimpactx.com/" target="_blank" rel="noopener">https://www.climateimpactx.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/new-york-mercantile-exchange/" target="_blank" rel="noopener">new-york-mercantile-exchange</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~139 (-3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,7 @@ Climate Impact X (CIX) is a Singapore-headquartered global carbon exchange and m
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: New York Mercantile Exchange (NYMEX) is a CME Group-owned commodities exchange based in New York, completely unrelated to Climate Impact X, a Singapore-based carbon credit exchange founded by DBS, Tem

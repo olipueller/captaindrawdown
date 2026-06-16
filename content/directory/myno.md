@@ -5,7 +5,7 @@ type: "directory"
 description: "MYNO pyrolyzes forest residuals into biochar at large-scale Carbon Removal Facilities, also producing renewable energy and selling carbon removal credits."
 url: "/directory/myno/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://mynocarbon.com/" target="_blank" rel="noopener">https://mynocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/myno-enterprises/" target="_blank" rel="noopener">myno-enterprises — 1,425 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~14</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ MYNO Carbon Corp. is a Washington-based biochar company founded in 2020 that is 
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://mynocarbon.com/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://mynocarbon.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

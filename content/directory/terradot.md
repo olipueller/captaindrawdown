@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terradot.earth/" target="_blank" rel="noopener">https://terradot.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terradot/" target="_blank" rel="noopener">terradot — 8,514 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terradot/" target="_blank" rel="noopener">terradot — 8,936 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2026-03-17</small></td></tr>
-  <tr><th>Employees</th><td>~93 (+107% YoY)</td></tr>
+  <tr><th>Employees</th><td>~85 (+52% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-03-17)</small></td></tr>
@@ -40,6 +40,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-06-03** — news mention: #agtech #carbonremoval #enhancedrockweathering #terradot #climateaction #brazilagro | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467370840372793344/))
 - **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
 - **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
 - **2026-05-13** — news mention: Next week, we&amp;#39;re hitting two of the most important events on the CDR calendar back to back.

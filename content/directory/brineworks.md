@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://brineworks.tech" target="_blank" rel="noopener">https://brineworks.tech</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brine-works/" target="_blank" rel="noopener">brine-works — 3,190 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~15 (+36% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Brineworks is an Amsterdam-based climate tech startup founded in 2023 by Gudfinn
 
 ## History
 
+- **2026-06-08** — news mention: Brineworks Opens New Amsterdam DAC Demo Plant, Targeting Sub-$115 CO2 Capture ([source](https://carbonherald.com/brineworks-opens-new-amsterdam-dac-demo-plant-targeting-sub-115-co2-capture/?utm_source=rss&utm_medium=rss&utm_campaign=brineworks-opens-new-amsterdam-dac-demo-plant-targeting-sub-115-co2-capture))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

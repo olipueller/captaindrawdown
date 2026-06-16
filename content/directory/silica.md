@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Website</th><td><a href="https://silica.earth" target="_blank" rel="noopener">https://silica.earth</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicaearth/" target="_blank" rel="noopener">silicaearth — 390 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicaearth/" target="_blank" rel="noopener">silicaearth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~7 (+75% YoY)</td></tr>
+  <tr><th>Employees</th><td>~9 (+80% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -40,6 +40,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-05-31** — news mention: Advances in genome editing could significantly enhance plant-based carbon dioxide removal (#CDR) by  ([source](https://x.com/geoengineering1/status/2061143468379107490))
+- **2026-05-29** — news mention: Most ERW assessments focus on alkalinity-driven carbon dioxide removal but there may be another inte ([source](https://www.linkedin.com/feed/update/urn:li:share:7466111386818056192/))
+- **2026-05-28** — news mention: That's the core mechanism which is known over geological time scales.  What's less often discussed i ([source](https://x.com/dpaessler/status/2059983386924417137))
 - **2026-05-14** — news mention: Carbon sequestration - Wikipedia ([source](https://en.wikipedia.org/wiki/Carbon_sequestration))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

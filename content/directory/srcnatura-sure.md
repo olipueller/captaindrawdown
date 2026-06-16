@@ -30,7 +30,7 @@ SRCNatura Sure Pvt Ltd is an India-based project developer that registered the f
 Independently verified by carbon-credit registries:
 
 **Verra (VCS)**
-- 2 projects · Biochar · 115,103 tCO₂ issued · 15,929 retired · first issued 2025-06-30 &nbsp;[↗](https://registry.verra.org/app/projectDetail/VCS/4812)
+- 2 projects · Biochar · 115,103 tCO₂ issued · 15,973 retired · first issued 2025-06-30 &nbsp;[↗](https://registry.verra.org/app/projectDetail/VCS/4812)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

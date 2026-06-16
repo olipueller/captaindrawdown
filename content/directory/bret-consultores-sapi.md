@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops Improved Forest Management (IFM) carbon removal projects with ejidos and private landowners across Mexico under the Climate Action Reserve's Mexico Forest Protocol."
 url: "/directory/bret-consultores-sapi/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Website</th><td><a href="https://bret-co.com/" target="_blank" rel="noopener">https://bret-co.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bret-consultores/" target="_blank" rel="noopener">bret-consultores — 142 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Bret Consultores SAPI de CV is a Mexico-based forestry carbon project developer 
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟡 Moderate ([source](https://bret-co.com/))

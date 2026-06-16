@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://crewcarbon.com/" target="_blank" rel="noopener">https://crewcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/crew-carbon/" target="_blank" rel="noopener">crew-carbon — 3,675 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/crew-carbon/" target="_blank" rel="noopener">crew-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~20 (+33% YoY)</td></tr>
+  <tr><th>Employees</th><td>~23 (+53% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -46,6 +46,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-06-10** — news mention: &amp;quot;The CREW system was recently tested at another HRSD plant nearby. It proved so effective t ([source](https://www.linkedin.com/feed/update/urn:li:share:7470227579673829376/))
+- **2026-05-22** — news mention: Chestnut Carbon Raises $90 Million to Scale Nature-Based Carbon Removal Projects Across the U.S. ([source](https://www.causeartist.com/blog/chestnut-carbon-raises-90-million-to-scale-nature-based-carbon-removal-projects-across-the-u-s))
 - **2026-05-19** — news mention: &amp;quot;Dr. Charles Bott is the technology chief for HRSD, a public water utility in coastal Virgi ([source](https://www.linkedin.com/feed/update/urn:li:share:7462151436521611264/))
 - **2026-05-18** — news mention: CREW Carbon Raises $25 Million to Scale Wastewater Treatment Technology with Verified Carbon Removal ([source](https://onestopesg.com/esg-news/crew-carbon-wastewater-treatment-funding))
 - **2026-05-18** — news mention: The AI Boom Needs Carbon Removal  The CEO of Climeworks argues in Heatmap News that carbon removal s ([source](https://x.com/CaptainDrawdown/status/2056268267589599562))

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs" target="_blank" rel="noopener">https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hafslundeco/" target="_blank" rel="noopener">hafslundeco — 13,382 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~952 (+23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,7 @@ Hafslund Celsio is Norway's largest district heating and waste-to-energy company
 
 ## History
 
+- **2026-05-28** — news mention: Jannicke Gerner Bjerkas, Negative Emissions Summit 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465299930388234240/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://kommunikasjon.ntb.no/pressemelding/18583528/hafslund-celsio-announces-a-10-year-carbon-removal-agreement-with-microsoft))

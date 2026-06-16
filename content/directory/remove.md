@@ -30,6 +30,26 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
+- **2026-06-11** — news mention: Mitsubishi Electric And VTT Reach Milestone In Electrochemical DOC Project  Mitsubishi Electric and  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnyuylsvos2h))
+- **2026-06-11** — news mention: The AI bubble debate misses the point: the bottleneck is physical | Carbon Direct ([source](https://www.carbon-direct.com/insights/the-ai-bubble-debate-misses-the-point-the-bottleneck-is-physical))
+- **2026-06-10** — news mention: Carbon Capture Technology and Quantum Computing: An Innovative Convergence for Solving the Climate C ([source](https://koriscience.com/carbon-capture-technology-and-quantum-computing-en/))
+- **2026-06-10** — news mention: #unitedbytech #vivatech2026 #planeteers #climatetech #innovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7470095057581346816/))
+- **2026-06-09** — news mention: Like much of rural Uganda, Got Ngur Village depends on diesel generators and kerosene for power. Mea ([source](https://www.linkedin.com/feed/update/urn:li:share:7470006875640578049/))
+- **2026-06-08** — news mention: This is what two years of enhanced weathering research looks like in practice.
+
+300+ lysimeter pots. ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7469735751434440705/))
+- **2026-06-08** — news mention: One of the sneaky feedback loops which renforce climate change is the replacement of ecological comm ([source](https://bsky.app/profile/obialik.bsky.social/post/3mnrv36f4wb2z))
+- **2026-06-03** — news mention: How carbon finance could give a boost to Japan’s ailing forestry industry - The Japan Times ([source](https://www.japantimes.co.jp/environment/2026/05/31/sustainability/forestry-carbon-credits-future/))
+- **2026-06-02** — news mention: Carbon credits could be a ‘net zero silver bullet’, but challenges remain ([source](https://www.pinsentmasons.com/out-law/news/carbon-credits-net-zero-silver-bullet))
+- **2026-06-02** — news mention: A few years back, lots of industry folks insisted that carbon removal was so important, that we just ([source](https://bsky.app/profile/jtemple.bsky.social/post/3mncxw5aru227))
+- **2026-06-02** — news mention: New ways to remove CO2 from atmosphere must grow much faster, report says | Greenhouse gas emissions ([source](https://www.theguardian.com/environment/2026/jun/02/new-ways-remove-co2-from-atmosphere-carbon-dioxide-removal))
+- **2026-06-02** — news mention: The Sorry State of Carbon Removal ([source](https://heatmap.news/carbon-removal/2026-carbon-removal-report))
+- **2026-05-23** — news mention: Tech Taps Nature to Capture Carbon, But Is It Lasting? | Mirage News ([source](https://www.miragenews.com/tech-taps-nature-to-capture-carbon-but-is-it-1678758/))
+- **2026-05-23** — news mention: Can AI Help Combat the Climate Crisis ([source](https://omnia.sas.upenn.edu/story/can-AI-help-combat-climate-crisis-anya-draves-alum))
+- **2026-05-23** — news mention: In 2024, Frontier buyers became NULIFE GreenTech&amp;#39;s first customers, signing a prepurchase to ([source](https://www.linkedin.com/feed/update/urn:li:share:7463622319115063296/))
+- **2026-05-22** — news mention: Chestnut Carbon Raises $90 Million to Scale Nature-Based Carbon Removal Projects Across the U.S. ([source](https://www.causeartist.com/blog/chestnut-carbon-raises-90-million-to-scale-nature-based-carbon-removal-projects-across-the-u-s))
+- **2026-05-22** — news mention: Deep Sky Secures $40M to Advance Direct Air Capture ([source](https://www.causeartist.com/blog/deep-sky-secures-40m-to-advance-direct-air-capture))
+- **2026-05-22** — news mention: Lufthansa to buy carbon removal credits from 3,000-tonne Canadian DAC plant ([source](https://www.gasworld.com/story/lufthansa-to-buy-carbon-removal-credits-from-3000-tonne-canadian-dac-plant/2250273.article/))
 - **2026-05-21** — news mention: Republicans want federal regulators to remove the requirement for Clean Air Act permits before const ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmejwz5qn22f))
 - **2026-05-21** — news mention: Enhanced rock weathering: Potential UK greenhouse gas removal - POST ([source](https://post.parliament.uk/research-briefings/post-pn-0726/))
 - **2026-05-21** — news mention: In a series we present you our members and their solutions for carbon dioxide removal (CDR). This ti ([source](https://www.linkedin.com/feed/update/urn:li:share:7462449426238885889/))
@@ -42,24 +62,6 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 - **2026-05-12** — news mention: How governments could fund permanent carbon removal now and shift costs by 2035 ([source](https://phys.org/news/2026-05-fund-permanent-carbon-shift.html))
 - **2026-05-12** — news mention: New Platform Lets Individuals Buy Verified Carbon Removal With Registry Proof ([source](https://carbonherald.com/platform-individuals-buy-verified-carbon-removal-registry-proof/?utm_source=rss&utm_medium=rss&utm_campaign=platform-individuals-buy-verified-carbon-removal-registry-proof))
 - **2026-05-12** — news mention: Meghalaya launches first community biochar carbon-removal unit in Ri Bhoi ([source](https://hubnetwork.in/meghalaya-launches-first-community-biochar-carbon-removal-unit-in-ri-bhoi/))
-- **2026-05-11** — news mention: Meghalaya CM: Farmers' Income Top Priority with New Biochar Plant ([source](https://www.newkerala.com/news/a/increasing-farmers-income-top-priority-government-meghalaya-cm-661.htm))
-- **2026-05-09** — news mention: Navigating clean energy procurement for carbon removal companies ([source](https://carbonbasedcommentary.substack.com/p/navigating-clean-energy-procurement))
-- **2026-05-09** — news mention: Carbon removal, co-products, and system boundaries ([source](https://carbonbasedcommentary.substack.com/p/carbon-removal-co-products-and-system))
-- **2026-05-09** — news mention: Why is it so difficult to fund projects that reduce emissions? ([source](https://medium.com/milkywire/why-is-it-so-difficult-to-fund-projects-that-reduce-emissions-ef1f85c08fc7?source=rss-d3dbfac6b1e3------2))
-- **2026-05-09** — news mention: How much carbon will we need to remove? ([source](https://roberthoglund.medium.com/how-much-carbon-will-we-need-to-remove-26fda7b5e19a?source=rss-d3dbfac6b1e3------2))
-- **2026-05-09** — news mention: Buyers of Enhanced Rock Weathering credits need to ask for the right type of MRV ([source](https://roberthoglund.medium.com/buyers-of-enhanced-rock-weathering-credits-need-to-ask-for-the-right-type-of-mrv-c109bc7cf100?source=rss-d3dbfac6b1e3------2))
-- **2026-05-08** — news mention: Europe’s quest for green steel ([source](https://www.canarymedia.com/articles/green-steel/europes-quest-for-green-steel))
-- **2026-05-06** — news mention: You obviously are reading challenged   The paper is clear it has nothing to do with CCU or anything  ([source](https://bsky.app/profile/mzjacobson.bsky.social/post/3ml5umr7dms2l))
-- **2026-05-05** — news mention: Octopus Energy Generation inks $500m US carbon removal deal | BusinessGreen News ([source](https://www.businessgreen.com/news/4529172/octopus-energy-generation-inks-usd500m-us-carbon-removal-deal))
-- **2026-05-05** — news mention: Agreed. CDR is for residual, hard-to-abate emissions and legacy CO2 cleanup, not a permission slip t ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml34avitwd27))
-- **2026-05-04** — news mention: True to a certain extent for now, but the framing matters.  Wind and solar cut emissions.  DAC remov ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzuh52v7323))
-- **2026-05-04** — news mention: PIK presents core research topics in a YouTube series ([source](https://www.pik-potsdam.de/en/news/latest-news/pik-presents-core-research-topics-in-a-youtube-series))
-- **2026-05-04** — news mention: I think @madisoncondon.bsky.social was talking about data centers in space. Maybe they are beaming d ([source](https://bsky.app/profile/davidho.bsky.social/post/3mkyhtpqh622t))
-- **2026-05-03** — news mention: RT @HPACoalition: Great effort!  Those most effected is precisely why cooling should start now:  htt ([source](https://x.com/geoengineering1/status/2051027429691641892))
-- **2026-05-03** — news mention: 20 Top Environmental Companies in Germany · August 2025 | F6S ([source](https://www.f6s.com/companies/environmental/germany/co))
-- **2026-05-02** — news mention: 6 Ways to Remove Carbon Pollution from the Atmosphere ([source](https://go.wri.org/carbon-removal))
-- **2026-05-01** — news mention: Octopus Energy Generation signs $500m carbon removal deal - edie ([source](https://www.edie.net/octopus-energy-generation-signs-500m-carbon-removal-deal/))
-- **2026-05-01** — refresh: coresignal, screenshot
 
 ---
 

@@ -30,6 +30,9 @@ ARTi (Advanced Renewable Technology International) is a U.S.-based biochar compa
 
 ## History
 
+- **2026-06-02** — news mention: Africa's Great Rift is also a terrific source for rock dust that farmers can use as a soil amendment ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mncxylrtt22l))
+- **2026-06-02** — news mention: Sewage sludge is a major issue towns have to deal with.  Many persistent organic pollutants, pharmac ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mncptvpcr22l))
+- **2026-05-24** — news mention: A few people asked if I'd tried it. I haven't, but it sure does look good although I know I'll proba ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmmrvvgnyc2v))
 - **2026-05-15** — news mention: Here's what Republicans' new statue park will look in the not too distant future under Republican cl ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlvgya6z6s22))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -34,6 +34,16 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ## History
 
+- **2026-06-09** — news mention: Isometric Opens Draft Enhanced Weathering Modeling Rules To Public Input ([source](https://carbonherald.com/isometric-opens-draft-enhanced-weathering-modeling-rules-to-public-input/?utm_source=rss&utm_medium=rss&utm_campaign=isometric-opens-draft-enhanced-weathering-modeling-rules-to-public-input))
+- **2026-06-04** — news mention: Graphyte just stacked something no DAC pure-play has: a Sumitomo balance sheet behind it AND a live  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngu5pzrfo2o))
+- **2026-06-04** — news mention: Graphyte just stacked what no DAC pure-play has: Sumitomo balance-sheet backing AND a live Isometric ([source](https://x.com/CaptainDrawdown/status/2062401024032153630))
+- **2026-06-04** — news mention: Good primer. The headline number worth flagging: durable CDR (DAC, enhanced weathering, biochar, BEC ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngqzczegr2e))
+- **2026-06-02** — news mention: Isometric certifies Version 2.1 of the Standard ([source](https://isometric.com/writing-articles/isometric-certifies-version-2-1-of-the-standard))
+- **2026-06-01** — news mention: Stockholm Exergi's 750kt deal with the City of Stockholm just set the floor for permanent BECCS (bio ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mn7cprsiog2e))
+- **2026-05-28** — news mention: Durability is clean in principle: mineralized CO2 in basalt is fixed within ~2 years. The qualifier  ([source](https://x.com/CaptainDrawdown/status/2059892651575439562))
+- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
+- **2026-05-27** — news mention: 🪨 Lithos has issued our first batch of Isometric-verified carbon removal credits from the earliest P ([source](https://www.linkedin.com/feed/update/urn:li:share:7465090193377681408/))
+- **2026-05-23** — news mention: Weekly link list: this week's connective tissue is infrastructure quietly being rebuilt around CDR.  ([source](https://x.com/CaptainDrawdown/status/2058084297249018276))
 - **2026-05-22** — news mention: CRCF, certified ([source](https://isometric.com/writing-articles/crcf-certified))
 - **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
 - **2026-05-18** — news mention: Take: Dr. Sambuddha Misra: Drinking Tea to Save Coral Reefs? The Mechanics of Enhanced Rock Weatheri ([source](https://captaindrawdown.com/posts/podcast-take-dr-sambuddha-misra-drinking-tea-to-save-coral-reefs-the-mech-94bc4e01/))
@@ -56,16 +66,6 @@ On stag ([source](https://www.linkedin.com/feed/update/urn:li:share:745850694646
 - **2026-05-01** — refresh: screenshot
 - **2026-04-30** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits  Verde Resources and Isometric ([source](https://x.com/CaptainDrawdown/status/2049715878086742265))
 - **2026-04-30** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits  Verde Resources and Isometric ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkotifsvp32y))
-- **2026-04-29** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits ([source](https://carbonherald.com/verde-and-isometric-to-commercialize-a-new-category-of-carbon-credits/?utm_source=rss&utm_medium=rss&utm_campaign=verde-and-isometric-to-commercialize-a-new-category-of-carbon-credits))
-- **2026-04-28** — news mention: Isometric, Verde Move to Scale Carbon Removal Credits Through Infrastructure - ESG News ([source](https://esgnews.com/isometric-verde-move-to-scale-carbon-removal-credits-through-infrastructure/))
-- **2026-04-27** — news mention: Verde and Isometric Aim to Scale High Integrity Carbon Credits Through Infrastructure ([source](https://www.prnewswire.com/news-releases/verde-and-isometric-aim-to-scale-high-integrity-carbon-credits-through-infrastructure-302753700.html))
-- **2026-04-26** — news mention: Prof. Dong-Yeun Koh's team adapted the dry-electrode process used for EV batteries to make a sorbent ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkewfvw6rm27))
-- **2026-04-23** — news mention: Isometric Targets Low-Carbon Materials With EAC Launch ([source](https://carbonherald.com/isometric-targets-low-carbon-materials-with-eac-launch/?utm_source=rss&utm_medium=rss&utm_campaign=isometric-targets-low-carbon-materials-with-eac-launch))
-- **2026-04-21** — news mention: #sfcw | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:share:7452087946192609280/))
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Isometric's actual LinkedIn company page is linkedin.com/company/isometric-hq (confirmed in search results showing Isometric as a carbon removal registry/standard). The slug "exponential-hq" refers to
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://isometric.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carboncredits.com/isometric-hits-100-supplier-milestone-with-flux-setting-new-standard-for-durable-carbon-removal/))
 
 ---
 

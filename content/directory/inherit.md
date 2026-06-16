@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops BECCS projects capturing biogenic CO2 from biogas/wastewater facilities and permanently storing it in North Sea sub-seabed geological storage via Northern Lights."
 url: "/directory/inherit/"
 pathway: "BECCS"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.inheritcarbonsolutions.com/" target="_blank" rel="noopener">https://www.inheritcarbonsolutions.com/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/agero-carbon-solutions/" target="_blank" rel="noopener">agero-carbon-solutions</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +30,9 @@ Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 a
 
 ## History
 
+- **2026-06-15** — refresh: coresignal, liveliness
+- **2026-06-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://esgnews.com/nordea-signs-multi-year-deal-to-remove-68000-tonnes-of-co2-with-inherit-carbon-solutions/))
+- **2026-05-22** — news mention: #crcf | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463474417994575872/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://esgnews.com/nordea-signs-multi-year-deal-to-remove-68000-tonnes-of-co2-with-inherit-carbon-solutions/))

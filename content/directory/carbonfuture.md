@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonfuture.earth/" target="_blank" rel="noopener">https://www.carbonfuture.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonfuture/" target="_blank" rel="noopener">carbonfuture — 29,216 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonfuture/" target="_blank" rel="noopener">carbonfuture — 30,192 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (+11% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+7% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -36,6 +36,14 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-06-11** — news mention: Aperam Site Visit | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470409314663337984/))
+- **2026-06-10** — news mention: Wie Pflanzenkohle Landwirtschaft und Bauindustrie zusammenbringen kann | top agrar ([source](https://www.topagrar.com/energie/news/neues-geschaftsfeld-pflanzenkohle-a-20025927.html))
+- **2026-06-10** — news mention: #cdr #bmukn #lne #germanbiochar #novocarbo #carbonfuture #dvne #klimaschutz | German Biochar e.V. (G ([source](https://www.linkedin.com/feed/update/urn:li:share:7470107511908614144/))
+- **2026-06-08** — news mention: #biochar #carbonremoval #cdr #biocharsummit #netzero | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7469730049823244288/))
+- **2026-06-02** — news mention: Neues Geschäftsfeld Pflanzenkohle | top agrar ([source](https://www.topagrar.com/energie/news/neues-geschaftsfeld-pflanzenkohle-20025927.html))
+- **2026-06-02** — news mention: Welcome to the Carbonfuture team, Andreas! | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467129701355040768/))
 - **2026-05-13** — news mention: Meet the Carbonfuture team at these events in May! | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7459930827100082176/))
 - **2026-05-08** — news mention: #carbonremoval #cdr #climateweekzurich #cwz2026 #netzero #sustainability | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458165340045230080/))
 - **2026-05-07** — news mention: #climateweekzurich #projectfinance #infrastructurefinance #blendedfinance #climatefinance #carbonmar ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457795796906905601/))

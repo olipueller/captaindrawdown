@@ -30,6 +30,9 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 
 ## History
 
+- **2026-06-04** — news mention: Yesterday the Carbon Removal Canada team was busy from coast to coast.  Two cities. One team. A whol ([source](https://x.com/carbonremovers/status/2062565310692311227))
+- **2026-06-03** — news mention: Carbon Removal Canada Job Board - Director, Quebec Surficial Mineralization Hub ([source](https://carbonremoval.applytojobs.ca/research/47705))
+- **2026-05-29** — news mention: #tocw #carbonremoval #netzero | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7465750358603264000/))
 - **2026-05-15** — news mention: TOCW Flagship Event - Carbon Solutions: Canada’s Competitive Edge · Luma ([source](https://luma.com/cpz1cjy8?tk=J9B3Hx))
 - **2026-05-14** — news mention: Carbon Removal Canada Welcomes Electricity Strategy, Urges Support for Removals ([source](https://carbonremoval.ca/press-release-carbon-removal-canada-welcomes-electricity-strategy-urges-ottawa-to-support-carbon-removal/))
 - **2026-05-11** — news mention: Carbon Removal Canada Newsletter Signup ([source](https://mailchi.mp/carbonremoval/newsletter-signup))

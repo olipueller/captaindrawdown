@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.avnos.com/" target="_blank" rel="noopener">https://www.avnos.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/avnos-inc/" target="_blank" rel="noopener">avnos-inc — 3,602 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (-6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Los Angeles-based Avnos develops Hybrid Direct Air Capture technology that produ
 
 ## History
 
+- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.globenewswire.com/news-release/2026/02/06/3233649/28124/en/Direct-Air-Capture-DAC-Market-Report-2025-2035-Collaborations-New-Clusters-and-Upcoming-Projects-Accelerate-Market-Expansion-Across-Key-Regions.html))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

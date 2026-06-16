@@ -29,6 +29,10 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 
 ## History
 
+- **2026-06-10** — news mention: Energy-hungry aluminum plant is swept up in Oklahoma governor’s race ([source](https://www.canarymedia.com/articles/clean-aluminum/aluminum-plant-oklahoma-governor-race))
+- **2026-06-02** — news mention: What Is a Carbon Credit? Understanding the One-Tonne CO2e Building Block of Carbon Markets ([source](https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block))
+- **2026-06-01** — news mention: Terrafugia Updates, Team, and Funding Progress | Wefunder, Home of the Community Round ([source](https://wefunder.com/terrafugia))
+- **2026-06-01** — news mention: I was lucky enough to have not any other options by the fifth row on today's #Wordle 1,808 5/6*  ⬜⬜⬜ ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mn7zdveewk2l))
 - **2026-05-21** — news mention: Republicans want federal regulators to remove the requirement for Clean Air Act permits before const ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmejwz5qn22f))
 - **2026-05-05** — news mention: The thing is that as far as I'm concerned and climate hawks like California are doing all we can to  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml33j356ll23))
 - **2026-05-04** — news mention: I doubt that very many people are aware of how much methane is released from the continued use of co ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzkbvo4gt23))

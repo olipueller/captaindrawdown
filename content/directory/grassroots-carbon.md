@@ -5,7 +5,7 @@ type: "directory"
 description: "Generates soil carbon removal credits by paying U.S. ranchers to adopt regenerative grazing practices (herd rotation, reduced inputs) that sequester atmospheric carbon in grassland soils, verified"
 url: "/directory/grassroots-carbon/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://grassrootscarbon.com" target="_blank" rel="noopener">https://grassrootscarbon.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grassrootscarbon/" target="_blank" rel="noopener">grassrootscarbon — 5,061 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~44</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company foun
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

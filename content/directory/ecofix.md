@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of croton nut-processing residues into biochar via a Terraton-operated facility, stacked onto EcoFix's core croton biofuel/feed/fertilizer production."
 url: "/directory/ecofix/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.efk.co.ke/" target="_blank" rel="noopener">https://www.efk.co.ke/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco-fuels-kenya/" target="_blank" rel="noopener">eco-fuels-kenya — 2,157 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~16 (-6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,7 @@ EcoFix Kenya Ltd (formerly Eco Fuels Kenya) is a Nanyuki-based social enterprise
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://esgpost.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-emerging-markets/))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://esgpost.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-emerging-markets/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

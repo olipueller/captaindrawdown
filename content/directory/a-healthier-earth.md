@@ -34,6 +34,7 @@ A Healthier Earth (AHE) is the UK climate-tech R&D subsidiary of Pure Data Centr
 
 ## History
 
+- **2026-05-29** — news mention: A Healthier Earth Launches The World’s First Integrated CDR Platform From The Data Center Sector ([source](https://carbonherald.com/a-healthier-earth-launches-the-worlds-first-integrated-cdr-platform-from-the-data-center-sector/?utm_source=rss&utm_medium=rss&utm_campaign=a-healthier-earth-launches-the-worlds-first-integrated-cdr-platform-from-the-data-center-sector))
 - **2026-05-01** — refresh: screenshot
 - **2026-04-23** — news mention: NoviqTech Subsidiary Coralia Partners With A Healthier Earth On Great Barrier Reef Biochar ([source](https://carbonherald.com/noviqtech-subsidiary-coralia-partners-with-a-healthier-earth-on-great-barrier-reef-biochar/?utm_source=rss&utm_medium=rss&utm_campaign=noviqtech-subsidiary-coralia-partners-with-a-healthier-earth-on-great-barrier-reef-biochar))
 - **2026-04-22** — news mention: NoviqTech’s Coralia Strikes Strategic Biochar Carbon Credit MOU with A Healthier Earth - The Globe a ([source](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/1436779/noviqtechs-coralia-strikes-strategic-biochar-carbon-credit-mou-with-a-healthier-earth/))

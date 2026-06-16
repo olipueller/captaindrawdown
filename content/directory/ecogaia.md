@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon project developer partnering with Emisiones Neutras to build biochar pyrolysis facilities in Argentina that convert forestry residues into durable stored carbon, while also developing ARR,"
 url: "/directory/ecogaia/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Argentina</td></tr>
   <tr><th>Website</th><td><a href="https://www.ecogaia.earth/" target="_blank" rel="noopener">https://www.ecogaia.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco2gaia/" target="_blank" rel="noopener">eco2gaia — 1,309 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~9 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,7 @@ EcoGaia is an Argentina-based sustainability consultancy and carbon project deve
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

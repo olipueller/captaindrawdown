@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes rice hulls (and testing nut shells) into silica-rich biocarbon used as water filtration media and soil amendment, with verified carbon removal via Puro.earth CORCs."
 url: "/directory/glanris/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.glanris.com/" target="_blank" rel="noopener">https://www.glanris.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/glanris/" target="_blank" rel="noopener">glanris — 1,545 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~30 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -33,6 +33,7 @@ Glanris is a US clean-tech company based in Olive Branch, Mississippi that manuf
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.glanris.com/blog/press-release-april2022))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.glanris.com/blog/press-release-april2022))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

@@ -5,7 +5,7 @@ type: "directory"
 description: "Drives sustainably sourced spruce logs vertically into anoxic clay/peat soils (often as building foundations) to store biogenic carbon for centuries."
 url: "/directory/underground-forest/"
 pathway: "Biomass Burial"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.undergroundforest.nl" target="_blank" rel="noopener">https://www.undergroundforest.nl</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/underground-forest-b-v/" target="_blank" rel="noopener">underground-forest-b-v — 94 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Underground Forest BV is a Rotterdam-based CDR company founded in 2023 by Kees d
 
 ## History
 
+- **2026-06-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.undergroundforest.nl/home/en))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.undergroundforest.nl/home/en))

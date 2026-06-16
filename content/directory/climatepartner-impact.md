@@ -5,7 +5,7 @@ type: "directory"
 description: "Project developer for nature-based carbon projects (reforestation, revegetation, SOC, blue carbon, biochar) plus cookstoves, taking projects from design through VER issuance and registry management."
 url: "/directory/climatepartner-impact/"
 pathway: "Afforestation"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://climatepartnerimpact.com/" target="_blank" rel="noopener">https://climatepartnerimpact.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climatepartner-impact/" target="_blank" rel="noopener">climatepartner-impact — 3,415 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~30 (-76% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -31,6 +31,7 @@ ClimatePartner Impact GmbH (CPI) is a Munich-based subsidiary of ClimatePartner 
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://climatepartnerimpact.com/))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://climatepartnerimpact.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

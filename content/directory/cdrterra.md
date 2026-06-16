@@ -31,6 +31,7 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 
 ## History
 
+- **2026-06-10** — news mention: #icnce26 #cdr #icnce26 #uptakeeuproject #carbondioxideremoval #cdr #cdrterra | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7470202621920944129/))
 - **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-21** — news mention: #cdr #carbondioxideremoval #klimaschutz #wissenstransfer | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7462876992414289920/))
 - **2026-05-19** — news mention: BioFleCCS - CDRterra ([source](https://cdrterra.de/consortia/biofleccs/))

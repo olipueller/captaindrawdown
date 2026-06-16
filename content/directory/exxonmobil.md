@@ -34,6 +34,7 @@ ExxonMobil is one of the world's largest integrated oil and gas companies. Its L
 
 ## History
 
+- **2026-06-01** — news mention: I was lucky enough to have not any other options by the fifth row on today's #Wordle 1,808 5/6*  ⬜⬜⬜ ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mn7zdveewk2l))
 - **2026-05-06** — news mention: Air Products Carbon Capture 2026, 5M Ton Project, ExxonMobil ([source](https://enkiai.com/carbon-capture/air-products-ccs-port-arthur/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

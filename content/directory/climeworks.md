@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://climeworks.com/" target="_blank" rel="noopener">https://climeworks.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climeworks/" target="_blank" rel="noopener">climeworks — 115,515 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climeworks/" target="_blank" rel="noopener">climeworks — 117,132 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~401 (-21% YoY)</td></tr>
+  <tr><th>Employees</th><td>~402 (-20% YoY)</td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -47,39 +47,38 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-06-11** — news mention: Deep Sky Carbon Capture 2026, 10k Tonnes, Microsoft - EnkiAI ([source](https://enkiai.com/carbon-capture/deep-sky-dac-td-bank/))
+- **2026-06-11** — news mention: Climeworks Carbon Capture 2026, $10M Swiss Re Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/climeworks-dac-corporate-offtake/))
+- **2026-06-10** — news mention: #carbonremoval #netzero #canada #event | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470375845363331072/))
+- **2026-06-09** — news mention: Europe is moving on carbon removals and we’ve been on the ground as it happens. Here are the signals ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7469647258750447616/))
+- **2026-06-09** — news mention: Climeworks Carbon Capture 2026, 31,000 Ton Schneider Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/climeworks-dac-aviation-offtake/))
+- **2026-06-06** — news mention: Climeworks Expands Global Carbon Removal Footprint With Brazil Partnership and TD Bank Deal - TipRan ([source](https://www.tipranks.com/news/private-companies/climeworks-expands-global-carbon-removal-footprint-with-brazil-partnership-and-td-bank-deal))
+- **2026-06-06** — news mention: Climeworks and TD Bank Deal Signals a New Financial Era for Engineered Carbon Removal Credits ([source](https://carboncredits.com/climeworks-and-td-bank-deal-signals-a-new-financial-era-for-engineered-carbon-removal-credits-5/))
+- **2026-06-06** — news mention: This Week in CDR - June 5, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468696518095663104/))
+- **2026-06-05** — news mention: Carbon Capture and Storage Equipment Market Set for Strong Growth at 10.2% CAGR by 2032 | Climeworks ([source](https://www.openpr.com/news/4539574/carbon-capture-and-storage-equipment-market-set-for-strong))
+- **2026-06-04** — news mention: Climeworks Solutions x InPlanet | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467851045549850624/))
+- **2026-06-04** — news mention: 569 pure-play CDR companies. 9,499 employees. Under 17 people each on average.  This chart plots eve ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnh2pifzv52o))
+- **2026-06-04** — news mention: 569 pure-play CDR companies. 9,499 employees. Under 17 people each on average.  This chart plots eve ([source](https://x.com/CaptainDrawdown/status/2062430529153020093))
+- **2026-06-04** — news mention: Graphyte just stacked something no DAC pure-play has: a Sumitomo balance sheet behind it AND a live  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngu5pzrfo2o))
+- **2026-06-03** — news mention: @PIK_Climate @xring59 Edenhofer's framing matters: CDR sits inside a strict carbon budget, not outsi ([source](https://x.com/CaptainDrawdown/status/2062281402750570911))
+- **2026-06-03** — news mention: CO2 removal grapples with funding and fragmentation issues | Carbon Dioxide | gasworld ([source](https://www.gasworld.com/story/co2-removal-grapples-with-funding-and-fragmentation-issues/2251239.article/))
+- **2026-06-02** — news mention: TD Signs Long-Term Carbon Removal Agreement with Climeworks - ESG Today ([source](https://www.esgtoday.com/td-signs-long-term-carbon-removal-agreement-with-climeworks/))
+- **2026-06-02** — news mention: Climeworks signs carbon credit deal with Canadian financial services firm | Carbon Capture | gasworl ([source](https://www.gasworld.com/story/climeworks-signs-carbon-credit-deal-with-canadian-financial-services-firm/2251085.article/))
+- **2026-06-02** — news mention: Climeworks Signs 10-Year Carbon Removal Deal With TD Bank - ESG News ([source](https://esgnews.com/climeworks-signs-10-year-carbon-removal-deal-with-td-bank/))
+- **2026-06-02** — news mention: Climeworks Locks In A 10-Year CDR Portfolio Deal With TD Bank ([source](https://carbonherald.com/climeworks-locks-in-a-10-year-cdr-portfolio-deal-with-td-bank/?utm_source=rss&utm_medium=rss&utm_campaign=climeworks-locks-in-a-10-year-cdr-portfolio-deal-with-td-bank))
+- **2026-06-01** — news mention: Climeworks Solutions signs 10-year CDR agreement with TD Bank ([source](https://climeworks.com/press-release/climeworks-solutions-signs-10-year-cdr-agreement-with-td-bank))
+- **2026-05-29** — news mention: Carbon removal is becoming a meaningful part of Canada’s climate and economic future.
+
+A new article ([source](https://www.linkedin.com/feed/update/urn:li:share:7466089962208153600/))
+- **2026-05-29** — news mention: #tocw #carbonremoval #netzero | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7465750358603264000/))
+- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
+- **2026-05-23** — news mention: Fair point from Climeworks. Buyer concentration is the biggest risk to CDR scaling. A handful of tec ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmi5jrf54a2b))
+- **2026-05-22** — news mention: Climeworks CEO Says Carbon Removal Can’t Hinge on Microsoft ([source](https://www.bloomberg.com/news/newsletters/2026-05-22/climeworks-ceo-says-carbon-removal-can-t-hinge-on-microsoft?taid=6a106505a88c290001712522&utm_campaign=trueanthem&utm_content=climate&utm_medium=social&utm_source=twitter))
 - **2026-05-21** — news mention: Climeworks Adds Veteran CFO to Support Next Growth Phase - TipRanks.com ([source](https://www.tipranks.com/news/private-companies/climeworks-adds-veteran-cfo-to-support-next-growth-phase))
 - **2026-05-19** — news mention: Post 1: 569 pure-play CDR companies, ~9,500 people total. This chart plots every one as a dot: found ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mm6tcfptlw27))
 - **2026-05-19** — news mention: Prediction: within 90 days, expect at least 3 more durable-CDR suppliers to announce 'industry-integ ([source](https://x.com/CaptainDrawdown/status/2056602096242180202))
-- **2026-05-18** — news mention: #climateaction #carbonremoval #climatesolutions #netzero #event #italy | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7462050202669977600/))
-- **2026-05-18** — news mention: The AI Boom Needs Carbon Removal  The CEO of Climeworks argues in Heatmap News that carbon removal s ([source](https://x.com/CaptainDrawdown/status/2056268267589599562))
-- **2026-05-17** — news mention: During the first-ever Climate Week Zurich, we convened a roundtable on “Opportunities for Heavy‑Emit ([source](https://www.linkedin.com/feed/update/urn:li:share:7461397778502479872/))
-- **2026-05-16** — news mention: Climeworks: The Carbon Capture Company that Emits More Than It Captures ([source](https://www.anarchistfederation.net/climeworks-the-carbon-capture-company-that-emits-more-than-it-captures))
-- **2026-05-14** — news mention: #carbonremoval #climateaction #switzerland #sweden #cwz2026 #climateweekzurich | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460248367865176064/))
-- **2026-05-13** — news mention: Climeworks Welcomes Two New Strategic Members To Its Advisory Board ([source](https://carbonherald.com/climeworks-welcomes-two-new-strategic-members-to-its-advisory-board/?utm_source=rss&utm_medium=rss&utm_campaign=climeworks-welcomes-two-new-strategic-members-to-its-advisory-board))
-- **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
-- **2026-05-13** — news mention: Bedrock Initiative | Cascade Climate  https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
-- **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends  CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))
-- **2026-05-13** — news mention: #climateweekzurich #cwz2026 #carbonremoval #climeworkssummit | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7459929123595968512/))
-- **2026-05-12** — news mention: Microsoft Carbon Capture 2025, 18M Tonne Rubicon Deal ([source](https://enkiai.com/bp-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
-- **2026-05-12** — news mention: Climeworks appoints senior advisors to accelerate market growth ([source](https://climeworks.com/press-release/climeworks-appoints-senior-advisors-to-accelerate-market-growth))
-- **2026-05-12** — news mention: 🌍 Please join us in welcoming Christian Barrera, our newest Planeteer! 💚
-
-With a Master’s in Geother ([source](https://www.linkedin.com/feed/update/urn:li:share:7457490151494049792/))
-- **2026-05-11** — news mention: Climeworks Carbon Capture 2025, $162M Funding, SAP ([source](https://enkiai.com/climeworks-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
-- **2026-05-10** — news mention: Japan Advances Synthetic Fuel Production With New Demonstration Plant ([source](https://www.moroccoworldnews.com/2026/05/296067/japan-advances-synthetic-fuel-production-with-new-demonstration-plant/))
-- **2026-05-06** — news mention: Climeworks signs first AI carbon removal deal | Carbon Dioxide | gasworld ([source](https://www.gasworld.com/story/climeworks-signs-first-ai-carbon-removal-deal/2248623.article/))
-- **2026-05-06** — news mention: “Sustainability is not compliance; sustainability is value”.
-David Costa’s words captured the spirit ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457437804365717504/))
-- **2026-05-05** — news mention: Going from ~420 to 300 ppm means removing roughly 250 GtCO2. At today's DAC energy use (~2 MWh/ton), ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml444iq3ul2z))
-- **2026-05-05** — news mention: NTT Data taps Climeworks to address residual emissions - The Tech Capital ([source](https://thetechcapital.com/ntt-data-taps-climeworks-to-address-residual-emissions/))
-- **2026-05-03** — news mention: Directory feature: cdr-shops.com lists every durable CDR provider that will actually sell you small  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkwvlan2ol2v))
-- **2026-05-03** — news mention: Directory feature: https://t.co/fG4sjJDt5e lists every durable CDR provider that will actually sell  ([source](https://x.com/CaptainDrawdown/status/2050878236851089732))
-- **2026-05-01** — news mention: Heirloom Carbon Capture 2026 targets below $108/ton ([source](https://enkiai.com/carbon-capture/dac-companies-cost-per-ton/))
-- **2026-05-01** — news mention: NTT Data inks carbon removal portfolio deal with Climeworks - DCD ([source](https://www.datacenterdynamics.com/en/news/ntt-data-inks-carbon-removal-portfolio-deal-with-climeworks/))
-- **2026-05-01** — news mention: NTT DATA partners Climeworks on carbon removal credits ([source](https://datacenternews.asia/story/ntt-data-partners-climeworks-on-carbon-removal-credits))
-- **2026-05-01** — news mention: Climeworks And NTT DATA Strike Landmark Carbon Removal Deal ([source](https://carbonherald.com/climeworks-and-ntt-data-strike-landmark-carbon-removal-deal/?utm_source=rss&utm_medium=rss&utm_campaign=climeworks-and-ntt-data-strike-landmark-carbon-removal-deal))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
 
 ---
 

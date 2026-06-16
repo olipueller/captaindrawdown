@@ -44,6 +44,14 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-08** — news mention: Three CDR deals this week. Three different capital stacks. JPMorgan put $20M venture debt into Charm ([source](https://x.com/CaptainDrawdown/status/2063850137978273893))
+- **2026-06-08** — news mention: Three CDR deals this week. Three different capital stacks. JPMorgan put $20M of venture debt into Ch ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnqvwepcnf22))
+- **2026-06-05** — news mention: NYK Buys Carbon Removal Credits From Graphyte’s Large Scale Biomass Project - ESG News ([source](https://esgnews.com/nyk-buys-carbon-removal-credits-from-graphytes-large-scale-biomass-project/))
+- **2026-06-04** — news mention: Graphyte just stacked something no DAC pure-play has: a Sumitomo balance sheet behind it AND a live  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngu5pzrfo2o))
+- **2026-06-04** — news mention: Graphyte just stacked what no DAC pure-play has: Sumitomo balance-sheet backing AND a live Isometric ([source](https://x.com/CaptainDrawdown/status/2062401024032153630))
+- **2026-06-04** — news mention: Good primer. The headline number worth flagging: durable CDR (DAC, enhanced weathering, biochar, BEC ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngqzczegr2e))
+- **2026-06-03** — news mention: Startup scores big investment for storing carbon in wood bricks - E&E News by POLITICO ([source](https://www.eenews.net/articles/startup-scores-big-investment-for-storing-carbon-in-wood-bricks/))
+- **2026-06-03** — news mention: Graphyte Secures Backing From Sumitomo And Expands Partnerships ([source](https://carbonherald.com/graphyte-secures-backing-from-sumitomo-and-expands-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=graphyte-secures-backing-from-sumitomo-and-expands-partnerships))
 - **2026-05-06** — news mention: Carbon Removal, Corporate Targets, and Supply Chain Gaps: Where ESG Stands in 2025 | Livio Acerbo’s  ([source](https://www.acerbolivio.com/2026/05/06/carbon-removal-corporate-targets-and-supply-chain-gaps-where-esg-stands-in-2025/))
 - **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
 - **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))

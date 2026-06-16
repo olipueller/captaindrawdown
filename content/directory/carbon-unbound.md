@@ -28,6 +28,8 @@ Carbon Unbound is a CDR-focused events organization that runs the Carbon Unbound
 
 ## History
 
+- **2026-05-29** — news mention: Rainbow Standard: Our team was in New York for @[Carbon Unbound](urn:li:organization:87408149). Two  ([source](https://www.linkedin.com/feed/update/urn:li:share:7466035628409819136/))
+- **2026-05-28** — news mention: Puro.earth: Last week, the @[Puro.earth](urn:li:organization:14052561) team was in New York for @[Ca ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465387141292879872/))
 - **2026-05-22** — refresh: liveliness
 - **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-18** — news mention: ClimeFi Where To Find Us | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7462146594574987264/))

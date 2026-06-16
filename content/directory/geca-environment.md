@@ -5,7 +5,7 @@ type: "directory"
 description: "Consulting firm advising biochar/pyrolysis project developers on technology, carbon credit certification (e.g. Puro.earth), commercialization, and brokerage rather than operating its own removal"
 url: "/directory/geca-environment/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://gecaenviro.com/" target="_blank" rel="noopener">https://gecaenviro.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/geca-environnement/" target="_blank" rel="noopener">geca-environnement — 5,861 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~9 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ GECA Environnement is a Quebec City-based consulting firm specializing in biocha
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): GECA Environnement

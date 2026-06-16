@@ -29,6 +29,10 @@ Stockholm Exergi is the municipal energy utility for the Stockholm region, provi
 
 ## History
 
+- **2026-06-04** — news mention: Stockholm shows the way: How public buyers can boost the carbon removal market - Carbon Gap ([source](https://carbongap.org/stockholm-shows-the-way-how-public-buyers-can-boost-the-carbon-removal-market/))
+- **2026-06-01** — news mention: Stockholm Exergi's 750kt deal with the City of Stockholm just set the floor for permanent BECCS (bio ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mn7cprsiog2e))
+- **2026-05-27** — news mention: Stockholm Becomes One of World’s Largest Carbon Removal Buyers with New 750,000-Tonne Deal - ESG Tod ([source](https://www.esgtoday.com/stockholm-becomes-one-of-worlds-largest-carbon-removal-buyers-with-new-750000-tonne-deal/))
+- **2026-05-27** — news mention: The City Of Stockholm Makes Major CDR Purchase From Stockholm Exergi ([source](https://carbonherald.com/the-city-of-stockholm-makes-major-cdr-purchase-from-stockholm-exergi/?utm_source=rss&utm_medium=rss&utm_campaign=the-city-of-stockholm-makes-major-cdr-purchase-from-stockholm-exergi))
 - **2026-05-14** — news mention: Mammoet to deploy PTC 140 DS at Beccs Stockholm - Heavy Lift & Project Forwarding International ([source](https://www.heavyliftpfi.com/projects/2026/05/13/mammoet-to-deploy-ptc-140-ds-at-beccs-stockholm/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces biochar as a byproduct of a 100%-biomass-fired rotary bed cogeneration boiler at its Evergreen BioPower facility, with the biochar landfilled or recycled for permanent carbon storage and"
 url: "/directory/freres-lumber/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://frereswood.com" target="_blank" rel="noopener">https://frereswood.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/freres-lumber-co-inc-/" target="_blank" rel="noopener">freres-lumber-co-inc- — 7,528 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~350</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -33,6 +33,7 @@ Freres Engineered Wood (formerly Freres Lumber Co.) is a family-owned Oregon woo
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

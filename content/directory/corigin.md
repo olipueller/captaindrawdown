@@ -5,7 +5,7 @@ type: "directory"
 description: "Vacuum pyrolysis of almond shells and other nutshell/orchard biomass produces biochar for soil amendment plus bio-oil that is sent to Charm Industrial for deep underground injection."
 url: "/directory/corigin/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.corigin.co/" target="_blank" rel="noopener">https://www.corigin.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/corigin-solutions/" target="_blank" rel="noopener">corigin-solutions — 346 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -39,6 +39,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.corigin.co/wp-content/uploads/2023/01/Corichar-Biochar-Label-OMRI-CDFA-012323.pdf))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.corigin.co/wp-content/uploads/2023/01/Corichar-Biochar-Label-OMRI-CDFA-012323.pdf))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

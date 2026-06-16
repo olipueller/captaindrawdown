@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cellamineralstorage.com/" target="_blank" rel="noopener">https://www.cellamineralstorage.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cellamineral/" target="_blank" rel="noopener">cellamineral — 4,224 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cellamineral/" target="_blank" rel="noopener">cellamineral — 4,474 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (-10% YoY)</td></tr>
+  <tr><th>Employees</th><td>~8 (-11% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,8 @@ Cella Mineral Storage is a New York-based carbon mineralization startup operatin
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
 - **2026-05-12** — news mention: Octavia Carbon And Cella Celebrate First Underground CO2 Injection ([source](https://carbonherald.com/octavia-carbon-and-cella-celebrate-first-underground-co2-injection/?utm_source=rss&utm_medium=rss&utm_campaign=octavia-carbon-and-cella-celebrate-first-underground-co2-injection))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot

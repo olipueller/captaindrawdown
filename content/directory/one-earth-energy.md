@@ -5,7 +5,7 @@ type: "directory"
 description: "Capture of high-purity fermentation CO2 from a corn ethanol plant, compression, and planned pipeline transport to a Class VI injection well for permanent geologic storage in Mt. Simon Sandstone."
 url: "/directory/one-earth-energy/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.oneearthenergy.com/" target="_blank" rel="noopener">https://www.oneearthenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/one-earth-enegry/" target="_blank" rel="noopener">one-earth-enegry</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~16 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,7 @@ One Earth Energy, LLC is a corn ethanol plant in Gibson City, Illinois, majority
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/illinois-rejects-carbon-pipeline-permit-for-one-earth-energy/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/illinois-rejects-carbon-pipeline-permit-for-one-earth-energy/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

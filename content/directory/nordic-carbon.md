@@ -29,6 +29,7 @@ Nordic Carbon is a Danish biochar developer that sources biomass residues and de
 
 ## History
 
+- **2026-05-22** — news mention: #crcf | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463474417994575872/))
 - **2026-05-20** — news mention: Earlier today, Carbon Gap contributed input to a closed-door roundtable in Brussels on carbon remova ([source](https://www.linkedin.com/feed/update/urn:li:share:7462505613923651584/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))
 - **2026-05-01** — refresh: screenshot

@@ -30,6 +30,12 @@ Climate Impact Partners is a UK/US-based voluntary carbon market specialist form
 
 ## History
 
+- **2026-06-11** — news mention: Fortune Global 500 Company Invests In 1M Tonnes Of ARR Credits Via Climate Impact Partners ([source](https://carbonherald.com/fortune-global-500-company-invests-in-1m-tonnes-of-arr-credits-via-climate-impact-partners/?utm_source=rss&utm_medium=rss&utm_campaign=fortune-global-500-company-invests-in-1m-tonnes-of-arr-credits-via-climate-impact-partners))
+- **2026-06-10** — news mention: There’s a difference between understanding carbon removal on paper and seeing it in person.
+
+Earlier ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7469957227764834304/))
+- **2026-06-09** — news mention: Reading about carbon removal is one thing. Seeing it firsthand is another.  Thanks to Climate Impact ([source](https://x.com/CharmIndustrial/status/2064346783246155824))
+- **2026-05-27** — news mention: The Carbon Removal Debate: Nature vs. Tech With UPS and Kearney | Climate Impact Partners ([source](https://www.climateimpact.com/news-insights/insights/the-carbon-removal-debate-nature-vs-tech-with-ups-and-kearney/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

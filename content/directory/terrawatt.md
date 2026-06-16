@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of green/wood waste produces biochar for soil amendment plus syngas, which is biologically methanated by methanogenic microorganisms into grid-injectable biomethane."
 url: "/directory/terrawatt/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://terrawatt.earth/" target="_blank" rel="noopener">https://terrawatt.earth/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terrawatt-sas/" target="_blank" rel="noopener">terrawatt-sas</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +30,8 @@ TerraWatt SAS is a French technology startup (founded 2014, based in Meslay-du-M
 
 ## History
 
+- **2026-06-15** — refresh: coresignal, liveliness
+- **2026-06-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.b2e.bzh/membres/transformer-la-biomasse-en-biochar-et-biomethane-terrawatt/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.b2e.bzh/membres/transformer-la-biomasse-en-biochar-et-biomethane-terrawatt/))

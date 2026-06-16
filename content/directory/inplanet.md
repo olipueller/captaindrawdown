@@ -45,6 +45,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
+- **2026-06-06** — news mention: Climeworks Expands Global Carbon Removal Footprint With Brazil Partnership and TD Bank Deal - TipRan ([source](https://www.tipranks.com/news/private-companies/climeworks-expands-global-carbon-removal-footprint-with-brazil-partnership-and-td-bank-deal))
+- **2026-06-04** — news mention: Climeworks Solutions x InPlanet | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467851045549850624/))
+- **2026-06-03** — news mention: #remineralization #regenerativeagriculture #citrus #agriculture #erw | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467596025461886977/))
+- **2026-05-27** — news mention: #remineralizacao #agriculturaregenerativa #citros #agro #erw | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465018493910806528/))
 - **2026-05-22** — news mention: EGU 2026 | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463202751456374784/))
 - **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
 - **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))

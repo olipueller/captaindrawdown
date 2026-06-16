@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://german-biochar.org/" target="_blank" rel="noopener">https://german-biochar.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/" target="_blank" rel="noopener">fachverband-pflanzenkohle-e-v — 3,831 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,7 @@ German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenk
 
 ## History
 
+- **2026-06-10** — news mention: #cdr #bmukn #lne #germanbiochar #novocarbo #carbonfuture #dvne #klimaschutz | German Biochar e.V. (G ([source](https://www.linkedin.com/feed/update/urn:li:share:7470107511908614144/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://german-biochar.org/en/homepage/))

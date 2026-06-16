@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces biochar via Kontiki-kiln pyrolysis of bamboo offcuts in central Thailand, applied to rice paddies and bamboo groves, with Planboo providing digital MRV and credit brokerage."
 url: "/directory/wongphai-coltd/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Website</th><td><a href="https://www.wongphai.com/" target="_blank" rel="noopener">https://www.wongphai.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wongphai/" target="_blank" rel="noopener">wongphai — 647 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Wongphai Co., Ltd. is a community-driven initiative in rural Thailand that promo
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

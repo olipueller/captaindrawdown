@@ -31,6 +31,7 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 
 ## History
 
+- **2026-06-04** — news mention: MISC And K LINE Secure Second Northern Lights Charter For CO2 Carrier ([source](https://carbonherald.com/misc-and-k-line-secure-second-northern-lights-charter-for-co2-carrier/?utm_source=rss&utm_medium=rss&utm_campaign=misc-and-k-line-secure-second-northern-lights-charter-for-co2-carrier))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

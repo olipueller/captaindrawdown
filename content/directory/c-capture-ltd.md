@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops a proprietary non-amine solvent-based post-combustion CO2 capture process for flue gases, piloted at Drax (BECCS) and at cement/glass sites."
 url: "/directory/c-capture-ltd/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://c-capture.co.uk/" target="_blank" rel="noopener">https://c-capture.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/c-capture-ltd-university-of-leeds/" target="_blank" rel="noopener">c-capture-ltd-university-of-leeds — 5,973 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~16 (-57% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ C-Capture is a 2009 University of Leeds spinout based in Leeds, UK, developing a
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

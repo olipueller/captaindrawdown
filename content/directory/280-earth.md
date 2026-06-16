@@ -34,6 +34,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-05-28** — news mention: 280 Earth Operates Direct Air Capture Facility, Closes $50M Project Funding | Turbomachinery Magazin ([source](https://www.turbomachinerymag.com/view/280-earth-operates-direct-air-capture-facility-closes-50m-project-funding))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://280.earth/stories/))
 - **2026-04-19** — refresh: coresignal, screenshot

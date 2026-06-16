@@ -33,7 +33,7 @@ Alt Carbon is an India-based CDR startup founded in 2023 by brothers Shrey and S
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 3 projects · Rock Weathering · 9,566 tCO₂ issued · first issued 2025-11-14 &nbsp;[↗](https://to.isometric.com/prj_1JYCV03BW1S0RTE5)
+- 3 projects · Rock Weathering · 9,566 tCO₂ issued · 50 retired · first issued 2025-11-14 &nbsp;[↗](https://to.isometric.com/prj_1JYCV03BW1S0RTE5)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -44,6 +44,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-06** — news mention: 9,566 tonnes. One enhanced rock weathering operator in India just delivered the largest ERW credit b ([source](https://x.com/CaptainDrawdown/status/2063125718515491149))
+- **2026-06-06** — news mention: 9,566 tonnes. One enhanced rock weathering operator in India just delivered the largest ERW credit b ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnlv2ymiqm2b))
+- **2026-06-04** — news mention: Alt Carbon Makes The World’s Largest ERW Issuance With Nearly 10,000t Of Removed CO2 ([source](https://carbonherald.com/alt-carbon-makes-the-worlds-largest-erw-issuance-with-nearly-10000t-of-removed-co2/?utm_source=rss&utm_medium=rss&utm_campaign=alt-carbon-makes-the-worlds-largest-erw-issuance-with-nearly-10000t-of-removed-co2))
 - **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
 - **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
 - **2026-05-18** — news mention: Dr. Sambuddha Misra: Drinking Tea to Save Coral Reefs? The Mechanics of Enhanced Rock Weathering in  ([source](https://podcasters.spotify.com/pod/show/reefroundup/episodes/Dr--Sambuddha-Misra-Drinking-Tea-to-Save-Coral-Reefs--The-Mechanics-of-Enhanced-Rock-Weathering-in-Darjeeling--S5E5-e3hsh58))

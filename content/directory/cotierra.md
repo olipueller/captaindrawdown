@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.cotierra.com/" target="_blank" rel="noopener">https://www.cotierra.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-preta-carbon/" target="_blank" rel="noopener">terra-preta-carbon — 5,103 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-preta-carbon/" target="_blank" rel="noopener">terra-preta-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~16</td></tr>
+  <tr><th>Employees</th><td>~16 (+45% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,6 +34,8 @@ Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Pret
 
 ## History
 
+- **2026-06-15** — refresh: coresignal
+- **2026-06-15** — refresh: coresignal
 - **2026-05-11** — reactivated — dedupe canonical, real CDI portfolio company (Dirk 2026-05-11)
 - **2026-05-11** — merged 1 duplicate(s): Terra Preta (Cotierra)
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
@@ -62,8 +64,6 @@ Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Pret
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/terra-preta))
 - **** — merged duplicate: Terra Preta (Cotierra) (slug=terra-preta-cotierra)
 - **2026-04-19** — deduped — canonical is terra-preta-cotierra (Terra Preta (Cotierra))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cotierra.com/))
 
 ---
 

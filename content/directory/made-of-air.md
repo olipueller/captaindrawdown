@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes wood and agricultural waste into biochar, then compounds the biochar with bioplastic binders to produce injection-moldable thermoplastic granules used in long-lived products (facade panels,"
 url: "/directory/made-of-air/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.madeofair.com/" target="_blank" rel="noopener">https://www.madeofair.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/made-of-air/" target="_blank" rel="noopener">made-of-air — 6,051 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~13 (-19% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Made of Air is a Berlin-based carbon-negative materials company, founded in 2016
 
 ## History
 
+- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.materially.eu/en/made-of-air-2/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.materially.eu/en/made-of-air-2/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

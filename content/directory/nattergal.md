@@ -5,7 +5,7 @@ type: "directory"
 description: "Acquires degraded farmland and uses process-led rewilding (scrub, grassland, wetland mosaic habitats, natural regeneration) to sequester carbon in soils and biomass, selling credits under the Wilder"
 url: "/directory/nattergal/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://nattergal.co.uk" target="_blank" rel="noopener">https://nattergal.co.uk</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,9 @@ Nattergal is a UK private nature recovery company founded in 2021 that acquires 
 
 ## History
 
+- **2026-06-15** — refresh: liveliness
+- **2026-06-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-06-04** — news mention: England’s Biodiversity Net Gain Market To Help Govt Close In On 2042 Goals, Nattergal Predicts ([source](https://carbonherald.com/englands-biodiversity-net-gain-market-to-help-govt-close-in-on-2042-goals-nattergal-predicts/?utm_source=rss&utm_medium=rss&utm_campaign=englands-biodiversity-net-gain-market-to-help-govt-close-in-on-2042-goals-nattergal-predicts))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

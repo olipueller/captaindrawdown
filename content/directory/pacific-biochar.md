@@ -32,7 +32,7 @@ Pacific Biochar is a California-based benefit corporation founded in 2014 that p
 Independently verified by carbon-credit registries:
 
 **Isometric**
-- 1 project · Biochar · 5,499 tCO₂ issued · 2,221 retired · first issued 2025-12-16 &nbsp;[↗](https://to.isometric.com/prj_1JXCRW5ST1S0EEKH)
+- 1 project · Biochar · 6,259 tCO₂ issued · 2,221 retired · first issued 2025-12-16 &nbsp;[↗](https://to.isometric.com/prj_1JXCRW5ST1S0EEKH)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

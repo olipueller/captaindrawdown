@@ -34,6 +34,7 @@ Patch is a San Francisco-based carbon credit platform that combines software, da
 
 ## History
 
+- **2026-05-31** — news mention: A Georgia Wildlife Haven Forged by Fire and Peat Nears UNESCO Recognition ([source](https://insideclimatenews.org/news/31052026/georgia-okefenokee-swamp-nears-unesco-recognition/))
 - **2026-05-12** — news mention: Zero, one, two, three, five for today's #Wordle 1,788 5/6*  ⬜⬜⬜⬜⬜ 🟨⬜⬜⬜⬜ ⬜🟩🟩⬜⬜ 🟩🟩🟩⬜⬜ 🟩🟩🟩🟩🟩 ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlnnyfkwdk2p))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

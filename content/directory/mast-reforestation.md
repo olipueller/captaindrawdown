@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-05-29** — news mention: #tocw #carbonremoval #netzero | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7465750358603264000/))
 - **2026-05-22** — news mention: EFM, Anew Climate And Mast Reforestation Issue  Verified Credits From Henry Creek Project ([source](https://carbonherald.com/efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project/?utm_source=rss&utm_medium=rss&utm_campaign=efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project))
 - **2026-05-15** — news mention: TOCW Flagship Event - Carbon Solutions: Canada’s Competitive Edge · Luma ([source](https://luma.com/cpz1cjy8?tk=J9B3Hx))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-and-delivers-market-first-biomass-burial-credits-to-royal-bank-of-canada-cnaught-and-others-302673476.html))
