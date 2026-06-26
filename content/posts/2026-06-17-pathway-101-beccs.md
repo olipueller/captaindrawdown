@@ -2,7 +2,7 @@
 title: "Pathway 101: BECCS"
 date: 2026-06-17T08:00:00+00:00
 slug: "pathway-101-beccs"
-draft: true
+draft: false
 tags: ["cdr", "pathway-101", "evergreen", "beccs"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"

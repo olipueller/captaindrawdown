@@ -2,7 +2,7 @@
 title: "Take: CDR Symposium 2026: Where are the weathered cations?, Lucilla Boito"
 date: 2026-06-23T10:00:00+00:00
 slug: "yt-take-cdr-symposium-2026-where-are-the-weathered-cations-lucilla-b-me7n4whd"
-draft: true
+draft: false
 tags: ["cdr", "youtube-take", "dirk-paessler"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"

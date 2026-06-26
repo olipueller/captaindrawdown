@@ -2,7 +2,7 @@
 title: "Take: Is carbon removal stronger than the headlines suggest?"
 date: 2026-06-12T10:00:00+00:00
 slug: "podcast-take-is-carbon-removal-stronger-than-the-headlines-suggest-89f0e427"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-carbon-curve"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

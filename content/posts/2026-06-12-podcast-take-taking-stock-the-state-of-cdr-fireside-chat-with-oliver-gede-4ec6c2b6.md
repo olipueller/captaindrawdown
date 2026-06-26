@@ -2,7 +2,7 @@
 title: "Take: Taking Stock: The State of CDR - Fireside Chat with Oliver Geden"
 date: 2026-06-12T10:00:00+00:00
 slug: "podcast-take-taking-stock-the-state-of-cdr-fireside-chat-with-oliver-gede-4ec6c2b6"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

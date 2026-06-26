@@ -2,7 +2,7 @@
 title: "Take: 405: Does Managed MRV imply the existence of Unmanaged MRV?!—w/ Varsha Ramesh Walsh, Offstream"
 date: 2026-06-25T10:00:00+00:00
 slug: "podcast-take-405-does-managed-mrv-imply-the-existence-of-unmanaged-mrv-w--13cea835"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

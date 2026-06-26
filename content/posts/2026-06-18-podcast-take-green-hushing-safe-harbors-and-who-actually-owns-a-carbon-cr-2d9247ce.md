@@ -2,7 +2,7 @@
 title: "Take: Green-Hushing, Safe Harbors, and Who Actually Owns a Carbon Credit - with Dr Ruth Dagan"
 date: 2026-06-18T10:00:00+00:00
 slug: "podcast-take-green-hushing-safe-harbors-and-who-actually-owns-a-carbon-cr-2d9247ce"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

@@ -2,7 +2,7 @@
 title: "Take: Carbon removal is stuck in low earth orbit. Here's how we get out."
 date: 2026-05-21T10:00:00+00:00
 slug: "podcast-take-carbon-removal-is-stuck-in-low-earth-orbit-here-s-how-we-get-43feeb85"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-carbon-curve"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

@@ -2,7 +2,7 @@
 title: "Take: 404: When will insetting work for carbon dioxide removal?—w/ Tom Mills, Stripe Climate Fellow (former)"
 date: 2026-06-18T10:00:00+00:00
 slug: "podcast-take-404-when-will-insetting-work-for-carbon-dioxide-removal-w-to-4a5ab498"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

@@ -2,7 +2,7 @@
 title: "Take: Biochar Series - 016 | Distributed & Small Scale Village-Level Biochar Production / Naved Ahmad"
 date: 2026-06-09T10:00:00+00:00
 slug: "yt-take-biochar-series-016-distributed-small-scale-village-level-bio-z1ylrzjo"
-draft: true
+draft: false
 tags: ["cdr", "youtube-take", "shekrutv"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"

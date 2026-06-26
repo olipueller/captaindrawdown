@@ -2,7 +2,7 @@
 title: "Pathway 101: Afforestation (comparison)"
 date: 2026-06-24T08:00:00+00:00
 slug: "pathway-101-afforestation-comparison"
-draft: true
+draft: false
 tags: ["cdr", "pathway-101", "evergreen", "afforestation-comparison"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"

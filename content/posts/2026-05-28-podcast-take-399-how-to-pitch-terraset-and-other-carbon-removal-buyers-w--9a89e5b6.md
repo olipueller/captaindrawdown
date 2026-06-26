@@ -2,7 +2,7 @@
 title: "Take: 399: How to Pitch Terraset (and other carbon removal buyers)—w/ Taylor Insley, Terraset"
 date: 2026-05-28T10:00:00+00:00
 slug: "podcast-take-399-how-to-pitch-terraset-and-other-carbon-removal-buyers-w--9a89e5b6"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

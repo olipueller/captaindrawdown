@@ -2,7 +2,7 @@
 title: "Take: 400: What kind of leader does my CDR company need me to be?—w/ Julia Reichelstein, Vaulted Deep"
 date: 2026-05-21T10:00:00+00:00
 slug: "podcast-take-400-what-kind-of-leader-does-my-cdr-company-need-me-to-be-w--9dc2568c"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

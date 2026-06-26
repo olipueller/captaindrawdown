@@ -2,7 +2,7 @@
 title: "Take: Petra Fromme, Arizona State University - Materials That Harness Humidity to Capture Carbon"
 date: 2026-06-25T10:00:00+00:00
 slug: "podcast-take-petra-fromme-arizona-state-university-materials-that-harness-1106b2ae"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-academic-minute"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

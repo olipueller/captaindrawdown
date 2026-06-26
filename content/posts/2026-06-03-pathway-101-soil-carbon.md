@@ -2,7 +2,7 @@
 title: "Pathway 101: Soil Carbon"
 date: 2026-06-03T08:00:00+00:00
 slug: "pathway-101-soil-carbon"
-draft: true
+draft: false
 tags: ["cdr", "pathway-101", "evergreen", "soil-carbon"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"

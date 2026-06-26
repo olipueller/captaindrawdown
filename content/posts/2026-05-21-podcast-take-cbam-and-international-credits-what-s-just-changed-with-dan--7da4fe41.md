@@ -2,7 +2,7 @@
 title: "Take: CBAM and International Credits: What’s Just Changed? - with Dan Maleski"
 date: 2026-05-21T10:00:00+00:00
 slug: "podcast-take-cbam-and-international-credits-what-s-just-changed-with-dan--7da4fe41"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

@@ -2,7 +2,7 @@
 title: "Take: LULUCF, Carbon Farming and the CRCF Review - with Asger Strange Olesen"
 date: 2026-05-28T10:00:00+00:00
 slug: "podcast-take-lulucf-carbon-farming-and-the-crcf-review-with-asger-strange-ed6547aa"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

@@ -2,7 +2,7 @@
 title: "Take: Seven buyers in a trench coat"
 date: 2026-05-28T10:00:00+00:00
 slug: "podcast-take-seven-buyers-in-a-trench-coat-260c9025"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-carbon-curve"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

@@ -2,7 +2,7 @@
 title: "Take: Is carbon removal a fantasy? | Living Planet Podcast"
 date: 2026-06-16T10:00:00+00:00
 slug: "yt-take-is-carbon-removal-a-fantasy-living-planet-podcast-0r79u6fu"
-draft: true
+draft: false
 tags: ["cdr", "youtube-take", "dw-podcasts"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"

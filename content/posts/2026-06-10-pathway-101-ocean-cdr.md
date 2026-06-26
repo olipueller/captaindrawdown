@@ -2,7 +2,7 @@
 title: "Pathway 101: Ocean CDR"
 date: 2026-06-10T08:00:00+00:00
 slug: "pathway-101-ocean-cdr"
-draft: true
+draft: false
 tags: ["cdr", "pathway-101", "evergreen", "ocean-cdr"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"

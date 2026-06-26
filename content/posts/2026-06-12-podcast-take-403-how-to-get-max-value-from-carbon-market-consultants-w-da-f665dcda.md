@@ -2,7 +2,7 @@
 title: "Take: 403: How to get max value from carbon market consultants—w/ David LaGreca, EcoEngineers"
 date: 2026-06-12T10:00:00+00:00
 slug: "podcast-take-403-how-to-get-max-value-from-carbon-market-consultants-w-da-f665dcda"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

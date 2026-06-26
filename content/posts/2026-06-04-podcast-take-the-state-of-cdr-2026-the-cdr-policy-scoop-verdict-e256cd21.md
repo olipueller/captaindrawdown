@@ -2,7 +2,7 @@
 title: "Take: The State of CDR 2026: The CDR Policy Scoop Verdict"
 date: 2026-06-04T10:00:00+00:00
 slug: "podcast-take-the-state-of-cdr-2026-the-cdr-policy-scoop-verdict-e256cd21"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

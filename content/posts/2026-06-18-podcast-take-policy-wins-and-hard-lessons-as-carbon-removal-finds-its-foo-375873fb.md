@@ -2,7 +2,7 @@
 title: "Take: Policy wins and hard lessons as carbon removal finds its footing"
 date: 2026-06-18T10:00:00+00:00
 slug: "podcast-take-policy-wins-and-hard-lessons-as-carbon-removal-finds-its-foo-375873fb"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-carbon-curve"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

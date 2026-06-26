@@ -2,7 +2,7 @@
 title: "Take: Viridas Pressurised DAC, El-Sayed"
 date: 2026-06-04T10:00:00+00:00
 slug: "podcast-take-viridas-pressurised-dac-el-sayed-69833513"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reviewer-2-does-geoengineering"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

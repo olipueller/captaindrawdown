@@ -2,7 +2,7 @@
 title: "Take: Is hyperscaler demand finally giving CCS its moment?"
 date: 2026-06-25T10:00:00+00:00
 slug: "podcast-take-is-hyperscaler-demand-finally-giving-ccs-its-moment-f886ec1a"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "interchange-recharged"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

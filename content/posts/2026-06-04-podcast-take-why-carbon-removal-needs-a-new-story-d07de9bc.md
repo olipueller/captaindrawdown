@@ -2,7 +2,7 @@
 title: "Take: Why carbon removal needs a new story"
 date: 2026-06-04T10:00:00+00:00
 slug: "podcast-take-why-carbon-removal-needs-a-new-story-d07de9bc"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-carbon-curve"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
