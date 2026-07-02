@@ -2,7 +2,7 @@
 title: "Five Years, One Field, and a Question That Won't Sit Still: What We Learned at the First CDI Symposium"
 date: 2026-07-02T08:00:00+00:00
 slug: "cdi-symposium-2026-what-we-learned"
-draft: true
+draft: false
 tags: ["cdr", "enhanced-rock-weathering", "erw", "mrv", "cdi-symposium", "soil-science"]
 categories: ["field-notes"]
 content_type: "type3_long_form"
@@ -23,6 +23,11 @@ That sentence is the honest summary of two days in Erlangen, where a hand-picked
 This article walks through what the conference concluded, and just as importantly, **where those conclusions come from**. The whole event is [on YouTube as a playlist](https://www.youtube.com/playlist?list=PLdTSjJDPv_rugzU02F5BI2qV3ihFzWSDz); every claim below links to the talk it came from. You do not need to be a weathering scientist to follow it.
 
 ![The CDI team's years of field and greenhouse work, under the slide title "It is harder than we thought."](/images/posts/cdi-symposium-2026-hero.jpg)
+
+<div style="margin:22px 0;padding:16px 18px;background:#f4f6f8;border-left:4px solid #2980b9;border-radius:6px;">
+<strong>🎧 Prefer to listen?</strong> Here is the ~11-minute podcast version of this piece, a two-host walk-through of what the conference found:
+<audio controls preload="none" style="width:100%;margin-top:10px;" src="/audio/cdi-symposium-2026-podcast.mp3">Your browser can't play audio inline — <a href="/audio/cdi-symposium-2026-podcast.mp3">download the MP3</a>.</audio>
+</div>
 
 ## The idea, in one paragraph
 
