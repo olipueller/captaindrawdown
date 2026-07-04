@@ -2,7 +2,7 @@
 title: "Pathway 101: Mineralization"
 date: 2026-07-01T08:00:00+00:00
 slug: "pathway-101-mineralization"
-draft: true
+draft: false
 tags: ["cdr", "pathway-101", "evergreen", "mineralization"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"
