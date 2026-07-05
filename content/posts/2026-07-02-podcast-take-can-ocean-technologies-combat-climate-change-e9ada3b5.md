@@ -2,7 +2,7 @@
 title: "Take: Can ocean technologies combat climate change?"
 date: 2026-07-02T10:00:00+00:00
 slug: "podcast-take-can-ocean-technologies-combat-climate-change-e9ada3b5"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-land-&-climate-podcast"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

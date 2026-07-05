@@ -2,7 +2,7 @@
 title: "Take: ISO, SBTi, and the LCAW Verdict on Corporate Net Zero - with Kaya Axelsson"
 date: 2026-07-02T10:00:00+00:00
 slug: "podcast-take-iso-sbti-and-the-lcaw-verdict-on-corporate-net-zero-with-kay-35dac47e"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
