@@ -2,8 +2,8 @@
 title: "History Rhymes: A Century of Crushed Rock Keeps Teaching the Same Lesson"
 date: 2026-07-03T08:00:00+00:00
 slug: "erw-a-century-of-the-same-lesson"
-draft: true
-tags: ["cdr", "enhanced-rock-weathering", "erw", "mrv", "soil-science", "history"]
+draft: false
+tags: ["cdr", "enhanced-rock-weathering", "erw", "mrv", "soil-science"]
 categories: ["field-notes"]
 content_type: "type3_long_form"
 cover:
