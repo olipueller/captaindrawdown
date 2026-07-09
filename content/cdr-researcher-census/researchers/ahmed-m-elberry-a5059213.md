@@ -1,0 +1,63 @@
+---
+title: "Ahmed M. Elberry"
+description: "Ahmed M. Elberry is a Mid-career General CDR researcher at Energy Transitions (United Kingdom) in GB. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.466539
+url: "/cdr-researcher-census/researchers/ahmed-m-elberry-a5059213/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ahmed M. Elberry",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ahmed-m-elberry-a5059213/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Energy Transitions (United Kingdom)"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-5013-1960",
+    "https://openalex.org/A5059213331"
+  ]
+}
+</script>
+
+## Profile
+
+**Ahmed M. Elberry**  
+Energy Transitions (United Kingdom) · 🇬🇧 GB
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 5 |
+| Citations | 683 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Decarbonizing the Dutch industrial sector: between maintaining domestic production and partial relocation** (2025)
+   2 citations · BECCS
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-5013-1960)
+- [OpenAlex](https://openalex.org/A5059213331)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

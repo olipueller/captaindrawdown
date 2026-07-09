@@ -1,0 +1,63 @@
+---
+title: "Wenjing Shi"
+description: "Wenjing Shi is a Mid-career General CDR researcher at Xiamen University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.394547
+url: "/cdr-researcher-census/researchers/wenjing-shi-a5054408/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Wenjing Shi",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenjing-shi-a5054408/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Xiamen University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-9417-7856",
+    "https://openalex.org/A5054408804"
+  ]
+}
+</script>
+
+## Profile
+
+**Wenjing Shi**  
+Xiamen University · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 8 |
+| Citations | 791 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Estimating environmental co-benefits of U.S. low-carbon pathways using an integrated assessment model with state-level resolution** (2025)
+   0 citations · General CDR
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-9417-7856)
+- [OpenAlex](https://openalex.org/A5054408804)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

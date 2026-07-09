@@ -1,0 +1,59 @@
+---
+title: "Huangyu Yan"
+description: "Huangyu Yan is a Mid-career Unknown researcher at Taiyuan University of Technology in CN. With 12 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.575443
+url: "/cdr-researcher-census/researchers/huangyu-yan-a5003015/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Huangyu Yan",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/huangyu-yan-a5003015/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Taiyuan University of Technology"
+  },
+  "sameAs": "https://openalex.org/A5003015366"
+}
+</script>
+
+## Profile
+
+**Huangyu Yan**  
+Taiyuan University of Technology · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Unknown**
+
+Unknown
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 11 |
+| Citations | 567 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Synergistic effects of heteroatom doping and narrow micropores on carbon dioxide capture in bamboo shoot shell-based porous carbon** (2024)
+   46 citations
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5003015366)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

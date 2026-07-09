@@ -1,0 +1,59 @@
+---
+title: "Wenquan Gu"
+description: "Wenquan Gu is a Senior Soil Carbon researcher at Wuhan University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.557721
+url: "/cdr-researcher-census/researchers/wenquan-gu-a5102131/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Wenquan Gu",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenquan-gu-a5102131/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Wuhan University"
+  },
+  "sameAs": "https://openalex.org/A5102131606"
+}
+</script>
+
+## Profile
+
+**Wenquan Gu**  
+Wuhan University · 🇨🇳 CN
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 185 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Biochar Enhances Paddy Productivity, Carbon Sequestration, and Reduces Greenhouse Gas Emissions in the Middle Yangtze River Region** (2024)
+   9 citations · Biochar
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5102131606)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

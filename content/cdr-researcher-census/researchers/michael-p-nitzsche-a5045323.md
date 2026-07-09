@@ -1,0 +1,69 @@
+---
+title: "Michael P. Nitzsche"
+description: "Michael P. Nitzsche is a Mid-career Ocean CDR researcher at Massachusetts Institute of Technology in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.927388
+url: "/cdr-researcher-census/researchers/michael-p-nitzsche-a5045323/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Michael P. Nitzsche",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/michael-p-nitzsche-a5045323/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Massachusetts Institute of Technology"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-3808-5148",
+    "https://openalex.org/A5045323293"
+  ]
+}
+</script>
+
+## Profile
+
+**Michael P. Nitzsche**  
+Massachusetts Institute of Technology · 🇺🇸 US
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Ocean CDR**
+
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 9 |
+| Citations | 359 |
+| Publications | 22 |
+| CDR Focus | 13.6% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Redox-Mediated pH Swing Systems for Electrochemical Carbon Capture** (2023)
+   51 citations
+
+2. **Thermodynamics of Electrochemical Marine Inorganic Carbon Removal** (2024)
+   2 citations · DAC
+
+3. **Electrochemically Modulated CO<sub>2</sub> Removal from Oceanwaters** (2022)
+   0 citations
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-3808-5148)
+- [OpenAlex](https://openalex.org/A5045323293)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

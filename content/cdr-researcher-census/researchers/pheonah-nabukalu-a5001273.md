@@ -1,0 +1,66 @@
+---
+title: "Pheonah Nabukalu"
+description: "Pheonah Nabukalu is a Mid-career Soil Carbon researcher at The Land Institute in US. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.306818
+url: "/cdr-researcher-census/researchers/pheonah-nabukalu-a5001273/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Pheonah Nabukalu",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pheonah-nabukalu-a5001273/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The Land Institute"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0003-3699-744X",
+    "https://openalex.org/A5001273296"
+  ]
+}
+</script>
+
+## Profile
+
+**Pheonah Nabukalu**  
+The Land Institute · 🇺🇸 US
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 237 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Prediction of regrowth and biomass of perennial sorghum using unoccupied aerial systems** (2022)
+   3 citations
+
+2. **Utilizing genetic variation in perennial sorghum to improve host plant resistance to aphids** (2025)
+   2 citations · General CDR
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0003-3699-744X)
+- [OpenAlex](https://openalex.org/A5001273296)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

@@ -1,0 +1,62 @@
+---
+title: "Kim San Lo"
+description: "Kim San Lo is a Mid-career Unknown researcher at University of Surabaya in ID. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.239285
+url: "/cdr-researcher-census/researchers/kim-san-lo-a5030908/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Kim San Lo",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kim-san-lo-a5030908/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Surabaya"
+  },
+  "sameAs": "https://openalex.org/A5030908144"
+}
+</script>
+
+## Profile
+
+**Kim San Lo**  
+University of Surabaya · 🇮🇩 ID
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Unknown**
+
+Unknown
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 254 |
+| Publications | 15 |
+| CDR Focus | 13.3% |
+| Trajectory | Unknown |
+
+## Top CDR Publications
+
+1. **Carbon dioxide dynamics across three stages of tropical peatland conversion to oil palm plantations** (2025)
+   0 citations
+
+2. **Carbon Dioxide Dynamics Across Three Stages of Tropical Peatland Conversion to Oil Palm Plantations** (2024)
+   0 citations
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5030908144)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

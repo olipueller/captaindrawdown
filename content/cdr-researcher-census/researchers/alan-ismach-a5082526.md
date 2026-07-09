@@ -1,0 +1,59 @@
+---
+title: "Alan Ismach"
+description: "Alan Ismach is an Early-career Unknown researcher at University of Washington in US. With 13 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:22.211733
+url: "/cdr-researcher-census/researchers/alan-ismach-a5082526/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Alan Ismach",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/alan-ismach-a5082526/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Washington"
+  },
+  "sameAs": "https://openalex.org/A5082526251"
+}
+</script>
+
+## Profile
+
+**Alan Ismach**  
+University of Washington · 🇺🇸 US
+
+**Career Stage:** Early-career
+
+## CDR Specialization
+
+**Unknown**
+
+Unknown
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 2 |
+| Citations | 105 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **A sea-to-soil solution for the green tides threatening shellfish aquaculture: conceptual model and lessons learned from a pilot project** (2026)
+   0 citations
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5082526251)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

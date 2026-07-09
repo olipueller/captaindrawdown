@@ -1,0 +1,59 @@
+---
+title: "Mamoona Sabir"
+description: "Mamoona Sabir is an Early-career Unknown researcher at Islamia University of Bahawalpur in PK. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:22.083372
+url: "/cdr-researcher-census/researchers/mamoona-sabir-a5101307/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Mamoona Sabir",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mamoona-sabir-a5101307/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Islamia University of Bahawalpur"
+  },
+  "sameAs": "https://openalex.org/A5101307371"
+}
+</script>
+
+## Profile
+
+**Mamoona Sabir**  
+Islamia University of Bahawalpur · 🇵🇰 PK
+
+**Career Stage:** Early-career
+
+## CDR Specialization
+
+**Unknown**
+
+Unknown
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 4 |
+| Citations | 117 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Unraveling the hazardous effects of smog on environment: Mitigation strategies and critical assessment** (2026)
+   0 citations
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5101307371)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

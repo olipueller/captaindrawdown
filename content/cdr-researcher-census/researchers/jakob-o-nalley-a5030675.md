@@ -1,0 +1,59 @@
+---
+title: "Jakob O. Nalley"
+description: "Jakob O. Nalley is a Mid-career Ocean CDR researcher at Imperial Valley College in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.131058
+url: "/cdr-researcher-census/researchers/jakob-o-nalley-a5030675/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jakob O. Nalley",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jakob-o-nalley-a5030675/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Imperial Valley College"
+  },
+  "sameAs": "https://openalex.org/A5030675248"
+}
+</script>
+
+## Profile
+
+**Jakob O. Nalley**  
+Imperial Valley College · 🇺🇸 US
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Ocean CDR**
+
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 284 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Air Carbon for Algae Production (AirCAP) – Expanding algae resource potential via direct (in-pond) air-CO2 capture.** (2024)
+   0 citations · Ocean CDR
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5030675248)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

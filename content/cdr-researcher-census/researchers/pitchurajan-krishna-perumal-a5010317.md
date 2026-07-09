@@ -1,0 +1,63 @@
+---
+title: "Pitchurajan Krishna Perumal"
+description: "Pitchurajan Krishna Perumal is a Mid-career Ocean CDR researcher at University of Science and Technology in YE. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.637425
+url: "/cdr-researcher-census/researchers/pitchurajan-krishna-perumal-a5010317/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Pitchurajan Krishna Perumal",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pitchurajan-krishna-perumal-a5010317/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Science and Technology"
+  },
+  "sameAs": [
+    "https://orcid.org/0009-0002-6615-0397",
+    "https://openalex.org/A5010317920"
+  ]
+}
+</script>
+
+## Profile
+
+**Pitchurajan Krishna Perumal**  
+University of Science and Technology ·  YE
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Ocean CDR**
+
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 9 |
+| Citations | 511 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Integrated Approach for Carbon Sequestration and Wastewater Treatment Using Algal–Bacterial Consortia: Opportunities and Challenges** (2022)
+   80 citations · General CDR
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0009-0002-6615-0397)
+- [OpenAlex](https://openalex.org/A5010317920)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

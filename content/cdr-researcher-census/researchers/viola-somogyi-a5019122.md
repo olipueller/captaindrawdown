@@ -1,0 +1,69 @@
+---
+title: "Viola Somogyi"
+description: "Viola Somogyi is a Senior Soil Carbon researcher at University of Pannonia in HU. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.343464
+url: "/cdr-researcher-census/researchers/viola-somogyi-a5019122/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Viola Somogyi",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/viola-somogyi-a5019122/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Pannonia"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-7401-3942",
+    "https://openalex.org/A5019122661"
+  ]
+}
+</script>
+
+## Profile
+
+**Viola Somogyi**  
+University of Pannonia ·  HU
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 15 |
+| Citations | 881 |
+| Publications | 54 |
+| CDR Focus | 5.6% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Removal of emerging pollutants from water using enzyme-immobilized activated carbon from coconut shell** (2023)
+   90 citations
+
+2. **Removal of Pharmaceuticals from Water Using Laccase Immobilized on Orange Peels Waste-Derived Activated Carbon** (2023)
+   23 citations · Biochar
+
+3. **RETRACTED: A novel and sustainable composite of L@PSAC for superior removal of pharmaceuticals from different water matrices: Production, characterization, and application** (2024)
+   21 citations
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-7401-3942)
+- [OpenAlex](https://openalex.org/A5019122661)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

@@ -1,0 +1,54 @@
+---
+title: "Achilleas Chovas"
+description: "Achilleas Chovas is a Senior Unknown researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.793169
+url: "/cdr-researcher-census/researchers/achilleas-chovas-a5056649/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Achilleas Chovas",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/achilleas-chovas-a5056649/",
+  "sameAs": "https://openalex.org/A5056649263"
+}
+</script>
+
+## Profile
+
+**Achilleas Chovas**
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Unknown**
+
+Unknown
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 410 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Extracorporeal organ support for critically ill patients: Overcoming the past, achieving the maximum at present, and redefining the future** (2024)
+   6 citations
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5056649263)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

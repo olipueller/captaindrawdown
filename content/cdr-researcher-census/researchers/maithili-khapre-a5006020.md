@@ -1,0 +1,58 @@
+---
+title: "Maithili Khapre"
+description: "Maithili Khapre is a Mid-career Biochar researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.070367
+url: "/cdr-researcher-census/researchers/maithili-khapre-a5006020/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Maithili Khapre",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/maithili-khapre-a5006020/",
+  "sameAs": [
+    "https://orcid.org/0000-0003-4639-954X",
+    "https://openalex.org/A5006020745"
+  ]
+}
+</script>
+
+## Profile
+
+**Maithili Khapre**
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 303 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Carbonization of golden shower pods to high surface area biochar for decontamination of cationic dyes and regeneration study by gamma radiations** (2024)
+   8 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0003-4639-954X)
+- [OpenAlex](https://openalex.org/A5006020745)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

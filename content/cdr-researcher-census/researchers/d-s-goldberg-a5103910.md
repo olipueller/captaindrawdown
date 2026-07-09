@@ -1,0 +1,59 @@
+---
+title: "D. S. Goldberg"
+description: "D. S. Goldberg is a Senior General CDR researcher at Lamont-Doherty Earth Observatory in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.300986
+url: "/cdr-researcher-census/researchers/d-s-goldberg-a5103910/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "D. S. Goldberg",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/d-s-goldberg-a5103910/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Lamont-Doherty Earth Observatory"
+  },
+  "sameAs": "https://openalex.org/A5103910166"
+}
+</script>
+
+## Profile
+
+**D. S. Goldberg**  
+Lamont-Doherty Earth Observatory · 🇺🇸 US
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 5 |
+| Citations | 238 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Solid Carbon's CO2 removal experiment in the NE Pacific ocean crust** (2026)
+   0 citations · Enhanced Weathering
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5103910166)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

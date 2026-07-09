@@ -1,0 +1,69 @@
+---
+title: "Prashant Basavaraj Bhagawati"
+description: "Prashant Basavaraj Bhagawati is a Mid-career Biochar researcher at Visvesvaraya Technological University in IN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.171110
+url: "/cdr-researcher-census/researchers/prashant-basavaraj-bhagawati-a5011463/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Prashant Basavaraj Bhagawati",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/prashant-basavaraj-bhagawati-a5011463/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Visvesvaraya Technological University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0003-4156-7874",
+    "https://openalex.org/A5011463656"
+  ]
+}
+</script>
+
+## Profile
+
+**Prashant Basavaraj Bhagawati**  
+Visvesvaraya Technological University · 🇮🇳 IN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 273 |
+| Publications | 24 |
+| CDR Focus | 12.5% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Modelling the batch and fixed bed adsorption of fluoride from aqueous solutions in using activated carbon from Acacia nilotica biochar** (2022)
+   3 citations · Biochar
+
+2. **Electrosorption of Hexavalent Chromium Ions by MnO2/Carbon Fiber Composite Electrode: Analysis and Optimization of the Process by Box-Behnken Design** (2023)
+   0 citations · Biochar
+
+3. **Modelling the batch and fixed bed adsorption of fluoride from aqueous solutions in using activated carbon from Acacia nilotica biochar** (2022)
+   0 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0003-4156-7874)
+- [OpenAlex](https://openalex.org/A5011463656)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

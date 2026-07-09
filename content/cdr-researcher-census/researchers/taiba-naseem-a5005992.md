@@ -1,0 +1,59 @@
+---
+title: "Taiba Naseem"
+description: "Taiba Naseem is a Mid-career Unknown researcher at University of Azad Jammu and Kashmir in PK. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.356026
+url: "/cdr-researcher-census/researchers/taiba-naseem-a5005992/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Taiba Naseem",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/taiba-naseem-a5005992/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Azad Jammu and Kashmir"
+  },
+  "sameAs": "https://openalex.org/A5005992730"
+}
+</script>
+
+## Profile
+
+**Taiba Naseem**  
+University of Azad Jammu and Kashmir · 🇵🇰 PK
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Unknown**
+
+Unknown
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 857 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **A comprehensive review on the role of some important nanocomposites for antimicrobial and wastewater applications** (2021)
+   60 citations
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5005992730)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

@@ -1,0 +1,71 @@
+---
+title: "Muhammad Azroie Mohamed Yusoff"
+description: "Muhammad Azroie Mohamed Yusoff is an Early-career Biochar researcher at Ministry of Natural Resources and Environment in MY. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.394638
+url: "/cdr-researcher-census/researchers/muhammad-azroie-mohamed-yusoff-a5114078/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Muhammad Azroie Mohamed Yusoff",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/muhammad-azroie-mohamed-yusoff-a5114078/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Ministry of Natural Resources and Environment"
+  },
+  "sameAs": "https://openalex.org/A5114078733"
+}
+</script>
+
+## Profile
+
+**Muhammad Azroie Mohamed Yusoff**  
+Ministry of Natural Resources and Environment · 🇲🇾 MY
+
+**Career Stage:** Early-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 3 |
+| Citations | 217 |
+| Publications | 13 |
+| CDR Focus | 38.5% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Adsorption of methylene blue from aqueous solution by peanut shell based activated carbon** (2021)
+   55 citations
+
+2. **Synthesis of Microwave-Assisted Mango Peel Based Activated Carbon for Methylene Blue Dye Removal** (2023)
+   3 citations
+
+3. **Synthesis of Pineapple Peel Based Activated Carbon Via Microwave Irradiation Technique for Methylene Blue Dye Removal** (2023)
+   1 citations · Biochar
+
+4. **Activated Carbon Adsorbent Using Desiccated Coconut Residue for Removing Methylene Blue Dye** (2023)
+   0 citations
+
+5. **Preparation of Edamame Bean Pod Based Activated Carbon for Methylene Blue Dye Adsorption** (2023)
+   0 citations
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5114078733)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

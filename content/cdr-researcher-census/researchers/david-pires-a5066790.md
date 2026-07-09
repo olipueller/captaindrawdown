@@ -1,0 +1,63 @@
+---
+title: "David Pires"
+description: "David Pires is a Mid-career Soil Carbon researcher at University of Évora in PT. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.293982
+url: "/cdr-researcher-census/researchers/david-pires-a5066790/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "David Pires",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/david-pires-a5066790/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of \u00c9vora"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-3038-3319",
+    "https://openalex.org/A5066790596"
+  ]
+}
+</script>
+
+## Profile
+
+**David Pires**  
+University of Évora · 🇵🇹 PT
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 240 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Linking Nematode Communities and Soil Health under Climate Change** (2023)
+   50 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-3038-3319)
+- [OpenAlex](https://openalex.org/A5066790596)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

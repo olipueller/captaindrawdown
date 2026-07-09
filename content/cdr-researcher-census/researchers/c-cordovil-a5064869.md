@@ -1,0 +1,69 @@
+---
+title: "C. Cordovil"
+description: "C. Cordovil is a Mid-career Biochar researcher at University of Lisbon in PT. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.761723
+url: "/cdr-researcher-census/researchers/c-cordovil-a5064869/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "C. Cordovil",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/c-cordovil-a5064869/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Lisbon"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0001-8864-2611",
+    "https://openalex.org/A5064869486"
+  ]
+}
+</script>
+
+## Profile
+
+**C. Cordovil**  
+University of Lisbon · 🇵🇹 PT
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 429 |
+| Publications | 27 |
+| CDR Focus | 11.1% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Investigation, Prospects, and Economic Scenarios for the Use of Biochar in Small-Scale Agriculture in Tropical** (2025)
+   4 citations · Biochar
+
+2. **Biochar from biomass wastes: Advancing sustainable circular agriculture and the water–energy–food nexus** (2025)
+   1 citations · Biochar
+
+3. **Açaí-Derived Biochar Improves Soil Fertility, Microbial Activity, and Cowpea Yield in an Acidic Amazonian Ferralsol** (2026)
+   0 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0001-8864-2611)
+- [OpenAlex](https://openalex.org/A5064869486)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

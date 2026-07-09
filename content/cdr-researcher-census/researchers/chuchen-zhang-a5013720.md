@@ -1,0 +1,59 @@
+---
+title: "Chuchen Zhang"
+description: "Chuchen Zhang is a Mid-career Biochar researcher at Northeast Electric Power University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.022417
+url: "/cdr-researcher-census/researchers/chuchen-zhang-a5013720/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Chuchen Zhang",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chuchen-zhang-a5013720/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Northeast Electric Power University"
+  },
+  "sameAs": "https://openalex.org/A5013720485"
+}
+</script>
+
+## Profile
+
+**Chuchen Zhang**  
+Northeast Electric Power University · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 8 |
+| Citations | 320 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Small Particle Size Microplastics Promote the Adsorption of Tetracycline and Aureomycin by Biochar in Aqueous Solution** (2023)
+   0 citations · Biochar
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5013720485)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

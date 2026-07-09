@@ -1,0 +1,62 @@
+---
+title: "Tianshu Xu"
+description: "Tianshu Xu is a Mid-career General CDR researcher at Target (United States) in US. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:22.029335
+url: "/cdr-researcher-census/researchers/tianshu-xu-a5113068/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Tianshu Xu",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tianshu-xu-a5113068/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Target (United States)"
+  },
+  "sameAs": "https://openalex.org/A5113068717"
+}
+</script>
+
+## Profile
+
+**Tianshu Xu**  
+Target (United States) · 🇺🇸 US
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 122 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **An improved multi-period algebraic targeting approach to low carbon energy planning** (2023)
+   9 citations · General CDR
+
+2. **An Improved Cascade Analysis for the Dual Carbon Goals** (2022)
+   0 citations · General CDR
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5113068717)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

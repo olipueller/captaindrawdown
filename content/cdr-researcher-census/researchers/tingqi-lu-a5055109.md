@@ -1,0 +1,54 @@
+---
+title: "Tingqi Lu"
+description: "Tingqi Lu is a Mid-career Unknown researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.945347
+url: "/cdr-researcher-census/researchers/tingqi-lu-a5055109/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Tingqi Lu",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tingqi-lu-a5055109/",
+  "sameAs": "https://openalex.org/A5055109200"
+}
+</script>
+
+## Profile
+
+**Tingqi Lu**
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Unknown**
+
+Unknown
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 352 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Estimation of maize straw production and appropriate straw return rate in China** (2022)
+   71 citations
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5055109200)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

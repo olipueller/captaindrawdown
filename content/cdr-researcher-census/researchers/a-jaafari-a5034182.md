@@ -1,0 +1,59 @@
+---
+title: "A. Jaafari"
+description: "A. Jaafari is a Senior Unknown researcher at Centre National de la Recherche Scientifique in FR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.384232
+url: "/cdr-researcher-census/researchers/a-jaafari-a5034182/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "A. Jaafari",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/a-jaafari-a5034182/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Centre National de la Recherche Scientifique"
+  },
+  "sameAs": "https://openalex.org/A5034182304"
+}
+</script>
+
+## Profile
+
+**A. Jaafari**  
+Centre National de la Recherche Scientifique · 🇫🇷 FR
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Unknown**
+
+Unknown
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 8 |
+| Citations | 219 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Application of Thermal Metal Spray on Oman LNG Regenerators** (2025)
+   0 citations
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5034182304)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

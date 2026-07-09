@@ -1,0 +1,75 @@
+---
+title: "Masaoki Iwasaki"
+description: "Masaoki Iwasaki is a Senior General CDR researcher at Toyota Motor Corporation (Switzerland) in CH. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.315124
+url: "/cdr-researcher-census/researchers/masaoki-iwasaki-a5075732/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Masaoki Iwasaki",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/masaoki-iwasaki-a5075732/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Toyota Motor Corporation (Switzerland)"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-3987-0017",
+    "https://openalex.org/A5075732262"
+  ]
+}
+</script>
+
+## Profile
+
+**Masaoki Iwasaki**  
+Toyota Motor Corporation (Switzerland) · 🇨🇭 CH
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 11 |
+| Citations | 946 |
+| Publications | 29 |
+| CDR Focus | 17.2% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Continuous CO synthesis from ambient air by integrating direct air capture and direct carbonate reduction using an alkaline CO2-absorbing electrolyte operating at room temperature** (2024)
+   2 citations
+
+2. **Continuous electrolytic methanol synthesis from air-captured CO2 at ordinary temperature and pressure** (2025)
+   0 citations · DAC
+
+3. **Electrodialysis Processes to Activate (Bi)Carbonate Solutions in Equilibrium with Atmospheric Low-Concentration CO <sub>2</sub>** (2025)
+   0 citations · DAC
+
+4. **Continuous electrolytic methanol synthesis from air-captured CO2 at ordinary temperature and pressure** (2025)
+   0 citations
+
+5. **Continuous Co Synthesis from Ambient Air by Integrating Direct Air Capture and Direct Carbonate Reduction Using an Alkaline Co2-Absorbing Electrolyte Operating at Room Temperature** (2024)
+   0 citations
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-3987-0017)
+- [OpenAlex](https://openalex.org/A5075732262)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

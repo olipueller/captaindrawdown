@@ -1,0 +1,62 @@
+---
+title: "Ekavi Aikaterini Isari"
+description: "Ekavi Aikaterini Isari is a Mid-career Biochar researcher at Hellenic Open University in GR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:21.464692
+url: "/cdr-researcher-census/researchers/ekavi-aikaterini-isari-a5008031/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ekavi Aikaterini Isari",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ekavi-aikaterini-isari-a5008031/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Hellenic Open University"
+  },
+  "sameAs": "https://openalex.org/A5008031059"
+}
+</script>
+
+## Profile
+
+**Ekavi Aikaterini Isari**  
+Hellenic Open University · 🇬🇷 GR
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 202 |
+| Publications | 12 |
+| CDR Focus | 16.7% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Revitalizing Degraded Soils: The Role of Biochar in Enhancing Soil Health and Productivity** (2025)
+   9 citations · Biochar
+
+2. **The Role of Biochar and Earthworms in Pharmaceutical Remediation of Contaminated Soil: A Systematic Review** (2026)
+   0 citations · Biochar
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5008031059)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

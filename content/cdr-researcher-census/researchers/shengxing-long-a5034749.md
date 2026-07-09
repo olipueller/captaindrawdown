@@ -1,0 +1,66 @@
+---
+title: "Shengxing Long"
+description: "Shengxing Long is a Senior Biochar researcher at Peking University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:20.514924
+url: "/cdr-researcher-census/researchers/shengxing-long-a5034749/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Shengxing Long",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shengxing-long-a5034749/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Peking University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0003-1138-1219",
+    "https://openalex.org/A5034749837"
+  ]
+}
+</script>
+
+## Profile
+
+**Shengxing Long**  
+Peking University · 🇨🇳 CN
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 12 |
+| Citations | 624 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Cd(II) removal from aqueous solutions by pomelo peel derived biochar in a permeable reactive barrier: modelling, optimization and mechanism** (2021)
+   11 citations · Biochar
+
+2. **Optimizing the Methylene Blue Removalfrom Aqueous Solution Using Pomelo Peel BasedBiochar Assisted by RSM and ANN-PSO** (2021)
+   10 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0003-1138-1219)
+- [OpenAlex](https://openalex.org/A5034749837)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

@@ -1,0 +1,59 @@
+---
+title: "Qinyang Li"
+description: "Qinyang Li is a Mid-career Biochar researcher at China Leather and Footwear Industry Research Institute in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:22.037536
+url: "/cdr-researcher-census/researchers/qinyang-li-a5066612/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Qinyang Li",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qinyang-li-a5066612/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "China Leather and Footwear Industry Research Institute"
+  },
+  "sameAs": "https://openalex.org/A5066612406"
+}
+</script>
+
+## Profile
+
+**Qinyang Li**  
+China Leather and Footwear Industry Research Institute · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 4 |
+| Citations | 122 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Resource utilization of tannery sludge to prepare biochar as persulfate activators for highly efficient degradation of tetracycline** (2022)
+   25 citations · Biochar
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5066612406)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

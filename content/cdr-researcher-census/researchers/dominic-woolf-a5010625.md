@@ -1,0 +1,90 @@
+---
+title: "Dominic Woolf"
+description: "Dominic Woolf is a Senior General CDR researcher at Cornell University in US. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T00:49:19.940132
+url: "/cdr-researcher-census/researchers/dominic-woolf-a5010625/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Dominic Woolf",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dominic-woolf-a5010625/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Cornell University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0001-9344-9496",
+    "https://openalex.org/A5010625810"
+  ]
+}
+</script>
+
+## Profile
+
+**Dominic Woolf**  
+Cornell University · 🇺🇸 US
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 23 |
+| Citations | 5,784 |
+| Publications | 53 |
+| CDR Focus | 24.5% |
+| Trajectory | Declining |
+
+## Top CDR Publications
+
+1. **Biochar in climate change mitigation** (2021)
+   867 citations · Biochar
+
+2. **Global crop production increase by soil organic carbon** (2023)
+   279 citations · General CDR
+
+3. **Greenhouse Gas Inventory Model for Biochar Additions to Soil** (2021)
+   206 citations · Biochar
+
+4. **Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment** (2023)
+   52 citations · Biochar
+
+5. **Perceptions of naturalness predict US public support for Soil Carbon Storage as a climate solution** (2021)
+   37 citations · General CDR
+
+6. **Importance of Terrain and Climate for Predicting Soil Organic Carbon Is Highly Variable across Local to Continental Scales** (2024)
+   24 citations · Soil Carbon
+
+7. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
+   23 citations · General CDR
+
+8. **Biochar, greenhouse gas accounting, and climate change mitigation** (2024)
+   9 citations · Biochar
+
+9. **Biochar Permanence—A Policy Commentary** (2025)
+   8 citations · Biochar
+
+10. **Sensationalized soil carbon sequestration estimates excuse further climate inaction** (2023)
+   4 citations · General CDR
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0001-9344-9496)
+- [OpenAlex](https://openalex.org/A5010625810)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
