@@ -1,7 +1,7 @@
 ---
 title: "Y.M. John Chew"
 description: "Y.M. John Chew is an Early-career Unknown researcher at University of Bath in GB. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.075924
+date: 2026-07-10T01:07:48.987101
 url: "/cdr-researcher-census/researchers/ym-john-chew-a5045298/"
 layout: "researcher"
 hiddenInHomeList: true

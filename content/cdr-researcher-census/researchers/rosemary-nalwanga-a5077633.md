@@ -1,7 +1,7 @@
 ---
 title: "Rosemary Nalwanga"
 description: "Rosemary Nalwanga is a Mid-career Unknown researcher at Makerere University in UG. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.966056
+date: 2026-07-10T01:07:48.886848
 url: "/cdr-researcher-census/researchers/rosemary-nalwanga-a5077633/"
 layout: "researcher"
 hiddenInHomeList: true

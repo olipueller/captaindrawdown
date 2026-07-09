@@ -1,7 +1,7 @@
 ---
 title: "Anusuya Willis"
 description: "Anusuya Willis is a Senior Ocean CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 93 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.982992
+date: 2026-07-10T01:07:47.033763
 url: "/cdr-researcher-census/researchers/anusuya-willis-a5038843/"
 layout: "researcher"
 hiddenInHomeList: true

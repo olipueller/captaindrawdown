@@ -1,7 +1,7 @@
 ---
 title: "Doris Oke"
 description: "Doris Oke is a Mid-career General CDR researcher at Argonne National Laboratory in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.312449
+date: 2026-07-10T01:07:48.314888
 url: "/cdr-researcher-census/researchers/doris-oke-a5019886/"
 layout: "researcher"
 hiddenInHomeList: true

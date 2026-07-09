@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxia Zhao"
 description: "Xiaoxia Zhao is a Mid-career Unknown researcher at Mongolian Academy of Sciences in MN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.222136
+date: 2026-07-10T01:07:49.132446
 url: "/cdr-researcher-census/researchers/xiaoxia-zhao-a5101729/"
 layout: "researcher"
 hiddenInHomeList: true

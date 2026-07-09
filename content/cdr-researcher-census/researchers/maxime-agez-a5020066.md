@@ -1,7 +1,7 @@
 ---
 title: "Maxime Agez"
 description: "Maxime Agez is a Mid-career Unknown researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.379064
+date: 2026-07-10T01:07:48.375197
 url: "/cdr-researcher-census/researchers/maxime-agez-a5020066/"
 layout: "researcher"
 hiddenInHomeList: true

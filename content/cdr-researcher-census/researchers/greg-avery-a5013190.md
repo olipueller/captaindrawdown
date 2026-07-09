@@ -1,7 +1,7 @@
 ---
 title: "Greg Avery"
 description: "Greg Avery is a Mid-career Soil Carbon researcher at Museum of the Rockies in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.550460
+date: 2026-07-10T01:07:47.614500
 url: "/cdr-researcher-census/researchers/greg-avery-a5013190/"
 layout: "researcher"
 hiddenInHomeList: true

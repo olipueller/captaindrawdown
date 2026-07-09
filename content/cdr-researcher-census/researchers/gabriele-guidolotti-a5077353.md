@@ -1,7 +1,7 @@
 ---
 title: "Gabriele Guidolotti"
 description: "Gabriele Guidolotti is a Senior Soil Carbon researcher at Institute of Ecosystem Study in IT. With 84 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.053380
+date: 2026-07-10T01:07:47.128913
 url: "/cdr-researcher-census/researchers/gabriele-guidolotti-a5077353/"
 layout: "researcher"
 hiddenInHomeList: true

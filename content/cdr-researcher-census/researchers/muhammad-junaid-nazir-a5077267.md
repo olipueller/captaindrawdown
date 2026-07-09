@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Junaid Nazir"
 description: "Muhammad Junaid Nazir is a Mid-career Soil Carbon researcher at University Town of Shenzhen in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.772313
+date: 2026-07-10T01:07:47.822136
 url: "/cdr-researcher-census/researchers/muhammad-junaid-nazir-a5077267/"
 layout: "researcher"
 hiddenInHomeList: true

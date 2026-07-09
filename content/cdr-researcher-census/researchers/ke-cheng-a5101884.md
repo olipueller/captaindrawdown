@@ -1,7 +1,7 @@
 ---
 title: "Ke Cheng"
 description: "Ke Cheng is a Senior Unknown researcher at Ludong University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.501831
+date: 2026-07-10T01:07:48.487387
 url: "/cdr-researcher-census/researchers/ke-cheng-a5101884/"
 layout: "researcher"
 hiddenInHomeList: true

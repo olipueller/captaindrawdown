@@ -1,7 +1,7 @@
 ---
 title: "Ryan Farquharson"
 description: "Ryan Farquharson is a Senior Soil Carbon researcher at Agriculture and Food in AU. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.520896
+date: 2026-07-10T01:07:47.587871
 url: "/cdr-researcher-census/researchers/ryan-farquharson-a5023365/"
 layout: "researcher"
 hiddenInHomeList: true

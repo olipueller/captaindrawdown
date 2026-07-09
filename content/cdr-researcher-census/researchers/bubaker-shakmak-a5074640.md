@@ -1,7 +1,7 @@
 ---
 title: "Bubaker Shakmak"
 description: "Bubaker Shakmak is a Mid-career Unknown researcher at Nottingham Trent University in GB. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.927856
+date: 2026-07-10T01:07:48.851338
 url: "/cdr-researcher-census/researchers/bubaker-shakmak-a5074640/"
 layout: "researcher"
 hiddenInHomeList: true

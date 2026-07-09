@@ -1,7 +1,7 @@
 ---
 title: "Jing Zhang"
 description: "Jing Zhang is a Mid-career Soil Carbon researcher at Donghua University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.388869
+date: 2026-07-10T01:07:47.469649
 url: "/cdr-researcher-census/researchers/jing-zhang-a5100345/"
 layout: "researcher"
 hiddenInHomeList: true

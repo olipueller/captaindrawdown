@@ -1,7 +1,7 @@
 ---
 title: "Haodong Lu"
 description: "Haodong Lu is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.895762
+date: 2026-07-10T01:07:48.821620
 url: "/cdr-researcher-census/researchers/haodong-lu-a5101722/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pabasari A. Kolivabandara"
 description: "Pabasari A. Kolivabandara is an Early-career Unknown researcher at University of Sri Jayewardenepura in LK. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.070792
+date: 2026-07-10T01:07:48.981877
 url: "/cdr-researcher-census/researchers/pabasari-a-kolivabandara-a5044558/"
 layout: "researcher"
 hiddenInHomeList: true

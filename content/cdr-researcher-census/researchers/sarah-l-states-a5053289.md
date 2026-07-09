@@ -1,7 +1,7 @@
 ---
 title: "Sarah L. States"
 description: "Sarah L. States is a Senior Soil Carbon researcher at Phipps Conservatory and Botanical Gardens in US. With 21 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.364947
+date: 2026-07-10T01:07:47.447017
 url: "/cdr-researcher-census/researchers/sarah-l-states-a5053289/"
 layout: "researcher"
 hiddenInHomeList: true

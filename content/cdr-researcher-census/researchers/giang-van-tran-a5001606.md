@@ -1,7 +1,7 @@
 ---
 title: "Giang Van Tran"
 description: "Giang Van Tran is a Senior Unknown researcher at Maejo University in TH. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.461783
+date: 2026-07-10T01:07:48.449809
 url: "/cdr-researcher-census/researchers/giang-van-tran-a5001606/"
 layout: "researcher"
 hiddenInHomeList: true

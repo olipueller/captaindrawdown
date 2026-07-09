@@ -1,7 +1,7 @@
 ---
 title: "D.N. Brask-Pedersen"
 description: "D.N. Brask-Pedersen is a Mid-career Unknown researcher at Aarhus University in DK. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.071471
+date: 2026-07-10T01:07:48.982528
 url: "/cdr-researcher-census/researchers/dn-brask-pedersen-a5079990/"
 layout: "researcher"
 hiddenInHomeList: true

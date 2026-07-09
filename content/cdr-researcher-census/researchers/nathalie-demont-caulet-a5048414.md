@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Demont-Caulet"
 description: "Nathalie Demont-Caulet is a Senior Soil Carbon researcher at ParisTech in FR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.526895
+date: 2026-07-10T01:07:47.593395
 url: "/cdr-researcher-census/researchers/nathalie-demont-caulet-a5048414/"
 layout: "researcher"
 hiddenInHomeList: true

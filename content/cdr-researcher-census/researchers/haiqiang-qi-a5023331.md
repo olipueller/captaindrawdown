@@ -1,7 +1,7 @@
 ---
 title: "Haiqiang Qi"
 description: "Haiqiang Qi is a Mid-career Biochar researcher at University of Jinan in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.407614
+date: 2026-07-10T01:07:47.487336
 url: "/cdr-researcher-census/researchers/haiqiang-qi-a5023331/"
 layout: "researcher"
 hiddenInHomeList: true

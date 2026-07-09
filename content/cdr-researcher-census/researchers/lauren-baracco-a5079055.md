@@ -1,7 +1,7 @@
 ---
 title: "Lauren Baracco"
 description: "Lauren Baracco is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.708318
+date: 2026-07-10T01:07:47.762549
 url: "/cdr-researcher-census/researchers/lauren-baracco-a5079055/"
 layout: "researcher"
 hiddenInHomeList: true

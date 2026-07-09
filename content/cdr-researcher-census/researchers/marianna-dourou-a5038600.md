@@ -1,7 +1,7 @@
 ---
 title: "Marianna Dourou"
 description: "Marianna Dourou is a Mid-career Unknown researcher at FA-Bio in GB. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.349640
+date: 2026-07-10T01:07:47.432119
 url: "/cdr-researcher-census/researchers/marianna-dourou-a5038600/"
 layout: "researcher"
 hiddenInHomeList: true

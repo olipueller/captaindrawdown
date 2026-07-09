@@ -1,7 +1,7 @@
 ---
 title: "Yugeswaran Subramaniam"
 description: "Yugeswaran Subramaniam is a Mid-career Unknown researcher at Mingchi University of Technology in TW. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.136862
+date: 2026-07-10T01:07:48.158786
 url: "/cdr-researcher-census/researchers/yugeswaran-subramaniam-a5036598/"
 layout: "researcher"
 hiddenInHomeList: true

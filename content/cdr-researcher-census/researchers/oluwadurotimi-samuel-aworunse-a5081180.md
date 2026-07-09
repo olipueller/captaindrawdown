@@ -1,7 +1,7 @@
 ---
 title: "Oluwadurotimi Samuel Aworunse"
 description: "Oluwadurotimi Samuel Aworunse is a Mid-career Unknown researcher at Covenant University in NG. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.996498
+date: 2026-07-10T01:07:48.005859
 url: "/cdr-researcher-census/researchers/oluwadurotimi-samuel-aworunse-a5081180/"
 layout: "researcher"
 hiddenInHomeList: true

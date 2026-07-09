@@ -1,7 +1,7 @@
 ---
 title: "Ronley C. Canatoy"
 description: "Ronley C. Canatoy is a Mid-career Soil Carbon researcher at Central Mindanao University in PH. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.045247
+date: 2026-07-10T01:07:48.050798
 url: "/cdr-researcher-census/researchers/ronley-c-canatoy-a5088663/"
 layout: "researcher"
 hiddenInHomeList: true

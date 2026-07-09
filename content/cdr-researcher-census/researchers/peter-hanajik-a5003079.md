@@ -1,7 +1,7 @@
 ---
 title: "Peter Hanajík"
 description: "Peter Hanajík is a Mid-career Soil Carbon researcher at Comenius University Bratislava in SK. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.051797
+date: 2026-07-10T01:07:48.056787
 url: "/cdr-researcher-census/researchers/peter-hanajik-a5003079/"
 layout: "researcher"
 hiddenInHomeList: true

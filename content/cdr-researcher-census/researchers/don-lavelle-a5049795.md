@@ -1,7 +1,7 @@
 ---
 title: "Don Lavelle"
 description: "Don Lavelle is a Senior Unknown researcher at University of Illinois Chicago in US. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.481382
+date: 2026-07-10T01:07:47.553508
 url: "/cdr-researcher-census/researchers/don-lavelle-a5049795/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Noxolo Sweetness Lukashe"
 description: "Noxolo Sweetness Lukashe is a Mid-career Soil Carbon researcher at Stellenbosch University in ZA. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.120253
+date: 2026-07-10T01:07:49.025978
 url: "/cdr-researcher-census/researchers/noxolo-sweetness-lukashe-a5040320/"
 layout: "researcher"
 hiddenInHomeList: true

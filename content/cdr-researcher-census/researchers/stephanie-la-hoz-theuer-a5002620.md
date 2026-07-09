@@ -1,7 +1,7 @@
 ---
 title: "Stephanie La Hoz Theuer"
 description: "Stephanie La Hoz Theuer is a Mid-career General CDR researcher at Cal Poly Humboldt in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.788193
+date: 2026-07-10T01:07:47.837062
 url: "/cdr-researcher-census/researchers/stephanie-la-hoz-theuer-a5002620/"
 layout: "researcher"
 hiddenInHomeList: true

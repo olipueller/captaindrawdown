@@ -1,7 +1,7 @@
 ---
 title: "Bjarne Steffen"
 description: "Bjarne Steffen is a Senior General CDR researcher at ETH Zurich in CH. With 110 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.957968
+date: 2026-07-10T01:07:46.994966
 url: "/cdr-researcher-census/researchers/bjarne-steffen-a5051413/"
 layout: "researcher"
 hiddenInHomeList: true

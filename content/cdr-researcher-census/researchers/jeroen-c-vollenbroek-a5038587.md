@@ -1,7 +1,7 @@
 ---
 title: "Jeroen C. Vollenbroek"
 description: "Jeroen C. Vollenbroek is a Mid-career Enhanced Weathering researcher at Heidelberg University in DE. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.777399
+date: 2026-07-10T01:07:47.826692
 url: "/cdr-researcher-census/researchers/jeroen-c-vollenbroek-a5038587/"
 layout: "researcher"
 hiddenInHomeList: true

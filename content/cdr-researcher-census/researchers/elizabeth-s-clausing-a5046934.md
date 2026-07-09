@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth S. Clausing"
 description: "Elizabeth S. Clausing is a Mid-career Unknown researcher at University of Nebraska–Lincoln in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.820515
+date: 2026-07-10T01:07:48.755787
 url: "/cdr-researcher-census/researchers/elizabeth-s-clausing-a5046934/"
 layout: "researcher"
 hiddenInHomeList: true

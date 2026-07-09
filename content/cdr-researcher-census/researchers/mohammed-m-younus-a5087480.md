@@ -1,7 +1,7 @@
 ---
 title: "Mohammed M. Younus"
 description: "Mohammed M. Younus is an Early-career Unknown researcher at Egyptian Petroleum Research Institute in EG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.191287
+date: 2026-07-10T01:07:49.105091
 url: "/cdr-researcher-census/researchers/mohammed-m-younus-a5087480/"
 layout: "researcher"
 hiddenInHomeList: true

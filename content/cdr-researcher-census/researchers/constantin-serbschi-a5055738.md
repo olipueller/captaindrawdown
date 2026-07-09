@@ -1,7 +1,7 @@
 ---
 title: "Constantin Serbschi"
 description: "Constantin Serbschi is an Early-career Unknown researcher. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.234267
+date: 2026-07-10T01:07:49.143541
 url: "/cdr-researcher-census/researchers/constantin-serbschi-a5055738/"
 layout: "researcher"
 hiddenInHomeList: true

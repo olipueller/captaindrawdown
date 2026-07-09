@@ -1,7 +1,7 @@
 ---
 title: "Ranja Hautamäki"
 description: "Ranja Hautamäki is a Mid-career General CDR researcher at Aalto University in FI. With 80 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.005264
+date: 2026-07-10T01:07:48.013981
 url: "/cdr-researcher-census/researchers/ranja-hautamaki-a5049341/"
 layout: "researcher"
 hiddenInHomeList: true

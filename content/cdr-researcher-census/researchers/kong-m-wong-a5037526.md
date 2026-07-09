@@ -1,7 +1,7 @@
 ---
 title: "Kong M. Wong"
 description: "Kong M. Wong is a Mid-career Soil Carbon researcher at Georgia Institute of Technology in US. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.846361
+date: 2026-07-10T01:07:47.882021
 url: "/cdr-researcher-census/researchers/kong-m-wong-a5037526/"
 layout: "researcher"
 hiddenInHomeList: true

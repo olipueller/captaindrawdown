@@ -1,7 +1,7 @@
 ---
 title: "Rakesh Kumar"
 description: "Rakesh Kumar is a Senior Unknown researcher at Indian Institute of Technology Roorkee in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.707525
+date: 2026-07-10T01:07:47.761791
 url: "/cdr-researcher-census/researchers/rakesh-kumar-a5103918/"
 layout: "researcher"
 hiddenInHomeList: true

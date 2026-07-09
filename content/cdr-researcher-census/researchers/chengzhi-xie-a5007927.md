@@ -1,7 +1,7 @@
 ---
 title: "Chengzhi Xie"
 description: "Chengzhi Xie is an Early-career Unknown researcher at George Washington University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.786165
+date: 2026-07-10T01:07:48.727916
 url: "/cdr-researcher-census/researchers/chengzhi-xie-a5007927/"
 layout: "researcher"
 hiddenInHomeList: true

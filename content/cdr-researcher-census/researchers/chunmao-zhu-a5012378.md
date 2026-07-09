@@ -1,7 +1,7 @@
 ---
 title: "Chunmao Zhu"
 description: "Chunmao Zhu is a Senior Unknown researcher at Japan Agency for Marine-Earth Science and Technology in JP. With 93 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.092008
+date: 2026-07-10T01:07:47.174940
 url: "/cdr-researcher-census/researchers/chunmao-zhu-a5012378/"
 layout: "researcher"
 hiddenInHomeList: true

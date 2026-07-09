@@ -1,7 +1,7 @@
 ---
 title: "Y. Sinan Hüsrevoğlu"
 description: "Y. Sinan Hüsrevoğlu is a Senior Soil Carbon researcher at Middle East Technical University in TR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.914128
+date: 2026-07-10T01:07:47.927307
 url: "/cdr-researcher-census/researchers/y-sinan-husrevoglu-a5038910/"
 layout: "researcher"
 hiddenInHomeList: true

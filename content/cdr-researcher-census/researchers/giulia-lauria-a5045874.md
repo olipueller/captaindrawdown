@@ -1,7 +1,7 @@
 ---
 title: "Giulia Lauria"
 description: "Giulia Lauria is a Mid-career Soil Carbon researcher at University of Pisa in IT. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.271387
+date: 2026-07-10T01:07:48.277267
 url: "/cdr-researcher-census/researchers/giulia-lauria-a5045874/"
 layout: "researcher"
 hiddenInHomeList: true

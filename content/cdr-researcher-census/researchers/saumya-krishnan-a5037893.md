@@ -1,7 +1,7 @@
 ---
 title: "Saumya Krishnan"
 description: "Saumya Krishnan is a Mid-career Unknown researcher at University of Kerala in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.182331
+date: 2026-07-10T01:07:49.096464
 url: "/cdr-researcher-census/researchers/saumya-krishnan-a5037893/"
 layout: "researcher"
 hiddenInHomeList: true

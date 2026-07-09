@@ -1,7 +1,7 @@
 ---
 title: "L Prentice"
 description: "L Prentice is a Senior Unknown researcher. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.580873
+date: 2026-07-10T01:07:47.644195
 url: "/cdr-researcher-census/researchers/l-prentice-a5061844/"
 layout: "researcher"
 hiddenInHomeList: true

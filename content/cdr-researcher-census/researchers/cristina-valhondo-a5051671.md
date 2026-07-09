@@ -1,7 +1,7 @@
 ---
 title: "Cristina Valhondo"
 description: "Cristina Valhondo is a Senior Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 72 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.458042
+date: 2026-07-10T01:07:47.532625
 url: "/cdr-researcher-census/researchers/cristina-valhondo-a5051671/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jin-Hyeob Kwak"
 description: "Jin-Hyeob Kwak is a Mid-career Biochar researcher at University of Alberta in CA. With 3 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.945699
+date: 2026-07-10T01:07:47.957696
 url: "/cdr-researcher-census/researchers/jin-hyeob-kwak-a5108651/"
 layout: "researcher"
 hiddenInHomeList: true

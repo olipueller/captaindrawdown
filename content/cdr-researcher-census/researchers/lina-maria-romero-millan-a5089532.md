@@ -1,7 +1,7 @@
 ---
 title: "Lina María Romero Millán"
 description: "Lina María Romero Millán is a Mid-career Biochar researcher at Universidad de Granada in ES. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.903926
+date: 2026-07-10T01:07:47.918265
 url: "/cdr-researcher-census/researchers/lina-maria-romero-millan-a5089532/"
 layout: "researcher"
 hiddenInHomeList: true

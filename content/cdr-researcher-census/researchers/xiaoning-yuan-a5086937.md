@@ -1,7 +1,7 @@
 ---
 title: "Xiaoning Yuan"
 description: "Xiaoning Yuan is a Mid-career Unknown researcher at Uniformed Services University of the Health Sciences in US. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.953769
+date: 2026-07-10T01:07:48.875740
 url: "/cdr-researcher-census/researchers/xiaoning-yuan-a5086937/"
 layout: "researcher"
 hiddenInHomeList: true

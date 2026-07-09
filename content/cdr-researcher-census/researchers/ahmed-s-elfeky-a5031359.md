@@ -1,7 +1,7 @@
 ---
 title: "Ahmed S. Elfeky"
 description: "Ahmed S. Elfeky is a Mid-career Unknown researcher at Al-Azhar University in EG. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.231944
+date: 2026-07-10T01:07:48.241913
 url: "/cdr-researcher-census/researchers/ahmed-s-elfeky-a5031359/"
 layout: "researcher"
 hiddenInHomeList: true

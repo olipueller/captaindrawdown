@@ -1,7 +1,7 @@
 ---
 title: "Mingjing He"
 description: "Mingjing He is a Senior Biochar researcher at Hong Kong Polytechnic University in CN. With 35 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.955538
+date: 2026-07-10T01:07:46.991433
 url: "/cdr-researcher-census/researchers/mingjing-he-a5068928/"
 layout: "researcher"
 hiddenInHomeList: true

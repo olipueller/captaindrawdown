@@ -1,7 +1,7 @@
 ---
 title: "Arun Jyoti Nath"
 description: "Arun Jyoti Nath is a Senior Soil Carbon researcher at Assam University in IN. With 235 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.965501
+date: 2026-07-10T01:07:47.007263
 url: "/cdr-researcher-census/researchers/arun-jyoti-nath-a5037172/"
 layout: "researcher"
 hiddenInHomeList: true

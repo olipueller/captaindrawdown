@@ -1,7 +1,7 @@
 ---
 title: "Elshaday Mulu"
 description: "Elshaday Mulu is an Early-career Unknown researcher at Moi University in KE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.462804
+date: 2026-07-10T01:07:48.450715
 url: "/cdr-researcher-census/researchers/elshaday-mulu-a5091820/"
 layout: "researcher"
 hiddenInHomeList: true

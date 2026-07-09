@@ -1,7 +1,7 @@
 ---
 title: "Pascual Sanabria-Carretero"
 description: "Pascual Sanabria-Carretero is a Mid-career Unknown researcher at Hospital Universitario La Paz in ES. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.173207
+date: 2026-07-10T01:07:49.063004
 url: "/cdr-researcher-census/researchers/pascual-sanabria-carretero-a5012223/"
 layout: "researcher"
 hiddenInHomeList: true

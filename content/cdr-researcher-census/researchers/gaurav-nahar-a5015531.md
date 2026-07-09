@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Nahar"
 description: "Gaurav Nahar is a Mid-career General CDR researcher at High Energy Materials Research Laboratory in IN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.522049
+date: 2026-07-10T01:07:47.589011
 url: "/cdr-researcher-census/researchers/gaurav-nahar-a5015531/"
 layout: "researcher"
 hiddenInHomeList: true

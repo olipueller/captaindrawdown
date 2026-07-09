@@ -1,7 +1,7 @@
 ---
 title: "Soon Jin Choi"
 description: "Soon Jin Choi is a Senior Unknown researcher at Asan Medical Center in KR. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.030350
+date: 2026-07-10T01:07:48.945865
 url: "/cdr-researcher-census/researchers/soon-jin-choi-a5109408/"
 layout: "researcher"
 hiddenInHomeList: true

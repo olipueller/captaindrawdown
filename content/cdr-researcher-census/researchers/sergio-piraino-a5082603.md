@@ -1,7 +1,7 @@
 ---
 title: "Sergio Piraino"
 description: "Sergio Piraino is a Mid-career Unknown researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.912516
+date: 2026-07-10T01:07:48.837217
 url: "/cdr-researcher-census/researchers/sergio-piraino-a5082603/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chang Liu"
 description: "Chang Liu is a Senior General CDR researcher at Shenyang Agricultural University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.420937
+date: 2026-07-10T01:07:48.411588
 url: "/cdr-researcher-census/researchers/chang-liu-a5101602/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ronald Ranguin"
 description: "Ronald Ranguin is a Mid-career Unknown researcher at Alcen (France) in FR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.488763
+date: 2026-07-10T01:07:48.474789
 url: "/cdr-researcher-census/researchers/ronald-ranguin-a5057100/"
 layout: "researcher"
 hiddenInHomeList: true

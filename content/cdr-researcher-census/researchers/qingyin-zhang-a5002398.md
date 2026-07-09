@@ -1,7 +1,7 @@
 ---
 title: "Qingyin Zhang"
 description: "Qingyin Zhang is a Senior Soil Carbon researcher at Tiangong University in CN. With 81 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.002568
+date: 2026-07-10T01:07:47.062959
 url: "/cdr-researcher-census/researchers/qingyin-zhang-a5002398/"
 layout: "researcher"
 hiddenInHomeList: true

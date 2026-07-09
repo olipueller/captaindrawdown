@@ -1,7 +1,7 @@
 ---
 title: "Indira Rathore"
 description: "Indira Rathore is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.399141
+date: 2026-07-10T01:07:47.479937
 url: "/cdr-researcher-census/researchers/indira-rathore-a5031667/"
 layout: "researcher"
 hiddenInHomeList: true

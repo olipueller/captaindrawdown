@@ -1,7 +1,7 @@
 ---
 title: "Shuhong Wang"
 description: "Shuhong Wang is a Senior Soil Carbon researcher at Guangdong University of Technology in CN. With 41 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.918577
+date: 2026-07-10T01:07:47.932141
 url: "/cdr-researcher-census/researchers/shuhong-wang-a5100599/"
 layout: "researcher"
 hiddenInHomeList: true

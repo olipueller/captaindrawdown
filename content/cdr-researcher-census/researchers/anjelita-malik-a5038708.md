@@ -1,7 +1,7 @@
 ---
 title: "Anjelita Malik"
 description: "Anjelita Malik is an Early-career Soil Carbon researcher. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.129735
+date: 2026-07-10T01:07:49.034412
 url: "/cdr-researcher-census/researchers/anjelita-malik-a5038708/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eseoghene Kupa"
 description: "Eseoghene Kupa is a Mid-career General CDR researcher at Lagos State Health Service Commission in NG. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.306622
+date: 2026-07-10T01:07:48.309434
 url: "/cdr-researcher-census/researchers/eseoghene-kupa-a5098941/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiangdong Liu"
 description: "Xiangdong Liu is a Senior Ocean CDR researcher at Lifetech Scientific (China) in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.282386
+date: 2026-07-10T01:07:48.287811
 url: "/cdr-researcher-census/researchers/xiangdong-liu-a5100776/"
 layout: "researcher"
 hiddenInHomeList: true

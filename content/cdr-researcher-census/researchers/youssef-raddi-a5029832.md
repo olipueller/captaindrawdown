@@ -1,7 +1,7 @@
 ---
 title: "Youssef Raddi"
 description: "Youssef Raddi is a Senior Unknown researcher at Mohammed V University in MA. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.849639
+date: 2026-07-10T01:07:47.885536
 url: "/cdr-researcher-census/researchers/youssef-raddi-a5029832/"
 layout: "researcher"
 hiddenInHomeList: true

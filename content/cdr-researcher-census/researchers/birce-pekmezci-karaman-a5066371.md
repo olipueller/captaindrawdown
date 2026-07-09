@@ -1,7 +1,7 @@
 ---
 title: "Birce Pekmezci Karaman"
 description: "Birce Pekmezci Karaman is a Mid-career Unknown researcher at Gazi University in TR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.671551
+date: 2026-07-10T01:07:48.627450
 url: "/cdr-researcher-census/researchers/birce-pekmezci-karaman-a5066371/"
 layout: "researcher"
 hiddenInHomeList: true

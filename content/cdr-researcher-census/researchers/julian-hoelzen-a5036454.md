@@ -1,7 +1,7 @@
 ---
 title: "Julian Hoelzen"
 description: "Julian Hoelzen is a Mid-career Unknown researcher at Leibniz University Hannover in DE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.469305
+date: 2026-07-10T01:07:47.542060
 url: "/cdr-researcher-census/researchers/julian-hoelzen-a5036454/"
 layout: "researcher"
 hiddenInHomeList: true

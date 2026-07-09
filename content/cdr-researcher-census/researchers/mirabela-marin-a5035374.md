@@ -1,7 +1,7 @@
 ---
 title: "Mirabela Marin"
 description: "Mirabela Marin is a Mid-career Soil Carbon researcher at National Institute for Research and Development in Forestry \"Marin Drăcea\" in RO. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.897359
+date: 2026-07-10T01:07:47.912289
 url: "/cdr-researcher-census/researchers/mirabela-marin-a5035374/"
 layout: "researcher"
 hiddenInHomeList: true

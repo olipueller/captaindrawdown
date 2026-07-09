@@ -1,7 +1,7 @@
 ---
 title: "Buchun Si"
 description: "Buchun Si is a Senior Biochar researcher at China Agricultural University in CN. With 112 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.962372
+date: 2026-07-10T01:07:47.001313
 url: "/cdr-researcher-census/researchers/buchun-si-a5072545/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Congrong Miao"
 description: "Congrong Miao is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 37 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.071750
+date: 2026-07-10T01:07:47.150792
 url: "/cdr-researcher-census/researchers/congrong-miao-a5089381/"
 layout: "researcher"
 hiddenInHomeList: true

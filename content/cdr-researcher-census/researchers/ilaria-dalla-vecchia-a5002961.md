@@ -1,7 +1,7 @@
 ---
 title: "Ilaria Dalla Vecchia"
 description: "Ilaria Dalla Vecchia is a Mid-career Unknown researcher at Sardegna Ricerche (Italy) in IT. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.499205
+date: 2026-07-10T01:07:48.484723
 url: "/cdr-researcher-census/researchers/ilaria-dalla-vecchia-a5002961/"
 layout: "researcher"
 hiddenInHomeList: true

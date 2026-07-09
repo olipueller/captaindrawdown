@@ -1,7 +1,7 @@
 ---
 title: "Giuseppe Tafuri"
 description: "Giuseppe Tafuri is an Early-career Unknown researcher at University of Chieti-Pescara in IT. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.113075
+date: 2026-07-10T01:07:49.019693
 url: "/cdr-researcher-census/researchers/giuseppe-tafuri-a5092491/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Roomina Mazhar"
 description: "Roomina Mazhar is a Mid-career Unknown researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.690045
+date: 2026-07-10T01:07:47.746168
 url: "/cdr-researcher-census/researchers/roomina-mazhar-a5018581/"
 layout: "researcher"
 hiddenInHomeList: true

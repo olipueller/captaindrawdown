@@ -1,7 +1,7 @@
 ---
 title: "Zhenyu Shao"
 description: "Zhenyu Shao is a Mid-career Biochar researcher at University of Washington in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.416822
+date: 2026-07-10T01:07:48.407541
 url: "/cdr-researcher-census/researchers/zhenyu-shao-a5047286/"
 layout: "researcher"
 hiddenInHomeList: true

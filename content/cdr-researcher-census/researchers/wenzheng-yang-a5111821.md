@@ -1,7 +1,7 @@
 ---
 title: "Wenzheng Yang"
 description: "Wenzheng Yang is a Senior Soil Carbon researcher at Beijing University of Posts and Telecommunications in CN. With 41 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.143851
+date: 2026-07-10T01:07:48.164135
 url: "/cdr-researcher-census/researchers/wenzheng-yang-a5111821/"
 layout: "researcher"
 hiddenInHomeList: true

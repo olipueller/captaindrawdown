@@ -1,7 +1,7 @@
 ---
 title: "Chao Fang"
 description: "Chao Fang is a Senior Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 68 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.150740
+date: 2026-07-10T01:07:47.239010
 url: "/cdr-researcher-census/researchers/chao-fang-a5066162/"
 layout: "researcher"
 hiddenInHomeList: true

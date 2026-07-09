@@ -1,7 +1,7 @@
 ---
 title: "André Mbabi Bitchong"
 description: "André Mbabi Bitchong is a Mid-career Unknown researcher at University of Maroua in CM. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.132108
+date: 2026-07-10T01:07:48.154645
 url: "/cdr-researcher-census/researchers/andre-mbabi-bitchong-a5052894/"
 layout: "researcher"
 hiddenInHomeList: true

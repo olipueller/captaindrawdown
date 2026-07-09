@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Laveneziana"
 description: "Lorenzo Laveneziana is an Early-career BECCS researcher at Politecnico di Torino in IT. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.012815
+date: 2026-07-10T01:07:48.929838
 url: "/cdr-researcher-census/researchers/lorenzo-laveneziana-a5014294/"
 layout: "researcher"
 hiddenInHomeList: true

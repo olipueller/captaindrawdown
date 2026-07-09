@@ -1,7 +1,7 @@
 ---
 title: "Zhaoguo Wang"
 description: "Zhaoguo Wang is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.486179
+date: 2026-07-10T01:07:47.557915
 url: "/cdr-researcher-census/researchers/zhaoguo-wang-a5101743/"
 layout: "researcher"
 hiddenInHomeList: true

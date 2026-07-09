@@ -1,7 +1,7 @@
 ---
 title: "Isaiah Borne"
 description: "Isaiah Borne is a Mid-career Unknown researcher at University of Liverpool in GB. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.435589
+date: 2026-07-10T01:07:48.425780
 url: "/cdr-researcher-census/researchers/isaiah-borne-a5022481/"
 layout: "researcher"
 hiddenInHomeList: true

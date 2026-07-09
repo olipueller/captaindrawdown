@@ -1,7 +1,7 @@
 ---
 title: "D. S. Mohekar"
 description: "D. S. Mohekar is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.939714
+date: 2026-07-10T01:07:48.862511
 url: "/cdr-researcher-census/researchers/d-s-mohekar-a5028028/"
 layout: "researcher"
 hiddenInHomeList: true

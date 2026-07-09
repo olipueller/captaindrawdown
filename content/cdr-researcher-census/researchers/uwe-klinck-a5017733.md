@@ -1,7 +1,7 @@
 ---
 title: "Uwe Klinck"
 description: "Uwe Klinck is a Senior Unknown researcher at Nordwestdeutsche Forstliche Versuchsanstalt in DE. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.775991
+date: 2026-07-10T01:07:48.720055
 url: "/cdr-researcher-census/researchers/uwe-klinck-a5017733/"
 layout: "researcher"
 hiddenInHomeList: true

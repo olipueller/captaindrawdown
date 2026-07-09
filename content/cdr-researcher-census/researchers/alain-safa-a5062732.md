@@ -1,7 +1,7 @@
 ---
 title: "Alain Safa"
 description: "Alain Safa is a Senior Ocean CDR researcher at Université Côte d'Azur in FR. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.472693
+date: 2026-07-10T01:07:47.545092
 url: "/cdr-researcher-census/researchers/alain-safa-a5062732/"
 layout: "researcher"
 hiddenInHomeList: true

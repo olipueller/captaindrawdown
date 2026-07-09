@@ -1,7 +1,7 @@
 ---
 title: "Frederica Lamar"
 description: "Frederica Lamar is a Mid-career Unknown researcher at Centers for Disease Control and Prevention in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.225053
+date: 2026-07-10T01:07:49.134980
 url: "/cdr-researcher-census/researchers/frederica-lamar-a5053070/"
 layout: "researcher"
 hiddenInHomeList: true

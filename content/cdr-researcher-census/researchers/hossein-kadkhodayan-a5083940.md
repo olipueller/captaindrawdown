@@ -1,7 +1,7 @@
 ---
 title: "Hossein Kadkhodayan"
 description: "Hossein Kadkhodayan is a Mid-career Unknown researcher at University of Tehran in IR. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.383700
+date: 2026-07-10T01:07:48.378831
 url: "/cdr-researcher-census/researchers/hossein-kadkhodayan-a5083940/"
 layout: "researcher"
 hiddenInHomeList: true

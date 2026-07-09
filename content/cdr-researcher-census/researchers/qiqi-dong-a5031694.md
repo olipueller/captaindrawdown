@@ -1,7 +1,7 @@
 ---
 title: "Qiqi Dong"
 description: "Qiqi Dong is a Mid-career Unknown researcher at Inner Mongolia University for Nationalities in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.721572
+date: 2026-07-10T01:07:47.774786
 url: "/cdr-researcher-census/researchers/qiqi-dong-a5031694/"
 layout: "researcher"
 hiddenInHomeList: true

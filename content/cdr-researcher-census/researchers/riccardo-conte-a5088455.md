@@ -1,7 +1,7 @@
 ---
 title: "Riccardo Conte"
 description: "Riccardo Conte is a Mid-career Unknown researcher at University of Padua in IT. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.227966
+date: 2026-07-10T01:07:49.137532
 url: "/cdr-researcher-census/researchers/riccardo-conte-a5088455/"
 layout: "researcher"
 hiddenInHomeList: true

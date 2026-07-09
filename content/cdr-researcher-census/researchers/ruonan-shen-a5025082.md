@@ -1,7 +1,7 @@
 ---
 title: "Ruonan Shen"
 description: "Ruonan Shen is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.608857
+date: 2026-07-10T01:07:48.571009
 url: "/cdr-researcher-census/researchers/ruonan-shen-a5025082/"
 layout: "researcher"
 hiddenInHomeList: true

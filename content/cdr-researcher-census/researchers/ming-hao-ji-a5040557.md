@@ -1,7 +1,7 @@
 ---
 title: "Ming-Hao Ji"
 description: "Ming-Hao Ji is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.237050
+date: 2026-07-10T01:07:49.146100
 url: "/cdr-researcher-census/researchers/ming-hao-ji-a5040557/"
 layout: "researcher"
 hiddenInHomeList: true

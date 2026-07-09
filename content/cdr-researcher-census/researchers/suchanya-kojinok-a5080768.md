@@ -1,7 +1,7 @@
 ---
 title: "Suchanya Kojinok"
 description: "Suchanya Kojinok is a Mid-career General CDR researcher at Maejo University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.615584
+date: 2026-07-10T01:07:48.576781
 url: "/cdr-researcher-census/researchers/suchanya-kojinok-a5080768/"
 layout: "researcher"
 hiddenInHomeList: true

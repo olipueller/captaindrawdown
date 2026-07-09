@@ -1,7 +1,7 @@
 ---
 title: "Ruth Habte Hailemariam"
 description: "Ruth Habte Hailemariam is a Mid-career Unknown researcher at Korea Institute of Civil Engineering and Building Technology in KR. With 9 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.421952
+date: 2026-07-10T01:07:47.500965
 url: "/cdr-researcher-census/researchers/ruth-habte-hailemariam-a5065159/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rongrong Miao"
 description: "Rongrong Miao is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.143144
+date: 2026-07-10T01:07:47.231971
 url: "/cdr-researcher-census/researchers/rongrong-miao-a5003865/"
 layout: "researcher"
 hiddenInHomeList: true

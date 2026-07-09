@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Cai"
 description: "Xiaowei Cai is a Senior Unknown researcher at Inner Mongolia Agricultural University in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.173464
+date: 2026-07-10T01:07:48.189685
 url: "/cdr-researcher-census/researchers/xiaowei-cai-a5082759/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jérémy Puissant"
 description: "Jérémy Puissant is a Mid-career General CDR researcher at CEH in GB. With 25 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.036638
+date: 2026-07-10T01:07:47.107756
 url: "/cdr-researcher-census/researchers/jeremy-puissant-a5007481/"
 layout: "researcher"
 hiddenInHomeList: true

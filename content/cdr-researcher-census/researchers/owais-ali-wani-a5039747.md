@@ -1,7 +1,7 @@
 ---
 title: "Owais Ali Wani"
 description: "Owais Ali Wani is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 87 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.024873
+date: 2026-07-10T01:07:47.092539
 url: "/cdr-researcher-census/researchers/owais-ali-wani-a5039747/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wanli Lian"
 description: "Wanli Lian is a Mid-career Soil Carbon researcher at Agro-Environmental Protection Institute in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.938392
+date: 2026-07-10T01:07:47.950783
 url: "/cdr-researcher-census/researchers/wanli-lian-a5023365/"
 layout: "researcher"
 hiddenInHomeList: true

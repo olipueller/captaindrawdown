@@ -1,7 +1,7 @@
 ---
 title: "Yiqing Xu"
 description: "Yiqing Xu is a Mid-career Unknown researcher at Institute of Rock and Soil Mechanics in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.052224
+date: 2026-07-10T01:07:48.057152
 url: "/cdr-researcher-census/researchers/yiqing-xu-a5060893/"
 layout: "researcher"
 hiddenInHomeList: true

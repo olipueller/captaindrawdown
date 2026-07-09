@@ -1,7 +1,7 @@
 ---
 title: "Moomen Baroudi"
 description: "Moomen Baroudi is a Senior Unknown researcher at Lebanese University in LB. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.210720
+date: 2026-07-10T01:07:48.223549
 url: "/cdr-researcher-census/researchers/moomen-baroudi-a5002676/"
 layout: "researcher"
 hiddenInHomeList: true

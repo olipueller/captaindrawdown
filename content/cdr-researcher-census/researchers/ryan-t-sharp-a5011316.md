@@ -1,7 +1,7 @@
 ---
 title: "Ryan T. Sharp"
 description: "Ryan T. Sharp is a Mid-career Unknown researcher at Rothamsted Research in GB. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.180512
+date: 2026-07-10T01:07:49.094486
 url: "/cdr-researcher-census/researchers/ryan-t-sharp-a5011316/"
 layout: "researcher"
 hiddenInHomeList: true

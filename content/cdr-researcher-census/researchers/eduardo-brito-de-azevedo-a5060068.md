@@ -1,7 +1,7 @@
 ---
 title: "Eduardo Brito de Azevedo"
 description: "Eduardo Brito de Azevedo is a Senior Ocean CDR researcher at University of the Azores in PT. With 115 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.103291
+date: 2026-07-10T01:07:47.187681
 url: "/cdr-researcher-census/researchers/eduardo-brito-de-azevedo-a5060068/"
 layout: "researcher"
 hiddenInHomeList: true

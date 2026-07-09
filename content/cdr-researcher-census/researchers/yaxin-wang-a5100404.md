@@ -1,7 +1,7 @@
 ---
 title: "Yaxin Wang"
 description: "Yaxin Wang is a Mid-career Soil Carbon researcher at Coatings Research Institute in BE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.793487
+date: 2026-07-10T01:07:48.733596
 url: "/cdr-researcher-census/researchers/yaxin-wang-a5100404/"
 layout: "researcher"
 hiddenInHomeList: true

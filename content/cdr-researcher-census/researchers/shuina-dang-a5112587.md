@@ -1,7 +1,7 @@
 ---
 title: "Shuina Dang"
 description: "Shuina Dang is a Mid-career Soil Carbon researcher at Baoji University of Arts and Sciences in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.756026
+date: 2026-07-10T01:07:48.701954
 url: "/cdr-researcher-census/researchers/shuina-dang-a5112587/"
 layout: "researcher"
 hiddenInHomeList: true

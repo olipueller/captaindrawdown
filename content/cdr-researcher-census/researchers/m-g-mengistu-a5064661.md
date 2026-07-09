@@ -1,7 +1,7 @@
 ---
 title: "M. G. Mengistu"
 description: "M. G. Mengistu is a Senior Unknown researcher at South African Weather Service in ZA. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.656095
+date: 2026-07-10T01:07:47.713500
 url: "/cdr-researcher-census/researchers/m-g-mengistu-a5064661/"
 layout: "researcher"
 hiddenInHomeList: true

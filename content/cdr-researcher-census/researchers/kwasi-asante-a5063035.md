@@ -1,7 +1,7 @@
 ---
 title: "Kwasi Asante"
 description: "Kwasi Asante is a Mid-career Unknown researcher at Coconut Research Institute in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.874879
+date: 2026-07-10T01:07:48.802627
 url: "/cdr-researcher-census/researchers/kwasi-asante-a5063035/"
 layout: "researcher"
 hiddenInHomeList: true

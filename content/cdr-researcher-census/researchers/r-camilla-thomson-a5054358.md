@@ -1,7 +1,7 @@
 ---
 title: "R. Camilla Thomson"
 description: "R. Camilla Thomson is a Senior BECCS researcher at University of Edinburgh in GB. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.662152
+date: 2026-07-10T01:07:47.719611
 url: "/cdr-researcher-census/researchers/r-camilla-thomson-a5054358/"
 layout: "researcher"
 hiddenInHomeList: true

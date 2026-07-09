@@ -1,7 +1,7 @@
 ---
 title: "Euan Bowditch"
 description: "Euan Bowditch is a Mid-career General CDR researcher at The Robertson Trust in GB. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.189059
+date: 2026-07-10T01:07:48.203807
 url: "/cdr-researcher-census/researchers/euan-bowditch-a5043576/"
 layout: "researcher"
 hiddenInHomeList: true

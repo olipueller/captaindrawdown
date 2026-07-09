@@ -1,7 +1,7 @@
 ---
 title: "Kha Dinh"
 description: "Kha Dinh is a Senior Unknown researcher at The University of Texas Health Science Center in US. With 69 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.121088
+date: 2026-07-10T01:07:48.144908
 url: "/cdr-researcher-census/researchers/kha-dinh-a5079744/"
 layout: "researcher"
 hiddenInHomeList: true

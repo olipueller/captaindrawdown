@@ -1,7 +1,7 @@
 ---
 title: "Seetaram Maurya"
 description: "Seetaram Maurya is a Mid-career Unknown researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.781904
+date: 2026-07-10T01:07:48.724667
 url: "/cdr-researcher-census/researchers/seetaram-maurya-a5010024/"
 layout: "researcher"
 hiddenInHomeList: true

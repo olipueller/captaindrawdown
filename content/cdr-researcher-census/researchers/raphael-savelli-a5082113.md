@@ -1,7 +1,7 @@
 ---
 title: "Raphaël Savelli"
 description: "Raphaël Savelli is a Mid-career Ocean CDR researcher at Jet Propulsion Laboratory in US. With 31 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.900438
+date: 2026-07-10T01:07:48.825964
 url: "/cdr-researcher-census/researchers/raphael-savelli-a5082113/"
 layout: "researcher"
 hiddenInHomeList: true

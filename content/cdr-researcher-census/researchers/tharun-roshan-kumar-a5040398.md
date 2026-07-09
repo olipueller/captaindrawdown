@@ -1,7 +1,7 @@
 ---
 title: "Tharun Roshan Kumar"
 description: "Tharun Roshan Kumar is a Mid-career General CDR researcher at Chalmers University of Technology in SE. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.972708
+date: 2026-07-10T01:07:48.892717
 url: "/cdr-researcher-census/researchers/tharun-roshan-kumar-a5040398/"
 layout: "researcher"
 hiddenInHomeList: true

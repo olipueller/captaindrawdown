@@ -1,7 +1,7 @@
 ---
 title: "PV Aravind"
 description: "PV Aravind is a Senior Soil Carbon researcher at University of Groningen in NL. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.486364
+date: 2026-07-10T01:07:48.472656
 url: "/cdr-researcher-census/researchers/pv-aravind-a5102422/"
 layout: "researcher"
 hiddenInHomeList: true

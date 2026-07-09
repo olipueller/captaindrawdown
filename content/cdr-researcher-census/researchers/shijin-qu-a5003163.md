@@ -1,7 +1,7 @@
 ---
 title: "Shijin Qu"
 description: "Shijin Qu is a Mid-career Unknown researcher at Institute on Governance in CA. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.592489
+date: 2026-07-10T01:07:47.655755
 url: "/cdr-researcher-census/researchers/shijin-qu-a5003163/"
 layout: "researcher"
 hiddenInHomeList: true

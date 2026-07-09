@@ -1,7 +1,7 @@
 ---
 title: "Kangjun Chen"
 description: "Kangjun Chen is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 21 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.358616
+date: 2026-07-10T01:07:47.440519
 url: "/cdr-researcher-census/researchers/kangjun-chen-a5046933/"
 layout: "researcher"
 hiddenInHomeList: true

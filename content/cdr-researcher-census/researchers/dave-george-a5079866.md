@@ -1,7 +1,7 @@
 ---
 title: "Dave George"
 description: "Dave George is a Senior Soil Carbon researcher at Newcastle University in GB. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.160955
+date: 2026-07-10T01:07:47.250021
 url: "/cdr-researcher-census/researchers/dave-george-a5079866/"
 layout: "researcher"
 hiddenInHomeList: true

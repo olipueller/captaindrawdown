@@ -1,7 +1,7 @@
 ---
 title: "Cameron Sullivan"
 description: "Cameron Sullivan is a Senior Unknown researcher at Uniformed Services University of the Health Sciences in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.048320
+date: 2026-07-10T01:07:48.961753
 url: "/cdr-researcher-census/researchers/cameron-sullivan-a5110548/"
 layout: "researcher"
 hiddenInHomeList: true

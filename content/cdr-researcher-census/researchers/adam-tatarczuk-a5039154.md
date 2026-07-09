@@ -1,7 +1,7 @@
 ---
 title: "Adam Tatarczuk"
 description: "Adam Tatarczuk is a Mid-career General CDR researcher at ITPE Institute of Energy and Fuel Processing Technology in PL. With 59 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.325484
+date: 2026-07-10T01:07:47.407522
 url: "/cdr-researcher-census/researchers/adam-tatarczuk-a5039154/"
 layout: "researcher"
 hiddenInHomeList: true

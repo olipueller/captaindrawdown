@@ -1,7 +1,7 @@
 ---
 title: "Xiaoming Xu"
 description: "Xiaoming Xu is a Senior Soil Carbon researcher at University of Illinois System in US. With 58 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.012755
+date: 2026-07-10T01:07:47.077088
 url: "/cdr-researcher-census/researchers/xiaoming-xu-a5090765/"
 layout: "researcher"
 hiddenInHomeList: true

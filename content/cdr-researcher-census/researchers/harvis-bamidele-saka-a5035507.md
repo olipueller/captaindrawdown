@@ -1,7 +1,7 @@
 ---
 title: "Harvis Bamidele Saka"
 description: "Harvis Bamidele Saka is a Mid-career Biochar researcher at Segmax Oil Nigeria Limited in NG. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.493743
+date: 2026-07-10T01:07:48.479509
 url: "/cdr-researcher-census/researchers/harvis-bamidele-saka-a5035507/"
 layout: "researcher"
 hiddenInHomeList: true

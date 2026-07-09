@@ -1,7 +1,7 @@
 ---
 title: "Qihan Ding"
 description: "Qihan Ding is a Mid-career Biochar researcher at Institute of Mechanics in BG. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.396572
+date: 2026-07-10T01:07:48.388731
 url: "/cdr-researcher-census/researchers/qihan-ding-a5033399/"
 layout: "researcher"
 hiddenInHomeList: true

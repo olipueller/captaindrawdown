@@ -1,7 +1,7 @@
 ---
 title: "V. Velmurugan"
 description: "V. Velmurugan is a Senior Biochar researcher at Francis Xavier Engineering College in IN. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.024365
+date: 2026-07-10T01:07:47.092082
 url: "/cdr-researcher-census/researchers/v-velmurugan-a5042693/"
 layout: "researcher"
 hiddenInHomeList: true

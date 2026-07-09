@@ -1,7 +1,7 @@
 ---
 title: "Akankshya Das"
 description: "Akankshya Das is a Mid-career General CDR researcher at Rama Devi Women's University in IN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.389280
+date: 2026-07-10T01:07:47.470085
 url: "/cdr-researcher-census/researchers/akankshya-das-a5007865/"
 layout: "researcher"
 hiddenInHomeList: true

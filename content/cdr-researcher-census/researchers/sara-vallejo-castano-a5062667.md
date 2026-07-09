@@ -1,7 +1,7 @@
 ---
 title: "Sara Vallejo Castaño"
 description: "Sara Vallejo Castaño is a Mid-career General CDR researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.645985
+date: 2026-07-10T01:07:48.604711
 url: "/cdr-researcher-census/researchers/sara-vallejo-castano-a5062667/"
 layout: "researcher"
 hiddenInHomeList: true

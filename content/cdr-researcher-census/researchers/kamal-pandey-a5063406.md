@@ -1,7 +1,7 @@
 ---
 title: "Kamal Pandey"
 description: "Kamal Pandey is a Mid-career General CDR researcher at Kumaun University in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.784227
+date: 2026-07-10T01:07:47.832794
 url: "/cdr-researcher-census/researchers/kamal-pandey-a5063406/"
 layout: "researcher"
 hiddenInHomeList: true

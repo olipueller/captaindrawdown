@@ -1,7 +1,7 @@
 ---
 title: "Rustam Singh"
 description: "Rustam Singh is a Mid-career General CDR researcher at Haramaya University in ET. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.513721
+date: 2026-07-10T01:07:47.581967
 url: "/cdr-researcher-census/researchers/rustam-singh-a5069880/"
 layout: "researcher"
 hiddenInHomeList: true

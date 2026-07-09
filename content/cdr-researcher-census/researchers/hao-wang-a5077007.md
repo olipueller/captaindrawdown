@@ -1,7 +1,7 @@
 ---
 title: "Hao Wang"
 description: "Hao Wang is a Mid-career Unknown researcher at Beijing Institute of Technology in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.840335
+date: 2026-07-10T01:07:47.876085
 url: "/cdr-researcher-census/researchers/hao-wang-a5077007/"
 layout: "researcher"
 hiddenInHomeList: true

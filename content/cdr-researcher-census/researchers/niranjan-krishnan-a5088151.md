@@ -1,7 +1,7 @@
 ---
 title: "Niranjan Krishnan"
 description: "Niranjan Krishnan is a Senior Unknown researcher at Indian Institute of Technology Palakkad in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.003793
+date: 2026-07-10T01:07:48.921737
 url: "/cdr-researcher-census/researchers/niranjan-krishnan-a5088151/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuanhan Yang"
 description: "Xuanhan Yang is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.410211
+date: 2026-07-10T01:07:48.401622
 url: "/cdr-researcher-census/researchers/xuanhan-yang-a5040965/"
 layout: "researcher"
 hiddenInHomeList: true

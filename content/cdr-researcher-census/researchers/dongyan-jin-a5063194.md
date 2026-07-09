@@ -1,7 +1,7 @@
 ---
 title: "Dongyan Jin"
 description: "Dongyan Jin is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.582600
+date: 2026-07-10T01:07:47.646081
 url: "/cdr-researcher-census/researchers/dongyan-jin-a5063194/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Samar Elkhalifa"
 description: "Samar Elkhalifa is a Mid-career General CDR researcher at Hamad bin Khalifa University in QA. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.343836
+date: 2026-07-10T01:07:47.426478
 url: "/cdr-researcher-census/researchers/samar-elkhalifa-a5009498/"
 layout: "researcher"
 hiddenInHomeList: true

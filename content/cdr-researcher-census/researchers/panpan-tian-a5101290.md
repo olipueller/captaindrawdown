@@ -1,7 +1,7 @@
 ---
 title: "Panpan Tian"
 description: "Panpan Tian is a Mid-career Unknown researcher at Chang'an University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.866503
+date: 2026-07-10T01:07:48.795418
 url: "/cdr-researcher-census/researchers/panpan-tian-a5101290/"
 layout: "researcher"
 hiddenInHomeList: true

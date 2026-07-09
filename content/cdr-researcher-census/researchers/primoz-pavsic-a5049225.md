@@ -1,7 +1,7 @@
 ---
 title: "Primož Pavšič"
 description: "Primož Pavšič is a Senior Unknown researcher at Slovenian National Building and Civil Engineering Institute in SI. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.980003
+date: 2026-07-10T01:07:48.899981
 url: "/cdr-researcher-census/researchers/primoz-pavsic-a5049225/"
 layout: "researcher"
 hiddenInHomeList: true

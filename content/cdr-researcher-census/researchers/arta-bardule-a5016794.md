@@ -1,7 +1,7 @@
 ---
 title: "Arta Bārdule"
 description: "Arta Bārdule is a Mid-career Soil Carbon researcher at State Forest Research Institute in IN. With 102 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.725167
+date: 2026-07-10T01:07:47.777657
 url: "/cdr-researcher-census/researchers/arta-bardule-a5016794/"
 layout: "researcher"
 hiddenInHomeList: true

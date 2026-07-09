@@ -1,7 +1,7 @@
 ---
 title: "Subhra Prakash Dey"
 description: "Subhra Prakash Dey is a Mid-career Ocean CDR researcher at National Institute of Oceanography in IN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.637152
+date: 2026-07-10T01:07:48.596109
 url: "/cdr-researcher-census/researchers/subhra-prakash-dey-a5103101/"
 layout: "researcher"
 hiddenInHomeList: true

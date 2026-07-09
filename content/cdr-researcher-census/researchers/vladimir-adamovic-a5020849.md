@@ -1,7 +1,7 @@
 ---
 title: "Vladimir Adamović"
 description: "Vladimir Adamović is a Mid-career Biochar researcher at Institute for Technology of Nuclear and other Mineral Raw Materials in RS. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.309121
+date: 2026-07-10T01:07:48.311922
 url: "/cdr-researcher-census/researchers/vladimir-adamovic-a5020849/"
 layout: "researcher"
 hiddenInHomeList: true

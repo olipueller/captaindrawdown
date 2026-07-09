@@ -1,7 +1,7 @@
 ---
 title: "Zong-Yu Zhuang"
 description: "Zong-Yu Zhuang is a Mid-career Unknown researcher at Taiwan Power (Taiwan) in TW. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.202773
+date: 2026-07-10T01:07:49.115533
 url: "/cdr-researcher-census/researchers/zong-yu-zhuang-a5083269/"
 layout: "researcher"
 hiddenInHomeList: true

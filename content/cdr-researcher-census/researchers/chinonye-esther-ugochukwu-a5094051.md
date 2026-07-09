@@ -1,7 +1,7 @@
 ---
 title: "Chinonye Esther Ugochukwu"
 description: "Chinonye Esther Ugochukwu is a Mid-career General CDR researcher. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.923087
+date: 2026-07-10T01:07:47.936662
 url: "/cdr-researcher-census/researchers/chinonye-esther-ugochukwu-a5094051/"
 layout: "researcher"
 hiddenInHomeList: true

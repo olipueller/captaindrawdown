@@ -1,7 +1,7 @@
 ---
 title: "Jean‐Philippe Gac"
 description: "Jean‐Philippe Gac is a Mid-career Ocean CDR researcher at Adaptation et Diversité en Milieu Marin in FR. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.831670
+date: 2026-07-10T01:07:48.765637
 url: "/cdr-researcher-census/researchers/jeanphilippe-gac-a5022966/"
 layout: "researcher"
 hiddenInHomeList: true

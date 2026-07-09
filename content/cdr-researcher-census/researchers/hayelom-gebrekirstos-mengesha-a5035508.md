@@ -1,7 +1,7 @@
 ---
 title: "Hayelom Gebrekirstos Mengesha"
 description: "Hayelom Gebrekirstos Mengesha is a Mid-career Unknown researcher at Adigrat University in ET. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.614550
+date: 2026-07-10T01:07:47.675726
 url: "/cdr-researcher-census/researchers/hayelom-gebrekirstos-mengesha-a5035508/"
 layout: "researcher"
 hiddenInHomeList: true

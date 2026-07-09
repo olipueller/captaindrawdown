@@ -1,7 +1,7 @@
 ---
 title: "Heather Vance"
 description: "Heather Vance is a Mid-career Unknown researcher at Auburn University in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.143600
+date: 2026-07-10T01:07:49.046275
 url: "/cdr-researcher-census/researchers/heather-vance-a5067618/"
 layout: "researcher"
 hiddenInHomeList: true

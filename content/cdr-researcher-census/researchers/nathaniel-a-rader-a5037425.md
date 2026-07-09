@@ -1,7 +1,7 @@
 ---
 title: "Nathaniel A. Rader"
 description: "Nathaniel A. Rader is a Mid-career Unknown researcher at West Virginia University in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.623101
+date: 2026-07-10T01:07:48.583895
 url: "/cdr-researcher-census/researchers/nathaniel-a-rader-a5037425/"
 layout: "researcher"
 hiddenInHomeList: true

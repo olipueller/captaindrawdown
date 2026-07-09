@@ -1,7 +1,7 @@
 ---
 title: "O. I. Nwachukwu"
 description: "O. I. Nwachukwu is a Senior Unknown researcher at Michael Okpara University of Agriculture in NG. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.760603
+date: 2026-07-10T01:07:48.705816
 url: "/cdr-researcher-census/researchers/o-i-nwachukwu-a5010158/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hilmiye Deniz Ertuğrul Uygun"
 description: "Hilmiye Deniz Ertuğrul Uygun is a Mid-career Unknown researcher at Dokuz Eylül University in TR. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.911643
+date: 2026-07-10T01:07:47.925002
 url: "/cdr-researcher-census/researchers/hilmiye-deniz-ertugrul-uygun-a5055486/"
 layout: "researcher"
 hiddenInHomeList: true

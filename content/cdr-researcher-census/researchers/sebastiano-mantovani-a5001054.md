@@ -1,7 +1,7 @@
 ---
 title: "Sebastiano Mantovani"
 description: "Sebastiano Mantovani is a Mid-career Unknown researcher at Institute of Organic Synthesis and Photoreactivity in IT. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.157005
+date: 2026-07-10T01:07:48.175975
 url: "/cdr-researcher-census/researchers/sebastiano-mantovani-a5001054/"
 layout: "researcher"
 hiddenInHomeList: true

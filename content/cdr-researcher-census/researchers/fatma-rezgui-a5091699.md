@@ -1,7 +1,7 @@
 ---
 title: "Fatma Rezgui"
 description: "Fatma Rezgui is a Senior Unknown researcher at Tunis El Manar University in TN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.566090
+date: 2026-07-10T01:07:47.629941
 url: "/cdr-researcher-census/researchers/fatma-rezgui-a5091699/"
 layout: "researcher"
 hiddenInHomeList: true

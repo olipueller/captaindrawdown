@@ -1,7 +1,7 @@
 ---
 title: "Paweł Gładysz"
 description: "Paweł Gładysz is a Senior General CDR researcher at Jagiellonian University in PL. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.261326
+date: 2026-07-10T01:07:47.345318
 url: "/cdr-researcher-census/researchers/pawe-gadysz-a5013413/"
 layout: "researcher"
 hiddenInHomeList: true

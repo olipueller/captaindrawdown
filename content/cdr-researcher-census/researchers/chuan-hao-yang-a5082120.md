@@ -1,7 +1,7 @@
 ---
 title: "Chuan-hao Yang"
 description: "Chuan-hao Yang is a Mid-career Unknown researcher at Liaocheng University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.481400
+date: 2026-07-10T01:07:48.468246
 url: "/cdr-researcher-census/researchers/chuan-hao-yang-a5082120/"
 layout: "researcher"
 hiddenInHomeList: true

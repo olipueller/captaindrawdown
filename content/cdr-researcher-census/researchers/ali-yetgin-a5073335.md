@@ -1,7 +1,7 @@
 ---
 title: "Ali Yetgin"
 description: "Ali Yetgin is a Mid-career Soil Carbon researcher at Toros University in TR. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.823077
+date: 2026-07-10T01:07:47.868996
 url: "/cdr-researcher-census/researchers/ali-yetgin-a5073335/"
 layout: "researcher"
 hiddenInHomeList: true

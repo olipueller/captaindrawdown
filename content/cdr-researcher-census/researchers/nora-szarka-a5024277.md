@@ -1,7 +1,7 @@
 ---
 title: "Nóra Szarka"
 description: "Nóra Szarka is a Senior General CDR researcher at University of Calgary in CA. With 52 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.437725
+date: 2026-07-10T01:07:47.514627
 url: "/cdr-researcher-census/researchers/nora-szarka-a5024277/"
 layout: "researcher"
 hiddenInHomeList: true

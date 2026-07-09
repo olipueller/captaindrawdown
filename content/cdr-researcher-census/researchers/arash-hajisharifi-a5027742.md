@@ -1,7 +1,7 @@
 ---
 title: "Arash Hajisharifi"
 description: "Arash Hajisharifi is a Mid-career Unknown researcher at Scuola Internazionale Superiore di Studi Avanzati in IT. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.391300
+date: 2026-07-10T01:07:48.384312
 url: "/cdr-researcher-census/researchers/arash-hajisharifi-a5027742/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ramgopal Laha"
 description: "Ramgopal Laha is a Mid-career Soil Carbon researcher at ICAR Research Complex for NEH Region in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.374084
+date: 2026-07-10T01:07:48.370566
 url: "/cdr-researcher-census/researchers/ramgopal-laha-a5108415/"
 layout: "researcher"
 hiddenInHomeList: true

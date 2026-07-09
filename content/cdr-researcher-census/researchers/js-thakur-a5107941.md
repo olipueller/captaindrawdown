@@ -1,7 +1,7 @@
 ---
 title: "JS Thakur"
 description: "JS Thakur is a Senior Unknown researcher at Government of Himachal Pradesh in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.966628
+date: 2026-07-10T01:07:48.887332
 url: "/cdr-researcher-census/researchers/js-thakur-a5107941/"
 layout: "researcher"
 hiddenInHomeList: true

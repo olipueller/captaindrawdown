@@ -1,7 +1,7 @@
 ---
 title: "Wilfried Rickels"
 description: "Wilfried Rickels is a Senior General CDR researcher at Kiel Institute for the World Economy in DE. With 146 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.060477
+date: 2026-07-10T01:07:47.136643
 url: "/cdr-researcher-census/researchers/wilfried-rickels-a5020112/"
 layout: "researcher"
 hiddenInHomeList: true

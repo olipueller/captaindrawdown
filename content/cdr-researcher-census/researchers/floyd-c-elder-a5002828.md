@@ -1,7 +1,7 @@
 ---
 title: "Floyd C. Elder"
 description: "Floyd C. Elder is a Senior Ocean CDR researcher. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.685320
+date: 2026-07-10T01:07:48.640014
 url: "/cdr-researcher-census/researchers/floyd-c-elder-a5002828/"
 layout: "researcher"
 hiddenInHomeList: true

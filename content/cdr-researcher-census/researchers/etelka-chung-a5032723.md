@@ -1,7 +1,7 @@
 ---
 title: "Etelka Chung"
 description: "Etelka Chung is a Mid-career Unknown researcher at University of Hertfordshire in GB. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.989045
+date: 2026-07-10T01:07:47.997946
 url: "/cdr-researcher-census/researchers/etelka-chung-a5032723/"
 layout: "researcher"
 hiddenInHomeList: true

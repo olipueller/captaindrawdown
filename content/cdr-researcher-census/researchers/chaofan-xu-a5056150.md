@@ -1,7 +1,7 @@
 ---
 title: "Chaofan Xu"
 description: "Chaofan Xu is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.090451
+date: 2026-07-10T01:07:48.999787
 url: "/cdr-researcher-census/researchers/chaofan-xu-a5056150/"
 layout: "researcher"
 hiddenInHomeList: true

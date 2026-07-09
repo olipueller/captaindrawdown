@@ -1,7 +1,7 @@
 ---
 title: "Guoming Qin"
 description: "Guoming Qin is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.433780
+date: 2026-07-10T01:07:47.511159
 url: "/cdr-researcher-census/researchers/guoming-qin-a5032825/"
 layout: "researcher"
 hiddenInHomeList: true

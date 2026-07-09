@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Firdaus Sulaiman"
 description: "Muhammad Firdaus Sulaiman is a Mid-career Soil Carbon researcher at Universiti Putra Malaysia in MY. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.838730
+date: 2026-07-10T01:07:47.874725
 url: "/cdr-researcher-census/researchers/muhammad-firdaus-sulaiman-a5021558/"
 layout: "researcher"
 hiddenInHomeList: true

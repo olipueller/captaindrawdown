@@ -1,7 +1,7 @@
 ---
 title: "Karen Louise Mascarenhas"
 description: "Karen Louise Mascarenhas is a Mid-career Unknown researcher at Research Centre for Greenhouse Gas Innovation in BR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.058763
+date: 2026-07-10T01:07:48.062620
 url: "/cdr-researcher-census/researchers/karen-louise-mascarenhas-a5065288/"
 layout: "researcher"
 hiddenInHomeList: true

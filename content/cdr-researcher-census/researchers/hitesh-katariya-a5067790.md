@@ -1,7 +1,7 @@
 ---
 title: "Hitesh Katariya"
 description: "Hitesh Katariya is a Mid-career Unknown researcher at Gujarat Technological University in IN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.172959
+date: 2026-07-10T01:07:49.062789
 url: "/cdr-researcher-census/researchers/hitesh-katariya-a5067790/"
 layout: "researcher"
 hiddenInHomeList: true

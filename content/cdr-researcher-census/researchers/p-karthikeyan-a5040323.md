@@ -1,7 +1,7 @@
 ---
 title: "P. Karthikeyan"
 description: "P. Karthikeyan is a Mid-career Unknown researcher at Madurai Medical College in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.089848
+date: 2026-07-10T01:07:48.999306
 url: "/cdr-researcher-census/researchers/p-karthikeyan-a5040323/"
 layout: "researcher"
 hiddenInHomeList: true

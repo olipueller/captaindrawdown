@@ -1,7 +1,7 @@
 ---
 title: "Zhaoying Li"
 description: "Zhaoying Li is a Mid-career Unknown researcher at Sinopec (China) in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.245508
+date: 2026-07-10T01:07:48.253932
 url: "/cdr-researcher-census/researchers/zhaoying-li-a5012917/"
 layout: "researcher"
 hiddenInHomeList: true

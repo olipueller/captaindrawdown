@@ -1,7 +1,7 @@
 ---
 title: "Ioannis Souliotis"
 description: "Ioannis Souliotis is a Mid-career Unknown researcher at Imperial College London in GB. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.784537
+date: 2026-07-10T01:07:47.833108
 url: "/cdr-researcher-census/researchers/ioannis-souliotis-a5012610/"
 layout: "researcher"
 hiddenInHomeList: true

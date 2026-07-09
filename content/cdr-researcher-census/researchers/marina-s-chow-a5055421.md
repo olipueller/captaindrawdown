@@ -1,7 +1,7 @@
 ---
 title: "Marina S. Chow"
 description: "Marina S. Chow is a Senior Unknown researcher at International Flavors & Fragrances (United States) in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.620071
+date: 2026-07-10T01:07:47.680757
 url: "/cdr-researcher-census/researchers/marina-s-chow-a5055421/"
 layout: "researcher"
 hiddenInHomeList: true

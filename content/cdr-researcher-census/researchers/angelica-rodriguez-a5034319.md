@@ -1,7 +1,7 @@
 ---
 title: "Angelica Rodriguez"
 description: "Angelica Rodriguez is a Senior Unknown researcher at The University of Texas Rio Grande Valley in US. With 11 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.178233
+date: 2026-07-10T01:07:47.267328
 url: "/cdr-researcher-census/researchers/angelica-rodriguez-a5034319/"
 layout: "researcher"
 hiddenInHomeList: true

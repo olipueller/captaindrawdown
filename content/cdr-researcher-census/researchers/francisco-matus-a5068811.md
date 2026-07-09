@@ -1,7 +1,7 @@
 ---
 title: "Francisco Matus"
 description: "Francisco Matus is a Senior Soil Carbon researcher at Universidad de La Frontera in CL. With 136 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.021039
+date: 2026-07-10T01:07:47.087575
 url: "/cdr-researcher-census/researchers/francisco-matus-a5068811/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Francisco López"
 description: "Francisco López is a Senior Unknown researcher at Universidad de Las Palmas de Gran Canaria in ES. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.316267
+date: 2026-07-10T01:07:48.318014
 url: "/cdr-researcher-census/researchers/francisco-lopez-a5002231/"
 layout: "researcher"
 hiddenInHomeList: true

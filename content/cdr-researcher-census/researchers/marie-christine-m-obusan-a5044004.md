@@ -1,7 +1,7 @@
 ---
 title: "Marie Christine M. Obusan"
 description: "Marie Christine M. Obusan is a Mid-career Unknown researcher at University of the Philippines Diliman in PH. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.752530
+date: 2026-07-10T01:07:48.699143
 url: "/cdr-researcher-census/researchers/marie-christine-m-obusan-a5044004/"
 layout: "researcher"
 hiddenInHomeList: true

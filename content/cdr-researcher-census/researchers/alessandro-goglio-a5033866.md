@@ -1,7 +1,7 @@
 ---
 title: "Alessandro Goglio"
 description: "Alessandro Goglio is a Senior Unknown researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.501643
+date: 2026-07-10T01:07:48.487185
 url: "/cdr-researcher-census/researchers/alessandro-goglio-a5033866/"
 layout: "researcher"
 hiddenInHomeList: true

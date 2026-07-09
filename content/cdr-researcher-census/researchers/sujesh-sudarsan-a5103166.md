@@ -1,7 +1,7 @@
 ---
 title: "Sujesh Sudarsan"
 description: "Sujesh Sudarsan is a Mid-career Biochar researcher at Manipal Academy of Higher Education in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.277595
+date: 2026-07-10T01:07:48.283321
 url: "/cdr-researcher-census/researchers/sujesh-sudarsan-a5103166/"
 layout: "researcher"
 hiddenInHomeList: true

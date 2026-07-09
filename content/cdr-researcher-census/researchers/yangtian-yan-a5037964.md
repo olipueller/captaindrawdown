@@ -1,7 +1,7 @@
 ---
 title: "Yangtian Yan"
 description: "Yangtian Yan is a Mid-career Unknown researcher at Ningbo University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.992986
+date: 2026-07-10T01:07:48.911475
 url: "/cdr-researcher-census/researchers/yangtian-yan-a5037964/"
 layout: "researcher"
 hiddenInHomeList: true

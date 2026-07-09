@@ -1,7 +1,7 @@
 ---
 title: "Franca Giannini Kurina"
 description: "Franca Giannini Kurina is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 45 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.206800
+date: 2026-07-10T01:07:48.220076
 url: "/cdr-researcher-census/researchers/franca-giannini-kurina-a5004880/"
 layout: "researcher"
 hiddenInHomeList: true

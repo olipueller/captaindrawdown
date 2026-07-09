@@ -1,7 +1,7 @@
 ---
 title: "Zishuai Zhang"
 description: "Zishuai Zhang is a Mid-career Ocean CDR researcher at University of British Columbia in CA. With 69 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.072735
+date: 2026-07-10T01:07:47.152093
 url: "/cdr-researcher-census/researchers/zishuai-zhang-a5026990/"
 layout: "researcher"
 hiddenInHomeList: true

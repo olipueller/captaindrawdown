@@ -1,7 +1,7 @@
 ---
 title: "Georgios Orfanos"
 description: "Georgios Orfanos is a Senior Unknown researcher at National Technical University of Athens in GR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.572463
+date: 2026-07-10T01:07:48.550367
 url: "/cdr-researcher-census/researchers/georgios-orfanos-a5076196/"
 layout: "researcher"
 hiddenInHomeList: true

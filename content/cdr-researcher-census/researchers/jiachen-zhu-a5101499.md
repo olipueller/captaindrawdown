@@ -1,7 +1,7 @@
 ---
 title: "Jiachen Zhu"
 description: "Jiachen Zhu is a Mid-career Unknown researcher at Suzhou University of Science and Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.854910
+date: 2026-07-10T01:07:48.785573
 url: "/cdr-researcher-census/researchers/jiachen-zhu-a5101499/"
 layout: "researcher"
 hiddenInHomeList: true

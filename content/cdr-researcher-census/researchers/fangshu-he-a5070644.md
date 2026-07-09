@@ -1,7 +1,7 @@
 ---
 title: "Fangshu He"
 description: "Fangshu He is a Mid-career Unknown researcher at Central South University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.429908
+date: 2026-07-10T01:07:47.507782
 url: "/cdr-researcher-census/researchers/fangshu-he-a5070644/"
 layout: "researcher"
 hiddenInHomeList: true

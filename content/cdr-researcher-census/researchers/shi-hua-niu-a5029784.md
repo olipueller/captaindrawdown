@@ -1,7 +1,7 @@
 ---
 title: "Shi-Hua Niu"
 description: "Shi-Hua Niu is a Mid-career Soil Carbon researcher at Wen's Food Group (China) in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.428315
+date: 2026-07-10T01:07:48.418529
 url: "/cdr-researcher-census/researchers/shi-hua-niu-a5029784/"
 layout: "researcher"
 hiddenInHomeList: true

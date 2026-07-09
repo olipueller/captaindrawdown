@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqing Zhao"
 description: "Xiaoqing Zhao is a Senior General CDR researcher at Nanjing University of Finance and Economics in CN. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.839566
+date: 2026-07-10T01:07:47.875435
 url: "/cdr-researcher-census/researchers/xiaoqing-zhao-a5021132/"
 layout: "researcher"
 hiddenInHomeList: true

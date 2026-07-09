@@ -1,7 +1,7 @@
 ---
 title: "Melika Ghorbankhani"
 description: "Melika Ghorbankhani is an Early-career Unknown researcher at Manchester Metropolitan University in GB. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.045313
+date: 2026-07-10T01:07:48.958868
 url: "/cdr-researcher-census/researchers/melika-ghorbankhani-a5004533/"
 layout: "researcher"
 hiddenInHomeList: true

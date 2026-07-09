@@ -1,7 +1,7 @@
 ---
 title: "Nanamhla Gwedla"
 description: "Nanamhla Gwedla is a Mid-career General CDR researcher at Rhodes University in ZA. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.972351
+date: 2026-07-10T01:07:47.982551
 url: "/cdr-researcher-census/researchers/nanamhla-gwedla-a5055434/"
 layout: "researcher"
 hiddenInHomeList: true

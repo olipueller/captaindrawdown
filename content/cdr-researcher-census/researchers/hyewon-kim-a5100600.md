@@ -1,7 +1,7 @@
 ---
 title: "Hyewon Kim"
 description: "Hyewon Kim is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 150 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.156537
+date: 2026-07-10T01:07:47.245165
 url: "/cdr-researcher-census/researchers/hyewon-kim-a5100600/"
 layout: "researcher"
 hiddenInHomeList: true

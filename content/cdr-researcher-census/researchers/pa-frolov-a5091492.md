@@ -1,7 +1,7 @@
 ---
 title: "P.A. Frolov"
 description: "P.A. Frolov is a Mid-career Soil Carbon researcher at Institute of Physical-Chemical and Biological Problems in Soil Science in RU. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.923627
+date: 2026-07-10T01:07:47.937160
 url: "/cdr-researcher-census/researchers/pa-frolov-a5091492/"
 layout: "researcher"
 hiddenInHomeList: true

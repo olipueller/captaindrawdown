@@ -1,7 +1,7 @@
 ---
 title: "Neng Qin"
 description: "Neng Qin is a Mid-career General CDR researcher at Tianjin University in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.246437
+date: 2026-07-10T01:07:49.154283
 url: "/cdr-researcher-census/researchers/neng-qin-a5016477/"
 layout: "researcher"
 hiddenInHomeList: true

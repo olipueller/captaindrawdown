@@ -1,7 +1,7 @@
 ---
 title: "Hongrun Liu"
 description: "Hongrun Liu is a Mid-career Soil Carbon researcher at Beijing Agricultural Machinery Research Institute in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.701002
+date: 2026-07-10T01:07:47.755955
 url: "/cdr-researcher-census/researchers/hongrun-liu-a5026268/"
 layout: "researcher"
 hiddenInHomeList: true

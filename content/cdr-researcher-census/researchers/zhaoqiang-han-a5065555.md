@@ -1,7 +1,7 @@
 ---
 title: "Zhaoqiang Han"
 description: "Zhaoqiang Han is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 45 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.147088
+date: 2026-07-10T01:07:47.235918
 url: "/cdr-researcher-census/researchers/zhaoqiang-han-a5065555/"
 layout: "researcher"
 hiddenInHomeList: true

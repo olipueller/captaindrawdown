@@ -1,7 +1,7 @@
 ---
 title: "Mengwei Chu"
 description: "Mengwei Chu is an Early-career Soil Carbon researcher at North Carolina Natural Heritage Program in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.106995
+date: 2026-07-10T01:07:49.014508
 url: "/cdr-researcher-census/researchers/mengwei-chu-a5068356/"
 layout: "researcher"
 hiddenInHomeList: true

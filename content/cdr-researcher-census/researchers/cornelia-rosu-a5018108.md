@@ -1,7 +1,7 @@
 ---
 title: "Cornelia Rosu"
 description: "Cornelia Rosu is a Senior General CDR researcher at Georgia Institute of Technology in US. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.337458
+date: 2026-07-10T01:07:47.420336
 url: "/cdr-researcher-census/researchers/cornelia-rosu-a5018108/"
 layout: "researcher"
 hiddenInHomeList: true

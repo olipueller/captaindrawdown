@@ -1,7 +1,7 @@
 ---
 title: "Moshan Chen"
 description: "Moshan Chen is a Mid-career Unknown researcher at Geosyntec Consultants (United States) in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.851787
+date: 2026-07-10T01:07:48.782237
 url: "/cdr-researcher-census/researchers/moshan-chen-a5000517/"
 layout: "researcher"
 hiddenInHomeList: true

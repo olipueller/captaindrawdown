@@ -1,7 +1,7 @@
 ---
 title: "Alan D. Rooney"
 description: "Alan D. Rooney is a Senior Enhanced Weathering researcher at Yale University in US. With 116 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.000649
+date: 2026-07-10T01:07:47.060766
 url: "/cdr-researcher-census/researchers/alan-d-rooney-a5003090/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eliana Cárdenas-Aguiar"
 description: "Eliana Cárdenas-Aguiar is a Mid-career Soil Carbon researcher at Universidade da Coruña in ES. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.995362
+date: 2026-07-10T01:07:48.004772
 url: "/cdr-researcher-census/researchers/eliana-cardenas-aguiar-a5048664/"
 layout: "researcher"
 hiddenInHomeList: true

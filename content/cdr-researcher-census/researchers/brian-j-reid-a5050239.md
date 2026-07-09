@@ -1,7 +1,7 @@
 ---
 title: "Brian J. Reid"
 description: "Brian J. Reid is an Eminent Soil Carbon researcher at University of East Anglia in GB. With 108 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.925826
+date: 2026-07-10T01:07:46.939438
 url: "/cdr-researcher-census/researchers/brian-j-reid-a5050239/"
 layout: "researcher"
 hiddenInHomeList: true

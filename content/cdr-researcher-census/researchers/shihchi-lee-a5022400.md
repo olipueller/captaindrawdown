@@ -1,7 +1,7 @@
 ---
 title: "Shih‐Chi Lee"
 description: "Shih‐Chi Lee is a Mid-career Biochar researcher at Industrial Technology Research Institute in TW. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.746287
+date: 2026-07-10T01:07:48.692969
 url: "/cdr-researcher-census/researchers/shihchi-lee-a5022400/"
 layout: "researcher"
 hiddenInHomeList: true

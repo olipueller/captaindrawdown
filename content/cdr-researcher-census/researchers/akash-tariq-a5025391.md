@@ -1,7 +1,7 @@
 ---
 title: "Akash Tariq"
 description: "Akash Tariq is an Eminent Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 220 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.934437
+date: 2026-07-10T01:07:46.954655
 url: "/cdr-researcher-census/researchers/akash-tariq-a5025391/"
 layout: "researcher"
 hiddenInHomeList: true

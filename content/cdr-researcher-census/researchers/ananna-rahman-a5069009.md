@@ -1,7 +1,7 @@
 ---
 title: "Ananna Rahman"
 description: "Ananna Rahman is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.665420
+date: 2026-07-10T01:07:47.722702
 url: "/cdr-researcher-census/researchers/ananna-rahman-a5069009/"
 layout: "researcher"
 hiddenInHomeList: true

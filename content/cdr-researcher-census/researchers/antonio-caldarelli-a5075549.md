@@ -1,7 +1,7 @@
 ---
 title: "Antonio Caldarelli"
 description: "Antonio Caldarelli is a Mid-career Unknown researcher at National Research Council in IT. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.274363
+date: 2026-07-10T01:07:48.280146
 url: "/cdr-researcher-census/researchers/antonio-caldarelli-a5075549/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jingyao Huang"
 description: "Jingyao Huang is a Senior Unknown researcher at Sinochem Group (China) in CN. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.543702
+date: 2026-07-10T01:07:47.608593
 url: "/cdr-researcher-census/researchers/jingyao-huang-a5108765/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wei‐Jen Huang"
 description: "Wei‐Jen Huang is a Senior Ocean CDR researcher at National Sun Yat-sen University in TW. With 112 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.975221
+date: 2026-07-10T01:07:47.021299
 url: "/cdr-researcher-census/researchers/weijen-huang-a5021086/"
 layout: "researcher"
 hiddenInHomeList: true

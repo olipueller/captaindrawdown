@@ -1,7 +1,7 @@
 ---
 title: "Hanbing Xiong"
 description: "Hanbing Xiong is a Mid-career General CDR researcher at Wuhan University of Technology in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.764735
+date: 2026-07-10T01:07:48.709394
 url: "/cdr-researcher-census/researchers/hanbing-xiong-a5024039/"
 layout: "researcher"
 hiddenInHomeList: true

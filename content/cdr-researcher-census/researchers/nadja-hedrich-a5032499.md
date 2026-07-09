@@ -1,7 +1,7 @@
 ---
 title: "Nadja Hedrich"
 description: "Nadja Hedrich is a Mid-career General CDR researcher at University of Zurich in CH. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.640856
+date: 2026-07-10T01:07:48.599536
 url: "/cdr-researcher-census/researchers/nadja-hedrich-a5032499/"
 layout: "researcher"
 hiddenInHomeList: true

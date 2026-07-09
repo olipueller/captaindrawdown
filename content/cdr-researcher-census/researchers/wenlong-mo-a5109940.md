@@ -1,7 +1,7 @@
 ---
 title: "Wenlong Mo"
 description: "Wenlong Mo is a Mid-career Unknown researcher at Xinjiang University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.111142
+date: 2026-07-10T01:07:49.018058
 url: "/cdr-researcher-census/researchers/wenlong-mo-a5109940/"
 layout: "researcher"
 hiddenInHomeList: true

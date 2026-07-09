@@ -1,7 +1,7 @@
 ---
 title: "Xuejun Wang"
 description: "Xuejun Wang is a Mid-career Unknown researcher at Peking University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.063709
+date: 2026-07-10T01:07:48.975904
 url: "/cdr-researcher-census/researchers/xuejun-wang-a5090225/"
 layout: "researcher"
 hiddenInHomeList: true

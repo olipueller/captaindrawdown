@@ -1,7 +1,7 @@
 ---
 title: "Yogesh V. Deshpande"
 description: "Yogesh V. Deshpande is a Mid-career Unknown researcher at Rama University in IN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.793776
+date: 2026-07-10T01:07:47.842143
 url: "/cdr-researcher-census/researchers/yogesh-v-deshpande-a5007478/"
 layout: "researcher"
 hiddenInHomeList: true

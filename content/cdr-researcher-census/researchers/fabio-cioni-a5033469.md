@@ -1,7 +1,7 @@
 ---
 title: "Fabio Cioni"
 description: "Fabio Cioni is a Senior Unknown researcher at Agenzia Regionale per la Protezione Ambientale del Piemonte in IT. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.481894
+date: 2026-07-10T01:07:48.468705
 url: "/cdr-researcher-census/researchers/fabio-cioni-a5033469/"
 layout: "researcher"
 hiddenInHomeList: true

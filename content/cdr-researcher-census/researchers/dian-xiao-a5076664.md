@@ -1,7 +1,7 @@
 ---
 title: "Dian Xiao"
 description: "Dian Xiao is a Mid-career Unknown researcher at Central South University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.922994
+date: 2026-07-10T01:07:47.936477
 url: "/cdr-researcher-census/researchers/dian-xiao-a5076664/"
 layout: "researcher"
 hiddenInHomeList: true

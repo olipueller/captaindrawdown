@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Hassan Sayyari‐Zahan"
 description: "Mohammad Hassan Sayyari‐Zahan is a Senior Soil Carbon researcher at University of Birjand in IR. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.419189
+date: 2026-07-10T01:07:48.410067
 url: "/cdr-researcher-census/researchers/mohammad-hassan-sayyarizahan-a5012085/"
 layout: "researcher"
 hiddenInHomeList: true

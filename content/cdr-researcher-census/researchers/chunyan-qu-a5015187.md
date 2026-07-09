@@ -1,7 +1,7 @@
 ---
 title: "Chunyan Qu"
 description: "Chunyan Qu is a Senior Soil Carbon researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.172420
+date: 2026-07-10T01:07:48.188600
 url: "/cdr-researcher-census/researchers/chunyan-qu-a5015187/"
 layout: "researcher"
 hiddenInHomeList: true

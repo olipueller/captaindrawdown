@@ -1,7 +1,7 @@
 ---
 title: "Nini Wen"
 description: "Nini Wen is a Mid-career General CDR researcher at Zhejiang Sci-Tech University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.278731
+date: 2026-07-10T01:07:48.284373
 url: "/cdr-researcher-census/researchers/nini-wen-a5046830/"
 layout: "researcher"
 hiddenInHomeList: true

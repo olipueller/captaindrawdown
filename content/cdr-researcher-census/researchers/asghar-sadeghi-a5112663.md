@@ -1,7 +1,7 @@
 ---
 title: "Asghar Sadeghi"
 description: "Asghar Sadeghi is a Mid-career General CDR researcher at Entergy (United States). With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.573390
+date: 2026-07-10T01:07:48.551173
 url: "/cdr-researcher-census/researchers/asghar-sadeghi-a5112663/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shiran Pallewatta"
 description: "Shiran Pallewatta is a Mid-career Biochar researcher at Universiti Tenaga Nasional in MY. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.385180
+date: 2026-07-10T01:07:48.379996
 url: "/cdr-researcher-census/researchers/shiran-pallewatta-a5030320/"
 layout: "researcher"
 hiddenInHomeList: true

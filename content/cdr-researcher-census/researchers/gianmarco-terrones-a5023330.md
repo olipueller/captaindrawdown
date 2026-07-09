@@ -1,7 +1,7 @@
 ---
 title: "Gianmarco Terrones"
 description: "Gianmarco Terrones is a Mid-career Unknown researcher at Massachusetts Institute of Technology in US. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.487238
+date: 2026-07-10T01:07:47.558877
 url: "/cdr-researcher-census/researchers/gianmarco-terrones-a5023330/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Guangjie Chen"
 description: "Guangjie Chen is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.485967
+date: 2026-07-10T01:07:47.557735
 url: "/cdr-researcher-census/researchers/guangjie-chen-a5047665/"
 layout: "researcher"
 hiddenInHomeList: true

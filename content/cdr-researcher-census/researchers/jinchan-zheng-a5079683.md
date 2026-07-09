@@ -1,7 +1,7 @@
 ---
 title: "Jinchan Zheng"
 description: "Jinchan Zheng is a Mid-career Soil Carbon researcher at Henan Polytechnic University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.148011
+date: 2026-07-10T01:07:49.050238
 url: "/cdr-researcher-census/researchers/jinchan-zheng-a5079683/"
 layout: "researcher"
 hiddenInHomeList: true

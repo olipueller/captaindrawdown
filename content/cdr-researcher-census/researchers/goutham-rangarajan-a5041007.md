@@ -1,7 +1,7 @@
 ---
 title: "Goutham Rangarajan"
 description: "Goutham Rangarajan is a Mid-career Biochar researcher at University of Toronto in CA. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.188802
+date: 2026-07-10T01:07:47.278106
 url: "/cdr-researcher-census/researchers/goutham-rangarajan-a5041007/"
 layout: "researcher"
 hiddenInHomeList: true

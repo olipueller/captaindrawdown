@@ -1,7 +1,7 @@
 ---
 title: "Yan Zhao"
 description: "Yan Zhao is a Mid-career Unknown researcher at Chang'an University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.147188
+date: 2026-07-10T01:07:48.167204
 url: "/cdr-researcher-census/researchers/yan-zhao-a5079794/"
 layout: "researcher"
 hiddenInHomeList: true

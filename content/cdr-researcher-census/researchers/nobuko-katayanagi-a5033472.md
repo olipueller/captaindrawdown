@@ -1,7 +1,7 @@
 ---
 title: "Nobuko Katayanagi"
 description: "Nobuko Katayanagi is a Senior Soil Carbon researcher at National Agriculture and Food Research Organization in JP. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.370899
+date: 2026-07-10T01:07:47.453200
 url: "/cdr-researcher-census/researchers/nobuko-katayanagi-a5033472/"
 layout: "researcher"
 hiddenInHomeList: true

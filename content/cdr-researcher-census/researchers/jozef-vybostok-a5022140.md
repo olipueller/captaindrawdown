@@ -1,7 +1,7 @@
 ---
 title: "Jozef Výbošťok"
 description: "Jozef Výbošťok is a Mid-career Soil Carbon researcher at Technická univerzita vo Zvolene in SK. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.807072
+date: 2026-07-10T01:07:47.853675
 url: "/cdr-researcher-census/researchers/jozef-vybostok-a5022140/"
 layout: "researcher"
 hiddenInHomeList: true

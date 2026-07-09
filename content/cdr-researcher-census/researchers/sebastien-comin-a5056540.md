@@ -1,7 +1,7 @@
 ---
 title: "Sebastien Comin"
 description: "Sebastien Comin is a Mid-career Unknown researcher at University of Milan in IT. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.852083
+date: 2026-07-10T01:07:48.782514
 url: "/cdr-researcher-census/researchers/sebastien-comin-a5056540/"
 layout: "researcher"
 hiddenInHomeList: true

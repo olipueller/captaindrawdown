@@ -1,7 +1,7 @@
 ---
 title: "M. Sreelakshmi"
 description: "M. Sreelakshmi is an Early-career Unknown researcher at Central University of Kerala in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.014504
+date: 2026-07-10T01:07:48.931150
 url: "/cdr-researcher-census/researchers/m-sreelakshmi-a5110816/"
 layout: "researcher"
 hiddenInHomeList: true

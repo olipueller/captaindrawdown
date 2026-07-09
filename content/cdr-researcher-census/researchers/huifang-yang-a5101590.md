@@ -1,7 +1,7 @@
 ---
 title: "Huifang Yang"
 description: "Huifang Yang is a Mid-career Unknown researcher at Peking University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.417623
+date: 2026-07-10T01:07:48.408604
 url: "/cdr-researcher-census/researchers/huifang-yang-a5101590/"
 layout: "researcher"
 hiddenInHomeList: true

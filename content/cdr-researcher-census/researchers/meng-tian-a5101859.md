@@ -1,7 +1,7 @@
 ---
 title: "Meng Tian"
 description: "Meng Tian is a Mid-career Unknown researcher at Ningbo University in CN. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.588434
+date: 2026-07-10T01:07:47.651730
 url: "/cdr-researcher-census/researchers/meng-tian-a5101859/"
 layout: "researcher"
 hiddenInHomeList: true

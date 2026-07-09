@@ -1,7 +1,7 @@
 ---
 title: "Junli Wang"
 description: "Junli Wang is a Senior Soil Carbon researcher at Shanghai Academy of Agricultural Sciences in CN. With 95 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.010847
+date: 2026-07-10T01:07:47.074640
 url: "/cdr-researcher-census/researchers/junli-wang-a5100345/"
 layout: "researcher"
 hiddenInHomeList: true

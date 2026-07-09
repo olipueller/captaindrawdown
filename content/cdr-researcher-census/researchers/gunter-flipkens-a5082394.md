@@ -1,7 +1,7 @@
 ---
 title: "Gunter Flipkens"
 description: "Gunter Flipkens is a Mid-career Ocean CDR researcher at University of Antwerp in BE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.633371
+date: 2026-07-10T01:07:48.592786
 url: "/cdr-researcher-census/researchers/gunter-flipkens-a5082394/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lan Huang"
 description: "Lan Huang is a Senior Unknown researcher at Politecnico di Torino in IT. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.811796
+date: 2026-07-10T01:07:47.858347
 url: "/cdr-researcher-census/researchers/lan-huang-a5113875/"
 layout: "researcher"
 hiddenInHomeList: true

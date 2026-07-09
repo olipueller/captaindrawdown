@@ -1,7 +1,7 @@
 ---
 title: "Shahid Shafi Shah"
 description: "Shahid Shafi Shah is a Mid-career Biochar researcher at Guru Nanak Institutions in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.917836
+date: 2026-07-10T01:07:47.931333
 url: "/cdr-researcher-census/researchers/shahid-shafi-shah-a5075976/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Huanyan Luo"
 description: "Huanyan Luo is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.653565
+date: 2026-07-10T01:07:47.711185
 url: "/cdr-researcher-census/researchers/huanyan-luo-a5053212/"
 layout: "researcher"
 hiddenInHomeList: true

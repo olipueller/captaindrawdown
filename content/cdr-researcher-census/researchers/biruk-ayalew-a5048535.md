@@ -1,7 +1,7 @@
 ---
 title: "Biruk Ayalew"
 description: "Biruk Ayalew is a Mid-career Soil Carbon researcher at St. Paul's Hospital Millennium Medical College in ET. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.649612
+date: 2026-07-10T01:07:47.708086
 url: "/cdr-researcher-census/researchers/biruk-ayalew-a5048535/"
 layout: "researcher"
 hiddenInHomeList: true

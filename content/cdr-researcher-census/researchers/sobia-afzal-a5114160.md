@@ -1,7 +1,7 @@
 ---
 title: "Sobia Afzal"
 description: "Sobia Afzal is a Mid-career Unknown researcher at University of Faisalabad in PK. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.397147
+date: 2026-07-10T01:07:47.478068
 url: "/cdr-researcher-census/researchers/sobia-afzal-a5114160/"
 layout: "researcher"
 hiddenInHomeList: true

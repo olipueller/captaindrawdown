@@ -1,7 +1,7 @@
 ---
 title: "Wilson H. McNeil"
 description: "Wilson H. McNeil is an Early-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.037828
+date: 2026-07-10T01:07:48.952297
 url: "/cdr-researcher-census/researchers/wilson-h-mcneil-a5093526/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wessel du Toit"
 description: "Wessel du Toit is a Mid-career Unknown researcher at Stellenbosch University in ZA. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.303637
+date: 2026-07-10T01:07:47.385805
 url: "/cdr-researcher-census/researchers/wessel-du-toit-a5081062/"
 layout: "researcher"
 hiddenInHomeList: true

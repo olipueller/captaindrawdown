@@ -1,7 +1,7 @@
 ---
 title: "Xin Huang"
 description: "Xin Huang is a Mid-career Unknown researcher at Wuhan University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.887762
+date: 2026-07-10T01:07:47.902639
 url: "/cdr-researcher-census/researchers/xin-huang-a5112842/"
 layout: "researcher"
 hiddenInHomeList: true

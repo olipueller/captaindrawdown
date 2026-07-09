@@ -1,7 +1,7 @@
 ---
 title: "M.J. Salomon"
 description: "M.J. Salomon is a Mid-career Soil Carbon researcher at Wine Australia in AU. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.558864
+date: 2026-07-10T01:07:47.622857
 url: "/cdr-researcher-census/researchers/mj-salomon-a5056957/"
 layout: "researcher"
 hiddenInHomeList: true

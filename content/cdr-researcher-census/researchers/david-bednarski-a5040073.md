@@ -1,7 +1,7 @@
 ---
 title: "David Bednarski"
 description: "David Bednarski is a Senior Unknown researcher at NovaSterilis (United States) in US. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.008458
+date: 2026-07-10T01:07:47.070783
 url: "/cdr-researcher-census/researchers/david-bednarski-a5040073/"
 layout: "researcher"
 hiddenInHomeList: true

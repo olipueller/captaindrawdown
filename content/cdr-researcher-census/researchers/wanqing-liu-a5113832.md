@@ -1,7 +1,7 @@
 ---
 title: "Wanqing Liu"
 description: "Wanqing Liu is a Senior Unknown researcher at Guizhou Normal University in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.982613
+date: 2026-07-10T01:07:47.991797
 url: "/cdr-researcher-census/researchers/wanqing-liu-a5113832/"
 layout: "researcher"
 hiddenInHomeList: true

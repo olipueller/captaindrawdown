@@ -1,7 +1,7 @@
 ---
 title: "Ludovico Nista"
 description: "Ludovico Nista is a Mid-career Unknown researcher at RWTH Aachen University in DE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.143305
+date: 2026-07-10T01:07:49.046015
 url: "/cdr-researcher-census/researchers/ludovico-nista-a5036834/"
 layout: "researcher"
 hiddenInHomeList: true

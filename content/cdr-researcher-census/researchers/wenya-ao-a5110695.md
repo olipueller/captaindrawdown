@@ -1,7 +1,7 @@
 ---
 title: "Wenya Ao"
 description: "Wenya Ao is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 45 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.024020
+date: 2026-07-10T01:07:47.091684
 url: "/cdr-researcher-census/researchers/wenya-ao-a5110695/"
 layout: "researcher"
 hiddenInHomeList: true

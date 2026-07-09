@@ -1,7 +1,7 @@
 ---
 title: "Peilu Zhou"
 description: "Peilu Zhou is a Mid-career Biochar researcher at Tianjin Agricultural University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.012212
+date: 2026-07-10T01:07:48.020100
 url: "/cdr-researcher-census/researchers/peilu-zhou-a5016968/"
 layout: "researcher"
 hiddenInHomeList: true

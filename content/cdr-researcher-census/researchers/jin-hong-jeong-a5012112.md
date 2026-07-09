@@ -1,7 +1,7 @@
 ---
 title: "Jin-Hong Jeong"
 description: "Jin-Hong Jeong is a Mid-career Unknown researcher at Korea Advanced Institute of Science and Technology in KR. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.945974
+date: 2026-07-10T01:07:48.867971
 url: "/cdr-researcher-census/researchers/jin-hong-jeong-a5012112/"
 layout: "researcher"
 hiddenInHomeList: true

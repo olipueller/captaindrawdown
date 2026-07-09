@@ -1,7 +1,7 @@
 ---
 title: "Xirong Liang"
 description: "Xirong Liang is a Senior Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 38 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.111438
+date: 2026-07-10T01:07:47.197157
 url: "/cdr-researcher-census/researchers/xirong-liang-a5113950/"
 layout: "researcher"
 hiddenInHomeList: true

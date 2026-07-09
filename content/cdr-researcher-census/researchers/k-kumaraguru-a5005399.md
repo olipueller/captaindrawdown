@@ -1,7 +1,7 @@
 ---
 title: "K. Kumaraguru"
 description: "K. Kumaraguru is a Mid-career Unknown researcher at Anna University, Chennai in IN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.442644
+date: 2026-07-10T01:07:48.432334
 url: "/cdr-researcher-census/researchers/k-kumaraguru-a5005399/"
 layout: "researcher"
 hiddenInHomeList: true

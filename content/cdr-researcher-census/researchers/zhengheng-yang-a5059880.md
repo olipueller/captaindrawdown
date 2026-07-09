@@ -1,7 +1,7 @@
 ---
 title: "Zhengheng Yang"
 description: "Zhengheng Yang is a Mid-career Unknown researcher at Ministry of Education in BN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.383820
+date: 2026-07-10T01:07:48.378954
 url: "/cdr-researcher-census/researchers/zhengheng-yang-a5059880/"
 layout: "researcher"
 hiddenInHomeList: true

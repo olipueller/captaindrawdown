@@ -1,7 +1,7 @@
 ---
 title: "Birgitta Narindri Rara Winayu"
 description: "Birgitta Narindri Rara Winayu is a Mid-career Ocean CDR researcher at National Cheng Kung University in TW. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.625449
+date: 2026-07-10T01:07:47.685431
 url: "/cdr-researcher-census/researchers/birgitta-narindri-rara-winayu-a5036042/"
 layout: "researcher"
 hiddenInHomeList: true

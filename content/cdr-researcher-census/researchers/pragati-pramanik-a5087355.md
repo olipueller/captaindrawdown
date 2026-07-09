@@ -1,7 +1,7 @@
 ---
 title: "Pragati Pramanik"
 description: "Pragati Pramanik is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.340231
+date: 2026-07-10T01:07:47.423161
 url: "/cdr-researcher-census/researchers/pragati-pramanik-a5087355/"
 layout: "researcher"
 hiddenInHomeList: true

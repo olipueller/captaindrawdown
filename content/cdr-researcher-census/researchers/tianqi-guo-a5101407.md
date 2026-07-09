@@ -1,7 +1,7 @@
 ---
 title: "Tianqi Guo"
 description: "Tianqi Guo is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.042154
+date: 2026-07-10T01:07:48.047573
 url: "/cdr-researcher-census/researchers/tianqi-guo-a5101407/"
 layout: "researcher"
 hiddenInHomeList: true

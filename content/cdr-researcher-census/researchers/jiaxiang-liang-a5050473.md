@@ -1,7 +1,7 @@
 ---
 title: "Jiaxiang Liang"
 description: "Jiaxiang Liang is a Mid-career Unknown researcher at Kunming University of Science and Technology in CN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.399600
+date: 2026-07-10T01:07:47.480331
 url: "/cdr-researcher-census/researchers/jiaxiang-liang-a5050473/"
 layout: "researcher"
 hiddenInHomeList: true

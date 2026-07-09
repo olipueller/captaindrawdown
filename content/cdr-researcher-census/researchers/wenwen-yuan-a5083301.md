@@ -1,7 +1,7 @@
 ---
 title: "Wenwen Yuan"
 description: "Wenwen Yuan is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.373888
+date: 2026-07-10T01:07:48.370395
 url: "/cdr-researcher-census/researchers/wenwen-yuan-a5083301/"
 layout: "researcher"
 hiddenInHomeList: true

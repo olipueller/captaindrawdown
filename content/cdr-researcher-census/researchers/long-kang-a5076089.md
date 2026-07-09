@@ -1,7 +1,7 @@
 ---
 title: "Long Kang"
 description: "Long Kang is a Mid-career Soil Carbon researcher at China University of Geosciences (Beijing) in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.014746
+date: 2026-07-10T01:07:48.931346
 url: "/cdr-researcher-census/researchers/long-kang-a5076089/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "So Yeong Park"
 description: "So Yeong Park is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 56 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.819892
+date: 2026-07-10T01:07:47.866073
 url: "/cdr-researcher-census/researchers/so-yeong-park-a5113794/"
 layout: "researcher"
 hiddenInHomeList: true

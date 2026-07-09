@@ -1,7 +1,7 @@
 ---
 title: "Jacopo Dal Corso"
 description: "Jacopo Dal Corso is a Senior General CDR researcher at Università degli Studi di Ferrara in IT. With 114 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.999813
+date: 2026-07-10T01:07:47.060270
 url: "/cdr-researcher-census/researchers/jacopo-dal-corso-a5072857/"
 layout: "researcher"
 hiddenInHomeList: true

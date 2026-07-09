@@ -1,7 +1,7 @@
 ---
 title: "Fusheng Yu"
 description: "Fusheng Yu is a Mid-career Unknown researcher at China University of Petroleum, Beijing in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.814753
+date: 2026-07-10T01:07:48.751493
 url: "/cdr-researcher-census/researchers/fusheng-yu-a5022662/"
 layout: "researcher"
 hiddenInHomeList: true

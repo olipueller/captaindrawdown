@@ -1,7 +1,7 @@
 ---
 title: "Qingyun Cai"
 description: "Qingyun Cai is a Mid-career Unknown researcher at Hunan University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.468644
+date: 2026-07-10T01:07:48.456545
 url: "/cdr-researcher-census/researchers/qingyun-cai-a5110340/"
 layout: "researcher"
 hiddenInHomeList: true

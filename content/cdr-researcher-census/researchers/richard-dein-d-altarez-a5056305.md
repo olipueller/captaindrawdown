@@ -1,7 +1,7 @@
 ---
 title: "Richard Dein D. Altarez"
 description: "Richard Dein D. Altarez is a Mid-career Unknown researcher at Air Education and Training Command in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.221417
+date: 2026-07-10T01:07:49.131896
 url: "/cdr-researcher-census/researchers/richard-dein-d-altarez-a5056305/"
 layout: "researcher"
 hiddenInHomeList: true

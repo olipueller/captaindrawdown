@@ -1,7 +1,7 @@
 ---
 title: "Lorna E. Street"
 description: "Lorna E. Street is a Senior Soil Carbon researcher at University of Edinburgh in GB. With 61 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.037484
+date: 2026-07-10T01:07:47.108847
 url: "/cdr-researcher-census/researchers/lorna-e-street-a5076482/"
 layout: "researcher"
 hiddenInHomeList: true

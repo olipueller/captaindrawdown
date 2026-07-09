@@ -1,7 +1,7 @@
 ---
 title: "Anna‐Neva Visser"
 description: "Anna‐Neva Visser is a Mid-career Soil Carbon researcher at Friedrich-Alexander-Universität Erlangen-Nürnberg in DE. With 40 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.252433
+date: 2026-07-10T01:07:49.159564
 url: "/cdr-researcher-census/researchers/annaneva-visser-a5086413/"
 layout: "researcher"
 hiddenInHomeList: true

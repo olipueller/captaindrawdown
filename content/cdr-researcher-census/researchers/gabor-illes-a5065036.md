@@ -1,7 +1,7 @@
 ---
 title: "Gábor Illés"
 description: "Gábor Illés is a Senior Soil Carbon researcher at Forest Research Institute, University of Sopron in HU. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.483124
+date: 2026-07-10T01:07:47.554947
 url: "/cdr-researcher-census/researchers/gabor-illes-a5065036/"
 layout: "researcher"
 hiddenInHomeList: true

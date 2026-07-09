@@ -1,7 +1,7 @@
 ---
 title: "Junyang Lu"
 description: "Junyang Lu is a Mid-career Unknown researcher at Southern University of Science and Technology in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.505394
+date: 2026-07-10T01:07:48.490872
 url: "/cdr-researcher-census/researchers/junyang-lu-a5042455/"
 layout: "researcher"
 hiddenInHomeList: true

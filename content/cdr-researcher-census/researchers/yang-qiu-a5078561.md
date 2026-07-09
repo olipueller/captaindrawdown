@@ -1,7 +1,7 @@
 ---
 title: "Yang Qiu"
 description: "Yang Qiu is a Senior General CDR researcher at Joint Global Change Research Institute in US. With 49 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.979998
+date: 2026-07-10T01:07:47.029181
 url: "/cdr-researcher-census/researchers/yang-qiu-a5078561/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sangeeta Bansal"
 description: "Sangeeta Bansal is a Senior Soil Carbon researcher at South Dakota State University in US. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.650951
+date: 2026-07-10T01:07:47.709143
 url: "/cdr-researcher-census/researchers/sangeeta-bansal-a5059208/"
 layout: "researcher"
 hiddenInHomeList: true

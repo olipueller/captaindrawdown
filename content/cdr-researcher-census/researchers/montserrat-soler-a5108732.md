@@ -1,7 +1,7 @@
 ---
 title: "Montserrat Soler"
 description: "Montserrat Soler is a Senior Unknown researcher at Centre d'Estudis Avançats de Blanes in ES. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.377728
+date: 2026-07-10T01:07:48.373990
 url: "/cdr-researcher-census/researchers/montserrat-soler-a5108732/"
 layout: "researcher"
 hiddenInHomeList: true

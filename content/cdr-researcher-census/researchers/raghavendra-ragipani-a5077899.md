@@ -1,7 +1,7 @@
 ---
 title: "Raghavendra Ragipani"
 description: "Raghavendra Ragipani is a Mid-career Enhanced Weathering researcher at Indian Institute of Technology Kanpur in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.029344
+date: 2026-07-10T01:07:48.036497
 url: "/cdr-researcher-census/researchers/raghavendra-ragipani-a5077899/"
 layout: "researcher"
 hiddenInHomeList: true

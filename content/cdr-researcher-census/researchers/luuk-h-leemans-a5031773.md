@@ -1,7 +1,7 @@
 ---
 title: "Luuk H. Leemans"
 description: "Luuk H. Leemans is a Mid-career Ocean CDR researcher at Radboud University Nijmegen in NL. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.043252
+date: 2026-07-10T01:07:48.048836
 url: "/cdr-researcher-census/researchers/luuk-h-leemans-a5031773/"
 layout: "researcher"
 hiddenInHomeList: true

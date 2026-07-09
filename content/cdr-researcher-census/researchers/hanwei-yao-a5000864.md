@@ -1,7 +1,7 @@
 ---
 title: "Hanwei Yao"
 description: "Hanwei Yao is a Senior Unknown researcher at China University of Geosciences in CN. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.219518
+date: 2026-07-10T01:07:48.230755
 url: "/cdr-researcher-census/researchers/hanwei-yao-a5000864/"
 layout: "researcher"
 hiddenInHomeList: true

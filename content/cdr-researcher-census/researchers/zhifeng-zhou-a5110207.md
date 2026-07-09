@@ -1,7 +1,7 @@
 ---
 title: "Zhifeng Zhou"
 description: "Zhifeng Zhou is a Senior Unknown researcher at Fujian Medical University in CN. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.332805
+date: 2026-07-10T01:07:47.414558
 url: "/cdr-researcher-census/researchers/zhifeng-zhou-a5110207/"
 layout: "researcher"
 hiddenInHomeList: true

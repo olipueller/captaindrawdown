@@ -1,7 +1,7 @@
 ---
 title: "Vineet Goswami"
 description: "Vineet Goswami is a Senior Unknown researcher at Physical Research Laboratory in IN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.458784
+date: 2026-07-10T01:07:47.533207
 url: "/cdr-researcher-census/researchers/vineet-goswami-a5112393/"
 layout: "researcher"
 hiddenInHomeList: true

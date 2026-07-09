@@ -1,7 +1,7 @@
 ---
 title: "Tanmoy Singha"
 description: "Tanmoy Singha is a Mid-career Unknown researcher at National Institute of Technology Durgapur in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.991099
+date: 2026-07-10T01:07:48.909878
 url: "/cdr-researcher-census/researchers/tanmoy-singha-a5089219/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bangfu Chen"
 description: "Bangfu Chen is a Mid-career Unknown researcher at Chongqing Technology and Business University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.190898
+date: 2026-07-10T01:07:48.205358
 url: "/cdr-researcher-census/researchers/bangfu-chen-a5030969/"
 layout: "researcher"
 hiddenInHomeList: true

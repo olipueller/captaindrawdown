@@ -1,7 +1,7 @@
 ---
 title: "Franco Bilotto"
 description: "Franco Bilotto is a Mid-career Soil Carbon researcher at Atkins (United States) in US. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.611784
+date: 2026-07-10T01:07:47.673397
 url: "/cdr-researcher-census/researchers/franco-bilotto-a5055171/"
 layout: "researcher"
 hiddenInHomeList: true

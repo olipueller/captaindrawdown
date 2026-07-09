@@ -1,7 +1,7 @@
 ---
 title: "David Scoby"
 description: "David Scoby is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.114617
+date: 2026-07-10T01:07:48.139581
 url: "/cdr-researcher-census/researchers/david-scoby-a5058923/"
 layout: "researcher"
 hiddenInHomeList: true

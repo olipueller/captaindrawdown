@@ -1,7 +1,7 @@
 ---
 title: "Saeed Motesaddi Zarandi"
 description: "Saeed Motesaddi Zarandi is a Mid-career Unknown researcher at Shahid Beheshti University of Medical Sciences School of Public Health and Safety in IR. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.712252
+date: 2026-07-10T01:07:47.766583
 url: "/cdr-researcher-census/researchers/saeed-motesaddi-zarandi-a5112318/"
 layout: "researcher"
 hiddenInHomeList: true

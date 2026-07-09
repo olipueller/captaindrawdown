@@ -1,7 +1,7 @@
 ---
 title: "Yang Zhao"
 description: "Yang Zhao is a Senior General CDR researcher at Sinopec (China) in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.454240
+date: 2026-07-10T01:07:48.442911
 url: "/cdr-researcher-census/researchers/yang-zhao-a5102737/"
 layout: "researcher"
 hiddenInHomeList: true

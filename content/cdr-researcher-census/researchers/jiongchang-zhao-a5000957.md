@@ -1,7 +1,7 @@
 ---
 title: "Jiongchang Zhao"
 description: "Jiongchang Zhao is a Mid-career Soil Carbon researcher at Huawei Technologies (China) in CN. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.801389
+date: 2026-07-10T01:07:48.740125
 url: "/cdr-researcher-census/researchers/jiongchang-zhao-a5000957/"
 layout: "researcher"
 hiddenInHomeList: true

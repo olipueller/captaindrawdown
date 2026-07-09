@@ -1,7 +1,7 @@
 ---
 title: "Elliot Chang"
 description: "Elliot Chang is a Mid-career Enhanced Weathering researcher at Carbon180 in US. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.586702
+date: 2026-07-10T01:07:47.650038
 url: "/cdr-researcher-census/researchers/elliot-chang-a5085507/"
 layout: "researcher"
 hiddenInHomeList: true

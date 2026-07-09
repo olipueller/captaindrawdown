@@ -1,7 +1,7 @@
 ---
 title: "Francesca Loffredo"
 description: "Francesca Loffredo is a Mid-career Unknown researcher at RWTH Aachen University in DE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.672197
+date: 2026-07-10T01:07:48.628086
 url: "/cdr-researcher-census/researchers/francesca-loffredo-a5014371/"
 layout: "researcher"
 hiddenInHomeList: true

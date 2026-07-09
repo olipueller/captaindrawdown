@@ -1,7 +1,7 @@
 ---
 title: "Linxuan Pan"
 description: "Linxuan Pan is a Mid-career Unknown researcher at Guangdong University of Technology in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.229461
+date: 2026-07-10T01:07:48.239603
 url: "/cdr-researcher-census/researchers/linxuan-pan-a5015686/"
 layout: "researcher"
 hiddenInHomeList: true

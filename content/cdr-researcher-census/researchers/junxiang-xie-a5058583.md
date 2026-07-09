@@ -1,7 +1,7 @@
 ---
 title: "Junxiang Xie"
 description: "Junxiang Xie is a Mid-career Biochar researcher at Tongji University in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.304397
+date: 2026-07-10T01:07:47.386519
 url: "/cdr-researcher-census/researchers/junxiang-xie-a5058583/"
 layout: "researcher"
 hiddenInHomeList: true

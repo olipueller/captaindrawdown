@@ -1,7 +1,7 @@
 ---
 title: "Tasawar Ali Chandio"
 description: "Tasawar Ali Chandio is a Mid-career Unknown researcher at Government of Pakistan in PK. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.779355
+date: 2026-07-10T01:07:48.722735
 url: "/cdr-researcher-census/researchers/tasawar-ali-chandio-a5023989/"
 layout: "researcher"
 hiddenInHomeList: true

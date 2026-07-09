@@ -1,7 +1,7 @@
 ---
 title: "Simona Bosco"
 description: "Simona Bosco is a Senior Soil Carbon researcher at Joint Research Centre in IT. With 59 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.289886
+date: 2026-07-10T01:07:47.372029
 url: "/cdr-researcher-census/researchers/simona-bosco-a5007726/"
 layout: "researcher"
 hiddenInHomeList: true

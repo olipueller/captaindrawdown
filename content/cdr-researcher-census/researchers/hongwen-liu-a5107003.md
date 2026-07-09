@@ -1,7 +1,7 @@
 ---
 title: "Hongwen Liu"
 description: "Hongwen Liu is a Senior Unknown researcher at People’s Hospital of Rizhao in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.086856
+date: 2026-07-10T01:07:48.996893
 url: "/cdr-researcher-census/researchers/hongwen-liu-a5107003/"
 layout: "researcher"
 hiddenInHomeList: true

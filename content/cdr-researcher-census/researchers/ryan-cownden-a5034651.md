@@ -1,7 +1,7 @@
 ---
 title: "Ryan Cownden"
 description: "Ryan Cownden is a Senior Unknown researcher at University of Sheffield in GB. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.467858
+date: 2026-07-10T01:07:48.455776
 url: "/cdr-researcher-census/researchers/ryan-cownden-a5034651/"
 layout: "researcher"
 hiddenInHomeList: true

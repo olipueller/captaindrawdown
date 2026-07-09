@@ -1,7 +1,7 @@
 ---
 title: "Apoorv Gupta"
 description: "Apoorv Gupta is a Mid-career Unknown researcher. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.127682
+date: 2026-07-10T01:07:49.032792
 url: "/cdr-researcher-census/researchers/apoorv-gupta-a5060243/"
 layout: "researcher"
 hiddenInHomeList: true

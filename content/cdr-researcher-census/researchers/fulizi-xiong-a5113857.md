@@ -1,7 +1,7 @@
 ---
 title: "Fulizi Xiong"
 description: "Fulizi Xiong is a Mid-career Unknown researcher at Yale University in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.358084
+date: 2026-07-10T01:07:47.440096
 url: "/cdr-researcher-census/researchers/fulizi-xiong-a5113857/"
 layout: "researcher"
 hiddenInHomeList: true

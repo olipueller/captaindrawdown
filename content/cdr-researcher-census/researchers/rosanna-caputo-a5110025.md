@@ -1,7 +1,7 @@
 ---
 title: "Rosanna Caputo"
 description: "Rosanna Caputo is a Mid-career Unknown researcher at Department of Agricultural Sciences in RU. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.426235
+date: 2026-07-10T01:07:48.416466
 url: "/cdr-researcher-census/researchers/rosanna-caputo-a5110025/"
 layout: "researcher"
 hiddenInHomeList: true

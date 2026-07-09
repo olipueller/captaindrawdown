@@ -1,7 +1,7 @@
 ---
 title: "Iris Holzer"
 description: "Iris Holzer is a Mid-career Enhanced Weathering researcher at University of California, Santa Barbara in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.550846
+date: 2026-07-10T01:07:48.530925
 url: "/cdr-researcher-census/researchers/iris-holzer-a5020373/"
 layout: "researcher"
 hiddenInHomeList: true

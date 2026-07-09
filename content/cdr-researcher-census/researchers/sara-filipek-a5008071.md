@@ -1,7 +1,7 @@
 ---
 title: "Sara Filipek"
 description: "Sara Filipek is an Early-career Unknown researcher at Wageningen University & Research in NL. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.811632
+date: 2026-07-10T01:07:48.748944
 url: "/cdr-researcher-census/researchers/sara-filipek-a5008071/"
 layout: "researcher"
 hiddenInHomeList: true

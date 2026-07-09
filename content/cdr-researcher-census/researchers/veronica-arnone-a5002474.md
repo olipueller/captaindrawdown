@@ -1,7 +1,7 @@
 ---
 title: "Verónica Arnone"
 description: "Verónica Arnone is a Mid-career Ocean CDR researcher at Oceanic Platform of the Canary Islands in ES. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.197106
+date: 2026-07-10T01:07:49.110350
 url: "/cdr-researcher-census/researchers/veronica-arnone-a5002474/"
 layout: "researcher"
 hiddenInHomeList: true

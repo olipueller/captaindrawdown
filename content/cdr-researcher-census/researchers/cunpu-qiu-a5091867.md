@@ -1,7 +1,7 @@
 ---
 title: "Cunpu Qiu"
 description: "Cunpu Qiu is a Mid-career Unknown researcher at Zhenjiang College. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.200150
+date: 2026-07-10T01:07:48.213186
 url: "/cdr-researcher-census/researchers/cunpu-qiu-a5091867/"
 layout: "researcher"
 hiddenInHomeList: true

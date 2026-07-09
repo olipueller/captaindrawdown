@@ -1,7 +1,7 @@
 ---
 title: "Kei Asada"
 description: "Kei Asada is a Senior Enhanced Weathering researcher at National Agriculture and Food Research Organization in JP. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.052868
+date: 2026-07-10T01:07:48.057707
 url: "/cdr-researcher-census/researchers/kei-asada-a5055215/"
 layout: "researcher"
 hiddenInHomeList: true

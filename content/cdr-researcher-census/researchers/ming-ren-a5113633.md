@@ -1,7 +1,7 @@
 ---
 title: "Ming Ren"
 description: "Ming Ren is a Senior General CDR researcher at China University of Petroleum, Beijing in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.511332
+date: 2026-07-10T01:07:47.579791
 url: "/cdr-researcher-census/researchers/ming-ren-a5113633/"
 layout: "researcher"
 hiddenInHomeList: true

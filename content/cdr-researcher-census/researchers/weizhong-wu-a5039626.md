@@ -1,7 +1,7 @@
 ---
 title: "Weizhong Wu"
 description: "Weizhong Wu is an Early-career Unknown researcher at Peking University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.210643
+date: 2026-07-10T01:07:49.122912
 url: "/cdr-researcher-census/researchers/weizhong-wu-a5039626/"
 layout: "researcher"
 hiddenInHomeList: true

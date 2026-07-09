@@ -1,7 +1,7 @@
 ---
 title: "Hong Nam Nguyen"
 description: "Hong Nam Nguyen is a Senior Biochar researcher. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.448056
+date: 2026-07-10T01:07:47.524122
 url: "/cdr-researcher-census/researchers/hong-nam-nguyen-a5100733/"
 layout: "researcher"
 hiddenInHomeList: true

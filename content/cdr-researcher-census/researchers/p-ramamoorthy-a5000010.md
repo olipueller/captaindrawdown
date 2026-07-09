@@ -1,7 +1,7 @@
 ---
 title: "P. Ramamoorthy"
 description: "P. Ramamoorthy is a Mid-career Soil Carbon researcher at Mississippi State University in US. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.404749
+date: 2026-07-10T01:07:47.484812
 url: "/cdr-researcher-census/researchers/p-ramamoorthy-a5000010/"
 layout: "researcher"
 hiddenInHomeList: true

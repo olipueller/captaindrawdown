@@ -1,7 +1,7 @@
 ---
 title: "Dawn M. Nekorchuk"
 description: "Dawn M. Nekorchuk is a Senior Soil Carbon researcher. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.404059
+date: 2026-07-10T01:07:47.484242
 url: "/cdr-researcher-census/researchers/dawn-m-nekorchuk-a5073678/"
 layout: "researcher"
 hiddenInHomeList: true

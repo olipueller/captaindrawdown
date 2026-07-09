@@ -1,7 +1,7 @@
 ---
 title: "Kate A. Edwards"
 description: "Kate A. Edwards is a Senior Soil Carbon researcher at Canadian Forest Service in CA. With 53 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.296780
+date: 2026-07-10T01:07:47.379197
 url: "/cdr-researcher-census/researchers/kate-a-edwards-a5001142/"
 layout: "researcher"
 hiddenInHomeList: true

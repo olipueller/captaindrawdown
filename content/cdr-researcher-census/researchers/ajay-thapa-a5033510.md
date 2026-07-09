@@ -1,7 +1,7 @@
 ---
 title: "Ajay Thapa"
 description: "Ajay Thapa is a Mid-career Unknown researcher at Université Bourgogne Franche-Comté in FR. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.439181
+date: 2026-07-10T01:07:48.429057
 url: "/cdr-researcher-census/researchers/ajay-thapa-a5033510/"
 layout: "researcher"
 hiddenInHomeList: true

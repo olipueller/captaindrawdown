@@ -1,7 +1,7 @@
 ---
 title: "Despoina Koumpagioti"
 description: "Despoina Koumpagioti is a Mid-career Unknown researcher at University of West Attica in GR. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.259042
+date: 2026-07-10T01:07:48.266704
 url: "/cdr-researcher-census/researchers/despoina-koumpagioti-a5022714/"
 layout: "researcher"
 hiddenInHomeList: true

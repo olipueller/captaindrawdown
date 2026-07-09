@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Ren"
 description: "Xiaolong Ren is a Mid-career Soil Carbon researcher at Ministry of Agriculture in BW. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.520785
+date: 2026-07-10T01:07:47.587773
 url: "/cdr-researcher-census/researchers/xiaolong-ren-a5082463/"
 layout: "researcher"
 hiddenInHomeList: true

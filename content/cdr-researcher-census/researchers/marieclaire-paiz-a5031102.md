@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Claire Paiz"
 description: "Marie‐Claire Paiz is a Mid-career Unknown researcher at Institut Africain d'Informatique in GA. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.506838
+date: 2026-07-10T01:07:48.492126
 url: "/cdr-researcher-census/researchers/marieclaire-paiz-a5031102/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Luhao He"
 description: "Luhao He is a Mid-career General CDR researcher at Sun Yat-sen University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.813437
+date: 2026-07-10T01:07:48.750444
 url: "/cdr-researcher-census/researchers/luhao-he-a5113350/"
 layout: "researcher"
 hiddenInHomeList: true

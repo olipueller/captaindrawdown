@@ -1,7 +1,7 @@
 ---
 title: "Meng‐Wei Zheng"
 description: "Meng‐Wei Zheng is a Mid-career Biochar researcher at National Cheng Kung University in TW. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.385524
+date: 2026-07-10T01:07:48.380176
 url: "/cdr-researcher-census/researchers/mengwei-zheng-a5079418/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anthony O. Onokwai"
 description: "Anthony O. Onokwai is a Mid-career Biochar researcher at Tshwane University of Technology in ZA. With 71 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.644715
+date: 2026-07-10T01:07:47.703661
 url: "/cdr-researcher-census/researchers/anthony-o-onokwai-a5037760/"
 layout: "researcher"
 hiddenInHomeList: true

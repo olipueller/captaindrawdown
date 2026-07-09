@@ -1,7 +1,7 @@
 ---
 title: "Hao Dong"
 description: "Hao Dong is a Senior DAC researcher at Liaoning Normal University in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.769163
+date: 2026-07-10T01:07:47.819339
 url: "/cdr-researcher-census/researchers/hao-dong-a5101905/"
 layout: "researcher"
 hiddenInHomeList: true

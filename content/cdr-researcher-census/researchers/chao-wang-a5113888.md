@@ -1,7 +1,7 @@
 ---
 title: "Chao Wang"
 description: "Chao Wang is a Senior Soil Carbon researcher at China University of Geosciences in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.026184
+date: 2026-07-10T01:07:48.942121
 url: "/cdr-researcher-census/researchers/chao-wang-a5113888/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ruihua Bai"
 description: "Ruihua Bai is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 61 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.393034
+date: 2026-07-10T01:07:47.474110
 url: "/cdr-researcher-census/researchers/ruihua-bai-a5101253/"
 layout: "researcher"
 hiddenInHomeList: true

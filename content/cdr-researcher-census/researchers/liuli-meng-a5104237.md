@@ -1,7 +1,7 @@
 ---
 title: "Liu‐Li Meng"
 description: "Liu‐Li Meng is a Mid-career Unknown researcher at Ministry of Education of the People's Republic of China in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.770320
+date: 2026-07-10T01:07:47.820363
 url: "/cdr-researcher-census/researchers/liuli-meng-a5104237/"
 layout: "researcher"
 hiddenInHomeList: true

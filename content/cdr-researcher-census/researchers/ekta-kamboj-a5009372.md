@@ -1,7 +1,7 @@
 ---
 title: "Ekta Kamboj"
 description: "Ekta Kamboj is an Early-career Soil Carbon researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.842261
+date: 2026-07-10T01:07:48.774320
 url: "/cdr-researcher-census/researchers/ekta-kamboj-a5009372/"
 layout: "researcher"
 hiddenInHomeList: true

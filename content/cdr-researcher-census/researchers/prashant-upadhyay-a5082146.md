@@ -1,7 +1,7 @@
 ---
 title: "Prashant Upadhyay"
 description: "Prashant Upadhyay is a Mid-career Soil Carbon researcher at IFTM University in IN. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.471037
+date: 2026-07-10T01:07:48.458556
 url: "/cdr-researcher-census/researchers/prashant-upadhyay-a5082146/"
 layout: "researcher"
 hiddenInHomeList: true

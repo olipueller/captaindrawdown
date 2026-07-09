@@ -1,7 +1,7 @@
 ---
 title: "Aayush Mathur"
 description: "Aayush Mathur is a Mid-career Biochar researcher at Central University of Haryana in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.509349
+date: 2026-07-10T01:07:48.494236
 url: "/cdr-researcher-census/researchers/aayush-mathur-a5009899/"
 layout: "researcher"
 hiddenInHomeList: true

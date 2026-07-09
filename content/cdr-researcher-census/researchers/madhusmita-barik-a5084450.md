@@ -1,7 +1,7 @@
 ---
 title: "Madhusmita Barik"
 description: "Madhusmita Barik is a Mid-career Unknown researcher at Centurion University of Technology and Management in IN. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.167446
+date: 2026-07-10T01:07:49.057842
 url: "/cdr-researcher-census/researchers/madhusmita-barik-a5084450/"
 layout: "researcher"
 hiddenInHomeList: true

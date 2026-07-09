@@ -1,7 +1,7 @@
 ---
 title: "Tianhui Fan"
 description: "Tianhui Fan is a Mid-career DAC researcher at Kyoto University in JP. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.679471
+date: 2026-07-10T01:07:48.634844
 url: "/cdr-researcher-census/researchers/tianhui-fan-a5054053/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fanxuan Kong"
 description: "Fanxuan Kong is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.177885
+date: 2026-07-10T01:07:48.194139
 url: "/cdr-researcher-census/researchers/fanxuan-kong-a5042652/"
 layout: "researcher"
 hiddenInHomeList: true

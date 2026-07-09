@@ -1,7 +1,7 @@
 ---
 title: "Xiufeng Shi"
 description: "Xiufeng Shi is a Senior Unknown researcher at Taiyuan University of Science and Technology in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.528949
+date: 2026-07-10T01:07:47.595527
 url: "/cdr-researcher-census/researchers/xiufeng-shi-a5102862/"
 layout: "researcher"
 hiddenInHomeList: true

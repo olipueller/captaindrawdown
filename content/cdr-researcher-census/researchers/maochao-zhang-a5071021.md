@@ -1,7 +1,7 @@
 ---
 title: "Maochao Zhang"
 description: "Maochao Zhang is a Senior Unknown researcher at Shunde Polytechnic in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.572353
+date: 2026-07-10T01:07:48.550277
 url: "/cdr-researcher-census/researchers/maochao-zhang-a5071021/"
 layout: "researcher"
 hiddenInHomeList: true

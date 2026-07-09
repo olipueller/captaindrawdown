@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Khan"
 description: "Abdullah Khan is an Early-career Unknown researcher at Government of Khyber Pakhtunkhwa in PK. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.107623
+date: 2026-07-10T01:07:49.015038
 url: "/cdr-researcher-census/researchers/abdullah-khan-a5023783/"
 layout: "researcher"
 hiddenInHomeList: true

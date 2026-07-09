@@ -1,7 +1,7 @@
 ---
 title: "Paul J. Corbett"
 description: "Paul J. Corbett is a Senior General CDR researcher at Shell (Netherlands) in NL. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.751830
+date: 2026-07-10T01:07:47.802826
 url: "/cdr-researcher-census/researchers/paul-j-corbett-a5017184/"
 layout: "researcher"
 hiddenInHomeList: true

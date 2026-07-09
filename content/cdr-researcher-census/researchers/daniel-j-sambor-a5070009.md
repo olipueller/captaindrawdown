@@ -1,7 +1,7 @@
 ---
 title: "Daniel J. Sambor"
 description: "Daniel J. Sambor is a Mid-career General CDR researcher at Stanford University in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.244653
+date: 2026-07-10T01:07:48.253197
 url: "/cdr-researcher-census/researchers/daniel-j-sambor-a5070009/"
 layout: "researcher"
 hiddenInHomeList: true

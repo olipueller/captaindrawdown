@@ -1,7 +1,7 @@
 ---
 title: "Marco A. Jiménez‐González"
 description: "Marco A. Jiménez‐González is a Mid-career Soil Carbon researcher at Universidad Autónoma de Madrid in ES. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.688502
+date: 2026-07-10T01:07:47.744796
 url: "/cdr-researcher-census/researchers/marco-a-jimenezgonzalez-a5051628/"
 layout: "researcher"
 hiddenInHomeList: true

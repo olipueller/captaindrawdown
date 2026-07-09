@@ -1,7 +1,7 @@
 ---
 title: "Jiajun Gu"
 description: "Jiajun Gu is a Mid-career Unknown researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.197458
+date: 2026-07-10T01:07:48.210697
 url: "/cdr-researcher-census/researchers/jiajun-gu-a5103122/"
 layout: "researcher"
 hiddenInHomeList: true

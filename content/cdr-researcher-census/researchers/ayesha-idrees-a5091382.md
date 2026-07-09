@@ -1,7 +1,7 @@
 ---
 title: "Ayesha Idrees"
 description: "Ayesha Idrees is a Mid-career Unknown researcher at Shenzhen University in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.609404
+date: 2026-07-10T01:07:47.671229
 url: "/cdr-researcher-census/researchers/ayesha-idrees-a5091382/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dexin Gao"
 description: "Dexin Gao is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.367132
+date: 2026-07-10T01:07:47.449245
 url: "/cdr-researcher-census/researchers/dexin-gao-a5023823/"
 layout: "researcher"
 hiddenInHomeList: true

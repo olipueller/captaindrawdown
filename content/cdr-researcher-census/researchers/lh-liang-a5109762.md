@@ -1,7 +1,7 @@
 ---
 title: "L.H. Liang"
 description: "L.H. Liang is a Senior Unknown researcher at University at Buffalo, State University of New York in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.508422
+date: 2026-07-10T01:07:47.577320
 url: "/cdr-researcher-census/researchers/lh-liang-a5109762/"
 layout: "researcher"
 hiddenInHomeList: true

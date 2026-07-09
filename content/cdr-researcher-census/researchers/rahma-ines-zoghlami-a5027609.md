@@ -1,7 +1,7 @@
 ---
 title: "Rahma Inès Zoghlami"
 description: "Rahma Inès Zoghlami is a Mid-career Soil Carbon researcher at Institut des Régions Arides in TN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.782638
+date: 2026-07-10T01:07:47.831147
 url: "/cdr-researcher-census/researchers/rahma-ines-zoghlami-a5027609/"
 layout: "researcher"
 hiddenInHomeList: true

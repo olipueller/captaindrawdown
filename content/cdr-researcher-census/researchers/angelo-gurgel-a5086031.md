@@ -1,7 +1,7 @@
 ---
 title: "Angelo Gurgel"
 description: "Angelo Gurgel is a Senior General CDR researcher at Massachusetts Institute of Technology in US. With 200 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.010251
+date: 2026-07-10T01:07:47.073609
 url: "/cdr-researcher-census/researchers/angelo-gurgel-a5086031/"
 layout: "researcher"
 hiddenInHomeList: true

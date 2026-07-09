@@ -1,7 +1,7 @@
 ---
 title: "C. R. Calkins"
 description: "C. R. Calkins is a Senior Unknown researcher at Atmospheric and Environmental Research in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.785316
+date: 2026-07-10T01:07:47.833939
 url: "/cdr-researcher-census/researchers/c-r-calkins-a5112892/"
 layout: "researcher"
 hiddenInHomeList: true

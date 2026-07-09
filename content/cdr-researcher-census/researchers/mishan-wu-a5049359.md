@@ -1,7 +1,7 @@
 ---
 title: "Mishan Wu"
 description: "Mishan Wu is a Mid-career Unknown researcher at Macau University of Science and Technology in MO. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.874487
+date: 2026-07-10T01:07:48.802284
 url: "/cdr-researcher-census/researchers/mishan-wu-a5049359/"
 layout: "researcher"
 hiddenInHomeList: true

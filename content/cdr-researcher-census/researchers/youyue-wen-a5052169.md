@@ -1,7 +1,7 @@
 ---
 title: "Youyue Wen"
 description: "Youyue Wen is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 32 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.122937
+date: 2026-07-10T01:07:47.209664
 url: "/cdr-researcher-census/researchers/youyue-wen-a5052169/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ashraf Hassanpour"
 description: "Ashraf Hassanpour is a Mid-career Unknown researcher at Shiraz University of Medical Sciences in IR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.239171
+date: 2026-07-10T01:07:48.248412
 url: "/cdr-researcher-census/researchers/ashraf-hassanpour-a5038961/"
 layout: "researcher"
 hiddenInHomeList: true

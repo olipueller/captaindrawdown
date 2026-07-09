@@ -1,7 +1,7 @@
 ---
 title: "Sue Ogilvy"
 description: "Sue Ogilvy is a Mid-career General CDR researcher at Futures Group (United States) in US. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.406510
+date: 2026-07-10T01:07:47.486245
 url: "/cdr-researcher-census/researchers/sue-ogilvy-a5046537/"
 layout: "researcher"
 hiddenInHomeList: true

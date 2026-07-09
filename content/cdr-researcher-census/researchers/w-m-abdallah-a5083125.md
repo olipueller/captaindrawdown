@@ -1,7 +1,7 @@
 ---
 title: "W. M. Abd‐Allah"
 description: "W. M. Abd‐Allah is a Senior Unknown researcher at Egyptian Atomic Energy Authority in EG. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.419127
+date: 2026-07-10T01:07:47.498251
 url: "/cdr-researcher-census/researchers/w-m-abdallah-a5083125/"
 layout: "researcher"
 hiddenInHomeList: true

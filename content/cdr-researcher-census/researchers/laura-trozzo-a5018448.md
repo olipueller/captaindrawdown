@@ -1,7 +1,7 @@
 ---
 title: "Laura Trozzo"
 description: "Laura Trozzo is a Mid-career Soil Carbon researcher at Marche Polytechnic University in IT. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.962634
+date: 2026-07-10T01:07:47.973008
 url: "/cdr-researcher-census/researchers/laura-trozzo-a5018448/"
 layout: "researcher"
 hiddenInHomeList: true

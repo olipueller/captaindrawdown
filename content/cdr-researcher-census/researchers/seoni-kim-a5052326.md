@@ -1,7 +1,7 @@
 ---
 title: "Seoni Kim"
 description: "Seoni Kim is a Senior General CDR researcher at Ewha Womans University in KR. With 38 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.015907
+date: 2026-07-10T01:07:47.081562
 url: "/cdr-researcher-census/researchers/seoni-kim-a5052326/"
 layout: "researcher"
 hiddenInHomeList: true

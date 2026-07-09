@@ -1,7 +1,7 @@
 ---
 title: "Manhong Cao"
 description: "Manhong Cao is an Early-career Soil Carbon researcher at Shaanxi Coal Chemical Industry Technology Research Institute in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.951243
+date: 2026-07-10T01:07:48.873050
 url: "/cdr-researcher-census/researchers/manhong-cao-a5027008/"
 layout: "researcher"
 hiddenInHomeList: true

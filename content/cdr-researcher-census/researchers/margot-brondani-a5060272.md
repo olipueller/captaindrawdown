@@ -1,7 +1,7 @@
 ---
 title: "Margot Brondani"
 description: "Margot Brondani is an Early-career Unknown researcher at Centre de Coopération Internationale en Recherche Agronomique pour le Développement in FR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.111733
+date: 2026-07-10T01:07:49.018578
 url: "/cdr-researcher-census/researchers/margot-brondani-a5060272/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shengzhong Wang"
 description: "Shengzhong Wang is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 118 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.062115
+date: 2026-07-10T01:07:47.138890
 url: "/cdr-researcher-census/researchers/shengzhong-wang-a5004704/"
 layout: "researcher"
 hiddenInHomeList: true

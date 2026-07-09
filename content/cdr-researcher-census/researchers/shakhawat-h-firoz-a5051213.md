@@ -1,7 +1,7 @@
 ---
 title: "Shakhawat H. Firoz"
 description: "Shakhawat H. Firoz is an Early-career Biochar researcher at Bangladesh University of Engineering and Technology in BD. With 4 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.928687
+date: 2026-07-10T01:07:48.852206
 url: "/cdr-researcher-census/researchers/shakhawat-h-firoz-a5051213/"
 layout: "researcher"
 hiddenInHomeList: true

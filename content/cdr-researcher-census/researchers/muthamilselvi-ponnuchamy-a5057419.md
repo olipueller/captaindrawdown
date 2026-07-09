@@ -1,7 +1,7 @@
 ---
 title: "Muthamilselvi Ponnuchamy"
 description: "Muthamilselvi Ponnuchamy is a Senior Biochar researcher at SRM Institute of Science and Technology in IN. With 38 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.085825
+date: 2026-07-10T01:07:47.167654
 url: "/cdr-researcher-census/researchers/muthamilselvi-ponnuchamy-a5057419/"
 layout: "researcher"
 hiddenInHomeList: true

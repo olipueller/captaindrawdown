@@ -1,7 +1,7 @@
 ---
 title: "Madhvi Chahar"
 description: "Madhvi Chahar is a Mid-career Unknown researcher at Agricultural Research Organization in IL. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.216435
+date: 2026-07-10T01:07:49.127628
 url: "/cdr-researcher-census/researchers/madhvi-chahar-a5080808/"
 layout: "researcher"
 hiddenInHomeList: true

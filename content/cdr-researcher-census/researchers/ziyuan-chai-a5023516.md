@@ -1,7 +1,7 @@
 ---
 title: "Ziyuan Chai"
 description: "Ziyuan Chai is a Mid-career Unknown researcher at Zhejiang Police College in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.808543
+date: 2026-07-10T01:07:47.854861
 url: "/cdr-researcher-census/researchers/ziyuan-chai-a5023516/"
 layout: "researcher"
 hiddenInHomeList: true

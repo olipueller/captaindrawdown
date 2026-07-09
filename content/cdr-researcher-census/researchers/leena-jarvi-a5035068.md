@@ -1,7 +1,7 @@
 ---
 title: "Leena Järvi"
 description: "Leena Järvi is a Senior Soil Carbon researcher at University of Helsinki in FI. With 254 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.943501
+date: 2026-07-10T01:07:46.972136
 url: "/cdr-researcher-census/researchers/leena-jarvi-a5035068/"
 layout: "researcher"
 hiddenInHomeList: true

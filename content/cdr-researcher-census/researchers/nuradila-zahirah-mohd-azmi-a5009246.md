@@ -1,7 +1,7 @@
 ---
 title: "Nuradila Zahirah Mohd Azmi"
 description: "Nuradila Zahirah Mohd Azmi is an Early-career Biochar researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.751361
+date: 2026-07-10T01:07:48.698111
 url: "/cdr-researcher-census/researchers/nuradila-zahirah-mohd-azmi-a5009246/"
 layout: "researcher"
 hiddenInHomeList: true

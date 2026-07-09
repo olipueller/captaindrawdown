@@ -1,7 +1,7 @@
 ---
 title: "Jiaxin Xu"
 description: "Jiaxin Xu is a Mid-career Unknown researcher at University of Notre Dame in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.472584
+date: 2026-07-10T01:07:48.459998
 url: "/cdr-researcher-census/researchers/jiaxin-xu-a5087343/"
 layout: "researcher"
 hiddenInHomeList: true

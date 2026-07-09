@@ -1,7 +1,7 @@
 ---
 title: "Filip Duszyński"
 description: "Filip Duszyński is a Mid-career Unknown researcher at Uniwersytet Wroclawski in PL. With 44 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.535191
+date: 2026-07-10T01:07:47.601178
 url: "/cdr-researcher-census/researchers/filip-duszynski-a5072489/"
 layout: "researcher"
 hiddenInHomeList: true

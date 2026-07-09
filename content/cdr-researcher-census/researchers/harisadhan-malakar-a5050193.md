@@ -1,7 +1,7 @@
 ---
 title: "Harisadhan Malakar"
 description: "Harisadhan Malakar is a Senior Biochar researcher at Tea Research Association in IN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.546831
+date: 2026-07-10T01:07:48.527228
 url: "/cdr-researcher-census/researchers/harisadhan-malakar-a5050193/"
 layout: "researcher"
 hiddenInHomeList: true

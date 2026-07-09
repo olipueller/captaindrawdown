@@ -1,7 +1,7 @@
 ---
 title: "Ali Ubeyitogullari"
 description: "Ali Ubeyitogullari is a Senior Unknown researcher at University of Arkansas in US. With 85 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.102707
+date: 2026-07-10T01:07:47.187128
 url: "/cdr-researcher-census/researchers/ali-ubeyitogullari-a5045737/"
 layout: "researcher"
 hiddenInHomeList: true

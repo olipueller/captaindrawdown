@@ -1,7 +1,7 @@
 ---
 title: "Shazia Jabeen"
 description: "Shazia Jabeen is a Senior Soil Carbon researcher at The Women University Multan in PK. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.808353
+date: 2026-07-10T01:07:47.854690
 url: "/cdr-researcher-census/researchers/shazia-jabeen-a5021208/"
 layout: "researcher"
 hiddenInHomeList: true

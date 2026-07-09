@@ -1,7 +1,7 @@
 ---
 title: "Marco Falzacappa"
 description: "Marco Falzacappa is an Early-career Unknown researcher at Dipartimento della Protezione Civile in IT. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.058635
+date: 2026-07-10T01:07:48.971308
 url: "/cdr-researcher-census/researchers/marco-falzacappa-a5010346/"
 layout: "researcher"
 hiddenInHomeList: true

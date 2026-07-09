@@ -1,7 +1,7 @@
 ---
 title: "Tirth K. Patel"
 description: "Tirth K. Patel is a Mid-career Unknown researcher at University of Michigan in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.187336
+date: 2026-07-10T01:07:47.276255
 url: "/cdr-researcher-census/researchers/tirth-k-patel-a5112106/"
 layout: "researcher"
 hiddenInHomeList: true

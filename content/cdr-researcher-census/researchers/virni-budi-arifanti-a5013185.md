@@ -1,7 +1,7 @@
 ---
 title: "Virni Budi Arifanti"
 description: "Virni Budi Arifanti is a Mid-career Soil Carbon researcher at National Research and Innovation Agency in ID. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.176042
+date: 2026-07-10T01:07:47.265017
 url: "/cdr-researcher-census/researchers/virni-budi-arifanti-a5013185/"
 layout: "researcher"
 hiddenInHomeList: true

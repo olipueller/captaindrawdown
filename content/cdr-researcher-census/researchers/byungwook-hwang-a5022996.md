@@ -1,7 +1,7 @@
 ---
 title: "Byungwook Hwang"
 description: "Byungwook Hwang is a Mid-career DAC researcher at Korea Institute of Energy Research in KR. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.097641
+date: 2026-07-10T01:07:48.097340
 url: "/cdr-researcher-census/researchers/byungwook-hwang-a5022996/"
 layout: "researcher"
 hiddenInHomeList: true

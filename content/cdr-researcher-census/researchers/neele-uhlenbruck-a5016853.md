@@ -1,7 +1,7 @@
 ---
 title: "Neele Uhlenbruck"
 description: "Neele Uhlenbruck is a Mid-career General CDR researcher at Karlsruhe Institute of Technology in DE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.805609
+date: 2026-07-10T01:07:48.744133
 url: "/cdr-researcher-census/researchers/neele-uhlenbruck-a5016853/"
 layout: "researcher"
 hiddenInHomeList: true

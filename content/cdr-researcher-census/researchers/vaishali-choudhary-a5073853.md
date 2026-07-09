@@ -1,7 +1,7 @@
 ---
 title: "Vaishali Choudhary"
 description: "Vaishali Choudhary is a Mid-career Biochar researcher at MIT World Peace University in IN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.686799
+date: 2026-07-10T01:07:47.743044
 url: "/cdr-researcher-census/researchers/vaishali-choudhary-a5073853/"
 layout: "researcher"
 hiddenInHomeList: true

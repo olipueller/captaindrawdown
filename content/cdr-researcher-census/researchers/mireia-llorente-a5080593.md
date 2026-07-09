@@ -1,7 +1,7 @@
 ---
 title: "Mireia Llorente"
 description: "Mireia Llorente is a Senior General CDR researcher at Universidad de Extremadura in ES. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.491905
+date: 2026-07-10T01:07:47.562509
 url: "/cdr-researcher-census/researchers/mireia-llorente-a5080593/"
 layout: "researcher"
 hiddenInHomeList: true

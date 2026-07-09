@@ -1,7 +1,7 @@
 ---
 title: "Hao-Ting Chang"
 description: "Hao-Ting Chang is a Mid-career Unknown researcher at National Cheng Kung University in TW. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.443923
+date: 2026-07-10T01:07:48.433681
 url: "/cdr-researcher-census/researchers/hao-ting-chang-a5087978/"
 layout: "researcher"
 hiddenInHomeList: true

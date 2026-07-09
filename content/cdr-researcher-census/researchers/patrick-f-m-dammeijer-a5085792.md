@@ -1,7 +1,7 @@
 ---
 title: "Patrick F. M. Dammeijer"
 description: "Patrick F. M. Dammeijer is a Senior Unknown researcher at VieCuri Medisch Centrum in NL. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.859783
+date: 2026-07-10T01:07:48.789785
 url: "/cdr-researcher-census/researchers/patrick-f-m-dammeijer-a5085792/"
 layout: "researcher"
 hiddenInHomeList: true

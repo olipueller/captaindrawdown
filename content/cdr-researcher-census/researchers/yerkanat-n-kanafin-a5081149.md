@@ -1,7 +1,7 @@
 ---
 title: "Yerkanat N. Kanafin"
 description: "Yerkanat N. Kanafin is a Mid-career Biochar researcher at L. N. Gumilyov Eurasian National University in KZ. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.984663
+date: 2026-07-10T01:07:47.993918
 url: "/cdr-researcher-census/researchers/yerkanat-n-kanafin-a5081149/"
 layout: "researcher"
 hiddenInHomeList: true

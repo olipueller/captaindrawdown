@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Giraldo"
 description: "Stephanie Giraldo is a Mid-career Unknown researcher at Universidad de Medellín in CO. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.855065
+date: 2026-07-10T01:07:47.890626
 url: "/cdr-researcher-census/researchers/stephanie-giraldo-a5036896/"
 layout: "researcher"
 hiddenInHomeList: true

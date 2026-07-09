@@ -1,7 +1,7 @@
 ---
 title: "Wenxuan Liu"
 description: "Wenxuan Liu is a Senior Soil Carbon researcher at Hebei Medical University in CN. With 173 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.964971
+date: 2026-07-10T01:07:47.005968
 url: "/cdr-researcher-census/researchers/wenxuan-liu-a5024417/"
 layout: "researcher"
 hiddenInHomeList: true

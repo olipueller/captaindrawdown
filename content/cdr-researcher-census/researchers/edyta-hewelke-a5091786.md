@@ -1,7 +1,7 @@
 ---
 title: "Edyta Hewelke"
 description: "Edyta Hewelke is a Mid-career Soil Carbon researcher at Warsaw University of Life Sciences in PL. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.711335
+date: 2026-07-10T01:07:47.765741
 url: "/cdr-researcher-census/researchers/edyta-hewelke-a5091786/"
 layout: "researcher"
 hiddenInHomeList: true

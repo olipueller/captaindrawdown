@@ -1,7 +1,7 @@
 ---
 title: "Xiaolian Jin"
 description: "Xiaolian Jin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.743856
+date: 2026-07-10T01:07:47.795989
 url: "/cdr-researcher-census/researchers/xiaolian-jin-a5009532/"
 layout: "researcher"
 hiddenInHomeList: true

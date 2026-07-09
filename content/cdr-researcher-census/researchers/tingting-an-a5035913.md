@@ -1,7 +1,7 @@
 ---
 title: "Tingting An"
 description: "Tingting An is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 64 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.098194
+date: 2026-07-10T01:07:47.181677
 url: "/cdr-researcher-census/researchers/tingting-an-a5035913/"
 layout: "researcher"
 hiddenInHomeList: true

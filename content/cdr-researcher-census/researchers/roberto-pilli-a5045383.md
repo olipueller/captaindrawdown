@@ -1,7 +1,7 @@
 ---
 title: "Roberto Pilli"
 description: "Roberto Pilli is a Senior General CDR researcher at Freelancer in IT. With 106 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.044541
+date: 2026-07-10T01:07:47.117966
 url: "/cdr-researcher-census/researchers/roberto-pilli-a5045383/"
 layout: "researcher"
 hiddenInHomeList: true

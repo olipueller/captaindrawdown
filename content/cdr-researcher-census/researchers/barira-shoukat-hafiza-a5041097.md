@@ -1,7 +1,7 @@
 ---
 title: "Barira Shoukat Hafiza"
 description: "Barira Shoukat Hafiza is a Mid-career Soil Carbon researcher at International Atomic Energy Agency in AT. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.673736
+date: 2026-07-10T01:07:48.629603
 url: "/cdr-researcher-census/researchers/barira-shoukat-hafiza-a5041097/"
 layout: "researcher"
 hiddenInHomeList: true

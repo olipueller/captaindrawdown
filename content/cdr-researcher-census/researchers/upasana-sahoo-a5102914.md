@@ -1,7 +1,7 @@
 ---
 title: "Upasana Sahoo"
 description: "Upasana Sahoo is a Mid-career General CDR researcher at Centurion University of Technology and Management in IN. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.595008
+date: 2026-07-10T01:07:48.559212
 url: "/cdr-researcher-census/researchers/upasana-sahoo-a5102914/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sherif Hegazy"
 description: "Sherif Hegazy is a Mid-career Biochar researcher at University of Oulu in FI. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.010100
+date: 2026-07-10T01:07:48.018261
 url: "/cdr-researcher-census/researchers/sherif-hegazy-a5092398/"
 layout: "researcher"
 hiddenInHomeList: true

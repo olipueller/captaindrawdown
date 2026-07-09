@@ -1,7 +1,7 @@
 ---
 title: "Djamila Bouazza"
 description: "Djamila Bouazza is a Senior Unknown researcher at Université Oran 1 Ahmed Ben Bella in DZ. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.407695
+date: 2026-07-10T01:07:48.399245
 url: "/cdr-researcher-census/researchers/djamila-bouazza-a5045840/"
 layout: "researcher"
 hiddenInHomeList: true

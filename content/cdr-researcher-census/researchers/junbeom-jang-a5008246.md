@@ -1,7 +1,7 @@
 ---
 title: "Junbeom Jang"
 description: "Junbeom Jang is a Mid-career Unknown researcher at Ulsan National Institute of Science and Technology in KR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.665886
+date: 2026-07-10T01:07:48.622285
 url: "/cdr-researcher-census/researchers/junbeom-jang-a5008246/"
 layout: "researcher"
 hiddenInHomeList: true

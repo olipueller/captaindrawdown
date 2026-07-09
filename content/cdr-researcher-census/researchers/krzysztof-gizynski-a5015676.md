@@ -1,7 +1,7 @@
 ---
 title: "Krzysztof Gizynski"
 description: "Krzysztof Gizynski is a Senior Unknown researcher at Engineering and Physical Sciences Research Council in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.111426
+date: 2026-07-10T01:07:49.018312
 url: "/cdr-researcher-census/researchers/krzysztof-gizynski-a5015676/"
 layout: "researcher"
 hiddenInHomeList: true

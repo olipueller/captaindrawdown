@@ -1,7 +1,7 @@
 ---
 title: "Gbenga Moses Olayanju"
 description: "Gbenga Moses Olayanju is a Mid-career Unknown researcher at Federal University of Technology in NG. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.154323
+date: 2026-07-10T01:07:48.173771
 url: "/cdr-researcher-census/researchers/gbenga-moses-olayanju-a5010003/"
 layout: "researcher"
 hiddenInHomeList: true

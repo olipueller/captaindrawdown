@@ -1,7 +1,7 @@
 ---
 title: "César A. Bernal"
 description: "César A. Bernal is an Early-career Ocean CDR researcher at United Nations Economic Commission for Latin America and the Caribbean in CL. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.995700
+date: 2026-07-10T01:07:48.913945
 url: "/cdr-researcher-census/researchers/cesar-a-bernal-a5073051/"
 layout: "researcher"
 hiddenInHomeList: true

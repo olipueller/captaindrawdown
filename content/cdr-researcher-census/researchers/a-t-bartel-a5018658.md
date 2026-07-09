@@ -1,7 +1,7 @@
 ---
 title: "A. T. Bartel"
 description: "A. T. Bartel is a Senior Soil Carbon researcher at BUND Naturschutz in DE. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.123490
+date: 2026-07-10T01:07:49.028848
 url: "/cdr-researcher-census/researchers/a-t-bartel-a5018658/"
 layout: "researcher"
 hiddenInHomeList: true

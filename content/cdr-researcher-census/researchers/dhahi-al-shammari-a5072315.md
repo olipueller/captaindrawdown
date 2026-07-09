@@ -1,7 +1,7 @@
 ---
 title: "Dhahi Al-Shammari"
 description: "Dhahi Al-Shammari is a Mid-career Unknown researcher at Sydney Environment Institute, University of Sydney in AU. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.477360
+date: 2026-07-10T01:07:48.464530
 url: "/cdr-researcher-census/researchers/dhahi-al-shammari-a5072315/"
 layout: "researcher"
 hiddenInHomeList: true

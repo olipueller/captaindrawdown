@@ -1,7 +1,7 @@
 ---
 title: "Ruihong Zhao"
 description: "Ruihong Zhao is a Senior Unknown researcher at Hebei University of Science and Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.371395
+date: 2026-07-10T01:07:48.368077
 url: "/cdr-researcher-census/researchers/ruihong-zhao-a5100934/"
 layout: "researcher"
 hiddenInHomeList: true

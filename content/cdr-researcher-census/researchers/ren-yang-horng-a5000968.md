@@ -1,7 +1,7 @@
 ---
 title: "Ren-Yang Horng"
 description: "Ren-Yang Horng is a Senior Unknown researcher at Industrial Technology Research Institute in TW. With 4 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.786859
+date: 2026-07-10T01:07:48.728451
 url: "/cdr-researcher-census/researchers/ren-yang-horng-a5000968/"
 layout: "researcher"
 hiddenInHomeList: true

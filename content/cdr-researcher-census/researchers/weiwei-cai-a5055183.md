@@ -1,7 +1,7 @@
 ---
 title: "Weiwei Cai"
 description: "Weiwei Cai is a Senior Unknown researcher at Beijing Institute of Technology in CN. With 34 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.143001
+date: 2026-07-10T01:07:47.231864
 url: "/cdr-researcher-census/researchers/weiwei-cai-a5055183/"
 layout: "researcher"
 hiddenInHomeList: true

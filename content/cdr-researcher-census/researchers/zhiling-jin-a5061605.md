@@ -1,7 +1,7 @@
 ---
 title: "Zhiling Jin"
 description: "Zhiling Jin is a Mid-career Unknown researcher at Xidian University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.221825
+date: 2026-07-10T01:07:48.232545
 url: "/cdr-researcher-census/researchers/zhiling-jin-a5061605/"
 layout: "researcher"
 hiddenInHomeList: true

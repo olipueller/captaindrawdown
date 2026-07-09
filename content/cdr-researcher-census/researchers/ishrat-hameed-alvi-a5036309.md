@@ -1,7 +1,7 @@
 ---
 title: "Ishrat Hameed Alvi"
 description: "Ishrat Hameed Alvi is a Mid-career Soil Carbon researcher at Institute of Rock and Soil Mechanics in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.557813
+date: 2026-07-10T01:07:48.537909
 url: "/cdr-researcher-census/researchers/ishrat-hameed-alvi-a5036309/"
 layout: "researcher"
 hiddenInHomeList: true

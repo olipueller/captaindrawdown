@@ -1,7 +1,7 @@
 ---
 title: "Daphné Freudiger"
 description: "Daphné Freudiger is a Mid-career Unknown researcher at University of Freiburg in DE. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.111776
+date: 2026-07-10T01:07:48.137335
 url: "/cdr-researcher-census/researchers/daphne-freudiger-a5045724/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhangyi Hu"
 description: "Zhangyi Hu is a Mid-career Biochar researcher at Anhui University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.947994
+date: 2026-07-10T01:07:48.869850
 url: "/cdr-researcher-census/researchers/zhangyi-hu-a5102577/"
 layout: "researcher"
 hiddenInHomeList: true

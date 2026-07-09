@@ -1,7 +1,7 @@
 ---
 title: "Matthew Chekwube Enebe"
 description: "Matthew Chekwube Enebe is a Mid-career Soil Carbon researcher at North-West University in ZA. With 33 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.192357
+date: 2026-07-10T01:07:47.281518
 url: "/cdr-researcher-census/researchers/matthew-chekwube-enebe-a5023408/"
 layout: "researcher"
 hiddenInHomeList: true

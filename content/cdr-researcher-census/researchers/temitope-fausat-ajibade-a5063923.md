@@ -1,7 +1,7 @@
 ---
 title: "Temitope Fausat Ajibade"
 description: "Temitope Fausat Ajibade is a Senior General CDR researcher at Federal University of Technology Akure School of Engineering and Engineering Technology in NG. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.188055
+date: 2026-07-10T01:07:47.277172
 url: "/cdr-researcher-census/researchers/temitope-fausat-ajibade-a5063923/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zoltan Jozefik"
 description: "Zoltan Jozefik is a Mid-career Unknown researcher at Edwards Air Force Base in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.183749
+date: 2026-07-10T01:07:49.098053
 url: "/cdr-researcher-census/researchers/zoltan-jozefik-a5056160/"
 layout: "researcher"
 hiddenInHomeList: true

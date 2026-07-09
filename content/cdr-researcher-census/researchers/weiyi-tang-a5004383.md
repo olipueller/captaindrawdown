@@ -1,7 +1,7 @@
 ---
 title: "Weiyi Tang"
 description: "Weiyi Tang is a Senior Unknown researcher at University of South Florida in US. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.151395
+date: 2026-07-10T01:07:47.239541
 url: "/cdr-researcher-census/researchers/weiyi-tang-a5004383/"
 layout: "researcher"
 hiddenInHomeList: true

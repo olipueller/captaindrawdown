@@ -1,7 +1,7 @@
 ---
 title: "Jožica Gričar"
 description: "Jožica Gričar is a Senior Unknown researcher at Slovenian Forestry Institute in SI. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.350051
+date: 2026-07-10T01:07:47.432483
 url: "/cdr-researcher-census/researchers/jozica-gricar-a5107908/"
 layout: "researcher"
 hiddenInHomeList: true

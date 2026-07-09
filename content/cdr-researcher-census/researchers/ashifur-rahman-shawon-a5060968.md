@@ -1,7 +1,7 @@
 ---
 title: "Ashifur Rahman Shawon"
 description: "Ashifur Rahman Shawon is a Mid-career Soil Carbon researcher at Julius Kühn-Institut in DE. With 44 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.006239
+date: 2026-07-10T01:07:48.923766
 url: "/cdr-researcher-census/researchers/ashifur-rahman-shawon-a5060968/"
 layout: "researcher"
 hiddenInHomeList: true

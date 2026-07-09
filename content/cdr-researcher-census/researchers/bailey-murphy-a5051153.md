@@ -1,7 +1,7 @@
 ---
 title: "Bailey Murphy"
 description: "Bailey Murphy is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.560618
+date: 2026-07-10T01:07:48.540475
 url: "/cdr-researcher-census/researchers/bailey-murphy-a5051153/"
 layout: "researcher"
 hiddenInHomeList: true

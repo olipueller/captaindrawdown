@@ -1,7 +1,7 @@
 ---
 title: "Ayoub Belcaid"
 description: "Ayoub Belcaid is a Mid-career Biochar researcher at Université Hassan 1er in MA. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.827987
+date: 2026-07-10T01:07:48.762005
 url: "/cdr-researcher-census/researchers/ayoub-belcaid-a5038852/"
 layout: "researcher"
 hiddenInHomeList: true

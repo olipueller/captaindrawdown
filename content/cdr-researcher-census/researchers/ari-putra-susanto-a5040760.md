@@ -1,7 +1,7 @@
 ---
 title: "Ari Putra Susanto"
 description: "Ari Putra Susanto is a Mid-career Soil Carbon researcher at APLA Health in US. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.506019
+date: 2026-07-10T01:07:48.491407
 url: "/cdr-researcher-census/researchers/ari-putra-susanto-a5040760/"
 layout: "researcher"
 hiddenInHomeList: true

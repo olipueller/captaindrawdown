@@ -1,7 +1,7 @@
 ---
 title: "Yunhui Lang"
 description: "Yunhui Lang is a Senior Unknown researcher at Ontario Institute for Cancer Research in CA. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.811693
+date: 2026-07-10T01:07:47.858239
 url: "/cdr-researcher-census/researchers/yunhui-lang-a5060019/"
 layout: "researcher"
 hiddenInHomeList: true

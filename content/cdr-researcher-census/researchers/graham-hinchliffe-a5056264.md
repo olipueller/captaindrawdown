@@ -1,7 +1,7 @@
 ---
 title: "Graham Hinchliffe"
 description: "Graham Hinchliffe is a Mid-career General CDR researcher at Auckland University of Technology in NZ. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.006460
+date: 2026-07-10T01:07:48.923949
 url: "/cdr-researcher-census/researchers/graham-hinchliffe-a5056264/"
 layout: "researcher"
 hiddenInHomeList: true

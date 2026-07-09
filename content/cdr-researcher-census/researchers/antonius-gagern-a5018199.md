@@ -1,7 +1,7 @@
 ---
 title: "Antonius Gagern"
 description: "Antonius Gagern is a Mid-career Ocean CDR researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.103554
+date: 2026-07-10T01:07:49.011769
 url: "/cdr-researcher-census/researchers/antonius-gagern-a5018199/"
 layout: "researcher"
 hiddenInHomeList: true

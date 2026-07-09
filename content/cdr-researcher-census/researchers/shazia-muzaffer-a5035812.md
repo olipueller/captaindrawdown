@@ -1,7 +1,7 @@
 ---
 title: "Shazia Muzaffer"
 description: "Shazia Muzaffer is a Mid-career Unknown researcher at Chalmers University of Technology in SE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.207214
+date: 2026-07-10T01:07:49.119713
 url: "/cdr-researcher-census/researchers/shazia-muzaffer-a5035812/"
 layout: "researcher"
 hiddenInHomeList: true

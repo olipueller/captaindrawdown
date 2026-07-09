@@ -1,7 +1,7 @@
 ---
 title: "Xian Cheng"
 description: "Xian Cheng is an Early-career Unknown researcher at North China University of Water Resources and Electric Power in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.522627
+date: 2026-07-10T01:07:48.505451
 url: "/cdr-researcher-census/researchers/xian-cheng-a5058590/"
 layout: "researcher"
 hiddenInHomeList: true

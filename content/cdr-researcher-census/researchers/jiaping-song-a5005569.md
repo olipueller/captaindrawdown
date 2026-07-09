@@ -1,7 +1,7 @@
 ---
 title: "Jiaping Song"
 description: "Jiaping Song is a Mid-career Soil Carbon researcher at Anhui University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.321435
+date: 2026-07-10T01:07:48.322472
 url: "/cdr-researcher-census/researchers/jiaping-song-a5005569/"
 layout: "researcher"
 hiddenInHomeList: true

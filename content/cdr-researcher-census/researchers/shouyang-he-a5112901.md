@@ -1,7 +1,7 @@
 ---
 title: "Shouyang He"
 description: "Shouyang He is a Senior Soil Carbon researcher at Ministry of Education in RO. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.360441
+date: 2026-07-10T01:07:48.358690
 url: "/cdr-researcher-census/researchers/shouyang-he-a5112901/"
 layout: "researcher"
 hiddenInHomeList: true

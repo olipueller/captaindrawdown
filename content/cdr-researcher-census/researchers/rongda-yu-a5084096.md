@@ -1,7 +1,7 @@
 ---
 title: "Rongda Yu"
 description: "Rongda Yu is a Mid-career Soil Carbon researcher at Guangzhou Institute of Geochemistry in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.013922
+date: 2026-07-10T01:07:48.930692
 url: "/cdr-researcher-census/researchers/rongda-yu-a5084096/"
 layout: "researcher"
 hiddenInHomeList: true

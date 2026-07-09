@@ -1,7 +1,7 @@
 ---
 title: "Son A. Hoang"
 description: "Son A. Hoang is a Mid-career Soil Carbon researcher at The University of Newcastle School of Engineering in AU. With 31 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.992678
+date: 2026-07-10T01:07:47.049654
 url: "/cdr-researcher-census/researchers/son-a-hoang-a5019055/"
 layout: "researcher"
 hiddenInHomeList: true

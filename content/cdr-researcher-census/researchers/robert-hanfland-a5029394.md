@@ -1,7 +1,7 @@
 ---
 title: "Robert Hanfland"
 description: "Robert Hanfland is a Mid-career Unknown researcher at Johannes Gutenberg University Mainz in DE. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.807940
+date: 2026-07-10T01:07:48.745989
 url: "/cdr-researcher-census/researchers/robert-hanfland-a5029394/"
 layout: "researcher"
 hiddenInHomeList: true

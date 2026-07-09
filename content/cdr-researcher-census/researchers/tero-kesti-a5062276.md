@@ -1,7 +1,7 @@
 ---
 title: "Tero Kesti"
 description: "Tero Kesti is a Senior Unknown researcher. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.464409
+date: 2026-07-10T01:07:47.538086
 url: "/cdr-researcher-census/researchers/tero-kesti-a5062276/"
 layout: "researcher"
 hiddenInHomeList: true

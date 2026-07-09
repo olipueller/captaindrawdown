@@ -1,7 +1,7 @@
 ---
 title: "Tim Repke"
 description: "Tim Repke is a Mid-career General CDR researcher at The London College in GB. With 53 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.694573
+date: 2026-07-10T01:07:47.750414
 url: "/cdr-researcher-census/researchers/tim-repke-a5042348/"
 layout: "researcher"
 hiddenInHomeList: true

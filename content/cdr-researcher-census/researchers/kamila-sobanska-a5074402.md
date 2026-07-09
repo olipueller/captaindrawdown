@@ -1,7 +1,7 @@
 ---
 title: "Kamila Sobańska"
 description: "Kamila Sobańska is a Mid-career Unknown researcher at Jagiellonian University in PL. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.615609
+date: 2026-07-10T01:07:47.676692
 url: "/cdr-researcher-census/researchers/kamila-sobanska-a5074402/"
 layout: "researcher"
 hiddenInHomeList: true

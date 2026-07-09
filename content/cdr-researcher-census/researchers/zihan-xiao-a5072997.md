@@ -1,7 +1,7 @@
 ---
 title: "Zihan Xiao"
 description: "Zihan Xiao is a Mid-career Unknown researcher at Northwestern Polytechnic in CA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.065913
+date: 2026-07-10T01:07:48.068647
 url: "/cdr-researcher-census/researchers/zihan-xiao-a5072997/"
 layout: "researcher"
 hiddenInHomeList: true

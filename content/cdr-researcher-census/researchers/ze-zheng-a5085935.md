@@ -1,7 +1,7 @@
 ---
 title: "Ze Zheng"
 description: "Ze Zheng is a Mid-career Unknown researcher at Huazhong University of Science and Technology in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.782834
+date: 2026-07-10T01:07:48.725332
 url: "/cdr-researcher-census/researchers/ze-zheng-a5085935/"
 layout: "researcher"
 hiddenInHomeList: true

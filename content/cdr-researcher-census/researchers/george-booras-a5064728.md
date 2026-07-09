@@ -1,7 +1,7 @@
 ---
 title: "George Booras"
 description: "George Booras is a Senior BECCS researcher at Electric Power Research Institute in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.715739
+date: 2026-07-10T01:07:47.769534
 url: "/cdr-researcher-census/researchers/george-booras-a5064728/"
 layout: "researcher"
 hiddenInHomeList: true

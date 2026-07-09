@@ -1,7 +1,7 @@
 ---
 title: "Yuechuan Niu"
 description: "Yuechuan Niu is a Mid-career Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.188531
+date: 2026-07-10T01:07:48.203356
 url: "/cdr-researcher-census/researchers/yuechuan-niu-a5079765/"
 layout: "researcher"
 hiddenInHomeList: true

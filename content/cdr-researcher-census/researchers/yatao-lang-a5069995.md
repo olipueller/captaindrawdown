@@ -1,7 +1,7 @@
 ---
 title: "Yatao Lang"
 description: "Yatao Lang is a Mid-career Unknown researcher at Eastern Institute of Technology in NZ. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.201362
+date: 2026-07-10T01:07:48.214757
 url: "/cdr-researcher-census/researchers/yatao-lang-a5069995/"
 layout: "researcher"
 hiddenInHomeList: true

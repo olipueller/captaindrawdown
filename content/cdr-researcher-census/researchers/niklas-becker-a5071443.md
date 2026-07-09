@@ -1,7 +1,7 @@
 ---
 title: "Niklas Becker"
 description: "Niklas Becker is a Senior Unknown researcher at Deutscher Wetterdienst in DE. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.423340
+date: 2026-07-10T01:07:48.413777
 url: "/cdr-researcher-census/researchers/niklas-becker-a5071443/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ying Bai"
 description: "Ying Bai is an Early-career Unknown researcher at Chinese Academy of Fishery Sciences in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.140411
+date: 2026-07-10T01:07:48.161578
 url: "/cdr-researcher-census/researchers/ying-bai-a5059850/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jing Liu"
 description: "Jing Liu is a Senior Unknown researcher at Tianjin University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.585676
+date: 2026-07-10T01:07:47.649091
 url: "/cdr-researcher-census/researchers/jing-liu-a5100374/"
 layout: "researcher"
 hiddenInHomeList: true

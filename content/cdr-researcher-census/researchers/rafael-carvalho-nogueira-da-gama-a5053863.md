@@ -1,7 +1,7 @@
 ---
 title: "Rafael Carvalho Nogueira da Gama"
 description: "Rafael Carvalho Nogueira da Gama is a Mid-career Unknown researcher at Universidade Federal de Viçosa in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.556244
+date: 2026-07-10T01:07:48.536400
 url: "/cdr-researcher-census/researchers/rafael-carvalho-nogueira-da-gama-a5053863/"
 layout: "researcher"
 hiddenInHomeList: true

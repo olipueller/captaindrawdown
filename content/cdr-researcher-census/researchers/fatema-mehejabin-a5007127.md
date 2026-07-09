@@ -1,7 +1,7 @@
 ---
 title: "Fatema Mehejabin"
 description: "Fatema Mehejabin is a Mid-career Biochar researcher at Asian University for Women in BD. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.520662
+date: 2026-07-10T01:07:47.587668
 url: "/cdr-researcher-census/researchers/fatema-mehejabin-a5007127/"
 layout: "researcher"
 hiddenInHomeList: true

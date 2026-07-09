@@ -1,7 +1,7 @@
 ---
 title: "Salima Attouti"
 description: "Salima Attouti is a Mid-career Unknown researcher at Université de Mostaganem in DZ. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.505703
+date: 2026-07-10T01:07:48.491144
 url: "/cdr-researcher-census/researchers/salima-attouti-a5072723/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Piumi Amasha Withana"
 description: "Piumi Amasha Withana is a Mid-career Biochar researcher at University of Vermont in US. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.432626
+date: 2026-07-10T01:07:47.510153
 url: "/cdr-researcher-census/researchers/piumi-amasha-withana-a5006624/"
 layout: "researcher"
 hiddenInHomeList: true

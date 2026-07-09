@@ -1,7 +1,7 @@
 ---
 title: "Marcileia Zanatta"
 description: "Marcileia Zanatta is a Senior General CDR researcher at Universitat Jaume I in ES. With 65 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.146592
+date: 2026-07-10T01:07:47.235481
 url: "/cdr-researcher-census/researchers/marcileia-zanatta-a5014147/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thaís González"
 description: "Thaís González is a Senior Unknown researcher at University of Concepción in CL. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.463346
+date: 2026-07-10T01:07:48.451198
 url: "/cdr-researcher-census/researchers/thais-gonzalez-a5023197/"
 layout: "researcher"
 hiddenInHomeList: true

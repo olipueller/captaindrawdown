@@ -1,7 +1,7 @@
 ---
 title: "Selvakumar Periyasamy"
 description: "Selvakumar Periyasamy is a Senior Biochar researcher at Adama Science and Technology University in ET. With 98 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.995526
+date: 2026-07-10T01:07:47.054280
 url: "/cdr-researcher-census/researchers/selvakumar-periyasamy-a5019480/"
 layout: "researcher"
 hiddenInHomeList: true

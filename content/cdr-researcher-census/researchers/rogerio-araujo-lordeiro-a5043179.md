@@ -1,7 +1,7 @@
 ---
 title: "Rogério Araújo Lordeiro"
 description: "Rogério Araújo Lordeiro is a Mid-career Unknown researcher at Federal Police of Brazil in BR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.196667
+date: 2026-07-10T01:07:48.209996
 url: "/cdr-researcher-census/researchers/rogerio-araujo-lordeiro-a5043179/"
 layout: "researcher"
 hiddenInHomeList: true

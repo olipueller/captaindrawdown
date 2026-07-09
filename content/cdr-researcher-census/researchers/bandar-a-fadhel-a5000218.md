@@ -1,7 +1,7 @@
 ---
 title: "Bandar A. Fadhel"
 description: "Bandar A. Fadhel is a Senior General CDR researcher at Saudi Aramco (United States) in US. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.184114
+date: 2026-07-10T01:07:47.273163
 url: "/cdr-researcher-census/researchers/bandar-a-fadhel-a5000218/"
 layout: "researcher"
 hiddenInHomeList: true

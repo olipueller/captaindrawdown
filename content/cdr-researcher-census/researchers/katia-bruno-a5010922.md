@@ -1,7 +1,7 @@
 ---
 title: "Katia Bruno"
 description: "Katia Bruno is a Senior General CDR researcher at Azienda Universitaria Ospedaliera Consorziale - Policlinico Bari in IT. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.442743
+date: 2026-07-10T01:07:48.432422
 url: "/cdr-researcher-census/researchers/katia-bruno-a5010922/"
 layout: "researcher"
 hiddenInHomeList: true

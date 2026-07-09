@@ -1,7 +1,7 @@
 ---
 title: "Liu Yang"
 description: "Liu Yang is a Senior DAC researcher at Tiangong University in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.279167
+date: 2026-07-10T01:07:47.361349
 url: "/cdr-researcher-census/researchers/liu-yang-a5103888/"
 layout: "researcher"
 hiddenInHomeList: true

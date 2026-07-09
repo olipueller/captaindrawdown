@@ -1,7 +1,7 @@
 ---
 title: "Alzouma Mayaki Zoubeirou"
 description: "Alzouma Mayaki Zoubeirou is a Mid-career Soil Carbon researcher at Université Abdou Moumouni in NE. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.924793
+date: 2026-07-10T01:07:48.848325
 url: "/cdr-researcher-census/researchers/alzouma-mayaki-zoubeirou-a5080788/"
 layout: "researcher"
 hiddenInHomeList: true

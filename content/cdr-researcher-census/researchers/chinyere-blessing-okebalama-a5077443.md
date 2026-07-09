@@ -1,7 +1,7 @@
 ---
 title: "Chinyere Blessing Okebalama"
 description: "Chinyere Blessing Okebalama is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.026990
+date: 2026-07-10T01:07:48.034649
 url: "/cdr-researcher-census/researchers/chinyere-blessing-okebalama-a5077443/"
 layout: "researcher"
 hiddenInHomeList: true

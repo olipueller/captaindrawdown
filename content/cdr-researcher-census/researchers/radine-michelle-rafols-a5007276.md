@@ -1,7 +1,7 @@
 ---
 title: "Radine Michelle Rafols"
 description: "Radine Michelle Rafols is a Mid-career General CDR researcher at Center for Global Development in US. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.193067
+date: 2026-07-10T01:07:49.106720
 url: "/cdr-researcher-census/researchers/radine-michelle-rafols-a5007276/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Longfei Hui"
 description: "Longfei Hui is a Senior Unknown researcher at Modern Electron (United States) in US. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.934739
+date: 2026-07-10T01:07:47.947543
 url: "/cdr-researcher-census/researchers/longfei-hui-a5028991/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shu‐Yin Chang"
 description: "Shu‐Yin Chang is a Mid-career Unknown researcher at Chang Gung University in TW. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.170547
+date: 2026-07-10T01:07:49.060674
 url: "/cdr-researcher-census/researchers/shuyin-chang-a5051463/"
 layout: "researcher"
 hiddenInHomeList: true

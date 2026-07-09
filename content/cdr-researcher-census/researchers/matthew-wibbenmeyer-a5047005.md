@@ -1,7 +1,7 @@
 ---
 title: "Matthew Wibbenmeyer"
 description: "Matthew Wibbenmeyer is a Mid-career General CDR researcher at University of Alaska Anchorage in US. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.663337
+date: 2026-07-10T01:07:47.720709
 url: "/cdr-researcher-census/researchers/matthew-wibbenmeyer-a5047005/"
 layout: "researcher"
 hiddenInHomeList: true

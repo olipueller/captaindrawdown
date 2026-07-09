@@ -1,7 +1,7 @@
 ---
 title: "Matthew Whelband"
 description: "Matthew Whelband is a Mid-career Unknown researcher at University of East Anglia in GB. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.629787
+date: 2026-07-10T01:07:47.689288
 url: "/cdr-researcher-census/researchers/matthew-whelband-a5025286/"
 layout: "researcher"
 hiddenInHomeList: true

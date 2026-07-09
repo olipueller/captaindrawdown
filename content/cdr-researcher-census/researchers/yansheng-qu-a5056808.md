@@ -1,7 +1,7 @@
 ---
 title: "Yansheng Qu"
 description: "Yansheng Qu is a Mid-career Unknown researcher at Sinopec (China) in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.405420
+date: 2026-07-10T01:07:48.397208
 url: "/cdr-researcher-census/researchers/yansheng-qu-a5056808/"
 layout: "researcher"
 hiddenInHomeList: true

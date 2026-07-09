@@ -1,7 +1,7 @@
 ---
 title: "Chun Ngai Chan"
 description: "Chun Ngai Chan is a Mid-career Soil Carbon researcher at University of Lethbridge in CA. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.339354
+date: 2026-07-10T01:07:48.338920
 url: "/cdr-researcher-census/researchers/chun-ngai-chan-a5052011/"
 layout: "researcher"
 hiddenInHomeList: true

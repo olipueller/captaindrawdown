@@ -1,7 +1,7 @@
 ---
 title: "Alexander C. Forse"
 description: "Alexander C. Forse is an Eminent Ocean CDR researcher at University of Cambridge in GB. With 199 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.911599
+date: 2026-07-10T01:07:46.911037
 url: "/cdr-researcher-census/researchers/alexander-c-forse-a5005354/"
 layout: "researcher"
 hiddenInHomeList: true

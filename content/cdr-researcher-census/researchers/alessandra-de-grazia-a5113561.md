@@ -1,7 +1,7 @@
 ---
 title: "Alessandra De Grazia"
 description: "Alessandra De Grazia is a Mid-career Unknown researcher at Sapienza University of Rome in IT. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.955577
+date: 2026-07-10T01:07:48.877574
 url: "/cdr-researcher-census/researchers/alessandra-de-grazia-a5113561/"
 layout: "researcher"
 hiddenInHomeList: true

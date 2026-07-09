@@ -1,7 +1,7 @@
 ---
 title: "Kaibin Hu"
 description: "Kaibin Hu is a Mid-career Unknown researcher at Shanghai Jiao Tong University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.249830
+date: 2026-07-10T01:07:49.157180
 url: "/cdr-researcher-census/researchers/kaibin-hu-a5060992/"
 layout: "researcher"
 hiddenInHomeList: true

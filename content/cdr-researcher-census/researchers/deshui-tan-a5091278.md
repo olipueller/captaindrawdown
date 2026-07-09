@@ -1,7 +1,7 @@
 ---
 title: "Deshui Tan"
 description: "Deshui Tan is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.404167
+date: 2026-07-10T01:07:47.484333
 url: "/cdr-researcher-census/researchers/deshui-tan-a5091278/"
 layout: "researcher"
 hiddenInHomeList: true

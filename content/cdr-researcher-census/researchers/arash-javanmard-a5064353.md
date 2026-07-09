@@ -1,7 +1,7 @@
 ---
 title: "Arash Javanmard"
 description: "Arash Javanmard is a Mid-career Biochar researcher at University of Malaya in MY. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.313009
+date: 2026-07-10T01:07:48.315335
 url: "/cdr-researcher-census/researchers/arash-javanmard-a5064353/"
 layout: "researcher"
 hiddenInHomeList: true

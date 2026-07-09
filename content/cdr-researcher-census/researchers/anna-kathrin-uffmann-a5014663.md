@@ -1,7 +1,7 @@
 ---
 title: "Anna Kathrin Uffmann"
 description: "Anna Kathrin Uffmann is a Mid-career Unknown researcher at RWTH Aachen University in DE. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.968607
+date: 2026-07-10T01:07:47.979210
 url: "/cdr-researcher-census/researchers/anna-kathrin-uffmann-a5014663/"
 layout: "researcher"
 hiddenInHomeList: true

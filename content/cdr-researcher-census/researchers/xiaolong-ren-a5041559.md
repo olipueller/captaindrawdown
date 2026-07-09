@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Ren"
 description: "Xiaolong Ren is a Mid-career Soil Carbon researcher at Xi'an Polytechnic University in CN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.519658
+date: 2026-07-10T01:07:47.586915
 url: "/cdr-researcher-census/researchers/xiaolong-ren-a5041559/"
 layout: "researcher"
 hiddenInHomeList: true

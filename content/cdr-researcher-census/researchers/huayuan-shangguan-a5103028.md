@@ -1,7 +1,7 @@
 ---
 title: "Huayuan Shangguan"
 description: "Huayuan Shangguan is a Mid-career Soil Carbon researcher at Institute of Urban Environment in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.855850
+date: 2026-07-10T01:07:47.891370
 url: "/cdr-researcher-census/researchers/huayuan-shangguan-a5103028/"
 layout: "researcher"
 hiddenInHomeList: true

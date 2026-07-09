@@ -1,7 +1,7 @@
 ---
 title: "Andrea Moravcová"
 description: "Andrea Moravcová is an Early-career Soil Carbon researcher at Lund University in SE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.130634
+date: 2026-07-10T01:07:49.035115
 url: "/cdr-researcher-census/researchers/andrea-moravcova-a5040713/"
 layout: "researcher"
 hiddenInHomeList: true

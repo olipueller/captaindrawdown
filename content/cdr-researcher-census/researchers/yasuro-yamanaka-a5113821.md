@@ -1,7 +1,7 @@
 ---
 title: "Yasuro Yamanaka"
 description: "Yasuro Yamanaka is a Senior Unknown researcher at IHI Corporation (Czechia) in CZ. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.183570
+date: 2026-07-10T01:07:49.097841
 url: "/cdr-researcher-census/researchers/yasuro-yamanaka-a5113821/"
 layout: "researcher"
 hiddenInHomeList: true

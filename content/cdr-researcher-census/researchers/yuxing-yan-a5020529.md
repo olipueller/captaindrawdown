@@ -1,7 +1,7 @@
 ---
 title: "Yuxing Yan"
 description: "Yuxing Yan is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.987476
+date: 2026-07-10T01:07:48.906748
 url: "/cdr-researcher-census/researchers/yuxing-yan-a5020529/"
 layout: "researcher"
 hiddenInHomeList: true

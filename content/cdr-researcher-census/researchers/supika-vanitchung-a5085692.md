@@ -1,7 +1,7 @@
 ---
 title: "Supika Vanitchung"
 description: "Supika Vanitchung is a Senior Soil Carbon researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.032384
+date: 2026-07-10T01:07:48.947518
 url: "/cdr-researcher-census/researchers/supika-vanitchung-a5085692/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wei-Min Ma"
 description: "Wei-Min Ma is a Mid-career Unknown researcher at Shaanxi University of Technology in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.851872
+date: 2026-07-10T01:07:47.887544
 url: "/cdr-researcher-census/researchers/wei-min-ma-a5109434/"
 layout: "researcher"
 hiddenInHomeList: true

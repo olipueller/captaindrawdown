@@ -1,7 +1,7 @@
 ---
 title: "Peter Marčiš"
 description: "Peter Marčiš is a Mid-career Soil Carbon researcher at Technická univerzita vo Zvolene in SK. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.389428
+date: 2026-07-10T01:07:48.382894
 url: "/cdr-researcher-census/researchers/peter-marcis-a5079526/"
 layout: "researcher"
 hiddenInHomeList: true

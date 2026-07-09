@@ -1,7 +1,7 @@
 ---
 title: "Andrés C. Acosta"
 description: "Andrés C. Acosta is a Senior Biochar researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.789688
+date: 2026-07-10T01:07:48.730657
 url: "/cdr-researcher-census/researchers/andres-c-acosta-a5028092/"
 layout: "researcher"
 hiddenInHomeList: true

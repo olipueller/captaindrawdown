@@ -1,7 +1,7 @@
 ---
 title: "Johanna Buchner"
 description: "Johanna Buchner is a Mid-career Soil Carbon researcher at University of Wisconsin–Madison in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.330822
+date: 2026-07-10T01:07:47.412708
 url: "/cdr-researcher-census/researchers/johanna-buchner-a5053619/"
 layout: "researcher"
 hiddenInHomeList: true

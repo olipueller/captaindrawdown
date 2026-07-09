@@ -1,7 +1,7 @@
 ---
 title: "Tyler Felgenhauer"
 description: "Tyler Felgenhauer is a Senior General CDR researcher at Duke University in US. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.782001
+date: 2026-07-10T01:07:47.830575
 url: "/cdr-researcher-census/researchers/tyler-felgenhauer-a5019752/"
 layout: "researcher"
 hiddenInHomeList: true

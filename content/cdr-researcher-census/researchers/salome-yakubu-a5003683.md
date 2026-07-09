@@ -1,7 +1,7 @@
 ---
 title: "Salome Yakubu"
 description: "Salome Yakubu is a Mid-career Soil Carbon researcher at Henan University of Technology in CN. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.312568
+date: 2026-07-10T01:07:47.394753
 url: "/cdr-researcher-census/researchers/salome-yakubu-a5003683/"
 layout: "researcher"
 hiddenInHomeList: true

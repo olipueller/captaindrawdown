@@ -1,7 +1,7 @@
 ---
 title: "Shenggao Lu"
 description: "Shenggao Lu is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 122 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.951199
+date: 2026-07-10T01:07:46.984962
 url: "/cdr-researcher-census/researchers/shenggao-lu-a5014948/"
 layout: "researcher"
 hiddenInHomeList: true

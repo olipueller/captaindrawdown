@@ -1,7 +1,7 @@
 ---
 title: "Guihua Dong"
 description: "Guihua Dong is a Mid-career Unknown researcher at Ningbo University in CN. With 28 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.223367
+date: 2026-07-10T01:07:47.310556
 url: "/cdr-researcher-census/researchers/guihua-dong-a5064375/"
 layout: "researcher"
 hiddenInHomeList: true

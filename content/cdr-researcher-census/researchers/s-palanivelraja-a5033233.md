@@ -1,7 +1,7 @@
 ---
 title: "S. Palanivelraja"
 description: "S. Palanivelraja is a Mid-career Soil Carbon researcher at Annamalai University in IN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.344639
+date: 2026-07-10T01:07:48.343801
 url: "/cdr-researcher-census/researchers/s-palanivelraja-a5033233/"
 layout: "researcher"
 hiddenInHomeList: true

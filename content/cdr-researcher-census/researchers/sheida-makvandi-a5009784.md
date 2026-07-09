@@ -1,7 +1,7 @@
 ---
 title: "Sheida Makvandi"
 description: "Sheida Makvandi is a Mid-career Unknown researcher at Supply Chain Competence Center (Germany) in DE. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.390868
+date: 2026-07-10T01:07:47.471910
 url: "/cdr-researcher-census/researchers/sheida-makvandi-a5009784/"
 layout: "researcher"
 hiddenInHomeList: true

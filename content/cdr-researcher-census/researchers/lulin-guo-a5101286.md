@@ -1,7 +1,7 @@
 ---
 title: "Lulin Guo"
 description: "Lulin Guo is a Mid-career Unknown researcher at University of South China in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.363990
+date: 2026-07-10T01:07:48.361644
 url: "/cdr-researcher-census/researchers/lulin-guo-a5101286/"
 layout: "researcher"
 hiddenInHomeList: true

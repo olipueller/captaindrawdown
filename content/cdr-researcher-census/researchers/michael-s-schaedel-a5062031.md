@@ -1,7 +1,7 @@
 ---
 title: "Michael S. Schaedel"
 description: "Michael S. Schaedel is a Mid-career Soil Carbon researcher at The Nature Conservancy in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.152167
+date: 2026-07-10T01:07:48.171892
 url: "/cdr-researcher-census/researchers/michael-s-schaedel-a5062031/"
 layout: "researcher"
 hiddenInHomeList: true

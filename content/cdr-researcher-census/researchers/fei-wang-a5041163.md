@@ -1,7 +1,7 @@
 ---
 title: "Fei Wang"
 description: "Fei Wang is a Mid-career Unknown researcher at Shandong Academy of Agricultural Sciences in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.136438
+date: 2026-07-10T01:07:48.158275
 url: "/cdr-researcher-census/researchers/fei-wang-a5041163/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Piątkowska"
 description: "Aleksandra Piątkowska is an Early-career Unknown researcher at West Pomeranian University of Technology in Szczecin in PL. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.994666
+date: 2026-07-10T01:07:48.004125
 url: "/cdr-researcher-census/researchers/aleksandra-piatkowska-a5063921/"
 layout: "researcher"
 hiddenInHomeList: true

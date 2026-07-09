@@ -1,7 +1,7 @@
 ---
 title: "Maryam Beheshti Foroutani"
 description: "Maryam Beheshti Foroutani is a Mid-career Unknown researcher at Memorial University of Newfoundland in CA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.418101
+date: 2026-07-10T01:07:48.409048
 url: "/cdr-researcher-census/researchers/maryam-beheshti-foroutani-a5065103/"
 layout: "researcher"
 hiddenInHomeList: true

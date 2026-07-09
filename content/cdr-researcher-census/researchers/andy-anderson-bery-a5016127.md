@@ -1,7 +1,7 @@
 ---
 title: "Andy Anderson Bery"
 description: "Andy Anderson Bery is a Mid-career Unknown researcher at Universiti Sains Malaysia in MY. With 80 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.564967
+date: 2026-07-10T01:07:47.628603
 url: "/cdr-researcher-census/researchers/andy-anderson-bery-a5016127/"
 layout: "researcher"
 hiddenInHomeList: true

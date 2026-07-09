@@ -1,7 +1,7 @@
 ---
 title: "Gintautas Tamošaitis"
 description: "Gintautas Tamošaitis is a Mid-career Unknown researcher at Kaunas University of Technology in LT. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.855268
+date: 2026-07-10T01:07:48.785881
 url: "/cdr-researcher-census/researchers/gintautas-tamosaitis-a5046813/"
 layout: "researcher"
 hiddenInHomeList: true

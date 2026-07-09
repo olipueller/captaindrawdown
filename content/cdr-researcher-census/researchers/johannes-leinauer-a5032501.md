@@ -1,7 +1,7 @@
 ---
 title: "Johannes Leinauer"
 description: "Johannes Leinauer is a Mid-career Unknown researcher at Technical University of Munich in DE. With 34 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.938825
+date: 2026-07-10T01:07:48.861659
 url: "/cdr-researcher-census/researchers/johannes-leinauer-a5032501/"
 layout: "researcher"
 hiddenInHomeList: true

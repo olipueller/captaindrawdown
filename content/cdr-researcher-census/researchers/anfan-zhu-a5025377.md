@@ -1,7 +1,7 @@
 ---
 title: "Anfan Zhu"
 description: "Anfan Zhu is a Mid-career Unknown researcher at Jiangxi Agricultural University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.092103
+date: 2026-07-10T01:07:49.001192
 url: "/cdr-researcher-census/researchers/anfan-zhu-a5025377/"
 layout: "researcher"
 hiddenInHomeList: true

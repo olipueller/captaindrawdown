@@ -1,7 +1,7 @@
 ---
 title: "Kathlin Schweitzer"
 description: "Kathlin Schweitzer is a Mid-career Soil Carbon researcher at Humboldt-Universität zu Berlin in DE. With 21 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.238416
+date: 2026-07-10T01:07:48.247795
 url: "/cdr-researcher-census/researchers/kathlin-schweitzer-a5041494/"
 layout: "researcher"
 hiddenInHomeList: true

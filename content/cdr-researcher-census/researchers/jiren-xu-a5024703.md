@@ -1,7 +1,7 @@
 ---
 title: "Jiren Xu"
 description: "Jiren Xu is a Senior Soil Carbon researcher at University of Glasgow in GB. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.057664
+date: 2026-07-10T01:07:47.133524
 url: "/cdr-researcher-census/researchers/jiren-xu-a5024703/"
 layout: "researcher"
 hiddenInHomeList: true

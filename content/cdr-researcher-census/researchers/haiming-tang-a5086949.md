@@ -1,7 +1,7 @@
 ---
 title: "Haiming Tang"
 description: "Haiming Tang is a Senior Soil Carbon researcher at 湖南省土壤肥料研究所 in CN. With 139 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.097597
+date: 2026-07-10T01:07:47.180799
 url: "/cdr-researcher-census/researchers/haiming-tang-a5086949/"
 layout: "researcher"
 hiddenInHomeList: true

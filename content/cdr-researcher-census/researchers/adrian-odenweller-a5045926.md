@@ -1,7 +1,7 @@
 ---
 title: "Adrian Odenweller"
 description: "Adrian Odenweller is a Mid-career DAC researcher at Leibniz Association in DE. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.231703
+date: 2026-07-10T01:07:47.318879
 url: "/cdr-researcher-census/researchers/adrian-odenweller-a5045926/"
 layout: "researcher"
 hiddenInHomeList: true

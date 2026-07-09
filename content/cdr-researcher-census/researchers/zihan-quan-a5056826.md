@@ -1,7 +1,7 @@
 ---
 title: "Zihan Quan"
 description: "Zihan Quan is a Mid-career Unknown researcher at McGill University in CA. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.477250
+date: 2026-07-10T01:07:48.464424
 url: "/cdr-researcher-census/researchers/zihan-quan-a5056826/"
 layout: "researcher"
 hiddenInHomeList: true

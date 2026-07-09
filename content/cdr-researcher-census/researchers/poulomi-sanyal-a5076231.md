@@ -1,7 +1,7 @@
 ---
 title: "Poulomi Sanyal"
 description: "Poulomi Sanyal is a Senior Unknown researcher at Academy of Nutrition and Dietetics in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.843463
+date: 2026-07-10T01:07:48.775341
 url: "/cdr-researcher-census/researchers/poulomi-sanyal-a5076231/"
 layout: "researcher"
 hiddenInHomeList: true

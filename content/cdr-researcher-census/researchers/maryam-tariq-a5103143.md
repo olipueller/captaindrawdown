@@ -1,7 +1,7 @@
 ---
 title: "Maryam Tariq"
 description: "Maryam Tariq is a Mid-career Soil Carbon researcher at The University of Agriculture, Peshawar in PK. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.294176
+date: 2026-07-10T01:07:48.297831
 url: "/cdr-researcher-census/researchers/maryam-tariq-a5103143/"
 layout: "researcher"
 hiddenInHomeList: true

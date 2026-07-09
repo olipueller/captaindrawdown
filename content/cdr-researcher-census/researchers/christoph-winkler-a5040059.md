@@ -1,7 +1,7 @@
 ---
 title: "Christoph Winkler"
 description: "Christoph Winkler is a Mid-career General CDR researcher at Forschungszentrum Jülich in DE. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.104911
+date: 2026-07-10T01:07:49.012846
 url: "/cdr-researcher-census/researchers/christoph-winkler-a5040059/"
 layout: "researcher"
 hiddenInHomeList: true

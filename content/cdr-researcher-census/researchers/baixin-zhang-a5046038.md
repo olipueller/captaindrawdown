@@ -1,7 +1,7 @@
 ---
 title: "Baixin Zhang"
 description: "Baixin Zhang is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.069567
+date: 2026-07-10T01:07:48.980740
 url: "/cdr-researcher-census/researchers/baixin-zhang-a5046038/"
 layout: "researcher"
 hiddenInHomeList: true

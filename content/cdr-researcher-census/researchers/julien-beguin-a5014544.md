@@ -1,7 +1,7 @@
 ---
 title: "Julien Béguin"
 description: "Julien Béguin is a Senior Soil Carbon researcher at Natural Resources Canada in CA. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.411057
+date: 2026-07-10T01:07:47.490514
 url: "/cdr-researcher-census/researchers/julien-beguin-a5014544/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Clint M. Mattox"
 description: "Clint M. Mattox is a Mid-career Soil Carbon researcher at National Forage Seed Production Research Center in US. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.465273
+date: 2026-07-10T01:07:48.453045
 url: "/cdr-researcher-census/researchers/clint-m-mattox-a5046255/"
 layout: "researcher"
 hiddenInHomeList: true

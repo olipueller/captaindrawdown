@@ -1,7 +1,7 @@
 ---
 title: "Piotr Piersa"
 description: "Piotr Piersa is a Mid-career Biochar researcher at Lodz University of Technology in PL. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.549500
+date: 2026-07-10T01:07:47.613704
 url: "/cdr-researcher-census/researchers/piotr-piersa-a5015699/"
 layout: "researcher"
 hiddenInHomeList: true

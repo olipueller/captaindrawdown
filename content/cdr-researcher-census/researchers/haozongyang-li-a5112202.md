@@ -1,7 +1,7 @@
 ---
 title: "Haozongyang Li"
 description: "Haozongyang Li is a Senior Unknown researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.828736
+date: 2026-07-10T01:07:48.762671
 url: "/cdr-researcher-census/researchers/haozongyang-li-a5112202/"
 layout: "researcher"
 hiddenInHomeList: true

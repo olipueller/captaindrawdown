@@ -1,7 +1,7 @@
 ---
 title: "Kostiantyn Viatkin"
 description: "Kostiantyn Viatkin is a Mid-career General CDR researcher at Cornell University in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.350495
+date: 2026-07-10T01:07:47.432879
 url: "/cdr-researcher-census/researchers/kostiantyn-viatkin-a5108830/"
 layout: "researcher"
 hiddenInHomeList: true

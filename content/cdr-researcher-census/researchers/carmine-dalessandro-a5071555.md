@@ -1,7 +1,7 @@
 ---
 title: "Carmine D’Alessandro"
 description: "Carmine D’Alessandro is a Mid-career Unknown researcher at National Research Council in IT. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.341904
+date: 2026-07-10T01:07:48.341357
 url: "/cdr-researcher-census/researchers/carmine-dalessandro-a5071555/"
 layout: "researcher"
 hiddenInHomeList: true

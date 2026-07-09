@@ -1,7 +1,7 @@
 ---
 title: "Khairul Anwar Bin Mohamad Said"
 description: "Khairul Anwar Bin Mohamad Said is a Mid-career Unknown researcher at Universiti Malaysia Sarawak in MY. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.868858
+date: 2026-07-10T01:07:48.797461
 url: "/cdr-researcher-census/researchers/khairul-anwar-bin-mohamad-said-a5111293/"
 layout: "researcher"
 hiddenInHomeList: true

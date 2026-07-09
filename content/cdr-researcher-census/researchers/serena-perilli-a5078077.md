@@ -1,7 +1,7 @@
 ---
 title: "Serena Perilli"
 description: "Serena Perilli is a Senior Unknown researcher at Agenzia Spaziale Italiana in IT. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.056117
+date: 2026-07-10T01:07:47.131788
 url: "/cdr-researcher-census/researchers/serena-perilli-a5078077/"
 layout: "researcher"
 hiddenInHomeList: true

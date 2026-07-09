@@ -1,7 +1,7 @@
 ---
 title: "N. M. Izzuddin"
 description: "N. M. Izzuddin is an Early-career Unknown researcher at University of Technology Malaysia in MY. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.164981
+date: 2026-07-10T01:07:49.055662
 url: "/cdr-researcher-census/researchers/n-m-izzuddin-a5109751/"
 layout: "researcher"
 hiddenInHomeList: true

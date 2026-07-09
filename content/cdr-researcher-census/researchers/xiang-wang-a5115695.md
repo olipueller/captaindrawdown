@@ -1,7 +1,7 @@
 ---
 title: "Xiang Wang"
 description: "Xiang Wang is a Senior Soil Carbon researcher at Jiangxi University of Traditional Chinese Medicine in CN. With 172 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.076553
+date: 2026-07-10T01:07:47.156349
 url: "/cdr-researcher-census/researchers/xiang-wang-a5115695/"
 layout: "researcher"
 hiddenInHomeList: true

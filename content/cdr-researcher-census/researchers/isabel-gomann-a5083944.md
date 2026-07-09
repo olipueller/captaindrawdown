@@ -1,7 +1,7 @@
 ---
 title: "Isabel Goßmann"
 description: "Isabel Goßmann is a Mid-career Ocean CDR researcher at Carl von Ossietzky Universität Oldenburg in DE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.540112
+date: 2026-07-10T01:07:47.605314
 url: "/cdr-researcher-census/researchers/isabel-gomann-a5083944/"
 layout: "researcher"
 hiddenInHomeList: true

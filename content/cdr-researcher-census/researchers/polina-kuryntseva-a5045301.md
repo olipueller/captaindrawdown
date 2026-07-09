@@ -1,7 +1,7 @@
 ---
 title: "Polina Kuryntseva"
 description: "Polina Kuryntseva is a Mid-career Soil Carbon researcher at Kazan Federal University in RU. With 79 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.384084
+date: 2026-07-10T01:07:48.379207
 url: "/cdr-researcher-census/researchers/polina-kuryntseva-a5045301/"
 layout: "researcher"
 hiddenInHomeList: true

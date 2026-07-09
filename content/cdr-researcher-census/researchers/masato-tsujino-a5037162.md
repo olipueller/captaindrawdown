@@ -1,7 +1,7 @@
 ---
 title: "Masato Tsujino"
 description: "Masato Tsujino is a Senior Unknown researcher at Shimizu (Japan) in JP. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.943229
+date: 2026-07-10T01:07:47.955583
 url: "/cdr-researcher-census/researchers/masato-tsujino-a5037162/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christophe Boss"
 description: "Christophe Boss is a Senior Unknown researcher at Nestlé (Brazil) in BR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.484146
+date: 2026-07-10T01:07:48.470716
 url: "/cdr-researcher-census/researchers/christophe-boss-a5048067/"
 layout: "researcher"
 hiddenInHomeList: true

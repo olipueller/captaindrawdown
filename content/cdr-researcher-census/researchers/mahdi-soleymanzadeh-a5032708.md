@@ -1,7 +1,7 @@
 ---
 title: "Mahdi Soleymanzadeh"
 description: "Mahdi Soleymanzadeh is a Mid-career Unknown researcher at Farabi Hospital in IR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.998804
+date: 2026-07-10T01:07:48.008018
 url: "/cdr-researcher-census/researchers/mahdi-soleymanzadeh-a5032708/"
 layout: "researcher"
 hiddenInHomeList: true

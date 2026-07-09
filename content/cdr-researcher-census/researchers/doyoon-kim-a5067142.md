@@ -1,7 +1,7 @@
 ---
 title: "Doyoon Kim"
 description: "Doyoon Kim is a Mid-career Unknown researcher at Washington University in St. Louis in US. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.482073
+date: 2026-07-10T01:07:47.554097
 url: "/cdr-researcher-census/researchers/doyoon-kim-a5067142/"
 layout: "researcher"
 hiddenInHomeList: true

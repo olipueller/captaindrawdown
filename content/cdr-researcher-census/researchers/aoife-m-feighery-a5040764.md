@@ -1,7 +1,7 @@
 ---
 title: "Aoife M. Feighery"
 description: "Aoife M. Feighery is a Senior Unknown researcher at Mayo Clinic in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.820748
+date: 2026-07-10T01:07:48.755965
 url: "/cdr-researcher-census/researchers/aoife-m-feighery-a5040764/"
 layout: "researcher"
 hiddenInHomeList: true

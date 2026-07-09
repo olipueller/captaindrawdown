@@ -1,7 +1,7 @@
 ---
 title: "Mingzhu Fan"
 description: "Mingzhu Fan is a Senior Unknown researcher at Yulin Normal University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.818468
+date: 2026-07-10T01:07:48.754255
 url: "/cdr-researcher-census/researchers/mingzhu-fan-a5101265/"
 layout: "researcher"
 hiddenInHomeList: true

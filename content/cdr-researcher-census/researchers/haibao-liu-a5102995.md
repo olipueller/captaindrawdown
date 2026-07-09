@@ -1,7 +1,7 @@
 ---
 title: "Haibao Liu"
 description: "Haibao Liu is a Senior Biochar researcher at Ludong University in CN. With 28 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.370692
+date: 2026-07-10T01:07:47.453017
 url: "/cdr-researcher-census/researchers/haibao-liu-a5102995/"
 layout: "researcher"
 hiddenInHomeList: true

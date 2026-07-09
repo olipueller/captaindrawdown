@@ -1,7 +1,7 @@
 ---
 title: "Lian Wang"
 description: "Lian Wang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.792713
+date: 2026-07-10T01:07:48.732940
 url: "/cdr-researcher-census/researchers/lian-wang-a5045326/"
 layout: "researcher"
 hiddenInHomeList: true

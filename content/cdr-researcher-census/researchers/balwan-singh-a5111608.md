@@ -1,7 +1,7 @@
 ---
 title: "Balwan Singh"
 description: "Balwan Singh is a Senior Unknown researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.182886
+date: 2026-07-10T01:07:48.198457
 url: "/cdr-researcher-census/researchers/balwan-singh-a5111608/"
 layout: "researcher"
 hiddenInHomeList: true

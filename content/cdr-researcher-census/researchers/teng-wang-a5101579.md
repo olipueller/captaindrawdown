@@ -1,7 +1,7 @@
 ---
 title: "Teng Wang"
 description: "Teng Wang is a Mid-career Unknown researcher at Beijing Institute of Petrochemical Technology in CN. With 21 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.540497
+date: 2026-07-10T01:07:48.522085
 url: "/cdr-researcher-census/researchers/teng-wang-a5101579/"
 layout: "researcher"
 hiddenInHomeList: true

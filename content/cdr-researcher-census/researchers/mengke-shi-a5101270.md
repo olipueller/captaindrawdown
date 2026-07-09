@@ -1,7 +1,7 @@
 ---
 title: "Mengke Shi"
 description: "Mengke Shi is a Mid-career Unknown researcher at Zhengzhou University of Light Industry in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.844644
+date: 2026-07-10T01:07:48.776235
 url: "/cdr-researcher-census/researchers/mengke-shi-a5101270/"
 layout: "researcher"
 hiddenInHomeList: true

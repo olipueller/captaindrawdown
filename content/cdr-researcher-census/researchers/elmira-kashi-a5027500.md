@@ -1,7 +1,7 @@
 ---
 title: "Elmira Kashi"
 description: "Elmira Kashi is a Mid-career Unknown researcher at Universiti Teknologi MARA in MY. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.962310
+date: 2026-07-10T01:07:47.972704
 url: "/cdr-researcher-census/researchers/elmira-kashi-a5027500/"
 layout: "researcher"
 hiddenInHomeList: true

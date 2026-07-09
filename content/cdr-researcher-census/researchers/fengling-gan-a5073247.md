@@ -1,7 +1,7 @@
 ---
 title: "Fengling Gan"
 description: "Fengling Gan is a Mid-career Soil Carbon researcher at Chongqing Normal University in CN. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.686609
+date: 2026-07-10T01:07:47.742864
 url: "/cdr-researcher-census/researchers/fengling-gan-a5073247/"
 layout: "researcher"
 hiddenInHomeList: true

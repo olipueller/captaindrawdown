@@ -1,7 +1,7 @@
 ---
 title: "Ke Jiang"
 description: "Ke Jiang is a Senior Soil Carbon researcher at Peking University in CN. With 76 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.272412
+date: 2026-07-10T01:07:47.355366
 url: "/cdr-researcher-census/researchers/ke-jiang-a5084025/"
 layout: "researcher"
 hiddenInHomeList: true

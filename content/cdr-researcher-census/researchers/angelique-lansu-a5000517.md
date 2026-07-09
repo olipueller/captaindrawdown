@@ -1,7 +1,7 @@
 ---
 title: "Angelique Lansu"
 description: "Angelique Lansu is a Senior General CDR researcher at Open University of the Netherlands in NL. With 70 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.123676
+date: 2026-07-10T01:07:48.147518
 url: "/cdr-researcher-census/researchers/angelique-lansu-a5000517/"
 layout: "researcher"
 hiddenInHomeList: true

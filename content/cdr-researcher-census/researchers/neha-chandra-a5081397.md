@@ -1,7 +1,7 @@
 ---
 title: "Neha Chandra"
 description: "Neha Chandra is a Mid-career Unknown researcher at Chandigarh University in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.045783
+date: 2026-07-10T01:07:48.959323
 url: "/cdr-researcher-census/researchers/neha-chandra-a5081397/"
 layout: "researcher"
 hiddenInHomeList: true

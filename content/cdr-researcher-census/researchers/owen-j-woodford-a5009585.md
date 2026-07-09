@@ -1,7 +1,7 @@
 ---
 title: "Owen J. Woodford"
 description: "Owen J. Woodford is a Mid-career Unknown researcher at Newcastle University in GB. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.387151
+date: 2026-07-10T01:07:48.381316
 url: "/cdr-researcher-census/researchers/owen-j-woodford-a5009585/"
 layout: "researcher"
 hiddenInHomeList: true

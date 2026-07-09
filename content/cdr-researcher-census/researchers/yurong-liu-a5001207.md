@@ -1,7 +1,7 @@
 ---
 title: "Yurong Liu"
 description: "Yurong Liu is a Mid-career Biochar researcher at Sichuan University in CN. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.380615
+date: 2026-07-10T01:07:47.462356
 url: "/cdr-researcher-census/researchers/yurong-liu-a5001207/"
 layout: "researcher"
 hiddenInHomeList: true

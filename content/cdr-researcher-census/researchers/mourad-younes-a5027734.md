@@ -1,7 +1,7 @@
 ---
 title: "Mourad Younes"
 description: "Mourad Younes is a Senior DAC researcher at Saudi Aramco (Saudi Arabia) in SA. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.131131
+date: 2026-07-10T01:07:47.220013
 url: "/cdr-researcher-census/researchers/mourad-younes-a5027734/"
 layout: "researcher"
 hiddenInHomeList: true

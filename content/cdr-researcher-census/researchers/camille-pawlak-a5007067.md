@@ -1,7 +1,7 @@
 ---
 title: "Camille Pawlak"
 description: "Camille Pawlak is a Mid-career Unknown researcher at Forest Institute in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.779077
+date: 2026-07-10T01:07:48.722545
 url: "/cdr-researcher-census/researchers/camille-pawlak-a5007067/"
 layout: "researcher"
 hiddenInHomeList: true

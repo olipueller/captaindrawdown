@@ -1,7 +1,7 @@
 ---
 title: "Chen‐Ya Kuo"
 description: "Chen‐Ya Kuo is a Mid-career Unknown researcher at Fu Jen Catholic University Hospital in TW. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.141006
+date: 2026-07-10T01:07:49.043949
 url: "/cdr-researcher-census/researchers/chenya-kuo-a5027426/"
 layout: "researcher"
 hiddenInHomeList: true

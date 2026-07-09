@@ -1,7 +1,7 @@
 ---
 title: "Hamid Zentou"
 description: "Hamid Zentou is a Mid-career General CDR researcher at King Fahd University of Petroleum and Minerals in SA. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.621182
+date: 2026-07-10T01:07:47.681884
 url: "/cdr-researcher-census/researchers/hamid-zentou-a5032234/"
 layout: "researcher"
 hiddenInHomeList: true

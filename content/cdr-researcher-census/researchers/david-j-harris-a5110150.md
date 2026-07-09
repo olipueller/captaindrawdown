@@ -1,7 +1,7 @@
 ---
 title: "David J. Harris"
 description: "David J. Harris is a Senior Unknown researcher at Royal Botanic Garden Edinburgh in GB. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.051858
+date: 2026-07-10T01:07:47.126921
 url: "/cdr-researcher-census/researchers/david-j-harris-a5110150/"
 layout: "researcher"
 hiddenInHomeList: true

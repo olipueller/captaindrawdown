@@ -1,7 +1,7 @@
 ---
 title: "Jinhao Xu"
 description: "Jinhao Xu is a Mid-career Unknown researcher at Hong Kong Polytechnic University in HK. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.051508
+date: 2026-07-10T01:07:48.965149
 url: "/cdr-researcher-census/researchers/jinhao-xu-a5101327/"
 layout: "researcher"
 hiddenInHomeList: true

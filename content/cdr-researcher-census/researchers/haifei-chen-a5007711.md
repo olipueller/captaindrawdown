@@ -1,7 +1,7 @@
 ---
 title: "Haifei Chen"
 description: "Haifei Chen is a Mid-career Unknown researcher at University of New Mexico in US. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.582170
+date: 2026-07-10T01:07:47.645647
 url: "/cdr-researcher-census/researchers/haifei-chen-a5007711/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Falko Ueckerdt"
 description: "Falko Ueckerdt is a Senior General CDR researcher at Interdisciplinary Transformation University Austria in AT. With 102 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.929089
+date: 2026-07-10T01:07:46.945102
 url: "/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/"
 layout: "researcher"
 hiddenInHomeList: true

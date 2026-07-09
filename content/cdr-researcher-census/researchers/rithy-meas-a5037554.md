@@ -1,7 +1,7 @@
 ---
 title: "Rithy Meas"
 description: "Rithy Meas is a Senior Unknown researcher at University of Arizona in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.970286
+date: 2026-07-10T01:07:47.980738
 url: "/cdr-researcher-census/researchers/rithy-meas-a5037554/"
 layout: "researcher"
 hiddenInHomeList: true

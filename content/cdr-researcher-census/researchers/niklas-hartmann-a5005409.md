@@ -1,7 +1,7 @@
 ---
 title: "Niklas Hartmann"
 description: "Niklas Hartmann is a Senior General CDR researcher at Offenburg University of Applied Sciences in DE. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.352969
+date: 2026-07-10T01:07:47.435182
 url: "/cdr-researcher-census/researchers/niklas-hartmann-a5005409/"
 layout: "researcher"
 hiddenInHomeList: true

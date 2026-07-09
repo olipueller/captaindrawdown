@@ -1,7 +1,7 @@
 ---
 title: "Mohamad Khalil"
 description: "Mohamad Khalil is a Senior Unknown researcher at Khalifa University of Science and Technology in AE. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.860366
+date: 2026-07-10T01:07:47.895562
 url: "/cdr-researcher-census/researchers/mohamad-khalil-a5002540/"
 layout: "researcher"
 hiddenInHomeList: true

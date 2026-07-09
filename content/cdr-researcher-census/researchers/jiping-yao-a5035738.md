@@ -1,7 +1,7 @@
 ---
 title: "Jiping Yao"
 description: "Jiping Yao is a Mid-career Unknown researcher at Inner Mongolia University in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.692669
+date: 2026-07-10T01:07:47.748668
 url: "/cdr-researcher-census/researchers/jiping-yao-a5035738/"
 layout: "researcher"
 hiddenInHomeList: true

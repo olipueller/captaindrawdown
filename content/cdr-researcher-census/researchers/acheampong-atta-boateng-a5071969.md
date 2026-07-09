@@ -1,7 +1,7 @@
 ---
 title: "Acheampong Atta-Boateng"
 description: "Acheampong Atta-Boateng is a Mid-career Unknown researcher at University of Arizona in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.943943
+date: 2026-07-10T01:07:48.866130
 url: "/cdr-researcher-census/researchers/acheampong-atta-boateng-a5071969/"
 layout: "researcher"
 hiddenInHomeList: true

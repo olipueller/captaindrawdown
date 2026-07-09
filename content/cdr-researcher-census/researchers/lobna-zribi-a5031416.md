@@ -1,7 +1,7 @@
 ---
 title: "Lobna Zribi"
 description: "Lobna Zribi is a Senior Soil Carbon researcher at AgroParisTech in FR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.272894
+date: 2026-07-10T01:07:48.278600
 url: "/cdr-researcher-census/researchers/lobna-zribi-a5031416/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hazem I. Bendary"
 description: "Hazem I. Bendary is a Mid-career Unknown researcher at El Shorouk Academy in EG. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.963572
+date: 2026-07-10T01:07:48.884628
 url: "/cdr-researcher-census/researchers/hazem-i-bendary-a5006302/"
 layout: "researcher"
 hiddenInHomeList: true

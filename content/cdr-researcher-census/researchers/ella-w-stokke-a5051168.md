@@ -1,7 +1,7 @@
 ---
 title: "Ella W. Stokke"
 description: "Ella W. Stokke is a Mid-career General CDR researcher. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.632785
+date: 2026-07-10T01:07:47.692416
 url: "/cdr-researcher-census/researchers/ella-w-stokke-a5051168/"
 layout: "researcher"
 hiddenInHomeList: true

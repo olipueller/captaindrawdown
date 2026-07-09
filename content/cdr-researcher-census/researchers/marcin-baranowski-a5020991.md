@@ -1,7 +1,7 @@
 ---
 title: "Marcin Baranowski"
 description: "Marcin Baranowski is a Senior BECCS researcher at Institute of Power Engineering in PL. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.537733
+date: 2026-07-10T01:07:47.603345
 url: "/cdr-researcher-census/researchers/marcin-baranowski-a5020991/"
 layout: "researcher"
 hiddenInHomeList: true

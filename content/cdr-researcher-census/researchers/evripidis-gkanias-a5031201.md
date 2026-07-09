@@ -1,7 +1,7 @@
 ---
 title: "Evripidis Gkanias"
 description: "Evripidis Gkanias is a Mid-career Unknown researcher at Lund University in SE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.898182
+date: 2026-07-10T01:07:48.823848
 url: "/cdr-researcher-census/researchers/evripidis-gkanias-a5031201/"
 layout: "researcher"
 hiddenInHomeList: true

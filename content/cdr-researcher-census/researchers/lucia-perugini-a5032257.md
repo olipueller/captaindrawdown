@@ -1,7 +1,7 @@
 ---
 title: "Lucia Perugini"
 description: "Lucia Perugini is a Senior General CDR researcher at Euro-Mediterranean Center for Climate Change in IT. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.074007
+date: 2026-07-10T01:07:47.153354
 url: "/cdr-researcher-census/researchers/lucia-perugini-a5032257/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Liji Bai"
 description: "Liji Bai is an Early-career Biochar researcher at Guangxi University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.641771
+date: 2026-07-10T01:07:48.600396
 url: "/cdr-researcher-census/researchers/liji-bai-a5017045/"
 layout: "researcher"
 hiddenInHomeList: true

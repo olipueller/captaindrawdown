@@ -1,7 +1,7 @@
 ---
 title: "Satyajit M. Deshmukh"
 description: "Satyajit M. Deshmukh is a Mid-career Biochar researcher at University of Mumbai in IN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.197780
+date: 2026-07-10T01:07:48.210974
 url: "/cdr-researcher-census/researchers/satyajit-m-deshmukh-a5039839/"
 layout: "researcher"
 hiddenInHomeList: true

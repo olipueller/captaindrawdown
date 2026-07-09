@@ -1,7 +1,7 @@
 ---
 title: "Dianlian Huang"
 description: "Dianlian Huang is an Early-career Unknown researcher at Hunan University in CN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.539138
+date: 2026-07-10T01:07:48.520799
 url: "/cdr-researcher-census/researchers/dianlian-huang-a5052901/"
 layout: "researcher"
 hiddenInHomeList: true

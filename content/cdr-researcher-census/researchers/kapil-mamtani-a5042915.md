@@ -1,7 +1,7 @@
 ---
 title: "Kapil Mamtani"
 description: "Kapil Mamtani is a Mid-career General CDR researcher at University of Auckland in NZ. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.521357
+date: 2026-07-10T01:07:48.504308
 url: "/cdr-researcher-census/researchers/kapil-mamtani-a5042915/"
 layout: "researcher"
 hiddenInHomeList: true

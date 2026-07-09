@@ -1,7 +1,7 @@
 ---
 title: "Susan Dermody"
 description: "Susan Dermody is a Mid-career Unknown researcher. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.036135
+date: 2026-07-10T01:07:47.107055
 url: "/cdr-researcher-census/researchers/susan-dermody-a5017601/"
 layout: "researcher"
 hiddenInHomeList: true

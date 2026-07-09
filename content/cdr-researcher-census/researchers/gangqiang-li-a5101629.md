@@ -1,7 +1,7 @@
 ---
 title: "Gangqiang Li"
 description: "Gangqiang Li is a Senior Unknown researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.037725
+date: 2026-07-10T01:07:48.952202
 url: "/cdr-researcher-census/researchers/gangqiang-li-a5101629/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laura Llorens"
 description: "Laura Llorens is a Senior Soil Carbon researcher at Universitat de Girona in ES. With 65 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.991295
+date: 2026-07-10T01:07:47.047626
 url: "/cdr-researcher-census/researchers/laura-llorens-a5006558/"
 layout: "researcher"
 hiddenInHomeList: true

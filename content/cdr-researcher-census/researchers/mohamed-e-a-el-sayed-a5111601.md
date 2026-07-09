@@ -1,7 +1,7 @@
 ---
 title: "Mohamed E. A. El-Sayed"
 description: "Mohamed E. A. El-Sayed is a Mid-career Biochar researcher at Agricultural Research Center in EG. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.227977
+date: 2026-07-10T01:07:47.314737
 url: "/cdr-researcher-census/researchers/mohamed-e-a-el-sayed-a5111601/"
 layout: "researcher"
 hiddenInHomeList: true

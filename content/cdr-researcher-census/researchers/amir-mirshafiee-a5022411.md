@@ -1,7 +1,7 @@
 ---
 title: "Amir Mirshafiee"
 description: "Amir Mirshafiee is a Mid-career Unknown researcher at Baqiyatallah University of Medical Sciences in IR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.012132
+date: 2026-07-10T01:07:48.929215
 url: "/cdr-researcher-census/researchers/amir-mirshafiee-a5022411/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Benshuai Li"
 description: "Benshuai Li is a Mid-career Unknown researcher at Qingdao Binhai University in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.251982
+date: 2026-07-10T01:07:48.259991
 url: "/cdr-researcher-census/researchers/benshuai-li-a5068315/"
 layout: "researcher"
 hiddenInHomeList: true

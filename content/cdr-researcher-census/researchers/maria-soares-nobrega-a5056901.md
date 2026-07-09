@@ -1,7 +1,7 @@
 ---
 title: "Maria Soares Nóbrega"
 description: "Maria Soares Nóbrega is a Mid-career Unknown researcher at Hospital Israelita Albert Einstein in BR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.951353
+date: 2026-07-10T01:07:48.873155
 url: "/cdr-researcher-census/researchers/maria-soares-nobrega-a5056901/"
 layout: "researcher"
 hiddenInHomeList: true

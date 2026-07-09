@@ -1,7 +1,7 @@
 ---
 title: "Abinash Sahoo"
 description: "Abinash Sahoo is a Mid-career Unknown researcher at Odisha University of Agriculture and Technology in IN. With 39 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.105239
+date: 2026-07-10T01:07:49.013118
 url: "/cdr-researcher-census/researchers/abinash-sahoo-a5102970/"
 layout: "researcher"
 hiddenInHomeList: true

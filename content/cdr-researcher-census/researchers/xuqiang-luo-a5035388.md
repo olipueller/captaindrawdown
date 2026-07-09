@@ -1,7 +1,7 @@
 ---
 title: "Xuqiang Luo"
 description: "Xuqiang Luo is a Senior Soil Carbon researcher at Guizhou Education University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.172521
+date: 2026-07-10T01:07:48.188693
 url: "/cdr-researcher-census/researchers/xuqiang-luo-a5035388/"
 layout: "researcher"
 hiddenInHomeList: true

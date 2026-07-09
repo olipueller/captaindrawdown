@@ -1,7 +1,7 @@
 ---
 title: "Joshua Wicks"
 description: "Joshua Wicks is an Eminent General CDR researcher at CERT in CA. With 52 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.902633
+date: 2026-07-10T01:07:46.893003
 url: "/cdr-researcher-census/researchers/joshua-wicks-a5046041/"
 layout: "researcher"
 hiddenInHomeList: true

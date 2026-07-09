@@ -1,7 +1,7 @@
 ---
 title: "Phillip Cross"
 description: "Phillip Cross is a Senior General CDR researcher at 8 Rivers Capital (United States) in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.886428
+date: 2026-07-10T01:07:47.901440
 url: "/cdr-researcher-census/researchers/phillip-cross-a5101722/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Junlin Xie"
 description: "Junlin Xie is a Senior Unknown researcher at Wuhan University of Technology in CN. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.218234
+date: 2026-07-10T01:07:47.304967
 url: "/cdr-researcher-census/researchers/junlin-xie-a5112110/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Kazem Parsapour"
 description: "Mohammad Kazem Parsapour is a Mid-career Unknown researcher at Soil Conservation and Watershed Management Research in IR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.850364
+date: 2026-07-10T01:07:48.781053
 url: "/cdr-researcher-census/researchers/mohammad-kazem-parsapour-a5063709/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Liyang Hu"
 description: "Liyang Hu is a Mid-career Soil Carbon researcher at Beijing University of Technology in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.113275
+date: 2026-07-10T01:07:48.138550
 url: "/cdr-researcher-census/researchers/liyang-hu-a5023397/"
 layout: "researcher"
 hiddenInHomeList: true

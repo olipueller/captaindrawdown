@@ -1,7 +1,7 @@
 ---
 title: "Erika Di Iorio"
 description: "Erika Di Iorio is a Mid-career Soil Carbon researcher at University of Molise in IT. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.387233
+date: 2026-07-10T01:07:47.468156
 url: "/cdr-researcher-census/researchers/erika-di-iorio-a5023251/"
 layout: "researcher"
 hiddenInHomeList: true

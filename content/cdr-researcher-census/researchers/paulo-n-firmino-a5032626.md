@@ -1,7 +1,7 @@
 ---
 title: "Paulo N. Firmino"
 description: "Paulo N. Firmino is a Mid-career Unknown researcher at University of Lisbon in PT. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.418964
+date: 2026-07-10T01:07:48.409880
 url: "/cdr-researcher-census/researchers/paulo-n-firmino-a5032626/"
 layout: "researcher"
 hiddenInHomeList: true

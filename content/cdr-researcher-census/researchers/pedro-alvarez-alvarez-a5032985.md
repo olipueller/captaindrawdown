@@ -1,7 +1,7 @@
 ---
-title: "Pedro Ãlvarez-Ãlvarez"
-description: "Pedro Ãlvarez-Ãlvarez is a Senior Soil Carbon researcher at Universidad de Oviedo in ES. With 86 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.243220
+title: "Pedro Álvarez-Álvarez"
+description: "Pedro Álvarez-Álvarez is a Senior Soil Carbon researcher at Universidad de Oviedo in ES. With 86 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-10T01:07:47.329216
 url: "/cdr-researcher-census/researchers/pedro-alvarez-alvarez-a5032985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -12,7 +12,7 @@ robots: "index, follow"
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Pedro \u00c3\u0081lvarez-\u00c3\u0081lvarez",
+  "name": "Pedro \u00c1lvarez-\u00c1lvarez",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pedro-alvarez-alvarez-a5032985/",
   "affiliation": {
     "@type": "Organization",
@@ -27,7 +27,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Pedro Ãlvarez-Ãlvarez**  
+**Pedro Álvarez-Álvarez**  
 Universidad de Oviedo · 🇪🇸 ES
 
 **Career Stage:** Senior

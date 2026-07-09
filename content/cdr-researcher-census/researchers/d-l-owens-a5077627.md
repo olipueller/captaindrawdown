@@ -1,7 +1,7 @@
 ---
 title: "D. L. Owens"
 description: "D. L. Owens is a Senior Biochar researcher. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.355453
+date: 2026-07-10T01:07:47.437413
 url: "/cdr-researcher-census/researchers/d-l-owens-a5077627/"
 layout: "researcher"
 hiddenInHomeList: true

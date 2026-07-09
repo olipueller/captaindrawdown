@@ -1,7 +1,7 @@
 ---
 title: "Qizhang Li"
 description: "Qizhang Li is an Early-career General CDR researcher at University of Chicago in US. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.034790
+date: 2026-07-10T01:07:48.041187
 url: "/cdr-researcher-census/researchers/qizhang-li-a5089297/"
 layout: "researcher"
 hiddenInHomeList: true

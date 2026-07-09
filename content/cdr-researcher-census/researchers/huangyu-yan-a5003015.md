@@ -1,7 +1,7 @@
 ---
 title: "Huangyu Yan"
 description: "Huangyu Yan is a Mid-career Unknown researcher at Taiyuan University of Technology in CN. With 12 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.575443
+date: 2026-07-10T01:07:47.638826
 url: "/cdr-researcher-census/researchers/huangyu-yan-a5003015/"
 layout: "researcher"
 hiddenInHomeList: true

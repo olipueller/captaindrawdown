@@ -1,7 +1,7 @@
 ---
 title: "Lijun Yu"
 description: "Lijun Yu is a Senior General CDR researcher at Shanghai Jiao Tong University in CN. With 90 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.049009
+date: 2026-07-10T01:07:47.123570
 url: "/cdr-researcher-census/researchers/lijun-yu-a5101774/"
 layout: "researcher"
 hiddenInHomeList: true

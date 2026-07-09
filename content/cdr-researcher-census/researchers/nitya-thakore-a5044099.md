@@ -1,7 +1,7 @@
 ---
 title: "Nitya Thakore"
 description: "Nitya Thakore is a Mid-career Unknown researcher at New York University in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.604119
+date: 2026-07-10T01:07:48.567132
 url: "/cdr-researcher-census/researchers/nitya-thakore-a5044099/"
 layout: "researcher"
 hiddenInHomeList: true

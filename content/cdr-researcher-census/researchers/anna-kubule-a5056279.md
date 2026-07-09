@@ -1,7 +1,7 @@
 ---
 title: "Anna Kubule"
 description: "Anna Kubule is a Mid-career General CDR researcher at Vidzeme University of Applied Sciences in LV. With 54 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.005873
+date: 2026-07-10T01:07:48.014502
 url: "/cdr-researcher-census/researchers/anna-kubule-a5056279/"
 layout: "researcher"
 hiddenInHomeList: true

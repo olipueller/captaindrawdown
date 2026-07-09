@@ -1,7 +1,7 @@
 ---
 title: "Atif Ashfaq"
 description: "Atif Ashfaq is a Mid-career Unknown researcher at Government College University, Lahore in PK. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.434840
+date: 2026-07-10T01:07:48.425045
 url: "/cdr-researcher-census/researchers/atif-ashfaq-a5005372/"
 layout: "researcher"
 hiddenInHomeList: true

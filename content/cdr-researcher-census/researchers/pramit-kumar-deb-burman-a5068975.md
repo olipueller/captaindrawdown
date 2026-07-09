@@ -1,7 +1,7 @@
 ---
 title: "Pramit Kumar Deb Burman"
 description: "Pramit Kumar Deb Burman is a Mid-career Soil Carbon researcher at Indian Institute of Tropical Meteorology in IN. With 59 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.494441
+date: 2026-07-10T01:07:47.564691
 url: "/cdr-researcher-census/researchers/pramit-kumar-deb-burman-a5068975/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marcin Stokowski"
 description: "Marcin Stokowski is a Mid-career Unknown researcher at Instytut Oceanologii Polskiej Akademii Nauk in PL. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.831769
+date: 2026-07-10T01:07:48.765725
 url: "/cdr-researcher-census/researchers/marcin-stokowski-a5035837/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Po-Yen Wang"
 description: "Po-Yen Wang is a Mid-career Soil Carbon researcher at Widener University in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.116454
+date: 2026-07-10T01:07:49.022502
 url: "/cdr-researcher-census/researchers/po-yen-wang-a5110765/"
 layout: "researcher"
 hiddenInHomeList: true

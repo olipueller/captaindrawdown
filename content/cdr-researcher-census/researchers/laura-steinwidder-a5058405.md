@@ -1,7 +1,7 @@
 ---
 title: "Laura Steinwidder"
 description: "Laura Steinwidder is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.181764
+date: 2026-07-10T01:07:49.095631
 url: "/cdr-researcher-census/researchers/laura-steinwidder-a5058405/"
 layout: "researcher"
 hiddenInHomeList: true

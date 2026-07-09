@@ -1,7 +1,7 @@
 ---
 title: "Matteo Novara"
 description: "Matteo Novara is a Senior Unknown researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 108 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.235300
+date: 2026-07-10T01:07:47.321937
 url: "/cdr-researcher-census/researchers/matteo-novara-a5054787/"
 layout: "researcher"
 hiddenInHomeList: true

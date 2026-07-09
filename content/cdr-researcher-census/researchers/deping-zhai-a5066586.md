@@ -1,7 +1,7 @@
 ---
 title: "Deping Zhai"
 description: "Deping Zhai is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.109761
+date: 2026-07-10T01:07:49.016889
 url: "/cdr-researcher-census/researchers/deping-zhai-a5066586/"
 layout: "researcher"
 hiddenInHomeList: true

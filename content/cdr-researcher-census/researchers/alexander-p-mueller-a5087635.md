@@ -1,7 +1,7 @@
 ---
 title: "Alexander P. Mueller"
 description: "Alexander P. Mueller is a Senior General CDR researcher at AZ Technology (United States) in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.201268
+date: 2026-07-10T01:07:47.289955
 url: "/cdr-researcher-census/researchers/alexander-p-mueller-a5087635/"
 layout: "researcher"
 hiddenInHomeList: true

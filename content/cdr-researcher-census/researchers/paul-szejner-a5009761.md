@@ -1,7 +1,7 @@
 ---
 title: "Paul Szejner"
 description: "Paul Szejner is a Senior Unknown researcher at Natural Resources Institute Finland in FI. With 59 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.139134
+date: 2026-07-10T01:07:47.227710
 url: "/cdr-researcher-census/researchers/paul-szejner-a5009761/"
 layout: "researcher"
 hiddenInHomeList: true

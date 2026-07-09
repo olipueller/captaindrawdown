@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Latif Virk"
 description: "Ahmad Latif Virk is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 26 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.345650
+date: 2026-07-10T01:07:47.428317
 url: "/cdr-researcher-census/researchers/ahmad-latif-virk-a5115595/"
 layout: "researcher"
 hiddenInHomeList: true

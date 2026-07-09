@@ -1,7 +1,7 @@
 ---
 title: "Xianlun Huang"
 description: "Xianlun Huang is an Early-career Unknown researcher at Guangdong University of Technology in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.360545
+date: 2026-07-10T01:07:48.358780
 url: "/cdr-researcher-census/researchers/xianlun-huang-a5113369/"
 layout: "researcher"
 hiddenInHomeList: true

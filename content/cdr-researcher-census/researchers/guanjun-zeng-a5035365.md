@@ -1,7 +1,7 @@
 ---
 title: "Guanjun Zeng"
 description: "Guanjun Zeng is a Senior Unknown researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.482087
+date: 2026-07-10T01:07:48.468879
 url: "/cdr-researcher-census/researchers/guanjun-zeng-a5035365/"
 layout: "researcher"
 hiddenInHomeList: true

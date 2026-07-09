@@ -1,7 +1,7 @@
 ---
 title: "Qiqi Gao"
 description: "Qiqi Gao is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.318680
+date: 2026-07-10T01:07:48.320101
 url: "/cdr-researcher-census/researchers/qiqi-gao-a5001698/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Joris Michaud"
 description: "Joris Michaud is a Senior Unknown researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.582977
+date: 2026-07-10T01:07:47.646479
 url: "/cdr-researcher-census/researchers/joris-michaud-a5028018/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hembly G. Rivas"
 description: "Hembly G. Rivas is a Mid-career Unknown researcher at Harvard University in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.489768
+date: 2026-07-10T01:07:48.475845
 url: "/cdr-researcher-census/researchers/hembly-g-rivas-a5069998/"
 layout: "researcher"
 hiddenInHomeList: true

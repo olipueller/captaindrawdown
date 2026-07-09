@@ -1,7 +1,7 @@
 ---
 title: "Daniel Revillini"
 description: "Daniel Revillini is a Mid-career Soil Carbon researcher at Universidad de Cádiz in ES. With 44 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.269446
+date: 2026-07-10T01:07:47.352599
 url: "/cdr-researcher-census/researchers/daniel-revillini-a5001775/"
 layout: "researcher"
 hiddenInHomeList: true

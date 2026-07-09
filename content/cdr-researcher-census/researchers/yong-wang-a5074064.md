@@ -1,7 +1,7 @@
 ---
 title: "Yong Wang"
 description: "Yong Wang is a Mid-career Soil Carbon researcher at National Laboratory of the Rockies in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.391994
+date: 2026-07-10T01:07:48.384906
 url: "/cdr-researcher-census/researchers/yong-wang-a5074064/"
 layout: "researcher"
 hiddenInHomeList: true

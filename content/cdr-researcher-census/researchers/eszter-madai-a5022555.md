@@ -1,7 +1,7 @@
 ---
 title: "Eszter Mádai"
 description: "Eszter Mádai is a Mid-career General CDR researcher at Delft University of Technology in NL. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.976729
+date: 2026-07-10T01:07:48.896745
 url: "/cdr-researcher-census/researchers/eszter-madai-a5022555/"
 layout: "researcher"
 hiddenInHomeList: true

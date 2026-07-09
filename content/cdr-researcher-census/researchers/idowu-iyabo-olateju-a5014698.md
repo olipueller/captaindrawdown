@@ -1,7 +1,7 @@
 ---
 title: "Idowu Iyabo Olateju"
 description: "Idowu Iyabo Olateju is a Mid-career Biochar researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.255009
+date: 2026-07-10T01:07:49.161870
 url: "/cdr-researcher-census/researchers/idowu-iyabo-olateju-a5014698/"
 layout: "researcher"
 hiddenInHomeList: true

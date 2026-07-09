@@ -1,7 +1,7 @@
 ---
 title: "Zhixi Lin"
 description: "Zhixi Lin is a Senior Unknown researcher at Fujian Agriculture and Forestry University in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.009025
+date: 2026-07-10T01:07:48.926268
 url: "/cdr-researcher-census/researchers/zhixi-lin-a5078321/"
 layout: "researcher"
 hiddenInHomeList: true

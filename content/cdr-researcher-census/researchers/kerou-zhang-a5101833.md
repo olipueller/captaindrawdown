@@ -1,7 +1,7 @@
 ---
 title: "Kerou Zhang"
 description: "Kerou Zhang is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 54 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.066042
+date: 2026-07-10T01:07:47.143455
 url: "/cdr-researcher-census/researchers/kerou-zhang-a5101833/"
 layout: "researcher"
 hiddenInHomeList: true

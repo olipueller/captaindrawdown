@@ -1,7 +1,7 @@
 ---
 title: "Jay Devkota"
 description: "Jay Devkota is a Mid-career Unknown researcher at Lawrence Berkeley National Laboratory in US. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.524918
+date: 2026-07-10T01:07:47.591507
 url: "/cdr-researcher-census/researchers/jay-devkota-a5083027/"
 layout: "researcher"
 hiddenInHomeList: true

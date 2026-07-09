@@ -1,7 +1,7 @@
 ---
 title: "Jiongshan Zhang"
 description: "Jiongshan Zhang is a Mid-career Unknown researcher at Sun Yat-sen University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.308118
+date: 2026-07-10T01:07:48.310779
 url: "/cdr-researcher-census/researchers/jiongshan-zhang-a5018072/"
 layout: "researcher"
 hiddenInHomeList: true

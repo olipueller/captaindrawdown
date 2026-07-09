@@ -1,7 +1,7 @@
 ---
 title: "Runjie Wu"
 description: "Runjie Wu is a Mid-career Unknown researcher at Shenzhen University in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.452379
+date: 2026-07-10T01:07:47.527842
 url: "/cdr-researcher-census/researchers/runjie-wu-a5056620/"
 layout: "researcher"
 hiddenInHomeList: true

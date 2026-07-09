@@ -1,7 +1,7 @@
 ---
 title: "Appala Raju Badireddy"
 description: "Appala Raju Badireddy is a Mid-career Soil Carbon researcher at University of Vermont in US. With 6 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.363411
+date: 2026-07-10T01:07:47.445351
 url: "/cdr-researcher-census/researchers/appala-raju-badireddy-a5109611/"
 layout: "researcher"
 hiddenInHomeList: true

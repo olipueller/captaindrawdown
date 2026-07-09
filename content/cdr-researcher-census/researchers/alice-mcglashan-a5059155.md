@@ -1,7 +1,7 @@
 ---
 title: "Alice McGlashan"
 description: "Alice McGlashan is an Early-career Ocean CDR researcher at Australian Government in AU. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.864609
+date: 2026-07-10T01:07:48.793812
 url: "/cdr-researcher-census/researchers/alice-mcglashan-a5059155/"
 layout: "researcher"
 hiddenInHomeList: true

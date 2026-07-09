@@ -1,7 +1,7 @@
 ---
 title: "N.S. Yousef"
 description: "N.S. Yousef is a Mid-career Unknown researcher at Pharos University in Alexandria in EG. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.491317
+date: 2026-07-10T01:07:47.562002
 url: "/cdr-researcher-census/researchers/ns-yousef-a5047391/"
 layout: "researcher"
 hiddenInHomeList: true

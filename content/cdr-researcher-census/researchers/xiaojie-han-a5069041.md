@@ -1,7 +1,7 @@
 ---
 title: "Xiaojie Han"
 description: "Xiaojie Han is an Early-career Soil Carbon researcher at National Engineering Research Center for Wheat in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.063134
+date: 2026-07-10T01:07:48.975448
 url: "/cdr-researcher-census/researchers/xiaojie-han-a5069041/"
 layout: "researcher"
 hiddenInHomeList: true

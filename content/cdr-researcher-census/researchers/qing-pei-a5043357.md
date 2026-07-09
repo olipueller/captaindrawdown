@@ -1,7 +1,7 @@
 ---
 title: "Qing Pei"
 description: "Qing Pei is a Mid-career Unknown researcher at Shanghai Jiao Tong University in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.718183
+date: 2026-07-10T01:07:48.668182
 url: "/cdr-researcher-census/researchers/qing-pei-a5043357/"
 layout: "researcher"
 hiddenInHomeList: true

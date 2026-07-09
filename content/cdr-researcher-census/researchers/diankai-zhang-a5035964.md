@@ -1,7 +1,7 @@
 ---
 title: "Diankai Zhang"
 description: "Diankai Zhang is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.293788
+date: 2026-07-10T01:07:48.297484
 url: "/cdr-researcher-census/researchers/diankai-zhang-a5035964/"
 layout: "researcher"
 hiddenInHomeList: true

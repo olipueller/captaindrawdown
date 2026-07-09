@@ -1,7 +1,7 @@
 ---
 title: "Amber Walsh"
 description: "Amber Walsh is a Mid-career Unknown researcher at National Oceanography Centre in GB. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.267216
+date: 2026-07-10T01:07:48.273574
 url: "/cdr-researcher-census/researchers/amber-walsh-a5091246/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ricardo Zubieta"
 description: "Ricardo Zubieta is a Mid-career Soil Carbon researcher at Instituto Geofísico Del Perú in PE. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.444909
+date: 2026-07-10T01:07:47.520902
 url: "/cdr-researcher-census/researchers/ricardo-zubieta-a5074706/"
 layout: "researcher"
 hiddenInHomeList: true

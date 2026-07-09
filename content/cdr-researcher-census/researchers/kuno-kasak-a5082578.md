@@ -1,7 +1,7 @@
 ---
 title: "Kuno Kasak"
 description: "Kuno Kasak is a Senior Soil Carbon researcher at University of Tartu in EE. With 123 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.039555
+date: 2026-07-10T01:07:47.111694
 url: "/cdr-researcher-census/researchers/kuno-kasak-a5082578/"
 layout: "researcher"
 hiddenInHomeList: true

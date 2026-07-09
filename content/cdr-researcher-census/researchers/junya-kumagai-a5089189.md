@@ -1,7 +1,7 @@
 ---
 title: "Junya Kumagai"
 description: "Junya Kumagai is a Mid-career DAC researcher at Fukuoka University in JP. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.287063
+date: 2026-07-10T01:07:48.291903
 url: "/cdr-researcher-census/researchers/junya-kumagai-a5089189/"
 layout: "researcher"
 hiddenInHomeList: true

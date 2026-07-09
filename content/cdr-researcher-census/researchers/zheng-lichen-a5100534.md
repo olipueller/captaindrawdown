@@ -1,7 +1,7 @@
 ---
 title: "Zheng Lichen"
 description: "Zheng Lichen is a Mid-career Unknown researcher at Research Institute of Petroleum Exploration and Development in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.775592
+date: 2026-07-10T01:07:48.719551
 url: "/cdr-researcher-census/researchers/zheng-lichen-a5100534/"
 layout: "researcher"
 hiddenInHomeList: true

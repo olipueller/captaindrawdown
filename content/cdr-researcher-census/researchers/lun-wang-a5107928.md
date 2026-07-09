@@ -1,7 +1,7 @@
 ---
 title: "Lun Wang"
 description: "Lun Wang is a Senior General CDR researcher at Wuhan University of Technology in CN. With 53 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.191137
+date: 2026-07-10T01:07:48.205551
 url: "/cdr-researcher-census/researchers/lun-wang-a5107928/"
 layout: "researcher"
 hiddenInHomeList: true

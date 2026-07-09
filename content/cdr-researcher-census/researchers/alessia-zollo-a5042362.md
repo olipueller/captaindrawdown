@@ -1,7 +1,7 @@
 ---
 title: "Alessia Zollo"
 description: "Alessia Zollo is a Mid-career Unknown researcher at University of Turin in IT. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.243911
+date: 2026-07-10T01:07:49.152063
 url: "/cdr-researcher-census/researchers/alessia-zollo-a5042362/"
 layout: "researcher"
 hiddenInHomeList: true

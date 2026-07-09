@@ -1,7 +1,7 @@
 ---
 title: "Catarina S.C. Martins"
 description: "Catarina S.C. Martins is a Mid-career Soil Carbon researcher at Western Sydney University in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.800064
+date: 2026-07-10T01:07:47.847811
 url: "/cdr-researcher-census/researchers/catarina-sc-martins-a5077091/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hanyu Chang"
 description: "Hanyu Chang is a Mid-career Unknown researcher at Suzhou Nonferrous Metals Research Institute in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.171019
+date: 2026-07-10T01:07:49.061116
 url: "/cdr-researcher-census/researchers/hanyu-chang-a5003029/"
 layout: "researcher"
 hiddenInHomeList: true

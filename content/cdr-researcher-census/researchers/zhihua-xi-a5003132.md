@@ -1,7 +1,7 @@
 ---
 title: "Zhihua Xi"
 description: "Zhihua Xi is a Senior Biochar researcher at Nanjing University of Aeronautics and Astronautics in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.493855
+date: 2026-07-10T01:07:48.479605
 url: "/cdr-researcher-census/researchers/zhihua-xi-a5003132/"
 layout: "researcher"
 hiddenInHomeList: true

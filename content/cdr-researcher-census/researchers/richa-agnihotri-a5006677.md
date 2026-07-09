@@ -1,7 +1,7 @@
 ---
 title: "Richa Agnihotri"
 description: "Richa Agnihotri is a Senior Soil Carbon researcher at Indian Institute of Technology Palakkad in IN. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.180260
+date: 2026-07-10T01:07:47.269250
 url: "/cdr-researcher-census/researchers/richa-agnihotri-a5006677/"
 layout: "researcher"
 hiddenInHomeList: true

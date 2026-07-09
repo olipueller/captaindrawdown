@@ -1,7 +1,7 @@
 ---
 title: "Laura C. Castillo-Carvajal"
 description: "Laura C. Castillo-Carvajal is a Senior Unknown researcher at Universidad Anáhuac México in MX. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.950002
+date: 2026-07-10T01:07:47.961659
 url: "/cdr-researcher-census/researchers/laura-c-castillo-carvajal-a5033661/"
 layout: "researcher"
 hiddenInHomeList: true

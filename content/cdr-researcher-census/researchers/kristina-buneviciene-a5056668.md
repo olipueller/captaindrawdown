@@ -1,7 +1,7 @@
 ---
 title: "Kristina Bunevičienė"
 description: "Kristina Bunevičienė is a Mid-career Unknown researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.712656
+date: 2026-07-10T01:07:48.663831
 url: "/cdr-researcher-census/researchers/kristina-buneviciene-a5056668/"
 layout: "researcher"
 hiddenInHomeList: true

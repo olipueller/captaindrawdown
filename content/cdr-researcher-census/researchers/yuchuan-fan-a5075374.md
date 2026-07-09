@@ -1,7 +1,7 @@
 ---
 title: "Yuchuan Fan"
 description: "Yuchuan Fan is a Mid-career Soil Carbon researcher at Jiyang College of Zhejiang A&F University in CN. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.589587
+date: 2026-07-10T01:07:47.652807
 url: "/cdr-researcher-census/researchers/yuchuan-fan-a5075374/"
 layout: "researcher"
 hiddenInHomeList: true

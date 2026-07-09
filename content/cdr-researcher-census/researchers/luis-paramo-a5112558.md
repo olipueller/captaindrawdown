@@ -1,7 +1,7 @@
 ---
 title: "Luis Páramo"
 description: "Luis Páramo is a Mid-career Unknown researcher at Concordia University in CA. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.931995
+date: 2026-07-10T01:07:47.944796
 url: "/cdr-researcher-census/researchers/luis-paramo-a5112558/"
 layout: "researcher"
 hiddenInHomeList: true

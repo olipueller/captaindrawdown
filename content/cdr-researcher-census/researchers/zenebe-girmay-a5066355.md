@@ -1,7 +1,7 @@
 ---
 title: "Zenebe Girmay"
 description: "Zenebe Girmay is a Mid-career Unknown researcher at Mekelle University in ET. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.996602
+date: 2026-07-10T01:07:48.005953
 url: "/cdr-researcher-census/researchers/zenebe-girmay-a5066355/"
 layout: "researcher"
 hiddenInHomeList: true

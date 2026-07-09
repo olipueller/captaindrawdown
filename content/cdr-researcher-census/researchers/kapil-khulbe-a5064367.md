@@ -1,7 +1,7 @@
 ---
 title: "Kapil Khulbe"
 description: "Kapil Khulbe is a Senior Unknown researcher at Kumaun University in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.620917
+date: 2026-07-10T01:07:48.581894
 url: "/cdr-researcher-census/researchers/kapil-khulbe-a5064367/"
 layout: "researcher"
 hiddenInHomeList: true

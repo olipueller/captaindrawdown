@@ -1,7 +1,7 @@
 ---
 title: "Ritwik Hazra"
 description: "Ritwik Hazra is a Mid-career Unknown researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.124233
+date: 2026-07-10T01:07:49.029583
 url: "/cdr-researcher-census/researchers/ritwik-hazra-a5050608/"
 layout: "researcher"
 hiddenInHomeList: true

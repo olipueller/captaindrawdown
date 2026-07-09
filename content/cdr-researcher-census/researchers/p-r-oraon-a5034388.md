@@ -1,7 +1,7 @@
 ---
 title: "P. R. Oraon"
 description: "P. R. Oraon is a Mid-career Soil Carbon researcher at Birsa Agricultural University in IN. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.682511
+date: 2026-07-10T01:07:48.637580
 url: "/cdr-researcher-census/researchers/p-r-oraon-a5034388/"
 layout: "researcher"
 hiddenInHomeList: true

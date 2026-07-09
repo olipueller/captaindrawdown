@@ -1,7 +1,7 @@
 ---
 title: "B. Brooks"
 description: "B. Brooks is a Senior General CDR researcher at Carbon Solutions (United States) in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.082178
+date: 2026-07-10T01:07:48.083522
 url: "/cdr-researcher-census/researchers/b-brooks-a5027978/"
 layout: "researcher"
 hiddenInHomeList: true

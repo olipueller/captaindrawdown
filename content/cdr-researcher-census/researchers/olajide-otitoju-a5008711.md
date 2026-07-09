@@ -1,7 +1,7 @@
 ---
 title: "Olajide Otitoju"
 description: "Olajide Otitoju is a Mid-career General CDR researcher at University of Sheffield in GB. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.695783
+date: 2026-07-10T01:07:47.751463
 url: "/cdr-researcher-census/researchers/olajide-otitoju-a5008711/"
 layout: "researcher"
 hiddenInHomeList: true

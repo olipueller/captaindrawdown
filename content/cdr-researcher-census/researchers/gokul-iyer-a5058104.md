@@ -1,7 +1,7 @@
 ---
 title: "Gokul Iyer"
 description: "Gokul Iyer is an Eminent General CDR researcher at Joint Global Change Research Institute in US. With 198 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.916913
+date: 2026-07-10T01:07:46.922343
 url: "/cdr-researcher-census/researchers/gokul-iyer-a5058104/"
 layout: "researcher"
 hiddenInHomeList: true

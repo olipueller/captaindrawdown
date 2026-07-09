@@ -1,7 +1,7 @@
 ---
 title: "Warit Charoenlerkthawin"
 description: "Warit Charoenlerkthawin is a Mid-career Unknown researcher at Chulalongkorn University in TH. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.822202
+date: 2026-07-10T01:07:48.757145
 url: "/cdr-researcher-census/researchers/warit-charoenlerkthawin-a5060784/"
 layout: "researcher"
 hiddenInHomeList: true

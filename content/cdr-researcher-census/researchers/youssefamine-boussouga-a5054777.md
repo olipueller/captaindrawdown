@@ -1,7 +1,7 @@
 ---
 title: "Youssef‐Amine Boussouga"
 description: "Youssef‐Amine Boussouga is a Mid-career Unknown researcher at Karlsruhe Institute of Technology in DE. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.649495
+date: 2026-07-10T01:07:47.707996
 url: "/cdr-researcher-census/researchers/youssefamine-boussouga-a5054777/"
 layout: "researcher"
 hiddenInHomeList: true

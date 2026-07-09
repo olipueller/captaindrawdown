@@ -1,7 +1,7 @@
 ---
 title: "Eduardo Pérez‐Laorga"
 description: "Eduardo Pérez‐Laorga is a Mid-career General CDR researcher at Generalitat Valenciana in ES. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.016022
+date: 2026-07-10T01:07:48.932354
 url: "/cdr-researcher-census/researchers/eduardo-perezlaorga-a5067245/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Balkar Singh"
 description: "Balkar Singh is a Mid-career Unknown researcher at Arya PG College in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.904320
+date: 2026-07-10T01:07:48.829803
 url: "/cdr-researcher-census/researchers/balkar-singh-a5073071/"
 layout: "researcher"
 hiddenInHomeList: true

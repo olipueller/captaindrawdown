@@ -1,7 +1,7 @@
 ---
 title: "Wenkai Hui"
 description: "Wenkai Hui is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 79 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.423048
+date: 2026-07-10T01:07:47.501707
 url: "/cdr-researcher-census/researchers/wenkai-hui-a5018941/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andrew H. MacDougall"
 description: "Andrew H. MacDougall is a Mid-career Soil Carbon researcher at St. Francis Xavier University in CA. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.700893
+date: 2026-07-10T01:07:48.653893
 url: "/cdr-researcher-census/researchers/andrew-h-macdougall-a5031018/"
 layout: "researcher"
 hiddenInHomeList: true

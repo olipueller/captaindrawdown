@@ -1,7 +1,7 @@
 ---
 title: "V.S. Devadas"
 description: "V.S. Devadas is a Mid-career Unknown researcher at GIET University in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.138778
+date: 2026-07-10T01:07:49.041999
 url: "/cdr-researcher-census/researchers/vs-devadas-a5025100/"
 layout: "researcher"
 hiddenInHomeList: true

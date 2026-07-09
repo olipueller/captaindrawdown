@@ -1,7 +1,7 @@
 ---
 title: "Brian R. Zutta"
 description: "Brian R. Zutta is a Senior Soil Carbon researcher at CRC for Spatial information in AU. With 36 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.994076
+date: 2026-07-10T01:07:47.051751
 url: "/cdr-researcher-census/researchers/brian-r-zutta-a5015903/"
 layout: "researcher"
 hiddenInHomeList: true

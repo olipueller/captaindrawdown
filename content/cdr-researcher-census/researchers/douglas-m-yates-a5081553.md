@@ -1,7 +1,7 @@
 ---
 title: "Douglas M. Yates"
 description: "Douglas M. Yates is a Senior Unknown researcher at Applied Nanotech (United States) in US. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.493930
+date: 2026-07-10T01:07:47.564313
 url: "/cdr-researcher-census/researchers/douglas-m-yates-a5081553/"
 layout: "researcher"
 hiddenInHomeList: true

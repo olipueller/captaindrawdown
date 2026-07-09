@@ -1,7 +1,7 @@
 ---
 title: "Stevo Lavrnić"
 description: "Stevo Lavrnić is a Mid-career Soil Carbon researcher at University of Bologna in IT. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.293648
+date: 2026-07-10T01:07:47.375833
 url: "/cdr-researcher-census/researchers/stevo-lavrnic-a5080285/"
 layout: "researcher"
 hiddenInHomeList: true

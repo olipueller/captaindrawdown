@@ -1,7 +1,7 @@
 ---
 title: "Kirsten Isensee"
 description: "Kirsten Isensee is a Senior Ocean CDR researcher at Intergovernmental Oceanographic Commission of UNESCO in FR. With 62 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.962091
+date: 2026-07-10T01:07:47.000712
 url: "/cdr-researcher-census/researchers/kirsten-isensee-a5038198/"
 layout: "researcher"
 hiddenInHomeList: true

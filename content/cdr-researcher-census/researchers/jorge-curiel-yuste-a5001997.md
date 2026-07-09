@@ -1,7 +1,7 @@
 ---
 title: "Jorge Curiel Yuste"
 description: "Jorge Curiel Yuste is a Senior Soil Carbon researcher at ICIFOR-INIA in ES. With 151 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.926738
+date: 2026-07-10T01:07:46.941166
 url: "/cdr-researcher-census/researchers/jorge-curiel-yuste-a5001997/"
 layout: "researcher"
 hiddenInHomeList: true

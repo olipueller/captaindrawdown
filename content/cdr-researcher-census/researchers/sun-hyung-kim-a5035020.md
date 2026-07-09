@@ -1,7 +1,7 @@
 ---
 title: "Sun Hyung Kim"
 description: "Sun Hyung Kim is a Mid-career Unknown researcher at Korea Institute of Energy Research in KR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.551294
+date: 2026-07-10T01:07:48.531275
 url: "/cdr-researcher-census/researchers/sun-hyung-kim-a5035020/"
 layout: "researcher"
 hiddenInHomeList: true

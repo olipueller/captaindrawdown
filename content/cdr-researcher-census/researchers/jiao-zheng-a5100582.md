@@ -1,7 +1,7 @@
 ---
 title: "Jiao Zheng"
 description: "Jiao Zheng is a Mid-career Unknown researcher at Shanghai University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.919654
+date: 2026-07-10T01:07:48.843531
 url: "/cdr-researcher-census/researchers/jiao-zheng-a5100582/"
 layout: "researcher"
 hiddenInHomeList: true

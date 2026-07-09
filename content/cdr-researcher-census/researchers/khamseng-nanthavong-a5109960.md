@@ -1,7 +1,7 @@
 ---
 title: "Khamseng Nanthavong"
 description: "Khamseng Nanthavong is a Mid-career Unknown researcher at National University of Laos in LA. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.590265
+date: 2026-07-10T01:07:48.554413
 url: "/cdr-researcher-census/researchers/khamseng-nanthavong-a5109960/"
 layout: "researcher"
 hiddenInHomeList: true

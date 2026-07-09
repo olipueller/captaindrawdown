@@ -1,7 +1,7 @@
 ---
 title: "Matthias Lück"
 description: "Matthias Lück is a Senior Unknown researcher at Leibniz Centre for Agricultural Landscape Research in DE. With 23 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.750563
+date: 2026-07-10T01:07:48.697365
 url: "/cdr-researcher-census/researchers/matthias-luck-a5083486/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Junbo He"
 description: "Junbo He is a Senior Unknown researcher at Sichuan Normal University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.179415
+date: 2026-07-10T01:07:48.195555
 url: "/cdr-researcher-census/researchers/junbo-he-a5023107/"
 layout: "researcher"
 hiddenInHomeList: true

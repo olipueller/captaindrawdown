@@ -1,7 +1,7 @@
 ---
 title: "Nozibusiso Mbava"
 description: "Nozibusiso Mbava is a Mid-career Unknown researcher. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.627314
+date: 2026-07-10T01:07:48.587639
 url: "/cdr-researcher-census/researchers/nozibusiso-mbava-a5076161/"
 layout: "researcher"
 hiddenInHomeList: true

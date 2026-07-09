@@ -1,7 +1,7 @@
 ---
 title: "Luka Štrubelj"
 description: "Luka Štrubelj is a Senior General CDR researcher at Energy Restructuring Agency (Slovenia) in SI. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.232337
+date: 2026-07-10T01:07:48.242276
 url: "/cdr-researcher-census/researchers/luka-strubelj-a5015533/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiong Liu"
 description: "Qiong Liu is a Mid-career General CDR researcher at University of Shanghai for Science and Technology in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.449419
+date: 2026-07-10T01:07:48.438367
 url: "/cdr-researcher-census/researchers/qiong-liu-a5060296/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marion Leroutier"
 description: "Marion Leroutier is a Mid-career Unknown researcher at Centre for Research in Engineering Surface Technology in IE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.964694
+date: 2026-07-10T01:07:47.975168
 url: "/cdr-researcher-census/researchers/marion-leroutier-a5081686/"
 layout: "researcher"
 hiddenInHomeList: true

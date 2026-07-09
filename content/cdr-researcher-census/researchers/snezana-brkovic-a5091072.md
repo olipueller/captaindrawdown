@@ -1,7 +1,7 @@
 ---
 title: "Snežana Brković"
 description: "Snežana Brković is a Mid-career Biochar researcher. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.099124
+date: 2026-07-10T01:07:48.125397
 url: "/cdr-researcher-census/researchers/snezana-brkovic-a5091072/"
 layout: "researcher"
 hiddenInHomeList: true

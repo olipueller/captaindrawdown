@@ -1,7 +1,7 @@
 ---
 title: "Sampurna Nand"
 description: "Sampurna Nand is a Mid-career Biochar researcher at National Botanical Research Institute in IN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.790619
+date: 2026-07-10T01:07:47.839345
 url: "/cdr-researcher-census/researchers/sampurna-nand-a5081809/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "W. Turner"
 description: "W. Turner is a Mid-career General CDR researcher at UNDO Carbon in GB. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.986667
+date: 2026-07-10T01:07:47.039790
 url: "/cdr-researcher-census/researchers/w-turner-a5018150/"
 layout: "researcher"
 hiddenInHomeList: true

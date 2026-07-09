@@ -1,7 +1,7 @@
 ---
 title: "Fabiane Carvalho Ballotin"
 description: "Fabiane Carvalho Ballotin is a Mid-career Biochar researcher at Universidade Federal de Lavras in BR. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.122491
+date: 2026-07-10T01:07:48.146407
 url: "/cdr-researcher-census/researchers/fabiane-carvalho-ballotin-a5010789/"
 layout: "researcher"
 hiddenInHomeList: true

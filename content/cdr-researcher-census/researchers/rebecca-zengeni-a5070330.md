@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Zengeni"
 description: "Rebecca Zengeni is a Senior Soil Carbon researcher at University of KwaZulu-Natal in ZA. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.542572
+date: 2026-07-10T01:07:47.607616
 url: "/cdr-researcher-census/researchers/rebecca-zengeni-a5070330/"
 layout: "researcher"
 hiddenInHomeList: true

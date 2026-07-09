@@ -1,7 +1,7 @@
 ---
 title: "Botagoz Kuspangaliyeva"
 description: "Botagoz Kuspangaliyeva is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.762918
+date: 2026-07-10T01:07:48.707622
 url: "/cdr-researcher-census/researchers/botagoz-kuspangaliyeva-a5087804/"
 layout: "researcher"
 hiddenInHomeList: true

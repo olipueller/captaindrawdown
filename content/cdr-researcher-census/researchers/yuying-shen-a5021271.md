@@ -1,7 +1,7 @@
 ---
 title: "Yuying Shen"
 description: "Yuying Shen is a Senior Soil Carbon researcher at Jiangsu University in CN. With 138 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.059321
+date: 2026-07-10T01:07:47.135325
 url: "/cdr-researcher-census/researchers/yuying-shen-a5021271/"
 layout: "researcher"
 hiddenInHomeList: true

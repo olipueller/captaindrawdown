@@ -1,7 +1,7 @@
 ---
 title: "Umed Paliwal"
 description: "Umed Paliwal is a Mid-career General CDR researcher at University of California, Berkeley in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.259348
+date: 2026-07-10T01:07:48.266970
 url: "/cdr-researcher-census/researchers/umed-paliwal-a5005234/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cornelia Jaspers"
 description: "Cornelia Jaspers is a Senior Ocean CDR researcher at Technical University of Denmark in DK. With 142 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.110067
+date: 2026-07-10T01:07:47.195637
 url: "/cdr-researcher-census/researchers/cornelia-jaspers-a5076736/"
 layout: "researcher"
 hiddenInHomeList: true

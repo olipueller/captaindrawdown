@@ -1,7 +1,7 @@
 ---
 title: "Anna Elizabeth Løvgren Graversen"
 description: "Anna Elizabeth Løvgren Graversen is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.637643
+date: 2026-07-10T01:07:48.596513
 url: "/cdr-researcher-census/researchers/anna-elizabeth-lvgren-graversen-a5008433/"
 layout: "researcher"
 hiddenInHomeList: true

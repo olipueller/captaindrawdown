@@ -1,7 +1,7 @@
 ---
 title: "Armin Razi"
 description: "Armin Razi is a Mid-career Unknown researcher at Tehran University of Medical Sciences in IR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.726340
+date: 2026-07-10T01:07:48.675615
 url: "/cdr-researcher-census/researchers/armin-razi-a5029351/"
 layout: "researcher"
 hiddenInHomeList: true

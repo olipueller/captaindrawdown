@@ -1,7 +1,7 @@
 ---
 title: "Jisha Joseph"
 description: "Jisha Joseph is a Mid-career Unknown researcher at Central University of Kerala in IN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.968990
+date: 2026-07-10T01:07:47.979567
 url: "/cdr-researcher-census/researchers/jisha-joseph-a5112698/"
 layout: "researcher"
 hiddenInHomeList: true

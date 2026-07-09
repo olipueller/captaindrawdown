@@ -1,7 +1,7 @@
 ---
 title: "Haewon McJeon"
 description: "Haewon McJeon is an Eminent General CDR researcher at Korea Advanced Institute of Science and Technology in KR. With 194 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.925697
+date: 2026-07-10T01:07:46.939318
 url: "/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/"
 layout: "researcher"
 hiddenInHomeList: true

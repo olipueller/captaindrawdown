@@ -1,7 +1,7 @@
 ---
 title: "Lisa Sigl"
 description: "Lisa Sigl is a Mid-career General CDR researcher at University of Vienna in AT. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.084456
+date: 2026-07-10T01:07:48.085498
 url: "/cdr-researcher-census/researchers/lisa-sigl-a5009965/"
 layout: "researcher"
 hiddenInHomeList: true

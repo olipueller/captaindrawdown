@@ -1,7 +1,7 @@
 ---
 title: "Bochen Jiang"
 description: "Bochen Jiang is a Senior Unknown researcher at Shanghai Ship and Shipping Research Institute in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.637073
+date: 2026-07-10T01:07:47.696412
 url: "/cdr-researcher-census/researchers/bochen-jiang-a5049172/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jorge Luis Sánchez‐Navarro"
 description: "Jorge Luis Sánchez‐Navarro is a Mid-career Unknown researcher at Universidad Politécnica de Cartagena in ES. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.845325
+date: 2026-07-10T01:07:48.776805
 url: "/cdr-researcher-census/researchers/jorge-luis-sancheznavarro-a5038615/"
 layout: "researcher"
 hiddenInHomeList: true

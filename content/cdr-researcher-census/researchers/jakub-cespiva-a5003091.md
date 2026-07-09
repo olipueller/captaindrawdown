@@ -1,7 +1,7 @@
 ---
 title: "Jakub Čespiva"
 description: "Jakub Čespiva is a Mid-career Biochar researcher at VSB - Technical University of Ostrava in CZ. With 53 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.909193
+date: 2026-07-10T01:07:47.922851
 url: "/cdr-researcher-census/researchers/jakub-cespiva-a5003091/"
 layout: "researcher"
 hiddenInHomeList: true

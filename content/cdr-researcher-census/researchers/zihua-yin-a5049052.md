@@ -1,7 +1,7 @@
 ---
 title: "Zihua Yin"
 description: "Zihua Yin is a Mid-career General CDR researcher at Petro-Canada in CA. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.476957
+date: 2026-07-10T01:07:48.464132
 url: "/cdr-researcher-census/researchers/zihua-yin-a5049052/"
 layout: "researcher"
 hiddenInHomeList: true

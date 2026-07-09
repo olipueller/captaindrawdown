@@ -1,7 +1,7 @@
 ---
 title: "Shada A. Alsharif"
 description: "Shada A. Alsharif is a Mid-career Unknown researcher at University of Tabuk in SA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.163781
+date: 2026-07-10T01:07:48.181576
 url: "/cdr-researcher-census/researchers/shada-a-alsharif-a5007837/"
 layout: "researcher"
 hiddenInHomeList: true

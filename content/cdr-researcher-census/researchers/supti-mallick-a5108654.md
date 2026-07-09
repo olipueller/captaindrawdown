@@ -1,7 +1,7 @@
 ---
 title: "Supti Mallick"
 description: "Supti Mallick is a Mid-career Unknown researcher at Bangladesh Agricultural University in BD. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.222359
+date: 2026-07-10T01:07:49.132622
 url: "/cdr-researcher-census/researchers/supti-mallick-a5108654/"
 layout: "researcher"
 hiddenInHomeList: true

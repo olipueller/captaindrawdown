@@ -1,7 +1,7 @@
 ---
 title: "Neil Craik"
 description: "Neil Craik is a Senior General CDR researcher at University of Waterloo in CA. With 83 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.473879
+date: 2026-07-10T01:07:47.546089
 url: "/cdr-researcher-census/researchers/neil-craik-a5062311/"
 layout: "researcher"
 hiddenInHomeList: true

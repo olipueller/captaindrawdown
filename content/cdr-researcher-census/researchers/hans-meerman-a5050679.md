@@ -1,7 +1,7 @@
 ---
 title: "Hans Meerman"
 description: "Hans Meerman is a Senior General CDR researcher at Hogeschool van Arnhem en Nijmegen in NL. With 36 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.185802
+date: 2026-07-10T01:07:47.274838
 url: "/cdr-researcher-census/researchers/hans-meerman-a5050679/"
 layout: "researcher"
 hiddenInHomeList: true

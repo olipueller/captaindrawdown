@@ -1,7 +1,7 @@
 ---
 title: "Perla Cruz-Tato"
 description: "Perla Cruz-Tato is a Mid-career Unknown researcher at Ponce Health Sciences University in PR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.722871
+date: 2026-07-10T01:07:48.672542
 url: "/cdr-researcher-census/researchers/perla-cruz-tato-a5051968/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Félix de Tombeur"
 description: "Félix de Tombeur is a Mid-career Soil Carbon researcher at The University of Western Australia in AU. With 49 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.247029
+date: 2026-07-10T01:07:47.332477
 url: "/cdr-researcher-census/researchers/felix-de-tombeur-a5032466/"
 layout: "researcher"
 hiddenInHomeList: true

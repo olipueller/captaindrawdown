@@ -1,7 +1,7 @@
 ---
 title: "Jing-Yan Tan"
 description: "Jing-Yan Tan is an Early-career Biochar researcher at Harbin Institute of Technology in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.597790
+date: 2026-07-10T01:07:48.561626
 url: "/cdr-researcher-census/researchers/jing-yan-tan-a5032821/"
 layout: "researcher"
 hiddenInHomeList: true

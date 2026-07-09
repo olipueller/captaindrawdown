@@ -1,7 +1,7 @@
 ---
 title: "K R Ramesh"
 description: "K R Ramesh is a Mid-career General CDR researcher at Tamil Nadu Agricultural University in IN. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.961775
+date: 2026-07-10T01:07:48.882952
 url: "/cdr-researcher-census/researchers/k-r-ramesh-a5061399/"
 layout: "researcher"
 hiddenInHomeList: true

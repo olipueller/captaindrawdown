@@ -1,7 +1,7 @@
 ---
 title: "Decun Luo"
 description: "Decun Luo is a Mid-career Unknown researcher at State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.709413
+date: 2026-07-10T01:07:47.763630
 url: "/cdr-researcher-census/researchers/decun-luo-a5077340/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alfred E. Brown"
 description: "Alfred E. Brown is a Senior General CDR researcher at Los Alamos National Laboratory in US. With 60 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.232589
+date: 2026-07-10T01:07:47.319713
 url: "/cdr-researcher-census/researchers/alfred-e-brown-a5105422/"
 layout: "researcher"
 hiddenInHomeList: true

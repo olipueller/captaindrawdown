@@ -1,7 +1,7 @@
 ---
 title: "Pranab Kumar Pati"
 description: "Pranab Kumar Pati is a Mid-career Soil Carbon researcher at Dr. Hari Singh Gour University in IN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.266253
+date: 2026-07-10T01:07:48.272696
 url: "/cdr-researcher-census/researchers/pranab-kumar-pati-a5018685/"
 layout: "researcher"
 hiddenInHomeList: true

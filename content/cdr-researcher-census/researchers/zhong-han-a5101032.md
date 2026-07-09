@@ -1,7 +1,7 @@
 ---
 title: "Zhong Han"
 description: "Zhong Han is a Mid-career Enhanced Weathering researcher at National University of Defense Technology in CN. With 64 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.303205
+date: 2026-07-10T01:07:47.385409
 url: "/cdr-researcher-census/researchers/zhong-han-a5101032/"
 layout: "researcher"
 hiddenInHomeList: true

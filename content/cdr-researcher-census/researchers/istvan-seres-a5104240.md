@@ -1,7 +1,7 @@
 ---
 title: "István Seres"
 description: "István Seres is a Senior Unknown researcher at Magyar Agrár- és Élettudományi Egyetem in HU. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.896994
+date: 2026-07-10T01:07:47.911953
 url: "/cdr-researcher-census/researchers/istvan-seres-a5104240/"
 layout: "researcher"
 hiddenInHomeList: true

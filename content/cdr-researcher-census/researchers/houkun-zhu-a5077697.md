@@ -1,7 +1,7 @@
 ---
 title: "Houkun Zhu"
 description: "Houkun Zhu is a Mid-career Unknown researcher at China University of Mining and Technology in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.853885
+date: 2026-07-10T01:07:48.784583
 url: "/cdr-researcher-census/researchers/houkun-zhu-a5077697/"
 layout: "researcher"
 hiddenInHomeList: true

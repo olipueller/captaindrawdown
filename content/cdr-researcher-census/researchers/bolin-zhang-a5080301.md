@@ -1,7 +1,7 @@
 ---
 title: "Bolin Zhang"
 description: "Bolin Zhang is a Mid-career Unknown researcher at Ministry of Natural Resources in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.099979
+date: 2026-07-10T01:07:48.126309
 url: "/cdr-researcher-census/researchers/bolin-zhang-a5080301/"
 layout: "researcher"
 hiddenInHomeList: true

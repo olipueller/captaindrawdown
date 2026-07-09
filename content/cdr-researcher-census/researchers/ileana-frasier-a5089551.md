@@ -1,7 +1,7 @@
 ---
 title: "Ileana Frasier"
 description: "Ileana Frasier is a Mid-career Soil Carbon researcher at Instituto Nacional de Tecnologia in BR. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.818421
+date: 2026-07-10T01:07:47.864734
 url: "/cdr-researcher-census/researchers/ileana-frasier-a5089551/"
 layout: "researcher"
 hiddenInHomeList: true

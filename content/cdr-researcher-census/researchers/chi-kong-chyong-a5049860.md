@@ -1,7 +1,7 @@
 ---
 title: "Chi Kong Chyong"
 description: "Chi Kong Chyong is a Mid-career General CDR researcher at Oxford Institute for Energy Studies in GB. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.552100
+date: 2026-07-10T01:07:47.616173
 url: "/cdr-researcher-census/researchers/chi-kong-chyong-a5049860/"
 layout: "researcher"
 hiddenInHomeList: true

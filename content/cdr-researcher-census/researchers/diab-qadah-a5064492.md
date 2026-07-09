@@ -1,7 +1,7 @@
 ---
 title: "Diab Qadah"
 description: "Diab Qadah is a Senior Unknown researcher at Birzeit University in PS. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.063248
+date: 2026-07-10T01:07:48.066293
 url: "/cdr-researcher-census/researchers/diab-qadah-a5064492/"
 layout: "researcher"
 hiddenInHomeList: true

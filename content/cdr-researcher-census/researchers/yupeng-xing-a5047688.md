@@ -1,7 +1,7 @@
 ---
 title: "Yupeng Xing"
 description: "Yupeng Xing is a Mid-career Soil Carbon researcher at Tianjin University of Technology in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.934323
+date: 2026-07-10T01:07:47.947190
 url: "/cdr-researcher-census/researchers/yupeng-xing-a5047688/"
 layout: "researcher"
 hiddenInHomeList: true

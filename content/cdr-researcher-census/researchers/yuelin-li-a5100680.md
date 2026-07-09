@@ -1,7 +1,7 @@
 ---
 title: "Yuelin Li"
 description: "Yuelin Li is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 75 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.956579
+date: 2026-07-10T01:07:46.993001
 url: "/cdr-researcher-census/researchers/yuelin-li-a5100680/"
 layout: "researcher"
 hiddenInHomeList: true

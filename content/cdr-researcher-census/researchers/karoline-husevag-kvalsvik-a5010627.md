@@ -1,7 +1,7 @@
 ---
 title: "Karoline Husevåg Kvalsvik"
 description: "Karoline Husevåg Kvalsvik is a Mid-career Unknown researcher at Norwegian University of Science and Technology in NO. With 27 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.328256
+date: 2026-07-10T01:07:48.328695
 url: "/cdr-researcher-census/researchers/karoline-husevag-kvalsvik-a5010627/"
 layout: "researcher"
 hiddenInHomeList: true

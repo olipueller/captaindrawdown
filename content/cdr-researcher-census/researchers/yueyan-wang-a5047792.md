@@ -1,7 +1,7 @@
 ---
 title: "Yueyan Wang"
 description: "Yueyan Wang is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.169417
+date: 2026-07-10T01:07:48.186157
 url: "/cdr-researcher-census/researchers/yueyan-wang-a5047792/"
 layout: "researcher"
 hiddenInHomeList: true

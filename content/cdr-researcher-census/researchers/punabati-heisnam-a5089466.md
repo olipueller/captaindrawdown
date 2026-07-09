@@ -1,7 +1,7 @@
 ---
 title: "Punabati Heisnam"
 description: "Punabati Heisnam is a Mid-career Unknown researcher at Central Agricultural University in IN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.061293
+date: 2026-07-10T01:07:48.064826
 url: "/cdr-researcher-census/researchers/punabati-heisnam-a5089466/"
 layout: "researcher"
 hiddenInHomeList: true

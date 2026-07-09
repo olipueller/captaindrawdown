@@ -1,7 +1,7 @@
 ---
 title: "Ryohei Numaguchi"
 description: "Ryohei Numaguchi is a Senior General CDR researcher at Kawasaki Heavy Industries (Japan) in JP. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.732412
+date: 2026-07-10T01:07:47.784319
 url: "/cdr-researcher-census/researchers/ryohei-numaguchi-a5046532/"
 layout: "researcher"
 hiddenInHomeList: true

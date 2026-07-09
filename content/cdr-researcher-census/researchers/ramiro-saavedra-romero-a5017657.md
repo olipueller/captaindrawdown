@@ -1,7 +1,7 @@
 ---
 title: "Ramiro Saavedra-Romero"
 description: "Ramiro Saavedra-Romero is a Mid-career Unknown researcher at Abbott Northwestern Hospital in US. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.610183
+date: 2026-07-10T01:07:48.572045
 url: "/cdr-researcher-census/researchers/ramiro-saavedra-romero-a5017657/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lingying Xu"
 description: "Lingying Xu is a Mid-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.595571
+date: 2026-07-10T01:07:47.658616
 url: "/cdr-researcher-census/researchers/lingying-xu-a5013603/"
 layout: "researcher"
 hiddenInHomeList: true

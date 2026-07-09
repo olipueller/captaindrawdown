@@ -1,7 +1,7 @@
 ---
 title: "Cristina Aracil"
 description: "Cristina Aracil is a Mid-career General CDR researcher at Hospital Universitario Quirónsalud Madrid in ES. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.490669
+date: 2026-07-10T01:07:48.476720
 url: "/cdr-researcher-census/researchers/cristina-aracil-a5058250/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hiroko Yamada"
 description: "Hiroko Yamada is a Senior General CDR researcher at National Institute for Environmental Studies in JP. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.113519
+date: 2026-07-10T01:07:48.138729
 url: "/cdr-researcher-census/researchers/hiroko-yamada-a5111613/"
 layout: "researcher"
 hiddenInHomeList: true

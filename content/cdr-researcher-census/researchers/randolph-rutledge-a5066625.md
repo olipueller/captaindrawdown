@@ -1,7 +1,7 @@
 ---
 title: "Randolph Rutledge"
 description: "Randolph Rutledge is a Senior Unknown researcher at George Mason University in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.250541
+date: 2026-07-10T01:07:49.157838
 url: "/cdr-researcher-census/researchers/randolph-rutledge-a5066625/"
 layout: "researcher"
 hiddenInHomeList: true

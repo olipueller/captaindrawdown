@@ -1,7 +1,7 @@
 ---
 title: "Maxime Gommeaux"
 description: "Maxime Gommeaux is a Senior Soil Carbon researcher at Université de Reims Champagne-Ardenne in FR. With 58 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.546392
+date: 2026-07-10T01:07:47.610979
 url: "/cdr-researcher-census/researchers/maxime-gommeaux-a5012629/"
 layout: "researcher"
 hiddenInHomeList: true

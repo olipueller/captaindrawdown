@@ -1,7 +1,7 @@
 ---
 title: "Yuan Gong"
 description: "Yuan Gong is a Senior Unknown researcher at Chuzhou University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.822899
+date: 2026-07-10T01:07:48.757735
 url: "/cdr-researcher-census/researchers/yuan-gong-a5058531/"
 layout: "researcher"
 hiddenInHomeList: true

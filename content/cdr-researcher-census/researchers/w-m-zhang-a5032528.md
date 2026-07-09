@@ -1,7 +1,7 @@
 ---
 title: "W. M. Zhang"
 description: "W. M. Zhang is a Senior Unknown researcher at Shanghai Jiao Tong University in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.302996
+date: 2026-07-10T01:07:47.385198
 url: "/cdr-researcher-census/researchers/w-m-zhang-a5032528/"
 layout: "researcher"
 hiddenInHomeList: true

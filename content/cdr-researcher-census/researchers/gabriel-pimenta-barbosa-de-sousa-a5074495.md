@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Pimenta Barbosa de Sousa"
 description: "Gabriel Pimenta Barbosa de Sousa is a Mid-career Unknown researcher at Universidade de São Paulo in BR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.915939
+date: 2026-07-10T01:07:48.840364
 url: "/cdr-researcher-census/researchers/gabriel-pimenta-barbosa-de-sousa-a5074495/"
 layout: "researcher"
 hiddenInHomeList: true

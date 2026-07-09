@@ -1,7 +1,7 @@
 ---
 title: "Wenzhi Lei"
 description: "Wenzhi Lei is a Mid-career Unknown researcher at China University of Petroleum, Beijing in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.976104
+date: 2026-07-10T01:07:48.896088
 url: "/cdr-researcher-census/researchers/wenzhi-lei-a5047242/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Honghong Lyu"
 description: "Honghong Lyu is an Eminent Biochar researcher at Central Pollution Control Board in IN. With 147 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.917285
+date: 2026-07-10T01:07:46.923062
 url: "/cdr-researcher-census/researchers/honghong-lyu-a5070830/"
 layout: "researcher"
 hiddenInHomeList: true

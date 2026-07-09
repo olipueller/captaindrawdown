@@ -1,7 +1,7 @@
 ---
 title: "Liz Stower"
 description: "Liz Stower is a Mid-career Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.017322
+date: 2026-07-10T01:07:48.933487
 url: "/cdr-researcher-census/researchers/liz-stower-a5059882/"
 layout: "researcher"
 hiddenInHomeList: true

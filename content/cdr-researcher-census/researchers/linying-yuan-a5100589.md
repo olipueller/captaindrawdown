@@ -1,7 +1,7 @@
 ---
 title: "Linying Yuan"
 description: "Linying Yuan is a Mid-career Unknown researcher at Shanghai University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.845996
+date: 2026-07-10T01:07:48.777381
 url: "/cdr-researcher-census/researchers/linying-yuan-a5100589/"
 layout: "researcher"
 hiddenInHomeList: true

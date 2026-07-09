@@ -1,7 +1,7 @@
 ---
 title: "Chih-Hua Hsu"
 description: "Chih-Hua Hsu is a Senior Unknown researcher at Chung Yuan Christian University in TW. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.771408
+date: 2026-07-10T01:07:48.715236
 url: "/cdr-researcher-census/researchers/chih-hua-hsu-a5019379/"
 layout: "researcher"
 hiddenInHomeList: true

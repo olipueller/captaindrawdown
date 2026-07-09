@@ -1,7 +1,7 @@
 ---
 title: "Bastien Wild"
 description: "Bastien Wild is a Senior Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 56 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.447583
+date: 2026-07-10T01:07:47.523712
 url: "/cdr-researcher-census/researchers/bastien-wild-a5066613/"
 layout: "researcher"
 hiddenInHomeList: true

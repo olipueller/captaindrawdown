@@ -1,7 +1,7 @@
 ---
 title: "Justin Park"
 description: "Justin Park is a Senior Unknown researcher at Rensselaer Polytechnic Institute in US. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.512163
+date: 2026-07-10T01:07:48.496456
 url: "/cdr-researcher-census/researchers/justin-park-a5114222/"
 layout: "researcher"
 hiddenInHomeList: true

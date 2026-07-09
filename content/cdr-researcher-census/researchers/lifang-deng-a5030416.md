@@ -1,7 +1,7 @@
 ---
 title: "Lifang Deng"
 description: "Lifang Deng is a Senior Biochar researcher at South China Agricultural University College of Agriculture in CN. With 47 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.107382
+date: 2026-07-10T01:07:47.192505
 url: "/cdr-researcher-census/researchers/lifang-deng-a5030416/"
 layout: "researcher"
 hiddenInHomeList: true

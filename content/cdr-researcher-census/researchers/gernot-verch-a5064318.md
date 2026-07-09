@@ -1,7 +1,7 @@
 ---
 title: "Gernot Verch"
 description: "Gernot Verch is a Senior Soil Carbon researcher at Leibniz Centre for Agricultural Landscape Research in DE. With 46 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.652622
+date: 2026-07-10T01:07:47.710458
 url: "/cdr-researcher-census/researchers/gernot-verch-a5064318/"
 layout: "researcher"
 hiddenInHomeList: true

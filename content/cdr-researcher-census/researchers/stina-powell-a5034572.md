@@ -1,7 +1,7 @@
 ---
 title: "Stina Powell"
 description: "Stina Powell is a Senior Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.193763
+date: 2026-07-10T01:07:48.207730
 url: "/cdr-researcher-census/researchers/stina-powell-a5034572/"
 layout: "researcher"
 hiddenInHomeList: true

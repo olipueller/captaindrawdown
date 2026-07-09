@@ -1,7 +1,7 @@
 ---
 title: "Yingping Fan"
 description: "Yingping Fan is a Mid-career Unknown researcher at Zhejiang Ocean University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.264797
+date: 2026-07-10T01:07:48.271500
 url: "/cdr-researcher-census/researchers/yingping-fan-a5021900/"
 layout: "researcher"
 hiddenInHomeList: true

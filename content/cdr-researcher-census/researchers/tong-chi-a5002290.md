@@ -1,7 +1,7 @@
 ---
 title: "Tong Chi"
 description: "Tong Chi is a Mid-career Unknown researcher at Everbright International (China) in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.847133
+date: 2026-07-10T01:07:47.882885
 url: "/cdr-researcher-census/researchers/tong-chi-a5002290/"
 layout: "researcher"
 hiddenInHomeList: true

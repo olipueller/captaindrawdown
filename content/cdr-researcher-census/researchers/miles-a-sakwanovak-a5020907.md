@@ -1,7 +1,7 @@
 ---
 title: "Miles A. Sakwa‐Novak"
 description: "Miles A. Sakwa‐Novak is a Senior Unknown researcher at VIR Biotechnology (United States) in US. With 37 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.066188
+date: 2026-07-10T01:07:47.143601
 url: "/cdr-researcher-census/researchers/miles-a-sakwanovak-a5020907/"
 layout: "researcher"
 hiddenInHomeList: true

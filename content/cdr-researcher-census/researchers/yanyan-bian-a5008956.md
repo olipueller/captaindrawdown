@@ -1,7 +1,7 @@
 ---
 title: "Yanyan Bian"
 description: "Yanyan Bian is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.762405
+date: 2026-07-10T01:07:48.707260
 url: "/cdr-researcher-census/researchers/yanyan-bian-a5008956/"
 layout: "researcher"
 hiddenInHomeList: true

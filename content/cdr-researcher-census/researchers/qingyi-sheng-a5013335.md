@@ -1,7 +1,7 @@
 ---
 title: "Qingyi Sheng"
 description: "Qingyi Sheng is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.347441
+date: 2026-07-10T01:07:48.346050
 url: "/cdr-researcher-census/researchers/qingyi-sheng-a5013335/"
 layout: "researcher"
 hiddenInHomeList: true

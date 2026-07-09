@@ -1,7 +1,7 @@
 ---
 title: "Karen Kim"
 description: "Karen Kim is a Mid-career Unknown researcher at The University of Texas at Austin in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.005110
+date: 2026-07-10T01:07:48.013878
 url: "/cdr-researcher-census/researchers/karen-kim-a5103152/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ryno Laubscher"
 description: "Ryno Laubscher is a Senior General CDR researcher at Stellenbosch University in ZA. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.167698
+date: 2026-07-10T01:07:48.184783
 url: "/cdr-researcher-census/researchers/ryno-laubscher-a5103259/"
 layout: "researcher"
 hiddenInHomeList: true

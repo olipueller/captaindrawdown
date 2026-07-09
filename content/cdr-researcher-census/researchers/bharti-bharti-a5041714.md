@@ -1,7 +1,7 @@
 ---
 title: "Bharti Bharti"
 description: "Bharti Bharti is a Mid-career Biochar researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.040845
+date: 2026-07-10T01:07:48.954724
 url: "/cdr-researcher-census/researchers/bharti-bharti-a5041714/"
 layout: "researcher"
 hiddenInHomeList: true

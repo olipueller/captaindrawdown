@@ -1,7 +1,7 @@
 ---
 title: "Tsubasa Katsube"
 description: "Tsubasa Katsube is a Senior Unknown researcher at Nagoya University in JP. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.127592
+date: 2026-07-10T01:07:48.150987
 url: "/cdr-researcher-census/researchers/tsubasa-katsube-a5041974/"
 layout: "researcher"
 hiddenInHomeList: true

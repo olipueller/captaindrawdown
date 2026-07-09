@@ -1,7 +1,7 @@
 ---
 title: "Vicente Galvan"
 description: "Vicente Galvan is a Senior DAC researcher at University of Southern California in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.559780
+date: 2026-07-10T01:07:47.623748
 url: "/cdr-researcher-census/researchers/vicente-galvan-a5038923/"
 layout: "researcher"
 hiddenInHomeList: true

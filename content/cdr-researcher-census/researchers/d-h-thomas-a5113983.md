@@ -1,7 +1,7 @@
 ---
 title: "D. H. Thomas"
 description: "D. H. Thomas is a Senior Biochar researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.204921
+date: 2026-07-10T01:07:48.218246
 url: "/cdr-researcher-census/researchers/d-h-thomas-a5113983/"
 layout: "researcher"
 hiddenInHomeList: true

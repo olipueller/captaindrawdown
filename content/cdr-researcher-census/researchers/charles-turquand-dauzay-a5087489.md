@@ -1,7 +1,7 @@
 ---
 title: "Charles Turquand d’Auzay"
 description: "Charles Turquand d’Auzay is a Mid-career Unknown researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.773441
+date: 2026-07-10T01:07:48.717349
 url: "/cdr-researcher-census/researchers/charles-turquand-dauzay-a5087489/"
 layout: "researcher"
 hiddenInHomeList: true

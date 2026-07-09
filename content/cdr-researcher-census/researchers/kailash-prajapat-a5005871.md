@@ -1,7 +1,7 @@
 ---
 title: "Kailash Prajapat"
 description: "Kailash Prajapat is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 74 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.481050
+date: 2026-07-10T01:07:47.553142
 url: "/cdr-researcher-census/researchers/kailash-prajapat-a5005871/"
 layout: "researcher"
 hiddenInHomeList: true

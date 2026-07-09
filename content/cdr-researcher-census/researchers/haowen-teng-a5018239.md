@@ -1,7 +1,7 @@
 ---
 title: "Haowen Teng"
 description: "Haowen Teng is a Mid-career Biochar researcher at Zhejiang Energy Research Institute in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.506126
+date: 2026-07-10T01:07:48.491503
 url: "/cdr-researcher-census/researchers/haowen-teng-a5018239/"
 layout: "researcher"
 hiddenInHomeList: true

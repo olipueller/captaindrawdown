@@ -1,7 +1,7 @@
 ---
 title: "Sabastine U. Ugbaje"
 description: "Sabastine U. Ugbaje is a Mid-career Unknown researcher at CSIRO in AU. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.581772
+date: 2026-07-10T01:07:47.645223
 url: "/cdr-researcher-census/researchers/sabastine-u-ugbaje-a5076796/"
 layout: "researcher"
 hiddenInHomeList: true

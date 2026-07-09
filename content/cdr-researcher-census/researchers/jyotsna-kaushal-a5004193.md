@@ -1,7 +1,7 @@
 ---
 title: "Jyotsna Kaushal"
 description: "Jyotsna Kaushal is a Senior Biochar researcher at Chitkara University in IN. With 98 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.008908
+date: 2026-07-10T01:07:47.071527
 url: "/cdr-researcher-census/researchers/jyotsna-kaushal-a5004193/"
 layout: "researcher"
 hiddenInHomeList: true

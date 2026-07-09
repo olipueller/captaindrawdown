@@ -1,7 +1,7 @@
 ---
 title: "Gokhan Onder Aksu"
 description: "Gokhan Onder Aksu is a Mid-career Unknown researcher at Koç University in TR. With 21 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.256621
+date: 2026-07-10T01:07:47.340891
 url: "/cdr-researcher-census/researchers/gokhan-onder-aksu-a5059603/"
 layout: "researcher"
 hiddenInHomeList: true

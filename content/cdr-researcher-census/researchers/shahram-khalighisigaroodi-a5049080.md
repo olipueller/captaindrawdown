@@ -1,7 +1,7 @@
 ---
 title: "Shahram Khalighi‐Sigaroodi"
 description: "Shahram Khalighi‐Sigaroodi is a Senior Unknown researcher at University of Tehran in IR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.808925
+date: 2026-07-10T01:07:47.855340
 url: "/cdr-researcher-census/researchers/shahram-khalighisigaroodi-a5049080/"
 layout: "researcher"
 hiddenInHomeList: true

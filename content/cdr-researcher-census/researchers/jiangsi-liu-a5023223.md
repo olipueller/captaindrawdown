@@ -1,7 +1,7 @@
 ---
 title: "Jiangsi Liu"
 description: "Jiangsi Liu is a Mid-career Enhanced Weathering researcher at Hohai University in CN. With 25 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.172979
+date: 2026-07-10T01:07:47.262373
 url: "/cdr-researcher-census/researchers/jiangsi-liu-a5023223/"
 layout: "researcher"
 hiddenInHomeList: true

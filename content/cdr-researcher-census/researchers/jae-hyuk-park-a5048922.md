@@ -1,7 +1,7 @@
 ---
 title: "Jae-Hyuk Park"
 description: "Jae-Hyuk Park is a Mid-career Soil Carbon researcher at Rural Development Administration in KR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.217084
+date: 2026-07-10T01:07:49.128212
 url: "/cdr-researcher-census/researchers/jae-hyuk-park-a5048922/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Venkataraman Lakshmi"
 description: "Venkataraman Lakshmi is a Mid-career Soil Carbon researcher at Cellular Materials International (United States) in US. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.148431
+date: 2026-07-10T01:07:48.168458
 url: "/cdr-researcher-census/researchers/venkataraman-lakshmi-a5114207/"
 layout: "researcher"
 hiddenInHomeList: true

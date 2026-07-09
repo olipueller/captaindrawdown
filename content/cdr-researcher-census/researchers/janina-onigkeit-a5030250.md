@@ -1,7 +1,7 @@
 ---
 title: "Janina Onigkeit"
 description: "Janina Onigkeit is a Senior General CDR researcher at University of Kassel in DE. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.069817
+date: 2026-07-10T01:07:48.072498
 url: "/cdr-researcher-census/researchers/janina-onigkeit-a5030250/"
 layout: "researcher"
 hiddenInHomeList: true

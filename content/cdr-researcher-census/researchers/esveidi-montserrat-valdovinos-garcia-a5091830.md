@@ -1,7 +1,7 @@
 ---
 title: "Esveidi Montserrat Valdovinos-García"
 description: "Esveidi Montserrat Valdovinos-García is a Mid-career Unknown researcher at Universidad Juárez Autónoma de Tabasco in MX. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.550375
+date: 2026-07-10T01:07:48.530481
 url: "/cdr-researcher-census/researchers/esveidi-montserrat-valdovinos-garcia-a5091830/"
 layout: "researcher"
 hiddenInHomeList: true

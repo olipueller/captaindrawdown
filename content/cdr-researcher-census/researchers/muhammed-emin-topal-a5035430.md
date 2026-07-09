@@ -1,7 +1,7 @@
 ---
 title: "Muhammed Emin Topal"
 description: "Muhammed Emin Topal is an Early-career Unknown researcher at Recep Tayyip Erdoğan University in TR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.639502
+date: 2026-07-10T01:07:47.698710
 url: "/cdr-researcher-census/researchers/muhammed-emin-topal-a5035430/"
 layout: "researcher"
 hiddenInHomeList: true

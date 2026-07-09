@@ -1,7 +1,7 @@
 ---
 title: "Michael A. Cobb"
 description: "Michael A. Cobb is a Senior Ocean CDR researcher. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.921136
+date: 2026-07-10T01:07:47.934685
 url: "/cdr-researcher-census/researchers/michael-a-cobb-a5109427/"
 layout: "researcher"
 hiddenInHomeList: true

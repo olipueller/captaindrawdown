@@ -1,7 +1,7 @@
 ---
 title: "Tercia Bezerra"
 description: "Tercia Bezerra is a Mid-career Unknown researcher at Ibero American University in MX. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.723455
+date: 2026-07-10T01:07:47.776176
 url: "/cdr-researcher-census/researchers/tercia-bezerra-a5025272/"
 layout: "researcher"
 hiddenInHomeList: true

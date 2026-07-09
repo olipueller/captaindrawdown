@@ -1,7 +1,7 @@
 ---
 title: "Filippo Bisotti"
 description: "Filippo Bisotti is a Mid-career General CDR researcher at SINTEF in NO. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.900451
+date: 2026-07-10T01:07:47.915042
 url: "/cdr-researcher-census/researchers/filippo-bisotti-a5027307/"
 layout: "researcher"
 hiddenInHomeList: true

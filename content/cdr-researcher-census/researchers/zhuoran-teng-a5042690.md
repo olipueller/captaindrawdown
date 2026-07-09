@@ -1,7 +1,7 @@
 ---
 title: "Zhuoran Teng"
 description: "Zhuoran Teng is a Mid-career Unknown researcher at Kunming Medical University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.609922
+date: 2026-07-10T01:07:48.571836
 url: "/cdr-researcher-census/researchers/zhuoran-teng-a5042690/"
 layout: "researcher"
 hiddenInHomeList: true

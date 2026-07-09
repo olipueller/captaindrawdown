@@ -1,7 +1,7 @@
 ---
 title: "María Luz Cayuela"
 description: "María Luz Cayuela is an Eminent General CDR researcher at CEBAS-CSIC in ES. With 137 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.900427
+date: 2026-07-10T01:07:46.887840
 url: "/cdr-researcher-census/researchers/maria-luz-cayuela-a5017889/"
 layout: "researcher"
 hiddenInHomeList: true

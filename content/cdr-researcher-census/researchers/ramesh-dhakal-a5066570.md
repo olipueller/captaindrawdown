@@ -1,7 +1,7 @@
 ---
 title: "Ramesh Dhakal"
 description: "Ramesh Dhakal is a Mid-career Soil Carbon researcher at Virginia State University in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.108335
+date: 2026-07-10T01:07:48.134195
 url: "/cdr-researcher-census/researchers/ramesh-dhakal-a5066570/"
 layout: "researcher"
 hiddenInHomeList: true

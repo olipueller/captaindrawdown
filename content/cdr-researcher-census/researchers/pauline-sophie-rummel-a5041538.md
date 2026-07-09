@@ -1,7 +1,7 @@
 ---
 title: "Pauline Sophie Rummel"
 description: "Pauline Sophie Rummel is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.975703
+date: 2026-07-10T01:07:47.985671
 url: "/cdr-researcher-census/researchers/pauline-sophie-rummel-a5041538/"
 layout: "researcher"
 hiddenInHomeList: true

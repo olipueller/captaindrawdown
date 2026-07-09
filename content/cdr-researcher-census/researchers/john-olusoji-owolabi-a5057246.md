@@ -1,7 +1,7 @@
 ---
 title: "John Olusoji Owolabi"
 description: "John Olusoji Owolabi is a Mid-career Unknown researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.123594
+date: 2026-07-10T01:07:49.028946
 url: "/cdr-researcher-census/researchers/john-olusoji-owolabi-a5057246/"
 layout: "researcher"
 hiddenInHomeList: true

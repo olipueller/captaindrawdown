@@ -1,7 +1,7 @@
 ---
 title: "Chenhao Pan"
 description: "Chenhao Pan is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.238845
+date: 2026-07-10T01:07:48.248138
 url: "/cdr-researcher-census/researchers/chenhao-pan-a5102510/"
 layout: "researcher"
 hiddenInHomeList: true

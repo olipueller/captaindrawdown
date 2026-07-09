@@ -1,7 +1,7 @@
 ---
 title: "Walter Mucha"
 description: "Walter Mucha is a Senior General CDR researcher at Silesian University of Technology in PL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.798892
+date: 2026-07-10T01:07:48.737976
 url: "/cdr-researcher-census/researchers/walter-mucha-a5062327/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andreas Kiesel"
 description: "Andreas Kiesel is a Senior General CDR researcher at University of Hohenheim in DE. With 61 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.084113
+date: 2026-07-10T01:07:47.165621
 url: "/cdr-researcher-census/researchers/andreas-kiesel-a5016778/"
 layout: "researcher"
 hiddenInHomeList: true

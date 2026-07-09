@@ -1,7 +1,7 @@
 ---
 title: "Liqing Sha"
 description: "Liqing Sha is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 97 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.066500
+date: 2026-07-10T01:07:47.144090
 url: "/cdr-researcher-census/researchers/liqing-sha-a5111993/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fanglong Su"
 description: "Fanglong Su is a Mid-career Soil Carbon researcher at Henan University in CN. With 24 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.152987
+date: 2026-07-10T01:07:47.241127
 url: "/cdr-researcher-census/researchers/fanglong-su-a5070519/"
 layout: "researcher"
 hiddenInHomeList: true

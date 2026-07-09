@@ -1,7 +1,7 @@
 ---
 title: "Annette Van Niejenhuis"
 description: "Annette Van Niejenhuis is a Senior Unknown researcher at Western Forest Products in CA. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.295024
+date: 2026-07-10T01:07:48.298539
 url: "/cdr-researcher-census/researchers/annette-van-niejenhuis-a5005965/"
 layout: "researcher"
 hiddenInHomeList: true

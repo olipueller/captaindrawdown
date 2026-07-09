@@ -1,7 +1,7 @@
 ---
 title: "Andres Flores-Valle"
 description: "Andres Flores-Valle is a Mid-career Unknown researcher at Heidelberg University in DE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.652804
+date: 2026-07-10T01:07:48.611163
 url: "/cdr-researcher-census/researchers/andres-flores-valle-a5015226/"
 layout: "researcher"
 hiddenInHomeList: true

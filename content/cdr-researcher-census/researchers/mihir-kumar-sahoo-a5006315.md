@@ -1,7 +1,7 @@
 ---
 title: "Mihir Kumar Sahoo"
 description: "Mihir Kumar Sahoo is a Mid-career Unknown researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.012593
+date: 2026-07-10T01:07:48.020481
 url: "/cdr-researcher-census/researchers/mihir-kumar-sahoo-a5006315/"
 layout: "researcher"
 hiddenInHomeList: true

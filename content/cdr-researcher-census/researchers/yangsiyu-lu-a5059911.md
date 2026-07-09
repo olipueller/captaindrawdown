@@ -1,7 +1,7 @@
 ---
 title: "Yangsiyu Lu"
 description: "Yangsiyu Lu is a Mid-career General CDR researcher at South China University of Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.951041
+date: 2026-07-10T01:07:47.962668
 url: "/cdr-researcher-census/researchers/yangsiyu-lu-a5059911/"
 layout: "researcher"
 hiddenInHomeList: true

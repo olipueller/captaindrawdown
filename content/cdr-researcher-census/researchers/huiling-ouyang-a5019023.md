@@ -1,7 +1,7 @@
 ---
 title: "Huiling Ouyang"
 description: "Huiling Ouyang is a Mid-career Unknown researcher at Fudan University in CN. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.048085
+date: 2026-07-10T01:07:48.053278
 url: "/cdr-researcher-census/researchers/huiling-ouyang-a5019023/"
 layout: "researcher"
 hiddenInHomeList: true

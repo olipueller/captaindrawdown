@@ -1,7 +1,7 @@
 ---
 title: "Simon Lewin"
 description: "Simon Lewin is an Early-career Unknown researcher at South African Medical Research Council in ZA. With 20 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.440693
+date: 2026-07-10T01:07:48.430500
 url: "/cdr-researcher-census/researchers/simon-lewin-a5066786/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "María Yetano Roche"
 description: "María Yetano Roche is a Senior Unknown researcher. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.729956
+date: 2026-07-10T01:07:47.781879
 url: "/cdr-researcher-census/researchers/maria-yetano-roche-a5027087/"
 layout: "researcher"
 hiddenInHomeList: true

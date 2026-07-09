@@ -1,7 +1,7 @@
 ---
 title: "Hossein Riasat Harami"
 description: "Hossein Riasat Harami is a Mid-career Biochar researcher at University of Alabama in US. With 20 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.393447
+date: 2026-07-10T01:07:47.474563
 url: "/cdr-researcher-census/researchers/hossein-riasat-harami-a5077930/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Craig Taylor"
 description: "Craig Taylor is a Senior Unknown researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.568297
+date: 2026-07-10T01:07:47.632076
 url: "/cdr-researcher-census/researchers/craig-taylor-a5069914/"
 layout: "researcher"
 hiddenInHomeList: true

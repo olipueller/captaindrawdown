@@ -1,7 +1,7 @@
 ---
 title: "Qian Zhang"
 description: "Qian Zhang is a Senior Unknown researcher at Southwest Petroleum University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.507528
+date: 2026-07-10T01:07:48.492752
 url: "/cdr-researcher-census/researchers/qian-zhang-a5052495/"
 layout: "researcher"
 hiddenInHomeList: true

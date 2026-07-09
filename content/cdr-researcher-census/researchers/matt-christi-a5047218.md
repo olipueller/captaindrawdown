@@ -1,7 +1,7 @@
 ---
 title: "Matt Christi"
 description: "Matt Christi is a Mid-career Unknown researcher at Collins College in US. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.629066
+date: 2026-07-10T01:07:48.589064
 url: "/cdr-researcher-census/researchers/matt-christi-a5047218/"
 layout: "researcher"
 hiddenInHomeList: true

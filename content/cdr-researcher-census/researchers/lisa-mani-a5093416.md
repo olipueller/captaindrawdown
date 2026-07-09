@@ -1,7 +1,7 @@
 ---
 title: "Lisa Mani"
 description: "Lisa Mani is a Mid-career Unknown researcher at Shahjalal University of Science and Technology in BD. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.013400
+date: 2026-07-10T01:07:48.930293
 url: "/cdr-researcher-census/researchers/lisa-mani-a5093416/"
 layout: "researcher"
 hiddenInHomeList: true

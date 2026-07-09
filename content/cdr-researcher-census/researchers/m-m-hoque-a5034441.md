@@ -1,7 +1,7 @@
 ---
 title: "M. M. Hoque"
 description: "M. M. Hoque is a Senior Unknown researcher at Washington State University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.150265
+date: 2026-07-10T01:07:49.052608
 url: "/cdr-researcher-census/researchers/m-m-hoque-a5034441/"
 layout: "researcher"
 hiddenInHomeList: true

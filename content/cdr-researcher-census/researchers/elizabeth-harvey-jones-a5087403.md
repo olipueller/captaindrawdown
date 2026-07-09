@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Harvey-Jones"
 description: "Elizabeth Harvey-Jones is a Mid-career Unknown researcher at Royal Marsden NHS Foundation Trust in GB. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.028960
+date: 2026-07-10T01:07:47.097442
 url: "/cdr-researcher-census/researchers/elizabeth-harvey-jones-a5087403/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gaofeng Dai"
 description: "Gaofeng Dai is a Mid-career BECCS researcher at Xi'an Jiaotong University in CN. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.764399
+date: 2026-07-10T01:07:47.814926
 url: "/cdr-researcher-census/researchers/gaofeng-dai-a5024409/"
 layout: "researcher"
 hiddenInHomeList: true

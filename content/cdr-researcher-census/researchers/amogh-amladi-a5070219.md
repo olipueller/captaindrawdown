@@ -1,7 +1,7 @@
 ---
 title: "Amogh Amladi"
 description: "Amogh Amladi is a Mid-career General CDR researcher at University of Groningen in NL. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.058942
+date: 2026-07-10T01:07:48.971573
 url: "/cdr-researcher-census/researchers/amogh-amladi-a5070219/"
 layout: "researcher"
 hiddenInHomeList: true

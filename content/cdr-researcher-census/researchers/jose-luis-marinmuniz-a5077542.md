@@ -1,7 +1,7 @@
 ---
 title: "José Luis Marín‐Muñiz"
 description: "José Luis Marín‐Muñiz is a Mid-career Soil Carbon researcher at TECNOLÓGICO NACIONAL DE MÉXICO. TECNOLÓGICO SUPERIOR DE MISANTLA in MX. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.222270
+date: 2026-07-10T01:07:47.309406
 url: "/cdr-researcher-census/researchers/jose-luis-marinmuniz-a5077542/"
 layout: "researcher"
 hiddenInHomeList: true

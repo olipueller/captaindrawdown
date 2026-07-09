@@ -1,7 +1,7 @@
 ---
 title: "Alexandria Castillo"
 description: "Alexandria Castillo is a Mid-career Unknown researcher at The University of Texas at El Paso in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.847069
+date: 2026-07-10T01:07:48.778275
 url: "/cdr-researcher-census/researchers/alexandria-castillo-a5014247/"
 layout: "researcher"
 hiddenInHomeList: true

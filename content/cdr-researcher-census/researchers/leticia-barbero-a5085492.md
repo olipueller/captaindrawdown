@@ -1,7 +1,7 @@
 ---
 title: "Leticia Barbero"
 description: "Leticia Barbero is a Senior Ocean CDR researcher at University of Miami in US. With 105 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.905835
+date: 2026-07-10T01:07:46.900100
 url: "/cdr-researcher-census/researchers/leticia-barbero-a5085492/"
 layout: "researcher"
 hiddenInHomeList: true

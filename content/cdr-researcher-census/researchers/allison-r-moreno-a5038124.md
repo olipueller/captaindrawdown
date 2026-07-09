@@ -1,7 +1,7 @@
 ---
 title: "Allison R. Moreno"
 description: "Allison R. Moreno is a Mid-career Unknown researcher at University of California, Santa Cruz in US. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.706523
+date: 2026-07-10T01:07:47.760766
 url: "/cdr-researcher-census/researchers/allison-r-moreno-a5038124/"
 layout: "researcher"
 hiddenInHomeList: true

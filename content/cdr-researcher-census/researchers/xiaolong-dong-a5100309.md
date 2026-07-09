@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Dong"
 description: "Xiaolong Dong is a Mid-career Unknown researcher at Northeast Agricultural University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.395414
+date: 2026-07-10T01:07:48.387753
 url: "/cdr-researcher-census/researchers/xiaolong-dong-a5100309/"
 layout: "researcher"
 hiddenInHomeList: true

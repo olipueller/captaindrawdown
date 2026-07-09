@@ -1,7 +1,7 @@
 ---
 title: "Kennedy Muthee"
 description: "Kennedy Muthee is a Mid-career Unknown researcher at World Agroforestry Centre in KE. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.956557
+date: 2026-07-10T01:07:47.967621
 url: "/cdr-researcher-census/researchers/kennedy-muthee-a5009906/"
 layout: "researcher"
 hiddenInHomeList: true

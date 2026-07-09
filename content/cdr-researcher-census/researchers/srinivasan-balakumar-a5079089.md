@@ -1,7 +1,7 @@
 ---
 title: "Srinivasan Balakumar"
 description: "Srinivasan Balakumar is a Mid-career Unknown researcher at SASTRA University in IN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.513151
+date: 2026-07-10T01:07:47.581328
 url: "/cdr-researcher-census/researchers/srinivasan-balakumar-a5079089/"
 layout: "researcher"
 hiddenInHomeList: true

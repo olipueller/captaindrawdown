@@ -1,7 +1,7 @@
 ---
 title: "Pham Thi Thu Hoai"
 description: "Pham Thi Thu Hoai is a Mid-career Unknown researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.804189
+date: 2026-07-10T01:07:48.743009
 url: "/cdr-researcher-census/researchers/pham-thi-thu-hoai-a5022743/"
 layout: "researcher"
 hiddenInHomeList: true

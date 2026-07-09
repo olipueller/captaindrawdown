@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Ke"
 description: "Yuxin Ke is a Mid-career Biochar researcher at Northwest University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.583173
+date: 2026-07-10T01:07:47.646691
 url: "/cdr-researcher-census/researchers/yuxin-ke-a5086553/"
 layout: "researcher"
 hiddenInHomeList: true

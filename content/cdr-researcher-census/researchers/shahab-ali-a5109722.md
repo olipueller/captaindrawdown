@@ -1,7 +1,7 @@
 ---
 title: "Shahab Ali"
 description: "Shahab Ali is a Mid-career Soil Carbon researcher at Institute of Botany of the Slovak Academy of Sciences in SK. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.107960
+date: 2026-07-10T01:07:48.133906
 url: "/cdr-researcher-census/researchers/shahab-ali-a5109722/"
 layout: "researcher"
 hiddenInHomeList: true

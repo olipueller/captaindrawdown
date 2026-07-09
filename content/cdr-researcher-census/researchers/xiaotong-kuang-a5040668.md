@@ -1,7 +1,7 @@
 ---
 title: "Xiaotong Kuang"
 description: "Xiaotong Kuang is a Mid-career Biochar researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.816564
+date: 2026-07-10T01:07:47.862997
 url: "/cdr-researcher-census/researchers/xiaotong-kuang-a5040668/"
 layout: "researcher"
 hiddenInHomeList: true

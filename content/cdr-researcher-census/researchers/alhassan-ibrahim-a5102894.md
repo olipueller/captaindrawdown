@@ -1,7 +1,7 @@
 ---
 title: "Alhassan Ibrahim"
 description: "Alhassan Ibrahim is a Mid-career Biochar researcher at Oregon State University in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.605299
+date: 2026-07-10T01:07:48.568141
 url: "/cdr-researcher-census/researchers/alhassan-ibrahim-a5102894/"
 layout: "researcher"
 hiddenInHomeList: true

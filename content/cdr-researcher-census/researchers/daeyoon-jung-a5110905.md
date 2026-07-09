@@ -1,7 +1,7 @@
 ---
 title: "Daeyoon Jung"
 description: "Daeyoon Jung is a Senior Unknown researcher at Dankook University in KR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.079286
+date: 2026-07-10T01:07:48.081188
 url: "/cdr-researcher-census/researchers/daeyoon-jung-a5110905/"
 layout: "researcher"
 hiddenInHomeList: true

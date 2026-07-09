@@ -1,7 +1,7 @@
 ---
 title: "Henrique Real Guimarães"
 description: "Henrique Real Guimarães is a Mid-career General CDR researcher at Brazilian Center for Research in Energy and Materials in BR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.893532
+date: 2026-07-10T01:07:48.819658
 url: "/cdr-researcher-census/researchers/henrique-real-guimaraes-a5003440/"
 layout: "researcher"
 hiddenInHomeList: true

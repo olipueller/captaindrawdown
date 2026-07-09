@@ -1,7 +1,7 @@
 ---
 title: "Chuancheng Fu"
 description: "Chuancheng Fu is a Senior Soil Carbon researcher at King Abdullah University of Science and Technology in SA. With 107 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.004292
+date: 2026-07-10T01:07:47.064938
 url: "/cdr-researcher-census/researchers/chuancheng-fu-a5020800/"
 layout: "researcher"
 hiddenInHomeList: true

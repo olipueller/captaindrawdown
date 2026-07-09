@@ -1,7 +1,7 @@
 ---
 title: "Douglas Eudy"
 description: "Douglas Eudy is a Senior Soil Carbon researcher at Bayer (United States) in US. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.778857
+date: 2026-07-10T01:07:47.828009
 url: "/cdr-researcher-census/researchers/douglas-eudy-a5113129/"
 layout: "researcher"
 hiddenInHomeList: true

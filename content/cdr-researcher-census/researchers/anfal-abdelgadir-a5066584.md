@@ -1,7 +1,7 @@
 ---
 title: "Anfal Abdelgadir"
 description: "Anfal Abdelgadir is a Mid-career Unknown researcher at University of North Carolina at Chapel Hill in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.602872
+date: 2026-07-10T01:07:48.565984
 url: "/cdr-researcher-census/researchers/anfal-abdelgadir-a5066584/"
 layout: "researcher"
 hiddenInHomeList: true

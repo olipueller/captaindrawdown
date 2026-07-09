@@ -1,7 +1,7 @@
 ---
 title: "Yinyin Zhao"
 description: "Yinyin Zhao is a Senior Unknown researcher at Zhejiang A & F University in CN. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.403297
+date: 2026-07-10T01:07:48.394906
 url: "/cdr-researcher-census/researchers/yinyin-zhao-a5102216/"
 layout: "researcher"
 hiddenInHomeList: true

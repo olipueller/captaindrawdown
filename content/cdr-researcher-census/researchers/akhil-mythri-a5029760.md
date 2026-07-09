@@ -1,7 +1,7 @@
 ---
 title: "Akhil Mythri"
 description: "Akhil Mythri is an Early-career General CDR researcher at Indian Institute of Technology Bombay in IN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.868124
+date: 2026-07-10T01:07:48.796879
 url: "/cdr-researcher-census/researchers/akhil-mythri-a5029760/"
 layout: "researcher"
 hiddenInHomeList: true

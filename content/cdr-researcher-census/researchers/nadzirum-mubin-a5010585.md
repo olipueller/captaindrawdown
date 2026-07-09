@@ -1,7 +1,7 @@
 ---
 title: "Nadzirum Mubin"
 description: "Nadzirum Mubin is a Mid-career Unknown researcher at IPB University in ID. With 29 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.248610
+date: 2026-07-10T01:07:49.156055
 url: "/cdr-researcher-census/researchers/nadzirum-mubin-a5010585/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Craig W. Whippo"
 description: "Craig W. Whippo is a Senior Soil Carbon researcher at Agricultural Research Service in US. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.418484
+date: 2026-07-10T01:07:47.497587
 url: "/cdr-researcher-census/researchers/craig-w-whippo-a5011788/"
 layout: "researcher"
 hiddenInHomeList: true

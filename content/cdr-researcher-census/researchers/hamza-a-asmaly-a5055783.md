@@ -1,7 +1,7 @@
 ---
 title: "Hamza A. Asmaly"
 description: "Hamza A. Asmaly is a Mid-career General CDR researcher at King Fahd University of Petroleum and Minerals in SA. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.595131
+date: 2026-07-10T01:07:47.658220
 url: "/cdr-researcher-census/researchers/hamza-a-asmaly-a5055783/"
 layout: "researcher"
 hiddenInHomeList: true

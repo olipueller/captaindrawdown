@@ -1,7 +1,7 @@
 ---
 title: "Stephen D. Archer"
 description: "Stephen D. Archer is an Eminent Ocean CDR researcher at Bigelow Laboratory for Ocean Sciences in US. With 125 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.949659
+date: 2026-07-10T01:07:46.982429
 url: "/cdr-researcher-census/researchers/stephen-d-archer-a5025073/"
 layout: "researcher"
 hiddenInHomeList: true

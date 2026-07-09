@@ -1,7 +1,7 @@
 ---
 title: "Yuanye Chen"
 description: "Yuanye Chen is a Mid-career General CDR researcher at North China Electric Power University in CN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.820875
+date: 2026-07-10T01:07:48.756052
 url: "/cdr-researcher-census/researchers/yuanye-chen-a5029021/"
 layout: "researcher"
 hiddenInHomeList: true

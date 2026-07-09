@@ -1,7 +1,7 @@
 ---
 title: "Thomas M. Rayder"
 description: "Thomas M. Rayder is a Mid-career Unknown researcher at Northwestern University in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.467292
+date: 2026-07-10T01:07:47.540443
 url: "/cdr-researcher-census/researchers/thomas-m-rayder-a5077682/"
 layout: "researcher"
 hiddenInHomeList: true

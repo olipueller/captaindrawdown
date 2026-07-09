@@ -1,7 +1,7 @@
 ---
 title: "Yingxue Ma"
 description: "Yingxue Ma is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.124833
+date: 2026-07-10T01:07:49.030178
 url: "/cdr-researcher-census/researchers/yingxue-ma-a5080378/"
 layout: "researcher"
 hiddenInHomeList: true

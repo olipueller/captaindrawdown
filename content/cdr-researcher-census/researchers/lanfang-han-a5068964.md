@@ -1,7 +1,7 @@
 ---
 title: "Lanfang Han"
 description: "Lanfang Han is an Eminent Biochar researcher at Guangdong University of Technology in CN. With 122 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.931508
+date: 2026-07-10T01:07:46.949755
 url: "/cdr-researcher-census/researchers/lanfang-han-a5068964/"
 layout: "researcher"
 hiddenInHomeList: true

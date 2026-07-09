@@ -1,7 +1,7 @@
 ---
 title: "Cameron Wade"
 description: "Cameron Wade is a Mid-career General CDR researcher at Science Club in US. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.134259
+date: 2026-07-10T01:07:48.156304
 url: "/cdr-researcher-census/researchers/cameron-wade-a5022584/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maryam Golbazi"
 description: "Maryam Golbazi is a Mid-career Unknown researcher. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.954982
+date: 2026-07-10T01:07:47.966268
 url: "/cdr-researcher-census/researchers/maryam-golbazi-a5059365/"
 layout: "researcher"
 hiddenInHomeList: true

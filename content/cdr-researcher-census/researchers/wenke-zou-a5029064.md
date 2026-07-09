@@ -1,7 +1,7 @@
 ---
 title: "Wenke Zou"
 description: "Wenke Zou is a Mid-career Unknown researcher at Hong Kong Polytechnic University in HK. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.464983
+date: 2026-07-10T01:07:48.452764
 url: "/cdr-researcher-census/researchers/wenke-zou-a5029064/"
 layout: "researcher"
 hiddenInHomeList: true

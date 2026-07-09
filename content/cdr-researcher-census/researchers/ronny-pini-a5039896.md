@@ -1,7 +1,7 @@
 ---
 title: "Ronny Pini"
 description: "Ronny Pini is a Senior DAC researcher at NIHR Imperial Biomedical Research Centre in GB. With 218 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.940895
+date: 2026-07-10T01:07:46.966917
 url: "/cdr-researcher-census/researchers/ronny-pini-a5039896/"
 layout: "researcher"
 hiddenInHomeList: true

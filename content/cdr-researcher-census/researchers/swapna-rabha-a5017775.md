@@ -1,7 +1,7 @@
 ---
 title: "Swapna Rabha"
 description: "Swapna Rabha is a Senior General CDR researcher at Indian Institute of Technology Madras in IN. With 19 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.509851
+date: 2026-07-10T01:07:47.578547
 url: "/cdr-researcher-census/researchers/swapna-rabha-a5017775/"
 layout: "researcher"
 hiddenInHomeList: true

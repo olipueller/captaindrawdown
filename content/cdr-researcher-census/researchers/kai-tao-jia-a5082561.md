@@ -1,7 +1,7 @@
 ---
 title: "Kai-tao Jia"
 description: "Kai-tao Jia is an Early-career Unknown researcher at Heilongjiang Academy of Forestry in CN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.615037
+date: 2026-07-10T01:07:48.576275
 url: "/cdr-researcher-census/researchers/kai-tao-jia-a5082561/"
 layout: "researcher"
 hiddenInHomeList: true

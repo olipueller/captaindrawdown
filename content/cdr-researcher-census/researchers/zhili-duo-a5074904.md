@@ -1,7 +1,7 @@
 ---
 title: "Zhili Duo"
 description: "Zhili Duo is an Early-career Unknown researcher at Urban Planning & Design Institute of Shenzhen (China) in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.048760
+date: 2026-07-10T01:07:48.962216
 url: "/cdr-researcher-census/researchers/zhili-duo-a5074904/"
 layout: "researcher"
 hiddenInHomeList: true

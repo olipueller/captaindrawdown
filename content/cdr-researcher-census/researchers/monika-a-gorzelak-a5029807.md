@@ -1,7 +1,7 @@
 ---
 title: "Monika A. Gorzelak"
 description: "Monika A. Gorzelak is a Senior Soil Carbon researcher at Lethbridge Research and Development Centre in CA. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.217744
+date: 2026-07-10T01:07:47.304407
 url: "/cdr-researcher-census/researchers/monika-a-gorzelak-a5029807/"
 layout: "researcher"
 hiddenInHomeList: true

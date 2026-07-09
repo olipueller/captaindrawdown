@@ -1,7 +1,7 @@
 ---
 title: "Per Toräng"
 description: "Per Toräng is a Senior Unknown researcher at Swedish University of Agricultural Sciences in SE. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.561385
+date: 2026-07-10T01:07:47.625342
 url: "/cdr-researcher-census/researchers/per-torang-a5090754/"
 layout: "researcher"
 hiddenInHomeList: true

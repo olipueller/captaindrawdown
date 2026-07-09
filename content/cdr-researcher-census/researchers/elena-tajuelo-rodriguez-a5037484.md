@@ -1,7 +1,7 @@
 ---
 title: "Elena Tajuelo Rodriguez"
 description: "Elena Tajuelo Rodriguez is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.451478
+date: 2026-07-10T01:07:47.527113
 url: "/cdr-researcher-census/researchers/elena-tajuelo-rodriguez-a5037484/"
 layout: "researcher"
 hiddenInHomeList: true

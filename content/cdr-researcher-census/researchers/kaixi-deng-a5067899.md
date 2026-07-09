@@ -1,7 +1,7 @@
 ---
 title: "Kaixi Deng"
 description: "Kaixi Deng is a Mid-career Unknown researcher at Argonne National Laboratory in US. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.589266
+date: 2026-07-10T01:07:47.652507
 url: "/cdr-researcher-census/researchers/kaixi-deng-a5067899/"
 layout: "researcher"
 hiddenInHomeList: true

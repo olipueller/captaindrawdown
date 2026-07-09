@@ -1,7 +1,7 @@
 ---
 title: "Teerawat Sanpasertparnich"
 description: "Teerawat Sanpasertparnich is a Senior General CDR researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.932614
+date: 2026-07-10T01:07:47.945362
 url: "/cdr-researcher-census/researchers/teerawat-sanpasertparnich-a5067430/"
 layout: "researcher"
 hiddenInHomeList: true

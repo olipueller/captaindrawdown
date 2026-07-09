@@ -1,7 +1,7 @@
 ---
 title: "Franz Mantei"
 description: "Franz Mantei is a Mid-career General CDR researcher at Fraunhofer Institute for Solar Energy Systems in DE. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.304701
+date: 2026-07-10T01:07:48.307499
 url: "/cdr-researcher-census/researchers/franz-mantei-a5039271/"
 layout: "researcher"
 hiddenInHomeList: true

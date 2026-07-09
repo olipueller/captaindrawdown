@@ -1,7 +1,7 @@
 ---
 title: "Feixue Shen"
 description: "Feixue Shen is a Mid-career Soil Carbon researcher at Nanjing University in CN. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.231833
+date: 2026-07-10T01:07:47.318982
 url: "/cdr-researcher-census/researchers/feixue-shen-a5067014/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tariro Tecla Manhongo"
 description: "Tariro Tecla Manhongo is a Mid-career General CDR researcher at University of South Africa in ZA. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.400021
+date: 2026-07-10T01:07:48.391935
 url: "/cdr-researcher-census/researchers/tariro-tecla-manhongo-a5036458/"
 layout: "researcher"
 hiddenInHomeList: true

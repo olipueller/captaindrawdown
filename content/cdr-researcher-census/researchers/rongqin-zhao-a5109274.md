@@ -1,7 +1,7 @@
 ---
 title: "Rongqin Zhao"
 description: "Rongqin Zhao is a Senior Soil Carbon researcher. With 77 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.023916
+date: 2026-07-10T01:07:47.091506
 url: "/cdr-researcher-census/researchers/rongqin-zhao-a5109274/"
 layout: "researcher"
 hiddenInHomeList: true

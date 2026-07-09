@@ -1,7 +1,7 @@
 ---
 title: "Ziting Wang"
 description: "Ziting Wang is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.146777
+date: 2026-07-10T01:07:48.166791
 url: "/cdr-researcher-census/researchers/ziting-wang-a5067965/"
 layout: "researcher"
 hiddenInHomeList: true

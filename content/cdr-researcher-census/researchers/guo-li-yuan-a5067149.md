@@ -1,7 +1,7 @@
 ---
 title: "Guo-Li Yuan"
 description: "Guo-Li Yuan is a Senior Unknown researcher at China University of Geosciences (Beijing) in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.715479
+date: 2026-07-10T01:07:48.666093
 url: "/cdr-researcher-census/researchers/guo-li-yuan-a5067149/"
 layout: "researcher"
 hiddenInHomeList: true

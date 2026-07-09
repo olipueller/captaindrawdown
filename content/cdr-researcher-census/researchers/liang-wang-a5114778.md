@@ -1,7 +1,7 @@
 ---
 title: "Liang Wang"
 description: "Liang Wang is a Mid-career Unknown researcher at Linyi University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.253333
+date: 2026-07-10T01:07:48.261356
 url: "/cdr-researcher-census/researchers/liang-wang-a5114778/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ming Sheng"
 description: "Ming Sheng is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.757452
+date: 2026-07-10T01:07:47.807605
 url: "/cdr-researcher-census/researchers/ming-sheng-a5009103/"
 layout: "researcher"
 hiddenInHomeList: true

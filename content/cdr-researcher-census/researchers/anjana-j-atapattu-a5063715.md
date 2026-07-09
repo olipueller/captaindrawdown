@@ -1,7 +1,7 @@
 ---
 title: "Anjana J. Atapattu"
 description: "Anjana J. Atapattu is a Mid-career Soil Carbon researcher at Coconut Research Institute in LK. With 80 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.347662
+date: 2026-07-10T01:07:47.430252
 url: "/cdr-researcher-census/researchers/anjana-j-atapattu-a5063715/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Samer Shamshad"
 description: "Samer Shamshad is a Senior General CDR researcher at University of Trans-Disciplinary Health Sciences and Technology in IN. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.692339
+date: 2026-07-10T01:07:48.645838
 url: "/cdr-researcher-census/researchers/samer-shamshad-a5070545/"
 layout: "researcher"
 hiddenInHomeList: true

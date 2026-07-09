@@ -1,7 +1,7 @@
 ---
 title: "Wan Sieng Yeo"
 description: "Wan Sieng Yeo is a Mid-career General CDR researcher at Curtin University Sarawak in MY. With 57 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.475446
+date: 2026-07-10T01:07:47.547571
 url: "/cdr-researcher-census/researchers/wan-sieng-yeo-a5046339/"
 layout: "researcher"
 hiddenInHomeList: true

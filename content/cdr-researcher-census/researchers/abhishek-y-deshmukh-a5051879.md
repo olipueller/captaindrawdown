@@ -1,7 +1,7 @@
 ---
 title: "Abhishek Y. Deshmukh"
 description: "Abhishek Y. Deshmukh is a Mid-career Unknown researcher at International Institute of Information Technology in IN. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.301190
+date: 2026-07-10T01:07:48.303892
 url: "/cdr-researcher-census/researchers/abhishek-y-deshmukh-a5051879/"
 layout: "researcher"
 hiddenInHomeList: true

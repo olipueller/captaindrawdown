@@ -1,7 +1,7 @@
 ---
 title: "Almaz Negash"
 description: "Almaz Negash is a Senior Unknown researcher at Debre Markos University in ET. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.942837
+date: 2026-07-10T01:07:47.955309
 url: "/cdr-researcher-census/researchers/almaz-negash-a5025156/"
 layout: "researcher"
 hiddenInHomeList: true

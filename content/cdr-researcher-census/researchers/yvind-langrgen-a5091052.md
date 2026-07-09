@@ -1,7 +1,7 @@
 ---
 title: "Øyvind Langørgen"
 description: "Øyvind Langørgen is a Senior BECCS researcher at SINTEF in NO. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.438910
+date: 2026-07-10T01:07:47.515557
 url: "/cdr-researcher-census/researchers/yvind-langrgen-a5091052/"
 layout: "researcher"
 hiddenInHomeList: true

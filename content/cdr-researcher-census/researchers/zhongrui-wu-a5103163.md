@@ -1,7 +1,7 @@
 ---
 title: "Zhongrui Wu"
 description: "Zhongrui Wu is a Mid-career Unknown researcher at Yangtze University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.264463
+date: 2026-07-10T01:07:48.271241
 url: "/cdr-researcher-census/researchers/zhongrui-wu-a5103163/"
 layout: "researcher"
 hiddenInHomeList: true

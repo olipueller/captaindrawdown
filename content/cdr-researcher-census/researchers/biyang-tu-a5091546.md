@@ -1,7 +1,7 @@
 ---
 title: "Biyang Tu"
 description: "Biyang Tu is a Mid-career Biochar researcher at Nanjing University of Posts and Telecommunications in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.627081
+date: 2026-07-10T01:07:47.686922
 url: "/cdr-researcher-census/researchers/biyang-tu-a5091546/"
 layout: "researcher"
 hiddenInHomeList: true

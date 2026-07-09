@@ -1,7 +1,7 @@
 ---
 title: "Karla Iveth Camacho-Aguilar"
 description: "Karla Iveth Camacho-Aguilar is a Mid-career Biochar researcher at Universidad Tecnológica de Aguascalientes in MX. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.773974
+date: 2026-07-10T01:07:48.717896
 url: "/cdr-researcher-census/researchers/karla-iveth-camacho-aguilar-a5043200/"
 layout: "researcher"
 hiddenInHomeList: true

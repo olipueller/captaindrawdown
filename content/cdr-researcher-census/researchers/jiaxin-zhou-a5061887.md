@@ -1,7 +1,7 @@
 ---
 title: "Jiaxin Zhou"
 description: "Jiaxin Zhou is an Early-career General CDR researcher at Tsinghua University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.773878
+date: 2026-07-10T01:07:48.717795
 url: "/cdr-researcher-census/researchers/jiaxin-zhou-a5061887/"
 layout: "researcher"
 hiddenInHomeList: true

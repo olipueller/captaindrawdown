@@ -1,7 +1,7 @@
 ---
 title: "Eduardo J. Pérez-Sánchez"
 description: "Eduardo J. Pérez-Sánchez is a Mid-career Unknown researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.534319
+date: 2026-07-10T01:07:48.516687
 url: "/cdr-researcher-census/researchers/eduardo-j-perez-sanchez-a5049421/"
 layout: "researcher"
 hiddenInHomeList: true

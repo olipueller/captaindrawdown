@@ -1,7 +1,7 @@
 ---
 title: "John Field"
 description: "John Field is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 126 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.986402
+date: 2026-07-10T01:07:47.039355
 url: "/cdr-researcher-census/researchers/john-field-a5034869/"
 layout: "researcher"
 hiddenInHomeList: true

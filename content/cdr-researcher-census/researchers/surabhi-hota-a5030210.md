@@ -1,7 +1,7 @@
 ---
 title: "Surabhi Hota"
 description: "Surabhi Hota is a Mid-career Soil Carbon researcher at Directorate of Weed Research in IN. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.298708
+date: 2026-07-10T01:07:48.301647
 url: "/cdr-researcher-census/researchers/surabhi-hota-a5030210/"
 layout: "researcher"
 hiddenInHomeList: true

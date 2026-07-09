@@ -1,7 +1,7 @@
 ---
 title: "Dumitru Pașcu"
 description: "Dumitru Pașcu is a Mid-career Unknown researcher at Universitatea Națională de Știință și Tehnologie Politehnica București in RO. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.038531
+date: 2026-07-10T01:07:48.952897
 url: "/cdr-researcher-census/researchers/dumitru-pascu-a5023725/"
 layout: "researcher"
 hiddenInHomeList: true

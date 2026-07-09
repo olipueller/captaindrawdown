@@ -1,7 +1,7 @@
 ---
 title: "Haruo Kanaboshi"
 description: "Haruo Kanaboshi is a Senior General CDR researcher at Research Institute of Innovative Technology for the Earth in JP. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.935633
+date: 2026-07-10T01:07:48.858363
 url: "/cdr-researcher-census/researchers/haruo-kanaboshi-a5045627/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maurício Bruno Prado da Silva"
 description: "Maurício Bruno Prado da Silva is a Mid-career Soil Carbon researcher at Universidade Estadual Paulista (Unesp) in BR. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.140317
+date: 2026-07-10T01:07:49.043342
 url: "/cdr-researcher-census/researchers/mauricio-bruno-prado-da-silva-a5033174/"
 layout: "researcher"
 hiddenInHomeList: true

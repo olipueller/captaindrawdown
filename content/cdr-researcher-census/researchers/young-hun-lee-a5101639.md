@@ -1,7 +1,7 @@
 ---
 title: "Young Hun Lee"
 description: "Young Hun Lee is a Mid-career Ocean CDR researcher at Massachusetts Institute of Technology in US. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.619075
+date: 2026-07-10T01:07:47.679847
 url: "/cdr-researcher-census/researchers/young-hun-lee-a5101639/"
 layout: "researcher"
 hiddenInHomeList: true

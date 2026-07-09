@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Sundgren"
 description: "Ingrid Sundgren is a Mid-career Unknown researcher at Linköping University in SE. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.572072
+date: 2026-07-10T01:07:47.635583
 url: "/cdr-researcher-census/researchers/ingrid-sundgren-a5036212/"
 layout: "researcher"
 hiddenInHomeList: true

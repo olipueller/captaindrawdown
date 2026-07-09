@@ -1,7 +1,7 @@
 ---
 title: "Ernani Machado de Freitas Lins-Neto"
 description: "Ernani Machado de Freitas Lins-Neto is a Senior Unknown researcher at Universidade do Estado da Bahia in BR. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.166135
+date: 2026-07-10T01:07:48.183545
 url: "/cdr-researcher-census/researchers/ernani-machado-de-freitas-lins-neto-a5058017/"
 layout: "researcher"
 hiddenInHomeList: true

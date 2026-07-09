@@ -1,7 +1,7 @@
 ---
 title: "Katsuhito Soda"
 description: "Katsuhito Soda is a Mid-career Enhanced Weathering researcher at Kōchi University in JP. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.431635
+date: 2026-07-10T01:07:48.421870
 url: "/cdr-researcher-census/researchers/katsuhito-soda-a5072869/"
 layout: "researcher"
 hiddenInHomeList: true

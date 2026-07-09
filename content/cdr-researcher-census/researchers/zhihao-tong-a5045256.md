@@ -1,7 +1,7 @@
 ---
 title: "Zhihao Tong"
 description: "Zhihao Tong is a Mid-career Unknown researcher at Wuhan University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.406897
+date: 2026-07-10T01:07:48.398524
 url: "/cdr-researcher-census/researchers/zhihao-tong-a5045256/"
 layout: "researcher"
 hiddenInHomeList: true

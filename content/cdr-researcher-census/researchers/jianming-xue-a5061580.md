@@ -1,7 +1,7 @@
 ---
 title: "Jianming Xue"
 description: "Jianming Xue is a Senior Soil Carbon researcher at Scion in NZ. With 131 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.954658
+date: 2026-07-10T01:07:46.990058
 url: "/cdr-researcher-census/researchers/jianming-xue-a5061580/"
 layout: "researcher"
 hiddenInHomeList: true

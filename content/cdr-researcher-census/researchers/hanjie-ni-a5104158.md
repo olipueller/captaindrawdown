@@ -1,7 +1,7 @@
 ---
 title: "Hanjie Ni"
 description: "Hanjie Ni is a Mid-career Soil Carbon researcher at Jiangxi University of Finance and Economics in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.694810
+date: 2026-07-10T01:07:48.648060
 url: "/cdr-researcher-census/researchers/hanjie-ni-a5104158/"
 layout: "researcher"
 hiddenInHomeList: true

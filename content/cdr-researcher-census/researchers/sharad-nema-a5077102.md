@@ -1,7 +1,7 @@
 ---
 title: "Sharad Nema"
 description: "Sharad Nema is a Mid-career Soil Carbon researcher at Bastar University in IN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.005648
+date: 2026-07-10T01:07:48.923269
 url: "/cdr-researcher-census/researchers/sharad-nema-a5077102/"
 layout: "researcher"
 hiddenInHomeList: true

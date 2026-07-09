@@ -1,7 +1,7 @@
 ---
 title: "Yang Zhang"
 description: "Yang Zhang is a Mid-career Soil Carbon researcher at Vanderbilt University in US. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.066114
+date: 2026-07-10T01:07:48.068826
 url: "/cdr-researcher-census/researchers/yang-zhang-a5100687/"
 layout: "researcher"
 hiddenInHomeList: true

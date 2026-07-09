@@ -1,7 +1,7 @@
 ---
 title: "B H Thomas"
 description: "B H Thomas is a Mid-career Unknown researcher at Universidade de Vigo in ES. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.222754
+date: 2026-07-10T01:07:49.132987
 url: "/cdr-researcher-census/researchers/b-h-thomas-a5040132/"
 layout: "researcher"
 hiddenInHomeList: true

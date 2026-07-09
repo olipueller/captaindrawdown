@@ -1,7 +1,7 @@
 ---
 title: "L. E. Patrick"
 description: "L. E. Patrick is a Senior Unknown researcher at Université de Montpellier in FR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.601617
+date: 2026-07-10T01:07:47.663538
 url: "/cdr-researcher-census/researchers/l-e-patrick-a5113140/"
 layout: "researcher"
 hiddenInHomeList: true

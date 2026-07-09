@@ -1,7 +1,7 @@
 ---
 title: "Ana Luiza Coelho-Netto"
 description: "Ana Luiza Coelho-Netto is a Senior Unknown researcher at Universidade Federal do Rio de Janeiro in BR. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.111633
+date: 2026-07-10T01:07:49.018491
 url: "/cdr-researcher-census/researchers/ana-luiza-coelho-netto-a5061197/"
 layout: "researcher"
 hiddenInHomeList: true

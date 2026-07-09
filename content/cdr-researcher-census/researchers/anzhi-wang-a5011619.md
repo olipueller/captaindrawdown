@@ -1,7 +1,7 @@
 ---
 title: "An‐Zhi Wang"
 description: "An‐Zhi Wang is a Senior Unknown researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.668424
+date: 2026-07-10T01:07:48.624363
 url: "/cdr-researcher-census/researchers/anzhi-wang-a5011619/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jung Yoon Kim"
 description: "Jung Yoon Kim is a Mid-career Unknown researcher at Rice University in US. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.955785
+date: 2026-07-10T01:07:46.991798
 url: "/cdr-researcher-census/researchers/jung-yoon-kim-a5087035/"
 layout: "researcher"
 hiddenInHomeList: true

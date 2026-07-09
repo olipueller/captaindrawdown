@@ -1,7 +1,7 @@
 ---
 title: "Dan Dong"
 description: "Dan Dong is a Senior Soil Carbon researcher at Huaiyin Normal University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.761405
+date: 2026-07-10T01:07:47.812009
 url: "/cdr-researcher-census/researchers/dan-dong-a5103695/"
 layout: "researcher"
 hiddenInHomeList: true

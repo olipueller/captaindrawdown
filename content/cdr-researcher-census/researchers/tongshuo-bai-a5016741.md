@@ -1,7 +1,7 @@
 ---
 title: "Tongshuo Bai"
 description: "Tongshuo Bai is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.174896
+date: 2026-07-10T01:07:47.264010
 url: "/cdr-researcher-census/researchers/tongshuo-bai-a5016741/"
 layout: "researcher"
 hiddenInHomeList: true

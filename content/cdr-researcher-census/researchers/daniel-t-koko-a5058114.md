@@ -1,7 +1,7 @@
 ---
 title: "Daniel T. Koko"
 description: "Daniel T. Koko is a Mid-career Unknown researcher at Redeemer's University in NG. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.292387
+date: 2026-07-10T01:07:48.296317
 url: "/cdr-researcher-census/researchers/daniel-t-koko-a5058114/"
 layout: "researcher"
 hiddenInHomeList: true

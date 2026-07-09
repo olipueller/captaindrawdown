@@ -1,7 +1,7 @@
 ---
 title: "Katelyn Szura"
 description: "Katelyn Szura is a Mid-career Soil Carbon researcher at University of Rhode Island in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.669091
+date: 2026-07-10T01:07:48.625016
 url: "/cdr-researcher-census/researchers/katelyn-szura-a5023141/"
 layout: "researcher"
 hiddenInHomeList: true

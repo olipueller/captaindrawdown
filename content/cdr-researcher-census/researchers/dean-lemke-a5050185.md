@@ -1,7 +1,7 @@
 ---
 title: "Dean Lemke"
 description: "Dean Lemke is a Senior Soil Carbon researcher at Iowa Department of Education in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.931566
+date: 2026-07-10T01:07:47.944434
 url: "/cdr-researcher-census/researchers/dean-lemke-a5050185/"
 layout: "researcher"
 hiddenInHomeList: true

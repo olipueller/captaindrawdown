@@ -1,7 +1,7 @@
 ---
 title: "Wuhan Ding"
 description: "Wuhan Ding is a Mid-career Soil Carbon researcher at Shandong Jianzhu University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.968909
+date: 2026-07-10T01:07:48.889230
 url: "/cdr-researcher-census/researchers/wuhan-ding-a5049180/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fraser Kennedy"
 description: "Fraser Kennedy is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.682667
+date: 2026-07-10T01:07:47.739092
 url: "/cdr-researcher-census/researchers/fraser-kennedy-a5065554/"
 layout: "researcher"
 hiddenInHomeList: true

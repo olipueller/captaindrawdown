@@ -1,7 +1,7 @@
 ---
 title: "Xiaobo Yuan"
 description: "Xiaobo Yuan is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.665680
+date: 2026-07-10T01:07:47.722934
 url: "/cdr-researcher-census/researchers/xiaobo-yuan-a5110852/"
 layout: "researcher"
 hiddenInHomeList: true

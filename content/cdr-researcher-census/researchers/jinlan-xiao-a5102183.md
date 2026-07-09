@@ -1,7 +1,7 @@
 ---
 title: "Jinlan Xiao"
 description: "Jinlan Xiao is a Mid-career Soil Carbon researcher at China West Normal University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.999749
+date: 2026-07-10T01:07:48.008999
 url: "/cdr-researcher-census/researchers/jinlan-xiao-a5102183/"
 layout: "researcher"
 hiddenInHomeList: true

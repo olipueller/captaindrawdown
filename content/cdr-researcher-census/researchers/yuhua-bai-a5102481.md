@@ -1,7 +1,7 @@
 ---
 title: "Yuhua Bai"
 description: "Yuhua Bai is a Senior Unknown researcher at China University of Petroleum, Beijing in CN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.569574
+date: 2026-07-10T01:07:47.633302
 url: "/cdr-researcher-census/researchers/yuhua-bai-a5102481/"
 layout: "researcher"
 hiddenInHomeList: true

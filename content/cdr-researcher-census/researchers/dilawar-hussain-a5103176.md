@@ -1,7 +1,7 @@
 ---
 title: "Dilawar Hussain"
 description: "Dilawar Hussain is a Mid-career Unknown researcher at Pakistan Institute of Engineering and Applied Sciences in PK. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.771175
+date: 2026-07-10T01:07:48.715011
 url: "/cdr-researcher-census/researchers/dilawar-hussain-a5103176/"
 layout: "researcher"
 hiddenInHomeList: true

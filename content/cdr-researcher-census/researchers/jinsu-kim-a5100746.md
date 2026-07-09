@@ -1,7 +1,7 @@
 ---
 title: "Jinsu Kim"
 description: "Jinsu Kim is a Senior General CDR researcher at Chonnam National University in KR. With 78 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.288975
+date: 2026-07-10T01:07:47.371132
 url: "/cdr-researcher-census/researchers/jinsu-kim-a5100746/"
 layout: "researcher"
 hiddenInHomeList: true

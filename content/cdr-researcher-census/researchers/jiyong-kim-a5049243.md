@@ -1,7 +1,7 @@
 ---
 title: "Jiyong Kim"
 description: "Jiyong Kim is a Mid-career Biochar researcher at Fraunhofer Institute for Applied Polymer Research in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.257252
+date: 2026-07-10T01:07:49.163852
 url: "/cdr-researcher-census/researchers/jiyong-kim-a5049243/"
 layout: "researcher"
 hiddenInHomeList: true

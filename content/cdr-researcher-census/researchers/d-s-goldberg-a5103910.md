@@ -1,7 +1,7 @@
 ---
 title: "D. S. Goldberg"
 description: "D. S. Goldberg is a Senior General CDR researcher at Lamont-Doherty Earth Observatory in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.300986
+date: 2026-07-10T01:07:48.303715
 url: "/cdr-researcher-census/researchers/d-s-goldberg-a5103910/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yiren Wang"
 description: "Yiren Wang is a Senior Unknown researcher at Central South University in CN. With 47 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.097820
+date: 2026-07-10T01:07:47.181192
 url: "/cdr-researcher-census/researchers/yiren-wang-a5100723/"
 layout: "researcher"
 hiddenInHomeList: true

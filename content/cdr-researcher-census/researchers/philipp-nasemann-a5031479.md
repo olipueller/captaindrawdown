@@ -1,7 +1,7 @@
 ---
 title: "Philipp Nasemann"
 description: "Philipp Nasemann is a Mid-career Ocean CDR researcher at University of Otago in NZ. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.206325
+date: 2026-07-10T01:07:48.219523
 url: "/cdr-researcher-census/researchers/philipp-nasemann-a5031479/"
 layout: "researcher"
 hiddenInHomeList: true

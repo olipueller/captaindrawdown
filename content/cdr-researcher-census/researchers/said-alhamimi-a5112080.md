@@ -1,7 +1,7 @@
 ---
 title: "Said Al‐Hamimi"
 description: "Said Al‐Hamimi is a Mid-career Unknown researcher at OQ (Oman) in OM. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.557677
+date: 2026-07-10T01:07:47.621771
 url: "/cdr-researcher-census/researchers/said-alhamimi-a5112080/"
 layout: "researcher"
 hiddenInHomeList: true

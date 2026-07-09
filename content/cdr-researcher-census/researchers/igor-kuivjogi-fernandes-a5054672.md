@@ -1,7 +1,7 @@
 ---
 title: "Igor Kuivjogi Fernandes"
 description: "Igor Kuivjogi Fernandes is an Early-career Unknown researcher at University of Arkansas System in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.224948
+date: 2026-07-10T01:07:49.134884
 url: "/cdr-researcher-census/researchers/igor-kuivjogi-fernandes-a5054672/"
 layout: "researcher"
 hiddenInHomeList: true

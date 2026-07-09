@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Lizeth Alvarez‐Guzmán"
 description: "Cecilia Lizeth Alvarez‐Guzmán is a Mid-career Unknown researcher at Universidad Nacional Autónoma de México in MX. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.566755
+date: 2026-07-10T01:07:48.545591
 url: "/cdr-researcher-census/researchers/cecilia-lizeth-alvarezguzman-a5044294/"
 layout: "researcher"
 hiddenInHomeList: true

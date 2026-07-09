@@ -1,7 +1,7 @@
 ---
 title: "FO Glöckner"
 description: "FO Glöckner is a Senior Unknown researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.624793
+date: 2026-07-10T01:07:48.585382
 url: "/cdr-researcher-census/researchers/fo-glockner-a5054711/"
 layout: "researcher"
 hiddenInHomeList: true

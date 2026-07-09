@@ -1,7 +1,7 @@
 ---
 title: "Shu-Hui Liu"
 description: "Shu-Hui Liu is a Senior Biochar researcher at Chung Yuan Christian University in TW. With 129 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.072414
+date: 2026-07-10T01:07:47.151784
 url: "/cdr-researcher-census/researchers/shu-hui-liu-a5100763/"
 layout: "researcher"
 hiddenInHomeList: true

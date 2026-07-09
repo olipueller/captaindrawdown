@@ -1,7 +1,7 @@
 ---
 title: "Yuan Liu"
 description: "Yuan Liu is a Mid-career Unknown researcher at Xinjiang University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.330875
+date: 2026-07-10T01:07:48.331352
 url: "/cdr-researcher-census/researchers/yuan-liu-a5083754/"
 layout: "researcher"
 hiddenInHomeList: true

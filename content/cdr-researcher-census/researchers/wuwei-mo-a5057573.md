@@ -1,7 +1,7 @@
 ---
 title: "Wuwei Mo"
 description: "Wuwei Mo is an Early-career General CDR researcher at Xiamen University Malaysia in MY. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.869308
+date: 2026-07-10T01:07:48.797829
 url: "/cdr-researcher-census/researchers/wuwei-mo-a5057573/"
 layout: "researcher"
 hiddenInHomeList: true

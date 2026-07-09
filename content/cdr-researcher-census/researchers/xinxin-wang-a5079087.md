@@ -1,7 +1,7 @@
 ---
 title: "Xinxin Wang"
 description: "Xinxin Wang is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.837843
+date: 2026-07-10T01:07:48.770526
 url: "/cdr-researcher-census/researchers/xinxin-wang-a5079087/"
 layout: "researcher"
 hiddenInHomeList: true

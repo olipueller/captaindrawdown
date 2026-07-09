@@ -1,7 +1,7 @@
 ---
 title: "Johanna Kirkinen"
 description: "Johanna Kirkinen is a Senior Unknown researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.874198
+date: 2026-07-10T01:07:48.802023
 url: "/cdr-researcher-census/researchers/johanna-kirkinen-a5074832/"
 layout: "researcher"
 hiddenInHomeList: true

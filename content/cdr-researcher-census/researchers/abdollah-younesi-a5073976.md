@@ -1,7 +1,7 @@
 ---
 title: "Abdollah Younesi"
 description: "Abdollah Younesi is a Mid-career General CDR researcher at University of Connecticut in US. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.415430
+date: 2026-07-10T01:07:47.494319
 url: "/cdr-researcher-census/researchers/abdollah-younesi-a5073976/"
 layout: "researcher"
 hiddenInHomeList: true

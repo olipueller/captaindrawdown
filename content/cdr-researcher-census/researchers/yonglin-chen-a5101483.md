@@ -1,7 +1,7 @@
 ---
 title: "Yonglin Chen"
 description: "Yonglin Chen is a Senior Biochar researcher at First Hospital of Lanzhou University in CN. With 63 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.180402
+date: 2026-07-10T01:07:47.269356
 url: "/cdr-researcher-census/researchers/yonglin-chen-a5101483/"
 layout: "researcher"
 hiddenInHomeList: true

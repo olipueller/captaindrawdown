@@ -1,7 +1,7 @@
 ---
 title: "Hamed Sangin"
 description: "Hamed Sangin is a Mid-career Unknown researcher at Politecnico di Torino in IT. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.192321
+date: 2026-07-10T01:07:48.206556
 url: "/cdr-researcher-census/researchers/hamed-sangin-a5017480/"
 layout: "researcher"
 hiddenInHomeList: true

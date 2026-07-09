@@ -1,7 +1,7 @@
 ---
 title: "Gerald D. Cohen"
 description: "Gerald D. Cohen is a Senior Unknown researcher at University of North Carolina at Chapel Hill in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.058936
+date: 2026-07-10T01:07:47.134912
 url: "/cdr-researcher-census/researchers/gerald-d-cohen-a5015367/"
 layout: "researcher"
 hiddenInHomeList: true

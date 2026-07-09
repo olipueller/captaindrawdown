@@ -1,7 +1,7 @@
 ---
 title: "Fen Zhao"
 description: "Fen Zhao is a Senior Soil Carbon researcher at Ludong University in CN. With 68 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.070391
+date: 2026-07-10T01:07:47.149243
 url: "/cdr-researcher-census/researchers/fen-zhao-a5040027/"
 layout: "researcher"
 hiddenInHomeList: true

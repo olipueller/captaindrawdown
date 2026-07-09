@@ -1,7 +1,7 @@
 ---
 title: "Anne Ola"
 description: "Anne Ola is a Mid-career Unknown researcher at Institut National de la Recherche Scientifique in CA. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.657634
+date: 2026-07-10T01:07:47.715083
 url: "/cdr-researcher-census/researchers/anne-ola-a5085539/"
 layout: "researcher"
 hiddenInHomeList: true

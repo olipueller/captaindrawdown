@@ -1,7 +1,7 @@
 ---
 title: "Ovidio Rivera"
 description: "Ovidio Rivera is a Mid-career Soil Carbon researcher at International Center for Tropical Agriculture in KE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.014309
+date: 2026-07-10T01:07:48.022075
 url: "/cdr-researcher-census/researchers/ovidio-rivera-a5065088/"
 layout: "researcher"
 hiddenInHomeList: true

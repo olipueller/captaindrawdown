@@ -1,7 +1,7 @@
 ---
 title: "Shizhong Zhao"
 description: "Shizhong Zhao is a Senior Unknown researcher at Shanghai Key Laboratory of Trustworthy Computing in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.896597
+date: 2026-07-10T01:07:48.822371
 url: "/cdr-researcher-census/researchers/shizhong-zhao-a5014994/"
 layout: "researcher"
 hiddenInHomeList: true

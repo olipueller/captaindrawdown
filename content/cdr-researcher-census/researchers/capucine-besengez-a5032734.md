@@ -1,7 +1,7 @@
 ---
 title: "Capucine Besengez"
 description: "Capucine Besengez is a Mid-career Unknown researcher at Université de Lille in FR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.291662
+date: 2026-07-10T01:07:48.295698
 url: "/cdr-researcher-census/researchers/capucine-besengez-a5032734/"
 layout: "researcher"
 hiddenInHomeList: true

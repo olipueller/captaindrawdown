@@ -1,7 +1,7 @@
 ---
 title: "Haozhe Li"
 description: "Haozhe Li is a Senior Unknown researcher at King Abdulaziz City for Science and Technology in SA. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.321643
+date: 2026-07-10T01:07:47.403898
 url: "/cdr-researcher-census/researchers/haozhe-li-a5013634/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yang Chu"
 description: "Yang Chu is a Mid-career Unknown researcher at First Hospital of China Medical University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.490932
+date: 2026-07-10T01:07:47.561721
 url: "/cdr-researcher-census/researchers/yang-chu-a5101845/"
 layout: "researcher"
 hiddenInHomeList: true

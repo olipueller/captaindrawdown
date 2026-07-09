@@ -1,7 +1,7 @@
 ---
 title: "Xingyun Huang"
 description: "Xingyun Huang is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.191536
+date: 2026-07-10T01:07:47.280771
 url: "/cdr-researcher-census/researchers/xingyun-huang-a5101790/"
 layout: "researcher"
 hiddenInHomeList: true

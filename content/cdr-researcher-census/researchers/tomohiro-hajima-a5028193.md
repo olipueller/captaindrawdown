@@ -1,7 +1,7 @@
 ---
 title: "Tomohiro Hajima"
 description: "Tomohiro Hajima is a Senior General CDR researcher at Japan Agency for Marine-Earth Science and Technology in JP. With 138 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.933555
+date: 2026-07-10T01:07:46.952878
 url: "/cdr-researcher-census/researchers/tomohiro-hajima-a5028193/"
 layout: "researcher"
 hiddenInHomeList: true

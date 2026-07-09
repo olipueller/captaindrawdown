@@ -1,7 +1,7 @@
 ---
 title: "Chandrashekhar Azad Vishwakarma"
 description: "Chandrashekhar Azad Vishwakarma is a Mid-career Unknown researcher at Energy Research Institute in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.460148
+date: 2026-07-10T01:07:48.448323
 url: "/cdr-researcher-census/researchers/chandrashekhar-azad-vishwakarma-a5073902/"
 layout: "researcher"
 hiddenInHomeList: true

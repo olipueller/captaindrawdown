@@ -1,7 +1,7 @@
 ---
 title: "Bishal Mukherjee"
 description: "Bishal Mukherjee is a Senior Soil Carbon researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.070669
+date: 2026-07-10T01:07:48.073381
 url: "/cdr-researcher-census/researchers/bishal-mukherjee-a5055959/"
 layout: "researcher"
 hiddenInHomeList: true

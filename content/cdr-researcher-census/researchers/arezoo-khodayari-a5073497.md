@@ -1,7 +1,7 @@
 ---
 title: "Arezoo Khodayari"
 description: "Arezoo Khodayari is a Senior General CDR researcher. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.620452
+date: 2026-07-10T01:07:47.681194
 url: "/cdr-researcher-census/researchers/arezoo-khodayari-a5073497/"
 layout: "researcher"
 hiddenInHomeList: true

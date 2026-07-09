@@ -1,7 +1,7 @@
 ---
 title: "Wenfan Zhang"
 description: "Wenfan Zhang is a Senior Biochar researcher at Changzhou University in CN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.417015
+date: 2026-07-10T01:07:48.407728
 url: "/cdr-researcher-census/researchers/wenfan-zhang-a5068146/"
 layout: "researcher"
 hiddenInHomeList: true

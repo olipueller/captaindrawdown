@@ -1,7 +1,7 @@
 ---
 title: "Qingsong Shen"
 description: "Qingsong Shen is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.118298
+date: 2026-07-10T01:07:48.142522
 url: "/cdr-researcher-census/researchers/qingsong-shen-a5110943/"
 layout: "researcher"
 hiddenInHomeList: true

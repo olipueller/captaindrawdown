@@ -1,7 +1,7 @@
 ---
 title: "Xiang Cui"
 description: "Xiang Cui is a Mid-career Unknown researcher at Chinese PLA General Hospital in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.990749
+date: 2026-07-10T01:07:47.999578
 url: "/cdr-researcher-census/researchers/xiang-cui-a5023890/"
 layout: "researcher"
 hiddenInHomeList: true

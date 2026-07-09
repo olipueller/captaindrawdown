@@ -1,7 +1,7 @@
 ---
 title: "Jiaxing Huang"
 description: "Jiaxing Huang is a Mid-career Unknown researcher at Shanghai Jiao Tong University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.838622
+date: 2026-07-10T01:07:48.771180
 url: "/cdr-researcher-census/researchers/jiaxing-huang-a5101905/"
 layout: "researcher"
 hiddenInHomeList: true

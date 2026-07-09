@@ -1,7 +1,7 @@
 ---
 title: "Hassan Aftab Sheikh"
 description: "Hassan Aftab Sheikh is a Mid-career Unknown researcher at University of Cambridge in GB. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.133856
+date: 2026-07-10T01:07:49.037856
 url: "/cdr-researcher-census/researchers/hassan-aftab-sheikh-a5075531/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Émeline Chaste"
 description: "Émeline Chaste is a Mid-career Soil Carbon researcher at Centre de Coopération Internationale en Recherche Agronomique pour le Développement in FR. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.961801
+date: 2026-07-10T01:07:47.972218
 url: "/cdr-researcher-census/researchers/emeline-chaste-a5082909/"
 layout: "researcher"
 hiddenInHomeList: true

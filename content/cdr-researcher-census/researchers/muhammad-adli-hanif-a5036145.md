@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Adli Hanif"
 description: "Muhammad Adli Hanif is a Mid-career Unknown researcher at Universiti Malaysia Perlis in MY. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.781785
+date: 2026-07-10T01:07:47.830379
 url: "/cdr-researcher-census/researchers/muhammad-adli-hanif-a5036145/"
 layout: "researcher"
 hiddenInHomeList: true

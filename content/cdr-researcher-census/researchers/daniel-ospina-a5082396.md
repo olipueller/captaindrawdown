@@ -1,7 +1,7 @@
 ---
 title: "Daniel Ospina"
 description: "Daniel Ospina is a Mid-career General CDR researcher at Future Earth in SE. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.045195
+date: 2026-07-10T01:07:47.118788
 url: "/cdr-researcher-census/researchers/daniel-ospina-a5082396/"
 layout: "researcher"
 hiddenInHomeList: true

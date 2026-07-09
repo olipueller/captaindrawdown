@@ -1,7 +1,7 @@
 ---
 title: "Weiqun Suo"
 description: "Weiqun Suo is a Mid-career Unknown researcher at Tsinghua University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.153550
+date: 2026-07-10T01:07:48.173013
 url: "/cdr-researcher-census/researchers/weiqun-suo-a5088670/"
 layout: "researcher"
 hiddenInHomeList: true

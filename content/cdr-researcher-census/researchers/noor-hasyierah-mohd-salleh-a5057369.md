@@ -1,7 +1,7 @@
 ---
 title: "Noor Hasyierah Mohd Salleh"
 description: "Noor Hasyierah Mohd Salleh is a Mid-career Unknown researcher at Universiti Malaysia Perlis in MY. With 50 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.959725
+date: 2026-07-10T01:07:47.970463
 url: "/cdr-researcher-census/researchers/noor-hasyierah-mohd-salleh-a5057369/"
 layout: "researcher"
 hiddenInHomeList: true

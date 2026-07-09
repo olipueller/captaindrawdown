@@ -1,7 +1,7 @@
 ---
 title: "Daniel H. Loughlin"
 description: "Daniel H. Loughlin is a Senior General CDR researcher at U.S. Environmental Protection Agency in US. With 74 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.298455
+date: 2026-07-10T01:07:47.380964
 url: "/cdr-researcher-census/researchers/daniel-h-loughlin-a5009137/"
 layout: "researcher"
 hiddenInHomeList: true

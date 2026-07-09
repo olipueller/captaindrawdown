@@ -1,7 +1,7 @@
 ---
 title: "Danilo Enrique Morales Ruiz"
 description: "Danilo Enrique Morales Ruiz is a Mid-career Soil Carbon researcher at Universidad Autónoma de Chiapas in MX. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.503348
+date: 2026-07-10T01:07:48.488990
 url: "/cdr-researcher-census/researchers/danilo-enrique-morales-ruiz-a5019921/"
 layout: "researcher"
 hiddenInHomeList: true

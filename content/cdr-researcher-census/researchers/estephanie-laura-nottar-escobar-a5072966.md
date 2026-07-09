@@ -1,7 +1,7 @@
 ---
 title: "Estephanie Laura Nottar Escobar"
 description: "Estephanie Laura Nottar Escobar is a Mid-career Unknown researcher at University of Kansas in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.173780
+date: 2026-07-10T01:07:48.190008
 url: "/cdr-researcher-census/researchers/estephanie-laura-nottar-escobar-a5072966/"
 layout: "researcher"
 hiddenInHomeList: true

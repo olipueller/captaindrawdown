@@ -1,7 +1,7 @@
 ---
 title: "C. Paramio"
 description: "C. Paramio is an Early-career Unknown researcher at Royal College of Surgeons in Ireland in IE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.882107
+date: 2026-07-10T01:07:48.809550
 url: "/cdr-researcher-census/researchers/c-paramio-a5084009/"
 layout: "researcher"
 hiddenInHomeList: true

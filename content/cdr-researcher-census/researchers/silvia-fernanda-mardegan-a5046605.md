@@ -1,7 +1,7 @@
 ---
 title: "Sílvia Fernanda Mardegan"
 description: "Sílvia Fernanda Mardegan is a Senior Soil Carbon researcher at Universidade Federal do Pará in BR. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.806955
+date: 2026-07-10T01:07:47.853582
 url: "/cdr-researcher-census/researchers/silvia-fernanda-mardegan-a5046605/"
 layout: "researcher"
 hiddenInHomeList: true

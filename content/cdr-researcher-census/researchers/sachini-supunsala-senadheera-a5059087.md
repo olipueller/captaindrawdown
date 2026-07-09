@@ -1,7 +1,7 @@
 ---
 title: "Sachini Supunsala Senadheera"
 description: "Sachini Supunsala Senadheera is a Mid-career Biochar researcher at Korea University in KR. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.406132
+date: 2026-07-10T01:07:47.485961
 url: "/cdr-researcher-census/researchers/sachini-supunsala-senadheera-a5059087/"
 layout: "researcher"
 hiddenInHomeList: true

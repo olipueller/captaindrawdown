@@ -1,7 +1,7 @@
 ---
 title: "Chunyan Wu"
 description: "Chunyan Wu is a Senior Soil Carbon researcher at Jiaxing University in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.062219
+date: 2026-07-10T01:07:48.065573
 url: "/cdr-researcher-census/researchers/chunyan-wu-a5101550/"
 layout: "researcher"
 hiddenInHomeList: true

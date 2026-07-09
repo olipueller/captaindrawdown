@@ -1,7 +1,7 @@
 ---
 title: "Taiwo Temitayo Micheal"
 description: "Taiwo Temitayo Micheal is a Mid-career Biochar researcher at Ladoke Akintola University of Technology in NG. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.292505
+date: 2026-07-10T01:07:48.296420
 url: "/cdr-researcher-census/researchers/taiwo-temitayo-micheal-a5092764/"
 layout: "researcher"
 hiddenInHomeList: true

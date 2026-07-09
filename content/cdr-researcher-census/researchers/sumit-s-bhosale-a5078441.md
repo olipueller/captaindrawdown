@@ -1,7 +1,7 @@
 ---
 title: "Sumit S. Bhosale"
 description: "Sumit S. Bhosale is a Mid-career Unknown researcher at Kyushu University in JP. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.564256
+date: 2026-07-10T01:07:47.627912
 url: "/cdr-researcher-census/researchers/sumit-s-bhosale-a5078441/"
 layout: "researcher"
 hiddenInHomeList: true

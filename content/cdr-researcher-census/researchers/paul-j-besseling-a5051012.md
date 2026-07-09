@@ -1,7 +1,7 @@
 ---
 title: "Paul J. Besseling"
 description: "Paul J. Besseling is a Mid-career Unknown researcher at University Medical Center Utrecht in NL. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.909092
+date: 2026-07-10T01:07:47.922753
 url: "/cdr-researcher-census/researchers/paul-j-besseling-a5051012/"
 layout: "researcher"
 hiddenInHomeList: true

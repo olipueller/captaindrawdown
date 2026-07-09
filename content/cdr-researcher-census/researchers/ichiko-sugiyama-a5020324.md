@@ -1,7 +1,7 @@
 ---
 title: "Ichiko Sugiyama"
 description: "Ichiko Sugiyama is a Senior Unknown researcher at Weizmann Institute of Science in IL. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.882665
+date: 2026-07-10T01:07:48.810026
 url: "/cdr-researcher-census/researchers/ichiko-sugiyama-a5020324/"
 layout: "researcher"
 hiddenInHomeList: true

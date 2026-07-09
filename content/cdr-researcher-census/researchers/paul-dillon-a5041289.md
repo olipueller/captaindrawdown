@@ -1,7 +1,7 @@
 ---
 title: "Paul Dillon"
 description: "Paul Dillon is a Senior General CDR researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.214435
+date: 2026-07-10T01:07:49.125892
 url: "/cdr-researcher-census/researchers/paul-dillon-a5041289/"
 layout: "researcher"
 hiddenInHomeList: true

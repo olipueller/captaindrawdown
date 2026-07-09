@@ -1,7 +1,7 @@
 ---
 title: "Shaghayegh Kianzad"
 description: "Shaghayegh Kianzad is a Mid-career Unknown researcher at Iran University of Medical Sciences in IR. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.707452
+date: 2026-07-10T01:07:48.659553
 url: "/cdr-researcher-census/researchers/shaghayegh-kianzad-a5073505/"
 layout: "researcher"
 hiddenInHomeList: true

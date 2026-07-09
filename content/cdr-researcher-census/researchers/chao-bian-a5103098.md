@@ -1,7 +1,7 @@
 ---
 title: "Chao Bian"
 description: "Chao Bian is a Senior Unknown researcher at Inner Mongolia People's Hospital in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.782028
+date: 2026-07-10T01:07:48.724762
 url: "/cdr-researcher-census/researchers/chao-bian-a5103098/"
 layout: "researcher"
 hiddenInHomeList: true

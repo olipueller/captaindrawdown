@@ -1,7 +1,7 @@
 ---
 title: "Sasivimon Chittrakorn"
 description: "Sasivimon Chittrakorn is a Senior Unknown researcher at Naresuan University in TH. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.121596
+date: 2026-07-10T01:07:48.145358
 url: "/cdr-researcher-census/researchers/sasivimon-chittrakorn-a5002190/"
 layout: "researcher"
 hiddenInHomeList: true

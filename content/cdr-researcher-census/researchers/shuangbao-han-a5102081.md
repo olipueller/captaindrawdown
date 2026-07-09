@@ -1,7 +1,7 @@
 ---
 title: "Shuangbao Han"
 description: "Shuangbao Han is a Senior Unknown researcher at China Geological Survey in CN. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.225907
+date: 2026-07-10T01:07:47.312856
 url: "/cdr-researcher-census/researchers/shuangbao-han-a5102081/"
 layout: "researcher"
 hiddenInHomeList: true

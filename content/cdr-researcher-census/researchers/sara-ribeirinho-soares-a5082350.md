@@ -1,7 +1,7 @@
 ---
 title: "Sara Ribeirinho-Soares"
 description: "Sara Ribeirinho-Soares is a Mid-career Unknown researcher at Universidade do Porto in PT. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.425922
+date: 2026-07-10T01:07:48.416181
 url: "/cdr-researcher-census/researchers/sara-ribeirinho-soares-a5082350/"
 layout: "researcher"
 hiddenInHomeList: true

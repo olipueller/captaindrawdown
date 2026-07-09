@@ -1,7 +1,7 @@
 ---
 title: "Christopher Castle"
 description: "Christopher Castle is a Senior Unknown researcher at University of Manchester in GB. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.346210
+date: 2026-07-10T01:07:48.345012
 url: "/cdr-researcher-census/researchers/christopher-castle-a5113444/"
 layout: "researcher"
 hiddenInHomeList: true

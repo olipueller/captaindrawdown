@@ -1,7 +1,7 @@
 ---
 title: "Hai Huang"
 description: "Hai Huang is a Mid-career Biochar researcher at Hunan University in CN. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.389489
+date: 2026-07-10T01:07:47.470335
 url: "/cdr-researcher-census/researchers/hai-huang-a5046544/"
 layout: "researcher"
 hiddenInHomeList: true

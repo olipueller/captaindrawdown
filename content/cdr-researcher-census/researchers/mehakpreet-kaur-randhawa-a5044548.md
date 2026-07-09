@@ -1,7 +1,7 @@
 ---
 title: "Mehakpreet Kaur Randhawa"
 description: "Mehakpreet Kaur Randhawa is a Mid-career Soil Carbon researcher at Punjab Agricultural University in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.560051
+date: 2026-07-10T01:07:48.539902
 url: "/cdr-researcher-census/researchers/mehakpreet-kaur-randhawa-a5044548/"
 layout: "researcher"
 hiddenInHomeList: true

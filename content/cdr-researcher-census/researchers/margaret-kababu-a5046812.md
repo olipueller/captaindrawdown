@@ -1,7 +1,7 @@
 ---
 title: "Margaret Kababu"
 description: "Margaret Kababu is a Mid-career Unknown researcher at ICIPE in KE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.770978
+date: 2026-07-10T01:07:48.714839
 url: "/cdr-researcher-census/researchers/margaret-kababu-a5046812/"
 layout: "researcher"
 hiddenInHomeList: true

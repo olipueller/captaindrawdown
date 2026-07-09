@@ -1,7 +1,7 @@
 ---
 title: "Nantao Liu"
 description: "Nantao Liu is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.305341
+date: 2026-07-10T01:07:48.308154
 url: "/cdr-researcher-census/researchers/nantao-liu-a5025905/"
 layout: "researcher"
 hiddenInHomeList: true

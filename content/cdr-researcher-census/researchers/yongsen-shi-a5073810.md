@@ -1,7 +1,7 @@
 ---
 title: "Yongsen Shi"
 description: "Yongsen Shi is a Mid-career Biochar researcher at Sun Yat-sen University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.790516
+date: 2026-07-10T01:07:47.839256
 url: "/cdr-researcher-census/researchers/yongsen-shi-a5073810/"
 layout: "researcher"
 hiddenInHomeList: true

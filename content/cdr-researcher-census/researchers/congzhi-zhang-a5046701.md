@@ -1,7 +1,7 @@
 ---
 title: "Congzhi Zhang"
 description: "Congzhi Zhang is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 109 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.013083
+date: 2026-07-10T01:07:47.077737
 url: "/cdr-researcher-census/researchers/congzhi-zhang-a5046701/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hao Zhou"
 description: "Hao Zhou is a Mid-career General CDR researcher at Khalifa University of Science and Technology in AE. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.249774
+date: 2026-07-10T01:07:48.257683
 url: "/cdr-researcher-census/researchers/hao-zhou-a5102016/"
 layout: "researcher"
 hiddenInHomeList: true

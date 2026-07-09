@@ -1,7 +1,7 @@
 ---
 title: "Baohua An"
 description: "Baohua An is a Mid-career Unknown researcher at University of Electronic Science and Technology of China in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.167099
+date: 2026-07-10T01:07:48.184304
 url: "/cdr-researcher-census/researchers/baohua-an-a5089465/"
 layout: "researcher"
 hiddenInHomeList: true

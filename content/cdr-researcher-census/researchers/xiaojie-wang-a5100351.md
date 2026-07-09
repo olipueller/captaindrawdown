@@ -1,7 +1,7 @@
 ---
 title: "Xiaojie Wang"
 description: "Xiaojie Wang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 56 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.113845
+date: 2026-07-10T01:07:47.200051
 url: "/cdr-researcher-census/researchers/xiaojie-wang-a5100351/"
 layout: "researcher"
 hiddenInHomeList: true

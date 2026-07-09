@@ -1,7 +1,7 @@
 ---
 title: "Simin Jin"
 description: "Simin Jin is a Mid-career Enhanced Weathering researcher at Yangtze University in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.321779
+date: 2026-07-10T01:07:48.322744
 url: "/cdr-researcher-census/researchers/simin-jin-a5046933/"
 layout: "researcher"
 hiddenInHomeList: true

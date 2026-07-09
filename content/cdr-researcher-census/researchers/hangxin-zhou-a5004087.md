@@ -1,7 +1,7 @@
 ---
 title: "Hangxin Zhou"
 description: "Hangxin Zhou is an Early-career Soil Carbon researcher at Zhejiang University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.570137
+date: 2026-07-10T01:07:48.548512
 url: "/cdr-researcher-census/researchers/hangxin-zhou-a5004087/"
 layout: "researcher"
 hiddenInHomeList: true

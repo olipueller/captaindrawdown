@@ -1,7 +1,7 @@
 ---
 title: "Clara Duffner"
 description: "Clara Duffner is a Senior Unknown researcher at Helmholtz Zentrum München in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.036127
+date: 2026-07-10T01:07:48.042227
 url: "/cdr-researcher-census/researchers/clara-duffner-a5037962/"
 layout: "researcher"
 hiddenInHomeList: true

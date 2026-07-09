@@ -1,7 +1,7 @@
 ---
 title: "Franklin Marín"
 description: "Franklin Marín is a Mid-career Soil Carbon researcher at University of Cuenca in EC. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.362359
+date: 2026-07-10T01:07:48.360290
 url: "/cdr-researcher-census/researchers/franklin-marin-a5112590/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bruna Almeida"
 description: "Bruna Almeida is a Mid-career General CDR researcher at Universidade dos Açores in PT. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.246546
+date: 2026-07-10T01:07:49.154377
 url: "/cdr-researcher-census/researchers/bruna-almeida-a5087986/"
 layout: "researcher"
 hiddenInHomeList: true

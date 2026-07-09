@@ -1,7 +1,7 @@
 ---
 title: "Maxwell A. T. Marple"
 description: "Maxwell A. T. Marple is a Mid-career Unknown researcher at Lawrence Livermore National Laboratory in US. With 73 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.115580
+date: 2026-07-10T01:07:47.202168
 url: "/cdr-researcher-census/researchers/maxwell-a-t-marple-a5026310/"
 layout: "researcher"
 hiddenInHomeList: true

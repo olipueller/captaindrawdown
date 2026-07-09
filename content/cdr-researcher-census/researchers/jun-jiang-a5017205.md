@@ -1,7 +1,7 @@
 ---
 title: "Jun Jiang"
 description: "Jun Jiang is a Senior Soil Carbon researcher at China Academy of Engineering Physics in CN. With 76 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.216874
+date: 2026-07-10T01:07:47.303714
 url: "/cdr-researcher-census/researchers/jun-jiang-a5017205/"
 layout: "researcher"
 hiddenInHomeList: true

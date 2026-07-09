@@ -1,7 +1,7 @@
 ---
 title: "Shixian Li"
 description: "Shixian Li is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.677145
+date: 2026-07-10T01:07:47.733564
 url: "/cdr-researcher-census/researchers/shixian-li-a5102881/"
 layout: "researcher"
 hiddenInHomeList: true

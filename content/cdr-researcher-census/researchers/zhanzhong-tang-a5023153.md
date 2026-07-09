@@ -1,7 +1,7 @@
 ---
 title: "Zhanzhong Tang"
 description: "Zhanzhong Tang is a Mid-career Unknown researcher at Xingtai University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.527619
+date: 2026-07-10T01:07:48.510432
 url: "/cdr-researcher-census/researchers/zhanzhong-tang-a5023153/"
 layout: "researcher"
 hiddenInHomeList: true

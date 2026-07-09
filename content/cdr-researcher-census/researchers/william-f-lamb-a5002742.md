@@ -1,7 +1,7 @@
 ---
 title: "William F. Lamb"
 description: "William F. Lamb is an Eminent General CDR researcher at University of Leeds in GB. With 130 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.902133
+date: 2026-07-10T01:07:46.892054
 url: "/cdr-researcher-census/researchers/william-f-lamb-a5002742/"
 layout: "researcher"
 hiddenInHomeList: true

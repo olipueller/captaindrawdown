@@ -1,7 +1,7 @@
 ---
 title: "Fangyu Zhou"
 description: "Fangyu Zhou is a Mid-career BECCS researcher at University of Illinois Urbana-Champaign in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.297179
+date: 2026-07-10T01:07:48.300269
 url: "/cdr-researcher-census/researchers/fangyu-zhou-a5023937/"
 layout: "researcher"
 hiddenInHomeList: true

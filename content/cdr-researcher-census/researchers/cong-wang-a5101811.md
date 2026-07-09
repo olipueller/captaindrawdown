@@ -1,7 +1,7 @@
 ---
 title: "Cong Wang"
 description: "Cong Wang is a Mid-career Soil Carbon researcher at Ministry of Agriculture in BW. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.798788
+date: 2026-07-10T01:07:48.737872
 url: "/cdr-researcher-census/researchers/cong-wang-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true

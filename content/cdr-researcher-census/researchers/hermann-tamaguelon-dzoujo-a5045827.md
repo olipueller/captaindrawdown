@@ -1,7 +1,7 @@
 ---
 title: "Hermann Tamaguelon Dzoujo"
 description: "Hermann Tamaguelon Dzoujo is a Mid-career Biochar researcher at University of Douala in CM. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.964495
+date: 2026-07-10T01:07:48.885477
 url: "/cdr-researcher-census/researchers/hermann-tamaguelon-dzoujo-a5045827/"
 layout: "researcher"
 hiddenInHomeList: true

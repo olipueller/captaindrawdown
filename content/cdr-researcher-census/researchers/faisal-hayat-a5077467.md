@@ -1,7 +1,7 @@
 ---
 title: "Faisal Hayat"
 description: "Faisal Hayat is a Mid-career Unknown researcher at Bahauddin Zakariya University in PK. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.572767
+date: 2026-07-10T01:07:47.636381
 url: "/cdr-researcher-census/researchers/faisal-hayat-a5077467/"
 layout: "researcher"
 hiddenInHomeList: true

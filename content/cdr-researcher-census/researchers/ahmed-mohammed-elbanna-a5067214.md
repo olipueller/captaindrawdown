@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Mohammed Elbanna"
 description: "Ahmed Mohammed Elbanna is a Mid-career Unknown researcher at Shanghai Jiao Tong University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.622826
+date: 2026-07-10T01:07:47.683261
 url: "/cdr-researcher-census/researchers/ahmed-mohammed-elbanna-a5067214/"
 layout: "researcher"
 hiddenInHomeList: true

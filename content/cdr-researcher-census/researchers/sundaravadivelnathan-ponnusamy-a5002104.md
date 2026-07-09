@@ -1,7 +1,7 @@
 ---
 title: "Sundaravadivelnathan Ponnusamy"
 description: "Sundaravadivelnathan Ponnusamy is a Mid-career Unknown researcher at New Mexico State University in US. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.386459
+date: 2026-07-10T01:07:47.467520
 url: "/cdr-researcher-census/researchers/sundaravadivelnathan-ponnusamy-a5002104/"
 layout: "researcher"
 hiddenInHomeList: true

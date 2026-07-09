@@ -1,7 +1,7 @@
 ---
 title: "Paul S. Fennell"
 description: "Paul S. Fennell is an Eminent General CDR researcher at Imperial College London in GB. With 221 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.879702
+date: 2026-07-10T01:07:46.835653
 url: "/cdr-researcher-census/researchers/paul-s-fennell-a5053737/"
 layout: "researcher"
 hiddenInHomeList: true

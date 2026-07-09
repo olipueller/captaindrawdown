@@ -1,7 +1,7 @@
 ---
 title: "Meile Chu"
 description: "Meile Chu is a Mid-career Biochar researcher at Henan Academy of Sciences in CN. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.281220
+date: 2026-07-10T01:07:47.363475
 url: "/cdr-researcher-census/researchers/meile-chu-a5026263/"
 layout: "researcher"
 hiddenInHomeList: true

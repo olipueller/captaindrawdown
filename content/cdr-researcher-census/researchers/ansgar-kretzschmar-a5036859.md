@@ -1,7 +1,7 @@
 ---
 title: "Ansgar Kretzschmar"
 description: "Ansgar Kretzschmar is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.134136
+date: 2026-07-10T01:07:48.156200
 url: "/cdr-researcher-census/researchers/ansgar-kretzschmar-a5036859/"
 layout: "researcher"
 hiddenInHomeList: true

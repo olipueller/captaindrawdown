@@ -1,7 +1,7 @@
 ---
 title: "Thamiris Ferreira Souza"
 description: "Thamiris Ferreira Souza is a Mid-career Biochar researcher at Universidade Federal de Lavras in BR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.021240
+date: 2026-07-10T01:07:48.937164
 url: "/cdr-researcher-census/researchers/thamiris-ferreira-souza-a5076252/"
 layout: "researcher"
 hiddenInHomeList: true

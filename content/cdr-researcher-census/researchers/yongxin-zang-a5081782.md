@@ -1,7 +1,7 @@
 ---
 title: "Yongxin Zang"
 description: "Yongxin Zang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.006445
+date: 2026-07-10T01:07:48.014997
 url: "/cdr-researcher-census/researchers/yongxin-zang-a5081782/"
 layout: "researcher"
 hiddenInHomeList: true

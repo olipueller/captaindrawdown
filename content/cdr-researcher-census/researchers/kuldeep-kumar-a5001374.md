@@ -1,7 +1,7 @@
 ---
 title: "Kuldeep Kumar"
 description: "Kuldeep Kumar is a Senior Soil Carbon researcher. With 23 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.687595
+date: 2026-07-10T01:07:47.743788
 url: "/cdr-researcher-census/researchers/kuldeep-kumar-a5001374/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Runkai Chen"
 description: "Runkai Chen is a Mid-career General CDR researcher at Chinese PLA General Hospital in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.346422
+date: 2026-07-10T01:07:48.345178
 url: "/cdr-researcher-census/researchers/runkai-chen-a5077593/"
 layout: "researcher"
 hiddenInHomeList: true

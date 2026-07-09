@@ -1,7 +1,7 @@
 ---
 title: "Mengying Lu"
 description: "Mengying Lu is a Mid-career Unknown researcher at Tianjin University of Technology in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.863656
+date: 2026-07-10T01:07:48.792917
 url: "/cdr-researcher-census/researchers/mengying-lu-a5114125/"
 layout: "researcher"
 hiddenInHomeList: true

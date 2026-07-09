@@ -1,7 +1,7 @@
 ---
 title: "Gustavo Stolzenberg Colares"
 description: "Gustavo Stolzenberg Colares is a Mid-career BECCS researcher at Univates in BR. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.306000
+date: 2026-07-10T01:07:47.387967
 url: "/cdr-researcher-census/researchers/gustavo-stolzenberg-colares-a5041968/"
 layout: "researcher"
 hiddenInHomeList: true

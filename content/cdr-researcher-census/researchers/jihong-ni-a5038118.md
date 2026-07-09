@@ -1,7 +1,7 @@
 ---
 title: "Jihong Ni"
 description: "Jihong Ni is a Mid-career Unknown researcher at ShanghaiTech University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.772323
+date: 2026-07-10T01:07:48.716191
 url: "/cdr-researcher-census/researchers/jihong-ni-a5038118/"
 layout: "researcher"
 hiddenInHomeList: true

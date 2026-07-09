@@ -1,7 +1,7 @@
 ---
 title: "Juan Ignacio Burneo Valdivieso"
 description: "Juan Ignacio Burneo Valdivieso is a Mid-career Soil Carbon researcher at Universidad Técnica Particular de Loja in EC. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.178999
+date: 2026-07-10T01:07:48.195197
 url: "/cdr-researcher-census/researchers/juan-ignacio-burneo-valdivieso-a5024144/"
 layout: "researcher"
 hiddenInHomeList: true

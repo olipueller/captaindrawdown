@@ -1,7 +1,7 @@
 ---
 title: "Dana Lapides"
 description: "Dana Lapides is a Mid-career Unknown researcher at Southwest Watershed Research Center in US. With 70 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.005997
+date: 2026-07-10T01:07:48.014615
 url: "/cdr-researcher-census/researchers/dana-lapides-a5004824/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yinhang Xia"
 description: "Yinhang Xia is a Mid-career Soil Carbon researcher at Changsha University in CN. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.173998
+date: 2026-07-10T01:07:47.263252
 url: "/cdr-researcher-census/researchers/yinhang-xia-a5045365/"
 layout: "researcher"
 hiddenInHomeList: true

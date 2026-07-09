@@ -1,7 +1,7 @@
 ---
 title: "Chao Peng"
 description: "Chao Peng is a Mid-career Unknown researcher at Central South University of Forestry and Technology in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.144996
+date: 2026-07-10T01:07:48.165145
 url: "/cdr-researcher-census/researchers/chao-peng-a5101595/"
 layout: "researcher"
 hiddenInHomeList: true

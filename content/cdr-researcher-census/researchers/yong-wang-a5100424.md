@@ -1,7 +1,7 @@
 ---
 title: "Yong Wang"
 description: "Yong Wang is a Senior Unknown researcher at Jilin University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.146138
+date: 2026-07-10T01:07:49.048400
 url: "/cdr-researcher-census/researchers/yong-wang-a5100424/"
 layout: "researcher"
 hiddenInHomeList: true

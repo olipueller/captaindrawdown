@@ -1,7 +1,7 @@
 ---
 title: "Peng Tian"
 description: "Peng Tian is a Senior Soil Carbon researcher at Anhui Agricultural University in CN. With 46 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.163796
+date: 2026-07-10T01:07:47.253095
 url: "/cdr-researcher-census/researchers/peng-tian-a5011450/"
 layout: "researcher"
 hiddenInHomeList: true

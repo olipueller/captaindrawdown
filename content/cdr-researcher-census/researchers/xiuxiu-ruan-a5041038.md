@@ -1,7 +1,7 @@
 ---
 title: "Xiuxiu Ruan"
 description: "Xiuxiu Ruan is a Mid-career Soil Carbon researcher at Shanghai University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.019187
+date: 2026-07-10T01:07:48.935204
 url: "/cdr-researcher-census/researchers/xiuxiu-ruan-a5041038/"
 layout: "researcher"
 hiddenInHomeList: true

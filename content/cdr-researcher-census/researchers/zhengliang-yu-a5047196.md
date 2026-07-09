@@ -1,7 +1,7 @@
 ---
 title: "Zhengliang Yu"
 description: "Zhengliang Yu is a Mid-career Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.820039
+date: 2026-07-10T01:07:47.866191
 url: "/cdr-researcher-census/researchers/zhengliang-yu-a5047196/"
 layout: "researcher"
 hiddenInHomeList: true

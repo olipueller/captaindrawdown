@@ -1,7 +1,7 @@
 ---
 title: "Ida Pettiti"
 description: "Ida Pettiti is a Senior Biochar researcher at Sapienza University of Rome in IT. With 71 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.072847
+date: 2026-07-10T01:07:47.152388
 url: "/cdr-researcher-census/researchers/ida-pettiti-a5069997/"
 layout: "researcher"
 hiddenInHomeList: true

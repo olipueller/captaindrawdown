@@ -1,7 +1,7 @@
 ---
 title: "Tanya Oliver"
 description: "Tanya Oliver is a Senior General CDR researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.968897
+date: 2026-07-10T01:07:47.979479
 url: "/cdr-researcher-census/researchers/tanya-oliver-a5046628/"
 layout: "researcher"
 hiddenInHomeList: true

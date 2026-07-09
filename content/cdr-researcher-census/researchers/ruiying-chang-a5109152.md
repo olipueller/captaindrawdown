@@ -1,7 +1,7 @@
 ---
 title: "Ruiying Chang"
 description: "Ruiying Chang is a Senior Soil Carbon researcher at Zhengzhou University in CN. With 77 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.022041
+date: 2026-07-10T01:07:47.088907
 url: "/cdr-researcher-census/researchers/ruiying-chang-a5109152/"
 layout: "researcher"
 hiddenInHomeList: true

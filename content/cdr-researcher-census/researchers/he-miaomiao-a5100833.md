@@ -1,7 +1,7 @@
 ---
 title: "He Miaomiao"
 description: "He Miaomiao is a Senior Soil Carbon researcher at Liaoning Technical University in CN. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.994184
+date: 2026-07-10T01:07:48.912572
 url: "/cdr-researcher-census/researchers/he-miaomiao-a5100833/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhuyun Yu"
 description: "Zhuyun Yu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.893879
+date: 2026-07-10T01:07:47.908860
 url: "/cdr-researcher-census/researchers/zhuyun-yu-a5035998/"
 layout: "researcher"
 hiddenInHomeList: true

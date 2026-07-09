@@ -1,7 +1,7 @@
 ---
 title: "Fabienne Fontao"
 description: "Fabienne Fontao is a Senior Unknown researcher at University of Geneva in CH. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.735461
+date: 2026-07-10T01:07:47.787582
 url: "/cdr-researcher-census/researchers/fabienne-fontao-a5016671/"
 layout: "researcher"
 hiddenInHomeList: true

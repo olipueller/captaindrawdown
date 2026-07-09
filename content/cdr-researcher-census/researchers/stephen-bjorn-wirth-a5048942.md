@@ -1,7 +1,7 @@
 ---
 title: "Stephen Björn Wirth"
 description: "Stephen Björn Wirth is a Mid-career Soil Carbon researcher at Leibniz Association in DE. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.183108
+date: 2026-07-10T01:07:48.198656
 url: "/cdr-researcher-census/researchers/stephen-bjorn-wirth-a5048942/"
 layout: "researcher"
 hiddenInHomeList: true

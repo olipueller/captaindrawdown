@@ -1,7 +1,7 @@
 ---
 title: "Yuantian Zhao"
 description: "Yuantian Zhao is a Mid-career Unknown researcher at Beijing University of Technology in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.373309
+date: 2026-07-10T01:07:48.369754
 url: "/cdr-researcher-census/researchers/yuantian-zhao-a5034156/"
 layout: "researcher"
 hiddenInHomeList: true

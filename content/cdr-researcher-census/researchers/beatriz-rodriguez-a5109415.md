@@ -1,7 +1,7 @@
 ---
 title: "Beatriz Rodríguez"
 description: "Beatriz Rodríguez is a Mid-career Soil Carbon researcher at Hospital Universitario de Canarias in ES. With 23 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.770152
+date: 2026-07-10T01:07:48.714098
 url: "/cdr-researcher-census/researchers/beatriz-rodriguez-a5109415/"
 layout: "researcher"
 hiddenInHomeList: true

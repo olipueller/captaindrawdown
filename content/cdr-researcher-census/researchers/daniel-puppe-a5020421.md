@@ -1,7 +1,7 @@
 ---
 title: "Daniel Puppe"
 description: "Daniel Puppe is a Senior Soil Carbon researcher at Leibniz Centre for Agricultural Landscape Research in DE. With 69 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.141054
+date: 2026-07-10T01:07:47.229983
 url: "/cdr-researcher-census/researchers/daniel-puppe-a5020421/"
 layout: "researcher"
 hiddenInHomeList: true

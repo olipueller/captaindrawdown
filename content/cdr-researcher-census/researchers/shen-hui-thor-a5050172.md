@@ -1,7 +1,7 @@
 ---
 title: "Shen-Hui Thor"
 description: "Shen-Hui Thor is a Mid-career Unknown researcher at Universiti Malaysia Perlis in MY. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.186971
+date: 2026-07-10T01:07:48.201846
 url: "/cdr-researcher-census/researchers/shen-hui-thor-a5050172/"
 layout: "researcher"
 hiddenInHomeList: true

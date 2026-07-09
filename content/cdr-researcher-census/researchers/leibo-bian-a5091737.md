@@ -1,7 +1,7 @@
 ---
 title: "Leibo Bian"
 description: "Leibo Bian is a Mid-career Unknown researcher at Research Institute of Petroleum Exploration and Development in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.587735
+date: 2026-07-10T01:07:48.552392
 url: "/cdr-researcher-census/researchers/leibo-bian-a5091737/"
 layout: "researcher"
 hiddenInHomeList: true

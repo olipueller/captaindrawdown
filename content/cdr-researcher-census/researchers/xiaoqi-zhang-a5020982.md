@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqi Zhang"
 description: "Xiaoqi Zhang is a Mid-career Unknown researcher at University of Technology Sydney in AU. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.731167
+date: 2026-07-10T01:07:48.679902
 url: "/cdr-researcher-census/researchers/xiaoqi-zhang-a5020982/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hsing‐Juh Lin"
 description: "Hsing‐Juh Lin is a Senior Soil Carbon researcher at National Chung Hsing University in TW. With 178 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.996175
+date: 2026-07-10T01:07:47.054986
 url: "/cdr-researcher-census/researchers/hsingjuh-lin-a5024689/"
 layout: "researcher"
 hiddenInHomeList: true

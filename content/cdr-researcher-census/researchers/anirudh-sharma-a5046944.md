@@ -1,7 +1,7 @@
 ---
 title: "Anirudh Sharma"
 description: "Anirudh Sharma is a Mid-career BECCS researcher at King Abdullah University of Science and Technology in SA. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.192011
+date: 2026-07-10T01:07:48.206278
 url: "/cdr-researcher-census/researchers/anirudh-sharma-a5046944/"
 layout: "researcher"
 hiddenInHomeList: true

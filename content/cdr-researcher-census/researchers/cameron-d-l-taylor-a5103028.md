@@ -1,7 +1,7 @@
 ---
 title: "Cameron D. L. Taylor"
 description: "Cameron D. L. Taylor is a Mid-career Unknown researcher at Texas A&M University in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.113183
+date: 2026-07-10T01:07:49.019781
 url: "/cdr-researcher-census/researchers/cameron-d-l-taylor-a5103028/"
 layout: "researcher"
 hiddenInHomeList: true

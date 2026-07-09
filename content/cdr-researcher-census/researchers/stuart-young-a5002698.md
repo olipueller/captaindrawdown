@@ -1,7 +1,7 @@
 ---
 title: "Stuart Young"
 description: "Stuart Young is a Senior Unknown researcher at University of York in GB. With 47 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.142360
+date: 2026-07-10T01:07:47.231226
 url: "/cdr-researcher-census/researchers/stuart-young-a5002698/"
 layout: "researcher"
 hiddenInHomeList: true

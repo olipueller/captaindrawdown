@@ -1,7 +1,7 @@
 ---
 title: "Jing-xuan Li"
 description: "Jing-xuan Li is a Mid-career Unknown researcher at Jiangsu University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.602777
+date: 2026-07-10T01:07:48.565899
 url: "/cdr-researcher-census/researchers/jing-xuan-li-a5058226/"
 layout: "researcher"
 hiddenInHomeList: true

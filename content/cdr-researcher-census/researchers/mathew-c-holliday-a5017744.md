@@ -1,7 +1,7 @@
 ---
 title: "Mathew C. Holliday"
 description: "Mathew C. Holliday is an Early-career Biochar researcher at University of Hull in GB. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.899279
+date: 2026-07-10T01:07:48.824880
 url: "/cdr-researcher-census/researchers/mathew-c-holliday-a5017744/"
 layout: "researcher"
 hiddenInHomeList: true

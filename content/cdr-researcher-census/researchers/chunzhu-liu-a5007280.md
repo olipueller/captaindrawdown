@@ -1,7 +1,7 @@
 ---
 title: "Chunzhu Liu"
 description: "Chunzhu Liu is a Senior Soil Carbon researcher at Xian Central Hospital in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.892875
+date: 2026-07-10T01:07:47.907875
 url: "/cdr-researcher-census/researchers/chunzhu-liu-a5007280/"
 layout: "researcher"
 hiddenInHomeList: true

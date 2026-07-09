@@ -1,7 +1,7 @@
 ---
 title: "Chan Zheng"
 description: "Chan Zheng is a Senior Unknown researcher at Hunan University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.353385
+date: 2026-07-10T01:07:47.435588
 url: "/cdr-researcher-census/researchers/chan-zheng-a5101944/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tadeáš Ochodek"
 description: "Tadeáš Ochodek is an Early-career Biochar researcher at VSB - Technical University of Ostrava in CZ. With 7 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.124549
+date: 2026-07-10T01:07:49.029889
 url: "/cdr-researcher-census/researchers/tadeas-ochodek-a5014558/"
 layout: "researcher"
 hiddenInHomeList: true

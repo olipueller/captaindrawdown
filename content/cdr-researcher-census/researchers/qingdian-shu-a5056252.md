@@ -1,7 +1,7 @@
 ---
 title: "Qingdian Shu"
 description: "Qingdian Shu is a Mid-career General CDR researcher at Water Technology (Australia) in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.889209
+date: 2026-07-10T01:07:47.903952
 url: "/cdr-researcher-census/researchers/qingdian-shu-a5056252/"
 layout: "researcher"
 hiddenInHomeList: true

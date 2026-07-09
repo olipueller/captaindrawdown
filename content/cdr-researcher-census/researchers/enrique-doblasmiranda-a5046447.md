@@ -1,7 +1,7 @@
 ---
 title: "Enrique Doblas‐Miranda"
 description: "Enrique Doblas‐Miranda is a Senior Unknown researcher at Centre de Recerca Ecològica i Aplicacions Forestals in ES. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.352859
+date: 2026-07-10T01:07:47.435082
 url: "/cdr-researcher-census/researchers/enrique-doblasmiranda-a5046447/"
 layout: "researcher"
 hiddenInHomeList: true

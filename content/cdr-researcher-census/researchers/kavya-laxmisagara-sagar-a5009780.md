@@ -1,7 +1,7 @@
 ---
 title: "Kavya Laxmisagara Sagar"
 description: "Kavya Laxmisagara Sagar is a Mid-career Soil Carbon researcher at University of Idaho in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.611911
+date: 2026-07-10T01:07:48.573436
 url: "/cdr-researcher-census/researchers/kavya-laxmisagara-sagar-a5009780/"
 layout: "researcher"
 hiddenInHomeList: true

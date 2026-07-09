@@ -1,7 +1,7 @@
 ---
 title: "N.A. Ahammad"
 description: "N.A. Ahammad is an Early-career Biochar researcher at Universiti Sains Malaysia in MY. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.162665
+date: 2026-07-10T01:07:49.053569
 url: "/cdr-researcher-census/researchers/na-ahammad-a5088001/"
 layout: "researcher"
 hiddenInHomeList: true

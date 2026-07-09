@@ -1,7 +1,7 @@
 ---
 title: "Chelsea Smith"
 description: "Chelsea Smith is a Senior Soil Carbon researcher at Kent State University in US. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.895482
+date: 2026-07-10T01:07:48.821356
 url: "/cdr-researcher-census/researchers/chelsea-smith-a5005346/"
 layout: "researcher"
 hiddenInHomeList: true

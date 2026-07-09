@@ -1,7 +1,7 @@
 ---
 title: "Chuandong Tan"
 description: "Chuandong Tan is a Mid-career Unknown researcher at Huazhong Agricultural University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.136140
+date: 2026-07-10T01:07:48.157978
 url: "/cdr-researcher-census/researchers/chuandong-tan-a5039200/"
 layout: "researcher"
 hiddenInHomeList: true

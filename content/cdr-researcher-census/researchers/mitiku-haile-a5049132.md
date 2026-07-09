@@ -1,7 +1,7 @@
 ---
 title: "Mitiku Haile"
 description: "Mitiku Haile is a Mid-career Soil Carbon researcher at Mekelle University in ET. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.007333
+date: 2026-07-10T01:07:48.924673
 url: "/cdr-researcher-census/researchers/mitiku-haile-a5049132/"
 layout: "researcher"
 hiddenInHomeList: true

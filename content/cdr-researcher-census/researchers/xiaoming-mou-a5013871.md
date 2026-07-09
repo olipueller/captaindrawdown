@@ -1,7 +1,7 @@
 ---
 title: "Xiaoming Mou"
 description: "Xiaoming Mou is a Senior Soil Carbon researcher at Inner Mongolia University for Nationalities in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.955805
+date: 2026-07-10T01:07:47.966946
 url: "/cdr-researcher-census/researchers/xiaoming-mou-a5013871/"
 layout: "researcher"
 hiddenInHomeList: true

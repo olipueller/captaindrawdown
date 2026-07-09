@@ -1,7 +1,7 @@
 ---
 title: "Justyna Mencel"
 description: "Justyna Mencel is a Mid-career Unknown researcher at University of Life Sciences in Poznań in PL. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.651169
+date: 2026-07-10T01:07:48.609488
 url: "/cdr-researcher-census/researchers/justyna-mencel-a5061683/"
 layout: "researcher"
 hiddenInHomeList: true

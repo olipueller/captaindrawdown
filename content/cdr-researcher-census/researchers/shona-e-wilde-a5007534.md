@@ -1,7 +1,7 @@
 ---
 title: "Shona E. Wilde"
 description: "Shona E. Wilde is a Mid-career Unknown researcher at Carleton University in CA. With 56 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.569876
+date: 2026-07-10T01:07:47.633583
 url: "/cdr-researcher-census/researchers/shona-e-wilde-a5007534/"
 layout: "researcher"
 hiddenInHomeList: true

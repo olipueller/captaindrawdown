@@ -1,7 +1,7 @@
 ---
 title: "Jessica Hamilton"
 description: "Jessica Hamilton is a Senior General CDR researcher at Australian Synchrotron in AU. With 64 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.259706
+date: 2026-07-10T01:07:47.343740
 url: "/cdr-researcher-census/researchers/jessica-hamilton-a5017012/"
 layout: "researcher"
 hiddenInHomeList: true

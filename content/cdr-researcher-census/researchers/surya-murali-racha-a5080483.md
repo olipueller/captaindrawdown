@@ -1,7 +1,7 @@
 ---
 title: "Surya Murali Racha"
 description: "Surya Murali Racha is a Mid-career Unknown researcher at Reliance Industries (India) in IN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.504611
+date: 2026-07-10T01:07:48.490214
 url: "/cdr-researcher-census/researchers/surya-murali-racha-a5080483/"
 layout: "researcher"
 hiddenInHomeList: true

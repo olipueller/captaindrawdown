@@ -1,7 +1,7 @@
 ---
 title: "Loubna Hadhoum"
 description: "Loubna Hadhoum is a Mid-career Unknown researcher at Centre National de la Recherche Scientifique in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.683974
+date: 2026-07-10T01:07:48.638923
 url: "/cdr-researcher-census/researchers/loubna-hadhoum-a5064309/"
 layout: "researcher"
 hiddenInHomeList: true

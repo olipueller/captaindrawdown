@@ -1,7 +1,7 @@
 ---
 title: "Nicole Ferru"
 description: "Nicole Ferru is an Early-career DAC researcher at ETH Zurich in CH. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.876244
+date: 2026-07-10T01:07:48.803806
 url: "/cdr-researcher-census/researchers/nicole-ferru-a5053323/"
 layout: "researcher"
 hiddenInHomeList: true

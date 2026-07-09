@@ -1,7 +1,7 @@
 ---
 title: "Mohamad Hanafi"
 description: "Mohamad Hanafi is a Mid-career Biochar researcher at Aalto University in FI. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.146980
+date: 2026-07-10T01:07:48.166998
 url: "/cdr-researcher-census/researchers/mohamad-hanafi-a5016896/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mortada Daaou"
 description: "Mortada Daaou is a Senior Unknown researcher at Université Oran 1 Ahmed Ben Bella in DZ. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.512814
+date: 2026-07-10T01:07:47.581036
 url: "/cdr-researcher-census/researchers/mortada-daaou-a5072323/"
 layout: "researcher"
 hiddenInHomeList: true

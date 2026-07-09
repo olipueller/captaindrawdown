@@ -1,7 +1,7 @@
 ---
 title: "Gadisa Demie"
 description: "Gadisa Demie is a Mid-career Unknown researcher at Ambo University in ET. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.750461
+date: 2026-07-10T01:07:48.697270
 url: "/cdr-researcher-census/researchers/gadisa-demie-a5045805/"
 layout: "researcher"
 hiddenInHomeList: true

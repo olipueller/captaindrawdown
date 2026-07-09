@@ -1,7 +1,7 @@
 ---
 title: "Ying Wang"
 description: "Ying Wang is a Senior Unknown researcher at Tianjin University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.756601
+date: 2026-07-10T01:07:48.702429
 url: "/cdr-researcher-census/researchers/ying-wang-a5100347/"
 layout: "researcher"
 hiddenInHomeList: true

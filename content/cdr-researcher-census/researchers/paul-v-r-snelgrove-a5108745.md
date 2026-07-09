@@ -1,7 +1,7 @@
 ---
 title: "Paul V. R. Snelgrove"
 description: "Paul V. R. Snelgrove is a Mid-career Unknown researcher at Memorial University of Newfoundland in CA. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.919064
+date: 2026-07-10T01:07:48.842996
 url: "/cdr-researcher-census/researchers/paul-v-r-snelgrove-a5108745/"
 layout: "researcher"
 hiddenInHomeList: true

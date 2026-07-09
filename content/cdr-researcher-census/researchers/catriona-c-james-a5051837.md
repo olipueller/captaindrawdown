@@ -1,7 +1,7 @@
 ---
 title: "Catriona C. James"
 description: "Catriona C. James is a Mid-career Unknown researcher at University of Amsterdam in NL. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.883269
+date: 2026-07-10T01:07:48.810574
 url: "/cdr-researcher-census/researchers/catriona-c-james-a5051837/"
 layout: "researcher"
 hiddenInHomeList: true

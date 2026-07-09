@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Pachimatla"
 description: "Rajesh Pachimatla is a Mid-career General CDR researcher at ASA College in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.666246
+date: 2026-07-10T01:07:48.622559
 url: "/cdr-researcher-census/researchers/rajesh-pachimatla-a5053378/"
 layout: "researcher"
 hiddenInHomeList: true

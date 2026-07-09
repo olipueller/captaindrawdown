@@ -1,7 +1,7 @@
 ---
 title: "Megna Rashid"
 description: "Megna Rashid is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.388512
+date: 2026-07-10T01:07:48.382192
 url: "/cdr-researcher-census/researchers/megna-rashid-a5043527/"
 layout: "researcher"
 hiddenInHomeList: true

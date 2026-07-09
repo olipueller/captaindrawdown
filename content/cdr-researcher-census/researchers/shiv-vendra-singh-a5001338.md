@@ -1,7 +1,7 @@
 ---
 title: "Shiv Vendra Singh"
 description: "Shiv Vendra Singh is a Mid-career Soil Carbon researcher at Central Agricultural University in IN. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.439998
+date: 2026-07-10T01:07:47.516367
 url: "/cdr-researcher-census/researchers/shiv-vendra-singh-a5001338/"
 layout: "researcher"
 hiddenInHomeList: true

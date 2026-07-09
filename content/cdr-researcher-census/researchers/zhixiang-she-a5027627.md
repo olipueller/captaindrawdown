@@ -1,7 +1,7 @@
 ---
 title: "Zhixiang She"
 description: "Zhixiang She is a Mid-career Unknown researcher at University of Science and Technology of China in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.775171
+date: 2026-07-10T01:07:47.824685
 url: "/cdr-researcher-census/researchers/zhixiang-she-a5027627/"
 layout: "researcher"
 hiddenInHomeList: true

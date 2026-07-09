@@ -1,7 +1,7 @@
 ---
 title: "Constanze Werner"
 description: "Constanze Werner is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.926827
+date: 2026-07-10T01:07:47.940281
 url: "/cdr-researcher-census/researchers/constanze-werner-a5086822/"
 layout: "researcher"
 hiddenInHomeList: true

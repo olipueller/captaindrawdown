@@ -1,7 +1,7 @@
 ---
 title: "Ding Xiao"
 description: "Ding Xiao is a Mid-career Unknown researcher at Zhejiang University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.067023
+date: 2026-07-10T01:07:48.069653
 url: "/cdr-researcher-census/researchers/ding-xiao-a5102313/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "H. L. Zhang"
 description: "H. L. Zhang is a Mid-career General CDR researcher at Line Corporation (Japan) in JP. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.192456
+date: 2026-07-10T01:07:47.281691
 url: "/cdr-researcher-census/researchers/h-l-zhang-a5076411/"
 layout: "researcher"
 hiddenInHomeList: true

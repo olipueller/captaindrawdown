@@ -1,7 +1,7 @@
 ---
 title: "Sara Alfano"
 description: "Sara Alfano is a Mid-career Unknown researcher at Sapienza – Università di Roma in IT. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.277497
+date: 2026-07-10T01:07:48.283223
 url: "/cdr-researcher-census/researchers/sara-alfano-a5015901/"
 layout: "researcher"
 hiddenInHomeList: true

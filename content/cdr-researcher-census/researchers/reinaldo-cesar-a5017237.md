@@ -1,7 +1,7 @@
 ---
 title: "Reinaldo Cesar"
 description: "Reinaldo Cesar is a Mid-career Unknown researcher at Universidade Estadual de Campinas (UNICAMP) in BR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.190730
+date: 2026-07-10T01:07:49.104551
 url: "/cdr-researcher-census/researchers/reinaldo-cesar-a5017237/"
 layout: "researcher"
 hiddenInHomeList: true

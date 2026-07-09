@@ -1,7 +1,7 @@
 ---
 title: "Eleanor E. Campbell"
 description: "Eleanor E. Campbell is a Senior Soil Carbon researcher at Universidade Estadual de Campinas (UNICAMP) in BR. With 47 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.011210
+date: 2026-07-10T01:07:47.075116
 url: "/cdr-researcher-census/researchers/eleanor-e-campbell-a5103103/"
 layout: "researcher"
 hiddenInHomeList: true

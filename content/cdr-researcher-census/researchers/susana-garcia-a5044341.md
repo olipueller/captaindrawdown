@@ -1,7 +1,7 @@
 ---
 title: "Susana García"
 description: "Susana García is a Senior General CDR researcher at Heriot-Watt University in GB. With 182 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.951639
+date: 2026-07-10T01:07:46.985369
 url: "/cdr-researcher-census/researchers/susana-garcia-a5044341/"
 layout: "researcher"
 hiddenInHomeList: true

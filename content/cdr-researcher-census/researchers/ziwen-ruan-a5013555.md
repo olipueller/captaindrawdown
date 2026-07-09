@@ -1,7 +1,7 @@
 ---
 title: "Ziwen Ruan"
 description: "Ziwen Ruan is a Mid-career General CDR researcher at Ministry of Ecology and Environment in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.149881
+date: 2026-07-10T01:07:49.052208
 url: "/cdr-researcher-census/researchers/ziwen-ruan-a5013555/"
 layout: "researcher"
 hiddenInHomeList: true

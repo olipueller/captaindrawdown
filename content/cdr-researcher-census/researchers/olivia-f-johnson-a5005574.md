@@ -1,7 +1,7 @@
 ---
 title: "Olivia F. Johnson"
 description: "Olivia F. Johnson is a Mid-career Unknown researcher at Kent State University in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.414970
+date: 2026-07-10T01:07:48.405850
 url: "/cdr-researcher-census/researchers/olivia-f-johnson-a5005574/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Cross"
 description: "Rebecca Cross is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.361388
+date: 2026-07-10T01:07:48.359514
 url: "/cdr-researcher-census/researchers/rebecca-cross-a5102649/"
 layout: "researcher"
 hiddenInHomeList: true

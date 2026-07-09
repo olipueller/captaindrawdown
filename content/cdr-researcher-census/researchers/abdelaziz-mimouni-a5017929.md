@@ -1,7 +1,7 @@
 ---
 title: "Abdelaziz Mimouni"
 description: "Abdelaziz Mimouni is a Mid-career Soil Carbon researcher at Institut National de la Recherche Agronomique in MA. With 41 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.293166
+date: 2026-07-10T01:07:48.296914
 url: "/cdr-researcher-census/researchers/abdelaziz-mimouni-a5017929/"
 layout: "researcher"
 hiddenInHomeList: true

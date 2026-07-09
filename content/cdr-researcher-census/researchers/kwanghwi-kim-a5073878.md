@@ -1,7 +1,7 @@
 ---
 title: "Kwanghwi Kim"
 description: "Kwanghwi Kim is a Mid-career Unknown researcher at Pohang Iron and Steel (South Korea) in KR. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.665145
+date: 2026-07-10T01:07:48.621623
 url: "/cdr-researcher-census/researchers/kwanghwi-kim-a5073878/"
 layout: "researcher"
 hiddenInHomeList: true

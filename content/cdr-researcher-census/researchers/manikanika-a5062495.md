@@ -1,7 +1,7 @@
 ---
 title: "Manikanika"
 description: "Manikanika is a Mid-career Unknown researcher at Chandigarh University in IN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.048388
+date: 2026-07-10T01:07:48.053759
 url: "/cdr-researcher-census/researchers/manikanika-a5062495/"
 layout: "researcher"
 hiddenInHomeList: true

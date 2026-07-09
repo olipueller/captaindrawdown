@@ -1,7 +1,7 @@
 ---
 title: "Kanami Kamide"
 description: "Kanami Kamide is a Mid-career Unknown researcher at Hiroshima University in JP. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.128716
+date: 2026-07-10T01:07:48.151887
 url: "/cdr-researcher-census/researchers/kanami-kamide-a5024765/"
 layout: "researcher"
 hiddenInHomeList: true

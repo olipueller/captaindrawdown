@@ -1,7 +1,7 @@
 ---
 title: "Qinli Xiong"
 description: "Qinli Xiong is a Senior General CDR researcher at Chengdu Institute of Biology in CN. With 40 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.144883
+date: 2026-07-10T01:07:47.233796
 url: "/cdr-researcher-census/researchers/qinli-xiong-a5009707/"
 layout: "researcher"
 hiddenInHomeList: true

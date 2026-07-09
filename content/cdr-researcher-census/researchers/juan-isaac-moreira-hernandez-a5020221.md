@@ -1,7 +1,7 @@
 ---
 title: "Juan Isaac Moreira-Hernández"
 description: "Juan Isaac Moreira-Hernández is a Mid-career Unknown researcher at University of Missouri–St. Louis in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.447040
+date: 2026-07-10T01:07:47.523005
 url: "/cdr-researcher-census/researchers/juan-isaac-moreira-hernandez-a5020221/"
 layout: "researcher"
 hiddenInHomeList: true

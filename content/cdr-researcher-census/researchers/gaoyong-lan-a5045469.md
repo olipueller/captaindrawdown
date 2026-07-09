@@ -1,7 +1,7 @@
 ---
 title: "Gaoyong Lan"
 description: "Gaoyong Lan is a Mid-career Soil Carbon researcher at RS Dynamics (Czechia) in CZ. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.887764
+date: 2026-07-10T01:07:48.814534
 url: "/cdr-researcher-census/researchers/gaoyong-lan-a5045469/"
 layout: "researcher"
 hiddenInHomeList: true

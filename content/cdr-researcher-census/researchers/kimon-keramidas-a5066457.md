@@ -1,7 +1,7 @@
 ---
 title: "Kimon Keramidas"
 description: "Kimon Keramidas is a Senior General CDR researcher at Grenoble Applied Economics Lab in FR. With 93 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.976011
+date: 2026-07-10T01:07:47.022694
 url: "/cdr-researcher-census/researchers/kimon-keramidas-a5066457/"
 layout: "researcher"
 hiddenInHomeList: true

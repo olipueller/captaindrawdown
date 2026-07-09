@@ -1,7 +1,7 @@
 ---
 title: "Lianfu Liang"
 description: "Lianfu Liang is a Mid-career Biochar researcher at Nanyang Normal University in CN. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.849519
+date: 2026-07-10T01:07:47.885448
 url: "/cdr-researcher-census/researchers/lianfu-liang-a5085517/"
 layout: "researcher"
 hiddenInHomeList: true

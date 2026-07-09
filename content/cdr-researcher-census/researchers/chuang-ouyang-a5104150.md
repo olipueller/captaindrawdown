@@ -1,7 +1,7 @@
 ---
 title: "Chuang Ouyang"
 description: "Chuang Ouyang is a Mid-career Unknown researcher at Guangdong Medical College in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.812077
+date: 2026-07-10T01:07:48.749328
 url: "/cdr-researcher-census/researchers/chuang-ouyang-a5104150/"
 layout: "researcher"
 hiddenInHomeList: true

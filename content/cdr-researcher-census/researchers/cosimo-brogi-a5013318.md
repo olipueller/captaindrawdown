@@ -1,7 +1,7 @@
 ---
 title: "Cosimo Brogi"
 description: "Cosimo Brogi is a Mid-career Soil Carbon researcher at Forschungszentrum Jülich in DE. With 93 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.459050
+date: 2026-07-10T01:07:47.533437
 url: "/cdr-researcher-census/researchers/cosimo-brogi-a5013318/"
 layout: "researcher"
 hiddenInHomeList: true

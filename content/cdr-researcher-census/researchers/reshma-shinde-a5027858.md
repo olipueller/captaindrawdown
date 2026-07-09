@@ -1,7 +1,7 @@
 ---
 title: "Reshma Shinde"
 description: "Reshma Shinde is a Mid-career Soil Carbon researcher at Indian Institute of Technology Bombay in IN. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.600057
+date: 2026-07-10T01:07:47.662343
 url: "/cdr-researcher-census/researchers/reshma-shinde-a5027858/"
 layout: "researcher"
 hiddenInHomeList: true

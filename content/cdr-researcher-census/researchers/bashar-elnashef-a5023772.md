@@ -1,7 +1,7 @@
 ---
 title: "Bashar Elnashef"
 description: "Bashar Elnashef is a Mid-career Unknown researcher at Technion – Israel Institute of Technology in IL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.421382
+date: 2026-07-10T01:07:48.411954
 url: "/cdr-researcher-census/researchers/bashar-elnashef-a5023772/"
 layout: "researcher"
 hiddenInHomeList: true

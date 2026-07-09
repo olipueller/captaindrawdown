@@ -1,7 +1,7 @@
 ---
 title: "Richard LaDouceur"
 description: "Richard LaDouceur is a Mid-career Biochar researcher at Montana Technological University in US. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.078325
+date: 2026-07-10T01:07:48.989302
 url: "/cdr-researcher-census/researchers/richard-ladouceur-a5017656/"
 layout: "researcher"
 hiddenInHomeList: true

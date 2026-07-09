@@ -1,7 +1,7 @@
 ---
 title: "Zhikang Zhou"
 description: "Zhikang Zhou is a Mid-career Biochar researcher at Binghamton University in US. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.252475
+date: 2026-07-10T01:07:48.260499
 url: "/cdr-researcher-census/researchers/zhikang-zhou-a5101087/"
 layout: "researcher"
 hiddenInHomeList: true

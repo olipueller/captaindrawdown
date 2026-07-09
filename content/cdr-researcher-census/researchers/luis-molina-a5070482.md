@@ -1,7 +1,7 @@
 ---
 title: "Luis Molina"
 description: "Luis Molina is a Senior Soil Carbon researcher at International Center for Tropical Agriculture in KE. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.390084
+date: 2026-07-10T01:07:47.471151
 url: "/cdr-researcher-census/researchers/luis-molina-a5070482/"
 layout: "researcher"
 hiddenInHomeList: true

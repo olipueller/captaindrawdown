@@ -1,7 +1,7 @@
 ---
 title: "Shiya Zhao"
 description: "Shiya Zhao is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.191015
+date: 2026-07-10T01:07:48.205454
 url: "/cdr-researcher-census/researchers/shiya-zhao-a5031672/"
 layout: "researcher"
 hiddenInHomeList: true

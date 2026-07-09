@@ -1,7 +1,7 @@
 ---
 title: "Ángel Fernández-Carrillo"
 description: "Ángel Fernández-Carrillo is a Mid-career General CDR researcher at GMV Innovating Solutions (Spain) in ES. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.733118
+date: 2026-07-10T01:07:47.785073
 url: "/cdr-researcher-census/researchers/angel-fernandez-carrillo-a5054254/"
 layout: "researcher"
 hiddenInHomeList: true

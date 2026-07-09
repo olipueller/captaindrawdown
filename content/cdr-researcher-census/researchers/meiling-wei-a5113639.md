@@ -1,7 +1,7 @@
 ---
 title: "Mei‐Ling Wei"
 description: "Mei‐Ling Wei is a Senior Unknown researcher at Guangxi Normal University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.910859
+date: 2026-07-10T01:07:47.924363
 url: "/cdr-researcher-census/researchers/meiling-wei-a5113639/"
 layout: "researcher"
 hiddenInHomeList: true

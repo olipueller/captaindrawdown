@@ -1,7 +1,7 @@
 ---
 title: "Mourad Addich"
 description: "Mourad Addich is a Mid-career Unknown researcher at Université Ibn Zohr in MA. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.244649
+date: 2026-07-10T01:07:49.152719
 url: "/cdr-researcher-census/researchers/mourad-addich-a5041224/"
 layout: "researcher"
 hiddenInHomeList: true

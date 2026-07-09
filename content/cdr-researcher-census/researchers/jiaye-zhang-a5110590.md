@@ -1,7 +1,7 @@
 ---
 title: "Jiaye Zhang"
 description: "Jiaye Zhang is a Senior General CDR researcher at Zhejiang University in CN. With 76 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.017204
+date: 2026-07-10T01:07:47.083114
 url: "/cdr-researcher-census/researchers/jiaye-zhang-a5110590/"
 layout: "researcher"
 hiddenInHomeList: true

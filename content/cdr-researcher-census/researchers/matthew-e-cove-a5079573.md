@@ -1,7 +1,7 @@
 ---
 title: "Matthew E. Cove"
 description: "Matthew E. Cove is a Senior General CDR researcher at National University Health System in SG. With 97 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.046491
+date: 2026-07-10T01:07:47.120304
 url: "/cdr-researcher-census/researchers/matthew-e-cove-a5079573/"
 layout: "researcher"
 hiddenInHomeList: true

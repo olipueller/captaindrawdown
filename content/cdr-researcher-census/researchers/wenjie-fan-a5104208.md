@@ -1,7 +1,7 @@
 ---
 title: "Wenjie Fan"
 description: "Wenjie Fan is a Mid-career Unknown researcher at Shandong University in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.266820
+date: 2026-07-10T01:07:48.273189
 url: "/cdr-researcher-census/researchers/wenjie-fan-a5104208/"
 layout: "researcher"
 hiddenInHomeList: true

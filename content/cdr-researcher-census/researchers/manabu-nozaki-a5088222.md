@@ -1,7 +1,7 @@
 ---
 title: "Manabu Nozaki"
 description: "Manabu Nozaki is a Senior Unknown researcher at ConocoPhillips (United States) in US. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.535311
+date: 2026-07-10T01:07:47.601275
 url: "/cdr-researcher-census/researchers/manabu-nozaki-a5088222/"
 layout: "researcher"
 hiddenInHomeList: true

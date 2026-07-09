@@ -1,7 +1,7 @@
 ---
 title: "Ion Iliuta"
 description: "Ion Iliuta is a Senior DAC researcher at Université Laval in CA. With 159 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.975616
+date: 2026-07-10T01:07:47.022116
 url: "/cdr-researcher-census/researchers/ion-iliuta-a5002429/"
 layout: "researcher"
 hiddenInHomeList: true

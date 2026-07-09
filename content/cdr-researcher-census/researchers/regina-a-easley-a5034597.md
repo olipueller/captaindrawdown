@@ -1,7 +1,7 @@
 ---
 title: "Regina A. Easley"
 description: "Regina A. Easley is a Senior Ocean CDR researcher at National Institute of Standards and Technology in US. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.718762
+date: 2026-07-10T01:07:47.772262
 url: "/cdr-researcher-census/researchers/regina-a-easley-a5034597/"
 layout: "researcher"
 hiddenInHomeList: true

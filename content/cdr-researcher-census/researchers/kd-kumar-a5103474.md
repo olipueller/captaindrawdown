@@ -1,7 +1,7 @@
 ---
 title: "K.D. Kumar"
 description: "K.D. Kumar is a Senior Soil Carbon researcher at Central Institute for Research on Cattle in IN. With 40 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.702197
+date: 2026-07-10T01:07:48.655054
 url: "/cdr-researcher-census/researchers/kd-kumar-a5103474/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ludovic Bruneau"
 description: "Ludovic Bruneau is a Mid-career General CDR researcher at Centre National de la Recherche Scientifique in FR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.920944
+date: 2026-07-10T01:07:47.934504
 url: "/cdr-researcher-census/researchers/ludovic-bruneau-a5032006/"
 layout: "researcher"
 hiddenInHomeList: true

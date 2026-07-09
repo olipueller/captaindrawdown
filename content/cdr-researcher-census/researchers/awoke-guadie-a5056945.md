@@ -1,7 +1,7 @@
 ---
 title: "Awoke Guadie"
 description: "Awoke Guadie is a Senior Biochar researcher at Arba Minch University in ET. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.083515
+date: 2026-07-10T01:07:47.164956
 url: "/cdr-researcher-census/researchers/awoke-guadie-a5056945/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiayu Wei"
 description: "Jiayu Wei is a Mid-career Biochar researcher at Wuyi University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.152929
+date: 2026-07-10T01:07:48.172507
 url: "/cdr-researcher-census/researchers/jiayu-wei-a5088229/"
 layout: "researcher"
 hiddenInHomeList: true

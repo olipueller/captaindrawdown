@@ -1,7 +1,7 @@
 ---
 title: "Jiayi Deng"
 description: "Jiayi Deng is a Mid-career Unknown researcher at Mianyang Central Hospital in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.217785
+date: 2026-07-10T01:07:49.128857
 url: "/cdr-researcher-census/researchers/jiayi-deng-a5021136/"
 layout: "researcher"
 hiddenInHomeList: true

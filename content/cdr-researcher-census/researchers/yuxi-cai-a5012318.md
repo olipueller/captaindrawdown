@@ -1,7 +1,7 @@
 ---
 title: "Yuxi Cai"
 description: "Yuxi Cai is a Mid-career Unknown researcher at Southeast University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.597999
+date: 2026-07-10T01:07:47.660804
 url: "/cdr-researcher-census/researchers/yuxi-cai-a5012318/"
 layout: "researcher"
 hiddenInHomeList: true

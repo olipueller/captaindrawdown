@@ -1,7 +1,7 @@
 ---
 title: "Yiwen Luo"
 description: "Yiwen Luo is a Senior Unknown researcher at Southwest Petroleum University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.067225
+date: 2026-07-10T01:07:48.069860
 url: "/cdr-researcher-census/researchers/yiwen-luo-a5103491/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "İBRAHİM ORTAŞ"
 description: "İBRAHİM ORTAŞ is a Senior Soil Carbon researcher at Carnegie Department of Plant Biology in US. With 11 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.777064
+date: 2026-07-10T01:07:48.721013
 url: "/cdr-researcher-census/researchers/ibrahim-ortas-a5108859/"
 layout: "researcher"
 hiddenInHomeList: true

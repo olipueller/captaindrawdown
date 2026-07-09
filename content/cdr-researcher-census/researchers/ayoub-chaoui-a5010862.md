@@ -1,7 +1,7 @@
 ---
 title: "Ayoub Chaoui"
 description: "Ayoub Chaoui is a Mid-career Biochar researcher at Université Ibn Zohr in MA. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.161423
+date: 2026-07-10T01:07:48.179396
 url: "/cdr-researcher-census/researchers/ayoub-chaoui-a5010862/"
 layout: "researcher"
 hiddenInHomeList: true

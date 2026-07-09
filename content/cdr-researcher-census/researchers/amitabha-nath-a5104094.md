@@ -1,7 +1,7 @@
 ---
 title: "Amitabha Nath"
 description: "Amitabha Nath is a Mid-career Soil Carbon researcher. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.859499
+date: 2026-07-10T01:07:47.894907
 url: "/cdr-researcher-census/researchers/amitabha-nath-a5104094/"
 layout: "researcher"
 hiddenInHomeList: true

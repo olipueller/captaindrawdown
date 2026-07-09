@@ -1,7 +1,7 @@
 ---
 title: "Joshua A. Thompson"
 description: "Joshua A. Thompson is a Senior Unknown researcher at Chevron in US. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.139964
+date: 2026-07-10T01:07:47.228586
 url: "/cdr-researcher-census/researchers/joshua-a-thompson-a5029102/"
 layout: "researcher"
 hiddenInHomeList: true

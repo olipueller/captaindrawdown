@@ -1,7 +1,7 @@
 ---
 title: "Swetambari Kumari"
 description: "Swetambari Kumari is a Mid-career Unknown researcher at National Institute of Technology Rourkela in IN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.189374
+date: 2026-07-10T01:07:48.204072
 url: "/cdr-researcher-census/researchers/swetambari-kumari-a5007418/"
 layout: "researcher"
 hiddenInHomeList: true

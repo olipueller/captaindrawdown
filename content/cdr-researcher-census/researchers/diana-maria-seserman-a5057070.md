@@ -1,7 +1,7 @@
 ---
 title: "Diana-Maria Seserman"
 description: "Diana-Maria Seserman is a Mid-career Soil Carbon researcher at Leibniz Centre for Agricultural Landscape Research in DE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.175703
+date: 2026-07-10T01:07:48.191959
 url: "/cdr-researcher-census/researchers/diana-maria-seserman-a5057070/"
 layout: "researcher"
 hiddenInHomeList: true

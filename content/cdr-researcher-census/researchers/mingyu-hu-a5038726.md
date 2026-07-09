@@ -1,7 +1,7 @@
 ---
 title: "Mingyu Hu"
 description: "Mingyu Hu is a Senior General CDR researcher at University of Edinburgh in GB. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.628601
+date: 2026-07-10T01:07:47.688247
 url: "/cdr-researcher-census/researchers/mingyu-hu-a5038726/"
 layout: "researcher"
 hiddenInHomeList: true

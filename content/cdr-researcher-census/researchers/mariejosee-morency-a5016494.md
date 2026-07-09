@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Josée Morency"
 description: "Marie‐Josée Morency is a Senior Soil Carbon researcher at Natural Resources Canada in CA. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.112535
+date: 2026-07-10T01:07:47.198402
 url: "/cdr-researcher-census/researchers/mariejosee-morency-a5016494/"
 layout: "researcher"
 hiddenInHomeList: true

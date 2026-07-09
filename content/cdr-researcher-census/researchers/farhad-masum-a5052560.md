@@ -1,7 +1,7 @@
 ---
 title: "Farhad Masum"
 description: "Farhad Masum is a Senior General CDR researcher at Argonne National Laboratory in US. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.673245
+date: 2026-07-10T01:07:47.730120
 url: "/cdr-researcher-census/researchers/farhad-masum-a5052560/"
 layout: "researcher"
 hiddenInHomeList: true

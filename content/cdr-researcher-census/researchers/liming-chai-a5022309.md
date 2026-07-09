@@ -1,7 +1,7 @@
 ---
 title: "Liming Chai"
 description: "Liming Chai is a Mid-career Unknown researcher at Hebei University of Technology in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.757840
+date: 2026-07-10T01:07:48.703527
 url: "/cdr-researcher-census/researchers/liming-chai-a5022309/"
 layout: "researcher"
 hiddenInHomeList: true

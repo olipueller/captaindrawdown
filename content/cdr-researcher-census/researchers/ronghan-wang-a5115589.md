@@ -1,7 +1,7 @@
 ---
 title: "Ronghan Wang"
 description: "Ronghan Wang is a Senior Biochar researcher at Hunan University in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.675521
+date: 2026-07-10T01:07:47.732166
 url: "/cdr-researcher-census/researchers/ronghan-wang-a5115589/"
 layout: "researcher"
 hiddenInHomeList: true

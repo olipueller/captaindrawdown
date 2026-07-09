@@ -1,7 +1,7 @@
 ---
 title: "Stephen J. Tomasetti"
 description: "Stephen J. Tomasetti is a Mid-career Ocean CDR researcher at University of Maryland Eastern Shore in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.075970
+date: 2026-07-10T01:07:48.078396
 url: "/cdr-researcher-census/researchers/stephen-j-tomasetti-a5088040/"
 layout: "researcher"
 hiddenInHomeList: true

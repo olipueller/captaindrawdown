@@ -1,7 +1,7 @@
 ---
 title: "Kajal Saini"
 description: "Kajal Saini is a Mid-career Unknown researcher at J.C. Bose University of Science & Technology, YMCA in IN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.627913
+date: 2026-07-10T01:07:48.588133
 url: "/cdr-researcher-census/researchers/kajal-saini-a5052556/"
 layout: "researcher"
 hiddenInHomeList: true

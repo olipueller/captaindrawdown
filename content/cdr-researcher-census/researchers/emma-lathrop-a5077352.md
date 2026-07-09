@@ -1,7 +1,7 @@
 ---
 title: "Emma Lathrop"
 description: "Emma Lathrop is a Mid-career Unknown researcher at Northern Arizona University in US. With 54 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.268233
+date: 2026-07-10T01:07:48.274525
 url: "/cdr-researcher-census/researchers/emma-lathrop-a5077352/"
 layout: "researcher"
 hiddenInHomeList: true

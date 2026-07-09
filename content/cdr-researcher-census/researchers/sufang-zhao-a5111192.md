@@ -1,7 +1,7 @@
 ---
 title: "Sufang Zhao"
 description: "Sufang Zhao is a Senior Unknown researcher at Nanjing Institute of Technology in CN. With 77 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.125226
+date: 2026-07-10T01:07:47.212193
 url: "/cdr-researcher-census/researchers/sufang-zhao-a5111192/"
 layout: "researcher"
 hiddenInHomeList: true

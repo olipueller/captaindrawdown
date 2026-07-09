@@ -1,7 +1,7 @@
 ---
 title: "Silvia Bolognesi"
 description: "Silvia Bolognesi is a Mid-career General CDR researcher at Materiálový A Metalurgický Výzkum (Czechia) in CZ. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.336887
+date: 2026-07-10T01:07:47.419659
 url: "/cdr-researcher-census/researchers/silvia-bolognesi-a5050394/"
 layout: "researcher"
 hiddenInHomeList: true

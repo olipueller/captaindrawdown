@@ -1,7 +1,7 @@
 ---
 title: "Cho-Yin Chan"
 description: "Cho-Yin Chan is a Senior General CDR researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.704171
+date: 2026-07-10T01:07:47.758532
 url: "/cdr-researcher-census/researchers/cho-yin-chan-a5108829/"
 layout: "researcher"
 hiddenInHomeList: true

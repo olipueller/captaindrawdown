@@ -1,7 +1,7 @@
 ---
 title: "Manoel G.C. Gondim"
 description: "Manoel G.C. Gondim is a Senior Unknown researcher at Universidade Federal Rural de Pernambuco in BR. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.464006
+date: 2026-07-10T01:07:48.451833
 url: "/cdr-researcher-census/researchers/manoel-gc-gondim-a5110524/"
 layout: "researcher"
 hiddenInHomeList: true

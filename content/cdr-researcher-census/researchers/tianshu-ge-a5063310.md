@@ -1,7 +1,7 @@
 ---
 title: "Tianshu Ge"
 description: "Tianshu Ge is an Eminent General CDR researcher at Shanghai Jiao Tong University in CN. With 194 publications and an h-index of 54, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.910933
+date: 2026-07-10T01:07:46.909413
 url: "/cdr-researcher-census/researchers/tianshu-ge-a5063310/"
 layout: "researcher"
 hiddenInHomeList: true

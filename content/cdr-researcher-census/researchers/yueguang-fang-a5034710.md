@@ -1,7 +1,7 @@
 ---
 title: "Yueguang Fang"
 description: "Yueguang Fang is a Mid-career Unknown researcher at Dalian University of Technology in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.742604
+date: 2026-07-10T01:07:47.794551
 url: "/cdr-researcher-census/researchers/yueguang-fang-a5034710/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kasra Pirzadeh"
 description: "Kasra Pirzadeh is a Mid-career General CDR researcher at University of Calgary in CA. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.513041
+date: 2026-07-10T01:07:47.581236
 url: "/cdr-researcher-census/researchers/kasra-pirzadeh-a5111751/"
 layout: "researcher"
 hiddenInHomeList: true

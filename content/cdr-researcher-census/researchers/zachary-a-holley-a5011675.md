@@ -1,7 +1,7 @@
 ---
 title: "Zachary A. Holley"
 description: "Zachary A. Holley is a Mid-career Unknown researcher at Jacobs (United States) in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.124737
+date: 2026-07-10T01:07:49.030080
 url: "/cdr-researcher-census/researchers/zachary-a-holley-a5011675/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Carmita Camposeco-Negrete"
 description: "Carmita Camposeco-Negrete is a Mid-career Unknown researcher at Tecnológico de Monterrey in MX. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.286860
+date: 2026-07-10T01:07:47.369039
 url: "/cdr-researcher-census/researchers/carmita-camposeco-negrete-a5052450/"
 layout: "researcher"
 hiddenInHomeList: true

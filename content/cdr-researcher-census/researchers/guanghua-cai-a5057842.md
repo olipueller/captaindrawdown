@@ -1,7 +1,7 @@
 ---
 title: "Guanghua Cai"
 description: "Guanghua Cai is a Mid-career General CDR researcher at Nanjing Forestry University in CN. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.378610
+date: 2026-07-10T01:07:47.460303
 url: "/cdr-researcher-census/researchers/guanghua-cai-a5057842/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Suhaib Rahman"
 description: "Suhaib Rahman is an Early-career Unknown researcher at Huaiyin Institute of Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.225798
+date: 2026-07-10T01:07:49.135599
 url: "/cdr-researcher-census/researchers/suhaib-rahman-a5113225/"
 layout: "researcher"
 hiddenInHomeList: true

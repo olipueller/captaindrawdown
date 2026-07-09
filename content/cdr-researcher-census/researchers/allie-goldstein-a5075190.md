@@ -1,7 +1,7 @@
 ---
 title: "Allie Goldstein"
 description: "Allie Goldstein is a Mid-career General CDR researcher at Conservation International in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.135455
+date: 2026-07-10T01:07:47.224614
 url: "/cdr-researcher-census/researchers/allie-goldstein-a5075190/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mengdan Guan"
 description: "Mengdan Guan is a Mid-career Unknown researcher at Nankai University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.061114
+date: 2026-07-10T01:07:48.973622
 url: "/cdr-researcher-census/researchers/mengdan-guan-a5054525/"
 layout: "researcher"
 hiddenInHomeList: true

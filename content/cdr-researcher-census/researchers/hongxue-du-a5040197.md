@@ -1,7 +1,7 @@
 ---
 title: "Hongxue Du"
 description: "Hongxue Du is a Mid-career Unknown researcher at Jilin Normal University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.508924
+date: 2026-07-10T01:07:48.493872
 url: "/cdr-researcher-census/researchers/hongxue-du-a5040197/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ashok Kumar Nayak"
 description: "Ashok Kumar Nayak is a Senior Soil Carbon researcher at Central Rice Research Institute in IN. With 65 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.445776
+date: 2026-07-10T01:07:47.521769
 url: "/cdr-researcher-census/researchers/ashok-kumar-nayak-a5103075/"
 layout: "researcher"
 hiddenInHomeList: true

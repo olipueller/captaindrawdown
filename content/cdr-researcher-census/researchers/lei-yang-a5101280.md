@@ -1,7 +1,7 @@
 ---
 title: "Lei Yang"
 description: "Lei Yang is a Mid-career Biochar researcher at Hunan University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.767608
+date: 2026-07-10T01:07:48.711936
 url: "/cdr-researcher-census/researchers/lei-yang-a5101280/"
 layout: "researcher"
 hiddenInHomeList: true

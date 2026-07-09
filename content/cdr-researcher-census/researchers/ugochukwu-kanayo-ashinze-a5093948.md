@@ -1,7 +1,7 @@
 ---
 title: "Ugochukwu Kanayo Ashinze"
 description: "Ugochukwu Kanayo Ashinze is an Early-career Unknown researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.211267
+date: 2026-07-10T01:07:49.123355
 url: "/cdr-researcher-census/researchers/ugochukwu-kanayo-ashinze-a5093948/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mobarok Hossain"
 description: "Mobarok Hossain is a Mid-career Unknown researcher at Technische Universität Berlin in DE. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.413872
+date: 2026-07-10T01:07:47.492915
 url: "/cdr-researcher-census/researchers/mobarok-hossain-a5021175/"
 layout: "researcher"
 hiddenInHomeList: true

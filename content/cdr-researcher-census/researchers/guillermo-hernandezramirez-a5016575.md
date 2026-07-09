@@ -1,7 +1,7 @@
 ---
 title: "Guillermo Hernandez‐Ramirez"
 description: "Guillermo Hernandez‐Ramirez is a Senior Soil Carbon researcher at University of Alberta in CA. With 134 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.007341
+date: 2026-07-10T01:07:47.069408
 url: "/cdr-researcher-census/researchers/guillermo-hernandezramirez-a5016575/"
 layout: "researcher"
 hiddenInHomeList: true

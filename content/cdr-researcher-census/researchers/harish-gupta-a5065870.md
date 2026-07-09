@@ -1,7 +1,7 @@
 ---
 title: "Harish Gupta"
 description: "Harish Gupta is a Senior Enhanced Weathering researcher at Osmania University in IN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.267790
+date: 2026-07-10T01:07:47.351115
 url: "/cdr-researcher-census/researchers/harish-gupta-a5065870/"
 layout: "researcher"
 hiddenInHomeList: true

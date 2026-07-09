@@ -1,7 +1,7 @@
 ---
 title: "Elham Abdollahzadeh Sharghi"
 description: "Elham Abdollahzadeh Sharghi is a Senior General CDR researcher at Materials and Energy Research Center in IR. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.754832
+date: 2026-07-10T01:07:47.805265
 url: "/cdr-researcher-census/researchers/elham-abdollahzadeh-sharghi-a5058550/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ayoola S. Fasawe"
 description: "Ayoola S. Fasawe is a Mid-career Unknown researcher at Illinois State University in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.600244
+date: 2026-07-10T01:07:48.563679
 url: "/cdr-researcher-census/researchers/ayoola-s-fasawe-a5066127/"
 layout: "researcher"
 hiddenInHomeList: true

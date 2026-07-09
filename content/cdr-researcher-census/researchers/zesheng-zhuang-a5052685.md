@@ -1,7 +1,7 @@
 ---
 title: "Zesheng Zhuang"
 description: "Zesheng Zhuang is an Early-career Unknown researcher at Nanjing Agricultural University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.168043
+date: 2026-07-10T01:07:49.058382
 url: "/cdr-researcher-census/researchers/zesheng-zhuang-a5052685/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lukas M. Trebuch"
 description: "Lukas M. Trebuch is a Mid-career Unknown researcher at Netherlands Institute of Ecology in NL. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.984995
+date: 2026-07-10T01:07:47.994213
 url: "/cdr-researcher-census/researchers/lukas-m-trebuch-a5018541/"
 layout: "researcher"
 hiddenInHomeList: true

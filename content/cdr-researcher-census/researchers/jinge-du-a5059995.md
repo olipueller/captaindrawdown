@@ -1,7 +1,7 @@
 ---
 title: "Jinge Du"
 description: "Jinge Du is a Mid-career Biochar researcher at Henan Medical University in CN. With 23 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.233362
+date: 2026-07-10T01:07:47.320338
 url: "/cdr-researcher-census/researchers/jinge-du-a5059995/"
 layout: "researcher"
 hiddenInHomeList: true

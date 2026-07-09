@@ -1,7 +1,7 @@
 ---
 title: "Wassim El Housseini"
 description: "Wassim El Housseini is a Mid-career Unknown researcher at Missouri University of Science and Technology in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.143509
+date: 2026-07-10T01:07:49.046190
 url: "/cdr-researcher-census/researchers/wassim-el-housseini-a5083360/"
 layout: "researcher"
 hiddenInHomeList: true

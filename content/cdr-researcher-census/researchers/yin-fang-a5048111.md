@@ -1,7 +1,7 @@
 ---
 title: "Yin Fang"
 description: "Yin Fang is a Senior Soil Carbon researcher at Shanghai Ocean University in CN. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.487468
+date: 2026-07-10T01:07:47.559070
 url: "/cdr-researcher-census/researchers/yin-fang-a5048111/"
 layout: "researcher"
 hiddenInHomeList: true

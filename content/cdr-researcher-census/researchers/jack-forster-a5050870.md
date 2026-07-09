@@ -1,7 +1,7 @@
 ---
 title: "Jack Forster"
 description: "Jack Forster is a Mid-career Soil Carbon researcher at Forest Research in GB. With 69 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.079866
+date: 2026-07-10T01:07:47.160449
 url: "/cdr-researcher-census/researchers/jack-forster-a5050870/"
 layout: "researcher"
 hiddenInHomeList: true

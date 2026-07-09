@@ -1,7 +1,7 @@
 ---
 title: "Suman Vij"
 description: "Suman Vij is a Mid-career Unknown researcher at Shree Guru Gobind Singh Tricentenary University in IN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.222602
+date: 2026-07-10T01:07:48.233191
 url: "/cdr-researcher-census/researchers/suman-vij-a5078678/"
 layout: "researcher"
 hiddenInHomeList: true

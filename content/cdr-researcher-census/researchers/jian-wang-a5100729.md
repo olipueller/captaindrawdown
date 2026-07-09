@@ -1,7 +1,7 @@
 ---
 title: "Jian Wang"
 description: "Jian Wang is a Senior Soil Carbon researcher at Jiangsu Provincial Water Survey & Design Institute (China) in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.877568
+date: 2026-07-10T01:07:48.805019
 url: "/cdr-researcher-census/researchers/jian-wang-a5100729/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ruud Rijkers"
 description: "Ruud Rijkers is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.488937
+date: 2026-07-10T01:07:47.560150
 url: "/cdr-researcher-census/researchers/ruud-rijkers-a5044342/"
 layout: "researcher"
 hiddenInHomeList: true

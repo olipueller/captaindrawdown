@@ -1,7 +1,7 @@
 ---
 title: "Markus Hofer"
 description: "Markus Hofer is a Mid-career Unknown researcher at University of Stuttgart in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.254487
+date: 2026-07-10T01:07:49.161405
 url: "/cdr-researcher-census/researchers/markus-hofer-a5045980/"
 layout: "researcher"
 hiddenInHomeList: true

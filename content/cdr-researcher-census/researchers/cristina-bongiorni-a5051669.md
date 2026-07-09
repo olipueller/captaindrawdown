@@ -1,7 +1,7 @@
 ---
 title: "Cristina Bongiorni"
 description: "Cristina Bongiorni is a Senior Unknown researcher at International Flavors & Fragrances (United States) in US. With 15 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.420939
+date: 2026-07-10T01:07:47.500085
 url: "/cdr-researcher-census/researchers/cristina-bongiorni-a5051669/"
 layout: "researcher"
 hiddenInHomeList: true

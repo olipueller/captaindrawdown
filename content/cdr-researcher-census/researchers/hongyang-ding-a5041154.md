@@ -1,7 +1,7 @@
 ---
 title: "Hongyang Ding"
 description: "Hongyang Ding is a Senior Unknown researcher at Peking University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.476768
+date: 2026-07-10T01:07:48.463939
 url: "/cdr-researcher-census/researchers/hongyang-ding-a5041154/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiří Holátko"
 description: "Jiří Holátko is a Senior Soil Carbon researcher at Mendel University in Brno in CZ. With 124 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.995878
+date: 2026-07-10T01:07:47.054605
 url: "/cdr-researcher-census/researchers/jiri-holatko-a5012177/"
 layout: "researcher"
 hiddenInHomeList: true

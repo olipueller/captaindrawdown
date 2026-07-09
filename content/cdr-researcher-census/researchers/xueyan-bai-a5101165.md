@@ -1,7 +1,7 @@
 ---
 title: "Xueyan Bai"
 description: "Xueyan Bai is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 79 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.682456
+date: 2026-07-10T01:07:47.738871
 url: "/cdr-researcher-census/researchers/xueyan-bai-a5101165/"
 layout: "researcher"
 hiddenInHomeList: true

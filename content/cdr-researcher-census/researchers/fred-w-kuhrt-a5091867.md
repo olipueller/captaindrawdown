@@ -1,7 +1,7 @@
 ---
 title: "Fred W. Kuhrt"
 description: "Fred W. Kuhrt is a Senior Unknown researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.131172
+date: 2026-07-10T01:07:48.153922
 url: "/cdr-researcher-census/researchers/fred-w-kuhrt-a5091867/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zihui Zhou"
 description: "Zihui Zhou is a Mid-career Unknown researcher at King Abdulaziz City for Science and Technology in SA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.299221
+date: 2026-07-10T01:07:47.381659
 url: "/cdr-researcher-census/researchers/zihui-zhou-a5066774/"
 layout: "researcher"
 hiddenInHomeList: true

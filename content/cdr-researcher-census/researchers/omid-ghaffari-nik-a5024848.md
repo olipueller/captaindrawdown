@@ -1,7 +1,7 @@
 ---
 title: "Omid Ghaffari Nik"
 description: "Omid Ghaffari Nik is a Senior Unknown researcher at Carbon Capture Inc in US. With 15 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.068768
+date: 2026-07-10T01:07:47.147199
 url: "/cdr-researcher-census/researchers/omid-ghaffari-nik-a5024848/"
 layout: "researcher"
 hiddenInHomeList: true

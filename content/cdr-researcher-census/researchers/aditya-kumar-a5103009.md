@@ -1,7 +1,7 @@
 ---
 title: "Aditya Kumar"
 description: "Aditya Kumar is a Senior Unknown researcher at University of Wisconsin–Madison in US. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.592978
+date: 2026-07-10T01:07:47.656208
 url: "/cdr-researcher-census/researchers/aditya-kumar-a5103009/"
 layout: "researcher"
 hiddenInHomeList: true

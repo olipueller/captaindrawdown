@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Zeng"
 description: "Yuxin Zeng is a Senior Biochar researcher at Southwest University in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.420707
+date: 2026-07-10T01:07:48.411397
 url: "/cdr-researcher-census/researchers/yuxin-zeng-a5048455/"
 layout: "researcher"
 hiddenInHomeList: true

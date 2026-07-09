@@ -1,7 +1,7 @@
 ---
 title: "Shah Jahan Leghari"
 description: "Shah Jahan Leghari is a Mid-career Soil Carbon researcher at Northwest University in US. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.206142
+date: 2026-07-10T01:07:47.294214
 url: "/cdr-researcher-census/researchers/shah-jahan-leghari-a5068618/"
 layout: "researcher"
 hiddenInHomeList: true

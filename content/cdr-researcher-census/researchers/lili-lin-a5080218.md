@@ -1,7 +1,7 @@
 ---
 title: "Lili Lin"
 description: "Lili Lin is a Mid-career Soil Carbon researcher at Intelligent Health (United Kingdom) in GB. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.444024
+date: 2026-07-10T01:07:47.519914
 url: "/cdr-researcher-census/researchers/lili-lin-a5080218/"
 layout: "researcher"
 hiddenInHomeList: true

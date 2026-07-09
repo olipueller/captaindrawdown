@@ -1,7 +1,7 @@
 ---
 title: "Kim San Lo"
 description: "Kim San Lo is a Mid-career Unknown researcher at University of Surabaya in ID. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.239285
+date: 2026-07-10T01:07:48.248508
 url: "/cdr-researcher-census/researchers/kim-san-lo-a5030908/"
 layout: "researcher"
 hiddenInHomeList: true

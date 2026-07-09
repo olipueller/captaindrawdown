@@ -1,7 +1,7 @@
 ---
 title: "Anna Kühnel"
 description: "Anna Kühnel is a Senior Soil Carbon researcher at Technical University of Munich in DE. With 67 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.024983
+date: 2026-07-10T01:07:47.092641
 url: "/cdr-researcher-census/researchers/anna-kuhnel-a5089084/"
 layout: "researcher"
 hiddenInHomeList: true

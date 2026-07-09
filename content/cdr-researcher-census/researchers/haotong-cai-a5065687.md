@@ -1,7 +1,7 @@
 ---
 title: "Haotong Cai"
 description: "Haotong Cai is a Mid-career BECCS researcher at Chinese University of Hong Kong, Shenzhen in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.055652
+date: 2026-07-10T01:07:48.968712
 url: "/cdr-researcher-census/researchers/haotong-cai-a5065687/"
 layout: "researcher"
 hiddenInHomeList: true

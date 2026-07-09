@@ -1,7 +1,7 @@
 ---
 title: "Xueqing Ma"
 description: "Xueqing Ma is an Early-career General CDR researcher at China University of Petroleum, Beijing in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.315849
+date: 2026-07-10T01:07:48.317623
 url: "/cdr-researcher-census/researchers/xueqing-ma-a5016169/"
 layout: "researcher"
 hiddenInHomeList: true

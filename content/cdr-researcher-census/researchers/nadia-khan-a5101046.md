@@ -1,7 +1,7 @@
 ---
 title: "Nadia Khan"
 description: "Nadia Khan is a Mid-career Unknown researcher at NED University of Engineering and Technology in PK. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.000257
+date: 2026-07-10T01:07:48.918325
 url: "/cdr-researcher-census/researchers/nadia-khan-a5101046/"
 layout: "researcher"
 hiddenInHomeList: true

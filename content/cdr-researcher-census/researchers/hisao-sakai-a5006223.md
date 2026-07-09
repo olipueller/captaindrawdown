@@ -1,7 +1,7 @@
 ---
 title: "Hisao Sakai"
 description: "Hisao Sakai is a Senior Unknown researcher at Forestry and Forest Products Research Institute in JP. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.820162
+date: 2026-07-10T01:07:47.866304
 url: "/cdr-researcher-census/researchers/hisao-sakai-a5006223/"
 layout: "researcher"
 hiddenInHomeList: true

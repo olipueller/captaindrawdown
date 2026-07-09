@@ -1,7 +1,7 @@
 ---
 title: "Xianyi Tan"
 description: "Xianyi Tan is a Mid-career Unknown researcher at Agency for Science, Technology and Research in SG. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.615375
+date: 2026-07-10T01:07:47.676504
 url: "/cdr-researcher-census/researchers/xianyi-tan-a5112754/"
 layout: "researcher"
 hiddenInHomeList: true

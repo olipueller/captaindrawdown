@@ -1,7 +1,7 @@
 ---
 title: "Weitao Fu"
 description: "Weitao Fu is a Mid-career Unknown researcher at Southern University of Science and Technology in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.214329
+date: 2026-07-10T01:07:49.125802
 url: "/cdr-researcher-census/researchers/weitao-fu-a5101790/"
 layout: "researcher"
 hiddenInHomeList: true

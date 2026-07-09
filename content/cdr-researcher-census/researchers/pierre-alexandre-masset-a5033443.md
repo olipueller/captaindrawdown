@@ -1,7 +1,7 @@
 ---
 title: "Pierre-Alexandre Masset"
 description: "Pierre-Alexandre Masset is a Mid-career Unknown researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.766301
+date: 2026-07-10T01:07:48.710777
 url: "/cdr-researcher-census/researchers/pierre-alexandre-masset-a5033443/"
 layout: "researcher"
 hiddenInHomeList: true

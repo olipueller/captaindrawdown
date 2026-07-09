@@ -1,7 +1,7 @@
 ---
 title: "Daniel Ruiz Potma Gonçalves"
 description: "Daniel Ruiz Potma Gonçalves is a Mid-career Soil Carbon researcher at Ponta Grossa State University in BR. With 41 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.389966
+date: 2026-07-10T01:07:47.470811
 url: "/cdr-researcher-census/researchers/daniel-ruiz-potma-goncalves-a5013230/"
 layout: "researcher"
 hiddenInHomeList: true

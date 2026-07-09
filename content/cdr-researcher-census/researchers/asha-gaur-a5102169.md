@@ -1,7 +1,7 @@
 ---
 title: "Asha Gaur"
 description: "Asha Gaur is a Senior Soil Carbon researcher at Indian Institute of Sugarcane Research in IN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.435699
+date: 2026-07-10T01:07:47.512968
 url: "/cdr-researcher-census/researchers/asha-gaur-a5102169/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Widyanto Dwi Nugroho"
 description: "Widyanto Dwi Nugroho is a Senior Unknown researcher at Faculty of Forestry, Universitas Gadjah Mada in ID. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.494808
+date: 2026-07-10T01:07:47.564979
 url: "/cdr-researcher-census/researchers/widyanto-dwi-nugroho-a5046159/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Praveen Bollini"
 description: "Praveen Bollini is a Senior General CDR researcher at University of Houston in US. With 74 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.030899
+date: 2026-07-10T01:07:47.100084
 url: "/cdr-researcher-census/researchers/praveen-bollini-a5025125/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yaojing Qiu"
 description: "Yaojing Qiu is a Mid-career General CDR researcher at North Carolina State University in US. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.240496
+date: 2026-07-10T01:07:48.249563
 url: "/cdr-researcher-census/researchers/yaojing-qiu-a5067493/"
 layout: "researcher"
 hiddenInHomeList: true

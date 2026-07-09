@@ -1,7 +1,7 @@
 ---
 title: "Martin Hvarregaard Thorsøe"
 description: "Martin Hvarregaard Thorsøe is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 109 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.361642
+date: 2026-07-10T01:07:47.443556
 url: "/cdr-researcher-census/researchers/martin-hvarregaard-thorse-a5064069/"
 layout: "researcher"
 hiddenInHomeList: true

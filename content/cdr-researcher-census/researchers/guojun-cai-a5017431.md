@@ -1,7 +1,7 @@
 ---
 title: "Guojun Cai"
 description: "Guojun Cai is a Senior Soil Carbon researcher at 贵州科学院 in CN. With 78 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.038681
+date: 2026-07-10T01:07:47.110560
 url: "/cdr-researcher-census/researchers/guojun-cai-a5017431/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "E. Nikolaou"
 description: "E. Nikolaou is a Senior Soil Carbon researcher at Harokopio University of Athens in GR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.096426
+date: 2026-07-10T01:07:48.096144
 url: "/cdr-researcher-census/researchers/e-nikolaou-a5081706/"
 layout: "researcher"
 hiddenInHomeList: true

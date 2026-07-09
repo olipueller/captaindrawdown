@@ -1,7 +1,7 @@
 ---
 title: "Haoqi Wang"
 description: "Haoqi Wang is a Mid-career Soil Carbon researcher at The University of British Columbia in CA. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.787167
+date: 2026-07-10T01:07:47.835992
 url: "/cdr-researcher-census/researchers/haoqi-wang-a5101467/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haibo He"
 description: "Haibo He is a Mid-career Ocean CDR researcher at Chinese Academy of Sciences in CN. With 55 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.344519
+date: 2026-07-10T01:07:47.427121
 url: "/cdr-researcher-census/researchers/haibo-he-a5089978/"
 layout: "researcher"
 hiddenInHomeList: true

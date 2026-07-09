@@ -1,7 +1,7 @@
 ---
 title: "Serhat Bilyaz"
 description: "Serhat Bilyaz is a Mid-career General CDR researcher at Walker (United States) in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.133661
+date: 2026-07-10T01:07:49.037671
 url: "/cdr-researcher-census/researchers/serhat-bilyaz-a5023683/"
 layout: "researcher"
 hiddenInHomeList: true

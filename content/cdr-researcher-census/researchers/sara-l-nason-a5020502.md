@@ -1,7 +1,7 @@
 ---
 title: "Sara L. Nason"
 description: "Sara L. Nason is a Mid-career Biochar researcher at Connecticut Agricultural Experiment Station in US. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.173553
+date: 2026-07-10T01:07:47.262892
 url: "/cdr-researcher-census/researchers/sara-l-nason-a5020502/"
 layout: "researcher"
 hiddenInHomeList: true

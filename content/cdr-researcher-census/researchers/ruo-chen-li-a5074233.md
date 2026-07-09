@@ -1,7 +1,7 @@
 ---
 title: "Ruo-Chen Li"
 description: "Ruo-Chen Li is an Early-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.734128
+date: 2026-07-10T01:07:48.682639
 url: "/cdr-researcher-census/researchers/ruo-chen-li-a5074233/"
 layout: "researcher"
 hiddenInHomeList: true

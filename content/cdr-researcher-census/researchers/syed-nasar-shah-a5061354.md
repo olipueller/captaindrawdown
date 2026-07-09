@@ -1,7 +1,7 @@
 ---
 title: "Syed Nasar Shah"
 description: "Syed Nasar Shah is a Senior Biochar researcher at Quaid-i-Azam University in PK. With 54 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.148427
+date: 2026-07-10T01:07:47.236931
 url: "/cdr-researcher-census/researchers/syed-nasar-shah-a5061354/"
 layout: "researcher"
 hiddenInHomeList: true

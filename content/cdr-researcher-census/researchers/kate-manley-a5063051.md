@@ -1,7 +1,7 @@
 ---
 title: "Kate Manley"
 description: "Kate Manley is a Mid-career Unknown researcher at Cornell University in US. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.658723
+date: 2026-07-10T01:07:48.616191
 url: "/cdr-researcher-census/researchers/kate-manley-a5063051/"
 layout: "researcher"
 hiddenInHomeList: true

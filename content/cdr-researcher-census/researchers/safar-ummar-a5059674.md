@@ -1,7 +1,7 @@
 ---
 title: "Safar Ummar"
 description: "Safar Ummar is an Early-career Unknown researcher at National Environmental Engineering Research Institute in IN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.204797
+date: 2026-07-10T01:07:49.117376
 url: "/cdr-researcher-census/researchers/safar-ummar-a5059674/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nabanita Sarkar"
 description: "Nabanita Sarkar is a Mid-career Unknown researcher at Istituto Universitario di Studi Superiori di Pavia in IT. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.614455
+date: 2026-07-10T01:07:47.675639
 url: "/cdr-researcher-census/researchers/nabanita-sarkar-a5021942/"
 layout: "researcher"
 hiddenInHomeList: true

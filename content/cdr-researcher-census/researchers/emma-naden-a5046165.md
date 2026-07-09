@@ -1,7 +1,7 @@
 ---
 title: "Emma Naden"
 description: "Emma Naden is a Senior General CDR researcher at Cheshire and Wirral Partnership NHS Foundation Trust in GB. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.406803
+date: 2026-07-10T01:07:48.398440
 url: "/cdr-researcher-census/researchers/emma-naden-a5046165/"
 layout: "researcher"
 hiddenInHomeList: true

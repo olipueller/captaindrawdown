@@ -1,7 +1,7 @@
 ---
 title: "Kai Harenski"
 description: "Kai Harenski is a Senior General CDR researcher at Baxter (Germany) in DE. With 41 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.225392
+date: 2026-07-10T01:07:48.235673
 url: "/cdr-researcher-census/researchers/kai-harenski-a5021706/"
 layout: "researcher"
 hiddenInHomeList: true

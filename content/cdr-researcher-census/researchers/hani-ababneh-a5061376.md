@@ -1,7 +1,7 @@
 ---
 title: "Hani Ababneh"
 description: "Hani Ababneh is a Mid-career Unknown researcher at King Abdullah University of Science and Technology in SA. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.118843
+date: 2026-07-10T01:07:48.142982
 url: "/cdr-researcher-census/researchers/hani-ababneh-a5061376/"
 layout: "researcher"
 hiddenInHomeList: true

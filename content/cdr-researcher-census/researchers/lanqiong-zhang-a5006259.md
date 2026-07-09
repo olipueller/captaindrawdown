@@ -1,7 +1,7 @@
 ---
 title: "Lanqiong Zhang"
 description: "Lanqiong Zhang is a Mid-career General CDR researcher at Xi'an Jiaotong University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.378866
+date: 2026-07-10T01:07:48.374998
 url: "/cdr-researcher-census/researchers/lanqiong-zhang-a5006259/"
 layout: "researcher"
 hiddenInHomeList: true

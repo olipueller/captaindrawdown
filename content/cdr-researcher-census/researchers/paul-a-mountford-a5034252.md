@@ -1,7 +1,7 @@
 ---
 title: "Paul A. Mountford"
 description: "Paul A. Mountford is a Mid-career Unknown researcher. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.973474
+date: 2026-07-10T01:07:47.983572
 url: "/cdr-researcher-census/researchers/paul-a-mountford-a5034252/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emma Moberg"
 description: "Emma Moberg is a Mid-career BECCS researcher at IVL Svenska Miljöinstitutet in SE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.251374
+date: 2026-07-10T01:07:48.259369
 url: "/cdr-researcher-census/researchers/emma-moberg-a5004514/"
 layout: "researcher"
 hiddenInHomeList: true

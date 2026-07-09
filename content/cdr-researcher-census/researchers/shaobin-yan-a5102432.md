@@ -1,7 +1,7 @@
 ---
 title: "Shaobin Yan"
 description: "Shaobin Yan is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.294910
+date: 2026-07-10T01:07:48.298454
 url: "/cdr-researcher-census/researchers/shaobin-yan-a5102432/"
 layout: "researcher"
 hiddenInHomeList: true

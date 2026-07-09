@@ -1,7 +1,7 @@
 ---
 title: "Wageeporn Maneechote"
 description: "Wageeporn Maneechote is a Mid-career General CDR researcher at Chiang Mai University in TH. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.571756
+date: 2026-07-10T01:07:47.635314
 url: "/cdr-researcher-census/researchers/wageeporn-maneechote-a5089264/"
 layout: "researcher"
 hiddenInHomeList: true

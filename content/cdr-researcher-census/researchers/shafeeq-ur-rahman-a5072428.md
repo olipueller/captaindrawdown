@@ -1,7 +1,7 @@
 ---
 title: "Shafeeq Ur Rahman"
 description: "Shafeeq Ur Rahman is a Senior Soil Carbon researcher at Shenzhen University in CN. With 103 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.010600
+date: 2026-07-10T01:07:47.074230
 url: "/cdr-researcher-census/researchers/shafeeq-ur-rahman-a5072428/"
 layout: "researcher"
 hiddenInHomeList: true

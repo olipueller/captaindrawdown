@@ -1,7 +1,7 @@
 ---
 title: "Markus Adloff"
 description: "Markus Adloff is a Mid-career Enhanced Weathering researcher at University of Bern in CH. With 66 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.067129
+date: 2026-07-10T01:07:48.069752
 url: "/cdr-researcher-census/researchers/markus-adloff-a5081579/"
 layout: "researcher"
 hiddenInHomeList: true

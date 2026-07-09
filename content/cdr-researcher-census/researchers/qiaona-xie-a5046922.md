@@ -1,7 +1,7 @@
 ---
 title: "Qiaona Xie"
 description: "Qiaona Xie is a Mid-career Biochar researcher at Zhejiang University of Technology in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.967508
+date: 2026-07-10T01:07:47.978221
 url: "/cdr-researcher-census/researchers/qiaona-xie-a5046922/"
 layout: "researcher"
 hiddenInHomeList: true

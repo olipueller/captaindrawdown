@@ -1,7 +1,7 @@
 ---
 title: "Amal Abdelhaleem"
 description: "Amal Abdelhaleem is a Senior Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 60 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.072520
+date: 2026-07-10T01:07:47.151885
 url: "/cdr-researcher-census/researchers/amal-abdelhaleem-a5020645/"
 layout: "researcher"
 hiddenInHomeList: true

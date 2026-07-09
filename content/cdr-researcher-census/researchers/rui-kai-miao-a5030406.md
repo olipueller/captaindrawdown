@@ -1,7 +1,7 @@
 ---
 title: "Rui Kai Miao"
 description: "Rui Kai Miao is a Senior DAC researcher at University of Toronto in CA. With 122 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.922186
+date: 2026-07-10T01:07:46.931185
 url: "/cdr-researcher-census/researchers/rui-kai-miao-a5030406/"
 layout: "researcher"
 hiddenInHomeList: true

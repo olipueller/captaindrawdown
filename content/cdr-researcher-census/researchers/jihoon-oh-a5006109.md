@@ -1,7 +1,7 @@
 ---
 title: "Ji‐Hoon Oh"
 description: "Ji‐Hoon Oh is a Mid-career General CDR researcher at Scripps Institution of Oceanography in US. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.017655
+date: 2026-07-10T01:07:48.025261
 url: "/cdr-researcher-census/researchers/jihoon-oh-a5006109/"
 layout: "researcher"
 hiddenInHomeList: true

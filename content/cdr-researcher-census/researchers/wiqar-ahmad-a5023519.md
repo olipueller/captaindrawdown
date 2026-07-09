@@ -1,7 +1,7 @@
 ---
 title: "Wiqar Ahmad"
 description: "Wiqar Ahmad is a Senior Biochar researcher at Northwest General Hospital and Research Center in PK. With 75 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.156002
+date: 2026-07-10T01:07:47.244574
 url: "/cdr-researcher-census/researchers/wiqar-ahmad-a5023519/"
 layout: "researcher"
 hiddenInHomeList: true

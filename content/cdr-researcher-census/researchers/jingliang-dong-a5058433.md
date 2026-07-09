@@ -1,7 +1,7 @@
 ---
 title: "Jingliang Dong"
 description: "Jingliang Dong is a Mid-career Unknown researcher at East China Jiaotong University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.502119
+date: 2026-07-10T01:07:48.487697
 url: "/cdr-researcher-census/researchers/jingliang-dong-a5058433/"
 layout: "researcher"
 hiddenInHomeList: true

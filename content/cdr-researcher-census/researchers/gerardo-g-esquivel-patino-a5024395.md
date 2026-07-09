@@ -1,7 +1,7 @@
 ---
 title: "Gerardo G. Esquivel-Patiño"
 description: "Gerardo G. Esquivel-Patiño is a Mid-career Unknown researcher at Technological Institute of Celaya in MX. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.597044
+date: 2026-07-10T01:07:48.560982
 url: "/cdr-researcher-census/researchers/gerardo-g-esquivel-patino-a5024395/"
 layout: "researcher"
 hiddenInHomeList: true

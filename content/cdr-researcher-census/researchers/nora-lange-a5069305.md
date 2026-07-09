@@ -1,7 +1,7 @@
 ---
 title: "Nora Lange"
 description: "Nora Lange is an Early-career General CDR researcher. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.964181
+date: 2026-07-10T01:07:48.885204
 url: "/cdr-researcher-census/researchers/nora-lange-a5069305/"
 layout: "researcher"
 hiddenInHomeList: true

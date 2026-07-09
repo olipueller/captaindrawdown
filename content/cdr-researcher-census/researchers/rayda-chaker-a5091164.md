@@ -1,7 +1,7 @@
 ---
 title: "Rayda Chaker"
 description: "Rayda Chaker is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.007448
+date: 2026-07-10T01:07:48.924765
 url: "/cdr-researcher-census/researchers/rayda-chaker-a5091164/"
 layout: "researcher"
 hiddenInHomeList: true

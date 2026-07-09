@@ -1,7 +1,7 @@
 ---
 title: "Chengguang Xing"
 description: "Chengguang Xing is a Mid-career Unknown researcher at Sun Yat-sen University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.728427
+date: 2026-07-10T01:07:47.780545
 url: "/cdr-researcher-census/researchers/chengguang-xing-a5059711/"
 layout: "researcher"
 hiddenInHomeList: true

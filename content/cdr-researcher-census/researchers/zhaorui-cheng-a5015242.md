@@ -1,7 +1,7 @@
 ---
 title: "Zhaorui Cheng"
 description: "Zhaorui Cheng is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.227071
+date: 2026-07-10T01:07:49.136713
 url: "/cdr-researcher-census/researchers/zhaorui-cheng-a5015242/"
 layout: "researcher"
 hiddenInHomeList: true

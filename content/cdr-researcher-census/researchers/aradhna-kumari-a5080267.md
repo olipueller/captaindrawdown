@@ -1,7 +1,7 @@
 ---
 title: "Aradhna Kumari"
 description: "Aradhna Kumari is a Senior Soil Carbon researcher at Jawaharlal Nehru Krishi Vishwa Vidyalaya in IN. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.416047
+date: 2026-07-10T01:07:47.494925
 url: "/cdr-researcher-census/researchers/aradhna-kumari-a5080267/"
 layout: "researcher"
 hiddenInHomeList: true

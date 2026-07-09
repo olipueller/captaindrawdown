@@ -1,7 +1,7 @@
 ---
 title: "Huimin Zou"
 description: "Huimin Zou is a Mid-career General CDR researcher at National Center of Ocean Standards and Metrology in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.936579
+date: 2026-07-10T01:07:48.859254
 url: "/cdr-researcher-census/researchers/huimin-zou-a5090630/"
 layout: "researcher"
 hiddenInHomeList: true

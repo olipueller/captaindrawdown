@@ -1,7 +1,7 @@
 ---
 title: "Seo Rim Park"
 description: "Seo Rim Park is a Mid-career Unknown researcher at Changwon National University in KR. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.936286
+date: 2026-07-10T01:07:48.858972
 url: "/cdr-researcher-census/researchers/seo-rim-park-a5080185/"
 layout: "researcher"
 hiddenInHomeList: true

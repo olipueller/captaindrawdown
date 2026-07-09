@@ -1,7 +1,7 @@
 ---
 title: "Arash Esmaeili"
 description: "Arash Esmaeili is a Mid-career General CDR researcher at Shahid Beheshti University of Medical Sciences in IR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.704340
+date: 2026-07-10T01:07:48.656810
 url: "/cdr-researcher-census/researchers/arash-esmaeili-a5103142/"
 layout: "researcher"
 hiddenInHomeList: true

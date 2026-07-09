@@ -1,7 +1,7 @@
 ---
 title: "Agasteswar Vadlamani"
 description: "Agasteswar Vadlamani is a Mid-career General CDR researcher at University of Calgary in CA. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.786970
+date: 2026-07-10T01:07:47.835778
 url: "/cdr-researcher-census/researchers/agasteswar-vadlamani-a5019832/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cátia Fidalgo"
 description: "Cátia Fidalgo is a Mid-career Unknown researcher at University of Minho in PT. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.415517
+date: 2026-07-10T01:07:48.406352
 url: "/cdr-researcher-census/researchers/catia-fidalgo-a5028666/"
 layout: "researcher"
 hiddenInHomeList: true

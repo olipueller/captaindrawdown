@@ -1,7 +1,7 @@
 ---
 title: "Mythili Ravichandran"
 description: "Mythili Ravichandran is a Senior General CDR researcher. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.171457
+date: 2026-07-10T01:07:48.187807
 url: "/cdr-researcher-census/researchers/mythili-ravichandran-a5104087/"
 layout: "researcher"
 hiddenInHomeList: true

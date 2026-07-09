@@ -1,7 +1,7 @@
 ---
 title: "Mingyue Ding"
 description: "Mingyue Ding is a Mid-career General CDR researcher at Huazhong Agricultural University in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.304396
+date: 2026-07-10T01:07:48.307173
 url: "/cdr-researcher-census/researchers/mingyue-ding-a5001941/"
 layout: "researcher"
 hiddenInHomeList: true

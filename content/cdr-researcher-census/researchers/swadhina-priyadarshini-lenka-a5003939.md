@@ -1,7 +1,7 @@
 ---
 title: "Swadhina Priyadarshini Lenka"
 description: "Swadhina Priyadarshini Lenka is a Mid-career Unknown researcher at University of Auckland in NZ. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.336984
+date: 2026-07-10T01:07:47.419766
 url: "/cdr-researcher-census/researchers/swadhina-priyadarshini-lenka-a5003939/"
 layout: "researcher"
 hiddenInHomeList: true

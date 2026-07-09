@@ -1,7 +1,7 @@
 ---
 title: "Dejuan Jiang"
 description: "Dejuan Jiang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.336695
+date: 2026-07-10T01:07:47.419444
 url: "/cdr-researcher-census/researchers/dejuan-jiang-a5047271/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Brynnan P. Russ"
 description: "Brynnan P. Russ is a Mid-career Unknown researcher at Centers for Disease Control and Prevention in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.191482
+date: 2026-07-10T01:07:48.205819
 url: "/cdr-researcher-census/researchers/brynnan-p-russ-a5112562/"
 layout: "researcher"
 hiddenInHomeList: true

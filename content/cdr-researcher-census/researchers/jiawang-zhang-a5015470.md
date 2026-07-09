@@ -1,7 +1,7 @@
 ---
 title: "Jiawang Zhang"
 description: "Jiawang Zhang is an Early-career General CDR researcher at Beijing Normal University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.005752
+date: 2026-07-10T01:07:48.923353
 url: "/cdr-researcher-census/researchers/jiawang-zhang-a5015470/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Joshua T. Damron"
 description: "Joshua T. Damron is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 89 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.171437
+date: 2026-07-10T01:07:47.261226
 url: "/cdr-researcher-census/researchers/joshua-t-damron-a5071143/"
 layout: "researcher"
 hiddenInHomeList: true

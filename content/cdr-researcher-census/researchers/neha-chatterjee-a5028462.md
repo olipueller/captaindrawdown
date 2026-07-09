@@ -1,7 +1,7 @@
 ---
 title: "Neha Chatterjee"
 description: "Neha Chatterjee is a Mid-career Unknown researcher at Vellore Institute of Technology University in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.636355
+date: 2026-07-10T01:07:48.595427
 url: "/cdr-researcher-census/researchers/neha-chatterjee-a5028462/"
 layout: "researcher"
 hiddenInHomeList: true

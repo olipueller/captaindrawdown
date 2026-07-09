@@ -1,7 +1,7 @@
 ---
 title: "Amardeep Singh"
 description: "Amardeep Singh is a Mid-career Unknown researcher at Changzhou Institute of Technology in CN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.963998
+date: 2026-07-10T01:07:48.885032
 url: "/cdr-researcher-census/researchers/amardeep-singh-a5101913/"
 layout: "researcher"
 hiddenInHomeList: true

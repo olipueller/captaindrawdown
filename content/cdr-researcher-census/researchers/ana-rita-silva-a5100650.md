@@ -1,7 +1,7 @@
 ---
 title: "Ana Rita Silva"
 description: "Ana Rita Silva is a Mid-career Biochar researcher at Universidade do Minho in PT. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.549844
+date: 2026-07-10T01:07:47.613987
 url: "/cdr-researcher-census/researchers/ana-rita-silva-a5100650/"
 layout: "researcher"
 hiddenInHomeList: true

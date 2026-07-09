@@ -1,7 +1,7 @@
 ---
 title: "Niels B.K. Rasmussen"
 description: "Niels B.K. Rasmussen is a Senior General CDR researcher at Danish Gas Technology Centre (Denmark) in DK. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.752640
+date: 2026-07-10T01:07:48.699237
 url: "/cdr-researcher-census/researchers/niels-bk-rasmussen-a5018259/"
 layout: "researcher"
 hiddenInHomeList: true

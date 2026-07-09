@@ -1,7 +1,7 @@
 ---
 title: "Ilaria Protti"
 description: "Ilaria Protti is a Senior Unknown researcher at Erasmus MC in NL. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.233115
+date: 2026-07-10T01:07:49.142334
 url: "/cdr-researcher-census/researchers/ilaria-protti-a5045515/"
 layout: "researcher"
 hiddenInHomeList: true

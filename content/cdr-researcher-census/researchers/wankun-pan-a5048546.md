@@ -1,7 +1,7 @@
 ---
 title: "Wankun Pan"
 description: "Wankun Pan is a Mid-career Soil Carbon researcher at Bangor University in GB. With 34 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.386994
+date: 2026-07-10T01:07:47.467961
 url: "/cdr-researcher-census/researchers/wankun-pan-a5048546/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiongchao Wang"
 description: "Qiongchao Wang is a Mid-career General CDR researcher at Hunan Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.605619
+date: 2026-07-10T01:07:48.568413
 url: "/cdr-researcher-census/researchers/qiongchao-wang-a5111530/"
 layout: "researcher"
 hiddenInHomeList: true

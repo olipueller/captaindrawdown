@@ -1,7 +1,7 @@
 ---
 title: "Mehedi Amin"
 description: "Mehedi Amin is an Early-career Soil Carbon researcher at Sher-e-Bangla Agricultural University in BD. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.506433
+date: 2026-07-10T01:07:48.491768
 url: "/cdr-researcher-census/researchers/mehedi-amin-a5101717/"
 layout: "researcher"
 hiddenInHomeList: true

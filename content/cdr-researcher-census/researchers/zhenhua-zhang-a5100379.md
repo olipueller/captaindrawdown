@@ -1,7 +1,7 @@
 ---
 title: "Zhenhua Zhang"
 description: "Zhenhua Zhang is a Senior Soil Carbon researcher at China Pharmaceutical University in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.398556
+date: 2026-07-10T01:07:47.479456
 url: "/cdr-researcher-census/researchers/zhenhua-zhang-a5100379/"
 layout: "researcher"
 hiddenInHomeList: true

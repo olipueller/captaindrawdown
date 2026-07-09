@@ -1,7 +1,7 @@
 ---
 title: "Tobias Dewhurst"
 description: "Tobias Dewhurst is a Mid-career Ocean CDR researcher at Nelson Engineering (United States) in US. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.934950
+date: 2026-07-10T01:07:47.947725
 url: "/cdr-researcher-census/researchers/tobias-dewhurst-a5089775/"
 layout: "researcher"
 hiddenInHomeList: true

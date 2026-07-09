@@ -1,7 +1,7 @@
 ---
 title: "Vincent J. Sieben"
 description: "Vincent J. Sieben is a Senior Ocean CDR researcher at Dalhousie University in CA. With 66 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.140922
+date: 2026-07-10T01:07:47.229869
 url: "/cdr-researcher-census/researchers/vincent-j-sieben-a5018994/"
 layout: "researcher"
 hiddenInHomeList: true

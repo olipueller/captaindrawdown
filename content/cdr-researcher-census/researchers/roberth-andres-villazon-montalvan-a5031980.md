@@ -1,7 +1,7 @@
 ---
 title: "Roberth Andrés Villazón Montalván"
 description: "Roberth Andrés Villazón Montalván is a Mid-career Unknown researcher at Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina in BR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.415074
+date: 2026-07-10T01:07:48.405941
 url: "/cdr-researcher-census/researchers/roberth-andres-villazon-montalvan-a5031980/"
 layout: "researcher"
 hiddenInHomeList: true

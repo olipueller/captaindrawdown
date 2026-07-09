@@ -1,7 +1,7 @@
 ---
 title: "Rogério Zigaib"
 description: "Rogério Zigaib is a Senior Unknown researcher at Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo in BR. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.591085
+date: 2026-07-10T01:07:48.555165
 url: "/cdr-researcher-census/researchers/rogerio-zigaib-a5039663/"
 layout: "researcher"
 hiddenInHomeList: true

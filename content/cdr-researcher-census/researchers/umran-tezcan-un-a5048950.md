@@ -1,7 +1,7 @@
 ---
 title: "Ümran Tezcan Ün"
 description: "Ümran Tezcan Ün is a Senior General CDR researcher at Eskisehir Technical University in TR. With 48 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.105677
+date: 2026-07-10T01:07:47.190678
 url: "/cdr-researcher-census/researchers/umran-tezcan-un-a5048950/"
 layout: "researcher"
 hiddenInHomeList: true

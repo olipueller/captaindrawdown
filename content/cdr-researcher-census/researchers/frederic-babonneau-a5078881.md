@@ -1,7 +1,7 @@
 ---
 title: "Frédéric Babonneau"
 description: "Frédéric Babonneau is a Senior General CDR researcher at Kedge Business School in CL. With 107 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.234875
+date: 2026-07-10T01:07:47.321589
 url: "/cdr-researcher-census/researchers/frederic-babonneau-a5078881/"
 layout: "researcher"
 hiddenInHomeList: true

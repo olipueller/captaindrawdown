@@ -1,7 +1,7 @@
 ---
 title: "Worrada Nookuea"
 description: "Worrada Nookuea is a Mid-career BECCS researcher at Mälardalen University in SE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.476648
+date: 2026-07-10T01:07:47.549109
 url: "/cdr-researcher-census/researchers/worrada-nookuea-a5008079/"
 layout: "researcher"
 hiddenInHomeList: true

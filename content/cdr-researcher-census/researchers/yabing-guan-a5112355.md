@@ -1,7 +1,7 @@
 ---
 title: "Yabing Guan"
 description: "Yabing Guan is a Mid-career Soil Carbon researcher at Land Consolidation and Rehabilitation Center in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.963721
+date: 2026-07-10T01:07:47.974251
 url: "/cdr-researcher-census/researchers/yabing-guan-a5112355/"
 layout: "researcher"
 hiddenInHomeList: true

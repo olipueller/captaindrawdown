@@ -1,7 +1,7 @@
 ---
 title: "Anu Kumari"
 description: "Anu Kumari is a Mid-career Biochar researcher at Maharshi Dayanand University in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.754179
+date: 2026-07-10T01:07:48.700456
 url: "/cdr-researcher-census/researchers/anu-kumari-a5104019/"
 layout: "researcher"
 hiddenInHomeList: true

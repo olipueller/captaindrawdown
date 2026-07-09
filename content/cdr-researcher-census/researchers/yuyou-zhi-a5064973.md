@@ -1,7 +1,7 @@
 ---
 title: "Yuyou Zhi"
 description: "Yuyou Zhi is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.508959
+date: 2026-07-10T01:07:47.577791
 url: "/cdr-researcher-census/researchers/yuyou-zhi-a5064973/"
 layout: "researcher"
 hiddenInHomeList: true

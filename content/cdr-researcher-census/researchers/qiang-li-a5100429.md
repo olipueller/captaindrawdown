@@ -1,7 +1,7 @@
 ---
 title: "Qiang Li"
 description: "Qiang Li is a Senior Soil Carbon researcher at Tianjin Normal University in CN. With 149 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.070651
+date: 2026-07-10T01:07:47.149488
 url: "/cdr-researcher-census/researchers/qiang-li-a5100429/"
 layout: "researcher"
 hiddenInHomeList: true

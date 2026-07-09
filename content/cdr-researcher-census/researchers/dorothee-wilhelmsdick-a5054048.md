@@ -1,7 +1,7 @@
 ---
 title: "Dorothee Wilhelms‐Dick"
 description: "Dorothee Wilhelms‐Dick is a Mid-career Unknown researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.890218
+date: 2026-07-10T01:07:47.905163
 url: "/cdr-researcher-census/researchers/dorothee-wilhelmsdick-a5054048/"
 layout: "researcher"
 hiddenInHomeList: true

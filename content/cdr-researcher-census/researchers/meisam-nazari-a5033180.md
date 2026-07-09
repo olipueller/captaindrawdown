@@ -1,7 +1,7 @@
 ---
 title: "Meisam Nazari"
 description: "Meisam Nazari is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 41 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.440526
+date: 2026-07-10T01:07:47.516768
 url: "/cdr-researcher-census/researchers/meisam-nazari-a5033180/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muqier Hasi"
 description: "Muqier Hasi is a Mid-career Soil Carbon researcher at Zhongnan University of Economics and Law in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.413546
+date: 2026-07-10T01:07:48.404567
 url: "/cdr-researcher-census/researchers/muqier-hasi-a5047428/"
 layout: "researcher"
 hiddenInHomeList: true

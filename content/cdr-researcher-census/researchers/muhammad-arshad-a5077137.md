@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Arshad"
 description: "Muhammad Arshad is a Senior Soil Carbon researcher at King Khalid University in SA. With 76 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.195767
+date: 2026-07-10T01:07:47.284668
 url: "/cdr-researcher-census/researchers/muhammad-arshad-a5077137/"
 layout: "researcher"
 hiddenInHomeList: true

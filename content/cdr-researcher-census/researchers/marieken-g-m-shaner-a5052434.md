@@ -1,7 +1,7 @@
 ---
 title: "Marieken G. M. Shaner"
 description: "Marieken G. M. Shaner is a Senior Unknown researcher at San Diego State University in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.488482
+date: 2026-07-10T01:07:48.474527
 url: "/cdr-researcher-census/researchers/marieken-g-m-shaner-a5052434/"
 layout: "researcher"
 hiddenInHomeList: true

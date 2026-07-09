@@ -1,7 +1,7 @@
 ---
 title: "Yinghai Wu"
 description: "Yinghai Wu is a Senior Unknown researcher at Dalian Ocean University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.021449
+date: 2026-07-10T01:07:48.029233
 url: "/cdr-researcher-census/researchers/yinghai-wu-a5102420/"
 layout: "researcher"
 hiddenInHomeList: true

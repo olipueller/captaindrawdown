@@ -1,7 +1,7 @@
 ---
 title: "Yayu Wei"
 description: "Yayu Wei is a Mid-career Unknown researcher at East China Normal University in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.988441
+date: 2026-07-10T01:07:47.997394
 url: "/cdr-researcher-census/researchers/yayu-wei-a5072204/"
 layout: "researcher"
 hiddenInHomeList: true

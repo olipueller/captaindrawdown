@@ -1,7 +1,7 @@
 ---
 title: "Narain Jp"
 description: "Narain Jp is a Senior General CDR researcher at World Health Organization Regional Office for South-East Asia in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.564741
+date: 2026-07-10T01:07:48.543811
 url: "/cdr-researcher-census/researchers/narain-jp-a5053864/"
 layout: "researcher"
 hiddenInHomeList: true

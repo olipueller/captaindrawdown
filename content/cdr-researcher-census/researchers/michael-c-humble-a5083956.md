@@ -1,7 +1,7 @@
 ---
 title: "Michael C. Humble"
 description: "Michael C. Humble is a Senior Unknown researcher at National Institutes of Health in US. With 14 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.001109
+date: 2026-07-10T01:07:47.061324
 url: "/cdr-researcher-census/researchers/michael-c-humble-a5083956/"
 layout: "researcher"
 hiddenInHomeList: true

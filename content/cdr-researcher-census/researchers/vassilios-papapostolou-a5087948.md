@@ -1,7 +1,7 @@
 ---
 title: "Vassilios Papapostolou"
 description: "Vassilios Papapostolou is a Mid-career Unknown researcher at Newcastle University in GB. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.551800
+date: 2026-07-10T01:07:48.531725
 url: "/cdr-researcher-census/researchers/vassilios-papapostolou-a5087948/"
 layout: "researcher"
 hiddenInHomeList: true

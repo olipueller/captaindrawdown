@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Abubakar Lawal"
 description: "Muhammad Abubakar Lawal is a Mid-career Unknown researcher at Ahmadu Bello University in NG. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.724982
+date: 2026-07-10T01:07:48.674481
 url: "/cdr-researcher-census/researchers/muhammad-abubakar-lawal-a5057621/"
 layout: "researcher"
 hiddenInHomeList: true

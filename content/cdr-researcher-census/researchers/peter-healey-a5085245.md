@@ -1,7 +1,7 @@
 ---
 title: "Peter Healey"
 description: "Peter Healey is a Senior General CDR researcher at University of Oxford in GB. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.361755
+date: 2026-07-10T01:07:47.443668
 url: "/cdr-researcher-census/researchers/peter-healey-a5085245/"
 layout: "researcher"
 hiddenInHomeList: true

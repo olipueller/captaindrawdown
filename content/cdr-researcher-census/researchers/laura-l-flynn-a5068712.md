@@ -1,7 +1,7 @@
 ---
 title: "Laura L. Flynn"
 description: "Laura L. Flynn is a Mid-career Soil Carbon researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.352000
+date: 2026-07-10T01:07:48.350257
 url: "/cdr-researcher-census/researchers/laura-l-flynn-a5068712/"
 layout: "researcher"
 hiddenInHomeList: true

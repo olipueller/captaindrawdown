@@ -1,7 +1,7 @@
 ---
 title: "A. S. Sorokin"
 description: "A. S. Sorokin is a Mid-career Soil Carbon researcher at Lomonosov Moscow State University in RU. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.814645
+date: 2026-07-10T01:07:48.751402
 url: "/cdr-researcher-census/researchers/a-s-sorokin-a5085068/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Quentin Cazères"
 description: "Quentin Cazères is a Mid-career Unknown researcher at University of Cambridge in GB. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.346534
+date: 2026-07-10T01:07:48.345268
 url: "/cdr-researcher-census/researchers/quentin-cazeres-a5031565/"
 layout: "researcher"
 hiddenInHomeList: true

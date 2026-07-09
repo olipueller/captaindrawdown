@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Mills"
 description: "Benjamin Mills is an Eminent General CDR researcher at University of Leeds in GB. With 203 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.929243
+date: 2026-07-10T01:07:46.945234
 url: "/cdr-researcher-census/researchers/benjamin-mills-a5005655/"
 layout: "researcher"
 hiddenInHomeList: true

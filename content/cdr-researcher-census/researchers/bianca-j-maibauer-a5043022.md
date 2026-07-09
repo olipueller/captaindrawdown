@@ -1,7 +1,7 @@
 ---
 title: "Bianca J Maibauer"
 description: "Bianca J Maibauer is a Mid-career Soil Carbon researcher at University of Utah in US. With 16 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.135447
+date: 2026-07-10T01:07:48.157346
 url: "/cdr-researcher-census/researchers/bianca-j-maibauer-a5043022/"
 layout: "researcher"
 hiddenInHomeList: true

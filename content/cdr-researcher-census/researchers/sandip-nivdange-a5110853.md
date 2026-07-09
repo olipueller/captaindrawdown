@@ -1,7 +1,7 @@
 ---
 title: "Sandip Nivdange"
 description: "Sandip Nivdange is a Mid-career Unknown researcher at Savitribai Phule Pune University in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.700997
+date: 2026-07-10T01:07:48.653982
 url: "/cdr-researcher-census/researchers/sandip-nivdange-a5110853/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiao Xinqi"
 description: "Qiao Xinqi is a Senior Unknown researcher at Shanghai Jiao Tong University in CN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.235308
+date: 2026-07-10T01:07:49.144478
 url: "/cdr-researcher-census/researchers/qiao-xinqi-a5100870/"
 layout: "researcher"
 hiddenInHomeList: true

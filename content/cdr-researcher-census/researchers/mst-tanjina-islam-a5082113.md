@@ -1,7 +1,7 @@
 ---
 title: "Mst. Tanjina Islam"
 description: "Mst. Tanjina Islam is a Mid-career General CDR researcher at Hajee Mohammad Danesh Science and Technology University in BD. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.130167
+date: 2026-07-10T01:07:49.034765
 url: "/cdr-researcher-census/researchers/mst-tanjina-islam-a5082113/"
 layout: "researcher"
 hiddenInHomeList: true

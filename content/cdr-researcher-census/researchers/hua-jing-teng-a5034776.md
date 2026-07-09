@@ -1,7 +1,7 @@
 ---
 title: "Hua-Jing Teng"
 description: "Hua-Jing Teng is an Early-career Unknown researcher at Zhejiang A & F University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.771074
+date: 2026-07-10T01:07:48.714925
 url: "/cdr-researcher-census/researchers/hua-jing-teng-a5034776/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zitely A. Tzompa‐Sosa"
 description: "Zitely A. Tzompa‐Sosa is a Mid-career General CDR researcher at Centre National de la Recherche Scientifique in FR. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.406624
+date: 2026-07-10T01:07:47.486340
 url: "/cdr-researcher-census/researchers/zitely-a-tzompasosa-a5039025/"
 layout: "researcher"
 hiddenInHomeList: true

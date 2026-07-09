@@ -1,7 +1,7 @@
 ---
 title: "Punniamoorthy Thiviya"
 description: "Punniamoorthy Thiviya is a Mid-career Biochar researcher at University of Peradeniya in LK. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.368896
+date: 2026-07-10T01:07:47.451218
 url: "/cdr-researcher-census/researchers/punniamoorthy-thiviya-a5026506/"
 layout: "researcher"
 hiddenInHomeList: true

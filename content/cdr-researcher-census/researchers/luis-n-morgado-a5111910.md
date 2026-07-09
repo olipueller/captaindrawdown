@@ -1,7 +1,7 @@
 ---
 title: "Luis N. Morgado"
 description: "Luis N. Morgado is a Senior Soil Carbon researcher at Naturalis Biodiversity Center in NL. With 43 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.947399
+date: 2026-07-10T01:07:46.978768
 url: "/cdr-researcher-census/researchers/luis-n-morgado-a5111910/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohanned Mohamedali"
 description: "Mohanned Mohamedali is a Senior DAC researcher at University of Calgary in CA. With 34 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.187103
+date: 2026-07-10T01:07:47.276045
 url: "/cdr-researcher-census/researchers/mohanned-mohamedali-a5090080/"
 layout: "researcher"
 hiddenInHomeList: true

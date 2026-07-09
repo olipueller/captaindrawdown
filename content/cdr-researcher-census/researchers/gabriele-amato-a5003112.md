@@ -1,7 +1,7 @@
 ---
 title: "Gabriele Amato"
 description: "Gabriele Amato is a Mid-career Soil Carbon researcher at University of Catania in IT. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.984246
+date: 2026-07-10T01:07:47.993543
 url: "/cdr-researcher-census/researchers/gabriele-amato-a5003112/"
 layout: "researcher"
 hiddenInHomeList: true

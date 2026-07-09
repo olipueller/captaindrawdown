@@ -1,7 +1,7 @@
 ---
 title: "Hongdou Lei"
 description: "Hongdou Lei is a Mid-career Unknown researcher at Chinese Academy of Governance in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.498344
+date: 2026-07-10T01:07:47.568076
 url: "/cdr-researcher-census/researchers/hongdou-lei-a5034863/"
 layout: "researcher"
 hiddenInHomeList: true

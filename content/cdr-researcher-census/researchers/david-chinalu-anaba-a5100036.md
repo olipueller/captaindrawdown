@@ -1,7 +1,7 @@
 ---
 title: "David Chinalu Anaba"
 description: "David Chinalu Anaba is a Mid-career Unknown researcher at University of Port Harcourt in NG. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.594467
+date: 2026-07-10T01:07:48.558668
 url: "/cdr-researcher-census/researchers/david-chinalu-anaba-a5100036/"
 layout: "researcher"
 hiddenInHomeList: true

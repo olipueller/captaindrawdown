@@ -1,7 +1,7 @@
 ---
 title: "Mengfei Cao"
 description: "Mengfei Cao is a Mid-career Unknown researcher at Jiangsu University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.172007
+date: 2026-07-10T01:07:49.062004
 url: "/cdr-researcher-census/researchers/mengfei-cao-a5034243/"
 layout: "researcher"
 hiddenInHomeList: true

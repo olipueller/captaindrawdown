@@ -1,7 +1,7 @@
 ---
 title: "Daniel Schmitt"
 description: "Daniel Schmitt is a Senior Unknown researcher at Technische Universität Darmstadt in DE. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.718279
+date: 2026-07-10T01:07:48.668272
 url: "/cdr-researcher-census/researchers/daniel-schmitt-a5075742/"
 layout: "researcher"
 hiddenInHomeList: true

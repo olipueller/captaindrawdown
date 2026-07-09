@@ -1,7 +1,7 @@
 ---
 title: "Walid Janati"
 description: "Walid Janati is a Mid-career Unknown researcher at Université Mohammed VI Polytechnique in MA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.840008
+date: 2026-07-10T01:07:47.875803
 url: "/cdr-researcher-census/researchers/walid-janati-a5021097/"
 layout: "researcher"
 hiddenInHomeList: true

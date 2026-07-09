@@ -1,7 +1,7 @@
 ---
 title: "Yawei Xiao"
 description: "Yawei Xiao is a Mid-career Biochar researcher at Hainan Normal University in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.365387
+date: 2026-07-10T01:07:47.447600
 url: "/cdr-researcher-census/researchers/yawei-xiao-a5101686/"
 layout: "researcher"
 hiddenInHomeList: true

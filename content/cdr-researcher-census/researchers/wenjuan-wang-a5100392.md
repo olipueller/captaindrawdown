@@ -1,7 +1,7 @@
 ---
 title: "Wenjuan Wang"
 description: "Wenjuan Wang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.119412
+date: 2026-07-10T01:07:48.143428
 url: "/cdr-researcher-census/researchers/wenjuan-wang-a5100392/"
 layout: "researcher"
 hiddenInHomeList: true

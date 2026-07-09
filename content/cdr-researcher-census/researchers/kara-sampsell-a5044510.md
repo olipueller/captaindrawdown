@@ -1,7 +1,7 @@
 ---
 title: "Kara Sampsell"
 description: "Kara Sampsell is a Mid-career Soil Carbon researcher at University of Calgary in CA. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.965951
+date: 2026-07-10T01:07:48.886759
 url: "/cdr-researcher-census/researchers/kara-sampsell-a5044510/"
 layout: "researcher"
 hiddenInHomeList: true

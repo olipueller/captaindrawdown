@@ -1,7 +1,7 @@
 ---
 title: "Xiang-Peng Fei"
 description: "Xiang-Peng Fei is a Mid-career Unknown researcher at Southeast University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.035789
+date: 2026-07-10T01:07:48.041964
 url: "/cdr-researcher-census/researchers/xiang-peng-fei-a5030225/"
 layout: "researcher"
 hiddenInHomeList: true

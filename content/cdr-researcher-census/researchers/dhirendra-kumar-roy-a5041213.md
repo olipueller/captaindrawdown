@@ -1,7 +1,7 @@
 ---
 title: "Dhirendra Kumar Roy"
 description: "Dhirendra Kumar Roy is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.719524
+date: 2026-07-10T01:07:48.669358
 url: "/cdr-researcher-census/researchers/dhirendra-kumar-roy-a5041213/"
 layout: "researcher"
 hiddenInHomeList: true

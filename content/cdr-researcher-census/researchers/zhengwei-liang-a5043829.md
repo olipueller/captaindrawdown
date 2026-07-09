@@ -1,7 +1,7 @@
 ---
 title: "Zhengwei Liang"
 description: "Zhengwei Liang is a Mid-career Unknown researcher at State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.553524
+date: 2026-07-10T01:07:47.617769
 url: "/cdr-researcher-census/researchers/zhengwei-liang-a5043829/"
 layout: "researcher"
 hiddenInHomeList: true

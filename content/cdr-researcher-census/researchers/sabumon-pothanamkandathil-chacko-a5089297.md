@@ -1,7 +1,7 @@
 ---
 title: "Sabumon Pothanamkandathil Chacko"
 description: "Sabumon Pothanamkandathil Chacko is a Mid-career Unknown researcher at Vellore Institute of Technology University in IN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.154528
+date: 2026-07-10T01:07:48.173945
 url: "/cdr-researcher-census/researchers/sabumon-pothanamkandathil-chacko-a5089297/"
 layout: "researcher"
 hiddenInHomeList: true

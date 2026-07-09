@@ -1,7 +1,7 @@
 ---
 title: "Md. Akter Hosen"
 description: "Md. Akter Hosen is a Mid-career Unknown researcher at Dhofar University in OM. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.295526
+date: 2026-07-10T01:07:47.377762
 url: "/cdr-researcher-census/researchers/md-akter-hosen-a5048350/"
 layout: "researcher"
 hiddenInHomeList: true

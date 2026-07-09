@@ -1,7 +1,7 @@
 ---
 title: "Minghai Shen"
 description: "Minghai Shen is a Mid-career General CDR researcher at Research Center for Eco-Environmental Sciences in CN. With 29 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.196848
+date: 2026-07-10T01:07:47.285914
 url: "/cdr-researcher-census/researchers/minghai-shen-a5027518/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuxing Mei"
 description: "Shuxing Mei is a Mid-career Unknown researcher at China University of Petroleum, Beijing in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.204083
+date: 2026-07-10T01:07:48.217499
 url: "/cdr-researcher-census/researchers/shuxing-mei-a5074816/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiali Zou"
 description: "Jiali Zou is a Mid-career Biochar researcher at Inner Mongolia University of Science and Technology in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.546329
+date: 2026-07-10T01:07:48.526840
 url: "/cdr-researcher-census/researchers/jiali-zou-a5064606/"
 layout: "researcher"
 hiddenInHomeList: true

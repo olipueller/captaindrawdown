@@ -1,7 +1,7 @@
 ---
 title: "Henriikka Vekuri"
 description: "Henriikka Vekuri is a Mid-career Soil Carbon researcher at Finnish Meteorological Institute in FI. With 59 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.168538
+date: 2026-07-10T01:07:48.185448
 url: "/cdr-researcher-census/researchers/henriikka-vekuri-a5032581/"
 layout: "researcher"
 hiddenInHomeList: true

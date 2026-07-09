@@ -1,7 +1,7 @@
 ---
 title: "Shaun A. Goho"
 description: "Shaun A. Goho is a Senior Unknown researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.236916
+date: 2026-07-10T01:07:48.246571
 url: "/cdr-researcher-census/researchers/shaun-a-goho-a5025029/"
 layout: "researcher"
 hiddenInHomeList: true

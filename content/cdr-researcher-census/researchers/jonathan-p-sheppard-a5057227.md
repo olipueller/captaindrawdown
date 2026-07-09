@@ -1,7 +1,7 @@
 ---
 title: "Jonathan P. Sheppard"
 description: "Jonathan P. Sheppard is a Mid-career Unknown researcher at University of Freiburg in DE. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.365746
+date: 2026-07-10T01:07:47.447924
 url: "/cdr-researcher-census/researchers/jonathan-p-sheppard-a5057227/"
 layout: "researcher"
 hiddenInHomeList: true

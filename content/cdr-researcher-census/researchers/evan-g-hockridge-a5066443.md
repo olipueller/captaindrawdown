@@ -1,7 +1,7 @@
 ---
 title: "Evan G. Hockridge"
 description: "Evan G. Hockridge is a Mid-career Soil Carbon researcher at Harvard University Press in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.397601
+date: 2026-07-10T01:07:48.389791
 url: "/cdr-researcher-census/researchers/evan-g-hockridge-a5066443/"
 layout: "researcher"
 hiddenInHomeList: true

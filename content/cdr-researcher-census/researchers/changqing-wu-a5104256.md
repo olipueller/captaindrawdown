@@ -1,7 +1,7 @@
 ---
 title: "Changqing Wu"
 description: "Changqing Wu is a Senior Unknown researcher at Changzhou University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.175147
+date: 2026-07-10T01:07:48.191432
 url: "/cdr-researcher-census/researchers/changqing-wu-a5104256/"
 layout: "researcher"
 hiddenInHomeList: true

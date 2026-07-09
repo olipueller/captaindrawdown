@@ -1,7 +1,7 @@
 ---
 title: "Nur Faradila Anuar"
 description: "Nur Faradila Anuar is a Mid-career Biochar researcher at Universiti Teknologi MARA in MY. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.855758
+date: 2026-07-10T01:07:48.786319
 url: "/cdr-researcher-census/researchers/nur-faradila-anuar-a5047566/"
 layout: "researcher"
 hiddenInHomeList: true

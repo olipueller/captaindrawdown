@@ -1,7 +1,7 @@
 ---
 title: "Bishnu Hari Pandit"
 description: "Bishnu Hari Pandit is a Senior Soil Carbon researcher at Kathmandu Forestry College in NP. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.221303
+date: 2026-07-10T01:07:47.308350
 url: "/cdr-researcher-census/researchers/bishnu-hari-pandit-a5067879/"
 layout: "researcher"
 hiddenInHomeList: true

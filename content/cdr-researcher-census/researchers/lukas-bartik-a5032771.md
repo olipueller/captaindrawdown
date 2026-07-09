@@ -1,7 +1,7 @@
 ---
 title: "Lukáš Bartík"
 description: "Lukáš Bartík is a Mid-career Unknown researcher at Charles University in CZ. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.051408
+date: 2026-07-10T01:07:48.965043
 url: "/cdr-researcher-census/researchers/lukas-bartik-a5032771/"
 layout: "researcher"
 hiddenInHomeList: true

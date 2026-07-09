@@ -1,7 +1,7 @@
 ---
 title: "Omnya Abdalla"
 description: "Omnya Abdalla is a Mid-career Unknown researcher at Gulf Organisation for Research & Development in QA. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.255227
+date: 2026-07-10T01:07:48.263319
 url: "/cdr-researcher-census/researchers/omnya-abdalla-a5073576/"
 layout: "researcher"
 hiddenInHomeList: true

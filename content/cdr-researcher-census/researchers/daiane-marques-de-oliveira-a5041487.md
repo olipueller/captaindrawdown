@@ -1,7 +1,7 @@
 ---
 title: "Daiane Marques de Oliveira"
 description: "Daiane Marques de Oliveira is a Mid-career Unknown researcher at Universidade Estadual de Maringá in BR. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.303499
+date: 2026-07-10T01:07:48.306236
 url: "/cdr-researcher-census/researchers/daiane-marques-de-oliveira-a5041487/"
 layout: "researcher"
 hiddenInHomeList: true

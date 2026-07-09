@@ -1,7 +1,7 @@
 ---
 title: "Tong Cai"
 description: "Tong Cai is a Mid-career Biochar researcher at Air Force Engineering University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.565638
+date: 2026-07-10T01:07:47.629515
 url: "/cdr-researcher-census/researchers/tong-cai-a5110977/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Raymond Detweiler"
 description: "Raymond Detweiler is a Mid-career Unknown researcher. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.179211
+date: 2026-07-10T01:07:48.195382
 url: "/cdr-researcher-census/researchers/raymond-detweiler-a5011430/"
 layout: "researcher"
 hiddenInHomeList: true

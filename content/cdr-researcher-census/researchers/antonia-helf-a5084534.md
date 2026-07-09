@@ -1,7 +1,7 @@
 ---
 title: "Antonia Helf"
 description: "Antonia Helf is a Mid-career General CDR researcher at Universitätsklinikum Würzburg in DE. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.477217
+date: 2026-07-10T01:07:47.549565
 url: "/cdr-researcher-census/researchers/antonia-helf-a5084534/"
 layout: "researcher"
 hiddenInHomeList: true

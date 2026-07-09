@@ -1,7 +1,7 @@
 ---
 title: "Liting Zhou"
 description: "Liting Zhou is a Senior Unknown researcher at Liaoning University of Traditional Chinese Medicine in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.117571
+date: 2026-07-10T01:07:49.023555
 url: "/cdr-researcher-census/researchers/liting-zhou-a5069173/"
 layout: "researcher"
 hiddenInHomeList: true

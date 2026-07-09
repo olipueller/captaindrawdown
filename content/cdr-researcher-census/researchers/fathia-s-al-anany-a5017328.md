@@ -1,7 +1,7 @@
 ---
 title: "Fathia S. Al-Anany"
 description: "Fathia S. Al-Anany is a Mid-career Unknown researcher at Al-Azhar University in EG. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.020117
+date: 2026-07-10T01:07:48.027914
 url: "/cdr-researcher-census/researchers/fathia-s-al-anany-a5017328/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Olivier Massol"
 description: "Olivier Massol is a Senior General CDR researcher at CentraleSupélec in FR. With 121 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.493803
+date: 2026-07-10T01:07:47.564208
 url: "/cdr-researcher-census/researchers/olivier-massol-a5063901/"
 layout: "researcher"
 hiddenInHomeList: true

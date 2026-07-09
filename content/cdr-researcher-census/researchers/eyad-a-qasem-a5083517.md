@@ -1,7 +1,7 @@
 ---
 title: "Eyad A. Qasem"
 description: "Eyad A. Qasem is a Mid-career Unknown researcher at Saudi Aramco (Saudi Arabia) in SA. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.692234
+date: 2026-07-10T01:07:48.645747
 url: "/cdr-researcher-census/researchers/eyad-a-qasem-a5083517/"
 layout: "researcher"
 hiddenInHomeList: true

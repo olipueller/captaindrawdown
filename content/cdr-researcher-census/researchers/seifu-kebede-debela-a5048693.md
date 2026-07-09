@@ -1,7 +1,7 @@
 ---
 title: "Seifu Kebede Debela"
 description: "Seifu Kebede Debela is a Mid-career Unknown researcher at Jimma University in ET. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.263368
+date: 2026-07-10T01:07:49.169657
 url: "/cdr-researcher-census/researchers/seifu-kebede-debela-a5048693/"
 layout: "researcher"
 hiddenInHomeList: true

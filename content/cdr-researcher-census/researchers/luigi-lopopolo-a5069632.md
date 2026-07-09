@@ -1,7 +1,7 @@
 ---
 title: "Luigi Lopopolo"
 description: "Luigi Lopopolo is a Mid-career Unknown researcher at University of Bari Aldo Moro in IT. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.853059
+date: 2026-07-10T01:07:48.783778
 url: "/cdr-researcher-census/researchers/luigi-lopopolo-a5069632/"
 layout: "researcher"
 hiddenInHomeList: true

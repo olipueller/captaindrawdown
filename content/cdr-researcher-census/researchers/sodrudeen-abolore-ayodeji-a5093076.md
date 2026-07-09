@@ -1,7 +1,7 @@
 ---
 title: "Sodrudeen Abolore Ayodeji"
 description: "Sodrudeen Abolore Ayodeji is a Mid-career General CDR researcher at Obafemi Awolowo University in NG. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.731067
+date: 2026-07-10T01:07:47.782998
 url: "/cdr-researcher-census/researchers/sodrudeen-abolore-ayodeji-a5093076/"
 layout: "researcher"
 hiddenInHomeList: true

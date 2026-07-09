@@ -1,7 +1,7 @@
 ---
 title: "Tridibesh Dey"
 description: "Tridibesh Dey is a Mid-career Unknown researcher at Wageningen University & Research in NL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.731170
+date: 2026-07-10T01:07:47.783084
 url: "/cdr-researcher-census/researchers/tridibesh-dey-a5029481/"
 layout: "researcher"
 hiddenInHomeList: true

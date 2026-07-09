@@ -1,7 +1,7 @@
 ---
 title: "Ademir de Oliveira Ferreira"
 description: "Ademir de Oliveira Ferreira is a Senior Soil Carbon researcher at Universidade Federal Rural de Pernambuco in BR. With 75 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.174481
+date: 2026-07-10T01:07:47.263651
 url: "/cdr-researcher-census/researchers/ademir-de-oliveira-ferreira-a5024726/"
 layout: "researcher"
 hiddenInHomeList: true

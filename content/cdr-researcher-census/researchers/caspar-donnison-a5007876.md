@@ -1,7 +1,7 @@
 ---
 title: "Caspar Donnison"
 description: "Caspar Donnison is a Mid-career General CDR researcher at University of Southampton in GB. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.989198
+date: 2026-07-10T01:07:47.998052
 url: "/cdr-researcher-census/researchers/caspar-donnison-a5007876/"
 layout: "researcher"
 hiddenInHomeList: true

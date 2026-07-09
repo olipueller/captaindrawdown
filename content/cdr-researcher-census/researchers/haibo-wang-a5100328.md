@@ -1,7 +1,7 @@
 ---
 title: "Haibo Wang"
 description: "Haibo Wang is a Mid-career Unknown researcher at Changzhou University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.807820
+date: 2026-07-10T01:07:48.745893
 url: "/cdr-researcher-census/researchers/haibo-wang-a5100328/"
 layout: "researcher"
 hiddenInHomeList: true

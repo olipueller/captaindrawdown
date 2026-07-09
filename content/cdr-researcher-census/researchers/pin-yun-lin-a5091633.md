@@ -1,7 +1,7 @@
 ---
 title: "Pin-Yun Lin"
 description: "Pin-Yun Lin is a Mid-career Unknown researcher at National Chung Cheng University in TW. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.129500
+date: 2026-07-10T01:07:48.152531
 url: "/cdr-researcher-census/researchers/pin-yun-lin-a5091633/"
 layout: "researcher"
 hiddenInHomeList: true

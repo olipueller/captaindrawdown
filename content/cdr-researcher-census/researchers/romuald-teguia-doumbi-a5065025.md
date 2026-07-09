@@ -1,7 +1,7 @@
 ---
 title: "Romuald Teguia Doumbi"
 description: "Romuald Teguia Doumbi is a Mid-career Unknown researcher at Universidade Federal do Rio Grande do Norte in BR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.074897
+date: 2026-07-10T01:07:48.986011
 url: "/cdr-researcher-census/researchers/romuald-teguia-doumbi-a5065025/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Danyue Chen"
 description: "Danyue Chen is a Mid-career Unknown researcher at Shanghai Jiao Tong University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.793467
+date: 2026-07-10T01:07:47.841875
 url: "/cdr-researcher-census/researchers/danyue-chen-a5025584/"
 layout: "researcher"
 hiddenInHomeList: true

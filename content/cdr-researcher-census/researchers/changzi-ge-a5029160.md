@@ -1,7 +1,7 @@
 ---
 title: "Changzi Ge"
 description: "Changzi Ge is a Senior Soil Carbon researcher at Shandong University in CN. With 53 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.019208
+date: 2026-07-10T01:07:48.026931
 url: "/cdr-researcher-census/researchers/changzi-ge-a5029160/"
 layout: "researcher"
 hiddenInHomeList: true

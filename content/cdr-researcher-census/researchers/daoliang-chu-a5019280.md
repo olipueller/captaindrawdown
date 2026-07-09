@@ -1,7 +1,7 @@
 ---
 title: "Daoliang Chu"
 description: "Daoliang Chu is a Senior Unknown researcher at China University of Geosciences in CN. With 127 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.991895
+date: 2026-07-10T01:07:47.048695
 url: "/cdr-researcher-census/researchers/daoliang-chu-a5019280/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiuyu Liu"
 description: "Qiuyu Liu is a Senior Soil Carbon researcher at Xi'an Jiaotong University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.900137
+date: 2026-07-10T01:07:47.914756
 url: "/cdr-researcher-census/researchers/qiuyu-liu-a5004438/"
 layout: "researcher"
 hiddenInHomeList: true

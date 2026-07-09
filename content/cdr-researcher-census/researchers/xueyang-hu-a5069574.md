@@ -1,7 +1,7 @@
 ---
 title: "Xueyang Hu"
 description: "Xueyang Hu is a Mid-career Unknown researcher at Huazhong University of Science and Technology in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.095504
+date: 2026-07-10T01:07:49.004089
 url: "/cdr-researcher-census/researchers/xueyang-hu-a5069574/"
 layout: "researcher"
 hiddenInHomeList: true

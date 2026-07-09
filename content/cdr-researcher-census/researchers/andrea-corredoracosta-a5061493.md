@@ -1,7 +1,7 @@
 ---
 title: "Andrea Corredor‐Acosta"
 description: "Andrea Corredor‐Acosta is a Mid-career Ocean CDR researcher at Center for Dynamic Research on High Latitude Marine Ecosystems in CL. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.256632
+date: 2026-07-10T01:07:48.264582
 url: "/cdr-researcher-census/researchers/andrea-corredoracosta-a5061493/"
 layout: "researcher"
 hiddenInHomeList: true

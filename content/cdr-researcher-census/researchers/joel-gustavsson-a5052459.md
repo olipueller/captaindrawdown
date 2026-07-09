@@ -1,7 +1,7 @@
 ---
 title: "Joel Gustavsson"
 description: "Joel Gustavsson is a Senior General CDR researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.610951
+date: 2026-07-10T01:07:48.572672
 url: "/cdr-researcher-census/researchers/joel-gustavsson-a5052459/"
 layout: "researcher"
 hiddenInHomeList: true

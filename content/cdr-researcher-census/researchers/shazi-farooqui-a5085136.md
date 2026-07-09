@@ -1,7 +1,7 @@
 ---
 title: "Shazi Farooqui"
 description: "Shazi Farooqui is a Senior Unknown researcher at Indian Institute of Management Lucknow in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.033421
+date: 2026-07-10T01:07:48.948415
 url: "/cdr-researcher-census/researchers/shazi-farooqui-a5085136/"
 layout: "researcher"
 hiddenInHomeList: true

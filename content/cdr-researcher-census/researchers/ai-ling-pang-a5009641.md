@@ -1,7 +1,7 @@
 ---
 title: "Ai Ling Pang"
 description: "Ai Ling Pang is an Early-career Unknown researcher at Universiti Tenaga Nasional in MY. With 12 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.850388
+date: 2026-07-10T01:07:47.886189
 url: "/cdr-researcher-census/researchers/ai-ling-pang-a5009641/"
 layout: "researcher"
 hiddenInHomeList: true

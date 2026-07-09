@@ -1,7 +1,7 @@
 ---
 title: "Melinda L. Jue"
 description: "Melinda L. Jue is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 54 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.159837
+date: 2026-07-10T01:07:47.249019
 url: "/cdr-researcher-census/researchers/melinda-l-jue-a5024234/"
 layout: "researcher"
 hiddenInHomeList: true

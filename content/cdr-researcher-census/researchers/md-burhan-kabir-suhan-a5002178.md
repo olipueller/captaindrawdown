@@ -1,7 +1,7 @@
 ---
 title: "Md. Burhan Kabir Suhan"
 description: "Md. Burhan Kabir Suhan is a Mid-career Unknown researcher at Bangladesh University of Engineering and Technology in BD. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.368025
+date: 2026-07-10T01:07:47.450330
 url: "/cdr-researcher-census/researchers/md-burhan-kabir-suhan-a5002178/"
 layout: "researcher"
 hiddenInHomeList: true

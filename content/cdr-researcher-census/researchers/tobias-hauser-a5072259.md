@@ -1,7 +1,7 @@
 ---
 title: "Tobias Hauser"
 description: "Tobias Hauser is a Mid-career Unknown researcher at Furtwangen University in DE. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.474086
+date: 2026-07-10T01:07:47.546366
 url: "/cdr-researcher-census/researchers/tobias-hauser-a5072259/"
 layout: "researcher"
 hiddenInHomeList: true

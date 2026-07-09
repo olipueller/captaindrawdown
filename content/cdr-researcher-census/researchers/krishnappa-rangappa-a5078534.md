@@ -1,7 +1,7 @@
 ---
 title: "Krishnappa Rangappa"
 description: "Krishnappa Rangappa is a Mid-career Soil Carbon researcher at ICAR Research Complex for North Eastern Hill Region in IN. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.558750
+date: 2026-07-10T01:07:47.622754
 url: "/cdr-researcher-census/researchers/krishnappa-rangappa-a5078534/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Patrick Nyambo"
 description: "Patrick Nyambo is a Mid-career Soil Carbon researcher at Agricultural Research Council of South Africa in ZA. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.666427
+date: 2026-07-10T01:07:47.723570
 url: "/cdr-researcher-census/researchers/patrick-nyambo-a5055743/"
 layout: "researcher"
 hiddenInHomeList: true

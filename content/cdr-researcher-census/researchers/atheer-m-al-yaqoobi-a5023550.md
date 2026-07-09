@@ -1,7 +1,7 @@
 ---
 title: "Atheer M. Al-Yaqoobi"
 description: "Atheer M. Al-Yaqoobi is a Mid-career Biochar researcher at University of Baghdad in IQ. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.606052
+date: 2026-07-10T01:07:48.568765
 url: "/cdr-researcher-census/researchers/atheer-m-al-yaqoobi-a5023550/"
 layout: "researcher"
 hiddenInHomeList: true

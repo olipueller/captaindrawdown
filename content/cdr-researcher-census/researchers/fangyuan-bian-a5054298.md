@@ -1,7 +1,7 @@
 ---
 title: "Fangyuan Bian"
 description: "Fangyuan Bian is a Mid-career Soil Carbon researcher at National Agricultural Research Institute in PG. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.527204
+date: 2026-07-10T01:07:47.593711
 url: "/cdr-researcher-census/researchers/fangyuan-bian-a5054298/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wenchao Ma"
 description: "Wenchao Ma is a Mid-career Biochar researcher at Tianjin University in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.432106
+date: 2026-07-10T01:07:47.509697
 url: "/cdr-researcher-census/researchers/wenchao-ma-a5101664/"
 layout: "researcher"
 hiddenInHomeList: true

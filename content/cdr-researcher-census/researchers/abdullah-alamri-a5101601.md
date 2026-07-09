@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Alamri"
 description: "Abdullah Alamri is a Mid-career Unknown researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.630591
+date: 2026-07-10T01:07:48.590295
 url: "/cdr-researcher-census/researchers/abdullah-alamri-a5101601/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yicheng Hua"
 description: "Yicheng Hua is a Mid-career Unknown researcher at China University of Geosciences in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.990996
+date: 2026-07-10T01:07:48.909794
 url: "/cdr-researcher-census/researchers/yicheng-hua-a5005144/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuyue Li"
 description: "Shuyue Li is a Mid-career Soil Carbon researcher at Jining Medical University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.099162
+date: 2026-07-10T01:07:49.007707
 url: "/cdr-researcher-census/researchers/shuyue-li-a5003084/"
 layout: "researcher"
 hiddenInHomeList: true

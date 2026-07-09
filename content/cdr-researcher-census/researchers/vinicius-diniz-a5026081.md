@@ -1,7 +1,7 @@
 ---
 title: "Vinicíus Diniz"
 description: "Vinicíus Diniz is a Mid-career Unknown researcher at Queen Mary University of London in GB. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.063032
+date: 2026-07-10T01:07:48.066123
 url: "/cdr-researcher-census/researchers/vinicius-diniz-a5026081/"
 layout: "researcher"
 hiddenInHomeList: true

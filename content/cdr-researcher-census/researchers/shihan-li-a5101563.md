@@ -1,7 +1,7 @@
 ---
 title: "Shihan Li"
 description: "Shihan Li is a Senior General CDR researcher at Shanghai Lixin University of Accounting and Finance in CN. With 55 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.622716
+date: 2026-07-10T01:07:47.683173
 url: "/cdr-researcher-census/researchers/shihan-li-a5101563/"
 layout: "researcher"
 hiddenInHomeList: true

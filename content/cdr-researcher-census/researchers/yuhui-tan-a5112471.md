@@ -1,7 +1,7 @@
 ---
 title: "Yuhui Tan"
 description: "Yuhui Tan is a Mid-career Unknown researcher at Ministry of Agriculture in EE. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.100362
+date: 2026-07-10T01:07:49.008916
 url: "/cdr-researcher-census/researchers/yuhui-tan-a5112471/"
 layout: "researcher"
 hiddenInHomeList: true

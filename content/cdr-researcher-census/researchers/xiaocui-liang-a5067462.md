@@ -1,7 +1,7 @@
 ---
 title: "Xiaocui Liang"
 description: "Xiaocui Liang is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.786383
+date: 2026-07-10T01:07:48.728103
 url: "/cdr-researcher-census/researchers/xiaocui-liang-a5067462/"
 layout: "researcher"
 hiddenInHomeList: true

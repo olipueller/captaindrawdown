@@ -1,7 +1,7 @@
 ---
 title: "Sumit Rai"
 description: "Sumit Rai is a Senior Soil Carbon researcher at G.B. Pant Institute of Himalayan Environment and Development in IN. With 62 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.670004
+date: 2026-07-10T01:07:47.727225
 url: "/cdr-researcher-census/researchers/sumit-rai-a5101724/"
 layout: "researcher"
 hiddenInHomeList: true

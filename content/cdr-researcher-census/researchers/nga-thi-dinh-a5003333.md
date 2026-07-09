@@ -1,7 +1,7 @@
 ---
 title: "Nga Thi Dinh"
 description: "Nga Thi Dinh is a Mid-career Biochar researcher at Industrial University of Ho Chi Minh City in VN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.353211
+date: 2026-07-10T01:07:48.351460
 url: "/cdr-researcher-census/researchers/nga-thi-dinh-a5003333/"
 layout: "researcher"
 hiddenInHomeList: true

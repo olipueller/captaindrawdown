@@ -1,7 +1,7 @@
 ---
 title: "Ruiying Zhu"
 description: "Ruiying Zhu is a Mid-career Unknown researcher at Tianjin University of Science and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.416918
+date: 2026-07-10T01:07:48.407633
 url: "/cdr-researcher-census/researchers/ruiying-zhu-a5111334/"
 layout: "researcher"
 hiddenInHomeList: true

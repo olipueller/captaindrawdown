@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Venturini"
 description: "Lorenzo Venturini is a Mid-career Unknown researcher at University of Florence in IT. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.027302
+date: 2026-07-10T01:07:48.943286
 url: "/cdr-researcher-census/researchers/lorenzo-venturini-a5112658/"
 layout: "researcher"
 hiddenInHomeList: true

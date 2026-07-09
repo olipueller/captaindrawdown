@@ -1,7 +1,7 @@
 ---
 title: "R. Rajeshkannan"
 description: "R. Rajeshkannan is a Senior Unknown researcher. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.320971
+date: 2026-07-10T01:07:47.403294
 url: "/cdr-researcher-census/researchers/r-rajeshkannan-a5111065/"
 layout: "researcher"
 hiddenInHomeList: true

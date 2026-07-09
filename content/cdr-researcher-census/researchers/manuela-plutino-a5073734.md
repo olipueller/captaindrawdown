@@ -1,7 +1,7 @@
 ---
 title: "Manuela Plutino"
 description: "Manuela Plutino is a Senior Soil Carbon researcher at Azienda Usl 8 Arezzo in IT. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.849212
+date: 2026-07-10T01:07:47.885169
 url: "/cdr-researcher-census/researchers/manuela-plutino-a5073734/"
 layout: "researcher"
 hiddenInHomeList: true

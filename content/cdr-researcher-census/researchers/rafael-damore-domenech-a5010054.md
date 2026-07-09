@@ -1,7 +1,7 @@
 ---
 title: "Rafael d’Amore-Domenech"
 description: "Rafael d’Amore-Domenech is a Mid-career General CDR researcher at Universidad Politécnica de Madrid in ES. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.452488
+date: 2026-07-10T01:07:47.527935
 url: "/cdr-researcher-census/researchers/rafael-damore-domenech-a5010054/"
 layout: "researcher"
 hiddenInHomeList: true

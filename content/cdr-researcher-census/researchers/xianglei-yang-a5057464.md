@@ -1,7 +1,7 @@
 ---
 title: "Xianglei Yang"
 description: "Xianglei Yang is a Mid-career Unknown researcher at Yunnan Normal University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.319591
+date: 2026-07-10T01:07:48.320993
 url: "/cdr-researcher-census/researchers/xianglei-yang-a5057464/"
 layout: "researcher"
 hiddenInHomeList: true

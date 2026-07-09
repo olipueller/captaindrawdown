@@ -1,7 +1,7 @@
 ---
 title: "Daryoush Sanaei"
 description: "Daryoush Sanaei is a Mid-career Biochar researcher at Baqiyatallah University of Medical Sciences in IR. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.349430
+date: 2026-07-10T01:07:47.431922
 url: "/cdr-researcher-census/researchers/daryoush-sanaei-a5056549/"
 layout: "researcher"
 hiddenInHomeList: true

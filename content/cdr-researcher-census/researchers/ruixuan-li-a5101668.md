@@ -1,7 +1,7 @@
 ---
 title: "Ruixuan Li"
 description: "Ruixuan Li is a Senior Unknown researcher at University of Minnesota in US. With 56 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.611681
+date: 2026-07-10T01:07:47.673301
 url: "/cdr-researcher-census/researchers/ruixuan-li-a5101668/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thaer Abdulwahhab Shihab"
 description: "Thaer Abdulwahhab Shihab is a Mid-career Biochar researcher at University of Tabriz in IR. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.221402
+date: 2026-07-10T01:07:48.232261
 url: "/cdr-researcher-census/researchers/thaer-abdulwahhab-shihab-a5006975/"
 layout: "researcher"
 hiddenInHomeList: true

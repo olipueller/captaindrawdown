@@ -1,7 +1,7 @@
 ---
 title: "Shih-Chieh Chien"
 description: "Shih-Chieh Chien is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.668889
+date: 2026-07-10T01:07:48.624808
 url: "/cdr-researcher-census/researchers/shih-chieh-chien-a5087019/"
 layout: "researcher"
 hiddenInHomeList: true

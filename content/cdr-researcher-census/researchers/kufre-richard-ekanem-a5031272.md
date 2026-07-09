@@ -1,7 +1,7 @@
 ---
 title: "Kufre Richard Ekanem"
 description: "Kufre Richard Ekanem is an Early-career Unknown researcher. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.263272
+date: 2026-07-10T01:07:49.169567
 url: "/cdr-researcher-census/researchers/kufre-richard-ekanem-a5031272/"
 layout: "researcher"
 hiddenInHomeList: true

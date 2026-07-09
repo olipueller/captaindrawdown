@@ -1,7 +1,7 @@
 ---
 title: "Shaoyan Jiang"
 description: "Shaoyan Jiang is a Mid-career Biochar researcher at Shandong Institute of Business and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.054865
+date: 2026-07-10T01:07:48.059201
 url: "/cdr-researcher-census/researchers/shaoyan-jiang-a5068162/"
 layout: "researcher"
 hiddenInHomeList: true

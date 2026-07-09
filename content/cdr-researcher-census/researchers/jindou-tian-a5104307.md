@@ -1,7 +1,7 @@
 ---
 title: "Jindou Tian"
 description: "Jindou Tian is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.865303
+date: 2026-07-10T01:07:47.897441
 url: "/cdr-researcher-census/researchers/jindou-tian-a5104307/"
 layout: "researcher"
 hiddenInHomeList: true

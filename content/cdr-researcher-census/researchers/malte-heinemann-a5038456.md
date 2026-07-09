@@ -1,7 +1,7 @@
 ---
 title: "Malte Heinemann"
 description: "Malte Heinemann is a Senior Ocean CDR researcher at Christian-Albrechts-Universität zu Kiel in DE. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.277683
+date: 2026-07-10T01:07:47.360128
 url: "/cdr-researcher-census/researchers/malte-heinemann-a5038456/"
 layout: "researcher"
 hiddenInHomeList: true

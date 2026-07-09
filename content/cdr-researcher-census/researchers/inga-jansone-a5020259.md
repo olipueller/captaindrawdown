@@ -1,7 +1,7 @@
 ---
 title: "Inga Jansone"
 description: "Inga Jansone is a Mid-career Soil Carbon researcher at Institute for Environmental Solutions in LV. With 36 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.801714
+date: 2026-07-10T01:07:48.740431
 url: "/cdr-researcher-census/researchers/inga-jansone-a5020259/"
 layout: "researcher"
 hiddenInHomeList: true

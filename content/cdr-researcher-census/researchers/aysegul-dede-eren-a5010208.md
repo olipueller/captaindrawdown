@@ -1,7 +1,7 @@
 ---
 title: "Aysegul Dede Eren"
 description: "Aysegul Dede Eren is a Mid-career Unknown researcher at Technische Universiteit Eindhoven in NL. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.668427
+date: 2026-07-10T01:07:47.725635
 url: "/cdr-researcher-census/researchers/aysegul-dede-eren-a5010208/"
 layout: "researcher"
 hiddenInHomeList: true

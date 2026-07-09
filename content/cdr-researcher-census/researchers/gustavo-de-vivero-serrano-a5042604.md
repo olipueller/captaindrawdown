@@ -1,7 +1,7 @@
 ---
 title: "Gustavo De Vivero-Serrano"
 description: "Gustavo De Vivero-Serrano is a Mid-career General CDR researcher at NewClimate Institute in DE. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.453839
+date: 2026-07-10T01:07:48.442528
 url: "/cdr-researcher-census/researchers/gustavo-de-vivero-serrano-a5042604/"
 layout: "researcher"
 hiddenInHomeList: true

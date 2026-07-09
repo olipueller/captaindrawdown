@@ -1,7 +1,7 @@
 ---
 title: "Giulia Lotti"
 description: "Giulia Lotti is a Mid-career Biochar researcher at University of Florence in IT. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.007294
+date: 2026-07-10T01:07:48.015862
 url: "/cdr-researcher-census/researchers/giulia-lotti-a5027199/"
 layout: "researcher"
 hiddenInHomeList: true

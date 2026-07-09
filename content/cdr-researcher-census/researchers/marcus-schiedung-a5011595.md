@@ -1,7 +1,7 @@
 ---
 title: "Marcus Schiedung"
 description: "Marcus Schiedung is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 69 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.514478
+date: 2026-07-10T01:07:47.582566
 url: "/cdr-researcher-census/researchers/marcus-schiedung-a5011595/"
 layout: "researcher"
 hiddenInHomeList: true

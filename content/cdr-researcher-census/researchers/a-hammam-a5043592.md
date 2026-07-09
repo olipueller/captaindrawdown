@@ -1,7 +1,7 @@
 ---
 title: "A. Hammam"
 description: "A. Hammam is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.070572
+date: 2026-07-10T01:07:48.073273
 url: "/cdr-researcher-census/researchers/a-hammam-a5043592/"
 layout: "researcher"
 hiddenInHomeList: true

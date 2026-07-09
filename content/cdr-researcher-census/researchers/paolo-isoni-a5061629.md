@@ -1,7 +1,7 @@
 ---
 title: "Paolo Isoni"
 description: "Paolo Isoni is an Early-career General CDR researcher at ATS Sardegna (Italy) in IT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.573284
+date: 2026-07-10T01:07:48.551083
 url: "/cdr-researcher-census/researchers/paolo-isoni-a5061629/"
 layout: "researcher"
 hiddenInHomeList: true

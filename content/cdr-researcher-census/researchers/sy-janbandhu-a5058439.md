@@ -1,7 +1,7 @@
 ---
 title: "S.Y. Janbandhu"
 description: "S.Y. Janbandhu is a Mid-career Unknown researcher at Indian Institute of Information Technology, Nagpur in IN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.505971
+date: 2026-07-10T01:07:47.574888
 url: "/cdr-researcher-census/researchers/sy-janbandhu-a5058439/"
 layout: "researcher"
 hiddenInHomeList: true

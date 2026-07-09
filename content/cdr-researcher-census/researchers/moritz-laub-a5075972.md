@@ -1,7 +1,7 @@
 ---
 title: "Moritz Laub"
 description: "Moritz Laub is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 92 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.428105
+date: 2026-07-10T01:07:47.506132
 url: "/cdr-researcher-census/researchers/moritz-laub-a5075972/"
 layout: "researcher"
 hiddenInHomeList: true

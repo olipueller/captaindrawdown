@@ -1,7 +1,7 @@
 ---
 title: "Joyson Ahongshangbam"
 description: "Joyson Ahongshangbam is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.193178
+date: 2026-07-10T01:07:48.207261
 url: "/cdr-researcher-census/researchers/joyson-ahongshangbam-a5000276/"
 layout: "researcher"
 hiddenInHomeList: true

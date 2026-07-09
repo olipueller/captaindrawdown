@@ -1,7 +1,7 @@
 ---
 title: "Qiufang Zhang"
 description: "Qiufang Zhang is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 142 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.064027
+date: 2026-07-10T01:07:47.141323
 url: "/cdr-researcher-census/researchers/qiufang-zhang-a5042171/"
 layout: "researcher"
 hiddenInHomeList: true

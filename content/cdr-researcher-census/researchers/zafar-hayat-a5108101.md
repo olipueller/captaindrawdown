@@ -1,7 +1,7 @@
 ---
 title: "Zafar Hayat"
 description: "Zafar Hayat is a Mid-career Biochar researcher at Abdul Wali Khan University Mardan in PK. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.690828
+date: 2026-07-10T01:07:47.746872
 url: "/cdr-researcher-census/researchers/zafar-hayat-a5108101/"
 layout: "researcher"
 hiddenInHomeList: true

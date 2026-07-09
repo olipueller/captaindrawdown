@@ -1,7 +1,7 @@
 ---
 title: "Heather Goring‐Harford"
 description: "Heather Goring‐Harford is a Mid-career Enhanced Weathering researcher at University of Southampton in GB. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.166836
+date: 2026-07-10T01:07:48.184105
 url: "/cdr-researcher-census/researchers/heather-goringharford-a5070458/"
 layout: "researcher"
 hiddenInHomeList: true

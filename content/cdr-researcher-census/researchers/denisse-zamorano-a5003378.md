@@ -1,7 +1,7 @@
 ---
 title: "Denisse Zamorano"
 description: "Denisse Zamorano is a Mid-career Soil Carbon researcher at Universidad de La Frontera in CL. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.823693
+date: 2026-07-10T01:07:48.758394
 url: "/cdr-researcher-census/researchers/denisse-zamorano-a5003378/"
 layout: "researcher"
 hiddenInHomeList: true

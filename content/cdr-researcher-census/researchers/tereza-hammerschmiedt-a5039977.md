@@ -1,7 +1,7 @@
 ---
 title: "Tereza Hammerschmiedt"
 description: "Tereza Hammerschmiedt is a Senior Soil Carbon researcher at Mendel University Brno in CZ. With 77 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.135685
+date: 2026-07-10T01:07:47.224833
 url: "/cdr-researcher-census/researchers/tereza-hammerschmiedt-a5039977/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Castro Pires"
 description: "Gabriela Castro Pires is a Mid-career Unknown researcher at Universidade Federal de Rondônia in BR. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.282030
+date: 2026-07-10T01:07:48.287520
 url: "/cdr-researcher-census/researchers/gabriela-castro-pires-a5006767/"
 layout: "researcher"
 hiddenInHomeList: true

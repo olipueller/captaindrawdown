@@ -1,7 +1,7 @@
 ---
 title: "Yidan Gong"
 description: "Yidan Gong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.116547
+date: 2026-07-10T01:07:49.022588
 url: "/cdr-researcher-census/researchers/yidan-gong-a5073146/"
 layout: "researcher"
 hiddenInHomeList: true

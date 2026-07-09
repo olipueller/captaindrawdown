@@ -1,7 +1,7 @@
 ---
 title: "Kai‐Jher Tan"
 description: "Kai‐Jher Tan is a Mid-career Unknown researcher at IIT@MIT in US. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.734030
+date: 2026-07-10T01:07:47.786045
 url: "/cdr-researcher-census/researchers/kaijher-tan-a5022955/"
 layout: "researcher"
 hiddenInHomeList: true

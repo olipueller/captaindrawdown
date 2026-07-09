@@ -1,7 +1,7 @@
 ---
 title: "Angela Hofmann"
 description: "Angela Hofmann is a Mid-career Biochar researcher at Graduate Institute for Entrepreneurial Studies in JP. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.371504
+date: 2026-07-10T01:07:48.368165
 url: "/cdr-researcher-census/researchers/angela-hofmann-a5022183/"
 layout: "researcher"
 hiddenInHomeList: true

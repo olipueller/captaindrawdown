@@ -1,7 +1,7 @@
 ---
 title: "Zhipin Ai"
 description: "Zhipin Ai is a Mid-career General CDR researcher at Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Science in CN. With 61 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.486608
+date: 2026-07-10T01:07:47.558287
 url: "/cdr-researcher-census/researchers/zhipin-ai-a5006638/"
 layout: "researcher"
 hiddenInHomeList: true

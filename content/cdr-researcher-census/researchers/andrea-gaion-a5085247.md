@@ -1,7 +1,7 @@
 ---
 title: "Andrea Gaion"
 description: "Andrea Gaion is a Mid-career Ocean CDR researcher at Institute of Environmental Protection in PL. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.941394
+date: 2026-07-10T01:07:47.953893
 url: "/cdr-researcher-census/researchers/andrea-gaion-a5085247/"
 layout: "researcher"
 hiddenInHomeList: true

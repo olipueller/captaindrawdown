@@ -1,7 +1,7 @@
 ---
 title: "Chunhui Xue"
 description: "Chunhui Xue is a Mid-career Unknown researcher at Hainan University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.245667
+date: 2026-07-10T01:07:49.153663
 url: "/cdr-researcher-census/researchers/chunhui-xue-a5010579/"
 layout: "researcher"
 hiddenInHomeList: true

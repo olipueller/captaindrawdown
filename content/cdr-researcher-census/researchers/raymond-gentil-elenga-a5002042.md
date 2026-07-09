@@ -1,7 +1,7 @@
 ---
 title: "Raymond Gentil Elenga"
 description: "Raymond Gentil Elenga is a Senior Unknown researcher at Marien Ngouabi University in CG. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.967260
+date: 2026-07-10T01:07:47.977974
 url: "/cdr-researcher-census/researchers/raymond-gentil-elenga-a5002042/"
 layout: "researcher"
 hiddenInHomeList: true

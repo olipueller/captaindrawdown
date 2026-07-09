@@ -1,7 +1,7 @@
 ---
 title: "Sarra Gaspard"
 description: "Sarra Gaspard is a Senior Biochar researcher at Université des Antilles in GP. With 124 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.030357
+date: 2026-07-10T01:07:47.099643
 url: "/cdr-researcher-census/researchers/sarra-gaspard-a5069658/"
 layout: "researcher"
 hiddenInHomeList: true

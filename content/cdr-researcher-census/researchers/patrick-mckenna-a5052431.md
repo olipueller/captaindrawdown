@@ -1,7 +1,7 @@
 ---
 title: "Patrick McKenna"
 description: "Patrick McKenna is a Mid-career Unknown researcher at University of Leeds in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.795691
+date: 2026-07-10T01:07:48.735350
 url: "/cdr-researcher-census/researchers/patrick-mckenna-a5052431/"
 layout: "researcher"
 hiddenInHomeList: true

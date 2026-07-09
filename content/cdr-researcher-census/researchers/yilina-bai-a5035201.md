@@ -1,7 +1,7 @@
 ---
 title: "Yilina Bai"
 description: "Yilina Bai is a Mid-career Soil Carbon researcher at Chongqing Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.162190
+date: 2026-07-10T01:07:49.053133
 url: "/cdr-researcher-census/researchers/yilina-bai-a5035201/"
 layout: "researcher"
 hiddenInHomeList: true

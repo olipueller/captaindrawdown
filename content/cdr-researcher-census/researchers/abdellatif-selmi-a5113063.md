@@ -1,7 +1,7 @@
 ---
 title: "Abdellatif Selmi"
 description: "Abdellatif Selmi is a Mid-career General CDR researcher at Prince Sattam Bin Abdulaziz University in SA. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.686894
+date: 2026-07-10T01:07:48.641238
 url: "/cdr-researcher-census/researchers/abdellatif-selmi-a5113063/"
 layout: "researcher"
 hiddenInHomeList: true

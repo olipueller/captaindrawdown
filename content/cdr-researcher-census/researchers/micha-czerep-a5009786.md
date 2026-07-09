@@ -1,7 +1,7 @@
 ---
 title: "Michał Czerep"
 description: "Michał Czerep is a Mid-career BECCS researcher at Wrocław University of Science and Technology in PL. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.769387
+date: 2026-07-10T01:07:47.819543
 url: "/cdr-researcher-census/researchers/micha-czerep-a5009786/"
 layout: "researcher"
 hiddenInHomeList: true

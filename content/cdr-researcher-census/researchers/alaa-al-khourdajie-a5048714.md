@@ -1,7 +1,7 @@
 ---
 title: "Alaa Al Khourdajie"
 description: "Alaa Al Khourdajie is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 61 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.054292
+date: 2026-07-10T01:07:47.129917
 url: "/cdr-researcher-census/researchers/alaa-al-khourdajie-a5048714/"
 layout: "researcher"
 hiddenInHomeList: true

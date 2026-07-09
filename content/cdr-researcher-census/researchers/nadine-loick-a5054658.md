@@ -1,7 +1,7 @@
 ---
 title: "Nadine Loick"
 description: "Nadine Loick is a Senior Soil Carbon researcher at Rothamsted Research in GB. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.465735
+date: 2026-07-10T01:07:47.539191
 url: "/cdr-researcher-census/researchers/nadine-loick-a5054658/"
 layout: "researcher"
 hiddenInHomeList: true

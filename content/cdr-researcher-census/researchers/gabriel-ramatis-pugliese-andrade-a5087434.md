@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Ramatis Pugliese Andrade"
 description: "Gabriel Ramatis Pugliese Andrade is a Mid-career Soil Carbon researcher at State University of Norte Fluminense in BR. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.665532
+date: 2026-07-10T01:07:47.722795
 url: "/cdr-researcher-census/researchers/gabriel-ramatis-pugliese-andrade-a5087434/"
 layout: "researcher"
 hiddenInHomeList: true

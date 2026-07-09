@@ -1,7 +1,7 @@
 ---
 title: "Anum S. Hussaini"
 description: "Anum S. Hussaini is a Mid-career Unknown researcher at Brigham and Women's Hospital in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.213093
+date: 2026-07-10T01:07:48.225444
 url: "/cdr-researcher-census/researchers/anum-s-hussaini-a5071472/"
 layout: "researcher"
 hiddenInHomeList: true

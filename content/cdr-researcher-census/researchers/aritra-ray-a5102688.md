@@ -1,7 +1,7 @@
 ---
 title: "Aritra Ray"
 description: "Aritra Ray is an Early-career Unknown researcher at Purdue University West Lafayette in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.746072
+date: 2026-07-10T01:07:48.692749
 url: "/cdr-researcher-census/researchers/aritra-ray-a5102688/"
 layout: "researcher"
 hiddenInHomeList: true

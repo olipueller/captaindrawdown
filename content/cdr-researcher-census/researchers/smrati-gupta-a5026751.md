@@ -1,7 +1,7 @@
 ---
 title: "Smrati Gupta"
 description: "Smrati Gupta is a Mid-career Soil Carbon researcher at Indian Institute of Tropical Meteorology in IN. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.140027
+date: 2026-07-10T01:07:49.043083
 url: "/cdr-researcher-census/researchers/smrati-gupta-a5026751/"
 layout: "researcher"
 hiddenInHomeList: true

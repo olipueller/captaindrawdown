@@ -1,7 +1,7 @@
 ---
 title: "Dagmara Rusiecka"
 description: "Dagmara Rusiecka is a Mid-career Ocean CDR researcher at Bjerknes Centre for Climate Research in NO. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.658884
+date: 2026-07-10T01:07:47.716401
 url: "/cdr-researcher-census/researchers/dagmara-rusiecka-a5050517/"
 layout: "researcher"
 hiddenInHomeList: true

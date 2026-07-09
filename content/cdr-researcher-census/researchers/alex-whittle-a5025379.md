@@ -1,7 +1,7 @@
 ---
 title: "Alex Whittle"
 description: "Alex Whittle is a Mid-career Soil Carbon researcher at British Antarctic Survey in GB. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.198705
+date: 2026-07-10T01:07:49.111690
 url: "/cdr-researcher-census/researchers/alex-whittle-a5025379/"
 layout: "researcher"
 hiddenInHomeList: true

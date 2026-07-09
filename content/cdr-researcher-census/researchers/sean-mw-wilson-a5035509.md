@@ -1,7 +1,7 @@
 ---
 title: "Sean M.W. Wilson"
 description: "Sean M.W. Wilson is a Mid-career Unknown researcher at University of Ottawa in CA. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.727277
+date: 2026-07-10T01:07:47.779654
 url: "/cdr-researcher-census/researchers/sean-mw-wilson-a5035509/"
 layout: "researcher"
 hiddenInHomeList: true

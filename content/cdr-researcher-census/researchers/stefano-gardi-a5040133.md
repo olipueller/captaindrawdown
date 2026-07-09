@@ -1,7 +1,7 @@
 ---
 title: "Stefano Gardi"
 description: "Stefano Gardi is a Senior Unknown researcher at Piaggio (Italy) in IT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.089004
+date: 2026-07-10T01:07:48.998691
 url: "/cdr-researcher-census/researchers/stefano-gardi-a5040133/"
 layout: "researcher"
 hiddenInHomeList: true

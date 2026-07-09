@@ -1,7 +1,7 @@
 ---
 title: "Zhaojie Jia"
 description: "Zhaojie Jia is a Mid-career Unknown researcher at Shenyang Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.542860
+date: 2026-07-10T01:07:48.524147
 url: "/cdr-researcher-census/researchers/zhaojie-jia-a5112021/"
 layout: "researcher"
 hiddenInHomeList: true

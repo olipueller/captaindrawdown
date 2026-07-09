@@ -1,7 +1,7 @@
 ---
 title: "Yangmei Yu"
 description: "Yangmei Yu is a Mid-career Unknown researcher at Oulu University of Applied Sciences in FI. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.561960
+date: 2026-07-10T01:07:47.625899
 url: "/cdr-researcher-census/researchers/yangmei-yu-a5021684/"
 layout: "researcher"
 hiddenInHomeList: true

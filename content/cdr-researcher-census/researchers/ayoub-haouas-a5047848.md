@@ -1,7 +1,7 @@
 ---
 title: "Ayoub Haouas"
 description: "Ayoub Haouas is a Mid-career Unknown researcher at University of Parma in IT. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.185348
+date: 2026-07-10T01:07:48.200573
 url: "/cdr-researcher-census/researchers/ayoub-haouas-a5047848/"
 layout: "researcher"
 hiddenInHomeList: true

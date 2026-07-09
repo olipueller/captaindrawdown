@@ -1,7 +1,7 @@
 ---
 title: "Izabela Aleixo"
 description: "Izabela Aleixo is a Mid-career Soil Carbon researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.025741
+date: 2026-07-10T01:07:47.093580
 url: "/cdr-researcher-census/researchers/izabela-aleixo-a5049112/"
 layout: "researcher"
 hiddenInHomeList: true

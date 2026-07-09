@@ -1,7 +1,7 @@
 ---
 title: "Sofia Biffi"
 description: "Sofia Biffi is a Mid-career Soil Carbon researcher at University of Leeds in GB. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.256759
+date: 2026-07-10T01:07:48.264687
 url: "/cdr-researcher-census/researchers/sofia-biffi-a5054840/"
 layout: "researcher"
 hiddenInHomeList: true

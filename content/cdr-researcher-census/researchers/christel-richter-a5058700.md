@@ -1,7 +1,7 @@
 ---
 title: "Christel Richter"
 description: "Christel Richter is a Senior Soil Carbon researcher at Humboldt-Universität zu Berlin in DE. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.506281
+date: 2026-07-10T01:07:47.575364
 url: "/cdr-researcher-census/researchers/christel-richter-a5058700/"
 layout: "researcher"
 hiddenInHomeList: true

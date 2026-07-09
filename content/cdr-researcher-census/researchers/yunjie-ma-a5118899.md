@@ -1,7 +1,7 @@
 ---
 title: "Yunjie Ma"
 description: "Yunjie Ma is a Mid-career Unknown researcher at Southern University of Science and Technology in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.140528
+date: 2026-07-10T01:07:48.161662
 url: "/cdr-researcher-census/researchers/yunjie-ma-a5118899/"
 layout: "researcher"
 hiddenInHomeList: true

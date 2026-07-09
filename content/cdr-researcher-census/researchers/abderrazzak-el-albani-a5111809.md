@@ -1,7 +1,7 @@
 ---
 title: "Abderrazzak El Albani"
 description: "Abderrazzak El Albani is a Senior Unknown researcher at Institut de Chimie des Milieux et des Matériaux de Poitiers in FR. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.686274
+date: 2026-07-10T01:07:47.742558
 url: "/cdr-researcher-census/researchers/abderrazzak-el-albani-a5111809/"
 layout: "researcher"
 hiddenInHomeList: true

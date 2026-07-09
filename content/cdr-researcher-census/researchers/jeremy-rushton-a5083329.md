@@ -1,7 +1,7 @@
 ---
 title: "Jeremy Rushton"
 description: "Jeremy Rushton is a Senior General CDR researcher at British Geological Survey in GB. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.608208
+date: 2026-07-10T01:07:47.669847
 url: "/cdr-researcher-census/researchers/jeremy-rushton-a5083329/"
 layout: "researcher"
 hiddenInHomeList: true

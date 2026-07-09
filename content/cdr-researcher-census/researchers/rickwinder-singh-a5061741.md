@@ -1,7 +1,7 @@
 ---
 title: "Rickwinder Singh"
 description: "Rickwinder Singh is a Mid-career General CDR researcher at Malaviya National Institute of Technology Jaipur in IN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.575214
+date: 2026-07-10T01:07:47.638652
 url: "/cdr-researcher-census/researchers/rickwinder-singh-a5061741/"
 layout: "researcher"
 hiddenInHomeList: true

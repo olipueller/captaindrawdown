@@ -1,7 +1,7 @@
 ---
 title: "Enric Prats‐Salvado"
 description: "Enric Prats‐Salvado is a Mid-career General CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.048642
+date: 2026-07-10T01:07:48.962101
 url: "/cdr-researcher-census/researchers/enric-pratssalvado-a5076762/"
 layout: "researcher"
 hiddenInHomeList: true

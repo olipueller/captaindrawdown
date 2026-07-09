@@ -1,7 +1,7 @@
 ---
 title: "Alejandro Guevara"
 description: "Alejandro Guevara is a Senior Soil Carbon researcher at Ibero American University in MX. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.560731
+date: 2026-07-10T01:07:47.624762
 url: "/cdr-researcher-census/researchers/alejandro-guevara-a5109346/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chirasmita Mohanty"
 description: "Chirasmita Mohanty is a Mid-career Biochar researcher at Vellore Institute of Technology University in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.867775
+date: 2026-07-10T01:07:48.796606
 url: "/cdr-researcher-census/researchers/chirasmita-mohanty-a5087946/"
 layout: "researcher"
 hiddenInHomeList: true

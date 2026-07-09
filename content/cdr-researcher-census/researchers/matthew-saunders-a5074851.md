@@ -1,7 +1,7 @@
 ---
 title: "Matthew Saunders"
 description: "Matthew Saunders is a Senior Soil Carbon researcher at Trinity College Dublin in IE. With 166 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.962512
+date: 2026-07-10T01:07:47.001639
 url: "/cdr-researcher-census/researchers/matthew-saunders-a5074851/"
 layout: "researcher"
 hiddenInHomeList: true

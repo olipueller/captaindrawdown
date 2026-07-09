@@ -1,7 +1,7 @@
 ---
 title: "Cheulmin Joe"
 description: "Cheulmin Joe is an Early-career Unknown researcher at Life Cycle Engineering (United States) in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.301386
+date: 2026-07-10T01:07:48.304072
 url: "/cdr-researcher-census/researchers/cheulmin-joe-a5052265/"
 layout: "researcher"
 hiddenInHomeList: true

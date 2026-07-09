@@ -1,7 +1,7 @@
 ---
 title: "Tingyun Wang"
 description: "Tingyun Wang is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.118570
+date: 2026-07-10T01:07:49.024463
 url: "/cdr-researcher-census/researchers/tingyun-wang-a5100775/"
 layout: "researcher"
 hiddenInHomeList: true

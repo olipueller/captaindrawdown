@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Li"
 description: "Xiaojun Li is a Senior Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources in CN. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.079485
+date: 2026-07-10T01:07:47.160020
 url: "/cdr-researcher-census/researchers/xiaojun-li-a5100335/"
 layout: "researcher"
 hiddenInHomeList: true

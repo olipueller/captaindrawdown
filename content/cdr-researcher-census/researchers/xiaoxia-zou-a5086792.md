@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxia Zou"
 description: "Xiaoxia Zou is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 51 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.231095
+date: 2026-07-10T01:07:47.318274
 url: "/cdr-researcher-census/researchers/xiaoxia-zou-a5086792/"
 layout: "researcher"
 hiddenInHomeList: true

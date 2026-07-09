@@ -1,7 +1,7 @@
 ---
 title: "Qiaotong Pang"
 description: "Qiaotong Pang is a Mid-career Unknown researcher at Nanjing University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.021872
+date: 2026-07-10T01:07:48.029586
 url: "/cdr-researcher-census/researchers/qiaotong-pang-a5112544/"
 layout: "researcher"
 hiddenInHomeList: true

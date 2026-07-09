@@ -1,7 +1,7 @@
 ---
 title: "Jingrui Wang"
 description: "Jingrui Wang is a Mid-career Biochar researcher at State Grid Corporation of China (China) in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.655352
+date: 2026-07-10T01:07:47.712784
 url: "/cdr-researcher-census/researchers/jingrui-wang-a5100370/"
 layout: "researcher"
 hiddenInHomeList: true

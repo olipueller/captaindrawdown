@@ -1,7 +1,7 @@
 ---
 title: "Shuangrong Wu"
 description: "Shuangrong Wu is a Mid-career Unknown researcher at Tangshan College in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.877276
+date: 2026-07-10T01:07:48.804722
 url: "/cdr-researcher-census/researchers/shuangrong-wu-a5023405/"
 layout: "researcher"
 hiddenInHomeList: true

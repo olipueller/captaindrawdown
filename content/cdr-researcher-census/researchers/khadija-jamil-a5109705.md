@@ -1,7 +1,7 @@
 ---
 title: "Khadija Jamil"
 description: "Khadija Jamil is an Early-career Unknown researcher at Khwaja Fareed University of Engineering and Information Technology in PK. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.932723
+date: 2026-07-10T01:07:48.855849
 url: "/cdr-researcher-census/researchers/khadija-jamil-a5109705/"
 layout: "researcher"
 hiddenInHomeList: true

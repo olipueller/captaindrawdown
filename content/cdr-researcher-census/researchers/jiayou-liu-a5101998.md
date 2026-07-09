@@ -1,7 +1,7 @@
 ---
 title: "Jiayou Liu"
 description: "Jiayou Liu is a Senior Soil Carbon researcher at Foshan University in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.584501
+date: 2026-07-10T01:07:47.648060
 url: "/cdr-researcher-census/researchers/jiayou-liu-a5101998/"
 layout: "researcher"
 hiddenInHomeList: true

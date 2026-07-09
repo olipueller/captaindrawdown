@@ -1,7 +1,7 @@
 ---
 title: "M. A. da Silva Costa"
 description: "M. A. da Silva Costa is a Senior Unknown researcher at Universidade do Estado do Rio de Janeiro in BR. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.444796
+date: 2026-07-10T01:07:48.434461
 url: "/cdr-researcher-census/researchers/m-a-da-silva-costa-a5054246/"
 layout: "researcher"
 hiddenInHomeList: true

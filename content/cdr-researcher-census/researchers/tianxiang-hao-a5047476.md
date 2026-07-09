@@ -1,7 +1,7 @@
 ---
 title: "Tianxiang Hao"
 description: "Tianxiang Hao is a Senior Soil Carbon researcher at Institute of Geographic Sciences and Natural Resources Research in CN. With 50 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.111545
+date: 2026-07-10T01:07:47.197261
 url: "/cdr-researcher-census/researchers/tianxiang-hao-a5047476/"
 layout: "researcher"
 hiddenInHomeList: true

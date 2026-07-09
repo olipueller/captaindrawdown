@@ -1,7 +1,7 @@
 ---
 title: "Peilin Chen"
 description: "Peilin Chen is a Senior Unknown researcher at China University of Geosciences (Beijing) in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.634481
+date: 2026-07-10T01:07:48.593753
 url: "/cdr-researcher-census/researchers/peilin-chen-a5100648/"
 layout: "researcher"
 hiddenInHomeList: true

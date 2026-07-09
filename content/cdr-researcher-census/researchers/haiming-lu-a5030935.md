@@ -1,7 +1,7 @@
 ---
 title: "Haiming Lu"
 description: "Haiming Lu is a Senior Unknown researcher at State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.159762
+date: 2026-07-10T01:07:48.178182
 url: "/cdr-researcher-census/researchers/haiming-lu-a5030935/"
 layout: "researcher"
 hiddenInHomeList: true

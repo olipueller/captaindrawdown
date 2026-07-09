@@ -1,7 +1,7 @@
 ---
 title: "Sanna Saarnio"
 description: "Sanna Saarnio is a Senior Soil Carbon researcher at Luonnonvarakeskus in FI. With 93 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.981940
+date: 2026-07-10T01:07:47.032118
 url: "/cdr-researcher-census/researchers/sanna-saarnio-a5078270/"
 layout: "researcher"
 hiddenInHomeList: true

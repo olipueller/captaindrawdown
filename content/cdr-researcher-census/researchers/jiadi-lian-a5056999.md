@@ -1,7 +1,7 @@
 ---
 title: "Jiadi Lian"
 description: "Jiadi Lian is a Mid-career Unknown researcher at Hangzhou Dianzi University in CN. With 52 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.651633
+date: 2026-07-10T01:07:48.610118
 url: "/cdr-researcher-census/researchers/jiadi-lian-a5056999/"
 layout: "researcher"
 hiddenInHomeList: true

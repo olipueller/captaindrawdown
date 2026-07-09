@@ -1,7 +1,7 @@
 ---
 title: "Sayan Banerjee"
 description: "Sayan Banerjee is a Mid-career Unknown researcher at Georgia Institute of Technology in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.077472
+date: 2026-07-10T01:07:47.157472
 url: "/cdr-researcher-census/researchers/sayan-banerjee-a5043743/"
 layout: "researcher"
 hiddenInHomeList: true

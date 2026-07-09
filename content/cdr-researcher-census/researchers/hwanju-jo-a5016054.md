@@ -1,7 +1,7 @@
 ---
 title: "Hwanju Jo"
 description: "Hwanju Jo is a Mid-career Biochar researcher at Korea Institute of Geoscience and Mineral Resources in KR. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.663441
+date: 2026-07-10T01:07:47.720798
 url: "/cdr-researcher-census/researchers/hwanju-jo-a5016054/"
 layout: "researcher"
 hiddenInHomeList: true

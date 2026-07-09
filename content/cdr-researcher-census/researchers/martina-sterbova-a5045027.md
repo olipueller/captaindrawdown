@@ -1,7 +1,7 @@
 ---
 title: "Martina Štěrbová"
 description: "Martina Štěrbová is a Mid-career Soil Carbon researcher at National Forest Centre in SK. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.918699
+date: 2026-07-10T01:07:48.842697
 url: "/cdr-researcher-census/researchers/martina-sterbova-a5045027/"
 layout: "researcher"
 hiddenInHomeList: true

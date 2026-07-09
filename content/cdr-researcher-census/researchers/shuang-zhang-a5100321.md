@@ -1,7 +1,7 @@
 ---
 title: "Shuang Zhang"
 description: "Shuang Zhang is a Senior Enhanced Weathering researcher at Texas A&M University in US. With 458 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.942398
+date: 2026-07-10T01:07:46.969997
 url: "/cdr-researcher-census/researchers/shuang-zhang-a5100321/"
 layout: "researcher"
 hiddenInHomeList: true

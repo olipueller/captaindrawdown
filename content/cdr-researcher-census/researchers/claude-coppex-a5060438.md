@@ -1,7 +1,7 @@
 ---
 title: "Claude Coppex"
 description: "Claude Coppex is a Mid-career Unknown researcher at Karlsruhe Institute of Technology in DE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.774123
+date: 2026-07-10T01:07:47.823597
 url: "/cdr-researcher-census/researchers/claude-coppex-a5060438/"
 layout: "researcher"
 hiddenInHomeList: true

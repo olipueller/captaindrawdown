@@ -1,7 +1,7 @@
 ---
 title: "S. Rakesh"
 description: "S. Rakesh is a Mid-career Soil Carbon researcher at North Bengal Agricultural University in IN. With 63 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.616333
+date: 2026-07-10T01:07:47.677307
 url: "/cdr-researcher-census/researchers/s-rakesh-a5076747/"
 layout: "researcher"
 hiddenInHomeList: true

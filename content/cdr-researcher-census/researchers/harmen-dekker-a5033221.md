@@ -1,7 +1,7 @@
 ---
 title: "Harmen Dekker"
 description: "Harmen Dekker is a Senior Soil Carbon researcher at European Community Shipowners' Associations in BE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.474949
+date: 2026-07-10T01:07:48.462168
 url: "/cdr-researcher-census/researchers/harmen-dekker-a5033221/"
 layout: "researcher"
 hiddenInHomeList: true

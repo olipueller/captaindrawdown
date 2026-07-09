@@ -1,7 +1,7 @@
 ---
 title: "Florian Roquet"
 description: "Florian Roquet is a Mid-career Unknown researcher at Université Paris Cité in FR. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.862235
+date: 2026-07-10T01:07:47.897073
 url: "/cdr-researcher-census/researchers/florian-roquet-a5001068/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Timothy R. O’Meara"
 description: "Timothy R. O’Meara is a Mid-career BECCS researcher at Brigham and Women's Hospital in US. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.478710
+date: 2026-07-10T01:07:47.550924
 url: "/cdr-researcher-census/researchers/timothy-r-omeara-a5033604/"
 layout: "researcher"
 hiddenInHomeList: true

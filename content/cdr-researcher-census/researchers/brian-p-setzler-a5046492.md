@@ -1,7 +1,7 @@
 ---
 title: "Brian P. Setzler"
 description: "Brian P. Setzler is a Mid-career DAC researcher at University of Delaware in US. With 68 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.988146
+date: 2026-07-10T01:07:47.042538
 url: "/cdr-researcher-census/researchers/brian-p-setzler-a5046492/"
 layout: "researcher"
 hiddenInHomeList: true

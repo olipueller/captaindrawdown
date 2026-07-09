@@ -1,7 +1,7 @@
 ---
 title: "Adrian Lefvert"
 description: "Adrian Lefvert is a Mid-career General CDR researcher at KTH Royal Institute of Technology in SE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.292066
+date: 2026-07-10T01:07:48.296062
 url: "/cdr-researcher-census/researchers/adrian-lefvert-a5022308/"
 layout: "researcher"
 hiddenInHomeList: true

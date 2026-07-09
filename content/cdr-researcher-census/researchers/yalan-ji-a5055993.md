@@ -1,7 +1,7 @@
 ---
 title: "Yalan Ji"
 description: "Yalan Ji is a Mid-career Soil Carbon researcher at Rice Research Institute in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.317575
+date: 2026-07-10T01:07:48.319183
 url: "/cdr-researcher-census/researchers/yalan-ji-a5055993/"
 layout: "researcher"
 hiddenInHomeList: true

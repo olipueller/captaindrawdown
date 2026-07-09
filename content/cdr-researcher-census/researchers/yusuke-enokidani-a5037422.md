@@ -1,7 +1,7 @@
 ---
 title: "Yusuke Enokidani"
 description: "Yusuke Enokidani is a Mid-career Unknown researcher at Osaka Gakuin University in JP. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.377953
+date: 2026-07-10T01:07:48.374210
 url: "/cdr-researcher-census/researchers/yusuke-enokidani-a5037422/"
 layout: "researcher"
 hiddenInHomeList: true

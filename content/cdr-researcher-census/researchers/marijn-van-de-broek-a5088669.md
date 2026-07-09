@@ -1,7 +1,7 @@
 ---
 title: "Marijn Van de Broek"
 description: "Marijn Van de Broek is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 91 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.275366
+date: 2026-07-10T01:07:47.358025
 url: "/cdr-researcher-census/researchers/marijn-van-de-broek-a5088669/"
 layout: "researcher"
 hiddenInHomeList: true

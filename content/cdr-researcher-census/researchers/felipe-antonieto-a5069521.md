@@ -1,7 +1,7 @@
 ---
 title: "Felipe Antonieto"
 description: "Felipe Antonieto is an Early-career Unknown researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.334494
+date: 2026-07-10T01:07:48.334578
 url: "/cdr-researcher-census/researchers/felipe-antonieto-a5069521/"
 layout: "researcher"
 hiddenInHomeList: true

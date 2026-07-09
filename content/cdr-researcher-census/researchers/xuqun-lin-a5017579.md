@@ -1,7 +1,7 @@
 ---
 title: "Xuqun Lin"
 description: "Xuqun Lin is a Mid-career General CDR researcher at University of Technology Sydney in AU. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.099365
+date: 2026-07-10T01:07:48.125644
 url: "/cdr-researcher-census/researchers/xuqun-lin-a5017579/"
 layout: "researcher"
 hiddenInHomeList: true

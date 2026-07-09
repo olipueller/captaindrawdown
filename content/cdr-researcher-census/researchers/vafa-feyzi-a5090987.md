@@ -1,7 +1,7 @@
 ---
 title: "Vafa Feyzi"
 description: "Vafa Feyzi is a Mid-career General CDR researcher at IMDEA Energy Institute in ES. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.395509
+date: 2026-07-10T01:07:48.387838
 url: "/cdr-researcher-census/researchers/vafa-feyzi-a5090987/"
 layout: "researcher"
 hiddenInHomeList: true

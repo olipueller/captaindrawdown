@@ -1,7 +1,7 @@
 ---
 title: "Sanja Panić"
 description: "Sanja Panić is a Mid-career Biochar researcher at University of Novi Sad in RS. With 67 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.946860
+date: 2026-07-10T01:07:47.958757
 url: "/cdr-researcher-census/researchers/sanja-panic-a5087693/"
 layout: "researcher"
 hiddenInHomeList: true

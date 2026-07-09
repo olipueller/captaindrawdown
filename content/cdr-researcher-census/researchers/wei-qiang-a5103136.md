@@ -1,7 +1,7 @@
 ---
 title: "Wei Qiang"
 description: "Wei Qiang is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.184807
+date: 2026-07-10T01:07:49.099211
 url: "/cdr-researcher-census/researchers/wei-qiang-a5103136/"
 layout: "researcher"
 hiddenInHomeList: true

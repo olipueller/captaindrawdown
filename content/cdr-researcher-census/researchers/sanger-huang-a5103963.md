@@ -1,7 +1,7 @@
 ---
 title: "Sanger Huang"
 description: "Sanger Huang is a Mid-career General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.225859
+date: 2026-07-10T01:07:48.236229
 url: "/cdr-researcher-census/researchers/sanger-huang-a5103963/"
 layout: "researcher"
 hiddenInHomeList: true

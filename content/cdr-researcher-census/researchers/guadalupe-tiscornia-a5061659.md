@@ -1,7 +1,7 @@
 ---
 title: "Guadalupe Tiscornia"
 description: "Guadalupe Tiscornia is a Mid-career Soil Carbon researcher at Instituto Nacional de Investigación Agropecuaria in UY. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.986652
+date: 2026-07-10T01:07:47.995654
 url: "/cdr-researcher-census/researchers/guadalupe-tiscornia-a5061659/"
 layout: "researcher"
 hiddenInHomeList: true

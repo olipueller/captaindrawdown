@@ -1,7 +1,7 @@
 ---
 title: "Ee Ling Ng"
 description: "Ee Ling Ng is a Mid-career Soil Carbon researcher at Queensland Department of Environment and Science in AU. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.083269
+date: 2026-07-10T01:07:48.084477
 url: "/cdr-researcher-census/researchers/ee-ling-ng-a5084798/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Olalekan Simon Awoyemi"
 description: "Olalekan Simon Awoyemi is a Mid-career Unknown researcher at University of Newcastle Australia in AU. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.358685
+date: 2026-07-10T01:07:48.357102
 url: "/cdr-researcher-census/researchers/olalekan-simon-awoyemi-a5003081/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Penehuro Lefale"
 description: "Penehuro Lefale is a Senior General CDR researcher at University of the South Pacific in FJ. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.283394
+date: 2026-07-10T01:07:47.365689
 url: "/cdr-researcher-census/researchers/penehuro-lefale-a5035044/"
 layout: "researcher"
 hiddenInHomeList: true

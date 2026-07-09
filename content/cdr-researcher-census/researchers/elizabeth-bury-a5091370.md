@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Bury"
 description: "Elizabeth Bury is a Senior Unknown researcher at University of Alabama in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.603906
+date: 2026-07-10T01:07:48.566945
 url: "/cdr-researcher-census/researchers/elizabeth-bury-a5091370/"
 layout: "researcher"
 hiddenInHomeList: true

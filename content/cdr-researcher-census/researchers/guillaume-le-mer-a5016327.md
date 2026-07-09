@@ -1,7 +1,7 @@
 ---
 title: "Guillaume Le Mer"
 description: "Guillaume Le Mer is a Mid-career Unknown researcher at Nantes Université in FR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.466915
+date: 2026-07-10T01:07:48.454869
 url: "/cdr-researcher-census/researchers/guillaume-le-mer-a5016327/"
 layout: "researcher"
 hiddenInHomeList: true

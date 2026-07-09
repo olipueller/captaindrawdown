@@ -1,7 +1,7 @@
 ---
 title: "Shengbao Shi"
 description: "Shengbao Shi is a Senior Unknown researcher at China University of Petroleum, Beijing in CN. With 66 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.221035
+date: 2026-07-10T01:07:47.308096
 url: "/cdr-researcher-census/researchers/shengbao-shi-a5110009/"
 layout: "researcher"
 hiddenInHomeList: true

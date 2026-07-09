@@ -1,7 +1,7 @@
 ---
 title: "Xueya Zhou"
 description: "Xueya Zhou is a Mid-career Soil Carbon researcher at Peking University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.118333
+date: 2026-07-10T01:07:49.024250
 url: "/cdr-researcher-census/researchers/xueya-zhou-a5087264/"
 layout: "researcher"
 hiddenInHomeList: true

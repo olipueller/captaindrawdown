@@ -1,7 +1,7 @@
 ---
 title: "Job S. Kasule"
 description: "Job S. Kasule is a Mid-career Unknown researcher at Makerere University in UG. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.001574
+date: 2026-07-10T01:07:48.919775
 url: "/cdr-researcher-census/researchers/job-s-kasule-a5000616/"
 layout: "researcher"
 hiddenInHomeList: true

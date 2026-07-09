@@ -1,7 +1,7 @@
 ---
 title: "Sara Chadorshabi"
 description: "Sara Chadorshabi is a Mid-career Unknown researcher at Tabriz University of Medical Sciences in IR. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.785163
+date: 2026-07-10T01:07:48.727186
 url: "/cdr-researcher-census/researchers/sara-chadorshabi-a5001078/"
 layout: "researcher"
 hiddenInHomeList: true

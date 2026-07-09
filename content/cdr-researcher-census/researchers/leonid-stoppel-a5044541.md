@@ -1,7 +1,7 @@
 ---
 title: "Leonid Stoppel"
 description: "Leonid Stoppel is a Mid-career General CDR researcher at Karlsruhe Institute of Technology in DE. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.309049
+date: 2026-07-10T01:07:47.391124
 url: "/cdr-researcher-census/researchers/leonid-stoppel-a5044541/"
 layout: "researcher"
 hiddenInHomeList: true

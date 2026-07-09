@@ -1,7 +1,7 @@
 ---
 title: "Regi Freeman"
 description: "Regi Freeman is a Senior Unknown researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.282131
+date: 2026-07-10T01:07:48.287606
 url: "/cdr-researcher-census/researchers/regi-freeman-a5109615/"
 layout: "researcher"
 hiddenInHomeList: true

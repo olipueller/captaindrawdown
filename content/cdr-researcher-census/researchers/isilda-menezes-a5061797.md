@@ -1,7 +1,7 @@
 ---
 title: "Isilda Menezes"
 description: "Isilda Menezes is a Mid-career Unknown researcher. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.093734
+date: 2026-07-10T01:07:48.093512
 url: "/cdr-researcher-census/researchers/isilda-menezes-a5061797/"
 layout: "researcher"
 hiddenInHomeList: true

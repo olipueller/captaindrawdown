@@ -1,7 +1,7 @@
 ---
 title: "Lurdes Martínez-Landa"
 description: "Lurdes Martínez-Landa is a Senior Unknown researcher at Consejo Superior de Investigaciones Científicas in ES. With 57 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.658679
+date: 2026-07-10T01:07:47.716196
 url: "/cdr-researcher-census/researchers/lurdes-martinez-landa-a5075335/"
 layout: "researcher"
 hiddenInHomeList: true

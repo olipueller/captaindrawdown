@@ -1,7 +1,7 @@
 ---
 title: "Lucas Silva"
 description: "Lucas Silva is a Mid-career Unknown researcher at University of Bern in CH. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.849123
+date: 2026-07-10T01:07:48.780018
 url: "/cdr-researcher-census/researchers/lucas-silva-a5022217/"
 layout: "researcher"
 hiddenInHomeList: true

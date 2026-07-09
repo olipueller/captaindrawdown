@@ -1,7 +1,7 @@
 ---
 title: "Tao Zhang"
 description: "Tao Zhang is a Mid-career Ocean CDR researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.239390
+date: 2026-07-10T01:07:49.148190
 url: "/cdr-researcher-census/researchers/tao-zhang-a5100633/"
 layout: "researcher"
 hiddenInHomeList: true

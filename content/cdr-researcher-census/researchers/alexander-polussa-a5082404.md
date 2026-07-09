@@ -1,7 +1,7 @@
 ---
 title: "Alexander Polussa"
 description: "Alexander Polussa is a Mid-career General CDR researcher at Yale University in US. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.948827
+date: 2026-07-10T01:07:47.960587
 url: "/cdr-researcher-census/researchers/alexander-polussa-a5082404/"
 layout: "researcher"
 hiddenInHomeList: true

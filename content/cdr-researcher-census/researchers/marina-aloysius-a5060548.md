@@ -1,7 +1,7 @@
 ---
 title: "Marina Aloysius"
 description: "Marina Aloysius is a Senior Unknown researcher at Assumption College in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.203873
+date: 2026-07-10T01:07:48.217320
 url: "/cdr-researcher-census/researchers/marina-aloysius-a5060548/"
 layout: "researcher"
 hiddenInHomeList: true

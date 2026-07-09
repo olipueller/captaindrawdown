@@ -1,7 +1,7 @@
 ---
 title: "Abiodun Abdulhameed Amusa"
 description: "Abiodun Abdulhameed Amusa is a Mid-career Biochar researcher at Universiti Sains Malaysia in MY. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.215248
+date: 2026-07-10T01:07:48.227298
 url: "/cdr-researcher-census/researchers/abiodun-abdulhameed-amusa-a5068232/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Peijia Chen"
 description: "Peijia Chen is a Mid-career Unknown researcher at Southwest University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.660969
+date: 2026-07-10T01:07:48.617961
 url: "/cdr-researcher-census/researchers/peijia-chen-a5004699/"
 layout: "researcher"
 hiddenInHomeList: true

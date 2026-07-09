@@ -1,7 +1,7 @@
 ---
 title: "Christopher Ashman"
 description: "Christopher Ashman is a Mid-career BECCS researcher at Aberystwyth University in GB. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.248390
+date: 2026-07-10T01:07:49.155858
 url: "/cdr-researcher-census/researchers/christopher-ashman-a5112477/"
 layout: "researcher"
 hiddenInHomeList: true

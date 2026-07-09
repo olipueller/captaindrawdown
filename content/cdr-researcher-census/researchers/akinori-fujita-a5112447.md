@@ -1,7 +1,7 @@
 ---
 title: "Akinori Fujita"
 description: "Akinori Fujita is a Senior Biochar researcher at University of Hyogo in JP. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.605517
+date: 2026-07-10T01:07:48.568327
 url: "/cdr-researcher-census/researchers/akinori-fujita-a5112447/"
 layout: "researcher"
 hiddenInHomeList: true

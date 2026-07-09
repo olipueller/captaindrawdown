@@ -1,7 +1,7 @@
 ---
 title: "George Victor Brigagão"
 description: "George Victor Brigagão is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.630837
+date: 2026-07-10T01:07:47.690302
 url: "/cdr-researcher-census/researchers/george-victor-brigagao-a5054167/"
 layout: "researcher"
 hiddenInHomeList: true

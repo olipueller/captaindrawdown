@@ -1,7 +1,7 @@
 ---
 title: "Lianhai Wu"
 description: "Lianhai Wu is an Eminent Soil Carbon researcher at Seoul National University in KR. With 182 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.936471
+date: 2026-07-10T01:07:46.959602
 url: "/cdr-researcher-census/researchers/lianhai-wu-a5009643/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Coralie Perruche"
 description: "Coralie Perruche is a Senior Ocean CDR researcher at Mercator Ocean (France) in FR. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.404851
+date: 2026-07-10T01:07:47.484901
 url: "/cdr-researcher-census/researchers/coralie-perruche-a5059119/"
 layout: "researcher"
 hiddenInHomeList: true

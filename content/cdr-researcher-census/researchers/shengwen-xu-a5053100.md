@@ -1,7 +1,7 @@
 ---
 title: "Sheng‐Wen Xu"
 description: "Sheng‐Wen Xu is a Mid-career Unknown researcher at Nanjing University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.358588
+date: 2026-07-10T01:07:48.357017
 url: "/cdr-researcher-census/researchers/shengwen-xu-a5053100/"
 layout: "researcher"
 hiddenInHomeList: true

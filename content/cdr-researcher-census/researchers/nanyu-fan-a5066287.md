@@ -1,7 +1,7 @@
 ---
 title: "Nanyu Fan"
 description: "Nanyu Fan is a Mid-career Unknown researcher at China Three Gorges Corporation (China) in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.943744
+date: 2026-07-10T01:07:48.865958
 url: "/cdr-researcher-census/researchers/nanyu-fan-a5066287/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yanan Liu"
 description: "Yanan Liu is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.588721
+date: 2026-07-10T01:07:48.553053
 url: "/cdr-researcher-census/researchers/yanan-liu-a5100387/"
 layout: "researcher"
 hiddenInHomeList: true

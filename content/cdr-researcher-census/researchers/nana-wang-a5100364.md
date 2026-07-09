@@ -1,7 +1,7 @@
 ---
 title: "Nana Wang"
 description: "Nana Wang is a Mid-career Soil Carbon researcher at China West Normal University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.135946
+date: 2026-07-10T01:07:48.157798
 url: "/cdr-researcher-census/researchers/nana-wang-a5100364/"
 layout: "researcher"
 hiddenInHomeList: true

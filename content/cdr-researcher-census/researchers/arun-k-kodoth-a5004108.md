@@ -1,7 +1,7 @@
 ---
 title: "Arun K. Kodoth"
 description: "Arun K. Kodoth is a Mid-career Unknown researcher at Indian Institute of Technology Dharwad in IN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.862336
+date: 2026-07-10T01:07:47.897167
 url: "/cdr-researcher-census/researchers/arun-k-kodoth-a5004108/"
 layout: "researcher"
 hiddenInHomeList: true

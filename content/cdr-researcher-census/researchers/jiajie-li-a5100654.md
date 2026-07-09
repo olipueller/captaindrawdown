@@ -1,7 +1,7 @@
 ---
 title: "Jiajie Li"
 description: "Jiajie Li is an Early-career Unknown researcher at Beijing University of Posts and Telecommunications in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.069246
+date: 2026-07-10T01:07:48.980470
 url: "/cdr-researcher-census/researchers/jiajie-li-a5100654/"
 layout: "researcher"
 hiddenInHomeList: true

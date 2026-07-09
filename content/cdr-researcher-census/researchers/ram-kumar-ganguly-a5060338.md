@@ -1,7 +1,7 @@
 ---
 title: "Ram Kumar Ganguly"
 description: "Ram Kumar Ganguly is a Mid-career Biochar researcher at Vidyasagar University in IN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.850587
+date: 2026-07-10T01:07:47.886372
 url: "/cdr-researcher-census/researchers/ram-kumar-ganguly-a5060338/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Zahid Turan"
 description: "Abdullah Zahid Turan is a Senior Biochar researcher at TÜBİTAK Marmara Araştırma Merkezi in TR. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.698375
+date: 2026-07-10T01:07:47.753777
 url: "/cdr-researcher-census/researchers/abdullah-zahid-turan-a5043790/"
 layout: "researcher"
 hiddenInHomeList: true

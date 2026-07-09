@@ -1,7 +1,7 @@
 ---
 title: "Florian Keller"
 description: "Florian Keller is a Senior General CDR researcher at University of Zurich in CH. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.462980
+date: 2026-07-10T01:07:47.536939
 url: "/cdr-researcher-census/researchers/florian-keller-a5002112/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yawen Gui"
 description: "Yawen Gui is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.147490
+date: 2026-07-10T01:07:49.049705
 url: "/cdr-researcher-census/researchers/yawen-gui-a5112529/"
 layout: "researcher"
 hiddenInHomeList: true

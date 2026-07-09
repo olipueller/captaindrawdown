@@ -1,7 +1,7 @@
 ---
 title: "Ann‐Eline Debeer"
 description: "Ann‐Eline Debeer is a Senior General CDR researcher at Ghent University in BE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.506178
+date: 2026-07-10T01:07:47.575272
 url: "/cdr-researcher-census/researchers/anneline-debeer-a5039190/"
 layout: "researcher"
 hiddenInHomeList: true

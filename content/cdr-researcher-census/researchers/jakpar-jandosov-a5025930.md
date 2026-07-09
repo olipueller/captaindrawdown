@@ -1,7 +1,7 @@
 ---
 title: "Jakpar Jandosov"
 description: "Jakpar Jandosov is a Senior Unknown researcher at Al-Farabi Kazakh National University in KZ. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.093267
+date: 2026-07-10T01:07:48.093067
 url: "/cdr-researcher-census/researchers/jakpar-jandosov-a5025930/"
 layout: "researcher"
 hiddenInHomeList: true

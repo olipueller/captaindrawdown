@@ -1,7 +1,7 @@
 ---
 title: "Yingfen Yang"
 description: "Yingfen Yang is a Mid-career Unknown researcher at Yunnan Agricultural University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.827039
+date: 2026-07-10T01:07:48.761139
 url: "/cdr-researcher-census/researchers/yingfen-yang-a5102621/"
 layout: "researcher"
 hiddenInHomeList: true

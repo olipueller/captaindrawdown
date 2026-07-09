@@ -1,7 +1,7 @@
 ---
 title: "Shehzad Ahmad"
 description: "Shehzad Ahmad is a Mid-career Unknown researcher at University of the Punjab in PK. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.729885
+date: 2026-07-10T01:07:48.678786
 url: "/cdr-researcher-census/researchers/shehzad-ahmad-a5007217/"
 layout: "researcher"
 hiddenInHomeList: true

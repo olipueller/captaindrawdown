@@ -1,7 +1,7 @@
 ---
 title: "Amy Foulds"
 description: "Amy Foulds is a Mid-career Unknown researcher at University of Manchester in GB. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.917054
+date: 2026-07-10T01:07:47.930438
 url: "/cdr-researcher-census/researchers/amy-foulds-a5080884/"
 layout: "researcher"
 hiddenInHomeList: true

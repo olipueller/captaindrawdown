@@ -1,7 +1,7 @@
 ---
 title: "Edmund A. Halfyard"
 description: "Edmund A. Halfyard is a Mid-career Ocean CDR researcher at Nova Scotia Department of Agriculture in CA. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.507877
+date: 2026-07-10T01:07:47.576837
 url: "/cdr-researcher-census/researchers/edmund-a-halfyard-a5060224/"
 layout: "researcher"
 hiddenInHomeList: true

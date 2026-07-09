@@ -1,7 +1,7 @@
 ---
 title: "Dihua Dai"
 description: "Dihua Dai is a Mid-career Unknown researcher at Jilin University in CN. With 27 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.099215
+date: 2026-07-10T01:07:47.182937
 url: "/cdr-researcher-census/researchers/dihua-dai-a5065830/"
 layout: "researcher"
 hiddenInHomeList: true

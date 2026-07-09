@@ -1,7 +1,7 @@
 ---
 title: "JieMing Wang"
 description: "JieMing Wang is a Senior Unknown researcher at Beijing Institute of Technology in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.105449
+date: 2026-07-10T01:07:49.013289
 url: "/cdr-researcher-census/researchers/jieming-wang-a5043861/"
 layout: "researcher"
 hiddenInHomeList: true

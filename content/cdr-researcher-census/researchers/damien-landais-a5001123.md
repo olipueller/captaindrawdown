@@ -1,7 +1,7 @@
 ---
 title: "Damien Landais"
 description: "Damien Landais is a Senior Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 46 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.249497
+date: 2026-07-10T01:07:47.334353
 url: "/cdr-researcher-census/researchers/damien-landais-a5001123/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ben Pears"
 description: "Ben Pears is a Mid-career Soil Carbon researcher at University of Southampton in GB. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.489419
+date: 2026-07-10T01:07:47.560544
 url: "/cdr-researcher-census/researchers/ben-pears-a5070981/"
 layout: "researcher"
 hiddenInHomeList: true

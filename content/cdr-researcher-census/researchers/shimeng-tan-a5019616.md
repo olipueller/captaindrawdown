@@ -1,7 +1,7 @@
 ---
 title: "Shimeng Tan"
 description: "Shimeng Tan is a Mid-career Soil Carbon researcher at Institute of Plant Protection in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.641862
+date: 2026-07-10T01:07:48.600482
 url: "/cdr-researcher-census/researchers/shimeng-tan-a5019616/"
 layout: "researcher"
 hiddenInHomeList: true

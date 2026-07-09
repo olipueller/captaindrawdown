@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Deedahwar Mazhar Qureshi"
 description: "Muhammad Deedahwar Mazhar Qureshi is a Mid-career General CDR researcher at Technological University Dublin in IE. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.448276
+date: 2026-07-10T01:07:48.437380
 url: "/cdr-researcher-census/researchers/muhammad-deedahwar-mazhar-qureshi-a5013246/"
 layout: "researcher"
 hiddenInHomeList: true

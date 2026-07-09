@@ -1,7 +1,7 @@
 ---
 title: "Yichen Fang"
 description: "Yichen Fang is a Mid-career Unknown researcher at North China University of Water Resources and Electric Power in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.075458
+date: 2026-07-10T01:07:48.077948
 url: "/cdr-researcher-census/researchers/yichen-fang-a5050368/"
 layout: "researcher"
 hiddenInHomeList: true

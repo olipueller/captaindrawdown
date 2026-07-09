@@ -1,7 +1,7 @@
 ---
 title: "Xinru Gong"
 description: "Xinru Gong is an Early-career Unknown researcher at Sichuan Agricultural University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.046487
+date: 2026-07-10T01:07:48.959964
 url: "/cdr-researcher-census/researchers/xinru-gong-a5113372/"
 layout: "researcher"
 hiddenInHomeList: true

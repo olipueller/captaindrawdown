@@ -1,7 +1,7 @@
 ---
 title: "Bingxue Zhu"
 description: "Bingxue Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.030465
+date: 2026-07-10T01:07:48.037548
 url: "/cdr-researcher-census/researchers/bingxue-zhu-a5052112/"
 layout: "researcher"
 hiddenInHomeList: true

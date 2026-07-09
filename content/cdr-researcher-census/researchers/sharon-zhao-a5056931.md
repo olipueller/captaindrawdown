@@ -1,7 +1,7 @@
 ---
 title: "Sharon Zhao"
 description: "Sharon Zhao is a Senior Unknown researcher at Pacific Northwest National Laboratory in US. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.434332
+date: 2026-07-10T01:07:47.511751
 url: "/cdr-researcher-census/researchers/sharon-zhao-a5056931/"
 layout: "researcher"
 hiddenInHomeList: true

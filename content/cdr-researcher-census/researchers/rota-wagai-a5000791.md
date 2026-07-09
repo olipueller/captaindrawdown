@@ -1,7 +1,7 @@
 ---
 title: "Rota Wagai"
 description: "Rota Wagai is a Senior Soil Carbon researcher at National Agriculture and Food Research Organization in JP. With 169 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.945716
+date: 2026-07-10T01:07:46.976108
 url: "/cdr-researcher-census/researchers/rota-wagai-a5000791/"
 layout: "researcher"
 hiddenInHomeList: true

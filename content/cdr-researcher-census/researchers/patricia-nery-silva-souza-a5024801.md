@@ -1,7 +1,7 @@
 ---
 title: "Patrícia Nery Silva Souza"
 description: "Patrícia Nery Silva Souza is a Senior Unknown researcher at Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais in BR. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.983463
+date: 2026-07-10T01:07:48.903119
 url: "/cdr-researcher-census/researchers/patricia-nery-silva-souza-a5024801/"
 layout: "researcher"
 hiddenInHomeList: true

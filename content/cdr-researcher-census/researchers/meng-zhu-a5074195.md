@@ -1,7 +1,7 @@
 ---
 title: "Meng Zhu"
 description: "Meng Zhu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 94 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.056343
+date: 2026-07-10T01:07:47.132177
 url: "/cdr-researcher-census/researchers/meng-zhu-a5074195/"
 layout: "researcher"
 hiddenInHomeList: true

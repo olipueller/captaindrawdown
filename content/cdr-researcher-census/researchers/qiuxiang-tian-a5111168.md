@@ -1,7 +1,7 @@
 ---
 title: "Qiuxiang Tian"
 description: "Qiuxiang Tian is a Mid-career Soil Carbon researcher at Wuhan Botanical Garden, Chinese Academy of Sciences in CN. With 35 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.347374
+date: 2026-07-10T01:07:47.430038
 url: "/cdr-researcher-census/researchers/qiuxiang-tian-a5111168/"
 layout: "researcher"
 hiddenInHomeList: true

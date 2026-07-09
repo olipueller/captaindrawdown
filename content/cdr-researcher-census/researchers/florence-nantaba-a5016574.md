@@ -1,7 +1,7 @@
 ---
 title: "Florence Nantaba"
 description: "Florence Nantaba is a Mid-career Unknown researcher at Makerere University in UG. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.055098
+date: 2026-07-10T01:07:48.059372
 url: "/cdr-researcher-census/researchers/florence-nantaba-a5016574/"
 layout: "researcher"
 hiddenInHomeList: true

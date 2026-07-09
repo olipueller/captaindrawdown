@@ -1,7 +1,7 @@
 ---
 title: "Xiangkun Qi"
 description: "Xiangkun Qi is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.147627
+date: 2026-07-10T01:07:47.236410
 url: "/cdr-researcher-census/researchers/xiangkun-qi-a5061388/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yunsang Kim"
 description: "Yunsang Kim is a Senior Biochar researcher at Mississippi State University in US. With 51 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.297008
+date: 2026-07-10T01:07:47.379393
 url: "/cdr-researcher-census/researchers/yunsang-kim-a5054977/"
 layout: "researcher"
 hiddenInHomeList: true

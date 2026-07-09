@@ -1,7 +1,7 @@
 ---
 title: "Huazhen Wu"
 description: "Huazhen Wu is a Mid-career Unknown researcher at Qingdao University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.234843
+date: 2026-07-10T01:07:49.144075
 url: "/cdr-researcher-census/researchers/huazhen-wu-a5031516/"
 layout: "researcher"
 hiddenInHomeList: true

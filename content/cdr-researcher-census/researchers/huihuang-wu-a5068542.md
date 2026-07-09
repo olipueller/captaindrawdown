@@ -1,7 +1,7 @@
 ---
 title: "Huihuang Wu"
 description: "Huihuang Wu is a Mid-career Unknown researcher at Peking University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.787924
+date: 2026-07-10T01:07:48.729361
 url: "/cdr-researcher-census/researchers/huihuang-wu-a5068542/"
 layout: "researcher"
 hiddenInHomeList: true

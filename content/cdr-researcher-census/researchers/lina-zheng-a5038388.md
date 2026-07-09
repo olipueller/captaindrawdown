@@ -1,7 +1,7 @@
 ---
 title: "Lina Zheng"
 description: "Lina Zheng is a Mid-career Unknown researcher at China University of Mining and Technology in CN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.332154
+date: 2026-07-10T01:07:48.332505
 url: "/cdr-researcher-census/researchers/lina-zheng-a5038388/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nancy Chou"
 description: "Nancy Chou is a Mid-career Unknown researcher at University of Calgary in CA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.425826
+date: 2026-07-10T01:07:48.416095
 url: "/cdr-researcher-census/researchers/nancy-chou-a5060229/"
 layout: "researcher"
 hiddenInHomeList: true

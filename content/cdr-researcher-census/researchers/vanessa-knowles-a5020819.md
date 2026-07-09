@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Knowles"
 description: "Vanessa Knowles is a Senior Unknown researcher at Newcastle upon Tyne Hospitals NHS Foundation Trust in GB. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.108983
+date: 2026-07-10T01:07:48.134679
 url: "/cdr-researcher-census/researchers/vanessa-knowles-a5020819/"
 layout: "researcher"
 hiddenInHomeList: true

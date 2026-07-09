@@ -1,7 +1,7 @@
 ---
 title: "Mateus Guimarães da Silva"
 description: "Mateus Guimarães da Silva is a Mid-career Unknown researcher. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.192348
+date: 2026-07-10T01:07:49.106063
 url: "/cdr-researcher-census/researchers/mateus-guimaraes-da-silva-a5103196/"
 layout: "researcher"
 hiddenInHomeList: true

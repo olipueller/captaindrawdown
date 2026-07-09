@@ -1,7 +1,7 @@
 ---
 title: "Adi Kusmayadi"
 description: "Adi Kusmayadi is a Mid-career Unknown researcher at Indra (Spain) in ES. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.329097
+date: 2026-07-10T01:07:47.410954
 url: "/cdr-researcher-census/researchers/adi-kusmayadi-a5014650/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cristian Moya"
 description: "Cristian Moya is a Senior General CDR researcher at Universidad Rey Juan Carlos in ES. With 59 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.039661
+date: 2026-07-10T01:07:47.111899
 url: "/cdr-researcher-census/researchers/cristian-moya-a5077388/"
 layout: "researcher"
 hiddenInHomeList: true

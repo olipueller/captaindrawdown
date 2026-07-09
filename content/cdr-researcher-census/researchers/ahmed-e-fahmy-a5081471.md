@@ -1,7 +1,7 @@
 ---
 title: "Ahmed E. Fahmy"
 description: "Ahmed E. Fahmy is a Mid-career Unknown researcher at Egyptian Atomic Energy Authority in EG. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.663235
+date: 2026-07-10T01:07:47.720615
 url: "/cdr-researcher-census/researchers/ahmed-e-fahmy-a5081471/"
 layout: "researcher"
 hiddenInHomeList: true

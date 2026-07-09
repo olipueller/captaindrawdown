@@ -1,7 +1,7 @@
 ---
 title: "Lang Han"
 description: "Lang Han is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.745294
+date: 2026-07-10T01:07:47.797345
 url: "/cdr-researcher-census/researchers/lang-han-a5008391/"
 layout: "researcher"
 hiddenInHomeList: true

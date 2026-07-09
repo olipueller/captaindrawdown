@@ -1,7 +1,7 @@
 ---
 title: "Ali Mohammad Pourkhesalian"
 description: "Ali Mohammad Pourkhesalian is a Senior DAC researcher at Mayne Pharma (Australia) in AU. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.464616
+date: 2026-07-10T01:07:47.538259
 url: "/cdr-researcher-census/researchers/ali-mohammad-pourkhesalian-a5037128/"
 layout: "researcher"
 hiddenInHomeList: true

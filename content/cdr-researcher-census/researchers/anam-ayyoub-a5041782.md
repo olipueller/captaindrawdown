@@ -1,7 +1,7 @@
 ---
 title: "Anam Ayyoub"
 description: "Anam Ayyoub is a Mid-career Unknown researcher at Sichuan Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.903922
+date: 2026-07-10T01:07:48.829405
 url: "/cdr-researcher-census/researchers/anam-ayyoub-a5041782/"
 layout: "researcher"
 hiddenInHomeList: true

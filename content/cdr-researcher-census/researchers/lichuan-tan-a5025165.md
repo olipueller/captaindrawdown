@@ -1,7 +1,7 @@
 ---
 title: "Lichuan Tan"
 description: "Lichuan Tan is a Mid-career Unknown researcher at Dalian Polytechnic University in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.898318
+date: 2026-07-10T01:07:47.913103
 url: "/cdr-researcher-census/researchers/lichuan-tan-a5025165/"
 layout: "researcher"
 hiddenInHomeList: true

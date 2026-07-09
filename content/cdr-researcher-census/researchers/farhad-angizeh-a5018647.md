@@ -1,7 +1,7 @@
 ---
 title: "Farhad Angizeh"
 description: "Farhad Angizeh is a Mid-career Unknown researcher at Rutgers, The State University of New Jersey in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.218403
+date: 2026-07-10T01:07:48.229942
 url: "/cdr-researcher-census/researchers/farhad-angizeh-a5018647/"
 layout: "researcher"
 hiddenInHomeList: true

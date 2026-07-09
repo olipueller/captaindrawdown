@@ -1,7 +1,7 @@
 ---
 title: "Mingzhen Shi"
 description: "Mingzhen Shi is a Mid-career Unknown researcher at Ministry of Education of the People's Republic of China in CN. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.286650
+date: 2026-07-10T01:07:47.368855
 url: "/cdr-researcher-census/researchers/mingzhen-shi-a5052888/"
 layout: "researcher"
 hiddenInHomeList: true

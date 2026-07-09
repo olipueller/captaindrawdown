@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Guan"
 description: "Bingbing Guan is a Mid-career Unknown researcher at Guangxi University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.060920
+date: 2026-07-10T01:07:48.973443
 url: "/cdr-researcher-census/researchers/bingbing-guan-a5012690/"
 layout: "researcher"
 hiddenInHomeList: true

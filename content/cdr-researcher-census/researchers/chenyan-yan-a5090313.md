@@ -1,7 +1,7 @@
 ---
 title: "Chenyan Yan"
 description: "Chenyan Yan is a Mid-career Biochar researcher at Xi'an Jiaotong University in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.255706
+date: 2026-07-10T01:07:48.263756
 url: "/cdr-researcher-census/researchers/chenyan-yan-a5090313/"
 layout: "researcher"
 hiddenInHomeList: true

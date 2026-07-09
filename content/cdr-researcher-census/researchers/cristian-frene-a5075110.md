@@ -1,7 +1,7 @@
 ---
 title: "Cristián Frêne"
 description: "Cristián Frêne is a Senior Unknown researcher at Patagonian Ecosystems Investigation Research Center in CL. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.376403
+date: 2026-07-10T01:07:48.372621
 url: "/cdr-researcher-census/researchers/cristian-frene-a5075110/"
 layout: "researcher"
 hiddenInHomeList: true

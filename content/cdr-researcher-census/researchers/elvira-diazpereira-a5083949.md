@@ -1,7 +1,7 @@
 ---
 title: "Elvira Díaz‐Pereira"
 description: "Elvira Díaz‐Pereira is a Senior Soil Carbon researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 84 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.142643
+date: 2026-07-10T01:07:47.231458
 url: "/cdr-researcher-census/researchers/elvira-diazpereira-a5083949/"
 layout: "researcher"
 hiddenInHomeList: true

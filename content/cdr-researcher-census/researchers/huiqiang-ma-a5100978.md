@@ -1,7 +1,7 @@
 ---
 title: "Huiqiang Ma"
 description: "Huiqiang Ma is a Senior Biochar researcher at Liaoning Shihua University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.689128
+date: 2026-07-10T01:07:47.745392
 url: "/cdr-researcher-census/researchers/huiqiang-ma-a5100978/"
 layout: "researcher"
 hiddenInHomeList: true

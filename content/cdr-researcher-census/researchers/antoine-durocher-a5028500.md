@@ -1,7 +1,7 @@
 ---
 title: "Antoine Durocher"
 description: "Antoine Durocher is a Mid-career Unknown researcher. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.435898
+date: 2026-07-10T01:07:48.426055
 url: "/cdr-researcher-census/researchers/antoine-durocher-a5028500/"
 layout: "researcher"
 hiddenInHomeList: true

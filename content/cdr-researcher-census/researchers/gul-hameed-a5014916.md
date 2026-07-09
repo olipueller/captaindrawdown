@@ -1,7 +1,7 @@
 ---
 title: "Gul Hameed"
 description: "Gul Hameed is a Mid-career DAC researcher at University of Surrey in GB. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.111331
+date: 2026-07-10T01:07:49.018226
 url: "/cdr-researcher-census/researchers/gul-hameed-a5014916/"
 layout: "researcher"
 hiddenInHomeList: true

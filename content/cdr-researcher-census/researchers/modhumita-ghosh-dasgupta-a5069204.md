@@ -1,7 +1,7 @@
 ---
 title: "Modhumita Ghosh Dasgupta"
 description: "Modhumita Ghosh Dasgupta is a Senior Unknown researcher at Indian Council of Forestry Research and Education in IN. With 58 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.746101
+date: 2026-07-10T01:07:47.798047
 url: "/cdr-researcher-census/researchers/modhumita-ghosh-dasgupta-a5069204/"
 layout: "researcher"
 hiddenInHomeList: true

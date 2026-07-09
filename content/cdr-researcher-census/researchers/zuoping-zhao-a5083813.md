@@ -1,7 +1,7 @@
 ---
 title: "Zuoping Zhao"
 description: "Zuoping Zhao is a Senior Biochar researcher at Shaanxi University of Technology in CN. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.604437
+date: 2026-07-10T01:07:47.665983
 url: "/cdr-researcher-census/researchers/zuoping-zhao-a5083813/"
 layout: "researcher"
 hiddenInHomeList: true

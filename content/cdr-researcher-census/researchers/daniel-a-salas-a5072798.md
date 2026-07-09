@@ -1,7 +1,7 @@
 ---
 title: "Daniel A. Salas"
 description: "Daniel A. Salas is a Senior General CDR researcher at Escuela Superior Politecnica del Litoral in EC. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.371190
+date: 2026-07-10T01:07:47.453461
 url: "/cdr-researcher-census/researchers/daniel-a-salas-a5072798/"
 layout: "researcher"
 hiddenInHomeList: true

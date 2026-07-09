@@ -1,7 +1,7 @@
 ---
 title: "Dimitrios Nioras"
 description: "Dimitrios Nioras is a Mid-career Unknown researcher at National Technical University of Athens in GR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.483852
+date: 2026-07-10T01:07:48.470449
 url: "/cdr-researcher-census/researchers/dimitrios-nioras-a5029289/"
 layout: "researcher"
 hiddenInHomeList: true

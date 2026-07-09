@@ -1,7 +1,7 @@
 ---
 title: "Jingming Lan"
 description: "Jingming Lan is a Mid-career Unknown researcher at Harbin University of Science and Technology in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.599106
+date: 2026-07-10T01:07:47.661556
 url: "/cdr-researcher-census/researchers/jingming-lan-a5031454/"
 layout: "researcher"
 hiddenInHomeList: true

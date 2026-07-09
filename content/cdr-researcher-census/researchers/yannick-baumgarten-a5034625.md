@@ -1,7 +1,7 @@
 ---
 title: "Yannick Baumgarten"
 description: "Yannick Baumgarten is a Mid-career General CDR researcher at Fraunhofer Institute for Manufacturing Engineering and Automation in DE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.142838
+date: 2026-07-10T01:07:49.045575
 url: "/cdr-researcher-census/researchers/yannick-baumgarten-a5034625/"
 layout: "researcher"
 hiddenInHomeList: true

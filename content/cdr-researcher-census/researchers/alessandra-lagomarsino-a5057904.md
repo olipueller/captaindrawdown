@@ -1,7 +1,7 @@
 ---
 title: "Alessandra Lagomarsino"
 description: "Alessandra Lagomarsino is a Senior Soil Carbon researcher at Consiglio per la Ricerca in Agricoltura e l'analisi dell'economia agraria in IT. With 120 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.968572
+date: 2026-07-10T01:07:47.011373
 url: "/cdr-researcher-census/researchers/alessandra-lagomarsino-a5057904/"
 layout: "researcher"
 hiddenInHomeList: true

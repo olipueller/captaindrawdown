@@ -1,7 +1,7 @@
 ---
 title: "Riccardo Becchi"
 description: "Riccardo Becchi is a Mid-career Unknown researcher at University of Florence in IT. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.267116
+date: 2026-07-10T01:07:48.273484
 url: "/cdr-researcher-census/researchers/riccardo-becchi-a5081461/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "N. Bouchenafa-Saı̈b"
 description: "N. Bouchenafa-Saı̈b is a Senior Unknown researcher at University of Blida in DZ. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.994762
+date: 2026-07-10T01:07:48.004220
 url: "/cdr-researcher-census/researchers/n-bouchenafa-sab-a5049044/"
 layout: "researcher"
 hiddenInHomeList: true

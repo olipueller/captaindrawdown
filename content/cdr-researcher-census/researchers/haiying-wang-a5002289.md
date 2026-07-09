@@ -1,7 +1,7 @@
 ---
 title: "Haiying Wang"
 description: "Haiying Wang is an Early-career Unknown researcher at Central South University of Forestry and Technology in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.962083
+date: 2026-07-10T01:07:48.883232
 url: "/cdr-researcher-census/researchers/haiying-wang-a5002289/"
 layout: "researcher"
 hiddenInHomeList: true

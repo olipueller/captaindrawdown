@@ -1,7 +1,7 @@
 ---
 title: "Jaime Recio"
 description: "Jaime Recio is a Mid-career Soil Carbon researcher at Universidad Politécnica de Madrid in ES. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.635695
+date: 2026-07-10T01:07:47.695199
 url: "/cdr-researcher-census/researchers/jaime-recio-a5090819/"
 layout: "researcher"
 hiddenInHomeList: true

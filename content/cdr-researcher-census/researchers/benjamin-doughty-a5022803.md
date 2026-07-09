@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Doughty"
 description: "Benjamin Doughty is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 123 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.078694
+date: 2026-07-10T01:07:47.159204
 url: "/cdr-researcher-census/researchers/benjamin-doughty-a5022803/"
 layout: "researcher"
 hiddenInHomeList: true

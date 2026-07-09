@@ -1,7 +1,7 @@
 ---
 title: "Rajkishore Kumar"
 description: "Rajkishore Kumar is a Mid-career Soil Carbon researcher at Bihar Agricultural University in IN. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.234606
+date: 2026-07-10T01:07:48.244307
 url: "/cdr-researcher-census/researchers/rajkishore-kumar-a5112840/"
 layout: "researcher"
 hiddenInHomeList: true

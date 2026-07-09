@@ -1,7 +1,7 @@
 ---
 title: "Sarath C. Gowd"
 description: "Sarath C. Gowd is a Mid-career General CDR researcher at University of Borås in SE. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.584210
+date: 2026-07-10T01:07:47.647798
 url: "/cdr-researcher-census/researchers/sarath-c-gowd-a5063509/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fuyan Yang"
 description: "Fuyan Yang is a Mid-career Unknown researcher at Yunnan Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.841657
+date: 2026-07-10T01:07:47.877260
 url: "/cdr-researcher-census/researchers/fuyan-yang-a5113920/"
 layout: "researcher"
 hiddenInHomeList: true

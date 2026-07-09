@@ -1,7 +1,7 @@
 ---
 title: "Mike Bastidas"
 description: "Mike Bastidas is a Mid-career Soil Carbon researcher at University of Houston in US. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.176867
+date: 2026-07-10T01:07:49.066320
 url: "/cdr-researcher-census/researchers/mike-bastidas-a5032806/"
 layout: "researcher"
 hiddenInHomeList: true

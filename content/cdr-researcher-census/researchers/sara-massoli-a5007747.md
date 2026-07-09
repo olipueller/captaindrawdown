@@ -1,7 +1,7 @@
 ---
 title: "Sara Massoli"
 description: "Sara Massoli is a Mid-career General CDR researcher at University of Perugia in IT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.046191
+date: 2026-07-10T01:07:48.051674
 url: "/cdr-researcher-census/researchers/sara-massoli-a5007747/"
 layout: "researcher"
 hiddenInHomeList: true

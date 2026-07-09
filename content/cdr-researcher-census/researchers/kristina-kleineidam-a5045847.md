@@ -1,7 +1,7 @@
 ---
 title: "Kristina Kleineidam"
 description: "Kristina Kleineidam is a Senior Soil Carbon researcher at Justus Liebig Universität Gießen in DE. With 44 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.146153
+date: 2026-07-10T01:07:47.235083
 url: "/cdr-researcher-census/researchers/kristina-kleineidam-a5045847/"
 layout: "researcher"
 hiddenInHomeList: true

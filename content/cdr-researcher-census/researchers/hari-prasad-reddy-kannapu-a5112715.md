@@ -1,7 +1,7 @@
 ---
 title: "Hari Prasad Reddy Kannapu"
 description: "Hari Prasad Reddy Kannapu is a Mid-career DAC researcher at Kentucky imaging Technologies (United States) in US. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.588031
+date: 2026-07-10T01:07:47.651252
 url: "/cdr-researcher-census/researchers/hari-prasad-reddy-kannapu-a5112715/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xin Chen"
 description: "Xin Chen is a Senior Unknown researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.035143
+date: 2026-07-10T01:07:48.949910
 url: "/cdr-researcher-census/researchers/xin-chen-a5101803/"
 layout: "researcher"
 hiddenInHomeList: true

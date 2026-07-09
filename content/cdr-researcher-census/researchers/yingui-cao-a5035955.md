@@ -1,7 +1,7 @@
 ---
 title: "Yingui Cao"
 description: "Yingui Cao is a Senior General CDR researcher at Ministry of Agriculture and Land Reclamation in EG. With 70 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.118008
+date: 2026-07-10T01:07:47.204896
 url: "/cdr-researcher-census/researchers/yingui-cao-a5035955/"
 layout: "researcher"
 hiddenInHomeList: true

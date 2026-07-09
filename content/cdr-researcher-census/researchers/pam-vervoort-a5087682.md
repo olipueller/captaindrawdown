@@ -1,7 +1,7 @@
 ---
 title: "Pam Vervoort"
 description: "Pam Vervoort is a Mid-career Ocean CDR researcher at University of Birmingham in GB. With 48 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.594050
+date: 2026-07-10T01:07:48.558220
 url: "/cdr-researcher-census/researchers/pam-vervoort-a5087682/"
 layout: "researcher"
 hiddenInHomeList: true

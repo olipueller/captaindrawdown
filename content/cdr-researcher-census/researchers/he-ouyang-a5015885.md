@@ -1,7 +1,7 @@
 ---
 title: "He Ouyang"
 description: "He Ouyang is a Mid-career Unknown researcher at Guangxi Normal University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.663886
+date: 2026-07-10T01:07:48.620434
 url: "/cdr-researcher-census/researchers/he-ouyang-a5015885/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yunchuan Hu"
 description: "Yunchuan Hu is a Senior Soil Carbon researcher at Shangqiu Institute of Technology in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.442019
+date: 2026-07-10T01:07:48.431747
 url: "/cdr-researcher-census/researchers/yunchuan-hu-a5017864/"
 layout: "researcher"
 hiddenInHomeList: true

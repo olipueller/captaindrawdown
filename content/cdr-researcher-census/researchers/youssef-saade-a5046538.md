@@ -1,7 +1,7 @@
 ---
 title: "Youssef Saade"
 description: "Youssef Saade is a Mid-career Unknown researcher at Canon (Netherlands) in NL. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.270833
+date: 2026-07-10T01:07:48.276817
 url: "/cdr-researcher-census/researchers/youssef-saade-a5046538/"
 layout: "researcher"
 hiddenInHomeList: true

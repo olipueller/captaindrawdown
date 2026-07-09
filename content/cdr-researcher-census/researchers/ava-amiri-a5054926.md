@@ -1,7 +1,7 @@
 ---
 title: "Ava Amiri"
 description: "Ava Amiri is a Mid-career Unknown researcher at Iranian Institute for Health Sciences Research in IR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.985373
+date: 2026-07-10T01:07:48.904865
 url: "/cdr-researcher-census/researchers/ava-amiri-a5054926/"
 layout: "researcher"
 hiddenInHomeList: true

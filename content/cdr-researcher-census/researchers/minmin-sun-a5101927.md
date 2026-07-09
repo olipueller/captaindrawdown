@@ -1,7 +1,7 @@
 ---
 title: "Minmin Sun"
 description: "Minmin Sun is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.916267
+date: 2026-07-10T01:07:47.929542
 url: "/cdr-researcher-census/researchers/minmin-sun-a5101927/"
 layout: "researcher"
 hiddenInHomeList: true

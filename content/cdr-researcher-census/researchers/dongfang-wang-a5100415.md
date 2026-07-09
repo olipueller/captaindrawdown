@@ -1,7 +1,7 @@
 ---
 title: "Dongfang Wang"
 description: "Dongfang Wang is a Senior Biochar researcher. With 67 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.021530
+date: 2026-07-10T01:07:47.088063
 url: "/cdr-researcher-census/researchers/dongfang-wang-a5100415/"
 layout: "researcher"
 hiddenInHomeList: true

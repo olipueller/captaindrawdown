@@ -1,7 +1,7 @@
 ---
 title: "Guangshan Wei"
 description: "Guangshan Wei is a Mid-career Unknown researcher at Ministry of Natural Resources in CN. With 47 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.191902
+date: 2026-07-10T01:07:47.281110
 url: "/cdr-researcher-census/researchers/guangshan-wei-a5055451/"
 layout: "researcher"
 hiddenInHomeList: true

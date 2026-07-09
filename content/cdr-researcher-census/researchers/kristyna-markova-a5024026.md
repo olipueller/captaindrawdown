@@ -1,7 +1,7 @@
 ---
 title: "Kristýna Marková"
 description: "Kristýna Marková is a Mid-career Unknown researcher at Technical University of Liberec in CZ. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.554194
+date: 2026-07-10T01:07:48.534421
 url: "/cdr-researcher-census/researchers/kristyna-markova-a5024026/"
 layout: "researcher"
 hiddenInHomeList: true

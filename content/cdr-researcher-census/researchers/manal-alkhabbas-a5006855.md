@@ -1,7 +1,7 @@
 ---
 title: "Manal Alkhabbas"
 description: "Manal Alkhabbas is a Mid-career Unknown researcher at Isra University in PK. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.215389
+date: 2026-07-10T01:07:49.126713
 url: "/cdr-researcher-census/researchers/manal-alkhabbas-a5006855/"
 layout: "researcher"
 hiddenInHomeList: true

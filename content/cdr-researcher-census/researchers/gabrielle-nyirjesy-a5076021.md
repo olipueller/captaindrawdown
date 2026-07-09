@@ -1,7 +1,7 @@
 ---
 title: "Gabrielle Nyirjesy"
 description: "Gabrielle Nyirjesy is a Mid-career Unknown researcher at IBM (United States) in US. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.608389
+date: 2026-07-10T01:07:48.570643
 url: "/cdr-researcher-census/researchers/gabrielle-nyirjesy-a5076021/"
 layout: "researcher"
 hiddenInHomeList: true

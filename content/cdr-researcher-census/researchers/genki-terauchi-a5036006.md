@@ -1,7 +1,7 @@
 ---
 title: "Genki Terauchi"
 description: "Genki Terauchi is a Senior Ocean CDR researcher at Pacific Environment in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.992778
+date: 2026-07-10T01:07:48.002372
 url: "/cdr-researcher-census/researchers/genki-terauchi-a5036006/"
 layout: "researcher"
 hiddenInHomeList: true

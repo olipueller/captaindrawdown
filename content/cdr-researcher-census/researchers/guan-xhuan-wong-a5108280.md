@@ -1,7 +1,7 @@
 ---
 title: "Guan Xhuan Wong"
 description: "Guan Xhuan Wong is a Mid-career Unknown researcher. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.374073
+date: 2026-07-10T01:07:47.456286
 url: "/cdr-researcher-census/researchers/guan-xhuan-wong-a5108280/"
 layout: "researcher"
 hiddenInHomeList: true

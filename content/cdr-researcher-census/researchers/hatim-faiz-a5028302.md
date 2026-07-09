@@ -1,7 +1,7 @@
 ---
 title: "Hatim Faiz"
 description: "Hatim Faiz is a Mid-career Biochar researcher at Abdelmalek Essaâdi University in MA. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.001785
+date: 2026-07-10T01:07:48.919958
 url: "/cdr-researcher-census/researchers/hatim-faiz-a5028302/"
 layout: "researcher"
 hiddenInHomeList: true

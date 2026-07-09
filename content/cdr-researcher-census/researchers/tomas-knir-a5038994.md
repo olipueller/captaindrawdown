@@ -1,7 +1,7 @@
 ---
 title: "Tomáš Kníř"
 description: "Tomáš Kníř is a Mid-career Unknown researcher at Czech University of Life Sciences Prague in CZ. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.351396
+date: 2026-07-10T01:07:48.349626
 url: "/cdr-researcher-census/researchers/tomas-knir-a5038994/"
 layout: "researcher"
 hiddenInHomeList: true

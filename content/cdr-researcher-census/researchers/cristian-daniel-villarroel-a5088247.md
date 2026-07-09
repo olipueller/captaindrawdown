@@ -1,7 +1,7 @@
 ---
 title: "Cristian Daniel Villarroel"
 description: "Cristian Daniel Villarroel is a Mid-career Unknown researcher at Geosphere and Biosphere Research Center - National Council for Scientific and Technical Research (CIGEOBIO-CONICET) in AR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.645646
+date: 2026-07-10T01:07:48.604359
 url: "/cdr-researcher-census/researchers/cristian-daniel-villarroel-a5088247/"
 layout: "researcher"
 hiddenInHomeList: true

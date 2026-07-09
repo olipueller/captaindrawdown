@@ -1,7 +1,7 @@
 ---
 title: "Yutai Zhang"
 description: "Yutai Zhang is a Senior Unknown researcher at Zhejiang International Studies University in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.700152
+date: 2026-07-10T01:07:47.755170
 url: "/cdr-researcher-census/researchers/yutai-zhang-a5022799/"
 layout: "researcher"
 hiddenInHomeList: true

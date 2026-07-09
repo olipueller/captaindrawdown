@@ -1,7 +1,7 @@
 ---
 title: "Vildan Özkan"
 description: "Vildan Özkan is a Senior Unknown researcher at İskenderun Technical University in TR. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.400236
+date: 2026-07-10T01:07:48.392118
 url: "/cdr-researcher-census/researchers/vildan-ozkan-a5018165/"
 layout: "researcher"
 hiddenInHomeList: true

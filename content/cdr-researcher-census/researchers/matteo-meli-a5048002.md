@@ -1,7 +1,7 @@
 ---
 title: "Matteo Meli"
 description: "Matteo Meli is a Mid-career Unknown researcher at University of Bologna in IT. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.703123
+date: 2026-07-10T01:07:48.655791
 url: "/cdr-researcher-census/researchers/matteo-meli-a5048002/"
 layout: "researcher"
 hiddenInHomeList: true

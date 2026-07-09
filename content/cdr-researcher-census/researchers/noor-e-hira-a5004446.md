@@ -1,7 +1,7 @@
 ---
 title: "Noor e Hira"
 description: "Noor e Hira is an Early-career Unknown researcher at Monash University Malaysia in MY. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.912730
+date: 2026-07-10T01:07:48.837408
 url: "/cdr-researcher-census/researchers/noor-e-hira-a5004446/"
 layout: "researcher"
 hiddenInHomeList: true

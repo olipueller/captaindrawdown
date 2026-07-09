@@ -1,7 +1,7 @@
 ---
 title: "Zhenyuan Niu"
 description: "Zhenyuan Niu is a Mid-career Unknown researcher at Fujian University of Traditional Chinese Medicine in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.574633
+date: 2026-07-10T01:07:47.638182
 url: "/cdr-researcher-census/researchers/zhenyuan-niu-a5102249/"
 layout: "researcher"
 hiddenInHomeList: true

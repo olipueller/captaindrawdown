@@ -1,7 +1,7 @@
 ---
 title: "Apoorva M. Ranjekar"
 description: "Apoorva M. Ranjekar is a Mid-career Unknown researcher at University of Kansas in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.664436
+date: 2026-07-10T01:07:47.721802
 url: "/cdr-researcher-census/researchers/apoorva-m-ranjekar-a5069511/"
 layout: "researcher"
 hiddenInHomeList: true

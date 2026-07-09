@@ -1,7 +1,7 @@
 ---
 title: "Maoping Ye"
 description: "Maoping Ye is an Early-career Biochar researcher at Sichuan Normal University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.073804
+date: 2026-07-10T01:07:48.984867
 url: "/cdr-researcher-census/researchers/maoping-ye-a5090176/"
 layout: "researcher"
 hiddenInHomeList: true

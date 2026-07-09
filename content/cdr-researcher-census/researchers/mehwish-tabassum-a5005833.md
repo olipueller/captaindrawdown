@@ -1,7 +1,7 @@
 ---
 title: "Mehwish Tabassum"
 description: "Mehwish Tabassum is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.482656
+date: 2026-07-10T01:07:48.469371
 url: "/cdr-researcher-census/researchers/mehwish-tabassum-a5005833/"
 layout: "researcher"
 hiddenInHomeList: true

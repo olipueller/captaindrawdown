@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Zhao"
 description: "Zhiyuan Zhao is a Senior Ocean CDR researcher at Royal Netherlands Institute for Sea Research in NL. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.389081
+date: 2026-07-10T01:07:48.382620
 url: "/cdr-researcher-census/researchers/zhiyuan-zhao-a5103218/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "William Huddleston"
 description: "William Huddleston is a Mid-career Unknown researcher at Glenn Research Center in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.127822
+date: 2026-07-10T01:07:48.151156
 url: "/cdr-researcher-census/researchers/william-huddleston-a5059828/"
 layout: "researcher"
 hiddenInHomeList: true

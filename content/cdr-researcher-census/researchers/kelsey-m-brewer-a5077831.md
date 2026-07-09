@@ -1,7 +1,7 @@
 ---
 title: "Kelsey M. Brewer"
 description: "Kelsey M. Brewer is a Mid-career Soil Carbon researcher at Point Blue Conservation Science in US. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.804219
+date: 2026-07-10T01:07:47.851426
 url: "/cdr-researcher-census/researchers/kelsey-m-brewer-a5077831/"
 layout: "researcher"
 hiddenInHomeList: true

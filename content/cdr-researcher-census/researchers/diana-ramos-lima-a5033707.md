@@ -1,7 +1,7 @@
 ---
 title: "Diana Ramos Lima"
 description: "Diana Ramos Lima is a Senior Biochar researcher at Universidade Federal do Rio Grande do Sul in BR. With 27 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.199469
+date: 2026-07-10T01:07:47.288519
 url: "/cdr-researcher-census/researchers/diana-ramos-lima-a5033707/"
 layout: "researcher"
 hiddenInHomeList: true

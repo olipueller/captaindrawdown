@@ -1,7 +1,7 @@
 ---
 title: "Katja Schmidt"
 description: "Katja Schmidt is a Mid-career Soil Carbon researcher at University of Potsdam in DE. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.647472
+date: 2026-07-10T01:07:47.706389
 url: "/cdr-researcher-census/researchers/katja-schmidt-a5034510/"
 layout: "researcher"
 hiddenInHomeList: true

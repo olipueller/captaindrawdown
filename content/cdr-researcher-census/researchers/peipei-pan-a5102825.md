@@ -1,7 +1,7 @@
 ---
 title: "Peipei Pan"
 description: "Peipei Pan is an Early-career Unknown researcher at Hebei Normal University in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.999362
+date: 2026-07-10T01:07:48.917424
 url: "/cdr-researcher-census/researchers/peipei-pan-a5102825/"
 layout: "researcher"
 hiddenInHomeList: true

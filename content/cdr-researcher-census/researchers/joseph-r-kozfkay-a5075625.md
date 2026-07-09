@@ -1,7 +1,7 @@
 ---
 title: "Joseph R. Kozfkay"
 description: "Joseph R. Kozfkay is a Senior Unknown researcher at Idaho Department of Fish and Game in US. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.683761
+date: 2026-07-10T01:07:48.638737
 url: "/cdr-researcher-census/researchers/joseph-r-kozfkay-a5075625/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ninghui Xie"
 description: "Ninghui Xie is a Mid-career Soil Carbon researcher at Inner Mongolia University for Nationalities in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.056521
+date: 2026-07-10T01:07:48.060582
 url: "/cdr-researcher-census/researchers/ninghui-xie-a5065551/"
 layout: "researcher"
 hiddenInHomeList: true

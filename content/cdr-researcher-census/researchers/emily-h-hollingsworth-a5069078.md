@@ -1,7 +1,7 @@
 ---
 title: "Emily H. Hollingsworth"
 description: "Emily H. Hollingsworth is an Early-career Unknown researcher at National Oceanography Centre in GB. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.250130
+date: 2026-07-10T01:07:49.157468
 url: "/cdr-researcher-census/researchers/emily-h-hollingsworth-a5069078/"
 layout: "researcher"
 hiddenInHomeList: true

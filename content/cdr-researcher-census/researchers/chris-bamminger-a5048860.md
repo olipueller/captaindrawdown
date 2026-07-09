@@ -1,7 +1,7 @@
 ---
 title: "Chris Bamminger"
 description: "Chris Bamminger is a Mid-career Unknown researcher at Ministerium für Verkehr des Landes Nordrhein-Westfalen in DE. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.246053
+date: 2026-07-10T01:07:47.331748
 url: "/cdr-researcher-census/researchers/chris-bamminger-a5048860/"
 layout: "researcher"
 hiddenInHomeList: true

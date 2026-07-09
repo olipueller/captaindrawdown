@@ -1,7 +1,7 @@
 ---
 title: "Barbora Kamenická"
 description: "Barbora Kamenická is a Mid-career Biochar researcher at Czech Academy of Sciences, Institute of Chemical Process Fundamentals in CZ. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.212172
+date: 2026-07-10T01:07:48.224685
 url: "/cdr-researcher-census/researchers/barbora-kamenicka-a5022209/"
 layout: "researcher"
 hiddenInHomeList: true

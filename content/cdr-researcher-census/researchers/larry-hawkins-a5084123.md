@@ -1,7 +1,7 @@
 ---
 title: "Larry Hawkins"
 description: "Larry Hawkins is a Senior Unknown researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.934933
+date: 2026-07-10T01:07:48.857723
 url: "/cdr-researcher-census/researchers/larry-hawkins-a5084123/"
 layout: "researcher"
 hiddenInHomeList: true

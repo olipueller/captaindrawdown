@@ -1,7 +1,7 @@
 ---
 title: "Vedran Milanković"
 description: "Vedran Milanković is a Mid-career Unknown researcher at University of Belgrade in RS. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.920419
+date: 2026-07-10T01:07:47.934009
 url: "/cdr-researcher-census/researchers/vedran-milankovic-a5049312/"
 layout: "researcher"
 hiddenInHomeList: true

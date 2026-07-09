@@ -1,7 +1,7 @@
 ---
 title: "Stéphane Boivin"
 description: "Stéphane Boivin is a Mid-career Unknown researcher at Valorhiz in FR. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.395575
+date: 2026-07-10T01:07:47.476490
 url: "/cdr-researcher-census/researchers/stephane-boivin-a5031025/"
 layout: "researcher"
 hiddenInHomeList: true

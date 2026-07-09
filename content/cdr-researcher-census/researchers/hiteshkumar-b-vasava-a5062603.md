@@ -1,7 +1,7 @@
 ---
 title: "Hiteshkumar B. Vasava"
 description: "Hiteshkumar B. Vasava is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.444585
+date: 2026-07-10T01:07:47.520581
 url: "/cdr-researcher-census/researchers/hiteshkumar-b-vasava-a5062603/"
 layout: "researcher"
 hiddenInHomeList: true

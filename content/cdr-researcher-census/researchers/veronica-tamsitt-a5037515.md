@@ -1,7 +1,7 @@
 ---
 title: "Veronica Tamsitt"
 description: "Veronica Tamsitt is a Mid-career Ocean CDR researcher at CSIRO in AU. With 62 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.183862
+date: 2026-07-10T01:07:47.272850
 url: "/cdr-researcher-census/researchers/veronica-tamsitt-a5037515/"
 layout: "researcher"
 hiddenInHomeList: true

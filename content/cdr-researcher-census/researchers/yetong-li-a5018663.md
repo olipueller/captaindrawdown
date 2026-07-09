@@ -1,7 +1,7 @@
 ---
 title: "Yetong Li"
 description: "Yetong Li is a Mid-career Unknown researcher at Beijing Normal University in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.456886
+date: 2026-07-10T01:07:47.531590
 url: "/cdr-researcher-census/researchers/yetong-li-a5018663/"
 layout: "researcher"
 hiddenInHomeList: true

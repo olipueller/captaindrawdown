@@ -1,7 +1,7 @@
 ---
 title: "Jian Zhao"
 description: "Jian Zhao is a Senior Unknown researcher at Beijing University of Posts and Telecommunications in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.359724
+date: 2026-07-10T01:07:47.441487
 url: "/cdr-researcher-census/researchers/jian-zhao-a5007033/"
 layout: "researcher"
 hiddenInHomeList: true

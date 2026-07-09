@@ -1,7 +1,7 @@
 ---
 title: "Shiyu Deng"
 description: "Shiyu Deng is an Early-career Soil Carbon researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.128719
+date: 2026-07-10T01:07:49.033582
 url: "/cdr-researcher-census/researchers/shiyu-deng-a5078548/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pengxi Cao"
 description: "Pengxi Cao is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.893766
+date: 2026-07-10T01:07:47.908747
 url: "/cdr-researcher-census/researchers/pengxi-cao-a5030666/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Erni Salasia Fitri"
 description: "Erni Salasia Fitri is a Mid-career Biochar researcher at Sriwijaya University in ID. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.001693
+date: 2026-07-10T01:07:48.919870
 url: "/cdr-researcher-census/researchers/erni-salasia-fitri-a5067879/"
 layout: "researcher"
 hiddenInHomeList: true

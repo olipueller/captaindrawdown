@@ -1,7 +1,7 @@
 ---
 title: "Iwona Kaczmarzyk"
 description: "Iwona Kaczmarzyk is an Early-career Biochar researcher. With 21 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.483430
+date: 2026-07-10T01:07:48.470062
 url: "/cdr-researcher-census/researchers/iwona-kaczmarzyk-a5080396/"
 layout: "researcher"
 hiddenInHomeList: true

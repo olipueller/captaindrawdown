@@ -1,7 +1,7 @@
 ---
 title: "Ruobing Cao"
 description: "Ruobing Cao is a Mid-career Unknown researcher at Shanghai Jiao Tong University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.253439
+date: 2026-07-10T01:07:48.261462
 url: "/cdr-researcher-census/researchers/ruobing-cao-a5012652/"
 layout: "researcher"
 hiddenInHomeList: true

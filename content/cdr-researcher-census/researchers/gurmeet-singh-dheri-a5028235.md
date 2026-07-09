@@ -1,7 +1,7 @@
 ---
 title: "Gurmeet Singh Dheri"
 description: "Gurmeet Singh Dheri is a Senior Soil Carbon researcher at Punjab Agricultural University in IN. With 62 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.166700
+date: 2026-07-10T01:07:47.256352
 url: "/cdr-researcher-census/researchers/gurmeet-singh-dheri-a5028235/"
 layout: "researcher"
 hiddenInHomeList: true

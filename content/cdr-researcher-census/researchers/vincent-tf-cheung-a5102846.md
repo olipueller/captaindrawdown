@@ -1,7 +1,7 @@
 ---
 title: "Vincent T.F Cheung"
 description: "Vincent T.F Cheung is a Senior Unknown researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.894944
+date: 2026-07-10T01:07:47.910074
 url: "/cdr-researcher-census/researchers/vincent-tf-cheung-a5102846/"
 layout: "researcher"
 hiddenInHomeList: true

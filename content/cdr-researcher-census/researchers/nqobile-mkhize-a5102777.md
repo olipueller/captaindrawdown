@@ -1,7 +1,7 @@
 ---
 title: "Nqobile Mkhize"
 description: "Nqobile Mkhize is an Early-career Unknown researcher at Durban University of Technology in ZA. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.618967
+date: 2026-07-10T01:07:47.679749
 url: "/cdr-researcher-census/researchers/nqobile-mkhize-a5102777/"
 layout: "researcher"
 hiddenInHomeList: true

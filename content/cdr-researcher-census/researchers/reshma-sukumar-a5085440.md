@@ -1,7 +1,7 @@
 ---
 title: "Reshma Sukumar"
 description: "Reshma Sukumar is a Senior Unknown researcher at Indian Institute of Science Bangalore in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.171885
+date: 2026-07-10T01:07:49.061915
 url: "/cdr-researcher-census/researchers/reshma-sukumar-a5085440/"
 layout: "researcher"
 hiddenInHomeList: true

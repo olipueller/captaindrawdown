@@ -1,7 +1,7 @@
 ---
 title: "Siyuan Liu"
 description: "Siyuan Liu is a Mid-career Unknown researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.805936
+date: 2026-07-10T01:07:48.744414
 url: "/cdr-researcher-census/researchers/siyuan-liu-a5060559/"
 layout: "researcher"
 hiddenInHomeList: true

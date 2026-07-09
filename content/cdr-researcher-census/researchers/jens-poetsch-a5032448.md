@@ -1,7 +1,7 @@
 ---
 title: "Jens Poetsch"
 description: "Jens Poetsch is a Mid-career Unknown researcher at Rottenburg University of Applied Forest Sciences in DE. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.727528
+date: 2026-07-10T01:07:48.676982
 url: "/cdr-researcher-census/researchers/jens-poetsch-a5032448/"
 layout: "researcher"
 hiddenInHomeList: true

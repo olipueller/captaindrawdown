@@ -1,7 +1,7 @@
 ---
 title: "Zanbu Geng"
 description: "Zanbu Geng is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.101601
+date: 2026-07-10T01:07:48.127927
 url: "/cdr-researcher-census/researchers/zanbu-geng-a5041610/"
 layout: "researcher"
 hiddenInHomeList: true

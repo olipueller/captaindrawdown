@@ -1,7 +1,7 @@
 ---
 title: "Wuletawu Abera"
 description: "Wuletawu Abera is a Senior Soil Carbon researcher at Alliance of Bioversity International and International Center for Tropical Agriculture in GH. With 134 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.133531
+date: 2026-07-10T01:07:47.222506
 url: "/cdr-researcher-census/researchers/wuletawu-abera-a5016166/"
 layout: "researcher"
 hiddenInHomeList: true

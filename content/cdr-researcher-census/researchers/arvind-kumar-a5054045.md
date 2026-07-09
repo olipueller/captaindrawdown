@@ -1,7 +1,7 @@
 ---
 title: "Arvind Kumar"
 description: "Arvind Kumar is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.722849
+date: 2026-07-10T01:07:47.775713
 url: "/cdr-researcher-census/researchers/arvind-kumar-a5054045/"
 layout: "researcher"
 hiddenInHomeList: true

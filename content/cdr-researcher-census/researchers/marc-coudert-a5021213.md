@@ -1,7 +1,7 @@
 ---
 title: "Marc Coudert"
 description: "Marc Coudert is a Mid-career Unknown researcher at Action Network in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.861779
+date: 2026-07-10T01:07:48.791335
 url: "/cdr-researcher-census/researchers/marc-coudert-a5021213/"
 layout: "researcher"
 hiddenInHomeList: true

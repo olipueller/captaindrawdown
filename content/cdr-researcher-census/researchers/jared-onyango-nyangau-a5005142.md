@@ -1,7 +1,7 @@
 ---
 title: "Jared Onyango Nyangáu"
 description: "Jared Onyango Nyangáu is a Mid-career Biochar researcher at Aarhus University in DK. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.843096
+date: 2026-07-10T01:07:47.878602
 url: "/cdr-researcher-census/researchers/jared-onyango-nyangau-a5005142/"
 layout: "researcher"
 hiddenInHomeList: true

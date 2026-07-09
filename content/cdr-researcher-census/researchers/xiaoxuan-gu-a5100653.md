@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxuan Gu"
 description: "Xiaoxuan Gu is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.453952
+date: 2026-07-10T01:07:48.442623
 url: "/cdr-researcher-census/researchers/xiaoxuan-gu-a5100653/"
 layout: "researcher"
 hiddenInHomeList: true

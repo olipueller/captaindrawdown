@@ -1,7 +1,7 @@
 ---
 title: "Jeremiah X. Johnson"
 description: "Jeremiah X. Johnson is a Senior General CDR researcher at North Carolina State University in US. With 86 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.034091
+date: 2026-07-10T01:07:47.104385
 url: "/cdr-researcher-census/researchers/jeremiah-x-johnson-a5020251/"
 layout: "researcher"
 hiddenInHomeList: true

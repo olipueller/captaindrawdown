@@ -1,7 +1,7 @@
 ---
 title: "Jiejie Jiao"
 description: "Jiejie Jiao is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 48 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.710047
+date: 2026-07-10T01:07:47.764410
 url: "/cdr-researcher-census/researchers/jiejie-jiao-a5078648/"
 layout: "researcher"
 hiddenInHomeList: true

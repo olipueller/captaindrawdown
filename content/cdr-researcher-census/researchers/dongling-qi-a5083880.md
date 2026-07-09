@@ -1,7 +1,7 @@
 ---
 title: "Dongling Qi"
 description: "Dongling Qi is a Senior Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.162958
+date: 2026-07-10T01:07:48.180919
 url: "/cdr-researcher-census/researchers/dongling-qi-a5083880/"
 layout: "researcher"
 hiddenInHomeList: true

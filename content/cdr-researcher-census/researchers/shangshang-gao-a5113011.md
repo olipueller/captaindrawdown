@@ -1,7 +1,7 @@
 ---
 title: "Shangshang Gao"
 description: "Shangshang Gao is an Early-career Unknown researcher at Zhejiang University of Technology in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.946312
+date: 2026-07-10T01:07:48.868286
 url: "/cdr-researcher-census/researchers/shangshang-gao-a5113011/"
 layout: "researcher"
 hiddenInHomeList: true

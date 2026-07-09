@@ -1,7 +1,7 @@
 ---
 title: "Gianluca Del Papa"
 description: "Gianluca Del Papa is a Mid-career General CDR researcher at Marconi University in IT. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.954874
+date: 2026-07-10T01:07:47.966170
 url: "/cdr-researcher-census/researchers/gianluca-del-papa-a5032788/"
 layout: "researcher"
 hiddenInHomeList: true

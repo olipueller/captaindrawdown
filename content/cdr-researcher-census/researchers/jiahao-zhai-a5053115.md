@@ -1,7 +1,7 @@
 ---
 title: "Jiahao Zhai"
 description: "Jiahao Zhai is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.189361
+date: 2026-07-10T01:07:49.103342
 url: "/cdr-researcher-census/researchers/jiahao-zhai-a5053115/"
 layout: "researcher"
 hiddenInHomeList: true

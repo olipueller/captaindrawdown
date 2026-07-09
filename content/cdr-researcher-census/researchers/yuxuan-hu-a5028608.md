@@ -1,7 +1,7 @@
 ---
 title: "Yuxuan Hu"
 description: "Yuxuan Hu is a Mid-career Unknown researcher at Hunan University of Arts and Science in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.275734
+date: 2026-07-10T01:07:48.281423
 url: "/cdr-researcher-census/researchers/yuxuan-hu-a5028608/"
 layout: "researcher"
 hiddenInHomeList: true

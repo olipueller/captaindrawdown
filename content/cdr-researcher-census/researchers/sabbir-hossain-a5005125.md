@@ -1,7 +1,7 @@
 ---
 title: "Sabbir Hossain"
 description: "Sabbir Hossain is a Mid-career Unknown researcher. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.623845
+date: 2026-07-10T01:07:47.684118
 url: "/cdr-researcher-census/researchers/sabbir-hossain-a5005125/"
 layout: "researcher"
 hiddenInHomeList: true

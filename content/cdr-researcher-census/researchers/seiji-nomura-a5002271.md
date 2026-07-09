@@ -1,7 +1,7 @@
 ---
 title: "Seiji Nomura"
 description: "Seiji Nomura is a Mid-career Unknown researcher at Mazda Motor Corporation (Japan) in JP. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.203006
+date: 2026-07-10T01:07:49.115740
 url: "/cdr-researcher-census/researchers/seiji-nomura-a5002271/"
 layout: "researcher"
 hiddenInHomeList: true

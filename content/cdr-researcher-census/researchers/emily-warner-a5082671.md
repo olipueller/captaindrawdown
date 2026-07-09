@@ -1,7 +1,7 @@
 ---
 title: "Emily Warner"
 description: "Emily Warner is a Senior Soil Carbon researcher at Leverhulme Trust in GB. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.143420
+date: 2026-07-10T01:07:48.163766
 url: "/cdr-researcher-census/researchers/emily-warner-a5082671/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jianfang Kang"
 description: "Jianfang Kang is a Mid-career General CDR researcher at Northwest Institute of Eco-Environment and Resources in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.382217
+date: 2026-07-10T01:07:48.377862
 url: "/cdr-researcher-census/researchers/jianfang-kang-a5047629/"
 layout: "researcher"
 hiddenInHomeList: true

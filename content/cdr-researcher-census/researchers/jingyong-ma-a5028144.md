@@ -1,7 +1,7 @@
 ---
 title: "Jingyong Ma"
 description: "Jingyong Ma is a Mid-career Unknown researcher at Lanzhou University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.703620
+date: 2026-07-10T01:07:47.758079
 url: "/cdr-researcher-census/researchers/jingyong-ma-a5028144/"
 layout: "researcher"
 hiddenInHomeList: true

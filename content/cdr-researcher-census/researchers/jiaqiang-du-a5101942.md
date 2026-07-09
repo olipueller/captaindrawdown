@@ -1,7 +1,7 @@
 ---
 title: "Jiaqiang Du"
 description: "Jiaqiang Du is a Senior Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.293425
+date: 2026-07-10T01:07:47.375641
 url: "/cdr-researcher-census/researchers/jiaqiang-du-a5101942/"
 layout: "researcher"
 hiddenInHomeList: true

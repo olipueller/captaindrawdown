@@ -1,7 +1,7 @@
 ---
 title: "Agnes Clare Odimarha"
 description: "Agnes Clare Odimarha is a Mid-career Unknown researcher. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.594721
+date: 2026-07-10T01:07:47.657831
 url: "/cdr-researcher-census/researchers/agnes-clare-odimarha-a5094224/"
 layout: "researcher"
 hiddenInHomeList: true

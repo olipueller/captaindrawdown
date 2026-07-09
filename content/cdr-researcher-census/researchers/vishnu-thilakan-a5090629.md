@@ -1,7 +1,7 @@
 ---
 title: "Vishnu Thilakan"
 description: "Vishnu Thilakan is a Mid-career General CDR researcher at Max Planck Society in DE. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.632353
+date: 2026-07-10T01:07:48.591865
 url: "/cdr-researcher-census/researchers/vishnu-thilakan-a5090629/"
 layout: "researcher"
 hiddenInHomeList: true

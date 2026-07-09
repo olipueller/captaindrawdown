@@ -1,7 +1,7 @@
 ---
 title: "Linwei Wang"
 description: "Linwei Wang is a Mid-career Unknown researcher at Guangdong Shunde Innovative Design Institute in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.204310
+date: 2026-07-10T01:07:49.116934
 url: "/cdr-researcher-census/researchers/linwei-wang-a5013798/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kian P. Lopez"
 description: "Kian P. Lopez is a Mid-career Unknown researcher at University of Colorado Boulder in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.156041
+date: 2026-07-10T01:07:48.175166
 url: "/cdr-researcher-census/researchers/kian-p-lopez-a5017154/"
 layout: "researcher"
 hiddenInHomeList: true

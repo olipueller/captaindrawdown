@@ -1,7 +1,7 @@
 ---
 title: "Sophie Willcocks"
 description: "Sophie Willcocks is a Mid-career Unknown researcher at Children’s Health Queensland Hospital and Health Service in AU. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.408105
+date: 2026-07-10T01:07:48.399618
 url: "/cdr-researcher-census/researchers/sophie-willcocks-a5060930/"
 layout: "researcher"
 hiddenInHomeList: true

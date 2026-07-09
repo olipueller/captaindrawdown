@@ -1,7 +1,7 @@
 ---
 title: "Sneha Ullhas Naik"
 description: "Sneha Ullhas Naik is a Mid-career Biochar researcher at M S Ramaiah University of Applied Sciences in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.146452
+date: 2026-07-10T01:07:48.166458
 url: "/cdr-researcher-census/researchers/sneha-ullhas-naik-a5039047/"
 layout: "researcher"
 hiddenInHomeList: true

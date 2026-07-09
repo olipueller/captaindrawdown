@@ -1,7 +1,7 @@
 ---
 title: "Ben Soltane Bassem"
 description: "Ben Soltane Bassem is a Senior Unknown researcher at University of Gafsa in TN. With 14 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.735560
+date: 2026-07-10T01:07:47.787684
 url: "/cdr-researcher-census/researchers/ben-soltane-bassem-a5038324/"
 layout: "researcher"
 hiddenInHomeList: true

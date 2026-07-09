@@ -1,7 +1,7 @@
 ---
 title: "Márcia Cristina da Cunha Veloso"
 description: "Márcia Cristina da Cunha Veloso is a Senior Biochar researcher at Universidade Federal Fluminense in BR. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.734419
+date: 2026-07-10T01:07:47.786466
 url: "/cdr-researcher-census/researchers/marcia-cristina-da-cunha-veloso-a5111925/"
 layout: "researcher"
 hiddenInHomeList: true

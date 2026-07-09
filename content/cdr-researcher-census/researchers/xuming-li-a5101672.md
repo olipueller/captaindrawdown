@@ -1,7 +1,7 @@
 ---
 title: "Xuming Li"
 description: "Xuming Li is a Mid-career Unknown researcher at Universität Hamburg in DE. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.724132
+date: 2026-07-10T01:07:48.673741
 url: "/cdr-researcher-census/researchers/xuming-li-a5101672/"
 layout: "researcher"
 hiddenInHomeList: true

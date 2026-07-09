@@ -1,7 +1,7 @@
 ---
 title: "Najla F. Gumaah"
 description: "Najla F. Gumaah is a Mid-career Unknown researcher at Northern Border University in SA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.848529
+date: 2026-07-10T01:07:47.884441
 url: "/cdr-researcher-census/researchers/najla-f-gumaah-a5099583/"
 layout: "researcher"
 hiddenInHomeList: true

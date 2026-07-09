@@ -1,7 +1,7 @@
 ---
 title: "Ahmed M. Elberry"
 description: "Ahmed M. Elberry is a Mid-career General CDR researcher at Energy Transitions (United Kingdom) in GB. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.466539
+date: 2026-07-10T01:07:47.539846
 url: "/cdr-researcher-census/researchers/ahmed-m-elberry-a5059213/"
 layout: "researcher"
 hiddenInHomeList: true

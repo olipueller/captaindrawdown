@@ -1,7 +1,7 @@
 ---
 title: "Romal Ramadhan"
 description: "Romal Ramadhan is a Mid-career General CDR researcher at Planetary Science Institute in US. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.443827
+date: 2026-07-10T01:07:48.433589
 url: "/cdr-researcher-census/researchers/romal-ramadhan-a5052662/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andrew Oroke"
 description: "Andrew Oroke is an Early-career Unknown researcher at Newcastle University in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.235953
+date: 2026-07-10T01:07:48.245500
 url: "/cdr-researcher-census/researchers/andrew-oroke-a5005265/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ian T. Stevens"
 description: "Ian T. Stevens is a Mid-career Unknown researcher. With 20 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.612324
+date: 2026-07-10T01:07:48.573786
 url: "/cdr-researcher-census/researchers/ian-t-stevens-a5055809/"
 layout: "researcher"
 hiddenInHomeList: true

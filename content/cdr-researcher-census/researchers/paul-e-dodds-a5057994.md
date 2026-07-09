@@ -1,7 +1,7 @@
 ---
 title: "Paul E. Dodds"
 description: "Paul E. Dodds is a Senior General CDR researcher at University College London in GB. With 111 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.918467
+date: 2026-07-10T01:07:46.925042
 url: "/cdr-researcher-census/researchers/paul-e-dodds-a5057994/"
 layout: "researcher"
 hiddenInHomeList: true

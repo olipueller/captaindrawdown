@@ -1,7 +1,7 @@
 ---
 title: "Marco Maniscalco"
 description: "Marco Maniscalco is a Mid-career Biochar researcher at University of Palermo in IT. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.076986
+date: 2026-07-10T01:07:48.988138
 url: "/cdr-researcher-census/researchers/marco-maniscalco-a5049028/"
 layout: "researcher"
 hiddenInHomeList: true

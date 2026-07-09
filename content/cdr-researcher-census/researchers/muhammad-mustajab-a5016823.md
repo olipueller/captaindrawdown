@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Mustajab"
 description: "Muhammad Mustajab is a Mid-career Unknown researcher at Government College University, Lahore in PK. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.918957
+date: 2026-07-10T01:07:48.842909
 url: "/cdr-researcher-census/researchers/muhammad-mustajab-a5016823/"
 layout: "researcher"
 hiddenInHomeList: true

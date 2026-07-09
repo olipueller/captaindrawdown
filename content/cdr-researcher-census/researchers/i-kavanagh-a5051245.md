@@ -1,7 +1,7 @@
 ---
 title: "I. Kavanagh"
 description: "I. Kavanagh is a Mid-career Unknown researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.476858
+date: 2026-07-10T01:07:48.464036
 url: "/cdr-researcher-census/researchers/i-kavanagh-a5051245/"
 layout: "researcher"
 hiddenInHomeList: true

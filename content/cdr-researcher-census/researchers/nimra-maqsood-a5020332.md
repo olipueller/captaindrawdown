@@ -1,7 +1,7 @@
 ---
 title: "Nimra Maqsood"
 description: "Nimra Maqsood is a Mid-career Soil Carbon researcher at University of Science and Technology of China in CN. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.590434
+date: 2026-07-10T01:07:47.653618
 url: "/cdr-researcher-census/researchers/nimra-maqsood-a5020332/"
 layout: "researcher"
 hiddenInHomeList: true

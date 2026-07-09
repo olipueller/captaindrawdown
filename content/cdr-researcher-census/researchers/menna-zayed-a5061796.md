@@ -1,7 +1,7 @@
 ---
 title: "Menna Zayed"
 description: "Menna Zayed is a Mid-career Unknown researcher at Benha University in EG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.478130
+date: 2026-07-10T01:07:48.465308
 url: "/cdr-researcher-census/researchers/menna-zayed-a5061796/"
 layout: "researcher"
 hiddenInHomeList: true

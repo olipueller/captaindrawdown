@@ -1,7 +1,7 @@
 ---
 title: "Zhouxuan Xiao"
 description: "Zhouxuan Xiao is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.003692
+date: 2026-07-10T01:07:48.921650
 url: "/cdr-researcher-census/researchers/zhouxuan-xiao-a5062816/"
 layout: "researcher"
 hiddenInHomeList: true

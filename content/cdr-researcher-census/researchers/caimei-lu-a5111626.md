@@ -1,7 +1,7 @@
 ---
 title: "Caimei Lu"
 description: "Caimei Lu is a Senior Biochar researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.761311
+date: 2026-07-10T01:07:47.811906
 url: "/cdr-researcher-census/researchers/caimei-lu-a5111626/"
 layout: "researcher"
 hiddenInHomeList: true

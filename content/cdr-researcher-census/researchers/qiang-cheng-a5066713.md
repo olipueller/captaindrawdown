@@ -1,7 +1,7 @@
 ---
 title: "Qiang Cheng"
 description: "Qiang Cheng is a Mid-career Unknown researcher at Sichuan Highway Design and Research Institute in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.238475
+date: 2026-07-10T01:07:49.147351
 url: "/cdr-researcher-census/researchers/qiang-cheng-a5066713/"
 layout: "researcher"
 hiddenInHomeList: true

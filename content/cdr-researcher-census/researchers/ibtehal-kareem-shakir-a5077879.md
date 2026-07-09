@@ -1,7 +1,7 @@
 ---
 title: "Ibtehal Kareem Shakir"
 description: "Ibtehal Kareem Shakir is a Senior Unknown researcher at University of Baghdad in IQ. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.852863
+date: 2026-07-10T01:07:48.783572
 url: "/cdr-researcher-census/researchers/ibtehal-kareem-shakir-a5077879/"
 layout: "researcher"
 hiddenInHomeList: true

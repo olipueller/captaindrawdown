@@ -1,7 +1,7 @@
 ---
 title: "Milad Mosallaei"
 description: "Milad Mosallaei is a Mid-career Unknown researcher at VTT Technical Research Centre of Finland in FI. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.786854
+date: 2026-07-10T01:07:47.835656
 url: "/cdr-researcher-census/researchers/milad-mosallaei-a5072807/"
 layout: "researcher"
 hiddenInHomeList: true

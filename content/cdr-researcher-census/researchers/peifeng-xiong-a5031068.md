@@ -1,7 +1,7 @@
 ---
 title: "Peifeng Xiong"
 description: "Peifeng Xiong is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.231451
+date: 2026-07-10T01:07:48.241453
 url: "/cdr-researcher-census/researchers/peifeng-xiong-a5031068/"
 layout: "researcher"
 hiddenInHomeList: true

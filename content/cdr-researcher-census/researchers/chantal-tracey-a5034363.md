@@ -1,7 +1,7 @@
 ---
 title: "Chantal Tracey"
 description: "Chantal Tracey is a Mid-career Biochar researcher at ITMO University in RU. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.511729
+date: 2026-07-10T01:07:47.580163
 url: "/cdr-researcher-census/researchers/chantal-tracey-a5034363/"
 layout: "researcher"
 hiddenInHomeList: true

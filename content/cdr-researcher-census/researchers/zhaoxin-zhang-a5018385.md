@@ -1,7 +1,7 @@
 ---
 title: "Zhaoxin Zhang"
 description: "Zhaoxin Zhang is a Mid-career Soil Carbon researcher at University of Arizona in US. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.931008
+date: 2026-07-10T01:07:47.943928
 url: "/cdr-researcher-census/researchers/zhaoxin-zhang-a5018385/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Longhu Chen"
 description: "Longhu Chen is a Senior Soil Carbon researcher at Northwest Normal University in CN. With 66 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.234027
+date: 2026-07-10T01:07:47.320952
 url: "/cdr-researcher-census/researchers/longhu-chen-a5073387/"
 layout: "researcher"
 hiddenInHomeList: true

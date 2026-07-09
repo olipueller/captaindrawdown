@@ -1,7 +1,7 @@
 ---
 title: "Guido L. B. Wiesenberg"
 description: "Guido L. B. Wiesenberg is an Eminent Soil Carbon researcher at Universität Zürich in CH. With 230 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.942771
+date: 2026-07-10T01:07:46.970727
 url: "/cdr-researcher-census/researchers/guido-l-b-wiesenberg-a5043396/"
 layout: "researcher"
 hiddenInHomeList: true

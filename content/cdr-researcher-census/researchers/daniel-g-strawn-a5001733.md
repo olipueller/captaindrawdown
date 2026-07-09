@@ -1,7 +1,7 @@
 ---
 title: "Daniel G. Strawn"
 description: "Daniel G. Strawn is a Senior Biochar researcher at University of Idaho in US. With 103 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.978390
+date: 2026-07-10T01:07:47.026660
 url: "/cdr-researcher-census/researchers/daniel-g-strawn-a5001733/"
 layout: "researcher"
 hiddenInHomeList: true

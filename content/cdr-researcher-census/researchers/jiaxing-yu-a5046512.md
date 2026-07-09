@@ -1,7 +1,7 @@
 ---
 title: "Jiaxing Yu"
 description: "Jiaxing Yu is a Mid-career Unknown researcher at Sun Yat-sen University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.060675
+date: 2026-07-10T01:07:48.064266
 url: "/cdr-researcher-census/researchers/jiaxing-yu-a5046512/"
 layout: "researcher"
 hiddenInHomeList: true

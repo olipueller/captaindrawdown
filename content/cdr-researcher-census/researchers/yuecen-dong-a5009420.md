@@ -1,7 +1,7 @@
 ---
 title: "Yuecen Dong"
 description: "Yuecen Dong is a Mid-career Unknown researcher at Tsinghua University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.695638
+date: 2026-07-10T01:07:48.648930
 url: "/cdr-researcher-census/researchers/yuecen-dong-a5009420/"
 layout: "researcher"
 hiddenInHomeList: true

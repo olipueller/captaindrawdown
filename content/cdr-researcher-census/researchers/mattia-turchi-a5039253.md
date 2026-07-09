@@ -1,7 +1,7 @@
 ---
 title: "Mattia Turchi"
 description: "Mattia Turchi is a Mid-career Enhanced Weathering researcher at Computational Physics (United States) in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.288122
+date: 2026-07-10T01:07:48.292752
 url: "/cdr-researcher-census/researchers/mattia-turchi-a5039253/"
 layout: "researcher"
 hiddenInHomeList: true

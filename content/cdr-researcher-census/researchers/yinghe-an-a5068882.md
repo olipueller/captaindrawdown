@@ -1,7 +1,7 @@
 ---
 title: "Yinghe An"
 description: "Yinghe An is a Mid-career Unknown researcher at Hainan Provincial Academy of Agricultural Sciences in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.049472
+date: 2026-07-10T01:07:48.962987
 url: "/cdr-researcher-census/researchers/yinghe-an-a5068882/"
 layout: "researcher"
 hiddenInHomeList: true

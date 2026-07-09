@@ -1,7 +1,7 @@
 ---
 title: "Jicui Cui"
 description: "Jicui Cui is a Mid-career Biochar researcher at Shanghai Jiao Tong University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.856597
+date: 2026-07-10T01:07:48.787104
 url: "/cdr-researcher-census/researchers/jicui-cui-a5038311/"
 layout: "researcher"
 hiddenInHomeList: true

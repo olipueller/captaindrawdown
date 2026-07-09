@@ -1,7 +1,7 @@
 ---
 title: "Kailun Zou"
 description: "Kailun Zou is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 31 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.300855
+date: 2026-07-10T01:07:47.383146
 url: "/cdr-researcher-census/researchers/kailun-zou-a5106597/"
 layout: "researcher"
 hiddenInHomeList: true

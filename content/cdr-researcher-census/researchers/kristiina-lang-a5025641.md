@@ -1,7 +1,7 @@
 ---
 title: "Kristiina Lång"
 description: "Kristiina Lång is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.682987
+date: 2026-07-10T01:07:47.739435
 url: "/cdr-researcher-census/researchers/kristiina-lang-a5025641/"
 layout: "researcher"
 hiddenInHomeList: true

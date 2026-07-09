@@ -1,7 +1,7 @@
 ---
 title: "Penglai Ran"
 description: "Penglai Ran is an Early-career Unknown researcher at Guizhou University of Finance and Economics in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.343964
+date: 2026-07-10T01:07:48.343210
 url: "/cdr-researcher-census/researchers/penglai-ran-a5025166/"
 layout: "researcher"
 hiddenInHomeList: true

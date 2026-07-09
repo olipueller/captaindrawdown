@@ -1,7 +1,7 @@
 ---
 title: "Olli Koskela"
 description: "Olli Koskela is a Mid-career Soil Carbon researcher at Tampere University in FI. With 45 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.727112
+date: 2026-07-10T01:07:48.676598
 url: "/cdr-researcher-census/researchers/olli-koskela-a5069715/"
 layout: "researcher"
 hiddenInHomeList: true

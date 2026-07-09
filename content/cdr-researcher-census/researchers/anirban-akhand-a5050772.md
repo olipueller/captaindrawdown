@@ -1,7 +1,7 @@
 ---
 title: "Anirban Akhand"
 description: "Anirban Akhand is a Senior Soil Carbon researcher at RMIT University in AU. With 81 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.138133
+date: 2026-07-10T01:07:47.226926
 url: "/cdr-researcher-census/researchers/anirban-akhand-a5050772/"
 layout: "researcher"
 hiddenInHomeList: true

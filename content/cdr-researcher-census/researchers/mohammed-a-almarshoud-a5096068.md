@@ -1,7 +1,7 @@
 ---
 title: "Mohammed A. Almarshoud"
 description: "Mohammed A. Almarshoud is an Early-career General CDR researcher at University of Jeddah in SA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.088065
+date: 2026-07-10T01:07:48.997905
 url: "/cdr-researcher-census/researchers/mohammed-a-almarshoud-a5096068/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Guang Chen"
 description: "Guang Chen is a Mid-career Unknown researcher. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.266692
+date: 2026-07-10T01:07:47.350302
 url: "/cdr-researcher-census/researchers/guang-chen-a5103059/"
 layout: "researcher"
 hiddenInHomeList: true

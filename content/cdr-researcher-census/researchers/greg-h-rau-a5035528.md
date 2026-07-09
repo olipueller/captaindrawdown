@@ -1,7 +1,7 @@
 ---
 title: "Greg H. Rau"
 description: "Greg H. Rau is an Eminent General CDR researcher at Planetary Science Institute in US. With 126 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.912471
+date: 2026-07-10T01:07:46.912977
 url: "/cdr-researcher-census/researchers/greg-h-rau-a5035528/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Charles Grimison"
 description: "Charles Grimison is a Mid-career Unknown researcher at Ventia Utility Services Pty Ltd in AU. With 21 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.288424
+date: 2026-07-10T01:07:47.370651
 url: "/cdr-researcher-census/researchers/charles-grimison-a5002072/"
 layout: "researcher"
 hiddenInHomeList: true

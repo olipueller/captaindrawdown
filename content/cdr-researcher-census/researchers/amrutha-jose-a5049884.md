@@ -1,7 +1,7 @@
 ---
 title: "Amrutha Jose"
 description: "Amrutha Jose is a Mid-career General CDR researcher at ICMR - National Institute of Immunohaemotology in IN. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.869982
+date: 2026-07-10T01:07:48.798359
 url: "/cdr-researcher-census/researchers/amrutha-jose-a5049884/"
 layout: "researcher"
 hiddenInHomeList: true

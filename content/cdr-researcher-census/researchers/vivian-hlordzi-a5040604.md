@@ -1,7 +1,7 @@
 ---
 title: "Vivian Hlordzi"
 description: "Vivian Hlordzi is a Mid-career Unknown researcher at University College Cork in IE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.381196
+date: 2026-07-10T01:07:47.462831
 url: "/cdr-researcher-census/researchers/vivian-hlordzi-a5040604/"
 layout: "researcher"
 hiddenInHomeList: true

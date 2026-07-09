@@ -1,7 +1,7 @@
 ---
 title: "M. A. Abd-El-Fatah"
 description: "M. A. Abd-El-Fatah is a Mid-career Unknown researcher at National Laboratory of the Rockies in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.246320
+date: 2026-07-10T01:07:49.154184
 url: "/cdr-researcher-census/researchers/m-a-abd-el-fatah-a5112106/"
 layout: "researcher"
 hiddenInHomeList: true

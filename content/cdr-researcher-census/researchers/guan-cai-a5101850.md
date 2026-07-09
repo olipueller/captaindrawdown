@@ -1,7 +1,7 @@
 ---
 title: "Guan Cai"
 description: "Guan Cai is a Senior Soil Carbon researcher at Nanjing Surveying and Mapping Research Institute (China) in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.306006
+date: 2026-07-10T01:07:48.308821
 url: "/cdr-researcher-census/researchers/guan-cai-a5101850/"
 layout: "researcher"
 hiddenInHomeList: true

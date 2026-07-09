@@ -1,7 +1,7 @@
 ---
 title: "Lisa Voskuhl"
 description: "Lisa Voskuhl is a Mid-career Unknown researcher at University of Duisburg-Essen in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.223279
+date: 2026-07-10T01:07:49.133426
 url: "/cdr-researcher-census/researchers/lisa-voskuhl-a5007517/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Faiz Ahmad Ansari"
 description: "Faiz Ahmad Ansari is a Mid-career Ocean CDR researcher at Durban University of Technology in ZA. With 11 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.336416
+date: 2026-07-10T01:07:47.419018
 url: "/cdr-researcher-census/researchers/faiz-ahmad-ansari-a5108101/"
 layout: "researcher"
 hiddenInHomeList: true

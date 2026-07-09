@@ -1,7 +1,7 @@
 ---
 title: "Omotayo Bukola Adeoye"
 description: "Omotayo Bukola Adeoye is a Mid-career General CDR researcher. With 12 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.743340
+date: 2026-07-10T01:07:47.795499
 url: "/cdr-researcher-census/researchers/omotayo-bukola-adeoye-a5093967/"
 layout: "researcher"
 hiddenInHomeList: true

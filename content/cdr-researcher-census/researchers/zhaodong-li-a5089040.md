@@ -1,7 +1,7 @@
 ---
 title: "Zhaodong Li"
 description: "Zhaodong Li is a Senior Unknown researcher at Division of Materials Science and Engineering in AU. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.519842
+date: 2026-07-10T01:07:48.503049
 url: "/cdr-researcher-census/researchers/zhaodong-li-a5089040/"
 layout: "researcher"
 hiddenInHomeList: true

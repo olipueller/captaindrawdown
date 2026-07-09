@@ -1,7 +1,7 @@
 ---
 title: "Kamal Hasani"
 description: "Kamal Hasani is a Mid-career Unknown researcher at Ardabil University of Medical Sciences in IR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.683687
+date: 2026-07-10T01:07:47.740178
 url: "/cdr-researcher-census/researchers/kamal-hasani-a5045176/"
 layout: "researcher"
 hiddenInHomeList: true

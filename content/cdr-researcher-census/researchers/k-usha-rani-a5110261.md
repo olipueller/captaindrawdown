@@ -1,7 +1,7 @@
 ---
 title: "K. Usha Rani"
 description: "K. Usha Rani is a Senior Unknown researcher at Sri Padmavati Mahila Visvavidyalayam in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.377635
+date: 2026-07-10T01:07:48.373890
 url: "/cdr-researcher-census/researchers/k-usha-rani-a5110261/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "S. Subramanian"
 description: "S. Subramanian is a Senior Biochar researcher at National University of Malaysia in MY. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.447872
+date: 2026-07-10T01:07:48.437199
 url: "/cdr-researcher-census/researchers/s-subramanian-a5053563/"
 layout: "researcher"
 hiddenInHomeList: true

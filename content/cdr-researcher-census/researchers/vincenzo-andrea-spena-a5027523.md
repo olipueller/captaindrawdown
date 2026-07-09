@@ -1,7 +1,7 @@
 ---
 title: "Vincenzo Andrea Spena"
 description: "Vincenzo Andrea Spena is a Mid-career Unknown researcher at Sapienza University of Rome in IT. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.802771
+date: 2026-07-10T01:07:48.741512
 url: "/cdr-researcher-census/researchers/vincenzo-andrea-spena-a5027523/"
 layout: "researcher"
 hiddenInHomeList: true

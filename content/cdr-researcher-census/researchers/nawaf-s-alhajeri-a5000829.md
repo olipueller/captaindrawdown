@@ -1,7 +1,7 @@
 ---
 title: "Nawaf S. Alhajeri"
 description: "Nawaf S. Alhajeri is a Mid-career Biochar researcher at Kuwait University in KW. With 61 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.193923
+date: 2026-07-10T01:07:47.282965
 url: "/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/"
 layout: "researcher"
 hiddenInHomeList: true

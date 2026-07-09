@@ -1,7 +1,7 @@
 ---
 title: "Fang-yu Liang"
 description: "Fang-yu Liang is a Mid-career Unknown researcher at National Sun Yat-sen University in TW. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.866922
+date: 2026-07-10T01:07:48.795784
 url: "/cdr-researcher-census/researchers/fang-yu-liang-a5045826/"
 layout: "researcher"
 hiddenInHomeList: true

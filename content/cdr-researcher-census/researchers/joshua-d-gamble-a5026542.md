@@ -1,7 +1,7 @@
 ---
 title: "Joshua D. Gamble"
 description: "Joshua D. Gamble is a Mid-career Soil Carbon researcher at United States Department of Agriculture in US. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.791514
+date: 2026-07-10T01:07:47.840142
 url: "/cdr-researcher-census/researchers/joshua-d-gamble-a5026542/"
 layout: "researcher"
 hiddenInHomeList: true

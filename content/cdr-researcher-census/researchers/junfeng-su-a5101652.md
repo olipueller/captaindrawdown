@@ -1,7 +1,7 @@
 ---
 title: "Junfeng Su"
 description: "Junfeng Su is an Eminent Biochar researcher at Jiangnan University in CN. With 266 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.925349
+date: 2026-07-10T01:07:46.938647
 url: "/cdr-researcher-census/researchers/junfeng-su-a5101652/"
 layout: "researcher"
 hiddenInHomeList: true

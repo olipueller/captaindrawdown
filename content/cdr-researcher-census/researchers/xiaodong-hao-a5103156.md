@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Hao"
 description: "Xiaodong Hao is a Senior Unknown researcher at Chang'an University in CN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.192738
+date: 2026-07-10T01:07:49.106424
 url: "/cdr-researcher-census/researchers/xiaodong-hao-a5103156/"
 layout: "researcher"
 hiddenInHomeList: true

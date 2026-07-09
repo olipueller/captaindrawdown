@@ -1,7 +1,7 @@
 ---
 title: "Deepa Rao"
 description: "Deepa Rao is a Senior Unknown researcher at Woods Hole Oceanographic Institution in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.173525
+date: 2026-07-10T01:07:49.063261
 url: "/cdr-researcher-census/researchers/deepa-rao-a5087347/"
 layout: "researcher"
 hiddenInHomeList: true

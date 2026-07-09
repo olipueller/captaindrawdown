@@ -1,7 +1,7 @@
 ---
 title: "Courtney Mobilian"
 description: "Courtney Mobilian is a Mid-career Unknown researcher at Indiana University Bloomington in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.069600
+date: 2026-07-10T01:07:48.072286
 url: "/cdr-researcher-census/researchers/courtney-mobilian-a5024495/"
 layout: "researcher"
 hiddenInHomeList: true

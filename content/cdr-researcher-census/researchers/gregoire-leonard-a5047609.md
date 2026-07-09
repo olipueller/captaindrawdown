@@ -1,7 +1,7 @@
 ---
 title: "Grégoire Léonard"
 description: "Grégoire Léonard is a Senior General CDR researcher at University of Liège in BE. With 136 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.460095
+date: 2026-07-10T01:07:47.534300
 url: "/cdr-researcher-census/researchers/gregoire-leonard-a5047609/"
 layout: "researcher"
 hiddenInHomeList: true

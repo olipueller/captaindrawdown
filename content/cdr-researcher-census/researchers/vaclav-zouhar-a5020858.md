@@ -1,7 +1,7 @@
 ---
 title: "Václav Zouhar"
 description: "Václav Zouhar is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.465796
+date: 2026-07-10T01:07:48.453538
 url: "/cdr-researcher-census/researchers/vaclav-zouhar-a5020858/"
 layout: "researcher"
 hiddenInHomeList: true

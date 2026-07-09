@@ -1,7 +1,7 @@
 ---
 title: "Márton Dencső"
 description: "Márton Dencső is a Mid-career Soil Carbon researcher at Institute for Soil Sciences in HU. With 51 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.314998
+date: 2026-07-10T01:07:48.316905
 url: "/cdr-researcher-census/researchers/marton-dencso-a5078387/"
 layout: "researcher"
 hiddenInHomeList: true

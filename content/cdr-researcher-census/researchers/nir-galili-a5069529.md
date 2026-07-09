@@ -1,7 +1,7 @@
 ---
 title: "Nir Galili"
 description: "Nir Galili is a Mid-career General CDR researcher at ETH Zurich in CH. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.893098
+date: 2026-07-10T01:07:47.908106
 url: "/cdr-researcher-census/researchers/nir-galili-a5069529/"
 layout: "researcher"
 hiddenInHomeList: true

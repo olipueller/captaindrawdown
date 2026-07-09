@@ -1,7 +1,7 @@
 ---
 title: "Qiqi Lei"
 description: "Qiqi Lei is a Mid-career Unknown researcher at South China Agricultural University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.351440
+date: 2026-07-10T01:07:47.433744
 url: "/cdr-researcher-census/researchers/qiqi-lei-a5054217/"
 layout: "researcher"
 hiddenInHomeList: true

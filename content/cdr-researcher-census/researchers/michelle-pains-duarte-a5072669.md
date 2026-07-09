@@ -1,7 +1,7 @@
 ---
 title: "Michelle Pains Duarte"
 description: "Michelle Pains Duarte is a Mid-career Unknown researcher at Concordia University in CA. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.786504
+date: 2026-07-10T01:07:48.728196
 url: "/cdr-researcher-census/researchers/michelle-pains-duarte-a5072669/"
 layout: "researcher"
 hiddenInHomeList: true

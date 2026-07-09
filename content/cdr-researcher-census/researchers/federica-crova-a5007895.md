@@ -1,7 +1,7 @@
 ---
 title: "Federica Crova"
 description: "Federica Crova is a Mid-career Unknown researcher at University of Milan in IT. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.076218
+date: 2026-07-10T01:07:48.987406
 url: "/cdr-researcher-census/researchers/federica-crova-a5007895/"
 layout: "researcher"
 hiddenInHomeList: true

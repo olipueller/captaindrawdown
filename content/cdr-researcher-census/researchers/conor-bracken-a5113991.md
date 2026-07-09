@@ -1,7 +1,7 @@
 ---
 title: "Conor Bracken"
 description: "Conor Bracken is a Mid-career Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.605831
+date: 2026-07-10T01:07:48.568587
 url: "/cdr-researcher-census/researchers/conor-bracken-a5113991/"
 layout: "researcher"
 hiddenInHomeList: true

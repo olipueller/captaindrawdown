@@ -1,7 +1,7 @@
 ---
 title: "Aman Malik"
 description: "Aman Malik is a Mid-career Soil Carbon researcher. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.385484
+date: 2026-07-10T01:07:47.466641
 url: "/cdr-researcher-census/researchers/aman-malik-a5027257/"
 layout: "researcher"
 hiddenInHomeList: true

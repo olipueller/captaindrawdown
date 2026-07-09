@@ -1,7 +1,7 @@
 ---
 title: "Anu Korosuo"
 description: "Anu Korosuo is a Mid-career General CDR researcher at Joint Research Centre in IT. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.264090
+date: 2026-07-10T01:07:47.347969
 url: "/cdr-researcher-census/researchers/anu-korosuo-a5032926/"
 layout: "researcher"
 hiddenInHomeList: true

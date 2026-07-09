@@ -1,7 +1,7 @@
 ---
 title: "Harish Kumar Jeswani"
 description: "Harish Kumar Jeswani is a Senior General CDR researcher at University of Manchester in GB. With 74 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.950021
+date: 2026-07-10T01:07:46.982965
 url: "/cdr-researcher-census/researchers/harish-kumar-jeswani-a5059938/"
 layout: "researcher"
 hiddenInHomeList: true

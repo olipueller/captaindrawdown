@@ -1,7 +1,7 @@
 ---
 title: "Piotr Zawadzki"
 description: "Piotr Zawadzki is a Mid-career Unknown researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.252262
+date: 2026-07-10T01:07:48.260275
 url: "/cdr-researcher-census/researchers/piotr-zawadzki-a5038540/"
 layout: "researcher"
 hiddenInHomeList: true

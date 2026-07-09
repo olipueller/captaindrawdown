@@ -1,7 +1,7 @@
 ---
 title: "Gandhiv Kafle"
 description: "Gandhiv Kafle is a Senior Soil Carbon researcher at Agriculture and Forestry University in NP. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.921238
+date: 2026-07-10T01:07:47.934785
 url: "/cdr-researcher-census/researchers/gandhiv-kafle-a5082244/"
 layout: "researcher"
 hiddenInHomeList: true

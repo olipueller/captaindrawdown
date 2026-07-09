@@ -1,7 +1,7 @@
 ---
 title: "Yin-Hua Zhu"
 description: "Yin-Hua Zhu is a Senior General CDR researcher at Nanjing Tech University in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.771907
+date: 2026-07-10T01:07:47.821761
 url: "/cdr-researcher-census/researchers/yin-hua-zhu-a5060605/"
 layout: "researcher"
 hiddenInHomeList: true

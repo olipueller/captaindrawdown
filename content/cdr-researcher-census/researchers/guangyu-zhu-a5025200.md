@@ -1,7 +1,7 @@
 ---
 title: "Guangyu Zhu"
 description: "Guangyu Zhu is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 37 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.124924
+date: 2026-07-10T01:07:47.211811
 url: "/cdr-researcher-census/researchers/guangyu-zhu-a5025200/"
 layout: "researcher"
 hiddenInHomeList: true

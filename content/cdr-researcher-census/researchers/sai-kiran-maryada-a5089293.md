@@ -1,7 +1,7 @@
 ---
 title: "Sai Kiran Maryada"
 description: "Sai Kiran Maryada is a Mid-career Unknown researcher at University of Oklahoma in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.022982
+date: 2026-07-10T01:07:48.938739
 url: "/cdr-researcher-census/researchers/sai-kiran-maryada-a5089293/"
 layout: "researcher"
 hiddenInHomeList: true

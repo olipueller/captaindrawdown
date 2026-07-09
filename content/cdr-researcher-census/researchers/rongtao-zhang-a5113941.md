@@ -1,7 +1,7 @@
 ---
 title: "Rongtao Zhang"
 description: "Rongtao Zhang is a Mid-career Soil Carbon researcher at Heilongjiang Academy of Sciences in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.742202
+date: 2026-07-10T01:07:47.794173
 url: "/cdr-researcher-census/researchers/rongtao-zhang-a5113941/"
 layout: "researcher"
 hiddenInHomeList: true

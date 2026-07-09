@@ -1,7 +1,7 @@
 ---
 title: "Sanja Mutić"
 description: "Sanja Mutić is a Mid-career Biochar researcher at University of Novi Sad in RS. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.852301
+date: 2026-07-10T01:07:48.783002
 url: "/cdr-researcher-census/researchers/sanja-mutic-a5013462/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Katarína Mosnáčková"
 description: "Katarína Mosnáčková is a Mid-career Unknown researcher at Slovak Academy of Sciences in SK. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.513161
+date: 2026-07-10T01:07:48.497184
 url: "/cdr-researcher-census/researchers/katarina-mosnackova-a5058516/"
 layout: "researcher"
 hiddenInHomeList: true

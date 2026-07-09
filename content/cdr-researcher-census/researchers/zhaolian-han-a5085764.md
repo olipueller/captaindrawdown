@@ -1,7 +1,7 @@
 ---
 title: "Zhaolian Han"
 description: "Zhaolian Han is a Mid-career Biochar researcher at Jilin Medical University in CN. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.437604
+date: 2026-07-10T01:07:47.514517
 url: "/cdr-researcher-census/researchers/zhaolian-han-a5085764/"
 layout: "researcher"
 hiddenInHomeList: true

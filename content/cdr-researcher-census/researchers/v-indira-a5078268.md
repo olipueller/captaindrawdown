@@ -1,7 +1,7 @@
 ---
 title: "V. Indira"
 description: "V. Indira is an Early-career Unknown researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.132756
+date: 2026-07-10T01:07:49.036878
 url: "/cdr-researcher-census/researchers/v-indira-a5078268/"
 layout: "researcher"
 hiddenInHomeList: true

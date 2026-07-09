@@ -1,7 +1,7 @@
 ---
 title: "Larissa Brito"
 description: "Larissa Brito is a Mid-career Biochar researcher at Engie (United States) in US. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.125711
+date: 2026-07-10T01:07:49.031024
 url: "/cdr-researcher-census/researchers/larissa-brito-a5025792/"
 layout: "researcher"
 hiddenInHomeList: true

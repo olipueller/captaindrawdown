@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Jiang"
 description: "Xinyu Jiang is a Senior Soil Carbon researcher at Guangdong Academy of Sciences in CN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.420071
+date: 2026-07-10T01:07:47.499242
 url: "/cdr-researcher-census/researchers/xinyu-jiang-a5088679/"
 layout: "researcher"
 hiddenInHomeList: true

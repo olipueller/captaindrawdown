@@ -1,7 +1,7 @@
 ---
 title: "Bowen Zhang"
 description: "Bowen Zhang is a Mid-career Unknown researcher at CSIRO Environment in AU. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.771604
+date: 2026-07-10T01:07:48.715437
 url: "/cdr-researcher-census/researchers/bowen-zhang-a5100385/"
 layout: "researcher"
 hiddenInHomeList: true

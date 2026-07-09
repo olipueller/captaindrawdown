@@ -1,7 +1,7 @@
 ---
 title: "Sasmita Bhuyan"
 description: "Sasmita Bhuyan is a Senior Soil Carbon researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.901454
+date: 2026-07-10T01:07:48.826920
 url: "/cdr-researcher-census/researchers/sasmita-bhuyan-a5111526/"
 layout: "researcher"
 hiddenInHomeList: true

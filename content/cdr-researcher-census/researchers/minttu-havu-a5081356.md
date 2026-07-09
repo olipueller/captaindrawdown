@@ -1,7 +1,7 @@
 ---
 title: "Minttu Havu"
 description: "Minttu Havu is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 53 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.198592
+date: 2026-07-10T01:07:48.211691
 url: "/cdr-researcher-census/researchers/minttu-havu-a5081356/"
 layout: "researcher"
 hiddenInHomeList: true

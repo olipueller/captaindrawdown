@@ -1,7 +1,7 @@
 ---
 title: "Zhao‐lei Qu"
 description: "Zhao‐lei Qu is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.732514
+date: 2026-07-10T01:07:47.784435
 url: "/cdr-researcher-census/researchers/zhaolei-qu-a5029879/"
 layout: "researcher"
 hiddenInHomeList: true

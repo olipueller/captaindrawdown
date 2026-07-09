@@ -1,7 +1,7 @@
 ---
 title: "Jeļena Pubule"
 description: "Jeļena Pubule is a Senior Soil Carbon researcher at Riga Technical University in LV. With 100 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.572411
+date: 2026-07-10T01:07:47.636086
 url: "/cdr-researcher-census/researchers/jelena-pubule-a5035772/"
 layout: "researcher"
 hiddenInHomeList: true

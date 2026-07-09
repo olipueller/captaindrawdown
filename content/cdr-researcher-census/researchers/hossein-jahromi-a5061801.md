@@ -1,7 +1,7 @@
 ---
 title: "Hossein Jahromi"
 description: "Hossein Jahromi is a Mid-career Biochar researcher at Auburn University in US. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.451584
+date: 2026-07-10T01:07:47.527203
 url: "/cdr-researcher-census/researchers/hossein-jahromi-a5061801/"
 layout: "researcher"
 hiddenInHomeList: true

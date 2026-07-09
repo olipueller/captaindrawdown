@@ -1,7 +1,7 @@
 ---
 title: "Anabel Negredo"
 description: "Anabel Negredo is a Mid-career Unknown researcher at Instituto de Salud Carlos III in ES. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.261820
+date: 2026-07-10T01:07:48.269129
 url: "/cdr-researcher-census/researchers/anabel-negredo-a5035231/"
 layout: "researcher"
 hiddenInHomeList: true

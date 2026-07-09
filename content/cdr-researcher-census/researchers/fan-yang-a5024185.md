@@ -1,7 +1,7 @@
 ---
 title: "Fan Yang"
 description: "Fan Yang is a Senior Biochar researcher at University of Shanghai for Science and Technology in CN. With 91 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.998831
+date: 2026-07-10T01:07:47.058950
 url: "/cdr-researcher-census/researchers/fan-yang-a5024185/"
 layout: "researcher"
 hiddenInHomeList: true

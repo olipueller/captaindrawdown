@@ -1,7 +1,7 @@
 ---
 title: "Zhu Deng"
 description: "Zhu Deng is a Senior General CDR researcher at The University of Hong Kong in HK. With 113 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.928533
+date: 2026-07-10T01:07:46.943942
 url: "/cdr-researcher-census/researchers/zhu-deng-a5088725/"
 layout: "researcher"
 hiddenInHomeList: true

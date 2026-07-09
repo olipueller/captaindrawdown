@@ -1,7 +1,7 @@
 ---
 title: "Jamilah Karim"
 description: "Jamilah Karim is a Senior Biochar researcher at Ministry of Natural Resources and Environment in MY. With 64 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.613737
+date: 2026-07-10T01:07:47.675003
 url: "/cdr-researcher-census/researchers/jamilah-karim-a5068404/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shihao Ma"
 description: "Shihao Ma is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.091883
+date: 2026-07-10T01:07:49.001018
 url: "/cdr-researcher-census/researchers/shihao-ma-a5065918/"
 layout: "researcher"
 hiddenInHomeList: true

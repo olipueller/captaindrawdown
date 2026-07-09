@@ -1,7 +1,7 @@
 ---
 title: "Michael Buck"
 description: "Michael Buck is a Senior Unknown researcher at Universität Stuttgart in DE. With 85 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.421333
+date: 2026-07-10T01:07:47.500397
 url: "/cdr-researcher-census/researchers/michael-buck-a5017603/"
 layout: "researcher"
 hiddenInHomeList: true

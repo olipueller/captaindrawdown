@@ -1,7 +1,7 @@
 ---
 title: "Maryam Crews"
 description: "Maryam Crews is a Mid-career Unknown researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.017529
+date: 2026-07-10T01:07:48.025129
 url: "/cdr-researcher-census/researchers/maryam-crews-a5067767/"
 layout: "researcher"
 hiddenInHomeList: true

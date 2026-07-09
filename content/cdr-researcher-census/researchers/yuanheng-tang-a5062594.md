@@ -1,7 +1,7 @@
 ---
 title: "Yuanheng Tang"
 description: "Yuanheng Tang is a Senior Unknown researcher at Harbin Engineering University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.737367
+date: 2026-07-10T01:07:48.685282
 url: "/cdr-researcher-census/researchers/yuanheng-tang-a5062594/"
 layout: "researcher"
 hiddenInHomeList: true

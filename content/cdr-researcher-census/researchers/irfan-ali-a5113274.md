@@ -1,7 +1,7 @@
 ---
 title: "Irfan Ali"
 description: "Irfan Ali is a Mid-career Unknown researcher at Liaquat University of Medical & Health Sciences in PK. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.992132
+date: 2026-07-10T01:07:48.910725
 url: "/cdr-researcher-census/researchers/irfan-ali-a5113274/"
 layout: "researcher"
 hiddenInHomeList: true

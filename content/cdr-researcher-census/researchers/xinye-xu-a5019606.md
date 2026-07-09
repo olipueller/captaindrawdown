@@ -1,7 +1,7 @@
 ---
 title: "Xinye Xu"
 description: "Xinye Xu is a Mid-career Unknown researcher at Jiangxi Science and Technology Normal University in CN. With 14 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.464713
+date: 2026-07-10T01:07:47.538351
 url: "/cdr-researcher-census/researchers/xinye-xu-a5019606/"
 layout: "researcher"
 hiddenInHomeList: true

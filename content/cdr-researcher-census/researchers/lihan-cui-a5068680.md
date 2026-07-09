@@ -1,7 +1,7 @@
 ---
 title: "Lihan Cui"
 description: "Lihan Cui is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.461678
+date: 2026-07-10T01:07:48.449714
 url: "/cdr-researcher-census/researchers/lihan-cui-a5068680/"
 layout: "researcher"
 hiddenInHomeList: true

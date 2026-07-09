@@ -1,7 +1,7 @@
 ---
 title: "Zhangcai Qin"
 description: "Zhangcai Qin is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 149 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.939317
+date: 2026-07-10T01:07:46.963911
 url: "/cdr-researcher-census/researchers/zhangcai-qin-a5034371/"
 layout: "researcher"
 hiddenInHomeList: true

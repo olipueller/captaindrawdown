@@ -1,7 +1,7 @@
 ---
 title: "Kumiko Okazaki"
 description: "Kumiko Okazaki is a Senior Unknown researcher at Hiroshima University in JP. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.718858
+date: 2026-07-10T01:07:47.772349
 url: "/cdr-researcher-census/researchers/kumiko-okazaki-a5033344/"
 layout: "researcher"
 hiddenInHomeList: true

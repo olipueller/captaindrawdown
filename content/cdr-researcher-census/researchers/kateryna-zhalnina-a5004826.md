@@ -1,7 +1,7 @@
 ---
 title: "Kateryna Zhalnina"
 description: "Kateryna Zhalnina is a Mid-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 54 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.953413
+date: 2026-07-10T01:07:46.988119
 url: "/cdr-researcher-census/researchers/kateryna-zhalnina-a5004826/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Suprity Shyam"
 description: "Suprity Shyam is a Mid-career Biochar researcher at Bodoland University in IN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.485180
+date: 2026-07-10T01:07:48.471629
 url: "/cdr-researcher-census/researchers/suprity-shyam-a5064190/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "G. K. Sukhadeve"
 description: "G. K. Sukhadeve is a Mid-career Unknown researcher at Visvesvaraya National Institute of Technology in IN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.784818
+date: 2026-07-10T01:07:47.833409
 url: "/cdr-researcher-census/researchers/g-k-sukhadeve-a5066117/"
 layout: "researcher"
 hiddenInHomeList: true

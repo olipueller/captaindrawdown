@@ -1,7 +1,7 @@
 ---
 title: "Alba Cabrera‐Codony"
 description: "Alba Cabrera‐Codony is a Senior General CDR researcher at University of Girona in ES. With 48 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.235817
+date: 2026-07-10T01:07:47.322445
 url: "/cdr-researcher-census/researchers/alba-cabreracodony-a5017505/"
 layout: "researcher"
 hiddenInHomeList: true

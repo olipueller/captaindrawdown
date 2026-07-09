@@ -1,7 +1,7 @@
 ---
 title: "Penghui Jin"
 description: "Penghui Jin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.781300
+date: 2026-07-10T01:07:48.724169
 url: "/cdr-researcher-census/researchers/penghui-jin-a5075936/"
 layout: "researcher"
 hiddenInHomeList: true

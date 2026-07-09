@@ -1,7 +1,7 @@
 ---
 title: "Davide Alberti"
 description: "Davide Alberti is a Mid-career General CDR researcher at A2A (Italy) in IT. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.213447
+date: 2026-07-10T01:07:49.125087
 url: "/cdr-researcher-census/researchers/davide-alberti-a5053844/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Francisco Sulivan Bastos Mota"
 description: "Francisco Sulivan Bastos Mota is a Mid-career Unknown researcher at Instituto Federal de Educação, Ciência e Tecnologia do Ceará in BR. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.805720
+date: 2026-07-10T01:07:48.744228
 url: "/cdr-researcher-census/researchers/francisco-sulivan-bastos-mota-a5008965/"
 layout: "researcher"
 hiddenInHomeList: true

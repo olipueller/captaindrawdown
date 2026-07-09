@@ -1,7 +1,7 @@
 ---
 title: "Yuwei Weng"
 description: "Yuwei Weng is a Mid-career General CDR researcher at Tsinghua University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.632675
+date: 2026-07-10T01:07:47.692300
 url: "/cdr-researcher-census/researchers/yuwei-weng-a5044770/"
 layout: "researcher"
 hiddenInHomeList: true

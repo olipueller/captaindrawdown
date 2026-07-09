@@ -1,7 +1,7 @@
 ---
 title: "Jinlin Jiang"
 description: "Jinlin Jiang is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.158840
+date: 2026-07-10T01:07:48.177468
 url: "/cdr-researcher-census/researchers/jinlin-jiang-a5101744/"
 layout: "researcher"
 hiddenInHomeList: true

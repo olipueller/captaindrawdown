@@ -1,7 +1,7 @@
 ---
 title: "Sarah Moreno Sayavedra"
 description: "Sarah Moreno Sayavedra is an Early-career Unknown researcher at Ghent University in BE. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.517520
+date: 2026-07-10T01:07:48.501057
 url: "/cdr-researcher-census/researchers/sarah-moreno-sayavedra-a5084785/"
 layout: "researcher"
 hiddenInHomeList: true

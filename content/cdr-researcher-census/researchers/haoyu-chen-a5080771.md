@@ -1,7 +1,7 @@
 ---
 title: "Haoyu Chen"
 description: "Haoyu Chen is a Mid-career Unknown researcher at Nanjing Tech University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.226432
+date: 2026-07-10T01:07:49.136168
 url: "/cdr-researcher-census/researchers/haoyu-chen-a5080771/"
 layout: "researcher"
 hiddenInHomeList: true

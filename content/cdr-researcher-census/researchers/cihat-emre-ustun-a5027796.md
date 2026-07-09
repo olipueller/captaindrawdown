@@ -1,7 +1,7 @@
 ---
 title: "Cihat Emre Üstün"
 description: "Cihat Emre Üstün is a Mid-career Unknown researcher at Queen Mary University of London in GB. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.373410
+date: 2026-07-10T01:07:48.369957
 url: "/cdr-researcher-census/researchers/cihat-emre-ustun-a5027796/"
 layout: "researcher"
 hiddenInHomeList: true

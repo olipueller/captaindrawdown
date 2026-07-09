@@ -1,7 +1,7 @@
 ---
 title: "Chunai Ma"
 description: "Chunai Ma is an Early-career General CDR researcher at China University of Petroleum, Beijing in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.079190
+date: 2026-07-10T01:07:48.990063
 url: "/cdr-researcher-census/researchers/chunai-ma-a5072879/"
 layout: "researcher"
 hiddenInHomeList: true

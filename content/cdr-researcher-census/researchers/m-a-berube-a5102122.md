@@ -1,7 +1,7 @@
 ---
 title: "M-A Bérubé"
 description: "M-A Bérubé is a Senior Unknown researcher at Polytechnique Montréal in CA. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.337515
+date: 2026-07-10T01:07:48.337396
 url: "/cdr-researcher-census/researchers/m-a-berube-a5102122/"
 layout: "researcher"
 hiddenInHomeList: true

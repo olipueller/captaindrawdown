@@ -1,7 +1,7 @@
 ---
 title: "Shuang‐Guo Zhu"
 description: "Shuang‐Guo Zhu is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 30 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.445149
+date: 2026-07-10T01:07:47.521149
 url: "/cdr-researcher-census/researchers/shuangguo-zhu-a5102788/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Johanna Pihlblad"
 description: "Johanna Pihlblad is a Mid-career Soil Carbon researcher at Lancaster University Ghana in GH. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.476324
+date: 2026-07-10T01:07:47.548607
 url: "/cdr-researcher-census/researchers/johanna-pihlblad-a5069446/"
 layout: "researcher"
 hiddenInHomeList: true

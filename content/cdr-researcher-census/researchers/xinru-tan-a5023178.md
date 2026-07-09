@@ -1,7 +1,7 @@
 ---
 title: "Xinru Tan"
 description: "Xinru Tan is a Mid-career Unknown researcher at Guangxi University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.300895
+date: 2026-07-10T01:07:48.303629
 url: "/cdr-researcher-census/researchers/xinru-tan-a5023178/"
 layout: "researcher"
 hiddenInHomeList: true

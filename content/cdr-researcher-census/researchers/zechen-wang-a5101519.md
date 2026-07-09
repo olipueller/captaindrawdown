@@ -1,7 +1,7 @@
 ---
 title: "Zechen Wang"
 description: "Zechen Wang is a Mid-career Unknown researcher at Beijing Normal University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.923835
+date: 2026-07-10T01:07:47.937354
 url: "/cdr-researcher-census/researchers/zechen-wang-a5101519/"
 layout: "researcher"
 hiddenInHomeList: true

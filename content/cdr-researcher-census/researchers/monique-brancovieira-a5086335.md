@@ -1,7 +1,7 @@
 ---
 title: "Monique Branco‐Vieira"
 description: "Monique Branco‐Vieira is a Senior Unknown researcher at Julius Kühn-Institut in DE. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.498115
+date: 2026-07-10T01:07:47.567868
 url: "/cdr-researcher-census/researchers/monique-brancovieira-a5086335/"
 layout: "researcher"
 hiddenInHomeList: true

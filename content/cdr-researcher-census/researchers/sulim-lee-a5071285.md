@@ -1,7 +1,7 @@
 ---
 title: "Su‐Lim Lee"
 description: "Su‐Lim Lee is a Mid-career Biochar researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.205332
+date: 2026-07-10T01:07:48.218612
 url: "/cdr-researcher-census/researchers/sulim-lee-a5071285/"
 layout: "researcher"
 hiddenInHomeList: true

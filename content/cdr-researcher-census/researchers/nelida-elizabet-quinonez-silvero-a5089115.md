@@ -1,7 +1,7 @@
 ---
 title: "Nélida Elizabet Quiñonez Silvero"
 description: "Nélida Elizabet Quiñonez Silvero is a Senior Soil Carbon researcher at University of Sao Paulo in BR. With 52 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.190521
+date: 2026-07-10T01:07:47.279776
 url: "/cdr-researcher-census/researchers/nelida-elizabet-quinonez-silvero-a5089115/"
 layout: "researcher"
 hiddenInHomeList: true

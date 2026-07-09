@@ -1,7 +1,7 @@
 ---
 title: "Zhilong Duan"
 description: "Zhilong Duan is a Mid-career Soil Carbon researcher at Yanan University Affiliated Hospital in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.917265
+date: 2026-07-10T01:07:48.841513
 url: "/cdr-researcher-census/researchers/zhilong-duan-a5049037/"
 layout: "researcher"
 hiddenInHomeList: true

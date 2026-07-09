@@ -1,7 +1,7 @@
 ---
 title: "Hanqian Pan"
 description: "Hanqian Pan is a Mid-career General CDR researcher at Chongqing University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.444248
+date: 2026-07-10T01:07:48.433990
 url: "/cdr-researcher-census/researchers/hanqian-pan-a5054930/"
 layout: "researcher"
 hiddenInHomeList: true

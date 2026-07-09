@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Amin Bazrafshan"
 description: "Mohammad Amin Bazrafshan is a Mid-career Unknown researcher at University of Tehran in IR. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.974228
+date: 2026-07-10T01:07:47.984232
 url: "/cdr-researcher-census/researchers/mohammad-amin-bazrafshan-a5084184/"
 layout: "researcher"
 hiddenInHomeList: true

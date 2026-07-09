@@ -1,7 +1,7 @@
 ---
 title: "Bryan C. Benitez-Nelson"
 description: "Bryan C. Benitez-Nelson is a Senior Unknown researcher at University of South Carolina in US. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.170505
+date: 2026-07-10T01:07:47.260327
 url: "/cdr-researcher-census/researchers/bryan-c-benitez-nelson-a5023274/"
 layout: "researcher"
 hiddenInHomeList: true

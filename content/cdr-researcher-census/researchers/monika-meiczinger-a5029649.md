@@ -1,7 +1,7 @@
 ---
 title: "Mónika Meiczinger"
 description: "Mónika Meiczinger is a Senior Soil Carbon researcher at University of Pannonia in HU. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.325596
+date: 2026-07-10T01:07:47.407623
 url: "/cdr-researcher-census/researchers/monika-meiczinger-a5029649/"
 layout: "researcher"
 hiddenInHomeList: true

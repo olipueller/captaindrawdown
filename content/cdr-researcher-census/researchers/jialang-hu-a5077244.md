@@ -1,7 +1,7 @@
 ---
 title: "Jialang Hu"
 description: "Jialang Hu is a Mid-career Unknown researcher at Chemical Synthesis Lab in SG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.757384
+date: 2026-07-10T01:07:48.703122
 url: "/cdr-researcher-census/researchers/jialang-hu-a5077244/"
 layout: "researcher"
 hiddenInHomeList: true

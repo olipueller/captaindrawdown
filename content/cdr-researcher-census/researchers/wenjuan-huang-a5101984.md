@@ -1,7 +1,7 @@
 ---
 title: "Wenjuan Huang"
 description: "Wenjuan Huang is a Senior Soil Carbon researcher at Iowa State University in US. With 93 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.004846
+date: 2026-07-10T01:07:47.065623
 url: "/cdr-researcher-census/researchers/wenjuan-huang-a5101984/"
 layout: "researcher"
 hiddenInHomeList: true

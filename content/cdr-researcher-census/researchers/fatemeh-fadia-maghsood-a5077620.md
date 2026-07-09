@@ -1,7 +1,7 @@
 ---
 title: "Fatemeh Fadia Maghsood"
 description: "Fatemeh Fadia Maghsood is a Mid-career Unknown researcher at University of Florida in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.804888
+date: 2026-07-10T01:07:47.851973
 url: "/cdr-researcher-census/researchers/fatemeh-fadia-maghsood-a5077620/"
 layout: "researcher"
 hiddenInHomeList: true

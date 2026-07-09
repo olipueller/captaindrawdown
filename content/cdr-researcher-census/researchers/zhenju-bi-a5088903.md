@@ -1,7 +1,7 @@
 ---
 title: "Zhenju Bi"
 description: "Zhenju Bi is a Mid-career Unknown researcher at Jiangsu Vocational Institute of Architectural Technology in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.491360
+date: 2026-07-10T01:07:48.477354
 url: "/cdr-researcher-census/researchers/zhenju-bi-a5088903/"
 layout: "researcher"
 hiddenInHomeList: true

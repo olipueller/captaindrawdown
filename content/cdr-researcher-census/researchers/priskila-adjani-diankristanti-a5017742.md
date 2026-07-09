@@ -1,7 +1,7 @@
 ---
 title: "Priskila Adjani Diankristanti"
 description: "Priskila Adjani Diankristanti is a Mid-career Ocean CDR researcher at National Cheng Kung University in TW. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.540382
+date: 2026-07-10T01:07:48.521985
 url: "/cdr-researcher-census/researchers/priskila-adjani-diankristanti-a5017742/"
 layout: "researcher"
 hiddenInHomeList: true

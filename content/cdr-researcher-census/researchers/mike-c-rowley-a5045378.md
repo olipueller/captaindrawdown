@@ -1,7 +1,7 @@
 ---
 title: "Mike C. Rowley"
 description: "Mike C. Rowley is a Mid-career Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.185561
+date: 2026-07-10T01:07:47.274522
 url: "/cdr-researcher-census/researchers/mike-c-rowley-a5045378/"
 layout: "researcher"
 hiddenInHomeList: true

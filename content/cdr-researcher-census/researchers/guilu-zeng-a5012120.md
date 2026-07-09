@@ -1,7 +1,7 @@
 ---
 title: "Guilu Zeng"
 description: "Guilu Zeng is a Mid-career Unknown researcher at East China University of Science and Technology in CN. With 30 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.573510
+date: 2026-07-10T01:07:47.637122
 url: "/cdr-researcher-census/researchers/guilu-zeng-a5012120/"
 layout: "researcher"
 hiddenInHomeList: true

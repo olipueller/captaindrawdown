@@ -1,7 +1,7 @@
 ---
 title: "Zhuoyue Zhang"
 description: "Zhuoyue Zhang is a Mid-career Soil Carbon researcher at Zhejiang University of Technology in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.291808
+date: 2026-07-10T01:07:47.374168
 url: "/cdr-researcher-census/researchers/zhuoyue-zhang-a5103132/"
 layout: "researcher"
 hiddenInHomeList: true

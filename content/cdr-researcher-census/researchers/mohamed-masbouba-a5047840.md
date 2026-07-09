@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Masbouba"
 description: "Mohamed Masbouba is a Mid-career Unknown researcher at Rowan University in US. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.181067
+date: 2026-07-10T01:07:49.094998
 url: "/cdr-researcher-census/researchers/mohamed-masbouba-a5047840/"
 layout: "researcher"
 hiddenInHomeList: true

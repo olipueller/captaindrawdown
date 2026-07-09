@@ -1,7 +1,7 @@
 ---
 title: "Jilong Huang"
 description: "Jilong Huang is a Senior Unknown researcher at Shenzhen Polytechnic University in CN. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.450502
+date: 2026-07-10T01:07:47.526273
 url: "/cdr-researcher-census/researchers/jilong-huang-a5049337/"
 layout: "researcher"
 hiddenInHomeList: true

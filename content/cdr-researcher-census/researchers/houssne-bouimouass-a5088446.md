@@ -1,7 +1,7 @@
 ---
 title: "Houssne Bouimouass"
 description: "Houssne Bouimouass is a Mid-career Unknown researcher at Center For Remote Sensing (United States) in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.365985
+date: 2026-07-10T01:07:48.363434
 url: "/cdr-researcher-census/researchers/houssne-bouimouass-a5088446/"
 layout: "researcher"
 hiddenInHomeList: true

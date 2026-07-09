@@ -1,7 +1,7 @@
 ---
 title: "Tainá Moreira Martins Venas"
 description: "Tainá Moreira Martins Venas is a Mid-career Unknown researcher at Fundação Oswaldo Cruz in BR. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.582689
+date: 2026-07-10T01:07:47.646181
 url: "/cdr-researcher-census/researchers/taina-moreira-martins-venas-a5060243/"
 layout: "researcher"
 hiddenInHomeList: true

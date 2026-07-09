@@ -1,7 +1,7 @@
 ---
 title: "Kelly Eurek"
 description: "Kelly Eurek is a Mid-career General CDR researcher at National Laboratory of the Rockies in US. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.073227
+date: 2026-07-10T01:07:48.075807
 url: "/cdr-researcher-census/researchers/kelly-eurek-a5101684/"
 layout: "researcher"
 hiddenInHomeList: true

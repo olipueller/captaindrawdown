@@ -1,7 +1,7 @@
 ---
 title: "Adita Sharma"
 description: "Adita Sharma is an Early-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.668988
+date: 2026-07-10T01:07:48.624911
 url: "/cdr-researcher-census/researchers/adita-sharma-a5008034/"
 layout: "researcher"
 hiddenInHomeList: true

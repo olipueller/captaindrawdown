@@ -1,7 +1,7 @@
 ---
 title: "Evangelos Alevizos"
 description: "Evangelos Alevizos is a Mid-career Ocean CDR researcher at Nantes Université in FR. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.615494
+date: 2026-07-10T01:07:47.676600
 url: "/cdr-researcher-census/researchers/evangelos-alevizos-a5075114/"
 layout: "researcher"
 hiddenInHomeList: true

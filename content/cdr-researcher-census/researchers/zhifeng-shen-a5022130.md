@@ -1,7 +1,7 @@
 ---
 title: "Zhifeng Shen"
 description: "Zhifeng Shen is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.043851
+date: 2026-07-10T01:07:48.957481
 url: "/cdr-researcher-census/researchers/zhifeng-shen-a5022130/"
 layout: "researcher"
 hiddenInHomeList: true

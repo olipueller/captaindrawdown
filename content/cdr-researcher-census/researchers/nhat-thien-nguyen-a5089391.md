@@ -1,7 +1,7 @@
 ---
 title: "Nhat-Thien Nguyen"
 description: "Nhat-Thien Nguyen is a Mid-career Biochar researcher at National Taipei University of Technology in TW. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.464500
+date: 2026-07-10T01:07:48.452289
 url: "/cdr-researcher-census/researchers/nhat-thien-nguyen-a5089391/"
 layout: "researcher"
 hiddenInHomeList: true

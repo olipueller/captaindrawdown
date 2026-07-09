@@ -1,7 +1,7 @@
 ---
 title: "Javier Urrutia"
 description: "Javier Urrutia is a Senior Unknown researcher at Universidad Católica del Norte in CL. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.490820
+date: 2026-07-10T01:07:47.561613
 url: "/cdr-researcher-census/researchers/javier-urrutia-a5078457/"
 layout: "researcher"
 hiddenInHomeList: true

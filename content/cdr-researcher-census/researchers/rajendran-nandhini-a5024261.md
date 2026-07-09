@@ -1,7 +1,7 @@
 ---
 title: "Rajendran Nandhini"
 description: "Rajendran Nandhini is a Mid-career General CDR researcher at National Institute of Technology Tiruchirappalli in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.013032
+date: 2026-07-10T01:07:48.020868
 url: "/cdr-researcher-census/researchers/rajendran-nandhini-a5024261/"
 layout: "researcher"
 hiddenInHomeList: true

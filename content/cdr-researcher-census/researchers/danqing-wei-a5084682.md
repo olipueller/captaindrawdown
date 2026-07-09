@@ -1,7 +1,7 @@
 ---
 title: "Danqing Wei"
 description: "Danqing Wei is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.705403
+date: 2026-07-10T01:07:47.759598
 url: "/cdr-researcher-census/researchers/danqing-wei-a5084682/"
 layout: "researcher"
 hiddenInHomeList: true

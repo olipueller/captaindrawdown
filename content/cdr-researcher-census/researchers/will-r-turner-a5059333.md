@@ -1,7 +1,7 @@
 ---
 title: "Will R. Turner"
 description: "Will R. Turner is a Senior General CDR researcher at Conservation International in US. With 96 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.921048
+date: 2026-07-10T01:07:46.929177
 url: "/cdr-researcher-census/researchers/will-r-turner-a5059333/"
 layout: "researcher"
 hiddenInHomeList: true

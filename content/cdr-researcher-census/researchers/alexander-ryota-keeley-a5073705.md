@@ -1,7 +1,7 @@
 ---
 title: "Alexander Ryota Keeley"
 description: "Alexander Ryota Keeley is a Senior General CDR researcher at Kyushu University in JP. With 77 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.066771
+date: 2026-07-10T01:07:47.144432
 url: "/cdr-researcher-census/researchers/alexander-ryota-keeley-a5073705/"
 layout: "researcher"
 hiddenInHomeList: true

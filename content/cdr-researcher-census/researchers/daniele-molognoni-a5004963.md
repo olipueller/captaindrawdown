@@ -1,7 +1,7 @@
 ---
 title: "Daniele Molognoni"
 description: "Daniele Molognoni is a Senior General CDR researcher at Leitat Technological Center in ES. With 50 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.161170
+date: 2026-07-10T01:07:47.250290
 url: "/cdr-researcher-census/researchers/daniele-molognoni-a5004963/"
 layout: "researcher"
 hiddenInHomeList: true

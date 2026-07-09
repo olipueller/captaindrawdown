@@ -1,7 +1,7 @@
 ---
 title: "John A. Tix"
 description: "John A. Tix is a Mid-career Unknown researcher. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.793060
+date: 2026-07-10T01:07:47.841545
 url: "/cdr-researcher-census/researchers/john-a-tix-a5051559/"
 layout: "researcher"
 hiddenInHomeList: true

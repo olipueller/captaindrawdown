@@ -1,7 +1,7 @@
 ---
 title: "Yanzhe Yin"
 description: "Yanzhe Yin is a Mid-career Unknown researcher at Amazon (United States) in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.180327
+date: 2026-07-10T01:07:49.094312
 url: "/cdr-researcher-census/researchers/yanzhe-yin-a5062210/"
 layout: "researcher"
 hiddenInHomeList: true

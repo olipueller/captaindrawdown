@@ -1,7 +1,7 @@
 ---
 title: "Thanyarat Buasiri"
 description: "Thanyarat Buasiri is a Mid-career Unknown researcher at Luleå University of Technology in SE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.509651
+date: 2026-07-10T01:07:48.494494
 url: "/cdr-researcher-census/researchers/thanyarat-buasiri-a5089996/"
 layout: "researcher"
 hiddenInHomeList: true

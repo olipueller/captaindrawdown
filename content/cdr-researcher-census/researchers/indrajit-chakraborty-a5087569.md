@@ -1,7 +1,7 @@
 ---
 title: "Indrajit Chakraborty"
 description: "Indrajit Chakraborty is a Senior General CDR researcher at Indian Institute of Technology Bombay in IN. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.143388
+date: 2026-07-10T01:07:47.232273
 url: "/cdr-researcher-census/researchers/indrajit-chakraborty-a5087569/"
 layout: "researcher"
 hiddenInHomeList: true

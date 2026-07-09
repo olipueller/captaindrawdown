@@ -1,7 +1,7 @@
 ---
 title: "Radomir Schmidt"
 description: "Radomir Schmidt is a Senior Soil Carbon researcher at University of California System in US. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.088449
+date: 2026-07-10T01:07:47.170785
 url: "/cdr-researcher-census/researchers/radomir-schmidt-a5029955/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Luca Paro"
 description: "Luca Paro is a Mid-career Unknown researcher at Agenzia Regionale per la Protezione Ambientale del Piemonte in IT. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.073968
+date: 2026-07-10T01:07:48.076655
 url: "/cdr-researcher-census/researchers/luca-paro-a5020003/"
 layout: "researcher"
 hiddenInHomeList: true

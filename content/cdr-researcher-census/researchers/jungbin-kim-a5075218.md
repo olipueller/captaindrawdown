@@ -1,7 +1,7 @@
 ---
 title: "Jungbin Kim"
 description: "Jungbin Kim is a Senior Unknown researcher at Wenzhou-Kean University in CN. With 39 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.108818
+date: 2026-07-10T01:07:47.194253
 url: "/cdr-researcher-census/researchers/jungbin-kim-a5075218/"
 layout: "researcher"
 hiddenInHomeList: true

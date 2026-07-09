@@ -1,7 +1,7 @@
 ---
 title: "Anne M. Benneker"
 description: "Anne M. Benneker is a Mid-career General CDR researcher at University of Calgary in CA. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.491577
+date: 2026-07-10T01:07:47.562214
 url: "/cdr-researcher-census/researchers/anne-m-benneker-a5064787/"
 layout: "researcher"
 hiddenInHomeList: true

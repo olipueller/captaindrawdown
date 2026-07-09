@@ -1,7 +1,7 @@
 ---
 title: "Jannis Grafmüller"
 description: "Jannis Grafmüller is a Mid-career Biochar researcher at Ithaka Harbors in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.144931
+date: 2026-07-10T01:07:49.047346
 url: "/cdr-researcher-census/researchers/jannis-grafmuller-a5029341/"
 layout: "researcher"
 hiddenInHomeList: true

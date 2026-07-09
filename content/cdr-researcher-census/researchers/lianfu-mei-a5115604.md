@@ -1,7 +1,7 @@
 ---
 title: "Lianfu Mei"
 description: "Lianfu Mei is a Senior Unknown researcher at China University of Geosciences in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.260024
+date: 2026-07-10T01:07:48.267622
 url: "/cdr-researcher-census/researchers/lianfu-mei-a5115604/"
 layout: "researcher"
 hiddenInHomeList: true

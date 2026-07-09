@@ -1,7 +1,7 @@
 ---
 title: "Muskan Singhal"
 description: "Muskan Singhal is an Early-career Unknown researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.962763
+date: 2026-07-10T01:07:48.883880
 url: "/cdr-researcher-census/researchers/muskan-singhal-a5013998/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Seo Yeong Kang"
 description: "Seo Yeong Kang is a Mid-career Unknown researcher at SK Group (South Korea) in KR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.799877
+date: 2026-07-10T01:07:48.738845
 url: "/cdr-researcher-census/researchers/seo-yeong-kang-a5113929/"
 layout: "researcher"
 hiddenInHomeList: true

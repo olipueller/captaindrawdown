@@ -1,7 +1,7 @@
 ---
 title: "Nicola Agnew"
 description: "Nicola Agnew is a Mid-career Unknown researcher at St Thomas' Hospital in GB. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.952541
+date: 2026-07-10T01:07:47.964142
 url: "/cdr-researcher-census/researchers/nicola-agnew-a5075766/"
 layout: "researcher"
 hiddenInHomeList: true

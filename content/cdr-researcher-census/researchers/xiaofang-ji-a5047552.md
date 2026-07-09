@@ -1,7 +1,7 @@
 ---
 title: "Xiaofang Ji"
 description: "Xiaofang Ji is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.091467
+date: 2026-07-10T01:07:49.000638
 url: "/cdr-researcher-census/researchers/xiaofang-ji-a5047552/"
 layout: "researcher"
 hiddenInHomeList: true

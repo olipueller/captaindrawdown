@@ -1,7 +1,7 @@
 ---
 title: "Fernanda Figueiredo Granja Dorilêo Leite"
 description: "Fernanda Figueiredo Granja Dorilêo Leite is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.011014
+date: 2026-07-10T01:07:48.018939
 url: "/cdr-researcher-census/researchers/fernanda-figueiredo-granja-dorileo-leite-a5034878/"
 layout: "researcher"
 hiddenInHomeList: true

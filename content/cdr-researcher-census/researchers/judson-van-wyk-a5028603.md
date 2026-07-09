@@ -1,7 +1,7 @@
 ---
 title: "Judson Van Wyk"
 description: "Judson Van Wyk is a Mid-career BECCS researcher at Michigan State University in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.339963
+date: 2026-07-10T01:07:48.339444
 url: "/cdr-researcher-census/researchers/judson-van-wyk-a5028603/"
 layout: "researcher"
 hiddenInHomeList: true

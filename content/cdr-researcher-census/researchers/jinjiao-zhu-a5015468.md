@@ -1,7 +1,7 @@
 ---
 title: "Jinjiao Zhu"
 description: "Jinjiao Zhu is a Mid-career Biochar researcher at Yancheng Institute of Technology in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.345874
+date: 2026-07-10T01:07:47.428589
 url: "/cdr-researcher-census/researchers/jinjiao-zhu-a5015468/"
 layout: "researcher"
 hiddenInHomeList: true

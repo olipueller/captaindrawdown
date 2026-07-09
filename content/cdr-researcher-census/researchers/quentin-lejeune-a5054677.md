@@ -1,7 +1,7 @@
 ---
 title: "Quentin Lejeune"
 description: "Quentin Lejeune is a Mid-career General CDR researcher at Vrije Universiteit Brussel in BE. With 126 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.059453
+date: 2026-07-10T01:07:47.135443
 url: "/cdr-researcher-census/researchers/quentin-lejeune-a5054677/"
 layout: "researcher"
 hiddenInHomeList: true

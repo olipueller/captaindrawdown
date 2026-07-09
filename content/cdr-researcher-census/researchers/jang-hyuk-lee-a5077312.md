@@ -1,7 +1,7 @@
 ---
 title: "Jang Hyuk Lee"
 description: "Jang Hyuk Lee is a Senior Soil Carbon researcher at Korea University in KR. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.966248
+date: 2026-07-10T01:07:47.976848
 url: "/cdr-researcher-census/researchers/jang-hyuk-lee-a5077312/"
 layout: "researcher"
 hiddenInHomeList: true

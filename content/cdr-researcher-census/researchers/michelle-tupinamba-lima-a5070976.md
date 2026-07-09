@@ -1,7 +1,7 @@
 ---
 title: "Michelle Tupinamba Lima"
 description: "Michelle Tupinamba Lima is a Mid-career Unknown researcher at Technische Universität Berlin in DE. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.019500
+date: 2026-07-10T01:07:48.935519
 url: "/cdr-researcher-census/researchers/michelle-tupinamba-lima-a5070976/"
 layout: "researcher"
 hiddenInHomeList: true

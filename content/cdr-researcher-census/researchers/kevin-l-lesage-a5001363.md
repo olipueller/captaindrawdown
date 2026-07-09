@@ -1,7 +1,7 @@
 ---
 title: "Kevin L. Lesage"
 description: "Kevin L. Lesage is a Senior Unknown researcher at University of Calgary in CA. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.618777
+date: 2026-07-10T01:07:47.679571
 url: "/cdr-researcher-census/researchers/kevin-l-lesage-a5001363/"
 layout: "researcher"
 hiddenInHomeList: true

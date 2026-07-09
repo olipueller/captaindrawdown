@@ -1,7 +1,7 @@
 ---
 title: "Fatih Güleç"
 description: "Fatih Güleç is a Senior General CDR researcher at University of Nottingham in GB. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.177300
+date: 2026-07-10T01:07:47.266504
 url: "/cdr-researcher-census/researchers/fatih-gulec-a5080313/"
 layout: "researcher"
 hiddenInHomeList: true

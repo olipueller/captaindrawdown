@@ -1,7 +1,7 @@
 ---
 title: "Bin Zhang"
 description: "Bin Zhang is a Senior Unknown researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.719424
+date: 2026-07-10T01:07:48.669264
 url: "/cdr-researcher-census/researchers/bin-zhang-a5100392/"
 layout: "researcher"
 hiddenInHomeList: true

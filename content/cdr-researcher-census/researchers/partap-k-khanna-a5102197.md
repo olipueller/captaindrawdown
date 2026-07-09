@@ -1,7 +1,7 @@
 ---
 title: "Partap K. Khanna"
 description: "Partap K. Khanna is a Senior Unknown researcher at University of Göttingen in DE. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.367924
+date: 2026-07-10T01:07:47.450238
 url: "/cdr-researcher-census/researchers/partap-k-khanna-a5102197/"
 layout: "researcher"
 hiddenInHomeList: true

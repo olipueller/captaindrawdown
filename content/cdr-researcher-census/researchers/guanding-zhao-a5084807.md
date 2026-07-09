@@ -1,7 +1,7 @@
 ---
 title: "Guanding Zhao"
 description: "Guanding Zhao is a Mid-career Unknown researcher at University of Macau in MO. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.083594
+date: 2026-07-10T01:07:48.993906
 url: "/cdr-researcher-census/researchers/guanding-zhao-a5084807/"
 layout: "researcher"
 hiddenInHomeList: true

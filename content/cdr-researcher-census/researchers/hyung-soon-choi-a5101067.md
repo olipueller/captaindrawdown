@@ -1,7 +1,7 @@
 ---
 title: "Hyung Soon Choi"
 description: "Hyung Soon Choi is a Senior Unknown researcher at Kosin University Gospel Hospital in KR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.153450
+date: 2026-07-10T01:07:48.172930
 url: "/cdr-researcher-census/researchers/hyung-soon-choi-a5101067/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chia-Lee Yang"
 description: "Chia-Lee Yang is a Mid-career Unknown researcher at National Center for High-Performance Computing in TW. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.444349
+date: 2026-07-10T01:07:48.434084
 url: "/cdr-researcher-census/researchers/chia-lee-yang-a5056324/"
 layout: "researcher"
 hiddenInHomeList: true

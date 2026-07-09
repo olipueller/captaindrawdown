@@ -1,7 +1,7 @@
 ---
 title: "Fernando Gisbert"
 description: "Fernando Gisbert is a Senior Unknown researcher. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.130944
+date: 2026-07-10T01:07:48.153740
 url: "/cdr-researcher-census/researchers/fernando-gisbert-a5024731/"
 layout: "researcher"
 hiddenInHomeList: true

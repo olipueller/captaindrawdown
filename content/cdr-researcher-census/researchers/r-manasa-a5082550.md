@@ -1,7 +1,7 @@
 ---
 title: "R Manasa"
 description: "R Manasa is a Mid-career Ocean CDR researcher at Dr. Hari Singh Gour University in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.957786
+date: 2026-07-10T01:07:48.879404
 url: "/cdr-researcher-census/researchers/r-manasa-a5082550/"
 layout: "researcher"
 hiddenInHomeList: true

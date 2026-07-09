@@ -1,7 +1,7 @@
 ---
 title: "Zhongyu Gao"
 description: "Zhongyu Gao is a Senior General CDR researcher at University of Shanghai for Science and Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.329804
+date: 2026-07-10T01:07:48.330214
 url: "/cdr-researcher-census/researchers/zhongyu-gao-a5100566/"
 layout: "researcher"
 hiddenInHomeList: true

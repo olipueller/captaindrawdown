@@ -1,7 +1,7 @@
 ---
 title: "Fachao Liang"
 description: "Fachao Liang is a Mid-career Unknown researcher at Huaqiao University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.398050
+date: 2026-07-10T01:07:48.390172
 url: "/cdr-researcher-census/researchers/fachao-liang-a5083525/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haijun Hou"
 description: "Haijun Hou is a Senior Soil Carbon researcher at Yancheng Institute of Technology in CN. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.278087
+date: 2026-07-10T01:07:47.360432
 url: "/cdr-researcher-census/researchers/haijun-hou-a5101961/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Steven Sleutel"
 description: "Steven Sleutel is an Eminent Soil Carbon researcher at Ghent University Hospital in BE. With 250 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.944915
+date: 2026-07-10T01:07:46.974734
 url: "/cdr-researcher-census/researchers/steven-sleutel-a5068587/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Divya Sharma"
 description: "Divya Sharma is a Mid-career Unknown researcher at Horizon College and Seminary in CA. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.863968
+date: 2026-07-10T01:07:48.793262
 url: "/cdr-researcher-census/researchers/divya-sharma-a5101481/"
 layout: "researcher"
 hiddenInHomeList: true

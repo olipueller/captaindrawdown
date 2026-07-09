@@ -1,7 +1,7 @@
 ---
 title: "Jagadish H Patil"
 description: "Jagadish H Patil is a Mid-career Biochar researcher at Rock Valley College in US. With 59 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.639829
+date: 2026-07-10T01:07:47.699125
 url: "/cdr-researcher-census/researchers/jagadish-h-patil-a5038475/"
 layout: "researcher"
 hiddenInHomeList: true

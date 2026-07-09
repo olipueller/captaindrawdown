@@ -1,7 +1,7 @@
 ---
 title: "Nisanth Menon Nedungalaparambil"
 description: "Nisanth Menon Nedungalaparambil is a Mid-career Unknown researcher at MOSC Medical College Hospital in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.940851
+date: 2026-07-10T01:07:47.953337
 url: "/cdr-researcher-census/researchers/nisanth-menon-nedungalaparambil-a5017307/"
 layout: "researcher"
 hiddenInHomeList: true

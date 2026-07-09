@@ -1,7 +1,7 @@
 ---
 title: "José Eduardo Marqués‐Gálvez"
 description: "José Eduardo Marqués‐Gálvez is a Mid-career Soil Carbon researcher at Institute of Biosciences and Bioresources in IT. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.437701
+date: 2026-07-10T01:07:48.427673
 url: "/cdr-researcher-census/researchers/jose-eduardo-marquesgalvez-a5014038/"
 layout: "researcher"
 hiddenInHomeList: true

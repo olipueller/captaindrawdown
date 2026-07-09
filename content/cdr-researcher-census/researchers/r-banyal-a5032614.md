@@ -1,7 +1,7 @@
 ---
 title: "R. Banyal"
 description: "R. Banyal is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.199629
+date: 2026-07-10T01:07:48.212643
 url: "/cdr-researcher-census/researchers/r-banyal-a5032614/"
 layout: "researcher"
 hiddenInHomeList: true

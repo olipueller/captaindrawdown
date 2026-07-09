@@ -1,7 +1,7 @@
 ---
 title: "Osvaldo Biancolilli"
 description: "Osvaldo Biancolilli is a Mid-career Unknown researcher at Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico in IT. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.962275
+date: 2026-07-10T01:07:48.883411
 url: "/cdr-researcher-census/researchers/osvaldo-biancolilli-a5070336/"
 layout: "researcher"
 hiddenInHomeList: true

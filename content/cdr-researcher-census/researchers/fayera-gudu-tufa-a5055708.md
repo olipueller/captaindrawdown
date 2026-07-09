@@ -1,7 +1,7 @@
 ---
 title: "Fayera Gudu Tufa"
 description: "Fayera Gudu Tufa is a Mid-career Unknown researcher at Jimma University, Jimma Institute of Technology in ET. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.254650
+date: 2026-07-10T01:07:48.262757
 url: "/cdr-researcher-census/researchers/fayera-gudu-tufa-a5055708/"
 layout: "researcher"
 hiddenInHomeList: true

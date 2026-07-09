@@ -1,7 +1,7 @@
 ---
 title: "Dennis Höning"
 description: "Dennis Höning is a Mid-career General CDR researcher at Vrije Universiteit Amsterdam in NL. With 80 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.426539
+date: 2026-07-10T01:07:47.504762
 url: "/cdr-researcher-census/researchers/dennis-honing-a5057938/"
 layout: "researcher"
 hiddenInHomeList: true

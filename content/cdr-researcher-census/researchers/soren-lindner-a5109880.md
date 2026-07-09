@@ -1,7 +1,7 @@
 ---
 title: "Sören Lindner"
 description: "Sören Lindner is a Senior Soil Carbon researcher at International Institute for Applied Systems Analysis in AT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.494071
+date: 2026-07-10T01:07:48.479782
 url: "/cdr-researcher-census/researchers/soren-lindner-a5109880/"
 layout: "researcher"
 hiddenInHomeList: true

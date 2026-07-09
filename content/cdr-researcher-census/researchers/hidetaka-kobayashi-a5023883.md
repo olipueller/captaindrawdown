@@ -1,7 +1,7 @@
 ---
 title: "Hidetaka Kobayashi"
 description: "Hidetaka Kobayashi is a Senior Ocean CDR researcher at University of Toyama in JP. With 107 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.192588
+date: 2026-07-10T01:07:47.281806
 url: "/cdr-researcher-census/researchers/hidetaka-kobayashi-a5023883/"
 layout: "researcher"
 hiddenInHomeList: true

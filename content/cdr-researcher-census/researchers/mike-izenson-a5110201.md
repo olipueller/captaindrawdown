@@ -1,7 +1,7 @@
 ---
 title: "Mike Izenson"
 description: "Mike Izenson is a Senior Unknown researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.796520
+date: 2026-07-10T01:07:48.735981
 url: "/cdr-researcher-census/researchers/mike-izenson-a5110201/"
 layout: "researcher"
 hiddenInHomeList: true

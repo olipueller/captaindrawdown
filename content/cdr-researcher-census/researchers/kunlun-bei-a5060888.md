@@ -1,7 +1,7 @@
 ---
 title: "Kunlun Bei"
 description: "Kunlun Bei is an Early-career Unknown researcher at Taiyuan University of Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.774673
+date: 2026-07-10T01:07:48.718612
 url: "/cdr-researcher-census/researchers/kunlun-bei-a5060888/"
 layout: "researcher"
 hiddenInHomeList: true

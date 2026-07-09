@@ -1,7 +1,7 @@
 ---
 title: "Han Yang"
 description: "Han Yang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.188954
+date: 2026-07-10T01:07:48.203721
 url: "/cdr-researcher-census/researchers/han-yang-a5100570/"
 layout: "researcher"
 hiddenInHomeList: true

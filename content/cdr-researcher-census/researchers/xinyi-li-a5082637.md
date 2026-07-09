@@ -1,7 +1,7 @@
 ---
 title: "Xinyi Li"
 description: "Xinyi Li is a Mid-career Biochar researcher at Lanzhou University of Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.135568
+date: 2026-07-10T01:07:49.039388
 url: "/cdr-researcher-census/researchers/xinyi-li-a5082637/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Elena Valkama"
 description: "Elena Valkama is a Senior Soil Carbon researcher at Natural Resources Institute Finland (Luke) in FI. With 85 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.076775
+date: 2026-07-10T01:07:47.156600
 url: "/cdr-researcher-census/researchers/elena-valkama-a5076588/"
 layout: "researcher"
 hiddenInHomeList: true

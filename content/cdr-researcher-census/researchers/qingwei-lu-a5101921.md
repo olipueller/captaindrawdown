@@ -1,7 +1,7 @@
 ---
 title: "Qingwei Lu"
 description: "Qingwei Lu is a Mid-career Biochar researcher at Anhui University of Traditional Chinese Medicine in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.319260
+date: 2026-07-10T01:07:48.320739
 url: "/cdr-researcher-census/researchers/qingwei-lu-a5101921/"
 layout: "researcher"
 hiddenInHomeList: true

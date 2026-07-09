@@ -1,7 +1,7 @@
 ---
 title: "Soon In Jung"
 description: "Soon In Jung is a Mid-career Unknown researcher at Daegu Gyeongbuk Institute of Science and Technology in KR. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.622780
+date: 2026-07-10T01:07:48.583614
 url: "/cdr-researcher-census/researchers/soon-in-jung-a5003581/"
 layout: "researcher"
 hiddenInHomeList: true

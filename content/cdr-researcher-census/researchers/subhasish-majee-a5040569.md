@@ -1,7 +1,7 @@
 ---
 title: "Subhasish Majee"
 description: "Subhasish Majee is a Senior Unknown researcher at National Institute of Technology Durgapur in IN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.447925
+date: 2026-07-10T01:07:47.524025
 url: "/cdr-researcher-census/researchers/subhasish-majee-a5040569/"
 layout: "researcher"
 hiddenInHomeList: true

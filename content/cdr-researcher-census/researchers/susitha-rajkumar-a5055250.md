@@ -1,7 +1,7 @@
 ---
 title: "Susitha Rajkumar"
 description: "Susitha Rajkumar is a Mid-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.959416
+date: 2026-07-10T01:07:48.880799
 url: "/cdr-researcher-census/researchers/susitha-rajkumar-a5055250/"
 layout: "researcher"
 hiddenInHomeList: true

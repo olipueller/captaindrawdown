@@ -1,7 +1,7 @@
 ---
 title: "Zainab Mohammed Redha"
 description: "Zainab Mohammed Redha is a Senior Unknown researcher at University of Bahrain in BH. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.122095
+date: 2026-07-10T01:07:49.027467
 url: "/cdr-researcher-census/researchers/zainab-mohammed-redha-a5046487/"
 layout: "researcher"
 hiddenInHomeList: true

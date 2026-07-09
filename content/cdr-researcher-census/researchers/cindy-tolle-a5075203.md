@@ -1,7 +1,7 @@
 ---
 title: "Cindy Tolle"
 description: "Cindy Tolle is a Mid-career Unknown researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.071775
+date: 2026-07-10T01:07:48.982801
 url: "/cdr-researcher-census/researchers/cindy-tolle-a5075203/"
 layout: "researcher"
 hiddenInHomeList: true

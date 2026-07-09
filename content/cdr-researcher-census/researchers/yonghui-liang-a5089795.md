@@ -1,7 +1,7 @@
 ---
 title: "Yonghui Liang"
 description: "Yonghui Liang is a Mid-career Soil Carbon researcher at Beijing Institute of Technology in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.432776
+date: 2026-07-10T01:07:48.423033
 url: "/cdr-researcher-census/researchers/yonghui-liang-a5089795/"
 layout: "researcher"
 hiddenInHomeList: true

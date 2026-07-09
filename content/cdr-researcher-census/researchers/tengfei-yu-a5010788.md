@@ -1,7 +1,7 @@
 ---
 title: "Tengfei Yu"
 description: "Tengfei Yu is a Senior Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences in CN. With 82 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.166950
+date: 2026-07-10T01:07:47.256572
 url: "/cdr-researcher-census/researchers/tengfei-yu-a5010788/"
 layout: "researcher"
 hiddenInHomeList: true

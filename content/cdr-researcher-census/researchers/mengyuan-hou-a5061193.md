@@ -1,7 +1,7 @@
 ---
 title: "Mengyuan Hou"
 description: "Mengyuan Hou is an Early-career Unknown researcher at Fuzhou University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.789543
+date: 2026-07-10T01:07:48.730548
 url: "/cdr-researcher-census/researchers/mengyuan-hou-a5061193/"
 layout: "researcher"
 hiddenInHomeList: true

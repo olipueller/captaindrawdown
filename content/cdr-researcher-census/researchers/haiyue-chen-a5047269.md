@@ -1,7 +1,7 @@
 ---
 title: "Haiyue Chen"
 description: "Haiyue Chen is a Mid-career Unknown researcher at Foshan University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.439376
+date: 2026-07-10T01:07:48.429243
 url: "/cdr-researcher-census/researchers/haiyue-chen-a5047269/"
 layout: "researcher"
 hiddenInHomeList: true

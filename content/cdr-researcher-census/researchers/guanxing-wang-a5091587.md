@@ -1,7 +1,7 @@
 ---
 title: "Guanxing Wang"
 description: "Guanxing Wang is a Senior Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 50 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.208377
+date: 2026-07-10T01:07:47.296500
 url: "/cdr-researcher-census/researchers/guanxing-wang-a5091587/"
 layout: "researcher"
 hiddenInHomeList: true

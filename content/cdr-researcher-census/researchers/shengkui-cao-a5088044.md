@@ -1,7 +1,7 @@
 ---
 title: "Shengkui Cao"
 description: "Shengkui Cao is a Senior Soil Carbon researcher at Qinghai Normal University in CN. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.576000
+date: 2026-07-10T01:07:47.639289
 url: "/cdr-researcher-census/researchers/shengkui-cao-a5088044/"
 layout: "researcher"
 hiddenInHomeList: true

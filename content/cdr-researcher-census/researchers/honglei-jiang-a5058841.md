@@ -1,7 +1,7 @@
 ---
 title: "Honglei Jiang"
 description: "Honglei Jiang is a Senior Soil Carbon researcher at Guangxi University in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.703168
+date: 2026-07-10T01:07:47.757719
 url: "/cdr-researcher-census/researchers/honglei-jiang-a5058841/"
 layout: "researcher"
 hiddenInHomeList: true

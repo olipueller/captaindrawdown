@@ -1,7 +1,7 @@
 ---
 title: "Ana Maria Roxana Petrescu"
 description: "Ana Maria Roxana Petrescu is a Senior General CDR researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 138 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.973554
+date: 2026-07-10T01:07:47.019117
 url: "/cdr-researcher-census/researchers/ana-maria-roxana-petrescu-a5030861/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Luciana Di Gregorio"
 description: "Luciana Di Gregorio is a Mid-career Soil Carbon researcher at National Agency for New Technologies, Energy and Sustainable Economic Development in IT. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.210198
+date: 2026-07-10T01:07:48.223093
 url: "/cdr-researcher-census/researchers/luciana-di-gregorio-a5020875/"
 layout: "researcher"
 hiddenInHomeList: true

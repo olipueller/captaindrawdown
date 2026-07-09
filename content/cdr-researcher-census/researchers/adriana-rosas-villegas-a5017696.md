@@ -1,7 +1,7 @@
 ---
 title: "Adriana Rosas-Villegas"
 description: "Adriana Rosas-Villegas is a Mid-career Unknown researcher at Rockefeller University in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.834579
+date: 2026-07-10T01:07:47.870756
 url: "/cdr-researcher-census/researchers/adriana-rosas-villegas-a5017696/"
 layout: "researcher"
 hiddenInHomeList: true

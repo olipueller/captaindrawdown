@@ -1,7 +1,7 @@
 ---
 title: "Song Wang"
 description: "Song Wang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.609300
+date: 2026-07-10T01:07:47.671122
 url: "/cdr-researcher-census/researchers/song-wang-a5077717/"
 layout: "researcher"
 hiddenInHomeList: true

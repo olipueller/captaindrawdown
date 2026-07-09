@@ -1,7 +1,7 @@
 ---
 title: "Ashley Dinauer"
 description: "Ashley Dinauer is a Mid-career Ocean CDR researcher at University of Bern in CH. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.064886
+date: 2026-07-10T01:07:48.067598
 url: "/cdr-researcher-census/researchers/ashley-dinauer-a5040966/"
 layout: "researcher"
 hiddenInHomeList: true

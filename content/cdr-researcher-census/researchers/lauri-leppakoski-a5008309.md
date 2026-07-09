@@ -1,7 +1,7 @@
 ---
 title: "Lauri Leppäkoski"
 description: "Lauri Leppäkoski is a Mid-career Unknown researcher at University of Helsinki in FI. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.540796
+date: 2026-07-10T01:07:48.522352
 url: "/cdr-researcher-census/researchers/lauri-leppakoski-a5008309/"
 layout: "researcher"
 hiddenInHomeList: true

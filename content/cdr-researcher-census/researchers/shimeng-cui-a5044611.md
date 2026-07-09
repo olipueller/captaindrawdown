@@ -1,7 +1,7 @@
 ---
 title: "Shimeng Cui"
 description: "Shimeng Cui is a Mid-career Unknown researcher at National Institute of Clean and Low-Carbon Energy in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.213202
+date: 2026-07-10T01:07:49.124914
 url: "/cdr-researcher-census/researchers/shimeng-cui-a5044611/"
 layout: "researcher"
 hiddenInHomeList: true

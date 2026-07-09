@@ -1,7 +1,7 @@
 ---
 title: "Jing Man"
 description: "Jing Man is a Senior Unknown researcher at Freie Universität Berlin in DE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.312214
+date: 2026-07-10T01:07:48.314692
 url: "/cdr-researcher-census/researchers/jing-man-a5054371/"
 layout: "researcher"
 hiddenInHomeList: true

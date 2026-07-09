@@ -1,7 +1,7 @@
 ---
 title: "Wenqian Sun"
 description: "Wenqian Sun is a Mid-career Unknown researcher at China University of Geosciences (Beijing) in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.663230
+date: 2026-07-10T01:07:48.619907
 url: "/cdr-researcher-census/researchers/wenqian-sun-a5108852/"
 layout: "researcher"
 hiddenInHomeList: true

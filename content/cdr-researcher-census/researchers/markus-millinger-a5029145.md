@@ -1,7 +1,7 @@
 ---
 title: "Markus Millinger"
 description: "Markus Millinger is a Mid-career General CDR researcher at RISE Research Institutes of Sweden in SE. With 66 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.437994
+date: 2026-07-10T01:07:47.514818
 url: "/cdr-researcher-census/researchers/markus-millinger-a5029145/"
 layout: "researcher"
 hiddenInHomeList: true

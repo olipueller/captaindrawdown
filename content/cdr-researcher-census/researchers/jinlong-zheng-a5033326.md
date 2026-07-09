@@ -1,7 +1,7 @@
 ---
 title: "Jinlong Zheng"
 description: "Jinlong Zheng is an Early-career Unknown researcher at Yunnan University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.680973
+date: 2026-07-10T01:07:48.636174
 url: "/cdr-researcher-census/researchers/jinlong-zheng-a5033326/"
 layout: "researcher"
 hiddenInHomeList: true

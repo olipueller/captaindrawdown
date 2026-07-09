@@ -1,7 +1,7 @@
 ---
 title: "Hamidreza Sayadi"
 description: "Hamidreza Sayadi is a Mid-career Unknown researcher at University of Shahrood in IR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.596897
+date: 2026-07-10T01:07:47.659914
 url: "/cdr-researcher-census/researchers/hamidreza-sayadi-a5031171/"
 layout: "researcher"
 hiddenInHomeList: true

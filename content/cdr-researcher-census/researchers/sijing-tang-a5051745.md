@@ -1,7 +1,7 @@
 ---
 title: "Sijing Tang"
 description: "Sijing Tang is a Mid-career Soil Carbon researcher at Hohai University in CN. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.269820
+date: 2026-07-10T01:07:47.353037
 url: "/cdr-researcher-census/researchers/sijing-tang-a5051745/"
 layout: "researcher"
 hiddenInHomeList: true

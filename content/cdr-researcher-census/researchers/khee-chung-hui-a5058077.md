@@ -1,7 +1,7 @@
 ---
 title: "Khee Chung Hui"
 description: "Khee Chung Hui is a Mid-career Unknown researcher at Universiti Teknologi Petronas in MY. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.228549
+date: 2026-07-10T01:07:48.238794
 url: "/cdr-researcher-census/researchers/khee-chung-hui-a5058077/"
 layout: "researcher"
 hiddenInHomeList: true

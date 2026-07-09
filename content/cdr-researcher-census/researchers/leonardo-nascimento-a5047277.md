@@ -1,7 +1,7 @@
 ---
 title: "Leonardo Nascimento"
 description: "Leonardo Nascimento is a Mid-career General CDR researcher at Universidade Federal Fluminense in BR. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.557473
+date: 2026-07-10T01:07:47.621588
 url: "/cdr-researcher-census/researchers/leonardo-nascimento-a5047277/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "M. Ziya Kırmacı"
 description: "M. Ziya Kırmacı is a Senior Unknown researcher at Karadeniz Technical University in TR. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.778231
+date: 2026-07-10T01:07:47.827494
 url: "/cdr-researcher-census/researchers/m-ziya-krmac-a5076236/"
 layout: "researcher"
 hiddenInHomeList: true

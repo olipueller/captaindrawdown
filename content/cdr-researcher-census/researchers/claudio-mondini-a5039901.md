@@ -1,7 +1,7 @@
 ---
 title: "Claudio Mondini"
 description: "Claudio Mondini is a Senior Soil Carbon researcher in IT. With 111 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.946387
+date: 2026-07-10T01:07:46.977194
 url: "/cdr-researcher-census/researchers/claudio-mondini-a5039901/"
 layout: "researcher"
 hiddenInHomeList: true

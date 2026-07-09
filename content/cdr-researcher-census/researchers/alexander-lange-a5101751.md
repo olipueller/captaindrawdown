@@ -1,7 +1,7 @@
 ---
 title: "Alexander Lange"
 description: "Alexander Lange is a Mid-career Unknown researcher at Leibniz-Institute for Food Systems Biology at the Technical University of Munich in DE. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.651986
+date: 2026-07-10T01:07:48.610396
 url: "/cdr-researcher-census/researchers/alexander-lange-a5101751/"
 layout: "researcher"
 hiddenInHomeList: true

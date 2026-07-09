@@ -1,7 +1,7 @@
 ---
 title: "Yaseen Laghari"
 description: "Yaseen Laghari is an Early-career Unknown researcher at University of Sindh in PK. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.978724
+date: 2026-07-10T01:07:48.898829
 url: "/cdr-researcher-census/researchers/yaseen-laghari-a5092759/"
 layout: "researcher"
 hiddenInHomeList: true

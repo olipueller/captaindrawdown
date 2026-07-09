@@ -1,7 +1,7 @@
 ---
 title: "Julie Shahan"
 description: "Julie Shahan is a Mid-career Soil Carbon researcher at Stanford University in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.733206
+date: 2026-07-10T01:07:48.681775
 url: "/cdr-researcher-census/researchers/julie-shahan-a5051293/"
 layout: "researcher"
 hiddenInHomeList: true

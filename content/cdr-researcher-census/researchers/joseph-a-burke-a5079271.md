@@ -1,7 +1,7 @@
 ---
 title: "Joseph A. Burke"
 description: "Joseph A. Burke is a Senior Soil Carbon researcher at Texas A&M University in US. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.539402
+date: 2026-07-10T01:07:47.604729
 url: "/cdr-researcher-census/researchers/joseph-a-burke-a5079271/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thomas C. Parker"
 description: "Thomas C. Parker is a Senior Soil Carbon researcher at University of Stirling in GB. With 77 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.108585
+date: 2026-07-10T01:07:47.193919
 url: "/cdr-researcher-census/researchers/thomas-c-parker-a5018817/"
 layout: "researcher"
 hiddenInHomeList: true

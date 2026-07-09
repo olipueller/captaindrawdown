@@ -1,7 +1,7 @@
 ---
 title: "Weishan Liu"
 description: "Weishan Liu is a Senior Unknown researcher at State Key Laboratory of Clean Energy Utilization. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.348056
+date: 2026-07-10T01:07:47.430634
 url: "/cdr-researcher-census/researchers/weishan-liu-a5030542/"
 layout: "researcher"
 hiddenInHomeList: true

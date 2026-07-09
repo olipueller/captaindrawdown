@@ -1,7 +1,7 @@
 ---
 title: "Javier Reyes"
 description: "Javier Reyes is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.850921
+date: 2026-07-10T01:07:48.781514
 url: "/cdr-researcher-census/researchers/javier-reyes-a5043610/"
 layout: "researcher"
 hiddenInHomeList: true

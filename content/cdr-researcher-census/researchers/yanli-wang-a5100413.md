@@ -1,7 +1,7 @@
 ---
 title: "Yanli Wang"
 description: "Yanli Wang is a Senior Soil Carbon researcher at Henan Institute of Science and Technology in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.403551
+date: 2026-07-10T01:07:47.483871
 url: "/cdr-researcher-census/researchers/yanli-wang-a5100413/"
 layout: "researcher"
 hiddenInHomeList: true

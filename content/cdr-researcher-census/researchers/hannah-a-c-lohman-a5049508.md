@@ -1,7 +1,7 @@
 ---
 title: "Hannah A. C. Lohman"
 description: "Hannah A. C. Lohman is a Mid-career General CDR researcher at University of Illinois Urbana-Champaign in US. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.953408
+date: 2026-07-10T01:07:47.964907
 url: "/cdr-researcher-census/researchers/hannah-a-c-lohman-a5049508/"
 layout: "researcher"
 hiddenInHomeList: true

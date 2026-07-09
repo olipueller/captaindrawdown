@@ -1,7 +1,7 @@
 ---
 title: "Jiarui Fu"
 description: "Jiarui Fu is a Mid-career Unknown researcher at Hunan University of Science and Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.411000
+date: 2026-07-10T01:07:48.402340
 url: "/cdr-researcher-census/researchers/jiarui-fu-a5013239/"
 layout: "researcher"
 hiddenInHomeList: true

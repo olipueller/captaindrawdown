@@ -1,7 +1,7 @@
 ---
 title: "Saeed Saad Alelyani"
 description: "Saeed Saad Alelyani is a Mid-career Unknown researcher at King Abdulaziz University in SA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.368211
+date: 2026-07-10T01:07:48.365470
 url: "/cdr-researcher-census/researchers/saeed-saad-alelyani-a5056888/"
 layout: "researcher"
 hiddenInHomeList: true

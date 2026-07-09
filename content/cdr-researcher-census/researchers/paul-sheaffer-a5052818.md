@@ -1,7 +1,7 @@
 ---
 title: "Paul Sheaffer"
 description: "Paul Sheaffer is a Senior Unknown researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.677869
+date: 2026-07-10T01:07:48.633570
 url: "/cdr-researcher-census/researchers/paul-sheaffer-a5052818/"
 layout: "researcher"
 hiddenInHomeList: true

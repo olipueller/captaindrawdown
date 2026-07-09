@@ -1,7 +1,7 @@
 ---
 title: "Louis Dreßler"
 description: "Louis Dreßler is a Mid-career Unknown researcher at Technische Universität Darmstadt in DE. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.320970
+date: 2026-07-10T01:07:48.322086
 url: "/cdr-researcher-census/researchers/louis-dreler-a5045023/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gyanendra Tripathi"
 description: "Gyanendra Tripathi is a Mid-career General CDR researcher at Integral University in IN. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.528048
+date: 2026-07-10T01:07:48.510868
 url: "/cdr-researcher-census/researchers/gyanendra-tripathi-a5102716/"
 layout: "researcher"
 hiddenInHomeList: true

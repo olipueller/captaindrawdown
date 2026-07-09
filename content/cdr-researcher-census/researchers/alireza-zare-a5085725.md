@@ -1,7 +1,7 @@
 ---
 title: "Alireza Zare"
 description: "Alireza Zare is a Senior Unknown researcher at Islamic Azad University, Tehran in IR. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.088782
+date: 2026-07-10T01:07:48.089343
 url: "/cdr-researcher-census/researchers/alireza-zare-a5085725/"
 layout: "researcher"
 hiddenInHomeList: true

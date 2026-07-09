@@ -1,7 +1,7 @@
 ---
 title: "Wanli Xu"
 description: "Wanli Xu is a Senior Soil Carbon researcher at Ministry of Agriculture in EE. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.644924
+date: 2026-07-10T01:07:47.703859
 url: "/cdr-researcher-census/researchers/wanli-xu-a5113744/"
 layout: "researcher"
 hiddenInHomeList: true

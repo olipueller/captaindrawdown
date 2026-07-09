@@ -1,7 +1,7 @@
 ---
 title: "Stephen N. Oba"
 description: "Stephen N. Oba is a Mid-career Unknown researcher at Nnamdi Azikiwe University in NG. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.185968
+date: 2026-07-10T01:07:47.274990
 url: "/cdr-researcher-census/researchers/stephen-n-oba-a5023437/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhuoying Cheng"
 description: "Zhuoying Cheng is a Mid-career Biochar researcher at Northeast Forestry University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.917927
+date: 2026-07-10T01:07:47.931439
 url: "/cdr-researcher-census/researchers/zhuoying-cheng-a5101138/"
 layout: "researcher"
 hiddenInHomeList: true

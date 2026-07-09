@@ -1,7 +1,7 @@
 ---
 title: "Adrian Spence"
 description: "Adrian Spence is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.936875
+date: 2026-07-10T01:07:47.949363
 url: "/cdr-researcher-census/researchers/adrian-spence-a5110767/"
 layout: "researcher"
 hiddenInHomeList: true

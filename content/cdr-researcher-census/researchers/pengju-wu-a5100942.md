@@ -1,7 +1,7 @@
 ---
 title: "Pengju Wu"
 description: "Pengju Wu is a Senior Unknown researcher at Jiangsu University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.327967
+date: 2026-07-10T01:07:48.328395
 url: "/cdr-researcher-census/researchers/pengju-wu-a5100942/"
 layout: "researcher"
 hiddenInHomeList: true

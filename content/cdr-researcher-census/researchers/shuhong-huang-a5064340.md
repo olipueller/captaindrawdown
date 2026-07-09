@@ -1,7 +1,7 @@
 ---
 title: "Shuhong Huang"
 description: "Shuhong Huang is a Mid-career Biochar researcher at South China University of Technology in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.733395
+date: 2026-07-10T01:07:47.785381
 url: "/cdr-researcher-census/researchers/shuhong-huang-a5064340/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Sutcliffe"
 description: "Magdalena Sutcliffe is a Mid-career Unknown researcher at MRC Laboratory of Molecular Biology in GB. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.178905
+date: 2026-07-10T01:07:47.267860
 url: "/cdr-researcher-census/researchers/magdalena-sutcliffe-a5056635/"
 layout: "researcher"
 hiddenInHomeList: true

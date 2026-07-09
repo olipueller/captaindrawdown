@@ -1,7 +1,7 @@
 ---
 title: "Xilin Xiao"
 description: "Xilin Xiao is a Senior Unknown researcher at Hefei University of Technology in CN. With 42 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.323940
+date: 2026-07-10T01:07:47.406053
 url: "/cdr-researcher-census/researchers/xilin-xiao-a5023680/"
 layout: "researcher"
 hiddenInHomeList: true

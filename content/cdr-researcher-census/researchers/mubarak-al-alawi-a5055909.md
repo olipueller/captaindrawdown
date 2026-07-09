@@ -1,7 +1,7 @@
 ---
 title: "Mubarak Al-Alawi"
 description: "Mubarak Al-Alawi is a Mid-career Unknown researcher at Sultan Qaboos University in OM. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.782327
+date: 2026-07-10T01:07:48.724947
 url: "/cdr-researcher-census/researchers/mubarak-al-alawi-a5055909/"
 layout: "researcher"
 hiddenInHomeList: true

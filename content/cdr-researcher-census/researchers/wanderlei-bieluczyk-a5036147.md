@@ -1,7 +1,7 @@
 ---
 title: "Wanderlei Bieluczyk"
 description: "Wanderlei Bieluczyk is a Senior Soil Carbon researcher at Sugarcane Research Center (Brazil) in BR. With 46 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.610249
+date: 2026-07-10T01:07:47.672002
 url: "/cdr-researcher-census/researchers/wanderlei-bieluczyk-a5036147/"
 layout: "researcher"
 hiddenInHomeList: true

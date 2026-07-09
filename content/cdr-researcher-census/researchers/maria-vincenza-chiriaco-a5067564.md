@@ -1,7 +1,7 @@
 ---
 title: "Maria Vincenza Chiriacò"
 description: "Maria Vincenza Chiriacò is a Senior Soil Carbon researcher at Centro Euro-Mediterraneo sui Cambiamenti Climatici in IT. With 97 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.420374
+date: 2026-07-10T01:07:47.499533
 url: "/cdr-researcher-census/researchers/maria-vincenza-chiriaco-a5067564/"
 layout: "researcher"
 hiddenInHomeList: true

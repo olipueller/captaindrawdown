@@ -1,7 +1,7 @@
 ---
 title: "Vittoria Battaglia"
 description: "Vittoria Battaglia is a Mid-career Unknown researcher at National Agency for New Technologies Energy and Sustainable Economic Development in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.350419
+date: 2026-07-10T01:07:48.348742
 url: "/cdr-researcher-census/researchers/vittoria-battaglia-a5060697/"
 layout: "researcher"
 hiddenInHomeList: true

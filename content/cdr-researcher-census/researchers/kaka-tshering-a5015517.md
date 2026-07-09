@@ -1,7 +1,7 @@
 ---
 title: "Kaka Tshering"
 description: "Kaka Tshering is an Early-career Unknown researcher at Department of Conservation in NZ. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.138986
+date: 2026-07-10T01:07:49.042184
 url: "/cdr-researcher-census/researchers/kaka-tshering-a5015517/"
 layout: "researcher"
 hiddenInHomeList: true

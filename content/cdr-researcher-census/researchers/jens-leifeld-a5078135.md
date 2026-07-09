@@ -1,7 +1,7 @@
 ---
 title: "Jens Leifeld"
 description: "Jens Leifeld is an Eminent Soil Carbon researcher at Federal Office for Agriculture in CH. With 297 publications and an h-index of 67, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.889956
+date: 2026-07-10T01:07:46.862726
 url: "/cdr-researcher-census/researchers/jens-leifeld-a5078135/"
 layout: "researcher"
 hiddenInHomeList: true

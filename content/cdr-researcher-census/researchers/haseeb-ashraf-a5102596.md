@@ -1,7 +1,7 @@
 ---
 title: "Haseeb Ashraf"
 description: "Haseeb Ashraf is a Mid-career Unknown researcher at University of Gujrat in PK. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.111236
+date: 2026-07-10T01:07:49.018142
 url: "/cdr-researcher-census/researchers/haseeb-ashraf-a5102596/"
 layout: "researcher"
 hiddenInHomeList: true

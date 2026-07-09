@@ -1,7 +1,7 @@
 ---
 title: "Anqi Sun"
 description: "Anqi Sun is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.347155
+date: 2026-07-10T01:07:47.429833
 url: "/cdr-researcher-census/researchers/anqi-sun-a5102762/"
 layout: "researcher"
 hiddenInHomeList: true

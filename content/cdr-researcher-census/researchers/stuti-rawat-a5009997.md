@@ -1,7 +1,7 @@
 ---
 title: "Stuti Rawat"
 description: "Stuti Rawat is a Senior General CDR researcher at Himachal Pradesh University in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.917609
+date: 2026-07-10T01:07:48.841778
 url: "/cdr-researcher-census/researchers/stuti-rawat-a5009997/"
 layout: "researcher"
 hiddenInHomeList: true

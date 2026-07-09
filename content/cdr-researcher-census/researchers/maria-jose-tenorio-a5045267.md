@@ -1,7 +1,7 @@
 ---
 title: "María José Tenorio"
 description: "María José Tenorio is a Senior General CDR researcher at Universidad Rey Juan Carlos in ES. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.654834
+date: 2026-07-10T01:07:47.712316
 url: "/cdr-researcher-census/researchers/maria-jose-tenorio-a5045267/"
 layout: "researcher"
 hiddenInHomeList: true

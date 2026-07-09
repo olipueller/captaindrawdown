@@ -1,7 +1,7 @@
 ---
 title: "Knut Barthel"
 description: "Knut Barthel is a Senior Ocean CDR researcher at Bjerknes Centre for Climate Research in NO. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.821488
+date: 2026-07-10T01:07:47.867552
 url: "/cdr-researcher-census/researchers/knut-barthel-a5046519/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mei Hong"
 description: "Mei Hong is a Senior Soil Carbon researcher at Mongolian National University of Education in MN. With 71 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.497910
+date: 2026-07-10T01:07:47.567666
 url: "/cdr-researcher-census/researchers/mei-hong-a5087904/"
 layout: "researcher"
 hiddenInHomeList: true

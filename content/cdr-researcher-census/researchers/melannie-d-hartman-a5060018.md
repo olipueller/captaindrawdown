@@ -1,7 +1,7 @@
 ---
 title: "Melannie D. Hartman"
 description: "Melannie D. Hartman is a Senior Soil Carbon researcher at Colorado State University in US. With 128 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.956450
+date: 2026-07-10T01:07:46.992892
 url: "/cdr-researcher-census/researchers/melannie-d-hartman-a5060018/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thi Hong Trang Nguyen"
 description: "Thi Hong Trang Nguyen is a Mid-career Unknown researcher at Laboratoire de physique des Solides in FR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.718950
+date: 2026-07-10T01:07:47.772434
 url: "/cdr-researcher-census/researchers/thi-hong-trang-nguyen-a5046608/"
 layout: "researcher"
 hiddenInHomeList: true

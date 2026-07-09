@@ -1,7 +1,7 @@
 ---
 title: "Meenal Gupta"
 description: "Meenal Gupta is a Mid-career Biochar researcher at University of Salento in IT. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.667717
+date: 2026-07-10T01:07:47.724793
 url: "/cdr-researcher-census/researchers/meenal-gupta-a5012444/"
 layout: "researcher"
 hiddenInHomeList: true

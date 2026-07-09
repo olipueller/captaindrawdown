@@ -1,7 +1,7 @@
 ---
 title: "Hannah Bryant"
 description: "Hannah Bryant is a Senior Unknown researcher at Care International in CH. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.060302
+date: 2026-07-10T01:07:48.063974
 url: "/cdr-researcher-census/researchers/hannah-bryant-a5065519/"
 layout: "researcher"
 hiddenInHomeList: true

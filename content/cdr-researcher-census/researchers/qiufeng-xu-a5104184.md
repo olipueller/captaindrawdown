@@ -1,7 +1,7 @@
 ---
 title: "Qiufeng Xu"
 description: "Qiufeng Xu is a Senior Biochar researcher at Shanxi University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.046576
+date: 2026-07-10T01:07:48.960051
 url: "/cdr-researcher-census/researchers/qiufeng-xu-a5104184/"
 layout: "researcher"
 hiddenInHomeList: true

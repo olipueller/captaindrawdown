@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Farhan Qadir"
 description: "Muhammad Farhan Qadir is a Senior Biochar researcher at University of Agriculture Faisalabad in PK. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.974510
+date: 2026-07-10T01:07:47.020349
 url: "/cdr-researcher-census/researchers/muhammad-farhan-qadir-a5103193/"
 layout: "researcher"
 hiddenInHomeList: true

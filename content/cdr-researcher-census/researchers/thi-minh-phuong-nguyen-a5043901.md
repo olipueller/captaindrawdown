@@ -1,7 +1,7 @@
 ---
 title: "Thi-Minh-Phuong Nguyen"
 description: "Thi-Minh-Phuong Nguyen is an Early-career Unknown researcher at National Taipei University of Technology in TW. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.953528
+date: 2026-07-10T01:07:48.875486
 url: "/cdr-researcher-census/researchers/thi-minh-phuong-nguyen-a5043901/"
 layout: "researcher"
 hiddenInHomeList: true

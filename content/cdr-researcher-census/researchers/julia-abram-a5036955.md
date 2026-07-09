@@ -1,7 +1,7 @@
 ---
 title: "Julia Abram"
 description: "Julia Abram is a Mid-career Unknown researcher. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.012410
+date: 2026-07-10T01:07:48.020295
 url: "/cdr-researcher-census/researchers/julia-abram-a5036955/"
 layout: "researcher"
 hiddenInHomeList: true

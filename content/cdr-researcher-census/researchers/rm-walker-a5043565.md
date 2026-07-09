@@ -1,7 +1,7 @@
 ---
 title: "R.M. Walker"
 description: "R.M. Walker is a Senior Soil Carbon researcher at University of Nottingham in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.216522
+date: 2026-07-10T01:07:48.228390
 url: "/cdr-researcher-census/researchers/rm-walker-a5043565/"
 layout: "researcher"
 hiddenInHomeList: true

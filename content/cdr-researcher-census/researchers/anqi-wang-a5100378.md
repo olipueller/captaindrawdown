@@ -1,7 +1,7 @@
 ---
 title: "Anqi Wang"
 description: "Anqi Wang is a Senior Biochar researcher at Zhejiang University of Technology in CN. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.336107
+date: 2026-07-10T01:07:47.418684
 url: "/cdr-researcher-census/researchers/anqi-wang-a5100378/"
 layout: "researcher"
 hiddenInHomeList: true

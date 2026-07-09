@@ -1,7 +1,7 @@
 ---
 title: "Ashish B. Rajurkar"
 description: "Ashish B. Rajurkar is a Mid-career Soil Carbon researcher at Salk Institute for Biological Studies in US. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.987326
+date: 2026-07-10T01:07:47.996340
 url: "/cdr-researcher-census/researchers/ashish-b-rajurkar-a5036913/"
 layout: "researcher"
 hiddenInHomeList: true

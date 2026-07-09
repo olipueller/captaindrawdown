@@ -1,7 +1,7 @@
 ---
 title: "Abdur Rahman Quaff"
 description: "Abdur Rahman Quaff is a Senior Unknown researcher at National Institute of Technology Patna in IN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.898206
+date: 2026-07-10T01:07:47.913012
 url: "/cdr-researcher-census/researchers/abdur-rahman-quaff-a5072136/"
 layout: "researcher"
 hiddenInHomeList: true

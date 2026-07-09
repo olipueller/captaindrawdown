@@ -1,7 +1,7 @@
 ---
 title: "Mohit Aggarwal"
 description: "Mohit Aggarwal is a Mid-career Biochar researcher at Indian Institute of Technology Roorkee in IN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.439752
+date: 2026-07-10T01:07:48.429613
 url: "/cdr-researcher-census/researchers/mohit-aggarwal-a5021135/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jacob C. Baker"
 description: "Jacob C. Baker is an Early-career Unknown researcher at The University of Texas at Austin in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.020504
+date: 2026-07-10T01:07:48.936444
 url: "/cdr-researcher-census/researchers/jacob-c-baker-a5014717/"
 layout: "researcher"
 hiddenInHomeList: true

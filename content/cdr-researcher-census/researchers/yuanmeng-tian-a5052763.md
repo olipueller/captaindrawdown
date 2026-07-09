@@ -1,7 +1,7 @@
 ---
 title: "Yuanmeng Tian"
 description: "Yuanmeng Tian is a Mid-career DAC researcher at Hong Kong Polytechnic University in HK. With 36 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.256382
+date: 2026-07-10T01:07:47.340693
 url: "/cdr-researcher-census/researchers/yuanmeng-tian-a5052763/"
 layout: "researcher"
 hiddenInHomeList: true

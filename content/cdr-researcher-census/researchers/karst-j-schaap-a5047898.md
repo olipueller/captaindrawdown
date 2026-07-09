@@ -1,7 +1,7 @@
 ---
 title: "Karst J. Schaap"
 description: "Karst J. Schaap is a Mid-career Unknown researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.405147
+date: 2026-07-10T01:07:47.485130
 url: "/cdr-researcher-census/researchers/karst-j-schaap-a5047898/"
 layout: "researcher"
 hiddenInHomeList: true

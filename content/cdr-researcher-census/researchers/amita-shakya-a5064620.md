@@ -1,7 +1,7 @@
 ---
 title: "Amita Shakya"
 description: "Amita Shakya is a Mid-career Biochar researcher at Amity University Chhattisgarh in IN. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.338593
+date: 2026-07-10T01:07:47.421449
 url: "/cdr-researcher-census/researchers/amita-shakya-a5064620/"
 layout: "researcher"
 hiddenInHomeList: true

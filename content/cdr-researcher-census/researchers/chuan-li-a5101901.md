@@ -1,7 +1,7 @@
 ---
 title: "Chuan Li"
 description: "Chuan Li is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.240640
+date: 2026-07-10T01:07:49.149238
 url: "/cdr-researcher-census/researchers/chuan-li-a5101901/"
 layout: "researcher"
 hiddenInHomeList: true

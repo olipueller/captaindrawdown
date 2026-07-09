@@ -1,7 +1,7 @@
 ---
 title: "Jiaojiao Dong"
 description: "Jiaojiao Dong is a Mid-career Unknown researcher at Texas A&M University in US. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.163541
+date: 2026-07-10T01:07:48.181401
 url: "/cdr-researcher-census/researchers/jiaojiao-dong-a5039773/"
 layout: "researcher"
 hiddenInHomeList: true

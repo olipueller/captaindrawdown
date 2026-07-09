@@ -1,7 +1,7 @@
 ---
 title: "Xiangzhi Zuo"
 description: "Xiangzhi Zuo is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.147401
+date: 2026-07-10T01:07:49.049607
 url: "/cdr-researcher-census/researchers/xiangzhi-zuo-a5020601/"
 layout: "researcher"
 hiddenInHomeList: true

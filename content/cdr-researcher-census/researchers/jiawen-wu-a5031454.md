@@ -1,7 +1,7 @@
 ---
 title: "Jiawen Wu"
 description: "Jiawen Wu is a Mid-career Biochar researcher at Shandong Lianxing Energy Group (China) in CN. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.138531
+date: 2026-07-10T01:07:47.227242
 url: "/cdr-researcher-census/researchers/jiawen-wu-a5031454/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cong Wang"
 description: "Cong Wang is a Mid-career Soil Carbon researcher at City University of Hong Kong in HK. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.768989
+date: 2026-07-10T01:07:48.713093
 url: "/cdr-researcher-census/researchers/cong-wang-a5104216/"
 layout: "researcher"
 hiddenInHomeList: true

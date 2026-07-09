@@ -1,7 +1,7 @@
 ---
 title: "Angela Martiradonna"
 description: "Angela Martiradonna is a Mid-career Soil Carbon researcher. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.120740
+date: 2026-07-10T01:07:48.144590
 url: "/cdr-researcher-census/researchers/angela-martiradonna-a5044916/"
 layout: "researcher"
 hiddenInHomeList: true

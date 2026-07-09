@@ -1,7 +1,7 @@
 ---
 title: "Shangjing Li"
 description: "Shangjing Li is a Mid-career Unknown researcher at Tongji University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.636475
+date: 2026-07-10T01:07:48.595524
 url: "/cdr-researcher-census/researchers/shangjing-li-a5058776/"
 layout: "researcher"
 hiddenInHomeList: true

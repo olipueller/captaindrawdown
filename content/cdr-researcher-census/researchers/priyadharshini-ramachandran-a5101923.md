@@ -1,7 +1,7 @@
 ---
 title: "Priyadharshini Ramachandran"
 description: "Priyadharshini Ramachandran is a Senior Unknown researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.406987
+date: 2026-07-10T01:07:48.398608
 url: "/cdr-researcher-census/researchers/priyadharshini-ramachandran-a5101923/"
 layout: "researcher"
 hiddenInHomeList: true

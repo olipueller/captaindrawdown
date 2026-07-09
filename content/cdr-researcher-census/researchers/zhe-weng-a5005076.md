@@ -1,7 +1,7 @@
 ---
 title: "Zhe Weng"
 description: "Zhe Weng is a Senior General CDR researcher at University of Adelaide in AU. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.014320
+date: 2026-07-10T01:07:47.079473
 url: "/cdr-researcher-census/researchers/zhe-weng-a5005076/"
 layout: "researcher"
 hiddenInHomeList: true

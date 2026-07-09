@@ -1,7 +1,7 @@
 ---
 title: "Shunxi Zhou"
 description: "Shunxi Zhou is a Mid-career Biochar researcher at North West Agriculture and Forestry University in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.790720
+date: 2026-07-10T01:07:47.839434
 url: "/cdr-researcher-census/researchers/shunxi-zhou-a5060219/"
 layout: "researcher"
 hiddenInHomeList: true

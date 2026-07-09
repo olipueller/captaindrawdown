@@ -1,7 +1,7 @@
 ---
 title: "Zhenye Tong"
 description: "Zhenye Tong is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.095997
+date: 2026-07-10T01:07:48.095725
 url: "/cdr-researcher-census/researchers/zhenye-tong-a5023578/"
 layout: "researcher"
 hiddenInHomeList: true

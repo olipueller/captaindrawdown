@@ -1,7 +1,7 @@
 ---
 title: "Mei‐e Zhong"
 description: "Mei‐e Zhong is a Senior Biochar researcher at Hunan Agricultural University in CN. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.093656
+date: 2026-07-10T01:07:47.176553
 url: "/cdr-researcher-census/researchers/meie-zhong-a5036549/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuntha Bimantara"
 description: "Yuntha Bimantara is a Mid-career Soil Carbon researcher at Universitas Sumatera Utara in ID. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.257629
+date: 2026-07-10T01:07:48.265427
 url: "/cdr-researcher-census/researchers/yuntha-bimantara-a5074899/"
 layout: "researcher"
 hiddenInHomeList: true

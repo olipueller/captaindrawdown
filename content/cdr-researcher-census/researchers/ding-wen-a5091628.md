@@ -1,7 +1,7 @@
 ---
 title: "Ding Wen"
 description: "Ding Wen is a Senior Soil Carbon researcher at South China Institute Of Environmental Sciences in CN. With 75 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.200334
+date: 2026-07-10T01:07:47.289237
 url: "/cdr-researcher-census/researchers/ding-wen-a5091628/"
 layout: "researcher"
 hiddenInHomeList: true

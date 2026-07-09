@@ -1,7 +1,7 @@
 ---
 title: "Alexandra G. May"
 description: "Alexandra G. May is a Mid-career Unknown researcher at Johnson & Johnson (United States) in US. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.262206
+date: 2026-07-10T01:07:48.269411
 url: "/cdr-researcher-census/researchers/alexandra-g-may-a5018802/"
 layout: "researcher"
 hiddenInHomeList: true

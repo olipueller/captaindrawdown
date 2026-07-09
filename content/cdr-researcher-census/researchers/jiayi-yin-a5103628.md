@@ -1,7 +1,7 @@
 ---
 title: "Jiayi Yin"
 description: "Jiayi Yin is a Senior Unknown researcher at Guizhou Normal University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.258568
+date: 2026-07-10T01:07:48.266261
 url: "/cdr-researcher-census/researchers/jiayi-yin-a5103628/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emma Connaughton"
 description: "Emma Connaughton is an Early-career Unknown researcher at Clinical Trial Investigators in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.891218
+date: 2026-07-10T01:07:47.906171
 url: "/cdr-researcher-census/researchers/emma-connaughton-a5073452/"
 layout: "researcher"
 hiddenInHomeList: true

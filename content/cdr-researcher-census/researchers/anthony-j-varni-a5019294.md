@@ -1,7 +1,7 @@
 ---
 title: "Anthony J. Varni"
 description: "Anthony J. Varni is a Mid-career Unknown researcher at Lawrence Livermore National Laboratory in US. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.085619
+date: 2026-07-10T01:07:48.086697
 url: "/cdr-researcher-census/researchers/anthony-j-varni-a5019294/"
 layout: "researcher"
 hiddenInHomeList: true

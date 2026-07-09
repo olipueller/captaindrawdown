@@ -1,7 +1,7 @@
 ---
 title: "Leonor Rodrigues"
 description: "Leonor Rodrigues is a Mid-career General CDR researcher at Federal Office for the Environment in CH. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.509344
+date: 2026-07-10T01:07:47.578123
 url: "/cdr-researcher-census/researchers/leonor-rodrigues-a5046809/"
 layout: "researcher"
 hiddenInHomeList: true

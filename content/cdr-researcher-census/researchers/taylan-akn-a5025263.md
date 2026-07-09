@@ -1,7 +1,7 @@
 ---
 title: "Taylan Akın"
 description: "Taylan Akın is a Senior Unknown researcher at Pamukkale University in TR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.537821
+date: 2026-07-10T01:07:48.519646
 url: "/cdr-researcher-census/researchers/taylan-akn-a5025263/"
 layout: "researcher"
 hiddenInHomeList: true

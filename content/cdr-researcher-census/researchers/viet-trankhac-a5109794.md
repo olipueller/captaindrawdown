@@ -1,7 +1,7 @@
 ---
 title: "Viet Tran‐Khac"
 description: "Viet Tran‐Khac is a Mid-career Unknown researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.414481
+date: 2026-07-10T01:07:48.405416
 url: "/cdr-researcher-census/researchers/viet-trankhac-a5109794/"
 layout: "researcher"
 hiddenInHomeList: true

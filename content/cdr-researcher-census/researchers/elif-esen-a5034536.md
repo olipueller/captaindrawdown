@@ -1,7 +1,7 @@
 ---
 title: "Elif Esen"
 description: "Elif Esen is a Mid-career Unknown researcher at Dokuz Eylül University in TR. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.772107
+date: 2026-07-10T01:07:47.821947
 url: "/cdr-researcher-census/researchers/elif-esen-a5034536/"
 layout: "researcher"
 hiddenInHomeList: true

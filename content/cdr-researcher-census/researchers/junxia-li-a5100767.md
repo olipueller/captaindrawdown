@@ -1,7 +1,7 @@
 ---
 title: "Junxia Li"
 description: "Junxia Li is a Mid-career Unknown researcher at Shenyang Agricultural University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.220363
+date: 2026-07-10T01:07:48.231466
 url: "/cdr-researcher-census/researchers/junxia-li-a5100767/"
 layout: "researcher"
 hiddenInHomeList: true

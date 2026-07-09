@@ -1,7 +1,7 @@
 ---
 title: "María Fernanda Salas"
 description: "María Fernanda Salas is a Mid-career General CDR researcher at University of Padua in CR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.414779
+date: 2026-07-10T01:07:48.405677
 url: "/cdr-researcher-census/researchers/maria-fernanda-salas-a5079244/"
 layout: "researcher"
 hiddenInHomeList: true

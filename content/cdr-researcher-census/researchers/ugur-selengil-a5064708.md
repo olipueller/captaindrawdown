@@ -1,7 +1,7 @@
 ---
 title: "Uğur Selengil"
 description: "Uğur Selengil is a Senior Unknown researcher at Eskişehir Osmangazi University in TR. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.459211
+date: 2026-07-10T01:07:48.447479
 url: "/cdr-researcher-census/researchers/ugur-selengil-a5064708/"
 layout: "researcher"
 hiddenInHomeList: true

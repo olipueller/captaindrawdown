@@ -1,7 +1,7 @@
 ---
 title: "Diana P. Wehrendt"
 description: "Diana P. Wehrendt is a Senior Unknown researcher at CONICET in AR. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.324550
+date: 2026-07-10T01:07:48.325094
 url: "/cdr-researcher-census/researchers/diana-p-wehrendt-a5035155/"
 layout: "researcher"
 hiddenInHomeList: true

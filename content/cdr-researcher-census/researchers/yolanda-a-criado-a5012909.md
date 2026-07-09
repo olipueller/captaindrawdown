@@ -1,7 +1,7 @@
 ---
 title: "Yolanda A. Criado"
 description: "Yolanda A. Criado is a Mid-career General CDR researcher at Instituto de Ciencia y Tecnología del Carbono in ES. With 37 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.150882
+date: 2026-07-10T01:07:47.239124
 url: "/cdr-researcher-census/researchers/yolanda-a-criado-a5012909/"
 layout: "researcher"
 hiddenInHomeList: true

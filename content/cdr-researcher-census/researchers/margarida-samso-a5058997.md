@@ -1,7 +1,7 @@
 ---
 title: "Margarida Samsó"
 description: "Margarida Samsó is a Mid-career Ocean CDR researcher at Barcelona Supercomputing Center in ES. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.528634
+date: 2026-07-10T01:07:47.595225
 url: "/cdr-researcher-census/researchers/margarida-samso-a5058997/"
 layout: "researcher"
 hiddenInHomeList: true

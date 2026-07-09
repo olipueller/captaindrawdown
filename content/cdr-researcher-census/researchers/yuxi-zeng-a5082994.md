@@ -1,7 +1,7 @@
 ---
 title: "Yuxi Zeng"
 description: "Yuxi Zeng is a Mid-career Biochar researcher at South China University of Technology in CN. With 25 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.228592
+date: 2026-07-10T01:07:47.315335
 url: "/cdr-researcher-census/researchers/yuxi-zeng-a5082994/"
 layout: "researcher"
 hiddenInHomeList: true

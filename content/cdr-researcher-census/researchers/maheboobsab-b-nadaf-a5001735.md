@@ -1,7 +1,7 @@
 ---
 title: "Maheboobsab B. Nadaf"
 description: "Maheboobsab B. Nadaf is a Mid-career Unknown researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.814414
+date: 2026-07-10T01:07:48.751214
 url: "/cdr-researcher-census/researchers/maheboobsab-b-nadaf-a5001735/"
 layout: "researcher"
 hiddenInHomeList: true

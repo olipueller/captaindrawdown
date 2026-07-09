@@ -1,7 +1,7 @@
 ---
 title: "Wakana Saso"
 description: "Wakana Saso is a Mid-career Soil Carbon researcher at Waseda University in JP. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.335138
+date: 2026-07-10T01:07:47.417206
 url: "/cdr-researcher-census/researchers/wakana-saso-a5086283/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Prakriti Bista"
 description: "Prakriti Bista is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.328522
+date: 2026-07-10T01:07:47.410366
 url: "/cdr-researcher-census/researchers/prakriti-bista-a5025192/"
 layout: "researcher"
 hiddenInHomeList: true

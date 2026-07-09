@@ -1,7 +1,7 @@
 ---
 title: "Antoine Benoît"
 description: "Antoine Benoît is a Mid-career General CDR researcher at University of Ottawa in CA. With 57 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.745600
+date: 2026-07-10T01:07:47.797638
 url: "/cdr-researcher-census/researchers/antoine-benoit-a5052529/"
 layout: "researcher"
 hiddenInHomeList: true

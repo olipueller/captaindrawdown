@@ -1,7 +1,7 @@
 ---
 title: "Yuxing Xu"
 description: "Yuxing Xu is a Mid-career Soil Carbon researcher at Eucalyptus Research Center in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.133252
+date: 2026-07-10T01:07:48.155548
 url: "/cdr-researcher-census/researchers/yuxing-xu-a5102577/"
 layout: "researcher"
 hiddenInHomeList: true

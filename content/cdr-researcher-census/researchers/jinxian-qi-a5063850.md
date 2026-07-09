@@ -1,7 +1,7 @@
 ---
 title: "Jinxian Qi"
 description: "Jinxian Qi is a Mid-career Unknown researcher at State Forestry and Grassland Administration in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.579810
+date: 2026-07-10T01:07:47.642999
 url: "/cdr-researcher-census/researchers/jinxian-qi-a5063850/"
 layout: "researcher"
 hiddenInHomeList: true

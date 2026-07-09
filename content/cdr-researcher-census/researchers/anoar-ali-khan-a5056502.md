@@ -1,7 +1,7 @@
 ---
 title: "Anoar Ali Khan"
 description: "Anoar Ali Khan is a Mid-career Biochar researcher at Haldia Institute of Technology in IN. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.545730
+date: 2026-07-10T01:07:47.610449
 url: "/cdr-researcher-census/researchers/anoar-ali-khan-a5056502/"
 layout: "researcher"
 hiddenInHomeList: true

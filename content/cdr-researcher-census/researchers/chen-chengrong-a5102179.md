@@ -1,7 +1,7 @@
 ---
 title: "Chen Chengrong"
 description: "Chen Chengrong is an Early-career Soil Carbon researcher at Griffith University in AU. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.552805
+date: 2026-07-10T01:07:48.532984
 url: "/cdr-researcher-census/researchers/chen-chengrong-a5102179/"
 layout: "researcher"
 hiddenInHomeList: true

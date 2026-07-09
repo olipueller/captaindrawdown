@@ -1,7 +1,7 @@
 ---
 title: "Mikkel Strunge Kany"
 description: "Mikkel Strunge Kany is a Mid-career General CDR researcher at Aalborg University in DK. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.985533
+date: 2026-07-10T01:07:47.994681
 url: "/cdr-researcher-census/researchers/mikkel-strunge-kany-a5069537/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mikaela Cashman"
 description: "Mikaela Cashman is a Mid-career Unknown researcher at Lawrence Berkeley National Laboratory in US. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.115445
+date: 2026-07-10T01:07:48.140195
 url: "/cdr-researcher-census/researchers/mikaela-cashman-a5087768/"
 layout: "researcher"
 hiddenInHomeList: true

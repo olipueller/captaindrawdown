@@ -1,7 +1,7 @@
 ---
 title: "Yit Arn Teh"
 description: "Yit Arn Teh is a Senior General CDR researcher at Newcastle University in GB. With 163 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.019176
+date: 2026-07-10T01:07:47.085074
 url: "/cdr-researcher-census/researchers/yit-arn-teh-a5016329/"
 layout: "researcher"
 hiddenInHomeList: true

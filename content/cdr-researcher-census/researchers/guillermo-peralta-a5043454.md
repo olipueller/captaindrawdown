@@ -1,7 +1,7 @@
 ---
 title: "Guillermo Peralta"
 description: "Guillermo Peralta is a Mid-career Unknown researcher at Instituto Tecnológico de Querétaro in MX. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.306722
+date: 2026-07-10T01:07:47.388679
 url: "/cdr-researcher-census/researchers/guillermo-peralta-a5043454/"
 layout: "researcher"
 hiddenInHomeList: true

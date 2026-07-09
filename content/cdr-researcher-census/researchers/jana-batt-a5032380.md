@@ -1,7 +1,7 @@
 ---
 title: "Jana Batt"
 description: "Jana Batt is a Mid-career Soil Carbon researcher at University of South Bohemia in České Budějovice in CZ. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.624953
+date: 2026-07-10T01:07:48.585518
 url: "/cdr-researcher-census/researchers/jana-batt-a5032380/"
 layout: "researcher"
 hiddenInHomeList: true

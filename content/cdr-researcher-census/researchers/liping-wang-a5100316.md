@@ -1,7 +1,7 @@
 ---
 title: "Liping Wang"
 description: "Liping Wang is a Mid-career Soil Carbon researcher at Jimei University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.087956
+date: 2026-07-10T01:07:48.997820
 url: "/cdr-researcher-census/researchers/liping-wang-a5100316/"
 layout: "researcher"
 hiddenInHomeList: true

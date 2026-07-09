@@ -1,7 +1,7 @@
 ---
 title: "Weijiao Wang"
 description: "Weijiao Wang is a Mid-career Unknown researcher at Central South University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.808446
+date: 2026-07-10T01:07:47.854775
 url: "/cdr-researcher-census/researchers/weijiao-wang-a5014648/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "M. N. Giri Prasad"
 description: "M. N. Giri Prasad is a Mid-career Unknown researcher at Siddhartha Medical College in IN. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.532552
+date: 2026-07-10T01:07:48.515258
 url: "/cdr-researcher-census/researchers/m-n-giri-prasad-a5109896/"
 layout: "researcher"
 hiddenInHomeList: true

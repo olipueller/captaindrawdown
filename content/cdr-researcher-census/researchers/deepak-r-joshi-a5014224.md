@@ -1,7 +1,7 @@
 ---
 title: "Deepak R. Joshi"
 description: "Deepak R. Joshi is a Mid-career Soil Carbon researcher at Kansas State University in US. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.395054
+date: 2026-07-10T01:07:47.476021
 url: "/cdr-researcher-census/researchers/deepak-r-joshi-a5014224/"
 layout: "researcher"
 hiddenInHomeList: true

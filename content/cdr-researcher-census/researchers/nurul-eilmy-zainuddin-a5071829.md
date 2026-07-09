@@ -1,7 +1,7 @@
 ---
 title: "Nurul Eilmy Zainuddin"
 description: "Nurul Eilmy Zainuddin is a Mid-career Unknown researcher at Jabatan Perkhidmatan Awam Malaysia in MY. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.732435
+date: 2026-07-10T01:07:48.681049
 url: "/cdr-researcher-census/researchers/nurul-eilmy-zainuddin-a5071829/"
 layout: "researcher"
 hiddenInHomeList: true

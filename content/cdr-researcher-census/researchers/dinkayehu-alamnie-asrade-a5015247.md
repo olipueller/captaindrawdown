@@ -1,7 +1,7 @@
 ---
 title: "Dinkayehu Alamnie Asrade"
 description: "Dinkayehu Alamnie Asrade is a Mid-career Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.220527
+date: 2026-07-10T01:07:49.131219
 url: "/cdr-researcher-census/researchers/dinkayehu-alamnie-asrade-a5015247/"
 layout: "researcher"
 hiddenInHomeList: true

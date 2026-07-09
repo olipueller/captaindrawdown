@@ -1,7 +1,7 @@
 ---
 title: "Andrew Smith"
 description: "Andrew Smith is a Senior Unknown researcher at University of California, Berkeley in US. With 10 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.976607
+date: 2026-07-10T01:07:47.986515
 url: "/cdr-researcher-census/researchers/andrew-smith-a5107537/"
 layout: "researcher"
 hiddenInHomeList: true

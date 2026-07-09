@@ -1,7 +1,7 @@
 ---
 title: "Xuewen Shi"
 description: "Xuewen Shi is a Mid-career Unknown researcher at Northwestern Polytechnical University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.229703
+date: 2026-07-10T01:07:47.316388
 url: "/cdr-researcher-census/researchers/xuewen-shi-a5057611/"
 layout: "researcher"
 hiddenInHomeList: true

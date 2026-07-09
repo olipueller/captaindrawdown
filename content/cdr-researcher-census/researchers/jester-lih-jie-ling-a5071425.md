@@ -1,7 +1,7 @@
 ---
 title: "Jester Lih Jie Ling"
 description: "Jester Lih Jie Ling is a Mid-career Unknown researcher at Jeonbuk National University in KR. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.902028
+date: 2026-07-10T01:07:47.916449
 url: "/cdr-researcher-census/researchers/jester-lih-jie-ling-a5071425/"
 layout: "researcher"
 hiddenInHomeList: true

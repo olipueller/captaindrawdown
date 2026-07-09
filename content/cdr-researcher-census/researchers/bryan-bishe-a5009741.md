@@ -1,7 +1,7 @@
 ---
 title: "Bryan Bishé"
 description: "Bryan Bishé is a Senior Unknown researcher at University of California San Diego in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.840232
+date: 2026-07-10T01:07:47.875994
 url: "/cdr-researcher-census/researchers/bryan-bishe-a5009741/"
 layout: "researcher"
 hiddenInHomeList: true

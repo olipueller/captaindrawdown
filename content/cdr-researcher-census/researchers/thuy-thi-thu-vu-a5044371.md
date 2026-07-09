@@ -1,7 +1,7 @@
 ---
 title: "Thuy Thi Thu Vu"
 description: "Thuy Thi Thu Vu is a Senior General CDR researcher at Thai Nguyen University in VN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.258853
+date: 2026-07-10T01:07:49.165504
 url: "/cdr-researcher-census/researchers/thuy-thi-thu-vu-a5044371/"
 layout: "researcher"
 hiddenInHomeList: true

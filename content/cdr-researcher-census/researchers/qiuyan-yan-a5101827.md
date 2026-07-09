@@ -1,7 +1,7 @@
 ---
 title: "Qiuyan Yan"
 description: "Qiuyan Yan is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.587613
+date: 2026-07-10T01:07:47.650859
 url: "/cdr-researcher-census/researchers/qiuyan-yan-a5101827/"
 layout: "researcher"
 hiddenInHomeList: true

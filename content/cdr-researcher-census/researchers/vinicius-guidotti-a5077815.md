@@ -1,7 +1,7 @@
 ---
 title: "Vinícius Guidotti"
 description: "Vinícius Guidotti is a Mid-career Soil Carbon researcher at Universidade Federal de Mato Grosso in BR. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.756518
+date: 2026-07-10T01:07:47.806762
 url: "/cdr-researcher-census/researchers/vinicius-guidotti-a5077815/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rajat Singh"
 description: "Rajat Singh is a Senior Unknown researcher at Central University of Punjab in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.153598
+date: 2026-07-10T01:07:47.241818
 url: "/cdr-researcher-census/researchers/rajat-singh-a5101459/"
 layout: "researcher"
 hiddenInHomeList: true

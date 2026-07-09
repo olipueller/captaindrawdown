@@ -1,7 +1,7 @@
 ---
 title: "Júnior Staudt"
 description: "Júnior Staudt is a Mid-career Unknown researcher at Stadtwerke Straubing (Germany) in DE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.838165
+date: 2026-07-10T01:07:48.770796
 url: "/cdr-researcher-census/researchers/junior-staudt-a5008511/"
 layout: "researcher"
 hiddenInHomeList: true

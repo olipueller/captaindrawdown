@@ -1,7 +1,7 @@
 ---
 title: "Sara Cantera"
 description: "Sara Cantera is a Senior Unknown researcher at Universidade de Valladolid in ES. With 53 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.182890
+date: 2026-07-10T01:07:47.271651
 url: "/cdr-researcher-census/researchers/sara-cantera-a5083309/"
 layout: "researcher"
 hiddenInHomeList: true

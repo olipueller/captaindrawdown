@@ -1,7 +1,7 @@
 ---
 title: "Xiaomei Yao"
 description: "Xiaomei Yao is a Senior Unknown researcher at Zhengzhou University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.980110
+date: 2026-07-10T01:07:47.989552
 url: "/cdr-researcher-census/researchers/xiaomei-yao-a5102901/"
 layout: "researcher"
 hiddenInHomeList: true

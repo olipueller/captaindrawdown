@@ -1,7 +1,7 @@
 ---
 title: "Mariana Padilha Campos Lopes"
 description: "Mariana Padilha Campos Lopes is a Mid-career Unknown researcher at Grupo Neoenergia in BR. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.795056
+date: 2026-07-10T01:07:47.843431
 url: "/cdr-researcher-census/researchers/mariana-padilha-campos-lopes-a5035210/"
 layout: "researcher"
 hiddenInHomeList: true

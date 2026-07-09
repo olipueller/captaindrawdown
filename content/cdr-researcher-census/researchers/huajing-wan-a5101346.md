@@ -1,7 +1,7 @@
 ---
 title: "Huajing Wan"
 description: "Huajing Wan is a Mid-career Unknown researcher at Sichuan University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.233759
+date: 2026-07-10T01:07:49.143001
 url: "/cdr-researcher-census/researchers/huajing-wan-a5101346/"
 layout: "researcher"
 hiddenInHomeList: true

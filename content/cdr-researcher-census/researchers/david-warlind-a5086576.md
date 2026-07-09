@@ -1,7 +1,7 @@
 ---
 title: "David Wårlind"
 description: "David Wårlind is a Senior General CDR researcher at Lunds universitet Naturvetenskapliga fakulteten in SE. With 116 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.949916
+date: 2026-07-10T01:07:46.982757
 url: "/cdr-researcher-census/researchers/david-warlind-a5086576/"
 layout: "researcher"
 hiddenInHomeList: true

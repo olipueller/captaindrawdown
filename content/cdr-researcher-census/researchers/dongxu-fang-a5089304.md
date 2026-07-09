@@ -1,7 +1,7 @@
 ---
 title: "Dongxu Fang"
 description: "Dongxu Fang is a Mid-career Unknown researcher at Shanghai Jiao Tong University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.615480
+date: 2026-07-10T01:07:48.576686
 url: "/cdr-researcher-census/researchers/dongxu-fang-a5089304/"
 layout: "researcher"
 hiddenInHomeList: true

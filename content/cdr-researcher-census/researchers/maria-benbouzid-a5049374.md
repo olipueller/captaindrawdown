@@ -1,7 +1,7 @@
 ---
 title: "Maria Benbouzid"
 description: "Maria Benbouzid is a Mid-career Biochar researcher at Mohammed V University in MA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.731929
+date: 2026-07-10T01:07:48.680587
 url: "/cdr-researcher-census/researchers/maria-benbouzid-a5049374/"
 layout: "researcher"
 hiddenInHomeList: true

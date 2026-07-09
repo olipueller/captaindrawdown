@@ -1,7 +1,7 @@
 ---
 title: "Ziwei Chen"
 description: "Ziwei Chen is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.120511
+date: 2026-07-10T01:07:48.144382
 url: "/cdr-researcher-census/researchers/ziwei-chen-a5084782/"
 layout: "researcher"
 hiddenInHomeList: true

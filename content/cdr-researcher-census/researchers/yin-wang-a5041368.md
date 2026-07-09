@@ -1,7 +1,7 @@
 ---
 title: "Yin Wang"
 description: "Yin Wang is a Senior Soil Carbon researcher at Sinopec (China) in CN. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.642176
+date: 2026-07-10T01:07:47.701271
 url: "/cdr-researcher-census/researchers/yin-wang-a5041368/"
 layout: "researcher"
 hiddenInHomeList: true

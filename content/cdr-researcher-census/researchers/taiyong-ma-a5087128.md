@@ -1,7 +1,7 @@
 ---
 title: "Taiyong Ma"
 description: "Taiyong Ma is an Early-career Unknown researcher at Beijing Forestry University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.982399
+date: 2026-07-10T01:07:48.902230
 url: "/cdr-researcher-census/researchers/taiyong-ma-a5087128/"
 layout: "researcher"
 hiddenInHomeList: true

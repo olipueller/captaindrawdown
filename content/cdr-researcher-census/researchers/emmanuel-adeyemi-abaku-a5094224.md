@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Adeyemi Abaku"
 description: "Emmanuel Adeyemi Abaku is a Mid-career Unknown researcher. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.570547
+date: 2026-07-10T01:07:47.634330
 url: "/cdr-researcher-census/researchers/emmanuel-adeyemi-abaku-a5094224/"
 layout: "researcher"
 hiddenInHomeList: true

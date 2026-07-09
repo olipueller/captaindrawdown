@@ -1,7 +1,7 @@
 ---
 title: "Rex Ellis"
 description: "Rex Ellis is a Senior Soil Carbon researcher at St Johns River State College in US. With 37 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.161068
+date: 2026-07-10T01:07:47.250194
 url: "/cdr-researcher-census/researchers/rex-ellis-a5102101/"
 layout: "researcher"
 hiddenInHomeList: true

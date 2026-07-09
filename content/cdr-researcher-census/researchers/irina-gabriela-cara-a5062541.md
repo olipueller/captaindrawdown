@@ -1,7 +1,7 @@
 ---
 title: "Irina Gabriela Cara"
 description: "Irina Gabriela Cara is a Mid-career Biochar researcher at Research Institute for Agriculture and Environment, Iasi University of Life Sciences (IULS) in RO. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.529665
+date: 2026-07-10T01:07:47.596263
 url: "/cdr-researcher-census/researchers/irina-gabriela-cara-a5062541/"
 layout: "researcher"
 hiddenInHomeList: true

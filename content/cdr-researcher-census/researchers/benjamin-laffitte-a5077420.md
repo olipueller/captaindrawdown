@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Laffitte"
 description: "Benjamin Laffitte is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.139530
+date: 2026-07-10T01:07:49.042653
 url: "/cdr-researcher-census/researchers/benjamin-laffitte-a5077420/"
 layout: "researcher"
 hiddenInHomeList: true

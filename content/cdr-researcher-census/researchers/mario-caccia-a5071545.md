@@ -1,7 +1,7 @@
 ---
 title: "Mario Caccia"
 description: "Mario Caccia is a Mid-career Unknown researcher at Universidad de Alicante in ES. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.485743
+date: 2026-07-10T01:07:47.557560
 url: "/cdr-researcher-census/researchers/mario-caccia-a5071545/"
 layout: "researcher"
 hiddenInHomeList: true

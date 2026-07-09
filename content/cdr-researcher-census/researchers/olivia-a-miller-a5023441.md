@@ -1,7 +1,7 @@
 ---
 title: "Olivia A. Miller"
 description: "Olivia A. Miller is a Mid-career Unknown researcher at The Ohio State University Wexner Medical Center in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.401170
+date: 2026-07-10T01:07:48.392966
 url: "/cdr-researcher-census/researchers/olivia-a-miller-a5023441/"
 layout: "researcher"
 hiddenInHomeList: true

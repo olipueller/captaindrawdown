@@ -1,7 +1,7 @@
 ---
 title: "Fa-Wei Zhang"
 description: "Fa-Wei Zhang is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.619218
+date: 2026-07-10T01:07:48.580243
 url: "/cdr-researcher-census/researchers/fa-wei-zhang-a5072867/"
 layout: "researcher"
 hiddenInHomeList: true

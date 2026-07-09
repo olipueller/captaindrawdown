@@ -1,7 +1,7 @@
 ---
 title: "Angelo Casolaro"
 description: "Angelo Casolaro is a Mid-career Unknown researcher at Parthenope University of Naples in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.303690
+date: 2026-07-10T01:07:48.306445
 url: "/cdr-researcher-census/researchers/angelo-casolaro-a5028538/"
 layout: "researcher"
 hiddenInHomeList: true

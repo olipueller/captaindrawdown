@@ -1,7 +1,7 @@
 ---
 title: "Kathryn Haering"
 description: "Kathryn Haering is a Senior Soil Carbon researcher at Virginia Tech in US. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.360524
+date: 2026-07-10T01:07:47.442443
 url: "/cdr-researcher-census/researchers/kathryn-haering-a5061343/"
 layout: "researcher"
 hiddenInHomeList: true

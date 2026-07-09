@@ -1,7 +1,7 @@
 ---
 title: "Joachim C. Lentz"
 description: "Joachim C. Lentz is a Mid-career Unknown researcher at University of Nottingham in GB. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.697865
+date: 2026-07-10T01:07:48.651209
 url: "/cdr-researcher-census/researchers/joachim-c-lentz-a5065035/"
 layout: "researcher"
 hiddenInHomeList: true

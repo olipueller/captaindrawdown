@@ -1,7 +1,7 @@
 ---
 title: "Daniel Mullen"
 description: "Daniel Mullen is a Mid-career General CDR researcher at Thornbury Hospital in GB. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.772719
+date: 2026-07-10T01:07:48.716609
 url: "/cdr-researcher-census/researchers/daniel-mullen-a5018266/"
 layout: "researcher"
 hiddenInHomeList: true

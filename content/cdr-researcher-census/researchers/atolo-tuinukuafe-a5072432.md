@@ -1,7 +1,7 @@
 ---
 title: "Atolo Tuinukuafe"
 description: "Atolo Tuinukuafe is a Mid-career General CDR researcher at Oregon State University in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.570825
+date: 2026-07-10T01:07:48.549075
 url: "/cdr-researcher-census/researchers/atolo-tuinukuafe-a5072432/"
 layout: "researcher"
 hiddenInHomeList: true

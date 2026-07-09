@@ -1,7 +1,7 @@
 ---
 title: "Clint Cameron"
 description: "Clint Cameron is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.327100
+date: 2026-07-10T01:07:47.409004
 url: "/cdr-researcher-census/researchers/clint-cameron-a5103200/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Arvind Singh"
 description: "Arvind Singh is a Senior Ocean CDR researcher at Physical Research Laboratory in IN. With 120 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.049515
+date: 2026-07-10T01:07:47.124014
 url: "/cdr-researcher-census/researchers/arvind-singh-a5055204/"
 layout: "researcher"
 hiddenInHomeList: true

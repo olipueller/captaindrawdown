@@ -1,7 +1,7 @@
 ---
 title: "Kepan Yang"
 description: "Kepan Yang is an Early-career Soil Carbon researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.909252
+date: 2026-07-10T01:07:48.834332
 url: "/cdr-researcher-census/researchers/kepan-yang-a5082555/"
 layout: "researcher"
 hiddenInHomeList: true

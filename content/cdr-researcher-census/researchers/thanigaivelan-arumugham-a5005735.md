@@ -1,7 +1,7 @@
 ---
 title: "Thanigaivelan Arumugham"
 description: "Thanigaivelan Arumugham is a Mid-career Ocean CDR researcher at Khalifa University of Science Technology in AE. With 30 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.201631
+date: 2026-07-10T01:07:47.290322
 url: "/cdr-researcher-census/researchers/thanigaivelan-arumugham-a5005735/"
 layout: "researcher"
 hiddenInHomeList: true

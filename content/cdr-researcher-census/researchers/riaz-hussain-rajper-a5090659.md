@@ -1,7 +1,7 @@
 ---
 title: "Riaz Hussain Rajper"
 description: "Riaz Hussain Rajper is a Mid-career Unknown researcher at University of Sindh in PK. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.681882
+date: 2026-07-10T01:07:48.636992
 url: "/cdr-researcher-census/researchers/riaz-hussain-rajper-a5090659/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiuqin Wu"
 description: "Xiuqin Wu is a Senior Soil Carbon researcher at Fujian Medical University in CN. With 79 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.051749
+date: 2026-07-10T01:07:47.126719
 url: "/cdr-researcher-census/researchers/xiuqin-wu-a5007321/"
 layout: "researcher"
 hiddenInHomeList: true

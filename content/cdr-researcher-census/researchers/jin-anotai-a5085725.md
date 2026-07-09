@@ -1,7 +1,7 @@
 ---
 title: "Jin Anotai"
 description: "Jin Anotai is a Mid-career Biochar researcher at National Chung Hsing University in TW. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.635064
+date: 2026-07-10T01:07:48.594216
 url: "/cdr-researcher-census/researchers/jin-anotai-a5085725/"
 layout: "researcher"
 hiddenInHomeList: true

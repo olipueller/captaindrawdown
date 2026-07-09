@@ -1,7 +1,7 @@
 ---
 title: "Veronika Pav"
 description: "Veronika Pav is a Mid-career Unknown researcher at Kennell and Associates Inc in US. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.083489
+date: 2026-07-10T01:07:48.993814
 url: "/cdr-researcher-census/researchers/veronika-pav-a5084600/"
 layout: "researcher"
 hiddenInHomeList: true

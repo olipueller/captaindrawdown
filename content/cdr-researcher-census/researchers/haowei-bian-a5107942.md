@@ -1,7 +1,7 @@
 ---
 title: "Haowei Bian"
 description: "Haowei Bian is a Mid-career Unknown researcher at Kunming University of Science and Technology in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.208031
+date: 2026-07-10T01:07:48.221190
 url: "/cdr-researcher-census/researchers/haowei-bian-a5107942/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jianli Ding"
 description: "Jianli Ding is a Senior Soil Carbon researcher at Civil Aviation University of China in CN. With 91 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.123452
+date: 2026-07-10T01:07:47.210313
 url: "/cdr-researcher-census/researchers/jianli-ding-a5103077/"
 layout: "researcher"
 hiddenInHomeList: true

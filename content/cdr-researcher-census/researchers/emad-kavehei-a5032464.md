@@ -1,7 +1,7 @@
 ---
 title: "Emad Kavehei"
 description: "Emad Kavehei is a Mid-career Soil Carbon researcher at Griffith University in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.044147
+date: 2026-07-10T01:07:48.049786
 url: "/cdr-researcher-census/researchers/emad-kavehei-a5032464/"
 layout: "researcher"
 hiddenInHomeList: true

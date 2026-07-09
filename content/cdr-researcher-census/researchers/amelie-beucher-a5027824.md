@@ -1,7 +1,7 @@
 ---
 title: "Amélie Beucher"
 description: "Amélie Beucher is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 95 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.296661
+date: 2026-07-10T01:07:47.379096
 url: "/cdr-researcher-census/researchers/amelie-beucher-a5027824/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marco Giordano"
 description: "Marco Giordano is a Mid-career Unknown researcher. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.600018
+date: 2026-07-10T01:07:48.563490
 url: "/cdr-researcher-census/researchers/marco-giordano-a5103132/"
 layout: "researcher"
 hiddenInHomeList: true

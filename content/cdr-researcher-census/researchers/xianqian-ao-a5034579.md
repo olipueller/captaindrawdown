@@ -1,7 +1,7 @@
 ---
 title: "Xianqian Ao"
 description: "Xianqian Ao is a Mid-career Unknown researcher at East China University of Technology in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.232244
+date: 2026-07-10T01:07:48.242188
 url: "/cdr-researcher-census/researchers/xianqian-ao-a5034579/"
 layout: "researcher"
 hiddenInHomeList: true

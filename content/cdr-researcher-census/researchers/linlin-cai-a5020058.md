@@ -1,7 +1,7 @@
 ---
 title: "Linlin Cai"
 description: "Linlin Cai is a Senior BECCS researcher at Shenzhen University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.792452
+date: 2026-07-10T01:07:47.840994
 url: "/cdr-researcher-census/researchers/linlin-cai-a5020058/"
 layout: "researcher"
 hiddenInHomeList: true

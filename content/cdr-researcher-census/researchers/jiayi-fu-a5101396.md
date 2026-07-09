@@ -1,7 +1,7 @@
 ---
 title: "Jiayi Fu"
 description: "Jiayi Fu is a Mid-career Soil Carbon researcher at National Academy of Agricultural Sciences in IN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.097930
+date: 2026-07-10T01:07:49.006442
 url: "/cdr-researcher-census/researchers/jiayi-fu-a5101396/"
 layout: "researcher"
 hiddenInHomeList: true

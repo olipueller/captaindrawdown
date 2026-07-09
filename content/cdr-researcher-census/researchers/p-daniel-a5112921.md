@@ -1,7 +1,7 @@
 ---
 title: "P. Daniel"
 description: "P. Daniel is a Senior Soil Carbon researcher at Météo-France in FR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.859753
+date: 2026-07-10T01:07:47.895086
 url: "/cdr-researcher-census/researchers/p-daniel-a5112921/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sebastián R. Mazzilli"
 description: "Sebastián R. Mazzilli is a Mid-career Unknown researcher at Universidad de la República de Uruguay in UY. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.690252
+date: 2026-07-10T01:07:47.746365
 url: "/cdr-researcher-census/researchers/sebastian-r-mazzilli-a5018585/"
 layout: "researcher"
 hiddenInHomeList: true

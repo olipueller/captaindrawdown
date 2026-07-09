@@ -1,7 +1,7 @@
 ---
 title: "Senthil Nagappan"
 description: "Senthil Nagappan is a Mid-career BECCS researcher at Sardar Swaran Singh National Institute of Bio-Energy in IN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.132278
+date: 2026-07-10T01:07:47.221177
 url: "/cdr-researcher-census/researchers/senthil-nagappan-a5048856/"
 layout: "researcher"
 hiddenInHomeList: true

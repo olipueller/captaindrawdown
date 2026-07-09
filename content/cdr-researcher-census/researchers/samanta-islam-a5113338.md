@@ -1,7 +1,7 @@
 ---
 title: "Samanta Islam"
 description: "Samanta Islam is a Mid-career Soil Carbon researcher at Jatiya Kabi Kazi Nazrul Islam University in BD. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.856899
+date: 2026-07-10T01:07:48.787369
 url: "/cdr-researcher-census/researchers/samanta-islam-a5113338/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ina Möller"
 description: "Ina Möller is a Senior General CDR researcher at Wageningen University & Research in NL. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.619873
+date: 2026-07-10T01:07:47.680582
 url: "/cdr-researcher-census/researchers/ina-moller-a5009199/"
 layout: "researcher"
 hiddenInHomeList: true

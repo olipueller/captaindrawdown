@@ -1,7 +1,7 @@
 ---
 title: "Zhichao Yu"
 description: "Zhichao Yu is a Mid-career Unknown researcher at SGIDI Engineering Consulting (China) in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.122924
+date: 2026-07-10T01:07:48.146780
 url: "/cdr-researcher-census/researchers/zhichao-yu-a5043616/"
 layout: "researcher"
 hiddenInHomeList: true

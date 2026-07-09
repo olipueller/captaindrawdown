@@ -1,7 +1,7 @@
 ---
 title: "Beatrice M. Bock"
 description: "Beatrice M. Bock is a Mid-career Unknown researcher at Northern Arizona University in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.031349
+date: 2026-07-10T01:07:48.946647
 url: "/cdr-researcher-census/researchers/beatrice-m-bock-a5050304/"
 layout: "researcher"
 hiddenInHomeList: true

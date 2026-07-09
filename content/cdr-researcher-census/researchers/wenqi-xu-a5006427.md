@@ -1,7 +1,7 @@
 ---
 title: "Wenqi Xu"
 description: "Wenqi Xu is a Mid-career Unknown researcher at Beijing Institute of Technology in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.892583
+date: 2026-07-10T01:07:48.818909
 url: "/cdr-researcher-census/researchers/wenqi-xu-a5006427/"
 layout: "researcher"
 hiddenInHomeList: true

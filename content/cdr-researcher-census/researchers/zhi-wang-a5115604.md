@@ -1,7 +1,7 @@
 ---
 title: "Zhi Wang"
 description: "Zhi Wang is a Senior Soil Carbon researcher at Anhui Agricultural University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.782538
+date: 2026-07-10T01:07:47.831058
 url: "/cdr-researcher-census/researchers/zhi-wang-a5115604/"
 layout: "researcher"
 hiddenInHomeList: true

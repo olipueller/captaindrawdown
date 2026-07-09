@@ -1,7 +1,7 @@
 ---
 title: "Ahsan Raza"
 description: "Ahsan Raza is a Mid-career Unknown researcher at Leibniz Centre for Agricultural Landscape Research in DE. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.456662
+date: 2026-07-10T01:07:47.531404
 url: "/cdr-researcher-census/researchers/ahsan-raza-a5002788/"
 layout: "researcher"
 hiddenInHomeList: true

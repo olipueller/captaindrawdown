@@ -1,7 +1,7 @@
 ---
 title: "Lei Deng"
 description: "Lei Deng is an Eminent Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 233 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.902899
+date: 2026-07-10T01:07:46.893727
 url: "/cdr-researcher-census/researchers/lei-deng-a5043286/"
 layout: "researcher"
 hiddenInHomeList: true

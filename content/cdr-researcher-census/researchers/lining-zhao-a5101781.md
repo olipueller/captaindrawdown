@@ -1,7 +1,7 @@
 ---
 title: "Lining Zhao"
 description: "Lining Zhao is a Senior Soil Carbon researcher at Xinjiang Agricultural University in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.620678
+date: 2026-07-10T01:07:47.681407
 url: "/cdr-researcher-census/researchers/lining-zhao-a5101781/"
 layout: "researcher"
 hiddenInHomeList: true

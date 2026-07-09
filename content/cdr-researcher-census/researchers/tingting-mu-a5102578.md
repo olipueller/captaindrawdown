@@ -1,7 +1,7 @@
 ---
 title: "Tingting Mu"
 description: "Tingting Mu is a Mid-career Unknown researcher at Nanjing Institute of Environmental Sciences in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.658030
+date: 2026-07-10T01:07:47.715510
 url: "/cdr-researcher-census/researchers/tingting-mu-a5102578/"
 layout: "researcher"
 hiddenInHomeList: true

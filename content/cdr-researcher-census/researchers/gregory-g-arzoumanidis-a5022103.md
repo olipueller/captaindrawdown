@@ -1,7 +1,7 @@
 ---
 title: "Gregory G. Arzoumanidis"
 description: "Gregory G. Arzoumanidis is a Senior General CDR researcher. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.705621
+date: 2026-07-10T01:07:48.657963
 url: "/cdr-researcher-census/researchers/gregory-g-arzoumanidis-a5022103/"
 layout: "researcher"
 hiddenInHomeList: true

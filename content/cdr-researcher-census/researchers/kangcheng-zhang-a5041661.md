@@ -1,7 +1,7 @@
 ---
 title: "Kangcheng Zhang"
 description: "Kangcheng Zhang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.626151
+date: 2026-07-10T01:07:47.685959
 url: "/cdr-researcher-census/researchers/kangcheng-zhang-a5041661/"
 layout: "researcher"
 hiddenInHomeList: true

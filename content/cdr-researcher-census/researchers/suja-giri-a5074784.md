@@ -1,7 +1,7 @@
 ---
 title: "Suja Giri"
 description: "Suja Giri is a Mid-career Soil Carbon researcher. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.612648
+date: 2026-07-10T01:07:48.574049
 url: "/cdr-researcher-census/researchers/suja-giri-a5074784/"
 layout: "researcher"
 hiddenInHomeList: true

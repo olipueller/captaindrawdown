@@ -1,7 +1,7 @@
 ---
 title: "Julien Demenois"
 description: "Julien Demenois is a Senior Soil Carbon researcher at CIRAD Département Performances des systèmes de production et de transformation tropicaux in FR. With 76 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.229372
+date: 2026-07-10T01:07:47.315995
 url: "/cdr-researcher-census/researchers/julien-demenois-a5004273/"
 layout: "researcher"
 hiddenInHomeList: true

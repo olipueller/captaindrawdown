@@ -1,7 +1,7 @@
 ---
 title: "Alexander Hayward"
 description: "Alexander Hayward is a Mid-career Unknown researcher at Danish Meteorological Institute in DK. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.959317
+date: 2026-07-10T01:07:48.880708
 url: "/cdr-researcher-census/researchers/alexander-hayward-a5010830/"
 layout: "researcher"
 hiddenInHomeList: true

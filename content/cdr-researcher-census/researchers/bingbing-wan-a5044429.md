@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Wan"
 description: "Bingbing Wan is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.982216
+date: 2026-07-10T01:07:47.991409
 url: "/cdr-researcher-census/researchers/bingbing-wan-a5044429/"
 layout: "researcher"
 hiddenInHomeList: true

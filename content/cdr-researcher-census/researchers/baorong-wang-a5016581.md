@@ -1,7 +1,7 @@
 ---
 title: "Baorong Wang"
 description: "Baorong Wang is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 117 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.969434
+date: 2026-07-10T01:07:47.012709
 url: "/cdr-researcher-census/researchers/baorong-wang-a5016581/"
 layout: "researcher"
 hiddenInHomeList: true

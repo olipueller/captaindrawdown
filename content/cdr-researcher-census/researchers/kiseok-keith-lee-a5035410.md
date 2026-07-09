@@ -1,7 +1,7 @@
 ---
 title: "Kiseok Keith Lee"
 description: "Kiseok Keith Lee is a Mid-career Soil Carbon researcher at University of Chicago in US. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.588824
+date: 2026-07-10T01:07:47.652103
 url: "/cdr-researcher-census/researchers/kiseok-keith-lee-a5035410/"
 layout: "researcher"
 hiddenInHomeList: true

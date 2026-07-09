@@ -1,7 +1,7 @@
 ---
 title: "Sravan Kumar Kotluri"
 description: "Sravan Kumar Kotluri is a Mid-career Unknown researcher at National Centre for Earth Science Studies in IN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.073898
+date: 2026-07-10T01:07:48.984969
 url: "/cdr-researcher-census/researchers/sravan-kumar-kotluri-a5061956/"
 layout: "researcher"
 hiddenInHomeList: true

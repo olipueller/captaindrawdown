@@ -1,7 +1,7 @@
 ---
 title: "Harshavardhana A. Uranakara"
 description: "Harshavardhana A. Uranakara is a Mid-career Unknown researcher at Osys Technology in GB. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.350310
+date: 2026-07-10T01:07:48.348651
 url: "/cdr-researcher-census/researchers/harshavardhana-a-uranakara-a5060112/"
 layout: "researcher"
 hiddenInHomeList: true

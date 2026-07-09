@@ -1,7 +1,7 @@
 ---
 title: "Xingcheng Yan"
 description: "Xingcheng Yan is a Mid-career General CDR researcher at Department of the Environment in GB. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.674958
+date: 2026-07-10T01:07:47.731624
 url: "/cdr-researcher-census/researchers/xingcheng-yan-a5101902/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Amit Dan Grossman"
 description: "Amit Dan Grossman is a Mid-career General CDR researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.802512
+date: 2026-07-10T01:07:48.741325
 url: "/cdr-researcher-census/researchers/amit-dan-grossman-a5073983/"
 layout: "researcher"
 hiddenInHomeList: true

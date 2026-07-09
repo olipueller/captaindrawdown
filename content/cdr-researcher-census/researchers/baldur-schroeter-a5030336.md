@@ -1,7 +1,7 @@
 ---
 title: "Baldur Schroeter"
 description: "Baldur Schroeter is a Senior Unknown researcher at Universität Hamburg in DE. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.594223
+date: 2026-07-10T01:07:47.657365
 url: "/cdr-researcher-census/researchers/baldur-schroeter-a5030336/"
 layout: "researcher"
 hiddenInHomeList: true

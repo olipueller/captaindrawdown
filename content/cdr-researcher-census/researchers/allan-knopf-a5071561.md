@@ -1,7 +1,7 @@
 ---
 title: "Allan Knopf"
 description: "Allan Knopf is a Mid-career Biochar researcher at U.S. Arid Land Agricultural Research Center in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.079765
+date: 2026-07-10T01:07:48.081558
 url: "/cdr-researcher-census/researchers/allan-knopf-a5071561/"
 layout: "researcher"
 hiddenInHomeList: true

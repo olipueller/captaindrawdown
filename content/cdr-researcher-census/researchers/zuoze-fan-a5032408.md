@@ -1,7 +1,7 @@
 ---
 title: "Zuoze Fan"
 description: "Zuoze Fan is a Mid-career Unknown researcher at Sichuan University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.709607
+date: 2026-07-10T01:07:48.661392
 url: "/cdr-researcher-census/researchers/zuoze-fan-a5032408/"
 layout: "researcher"
 hiddenInHomeList: true

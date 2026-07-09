@@ -1,7 +1,7 @@
 ---
 title: "Zhengping Peng"
 description: "Zhengping Peng is a Senior Soil Carbon researcher. With 69 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.344981
+date: 2026-07-10T01:07:47.427550
 url: "/cdr-researcher-census/researchers/zhengping-peng-a5000366/"
 layout: "researcher"
 hiddenInHomeList: true

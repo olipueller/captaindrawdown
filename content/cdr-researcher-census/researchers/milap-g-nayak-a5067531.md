@@ -1,7 +1,7 @@
 ---
 title: "Milap G. Nayak"
 description: "Milap G. Nayak is a Mid-career Unknown researcher at Gujarat Technological University in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.914634
+date: 2026-07-10T01:07:47.927784
 url: "/cdr-researcher-census/researchers/milap-g-nayak-a5067531/"
 layout: "researcher"
 hiddenInHomeList: true

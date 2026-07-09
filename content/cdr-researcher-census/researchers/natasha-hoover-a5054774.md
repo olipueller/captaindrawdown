@@ -1,7 +1,7 @@
 ---
 title: "Natasha Hoover"
 description: "Natasha Hoover is a Senior Unknown researcher at Iowa State University in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.408089
+date: 2026-07-10T01:07:47.487741
 url: "/cdr-researcher-census/researchers/natasha-hoover-a5054774/"
 layout: "researcher"
 hiddenInHomeList: true

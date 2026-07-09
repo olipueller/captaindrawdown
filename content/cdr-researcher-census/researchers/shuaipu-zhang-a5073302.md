@@ -1,7 +1,7 @@
 ---
 title: "Shuaipu Zhang"
 description: "Shuaipu Zhang is a Mid-career Soil Carbon researcher at Guilin University of Technology in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.251293
+date: 2026-07-10T01:07:49.158536
 url: "/cdr-researcher-census/researchers/shuaipu-zhang-a5073302/"
 layout: "researcher"
 hiddenInHomeList: true

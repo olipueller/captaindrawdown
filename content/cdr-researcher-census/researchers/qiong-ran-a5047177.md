@@ -1,7 +1,7 @@
 ---
 title: "Qiong Ran"
 description: "Qiong Ran is a Mid-career Soil Carbon researcher at Chongqing University of Technology in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.631512
+date: 2026-07-10T01:07:48.591105
 url: "/cdr-researcher-census/researchers/qiong-ran-a5047177/"
 layout: "researcher"
 hiddenInHomeList: true

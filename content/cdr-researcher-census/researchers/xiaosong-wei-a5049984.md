@@ -1,7 +1,7 @@
 ---
 title: "Xiaosong Wei"
 description: "Xiaosong Wei is a Mid-career Unknown researcher at China University of Geosciences in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.355801
+date: 2026-07-10T01:07:48.354193
 url: "/cdr-researcher-census/researchers/xiaosong-wei-a5049984/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Danish"
 description: "Muhammad Danish is a Senior Unknown researcher at Taiyuan University of Science and Technology in CN. With 39 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.144782
+date: 2026-07-10T01:07:47.233593
 url: "/cdr-researcher-census/researchers/muhammad-danish-a5037256/"
 layout: "researcher"
 hiddenInHomeList: true

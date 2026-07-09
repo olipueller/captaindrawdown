@@ -1,7 +1,7 @@
 ---
 title: "Allen Lenzen"
 description: "Allen Lenzen is a Senior Unknown researcher at University of Wisconsin–Madison in US. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.269336
+date: 2026-07-10T01:07:47.352502
 url: "/cdr-researcher-census/researchers/allen-lenzen-a5003985/"
 layout: "researcher"
 hiddenInHomeList: true

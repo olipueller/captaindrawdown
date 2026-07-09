@@ -1,7 +1,7 @@
 ---
 title: "Sina Pourebrahimi"
 description: "Sina Pourebrahimi is a Mid-career Unknown researcher at McGill University in CA. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.204690
+date: 2026-07-10T01:07:47.292993
 url: "/cdr-researcher-census/researchers/sina-pourebrahimi-a5074128/"
 layout: "researcher"
 hiddenInHomeList: true

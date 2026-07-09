@@ -1,7 +1,7 @@
 ---
 title: "Changlong Bi"
 description: "Changlong Bi is a Mid-career Biochar researcher at Bohai University in CN. With 35 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.416342
+date: 2026-07-10T01:07:47.495262
 url: "/cdr-researcher-census/researchers/changlong-bi-a5014016/"
 layout: "researcher"
 hiddenInHomeList: true

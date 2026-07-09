@@ -1,7 +1,7 @@
 ---
 title: "Stefan Frank"
 description: "Stefan Frank is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 159 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.906263
+date: 2026-07-10T01:07:46.900503
 url: "/cdr-researcher-census/researchers/stefan-frank-a5040606/"
 layout: "researcher"
 hiddenInHomeList: true

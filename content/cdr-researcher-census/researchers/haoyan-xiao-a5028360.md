@@ -1,7 +1,7 @@
 ---
 title: "Haoyan Xiao"
 description: "Haoyan Xiao is a Mid-career Unknown researcher at Fujian Normal University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.917388
+date: 2026-07-10T01:07:48.841599
 url: "/cdr-researcher-census/researchers/haoyan-xiao-a5028360/"
 layout: "researcher"
 hiddenInHomeList: true

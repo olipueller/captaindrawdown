@@ -1,7 +1,7 @@
 ---
 title: "Zezhen Pan"
 description: "Zezhen Pan is a Senior Biochar researcher at Washington University in St. Louis in US. With 87 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.033485
+date: 2026-07-10T01:07:47.103477
 url: "/cdr-researcher-census/researchers/zezhen-pan-a5019091/"
 layout: "researcher"
 hiddenInHomeList: true

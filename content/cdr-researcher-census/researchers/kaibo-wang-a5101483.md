@@ -1,7 +1,7 @@
 ---
 title: "Kaibo Wang"
 description: "Kaibo Wang is a Senior Soil Carbon researcher at Shaanxi Institute of Zoology in CN. With 110 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.949164
+date: 2026-07-10T01:07:46.981560
 url: "/cdr-researcher-census/researchers/kaibo-wang-a5101483/"
 layout: "researcher"
 hiddenInHomeList: true

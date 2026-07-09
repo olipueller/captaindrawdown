@@ -1,7 +1,7 @@
 ---
 title: "Istem Fer"
 description: "Istem Fer is a Mid-career Soil Carbon researcher at Finnish Meteorological Institute in FI. With 54 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.454315
+date: 2026-07-10T01:07:47.529428
 url: "/cdr-researcher-census/researchers/istem-fer-a5061079/"
 layout: "researcher"
 hiddenInHomeList: true

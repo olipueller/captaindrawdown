@@ -1,7 +1,7 @@
 ---
 title: "Yang Wang"
 description: "Yang Wang is an Early-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.221146
+date: 2026-07-10T01:07:49.131712
 url: "/cdr-researcher-census/researchers/yang-wang-a5104094/"
 layout: "researcher"
 hiddenInHomeList: true

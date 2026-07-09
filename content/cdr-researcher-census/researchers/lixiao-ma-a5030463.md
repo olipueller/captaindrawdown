@@ -1,7 +1,7 @@
 ---
 title: "Lixiao Ma"
 description: "Lixiao Ma is a Mid-career Unknown researcher at Beijing Botanical Garden in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.670518
+date: 2026-07-10T01:07:48.626402
 url: "/cdr-researcher-census/researchers/lixiao-ma-a5030463/"
 layout: "researcher"
 hiddenInHomeList: true

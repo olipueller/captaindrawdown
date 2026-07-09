@@ -1,7 +1,7 @@
 ---
 title: "Saeed Abbasizadeh"
 description: "Saeed Abbasizadeh is a Mid-career Unknown researcher at Tarbiat Modares University in IR. With 27 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.292701
+date: 2026-07-10T01:07:47.374995
 url: "/cdr-researcher-census/researchers/saeed-abbasizadeh-a5082502/"
 layout: "researcher"
 hiddenInHomeList: true

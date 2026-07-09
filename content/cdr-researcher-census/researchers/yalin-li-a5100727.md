@@ -1,7 +1,7 @@
 ---
 title: "Yalin Li"
 description: "Yalin Li is a Senior Soil Carbon researcher at East China University of Science and Technology in CN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.820781
+date: 2026-07-10T01:07:47.866880
 url: "/cdr-researcher-census/researchers/yalin-li-a5100727/"
 layout: "researcher"
 hiddenInHomeList: true

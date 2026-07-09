@@ -1,7 +1,7 @@
 ---
 title: "Takeshi Hagio"
 description: "Takeshi Hagio is a Senior Unknown researcher at Nagoya University in JP. With 96 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.299915
+date: 2026-07-10T01:07:47.382276
 url: "/cdr-researcher-census/researchers/takeshi-hagio-a5076609/"
 layout: "researcher"
 hiddenInHomeList: true

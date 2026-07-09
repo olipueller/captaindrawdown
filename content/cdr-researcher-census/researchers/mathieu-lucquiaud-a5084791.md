@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Lucquiaud"
 description: "Mathieu Lucquiaud is a Senior General CDR researcher at University of Sheffield in GB. With 138 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.056490
+date: 2026-07-10T01:07:47.132312
 url: "/cdr-researcher-census/researchers/mathieu-lucquiaud-a5084791/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Joseane Débora Peruço Theodoro"
 description: "Joseane Débora Peruço Theodoro is a Mid-career Unknown researcher. With 38 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.963477
+date: 2026-07-10T01:07:48.884535
 url: "/cdr-researcher-census/researchers/joseane-debora-peruco-theodoro-a5015498/"
 layout: "researcher"
 hiddenInHomeList: true

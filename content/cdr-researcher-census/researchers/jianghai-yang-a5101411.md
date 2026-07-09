@@ -1,7 +1,7 @@
 ---
 title: "Jianghai Yang"
 description: "Jianghai Yang is a Senior Enhanced Weathering researcher at China University of Geosciences in CN. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.427832
+date: 2026-07-10T01:07:48.418040
 url: "/cdr-researcher-census/researchers/jianghai-yang-a5101411/"
 layout: "researcher"
 hiddenInHomeList: true

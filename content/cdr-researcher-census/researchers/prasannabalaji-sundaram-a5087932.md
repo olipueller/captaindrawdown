@@ -1,7 +1,7 @@
 ---
 title: "Prasannabalaji Sundaram"
 description: "Prasannabalaji Sundaram is a Senior Unknown researcher at Laboratoire Sciences de l'Univers au Cerfacs in FR. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.659446
+date: 2026-07-10T01:07:47.716959
 url: "/cdr-researcher-census/researchers/prasannabalaji-sundaram-a5087932/"
 layout: "researcher"
 hiddenInHomeList: true

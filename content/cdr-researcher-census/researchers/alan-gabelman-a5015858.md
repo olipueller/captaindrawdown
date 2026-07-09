@@ -1,7 +1,7 @@
 ---
 title: "Alan Gabelman"
 description: "Alan Gabelman is an Early-career Unknown researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.075117
+date: 2026-07-10T01:07:48.986252
 url: "/cdr-researcher-census/researchers/alan-gabelman-a5015858/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tim P. Lynch"
 description: "Tim P. Lynch is a Mid-career Unknown researcher at CSIRO Oceans and Atmosphere in AU. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.263564
+date: 2026-07-10T01:07:49.169835
 url: "/cdr-researcher-census/researchers/tim-p-lynch-a5048333/"
 layout: "researcher"
 hiddenInHomeList: true

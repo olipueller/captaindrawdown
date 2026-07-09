@@ -1,7 +1,7 @@
 ---
 title: "Danka Aćimović"
 description: "Danka Aćimović is a Mid-career Unknown researcher at University of Belgrade in RS. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.875360
+date: 2026-07-10T01:07:48.803059
 url: "/cdr-researcher-census/researchers/danka-acimovic-a5047847/"
 layout: "researcher"
 hiddenInHomeList: true

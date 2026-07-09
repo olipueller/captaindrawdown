@@ -1,7 +1,7 @@
 ---
 title: "Milena M. Ramírez-Rodrigues"
 description: "Milena M. Ramírez-Rodrigues is a Senior Unknown researcher at California Polytechnic State University in US. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.348394
+date: 2026-07-10T01:07:47.430944
 url: "/cdr-researcher-census/researchers/milena-m-ramirez-rodrigues-a5083822/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yosri A. Fahim"
 description: "Yosri A. Fahim is a Mid-career Unknown researcher at Galala university in EG. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.567984
+date: 2026-07-10T01:07:47.631786
 url: "/cdr-researcher-census/researchers/yosri-a-fahim-a5036878/"
 layout: "researcher"
 hiddenInHomeList: true

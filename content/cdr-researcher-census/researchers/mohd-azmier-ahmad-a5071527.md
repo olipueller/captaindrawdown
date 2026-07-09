@@ -1,7 +1,7 @@
 ---
 title: "Mohd Azmier Ahmad"
 description: "Mohd Azmier Ahmad is an Eminent Biochar researcher at Universiti Sains Malaysia - Kampus Kejuruteraan Seri Ampangan in MY. With 244 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.924842
+date: 2026-07-10T01:07:46.937192
 url: "/cdr-researcher-census/researchers/mohd-azmier-ahmad-a5071527/"
 layout: "researcher"
 hiddenInHomeList: true

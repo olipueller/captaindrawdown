@@ -1,7 +1,7 @@
 ---
 title: "Kamal I. Wasfy"
 description: "Kamal I. Wasfy is a Mid-career Soil Carbon researcher at Zagazig University in EG. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.674338
+date: 2026-07-10T01:07:47.731071
 url: "/cdr-researcher-census/researchers/kamal-i-wasfy-a5036035/"
 layout: "researcher"
 hiddenInHomeList: true

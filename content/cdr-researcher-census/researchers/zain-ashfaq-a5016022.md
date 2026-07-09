@@ -1,7 +1,7 @@
 ---
 title: "Zain Ashfaq"
 description: "Zain Ashfaq is a Mid-career Unknown researcher at GIFT University in PK. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.206829
+date: 2026-07-10T01:07:49.119314
 url: "/cdr-researcher-census/researchers/zain-ashfaq-a5016022/"
 layout: "researcher"
 hiddenInHomeList: true

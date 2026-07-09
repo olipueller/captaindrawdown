@@ -1,7 +1,7 @@
 ---
 title: "Anubha Aggarwal"
 description: "Anubha Aggarwal is a Senior General CDR researcher at Delhi Technological University in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.404157
+date: 2026-07-10T01:07:48.395804
 url: "/cdr-researcher-census/researchers/anubha-aggarwal-a5016998/"
 layout: "researcher"
 hiddenInHomeList: true

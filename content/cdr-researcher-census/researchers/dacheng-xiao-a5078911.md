@@ -1,7 +1,7 @@
 ---
 title: "Dacheng Xiao"
 description: "Dacheng Xiao is a Mid-career Soil Carbon researcher at Pennsylvania State University in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.184743
+date: 2026-07-10T01:07:48.200089
 url: "/cdr-researcher-census/researchers/dacheng-xiao-a5078911/"
 layout: "researcher"
 hiddenInHomeList: true

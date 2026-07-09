@@ -1,7 +1,7 @@
 ---
 title: "Junjun Nie"
 description: "Junjun Nie is a Mid-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.071551
+date: 2026-07-10T01:07:48.074261
 url: "/cdr-researcher-census/researchers/junjun-nie-a5103875/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "S. Rajendrakumar"
 description: "S. Rajendrakumar is a Mid-career Unknown researcher at Amrita Vishwa Vidyapeetham in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.190635
+date: 2026-07-10T01:07:49.104462
 url: "/cdr-researcher-census/researchers/s-rajendrakumar-a5068376/"
 layout: "researcher"
 hiddenInHomeList: true

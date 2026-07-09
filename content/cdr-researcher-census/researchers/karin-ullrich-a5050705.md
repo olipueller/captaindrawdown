@@ -1,7 +1,7 @@
 ---
 title: "Karin Ullrich"
 description: "Karin Ullrich is a Senior Soil Carbon researcher. With 21 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.202909
+date: 2026-07-10T01:07:49.115653
 url: "/cdr-researcher-census/researchers/karin-ullrich-a5050705/"
 layout: "researcher"
 hiddenInHomeList: true

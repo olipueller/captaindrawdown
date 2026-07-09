@@ -1,7 +1,7 @@
 ---
 title: "Hermano Melo Queiroz"
 description: "Hermano Melo Queiroz is a Senior Soil Carbon researcher at Universidade de São Paulo in BR. With 87 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.107856
+date: 2026-07-10T01:07:47.193158
 url: "/cdr-researcher-census/researchers/hermano-melo-queiroz-a5016308/"
 layout: "researcher"
 hiddenInHomeList: true

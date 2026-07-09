@@ -1,7 +1,7 @@
 ---
 title: "Zhiping Xiao"
 description: "Zhiping Xiao is a Senior Unknown researcher at Shenzhen Bay Laboratory in CN. With 26 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.394447
+date: 2026-07-10T01:07:47.475576
 url: "/cdr-researcher-census/researchers/zhiping-xiao-a5101040/"
 layout: "researcher"
 hiddenInHomeList: true

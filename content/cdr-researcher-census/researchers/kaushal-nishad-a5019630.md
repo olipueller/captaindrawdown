@@ -1,7 +1,7 @@
 ---
 title: "Kaushal Nishad"
 description: "Kaushal Nishad is a Mid-career Unknown researcher at Cummins Deutschland GmbH in DE. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.798914
+date: 2026-07-10T01:07:47.846860
 url: "/cdr-researcher-census/researchers/kaushal-nishad-a5019630/"
 layout: "researcher"
 hiddenInHomeList: true

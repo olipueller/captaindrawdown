@@ -1,7 +1,7 @@
 ---
 title: "Guizeng Qi"
 description: "Guizeng Qi is a Mid-career Unknown researcher at Beijing Normal University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.266039
+date: 2026-07-10T01:07:48.272502
 url: "/cdr-researcher-census/researchers/guizeng-qi-a5033074/"
 layout: "researcher"
 hiddenInHomeList: true

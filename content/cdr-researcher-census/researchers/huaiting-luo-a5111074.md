@@ -1,7 +1,7 @@
 ---
 title: "Huaiting Luo"
 description: "Huaiting Luo is a Mid-career Unknown researcher at China Shenhua Energy (China) in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.806485
+date: 2026-07-10T01:07:47.853203
 url: "/cdr-researcher-census/researchers/huaiting-luo-a5111074/"
 layout: "researcher"
 hiddenInHomeList: true

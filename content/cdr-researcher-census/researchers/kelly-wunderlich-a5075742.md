@@ -1,7 +1,7 @@
 ---
 title: "Kelly Wunderlich"
 description: "Kelly Wunderlich is a Mid-career Unknown researcher at University of British Columbia in CA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.852100
+date: 2026-07-10T01:07:47.887744
 url: "/cdr-researcher-census/researchers/kelly-wunderlich-a5075742/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jianhua Qin"
 description: "Jianhua Qin is a Senior Biochar researcher at Guilin University of Technology in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.310165
+date: 2026-07-10T01:07:48.312836
 url: "/cdr-researcher-census/researchers/jianhua-qin-a5101658/"
 layout: "researcher"
 hiddenInHomeList: true

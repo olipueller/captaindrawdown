@@ -1,7 +1,7 @@
 ---
 title: "Hadda Ben Mbarek"
 description: "Hadda Ben Mbarek is a Mid-career Soil Carbon researcher at University of Sfax in TN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.424813
+date: 2026-07-10T01:07:48.415113
 url: "/cdr-researcher-census/researchers/hadda-ben-mbarek-a5109851/"
 layout: "researcher"
 hiddenInHomeList: true

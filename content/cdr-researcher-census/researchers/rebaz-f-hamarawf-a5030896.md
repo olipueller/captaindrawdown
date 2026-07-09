@@ -1,7 +1,7 @@
 ---
 title: "Rebaz F. Hamarawf"
 description: "Rebaz F. Hamarawf is a Mid-career Unknown researcher at Komar University of Science and Technology in IQ. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.196267
+date: 2026-07-10T01:07:47.285219
 url: "/cdr-researcher-census/researchers/rebaz-f-hamarawf-a5030896/"
 layout: "researcher"
 hiddenInHomeList: true

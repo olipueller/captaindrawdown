@@ -1,7 +1,7 @@
 ---
 title: "Philipp Behrens"
 description: "Philipp Behrens is a Senior Ocean CDR researcher at Leiden University in NL. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.481484
+date: 2026-07-10T01:07:47.553598
 url: "/cdr-researcher-census/researchers/philipp-behrens-a5039348/"
 layout: "researcher"
 hiddenInHomeList: true

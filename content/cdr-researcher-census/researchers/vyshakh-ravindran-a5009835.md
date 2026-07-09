@@ -1,7 +1,7 @@
 ---
 title: "Vyshakh Ravindran"
 description: "Vyshakh Ravindran is a Mid-career Unknown researcher at National Environmental Engineering Research Institute in IN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.964392
+date: 2026-07-10T01:07:48.885387
 url: "/cdr-researcher-census/researchers/vyshakh-ravindran-a5009835/"
 layout: "researcher"
 hiddenInHomeList: true

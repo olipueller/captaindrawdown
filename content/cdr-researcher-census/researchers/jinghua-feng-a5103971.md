@@ -1,7 +1,7 @@
 ---
 title: "Jinghua Feng"
 description: "Jinghua Feng is a Mid-career Biochar researcher at North China Electric Power University in CN. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.672880
+date: 2026-07-10T01:07:47.729803
 url: "/cdr-researcher-census/researchers/jinghua-feng-a5103971/"
 layout: "researcher"
 hiddenInHomeList: true

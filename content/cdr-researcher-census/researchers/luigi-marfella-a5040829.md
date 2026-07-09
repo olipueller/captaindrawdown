@@ -1,7 +1,7 @@
 ---
 title: "Luigi Marfella"
 description: "Luigi Marfella is a Mid-career Unknown researcher at University of Campania \"Luigi Vanvitelli\" in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.072271
+date: 2026-07-10T01:07:48.983253
 url: "/cdr-researcher-census/researchers/luigi-marfella-a5040829/"
 layout: "researcher"
 hiddenInHomeList: true

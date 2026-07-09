@@ -1,7 +1,7 @@
 ---
 title: "Cece Wang"
 description: "Cece Wang is a Mid-career Unknown researcher at Wuhan University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.641387
+date: 2026-07-10T01:07:48.600042
 url: "/cdr-researcher-census/researchers/cece-wang-a5083237/"
 layout: "researcher"
 hiddenInHomeList: true

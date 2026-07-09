@@ -1,7 +1,7 @@
 ---
 title: "Minh Phương Tống"
 description: "Minh Phương Tống is a Senior Unknown researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.981358
+date: 2026-07-10T01:07:48.901102
 url: "/cdr-researcher-census/researchers/minh-phuong-tong-a5020106/"
 layout: "researcher"
 hiddenInHomeList: true

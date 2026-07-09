@@ -1,7 +1,7 @@
 ---
 title: "Mingyang Hu"
 description: "Mingyang Hu is a Senior Biochar researcher at Harbin Institute of Technology in CN. With 46 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.434754
+date: 2026-07-10T01:07:47.512095
 url: "/cdr-researcher-census/researchers/mingyang-hu-a5101562/"
 layout: "researcher"
 hiddenInHomeList: true

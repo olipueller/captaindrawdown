@@ -1,7 +1,7 @@
 ---
 title: "Chenggong Song"
 description: "Chenggong Song is a Mid-career Unknown researcher at Beijing Forestry University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.888750
+date: 2026-07-10T01:07:48.815435
 url: "/cdr-researcher-census/researchers/chenggong-song-a5074426/"
 layout: "researcher"
 hiddenInHomeList: true

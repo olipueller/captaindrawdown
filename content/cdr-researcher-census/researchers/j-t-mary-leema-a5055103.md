@@ -1,7 +1,7 @@
 ---
 title: "J. T. Mary Leema"
 description: "J. T. Mary Leema is a Senior Unknown researcher at National Institute of Ocean Technology in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.057557
+date: 2026-07-10T01:07:48.061473
 url: "/cdr-researcher-census/researchers/j-t-mary-leema-a5055103/"
 layout: "researcher"
 hiddenInHomeList: true

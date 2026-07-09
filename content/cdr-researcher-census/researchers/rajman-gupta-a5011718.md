@@ -1,7 +1,7 @@
 ---
 title: "Rajman Gupta"
 description: "Rajman Gupta is a Mid-career Unknown researcher at Indian Institute of Tropical Meteorology in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.148296
+date: 2026-07-10T01:07:49.050534
 url: "/cdr-researcher-census/researchers/rajman-gupta-a5011718/"
 layout: "researcher"
 hiddenInHomeList: true

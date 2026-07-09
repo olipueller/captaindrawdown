@@ -1,7 +1,7 @@
 ---
 title: "Simon Pichlmaier"
 description: "Simon Pichlmaier is a Mid-career General CDR researcher at Research Center for Energy Economics in DE. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.634831
+date: 2026-07-10T01:07:48.594036
 url: "/cdr-researcher-census/researchers/simon-pichlmaier-a5039846/"
 layout: "researcher"
 hiddenInHomeList: true

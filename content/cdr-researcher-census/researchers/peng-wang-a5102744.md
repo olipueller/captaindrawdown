@@ -1,7 +1,7 @@
 ---
 title: "Peng Wang"
 description: "Peng Wang is a Senior Soil Carbon researcher at Ocean University of China in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.667137
+date: 2026-07-10T01:07:48.623304
 url: "/cdr-researcher-census/researchers/peng-wang-a5102744/"
 layout: "researcher"
 hiddenInHomeList: true

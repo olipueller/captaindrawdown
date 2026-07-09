@@ -1,7 +1,7 @@
 ---
 title: "Alfredo Augusto Pereira Xavier"
 description: "Alfredo Augusto Pereira Xavier is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.242739
+date: 2026-07-10T01:07:48.251509
 url: "/cdr-researcher-census/researchers/alfredo-augusto-pereira-xavier-a5030354/"
 layout: "researcher"
 hiddenInHomeList: true

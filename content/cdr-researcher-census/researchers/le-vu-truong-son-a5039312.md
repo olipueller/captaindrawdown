@@ -1,7 +1,7 @@
 ---
 title: "Lê Vũ Trường Sơn"
 description: "Lê Vũ Trường Sơn is a Mid-career Unknown researcher at University of Da Nang in VN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.567288
+date: 2026-07-10T01:07:48.546045
 url: "/cdr-researcher-census/researchers/le-vu-truong-son-a5039312/"
 layout: "researcher"
 hiddenInHomeList: true

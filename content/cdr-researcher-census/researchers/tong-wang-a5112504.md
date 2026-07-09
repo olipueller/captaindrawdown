@@ -1,7 +1,7 @@
 ---
 title: "Tong Wang"
 description: "Tong Wang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.536231
+date: 2026-07-10T01:07:48.518220
 url: "/cdr-researcher-census/researchers/tong-wang-a5112504/"
 layout: "researcher"
 hiddenInHomeList: true

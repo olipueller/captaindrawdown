@@ -1,7 +1,7 @@
 ---
 title: "Saddam Umer"
 description: "Saddam Umer is a Mid-career Unknown researcher at Sindh Madressatul Islam University in PK. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.011337
+date: 2026-07-10T01:07:48.928489
 url: "/cdr-researcher-census/researchers/saddam-umer-a5119667/"
 layout: "researcher"
 hiddenInHomeList: true

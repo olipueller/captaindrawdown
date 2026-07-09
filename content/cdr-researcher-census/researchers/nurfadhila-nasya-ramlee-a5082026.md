@@ -1,7 +1,7 @@
 ---
 title: "Nurfadhila Nasya Ramlee"
 description: "Nurfadhila Nasya Ramlee is a Mid-career Biochar researcher at University of Technology Malaysia in MY. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.666441
+date: 2026-07-10T01:07:48.622736
 url: "/cdr-researcher-census/researchers/nurfadhila-nasya-ramlee-a5082026/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Manmohan Kapshe"
 description: "Manmohan Kapshe is a Senior General CDR researcher at Maulana Azad National Institute of Technology in IN. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.333054
+date: 2026-07-10T01:07:47.414738
 url: "/cdr-researcher-census/researchers/manmohan-kapshe-a5070259/"
 layout: "researcher"
 hiddenInHomeList: true

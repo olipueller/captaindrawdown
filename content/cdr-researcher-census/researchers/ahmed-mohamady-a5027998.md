@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Mohamady"
 description: "Ahmed Mohamady is a Mid-career Unknown researcher at Zagazig University in EG. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.023078
+date: 2026-07-10T01:07:48.938843
 url: "/cdr-researcher-census/researchers/ahmed-mohamady-a5027998/"
 layout: "researcher"
 hiddenInHomeList: true

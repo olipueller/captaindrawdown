@@ -1,7 +1,7 @@
 ---
 title: "Meykson Alexandre da Silva"
 description: "Meykson Alexandre da Silva is a Mid-career Unknown researcher at Universidade Federal de Pernambuco in BR. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.125455
+date: 2026-07-10T01:07:49.030817
 url: "/cdr-researcher-census/researchers/meykson-alexandre-da-silva-a5037706/"
 layout: "researcher"
 hiddenInHomeList: true

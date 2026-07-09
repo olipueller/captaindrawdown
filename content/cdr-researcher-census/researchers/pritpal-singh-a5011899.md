@@ -1,7 +1,7 @@
 ---
 title: "Pritpal Singh"
 description: "Pritpal Singh is a Senior Soil Carbon researcher at Punjab Agricultural University in IN. With 190 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.970475
+date: 2026-07-10T01:07:47.013919
 url: "/cdr-researcher-census/researchers/pritpal-singh-a5011899/"
 layout: "researcher"
 hiddenInHomeList: true

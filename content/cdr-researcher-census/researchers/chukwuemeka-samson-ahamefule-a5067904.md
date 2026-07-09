@@ -1,7 +1,7 @@
 ---
 title: "Chukwuemeka Samson Ahamefule"
 description: "Chukwuemeka Samson Ahamefule is a Mid-career General CDR researcher at University of Nigeria in NG. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.807476
+date: 2026-07-10T01:07:48.745607
 url: "/cdr-researcher-census/researchers/chukwuemeka-samson-ahamefule-a5067904/"
 layout: "researcher"
 hiddenInHomeList: true

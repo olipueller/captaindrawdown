@@ -1,7 +1,7 @@
 ---
 title: "Changda Li"
 description: "Changda Li is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.042337
+date: 2026-07-10T01:07:48.047775
 url: "/cdr-researcher-census/researchers/changda-li-a5015451/"
 layout: "researcher"
 hiddenInHomeList: true

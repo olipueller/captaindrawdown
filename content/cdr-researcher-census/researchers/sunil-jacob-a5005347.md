@@ -1,7 +1,7 @@
 ---
 title: "Sunil Jacob"
 description: "Sunil Jacob is a Mid-career Unknown researcher at ICAR - Central Island Agricultural Research Institute in IN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.252145
+date: 2026-07-10T01:07:49.159289
 url: "/cdr-researcher-census/researchers/sunil-jacob-a5005347/"
 layout: "researcher"
 hiddenInHomeList: true

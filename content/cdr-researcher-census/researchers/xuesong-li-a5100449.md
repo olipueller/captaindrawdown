@@ -1,7 +1,7 @@
 ---
 title: "Xuesong Li"
 description: "Xuesong Li is a Senior Unknown researcher at Shanghai Jiao Tong University in CN. With 134 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.023060
+date: 2026-07-10T01:07:47.090456
 url: "/cdr-researcher-census/researchers/xuesong-li-a5100449/"
 layout: "researcher"
 hiddenInHomeList: true

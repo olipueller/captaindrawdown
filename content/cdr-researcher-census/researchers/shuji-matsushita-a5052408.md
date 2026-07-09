@@ -1,7 +1,7 @@
 ---
 title: "Shuji Matsushita"
 description: "Shuji Matsushita is a Senior Unknown researcher at Hiroshima Institute of Technology in JP. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.160439
+date: 2026-07-10T01:07:48.178668
 url: "/cdr-researcher-census/researchers/shuji-matsushita-a5052408/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sueli Aparecida de Oliveira"
 description: "Sueli Aparecida de Oliveira is a Mid-career Biochar researcher at Universidade Federal do ABC in BR. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.554484
+date: 2026-07-10T01:07:47.618752
 url: "/cdr-researcher-census/researchers/sueli-aparecida-de-oliveira-a5001680/"
 layout: "researcher"
 hiddenInHomeList: true

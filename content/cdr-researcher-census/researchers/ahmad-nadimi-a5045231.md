@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Nadimi"
 description: "Ahmad Nadimi is a Senior Soil Carbon researcher at Gorgan University of Agricultural Sciences and Natural Resources in IR. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.824706
+date: 2026-07-10T01:07:48.759219
 url: "/cdr-researcher-census/researchers/ahmad-nadimi-a5045231/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jinghua Wu"
 description: "Jinghua Wu is a Mid-career Soil Carbon researcher at Zhaoqing University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.861811
+date: 2026-07-10T01:07:47.896679
 url: "/cdr-researcher-census/researchers/jinghua-wu-a5084870/"
 layout: "researcher"
 hiddenInHomeList: true

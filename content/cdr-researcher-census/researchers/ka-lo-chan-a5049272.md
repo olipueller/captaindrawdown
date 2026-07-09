@@ -1,7 +1,7 @@
 ---
 title: "Ka Lo Chan"
 description: "Ka Lo Chan is a Mid-career General CDR researcher at Hong Kong Polytechnic University in HK. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.212609
+date: 2026-07-10T01:07:49.124399
 url: "/cdr-researcher-census/researchers/ka-lo-chan-a5049272/"
 layout: "researcher"
 hiddenInHomeList: true

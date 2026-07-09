@@ -1,7 +1,7 @@
 ---
 title: "Oksana Tarasova"
 description: "Oksana Tarasova is a Senior General CDR researcher at World Meteorological Organization in CH. With 118 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.976629
+date: 2026-07-10T01:07:47.023944
 url: "/cdr-researcher-census/researchers/oksana-tarasova-a5004873/"
 layout: "researcher"
 hiddenInHomeList: true

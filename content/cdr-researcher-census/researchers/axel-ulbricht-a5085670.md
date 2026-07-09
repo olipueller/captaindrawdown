@@ -1,7 +1,7 @@
 ---
 title: "Axel Ulbricht"
 description: "Axel Ulbricht is a Mid-career Soil Carbon researcher at Eurofins (Germany) in DE. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.012713
+date: 2026-07-10T01:07:48.929752
 url: "/cdr-researcher-census/researchers/axel-ulbricht-a5085670/"
 layout: "researcher"
 hiddenInHomeList: true

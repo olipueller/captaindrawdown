@@ -1,7 +1,7 @@
 ---
 title: "Yufei Du"
 description: "Yufei Du is an Early-career Unknown researcher at Tianjin Normal University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.228612
+date: 2026-07-10T01:07:49.138082
 url: "/cdr-researcher-census/researchers/yufei-du-a5007947/"
 layout: "researcher"
 hiddenInHomeList: true

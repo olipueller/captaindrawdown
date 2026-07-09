@@ -1,7 +1,7 @@
 ---
 title: "J. L. Munera-Echeverri"
 description: "J. L. Munera-Echeverri is a Mid-career Soil Carbon researcher at Université d'Orléans in FR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.681906
+date: 2026-07-10T01:07:47.738289
 url: "/cdr-researcher-census/researchers/j-l-munera-echeverri-a5003901/"
 layout: "researcher"
 hiddenInHomeList: true

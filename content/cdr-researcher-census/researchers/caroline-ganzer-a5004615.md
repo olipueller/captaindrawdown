@@ -1,7 +1,7 @@
 ---
 title: "Caroline Ganzer"
 description: "Caroline Ganzer is a Mid-career General CDR researcher at Max Planck Institute for Dynamics of Complex Technical Systems in DE. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.731392
+date: 2026-07-10T01:07:48.680095
 url: "/cdr-researcher-census/researchers/caroline-ganzer-a5004615/"
 layout: "researcher"
 hiddenInHomeList: true

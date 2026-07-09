@@ -1,7 +1,7 @@
 ---
 title: "Hongyan Nan"
 description: "Hongyan Nan is a Senior Biochar researcher at Zhengzhou University in CN. With 44 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.075227
+date: 2026-07-10T01:07:47.154961
 url: "/cdr-researcher-census/researchers/hongyan-nan-a5103067/"
 layout: "researcher"
 hiddenInHomeList: true

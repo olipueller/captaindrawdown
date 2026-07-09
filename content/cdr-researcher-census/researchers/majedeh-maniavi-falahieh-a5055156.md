@@ -1,7 +1,7 @@
 ---
 title: "Majedeh Maniavi Falahieh"
 description: "Majedeh Maniavi Falahieh is a Mid-career Unknown researcher at Yasouj University in IR. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.489376
+date: 2026-07-10T01:07:48.475488
 url: "/cdr-researcher-census/researchers/majedeh-maniavi-falahieh-a5055156/"
 layout: "researcher"
 hiddenInHomeList: true

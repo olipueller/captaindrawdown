@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim W. Hasani"
 description: "Ibrahim W. Hasani is a Mid-career Unknown researcher at Al-Shamal Private University in SY. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.739815
+date: 2026-07-10T01:07:47.792045
 url: "/cdr-researcher-census/researchers/ibrahim-w-hasani-a5026328/"
 layout: "researcher"
 hiddenInHomeList: true

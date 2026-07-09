@@ -1,7 +1,7 @@
 ---
 title: "Higgins M. Wilson"
 description: "Higgins M. Wilson is a Mid-career Biochar researcher at Pohang University of Science and Technology in KR. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.368349
+date: 2026-07-10T01:07:47.450696
 url: "/cdr-researcher-census/researchers/higgins-m-wilson-a5032943/"
 layout: "researcher"
 hiddenInHomeList: true

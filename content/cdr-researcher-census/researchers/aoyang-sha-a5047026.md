@@ -1,7 +1,7 @@
 ---
 title: "Aoyang Sha"
 description: "Aoyang Sha is a Mid-career Unknown researcher at Universidad del Noreste in MX. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.218489
+date: 2026-07-10T01:07:49.129432
 url: "/cdr-researcher-census/researchers/aoyang-sha-a5047026/"
 layout: "researcher"
 hiddenInHomeList: true

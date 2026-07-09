@@ -1,7 +1,7 @@
 ---
 title: "Jincheng Shi"
 description: "Jincheng Shi is a Mid-career Soil Carbon researcher at Shanxi University in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.845161
+date: 2026-07-10T01:07:47.880644
 url: "/cdr-researcher-census/researchers/jincheng-shi-a5002599/"
 layout: "researcher"
 hiddenInHomeList: true

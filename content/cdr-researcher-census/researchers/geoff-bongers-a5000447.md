@@ -1,7 +1,7 @@
 ---
 title: "Geoff Bongers"
 description: "Geoff Bongers is a Senior General CDR researcher. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.332455
+date: 2026-07-10T01:07:48.332767
 url: "/cdr-researcher-census/researchers/geoff-bongers-a5000447/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gregory M. Whited"
 description: "Gregory M. Whited is a Senior Unknown researcher at International Flavors & Fragrances (United States) in US. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.211894
+date: 2026-07-10T01:07:47.299327
 url: "/cdr-researcher-census/researchers/gregory-m-whited-a5017932/"
 layout: "researcher"
 hiddenInHomeList: true

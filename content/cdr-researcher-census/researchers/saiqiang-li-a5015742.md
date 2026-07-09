@@ -1,7 +1,7 @@
 ---
 title: "Saiqiang Li"
 description: "Saiqiang Li is an Early-career Unknown researcher at Ningbo University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.352823
+date: 2026-07-10T01:07:48.351053
 url: "/cdr-researcher-census/researchers/saiqiang-li-a5015742/"
 layout: "researcher"
 hiddenInHomeList: true

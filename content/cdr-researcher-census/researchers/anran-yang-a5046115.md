@@ -1,7 +1,7 @@
 ---
 title: "Anran Yang"
 description: "Anran Yang is a Senior Soil Carbon researcher at National University of Defense Technology in CN. With 54 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.925374
+date: 2026-07-10T01:07:47.938854
 url: "/cdr-researcher-census/researchers/anran-yang-a5046115/"
 layout: "researcher"
 hiddenInHomeList: true

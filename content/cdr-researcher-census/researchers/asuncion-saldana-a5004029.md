@@ -1,7 +1,7 @@
 ---
 title: "Asunción Saldaña"
 description: "Asunción Saldaña is a Senior Soil Carbon researcher at University of Alcalá in ES. With 27 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.203169
+date: 2026-07-10T01:07:47.291671
 url: "/cdr-researcher-census/researchers/asuncion-saldana-a5004029/"
 layout: "researcher"
 hiddenInHomeList: true

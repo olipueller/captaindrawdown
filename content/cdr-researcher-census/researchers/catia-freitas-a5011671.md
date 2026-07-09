@@ -1,7 +1,7 @@
 ---
 title: "Cátia Freitas"
 description: "Cátia Freitas is a Mid-career Unknown researcher at International Iberian Nanotechnology Laboratory in PT. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.412981
+date: 2026-07-10T01:07:47.492179
 url: "/cdr-researcher-census/researchers/catia-freitas-a5011671/"
 layout: "researcher"
 hiddenInHomeList: true

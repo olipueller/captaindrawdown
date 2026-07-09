@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Argüello"
 description: "Gabriela Argüello is a Mid-career Ocean CDR researcher at University of Gothenburg in SE. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.778054
+date: 2026-07-10T01:07:48.721815
 url: "/cdr-researcher-census/researchers/gabriela-arguello-a5015813/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Filippo Fruzza"
 description: "Filippo Fruzza is a Mid-career Unknown researcher at University of Pisa in IT. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.953883
+date: 2026-07-10T01:07:48.875850
 url: "/cdr-researcher-census/researchers/filippo-fruzza-a5015454/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "A.S. Visckram"
 description: "A.S. Visckram is an Early-career Unknown researcher at Saveetha University in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.285959
+date: 2026-07-10T01:07:48.290952
 url: "/cdr-researcher-census/researchers/as-visckram-a5093204/"
 layout: "researcher"
 hiddenInHomeList: true

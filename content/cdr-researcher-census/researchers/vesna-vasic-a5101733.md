@@ -1,7 +1,7 @@
 ---
 title: "Vesna Vasić"
 description: "Vesna Vasić is a Senior Biochar researcher at University of Novi Sad in RS. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.801724
+date: 2026-07-10T01:07:47.849144
 url: "/cdr-researcher-census/researchers/vesna-vasic-a5101733/"
 layout: "researcher"
 hiddenInHomeList: true

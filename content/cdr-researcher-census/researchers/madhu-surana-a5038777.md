@@ -1,7 +1,7 @@
 ---
 title: "Madhu Surana"
 description: "Madhu Surana is a Mid-career Unknown researcher at Indian Institute of Technology Gandhinagar in IN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.545446
+date: 2026-07-10T01:07:48.526159
 url: "/cdr-researcher-census/researchers/madhu-surana-a5038777/"
 layout: "researcher"
 hiddenInHomeList: true

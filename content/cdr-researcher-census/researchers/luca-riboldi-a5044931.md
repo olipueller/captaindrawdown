@@ -1,7 +1,7 @@
 ---
 title: "Luca Riboldi"
 description: "Luca Riboldi is a Senior General CDR researcher at SINTEF Energi AS in NO. With 67 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.151681
+date: 2026-07-10T01:07:47.239777
 url: "/cdr-researcher-census/researchers/luca-riboldi-a5044931/"
 layout: "researcher"
 hiddenInHomeList: true

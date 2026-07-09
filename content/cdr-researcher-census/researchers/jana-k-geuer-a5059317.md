@@ -1,7 +1,7 @@
 ---
 title: "Jana K. Geuer"
 description: "Jana K. Geuer is a Mid-career Ocean CDR researcher at Max Planck Institute for Marine Microbiology in DE. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.723203
+date: 2026-07-10T01:07:47.775984
 url: "/cdr-researcher-census/researchers/jana-k-geuer-a5059317/"
 layout: "researcher"
 hiddenInHomeList: true

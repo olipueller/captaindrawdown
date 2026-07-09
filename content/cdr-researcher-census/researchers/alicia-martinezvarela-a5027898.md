@@ -1,7 +1,7 @@
 ---
 title: "Alícia Martinez‐Varela"
 description: "Alícia Martinez‐Varela is a Mid-career Unknown researcher at Institute of Environmental Assessment and Water Research in ES. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.516613
+date: 2026-07-10T01:07:47.584523
 url: "/cdr-researcher-census/researchers/alicia-martinezvarela-a5027898/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hadi Mohamadzadeh Romiani"
 description: "Hadi Mohamadzadeh Romiani is a Mid-career Soil Carbon researcher at Buein Zahra Technical University in IR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.057070
+date: 2026-07-10T01:07:48.969916
 url: "/cdr-researcher-census/researchers/hadi-mohamadzadeh-romiani-a5063841/"
 layout: "researcher"
 hiddenInHomeList: true

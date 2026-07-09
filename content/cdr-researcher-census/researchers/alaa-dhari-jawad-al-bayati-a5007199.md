@@ -1,7 +1,7 @@
 ---
 title: "Alaa Dhari Jawad Al-Bayati"
 description: "Alaa Dhari Jawad Al-Bayati is a Mid-career Unknown researcher at Alsalam University College in IQ. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.539558
+date: 2026-07-10T01:07:48.521261
 url: "/cdr-researcher-census/researchers/alaa-dhari-jawad-al-bayati-a5007199/"
 layout: "researcher"
 hiddenInHomeList: true

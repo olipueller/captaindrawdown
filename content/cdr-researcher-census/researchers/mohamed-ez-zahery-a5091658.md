@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Ez-zahery"
 description: "Mohamed Ez-zahery is a Mid-career Biochar researcher at Université Ibn Zohr in MA. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.018150
+date: 2026-07-10T01:07:48.025804
 url: "/cdr-researcher-census/researchers/mohamed-ez-zahery-a5091658/"
 layout: "researcher"
 hiddenInHomeList: true

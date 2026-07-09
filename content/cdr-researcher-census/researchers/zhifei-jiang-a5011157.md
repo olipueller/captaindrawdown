@@ -1,7 +1,7 @@
 ---
 title: "Zhifei Jiang"
 description: "Zhifei Jiang is an Early-career Unknown researcher at University of Manchester in GB. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.029997
+date: 2026-07-10T01:07:48.945578
 url: "/cdr-researcher-census/researchers/zhifei-jiang-a5011157/"
 layout: "researcher"
 hiddenInHomeList: true

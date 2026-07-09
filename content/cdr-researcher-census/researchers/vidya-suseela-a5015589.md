@@ -1,7 +1,7 @@
 ---
 title: "Vidya Suseela"
 description: "Vidya Suseela is a Senior Soil Carbon researcher at Clemson University in US. With 55 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.016163
+date: 2026-07-10T01:07:47.081893
 url: "/cdr-researcher-census/researchers/vidya-suseela-a5015589/"
 layout: "researcher"
 hiddenInHomeList: true

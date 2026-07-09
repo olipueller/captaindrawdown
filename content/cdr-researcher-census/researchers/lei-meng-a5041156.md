@@ -1,7 +1,7 @@
 ---
 title: "Lei Meng"
 description: "Lei Meng is a Senior Soil Carbon researcher at Hainan University in CN. With 82 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.099562
+date: 2026-07-10T01:07:47.183413
 url: "/cdr-researcher-census/researchers/lei-meng-a5041156/"
 layout: "researcher"
 hiddenInHomeList: true

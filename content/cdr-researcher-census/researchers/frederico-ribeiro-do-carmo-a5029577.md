@@ -1,7 +1,7 @@
 ---
 title: "Frederico Ribeiro do Carmo"
 description: "Frederico Ribeiro do Carmo is a Mid-career General CDR researcher at Universidade Federal Rural do Semi-Árido in BR. With 41 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.946133
+date: 2026-07-10T01:07:47.958095
 url: "/cdr-researcher-census/researchers/frederico-ribeiro-do-carmo-a5029577/"
 layout: "researcher"
 hiddenInHomeList: true

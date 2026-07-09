@@ -1,7 +1,7 @@
 ---
 title: "Sathyapriya Eswaran"
 description: "Sathyapriya Eswaran is a Mid-career General CDR researcher at Department of Biotechnology in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.445460
+date: 2026-07-10T01:07:48.435062
 url: "/cdr-researcher-census/researchers/sathyapriya-eswaran-a5102814/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Huaxia Sheng"
 description: "Huaxia Sheng is a Mid-career Soil Carbon researcher. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.693071
+date: 2026-07-10T01:07:47.749052
 url: "/cdr-researcher-census/researchers/huaxia-sheng-a5083537/"
 layout: "researcher"
 hiddenInHomeList: true

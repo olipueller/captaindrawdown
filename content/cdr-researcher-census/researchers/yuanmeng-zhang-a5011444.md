@@ -1,7 +1,7 @@
 ---
 title: "Yuanmeng Zhang"
 description: "Yuanmeng Zhang is a Mid-career Biochar researcher at Fujian Normal University in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.915345
+date: 2026-07-10T01:07:47.928587
 url: "/cdr-researcher-census/researchers/yuanmeng-zhang-a5011444/"
 layout: "researcher"
 hiddenInHomeList: true

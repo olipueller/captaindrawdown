@@ -1,7 +1,7 @@
 ---
 title: "Narges Hemati Matin"
 description: "Narges Hemati Matin is a Mid-career Soil Carbon researcher at Slovak University of Agriculture in Nitra in SK. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.076501
+date: 2026-07-10T01:07:48.078832
 url: "/cdr-researcher-census/researchers/narges-hemati-matin-a5038823/"
 layout: "researcher"
 hiddenInHomeList: true

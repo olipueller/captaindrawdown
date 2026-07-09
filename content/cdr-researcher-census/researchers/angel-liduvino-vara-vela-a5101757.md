@@ -1,7 +1,7 @@
 ---
 title: "Angel Liduvino Vara-Vela"
 description: "Angel Liduvino Vara-Vela is a Mid-career Unknown researcher at Universidade de São Paulo in BR. With 48 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.743466
+date: 2026-07-10T01:07:47.795616
 url: "/cdr-researcher-census/researchers/angel-liduvino-vara-vela-a5101757/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiange Xia"
 description: "Xiange Xia is a Mid-career Unknown researcher at Anhui Academy of Agricultural Sciences in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.589049
+date: 2026-07-10T01:07:47.652306
 url: "/cdr-researcher-census/researchers/xiange-xia-a5088879/"
 layout: "researcher"
 hiddenInHomeList: true

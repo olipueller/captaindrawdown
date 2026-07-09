@@ -1,7 +1,7 @@
 ---
 title: "Anish Bhattacharya"
 description: "Anish Bhattacharya is a Mid-career Unknown researcher at University of Technology Malaysia in MY. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.140774
+date: 2026-07-10T01:07:48.161839
 url: "/cdr-researcher-census/researchers/anish-bhattacharya-a5103002/"
 layout: "researcher"
 hiddenInHomeList: true

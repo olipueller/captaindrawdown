@@ -1,7 +1,7 @@
 ---
 title: "Jingchao Yuan"
 description: "Jingchao Yuan is a Mid-career Soil Carbon researcher at Shanghai University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.001502
+date: 2026-07-10T01:07:48.010744
 url: "/cdr-researcher-census/researchers/jingchao-yuan-a5007211/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Karen Strassel"
 description: "Karen Strassel is a Mid-career Unknown researcher at Rocky Mountain Institute in US. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.704056
+date: 2026-07-10T01:07:47.758444
 url: "/cdr-researcher-census/researchers/karen-strassel-a5069003/"
 layout: "researcher"
 hiddenInHomeList: true

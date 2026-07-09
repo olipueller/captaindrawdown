@@ -1,7 +1,7 @@
 ---
 title: "Zhi‐Yun Jiang"
 description: "Zhi‐Yun Jiang is a Senior Soil Carbon researcher at South China Normal University in CN. With 70 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.115347
+date: 2026-07-10T01:07:47.201885
 url: "/cdr-researcher-census/researchers/zhiyun-jiang-a5048790/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tianbo Yang"
 description: "Tianbo Yang is a Mid-career Unknown researcher at China Jiliang University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.143116
+date: 2026-07-10T01:07:49.045838
 url: "/cdr-researcher-census/researchers/tianbo-yang-a5081671/"
 layout: "researcher"
 hiddenInHomeList: true

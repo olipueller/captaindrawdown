@@ -1,7 +1,7 @@
 ---
 title: "Wenyin Wu"
 description: "Wenyin Wu is a Mid-career Unknown researcher at Anqing Normal University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.954276
+date: 2026-07-10T01:07:48.876264
 url: "/cdr-researcher-census/researchers/wenyin-wu-a5060574/"
 layout: "researcher"
 hiddenInHomeList: true

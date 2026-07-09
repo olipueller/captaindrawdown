@@ -1,7 +1,7 @@
 ---
 title: "Zhexuan An"
 description: "Zhexuan An is a Mid-career DAC researcher at China National Nuclear Corporation in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.174919
+date: 2026-07-10T01:07:49.064505
 url: "/cdr-researcher-census/researchers/zhexuan-an-a5036033/"
 layout: "researcher"
 hiddenInHomeList: true

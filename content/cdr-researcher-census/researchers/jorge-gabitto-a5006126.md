@@ -1,7 +1,7 @@
 ---
 title: "Jorge Gabitto"
 description: "Jorge Gabitto is a Senior Unknown researcher at Prairie View A&M University in US. With 79 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.232827
+date: 2026-07-10T01:07:47.319930
 url: "/cdr-researcher-census/researchers/jorge-gabitto-a5006126/"
 layout: "researcher"
 hiddenInHomeList: true

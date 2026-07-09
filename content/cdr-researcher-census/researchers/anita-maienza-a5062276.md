@@ -1,7 +1,7 @@
 ---
 title: "Anita Maienza"
 description: "Anita Maienza is a Senior Soil Carbon researcher at National Research Council in IT. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.232212
+date: 2026-07-10T01:07:47.319288
 url: "/cdr-researcher-census/researchers/anita-maienza-a5062276/"
 layout: "researcher"
 hiddenInHomeList: true

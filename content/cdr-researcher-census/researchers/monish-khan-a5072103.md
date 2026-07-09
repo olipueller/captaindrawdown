@@ -1,7 +1,7 @@
 ---
 title: "Monish Khan"
 description: "Monish Khan is a Mid-career Unknown researcher at Jadara University in JO. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.105129
+date: 2026-07-10T01:07:49.013023
 url: "/cdr-researcher-census/researchers/monish-khan-a5072103/"
 layout: "researcher"
 hiddenInHomeList: true

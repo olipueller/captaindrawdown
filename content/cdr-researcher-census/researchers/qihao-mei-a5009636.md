@@ -1,7 +1,7 @@
 ---
 title: "Qihao Mei"
 description: "Qihao Mei is a Mid-career Unknown researcher at Harbin Engineering University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.592130
+date: 2026-07-10T01:07:48.556213
 url: "/cdr-researcher-census/researchers/qihao-mei-a5009636/"
 layout: "researcher"
 hiddenInHomeList: true

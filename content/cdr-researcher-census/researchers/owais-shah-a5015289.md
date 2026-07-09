@@ -1,7 +1,7 @@
 ---
 title: "Owais Shah"
 description: "Owais Shah is an Early-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.226735
+date: 2026-07-10T01:07:49.136441
 url: "/cdr-researcher-census/researchers/owais-shah-a5015289/"
 layout: "researcher"
 hiddenInHomeList: true

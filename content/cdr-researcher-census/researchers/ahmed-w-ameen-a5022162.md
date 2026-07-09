@@ -1,7 +1,7 @@
 ---
 title: "Ahmed W. Ameen"
 description: "Ahmed W. Ameen is a Mid-career Unknown researcher at Saudi Aramco in SA. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.616835
+date: 2026-07-10T01:07:47.677785
 url: "/cdr-researcher-census/researchers/ahmed-w-ameen-a5022162/"
 layout: "researcher"
 hiddenInHomeList: true

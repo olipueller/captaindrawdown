@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Rohanifar"
 description: "Ahmad Rohanifar is a Mid-career Unknown researcher at University of Toledo in US. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.759992
+date: 2026-07-10T01:07:47.810416
 url: "/cdr-researcher-census/researchers/ahmad-rohanifar-a5079753/"
 layout: "researcher"
 hiddenInHomeList: true

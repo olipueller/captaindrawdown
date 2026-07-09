@@ -1,7 +1,7 @@
 ---
 title: "Tianyan Li"
 description: "Tianyan Li is a Senior Unknown researcher at International Society for Optics and Photonics in US. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.666021
+date: 2026-07-10T01:07:48.622379
 url: "/cdr-researcher-census/researchers/tianyan-li-a5058702/"
 layout: "researcher"
 hiddenInHomeList: true

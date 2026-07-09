@@ -1,7 +1,7 @@
 ---
 title: "C.F. Martins"
 description: "C.F. Martins is a Senior Unknown researcher at Instituto de Soldadura e Qualidade in PT. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.118962
+date: 2026-07-10T01:07:48.143070
 url: "/cdr-researcher-census/researchers/cf-martins-a5108035/"
 layout: "researcher"
 hiddenInHomeList: true

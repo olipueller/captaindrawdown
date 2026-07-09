@@ -1,7 +1,7 @@
 ---
 title: "Paige Brimley"
 description: "Paige Brimley is a Mid-career Unknown researcher at University of Colorado Boulder in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.384337
+date: 2026-07-10T01:07:48.379381
 url: "/cdr-researcher-census/researchers/paige-brimley-a5044507/"
 layout: "researcher"
 hiddenInHomeList: true

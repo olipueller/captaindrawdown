@@ -1,7 +1,7 @@
 ---
 title: "Kim Naudts"
 description: "Kim Naudts is a Senior Soil Carbon researcher at Vrije Universiteit Amsterdam in NL. With 80 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.016297
+date: 2026-07-10T01:07:47.082118
 url: "/cdr-researcher-census/researchers/kim-naudts-a5024803/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "R. D. Bravo"
 description: "R. D. Bravo is a Mid-career Unknown researcher at Centro Científico Tecnológico - Bahía Blanca in AR. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.212086
+date: 2026-07-10T01:07:49.123970
 url: "/cdr-researcher-census/researchers/r-d-bravo-a5012642/"
 layout: "researcher"
 hiddenInHomeList: true

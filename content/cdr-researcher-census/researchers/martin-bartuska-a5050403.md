@@ -1,7 +1,7 @@
 ---
 title: "Martin Bartuška"
 description: "Martin Bartuška is a Mid-career Soil Carbon researcher at Czech Academy of Sciences in CZ. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.949804
+date: 2026-07-10T01:07:47.961465
 url: "/cdr-researcher-census/researchers/martin-bartuska-a5050403/"
 layout: "researcher"
 hiddenInHomeList: true

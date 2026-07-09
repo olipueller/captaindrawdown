@@ -1,7 +1,7 @@
 ---
 title: "Laura Rangel"
 description: "Laura Rangel is a Mid-career Unknown researcher at Garvan Institute of Medical Research in AU. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.182977
+date: 2026-07-10T01:07:48.198541
 url: "/cdr-researcher-census/researchers/laura-rangel-a5079793/"
 layout: "researcher"
 hiddenInHomeList: true

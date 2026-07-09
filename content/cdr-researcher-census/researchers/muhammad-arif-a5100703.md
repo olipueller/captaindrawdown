@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Arif"
 description: "Muhammad Arif is a Senior Biochar researcher at Muhammad Nawaz Shareef University of Agriculture in PK. With 88 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.204392
+date: 2026-07-10T01:07:47.292756
 url: "/cdr-researcher-census/researchers/muhammad-arif-a5100703/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thomas Tongxin Li"
 description: "Thomas Tongxin Li is a Senior DAC researcher at Iowa State University in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.817378
+date: 2026-07-10T01:07:48.753435
 url: "/cdr-researcher-census/researchers/thomas-tongxin-li-a5001900/"
 layout: "researcher"
 hiddenInHomeList: true

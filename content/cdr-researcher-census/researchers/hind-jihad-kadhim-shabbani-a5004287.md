@@ -1,7 +1,7 @@
 ---
 title: "Hind Jihad Kadhim Shabbani"
 description: "Hind Jihad Kadhim Shabbani is a Mid-career BECCS researcher at University of Al-Qadisiyah in IQ. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.118737
+date: 2026-07-10T01:07:48.142889
 url: "/cdr-researcher-census/researchers/hind-jihad-kadhim-shabbani-a5004287/"
 layout: "researcher"
 hiddenInHomeList: true

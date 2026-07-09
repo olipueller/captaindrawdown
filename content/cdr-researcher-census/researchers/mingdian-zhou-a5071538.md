@@ -1,7 +1,7 @@
 ---
 title: "Mingdian Zhou"
 description: "Mingdian Zhou is a Mid-career Biochar researcher at Central South University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.599321
+date: 2026-07-10T01:07:47.661735
 url: "/cdr-researcher-census/researchers/mingdian-zhou-a5071538/"
 layout: "researcher"
 hiddenInHomeList: true

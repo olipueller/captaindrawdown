@@ -1,7 +1,7 @@
 ---
 title: "Chia-Chen Yeh"
 description: "Chia-Chen Yeh is a Mid-career Biochar researcher at National Sun Yat-sen University in TW. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.031264
+date: 2026-07-10T01:07:48.038190
 url: "/cdr-researcher-census/researchers/chia-chen-yeh-a5108846/"
 layout: "researcher"
 hiddenInHomeList: true

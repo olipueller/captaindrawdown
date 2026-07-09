@@ -1,7 +1,7 @@
 ---
 title: "Isabella Fratti"
 description: "Isabella Fratti is a Mid-career Unknown researcher at AOL (United States) in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.845445
+date: 2026-07-10T01:07:48.776906
 url: "/cdr-researcher-census/researchers/isabella-fratti-a5082251/"
 layout: "researcher"
 hiddenInHomeList: true

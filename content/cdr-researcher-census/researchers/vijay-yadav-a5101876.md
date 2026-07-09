@@ -1,7 +1,7 @@
 ---
 title: "Vijay Yadav"
 description: "Vijay Yadav is a Senior Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.070890
+date: 2026-07-10T01:07:48.981973
 url: "/cdr-researcher-census/researchers/vijay-yadav-a5101876/"
 layout: "researcher"
 hiddenInHomeList: true

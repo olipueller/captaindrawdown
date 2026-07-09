@@ -1,7 +1,7 @@
 ---
 title: "Wentao Yi"
 description: "Wentao Yi is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.062378
+date: 2026-07-10T01:07:48.974806
 url: "/cdr-researcher-census/researchers/wentao-yi-a5102540/"
 layout: "researcher"
 hiddenInHomeList: true

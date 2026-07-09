@@ -1,7 +1,7 @@
 ---
 title: "Alireza Fallahi"
 description: "Alireza Fallahi is a Mid-career Unknown researcher at Auburn University in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.344628
+date: 2026-07-10T01:07:47.427223
 url: "/cdr-researcher-census/researchers/alireza-fallahi-a5101788/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Danny Awty‐Carroll"
 description: "Danny Awty‐Carroll is a Mid-career BECCS researcher at Liverpool John Moores University in GB. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.490564
+date: 2026-07-10T01:07:47.561436
 url: "/cdr-researcher-census/researchers/danny-awtycarroll-a5032863/"
 layout: "researcher"
 hiddenInHomeList: true

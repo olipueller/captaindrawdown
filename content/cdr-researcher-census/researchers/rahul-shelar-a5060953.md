@@ -1,7 +1,7 @@
 ---
 title: "Rahul Shelar"
 description: "Rahul Shelar is an Early-career Soil Carbon researcher at Mahatma Phule Krishi Vidyapeeth in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.128147
+date: 2026-07-10T01:07:49.033149
 url: "/cdr-researcher-census/researchers/rahul-shelar-a5060953/"
 layout: "researcher"
 hiddenInHomeList: true

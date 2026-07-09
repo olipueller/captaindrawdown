@@ -1,7 +1,7 @@
 ---
 title: "Olivier Authier"
 description: "Olivier Authier is a Senior General CDR researcher at Électricité de France (France) in FR. With 62 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.328982
+date: 2026-07-10T01:07:47.410758
 url: "/cdr-researcher-census/researchers/olivier-authier-a5057347/"
 layout: "researcher"
 hiddenInHomeList: true

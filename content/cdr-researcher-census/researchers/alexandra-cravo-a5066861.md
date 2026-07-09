@@ -1,7 +1,7 @@
 ---
 title: "Alexandra Cravo"
 description: "Alexandra Cravo is a Senior Ocean CDR researcher at University of Algarve in PT. With 76 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.102069
+date: 2026-07-10T01:07:47.186426
 url: "/cdr-researcher-census/researchers/alexandra-cravo-a5066861/"
 layout: "researcher"
 hiddenInHomeList: true

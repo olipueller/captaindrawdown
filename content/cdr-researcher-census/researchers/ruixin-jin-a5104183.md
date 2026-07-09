@@ -1,7 +1,7 @@
 ---
 title: "Ruixin Jin"
 description: "Ruixin Jin is a Mid-career Unknown researcher at Anhui University of Technology in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.659690
+date: 2026-07-10T01:07:48.616965
 url: "/cdr-researcher-census/researchers/ruixin-jin-a5104183/"
 layout: "researcher"
 hiddenInHomeList: true

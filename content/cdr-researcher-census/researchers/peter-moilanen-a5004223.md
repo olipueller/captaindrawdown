@@ -1,7 +1,7 @@
 ---
 title: "Peter Moilanen"
 description: "Peter Moilanen is a Senior Unknown researcher at Swedish e-Science Research Centre in SE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.628718
+date: 2026-07-10T01:07:48.588782
 url: "/cdr-researcher-census/researchers/peter-moilanen-a5004223/"
 layout: "researcher"
 hiddenInHomeList: true

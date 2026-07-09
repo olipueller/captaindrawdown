@@ -1,7 +1,7 @@
 ---
 title: "Molly Clemens"
 description: "Molly Clemens is a Mid-career Unknown researcher at San Diego State University in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.743228
+date: 2026-07-10T01:07:48.690184
 url: "/cdr-researcher-census/researchers/molly-clemens-a5018009/"
 layout: "researcher"
 hiddenInHomeList: true

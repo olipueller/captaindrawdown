@@ -1,7 +1,7 @@
 ---
 title: "Mais Baqain"
 description: "Mais Baqain is a Mid-career General CDR researcher at Tallinn University of Technology in EE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.373601
+date: 2026-07-10T01:07:48.370129
 url: "/cdr-researcher-census/researchers/mais-baqain-a5062709/"
 layout: "researcher"
 hiddenInHomeList: true

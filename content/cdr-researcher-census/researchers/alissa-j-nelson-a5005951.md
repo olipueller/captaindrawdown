@@ -1,7 +1,7 @@
 ---
 title: "Alissa J. Nelson"
 description: "Alissa J. Nelson is a Mid-career Unknown researcher at Cell Signaling Technology (United States) in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.921426
+date: 2026-07-10T01:07:47.934969
 url: "/cdr-researcher-census/researchers/alissa-j-nelson-a5005951/"
 layout: "researcher"
 hiddenInHomeList: true

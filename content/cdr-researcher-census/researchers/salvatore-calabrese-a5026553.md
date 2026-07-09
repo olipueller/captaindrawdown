@@ -1,7 +1,7 @@
 ---
 title: "Salvatore Calabrese"
 description: "Salvatore Calabrese is a Senior Enhanced Weathering researcher at Texas A&M University in US. With 102 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.323074
+date: 2026-07-10T01:07:47.405236
 url: "/cdr-researcher-census/researchers/salvatore-calabrese-a5026553/"
 layout: "researcher"
 hiddenInHomeList: true

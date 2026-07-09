@@ -1,7 +1,7 @@
 ---
 title: "Christina Huberle"
 description: "Christina Huberle is a Mid-career Unknown researcher at TUM Klinikum in DE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.091757
+date: 2026-07-10T01:07:48.091775
 url: "/cdr-researcher-census/researchers/christina-huberle-a5028587/"
 layout: "researcher"
 hiddenInHomeList: true

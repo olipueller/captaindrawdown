@@ -1,7 +1,7 @@
 ---
 title: "José González"
 description: "José González is a Senior Ocean CDR researcher at Universidad de La Laguna in ES. With 41 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.779753
+date: 2026-07-10T01:07:47.828630
 url: "/cdr-researcher-census/researchers/jose-gonzalez-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true

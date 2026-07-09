@@ -1,7 +1,7 @@
 ---
 title: "Menglin Zhu"
 description: "Menglin Zhu is a Mid-career Unknown researcher at Macau University of Science and Technology in MO. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.726234
+date: 2026-07-10T01:07:48.675529
 url: "/cdr-researcher-census/researchers/menglin-zhu-a5102432/"
 layout: "researcher"
 hiddenInHomeList: true

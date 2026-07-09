@@ -1,7 +1,7 @@
 ---
 title: "William T. Peterjohn"
 description: "William T. Peterjohn is a Senior Soil Carbon researcher at West Virginia University in US. With 64 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.962676
+date: 2026-07-10T01:07:47.001892
 url: "/cdr-researcher-census/researchers/william-t-peterjohn-a5082907/"
 layout: "researcher"
 hiddenInHomeList: true

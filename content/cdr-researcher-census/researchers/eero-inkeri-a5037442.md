@@ -1,7 +1,7 @@
 ---
 title: "Eero Inkeri"
 description: "Eero Inkeri is a Mid-career Unknown researcher at Lappeenranta-Lahti University of Technology in FI. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.891773
+date: 2026-07-10T01:07:47.906724
 url: "/cdr-researcher-census/researchers/eero-inkeri-a5037442/"
 layout: "researcher"
 hiddenInHomeList: true

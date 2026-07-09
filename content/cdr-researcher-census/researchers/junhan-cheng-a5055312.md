@@ -1,7 +1,7 @@
 ---
 title: "Junhan Cheng"
 description: "Junhan Cheng is a Senior Unknown researcher at Queen's University Belfast in GB. With 23 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.310446
+date: 2026-07-10T01:07:47.392673
 url: "/cdr-researcher-census/researchers/junhan-cheng-a5055312/"
 layout: "researcher"
 hiddenInHomeList: true

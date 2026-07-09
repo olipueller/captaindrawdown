@@ -1,7 +1,7 @@
 ---
 title: "Chiara Pasut"
 description: "Chiara Pasut is a Mid-career Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.832804
+date: 2026-07-10T01:07:48.766582
 url: "/cdr-researcher-census/researchers/chiara-pasut-a5079117/"
 layout: "researcher"
 hiddenInHomeList: true

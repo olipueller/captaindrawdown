@@ -1,7 +1,7 @@
 ---
 title: "Mingkang Long"
 description: "Mingkang Long is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.739130
+date: 2026-07-10T01:07:47.791422
 url: "/cdr-researcher-census/researchers/mingkang-long-a5111152/"
 layout: "researcher"
 hiddenInHomeList: true

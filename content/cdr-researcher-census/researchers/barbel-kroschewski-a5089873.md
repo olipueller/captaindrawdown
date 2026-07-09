@@ -1,7 +1,7 @@
 ---
 title: "Bärbel Kroschewski"
 description: "Bärbel Kroschewski is a Senior Soil Carbon researcher at Humboldt-Universität zu Berlin in DE. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.992337
+date: 2026-07-10T01:07:48.001978
 url: "/cdr-researcher-census/researchers/barbel-kroschewski-a5089873/"
 layout: "researcher"
 hiddenInHomeList: true

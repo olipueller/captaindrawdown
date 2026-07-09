@@ -1,7 +1,7 @@
 ---
 title: "Jiajian Wang"
 description: "Jiajian Wang is a Mid-career Unknown researcher at University of Science and Technology of China in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.496838
+date: 2026-07-10T01:07:48.482290
 url: "/cdr-researcher-census/researchers/jiajian-wang-a5101649/"
 layout: "researcher"
 hiddenInHomeList: true

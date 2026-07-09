@@ -1,7 +1,7 @@
 ---
 title: "Samira García-Freites"
 description: "Samira García-Freites is a Mid-career General CDR researcher at Centro de Investigación Docencia y Consultoria Administrativa in CO. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.894621
+date: 2026-07-10T01:07:47.909791
 url: "/cdr-researcher-census/researchers/samira-garcia-freites-a5067929/"
 layout: "researcher"
 hiddenInHomeList: true

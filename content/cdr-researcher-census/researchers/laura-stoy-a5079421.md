@@ -1,7 +1,7 @@
 ---
 title: "Laura Stoy"
 description: "Laura Stoy is an Early-career Unknown researcher at Pliva (Croatia) in HR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.990894
+date: 2026-07-10T01:07:48.909707
 url: "/cdr-researcher-census/researchers/laura-stoy-a5079421/"
 layout: "researcher"
 hiddenInHomeList: true

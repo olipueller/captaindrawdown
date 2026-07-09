@@ -1,7 +1,7 @@
 ---
 title: "Anna Vaughan"
 description: "Anna Vaughan is a Mid-career Unknown researcher at UNESCO in FR. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.160927
+date: 2026-07-10T01:07:48.179039
 url: "/cdr-researcher-census/researchers/anna-vaughan-a5064975/"
 layout: "researcher"
 hiddenInHomeList: true

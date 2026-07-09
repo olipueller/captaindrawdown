@@ -1,7 +1,7 @@
 ---
 title: "André Frederick Leu"
 description: "André Frederick Leu is an Early-career Unknown researcher at Rio Tinto (Australia) in AU. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.859435
+date: 2026-07-10T01:07:48.789525
 url: "/cdr-researcher-census/researchers/andre-frederick-leu-a5062014/"
 layout: "researcher"
 hiddenInHomeList: true

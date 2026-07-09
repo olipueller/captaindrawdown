@@ -1,7 +1,7 @@
 ---
 title: "Jian Feng"
 description: "Jian Feng is a Senior Unknown researcher at Guizhou University in CN. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.532597
+date: 2026-07-10T01:07:47.598804
 url: "/cdr-researcher-census/researchers/jian-feng-a5101743/"
 layout: "researcher"
 hiddenInHomeList: true

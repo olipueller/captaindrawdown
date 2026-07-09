@@ -1,7 +1,7 @@
 ---
 title: "Changlin Kou"
 description: "Changlin Kou is a Senior Unknown researcher at Henan Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.991999
+date: 2026-07-10T01:07:47.048793
 url: "/cdr-researcher-census/researchers/changlin-kou-a5112000/"
 layout: "researcher"
 hiddenInHomeList: true

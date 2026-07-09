@@ -1,7 +1,7 @@
 ---
 title: "Brendan Ledwig"
 description: "Brendan Ledwig is a Mid-career Enhanced Weathering researcher at Christian-Albrechts-Universität zu Kiel in DE. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.621019
+date: 2026-07-10T01:07:48.582003
 url: "/cdr-researcher-census/researchers/brendan-ledwig-a5083366/"
 layout: "researcher"
 hiddenInHomeList: true

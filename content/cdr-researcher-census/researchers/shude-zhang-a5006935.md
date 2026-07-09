@@ -1,7 +1,7 @@
 ---
 title: "Shude Zhang"
 description: "Shude Zhang is a Senior Unknown researcher at Great Bay University. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.641129
+date: 2026-07-10T01:07:47.700329
 url: "/cdr-researcher-census/researchers/shude-zhang-a5006935/"
 layout: "researcher"
 hiddenInHomeList: true

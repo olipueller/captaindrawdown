@@ -1,7 +1,7 @@
 ---
 title: "Shide Huang"
 description: "Shide Huang is a Senior Soil Carbon researcher. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.739878
+date: 2026-07-10T01:07:48.687312
 url: "/cdr-researcher-census/researchers/shide-huang-a5076026/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Teresa Menzel"
 description: "Teresa Menzel is a Mid-career Unknown researcher at Bavarian Polymer Institute in DE. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.677578
+date: 2026-07-10T01:07:47.733919
 url: "/cdr-researcher-census/researchers/teresa-menzel-a5069321/"
 layout: "researcher"
 hiddenInHomeList: true

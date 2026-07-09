@@ -1,7 +1,7 @@
 ---
 title: "Emily Miranda Oliveira"
 description: "Emily Miranda Oliveira is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.585893
+date: 2026-07-10T01:07:47.649287
 url: "/cdr-researcher-census/researchers/emily-miranda-oliveira-a5021166/"
 layout: "researcher"
 hiddenInHomeList: true

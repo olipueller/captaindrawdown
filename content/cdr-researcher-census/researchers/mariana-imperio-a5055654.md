@@ -1,7 +1,7 @@
 ---
 title: "Mariana Império"
 description: "Mariana Império is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.609518
+date: 2026-07-10T01:07:47.671350
 url: "/cdr-researcher-census/researchers/mariana-imperio-a5055654/"
 layout: "researcher"
 hiddenInHomeList: true

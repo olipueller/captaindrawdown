@@ -1,7 +1,7 @@
 ---
 title: "Paolina Scarponi"
 description: "Paolina Scarponi is a Mid-career Unknown researcher at University of Modena and Reggio Emilia in IT. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.757492
+date: 2026-07-10T01:07:48.703219
 url: "/cdr-researcher-census/researchers/paolina-scarponi-a5014905/"
 layout: "researcher"
 hiddenInHomeList: true

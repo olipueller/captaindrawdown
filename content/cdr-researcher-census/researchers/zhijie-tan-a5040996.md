@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Tan"
 description: "Zhijie Tan is a Mid-career Soil Carbon researcher at Luliang University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.198172
+date: 2026-07-10T01:07:49.111242
 url: "/cdr-researcher-census/researchers/zhijie-tan-a5040996/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tadesse Gashaw"
 description: "Tadesse Gashaw is a Mid-career Soil Carbon researcher at Cranfield University in GB. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.147483
+date: 2026-07-10T01:07:48.167509
 url: "/cdr-researcher-census/researchers/tadesse-gashaw-a5108844/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chaowei Sun"
 description: "Chaowei Sun is a Mid-career Unknown researcher at Xijing University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.999934
+date: 2026-07-10T01:07:48.009185
 url: "/cdr-researcher-census/researchers/chaowei-sun-a5080751/"
 layout: "researcher"
 hiddenInHomeList: true

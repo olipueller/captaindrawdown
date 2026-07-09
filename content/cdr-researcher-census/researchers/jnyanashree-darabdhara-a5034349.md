@@ -1,7 +1,7 @@
 ---
 title: "Jnyanashree Darabdhara"
 description: "Jnyanashree Darabdhara is a Mid-career Biochar researcher at National Institute Of Technology Silchar in IN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.643914
+date: 2026-07-10T01:07:47.702845
 url: "/cdr-researcher-census/researchers/jnyanashree-darabdhara-a5034349/"
 layout: "researcher"
 hiddenInHomeList: true

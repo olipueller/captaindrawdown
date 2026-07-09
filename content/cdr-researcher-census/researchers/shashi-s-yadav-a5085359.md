@@ -1,7 +1,7 @@
 ---
 title: "Shashi S. Yadav"
 description: "Shashi S. Yadav is a Senior Soil Carbon researcher. With 49 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.785574
+date: 2026-07-10T01:07:48.727473
 url: "/cdr-researcher-census/researchers/shashi-s-yadav-a5085359/"
 layout: "researcher"
 hiddenInHomeList: true

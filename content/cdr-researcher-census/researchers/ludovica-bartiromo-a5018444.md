@@ -1,7 +1,7 @@
 ---
 title: "Ludovica Bartiromo"
 description: "Ludovica Bartiromo is a Mid-career Unknown researcher. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.365061
+date: 2026-07-10T01:07:47.447108
 url: "/cdr-researcher-census/researchers/ludovica-bartiromo-a5018444/"
 layout: "researcher"
 hiddenInHomeList: true

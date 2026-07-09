@@ -1,7 +1,7 @@
 ---
 title: "Gyana Ranjan Tripathy"
 description: "Gyana Ranjan Tripathy is a Senior Unknown researcher at Indian Institute of Science Education Research Pune in IN. With 50 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.303850
+date: 2026-07-10T01:07:47.386004
 url: "/cdr-researcher-census/researchers/gyana-ranjan-tripathy-a5043817/"
 layout: "researcher"
 hiddenInHomeList: true

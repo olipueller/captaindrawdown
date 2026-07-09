@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Mughees Ud Din"
 description: "Muhammad Mughees Ud Din is an Early-career Unknown researcher at Khyber Medical College in PK. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.108952
+date: 2026-07-10T01:07:49.016175
 url: "/cdr-researcher-census/researchers/muhammad-mughees-ud-din-a5113427/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "João Luís Nunes Carvalho"
 description: "João Luís Nunes Carvalho is a Senior Soil Carbon researcher at Universidade de São Paulo in BR. With 120 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.957830
+date: 2026-07-10T01:07:46.994587
 url: "/cdr-researcher-census/researchers/joao-luis-nunes-carvalho-a5049824/"
 layout: "researcher"
 hiddenInHomeList: true

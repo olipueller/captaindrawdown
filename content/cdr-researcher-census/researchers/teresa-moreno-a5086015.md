@@ -1,7 +1,7 @@
 ---
 title: "Teresa Moreno"
 description: "Teresa Moreno is a Senior Unknown researcher at Callaghan Innovation in NZ. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.648621
+date: 2026-07-10T01:07:47.707291
 url: "/cdr-researcher-census/researchers/teresa-moreno-a5086015/"
 layout: "researcher"
 hiddenInHomeList: true

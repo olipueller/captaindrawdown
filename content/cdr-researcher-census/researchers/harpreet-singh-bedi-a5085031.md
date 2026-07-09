@@ -1,7 +1,7 @@
 ---
 title: "Harpreet Singh Bedi"
 description: "Harpreet Singh Bedi is a Mid-career Unknown researcher at Birla Institute of Technology and Science, Pilani - Dubai Campus in AE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.078573
+date: 2026-07-10T01:07:48.080619
 url: "/cdr-researcher-census/researchers/harpreet-singh-bedi-a5085031/"
 layout: "researcher"
 hiddenInHomeList: true

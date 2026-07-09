@@ -1,7 +1,7 @@
 ---
 title: "Xianzhao Zhang"
 description: "Xianzhao Zhang is a Senior Biochar researcher at Clark College in US. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.468183
+date: 2026-07-10T01:07:47.541120
 url: "/cdr-researcher-census/researchers/xianzhao-zhang-a5052562/"
 layout: "researcher"
 hiddenInHomeList: true

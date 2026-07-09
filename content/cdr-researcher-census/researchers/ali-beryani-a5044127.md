@@ -1,7 +1,7 @@
 ---
 title: "Ali Beryani"
 description: "Ali Beryani is a Mid-career General CDR researcher at Luleå University of Technology in SE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.541107
+date: 2026-07-10T01:07:48.522623
 url: "/cdr-researcher-census/researchers/ali-beryani-a5044127/"
 layout: "researcher"
 hiddenInHomeList: true

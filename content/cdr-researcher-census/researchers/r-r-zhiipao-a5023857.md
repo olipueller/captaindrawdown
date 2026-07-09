@@ -1,7 +1,7 @@
 ---
 title: "R. R. Zhiipao"
 description: "R. R. Zhiipao is a Mid-career Soil Carbon researcher at Rajiv Gandhi University in IN. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.995862
+date: 2026-07-10T01:07:48.005235
 url: "/cdr-researcher-census/researchers/r-r-zhiipao-a5023857/"
 layout: "researcher"
 hiddenInHomeList: true

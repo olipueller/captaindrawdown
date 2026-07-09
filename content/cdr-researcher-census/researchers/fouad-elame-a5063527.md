@@ -1,7 +1,7 @@
 ---
 title: "Fouad Elame"
 description: "Fouad Elame is a Mid-career Soil Carbon researcher at National Agricultural Research Institute in PG. With 57 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.033347
+date: 2026-07-10T01:07:48.040036
 url: "/cdr-researcher-census/researchers/fouad-elame-a5063527/"
 layout: "researcher"
 hiddenInHomeList: true

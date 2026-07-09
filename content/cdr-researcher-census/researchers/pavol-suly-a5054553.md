@@ -1,7 +1,7 @@
 ---
 title: "Pavol Šuly"
 description: "Pavol Šuly is a Mid-career Unknown researcher at Univerzita Tomáše Bati ve Zlíně Univerzitní institut in CZ. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.637899
+date: 2026-07-10T01:07:47.697092
 url: "/cdr-researcher-census/researchers/pavol-suly-a5054553/"
 layout: "researcher"
 hiddenInHomeList: true

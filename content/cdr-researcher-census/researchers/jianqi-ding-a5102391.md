@@ -1,7 +1,7 @@
 ---
 title: "Jianqi Ding"
 description: "Jianqi Ding is a Mid-career Unknown researcher at Università degli Studi della Tuscia in IT. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.800258
+date: 2026-07-10T01:07:48.739159
 url: "/cdr-researcher-census/researchers/jianqi-ding-a5102391/"
 layout: "researcher"
 hiddenInHomeList: true

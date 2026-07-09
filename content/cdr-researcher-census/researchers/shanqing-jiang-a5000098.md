@@ -1,7 +1,7 @@
 ---
 title: "Shanqing Jiang"
 description: "Shanqing Jiang is a Mid-career Biochar researcher at Changzhou University in CN. With 29 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.442628
+date: 2026-07-10T01:07:47.518536
 url: "/cdr-researcher-census/researchers/shanqing-jiang-a5000098/"
 layout: "researcher"
 hiddenInHomeList: true

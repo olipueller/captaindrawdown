@@ -1,7 +1,7 @@
 ---
 title: "Asmat Ullah"
 description: "Asmat Ullah is a Mid-career Unknown researcher at University of Malakand in PK. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.978304
+date: 2026-07-10T01:07:48.898438
 url: "/cdr-researcher-census/researchers/asmat-ullah-a5103763/"
 layout: "researcher"
 hiddenInHomeList: true

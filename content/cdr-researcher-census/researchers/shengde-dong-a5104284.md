@@ -1,7 +1,7 @@
 ---
 title: "Shengde Dong"
 description: "Shengde Dong is a Mid-career Unknown researcher at Xihua University in CN. With 20 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.113407
+date: 2026-07-10T01:07:49.019959
 url: "/cdr-researcher-census/researchers/shengde-dong-a5104284/"
 layout: "researcher"
 hiddenInHomeList: true

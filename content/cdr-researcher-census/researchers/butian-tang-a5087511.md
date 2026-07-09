@@ -1,7 +1,7 @@
 ---
 title: "Butian Tang"
 description: "Butian Tang is a Mid-career Unknown researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.016822
+date: 2026-07-10T01:07:48.933023
 url: "/cdr-researcher-census/researchers/butian-tang-a5087511/"
 layout: "researcher"
 hiddenInHomeList: true

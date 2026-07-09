@@ -1,7 +1,7 @@
 ---
 title: "Kelechi E. Anyaoha"
 description: "Kelechi E. Anyaoha is a Mid-career General CDR researcher at Technische Universität Dresden in DE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.058454
+date: 2026-07-10T01:07:48.062263
 url: "/cdr-researcher-census/researchers/kelechi-e-anyaoha-a5075264/"
 layout: "researcher"
 hiddenInHomeList: true

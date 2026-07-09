@@ -1,7 +1,7 @@
 ---
 title: "Ling Cai"
 description: "Ling Cai is a Mid-career Unknown researcher at Brigham and Women's Hospital in US. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.584697
+date: 2026-07-10T01:07:47.648235
 url: "/cdr-researcher-census/researchers/ling-cai-a5103186/"
 layout: "researcher"
 hiddenInHomeList: true

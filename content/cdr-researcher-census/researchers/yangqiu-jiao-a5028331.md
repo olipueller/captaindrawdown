@@ -1,7 +1,7 @@
 ---
 title: "Yangqiu Jiao"
 description: "Yangqiu Jiao is a Mid-career Unknown researcher at Hainan University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.077243
+date: 2026-07-10T01:07:48.079452
 url: "/cdr-researcher-census/researchers/yangqiu-jiao-a5028331/"
 layout: "researcher"
 hiddenInHomeList: true

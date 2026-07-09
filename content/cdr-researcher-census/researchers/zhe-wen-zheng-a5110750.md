@@ -1,7 +1,7 @@
 ---
 title: "Zhe-Wen Zheng"
 description: "Zhe-Wen Zheng is a Senior Unknown researcher at National Taiwan Normal University in TW. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.735862
+date: 2026-07-10T01:07:48.684066
 url: "/cdr-researcher-census/researchers/zhe-wen-zheng-a5110750/"
 layout: "researcher"
 hiddenInHomeList: true

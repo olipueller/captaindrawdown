@@ -1,7 +1,7 @@
 ---
 title: "Niccolò Carlino"
 description: "Niccolò Carlino is a Mid-career Unknown researcher at University of Trento in IT. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.597554
+date: 2026-07-10T01:07:47.660446
 url: "/cdr-researcher-census/researchers/niccolo-carlino-a5040160/"
 layout: "researcher"
 hiddenInHomeList: true

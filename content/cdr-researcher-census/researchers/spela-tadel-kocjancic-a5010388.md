@@ -1,7 +1,7 @@
 ---
 title: "Špela Tadel Kocjančič"
 description: "Špela Tadel Kocjančič is a Senior Unknown researcher at Ljubljana University Medical Centre in SI. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.580755
+date: 2026-07-10T01:07:47.643983
 url: "/cdr-researcher-census/researchers/spela-tadel-kocjancic-a5010388/"
 layout: "researcher"
 hiddenInHomeList: true

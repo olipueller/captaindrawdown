@@ -1,7 +1,7 @@
 ---
 title: "Kunru Li"
 description: "Kunru Li is a Mid-career Unknown researcher at Southeast University in BD. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.668216
+date: 2026-07-10T01:07:48.624191
 url: "/cdr-researcher-census/researchers/kunru-li-a5083915/"
 layout: "researcher"
 hiddenInHomeList: true

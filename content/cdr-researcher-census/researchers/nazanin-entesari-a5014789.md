@@ -1,7 +1,7 @@
 ---
 title: "Nazanin Entesari"
 description: "Nazanin Entesari is a Senior General CDR researcher at University of Southern California in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.066587
+date: 2026-07-10T01:07:48.978241
 url: "/cdr-researcher-census/researchers/nazanin-entesari-a5014789/"
 layout: "researcher"
 hiddenInHomeList: true

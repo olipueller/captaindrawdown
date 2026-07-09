@@ -1,7 +1,7 @@
 ---
 title: "Julianna Caon"
 description: "Julianna Caon is a Senior Unknown researcher at BC Cancer Agency in CA. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.575664
+date: 2026-07-10T01:07:47.639006
 url: "/cdr-researcher-census/researchers/julianna-caon-a5033200/"
 layout: "researcher"
 hiddenInHomeList: true

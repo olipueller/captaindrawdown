@@ -1,7 +1,7 @@
 ---
 title: "Markus Pflitsch"
 description: "Markus Pflitsch is a Mid-career General CDR researcher at Terra Quantum (Switzerland) in CH. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.238066
+date: 2026-07-10T01:07:48.247521
 url: "/cdr-researcher-census/researchers/markus-pflitsch-a5016058/"
 layout: "researcher"
 hiddenInHomeList: true

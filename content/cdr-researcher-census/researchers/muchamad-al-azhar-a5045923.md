@@ -1,7 +1,7 @@
 ---
 title: "Muchamad Al Azhar"
 description: "Muchamad Al Azhar is a Mid-career Unknown researcher at Plymouth Marine Laboratory in GB. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.770112
+date: 2026-07-10T01:07:47.820176
 url: "/cdr-researcher-census/researchers/muchamad-al-azhar-a5045923/"
 layout: "researcher"
 hiddenInHomeList: true

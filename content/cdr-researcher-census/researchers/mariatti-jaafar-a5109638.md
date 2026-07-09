@@ -1,7 +1,7 @@
 ---
 title: "Mariatti Jaafar"
 description: "Mariatti Jaafar is a Senior Unknown researcher at Universiti Sains Malaysia in MY. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.103185
+date: 2026-07-10T01:07:48.129291
 url: "/cdr-researcher-census/researchers/mariatti-jaafar-a5109638/"
 layout: "researcher"
 hiddenInHomeList: true

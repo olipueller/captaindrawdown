@@ -1,7 +1,7 @@
 ---
 title: "Xiang-Bo Tang"
 description: "Xiang-Bo Tang is a Senior Unknown researcher at Shanghai Zhangjiang Laboratory in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.786649
+date: 2026-07-10T01:07:48.728285
 url: "/cdr-researcher-census/researchers/xiang-bo-tang-a5112724/"
 layout: "researcher"
 hiddenInHomeList: true

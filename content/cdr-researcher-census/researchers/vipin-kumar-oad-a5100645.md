@@ -1,7 +1,7 @@
 ---
 title: "Vipin Kumar Oad"
 description: "Vipin Kumar Oad is a Mid-career Unknown researcher at Gdańsk University of Technology in PL. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.730549
+date: 2026-07-10T01:07:48.679353
 url: "/cdr-researcher-census/researchers/vipin-kumar-oad-a5100645/"
 layout: "researcher"
 hiddenInHomeList: true

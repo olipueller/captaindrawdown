@@ -1,7 +1,7 @@
 ---
 title: "Pan Cheng"
 description: "Pan Cheng is a Mid-career Unknown researcher at Anhui Medical University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.236713
+date: 2026-07-10T01:07:47.323199
 url: "/cdr-researcher-census/researchers/pan-cheng-a5044346/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Romina Lorenzetti"
 description: "Romina Lorenzetti is a Mid-career Soil Carbon researcher at Institute of Biosciences and Bioresources in IT. With 55 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.744195
+date: 2026-07-10T01:07:47.796307
 url: "/cdr-researcher-census/researchers/romina-lorenzetti-a5082504/"
 layout: "researcher"
 hiddenInHomeList: true

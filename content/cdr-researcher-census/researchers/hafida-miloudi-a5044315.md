@@ -1,7 +1,7 @@
 ---
 title: "Hafida Miloudi"
 description: "Hafida Miloudi is a Senior Unknown researcher at Université Oran 1 Ahmed Ben Bella in DZ. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.173986
+date: 2026-07-10T01:07:48.190208
 url: "/cdr-researcher-census/researchers/hafida-miloudi-a5044315/"
 layout: "researcher"
 hiddenInHomeList: true

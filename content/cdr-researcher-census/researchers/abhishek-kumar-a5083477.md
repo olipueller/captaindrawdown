@@ -1,7 +1,7 @@
 ---
 title: "Abhishek Kumar"
 description: "Abhishek Kumar is a Mid-career Biochar researcher at University of California, Davis in US. With 44 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.192995
+date: 2026-07-10T01:07:47.282158
 url: "/cdr-researcher-census/researchers/abhishek-kumar-a5083477/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Noémi Leick"
 description: "Noémi Leick is a Senior Unknown researcher at National Renewable Energy Laboratory in US. With 78 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.302893
+date: 2026-07-10T01:07:47.385098
 url: "/cdr-researcher-census/researchers/noemi-leick-a5052478/"
 layout: "researcher"
 hiddenInHomeList: true

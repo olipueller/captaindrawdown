@@ -1,7 +1,7 @@
 ---
 title: "Xiongwei Zhu"
 description: "Xiongwei Zhu is a Mid-career General CDR researcher at Xi'an University of Architecture and Technology in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.975404
+date: 2026-07-10T01:07:47.985375
 url: "/cdr-researcher-census/researchers/xiongwei-zhu-a5113317/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kerri L. Hickenbottom"
 description: "Kerri L. Hickenbottom is a Mid-career Unknown researcher at University of Arizona in US. With 35 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.267338
+date: 2026-07-10T01:07:47.350786
 url: "/cdr-researcher-census/researchers/kerri-l-hickenbottom-a5057249/"
 layout: "researcher"
 hiddenInHomeList: true

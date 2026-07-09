@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Timo Lipkowicz"
 description: "Jonathan Timo Lipkowicz is a Mid-career Unknown researcher at Siemens (Germany) in DE. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.773138
+date: 2026-07-10T01:07:48.717034
 url: "/cdr-researcher-census/researchers/jonathan-timo-lipkowicz-a5013514/"
 layout: "researcher"
 hiddenInHomeList: true

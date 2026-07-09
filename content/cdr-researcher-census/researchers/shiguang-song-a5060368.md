@@ -1,7 +1,7 @@
 ---
 title: "Shiguang Song"
 description: "Shiguang Song is a Mid-career Unknown researcher at University of Hong Kong in HK. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.163981
+date: 2026-07-10T01:07:49.054767
 url: "/cdr-researcher-census/researchers/shiguang-song-a5060368/"
 layout: "researcher"
 hiddenInHomeList: true

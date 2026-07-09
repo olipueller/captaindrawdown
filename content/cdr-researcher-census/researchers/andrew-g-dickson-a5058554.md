@@ -1,7 +1,7 @@
 ---
 title: "Andrew G. Dickson"
 description: "Andrew G. Dickson is an Eminent Ocean CDR researcher at UC San Diego in US. With 137 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.884880
+date: 2026-07-10T01:07:46.847800
 url: "/cdr-researcher-census/researchers/andrew-g-dickson-a5058554/"
 layout: "researcher"
 hiddenInHomeList: true

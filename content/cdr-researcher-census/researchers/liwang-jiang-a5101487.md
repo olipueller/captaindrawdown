@@ -1,7 +1,7 @@
 ---
 title: "Li‐Wang Jiang"
 description: "Li‐Wang Jiang is a Mid-career Unknown researcher at Chengdu University of Information Technology in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.368304
+date: 2026-07-10T01:07:48.365559
 url: "/cdr-researcher-census/researchers/liwang-jiang-a5101487/"
 layout: "researcher"
 hiddenInHomeList: true

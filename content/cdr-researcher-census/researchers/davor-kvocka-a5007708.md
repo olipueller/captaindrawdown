@@ -1,7 +1,7 @@
 ---
 title: "Davor Kvočka"
 description: "Davor Kvočka is a Mid-career Unknown researcher at Slovenian National Building and Civil Engineering Institute in SI. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.813537
+date: 2026-07-10T01:07:47.860194
 url: "/cdr-researcher-census/researchers/davor-kvocka-a5007708/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pokman Chan"
 description: "Pokman Chan is a Senior Unknown researcher at Akston Biosciences (United States) in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.062348
+date: 2026-07-10T01:07:47.139202
 url: "/cdr-researcher-census/researchers/pokman-chan-a5102192/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yanzhong Yao"
 description: "Yanzhong Yao is a Senior Soil Carbon researcher at Institute of Applied Physics and Computational Mathematics in CN. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.586434
+date: 2026-07-10T01:07:47.649789
 url: "/cdr-researcher-census/researchers/yanzhong-yao-a5045325/"
 layout: "researcher"
 hiddenInHomeList: true

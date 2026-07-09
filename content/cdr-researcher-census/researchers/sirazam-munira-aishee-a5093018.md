@@ -1,7 +1,7 @@
 ---
 title: "Sirazam Munira Aishee"
 description: "Sirazam Munira Aishee is an Early-career Unknown researcher at Bangladesh University of Engineering and Technology in BD. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.942837
+date: 2026-07-10T01:07:48.865172
 url: "/cdr-researcher-census/researchers/sirazam-munira-aishee-a5093018/"
 layout: "researcher"
 hiddenInHomeList: true

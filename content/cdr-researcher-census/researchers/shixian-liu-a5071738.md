@@ -1,7 +1,7 @@
 ---
 title: "Shixian Liu"
 description: "Shixian Liu is a Senior Soil Carbon researcher at Guilin University of Technology in CN. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.508005
+date: 2026-07-10T01:07:48.493146
 url: "/cdr-researcher-census/researchers/shixian-liu-a5071738/"
 layout: "researcher"
 hiddenInHomeList: true

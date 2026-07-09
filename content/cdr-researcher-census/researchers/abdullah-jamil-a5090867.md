@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Jamil"
 description: "Abdullah Jamil is a Senior Unknown researcher at Universiti Teknologi Petronas in MY. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.203781
+date: 2026-07-10T01:07:49.116458
 url: "/cdr-researcher-census/researchers/abdullah-jamil-a5090867/"
 layout: "researcher"
 hiddenInHomeList: true

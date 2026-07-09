@@ -1,7 +1,7 @@
 ---
 title: "Patrick Nkuigue Fotsing"
 description: "Patrick Nkuigue Fotsing is a Mid-career Unknown researcher at Université de Yaoundé I in CM. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.966545
+date: 2026-07-10T01:07:47.977138
 url: "/cdr-researcher-census/researchers/patrick-nkuigue-fotsing-a5018015/"
 layout: "researcher"
 hiddenInHomeList: true

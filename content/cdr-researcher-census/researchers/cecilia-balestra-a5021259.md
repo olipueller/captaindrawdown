@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Balestra"
 description: "Cecilia Balestra is a Senior Unknown researcher at National Institute of Oceanography and Applied Geophysics in IT. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.706423
+date: 2026-07-10T01:07:47.760654
 url: "/cdr-researcher-census/researchers/cecilia-balestra-a5021259/"
 layout: "researcher"
 hiddenInHomeList: true

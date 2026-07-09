@@ -1,7 +1,7 @@
 ---
 title: "Wentong He"
 description: "Wentong He is a Mid-career Unknown researcher at Jilin University in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.589805
+date: 2026-07-10T01:07:47.653011
 url: "/cdr-researcher-census/researchers/wentong-he-a5066069/"
 layout: "researcher"
 hiddenInHomeList: true

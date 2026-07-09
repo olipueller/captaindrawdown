@@ -1,7 +1,7 @@
 ---
 title: "Yinyin Xu"
 description: "Yinyin Xu is a Mid-career Biochar researcher at Lanzhou University in CN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.312020
+date: 2026-07-10T01:07:47.394258
 url: "/cdr-researcher-census/researchers/yinyin-xu-a5029368/"
 layout: "researcher"
 hiddenInHomeList: true

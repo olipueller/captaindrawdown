@@ -1,7 +1,7 @@
 ---
 title: "John Kormla Nyameasem"
 description: "John Kormla Nyameasem is a Mid-career Soil Carbon researcher at University of Bonn in DE. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.623829
+date: 2026-07-10T01:07:48.584535
 url: "/cdr-researcher-census/researchers/john-kormla-nyameasem-a5073587/"
 layout: "researcher"
 hiddenInHomeList: true

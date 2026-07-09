@@ -1,7 +1,7 @@
 ---
 title: "Shulin You"
 description: "Shulin You is a Mid-career Soil Carbon researcher at South China University of Technology in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.914825
+date: 2026-07-10T01:07:48.839318
 url: "/cdr-researcher-census/researchers/shulin-you-a5081694/"
 layout: "researcher"
 hiddenInHomeList: true

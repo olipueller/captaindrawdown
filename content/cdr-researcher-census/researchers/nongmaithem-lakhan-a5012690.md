@@ -1,7 +1,7 @@
 ---
 title: "Nongmaithem Lakhan"
 description: "Nongmaithem Lakhan is a Mid-career Unknown researcher at Wadia Institute of Himalayan Geology in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.166296
+date: 2026-07-10T01:07:49.056808
 url: "/cdr-researcher-census/researchers/nongmaithem-lakhan-a5012690/"
 layout: "researcher"
 hiddenInHomeList: true

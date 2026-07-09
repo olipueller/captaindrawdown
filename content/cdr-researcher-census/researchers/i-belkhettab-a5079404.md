@@ -1,7 +1,7 @@
 ---
 title: "I. Belkhettab"
 description: "I. Belkhettab is a Mid-career Unknown researcher at University of Sciences and Technology Houari Boumediene in DZ. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.615844
+date: 2026-07-10T01:07:48.576961
 url: "/cdr-researcher-census/researchers/i-belkhettab-a5079404/"
 layout: "researcher"
 hiddenInHomeList: true

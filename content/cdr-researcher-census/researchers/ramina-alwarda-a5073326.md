@@ -1,7 +1,7 @@
 ---
 title: "Ramina Alwarda"
 description: "Ramina Alwarda is a Mid-career Unknown researcher at University of Toronto in CA. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.562605
+date: 2026-07-10T01:07:48.542080
 url: "/cdr-researcher-census/researchers/ramina-alwarda-a5073326/"
 layout: "researcher"
 hiddenInHomeList: true

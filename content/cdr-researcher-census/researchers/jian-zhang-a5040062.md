@@ -1,7 +1,7 @@
 ---
 title: "Jian Zhang"
 description: "Jian Zhang is a Senior Biochar researcher at Nanchang University in CN. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.753180
+date: 2026-07-10T01:07:48.699673
 url: "/cdr-researcher-census/researchers/jian-zhang-a5040062/"
 layout: "researcher"
 hiddenInHomeList: true

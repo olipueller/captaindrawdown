@@ -1,7 +1,7 @@
 ---
 title: "Patrick Spraider"
 description: "Patrick Spraider is a Mid-career Unknown researcher. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.208235
+date: 2026-07-10T01:07:48.221373
 url: "/cdr-researcher-census/researchers/patrick-spraider-a5087568/"
 layout: "researcher"
 hiddenInHomeList: true

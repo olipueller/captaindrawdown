@@ -1,7 +1,7 @@
 ---
 title: "Benjamas Rossopa"
 description: "Benjamas Rossopa is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Cooperatives in TH. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.157679
+date: 2026-07-10T01:07:48.176550
 url: "/cdr-researcher-census/researchers/benjamas-rossopa-a5080962/"
 layout: "researcher"
 hiddenInHomeList: true

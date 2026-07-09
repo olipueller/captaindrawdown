@@ -1,7 +1,7 @@
 ---
 title: "Chunju Zheng"
 description: "Chunju Zheng is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.186718
+date: 2026-07-10T01:07:49.101168
 url: "/cdr-researcher-census/researchers/chunju-zheng-a5108734/"
 layout: "researcher"
 hiddenInHomeList: true

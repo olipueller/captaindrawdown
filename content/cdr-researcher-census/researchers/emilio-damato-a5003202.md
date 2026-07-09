@@ -1,7 +1,7 @@
 ---
 title: "Emilio D’Amato"
 description: "Emilio D’Amato is a Mid-career Unknown researcher at Sapienza University of Rome in IT. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.894288
+date: 2026-07-10T01:07:47.909282
 url: "/cdr-researcher-census/researchers/emilio-damato-a5003202/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Leon Barron"
 description: "Leon Barron is a Mid-career Biochar researcher at Imperial College London in GB. With 14 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.994399
+date: 2026-07-10T01:07:48.912759
 url: "/cdr-researcher-census/researchers/leon-barron-a5082797/"
 layout: "researcher"
 hiddenInHomeList: true

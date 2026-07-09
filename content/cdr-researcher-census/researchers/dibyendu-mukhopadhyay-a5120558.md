@@ -1,7 +1,7 @@
 ---
 title: "Dibyendu Mukhopadhyay"
 description: "Dibyendu Mukhopadhyay is a Mid-career Unknown researcher at North Bengal Agricultural University in IN. With 33 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.555227
+date: 2026-07-10T01:07:48.535383
 url: "/cdr-researcher-census/researchers/dibyendu-mukhopadhyay-a5120558/"
 layout: "researcher"
 hiddenInHomeList: true

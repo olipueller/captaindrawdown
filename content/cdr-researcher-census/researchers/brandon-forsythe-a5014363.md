@@ -1,7 +1,7 @@
 ---
 title: "Brandon Forsythe"
 description: "Brandon Forsythe is a Mid-career Unknown researcher at Pennsylvania State University in US. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.837299
+date: 2026-07-10T01:07:47.873280
 url: "/cdr-researcher-census/researchers/brandon-forsythe-a5014363/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaorong Lou"
 description: "Xiaorong Lou is a Mid-career Unknown researcher at Taiyuan University of Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.853983
+date: 2026-07-10T01:07:48.784681
 url: "/cdr-researcher-census/researchers/xiaorong-lou-a5089787/"
 layout: "researcher"
 hiddenInHomeList: true

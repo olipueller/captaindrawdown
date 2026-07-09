@@ -1,7 +1,7 @@
 ---
 title: "Zhifang Gao"
 description: "Zhifang Gao is a Mid-career Unknown researcher at Anhui University of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.967054
+date: 2026-07-10T01:07:48.887698
 url: "/cdr-researcher-census/researchers/zhifang-gao-a5045051/"
 layout: "researcher"
 hiddenInHomeList: true

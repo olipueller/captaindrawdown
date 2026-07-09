@@ -1,7 +1,7 @@
 ---
 title: "Yizhe Peng"
 description: "Yizhe Peng is a Mid-career Unknown researcher at Hunan University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.209716
+date: 2026-07-10T01:07:49.122267
 url: "/cdr-researcher-census/researchers/yizhe-peng-a5077264/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laura Vincent-Caboud"
 description: "Laura Vincent-Caboud is a Mid-career Soil Carbon researcher at Agroécologie in FR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.981781
+date: 2026-07-10T01:07:47.991015
 url: "/cdr-researcher-census/researchers/laura-vincent-caboud-a5033488/"
 layout: "researcher"
 hiddenInHomeList: true

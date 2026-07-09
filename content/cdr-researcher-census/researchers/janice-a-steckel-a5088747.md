@@ -1,7 +1,7 @@
 ---
 title: "Janice A. Steckel"
 description: "Janice A. Steckel is a Senior General CDR researcher at US Department of Energy in US. With 84 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.028597
+date: 2026-07-10T01:07:47.097137
 url: "/cdr-researcher-census/researchers/janice-a-steckel-a5088747/"
 layout: "researcher"
 hiddenInHomeList: true

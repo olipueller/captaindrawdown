@@ -1,7 +1,7 @@
 ---
 title: "Shanshan Qiao"
 description: "Shanshan Qiao is a Senior Unknown researcher at China Geological Survey in CN. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.601723
+date: 2026-07-10T01:07:47.663625
 url: "/cdr-researcher-census/researchers/shanshan-qiao-a5114128/"
 layout: "researcher"
 hiddenInHomeList: true

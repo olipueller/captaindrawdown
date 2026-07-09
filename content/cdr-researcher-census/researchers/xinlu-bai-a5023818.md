@@ -1,7 +1,7 @@
 ---
 title: "Xinlu Bai"
 description: "Xinlu Bai is a Mid-career Soil Carbon researcher at Xinjiang Production and Construction Corps in CN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.071322
+date: 2026-07-10T01:07:48.074042
 url: "/cdr-researcher-census/researchers/xinlu-bai-a5023818/"
 layout: "researcher"
 hiddenInHomeList: true

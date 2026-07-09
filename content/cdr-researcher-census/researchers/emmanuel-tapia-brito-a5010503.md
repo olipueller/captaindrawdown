@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Tapia-Brito"
 description: "Emmanuel Tapia-Brito is a Mid-career Unknown researcher at University of Nottingham in GB. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.117848
+date: 2026-07-10T01:07:49.023808
 url: "/cdr-researcher-census/researchers/emmanuel-tapia-brito-a5010503/"
 layout: "researcher"
 hiddenInHomeList: true

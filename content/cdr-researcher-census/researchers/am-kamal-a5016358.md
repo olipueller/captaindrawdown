@@ -1,7 +1,7 @@
 ---
 title: "A.M. Kamal"
 description: "A.M. Kamal is a Mid-career Soil Carbon researcher at Quaid-i-Azam University in PK. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.939106
+date: 2026-07-10T01:07:48.861933
 url: "/cdr-researcher-census/researchers/am-kamal-a5016358/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hong‐Yan Tao"
 description: "Hong‐Yan Tao is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.177722
+date: 2026-07-10T01:07:47.266834
 url: "/cdr-researcher-census/researchers/hongyan-tao-a5064549/"
 layout: "researcher"
 hiddenInHomeList: true

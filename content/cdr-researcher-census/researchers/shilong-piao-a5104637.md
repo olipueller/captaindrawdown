@@ -1,7 +1,7 @@
 ---
 title: "Shilong Piao"
 description: "Shilong Piao is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.240673
+date: 2026-07-10T01:07:47.327060
 url: "/cdr-researcher-census/researchers/shilong-piao-a5104637/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wei Wang"
 description: "Wei Wang is a Senior Unknown researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.986884
+date: 2026-07-10T01:07:47.995856
 url: "/cdr-researcher-census/researchers/wei-wang-a5110663/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhitao Xu"
 description: "Zhitao Xu is a Mid-career Soil Carbon researcher at Jiangxi University of Science and Technology in CN. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.558229
+date: 2026-07-10T01:07:47.622277
 url: "/cdr-researcher-census/researchers/zhitao-xu-a5112449/"
 layout: "researcher"
 hiddenInHomeList: true

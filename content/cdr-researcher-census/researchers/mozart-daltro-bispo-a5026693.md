@@ -1,7 +1,7 @@
 ---
 title: "Mozart Daltro Bispo"
 description: "Mozart Daltro Bispo is a Mid-career Soil Carbon researcher at Universidade Federal de Alagoas in BR. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.537185
+date: 2026-07-10T01:07:47.602880
 url: "/cdr-researcher-census/researchers/mozart-daltro-bispo-a5026693/"
 layout: "researcher"
 hiddenInHomeList: true

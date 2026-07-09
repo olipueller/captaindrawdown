@@ -1,7 +1,7 @@
 ---
 title: "Negar Tafti"
 description: "Negar Tafti is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.939760
+date: 2026-07-10T01:07:47.952119
 url: "/cdr-researcher-census/researchers/negar-tafti-a5000709/"
 layout: "researcher"
 hiddenInHomeList: true

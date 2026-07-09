@@ -1,7 +1,7 @@
 ---
 title: "Bassam Riachi"
 description: "Bassam Riachi is a Mid-career Unknown researcher. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.854085
+date: 2026-07-10T01:07:48.784776
 url: "/cdr-researcher-census/researchers/bassam-riachi-a5019999/"
 layout: "researcher"
 hiddenInHomeList: true

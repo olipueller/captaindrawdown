@@ -1,7 +1,7 @@
 ---
 title: "Fuhao Liu"
 description: "Fuhao Liu is a Mid-career Soil Carbon researcher at South China Normal University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.654925
+date: 2026-07-10T01:07:48.612900
 url: "/cdr-researcher-census/researchers/fuhao-liu-a5087877/"
 layout: "researcher"
 hiddenInHomeList: true

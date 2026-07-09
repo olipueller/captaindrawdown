@@ -1,7 +1,7 @@
 ---
 title: "Florian Barbi"
 description: "Florian Barbi is a Mid-career Soil Carbon researcher at Institute of Microbiology in BY. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.006215
+date: 2026-07-10T01:07:48.014805
 url: "/cdr-researcher-census/researchers/florian-barbi-a5090176/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andrew R. Bucossi"
 description: "Andrew R. Bucossi is a Mid-career Unknown researcher at Rochester Institute of Technology in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.371945
+date: 2026-07-10T01:07:48.368513
 url: "/cdr-researcher-census/researchers/andrew-r-bucossi-a5072636/"
 layout: "researcher"
 hiddenInHomeList: true

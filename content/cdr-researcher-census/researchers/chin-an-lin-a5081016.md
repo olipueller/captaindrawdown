@@ -1,7 +1,7 @@
 ---
 title: "Chin-An Lin"
 description: "Chin-An Lin is a Mid-career Unknown researcher at Museum of the Rockies in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.553334
+date: 2026-07-10T01:07:48.533524
 url: "/cdr-researcher-census/researchers/chin-an-lin-a5081016/"
 layout: "researcher"
 hiddenInHomeList: true

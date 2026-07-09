@@ -1,7 +1,7 @@
 ---
 title: "Petra Luláková"
 description: "Petra Luláková is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.080211
+date: 2026-07-10T01:07:48.990883
 url: "/cdr-researcher-census/researchers/petra-lulakova-a5037395/"
 layout: "researcher"
 hiddenInHomeList: true

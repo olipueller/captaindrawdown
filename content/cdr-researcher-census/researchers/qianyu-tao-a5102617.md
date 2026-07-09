@@ -1,7 +1,7 @@
 ---
 title: "Qianyu Tao"
 description: "Qianyu Tao is a Mid-career Unknown researcher at Jilin University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.992348
+date: 2026-07-10T01:07:48.910913
 url: "/cdr-researcher-census/researchers/qianyu-tao-a5102617/"
 layout: "researcher"
 hiddenInHomeList: true

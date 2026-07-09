@@ -1,7 +1,7 @@
 ---
 title: "Cheng-Yau Tan"
 description: "Cheng-Yau Tan is a Mid-career Unknown researcher at Sunway University in MY. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.612957
+date: 2026-07-10T01:07:48.574309
 url: "/cdr-researcher-census/researchers/cheng-yau-tan-a5057980/"
 layout: "researcher"
 hiddenInHomeList: true

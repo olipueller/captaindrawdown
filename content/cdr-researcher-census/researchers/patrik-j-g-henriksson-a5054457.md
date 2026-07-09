@@ -1,7 +1,7 @@
 ---
 title: "Patrik J. G. Henriksson"
 description: "Patrik J. G. Henriksson is a Senior Ocean CDR researcher at Leiden University in NL. With 112 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.938591
+date: 2026-07-10T01:07:46.962599
 url: "/cdr-researcher-census/researchers/patrik-j-g-henriksson-a5054457/"
 layout: "researcher"
 hiddenInHomeList: true

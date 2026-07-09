@@ -1,7 +1,7 @@
 ---
 title: "Jami H. Goldman"
 description: "Jami H. Goldman is a Mid-career Unknown researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.290438
+date: 2026-07-10T01:07:48.294616
 url: "/cdr-researcher-census/researchers/jami-h-goldman-a5019767/"
 layout: "researcher"
 hiddenInHomeList: true

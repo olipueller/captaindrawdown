@@ -1,7 +1,7 @@
 ---
 title: "Isabela Butnar"
 description: "Isabela Butnar is a Senior General CDR researcher at University College, London in GB. With 56 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.100655
+date: 2026-07-10T01:07:47.184722
 url: "/cdr-researcher-census/researchers/isabela-butnar-a5058440/"
 layout: "researcher"
 hiddenInHomeList: true

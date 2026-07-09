@@ -1,7 +1,7 @@
 ---
 title: "Laxman Kumar Duvva"
 description: "Laxman Kumar Duvva is an Early-career Unknown researcher at Jawaharlal Nehru Technological University, Hyderabad in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.166431
+date: 2026-07-10T01:07:48.183807
 url: "/cdr-researcher-census/researchers/laxman-kumar-duvva-a5088630/"
 layout: "researcher"
 hiddenInHomeList: true

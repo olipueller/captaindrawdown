@@ -1,7 +1,7 @@
 ---
 title: "Yiping Jin"
 description: "Yiping Jin is a Senior Biochar researcher at Jilin Agricultural University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.267637
+date: 2026-07-10T01:07:48.273961
 url: "/cdr-researcher-census/researchers/yiping-jin-a5030514/"
 layout: "researcher"
 hiddenInHomeList: true

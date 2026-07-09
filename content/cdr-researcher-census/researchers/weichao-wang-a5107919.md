@@ -1,7 +1,7 @@
 ---
 title: "Weichao Wang"
 description: "Weichao Wang is a Mid-career Unknown researcher at Foshan University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.401983
+date: 2026-07-10T01:07:48.393677
 url: "/cdr-researcher-census/researchers/weichao-wang-a5107919/"
 layout: "researcher"
 hiddenInHomeList: true

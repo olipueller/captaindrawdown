@@ -1,7 +1,7 @@
 ---
 title: "Maria Xylia"
 description: "Maria Xylia is a Mid-career General CDR researcher at Stockholm Environment Institute in SE. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.338048
+date: 2026-07-10T01:07:47.420866
 url: "/cdr-researcher-census/researchers/maria-xylia-a5040956/"
 layout: "researcher"
 hiddenInHomeList: true

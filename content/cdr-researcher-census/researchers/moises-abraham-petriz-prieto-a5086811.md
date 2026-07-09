@@ -1,7 +1,7 @@
 ---
 title: "Moisés Abraham Petriz-Prieto"
 description: "Moisés Abraham Petriz-Prieto is a Mid-career Unknown researcher at Universidad Juárez Autónoma de Tabasco in MX. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.453137
+date: 2026-07-10T01:07:48.441860
 url: "/cdr-researcher-census/researchers/moises-abraham-petriz-prieto-a5086811/"
 layout: "researcher"
 hiddenInHomeList: true

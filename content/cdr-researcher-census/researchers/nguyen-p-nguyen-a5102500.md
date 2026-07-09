@@ -1,7 +1,7 @@
 ---
 title: "Nguyen P. Nguyen"
 description: "Nguyen P. Nguyen is an Early-career Ocean CDR researcher at University of Bremen in DE. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.192061
+date: 2026-07-10T01:07:49.105804
 url: "/cdr-researcher-census/researchers/nguyen-p-nguyen-a5102500/"
 layout: "researcher"
 hiddenInHomeList: true

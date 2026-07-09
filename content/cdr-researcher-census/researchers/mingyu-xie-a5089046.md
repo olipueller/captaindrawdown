@@ -1,7 +1,7 @@
 ---
 title: "Mingyu Xie"
 description: "Mingyu Xie is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.014029
+date: 2026-07-10T01:07:48.021805
 url: "/cdr-researcher-census/researchers/mingyu-xie-a5089046/"
 layout: "researcher"
 hiddenInHomeList: true

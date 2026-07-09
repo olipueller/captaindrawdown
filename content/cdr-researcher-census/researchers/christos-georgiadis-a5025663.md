@@ -1,7 +1,7 @@
 ---
 title: "Christos Georgiadis"
 description: "Christos Georgiadis is a Senior Unknown researcher at UCLouvain in BE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.167326
+date: 2026-07-10T01:07:48.184486
 url: "/cdr-researcher-census/researchers/christos-georgiadis-a5025663/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Elaine Ng"
 description: "Elaine Ng is a Senior Unknown researcher at The University of Texas at Austin in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.626968
+date: 2026-07-10T01:07:48.587088
 url: "/cdr-researcher-census/researchers/elaine-ng-a5068257/"
 layout: "researcher"
 hiddenInHomeList: true

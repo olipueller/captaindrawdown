@@ -1,7 +1,7 @@
 ---
 title: "Fatma Mansour"
 description: "Fatma Mansour is an Early-career Unknown researcher at Siirt Üniversitesi in TR. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.664949
+date: 2026-07-10T01:07:47.722248
 url: "/cdr-researcher-census/researchers/fatma-mansour-a5007833/"
 layout: "researcher"
 hiddenInHomeList: true

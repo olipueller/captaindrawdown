@@ -1,7 +1,7 @@
 ---
 title: "Sayone Thihalolipavan"
 description: "Sayone Thihalolipavan is a Mid-career Unknown researcher at Health and Human Services Agency in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.180559
+date: 2026-07-10T01:07:48.196511
 url: "/cdr-researcher-census/researchers/sayone-thihalolipavan-a5045535/"
 layout: "researcher"
 hiddenInHomeList: true

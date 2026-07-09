@@ -1,7 +1,7 @@
 ---
 title: "Matteo Gazzani"
 description: "Matteo Gazzani is a Senior General CDR researcher at Technische Universiteit Eindhoven in NL. With 123 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.932996
+date: 2026-07-10T01:07:46.952192
 url: "/cdr-researcher-census/researchers/matteo-gazzani-a5040380/"
 layout: "researcher"
 hiddenInHomeList: true

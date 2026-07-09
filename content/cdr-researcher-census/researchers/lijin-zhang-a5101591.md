@@ -1,7 +1,7 @@
 ---
 title: "Lijin Zhang"
 description: "Lijin Zhang is a Senior Soil Carbon researcher at Guizhou University in CN. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.250082
+date: 2026-07-10T01:07:47.334903
 url: "/cdr-researcher-census/researchers/lijin-zhang-a5101591/"
 layout: "researcher"
 hiddenInHomeList: true

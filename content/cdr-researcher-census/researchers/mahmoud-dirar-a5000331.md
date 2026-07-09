@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Dirar"
 description: "Mahmoud Dirar is a Mid-career Unknown researcher at Minia University in EG. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.055870
+date: 2026-07-10T01:07:48.968889
 url: "/cdr-researcher-census/researchers/mahmoud-dirar-a5000331/"
 layout: "researcher"
 hiddenInHomeList: true

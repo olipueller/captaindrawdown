@@ -1,7 +1,7 @@
 ---
 title: "Hongcen Li"
 description: "Hongcen Li is a Mid-career General CDR researcher at Hefei University of Technology in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.126675
+date: 2026-07-10T01:07:49.031893
 url: "/cdr-researcher-census/researchers/hongcen-li-a5113412/"
 layout: "researcher"
 hiddenInHomeList: true

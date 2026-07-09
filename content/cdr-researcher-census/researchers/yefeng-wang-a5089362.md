@@ -1,7 +1,7 @@
 ---
 title: "Yefeng Wang"
 description: "Yefeng Wang is a Senior Soil Carbon researcher at Shaanxi Normal University in CN. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.308072
+date: 2026-07-10T01:07:47.390225
 url: "/cdr-researcher-census/researchers/yefeng-wang-a5089362/"
 layout: "researcher"
 hiddenInHomeList: true

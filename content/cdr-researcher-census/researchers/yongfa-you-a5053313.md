@@ -1,7 +1,7 @@
 ---
 title: "Yongfa You"
 description: "Yongfa You is a Mid-career Soil Carbon researcher at Virginia Tech in US. With 62 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.307436
+date: 2026-07-10T01:07:47.389447
 url: "/cdr-researcher-census/researchers/yongfa-you-a5053313/"
 layout: "researcher"
 hiddenInHomeList: true

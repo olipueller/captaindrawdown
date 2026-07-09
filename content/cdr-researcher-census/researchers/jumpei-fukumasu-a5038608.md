@@ -1,7 +1,7 @@
 ---
 title: "Jumpei Fukumasu"
 description: "Jumpei Fukumasu is a Mid-career Soil Carbon researcher at National Agriculture and Food Research Organization in JP. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.246820
+date: 2026-07-10T01:07:48.255023
 url: "/cdr-researcher-census/researchers/jumpei-fukumasu-a5038608/"
 layout: "researcher"
 hiddenInHomeList: true

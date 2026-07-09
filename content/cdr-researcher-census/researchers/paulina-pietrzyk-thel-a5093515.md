@@ -1,7 +1,7 @@
 ---
 title: "Paulina Pietrzyk-Thel"
 description: "Paulina Pietrzyk-Thel is a Mid-career Biochar researcher at Institute of Fundamental Technological Research in PL. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.408474
+date: 2026-07-10T01:07:48.400056
 url: "/cdr-researcher-census/researchers/paulina-pietrzyk-thel-a5093515/"
 layout: "researcher"
 hiddenInHomeList: true

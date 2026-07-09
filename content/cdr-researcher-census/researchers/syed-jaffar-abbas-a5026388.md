@@ -1,7 +1,7 @@
 ---
 title: "Syed Jaffar Abbas"
 description: "Syed Jaffar Abbas is a Mid-career Unknown researcher at Government of Pakistan in PK. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.956363
+date: 2026-07-10T01:07:48.878228
 url: "/cdr-researcher-census/researchers/syed-jaffar-abbas-a5026388/"
 layout: "researcher"
 hiddenInHomeList: true

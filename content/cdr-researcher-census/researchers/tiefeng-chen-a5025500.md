@@ -1,7 +1,7 @@
 ---
 title: "Tiefeng Chen"
 description: "Tiefeng Chen is a Senior Biochar researcher at Nanyang Technological University in SG. With 60 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.018772
+date: 2026-07-10T01:07:47.084702
 url: "/cdr-researcher-census/researchers/tiefeng-chen-a5025500/"
 layout: "researcher"
 hiddenInHomeList: true

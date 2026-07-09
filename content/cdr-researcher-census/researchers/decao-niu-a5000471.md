@@ -1,7 +1,7 @@
 ---
 title: "Decao Niu"
 description: "Decao Niu is a Senior Soil Carbon researcher at Ministry of Agriculture in EE. With 76 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.165692
+date: 2026-07-10T01:07:47.255465
 url: "/cdr-researcher-census/researchers/decao-niu-a5000471/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Júnior Melo Damian"
 description: "Júnior Melo Damian is a Mid-career Soil Carbon researcher at Embrapa Agricultura Digital in BR. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.496486
+date: 2026-07-10T01:07:47.566425
 url: "/cdr-researcher-census/researchers/junior-melo-damian-a5051326/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Danhui Xin"
 description: "Danhui Xin is a Mid-career Biochar researcher at SCCWRP in US. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.719184
+date: 2026-07-10T01:07:47.772707
 url: "/cdr-researcher-census/researchers/danhui-xin-a5041347/"
 layout: "researcher"
 hiddenInHomeList: true

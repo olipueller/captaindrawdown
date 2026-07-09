@@ -1,7 +1,7 @@
 ---
 title: "Sheela Priyadarshinee"
 description: "Sheela Priyadarshinee is a Mid-career Biochar researcher at Government of Tamil Nadu in IN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.838511
+date: 2026-07-10T01:07:47.874530
 url: "/cdr-researcher-census/researchers/sheela-priyadarshinee-a5057651/"
 layout: "researcher"
 hiddenInHomeList: true

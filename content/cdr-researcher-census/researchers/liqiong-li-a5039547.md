@@ -1,7 +1,7 @@
 ---
 title: "Liqiong Li"
 description: "Liqiong Li is a Senior Soil Carbon researcher at Jinan University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.130283
+date: 2026-07-10T01:07:49.034858
 url: "/cdr-researcher-census/researchers/liqiong-li-a5039547/"
 layout: "researcher"
 hiddenInHomeList: true

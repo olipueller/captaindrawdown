@@ -1,7 +1,7 @@
 ---
 title: "Pilar Andrés"
 description: "Pilar Andrés is a Senior Soil Carbon researcher at Centre for Research on Ecology and Forestry Applications in ES. With 46 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.136575
+date: 2026-07-10T01:07:47.225393
 url: "/cdr-researcher-census/researchers/pilar-andres-a5029608/"
 layout: "researcher"
 hiddenInHomeList: true

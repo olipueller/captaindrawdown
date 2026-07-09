@@ -1,7 +1,7 @@
 ---
 title: "Shrila Das"
 description: "Shrila Das is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 65 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.211758
+date: 2026-07-10T01:07:47.299233
 url: "/cdr-researcher-census/researchers/shrila-das-a5113468/"
 layout: "researcher"
 hiddenInHomeList: true

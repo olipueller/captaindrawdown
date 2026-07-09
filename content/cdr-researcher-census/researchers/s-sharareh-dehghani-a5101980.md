@@ -1,7 +1,7 @@
 ---
 title: "S. Sharareh Dehghani"
 description: "S. Sharareh Dehghani is a Mid-career Unknown researcher at Albert Einstein College of Medicine in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.058336
+date: 2026-07-10T01:07:48.971044
 url: "/cdr-researcher-census/researchers/s-sharareh-dehghani-a5101980/"
 layout: "researcher"
 hiddenInHomeList: true

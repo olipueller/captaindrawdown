@@ -1,7 +1,7 @@
 ---
 title: "Zongmin Zhu"
 description: "Zongmin Zhu is a Mid-career Unknown researcher at Affiliated Hospital of Shandong University of Traditional Chinese Medicine in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.146542
+date: 2026-07-10T01:07:49.048738
 url: "/cdr-researcher-census/researchers/zongmin-zhu-a5108987/"
 layout: "researcher"
 hiddenInHomeList: true

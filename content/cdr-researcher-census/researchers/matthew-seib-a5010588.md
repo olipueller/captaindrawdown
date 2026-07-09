@@ -1,7 +1,7 @@
 ---
 title: "Matthew Seib"
 description: "Matthew Seib is a Mid-career Unknown researcher at Milwaukee Metropolitan Sewerage District in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.937287
+date: 2026-07-10T01:07:47.949737
 url: "/cdr-researcher-census/researchers/matthew-seib-a5010588/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jianzhong Cheng"
 description: "Jianzhong Cheng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.341580
+date: 2026-07-10T01:07:47.424594
 url: "/cdr-researcher-census/researchers/jianzhong-cheng-a5103236/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chao‐Lan Huang"
 description: "Chao‐Lan Huang is a Mid-career Unknown researcher at National Yang Ming Chiao Tung University in TW. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.235849
+date: 2026-07-10T01:07:48.245414
 url: "/cdr-researcher-census/researchers/chaolan-huang-a5041203/"
 layout: "researcher"
 hiddenInHomeList: true

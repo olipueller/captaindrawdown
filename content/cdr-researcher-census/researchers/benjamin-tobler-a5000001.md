@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Tobler"
 description: "Benjamin Tobler is a Mid-career Unknown researcher at University of Zurich in CH. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.019390
+date: 2026-07-10T01:07:48.935387
 url: "/cdr-researcher-census/researchers/benjamin-tobler-a5000001/"
 layout: "researcher"
 hiddenInHomeList: true

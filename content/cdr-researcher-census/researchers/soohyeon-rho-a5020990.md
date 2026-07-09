@@ -1,7 +1,7 @@
 ---
 title: "Soohyeon Rho"
 description: "Soohyeon Rho is a Mid-career Unknown researcher at Sungkyunkwan University in KR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.124444
+date: 2026-07-10T01:07:49.029786
 url: "/cdr-researcher-census/researchers/soohyeon-rho-a5020990/"
 layout: "researcher"
 hiddenInHomeList: true

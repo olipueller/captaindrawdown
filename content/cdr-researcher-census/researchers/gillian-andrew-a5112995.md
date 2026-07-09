@@ -1,7 +1,7 @@
 ---
 title: "Gillian Andrew"
 description: "Gillian Andrew is a Mid-career Unknown researcher. With 9 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.053483
+date: 2026-07-10T01:07:47.129106
 url: "/cdr-researcher-census/researchers/gillian-andrew-a5112995/"
 layout: "researcher"
 hiddenInHomeList: true

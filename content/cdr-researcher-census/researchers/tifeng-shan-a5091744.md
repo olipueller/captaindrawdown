@@ -1,7 +1,7 @@
 ---
 title: "Ti‐Feng Shan"
 description: "Ti‐Feng Shan is an Early-career Ocean CDR researcher at Institute of Oceanology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.421600
+date: 2026-07-10T01:07:48.412148
 url: "/cdr-researcher-census/researchers/tifeng-shan-a5091744/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Priyanshu Chandra"
 description: "Priyanshu Chandra is a Mid-career Ocean CDR researcher at Dartmouth College in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.840782
+date: 2026-07-10T01:07:47.876556
 url: "/cdr-researcher-census/researchers/priyanshu-chandra-a5000222/"
 layout: "researcher"
 hiddenInHomeList: true

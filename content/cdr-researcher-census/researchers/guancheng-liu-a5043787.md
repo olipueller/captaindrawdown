@@ -1,7 +1,7 @@
 ---
 title: "Guancheng Liu"
 description: "Guancheng Liu is a Mid-career Soil Carbon researcher at Qufu Normal University in CN. With 79 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.099676
+date: 2026-07-10T01:07:47.183625
 url: "/cdr-researcher-census/researchers/guancheng-liu-a5043787/"
 layout: "researcher"
 hiddenInHomeList: true

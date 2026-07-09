@@ -1,7 +1,7 @@
 ---
 title: "Lukas Blickensdörfer"
 description: "Lukas Blickensdörfer is a Mid-career Unknown researcher at Humboldt-Universität zu Berlin in DE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.578768
+date: 2026-07-10T01:07:47.641808
 url: "/cdr-researcher-census/researchers/lukas-blickensdorfer-a5059021/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ruiyang Zhang"
 description: "Ruiyang Zhang is a Senior Soil Carbon researcher at Institute of Geographic Sciences and Natural Resources Research in CN. With 119 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.977137
+date: 2026-07-10T01:07:47.024800
 url: "/cdr-researcher-census/researchers/ruiyang-zhang-a5102899/"
 layout: "researcher"
 hiddenInHomeList: true

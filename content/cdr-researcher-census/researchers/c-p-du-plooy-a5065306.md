@@ -1,7 +1,7 @@
 ---
 title: "C. P. du Plooy"
 description: "C. P. du Plooy is a Mid-career Unknown researcher at Agricultural Research Council of South Africa in ZA. With 8 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.570938
+date: 2026-07-10T01:07:48.549167
 url: "/cdr-researcher-census/researchers/c-p-du-plooy-a5065306/"
 layout: "researcher"
 hiddenInHomeList: true

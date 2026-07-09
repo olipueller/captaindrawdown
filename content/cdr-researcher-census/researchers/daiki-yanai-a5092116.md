@@ -1,7 +1,7 @@
 ---
 title: "Daiki Yanai"
 description: "Daiki Yanai is an Early-career Unknown researcher at The University of Tokyo in JP. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.332257
+date: 2026-07-10T01:07:48.332592
 url: "/cdr-researcher-census/researchers/daiki-yanai-a5092116/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "A. Prajith"
 description: "A. Prajith is a Mid-career Unknown researcher at National Centre for Earth Science Studies in IN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.480267
+date: 2026-07-10T01:07:48.467198
 url: "/cdr-researcher-census/researchers/a-prajith-a5103082/"
 layout: "researcher"
 hiddenInHomeList: true

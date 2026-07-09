@@ -1,7 +1,7 @@
 ---
 title: "Divyansh Chug"
 description: "Divyansh Chug is a Mid-career Unknown researcher at University of Illinois Urbana-Champaign in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.641482
+date: 2026-07-10T01:07:48.600130
 url: "/cdr-researcher-census/researchers/divyansh-chug-a5065868/"
 layout: "researcher"
 hiddenInHomeList: true

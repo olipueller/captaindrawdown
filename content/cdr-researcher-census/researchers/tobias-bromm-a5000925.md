@@ -1,7 +1,7 @@
 ---
 title: "Tobias Bromm"
 description: "Tobias Bromm is a Mid-career Biochar researcher at Luther University in KR. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.496360
+date: 2026-07-10T01:07:47.566326
 url: "/cdr-researcher-census/researchers/tobias-bromm-a5000925/"
 layout: "researcher"
 hiddenInHomeList: true

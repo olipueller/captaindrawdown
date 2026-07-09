@@ -1,7 +1,7 @@
 ---
 title: "Xiaotian Shen"
 description: "Xiaotian Shen is a Mid-career Enhanced Weathering researcher at Xiamen University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.166588
+date: 2026-07-10T01:07:49.057066
 url: "/cdr-researcher-census/researchers/xiaotian-shen-a5010373/"
 layout: "researcher"
 hiddenInHomeList: true

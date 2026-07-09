@@ -1,7 +1,7 @@
 ---
 title: "Nur Atiqah Mohamad Aziz"
 description: "Nur Atiqah Mohamad Aziz is a Mid-career Unknown researcher at Universiti Tenaga Nasional in MY. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.883870
+date: 2026-07-10T01:07:47.899150
 url: "/cdr-researcher-census/researchers/nur-atiqah-mohamad-aziz-a5051277/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rohan Awati"
 description: "Rohan Awati is a Mid-career Unknown researcher at Georgia Institute of Technology in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.078060
+date: 2026-07-10T01:07:48.080176
 url: "/cdr-researcher-census/researchers/rohan-awati-a5064426/"
 layout: "researcher"
 hiddenInHomeList: true

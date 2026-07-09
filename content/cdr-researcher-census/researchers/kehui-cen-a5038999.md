@@ -1,7 +1,7 @@
 ---
 title: "Kehui Cen"
 description: "Kehui Cen is a Senior Biochar researcher at Nanjing Forestry University in CN. With 50 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.991403
+date: 2026-07-10T01:07:47.047833
 url: "/cdr-researcher-census/researchers/kehui-cen-a5038999/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaohua Zeng"
 description: "Xiaohua Zeng is a Mid-career Unknown researcher at Jilin University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.507666
+date: 2026-07-10T01:07:48.492877
 url: "/cdr-researcher-census/researchers/xiaohua-zeng-a5101934/"
 layout: "researcher"
 hiddenInHomeList: true

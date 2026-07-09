@@ -1,7 +1,7 @@
 ---
 title: "Hassane Bil‐Assanou Issoufou"
 description: "Hassane Bil‐Assanou Issoufou is a Senior Soil Carbon researcher at Université de Maradi in NE. With 41 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.453100
+date: 2026-07-10T01:07:47.528423
 url: "/cdr-researcher-census/researchers/hassane-bilassanou-issoufou-a5048256/"
 layout: "researcher"
 hiddenInHomeList: true

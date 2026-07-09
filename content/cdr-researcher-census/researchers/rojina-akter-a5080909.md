@@ -1,7 +1,7 @@
 ---
 title: "Rojina Akter"
 description: "Rojina Akter is a Senior Soil Carbon researcher at Okayama University in JP. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.393717
+date: 2026-07-10T01:07:48.386340
 url: "/cdr-researcher-census/researchers/rojina-akter-a5080909/"
 layout: "researcher"
 hiddenInHomeList: true

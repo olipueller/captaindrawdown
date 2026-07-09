@@ -1,7 +1,7 @@
 ---
 title: "Mai-Duy-Thong Pham"
 description: "Mai-Duy-Thong Pham is a Mid-career Biochar researcher at Vietnam National University Ho Chi Minh City in VN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.983655
+date: 2026-07-10T01:07:47.992755
 url: "/cdr-researcher-census/researchers/mai-duy-thong-pham-a5071474/"
 layout: "researcher"
 hiddenInHomeList: true

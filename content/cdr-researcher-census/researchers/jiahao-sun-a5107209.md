@@ -1,7 +1,7 @@
 ---
 title: "Jiahao Sun"
 description: "Jiahao Sun is a Mid-career Biochar researcher at Shandong University of Traditional Chinese Medicine in CN. With 43 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.854203
+date: 2026-07-10T01:07:47.889726
 url: "/cdr-researcher-census/researchers/jiahao-sun-a5107209/"
 layout: "researcher"
 hiddenInHomeList: true

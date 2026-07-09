@@ -1,7 +1,7 @@
 ---
 title: "Haizhou Yu"
 description: "Haizhou Yu is a Mid-career Unknown researcher at Xuzhou Medical College in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.820987
+date: 2026-07-10T01:07:48.756142
 url: "/cdr-researcher-census/researchers/haizhou-yu-a5113755/"
 layout: "researcher"
 hiddenInHomeList: true

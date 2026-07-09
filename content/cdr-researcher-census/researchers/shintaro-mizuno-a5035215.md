@@ -1,7 +1,7 @@
 ---
 title: "Shintaro Mizuno"
 description: "Shintaro Mizuno is a Senior General CDR researcher at Toyota Central R&D Labs., Inc. in JP. With 80 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.379940
+date: 2026-07-10T01:07:47.461629
 url: "/cdr-researcher-census/researchers/shintaro-mizuno-a5035215/"
 layout: "researcher"
 hiddenInHomeList: true

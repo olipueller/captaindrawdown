@@ -1,7 +1,7 @@
 ---
 title: "Jihyeon Jeon"
 description: "Jihyeon Jeon is a Mid-career Unknown researcher at Seoul National University in KR. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.569229
+date: 2026-07-10T01:07:48.547766
 url: "/cdr-researcher-census/researchers/jihyeon-jeon-a5102765/"
 layout: "researcher"
 hiddenInHomeList: true

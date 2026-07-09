@@ -1,7 +1,7 @@
 ---
 title: "Julide Kahkeci"
 description: "Julide Kahkeci is an Early-career Biochar researcher at University of Alberta in CA. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.182041
+date: 2026-07-10T01:07:49.095881
 url: "/cdr-researcher-census/researchers/julide-kahkeci-a5093023/"
 layout: "researcher"
 hiddenInHomeList: true

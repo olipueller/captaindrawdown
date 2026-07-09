@@ -1,7 +1,7 @@
 ---
 title: "Shishun Wang"
 description: "Shishun Wang is a Mid-career Unknown researcher at Shanghai Ocean University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.848586
+date: 2026-07-10T01:07:48.779581
 url: "/cdr-researcher-census/researchers/shishun-wang-a5083235/"
 layout: "researcher"
 hiddenInHomeList: true

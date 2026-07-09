@@ -1,7 +1,7 @@
 ---
 title: "Joshua Jack"
 description: "Joshua Jack is a Senior General CDR researcher at University of Michigan in US. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.712476
+date: 2026-07-10T01:07:47.766791
 url: "/cdr-researcher-census/researchers/joshua-jack-a5046945/"
 layout: "researcher"
 hiddenInHomeList: true

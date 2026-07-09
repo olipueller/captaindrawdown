@@ -1,7 +1,7 @@
 ---
 title: "Shumei Cai"
 description: "Shumei Cai is a Senior Unknown researcher at Shanghai Academy of Agricultural Sciences in CN. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.383149
+date: 2026-07-10T01:07:48.378388
 url: "/cdr-researcher-census/researchers/shumei-cai-a5101648/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Joshua Landis"
 description: "Joshua Landis is a Mid-career Unknown researcher at University of Massachusetts Lowell in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.164376
+date: 2026-07-10T01:07:49.055116
 url: "/cdr-researcher-census/researchers/joshua-landis-a5008141/"
 layout: "researcher"
 hiddenInHomeList: true

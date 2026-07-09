@@ -1,7 +1,7 @@
 ---
 title: "Xianguo Lyu"
 description: "Xianguo Lyu is a Mid-career Unknown researcher. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.381289
+date: 2026-07-10T01:07:48.377321
 url: "/cdr-researcher-census/researchers/xianguo-lyu-a5103914/"
 layout: "researcher"
 hiddenInHomeList: true

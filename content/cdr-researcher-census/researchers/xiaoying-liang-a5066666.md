@@ -1,7 +1,7 @@
 ---
 title: "Xiaoying Liang"
 description: "Xiaoying Liang is a Senior Unknown researcher at Guangdong University of Technology in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.084969
+date: 2026-07-10T01:07:48.995150
 url: "/cdr-researcher-census/researchers/xiaoying-liang-a5066666/"
 layout: "researcher"
 hiddenInHomeList: true

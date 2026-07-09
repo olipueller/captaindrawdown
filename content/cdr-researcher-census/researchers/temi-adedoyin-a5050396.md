@@ -1,7 +1,7 @@
 ---
 title: "Temi Adedoyin"
 description: "Temi Adedoyin is a Mid-career Unknown researcher at Cancer Research UK in GB. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.139838
+date: 2026-07-10T01:07:47.228478
 url: "/cdr-researcher-census/researchers/temi-adedoyin-a5050396/"
 layout: "researcher"
 hiddenInHomeList: true

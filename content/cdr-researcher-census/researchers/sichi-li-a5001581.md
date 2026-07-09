@@ -1,7 +1,7 @@
 ---
 title: "Sichi Li"
 description: "Sichi Li is a Senior DAC researcher at Lawrence Livermore National Laboratory in US. With 66 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.075963
+date: 2026-07-10T01:07:47.155728
 url: "/cdr-researcher-census/researchers/sichi-li-a5001581/"
 layout: "researcher"
 hiddenInHomeList: true

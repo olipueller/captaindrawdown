@@ -1,7 +1,7 @@
 ---
 title: "Longzhu Wang"
 description: "Longzhu Wang is an Early-career Soil Carbon researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.188191
+date: 2026-07-10T01:07:48.203021
 url: "/cdr-researcher-census/researchers/longzhu-wang-a5015706/"
 layout: "researcher"
 hiddenInHomeList: true

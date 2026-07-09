@@ -1,7 +1,7 @@
 ---
 title: "Manoj Patowary"
 description: "Manoj Patowary is a Mid-career Unknown researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.711119
+date: 2026-07-10T01:07:48.662599
 url: "/cdr-researcher-census/researchers/manoj-patowary-a5029616/"
 layout: "researcher"
 hiddenInHomeList: true

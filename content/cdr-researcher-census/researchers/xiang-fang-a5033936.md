@@ -1,7 +1,7 @@
 ---
 title: "Xiang Fang"
 description: "Xiang Fang is an Early-career Biochar researcher at Sichuan University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.731730
+date: 2026-07-10T01:07:48.680407
 url: "/cdr-researcher-census/researchers/xiang-fang-a5033936/"
 layout: "researcher"
 hiddenInHomeList: true

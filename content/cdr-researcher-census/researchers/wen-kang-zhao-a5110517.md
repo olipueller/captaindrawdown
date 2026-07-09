@@ -1,7 +1,7 @@
 ---
 title: "Wen Kang Zhao"
 description: "Wen Kang Zhao is a Mid-career Unknown researcher at Beijing University of Technology in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.000026
+date: 2026-07-10T01:07:48.009374
 url: "/cdr-researcher-census/researchers/wen-kang-zhao-a5110517/"
 layout: "researcher"
 hiddenInHomeList: true

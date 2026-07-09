@@ -1,7 +1,7 @@
 ---
 title: "Nowsherwan Zarif"
 description: "Nowsherwan Zarif is a Mid-career Unknown researcher at Pakistan Forest Institute Peshawar, Pakistan in PK. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.028679
+date: 2026-07-10T01:07:48.944539
 url: "/cdr-researcher-census/researchers/nowsherwan-zarif-a5079472/"
 layout: "researcher"
 hiddenInHomeList: true

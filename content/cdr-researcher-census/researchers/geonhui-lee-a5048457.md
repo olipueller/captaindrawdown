@@ -1,7 +1,7 @@
 ---
 title: "Geonhui Lee"
 description: "Geonhui Lee is a Senior General CDR researcher at Seoul National University in KR. With 68 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.957205
+date: 2026-07-10T01:07:46.993792
 url: "/cdr-researcher-census/researchers/geonhui-lee-a5048457/"
 layout: "researcher"
 hiddenInHomeList: true

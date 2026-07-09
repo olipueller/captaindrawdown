@@ -1,7 +1,7 @@
 ---
 title: "Madelon F. Case"
 description: "Madelon F. Case is a Mid-career Soil Carbon researcher at U.S. Department of the Interior in US. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.430130
+date: 2026-07-10T01:07:47.507968
 url: "/cdr-researcher-census/researchers/madelon-f-case-a5002903/"
 layout: "researcher"
 hiddenInHomeList: true

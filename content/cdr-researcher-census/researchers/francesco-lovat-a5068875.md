@@ -1,7 +1,7 @@
 ---
 title: "Francesco Lovat"
 description: "Francesco Lovat is an Early-career General CDR researcher at Danish Energy Agency in DK. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.897300
+date: 2026-07-10T01:07:48.823032
 url: "/cdr-researcher-census/researchers/francesco-lovat-a5068875/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Binh Gia Nguyen"
 description: "Binh Gia Nguyen is a Senior Unknown researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.243585
+date: 2026-07-10T01:07:48.252270
 url: "/cdr-researcher-census/researchers/binh-gia-nguyen-a5035638/"
 layout: "researcher"
 hiddenInHomeList: true

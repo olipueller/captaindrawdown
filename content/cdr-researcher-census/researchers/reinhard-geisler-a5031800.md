@@ -1,7 +1,7 @@
 ---
 title: "Reinhard Geisler"
 description: "Reinhard Geisler is a Senior Unknown researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 217 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.130603
+date: 2026-07-10T01:07:47.219443
 url: "/cdr-researcher-census/researchers/reinhard-geisler-a5031800/"
 layout: "researcher"
 hiddenInHomeList: true

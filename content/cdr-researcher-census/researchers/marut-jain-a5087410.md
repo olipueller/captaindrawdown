@@ -1,7 +1,7 @@
 ---
 title: "Marut Jain"
 description: "Marut Jain is a Mid-career Unknown researcher at The University of Queensland in AU. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.551884
+date: 2026-07-10T01:07:47.615960
 url: "/cdr-researcher-census/researchers/marut-jain-a5087410/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Martin A. Coombes"
 description: "Martin A. Coombes is a Senior Ocean CDR researcher at University of Oxford in GB. With 54 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.166313
+date: 2026-07-10T01:07:47.256014
 url: "/cdr-researcher-census/researchers/martin-a-coombes-a5034503/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Imene Dridi"
 description: "Imene Dridi is a Mid-career Soil Carbon researcher at Tunis University in TN. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.243519
+date: 2026-07-10T01:07:49.151704
 url: "/cdr-researcher-census/researchers/imene-dridi-a5085703/"
 layout: "researcher"
 hiddenInHomeList: true

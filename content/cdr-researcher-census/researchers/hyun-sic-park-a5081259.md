@@ -1,7 +1,7 @@
 ---
 title: "Hyun Sic Park"
 description: "Hyun Sic Park is a Mid-career Unknown researcher at Yonsei University in KR. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.403681
+date: 2026-07-10T01:07:48.395319
 url: "/cdr-researcher-census/researchers/hyun-sic-park-a5081259/"
 layout: "researcher"
 hiddenInHomeList: true

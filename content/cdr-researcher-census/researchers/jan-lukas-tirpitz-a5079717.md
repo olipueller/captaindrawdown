@@ -1,7 +1,7 @@
 ---
 title: "Jan-Lukas Tirpitz"
 description: "Jan-Lukas Tirpitz is a Mid-career Unknown researcher at University of Colorado Boulder in US. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.499484
+date: 2026-07-10T01:07:47.569221
 url: "/cdr-researcher-census/researchers/jan-lukas-tirpitz-a5079717/"
 layout: "researcher"
 hiddenInHomeList: true

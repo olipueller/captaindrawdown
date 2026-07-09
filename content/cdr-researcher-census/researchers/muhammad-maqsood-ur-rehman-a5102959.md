@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Maqsood Ur Rehman"
 description: "Muhammad Maqsood Ur Rehman is a Mid-career Soil Carbon researcher at Khyber Medical College in PK. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.668032
+date: 2026-07-10T01:07:47.725176
 url: "/cdr-researcher-census/researchers/muhammad-maqsood-ur-rehman-a5102959/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "David van Acken"
 description: "David van Acken is a Senior Enhanced Weathering researcher at University College Dublin in IE. With 73 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.289562
+date: 2026-07-10T01:07:47.371741
 url: "/cdr-researcher-census/researchers/david-van-acken-a5062740/"
 layout: "researcher"
 hiddenInHomeList: true

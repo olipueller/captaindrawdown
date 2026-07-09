@@ -1,7 +1,7 @@
 ---
 title: "Girish Ramakrishnan"
 description: "Girish Ramakrishnan is a Senior Unknown researcher. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.681590
+date: 2026-07-10T01:07:47.737964
 url: "/cdr-researcher-census/researchers/girish-ramakrishnan-a5057712/"
 layout: "researcher"
 hiddenInHomeList: true

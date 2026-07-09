@@ -1,7 +1,7 @@
 ---
 title: "John Stults"
 description: "John Stults is a Mid-career Unknown researcher at CDM Smith (United States) in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.847549
+date: 2026-07-10T01:07:47.883331
 url: "/cdr-researcher-census/researchers/john-stults-a5074062/"
 layout: "researcher"
 hiddenInHomeList: true

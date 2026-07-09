@@ -1,7 +1,7 @@
 ---
 title: "Arnie Janson"
 description: "Arnie Janson is an Early-career Unknown researcher at Qatar Science and Technology Park in QA. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.172405
+date: 2026-07-10T01:07:49.062321
 url: "/cdr-researcher-census/researchers/arnie-janson-a5017823/"
 layout: "researcher"
 hiddenInHomeList: true

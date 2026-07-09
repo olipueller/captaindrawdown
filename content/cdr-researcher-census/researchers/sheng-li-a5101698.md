@@ -1,7 +1,7 @@
 ---
 title: "Sheng Li"
 description: "Sheng Li is a Senior General CDR researcher at Qilu University of Technology in CN. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.470332
+date: 2026-07-10T01:07:47.542920
 url: "/cdr-researcher-census/researchers/sheng-li-a5101698/"
 layout: "researcher"
 hiddenInHomeList: true

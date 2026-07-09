@@ -1,7 +1,7 @@
 ---
 title: "Rongjian Cui"
 description: "Rongjian Cui is a Mid-career Unknown researcher at Jiangsu Maritime Institute in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.417901
+date: 2026-07-10T01:07:48.408874
 url: "/cdr-researcher-census/researchers/rongjian-cui-a5047385/"
 layout: "researcher"
 hiddenInHomeList: true

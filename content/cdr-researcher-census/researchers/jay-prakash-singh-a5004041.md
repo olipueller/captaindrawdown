@@ -1,7 +1,7 @@
 ---
 title: "Jay Prakash Singh"
 description: "Jay Prakash Singh is a Mid-career Unknown researcher at Thompson Rivers University in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.926121
+date: 2026-07-10T01:07:48.849554
 url: "/cdr-researcher-census/researchers/jay-prakash-singh-a5004041/"
 layout: "researcher"
 hiddenInHomeList: true

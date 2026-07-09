@@ -1,7 +1,7 @@
 ---
 title: "Zhichao Lou"
 description: "Zhichao Lou is a Mid-career Unknown researcher at Nanjing Forestry University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.850808
+date: 2026-07-10T01:07:47.886560
 url: "/cdr-researcher-census/researchers/zhichao-lou-a5103013/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ane Gabriele Vaz Souza"
 description: "Ane Gabriele Vaz Souza is a Mid-career Soil Carbon researcher at Universidade Estadual de Goiás in BR. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.064147
+date: 2026-07-10T01:07:48.976258
 url: "/cdr-researcher-census/researchers/ane-gabriele-vaz-souza-a5043127/"
 layout: "researcher"
 hiddenInHomeList: true

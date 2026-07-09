@@ -1,7 +1,7 @@
 ---
 title: "Imlitoshi Jamir"
 description: "Imlitoshi Jamir is a Mid-career Unknown researcher at Nagaland University in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.368015
+date: 2026-07-10T01:07:48.365294
 url: "/cdr-researcher-census/researchers/imlitoshi-jamir-a5047080/"
 layout: "researcher"
 hiddenInHomeList: true

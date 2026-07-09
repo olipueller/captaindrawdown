@@ -1,7 +1,7 @@
 ---
 title: "Tadesse Beyene"
 description: "Tadesse Beyene is a Mid-career Unknown researcher at Mekelle University in ET. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.802901
+date: 2026-07-10T01:07:47.850261
 url: "/cdr-researcher-census/researchers/tadesse-beyene-a5111958/"
 layout: "researcher"
 hiddenInHomeList: true

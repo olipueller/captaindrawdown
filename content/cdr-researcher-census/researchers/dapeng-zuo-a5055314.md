@@ -1,7 +1,7 @@
 ---
 title: "Dapeng Zuo"
 description: "Dapeng Zuo is a Mid-career Unknown researcher at China Meteorological Administration in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.051705
+date: 2026-07-10T01:07:48.965359
 url: "/cdr-researcher-census/researchers/dapeng-zuo-a5055314/"
 layout: "researcher"
 hiddenInHomeList: true

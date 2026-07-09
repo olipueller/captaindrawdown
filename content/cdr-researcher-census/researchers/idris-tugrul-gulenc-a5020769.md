@@ -1,7 +1,7 @@
 ---
 title: "İdris Tuğrul Gülenç"
 description: "İdris Tuğrul Gülenç is a Mid-career Unknown researcher at Ankara Yıldırım Beyazıt University in TR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.705493
+date: 2026-07-10T01:07:48.657853
 url: "/cdr-researcher-census/researchers/idris-tugrul-gulenc-a5020769/"
 layout: "researcher"
 hiddenInHomeList: true

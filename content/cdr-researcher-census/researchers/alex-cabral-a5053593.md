@@ -1,7 +1,7 @@
 ---
 title: "Alex Cabral"
 description: "Alex Cabral is a Mid-career Soil Carbon researcher at Trinity College Dublin in IE. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.428919
+date: 2026-07-10T01:07:47.506894
 url: "/cdr-researcher-census/researchers/alex-cabral-a5053593/"
 layout: "researcher"
 hiddenInHomeList: true

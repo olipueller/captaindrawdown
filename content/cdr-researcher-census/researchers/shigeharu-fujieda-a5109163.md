@@ -1,7 +1,7 @@
 ---
 title: "Shigeharu Fujieda"
 description: "Shigeharu Fujieda is a Senior Unknown researcher at University of Fukui in JP. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.454914
+date: 2026-07-10T01:07:48.443542
 url: "/cdr-researcher-census/researchers/shigeharu-fujieda-a5109163/"
 layout: "researcher"
 hiddenInHomeList: true

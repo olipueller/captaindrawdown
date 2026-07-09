@@ -1,7 +1,7 @@
 ---
 title: "Uemeson José dos Santos"
 description: "Uemeson José dos Santos is a Senior Soil Carbon researcher at Universidade Federal do Oeste do Pará in BR. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.472559
+date: 2026-07-10T01:07:47.544997
 url: "/cdr-researcher-census/researchers/uemeson-jose-dos-santos-a5080770/"
 layout: "researcher"
 hiddenInHomeList: true

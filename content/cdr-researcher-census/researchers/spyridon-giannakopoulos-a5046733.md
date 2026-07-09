@@ -1,7 +1,7 @@
 ---
 title: "Spyridon Giannakopoulos"
 description: "Spyridon Giannakopoulos is a Senior Unknown researcher at University of Patras in GR. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.974766
+date: 2026-07-10T01:07:48.894692
 url: "/cdr-researcher-census/researchers/spyridon-giannakopoulos-a5046733/"
 layout: "researcher"
 hiddenInHomeList: true

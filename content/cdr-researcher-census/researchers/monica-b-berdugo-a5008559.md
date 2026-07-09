@@ -1,7 +1,7 @@
 ---
 title: "Mónica B. Berdugo"
 description: "Mónica B. Berdugo is a Senior Unknown researcher at Philipps-Universität Marburg in DE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.069498
+date: 2026-07-10T01:07:48.072181
 url: "/cdr-researcher-census/researchers/monica-b-berdugo-a5008559/"
 layout: "researcher"
 hiddenInHomeList: true

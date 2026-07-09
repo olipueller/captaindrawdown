@@ -1,7 +1,7 @@
 ---
 title: "Rico Hübner"
 description: "Rico Hübner is a Senior Soil Carbon researcher at Deutscher Fachverband für Agroforstwirtschaft (DeFAF) e.V. in DE. With 73 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.165915
+date: 2026-07-10T01:07:47.255664
 url: "/cdr-researcher-census/researchers/rico-hubner-a5024825/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Indrani Choudhury"
 description: "Indrani Choudhury is a Senior Unknown researcher at Indian Space Research Organisation in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.612440
+date: 2026-07-10T01:07:48.573873
 url: "/cdr-researcher-census/researchers/indrani-choudhury-a5005589/"
 layout: "researcher"
 hiddenInHomeList: true

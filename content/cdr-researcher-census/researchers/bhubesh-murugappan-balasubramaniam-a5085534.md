@@ -1,7 +1,7 @@
 ---
 title: "Bhubesh Murugappan Balasubramaniam"
 description: "Bhubesh Murugappan Balasubramaniam is an Early-career Unknown researcher at University of Alberta in CA. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.789036
+date: 2026-07-10T01:07:48.730181
 url: "/cdr-researcher-census/researchers/bhubesh-murugappan-balasubramaniam-a5085534/"
 layout: "researcher"
 hiddenInHomeList: true

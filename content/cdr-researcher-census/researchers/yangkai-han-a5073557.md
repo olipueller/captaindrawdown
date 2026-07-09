@@ -1,7 +1,7 @@
 ---
 title: "Yangkai Han"
 description: "Yangkai Han is a Mid-career Unknown researcher at Dalian Institute of Chemical Physics in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.847278
+date: 2026-07-10T01:07:48.778464
 url: "/cdr-researcher-census/researchers/yangkai-han-a5073557/"
 layout: "researcher"
 hiddenInHomeList: true

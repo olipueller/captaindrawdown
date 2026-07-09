@@ -1,7 +1,7 @@
 ---
 title: "Tom Kettlety"
 description: "Tom Kettlety is a Mid-career General CDR researcher at University of Oxford in GB. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.029095
+date: 2026-07-10T01:07:48.036303
 url: "/cdr-researcher-census/researchers/tom-kettlety-a5039173/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jhonattas de Carvalho Carregosa"
 description: "Jhonattas de Carvalho Carregosa is a Mid-career Biochar researcher at Universidade Federal de Sergipe in BR. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.611761
+date: 2026-07-10T01:07:48.573314
 url: "/cdr-researcher-census/researchers/jhonattas-de-carvalho-carregosa-a5017300/"
 layout: "researcher"
 hiddenInHomeList: true

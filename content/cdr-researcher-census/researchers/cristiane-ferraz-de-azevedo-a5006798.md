@@ -1,7 +1,7 @@
 ---
 title: "Cristiane Ferraz de Azevedo"
 description: "Cristiane Ferraz de Azevedo is a Mid-career Biochar researcher at Universidade Federal de Pelotas in BR. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.803348
+date: 2026-07-10T01:07:47.850669
 url: "/cdr-researcher-census/researchers/cristiane-ferraz-de-azevedo-a5006798/"
 layout: "researcher"
 hiddenInHomeList: true

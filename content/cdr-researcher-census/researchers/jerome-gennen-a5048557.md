@@ -1,7 +1,7 @@
 ---
 title: "Jérôme Gennen"
 description: "Jérôme Gennen is a Senior Soil Carbon researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.425232
+date: 2026-07-10T01:07:47.503648
 url: "/cdr-researcher-census/researchers/jerome-gennen-a5048557/"
 layout: "researcher"
 hiddenInHomeList: true

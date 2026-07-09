@@ -1,7 +1,7 @@
 ---
 title: "Satya Prakash"
 description: "Satya Prakash is a Senior Ocean CDR researcher at Indian National Center for Ocean Information Services in IN. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.470728
+date: 2026-07-10T01:07:47.543277
 url: "/cdr-researcher-census/researchers/satya-prakash-a5101644/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "K.S. Anantha Raju"
 description: "K.S. Anantha Raju is a Senior Unknown researcher at Indian Institute of Petroleum in IN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.919566
+date: 2026-07-10T01:07:47.933220
 url: "/cdr-researcher-census/researchers/ks-anantha-raju-a5101519/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Franziska Eller"
 description: "Franziska Eller is a Senior Soil Carbon researcher at SEGES Innovation P/S in DK. With 100 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.114752
+date: 2026-07-10T01:07:47.201323
 url: "/cdr-researcher-census/researchers/franziska-eller-a5052754/"
 layout: "researcher"
 hiddenInHomeList: true

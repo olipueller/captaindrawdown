@@ -1,7 +1,7 @@
 ---
 title: "Agnieszka Tomczyk"
 description: "Agnieszka Tomczyk is a Mid-career Biochar researcher at Institute of Agrophysics in PL. With 29 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.995741
+date: 2026-07-10T01:07:47.054488
 url: "/cdr-researcher-census/researchers/agnieszka-tomczyk-a5003568/"
 layout: "researcher"
 hiddenInHomeList: true

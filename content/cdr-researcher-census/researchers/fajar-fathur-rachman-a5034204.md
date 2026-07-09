@@ -1,7 +1,7 @@
 ---
 title: "Fajar Fathur Rachman"
 description: "Fajar Fathur Rachman is an Early-career Unknown researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.556676
+date: 2026-07-10T01:07:48.536845
 url: "/cdr-researcher-census/researchers/fajar-fathur-rachman-a5034204/"
 layout: "researcher"
 hiddenInHomeList: true

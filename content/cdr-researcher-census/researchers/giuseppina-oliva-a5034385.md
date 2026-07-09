@@ -1,7 +1,7 @@
 ---
 title: "Giuseppina Oliva"
 description: "Giuseppina Oliva is a Mid-career General CDR researcher at University of Salerno in IT. With 60 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.383985
+date: 2026-07-10T01:07:47.465354
 url: "/cdr-researcher-census/researchers/giuseppina-oliva-a5034385/"
 layout: "researcher"
 hiddenInHomeList: true

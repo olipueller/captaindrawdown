@@ -1,7 +1,7 @@
 ---
 title: "Jiayan Long"
 description: "Jiayan Long is a Mid-career Unknown researcher at Jiangnan University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.718350
+date: 2026-07-10T01:07:47.771885
 url: "/cdr-researcher-census/researchers/jiayan-long-a5089199/"
 layout: "researcher"
 hiddenInHomeList: true

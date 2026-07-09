@@ -1,7 +1,7 @@
 ---
 title: "Shaik Dawood Abdul Khadar"
 description: "Shaik Dawood Abdul Khadar is a Mid-career Unknown researcher at King Khalid University in SA. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.145591
+date: 2026-07-10T01:07:48.165686
 url: "/cdr-researcher-census/researchers/shaik-dawood-abdul-khadar-a5068864/"
 layout: "researcher"
 hiddenInHomeList: true

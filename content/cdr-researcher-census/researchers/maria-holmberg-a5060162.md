@@ -1,7 +1,7 @@
 ---
 title: "Maria Holmberg"
 description: "Maria Holmberg is a Senior Soil Carbon researcher at Finnish Environment Institute in FI. With 114 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.081195
+date: 2026-07-10T01:07:47.162005
 url: "/cdr-researcher-census/researchers/maria-holmberg-a5060162/"
 layout: "researcher"
 hiddenInHomeList: true

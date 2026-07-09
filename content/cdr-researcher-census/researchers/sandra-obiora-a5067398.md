@@ -1,7 +1,7 @@
 ---
 title: "Sandra Obiora"
 description: "Sandra Obiora is a Mid-career General CDR researcher at Leeds Beckett University in GB. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.372958
+date: 2026-07-10T01:07:47.455166
 url: "/cdr-researcher-census/researchers/sandra-obiora-a5067398/"
 layout: "researcher"
 hiddenInHomeList: true

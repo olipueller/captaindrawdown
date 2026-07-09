@@ -1,7 +1,7 @@
 ---
 title: "Nils Thonemann"
 description: "Nils Thonemann is a Senior Ocean CDR researcher at Leiden University in NL. With 88 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.021301
+date: 2026-07-10T01:07:47.087824
 url: "/cdr-researcher-census/researchers/nils-thonemann-a5005000/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Matteo Cutugno"
 description: "Matteo Cutugno is a Mid-career Soil Carbon researcher at Giustino Fortunato University in IT. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.475487
+date: 2026-07-10T01:07:48.462680
 url: "/cdr-researcher-census/researchers/matteo-cutugno-a5013955/"
 layout: "researcher"
 hiddenInHomeList: true

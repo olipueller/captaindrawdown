@@ -1,7 +1,7 @@
 ---
 title: "Charles Lo"
 description: "Charles Lo is a Senior Unknown researcher at University of Minnesota in US. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.066919
+date: 2026-07-10T01:07:48.978515
 url: "/cdr-researcher-census/researchers/charles-lo-a5034093/"
 layout: "researcher"
 hiddenInHomeList: true

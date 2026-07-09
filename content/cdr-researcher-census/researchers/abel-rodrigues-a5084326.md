@@ -1,7 +1,7 @@
 ---
 title: "Abel Rodrigues"
 description: "Abel Rodrigues is a Senior General CDR researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 88 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.051455
+date: 2026-07-10T01:07:47.126378
 url: "/cdr-researcher-census/researchers/abel-rodrigues-a5084326/"
 layout: "researcher"
 hiddenInHomeList: true

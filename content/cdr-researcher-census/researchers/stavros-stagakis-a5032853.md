@@ -1,7 +1,7 @@
 ---
 title: "Stavros Stagakis"
 description: "Stavros Stagakis is a Senior General CDR researcher at University of Basel in CH. With 89 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.313544
+date: 2026-07-10T01:07:47.395650
 url: "/cdr-researcher-census/researchers/stavros-stagakis-a5032853/"
 layout: "researcher"
 hiddenInHomeList: true

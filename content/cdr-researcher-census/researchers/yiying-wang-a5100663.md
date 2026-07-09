@@ -1,7 +1,7 @@
 ---
 title: "Yiying Wang"
 description: "Yiying Wang is a Mid-career Soil Carbon researcher at Beijing University of Chinese Medicine in CN. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.457205
+date: 2026-07-10T01:07:47.531883
 url: "/cdr-researcher-census/researchers/yiying-wang-a5100663/"
 layout: "researcher"
 hiddenInHomeList: true

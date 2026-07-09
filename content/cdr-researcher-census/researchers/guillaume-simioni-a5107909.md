@@ -1,7 +1,7 @@
 ---
 title: "Guillaume Simioni"
 description: "Guillaume Simioni is a Mid-career Unknown researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.450994
+date: 2026-07-10T01:07:48.439804
 url: "/cdr-researcher-census/researchers/guillaume-simioni-a5107909/"
 layout: "researcher"
 hiddenInHomeList: true

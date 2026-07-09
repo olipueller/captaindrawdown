@@ -1,7 +1,7 @@
 ---
 title: "Jiudong Zhang"
 description: "Jiudong Zhang is a Senior Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.371667
+date: 2026-07-10T01:07:47.453889
 url: "/cdr-researcher-census/researchers/jiudong-zhang-a5050290/"
 layout: "researcher"
 hiddenInHomeList: true

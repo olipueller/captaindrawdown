@@ -1,7 +1,7 @@
 ---
 title: "Harriet Smith"
 description: "Harriet Smith is a Senior General CDR researcher at Cardiff University in GB. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.084366
+date: 2026-07-10T01:07:48.994599
 url: "/cdr-researcher-census/researchers/harriet-smith-a5025000/"
 layout: "researcher"
 hiddenInHomeList: true

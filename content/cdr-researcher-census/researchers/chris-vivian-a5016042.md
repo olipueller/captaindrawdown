@@ -1,7 +1,7 @@
 ---
 title: "Chris Vivian"
 description: "Chris Vivian is a Senior Ocean CDR researcher at Gesellschaft für Klinische Forschung in DE. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.380398
+date: 2026-07-10T01:07:47.462066
 url: "/cdr-researcher-census/researchers/chris-vivian-a5016042/"
 layout: "researcher"
 hiddenInHomeList: true

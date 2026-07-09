@@ -1,7 +1,7 @@
 ---
 title: "Linxia Gao"
 description: "Linxia Gao is a Mid-career Biochar researcher at Hubei University of Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.558543
+date: 2026-07-10T01:07:47.622558
 url: "/cdr-researcher-census/researchers/linxia-gao-a5049466/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yanli Fu"
 description: "Yanli Fu is a Mid-career Biochar researcher at University of Jinan in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.229272
+date: 2026-07-10T01:07:48.239431
 url: "/cdr-researcher-census/researchers/yanli-fu-a5007857/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Quanhou Dai"
 description: "Quanhou Dai is a Senior Soil Carbon researcher at Guizhou University in CN. With 110 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.064390
+date: 2026-07-10T01:07:47.141728
 url: "/cdr-researcher-census/researchers/quanhou-dai-a5063866/"
 layout: "researcher"
 hiddenInHomeList: true

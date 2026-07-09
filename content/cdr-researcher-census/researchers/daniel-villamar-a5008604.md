@@ -1,7 +1,7 @@
 ---
 title: "Daniel Villamar"
 description: "Daniel Villamar is a Mid-career General CDR researcher at National Polytechnic School in EC. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.728769
+date: 2026-07-10T01:07:47.780822
 url: "/cdr-researcher-census/researchers/daniel-villamar-a5008604/"
 layout: "researcher"
 hiddenInHomeList: true

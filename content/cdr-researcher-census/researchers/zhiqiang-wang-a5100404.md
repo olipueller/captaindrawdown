@@ -1,7 +1,7 @@
 ---
 title: "Zhiqiang Wang"
 description: "Zhiqiang Wang is a Senior Biochar researcher at North China University of Science and Technology in CN. With 73 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.409653
+date: 2026-07-10T01:07:47.489248
 url: "/cdr-researcher-census/researchers/zhiqiang-wang-a5100404/"
 layout: "researcher"
 hiddenInHomeList: true

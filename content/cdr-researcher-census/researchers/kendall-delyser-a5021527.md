@@ -1,7 +1,7 @@
 ---
 title: "Kendall DeLyser"
 description: "Kendall DeLyser is a Mid-career Soil Carbon researcher at American Forests in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.771803
+date: 2026-07-10T01:07:48.715643
 url: "/cdr-researcher-census/researchers/kendall-delyser-a5021527/"
 layout: "researcher"
 hiddenInHomeList: true

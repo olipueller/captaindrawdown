@@ -1,7 +1,7 @@
 ---
 title: "Yann Quilcaille"
 description: "Yann Quilcaille is a Mid-career General CDR researcher at ETH Zurich in CH. With 104 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.170220
+date: 2026-07-10T01:07:47.260100
 url: "/cdr-researcher-census/researchers/yann-quilcaille-a5088021/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ziming Zhou"
 description: "Ziming Zhou is a Senior Unknown researcher at Changchun University of Technology. With 33 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.067032
+date: 2026-07-10T01:07:48.978609
 url: "/cdr-researcher-census/researchers/ziming-zhou-a5043535/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mudassir Hussain Tahir"
 description: "Mudassir Hussain Tahir is a Mid-career Unknown researcher at Nanjing Forestry University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.093053
+date: 2026-07-10T01:07:48.092859
 url: "/cdr-researcher-census/researchers/mudassir-hussain-tahir-a5101996/"
 layout: "researcher"
 hiddenInHomeList: true

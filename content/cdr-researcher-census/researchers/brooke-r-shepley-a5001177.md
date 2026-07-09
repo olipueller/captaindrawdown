@@ -1,7 +1,7 @@
 ---
 title: "Brooke R. Shepley"
 description: "Brooke R. Shepley is a Senior Unknown researcher at University of Windsor in CA. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.522911
+date: 2026-07-10T01:07:48.505936
 url: "/cdr-researcher-census/researchers/brooke-r-shepley-a5001177/"
 layout: "researcher"
 hiddenInHomeList: true

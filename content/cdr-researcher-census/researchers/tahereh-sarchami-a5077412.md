@@ -1,7 +1,7 @@
 ---
 title: "Tahereh Sarchami"
 description: "Tahereh Sarchami is a Mid-career Biochar researcher at Western University in CA. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.792745
+date: 2026-07-10T01:07:47.841259
 url: "/cdr-researcher-census/researchers/tahereh-sarchami-a5077412/"
 layout: "researcher"
 hiddenInHomeList: true

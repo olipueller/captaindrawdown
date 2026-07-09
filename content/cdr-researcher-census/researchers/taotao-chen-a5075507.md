@@ -1,7 +1,7 @@
 ---
 title: "Taotao Chen"
 description: "Taotao Chen is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 131 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.967645
+date: 2026-07-10T01:07:47.010179
 url: "/cdr-researcher-census/researchers/taotao-chen-a5075507/"
 layout: "researcher"
 hiddenInHomeList: true

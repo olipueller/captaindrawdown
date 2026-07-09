@@ -1,7 +1,7 @@
 ---
 title: "Fiorella Massa"
 description: "Fiorella Massa is a Mid-career Biochar researcher at National Research Council in IT. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.890216
+date: 2026-07-10T01:07:48.816813
 url: "/cdr-researcher-census/researchers/fiorella-massa-a5069690/"
 layout: "researcher"
 hiddenInHomeList: true

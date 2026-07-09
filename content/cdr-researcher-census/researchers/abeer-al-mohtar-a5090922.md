@@ -1,7 +1,7 @@
 ---
 title: "Abeer Al Mohtar"
 description: "Abeer Al Mohtar is a Mid-career Unknown researcher at University of Lisbon in PT. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.854865
+date: 2026-07-10T01:07:47.890441
 url: "/cdr-researcher-census/researchers/abeer-al-mohtar-a5090922/"
 layout: "researcher"
 hiddenInHomeList: true

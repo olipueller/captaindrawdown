@@ -1,7 +1,7 @@
 ---
 title: "Alok Kumar Patra"
 description: "Alok Kumar Patra is a Senior Soil Carbon researcher at Odisha University of Agriculture and Technology in IN. With 42 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.989822
+date: 2026-07-10T01:07:48.908816
 url: "/cdr-researcher-census/researchers/alok-kumar-patra-a5028625/"
 layout: "researcher"
 hiddenInHomeList: true

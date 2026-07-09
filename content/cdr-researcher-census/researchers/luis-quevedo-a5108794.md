@@ -1,7 +1,7 @@
 ---
 title: "Luis Quevedo"
 description: "Luis Quevedo is a Senior Unknown researcher. With 31 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.925999
+date: 2026-07-10T01:07:48.849426
 url: "/cdr-researcher-census/researchers/luis-quevedo-a5108794/"
 layout: "researcher"
 hiddenInHomeList: true

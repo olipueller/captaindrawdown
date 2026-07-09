@@ -1,7 +1,7 @@
 ---
 title: "Ritums Cepitis"
 description: "Ritums Cepitis is a Mid-career Ocean CDR researcher at University of Alicante in ES. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.241087
+date: 2026-07-10T01:07:48.250050
 url: "/cdr-researcher-census/researchers/ritums-cepitis-a5072406/"
 layout: "researcher"
 hiddenInHomeList: true

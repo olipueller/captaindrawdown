@@ -1,7 +1,7 @@
 ---
 title: "Judith Naamala"
 description: "Judith Naamala is a Mid-career Unknown researcher at McGill University in CA. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.375649
+date: 2026-07-10T01:07:47.457659
 url: "/cdr-researcher-census/researchers/judith-naamala-a5076023/"
 layout: "researcher"
 hiddenInHomeList: true

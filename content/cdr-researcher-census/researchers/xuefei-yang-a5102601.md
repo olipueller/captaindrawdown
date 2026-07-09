@@ -1,7 +1,7 @@
 ---
 title: "Xuefei Yang"
 description: "Xuefei Yang is a Senior Biochar researcher at Changchun Observatory in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.700372
+date: 2026-07-10T01:07:47.755414
 url: "/cdr-researcher-census/researchers/xuefei-yang-a5102601/"
 layout: "researcher"
 hiddenInHomeList: true

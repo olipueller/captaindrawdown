@@ -1,7 +1,7 @@
 ---
 title: "Seong Heon Kim"
 description: "Seong Heon Kim is a Senior Soil Carbon researcher at Rural Development Administration in KR. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.915546
+date: 2026-07-10T01:07:47.928814
 url: "/cdr-researcher-census/researchers/seong-heon-kim-a5101621/"
 layout: "researcher"
 hiddenInHomeList: true

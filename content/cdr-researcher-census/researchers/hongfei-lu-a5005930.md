@@ -1,7 +1,7 @@
 ---
 title: "Hongfei Lu"
 description: "Hongfei Lu is a Mid-career Unknown researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.159054
+date: 2026-07-10T01:07:48.177634
 url: "/cdr-researcher-census/researchers/hongfei-lu-a5005930/"
 layout: "researcher"
 hiddenInHomeList: true

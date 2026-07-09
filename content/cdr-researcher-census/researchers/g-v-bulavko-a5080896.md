@@ -1,7 +1,7 @@
 ---
 title: "G. V. Bulavko"
 description: "G. V. Bulavko is a Mid-career Unknown researcher at Taras Shevchenko National University of Kyiv in UA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.590066
+date: 2026-07-10T01:07:48.554235
 url: "/cdr-researcher-census/researchers/g-v-bulavko-a5080896/"
 layout: "researcher"
 hiddenInHomeList: true

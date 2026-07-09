@@ -1,7 +1,7 @@
 ---
 title: "Niloofar Alipourasiabi"
 description: "Niloofar Alipourasiabi is a Mid-career Unknown researcher at Polymer Institute of the Slovak Academy of Sciences in SK. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.448807
+date: 2026-07-10T01:07:48.437803
 url: "/cdr-researcher-census/researchers/niloofar-alipourasiabi-a5072388/"
 layout: "researcher"
 hiddenInHomeList: true

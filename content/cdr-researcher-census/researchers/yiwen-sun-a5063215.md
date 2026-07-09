@@ -1,7 +1,7 @@
 ---
 title: "Yiwen Sun"
 description: "Yiwen Sun is a Mid-career Unknown researcher at Shanghai University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.117757
+date: 2026-07-10T01:07:49.023725
 url: "/cdr-researcher-census/researchers/yiwen-sun-a5063215/"
 layout: "researcher"
 hiddenInHomeList: true

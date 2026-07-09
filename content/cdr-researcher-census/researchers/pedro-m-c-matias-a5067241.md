@@ -1,7 +1,7 @@
 ---
 title: "Pedro M. C. Matias"
 description: "Pedro M. C. Matias is a Mid-career Unknown researcher at Fraunhofer Portugal Research in PT. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.081733
+date: 2026-07-10T01:07:48.083145
 url: "/cdr-researcher-census/researchers/pedro-m-c-matias-a5067241/"
 layout: "researcher"
 hiddenInHomeList: true

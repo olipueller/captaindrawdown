@@ -1,7 +1,7 @@
 ---
 title: "Alan Rodrigues Teixeira Machado"
 description: "Alan Rodrigues Teixeira Machado is a Senior Biochar researcher at Universidade do Estado de Minas Gerais in BR. With 93 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.595434
+date: 2026-07-10T01:07:47.658508
 url: "/cdr-researcher-census/researchers/alan-rodrigues-teixeira-machado-a5039928/"
 layout: "researcher"
 hiddenInHomeList: true

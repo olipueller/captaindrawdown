@@ -1,7 +1,7 @@
 ---
 title: "Amir Taqieddin"
 description: "Amir Taqieddin is a Mid-career Ocean CDR researcher at Solid Power (United States) in US. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.145090
+date: 2026-07-10T01:07:47.233998
 url: "/cdr-researcher-census/researchers/amir-taqieddin-a5042267/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiangning Yin"
 description: "Jiangning Yin is a Mid-career Unknown researcher at Beijing Institute of Geology for Mineral Resources in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.768221
+date: 2026-07-10T01:07:48.712464
 url: "/cdr-researcher-census/researchers/jiangning-yin-a5034441/"
 layout: "researcher"
 hiddenInHomeList: true

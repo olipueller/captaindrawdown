@@ -1,7 +1,7 @@
 ---
 title: "Pricila Vetrano Rizzo"
 description: "Pricila Vetrano Rizzo is a Senior Soil Carbon researcher at Brazilian Agricultural Research Corporation in BR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.878851
+date: 2026-07-10T01:07:48.806283
 url: "/cdr-researcher-census/researchers/pricila-vetrano-rizzo-a5046757/"
 layout: "researcher"
 hiddenInHomeList: true

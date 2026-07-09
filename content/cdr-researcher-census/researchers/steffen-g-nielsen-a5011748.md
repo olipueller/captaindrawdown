@@ -1,7 +1,7 @@
 ---
 title: "Steffen G. Nielsen"
 description: "Steffen G. Nielsen is a Mid-career General CDR researcher at Aalborg University in DK. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.897395
+date: 2026-07-10T01:07:48.823123
 url: "/cdr-researcher-census/researchers/steffen-g-nielsen-a5011748/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Diya Agrawal"
 description: "Diya Agrawal is an Early-career Unknown researcher. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.235204
+date: 2026-07-10T01:07:49.144380
 url: "/cdr-researcher-census/researchers/diya-agrawal-a5102582/"
 layout: "researcher"
 hiddenInHomeList: true

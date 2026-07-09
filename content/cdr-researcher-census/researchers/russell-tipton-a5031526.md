@@ -1,7 +1,7 @@
 ---
 title: "Russell Tipton"
 description: "Russell Tipton is a Senior Unknown researcher at Ohio University in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.308735
+date: 2026-07-10T01:07:48.311571
 url: "/cdr-researcher-census/researchers/russell-tipton-a5031526/"
 layout: "researcher"
 hiddenInHomeList: true

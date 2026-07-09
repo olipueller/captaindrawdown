@@ -1,7 +1,7 @@
 ---
 title: "Robert J. Panetta"
 description: "Robert J. Panetta is a Senior Unknown researcher at McGill University in CA. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.175392
+date: 2026-07-10T01:07:49.064949
 url: "/cdr-researcher-census/researchers/robert-j-panetta-a5062940/"
 layout: "researcher"
 hiddenInHomeList: true

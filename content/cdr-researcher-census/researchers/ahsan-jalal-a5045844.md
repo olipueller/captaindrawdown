@@ -1,7 +1,7 @@
 ---
 title: "Ahsan Jalal"
 description: "Ahsan Jalal is a Senior Biochar researcher at Bilkent University in TR. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.296321
+date: 2026-07-10T01:07:47.378790
 url: "/cdr-researcher-census/researchers/ahsan-jalal-a5045844/"
 layout: "researcher"
 hiddenInHomeList: true

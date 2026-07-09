@@ -1,7 +1,7 @@
 ---
 title: "Hualin Li"
 description: "Hualin Li is a Senior Unknown researcher at Beijing Forestry University in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.640145
+date: 2026-07-10T01:07:48.598877
 url: "/cdr-researcher-census/researchers/hualin-li-a5069732/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Han Chen"
 description: "Han Chen is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.986310
+date: 2026-07-10T01:07:48.905723
 url: "/cdr-researcher-census/researchers/han-chen-a5114094/"
 layout: "researcher"
 hiddenInHomeList: true

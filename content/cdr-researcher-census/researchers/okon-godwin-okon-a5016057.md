@@ -1,7 +1,7 @@
 ---
 title: "Okon Godwin Okon"
 description: "Okon Godwin Okon is a Mid-career Soil Carbon researcher at Akwa Ibom State University in NG. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.617860
+date: 2026-07-10T01:07:48.578961
 url: "/cdr-researcher-census/researchers/okon-godwin-okon-a5016057/"
 layout: "researcher"
 hiddenInHomeList: true

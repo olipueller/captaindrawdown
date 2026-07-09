@@ -1,7 +1,7 @@
 ---
 title: "Bhanu Pratap"
 description: "Bhanu Pratap is a Mid-career Biochar researcher at Babasaheb Bhimrao Ambedkar University in IN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.807634
+date: 2026-07-10T01:07:47.854111
 url: "/cdr-researcher-census/researchers/bhanu-pratap-a5009631/"
 layout: "researcher"
 hiddenInHomeList: true

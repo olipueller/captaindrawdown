@@ -1,7 +1,7 @@
 ---
 title: "Matthias Strobel"
 description: "Matthias Strobel is a Senior Unknown researcher at University of Alabama in US. With 73 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.274519
+date: 2026-07-10T01:07:47.357179
 url: "/cdr-researcher-census/researchers/matthias-strobel-a5051920/"
 layout: "researcher"
 hiddenInHomeList: true

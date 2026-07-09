@@ -1,7 +1,7 @@
 ---
 title: "Zhenxi Xie"
 description: "Zhenxi Xie is an Early-career Soil Carbon researcher at South China Agricultural University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.219563
+date: 2026-07-10T01:07:49.130343
 url: "/cdr-researcher-census/researchers/zhenxi-xie-a5079266/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Aisha Al Suwaidi"
 description: "Aisha Al Suwaidi is a Mid-career Unknown researcher at Khalifa University in AE. With 71 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.627773
+date: 2026-07-10T01:07:47.687590
 url: "/cdr-researcher-census/researchers/aisha-al-suwaidi-a5008804/"
 layout: "researcher"
 hiddenInHomeList: true

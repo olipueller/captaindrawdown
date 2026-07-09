@@ -1,7 +1,7 @@
 ---
 title: "Amiza Surmi"
 description: "Amiza Surmi is a Mid-career Unknown researcher at Petronas (Malaysia) in MY. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.095618
+date: 2026-07-10T01:07:49.004196
 url: "/cdr-researcher-census/researchers/amiza-surmi-a5067661/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yueyan Chen"
 description: "Yueyan Chen is a Mid-career Soil Carbon researcher at Zhejiang Lab in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.989370
+date: 2026-07-10T01:07:48.908442
 url: "/cdr-researcher-census/researchers/yueyan-chen-a5113051/"
 layout: "researcher"
 hiddenInHomeList: true

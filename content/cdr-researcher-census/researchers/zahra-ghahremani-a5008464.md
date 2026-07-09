@@ -1,7 +1,7 @@
 ---
 title: "Zahra Ghahremani"
 description: "Zahra Ghahremani is a Mid-career Soil Carbon researcher at Boise State University in US. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.120975
+date: 2026-07-10T01:07:49.026622
 url: "/cdr-researcher-census/researchers/zahra-ghahremani-a5008464/"
 layout: "researcher"
 hiddenInHomeList: true

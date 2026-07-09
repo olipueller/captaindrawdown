@@ -1,7 +1,7 @@
 ---
 title: "Justin Rosenthal"
 description: "Justin Rosenthal is a Mid-career Unknown researcher at National Institutes of Health in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.906005
+date: 2026-07-10T01:07:48.831469
 url: "/cdr-researcher-census/researchers/justin-rosenthal-a5064302/"
 layout: "researcher"
 hiddenInHomeList: true

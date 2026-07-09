@@ -1,7 +1,7 @@
 ---
 title: "Hang Guo"
 description: "Hang Guo is a Senior Unknown researcher at Xi'an University of Science and Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.357736
+date: 2026-07-10T01:07:48.356265
 url: "/cdr-researcher-census/researchers/hang-guo-a5086090/"
 layout: "researcher"
 hiddenInHomeList: true

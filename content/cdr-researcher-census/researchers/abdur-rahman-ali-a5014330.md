@@ -1,7 +1,7 @@
 ---
 title: "Abdur-Rahman Ali"
 description: "Abdur-Rahman Ali is a Mid-career General CDR researcher at Cycle (Germany) in DE. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.434531
+date: 2026-07-10T01:07:48.424745
 url: "/cdr-researcher-census/researchers/abdur-rahman-ali-a5014330/"
 layout: "researcher"
 hiddenInHomeList: true

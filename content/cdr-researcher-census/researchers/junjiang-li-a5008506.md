@@ -1,7 +1,7 @@
 ---
 title: "Junjiang Li"
 description: "Junjiang Li is a Senior Unknown researcher at Zhejiang Huafon TPU Co., Ltd in CN. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.890428
+date: 2026-07-10T01:07:48.816994
 url: "/cdr-researcher-census/researchers/junjiang-li-a5008506/"
 layout: "researcher"
 hiddenInHomeList: true

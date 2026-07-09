@@ -1,7 +1,7 @@
 ---
 title: "Malinda S. Thilakarathna"
 description: "Malinda S. Thilakarathna is a Mid-career General CDR researcher at University of Alberta in CA. With 55 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.125357
+date: 2026-07-10T01:07:47.212307
 url: "/cdr-researcher-census/researchers/malinda-s-thilakarathna-a5042504/"
 layout: "researcher"
 hiddenInHomeList: true

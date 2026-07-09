@@ -1,7 +1,7 @@
 ---
 title: "Farizan Aris"
 description: "Farizan Aris is a Mid-career Unknown researcher at Universiti Teknologi MARA in MY. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.212951
+date: 2026-07-10T01:07:49.124688
 url: "/cdr-researcher-census/researchers/farizan-aris-a5072875/"
 layout: "researcher"
 hiddenInHomeList: true

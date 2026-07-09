@@ -1,7 +1,7 @@
 ---
 title: "Jiheon Kim"
 description: "Jiheon Kim is a Senior General CDR researcher at University of Toronto in CA. With 92 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.961693
+date: 2026-07-10T01:07:47.000100
 url: "/cdr-researcher-census/researchers/jiheon-kim-a5072665/"
 layout: "researcher"
 hiddenInHomeList: true

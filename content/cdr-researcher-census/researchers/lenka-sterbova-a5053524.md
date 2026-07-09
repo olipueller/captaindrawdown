@@ -1,7 +1,7 @@
 ---
 title: "Lenka Štěrbová"
 description: "Lenka Štěrbová is a Mid-career Soil Carbon researcher at Czech Academy of Sciences, Global Change Research Institute in CZ. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.536809
+date: 2026-07-10T01:07:48.518795
 url: "/cdr-researcher-census/researchers/lenka-sterbova-a5053524/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lara M. Schuijt"
 description: "Lara M. Schuijt is a Mid-career Unknown researcher at Wageningen University & Research in NL. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.140901
+date: 2026-07-10T01:07:48.161929
 url: "/cdr-researcher-census/researchers/lara-m-schuijt-a5025193/"
 layout: "researcher"
 hiddenInHomeList: true

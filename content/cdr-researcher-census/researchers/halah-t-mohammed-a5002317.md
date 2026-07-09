@@ -1,7 +1,7 @@
 ---
 title: "Halah T. Mohammed"
 description: "Halah T. Mohammed is a Mid-career Unknown researcher at University of Babylon in IQ. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.894185
+date: 2026-07-10T01:07:47.909181
 url: "/cdr-researcher-census/researchers/halah-t-mohammed-a5002317/"
 layout: "researcher"
 hiddenInHomeList: true

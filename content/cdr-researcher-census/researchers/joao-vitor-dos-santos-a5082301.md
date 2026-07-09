@@ -1,7 +1,7 @@
 ---
 title: "João Vitor dos Santos"
 description: "João Vitor dos Santos is a Mid-career Soil Carbon researcher at Old Dominion University in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.968292
+date: 2026-07-10T01:07:47.978927
 url: "/cdr-researcher-census/researchers/joao-vitor-dos-santos-a5082301/"
 layout: "researcher"
 hiddenInHomeList: true

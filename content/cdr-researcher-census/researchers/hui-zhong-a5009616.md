@@ -1,7 +1,7 @@
 ---
 title: "Hui Zhong"
 description: "Hui Zhong is a Senior Unknown researcher at Hong Kong University of Science and Technology in HK. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.435685
+date: 2026-07-10T01:07:48.425872
 url: "/cdr-researcher-census/researchers/hui-zhong-a5009616/"
 layout: "researcher"
 hiddenInHomeList: true

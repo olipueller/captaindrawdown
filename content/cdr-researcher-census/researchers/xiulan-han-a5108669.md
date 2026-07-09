@@ -1,7 +1,7 @@
 ---
 title: "Xiulan Han"
 description: "Xiulan Han is a Senior Soil Carbon researcher at State Forestry and Grassland Administration in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.528433
+date: 2026-07-10T01:07:47.595033
 url: "/cdr-researcher-census/researchers/xiulan-han-a5108669/"
 layout: "researcher"
 hiddenInHomeList: true

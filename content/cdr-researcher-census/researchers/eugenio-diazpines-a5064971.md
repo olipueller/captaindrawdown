@@ -1,7 +1,7 @@
 ---
 title: "Eugenio Díaz‐Pinés"
 description: "Eugenio Díaz‐Pinés is a Senior Soil Carbon researcher at Universität für Bodenkultur Wien in AT. With 115 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.999080
+date: 2026-07-10T01:07:47.059399
 url: "/cdr-researcher-census/researchers/eugenio-diazpines-a5064971/"
 layout: "researcher"
 hiddenInHomeList: true

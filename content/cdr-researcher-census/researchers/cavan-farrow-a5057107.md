@@ -1,7 +1,7 @@
 ---
 title: "Cavan Farrow"
 description: "Cavan Farrow is an Early-career Unknown researcher at University of Cambridge in GB. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.671117
+date: 2026-07-10T01:07:48.627008
 url: "/cdr-researcher-census/researchers/cavan-farrow-a5057107/"
 layout: "researcher"
 hiddenInHomeList: true

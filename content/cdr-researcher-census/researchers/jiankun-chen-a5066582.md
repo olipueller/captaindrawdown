@@ -1,7 +1,7 @@
 ---
 title: "Jiankun Chen"
 description: "Jiankun Chen is a Mid-career General CDR researcher at National Center for Nanoscience and Technology in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.414286
+date: 2026-07-10T01:07:48.405220
 url: "/cdr-researcher-census/researchers/jiankun-chen-a5066582/"
 layout: "researcher"
 hiddenInHomeList: true

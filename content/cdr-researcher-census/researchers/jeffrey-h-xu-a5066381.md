@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey H. Xu"
 description: "Jeffrey H. Xu is a Mid-career Unknown researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.634136
+date: 2026-07-10T01:07:48.593474
 url: "/cdr-researcher-census/researchers/jeffrey-h-xu-a5066381/"
 layout: "researcher"
 hiddenInHomeList: true

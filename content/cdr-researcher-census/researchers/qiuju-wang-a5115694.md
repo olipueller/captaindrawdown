@@ -1,7 +1,7 @@
 ---
 title: "Qiuju Wang"
 description: "Qiuju Wang is a Senior Biochar researcher at Heilongjiang Academy of Sciences in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.171866
+date: 2026-07-10T01:07:48.188127
 url: "/cdr-researcher-census/researchers/qiuju-wang-a5115694/"
 layout: "researcher"
 hiddenInHomeList: true

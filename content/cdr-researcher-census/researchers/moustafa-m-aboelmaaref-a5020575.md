@@ -1,7 +1,7 @@
 ---
 title: "Moustafa M. Aboelmaaref"
 description: "Moustafa M. Aboelmaaref is a Mid-career Unknown researcher at Sohag University in EG. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.454592
+date: 2026-07-10T01:07:47.529651
 url: "/cdr-researcher-census/researchers/moustafa-m-aboelmaaref-a5020575/"
 layout: "researcher"
 hiddenInHomeList: true

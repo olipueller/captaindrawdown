@@ -1,7 +1,7 @@
 ---
 title: "Ana Caroline Miron"
 description: "Ana Caroline Miron is a Mid-career Unknown researcher at Universität Hamburg in DE. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.227469
+date: 2026-07-10T01:07:48.237849
 url: "/cdr-researcher-census/researchers/ana-caroline-miron-a5108782/"
 layout: "researcher"
 hiddenInHomeList: true

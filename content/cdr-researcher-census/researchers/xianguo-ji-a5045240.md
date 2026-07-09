@@ -1,7 +1,7 @@
 ---
 title: "Xianguo Ji"
 description: "Xianguo Ji is a Mid-career Biochar researcher at Beijing University of Technology in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.080110
+date: 2026-07-10T01:07:48.081834
 url: "/cdr-researcher-census/researchers/xianguo-ji-a5045240/"
 layout: "researcher"
 hiddenInHomeList: true

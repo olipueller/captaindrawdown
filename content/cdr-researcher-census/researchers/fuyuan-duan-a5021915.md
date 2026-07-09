@@ -1,7 +1,7 @@
 ---
 title: "Fuyuan Duan"
 description: "Fuyuan Duan is an Early-career Soil Carbon researcher at South China Agricultural University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.024196
+date: 2026-07-10T01:07:48.940012
 url: "/cdr-researcher-census/researchers/fuyuan-duan-a5021915/"
 layout: "researcher"
 hiddenInHomeList: true

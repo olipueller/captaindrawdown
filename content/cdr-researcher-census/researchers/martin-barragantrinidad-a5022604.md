@@ -1,7 +1,7 @@
 ---
 title: "Martín Barragán‐Trinidad"
 description: "Martín Barragán‐Trinidad is a Mid-career Unknown researcher at Universidad Nacional Autónoma de México in MX. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.073736
+date: 2026-07-10T01:07:48.076466
 url: "/cdr-researcher-census/researchers/martin-barragantrinidad-a5022604/"
 layout: "researcher"
 hiddenInHomeList: true

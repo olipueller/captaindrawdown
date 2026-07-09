@@ -1,7 +1,7 @@
 ---
 title: "Jianfeng Hou"
 description: "Jianfeng Hou is a Mid-career Soil Carbon researcher at Chizhou University in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.776289
+date: 2026-07-10T01:07:47.825730
 url: "/cdr-researcher-census/researchers/jianfeng-hou-a5031004/"
 layout: "researcher"
 hiddenInHomeList: true

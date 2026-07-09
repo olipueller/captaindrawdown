@@ -1,7 +1,7 @@
 ---
 title: "Supansa Chimjarn"
 description: "Supansa Chimjarn is a Mid-career Unknown researcher at Institut de Chimie et Procédés pour l'Energie, l'Environnement et la Santé in FR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.164110
+date: 2026-07-10T01:07:48.181851
 url: "/cdr-researcher-census/researchers/supansa-chimjarn-a5008288/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tieguang He"
 description: "Tieguang He is a Senior Soil Carbon researcher at Guangxi Academy of Agricultural Science in CN. With 71 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.392389
+date: 2026-07-10T01:07:47.473415
 url: "/cdr-researcher-census/researchers/tieguang-he-a5100568/"
 layout: "researcher"
 hiddenInHomeList: true

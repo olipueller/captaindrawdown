@@ -1,7 +1,7 @@
 ---
 title: "Balaji Baduru"
 description: "Balaji Baduru is a Mid-career Ocean CDR researcher at Indian Institute of Tropical Meteorology in IN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.878089
+date: 2026-07-10T01:07:48.805527
 url: "/cdr-researcher-census/researchers/balaji-baduru-a5082749/"
 layout: "researcher"
 hiddenInHomeList: true

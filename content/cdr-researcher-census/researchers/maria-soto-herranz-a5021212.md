@@ -1,7 +1,7 @@
 ---
 title: "María Soto-Herranz"
 description: "María Soto-Herranz is a Mid-career Unknown researcher at Universidad de Valladolid in ES. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.066690
+date: 2026-07-10T01:07:48.978334
 url: "/cdr-researcher-census/researchers/maria-soto-herranz-a5021212/"
 layout: "researcher"
 hiddenInHomeList: true

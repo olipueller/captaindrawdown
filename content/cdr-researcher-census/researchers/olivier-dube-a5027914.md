@@ -1,7 +1,7 @@
 ---
 title: "Olivier Dubé"
 description: "Olivier Dubé is a Mid-career Unknown researcher at Université Laval in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.121924
+date: 2026-07-10T01:07:48.145884
 url: "/cdr-researcher-census/researchers/olivier-dube-a5027914/"
 layout: "researcher"
 hiddenInHomeList: true

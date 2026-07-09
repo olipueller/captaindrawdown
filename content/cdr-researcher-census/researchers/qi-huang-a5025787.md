@@ -1,7 +1,7 @@
 ---
 title: "Qi Huang"
 description: "Qi Huang is a Mid-career General CDR researcher at University of Edinburgh in GB. With 15 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.201508
+date: 2026-07-10T01:07:47.290228
 url: "/cdr-researcher-census/researchers/qi-huang-a5025787/"
 layout: "researcher"
 hiddenInHomeList: true

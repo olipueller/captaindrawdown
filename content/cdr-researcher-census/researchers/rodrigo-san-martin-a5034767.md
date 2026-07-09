@@ -1,7 +1,7 @@
 ---
 title: "Rodrigo San Martín"
 description: "Rodrigo San Martín is a Senior Unknown researcher at International Union for Conservation of Nature (Bangladesh) in BD. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.588074
+date: 2026-07-10T01:07:48.552675
 url: "/cdr-researcher-census/researchers/rodrigo-san-martin-a5034767/"
 layout: "researcher"
 hiddenInHomeList: true

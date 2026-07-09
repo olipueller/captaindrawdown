@@ -1,7 +1,7 @@
 ---
 title: "Yanfang Fan"
 description: "Yanfang Fan is a Senior DAC researcher at China University of Petroleum Beijing in CN. With 79 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.069884
+date: 2026-07-10T01:07:47.148752
 url: "/cdr-researcher-census/researchers/yanfang-fan-a5029464/"
 layout: "researcher"
 hiddenInHomeList: true

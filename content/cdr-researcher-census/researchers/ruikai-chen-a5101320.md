@@ -1,7 +1,7 @@
 ---
 title: "Ruikai Chen"
 description: "Ruikai Chen is an Early-career Unknown researcher at AVIC Optronics (China) in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.058237
+date: 2026-07-10T01:07:48.970956
 url: "/cdr-researcher-census/researchers/ruikai-chen-a5101320/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoya Xu"
 description: "Xiaoya Xu is a Mid-career Soil Carbon researcher at Shandong Normal University in CN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.450394
+date: 2026-07-10T01:07:47.526184
 url: "/cdr-researcher-census/researchers/xiaoya-xu-a5110954/"
 layout: "researcher"
 hiddenInHomeList: true

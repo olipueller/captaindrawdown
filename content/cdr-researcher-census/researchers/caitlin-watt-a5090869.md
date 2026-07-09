@@ -1,7 +1,7 @@
 ---
 title: "Caitlin Watt"
 description: "Caitlin Watt is a Mid-career Soil Carbon researcher at University of Lethbridge in CA. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.486936
+date: 2026-07-10T01:07:47.558601
 url: "/cdr-researcher-census/researchers/caitlin-watt-a5090869/"
 layout: "researcher"
 hiddenInHomeList: true

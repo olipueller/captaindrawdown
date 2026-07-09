@@ -1,7 +1,7 @@
 ---
 title: "R. W. V. Flynn"
 description: "R. W. V. Flynn is a Senior Unknown researcher at University of Dundee in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.682104
+date: 2026-07-10T01:07:47.738498
 url: "/cdr-researcher-census/researchers/r-w-v-flynn-a5111912/"
 layout: "researcher"
 hiddenInHomeList: true

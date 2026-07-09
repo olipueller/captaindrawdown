@@ -1,7 +1,7 @@
 ---
 title: "Claudio Tregambi"
 description: "Claudio Tregambi is a Mid-career General CDR researcher at University of Sannio in IT. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.230212
+date: 2026-07-10T01:07:47.316887
 url: "/cdr-researcher-census/researchers/claudio-tregambi-a5002670/"
 layout: "researcher"
 hiddenInHomeList: true

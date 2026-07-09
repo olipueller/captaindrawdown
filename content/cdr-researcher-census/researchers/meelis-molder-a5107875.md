@@ -1,7 +1,7 @@
 ---
 title: "Meelis Mölder"
 description: "Meelis Mölder is a Senior Unknown researcher at Lund University in SE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.132229
+date: 2026-07-10T01:07:48.154737
 url: "/cdr-researcher-census/researchers/meelis-molder-a5107875/"
 layout: "researcher"
 hiddenInHomeList: true

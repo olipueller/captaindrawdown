@@ -1,7 +1,7 @@
 ---
 title: "Md. Yeakub Ali"
 description: "Md. Yeakub Ali is a Senior Unknown researcher at Shanto-Mariam University of Creative Technology in BD. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.201128
+date: 2026-07-10T01:07:49.113936
 url: "/cdr-researcher-census/researchers/md-yeakub-ali-a5067638/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dibyojyoty Nath"
 description: "Dibyojyoty Nath is a Mid-career Unknown researcher at University of Southampton in GB. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.733699
+date: 2026-07-10T01:07:47.785692
 url: "/cdr-researcher-census/researchers/dibyojyoty-nath-a5079982/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eleonora Stefanelli"
 description: "Eleonora Stefanelli is a Mid-career Biochar researcher at University of Pisa in IT. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.628710
+date: 2026-07-10T01:07:47.688337
 url: "/cdr-researcher-census/researchers/eleonora-stefanelli-a5081618/"
 layout: "researcher"
 hiddenInHomeList: true

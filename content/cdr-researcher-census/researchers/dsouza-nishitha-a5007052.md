@@ -1,7 +1,7 @@
 ---
 title: "D’Souza Nishitha"
 description: "D’Souza Nishitha is a Mid-career Ocean CDR researcher at Manipal Academy of Higher Education in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.042883
+date: 2026-07-10T01:07:48.956513
 url: "/cdr-researcher-census/researchers/dsouza-nishitha-a5007052/"
 layout: "researcher"
 hiddenInHomeList: true

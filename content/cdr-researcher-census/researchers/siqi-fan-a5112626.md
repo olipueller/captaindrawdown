@@ -1,7 +1,7 @@
 ---
 title: "Siqi Fan"
 description: "Siqi Fan is a Mid-career Unknown researcher at Beijing University of Technology in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.304490
+date: 2026-07-10T01:07:48.307276
 url: "/cdr-researcher-census/researchers/siqi-fan-a5112626/"
 layout: "researcher"
 hiddenInHomeList: true

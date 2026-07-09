@@ -1,7 +1,7 @@
 ---
 title: "Marc Füri"
 description: "Marc Füri is a Senior Unknown researcher. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.725276
+date: 2026-07-10T01:07:47.777852
 url: "/cdr-researcher-census/researchers/marc-furi-a5005774/"
 layout: "researcher"
 hiddenInHomeList: true

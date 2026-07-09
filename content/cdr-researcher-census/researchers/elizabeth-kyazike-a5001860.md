@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Kyazike"
 description: "Elizabeth Kyazike is a Mid-career Unknown researcher at Busitema University in UG. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.981427
+date: 2026-07-10T01:07:47.990722
 url: "/cdr-researcher-census/researchers/elizabeth-kyazike-a5001860/"
 layout: "researcher"
 hiddenInHomeList: true

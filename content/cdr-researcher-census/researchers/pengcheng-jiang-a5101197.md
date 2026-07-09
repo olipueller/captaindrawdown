@@ -1,7 +1,7 @@
 ---
 title: "Pengcheng Jiang"
 description: "Pengcheng Jiang is an Early-career Unknown researcher at Hubei University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.771406
+date: 2026-07-10T01:07:47.821314
 url: "/cdr-researcher-census/researchers/pengcheng-jiang-a5101197/"
 layout: "researcher"
 hiddenInHomeList: true

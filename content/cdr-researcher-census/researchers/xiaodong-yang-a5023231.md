@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Yang"
 description: "Xiaodong Yang is a Senior Biochar researcher at Yangzhou University in CN. With 67 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.045088
+date: 2026-07-10T01:07:47.118689
 url: "/cdr-researcher-census/researchers/xiaodong-yang-a5023231/"
 layout: "researcher"
 hiddenInHomeList: true

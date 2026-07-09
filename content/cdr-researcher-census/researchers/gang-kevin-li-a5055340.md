@@ -1,7 +1,7 @@
 ---
 title: "Gang Kevin Li"
 description: "Gang Kevin Li is a Senior DAC researcher at The University of Melbourne in AU. With 156 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.975103
+date: 2026-07-10T01:07:47.021189
 url: "/cdr-researcher-census/researchers/gang-kevin-li-a5055340/"
 layout: "researcher"
 hiddenInHomeList: true

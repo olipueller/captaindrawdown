@@ -1,7 +1,7 @@
 ---
 title: "J. L. Hayes"
 description: "J. L. Hayes is a Senior Enhanced Weathering researcher at Dickinson College in US. With 68 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.316154
+date: 2026-07-10T01:07:47.398496
 url: "/cdr-researcher-census/researchers/j-l-hayes-a5020119/"
 layout: "researcher"
 hiddenInHomeList: true

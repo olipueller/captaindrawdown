@@ -1,7 +1,7 @@
 ---
 title: "Yufang Shen"
 description: "Yufang Shen is a Senior Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 56 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.071493
+date: 2026-07-10T01:07:47.150444
 url: "/cdr-researcher-census/researchers/yufang-shen-a5112281/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Arindrajit Paul"
 description: "Arindrajit Paul is a Mid-career General CDR researcher at University of Colorado Boulder in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.576686
+date: 2026-07-10T01:07:47.639878
 url: "/cdr-researcher-census/researchers/arindrajit-paul-a5084214/"
 layout: "researcher"
 hiddenInHomeList: true

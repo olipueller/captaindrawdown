@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim Ahmed"
 description: "Ibrahim Ahmed is a Senior Soil Carbon researcher at King Saud University in SA. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.235233
+date: 2026-07-10T01:07:48.244889
 url: "/cdr-researcher-census/researchers/ibrahim-ahmed-a5103858/"
 layout: "researcher"
 hiddenInHomeList: true

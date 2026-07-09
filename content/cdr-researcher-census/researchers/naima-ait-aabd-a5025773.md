@@ -1,7 +1,7 @@
 ---
 title: "Naïma Ait Aabd"
 description: "Naïma Ait Aabd is a Senior Soil Carbon researcher at National Agricultural Research Institute in PG. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.908447
+date: 2026-07-10T01:07:47.922153
 url: "/cdr-researcher-census/researchers/naima-ait-aabd-a5025773/"
 layout: "researcher"
 hiddenInHomeList: true

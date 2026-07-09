@@ -1,7 +1,7 @@
 ---
 title: "Yu-Qing Zhong"
 description: "Yu-Qing Zhong is a Senior Unknown researcher at Nanjing Forestry University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.081819
+date: 2026-07-10T01:07:48.992326
 url: "/cdr-researcher-census/researchers/yu-qing-zhong-a5090946/"
 layout: "researcher"
 hiddenInHomeList: true

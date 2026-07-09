@@ -1,7 +1,7 @@
 ---
 title: "Binash Imteyaz"
 description: "Binash Imteyaz is a Mid-career General CDR researcher at King Fahd University of Petroleum & Minerals in SA. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.521895
+date: 2026-07-10T01:07:47.588886
 url: "/cdr-researcher-census/researchers/binash-imteyaz-a5026220/"
 layout: "researcher"
 hiddenInHomeList: true

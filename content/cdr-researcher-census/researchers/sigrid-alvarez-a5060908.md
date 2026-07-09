@@ -1,7 +1,7 @@
 ---
 title: "Sigrid Alvarez"
 description: "Sigrid Alvarez is a Mid-career Soil Carbon researcher at National University of Saint Anthony the Abbot in Cuzco in PE. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.230863
+date: 2026-07-10T01:07:49.139976
 url: "/cdr-researcher-census/researchers/sigrid-alvarez-a5060908/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhaochong Zhang"
 description: "Zhaochong Zhang is a Senior Unknown researcher at China University of Geosciences (Beijing) in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.948323
+date: 2026-07-10T01:07:47.960133
 url: "/cdr-researcher-census/researchers/zhaochong-zhang-a5082274/"
 layout: "researcher"
 hiddenInHomeList: true

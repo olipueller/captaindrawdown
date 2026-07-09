@@ -1,7 +1,7 @@
 ---
 title: "Wenbin Qi"
 description: "Wenbin Qi is a Mid-career Biochar researcher at Tianshui Normal University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.018333
+date: 2026-07-10T01:07:48.026020
 url: "/cdr-researcher-census/researchers/wenbin-qi-a5101066/"
 layout: "researcher"
 hiddenInHomeList: true

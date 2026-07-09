@@ -1,7 +1,7 @@
 ---
 title: "Gisel Vanesa Nunell"
 description: "Gisel Vanesa Nunell is a Senior Unknown researcher at Fundación Ciencias Exactas y Naturales in AR. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.428694
+date: 2026-07-10T01:07:47.506700
 url: "/cdr-researcher-census/researchers/gisel-vanesa-nunell-a5089814/"
 layout: "researcher"
 hiddenInHomeList: true

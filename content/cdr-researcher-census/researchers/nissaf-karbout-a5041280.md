@@ -1,7 +1,7 @@
 ---
 title: "Nissaf Karbout"
 description: "Nissaf Karbout is a Mid-career Soil Carbon researcher at Institut des Régions Arides in TN. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.470736
+date: 2026-07-10T01:07:48.458273
 url: "/cdr-researcher-census/researchers/nissaf-karbout-a5041280/"
 layout: "researcher"
 hiddenInHomeList: true

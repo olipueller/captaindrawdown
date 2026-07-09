@@ -1,7 +1,7 @@
 ---
 title: "Shannan K. Sweet"
 description: "Shannan K. Sweet is a Mid-career Soil Carbon researcher at Cornell University in US. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.505870
+date: 2026-07-10T01:07:47.574801
 url: "/cdr-researcher-census/researchers/shannan-k-sweet-a5076285/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Junjiao Wang"
 description: "Junjiao Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.154205
+date: 2026-07-10T01:07:48.173676
 url: "/cdr-researcher-census/researchers/junjiao-wang-a5114778/"
 layout: "researcher"
 hiddenInHomeList: true

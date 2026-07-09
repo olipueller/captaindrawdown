@@ -1,7 +1,7 @@
 ---
 title: "Yangyang Zhao"
 description: "Yangyang Zhao is a Senior Ocean CDR researcher at Innovative Orbital Design (United States) in US. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.303947
+date: 2026-07-10T01:07:47.386101
 url: "/cdr-researcher-census/researchers/yangyang-zhao-a5037246/"
 layout: "researcher"
 hiddenInHomeList: true

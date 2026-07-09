@@ -1,7 +1,7 @@
 ---
 title: "Maged Al‐Barashi"
 description: "Maged Al‐Barashi is a Mid-career Unknown researcher at Guilin University of Aerospace Technology in CN. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.587610
+date: 2026-07-10T01:07:48.552294
 url: "/cdr-researcher-census/researchers/maged-albarashi-a5089788/"
 layout: "researcher"
 hiddenInHomeList: true

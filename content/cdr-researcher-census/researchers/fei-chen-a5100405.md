@@ -1,7 +1,7 @@
 ---
 title: "Fei Chen"
 description: "Fei Chen is a Mid-career Unknown researcher at East China University of Technology in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.050162
+date: 2026-07-10T01:07:48.055339
 url: "/cdr-researcher-census/researchers/fei-chen-a5100405/"
 layout: "researcher"
 hiddenInHomeList: true

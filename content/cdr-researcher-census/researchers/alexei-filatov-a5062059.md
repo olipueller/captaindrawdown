@@ -1,7 +1,7 @@
 ---
 title: "Alexei Filatov"
 description: "Alexei Filatov is a Senior Unknown researcher. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.683786
+date: 2026-07-10T01:07:47.740277
 url: "/cdr-researcher-census/researchers/alexei-filatov-a5062059/"
 layout: "researcher"
 hiddenInHomeList: true

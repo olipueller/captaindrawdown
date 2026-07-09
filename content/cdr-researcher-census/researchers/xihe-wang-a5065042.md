@@ -1,7 +1,7 @@
 ---
 title: "Xihe Wang"
 description: "Xihe Wang is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.746878
+date: 2026-07-10T01:07:47.798765
 url: "/cdr-researcher-census/researchers/xihe-wang-a5065042/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Takako Miyoshi"
 description: "Takako Miyoshi is a Senior Unknown researcher at Kyoto University in JP. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.455574
+date: 2026-07-10T01:07:48.444147
 url: "/cdr-researcher-census/researchers/takako-miyoshi-a5074995/"
 layout: "researcher"
 hiddenInHomeList: true

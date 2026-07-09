@@ -1,7 +1,7 @@
 ---
 title: "Zhou Deng"
 description: "Zhou Deng is a Mid-career DAC researcher at Huaqiao University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.837400
+date: 2026-07-10T01:07:47.873372
 url: "/cdr-researcher-census/researchers/zhou-deng-a5101160/"
 layout: "researcher"
 hiddenInHomeList: true

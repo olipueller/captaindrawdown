@@ -1,7 +1,7 @@
 ---
 title: "Chaoyu Tian"
 description: "Chaoyu Tian is a Mid-career Biochar researcher at Xiangtan University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.131731
+date: 2026-07-10T01:07:48.154374
 url: "/cdr-researcher-census/researchers/chaoyu-tian-a5056388/"
 layout: "researcher"
 hiddenInHomeList: true

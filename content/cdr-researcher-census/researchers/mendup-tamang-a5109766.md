@@ -1,7 +1,7 @@
 ---
 title: "Mendup Tamang"
 description: "Mendup Tamang is a Mid-career General CDR researcher at North Bengal Agricultural University in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.520740
+date: 2026-07-10T01:07:48.503757
 url: "/cdr-researcher-census/researchers/mendup-tamang-a5109766/"
 layout: "researcher"
 hiddenInHomeList: true

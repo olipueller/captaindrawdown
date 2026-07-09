@@ -1,7 +1,7 @@
 ---
 title: "Hajigul Sayit"
 description: "Hajigul Sayit is a Mid-career Soil Carbon researcher at Inner Mongolia Autonomous Region Meteorological Bureau in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.121476
+date: 2026-07-10T01:07:49.027072
 url: "/cdr-researcher-census/researchers/hajigul-sayit-a5042040/"
 layout: "researcher"
 hiddenInHomeList: true

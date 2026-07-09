@@ -1,7 +1,7 @@
 ---
 title: "Pengcheng Du"
 description: "Pengcheng Du is a Mid-career Unknown researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.167062
+date: 2026-07-10T01:07:49.057495
 url: "/cdr-researcher-census/researchers/pengcheng-du-a5101036/"
 layout: "researcher"
 hiddenInHomeList: true

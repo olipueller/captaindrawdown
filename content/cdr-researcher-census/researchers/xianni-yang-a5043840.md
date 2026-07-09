@@ -1,7 +1,7 @@
 ---
 title: "Xianni Yang"
 description: "Xianni Yang is a Mid-career Biochar researcher at Sichuan University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.537890
+date: 2026-07-10T01:07:47.603450
 url: "/cdr-researcher-census/researchers/xianni-yang-a5043840/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yueyue Zhang"
 description: "Yueyue Zhang is a Mid-career Unknown researcher at Zhejiang University of Science and Technology in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.157220
+date: 2026-07-10T01:07:48.176157
 url: "/cdr-researcher-census/researchers/yueyue-zhang-a5115593/"
 layout: "researcher"
 hiddenInHomeList: true

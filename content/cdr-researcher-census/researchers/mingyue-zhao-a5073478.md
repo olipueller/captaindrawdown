@@ -1,7 +1,7 @@
 ---
 title: "Mingyue Zhao"
 description: "Mingyue Zhao is a Senior General CDR researcher at China National Offshore Oil Corporation (China) in CN. With 86 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.015268
+date: 2026-07-10T01:07:47.080692
 url: "/cdr-researcher-census/researchers/mingyue-zhao-a5073478/"
 layout: "researcher"
 hiddenInHomeList: true

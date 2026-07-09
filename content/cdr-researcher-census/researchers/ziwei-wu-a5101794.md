@@ -1,7 +1,7 @@
 ---
 title: "Ziwei Wu"
 description: "Ziwei Wu is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.276121
+date: 2026-07-10T01:07:47.358789
 url: "/cdr-researcher-census/researchers/ziwei-wu-a5101794/"
 layout: "researcher"
 hiddenInHomeList: true

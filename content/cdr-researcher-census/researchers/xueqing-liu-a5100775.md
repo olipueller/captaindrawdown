@@ -1,7 +1,7 @@
 ---
 title: "Xueqing Liu"
 description: "Xueqing Liu is a Senior General CDR researcher at Jilin University in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.703943
+date: 2026-07-10T01:07:47.758352
 url: "/cdr-researcher-census/researchers/xueqing-liu-a5100775/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wee Foong Ang"
 description: "Wee Foong Ang is a Senior Unknown researcher at National Parks Board in SG. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.718609
+date: 2026-07-10T01:07:48.668544
 url: "/cdr-researcher-census/researchers/wee-foong-ang-a5017626/"
 layout: "researcher"
 hiddenInHomeList: true

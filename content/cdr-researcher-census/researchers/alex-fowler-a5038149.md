@@ -1,7 +1,7 @@
 ---
 title: "Alex Fowler"
 description: "Alex Fowler is a Senior Unknown researcher at GGG (France) in FR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.255608
+date: 2026-07-10T01:07:48.263668
 url: "/cdr-researcher-census/researchers/alex-fowler-a5038149/"
 layout: "researcher"
 hiddenInHomeList: true

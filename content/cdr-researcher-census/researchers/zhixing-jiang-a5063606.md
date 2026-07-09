@@ -1,7 +1,7 @@
 ---
 title: "Zhixing Jiang"
 description: "Zhixing Jiang is a Mid-career Unknown researcher at Nanjing University of Aeronautics and Astronautics in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.458229
+date: 2026-07-10T01:07:48.446555
 url: "/cdr-researcher-census/researchers/zhixing-jiang-a5063606/"
 layout: "researcher"
 hiddenInHomeList: true

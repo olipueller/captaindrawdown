@@ -1,7 +1,7 @@
 ---
 title: "Shuangchao Tian"
 description: "Shuangchao Tian is a Mid-career Unknown researcher at Beijing University of Technology in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.434749
+date: 2026-07-10T01:07:48.424954
 url: "/cdr-researcher-census/researchers/shuangchao-tian-a5102625/"
 layout: "researcher"
 hiddenInHomeList: true

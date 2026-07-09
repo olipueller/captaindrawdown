@@ -1,7 +1,7 @@
 ---
 title: "Kathrin Lang"
 description: "Kathrin Lang is a Mid-career Unknown researcher at Provincia autonoma di Bolzano - Alto Adige. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.013417
+date: 2026-07-10T01:07:48.021244
 url: "/cdr-researcher-census/researchers/kathrin-lang-a5111785/"
 layout: "researcher"
 hiddenInHomeList: true

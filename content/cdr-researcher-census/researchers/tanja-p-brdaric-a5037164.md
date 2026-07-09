@@ -1,7 +1,7 @@
 ---
 title: "Tanja P. Brdarić"
 description: "Tanja P. Brdarić is a Senior Unknown researcher at University of Belgrade in RS. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.646011
+date: 2026-07-10T01:07:47.704948
 url: "/cdr-researcher-census/researchers/tanja-p-brdaric-a5037164/"
 layout: "researcher"
 hiddenInHomeList: true

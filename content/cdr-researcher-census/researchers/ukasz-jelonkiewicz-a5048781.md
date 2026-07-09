@@ -1,7 +1,7 @@
 ---
 title: "Łukasz Jelonkiewicz"
 description: "Łukasz Jelonkiewicz is a Mid-career Soil Carbon researcher at Jagiellonian University in PL. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.474707
+date: 2026-07-10T01:07:48.461951
 url: "/cdr-researcher-census/researchers/ukasz-jelonkiewicz-a5048781/"
 layout: "researcher"
 hiddenInHomeList: true

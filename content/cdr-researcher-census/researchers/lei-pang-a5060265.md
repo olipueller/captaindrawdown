@@ -1,7 +1,7 @@
 ---
 title: "Lei Pang"
 description: "Lei Pang is a Mid-career Unknown researcher at Huazhong University of Science and Technology in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.048696
+date: 2026-07-10T01:07:48.054047
 url: "/cdr-researcher-census/researchers/lei-pang-a5060265/"
 layout: "researcher"
 hiddenInHomeList: true

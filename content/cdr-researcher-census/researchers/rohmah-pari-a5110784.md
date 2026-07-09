@@ -1,7 +1,7 @@
 ---
 title: "Rohmah Pari"
 description: "Rohmah Pari is a Mid-career Unknown researcher at National Nuclear Energy Agency of Indonesia in ID. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.641678
+date: 2026-07-10T01:07:48.600311
 url: "/cdr-researcher-census/researchers/rohmah-pari-a5110784/"
 layout: "researcher"
 hiddenInHomeList: true

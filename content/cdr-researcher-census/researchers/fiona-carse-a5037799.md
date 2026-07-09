@@ -1,7 +1,7 @@
 ---
 title: "Fiona Carse"
 description: "Fiona Carse is a Senior Unknown researcher at Met Office in GB. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.088563
+date: 2026-07-10T01:07:47.170986
 url: "/cdr-researcher-census/researchers/fiona-carse-a5037799/"
 layout: "researcher"
 hiddenInHomeList: true

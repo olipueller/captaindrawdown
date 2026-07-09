@@ -1,7 +1,7 @@
 ---
 title: "Hannah Roth"
 description: "Hannah Roth is a Mid-career General CDR researcher at University of Duisburg-Essen in DE. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.518171
+date: 2026-07-10T01:07:47.585783
 url: "/cdr-researcher-census/researchers/hannah-roth-a5007495/"
 layout: "researcher"
 hiddenInHomeList: true

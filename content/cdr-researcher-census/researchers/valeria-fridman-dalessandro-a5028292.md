@@ -1,7 +1,7 @@
 ---
 title: "Valeria Fridman D’Alessandro"
 description: "Valeria Fridman D’Alessandro is a Mid-career Unknown researcher at Mie University in JP. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.357430
+date: 2026-07-10T01:07:48.355770
 url: "/cdr-researcher-census/researchers/valeria-fridman-dalessandro-a5028292/"
 layout: "researcher"
 hiddenInHomeList: true

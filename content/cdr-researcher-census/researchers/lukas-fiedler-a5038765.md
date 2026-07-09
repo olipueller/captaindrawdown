@@ -1,7 +1,7 @@
 ---
 title: "Lukas Fiedler"
 description: "Lukas Fiedler is a Mid-career Unknown researcher at Max Planck Institute for Meteorology in DE. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.377395
+date: 2026-07-10T01:07:48.373656
 url: "/cdr-researcher-census/researchers/lukas-fiedler-a5038765/"
 layout: "researcher"
 hiddenInHomeList: true

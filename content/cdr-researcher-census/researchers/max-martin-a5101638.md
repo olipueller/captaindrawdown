@@ -1,7 +1,7 @@
 ---
 title: "Max Martin"
 description: "Max Martin is a Senior Unknown researcher at University of Sussex in GB. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.354891
+date: 2026-07-10T01:07:48.353255
 url: "/cdr-researcher-census/researchers/max-martin-a5101638/"
 layout: "researcher"
 hiddenInHomeList: true

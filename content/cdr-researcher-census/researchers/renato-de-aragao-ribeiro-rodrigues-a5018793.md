@@ -1,7 +1,7 @@
 ---
 title: "Renato de Aragão Ribeiro Rodrigues"
 description: "Renato de Aragão Ribeiro Rodrigues is a Senior Soil Carbon researcher at Fundação Dom Cabral in BR. With 100 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.297801
+date: 2026-07-10T01:07:47.380406
 url: "/cdr-researcher-census/researchers/renato-de-aragao-ribeiro-rodrigues-a5018793/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "C. Sudha Rani"
 description: "C. Sudha Rani is a Mid-career Soil Carbon researcher at Guntur Medical College in IN. With 36 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.807121
+date: 2026-07-10T01:07:48.745334
 url: "/cdr-researcher-census/researchers/c-sudha-rani-a5022922/"
 layout: "researcher"
 hiddenInHomeList: true

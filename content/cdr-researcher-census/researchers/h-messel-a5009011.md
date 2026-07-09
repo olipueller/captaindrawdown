@@ -1,7 +1,7 @@
 ---
 title: "H Messel"
 description: "H Messel is a Mid-career General CDR researcher. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.638528
+date: 2026-07-10T01:07:47.697742
 url: "/cdr-researcher-census/researchers/h-messel-a5009011/"
 layout: "researcher"
 hiddenInHomeList: true

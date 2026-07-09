@@ -1,7 +1,7 @@
 ---
 title: "Monserrat Vidal-Álvarez"
 description: "Monserrat Vidal-Álvarez is a Mid-career Soil Carbon researcher at El Colegio de Veracruz in MX. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.148214
+date: 2026-07-10T01:07:48.168252
 url: "/cdr-researcher-census/researchers/monserrat-vidal-alvarez-a5034981/"
 layout: "researcher"
 hiddenInHomeList: true

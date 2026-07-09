@@ -1,7 +1,7 @@
 ---
 title: "Luyao Wu"
 description: "Luyao Wu is a Senior Soil Carbon researcher at Taiyuan Normal University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.044882
+date: 2026-07-10T01:07:48.958462
 url: "/cdr-researcher-census/researchers/luyao-wu-a5100884/"
 layout: "researcher"
 hiddenInHomeList: true

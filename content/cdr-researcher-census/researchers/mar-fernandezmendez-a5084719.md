@@ -1,7 +1,7 @@
 ---
 title: "Mar Fernández‐Méndez"
 description: "Mar Fernández‐Méndez is a Senior Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 124 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.050011
+date: 2026-07-10T01:07:47.124574
 url: "/cdr-researcher-census/researchers/mar-fernandezmendez-a5084719/"
 layout: "researcher"
 hiddenInHomeList: true

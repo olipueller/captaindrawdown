@@ -1,7 +1,7 @@
 ---
 title: "Yifan Xu"
 description: "Yifan Xu is a Mid-career Soil Carbon researcher at University of Birmingham in GB. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.628153
+date: 2026-07-10T01:07:47.687892
 url: "/cdr-researcher-census/researchers/yifan-xu-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true

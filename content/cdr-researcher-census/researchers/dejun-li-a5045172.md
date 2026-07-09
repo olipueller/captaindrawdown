@@ -1,7 +1,7 @@
 ---
 title: "Dejun Li"
 description: "Dejun Li is an Eminent Soil Carbon researcher at Institute of Subtropical Agriculture Chinese Academy of Sciences in CN. With 268 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.908304
+date: 2026-07-10T01:07:46.904616
 url: "/cdr-researcher-census/researchers/dejun-li-a5045172/"
 layout: "researcher"
 hiddenInHomeList: true

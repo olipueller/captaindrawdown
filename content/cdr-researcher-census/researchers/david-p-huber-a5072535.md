@@ -1,7 +1,7 @@
 ---
 title: "David P. Huber"
 description: "David P. Huber is a Senior Soil Carbon researcher at Boise State University in US. With 45 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.581675
+date: 2026-07-10T01:07:47.645118
 url: "/cdr-researcher-census/researchers/david-p-huber-a5072535/"
 layout: "researcher"
 hiddenInHomeList: true

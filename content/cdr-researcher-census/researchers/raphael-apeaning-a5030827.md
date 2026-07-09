@@ -1,7 +1,7 @@
 ---
 title: "Raphael Apeaning"
 description: "Raphael Apeaning is a Mid-career General CDR researcher at Stony Brook University in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.033901
+date: 2026-07-10T01:07:48.040529
 url: "/cdr-researcher-census/researchers/raphael-apeaning-a5030827/"
 layout: "researcher"
 hiddenInHomeList: true

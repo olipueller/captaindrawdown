@@ -1,7 +1,7 @@
 ---
 title: "Ratih Kemala Dewi"
 description: "Ratih Kemala Dewi is a Mid-career Soil Carbon researcher at IPB University in ID. With 46 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.469385
+date: 2026-07-10T01:07:48.457122
 url: "/cdr-researcher-census/researchers/ratih-kemala-dewi-a5024527/"
 layout: "researcher"
 hiddenInHomeList: true

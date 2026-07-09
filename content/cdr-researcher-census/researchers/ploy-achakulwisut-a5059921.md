@@ -1,7 +1,7 @@
 ---
 title: "Ploy Achakulwisut"
 description: "Ploy Achakulwisut is a Mid-career General CDR researcher at Stockholm Environment Institute in US. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.112757
+date: 2026-07-10T01:07:47.198694
 url: "/cdr-researcher-census/researchers/ploy-achakulwisut-a5059921/"
 layout: "researcher"
 hiddenInHomeList: true

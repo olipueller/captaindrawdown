@@ -1,7 +1,7 @@
 ---
 title: "Lucía Pola"
 description: "Lucía Pola is a Mid-career Unknown researcher at Universidad de Oviedo in ES. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.096325
+date: 2026-07-10T01:07:48.096039
 url: "/cdr-researcher-census/researchers/lucia-pola-a5066825/"
 layout: "researcher"
 hiddenInHomeList: true

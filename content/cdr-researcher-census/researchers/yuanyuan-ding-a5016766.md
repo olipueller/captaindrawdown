@@ -1,7 +1,7 @@
 ---
 title: "Yuanyuan Ding"
 description: "Yuanyuan Ding is an Early-career Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.005857
+date: 2026-07-10T01:07:48.923439
 url: "/cdr-researcher-census/researchers/yuanyuan-ding-a5016766/"
 layout: "researcher"
 hiddenInHomeList: true

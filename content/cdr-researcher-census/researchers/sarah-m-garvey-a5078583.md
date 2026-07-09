@@ -1,7 +1,7 @@
 ---
 title: "Sarah M. Garvey"
 description: "Sarah M. Garvey is a Mid-career Soil Carbon researcher at University of Maryland Center for Environmental Science in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.008361
+date: 2026-07-10T01:07:48.016841
 url: "/cdr-researcher-census/researchers/sarah-m-garvey-a5078583/"
 layout: "researcher"
 hiddenInHomeList: true

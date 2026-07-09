@@ -1,7 +1,7 @@
 ---
 title: "Guopeng Han"
 description: "Guopeng Han is a Mid-career Unknown researcher at Heze University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.672453
+date: 2026-07-10T01:07:47.729444
 url: "/cdr-researcher-census/researchers/guopeng-han-a5040768/"
 layout: "researcher"
 hiddenInHomeList: true

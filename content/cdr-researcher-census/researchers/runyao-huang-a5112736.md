@@ -1,7 +1,7 @@
 ---
 title: "Runyao Huang"
 description: "Runyao Huang is a Mid-career Unknown researcher at Tongji University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.510703
+date: 2026-07-10T01:07:48.495356
 url: "/cdr-researcher-census/researchers/runyao-huang-a5112736/"
 layout: "researcher"
 hiddenInHomeList: true

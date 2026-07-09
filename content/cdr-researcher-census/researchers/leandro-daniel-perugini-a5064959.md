@@ -1,7 +1,7 @@
 ---
 title: "Leandro Daniel Perugini"
 description: "Leandro Daniel Perugini is a Senior Unknown researcher at Corteva (United States) in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.136040
+date: 2026-07-10T01:07:48.157883
 url: "/cdr-researcher-census/researchers/leandro-daniel-perugini-a5064959/"
 layout: "researcher"
 hiddenInHomeList: true

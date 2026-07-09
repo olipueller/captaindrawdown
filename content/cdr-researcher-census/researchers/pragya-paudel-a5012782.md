@@ -1,7 +1,7 @@
 ---
 title: "Pragya Paudel"
 description: "Pragya Paudel is an Early-career Soil Carbon researcher at Purbanchal University in NP. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.215911
+date: 2026-07-10T01:07:48.227850
 url: "/cdr-researcher-census/researchers/pragya-paudel-a5012782/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiuhua He"
 description: "Qiuhua He is a Senior Soil Carbon researcher at Beijing Municipal Ecological and Environmental Monitoring Center in CN. With 45 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.439859
+date: 2026-07-10T01:07:48.429718
 url: "/cdr-researcher-census/researchers/qiuhua-he-a5073004/"
 layout: "researcher"
 hiddenInHomeList: true

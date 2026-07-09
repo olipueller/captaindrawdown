@@ -1,7 +1,7 @@
 ---
 title: "Martina Marotti"
 description: "Martina Marotti is a Mid-career Unknown researcher at Guy's and St Thomas' NHS Foundation Trust in GB. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.071244
+date: 2026-07-10T01:07:47.150220
 url: "/cdr-researcher-census/researchers/martina-marotti-a5055276/"
 layout: "researcher"
 hiddenInHomeList: true

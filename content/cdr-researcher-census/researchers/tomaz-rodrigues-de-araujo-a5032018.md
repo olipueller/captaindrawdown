@@ -1,7 +1,7 @@
 ---
 title: "Tomaz Rodrigues de Araújo"
 description: "Tomaz Rodrigues de Araújo is a Mid-career Unknown researcher at Universidade Federal do Rio Grande do Norte in BR. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.852189
+date: 2026-07-10T01:07:48.782828
 url: "/cdr-researcher-census/researchers/tomaz-rodrigues-de-araujo-a5032018/"
 layout: "researcher"
 hiddenInHomeList: true

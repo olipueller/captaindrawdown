@@ -1,7 +1,7 @@
 ---
 title: "Angkana Wipatanawin"
 description: "Angkana Wipatanawin is a Mid-career Unknown researcher at Mahidol University in TH. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.131486
+date: 2026-07-10T01:07:49.035810
 url: "/cdr-researcher-census/researchers/angkana-wipatanawin-a5047626/"
 layout: "researcher"
 hiddenInHomeList: true

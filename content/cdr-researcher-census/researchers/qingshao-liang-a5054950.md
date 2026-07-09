@@ -1,7 +1,7 @@
 ---
 title: "Qingshao Liang"
 description: "Qingshao Liang is a Mid-career Unknown researcher at Sinopec (China) in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.161789
+date: 2026-07-10T01:07:48.179685
 url: "/cdr-researcher-census/researchers/qingshao-liang-a5054950/"
 layout: "researcher"
 hiddenInHomeList: true

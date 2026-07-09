@@ -1,7 +1,7 @@
 ---
 title: "Ruinan Yang"
 description: "Ruinan Yang is a Mid-career Unknown researcher at Stony Brook University in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.146238
+date: 2026-07-10T01:07:49.048486
 url: "/cdr-researcher-census/researchers/ruinan-yang-a5084979/"
 layout: "researcher"
 hiddenInHomeList: true

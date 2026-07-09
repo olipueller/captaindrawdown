@@ -1,7 +1,7 @@
 ---
 title: "Sergio I. Perez Bakovic"
 description: "Sergio I. Perez Bakovic is a Mid-career Unknown researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.082296
+date: 2026-07-10T01:07:47.163367
 url: "/cdr-researcher-census/researchers/sergio-i-perez-bakovic-a5017862/"
 layout: "researcher"
 hiddenInHomeList: true

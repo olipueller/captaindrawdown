@@ -1,7 +1,7 @@
 ---
 title: "Zain Abbas"
 description: "Zain Abbas is a Mid-career Unknown researcher at East China University of Science and Technology in CN. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.356323
+date: 2026-07-10T01:07:47.438296
 url: "/cdr-researcher-census/researchers/zain-abbas-a5030436/"
 layout: "researcher"
 hiddenInHomeList: true

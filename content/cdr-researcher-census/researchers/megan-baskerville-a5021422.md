@@ -1,7 +1,7 @@
 ---
 title: "Megan Baskerville"
 description: "Megan Baskerville is a Mid-career Unknown researcher at Environment and Climate Change Canada in CA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.054061
+date: 2026-07-10T01:07:48.967429
 url: "/cdr-researcher-census/researchers/megan-baskerville-a5021422/"
 layout: "researcher"
 hiddenInHomeList: true

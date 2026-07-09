@@ -1,7 +1,7 @@
 ---
 title: "Li‐Lin Tan"
 description: "Li‐Lin Tan is a Mid-career Unknown researcher at Ji Hua Laboratory in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.568617
+date: 2026-07-10T01:07:47.632386
 url: "/cdr-researcher-census/researchers/lilin-tan-a5065909/"
 layout: "researcher"
 hiddenInHomeList: true

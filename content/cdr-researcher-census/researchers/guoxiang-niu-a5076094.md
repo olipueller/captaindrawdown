@@ -1,7 +1,7 @@
 ---
 title: "Guoxiang Niu"
 description: "Guoxiang Niu is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.065333
+date: 2026-07-10T01:07:48.068128
 url: "/cdr-researcher-census/researchers/guoxiang-niu-a5076094/"
 layout: "researcher"
 hiddenInHomeList: true

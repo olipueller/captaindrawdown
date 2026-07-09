@@ -1,7 +1,7 @@
 ---
 title: "Chandra Kanta"
 description: "Chandra Kanta is a Senior Unknown researcher at Uttaranchal University in IN. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.600136
+date: 2026-07-10T01:07:48.563589
 url: "/cdr-researcher-census/researchers/chandra-kanta-a5001940/"
 layout: "researcher"
 hiddenInHomeList: true

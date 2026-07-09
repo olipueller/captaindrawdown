@@ -1,7 +1,7 @@
 ---
 title: "Yanming Huang"
 description: "Yanming Huang is a Senior Unknown researcher at Yangtze University in CN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.088490
+date: 2026-07-10T01:07:48.998260
 url: "/cdr-researcher-census/researchers/yanming-huang-a5080646/"
 layout: "researcher"
 hiddenInHomeList: true

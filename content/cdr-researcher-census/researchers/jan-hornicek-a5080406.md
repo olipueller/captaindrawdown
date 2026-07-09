@@ -1,7 +1,7 @@
 ---
 title: "Jan Horníček"
 description: "Jan Horníček is a Senior Unknown researcher at University of Chemistry and Technology, Prague in CZ. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.354092
+date: 2026-07-10T01:07:48.352392
 url: "/cdr-researcher-census/researchers/jan-hornicek-a5080406/"
 layout: "researcher"
 hiddenInHomeList: true

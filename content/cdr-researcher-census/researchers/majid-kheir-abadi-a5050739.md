@@ -1,7 +1,7 @@
 ---
 title: "Majid Kheir Abadi"
 description: "Majid Kheir Abadi is a Mid-career Unknown researcher at Hakim Sabzevari University in IR. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.640655
+date: 2026-07-10T01:07:48.599354
 url: "/cdr-researcher-census/researchers/majid-kheir-abadi-a5050739/"
 layout: "researcher"
 hiddenInHomeList: true

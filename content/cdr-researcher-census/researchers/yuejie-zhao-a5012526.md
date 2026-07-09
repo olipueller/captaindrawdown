@@ -1,7 +1,7 @@
 ---
 title: "Yuejie Zhao"
 description: "Yuejie Zhao is a Mid-career Unknown researcher at Merck & Co., Inc., Rahway, NJ, USA (United States) in US. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.591502
+date: 2026-07-10T01:07:48.555576
 url: "/cdr-researcher-census/researchers/yuejie-zhao-a5012526/"
 layout: "researcher"
 hiddenInHomeList: true

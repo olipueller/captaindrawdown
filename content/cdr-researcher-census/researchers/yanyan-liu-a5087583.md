@@ -1,7 +1,7 @@
 ---
 title: "Yanyan Liu"
 description: "Yanyan Liu is an Early-career Unknown researcher at International Food Policy Research Institute in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.915846
+date: 2026-07-10T01:07:48.840270
 url: "/cdr-researcher-census/researchers/yanyan-liu-a5087583/"
 layout: "researcher"
 hiddenInHomeList: true

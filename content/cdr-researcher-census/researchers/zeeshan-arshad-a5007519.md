@@ -1,7 +1,7 @@
 ---
 title: "Zeeshan Arshad"
 description: "Zeeshan Arshad is a Mid-career Biochar researcher at Université Mohammed VI Polytechnique in MA. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.253348
+date: 2026-07-10T01:07:49.160380
 url: "/cdr-researcher-census/researchers/zeeshan-arshad-a5007519/"
 layout: "researcher"
 hiddenInHomeList: true

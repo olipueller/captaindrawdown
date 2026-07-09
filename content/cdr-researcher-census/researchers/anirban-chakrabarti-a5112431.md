@@ -1,7 +1,7 @@
 ---
 title: "Anirban Chakrabarti"
 description: "Anirban Chakrabarti is a Senior Enhanced Weathering researcher at Wuhan University of Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.081438
+date: 2026-07-10T01:07:48.082885
 url: "/cdr-researcher-census/researchers/anirban-chakrabarti-a5112431/"
 layout: "researcher"
 hiddenInHomeList: true

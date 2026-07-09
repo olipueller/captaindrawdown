@@ -1,7 +1,7 @@
 ---
 title: "Ruixiang Li"
 description: "Ruixiang Li is a Senior Soil Carbon researcher at Nankai University in CN. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.196165
+date: 2026-07-10T01:07:47.285126
 url: "/cdr-researcher-census/researchers/ruixiang-li-a5100745/"
 layout: "researcher"
 hiddenInHomeList: true

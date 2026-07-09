@@ -1,7 +1,7 @@
 ---
 title: "Renqiang Li"
 description: "Renqiang Li is a Senior General CDR researcher at Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Science in CN. With 52 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.157965
+date: 2026-07-10T01:07:47.247024
 url: "/cdr-researcher-census/researchers/renqiang-li-a5040911/"
 layout: "researcher"
 hiddenInHomeList: true

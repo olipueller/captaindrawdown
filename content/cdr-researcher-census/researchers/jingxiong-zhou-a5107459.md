@@ -1,7 +1,7 @@
 ---
 title: "Jingxiong Zhou"
 description: "Jingxiong Zhou is a Mid-career Soil Carbon researcher. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.711772
+date: 2026-07-10T01:07:47.766143
 url: "/cdr-researcher-census/researchers/jingxiong-zhou-a5107459/"
 layout: "researcher"
 hiddenInHomeList: true

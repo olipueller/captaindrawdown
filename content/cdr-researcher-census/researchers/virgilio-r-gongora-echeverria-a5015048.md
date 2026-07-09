@@ -1,7 +1,7 @@
 ---
 title: "Virgilio R. Góngora-Echeverría"
 description: "Virgilio R. Góngora-Echeverría is a Mid-career Unknown researcher at Autonomous University of Yucatán in MX. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.324439
+date: 2026-07-10T01:07:48.325006
 url: "/cdr-researcher-census/researchers/virgilio-r-gongora-echeverria-a5015048/"
 layout: "researcher"
 hiddenInHomeList: true

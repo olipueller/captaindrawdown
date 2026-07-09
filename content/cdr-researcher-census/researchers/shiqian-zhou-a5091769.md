@@ -1,7 +1,7 @@
 ---
 title: "Shiqian Zhou"
 description: "Shiqian Zhou is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.726943
+date: 2026-07-10T01:07:47.779375
 url: "/cdr-researcher-census/researchers/shiqian-zhou-a5091769/"
 layout: "researcher"
 hiddenInHomeList: true

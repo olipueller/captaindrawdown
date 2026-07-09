@@ -1,7 +1,7 @@
 ---
 title: "Qingqing Chang"
 description: "Qingqing Chang is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.158723
+date: 2026-07-10T01:07:48.177380
 url: "/cdr-researcher-census/researchers/qingqing-chang-a5101086/"
 layout: "researcher"
 hiddenInHomeList: true

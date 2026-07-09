@@ -1,7 +1,7 @@
 ---
 title: "Simon Reynaert"
 description: "Simon Reynaert is a Mid-career Enhanced Weathering researcher at Meise Botanic Garden in BE. With 42 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.172209
+date: 2026-07-10T01:07:48.188411
 url: "/cdr-researcher-census/researchers/simon-reynaert-a5037341/"
 layout: "researcher"
 hiddenInHomeList: true

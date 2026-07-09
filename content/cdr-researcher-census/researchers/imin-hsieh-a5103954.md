@@ -1,7 +1,7 @@
 ---
 title: "I‐Min Hsieh"
 description: "I‐Min Hsieh is a Mid-career Unknown researcher at Texas Tech University in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.200501
+date: 2026-07-10T01:07:48.213538
 url: "/cdr-researcher-census/researchers/imin-hsieh-a5103954/"
 layout: "researcher"
 hiddenInHomeList: true

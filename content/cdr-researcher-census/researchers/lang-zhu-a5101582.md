@@ -1,7 +1,7 @@
 ---
 title: "Lang Zhu"
 description: "Lang Zhu is a Mid-career Biochar researcher at Suzhou Research Institute in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.365348
+date: 2026-07-10T01:07:48.362825
 url: "/cdr-researcher-census/researchers/lang-zhu-a5101582/"
 layout: "researcher"
 hiddenInHomeList: true

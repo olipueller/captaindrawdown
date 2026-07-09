@@ -1,7 +1,7 @@
 ---
 title: "Bincheng Lin"
 description: "Bincheng Lin is a Senior Unknown researcher at Guangdong University of Technology in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.523113
+date: 2026-07-10T01:07:48.506123
 url: "/cdr-researcher-census/researchers/bincheng-lin-a5101348/"
 layout: "researcher"
 hiddenInHomeList: true

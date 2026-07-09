@@ -1,7 +1,7 @@
 ---
 title: "Wushuai Zhang"
 description: "Wushuai Zhang is a Senior Soil Carbon researcher at Southwest University in CN. With 45 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.133967
+date: 2026-07-10T01:07:47.223042
 url: "/cdr-researcher-census/researchers/wushuai-zhang-a5070153/"
 layout: "researcher"
 hiddenInHomeList: true

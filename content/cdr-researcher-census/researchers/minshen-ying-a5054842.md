@@ -1,7 +1,7 @@
 ---
 title: "Minshen Ying"
 description: "Minshen Ying is an Early-career Unknown researcher at Zhejiang A & F University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.802150
+date: 2026-07-10T01:07:48.740807
 url: "/cdr-researcher-census/researchers/minshen-ying-a5054842/"
 layout: "researcher"
 hiddenInHomeList: true

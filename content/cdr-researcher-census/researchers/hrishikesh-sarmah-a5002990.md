@@ -1,7 +1,7 @@
 ---
 title: "Hrishikesh Sarmah"
 description: "Hrishikesh Sarmah is a Mid-career Unknown researcher at North East Institute of Science and Technology in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.819115
+date: 2026-07-10T01:07:48.754738
 url: "/cdr-researcher-census/researchers/hrishikesh-sarmah-a5002990/"
 layout: "researcher"
 hiddenInHomeList: true

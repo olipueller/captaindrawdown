@@ -1,7 +1,7 @@
 ---
 title: "Yoko Ohtomo"
 description: "Yoko Ohtomo is a Senior Enhanced Weathering researcher at Hokkaido University of Science in JP. With 78 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.680629
+date: 2026-07-10T01:07:47.736945
 url: "/cdr-researcher-census/researchers/yoko-ohtomo-a5008887/"
 layout: "researcher"
 hiddenInHomeList: true

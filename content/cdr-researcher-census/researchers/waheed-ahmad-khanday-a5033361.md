@@ -1,7 +1,7 @@
 ---
 title: "Waheed Ahmad Khanday"
 description: "Waheed Ahmad Khanday is a Senior Biochar researcher at Sri Pratap College Srinagar in IN. With 58 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.973421
+date: 2026-07-10T01:07:47.018997
 url: "/cdr-researcher-census/researchers/waheed-ahmad-khanday-a5033361/"
 layout: "researcher"
 hiddenInHomeList: true

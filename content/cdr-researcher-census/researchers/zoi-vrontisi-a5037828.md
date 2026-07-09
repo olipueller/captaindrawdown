@@ -1,7 +1,7 @@
 ---
 title: "Zoi Vrontisi"
 description: "Zoi Vrontisi is a Senior General CDR researcher at Information Technology for Market Leadership (Greece) in GR. With 72 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.004958
+date: 2026-07-10T01:07:47.065853
 url: "/cdr-researcher-census/researchers/zoi-vrontisi-a5037828/"
 layout: "researcher"
 hiddenInHomeList: true

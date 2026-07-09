@@ -1,7 +1,7 @@
 ---
 title: "Attila Németh"
 description: "Attila Németh is a Senior Soil Carbon researcher at Széchenyi István University in HU. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.479517
+date: 2026-07-10T01:07:48.466569
 url: "/cdr-researcher-census/researchers/attila-nemeth-a5086740/"
 layout: "researcher"
 hiddenInHomeList: true

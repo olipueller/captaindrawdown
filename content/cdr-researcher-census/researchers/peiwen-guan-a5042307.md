@@ -1,7 +1,7 @@
 ---
 title: "Peiwen Guan"
 description: "Peiwen Guan is a Senior Unknown researcher at China University of Geosciences in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.751807
+date: 2026-07-10T01:07:48.698485
 url: "/cdr-researcher-census/researchers/peiwen-guan-a5042307/"
 layout: "researcher"
 hiddenInHomeList: true

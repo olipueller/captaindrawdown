@@ -1,7 +1,7 @@
 ---
 title: "T Janjic"
 description: "T Janjic is a Mid-career Unknown researcher at Catholic University of Eichstätt-Ingolstadt in DE. With 20 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.351661
+date: 2026-07-10T01:07:47.433954
 url: "/cdr-researcher-census/researchers/t-janjic-a5059458/"
 layout: "researcher"
 hiddenInHomeList: true

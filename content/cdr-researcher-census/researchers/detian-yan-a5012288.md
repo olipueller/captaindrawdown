@@ -1,7 +1,7 @@
 ---
 title: "Detian Yan"
 description: "Detian Yan is a Senior General CDR researcher at China University of Geosciences in CN. With 52 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.194655
+date: 2026-07-10T01:07:47.283566
 url: "/cdr-researcher-census/researchers/detian-yan-a5012288/"
 layout: "researcher"
 hiddenInHomeList: true

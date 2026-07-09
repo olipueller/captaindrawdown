@@ -1,7 +1,7 @@
 ---
 title: "Anil Kumar"
 description: "Anil Kumar is a Mid-career Unknown researcher at Forest Research Institute in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.202156
+date: 2026-07-10T01:07:49.114928
 url: "/cdr-researcher-census/researchers/anil-kumar-a5108054/"
 layout: "researcher"
 hiddenInHomeList: true

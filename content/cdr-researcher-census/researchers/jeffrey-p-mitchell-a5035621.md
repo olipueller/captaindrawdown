@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey P. Mitchell"
 description: "Jeffrey P. Mitchell is a Senior Soil Carbon researcher at University of California, Davis in US. With 127 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.930346
+date: 2026-07-10T01:07:46.947706
 url: "/cdr-researcher-census/researchers/jeffrey-p-mitchell-a5035621/"
 layout: "researcher"
 hiddenInHomeList: true

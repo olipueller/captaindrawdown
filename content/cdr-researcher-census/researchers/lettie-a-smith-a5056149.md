@@ -1,7 +1,7 @@
 ---
 title: "Lettie A. Smith"
 description: "Lettie A. Smith is a Mid-career Unknown researcher at The University of Texas at Austin in US. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.245547
+date: 2026-07-10T01:07:47.331264
 url: "/cdr-researcher-census/researchers/lettie-a-smith-a5056149/"
 layout: "researcher"
 hiddenInHomeList: true

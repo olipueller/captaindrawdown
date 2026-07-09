@@ -1,7 +1,7 @@
 ---
 title: "Zongxian Che"
 description: "Zongxian Che is a Senior Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.638647
+date: 2026-07-10T01:07:47.697841
 url: "/cdr-researcher-census/researchers/zongxian-che-a5073535/"
 layout: "researcher"
 hiddenInHomeList: true

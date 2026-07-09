@@ -1,7 +1,7 @@
 ---
 title: "Alvina Aui"
 description: "Alvina Aui is a Mid-career General CDR researcher at Lawrence Livermore National Laboratory in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.670742
+date: 2026-07-10T01:07:47.727926
 url: "/cdr-researcher-census/researchers/alvina-aui-a5086825/"
 layout: "researcher"
 hiddenInHomeList: true

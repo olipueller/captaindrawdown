@@ -1,7 +1,7 @@
 ---
 title: "Qiang Feng"
 description: "Qiang Feng is a Senior General CDR researcher at Ministry of Ecology and Environment in CN. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.159940
+date: 2026-07-10T01:07:47.249121
 url: "/cdr-researcher-census/researchers/qiang-feng-a5100669/"
 layout: "researcher"
 hiddenInHomeList: true

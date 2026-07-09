@@ -1,7 +1,7 @@
 ---
 title: "K. Kostyrko"
 description: "K. Kostyrko is a Senior Unknown researcher at Instytut Techniki Budowlanej in PL. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.157113
+date: 2026-07-10T01:07:48.176067
 url: "/cdr-researcher-census/researchers/k-kostyrko-a5073117/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhixiong Chen"
 description: "Zhixiong Chen is a Senior Unknown researcher at Fujian Normal University in CN. With 80 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.260452
+date: 2026-07-10T01:07:47.344523
 url: "/cdr-researcher-census/researchers/zhixiong-chen-a5100784/"
 layout: "researcher"
 hiddenInHomeList: true

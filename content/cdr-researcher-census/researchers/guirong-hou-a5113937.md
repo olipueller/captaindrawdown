@@ -1,7 +1,7 @@
 ---
 title: "Guirong Hou"
 description: "Guirong Hou is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.565987
+date: 2026-07-10T01:07:47.629849
 url: "/cdr-researcher-census/researchers/guirong-hou-a5113937/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vânia Calisto"
 description: "Vânia Calisto is a Senior Biochar researcher at University of Aveiro in PT. With 131 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.965824
+date: 2026-07-10T01:07:47.007882
 url: "/cdr-researcher-census/researchers/vania-calisto-a5006035/"
 layout: "researcher"
 hiddenInHomeList: true

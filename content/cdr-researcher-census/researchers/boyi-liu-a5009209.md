@@ -1,7 +1,7 @@
 ---
 title: "Boyi Liu"
 description: "Boyi Liu is a Mid-career Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.470262
+date: 2026-07-10T01:07:48.457871
 url: "/cdr-researcher-census/researchers/boyi-liu-a5009209/"
 layout: "researcher"
 hiddenInHomeList: true

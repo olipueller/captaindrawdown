@@ -1,7 +1,7 @@
 ---
 title: "Dragan Mejic"
 description: "Dragan Mejic is a Senior Unknown researcher at University of Colorado Boulder in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.180203
+date: 2026-07-10T01:07:49.094132
 url: "/cdr-researcher-census/researchers/dragan-mejic-a5070319/"
 layout: "researcher"
 hiddenInHomeList: true

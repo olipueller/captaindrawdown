@@ -1,7 +1,7 @@
 ---
 title: "Robin Stevens"
 description: "Robin Stevens is a Senior Unknown researcher in CA. With 99 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.083160
+date: 2026-07-10T01:07:47.164425
 url: "/cdr-researcher-census/researchers/robin-stevens-a5015441/"
 layout: "researcher"
 hiddenInHomeList: true

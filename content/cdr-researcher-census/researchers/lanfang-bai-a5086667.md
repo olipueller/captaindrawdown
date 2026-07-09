@@ -1,7 +1,7 @@
 ---
 title: "Lanfang Bai"
 description: "Lanfang Bai is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.986763
+date: 2026-07-10T01:07:48.906111
 url: "/cdr-researcher-census/researchers/lanfang-bai-a5086667/"
 layout: "researcher"
 hiddenInHomeList: true

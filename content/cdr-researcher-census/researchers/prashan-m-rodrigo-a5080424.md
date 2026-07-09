@@ -1,7 +1,7 @@
 ---
 title: "Prashan M. Rodrigo"
 description: "Prashan M. Rodrigo is a Mid-career Biochar researcher at Mississippi State University in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.046653
+date: 2026-07-10T01:07:48.052048
 url: "/cdr-researcher-census/researchers/prashan-m-rodrigo-a5080424/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Weitang Zhang"
 description: "Weitang Zhang is a Mid-career Unknown researcher at Ocean University of China in CN. With 5 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.908340
+date: 2026-07-10T01:07:48.833551
 url: "/cdr-researcher-census/researchers/weitang-zhang-a5077984/"
 layout: "researcher"
 hiddenInHomeList: true

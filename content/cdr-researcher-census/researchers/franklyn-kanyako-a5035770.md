@@ -1,7 +1,7 @@
 ---
 title: "Franklyn Kanyako"
 description: "Franklyn Kanyako is a Mid-career General CDR researcher at University of Wisconsin–Extension in US. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.096306
+date: 2026-07-10T01:07:49.004836
 url: "/cdr-researcher-census/researchers/franklyn-kanyako-a5035770/"
 layout: "researcher"
 hiddenInHomeList: true

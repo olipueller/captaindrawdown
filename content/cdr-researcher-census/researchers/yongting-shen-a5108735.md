@@ -1,7 +1,7 @@
 ---
 title: "Yongting Shen"
 description: "Yongting Shen is a Mid-career General CDR researcher at The Hong Kong Polytechnic University in HK. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.943578
+date: 2026-07-10T01:07:47.955865
 url: "/cdr-researcher-census/researchers/yongting-shen-a5108735/"
 layout: "researcher"
 hiddenInHomeList: true

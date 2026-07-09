@@ -1,7 +1,7 @@
 ---
 title: "Yunqiu Jiang"
 description: "Yunqiu Jiang is a Senior Biochar researcher at Army Medical University in CN. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.614355
+date: 2026-07-10T01:07:47.675552
 url: "/cdr-researcher-census/researchers/yunqiu-jiang-a5010093/"
 layout: "researcher"
 hiddenInHomeList: true

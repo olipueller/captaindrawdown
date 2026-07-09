@@ -1,7 +1,7 @@
 ---
 title: "Fabio Cameli"
 description: "Fabio Cameli is a Mid-career General CDR researcher at Luxembourg Institute of Science and Technology in LU. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.563748
+date: 2026-07-10T01:07:47.627419
 url: "/cdr-researcher-census/researchers/fabio-cameli-a5025263/"
 layout: "researcher"
 hiddenInHomeList: true

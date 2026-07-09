@@ -1,7 +1,7 @@
 ---
 title: "Shubin Yang"
 description: "Shubin Yang is a Senior Unknown researcher. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.435364
+date: 2026-07-10T01:07:47.512684
 url: "/cdr-researcher-census/researchers/shubin-yang-a5101581/"
 layout: "researcher"
 hiddenInHomeList: true

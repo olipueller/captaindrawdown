@@ -1,7 +1,7 @@
 ---
 title: "Sadou Dalhatou"
 description: "Sadou Dalhatou is a Mid-career Biochar researcher at University of Maroua in CM. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.581985
+date: 2026-07-10T01:07:47.645444
 url: "/cdr-researcher-census/researchers/sadou-dalhatou-a5026132/"
 layout: "researcher"
 hiddenInHomeList: true

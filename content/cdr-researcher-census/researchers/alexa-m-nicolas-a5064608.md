@@ -1,7 +1,7 @@
 ---
 title: "Alexa M. Nicolas"
 description: "Alexa M. Nicolas is a Mid-career Soil Carbon researcher at Columbia University in US. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.164622
+date: 2026-07-10T01:07:47.254174
 url: "/cdr-researcher-census/researchers/alexa-m-nicolas-a5064608/"
 layout: "researcher"
 hiddenInHomeList: true

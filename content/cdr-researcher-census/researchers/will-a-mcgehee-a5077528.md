@@ -1,7 +1,7 @@
 ---
 title: "Will A. McGehee"
 description: "Will A. McGehee is a Mid-career Unknown researcher at Jacobs (United States) in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.113866
+date: 2026-07-10T01:07:49.020341
 url: "/cdr-researcher-census/researchers/will-a-mcgehee-a5077528/"
 layout: "researcher"
 hiddenInHomeList: true

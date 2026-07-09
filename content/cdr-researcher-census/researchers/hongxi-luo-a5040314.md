@@ -1,7 +1,7 @@
 ---
 title: "Hongxi Luo"
 description: "Hongxi Luo is a Senior General CDR researcher at Princeton University in US. With 77 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.105954
+date: 2026-07-10T01:07:47.191008
 url: "/cdr-researcher-census/researchers/hongxi-luo-a5040314/"
 layout: "researcher"
 hiddenInHomeList: true

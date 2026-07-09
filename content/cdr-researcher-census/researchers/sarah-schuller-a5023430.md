@@ -1,7 +1,7 @@
 ---
 title: "Sarah Schuller"
 description: "Sarah Schuller is a Mid-career Unknown researcher at University of Denver in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.232879
+date: 2026-07-10T01:07:49.142108
 url: "/cdr-researcher-census/researchers/sarah-schuller-a5023430/"
 layout: "researcher"
 hiddenInHomeList: true

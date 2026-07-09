@@ -1,7 +1,7 @@
 ---
 title: "Gaofeng Ni"
 description: "Gaofeng Ni is a Senior Soil Carbon researcher at Binzhou University in CN. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.215081
+date: 2026-07-10T01:07:47.301947
 url: "/cdr-researcher-census/researchers/gaofeng-ni-a5067451/"
 layout: "researcher"
 hiddenInHomeList: true

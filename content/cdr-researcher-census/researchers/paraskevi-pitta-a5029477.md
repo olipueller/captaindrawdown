@@ -1,7 +1,7 @@
 ---
 title: "Paraskevi Pitta"
 description: "Paraskevi Pitta is a Senior Ocean CDR researcher at Natural History Museum in GB. With 135 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.952653
+date: 2026-07-10T01:07:46.986809
 url: "/cdr-researcher-census/researchers/paraskevi-pitta-a5029477/"
 layout: "researcher"
 hiddenInHomeList: true

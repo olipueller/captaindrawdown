@@ -1,7 +1,7 @@
 ---
 title: "Shiyining Li"
 description: "Shiyining Li is an Early-career Unknown researcher at Fujian Normal University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.062165
+date: 2026-07-10T01:07:48.974625
 url: "/cdr-researcher-census/researchers/shiyining-li-a5016877/"
 layout: "researcher"
 hiddenInHomeList: true

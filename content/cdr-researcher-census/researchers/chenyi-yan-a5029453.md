@@ -1,7 +1,7 @@
 ---
 title: "Chenyi Yan"
 description: "Chenyi Yan is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 30 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.086781
+date: 2026-07-10T01:07:48.087599
 url: "/cdr-researcher-census/researchers/chenyi-yan-a5029453/"
 layout: "researcher"
 hiddenInHomeList: true

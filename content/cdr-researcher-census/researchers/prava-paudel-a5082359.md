@@ -1,7 +1,7 @@
 ---
 title: "Prava Paudel"
 description: "Prava Paudel is a Mid-career Soil Carbon researcher at Purbanchal University in NP. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.911861
+date: 2026-07-10T01:07:47.925186
 url: "/cdr-researcher-census/researchers/prava-paudel-a5082359/"
 layout: "researcher"
 hiddenInHomeList: true

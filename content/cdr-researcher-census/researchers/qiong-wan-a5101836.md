@@ -1,7 +1,7 @@
 ---
 title: "Qiong Wan"
 description: "Qiong Wan is a Senior Biochar researcher at Xi'an University of Science and Technology in CN. With 46 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.634283
+date: 2026-07-10T01:07:47.693939
 url: "/cdr-researcher-census/researchers/qiong-wan-a5101836/"
 layout: "researcher"
 hiddenInHomeList: true

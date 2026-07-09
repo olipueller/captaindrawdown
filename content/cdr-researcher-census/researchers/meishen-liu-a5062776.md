@@ -1,7 +1,7 @@
 ---
 title: "Meishen Liu"
 description: "Meishen Liu is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.894393
+date: 2026-07-10T01:07:47.909423
 url: "/cdr-researcher-census/researchers/meishen-liu-a5062776/"
 layout: "researcher"
 hiddenInHomeList: true

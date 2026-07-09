@@ -1,7 +1,7 @@
 ---
 title: "Paul Kishimoto"
 description: "Paul Kishimoto is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 65 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.442942
+date: 2026-07-10T01:07:47.518849
 url: "/cdr-researcher-census/researchers/paul-kishimoto-a5021861/"
 layout: "researcher"
 hiddenInHomeList: true

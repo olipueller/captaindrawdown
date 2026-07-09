@@ -1,7 +1,7 @@
 ---
 title: "Xuehong Zhu"
 description: "Xuehong Zhu is a Mid-career Unknown researcher at Nanjing Normal University in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.609120
+date: 2026-07-10T01:07:48.571217
 url: "/cdr-researcher-census/researchers/xuehong-zhu-a5044205/"
 layout: "researcher"
 hiddenInHomeList: true

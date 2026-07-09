@@ -1,7 +1,7 @@
 ---
 title: "Maris Nikopensius"
 description: "Maris Nikopensius is a Mid-career Unknown researcher at Estonian Environmental Research Center (Estonia) in EE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.987379
+date: 2026-07-10T01:07:48.906660
 url: "/cdr-researcher-census/researchers/maris-nikopensius-a5032105/"
 layout: "researcher"
 hiddenInHomeList: true

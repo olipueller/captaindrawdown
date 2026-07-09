@@ -1,7 +1,7 @@
 ---
 title: "Hongyan Ren"
 description: "Hongyan Ren is a Mid-career Unknown researcher at Harbin Normal University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.889365
+date: 2026-07-10T01:07:48.815998
 url: "/cdr-researcher-census/researchers/hongyan-ren-a5014791/"
 layout: "researcher"
 hiddenInHomeList: true

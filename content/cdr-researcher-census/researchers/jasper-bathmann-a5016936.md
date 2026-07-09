@@ -1,7 +1,7 @@
 ---
 title: "Jasper Bathmann"
 description: "Jasper Bathmann is a Mid-career Soil Carbon researcher at Technische Universität Dresden in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.135746
+date: 2026-07-10T01:07:48.157620
 url: "/cdr-researcher-census/researchers/jasper-bathmann-a5016936/"
 layout: "researcher"
 hiddenInHomeList: true

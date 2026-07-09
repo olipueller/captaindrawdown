@@ -1,7 +1,7 @@
 ---
 title: "Tsung-Hsuan Hsieh"
 description: "Tsung-Hsuan Hsieh is a Senior General CDR researcher at National Taiwan University in TW. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.569098
+date: 2026-07-10T01:07:48.547643
 url: "/cdr-researcher-census/researchers/tsung-hsuan-hsieh-a5025422/"
 layout: "researcher"
 hiddenInHomeList: true

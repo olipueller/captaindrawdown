@@ -1,7 +1,7 @@
 ---
 title: "Fida Tanos"
 description: "Fida Tanos is a Mid-career Unknown researcher at École Nationale Supérieure de Chimie de Montpellier in FR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.028755
+date: 2026-07-10T01:07:48.036040
 url: "/cdr-researcher-census/researchers/fida-tanos-a5006721/"
 layout: "researcher"
 hiddenInHomeList: true

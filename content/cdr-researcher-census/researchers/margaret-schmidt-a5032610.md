@@ -1,7 +1,7 @@
 ---
 title: "Margaret Schmidt"
 description: "Margaret Schmidt is a Senior Soil Carbon researcher at Simon Fraser University in CA. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.047661
+date: 2026-07-10T01:07:47.122052
 url: "/cdr-researcher-census/researchers/margaret-schmidt-a5032610/"
 layout: "researcher"
 hiddenInHomeList: true

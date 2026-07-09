@@ -1,7 +1,7 @@
 ---
 title: "Mengyuan Su"
 description: "Mengyuan Su is a Mid-career Unknown researcher at Huazhong Agricultural University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.196760
+date: 2026-07-10T01:07:48.210082
 url: "/cdr-researcher-census/researchers/mengyuan-su-a5110955/"
 layout: "researcher"
 hiddenInHomeList: true

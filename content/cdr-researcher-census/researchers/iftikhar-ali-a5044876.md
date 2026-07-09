@@ -1,7 +1,7 @@
 ---
 title: "Iftikhar Ali"
 description: "Iftikhar Ali is a Mid-career Unknown researcher at Islamia University of Bahawalpur in PK. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.144686
+date: 2026-07-10T01:07:48.164880
 url: "/cdr-researcher-census/researchers/iftikhar-ali-a5044876/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wencan Zhang"
 description: "Wencan Zhang is a Mid-career Unknown researcher at University of Science and Technology of China in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.008677
+date: 2026-07-10T01:07:48.017140
 url: "/cdr-researcher-census/researchers/wencan-zhang-a5101857/"
 layout: "researcher"
 hiddenInHomeList: true

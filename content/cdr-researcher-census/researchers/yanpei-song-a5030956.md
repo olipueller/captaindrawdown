@@ -1,7 +1,7 @@
 ---
 title: "Yanpei Song"
 description: "Yanpei Song is a Mid-career Unknown researcher at University of North Texas in US. With 29 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.044432
+date: 2026-07-10T01:07:47.117755
 url: "/cdr-researcher-census/researchers/yanpei-song-a5030956/"
 layout: "researcher"
 hiddenInHomeList: true

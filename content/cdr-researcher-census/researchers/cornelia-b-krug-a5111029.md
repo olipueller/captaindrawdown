@@ -1,7 +1,7 @@
 ---
 title: "Cornelia B. Krug"
 description: "Cornelia B. Krug is an Early-career General CDR researcher at University of Zurich in CH. With 5 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.764935
+date: 2026-07-10T01:07:48.709576
 url: "/cdr-researcher-census/researchers/cornelia-b-krug-a5111029/"
 layout: "researcher"
 hiddenInHomeList: true

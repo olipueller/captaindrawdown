@@ -1,7 +1,7 @@
 ---
 title: "PratimaDevi Sivasubramanian"
 description: "PratimaDevi Sivasubramanian is a Mid-career Biochar researcher at Ming Chi University of Technology in TW. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.296927
+date: 2026-07-10T01:07:48.300070
 url: "/cdr-researcher-census/researchers/pratimadevi-sivasubramanian-a5006790/"
 layout: "researcher"
 hiddenInHomeList: true

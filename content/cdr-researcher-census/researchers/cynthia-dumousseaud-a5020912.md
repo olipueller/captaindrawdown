@@ -1,7 +1,7 @@
 ---
 title: "Cynthia Dumousseaud"
 description: "Cynthia Dumousseaud is a Senior Soil Carbon researcher at University of Southampton in GB. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.309476
+date: 2026-07-10T01:07:47.391672
 url: "/cdr-researcher-census/researchers/cynthia-dumousseaud-a5020912/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sherain M.Y. Mohamed"
 description: "Sherain M.Y. Mohamed is a Mid-career Unknown researcher at Prince Sattam Bin Abdulaziz University in SA. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.038862
+date: 2026-07-10T01:07:48.953155
 url: "/cdr-researcher-census/researchers/sherain-my-mohamed-a5108955/"
 layout: "researcher"
 hiddenInHomeList: true

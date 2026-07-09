@@ -1,7 +1,7 @@
 ---
 title: "Songlin Wu"
 description: "Songlin Wu is a Senior Soil Carbon researcher at Research Center for Eco-Environmental Sciences in CN. With 123 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.038952
+date: 2026-07-10T01:07:47.110980
 url: "/cdr-researcher-census/researchers/songlin-wu-a5085518/"
 layout: "researcher"
 hiddenInHomeList: true

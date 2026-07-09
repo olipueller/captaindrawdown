@@ -1,7 +1,7 @@
 ---
 title: "Girma Tilahun Getnet"
 description: "Girma Tilahun Getnet is an Early-career Soil Carbon researcher at Mizan Tepi University in ET. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.506531
+date: 2026-07-10T01:07:48.491856
 url: "/cdr-researcher-census/researchers/girma-tilahun-getnet-a5012523/"
 layout: "researcher"
 hiddenInHomeList: true

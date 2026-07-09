@@ -1,7 +1,7 @@
 ---
 title: "Xingfeng Zhang"
 description: "Xingfeng Zhang is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 58 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.180104
+date: 2026-07-10T01:07:47.269029
 url: "/cdr-researcher-census/researchers/xingfeng-zhang-a5033548/"
 layout: "researcher"
 hiddenInHomeList: true

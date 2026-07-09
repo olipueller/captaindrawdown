@@ -1,7 +1,7 @@
 ---
 title: "Nahid Khan"
 description: "Nahid Khan is a Senior Soil Carbon researcher at University of Helsinki in FI. With 69 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.012227
+date: 2026-07-10T01:07:47.076271
 url: "/cdr-researcher-census/researchers/nahid-khan-a5013261/"
 layout: "researcher"
 hiddenInHomeList: true

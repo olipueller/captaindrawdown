@@ -1,7 +1,7 @@
 ---
 title: "Jinshan Lian"
 description: "Jinshan Lian is an Early-career Soil Carbon researcher at University of Liège in BE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.872952
+date: 2026-07-10T01:07:48.800930
 url: "/cdr-researcher-census/researchers/jinshan-lian-a5054670/"
 layout: "researcher"
 hiddenInHomeList: true

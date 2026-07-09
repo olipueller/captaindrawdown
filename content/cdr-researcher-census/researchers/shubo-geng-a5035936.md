@@ -1,7 +1,7 @@
 ---
 title: "Shubo Geng"
 description: "Shubo Geng is a Senior Unknown researcher at Nankai University in CN. With 49 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.171966
+date: 2026-07-10T01:07:47.261637
 url: "/cdr-researcher-census/researchers/shubo-geng-a5035936/"
 layout: "researcher"
 hiddenInHomeList: true

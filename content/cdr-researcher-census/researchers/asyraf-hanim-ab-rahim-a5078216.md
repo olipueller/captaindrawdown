@@ -1,7 +1,7 @@
 ---
 title: "Asyraf Hanim Ab Rahim"
 description: "Asyraf Hanim Ab Rahim is a Mid-career Unknown researcher at Universiti Teknologi Petronas in MY. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.196476
+date: 2026-07-10T01:07:48.209829
 url: "/cdr-researcher-census/researchers/asyraf-hanim-ab-rahim-a5078216/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shweta Tripathi"
 description: "Shweta Tripathi is a Senior General CDR researcher at International Centre for Genetic Engineering and Biotechnology in IN. With 43 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.340534
+date: 2026-07-10T01:07:47.423444
 url: "/cdr-researcher-census/researchers/shweta-tripathi-a5018912/"
 layout: "researcher"
 hiddenInHomeList: true

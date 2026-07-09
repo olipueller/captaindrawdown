@@ -1,7 +1,7 @@
 ---
 title: "Dan Asael"
 description: "Dan Asael is a Senior Enhanced Weathering researcher at Yale University in US. With 81 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.012344
+date: 2026-07-10T01:07:47.076491
 url: "/cdr-researcher-census/researchers/dan-asael-a5005771/"
 layout: "researcher"
 hiddenInHomeList: true

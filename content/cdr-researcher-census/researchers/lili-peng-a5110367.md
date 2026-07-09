@@ -1,7 +1,7 @@
 ---
 title: "Lili Peng"
 description: "Lili Peng is a Senior Unknown researcher at China-Japan Friendship Hospital in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.553226
+date: 2026-07-10T01:07:47.617461
 url: "/cdr-researcher-census/researchers/lili-peng-a5110367/"
 layout: "researcher"
 hiddenInHomeList: true

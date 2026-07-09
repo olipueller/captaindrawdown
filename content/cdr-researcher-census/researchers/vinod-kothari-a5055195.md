@@ -1,7 +1,7 @@
 ---
 title: "Vinod Kothari"
 description: "Vinod Kothari is a Mid-career Unknown researcher at Himalayan University in IN. With 2 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.427637
+date: 2026-07-10T01:07:48.417842
 url: "/cdr-researcher-census/researchers/vinod-kothari-a5055195/"
 layout: "researcher"
 hiddenInHomeList: true

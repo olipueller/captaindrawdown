@@ -1,7 +1,7 @@
 ---
 title: "Alisson Lopes Freire"
 description: "Alisson Lopes Freire is a Mid-career Unknown researcher at Universidade Federal de Santa Catarina in BR. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.430342
+date: 2026-07-10T01:07:48.420323
 url: "/cdr-researcher-census/researchers/alisson-lopes-freire-a5069263/"
 layout: "researcher"
 hiddenInHomeList: true

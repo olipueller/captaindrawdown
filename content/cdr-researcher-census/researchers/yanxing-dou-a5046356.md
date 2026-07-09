@@ -1,7 +1,7 @@
 ---
 title: "Yanxing Dou"
 description: "Yanxing Dou is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 31 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.065177
+date: 2026-07-10T01:07:47.142567
 url: "/cdr-researcher-census/researchers/yanxing-dou-a5046356/"
 layout: "researcher"
 hiddenInHomeList: true

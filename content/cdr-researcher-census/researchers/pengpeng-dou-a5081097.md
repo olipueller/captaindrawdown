@@ -1,7 +1,7 @@
 ---
 title: "Pengpeng Dou"
 description: "Pengpeng Dou is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.597436
+date: 2026-07-10T01:07:47.660353
 url: "/cdr-researcher-census/researchers/pengpeng-dou-a5081097/"
 layout: "researcher"
 hiddenInHomeList: true

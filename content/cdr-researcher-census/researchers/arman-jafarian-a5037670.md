@@ -1,7 +1,7 @@
 ---
 title: "Arman Jafarian"
 description: "Arman Jafarian is a Mid-career Unknown researcher at Zhejiang Ocean University in CN. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.606378
+date: 2026-07-10T01:07:47.667932
 url: "/cdr-researcher-census/researchers/arman-jafarian-a5037670/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hamza Kenfoud"
 description: "Hamza Kenfoud is a Mid-career Unknown researcher at University of Sciences and Technology Houari Boumediene in DZ. With 18 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.405481
+date: 2026-07-10T01:07:47.485410
 url: "/cdr-researcher-census/researchers/hamza-kenfoud-a5042245/"
 layout: "researcher"
 hiddenInHomeList: true

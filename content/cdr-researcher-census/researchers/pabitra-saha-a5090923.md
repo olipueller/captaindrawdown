@@ -1,7 +1,7 @@
 ---
 title: "Pabitra Saha"
 description: "Pabitra Saha is a Mid-career Unknown researcher at DWI – Leibniz Institute for Interactive Materials in DE. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.066622
+date: 2026-07-10T01:07:48.069285
 url: "/cdr-researcher-census/researchers/pabitra-saha-a5090923/"
 layout: "researcher"
 hiddenInHomeList: true

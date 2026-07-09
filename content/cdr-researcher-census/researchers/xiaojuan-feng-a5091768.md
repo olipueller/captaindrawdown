@@ -1,7 +1,7 @@
 ---
 title: "Xiaojuan Feng"
 description: "Xiaojuan Feng is an Eminent Soil Carbon researcher at University of the Chinese Academy of Sciences in CN. With 153 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.919437
+date: 2026-07-10T01:07:46.926582
 url: "/cdr-researcher-census/researchers/xiaojuan-feng-a5091768/"
 layout: "researcher"
 hiddenInHomeList: true

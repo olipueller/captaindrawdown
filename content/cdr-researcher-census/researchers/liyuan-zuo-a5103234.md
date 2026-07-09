@@ -1,7 +1,7 @@
 ---
 title: "Liyuan Zuo"
 description: "Liyuan Zuo is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 24 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.381448
+date: 2026-07-10T01:07:47.463028
 url: "/cdr-researcher-census/researchers/liyuan-zuo-a5103234/"
 layout: "researcher"
 hiddenInHomeList: true

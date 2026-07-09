@@ -1,7 +1,7 @@
 ---
 title: "Chung-I Chen"
 description: "Chung-I Chen is a Senior Soil Carbon researcher at National Pingtung University of Science and Technology in TW. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.841398
+date: 2026-07-10T01:07:47.877068
 url: "/cdr-researcher-census/researchers/chung-i-chen-a5063538/"
 layout: "researcher"
 hiddenInHomeList: true

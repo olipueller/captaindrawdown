@@ -1,7 +1,7 @@
 ---
 title: "Hakhyeon Song"
 description: "Hakhyeon Song is a Senior General CDR researcher at Georgia Institute of Technology in US. With 40 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.092623
+date: 2026-07-10T01:07:47.175680
 url: "/cdr-researcher-census/researchers/hakhyeon-song-a5076742/"
 layout: "researcher"
 hiddenInHomeList: true

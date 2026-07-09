@@ -1,7 +1,7 @@
 ---
 title: "Rukayya Ibrahim Muazu"
 description: "Rukayya Ibrahim Muazu is a Mid-career Unknown researcher at Imperial College London in GB. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.635385
+date: 2026-07-10T01:07:47.694934
 url: "/cdr-researcher-census/researchers/rukayya-ibrahim-muazu-a5020843/"
 layout: "researcher"
 hiddenInHomeList: true

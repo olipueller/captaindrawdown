@@ -1,7 +1,7 @@
 ---
 title: "Manichanh Satdichanh"
 description: "Manichanh Satdichanh is a Mid-career Soil Carbon researcher at University of Hawaiʻi at Mānoa in US. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.387112
+date: 2026-07-10T01:07:47.468056
 url: "/cdr-researcher-census/researchers/manichanh-satdichanh-a5022134/"
 layout: "researcher"
 hiddenInHomeList: true

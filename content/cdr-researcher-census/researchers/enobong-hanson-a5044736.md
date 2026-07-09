@@ -1,7 +1,7 @@
 ---
 title: "Enobong Hanson"
 description: "Enobong Hanson is a Senior General CDR researcher at National Institute of Standards and Technology in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.397787
+date: 2026-07-10T01:07:47.478664
 url: "/cdr-researcher-census/researchers/enobong-hanson-a5044736/"
 layout: "researcher"
 hiddenInHomeList: true

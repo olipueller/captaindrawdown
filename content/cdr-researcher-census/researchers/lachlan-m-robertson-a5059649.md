@@ -1,7 +1,7 @@
 ---
 title: "Lachlan M. Robertson"
 description: "Lachlan M. Robertson is a Mid-career Soil Carbon researcher at The University of Queensland in AU. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.706324
+date: 2026-07-10T01:07:47.760544
 url: "/cdr-researcher-census/researchers/lachlan-m-robertson-a5059649/"
 layout: "researcher"
 hiddenInHomeList: true

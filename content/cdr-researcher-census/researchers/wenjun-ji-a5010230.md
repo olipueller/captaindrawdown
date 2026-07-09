@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Ji"
 description: "Wenjun Ji is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 112 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.958973
+date: 2026-07-10T01:07:46.996072
 url: "/cdr-researcher-census/researchers/wenjun-ji-a5010230/"
 layout: "researcher"
 hiddenInHomeList: true

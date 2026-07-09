@@ -1,7 +1,7 @@
 ---
 title: "Chenghao Zheng"
 description: "Chenghao Zheng is a Senior Soil Carbon researcher at Zhejiang Sci-Tech University in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.955669
+date: 2026-07-10T01:07:47.966836
 url: "/cdr-researcher-census/researchers/chenghao-zheng-a5107807/"
 layout: "researcher"
 hiddenInHomeList: true

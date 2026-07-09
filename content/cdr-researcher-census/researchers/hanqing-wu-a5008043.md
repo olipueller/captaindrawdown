@@ -1,7 +1,7 @@
 ---
 title: "Hanqing Wu"
 description: "Hanqing Wu is a Mid-career Soil Carbon researcher at Institute of Subtropical Agriculture in CN. With 44 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.417424
+date: 2026-07-10T01:07:47.496539
 url: "/cdr-researcher-census/researchers/hanqing-wu-a5008043/"
 layout: "researcher"
 hiddenInHomeList: true

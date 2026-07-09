@@ -1,7 +1,7 @@
 ---
 title: "Xuelian Bao"
 description: "Xuelian Bao is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 53 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.106679
+date: 2026-07-10T01:07:47.191842
 url: "/cdr-researcher-census/researchers/xuelian-bao-a5101177/"
 layout: "researcher"
 hiddenInHomeList: true

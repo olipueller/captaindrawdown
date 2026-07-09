@@ -1,7 +1,7 @@
 ---
 title: "Lluís Godo-Pla"
 description: "Lluís Godo-Pla is a Mid-career Unknown researcher at Universitat de Girona in ES. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.535737
+date: 2026-07-10T01:07:48.517846
 url: "/cdr-researcher-census/researchers/lluis-godo-pla-a5054530/"
 layout: "researcher"
 hiddenInHomeList: true

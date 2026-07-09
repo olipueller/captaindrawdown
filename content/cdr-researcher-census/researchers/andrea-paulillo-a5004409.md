@@ -1,7 +1,7 @@
 ---
 title: "Andrea Paulillo"
 description: "Andrea Paulillo is a Mid-career General CDR researcher at University College London in GB. With 68 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.384238
+date: 2026-07-10T01:07:47.465556
 url: "/cdr-researcher-census/researchers/andrea-paulillo-a5004409/"
 layout: "researcher"
 hiddenInHomeList: true

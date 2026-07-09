@@ -1,7 +1,7 @@
 ---
 title: "B Sabarinath"
 description: "B Sabarinath is a Mid-career Unknown researcher at Meenakshi Ammal Dental College and Hospital in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.399230
+date: 2026-07-10T01:07:48.391258
 url: "/cdr-researcher-census/researchers/b-sabarinath-a5054064/"
 layout: "researcher"
 hiddenInHomeList: true

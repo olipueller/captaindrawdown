@@ -1,7 +1,7 @@
 ---
 title: "Jorge Alfredo Uquillas"
 description: "Jorge Alfredo Uquillas is a Senior Unknown researcher at Eindhoven University of Technology in NL. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.077934
+date: 2026-07-10T01:07:47.158186
 url: "/cdr-researcher-census/researchers/jorge-alfredo-uquillas-a5026849/"
 layout: "researcher"
 hiddenInHomeList: true

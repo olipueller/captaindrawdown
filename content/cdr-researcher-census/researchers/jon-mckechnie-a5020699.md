@@ -1,7 +1,7 @@
 ---
 title: "Jon McKechnie"
 description: "Jon McKechnie is a Senior General CDR researcher at University of Nottingham in GB. With 102 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.973180
+date: 2026-07-10T01:07:47.018708
 url: "/cdr-researcher-census/researchers/jon-mckechnie-a5020699/"
 layout: "researcher"
 hiddenInHomeList: true

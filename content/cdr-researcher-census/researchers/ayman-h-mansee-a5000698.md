@@ -1,7 +1,7 @@
 ---
 title: "Ayman H. Mansee"
 description: "Ayman H. Mansee is a Senior Biochar researcher at Alexandria University in EG. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.394296
+date: 2026-07-10T01:07:48.386867
 url: "/cdr-researcher-census/researchers/ayman-h-mansee-a5000698/"
 layout: "researcher"
 hiddenInHomeList: true

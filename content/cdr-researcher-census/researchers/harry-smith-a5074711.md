@@ -1,7 +1,7 @@
 ---
 title: "Harry Smith"
 description: "Harry Smith is an Early-career General CDR researcher at University of East Anglia in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.504470
+date: 2026-07-10T01:07:48.490118
 url: "/cdr-researcher-census/researchers/harry-smith-a5074711/"
 layout: "researcher"
 hiddenInHomeList: true

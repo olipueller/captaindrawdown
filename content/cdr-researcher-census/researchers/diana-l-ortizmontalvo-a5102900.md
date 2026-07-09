@@ -1,7 +1,7 @@
 ---
 title: "Diana L. Ortiz‐Montalvo"
 description: "Diana L. Ortiz‐Montalvo is a Senior General CDR researcher at National Institute of Standards and Technology in US. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.798791
+date: 2026-07-10T01:07:47.846674
 url: "/cdr-researcher-census/researchers/diana-l-ortizmontalvo-a5102900/"
 layout: "researcher"
 hiddenInHomeList: true

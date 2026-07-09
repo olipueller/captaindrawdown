@@ -1,7 +1,7 @@
 ---
 title: "Ed Tegeler"
 description: "Ed Tegeler is a Mid-career Unknown researcher at Emissol (United States) in US. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.404260
+date: 2026-07-10T01:07:48.395904
 url: "/cdr-researcher-census/researchers/ed-tegeler-a5000639/"
 layout: "researcher"
 hiddenInHomeList: true

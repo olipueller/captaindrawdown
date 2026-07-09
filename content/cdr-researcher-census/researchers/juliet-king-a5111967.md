@@ -1,7 +1,7 @@
 ---
 title: "Juliet King"
 description: "Juliet King is a Senior Soil Carbon researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.601166
+date: 2026-07-10T01:07:47.663173
 url: "/cdr-researcher-census/researchers/juliet-king-a5111967/"
 layout: "researcher"
 hiddenInHomeList: true

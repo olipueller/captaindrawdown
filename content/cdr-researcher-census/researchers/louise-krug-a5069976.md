@@ -1,7 +1,7 @@
 ---
 title: "Louise Krug"
 description: "Louise Krug is a Mid-career Unknown researcher at BT Research in GB. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.976438
+date: 2026-07-10T01:07:48.896436
 url: "/cdr-researcher-census/researchers/louise-krug-a5069976/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thibault Salou"
 description: "Thibault Salou is a Mid-career General CDR researcher at Université de Montpellier in FR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.797257
+date: 2026-07-10T01:07:48.736555
 url: "/cdr-researcher-census/researchers/thibault-salou-a5008010/"
 layout: "researcher"
 hiddenInHomeList: true

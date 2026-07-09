@@ -1,7 +1,7 @@
 ---
 title: "Navaneethan Subramanian"
 description: "Navaneethan Subramanian is a Mid-career General CDR researcher at AGH University of Krakow in PL. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.501393
+date: 2026-07-10T01:07:47.571024
 url: "/cdr-researcher-census/researchers/navaneethan-subramanian-a5028123/"
 layout: "researcher"
 hiddenInHomeList: true

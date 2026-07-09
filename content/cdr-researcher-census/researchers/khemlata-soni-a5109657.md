@@ -1,7 +1,7 @@
 ---
 title: "Khemlata Soni"
 description: "Khemlata Soni is a Mid-career Biochar researcher at Maharana Pratap University of Agriculture and Technology in IN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.127331
+date: 2026-07-10T01:07:49.032514
 url: "/cdr-researcher-census/researchers/khemlata-soni-a5109657/"
 layout: "researcher"
 hiddenInHomeList: true

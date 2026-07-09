@@ -1,7 +1,7 @@
 ---
 title: "Zexin Su"
 description: "Zexin Su is a Mid-career Unknown researcher at Zhujiang Hospital in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.857452
+date: 2026-07-10T01:07:47.892780
 url: "/cdr-researcher-census/researchers/zexin-su-a5029523/"
 layout: "researcher"
 hiddenInHomeList: true

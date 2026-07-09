@@ -1,7 +1,7 @@
 ---
 title: "Raquel Renó"
 description: "Raquel Renó is a Mid-career Ocean CDR researcher at Universidade do Estado do Rio de Janeiro in BR. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.919563
+date: 2026-07-10T01:07:48.843441
 url: "/cdr-researcher-census/researchers/raquel-reno-a5061526/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nasrin Fazelian"
 description: "Nasrin Fazelian is a Mid-career Unknown researcher at University of Hormozgan in IR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.320506
+date: 2026-07-10T01:07:48.321722
 url: "/cdr-researcher-census/researchers/nasrin-fazelian-a5036839/"
 layout: "researcher"
 hiddenInHomeList: true

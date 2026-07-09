@@ -1,7 +1,7 @@
 ---
 title: "Kiyoung Yoo"
 description: "Kiyoung Yoo is an Early-career Unknown researcher at Pusan National University in KR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.245800
+date: 2026-07-10T01:07:49.153750
 url: "/cdr-researcher-census/researchers/kiyoung-yoo-a5015893/"
 layout: "researcher"
 hiddenInHomeList: true

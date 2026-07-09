@@ -1,7 +1,7 @@
 ---
 title: "Zhiqun Bai"
 description: "Zhiqun Bai is a Mid-career Unknown researcher at First Hospital of China Medical University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.164467
+date: 2026-07-10T01:07:49.055199
 url: "/cdr-researcher-census/researchers/zhiqun-bai-a5041427/"
 layout: "researcher"
 hiddenInHomeList: true

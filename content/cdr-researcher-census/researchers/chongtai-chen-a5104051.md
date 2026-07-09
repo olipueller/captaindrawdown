@@ -1,7 +1,7 @@
 ---
 title: "Chongtai Chen"
 description: "Chongtai Chen is a Mid-career Unknown researcher at Shanghai Ocean University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.090324
+date: 2026-07-10T01:07:48.999688
 url: "/cdr-researcher-census/researchers/chongtai-chen-a5104051/"
 layout: "researcher"
 hiddenInHomeList: true

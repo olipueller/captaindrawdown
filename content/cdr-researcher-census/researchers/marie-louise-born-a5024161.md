@@ -1,7 +1,7 @@
 ---
 title: "Marie Louise Bornø"
 description: "Marie Louise Bornø is a Mid-career Biochar researcher at University of Copenhagen in DK. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.736099
+date: 2026-07-10T01:07:47.788244
 url: "/cdr-researcher-census/researchers/marie-louise-born-a5024161/"
 layout: "researcher"
 hiddenInHomeList: true

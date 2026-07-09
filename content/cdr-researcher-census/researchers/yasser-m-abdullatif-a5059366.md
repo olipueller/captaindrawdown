@@ -1,7 +1,7 @@
 ---
 title: "Yasser M. Abdullatif"
 description: "Yasser M. Abdullatif is a Mid-career General CDR researcher at Hamad bin Khalifa University in QA. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.333201
+date: 2026-07-10T01:07:47.414858
 url: "/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/"
 layout: "researcher"
 hiddenInHomeList: true

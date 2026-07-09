@@ -1,7 +1,7 @@
 ---
 title: "Zhong Liu"
 description: "Zhong Liu is an Early-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.923832
+date: 2026-07-10T01:07:48.847412
 url: "/cdr-researcher-census/researchers/zhong-liu-a5016123/"
 layout: "researcher"
 hiddenInHomeList: true

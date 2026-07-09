@@ -1,7 +1,7 @@
 ---
 title: "Thushara Addanki"
 description: "Thushara Addanki is a Mid-career General CDR researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.463441
+date: 2026-07-10T01:07:48.451289
 url: "/cdr-researcher-census/researchers/thushara-addanki-a5074483/"
 layout: "researcher"
 hiddenInHomeList: true

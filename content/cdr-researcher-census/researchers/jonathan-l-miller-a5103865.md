@@ -1,7 +1,7 @@
 ---
 title: "Jonathan L. Miller"
 description: "Jonathan L. Miller is a Senior General CDR researcher at Applied Research Associates (United States) in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.192767
+date: 2026-07-10T01:07:48.206921
 url: "/cdr-researcher-census/researchers/jonathan-l-miller-a5103865/"
 layout: "researcher"
 hiddenInHomeList: true

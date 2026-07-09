@@ -1,7 +1,7 @@
 ---
 title: "Karen Luko-Sulato"
 description: "Karen Luko-Sulato is a Mid-career Unknown researcher at Instituto de Geociencias in ES. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.310052
+date: 2026-07-10T01:07:48.312742
 url: "/cdr-researcher-census/researchers/karen-luko-sulato-a5087657/"
 layout: "researcher"
 hiddenInHomeList: true

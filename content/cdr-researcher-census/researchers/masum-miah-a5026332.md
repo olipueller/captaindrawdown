@@ -1,7 +1,7 @@
 ---
 title: "Masum Miah"
 description: "Masum Miah is an Early-career Unknown researcher at Magyar Agrár- és Élettudományi Egyetem in HU. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.744467
+date: 2026-07-10T01:07:48.691231
 url: "/cdr-researcher-census/researchers/masum-miah-a5026332/"
 layout: "researcher"
 hiddenInHomeList: true

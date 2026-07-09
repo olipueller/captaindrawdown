@@ -1,7 +1,7 @@
 ---
 title: "Chengyang Tang"
 description: "Chengyang Tang is an Early-career Unknown researcher at South China Agricultural University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.135190
+date: 2026-07-10T01:07:49.039047
 url: "/cdr-researcher-census/researchers/chengyang-tang-a5028051/"
 layout: "researcher"
 hiddenInHomeList: true

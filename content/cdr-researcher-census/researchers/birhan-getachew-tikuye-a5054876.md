@@ -1,7 +1,7 @@
 ---
 title: "Birhan Getachew Tikuye"
 description: "Birhan Getachew Tikuye is a Mid-career Unknown researcher at Mangalore University in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.054176
+date: 2026-07-10T01:07:48.967518
 url: "/cdr-researcher-census/researchers/birhan-getachew-tikuye-a5054876/"
 layout: "researcher"
 hiddenInHomeList: true

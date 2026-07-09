@@ -1,7 +1,7 @@
 ---
 title: "María H. Toyos"
 description: "María H. Toyos is a Mid-career Unknown researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.606549
+date: 2026-07-10T01:07:48.569167
 url: "/cdr-researcher-census/researchers/maria-h-toyos-a5078743/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Léon F. Hirt"
 description: "Léon F. Hirt is a Mid-career Unknown researcher at University of Cambridge in GB. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.686705
+date: 2026-07-10T01:07:47.742953
 url: "/cdr-researcher-census/researchers/leon-f-hirt-a5073233/"
 layout: "researcher"
 hiddenInHomeList: true

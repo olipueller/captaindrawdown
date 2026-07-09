@@ -1,7 +1,7 @@
 ---
 title: "Heguo Li"
 description: "Heguo Li is a Senior Unknown researcher at Guangzhou University in CN. With 50 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.281789
+date: 2026-07-10T01:07:47.364016
 url: "/cdr-researcher-census/researchers/heguo-li-a5016044/"
 layout: "researcher"
 hiddenInHomeList: true

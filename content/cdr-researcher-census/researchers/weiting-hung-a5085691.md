@@ -1,7 +1,7 @@
 ---
 title: "Wei‐Ting Hung"
 description: "Wei‐Ting Hung is a Mid-career Unknown researcher at NOAA Air Resources Laboratory in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.033520
+date: 2026-07-10T01:07:48.948504
 url: "/cdr-researcher-census/researchers/weiting-hung-a5085691/"
 layout: "researcher"
 hiddenInHomeList: true

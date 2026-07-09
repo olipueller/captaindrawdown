@@ -1,7 +1,7 @@
 ---
 title: "Jung Soo Mun"
 description: "Jung Soo Mun is a Senior General CDR researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.367823
+date: 2026-07-10T01:07:48.365120
 url: "/cdr-researcher-census/researchers/jung-soo-mun-a5113688/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoshuai Song"
 description: "Xiaoshuai Song is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.903825
+date: 2026-07-10T01:07:48.829307
 url: "/cdr-researcher-census/researchers/xiaoshuai-song-a5070568/"
 layout: "researcher"
 hiddenInHomeList: true

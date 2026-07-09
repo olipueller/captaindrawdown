@@ -1,7 +1,7 @@
 ---
 title: "Finnegan G. Reichertz"
 description: "Finnegan G. Reichertz is an Early-career Unknown researcher at Lawrence Berkeley National Laboratory in US. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.460364
+date: 2026-07-10T01:07:47.534508
 url: "/cdr-researcher-census/researchers/finnegan-g-reichertz-a5041437/"
 layout: "researcher"
 hiddenInHomeList: true

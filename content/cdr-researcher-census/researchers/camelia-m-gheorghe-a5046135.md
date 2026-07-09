@@ -1,7 +1,7 @@
 ---
 title: "Camelia M. Gheorghe"
 description: "Camelia M. Gheorghe is a Senior Unknown researcher at Romanian-American University in RO. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.252960
+date: 2026-07-10T01:07:49.160030
 url: "/cdr-researcher-census/researchers/camelia-m-gheorghe-a5046135/"
 layout: "researcher"
 hiddenInHomeList: true

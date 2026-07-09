@@ -1,7 +1,7 @@
 ---
 title: "V Cottam"
 description: "V Cottam is a Mid-career Unknown researcher at Uppsala University in SE. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.268016
+date: 2026-07-10T01:07:47.351294
 url: "/cdr-researcher-census/researchers/v-cottam-a5112683/"
 layout: "researcher"
 hiddenInHomeList: true

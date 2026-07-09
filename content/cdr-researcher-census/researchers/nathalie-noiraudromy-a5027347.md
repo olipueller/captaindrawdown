@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Noiraud‐Romy"
 description: "Nathalie Noiraud‐Romy is a Senior Unknown researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.713345
+date: 2026-07-10T01:07:48.664369
 url: "/cdr-researcher-census/researchers/nathalie-noiraudromy-a5027347/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muneer Ahmed"
 description: "Muneer Ahmed is a Senior Soil Carbon researcher at Lasbela University of Agriculture Water and Marine Science in PK. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.882908
+date: 2026-07-10T01:07:47.898380
 url: "/cdr-researcher-census/researchers/muneer-ahmed-a5101318/"
 layout: "researcher"
 hiddenInHomeList: true

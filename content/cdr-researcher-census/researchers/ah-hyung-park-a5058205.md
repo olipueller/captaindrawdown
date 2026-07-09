@@ -1,7 +1,7 @@
 ---
 title: "Ah-Hyung Park"
 description: "Ah-Hyung Park is a Senior Unknown researcher. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.586234
+date: 2026-07-10T01:07:48.551264
 url: "/cdr-researcher-census/researchers/ah-hyung-park-a5058205/"
 layout: "researcher"
 hiddenInHomeList: true

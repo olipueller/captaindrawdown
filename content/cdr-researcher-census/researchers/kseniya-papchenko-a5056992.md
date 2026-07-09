@@ -1,7 +1,7 @@
 ---
 title: "Kseniya Papchenko"
 description: "Kseniya Papchenko is a Mid-career Unknown researcher at University of Edinburgh in GB. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.666139
+date: 2026-07-10T01:07:48.622471
 url: "/cdr-researcher-census/researchers/kseniya-papchenko-a5056992/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiaying He"
 description: "Jiaying He is a Senior Soil Carbon researcher at Tsinghua University in CN. With 81 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.226414
+date: 2026-07-10T01:07:47.313287
 url: "/cdr-researcher-census/researchers/jiaying-he-a5073139/"
 layout: "researcher"
 hiddenInHomeList: true

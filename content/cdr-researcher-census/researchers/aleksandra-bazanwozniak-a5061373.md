@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Bazan‐Wozniak"
 description: "Aleksandra Bazan‐Wozniak is a Mid-career Biochar researcher at Adam Mickiewicz University in Poznań in PL. With 63 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.397267
+date: 2026-07-10T01:07:47.478175
 url: "/cdr-researcher-census/researchers/aleksandra-bazanwozniak-a5061373/"
 layout: "researcher"
 hiddenInHomeList: true

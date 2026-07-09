@@ -1,7 +1,7 @@
 ---
 title: "Yankun Liu"
 description: "Yankun Liu is a Senior Unknown researcher at Heilongjiang Vocational Institute of Ecological Engineering in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.074097
+date: 2026-07-10T01:07:48.985178
 url: "/cdr-researcher-census/researchers/yankun-liu-a5042107/"
 layout: "researcher"
 hiddenInHomeList: true

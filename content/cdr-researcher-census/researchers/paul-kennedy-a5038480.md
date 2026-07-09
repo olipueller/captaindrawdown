@@ -1,7 +1,7 @@
 ---
 title: "Paul Kennedy"
 description: "Paul Kennedy is a Senior Unknown researcher at Environment Agency in GB. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.629042
+date: 2026-07-10T01:07:47.688619
 url: "/cdr-researcher-census/researchers/paul-kennedy-a5038480/"
 layout: "researcher"
 hiddenInHomeList: true

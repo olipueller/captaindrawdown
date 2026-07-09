@@ -1,7 +1,7 @@
 ---
 title: "Bahaa S. Metwally"
 description: "Bahaa S. Metwally is a Mid-career Biochar researcher at Beni-Suef University in EG. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.113638
+date: 2026-07-10T01:07:48.138820
 url: "/cdr-researcher-census/researchers/bahaa-s-metwally-a5113846/"
 layout: "researcher"
 hiddenInHomeList: true

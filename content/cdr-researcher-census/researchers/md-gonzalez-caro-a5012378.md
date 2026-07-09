@@ -1,7 +1,7 @@
 ---
 title: "M.D. González-Caro"
 description: "M.D. González-Caro is a Mid-career Unknown researcher at Hospital Universitario Virgen Macarena in ES. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.324242
+date: 2026-07-10T01:07:48.324830
 url: "/cdr-researcher-census/researchers/md-gonzalez-caro-a5012378/"
 layout: "researcher"
 hiddenInHomeList: true

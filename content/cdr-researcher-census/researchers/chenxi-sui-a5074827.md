@@ -1,7 +1,7 @@
 ---
 title: "Chenxi Sui"
 description: "Chenxi Sui is a Mid-career General CDR researcher at Zhejiang Sci-Tech University in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.119116
+date: 2026-07-10T01:07:47.206055
 url: "/cdr-researcher-census/researchers/chenxi-sui-a5074827/"
 layout: "researcher"
 hiddenInHomeList: true

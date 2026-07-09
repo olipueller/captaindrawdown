@@ -1,7 +1,7 @@
 ---
 title: "Véronique Helfer"
 description: "Véronique Helfer is a Senior General CDR researcher at Leibniz Centre for Tropical Marine Research in DE. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.014432
+date: 2026-07-10T01:07:47.079571
 url: "/cdr-researcher-census/researchers/veronique-helfer-a5091848/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Isabel Mendes"
 description: "Isabel Mendes is a Senior Ocean CDR researcher at University of Algarve in PT. With 62 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.334476
+date: 2026-07-10T01:07:47.416395
 url: "/cdr-researcher-census/researchers/isabel-mendes-a5014439/"
 layout: "researcher"
 hiddenInHomeList: true

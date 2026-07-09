@@ -1,7 +1,7 @@
 ---
 title: "Chunyan Tian"
 description: "Chunyan Tian is a Senior Biochar researcher at Shandong University of Technology in CN. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.287117
+date: 2026-07-10T01:07:47.369262
 url: "/cdr-researcher-census/researchers/chunyan-tian-a5056348/"
 layout: "researcher"
 hiddenInHomeList: true

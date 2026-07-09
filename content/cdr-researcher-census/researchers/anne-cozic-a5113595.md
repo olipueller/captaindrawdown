@@ -1,7 +1,7 @@
 ---
 title: "Anne Cozic"
 description: "Anne Cozic is a Senior General CDR researcher at Centre National de la Recherche Scientifique in FR. With 5 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.236485
+date: 2026-07-10T01:07:48.245960
 url: "/cdr-researcher-census/researchers/anne-cozic-a5113595/"
 layout: "researcher"
 hiddenInHomeList: true

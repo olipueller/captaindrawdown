@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Wifaya"
 description: "Ahmed Wifaya is a Mid-career Soil Carbon researcher at National Agricultural Research Institute in PG. With 49 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.389188
+date: 2026-07-10T01:07:47.469981
 url: "/cdr-researcher-census/researchers/ahmed-wifaya-a5026359/"
 layout: "researcher"
 hiddenInHomeList: true

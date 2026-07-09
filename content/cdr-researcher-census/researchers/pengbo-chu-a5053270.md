@@ -1,7 +1,7 @@
 ---
 title: "Pengbo Chu"
 description: "Pengbo Chu is a Mid-career Unknown researcher at University of Nevada Reno in US. With 47 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.429721
+date: 2026-07-10T01:07:47.507606
 url: "/cdr-researcher-census/researchers/pengbo-chu-a5053270/"
 layout: "researcher"
 hiddenInHomeList: true

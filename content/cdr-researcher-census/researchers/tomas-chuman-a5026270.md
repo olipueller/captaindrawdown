@@ -1,7 +1,7 @@
 ---
 title: "Tomáš Chuman"
 description: "Tomáš Chuman is a Senior Soil Carbon researcher at Charles University in CZ. With 84 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.139738
+date: 2026-07-10T01:07:47.228311
 url: "/cdr-researcher-census/researchers/tomas-chuman-a5026270/"
 layout: "researcher"
 hiddenInHomeList: true

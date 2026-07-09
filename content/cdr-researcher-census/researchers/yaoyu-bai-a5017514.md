@@ -1,7 +1,7 @@
 ---
 title: "Yaoyu Bai"
 description: "Yaoyu Bai is a Senior Unknown researcher at Southwest University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.776733
+date: 2026-07-10T01:07:47.826098
 url: "/cdr-researcher-census/researchers/yaoyu-bai-a5017514/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Obste Therasme"
 description: "Obste Therasme is a Mid-career Unknown researcher at SUNY College of Environmental Science and Forestry in US. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.921630
+date: 2026-07-10T01:07:47.935260
 url: "/cdr-researcher-census/researchers/obste-therasme-a5020735/"
 layout: "researcher"
 hiddenInHomeList: true

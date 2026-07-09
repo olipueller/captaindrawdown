@@ -1,7 +1,7 @@
 ---
 title: "Minhui Kim"
 description: "Minhui Kim is a Mid-career Unknown researcher at Ulsan College in KR. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.831874
+date: 2026-07-10T01:07:48.765812
 url: "/cdr-researcher-census/researchers/minhui-kim-a5101231/"
 layout: "researcher"
 hiddenInHomeList: true

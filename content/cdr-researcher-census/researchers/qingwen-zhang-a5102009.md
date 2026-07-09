@@ -1,7 +1,7 @@
 ---
 title: "Qingwen Zhang"
 description: "Qingwen Zhang is a Senior Unknown researcher at Harbin Institute of Technology in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.999575
+date: 2026-07-10T01:07:48.917623
 url: "/cdr-researcher-census/researchers/qingwen-zhang-a5102009/"
 layout: "researcher"
 hiddenInHomeList: true

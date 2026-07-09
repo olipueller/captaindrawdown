@@ -1,7 +1,7 @@
 ---
 title: "Minghui Pan"
 description: "Minghui Pan is a Mid-career Biochar researcher at Zhejiang University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.807987
+date: 2026-07-10T01:07:47.854402
 url: "/cdr-researcher-census/researchers/minghui-pan-a5054373/"
 layout: "researcher"
 hiddenInHomeList: true

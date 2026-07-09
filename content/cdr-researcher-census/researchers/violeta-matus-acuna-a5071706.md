@@ -1,7 +1,7 @@
 ---
 title: "Violeta Matus-Acuña"
 description: "Violeta Matus-Acuña is a Mid-career Unknown researcher at Universidad Nacional Autónoma de México in MX. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.902419
+date: 2026-07-10T01:07:48.827854
 url: "/cdr-researcher-census/researchers/violeta-matus-acuna-a5071706/"
 layout: "researcher"
 hiddenInHomeList: true

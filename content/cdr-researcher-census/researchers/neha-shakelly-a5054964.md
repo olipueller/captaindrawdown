@@ -1,7 +1,7 @@
 ---
 title: "Neha Shakelly"
 description: "Neha Shakelly is a Mid-career Unknown researcher at United States Department of Energy Office of Science Argonne National Laboratory in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.933467
+date: 2026-07-10T01:07:48.856479
 url: "/cdr-researcher-census/researchers/neha-shakelly-a5054964/"
 layout: "researcher"
 hiddenInHomeList: true

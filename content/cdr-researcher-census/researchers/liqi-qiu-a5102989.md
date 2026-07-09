@@ -1,7 +1,7 @@
 ---
 title: "Liqi Qiu"
 description: "Liqi Qiu is a Senior Unknown researcher at University of Tennessee at Knoxville in US. With 63 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.157849
+date: 2026-07-10T01:07:47.246907
 url: "/cdr-researcher-census/researchers/liqi-qiu-a5102989/"
 layout: "researcher"
 hiddenInHomeList: true

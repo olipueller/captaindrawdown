@@ -1,7 +1,7 @@
 ---
 title: "Pengke Yan"
 description: "Pengke Yan is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.578996
+date: 2026-07-10T01:07:47.642115
 url: "/cdr-researcher-census/researchers/pengke-yan-a5059754/"
 layout: "researcher"
 hiddenInHomeList: true

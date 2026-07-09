@@ -1,7 +1,7 @@
 ---
 title: "Javier Martin Echazarreta"
 description: "Javier Martin Echazarreta is a Mid-career Soil Carbon researcher at Universidad Nacional de Lomas de Zamora in AR. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.122705
+date: 2026-07-10T01:07:49.028079
 url: "/cdr-researcher-census/researchers/javier-martin-echazarreta-a5079220/"
 layout: "researcher"
 hiddenInHomeList: true

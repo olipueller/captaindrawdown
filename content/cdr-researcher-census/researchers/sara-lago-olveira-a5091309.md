@@ -1,7 +1,7 @@
 ---
 title: "Sara Lago-Olveira"
 description: "Sara Lago-Olveira is a Mid-career General CDR researcher at Universidade de Santiago de Compostela in ES. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.044994
+date: 2026-07-10T01:07:48.958572
 url: "/cdr-researcher-census/researchers/sara-lago-olveira-a5091309/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lanxin Xu"
 description: "Lanxin Xu is a Mid-career Biochar researcher at Westlake University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.205125
+date: 2026-07-10T01:07:48.218429
 url: "/cdr-researcher-census/researchers/lanxin-xu-a5111012/"
 layout: "researcher"
 hiddenInHomeList: true

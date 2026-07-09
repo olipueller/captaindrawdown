@@ -1,7 +1,7 @@
 ---
 title: "Philipp Oggiano"
 description: "Philipp Oggiano is an Early-career Unknown researcher at Forschungsinstitut für Biologischen Landbau in CH. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.094841
+date: 2026-07-10T01:07:49.003497
 url: "/cdr-researcher-census/researchers/philipp-oggiano-a5058003/"
 layout: "researcher"
 hiddenInHomeList: true

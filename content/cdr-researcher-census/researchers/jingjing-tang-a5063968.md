@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Tang"
 description: "Jingjing Tang is a Mid-career Soil Carbon researcher at Central South University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.544706
+date: 2026-07-10T01:07:48.525582
 url: "/cdr-researcher-census/researchers/jingjing-tang-a5063968/"
 layout: "researcher"
 hiddenInHomeList: true

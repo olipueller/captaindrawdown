@@ -1,7 +1,7 @@
 ---
 title: "Som Dutta"
 description: "Som Dutta is a Senior Unknown researcher at Utah State University in US. With 73 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.566470
+date: 2026-07-10T01:07:47.630359
 url: "/cdr-researcher-census/researchers/som-dutta-a5020239/"
 layout: "researcher"
 hiddenInHomeList: true

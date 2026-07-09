@@ -1,7 +1,7 @@
 ---
 title: "Christine S. Fagnant-Sperati"
 description: "Christine S. Fagnant-Sperati is a Mid-career Unknown researcher. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.567790
+date: 2026-07-10T01:07:48.546464
 url: "/cdr-researcher-census/researchers/christine-s-fagnant-sperati-a5039545/"
 layout: "researcher"
 hiddenInHomeList: true

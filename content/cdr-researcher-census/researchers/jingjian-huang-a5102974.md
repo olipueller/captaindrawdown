@@ -1,7 +1,7 @@
 ---
 title: "Jingjian Huang"
 description: "Jingjian Huang is a Senior Unknown researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.927673
+date: 2026-07-10T01:07:48.851135
 url: "/cdr-researcher-census/researchers/jingjian-huang-a5102974/"
 layout: "researcher"
 hiddenInHomeList: true

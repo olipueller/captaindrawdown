@@ -1,7 +1,7 @@
 ---
 title: "Carmen Vázquez"
 description: "Carmen Vázquez is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.175821
+date: 2026-07-10T01:07:48.192164
 url: "/cdr-researcher-census/researchers/carmen-vazquez-a5101687/"
 layout: "researcher"
 hiddenInHomeList: true

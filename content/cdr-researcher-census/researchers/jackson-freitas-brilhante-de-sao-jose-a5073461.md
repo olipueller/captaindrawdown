@@ -1,7 +1,7 @@
 ---
 title: "Jackson Freitas Brilhante de São José"
 description: "Jackson Freitas Brilhante de São José is a Senior Soil Carbon researcher at Empresa de Pesquisa Agropecuária do Rio Grande do Norte in BR. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.554078
+date: 2026-07-10T01:07:48.534311
 url: "/cdr-researcher-census/researchers/jackson-freitas-brilhante-de-sao-jose-a5073461/"
 layout: "researcher"
 hiddenInHomeList: true

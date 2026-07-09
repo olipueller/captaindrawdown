@@ -1,7 +1,7 @@
 ---
 title: "Hadis Marami"
 description: "Hadis Marami is a Mid-career Unknown researcher at University of Southern Denmark in DK. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.695527
+date: 2026-07-10T01:07:48.648827
 url: "/cdr-researcher-census/researchers/hadis-marami-a5011256/"
 layout: "researcher"
 hiddenInHomeList: true

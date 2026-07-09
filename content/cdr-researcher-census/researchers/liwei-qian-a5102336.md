@@ -1,7 +1,7 @@
 ---
 title: "Liwei Qian"
 description: "Liwei Qian is a Mid-career Soil Carbon researcher at Tongji University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.668784
+date: 2026-07-10T01:07:48.624701
 url: "/cdr-researcher-census/researchers/liwei-qian-a5102336/"
 layout: "researcher"
 hiddenInHomeList: true

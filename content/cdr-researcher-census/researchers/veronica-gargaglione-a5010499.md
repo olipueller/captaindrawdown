@@ -1,7 +1,7 @@
 ---
 title: "Veronica Gargaglione"
 description: "Veronica Gargaglione is a Mid-career Unknown researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.397951
+date: 2026-07-10T01:07:48.390087
 url: "/cdr-researcher-census/researchers/veronica-gargaglione-a5010499/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shengxu Luo"
 description: "Shengxu Luo is a Senior Biochar researcher at Hainan University in CN. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.131480
+date: 2026-07-10T01:07:48.154199
 url: "/cdr-researcher-census/researchers/shengxu-luo-a5018378/"
 layout: "researcher"
 hiddenInHomeList: true

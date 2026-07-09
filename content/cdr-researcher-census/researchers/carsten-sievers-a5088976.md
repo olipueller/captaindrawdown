@@ -1,7 +1,7 @@
 ---
 title: "Carsten Sievers"
 description: "Carsten Sievers is an Eminent General CDR researcher at Georgia Institute of Technology in US. With 189 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.912919
+date: 2026-07-10T01:07:46.913688
 url: "/cdr-researcher-census/researchers/carsten-sievers-a5088976/"
 layout: "researcher"
 hiddenInHomeList: true

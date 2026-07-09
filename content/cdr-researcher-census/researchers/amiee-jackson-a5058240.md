@@ -1,7 +1,7 @@
 ---
 title: "Amiee Jackson"
 description: "Amiee Jackson is a Senior Unknown researcher at Oak Ridge National Laboratory in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.737036
+date: 2026-07-10T01:07:48.685005
 url: "/cdr-researcher-census/researchers/amiee-jackson-a5058240/"
 layout: "researcher"
 hiddenInHomeList: true

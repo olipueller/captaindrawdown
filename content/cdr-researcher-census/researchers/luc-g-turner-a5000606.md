@@ -1,7 +1,7 @@
 ---
 title: "Luc G. Turner"
 description: "Luc G. Turner is a Mid-career Unknown researcher at The University of Queensland in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.904768
+date: 2026-07-10T01:07:47.918926
 url: "/cdr-researcher-census/researchers/luc-g-turner-a5000606/"
 layout: "researcher"
 hiddenInHomeList: true

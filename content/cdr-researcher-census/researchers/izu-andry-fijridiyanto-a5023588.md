@@ -1,7 +1,7 @@
 ---
 title: "Izu Andry Fijridiyanto"
 description: "Izu Andry Fijridiyanto is a Senior Unknown researcher at Indonesian Agency for Agricultural Research and Development in ID. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.659467
+date: 2026-07-10T01:07:48.616789
 url: "/cdr-researcher-census/researchers/izu-andry-fijridiyanto-a5023588/"
 layout: "researcher"
 hiddenInHomeList: true

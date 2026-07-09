@@ -1,7 +1,7 @@
 ---
 title: "José Luis Lugo Arias"
 description: "José Luis Lugo Arias is a Mid-career Biochar researcher at University of the Coast in CO. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.803003
+date: 2026-07-10T01:07:48.741831
 url: "/cdr-researcher-census/researchers/jose-luis-lugo-arias-a5066623/"
 layout: "researcher"
 hiddenInHomeList: true

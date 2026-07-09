@@ -1,7 +1,7 @@
 ---
 title: "Kunwar Praveen Vohra"
 description: "Kunwar Praveen Vohra is a Senior Unknown researcher at Ascension in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.742235
+date: 2026-07-10T01:07:48.689363
 url: "/cdr-researcher-census/researchers/kunwar-praveen-vohra-a5078966/"
 layout: "researcher"
 hiddenInHomeList: true

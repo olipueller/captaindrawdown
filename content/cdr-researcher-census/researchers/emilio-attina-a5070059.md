@@ -1,7 +1,7 @@
 ---
 title: "Emilio Attinà"
 description: "Emilio Attinà is a Senior Soil Carbon researcher at University of Reggio Calabria in IT. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.538827
+date: 2026-07-10T01:07:47.604243
 url: "/cdr-researcher-census/researchers/emilio-attina-a5070059/"
 layout: "researcher"
 hiddenInHomeList: true

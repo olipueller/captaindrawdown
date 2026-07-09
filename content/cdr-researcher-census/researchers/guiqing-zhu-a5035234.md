@@ -1,7 +1,7 @@
 ---
 title: "Guiqing Zhu"
 description: "Guiqing Zhu is a Mid-career Unknown researcher at Fujian Normal University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.651293
+date: 2026-07-10T01:07:48.609576
 url: "/cdr-researcher-census/researchers/guiqing-zhu-a5035234/"
 layout: "researcher"
 hiddenInHomeList: true

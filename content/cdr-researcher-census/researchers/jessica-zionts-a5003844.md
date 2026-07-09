@@ -1,7 +1,7 @@
 ---
 title: "Jessica Zionts"
 description: "Jessica Zionts is a Mid-career Unknown researcher at University of Oxford in GB. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.882521
+date: 2026-07-10T01:07:47.898190
 url: "/cdr-researcher-census/researchers/jessica-zionts-a5003844/"
 layout: "researcher"
 hiddenInHomeList: true

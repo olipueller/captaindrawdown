@@ -1,7 +1,7 @@
 ---
 title: "Lakshmi Kanth Kotarkonda"
 description: "Lakshmi Kanth Kotarkonda is a Mid-career Unknown researcher at AIIMS in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.785931
+date: 2026-07-10T01:07:48.727731
 url: "/cdr-researcher-census/researchers/lakshmi-kanth-kotarkonda-a5006427/"
 layout: "researcher"
 hiddenInHomeList: true

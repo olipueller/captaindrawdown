@@ -1,7 +1,7 @@
 ---
 title: "Kate Layton‐Matthews"
 description: "Kate Layton‐Matthews is a Mid-career Soil Carbon researcher at Norwegian Institute for Nature Research in NO. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.344402
+date: 2026-07-10T01:07:48.343610
 url: "/cdr-researcher-census/researchers/kate-laytonmatthews-a5081816/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Roy Amoyal"
 description: "Roy Amoyal is an Early-career Unknown researcher at Ben-Gurion University of the Negev in IL. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.843502
+date: 2026-07-10T01:07:47.878992
 url: "/cdr-researcher-census/researchers/roy-amoyal-a5100494/"
 layout: "researcher"
 hiddenInHomeList: true

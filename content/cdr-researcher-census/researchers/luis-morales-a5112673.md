@@ -1,7 +1,7 @@
 ---
 title: "Luis Morales"
 description: "Luis Morales is a Mid-career Soil Carbon researcher at University of Chile in CL. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.059281
+date: 2026-07-10T01:07:48.063084
 url: "/cdr-researcher-census/researchers/luis-morales-a5112673/"
 layout: "researcher"
 hiddenInHomeList: true

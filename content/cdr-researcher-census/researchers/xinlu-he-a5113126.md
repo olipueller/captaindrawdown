@@ -1,7 +1,7 @@
 ---
 title: "Xinlu He"
 description: "Xinlu He is a Mid-career Unknown researcher at Northwestern Polytechnical University in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.180419
+date: 2026-07-10T01:07:49.094397
 url: "/cdr-researcher-census/researchers/xinlu-he-a5113126/"
 layout: "researcher"
 hiddenInHomeList: true

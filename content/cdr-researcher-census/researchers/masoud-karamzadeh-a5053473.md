@@ -1,7 +1,7 @@
 ---
 title: "Masoud Karamzadeh"
 description: "Masoud Karamzadeh is a Mid-career Biochar researcher at Iran University of Science and Technology in IR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.021885
+date: 2026-07-10T01:07:48.937749
 url: "/cdr-researcher-census/researchers/masoud-karamzadeh-a5053473/"
 layout: "researcher"
 hiddenInHomeList: true

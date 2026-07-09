@@ -1,7 +1,7 @@
 ---
 title: "Chunshun Zhang"
 description: "Chunshun Zhang is a Senior Unknown researcher at MONASH UNIVERSITY in AU. With 102 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.019564
+date: 2026-07-10T01:07:47.085645
 url: "/cdr-researcher-census/researchers/chunshun-zhang-a5051853/"
 layout: "researcher"
 hiddenInHomeList: true

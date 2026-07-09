@@ -1,7 +1,7 @@
 ---
 title: "Silu Hou"
 description: "Silu Hou is a Mid-career Unknown researcher at Tianjin University of Science and Technology in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.855461
+date: 2026-07-10T01:07:47.891001
 url: "/cdr-researcher-census/researchers/silu-hou-a5034769/"
 layout: "researcher"
 hiddenInHomeList: true

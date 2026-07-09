@@ -1,7 +1,7 @@
 ---
 title: "Callum C. Banfield"
 description: "Callum C. Banfield is a Mid-career Soil Carbon researcher at University of Tübingen in DE. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.165799
+date: 2026-07-10T01:07:47.255562
 url: "/cdr-researcher-census/researchers/callum-c-banfield-a5007680/"
 layout: "researcher"
 hiddenInHomeList: true

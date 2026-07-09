@@ -1,7 +1,7 @@
 ---
 title: "Nur Nadira Hazani"
 description: "Nur Nadira Hazani is a Mid-career General CDR researcher at Sunway University in MY. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.796167
+date: 2026-07-10T01:07:48.735704
 url: "/cdr-researcher-census/researchers/nur-nadira-hazani-a5032426/"
 layout: "researcher"
 hiddenInHomeList: true

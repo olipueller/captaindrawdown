@@ -1,7 +1,7 @@
 ---
 title: "Michael Wögerer"
 description: "Michael Wögerer is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.777939
+date: 2026-07-10T01:07:48.721720
 url: "/cdr-researcher-census/researchers/michael-wogerer-a5088505/"
 layout: "researcher"
 hiddenInHomeList: true

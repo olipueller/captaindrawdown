@@ -1,7 +1,7 @@
 ---
 title: "Bernhard Wallmeyer"
 description: "Bernhard Wallmeyer is a Mid-career Unknown researcher at University of Münster in DE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.263602
+date: 2026-07-10T01:07:48.270544
 url: "/cdr-researcher-census/researchers/bernhard-wallmeyer-a5070576/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaolu Lu"
 description: "Xiaolu Lu is a Senior Soil Carbon researcher at China University of Geosciences in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.395992
+date: 2026-07-10T01:07:47.476876
 url: "/cdr-researcher-census/researchers/xiaolu-lu-a5073094/"
 layout: "researcher"
 hiddenInHomeList: true

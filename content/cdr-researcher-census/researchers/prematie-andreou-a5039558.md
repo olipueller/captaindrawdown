@@ -1,7 +1,7 @@
 ---
 title: "Prematie Andreou"
 description: "Prematie Andreou is a Mid-career Unknown researcher at Clinical Trial Investigators in US. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.041294
+date: 2026-07-10T01:07:47.114124
 url: "/cdr-researcher-census/researchers/prematie-andreou-a5039558/"
 layout: "researcher"
 hiddenInHomeList: true

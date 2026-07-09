@@ -1,7 +1,7 @@
 ---
 title: "Haoxuan Jiang"
 description: "Haoxuan Jiang is an Early-career Unknown researcher at Institute for Biomedicine in IT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.096697
+date: 2026-07-10T01:07:49.005205
 url: "/cdr-researcher-census/researchers/haoxuan-jiang-a5102550/"
 layout: "researcher"
 hiddenInHomeList: true

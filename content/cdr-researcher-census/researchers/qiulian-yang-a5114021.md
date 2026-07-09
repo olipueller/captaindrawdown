@@ -1,7 +1,7 @@
 ---
 title: "Qiulian Yang"
 description: "Qiulian Yang is a Mid-career Unknown researcher at China Pharmaceutical University in CN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.222494
+date: 2026-07-10T01:07:47.309687
 url: "/cdr-researcher-census/researchers/qiulian-yang-a5114021/"
 layout: "researcher"
 hiddenInHomeList: true

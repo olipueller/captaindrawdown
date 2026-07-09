@@ -1,7 +1,7 @@
 ---
 title: "Aida Shafreena Ahmad Puad"
 description: "Aida Shafreena Ahmad Puad is a Mid-career General CDR researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.936873
+date: 2026-07-10T01:07:48.859531
 url: "/cdr-researcher-census/researchers/aida-shafreena-ahmad-puad-a5073832/"
 layout: "researcher"
 hiddenInHomeList: true

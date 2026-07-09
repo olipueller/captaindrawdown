@@ -1,7 +1,7 @@
 ---
 title: "Yoran De Vos"
 description: "Yoran De Vos is a Mid-career Unknown researcher at Flemish Institute for Technological Research in BE. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.597891
+date: 2026-07-10T01:07:47.660717
 url: "/cdr-researcher-census/researchers/yoran-de-vos-a5070557/"
 layout: "researcher"
 hiddenInHomeList: true

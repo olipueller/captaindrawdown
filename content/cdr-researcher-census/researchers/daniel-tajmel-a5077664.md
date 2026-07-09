@@ -1,7 +1,7 @@
 ---
 title: "Dániel Tájmel"
 description: "Dániel Tájmel is a Mid-career Unknown researcher at Lund University in SE. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.319371
+date: 2026-07-10T01:07:48.320826
 url: "/cdr-researcher-census/researchers/daniel-tajmel-a5077664/"
 layout: "researcher"
 hiddenInHomeList: true

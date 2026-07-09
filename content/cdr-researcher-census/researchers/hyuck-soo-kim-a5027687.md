@@ -1,7 +1,7 @@
 ---
 title: "Hyuck Soo Kim"
 description: "Hyuck Soo Kim is a Mid-career Soil Carbon researcher at Kangwon National University in KR. With 56 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.146722
+date: 2026-07-10T01:07:47.235580
 url: "/cdr-researcher-census/researchers/hyuck-soo-kim-a5027687/"
 layout: "researcher"
 hiddenInHomeList: true

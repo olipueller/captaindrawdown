@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqin Zhou"
 description: "Xiaoqin Zhou is a Senior Biochar researcher at Jilin University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.512903
+date: 2026-07-10T01:07:48.497001
 url: "/cdr-researcher-census/researchers/xiaoqin-zhou-a5101925/"
 layout: "researcher"
 hiddenInHomeList: true

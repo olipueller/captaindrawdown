@@ -1,7 +1,7 @@
 ---
 title: "Balram Tiwari"
 description: "Balram Tiwari is a Mid-career Unknown researcher at Central Institute of Mining and Fuel Research in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.117294
+date: 2026-07-10T01:07:49.023292
 url: "/cdr-researcher-census/researchers/balram-tiwari-a5088497/"
 layout: "researcher"
 hiddenInHomeList: true

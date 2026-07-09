@@ -1,7 +1,7 @@
 ---
 title: "Kjartan Pedersen"
 description: "Kjartan Pedersen is a Senior Unknown researcher at Aker BP (Norway) in NO. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.515762
+date: 2026-07-10T01:07:48.499475
 url: "/cdr-researcher-census/researchers/kjartan-pedersen-a5002340/"
 layout: "researcher"
 hiddenInHomeList: true

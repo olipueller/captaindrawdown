@@ -1,7 +1,7 @@
 ---
 title: "Binyue Kang"
 description: "Binyue Kang is a Mid-career Unknown researcher at Nankai University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.410417
+date: 2026-07-10T01:07:48.401797
 url: "/cdr-researcher-census/researchers/binyue-kang-a5053681/"
 layout: "researcher"
 hiddenInHomeList: true

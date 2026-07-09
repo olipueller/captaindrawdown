@@ -1,7 +1,7 @@
 ---
 title: "Diana Nebeská"
 description: "Diana Nebeská is a Mid-career Soil Carbon researcher. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.090489
+date: 2026-07-10T01:07:48.090757
 url: "/cdr-researcher-census/researchers/diana-nebeska-a5069258/"
 layout: "researcher"
 hiddenInHomeList: true

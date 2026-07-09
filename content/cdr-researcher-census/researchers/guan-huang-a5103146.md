@@ -1,7 +1,7 @@
 ---
 title: "Guan Huang"
 description: "Guan Huang is a Mid-career Unknown researcher at Xi'an International Studies University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.820404
+date: 2026-07-10T01:07:48.755695
 url: "/cdr-researcher-census/researchers/guan-huang-a5103146/"
 layout: "researcher"
 hiddenInHomeList: true

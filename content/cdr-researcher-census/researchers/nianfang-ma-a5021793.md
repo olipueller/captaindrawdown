@@ -1,7 +1,7 @@
 ---
 title: "Nianfang Ma"
 description: "Nianfang Ma is a Senior Biochar researcher at Guangdong Academy of Sciences in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.700487
+date: 2026-07-10T01:07:47.755508
 url: "/cdr-researcher-census/researchers/nianfang-ma-a5021793/"
 layout: "researcher"
 hiddenInHomeList: true

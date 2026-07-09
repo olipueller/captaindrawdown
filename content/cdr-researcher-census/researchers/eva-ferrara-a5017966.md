@@ -1,7 +1,7 @@
 ---
 title: "Eva Ferrara"
 description: "Eva Ferrara is a Senior Unknown researcher at Policlinico Umberto I in IT. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.906482
+date: 2026-07-10T01:07:47.920322
 url: "/cdr-researcher-census/researchers/eva-ferrara-a5017966/"
 layout: "researcher"
 hiddenInHomeList: true

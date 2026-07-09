@@ -1,7 +1,7 @@
 ---
 title: "Katherine Vaz Gomes"
 description: "Katherine Vaz Gomes is an Early-career General CDR researcher at University of Pennsylvania in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.437172
+date: 2026-07-10T01:07:47.514161
 url: "/cdr-researcher-census/researchers/katherine-vaz-gomes-a5056999/"
 layout: "researcher"
 hiddenInHomeList: true

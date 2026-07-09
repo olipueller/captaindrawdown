@@ -1,7 +1,7 @@
 ---
 title: "Mujiyo Mujiyo"
 description: "Mujiyo Mujiyo is a Mid-career Soil Carbon researcher at Sebelas Maret University in ID. With 56 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.229303
+date: 2026-07-10T01:07:49.138691
 url: "/cdr-researcher-census/researchers/mujiyo-mujiyo-a5112099/"
 layout: "researcher"
 hiddenInHomeList: true

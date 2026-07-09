@@ -1,7 +1,7 @@
 ---
 title: "Jacqueline S. Long"
 description: "Jacqueline S. Long is a Mid-career Ocean CDR researcher at International Submarine Engineering (Canada) in CA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.264693
+date: 2026-07-10T01:07:48.271414
 url: "/cdr-researcher-census/researchers/jacqueline-s-long-a5063863/"
 layout: "researcher"
 hiddenInHomeList: true

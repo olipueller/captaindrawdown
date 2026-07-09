@@ -1,7 +1,7 @@
 ---
 title: "Nanxin Zheng"
 description: "Nanxin Zheng is a Mid-career Unknown researcher at Southwest Petroleum University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.609350
+date: 2026-07-10T01:07:48.571396
 url: "/cdr-researcher-census/researchers/nanxin-zheng-a5052460/"
 layout: "researcher"
 hiddenInHomeList: true

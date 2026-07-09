@@ -1,7 +1,7 @@
 ---
 title: "Sixi Guo"
 description: "Sixi Guo is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.300382
+date: 2026-07-10T01:07:48.303137
 url: "/cdr-researcher-census/researchers/sixi-guo-a5064903/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yutaro Akimoto"
 description: "Yutaro Akimoto is a Senior General CDR researcher at University of Tsukuba in JP. With 65 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.764072
+date: 2026-07-10T01:07:47.814644
 url: "/cdr-researcher-census/researchers/yutaro-akimoto-a5065451/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Arash Modaresi Rad"
 description: "Arash Modaresi Rad is a Mid-career Soil Carbon researcher. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.545452
+date: 2026-07-10T01:07:47.610217
 url: "/cdr-researcher-census/researchers/arash-modaresi-rad-a5062924/"
 layout: "researcher"
 hiddenInHomeList: true

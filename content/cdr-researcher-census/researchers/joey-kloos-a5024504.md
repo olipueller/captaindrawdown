@@ -1,7 +1,7 @@
 ---
 title: "Joey Kloos"
 description: "Joey Kloos is a Mid-career Unknown researcher at Eindhoven University of Technology in NL. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.156468
+date: 2026-07-10T01:07:48.175532
 url: "/cdr-researcher-census/researchers/joey-kloos-a5024504/"
 layout: "researcher"
 hiddenInHomeList: true

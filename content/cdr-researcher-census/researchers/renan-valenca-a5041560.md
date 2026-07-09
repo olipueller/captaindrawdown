@@ -1,7 +1,7 @@
 ---
 title: "Renan Valenca"
 description: "Renan Valenca is a Mid-career Biochar researcher at University of California, Los Angeles in US. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.358382
+date: 2026-07-10T01:07:47.440334
 url: "/cdr-researcher-census/researchers/renan-valenca-a5041560/"
 layout: "researcher"
 hiddenInHomeList: true

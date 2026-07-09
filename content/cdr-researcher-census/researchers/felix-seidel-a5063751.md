@@ -1,7 +1,7 @@
 ---
 title: "Felix Seidel"
 description: "Felix Seidel is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.782135
+date: 2026-07-10T01:07:47.830690
 url: "/cdr-researcher-census/researchers/felix-seidel-a5063751/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Miyeon Chang"
 description: "Miyeon Chang is a Mid-career Unknown researcher at SLAC National Accelerator Laboratory in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.048603
+date: 2026-07-10T01:07:48.053959
 url: "/cdr-researcher-census/researchers/miyeon-chang-a5012864/"
 layout: "researcher"
 hiddenInHomeList: true

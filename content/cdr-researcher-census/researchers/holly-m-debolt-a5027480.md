@@ -1,7 +1,7 @@
 ---
 title: "Holly M. DeBolt"
 description: "Holly M. DeBolt is a Mid-career Unknown researcher at Colorado State University in US. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.989893
+date: 2026-07-10T01:07:47.998717
 url: "/cdr-researcher-census/researchers/holly-m-debolt-a5027480/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shweta Rawat"
 description: "Shweta Rawat is a Mid-career General CDR researcher at Kumaun University in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.913738
+date: 2026-07-10T01:07:47.926933
 url: "/cdr-researcher-census/researchers/shweta-rawat-a5102892/"
 layout: "researcher"
 hiddenInHomeList: true

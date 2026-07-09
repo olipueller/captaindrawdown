@@ -1,7 +1,7 @@
 ---
 title: "Chiara Masaro"
 description: "Chiara Masaro is a Mid-career Unknown researcher at University of Padua in IT. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.244002
+date: 2026-07-10T01:07:49.152149
 url: "/cdr-researcher-census/researchers/chiara-masaro-a5007518/"
 layout: "researcher"
 hiddenInHomeList: true

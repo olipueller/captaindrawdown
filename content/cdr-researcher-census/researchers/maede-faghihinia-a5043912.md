@@ -1,7 +1,7 @@
 ---
 title: "Maede Faghihinia"
 description: "Maede Faghihinia is a Mid-career Unknown researcher at Iowa State University in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.916852
+date: 2026-07-10T01:07:47.930204
 url: "/cdr-researcher-census/researchers/maede-faghihinia-a5043912/"
 layout: "researcher"
 hiddenInHomeList: true

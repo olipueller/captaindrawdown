@@ -1,7 +1,7 @@
 ---
 title: "Enhao Jia"
 description: "Enhao Jia is a Mid-career Unknown researcher at China University of Geosciences in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.456059
+date: 2026-07-10T01:07:48.444596
 url: "/cdr-researcher-census/researchers/enhao-jia-a5013519/"
 layout: "researcher"
 hiddenInHomeList: true

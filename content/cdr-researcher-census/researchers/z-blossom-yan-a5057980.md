@@ -1,7 +1,7 @@
 ---
 title: "Z. Blossom Yan"
 description: "Z. Blossom Yan is a Senior Unknown researcher at Shanghai University of Electric Power in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.734954
+date: 2026-07-10T01:07:47.787047
 url: "/cdr-researcher-census/researchers/z-blossom-yan-a5057980/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dajun Song"
 description: "Dajun Song is a Senior Unknown researcher at Changjiang Water Resources Commission in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.201882
+date: 2026-07-10T01:07:49.114657
 url: "/cdr-researcher-census/researchers/dajun-song-a5059032/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alexandre M.J.‐C. Wadoux"
 description: "Alexandre M.J.‐C. Wadoux is a Senior Soil Carbon researcher at University of Sydney in AU. With 111 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.992795
+date: 2026-07-10T01:07:47.049846
 url: "/cdr-researcher-census/researchers/alexandre-mjc-wadoux-a5082701/"
 layout: "researcher"
 hiddenInHomeList: true

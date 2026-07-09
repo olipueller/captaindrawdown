@@ -1,7 +1,7 @@
 ---
 title: "Thomas M. Blattmann"
 description: "Thomas M. Blattmann is a Senior Soil Carbon researcher at Nanyang Technological University in SG. With 98 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.116395
+date: 2026-07-10T01:07:47.203348
 url: "/cdr-researcher-census/researchers/thomas-m-blattmann-a5043076/"
 layout: "researcher"
 hiddenInHomeList: true

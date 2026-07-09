@@ -1,7 +1,7 @@
 ---
 title: "Sonali Kundu"
 description: "Sonali Kundu is a Mid-career Unknown researcher at Banaras Hindu University in IN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.307648
+date: 2026-07-10T01:07:47.389671
 url: "/cdr-researcher-census/researchers/sonali-kundu-a5057246/"
 layout: "researcher"
 hiddenInHomeList: true

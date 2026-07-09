@@ -1,7 +1,7 @@
 ---
 title: "Fengnian Zhao"
 description: "Fengnian Zhao is a Senior Unknown researcher at Shihezi University in CN. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.308634
+date: 2026-07-10T01:07:48.311478
 url: "/cdr-researcher-census/researchers/fengnian-zhao-a5102578/"
 layout: "researcher"
 hiddenInHomeList: true

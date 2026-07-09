@@ -1,7 +1,7 @@
 ---
 title: "Yousif El-Tous"
 description: "Yousif El-Tous is a Senior Unknown researcher at Al-Balqa Applied University in JO. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.428127
+date: 2026-07-10T01:07:48.418337
 url: "/cdr-researcher-census/researchers/yousif-el-tous-a5040681/"
 layout: "researcher"
 hiddenInHomeList: true

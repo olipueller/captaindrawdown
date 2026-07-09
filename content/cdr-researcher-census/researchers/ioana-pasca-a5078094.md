@@ -1,7 +1,7 @@
 ---
 title: "Ioana Paşca"
 description: "Ioana Paşca is a Senior Unknown researcher at University of California, Riverside in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.792256
+date: 2026-07-10T01:07:47.840818
 url: "/cdr-researcher-census/researchers/ioana-pasca-a5078094/"
 layout: "researcher"
 hiddenInHomeList: true

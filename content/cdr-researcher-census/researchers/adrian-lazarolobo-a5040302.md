@@ -1,7 +1,7 @@
 ---
 title: "Adrián Lázaro‐Lobo"
 description: "Adrián Lázaro‐Lobo is a Mid-career Soil Carbon researcher at University of Oviedo in ES. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.423741
+date: 2026-07-10T01:07:47.502387
 url: "/cdr-researcher-census/researchers/adrian-lazarolobo-a5040302/"
 layout: "researcher"
 hiddenInHomeList: true

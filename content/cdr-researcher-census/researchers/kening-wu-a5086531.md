@@ -1,7 +1,7 @@
 ---
 title: "Kening Wu"
 description: "Kening Wu is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 118 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.013687
+date: 2026-07-10T01:07:47.078728
 url: "/cdr-researcher-census/researchers/kening-wu-a5086531/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jin-zhi Luo"
 description: "Jin-zhi Luo is a Mid-career Unknown researcher at Huaqiao University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.719223
+date: 2026-07-10T01:07:48.669088
 url: "/cdr-researcher-census/researchers/jin-zhi-luo-a5076530/"
 layout: "researcher"
 hiddenInHomeList: true

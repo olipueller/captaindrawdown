@@ -1,7 +1,7 @@
 ---
 title: "Josep Barba"
 description: "Josep Barba is a Mid-career Soil Carbon researcher at Centre de Recerca Ecològica i Aplicacions Forestals in ES. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.083867
+date: 2026-07-10T01:07:47.165405
 url: "/cdr-researcher-census/researchers/josep-barba-a5014004/"
 layout: "researcher"
 hiddenInHomeList: true

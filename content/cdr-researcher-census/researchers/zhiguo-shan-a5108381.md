@@ -1,7 +1,7 @@
 ---
 title: "Zhi‐guo Shan"
 description: "Zhi‐guo Shan is a Mid-career Unknown researcher at Rural Development Institute in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.026151
+date: 2026-07-10T01:07:48.033837
 url: "/cdr-researcher-census/researchers/zhiguo-shan-a5108381/"
 layout: "researcher"
 hiddenInHomeList: true

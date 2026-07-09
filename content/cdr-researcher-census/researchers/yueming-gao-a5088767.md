@@ -1,7 +1,7 @@
 ---
 title: "Yueming Gao"
 description: "Yueming Gao is a Mid-career General CDR researcher at Hainan University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.016599
+date: 2026-07-10T01:07:48.024211
 url: "/cdr-researcher-census/researchers/yueming-gao-a5088767/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Claudia Nielsen"
 description: "Claudia Nielsen is a Mid-career Soil Carbon researcher at Arla Foods (Denmark) in DK. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.791927
+date: 2026-07-10T01:07:48.732282
 url: "/cdr-researcher-census/researchers/claudia-nielsen-a5024124/"
 layout: "researcher"
 hiddenInHomeList: true

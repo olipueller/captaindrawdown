@@ -1,7 +1,7 @@
 ---
 title: "Patricia Omega Kukoyi"
 description: "Patricia Omega Kukoyi is a Mid-career Unknown researcher at University of Lagos in NG. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.935439
+date: 2026-07-10T01:07:48.858174
 url: "/cdr-researcher-census/researchers/patricia-omega-kukoyi-a5089971/"
 layout: "researcher"
 hiddenInHomeList: true

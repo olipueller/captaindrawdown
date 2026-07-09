@@ -1,7 +1,7 @@
 ---
 title: "A. Banerjee"
 description: "A. Banerjee is a Mid-career Unknown researcher at University of Akron in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.395797
+date: 2026-07-10T01:07:48.388100
 url: "/cdr-researcher-census/researchers/a-banerjee-a5072805/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mariam Tangarfa"
 description: "Mariam Tangarfa is a Mid-career Biochar researcher at Mohammed V University in MA. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.961964
+date: 2026-07-10T01:07:48.883137
 url: "/cdr-researcher-census/researchers/mariam-tangarfa-a5075684/"
 layout: "researcher"
 hiddenInHomeList: true

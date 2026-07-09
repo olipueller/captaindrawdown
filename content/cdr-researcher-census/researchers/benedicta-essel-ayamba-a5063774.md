@@ -1,7 +1,7 @@
 ---
 title: "Benedicta Essel Ayamba"
 description: "Benedicta Essel Ayamba is a Mid-career Soil Carbon researcher at Council for Scientific and Industrial Research in GH. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.835250
+date: 2026-07-10T01:07:48.768451
 url: "/cdr-researcher-census/researchers/benedicta-essel-ayamba-a5063774/"
 layout: "researcher"
 hiddenInHomeList: true

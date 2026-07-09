@@ -1,7 +1,7 @@
 ---
 title: "Bram Vaes"
 description: "Bram Vaes is a Mid-career General CDR researcher at University of Milano-Bicocca in IT. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.555054
+date: 2026-07-10T01:07:47.619202
 url: "/cdr-researcher-census/researchers/bram-vaes-a5086193/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ali Sekizkardes"
 description: "Ali Sekizkardes is a Senior Unknown researcher at University of Pittsburgh in US. With 47 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.049716
+date: 2026-07-10T01:07:47.124252
 url: "/cdr-researcher-census/researchers/ali-sekizkardes-a5089033/"
 layout: "researcher"
 hiddenInHomeList: true

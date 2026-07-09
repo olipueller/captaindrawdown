@@ -1,7 +1,7 @@
 ---
 title: "Fatma Marrakchi"
 description: "Fatma Marrakchi is a Senior Ocean CDR researcher at Hunan University of Humanities, Science and Technology in CN. With 35 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.056986
+date: 2026-07-10T01:07:47.132849
 url: "/cdr-researcher-census/researchers/fatma-marrakchi-a5028010/"
 layout: "researcher"
 hiddenInHomeList: true

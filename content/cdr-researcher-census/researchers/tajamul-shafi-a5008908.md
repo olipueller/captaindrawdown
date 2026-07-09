@@ -1,7 +1,7 @@
 ---
 title: "Tajamul Shafi"
 description: "Tajamul Shafi is a Mid-career Unknown researcher at Indian Institute of Technology Kharagpur in IN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.134460
+date: 2026-07-10T01:07:48.156482
 url: "/cdr-researcher-census/researchers/tajamul-shafi-a5008908/"
 layout: "researcher"
 hiddenInHomeList: true

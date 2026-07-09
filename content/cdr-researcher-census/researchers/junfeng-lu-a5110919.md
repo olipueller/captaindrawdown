@@ -1,7 +1,7 @@
 ---
 title: "Junfeng Lu"
 description: "Junfeng Lu is a Senior DAC researcher at Shanghai Jiao Tong University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.974123
+date: 2026-07-10T01:07:47.984142
 url: "/cdr-researcher-census/researchers/junfeng-lu-a5110919/"
 layout: "researcher"
 hiddenInHomeList: true

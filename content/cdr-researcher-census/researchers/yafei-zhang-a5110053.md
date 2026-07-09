@@ -1,7 +1,7 @@
 ---
 title: "Yafei Zhang"
 description: "Yafei Zhang is a Senior Unknown researcher at Jiangsu University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.945284
+date: 2026-07-10T01:07:48.867351
 url: "/cdr-researcher-census/researchers/yafei-zhang-a5110053/"
 layout: "researcher"
 hiddenInHomeList: true

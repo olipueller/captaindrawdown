@@ -1,7 +1,7 @@
 ---
 title: "Lal Chand Malav"
 description: "Lal Chand Malav is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.129929
+date: 2026-07-10T01:07:47.218832
 url: "/cdr-researcher-census/researchers/lal-chand-malav-a5040938/"
 layout: "researcher"
 hiddenInHomeList: true

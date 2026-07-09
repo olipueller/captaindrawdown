@@ -1,7 +1,7 @@
 ---
 title: "I. Florin Pendea"
 description: "I. Florin Pendea is a Senior Unknown researcher at Lakehead University in CA. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.028542
+date: 2026-07-10T01:07:48.035860
 url: "/cdr-researcher-census/researchers/i-florin-pendea-a5059280/"
 layout: "researcher"
 hiddenInHomeList: true

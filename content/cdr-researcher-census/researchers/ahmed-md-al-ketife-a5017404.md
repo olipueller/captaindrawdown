@@ -1,7 +1,7 @@
 ---
 title: "Ahmed M.D. Al Ketife"
 description: "Ahmed M.D. Al Ketife is a Mid-career Unknown researcher at Thi Qar University in IQ. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.737062
+date: 2026-07-10T01:07:47.789289
 url: "/cdr-researcher-census/researchers/ahmed-md-al-ketife-a5017404/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alessandro Sacco"
 description: "Alessandro Sacco is a Mid-career Unknown researcher at University of Catania in IT. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.030469
+date: 2026-07-10T01:07:48.945953
 url: "/cdr-researcher-census/researchers/alessandro-sacco-a5059351/"
 layout: "researcher"
 hiddenInHomeList: true

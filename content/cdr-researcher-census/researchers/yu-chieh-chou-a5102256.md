@@ -1,7 +1,7 @@
 ---
 title: "Yu-Chieh Chou"
 description: "Yu-Chieh Chou is a Mid-career Unknown researcher at National Chung Hsing University in TW. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.015127
+date: 2026-07-10T01:07:48.022824
 url: "/cdr-researcher-census/researchers/yu-chieh-chou-a5102256/"
 layout: "researcher"
 hiddenInHomeList: true

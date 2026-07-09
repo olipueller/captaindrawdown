@@ -1,7 +1,7 @@
 ---
 title: "Leiqi Wang"
 description: "Leiqi Wang is a Mid-career Unknown researcher at Northwest A&F University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.684269
+date: 2026-07-10T01:07:48.639185
 url: "/cdr-researcher-census/researchers/leiqi-wang-a5051884/"
 layout: "researcher"
 hiddenInHomeList: true

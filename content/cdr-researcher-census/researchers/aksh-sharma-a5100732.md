@@ -1,7 +1,7 @@
 ---
 title: "Aksh Sharma"
 description: "Aksh Sharma is an Early-career Soil Carbon researcher at Lovely Professional University in IN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.116818
+date: 2026-07-10T01:07:49.022851
 url: "/cdr-researcher-census/researchers/aksh-sharma-a5100732/"
 layout: "researcher"
 hiddenInHomeList: true

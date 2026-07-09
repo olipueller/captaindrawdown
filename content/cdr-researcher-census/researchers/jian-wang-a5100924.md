@@ -1,7 +1,7 @@
 ---
 title: "Jian Wang"
 description: "Jian Wang is a Mid-career Biochar researcher at Shenyang Aerospace University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.252599
+date: 2026-07-10T01:07:48.260614
 url: "/cdr-researcher-census/researchers/jian-wang-a5100924/"
 layout: "researcher"
 hiddenInHomeList: true

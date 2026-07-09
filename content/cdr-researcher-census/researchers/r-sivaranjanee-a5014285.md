@@ -1,7 +1,7 @@
 ---
 title: "R. Sivaranjanee"
 description: "R. Sivaranjanee is a Mid-career Biochar researcher at Saint Joseph's College in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.518425
+date: 2026-07-10T01:07:47.585994
 url: "/cdr-researcher-census/researchers/r-sivaranjanee-a5014285/"
 layout: "researcher"
 hiddenInHomeList: true

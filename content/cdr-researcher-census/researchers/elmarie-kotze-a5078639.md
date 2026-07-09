@@ -1,7 +1,7 @@
 ---
 title: "Elmarie Kotzé"
 description: "Elmarie Kotzé is a Senior Soil Carbon researcher at University of the Free State in ZA. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.485007
+date: 2026-07-10T01:07:47.556807
 url: "/cdr-researcher-census/researchers/elmarie-kotze-a5078639/"
 layout: "researcher"
 hiddenInHomeList: true

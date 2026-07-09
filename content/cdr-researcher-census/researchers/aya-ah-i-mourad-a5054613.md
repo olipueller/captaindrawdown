@@ -1,7 +1,7 @@
 ---
 title: "Aya A‐H. I. Mourad"
 description: "Aya A‐H. I. Mourad is a Mid-career Unknown researcher at Abu Dhabi Polytechnic in AE. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.740151
+date: 2026-07-10T01:07:47.792336
 url: "/cdr-researcher-census/researchers/aya-ah-i-mourad-a5054613/"
 layout: "researcher"
 hiddenInHomeList: true

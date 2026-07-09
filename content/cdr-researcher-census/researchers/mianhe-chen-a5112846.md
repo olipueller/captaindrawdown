@@ -1,7 +1,7 @@
 ---
 title: "Mianhe Chen"
 description: "Mianhe Chen is a Mid-career Unknown researcher at Guangxi University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.878510
+date: 2026-07-10T01:07:48.805953
 url: "/cdr-researcher-census/researchers/mianhe-chen-a5112846/"
 layout: "researcher"
 hiddenInHomeList: true

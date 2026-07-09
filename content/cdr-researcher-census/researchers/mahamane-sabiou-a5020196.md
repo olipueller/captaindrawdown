@@ -1,7 +1,7 @@
 ---
 title: "Mahamane Sabiou"
 description: "Mahamane Sabiou is a Mid-career Soil Carbon researcher at Institut National de la Recherche Agronomique du Niger in NE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.942282
+date: 2026-07-10T01:07:48.864732
 url: "/cdr-researcher-census/researchers/mahamane-sabiou-a5020196/"
 layout: "researcher"
 hiddenInHomeList: true

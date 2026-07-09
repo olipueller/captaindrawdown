@@ -1,7 +1,7 @@
 ---
 title: "Estelle M. Goonesekera"
 description: "Estelle M. Goonesekera is a Mid-career Unknown researcher at Technical University of Denmark in DK. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.632759
+date: 2026-07-10T01:07:48.592223
 url: "/cdr-researcher-census/researchers/estelle-m-goonesekera-a5067336/"
 layout: "researcher"
 hiddenInHomeList: true

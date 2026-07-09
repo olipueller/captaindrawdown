@@ -1,7 +1,7 @@
 ---
 title: "Gaetano Fulco"
 description: "Gaetano Fulco is a Mid-career Unknown researcher at University of Reggio Calabria in IT. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.913350
+date: 2026-07-10T01:07:47.926563
 url: "/cdr-researcher-census/researchers/gaetano-fulco-a5066039/"
 layout: "researcher"
 hiddenInHomeList: true

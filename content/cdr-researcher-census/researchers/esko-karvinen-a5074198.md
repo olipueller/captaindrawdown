@@ -1,7 +1,7 @@
 ---
 title: "Esko Karvinen"
 description: "Esko Karvinen is a Senior Soil Carbon researcher at Finnish Meteorological Institute in FI. With 99 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.318408
+date: 2026-07-10T01:07:47.400817
 url: "/cdr-researcher-census/researchers/esko-karvinen-a5074198/"
 layout: "researcher"
 hiddenInHomeList: true

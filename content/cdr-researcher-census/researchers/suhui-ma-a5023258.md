@@ -1,7 +1,7 @@
 ---
 title: "Suhui Ma"
 description: "Suhui Ma is a Senior Soil Carbon researcher at Yunnan University in CN. With 88 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.031787
+date: 2026-07-10T01:07:47.101046
 url: "/cdr-researcher-census/researchers/suhui-ma-a5023258/"
 layout: "researcher"
 hiddenInHomeList: true

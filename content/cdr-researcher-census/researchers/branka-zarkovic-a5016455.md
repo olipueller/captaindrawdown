@@ -1,7 +1,7 @@
 ---
 title: "Branka Žarković"
 description: "Branka Žarković is a Senior Unknown researcher at University of Belgrade in RS. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.674727
+date: 2026-07-10T01:07:48.630452
 url: "/cdr-researcher-census/researchers/branka-zarkovic-a5016455/"
 layout: "researcher"
 hiddenInHomeList: true

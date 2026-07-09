@@ -1,7 +1,7 @@
 ---
 title: "Peixin Zhang"
 description: "Peixin Zhang is a Senior Enhanced Weathering researcher at Henan University of Urban Construction in CN. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.453515
+date: 2026-07-10T01:07:47.528748
 url: "/cdr-researcher-census/researchers/peixin-zhang-a5100683/"
 layout: "researcher"
 hiddenInHomeList: true

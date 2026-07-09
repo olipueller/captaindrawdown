@@ -1,7 +1,7 @@
 ---
 title: "Sepehr Mohammadi"
 description: "Sepehr Mohammadi is an Early-career Unknown researcher at Michigan Technological University in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.412684
+date: 2026-07-10T01:07:48.403850
 url: "/cdr-researcher-census/researchers/sepehr-mohammadi-a5087162/"
 layout: "researcher"
 hiddenInHomeList: true

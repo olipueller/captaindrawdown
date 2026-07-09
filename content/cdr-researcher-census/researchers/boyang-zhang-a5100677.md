@@ -1,7 +1,7 @@
 ---
 title: "Boyang Zhang"
 description: "Boyang Zhang is a Mid-career General CDR researcher at Sanya University in CN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.378496
+date: 2026-07-10T01:07:47.460201
 url: "/cdr-researcher-census/researchers/boyang-zhang-a5100677/"
 layout: "researcher"
 hiddenInHomeList: true

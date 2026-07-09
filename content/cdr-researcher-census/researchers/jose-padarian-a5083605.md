@@ -1,7 +1,7 @@
 ---
 title: "José Padarian"
 description: "José Padarian is a Senior Soil Carbon researcher at The University of Sydney in AU. With 110 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.914952
+date: 2026-07-10T01:07:46.919180
 url: "/cdr-researcher-census/researchers/jose-padarian-a5083605/"
 layout: "researcher"
 hiddenInHomeList: true

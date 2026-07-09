@@ -1,7 +1,7 @@
 ---
 title: "Aubrey K. Fine"
 description: "Aubrey K. Fine is a Mid-career Soil Carbon researcher at Oak Ridge National Laboratory in US. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.270491
+date: 2026-07-10T01:07:47.353746
 url: "/cdr-researcher-census/researchers/aubrey-k-fine-a5068914/"
 layout: "researcher"
 hiddenInHomeList: true

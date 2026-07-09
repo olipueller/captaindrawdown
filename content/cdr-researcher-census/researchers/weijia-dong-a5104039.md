@@ -1,7 +1,7 @@
 ---
 title: "Weijia Dong"
 description: "Weijia Dong is a Senior Unknown researcher at Huzhou University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.853786
+date: 2026-07-10T01:07:48.784490
 url: "/cdr-researcher-census/researchers/weijia-dong-a5104039/"
 layout: "researcher"
 hiddenInHomeList: true

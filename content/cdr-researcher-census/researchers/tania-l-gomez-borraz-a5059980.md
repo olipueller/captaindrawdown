@@ -1,7 +1,7 @@
 ---
 title: "Tania L. Gómez-Borraz"
 description: "Tania L. Gómez-Borraz is a Mid-career Unknown researcher at University of Glasgow in GB. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.787650
+date: 2026-07-10T01:07:48.729153
 url: "/cdr-researcher-census/researchers/tania-l-gomez-borraz-a5059980/"
 layout: "researcher"
 hiddenInHomeList: true

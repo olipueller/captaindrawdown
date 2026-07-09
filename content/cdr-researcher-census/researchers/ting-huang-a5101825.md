@@ -1,7 +1,7 @@
 ---
 title: "Ting Huang"
 description: "Ting Huang is a Senior Unknown researcher at Beijing Normal University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.250253
+date: 2026-07-10T01:07:47.335040
 url: "/cdr-researcher-census/researchers/ting-huang-a5101825/"
 layout: "researcher"
 hiddenInHomeList: true

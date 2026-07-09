@@ -1,7 +1,7 @@
 ---
 title: "Guoyin Chen"
 description: "Guoyin Chen is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.531863
+date: 2026-07-10T01:07:47.598212
 url: "/cdr-researcher-census/researchers/guoyin-chen-a5058746/"
 layout: "researcher"
 hiddenInHomeList: true

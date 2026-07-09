@@ -1,7 +1,7 @@
 ---
 title: "Yuanfei Wang"
 description: "Yuanfei Wang is a Senior Biochar researcher at University of Science and Technology of China in CN. With 154 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.989219
+date: 2026-07-10T01:07:47.044186
 url: "/cdr-researcher-census/researchers/yuanfei-wang-a5101455/"
 layout: "researcher"
 hiddenInHomeList: true

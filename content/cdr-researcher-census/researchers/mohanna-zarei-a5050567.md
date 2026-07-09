@@ -1,7 +1,7 @@
 ---
 title: "Mohanna Zarei"
 description: "Mohanna Zarei is a Mid-career Unknown researcher at Stockholm University in SE. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.980639
+date: 2026-07-10T01:07:47.989974
 url: "/cdr-researcher-census/researchers/mohanna-zarei-a5050567/"
 layout: "researcher"
 hiddenInHomeList: true

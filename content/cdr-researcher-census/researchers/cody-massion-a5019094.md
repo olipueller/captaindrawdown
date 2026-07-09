@@ -1,7 +1,7 @@
 ---
 title: "Cody Massion"
 description: "Cody Massion is a Mid-career Unknown researcher at Oklahoma State University in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.840426
+date: 2026-07-10T01:07:48.772754
 url: "/cdr-researcher-census/researchers/cody-massion-a5019094/"
 layout: "researcher"
 hiddenInHomeList: true

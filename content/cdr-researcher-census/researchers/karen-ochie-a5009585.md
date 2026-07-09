@@ -1,7 +1,7 @@
 ---
 title: "Karen Ochie"
 description: "Karen Ochie is a Mid-career Unknown researcher at University of Oklahoma in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.659148
+date: 2026-07-10T01:07:48.616572
 url: "/cdr-researcher-census/researchers/karen-ochie-a5009585/"
 layout: "researcher"
 hiddenInHomeList: true

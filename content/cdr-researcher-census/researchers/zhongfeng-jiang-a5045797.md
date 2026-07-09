@@ -1,7 +1,7 @@
 ---
 title: "Zhongfeng Jiang"
 description: "Zhongfeng Jiang is a Mid-career Enhanced Weathering researcher at Pingdingshan University in CN. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.768361
+date: 2026-07-10T01:07:48.712561
 url: "/cdr-researcher-census/researchers/zhongfeng-jiang-a5045797/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shafiullah Khan"
 description: "Shafiullah Khan is a Senior Unknown researcher at Gomal University in PK. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.012505
+date: 2026-07-10T01:07:48.020389
 url: "/cdr-researcher-census/researchers/shafiullah-khan-a5104074/"
 layout: "researcher"
 hiddenInHomeList: true

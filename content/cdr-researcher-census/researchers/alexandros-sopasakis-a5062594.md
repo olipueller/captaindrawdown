@@ -1,7 +1,7 @@
 ---
 title: "Alexandros Sopasakis"
 description: "Alexandros Sopasakis is a Senior General CDR researcher at Lund University in SE. With 59 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.527771
+date: 2026-07-10T01:07:47.594375
 url: "/cdr-researcher-census/researchers/alexandros-sopasakis-a5062594/"
 layout: "researcher"
 hiddenInHomeList: true

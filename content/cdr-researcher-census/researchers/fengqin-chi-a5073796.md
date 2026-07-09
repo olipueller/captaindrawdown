@@ -1,7 +1,7 @@
 ---
 title: "Fengqin Chi"
 description: "Fengqin Chi is a Mid-career Soil Carbon researcher at Natural Resources Conservation Service in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.268324
+date: 2026-07-10T01:07:48.274614
 url: "/cdr-researcher-census/researchers/fengqin-chi-a5073796/"
 layout: "researcher"
 hiddenInHomeList: true

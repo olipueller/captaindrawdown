@@ -1,7 +1,7 @@
 ---
 title: "Hung-Chang Lien"
 description: "Hung-Chang Lien is a Mid-career Unknown researcher at National Taiwan University of Science and Technology in TW. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.723807
+date: 2026-07-10T01:07:48.673467
 url: "/cdr-researcher-census/researchers/hung-chang-lien-a5111356/"
 layout: "researcher"
 hiddenInHomeList: true

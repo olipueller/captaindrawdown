@@ -1,7 +1,7 @@
 ---
 title: "Bing Bai"
 description: "Bing Bai is a Mid-career Unknown researcher at Sun Yat-sen University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.340848
+date: 2026-07-10T01:07:48.340431
 url: "/cdr-researcher-census/researchers/bing-bai-a5100752/"
 layout: "researcher"
 hiddenInHomeList: true

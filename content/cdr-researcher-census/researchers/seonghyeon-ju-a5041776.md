@@ -1,7 +1,7 @@
 ---
 title: "Seonghyeon Ju"
 description: "Seonghyeon Ju is an Early-career Unknown researcher at Yonsei University in KR. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.862548
+date: 2026-07-10T01:07:47.897351
 url: "/cdr-researcher-census/researchers/seonghyeon-ju-a5041776/"
 layout: "researcher"
 hiddenInHomeList: true

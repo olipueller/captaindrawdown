@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Fabregat"
 description: "Alexandre Fabregat is a Senior Unknown researcher at Universitat Rovira i Virgili in ES. With 60 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.476543
+date: 2026-07-10T01:07:47.548906
 url: "/cdr-researcher-census/researchers/alexandre-fabregat-a5079760/"
 layout: "researcher"
 hiddenInHomeList: true

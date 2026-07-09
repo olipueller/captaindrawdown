@@ -1,7 +1,7 @@
 ---
 title: "Chenyi Ju"
 description: "Chenyi Ju is a Senior Unknown researcher at Institute of Soil and Water Conservation in CN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.715697
+date: 2026-07-10T01:07:48.666274
 url: "/cdr-researcher-census/researchers/chenyi-ju-a5108456/"
 layout: "researcher"
 hiddenInHomeList: true

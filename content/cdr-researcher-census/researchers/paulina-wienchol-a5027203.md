@@ -1,7 +1,7 @@
 ---
 title: "Paulina Wienchol"
 description: "Paulina Wienchol is a Mid-career General CDR researcher at Silesian University of Technology in PL. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.099023
+date: 2026-07-10T01:07:48.125277
 url: "/cdr-researcher-census/researchers/paulina-wienchol-a5027203/"
 layout: "researcher"
 hiddenInHomeList: true

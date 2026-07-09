@@ -1,7 +1,7 @@
 ---
 title: "S.K. Gangopadhyay"
 description: "S.K. Gangopadhyay is a Senior Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 46 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.674619
+date: 2026-07-10T01:07:48.630363
 url: "/cdr-researcher-census/researchers/sk-gangopadhyay-a5050677/"
 layout: "researcher"
 hiddenInHomeList: true

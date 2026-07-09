@@ -1,7 +1,7 @@
 ---
 title: "Hong-Ha T. Nguyen"
 description: "Hong-Ha T. Nguyen is a Mid-career Unknown researcher at Vietnam National University Ho Chi Minh City in VN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.066298
+date: 2026-07-10T01:07:48.068997
 url: "/cdr-researcher-census/researchers/hong-ha-t-nguyen-a5059279/"
 layout: "researcher"
 hiddenInHomeList: true

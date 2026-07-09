@@ -1,7 +1,7 @@
 ---
 title: "Jixian Wu"
 description: "Jixian Wu is a Mid-career Unknown researcher at Xi'an Jiaotong University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.671348
+date: 2026-07-10T01:07:48.627245
 url: "/cdr-researcher-census/researchers/jixian-wu-a5051480/"
 layout: "researcher"
 hiddenInHomeList: true

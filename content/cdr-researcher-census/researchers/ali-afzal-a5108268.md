@@ -1,7 +1,7 @@
 ---
 title: "Ali Afzal"
 description: "Ali Afzal is an Early-career Unknown researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.232689
+date: 2026-07-10T01:07:49.141902
 url: "/cdr-researcher-census/researchers/ali-afzal-a5108268/"
 layout: "researcher"
 hiddenInHomeList: true

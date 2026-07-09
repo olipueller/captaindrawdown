@@ -1,7 +1,7 @@
 ---
 title: "Heiko Daniel"
 description: "Heiko Daniel is a Senior Soil Carbon researcher at University of New England in AU. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.629491
+date: 2026-07-10T01:07:47.689034
 url: "/cdr-researcher-census/researchers/heiko-daniel-a5110887/"
 layout: "researcher"
 hiddenInHomeList: true

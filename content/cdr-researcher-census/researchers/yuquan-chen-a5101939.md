@@ -1,7 +1,7 @@
 ---
 title: "Yuquan Chen"
 description: "Yuquan Chen is a Senior Soil Carbon researcher at China Agricultural University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.702415
+date: 2026-07-10T01:07:48.655227
 url: "/cdr-researcher-census/researchers/yuquan-chen-a5101939/"
 layout: "researcher"
 hiddenInHomeList: true

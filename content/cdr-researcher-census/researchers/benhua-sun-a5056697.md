@@ -1,7 +1,7 @@
 ---
 title: "Benhua Sun"
 description: "Benhua Sun is a Senior Soil Carbon researcher at Northwest A and F University in CN. With 78 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.042099
+date: 2026-07-10T01:07:47.115060
 url: "/cdr-researcher-census/researchers/benhua-sun-a5056697/"
 layout: "researcher"
 hiddenInHomeList: true

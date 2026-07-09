@@ -1,7 +1,7 @@
 ---
 title: "Kieu Trang Trinh"
 description: "Kieu Trang Trinh is a Mid-career Soil Carbon researcher at Vietnam National University, Hanoi in VN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.046533
+date: 2026-07-10T01:07:48.051956
 url: "/cdr-researcher-census/researchers/kieu-trang-trinh-a5023009/"
 layout: "researcher"
 hiddenInHomeList: true

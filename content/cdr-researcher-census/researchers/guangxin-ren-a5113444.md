@@ -1,7 +1,7 @@
 ---
 title: "Guangxin Ren"
 description: "Guangxin Ren is an Eminent Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 110 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.907779
+date: 2026-07-10T01:07:46.903503
 url: "/cdr-researcher-census/researchers/guangxin-ren-a5113444/"
 layout: "researcher"
 hiddenInHomeList: true

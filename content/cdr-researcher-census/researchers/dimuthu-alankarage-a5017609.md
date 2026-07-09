@@ -1,7 +1,7 @@
 ---
 title: "Dimuthu Alankarage"
 description: "Dimuthu Alankarage is a Mid-career Unknown researcher at Victor Chang Cardiac Research Institute in AU. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.211705
+date: 2026-07-10T01:07:48.224306
 url: "/cdr-researcher-census/researchers/dimuthu-alankarage-a5017609/"
 layout: "researcher"
 hiddenInHomeList: true

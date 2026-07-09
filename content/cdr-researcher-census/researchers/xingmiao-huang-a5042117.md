@@ -1,7 +1,7 @@
 ---
 title: "Xingmiao Huang"
 description: "Xingmiao Huang is a Mid-career General CDR researcher at Beijing National Laboratory for Molecular Sciences in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.287282
+date: 2026-07-10T01:07:48.292084
 url: "/cdr-researcher-census/researchers/xingmiao-huang-a5042117/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dian Gong"
 description: "Dian Gong is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.576332
+date: 2026-07-10T01:07:47.639575
 url: "/cdr-researcher-census/researchers/dian-gong-a5052433/"
 layout: "researcher"
 hiddenInHomeList: true

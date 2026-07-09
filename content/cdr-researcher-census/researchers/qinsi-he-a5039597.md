@@ -1,7 +1,7 @@
 ---
 title: "Qinsi He"
 description: "Qinsi He is a Mid-career Soil Carbon researcher at University of Technology Sydney in AU. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.367262
+date: 2026-07-10T01:07:47.449347
 url: "/cdr-researcher-census/researchers/qinsi-he-a5039597/"
 layout: "researcher"
 hiddenInHomeList: true

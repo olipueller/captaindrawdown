@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Salimi"
 description: "Mohsen Salimi is a Senior General CDR researcher at Aarhus University in DK. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.753558
+date: 2026-07-10T01:07:47.804221
 url: "/cdr-researcher-census/researchers/mohsen-salimi-a5068601/"
 layout: "researcher"
 hiddenInHomeList: true

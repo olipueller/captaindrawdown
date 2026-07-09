@@ -1,7 +1,7 @@
 ---
 title: "Vladimir Shanin"
 description: "Vladimir Shanin is a Senior Soil Carbon researcher at Institute of Mathematical Problems of Biology in RU. With 108 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.310171
+date: 2026-07-10T01:07:47.392401
 url: "/cdr-researcher-census/researchers/vladimir-shanin-a5052019/"
 layout: "researcher"
 hiddenInHomeList: true

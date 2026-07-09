@@ -1,7 +1,7 @@
 ---
 title: "Nora Loose"
 description: "Nora Loose is a Mid-career Ocean CDR researcher at Nansen Environmental and Remote Sensing Center in NO. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.990619
+date: 2026-07-10T01:07:47.999445
 url: "/cdr-researcher-census/researchers/nora-loose-a5068678/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zheke Zhong"
 description: "Zheke Zhong is a Senior Soil Carbon researcher at National Agricultural Research Institute in PG. With 79 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.071634
+date: 2026-07-10T01:07:47.150685
 url: "/cdr-researcher-census/researchers/zheke-zhong-a5034154/"
 layout: "researcher"
 hiddenInHomeList: true

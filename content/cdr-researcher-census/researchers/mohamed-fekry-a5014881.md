@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Fekry"
 description: "Mohamed Fekry is a Senior Unknown researcher at Menoufia University in EG. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.125768
+date: 2026-07-10T01:07:48.149489
 url: "/cdr-researcher-census/researchers/mohamed-fekry-a5014881/"
 layout: "researcher"
 hiddenInHomeList: true

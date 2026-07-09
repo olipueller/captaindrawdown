@@ -1,7 +1,7 @@
 ---
 title: "Yuhang Liu"
 description: "Yuhang Liu is a Senior General CDR researcher at Xi'an University of Science and Technology in CN. With 63 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.043153
+date: 2026-07-10T01:07:47.116269
 url: "/cdr-researcher-census/researchers/yuhang-liu-a5100420/"
 layout: "researcher"
 hiddenInHomeList: true

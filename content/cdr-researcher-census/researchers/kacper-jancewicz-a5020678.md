@@ -1,7 +1,7 @@
 ---
 title: "Kacper Jancewicz"
 description: "Kacper Jancewicz is a Mid-career Unknown researcher at University of Wrocław in PL. With 58 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.533748
+date: 2026-07-10T01:07:47.599972
 url: "/cdr-researcher-census/researchers/kacper-jancewicz-a5020678/"
 layout: "researcher"
 hiddenInHomeList: true

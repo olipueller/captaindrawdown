@@ -1,7 +1,7 @@
 ---
 title: "Sevaram Singh"
 description: "Sevaram Singh is a Mid-career Soil Carbon researcher at Jawaharlal Nehru University in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.146046
+date: 2026-07-10T01:07:47.234909
 url: "/cdr-researcher-census/researchers/sevaram-singh-a5073298/"
 layout: "researcher"
 hiddenInHomeList: true

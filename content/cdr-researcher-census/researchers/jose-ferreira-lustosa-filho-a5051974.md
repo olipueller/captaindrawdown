@@ -1,7 +1,7 @@
 ---
 title: "José Ferreira Lustosa Filho"
 description: "José Ferreira Lustosa Filho is a Senior Soil Carbon researcher at University of Brasilia in BR. With 79 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.237435
+date: 2026-07-10T01:07:47.323940
 url: "/cdr-researcher-census/researchers/jose-ferreira-lustosa-filho-a5051974/"
 layout: "researcher"
 hiddenInHomeList: true

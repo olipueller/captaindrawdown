@@ -1,7 +1,7 @@
 ---
 title: "Ashley T. Townsend"
 description: "Ashley T. Townsend is a Senior Ocean CDR researcher at University of Tasmania in AU. With 181 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.961850
+date: 2026-07-10T01:07:47.000417
 url: "/cdr-researcher-census/researchers/ashley-t-townsend-a5013648/"
 layout: "researcher"
 hiddenInHomeList: true

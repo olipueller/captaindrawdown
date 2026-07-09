@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Umar Mushtaq"
 description: "Muhammad Umar Mushtaq is a Mid-career Unknown researcher at Institute of Process Engineering in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.048129
+date: 2026-07-10T01:07:48.961549
 url: "/cdr-researcher-census/researchers/muhammad-umar-mushtaq-a5079930/"
 layout: "researcher"
 hiddenInHomeList: true

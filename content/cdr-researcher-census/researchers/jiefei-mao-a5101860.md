@@ -1,7 +1,7 @@
 ---
 title: "Jiefei Mao"
 description: "Jiefei Mao is a Senior Soil Carbon researcher at Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences in CN. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.230608
+date: 2026-07-10T01:07:47.317870
 url: "/cdr-researcher-census/researchers/jiefei-mao-a5101860/"
 layout: "researcher"
 hiddenInHomeList: true

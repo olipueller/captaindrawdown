@@ -1,7 +1,7 @@
 ---
 title: "Retno Gumilang Dewi"
 description: "Retno Gumilang Dewi is a Mid-career General CDR researcher at Bandung Institute of Technology in ID. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.765427
+date: 2026-07-10T01:07:47.815886
 url: "/cdr-researcher-census/researchers/retno-gumilang-dewi-a5113925/"
 layout: "researcher"
 hiddenInHomeList: true

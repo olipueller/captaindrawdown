@@ -1,7 +1,7 @@
 ---
 title: "Habib Forootan Fard"
 description: "Habib Forootan Fard is a Mid-career Unknown researcher at Duy Tan University in VN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.941284
+date: 2026-07-10T01:07:47.953787
 url: "/cdr-researcher-census/researchers/habib-forootan-fard-a5015877/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Betânia Lucena Domingues Hatzlhofer"
 description: "Betânia Lucena Domingues Hatzlhofer is a Mid-career Unknown researcher at Universidade Federal de Pernambuco in BR. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.279116
+date: 2026-07-10T01:07:48.284705
 url: "/cdr-researcher-census/researchers/betania-lucena-domingues-hatzlhofer-a5089655/"
 layout: "researcher"
 hiddenInHomeList: true

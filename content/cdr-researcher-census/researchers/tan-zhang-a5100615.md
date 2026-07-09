@@ -1,7 +1,7 @@
 ---
 title: "Tan Zhang"
 description: "Tan Zhang is a Senior Unknown researcher at Ministry of Natural Resources in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.226661
+date: 2026-07-10T01:07:48.237032
 url: "/cdr-researcher-census/researchers/tan-zhang-a5100615/"
 layout: "researcher"
 hiddenInHomeList: true

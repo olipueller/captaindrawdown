@@ -1,7 +1,7 @@
 ---
 title: "Jashanjeet Kaur Dhaliwal"
 description: "Jashanjeet Kaur Dhaliwal is a Senior Soil Carbon researcher at University of Tennessee at Knoxville in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.143300
+date: 2026-07-10T01:07:48.163669
 url: "/cdr-researcher-census/researchers/jashanjeet-kaur-dhaliwal-a5004585/"
 layout: "researcher"
 hiddenInHomeList: true

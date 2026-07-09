@@ -1,7 +1,7 @@
 ---
 title: "L. A. Z. Machado"
 description: "L. A. Z. Machado is a Mid-career Biochar researcher at Universidade de São Paulo in BR. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.473327
+date: 2026-07-10T01:07:48.460701
 url: "/cdr-researcher-census/researchers/l-a-z-machado-a5102958/"
 layout: "researcher"
 hiddenInHomeList: true

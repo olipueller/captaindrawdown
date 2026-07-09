@@ -1,7 +1,7 @@
 ---
 title: "Tom J. Drinan"
 description: "Tom J. Drinan is a Mid-career General CDR researcher at University of Limerick in IE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.801816
+date: 2026-07-10T01:07:48.740536
 url: "/cdr-researcher-census/researchers/tom-j-drinan-a5053900/"
 layout: "researcher"
 hiddenInHomeList: true

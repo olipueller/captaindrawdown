@@ -1,7 +1,7 @@
 ---
 title: "Fengsheng Liu"
 description: "Fengsheng Liu is a Senior DAC researcher at J-Power (Japan) in JP. With 44 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.269705
+date: 2026-07-10T01:07:47.352824
 url: "/cdr-researcher-census/researchers/fengsheng-liu-a5037463/"
 layout: "researcher"
 hiddenInHomeList: true

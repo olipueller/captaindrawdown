@@ -1,7 +1,7 @@
 ---
 title: "Jingnan Ma"
 description: "Jingnan Ma is a Senior Unknown researcher at Sino-Danish Centre for Education and Research in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.393074
+date: 2026-07-10T01:07:48.385799
 url: "/cdr-researcher-census/researchers/jingnan-ma-a5075411/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Spyridon E. Detsikas"
 description: "Spyridon E. Detsikas is a Mid-career Soil Carbon researcher at Harokopio University of Athens in GR. With 82 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.768740
+date: 2026-07-10T01:07:48.712890
 url: "/cdr-researcher-census/researchers/spyridon-e-detsikas-a5046275/"
 layout: "researcher"
 hiddenInHomeList: true

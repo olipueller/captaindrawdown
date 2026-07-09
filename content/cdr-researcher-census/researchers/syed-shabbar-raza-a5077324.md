@@ -1,7 +1,7 @@
 ---
 title: "Syed Shabbar Raza"
 description: "Syed Shabbar Raza is a Mid-career General CDR researcher at The University of Queensland in AU. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.516015
+date: 2026-07-10T01:07:47.583863
 url: "/cdr-researcher-census/researchers/syed-shabbar-raza-a5077324/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chaoyue Shan"
 description: "Chaoyue Shan is a Mid-career Unknown researcher at Qilu University of Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.550191
+date: 2026-07-10T01:07:48.530307
 url: "/cdr-researcher-census/researchers/chaoyue-shan-a5010820/"
 layout: "researcher"
 hiddenInHomeList: true

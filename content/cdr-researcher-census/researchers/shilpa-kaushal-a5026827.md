@@ -1,7 +1,7 @@
 ---
 title: "Shilpa Kaushal"
 description: "Shilpa Kaushal is a Senior Soil Carbon researcher at Chandigarh University in IN. With 98 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.529785
+date: 2026-07-10T01:07:48.512606
 url: "/cdr-researcher-census/researchers/shilpa-kaushal-a5026827/"
 layout: "researcher"
 hiddenInHomeList: true

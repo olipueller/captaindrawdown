@@ -1,7 +1,7 @@
 ---
 title: "Yady J. M. Torres"
 description: "Yady J. M. Torres is an Early-career Unknown researcher at Queensland University of Technology in AU. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.055455
+date: 2026-07-10T01:07:48.968538
 url: "/cdr-researcher-census/researchers/yady-j-m-torres-a5033454/"
 layout: "researcher"
 hiddenInHomeList: true

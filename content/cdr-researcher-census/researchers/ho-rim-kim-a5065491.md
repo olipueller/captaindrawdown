@@ -1,7 +1,7 @@
 ---
 title: "Ho-Rim Kim"
 description: "Ho-Rim Kim is a Mid-career Unknown researcher at ET Enterprises (United Kingdom) in GB. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.983958
+date: 2026-07-10T01:07:47.993259
 url: "/cdr-researcher-census/researchers/ho-rim-kim-a5065491/"
 layout: "researcher"
 hiddenInHomeList: true

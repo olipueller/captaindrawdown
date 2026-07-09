@@ -1,7 +1,7 @@
 ---
 title: "Huiyan Zhu"
 description: "Huiyan Zhu is a Mid-career Unknown researcher at Zhejiang University of Technology in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.677065
+date: 2026-07-10T01:07:48.632914
 url: "/cdr-researcher-census/researchers/huiyan-zhu-a5059064/"
 layout: "researcher"
 hiddenInHomeList: true

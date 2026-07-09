@@ -1,7 +1,7 @@
 ---
 title: "Natale G. Porcaro"
 description: "Natale G. Porcaro is a Mid-career Unknown researcher at University of Turin in IT. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.028967
+date: 2026-07-10T01:07:48.036214
 url: "/cdr-researcher-census/researchers/natale-g-porcaro-a5063016/"
 layout: "researcher"
 hiddenInHomeList: true

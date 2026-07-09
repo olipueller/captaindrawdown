@@ -1,7 +1,7 @@
 ---
 title: "Gokulprasanth Nataraj"
 description: "Gokulprasanth Nataraj is a Mid-career Unknown researcher at Central Leather Research Institute in IN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.860107
+date: 2026-07-10T01:07:47.895356
 url: "/cdr-researcher-census/researchers/gokulprasanth-nataraj-a5113412/"
 layout: "researcher"
 hiddenInHomeList: true

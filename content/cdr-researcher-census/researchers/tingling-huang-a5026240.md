@@ -1,7 +1,7 @@
 ---
 title: "Tingling Huang"
 description: "Tingling Huang is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.647249
+date: 2026-07-10T01:07:48.606050
 url: "/cdr-researcher-census/researchers/tingling-huang-a5026240/"
 layout: "researcher"
 hiddenInHomeList: true

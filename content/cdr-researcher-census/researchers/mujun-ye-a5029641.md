@@ -1,7 +1,7 @@
 ---
 title: "Mujun Ye"
 description: "Mujun Ye is a Mid-career Soil Carbon researcher at Gannan Normal University in CN. With 25 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.331654
+date: 2026-07-10T01:07:47.413483
 url: "/cdr-researcher-census/researchers/mujun-ye-a5029641/"
 layout: "researcher"
 hiddenInHomeList: true

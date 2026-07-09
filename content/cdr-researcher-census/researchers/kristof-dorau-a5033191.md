@@ -1,7 +1,7 @@
 ---
 title: "Kristof Dorau"
 description: "Kristof Dorau is a Senior Unknown researcher at Federal Institute for Geosciences and Natural Resources in DE. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.944085
+date: 2026-07-10T01:07:47.956280
 url: "/cdr-researcher-census/researchers/kristof-dorau-a5033191/"
 layout: "researcher"
 hiddenInHomeList: true

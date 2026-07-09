@@ -1,7 +1,7 @@
 ---
 title: "Kunhao Liu"
 description: "Kunhao Liu is a Mid-career Unknown researcher at Nanyang Technological University in SG. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.427291
+date: 2026-07-10T01:07:47.505414
 url: "/cdr-researcher-census/researchers/kunhao-liu-a5072635/"
 layout: "researcher"
 hiddenInHomeList: true

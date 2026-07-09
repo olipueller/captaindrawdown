@@ -1,7 +1,7 @@
 ---
 title: "Milad Yousefi"
 description: "Milad Yousefi is a Mid-career Unknown researcher at University of Tabriz in IR. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.514057
+date: 2026-07-10T01:07:48.497977
 url: "/cdr-researcher-census/researchers/milad-yousefi-a5062641/"
 layout: "researcher"
 hiddenInHomeList: true

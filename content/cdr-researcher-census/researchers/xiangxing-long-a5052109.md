@@ -1,7 +1,7 @@
 ---
 title: "Xiangxing Long"
 description: "Xiangxing Long is a Mid-career Unknown researcher at Ministry of Education in KR. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.626646
+date: 2026-07-10T01:07:47.686579
 url: "/cdr-researcher-census/researchers/xiangxing-long-a5052109/"
 layout: "researcher"
 hiddenInHomeList: true

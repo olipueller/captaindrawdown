@@ -1,7 +1,7 @@
 ---
 title: "E.S. Forbes"
 description: "E.S. Forbes is a Senior Unknown researcher at University of Alberta in CA. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.568711
+date: 2026-07-10T01:07:47.632473
 url: "/cdr-researcher-census/researchers/es-forbes-a5013470/"
 layout: "researcher"
 hiddenInHomeList: true

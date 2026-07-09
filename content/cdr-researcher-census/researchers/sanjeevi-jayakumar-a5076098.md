@@ -1,7 +1,7 @@
 ---
 title: "Sanjeevi Jayakumar"
 description: "Sanjeevi Jayakumar is a Mid-career Unknown researcher at National University of Singapore in IN. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.317316
+date: 2026-07-10T01:07:47.399574
 url: "/cdr-researcher-census/researchers/sanjeevi-jayakumar-a5076098/"
 layout: "researcher"
 hiddenInHomeList: true

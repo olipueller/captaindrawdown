@@ -1,7 +1,7 @@
 ---
 title: "Oyeladun Rhoda Adegoke"
 description: "Oyeladun Rhoda Adegoke is a Mid-career Unknown researcher at Ladoke Akintola University of Technology in NG. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.800829
+date: 2026-07-10T01:07:47.848421
 url: "/cdr-researcher-census/researchers/oyeladun-rhoda-adegoke-a5070081/"
 layout: "researcher"
 hiddenInHomeList: true

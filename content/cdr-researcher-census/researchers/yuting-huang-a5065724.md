@@ -1,7 +1,7 @@
 ---
 title: "Yuting Huang"
 description: "Yuting Huang is a Mid-career Unknown researcher at Tongji University in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.857212
+date: 2026-07-10T01:07:48.787654
 url: "/cdr-researcher-census/researchers/yuting-huang-a5065724/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lydia Kapsenberg"
 description: "Lydia Kapsenberg is a Mid-career Ocean CDR researcher at Consejo Superior de Investigaciones Científicas in ES. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.200449
+date: 2026-07-10T01:07:47.289331
 url: "/cdr-researcher-census/researchers/lydia-kapsenberg-a5077343/"
 layout: "researcher"
 hiddenInHomeList: true

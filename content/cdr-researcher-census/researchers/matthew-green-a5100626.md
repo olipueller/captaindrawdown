@@ -1,7 +1,7 @@
 ---
 title: "Matthew Green"
 description: "Matthew Green is an Eminent DAC researcher at Department for Transport in GB. With 191 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.915954
+date: 2026-07-10T01:07:46.921005
 url: "/cdr-researcher-census/researchers/matthew-green-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "María Martínez Mena"
 description: "María Martínez Mena is an Early-career Unknown researcher at Consejo Superior de Investigaciones Científicas in ES. With 12 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.207819
+date: 2026-07-10T01:07:49.120354
 url: "/cdr-researcher-census/researchers/maria-martinez-mena-a5032792/"
 layout: "researcher"
 hiddenInHomeList: true

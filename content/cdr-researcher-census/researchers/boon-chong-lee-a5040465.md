@@ -1,7 +1,7 @@
 ---
 title: "Boon Chong Lee"
 description: "Boon Chong Lee is a Mid-career Unknown researcher at National University of Singapore in SG. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.543818
+date: 2026-07-10T01:07:47.608814
 url: "/cdr-researcher-census/researchers/boon-chong-lee-a5040465/"
 layout: "researcher"
 hiddenInHomeList: true

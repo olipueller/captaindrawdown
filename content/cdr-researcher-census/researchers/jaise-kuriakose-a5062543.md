@@ -1,7 +1,7 @@
 ---
 title: "Jaise Kuriakose"
 description: "Jaise Kuriakose is a Mid-career General CDR researcher. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.922159
+date: 2026-07-10T01:07:47.935705
 url: "/cdr-researcher-census/researchers/jaise-kuriakose-a5062543/"
 layout: "researcher"
 hiddenInHomeList: true

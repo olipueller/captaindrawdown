@@ -1,7 +1,7 @@
 ---
 title: "Congquan Zhou"
 description: "Congquan Zhou is a Senior Unknown researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.913261
+date: 2026-07-10T01:07:48.837878
 url: "/cdr-researcher-census/researchers/congquan-zhou-a5012758/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "E. Elena García‐Martín"
 description: "E. Elena García‐Martín is a Senior Unknown researcher at University of East Anglia in GB. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.783451
+date: 2026-07-10T01:07:47.831993
 url: "/cdr-researcher-census/researchers/e-elena-garciamartin-a5019038/"
 layout: "researcher"
 hiddenInHomeList: true

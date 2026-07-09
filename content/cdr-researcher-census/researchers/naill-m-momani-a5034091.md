@@ -1,7 +1,7 @@
 ---
 title: "Naill M. Momani"
 description: "Naill M. Momani is a Senior Biochar researcher at University of Jordan in JO. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.127438
+date: 2026-07-10T01:07:49.032600
 url: "/cdr-researcher-census/researchers/naill-m-momani-a5034091/"
 layout: "researcher"
 hiddenInHomeList: true

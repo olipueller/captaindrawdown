@@ -1,7 +1,7 @@
 ---
 title: "Dogukan Tunay"
 description: "Dogukan Tunay is a Mid-career Unknown researcher at Yıldız Technical University in TR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.803970
+date: 2026-07-10T01:07:48.742828
 url: "/cdr-researcher-census/researchers/dogukan-tunay-a5031148/"
 layout: "researcher"
 hiddenInHomeList: true

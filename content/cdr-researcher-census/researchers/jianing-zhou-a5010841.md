@@ -1,7 +1,7 @@
 ---
 title: "Jianing Zhou"
 description: "Jianing Zhou is a Mid-career Unknown researcher at Changchun University of Science and Technology in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.853735
+date: 2026-07-10T01:07:47.889217
 url: "/cdr-researcher-census/researchers/jianing-zhou-a5010841/"
 layout: "researcher"
 hiddenInHomeList: true

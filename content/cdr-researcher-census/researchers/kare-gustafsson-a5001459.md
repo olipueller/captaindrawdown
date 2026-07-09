@@ -1,7 +1,7 @@
 ---
 title: "Kåre Gustafsson"
 description: "Kåre Gustafsson is a Mid-career BECCS researcher at KTH Royal Institute of Technology in SE. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.123055
+date: 2026-07-10T01:07:49.028424
 url: "/cdr-researcher-census/researchers/kare-gustafsson-a5001459/"
 layout: "researcher"
 hiddenInHomeList: true

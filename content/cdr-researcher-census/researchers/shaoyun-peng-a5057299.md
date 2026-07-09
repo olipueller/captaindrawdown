@@ -1,7 +1,7 @@
 ---
 title: "Shaoyun Peng"
 description: "Shaoyun Peng is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.129383
+date: 2026-07-10T01:07:48.152443
 url: "/cdr-researcher-census/researchers/shaoyun-peng-a5057299/"
 layout: "researcher"
 hiddenInHomeList: true

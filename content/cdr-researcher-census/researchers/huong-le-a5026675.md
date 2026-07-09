@@ -1,7 +1,7 @@
 ---
 title: "Huong Le"
 description: "Huong Le is a Mid-career Biochar researcher at University of West Los Angeles in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.947819
+date: 2026-07-10T01:07:48.869680
 url: "/cdr-researcher-census/researchers/huong-le-a5026675/"
 layout: "researcher"
 hiddenInHomeList: true

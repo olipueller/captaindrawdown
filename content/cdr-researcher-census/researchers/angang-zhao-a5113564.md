@@ -1,7 +1,7 @@
 ---
 title: "Angang Zhao"
 description: "Angang Zhao is a Senior Biochar researcher at Shanghai Normal University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.528928
+date: 2026-07-10T01:07:48.511717
 url: "/cdr-researcher-census/researchers/angang-zhao-a5113564/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "L. Poletti"
 description: "L. Poletti is a Senior Unknown researcher at University of Parma in IT. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.020778
+date: 2026-07-10T01:07:48.936715
 url: "/cdr-researcher-census/researchers/l-poletti-a5074002/"
 layout: "researcher"
 hiddenInHomeList: true

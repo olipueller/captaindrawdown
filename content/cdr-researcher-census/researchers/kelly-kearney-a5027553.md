@@ -1,7 +1,7 @@
 ---
 title: "Kelly Kearney"
 description: "Kelly Kearney is a Senior Ocean CDR researcher at NOAA National Marine Fisheries Service in US. With 80 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.952764
+date: 2026-07-10T01:07:46.987011
 url: "/cdr-researcher-census/researchers/kelly-kearney-a5027553/"
 layout: "researcher"
 hiddenInHomeList: true

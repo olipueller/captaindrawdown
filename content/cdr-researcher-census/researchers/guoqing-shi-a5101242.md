@@ -1,7 +1,7 @@
 ---
 title: "Guoqing Shi"
 description: "Guoqing Shi is a Senior Unknown researcher at Qingdao University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.707333
+date: 2026-07-10T01:07:48.659453
 url: "/cdr-researcher-census/researchers/guoqing-shi-a5101242/"
 layout: "researcher"
 hiddenInHomeList: true

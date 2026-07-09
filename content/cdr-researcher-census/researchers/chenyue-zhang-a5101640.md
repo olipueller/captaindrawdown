@@ -1,7 +1,7 @@
 ---
 title: "Chenyue Zhang"
 description: "Chenyue Zhang is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.932927
+date: 2026-07-10T01:07:48.856034
 url: "/cdr-researcher-census/researchers/chenyue-zhang-a5101640/"
 layout: "researcher"
 hiddenInHomeList: true

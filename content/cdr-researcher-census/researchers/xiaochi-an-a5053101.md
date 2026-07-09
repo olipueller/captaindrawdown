@@ -1,7 +1,7 @@
 ---
 title: "Xiaochi An"
 description: "Xiaochi An is a Mid-career Unknown researcher at Wannan Medical College in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.625668
+date: 2026-07-10T01:07:48.586093
 url: "/cdr-researcher-census/researchers/xiaochi-an-a5053101/"
 layout: "researcher"
 hiddenInHomeList: true

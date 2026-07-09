@@ -1,7 +1,7 @@
 ---
 title: "Kleopatra Miserli"
 description: "Kleopatra Miserli is a Mid-career Biochar researcher. With 12 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.974425
+date: 2026-07-10T01:07:47.984413
 url: "/cdr-researcher-census/researchers/kleopatra-miserli-a5015194/"
 layout: "researcher"
 hiddenInHomeList: true

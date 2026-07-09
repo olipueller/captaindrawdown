@@ -1,7 +1,7 @@
 ---
 title: "Boonyawee Saengsawang"
 description: "Boonyawee Saengsawang is a Mid-career Unknown researcher at National Chung Hsing University in TW. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.811153
+date: 2026-07-10T01:07:48.748578
 url: "/cdr-researcher-census/researchers/boonyawee-saengsawang-a5006654/"
 layout: "researcher"
 hiddenInHomeList: true

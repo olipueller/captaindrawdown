@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Wade"
 description: "Jennifer Wade is a Senior General CDR researcher at Planetary Science Institute in US. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.950737
+date: 2026-07-10T01:07:47.962318
 url: "/cdr-researcher-census/researchers/jennifer-wade-a5071605/"
 layout: "researcher"
 hiddenInHomeList: true

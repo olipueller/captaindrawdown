@@ -1,7 +1,7 @@
 ---
 title: "Hongtu Xie"
 description: "Hongtu Xie is a Senior Soil Carbon researcher at 中国科学院沈阳应用生态研究所 in CN. With 154 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.962930
+date: 2026-07-10T01:07:47.002131
 url: "/cdr-researcher-census/researchers/hongtu-xie-a5102831/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Irina Melnikova"
 description: "Irina Melnikova is a Senior General CDR researcher at National Institute for Environmental Studies in JP. With 117 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.680413
+date: 2026-07-10T01:07:47.736717
 url: "/cdr-researcher-census/researchers/irina-melnikova-a5022654/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuehong Xu"
 description: "Xuehong Xu is a Senior Unknown researcher at Institute of Botany Chinese Academy of Sciences in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.399529
+date: 2026-07-10T01:07:48.391509
 url: "/cdr-researcher-census/researchers/xuehong-xu-a5101597/"
 layout: "researcher"
 hiddenInHomeList: true

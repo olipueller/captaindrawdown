@@ -1,7 +1,7 @@
 ---
 title: "Collins Nganou"
 description: "Collins Nganou is a Senior Unknown researcher. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.850486
+date: 2026-07-10T01:07:47.886279
 url: "/cdr-researcher-census/researchers/collins-nganou-a5044595/"
 layout: "researcher"
 hiddenInHomeList: true

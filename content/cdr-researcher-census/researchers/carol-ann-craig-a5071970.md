@@ -1,7 +1,7 @@
 ---
 title: "Carol-Ann Craig"
 description: "Carol-Ann Craig is a Senior Unknown researcher at James Hutton Institute in GB. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.219408
+date: 2026-07-10T01:07:48.230664
 url: "/cdr-researcher-census/researchers/carol-ann-craig-a5071970/"
 layout: "researcher"
 hiddenInHomeList: true

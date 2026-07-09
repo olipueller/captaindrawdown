@@ -1,7 +1,7 @@
 ---
 title: "Jessica Maccieri"
 description: "Jessica Maccieri is an Early-career Unknown researcher at Azienda Unita' Sanitaria Locale Di Modena in IT. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.155936
+date: 2026-07-10T01:07:48.175081
 url: "/cdr-researcher-census/researchers/jessica-maccieri-a5090942/"
 layout: "researcher"
 hiddenInHomeList: true

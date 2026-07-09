@@ -1,7 +1,7 @@
 ---
 title: "Charlene N. Kelly"
 description: "Charlene N. Kelly is a Senior Soil Carbon researcher at West Virginia University in US. With 40 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.028721
+date: 2026-07-10T01:07:47.097240
 url: "/cdr-researcher-census/researchers/charlene-n-kelly-a5044296/"
 layout: "researcher"
 hiddenInHomeList: true

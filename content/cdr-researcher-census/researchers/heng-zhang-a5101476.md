@@ -1,7 +1,7 @@
 ---
 title: "Heng Zhang"
 description: "Heng Zhang is a Mid-career Soil Carbon researcher at Chongqing University of Posts and Telecommunications in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.013320
+date: 2026-07-10T01:07:48.021147
 url: "/cdr-researcher-census/researchers/heng-zhang-a5101476/"
 layout: "researcher"
 hiddenInHomeList: true

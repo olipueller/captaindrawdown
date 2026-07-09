@@ -1,7 +1,7 @@
 ---
 title: "Dominic Yellezuome"
 description: "Dominic Yellezuome is a Senior Biochar researcher at University of Mines and Technology in GH. With 53 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.136960
+date: 2026-07-10T01:07:47.225823
 url: "/cdr-researcher-census/researchers/dominic-yellezuome-a5042988/"
 layout: "researcher"
 hiddenInHomeList: true

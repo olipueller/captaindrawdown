@@ -1,7 +1,7 @@
 ---
 title: "Wala A. Algozeeb"
 description: "Wala A. Algozeeb is a Mid-career Unknown researcher at Saudi Aramco (Saudi Arabia) in SA. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.091207
+date: 2026-07-10T01:07:47.174001
 url: "/cdr-researcher-census/researchers/wala-a-algozeeb-a5053249/"
 layout: "researcher"
 hiddenInHomeList: true

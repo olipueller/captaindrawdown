@@ -1,7 +1,7 @@
 ---
 title: "Sunil Mundra"
 description: "Sunil Mundra is a Senior Soil Carbon researcher at United Arab Emirates University in AE. With 108 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.943342
+date: 2026-07-10T01:07:46.971808
 url: "/cdr-researcher-census/researchers/sunil-mundra-a5002072/"
 layout: "researcher"
 hiddenInHomeList: true

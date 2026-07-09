@@ -1,7 +1,7 @@
 ---
 title: "Guillermo Quijano"
 description: "Guillermo Quijano is a Mid-career Unknown researcher at Federal Government of Mexico in MX. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.248671
+date: 2026-07-10T01:07:48.256616
 url: "/cdr-researcher-census/researchers/guillermo-quijano-a5039297/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Péter Bana"
 description: "Péter Bana is a Mid-career Unknown researcher at Gedeon Richter (Hungary) in HU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.341540
+date: 2026-07-10T01:07:48.341033
 url: "/cdr-researcher-census/researchers/peter-bana-a5028593/"
 layout: "researcher"
 hiddenInHomeList: true

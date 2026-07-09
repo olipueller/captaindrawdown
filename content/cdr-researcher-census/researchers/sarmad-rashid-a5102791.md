@@ -1,7 +1,7 @@
 ---
 title: "Sarmad Rashid"
 description: "Sarmad Rashid is an Early-career Biochar researcher at Thapar Institute of Engineering & Technology in IN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.135972
+date: 2026-07-10T01:07:49.039744
 url: "/cdr-researcher-census/researchers/sarmad-rashid-a5102791/"
 layout: "researcher"
 hiddenInHomeList: true

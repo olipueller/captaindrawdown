@@ -1,7 +1,7 @@
 ---
 title: "Anshuman Kohli"
 description: "Anshuman Kohli is a Senior Soil Carbon researcher at Bihar Agricultural University in IN. With 59 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.944199
+date: 2026-07-10T01:07:47.956383
 url: "/cdr-researcher-census/researchers/anshuman-kohli-a5110460/"
 layout: "researcher"
 hiddenInHomeList: true

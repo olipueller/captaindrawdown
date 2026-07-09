@@ -1,7 +1,7 @@
 ---
 title: "Yiming Li"
 description: "Yiming Li is a Mid-career Unknown researcher at Tianjin University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.273685
+date: 2026-07-10T01:07:48.279325
 url: "/cdr-researcher-census/researchers/yiming-li-a5114269/"
 layout: "researcher"
 hiddenInHomeList: true

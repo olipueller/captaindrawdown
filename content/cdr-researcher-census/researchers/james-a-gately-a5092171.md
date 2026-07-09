@@ -1,7 +1,7 @@
 ---
 title: "James A. Gately"
 description: "James A. Gately is an Early-career Ocean CDR researcher at University of California, Santa Barbara in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.065672
+date: 2026-07-10T01:07:48.977506
 url: "/cdr-researcher-census/researchers/james-a-gately-a5092171/"
 layout: "researcher"
 hiddenInHomeList: true

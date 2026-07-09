@@ -1,7 +1,7 @@
 ---
 title: "Cara Nichole Maesano"
 description: "Cara Nichole Maesano is a Senior General CDR researcher at Rocky Mountain Institute in FR. With 65 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.109044
+date: 2026-07-10T01:07:47.194480
 url: "/cdr-researcher-census/researchers/cara-nichole-maesano-a5016028/"
 layout: "researcher"
 hiddenInHomeList: true

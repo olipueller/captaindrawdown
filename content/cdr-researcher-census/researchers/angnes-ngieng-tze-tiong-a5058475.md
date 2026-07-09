@@ -1,7 +1,7 @@
 ---
 title: "Angnes Ngieng Tze Tiong"
 description: "Angnes Ngieng Tze Tiong is a Mid-career Enhanced Weathering researcher at Curtin University Sarawak in MY. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.959846
+date: 2026-07-10T01:07:47.970567
 url: "/cdr-researcher-census/researchers/angnes-ngieng-tze-tiong-a5058475/"
 layout: "researcher"
 hiddenInHomeList: true

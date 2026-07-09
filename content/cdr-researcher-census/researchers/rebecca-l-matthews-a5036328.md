@@ -1,7 +1,7 @@
 ---
 title: "Rebecca L. Matthews"
 description: "Rebecca L. Matthews is a Mid-career Unknown researcher at Frederick National Laboratory for Cancer Research in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.552023
+date: 2026-07-10T01:07:48.532155
 url: "/cdr-researcher-census/researchers/rebecca-l-matthews-a5036328/"
 layout: "researcher"
 hiddenInHomeList: true

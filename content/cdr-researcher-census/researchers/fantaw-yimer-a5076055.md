@@ -1,7 +1,7 @@
 ---
 title: "Fantaw Yimer"
 description: "Fantaw Yimer is a Senior Soil Carbon researcher at Hawassa University in ET. With 65 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.061187
+date: 2026-07-10T01:07:47.137372
 url: "/cdr-researcher-census/researchers/fantaw-yimer-a5076055/"
 layout: "researcher"
 hiddenInHomeList: true

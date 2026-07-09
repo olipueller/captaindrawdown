@@ -1,7 +1,7 @@
 ---
 title: "Makki Khorchani"
 description: "Makki Khorchani is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 43 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.483352
+date: 2026-07-10T01:07:47.555141
 url: "/cdr-researcher-census/researchers/makki-khorchani-a5081380/"
 layout: "researcher"
 hiddenInHomeList: true

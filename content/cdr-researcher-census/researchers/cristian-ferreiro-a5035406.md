@@ -1,7 +1,7 @@
 ---
 title: "Cristian Ferreiro"
 description: "Cristian Ferreiro is a Mid-career Unknown researcher at University of the Basque Country in ES. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.266917
+date: 2026-07-10T01:07:48.273285
 url: "/cdr-researcher-census/researchers/cristian-ferreiro-a5035406/"
 layout: "researcher"
 hiddenInHomeList: true

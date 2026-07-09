@@ -1,7 +1,7 @@
 ---
 title: "Haozhi Zhao"
 description: "Haozhi Zhao is a Senior Unknown researcher at North University of China in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.779846
+date: 2026-07-10T01:07:48.723085
 url: "/cdr-researcher-census/researchers/haozhi-zhao-a5104033/"
 layout: "researcher"
 hiddenInHomeList: true

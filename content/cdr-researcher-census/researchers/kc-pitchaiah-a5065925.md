@@ -1,7 +1,7 @@
 ---
 title: "K.C. Pitchaiah"
 description: "K.C. Pitchaiah is a Mid-career Unknown researcher at Indira Gandhi Centre for Atomic Research in IN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.004877
+date: 2026-07-10T01:07:48.013692
 url: "/cdr-researcher-census/researchers/kc-pitchaiah-a5065925/"
 layout: "researcher"
 hiddenInHomeList: true

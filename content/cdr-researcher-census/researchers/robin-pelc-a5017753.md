@@ -1,7 +1,7 @@
 ---
 title: "Robin Pelc"
 description: "Robin Pelc is a Senior Ocean CDR researcher at California State University, Monterey Bay in US. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.222702
+date: 2026-07-10T01:07:47.309869
 url: "/cdr-researcher-census/researchers/robin-pelc-a5017753/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Luís Carlos Colocho Hurtarte"
 description: "Luís Carlos Colocho Hurtarte is a Mid-career Soil Carbon researcher at University of Lausanne in CH. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.587105
+date: 2026-07-10T01:07:47.650407
 url: "/cdr-researcher-census/researchers/luis-carlos-colocho-hurtarte-a5042419/"
 layout: "researcher"
 hiddenInHomeList: true

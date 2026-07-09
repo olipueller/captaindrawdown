@@ -1,7 +1,7 @@
 ---
 title: "Ebuka Chizitere Emenike"
 description: "Ebuka Chizitere Emenike is a Senior Biochar researcher at Project Development Institute in NG. With 153 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.969242
+date: 2026-07-10T01:07:47.012423
 url: "/cdr-researcher-census/researchers/ebuka-chizitere-emenike-a5015725/"
 layout: "researcher"
 hiddenInHomeList: true

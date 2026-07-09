@@ -1,7 +1,7 @@
 ---
 title: "Haoyu Sun"
 description: "Haoyu Sun is a Mid-career Unknown researcher at Huaibei Normal University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.917154
+date: 2026-07-10T01:07:47.930546
 url: "/cdr-researcher-census/researchers/haoyu-sun-a5040035/"
 layout: "researcher"
 hiddenInHomeList: true

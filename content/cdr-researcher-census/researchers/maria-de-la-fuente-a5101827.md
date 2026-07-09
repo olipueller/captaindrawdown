@@ -1,7 +1,7 @@
 ---
 title: "Maria De La Fuente"
 description: "Maria De La Fuente is a Mid-career Unknown researcher at Université Libre de Bruxelles in BE. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.840962
+date: 2026-07-10T01:07:48.773212
 url: "/cdr-researcher-census/researchers/maria-de-la-fuente-a5101827/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mahtab Ahmad"
 description: "Mahtab Ahmad is a Senior Soil Carbon researcher at King Saud University in SA. With 18 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.063458
+date: 2026-07-10T01:07:47.140636
 url: "/cdr-researcher-census/researchers/mahtab-ahmad-a5101533/"
 layout: "researcher"
 hiddenInHomeList: true

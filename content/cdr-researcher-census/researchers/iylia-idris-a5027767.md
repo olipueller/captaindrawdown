@@ -1,7 +1,7 @@
 ---
 title: "Iylia Idris"
 description: "Iylia Idris is a Mid-career General CDR researcher at Universiti Teknologi MARA System in MY. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.389897
+date: 2026-07-10T01:07:48.383275
 url: "/cdr-researcher-census/researchers/iylia-idris-a5027767/"
 layout: "researcher"
 hiddenInHomeList: true

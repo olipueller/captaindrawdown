@@ -1,7 +1,7 @@
 ---
 title: "S. K. Chaudhari"
 description: "S. K. Chaudhari is a Senior Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 108 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.048871
+date: 2026-07-10T01:07:47.123458
 url: "/cdr-researcher-census/researchers/s-k-chaudhari-a5112044/"
 layout: "researcher"
 hiddenInHomeList: true

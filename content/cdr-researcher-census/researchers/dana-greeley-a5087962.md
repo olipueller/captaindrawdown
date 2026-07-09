@@ -1,7 +1,7 @@
 ---
 title: "Dana Greeley"
 description: "Dana Greeley is a Senior Ocean CDR researcher at NOAA Pacific Marine Environmental Laboratory in US. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.055194
+date: 2026-07-10T01:07:47.130854
 url: "/cdr-researcher-census/researchers/dana-greeley-a5087962/"
 layout: "researcher"
 hiddenInHomeList: true

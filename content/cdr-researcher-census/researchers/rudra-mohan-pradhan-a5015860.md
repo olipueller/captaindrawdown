@@ -1,7 +1,7 @@
 ---
 title: "Rudra Mohan Pradhan"
 description: "Rudra Mohan Pradhan is a Mid-career Unknown researcher at Indian Institute of Technology Kharagpur in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.326208
+date: 2026-07-10T01:07:48.326590
 url: "/cdr-researcher-census/researchers/rudra-mohan-pradhan-a5015860/"
 layout: "researcher"
 hiddenInHomeList: true

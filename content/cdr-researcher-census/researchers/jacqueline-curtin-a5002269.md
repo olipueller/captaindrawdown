@@ -1,7 +1,7 @@
 ---
 title: "Jacqueline Curtin"
 description: "Jacqueline Curtin is an Early-career Unknown researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.843696
+date: 2026-07-10T01:07:47.879170
 url: "/cdr-researcher-census/researchers/jacqueline-curtin-a5002269/"
 layout: "researcher"
 hiddenInHomeList: true

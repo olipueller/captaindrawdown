@@ -1,7 +1,7 @@
 ---
 title: "Stanislava Debnárová"
 description: "Stanislava Debnárová is a Mid-career Biochar researcher at Masaryk University - Faculty of Science in CZ. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.896704
+date: 2026-07-10T01:07:48.822472
 url: "/cdr-researcher-census/researchers/stanislava-debnarova-a5015589/"
 layout: "researcher"
 hiddenInHomeList: true

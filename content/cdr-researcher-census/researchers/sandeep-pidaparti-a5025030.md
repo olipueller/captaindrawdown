@@ -1,7 +1,7 @@
 ---
 title: "Sandeep Pidaparti"
 description: "Sandeep Pidaparti is a Mid-career General CDR researcher at National Energy Technology Laboratory in US. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.676781
+date: 2026-07-10T01:07:47.733291
 url: "/cdr-researcher-census/researchers/sandeep-pidaparti-a5025030/"
 layout: "researcher"
 hiddenInHomeList: true

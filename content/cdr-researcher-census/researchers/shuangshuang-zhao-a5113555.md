@@ -1,7 +1,7 @@
 ---
 title: "Shuangshuang Zhao"
 description: "Shuangshuang Zhao is a Senior Soil Carbon researcher at Hokkaido University in JP. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.781654
+date: 2026-07-10T01:07:48.724459
 url: "/cdr-researcher-census/researchers/shuangshuang-zhao-a5113555/"
 layout: "researcher"
 hiddenInHomeList: true

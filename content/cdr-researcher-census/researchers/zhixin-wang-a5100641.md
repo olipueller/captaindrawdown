@@ -1,7 +1,7 @@
 ---
 title: "Zhixin Wang"
 description: "Zhixin Wang is a Senior Unknown researcher at Union Hospital in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.378167
+date: 2026-07-10T01:07:47.459916
 url: "/cdr-researcher-census/researchers/zhixin-wang-a5100641/"
 layout: "researcher"
 hiddenInHomeList: true

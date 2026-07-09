@@ -1,7 +1,7 @@
 ---
 title: "Shubhra Kanti Das"
 description: "Shubhra Kanti Das is a Senior Unknown researcher at University of Massachusetts Lowell in US. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.164223
+date: 2026-07-10T01:07:48.181943
 url: "/cdr-researcher-census/researchers/shubhra-kanti-das-a5036973/"
 layout: "researcher"
 hiddenInHomeList: true

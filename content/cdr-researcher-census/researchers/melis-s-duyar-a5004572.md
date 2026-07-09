@@ -1,7 +1,7 @@
 ---
 title: "Melis S. Duyar"
 description: "Melis S. Duyar is a Senior General CDR researcher. With 77 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.988273
+date: 2026-07-10T01:07:47.042657
 url: "/cdr-researcher-census/researchers/melis-s-duyar-a5004572/"
 layout: "researcher"
 hiddenInHomeList: true

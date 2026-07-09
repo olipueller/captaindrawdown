@@ -1,7 +1,7 @@
 ---
 title: "Hongxing He"
 description: "Hongxing He is a Mid-career Soil Carbon researcher at Natural Resources Canada in CA. With 83 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.541621
+date: 2026-07-10T01:07:47.606780
 url: "/cdr-researcher-census/researchers/hongxing-he-a5042645/"
 layout: "researcher"
 hiddenInHomeList: true

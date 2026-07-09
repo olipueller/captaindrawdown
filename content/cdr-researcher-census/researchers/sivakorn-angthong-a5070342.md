@@ -1,7 +1,7 @@
 ---
 title: "Sivakorn Angthong"
 description: "Sivakorn Angthong is a Mid-career Unknown researcher at Rajamangala University of Technology in TH. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.047939
+date: 2026-07-10T01:07:48.961345
 url: "/cdr-researcher-census/researchers/sivakorn-angthong-a5070342/"
 layout: "researcher"
 hiddenInHomeList: true

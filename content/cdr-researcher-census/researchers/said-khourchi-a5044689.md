@@ -1,7 +1,7 @@
 ---
 title: "Said Khourchi"
 description: "Said Khourchi is a Mid-career Unknown researcher at Université Mohammed VI Polytechnique in MA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.580424
+date: 2026-07-10T01:07:47.643663
 url: "/cdr-researcher-census/researchers/said-khourchi-a5044689/"
 layout: "researcher"
 hiddenInHomeList: true

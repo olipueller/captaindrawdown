@@ -1,7 +1,7 @@
 ---
 title: "Aigerim Mamirova"
 description: "Aigerim Mamirova is a Mid-career Soil Carbon researcher at Al-Farabi Kazakh National University in KZ. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.706125
+date: 2026-07-10T01:07:47.760337
 url: "/cdr-researcher-census/researchers/aigerim-mamirova-a5042598/"
 layout: "researcher"
 hiddenInHomeList: true

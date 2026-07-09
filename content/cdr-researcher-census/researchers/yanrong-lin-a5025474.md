@@ -1,7 +1,7 @@
 ---
 title: "Yanrong Lin"
 description: "Yanrong Lin is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.916934
+date: 2026-07-10T01:07:48.841231
 url: "/cdr-researcher-census/researchers/yanrong-lin-a5025474/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Feng-Xue Gu"
 description: "Feng-Xue Gu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.044448
+date: 2026-07-10T01:07:48.958054
 url: "/cdr-researcher-census/researchers/feng-xue-gu-a5001361/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rui‐Nan Ci"
 description: "Rui‐Nan Ci is a Mid-career Unknown researcher at Technical Institute of Physics and Chemistry in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.617833
+date: 2026-07-10T01:07:47.678705
 url: "/cdr-researcher-census/researchers/ruinan-ci-a5004618/"
 layout: "researcher"
 hiddenInHomeList: true

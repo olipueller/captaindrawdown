@@ -1,7 +1,7 @@
 ---
 title: "Christian B. Lewis"
 description: "Christian B. Lewis is a Mid-career Ocean CDR researcher at GNS Science in NZ. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.239595
+date: 2026-07-10T01:07:49.148363
 url: "/cdr-researcher-census/researchers/christian-b-lewis-a5076544/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuewei Hou"
 description: "Xuewei Hou is a Mid-career Unknown researcher at Nanjing University of Information Science and Technology in CN. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.259450
+date: 2026-07-10T01:07:48.267071
 url: "/cdr-researcher-census/researchers/xuewei-hou-a5090436/"
 layout: "researcher"
 hiddenInHomeList: true

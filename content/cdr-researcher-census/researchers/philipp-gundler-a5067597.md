@@ -1,7 +1,7 @@
 ---
 title: "Philipp Gündler"
 description: "Philipp Gündler is an Early-career Soil Carbon researcher at University of Vienna in AT. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.688646
+date: 2026-07-10T01:07:47.744925
 url: "/cdr-researcher-census/researchers/philipp-gundler-a5067597/"
 layout: "researcher"
 hiddenInHomeList: true

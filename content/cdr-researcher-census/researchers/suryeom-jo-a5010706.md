@@ -1,7 +1,7 @@
 ---
 title: "Suryeom Jo"
 description: "Suryeom Jo is a Mid-career Unknown researcher at Korea Institute of Geoscience and Mineral Resources in KR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.238861
+date: 2026-07-10T01:07:49.147713
 url: "/cdr-researcher-census/researchers/suryeom-jo-a5010706/"
 layout: "researcher"
 hiddenInHomeList: true

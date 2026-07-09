@@ -1,7 +1,7 @@
 ---
 title: "Seema B. Sharma"
 description: "Seema B. Sharma is a Senior General CDR researcher at Krantiguru Shyamji Krishna Verma Kachchh University in IN. With 57 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.025846
+date: 2026-07-10T01:07:47.093681
 url: "/cdr-researcher-census/researchers/seema-b-sharma-a5008080/"
 layout: "researcher"
 hiddenInHomeList: true

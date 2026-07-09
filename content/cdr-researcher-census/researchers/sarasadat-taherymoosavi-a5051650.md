@@ -1,7 +1,7 @@
 ---
 title: "Sarasadat Taherymoosavi"
 description: "Sarasadat Taherymoosavi is a Mid-career Soil Carbon researcher at University of New South Wales in AU. With 26 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.058813
+date: 2026-07-10T01:07:47.134718
 url: "/cdr-researcher-census/researchers/sarasadat-taherymoosavi-a5051650/"
 layout: "researcher"
 hiddenInHomeList: true

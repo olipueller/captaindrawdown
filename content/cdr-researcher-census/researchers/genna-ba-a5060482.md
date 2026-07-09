@@ -1,7 +1,7 @@
 ---
 title: "Genna Ba"
 description: "Genna Ba is a Mid-career Unknown researcher at Inner Mongolia Yili Industrial Group (China) in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.875656
+date: 2026-07-10T01:07:48.803321
 url: "/cdr-researcher-census/researchers/genna-ba-a5060482/"
 layout: "researcher"
 hiddenInHomeList: true

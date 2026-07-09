@@ -1,7 +1,7 @@
 ---
 title: "Usman Ali Naeem"
 description: "Usman Ali Naeem is a Senior General CDR researcher at University of Engineering and Technology Taxila in PK. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.920205
+date: 2026-07-10T01:07:47.933808
 url: "/cdr-researcher-census/researchers/usman-ali-naeem-a5111106/"
 layout: "researcher"
 hiddenInHomeList: true

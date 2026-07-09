@@ -1,7 +1,7 @@
 ---
 title: "Maria Ellenita G. de Castro"
 description: "Maria Ellenita G. de Castro is a Mid-career Soil Carbon researcher at University of the Philippines in PH. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.527514
+date: 2026-07-10T01:07:48.510327
 url: "/cdr-researcher-census/researchers/maria-ellenita-g-de-castro-a5047729/"
 layout: "researcher"
 hiddenInHomeList: true

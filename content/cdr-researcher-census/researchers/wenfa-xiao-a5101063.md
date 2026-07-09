@@ -1,7 +1,7 @@
 ---
 title: "Wenfa Xiao"
 description: "Wenfa Xiao is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 166 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.984413
+date: 2026-07-10T01:07:47.036417
 url: "/cdr-researcher-census/researchers/wenfa-xiao-a5101063/"
 layout: "researcher"
 hiddenInHomeList: true

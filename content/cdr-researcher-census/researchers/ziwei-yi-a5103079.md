@@ -1,7 +1,7 @@
 ---
 title: "Ziwei Yi"
 description: "Ziwei Yi is a Mid-career Unknown researcher at Conselho Nacional de Desenvolvimento Científico e Tecnológico in BR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.885799
+date: 2026-07-10T01:07:48.812744
 url: "/cdr-researcher-census/researchers/ziwei-yi-a5103079/"
 layout: "researcher"
 hiddenInHomeList: true

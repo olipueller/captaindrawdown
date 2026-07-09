@@ -1,7 +1,7 @@
 ---
 title: "Esben Øster Mortensen"
 description: "Esben Øster Mortensen is a Mid-career Soil Carbon researcher at Agroécologie in FR. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.531712
+date: 2026-07-10T01:07:48.514511
 url: "/cdr-researcher-census/researchers/esben-ster-mortensen-a5040029/"
 layout: "researcher"
 hiddenInHomeList: true

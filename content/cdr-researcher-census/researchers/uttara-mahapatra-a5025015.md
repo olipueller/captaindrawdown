@@ -1,7 +1,7 @@
 ---
 title: "Uttara Mahapatra"
 description: "Uttara Mahapatra is a Mid-career Unknown researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.001400
+date: 2026-07-10T01:07:48.010654
 url: "/cdr-researcher-census/researchers/uttara-mahapatra-a5025015/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yang Zhang"
 description: "Yang Zhang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.175994
+date: 2026-07-10T01:07:49.065513
 url: "/cdr-researcher-census/researchers/yang-zhang-a5102538/"
 layout: "researcher"
 hiddenInHomeList: true

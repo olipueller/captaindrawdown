@@ -1,7 +1,7 @@
 ---
 title: "Abdullahi Kilaco Usman"
 description: "Abdullahi Kilaco Usman is a Mid-career Biochar researcher at King Fahd University of Petroleum and Minerals in SA. With 33 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.291924
+date: 2026-07-10T01:07:47.374262
 url: "/cdr-researcher-census/researchers/abdullahi-kilaco-usman-a5028028/"
 layout: "researcher"
 hiddenInHomeList: true

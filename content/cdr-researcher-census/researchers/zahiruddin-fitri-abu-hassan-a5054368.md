@@ -1,7 +1,7 @@
 ---
 title: "Zahiruddin Fitri Abu Hassan"
 description: "Zahiruddin Fitri Abu Hassan is a Mid-career General CDR researcher at University of Malaya in MY. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.338487
+date: 2026-07-10T01:07:47.421265
 url: "/cdr-researcher-census/researchers/zahiruddin-fitri-abu-hassan-a5054368/"
 layout: "researcher"
 hiddenInHomeList: true

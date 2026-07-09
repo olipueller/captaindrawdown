@@ -1,7 +1,7 @@
 ---
 title: "Emiko K. Stuart"
 description: "Emiko K. Stuart is a Mid-career Soil Carbon researcher at Western Sydney University in AU. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.025098
+date: 2026-07-10T01:07:48.940975
 url: "/cdr-researcher-census/researchers/emiko-k-stuart-a5032737/"
 layout: "researcher"
 hiddenInHomeList: true

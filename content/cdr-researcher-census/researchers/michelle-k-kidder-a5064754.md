@@ -1,7 +1,7 @@
 ---
 title: "Michelle K. Kidder"
 description: "Michelle K. Kidder is a Senior DAC researcher at Oak Ridge National Laboratory in US. With 141 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.996981
+date: 2026-07-10T01:07:47.056342
 url: "/cdr-researcher-census/researchers/michelle-k-kidder-a5064754/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Virpi Siipola"
 description: "Virpi Siipola is a Mid-career Unknown researcher at VTT Technical Research Centre of Finland in FI. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.523535
+date: 2026-07-10T01:07:47.590290
 url: "/cdr-researcher-census/researchers/virpi-siipola-a5039621/"
 layout: "researcher"
 hiddenInHomeList: true

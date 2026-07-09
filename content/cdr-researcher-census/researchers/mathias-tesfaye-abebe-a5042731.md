@@ -1,7 +1,7 @@
 ---
 title: "Mathias Tesfaye Abebe"
 description: "Mathias Tesfaye Abebe is a Mid-career Unknown researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.865781
+date: 2026-07-10T01:07:48.794796
 url: "/cdr-researcher-census/researchers/mathias-tesfaye-abebe-a5042731/"
 layout: "researcher"
 hiddenInHomeList: true

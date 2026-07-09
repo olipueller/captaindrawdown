@@ -1,7 +1,7 @@
 ---
 title: "Xianjin He"
 description: "Xianjin He is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 82 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.147231
+date: 2026-07-10T01:07:47.236040
 url: "/cdr-researcher-census/researchers/xianjin-he-a5074904/"
 layout: "researcher"
 hiddenInHomeList: true

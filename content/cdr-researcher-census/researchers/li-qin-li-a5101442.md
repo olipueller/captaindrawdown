@@ -1,7 +1,7 @@
 ---
 title: "Li-Qin Li"
 description: "Li-Qin Li is a Senior Enhanced Weathering researcher at Xi'an University of Architecture and Technology in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.507142
+date: 2026-07-10T01:07:48.492393
 url: "/cdr-researcher-census/researchers/li-qin-li-a5101442/"
 layout: "researcher"
 hiddenInHomeList: true

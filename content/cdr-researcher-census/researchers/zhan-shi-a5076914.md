@@ -1,7 +1,7 @@
 ---
 title: "Zhan Shi"
 description: "Zhan Shi is a Mid-career Biochar researcher at University of Padua in IT. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.907564
+date: 2026-07-10T01:07:47.921239
 url: "/cdr-researcher-census/researchers/zhan-shi-a5076914/"
 layout: "researcher"
 hiddenInHomeList: true

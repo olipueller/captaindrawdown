@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Tang"
 description: "Xiaowei Tang is a Senior General CDR researcher at Affiliated Hospital of Southwest Medical University in CN. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.350731
+date: 2026-07-10T01:07:47.433072
 url: "/cdr-researcher-census/researchers/xiaowei-tang-a5104351/"
 layout: "researcher"
 hiddenInHomeList: true

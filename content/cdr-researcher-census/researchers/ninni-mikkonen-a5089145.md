@@ -1,7 +1,7 @@
 ---
 title: "Ninni Mikkonen"
 description: "Ninni Mikkonen is a Mid-career Unknown researcher at Finnish Environment Institute in FI. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.398563
+date: 2026-07-10T01:07:48.390642
 url: "/cdr-researcher-census/researchers/ninni-mikkonen-a5089145/"
 layout: "researcher"
 hiddenInHomeList: true

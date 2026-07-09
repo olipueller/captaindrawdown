@@ -1,7 +1,7 @@
 ---
 title: "Charlotte Vogt"
 description: "Charlotte Vogt is a Senior Ocean CDR researcher at Technion in IL. With 56 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.980109
+date: 2026-07-10T01:07:47.029365
 url: "/cdr-researcher-census/researchers/charlotte-vogt-a5080469/"
 layout: "researcher"
 hiddenInHomeList: true

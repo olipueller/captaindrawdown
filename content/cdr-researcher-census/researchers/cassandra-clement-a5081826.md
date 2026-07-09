@@ -1,7 +1,7 @@
 ---
 title: "Cassandra Clément"
 description: "Cassandra Clément is a Mid-career Unknown researcher at Centre National de la Recherche Scientifique in FR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.540010
+date: 2026-07-10T01:07:47.605216
 url: "/cdr-researcher-census/researchers/cassandra-clement-a5081826/"
 layout: "researcher"
 hiddenInHomeList: true

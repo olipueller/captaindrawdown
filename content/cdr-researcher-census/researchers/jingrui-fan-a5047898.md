@@ -1,7 +1,7 @@
 ---
 title: "Jingrui Fan"
 description: "Jingrui Fan is a Mid-career Unknown researcher at Shanghai Advanced Research Institute in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.122025
+date: 2026-07-10T01:07:48.145987
 url: "/cdr-researcher-census/researchers/jingrui-fan-a5047898/"
 layout: "researcher"
 hiddenInHomeList: true

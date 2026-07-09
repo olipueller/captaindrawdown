@@ -1,7 +1,7 @@
 ---
 title: "Simon Ngos"
 description: "Simon Ngos is a Senior Unknown researcher at Université de Yaoundé I in CM. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.947167
+date: 2026-07-10T01:07:47.959050
 url: "/cdr-researcher-census/researchers/simon-ngos-a5108649/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eric W. Ping"
 description: "Eric W. Ping is a Senior Unknown researcher at Brighton Hospital in US. With 17 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.245022
+date: 2026-07-10T01:07:47.330606
 url: "/cdr-researcher-census/researchers/eric-w-ping-a5047255/"
 layout: "researcher"
 hiddenInHomeList: true

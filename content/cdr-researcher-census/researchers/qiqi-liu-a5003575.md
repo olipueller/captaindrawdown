@@ -1,7 +1,7 @@
 ---
 title: "Qiqi Liu"
 description: "Qiqi Liu is a Mid-career Unknown researcher at Westlake University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.272600
+date: 2026-07-10T01:07:48.278333
 url: "/cdr-researcher-census/researchers/qiqi-liu-a5003575/"
 layout: "researcher"
 hiddenInHomeList: true

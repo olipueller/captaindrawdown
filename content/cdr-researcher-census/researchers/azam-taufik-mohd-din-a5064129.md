@@ -1,7 +1,7 @@
 ---
 title: "Azam Taufik Mohd Din"
 description: "Azam Taufik Mohd Din is a Senior Biochar researcher at Universiti Sains Malaysia in MY. With 60 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.981050
+date: 2026-07-10T01:07:47.030611
 url: "/cdr-researcher-census/researchers/azam-taufik-mohd-din-a5064129/"
 layout: "researcher"
 hiddenInHomeList: true

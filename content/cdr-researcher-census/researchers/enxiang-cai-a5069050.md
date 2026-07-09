@@ -1,7 +1,7 @@
 ---
 title: "Enxiang Cai"
 description: "Enxiang Cai is a Mid-career Soil Carbon researcher at Land Consolidation and Rehabilitation Center in CN. With 30 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.613942
+date: 2026-07-10T01:07:47.675184
 url: "/cdr-researcher-census/researchers/enxiang-cai-a5069050/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Matthias Jordan"
 description: "Matthias Jordan is a Senior General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.682339
+date: 2026-07-10T01:07:47.738752
 url: "/cdr-researcher-census/researchers/matthias-jordan-a5033535/"
 layout: "researcher"
 hiddenInHomeList: true

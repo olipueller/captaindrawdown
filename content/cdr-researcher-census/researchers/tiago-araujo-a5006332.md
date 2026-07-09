@@ -1,7 +1,7 @@
 ---
 title: "Tiago Araújo"
 description: "Tiago Araújo is a Mid-career Unknown researcher at Universidade do Porto in PT. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.556635
+date: 2026-07-10T01:07:47.620762
 url: "/cdr-researcher-census/researchers/tiago-araujo-a5006332/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Guoce Xu"
 description: "Guoce Xu is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.275253
+date: 2026-07-10T01:07:47.357921
 url: "/cdr-researcher-census/researchers/guoce-xu-a5100606/"
 layout: "researcher"
 hiddenInHomeList: true

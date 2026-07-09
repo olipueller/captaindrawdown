@@ -1,7 +1,7 @@
 ---
 title: "László Dávid"
 description: "László Dávid is a Senior Unknown researcher at Sapientia Hungarian University of Transylvania in RO. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.125144
+date: 2026-07-10T01:07:49.030487
 url: "/cdr-researcher-census/researchers/laszlo-david-a5112357/"
 layout: "researcher"
 hiddenInHomeList: true

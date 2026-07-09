@@ -1,7 +1,7 @@
 ---
 title: "Fernando Aramburu-Merlos"
 description: "Fernando Aramburu-Merlos is a Mid-career Unknown researcher at Insituto Nacional de Tecnologia Agropecuaria in AR. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.674658
+date: 2026-07-10T01:07:47.731343
 url: "/cdr-researcher-census/researchers/fernando-aramburu-merlos-a5054228/"
 layout: "researcher"
 hiddenInHomeList: true

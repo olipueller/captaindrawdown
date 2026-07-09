@@ -1,7 +1,7 @@
 ---
 title: "Srisuda Chaikitkaew"
 description: "Srisuda Chaikitkaew is a Mid-career Biochar researcher at Khon Kaen University in TH. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.881784
+date: 2026-07-10T01:07:48.809280
 url: "/cdr-researcher-census/researchers/srisuda-chaikitkaew-a5073123/"
 layout: "researcher"
 hiddenInHomeList: true

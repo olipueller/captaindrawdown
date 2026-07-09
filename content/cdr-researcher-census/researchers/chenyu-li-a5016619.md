@@ -1,7 +1,7 @@
 ---
 title: "Chenyu Li"
 description: "Chenyu Li is an Early-career Unknown researcher at Zhejiang Institute of Modern Textile Industry in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.764302
+date: 2026-07-10T01:07:48.709020
 url: "/cdr-researcher-census/researchers/chenyu-li-a5016619/"
 layout: "researcher"
 hiddenInHomeList: true

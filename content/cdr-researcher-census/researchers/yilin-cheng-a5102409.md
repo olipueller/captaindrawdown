@@ -1,7 +1,7 @@
 ---
 title: "Yilin Cheng"
 description: "Yilin Cheng is a Mid-career Ocean CDR researcher at Xiamen University in CN. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.369790
+date: 2026-07-10T01:07:48.366826
 url: "/cdr-researcher-census/researchers/yilin-cheng-a5102409/"
 layout: "researcher"
 hiddenInHomeList: true

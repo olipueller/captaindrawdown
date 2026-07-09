@@ -1,7 +1,7 @@
 ---
 title: "R.B. Burnett"
 description: "R.B. Burnett is a Senior Soil Carbon researcher at Rainbow Medical (Israel) in IL. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.774175
+date: 2026-07-10T01:07:48.718103
 url: "/cdr-researcher-census/researchers/rb-burnett-a5112555/"
 layout: "researcher"
 hiddenInHomeList: true

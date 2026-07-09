@@ -1,7 +1,7 @@
 ---
 title: "Akshata Pattanshetti"
 description: "Akshata Pattanshetti is a Mid-career General CDR researcher at Shivaji University in IN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.555664
+date: 2026-07-10T01:07:48.535826
 url: "/cdr-researcher-census/researchers/akshata-pattanshetti-a5089744/"
 layout: "researcher"
 hiddenInHomeList: true

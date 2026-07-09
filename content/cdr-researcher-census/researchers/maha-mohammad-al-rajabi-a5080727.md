@@ -1,7 +1,7 @@
 ---
 title: "Maha Mohammad AL-Rajabi"
 description: "Maha Mohammad AL-Rajabi is a Mid-career Biochar researcher at Al-Balqa Applied University in JO. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.732207
+date: 2026-07-10T01:07:47.784097
 url: "/cdr-researcher-census/researchers/maha-mohammad-al-rajabi-a5080727/"
 layout: "researcher"
 hiddenInHomeList: true

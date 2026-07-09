@@ -1,7 +1,7 @@
 ---
 title: "Md. Nasir Mia"
 description: "Md. Nasir Mia is a Mid-career Unknown researcher at Islamic University in BD. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.196029
+date: 2026-07-10T01:07:49.109235
 url: "/cdr-researcher-census/researchers/md-nasir-mia-a5095066/"
 layout: "researcher"
 hiddenInHomeList: true

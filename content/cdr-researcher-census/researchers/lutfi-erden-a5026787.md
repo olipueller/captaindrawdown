@@ -1,7 +1,7 @@
 ---
 title: "Lütfi Erden"
 description: "Lütfi Erden is a Mid-career Biochar researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.877373
+date: 2026-07-10T01:07:48.804821
 url: "/cdr-researcher-census/researchers/lutfi-erden-a5026787/"
 layout: "researcher"
 hiddenInHomeList: true

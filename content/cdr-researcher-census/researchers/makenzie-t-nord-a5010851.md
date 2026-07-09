@@ -1,7 +1,7 @@
 ---
 title: "Makenzie T. Nord"
 description: "Makenzie T. Nord is a Mid-career Unknown researcher at Oregon State University in US. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.790312
+date: 2026-07-10T01:07:47.839078
 url: "/cdr-researcher-census/researchers/makenzie-t-nord-a5010851/"
 layout: "researcher"
 hiddenInHomeList: true

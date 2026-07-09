@@ -1,7 +1,7 @@
 ---
 title: "Christof Kluß"
 description: "Christof Kluß is a Senior Soil Carbon researcher at Kiel Institute for the World Economy in DE. With 76 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.195543
+date: 2026-07-10T01:07:47.284467
 url: "/cdr-researcher-census/researchers/christof-klu-a5028857/"
 layout: "researcher"
 hiddenInHomeList: true

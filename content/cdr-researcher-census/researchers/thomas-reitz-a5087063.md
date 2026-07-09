@@ -1,7 +1,7 @@
 ---
 title: "Thomas Reitz"
 description: "Thomas Reitz is a Senior Soil Carbon researcher at Martin Luther University Halle-Wittenberg in DE. With 172 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.961405
+date: 2026-07-10T01:07:46.999622
 url: "/cdr-researcher-census/researchers/thomas-reitz-a5087063/"
 layout: "researcher"
 hiddenInHomeList: true

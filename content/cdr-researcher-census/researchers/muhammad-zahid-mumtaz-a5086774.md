@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Zahid Mumtaz"
 description: "Muhammad Zahid Mumtaz is a Senior Soil Carbon researcher at University of Lahore in PK. With 67 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.057549
+date: 2026-07-10T01:07:47.133431
 url: "/cdr-researcher-census/researchers/muhammad-zahid-mumtaz-a5086774/"
 layout: "researcher"
 hiddenInHomeList: true

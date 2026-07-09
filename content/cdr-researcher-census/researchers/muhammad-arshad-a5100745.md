@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Arshad"
 description: "Muhammad Arshad is a Mid-career General CDR researcher at Islamia University of Bahawalpur in PK. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.451951
+date: 2026-07-10T01:07:47.527484
 url: "/cdr-researcher-census/researchers/muhammad-arshad-a5100745/"
 layout: "researcher"
 hiddenInHomeList: true

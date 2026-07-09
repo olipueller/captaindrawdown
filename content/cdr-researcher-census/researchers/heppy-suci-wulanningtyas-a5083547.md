@@ -1,7 +1,7 @@
 ---
 title: "Heppy Suci Wulanningtyas"
 description: "Heppy Suci Wulanningtyas is a Mid-career Soil Carbon researcher at Center for Plant Conservation in US. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.315231
+date: 2026-07-10T01:07:48.317099
 url: "/cdr-researcher-census/researchers/heppy-suci-wulanningtyas-a5083547/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Claudia Hinrichs"
 description: "Claudia Hinrichs is a Senior Ocean CDR researcher at Federal Maritime and Hydrographic Agency of Germany in DE. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.596082
+date: 2026-07-10T01:07:47.659249
 url: "/cdr-researcher-census/researchers/claudia-hinrichs-a5048504/"
 layout: "researcher"
 hiddenInHomeList: true

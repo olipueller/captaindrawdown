@@ -1,7 +1,7 @@
 ---
 title: "Vinícius José Ribeiro"
 description: "Vinícius José Ribeiro is a Mid-career Unknown researcher at Universidade Federal de Viçosa in BR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.738688
+date: 2026-07-10T01:07:47.791029
 url: "/cdr-researcher-census/researchers/vinicius-jose-ribeiro-a5080044/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lianhai Cao"
 description: "Lianhai Cao is a Senior Soil Carbon researcher at North China University of Water Resources and Electric Power in CN. With 54 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.526354
+date: 2026-07-10T01:07:47.592776
 url: "/cdr-researcher-census/researchers/lianhai-cao-a5112121/"
 layout: "researcher"
 hiddenInHomeList: true

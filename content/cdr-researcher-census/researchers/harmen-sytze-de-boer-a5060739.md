@@ -1,7 +1,7 @@
 ---
 title: "Harmen Sytze de Boer"
 description: "Harmen Sytze de Boer is a Senior General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 68 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.933129
+date: 2026-07-10T01:07:46.952319
 url: "/cdr-researcher-census/researchers/harmen-sytze-de-boer-a5060739/"
 layout: "researcher"
 hiddenInHomeList: true

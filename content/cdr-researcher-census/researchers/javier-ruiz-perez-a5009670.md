@@ -1,7 +1,7 @@
 ---
 title: "Javier Ruiz-Pérez"
 description: "Javier Ruiz-Pérez is a Senior Unknown researcher at Universitat Pompeu Fabra in ES. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.710600
+date: 2026-07-10T01:07:47.764973
 url: "/cdr-researcher-census/researchers/javier-ruiz-perez-a5009670/"
 layout: "researcher"
 hiddenInHomeList: true

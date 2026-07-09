@@ -1,7 +1,7 @@
 ---
 title: "Khadija El-Moustaqim"
 description: "Khadija El-Moustaqim is a Mid-career Ocean CDR researcher at Université Ibn-Tofail in MA. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.415421
+date: 2026-07-10T01:07:48.406263
 url: "/cdr-researcher-census/researchers/khadija-el-moustaqim-a5044747/"
 layout: "researcher"
 hiddenInHomeList: true

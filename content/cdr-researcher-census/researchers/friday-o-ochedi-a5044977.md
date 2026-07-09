@@ -1,7 +1,7 @@
 ---
 title: "Friday O. Ochedi"
 description: "Friday O. Ochedi is a Mid-career Unknown researcher at Heriot-Watt University in GB. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.294373
+date: 2026-07-10T01:07:47.376611
 url: "/cdr-researcher-census/researchers/friday-o-ochedi-a5044977/"
 layout: "researcher"
 hiddenInHomeList: true

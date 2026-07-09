@@ -1,7 +1,7 @@
 ---
 title: "Steve Mara"
 description: "Steve Mara is a Senior Unknown researcher at California Air Resources Board in US. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.383265
+date: 2026-07-10T01:07:47.464762
 url: "/cdr-researcher-census/researchers/steve-mara-a5041825/"
 layout: "researcher"
 hiddenInHomeList: true

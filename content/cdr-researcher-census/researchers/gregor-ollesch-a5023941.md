@@ -1,7 +1,7 @@
 ---
 title: "Gregor Ollesch"
 description: "Gregor Ollesch is a Senior Ocean CDR researcher at Forschungsgemeinschaft Werkzeuge und Werkstoffe in DE. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.510871
+date: 2026-07-10T01:07:47.579399
 url: "/cdr-researcher-census/researchers/gregor-ollesch-a5023941/"
 layout: "researcher"
 hiddenInHomeList: true

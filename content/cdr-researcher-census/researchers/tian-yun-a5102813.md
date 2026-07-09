@@ -1,7 +1,7 @@
 ---
 title: "Tian Yun"
 description: "Tian Yun is a Senior Unknown researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.402084
+date: 2026-07-10T01:07:48.393762
 url: "/cdr-researcher-census/researchers/tian-yun-a5102813/"
 layout: "researcher"
 hiddenInHomeList: true

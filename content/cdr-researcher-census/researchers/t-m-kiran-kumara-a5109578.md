@@ -1,7 +1,7 @@
 ---
 title: "T. M. Kiran Kumara"
 description: "T. M. Kiran Kumara is a Mid-career Unknown researcher. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.874975
+date: 2026-07-10T01:07:48.802716
 url: "/cdr-researcher-census/researchers/t-m-kiran-kumara-a5109578/"
 layout: "researcher"
 hiddenInHomeList: true

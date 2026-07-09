@@ -1,7 +1,7 @@
 ---
 title: "Julien Guigue"
 description: "Julien Guigue is a Mid-career Soil Carbon researcher at Technical University Munich in DE. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.196964
+date: 2026-07-10T01:07:47.286014
 url: "/cdr-researcher-census/researchers/julien-guigue-a5078487/"
 layout: "researcher"
 hiddenInHomeList: true

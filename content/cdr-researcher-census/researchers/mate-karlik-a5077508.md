@@ -1,7 +1,7 @@
 ---
 title: "Máté Karlik"
 description: "Máté Karlik is a Mid-career Soil Carbon researcher at Institute for Geological and Geochemical Research in HU. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.707561
+date: 2026-07-10T01:07:48.659652
 url: "/cdr-researcher-census/researchers/mate-karlik-a5077508/"
 layout: "researcher"
 hiddenInHomeList: true

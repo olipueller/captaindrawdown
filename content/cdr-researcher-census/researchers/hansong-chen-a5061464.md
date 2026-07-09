@@ -1,7 +1,7 @@
 ---
 title: "Hansong Chen"
 description: "Hansong Chen is a Senior Soil Carbon researcher at Center for Drug Evaluation and Research in US. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.120237
+date: 2026-07-10T01:07:47.207006
 url: "/cdr-researcher-census/researchers/hansong-chen-a5061464/"
 layout: "researcher"
 hiddenInHomeList: true

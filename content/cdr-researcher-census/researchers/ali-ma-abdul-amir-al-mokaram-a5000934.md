@@ -1,7 +1,7 @@
 ---
 title: "Ali M.A. Abdul Amir AL-Mokaram"
 description: "Ali M.A. Abdul Amir AL-Mokaram is a Senior Unknown researcher at Mustansiriyah University in IQ. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.914725
+date: 2026-07-10T01:07:47.927968
 url: "/cdr-researcher-census/researchers/ali-ma-abdul-amir-al-mokaram-a5000934/"
 layout: "researcher"
 hiddenInHomeList: true

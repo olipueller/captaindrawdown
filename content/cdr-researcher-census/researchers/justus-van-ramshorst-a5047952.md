@@ -1,7 +1,7 @@
 ---
 title: "Justus van Ramshorst"
 description: "Justus van Ramshorst is a Mid-career Soil Carbon researcher at University of Exeter in GB. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.392862
+date: 2026-07-10T01:07:48.385617
 url: "/cdr-researcher-census/researchers/justus-van-ramshorst-a5047952/"
 layout: "researcher"
 hiddenInHomeList: true

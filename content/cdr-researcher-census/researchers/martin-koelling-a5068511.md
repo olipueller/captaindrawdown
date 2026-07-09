@@ -1,7 +1,7 @@
 ---
 title: "Martin Koelling"
 description: "Martin Koelling is a Senior Ocean CDR researcher at University of Bremen in DE. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.929983
+date: 2026-07-10T01:07:48.853473
 url: "/cdr-researcher-census/researchers/martin-koelling-a5068511/"
 layout: "researcher"
 hiddenInHomeList: true

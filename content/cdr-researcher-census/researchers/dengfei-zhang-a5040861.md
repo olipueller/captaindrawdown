@@ -1,7 +1,7 @@
 ---
 title: "Dengfei Zhang"
 description: "Dengfei Zhang is a Mid-career Unknown researcher at Chang'an University in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.794378
+date: 2026-07-10T01:07:47.842646
 url: "/cdr-researcher-census/researchers/dengfei-zhang-a5040861/"
 layout: "researcher"
 hiddenInHomeList: true

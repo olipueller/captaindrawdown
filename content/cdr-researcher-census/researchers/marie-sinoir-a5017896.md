@@ -1,7 +1,7 @@
 ---
 title: "Marie Sinoir"
 description: "Marie Sinoir is a Mid-career Unknown researcher at CSIRO Oceans and Atmosphere in AU. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.688345
+date: 2026-07-10T01:07:48.642443
 url: "/cdr-researcher-census/researchers/marie-sinoir-a5017896/"
 layout: "researcher"
 hiddenInHomeList: true

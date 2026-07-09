@@ -1,7 +1,7 @@
 ---
 title: "Tihamér Tibor Sebestyén"
 description: "Tihamér Tibor Sebestyén is a Mid-career Biochar researcher at Sapientia Hungarian University of Transylvania in RO. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.052973
+date: 2026-07-10T01:07:48.057794
 url: "/cdr-researcher-census/researchers/tihamer-tibor-sebestyen-a5020831/"
 layout: "researcher"
 hiddenInHomeList: true

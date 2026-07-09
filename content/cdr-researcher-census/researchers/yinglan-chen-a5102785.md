@@ -1,7 +1,7 @@
 ---
 title: "Yinglan Chen"
 description: "Yinglan Chen is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.019511
+date: 2026-07-10T01:07:48.027249
 url: "/cdr-researcher-census/researchers/yinglan-chen-a5102785/"
 layout: "researcher"
 hiddenInHomeList: true

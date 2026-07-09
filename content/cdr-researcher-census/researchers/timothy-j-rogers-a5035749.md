@@ -1,7 +1,7 @@
 ---
 title: "Timothy J. Rogers"
 description: "Timothy J. Rogers is a Mid-career Ocean CDR researcher at University of North Carolina at Charlotte in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.302577
+date: 2026-07-10T01:07:48.305325
 url: "/cdr-researcher-census/researchers/timothy-j-rogers-a5035749/"
 layout: "researcher"
 hiddenInHomeList: true

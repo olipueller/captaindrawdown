@@ -1,7 +1,7 @@
 ---
 title: "Taina Tervahauta"
 description: "Taina Tervahauta is a Mid-career Unknown researcher at University of Calgary in CA. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.767034
+date: 2026-07-10T01:07:47.817348
 url: "/cdr-researcher-census/researchers/taina-tervahauta-a5055169/"
 layout: "researcher"
 hiddenInHomeList: true

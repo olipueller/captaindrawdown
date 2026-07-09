@@ -1,7 +1,7 @@
 ---
 title: "Stratis Markou"
 description: "Stratis Markou is a Mid-career Unknown researcher. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.805836
+date: 2026-07-10T01:07:48.744323
 url: "/cdr-researcher-census/researchers/stratis-markou-a5034631/"
 layout: "researcher"
 hiddenInHomeList: true

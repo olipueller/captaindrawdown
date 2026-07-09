@@ -1,7 +1,7 @@
 ---
 title: "Ouafa El Hammoumi"
 description: "Ouafa El Hammoumi is a Mid-career Unknown researcher at University of Hassan II Casablanca in MA. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.335945
+date: 2026-07-10T01:07:48.336151
 url: "/cdr-researcher-census/researchers/ouafa-el-hammoumi-a5077791/"
 layout: "researcher"
 hiddenInHomeList: true

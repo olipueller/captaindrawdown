@@ -1,7 +1,7 @@
 ---
 title: "Suci Madhania"
 description: "Suci Madhania is a Mid-career Unknown researcher at Sepuluh Nopember Institute of Technology in ID. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.562485
+date: 2026-07-10T01:07:48.541981
 url: "/cdr-researcher-census/researchers/suci-madhania-a5043274/"
 layout: "researcher"
 hiddenInHomeList: true

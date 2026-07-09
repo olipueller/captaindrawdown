@@ -1,7 +1,7 @@
 ---
 title: "Sara Oulbi"
 description: "Sara Oulbi is a Mid-career Biochar researcher at National School of Architecture in MA. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.928588
+date: 2026-07-10T01:07:48.852103
 url: "/cdr-researcher-census/researchers/sara-oulbi-a5004408/"
 layout: "researcher"
 hiddenInHomeList: true

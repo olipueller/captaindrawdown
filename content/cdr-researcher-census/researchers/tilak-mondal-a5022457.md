@@ -1,7 +1,7 @@
 ---
 title: "Tilak Mondal"
 description: "Tilak Mondal is a Mid-career Soil Carbon researcher at National Institute of Research on Jute and Allied Fibre Technology in IN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.735269
+date: 2026-07-10T01:07:47.787374
 url: "/cdr-researcher-census/researchers/tilak-mondal-a5022457/"
 layout: "researcher"
 hiddenInHomeList: true

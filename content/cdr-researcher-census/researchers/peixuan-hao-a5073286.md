@@ -1,7 +1,7 @@
 ---
 title: "Peixuan Hao"
 description: "Peixuan Hao is a Mid-career Unknown researcher at Tsinghua University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.490353
+date: 2026-07-10T01:07:48.476412
 url: "/cdr-researcher-census/researchers/peixuan-hao-a5073286/"
 layout: "researcher"
 hiddenInHomeList: true

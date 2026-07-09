@@ -1,7 +1,7 @@
 ---
 title: "V. V. Startsev"
 description: "V. V. Startsev is a Mid-career Soil Carbon researcher at Institute of Biology of Komi Scientific Centre in RU. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.935401
+date: 2026-07-10T01:07:47.948115
 url: "/cdr-researcher-census/researchers/v-v-startsev-a5084444/"
 layout: "researcher"
 hiddenInHomeList: true

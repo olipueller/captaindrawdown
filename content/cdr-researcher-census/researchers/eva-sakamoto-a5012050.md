@@ -1,7 +1,7 @@
 ---
 title: "Eva Sakamoto"
 description: "Eva Sakamoto is an Early-career Soil Carbon researcher at Technical University of Munich in DE. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.612856
+date: 2026-07-10T01:07:48.574225
 url: "/cdr-researcher-census/researchers/eva-sakamoto-a5012050/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ziliang Zhang"
 description: "Ziliang Zhang is a Senior Soil Carbon researcher at Ningbo University in CN. With 115 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.062480
+date: 2026-07-10T01:07:47.139309
 url: "/cdr-researcher-census/researchers/ziliang-zhang-a5077160/"
 layout: "researcher"
 hiddenInHomeList: true

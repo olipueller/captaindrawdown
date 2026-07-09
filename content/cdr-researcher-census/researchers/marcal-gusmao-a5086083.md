@@ -1,7 +1,7 @@
 ---
 title: "Marçal Gusmão"
 description: "Marçal Gusmão is a Mid-career Soil Carbon researcher at National University of East Timor in TL. With 22 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.918376
+date: 2026-07-10T01:07:48.842430
 url: "/cdr-researcher-census/researchers/marcal-gusmao-a5086083/"
 layout: "researcher"
 hiddenInHomeList: true

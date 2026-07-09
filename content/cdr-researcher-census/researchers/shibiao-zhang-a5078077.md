@@ -1,7 +1,7 @@
 ---
 title: "Shibiao Zhang"
 description: "Shibiao Zhang is a Senior Biochar researcher at Huazhong University of Science and Technology in CN. With 23 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.547351
+date: 2026-07-10T01:07:47.611794
 url: "/cdr-researcher-census/researchers/shibiao-zhang-a5078077/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Driss Touhami"
 description: "Driss Touhami is a Mid-career Soil Carbon researcher at Lincoln University in NZ. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.451898
+date: 2026-07-10T01:07:48.440657
 url: "/cdr-researcher-census/researchers/driss-touhami-a5013771/"
 layout: "researcher"
 hiddenInHomeList: true

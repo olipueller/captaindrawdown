@@ -1,7 +1,7 @@
 ---
 title: "Nunzio Luciano Fazio"
 description: "Nunzio Luciano Fazio is a Mid-career Unknown researcher at Research Institute for Geo-Hydrological Protection in IT. With 20 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.455669
+date: 2026-07-10T01:07:48.444241
 url: "/cdr-researcher-census/researchers/nunzio-luciano-fazio-a5112673/"
 layout: "researcher"
 hiddenInHomeList: true

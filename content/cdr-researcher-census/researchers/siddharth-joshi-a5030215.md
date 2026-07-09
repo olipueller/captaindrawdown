@@ -1,7 +1,7 @@
 ---
 title: "Siddharth Joshi"
 description: "Siddharth Joshi is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.748576
+date: 2026-07-10T01:07:47.800160
 url: "/cdr-researcher-census/researchers/siddharth-joshi-a5030215/"
 layout: "researcher"
 hiddenInHomeList: true

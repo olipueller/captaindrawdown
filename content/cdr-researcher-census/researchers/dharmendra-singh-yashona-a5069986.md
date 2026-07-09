@@ -1,7 +1,7 @@
 ---
 title: "Dharmendra Singh Yashona"
 description: "Dharmendra Singh Yashona is a Mid-career Unknown researcher at Indian Institute of Soil Science in IN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.426022
+date: 2026-07-10T01:07:48.416275
 url: "/cdr-researcher-census/researchers/dharmendra-singh-yashona-a5069986/"
 layout: "researcher"
 hiddenInHomeList: true

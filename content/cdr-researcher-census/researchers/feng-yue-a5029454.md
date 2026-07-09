@@ -1,7 +1,7 @@
 ---
 title: "Feng Yue"
 description: "Feng Yue is a Mid-career Unknown researcher at Zhengzhou University of Light Industry in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.281651
+date: 2026-07-10T01:07:48.287174
 url: "/cdr-researcher-census/researchers/feng-yue-a5029454/"
 layout: "researcher"
 hiddenInHomeList: true

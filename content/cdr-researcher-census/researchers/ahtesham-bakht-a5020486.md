@@ -1,7 +1,7 @@
 ---
 title: "Ahtesham Bakht"
 description: "Ahtesham Bakht is a Mid-career Unknown researcher at University of South Florida in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.000054
+date: 2026-07-10T01:07:48.918125
 url: "/cdr-researcher-census/researchers/ahtesham-bakht-a5020486/"
 layout: "researcher"
 hiddenInHomeList: true

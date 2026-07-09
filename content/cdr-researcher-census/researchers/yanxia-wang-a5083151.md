@@ -1,7 +1,7 @@
 ---
 title: "Yanxia Wang"
 description: "Yanxia Wang is a Mid-career Unknown researcher at North University of China in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.354281
+date: 2026-07-10T01:07:48.352599
 url: "/cdr-researcher-census/researchers/yanxia-wang-a5083151/"
 layout: "researcher"
 hiddenInHomeList: true

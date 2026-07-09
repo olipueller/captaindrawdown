@@ -1,7 +1,7 @@
 ---
 title: "Jianwei Li"
 description: "Jianwei Li is a Senior Soil Carbon researcher at Wuhan University in CN. With 47 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.042684
+date: 2026-07-10T01:07:47.115772
 url: "/cdr-researcher-census/researchers/jianwei-li-a5100410/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emil Tveden Bjerglund"
 description: "Emil Tveden Bjerglund is a Mid-career Unknown researcher at Aarhus University in DK. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.513577
+date: 2026-07-10T01:07:47.581872
 url: "/cdr-researcher-census/researchers/emil-tveden-bjerglund-a5069409/"
 layout: "researcher"
 hiddenInHomeList: true

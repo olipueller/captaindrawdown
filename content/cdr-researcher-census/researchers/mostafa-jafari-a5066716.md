@@ -1,7 +1,7 @@
 ---
 title: "Mostafa Jafari"
 description: "Mostafa Jafari is a Senior Soil Carbon researcher at University of Tehran in IR. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.202266
+date: 2026-07-10T01:07:47.290840
 url: "/cdr-researcher-census/researchers/mostafa-jafari-a5066716/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Santanu Roy"
 description: "Santanu Roy is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 83 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.067300
+date: 2026-07-10T01:07:47.145011
 url: "/cdr-researcher-census/researchers/santanu-roy-a5010231/"
 layout: "researcher"
 hiddenInHomeList: true

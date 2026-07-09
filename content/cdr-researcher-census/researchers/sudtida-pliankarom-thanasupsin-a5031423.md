@@ -1,7 +1,7 @@
 ---
 title: "Sudtida Pliankarom Thanasupsin"
 description: "Sudtida Pliankarom Thanasupsin is a Mid-career Unknown researcher at King Mongkut's University of Technology Thonburi in TH. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.085412
+date: 2026-07-10T01:07:48.995557
 url: "/cdr-researcher-census/researchers/sudtida-pliankarom-thanasupsin-a5031423/"
 layout: "researcher"
 hiddenInHomeList: true

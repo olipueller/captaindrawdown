@@ -1,7 +1,7 @@
 ---
 title: "Sameer Osman"
 description: "Sameer Osman is a Mid-career Unknown researcher at Khalifa University of Science and Technology in AE. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.300667
+date: 2026-07-10T01:07:48.303415
 url: "/cdr-researcher-census/researchers/sameer-osman-a5033512/"
 layout: "researcher"
 hiddenInHomeList: true

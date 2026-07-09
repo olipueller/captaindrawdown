@@ -1,7 +1,7 @@
 ---
 title: "Zhenghao Liang"
 description: "Zhenghao Liang is a Mid-career Soil Carbon researcher at Southwest University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.299757
+date: 2026-07-10T01:07:48.302598
 url: "/cdr-researcher-census/researchers/zhenghao-liang-a5055249/"
 layout: "researcher"
 hiddenInHomeList: true

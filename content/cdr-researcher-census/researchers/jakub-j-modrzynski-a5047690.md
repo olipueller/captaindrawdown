@@ -1,7 +1,7 @@
 ---
 title: "Jakub J. Modrzyński"
 description: "Jakub J. Modrzyński is a Senior Unknown researcher at Geological Survey of Denmark and Greenland in DK. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.021264
+date: 2026-07-10T01:07:48.029056
 url: "/cdr-researcher-census/researchers/jakub-j-modrzynski-a5047690/"
 layout: "researcher"
 hiddenInHomeList: true

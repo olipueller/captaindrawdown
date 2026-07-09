@@ -1,7 +1,7 @@
 ---
 title: "Nataliya Kashchak"
 description: "Nataliya Kashchak is a Senior General CDR researcher at Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv in UA. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.650777
+date: 2026-07-10T01:07:48.609196
 url: "/cdr-researcher-census/researchers/nataliya-kashchak-a5061099/"
 layout: "researcher"
 hiddenInHomeList: true

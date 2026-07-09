@@ -1,7 +1,7 @@
 ---
 title: "Jack Taylor"
 description: "Jack Taylor is a Senior Unknown researcher at Rensselaer Polytechnic Institute in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.886534
+date: 2026-07-10T01:07:47.901531
 url: "/cdr-researcher-census/researchers/jack-taylor-a5101563/"
 layout: "researcher"
 hiddenInHomeList: true

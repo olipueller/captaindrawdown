@@ -1,7 +1,7 @@
 ---
 title: "Sabine J. Seidel"
 description: "Sabine J. Seidel is a Senior Soil Carbon researcher at BOKU University in AT. With 112 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.023302
+date: 2026-07-10T01:07:47.090687
 url: "/cdr-researcher-census/researchers/sabine-j-seidel-a5082218/"
 layout: "researcher"
 hiddenInHomeList: true

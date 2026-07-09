@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Le Moullec"
 description: "Mathilde Le Moullec is a Mid-career Soil Carbon researcher at Norwegian University of Science and Technology in NO. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.750223
+date: 2026-07-10T01:07:47.801627
 url: "/cdr-researcher-census/researchers/mathilde-le-moullec-a5060949/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Liangshan Hao"
 description: "Liangshan Hao is a Mid-career Biochar researcher at Hohai University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.611200
+date: 2026-07-10T01:07:48.572870
 url: "/cdr-researcher-census/researchers/liangshan-hao-a5079026/"
 layout: "researcher"
 hiddenInHomeList: true

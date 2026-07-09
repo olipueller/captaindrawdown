@@ -1,7 +1,7 @@
 ---
 title: "Robert Tatum"
 description: "Robert Tatum is a Mid-career General CDR researcher at University of Vermont in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.596305
+date: 2026-07-10T01:07:48.560366
 url: "/cdr-researcher-census/researchers/robert-tatum-a5069633/"
 layout: "researcher"
 hiddenInHomeList: true

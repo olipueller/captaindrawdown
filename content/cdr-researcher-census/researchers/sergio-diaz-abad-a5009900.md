@@ -1,7 +1,7 @@
 ---
 title: "Sergio Díaz-Abad"
 description: "Sergio Díaz-Abad is a Mid-career General CDR researcher at Los Alamos National Laboratory in US. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.997738
+date: 2026-07-10T01:07:48.007009
 url: "/cdr-researcher-census/researchers/sergio-diaz-abad-a5009900/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dibyajyoti Panda"
 description: "Dibyajyoti Panda is a Mid-career Soil Carbon researcher at Indian Institute of Technology BHU in IN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.165178
+date: 2026-07-10T01:07:49.055836
 url: "/cdr-researcher-census/researchers/dibyajyoti-panda-a5111224/"
 layout: "researcher"
 hiddenInHomeList: true

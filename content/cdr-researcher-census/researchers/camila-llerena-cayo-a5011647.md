@@ -1,7 +1,7 @@
 ---
 title: "Camila Llerena-Cayo"
 description: "Camila Llerena-Cayo is an Early-career General CDR researcher at Universidad Peruana Cayetano Heredia in PE. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.049244
+date: 2026-07-10T01:07:48.962750
 url: "/cdr-researcher-census/researchers/camila-llerena-cayo-a5011647/"
 layout: "researcher"
 hiddenInHomeList: true

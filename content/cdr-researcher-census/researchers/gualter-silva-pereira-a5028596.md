@@ -1,7 +1,7 @@
 ---
 title: "Gualter Silva Pereira"
 description: "Gualter Silva Pereira is a Mid-career Unknown researcher at Institute of Physics in PL. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.432012
+date: 2026-07-10T01:07:48.422273
 url: "/cdr-researcher-census/researchers/gualter-silva-pereira-a5028596/"
 layout: "researcher"
 hiddenInHomeList: true

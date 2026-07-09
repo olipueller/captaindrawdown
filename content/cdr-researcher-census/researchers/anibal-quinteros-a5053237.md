@@ -1,7 +1,7 @@
 ---
 title: "Aníbal Quinteros"
 description: "Aníbal Quinteros is a Senior Unknown researcher at Universidad Nacional de San Martin Tarapoto in PE. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.253641
+date: 2026-07-10T01:07:49.160647
 url: "/cdr-researcher-census/researchers/anibal-quinteros-a5053237/"
 layout: "researcher"
 hiddenInHomeList: true

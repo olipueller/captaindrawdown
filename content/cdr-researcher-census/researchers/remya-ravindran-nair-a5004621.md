@@ -1,7 +1,7 @@
 ---
 title: "Remya Ravindran Nair"
 description: "Remya Ravindran Nair is a Mid-career Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.177466
+date: 2026-07-10T01:07:48.193703
 url: "/cdr-researcher-census/researchers/remya-ravindran-nair-a5004621/"
 layout: "researcher"
 hiddenInHomeList: true

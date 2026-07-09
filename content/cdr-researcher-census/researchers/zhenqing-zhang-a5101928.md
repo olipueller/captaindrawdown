@@ -1,7 +1,7 @@
 ---
 title: "Zhenqing Zhang"
 description: "Zhenqing Zhang is a Senior Soil Carbon researcher at UK Coal in GB. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.082831
+date: 2026-07-10T01:07:47.163889
 url: "/cdr-researcher-census/researchers/zhenqing-zhang-a5101928/"
 layout: "researcher"
 hiddenInHomeList: true

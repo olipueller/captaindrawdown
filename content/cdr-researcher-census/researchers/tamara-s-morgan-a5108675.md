@@ -1,7 +1,7 @@
 ---
 title: "Tamara S. Morgan"
 description: "Tamara S. Morgan is a Senior Soil Carbon researcher at La Trobe University in AU. With 36 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.093413
+date: 2026-07-10T01:07:47.176343
 url: "/cdr-researcher-census/researchers/tamara-s-morgan-a5108675/"
 layout: "researcher"
 hiddenInHomeList: true

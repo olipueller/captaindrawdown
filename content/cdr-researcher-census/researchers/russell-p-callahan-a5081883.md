@@ -1,7 +1,7 @@
 ---
 title: "Russell P. Callahan"
 description: "Russell P. Callahan is a Mid-career Unknown researcher at University of Connecticut in US. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.067673
+date: 2026-07-10T01:07:48.070328
 url: "/cdr-researcher-census/researchers/russell-p-callahan-a5081883/"
 layout: "researcher"
 hiddenInHomeList: true

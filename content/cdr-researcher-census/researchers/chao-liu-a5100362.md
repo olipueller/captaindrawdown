@@ -1,7 +1,7 @@
 ---
 title: "Chao Liu"
 description: "Chao Liu is a Mid-career Unknown researcher at Hainan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.232822
+date: 2026-07-10T01:07:48.242654
 url: "/cdr-researcher-census/researchers/chao-liu-a5100362/"
 layout: "researcher"
 hiddenInHomeList: true

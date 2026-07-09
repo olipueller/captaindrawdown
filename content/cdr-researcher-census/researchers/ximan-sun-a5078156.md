@@ -1,7 +1,7 @@
 ---
 title: "Ximan Sun"
 description: "Ximan Sun is an Early-career Unknown researcher at Hohai University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.740087
+date: 2026-07-10T01:07:48.687479
 url: "/cdr-researcher-census/researchers/ximan-sun-a5078156/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marwan Sendi"
 description: "Marwan Sendi is an Early-career General CDR researcher at Saudi Aramco (Saudi Arabia) in SA. With 6 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.112403
+date: 2026-07-10T01:07:49.019139
 url: "/cdr-researcher-census/researchers/marwan-sendi-a5049715/"
 layout: "researcher"
 hiddenInHomeList: true

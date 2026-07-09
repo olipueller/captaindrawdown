@@ -1,7 +1,7 @@
 ---
 title: "Mariam Khanam"
 description: "Mariam Khanam is a Senior Unknown researcher at Gazipur Agricultural University in BD. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.952081
+date: 2026-07-10T01:07:48.873923
 url: "/cdr-researcher-census/researchers/mariam-khanam-a5061954/"
 layout: "researcher"
 hiddenInHomeList: true

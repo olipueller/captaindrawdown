@@ -1,7 +1,7 @@
 ---
 title: "Carlo Colangeli"
 description: "Carlo Colangeli is a Senior Unknown researcher at University of Chieti-Pescara in IT. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.762318
+date: 2026-07-10T01:07:47.812986
 url: "/cdr-researcher-census/researchers/carlo-colangeli-a5058028/"
 layout: "researcher"
 hiddenInHomeList: true

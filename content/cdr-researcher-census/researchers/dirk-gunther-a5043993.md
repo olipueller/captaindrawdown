@@ -1,7 +1,7 @@
 ---
 title: "Dirk Günther"
 description: "Dirk Günther is a Senior General CDR researcher at German Environment Agency in DE. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.297455
+date: 2026-07-10T01:07:47.380098
 url: "/cdr-researcher-census/researchers/dirk-gunther-a5043993/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chukwudi Nwaogu"
 description: "Chukwudi Nwaogu is a Senior Soil Carbon researcher at The University of Sydney in AU. With 73 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.781158
+date: 2026-07-10T01:07:47.829814
 url: "/cdr-researcher-census/researchers/chukwudi-nwaogu-a5065866/"
 layout: "researcher"
 hiddenInHomeList: true

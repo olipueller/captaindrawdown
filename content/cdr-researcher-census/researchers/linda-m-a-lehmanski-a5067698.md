@@ -1,7 +1,7 @@
 ---
 title: "Linda M. A. Lehmanski"
 description: "Linda M. A. Lehmanski is an Early-career Unknown researcher at Max Planck Institute for Biogeochemistry in DE. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.196887
+date: 2026-07-10T01:07:49.110168
 url: "/cdr-researcher-census/researchers/linda-m-a-lehmanski-a5067698/"
 layout: "researcher"
 hiddenInHomeList: true

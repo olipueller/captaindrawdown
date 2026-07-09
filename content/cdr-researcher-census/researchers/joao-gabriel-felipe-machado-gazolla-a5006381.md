@@ -1,7 +1,7 @@
 ---
 title: "João Gabriel Felipe Machado Gazolla"
 description: "João Gabriel Felipe Machado Gazolla is a Mid-career Unknown researcher at Lawrence Berkeley National Laboratory in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.345419
+date: 2026-07-10T01:07:48.344413
 url: "/cdr-researcher-census/researchers/joao-gabriel-felipe-machado-gazolla-a5006381/"
 layout: "researcher"
 hiddenInHomeList: true

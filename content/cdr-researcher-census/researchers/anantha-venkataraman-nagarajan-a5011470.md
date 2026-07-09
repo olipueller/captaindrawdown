@@ -1,7 +1,7 @@
 ---
 title: "Anantha Venkataraman Nagarajan"
 description: "Anantha Venkataraman Nagarajan is a Mid-career Unknown researcher at Lam Research (United States) in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.393938
+date: 2026-07-10T01:07:47.475002
 url: "/cdr-researcher-census/researchers/anantha-venkataraman-nagarajan-a5011470/"
 layout: "researcher"
 hiddenInHomeList: true

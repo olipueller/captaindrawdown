@@ -1,7 +1,7 @@
 ---
 title: "Gus Ali Nur Rohman"
 description: "Gus Ali Nur Rohman is a Mid-career Biochar researcher at King Fahd University of Petroleum and Minerals in SA. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.639759
+date: 2026-07-10T01:07:48.598409
 url: "/cdr-researcher-census/researchers/gus-ali-nur-rohman-a5084608/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Federica Angiulli"
 description: "Federica Angiulli is a Mid-career Unknown researcher at Union Bank of Switzerland in CH. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.048228
+date: 2026-07-10T01:07:48.961652
 url: "/cdr-researcher-census/researchers/federica-angiulli-a5020900/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ashutosh Dwivedi"
 description: "Ashutosh Dwivedi is a Senior General CDR researcher at Bhabha Atomic Research Centre in IN. With 74 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.852875
+date: 2026-07-10T01:07:47.888418
 url: "/cdr-researcher-census/researchers/ashutosh-dwivedi-a5081285/"
 layout: "researcher"
 hiddenInHomeList: true

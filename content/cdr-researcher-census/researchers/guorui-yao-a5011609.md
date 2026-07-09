@@ -1,7 +1,7 @@
 ---
 title: "Guorui Yao"
 description: "Guorui Yao is a Mid-career Unknown researcher at University of California Irvine in US. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.237304
+date: 2026-07-10T01:07:47.323820
 url: "/cdr-researcher-census/researchers/guorui-yao-a5011609/"
 layout: "researcher"
 hiddenInHomeList: true

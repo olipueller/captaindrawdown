@@ -1,7 +1,7 @@
 ---
 title: "R. Sakthi Sudar Saravanan"
 description: "R. Sakthi Sudar Saravanan is a Senior Unknown researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.058665
+date: 2026-07-10T01:07:48.062449
 url: "/cdr-researcher-census/researchers/r-sakthi-sudar-saravanan-a5101682/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Luncheng You"
 description: "Luncheng You is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.676436
+date: 2026-07-10T01:07:47.733004
 url: "/cdr-researcher-census/researchers/luncheng-you-a5079882/"
 layout: "researcher"
 hiddenInHomeList: true

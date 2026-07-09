@@ -1,7 +1,7 @@
 ---
 title: "Mahshid Mirzaie"
 description: "Mahshid Mirzaie is a Mid-career Unknown researcher at Hakim Sabzevari University in IR. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.325293
+date: 2026-07-10T01:07:48.325753
 url: "/cdr-researcher-census/researchers/mahshid-mirzaie-a5027879/"
 layout: "researcher"
 hiddenInHomeList: true

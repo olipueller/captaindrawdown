@@ -1,7 +1,7 @@
 ---
 title: "Amirreza Erfani Gahrouei"
 description: "Amirreza Erfani Gahrouei is an Early-career Unknown researcher at Sharif University of Technology in IR. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.924548
+date: 2026-07-10T01:07:47.938080
 url: "/cdr-researcher-census/researchers/amirreza-erfani-gahrouei-a5095920/"
 layout: "researcher"
 hiddenInHomeList: true

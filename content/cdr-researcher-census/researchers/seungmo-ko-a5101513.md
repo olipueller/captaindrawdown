@@ -1,7 +1,7 @@
 ---
 title: "Seungmo Ko"
 description: "Seungmo Ko is a Senior Unknown researcher at Kangwon National University in KR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.803541
+date: 2026-07-10T01:07:48.742323
 url: "/cdr-researcher-census/researchers/seungmo-ko-a5101513/"
 layout: "researcher"
 hiddenInHomeList: true

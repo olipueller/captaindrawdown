@@ -1,7 +1,7 @@
 ---
 title: "Catherine Hirst"
 description: "Catherine Hirst is a Mid-career Soil Carbon researcher at Durham University in GB. With 59 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.540459
+date: 2026-07-10T01:07:47.605598
 url: "/cdr-researcher-census/researchers/catherine-hirst-a5089598/"
 layout: "researcher"
 hiddenInHomeList: true

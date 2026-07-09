@@ -1,7 +1,7 @@
 ---
 title: "Maliheh Behrang Manesh"
 description: "Maliheh Behrang Manesh is a Mid-career Unknown researcher at University of Tehran in IR. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.979785
+date: 2026-07-10T01:07:48.899800
 url: "/cdr-researcher-census/researchers/maliheh-behrang-manesh-a5086589/"
 layout: "researcher"
 hiddenInHomeList: true

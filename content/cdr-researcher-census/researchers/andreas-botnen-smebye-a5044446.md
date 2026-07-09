@@ -1,7 +1,7 @@
 ---
 title: "Andreas Botnen Smebye"
 description: "Andreas Botnen Smebye is a Mid-career Biochar researcher at Norwegian Geotechnical Institute in NO. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.371433
+date: 2026-07-10T01:07:47.453673
 url: "/cdr-researcher-census/researchers/andreas-botnen-smebye-a5044446/"
 layout: "researcher"
 hiddenInHomeList: true

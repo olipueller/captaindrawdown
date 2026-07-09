@@ -1,7 +1,7 @@
 ---
 title: "Rasul Satymov"
 description: "Rasul Satymov is a Mid-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.577612
+date: 2026-07-10T01:07:47.640725
 url: "/cdr-researcher-census/researchers/rasul-satymov-a5063453/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Julia Brugger"
 description: "Julia Brugger is a Mid-career Unknown researcher at Universitätsklinikum Tübingen in DE. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.804111
+date: 2026-07-10T01:07:47.851333
 url: "/cdr-researcher-census/researchers/julia-brugger-a5075774/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sanghamitra Padhi"
 description: "Sanghamitra Padhi is a Senior Unknown researcher at Berhampur University in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.075027
+date: 2026-07-10T01:07:48.077575
 url: "/cdr-researcher-census/researchers/sanghamitra-padhi-a5111724/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cheng Ji"
 description: "Cheng Ji is a Senior Soil Carbon researcher at Center for High Pressure Science and Technology Advanced Research in CN. With 78 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.021888
+date: 2026-07-10T01:07:47.088593
 url: "/cdr-researcher-census/researchers/cheng-ji-a5004578/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Glory A. Russell-Parks"
 description: "Glory A. Russell-Parks is a Mid-career Unknown researcher at National Laboratory of the Rockies in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.828893
+date: 2026-07-10T01:07:48.762773
 url: "/cdr-researcher-census/researchers/glory-a-russell-parks-a5086017/"
 layout: "researcher"
 hiddenInHomeList: true

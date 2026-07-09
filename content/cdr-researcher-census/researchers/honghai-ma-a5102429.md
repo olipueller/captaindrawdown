@@ -1,7 +1,7 @@
 ---
 title: "Honghai Ma"
 description: "Honghai Ma is a Mid-career Soil Carbon researcher at Chongqing Institute of Green and Intelligent Technology in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.442319
+date: 2026-07-10T01:07:48.432022
 url: "/cdr-researcher-census/researchers/honghai-ma-a5102429/"
 layout: "researcher"
 hiddenInHomeList: true

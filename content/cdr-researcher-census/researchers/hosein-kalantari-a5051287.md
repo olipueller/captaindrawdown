@@ -1,7 +1,7 @@
 ---
 title: "Hosein Kalantari"
 description: "Hosein Kalantari is a Mid-career Unknown researcher. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.274067
+date: 2026-07-10T01:07:48.279676
 url: "/cdr-researcher-census/researchers/hosein-kalantari-a5051287/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thiago Abrantes Silva"
 description: "Thiago Abrantes Silva is a Mid-career Unknown researcher at Universidade Federal de Viçosa in BR. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.480194
+date: 2026-07-10T01:07:47.552383
 url: "/cdr-researcher-census/researchers/thiago-abrantes-silva-a5034746/"
 layout: "researcher"
 hiddenInHomeList: true

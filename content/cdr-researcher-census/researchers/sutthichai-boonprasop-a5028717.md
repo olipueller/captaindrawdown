@@ -1,7 +1,7 @@
 ---
 title: "Sutthichai Boonprasop"
 description: "Sutthichai Boonprasop is a Mid-career Unknown researcher at Mahidol University in TH. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.860869
+date: 2026-07-10T01:07:48.790616
 url: "/cdr-researcher-census/researchers/sutthichai-boonprasop-a5028717/"
 layout: "researcher"
 hiddenInHomeList: true

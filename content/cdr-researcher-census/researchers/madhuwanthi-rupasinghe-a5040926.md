@@ -1,7 +1,7 @@
 ---
 title: "Madhuwanthi Rupasinghe"
 description: "Madhuwanthi Rupasinghe is a Mid-career General CDR researcher at The University of Melbourne in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.692067
+date: 2026-07-10T01:07:47.748018
 url: "/cdr-researcher-census/researchers/madhuwanthi-rupasinghe-a5040926/"
 layout: "researcher"
 hiddenInHomeList: true

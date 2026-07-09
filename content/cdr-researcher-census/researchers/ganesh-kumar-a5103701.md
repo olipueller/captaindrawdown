@@ -1,7 +1,7 @@
 ---
 title: "Ganesh Kumar"
 description: "Ganesh Kumar is a Senior Unknown researcher at Swami Rama Himalayan University in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.537490
+date: 2026-07-10T01:07:47.603162
 url: "/cdr-researcher-census/researchers/ganesh-kumar-a5103701/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Charné Bornman"
 description: "Charné Bornman is a Mid-career Unknown researcher at University of the Free State in ZA. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.379457
+date: 2026-07-10T01:07:47.461188
 url: "/cdr-researcher-census/researchers/charne-bornman-a5040668/"
 layout: "researcher"
 hiddenInHomeList: true

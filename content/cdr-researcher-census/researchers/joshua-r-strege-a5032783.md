@@ -1,7 +1,7 @@
 ---
 title: "Joshua R. Strege"
 description: "Joshua R. Strege is a Senior BECCS researcher at University of North Dakota in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.874392
+date: 2026-07-10T01:07:48.802199
 url: "/cdr-researcher-census/researchers/joshua-r-strege-a5032783/"
 layout: "researcher"
 hiddenInHomeList: true

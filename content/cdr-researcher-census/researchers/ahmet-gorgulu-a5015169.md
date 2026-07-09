@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Görgülü"
 description: "Ahmet Görgülü is a Mid-career Unknown researcher at Istanbul Commerce University in TR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.773538
+date: 2026-07-10T01:07:48.717454
 url: "/cdr-researcher-census/researchers/ahmet-gorgulu-a5015169/"
 layout: "researcher"
 hiddenInHomeList: true

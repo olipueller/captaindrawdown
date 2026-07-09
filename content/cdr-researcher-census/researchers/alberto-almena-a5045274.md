@@ -1,7 +1,7 @@
 ---
 title: "Alberto Almena"
 description: "Alberto Almena is a Mid-career General CDR researcher at Universidad de Salamanca in ES. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.600185
+date: 2026-07-10T01:07:47.662441
 url: "/cdr-researcher-census/researchers/alberto-almena-a5045274/"
 layout: "researcher"
 hiddenInHomeList: true

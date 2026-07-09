@@ -1,7 +1,7 @@
 ---
 title: "Injun Park"
 description: "Injun Park is a Senior DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.815282
+date: 2026-07-10T01:07:47.861845
 url: "/cdr-researcher-census/researchers/injun-park-a5065407/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nebojša Potkonjak"
 description: "Nebojša Potkonjak is a Senior Unknown researcher at University of Belgrade in RS. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.590953
+date: 2026-07-10T01:07:47.654095
 url: "/cdr-researcher-census/researchers/nebojsa-potkonjak-a5047139/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maya Batres"
 description: "Maya Batres is a Mid-career General CDR researcher. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.429893
+date: 2026-07-10T01:07:48.419940
 url: "/cdr-researcher-census/researchers/maya-batres-a5046189/"
 layout: "researcher"
 hiddenInHomeList: true

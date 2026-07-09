@@ -1,7 +1,7 @@
 ---
 title: "Yuanyuan Fan"
 description: "Yuanyuan Fan is a Mid-career Biochar researcher at Sun Yat-sen University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.102464
+date: 2026-07-10T01:07:48.128659
 url: "/cdr-researcher-census/researchers/yuanyuan-fan-a5014374/"
 layout: "researcher"
 hiddenInHomeList: true

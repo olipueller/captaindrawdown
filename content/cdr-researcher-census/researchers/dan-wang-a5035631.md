@@ -1,7 +1,7 @@
 ---
 title: "Dan Wang"
 description: "Dan Wang is a Mid-career Soil Carbon researcher at University of Science and Technology Liaoning in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.351134
+date: 2026-07-10T01:07:47.433442
 url: "/cdr-researcher-census/researchers/dan-wang-a5035631/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hizba Waheed"
 description: "Hizba Waheed is a Mid-career Unknown researcher at University of Wah in PK. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.920141
+date: 2026-07-10T01:07:48.843990
 url: "/cdr-researcher-census/researchers/hizba-waheed-a5110575/"
 layout: "researcher"
 hiddenInHomeList: true

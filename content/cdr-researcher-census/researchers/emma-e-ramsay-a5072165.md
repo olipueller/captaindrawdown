@@ -1,7 +1,7 @@
 ---
 title: "Emma E. Ramsay"
 description: "Emma E. Ramsay is a Mid-career Unknown researcher at Nanyang Technological University in SG. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.194735
+date: 2026-07-10T01:07:48.208436
 url: "/cdr-researcher-census/researchers/emma-e-ramsay-a5072165/"
 layout: "researcher"
 hiddenInHomeList: true

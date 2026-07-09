@@ -1,7 +1,7 @@
 ---
 title: "Abir Dey"
 description: "Abir Dey is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 86 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.241914
+date: 2026-07-10T01:07:47.328117
 url: "/cdr-researcher-census/researchers/abir-dey-a5036886/"
 layout: "researcher"
 hiddenInHomeList: true

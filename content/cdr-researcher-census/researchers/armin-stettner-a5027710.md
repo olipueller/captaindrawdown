@@ -1,7 +1,7 @@
 ---
 title: "Armin Stettner"
 description: "Armin Stettner is a Senior Unknown researcher. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.709723
+date: 2026-07-10T01:07:48.661484
 url: "/cdr-researcher-census/researchers/armin-stettner-a5027710/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mai Phuong Nguyen"
 description: "Mai Phuong Nguyen is a Mid-career Soil Carbon researcher at World Agroforestry Centre in KE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.953049
+date: 2026-07-10T01:07:48.874973
 url: "/cdr-researcher-census/researchers/mai-phuong-nguyen-a5081119/"
 layout: "researcher"
 hiddenInHomeList: true

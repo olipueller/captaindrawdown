@@ -1,7 +1,7 @@
 ---
 title: "Lin Yang"
 description: "Lin Yang is a Mid-career Soil Carbon researcher at Renmin University of China in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.070080
+date: 2026-07-10T01:07:48.981212
 url: "/cdr-researcher-census/researchers/lin-yang-a5101308/"
 layout: "researcher"
 hiddenInHomeList: true

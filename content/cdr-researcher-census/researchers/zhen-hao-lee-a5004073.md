@@ -1,7 +1,7 @@
 ---
 title: "Zhen Hao Lee"
 description: "Zhen Hao Lee is a Mid-career Unknown researcher at Korea Research Institute of Chemical Technology in KR. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.152816
+date: 2026-07-10T01:07:48.172418
 url: "/cdr-researcher-census/researchers/zhen-hao-lee-a5004073/"
 layout: "researcher"
 hiddenInHomeList: true

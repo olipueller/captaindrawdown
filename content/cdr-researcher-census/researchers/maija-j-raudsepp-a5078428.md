@@ -1,7 +1,7 @@
 ---
 title: "Maija J. Raudsepp"
 description: "Maija J. Raudsepp is a Senior Enhanced Weathering researcher at University of Alberta in CA. With 53 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.728546
+date: 2026-07-10T01:07:47.780646
 url: "/cdr-researcher-census/researchers/maija-j-raudsepp-a5078428/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ziyu Mei"
 description: "Ziyu Mei is a Mid-career Unknown researcher at Beijing Forestry University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.992023
+date: 2026-07-10T01:07:48.910640
 url: "/cdr-researcher-census/researchers/ziyu-mei-a5102622/"
 layout: "researcher"
 hiddenInHomeList: true

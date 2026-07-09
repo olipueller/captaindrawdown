@@ -1,7 +1,7 @@
 ---
 title: "Hazel Cahill"
 description: "Hazel Cahill is an Early-career Unknown researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.768790
+date: 2026-07-10T01:07:47.818988
 url: "/cdr-researcher-census/researchers/hazel-cahill-a5030465/"
 layout: "researcher"
 hiddenInHomeList: true

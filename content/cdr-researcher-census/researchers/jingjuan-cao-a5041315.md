@@ -1,7 +1,7 @@
 ---
 title: "Jingjuan Cao"
 description: "Jingjuan Cao is a Mid-career Unknown researcher at Lanzhou University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.527304
+date: 2026-07-10T01:07:48.510115
 url: "/cdr-researcher-census/researchers/jingjuan-cao-a5041315/"
 layout: "researcher"
 hiddenInHomeList: true

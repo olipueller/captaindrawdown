@@ -1,7 +1,7 @@
 ---
 title: "Linbo Luo"
 description: "Linbo Luo is an Early-career Unknown researcher at Xi'an University of Architecture and Technology in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.596740
+date: 2026-07-10T01:07:48.560718
 url: "/cdr-researcher-census/researchers/linbo-luo-a5111081/"
 layout: "researcher"
 hiddenInHomeList: true

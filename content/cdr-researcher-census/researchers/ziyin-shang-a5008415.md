@@ -1,7 +1,7 @@
 ---
 title: "Ziyin Shang"
 description: "Ziyin Shang is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.114205
+date: 2026-07-10T01:07:47.200617
 url: "/cdr-researcher-census/researchers/ziyin-shang-a5008415/"
 layout: "researcher"
 hiddenInHomeList: true

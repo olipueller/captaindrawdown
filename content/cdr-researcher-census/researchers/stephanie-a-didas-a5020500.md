@@ -1,7 +1,7 @@
 ---
 title: "Stephanie A. Didas"
 description: "Stephanie A. Didas is a Senior Unknown researcher at Global Thermostat (United States). With 23 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.952188
+date: 2026-07-10T01:07:46.986322
 url: "/cdr-researcher-census/researchers/stephanie-a-didas-a5020500/"
 layout: "researcher"
 hiddenInHomeList: true

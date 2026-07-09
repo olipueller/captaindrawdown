@@ -1,7 +1,7 @@
 ---
 title: "Daniel Quiggin"
 description: "Daniel Quiggin is a Mid-career General CDR researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.500502
+date: 2026-07-10T01:07:48.485940
 url: "/cdr-researcher-census/researchers/daniel-quiggin-a5041251/"
 layout: "researcher"
 hiddenInHomeList: true

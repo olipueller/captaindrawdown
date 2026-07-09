@@ -1,7 +1,7 @@
 ---
 title: "Yingya Wang"
 description: "Yingya Wang is a Mid-career General CDR researcher at Zhejiang Wanli University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.445037
+date: 2026-07-10T01:07:48.434679
 url: "/cdr-researcher-census/researchers/yingya-wang-a5064528/"
 layout: "researcher"
 hiddenInHomeList: true

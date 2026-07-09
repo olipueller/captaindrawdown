@@ -1,7 +1,7 @@
 ---
 title: "Christine Cairns Fortuin"
 description: "Christine Cairns Fortuin is a Mid-career Soil Carbon researcher at University of Georgia in US. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.902318
+date: 2026-07-10T01:07:48.827750
 url: "/cdr-researcher-census/researchers/christine-cairns-fortuin-a5080487/"
 layout: "researcher"
 hiddenInHomeList: true

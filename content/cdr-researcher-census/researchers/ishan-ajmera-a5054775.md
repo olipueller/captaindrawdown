@@ -1,7 +1,7 @@
 ---
 title: "Ishan Ajmera"
 description: "Ishan Ajmera is a Mid-career Unknown researcher at Mitti Labs in IN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.251850
+date: 2026-07-10T01:07:47.336645
 url: "/cdr-researcher-census/researchers/ishan-ajmera-a5054775/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Natalie Kille"
 description: "Natalie Kille is a Mid-career Unknown researcher at University of Wyoming in US. With 45 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.595954
+date: 2026-07-10T01:07:47.658911
 url: "/cdr-researcher-census/researchers/natalie-kille-a5011460/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaole Sun"
 description: "Xiaole Sun is a Senior Soil Carbon researcher at Institute of Oceanology Chinese Academy of Sciences in CN. With 69 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.179580
+date: 2026-07-10T01:07:47.268494
 url: "/cdr-researcher-census/researchers/xiaole-sun-a5088007/"
 layout: "researcher"
 hiddenInHomeList: true

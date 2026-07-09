@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Azharuddin Azhari Mohd Amiruddin"
 description: "Ahmad Azharuddin Azhari Mohd Amiruddin is a Mid-career Unknown researcher at Universiti Teknologi Petronas in MY. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.337088
+date: 2026-07-10T01:07:48.337045
 url: "/cdr-researcher-census/researchers/ahmad-azharuddin-azhari-mohd-amiruddin-a5009457/"
 layout: "researcher"
 hiddenInHomeList: true

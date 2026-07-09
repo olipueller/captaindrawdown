@@ -1,7 +1,7 @@
 ---
 title: "Zongfang Chen"
 description: "Zongfang Chen is a Mid-career Unknown researcher at Siemens (China) in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.234971
+date: 2026-07-10T01:07:49.144174
 url: "/cdr-researcher-census/researchers/zongfang-chen-a5003488/"
 layout: "researcher"
 hiddenInHomeList: true

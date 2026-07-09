@@ -1,7 +1,7 @@
 ---
 title: "Luana Gurnari"
 description: "Luana Gurnari is a Mid-career Unknown researcher at Polytechnic University of Bari in IT. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.384675
+date: 2026-07-10T01:07:48.379652
 url: "/cdr-researcher-census/researchers/luana-gurnari-a5051946/"
 layout: "researcher"
 hiddenInHomeList: true

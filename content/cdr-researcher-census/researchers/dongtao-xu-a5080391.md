@@ -1,7 +1,7 @@
 ---
 title: "Dongtao Xu"
 description: "Dongtao Xu is a Mid-career Ocean CDR researcher at University of Science and Technology Liaoning in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.234498
+date: 2026-07-10T01:07:48.244205
 url: "/cdr-researcher-census/researchers/dongtao-xu-a5080391/"
 layout: "researcher"
 hiddenInHomeList: true

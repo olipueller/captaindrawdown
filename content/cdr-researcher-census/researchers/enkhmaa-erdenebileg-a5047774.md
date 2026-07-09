@@ -1,7 +1,7 @@
 ---
 title: "Enkhmaa Erdenebileg"
 description: "Enkhmaa Erdenebileg is a Mid-career Unknown researcher at Mongolian Academy of Sciences in MN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.424048
+date: 2026-07-10T01:07:48.414426
 url: "/cdr-researcher-census/researchers/enkhmaa-erdenebileg-a5047774/"
 layout: "researcher"
 hiddenInHomeList: true

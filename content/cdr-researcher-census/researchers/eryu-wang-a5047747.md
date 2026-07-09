@@ -1,7 +1,7 @@
 ---
 title: "Eryu Wang"
 description: "Eryu Wang is an Eminent General CDR researcher at Nanjing Forestry University in HK. With 81 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.963836
+date: 2026-07-10T01:07:47.003639
 url: "/cdr-researcher-census/researchers/eryu-wang-a5047747/"
 layout: "researcher"
 hiddenInHomeList: true

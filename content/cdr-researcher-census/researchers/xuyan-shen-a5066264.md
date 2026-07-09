@@ -1,7 +1,7 @@
 ---
 title: "Xuyan Shen"
 description: "Xuyan Shen is a Mid-career Biochar researcher at Southeast University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.018523
+date: 2026-07-10T01:07:48.026228
 url: "/cdr-researcher-census/researchers/xuyan-shen-a5066264/"
 layout: "researcher"
 hiddenInHomeList: true

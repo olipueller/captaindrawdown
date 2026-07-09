@@ -1,7 +1,7 @@
 ---
 title: "Md Tahmid Islam"
 description: "Md Tahmid Islam is a Mid-career Soil Carbon researcher at Kunming Medical University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.147687
+date: 2026-07-10T01:07:48.167715
 url: "/cdr-researcher-census/researchers/md-tahmid-islam-a5085907/"
 layout: "researcher"
 hiddenInHomeList: true

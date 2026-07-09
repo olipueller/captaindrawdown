@@ -1,7 +1,7 @@
 ---
 title: "Flavia Strani"
 description: "Flavia Strani is a Mid-career Unknown researcher at Universidad Zaragoza in ES. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.762115
+date: 2026-07-10T01:07:47.812795
 url: "/cdr-researcher-census/researchers/flavia-strani-a5023826/"
 layout: "researcher"
 hiddenInHomeList: true

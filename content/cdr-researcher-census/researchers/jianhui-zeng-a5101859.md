@@ -1,7 +1,7 @@
 ---
 title: "Jianhui Zeng"
 description: "Jianhui Zeng is a Senior Unknown researcher at Harbin Engineering University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.542095
+date: 2026-07-10T01:07:48.523461
 url: "/cdr-researcher-census/researchers/jianhui-zeng-a5101859/"
 layout: "researcher"
 hiddenInHomeList: true

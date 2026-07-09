@@ -1,7 +1,7 @@
 ---
 title: "C. S. Sahay"
 description: "C. S. Sahay is a Senior Soil Carbon researcher at Central Institute of Agricultural Engineering in IN. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.997535
+date: 2026-07-10T01:07:48.915640
 url: "/cdr-researcher-census/researchers/c-s-sahay-a5005034/"
 layout: "researcher"
 hiddenInHomeList: true

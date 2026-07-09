@@ -1,7 +1,7 @@
 ---
 title: "Bárbara Brum"
 description: "Bárbara Brum is an Early-career Unknown researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.602916
+date: 2026-07-10T01:07:47.664637
 url: "/cdr-researcher-census/researchers/barbara-brum-a5042886/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "S. Möckel"
 description: "S. Möckel is a Mid-career Enhanced Weathering researcher at University of Iceland in IS. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.654595
+date: 2026-07-10T01:07:48.612605
 url: "/cdr-researcher-census/researchers/s-mockel-a5111990/"
 layout: "researcher"
 hiddenInHomeList: true

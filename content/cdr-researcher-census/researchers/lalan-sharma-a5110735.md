@@ -1,7 +1,7 @@
 ---
 title: "Lalan Sharma"
 description: "Lalan Sharma is a Mid-career Soil Carbon researcher at Indian Institute of Sugarcane Research in IN. With 53 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.536509
+date: 2026-07-10T01:07:47.602292
 url: "/cdr-researcher-census/researchers/lalan-sharma-a5110735/"
 layout: "researcher"
 hiddenInHomeList: true

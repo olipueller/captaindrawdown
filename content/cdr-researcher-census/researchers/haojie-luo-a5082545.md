@@ -1,7 +1,7 @@
 ---
 title: "Haojie Luo"
 description: "Haojie Luo is a Mid-career General CDR researcher at Hong Kong Polytechnic University in HK. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.760098
+date: 2026-07-10T01:07:48.705371
 url: "/cdr-researcher-census/researchers/haojie-luo-a5082545/"
 layout: "researcher"
 hiddenInHomeList: true

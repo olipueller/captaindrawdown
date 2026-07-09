@@ -1,7 +1,7 @@
 ---
 title: "Masud Hassan"
 description: "Masud Hassan is a Mid-career Biochar researcher at Guizhou University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.327802
+date: 2026-07-10T01:07:47.409621
 url: "/cdr-researcher-census/researchers/masud-hassan-a5042541/"
 layout: "researcher"
 hiddenInHomeList: true

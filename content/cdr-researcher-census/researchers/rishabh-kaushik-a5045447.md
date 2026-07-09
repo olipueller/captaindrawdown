@@ -1,7 +1,7 @@
 ---
 title: "Rishabh Kaushik"
 description: "Rishabh Kaushik is a Mid-career Soil Carbon researcher at International Centre for Theoretical Sciences in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.884960
+date: 2026-07-10T01:07:48.812018
 url: "/cdr-researcher-census/researchers/rishabh-kaushik-a5045447/"
 layout: "researcher"
 hiddenInHomeList: true

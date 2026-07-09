@@ -1,7 +1,7 @@
 ---
 title: "Jean Cheyson Barros dos Santos"
 description: "Jean Cheyson Barros dos Santos is a Mid-career Soil Carbon researcher at Universidade Federal Rural de Pernambuco in BR. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.650838
+date: 2026-07-10T01:07:47.709052
 url: "/cdr-researcher-census/researchers/jean-cheyson-barros-dos-santos-a5016835/"
 layout: "researcher"
 hiddenInHomeList: true

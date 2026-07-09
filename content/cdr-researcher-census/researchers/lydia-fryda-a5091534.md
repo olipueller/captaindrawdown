@@ -1,7 +1,7 @@
 ---
 title: "Lydia Fryda"
 description: "Lydia Fryda is a Senior Biochar researcher at École des Métiers de l’Environnement in FR. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.076413
+date: 2026-07-10T01:07:47.156166
 url: "/cdr-researcher-census/researchers/lydia-fryda-a5091534/"
 layout: "researcher"
 hiddenInHomeList: true

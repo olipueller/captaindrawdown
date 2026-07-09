@@ -1,7 +1,7 @@
 ---
 title: "Qianmei Zhu"
 description: "Qianmei Zhu is a Mid-career Unknown researcher at Nanjing Agricultural University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.382502
+date: 2026-07-10T01:07:48.378039
 url: "/cdr-researcher-census/researchers/qianmei-zhu-a5030857/"
 layout: "researcher"
 hiddenInHomeList: true

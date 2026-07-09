@@ -1,7 +1,7 @@
 ---
 title: "Amy Luers"
 description: "Amy Luers is a Senior General CDR researcher at Microsoft (United States) in US. With 65 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.911829
+date: 2026-07-10T01:07:46.911481
 url: "/cdr-researcher-census/researchers/amy-luers-a5062687/"
 layout: "researcher"
 hiddenInHomeList: true

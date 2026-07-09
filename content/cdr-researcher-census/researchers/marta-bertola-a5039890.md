@@ -1,7 +1,7 @@
 ---
 title: "Marta Bertola"
 description: "Marta Bertola is a Mid-career Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.110889
+date: 2026-07-10T01:07:48.136487
 url: "/cdr-researcher-census/researchers/marta-bertola-a5039890/"
 layout: "researcher"
 hiddenInHomeList: true

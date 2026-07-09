@@ -1,7 +1,7 @@
 ---
 title: "Shunyao Zhuang"
 description: "Shunyao Zhuang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 78 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.213559
+date: 2026-07-10T01:07:47.300585
 url: "/cdr-researcher-census/researchers/shunyao-zhuang-a5007069/"
 layout: "researcher"
 hiddenInHomeList: true

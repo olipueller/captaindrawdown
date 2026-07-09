@@ -1,7 +1,7 @@
 ---
 title: "C. C. Schmidt"
 description: "C. C. Schmidt is a Mid-career Unknown researcher at University of Wisconsin–Madison in US. With 52 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.375768
+date: 2026-07-10T01:07:47.457759
 url: "/cdr-researcher-census/researchers/c-c-schmidt-a5046991/"
 layout: "researcher"
 hiddenInHomeList: true

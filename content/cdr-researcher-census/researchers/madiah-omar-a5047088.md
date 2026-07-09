@@ -1,7 +1,7 @@
 ---
 title: "Madiah Omar"
 description: "Madiah Omar is a Mid-career Unknown researcher at Universiti Teknologi Petronas in MY. With 69 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.060077
+date: 2026-07-10T01:07:48.063772
 url: "/cdr-researcher-census/researchers/madiah-omar-a5047088/"
 layout: "researcher"
 hiddenInHomeList: true

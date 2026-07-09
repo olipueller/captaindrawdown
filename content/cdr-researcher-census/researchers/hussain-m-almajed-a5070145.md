@@ -1,7 +1,7 @@
 ---
 title: "Hussain M. Almajed"
 description: "Hussain M. Almajed is an Early-career General CDR researcher at University of Colorado Boulder in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.540255
+date: 2026-07-10T01:07:48.521867
 url: "/cdr-researcher-census/researchers/hussain-m-almajed-a5070145/"
 layout: "researcher"
 hiddenInHomeList: true

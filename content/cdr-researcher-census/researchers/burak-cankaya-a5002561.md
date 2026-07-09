@@ -1,7 +1,7 @@
 ---
 title: "Burak Cankaya"
 description: "Burak Cankaya is a Mid-career Unknown researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.214216
+date: 2026-07-10T01:07:49.125716
 url: "/cdr-researcher-census/researchers/burak-cankaya-a5002561/"
 layout: "researcher"
 hiddenInHomeList: true

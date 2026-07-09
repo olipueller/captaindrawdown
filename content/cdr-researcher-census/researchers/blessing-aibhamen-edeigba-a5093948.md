@@ -1,7 +1,7 @@
 ---
 title: "Blessing Aibhamen Edeigba"
 description: "Blessing Aibhamen Edeigba is an Early-career Unknown researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.211380
+date: 2026-07-10T01:07:49.123437
 url: "/cdr-researcher-census/researchers/blessing-aibhamen-edeigba-a5093948/"
 layout: "researcher"
 hiddenInHomeList: true

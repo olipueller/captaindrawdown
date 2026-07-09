@@ -1,7 +1,7 @@
 ---
 title: "Yukiko Abe"
 description: "Yukiko Abe is a Senior Soil Carbon researcher at Japan Atomic Energy Agency in JP. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.590247
+date: 2026-07-10T01:07:47.653433
 url: "/cdr-researcher-census/researchers/yukiko-abe-a5067205/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jianmin Zhou"
 description: "Jianmin Zhou is a Senior General CDR researcher at Institute of Computing Technology in CN. With 76 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.997247
+date: 2026-07-10T01:07:47.056671
 url: "/cdr-researcher-census/researchers/jianmin-zhou-a5103389/"
 layout: "researcher"
 hiddenInHomeList: true

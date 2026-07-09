@@ -1,7 +1,7 @@
 ---
 title: "Jihoon Oh"
 description: "Jihoon Oh is a Senior General CDR researcher at Pohang University of Science and Technology in KR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.246943
+date: 2026-07-10T01:07:49.154692
 url: "/cdr-researcher-census/researchers/jihoon-oh-a5103709/"
 layout: "researcher"
 hiddenInHomeList: true

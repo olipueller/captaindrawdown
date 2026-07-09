@@ -1,7 +1,7 @@
 ---
 title: "Xingguo Luo"
 description: "Xingguo Luo is a Mid-career Unknown researcher at Kunming University of Science and Technology in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.362995
+date: 2026-07-10T01:07:48.360821
 url: "/cdr-researcher-census/researchers/xingguo-luo-a5062247/"
 layout: "researcher"
 hiddenInHomeList: true

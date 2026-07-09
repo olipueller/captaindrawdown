@@ -1,7 +1,7 @@
 ---
 title: "Iara Barbosa Magalhães"
 description: "Iara Barbosa Magalhães is a Mid-career Unknown researcher at Federal University of Lavras in BR. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.473024
+date: 2026-07-10T01:07:47.545377
 url: "/cdr-researcher-census/researchers/iara-barbosa-magalhaes-a5069900/"
 layout: "researcher"
 hiddenInHomeList: true

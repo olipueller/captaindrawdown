@@ -1,7 +1,7 @@
 ---
 title: "Alexandra J. Ringsby"
 description: "Alexandra J. Ringsby is a Mid-career General CDR researcher at Stanford University in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.658100
+date: 2026-07-10T01:07:48.615648
 url: "/cdr-researcher-census/researchers/alexandra-j-ringsby-a5082283/"
 layout: "researcher"
 hiddenInHomeList: true

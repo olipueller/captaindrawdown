@@ -1,7 +1,7 @@
 ---
 title: "Vladan Ugrenović"
 description: "Vladan Ugrenović is a Mid-career Soil Carbon researcher at Maize Research Institute Zemun Polje in RS. With 64 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.833967
+date: 2026-07-10T01:07:47.870204
 url: "/cdr-researcher-census/researchers/vladan-ugrenovic-a5064094/"
 layout: "researcher"
 hiddenInHomeList: true

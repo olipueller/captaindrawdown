@@ -1,7 +1,7 @@
 ---
 title: "Liyuan Yang"
 description: "Liyuan Yang is a Senior Soil Carbon researcher at University of Jinan in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.552948
+date: 2026-07-10T01:07:47.617081
 url: "/cdr-researcher-census/researchers/liyuan-yang-a5101622/"
 layout: "researcher"
 hiddenInHomeList: true

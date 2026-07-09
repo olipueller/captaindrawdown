@@ -1,7 +1,7 @@
 ---
 title: "Joy Thomas"
 description: "Joy Thomas is a Senior Unknown researcher at National Taiwan University in TW. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.355896
+date: 2026-07-10T01:07:48.354296
 url: "/cdr-researcher-census/researchers/joy-thomas-a5054089/"
 layout: "researcher"
 hiddenInHomeList: true

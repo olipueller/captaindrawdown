@@ -1,7 +1,7 @@
 ---
 title: "Sebastiano Bianco"
 description: "Sebastiano Bianco is a Mid-career Unknown researcher. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.805794
+date: 2026-07-10T01:07:47.852667
 url: "/cdr-researcher-census/researchers/sebastiano-bianco-a5059106/"
 layout: "researcher"
 hiddenInHomeList: true

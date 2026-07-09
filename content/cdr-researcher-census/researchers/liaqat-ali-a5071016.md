@@ -1,7 +1,7 @@
 ---
 title: "Liaqat Ali"
 description: "Liaqat Ali is a Senior Soil Carbon researcher at Prince of Songkla University in TH. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.922293
+date: 2026-07-10T01:07:48.846006
 url: "/cdr-researcher-census/researchers/liaqat-ali-a5071016/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ting Zhou"
 description: "Ting Zhou is a Mid-career Unknown researcher at Hunan Provincial Center for Disease Control and Prevention in CN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.980485
+date: 2026-07-10T01:07:47.989868
 url: "/cdr-researcher-census/researchers/ting-zhou-a5101692/"
 layout: "researcher"
 hiddenInHomeList: true

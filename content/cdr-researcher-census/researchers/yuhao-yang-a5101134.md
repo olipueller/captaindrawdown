@@ -1,7 +1,7 @@
 ---
 title: "Yuhao Yang"
 description: "Yuhao Yang is a Mid-career Soil Carbon researcher at Hainan Normal University in CN. With 41 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.482990
+date: 2026-07-10T01:07:47.554848
 url: "/cdr-researcher-census/researchers/yuhao-yang-a5101134/"
 layout: "researcher"
 hiddenInHomeList: true

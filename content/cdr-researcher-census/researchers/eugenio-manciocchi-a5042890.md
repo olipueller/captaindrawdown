@@ -1,7 +1,7 @@
 ---
 title: "Eugenio Manciocchi"
 description: "Eugenio Manciocchi is an Early-career Unknown researcher at University of Chieti-Pescara in IT. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.752004
+date: 2026-07-10T01:07:48.698658
 url: "/cdr-researcher-census/researchers/eugenio-manciocchi-a5042890/"
 layout: "researcher"
 hiddenInHomeList: true

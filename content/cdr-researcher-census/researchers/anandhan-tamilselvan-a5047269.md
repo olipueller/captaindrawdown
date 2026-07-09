@@ -1,7 +1,7 @@
 ---
 title: "Anandhan Tamilselvan"
 description: "Anandhan Tamilselvan is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.781355
+date: 2026-07-10T01:07:47.829990
 url: "/cdr-researcher-census/researchers/anandhan-tamilselvan-a5047269/"
 layout: "researcher"
 hiddenInHomeList: true

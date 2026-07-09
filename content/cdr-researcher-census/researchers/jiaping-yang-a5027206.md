@@ -1,7 +1,7 @@
 ---
 title: "Jiaping Yang"
 description: "Jiaping Yang is a Mid-career Soil Carbon researcher at Mianyang Normal University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.899399
+date: 2026-07-10T01:07:48.824987
 url: "/cdr-researcher-census/researchers/jiaping-yang-a5027206/"
 layout: "researcher"
 hiddenInHomeList: true

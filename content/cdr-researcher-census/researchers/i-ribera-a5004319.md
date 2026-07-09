@@ -1,7 +1,7 @@
 ---
 title: "I. Ribera"
 description: "I. Ribera is a Mid-career Unknown researcher at Hospital Universitari de Vic in ES. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.390007
+date: 2026-07-10T01:07:48.383362
 url: "/cdr-researcher-census/researchers/i-ribera-a5004319/"
 layout: "researcher"
 hiddenInHomeList: true

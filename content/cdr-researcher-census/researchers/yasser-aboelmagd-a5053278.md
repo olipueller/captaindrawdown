@@ -1,7 +1,7 @@
 ---
 title: "Yasser Aboelmagd"
 description: "Yasser Aboelmagd is a Mid-career Unknown researcher at University of Business and Technology in SA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.162006
+date: 2026-07-10T01:07:48.179868
 url: "/cdr-researcher-census/researchers/yasser-aboelmagd-a5053278/"
 layout: "researcher"
 hiddenInHomeList: true

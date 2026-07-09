@@ -1,7 +1,7 @@
 ---
 title: "Lihua Ning"
 description: "Lihua Ning is a Senior Unknown researcher at Fourth Hospital of Inner Mongolia in CN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.998879
+date: 2026-07-10T01:07:48.916936
 url: "/cdr-researcher-census/researchers/lihua-ning-a5100566/"
 layout: "researcher"
 hiddenInHomeList: true

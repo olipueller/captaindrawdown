@@ -1,7 +1,7 @@
 ---
 title: "Xinwen Cai"
 description: "Xinwen Cai is a Mid-career Soil Carbon researcher at Shaanxi Normal University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.198704
+date: 2026-07-10T01:07:48.211791
 url: "/cdr-researcher-census/researchers/xinwen-cai-a5078048/"
 layout: "researcher"
 hiddenInHomeList: true

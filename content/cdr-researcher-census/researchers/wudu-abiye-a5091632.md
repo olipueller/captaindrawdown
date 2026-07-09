@@ -1,7 +1,7 @@
 ---
 title: "Wudu Abiye"
 description: "Wudu Abiye is a Mid-career Soil Carbon researcher at University of the Witwatersrand in ZA. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.185545
+date: 2026-07-10T01:07:49.100117
 url: "/cdr-researcher-census/researchers/wudu-abiye-a5091632/"
 layout: "researcher"
 hiddenInHomeList: true

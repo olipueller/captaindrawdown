@@ -1,7 +1,7 @@
 ---
 title: "José de Oliveira Marques Neto"
 description: "José de Oliveira Marques Neto is a Senior Unknown researcher at Universidade Federal de Viçosa in BR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.098368
+date: 2026-07-10T01:07:48.098125
 url: "/cdr-researcher-census/researchers/jose-de-oliveira-marques-neto-a5087512/"
 layout: "researcher"
 hiddenInHomeList: true

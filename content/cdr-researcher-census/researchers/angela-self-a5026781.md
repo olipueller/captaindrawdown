@@ -1,7 +1,7 @@
 ---
 title: "Angela Self"
 description: "Angela Self is a Senior General CDR researcher at The University of Melbourne in AU. With 38 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.148841
+date: 2026-07-10T01:07:47.237232
 url: "/cdr-researcher-census/researchers/angela-self-a5026781/"
 layout: "researcher"
 hiddenInHomeList: true

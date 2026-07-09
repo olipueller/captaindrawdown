@@ -1,7 +1,7 @@
 ---
 title: "Courtney M. Regan"
 description: "Courtney M. Regan is a Mid-career General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.452487
+date: 2026-07-10T01:07:48.441233
 url: "/cdr-researcher-census/researchers/courtney-m-regan-a5031268/"
 layout: "researcher"
 hiddenInHomeList: true

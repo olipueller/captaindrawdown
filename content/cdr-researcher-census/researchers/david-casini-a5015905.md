@@ -1,7 +1,7 @@
 ---
 title: "David Casini"
 description: "David Casini is a Senior Soil Carbon researcher. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.353600
+date: 2026-07-10T01:07:47.435780
 url: "/cdr-researcher-census/researchers/david-casini-a5015905/"
 layout: "researcher"
 hiddenInHomeList: true

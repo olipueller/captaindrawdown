@@ -1,7 +1,7 @@
 ---
 title: "Hossein Kazemi"
 description: "Hossein Kazemi is a Mid-career Soil Carbon researcher at Gorgan University of Agricultural Sciences and Natural Resources (GUASNR) in IR. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.407492
+date: 2026-07-10T01:07:47.487246
 url: "/cdr-researcher-census/researchers/hossein-kazemi-a5103014/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wan Adibah Wan Mahari"
 description: "Wan Adibah Wan Mahari is a Senior Biochar researcher at Universiti Malaysia Terengganu in MY. With 70 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.956310
+date: 2026-07-10T01:07:46.992697
 url: "/cdr-researcher-census/researchers/wan-adibah-wan-mahari-a5023369/"
 layout: "researcher"
 hiddenInHomeList: true

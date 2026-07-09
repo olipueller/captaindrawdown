@@ -1,7 +1,7 @@
 ---
 title: "Yuvraj Yuvraj"
 description: "Yuvraj Yuvraj is a Mid-career Unknown researcher at RWTH Aachen University in DE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.256124
+date: 2026-07-10T01:07:49.162873
 url: "/cdr-researcher-census/researchers/yuvraj-yuvraj-a5031296/"
 layout: "researcher"
 hiddenInHomeList: true

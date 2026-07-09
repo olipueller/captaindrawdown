@@ -1,7 +1,7 @@
 ---
 title: "Jeremy Miles Ayre"
 description: "Jeremy Miles Ayre is a Mid-career Unknown researcher at Murdoch University in AU. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.642788
+date: 2026-07-10T01:07:47.701820
 url: "/cdr-researcher-census/researchers/jeremy-miles-ayre-a5038074/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Parag N. Sutar"
 description: "Parag N. Sutar is a Senior Unknown researcher at MIT Art, Design and Technology University in IN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.492219
+date: 2026-07-10T01:07:47.562790
 url: "/cdr-researcher-census/researchers/parag-n-sutar-a5033537/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhuodong Yu"
 description: "Zhuodong Yu is a Mid-career Biochar researcher at Yangtze University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.396318
+date: 2026-07-10T01:07:47.477163
 url: "/cdr-researcher-census/researchers/zhuodong-yu-a5007503/"
 layout: "researcher"
 hiddenInHomeList: true

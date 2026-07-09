@@ -1,7 +1,7 @@
 ---
 title: "Mak Đukan"
 description: "Mak Đukan is a Mid-career General CDR researcher at Forschungszentrum Jülich in DE. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.350014
+date: 2026-07-10T01:07:48.348466
 url: "/cdr-researcher-census/researchers/mak-ukan-a5013904/"
 layout: "researcher"
 hiddenInHomeList: true

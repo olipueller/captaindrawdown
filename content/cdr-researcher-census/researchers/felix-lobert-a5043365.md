@@ -1,7 +1,7 @@
 ---
 title: "Felix Lobert"
 description: "Felix Lobert is an Early-career Unknown researcher at Thünen Institute of Farm Economics in DE. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.640251
+date: 2026-07-10T01:07:48.598975
 url: "/cdr-researcher-census/researchers/felix-lobert-a5043365/"
 layout: "researcher"
 hiddenInHomeList: true

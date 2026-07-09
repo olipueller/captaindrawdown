@@ -1,7 +1,7 @@
 ---
 title: "Zhanting Yang"
 description: "Zhanting Yang is a Senior Unknown researcher at NSF NCAR High Altitude Observatory in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.957130
+date: 2026-07-10T01:07:48.878849
 url: "/cdr-researcher-census/researchers/zhanting-yang-a5042699/"
 layout: "researcher"
 hiddenInHomeList: true

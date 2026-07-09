@@ -1,7 +1,7 @@
 ---
 title: "María Alejandra Décima"
 description: "María Alejandra Décima is an Early-career Biochar researcher at German University Association of Advanced Graduate Training in DE. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.379403
+date: 2026-07-10T01:07:48.375507
 url: "/cdr-researcher-census/researchers/maria-alejandra-decima-a5067610/"
 layout: "researcher"
 hiddenInHomeList: true

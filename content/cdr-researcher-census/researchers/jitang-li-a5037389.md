@@ -1,7 +1,7 @@
 ---
 title: "Jitang Li"
 description: "Jitang Li is a Mid-career Unknown researcher at Ministry of Education in RO. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.098850
+date: 2026-07-10T01:07:49.007390
 url: "/cdr-researcher-census/researchers/jitang-li-a5037389/"
 layout: "researcher"
 hiddenInHomeList: true

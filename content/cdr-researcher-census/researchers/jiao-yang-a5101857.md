@@ -1,7 +1,7 @@
 ---
 title: "Jiao Yang"
 description: "Jiao Yang is a Mid-career Soil Carbon researcher at Southwest University in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.904163
+date: 2026-07-10T01:07:47.918467
 url: "/cdr-researcher-census/researchers/jiao-yang-a5101857/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "José Luiz de Medeiros"
 description: "José Luiz de Medeiros is a Senior General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 193 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.009184
+date: 2026-07-10T01:07:47.071800
 url: "/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/"
 layout: "researcher"
 hiddenInHomeList: true

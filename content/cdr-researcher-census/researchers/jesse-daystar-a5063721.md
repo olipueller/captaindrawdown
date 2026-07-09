@@ -1,7 +1,7 @@
 ---
 title: "Jesse Daystar"
 description: "Jesse Daystar is a Senior General CDR researcher at Cotton (United States) in US. With 53 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.131326
+date: 2026-07-10T01:07:47.220198
 url: "/cdr-researcher-census/researchers/jesse-daystar-a5063721/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yihai Yang"
 description: "Yihai Yang is a Mid-career Unknown researcher at Peking University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.638427
+date: 2026-07-10T01:07:47.697657
 url: "/cdr-researcher-census/researchers/yihai-yang-a5104004/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gokul Gaudel"
 description: "Gokul Gaudel is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.356663
+date: 2026-07-10T01:07:48.355126
 url: "/cdr-researcher-census/researchers/gokul-gaudel-a5053314/"
 layout: "researcher"
 hiddenInHomeList: true

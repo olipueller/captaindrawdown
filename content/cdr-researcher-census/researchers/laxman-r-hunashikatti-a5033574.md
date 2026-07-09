@@ -1,7 +1,7 @@
 ---
 title: "Laxman R. Hunashikatti"
 description: "Laxman R. Hunashikatti is a Mid-career Soil Carbon researcher at Indian Institute of Horticultural Research in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.810277
+date: 2026-07-10T01:07:48.747917
 url: "/cdr-researcher-census/researchers/laxman-r-hunashikatti-a5033574/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Raquel Capella"
 description: "Raquel Capella is a Mid-career Unknown researcher at Universidade Federal do Rio de Janeiro in BR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.416535
+date: 2026-07-10T01:07:48.407275
 url: "/cdr-researcher-census/researchers/raquel-capella-a5058540/"
 layout: "researcher"
 hiddenInHomeList: true

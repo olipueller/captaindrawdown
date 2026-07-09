@@ -1,7 +1,7 @@
 ---
 title: "Erin Peiffer"
 description: "Erin Peiffer is a Mid-career Ocean CDR researcher at Center for Health and Gender Equity in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.763769
+date: 2026-07-10T01:07:48.708518
 url: "/cdr-researcher-census/researchers/erin-peiffer-a5055496/"
 layout: "researcher"
 hiddenInHomeList: true

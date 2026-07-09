@@ -1,7 +1,7 @@
 ---
 title: "Xinlong Wang"
 description: "Xinlong Wang is a Mid-career Biochar researcher at Dalian University of Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.979287
+date: 2026-07-10T01:07:48.899365
 url: "/cdr-researcher-census/researchers/xinlong-wang-a5033500/"
 layout: "researcher"
 hiddenInHomeList: true

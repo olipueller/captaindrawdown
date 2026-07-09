@@ -1,7 +1,7 @@
 ---
 title: "Samuel Emebu"
 description: "Samuel Emebu is a Mid-career General CDR researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.265767
+date: 2026-07-10T01:07:48.272310
 url: "/cdr-researcher-census/researchers/samuel-emebu-a5009188/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yujun Ma"
 description: "Yujun Ma is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 56 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.107964
+date: 2026-07-10T01:07:47.193270
 url: "/cdr-researcher-census/researchers/yujun-ma-a5013324/"
 layout: "researcher"
 hiddenInHomeList: true

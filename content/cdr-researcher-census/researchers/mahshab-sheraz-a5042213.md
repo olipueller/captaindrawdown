@@ -1,7 +1,7 @@
 ---
 title: "Mahshab Sheraz"
 description: "Mahshab Sheraz is a Mid-career Biochar researcher at Shandong University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.659660
+date: 2026-07-10T01:07:47.717174
 url: "/cdr-researcher-census/researchers/mahshab-sheraz-a5042213/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christopher Hamann"
 description: "Christopher Hamann is a Senior General CDR researcher at Museum für Naturkunde in DE. With 75 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.264340
+date: 2026-07-10T01:07:47.348167
 url: "/cdr-researcher-census/researchers/christopher-hamann-a5061006/"
 layout: "researcher"
 hiddenInHomeList: true

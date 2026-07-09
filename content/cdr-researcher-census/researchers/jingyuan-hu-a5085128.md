@@ -1,7 +1,7 @@
 ---
 title: "Jingyuan Hu"
 description: "Jingyuan Hu is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.626510
+date: 2026-07-10T01:07:47.686465
 url: "/cdr-researcher-census/researchers/jingyuan-hu-a5085128/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "S.E.M. Dekker"
 description: "S.E.M. Dekker is a Senior Unknown researcher at FrieslandCampina (Netherlands) in NL. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.543159
+date: 2026-07-10T01:07:48.524410
 url: "/cdr-researcher-census/researchers/sem-dekker-a5050515/"
 layout: "researcher"
 hiddenInHomeList: true

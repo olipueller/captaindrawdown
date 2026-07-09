@@ -1,7 +1,7 @@
 ---
 title: "Gavin P. Davey"
 description: "Gavin P. Davey is a Senior Unknown researcher at Trinity College Dublin in IE. With 88 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.988409
+date: 2026-07-10T01:07:47.042768
 url: "/cdr-researcher-census/researchers/gavin-p-davey-a5032729/"
 layout: "researcher"
 hiddenInHomeList: true

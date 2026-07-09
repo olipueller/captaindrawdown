@@ -1,7 +1,7 @@
 ---
 title: "Patcharaporn Phuinthiang"
 description: "Patcharaporn Phuinthiang is a Mid-career Unknown researcher at Rajamangala University of Technology Rattanakosin in TH. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.828248
+date: 2026-07-10T01:07:48.762243
 url: "/cdr-researcher-census/researchers/patcharaporn-phuinthiang-a5007326/"
 layout: "researcher"
 hiddenInHomeList: true

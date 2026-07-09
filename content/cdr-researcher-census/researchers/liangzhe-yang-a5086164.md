@@ -1,7 +1,7 @@
 ---
 title: "Liangzhe Yang"
 description: "Liangzhe Yang is an Early-career Unknown researcher at Wuhan Institute of Geo-Environmental Industry and Technology (China) in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.130515
+date: 2026-07-10T01:07:49.035031
 url: "/cdr-researcher-census/researchers/liangzhe-yang-a5086164/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Takaya Miyazaki"
 description: "Takaya Miyazaki is a Mid-career Soil Carbon researcher at The University of Tokyo in JP. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.032593
+date: 2026-07-10T01:07:48.947702
 url: "/cdr-researcher-census/researchers/takaya-miyazaki-a5048750/"
 layout: "researcher"
 hiddenInHomeList: true

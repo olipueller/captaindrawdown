@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Chen"
 description: "Xiaowei Chen is a Senior Soil Carbon researcher at Xiamen University in CN. With 59 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.255877
+date: 2026-07-10T01:07:47.340278
 url: "/cdr-researcher-census/researchers/xiaowei-chen-a5100457/"
 layout: "researcher"
 hiddenInHomeList: true

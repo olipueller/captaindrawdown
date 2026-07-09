@@ -1,7 +1,7 @@
 ---
 title: "Fatma A. Gomaa"
 description: "Fatma A. Gomaa is a Mid-career Unknown researcher at Ain Shams University in EG. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.976011
+date: 2026-07-10T01:07:48.895983
 url: "/cdr-researcher-census/researchers/fatma-a-gomaa-a5011923/"
 layout: "researcher"
 hiddenInHomeList: true

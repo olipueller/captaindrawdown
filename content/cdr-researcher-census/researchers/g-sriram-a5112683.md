@@ -1,7 +1,7 @@
 ---
 title: "G. Sriram"
 description: "G. Sriram is a Senior Unknown researcher at National Institute of Oceanography in IN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.020457
+date: 2026-07-10T01:07:48.028233
 url: "/cdr-researcher-census/researchers/g-sriram-a5112683/"
 layout: "researcher"
 hiddenInHomeList: true

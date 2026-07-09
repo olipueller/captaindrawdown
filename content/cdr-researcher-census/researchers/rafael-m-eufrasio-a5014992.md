@@ -1,7 +1,7 @@
 ---
 title: "Rafael M. Eufrasio"
 description: "Rafael M. Eufrasio is a Mid-career General CDR researcher at University of Sheffield in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.316045
+date: 2026-07-10T01:07:47.398284
 url: "/cdr-researcher-census/researchers/rafael-m-eufrasio-a5014992/"
 layout: "researcher"
 hiddenInHomeList: true

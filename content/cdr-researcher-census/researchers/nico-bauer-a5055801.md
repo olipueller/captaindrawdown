@@ -1,7 +1,7 @@
 ---
 title: "Nico Bauer"
 description: "Nico Bauer is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 204 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.887670
+date: 2026-07-10T01:07:46.855532
 url: "/cdr-researcher-census/researchers/nico-bauer-a5055801/"
 layout: "researcher"
 hiddenInHomeList: true

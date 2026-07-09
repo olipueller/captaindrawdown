@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Michniewicz"
 description: "Aleksandra Michniewicz is a Mid-career Unknown researcher at University of Wrocław in PL. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.135001
+date: 2026-07-10T01:07:48.156944
 url: "/cdr-researcher-census/researchers/aleksandra-michniewicz-a5067498/"
 layout: "researcher"
 hiddenInHomeList: true

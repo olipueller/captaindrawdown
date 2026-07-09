@@ -1,7 +1,7 @@
 ---
 title: "Debashis Panda"
 description: "Debashis Panda is a Mid-career Unknown researcher at Indian Institute of Technology Indore in IN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.730159
+date: 2026-07-10T01:07:47.782067
 url: "/cdr-researcher-census/researchers/debashis-panda-a5036059/"
 layout: "researcher"
 hiddenInHomeList: true

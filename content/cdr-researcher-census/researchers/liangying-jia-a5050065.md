@@ -1,7 +1,7 @@
 ---
 title: "Liangying Jia"
 description: "Liangying Jia is a Mid-career Unknown researcher at Shandong University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.203683
+date: 2026-07-10T01:07:49.116373
 url: "/cdr-researcher-census/researchers/liangying-jia-a5050065/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chenyun Zhou"
 description: "Chenyun Zhou is a Mid-career Biochar researcher at Central South University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.794011
+date: 2026-07-10T01:07:47.842332
 url: "/cdr-researcher-census/researchers/chenyun-zhou-a5016779/"
 layout: "researcher"
 hiddenInHomeList: true

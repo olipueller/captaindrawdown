@@ -1,7 +1,7 @@
 ---
 title: "Zois Tsinas"
 description: "Zois Tsinas is a Mid-career General CDR researcher at National Institute of Standards and Technology in US. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.976797
+date: 2026-07-10T01:07:47.986693
 url: "/cdr-researcher-census/researchers/zois-tsinas-a5088380/"
 layout: "researcher"
 hiddenInHomeList: true

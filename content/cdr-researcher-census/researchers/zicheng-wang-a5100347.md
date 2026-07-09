@@ -1,7 +1,7 @@
 ---
 title: "Zicheng Wang"
 description: "Zicheng Wang is a Mid-career Soil Carbon researcher at Binzhou Medical University in CN. With 50 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.362931
+date: 2026-07-10T01:07:47.444956
 url: "/cdr-researcher-census/researchers/zicheng-wang-a5100347/"
 layout: "researcher"
 hiddenInHomeList: true

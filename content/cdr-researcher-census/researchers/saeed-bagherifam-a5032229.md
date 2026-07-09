@@ -1,7 +1,7 @@
 ---
 title: "Saeed Bagherifam"
 description: "Saeed Bagherifam is a Senior Biochar researcher at University of Northern British Columbia in CA. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.519284
+date: 2026-07-10T01:07:47.586606
 url: "/cdr-researcher-census/researchers/saeed-bagherifam-a5032229/"
 layout: "researcher"
 hiddenInHomeList: true

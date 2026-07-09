@@ -1,7 +1,7 @@
 ---
 title: "Jiachao Zhou"
 description: "Jiachao Zhou is a Senior Unknown researcher at Linyi University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.151160
+date: 2026-07-10T01:07:47.239348
 url: "/cdr-researcher-census/researchers/jiachao-zhou-a5056877/"
 layout: "researcher"
 hiddenInHomeList: true

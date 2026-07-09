@@ -1,7 +1,7 @@
 ---
 title: "Zoltán Somogyi"
 description: "Zoltán Somogyi is a Senior General CDR researcher. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.179335
+date: 2026-07-10T01:07:47.268299
 url: "/cdr-researcher-census/researchers/zoltan-somogyi-a5102982/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Morris"
 description: "Jennifer Morris is a Senior General CDR researcher at Massachusetts Institute of Technology Joint Program on the Science and Policy of Global Change in US. With 140 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.989459
+date: 2026-07-10T01:07:47.044413
 url: "/cdr-researcher-census/researchers/jennifer-morris-a5077783/"
 layout: "researcher"
 hiddenInHomeList: true

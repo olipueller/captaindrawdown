@@ -1,7 +1,7 @@
 ---
 title: "Hongtian Luo"
 description: "Hongtian Luo is a Mid-career Ocean CDR researcher at Hainan University in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.784924
+date: 2026-07-10T01:07:47.833524
 url: "/cdr-researcher-census/researchers/hongtian-luo-a5100730/"
 layout: "researcher"
 hiddenInHomeList: true

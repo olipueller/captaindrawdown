@@ -1,7 +1,7 @@
 ---
 title: "S. M. Shamsuzzaman"
 description: "S. M. Shamsuzzaman is a Mid-career Soil Carbon researcher at Bangladesh Institute of Development Studies in BD. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.598761
+date: 2026-07-10T01:07:48.562474
 url: "/cdr-researcher-census/researchers/s-m-shamsuzzaman-a5057106/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Leo Daniel Alexander"
 description: "Leo Daniel Alexander is a Senior Unknown researcher at Indian Institute of Technology Bombay in IN. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.691354
+date: 2026-07-10T01:07:47.747363
 url: "/cdr-researcher-census/researchers/leo-daniel-alexander-a5102835/"
 layout: "researcher"
 hiddenInHomeList: true

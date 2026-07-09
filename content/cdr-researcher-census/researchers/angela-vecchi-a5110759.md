@@ -1,7 +1,7 @@
 ---
 title: "Angela Vecchi"
 description: "Angela Vecchi is a Senior Soil Carbon researcher at University of Bologna in IT. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.323725
+date: 2026-07-10T01:07:48.324364
 url: "/cdr-researcher-census/researchers/angela-vecchi-a5110759/"
 layout: "researcher"
 hiddenInHomeList: true

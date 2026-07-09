@@ -1,7 +1,7 @@
 ---
 title: "Angela Tetteh Tawiah"
 description: "Angela Tetteh Tawiah is an Early-career Biochar researcher at OST - Ostschweizer Fachhochschule in CH. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.244755
+date: 2026-07-10T01:07:49.152868
 url: "/cdr-researcher-census/researchers/angela-tetteh-tawiah-a5066155/"
 layout: "researcher"
 hiddenInHomeList: true

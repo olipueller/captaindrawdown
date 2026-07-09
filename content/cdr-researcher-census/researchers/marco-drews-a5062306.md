@@ -1,7 +1,7 @@
 ---
 title: "Marco Drews"
 description: "Marco Drews is a Mid-career Unknown researcher at Leibniz Centre for Tropical Marine Research in DE. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.197321
+date: 2026-07-10T01:07:49.110534
 url: "/cdr-researcher-census/researchers/marco-drews-a5062306/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lilla Mielnik"
 description: "Lilla Mielnik is a Senior Soil Carbon researcher at West Pomeranian University of Technology in Szczecin in PL. With 55 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.814307
+date: 2026-07-10T01:07:47.860976
 url: "/cdr-researcher-census/researchers/lilla-mielnik-a5013251/"
 layout: "researcher"
 hiddenInHomeList: true

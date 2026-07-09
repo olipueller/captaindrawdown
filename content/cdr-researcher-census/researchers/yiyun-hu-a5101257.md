@@ -1,7 +1,7 @@
 ---
 title: "Yiyun Hu"
 description: "Yiyun Hu is a Senior Soil Carbon researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.351007
+date: 2026-07-10T01:07:48.349272
 url: "/cdr-researcher-census/researchers/yiyun-hu-a5101257/"
 layout: "researcher"
 hiddenInHomeList: true

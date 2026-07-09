@@ -1,7 +1,7 @@
 ---
 title: "Amal Kanti Deb"
 description: "Amal Kanti Deb is a Mid-career Biochar researcher at University of Dhaka in BD. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.932723
+date: 2026-07-10T01:07:47.945454
 url: "/cdr-researcher-census/researchers/amal-kanti-deb-a5088433/"
 layout: "researcher"
 hiddenInHomeList: true

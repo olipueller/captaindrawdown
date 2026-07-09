@@ -1,7 +1,7 @@
 ---
 title: "Ewoud Cosaert"
 description: "Ewoud Cosaert is a Mid-career Unknown researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.793667
+date: 2026-07-10T01:07:47.842046
 url: "/cdr-researcher-census/researchers/ewoud-cosaert-a5047997/"
 layout: "researcher"
 hiddenInHomeList: true

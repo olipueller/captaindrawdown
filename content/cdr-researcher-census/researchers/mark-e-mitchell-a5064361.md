@@ -1,7 +1,7 @@
 ---
 title: "Mark E. Mitchell"
 description: "Mark E. Mitchell is a Mid-career Soil Carbon researcher at Environmental Protection Agency in US. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.846818
+date: 2026-07-10T01:07:47.882552
 url: "/cdr-researcher-census/researchers/mark-e-mitchell-a5064361/"
 layout: "researcher"
 hiddenInHomeList: true

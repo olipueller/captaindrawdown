@@ -1,7 +1,7 @@
 ---
 title: "Laura Lorini"
 description: "Laura Lorini is a Mid-career Biochar researcher at Sapienza University of Rome in IT. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.345770
+date: 2026-07-10T01:07:47.428471
 url: "/cdr-researcher-census/researchers/laura-lorini-a5085911/"
 layout: "researcher"
 hiddenInHomeList: true

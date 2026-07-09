@@ -1,7 +1,7 @@
 ---
 title: "Yuankang Xiong"
 description: "Yuankang Xiong is a Mid-career General CDR researcher at Fudan University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.324750
+date: 2026-07-10T01:07:47.406813
 url: "/cdr-researcher-census/researchers/yuankang-xiong-a5040268/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Geng Guo"
 description: "Geng Guo is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.832147
+date: 2026-07-10T01:07:48.766030
 url: "/cdr-researcher-census/researchers/geng-guo-a5012450/"
 layout: "researcher"
 hiddenInHomeList: true

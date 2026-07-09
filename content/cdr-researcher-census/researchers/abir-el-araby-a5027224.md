@@ -1,7 +1,7 @@
 ---
 title: "Abir El-araby"
 description: "Abir El-araby is a Mid-career Unknown researcher at Université Ibn Zohr in MA. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.747300
+date: 2026-07-10T01:07:47.799119
 url: "/cdr-researcher-census/researchers/abir-el-araby-a5027224/"
 layout: "researcher"
 hiddenInHomeList: true

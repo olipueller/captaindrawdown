@@ -1,7 +1,7 @@
 ---
 title: "J.P. Lesschen"
 description: "J.P. Lesschen is an Eminent Soil Carbon researcher at Wageningen University & Research in NL. With 234 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.922953
+date: 2026-07-10T01:07:46.932861
 url: "/cdr-researcher-census/researchers/jp-lesschen-a5034354/"
 layout: "researcher"
 hiddenInHomeList: true

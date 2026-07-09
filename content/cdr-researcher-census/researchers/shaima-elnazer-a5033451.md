@@ -1,7 +1,7 @@
 ---
 title: "Shaima Elnazer"
 description: "Shaima Elnazer is a Mid-career Unknown researcher at Higher Institute of Engineering in EG. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.433938
+date: 2026-07-10T01:07:48.424175
 url: "/cdr-researcher-census/researchers/shaima-elnazer-a5033451/"
 layout: "researcher"
 hiddenInHomeList: true

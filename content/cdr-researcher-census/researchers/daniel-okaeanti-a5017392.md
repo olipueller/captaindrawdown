@@ -1,7 +1,7 @@
 ---
 title: "Daniel Okae‐Anti"
 description: "Daniel Okae‐Anti is a Senior Unknown researcher at University of Cape Coast in GH. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.269324
+date: 2026-07-10T01:07:48.275522
 url: "/cdr-researcher-census/researchers/daniel-okaeanti-a5017392/"
 layout: "researcher"
 hiddenInHomeList: true

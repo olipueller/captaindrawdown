@@ -1,7 +1,7 @@
 ---
 title: "Steven Dauwe"
 description: "Steven Dauwe is a Mid-career Ocean CDR researcher at Flanders Marine Institute in BE. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.837629
+date: 2026-07-10T01:07:48.770340
 url: "/cdr-researcher-census/researchers/steven-dauwe-a5089340/"
 layout: "researcher"
 hiddenInHomeList: true

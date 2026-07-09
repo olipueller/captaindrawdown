@@ -1,7 +1,7 @@
 ---
 title: "Guorui Lv"
 description: "Guorui Lv is a Mid-career Unknown researcher at National University of Defense Technology in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.871945
+date: 2026-07-10T01:07:48.800070
 url: "/cdr-researcher-census/researchers/guorui-lv-a5101190/"
 layout: "researcher"
 hiddenInHomeList: true

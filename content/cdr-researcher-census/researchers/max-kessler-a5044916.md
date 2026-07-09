@@ -1,7 +1,7 @@
 ---
 title: "Max Kessler"
 description: "Max Kessler is a Senior Unknown researcher at Stanford University in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.556826
+date: 2026-07-10T01:07:47.620945
 url: "/cdr-researcher-census/researchers/max-kessler-a5044916/"
 layout: "researcher"
 hiddenInHomeList: true

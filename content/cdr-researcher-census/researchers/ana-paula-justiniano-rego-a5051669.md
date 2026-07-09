@@ -1,7 +1,7 @@
 ---
 title: "Ana Paula Justiniano Régo"
 description: "Ana Paula Justiniano Régo is a Mid-career Unknown researcher at Universidade de São Paulo in BR. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.224311
+date: 2026-07-10T01:07:49.134341
 url: "/cdr-researcher-census/researchers/ana-paula-justiniano-rego-a5051669/"
 layout: "researcher"
 hiddenInHomeList: true

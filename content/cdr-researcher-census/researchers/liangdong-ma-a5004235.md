@@ -1,7 +1,7 @@
 ---
 title: "Liangdong Ma"
 description: "Liangdong Ma is a Senior Unknown researcher at Dalian University of Technology in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.225582
+date: 2026-07-10T01:07:48.235885
 url: "/cdr-researcher-census/researchers/liangdong-ma-a5004235/"
 layout: "researcher"
 hiddenInHomeList: true

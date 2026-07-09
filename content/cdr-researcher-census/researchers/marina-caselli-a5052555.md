@@ -1,7 +1,7 @@
 ---
 title: "Marina Caselli"
 description: "Marina Caselli is a Mid-career Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.914223
+date: 2026-07-10T01:07:48.838771
 url: "/cdr-researcher-census/researchers/marina-caselli-a5052555/"
 layout: "researcher"
 hiddenInHomeList: true

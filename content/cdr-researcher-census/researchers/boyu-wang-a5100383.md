@@ -1,7 +1,7 @@
 ---
 title: "Boyu Wang"
 description: "Boyu Wang is a Mid-career Unknown researcher at Beijing University of Civil Engineering and Architecture in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.263279
+date: 2026-07-10T01:07:48.270281
 url: "/cdr-researcher-census/researchers/boyu-wang-a5100383/"
 layout: "researcher"
 hiddenInHomeList: true

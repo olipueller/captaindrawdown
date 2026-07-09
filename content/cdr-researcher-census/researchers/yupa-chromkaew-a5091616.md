@@ -1,7 +1,7 @@
 ---
 title: "Yupa Chromkaew"
 description: "Yupa Chromkaew is a Mid-career Soil Carbon researcher at Chiang Mai University in TH. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.085143
+date: 2026-07-10T01:07:48.086144
 url: "/cdr-researcher-census/researchers/yupa-chromkaew-a5091616/"
 layout: "researcher"
 hiddenInHomeList: true

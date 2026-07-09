@@ -1,7 +1,7 @@
 ---
 title: "Shenghao Ai"
 description: "Shenghao Ai is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.741978
+date: 2026-07-10T01:07:47.793986
 url: "/cdr-researcher-census/researchers/shenghao-ai-a5003785/"
 layout: "researcher"
 hiddenInHomeList: true

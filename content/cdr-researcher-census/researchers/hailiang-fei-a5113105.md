@@ -1,7 +1,7 @@
 ---
 title: "Hailiang Fei"
 description: "Hailiang Fei is a Mid-career Soil Carbon researcher at Zhejiang Sci-Tech University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.309319
+date: 2026-07-10T01:07:48.312100
 url: "/cdr-researcher-census/researchers/hailiang-fei-a5113105/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mainu Hazarika"
 description: "Mainu Hazarika is a Mid-career Unknown researcher at Rajiv Gandhi University in IN. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.044353
+date: 2026-07-10T01:07:48.957960
 url: "/cdr-researcher-census/researchers/mainu-hazarika-a5111069/"
 layout: "researcher"
 hiddenInHomeList: true

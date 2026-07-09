@@ -1,7 +1,7 @@
 ---
 title: "Marián Homolák"
 description: "Marián Homolák is a Senior Soil Carbon researcher at Technická univerzita vo Zvolene in SK. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.786348
+date: 2026-07-10T01:07:47.835003
 url: "/cdr-researcher-census/researchers/marian-homolak-a5043697/"
 layout: "researcher"
 hiddenInHomeList: true

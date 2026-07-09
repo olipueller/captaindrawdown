@@ -1,7 +1,7 @@
 ---
 title: "Chejarla Venkatesh Reddy"
 description: "Chejarla Venkatesh Reddy is a Mid-career Unknown researcher at Hanyang University in KR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.724879
+date: 2026-07-10T01:07:48.674392
 url: "/cdr-researcher-census/researchers/chejarla-venkatesh-reddy-a5010227/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ruiyan Shan"
 description: "Ruiyan Shan is a Senior Unknown researcher at Beijing Institute of Technology in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.956588
+date: 2026-07-10T01:07:48.878404
 url: "/cdr-researcher-census/researchers/ruiyan-shan-a5109586/"
 layout: "researcher"
 hiddenInHomeList: true

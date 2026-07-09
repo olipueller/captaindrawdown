@@ -1,7 +1,7 @@
 ---
 title: "Navid Tavakoli"
 description: "Navid Tavakoli is a Mid-career Unknown researcher at University of Stuttgart in DE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.963916
+date: 2026-07-10T01:07:47.974434
 url: "/cdr-researcher-census/researchers/navid-tavakoli-a5082969/"
 layout: "researcher"
 hiddenInHomeList: true

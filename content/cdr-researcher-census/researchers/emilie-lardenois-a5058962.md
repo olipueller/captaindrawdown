@@ -1,7 +1,7 @@
 ---
 title: "Émilie Lardenois"
 description: "Émilie Lardenois is a Mid-career Unknown researcher at Université de Lorraine in FR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.827759
+date: 2026-07-10T01:07:48.761798
 url: "/cdr-researcher-census/researchers/emilie-lardenois-a5058962/"
 layout: "researcher"
 hiddenInHomeList: true

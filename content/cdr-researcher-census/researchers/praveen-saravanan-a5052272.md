@@ -1,7 +1,7 @@
 ---
 title: "Praveen Saravanan"
 description: "Praveen Saravanan is a Mid-career Biochar researcher at Carbon Fresh Climate India Private Limited in IN. With 33 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.314578
+date: 2026-07-10T01:07:47.396663
 url: "/cdr-researcher-census/researchers/praveen-saravanan-a5052272/"
 layout: "researcher"
 hiddenInHomeList: true

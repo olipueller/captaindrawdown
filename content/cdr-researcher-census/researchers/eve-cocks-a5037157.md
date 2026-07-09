@@ -1,7 +1,7 @@
 ---
 title: "Eve Cocks"
 description: "Eve Cocks is a Mid-career Unknown researcher. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.380142
+date: 2026-07-10T01:07:47.461809
 url: "/cdr-researcher-census/researchers/eve-cocks-a5037157/"
 layout: "researcher"
 hiddenInHomeList: true

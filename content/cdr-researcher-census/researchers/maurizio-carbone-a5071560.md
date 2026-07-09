@@ -1,7 +1,7 @@
 ---
 title: "Maurizio Carbone"
 description: "Maurizio Carbone is a Mid-career Unknown researcher at University of Rome Tor Vergata in IT. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.556889
+date: 2026-07-10T01:07:48.537053
 url: "/cdr-researcher-census/researchers/maurizio-carbone-a5071560/"
 layout: "researcher"
 hiddenInHomeList: true

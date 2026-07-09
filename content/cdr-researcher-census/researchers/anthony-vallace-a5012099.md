@@ -1,7 +1,7 @@
 ---
 title: "Anthony Vallace"
 description: "Anthony Vallace is a Mid-career Unknown researcher at Georgia Institute of Technology in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.779221
+date: 2026-07-10T01:07:48.722646
 url: "/cdr-researcher-census/researchers/anthony-vallace-a5012099/"
 layout: "researcher"
 hiddenInHomeList: true

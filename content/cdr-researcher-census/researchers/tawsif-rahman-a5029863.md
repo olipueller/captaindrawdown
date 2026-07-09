@@ -1,7 +1,7 @@
 ---
 title: "Tawsif Rahman"
 description: "Tawsif Rahman is a Mid-career General CDR researcher at The University of Texas at Austin in US. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.603381
+date: 2026-07-10T01:07:47.665033
 url: "/cdr-researcher-census/researchers/tawsif-rahman-a5029863/"
 layout: "researcher"
 hiddenInHomeList: true

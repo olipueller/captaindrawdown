@@ -1,7 +1,7 @@
 ---
 title: "Zizhang Guo"
 description: "Zizhang Guo is a Senior Biochar researcher at Shandong University in CN. With 113 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.987790
+date: 2026-07-10T01:07:47.042092
 url: "/cdr-researcher-census/researchers/zizhang-guo-a5015758/"
 layout: "researcher"
 hiddenInHomeList: true

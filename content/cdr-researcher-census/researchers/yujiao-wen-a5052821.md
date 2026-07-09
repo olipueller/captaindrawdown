@@ -1,7 +1,7 @@
 ---
 title: "Yujiao Wen"
 description: "Yujiao Wen is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 22 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.856071
+date: 2026-07-10T01:07:47.891559
 url: "/cdr-researcher-census/researchers/yujiao-wen-a5052821/"
 layout: "researcher"
 hiddenInHomeList: true

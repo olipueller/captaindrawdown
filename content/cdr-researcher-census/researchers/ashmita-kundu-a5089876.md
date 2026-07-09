@@ -1,7 +1,7 @@
 ---
 title: "Ashmita Kundu"
 description: "Ashmita Kundu is an Early-career Unknown researcher at Indian Institute of Technology Guwahati in IN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.114869
+date: 2026-07-10T01:07:49.021134
 url: "/cdr-researcher-census/researchers/ashmita-kundu-a5089876/"
 layout: "researcher"
 hiddenInHomeList: true

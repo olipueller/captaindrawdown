@@ -1,7 +1,7 @@
 ---
 title: "Laura García‐Velázquez"
 description: "Laura García‐Velázquez is a Mid-career Unknown researcher at Universidad Pablo de Olavide in ES. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.040633
+date: 2026-07-10T01:07:47.113059
 url: "/cdr-researcher-census/researchers/laura-garciavelazquez-a5024541/"
 layout: "researcher"
 hiddenInHomeList: true

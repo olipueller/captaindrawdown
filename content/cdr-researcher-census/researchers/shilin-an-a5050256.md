@@ -1,7 +1,7 @@
 ---
 title: "ShiLin An"
 description: "ShiLin An is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.978512
+date: 2026-07-10T01:07:47.988234
 url: "/cdr-researcher-census/researchers/shilin-an-a5050256/"
 layout: "researcher"
 hiddenInHomeList: true

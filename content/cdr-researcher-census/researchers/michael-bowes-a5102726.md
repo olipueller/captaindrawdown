@@ -1,7 +1,7 @@
 ---
 title: "Michael Bowes"
 description: "Michael Bowes is a Mid-career Unknown researcher at British Geological Survey in GB. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.520102
+date: 2026-07-10T01:07:48.503248
 url: "/cdr-researcher-census/researchers/michael-bowes-a5102726/"
 layout: "researcher"
 hiddenInHomeList: true

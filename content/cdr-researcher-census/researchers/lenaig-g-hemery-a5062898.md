@@ -1,7 +1,7 @@
 ---
 title: "Lenaïg G. Hemery"
 description: "Lenaïg G. Hemery is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory Marine Sciences Laboratory in US. With 66 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.330157
+date: 2026-07-10T01:07:47.412099
 url: "/cdr-researcher-census/researchers/lenaig-g-hemery-a5062898/"
 layout: "researcher"
 hiddenInHomeList: true

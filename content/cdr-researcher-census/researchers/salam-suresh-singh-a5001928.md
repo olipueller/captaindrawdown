@@ -1,7 +1,7 @@
 ---
 title: "Salam Suresh Singh"
 description: "Salam Suresh Singh is a Mid-career Soil Carbon researcher at Mizoram University in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.190310
+date: 2026-07-10T01:07:49.104164
 url: "/cdr-researcher-census/researchers/salam-suresh-singh-a5001928/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Erick Oblitas Mendoza"
 description: "Erick Oblitas Mendoza is a Mid-career Unknown researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.841863
+date: 2026-07-10T01:07:47.877445
 url: "/cdr-researcher-census/researchers/erick-oblitas-mendoza-a5019996/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jawad Mustafa"
 description: "Jawad Mustafa is a Mid-career Ocean CDR researcher at Northumbria University in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.707639
+date: 2026-07-10T01:07:47.761907
 url: "/cdr-researcher-census/researchers/jawad-mustafa-a5085245/"
 layout: "researcher"
 hiddenInHomeList: true

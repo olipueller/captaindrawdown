@@ -1,7 +1,7 @@
 ---
 title: "Fatma Gharbi"
 description: "Fatma Gharbi is a Senior Soil Carbon researcher at Tunis El Manar University in TN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.669223
+date: 2026-07-10T01:07:47.726442
 url: "/cdr-researcher-census/researchers/fatma-gharbi-a5004902/"
 layout: "researcher"
 hiddenInHomeList: true

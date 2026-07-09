@@ -1,7 +1,7 @@
 ---
 title: "Heqing Cai"
 description: "Heqing Cai is a Mid-career Biochar researcher at China Tobacco in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.925799
+date: 2026-07-10T01:07:48.849232
 url: "/cdr-researcher-census/researchers/heqing-cai-a5061492/"
 layout: "researcher"
 hiddenInHomeList: true

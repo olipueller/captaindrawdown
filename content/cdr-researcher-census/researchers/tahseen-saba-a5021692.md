@@ -1,7 +1,7 @@
 ---
 title: "Tahseen Saba"
 description: "Tahseen Saba is a Mid-career Soil Carbon researcher at Chengdu Institute of Biology in CN. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.694931
+date: 2026-07-10T01:07:48.648188
 url: "/cdr-researcher-census/researchers/tahseen-saba-a5021692/"
 layout: "researcher"
 hiddenInHomeList: true

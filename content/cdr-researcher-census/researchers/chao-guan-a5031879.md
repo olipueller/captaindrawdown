@@ -1,7 +1,7 @@
 ---
 title: "Chao Guan"
 description: "Chao Guan is a Senior Unknown researcher at Lanzhou University in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.921746
+date: 2026-07-10T01:07:47.935358
 url: "/cdr-researcher-census/researchers/chao-guan-a5031879/"
 layout: "researcher"
 hiddenInHomeList: true

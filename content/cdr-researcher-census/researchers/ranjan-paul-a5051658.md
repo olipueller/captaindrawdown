@@ -1,7 +1,7 @@
 ---
 title: "Ranjan Paul"
 description: "Ranjan Paul is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.998706
+date: 2026-07-10T01:07:48.007914
 url: "/cdr-researcher-census/researchers/ranjan-paul-a5051658/"
 layout: "researcher"
 hiddenInHomeList: true

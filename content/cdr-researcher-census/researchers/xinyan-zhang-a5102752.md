@@ -1,7 +1,7 @@
 ---
 title: "Xinyan Zhang"
 description: "Xinyan Zhang is a Senior Unknown researcher at Xi'an University of Science and Technology in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.153869
+date: 2026-07-10T01:07:48.173281
 url: "/cdr-researcher-census/researchers/xinyan-zhang-a5102752/"
 layout: "researcher"
 hiddenInHomeList: true

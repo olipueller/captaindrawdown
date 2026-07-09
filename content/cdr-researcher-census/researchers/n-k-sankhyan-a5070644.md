@@ -1,7 +1,7 @@
 ---
 title: "N. K. Sankhyan"
 description: "N. K. Sankhyan is a Mid-career Soil Carbon researcher at Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya in IN. With 57 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.908225
+date: 2026-07-10T01:07:47.921848
 url: "/cdr-researcher-census/researchers/n-k-sankhyan-a5070644/"
 layout: "researcher"
 hiddenInHomeList: true

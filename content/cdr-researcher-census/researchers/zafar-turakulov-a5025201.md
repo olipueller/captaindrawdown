@@ -1,7 +1,7 @@
 ---
 title: "Zafar Turakulov"
 description: "Zafar Turakulov is a Mid-career Unknown researcher at Karshi State University in UZ. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.539877
+date: 2026-07-10T01:07:48.521544
 url: "/cdr-researcher-census/researchers/zafar-turakulov-a5025201/"
 layout: "researcher"
 hiddenInHomeList: true

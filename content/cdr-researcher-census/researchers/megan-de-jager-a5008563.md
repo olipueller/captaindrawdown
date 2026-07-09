@@ -1,7 +1,7 @@
 ---
 title: "Megan de Jager"
 description: "Megan de Jager is a Mid-career Soil Carbon researcher at Carl von Ossietzky Universität Oldenburg in DE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.563846
+date: 2026-07-10T01:07:48.543051
 url: "/cdr-researcher-census/researchers/megan-de-jager-a5008563/"
 layout: "researcher"
 hiddenInHomeList: true

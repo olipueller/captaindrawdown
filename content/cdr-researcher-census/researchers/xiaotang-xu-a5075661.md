@@ -1,7 +1,7 @@
 ---
 title: "Xiaotang Xu"
 description: "Xiaotang Xu is a Mid-career Unknown researcher at Chongqing University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.937062
+date: 2026-07-10T01:07:48.859708
 url: "/cdr-researcher-census/researchers/xiaotang-xu-a5075661/"
 layout: "researcher"
 hiddenInHomeList: true

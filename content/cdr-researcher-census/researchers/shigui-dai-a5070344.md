@@ -1,7 +1,7 @@
 ---
 title: "Shigui Dai"
 description: "Shigui Dai is a Senior Unknown researcher at China Earthquake Administration in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.803227
+date: 2026-07-10T01:07:48.742046
 url: "/cdr-researcher-census/researchers/shigui-dai-a5070344/"
 layout: "researcher"
 hiddenInHomeList: true

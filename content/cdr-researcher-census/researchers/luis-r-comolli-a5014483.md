@@ -1,7 +1,7 @@
 ---
 title: "Luis R. Comolli"
 description: "Luis R. Comolli is a Senior Soil Carbon researcher. With 94 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.953143
+date: 2026-07-10T01:07:46.987594
 url: "/cdr-researcher-census/researchers/luis-r-comolli-a5014483/"
 layout: "researcher"
 hiddenInHomeList: true

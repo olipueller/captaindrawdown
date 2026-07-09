@@ -1,7 +1,7 @@
 ---
 title: "Yuhao Zhu"
 description: "Yuhao Zhu is a Mid-career Unknown researcher. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.860506
+date: 2026-07-10T01:07:47.895649
 url: "/cdr-researcher-census/researchers/yuhao-zhu-a5047647/"
 layout: "researcher"
 hiddenInHomeList: true

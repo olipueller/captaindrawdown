@@ -1,7 +1,7 @@
 ---
 title: "Yu-Chen Wang"
 description: "Yu-Chen Wang is a Senior Soil Carbon researcher at Asia University in TW. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.365714
+date: 2026-07-10T01:07:48.363179
 url: "/cdr-researcher-census/researchers/yu-chen-wang-a5112399/"
 layout: "researcher"
 hiddenInHomeList: true

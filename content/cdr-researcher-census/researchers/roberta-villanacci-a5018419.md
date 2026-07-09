@@ -1,7 +1,7 @@
 ---
 title: "Roberta Villanacci"
 description: "Roberta Villanacci is a Mid-career Unknown researcher at Ospedale San Raffaele in IT. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.724785
+date: 2026-07-10T01:07:47.777359
 url: "/cdr-researcher-census/researchers/roberta-villanacci-a5018419/"
 layout: "researcher"
 hiddenInHomeList: true

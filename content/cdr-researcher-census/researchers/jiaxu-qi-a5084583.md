@@ -1,7 +1,7 @@
 ---
 title: "Jiaxu Qi"
 description: "Jiaxu Qi is a Mid-career Unknown researcher at Jiangsu University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.899186
+date: 2026-07-10T01:07:48.824790
 url: "/cdr-researcher-census/researchers/jiaxu-qi-a5084583/"
 layout: "researcher"
 hiddenInHomeList: true

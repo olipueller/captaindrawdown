@@ -1,7 +1,7 @@
 ---
 title: "Alireza Shafizadeh"
 description: "Alireza Shafizadeh is a Senior General CDR researcher at University of Tehran in IR. With 33 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.175805
+date: 2026-07-10T01:07:47.264802
 url: "/cdr-researcher-census/researchers/alireza-shafizadeh-a5073650/"
 layout: "researcher"
 hiddenInHomeList: true

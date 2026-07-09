@@ -1,7 +1,7 @@
 ---
 title: "Xianshu Dong"
 description: "Xianshu Dong is a Mid-career Unknown researcher at Taiyuan University of Technology in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.891270
+date: 2026-07-10T01:07:48.817769
 url: "/cdr-researcher-census/researchers/xianshu-dong-a5102709/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Evelyn Cardozo"
 description: "Evelyn Cardozo is a Mid-career General CDR researcher at Universidad Mayor de San Simón in BO. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.482639
+date: 2026-07-10T01:07:47.554573
 url: "/cdr-researcher-census/researchers/evelyn-cardozo-a5023387/"
 layout: "researcher"
 hiddenInHomeList: true

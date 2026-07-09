@@ -1,7 +1,7 @@
 ---
 title: "Derek Pierson"
 description: "Derek Pierson is a Mid-career General CDR researcher at Rocky Mountain Research Station in US. With 58 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.331293
+date: 2026-07-10T01:07:47.413182
 url: "/cdr-researcher-census/researchers/derek-pierson-a5015158/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yangwen Yu"
 description: "Yangwen Yu is a Mid-career Unknown researcher at University of Hong Kong in HK. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.039837
+date: 2026-07-10T01:07:48.953938
 url: "/cdr-researcher-census/researchers/yangwen-yu-a5033283/"
 layout: "researcher"
 hiddenInHomeList: true

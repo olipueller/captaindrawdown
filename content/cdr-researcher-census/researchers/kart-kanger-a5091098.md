@@ -1,7 +1,7 @@
 ---
 title: "Kärt Kanger"
 description: "Kärt Kanger is a Mid-career Unknown researcher at University of Tartu in EE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.081332
+date: 2026-07-10T01:07:48.082790
 url: "/cdr-researcher-census/researchers/kart-kanger-a5091098/"
 layout: "researcher"
 hiddenInHomeList: true

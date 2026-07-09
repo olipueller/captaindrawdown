@@ -1,7 +1,7 @@
 ---
 title: "Tao Wang"
 description: "Tao Wang is a Senior Unknown researcher at Chinese Academy of Geological Sciences in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.347337
+date: 2026-07-10T01:07:48.345962
 url: "/cdr-researcher-census/researchers/tao-wang-a5101549/"
 layout: "researcher"
 hiddenInHomeList: true

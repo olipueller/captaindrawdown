@@ -1,7 +1,7 @@
 ---
 title: "Juan D. Medrano‐García"
 description: "Juan D. Medrano‐García is a Mid-career General CDR researcher. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.809867
+date: 2026-07-10T01:07:47.856283
 url: "/cdr-researcher-census/researchers/juan-d-medranogarcia-a5072153/"
 layout: "researcher"
 hiddenInHomeList: true

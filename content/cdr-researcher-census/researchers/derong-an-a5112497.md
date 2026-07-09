@@ -1,7 +1,7 @@
 ---
 title: "Derong An"
 description: "Derong An is a Senior Unknown researcher at Ministry of Agriculture and Rural Affairs in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.786083
+date: 2026-07-10T01:07:47.834774
 url: "/cdr-researcher-census/researchers/derong-an-a5112497/"
 layout: "researcher"
 hiddenInHomeList: true

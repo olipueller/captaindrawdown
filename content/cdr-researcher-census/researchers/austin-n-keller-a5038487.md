@@ -1,7 +1,7 @@
 ---
 title: "Austin N. Keller"
 description: "Austin N. Keller is a Mid-career Unknown researcher at The University of Texas at Austin in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.175016
+date: 2026-07-10T01:07:49.064600
 url: "/cdr-researcher-census/researchers/austin-n-keller-a5038487/"
 layout: "researcher"
 hiddenInHomeList: true

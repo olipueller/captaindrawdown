@@ -1,7 +1,7 @@
 ---
 title: "Thanakorn Jiwarungrueangkul"
 description: "Thanakorn Jiwarungrueangkul is a Mid-career Soil Carbon researcher at Prince of Songkla University in TH. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.299850
+date: 2026-07-10T01:07:48.302695
 url: "/cdr-researcher-census/researchers/thanakorn-jiwarungrueangkul-a5050091/"
 layout: "researcher"
 hiddenInHomeList: true

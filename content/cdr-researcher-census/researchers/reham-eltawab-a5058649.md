@@ -1,7 +1,7 @@
 ---
 title: "Reham Eltawab"
 description: "Reham Eltawab is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.362390
+date: 2026-07-10T01:07:47.444331
 url: "/cdr-researcher-census/researchers/reham-eltawab-a5058649/"
 layout: "researcher"
 hiddenInHomeList: true

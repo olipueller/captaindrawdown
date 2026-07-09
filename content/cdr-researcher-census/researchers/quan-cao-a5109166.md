@@ -1,7 +1,7 @@
 ---
 title: "Quan Cao"
 description: "Quan Cao is a Mid-career Unknown researcher at Qinghai University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.644044
+date: 2026-07-10T01:07:48.602667
 url: "/cdr-researcher-census/researchers/quan-cao-a5109166/"
 layout: "researcher"
 hiddenInHomeList: true

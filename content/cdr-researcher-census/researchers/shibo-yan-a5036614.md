@@ -1,7 +1,7 @@
 ---
 title: "Shibo Yan"
 description: "Shibo Yan is a Mid-career Unknown researcher at Fujian Institute of Oceanography in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.624686
+date: 2026-07-10T01:07:48.585292
 url: "/cdr-researcher-census/researchers/shibo-yan-a5036614/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dominique Cagalanan"
 description: "Dominique Cagalanan is a Mid-career General CDR researcher at Coastal Carolina University in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.112032
+date: 2026-07-10T01:07:49.018836
 url: "/cdr-researcher-census/researchers/dominique-cagalanan-a5077672/"
 layout: "researcher"
 hiddenInHomeList: true

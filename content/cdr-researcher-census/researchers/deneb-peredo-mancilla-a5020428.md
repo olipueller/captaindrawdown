@@ -1,7 +1,7 @@
 ---
 title: "Deneb Peredo-Mancilla"
 description: "Deneb Peredo-Mancilla is a Mid-career Unknown researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.282261
+date: 2026-07-10T01:07:48.287720
 url: "/cdr-researcher-census/researchers/deneb-peredo-mancilla-a5020428/"
 layout: "researcher"
 hiddenInHomeList: true

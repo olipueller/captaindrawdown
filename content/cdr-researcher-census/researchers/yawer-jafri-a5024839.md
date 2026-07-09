@@ -1,7 +1,7 @@
 ---
 title: "Yawer Jafri"
 description: "Yawer Jafri is a Mid-career General CDR researcher at Luleå University of Technology in SE. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.373797
+date: 2026-07-10T01:07:48.370309
 url: "/cdr-researcher-census/researchers/yawer-jafri-a5024839/"
 layout: "researcher"
 hiddenInHomeList: true

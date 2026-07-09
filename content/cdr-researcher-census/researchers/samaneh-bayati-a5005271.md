@@ -1,7 +1,7 @@
 ---
 title: "Samaneh Bayati"
 description: "Samaneh Bayati is a Senior Unknown researcher at Northern Arizona University in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.348581
+date: 2026-07-10T01:07:48.347132
 url: "/cdr-researcher-census/researchers/samaneh-bayati-a5005271/"
 layout: "researcher"
 hiddenInHomeList: true

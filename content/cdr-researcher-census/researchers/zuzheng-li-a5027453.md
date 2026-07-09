@@ -1,7 +1,7 @@
 ---
 title: "Zuzheng Li"
 description: "Zuzheng Li is a Mid-career Soil Carbon researcher at Beijing Academy of Forestry and Landscape Architecture in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.558126
+date: 2026-07-10T01:07:47.622182
 url: "/cdr-researcher-census/researchers/zuzheng-li-a5027453/"
 layout: "researcher"
 hiddenInHomeList: true

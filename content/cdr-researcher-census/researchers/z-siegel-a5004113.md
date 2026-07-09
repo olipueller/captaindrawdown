@@ -1,7 +1,7 @@
 ---
 title: "Z. Siegel"
 description: "Z. Siegel is a Mid-career Unknown researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.196571
+date: 2026-07-10T01:07:49.109798
 url: "/cdr-researcher-census/researchers/z-siegel-a5004113/"
 layout: "researcher"
 hiddenInHomeList: true

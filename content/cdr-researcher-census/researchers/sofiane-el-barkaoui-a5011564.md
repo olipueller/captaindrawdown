@@ -1,7 +1,7 @@
 ---
 title: "Sofiane El Barkaoui"
 description: "Sofiane El Barkaoui is an Early-career Biochar researcher at Water Research Institute in IT. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.194777
+date: 2026-07-10T01:07:49.108145
 url: "/cdr-researcher-census/researchers/sofiane-el-barkaoui-a5011564/"
 layout: "researcher"
 hiddenInHomeList: true

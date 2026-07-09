@@ -1,7 +1,7 @@
 ---
 title: "Chuchen Zhang"
 description: "Chuchen Zhang is a Mid-career Biochar researcher at Northeast Electric Power University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.022417
+date: 2026-07-10T01:07:48.030110
 url: "/cdr-researcher-census/researchers/chuchen-zhang-a5013720/"
 layout: "researcher"
 hiddenInHomeList: true

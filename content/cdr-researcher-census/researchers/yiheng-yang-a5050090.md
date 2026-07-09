@@ -1,7 +1,7 @@
 ---
 title: "Yiheng Yang"
 description: "Yiheng Yang is a Senior Unknown researcher at Shanghai University of Traditional Chinese Medicine in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.407802
+date: 2026-07-10T01:07:48.399338
 url: "/cdr-researcher-census/researchers/yiheng-yang-a5050090/"
 layout: "researcher"
 hiddenInHomeList: true

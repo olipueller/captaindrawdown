@@ -1,7 +1,7 @@
 ---
 title: "Nallagatla Vinod Kumar"
 description: "Nallagatla Vinod Kumar is an Early-career Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.975495
+date: 2026-07-10T01:07:48.895449
 url: "/cdr-researcher-census/researchers/nallagatla-vinod-kumar-a5034140/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mengzhen Lu"
 description: "Mengzhen Lu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.749111
+date: 2026-07-10T01:07:48.695918
 url: "/cdr-researcher-census/researchers/mengzhen-lu-a5070991/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Blanca González-Méndez"
 description: "Blanca González-Méndez is a Senior Unknown researcher at Universidad Insurgentes in MX. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.125666
+date: 2026-07-10T01:07:48.149396
 url: "/cdr-researcher-census/researchers/blanca-gonzalez-mendez-a5025116/"
 layout: "researcher"
 hiddenInHomeList: true

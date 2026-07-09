@@ -1,7 +1,7 @@
 ---
 title: "T.K. Vanitha"
 description: "T.K. Vanitha is a Mid-career Unknown researcher at Indian Institute of Chemical Technology in IN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.082604
+date: 2026-07-10T01:07:48.083893
 url: "/cdr-researcher-census/researchers/tk-vanitha-a5077783/"
 layout: "researcher"
 hiddenInHomeList: true

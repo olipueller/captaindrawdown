@@ -1,7 +1,7 @@
 ---
 title: "Suparat Singkammo"
 description: "Suparat Singkammo is a Mid-career Unknown researcher at Synchrotron Light Research Institute in TH. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.705502
+date: 2026-07-10T01:07:47.759683
 url: "/cdr-researcher-census/researchers/suparat-singkammo-a5089996/"
 layout: "researcher"
 hiddenInHomeList: true

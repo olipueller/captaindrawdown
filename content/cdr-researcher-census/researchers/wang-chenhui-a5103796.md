@@ -1,7 +1,7 @@
 ---
 title: "Wang Chenhui"
 description: "Wang Chenhui is a Senior Unknown researcher. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.232392
+date: 2026-07-10T01:07:49.141381
 url: "/cdr-researcher-census/researchers/wang-chenhui-a5103796/"
 layout: "researcher"
 hiddenInHomeList: true

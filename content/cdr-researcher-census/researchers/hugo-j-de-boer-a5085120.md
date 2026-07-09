@@ -1,7 +1,7 @@
 ---
 title: "Hugo J. de Boer"
 description: "Hugo J. de Boer is a Senior General CDR researcher at University of Applied Sciences Utrecht in NL. With 135 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.043892
+date: 2026-07-10T01:07:47.117042
 url: "/cdr-researcher-census/researchers/hugo-j-de-boer-a5085120/"
 layout: "researcher"
 hiddenInHomeList: true

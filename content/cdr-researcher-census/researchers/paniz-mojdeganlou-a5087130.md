@@ -1,7 +1,7 @@
 ---
 title: "Paniz Mojdeganlou"
 description: "Paniz Mojdeganlou is a Mid-career Unknown researcher at Rush University Medical Center in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.146337
+date: 2026-07-10T01:07:49.048571
 url: "/cdr-researcher-census/researchers/paniz-mojdeganlou-a5087130/"
 layout: "researcher"
 hiddenInHomeList: true

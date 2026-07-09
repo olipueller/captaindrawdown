@@ -1,7 +1,7 @@
 ---
 title: "D. ÓhUallacháin"
 description: "D. ÓhUallacháin is a Mid-career Unknown researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.547764
+date: 2026-07-10T01:07:47.612195
 url: "/cdr-researcher-census/researchers/d-ohuallachain-a5041342/"
 layout: "researcher"
 hiddenInHomeList: true

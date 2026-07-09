@@ -1,7 +1,7 @@
 ---
 title: "Meijia Li"
 description: "Meijia Li is a Mid-career Unknown researcher at Pacific Northwest National Laboratory in US. With 77 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.172737
+date: 2026-07-10T01:07:47.262177
 url: "/cdr-researcher-census/researchers/meijia-li-a5102855/"
 layout: "researcher"
 hiddenInHomeList: true

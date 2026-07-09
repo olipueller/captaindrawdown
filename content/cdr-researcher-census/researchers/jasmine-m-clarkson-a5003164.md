@@ -1,7 +1,7 @@
 ---
 title: "Jasmine M. Clarkson"
 description: "Jasmine M. Clarkson is a Mid-career Unknown researcher at Newcastle University in GB. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.590759
+date: 2026-07-10T01:07:48.554841
 url: "/cdr-researcher-census/researchers/jasmine-m-clarkson-a5003164/"
 layout: "researcher"
 hiddenInHomeList: true

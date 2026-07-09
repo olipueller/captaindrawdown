@@ -1,7 +1,7 @@
 ---
 title: "Madhumathi Loganathan"
 description: "Madhumathi Loganathan is a Mid-career Unknown researcher at Icahn School of Medicine at Mount Sinai in US. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.267428
+date: 2026-07-10T01:07:48.273773
 url: "/cdr-researcher-census/researchers/madhumathi-loganathan-a5038478/"
 layout: "researcher"
 hiddenInHomeList: true

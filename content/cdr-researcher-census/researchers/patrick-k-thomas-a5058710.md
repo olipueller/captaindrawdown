@@ -1,7 +1,7 @@
 ---
 title: "Patrick K. Thomas"
 description: "Patrick K. Thomas is a Mid-career Ocean CDR researcher at Montana State University in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.953293
+date: 2026-07-10T01:07:47.964807
 url: "/cdr-researcher-census/researchers/patrick-k-thomas-a5058710/"
 layout: "researcher"
 hiddenInHomeList: true

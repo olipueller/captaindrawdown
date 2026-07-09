@@ -1,7 +1,7 @@
 ---
 title: "Yasmeen Gull"
 description: "Yasmeen Gull is a Mid-career Unknown researcher at Farooq Hospital in PK. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.417809
+date: 2026-07-10T01:07:48.408786
 url: "/cdr-researcher-census/researchers/yasmeen-gull-a5053192/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shou-Kun Zhang"
 description: "Shou-Kun Zhang is an Early-career Unknown researcher at Rice University in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.435077
+date: 2026-07-10T01:07:48.425265
 url: "/cdr-researcher-census/researchers/shou-kun-zhang-a5060956/"
 layout: "researcher"
 hiddenInHomeList: true

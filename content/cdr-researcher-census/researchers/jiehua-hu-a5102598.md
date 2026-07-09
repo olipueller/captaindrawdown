@@ -1,7 +1,7 @@
 ---
 title: "Jiehua Hu"
 description: "Jiehua Hu is an Early-career Soil Carbon researcher at Xiamen University in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.301874
+date: 2026-07-10T01:07:48.304602
 url: "/cdr-researcher-census/researchers/jiehua-hu-a5102598/"
 layout: "researcher"
 hiddenInHomeList: true

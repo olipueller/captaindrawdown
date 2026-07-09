@@ -1,7 +1,7 @@
 ---
 title: "Mantas Rubežius"
 description: "Mantas Rubežius is a Mid-career Unknown researcher at Vytautas Magnus University in LT. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.746173
+date: 2026-07-10T01:07:48.692854
 url: "/cdr-researcher-census/researchers/mantas-rubezius-a5031331/"
 layout: "researcher"
 hiddenInHomeList: true

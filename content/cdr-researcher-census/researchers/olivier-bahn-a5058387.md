@@ -1,7 +1,7 @@
 ---
 title: "Olivier Bahn"
 description: "Olivier Bahn is a Senior General CDR researcher at HEC Montréal in CA. With 107 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.133292
+date: 2026-07-10T01:07:47.222161
 url: "/cdr-researcher-census/researchers/olivier-bahn-a5058387/"
 layout: "researcher"
 hiddenInHomeList: true

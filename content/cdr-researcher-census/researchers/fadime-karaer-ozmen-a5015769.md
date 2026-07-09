@@ -1,7 +1,7 @@
 ---
 title: "Fadime Karaer Özmen"
 description: "Fadime Karaer Özmen is a Mid-career Unknown researcher at Eskisehir Technical University in TR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.762741
+date: 2026-07-10T01:07:48.707529
 url: "/cdr-researcher-census/researchers/fadime-karaer-ozmen-a5015769/"
 layout: "researcher"
 hiddenInHomeList: true

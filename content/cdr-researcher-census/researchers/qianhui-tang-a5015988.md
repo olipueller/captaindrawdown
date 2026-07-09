@@ -1,7 +1,7 @@
 ---
 title: "Qianhui Tang"
 description: "Qianhui Tang is a Mid-career Unknown researcher at Southwest University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.797032
+date: 2026-07-10T01:07:48.736366
 url: "/cdr-researcher-census/researchers/qianhui-tang-a5015988/"
 layout: "researcher"
 hiddenInHomeList: true

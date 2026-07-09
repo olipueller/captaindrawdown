@@ -1,7 +1,7 @@
 ---
 title: "Zhongbin B. Li"
 description: "Zhongbin B. Li is a Mid-career General CDR researcher at Wuhan University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.060157
+date: 2026-07-10T01:07:48.972711
 url: "/cdr-researcher-census/researchers/zhongbin-b-li-a5111083/"
 layout: "researcher"
 hiddenInHomeList: true

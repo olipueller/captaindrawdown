@@ -1,7 +1,7 @@
 ---
 title: "Saheba Bhatnagar"
 description: "Saheba Bhatnagar is a Mid-career Soil Carbon researcher at Trinity College Dublin in IE. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.896900
+date: 2026-07-10T01:07:47.911864
 url: "/cdr-researcher-census/researchers/saheba-bhatnagar-a5028133/"
 layout: "researcher"
 hiddenInHomeList: true

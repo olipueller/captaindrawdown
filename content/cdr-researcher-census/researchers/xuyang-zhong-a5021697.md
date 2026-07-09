@@ -1,7 +1,7 @@
 ---
 title: "Xuyang Zhong"
 description: "Xuyang Zhong is a Mid-career Soil Carbon researcher at Lishui University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.880510
+date: 2026-07-10T01:07:48.808120
 url: "/cdr-researcher-census/researchers/xuyang-zhong-a5021697/"
 layout: "researcher"
 hiddenInHomeList: true

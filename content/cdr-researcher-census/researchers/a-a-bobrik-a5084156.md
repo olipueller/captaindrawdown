@@ -1,7 +1,7 @@
 ---
 title: "A. A. Bobrik"
 description: "A. A. Bobrik is a Mid-career Soil Carbon researcher at Lomonosov Moscow State University in RU. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.042432
+date: 2026-07-10T01:07:48.047877
 url: "/cdr-researcher-census/researchers/a-a-bobrik-a5084156/"
 layout: "researcher"
 hiddenInHomeList: true

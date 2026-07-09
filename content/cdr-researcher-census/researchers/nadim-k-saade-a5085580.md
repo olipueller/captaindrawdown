@@ -1,7 +1,7 @@
 ---
 title: "Nadim K. Saadé"
 description: "Nadim K. Saadé is a Mid-career Unknown researcher at McGill University in CA. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.354799
+date: 2026-07-10T01:07:48.353155
 url: "/cdr-researcher-census/researchers/nadim-k-saade-a5085580/"
 layout: "researcher"
 hiddenInHomeList: true

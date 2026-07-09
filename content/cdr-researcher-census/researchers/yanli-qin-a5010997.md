@@ -1,7 +1,7 @@
 ---
 title: "Yanli Qin"
 description: "Yanli Qin is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.209999
+date: 2026-07-10T01:07:48.222916
 url: "/cdr-researcher-census/researchers/yanli-qin-a5010997/"
 layout: "researcher"
 hiddenInHomeList: true

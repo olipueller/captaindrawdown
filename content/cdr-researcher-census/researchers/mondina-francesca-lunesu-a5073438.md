@@ -1,7 +1,7 @@
 ---
 title: "Mondina Francesca Lunesu"
 description: "Mondina Francesca Lunesu is a Mid-career General CDR researcher at Post Doc Position in IT. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.518040
+date: 2026-07-10T01:07:47.585683
 url: "/cdr-researcher-census/researchers/mondina-francesca-lunesu-a5073438/"
 layout: "researcher"
 hiddenInHomeList: true

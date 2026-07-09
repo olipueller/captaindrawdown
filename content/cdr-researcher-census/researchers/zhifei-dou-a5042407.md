@@ -1,7 +1,7 @@
 ---
 title: "Zhifei Dou"
 description: "Zhifei Dou is a Mid-career Biochar researcher at Huawei Technologies (Canada) in CA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.208880
+date: 2026-07-10T01:07:48.221947
 url: "/cdr-researcher-census/researchers/zhifei-dou-a5042407/"
 layout: "researcher"
 hiddenInHomeList: true

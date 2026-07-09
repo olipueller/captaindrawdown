@@ -1,7 +1,7 @@
 ---
 title: "Jiaying Guo"
 description: "Jiaying Guo is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.443206
+date: 2026-07-10T01:07:48.432994
 url: "/cdr-researcher-census/researchers/jiaying-guo-a5087186/"
 layout: "researcher"
 hiddenInHomeList: true

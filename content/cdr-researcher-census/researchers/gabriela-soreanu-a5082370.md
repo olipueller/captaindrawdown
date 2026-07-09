@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Soreanu"
 description: "Gabriela Soreanu is a Senior General CDR researcher at Gheorghe Asachi Technical University of Iași in RO. With 65 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.152213
+date: 2026-07-10T01:07:47.240409
 url: "/cdr-researcher-census/researchers/gabriela-soreanu-a5082370/"
 layout: "researcher"
 hiddenInHomeList: true

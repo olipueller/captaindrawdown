@@ -1,7 +1,7 @@
 ---
 title: "Xushun Gu"
 description: "Xushun Gu is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 43 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.205477
+date: 2026-07-10T01:07:47.293665
 url: "/cdr-researcher-census/researchers/xushun-gu-a5032702/"
 layout: "researcher"
 hiddenInHomeList: true

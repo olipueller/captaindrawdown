@@ -1,7 +1,7 @@
 ---
 title: "Patrick Boakye"
 description: "Patrick Boakye is a Mid-career Biochar researcher at Kwame Nkrumah University of Science and Technology in GH. With 69 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.284864
+date: 2026-07-10T01:07:47.367224
 url: "/cdr-researcher-census/researchers/patrick-boakye-a5103832/"
 layout: "researcher"
 hiddenInHomeList: true

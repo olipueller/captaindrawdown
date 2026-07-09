@@ -1,7 +1,7 @@
 ---
 title: "Zengxin Pu"
 description: "Zengxin Pu is a Mid-career Unknown researcher at Guizhou Electric Power Design and Research Institute in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.588919
+date: 2026-07-10T01:07:47.652189
 url: "/cdr-researcher-census/researchers/zengxin-pu-a5060557/"
 layout: "researcher"
 hiddenInHomeList: true

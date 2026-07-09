@@ -1,7 +1,7 @@
 ---
 title: "Samuel Cliff"
 description: "Samuel Cliff is a Mid-career Unknown researcher at University of California, Berkeley in US. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.324896
+date: 2026-07-10T01:07:48.325400
 url: "/cdr-researcher-census/researchers/samuel-cliff-a5083763/"
 layout: "researcher"
 hiddenInHomeList: true

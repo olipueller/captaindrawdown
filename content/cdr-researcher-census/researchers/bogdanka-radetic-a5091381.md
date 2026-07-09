@@ -1,7 +1,7 @@
 ---
 title: "Bogdanka Radetić"
 description: "Bogdanka Radetić is a Senior Unknown researcher at University of Novi Sad in RS. With 27 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.043447
+date: 2026-07-10T01:07:48.049042
 url: "/cdr-researcher-census/researchers/bogdanka-radetic-a5091381/"
 layout: "researcher"
 hiddenInHomeList: true

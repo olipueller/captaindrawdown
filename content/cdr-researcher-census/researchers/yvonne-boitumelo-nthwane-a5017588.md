@@ -1,7 +1,7 @@
 ---
 title: "Yvonne Boitumelo Nthwane"
 description: "Yvonne Boitumelo Nthwane is a Mid-career Biochar researcher at Tshwane University of Technology in ZA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.331756
+date: 2026-07-10T01:07:48.332145
 url: "/cdr-researcher-census/researchers/yvonne-boitumelo-nthwane-a5017588/"
 layout: "researcher"
 hiddenInHomeList: true

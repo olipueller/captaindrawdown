@@ -1,7 +1,7 @@
 ---
 title: "Tianshun Xu"
 description: "Tianshun Xu is a Senior Unknown researcher. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.055405
+date: 2026-07-10T01:07:47.131150
 url: "/cdr-researcher-census/researchers/tianshun-xu-a5112367/"
 layout: "researcher"
 hiddenInHomeList: true

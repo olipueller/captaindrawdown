@@ -1,7 +1,7 @@
 ---
 title: "Xinyue Hu"
 description: "Xinyue Hu is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.822085
+date: 2026-07-10T01:07:47.868104
 url: "/cdr-researcher-census/researchers/xinyue-hu-a5101512/"
 layout: "researcher"
 hiddenInHomeList: true

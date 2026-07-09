@@ -1,7 +1,7 @@
 ---
 title: "Anders Hansson"
 description: "Anders Hansson is an Eminent General CDR researcher at Linköping University in SE. With 177 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.966644
+date: 2026-07-10T01:07:47.008985
 url: "/cdr-researcher-census/researchers/anders-hansson-a5043331/"
 layout: "researcher"
 hiddenInHomeList: true

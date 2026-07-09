@@ -1,7 +1,7 @@
 ---
 title: "Michael P. Ricketts"
 description: "Michael P. Ricketts is a Mid-career BECCS researcher at Argonne National Laboratory in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.297295
+date: 2026-07-10T01:07:48.300370
 url: "/cdr-researcher-census/researchers/michael-p-ricketts-a5046085/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xinyan Xiong"
 description: "Xinyan Xiong is a Mid-career General CDR researcher at Hohai University in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.695673
+date: 2026-07-10T01:07:47.751363
 url: "/cdr-researcher-census/researchers/xinyan-xiong-a5008175/"
 layout: "researcher"
 hiddenInHomeList: true

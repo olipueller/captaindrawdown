@@ -1,7 +1,7 @@
 ---
 title: "Jicheng Shi"
 description: "Jicheng Shi is an Early-career Biochar researcher at Dalian Jiaotong University in CN. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.529248
+date: 2026-07-10T01:07:47.595886
 url: "/cdr-researcher-census/researchers/jicheng-shi-a5100301/"
 layout: "researcher"
 hiddenInHomeList: true

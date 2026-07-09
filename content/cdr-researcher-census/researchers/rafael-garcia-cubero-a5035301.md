@@ -1,7 +1,7 @@
 ---
 title: "Rafael García-Cubero"
 description: "Rafael García-Cubero is a Mid-career Unknown researcher at Wageningen University & Research in NL. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.853682
+date: 2026-07-10T01:07:48.784392
 url: "/cdr-researcher-census/researchers/rafael-garcia-cubero-a5035301/"
 layout: "researcher"
 hiddenInHomeList: true

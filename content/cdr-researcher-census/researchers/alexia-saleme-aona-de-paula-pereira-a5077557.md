@@ -1,7 +1,7 @@
 ---
 title: "Alexia Saleme Aona de Paula Pereira"
 description: "Alexia Saleme Aona de Paula Pereira is a Mid-career Unknown researcher at Universidade Federal de Viçosa in BR. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.485229
+date: 2026-07-10T01:07:47.556991
 url: "/cdr-researcher-census/researchers/alexia-saleme-aona-de-paula-pereira-a5077557/"
 layout: "researcher"
 hiddenInHomeList: true

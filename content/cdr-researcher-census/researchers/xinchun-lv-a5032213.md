@@ -1,7 +1,7 @@
 ---
 title: "Xinchun Lv"
 description: "Xinchun Lv is a Senior Unknown researcher at Liaocheng University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.837991
+date: 2026-07-10T01:07:47.874044
 url: "/cdr-researcher-census/researchers/xinchun-lv-a5032213/"
 layout: "researcher"
 hiddenInHomeList: true

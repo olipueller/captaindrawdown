@@ -1,7 +1,7 @@
 ---
 title: "Xingwang Yang"
 description: "Xingwang Yang is a Mid-career Unknown researcher at Xihua University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.380680
+date: 2026-07-10T01:07:48.376735
 url: "/cdr-researcher-census/researchers/xingwang-yang-a5101060/"
 layout: "researcher"
 hiddenInHomeList: true

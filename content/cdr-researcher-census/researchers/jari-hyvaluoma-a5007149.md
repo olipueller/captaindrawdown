@@ -1,7 +1,7 @@
 ---
 title: "Jari Hyväluoma"
 description: "Jari Hyväluoma is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 95 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.064518
+date: 2026-07-10T01:07:47.141834
 url: "/cdr-researcher-census/researchers/jari-hyvaluoma-a5007149/"
 layout: "researcher"
 hiddenInHomeList: true

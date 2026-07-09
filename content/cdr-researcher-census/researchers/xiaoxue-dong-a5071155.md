@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxue Dong"
 description: "Xiaoxue Dong is a Mid-career Unknown researcher at Gansu Agricultural University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.626490
+date: 2026-07-10T01:07:48.586733
 url: "/cdr-researcher-census/researchers/xiaoxue-dong-a5071155/"
 layout: "researcher"
 hiddenInHomeList: true

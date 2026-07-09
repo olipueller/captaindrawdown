@@ -1,7 +1,7 @@
 ---
 title: "Chong Jiang"
 description: "Chong Jiang is a Senior General CDR researcher at National Institute of Ocean Technology in IN. With 95 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.035056
+date: 2026-07-10T01:07:47.105523
 url: "/cdr-researcher-census/researchers/chong-jiang-a5068875/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yue Zhou"
 description: "Yue Zhou is a Senior Soil Carbon researcher at École Normale Supérieure - PSL in FR. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.125624
+date: 2026-07-10T01:07:47.212665
 url: "/cdr-researcher-census/researchers/yue-zhou-a5101916/"
 layout: "researcher"
 hiddenInHomeList: true

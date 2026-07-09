@@ -1,7 +1,7 @@
 ---
 title: "Siti Musliha Mat Ghani"
 description: "Siti Musliha Mat Ghani is a Mid-career Unknown researcher at Universiti Teknologi Petronas in MY. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.254886
+date: 2026-07-10T01:07:49.161778
 url: "/cdr-researcher-census/researchers/siti-musliha-mat-ghani-a5054838/"
 layout: "researcher"
 hiddenInHomeList: true

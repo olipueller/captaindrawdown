@@ -1,7 +1,7 @@
 ---
 title: "Gabriele Boscolo"
 description: "Gabriele Boscolo is a Mid-career Unknown researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.740565
+date: 2026-07-10T01:07:47.792703
 url: "/cdr-researcher-census/researchers/gabriele-boscolo-a5032570/"
 layout: "researcher"
 hiddenInHomeList: true

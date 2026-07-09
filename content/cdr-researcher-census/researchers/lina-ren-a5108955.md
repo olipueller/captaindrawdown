@@ -1,7 +1,7 @@
 ---
 title: "Lina Ren"
 description: "Lina Ren is an Early-career Unknown researcher at Lanzhou University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.088694
+date: 2026-07-10T01:07:48.998438
 url: "/cdr-researcher-census/researchers/lina-ren-a5108955/"
 layout: "researcher"
 hiddenInHomeList: true

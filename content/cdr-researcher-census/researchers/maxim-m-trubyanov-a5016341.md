@@ -1,7 +1,7 @@
 ---
 title: "Maxim M. Trubyanov"
 description: "Maxim M. Trubyanov is a Senior Unknown researcher at National University of Singapore in SG. With 53 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.414929
+date: 2026-07-10T01:07:47.493823
 url: "/cdr-researcher-census/researchers/maxim-m-trubyanov-a5016341/"
 layout: "researcher"
 hiddenInHomeList: true

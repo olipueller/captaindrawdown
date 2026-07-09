@@ -1,7 +1,7 @@
 ---
 title: "Chhiter M. Parihar"
 description: "Chhiter M. Parihar is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.909144
+date: 2026-07-10T01:07:48.834248
 url: "/cdr-researcher-census/researchers/chhiter-m-parihar-a5088890/"
 layout: "researcher"
 hiddenInHomeList: true

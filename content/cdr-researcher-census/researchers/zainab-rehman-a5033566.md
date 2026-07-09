@@ -1,7 +1,7 @@
 ---
 title: "Zainab Rehman"
 description: "Zainab Rehman is a Mid-career Soil Carbon researcher at Bahauddin Zakariya University in PK. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.449211
+date: 2026-07-10T01:07:47.525137
 url: "/cdr-researcher-census/researchers/zainab-rehman-a5033566/"
 layout: "researcher"
 hiddenInHomeList: true

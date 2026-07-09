@@ -1,7 +1,7 @@
 ---
 title: "Adriana Guzmán-López"
 description: "Adriana Guzmán-López is a Senior Unknown researcher at Tecnológico Nacional de México en Celaya in MX. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.731988
+date: 2026-07-10T01:07:47.783873
 url: "/cdr-researcher-census/researchers/adriana-guzman-lopez-a5024899/"
 layout: "researcher"
 hiddenInHomeList: true

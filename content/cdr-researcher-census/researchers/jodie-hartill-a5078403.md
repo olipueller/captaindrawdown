@@ -1,7 +1,7 @@
 ---
 title: "Jodie Hartill"
 description: "Jodie Hartill is a Mid-career Soil Carbon researcher at Natural England in GB. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.981768
+date: 2026-07-10T01:07:48.901450
 url: "/cdr-researcher-census/researchers/jodie-hartill-a5078403/"
 layout: "researcher"
 hiddenInHomeList: true

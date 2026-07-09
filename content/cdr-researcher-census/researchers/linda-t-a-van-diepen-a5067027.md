@@ -1,7 +1,7 @@
 ---
 title: "Linda T. A. van Diepen"
 description: "Linda T. A. van Diepen is a Senior Soil Carbon researcher at University of Wyoming in US. With 67 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.000987
+date: 2026-07-10T01:07:47.061231
 url: "/cdr-researcher-census/researchers/linda-t-a-van-diepen-a5067027/"
 layout: "researcher"
 hiddenInHomeList: true

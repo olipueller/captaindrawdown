@@ -1,7 +1,7 @@
 ---
 title: "Maisa El Gamal"
 description: "Maisa El Gamal is a Senior Biochar researcher at Abu Dhabi University in AE. With 66 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.319054
+date: 2026-07-10T01:07:47.401407
 url: "/cdr-researcher-census/researchers/maisa-el-gamal-a5109596/"
 layout: "researcher"
 hiddenInHomeList: true

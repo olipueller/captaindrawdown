@@ -1,7 +1,7 @@
 ---
 title: "Linfei Zhao"
 description: "Linfei Zhao is a Mid-career Unknown researcher at University of Science and Technology Beijing in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.225673
+date: 2026-07-10T01:07:48.235991
 url: "/cdr-researcher-census/researchers/linfei-zhao-a5088584/"
 layout: "researcher"
 hiddenInHomeList: true

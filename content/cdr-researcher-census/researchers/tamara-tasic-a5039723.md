@@ -1,7 +1,7 @@
 ---
 title: "Tamara Tasić"
 description: "Tamara Tasić is a Mid-career Unknown researcher at University of Belgrade in RS. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.983556
+date: 2026-07-10T01:07:47.992659
 url: "/cdr-researcher-census/researchers/tamara-tasic-a5039723/"
 layout: "researcher"
 hiddenInHomeList: true

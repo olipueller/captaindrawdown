@@ -1,7 +1,7 @@
 ---
 title: "Shrikanta Sutradhar"
 description: "Shrikanta Sutradhar is a Mid-career Biochar researcher at Lakehead University in CA. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.927698
+date: 2026-07-10T01:07:47.941050
 url: "/cdr-researcher-census/researchers/shrikanta-sutradhar-a5009103/"
 layout: "researcher"
 hiddenInHomeList: true

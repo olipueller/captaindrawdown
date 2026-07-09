@@ -1,7 +1,7 @@
 ---
 title: "Zaheer Abbas Virk"
 description: "Zaheer Abbas Virk is a Senior Soil Carbon researcher at Government College University, Faisalabad in PK. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.721682
+date: 2026-07-10T01:07:47.774872
 url: "/cdr-researcher-census/researchers/zaheer-abbas-virk-a5013574/"
 layout: "researcher"
 hiddenInHomeList: true

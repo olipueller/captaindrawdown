@@ -1,7 +1,7 @@
 ---
 title: "Yuanjun Chen"
 description: "Yuanjun Chen is a Senior General CDR researcher at Beijing Normal University in CN. With 93 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.893573
+date: 2026-07-10T01:07:46.872701
 url: "/cdr-researcher-census/researchers/yuanjun-chen-a5064326/"
 layout: "researcher"
 hiddenInHomeList: true

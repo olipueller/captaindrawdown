@@ -1,7 +1,7 @@
 ---
 title: "Ria Itty"
 description: "Ria Itty is a Mid-career Unknown researcher at Albany Medical Center Hospital in US. With 12 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.735536
+date: 2026-07-10T01:07:48.683806
 url: "/cdr-researcher-census/researchers/ria-itty-a5046935/"
 layout: "researcher"
 hiddenInHomeList: true

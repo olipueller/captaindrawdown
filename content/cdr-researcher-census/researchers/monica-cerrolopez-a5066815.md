@@ -1,7 +1,7 @@
 ---
 title: "Mónica Cerro‐López"
 description: "Mónica Cerro‐López is a Senior Unknown researcher at Universidad de las Américas Puebla in MX. With 35 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.355249
+date: 2026-07-10T01:07:47.437219
 url: "/cdr-researcher-census/researchers/monica-cerrolopez-a5066815/"
 layout: "researcher"
 hiddenInHomeList: true

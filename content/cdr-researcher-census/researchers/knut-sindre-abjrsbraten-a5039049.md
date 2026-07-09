@@ -1,7 +1,7 @@
 ---
 title: "Knut Sindre Åbjørsbråten"
 description: "Knut Sindre Åbjørsbråten is a Mid-career Unknown researcher at University of Oslo in NO. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.663648
+date: 2026-07-10T01:07:47.720980
 url: "/cdr-researcher-census/researchers/knut-sindre-abjrsbraten-a5039049/"
 layout: "researcher"
 hiddenInHomeList: true

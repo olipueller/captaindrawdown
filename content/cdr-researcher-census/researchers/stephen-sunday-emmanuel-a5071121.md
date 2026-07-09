@@ -1,7 +1,7 @@
 ---
 title: "Stephen Sunday Emmanuel"
 description: "Stephen Sunday Emmanuel is a Senior Biochar researcher at University of Ilorin in NG. With 82 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.160834
+date: 2026-07-10T01:07:47.249906
 url: "/cdr-researcher-census/researchers/stephen-sunday-emmanuel-a5071121/"
 layout: "researcher"
 hiddenInHomeList: true

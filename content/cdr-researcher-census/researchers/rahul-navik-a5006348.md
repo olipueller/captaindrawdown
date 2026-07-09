@@ -1,7 +1,7 @@
 ---
 title: "Rahul Navik"
 description: "Rahul Navik is a Mid-career General CDR researcher at Lingnan University in HK. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.276689
+date: 2026-07-10T01:07:47.359327
 url: "/cdr-researcher-census/researchers/rahul-navik-a5006348/"
 layout: "researcher"
 hiddenInHomeList: true

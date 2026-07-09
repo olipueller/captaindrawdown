@@ -1,7 +1,7 @@
 ---
 title: "Adi Gangga"
 description: "Adi Gangga is a Mid-career Soil Carbon researcher at Yarsi University in ID. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.651756
+date: 2026-07-10T01:07:48.610214
 url: "/cdr-researcher-census/researchers/adi-gangga-a5017796/"
 layout: "researcher"
 hiddenInHomeList: true

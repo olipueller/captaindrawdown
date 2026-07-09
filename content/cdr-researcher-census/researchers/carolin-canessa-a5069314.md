@@ -1,7 +1,7 @@
 ---
 title: "Carolin Canessa"
 description: "Carolin Canessa is a Mid-career Soil Carbon researcher at Technical University of Munich in DE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.609229
+date: 2026-07-10T01:07:48.571305
 url: "/cdr-researcher-census/researchers/carolin-canessa-a5069314/"
 layout: "researcher"
 hiddenInHomeList: true

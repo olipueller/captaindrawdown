@@ -1,7 +1,7 @@
 ---
 title: "Sichen Li"
 description: "Sichen Li is a Senior Biochar researcher at Nissan (United Kingdom) in GB. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.320345
+date: 2026-07-10T01:07:47.402666
 url: "/cdr-researcher-census/researchers/sichen-li-a5045998/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Francesco Malucelli"
 description: "Francesco Malucelli is a Senior Unknown researcher at Agenzia Regionale Prevenzione e Ambiente della Regione Emilia-Romagna in IT. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.885540
+date: 2026-07-10T01:07:47.900522
 url: "/cdr-researcher-census/researchers/francesco-malucelli-a5049448/"
 layout: "researcher"
 hiddenInHomeList: true

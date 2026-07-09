@@ -1,7 +1,7 @@
 ---
 title: "Sirui Tang"
 description: "Sirui Tang is a Senior Unknown researcher at Economic Research Institute in BG. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.190797
+date: 2026-07-10T01:07:48.205273
 url: "/cdr-researcher-census/researchers/sirui-tang-a5110676/"
 layout: "researcher"
 hiddenInHomeList: true

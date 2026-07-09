@@ -1,7 +1,7 @@
 ---
 title: "Syed Hasan Saeed"
 description: "Syed Hasan Saeed is a Mid-career Unknown researcher. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.499713
+date: 2026-07-10T01:07:47.569407
 url: "/cdr-researcher-census/researchers/syed-hasan-saeed-a5112104/"
 layout: "researcher"
 hiddenInHomeList: true

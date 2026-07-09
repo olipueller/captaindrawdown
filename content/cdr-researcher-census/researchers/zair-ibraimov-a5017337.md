@@ -1,7 +1,7 @@
 ---
 title: "Zair Ibraimov"
 description: "Zair Ibraimov is an Early-career Unknown researcher at Al-Farabi Kazakh National University in KZ. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.796025
+date: 2026-07-10T01:07:48.735614
 url: "/cdr-researcher-census/researchers/zair-ibraimov-a5017337/"
 layout: "researcher"
 hiddenInHomeList: true

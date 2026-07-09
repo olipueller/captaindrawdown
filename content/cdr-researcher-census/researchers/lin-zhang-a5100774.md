@@ -1,7 +1,7 @@
 ---
 title: "Lin Zhang"
 description: "Lin Zhang is a Mid-career Unknown researcher at Henan University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.246689
+date: 2026-07-10T01:07:48.254913
 url: "/cdr-researcher-census/researchers/lin-zhang-a5100774/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiaqi An"
 description: "Jiaqi An is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.259731
+date: 2026-07-10T01:07:48.267343
 url: "/cdr-researcher-census/researchers/jiaqi-an-a5103141/"
 layout: "researcher"
 hiddenInHomeList: true

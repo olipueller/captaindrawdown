@@ -1,7 +1,7 @@
 ---
 title: "Somya Agarwal"
 description: "Somya Agarwal is a Mid-career Unknown researcher at Birla Institute of Technology and Science, Pilani in IN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.806393
+date: 2026-07-10T01:07:48.744762
 url: "/cdr-researcher-census/researchers/somya-agarwal-a5007633/"
 layout: "researcher"
 hiddenInHomeList: true

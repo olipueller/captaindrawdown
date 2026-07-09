@@ -1,7 +1,7 @@
 ---
 title: "Shihao Liu"
 description: "Shihao Liu is a Mid-career Unknown researcher at University of Science and Technology of China in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.090058
+date: 2026-07-10T01:07:48.999477
 url: "/cdr-researcher-census/researchers/shihao-liu-a5041131/"
 layout: "researcher"
 hiddenInHomeList: true

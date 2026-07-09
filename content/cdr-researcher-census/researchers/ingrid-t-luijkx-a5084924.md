@@ -1,7 +1,7 @@
 ---
 title: "Ingrid T. Luijkx"
 description: "Ingrid T. Luijkx is a Senior General CDR researcher at Wageningen University & Research in NL. With 207 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.895849
+date: 2026-07-10T01:07:46.877751
 url: "/cdr-researcher-census/researchers/ingrid-t-luijkx-a5084924/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhihong Wen"
 description: "Zhihong Wen is a Senior Biochar researcher at The University of Sydney in AU. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.464396
+date: 2026-07-10T01:07:48.452192
 url: "/cdr-researcher-census/researchers/zhihong-wen-a5103936/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yongkang Zhao"
 description: "Yongkang Zhao is a Mid-career Soil Carbon researcher at Shandong University in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.311565
+date: 2026-07-10T01:07:48.314171
 url: "/cdr-researcher-census/researchers/yongkang-zhao-a5101066/"
 layout: "researcher"
 hiddenInHomeList: true

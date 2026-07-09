@@ -1,7 +1,7 @@
 ---
 title: "Curt Miller"
 description: "Curt Miller is a Senior Unknown researcher at Jet Propulsion Laboratory in US. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.890318
+date: 2026-07-10T01:07:48.816905
 url: "/cdr-researcher-census/researchers/curt-miller-a5058243/"
 layout: "researcher"
 hiddenInHomeList: true

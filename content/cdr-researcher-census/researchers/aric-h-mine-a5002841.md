@@ -1,7 +1,7 @@
 ---
 title: "Aric H. Mine"
 description: "Aric H. Mine is a Mid-career Unknown researcher at California State University System in US. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.042391
+date: 2026-07-10T01:07:48.956072
 url: "/cdr-researcher-census/researchers/aric-h-mine-a5002841/"
 layout: "researcher"
 hiddenInHomeList: true

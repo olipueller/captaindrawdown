@@ -1,7 +1,7 @@
 ---
 title: "Océane Barraud"
 description: "Océane Barraud is a Mid-career Unknown researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 91 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.142933
+date: 2026-07-10T01:07:48.163388
 url: "/cdr-researcher-census/researchers/oceane-barraud-a5088850/"
 layout: "researcher"
 hiddenInHomeList: true

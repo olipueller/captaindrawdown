@@ -1,7 +1,7 @@
 ---
 title: "Junhui Zhou"
 description: "Junhui Zhou is a Mid-career Biochar researcher at Central South University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.905122
+date: 2026-07-10T01:07:47.919198
 url: "/cdr-researcher-census/researchers/junhui-zhou-a5021658/"
 layout: "researcher"
 hiddenInHomeList: true

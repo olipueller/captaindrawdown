@@ -1,7 +1,7 @@
 ---
 title: "Yaling Yuan"
 description: "Yaling Yuan is a Mid-career Soil Carbon researcher at Dalian Medical University in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.406110
+date: 2026-07-10T01:07:48.397834
 url: "/cdr-researcher-census/researchers/yaling-yuan-a5009066/"
 layout: "researcher"
 hiddenInHomeList: true

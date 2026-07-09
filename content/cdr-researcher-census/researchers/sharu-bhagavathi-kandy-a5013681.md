@@ -1,7 +1,7 @@
 ---
 title: "Sharu Bhagavathi Kandy"
 description: "Sharu Bhagavathi Kandy is a Mid-career General CDR researcher at National Institute of Technology Calicut in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.227260
+date: 2026-07-10T01:07:49.136887
 url: "/cdr-researcher-census/researchers/sharu-bhagavathi-kandy-a5013681/"
 layout: "researcher"
 hiddenInHomeList: true

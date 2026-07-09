@@ -1,7 +1,7 @@
 ---
 title: "Anh M. Nguyen"
 description: "Anh M. Nguyen is a Senior Soil Carbon researcher at Vietnam National University, Hanoi  in VN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.692571
+date: 2026-07-10T01:07:47.748575
 url: "/cdr-researcher-census/researchers/anh-m-nguyen-a5101706/"
 layout: "researcher"
 hiddenInHomeList: true

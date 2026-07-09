@@ -1,7 +1,7 @@
 ---
 title: "Lenka Pavlů"
 description: "Lenka Pavlů is a Senior Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 78 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.236422
+date: 2026-07-10T01:07:47.322957
 url: "/cdr-researcher-census/researchers/lenka-pavlu-a5018752/"
 layout: "researcher"
 hiddenInHomeList: true

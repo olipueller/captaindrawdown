@@ -1,7 +1,7 @@
 ---
 title: "Efstratios M. Kritikos"
 description: "Efstratios M. Kritikos is a Mid-career Unknown researcher at California Institute of Technology in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.095794
+date: 2026-07-10T01:07:48.095520
 url: "/cdr-researcher-census/researchers/efstratios-m-kritikos-a5087074/"
 layout: "researcher"
 hiddenInHomeList: true

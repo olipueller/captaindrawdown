@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Montgomery"
 description: "Jonathan Montgomery is a Mid-career Soil Carbon researcher at Cal Poly Humboldt in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.078660
+date: 2026-07-10T01:07:48.989568
 url: "/cdr-researcher-census/researchers/jonathan-montgomery-a5078284/"
 layout: "researcher"
 hiddenInHomeList: true

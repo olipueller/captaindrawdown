@@ -1,7 +1,7 @@
 ---
 title: "Jaya Nepal"
 description: "Jaya Nepal is a Mid-career Soil Carbon researcher at Pennsylvania State University in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.603497
+date: 2026-07-10T01:07:47.665128
 url: "/cdr-researcher-census/researchers/jaya-nepal-a5000089/"
 layout: "researcher"
 hiddenInHomeList: true

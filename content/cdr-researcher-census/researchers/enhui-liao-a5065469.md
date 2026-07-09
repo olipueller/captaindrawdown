@@ -1,7 +1,7 @@
 ---
 title: "Enhui Liao"
 description: "Enhui Liao is a Mid-career Ocean CDR researcher at Shanghai Jiao Tong University in CN. With 60 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.574983
+date: 2026-07-10T01:07:47.638462
 url: "/cdr-researcher-census/researchers/enhui-liao-a5065469/"
 layout: "researcher"
 hiddenInHomeList: true

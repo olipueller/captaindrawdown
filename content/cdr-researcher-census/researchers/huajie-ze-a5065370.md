@@ -1,7 +1,7 @@
 ---
 title: "Huajie Ze"
 description: "Huajie Ze is a Mid-career General CDR researcher at Northwestern University in US. With 29 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.226286
+date: 2026-07-10T01:07:47.313174
 url: "/cdr-researcher-census/researchers/huajie-ze-a5065370/"
 layout: "researcher"
 hiddenInHomeList: true

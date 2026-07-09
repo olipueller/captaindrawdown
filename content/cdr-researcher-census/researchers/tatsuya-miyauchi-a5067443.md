@@ -1,7 +1,7 @@
 ---
 title: "Tatsuya Miyauchi"
 description: "Tatsuya Miyauchi is a Senior General CDR researcher at Hokkaido University in JP. With 48 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.985272
+date: 2026-07-10T01:07:48.904776
 url: "/cdr-researcher-census/researchers/tatsuya-miyauchi-a5067443/"
 layout: "researcher"
 hiddenInHomeList: true

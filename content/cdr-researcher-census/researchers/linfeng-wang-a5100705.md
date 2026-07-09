@@ -1,7 +1,7 @@
 ---
 title: "Linfeng Wang"
 description: "Linfeng Wang is a Senior Unknown researcher at Shanghai University in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.032305
+date: 2026-07-10T01:07:48.039082
 url: "/cdr-researcher-census/researchers/linfeng-wang-a5100705/"
 layout: "researcher"
 hiddenInHomeList: true

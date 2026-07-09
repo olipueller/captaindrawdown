@@ -1,7 +1,7 @@
 ---
 title: "Puneet Kamboj"
 description: "Puneet Kamboj is a Mid-career General CDR researcher at King Abdullah Petroleum Studies and Research Center in SA. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.836845
+date: 2026-07-10T01:07:48.769725
 url: "/cdr-researcher-census/researchers/puneet-kamboj-a5055746/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Changting Li"
 description: "Changting Li is a Senior General CDR researcher at Shandong University in CN. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.825614
+date: 2026-07-10T01:07:48.759889
 url: "/cdr-researcher-census/researchers/changting-li-a5103023/"
 layout: "researcher"
 hiddenInHomeList: true

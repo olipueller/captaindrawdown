@@ -1,7 +1,7 @@
 ---
 title: "Emanuele Fanelli"
 description: "Emanuele Fanelli is a Mid-career BECCS researcher at National Agency for New Technologies Energy and Sustainable Economic Development in GB. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.804088
+date: 2026-07-10T01:07:48.742919
 url: "/cdr-researcher-census/researchers/emanuele-fanelli-a5051883/"
 layout: "researcher"
 hiddenInHomeList: true

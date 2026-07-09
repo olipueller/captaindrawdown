@@ -1,7 +1,7 @@
 ---
 title: "Kathleen Daly"
 description: "Kathleen Daly is a Senior Unknown researcher at Laidlaw College in NZ. With 36 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.099779
+date: 2026-07-10T01:07:47.183735
 url: "/cdr-researcher-census/researchers/kathleen-daly-a5019904/"
 layout: "researcher"
 hiddenInHomeList: true

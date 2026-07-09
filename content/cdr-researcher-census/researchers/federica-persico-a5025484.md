@@ -1,7 +1,7 @@
 ---
 title: "Federica Persico"
 description: "Federica Persico is a Mid-career Biochar researcher at University of Genoa in IT. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.900545
+date: 2026-07-10T01:07:47.915129
 url: "/cdr-researcher-census/researchers/federica-persico-a5025484/"
 layout: "researcher"
 hiddenInHomeList: true

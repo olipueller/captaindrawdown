@@ -1,7 +1,7 @@
 ---
 title: "Saurav Das"
 description: "Saurav Das is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.041952
+date: 2026-07-10T01:07:48.047354
 url: "/cdr-researcher-census/researchers/saurav-das-a5075604/"
 layout: "researcher"
 hiddenInHomeList: true

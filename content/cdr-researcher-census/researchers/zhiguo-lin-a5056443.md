@@ -1,7 +1,7 @@
 ---
 title: "Zhiguo Lin"
 description: "Zhiguo Lin is a Mid-career Biochar researcher at Yunnan University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.312108
+date: 2026-07-10T01:07:48.314603
 url: "/cdr-researcher-census/researchers/zhiguo-lin-a5056443/"
 layout: "researcher"
 hiddenInHomeList: true

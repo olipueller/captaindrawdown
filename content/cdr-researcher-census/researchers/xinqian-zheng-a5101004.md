@@ -1,7 +1,7 @@
 ---
 title: "Xinqian Zheng"
 description: "Xinqian Zheng is a Mid-career Soil Carbon researcher at Xinjiang Astronomical Observatory in CN. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.260318
+date: 2026-07-10T01:07:48.267897
 url: "/cdr-researcher-census/researchers/xinqian-zheng-a5101004/"
 layout: "researcher"
 hiddenInHomeList: true

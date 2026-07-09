@@ -1,7 +1,7 @@
 ---
 title: "Tong Luo"
 description: "Tong Luo is a Mid-career Unknown researcher at Shihezi University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.008936
+date: 2026-07-10T01:07:48.926180
 url: "/cdr-researcher-census/researchers/tong-luo-a5102279/"
 layout: "researcher"
 hiddenInHomeList: true

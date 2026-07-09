@@ -1,7 +1,7 @@
 ---
 title: "Neeraj Budhraja"
 description: "Neeraj Budhraja is a Mid-career Unknown researcher at Delhi Technological University in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.701121
+date: 2026-07-10T01:07:48.654171
 url: "/cdr-researcher-census/researchers/neeraj-budhraja-a5063046/"
 layout: "researcher"
 hiddenInHomeList: true

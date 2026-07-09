@@ -1,7 +1,7 @@
 ---
 title: "Kent J. Warren"
 description: "Kent J. Warren is a Mid-career General CDR researcher at University of Colorado Boulder in US. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.813990
+date: 2026-07-10T01:07:47.860646
 url: "/cdr-researcher-census/researchers/kent-j-warren-a5001899/"
 layout: "researcher"
 hiddenInHomeList: true

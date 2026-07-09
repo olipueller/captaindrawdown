@@ -1,7 +1,7 @@
 ---
 title: "Xiaohua Teng"
 description: "Xiaohua Teng is a Mid-career Unknown researcher at Zaozhuang University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.166550
+date: 2026-07-10T01:07:48.183894
 url: "/cdr-researcher-census/researchers/xiaohua-teng-a5048093/"
 layout: "researcher"
 hiddenInHomeList: true

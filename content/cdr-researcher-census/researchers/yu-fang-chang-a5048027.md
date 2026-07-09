@@ -1,7 +1,7 @@
 ---
 title: "Yu-Fang Chang"
 description: "Yu-Fang Chang is a Mid-career Soil Carbon researcher at National Ilan University in TW. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.738402
+date: 2026-07-10T01:07:48.686108
 url: "/cdr-researcher-census/researchers/yu-fang-chang-a5048027/"
 layout: "researcher"
 hiddenInHomeList: true

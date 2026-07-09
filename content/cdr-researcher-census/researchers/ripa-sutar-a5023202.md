@@ -1,7 +1,7 @@
 ---
 title: "Ripa Sutar"
 description: "Ripa Sutar is a Mid-career Unknown researcher at Shivaji University in IN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.973289
+date: 2026-07-10T01:07:48.893258
 url: "/cdr-researcher-census/researchers/ripa-sutar-a5023202/"
 layout: "researcher"
 hiddenInHomeList: true

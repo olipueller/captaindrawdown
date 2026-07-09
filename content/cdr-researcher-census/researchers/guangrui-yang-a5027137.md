@@ -1,7 +1,7 @@
 ---
 title: "Guangrui Yang"
 description: "Guangrui Yang is a Mid-career Unknown researcher at Nanjing Normal University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.196354
+date: 2026-07-10T01:07:49.109517
 url: "/cdr-researcher-census/researchers/guangrui-yang-a5027137/"
 layout: "researcher"
 hiddenInHomeList: true

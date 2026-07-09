@@ -1,7 +1,7 @@
 ---
 title: "Angeliki Kourmouli"
 description: "Angeliki Kourmouli is a Mid-career Soil Carbon researcher at Department for Environment Food and Rural Affairs in GB. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.220143
+date: 2026-07-10T01:07:48.231270
 url: "/cdr-researcher-census/researchers/angeliki-kourmouli-a5046458/"
 layout: "researcher"
 hiddenInHomeList: true

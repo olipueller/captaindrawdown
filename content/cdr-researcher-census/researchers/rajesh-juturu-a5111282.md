@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Juturu"
 description: "Rajesh Juturu is a Mid-career Biochar researcher at Manipal Academy of Higher Education in IN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.228450
+date: 2026-07-10T01:07:48.238709
 url: "/cdr-researcher-census/researchers/rajesh-juturu-a5111282/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Claire Emery"
 description: "Claire Emery is a Mid-career Unknown researcher at LIttoral ENvironnement et Sociétés in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.043058
+date: 2026-07-10T01:07:48.956690
 url: "/cdr-researcher-census/researchers/claire-emery-a5011063/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "A. D. Kirillova"
 description: "A. D. Kirillova is a Mid-career Unknown researcher at V.I.Shumakov Federal Research Center of Transplantology and Artificial Organs in RU. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.203988
+date: 2026-07-10T01:07:49.116637
 url: "/cdr-researcher-census/researchers/a-d-kirillova-a5091441/"
 layout: "researcher"
 hiddenInHomeList: true

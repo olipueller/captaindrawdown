@@ -1,7 +1,7 @@
 ---
 title: "Joshua P. Newton"
 description: "Joshua P. Newton is a Mid-career Unknown researcher at Curtin University in AU. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.656591
+date: 2026-07-10T01:07:47.714037
 url: "/cdr-researcher-census/researchers/joshua-p-newton-a5069174/"
 layout: "researcher"
 hiddenInHomeList: true

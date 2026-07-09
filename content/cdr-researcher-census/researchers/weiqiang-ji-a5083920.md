@@ -1,7 +1,7 @@
 ---
 title: "Weiqiang Ji"
 description: "Weiqiang Ji is a Senior General CDR researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.397983
+date: 2026-07-10T01:07:47.478841
 url: "/cdr-researcher-census/researchers/weiqiang-ji-a5083920/"
 layout: "researcher"
 hiddenInHomeList: true

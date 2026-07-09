@@ -1,7 +1,7 @@
 ---
 title: "Teodora Dorca-Preda"
 description: "Teodora Dorca-Preda is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.061739
+date: 2026-07-10T01:07:48.065181
 url: "/cdr-researcher-census/researchers/teodora-dorca-preda-a5090164/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Quanzhi Li"
 description: "Quanzhi Li is a Mid-career General CDR researcher at Zhejiang International Studies University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.663006
+date: 2026-07-10T01:07:48.619734
 url: "/cdr-researcher-census/researchers/quanzhi-li-a5030304/"
 layout: "researcher"
 hiddenInHomeList: true

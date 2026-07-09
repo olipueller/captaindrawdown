@@ -1,7 +1,7 @@
 ---
 title: "Sourav Ranjan Mohapatra"
 description: "Sourav Ranjan Mohapatra is a Mid-career Unknown researcher at Odisha University of Agriculture and Technology in IN. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.140288
+date: 2026-07-10T01:07:48.161487
 url: "/cdr-researcher-census/researchers/sourav-ranjan-mohapatra-a5063287/"
 layout: "researcher"
 hiddenInHomeList: true

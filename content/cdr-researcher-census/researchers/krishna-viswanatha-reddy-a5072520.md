@@ -1,7 +1,7 @@
 ---
 title: "Krishna Viswanatha Reddy"
 description: "Krishna Viswanatha Reddy is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.900956
+date: 2026-07-10T01:07:47.915517
 url: "/cdr-researcher-census/researchers/krishna-viswanatha-reddy-a5072520/"
 layout: "researcher"
 hiddenInHomeList: true

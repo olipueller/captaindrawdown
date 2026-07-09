@@ -1,7 +1,7 @@
 ---
 title: "Laura K. van der Pol"
 description: "Laura K. van der Pol is a Mid-career Soil Carbon researcher at The Land Institute in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.470415
+date: 2026-07-10T01:07:48.458000
 url: "/cdr-researcher-census/researchers/laura-k-van-der-pol-a5085377/"
 layout: "researcher"
 hiddenInHomeList: true

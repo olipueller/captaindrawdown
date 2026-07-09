@@ -1,7 +1,7 @@
 ---
 title: "Lizhen Hu"
 description: "Lizhen Hu is a Mid-career Unknown researcher. With 15 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.561675
+date: 2026-07-10T01:07:47.625619
 url: "/cdr-researcher-census/researchers/lizhen-hu-a5085323/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pelin Soyertaş Yapıcıoğlu"
 description: "Pelin Soyertaş Yapıcıoğlu is a Mid-career General CDR researcher at Harran University in TR. With 58 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.789337
+date: 2026-07-10T01:07:47.838237
 url: "/cdr-researcher-census/researchers/pelin-soyertas-yapcoglu-a5057151/"
 layout: "researcher"
 hiddenInHomeList: true

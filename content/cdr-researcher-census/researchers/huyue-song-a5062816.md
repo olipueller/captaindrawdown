@@ -1,7 +1,7 @@
 ---
 title: "Huyue Song"
 description: "Huyue Song is a Senior Unknown researcher at China University of Geosciences in CN. With 105 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.954518
+date: 2026-07-10T01:07:46.989932
 url: "/cdr-researcher-census/researchers/huyue-song-a5062816/"
 layout: "researcher"
 hiddenInHomeList: true

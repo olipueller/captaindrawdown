@@ -1,7 +1,7 @@
 ---
 title: "Anjana Sahu"
 description: "Anjana Sahu is a Senior Unknown researcher at Topiwala National Medical College & BYL Nair Charitable Hospital in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.936980
+date: 2026-07-10T01:07:47.949450
 url: "/cdr-researcher-census/researchers/anjana-sahu-a5109602/"
 layout: "researcher"
 hiddenInHomeList: true

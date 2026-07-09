@@ -1,7 +1,7 @@
 ---
 title: "Aida Farsi"
 description: "Aida Farsi is a Mid-career Unknown researcher at Massachusetts Institute of Technology in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.896317
+date: 2026-07-10T01:07:47.911324
 url: "/cdr-researcher-census/researchers/aida-farsi-a5052405/"
 layout: "researcher"
 hiddenInHomeList: true

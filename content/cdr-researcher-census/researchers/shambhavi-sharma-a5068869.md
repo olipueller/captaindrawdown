@@ -1,7 +1,7 @@
 ---
 title: "Shambhavi Sharma"
 description: "Shambhavi Sharma is a Mid-career Unknown researcher at Korea Railroad Research Institute in KR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.837279
+date: 2026-07-10T01:07:48.770049
 url: "/cdr-researcher-census/researchers/shambhavi-sharma-a5068869/"
 layout: "researcher"
 hiddenInHomeList: true

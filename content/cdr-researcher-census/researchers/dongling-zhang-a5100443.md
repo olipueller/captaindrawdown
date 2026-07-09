@@ -1,7 +1,7 @@
 ---
 title: "Dongling Zhang"
 description: "Dongling Zhang is a Senior Soil Carbon researcher at Jimei University in CN. With 119 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.037141
+date: 2026-07-10T01:07:47.108423
 url: "/cdr-researcher-census/researchers/dongling-zhang-a5100443/"
 layout: "researcher"
 hiddenInHomeList: true

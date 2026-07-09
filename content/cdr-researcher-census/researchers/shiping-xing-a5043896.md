@@ -1,7 +1,7 @@
 ---
 title: "Shiping Xing"
 description: "Shiping Xing is a Mid-career Unknown researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.093368
+date: 2026-07-10T01:07:48.093168
 url: "/cdr-researcher-census/researchers/shiping-xing-a5043896/"
 layout: "researcher"
 hiddenInHomeList: true

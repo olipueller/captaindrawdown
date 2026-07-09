@@ -1,7 +1,7 @@
 ---
 title: "Manaswini Kar"
 description: "Manaswini Kar is a Mid-career Unknown researcher at Amrita Vishwa Vidyapeetham in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.040182
+date: 2026-07-10T01:07:48.954200
 url: "/cdr-researcher-census/researchers/manaswini-kar-a5027071/"
 layout: "researcher"
 hiddenInHomeList: true

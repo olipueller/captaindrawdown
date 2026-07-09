@@ -1,7 +1,7 @@
 ---
 title: "Babak Fayyaz"
 description: "Babak Fayyaz is a Senior General CDR researcher at Chevron (United States) in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.995110
+date: 2026-07-10T01:07:48.913414
 url: "/cdr-researcher-census/researchers/babak-fayyaz-a5049237/"
 layout: "researcher"
 hiddenInHomeList: true

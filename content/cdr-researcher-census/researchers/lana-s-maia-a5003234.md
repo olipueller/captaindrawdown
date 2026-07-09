@@ -1,7 +1,7 @@
 ---
 title: "Lana S. Maia"
 description: "Lana S. Maia is a Mid-career Biochar researcher at Universidade Federal do ABC in BR. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.696015
+date: 2026-07-10T01:07:47.751675
 url: "/cdr-researcher-census/researchers/lana-s-maia-a5003234/"
 layout: "researcher"
 hiddenInHomeList: true

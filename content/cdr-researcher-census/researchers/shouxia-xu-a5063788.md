@@ -1,7 +1,7 @@
 ---
 title: "Shouxia Xu"
 description: "Shouxia Xu is a Mid-career Unknown researcher at Army Medical University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.663107
+date: 2026-07-10T01:07:48.619821
 url: "/cdr-researcher-census/researchers/shouxia-xu-a5063788/"
 layout: "researcher"
 hiddenInHomeList: true

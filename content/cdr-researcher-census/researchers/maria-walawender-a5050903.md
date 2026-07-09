@@ -1,7 +1,7 @@
 ---
 title: "Maria Walawender"
 description: "Maria Walawender is a Mid-career General CDR researcher at University College London in GB. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.036418
+date: 2026-07-10T01:07:47.107380
 url: "/cdr-researcher-census/researchers/maria-walawender-a5050903/"
 layout: "researcher"
 hiddenInHomeList: true

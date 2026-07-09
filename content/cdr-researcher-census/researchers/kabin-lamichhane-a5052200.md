@@ -1,7 +1,7 @@
 ---
 title: "Kabin Lamichhane"
 description: "Kabin Lamichhane is a Mid-career Unknown researcher at Tribhuvan University in NP. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.238575
+date: 2026-07-10T01:07:49.147442
 url: "/cdr-researcher-census/researchers/kabin-lamichhane-a5052200/"
 layout: "researcher"
 hiddenInHomeList: true

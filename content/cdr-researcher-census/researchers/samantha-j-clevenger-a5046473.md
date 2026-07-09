@@ -1,7 +1,7 @@
 ---
 title: "Samantha J. Clevenger"
 description: "Samantha J. Clevenger is a Mid-career Ocean CDR researcher at Woodwell Climate Research Center in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.750963
+date: 2026-07-10T01:07:48.697732
 url: "/cdr-researcher-census/researchers/samantha-j-clevenger-a5046473/"
 layout: "researcher"
 hiddenInHomeList: true

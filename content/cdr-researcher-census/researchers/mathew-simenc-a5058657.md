@@ -1,7 +1,7 @@
 ---
 title: "Mathew Simenc"
 description: "Mathew Simenc is a Mid-career Unknown researcher at Salk Institute for Biological Studies in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.578673
+date: 2026-07-10T01:07:47.641721
 url: "/cdr-researcher-census/researchers/mathew-simenc-a5058657/"
 layout: "researcher"
 hiddenInHomeList: true

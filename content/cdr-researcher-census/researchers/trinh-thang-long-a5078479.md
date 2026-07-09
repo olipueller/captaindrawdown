@@ -1,7 +1,7 @@
 ---
 title: "Trinh Thang Long"
 description: "Trinh Thang Long is an Early-career Unknown researcher at International Bamboo and Rattan Organization in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.211849
+date: 2026-07-10T01:07:49.123784
 url: "/cdr-researcher-census/researchers/trinh-thang-long-a5078479/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey T. Culp"
 description: "Jeffrey T. Culp is a Senior DAC researcher at Defense Logistics Agency in US. With 100 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.039313
+date: 2026-07-10T01:07:47.111346
 url: "/cdr-researcher-census/researchers/jeffrey-t-culp-a5016816/"
 layout: "researcher"
 hiddenInHomeList: true

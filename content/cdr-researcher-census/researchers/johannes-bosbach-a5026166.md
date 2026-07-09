@@ -1,7 +1,7 @@
 ---
 title: "Johannes Bosbach"
 description: "Johannes Bosbach is a Senior Unknown researcher at German Aerospace Center (DLR) in DE. With 170 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.064670
+date: 2026-07-10T01:07:47.142055
 url: "/cdr-researcher-census/researchers/johannes-bosbach-a5026166/"
 layout: "researcher"
 hiddenInHomeList: true

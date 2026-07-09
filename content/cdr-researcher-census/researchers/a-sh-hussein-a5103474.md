@@ -1,7 +1,7 @@
 ---
 title: "A. SH. Hussein"
 description: "A. SH. Hussein is a Senior Unknown researcher at Universiti Sains Malaysia in MY. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.027110
+date: 2026-07-10T01:07:48.943078
 url: "/cdr-researcher-census/researchers/a-sh-hussein-a5103474/"
 layout: "researcher"
 hiddenInHomeList: true

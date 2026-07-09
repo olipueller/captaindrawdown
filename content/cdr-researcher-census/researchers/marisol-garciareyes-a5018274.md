@@ -1,7 +1,7 @@
 ---
 title: "Marisol García‐Reyes"
 description: "Marisol García‐Reyes is a Senior Ocean CDR researcher at Farallon Institute in US. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.972465
+date: 2026-07-10T01:07:47.017330
 url: "/cdr-researcher-census/researchers/marisol-garciareyes-a5018274/"
 layout: "researcher"
 hiddenInHomeList: true

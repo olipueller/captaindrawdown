@@ -1,7 +1,7 @@
 ---
 title: "Fengkui Qian"
 description: "Fengkui Qian is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.813106
+date: 2026-07-10T01:07:47.859765
 url: "/cdr-researcher-census/researchers/fengkui-qian-a5007688/"
 layout: "researcher"
 hiddenInHomeList: true

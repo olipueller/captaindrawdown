@@ -1,7 +1,7 @@
 ---
 title: "Kumar Vikrant"
 description: "Kumar Vikrant is an Eminent Biochar researcher at VinUniversity in VN. With 166 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.921563
+date: 2026-07-10T01:07:46.929899
 url: "/cdr-researcher-census/researchers/kumar-vikrant-a5061985/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yingxiao Hu"
 description: "Yingxiao Hu is a Mid-career Soil Carbon researcher at Southwest University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.065131
+date: 2026-07-10T01:07:48.067823
 url: "/cdr-researcher-census/researchers/yingxiao-hu-a5044800/"
 layout: "researcher"
 hiddenInHomeList: true

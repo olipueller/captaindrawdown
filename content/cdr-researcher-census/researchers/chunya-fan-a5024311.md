@@ -1,7 +1,7 @@
 ---
 title: "Chunya Fan"
 description: "Chunya Fan is a Mid-career Unknown researcher at Taiyuan University of Technology in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.022185
+date: 2026-07-10T01:07:48.938013
 url: "/cdr-researcher-census/researchers/chunya-fan-a5024311/"
 layout: "researcher"
 hiddenInHomeList: true

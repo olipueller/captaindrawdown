@@ -1,7 +1,7 @@
 ---
 title: "Xue Zhang"
 description: "Xue Zhang is a Senior Soil Carbon researcher at Qingdao University in CN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.374286
+date: 2026-07-10T01:07:48.370743
 url: "/cdr-researcher-census/researchers/xue-zhang-a5104116/"
 layout: "researcher"
 hiddenInHomeList: true

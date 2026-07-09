@@ -1,7 +1,7 @@
 ---
 title: "Claudia Dessì"
 description: "Claudia Dessì is a Mid-career Unknown researcher at Reed Medical (United Kingdom) in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.651054
+date: 2026-07-10T01:07:47.709230
 url: "/cdr-researcher-census/researchers/claudia-dessi-a5082637/"
 layout: "researcher"
 hiddenInHomeList: true

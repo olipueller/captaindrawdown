@@ -1,7 +1,7 @@
 ---
 title: "Xilong Huang"
 description: "Xilong Huang is a Mid-career Biochar researcher at Shantou University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.125560
+date: 2026-07-10T01:07:48.149310
 url: "/cdr-researcher-census/researchers/xilong-huang-a5103189/"
 layout: "researcher"
 hiddenInHomeList: true

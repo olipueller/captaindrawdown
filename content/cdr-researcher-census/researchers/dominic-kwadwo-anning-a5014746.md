@@ -1,7 +1,7 @@
 ---
 title: "Dominic Kwadwo Anning"
 description: "Dominic Kwadwo Anning is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.569680
+date: 2026-07-10T01:07:48.548148
 url: "/cdr-researcher-census/researchers/dominic-kwadwo-anning-a5014746/"
 layout: "researcher"
 hiddenInHomeList: true

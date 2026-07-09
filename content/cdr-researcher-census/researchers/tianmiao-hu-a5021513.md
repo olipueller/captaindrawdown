@@ -1,7 +1,7 @@
 ---
 title: "Tianmiao Hu"
 description: "Tianmiao Hu is a Senior Unknown researcher at Qingdao Institute of Bioenergy and Bioprocess Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.244185
+date: 2026-07-10T01:07:49.152321
 url: "/cdr-researcher-census/researchers/tianmiao-hu-a5021513/"
 layout: "researcher"
 hiddenInHomeList: true

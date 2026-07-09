@@ -1,7 +1,7 @@
 ---
 title: "Julius Gbenga Akinbomi"
 description: "Julius Gbenga Akinbomi is a Mid-career Biochar researcher at Lagos State University in NG. With 35 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.141208
+date: 2026-07-10T01:07:48.162144
 url: "/cdr-researcher-census/researchers/julius-gbenga-akinbomi-a5049931/"
 layout: "researcher"
 hiddenInHomeList: true

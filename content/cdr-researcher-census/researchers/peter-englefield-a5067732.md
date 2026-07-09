@@ -1,7 +1,7 @@
 ---
 title: "Peter Englefield"
 description: "Peter Englefield is a Senior Unknown researcher at Canadian Forest Service in CA. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.341771
+date: 2026-07-10T01:07:47.424776
 url: "/cdr-researcher-census/researchers/peter-englefield-a5067732/"
 layout: "researcher"
 hiddenInHomeList: true

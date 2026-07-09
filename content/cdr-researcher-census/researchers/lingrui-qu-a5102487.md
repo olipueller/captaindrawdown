@@ -1,7 +1,7 @@
 ---
 title: "Lingrui Qu"
 description: "Lingrui Qu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.326338
+date: 2026-07-10T01:07:47.408327
 url: "/cdr-researcher-census/researchers/lingrui-qu-a5102487/"
 layout: "researcher"
 hiddenInHomeList: true

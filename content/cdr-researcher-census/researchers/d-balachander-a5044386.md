@@ -1,7 +1,7 @@
 ---
 title: "D. Balachander"
 description: "D. Balachander is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.696500
+date: 2026-07-10T01:07:48.649798
 url: "/cdr-researcher-census/researchers/d-balachander-a5044386/"
 layout: "researcher"
 hiddenInHomeList: true

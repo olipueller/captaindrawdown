@@ -1,7 +1,7 @@
 ---
 title: "George Yumnam"
 description: "George Yumnam is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 44 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.063372
+date: 2026-07-10T01:07:48.066390
 url: "/cdr-researcher-census/researchers/george-yumnam-a5016829/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Li-Qun Ji"
 description: "Li-Qun Ji is a Senior General CDR researcher at Shanghai International Studies University in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.038932
+date: 2026-07-10T01:07:48.044498
 url: "/cdr-researcher-census/researchers/li-qun-ji-a5112490/"
 layout: "researcher"
 hiddenInHomeList: true

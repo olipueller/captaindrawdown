@@ -1,7 +1,7 @@
 ---
 title: "Margherita Bufalini"
 description: "Margherita Bufalini is a Mid-career Soil Carbon researcher at Università di Camerino in IT. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.242541
+date: 2026-07-10T01:07:48.251336
 url: "/cdr-researcher-census/researchers/margherita-bufalini-a5034414/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bo-Han Zhang"
 description: "Bo-Han Zhang is a Mid-career Soil Carbon researcher at Beijing University of Chemical Technology in CN. With 15 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.196382
+date: 2026-07-10T01:07:48.209740
 url: "/cdr-researcher-census/researchers/bo-han-zhang-a5008870/"
 layout: "researcher"
 hiddenInHomeList: true

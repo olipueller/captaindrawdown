@@ -1,7 +1,7 @@
 ---
 title: "Matteo Longo"
 description: "Matteo Longo is a Mid-career Soil Carbon researcher at University of Padua in IT. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.253977
+date: 2026-07-10T01:07:48.262026
 url: "/cdr-researcher-census/researchers/matteo-longo-a5030193/"
 layout: "researcher"
 hiddenInHomeList: true

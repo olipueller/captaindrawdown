@@ -1,7 +1,7 @@
 ---
 title: "Wencong Lv"
 description: "Wencong Lv is a Mid-career Unknown researcher at Wuhan University of Technology in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.897088
+date: 2026-07-10T01:07:48.822841
 url: "/cdr-researcher-census/researchers/wencong-lv-a5113877/"
 layout: "researcher"
 hiddenInHomeList: true

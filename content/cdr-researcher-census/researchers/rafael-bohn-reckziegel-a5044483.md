@@ -1,7 +1,7 @@
 ---
 title: "Rafael Bohn Reckziegel"
 description: "Rafael Bohn Reckziegel is a Mid-career Soil Carbon researcher at University of Freiburg in DE. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.298831
+date: 2026-07-10T01:07:48.301757
 url: "/cdr-researcher-census/researchers/rafael-bohn-reckziegel-a5044483/"
 layout: "researcher"
 hiddenInHomeList: true

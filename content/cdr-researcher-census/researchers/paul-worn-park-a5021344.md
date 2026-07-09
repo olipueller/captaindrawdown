@@ -1,7 +1,7 @@
 ---
 title: "Paul Worn Park"
 description: "Paul Worn Park is a Senior Unknown researcher. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.976897
+date: 2026-07-10T01:07:47.986783
 url: "/cdr-researcher-census/researchers/paul-worn-park-a5021344/"
 layout: "researcher"
 hiddenInHomeList: true

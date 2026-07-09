@@ -1,7 +1,7 @@
 ---
 title: "Stefano L. Giandomenico"
 description: "Stefano L. Giandomenico is a Mid-career Unknown researcher at Max Planck Institute for Brain Research in DE. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.116032
+date: 2026-07-10T01:07:47.202662
 url: "/cdr-researcher-census/researchers/stefano-l-giandomenico-a5020193/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gyu-Beom Shin"
 description: "Gyu-Beom Shin is a Mid-career Unknown researcher at University of Central Florida in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.712888
+date: 2026-07-10T01:07:48.664016
 url: "/cdr-researcher-census/researchers/gyu-beom-shin-a5056810/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Klaus S. Lackner"
 description: "Klaus S. Lackner is an Eminent DAC researcher at Arizona State University in US. With 227 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.895550
+date: 2026-07-10T01:07:46.876742
 url: "/cdr-researcher-census/researchers/klaus-s-lackner-a5040701/"
 layout: "researcher"
 hiddenInHomeList: true

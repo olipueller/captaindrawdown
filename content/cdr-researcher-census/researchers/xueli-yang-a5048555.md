@@ -1,7 +1,7 @@
 ---
 title: "Xueli Yang"
 description: "Xueli Yang is a Mid-career Unknown researcher at Scripps Institution of Oceanography in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.839225
+date: 2026-07-10T01:07:48.771720
 url: "/cdr-researcher-census/researchers/xueli-yang-a5048555/"
 layout: "researcher"
 hiddenInHomeList: true

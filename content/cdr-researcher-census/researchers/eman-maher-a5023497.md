@@ -1,7 +1,7 @@
 ---
 title: "Eman Maher"
 description: "Eman Maher is a Senior Unknown researcher at South Valley University in EG. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.853155
+date: 2026-07-10T01:07:48.783884
 url: "/cdr-researcher-census/researchers/eman-maher-a5023497/"
 layout: "researcher"
 hiddenInHomeList: true

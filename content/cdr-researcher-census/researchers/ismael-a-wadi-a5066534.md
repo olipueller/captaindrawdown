@@ -1,7 +1,7 @@
 ---
 title: "Ismael A. Wadi"
 description: "Ismael A. Wadi is a Mid-career Unknown researcher at Prince Sattam Bin Abdulaziz University in SA. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.760889
+date: 2026-07-10T01:07:47.811470
 url: "/cdr-researcher-census/researchers/ismael-a-wadi-a5066534/"
 layout: "researcher"
 hiddenInHomeList: true

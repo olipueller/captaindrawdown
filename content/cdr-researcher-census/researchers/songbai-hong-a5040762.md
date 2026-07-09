@@ -1,7 +1,7 @@
 ---
 title: "Songbai Hong"
 description: "Songbai Hong is a Mid-career Soil Carbon researcher at Peking University in CN. With 58 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.100397
+date: 2026-07-10T01:07:47.184471
 url: "/cdr-researcher-census/researchers/songbai-hong-a5040762/"
 layout: "researcher"
 hiddenInHomeList: true

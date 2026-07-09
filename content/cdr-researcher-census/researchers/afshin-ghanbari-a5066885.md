@@ -1,7 +1,7 @@
 ---
 title: "Afshin Ghanbari"
 description: "Afshin Ghanbari is a Mid-career General CDR researcher at Qazvin Islamic Azad University in IR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.095344
+date: 2026-07-10T01:07:49.003946
 url: "/cdr-researcher-census/researchers/afshin-ghanbari-a5066885/"
 layout: "researcher"
 hiddenInHomeList: true

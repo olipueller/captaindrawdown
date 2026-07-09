@@ -1,7 +1,7 @@
 ---
 title: "Sarah Z. Rosengard"
 description: "Sarah Z. Rosengard is a Mid-career Soil Carbon researcher at School of the Art Institute of Chicago in US. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.175213
+date: 2026-07-10T01:07:47.264285
 url: "/cdr-researcher-census/researchers/sarah-z-rosengard-a5004832/"
 layout: "researcher"
 hiddenInHomeList: true

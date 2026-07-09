@@ -1,7 +1,7 @@
 ---
 title: "Runzhou Li"
 description: "Runzhou Li is a Senior Soil Carbon researcher at University of Science and Technology of China in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.708225
+date: 2026-07-10T01:07:48.660195
 url: "/cdr-researcher-census/researchers/runzhou-li-a5015105/"
 layout: "researcher"
 hiddenInHomeList: true

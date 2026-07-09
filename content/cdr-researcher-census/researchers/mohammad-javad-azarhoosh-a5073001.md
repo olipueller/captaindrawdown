@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Javad Azarhoosh"
 description: "Mohammad Javad Azarhoosh is a Mid-career Unknown researcher at Urmia University in IR. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.512440
+date: 2026-07-10T01:07:47.580627
 url: "/cdr-researcher-census/researchers/mohammad-javad-azarhoosh-a5073001/"
 layout: "researcher"
 hiddenInHomeList: true

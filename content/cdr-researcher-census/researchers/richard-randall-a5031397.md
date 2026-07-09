@@ -1,7 +1,7 @@
 ---
 title: "Richard Randall"
 description: "Richard Randall is a Mid-career Unknown researcher at Stanford University in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.212731
+date: 2026-07-10T01:07:49.124502
 url: "/cdr-researcher-census/researchers/richard-randall-a5031397/"
 layout: "researcher"
 hiddenInHomeList: true

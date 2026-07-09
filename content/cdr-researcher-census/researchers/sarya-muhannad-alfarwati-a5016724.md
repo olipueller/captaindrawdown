@@ -1,7 +1,7 @@
 ---
 title: "Sarya Muhannad Alfarwati"
 description: "Sarya Muhannad Alfarwati is an Early-career Unknown researcher at Qatar University in QA. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.722552
+date: 2026-07-10T01:07:48.672232
 url: "/cdr-researcher-census/researchers/sarya-muhannad-alfarwati-a5016724/"
 layout: "researcher"
 hiddenInHomeList: true

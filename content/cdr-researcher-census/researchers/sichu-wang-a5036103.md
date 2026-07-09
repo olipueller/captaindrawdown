@@ -1,7 +1,7 @@
 ---
 title: "Sichu Wang"
 description: "Sichu Wang is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.535768
+date: 2026-07-10T01:07:47.601665
 url: "/cdr-researcher-census/researchers/sichu-wang-a5036103/"
 layout: "researcher"
 hiddenInHomeList: true

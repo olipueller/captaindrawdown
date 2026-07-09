@@ -1,7 +1,7 @@
 ---
 title: "Medhn Berhane"
 description: "Medhn Berhane is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.904270
+date: 2026-07-10T01:07:47.918556
 url: "/cdr-researcher-census/researchers/medhn-berhane-a5088854/"
 layout: "researcher"
 hiddenInHomeList: true

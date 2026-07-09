@@ -1,7 +1,7 @@
 ---
 title: "Guoqin Wei"
 description: "Guoqin Wei is a Senior Unknown researcher at Culture Resource in EG. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.409116
+date: 2026-07-10T01:07:48.400616
 url: "/cdr-researcher-census/researchers/guoqin-wei-a5072277/"
 layout: "researcher"
 hiddenInHomeList: true

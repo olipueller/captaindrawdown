@@ -1,7 +1,7 @@
 ---
 title: "Mason Neuman"
 description: "Mason Neuman is a Mid-career Unknown researcher at Washington University in St. Louis in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.088280
+date: 2026-07-10T01:07:48.998082
 url: "/cdr-researcher-census/researchers/mason-neuman-a5073142/"
 layout: "researcher"
 hiddenInHomeList: true

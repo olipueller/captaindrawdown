@@ -1,7 +1,7 @@
 ---
 title: "Mathew J. Rasmussen"
 description: "Mathew J. Rasmussen is a Senior General CDR researcher at National Laboratory of the Rockies in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.506967
+date: 2026-07-10T01:07:47.575998
 url: "/cdr-researcher-census/researchers/mathew-j-rasmussen-a5021879/"
 layout: "researcher"
 hiddenInHomeList: true

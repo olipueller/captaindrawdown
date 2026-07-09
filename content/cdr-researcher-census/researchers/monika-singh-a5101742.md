@@ -1,7 +1,7 @@
 ---
 title: "Monika Singh"
 description: "Monika Singh is a Senior Unknown researcher. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.251875
+date: 2026-07-10T01:07:48.259890
 url: "/cdr-researcher-census/researchers/monika-singh-a5101742/"
 layout: "researcher"
 hiddenInHomeList: true

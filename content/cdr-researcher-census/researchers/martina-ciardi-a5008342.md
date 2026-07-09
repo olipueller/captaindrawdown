@@ -1,7 +1,7 @@
 ---
 title: "Martina Ciardi"
 description: "Martina Ciardi is a Mid-career Ocean CDR researcher at University of Almería in ES. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.568517
+date: 2026-07-10T01:07:47.632292
 url: "/cdr-researcher-census/researchers/martina-ciardi-a5008342/"
 layout: "researcher"
 hiddenInHomeList: true

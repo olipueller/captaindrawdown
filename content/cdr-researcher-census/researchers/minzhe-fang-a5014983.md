@@ -1,7 +1,7 @@
 ---
 title: "Minzhe Fang"
 description: "Minzhe Fang is a Mid-career Unknown researcher at China Academy of Railway Sciences in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.665785
+date: 2026-07-10T01:07:47.723022
 url: "/cdr-researcher-census/researchers/minzhe-fang-a5014983/"
 layout: "researcher"
 hiddenInHomeList: true

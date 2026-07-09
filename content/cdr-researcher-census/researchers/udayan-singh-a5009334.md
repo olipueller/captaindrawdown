@@ -1,7 +1,7 @@
 ---
 title: "Udayan Singh"
 description: "Udayan Singh is a Senior General CDR researcher at Argonne National Laboratory in US. With 60 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.372442
+date: 2026-07-10T01:07:47.454594
 url: "/cdr-researcher-census/researchers/udayan-singh-a5009334/"
 layout: "researcher"
 hiddenInHomeList: true

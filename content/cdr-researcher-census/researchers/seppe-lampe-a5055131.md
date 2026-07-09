@@ -1,7 +1,7 @@
 ---
 title: "Seppe Lampe"
 description: "Seppe Lampe is a Mid-career Unknown researcher at Vrije Universiteit Brussel in BE. With 46 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.713103
+date: 2026-07-10T01:07:47.767372
 url: "/cdr-researcher-census/researchers/seppe-lampe-a5055131/"
 layout: "researcher"
 hiddenInHomeList: true

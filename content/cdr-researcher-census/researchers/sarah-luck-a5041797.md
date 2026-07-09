@@ -1,7 +1,7 @@
 ---
 title: "Sarah Lück"
 description: "Sarah Lück is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.584941
+date: 2026-07-10T01:07:47.648441
 url: "/cdr-researcher-census/researchers/sarah-luck-a5041797/"
 layout: "researcher"
 hiddenInHomeList: true

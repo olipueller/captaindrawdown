@@ -1,7 +1,7 @@
 ---
 title: "Hassan Aljama"
 description: "Hassan Aljama is a Mid-career DAC researcher at Saudi Aramco (Saudi Arabia) in SA. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.182621
+date: 2026-07-10T01:07:47.271413
 url: "/cdr-researcher-census/researchers/hassan-aljama-a5011498/"
 layout: "researcher"
 hiddenInHomeList: true

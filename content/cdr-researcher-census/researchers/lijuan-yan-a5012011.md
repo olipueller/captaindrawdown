@@ -1,7 +1,7 @@
 ---
 title: "Lijuan Yan"
 description: "Lijuan Yan is a Senior Soil Carbon researcher at BASF Services Europe GmbH in DE. With 95 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.078938
+date: 2026-07-10T01:07:47.159505
 url: "/cdr-researcher-census/researchers/lijuan-yan-a5012011/"
 layout: "researcher"
 hiddenInHomeList: true

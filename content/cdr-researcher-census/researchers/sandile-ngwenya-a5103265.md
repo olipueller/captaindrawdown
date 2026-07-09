@@ -1,7 +1,7 @@
 ---
 title: "Sandile Ngwenya"
 description: "Sandile Ngwenya is a Mid-career Unknown researcher at South African Weather Service in ZA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.620354
+date: 2026-07-10T01:07:47.681102
 url: "/cdr-researcher-census/researchers/sandile-ngwenya-a5103265/"
 layout: "researcher"
 hiddenInHomeList: true

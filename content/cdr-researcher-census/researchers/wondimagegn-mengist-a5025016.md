@@ -1,7 +1,7 @@
 ---
 title: "Wondimagegn Mengist"
 description: "Wondimagegn Mengist is a Mid-career Soil Carbon researcher at Debre Berhan University in ET. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.078184
+date: 2026-07-10T01:07:47.158444
 url: "/cdr-researcher-census/researchers/wondimagegn-mengist-a5025016/"
 layout: "researcher"
 hiddenInHomeList: true

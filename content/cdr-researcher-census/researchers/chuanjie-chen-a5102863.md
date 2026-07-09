@@ -1,7 +1,7 @@
 ---
 title: "Chuanjie Chen"
 description: "Chuanjie Chen is a Mid-career Biochar researcher at Shanghai Institute of Materia Medica in CN. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.301488
+date: 2026-07-10T01:07:48.304177
 url: "/cdr-researcher-census/researchers/chuanjie-chen-a5102863/"
 layout: "researcher"
 hiddenInHomeList: true

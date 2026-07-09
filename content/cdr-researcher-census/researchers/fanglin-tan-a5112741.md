@@ -1,7 +1,7 @@
 ---
 title: "Fanglin Tan"
 description: "Fanglin Tan is a Senior Soil Carbon researcher at Guangdong Academy of Forestry in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.810776
+date: 2026-07-10T01:07:47.857255
 url: "/cdr-researcher-census/researchers/fanglin-tan-a5112741/"
 layout: "researcher"
 hiddenInHomeList: true

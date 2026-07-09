@@ -1,7 +1,7 @@
 ---
 title: "Rita Dias Guardão Franca"
 description: "Rita Dias Guardão Franca is a Mid-career Unknown researcher at Institute for Biotechnology and Bioengineering in PT. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.433617
+date: 2026-07-10T01:07:47.511017
 url: "/cdr-researcher-census/researchers/rita-dias-guardao-franca-a5040895/"
 layout: "researcher"
 hiddenInHomeList: true

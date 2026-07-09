@@ -1,7 +1,7 @@
 ---
 title: "Guangyu Li"
 description: "Guangyu Li is a Mid-career Unknown researcher at Huazhong Agricultural University in CN. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.346007
+date: 2026-07-10T01:07:47.428821
 url: "/cdr-researcher-census/researchers/guangyu-li-a5100412/"
 layout: "researcher"
 hiddenInHomeList: true

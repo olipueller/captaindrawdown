@@ -1,7 +1,7 @@
 ---
 title: "Yujing Lv"
 description: "Yujing Lv is a Mid-career Unknown researcher at Southeast University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.632462
+date: 2026-07-10T01:07:48.591957
 url: "/cdr-researcher-census/researchers/yujing-lv-a5030718/"
 layout: "researcher"
 hiddenInHomeList: true

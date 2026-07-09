@@ -1,7 +1,7 @@
 ---
 title: "Supapap Patsinghasanee"
 description: "Supapap Patsinghasanee is a Mid-career Unknown researcher at Ministry of Natural Resources and Environment in RU. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.297816
+date: 2026-07-10T01:07:48.300810
 url: "/cdr-researcher-census/researchers/supapap-patsinghasanee-a5084771/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "A.K. Biswas"
 description: "A.K. Biswas is a Senior Soil Carbon researcher at Narsee Monjee Institute of Management Studies University - Hyderabad Campus in IN. With 129 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.016430
+date: 2026-07-10T01:07:47.082318
 url: "/cdr-researcher-census/researchers/ak-biswas-a5024248/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Naonari Sakamoto"
 description: "Naonari Sakamoto is a Mid-career Unknown researcher at Toyota Central Research and Development Laboratories (Japan) in JP. With 45 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.000238
+date: 2026-07-10T01:07:48.009562
 url: "/cdr-researcher-census/researchers/naonari-sakamoto-a5003305/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Angelyn R. Lao"
 description: "Angelyn R. Lao is a Senior General CDR researcher at La Salle University in US. With 71 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.924762
+date: 2026-07-10T01:07:47.938281
 url: "/cdr-researcher-census/researchers/angelyn-r-lao-a5036042/"
 layout: "researcher"
 hiddenInHomeList: true

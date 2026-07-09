@@ -1,7 +1,7 @@
 ---
 title: "Sadaruddin Chachar"
 description: "Sadaruddin Chachar is a Senior Soil Carbon researcher at Sindh Agriculture University in PK. With 72 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.148275
+date: 2026-07-10T01:07:47.236829
 url: "/cdr-researcher-census/researchers/sadaruddin-chachar-a5030312/"
 layout: "researcher"
 hiddenInHomeList: true

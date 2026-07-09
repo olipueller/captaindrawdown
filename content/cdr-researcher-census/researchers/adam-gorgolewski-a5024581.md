@@ -1,7 +1,7 @@
 ---
 title: "Adam Gorgolewski"
 description: "Adam Gorgolewski is a Mid-career Soil Carbon researcher at Haliburton Forest & Wild Life Reserve in CA. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.454053
+date: 2026-07-10T01:07:48.442722
 url: "/cdr-researcher-census/researchers/adam-gorgolewski-a5024581/"
 layout: "researcher"
 hiddenInHomeList: true

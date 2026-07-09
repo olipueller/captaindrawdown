@@ -1,7 +1,7 @@
 ---
 title: "Guodong Ding"
 description: "Guodong Ding is a Senior Unknown researcher at Beijing Institute of Petrochemical Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.971485
+date: 2026-07-10T01:07:48.891612
 url: "/cdr-researcher-census/researchers/guodong-ding-a5103100/"
 layout: "researcher"
 hiddenInHomeList: true

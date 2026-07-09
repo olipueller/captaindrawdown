@@ -1,7 +1,7 @@
 ---
 title: "Mst. Mahmoda Akter"
 description: "Mst. Mahmoda Akter is a Mid-career Unknown researcher at University of Guelph in CA. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.806373
+date: 2026-07-10T01:07:47.853114
 url: "/cdr-researcher-census/researchers/mst-mahmoda-akter-a5087806/"
 layout: "researcher"
 hiddenInHomeList: true

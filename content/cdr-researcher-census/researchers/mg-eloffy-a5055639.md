@@ -1,7 +1,7 @@
 ---
 title: "M.G. Eloffy"
 description: "M.G. Eloffy is a Mid-career Unknown researcher at National Institute of Oceanography and Fisheries in EG. With 26 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.311395
+date: 2026-07-10T01:07:47.393649
 url: "/cdr-researcher-census/researchers/mg-eloffy-a5055639/"
 layout: "researcher"
 hiddenInHomeList: true

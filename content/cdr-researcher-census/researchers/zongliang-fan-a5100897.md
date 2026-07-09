@@ -1,7 +1,7 @@
 ---
 title: "Zongliang Fan"
 description: "Zongliang Fan is a Senior Unknown researcher at Lanzhou University of Technology in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.659053
+date: 2026-07-10T01:07:48.616487
 url: "/cdr-researcher-census/researchers/zongliang-fan-a5100897/"
 layout: "researcher"
 hiddenInHomeList: true

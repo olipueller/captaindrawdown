@@ -1,7 +1,7 @@
 ---
 title: "Rushan Arshad"
 description: "Rushan Arshad is a Mid-career Biochar researcher at University of Portsmouth in GB. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.884409
+date: 2026-07-10T01:07:47.899569
 url: "/cdr-researcher-census/researchers/rushan-arshad-a5044642/"
 layout: "researcher"
 hiddenInHomeList: true

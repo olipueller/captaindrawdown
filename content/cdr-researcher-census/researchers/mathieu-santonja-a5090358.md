@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Santonja"
 description: "Mathieu Santonja is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 128 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.056744
+date: 2026-07-10T01:07:47.132549
 url: "/cdr-researcher-census/researchers/mathieu-santonja-a5090358/"
 layout: "researcher"
 hiddenInHomeList: true

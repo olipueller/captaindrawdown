@@ -1,7 +1,7 @@
 ---
 title: "Dingxiong Chen"
 description: "Dingxiong Chen is a Senior Unknown researcher at Guangxi Normal University in CN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.645077
+date: 2026-07-10T01:07:48.603740
 url: "/cdr-researcher-census/researchers/dingxiong-chen-a5003134/"
 layout: "researcher"
 hiddenInHomeList: true

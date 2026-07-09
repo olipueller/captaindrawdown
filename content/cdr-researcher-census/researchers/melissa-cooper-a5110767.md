@@ -1,7 +1,7 @@
 ---
 title: "Melissa Cooper"
 description: "Melissa Cooper is a Senior Unknown researcher at West Virginia University in US. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.277116
+date: 2026-07-10T01:07:47.359673
 url: "/cdr-researcher-census/researchers/melissa-cooper-a5110767/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andrew G. Stack"
 description: "Andrew G. Stack is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 182 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.980558
+date: 2026-07-10T01:07:47.029952
 url: "/cdr-researcher-census/researchers/andrew-g-stack-a5031389/"
 layout: "researcher"
 hiddenInHomeList: true

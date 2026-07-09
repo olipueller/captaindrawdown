@@ -1,7 +1,7 @@
 ---
 title: "Shengchao Shi"
 description: "Shengchao Shi is a Senior Unknown researcher at Cornell University in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.364529
+date: 2026-07-10T01:07:47.446552
 url: "/cdr-researcher-census/researchers/shengchao-shi-a5021263/"
 layout: "researcher"
 hiddenInHomeList: true

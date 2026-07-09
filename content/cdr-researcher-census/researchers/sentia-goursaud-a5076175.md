@@ -1,7 +1,7 @@
 ---
 title: "Sentia Goursaud"
 description: "Sentia Goursaud is a Mid-career Unknown researcher at British Antarctic Survey in GB. With 56 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.569474
+date: 2026-07-10T01:07:47.633210
 url: "/cdr-researcher-census/researchers/sentia-goursaud-a5076175/"
 layout: "researcher"
 hiddenInHomeList: true

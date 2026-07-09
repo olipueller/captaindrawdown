@@ -1,7 +1,7 @@
 ---
 title: "Mirmahdi Seyedrezaei"
 description: "Mirmahdi Seyedrezaei is a Mid-career Unknown researcher at University of Southern California in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.023301
+date: 2026-07-10T01:07:48.030959
 url: "/cdr-researcher-census/researchers/mirmahdi-seyedrezaei-a5049674/"
 layout: "researcher"
 hiddenInHomeList: true

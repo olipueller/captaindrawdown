@@ -1,7 +1,7 @@
 ---
 title: "Hang Zhai"
 description: "Hang Zhai is a Mid-career Enhanced Weathering researcher at Southwest University in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.576226
+date: 2026-07-10T01:07:47.639485
 url: "/cdr-researcher-census/researchers/hang-zhai-a5085487/"
 layout: "researcher"
 hiddenInHomeList: true

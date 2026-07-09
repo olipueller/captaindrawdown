@@ -1,7 +1,7 @@
 ---
 title: "S.P. Hiremath"
 description: "S.P. Hiremath is a Senior Unknown researcher at KLE University in IN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.958806
+date: 2026-07-10T01:07:48.880245
 url: "/cdr-researcher-census/researchers/sp-hiremath-a5009491/"
 layout: "researcher"
 hiddenInHomeList: true

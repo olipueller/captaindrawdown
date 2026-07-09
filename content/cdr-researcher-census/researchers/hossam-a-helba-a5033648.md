@@ -1,7 +1,7 @@
 ---
 title: "Hossam A. Helba"
 description: "Hossam A. Helba is a Senior Unknown researcher at Alexandria University in EG. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.789667
+date: 2026-07-10T01:07:47.838524
 url: "/cdr-researcher-census/researchers/hossam-a-helba-a5033648/"
 layout: "researcher"
 hiddenInHomeList: true

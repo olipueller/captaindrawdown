@@ -1,7 +1,7 @@
 ---
 title: "Jenny Frank"
 description: "Jenny Frank is a Mid-career General CDR researcher at Purchase College in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.765146
+date: 2026-07-10T01:07:48.709761
 url: "/cdr-researcher-census/researchers/jenny-frank-a5017418/"
 layout: "researcher"
 hiddenInHomeList: true

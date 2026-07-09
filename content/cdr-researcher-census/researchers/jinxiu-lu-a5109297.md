@@ -1,7 +1,7 @@
 ---
 title: "Jinxiu Lu"
 description: "Jinxiu Lu is a Mid-career Soil Carbon researcher at Shanxi Academy of Agricultural Sciences in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.858881
+date: 2026-07-10T01:07:48.789085
 url: "/cdr-researcher-census/researchers/jinxiu-lu-a5109297/"
 layout: "researcher"
 hiddenInHomeList: true

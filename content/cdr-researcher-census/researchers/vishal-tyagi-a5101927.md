@@ -1,7 +1,7 @@
 ---
 title: "Vishal Tyagi"
 description: "Vishal Tyagi is a Mid-career Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.724044
+date: 2026-07-10T01:07:47.776653
 url: "/cdr-researcher-census/researchers/vishal-tyagi-a5101927/"
 layout: "researcher"
 hiddenInHomeList: true

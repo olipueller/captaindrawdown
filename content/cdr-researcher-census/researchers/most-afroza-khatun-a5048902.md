@@ -1,7 +1,7 @@
 ---
 title: "Most. Afroza Khatun"
 description: "Most. Afroza Khatun is a Mid-career Unknown researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.526845
+date: 2026-07-10T01:07:48.509581
 url: "/cdr-researcher-census/researchers/most-afroza-khatun-a5048902/"
 layout: "researcher"
 hiddenInHomeList: true

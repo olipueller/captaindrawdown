@@ -1,7 +1,7 @@
 ---
 title: "Katrin Schneider"
 description: "Katrin Schneider is a Senior Soil Carbon researcher at Karlsruhe Institute of Technology in DE. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.025854
+date: 2026-07-10T01:07:48.033560
 url: "/cdr-researcher-census/researchers/katrin-schneider-a5103973/"
 layout: "researcher"
 hiddenInHomeList: true

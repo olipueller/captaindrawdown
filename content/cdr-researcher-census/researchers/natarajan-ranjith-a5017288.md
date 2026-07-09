@@ -1,7 +1,7 @@
 ---
 title: "Natarajan Ranjith"
 description: "Natarajan Ranjith is a Mid-career Unknown researcher at National Environmental Engineering Research Institute in IN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.856593
+date: 2026-07-10T01:07:47.892023
 url: "/cdr-researcher-census/researchers/natarajan-ranjith-a5017288/"
 layout: "researcher"
 hiddenInHomeList: true

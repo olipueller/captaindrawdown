@@ -1,7 +1,7 @@
 ---
 title: "Avi Putri Pertiwi"
 description: "Avi Putri Pertiwi is a Mid-career Ocean CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.323301
+date: 2026-07-10T01:07:48.324003
 url: "/cdr-researcher-census/researchers/avi-putri-pertiwi-a5067524/"
 layout: "researcher"
 hiddenInHomeList: true

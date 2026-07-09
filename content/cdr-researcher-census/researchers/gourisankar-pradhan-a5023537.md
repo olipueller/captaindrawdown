@@ -1,7 +1,7 @@
 ---
 title: "Gourisankar Pradhan"
 description: "Gourisankar Pradhan is a Senior Soil Carbon researcher at Banaras Hindu University in IN. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.235448
+date: 2026-07-10T01:07:47.322142
 url: "/cdr-researcher-census/researchers/gourisankar-pradhan-a5023537/"
 layout: "researcher"
 hiddenInHomeList: true

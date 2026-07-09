@@ -1,7 +1,7 @@
 ---
 title: "Baishali Bhattacharjee"
 description: "Baishali Bhattacharjee is a Mid-career Biochar researcher at National Institute Of Technology Silchar in IN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.819665
+date: 2026-07-10T01:07:47.865880
 url: "/cdr-researcher-census/researchers/baishali-bhattacharjee-a5033243/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "JAE EDMONDS"
 description: "JAE EDMONDS is a Mid-career General CDR researcher at Joint Global Change Research Institute in US. With 7 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.990247
+date: 2026-07-10T01:07:48.909170
 url: "/cdr-researcher-census/researchers/jae-edmonds-a5113672/"
 layout: "researcher"
 hiddenInHomeList: true

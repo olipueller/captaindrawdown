@@ -1,7 +1,7 @@
 ---
 title: "Weiming Gong"
 description: "Weiming Gong is a Mid-career Unknown researcher at Southeast University in BD. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.227464
+date: 2026-07-10T01:07:49.137065
 url: "/cdr-researcher-census/researchers/weiming-gong-a5114127/"
 layout: "researcher"
 hiddenInHomeList: true

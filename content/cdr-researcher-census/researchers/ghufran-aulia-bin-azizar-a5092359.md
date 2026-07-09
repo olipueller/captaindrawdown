@@ -1,7 +1,7 @@
 ---
 title: "Ghufran Aulia Bin Azizar"
 description: "Ghufran Aulia Bin Azizar is a Mid-career Unknown researcher at University of Ulsan in KR. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.963277
+date: 2026-07-10T01:07:48.884350
 url: "/cdr-researcher-census/researchers/ghufran-aulia-bin-azizar-a5092359/"
 layout: "researcher"
 hiddenInHomeList: true

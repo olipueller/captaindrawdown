@@ -1,7 +1,7 @@
 ---
 title: "Darìja Bilandžija"
 description: "Darìja Bilandžija is a Mid-career Soil Carbon researcher at University of Zagreb in HR. With 70 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.722372
+date: 2026-07-10T01:07:47.775356
 url: "/cdr-researcher-census/researchers/darija-bilandzija-a5015159/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bruna R. F. Oliveira"
 description: "Bruna R. F. Oliveira is a Mid-career Soil Carbon researcher at University of Aveiro in PT. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.684737
+date: 2026-07-10T01:07:47.741172
 url: "/cdr-researcher-census/researchers/bruna-r-f-oliveira-a5083959/"
 layout: "researcher"
 hiddenInHomeList: true

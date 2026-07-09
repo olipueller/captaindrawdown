@@ -1,7 +1,7 @@
 ---
 title: "Martin Kaonga"
 description: "Martin Kaonga is a Senior Soil Carbon researcher at Isaac Newton Institute for Mathematical Sciences in GB. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.353944
+date: 2026-07-10T01:07:47.436052
 url: "/cdr-researcher-census/researchers/martin-kaonga-a5065900/"
 layout: "researcher"
 hiddenInHomeList: true

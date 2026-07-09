@@ -1,7 +1,7 @@
 ---
 title: "Shen Wang"
 description: "Shen Wang is a Senior Soil Carbon researcher at Huaqiao University in CN. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.235546
+date: 2026-07-10T01:07:48.245159
 url: "/cdr-researcher-census/researchers/shen-wang-a5100377/"
 layout: "researcher"
 hiddenInHomeList: true

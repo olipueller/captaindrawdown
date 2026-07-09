@@ -1,7 +1,7 @@
 ---
 title: "Guoli Hao"
 description: "Guoli Hao is a Senior Soil Carbon researcher at Jilin University in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.636712
+date: 2026-07-10T01:07:48.595741
 url: "/cdr-researcher-census/researchers/guoli-hao-a5052591/"
 layout: "researcher"
 hiddenInHomeList: true

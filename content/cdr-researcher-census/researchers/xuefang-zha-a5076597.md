@@ -1,7 +1,7 @@
 ---
 title: "Xuefang Zha"
 description: "Xuefang Zha is a Senior Unknown researcher at Guizhou University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.732529
+date: 2026-07-10T01:07:48.681144
 url: "/cdr-researcher-census/researchers/xuefang-zha-a5076597/"
 layout: "researcher"
 hiddenInHomeList: true

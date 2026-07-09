@@ -1,7 +1,7 @@
 ---
 title: "Stefano Campanaro"
 description: "Stefano Campanaro is a Mid-career Unknown researcher at University of Padua in IT. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.295510
+date: 2026-07-10T01:07:48.298919
 url: "/cdr-researcher-census/researchers/stefano-campanaro-a5112562/"
 layout: "researcher"
 hiddenInHomeList: true

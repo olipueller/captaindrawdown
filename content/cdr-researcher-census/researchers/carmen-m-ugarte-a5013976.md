@@ -1,7 +1,7 @@
 ---
 title: "Carmen M. Ugarte"
 description: "Carmen M. Ugarte is a Mid-career Soil Carbon researcher at Illinois Department of Natural Resources in US. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.466438
+date: 2026-07-10T01:07:47.539757
 url: "/cdr-researcher-census/researchers/carmen-m-ugarte-a5013976/"
 layout: "researcher"
 hiddenInHomeList: true

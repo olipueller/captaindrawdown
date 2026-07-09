@@ -1,7 +1,7 @@
 ---
 title: "A. Labuschagne"
 description: "A. Labuschagne is a Senior Unknown researcher at University of Twente in NL. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.779607
+date: 2026-07-10T01:07:48.722910
 url: "/cdr-researcher-census/researchers/a-labuschagne-a5109132/"
 layout: "researcher"
 hiddenInHomeList: true

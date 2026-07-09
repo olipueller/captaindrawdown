@@ -1,7 +1,7 @@
 ---
 title: "Mengke Chen"
 description: "Mengke Chen is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.706224
+date: 2026-07-10T01:07:47.760434
 url: "/cdr-researcher-census/researchers/mengke-chen-a5007420/"
 layout: "researcher"
 hiddenInHomeList: true

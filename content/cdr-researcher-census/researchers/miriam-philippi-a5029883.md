@@ -1,7 +1,7 @@
 ---
 title: "Miriam Philippi"
 description: "Miriam Philippi is a Senior Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.550672
+date: 2026-07-10T01:07:47.614692
 url: "/cdr-researcher-census/researchers/miriam-philippi-a5029883/"
 layout: "researcher"
 hiddenInHomeList: true

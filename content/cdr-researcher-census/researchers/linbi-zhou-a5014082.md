@@ -1,7 +1,7 @@
 ---
 title: "Linbi Zhou"
 description: "Linbi Zhou is a Mid-career Unknown researcher at Sinopec (China) in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.964306
+date: 2026-07-10T01:07:47.974799
 url: "/cdr-researcher-census/researchers/linbi-zhou-a5014082/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Enze Zheng"
 description: "Enze Zheng is a Mid-career Unknown researcher at Inner Mongolia University of Technology in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.341155
+date: 2026-07-10T01:07:47.424127
 url: "/cdr-researcher-census/researchers/enze-zheng-a5073479/"
 layout: "researcher"
 hiddenInHomeList: true

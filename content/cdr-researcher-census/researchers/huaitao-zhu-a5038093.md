@@ -1,7 +1,7 @@
 ---
 title: "Huaitao Zhu"
 description: "Huaitao Zhu is a Mid-career Unknown researcher at Northwestern Polytechnical University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.489572
+date: 2026-07-10T01:07:48.475661
 url: "/cdr-researcher-census/researchers/huaitao-zhu-a5038093/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qi Sheng"
 description: "Qi Sheng is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.360410
+date: 2026-07-10T01:07:47.442327
 url: "/cdr-researcher-census/researchers/qi-sheng-a5069855/"
 layout: "researcher"
 hiddenInHomeList: true

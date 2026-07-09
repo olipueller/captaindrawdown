@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Nolte"
 description: "Stefanie Nolte is a Senior Soil Carbon researcher at Lower Saxon Wadden Sea National Park Authority in DE. With 76 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.159055
+date: 2026-07-10T01:07:47.248248
 url: "/cdr-researcher-census/researchers/stefanie-nolte-a5049866/"
 layout: "researcher"
 hiddenInHomeList: true

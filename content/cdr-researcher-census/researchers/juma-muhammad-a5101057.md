@@ -1,7 +1,7 @@
 ---
 title: "Juma Muhammad"
 description: "Juma Muhammad is a Mid-career Unknown researcher. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.392493
+date: 2026-07-10T01:07:47.473517
 url: "/cdr-researcher-census/researchers/juma-muhammad-a5101057/"
 layout: "researcher"
 hiddenInHomeList: true

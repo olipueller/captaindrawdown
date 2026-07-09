@@ -1,7 +1,7 @@
 ---
 title: "Marjia Afroz Sharno"
 description: "Marjia Afroz Sharno is an Early-career General CDR researcher at University of Dhaka in BD. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.718500
+date: 2026-07-10T01:07:48.668447
 url: "/cdr-researcher-census/researchers/marjia-afroz-sharno-a5026750/"
 layout: "researcher"
 hiddenInHomeList: true

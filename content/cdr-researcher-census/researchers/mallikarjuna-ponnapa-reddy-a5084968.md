@@ -1,7 +1,7 @@
 ---
 title: "Mallikarjuna Ponnapa Reddy"
 description: "Mallikarjuna Ponnapa Reddy is a Mid-career Unknown researcher at Nepean Hospital in AU. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.332680
+date: 2026-07-10T01:07:47.414458
 url: "/cdr-researcher-census/researchers/mallikarjuna-ponnapa-reddy-a5084968/"
 layout: "researcher"
 hiddenInHomeList: true

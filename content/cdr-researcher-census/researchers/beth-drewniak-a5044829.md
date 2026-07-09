@@ -1,7 +1,7 @@
 ---
 title: "Beth Drewniak"
 description: "Beth Drewniak is a Senior BECCS researcher at Argonne National Laboratory in US. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.968141
+date: 2026-07-10T01:07:47.010706
 url: "/cdr-researcher-census/researchers/beth-drewniak-a5044829/"
 layout: "researcher"
 hiddenInHomeList: true

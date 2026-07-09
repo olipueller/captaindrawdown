@@ -1,7 +1,7 @@
 ---
 title: "Alberto Alamia"
 description: "Alberto Alamia is a Mid-career General CDR researcher at Aarhus University in DK. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.899945
+date: 2026-07-10T01:07:47.914571
 url: "/cdr-researcher-census/researchers/alberto-alamia-a5015833/"
 layout: "researcher"
 hiddenInHomeList: true

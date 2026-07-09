@@ -1,7 +1,7 @@
 ---
 title: "Jesse Jenkins"
 description: "Jesse Jenkins is a Senior General CDR researcher at Princeton University in US. With 217 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.930014
+date: 2026-07-10T01:07:46.947036
 url: "/cdr-researcher-census/researchers/jesse-jenkins-a5009480/"
 layout: "researcher"
 hiddenInHomeList: true

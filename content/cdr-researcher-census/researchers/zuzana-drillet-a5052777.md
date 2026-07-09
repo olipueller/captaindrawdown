@@ -1,7 +1,7 @@
 ---
 title: "Zuzana Drillet"
 description: "Zuzana Drillet is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.223482
+date: 2026-07-10T01:07:48.233942
 url: "/cdr-researcher-census/researchers/zuzana-drillet-a5052777/"
 layout: "researcher"
 hiddenInHomeList: true

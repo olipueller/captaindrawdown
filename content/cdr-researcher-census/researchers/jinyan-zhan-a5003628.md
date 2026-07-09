@@ -1,7 +1,7 @@
 ---
 title: "Jinyan Zhan"
 description: "Jinyan Zhan is a Senior General CDR researcher at Beijing Normal University in CN. With 176 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.945069
+date: 2026-07-10T01:07:46.975017
 url: "/cdr-researcher-census/researchers/jinyan-zhan-a5003628/"
 layout: "researcher"
 hiddenInHomeList: true

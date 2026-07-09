@@ -1,7 +1,7 @@
 ---
 title: "Stefan Vlaminck"
 description: "Stefan Vlaminck is a Senior General CDR researcher at University of Antwerp in BE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.837163
+date: 2026-07-10T01:07:48.769953
 url: "/cdr-researcher-census/researchers/stefan-vlaminck-a5070587/"
 layout: "researcher"
 hiddenInHomeList: true

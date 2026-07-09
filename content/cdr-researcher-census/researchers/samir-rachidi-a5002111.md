@@ -1,7 +1,7 @@
 ---
 title: "Samir Rachidi"
 description: "Samir Rachidi is a Mid-career General CDR researcher at Institut of Research in Solar Energy and New Energies in MA. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.313862
+date: 2026-07-10T01:07:47.396028
 url: "/cdr-researcher-census/researchers/samir-rachidi-a5002111/"
 layout: "researcher"
 hiddenInHomeList: true

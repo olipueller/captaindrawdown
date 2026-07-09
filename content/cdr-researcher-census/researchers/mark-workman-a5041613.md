@@ -1,7 +1,7 @@
 ---
 title: "Mark Workman"
 description: "Mark Workman is a Senior General CDR researcher at Imperial College London in GB. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.171324
+date: 2026-07-10T01:07:47.261115
 url: "/cdr-researcher-census/researchers/mark-workman-a5041613/"
 layout: "researcher"
 hiddenInHomeList: true

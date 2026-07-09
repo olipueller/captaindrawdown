@@ -1,7 +1,7 @@
 ---
 title: "Lina I. Ceballos"
 description: "Lina I. Ceballos is a Senior Unknown researcher at Universidad del Valle in NI. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.064770
+date: 2026-07-10T01:07:48.067497
 url: "/cdr-researcher-census/researchers/lina-i-ceballos-a5074472/"
 layout: "researcher"
 hiddenInHomeList: true

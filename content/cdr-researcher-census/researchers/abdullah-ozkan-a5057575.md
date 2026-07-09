@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Özkan"
 description: "Abdullah Özkan is a Mid-career Unknown researcher at İskenderun Technical University in TR. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.886316
+date: 2026-07-10T01:07:47.901337
 url: "/cdr-researcher-census/researchers/abdullah-ozkan-a5057575/"
 layout: "researcher"
 hiddenInHomeList: true

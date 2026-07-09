@@ -1,7 +1,7 @@
 ---
 title: "M. Sadegh Araghizadeh"
 description: "M. Sadegh Araghizadeh is a Mid-career Unknown researcher at Gyeongsang National University in KR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.247877
+date: 2026-07-10T01:07:49.155414
 url: "/cdr-researcher-census/researchers/m-sadegh-araghizadeh-a5020560/"
 layout: "researcher"
 hiddenInHomeList: true

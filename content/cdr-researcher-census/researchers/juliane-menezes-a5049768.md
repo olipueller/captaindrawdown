@@ -1,7 +1,7 @@
 ---
 title: "Juliane Menezes"
 description: "Juliane Menezes is a Mid-career Unknown researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.195809
+date: 2026-07-10T01:07:49.109062
 url: "/cdr-researcher-census/researchers/juliane-menezes-a5049768/"
 layout: "researcher"
 hiddenInHomeList: true

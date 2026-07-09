@@ -1,7 +1,7 @@
 ---
 title: "Verena Bill"
 description: "Verena Bill is a Mid-career Unknown researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.551199
+date: 2026-07-10T01:07:48.531191
 url: "/cdr-researcher-census/researchers/verena-bill-a5079882/"
 layout: "researcher"
 hiddenInHomeList: true

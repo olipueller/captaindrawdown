@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Jiao"
 description: "Wenjun Jiao is a Senior Unknown researcher at Northeast Electric Power University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.709605
+date: 2026-07-10T01:07:47.763838
 url: "/cdr-researcher-census/researchers/wenjun-jiao-a5044247/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dinesh Chand Meena"
 description: "Dinesh Chand Meena is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 40 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.682191
+date: 2026-07-10T01:07:48.637296
 url: "/cdr-researcher-census/researchers/dinesh-chand-meena-a5009327/"
 layout: "researcher"
 hiddenInHomeList: true

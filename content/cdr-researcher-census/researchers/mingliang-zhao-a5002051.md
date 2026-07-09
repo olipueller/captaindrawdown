@@ -1,7 +1,7 @@
 ---
 title: "Mingliang Zhao"
 description: "Mingliang Zhao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.752949
+date: 2026-07-10T01:07:47.803766
 url: "/cdr-researcher-census/researchers/mingliang-zhao-a5002051/"
 layout: "researcher"
 hiddenInHomeList: true

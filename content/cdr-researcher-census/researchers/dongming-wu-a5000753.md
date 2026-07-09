@@ -1,7 +1,7 @@
 ---
 title: "Dongming Wu"
 description: "Dongming Wu is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.350842
+date: 2026-07-10T01:07:47.433166
 url: "/cdr-researcher-census/researchers/dongming-wu-a5000753/"
 layout: "researcher"
 hiddenInHomeList: true

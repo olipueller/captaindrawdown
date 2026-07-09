@@ -1,7 +1,7 @@
 ---
 title: "Thi Phuong Nga Nguyen"
 description: "Thi Phuong Nga Nguyen is a Mid-career Unknown researcher at Northumbria University in GB. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.294803
+date: 2026-07-10T01:07:47.377118
 url: "/cdr-researcher-census/researchers/thi-phuong-nga-nguyen-a5072399/"
 layout: "researcher"
 hiddenInHomeList: true

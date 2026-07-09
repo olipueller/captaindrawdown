@@ -1,7 +1,7 @@
 ---
 title: "Zhengjun Yan"
 description: "Zhengjun Yan is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.154950
+date: 2026-07-10T01:07:48.174285
 url: "/cdr-researcher-census/researchers/zhengjun-yan-a5113128/"
 layout: "researcher"
 hiddenInHomeList: true

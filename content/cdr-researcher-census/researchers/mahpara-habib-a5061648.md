@@ -1,7 +1,7 @@
 ---
 title: "Mahpara Habib"
 description: "Mahpara Habib is an Early-career Unknown researcher at University of Pittsburgh in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.000441
+date: 2026-07-10T01:07:48.009750
 url: "/cdr-researcher-census/researchers/mahpara-habib-a5061648/"
 layout: "researcher"
 hiddenInHomeList: true

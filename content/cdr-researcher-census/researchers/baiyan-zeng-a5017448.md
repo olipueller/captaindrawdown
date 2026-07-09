@@ -1,7 +1,7 @@
 ---
 title: "Baiyan Zeng"
 description: "Baiyan Zeng is an Early-career Biochar researcher at Xinjiang New Energy Research Institute (China) in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.789944
+date: 2026-07-10T01:07:48.730853
 url: "/cdr-researcher-census/researchers/baiyan-zeng-a5017448/"
 layout: "researcher"
 hiddenInHomeList: true

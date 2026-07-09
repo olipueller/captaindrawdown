@@ -1,7 +1,7 @@
 ---
 title: "Phillip J. Milner"
 description: "Phillip J. Milner is a Senior General CDR researcher at Cornell University in US. With 240 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.948382
+date: 2026-07-10T01:07:46.980255
 url: "/cdr-researcher-census/researchers/phillip-j-milner-a5002804/"
 layout: "researcher"
 hiddenInHomeList: true

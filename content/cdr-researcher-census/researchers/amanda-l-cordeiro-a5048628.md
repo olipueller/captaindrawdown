@@ -1,7 +1,7 @@
 ---
 title: "Amanda L. Cordeiro"
 description: "Amanda L. Cordeiro is a Mid-career Unknown researcher at University of Minnesota System in US. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.275571
+date: 2026-07-10T01:07:47.358207
 url: "/cdr-researcher-census/researchers/amanda-l-cordeiro-a5048628/"
 layout: "researcher"
 hiddenInHomeList: true

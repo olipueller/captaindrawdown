@@ -1,7 +1,7 @@
 ---
 title: "Zhengjuan Yan"
 description: "Zhengjuan Yan is a Mid-career Biochar researcher at Sichuan University in CN. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.278787
+date: 2026-07-10T01:07:47.361058
 url: "/cdr-researcher-census/researchers/zhengjuan-yan-a5044789/"
 layout: "researcher"
 hiddenInHomeList: true

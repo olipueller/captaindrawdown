@@ -1,7 +1,7 @@
 ---
 title: "Nicholas E. Bruns"
 description: "Nicholas E. Bruns is a Senior Soil Carbon researcher at William & Mary in US. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.156920
+date: 2026-07-10T01:07:47.245627
 url: "/cdr-researcher-census/researchers/nicholas-e-bruns-a5002023/"
 layout: "researcher"
 hiddenInHomeList: true

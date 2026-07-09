@@ -1,7 +1,7 @@
 ---
 title: "Ravi W. Tapre"
 description: "Ravi W. Tapre is a Mid-career Unknown researcher at University of Mumbai in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.964787
+date: 2026-07-10T01:07:48.885753
 url: "/cdr-researcher-census/researchers/ravi-w-tapre-a5081828/"
 layout: "researcher"
 hiddenInHomeList: true

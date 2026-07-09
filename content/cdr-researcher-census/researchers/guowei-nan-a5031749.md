@@ -1,7 +1,7 @@
 ---
 title: "Guowei Nan"
 description: "Guowei Nan is a Mid-career Soil Carbon researcher at Yan'an University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.219250
+date: 2026-07-10T01:07:49.130056
 url: "/cdr-researcher-census/researchers/guowei-nan-a5031749/"
 layout: "researcher"
 hiddenInHomeList: true

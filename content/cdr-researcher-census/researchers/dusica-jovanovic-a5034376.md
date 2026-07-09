@@ -1,7 +1,7 @@
 ---
 title: "Dušica Jovanović"
 description: "Dušica Jovanović is a Mid-career Unknown researcher at University of Novi Sad in RS. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.262461
+date: 2026-07-10T01:07:49.168846
 url: "/cdr-researcher-census/researchers/dusica-jovanovic-a5034376/"
 layout: "researcher"
 hiddenInHomeList: true

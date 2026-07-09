@@ -1,7 +1,7 @@
 ---
 title: "Behnam Nourmohammadi Khiarak"
 description: "Behnam Nourmohammadi Khiarak is a Mid-career General CDR researcher at Queen's University in CA. With 21 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.500841
+date: 2026-07-10T01:07:47.570530
 url: "/cdr-researcher-census/researchers/behnam-nourmohammadi-khiarak-a5072811/"
 layout: "researcher"
 hiddenInHomeList: true

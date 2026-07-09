@@ -1,7 +1,7 @@
 ---
 title: "Marília I. S. Folegatti"
 description: "Marília I. S. Folegatti is a Mid-career General CDR researcher at Brazilian Agricultural Research Corporation in BR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.500778
+date: 2026-07-10T01:07:48.486241
 url: "/cdr-researcher-census/researchers/marilia-i-s-folegatti-a5028054/"
 layout: "researcher"
 hiddenInHomeList: true

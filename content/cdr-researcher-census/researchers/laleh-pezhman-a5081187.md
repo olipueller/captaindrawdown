@@ -1,7 +1,7 @@
 ---
 title: "Laleh Pezhman"
 description: "Laleh Pezhman is a Mid-career Unknown researcher at University College Birmingham in GB. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.812882
+date: 2026-07-10T01:07:48.749983
 url: "/cdr-researcher-census/researchers/laleh-pezhman-a5081187/"
 layout: "researcher"
 hiddenInHomeList: true

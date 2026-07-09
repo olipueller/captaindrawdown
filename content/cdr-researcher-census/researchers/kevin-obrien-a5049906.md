@@ -1,7 +1,7 @@
 ---
 title: "Kevin O’Brien"
 description: "Kevin O’Brien is a Senior General CDR researcher at University of Washington in US. With 104 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.919881
+date: 2026-07-10T01:07:46.927595
 url: "/cdr-researcher-census/researchers/kevin-obrien-a5049906/"
 layout: "researcher"
 hiddenInHomeList: true

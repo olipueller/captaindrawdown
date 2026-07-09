@@ -1,7 +1,7 @@
 ---
 title: "Marta Moyano"
 description: "Marta Moyano is a Senior Ocean CDR researcher at Norwegian Institute for Water Research in NO. With 73 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.197763
+date: 2026-07-10T01:07:47.286950
 url: "/cdr-researcher-census/researchers/marta-moyano-a5087955/"
 layout: "researcher"
 hiddenInHomeList: true

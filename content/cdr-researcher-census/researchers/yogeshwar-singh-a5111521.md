@@ -1,7 +1,7 @@
 ---
 title: "Yogeshwar Singh"
 description: "Yogeshwar Singh is a Senior Soil Carbon researcher at Maharani Laxmi Bai Medical College in IN. With 50 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.335358
+date: 2026-07-10T01:07:47.417548
 url: "/cdr-researcher-census/researchers/yogeshwar-singh-a5111521/"
 layout: "researcher"
 hiddenInHomeList: true

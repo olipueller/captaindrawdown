@@ -1,7 +1,7 @@
 ---
 title: "Wenquan Peng"
 description: "Wenquan Peng is a Mid-career Unknown researcher at Peking University Shenzhen Hospital in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.117198
+date: 2026-07-10T01:07:49.023207
 url: "/cdr-researcher-census/researchers/wenquan-peng-a5048832/"
 layout: "researcher"
 hiddenInHomeList: true

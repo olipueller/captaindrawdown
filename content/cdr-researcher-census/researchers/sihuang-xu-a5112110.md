@@ -1,7 +1,7 @@
 ---
 title: "Sihuang Xu"
 description: "Sihuang Xu is a Senior Unknown researcher at China University of Geosciences in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.631010
+date: 2026-07-10T01:07:48.590662
 url: "/cdr-researcher-census/researchers/sihuang-xu-a5112110/"
 layout: "researcher"
 hiddenInHomeList: true

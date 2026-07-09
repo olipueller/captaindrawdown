@@ -1,7 +1,7 @@
 ---
 title: "Dunfeng Si"
 description: "Dunfeng Si is a Mid-career Soil Carbon researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.847863
+date: 2026-07-10T01:07:47.883661
 url: "/cdr-researcher-census/researchers/dunfeng-si-a5045041/"
 layout: "researcher"
 hiddenInHomeList: true

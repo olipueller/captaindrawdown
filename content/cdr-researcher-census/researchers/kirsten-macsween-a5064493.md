@@ -1,7 +1,7 @@
 ---
 title: "Kirsten MacSween"
 description: "Kirsten MacSween is a Senior Soil Carbon researcher at University of Aberdeen in GB. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.815724
+date: 2026-07-10T01:07:48.752231
 url: "/cdr-researcher-census/researchers/kirsten-macsween-a5064493/"
 layout: "researcher"
 hiddenInHomeList: true

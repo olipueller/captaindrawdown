@@ -1,7 +1,7 @@
 ---
 title: "Wendy C. Gardner"
 description: "Wendy C. Gardner is a Senior Unknown researcher at Thompson Rivers University in CA. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.097855
+date: 2026-07-10T01:07:48.097551
 url: "/cdr-researcher-census/researchers/wendy-c-gardner-a5026051/"
 layout: "researcher"
 hiddenInHomeList: true

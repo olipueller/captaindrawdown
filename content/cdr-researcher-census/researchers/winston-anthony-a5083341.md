@@ -1,7 +1,7 @@
 ---
 title: "Winston Anthony"
 description: "Winston Anthony is a Mid-career Unknown researcher at Pacific Northwest National Laboratory in US. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.283849
+date: 2026-07-10T01:07:47.366250
 url: "/cdr-researcher-census/researchers/winston-anthony-a5083341/"
 layout: "researcher"
 hiddenInHomeList: true

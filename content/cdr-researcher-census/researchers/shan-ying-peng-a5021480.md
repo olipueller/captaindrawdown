@@ -1,7 +1,7 @@
 ---
 title: "Shan-Ying Peng"
 description: "Shan-Ying Peng is a Senior Unknown researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.194502
+date: 2026-07-10T01:07:48.208256
 url: "/cdr-researcher-census/researchers/shan-ying-peng-a5021480/"
 layout: "researcher"
 hiddenInHomeList: true

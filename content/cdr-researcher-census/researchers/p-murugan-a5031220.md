@@ -1,7 +1,7 @@
 ---
 title: "P Murugan"
 description: "P Murugan is a Mid-career Unknown researcher at Tamil Nadu Agricultural University in IN. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.418249
+date: 2026-07-10T01:07:47.497355
 url: "/cdr-researcher-census/researchers/p-murugan-a5031220/"
 layout: "researcher"
 hiddenInHomeList: true

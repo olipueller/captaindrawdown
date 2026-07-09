@@ -1,7 +1,7 @@
 ---
 title: "Gera van Os"
 description: "Gera van Os is a Mid-career Soil Carbon researcher at Avans University of Applied Sciences in NL. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.608285
+date: 2026-07-10T01:07:48.570553
 url: "/cdr-researcher-census/researchers/gera-van-os-a5052318/"
 layout: "researcher"
 hiddenInHomeList: true

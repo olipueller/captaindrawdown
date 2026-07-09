@@ -1,7 +1,7 @@
 ---
 title: "Shaoqi Yang"
 description: "Shaoqi Yang is a Mid-career Unknown researcher at Nanjing University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.148748
+date: 2026-07-10T01:07:48.168775
 url: "/cdr-researcher-census/researchers/shaoqi-yang-a5031529/"
 layout: "researcher"
 hiddenInHomeList: true

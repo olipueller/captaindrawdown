@@ -1,7 +1,7 @@
 ---
 title: "Jan Oestmann"
 description: "Jan Oestmann is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.019291
+date: 2026-07-10T01:07:48.935298
 url: "/cdr-researcher-census/researchers/jan-oestmann-a5086299/"
 layout: "researcher"
 hiddenInHomeList: true

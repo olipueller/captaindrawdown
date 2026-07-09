@@ -1,7 +1,7 @@
 ---
 title: "Peidong Yan"
 description: "Peidong Yan is a Mid-career Unknown researcher at Forestry Research Institute in UZ. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.345736
+date: 2026-07-10T01:07:48.344663
 url: "/cdr-researcher-census/researchers/peidong-yan-a5103946/"
 layout: "researcher"
 hiddenInHomeList: true

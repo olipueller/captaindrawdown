@@ -1,7 +1,7 @@
 ---
 title: "Hongwei Tu"
 description: "Hongwei Tu is an Early-career Unknown researcher at Guangdong Provincial Center for Disease Control and Prevention in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.949908
+date: 2026-07-10T01:07:47.961566
 url: "/cdr-researcher-census/researchers/hongwei-tu-a5072319/"
 layout: "researcher"
 hiddenInHomeList: true

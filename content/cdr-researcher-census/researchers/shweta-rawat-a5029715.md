@@ -1,7 +1,7 @@
 ---
 title: "Shweta Rawat"
 description: "Shweta Rawat is a Mid-career Soil Carbon researcher at Chatham House in GB. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.184410
+date: 2026-07-10T01:07:48.199808
 url: "/cdr-researcher-census/researchers/shweta-rawat-a5029715/"
 layout: "researcher"
 hiddenInHomeList: true

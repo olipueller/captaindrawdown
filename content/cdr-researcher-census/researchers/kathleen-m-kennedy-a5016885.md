@@ -1,7 +1,7 @@
 ---
 title: "Kathleen M. Kennedy"
 description: "Kathleen M. Kennedy is a Senior General CDR researcher. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.952649
+date: 2026-07-10T01:07:47.964240
 url: "/cdr-researcher-census/researchers/kathleen-m-kennedy-a5016885/"
 layout: "researcher"
 hiddenInHomeList: true

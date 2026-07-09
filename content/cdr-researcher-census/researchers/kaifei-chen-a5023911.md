@@ -1,7 +1,7 @@
 ---
 title: "Kaifei Chen"
 description: "Kaifei Chen is a Mid-career General CDR researcher at Zhejiang Chinese Medical University in CN. With 34 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.206966
+date: 2026-07-10T01:07:47.294868
 url: "/cdr-researcher-census/researchers/kaifei-chen-a5023911/"
 layout: "researcher"
 hiddenInHomeList: true

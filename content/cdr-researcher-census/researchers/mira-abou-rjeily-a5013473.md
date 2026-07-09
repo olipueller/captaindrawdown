@@ -1,7 +1,7 @@
 ---
 title: "Mira Abou Rjeily"
 description: "Mira Abou Rjeily is a Mid-career Biochar researcher at Université de Reims Champagne-Ardenne in FR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.478970
+date: 2026-07-10T01:07:48.466083
 url: "/cdr-researcher-census/researchers/mira-abou-rjeily-a5013473/"
 layout: "researcher"
 hiddenInHomeList: true

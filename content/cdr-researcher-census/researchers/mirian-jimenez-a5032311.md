@@ -1,7 +1,7 @@
 ---
 title: "Mirian Jiménez"
 description: "Mirian Jiménez is a Mid-career Unknown researcher at Universidad de Cantabria in ES. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.049669
+date: 2026-07-10T01:07:48.963196
 url: "/cdr-researcher-census/researchers/mirian-jimenez-a5032311/"
 layout: "researcher"
 hiddenInHomeList: true

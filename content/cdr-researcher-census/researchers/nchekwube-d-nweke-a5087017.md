@@ -1,7 +1,7 @@
 ---
 title: "Nchekwube D. Nweke"
 description: "Nchekwube D. Nweke is a Mid-career Unknown researcher at University of British Columbia in CA. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.387715
+date: 2026-07-10T01:07:48.381664
 url: "/cdr-researcher-census/researchers/nchekwube-d-nweke-a5087017/"
 layout: "researcher"
 hiddenInHomeList: true

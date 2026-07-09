@@ -1,7 +1,7 @@
 ---
 title: "Sonja Salmon"
 description: "Sonja Salmon is a Senior General CDR researcher at North Carolina State University in US. With 69 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.262824
+date: 2026-07-10T01:07:47.346608
 url: "/cdr-researcher-census/researchers/sonja-salmon-a5063094/"
 layout: "researcher"
 hiddenInHomeList: true

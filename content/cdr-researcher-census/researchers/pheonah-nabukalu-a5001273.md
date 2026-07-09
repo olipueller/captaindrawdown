@@ -1,7 +1,7 @@
 ---
 title: "Pheonah Nabukalu"
 description: "Pheonah Nabukalu is a Mid-career Soil Carbon researcher at The Land Institute in US. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.306818
+date: 2026-07-10T01:07:48.309613
 url: "/cdr-researcher-census/researchers/pheonah-nabukalu-a5001273/"
 layout: "researcher"
 hiddenInHomeList: true

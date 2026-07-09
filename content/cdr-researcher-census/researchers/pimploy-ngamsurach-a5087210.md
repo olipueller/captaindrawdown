@@ -1,7 +1,7 @@
 ---
 title: "Pimploy Ngamsurach"
 description: "Pimploy Ngamsurach is a Mid-career Unknown researcher at Khon Kaen University in TH. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.478603
+date: 2026-07-10T01:07:47.550832
 url: "/cdr-researcher-census/researchers/pimploy-ngamsurach-a5087210/"
 layout: "researcher"
 hiddenInHomeList: true

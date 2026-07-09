@@ -1,7 +1,7 @@
 ---
 title: "Edson Leonardo Scarpa de Souza"
 description: "Edson Leonardo Scarpa de Souza is a Mid-career General CDR researcher at Universidade Federal de São Carlos in BR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.182707
+date: 2026-07-10T01:07:49.096906
 url: "/cdr-researcher-census/researchers/edson-leonardo-scarpa-de-souza-a5049550/"
 layout: "researcher"
 hiddenInHomeList: true

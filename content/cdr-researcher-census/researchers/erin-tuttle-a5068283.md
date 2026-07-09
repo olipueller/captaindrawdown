@@ -1,7 +1,7 @@
 ---
 title: "Erin Tuttle"
 description: "Erin Tuttle is a Mid-career Unknown researcher. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.057653
+date: 2026-07-10T01:07:48.061558
 url: "/cdr-researcher-census/researchers/erin-tuttle-a5068283/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ruth Diez‐Ahedo"
 description: "Ruth Diez‐Ahedo is a Senior Unknown researcher at Tekniker in ES. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.000543
+date: 2026-07-10T01:07:48.009843
 url: "/cdr-researcher-census/researchers/ruth-diezahedo-a5006639/"
 layout: "researcher"
 hiddenInHomeList: true

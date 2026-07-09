@@ -1,7 +1,7 @@
 ---
 title: "Neduvoto P. Mollel"
 description: "Neduvoto P. Mollel is a Senior General CDR researcher at Tanzania National Parks in TZ. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.267324
+date: 2026-07-10T01:07:48.273668
 url: "/cdr-researcher-census/researchers/neduvoto-p-mollel-a5031668/"
 layout: "researcher"
 hiddenInHomeList: true

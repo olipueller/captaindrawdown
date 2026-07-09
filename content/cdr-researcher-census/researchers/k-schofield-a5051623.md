@@ -1,7 +1,7 @@
 ---
 title: "K. Schofield"
 description: "K. Schofield is a Senior Unknown researcher at Durham University in GB. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.735959
+date: 2026-07-10T01:07:48.684156
 url: "/cdr-researcher-census/researchers/k-schofield-a5051623/"
 layout: "researcher"
 hiddenInHomeList: true

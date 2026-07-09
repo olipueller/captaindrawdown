@@ -1,7 +1,7 @@
 ---
 title: "Shiyu Lin"
 description: "Shiyu Lin is a Mid-career Unknown researcher at Yunnan Agricultural University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.910972
+date: 2026-07-10T01:07:47.924451
 url: "/cdr-researcher-census/researchers/shiyu-lin-a5101012/"
 layout: "researcher"
 hiddenInHomeList: true

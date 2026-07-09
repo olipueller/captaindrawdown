@@ -1,7 +1,7 @@
 ---
 title: "Johanna Forster"
 description: "Johanna Forster is a Senior General CDR researcher at University of East Anglia in GB. With 56 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.169387
+date: 2026-07-10T01:07:47.258999
 url: "/cdr-researcher-census/researchers/johanna-forster-a5065072/"
 layout: "researcher"
 hiddenInHomeList: true

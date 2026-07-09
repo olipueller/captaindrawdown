@@ -1,7 +1,7 @@
 ---
 title: "Nina Ricci Nicomel"
 description: "Nina Ricci Nicomel is a Mid-career Unknown researcher at University of British Columbia in CA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.372751
+date: 2026-07-10T01:07:47.454984
 url: "/cdr-researcher-census/researchers/nina-ricci-nicomel-a5055819/"
 layout: "researcher"
 hiddenInHomeList: true

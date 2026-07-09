@@ -1,7 +1,7 @@
 ---
 title: "Ching Thian Moi"
 description: "Ching Thian Moi is a Mid-career Unknown researcher at Indian Institute of Technology Guwahati in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.774361
+date: 2026-07-10T01:07:48.718304
 url: "/cdr-researcher-census/researchers/ching-thian-moi-a5068501/"
 layout: "researcher"
 hiddenInHomeList: true

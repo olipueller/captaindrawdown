@@ -1,7 +1,7 @@
 ---
 title: "Xinhao Hu"
 description: "Xinhao Hu is an Early-career Unknown researcher at Harbin Institute of Technology in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.074702
+date: 2026-07-10T01:07:48.985798
 url: "/cdr-researcher-census/researchers/xinhao-hu-a5035748/"
 layout: "researcher"
 hiddenInHomeList: true

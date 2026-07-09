@@ -1,7 +1,7 @@
 ---
 title: "Esther Brambleby"
 description: "Esther Brambleby is an Early-career Unknown researcher at University of East Anglia in GB. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.096574
+date: 2026-07-10T01:07:48.096284
 url: "/cdr-researcher-census/researchers/esther-brambleby-a5094096/"
 layout: "researcher"
 hiddenInHomeList: true

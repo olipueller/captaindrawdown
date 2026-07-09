@@ -1,7 +1,7 @@
 ---
 title: "Chaoyue Li"
 description: "Chaoyue Li is a Mid-career Unknown researcher at Southwest Petroleum University in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.171112
+date: 2026-07-10T01:07:49.061205
 url: "/cdr-researcher-census/researchers/chaoyue-li-a5108058/"
 layout: "researcher"
 hiddenInHomeList: true

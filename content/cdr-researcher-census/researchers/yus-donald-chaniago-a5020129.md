@@ -1,7 +1,7 @@
 ---
 title: "Yus Donald Chaniago"
 description: "Yus Donald Chaniago is a Mid-career Ocean CDR researcher at Ulsan National Institute of Science and Technology in KR. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.480612
+date: 2026-07-10T01:07:47.552764
 url: "/cdr-researcher-census/researchers/yus-donald-chaniago-a5020129/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qingfeng Luo"
 description: "Qingfeng Luo is a Mid-career Unknown researcher at National Medical Products Administration in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.567684
+date: 2026-07-10T01:07:48.546371
 url: "/cdr-researcher-census/researchers/qingfeng-luo-a5055287/"
 layout: "researcher"
 hiddenInHomeList: true

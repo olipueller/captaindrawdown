@@ -1,7 +1,7 @@
 ---
 title: "Anthonette Anak James"
 description: "Anthonette Anak James is a Mid-career Unknown researcher at Universiti Malaysia Sarawak in MY. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.495378
+date: 2026-07-10T01:07:48.480883
 url: "/cdr-researcher-census/researchers/anthonette-anak-james-a5063939/"
 layout: "researcher"
 hiddenInHomeList: true

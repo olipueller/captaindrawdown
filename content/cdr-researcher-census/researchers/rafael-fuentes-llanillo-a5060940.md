@@ -1,7 +1,7 @@
 ---
 title: "Rafael Fuentes-Llanillo"
 description: "Rafael Fuentes-Llanillo is a Mid-career Soil Carbon researcher at Instituto Agronômico do Paraná in BR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.442111
+date: 2026-07-10T01:07:48.431835
 url: "/cdr-researcher-census/researchers/rafael-fuentes-llanillo-a5060940/"
 layout: "researcher"
 hiddenInHomeList: true

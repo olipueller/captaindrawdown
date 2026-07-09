@@ -1,7 +1,7 @@
 ---
 title: "Ruobing Jia"
 description: "Ruobing Jia is a Mid-career Unknown researcher at Beijing Technology and Business University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.249305
+date: 2026-07-10T01:07:48.257222
 url: "/cdr-researcher-census/researchers/ruobing-jia-a5028413/"
 layout: "researcher"
 hiddenInHomeList: true

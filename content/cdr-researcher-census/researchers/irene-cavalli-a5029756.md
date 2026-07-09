@@ -1,7 +1,7 @@
 ---
 title: "Irene Cavalli"
 description: "Irene Cavalli is a Mid-career Unknown researcher at Université Libre de Bruxelles in BE. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.711956
+date: 2026-07-10T01:07:47.766319
 url: "/cdr-researcher-census/researchers/irene-cavalli-a5029756/"
 layout: "researcher"
 hiddenInHomeList: true

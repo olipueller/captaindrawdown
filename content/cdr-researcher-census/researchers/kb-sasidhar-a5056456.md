@@ -1,7 +1,7 @@
 ---
 title: "K.B. Sasidhar"
 description: "K.B. Sasidhar is a Mid-career Unknown researcher at Green Tech Labs (United States) in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.853252
+date: 2026-07-10T01:07:48.783985
 url: "/cdr-researcher-census/researchers/kb-sasidhar-a5056456/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Metin Bulut"
 description: "Metin Bulut is a Senior General CDR researcher at Flemish Institute for Technological Research in BE. With 37 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.042451
+date: 2026-07-10T01:07:47.115369
 url: "/cdr-researcher-census/researchers/metin-bulut-a5033713/"
 layout: "researcher"
 hiddenInHomeList: true

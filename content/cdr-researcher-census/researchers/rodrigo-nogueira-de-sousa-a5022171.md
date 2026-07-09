@@ -1,7 +1,7 @@
 ---
 title: "Rodrigo Nogueira de Sousa"
 description: "Rodrigo Nogueira de Sousa is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 46 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.910596
+date: 2026-07-10T01:07:47.924137
 url: "/cdr-researcher-census/researchers/rodrigo-nogueira-de-sousa-a5022171/"
 layout: "researcher"
 hiddenInHomeList: true

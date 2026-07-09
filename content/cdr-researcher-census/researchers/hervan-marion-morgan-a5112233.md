@@ -1,7 +1,7 @@
 ---
 title: "Hervan Marion Morgan"
 description: "Hervan Marion Morgan is a Mid-career Biochar researcher at National Pingtung University of Science and Technology in TW. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.400351
+date: 2026-07-10T01:07:47.481008
 url: "/cdr-researcher-census/researchers/hervan-marion-morgan-a5112233/"
 layout: "researcher"
 hiddenInHomeList: true

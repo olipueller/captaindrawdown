@@ -1,7 +1,7 @@
 ---
 title: "Jerry Bouma"
 description: "Jerry Bouma is a Senior Unknown researcher at Universitätsklinikum Aachen in DE. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.629697
+date: 2026-07-10T01:07:47.689205
 url: "/cdr-researcher-census/researchers/jerry-bouma-a5061459/"
 layout: "researcher"
 hiddenInHomeList: true

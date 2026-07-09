@@ -1,7 +1,7 @@
 ---
 title: "Dingshan Cao"
 description: "Dingshan Cao is a Mid-career Unknown researcher at China Aerodynamics Research and Development Center in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.105423
+date: 2026-07-10T01:07:48.131971
 url: "/cdr-researcher-census/researchers/dingshan-cao-a5026093/"
 layout: "researcher"
 hiddenInHomeList: true

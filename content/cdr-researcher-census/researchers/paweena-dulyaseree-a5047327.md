@@ -1,7 +1,7 @@
 ---
 title: "Paweena Dulyaseree"
 description: "Paweena Dulyaseree is a Mid-career General CDR researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.351099
+date: 2026-07-10T01:07:48.349355
 url: "/cdr-researcher-census/researchers/paweena-dulyaseree-a5047327/"
 layout: "researcher"
 hiddenInHomeList: true

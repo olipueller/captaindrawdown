@@ -1,7 +1,7 @@
 ---
 title: "Omolabake Abiodun Okon-Akan"
 description: "Omolabake Abiodun Okon-Akan is a Mid-career Unknown researcher at Forestry Research Institute of Nigeria in NG. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.720873
+date: 2026-07-10T01:07:47.774204
 url: "/cdr-researcher-census/researchers/omolabake-abiodun-okon-akan-a5064378/"
 layout: "researcher"
 hiddenInHomeList: true

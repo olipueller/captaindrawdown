@@ -1,7 +1,7 @@
 ---
 title: "Wendy Timms"
 description: "Wendy Timms is a Senior Biochar researcher at Deakin University in AU. With 140 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.062850
+date: 2026-07-10T01:07:47.139761
 url: "/cdr-researcher-census/researchers/wendy-timms-a5024461/"
 layout: "researcher"
 hiddenInHomeList: true

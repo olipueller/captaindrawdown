@@ -1,7 +1,7 @@
 ---
 title: "Liying Chen"
 description: "Liying Chen is a Senior Soil Carbon researcher at Qingdao University in CN. With 73 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.064183
+date: 2026-07-10T01:07:47.141542
 url: "/cdr-researcher-census/researchers/liying-chen-a5100692/"
 layout: "researcher"
 hiddenInHomeList: true

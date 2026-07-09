@@ -1,7 +1,7 @@
 ---
 title: "Mostafa Zeama"
 description: "Mostafa Zeama is a Mid-career General CDR researcher at King Fahd University of Petroleum and Minerals in SA. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.587821
+date: 2026-07-10T01:07:47.651053
 url: "/cdr-researcher-census/researchers/mostafa-zeama-a5037981/"
 layout: "researcher"
 hiddenInHomeList: true

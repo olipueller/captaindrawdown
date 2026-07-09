@@ -1,7 +1,7 @@
 ---
 title: "Rafał Rogóż"
 description: "Rafał Rogóż is a Mid-career Unknown researcher at Warsaw University of Technology in PL. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.498615
+date: 2026-07-10T01:07:48.483967
 url: "/cdr-researcher-census/researchers/rafa-rogoz-a5002850/"
 layout: "researcher"
 hiddenInHomeList: true

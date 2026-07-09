@@ -1,7 +1,7 @@
 ---
 title: "Pengwei Yao"
 description: "Pengwei Yao is a Mid-career Soil Carbon researcher at China Tobacco in CN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.524007
+date: 2026-07-10T01:07:47.590699
 url: "/cdr-researcher-census/researchers/pengwei-yao-a5072507/"
 layout: "researcher"
 hiddenInHomeList: true

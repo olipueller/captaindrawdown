@@ -1,7 +1,7 @@
 ---
 title: "Sam Abernethy"
 description: "Sam Abernethy is a Mid-career General CDR researcher at Climate Central in US. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.019670
+date: 2026-07-10T01:07:47.085750
 url: "/cdr-researcher-census/researchers/sam-abernethy-a5014865/"
 layout: "researcher"
 hiddenInHomeList: true

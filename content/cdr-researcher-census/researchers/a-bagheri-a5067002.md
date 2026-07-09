@@ -1,7 +1,7 @@
 ---
 title: "A. Bagheri"
 description: "A. Bagheri is a Mid-career Unknown researcher at University of Isfahan in IR. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.837493
+date: 2026-07-10T01:07:47.873572
 url: "/cdr-researcher-census/researchers/a-bagheri-a5067002/"
 layout: "researcher"
 hiddenInHomeList: true

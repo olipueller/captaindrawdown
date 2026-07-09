@@ -1,7 +1,7 @@
 ---
 title: "Mona Nagargade"
 description: "Mona Nagargade is a Mid-career Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.674391
+date: 2026-07-10T01:07:48.630178
 url: "/cdr-researcher-census/researchers/mona-nagargade-a5064600/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Binjuan Yang"
 description: "Binjuan Yang is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.234888
+date: 2026-07-10T01:07:48.244576
 url: "/cdr-researcher-census/researchers/binjuan-yang-a5102938/"
 layout: "researcher"
 hiddenInHomeList: true

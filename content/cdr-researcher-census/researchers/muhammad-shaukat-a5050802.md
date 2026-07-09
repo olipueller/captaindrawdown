@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Shaukat"
 description: "Muhammad Shaukat is a Mid-career Soil Carbon researcher at University of the Punjab in PK. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.729550
+date: 2026-07-10T01:07:47.781522
 url: "/cdr-researcher-census/researchers/muhammad-shaukat-a5050802/"
 layout: "researcher"
 hiddenInHomeList: true

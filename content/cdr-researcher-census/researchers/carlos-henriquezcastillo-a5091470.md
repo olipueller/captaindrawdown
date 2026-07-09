@@ -1,7 +1,7 @@
 ---
 title: "Carlos Henríquez‐Castillo"
 description: "Carlos Henríquez‐Castillo is a Senior Soil Carbon researcher at Universidad del Valle in CR. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.679778
+date: 2026-07-10T01:07:47.736104
 url: "/cdr-researcher-census/researchers/carlos-henriquezcastillo-a5091470/"
 layout: "researcher"
 hiddenInHomeList: true

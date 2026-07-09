@@ -1,7 +1,7 @@
 ---
 title: "Martin Juriga"
 description: "Martin Juriga is a Mid-career Soil Carbon researcher at Slovak University of Technology in Bratislava in SK. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.641452
+date: 2026-07-10T01:07:47.700614
 url: "/cdr-researcher-census/researchers/martin-juriga-a5040017/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hengzhou Liu"
 description: "Hengzhou Liu is a Senior Unknown researcher at Florida Polytechnic University in US. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.559674
+date: 2026-07-10T01:07:47.623652
 url: "/cdr-researcher-census/researchers/hengzhou-liu-a5077680/"
 layout: "researcher"
 hiddenInHomeList: true

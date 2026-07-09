@@ -1,7 +1,7 @@
 ---
 title: "Suresh Gupta"
 description: "Suresh Gupta is a Senior BECCS researcher at Birla Institute of Technology and Science, Pilani in IN. With 64 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.215615
+date: 2026-07-10T01:07:47.302481
 url: "/cdr-researcher-census/researchers/suresh-gupta-a5063689/"
 layout: "researcher"
 hiddenInHomeList: true

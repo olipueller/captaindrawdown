@@ -1,7 +1,7 @@
 ---
 title: "Arne Lindbråthen"
 description: "Arne Lindbråthen is a Senior DAC researcher at Norwegian University of Science and Technology in NO. With 48 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.074857
+date: 2026-07-10T01:07:47.154437
 url: "/cdr-researcher-census/researchers/arne-lindbrathen-a5040974/"
 layout: "researcher"
 hiddenInHomeList: true

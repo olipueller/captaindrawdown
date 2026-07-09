@@ -1,7 +1,7 @@
 ---
 title: "Terry Ayu Adriany"
 description: "Terry Ayu Adriany is a Mid-career Biochar researcher at National Nuclear Energy Agency of Indonesia in ID. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.459610
+date: 2026-07-10T01:07:48.447853
 url: "/cdr-researcher-census/researchers/terry-ayu-adriany-a5046012/"
 layout: "researcher"
 hiddenInHomeList: true

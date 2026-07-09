@@ -1,7 +1,7 @@
 ---
 title: "Arshdeep Singh"
 description: "Arshdeep Singh is a Senior Soil Carbon researcher at University of Nebraska–Lincoln in US. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.613153
+date: 2026-07-10T01:07:48.574504
 url: "/cdr-researcher-census/researchers/arshdeep-singh-a5025905/"
 layout: "researcher"
 hiddenInHomeList: true

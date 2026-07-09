@@ -1,7 +1,7 @@
 ---
 title: "Maureen Soon"
 description: "Maureen Soon is a Senior Unknown researcher at University of British Columbia in CA. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.624804
+date: 2026-07-10T01:07:47.684899
 url: "/cdr-researcher-census/researchers/maureen-soon-a5087740/"
 layout: "researcher"
 hiddenInHomeList: true

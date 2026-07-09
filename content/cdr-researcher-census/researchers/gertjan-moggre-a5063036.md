@@ -1,7 +1,7 @@
 ---
 title: "Gert‐Jan Moggré"
 description: "Gert‐Jan Moggré is a Mid-career Unknown researcher at Lincoln University in NZ. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.856184
+date: 2026-07-10T01:07:47.891649
 url: "/cdr-researcher-census/researchers/gertjan-moggre-a5063036/"
 layout: "researcher"
 hiddenInHomeList: true

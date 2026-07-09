@@ -1,7 +1,7 @@
 ---
 title: "Rebekah Waller"
 description: "Rebekah Waller is a Mid-career DAC researcher at King Abdullah University of Science and Technology in SA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.457219
+date: 2026-07-10T01:07:48.445618
 url: "/cdr-researcher-census/researchers/rebekah-waller-a5050323/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ying Liu"
 description: "Ying Liu is a Senior Soil Carbon researcher at Jinan University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.529553
+date: 2026-07-10T01:07:47.596169
 url: "/cdr-researcher-census/researchers/ying-liu-a5100414/"
 layout: "researcher"
 hiddenInHomeList: true

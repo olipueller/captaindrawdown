@@ -1,7 +1,7 @@
 ---
 title: "Maolin Tian"
 description: "Maolin Tian is a Mid-career Unknown researcher at Haier Group (China) in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.010528
+date: 2026-07-10T01:07:48.018555
 url: "/cdr-researcher-census/researchers/maolin-tian-a5054442/"
 layout: "researcher"
 hiddenInHomeList: true

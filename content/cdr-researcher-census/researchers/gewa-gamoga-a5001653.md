@@ -1,7 +1,7 @@
 ---
 title: "Gewa Gamoga"
 description: "Gewa Gamoga is an Early-career Soil Carbon researcher at National Department of Health in PG. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.118395
+date: 2026-07-10T01:07:48.142606
 url: "/cdr-researcher-census/researchers/gewa-gamoga-a5001653/"
 layout: "researcher"
 hiddenInHomeList: true

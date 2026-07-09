@@ -1,7 +1,7 @@
 ---
 title: "Rina Rosales"
 description: "Rina Rosales is a Mid-career Unknown researcher at Stony Brook University in US. With 11 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.023700
+date: 2026-07-10T01:07:48.031568
 url: "/cdr-researcher-census/researchers/rina-rosales-a5108137/"
 layout: "researcher"
 hiddenInHomeList: true

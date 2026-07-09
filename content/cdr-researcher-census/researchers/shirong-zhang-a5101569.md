@@ -1,7 +1,7 @@
 ---
 title: "Shirong Zhang"
 description: "Shirong Zhang is a Senior Soil Carbon researcher at Kunming University of Science and Technology in CN. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.089063
+date: 2026-07-10T01:07:47.171533
 url: "/cdr-researcher-census/researchers/shirong-zhang-a5101569/"
 layout: "researcher"
 hiddenInHomeList: true

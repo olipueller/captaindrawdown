@@ -1,7 +1,7 @@
 ---
 title: "Sagar Maitra"
 description: "Sagar Maitra is a Senior Soil Carbon researcher at Centurion University of Technology and Management in IN. With 90 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.063101
+date: 2026-07-10T01:07:47.139978
 url: "/cdr-researcher-census/researchers/sagar-maitra-a5013040/"
 layout: "researcher"
 hiddenInHomeList: true

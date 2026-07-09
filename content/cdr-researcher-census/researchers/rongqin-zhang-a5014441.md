@@ -1,7 +1,7 @@
 ---
 title: "Rongqin Zhang"
 description: "Rongqin Zhang is a Mid-career Soil Carbon researcher at Northwest University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.940559
+date: 2026-07-10T01:07:47.952947
 url: "/cdr-researcher-census/researchers/rongqin-zhang-a5014441/"
 layout: "researcher"
 hiddenInHomeList: true

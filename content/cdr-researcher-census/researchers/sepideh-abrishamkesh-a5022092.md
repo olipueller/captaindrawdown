@@ -1,7 +1,7 @@
 ---
 title: "Sepideh Abrishamkesh"
 description: "Sepideh Abrishamkesh is a Mid-career Soil Carbon researcher at University of Guilan in IR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.527511
+date: 2026-07-10T01:07:47.594114
 url: "/cdr-researcher-census/researchers/sepideh-abrishamkesh-a5022092/"
 layout: "researcher"
 hiddenInHomeList: true

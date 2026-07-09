@@ -1,7 +1,7 @@
 ---
 title: "M. Christiansen"
 description: "M. Christiansen is a Mid-career Unknown researcher at University of Iowa in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.112646
+date: 2026-07-10T01:07:48.138059
 url: "/cdr-researcher-census/researchers/m-christiansen-a5084133/"
 layout: "researcher"
 hiddenInHomeList: true

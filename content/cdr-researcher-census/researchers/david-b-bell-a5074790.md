@@ -1,7 +1,7 @@
 ---
 title: "David B. Bell"
 description: "David B. Bell is a Mid-career Unknown researcher at University of Edinburgh in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.986335
+date: 2026-07-10T01:07:47.995380
 url: "/cdr-researcher-census/researchers/david-b-bell-a5074790/"
 layout: "researcher"
 hiddenInHomeList: true

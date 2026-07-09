@@ -1,7 +1,7 @@
 ---
 title: "Julien Palmiéri"
 description: "Julien Palmiéri is a Senior Ocean CDR researcher at National Oceanography Centre in GB. With 70 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.978642
+date: 2026-07-10T01:07:47.026992
 url: "/cdr-researcher-census/researchers/julien-palmieri-a5047759/"
 layout: "researcher"
 hiddenInHomeList: true

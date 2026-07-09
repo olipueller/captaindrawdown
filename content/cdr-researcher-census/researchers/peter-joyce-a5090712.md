@@ -1,7 +1,7 @@
 ---
 title: "Peter Joyce"
 description: "Peter Joyce is a Senior Unknown researcher at University of Leeds in GB. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.967291
+date: 2026-07-10T01:07:48.887875
 url: "/cdr-researcher-census/researchers/peter-joyce-a5090712/"
 layout: "researcher"
 hiddenInHomeList: true

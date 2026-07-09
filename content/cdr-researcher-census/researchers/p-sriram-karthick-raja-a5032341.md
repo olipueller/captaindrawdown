@@ -1,7 +1,7 @@
 ---
 title: "P. Sriram Karthick Raja"
 description: "P. Sriram Karthick Raja is a Mid-career Unknown researcher at Acharya N. G. Ranga Agricultural University in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.729038
+date: 2026-07-10T01:07:48.678153
 url: "/cdr-researcher-census/researchers/p-sriram-karthick-raja-a5032341/"
 layout: "researcher"
 hiddenInHomeList: true

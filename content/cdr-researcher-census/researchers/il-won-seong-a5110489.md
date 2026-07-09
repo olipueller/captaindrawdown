@@ -1,7 +1,7 @@
 ---
 title: "Il Won Seong"
 description: "Il Won Seong is a Senior Unknown researcher at Hankuk Carbon (South Korea) in KR. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.719503
+date: 2026-07-10T01:07:47.772986
 url: "/cdr-researcher-census/researchers/il-won-seong-a5110489/"
 layout: "researcher"
 hiddenInHomeList: true

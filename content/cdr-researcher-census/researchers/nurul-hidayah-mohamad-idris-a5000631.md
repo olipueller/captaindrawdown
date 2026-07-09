@@ -1,7 +1,7 @@
 ---
 title: "Nurul Hidayah Mohamad Idris"
 description: "Nurul Hidayah Mohamad Idris is a Mid-career Unknown researcher at Universiti Sains Malaysia in MY. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.973195
+date: 2026-07-10T01:07:48.893169
 url: "/cdr-researcher-census/researchers/nurul-hidayah-mohamad-idris-a5000631/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Syed Ossama Ali Ahmad"
 description: "Syed Ossama Ali Ahmad is a Mid-career Unknown researcher at Government College University, Lahore in PK. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.800719
+date: 2026-07-10T01:07:47.848335
 url: "/cdr-researcher-census/researchers/syed-ossama-ali-ahmad-a5101110/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ziheng Jin"
 description: "Ziheng Jin is a Senior Biochar researcher at Sichuan University in CN. With 59 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.211570
+date: 2026-07-10T01:07:47.298999
 url: "/cdr-researcher-census/researchers/ziheng-jin-a5020872/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sara Gutiérrez-Patricio"
 description: "Sara Gutiérrez-Patricio is a Mid-career Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.673956
+date: 2026-07-10T01:07:48.629813
 url: "/cdr-researcher-census/researchers/sara-gutierrez-patricio-a5010818/"
 layout: "researcher"
 hiddenInHomeList: true

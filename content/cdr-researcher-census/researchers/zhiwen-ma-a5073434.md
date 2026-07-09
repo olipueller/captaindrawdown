@@ -1,7 +1,7 @@
 ---
 title: "Zhiwen Ma"
 description: "Zhiwen Ma is a Mid-career Unknown researcher at Northeast Normal University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.771702
+date: 2026-07-10T01:07:47.821581
 url: "/cdr-researcher-census/researchers/zhiwen-ma-a5073434/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nicolò Morselli"
 description: "Nicolò Morselli is a Mid-career Biochar researcher at University of Modena and Reggio Emilia in IT. With 82 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.761202
+date: 2026-07-10T01:07:47.811794
 url: "/cdr-researcher-census/researchers/nicolo-morselli-a5058922/"
 layout: "researcher"
 hiddenInHomeList: true

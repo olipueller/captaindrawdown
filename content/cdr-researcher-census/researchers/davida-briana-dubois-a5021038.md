@@ -1,7 +1,7 @@
 ---
 title: "Davida Briana DuBois"
 description: "Davida Briana DuBois is a Mid-career Unknown researcher at University of California, Santa Cruz in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.448916
+date: 2026-07-10T01:07:48.437895
 url: "/cdr-researcher-census/researchers/davida-briana-dubois-a5021038/"
 layout: "researcher"
 hiddenInHomeList: true

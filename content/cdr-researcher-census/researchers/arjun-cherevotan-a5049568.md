@@ -1,7 +1,7 @@
 ---
 title: "Arjun Cherevotan"
 description: "Arjun Cherevotan is a Mid-career Unknown researcher at Jawaharlal Nehru Centre for Advanced Scientific Research in IN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.263615
+date: 2026-07-10T01:07:47.347452
 url: "/cdr-researcher-census/researchers/arjun-cherevotan-a5049568/"
 layout: "researcher"
 hiddenInHomeList: true

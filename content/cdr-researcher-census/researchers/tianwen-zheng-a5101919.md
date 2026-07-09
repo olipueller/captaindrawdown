@@ -1,7 +1,7 @@
 ---
 title: "Tianwen Zheng"
 description: "Tianwen Zheng is a Senior Biochar researcher at Beijing Academy of Science and Technology in CN. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.116139
+date: 2026-07-10T01:07:47.202959
 url: "/cdr-researcher-census/researchers/tianwen-zheng-a5101919/"
 layout: "researcher"
 hiddenInHomeList: true

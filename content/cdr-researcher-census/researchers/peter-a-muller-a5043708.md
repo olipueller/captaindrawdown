@@ -1,7 +1,7 @@
 ---
 title: "Peter A. Muller"
 description: "Peter A. Muller is a Senior Unknown researcher at Villanova University in US. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.901604
+date: 2026-07-10T01:07:47.916053
 url: "/cdr-researcher-census/researchers/peter-a-muller-a5043708/"
 layout: "researcher"
 hiddenInHomeList: true

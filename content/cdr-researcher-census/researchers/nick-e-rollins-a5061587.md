@@ -1,7 +1,7 @@
 ---
 title: "Nick E. Rollins"
 description: "Nick E. Rollins is a Mid-career Ocean CDR researcher at Idaho National Laboratory in US. With 72 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.265243
+date: 2026-07-10T01:07:47.348900
 url: "/cdr-researcher-census/researchers/nick-e-rollins-a5061587/"
 layout: "researcher"
 hiddenInHomeList: true

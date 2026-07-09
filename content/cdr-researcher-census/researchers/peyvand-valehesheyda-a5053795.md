@@ -1,7 +1,7 @@
 ---
 title: "Peyvand Valeh‐e‐Sheyda"
 description: "Peyvand Valeh‐e‐Sheyda is a Senior Unknown researcher at Kermanshah University of Technology in IR. With 36 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.360151
+date: 2026-07-10T01:07:47.441876
 url: "/cdr-researcher-census/researchers/peyvand-valehesheyda-a5053795/"
 layout: "researcher"
 hiddenInHomeList: true

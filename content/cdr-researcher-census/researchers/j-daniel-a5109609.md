@@ -1,7 +1,7 @@
 ---
 title: "J Daniel"
 description: "J Daniel is a Senior Unknown researcher at Universidade do Estado do Rio Grande do Norte in BR. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.772232
+date: 2026-07-10T01:07:48.716091
 url: "/cdr-researcher-census/researchers/j-daniel-a5109609/"
 layout: "researcher"
 hiddenInHomeList: true

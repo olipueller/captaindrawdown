@@ -1,7 +1,7 @@
 ---
 title: "Sarah E. Baker"
 description: "Sarah E. Baker is an Eminent General CDR researcher at Lawrence Livermore National Laboratory in US. With 134 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.945841
+date: 2026-07-10T01:07:46.976319
 url: "/cdr-researcher-census/researchers/sarah-e-baker-a5018081/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Till Markus"
 description: "Till Markus is a Senior General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 68 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.337926
+date: 2026-07-10T01:07:47.420759
 url: "/cdr-researcher-census/researchers/till-markus-a5015117/"
 layout: "researcher"
 hiddenInHomeList: true

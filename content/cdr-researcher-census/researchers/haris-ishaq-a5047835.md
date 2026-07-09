@@ -1,7 +1,7 @@
 ---
 title: "Haris Ishaq"
 description: "Haris Ishaq is a Senior General CDR researcher at King Fahd University of Petroleum and Minerals in SA. With 86 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.964842
+date: 2026-07-10T01:07:47.005584
 url: "/cdr-researcher-census/researchers/haris-ishaq-a5047835/"
 layout: "researcher"
 hiddenInHomeList: true

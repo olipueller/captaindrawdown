@@ -1,7 +1,7 @@
 ---
 title: "Jiejie Lyu"
 description: "Jiejie Lyu is a Mid-career General CDR researcher at Fuyang Normal University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.608498
+date: 2026-07-10T01:07:48.570728
 url: "/cdr-researcher-census/researchers/jiejie-lyu-a5083428/"
 layout: "researcher"
 hiddenInHomeList: true

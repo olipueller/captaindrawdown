@@ -1,7 +1,7 @@
 ---
 title: "Yadan Yu"
 description: "Yadan Yu is a Mid-career Unknown researcher at Chengdu Institute of Biology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.533081
+date: 2026-07-10T01:07:48.515673
 url: "/cdr-researcher-census/researchers/yadan-yu-a5063179/"
 layout: "researcher"
 hiddenInHomeList: true

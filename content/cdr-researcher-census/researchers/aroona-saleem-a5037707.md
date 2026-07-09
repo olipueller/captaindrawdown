@@ -1,7 +1,7 @@
 ---
 title: "Aroona Saleem"
 description: "Aroona Saleem is a Mid-career Unknown researcher at Edith Cowan University in AU. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.670615
+date: 2026-07-10T01:07:48.626503
 url: "/cdr-researcher-census/researchers/aroona-saleem-a5037707/"
 layout: "researcher"
 hiddenInHomeList: true

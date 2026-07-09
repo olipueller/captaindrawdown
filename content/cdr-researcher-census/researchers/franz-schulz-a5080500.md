@@ -1,7 +1,7 @@
 ---
 title: "Franz Schulz"
 description: "Franz Schulz is a Mid-career Soil Carbon researcher at Justus-Liebig-Universität Gießen in DE. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.930784
+date: 2026-07-10T01:07:47.943735
 url: "/cdr-researcher-census/researchers/franz-schulz-a5080500/"
 layout: "researcher"
 hiddenInHomeList: true

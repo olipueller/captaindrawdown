@@ -1,7 +1,7 @@
 ---
 title: "Lai Yang"
 description: "Lai Yang is a Mid-career General CDR researcher at Ezhou Central Hospital in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.974331
+date: 2026-07-10T01:07:47.984320
 url: "/cdr-researcher-census/researchers/lai-yang-a5031052/"
 layout: "researcher"
 hiddenInHomeList: true

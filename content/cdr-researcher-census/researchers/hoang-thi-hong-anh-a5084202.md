@@ -1,7 +1,7 @@
 ---
 title: "Hoang Thi Hong Anh"
 description: "Hoang Thi Hong Anh is a Mid-career Unknown researcher at MIT University in MK. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.923200
+date: 2026-07-10T01:07:48.846828
 url: "/cdr-researcher-census/researchers/hoang-thi-hong-anh-a5084202/"
 layout: "researcher"
 hiddenInHomeList: true

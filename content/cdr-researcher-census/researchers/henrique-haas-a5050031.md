@@ -1,7 +1,7 @@
 ---
 title: "Henrique Haas"
 description: "Henrique Haas is a Mid-career General CDR researcher at Columbia University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.082329
+date: 2026-07-10T01:07:48.992779
 url: "/cdr-researcher-census/researchers/henrique-haas-a5050031/"
 layout: "researcher"
 hiddenInHomeList: true

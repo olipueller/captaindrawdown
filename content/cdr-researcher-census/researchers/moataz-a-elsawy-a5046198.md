@@ -1,7 +1,7 @@
 ---
 title: "Moataz A. Elsawy"
 description: "Moataz A. Elsawy is a Senior Unknown researcher at Egyptian Petroleum Research Institute in EG. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.158465
+date: 2026-07-10T01:07:47.247547
 url: "/cdr-researcher-census/researchers/moataz-a-elsawy-a5046198/"
 layout: "researcher"
 hiddenInHomeList: true

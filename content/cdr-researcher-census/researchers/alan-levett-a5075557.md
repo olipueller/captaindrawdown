@@ -1,7 +1,7 @@
 ---
 title: "Alan Levett"
 description: "Alan Levett is a Mid-career General CDR researcher at The University of Queensland in AU. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.664656
+date: 2026-07-10T01:07:47.721982
 url: "/cdr-researcher-census/researchers/alan-levett-a5075557/"
 layout: "researcher"
 hiddenInHomeList: true

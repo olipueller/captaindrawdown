@@ -1,7 +1,7 @@
 ---
 title: "Yogita Dashora"
 description: "Yogita Dashora is a Mid-career Unknown researcher at Janardan Rai Nagar Rajasthan Vidyapeeth University in IN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.964007
+date: 2026-07-10T01:07:47.974522
 url: "/cdr-researcher-census/researchers/yogita-dashora-a5043724/"
 layout: "researcher"
 hiddenInHomeList: true

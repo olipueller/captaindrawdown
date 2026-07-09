@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Saud Khan"
 description: "Muhammad Saud Khan is a Mid-career Unknown researcher at Jiangsu University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.640563
+date: 2026-07-10T01:07:48.599263
 url: "/cdr-researcher-census/researchers/muhammad-saud-khan-a5101499/"
 layout: "researcher"
 hiddenInHomeList: true

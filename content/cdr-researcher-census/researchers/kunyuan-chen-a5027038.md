@@ -1,7 +1,7 @@
 ---
 title: "Kunyuan Chen"
 description: "Kunyuan Chen is a Senior Biochar researcher at Henan Agricultural University in CN. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.598647
+date: 2026-07-10T01:07:48.562378
 url: "/cdr-researcher-census/researchers/kunyuan-chen-a5027038/"
 layout: "researcher"
 hiddenInHomeList: true

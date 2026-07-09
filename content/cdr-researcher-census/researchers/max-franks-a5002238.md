@@ -1,7 +1,7 @@
 ---
 title: "Max Franks"
 description: "Max Franks is a Mid-career General CDR researcher at Fraunhofer Institute for Production Systems and Design Technology in DE. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.913006
+date: 2026-07-10T01:07:47.926238
 url: "/cdr-researcher-census/researchers/max-franks-a5002238/"
 layout: "researcher"
 hiddenInHomeList: true

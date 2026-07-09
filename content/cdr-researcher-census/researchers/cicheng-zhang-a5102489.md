@@ -1,7 +1,7 @@
 ---
 title: "Cicheng Zhang"
 description: "Cicheng Zhang is a Senior Soil Carbon researcher at Hunan Normal University in CN. With 94 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.090748
+date: 2026-07-10T01:07:47.173604
 url: "/cdr-researcher-census/researchers/cicheng-zhang-a5102489/"
 layout: "researcher"
 hiddenInHomeList: true

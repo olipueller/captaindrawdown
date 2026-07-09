@@ -1,7 +1,7 @@
 ---
 title: "Jianqiu Lu"
 description: "Jianqiu Lu is a Mid-career Unknown researcher at Donghua University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.754497
+date: 2026-07-10T01:07:47.804968
 url: "/cdr-researcher-census/researchers/jianqiu-lu-a5015183/"
 layout: "researcher"
 hiddenInHomeList: true

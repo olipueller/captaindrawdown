@@ -1,7 +1,7 @@
 ---
 title: "Dario Kremer"
 description: "Dario Kremer is a Mid-career Enhanced Weathering researcher at RWTH Aachen University in DE. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.198423
+date: 2026-07-10T01:07:48.211552
 url: "/cdr-researcher-census/researchers/dario-kremer-a5053258/"
 layout: "researcher"
 hiddenInHomeList: true

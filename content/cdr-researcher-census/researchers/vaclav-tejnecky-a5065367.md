@@ -1,7 +1,7 @@
 ---
 title: "Václav Tejnecký"
 description: "Václav Tejnecký is a Senior Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 151 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.073538
+date: 2026-07-10T01:07:47.152840
 url: "/cdr-researcher-census/researchers/vaclav-tejnecky-a5065367/"
 layout: "researcher"
 hiddenInHomeList: true

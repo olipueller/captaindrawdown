@@ -1,7 +1,7 @@
 ---
 title: "Kerryn Brent"
 description: "Kerryn Brent is a Mid-career General CDR researcher at CSIRO Oceans and Atmosphere in AU. With 51 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.809354
+date: 2026-07-10T01:07:47.855729
 url: "/cdr-researcher-census/researchers/kerryn-brent-a5025199/"
 layout: "researcher"
 hiddenInHomeList: true

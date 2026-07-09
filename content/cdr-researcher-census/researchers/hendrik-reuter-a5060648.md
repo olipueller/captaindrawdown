@@ -1,7 +1,7 @@
 ---
 title: "Hendrik Reuter"
 description: "Hendrik Reuter is a Mid-career Soil Carbon researcher at Leibniz Institute of Freshwater Ecology and Inland Fisheries in DE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.784616
+date: 2026-07-10T01:07:48.726747
 url: "/cdr-researcher-census/researchers/hendrik-reuter-a5060648/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Aurélie Van Toer"
 description: "Aurélie Van Toer is a Senior Unknown researcher at Commissariat à l'Énergie Atomique et aux Énergies Alternatives in FR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.212984
+date: 2026-07-10T01:07:48.225350
 url: "/cdr-researcher-census/researchers/aurelie-van-toer-a5059992/"
 layout: "researcher"
 hiddenInHomeList: true

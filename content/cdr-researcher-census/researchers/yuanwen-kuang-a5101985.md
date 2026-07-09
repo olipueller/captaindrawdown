@@ -1,7 +1,7 @@
 ---
 title: "Yuanwen Kuang"
 description: "Yuanwen Kuang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 103 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.978520
+date: 2026-07-10T01:07:47.026880
 url: "/cdr-researcher-census/researchers/yuanwen-kuang-a5101985/"
 layout: "researcher"
 hiddenInHomeList: true

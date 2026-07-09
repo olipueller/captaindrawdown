@@ -1,7 +1,7 @@
 ---
 title: "Ganesh Dabhade"
 description: "Ganesh Dabhade is a Mid-career Biochar researcher at KK Wagh Institute of Engineering Education and Research in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.037625
+date: 2026-07-10T01:07:48.952111
 url: "/cdr-researcher-census/researchers/ganesh-dabhade-a5102834/"
 layout: "researcher"
 hiddenInHomeList: true

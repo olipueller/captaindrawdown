@@ -1,7 +1,7 @@
 ---
 title: "Christoph Schulz"
 description: "Christoph Schulz is a Senior Unknown researcher at Bavarian State Research Center for Agriculture in DE. With 12 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.467917
+date: 2026-07-10T01:07:47.540939
 url: "/cdr-researcher-census/researchers/christoph-schulz-a5062162/"
 layout: "researcher"
 hiddenInHomeList: true

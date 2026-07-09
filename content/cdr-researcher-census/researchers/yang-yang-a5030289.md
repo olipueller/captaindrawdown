@@ -1,7 +1,7 @@
 ---
 title: "Yang Yang"
 description: "Yang Yang is a Mid-career General CDR researcher at Technical University of Denmark in DK. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.620162
+date: 2026-07-10T01:07:47.680844
 url: "/cdr-researcher-census/researchers/yang-yang-a5030289/"
 layout: "researcher"
 hiddenInHomeList: true

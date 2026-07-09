@@ -1,7 +1,7 @@
 ---
 title: "Suresh Indika"
 description: "Suresh Indika is a Mid-career Unknown researcher at University of Peradeniya in LK. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.392303
+date: 2026-07-10T01:07:48.385166
 url: "/cdr-researcher-census/researchers/suresh-indika-a5071976/"
 layout: "researcher"
 hiddenInHomeList: true

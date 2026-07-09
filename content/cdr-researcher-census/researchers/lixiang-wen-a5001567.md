@@ -1,7 +1,7 @@
 ---
 title: "Lixiang Wen"
 description: "Lixiang Wen is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.207528
+date: 2026-07-10T01:07:48.220725
 url: "/cdr-researcher-census/researchers/lixiang-wen-a5001567/"
 layout: "researcher"
 hiddenInHomeList: true

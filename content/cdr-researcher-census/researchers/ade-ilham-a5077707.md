@@ -1,7 +1,7 @@
 ---
 title: "Ade Ilham"
 description: "Ade Ilham is a Senior Unknown researcher at Bandung Institute of Technology in ID. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.332552
+date: 2026-07-10T01:07:48.332852
 url: "/cdr-researcher-census/researchers/ade-ilham-a5077707/"
 layout: "researcher"
 hiddenInHomeList: true

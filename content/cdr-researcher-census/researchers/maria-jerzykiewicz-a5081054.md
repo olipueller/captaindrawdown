@@ -1,7 +1,7 @@
 ---
 title: "Maria Jerzykiewicz"
 description: "Maria Jerzykiewicz is a Senior Soil Carbon researcher at University of Wrocław in PL. With 124 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.179870
+date: 2026-07-10T01:07:47.268843
 url: "/cdr-researcher-census/researchers/maria-jerzykiewicz-a5081054/"
 layout: "researcher"
 hiddenInHomeList: true

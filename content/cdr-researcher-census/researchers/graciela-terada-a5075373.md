@@ -1,7 +1,7 @@
 ---
 title: "Graciela Terada"
 description: "Graciela Terada is a Senior Unknown researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.653649
+date: 2026-07-10T01:07:48.611815
 url: "/cdr-researcher-census/researchers/graciela-terada-a5075373/"
 layout: "researcher"
 hiddenInHomeList: true

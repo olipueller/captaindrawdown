@@ -1,7 +1,7 @@
 ---
 title: "Letícia Schneider Fanka"
 description: "Letícia Schneider Fanka is a Mid-career General CDR researcher at Universidade Federal do Paraná in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.194135
+date: 2026-07-10T01:07:48.207987
 url: "/cdr-researcher-census/researchers/leticia-schneider-fanka-a5044917/"
 layout: "researcher"
 hiddenInHomeList: true

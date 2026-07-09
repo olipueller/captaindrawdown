@@ -1,7 +1,7 @@
 ---
 title: "Patience Afi Seglah"
 description: "Patience Afi Seglah is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.987432
+date: 2026-07-10T01:07:47.996444
 url: "/cdr-researcher-census/researchers/patience-afi-seglah-a5031319/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiaping Wang"
 description: "Jiaping Wang is a Mid-career Unknown researcher at Nanjing University of Information Science and Technology in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.305567
+date: 2026-07-10T01:07:48.308368
 url: "/cdr-researcher-census/researchers/jiaping-wang-a5050512/"
 layout: "researcher"
 hiddenInHomeList: true

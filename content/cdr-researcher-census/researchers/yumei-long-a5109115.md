@@ -1,7 +1,7 @@
 ---
 title: "Yumei Long"
 description: "Yumei Long is a Senior Soil Carbon researcher at Jilin Agricultural University in CN. With 60 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.115935
+date: 2026-07-10T01:07:47.202569
 url: "/cdr-researcher-census/researchers/yumei-long-a5109115/"
 layout: "researcher"
 hiddenInHomeList: true

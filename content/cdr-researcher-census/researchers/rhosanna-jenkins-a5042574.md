@@ -1,7 +1,7 @@
 ---
 title: "Rhosanna Jenkins"
 description: "Rhosanna Jenkins is a Senior Soil Carbon researcher at University of East Anglia in GB. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.422921
+date: 2026-07-10T01:07:47.501610
 url: "/cdr-researcher-census/researchers/rhosanna-jenkins-a5042574/"
 layout: "researcher"
 hiddenInHomeList: true

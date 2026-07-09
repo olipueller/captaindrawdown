@@ -1,7 +1,7 @@
 ---
 title: "Masad Mezher Hasan"
 description: "Masad Mezher Hasan is a Mid-career Unknown researcher at Universiti Sains Malaysia in MY. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.716509
+date: 2026-07-10T01:07:48.666865
 url: "/cdr-researcher-census/researchers/masad-mezher-hasan-a5075128/"
 layout: "researcher"
 hiddenInHomeList: true

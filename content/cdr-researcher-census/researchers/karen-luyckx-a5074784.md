@@ -1,7 +1,7 @@
 ---
 title: "Karen Luyckx"
 description: "Karen Luyckx is a Mid-career General CDR researcher at National Archives in GB. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.795251
+date: 2026-07-10T01:07:48.734980
 url: "/cdr-researcher-census/researchers/karen-luyckx-a5074784/"
 layout: "researcher"
 hiddenInHomeList: true

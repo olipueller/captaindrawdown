@@ -1,7 +1,7 @@
 ---
 title: "Mohammed A. Eldeeb"
 description: "Mohammed A. Eldeeb is a Mid-career Soil Carbon researcher at The University of Texas at Dallas in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.508216
+date: 2026-07-10T01:07:48.493330
 url: "/cdr-researcher-census/researchers/mohammed-a-eldeeb-a5053182/"
 layout: "researcher"
 hiddenInHomeList: true

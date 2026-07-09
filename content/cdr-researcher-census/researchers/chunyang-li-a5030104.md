@@ -1,7 +1,7 @@
 ---
 title: "Chunyang Li"
 description: "Chunyang Li is a Mid-career Unknown researcher at Shanghai University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.012237
+date: 2026-07-10T01:07:48.929305
 url: "/cdr-researcher-census/researchers/chunyang-li-a5030104/"
 layout: "researcher"
 hiddenInHomeList: true

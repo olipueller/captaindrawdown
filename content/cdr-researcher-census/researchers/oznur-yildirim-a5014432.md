@@ -1,7 +1,7 @@
 ---
 title: "Oznur Yildirim"
 description: "Oznur Yildirim is a Mid-career Unknown researcher at Yıldız Technical University in TR. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.959602
+date: 2026-07-10T01:07:47.970363
 url: "/cdr-researcher-census/researchers/oznur-yildirim-a5014432/"
 layout: "researcher"
 hiddenInHomeList: true

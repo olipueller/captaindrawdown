@@ -1,7 +1,7 @@
 ---
 title: "Hugh L. MacIntyre"
 description: "Hugh L. MacIntyre is a Senior Ocean CDR researcher at Dalhousie University in CA. With 73 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.932156
+date: 2026-07-10T01:07:46.950686
 url: "/cdr-researcher-census/researchers/hugh-l-macintyre-a5044064/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xianghui Meng"
 description: "Xianghui Meng is a Senior Soil Carbon researcher. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.171557
+date: 2026-07-10T01:07:47.261327
 url: "/cdr-researcher-census/researchers/xianghui-meng-a5100686/"
 layout: "researcher"
 hiddenInHomeList: true

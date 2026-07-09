@@ -1,7 +1,7 @@
 ---
 title: "Afsaneh Khajeh"
 description: "Afsaneh Khajeh is a Mid-career BECCS researcher at North Carolina Agricultural and Technical State University in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.013133
+date: 2026-07-10T01:07:48.020959
 url: "/cdr-researcher-census/researchers/afsaneh-khajeh-a5041695/"
 layout: "researcher"
 hiddenInHomeList: true

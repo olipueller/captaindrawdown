@@ -1,7 +1,7 @@
 ---
 title: "Yingjie Shen"
 description: "Yingjie Shen is a Mid-career Unknown researcher at Beijing Founder Electronics (China) in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.691663
+date: 2026-07-10T01:07:47.747636
 url: "/cdr-researcher-census/researchers/yingjie-shen-a5086750/"
 layout: "researcher"
 hiddenInHomeList: true

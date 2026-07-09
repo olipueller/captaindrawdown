@@ -1,7 +1,7 @@
 ---
 title: "Aminu Darma"
 description: "Aminu Darma is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.678152
+date: 2026-07-10T01:07:47.734383
 url: "/cdr-researcher-census/researchers/aminu-darma-a5033963/"
 layout: "researcher"
 hiddenInHomeList: true

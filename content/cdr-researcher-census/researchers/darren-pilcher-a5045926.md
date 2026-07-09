@@ -1,7 +1,7 @@
 ---
 title: "Darren Pilcher"
 description: "Darren Pilcher is a Mid-career Ocean CDR researcher at University of Washington in US. With 65 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.198617
+date: 2026-07-10T01:07:47.287816
 url: "/cdr-researcher-census/researchers/darren-pilcher-a5045926/"
 layout: "researcher"
 hiddenInHomeList: true

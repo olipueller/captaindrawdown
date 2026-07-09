@@ -1,7 +1,7 @@
 ---
 title: "Chinemerem Ruth Ohoro"
 description: "Chinemerem Ruth Ohoro is a Mid-career General CDR researcher at University of South Africa in ZA. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.391227
+date: 2026-07-10T01:07:47.472273
 url: "/cdr-researcher-census/researchers/chinemerem-ruth-ohoro-a5091087/"
 layout: "researcher"
 hiddenInHomeList: true

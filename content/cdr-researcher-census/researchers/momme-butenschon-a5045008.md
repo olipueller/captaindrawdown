@@ -1,7 +1,7 @@
 ---
 title: "Momme Butenschön"
 description: "Momme Butenschön is a Senior General CDR researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 141 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.985618
+date: 2026-07-10T01:07:47.038167
 url: "/cdr-researcher-census/researchers/momme-butenschon-a5045008/"
 layout: "researcher"
 hiddenInHomeList: true

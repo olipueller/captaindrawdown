@@ -1,7 +1,7 @@
 ---
 title: "Peter Maenhout"
 description: "Peter Maenhout is a Mid-career Soil Carbon researcher at Vlaams Instituut voor Biotechnologie in BE. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.060793
+date: 2026-07-10T01:07:48.064421
 url: "/cdr-researcher-census/researchers/peter-maenhout-a5078451/"
 layout: "researcher"
 hiddenInHomeList: true

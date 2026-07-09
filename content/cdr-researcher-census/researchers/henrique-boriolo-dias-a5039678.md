@@ -1,7 +1,7 @@
 ---
 title: "Henrique Boriolo Dias"
 description: "Henrique Boriolo Dias is a Senior Unknown researcher at University of Florida in US. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.640633
+date: 2026-07-10T01:07:47.699865
 url: "/cdr-researcher-census/researchers/henrique-boriolo-dias-a5039678/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Liza K. McDonough"
 description: "Liza K. McDonough is a Mid-career Soil Carbon researcher at Australian Nuclear Science and Technology Organisation in AU. With 52 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.285799
+date: 2026-07-10T01:07:47.368141
 url: "/cdr-researcher-census/researchers/liza-k-mcdonough-a5085469/"
 layout: "researcher"
 hiddenInHomeList: true

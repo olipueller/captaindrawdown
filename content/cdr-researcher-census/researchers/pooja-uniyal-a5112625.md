@@ -1,7 +1,7 @@
 ---
 title: "Pooja Uniyal"
 description: "Pooja Uniyal is an Early-career Soil Carbon researcher at Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.873710
+date: 2026-07-10T01:07:48.801595
 url: "/cdr-researcher-census/researchers/pooja-uniyal-a5112625/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Akintunde Akinola Oyedele"
 description: "Akintunde Akinola Oyedele is a Mid-career Unknown researcher at Ekiti State University in NG. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.768120
+date: 2026-07-10T01:07:48.712378
 url: "/cdr-researcher-census/researchers/akintunde-akinola-oyedele-a5112291/"
 layout: "researcher"
 hiddenInHomeList: true

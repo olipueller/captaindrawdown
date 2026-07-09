@@ -1,7 +1,7 @@
 ---
 title: "Meisam Ansarpour"
 description: "Meisam Ansarpour is a Mid-career Unknown researcher at University of Wolverhampton in GB. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.166426
+date: 2026-07-10T01:07:47.256114
 url: "/cdr-researcher-census/researchers/meisam-ansarpour-a5051968/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eric Mutegoa"
 description: "Eric Mutegoa is a Mid-career Unknown researcher at The University of Dodoma in TZ. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.363887
+date: 2026-07-10T01:07:48.361554
 url: "/cdr-researcher-census/researchers/eric-mutegoa-a5055743/"
 layout: "researcher"
 hiddenInHomeList: true

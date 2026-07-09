@@ -1,7 +1,7 @@
 ---
 title: "Josef Fuchs"
 description: "Josef Fuchs is a Senior General CDR researcher at Technische Universität Wien in AT. With 54 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.187934
+date: 2026-07-10T01:07:47.276926
 url: "/cdr-researcher-census/researchers/josef-fuchs-a5025602/"
 layout: "researcher"
 hiddenInHomeList: true

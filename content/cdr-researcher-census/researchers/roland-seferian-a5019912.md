@@ -1,7 +1,7 @@
 ---
 title: "Roland Séférian"
 description: "Roland Séférian is an Eminent General CDR researcher at Centre National de Recherches Météorologiques in FR. With 295 publications and an h-index of 69, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.875932
+date: 2026-07-10T01:07:46.822769
 url: "/cdr-researcher-census/researchers/roland-seferian-a5019912/"
 layout: "researcher"
 hiddenInHomeList: true

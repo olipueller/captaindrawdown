@@ -1,7 +1,7 @@
 ---
 title: "Susana Constenla-Villoslada"
 description: "Susana Constenla-Villoslada is an Early-career Unknown researcher at International Food Policy Research Institute in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.107833
+date: 2026-07-10T01:07:49.015228
 url: "/cdr-researcher-census/researchers/susana-constenla-villoslada-a5066310/"
 layout: "researcher"
 hiddenInHomeList: true

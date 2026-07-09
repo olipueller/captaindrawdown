@@ -1,7 +1,7 @@
 ---
 title: "Attaso Khamwichit"
 description: "Attaso Khamwichit is a Mid-career Unknown researcher at Walailak University in TH. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.690982
+date: 2026-07-10T01:07:48.644692
 url: "/cdr-researcher-census/researchers/attaso-khamwichit-a5045155/"
 layout: "researcher"
 hiddenInHomeList: true

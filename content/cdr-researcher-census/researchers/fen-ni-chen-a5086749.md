@@ -1,7 +1,7 @@
 ---
 title: "Fen-Ni Chen"
 description: "Fen-Ni Chen is a Senior Unknown researcher at Southwest University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.280075
+date: 2026-07-10T01:07:48.285682
 url: "/cdr-researcher-census/researchers/fen-ni-chen-a5086749/"
 layout: "researcher"
 hiddenInHomeList: true

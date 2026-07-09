@@ -1,7 +1,7 @@
 ---
 title: "Ashrafun Nessa"
 description: "Ashrafun Nessa is a Mid-career Soil Carbon researcher at Griffith University in AU. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.041752
+date: 2026-07-10T01:07:48.955506
 url: "/cdr-researcher-census/researchers/ashrafun-nessa-a5102793/"
 layout: "researcher"
 hiddenInHomeList: true

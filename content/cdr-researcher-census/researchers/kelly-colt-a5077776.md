@@ -1,7 +1,7 @@
 ---
 title: "Kelly Colt"
 description: "Kelly Colt is a Mid-career Unknown researcher at Salk Institute for Biological Studies in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.132450
+date: 2026-07-10T01:07:49.036625
 url: "/cdr-researcher-census/researchers/kelly-colt-a5077776/"
 layout: "researcher"
 hiddenInHomeList: true

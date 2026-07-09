@@ -1,7 +1,7 @@
 ---
 title: "Shenpeng Wang"
 description: "Shenpeng Wang is a Mid-career Biochar researcher at Xuzhou University of Technology in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.498887
+date: 2026-07-10T01:07:47.568597
 url: "/cdr-researcher-census/researchers/shenpeng-wang-a5025513/"
 layout: "researcher"
 hiddenInHomeList: true

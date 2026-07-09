@@ -1,7 +1,7 @@
 ---
 title: "Yahui Huang"
 description: "Yahui Huang is a Senior Unknown researcher at Academy of Medical Sciences in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.969698
+date: 2026-07-10T01:07:47.980218
 url: "/cdr-researcher-census/researchers/yahui-huang-a5100888/"
 layout: "researcher"
 hiddenInHomeList: true

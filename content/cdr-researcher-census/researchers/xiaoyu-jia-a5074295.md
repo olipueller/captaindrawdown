@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyu Jia"
 description: "Xiaoyu Jia is a Mid-career Soil Carbon researcher at North China University of Water Resources and Electric Power in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.426130
+date: 2026-07-10T01:07:47.504407
 url: "/cdr-researcher-census/researchers/xiaoyu-jia-a5074295/"
 layout: "researcher"
 hiddenInHomeList: true

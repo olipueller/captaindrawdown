@@ -1,7 +1,7 @@
 ---
 title: "Ajay Kumar Gupta"
 description: "Ajay Kumar Gupta is an Early-career General CDR researcher at G.B. Pant Institute of Himalayan Environment and Development in IN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.201677
+date: 2026-07-10T01:07:48.215093
 url: "/cdr-researcher-census/researchers/ajay-kumar-gupta-a5104116/"
 layout: "researcher"
 hiddenInHomeList: true

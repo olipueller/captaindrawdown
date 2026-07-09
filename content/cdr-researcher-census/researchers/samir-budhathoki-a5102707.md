@@ -1,7 +1,7 @@
 ---
 title: "Samir Budhathoki"
 description: "Samir Budhathoki is a Mid-career Unknown researcher at Defense Logistics Agency in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.854753
+date: 2026-07-10T01:07:47.890233
 url: "/cdr-researcher-census/researchers/samir-budhathoki-a5102707/"
 layout: "researcher"
 hiddenInHomeList: true

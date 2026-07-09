@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Shafiq"
 description: "Muhammad Shafiq is a Mid-career Ocean CDR researcher at University of the Punjab in PK. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.814991
+date: 2026-07-10T01:07:48.751676
 url: "/cdr-researcher-census/researchers/muhammad-shafiq-a5080523/"
 layout: "researcher"
 hiddenInHomeList: true

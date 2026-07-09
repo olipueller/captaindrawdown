@@ -1,7 +1,7 @@
 ---
 title: "Sara L. Bauke"
 description: "Sara L. Bauke is a Senior Soil Carbon researcher at University of Bonn in DE. With 78 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.133406
+date: 2026-07-10T01:07:47.222275
 url: "/cdr-researcher-census/researchers/sara-l-bauke-a5053150/"
 layout: "researcher"
 hiddenInHomeList: true

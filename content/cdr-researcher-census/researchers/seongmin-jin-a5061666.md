@@ -1,7 +1,7 @@
 ---
 title: "Seongmin Jin"
 description: "Seongmin Jin is a Mid-career Unknown researcher at Korea Institute of Science and Technology in KR. With 49 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.251973
+date: 2026-07-10T01:07:47.336760
 url: "/cdr-researcher-census/researchers/seongmin-jin-a5061666/"
 layout: "researcher"
 hiddenInHomeList: true

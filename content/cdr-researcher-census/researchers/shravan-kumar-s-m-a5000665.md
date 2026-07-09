@@ -1,7 +1,7 @@
 ---
 title: "Shravan Kumar S. M."
 description: "Shravan Kumar S. M. is a Mid-career Unknown researcher at SRM Institute of Science and Technology in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.657110
+date: 2026-07-10T01:07:48.614761
 url: "/cdr-researcher-census/researchers/shravan-kumar-s-m-a5000665/"
 layout: "researcher"
 hiddenInHomeList: true

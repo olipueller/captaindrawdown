@@ -1,7 +1,7 @@
 ---
 title: "Ana Paula Erbetta Sueitt"
 description: "Ana Paula Erbetta Sueitt is a Mid-career Unknown researcher at Universidade de São Paulo in BR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.208337
+date: 2026-07-10T01:07:48.221462
 url: "/cdr-researcher-census/researchers/ana-paula-erbetta-sueitt-a5010173/"
 layout: "researcher"
 hiddenInHomeList: true

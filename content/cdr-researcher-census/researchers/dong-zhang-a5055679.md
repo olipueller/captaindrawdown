@@ -1,7 +1,7 @@
 ---
 title: "Dong Zhang"
 description: "Dong Zhang is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.954768
+date: 2026-07-10T01:07:47.966076
 url: "/cdr-researcher-census/researchers/dong-zhang-a5055679/"
 layout: "researcher"
 hiddenInHomeList: true

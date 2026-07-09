@@ -1,7 +1,7 @@
 ---
 title: "Rumeysa Cebecioglu"
 description: "Rumeysa Cebecioglu is a Mid-career Unknown researcher at Üsküdar University in TR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.142536
+date: 2026-07-10T01:07:49.045315
 url: "/cdr-researcher-census/researchers/rumeysa-cebecioglu-a5084586/"
 layout: "researcher"
 hiddenInHomeList: true

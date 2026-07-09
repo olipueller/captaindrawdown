@@ -1,7 +1,7 @@
 ---
 title: "Kazi Masel Ullah"
 description: "Kazi Masel Ullah is a Mid-career Soil Carbon researcher at University of North Alabama in US. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.288854
+date: 2026-07-10T01:07:48.293329
 url: "/cdr-researcher-census/researchers/kazi-masel-ullah-a5084399/"
 layout: "researcher"
 hiddenInHomeList: true

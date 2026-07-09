@@ -1,7 +1,7 @@
 ---
 title: "Bao Zhao"
 description: "Bao Zhao is a Mid-career Unknown researcher at Hong Kong Polytechnic University in HK. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.678623
+date: 2026-07-10T01:07:47.734786
 url: "/cdr-researcher-census/researchers/bao-zhao-a5059001/"
 layout: "researcher"
 hiddenInHomeList: true

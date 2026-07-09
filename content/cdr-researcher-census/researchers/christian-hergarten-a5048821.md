@@ -1,7 +1,7 @@
 ---
 title: "Christian Hergarten"
 description: "Christian Hergarten is a Senior Soil Carbon researcher at University of Bern in CH. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.309697
+date: 2026-07-10T01:07:47.391905
 url: "/cdr-researcher-census/researchers/christian-hergarten-a5048821/"
 layout: "researcher"
 hiddenInHomeList: true

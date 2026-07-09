@@ -1,7 +1,7 @@
 ---
 title: "Yuqing Zhao"
 description: "Yuqing Zhao is a Senior Biochar researcher at Northwest A&F University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.607762
+date: 2026-07-10T01:07:47.669373
 url: "/cdr-researcher-census/researchers/yuqing-zhao-a5102200/"
 layout: "researcher"
 hiddenInHomeList: true

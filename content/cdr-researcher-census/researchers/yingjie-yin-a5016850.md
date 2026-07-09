@@ -1,7 +1,7 @@
 ---
 title: "Yingjie Yin"
 description: "Yingjie Yin is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 83 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.340759
+date: 2026-07-10T01:07:47.423651
 url: "/cdr-researcher-census/researchers/yingjie-yin-a5016850/"
 layout: "researcher"
 hiddenInHomeList: true

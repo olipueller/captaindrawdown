@@ -1,7 +1,7 @@
 ---
 title: "Haonan Wang"
 description: "Haonan Wang is a Mid-career Soil Carbon researcher at Ocean University of China in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.541669
+date: 2026-07-10T01:07:48.523106
 url: "/cdr-researcher-census/researchers/haonan-wang-a5100342/"
 layout: "researcher"
 hiddenInHomeList: true

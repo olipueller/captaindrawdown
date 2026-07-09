@@ -1,7 +1,7 @@
 ---
 title: "Andreas Schröder"
 description: "Andreas Schröder is a Senior Unknown researcher at Deutsches Zentrum für Luft und Raumfahrt in DE. With 444 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.970119
+date: 2026-07-10T01:07:47.013463
 url: "/cdr-researcher-census/researchers/andreas-schroder-a5019880/"
 layout: "researcher"
 hiddenInHomeList: true

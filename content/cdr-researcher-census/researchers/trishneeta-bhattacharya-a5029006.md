@@ -1,7 +1,7 @@
 ---
 title: "Trishneeta Bhattacharya"
 description: "Trishneeta Bhattacharya is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.195815
+date: 2026-07-10T01:07:48.209284
 url: "/cdr-researcher-census/researchers/trishneeta-bhattacharya-a5029006/"
 layout: "researcher"
 hiddenInHomeList: true

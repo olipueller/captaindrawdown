@@ -1,7 +1,7 @@
 ---
 title: "Pasqualmorica Antico"
 description: "Pasqualmorica Antico is a Mid-career Unknown researcher at University of Salerno in IT. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.963182
+date: 2026-07-10T01:07:48.884263
 url: "/cdr-researcher-census/researchers/pasqualmorica-antico-a5029574/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hong Tang"
 description: "Hong Tang is a Senior Unknown researcher at Australian National University in AU. With 170 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.329820
+date: 2026-07-10T01:07:47.411789
 url: "/cdr-researcher-census/researchers/hong-tang-a5051316/"
 layout: "researcher"
 hiddenInHomeList: true

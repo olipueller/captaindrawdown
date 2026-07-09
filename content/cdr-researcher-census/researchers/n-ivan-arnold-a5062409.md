@@ -1,7 +1,7 @@
 ---
 title: "N. Ivan Arnold"
 description: "N. Ivan Arnold is a Mid-career Unknown researcher at Jacobs (United States) in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.124650
+date: 2026-07-10T01:07:49.029985
 url: "/cdr-researcher-census/researchers/n-ivan-arnold-a5062409/"
 layout: "researcher"
 hiddenInHomeList: true

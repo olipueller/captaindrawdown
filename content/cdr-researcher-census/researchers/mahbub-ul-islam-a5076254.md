@@ -1,7 +1,7 @@
 ---
 title: "Mahbub Ul Islam"
 description: "Mahbub Ul Islam is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 41 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.022156
+date: 2026-07-10T01:07:47.089179
 url: "/cdr-researcher-census/researchers/mahbub-ul-islam-a5076254/"
 layout: "researcher"
 hiddenInHomeList: true

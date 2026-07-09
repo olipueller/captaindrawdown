@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Yao"
 description: "Zhiyuan Yao is a Mid-career Soil Carbon researcher at Institute of Mountain Hazards and Environment in CN. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.600879
+date: 2026-07-10T01:07:47.662987
 url: "/cdr-researcher-census/researchers/zhiyuan-yao-a5101913/"
 layout: "researcher"
 hiddenInHomeList: true

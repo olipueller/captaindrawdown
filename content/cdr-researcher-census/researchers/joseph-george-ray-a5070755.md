@@ -1,7 +1,7 @@
 ---
 title: "Joseph George Ray"
 description: "Joseph George Ray is a Senior Soil Carbon researcher at Mahatma Gandhi University in IN. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.257011
+date: 2026-07-10T01:07:47.341301
 url: "/cdr-researcher-census/researchers/joseph-george-ray-a5070755/"
 layout: "researcher"
 hiddenInHomeList: true

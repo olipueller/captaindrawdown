@@ -1,7 +1,7 @@
 ---
 title: "Frances Jones"
 description: "Frances Jones is a Senior Enhanced Weathering researcher at University of British Columbia in CA. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.765929
+date: 2026-07-10T01:07:47.816339
 url: "/cdr-researcher-census/researchers/frances-jones-a5110126/"
 layout: "researcher"
 hiddenInHomeList: true

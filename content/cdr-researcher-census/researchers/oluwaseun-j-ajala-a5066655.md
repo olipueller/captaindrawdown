@@ -1,7 +1,7 @@
 ---
 title: "Oluwaseun J. Ajala"
 description: "Oluwaseun J. Ajala is a Mid-career Unknown researcher at Ladoke Akintola University of Technology in NG. With 30 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.156655
+date: 2026-07-10T01:07:47.245390
 url: "/cdr-researcher-census/researchers/oluwaseun-j-ajala-a5066655/"
 layout: "researcher"
 hiddenInHomeList: true

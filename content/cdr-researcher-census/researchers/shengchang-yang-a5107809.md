@@ -1,7 +1,7 @@
 ---
 title: "Shengchang Yang"
 description: "Shengchang Yang is a Senior Soil Carbon researcher at Xiamen University in CN. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.477008
+date: 2026-07-10T01:07:47.549388
 url: "/cdr-researcher-census/researchers/shengchang-yang-a5107809/"
 layout: "researcher"
 hiddenInHomeList: true

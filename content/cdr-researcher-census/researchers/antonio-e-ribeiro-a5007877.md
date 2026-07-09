@@ -1,7 +1,7 @@
 ---
 title: "António E. Ribeiro"
 description: "António E. Ribeiro is a Senior Unknown researcher at Instituto Politécnico de Bragança in PT. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.973694
+date: 2026-07-10T01:07:47.983761
 url: "/cdr-researcher-census/researchers/antonio-e-ribeiro-a5007877/"
 layout: "researcher"
 hiddenInHomeList: true

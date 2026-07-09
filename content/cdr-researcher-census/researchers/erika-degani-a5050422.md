@@ -1,7 +1,7 @@
 ---
 title: "Erika Degani"
 description: "Erika Degani is a Mid-career Unknown researcher at University of Reading in GB. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.897772
+date: 2026-07-10T01:07:47.912664
 url: "/cdr-researcher-census/researchers/erika-degani-a5050422/"
 layout: "researcher"
 hiddenInHomeList: true

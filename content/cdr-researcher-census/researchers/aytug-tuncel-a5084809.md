@@ -1,7 +1,7 @@
 ---
 title: "Aytug Tuncel"
 description: "Aytug Tuncel is a Senior Unknown researcher at University of Maryland, College Park in US. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.399488
+date: 2026-07-10T01:07:47.480240
 url: "/cdr-researcher-census/researchers/aytug-tuncel-a5084809/"
 layout: "researcher"
 hiddenInHomeList: true

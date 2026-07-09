@@ -1,7 +1,7 @@
 ---
 title: "Vinod Kumar"
 description: "Vinod Kumar is a Senior Soil Carbon researcher at Krishi Vigyan Kendra, Ghatkhed Amravati in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.508815
+date: 2026-07-10T01:07:48.493785
 url: "/cdr-researcher-census/researchers/vinod-kumar-a5108139/"
 layout: "researcher"
 hiddenInHomeList: true

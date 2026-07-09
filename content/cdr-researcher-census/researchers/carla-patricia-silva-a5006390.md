@@ -1,7 +1,7 @@
 ---
 title: "Carla Patrícia Silva"
 description: "Carla Patrícia Silva is a Senior Unknown researcher at Health Technology Research Center (H&TRC) in PT. With 39 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.132717
+date: 2026-07-10T01:07:47.221608
 url: "/cdr-researcher-census/researchers/carla-patricia-silva-a5006390/"
 layout: "researcher"
 hiddenInHomeList: true

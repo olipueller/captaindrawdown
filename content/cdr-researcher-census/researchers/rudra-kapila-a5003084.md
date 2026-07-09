@@ -1,7 +1,7 @@
 ---
 title: "Rudra Kapila"
 description: "Rudra Kapila is a Senior General CDR researcher at University of Edinburgh in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.926427
+date: 2026-07-10T01:07:48.849867
 url: "/cdr-researcher-census/researchers/rudra-kapila-a5003084/"
 layout: "researcher"
 hiddenInHomeList: true

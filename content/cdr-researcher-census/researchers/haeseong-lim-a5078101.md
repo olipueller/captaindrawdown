@@ -1,7 +1,7 @@
 ---
 title: "Haeseong Lim"
 description: "Haeseong Lim is a Mid-career General CDR researcher at Korea Advanced Institute of Science and Technology in KR. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.407862
+date: 2026-07-10T01:07:47.487550
 url: "/cdr-researcher-census/researchers/haeseong-lim-a5078101/"
 layout: "researcher"
 hiddenInHomeList: true

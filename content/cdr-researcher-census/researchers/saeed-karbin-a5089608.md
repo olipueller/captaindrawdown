@@ -1,7 +1,7 @@
 ---
 title: "Saeed Karbin"
 description: "Saeed Karbin is a Mid-career Soil Carbon researcher at University of Aberdeen in GB. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.413997
+date: 2026-07-10T01:07:48.404954
 url: "/cdr-researcher-census/researchers/saeed-karbin-a5089608/"
 layout: "researcher"
 hiddenInHomeList: true

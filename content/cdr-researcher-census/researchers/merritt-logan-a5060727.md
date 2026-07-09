@@ -1,7 +1,7 @@
 ---
 title: "Merritt Logan"
 description: "Merritt Logan is a Mid-career Soil Carbon researcher at Colorado State University in US. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.890425
+date: 2026-07-10T01:07:47.905387
 url: "/cdr-researcher-census/researchers/merritt-logan-a5060727/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nianwang Ke"
 description: "Nianwang Ke is a Mid-career Unknown researcher at University of Science and Technology of China in CN. With 11 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.913223
+date: 2026-07-10T01:07:47.926442
 url: "/cdr-researcher-census/researchers/nianwang-ke-a5002765/"
 layout: "researcher"
 hiddenInHomeList: true

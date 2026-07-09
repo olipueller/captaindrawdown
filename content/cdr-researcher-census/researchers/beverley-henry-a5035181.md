@@ -1,7 +1,7 @@
 ---
 title: "Beverley Henry"
 description: "Beverley Henry is a Senior Soil Carbon researcher at Queensland University of Technology in AU. With 66 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.006759
+date: 2026-07-10T01:07:47.068548
 url: "/cdr-researcher-census/researchers/beverley-henry-a5035181/"
 layout: "researcher"
 hiddenInHomeList: true

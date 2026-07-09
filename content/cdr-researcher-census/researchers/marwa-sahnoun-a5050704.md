@@ -1,7 +1,7 @@
 ---
 title: "Marwa Sahnoun"
 description: "Marwa Sahnoun is a Mid-career Unknown researcher at University of Sfax in TN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.680406
+date: 2026-07-10T01:07:48.635673
 url: "/cdr-researcher-census/researchers/marwa-sahnoun-a5050704/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiyan Liu"
 description: "Qiyan Liu is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.439649
+date: 2026-07-10T01:07:48.429507
 url: "/cdr-researcher-census/researchers/qiyan-liu-a5103123/"
 layout: "researcher"
 hiddenInHomeList: true

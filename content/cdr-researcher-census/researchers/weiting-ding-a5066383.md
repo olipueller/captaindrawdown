@@ -1,7 +1,7 @@
 ---
 title: "Weiting Ding"
 description: "Weiting Ding is a Mid-career Soil Carbon researcher at Ministry of Agriculture in BW. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.016863
+date: 2026-07-10T01:07:48.024445
 url: "/cdr-researcher-census/researchers/weiting-ding-a5066383/"
 layout: "researcher"
 hiddenInHomeList: true

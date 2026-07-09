@@ -1,7 +1,7 @@
 ---
 title: "Yuvarat Ngernyen"
 description: "Yuvarat Ngernyen is a Senior Biochar researcher at Khon Kaen University in TH. With 57 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.190400
+date: 2026-07-10T01:07:47.279672
 url: "/cdr-researcher-census/researchers/yuvarat-ngernyen-a5024072/"
 layout: "researcher"
 hiddenInHomeList: true

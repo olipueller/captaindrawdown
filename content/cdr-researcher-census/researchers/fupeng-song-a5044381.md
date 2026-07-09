@@ -1,7 +1,7 @@
 ---
 title: "Fupeng Song"
 description: "Fupeng Song is a Senior Soil Carbon researcher at Taiyuan Iron and Steel Group (China) in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.427590
+date: 2026-07-10T01:07:47.505679
 url: "/cdr-researcher-census/researchers/fupeng-song-a5044381/"
 layout: "researcher"
 hiddenInHomeList: true

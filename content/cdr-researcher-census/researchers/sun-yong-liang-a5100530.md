@@ -1,7 +1,7 @@
 ---
 title: "Sun Yong-liang"
 description: "Sun Yong-liang is a Senior Unknown researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.067767
+date: 2026-07-10T01:07:48.070435
 url: "/cdr-researcher-census/researchers/sun-yong-liang-a5100530/"
 layout: "researcher"
 hiddenInHomeList: true

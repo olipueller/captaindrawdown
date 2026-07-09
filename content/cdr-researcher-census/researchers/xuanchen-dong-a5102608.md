@@ -1,7 +1,7 @@
 ---
 title: "Xuanchen Dong"
 description: "Xuanchen Dong is a Mid-career Unknown researcher at Wuhan University of Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.227778
+date: 2026-07-10T01:07:49.137360
 url: "/cdr-researcher-census/researchers/xuanchen-dong-a5102608/"
 layout: "researcher"
 hiddenInHomeList: true

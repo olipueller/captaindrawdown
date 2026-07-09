@@ -1,7 +1,7 @@
 ---
 title: "L. Maines"
 description: "L. Maines is a Senior Biochar researcher at University of Trento in IT. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.259638
+date: 2026-07-10T01:07:48.267256
 url: "/cdr-researcher-census/researchers/l-maines-a5006414/"
 layout: "researcher"
 hiddenInHomeList: true

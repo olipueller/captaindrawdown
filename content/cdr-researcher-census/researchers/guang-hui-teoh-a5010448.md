@@ -1,7 +1,7 @@
 ---
 title: "Guang Hui Teoh"
 description: "Guang Hui Teoh is a Mid-career Unknown researcher at National Taiwan University of Science and Technology in TW. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.252366
+date: 2026-07-10T01:07:48.260376
 url: "/cdr-researcher-census/researchers/guang-hui-teoh-a5010448/"
 layout: "researcher"
 hiddenInHomeList: true

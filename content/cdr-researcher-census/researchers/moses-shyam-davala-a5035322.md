@@ -1,7 +1,7 @@
 ---
 title: "Moses Shyam Davala"
 description: "Moses Shyam Davala is a Mid-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.050736
+date: 2026-07-10T01:07:48.964348
 url: "/cdr-researcher-census/researchers/moses-shyam-davala-a5035322/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Rahimi"
 description: "Mohammad Rahimi is a Senior Ocean CDR researcher at University of Houston in US. With 45 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.067166
+date: 2026-07-10T01:07:47.144883
 url: "/cdr-researcher-census/researchers/mohammad-rahimi-a5074012/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wu-Tian Cai"
 description: "Wu-Tian Cai is a Mid-career Unknown researcher at China Geological Survey in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.218192
+date: 2026-07-10T01:07:49.129215
 url: "/cdr-researcher-census/researchers/wu-tian-cai-a5048236/"
 layout: "researcher"
 hiddenInHomeList: true

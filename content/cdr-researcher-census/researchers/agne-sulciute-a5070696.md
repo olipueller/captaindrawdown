@@ -1,7 +1,7 @@
 ---
 title: "Agnė Šulčiūtė"
 description: "Agnė Šulčiūtė is a Senior Unknown researcher at Kaunas University of Technology in LT. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.477893
+date: 2026-07-10T01:07:48.465072
 url: "/cdr-researcher-census/researchers/agne-sulciute-a5070696/"
 layout: "researcher"
 hiddenInHomeList: true

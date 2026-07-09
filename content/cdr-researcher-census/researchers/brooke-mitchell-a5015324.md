@@ -1,7 +1,7 @@
 ---
 title: "Brooke Mitchell"
 description: "Brooke Mitchell is a Mid-career Unknown researcher at The University of Texas Medical Branch at Galveston in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.544604
+date: 2026-07-10T01:07:47.609523
 url: "/cdr-researcher-census/researchers/brooke-mitchell-a5015324/"
 layout: "researcher"
 hiddenInHomeList: true

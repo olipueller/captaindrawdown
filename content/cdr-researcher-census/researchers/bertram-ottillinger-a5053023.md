@@ -1,7 +1,7 @@
 ---
 title: "Bertram Ottillinger"
 description: "Bertram Ottillinger is a Senior Unknown researcher. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.465403
+date: 2026-07-10T01:07:47.538927
 url: "/cdr-researcher-census/researchers/bertram-ottillinger-a5053023/"
 layout: "researcher"
 hiddenInHomeList: true

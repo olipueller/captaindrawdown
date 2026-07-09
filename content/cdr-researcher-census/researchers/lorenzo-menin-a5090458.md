@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Menin"
 description: "Lorenzo Menin is a Mid-career General CDR researcher at Free University of Bozen-Bolzano in IT. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.248987
+date: 2026-07-10T01:07:48.256900
 url: "/cdr-researcher-census/researchers/lorenzo-menin-a5090458/"
 layout: "researcher"
 hiddenInHomeList: true

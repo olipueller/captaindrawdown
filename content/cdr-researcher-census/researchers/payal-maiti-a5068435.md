@@ -1,7 +1,7 @@
 ---
 title: "Payal Maiti"
 description: "Payal Maiti is a Senior Unknown researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.233735
+date: 2026-07-10T01:07:48.243479
 url: "/cdr-researcher-census/researchers/payal-maiti-a5068435/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andrés Pérez-San Martín"
 description: "Andrés Pérez-San Martín is a Mid-career Soil Carbon researcher at Universidad Católica de Temuco in CL. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.100510
+date: 2026-07-10T01:07:49.009051
 url: "/cdr-researcher-census/researchers/andres-perez-san-martin-a5049484/"
 layout: "researcher"
 hiddenInHomeList: true

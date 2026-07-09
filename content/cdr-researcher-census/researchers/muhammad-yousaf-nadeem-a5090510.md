@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Yousaf Nadeem"
 description: "Muhammad Yousaf Nadeem is a Mid-career Soil Carbon researcher at Yangzhou University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.402592
+date: 2026-07-10T01:07:48.394218
 url: "/cdr-researcher-census/researchers/muhammad-yousaf-nadeem-a5090510/"
 layout: "researcher"
 hiddenInHomeList: true

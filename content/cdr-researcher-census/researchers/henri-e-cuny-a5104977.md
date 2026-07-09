@@ -1,7 +1,7 @@
 ---
 title: "Henri E. Cuny"
 description: "Henri E. Cuny is a Mid-career Unknown researcher at Institut national de l’information géographique et forestière in FR. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.201386
+date: 2026-07-10T01:07:47.290133
 url: "/cdr-researcher-census/researchers/henri-e-cuny-a5104977/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ashwini Sood"
 description: "Ashwini Sood is a Senior Unknown researcher at Harcourt Butler Technical University in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.867022
+date: 2026-07-10T01:07:48.795978
 url: "/cdr-researcher-census/researchers/ashwini-sood-a5060365/"
 layout: "researcher"
 hiddenInHomeList: true

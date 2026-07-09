@@ -1,7 +1,7 @@
 ---
 title: "Youtong Zhou"
 description: "Youtong Zhou is a Mid-career Unknown researcher at National Institute of Biological Sciences, Beijing in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.643812
+date: 2026-07-10T01:07:47.702668
 url: "/cdr-researcher-census/researchers/youtong-zhou-a5066300/"
 layout: "researcher"
 hiddenInHomeList: true

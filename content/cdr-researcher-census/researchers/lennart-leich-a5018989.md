@@ -1,7 +1,7 @@
 ---
 title: "Lennart Leich"
 description: "Lennart Leich is a Mid-career Unknown researcher at Ruhr University Bochum in DE. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.954874
+date: 2026-07-10T01:07:48.876912
 url: "/cdr-researcher-census/researchers/lennart-leich-a5018989/"
 layout: "researcher"
 hiddenInHomeList: true

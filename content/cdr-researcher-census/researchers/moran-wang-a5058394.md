@@ -1,7 +1,7 @@
 ---
 title: "Moran Wang"
 description: "Moran Wang is a Senior Unknown researcher at Beijing Forestry University in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.602683
+date: 2026-07-10T01:07:48.565814
 url: "/cdr-researcher-census/researchers/moran-wang-a5058394/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tianqiong Ma"
 description: "Tianqiong Ma is a Senior Unknown researcher at King Abdulaziz City for Science and Technology in SA. With 50 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.974407
+date: 2026-07-10T01:07:47.020249
 url: "/cdr-researcher-census/researchers/tianqiong-ma-a5025902/"
 layout: "researcher"
 hiddenInHomeList: true

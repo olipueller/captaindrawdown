@@ -1,7 +1,7 @@
 ---
 title: "Pooria Farmand"
 description: "Pooria Farmand is a Mid-career Unknown researcher at RWTH Aachen University in DE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.839021
+date: 2026-07-10T01:07:48.771539
 url: "/cdr-researcher-census/researchers/pooria-farmand-a5010252/"
 layout: "researcher"
 hiddenInHomeList: true

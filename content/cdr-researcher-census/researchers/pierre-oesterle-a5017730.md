@@ -1,7 +1,7 @@
 ---
 title: "Pierre Oesterle"
 description: "Pierre Oesterle is a Mid-career Biochar researcher at Umeå University in SE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.627433
+date: 2026-07-10T01:07:48.587729
 url: "/cdr-researcher-census/researchers/pierre-oesterle-a5017730/"
 layout: "researcher"
 hiddenInHomeList: true

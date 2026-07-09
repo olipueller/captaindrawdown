@@ -1,7 +1,7 @@
 ---
 title: "Austin McDannald"
 description: "Austin McDannald is a Mid-career General CDR researcher at National Institute of Standards and Technology in US. With 74 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.286170
+date: 2026-07-10T01:07:47.368440
 url: "/cdr-researcher-census/researchers/austin-mcdannald-a5033695/"
 layout: "researcher"
 hiddenInHomeList: true

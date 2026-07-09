@@ -1,7 +1,7 @@
 ---
 title: "Prabhu Govindasamy"
 description: "Prabhu Govindasamy is a Mid-career Soil Carbon researcher at Indian Grassalnd and Fodder Research Institute  in IN. With 71 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.263863
+date: 2026-07-10T01:07:47.347663
 url: "/cdr-researcher-census/researchers/prabhu-govindasamy-a5000881/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yun Zhang"
 description: "Yun Zhang is a Mid-career General CDR researcher at Southwest Forestry University in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.023012
+date: 2026-07-10T01:07:48.030683
 url: "/cdr-researcher-census/researchers/yun-zhang-a5065042/"
 layout: "researcher"
 hiddenInHomeList: true

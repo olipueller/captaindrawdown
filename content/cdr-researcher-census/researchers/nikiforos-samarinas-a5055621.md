@@ -1,7 +1,7 @@
 ---
 title: "Nikiforos Samarinas"
 description: "Nikiforos Samarinas is a Mid-career Soil Carbon researcher at Aristotle University of Thessaloniki in GR. With 50 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.820670
+date: 2026-07-10T01:07:47.866779
 url: "/cdr-researcher-census/researchers/nikiforos-samarinas-a5055621/"
 layout: "researcher"
 hiddenInHomeList: true

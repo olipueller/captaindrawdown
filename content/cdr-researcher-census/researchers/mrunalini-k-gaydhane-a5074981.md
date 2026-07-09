@@ -1,7 +1,7 @@
 ---
 title: "Mrunalini K. Gaydhane"
 description: "Mrunalini K. Gaydhane is a Mid-career Unknown researcher at Birla Institute of Technology and Science, Pilani - Goa Campus in IN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.817448
+date: 2026-07-10T01:07:47.863819
 url: "/cdr-researcher-census/researchers/mrunalini-k-gaydhane-a5074981/"
 layout: "researcher"
 hiddenInHomeList: true

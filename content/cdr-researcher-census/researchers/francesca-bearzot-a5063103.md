@@ -1,7 +1,7 @@
 ---
 title: "Francesca Bearzot"
 description: "Francesca Bearzot is a Mid-career Unknown researcher at University of Calgary in CA. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.060632
+date: 2026-07-10T01:07:48.973161
 url: "/cdr-researcher-census/researchers/francesca-bearzot-a5063103/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sabina R. Gifford"
 description: "Sabina R. Gifford is a Senior Unknown researcher at United States Geological Survey in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.195543
+date: 2026-07-10T01:07:48.209071
 url: "/cdr-researcher-census/researchers/sabina-r-gifford-a5040603/"
 layout: "researcher"
 hiddenInHomeList: true

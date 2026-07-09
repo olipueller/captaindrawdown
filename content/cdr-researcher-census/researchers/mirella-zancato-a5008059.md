@@ -1,7 +1,7 @@
 ---
 title: "Mirella Zancato"
 description: "Mirella Zancato is a Senior Soil Carbon researcher at University of Padua in IT. With 44 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.469098
+date: 2026-07-10T01:07:47.541887
 url: "/cdr-researcher-census/researchers/mirella-zancato-a5008059/"
 layout: "researcher"
 hiddenInHomeList: true

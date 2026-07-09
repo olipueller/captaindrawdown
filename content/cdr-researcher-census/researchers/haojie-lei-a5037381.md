@@ -1,7 +1,7 @@
 ---
 title: "Haojie Lei"
 description: "Haojie Lei is a Mid-career Unknown researcher at Shenzhen University in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.857152
+date: 2026-07-10T01:07:47.892512
 url: "/cdr-researcher-census/researchers/haojie-lei-a5037381/"
 layout: "researcher"
 hiddenInHomeList: true

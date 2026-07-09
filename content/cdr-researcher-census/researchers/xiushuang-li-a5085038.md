@@ -1,7 +1,7 @@
 ---
 title: "Xiushuang Li"
 description: "Xiushuang Li is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.657422
+date: 2026-07-10T01:07:47.714873
 url: "/cdr-researcher-census/researchers/xiushuang-li-a5085038/"
 layout: "researcher"
 hiddenInHomeList: true

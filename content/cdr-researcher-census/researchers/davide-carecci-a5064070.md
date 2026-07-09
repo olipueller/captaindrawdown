@@ -1,7 +1,7 @@
 ---
 title: "Davide Carecci"
 description: "Davide Carecci is a Mid-career Unknown researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.255110
+date: 2026-07-10T01:07:49.161965
 url: "/cdr-researcher-census/researchers/davide-carecci-a5064070/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fadia A. M. Morsy"
 description: "Fadia A. M. Morsy is a Mid-career Unknown researcher at National Institute of Oceanography and Fisheries in EG. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.945526
+date: 2026-07-10T01:07:48.867573
 url: "/cdr-researcher-census/researchers/fadia-a-m-morsy-a5072868/"
 layout: "researcher"
 hiddenInHomeList: true

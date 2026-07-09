@@ -1,7 +1,7 @@
 ---
 title: "Decai Gao"
 description: "Decai Gao is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 69 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.108075
+date: 2026-07-10T01:07:47.193376
 url: "/cdr-researcher-census/researchers/decai-gao-a5034782/"
 layout: "researcher"
 hiddenInHomeList: true

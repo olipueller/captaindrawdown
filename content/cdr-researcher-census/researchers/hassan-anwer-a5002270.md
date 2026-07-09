@@ -1,7 +1,7 @@
 ---
 title: "Hassan Anwer"
 description: "Hassan Anwer is a Mid-career Unknown researcher at National University of Sciences and Technology in PK. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.164898
+date: 2026-07-10T01:07:47.254589
 url: "/cdr-researcher-census/researchers/hassan-anwer-a5002270/"
 layout: "researcher"
 hiddenInHomeList: true

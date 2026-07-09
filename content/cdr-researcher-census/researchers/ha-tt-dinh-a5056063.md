@@ -1,7 +1,7 @@
 ---
 title: "Ha T.T. Dinh"
 description: "Ha T.T. Dinh is a Mid-career Unknown researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.233979
+date: 2026-07-10T01:07:49.143233
 url: "/cdr-researcher-census/researchers/ha-tt-dinh-a5056063/"
 layout: "researcher"
 hiddenInHomeList: true

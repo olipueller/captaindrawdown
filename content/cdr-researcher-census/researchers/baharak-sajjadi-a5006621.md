@@ -1,7 +1,7 @@
 ---
 title: "Baharak Sajjadi"
 description: "Baharak Sajjadi is a Senior General CDR researcher at University of Oklahoma in US. With 80 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.959213
+date: 2026-07-10T01:07:46.996283
 url: "/cdr-researcher-census/researchers/baharak-sajjadi-a5006621/"
 layout: "researcher"
 hiddenInHomeList: true

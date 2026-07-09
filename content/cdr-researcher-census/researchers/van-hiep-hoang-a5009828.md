@@ -1,7 +1,7 @@
 ---
 title: "Van-Hiep Hoang"
 description: "Van-Hiep Hoang is an Early-career Unknown researcher at Vietnam National University, Hanoi in VN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.324335
+date: 2026-07-10T01:07:48.324919
 url: "/cdr-researcher-census/researchers/van-hiep-hoang-a5009828/"
 layout: "researcher"
 hiddenInHomeList: true

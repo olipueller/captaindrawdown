@@ -1,7 +1,7 @@
 ---
 title: "Seung‐Jeong Oh"
 description: "Seung‐Jeong Oh is a Mid-career Ocean CDR researcher at Hyundai Motor Group (South Korea) in KR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.176498
+date: 2026-07-10T01:07:48.192799
 url: "/cdr-researcher-census/researchers/seungjeong-oh-a5112560/"
 layout: "researcher"
 hiddenInHomeList: true

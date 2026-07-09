@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Intesarul Haque"
 description: "Muhammad Intesarul Haque is a Mid-career Biochar researcher at The University of Texas at Arlington in US. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.951327
+date: 2026-07-10T01:07:47.963060
 url: "/cdr-researcher-census/researchers/muhammad-intesarul-haque-a5024022/"
 layout: "researcher"
 hiddenInHomeList: true

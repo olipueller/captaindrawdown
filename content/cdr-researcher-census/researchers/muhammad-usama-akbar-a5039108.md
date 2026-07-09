@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Usama Akbar"
 description: "Muhammad Usama Akbar is a Senior Unknown researcher at Government College University, Lahore in PK. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.948618
+date: 2026-07-10T01:07:47.960397
 url: "/cdr-researcher-census/researchers/muhammad-usama-akbar-a5039108/"
 layout: "researcher"
 hiddenInHomeList: true

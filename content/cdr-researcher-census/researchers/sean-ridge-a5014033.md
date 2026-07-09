@@ -1,7 +1,7 @@
 ---
 title: "Sean Ridge"
 description: "Sean Ridge is a Mid-career Unknown researcher at Lamont-Doherty Earth Observatory in US. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.218903
+date: 2026-07-10T01:07:49.129779
 url: "/cdr-researcher-census/researchers/sean-ridge-a5014033/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jingrui Yang"
 description: "Jingrui Yang is a Mid-career Soil Carbon researcher at Changchun Institute of Optics, Fine Mechanics and Physics in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.717141
+date: 2026-07-10T01:07:48.667342
 url: "/cdr-researcher-census/researchers/jingrui-yang-a5045496/"
 layout: "researcher"
 hiddenInHomeList: true

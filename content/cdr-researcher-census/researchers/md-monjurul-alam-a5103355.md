@@ -1,7 +1,7 @@
 ---
 title: "Md. Monjurul Alam"
 description: "Md. Monjurul Alam is a Mid-career General CDR researcher at Bangladesh Agricultural University in BD. With 11 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.936779
+date: 2026-07-10T01:07:48.859441
 url: "/cdr-researcher-census/researchers/md-monjurul-alam-a5103355/"
 layout: "researcher"
 hiddenInHomeList: true

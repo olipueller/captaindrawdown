@@ -1,7 +1,7 @@
 ---
 title: "Tofique Ahmed Bhutto"
 description: "Tofique Ahmed Bhutto is a Mid-career Unknown researcher at Sindh Agriculture University in PK. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.484011
+date: 2026-07-10T01:07:47.555678
 url: "/cdr-researcher-census/researchers/tofique-ahmed-bhutto-a5051824/"
 layout: "researcher"
 hiddenInHomeList: true

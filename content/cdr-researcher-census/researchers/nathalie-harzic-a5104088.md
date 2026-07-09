@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Harzic"
 description: "Nathalie Harzic is a Senior Unknown researcher at Office National de la Chasse et de la Faune Sauvage in FR. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.457606
+date: 2026-07-10T01:07:48.445976
 url: "/cdr-researcher-census/researchers/nathalie-harzic-a5104088/"
 layout: "researcher"
 hiddenInHomeList: true

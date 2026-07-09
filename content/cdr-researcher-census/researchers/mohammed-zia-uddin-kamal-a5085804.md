@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Zia Uddin Kamal"
 description: "Mohammed Zia Uddin Kamal is a Senior Soil Carbon researcher at Bangladesh Agricultural Research Institute in BD. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.883757
+date: 2026-07-10T01:07:47.899055
 url: "/cdr-researcher-census/researchers/mohammed-zia-uddin-kamal-a5085804/"
 layout: "researcher"
 hiddenInHomeList: true

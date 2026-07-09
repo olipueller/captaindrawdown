@@ -1,7 +1,7 @@
 ---
 title: "Zhiliang Yao"
 description: "Zhiliang Yao is a Senior Unknown researcher at Beijing Technology and Business University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.263667
+date: 2026-07-10T01:07:49.169922
 url: "/cdr-researcher-census/researchers/zhiliang-yao-a5084541/"
 layout: "researcher"
 hiddenInHomeList: true

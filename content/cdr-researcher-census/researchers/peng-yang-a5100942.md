@@ -1,7 +1,7 @@
 ---
 title: "Peng Yang"
 description: "Peng Yang is a Senior Unknown researcher at Air Force Medical University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.553423
+date: 2026-07-10T01:07:47.617664
 url: "/cdr-researcher-census/researchers/peng-yang-a5100942/"
 layout: "researcher"
 hiddenInHomeList: true

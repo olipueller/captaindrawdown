@@ -1,7 +1,7 @@
 ---
 title: "M. Srinivas Kini"
 description: "M. Srinivas Kini is a Mid-career General CDR researcher at Manipal Academy of Higher Education in IN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.716256
+date: 2026-07-10T01:07:47.769983
 url: "/cdr-researcher-census/researchers/m-srinivas-kini-a5027150/"
 layout: "researcher"
 hiddenInHomeList: true

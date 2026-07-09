@@ -1,7 +1,7 @@
 ---
 title: "Janet Moriles‐Miller"
 description: "Janet Moriles‐Miller is a Mid-career Unknown researcher at South Dakota State University in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.363102
+date: 2026-07-10T01:07:48.360913
 url: "/cdr-researcher-census/researchers/janet-morilesmiller-a5007523/"
 layout: "researcher"
 hiddenInHomeList: true

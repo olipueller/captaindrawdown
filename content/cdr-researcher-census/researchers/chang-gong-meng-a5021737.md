@@ -1,7 +1,7 @@
 ---
 title: "Chang Gong Meng"
 description: "Chang Gong Meng is a Senior Unknown researcher at Dalian University of Technology in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.925167
+date: 2026-07-10T01:07:47.938659
 url: "/cdr-researcher-census/researchers/chang-gong-meng-a5021737/"
 layout: "researcher"
 hiddenInHomeList: true

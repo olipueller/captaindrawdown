@@ -1,7 +1,7 @@
 ---
 title: "Zhijun Luo"
 description: "Zhijun Luo is a Senior General CDR researcher at Ministry of Natural Resources in CN. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.491462
+date: 2026-07-10T01:07:48.477447
 url: "/cdr-researcher-census/researchers/zhijun-luo-a5101560/"
 layout: "researcher"
 hiddenInHomeList: true

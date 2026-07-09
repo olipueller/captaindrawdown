@@ -1,7 +1,7 @@
 ---
 title: "Rasu Eeswaran"
 description: "Rasu Eeswaran is a Mid-career Soil Carbon researcher at University of Jaffna in LK. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.619676
+date: 2026-07-10T01:07:47.680407
 url: "/cdr-researcher-census/researchers/rasu-eeswaran-a5025978/"
 layout: "researcher"
 hiddenInHomeList: true

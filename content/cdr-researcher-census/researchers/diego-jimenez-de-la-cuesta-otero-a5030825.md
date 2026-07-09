@@ -1,7 +1,7 @@
 ---
 title: "Diego Jiménez de la Cuesta Otero"
 description: "Diego Jiménez de la Cuesta Otero is a Mid-career Unknown researcher at Deutscher Wetterdienst in DE. With 31 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.105212
+date: 2026-07-10T01:07:47.190094
 url: "/cdr-researcher-census/researchers/diego-jimenez-de-la-cuesta-otero-a5030825/"
 layout: "researcher"
 hiddenInHomeList: true

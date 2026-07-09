@@ -1,7 +1,7 @@
 ---
 title: "Veerachai Tanpipat"
 description: "Veerachai Tanpipat is an Early-career Unknown researcher at Kasetsart University in TH. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.297919
+date: 2026-07-10T01:07:48.300903
 url: "/cdr-researcher-census/researchers/veerachai-tanpipat-a5099117/"
 layout: "researcher"
 hiddenInHomeList: true

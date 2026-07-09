@@ -1,7 +1,7 @@
 ---
 title: "Georgios Xenakis"
 description: "Georgios Xenakis is a Senior Soil Carbon researcher at Forest Research in GB. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.468568
+date: 2026-07-10T01:07:47.541416
 url: "/cdr-researcher-census/researchers/georgios-xenakis-a5008002/"
 layout: "researcher"
 hiddenInHomeList: true

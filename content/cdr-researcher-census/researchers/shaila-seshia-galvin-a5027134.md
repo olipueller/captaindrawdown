@@ -1,7 +1,7 @@
 ---
 title: "Shaila Seshia Galvin"
 description: "Shaila Seshia Galvin is a Mid-career General CDR researcher at Graduate Institute of International and Development Studies in CH. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.037750
+date: 2026-07-10T01:07:48.043523
 url: "/cdr-researcher-census/researchers/shaila-seshia-galvin-a5027134/"
 layout: "researcher"
 hiddenInHomeList: true

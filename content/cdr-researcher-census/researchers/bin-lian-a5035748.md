@@ -1,7 +1,7 @@
 ---
 title: "Bin Lian"
 description: "Bin Lian is a Mid-career Unknown researcher at Nanjing Normal University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.843598
+date: 2026-07-10T01:07:47.879079
 url: "/cdr-researcher-census/researchers/bin-lian-a5035748/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jian Luo"
 description: "Jian Luo is a Mid-career Soil Carbon researcher at Inner Mongolia University in CN. With 36 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.273299
+date: 2026-07-10T01:07:47.356155
 url: "/cdr-researcher-census/researchers/jian-luo-a5054708/"
 layout: "researcher"
 hiddenInHomeList: true

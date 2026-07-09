@@ -1,7 +1,7 @@
 ---
 title: "Ram Babu Pachwarya"
 description: "Ram Babu Pachwarya is a Senior Unknown researcher at University of Delhi in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.621694
+date: 2026-07-10T01:07:48.582631
 url: "/cdr-researcher-census/researchers/ram-babu-pachwarya-a5041815/"
 layout: "researcher"
 hiddenInHomeList: true

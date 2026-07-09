@@ -1,7 +1,7 @@
 ---
 title: "Nicholas Barret"
 description: "Nicholas Barret is a Mid-career Unknown researcher. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.793362
+date: 2026-07-10T01:07:47.841796
 url: "/cdr-researcher-census/researchers/nicholas-barret-a5052216/"
 layout: "researcher"
 hiddenInHomeList: true

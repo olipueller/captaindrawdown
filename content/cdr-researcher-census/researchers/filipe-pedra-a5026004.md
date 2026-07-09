@@ -1,7 +1,7 @@
 ---
 title: "Filipe Pedra"
 description: "Filipe Pedra is a Senior Unknown researcher at Instituto Nacional de investigação Agrária e Veterinária in PT. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.425631
+date: 2026-07-10T01:07:48.415903
 url: "/cdr-researcher-census/researchers/filipe-pedra-a5026004/"
 layout: "researcher"
 hiddenInHomeList: true

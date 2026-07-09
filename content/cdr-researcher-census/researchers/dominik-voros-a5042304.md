@@ -1,7 +1,7 @@
 ---
 title: "Dominik Vöröš"
 description: "Dominik Vöröš is a Mid-career Unknown researcher at Czech Academy of Sciences, Institute of Rock Structure and Mechanics in CZ. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.513824
+date: 2026-07-10T01:07:48.497701
 url: "/cdr-researcher-census/researchers/dominik-voros-a5042304/"
 layout: "researcher"
 hiddenInHomeList: true

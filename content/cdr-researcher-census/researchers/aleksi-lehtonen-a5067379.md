@@ -1,7 +1,7 @@
 ---
 title: "Aleksi Lehtonen"
 description: "Aleksi Lehtonen is an Eminent Soil Carbon researcher at Natural Resources Institute Finland in FI. With 276 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.946814
+date: 2026-07-10T01:07:46.977660
 url: "/cdr-researcher-census/researchers/aleksi-lehtonen-a5067379/"
 layout: "researcher"
 hiddenInHomeList: true

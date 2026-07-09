@@ -1,7 +1,7 @@
 ---
 title: "Manalee Vishnu Surve"
 description: "Manalee Vishnu Surve is a Mid-career Unknown researcher at Broad Institute in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.689526
+date: 2026-07-10T01:07:47.745719
 url: "/cdr-researcher-census/researchers/manalee-vishnu-surve-a5075609/"
 layout: "researcher"
 hiddenInHomeList: true

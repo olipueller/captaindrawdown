@@ -1,7 +1,7 @@
 ---
 title: "Yuanchaun Ren"
 description: "Yuanchaun Ren is an Early-career General CDR researcher at Kunming University of Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.785801
+date: 2026-07-10T01:07:47.834467
 url: "/cdr-researcher-census/researchers/yuanchaun-ren-a5080069/"
 layout: "researcher"
 hiddenInHomeList: true

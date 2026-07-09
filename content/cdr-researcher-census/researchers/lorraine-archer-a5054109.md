@@ -1,7 +1,7 @@
 ---
 title: "Lorraine Archer"
 description: "Lorraine Archer is a Mid-career Unknown researcher at University of Cambridge in GB. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.614135
+date: 2026-07-10T01:07:47.675359
 url: "/cdr-researcher-census/researchers/lorraine-archer-a5054109/"
 layout: "researcher"
 hiddenInHomeList: true

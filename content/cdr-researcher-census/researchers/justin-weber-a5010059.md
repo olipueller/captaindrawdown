@@ -1,7 +1,7 @@
 ---
 title: "Justin Weber"
 description: "Justin Weber is a Senior General CDR researcher at National Energy Technology Laboratory Morgantown in US. With 79 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.534597
+date: 2026-07-10T01:07:47.600681
 url: "/cdr-researcher-census/researchers/justin-weber-a5010059/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jin Song"
 description: "Jin Song is a Senior Ocean CDR researcher at Chinese Academy of Sciences in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.436808
+date: 2026-07-10T01:07:48.426856
 url: "/cdr-researcher-census/researchers/jin-song-a5108269/"
 layout: "researcher"
 hiddenInHomeList: true

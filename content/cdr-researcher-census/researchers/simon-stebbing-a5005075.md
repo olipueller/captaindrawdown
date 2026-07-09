@@ -1,7 +1,7 @@
 ---
 title: "Simon Stebbing"
 description: "Simon Stebbing is a Senior Unknown researcher at PQ Corporation (Canada) in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.143025
+date: 2026-07-10T01:07:49.045748
 url: "/cdr-researcher-census/researchers/simon-stebbing-a5005075/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Edward Luo"
 description: "Edward Luo is an Early-career General CDR researcher at University of Chicago in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.149753
+date: 2026-07-10T01:07:48.169746
 url: "/cdr-researcher-census/researchers/edward-luo-a5099115/"
 layout: "researcher"
 hiddenInHomeList: true

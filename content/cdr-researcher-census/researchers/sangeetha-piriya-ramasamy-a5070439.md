@@ -1,7 +1,7 @@
 ---
 title: "Sangeetha Piriya Ramasamy"
 description: "Sangeetha Piriya Ramasamy is a Mid-career Unknown researcher at University of Leeds in GB. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.462205
+date: 2026-07-10T01:07:48.450187
 url: "/cdr-researcher-census/researchers/sangeetha-piriya-ramasamy-a5070439/"
 layout: "researcher"
 hiddenInHomeList: true

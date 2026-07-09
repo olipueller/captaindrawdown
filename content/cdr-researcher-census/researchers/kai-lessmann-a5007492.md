@@ -1,7 +1,7 @@
 ---
 title: "Kai Lessmann"
 description: "Kai Lessmann is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 90 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.057792
+date: 2026-07-10T01:07:47.133635
 url: "/cdr-researcher-census/researchers/kai-lessmann-a5007492/"
 layout: "researcher"
 hiddenInHomeList: true

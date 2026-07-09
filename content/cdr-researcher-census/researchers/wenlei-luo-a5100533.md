@@ -1,7 +1,7 @@
 ---
 title: "Wenlei Luo"
 description: "Wenlei Luo is a Mid-career Unknown researcher at Nanjing Institute of Geography and Limnology in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.507433
+date: 2026-07-10T01:07:48.492666
 url: "/cdr-researcher-census/researchers/wenlei-luo-a5100533/"
 layout: "researcher"
 hiddenInHomeList: true

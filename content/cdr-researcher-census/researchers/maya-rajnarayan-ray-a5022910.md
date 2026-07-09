@@ -1,7 +1,7 @@
 ---
 title: "Maya Rajnarayan Ray"
 description: "Maya Rajnarayan Ray is a Senior Unknown researcher at G. H. Raisoni College of Engineering, Nagpur in IN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.363311
+date: 2026-07-10T01:07:48.361086
 url: "/cdr-researcher-census/researchers/maya-rajnarayan-ray-a5022910/"
 layout: "researcher"
 hiddenInHomeList: true

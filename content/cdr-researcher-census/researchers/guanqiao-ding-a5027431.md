@@ -1,7 +1,7 @@
 ---
 title: "Guanqiao Ding"
 description: "Guanqiao Ding is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.068800
+date: 2026-07-10T01:07:48.071458
 url: "/cdr-researcher-census/researchers/guanqiao-ding-a5027431/"
 layout: "researcher"
 hiddenInHomeList: true

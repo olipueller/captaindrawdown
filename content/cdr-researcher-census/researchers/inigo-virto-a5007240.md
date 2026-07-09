@@ -1,7 +1,7 @@
 ---
 title: "Iñigo Virto"
 description: "Iñigo Virto is a Senior Soil Carbon researcher at Universidad Pública de Navarra in ES. With 120 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.971533
+date: 2026-07-10T01:07:47.015616
 url: "/cdr-researcher-census/researchers/inigo-virto-a5007240/"
 layout: "researcher"
 hiddenInHomeList: true

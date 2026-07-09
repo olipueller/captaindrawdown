@@ -1,7 +1,7 @@
 ---
 title: "Jianfei Sun"
 description: "Jianfei Sun is a Senior Soil Carbon researcher at Guangxi University in CN. With 34 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.223863
+date: 2026-07-10T01:07:47.310980
 url: "/cdr-researcher-census/researchers/jianfei-sun-a5075528/"
 layout: "researcher"
 hiddenInHomeList: true

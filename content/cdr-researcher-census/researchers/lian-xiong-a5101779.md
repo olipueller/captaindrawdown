@@ -1,7 +1,7 @@
 ---
 title: "Lian Xiong"
 description: "Lian Xiong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.313220
+date: 2026-07-10T01:07:47.395359
 url: "/cdr-researcher-census/researchers/lian-xiong-a5101779/"
 layout: "researcher"
 hiddenInHomeList: true

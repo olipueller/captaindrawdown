@@ -1,7 +1,7 @@
 ---
 title: "Vaibhav Deoli"
 description: "Vaibhav Deoli is a Mid-career Unknown researcher at Indian Institute of Technology Delhi in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.621895
+date: 2026-07-10T01:07:48.582835
 url: "/cdr-researcher-census/researchers/vaibhav-deoli-a5019283/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Swoyambhu Man Amatya"
 description: "Swoyambhu Man Amatya is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.149496
+date: 2026-07-10T01:07:49.051806
 url: "/cdr-researcher-census/researchers/swoyambhu-man-amatya-a5113481/"
 layout: "researcher"
 hiddenInHomeList: true

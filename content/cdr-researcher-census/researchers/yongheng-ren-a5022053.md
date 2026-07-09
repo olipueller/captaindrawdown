@@ -1,7 +1,7 @@
 ---
 title: "Yongheng Ren"
 description: "Yongheng Ren is a Senior Unknown researcher at Taiyuan University of Technology in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.116537
+date: 2026-07-10T01:07:48.141059
 url: "/cdr-researcher-census/researchers/yongheng-ren-a5022053/"
 layout: "researcher"
 hiddenInHomeList: true

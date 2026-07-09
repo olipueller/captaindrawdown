@@ -1,7 +1,7 @@
 ---
 title: "Coralie Barth-Jensen"
 description: "Coralie Barth-Jensen is a Mid-career Ocean CDR researcher at UiT The Arctic University of Norway in NO. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.039219
+date: 2026-07-10T01:07:48.044758
 url: "/cdr-researcher-census/researchers/coralie-barth-jensen-a5026028/"
 layout: "researcher"
 hiddenInHomeList: true

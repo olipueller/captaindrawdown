@@ -1,7 +1,7 @@
 ---
 title: "Oleksandr Boiko"
 description: "Oleksandr Boiko is a Mid-career Unknown researcher at Weatherford College in US. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.757606
+date: 2026-07-10T01:07:48.703315
 url: "/cdr-researcher-census/researchers/oleksandr-boiko-a5017521/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Marshman"
 description: "Jennifer Marshman is a Mid-career Unknown researcher. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.866611
+date: 2026-07-10T01:07:48.795511
 url: "/cdr-researcher-census/researchers/jennifer-marshman-a5077286/"
 layout: "researcher"
 hiddenInHomeList: true

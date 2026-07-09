@@ -1,7 +1,7 @@
 ---
 title: "Shiqiang Wang"
 description: "Shiqiang Wang is a Senior Soil Carbon researcher at Institute of Forest Resource Information Techniques in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.718550
+date: 2026-07-10T01:07:47.772075
 url: "/cdr-researcher-census/researchers/shiqiang-wang-a5101856/"
 layout: "researcher"
 hiddenInHomeList: true

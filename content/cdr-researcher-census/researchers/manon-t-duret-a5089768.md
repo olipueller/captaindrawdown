@@ -1,7 +1,7 @@
 ---
 title: "Manon T. Duret"
 description: "Manon T. Duret is a Mid-career Ocean CDR researcher at National Oceanography Centre in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.109795
+date: 2026-07-10T01:07:48.135347
 url: "/cdr-researcher-census/researchers/manon-t-duret-a5089768/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marek Jadlovec"
 description: "Marek Jadlovec is a Mid-career Biochar researcher at VSB - Technical University of Ostrava in CZ. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.927465
+date: 2026-07-10T01:07:48.850930
 url: "/cdr-researcher-census/researchers/marek-jadlovec-a5024012/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Guanhe Rim"
 description: "Guanhe Rim is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 32 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.205639
+date: 2026-07-10T01:07:47.293800
 url: "/cdr-researcher-census/researchers/guanhe-rim-a5017072/"
 layout: "researcher"
 hiddenInHomeList: true

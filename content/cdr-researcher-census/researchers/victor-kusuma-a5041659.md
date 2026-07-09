@@ -1,7 +1,7 @@
 ---
 title: "Victor Kusuma"
 description: "Victor Kusuma is a Senior Unknown researcher at Defense Logistics Agency in US. With 80 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.120494
+date: 2026-07-10T01:07:47.207352
 url: "/cdr-researcher-census/researchers/victor-kusuma-a5041659/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eunice Essel"
 description: "Eunice Essel is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.247624
+date: 2026-07-10T01:07:48.255678
 url: "/cdr-researcher-census/researchers/eunice-essel-a5112768/"
 layout: "researcher"
 hiddenInHomeList: true

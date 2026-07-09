@@ -1,7 +1,7 @@
 ---
 title: "Shahina Riaz"
 description: "Shahina Riaz is a Mid-career Unknown researcher at King Fahd University of Petroleum and Minerals in SA. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.344746
+date: 2026-07-10T01:07:47.427327
 url: "/cdr-researcher-census/researchers/shahina-riaz-a5000380/"
 layout: "researcher"
 hiddenInHomeList: true

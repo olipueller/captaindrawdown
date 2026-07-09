@@ -1,7 +1,7 @@
 ---
 title: "Yangyang Bao"
 description: "Yangyang Bao is a Mid-career Unknown researcher at Northwest University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.711707
+date: 2026-07-10T01:07:48.663069
 url: "/cdr-researcher-census/researchers/yangyang-bao-a5050991/"
 layout: "researcher"
 hiddenInHomeList: true

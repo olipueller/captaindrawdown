@@ -1,7 +1,7 @@
 ---
 title: "Flavio Soares Pereira"
 description: "Flavio Soares Pereira is a Senior General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.906230
+date: 2026-07-10T01:07:48.831679
 url: "/cdr-researcher-census/researchers/flavio-soares-pereira-a5111744/"
 layout: "researcher"
 hiddenInHomeList: true

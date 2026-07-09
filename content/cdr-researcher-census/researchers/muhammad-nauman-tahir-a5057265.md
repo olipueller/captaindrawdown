@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Nauman Tahir"
 description: "Muhammad Nauman Tahir is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.313119
+date: 2026-07-10T01:07:48.315424
 url: "/cdr-researcher-census/researchers/muhammad-nauman-tahir-a5057265/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Danial Qadir"
 description: "Danial Qadir is a Mid-career Unknown researcher at Teesside University in GB. With 41 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.658375
+date: 2026-07-10T01:07:47.715875
 url: "/cdr-researcher-census/researchers/danial-qadir-a5004367/"
 layout: "researcher"
 hiddenInHomeList: true

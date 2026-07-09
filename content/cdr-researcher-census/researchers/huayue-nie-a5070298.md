@@ -1,7 +1,7 @@
 ---
 title: "Huayue Nie"
 description: "Huayue Nie is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.262470
+date: 2026-07-10T01:07:47.346209
 url: "/cdr-researcher-census/researchers/huayue-nie-a5070298/"
 layout: "researcher"
 hiddenInHomeList: true

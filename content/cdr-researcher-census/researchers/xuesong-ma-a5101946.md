@@ -1,7 +1,7 @@
 ---
 title: "Xuesong Ma"
 description: "Xuesong Ma is a Senior Soil Carbon researcher at Shandong University in CN. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.391122
+date: 2026-07-10T01:07:47.472161
 url: "/cdr-researcher-census/researchers/xuesong-ma-a5101946/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rowena Gerjets"
 description: "Rowena Gerjets is a Mid-career Soil Carbon researcher at University of Göttingen in DE. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.043748
+date: 2026-07-10T01:07:48.957389
 url: "/cdr-researcher-census/researchers/rowena-gerjets-a5021934/"
 layout: "researcher"
 hiddenInHomeList: true

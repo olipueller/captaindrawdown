@@ -1,7 +1,7 @@
 ---
 title: "George Favas"
 description: "George Favas is a Senior Unknown researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.523311
+date: 2026-07-10T01:07:47.590069
 url: "/cdr-researcher-census/researchers/george-favas-a5011591/"
 layout: "researcher"
 hiddenInHomeList: true

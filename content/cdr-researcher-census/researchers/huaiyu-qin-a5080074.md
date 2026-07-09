@@ -1,7 +1,7 @@
 ---
 title: "Huaiyu Qin"
 description: "Huaiyu Qin is a Mid-career Unknown researcher at Sichuan University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.286746
+date: 2026-07-10T01:07:48.291646
 url: "/cdr-researcher-census/researchers/huaiyu-qin-a5080074/"
 layout: "researcher"
 hiddenInHomeList: true

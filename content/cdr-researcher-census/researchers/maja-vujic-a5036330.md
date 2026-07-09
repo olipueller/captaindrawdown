@@ -1,7 +1,7 @@
 ---
 title: "Maja Vujić"
 description: "Maja Vujić is a Mid-career Biochar researcher at University of Novi Sad in RS. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.802892
+date: 2026-07-10T01:07:48.741603
 url: "/cdr-researcher-census/researchers/maja-vujic-a5036330/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thomas M. Kohl"
 description: "Thomas M. Kohl is a Mid-career General CDR researcher at Health Sciences and Nutrition in AU. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.696892
+date: 2026-07-10T01:07:48.650211
 url: "/cdr-researcher-census/researchers/thomas-m-kohl-a5007174/"
 layout: "researcher"
 hiddenInHomeList: true

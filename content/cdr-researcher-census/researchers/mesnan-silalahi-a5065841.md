@@ -1,7 +1,7 @@
 ---
 title: "Mesnan Silalahi"
 description: "Mesnan Silalahi is a Senior General CDR researcher. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.928056
+date: 2026-07-10T01:07:48.851543
 url: "/cdr-researcher-census/researchers/mesnan-silalahi-a5065841/"
 layout: "researcher"
 hiddenInHomeList: true

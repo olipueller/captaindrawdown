@@ -1,7 +1,7 @@
 ---
 title: "Alexander E. Cohen"
 description: "Alexander E. Cohen is a Mid-career Unknown researcher at Massachusetts Institute of Technology in US. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.004997
+date: 2026-07-10T01:07:48.013786
 url: "/cdr-researcher-census/researchers/alexander-e-cohen-a5029042/"
 layout: "researcher"
 hiddenInHomeList: true

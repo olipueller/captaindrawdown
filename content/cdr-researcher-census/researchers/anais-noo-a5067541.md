@@ -1,7 +1,7 @@
 ---
 title: "Anaïs Noo"
 description: "Anaïs Noo is a Mid-career Soil Carbon researcher at Luxembourg Institute of Science and Technology in LU. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.661557
+date: 2026-07-10T01:07:48.618437
 url: "/cdr-researcher-census/researchers/anais-noo-a5067541/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Karina Winkler"
 description: "Karina Winkler is a Mid-career General CDR researcher at Karlsruhe Institute of Technology in DE. With 47 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.083387
+date: 2026-07-10T01:07:47.164642
 url: "/cdr-researcher-census/researchers/karina-winkler-a5009883/"
 layout: "researcher"
 hiddenInHomeList: true

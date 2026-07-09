@@ -1,7 +1,7 @@
 ---
 title: "Rauber D. Pereira"
 description: "Rauber D. Pereira is a Senior Unknown researcher at Universidade Federal de São Carlos in BR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.123287
+date: 2026-07-10T01:07:49.028638
 url: "/cdr-researcher-census/researchers/rauber-d-pereira-a5083375/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Assadang Polnok"
 description: "Assadang Polnok is a Senior Unknown researcher at Kalasin University in TH. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.935296
+date: 2026-07-10T01:07:47.948023
 url: "/cdr-researcher-census/researchers/assadang-polnok-a5029662/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Farida Abubakari"
 description: "Farida Abubakari is a Mid-career Soil Carbon researcher at The University of Queensland in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.650891
+date: 2026-07-10T01:07:48.609284
 url: "/cdr-researcher-census/researchers/farida-abubakari-a5088429/"
 layout: "researcher"
 hiddenInHomeList: true

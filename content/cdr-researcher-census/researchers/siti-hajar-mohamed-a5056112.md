@@ -1,7 +1,7 @@
 ---
 title: "Siti Hajar Mohamed"
 description: "Siti Hajar Mohamed is a Mid-career Unknown researcher at Universiti Sains Malaysia in MY. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.373125
+date: 2026-07-10T01:07:48.369556
 url: "/cdr-researcher-census/researchers/siti-hajar-mohamed-a5056112/"
 layout: "researcher"
 hiddenInHomeList: true

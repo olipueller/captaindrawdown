@@ -1,7 +1,7 @@
 ---
 title: "Bengen Hong"
 description: "Bengen Hong is a Mid-career Unknown researcher at Xiamen Tungsten (China) in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.697629
+date: 2026-07-10T01:07:48.650983
 url: "/cdr-researcher-census/researchers/bengen-hong-a5002009/"
 layout: "researcher"
 hiddenInHomeList: true

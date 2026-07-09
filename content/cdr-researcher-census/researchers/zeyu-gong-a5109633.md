@@ -1,7 +1,7 @@
 ---
 title: "Zeyu Gong"
 description: "Zeyu Gong is a Mid-career Unknown researcher at Sun Yat-sen University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.977747
+date: 2026-07-10T01:07:47.987575
 url: "/cdr-researcher-census/researchers/zeyu-gong-a5109633/"
 layout: "researcher"
 hiddenInHomeList: true

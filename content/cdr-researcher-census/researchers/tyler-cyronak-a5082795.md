@@ -1,7 +1,7 @@
 ---
 title: "Tyler Cyronak"
 description: "Tyler Cyronak is a Senior Ocean CDR researcher at Georgia Southern University in US. With 108 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.007642
+date: 2026-07-10T01:07:47.069785
 url: "/cdr-researcher-census/researchers/tyler-cyronak-a5082795/"
 layout: "researcher"
 hiddenInHomeList: true

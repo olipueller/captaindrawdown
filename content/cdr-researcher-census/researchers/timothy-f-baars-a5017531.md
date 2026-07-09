@@ -1,7 +1,7 @@
 ---
 title: "Timothy F. Baars"
 description: "Timothy F. Baars is a Mid-career General CDR researcher at Union Bank of Switzerland in CH. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.212319
+date: 2026-07-10T01:07:49.124169
 url: "/cdr-researcher-census/researchers/timothy-f-baars-a5017531/"
 layout: "researcher"
 hiddenInHomeList: true

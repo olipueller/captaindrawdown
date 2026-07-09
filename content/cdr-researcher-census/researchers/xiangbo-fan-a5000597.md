@@ -1,7 +1,7 @@
 ---
 title: "Xiangbo Fan"
 description: "Xiangbo Fan is a Mid-career Unknown researcher at Zhengzhou University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.416148
+date: 2026-07-10T01:07:47.495056
 url: "/cdr-researcher-census/researchers/xiangbo-fan-a5000597/"
 layout: "researcher"
 hiddenInHomeList: true

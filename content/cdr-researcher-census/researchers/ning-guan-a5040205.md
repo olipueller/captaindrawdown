@@ -1,7 +1,7 @@
 ---
 title: "Ning Guan"
 description: "Ning Guan is a Mid-career General CDR researcher at Beijing Forestry University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.942729
+date: 2026-07-10T01:07:48.865085
 url: "/cdr-researcher-census/researchers/ning-guan-a5040205/"
 layout: "researcher"
 hiddenInHomeList: true

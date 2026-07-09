@@ -1,7 +1,7 @@
 ---
 title: "Alexander Popp"
 description: "Alexander Popp is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 357 publications and an h-index of 92, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.871187
+date: 2026-07-10T01:07:46.805410
 url: "/cdr-researcher-census/researchers/alexander-popp-a5088947/"
 layout: "researcher"
 hiddenInHomeList: true

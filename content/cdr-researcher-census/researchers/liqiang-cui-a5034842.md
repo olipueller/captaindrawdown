@@ -1,7 +1,7 @@
 ---
 title: "Liqiang Cui"
 description: "Liqiang Cui is a Mid-career Soil Carbon researcher at Spinal Research in GB. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.461680
+date: 2026-07-10T01:07:47.535790
 url: "/cdr-researcher-census/researchers/liqiang-cui-a5034842/"
 layout: "researcher"
 hiddenInHomeList: true

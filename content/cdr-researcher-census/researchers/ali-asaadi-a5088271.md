@@ -1,7 +1,7 @@
 ---
 title: "Ali Asaadi"
 description: "Ali Asaadi is a Mid-career General CDR researcher at Bjerknes Centre for Climate Research in NO. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.813663
+date: 2026-07-10T01:07:47.860317
 url: "/cdr-researcher-census/researchers/ali-asaadi-a5088271/"
 layout: "researcher"
 hiddenInHomeList: true

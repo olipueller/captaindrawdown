@@ -1,7 +1,7 @@
 ---
 title: "Kit Weng Foong"
 description: "Kit Weng Foong is a Mid-career Unknown researcher at Sichuan University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.934837
+date: 2026-07-10T01:07:47.947632
 url: "/cdr-researcher-census/researchers/kit-weng-foong-a5088151/"
 layout: "researcher"
 hiddenInHomeList: true

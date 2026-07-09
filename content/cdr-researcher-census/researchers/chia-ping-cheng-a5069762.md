@@ -1,7 +1,7 @@
 ---
 title: "Chia-Ping Cheng"
 description: "Chia-Ping Cheng is a Senior General CDR researcher at Environmental Protection Administration in TW. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.089142
+date: 2026-07-10T01:07:48.998777
 url: "/cdr-researcher-census/researchers/chia-ping-cheng-a5069762/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "R. Sparkes"
 description: "R. Sparkes is a Senior Soil Carbon researcher at Manchester Metropolitan University in GB. With 59 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.315914
+date: 2026-07-10T01:07:47.398074
 url: "/cdr-researcher-census/researchers/r-sparkes-a5075366/"
 layout: "researcher"
 hiddenInHomeList: true

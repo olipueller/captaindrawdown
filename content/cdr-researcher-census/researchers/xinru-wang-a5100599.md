@@ -1,7 +1,7 @@
 ---
 title: "Xinru Wang"
 description: "Xinru Wang is a Mid-career Unknown researcher at Jilin University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.151126
+date: 2026-07-10T01:07:48.170971
 url: "/cdr-researcher-census/researchers/xinru-wang-a5100599/"
 layout: "researcher"
 hiddenInHomeList: true

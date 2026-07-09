@@ -1,7 +1,7 @@
 ---
 title: "Gibran Romero‐Mujalli"
 description: "Gibran Romero‐Mujalli is a Mid-career Soil Carbon researcher at Universität Hamburg in DE. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.530359
+date: 2026-07-10T01:07:47.596862
 url: "/cdr-researcher-census/researchers/gibran-romeromujalli-a5051155/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maria Xanthopoulou"
 description: "Maria Xanthopoulou is a Mid-career Unknown researcher at Aristotle University of Thessaloniki in GR. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.379994
+date: 2026-07-10T01:07:48.376058
 url: "/cdr-researcher-census/researchers/maria-xanthopoulou-a5036611/"
 layout: "researcher"
 hiddenInHomeList: true

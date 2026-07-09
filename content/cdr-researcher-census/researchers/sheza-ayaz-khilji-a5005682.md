@@ -1,7 +1,7 @@
 ---
 title: "Sheza Ayaz Khilji"
 description: "Sheza Ayaz Khilji is a Mid-career Soil Carbon researcher at Institute of Botany of the Slovak Academy of Sciences in SK. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.803747
+date: 2026-07-10T01:07:47.851046
 url: "/cdr-researcher-census/researchers/sheza-ayaz-khilji-a5005682/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Virpi Junttila"
 description: "Virpi Junttila is a Senior Soil Carbon researcher at Finnish Environment Institute in FI. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.631038
+date: 2026-07-10T01:07:47.690510
 url: "/cdr-researcher-census/researchers/virpi-junttila-a5071231/"
 layout: "researcher"
 hiddenInHomeList: true

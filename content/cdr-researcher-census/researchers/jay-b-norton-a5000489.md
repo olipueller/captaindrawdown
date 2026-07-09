@@ -1,7 +1,7 @@
 ---
 title: "Jay B. Norton"
 description: "Jay B. Norton is a Senior Soil Carbon researcher at University of Wyoming in US. With 72 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.123067
+date: 2026-07-10T01:07:47.209769
 url: "/cdr-researcher-census/researchers/jay-b-norton-a5000489/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yoong-Sin Oon"
 description: "Yoong-Sin Oon is a Senior Unknown researcher at Chinese Academy of Sciences Institute of Hydrobiology in CN. With 37 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.094531
+date: 2026-07-10T01:07:47.177263
 url: "/cdr-researcher-census/researchers/yoong-sin-oon-a5029925/"
 layout: "researcher"
 hiddenInHomeList: true

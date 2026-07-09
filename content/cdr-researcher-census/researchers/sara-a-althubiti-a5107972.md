@@ -1,7 +1,7 @@
 ---
 title: "Sara A. Althubiti"
 description: "Sara A. Althubiti is an Early-career Unknown researcher at Majmaah University in SA. With 4 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.136742
+date: 2026-07-10T01:07:49.040404
 url: "/cdr-researcher-census/researchers/sara-a-althubiti-a5107972/"
 layout: "researcher"
 hiddenInHomeList: true

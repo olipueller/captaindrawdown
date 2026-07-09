@@ -1,7 +1,7 @@
 ---
 title: "Pradthana Prachanurak"
 description: "Pradthana Prachanurak is a Mid-career Unknown researcher at Srinakharinwirot University in TH. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.324991
+date: 2026-07-10T01:07:48.325489
 url: "/cdr-researcher-census/researchers/pradthana-prachanurak-a5071278/"
 layout: "researcher"
 hiddenInHomeList: true

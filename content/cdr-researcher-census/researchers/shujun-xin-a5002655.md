@@ -1,7 +1,7 @@
 ---
 title: "Shujun Xin"
 description: "Shujun Xin is a Senior Unknown researcher at Shenyang University of Chemical Technology in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.133999
+date: 2026-07-10T01:07:48.156095
 url: "/cdr-researcher-census/researchers/shujun-xin-a5002655/"
 layout: "researcher"
 hiddenInHomeList: true

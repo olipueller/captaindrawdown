@@ -1,7 +1,7 @@
 ---
 title: "Yuxue Zhu"
 description: "Yuxue Zhu is a Mid-career Unknown researcher at Beijing University of Technology in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.023889
+date: 2026-07-10T01:07:48.031753
 url: "/cdr-researcher-census/researchers/yuxue-zhu-a5018642/"
 layout: "researcher"
 hiddenInHomeList: true

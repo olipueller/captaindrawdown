@@ -1,7 +1,7 @@
 ---
 title: "A. Antony Ravindran"
 description: "A. Antony Ravindran is a Senior Unknown researcher at Government Medical College Thoothukudi in IN. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.178204
+date: 2026-07-10T01:07:48.194460
 url: "/cdr-researcher-census/researchers/a-antony-ravindran-a5029984/"
 layout: "researcher"
 hiddenInHomeList: true

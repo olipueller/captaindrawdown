@@ -1,7 +1,7 @@
 ---
 title: "Nicoletta Brazzola"
 description: "Nicoletta Brazzola is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.646207
+date: 2026-07-10T01:07:48.604951
 url: "/cdr-researcher-census/researchers/nicoletta-brazzola-a5030128/"
 layout: "researcher"
 hiddenInHomeList: true

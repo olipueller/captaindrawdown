@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar Dash"
 description: "Amit Kumar Dash is a Mid-career Soil Carbon researcher at Indian Institute of Soil Science in IN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.208684
+date: 2026-07-10T01:07:49.121352
 url: "/cdr-researcher-census/researchers/amit-kumar-dash-a5102760/"
 layout: "researcher"
 hiddenInHomeList: true

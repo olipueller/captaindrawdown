@@ -1,7 +1,7 @@
 ---
 title: "Lars Wiklund"
 description: "Lars Wiklund is a Senior Unknown researcher at Uppsala University Hospital in SE. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.256535
+date: 2026-07-10T01:07:48.264495
 url: "/cdr-researcher-census/researchers/lars-wiklund-a5088068/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Genetu Fekadu"
 description: "Genetu Fekadu is a Mid-career Unknown researcher at Injibara University in ET. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.111832
+date: 2026-07-10T01:07:49.018662
 url: "/cdr-researcher-census/researchers/genetu-fekadu-a5088053/"
 layout: "researcher"
 hiddenInHomeList: true

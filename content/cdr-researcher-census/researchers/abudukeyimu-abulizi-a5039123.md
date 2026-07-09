@@ -1,7 +1,7 @@
 ---
 title: "Abudukeyimu Abulizi"
 description: "Abudukeyimu Abulizi is a Mid-career Soil Carbon researcher at Xinjiang University in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.461561
+date: 2026-07-10T01:07:48.449622
 url: "/cdr-researcher-census/researchers/abudukeyimu-abulizi-a5039123/"
 layout: "researcher"
 hiddenInHomeList: true

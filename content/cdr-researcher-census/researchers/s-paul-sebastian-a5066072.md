@@ -1,7 +1,7 @@
 ---
 title: "S. Paul Sebastian"
 description: "S. Paul Sebastian is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.217962
+date: 2026-07-10T01:07:48.229570
 url: "/cdr-researcher-census/researchers/s-paul-sebastian-a5066072/"
 layout: "researcher"
 hiddenInHomeList: true

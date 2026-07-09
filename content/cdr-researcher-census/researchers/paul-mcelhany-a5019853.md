@@ -1,7 +1,7 @@
 ---
 title: "Paul McElhany"
 description: "Paul McElhany is a Senior Ocean CDR researcher at NOAA National Marine Fisheries Service in US. With 81 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.056621
+date: 2026-07-10T01:07:47.132426
 url: "/cdr-researcher-census/researchers/paul-mcelhany-a5019853/"
 layout: "researcher"
 hiddenInHomeList: true

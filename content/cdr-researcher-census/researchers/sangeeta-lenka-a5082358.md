@@ -1,7 +1,7 @@
 ---
 title: "Sangeeta Lenka"
 description: "Sangeeta Lenka is a Senior Soil Carbon researcher at Indian Institute of Soil Science in IN. With 67 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.272043
+date: 2026-07-10T01:07:47.355084
 url: "/cdr-researcher-census/researchers/sangeeta-lenka-a5082358/"
 layout: "researcher"
 hiddenInHomeList: true

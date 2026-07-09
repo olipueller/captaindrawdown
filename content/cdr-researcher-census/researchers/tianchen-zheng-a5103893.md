@@ -1,7 +1,7 @@
 ---
 title: "Tianchen Zheng"
 description: "Tianchen Zheng is a Mid-career Unknown researcher at Ghent University in BE. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.268429
+date: 2026-07-10T01:07:48.274702
 url: "/cdr-researcher-census/researchers/tianchen-zheng-a5103893/"
 layout: "researcher"
 hiddenInHomeList: true

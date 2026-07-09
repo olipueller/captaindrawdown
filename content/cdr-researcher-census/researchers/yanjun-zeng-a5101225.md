@@ -1,7 +1,7 @@
 ---
 title: "Yanjun Zeng"
 description: "Yanjun Zeng is a Mid-career Unknown researcher at Central South University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.493121
+date: 2026-07-10T01:07:47.563583
 url: "/cdr-researcher-census/researchers/yanjun-zeng-a5101225/"
 layout: "researcher"
 hiddenInHomeList: true

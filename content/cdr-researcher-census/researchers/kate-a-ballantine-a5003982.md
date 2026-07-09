@@ -1,7 +1,7 @@
 ---
 title: "Kate A. Ballantine"
 description: "Kate A. Ballantine is a Mid-career Biochar researcher at Mount Holyoke College in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.005877
+date: 2026-07-10T01:07:47.067391
 url: "/cdr-researcher-census/researchers/kate-a-ballantine-a5003982/"
 layout: "researcher"
 hiddenInHomeList: true

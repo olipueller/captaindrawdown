@@ -1,7 +1,7 @@
 ---
 title: "Jim Heitholt"
 description: "Jim Heitholt is a Senior Soil Carbon researcher at University of Wyoming in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.099883
+date: 2026-07-10T01:07:48.126205
 url: "/cdr-researcher-census/researchers/jim-heitholt-a5109149/"
 layout: "researcher"
 hiddenInHomeList: true

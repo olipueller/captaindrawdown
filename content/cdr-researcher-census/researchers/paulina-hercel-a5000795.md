@@ -1,7 +1,7 @@
 ---
 title: "Paulina Hercel"
 description: "Paulina Hercel is a Mid-career Biochar researcher at Institute of Fluid Flow-Machinery in PL. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.635518
+date: 2026-07-10T01:07:48.594584
 url: "/cdr-researcher-census/researchers/paulina-hercel-a5000795/"
 layout: "researcher"
 hiddenInHomeList: true

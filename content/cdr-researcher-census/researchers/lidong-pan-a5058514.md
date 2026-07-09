@@ -1,7 +1,7 @@
 ---
 title: "Lidong Pan"
 description: "Lidong Pan is a Mid-career Soil Carbon researcher at Southwest University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.480074
+date: 2026-07-10T01:07:48.467015
 url: "/cdr-researcher-census/researchers/lidong-pan-a5058514/"
 layout: "researcher"
 hiddenInHomeList: true

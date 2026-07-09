@@ -1,7 +1,7 @@
 ---
 title: "Davide Tognin"
 description: "Davide Tognin is a Mid-career Soil Carbon researcher at University of Padua in IT. With 82 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.890809
+date: 2026-07-10T01:07:47.905739
 url: "/cdr-researcher-census/researchers/davide-tognin-a5079907/"
 layout: "researcher"
 hiddenInHomeList: true

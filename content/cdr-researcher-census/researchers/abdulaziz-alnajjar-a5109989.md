@@ -1,7 +1,7 @@
 ---
 title: "Abdulaziz Alnajjar"
 description: "Abdulaziz Alnajjar is a Senior Unknown researcher at Imam Abdulrahman Bin Faisal University in SA. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.002396
+date: 2026-07-10T01:07:48.920494
 url: "/cdr-researcher-census/researchers/abdulaziz-alnajjar-a5109989/"
 layout: "researcher"
 hiddenInHomeList: true

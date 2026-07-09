@@ -1,7 +1,7 @@
 ---
 title: "Jiao Feng"
 description: "Jiao Feng is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 77 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.074381
+date: 2026-07-10T01:07:47.153802
 url: "/cdr-researcher-census/researchers/jiao-feng-a5078523/"
 layout: "researcher"
 hiddenInHomeList: true

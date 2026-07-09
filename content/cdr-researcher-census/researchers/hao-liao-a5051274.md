@@ -1,7 +1,7 @@
 ---
 title: "Hao Liao"
 description: "Hao Liao is a Mid-career Soil Carbon researcher at Wuhan Botanical Garden, Chinese Academy of Sciences in CN. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.245154
+date: 2026-07-10T01:07:47.330709
 url: "/cdr-researcher-census/researchers/hao-liao-a5051274/"
 layout: "researcher"
 hiddenInHomeList: true

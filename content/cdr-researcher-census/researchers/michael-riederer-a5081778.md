@@ -1,7 +1,7 @@
 ---
 title: "Michael Riederer"
 description: "Michael Riederer is a Mid-career Unknown researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.642469
+date: 2026-07-10T01:07:47.701537
 url: "/cdr-researcher-census/researchers/michael-riederer-a5081778/"
 layout: "researcher"
 hiddenInHomeList: true

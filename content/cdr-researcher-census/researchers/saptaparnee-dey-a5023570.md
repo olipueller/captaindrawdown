@@ -1,7 +1,7 @@
 ---
 title: "Saptaparnee Dey"
 description: "Saptaparnee Dey is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.856291
+date: 2026-07-10T01:07:48.786802
 url: "/cdr-researcher-census/researchers/saptaparnee-dey-a5023570/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiangping Tan"
 description: "Xiangping Tan is a Senior Soil Carbon researcher at 中国科学院华南植物园 in CN. With 58 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.163226
+date: 2026-07-10T01:07:47.252600
 url: "/cdr-researcher-census/researchers/xiangping-tan-a5071734/"
 layout: "researcher"
 hiddenInHomeList: true

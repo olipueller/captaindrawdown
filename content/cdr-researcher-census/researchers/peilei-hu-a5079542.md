@@ -1,7 +1,7 @@
 ---
 title: "Peilei Hu"
 description: "Peilei Hu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 88 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.100007
+date: 2026-07-10T01:07:47.183975
 url: "/cdr-researcher-census/researchers/peilei-hu-a5079542/"
 layout: "researcher"
 hiddenInHomeList: true

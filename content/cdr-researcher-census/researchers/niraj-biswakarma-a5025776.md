@@ -1,7 +1,7 @@
 ---
 title: "Niraj Biswakarma"
 description: "Niraj Biswakarma is a Senior Soil Carbon researcher at ICAR Research Complex for NEH Region in IN. With 43 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.942437
+date: 2026-07-10T01:07:47.954944
 url: "/cdr-researcher-census/researchers/niraj-biswakarma-a5025776/"
 layout: "researcher"
 hiddenInHomeList: true

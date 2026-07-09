@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Gus-Stolarczyk"
 description: "Magdalena Gus-Stolarczyk is a Mid-career Soil Carbon researcher at Jagiellonian University in PL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.866819
+date: 2026-07-10T01:07:48.795696
 url: "/cdr-researcher-census/researchers/magdalena-gus-stolarczyk-a5035260/"
 layout: "researcher"
 hiddenInHomeList: true

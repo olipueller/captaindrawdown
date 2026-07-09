@@ -1,7 +1,7 @@
 ---
 title: "Jaesung Kum"
 description: "Jaesung Kum is a Mid-career General CDR researcher at Yonsei University in KR. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.591291
+date: 2026-07-10T01:07:48.555372
 url: "/cdr-researcher-census/researchers/jaesung-kum-a5042661/"
 layout: "researcher"
 hiddenInHomeList: true

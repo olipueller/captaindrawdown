@@ -1,7 +1,7 @@
 ---
 title: "Liz Hamilton"
 description: "Liz Hamilton is a Senior Soil Carbon researcher at Universities UK in GB. With 56 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.876770
+date: 2026-07-10T01:07:48.804262
 url: "/cdr-researcher-census/researchers/liz-hamilton-a5060584/"
 layout: "researcher"
 hiddenInHomeList: true

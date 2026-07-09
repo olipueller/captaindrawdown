@@ -1,7 +1,7 @@
 ---
 title: "Wisdom Ebiye Sawyer"
 description: "Wisdom Ebiye Sawyer is a Senior Unknown researcher at Federal Medical Centre in NG. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.934436
+date: 2026-07-10T01:07:47.947283
 url: "/cdr-researcher-census/researchers/wisdom-ebiye-sawyer-a5108498/"
 layout: "researcher"
 hiddenInHomeList: true

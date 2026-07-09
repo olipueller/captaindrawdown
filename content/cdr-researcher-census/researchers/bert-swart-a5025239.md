@@ -1,7 +1,7 @@
 ---
 title: "Bert Swart"
 description: "Bert Swart is a Mid-career Unknown researcher at Engineering and Physical Sciences Research Council in GB. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.789293
+date: 2026-07-10T01:07:48.730364
 url: "/cdr-researcher-census/researchers/bert-swart-a5025239/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chu-Yun Cheng"
 description: "Chu-Yun Cheng is a Senior Unknown researcher at Jiangxi Normal University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.767969
+date: 2026-07-10T01:07:47.818229
 url: "/cdr-researcher-census/researchers/chu-yun-cheng-a5110074/"
 layout: "researcher"
 hiddenInHomeList: true

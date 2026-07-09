@@ -1,7 +1,7 @@
 ---
 title: "Maja Bar Rasmussen"
 description: "Maja Bar Rasmussen is a Mid-career Enhanced Weathering researcher at University of Copenhagen in DK. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.045489
+date: 2026-07-10T01:07:48.051018
 url: "/cdr-researcher-census/researchers/maja-bar-rasmussen-a5067168/"
 layout: "researcher"
 hiddenInHomeList: true

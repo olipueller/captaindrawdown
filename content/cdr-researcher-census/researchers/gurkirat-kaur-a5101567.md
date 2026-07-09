@@ -1,7 +1,7 @@
 ---
 title: "Gurkirat Kaur"
 description: "Gurkirat Kaur is a Mid-career Unknown researcher at Dayanand Medical College & Hospital in IN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.926333
+date: 2026-07-10T01:07:48.849762
 url: "/cdr-researcher-census/researchers/gurkirat-kaur-a5101567/"
 layout: "researcher"
 hiddenInHomeList: true

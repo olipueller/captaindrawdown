@@ -1,7 +1,7 @@
 ---
 title: "Amanda Cuéllar"
 description: "Amanda Cuéllar is a Senior General CDR researcher at University of San Diego in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.287596
+date: 2026-07-10T01:07:47.369832
 url: "/cdr-researcher-census/researchers/amanda-cuellar-a5022040/"
 layout: "researcher"
 hiddenInHomeList: true

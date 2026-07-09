@@ -1,7 +1,7 @@
 ---
 title: "Namita Das Saha"
 description: "Namita Das Saha is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.178705
+date: 2026-07-10T01:07:48.194929
 url: "/cdr-researcher-census/researchers/namita-das-saha-a5074504/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Carlos Rodriguez-Franco"
 description: "Carlos Rodriguez-Franco is a Mid-career General CDR researcher at US Forest Service in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.408881
+date: 2026-07-10T01:07:48.400416
 url: "/cdr-researcher-census/researchers/carlos-rodriguez-franco-a5081441/"
 layout: "researcher"
 hiddenInHomeList: true

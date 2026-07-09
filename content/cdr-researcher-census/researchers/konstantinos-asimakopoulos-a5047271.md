@@ -1,7 +1,7 @@
 ---
 title: "Konstantinos Asimakopoulos"
 description: "Konstantinos Asimakopoulos is a Mid-career General CDR researcher at Danmarks Tekniske Universitet in DK. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.577711
+date: 2026-07-10T01:07:47.640817
 url: "/cdr-researcher-census/researchers/konstantinos-asimakopoulos-a5047271/"
 layout: "researcher"
 hiddenInHomeList: true

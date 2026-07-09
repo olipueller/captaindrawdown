@@ -1,7 +1,7 @@
 ---
 title: "Kunyuan Liu"
 description: "Kunyuan Liu is a Mid-career Biochar researcher at Sun Yat-sen University in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.627309
+date: 2026-07-10T01:07:47.687205
 url: "/cdr-researcher-census/researchers/kunyuan-liu-a5060636/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "M. Grace Andrews"
 description: "M. Grace Andrews is a Mid-career General CDR researcher at Climate Central in US. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.112428
+date: 2026-07-10T01:07:47.198300
 url: "/cdr-researcher-census/researchers/m-grace-andrews-a5102775/"
 layout: "researcher"
 hiddenInHomeList: true

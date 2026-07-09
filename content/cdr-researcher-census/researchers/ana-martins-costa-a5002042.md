@@ -1,7 +1,7 @@
 ---
 title: "Ana Martins Costa"
 description: "Ana Martins Costa is a Mid-career Unknown researcher at University of Twente in NL. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.196991
+date: 2026-07-10T01:07:48.210278
 url: "/cdr-researcher-census/researchers/ana-martins-costa-a5002042/"
 layout: "researcher"
 hiddenInHomeList: true

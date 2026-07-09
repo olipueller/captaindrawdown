@@ -1,7 +1,7 @@
 ---
 title: "Ajay Singh"
 description: "Ajay Singh is a Mid-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.602503
+date: 2026-07-10T01:07:47.664280
 url: "/cdr-researcher-census/researchers/ajay-singh-a5077570/"
 layout: "researcher"
 hiddenInHomeList: true

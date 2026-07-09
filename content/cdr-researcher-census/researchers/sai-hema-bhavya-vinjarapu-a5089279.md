@@ -1,7 +1,7 @@
 ---
 title: "Sai Hema Bhavya Vinjarapu"
 description: "Sai Hema Bhavya Vinjarapu is a Mid-career Unknown researcher at Technical University of Denmark in DK. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.092533
+date: 2026-07-10T01:07:48.092403
 url: "/cdr-researcher-census/researchers/sai-hema-bhavya-vinjarapu-a5089279/"
 layout: "researcher"
 hiddenInHomeList: true

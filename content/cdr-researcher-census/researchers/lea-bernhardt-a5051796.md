@@ -1,7 +1,7 @@
 ---
 title: "Lea Bernhardt"
 description: "Lea Bernhardt is a Mid-career Unknown researcher at Hamburg Institute of International Economics in DE. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.194357
+date: 2026-07-10T01:07:49.107786
 url: "/cdr-researcher-census/researchers/lea-bernhardt-a5051796/"
 layout: "researcher"
 hiddenInHomeList: true

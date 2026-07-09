@@ -1,7 +1,7 @@
 ---
 title: "Edith Bai"
 description: "Edith Bai is an Eminent Soil Carbon researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 187 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.912609
+date: 2026-07-10T01:07:46.913229
 url: "/cdr-researcher-census/researchers/edith-bai-a5063317/"
 layout: "researcher"
 hiddenInHomeList: true

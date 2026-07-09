@@ -1,7 +1,7 @@
 ---
 title: "Griet Neukermans"
 description: "Griet Neukermans is a Senior General CDR researcher at University College Ghent in BE. With 78 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.052190
+date: 2026-07-10T01:07:47.127430
 url: "/cdr-researcher-census/researchers/griet-neukermans-a5067221/"
 layout: "researcher"
 hiddenInHomeList: true

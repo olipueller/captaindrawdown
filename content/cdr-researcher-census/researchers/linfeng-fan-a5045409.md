@@ -1,7 +1,7 @@
 ---
 title: "Linfeng Fan"
 description: "Linfeng Fan is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.577993
+date: 2026-07-10T01:07:47.641088
 url: "/cdr-researcher-census/researchers/linfeng-fan-a5045409/"
 layout: "researcher"
 hiddenInHomeList: true

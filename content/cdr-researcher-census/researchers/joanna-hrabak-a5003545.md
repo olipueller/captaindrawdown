@@ -1,7 +1,7 @@
 ---
 title: "Joanna Hrabak"
 description: "Joanna Hrabak is a Mid-career Biochar researcher at Institute for Chemical Processing of Coal in PL. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.816474
+date: 2026-07-10T01:07:47.862908
 url: "/cdr-researcher-census/researchers/joanna-hrabak-a5003545/"
 layout: "researcher"
 hiddenInHomeList: true

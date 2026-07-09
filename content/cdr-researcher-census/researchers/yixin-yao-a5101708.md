@@ -1,7 +1,7 @@
 ---
 title: "Yixin Yao"
 description: "Yixin Yao is a Mid-career General CDR researcher at Fuzhou University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.084070
+date: 2026-07-10T01:07:48.085150
 url: "/cdr-researcher-census/researchers/yixin-yao-a5101708/"
 layout: "researcher"
 hiddenInHomeList: true

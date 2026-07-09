@@ -1,7 +1,7 @@
 ---
 title: "D. Lorenzo"
 description: "D. Lorenzo is a Senior DAC researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.609101
+date: 2026-07-10T01:07:47.670905
 url: "/cdr-researcher-census/researchers/d-lorenzo-a5112605/"
 layout: "researcher"
 hiddenInHomeList: true

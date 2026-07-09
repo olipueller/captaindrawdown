@@ -1,7 +1,7 @@
 ---
 title: "Dongmei He"
 description: "Dongmei He is a Mid-career Unknown researcher at Yancheng Teachers University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.064368
+date: 2026-07-10T01:07:48.976432
 url: "/cdr-researcher-census/researchers/dongmei-he-a5102576/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lukáš Janota"
 description: "Lukáš Janota is a Mid-career Unknown researcher at Landscape Research Institute in CZ. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.972084
+date: 2026-07-10T01:07:48.892154
 url: "/cdr-researcher-census/researchers/lukas-janota-a5022537/"
 layout: "researcher"
 hiddenInHomeList: true

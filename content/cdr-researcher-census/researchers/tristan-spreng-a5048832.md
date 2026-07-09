@@ -1,7 +1,7 @@
 ---
 title: "Tristan Spreng"
 description: "Tristan Spreng is an Early-career Unknown researcher at Imperial College London in GB. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.307421
+date: 2026-07-10T01:07:48.310149
 url: "/cdr-researcher-census/researchers/tristan-spreng-a5048832/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Daniel J. Harrigan"
 description: "Daniel J. Harrigan is a Mid-career Unknown researcher at Saudi Aramco (United States) in US. With 18 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.549620
+date: 2026-07-10T01:07:47.613803
 url: "/cdr-researcher-census/researchers/daniel-j-harrigan-a5076607/"
 layout: "researcher"
 hiddenInHomeList: true

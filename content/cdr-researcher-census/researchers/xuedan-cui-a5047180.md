@@ -1,7 +1,7 @@
 ---
 title: "Xuedan Cui"
 description: "Xuedan Cui is a Mid-career Biochar researcher at Beijing University of Chemical Technology in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.946631
+date: 2026-07-10T01:07:47.958552
 url: "/cdr-researcher-census/researchers/xuedan-cui-a5047180/"
 layout: "researcher"
 hiddenInHomeList: true

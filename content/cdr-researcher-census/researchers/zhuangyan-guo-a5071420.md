@@ -1,7 +1,7 @@
 ---
 title: "Zhuangyan Guo"
 description: "Zhuangyan Guo is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.426538
+date: 2026-07-10T01:07:48.416750
 url: "/cdr-researcher-census/researchers/zhuangyan-guo-a5071420/"
 layout: "researcher"
 hiddenInHomeList: true

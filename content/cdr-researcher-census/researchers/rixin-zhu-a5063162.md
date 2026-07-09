@@ -1,7 +1,7 @@
 ---
 title: "Rixin Zhu"
 description: "Rixin Zhu is a Mid-career Biochar researcher at University of Jinan in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.338314
+date: 2026-07-10T01:07:48.338034
 url: "/cdr-researcher-census/researchers/rixin-zhu-a5063162/"
 layout: "researcher"
 hiddenInHomeList: true

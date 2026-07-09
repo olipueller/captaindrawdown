@@ -1,7 +1,7 @@
 ---
 title: "Longren Li"
 description: "Longren Li is a Mid-career Unknown researcher at London Biofoundry in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.534465
+date: 2026-07-10T01:07:47.600578
 url: "/cdr-researcher-census/researchers/longren-li-a5074125/"
 layout: "researcher"
 hiddenInHomeList: true

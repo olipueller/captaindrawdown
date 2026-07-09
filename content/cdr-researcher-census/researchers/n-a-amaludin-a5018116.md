@@ -1,7 +1,7 @@
 ---
 title: "N A Amaludin"
 description: "N A Amaludin is an Early-career Unknown researcher at Universiti of Malaysia Sabah in MY. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.247756
+date: 2026-07-10T01:07:49.155328
 url: "/cdr-researcher-census/researchers/n-a-amaludin-a5018116/"
 layout: "researcher"
 hiddenInHomeList: true

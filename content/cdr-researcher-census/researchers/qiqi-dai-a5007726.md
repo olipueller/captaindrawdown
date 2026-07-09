@@ -1,7 +1,7 @@
 ---
 title: "Qiqi Dai"
 description: "Qiqi Dai is a Mid-career Unknown researcher at National University of Singapore in SG. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.625743
+date: 2026-07-10T01:07:47.685645
 url: "/cdr-researcher-census/researchers/qiqi-dai-a5007726/"
 layout: "researcher"
 hiddenInHomeList: true

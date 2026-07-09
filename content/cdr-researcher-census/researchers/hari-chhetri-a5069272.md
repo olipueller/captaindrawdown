@@ -1,7 +1,7 @@
 ---
 title: "Hari Chhetri"
 description: "Hari Chhetri is a Senior Soil Carbon researcher. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.163903
+date: 2026-07-10T01:07:48.181677
 url: "/cdr-researcher-census/researchers/hari-chhetri-a5069272/"
 layout: "researcher"
 hiddenInHomeList: true

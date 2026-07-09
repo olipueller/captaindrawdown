@@ -1,7 +1,7 @@
 ---
 title: "Przemyslaw Polewski"
 description: "Przemyslaw Polewski is a Mid-career Unknown researcher. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.591697
+date: 2026-07-10T01:07:47.654998
 url: "/cdr-researcher-census/researchers/przemyslaw-polewski-a5070500/"
 layout: "researcher"
 hiddenInHomeList: true

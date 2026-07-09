@@ -1,7 +1,7 @@
 ---
 title: "Eun Sol Go"
 description: "Eun Sol Go is a Mid-career Unknown researcher at Korea Gas Corporation (South Korea) in KR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.556784
+date: 2026-07-10T01:07:48.536944
 url: "/cdr-researcher-census/researchers/eun-sol-go-a5108741/"
 layout: "researcher"
 hiddenInHomeList: true

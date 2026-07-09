@@ -1,7 +1,7 @@
 ---
 title: "Lilit Stepanyan"
 description: "Lilit Stepanyan is a Mid-career Unknown researcher at Scientific Center of Zoology and Hydroecology in AM. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.295243
+date: 2026-07-10T01:07:48.298708
 url: "/cdr-researcher-census/researchers/lilit-stepanyan-a5113914/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Josh Hashemi"
 description: "Josh Hashemi is a Mid-career Soil Carbon researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.890328
+date: 2026-07-10T01:07:47.905277
 url: "/cdr-researcher-census/researchers/josh-hashemi-a5001079/"
 layout: "researcher"
 hiddenInHomeList: true

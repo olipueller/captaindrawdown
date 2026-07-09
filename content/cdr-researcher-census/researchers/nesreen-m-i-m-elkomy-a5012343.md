@@ -1,7 +1,7 @@
 ---
 title: "Nesreen M. I. M. Elkomy"
 description: "Nesreen M. I. M. Elkomy is a Mid-career Unknown researcher at Zagazig University in EG. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.947437
+date: 2026-07-10T01:07:48.869314
 url: "/cdr-researcher-census/researchers/nesreen-m-i-m-elkomy-a5012343/"
 layout: "researcher"
 hiddenInHomeList: true

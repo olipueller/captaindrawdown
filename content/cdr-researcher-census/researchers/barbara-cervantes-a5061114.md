@@ -1,7 +1,7 @@
 ---
 title: "Barbara Cervantes"
 description: "Barbara Cervantes is a Senior Unknown researcher at TUM Klinikum in DE. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.935508
+date: 2026-07-10T01:07:47.948204
 url: "/cdr-researcher-census/researchers/barbara-cervantes-a5061114/"
 layout: "researcher"
 hiddenInHomeList: true

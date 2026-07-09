@@ -1,7 +1,7 @@
 ---
 title: "Guanshuai Zhang"
 description: "Guanshuai Zhang is a Mid-career Biochar researcher at Shandong University of Technology in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.498917
+date: 2026-07-10T01:07:48.484248
 url: "/cdr-researcher-census/researchers/guanshuai-zhang-a5083681/"
 layout: "researcher"
 hiddenInHomeList: true

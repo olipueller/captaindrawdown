@@ -1,7 +1,7 @@
 ---
 title: "Bibo Long"
 description: "Bibo Long is a Mid-career Unknown researcher at Zhejiang University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.419989
+date: 2026-07-10T01:07:48.410804
 url: "/cdr-researcher-census/researchers/bibo-long-a5063358/"
 layout: "researcher"
 hiddenInHomeList: true

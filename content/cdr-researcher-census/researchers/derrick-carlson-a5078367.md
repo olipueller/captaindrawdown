@@ -1,7 +1,7 @@
 ---
 title: "Derrick Carlson"
 description: "Derrick Carlson is a Mid-career General CDR researcher at National Energy Technology Laboratory in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.372633
+date: 2026-07-10T01:07:48.369074
 url: "/cdr-researcher-census/researchers/derrick-carlson-a5078367/"
 layout: "researcher"
 hiddenInHomeList: true

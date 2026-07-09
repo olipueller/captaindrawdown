@@ -1,7 +1,7 @@
 ---
 title: "Xiao Zhu"
 description: "Xiao Zhu is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.067475
+date: 2026-07-10T01:07:48.070111
 url: "/cdr-researcher-census/researchers/xiao-zhu-a5002387/"
 layout: "researcher"
 hiddenInHomeList: true

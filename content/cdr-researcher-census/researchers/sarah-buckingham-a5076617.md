@@ -1,7 +1,7 @@
 ---
 title: "Sarah Buckingham"
 description: "Sarah Buckingham is a Senior Soil Carbon researcher at Scotland's Rural College in GB. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.710282
+date: 2026-07-10T01:07:47.764650
 url: "/cdr-researcher-census/researchers/sarah-buckingham-a5076617/"
 layout: "researcher"
 hiddenInHomeList: true

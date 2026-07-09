@@ -1,7 +1,7 @@
 ---
 title: "Gangping Su"
 description: "Gangping Su is a Mid-career Unknown researcher at Zhejiang University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.437348
+date: 2026-07-10T01:07:48.427347
 url: "/cdr-researcher-census/researchers/gangping-su-a5070154/"
 layout: "researcher"
 hiddenInHomeList: true

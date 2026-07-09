@@ -1,7 +1,7 @@
 ---
 title: "Béla‐Simon Paschold"
 description: "Béla‐Simon Paschold is a Mid-career Unknown researcher at Beth Israel Deaconess Medical Center in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.202250
+date: 2026-07-10T01:07:49.115021
 url: "/cdr-researcher-census/researchers/belasimon-paschold-a5116019/"
 layout: "researcher"
 hiddenInHomeList: true

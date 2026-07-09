@@ -1,7 +1,7 @@
 ---
 title: "Daniel Wasner"
 description: "Daniel Wasner is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.104126
+date: 2026-07-10T01:07:48.130860
 url: "/cdr-researcher-census/researchers/daniel-wasner-a5004330/"
 layout: "researcher"
 hiddenInHomeList: true

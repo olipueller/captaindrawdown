@@ -1,7 +1,7 @@
 ---
 title: "Eva Kaštovská"
 description: "Eva Kaštovská is a Senior Soil Carbon researcher at University of South Bohemia in České Budějovice in CZ. With 52 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.143867
+date: 2026-07-10T01:07:47.232759
 url: "/cdr-researcher-census/researchers/eva-kastovska-a5028442/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jianhua Lv"
 description: "Jianhua Lv is a Mid-career Soil Carbon researcher at Qingdao Agricultural University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.750108
+date: 2026-07-10T01:07:47.801533
 url: "/cdr-researcher-census/researchers/jianhua-lv-a5055333/"
 layout: "researcher"
 hiddenInHomeList: true

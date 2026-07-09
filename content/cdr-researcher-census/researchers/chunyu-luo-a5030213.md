@@ -1,7 +1,7 @@
 ---
 title: "Chunyu Luo"
 description: "Chunyu Luo is a Senior Unknown researcher at Heilongjiang Academy of Sciences in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.235748
+date: 2026-07-10T01:07:48.245328
 url: "/cdr-researcher-census/researchers/chunyu-luo-a5030213/"
 layout: "researcher"
 hiddenInHomeList: true

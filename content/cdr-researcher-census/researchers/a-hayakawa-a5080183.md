@@ -1,7 +1,7 @@
 ---
 title: "A. Hayakawa"
 description: "A. Hayakawa is a Senior Unknown researcher at Japan Aerospace Exploration Agency in JP. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.094951
+date: 2026-07-10T01:07:49.003587
 url: "/cdr-researcher-census/researchers/a-hayakawa-a5080183/"
 layout: "researcher"
 hiddenInHomeList: true

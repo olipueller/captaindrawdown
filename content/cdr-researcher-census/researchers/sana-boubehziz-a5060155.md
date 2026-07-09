@@ -1,7 +1,7 @@
 ---
 title: "Sana Boubehziz"
 description: "Sana Boubehziz is a Mid-career Soil Carbon researcher at University of Córdoba in ES. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.985854
+date: 2026-07-10T01:07:48.905318
 url: "/cdr-researcher-census/researchers/sana-boubehziz-a5060155/"
 layout: "researcher"
 hiddenInHomeList: true

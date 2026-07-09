@@ -1,7 +1,7 @@
 ---
 title: "Kohen W. Bauer"
 description: "Kohen W. Bauer is a Mid-career Ocean CDR researcher at University of Victoria in CA. With 69 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.412142
+date: 2026-07-10T01:07:47.491409
 url: "/cdr-researcher-census/researchers/kohen-w-bauer-a5013096/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Matheus de Andrade Cruz"
 description: "Matheus de Andrade Cruz is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.076535
+date: 2026-07-10T01:07:48.987713
 url: "/cdr-researcher-census/researchers/matheus-de-andrade-cruz-a5022839/"
 layout: "researcher"
 hiddenInHomeList: true

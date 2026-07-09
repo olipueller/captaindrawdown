@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Hilmi"
 description: "Nathalie Hilmi is a Senior General CDR researcher at Scientific Centre of Monaco in MC. With 97 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.129455
+date: 2026-07-10T01:07:47.218237
 url: "/cdr-researcher-census/researchers/nathalie-hilmi-a5111123/"
 layout: "researcher"
 hiddenInHomeList: true

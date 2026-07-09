@@ -1,7 +1,7 @@
 ---
 title: "Yuexian Ma"
 description: "Yuexian Ma is a Mid-career Unknown researcher at Weatherford College in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.751147
+date: 2026-07-10T01:07:48.697921
 url: "/cdr-researcher-census/researchers/yuexian-ma-a5000875/"
 layout: "researcher"
 hiddenInHomeList: true

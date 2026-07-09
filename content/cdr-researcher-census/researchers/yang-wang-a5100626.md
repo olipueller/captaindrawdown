@@ -1,7 +1,7 @@
 ---
 title: "Yang Wang"
 description: "Yang Wang is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.226645
+date: 2026-07-10T01:07:47.313496
 url: "/cdr-researcher-census/researchers/yang-wang-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true

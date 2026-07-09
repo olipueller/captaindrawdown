@@ -1,7 +1,7 @@
 ---
 title: "Xiang Dai"
 description: "Xiang Dai is a Mid-career Biochar researcher at Guangdong University of Technology in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.807845
+date: 2026-07-10T01:07:47.854282
 url: "/cdr-researcher-census/researchers/xiang-dai-a5025906/"
 layout: "researcher"
 hiddenInHomeList: true

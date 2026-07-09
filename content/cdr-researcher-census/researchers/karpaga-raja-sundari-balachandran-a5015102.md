@@ -1,7 +1,7 @@
 ---
 title: "Karpaga Raja Sundari Balachandran"
 description: "Karpaga Raja Sundari Balachandran is a Mid-career Unknown researcher at National Institute of Ocean Technology in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.985758
+date: 2026-07-10T01:07:48.905229
 url: "/cdr-researcher-census/researchers/karpaga-raja-sundari-balachandran-a5015102/"
 layout: "researcher"
 hiddenInHomeList: true

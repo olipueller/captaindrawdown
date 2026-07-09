@@ -1,7 +1,7 @@
 ---
 title: "Congping Shang"
 description: "Congping Shang is a Mid-career Unknown researcher at Guangzhou Regenerative Medicine and Health Guangdong Laboratory in CN. With 20 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.164026
+date: 2026-07-10T01:07:47.253434
 url: "/cdr-researcher-census/researchers/congping-shang-a5112437/"
 layout: "researcher"
 hiddenInHomeList: true

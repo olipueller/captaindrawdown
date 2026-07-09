@@ -1,7 +1,7 @@
 ---
 title: "Shimbahri Mesfin"
 description: "Shimbahri Mesfin is a Mid-career Soil Carbon researcher at Norwegian University of Life Sciences in NO. With 24 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.702809
+date: 2026-07-10T01:07:47.757428
 url: "/cdr-researcher-census/researchers/shimbahri-mesfin-a5064506/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Juliane Weber"
 description: "Juliane Weber is a Senior DAC researcher at Oak Ridge National Laboratory in US. With 126 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.065927
+date: 2026-07-10T01:07:47.143344
 url: "/cdr-researcher-census/researchers/juliane-weber-a5010698/"
 layout: "researcher"
 hiddenInHomeList: true

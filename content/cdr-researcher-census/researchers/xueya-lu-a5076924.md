@@ -1,7 +1,7 @@
 ---
 title: "Xueya Lu"
 description: "Xueya Lu is a Mid-career Ocean CDR researcher at Endometriosis UK in GB. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.904818
+date: 2026-07-10T01:07:48.830330
 url: "/cdr-researcher-census/researchers/xueya-lu-a5076924/"
 layout: "researcher"
 hiddenInHomeList: true

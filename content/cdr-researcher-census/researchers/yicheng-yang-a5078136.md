@@ -1,7 +1,7 @@
 ---
 title: "Yicheng Yang"
 description: "Yicheng Yang is a Senior Soil Carbon researcher at Tianjin University in CN. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.020157
+date: 2026-07-10T01:07:47.086379
 url: "/cdr-researcher-census/researchers/yicheng-yang-a5078136/"
 layout: "researcher"
 hiddenInHomeList: true

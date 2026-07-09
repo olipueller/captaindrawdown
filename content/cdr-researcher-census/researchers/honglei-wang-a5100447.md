@@ -1,7 +1,7 @@
 ---
 title: "Honglei Wang"
 description: "Honglei Wang is a Mid-career Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.756215
+date: 2026-07-10T01:07:47.806482
 url: "/cdr-researcher-census/researchers/honglei-wang-a5100447/"
 layout: "researcher"
 hiddenInHomeList: true

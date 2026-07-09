@@ -1,7 +1,7 @@
 ---
 title: "Ernesto Roccaro"
 description: "Ernesto Roccaro is a Mid-career Unknown researcher at Eni (Italy) in IT. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.539502
+date: 2026-07-10T01:07:47.604821
 url: "/cdr-researcher-census/researchers/ernesto-roccaro-a5083990/"
 layout: "researcher"
 hiddenInHomeList: true

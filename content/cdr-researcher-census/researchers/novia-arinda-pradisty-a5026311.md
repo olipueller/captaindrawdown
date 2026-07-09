@@ -1,7 +1,7 @@
 ---
 title: "Novia Arinda Pradisty"
 description: "Novia Arinda Pradisty is a Mid-career Ocean CDR researcher at Ministry of Marine Affairs and Fisheries in ID. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.410808
+date: 2026-07-10T01:07:48.402159
 url: "/cdr-researcher-census/researchers/novia-arinda-pradisty-a5026311/"
 layout: "researcher"
 hiddenInHomeList: true

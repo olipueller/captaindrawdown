@@ -1,7 +1,7 @@
 ---
 title: "Viola Somogyi"
 description: "Viola Somogyi is a Senior Soil Carbon researcher at University of Pannonia in HU. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.343464
+date: 2026-07-10T01:07:47.426041
 url: "/cdr-researcher-census/researchers/viola-somogyi-a5019122/"
 layout: "researcher"
 hiddenInHomeList: true

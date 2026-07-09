@@ -1,7 +1,7 @@
 ---
 title: "Jianglin Zhang"
 description: "Jianglin Zhang is a Senior Soil Carbon researcher at Hunan Academy of Agricultural Sciences in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.416591
+date: 2026-07-10T01:07:47.495508
 url: "/cdr-researcher-census/researchers/jianglin-zhang-a5101672/"
 layout: "researcher"
 hiddenInHomeList: true

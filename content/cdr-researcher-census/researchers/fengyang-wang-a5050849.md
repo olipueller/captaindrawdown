@@ -1,7 +1,7 @@
 ---
 title: "Fengyang Wang"
 description: "Fengyang Wang is a Senior Unknown researcher at Stockholm University in SE. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.722194
+date: 2026-07-10T01:07:48.671925
 url: "/cdr-researcher-census/researchers/fengyang-wang-a5050849/"
 layout: "researcher"
 hiddenInHomeList: true

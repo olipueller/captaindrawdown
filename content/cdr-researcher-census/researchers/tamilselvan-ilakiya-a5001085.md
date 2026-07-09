@@ -1,7 +1,7 @@
 ---
 title: "Tamilselvan Ilakiya"
 description: "Tamilselvan Ilakiya is a Mid-career Soil Carbon researcher at SRM Institute of Science and Technology in IN. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.915655
+date: 2026-07-10T01:07:47.928931
 url: "/cdr-researcher-census/researchers/tamilselvan-ilakiya-a5001085/"
 layout: "researcher"
 hiddenInHomeList: true

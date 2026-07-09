@@ -1,7 +1,7 @@
 ---
 title: "Saad Nazir"
 description: "Saad Nazir is a Senior Unknown researcher at University of Sharjah in AE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.716793
+date: 2026-07-10T01:07:48.667067
 url: "/cdr-researcher-census/researchers/saad-nazir-a5047284/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Taifeng Zhu"
 description: "Taifeng Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.018025
+date: 2026-07-10T01:07:48.934143
 url: "/cdr-researcher-census/researchers/taifeng-zhu-a5100516/"
 layout: "researcher"
 hiddenInHomeList: true

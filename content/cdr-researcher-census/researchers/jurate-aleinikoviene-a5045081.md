@@ -1,7 +1,7 @@
 ---
 title: "Jūratė Aleinikovienė"
 description: "Jūratė Aleinikovienė is a Mid-career Soil Carbon researcher at Vytautas Magnus University in LT. With 58 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.978060
+date: 2026-07-10T01:07:47.987871
 url: "/cdr-researcher-census/researchers/jurate-aleinikoviene-a5045081/"
 layout: "researcher"
 hiddenInHomeList: true

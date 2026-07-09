@@ -1,7 +1,7 @@
 ---
 title: "Sining Liu"
 description: "Sining Liu is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 95 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.310660
+date: 2026-07-10T01:07:47.392899
 url: "/cdr-researcher-census/researchers/sining-liu-a5100638/"
 layout: "researcher"
 hiddenInHomeList: true

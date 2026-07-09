@@ -1,7 +1,7 @@
 ---
 title: "Chalachew Bekele"
 description: "Chalachew Bekele is a Mid-career Unknown researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.146765
+date: 2026-07-10T01:07:49.048959
 url: "/cdr-researcher-census/researchers/chalachew-bekele-a5112923/"
 layout: "researcher"
 hiddenInHomeList: true

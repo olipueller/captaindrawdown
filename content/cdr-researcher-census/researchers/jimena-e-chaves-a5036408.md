@@ -1,7 +1,7 @@
 ---
 title: "Jimena E. Chaves"
 description: "Jimena E. Chaves is a Senior Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.970407
+date: 2026-07-10T01:07:47.980832
 url: "/cdr-researcher-census/researchers/jimena-e-chaves-a5036408/"
 layout: "researcher"
 hiddenInHomeList: true

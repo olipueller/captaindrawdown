@@ -1,7 +1,7 @@
 ---
 title: "Michiel H. in ‘t Zandt"
 description: "Michiel H. in ‘t Zandt is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.121863
+date: 2026-07-10T01:07:47.208630
 url: "/cdr-researcher-census/researchers/michiel-h-in-t-zandt-a5036059/"
 layout: "researcher"
 hiddenInHomeList: true

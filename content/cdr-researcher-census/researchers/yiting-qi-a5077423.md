@@ -1,7 +1,7 @@
 ---
 title: "Yiting Qi"
 description: "Yiting Qi is a Mid-career Soil Carbon researcher at Zhejiang University of Water Resource and Electric Power in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.839791
+date: 2026-07-10T01:07:48.772202
 url: "/cdr-researcher-census/researchers/yiting-qi-a5077423/"
 layout: "researcher"
 hiddenInHomeList: true

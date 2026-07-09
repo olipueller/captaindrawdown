@@ -1,7 +1,7 @@
 ---
 title: "Alexandra B. Nagurney"
 description: "Alexandra B. Nagurney is a Mid-career General CDR researcher at Pacific Northwest National Laboratory in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.103935
+date: 2026-07-10T01:07:49.012040
 url: "/cdr-researcher-census/researchers/alexandra-b-nagurney-a5023911/"
 layout: "researcher"
 hiddenInHomeList: true

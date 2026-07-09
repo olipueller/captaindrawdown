@@ -1,7 +1,7 @@
 ---
 title: "Yuanpeng Fu"
 description: "Yuanpeng Fu is a Mid-career Unknown researcher at China University of Mining and Technology in CN. With 21 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.326683
+date: 2026-07-10T01:07:47.408639
 url: "/cdr-researcher-census/researchers/yuanpeng-fu-a5078322/"
 layout: "researcher"
 hiddenInHomeList: true

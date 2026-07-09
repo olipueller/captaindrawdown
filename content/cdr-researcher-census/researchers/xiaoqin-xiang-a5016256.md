@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqin Xiang"
 description: "Xiaoqin Xiang is a Senior Unknown researcher at South China Municipal Engineering Design and Research Institute (China) in CN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.160568
+date: 2026-07-10T01:07:47.249671
 url: "/cdr-researcher-census/researchers/xiaoqin-xiang-a5016256/"
 layout: "researcher"
 hiddenInHomeList: true

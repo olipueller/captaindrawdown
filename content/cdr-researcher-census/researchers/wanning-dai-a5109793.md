@@ -1,7 +1,7 @@
 ---
 title: "Wanning Dai"
 description: "Wanning Dai is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.032158
+date: 2026-07-10T01:07:48.947334
 url: "/cdr-researcher-census/researchers/wanning-dai-a5109793/"
 layout: "researcher"
 hiddenInHomeList: true

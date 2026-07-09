@@ -1,7 +1,7 @@
 ---
 title: "Tiancheng Gong"
 description: "Tiancheng Gong is a Mid-career Biochar researcher at Chinese Research Academy of Environmental Sciences in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.309407
+date: 2026-07-10T01:07:48.312183
 url: "/cdr-researcher-census/researchers/tiancheng-gong-a5034603/"
 layout: "researcher"
 hiddenInHomeList: true

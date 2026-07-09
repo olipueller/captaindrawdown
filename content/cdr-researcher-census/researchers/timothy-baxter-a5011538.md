@@ -1,7 +1,7 @@
 ---
 title: "Timothy Baxter"
 description: "Timothy Baxter is a Senior Ocean CDR researcher at University of California, Santa Barbara in US. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.958012
+date: 2026-07-10T01:07:48.879590
 url: "/cdr-researcher-census/researchers/timothy-baxter-a5011538/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jouni Susiluoto"
 description: "Jouni Susiluoto is a Senior General CDR researcher at Jet Propulsion Laboratory in US. With 66 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.623741
+date: 2026-07-10T01:07:47.684028
 url: "/cdr-researcher-census/researchers/jouni-susiluoto-a5060968/"
 layout: "researcher"
 hiddenInHomeList: true

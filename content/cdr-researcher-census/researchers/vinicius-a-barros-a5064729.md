@@ -1,7 +1,7 @@
 ---
 title: "Vinicius A. Barros"
 description: "Vinicius A. Barros is a Mid-career Unknown researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.163679
+date: 2026-07-10T01:07:49.054500
 url: "/cdr-researcher-census/researchers/vinicius-a-barros-a5064729/"
 layout: "researcher"
 hiddenInHomeList: true

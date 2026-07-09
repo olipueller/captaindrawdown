@@ -1,7 +1,7 @@
 ---
 title: "Saman Herath"
 description: "Saman Herath is a Mid-career Soil Carbon researcher at Uva Wellassa University in LK. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.139727
+date: 2026-07-10T01:07:49.042825
 url: "/cdr-researcher-census/researchers/saman-herath-a5083480/"
 layout: "researcher"
 hiddenInHomeList: true

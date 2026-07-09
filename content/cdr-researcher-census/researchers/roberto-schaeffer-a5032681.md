@@ -1,7 +1,7 @@
 ---
 title: "Roberto Schaeffer"
 description: "Roberto Schaeffer is an Eminent General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 317 publications and an h-index of 63, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.890474
+date: 2026-07-10T01:07:46.864707
 url: "/cdr-researcher-census/researchers/roberto-schaeffer-a5032681/"
 layout: "researcher"
 hiddenInHomeList: true

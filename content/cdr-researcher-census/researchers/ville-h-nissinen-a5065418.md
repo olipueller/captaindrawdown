@@ -1,7 +1,7 @@
 ---
 title: "Ville H. Nissinen"
 description: "Ville H. Nissinen is a Mid-career Unknown researcher at University of Eastern Finland in FI. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.604016
+date: 2026-07-10T01:07:48.567043
 url: "/cdr-researcher-census/researchers/ville-h-nissinen-a5065418/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gesa Meyer"
 description: "Gesa Meyer is a Mid-career Soil Carbon researcher at Environment and Climate Change Canada in CA. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.085098
+date: 2026-07-10T01:07:47.166747
 url: "/cdr-researcher-census/researchers/gesa-meyer-a5044399/"
 layout: "researcher"
 hiddenInHomeList: true

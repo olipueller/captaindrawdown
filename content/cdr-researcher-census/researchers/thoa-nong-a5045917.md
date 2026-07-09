@@ -1,7 +1,7 @@
 ---
 title: "Thoa Nong"
 description: "Thoa Nong is a Senior Soil Carbon researcher at Affiliated Hospital of Youjiang Medical University for Nationalities in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.836529
+date: 2026-07-10T01:07:47.872620
 url: "/cdr-researcher-census/researchers/thoa-nong-a5045917/"
 layout: "researcher"
 hiddenInHomeList: true

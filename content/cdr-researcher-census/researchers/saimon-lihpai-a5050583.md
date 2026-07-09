@@ -1,7 +1,7 @@
 ---
 title: "Saimon Lihpai"
 description: "Saimon Lihpai is a Senior Soil Carbon researcher at Micronesia Conservation Trust in FM. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.969392
+date: 2026-07-10T01:07:48.889675
 url: "/cdr-researcher-census/researchers/saimon-lihpai-a5050583/"
 layout: "researcher"
 hiddenInHomeList: true

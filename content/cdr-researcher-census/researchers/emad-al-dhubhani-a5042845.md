@@ -1,7 +1,7 @@
 ---
 title: "Emad Al-Dhubhani"
 description: "Emad Al-Dhubhani is an Early-career General CDR researcher at Membrane Technology & Research (United States) in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.038427
+date: 2026-07-10T01:07:48.952812
 url: "/cdr-researcher-census/researchers/emad-al-dhubhani-a5042845/"
 layout: "researcher"
 hiddenInHomeList: true

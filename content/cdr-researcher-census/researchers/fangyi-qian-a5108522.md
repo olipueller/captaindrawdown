@@ -1,7 +1,7 @@
 ---
 title: "Fangyi Qian"
 description: "Fangyi Qian is an Early-career Unknown researcher. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.257650
+date: 2026-07-10T01:07:49.164264
 url: "/cdr-researcher-census/researchers/fangyi-qian-a5108522/"
 layout: "researcher"
 hiddenInHomeList: true

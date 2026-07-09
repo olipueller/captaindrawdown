@@ -1,7 +1,7 @@
 ---
 title: "Xuzhuo Wang"
 description: "Xuzhuo Wang is an Early-career Unknown researcher at Shanghai University of Electric Power in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.934325
+date: 2026-07-10T01:07:48.857181
 url: "/cdr-researcher-census/researchers/xuzhuo-wang-a5053728/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kirill G. Ryndin"
 description: "Kirill G. Ryndin is a Mid-career Unknown researcher at Joint Institute for High Temperatures in RU. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.247641
+date: 2026-07-10T01:07:49.155241
 url: "/cdr-researcher-census/researchers/kirill-g-ryndin-a5022381/"
 layout: "researcher"
 hiddenInHomeList: true

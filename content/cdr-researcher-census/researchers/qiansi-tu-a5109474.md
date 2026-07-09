@@ -1,7 +1,7 @@
 ---
 title: "Qiansi Tu"
 description: "Qiansi Tu is a Mid-career Unknown researcher. With 67 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.372550
+date: 2026-07-10T01:07:47.454801
 url: "/cdr-researcher-census/researchers/qiansi-tu-a5109474/"
 layout: "researcher"
 hiddenInHomeList: true

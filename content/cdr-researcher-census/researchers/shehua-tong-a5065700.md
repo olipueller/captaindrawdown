@@ -1,7 +1,7 @@
 ---
 title: "Shehua Tong"
 description: "Shehua Tong is a Mid-career Unknown researcher at Hunan University in CN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.218758
+date: 2026-07-10T01:07:47.305600
 url: "/cdr-researcher-census/researchers/shehua-tong-a5065700/"
 layout: "researcher"
 hiddenInHomeList: true

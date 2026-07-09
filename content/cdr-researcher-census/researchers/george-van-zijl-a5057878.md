@@ -1,7 +1,7 @@
 ---
 title: "George van Zijl"
 description: "George van Zijl is a Mid-career Soil Carbon researcher at North-West University in ZA. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.585792
+date: 2026-07-10T01:07:47.649197
 url: "/cdr-researcher-census/researchers/george-van-zijl-a5057878/"
 layout: "researcher"
 hiddenInHomeList: true

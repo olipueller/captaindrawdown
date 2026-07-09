@@ -1,7 +1,7 @@
 ---
 title: "Siosiua Halavatau"
 description: "Siosiua Halavatau is a Senior Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.452952
+date: 2026-07-10T01:07:47.528297
 url: "/cdr-researcher-census/researchers/siosiua-halavatau-a5018152/"
 layout: "researcher"
 hiddenInHomeList: true

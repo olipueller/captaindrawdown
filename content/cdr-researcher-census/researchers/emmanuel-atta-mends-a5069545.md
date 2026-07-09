@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Atta Mends"
 description: "Emmanuel Atta Mends is a Mid-career Unknown researcher at University of Nevada, Reno in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.278173
+date: 2026-07-10T01:07:48.283865
 url: "/cdr-researcher-census/researchers/emmanuel-atta-mends-a5069545/"
 layout: "researcher"
 hiddenInHomeList: true

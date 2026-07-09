@@ -1,7 +1,7 @@
 ---
 title: "Hu Cheng"
 description: "Hu Cheng is a Senior Biochar researcher at Nanjing Forestry University in CN. With 77 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.183994
+date: 2026-07-10T01:07:47.272959
 url: "/cdr-researcher-census/researchers/hu-cheng-a5053787/"
 layout: "researcher"
 hiddenInHomeList: true

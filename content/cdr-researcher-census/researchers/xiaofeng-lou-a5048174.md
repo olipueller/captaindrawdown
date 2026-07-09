@@ -1,7 +1,7 @@
 ---
 title: "Xiaofeng Lou"
 description: "Xiaofeng Lou is a Mid-career Unknown researcher at Hunan University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.671415
+date: 2026-07-10T01:07:47.728537
 url: "/cdr-researcher-census/researchers/xiaofeng-lou-a5048174/"
 layout: "researcher"
 hiddenInHomeList: true

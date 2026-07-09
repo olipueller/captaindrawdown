@@ -1,7 +1,7 @@
 ---
 title: "Ralf Ruffel M. Abarca"
 description: "Ralf Ruffel M. Abarca is a Mid-career Enhanced Weathering researcher at MSU-Iligan Institute of Technology in PH. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.198735
+date: 2026-07-10T01:07:47.287913
 url: "/cdr-researcher-census/researchers/ralf-ruffel-m-abarca-a5042169/"
 layout: "researcher"
 hiddenInHomeList: true

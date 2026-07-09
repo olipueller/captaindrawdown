@@ -1,7 +1,7 @@
 ---
 title: "Laura Picard"
 description: "Laura Picard is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.539461
+date: 2026-07-10T01:07:48.521077
 url: "/cdr-researcher-census/researchers/laura-picard-a5032389/"
 layout: "researcher"
 hiddenInHomeList: true

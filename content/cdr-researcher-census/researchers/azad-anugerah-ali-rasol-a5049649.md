@@ -1,7 +1,7 @@
 ---
 title: "Azad Anugerah Ali Rasol"
 description: "Azad Anugerah Ali Rasol is a Mid-career Unknown researcher at University of Technology Malaysia in MY. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.711222
+date: 2026-07-10T01:07:48.662685
 url: "/cdr-researcher-census/researchers/azad-anugerah-ali-rasol-a5049649/"
 layout: "researcher"
 hiddenInHomeList: true

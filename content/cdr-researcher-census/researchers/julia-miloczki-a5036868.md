@@ -1,7 +1,7 @@
 ---
 title: "Julia Miloczki"
 description: "Julia Miloczki is a Mid-career Soil Carbon researcher at Climate Analytics in DE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.216726
+date: 2026-07-10T01:07:48.228583
 url: "/cdr-researcher-census/researchers/julia-miloczki-a5036868/"
 layout: "researcher"
 hiddenInHomeList: true

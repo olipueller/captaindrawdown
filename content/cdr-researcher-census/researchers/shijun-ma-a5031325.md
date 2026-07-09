@@ -1,7 +1,7 @@
 ---
 title: "Shijun Ma"
 description: "Shijun Ma is a Mid-career Unknown researcher at University College London in GB. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.906638
+date: 2026-07-10T01:07:48.832035
 url: "/cdr-researcher-census/researchers/shijun-ma-a5031325/"
 layout: "researcher"
 hiddenInHomeList: true

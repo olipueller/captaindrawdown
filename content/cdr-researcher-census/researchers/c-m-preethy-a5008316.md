@@ -1,7 +1,7 @@
 ---
 title: "C. M. Preethy"
 description: "C. M. Preethy is a Mid-career Soil Carbon researcher at Cochin University of Science and Technology in IN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.502711
+date: 2026-07-10T01:07:48.488326
 url: "/cdr-researcher-census/researchers/c-m-preethy-a5008316/"
 layout: "researcher"
 hiddenInHomeList: true

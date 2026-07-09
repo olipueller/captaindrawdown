@@ -1,7 +1,7 @@
 ---
 title: "Gajiram Murmu"
 description: "Gajiram Murmu is a Mid-career Unknown researcher at Institute of Minerals and Materials Technology in IN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.038282
+date: 2026-07-10T01:07:48.043927
 url: "/cdr-researcher-census/researchers/gajiram-murmu-a5006011/"
 layout: "researcher"
 hiddenInHomeList: true

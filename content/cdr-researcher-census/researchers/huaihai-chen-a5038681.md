@@ -1,7 +1,7 @@
 ---
 title: "Huaihai Chen"
 description: "Huaihai Chen is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 130 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.940558
+date: 2026-07-10T01:07:46.966159
 url: "/cdr-researcher-census/researchers/huaihai-chen-a5038681/"
 layout: "researcher"
 hiddenInHomeList: true

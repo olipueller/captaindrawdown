@@ -1,7 +1,7 @@
 ---
 title: "Winston Wang"
 description: "Winston Wang is a Senior General CDR researcher at The University of Texas at Austin in US. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.545874
+date: 2026-07-10T01:07:47.610577
 url: "/cdr-researcher-census/researchers/winston-wang-a5077921/"
 layout: "researcher"
 hiddenInHomeList: true

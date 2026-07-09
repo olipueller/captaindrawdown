@@ -1,7 +1,7 @@
 ---
 title: "Isimemen Osemwegie"
 description: "Isimemen Osemwegie is a Mid-career Soil Carbon researcher at University of Bonn in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.568881
+date: 2026-07-10T01:07:48.547452
 url: "/cdr-researcher-census/researchers/isimemen-osemwegie-a5043287/"
 layout: "researcher"
 hiddenInHomeList: true

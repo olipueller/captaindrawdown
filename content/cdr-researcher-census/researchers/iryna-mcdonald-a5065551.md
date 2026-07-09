@@ -1,7 +1,7 @@
 ---
 title: "Iryna McDonald"
 description: "Iryna McDonald is a Senior Unknown researcher at Fort Hays State University in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.794341
+date: 2026-07-10T01:07:48.734268
 url: "/cdr-researcher-census/researchers/iryna-mcdonald-a5065551/"
 layout: "researcher"
 hiddenInHomeList: true

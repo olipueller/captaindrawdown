@@ -1,7 +1,7 @@
 ---
 title: "Keyu Luo"
 description: "Keyu Luo is a Mid-career Unknown researcher at Chengdu University of Technology in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.835510
+date: 2026-07-10T01:07:48.768630
 url: "/cdr-researcher-census/researchers/keyu-luo-a5035153/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alejandro Grimm"
 description: "Alejandro Grimm is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 85 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.009964
+date: 2026-07-10T01:07:47.073056
 url: "/cdr-researcher-census/researchers/alejandro-grimm-a5061702/"
 layout: "researcher"
 hiddenInHomeList: true

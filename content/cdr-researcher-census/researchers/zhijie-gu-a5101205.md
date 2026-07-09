@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Gu"
 description: "Zhijie Gu is a Mid-career Biochar researcher at Tokyo University of Agriculture and Technology in JP. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.428412
+date: 2026-07-10T01:07:48.418628
 url: "/cdr-researcher-census/researchers/zhijie-gu-a5101205/"
 layout: "researcher"
 hiddenInHomeList: true

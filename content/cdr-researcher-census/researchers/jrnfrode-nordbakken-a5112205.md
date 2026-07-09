@@ -1,7 +1,7 @@
 ---
 title: "Jørn‐Frode Nordbakken"
 description: "Jørn‐Frode Nordbakken is a Senior Soil Carbon researcher. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.961580
+date: 2026-07-10T01:07:47.972035
 url: "/cdr-researcher-census/researchers/jrnfrode-nordbakken-a5112205/"
 layout: "researcher"
 hiddenInHomeList: true

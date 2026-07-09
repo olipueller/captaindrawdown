@@ -1,7 +1,7 @@
 ---
 title: "Yarong Shi"
 description: "Yarong Shi is a Mid-career Unknown researcher at Lanzhou University of Finance and Economics in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.445567
+date: 2026-07-10T01:07:48.435161
 url: "/cdr-researcher-census/researchers/yarong-shi-a5101737/"
 layout: "researcher"
 hiddenInHomeList: true

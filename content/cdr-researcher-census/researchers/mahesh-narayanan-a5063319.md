@@ -1,7 +1,7 @@
 ---
 title: "Mahesh Narayanan"
 description: "Mahesh Narayanan is a Senior Unknown researcher at SASTRA University in IN. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.669601
+date: 2026-07-10T01:07:47.726820
 url: "/cdr-researcher-census/researchers/mahesh-narayanan-a5063319/"
 layout: "researcher"
 hiddenInHomeList: true

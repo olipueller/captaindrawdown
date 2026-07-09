@@ -1,7 +1,7 @@
 ---
 title: "Alok Kumar Singh"
 description: "Alok Kumar Singh is a Senior Soil Carbon researcher at Banaras Hindu University in IN. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.650327
+date: 2026-07-10T01:07:48.608832
 url: "/cdr-researcher-census/researchers/alok-kumar-singh-a5100661/"
 layout: "researcher"
 hiddenInHomeList: true

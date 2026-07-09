@@ -1,7 +1,7 @@
 ---
 title: "Rihuan Cong"
 description: "Rihuan Cong is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 146 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.950717
+date: 2026-07-10T01:07:46.984084
 url: "/cdr-researcher-census/researchers/rihuan-cong-a5068700/"
 layout: "researcher"
 hiddenInHomeList: true

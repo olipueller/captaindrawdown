@@ -1,7 +1,7 @@
 ---
 title: "Jianbin Guo"
 description: "Jianbin Guo is a Senior Soil Carbon researcher at Shandong University in CN. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.819249
+date: 2026-07-10T01:07:47.865498
 url: "/cdr-researcher-census/researchers/jianbin-guo-a5101135/"
 layout: "researcher"
 hiddenInHomeList: true

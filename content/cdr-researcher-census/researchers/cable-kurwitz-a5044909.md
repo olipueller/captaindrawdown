@@ -1,7 +1,7 @@
 ---
 title: "Cable Kurwitz"
 description: "Cable Kurwitz is a Senior General CDR researcher. With 38 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.018645
+date: 2026-07-10T01:07:48.934700
 url: "/cdr-researcher-census/researchers/cable-kurwitz-a5044909/"
 layout: "researcher"
 hiddenInHomeList: true

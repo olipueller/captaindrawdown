@@ -1,7 +1,7 @@
 ---
 title: "Mingjie Li"
 description: "Mingjie Li is a Mid-career Soil Carbon researcher at Hong Kong Polytechnic University in HK. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.017759
+date: 2026-07-10T01:07:48.025380
 url: "/cdr-researcher-census/researchers/mingjie-li-a5070038/"
 layout: "researcher"
 hiddenInHomeList: true

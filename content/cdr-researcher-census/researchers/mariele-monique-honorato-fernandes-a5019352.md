@@ -1,7 +1,7 @@
 ---
 title: "Mariele Monique Honorato Fernandes"
 description: "Mariele Monique Honorato Fernandes is a Mid-career Unknown researcher at Universidade Estadual Paulista (Unesp) in BR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.809398
+date: 2026-07-10T01:07:48.747169
 url: "/cdr-researcher-census/researchers/mariele-monique-honorato-fernandes-a5019352/"
 layout: "researcher"
 hiddenInHomeList: true

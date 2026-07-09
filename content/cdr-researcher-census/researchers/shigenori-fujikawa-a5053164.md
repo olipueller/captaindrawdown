@@ -1,7 +1,7 @@
 ---
 title: "Shigenori Fujikawa"
 description: "Shigenori Fujikawa is a Senior General CDR researcher at Kyushu University in JP. With 221 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.980269
+date: 2026-07-10T01:07:47.029508
 url: "/cdr-researcher-census/researchers/shigenori-fujikawa-a5053164/"
 layout: "researcher"
 hiddenInHomeList: true

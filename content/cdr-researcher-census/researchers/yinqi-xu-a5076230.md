@@ -1,7 +1,7 @@
 ---
 title: "Yinqi Xu"
 description: "Yinqi Xu is a Mid-career Biochar researcher at Anhui Normal University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.316683
+date: 2026-07-10T01:07:48.318464
 url: "/cdr-researcher-census/researchers/yinqi-xu-a5076230/"
 layout: "researcher"
 hiddenInHomeList: true

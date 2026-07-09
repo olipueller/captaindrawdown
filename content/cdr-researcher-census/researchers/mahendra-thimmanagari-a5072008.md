@@ -1,7 +1,7 @@
 ---
 title: "Mahendra Thimmanagari"
 description: "Mahendra Thimmanagari is a Mid-career Soil Carbon researcher at Ministry of Agriculture, Food and Rural Affairs in CA. With 30 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.385207
+date: 2026-07-10T01:07:47.466419
 url: "/cdr-researcher-census/researchers/mahendra-thimmanagari-a5072008/"
 layout: "researcher"
 hiddenInHomeList: true

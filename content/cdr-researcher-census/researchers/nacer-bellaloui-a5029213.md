@@ -1,7 +1,7 @@
 ---
 title: "Nacer Bellaloui"
 description: "Nacer Bellaloui is a Senior Unknown researcher at Agricultural Research Service in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.352501
+date: 2026-07-10T01:07:48.350733
 url: "/cdr-researcher-census/researchers/nacer-bellaloui-a5029213/"
 layout: "researcher"
 hiddenInHomeList: true

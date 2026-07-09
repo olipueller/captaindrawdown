@@ -1,7 +1,7 @@
 ---
 title: "Outi‐Maaria Sietiö"
 description: "Outi‐Maaria Sietiö is a Mid-career Soil Carbon researcher at Häme University of Applied Sciences in FI. With 58 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.226145
+date: 2026-07-10T01:07:47.313063
 url: "/cdr-researcher-census/researchers/outimaaria-sietio-a5046425/"
 layout: "researcher"
 hiddenInHomeList: true

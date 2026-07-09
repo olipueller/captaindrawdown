@@ -1,7 +1,7 @@
 ---
 title: "Henrik Almqvist"
 description: "Henrik Almqvist is a Mid-career Unknown researcher at Lund University in SE. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.844035
+date: 2026-07-10T01:07:47.879495
 url: "/cdr-researcher-census/researchers/henrik-almqvist-a5059115/"
 layout: "researcher"
 hiddenInHomeList: true

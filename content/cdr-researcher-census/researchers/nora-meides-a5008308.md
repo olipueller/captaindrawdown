@@ -1,7 +1,7 @@
 ---
 title: "Nora Meides"
 description: "Nora Meides is a Mid-career Unknown researcher at University of Bayreuth in DE. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.634479
+date: 2026-07-10T01:07:47.694117
 url: "/cdr-researcher-census/researchers/nora-meides-a5008308/"
 layout: "researcher"
 hiddenInHomeList: true

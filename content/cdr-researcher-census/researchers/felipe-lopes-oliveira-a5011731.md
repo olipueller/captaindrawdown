@@ -1,7 +1,7 @@
 ---
 title: "Felipe Lopes Oliveira"
 description: "Felipe Lopes Oliveira is a Mid-career DAC researcher at Institut Charles Gerhardt Montpellier in FR. With 44 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.701670
+date: 2026-07-10T01:07:47.756532
 url: "/cdr-researcher-census/researchers/felipe-lopes-oliveira-a5011731/"
 layout: "researcher"
 hiddenInHomeList: true

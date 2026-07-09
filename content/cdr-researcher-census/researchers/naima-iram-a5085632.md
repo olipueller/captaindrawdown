@@ -1,7 +1,7 @@
 ---
 title: "Naima Iram"
 description: "Naima Iram is a Mid-career Soil Carbon researcher at Griffith University in AU. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.009735
+date: 2026-07-10T01:07:48.017978
 url: "/cdr-researcher-census/researchers/naima-iram-a5085632/"
 layout: "researcher"
 hiddenInHomeList: true

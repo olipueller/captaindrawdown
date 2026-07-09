@@ -1,7 +1,7 @@
 ---
 title: "Wen‐Feng Cong"
 description: "Wen‐Feng Cong is a Senior Soil Carbon researcher at China Agricultural University in CN. With 90 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.957092
+date: 2026-07-10T01:07:46.993570
 url: "/cdr-researcher-census/researchers/wenfeng-cong-a5084895/"
 layout: "researcher"
 hiddenInHomeList: true

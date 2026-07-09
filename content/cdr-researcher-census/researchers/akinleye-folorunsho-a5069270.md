@@ -1,7 +1,7 @@
 ---
 title: "Akinleye Folorunsho"
 description: "Akinleye Folorunsho is a Mid-career Unknown researcher at Baylor University in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.606768
+date: 2026-07-10T01:07:48.569351
 url: "/cdr-researcher-census/researchers/akinleye-folorunsho-a5069270/"
 layout: "researcher"
 hiddenInHomeList: true

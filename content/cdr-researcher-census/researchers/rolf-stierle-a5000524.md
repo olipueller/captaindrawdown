@@ -1,7 +1,7 @@
 ---
 title: "Rolf Stierle"
 description: "Rolf Stierle is a Mid-career Unknown researcher at University of Stuttgart in DE. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.112996
+date: 2026-07-10T01:07:48.138330
 url: "/cdr-researcher-census/researchers/rolf-stierle-a5000524/"
 layout: "researcher"
 hiddenInHomeList: true

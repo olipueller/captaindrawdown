@@ -1,7 +1,7 @@
 ---
 title: "Decheng Xiong"
 description: "Decheng Xiong is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 76 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.233660
+date: 2026-07-10T01:07:47.320578
 url: "/cdr-researcher-census/researchers/decheng-xiong-a5102193/"
 layout: "researcher"
 hiddenInHomeList: true

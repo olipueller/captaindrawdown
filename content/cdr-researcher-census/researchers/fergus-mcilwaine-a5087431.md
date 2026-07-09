@@ -1,7 +1,7 @@
 ---
 title: "Fergus Mcilwaine"
 description: "Fergus Mcilwaine is a Mid-career General CDR researcher at Heriot-Watt University in GB. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.026596
+date: 2026-07-10T01:07:48.034282
 url: "/cdr-researcher-census/researchers/fergus-mcilwaine-a5087431/"
 layout: "researcher"
 hiddenInHomeList: true

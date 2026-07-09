@@ -1,7 +1,7 @@
 ---
 title: "Manning Zha"
 description: "Manning Zha is a Mid-career Unknown researcher at Xinjiang University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.592223
+date: 2026-07-10T01:07:48.556316
 url: "/cdr-researcher-census/researchers/manning-zha-a5101272/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sajjad Vakili"
 description: "Sajjad Vakili is an Early-career Unknown researcher at Amirkabir University of Technology in IR. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.190035
+date: 2026-07-10T01:07:48.204617
 url: "/cdr-researcher-census/researchers/sajjad-vakili-a5104289/"
 layout: "researcher"
 hiddenInHomeList: true

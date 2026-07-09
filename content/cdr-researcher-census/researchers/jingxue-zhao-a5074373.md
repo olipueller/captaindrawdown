@@ -1,7 +1,7 @@
 ---
 title: "Jingxue Zhao"
 description: "Jingxue Zhao is a Senior Soil Carbon researcher at Anhui University in CN. With 100 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.066644
+date: 2026-07-10T01:07:47.144207
 url: "/cdr-researcher-census/researchers/jingxue-zhao-a5074373/"
 layout: "researcher"
 hiddenInHomeList: true

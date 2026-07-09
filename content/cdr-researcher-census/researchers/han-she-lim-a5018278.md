@@ -1,7 +1,7 @@
 ---
 title: "Han She Lim"
 description: "Han She Lim is a Senior Ocean CDR researcher at James Cook University in AU. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.468312
+date: 2026-07-10T01:07:47.541213
 url: "/cdr-researcher-census/researchers/han-she-lim-a5018278/"
 layout: "researcher"
 hiddenInHomeList: true

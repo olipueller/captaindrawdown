@@ -1,7 +1,7 @@
 ---
 title: "Pierre Stiernet"
 description: "Pierre Stiernet is a Mid-career DAC researcher at University of Liège in BE. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.421493
+date: 2026-07-10T01:07:48.412046
 url: "/cdr-researcher-census/researchers/pierre-stiernet-a5031647/"
 layout: "researcher"
 hiddenInHomeList: true

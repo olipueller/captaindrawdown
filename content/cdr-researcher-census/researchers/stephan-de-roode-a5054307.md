@@ -1,7 +1,7 @@
 ---
 title: "Stephan de Roode"
 description: "Stephan de Roode is a Mid-career Unknown researcher at Environmental Analysis and Remote Sensing (Netherlands) in NL. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.362292
+date: 2026-07-10T01:07:47.444234
 url: "/cdr-researcher-census/researchers/stephan-de-roode-a5054307/"
 layout: "researcher"
 hiddenInHomeList: true

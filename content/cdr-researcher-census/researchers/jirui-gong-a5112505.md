@@ -1,7 +1,7 @@
 ---
 title: "Jirui Gong"
 description: "Jirui Gong is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 96 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.992575
+date: 2026-07-10T01:07:47.049482
 url: "/cdr-researcher-census/researchers/jirui-gong-a5112505/"
 layout: "researcher"
 hiddenInHomeList: true

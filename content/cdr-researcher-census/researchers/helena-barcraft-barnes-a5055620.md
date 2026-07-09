@@ -1,7 +1,7 @@
 ---
 title: "Helena Barcraft-Barnes"
 description: "Helena Barcraft-Barnes is a Mid-career Unknown researcher. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.105114
+date: 2026-07-10T01:07:47.190000
 url: "/cdr-researcher-census/researchers/helena-barcraft-barnes-a5055620/"
 layout: "researcher"
 hiddenInHomeList: true

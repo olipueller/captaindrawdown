@@ -1,7 +1,7 @@
 ---
 title: "Anna Neubeck"
 description: "Anna Neubeck is a Senior Enhanced Weathering researcher at Uppsala University in SE. With 103 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.173728
+date: 2026-07-10T01:07:47.263027
 url: "/cdr-researcher-census/researchers/anna-neubeck-a5004740/"
 layout: "researcher"
 hiddenInHomeList: true

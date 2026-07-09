@@ -1,7 +1,7 @@
 ---
 title: "Yanru Tao"
 description: "Yanru Tao is a Mid-career Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.119547
+date: 2026-07-10T01:07:48.143519
 url: "/cdr-researcher-census/researchers/yanru-tao-a5003116/"
 layout: "researcher"
 hiddenInHomeList: true

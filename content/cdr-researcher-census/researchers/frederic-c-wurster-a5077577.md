@@ -1,7 +1,7 @@
 ---
 title: "Frederic C. Wurster"
 description: "Frederic C. Wurster is a Senior Soil Carbon researcher at Suffolk University in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.682004
+date: 2026-07-10T01:07:47.738394
 url: "/cdr-researcher-census/researchers/frederic-c-wurster-a5077577/"
 layout: "researcher"
 hiddenInHomeList: true

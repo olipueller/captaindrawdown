@@ -1,7 +1,7 @@
 ---
 title: "Andries van Heerden"
 description: "Andries van Heerden is a Mid-career Unknown researcher at Massey University in NZ. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.046883
+date: 2026-07-10T01:07:48.960329
 url: "/cdr-researcher-census/researchers/andries-van-heerden-a5072118/"
 layout: "researcher"
 hiddenInHomeList: true

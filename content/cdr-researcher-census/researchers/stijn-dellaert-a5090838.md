@@ -1,7 +1,7 @@
 ---
 title: "Stijn Dellaert"
 description: "Stijn Dellaert is a Mid-career General CDR researcher at TNO (Netherlands Organization for Applied Scientific Research) in NL. With 67 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.339911
+date: 2026-07-10T01:07:47.422849
 url: "/cdr-researcher-census/researchers/stijn-dellaert-a5090838/"
 layout: "researcher"
 hiddenInHomeList: true

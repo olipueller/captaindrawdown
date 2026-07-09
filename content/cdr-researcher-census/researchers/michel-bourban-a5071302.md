@@ -1,7 +1,7 @@
 ---
 title: "Michel Bourban"
 description: "Michel Bourban is a Mid-career General CDR researcher at University of Twente in NL. With 54 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.926726
+date: 2026-07-10T01:07:48.850183
 url: "/cdr-researcher-census/researchers/michel-bourban-a5071302/"
 layout: "researcher"
 hiddenInHomeList: true

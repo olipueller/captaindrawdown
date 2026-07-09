@@ -1,7 +1,7 @@
 ---
 title: "Wenhai Huang"
 description: "Wenhai Huang is a Mid-career Unknown researcher at NARI Group (China) in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.995757
+date: 2026-07-10T01:07:48.005139
 url: "/cdr-researcher-census/researchers/wenhai-huang-a5060237/"
 layout: "researcher"
 hiddenInHomeList: true

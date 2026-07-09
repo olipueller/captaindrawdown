@@ -1,7 +1,7 @@
 ---
 title: "Anil Somenahally"
 description: "Anil Somenahally is a Senior Soil Carbon researcher at Texas A&M University System in US. With 57 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.065044
+date: 2026-07-10T01:07:47.142456
 url: "/cdr-researcher-census/researchers/anil-somenahally-a5061227/"
 layout: "researcher"
 hiddenInHomeList: true

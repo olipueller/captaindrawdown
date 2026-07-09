@@ -1,7 +1,7 @@
 ---
 title: "Joaquín Arias"
 description: "Joaquín Arias is a Senior Unknown researcher at InterAmerican Institute for Cooperation on Agriculture in PA. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.410224
+date: 2026-07-10T01:07:47.489735
 url: "/cdr-researcher-census/researchers/joaquin-arias-a5019035/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zongda Hu"
 description: "Zongda Hu is a Senior Unknown researcher at Ministry of Natural Resources in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.833742
+date: 2026-07-10T01:07:47.870007
 url: "/cdr-researcher-census/researchers/zongda-hu-a5100933/"
 layout: "researcher"
 hiddenInHomeList: true

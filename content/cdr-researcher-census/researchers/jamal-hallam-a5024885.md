@@ -1,7 +1,7 @@
 ---
 title: "Jamal Hallam"
 description: "Jamal Hallam is a Senior Soil Carbon researcher at Régie Autonome Multi Services D'Agadir in MA. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.958766
+date: 2026-07-10T01:07:47.969641
 url: "/cdr-researcher-census/researchers/jamal-hallam-a5024885/"
 layout: "researcher"
 hiddenInHomeList: true

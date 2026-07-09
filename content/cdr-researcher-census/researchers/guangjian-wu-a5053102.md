@@ -1,7 +1,7 @@
 ---
 title: "Guangjian Wu"
 description: "Guangjian Wu is a Senior Enhanced Weathering researcher at Shanghai Jiao Tong University in CN. With 71 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.976845
+date: 2026-07-10T01:07:47.024445
 url: "/cdr-researcher-census/researchers/guangjian-wu-a5053102/"
 layout: "researcher"
 hiddenInHomeList: true

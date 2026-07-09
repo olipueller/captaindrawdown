@@ -1,7 +1,7 @@
 ---
 title: "Yi‐Xiu Chen"
 description: "Yi‐Xiu Chen is a Senior General CDR researcher at Division of Materials Science and Engineering in AU. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.935125
+date: 2026-07-10T01:07:48.857899
 url: "/cdr-researcher-census/researchers/yixiu-chen-a5083169/"
 layout: "researcher"
 hiddenInHomeList: true

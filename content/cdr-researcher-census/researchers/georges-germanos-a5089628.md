@@ -1,7 +1,7 @@
 ---
 title: "Georges Germanos"
 description: "Georges Germanos is a Mid-career Soil Carbon researcher at Saint Joseph University in LB. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.488380
+date: 2026-07-10T01:07:48.474437
 url: "/cdr-researcher-census/researchers/georges-germanos-a5089628/"
 layout: "researcher"
 hiddenInHomeList: true

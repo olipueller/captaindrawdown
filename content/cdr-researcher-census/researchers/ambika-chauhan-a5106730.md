@@ -1,7 +1,7 @@
 ---
 title: "Ambika Chauhan"
 description: "Ambika Chauhan is a Senior Unknown researcher at Eternal University in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.651870
+date: 2026-07-10T01:07:48.610307
 url: "/cdr-researcher-census/researchers/ambika-chauhan-a5106730/"
 layout: "researcher"
 hiddenInHomeList: true

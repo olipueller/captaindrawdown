@@ -1,7 +1,7 @@
 ---
 title: "Zhijuan Qi"
 description: "Zhijuan Qi is a Mid-career Soil Carbon researcher at Community Health Center in US. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.593440
+date: 2026-07-10T01:07:47.656652
 url: "/cdr-researcher-census/researchers/zhijuan-qi-a5108703/"
 layout: "researcher"
 hiddenInHomeList: true

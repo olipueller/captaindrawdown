@@ -1,7 +1,7 @@
 ---
 title: "Sefa Durmaz"
 description: "Sefa Durmaz is a Mid-career Unknown researcher at Muğla University in TR. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.510415
+date: 2026-07-10T01:07:47.578944
 url: "/cdr-researcher-census/researchers/sefa-durmaz-a5069686/"
 layout: "researcher"
 hiddenInHomeList: true

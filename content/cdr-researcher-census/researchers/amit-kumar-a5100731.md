@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
 description: "Amit Kumar is a Mid-career Unknown researcher at Virginia Commonwealth University in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.185757
+date: 2026-07-10T01:07:49.100328
 url: "/cdr-researcher-census/researchers/amit-kumar-a5100731/"
 layout: "researcher"
 hiddenInHomeList: true

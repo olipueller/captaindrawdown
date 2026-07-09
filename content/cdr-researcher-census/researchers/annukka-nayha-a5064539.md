@@ -1,7 +1,7 @@
 ---
 title: "Annukka Näyhä"
 description: "Annukka Näyhä is a Mid-career Biochar researcher at University of Jyväskylä in FI. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.388754
+date: 2026-07-10T01:07:47.469546
 url: "/cdr-researcher-census/researchers/annukka-nayha-a5064539/"
 layout: "researcher"
 hiddenInHomeList: true

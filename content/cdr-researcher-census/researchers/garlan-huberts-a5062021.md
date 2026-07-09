@@ -1,7 +1,7 @@
 ---
 title: "Garlan Huberts"
 description: "Garlan Huberts is a Mid-career Unknown researcher at Ford Motor Company (United States) in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.698682
+date: 2026-07-10T01:07:48.651944
 url: "/cdr-researcher-census/researchers/garlan-huberts-a5062021/"
 layout: "researcher"
 hiddenInHomeList: true

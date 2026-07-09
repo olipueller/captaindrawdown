@@ -1,7 +1,7 @@
 ---
 title: "Yadeta C. Chemeda"
 description: "Yadeta C. Chemeda is a Mid-career Unknown researcher at Adama Science and Technology University in ET. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.587446
+date: 2026-07-10T01:07:48.552167
 url: "/cdr-researcher-census/researchers/yadeta-c-chemeda-a5066324/"
 layout: "researcher"
 hiddenInHomeList: true

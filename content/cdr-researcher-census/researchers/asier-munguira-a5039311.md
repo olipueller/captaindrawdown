@@ -1,7 +1,7 @@
 ---
 title: "Asier Munguira"
 description: "Asier Munguira is a Mid-career Unknown researcher at Universidad del País Vasco in ES. With 58 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.531489
+date: 2026-07-10T01:07:47.597915
 url: "/cdr-researcher-census/researchers/asier-munguira-a5039311/"
 layout: "researcher"
 hiddenInHomeList: true

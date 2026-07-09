@@ -1,7 +1,7 @@
 ---
 title: "Xueyu Yan"
 description: "Xueyu Yan is a Mid-career Unknown researcher at Nanjing Normal University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.455870
+date: 2026-07-10T01:07:48.444418
 url: "/cdr-researcher-census/researchers/xueyu-yan-a5100574/"
 layout: "researcher"
 hiddenInHomeList: true

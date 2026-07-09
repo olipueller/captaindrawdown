@@ -1,7 +1,7 @@
 ---
 title: "Dennis Mwanza Nzilu"
 description: "Dennis Mwanza Nzilu is a Mid-career Unknown researcher at Jomo Kenyatta University of Agriculture and Technology in KE. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.902546
+date: 2026-07-10T01:07:47.917116
 url: "/cdr-researcher-census/researchers/dennis-mwanza-nzilu-a5092707/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Adnan"
 description: "Muhammad Adnan is a Mid-career Soil Carbon researcher at Institute of Geochemistry in CN. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.195133
+date: 2026-07-10T01:07:47.283982
 url: "/cdr-researcher-census/researchers/muhammad-adnan-a5062163/"
 layout: "researcher"
 hiddenInHomeList: true

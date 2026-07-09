@@ -1,7 +1,7 @@
 ---
 title: "Kai Wang"
 description: "Kai Wang is a Mid-career Soil Carbon researcher at Wuhan Institute of Technology in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.043738
+date: 2026-07-10T01:07:48.049348
 url: "/cdr-researcher-census/researchers/kai-wang-a5100437/"
 layout: "researcher"
 hiddenInHomeList: true

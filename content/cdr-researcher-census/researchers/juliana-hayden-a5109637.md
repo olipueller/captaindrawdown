@@ -1,7 +1,7 @@
 ---
 title: "Juliana Hayden"
 description: "Juliana Hayden is a Senior Soil Carbon researcher at Universidade Federal de Santa Catarina in BR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.409821
+date: 2026-07-10T01:07:48.401246
 url: "/cdr-researcher-census/researchers/juliana-hayden-a5109637/"
 layout: "researcher"
 hiddenInHomeList: true

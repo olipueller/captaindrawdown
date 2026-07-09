@@ -1,7 +1,7 @@
 ---
 title: "Benjuan Zhang"
 description: "Benjuan Zhang is an Early-career Unknown researcher at Ministry of Natural Resources in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.192531
+date: 2026-07-10T01:07:48.206736
 url: "/cdr-researcher-census/researchers/benjuan-zhang-a5058612/"
 layout: "researcher"
 hiddenInHomeList: true

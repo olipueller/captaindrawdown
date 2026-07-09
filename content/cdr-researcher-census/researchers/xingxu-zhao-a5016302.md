@@ -1,7 +1,7 @@
 ---
 title: "Xingxu Zhao"
 description: "Xingxu Zhao is an Early-career Unknown researcher at Ministry of Natural Resources in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.250037
+date: 2026-07-10T01:07:49.157380
 url: "/cdr-researcher-census/researchers/xingxu-zhao-a5016302/"
 layout: "researcher"
 hiddenInHomeList: true

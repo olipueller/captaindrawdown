@@ -1,7 +1,7 @@
 ---
 title: "Xiaojuan Zhi"
 description: "Xiaojuan Zhi is a Mid-career Unknown researcher at Foshan University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.574535
+date: 2026-07-10T01:07:47.638096
 url: "/cdr-researcher-census/researchers/xiaojuan-zhi-a5089888/"
 layout: "researcher"
 hiddenInHomeList: true

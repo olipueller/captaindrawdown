@@ -1,7 +1,7 @@
 ---
 title: "Gina E. Moseley"
 description: "Gina E. Moseley is a Senior Unknown researcher at University of Innsbruck in AT. With 98 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.301488
+date: 2026-07-10T01:07:47.383705
 url: "/cdr-researcher-census/researchers/gina-e-moseley-a5000776/"
 layout: "researcher"
 hiddenInHomeList: true

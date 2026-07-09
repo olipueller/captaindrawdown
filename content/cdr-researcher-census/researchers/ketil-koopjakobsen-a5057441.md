@@ -1,7 +1,7 @@
 ---
 title: "Ketil Koop‐Jakobsen"
 description: "Ketil Koop‐Jakobsen is a Senior General CDR researcher at Marine Biological Laboratory in US. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.278384
+date: 2026-07-10T01:07:47.360741
 url: "/cdr-researcher-census/researchers/ketil-koopjakobsen-a5057441/"
 layout: "researcher"
 hiddenInHomeList: true

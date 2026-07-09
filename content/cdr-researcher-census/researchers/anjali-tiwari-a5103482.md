@@ -1,7 +1,7 @@
 ---
 title: "Anjali Tiwari"
 description: "Anjali Tiwari is a Senior Unknown researcher at Acharya Narendra Deva University of Agriculture and Technology in IN. With 35 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.262356
+date: 2026-07-10T01:07:49.168735
 url: "/cdr-researcher-census/researchers/anjali-tiwari-a5103482/"
 layout: "researcher"
 hiddenInHomeList: true

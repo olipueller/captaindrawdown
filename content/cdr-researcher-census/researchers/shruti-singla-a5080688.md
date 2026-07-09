@@ -1,7 +1,7 @@
 ---
 title: "Shruti Singla"
 description: "Shruti Singla is a Mid-career Biochar researcher at University of Cambridge in GB. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.496552
+date: 2026-07-10T01:07:48.482023
 url: "/cdr-researcher-census/researchers/shruti-singla-a5080688/"
 layout: "researcher"
 hiddenInHomeList: true

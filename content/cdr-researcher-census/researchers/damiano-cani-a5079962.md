@@ -1,7 +1,7 @@
 ---
 title: "Damiano Cani"
 description: "Damiano Cani is a Mid-career Unknown researcher at KU Leuven in BE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.945082
+date: 2026-07-10T01:07:48.867162
 url: "/cdr-researcher-census/researchers/damiano-cani-a5079962/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Diego M. Juela"
 description: "Diego M. Juela is a Mid-career Unknown researcher at University of Cuenca in EC. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.945146
+date: 2026-07-10T01:07:47.957218
 url: "/cdr-researcher-census/researchers/diego-m-juela-a5069017/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xianlin Ke"
 description: "Xianlin Ke is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.725750
+date: 2026-07-10T01:07:48.675137
 url: "/cdr-researcher-census/researchers/xianlin-ke-a5002678/"
 layout: "researcher"
 hiddenInHomeList: true

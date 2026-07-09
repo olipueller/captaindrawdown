@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Dan"
 description: "Emmanuel Dan is a Mid-career General CDR researcher at University of Aberdeen in GB. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.329259
+date: 2026-07-10T01:07:48.329691
 url: "/cdr-researcher-census/researchers/emmanuel-dan-a5103269/"
 layout: "researcher"
 hiddenInHomeList: true

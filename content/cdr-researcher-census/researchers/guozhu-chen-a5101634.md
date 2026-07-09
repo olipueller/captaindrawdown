@@ -1,7 +1,7 @@
 ---
 title: "Guozhu Chen"
 description: "Guozhu Chen is a Senior Soil Carbon researcher at Southwest Forestry University in CN. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.729042
+date: 2026-07-10T01:07:47.781060
 url: "/cdr-researcher-census/researchers/guozhu-chen-a5101634/"
 layout: "researcher"
 hiddenInHomeList: true

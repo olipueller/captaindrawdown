@@ -1,7 +1,7 @@
 ---
 title: "Jian-Hong Wang"
 description: "Jian-Hong Wang is a Senior Unknown researcher at Xi’an Children’s Hospital in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.615945
+date: 2026-07-10T01:07:48.577051
 url: "/cdr-researcher-census/researchers/jian-hong-wang-a5101992/"
 layout: "researcher"
 hiddenInHomeList: true

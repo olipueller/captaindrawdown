@@ -1,7 +1,7 @@
 ---
 title: "Caitlin Hodges"
 description: "Caitlin Hodges is a Mid-career Unknown researcher at The University of Oklahoma in US. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.121908
+date: 2026-07-10T01:07:49.027364
 url: "/cdr-researcher-census/researchers/caitlin-hodges-a5075462/"
 layout: "researcher"
 hiddenInHomeList: true

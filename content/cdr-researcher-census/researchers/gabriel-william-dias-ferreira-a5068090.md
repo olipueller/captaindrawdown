@@ -1,7 +1,7 @@
 ---
 title: "Gabriel William Dias Ferreira"
 description: "Gabriel William Dias Ferreira is a Mid-career Soil Carbon researcher at Colorado State University in US. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.250975
+date: 2026-07-10T01:07:47.335747
 url: "/cdr-researcher-census/researchers/gabriel-william-dias-ferreira-a5068090/"
 layout: "researcher"
 hiddenInHomeList: true

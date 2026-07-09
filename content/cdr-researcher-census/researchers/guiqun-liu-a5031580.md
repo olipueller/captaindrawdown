@@ -1,7 +1,7 @@
 ---
 title: "Guiqun Liu"
 description: "Guiqun Liu is a Mid-career Unknown researcher at North Minzu University in CN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.691025
+date: 2026-07-10T01:07:47.747060
 url: "/cdr-researcher-census/researchers/guiqun-liu-a5031580/"
 layout: "researcher"
 hiddenInHomeList: true

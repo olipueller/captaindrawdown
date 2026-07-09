@@ -1,7 +1,7 @@
 ---
 title: "Waseem Ahmed"
 description: "Waseem Ahmed is a Mid-career Unknown researcher at Cairo University in EG. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.158820
+date: 2026-07-10T01:07:47.248003
 url: "/cdr-researcher-census/researchers/waseem-ahmed-a5101658/"
 layout: "researcher"
 hiddenInHomeList: true

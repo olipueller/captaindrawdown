@@ -1,7 +1,7 @@
 ---
 title: "Mohd Shahrul Ridzuan Hamil"
 description: "Mohd Shahrul Ridzuan Hamil is a Mid-career Unknown researcher at Universiti Sains Malaysia in MY. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.494401
+date: 2026-07-10T01:07:48.480064
 url: "/cdr-researcher-census/researchers/mohd-shahrul-ridzuan-hamil-a5006184/"
 layout: "researcher"
 hiddenInHomeList: true

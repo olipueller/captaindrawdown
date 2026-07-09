@@ -1,7 +1,7 @@
 ---
 title: "Alireza Shojaei"
 description: "Alireza Shojaei is a Mid-career Unknown researcher at Iranian Institute for Health Sciences Research in IR. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.684230
+date: 2026-07-10T01:07:47.740691
 url: "/cdr-researcher-census/researchers/alireza-shojaei-a5042954/"
 layout: "researcher"
 hiddenInHomeList: true

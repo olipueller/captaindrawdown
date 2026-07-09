@@ -1,7 +1,7 @@
 ---
 title: "Ralph Burton"
 description: "Ralph Burton is a Senior Unknown researcher at University of Leeds in GB. With 41 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.670637
+date: 2026-07-10T01:07:47.727832
 url: "/cdr-researcher-census/researchers/ralph-burton-a5105470/"
 layout: "researcher"
 hiddenInHomeList: true

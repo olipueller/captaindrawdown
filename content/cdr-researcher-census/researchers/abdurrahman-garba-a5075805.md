@@ -1,7 +1,7 @@
 ---
 title: "Abdurrahman Garba"
 description: "Abdurrahman Garba is a Senior Biochar researcher at Al-Qalam University Katsina in NG. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.522273
+date: 2026-07-10T01:07:47.589195
 url: "/cdr-researcher-census/researchers/abdurrahman-garba-a5075805/"
 layout: "researcher"
 hiddenInHomeList: true

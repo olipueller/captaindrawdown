@@ -1,7 +1,7 @@
 ---
 title: "María Bernardo"
 description: "María Bernardo is a Senior Biochar researcher at Universidade Nova de Lisboa in PT. With 100 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.071864
+date: 2026-07-10T01:07:47.151196
 url: "/cdr-researcher-census/researchers/maria-bernardo-a5081065/"
 layout: "researcher"
 hiddenInHomeList: true

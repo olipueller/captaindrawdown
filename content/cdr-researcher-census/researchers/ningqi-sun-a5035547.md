@@ -1,7 +1,7 @@
 ---
 title: "Ningqi Sun"
 description: "Ningqi Sun is a Mid-career Unknown researcher at Songshan Lake Materials Laboratory in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.163882
+date: 2026-07-10T01:07:49.054678
 url: "/cdr-researcher-census/researchers/ningqi-sun-a5035547/"
 layout: "researcher"
 hiddenInHomeList: true

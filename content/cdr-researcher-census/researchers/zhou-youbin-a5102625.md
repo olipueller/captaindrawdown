@@ -1,7 +1,7 @@
 ---
 title: "Zhou Youbin"
 description: "Zhou Youbin is a Mid-career Unknown researcher at State Key Laboratory of Organic-Inorganic Composite Materials. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.213881
+date: 2026-07-10T01:07:49.125442
 url: "/cdr-researcher-census/researchers/zhou-youbin-a5102625/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jesper Allan Frederiksen"
 description: "Jesper Allan Frederiksen is a Senior Unknown researcher at University of Copenhagen in DK. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.524541
+date: 2026-07-10T01:07:48.507433
 url: "/cdr-researcher-census/researchers/jesper-allan-frederiksen-a5049998/"
 layout: "researcher"
 hiddenInHomeList: true

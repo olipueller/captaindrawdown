@@ -1,7 +1,7 @@
 ---
 title: "Filipe Sathler Meira"
 description: "Filipe Sathler Meira is a Mid-career Unknown researcher at Fundação de Amparo à Pesquisa do Estado de Minas Gerais in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.813099
+date: 2026-07-10T01:07:48.750169
 url: "/cdr-researcher-census/researchers/filipe-sathler-meira-a5078390/"
 layout: "researcher"
 hiddenInHomeList: true

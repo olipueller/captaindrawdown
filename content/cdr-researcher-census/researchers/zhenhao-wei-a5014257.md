@@ -1,7 +1,7 @@
 ---
 title: "Zhenhao Wei"
 description: "Zhenhao Wei is a Mid-career Soil Carbon researcher at China Construction Industrial & Energy Engineering Group Co Ltd  in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.026047
+date: 2026-07-10T01:07:48.033743
 url: "/cdr-researcher-census/researchers/zhenhao-wei-a5014257/"
 layout: "researcher"
 hiddenInHomeList: true

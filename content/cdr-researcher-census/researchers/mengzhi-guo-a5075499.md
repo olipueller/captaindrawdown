@@ -1,7 +1,7 @@
 ---
 title: "Mengzhi Guo"
 description: "Mengzhi Guo is a Mid-career Unknown researcher at Beijing University of Chemical Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.820070
+date: 2026-07-10T01:07:48.755425
 url: "/cdr-researcher-census/researchers/mengzhi-guo-a5075499/"
 layout: "researcher"
 hiddenInHomeList: true

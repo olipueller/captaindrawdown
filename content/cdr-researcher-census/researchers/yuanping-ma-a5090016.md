@@ -1,7 +1,7 @@
 ---
 title: "Yuanping Ma"
 description: "Yuanping Ma is a Mid-career Unknown researcher at Capital Medical University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.997857
+date: 2026-07-10T01:07:48.007103
 url: "/cdr-researcher-census/researchers/yuanping-ma-a5090016/"
 layout: "researcher"
 hiddenInHomeList: true

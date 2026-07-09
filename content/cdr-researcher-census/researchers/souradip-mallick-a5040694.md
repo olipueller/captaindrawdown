@@ -1,7 +1,7 @@
 ---
 title: "Souradip Mallick"
 description: "Souradip Mallick is an Early-career Unknown researcher at Oklahoma State University Center for Health Sciences in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.006786
+date: 2026-07-10T01:07:48.924210
 url: "/cdr-researcher-census/researchers/souradip-mallick-a5040694/"
 layout: "researcher"
 hiddenInHomeList: true

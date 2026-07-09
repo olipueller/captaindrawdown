@@ -1,7 +1,7 @@
 ---
 title: "Goodluck Msigwa"
 description: "Goodluck Msigwa is a Mid-career General CDR researcher at Université Toulouse III - Paul Sabatier in FR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.999571
+date: 2026-07-10T01:07:47.059945
 url: "/cdr-researcher-census/researchers/goodluck-msigwa-a5005216/"
 layout: "researcher"
 hiddenInHomeList: true

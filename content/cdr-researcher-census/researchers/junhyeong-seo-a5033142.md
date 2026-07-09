@@ -1,7 +1,7 @@
 ---
 title: "Junhyeong Seo"
 description: "Junhyeong Seo is a Mid-career Unknown researcher at Korea Institute of Ocean Science and Technology in KR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.259056
+date: 2026-07-10T01:07:49.165709
 url: "/cdr-researcher-census/researchers/junhyeong-seo-a5033142/"
 layout: "researcher"
 hiddenInHomeList: true

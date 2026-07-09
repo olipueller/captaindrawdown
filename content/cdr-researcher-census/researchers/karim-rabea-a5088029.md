@@ -1,7 +1,7 @@
 ---
 title: "Karim Rabea"
 description: "Karim Rabea is a Mid-career General CDR researcher at Tanta University in EG. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.484351
+date: 2026-07-10T01:07:48.470900
 url: "/cdr-researcher-census/researchers/karim-rabea-a5088029/"
 layout: "researcher"
 hiddenInHomeList: true

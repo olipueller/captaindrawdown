@@ -1,7 +1,7 @@
 ---
 title: "Maxim Bobrovsky"
 description: "Maxim Bobrovsky is a Senior Soil Carbon researcher. With 56 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.891015
+date: 2026-07-10T01:07:47.905962
 url: "/cdr-researcher-census/researchers/maxim-bobrovsky-a5012875/"
 layout: "researcher"
 hiddenInHomeList: true

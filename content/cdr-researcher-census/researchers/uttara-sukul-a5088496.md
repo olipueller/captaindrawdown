@@ -1,7 +1,7 @@
 ---
 title: "Uttara Sukul"
 description: "Uttara Sukul is a Mid-career Biochar researcher at National Chung Cheng University in TW. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.486262
+date: 2026-07-10T01:07:48.472567
 url: "/cdr-researcher-census/researchers/uttara-sukul-a5088496/"
 layout: "researcher"
 hiddenInHomeList: true

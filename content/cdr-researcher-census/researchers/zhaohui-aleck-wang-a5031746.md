@@ -1,7 +1,7 @@
 ---
 title: "Zhaohui Aleck Wang"
 description: "Zhaohui Aleck Wang is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 91 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.018278
+date: 2026-07-10T01:07:47.084163
 url: "/cdr-researcher-census/researchers/zhaohui-aleck-wang-a5031746/"
 layout: "researcher"
 hiddenInHomeList: true

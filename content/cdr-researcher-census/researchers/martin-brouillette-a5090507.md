@@ -1,7 +1,7 @@
 ---
 title: "Martin Brouillette"
 description: "Martin Brouillette is a Senior General CDR researcher at Université de Sherbrooke in CA. With 80 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.132831
+date: 2026-07-10T01:07:47.221715
 url: "/cdr-researcher-census/researchers/martin-brouillette-a5090507/"
 layout: "researcher"
 hiddenInHomeList: true

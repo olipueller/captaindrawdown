@@ -1,7 +1,7 @@
 ---
 title: "Yongqiang Wang"
 description: "Yongqiang Wang is a Senior Unknown researcher at University of Cambridge in GB. With 111 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.144209
+date: 2026-07-10T01:07:47.233080
 url: "/cdr-researcher-census/researchers/yongqiang-wang-a5100339/"
 layout: "researcher"
 hiddenInHomeList: true

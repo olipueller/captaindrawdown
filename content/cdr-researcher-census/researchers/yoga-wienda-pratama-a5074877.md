@@ -1,7 +1,7 @@
 ---
 title: "Yoga Wienda Pratama"
 description: "Yoga Wienda Pratama is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.722089
+date: 2026-07-10T01:07:47.775158
 url: "/cdr-researcher-census/researchers/yoga-wienda-pratama-a5074877/"
 layout: "researcher"
 hiddenInHomeList: true

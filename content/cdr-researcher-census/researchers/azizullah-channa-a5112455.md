@@ -1,7 +1,7 @@
 ---
 title: "Azizullah Channa"
 description: "Azizullah Channa is a Mid-career Unknown researcher at Mehran University of Engineering and Technology in PK. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.002694
+date: 2026-07-10T01:07:48.920764
 url: "/cdr-researcher-census/researchers/azizullah-channa-a5112455/"
 layout: "researcher"
 hiddenInHomeList: true

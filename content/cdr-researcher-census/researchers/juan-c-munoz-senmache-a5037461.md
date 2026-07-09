@@ -1,7 +1,7 @@
 ---
 title: "Juan C. Muñoz-Senmache"
 description: "Juan C. Muñoz-Senmache is a Mid-career Unknown researcher at University of Puerto Rico-Mayaguez in PR. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.528855
+date: 2026-07-10T01:07:47.595433
 url: "/cdr-researcher-census/researchers/juan-c-munoz-senmache-a5037461/"
 layout: "researcher"
 hiddenInHomeList: true

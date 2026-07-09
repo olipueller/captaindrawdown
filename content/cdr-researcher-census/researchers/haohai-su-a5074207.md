@@ -1,7 +1,7 @@
 ---
 title: "Haohai Su"
 description: "Haohai Su is a Mid-career Unknown researcher at Northwest University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.741770
+date: 2026-07-10T01:07:48.688968
 url: "/cdr-researcher-census/researchers/haohai-su-a5074207/"
 layout: "researcher"
 hiddenInHomeList: true

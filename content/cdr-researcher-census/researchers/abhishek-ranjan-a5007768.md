@@ -1,7 +1,7 @@
 ---
 title: "Abhishek Ranjan"
 description: "Abhishek Ranjan is a Senior Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.841706
+date: 2026-07-10T01:07:48.773841
 url: "/cdr-researcher-census/researchers/abhishek-ranjan-a5007768/"
 layout: "researcher"
 hiddenInHomeList: true

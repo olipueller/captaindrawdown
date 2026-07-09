@@ -1,7 +1,7 @@
 ---
 title: "Xuejia Gu"
 description: "Xuejia Gu is an Early-career Soil Carbon researcher at Jiangnan University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.258136
+date: 2026-07-10T01:07:49.164780
 url: "/cdr-researcher-census/researchers/xuejia-gu-a5016046/"
 layout: "researcher"
 hiddenInHomeList: true

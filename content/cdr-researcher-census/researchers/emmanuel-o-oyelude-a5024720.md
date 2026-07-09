@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel O. Oyelude"
 description: "Emmanuel O. Oyelude is a Mid-career Soil Carbon researcher at Biochemical Society in GB. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.212880
+date: 2026-07-10T01:07:48.225261
 url: "/cdr-researcher-census/researchers/emmanuel-o-oyelude-a5024720/"
 layout: "researcher"
 hiddenInHomeList: true

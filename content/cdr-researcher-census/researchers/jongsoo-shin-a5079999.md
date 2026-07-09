@@ -1,7 +1,7 @@
 ---
 title: "Jongsoo Shin"
 description: "Jongsoo Shin is a Mid-career General CDR researcher at Woods Hole Oceanographic Institution in US. With 74 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.322544
+date: 2026-07-10T01:07:47.404750
 url: "/cdr-researcher-census/researchers/jongsoo-shin-a5079999/"
 layout: "researcher"
 hiddenInHomeList: true

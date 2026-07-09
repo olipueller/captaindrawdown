@@ -1,7 +1,7 @@
 ---
 title: "Magnus Dahler Norling"
 description: "Magnus Dahler Norling is a Mid-career Unknown researcher at Norwegian Institute for Water Research in NO. With 54 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.923188
+date: 2026-07-10T01:07:47.936756
 url: "/cdr-researcher-census/researchers/magnus-dahler-norling-a5012072/"
 layout: "researcher"
 hiddenInHomeList: true

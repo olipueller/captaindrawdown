@@ -1,7 +1,7 @@
 ---
 title: "Zhiqiang Lu"
 description: "Zhiqiang Lu is a Senior Unknown researcher at Guangdong University of Technology in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.584791
+date: 2026-07-10T01:07:47.648319
 url: "/cdr-researcher-census/researchers/zhiqiang-lu-a5066012/"
 layout: "researcher"
 hiddenInHomeList: true

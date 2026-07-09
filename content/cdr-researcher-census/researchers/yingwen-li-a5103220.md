@@ -1,7 +1,7 @@
 ---
 title: "Yingwen Li"
 description: "Yingwen Li is a Senior Soil Carbon researcher at 中国科学院华南植物园 in CN. With 94 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.020888
+date: 2026-07-10T01:07:47.087444
 url: "/cdr-researcher-census/researchers/yingwen-li-a5103220/"
 layout: "researcher"
 hiddenInHomeList: true

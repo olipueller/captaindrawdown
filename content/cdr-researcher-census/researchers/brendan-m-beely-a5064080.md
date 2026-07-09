@@ -1,7 +1,7 @@
 ---
 title: "Brendan M. Beely"
 description: "Brendan M. Beely is a Mid-career Unknown researcher at The Geneva Foundation in US. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.633227
+date: 2026-07-10T01:07:48.592649
 url: "/cdr-researcher-census/researchers/brendan-m-beely-a5064080/"
 layout: "researcher"
 hiddenInHomeList: true

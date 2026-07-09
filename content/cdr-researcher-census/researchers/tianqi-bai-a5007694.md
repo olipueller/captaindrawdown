@@ -1,7 +1,7 @@
 ---
 title: "Tianqi Bai"
 description: "Tianqi Bai is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.406003
+date: 2026-07-10T01:07:48.397741
 url: "/cdr-researcher-census/researchers/tianqi-bai-a5007694/"
 layout: "researcher"
 hiddenInHomeList: true

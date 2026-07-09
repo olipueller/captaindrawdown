@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Ababneh"
 description: "Mahmoud Ababneh is a Senior Biochar researcher at University of Jordan in JO. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.856395
+date: 2026-07-10T01:07:48.786925
 url: "/cdr-researcher-census/researchers/mahmoud-ababneh-a5068418/"
 layout: "researcher"
 hiddenInHomeList: true

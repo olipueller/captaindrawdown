@@ -1,7 +1,7 @@
 ---
 title: "Ayan Saha"
 description: "Ayan Saha is a Mid-career Unknown researcher at Khulna University of Engineering and Technology in BD. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.718257
+date: 2026-07-10T01:07:47.771799
 url: "/cdr-researcher-census/researchers/ayan-saha-a5071378/"
 layout: "researcher"
 hiddenInHomeList: true

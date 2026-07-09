@@ -1,7 +1,7 @@
 ---
 title: "Antonio C. de Andrade"
 description: "Antonio C. de Andrade is a Mid-career Unknown researcher at Universidade Federal da Paraíba in BR. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.031015
+date: 2026-07-10T01:07:48.946388
 url: "/cdr-researcher-census/researchers/antonio-c-de-andrade-a5109434/"
 layout: "researcher"
 hiddenInHomeList: true

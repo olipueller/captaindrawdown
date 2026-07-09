@@ -1,7 +1,7 @@
 ---
 title: "Aini Jasmin Ghazalli"
 description: "Aini Jasmin Ghazalli is a Mid-career Unknown researcher at Universiti Putra Malaysia in MY. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.835746
+date: 2026-07-10T01:07:48.768811
 url: "/cdr-researcher-census/researchers/aini-jasmin-ghazalli-a5051483/"
 layout: "researcher"
 hiddenInHomeList: true

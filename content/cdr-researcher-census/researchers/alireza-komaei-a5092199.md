@@ -1,7 +1,7 @@
 ---
 title: "Alireza Komaei"
 description: "Alireza Komaei is a Mid-career General CDR researcher at Amirkabir University of Technology in IR. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.222736
+date: 2026-07-10T01:07:48.233311
 url: "/cdr-researcher-census/researchers/alireza-komaei-a5092199/"
 layout: "researcher"
 hiddenInHomeList: true

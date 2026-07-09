@@ -1,7 +1,7 @@
 ---
 title: "Yunbing Jiang"
 description: "Yunbing Jiang is a Mid-career Soil Carbon researcher at Harbin Normal University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.741874
+date: 2026-07-10T01:07:48.689052
 url: "/cdr-researcher-census/researchers/yunbing-jiang-a5071494/"
 layout: "researcher"
 hiddenInHomeList: true

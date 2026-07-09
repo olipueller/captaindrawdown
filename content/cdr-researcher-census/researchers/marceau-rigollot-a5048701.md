@@ -1,7 +1,7 @@
 ---
 title: "Marceau Rigollot"
 description: "Marceau Rigollot is a Mid-career Unknown researcher at Université de Lorraine in FR. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.394767
+date: 2026-07-10T01:07:48.387227
 url: "/cdr-researcher-census/researchers/marceau-rigollot-a5048701/"
 layout: "researcher"
 hiddenInHomeList: true

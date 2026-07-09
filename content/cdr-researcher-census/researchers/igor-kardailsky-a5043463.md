@@ -1,7 +1,7 @@
 ---
 title: "Igor Kardailsky"
 description: "Igor Kardailsky is a Senior Soil Carbon researcher at New South Wales Department of Primary Industries in AU. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.989329
+date: 2026-07-10T01:07:47.044287
 url: "/cdr-researcher-census/researchers/igor-kardailsky-a5043463/"
 layout: "researcher"
 hiddenInHomeList: true

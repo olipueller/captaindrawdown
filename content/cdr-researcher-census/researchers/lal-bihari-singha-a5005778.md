@@ -1,7 +1,7 @@
 ---
 title: "Lal Bihari Singha"
 description: "Lal Bihari Singha is a Mid-career General CDR researcher at Manipur University in IN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.696578
+date: 2026-07-10T01:07:47.752121
 url: "/cdr-researcher-census/researchers/lal-bihari-singha-a5005778/"
 layout: "researcher"
 hiddenInHomeList: true

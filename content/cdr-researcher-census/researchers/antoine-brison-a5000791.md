@@ -1,7 +1,7 @@
 ---
 title: "Antoine Brison"
 description: "Antoine Brison is a Mid-career Unknown researcher at Swiss Federal Institute of Aquatic Science and Technology in CH. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.085100
+date: 2026-07-10T01:07:48.995267
 url: "/cdr-researcher-census/researchers/antoine-brison-a5000791/"
 layout: "researcher"
 hiddenInHomeList: true

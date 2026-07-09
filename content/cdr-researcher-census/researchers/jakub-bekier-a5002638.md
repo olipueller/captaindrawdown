@@ -1,7 +1,7 @@
 ---
 title: "Jakub Bekier"
 description: "Jakub Bekier is a Senior Soil Carbon researcher at Wrocław University of Environmental and Life Sciences in PL. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.721346
+date: 2026-07-10T01:07:47.774594
 url: "/cdr-researcher-census/researchers/jakub-bekier-a5002638/"
 layout: "researcher"
 hiddenInHomeList: true

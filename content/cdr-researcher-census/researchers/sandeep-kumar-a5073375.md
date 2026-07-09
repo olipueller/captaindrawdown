@@ -1,7 +1,7 @@
 ---
 title: "Sandeep Kumar"
 description: "Sandeep Kumar is an Eminent Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 184 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.921298
+date: 2026-07-10T01:07:46.929405
 url: "/cdr-researcher-census/researchers/sandeep-kumar-a5073375/"
 layout: "researcher"
 hiddenInHomeList: true

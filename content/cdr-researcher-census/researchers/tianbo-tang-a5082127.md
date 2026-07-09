@@ -1,7 +1,7 @@
 ---
 title: "Tianbo Tang"
 description: "Tianbo Tang is a Mid-career Unknown researcher at University of California, Riverside in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.477665
+date: 2026-07-10T01:07:48.464839
 url: "/cdr-researcher-census/researchers/tianbo-tang-a5082127/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Sanderman"
 description: "Jonathan Sanderman is an Eminent Soil Carbon researcher at Woodwell Climate Research Center in US. With 253 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.885671
+date: 2026-07-10T01:07:46.848928
 url: "/cdr-researcher-census/researchers/jonathan-sanderman-a5022853/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Roberta Calone"
 description: "Roberta Calone is a Mid-career Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l’analisi dell’economia agraria in IT. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.639054
+date: 2026-07-10T01:07:47.698211
 url: "/cdr-researcher-census/researchers/roberta-calone-a5038751/"
 layout: "researcher"
 hiddenInHomeList: true

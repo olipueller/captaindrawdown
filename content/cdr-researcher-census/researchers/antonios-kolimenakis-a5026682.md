@@ -1,7 +1,7 @@
 ---
 title: "Antonios Kolimenakis"
 description: "Antonios Kolimenakis is a Mid-career Unknown researcher at World Health Organization in CH. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.622489
+date: 2026-07-10T01:07:47.682984
 url: "/cdr-researcher-census/researchers/antonios-kolimenakis-a5026682/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Amin Bhat"
 description: "Mohammad Amin Bhat is a Mid-career Soil Carbon researcher at Punjab Agricultural University in IN. With 68 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.071864
+date: 2026-07-10T01:07:48.074576
 url: "/cdr-researcher-census/researchers/mohammad-amin-bhat-a5054310/"
 layout: "researcher"
 hiddenInHomeList: true

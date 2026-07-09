@@ -1,7 +1,7 @@
 ---
 title: "Shuangdui Yan"
 description: "Shuangdui Yan is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.393611
+date: 2026-07-10T01:07:48.386252
 url: "/cdr-researcher-census/researchers/shuangdui-yan-a5022981/"
 layout: "researcher"
 hiddenInHomeList: true

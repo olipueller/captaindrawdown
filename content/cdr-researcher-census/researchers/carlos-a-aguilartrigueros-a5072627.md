@@ -1,7 +1,7 @@
 ---
 title: "Carlos A. Aguilar‐Trigueros"
 description: "Carlos A. Aguilar‐Trigueros is a Senior Soil Carbon researcher at University of Jyväskylä in FI. With 71 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.974834
+date: 2026-07-10T01:07:47.020739
 url: "/cdr-researcher-census/researchers/carlos-a-aguilartrigueros-a5072627/"
 layout: "researcher"
 hiddenInHomeList: true

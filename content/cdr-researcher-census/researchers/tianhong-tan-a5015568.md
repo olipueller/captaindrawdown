@@ -1,7 +1,7 @@
 ---
 title: "Tianhong Tan"
 description: "Tianhong Tan is a Senior Soil Carbon researcher at Harbin Engineering University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.607815
+date: 2026-07-10T01:07:48.570166
 url: "/cdr-researcher-census/researchers/tianhong-tan-a5015568/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Dong"
 description: "Zhijie Dong is an Early-career Soil Carbon researcher at Hainan Normal University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.732038
+date: 2026-07-10T01:07:48.680683
 url: "/cdr-researcher-census/researchers/zhijie-dong-a5016282/"
 layout: "researcher"
 hiddenInHomeList: true

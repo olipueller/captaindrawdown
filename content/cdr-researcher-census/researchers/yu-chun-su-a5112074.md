@@ -1,7 +1,7 @@
 ---
 title: "Yu-Chun Su"
 description: "Yu-Chun Su is a Senior Biochar researcher. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.925265
+date: 2026-07-10T01:07:47.938753
 url: "/cdr-researcher-census/researchers/yu-chun-su-a5112074/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "T. Markkanen"
 description: "T. Markkanen is a Senior Unknown researcher at Finnish Meteorological Institute in FI. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.112297
+date: 2026-07-10T01:07:47.198177
 url: "/cdr-researcher-census/researchers/t-markkanen-a5111935/"
 layout: "researcher"
 hiddenInHomeList: true

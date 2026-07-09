@@ -1,7 +1,7 @@
 ---
 title: "Abigail L. S. Swann"
 description: "Abigail L. S. Swann is a Senior General CDR researcher at University of Washington in US. With 173 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.957701
+date: 2026-07-10T01:07:46.994349
 url: "/cdr-researcher-census/researchers/abigail-l-s-swann-a5078351/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Angela Stevenson"
 description: "Angela Stevenson is a Mid-career General CDR researcher at Plymouth Marine Laboratory in GB. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.565418
+date: 2026-07-10T01:07:47.629188
 url: "/cdr-researcher-census/researchers/angela-stevenson-a5004104/"
 layout: "researcher"
 hiddenInHomeList: true

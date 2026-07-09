@@ -1,7 +1,7 @@
 ---
 title: "Shuxin Wu"
 description: "Shuxin Wu is a Mid-career Soil Carbon researcher at Beijing University of Chinese Medicine in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.140220
+date: 2026-07-10T01:07:49.043255
 url: "/cdr-researcher-census/researchers/shuxin-wu-a5003888/"
 layout: "researcher"
 hiddenInHomeList: true

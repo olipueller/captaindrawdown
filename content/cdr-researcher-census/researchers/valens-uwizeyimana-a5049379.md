@@ -1,7 +1,7 @@
 ---
 title: "Valens Uwizeyimana"
 description: "Valens Uwizeyimana is a Mid-career Unknown researcher at KU Leuven in BE. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.499299
+date: 2026-07-10T01:07:48.484810
 url: "/cdr-researcher-census/researchers/valens-uwizeyimana-a5049379/"
 layout: "researcher"
 hiddenInHomeList: true

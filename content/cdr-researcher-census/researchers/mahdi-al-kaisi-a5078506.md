@@ -1,7 +1,7 @@
 ---
 title: "Mahdi Al-Kaisi"
 description: "Mahdi Al-Kaisi is a Mid-career Soil Carbon researcher at Iowa State University in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.355514
+date: 2026-07-10T01:07:48.353870
 url: "/cdr-researcher-census/researchers/mahdi-al-kaisi-a5078506/"
 layout: "researcher"
 hiddenInHomeList: true

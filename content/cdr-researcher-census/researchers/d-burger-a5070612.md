@@ -1,7 +1,7 @@
 ---
 title: "D. Burger"
 description: "D. Burger is a Senior Unknown researcher at Freeport-McMoRan (United States) in US. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.424834
+date: 2026-07-10T01:07:47.503319
 url: "/cdr-researcher-census/researchers/d-burger-a5070612/"
 layout: "researcher"
 hiddenInHomeList: true

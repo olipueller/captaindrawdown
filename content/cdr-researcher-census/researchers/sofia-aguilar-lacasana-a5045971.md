@@ -1,7 +1,7 @@
 ---
 title: "Sofía Aguilar-Lacasaña"
 description: "Sofía Aguilar-Lacasaña is a Mid-career Unknown researcher at Universitat Pompeu Fabra in ES. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.027394
+date: 2026-07-10T01:07:48.943389
 url: "/cdr-researcher-census/researchers/sofia-aguilar-lacasana-a5045971/"
 layout: "researcher"
 hiddenInHomeList: true

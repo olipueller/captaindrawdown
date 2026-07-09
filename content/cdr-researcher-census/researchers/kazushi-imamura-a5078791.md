@@ -1,7 +1,7 @@
 ---
 title: "Kazushi Imamura"
 description: "Kazushi Imamura is a Mid-career Unknown researcher at Kyushu University in JP. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.048807
+date: 2026-07-10T01:07:48.054137
 url: "/cdr-researcher-census/researchers/kazushi-imamura-a5078791/"
 layout: "researcher"
 hiddenInHomeList: true

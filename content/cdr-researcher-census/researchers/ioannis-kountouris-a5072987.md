@@ -1,7 +1,7 @@
 ---
 title: "Ioannis Kountouris"
 description: "Ioannis Kountouris is a Mid-career Unknown researcher at Technical University of Denmark in DK. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.020357
+date: 2026-07-10T01:07:48.028131
 url: "/cdr-researcher-census/researchers/ioannis-kountouris-a5072987/"
 layout: "researcher"
 hiddenInHomeList: true

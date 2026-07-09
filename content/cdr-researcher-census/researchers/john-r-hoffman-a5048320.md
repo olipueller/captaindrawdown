@@ -1,7 +1,7 @@
 ---
 title: "John R. Hoffman"
 description: "John R. Hoffman is a Senior Unknown researcher at University of Notre Dame in US. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.637671
+date: 2026-07-10T01:07:47.696909
 url: "/cdr-researcher-census/researchers/john-r-hoffman-a5048320/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyang Liang"
 description: "Xiaoyang Liang is a Mid-career Unknown researcher at Xinjiang Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.356975
+date: 2026-07-10T01:07:48.355415
 url: "/cdr-researcher-census/researchers/xiaoyang-liang-a5101893/"
 layout: "researcher"
 hiddenInHomeList: true

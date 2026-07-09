@@ -1,7 +1,7 @@
 ---
 title: "Xuanting Hao"
 description: "Xuanting Hao is a Mid-career Unknown researcher at University of California, San Diego in US. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.453039
+date: 2026-07-10T01:07:48.441762
 url: "/cdr-researcher-census/researchers/xuanting-hao-a5087363/"
 layout: "researcher"
 hiddenInHomeList: true

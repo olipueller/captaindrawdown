@@ -1,7 +1,7 @@
 ---
 title: "Youming Xiong"
 description: "Youming Xiong is a Senior Unknown researcher at Southwest Petroleum University in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.482186
+date: 2026-07-10T01:07:47.554193
 url: "/cdr-researcher-census/researchers/youming-xiong-a5100712/"
 layout: "researcher"
 hiddenInHomeList: true

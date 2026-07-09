@@ -1,7 +1,7 @@
 ---
 title: "Mariana Hassegawa"
 description: "Mariana Hassegawa is a Mid-career Soil Carbon researcher at Université Laval in CA. With 47 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.742307
+date: 2026-07-10T01:07:47.794273
 url: "/cdr-researcher-census/researchers/mariana-hassegawa-a5042222/"
 layout: "researcher"
 hiddenInHomeList: true

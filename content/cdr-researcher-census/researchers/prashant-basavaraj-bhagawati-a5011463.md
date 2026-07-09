@@ -1,7 +1,7 @@
 ---
 title: "Prashant Basavaraj Bhagawati"
 description: "Prashant Basavaraj Bhagawati is a Mid-career Biochar researcher at Visvesvaraya Technological University in IN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.171110
+date: 2026-07-10T01:07:48.187514
 url: "/cdr-researcher-census/researchers/prashant-basavaraj-bhagawati-a5011463/"
 layout: "researcher"
 hiddenInHomeList: true

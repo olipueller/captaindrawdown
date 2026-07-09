@@ -1,7 +1,7 @@
 ---
 title: "Magdeline Laba"
 description: "Magdeline Laba is a Senior Soil Carbon researcher at Cornell University in US. With 24 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.185685
+date: 2026-07-10T01:07:47.274615
 url: "/cdr-researcher-census/researchers/magdeline-laba-a5062062/"
 layout: "researcher"
 hiddenInHomeList: true

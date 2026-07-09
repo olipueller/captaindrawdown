@@ -1,7 +1,7 @@
 ---
 title: "Mianhai Zheng"
 description: "Mianhai Zheng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 79 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.028073
+date: 2026-07-10T01:07:47.096199
 url: "/cdr-researcher-census/researchers/mianhai-zheng-a5061401/"
 layout: "researcher"
 hiddenInHomeList: true

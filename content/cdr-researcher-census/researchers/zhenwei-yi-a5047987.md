@@ -1,7 +1,7 @@
 ---
 title: "Zhenwei Yi"
 description: "Zhenwei Yi is a Mid-career Enhanced Weathering researcher at Zhejiang Energy Group (China) in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.400779
+date: 2026-07-10T01:07:48.392616
 url: "/cdr-researcher-census/researchers/zhenwei-yi-a5047987/"
 layout: "researcher"
 hiddenInHomeList: true

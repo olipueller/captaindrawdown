@@ -1,7 +1,7 @@
 ---
 title: "Ake Zhang"
 description: "Ake Zhang is an Early-career Unknown researcher at Fuyang Normal University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.762052
+date: 2026-07-10T01:07:48.707000
 url: "/cdr-researcher-census/researchers/ake-zhang-a5005523/"
 layout: "researcher"
 hiddenInHomeList: true

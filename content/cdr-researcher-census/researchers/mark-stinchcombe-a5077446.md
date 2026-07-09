@@ -1,7 +1,7 @@
 ---
 title: "Mark Stinchcombe"
 description: "Mark Stinchcombe is a Senior Ocean CDR researcher at National Oceanography Centre in GB. With 44 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.101214
+date: 2026-07-10T01:07:47.185532
 url: "/cdr-researcher-census/researchers/mark-stinchcombe-a5077446/"
 layout: "researcher"
 hiddenInHomeList: true

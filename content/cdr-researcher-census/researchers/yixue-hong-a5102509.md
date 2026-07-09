@@ -1,7 +1,7 @@
 ---
 title: "Yixue Hong"
 description: "Yixue Hong is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.370597
+date: 2026-07-10T01:07:48.367462
 url: "/cdr-researcher-census/researchers/yixue-hong-a5102509/"
 layout: "researcher"
 hiddenInHomeList: true

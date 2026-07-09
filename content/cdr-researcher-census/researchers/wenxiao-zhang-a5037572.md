@@ -1,7 +1,7 @@
 ---
 title: "Wenxiao Zhang"
 description: "Wenxiao Zhang is a Mid-career Biochar researcher at Max Planck Institute for Chemistry in DE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.971880
+date: 2026-07-10T01:07:48.891967
 url: "/cdr-researcher-census/researchers/wenxiao-zhang-a5037572/"
 layout: "researcher"
 hiddenInHomeList: true

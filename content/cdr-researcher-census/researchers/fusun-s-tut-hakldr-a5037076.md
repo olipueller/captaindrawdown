@@ -1,7 +1,7 @@
 ---
 title: "Füsun S. Tut Haklıdır"
 description: "Füsun S. Tut Haklıdır is a Mid-career Unknown researcher at TUBITAK BILGEM in TR. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.092327
+date: 2026-07-10T01:07:48.092223
 url: "/cdr-researcher-census/researchers/fusun-s-tut-hakldr-a5037076/"
 layout: "researcher"
 hiddenInHomeList: true

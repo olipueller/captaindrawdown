@@ -1,7 +1,7 @@
 ---
 title: "Erica Patterson"
 description: "Erica Patterson is a Mid-career Soil Carbon researcher at Colorado State University in US. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.259921
+date: 2026-07-10T01:07:49.166534
 url: "/cdr-researcher-census/researchers/erica-patterson-a5051179/"
 layout: "researcher"
 hiddenInHomeList: true

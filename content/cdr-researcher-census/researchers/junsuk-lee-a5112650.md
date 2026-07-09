@@ -1,7 +1,7 @@
 ---
 title: "Junsuk Lee"
 description: "Junsuk Lee is a Senior Unknown researcher at Kookmin University in KR. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.664939
+date: 2026-07-10T01:07:48.621444
 url: "/cdr-researcher-census/researchers/junsuk-lee-a5112650/"
 layout: "researcher"
 hiddenInHomeList: true

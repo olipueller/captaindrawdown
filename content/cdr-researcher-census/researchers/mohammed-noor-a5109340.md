@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Noor"
 description: "Mohammed Noor is a Senior Unknown researcher at University of the Punjab in PK. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.224526
+date: 2026-07-10T01:07:49.134530
 url: "/cdr-researcher-census/researchers/mohammed-noor-a5109340/"
 layout: "researcher"
 hiddenInHomeList: true

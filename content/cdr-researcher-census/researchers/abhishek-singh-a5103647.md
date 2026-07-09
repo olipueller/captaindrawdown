@@ -1,7 +1,7 @@
 ---
 title: "Abhishek Singh"
 description: "Abhishek Singh is a Mid-career Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.242436
+date: 2026-07-10T01:07:48.251241
 url: "/cdr-researcher-census/researchers/abhishek-singh-a5103647/"
 layout: "researcher"
 hiddenInHomeList: true

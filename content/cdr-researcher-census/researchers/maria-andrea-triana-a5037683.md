@@ -1,7 +1,7 @@
 ---
 title: "Maria Andrea Triana"
 description: "Maria Andrea Triana is a Mid-career Unknown researcher at Institute of Electrical and Electronics Engineers in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.919707
+date: 2026-07-10T01:07:47.933319
 url: "/cdr-researcher-census/researchers/maria-andrea-triana-a5037683/"
 layout: "researcher"
 hiddenInHomeList: true

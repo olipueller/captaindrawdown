@@ -1,7 +1,7 @@
 ---
 title: "Kaichang Wang"
 description: "Kaichang Wang is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.110270
+date: 2026-07-10T01:07:48.135973
 url: "/cdr-researcher-census/researchers/kaichang-wang-a5015208/"
 layout: "researcher"
 hiddenInHomeList: true

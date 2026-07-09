@@ -1,7 +1,7 @@
 ---
 title: "Jing Sun"
 description: "Jing Sun is a Mid-career Enhanced Weathering researcher at Tianjin University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.077762
+date: 2026-07-10T01:07:48.079916
 url: "/cdr-researcher-census/researchers/jing-sun-a5103585/"
 layout: "researcher"
 hiddenInHomeList: true

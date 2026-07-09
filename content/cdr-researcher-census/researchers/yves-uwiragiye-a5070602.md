@@ -1,7 +1,7 @@
 ---
 title: "Yves Uwiragiye"
 description: "Yves Uwiragiye is a Mid-career Soil Carbon researcher at Anhui University in CN. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.415798
+date: 2026-07-10T01:07:47.494683
 url: "/cdr-researcher-census/researchers/yves-uwiragiye-a5070602/"
 layout: "researcher"
 hiddenInHomeList: true

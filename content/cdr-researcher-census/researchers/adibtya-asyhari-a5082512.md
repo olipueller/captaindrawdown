@@ -1,7 +1,7 @@
 ---
 title: "Adibtya Asyhari"
 description: "Adibtya Asyhari is a Mid-career Soil Carbon researcher at Universitas Iskandar Muda in ID. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.039628
+date: 2026-07-10T01:07:48.045133
 url: "/cdr-researcher-census/researchers/adibtya-asyhari-a5082512/"
 layout: "researcher"
 hiddenInHomeList: true

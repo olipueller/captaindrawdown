@@ -1,7 +1,7 @@
 ---
 title: "Yang You-li"
 description: "Yang You-li is a Senior Unknown researcher at Hunan Agricultural University in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.846763
+date: 2026-07-10T01:07:48.778014
 url: "/cdr-researcher-census/researchers/yang-you-li-a5032727/"
 layout: "researcher"
 hiddenInHomeList: true

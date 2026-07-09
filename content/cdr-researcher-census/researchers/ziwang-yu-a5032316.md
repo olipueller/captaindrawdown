@@ -1,7 +1,7 @@
 ---
 title: "Ziwang Yu"
 description: "Ziwang Yu is a Senior Enhanced Weathering researcher at Jilin University in CN. With 62 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.123188
+date: 2026-07-10T01:07:47.209979
 url: "/cdr-researcher-census/researchers/ziwang-yu-a5032316/"
 layout: "researcher"
 hiddenInHomeList: true

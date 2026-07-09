@@ -1,7 +1,7 @@
 ---
 title: "Ekavi Aikaterini Isari"
 description: "Ekavi Aikaterini Isari is a Mid-career Biochar researcher at Hellenic Open University in GR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.464692
+date: 2026-07-10T01:07:48.452473
 url: "/cdr-researcher-census/researchers/ekavi-aikaterini-isari-a5008031/"
 layout: "researcher"
 hiddenInHomeList: true

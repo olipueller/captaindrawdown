@@ -1,7 +1,7 @@
 ---
 title: "Xinru Fan"
 description: "Xinru Fan is a Mid-career Biochar researcher at Anhui Agricultural University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.518980
+date: 2026-07-10T01:07:48.502353
 url: "/cdr-researcher-census/researchers/xinru-fan-a5087044/"
 layout: "researcher"
 hiddenInHomeList: true

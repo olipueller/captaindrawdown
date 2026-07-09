@@ -1,7 +1,7 @@
 ---
 title: "Mengying Qiao"
 description: "Mengying Qiao is a Mid-career Unknown researcher at Jilin University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.440906
+date: 2026-07-10T01:07:48.430696
 url: "/cdr-researcher-census/researchers/mengying-qiao-a5047248/"
 layout: "researcher"
 hiddenInHomeList: true

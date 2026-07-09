@@ -1,7 +1,7 @@
 ---
 title: "Daphné Lorne"
 description: "Daphné Lorne is a Senior General CDR researcher at IFP Énergies nouvelles in FR. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.170879
+date: 2026-07-10T01:07:48.187331
 url: "/cdr-researcher-census/researchers/daphne-lorne-a5021595/"
 layout: "researcher"
 hiddenInHomeList: true

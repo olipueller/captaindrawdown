@@ -1,7 +1,7 @@
 ---
 title: "Alex Desgagnés"
 description: "Alex Desgagnés is a Mid-career Unknown researcher at Université Laval in CA. With 16 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.809124
+date: 2026-07-10T01:07:47.855514
 url: "/cdr-researcher-census/researchers/alex-desgagnes-a5005027/"
 layout: "researcher"
 hiddenInHomeList: true

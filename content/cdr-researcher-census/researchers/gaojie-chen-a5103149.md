@@ -1,7 +1,7 @@
 ---
 title: "Gaojie Chen"
 description: "Gaojie Chen is a Senior Unknown researcher at Hunan University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.996090
+date: 2026-07-10T01:07:48.005460
 url: "/cdr-researcher-census/researchers/gaojie-chen-a5103149/"
 layout: "researcher"
 hiddenInHomeList: true

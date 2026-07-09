@@ -1,7 +1,7 @@
 ---
 title: "Qingfeng Guo"
 description: "Qingfeng Guo is a Senior Soil Carbon researcher at Huanghe Science and Technology College in CN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.324970
+date: 2026-07-10T01:07:47.407024
 url: "/cdr-researcher-census/researchers/qingfeng-guo-a5091767/"
 layout: "researcher"
 hiddenInHomeList: true

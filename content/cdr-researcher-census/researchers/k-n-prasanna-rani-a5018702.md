@@ -1,7 +1,7 @@
 ---
 title: "K. N. Prasanna Rani"
 description: "K. N. Prasanna Rani is a Senior Unknown researcher at Indian Institute of Chemical Technology in IN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.955067
+date: 2026-07-10T01:07:48.877122
 url: "/cdr-researcher-census/researchers/k-n-prasanna-rani-a5018702/"
 layout: "researcher"
 hiddenInHomeList: true

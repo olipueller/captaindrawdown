@@ -1,7 +1,7 @@
 ---
 title: "Yolima Carrillo"
 description: "Yolima Carrillo is a Senior Soil Carbon researcher at Western Sydney University in AU. With 153 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.924470
+date: 2026-07-10T01:07:46.936259
 url: "/cdr-researcher-census/researchers/yolima-carrillo-a5035185/"
 layout: "researcher"
 hiddenInHomeList: true

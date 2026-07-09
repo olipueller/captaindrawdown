@@ -1,7 +1,7 @@
 ---
 title: "Haoming Yu"
 description: "Haoming Yu is a Mid-career Unknown researcher at King University in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.859211
+date: 2026-07-10T01:07:48.789354
 url: "/cdr-researcher-census/researchers/haoming-yu-a5089606/"
 layout: "researcher"
 hiddenInHomeList: true

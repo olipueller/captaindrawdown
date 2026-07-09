@@ -1,7 +1,7 @@
 ---
 title: "Rao Kuang"
 description: "Rao Kuang is a Mid-career Unknown researcher at Hainan University in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.102061
+date: 2026-07-10T01:07:48.128298
 url: "/cdr-researcher-census/researchers/rao-kuang-a5081060/"
 layout: "researcher"
 hiddenInHomeList: true

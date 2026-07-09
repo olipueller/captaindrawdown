@@ -1,7 +1,7 @@
 ---
 title: "Quyun Chen"
 description: "Quyun Chen is an Early-career Biochar researcher at Sichuan University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.256999
+date: 2026-07-10T01:07:49.163650
 url: "/cdr-researcher-census/researchers/quyun-chen-a5018299/"
 layout: "researcher"
 hiddenInHomeList: true

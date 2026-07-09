@@ -1,7 +1,7 @@
 ---
 title: "Jiayi Mu"
 description: "Jiayi Mu is a Mid-career General CDR researcher at Nanjing University of Information Science and Technology in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.532359
+date: 2026-07-10T01:07:48.515083
 url: "/cdr-researcher-census/researchers/jiayi-mu-a5004444/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Giacomo Grassi"
 description: "Giacomo Grassi is an Eminent General CDR researcher at European Commission in BE. With 298 publications and an h-index of 59, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.892576
+date: 2026-07-10T01:07:46.870421
 url: "/cdr-researcher-census/researchers/giacomo-grassi-a5015410/"
 layout: "researcher"
 hiddenInHomeList: true

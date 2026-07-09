@@ -1,7 +1,7 @@
 ---
 title: "J. I. Bautista Quispe"
 description: "J. I. Bautista Quispe is a Mid-career Biochar researcher at Garden Organic in GB. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.067468
+date: 2026-07-10T01:07:48.978972
 url: "/cdr-researcher-census/researchers/j-i-bautista-quispe-a5084012/"
 layout: "researcher"
 hiddenInHomeList: true

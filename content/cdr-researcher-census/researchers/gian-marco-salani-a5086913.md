@@ -1,7 +1,7 @@
 ---
 title: "Gian Marco Salani"
 description: "Gian Marco Salani is a Mid-career Soil Carbon researcher at University of Ferrara in IT. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.721131
+date: 2026-07-10T01:07:48.670958
 url: "/cdr-researcher-census/researchers/gian-marco-salani-a5086913/"
 layout: "researcher"
 hiddenInHomeList: true

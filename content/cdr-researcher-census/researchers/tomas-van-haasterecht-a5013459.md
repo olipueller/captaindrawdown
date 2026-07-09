@@ -1,7 +1,7 @@
 ---
 title: "Tomas van Haasterecht"
 description: "Tomas van Haasterecht is a Mid-career DAC researcher. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.650489
+date: 2026-07-10T01:07:47.708772
 url: "/cdr-researcher-census/researchers/tomas-van-haasterecht-a5013459/"
 layout: "researcher"
 hiddenInHomeList: true

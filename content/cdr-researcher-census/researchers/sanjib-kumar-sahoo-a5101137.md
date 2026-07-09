@@ -1,7 +1,7 @@
 ---
 title: "Sanjib Kumar Sahoo"
 description: "Sanjib Kumar Sahoo is a Mid-career Soil Carbon researcher at Odisha University of Agriculture and Technology in IN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.497702
+date: 2026-07-10T01:07:48.483120
 url: "/cdr-researcher-census/researchers/sanjib-kumar-sahoo-a5101137/"
 layout: "researcher"
 hiddenInHomeList: true

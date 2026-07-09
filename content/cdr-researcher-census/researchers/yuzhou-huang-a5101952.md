@@ -1,7 +1,7 @@
 ---
 title: "Yuzhou Huang"
 description: "Yuzhou Huang is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.372194
+date: 2026-07-10T01:07:47.454373
 url: "/cdr-researcher-census/researchers/yuzhou-huang-a5101952/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaohu Du"
 description: "Xiaohu Du is an Early-career Biochar researcher at Yunnan University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.855960
+date: 2026-07-10T01:07:48.786503
 url: "/cdr-researcher-census/researchers/xiaohu-du-a5002601/"
 layout: "researcher"
 hiddenInHomeList: true

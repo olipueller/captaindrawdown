@@ -1,7 +1,7 @@
 ---
 title: "Jari Liski"
 description: "Jari Liski is an Eminent Soil Carbon researcher at Finnish Meteorological Institute in FI. With 236 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.904539
+date: 2026-07-10T01:07:46.897022
 url: "/cdr-researcher-census/researchers/jari-liski-a5010188/"
 layout: "researcher"
 hiddenInHomeList: true

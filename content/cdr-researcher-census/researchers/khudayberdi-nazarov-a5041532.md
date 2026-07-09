@@ -1,7 +1,7 @@
 ---
 title: "Khudayberdi Nazarov"
 description: "Khudayberdi Nazarov is a Mid-career Soil Carbon researcher at Tashkent State Agrarian University in UZ. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.250735
+date: 2026-07-10T01:07:49.158040
 url: "/cdr-researcher-census/researchers/khudayberdi-nazarov-a5041532/"
 layout: "researcher"
 hiddenInHomeList: true

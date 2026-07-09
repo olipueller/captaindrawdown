@@ -1,7 +1,7 @@
 ---
 title: "Jürgen Sarjas"
 description: "Jürgen Sarjas is a Mid-career Unknown researcher at University of Tartu in EE. With 10 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.651512
+date: 2026-07-10T01:07:48.609755
 url: "/cdr-researcher-census/researchers/jurgen-sarjas-a5032622/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chunping Chen"
 description: "Chunping Chen is a Senior Unknown researcher at University of Oxford in GB. With 100 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.982618
+date: 2026-07-10T01:07:47.033031
 url: "/cdr-researcher-census/researchers/chunping-chen-a5050813/"
 layout: "researcher"
 hiddenInHomeList: true

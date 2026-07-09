@@ -1,7 +1,7 @@
 ---
 title: "Dionel O. Albina"
 description: "Dionel O. Albina is a Senior Unknown researcher at University of Science and Technology of Southern Philippines in PH. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.531149
+date: 2026-07-10T01:07:47.597617
 url: "/cdr-researcher-census/researchers/dionel-o-albina-a5087673/"
 layout: "researcher"
 hiddenInHomeList: true

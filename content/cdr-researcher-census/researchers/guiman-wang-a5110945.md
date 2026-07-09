@@ -1,7 +1,7 @@
 ---
 title: "Guiman Wang"
 description: "Guiman Wang is a Mid-career Soil Carbon researcher at Jilin Meteorological Bureau in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.203060
+date: 2026-07-10T01:07:48.216531
 url: "/cdr-researcher-census/researchers/guiman-wang-a5110945/"
 layout: "researcher"
 hiddenInHomeList: true

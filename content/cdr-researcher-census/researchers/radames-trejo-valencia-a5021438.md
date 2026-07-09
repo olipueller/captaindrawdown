@@ -1,7 +1,7 @@
 ---
 title: "Radamés Trejo-Valencia"
 description: "Radamés Trejo-Valencia is a Mid-career Biochar researcher at Instituto Tecnológico de Mérida in MX. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.552212
+date: 2026-07-10T01:07:48.532358
 url: "/cdr-researcher-census/researchers/radames-trejo-valencia-a5021438/"
 layout: "researcher"
 hiddenInHomeList: true

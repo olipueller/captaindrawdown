@@ -1,7 +1,7 @@
 ---
 title: "Shanshan Hao"
 description: "Shanshan Hao is a Senior Unknown researcher at Qufu Normal University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.744238
+date: 2026-07-10T01:07:48.691037
 url: "/cdr-researcher-census/researchers/shanshan-hao-a5045565/"
 layout: "researcher"
 hiddenInHomeList: true

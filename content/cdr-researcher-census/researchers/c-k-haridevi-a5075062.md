@@ -1,7 +1,7 @@
 ---
 title: "C. K. Haridevi"
 description: "C. K. Haridevi is a Senior Unknown researcher at National Institute of Oceanography in IN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.270354
+date: 2026-07-10T01:07:48.276470
 url: "/cdr-researcher-census/researchers/c-k-haridevi-a5075062/"
 layout: "researcher"
 hiddenInHomeList: true

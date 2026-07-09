@@ -1,7 +1,7 @@
 ---
 title: "Ana Somoza-Tornos"
 description: "Ana Somoza-Tornos is a Mid-career General CDR researcher at Technische Universiteit Delft Faculteit Technische Natuurwetenschappen in NL. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.465974
+date: 2026-07-10T01:07:47.539390
 url: "/cdr-researcher-census/researchers/ana-somoza-tornos-a5086301/"
 layout: "researcher"
 hiddenInHomeList: true

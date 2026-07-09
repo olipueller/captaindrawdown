@@ -1,7 +1,7 @@
 ---
 title: "Bertram Janus"
 description: "Bertram Janus is a Senior Unknown researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.463907
+date: 2026-07-10T01:07:48.451741
 url: "/cdr-researcher-census/researchers/bertram-janus-a5006714/"
 layout: "researcher"
 hiddenInHomeList: true

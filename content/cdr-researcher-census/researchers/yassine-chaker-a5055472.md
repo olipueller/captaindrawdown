@@ -1,7 +1,7 @@
 ---
 title: "Yassine Chaker"
 description: "Yassine Chaker is a Mid-career Unknown researcher at Tissemsilt University in DZ. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.145914
+date: 2026-07-10T01:07:48.165967
 url: "/cdr-researcher-census/researchers/yassine-chaker-a5055472/"
 layout: "researcher"
 hiddenInHomeList: true

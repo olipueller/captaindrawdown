@@ -1,7 +1,7 @@
 ---
 title: "Kevin Jhon Fernández-Andrade"
 description: "Kevin Jhon Fernández-Andrade is a Mid-career Unknown researcher at University of Bío-Bío in CL. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.309014
+date: 2026-07-10T01:07:48.311829
 url: "/cdr-researcher-census/researchers/kevin-jhon-fernandez-andrade-a5070744/"
 layout: "researcher"
 hiddenInHomeList: true

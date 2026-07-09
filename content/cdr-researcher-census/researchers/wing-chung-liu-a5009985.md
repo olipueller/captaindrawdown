@@ -1,7 +1,7 @@
 ---
 title: "Wing Chung Liu"
 description: "Wing Chung Liu is a Senior Unknown researcher at Kyushu University in JP. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.838278
+date: 2026-07-10T01:07:47.874316
 url: "/cdr-researcher-census/researchers/wing-chung-liu-a5009985/"
 layout: "researcher"
 hiddenInHomeList: true

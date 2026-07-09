@@ -1,7 +1,7 @@
 ---
 title: "Debabrata Sahoo"
 description: "Debabrata Sahoo is a Mid-career Unknown researcher at Odisha University of Agriculture and Technology in IN. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.998064
+date: 2026-07-10T01:07:48.916118
 url: "/cdr-researcher-census/researchers/debabrata-sahoo-a5102695/"
 layout: "researcher"
 hiddenInHomeList: true

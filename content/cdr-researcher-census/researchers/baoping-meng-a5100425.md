@@ -1,7 +1,7 @@
 ---
 title: "Baoping Meng"
 description: "Baoping Meng is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.285108
+date: 2026-07-10T01:07:47.367433
 url: "/cdr-researcher-census/researchers/baoping-meng-a5100425/"
 layout: "researcher"
 hiddenInHomeList: true

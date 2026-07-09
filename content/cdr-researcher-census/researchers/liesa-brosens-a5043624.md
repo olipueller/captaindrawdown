@@ -1,7 +1,7 @@
 ---
 title: "Liesa Brosens"
 description: "Liesa Brosens is a Mid-career General CDR researcher at Viterbo University in US. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.547840
+date: 2026-07-10T01:07:48.528061
 url: "/cdr-researcher-census/researchers/liesa-brosens-a5043624/"
 layout: "researcher"
 hiddenInHomeList: true

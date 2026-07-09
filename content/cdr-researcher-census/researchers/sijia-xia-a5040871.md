@@ -1,7 +1,7 @@
 ---
 title: "Sijia Xia"
 description: "Sijia Xia is a Mid-career Unknown researcher at Central China Normal University in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.245907
+date: 2026-07-10T01:07:49.153840
 url: "/cdr-researcher-census/researchers/sijia-xia-a5040871/"
 layout: "researcher"
 hiddenInHomeList: true

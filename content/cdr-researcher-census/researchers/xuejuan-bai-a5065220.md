@@ -1,7 +1,7 @@
 ---
 title: "Xuejuan Bai"
 description: "Xuejuan Bai is a Mid-career Soil Carbon researcher at Hebei Normal University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.500634
+date: 2026-07-10T01:07:47.570348
 url: "/cdr-researcher-census/researchers/xuejuan-bai-a5065220/"
 layout: "researcher"
 hiddenInHomeList: true

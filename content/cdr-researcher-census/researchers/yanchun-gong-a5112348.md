@@ -1,7 +1,7 @@
 ---
 title: "Yanchun Gong"
 description: "Yanchun Gong is a Senior Unknown researcher at PLA Army Engineering University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.808203
+date: 2026-07-10T01:07:48.746197
 url: "/cdr-researcher-census/researchers/yanchun-gong-a5112348/"
 layout: "researcher"
 hiddenInHomeList: true

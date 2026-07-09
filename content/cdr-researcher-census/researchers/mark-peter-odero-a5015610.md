@@ -1,7 +1,7 @@
 ---
 title: "Mark Peter Odero"
 description: "Mark Peter Odero is a Mid-career Biochar researcher at Rift Valley University in ET. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.297414
+date: 2026-07-10T01:07:48.300459
 url: "/cdr-researcher-census/researchers/mark-peter-odero-a5015610/"
 layout: "researcher"
 hiddenInHomeList: true

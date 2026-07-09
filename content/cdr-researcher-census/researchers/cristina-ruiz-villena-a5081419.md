@@ -1,7 +1,7 @@
 ---
 title: "Cristina Ruiz Villena"
 description: "Cristina Ruiz Villena is a Mid-career Unknown researcher at University of Leicester in GB. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.004104
+date: 2026-07-10T01:07:48.921995
 url: "/cdr-researcher-census/researchers/cristina-ruiz-villena-a5081419/"
 layout: "researcher"
 hiddenInHomeList: true

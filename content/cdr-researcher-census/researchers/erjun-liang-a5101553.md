@@ -1,7 +1,7 @@
 ---
 title: "Erjun Liang"
 description: "Erjun Liang is a Senior Unknown researcher at Zhengzhou University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.123820
+date: 2026-07-10T01:07:47.210618
 url: "/cdr-researcher-census/researchers/erjun-liang-a5101553/"
 layout: "researcher"
 hiddenInHomeList: true

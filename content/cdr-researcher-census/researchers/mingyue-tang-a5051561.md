@@ -1,7 +1,7 @@
 ---
 title: "Mingyue Tang"
 description: "Mingyue Tang is a Mid-career Unknown researcher at Qinghai New Energy (China) in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.116430
+date: 2026-07-10T01:07:48.140970
 url: "/cdr-researcher-census/researchers/mingyue-tang-a5051561/"
 layout: "researcher"
 hiddenInHomeList: true

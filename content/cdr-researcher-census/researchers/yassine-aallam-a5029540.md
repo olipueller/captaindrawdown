@@ -1,7 +1,7 @@
 ---
 title: "Yassine Aallam"
 description: "Yassine Aallam is a Mid-career Unknown researcher at Université Mohammed VI Polytechnique in MA. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.654703
+date: 2026-07-10T01:07:48.612700
 url: "/cdr-researcher-census/researchers/yassine-aallam-a5029540/"
 layout: "researcher"
 hiddenInHomeList: true

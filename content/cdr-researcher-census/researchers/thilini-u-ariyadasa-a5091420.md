@@ -1,7 +1,7 @@
 ---
 title: "Thilini U. Ariyadasa"
 description: "Thilini U. Ariyadasa is a Senior Biochar researcher at University of Moratuwa in LK. With 79 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.061058
+date: 2026-07-10T01:07:47.137271
 url: "/cdr-researcher-census/researchers/thilini-u-ariyadasa-a5091420/"
 layout: "researcher"
 hiddenInHomeList: true

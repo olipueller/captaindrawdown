@@ -1,7 +1,7 @@
 ---
 title: "Fady Abd El-malek"
 description: "Fady Abd El-malek is a Mid-career Unknown researcher at Lodz University of Technology in PL. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.930550
+date: 2026-07-10T01:07:47.943532
 url: "/cdr-researcher-census/researchers/fady-abd-el-malek-a5112601/"
 layout: "researcher"
 hiddenInHomeList: true

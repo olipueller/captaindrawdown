@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Karczmarczyk"
 description: "Aleksandra Karczmarczyk is a Mid-career Unknown researcher at University of Warmia and Mazury in Olsztyn in PL. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.821285
+date: 2026-07-10T01:07:47.867363
 url: "/cdr-researcher-census/researchers/aleksandra-karczmarczyk-a5086964/"
 layout: "researcher"
 hiddenInHomeList: true

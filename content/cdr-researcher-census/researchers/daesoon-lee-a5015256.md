@@ -1,7 +1,7 @@
 ---
 title: "Daesoon Lee"
 description: "Daesoon Lee is an Early-career Unknown researcher at Ulsan National Institute of Science and Technology in KR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.010816
+date: 2026-07-10T01:07:48.927929
 url: "/cdr-researcher-census/researchers/daesoon-lee-a5015256/"
 layout: "researcher"
 hiddenInHomeList: true

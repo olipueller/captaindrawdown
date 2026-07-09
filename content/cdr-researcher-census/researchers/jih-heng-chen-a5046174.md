@@ -1,7 +1,7 @@
 ---
 title: "Jih-Heng Chen"
 description: "Jih-Heng Chen is a Mid-career BECCS researcher at Tunghai University in TW. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.468678
+date: 2026-07-10T01:07:47.541514
 url: "/cdr-researcher-census/researchers/jih-heng-chen-a5046174/"
 layout: "researcher"
 hiddenInHomeList: true

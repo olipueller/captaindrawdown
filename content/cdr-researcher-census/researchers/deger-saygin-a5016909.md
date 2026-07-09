@@ -1,7 +1,7 @@
 ---
 title: "Değer Saygin"
 description: "Değer Saygin is a Senior General CDR researcher at Organisation de Coopération et de Développement Economiques in FR. With 42 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.926238
+date: 2026-07-10T01:07:46.940183
 url: "/cdr-researcher-census/researchers/deger-saygin-a5016909/"
 layout: "researcher"
 hiddenInHomeList: true

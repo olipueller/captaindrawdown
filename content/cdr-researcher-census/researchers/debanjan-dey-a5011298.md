@@ -1,7 +1,7 @@
 ---
 title: "Debanjan Dey"
 description: "Debanjan Dey is a Mid-career Unknown researcher at Academy of Scientific and Innovative Research in IN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.280287
+date: 2026-07-10T01:07:48.285897
 url: "/cdr-researcher-census/researchers/debanjan-dey-a5011298/"
 layout: "researcher"
 hiddenInHomeList: true

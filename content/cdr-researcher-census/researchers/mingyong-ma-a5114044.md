@@ -1,7 +1,7 @@
 ---
 title: "Mingyong Ma"
 description: "Mingyong Ma is a Mid-career Unknown researcher at Institute of Plant Protection in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.465694
+date: 2026-07-10T01:07:48.453448
 url: "/cdr-researcher-census/researchers/mingyong-ma-a5114044/"
 layout: "researcher"
 hiddenInHomeList: true

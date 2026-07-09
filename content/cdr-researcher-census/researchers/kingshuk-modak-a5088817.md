@@ -1,7 +1,7 @@
 ---
 title: "Kingshuk Modak"
 description: "Kingshuk Modak is a Mid-career Soil Carbon researcher at Indian Council of Forestry Research and Education in IN. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.749300
+date: 2026-07-10T01:07:48.696128
 url: "/cdr-researcher-census/researchers/kingshuk-modak-a5088817/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nur Sila Gulgec"
 description: "Nur Sila Gulgec is a Mid-career Unknown researcher at Thornton Tomasetti (United States) in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.938078
+date: 2026-07-10T01:07:47.950470
 url: "/cdr-researcher-census/researchers/nur-sila-gulgec-a5085954/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Le Zhang"
 description: "Le Zhang is a Senior Soil Carbon researcher at Central South University in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.484216
+date: 2026-07-10T01:07:47.555941
 url: "/cdr-researcher-census/researchers/le-zhang-a5101770/"
 layout: "researcher"
 hiddenInHomeList: true

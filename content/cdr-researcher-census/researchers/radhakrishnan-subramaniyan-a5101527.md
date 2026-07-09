@@ -1,7 +1,7 @@
 ---
 title: "Radhakrishnan Subramaniyan"
 description: "Radhakrishnan Subramaniyan is a Mid-career Unknown researcher at Narayana Health in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.920234
+date: 2026-07-10T01:07:48.844085
 url: "/cdr-researcher-census/researchers/radhakrishnan-subramaniyan-a5101527/"
 layout: "researcher"
 hiddenInHomeList: true

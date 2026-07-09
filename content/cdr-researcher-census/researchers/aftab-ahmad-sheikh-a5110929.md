@@ -1,7 +1,7 @@
 ---
 title: "Aftab Ahmad Sheikh"
 description: "Aftab Ahmad Sheikh is a Mid-career Soil Carbon researcher at Bayer (United States) in US. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.749483
+date: 2026-07-10T01:07:48.696336
 url: "/cdr-researcher-census/researchers/aftab-ahmad-sheikh-a5110929/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Damien Marie Essono"
 description: "Damien Marie Essono is a Mid-career Soil Carbon researcher at Université de Yaoundé I in CM. With 8 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.989590
+date: 2026-07-10T01:07:48.908619
 url: "/cdr-researcher-census/researchers/damien-marie-essono-a5110651/"
 layout: "researcher"
 hiddenInHomeList: true

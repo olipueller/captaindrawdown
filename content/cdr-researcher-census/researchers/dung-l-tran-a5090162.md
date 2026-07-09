@@ -1,7 +1,7 @@
 ---
 title: "Dung L. Tran"
 description: "Dung L. Tran is a Mid-career Unknown researcher. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.893423
+date: 2026-07-10T01:07:48.819567
 url: "/cdr-researcher-census/researchers/dung-l-tran-a5090162/"
 layout: "researcher"
 hiddenInHomeList: true

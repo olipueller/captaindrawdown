@@ -1,7 +1,7 @@
 ---
 title: "Yujie Huo"
 description: "Yujie Huo is a Senior Soil Carbon researcher at University of Technology Malaysia in MY. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.231807
+date: 2026-07-10T01:07:49.140828
 url: "/cdr-researcher-census/researchers/yujie-huo-a5020641/"
 layout: "researcher"
 hiddenInHomeList: true

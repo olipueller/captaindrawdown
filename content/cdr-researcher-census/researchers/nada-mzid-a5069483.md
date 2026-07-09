@@ -1,7 +1,7 @@
 ---
 title: "Nada Mzid"
 description: "Nada Mzid is a Mid-career Soil Carbon researcher at Federico II University Hospital in IT. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.746775
+date: 2026-07-10T01:07:47.798667
 url: "/cdr-researcher-census/researchers/nada-mzid-a5069483/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yi Huang"
 description: "Yi Huang is a Mid-career Unknown researcher at Chengdu University of Technology in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.251571
+date: 2026-07-10T01:07:48.259587
 url: "/cdr-researcher-census/researchers/yi-huang-a5112474/"
 layout: "researcher"
 hiddenInHomeList: true

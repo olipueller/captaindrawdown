@@ -1,7 +1,7 @@
 ---
 title: "Yongfeng Ren"
 description: "Yongfeng Ren is a Mid-career Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.873804
+date: 2026-07-10T01:07:48.801681
 url: "/cdr-researcher-census/researchers/yongfeng-ren-a5019674/"
 layout: "researcher"
 hiddenInHomeList: true

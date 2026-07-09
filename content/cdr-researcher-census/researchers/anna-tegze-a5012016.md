@@ -1,7 +1,7 @@
 ---
 title: "Anna Tegze"
 description: "Anna Tegze is a Mid-career Unknown researcher at HUN-REN Centre for Energy Research in HU. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.458027
+date: 2026-07-10T01:07:48.446360
 url: "/cdr-researcher-census/researchers/anna-tegze-a5012016/"
 layout: "researcher"
 hiddenInHomeList: true

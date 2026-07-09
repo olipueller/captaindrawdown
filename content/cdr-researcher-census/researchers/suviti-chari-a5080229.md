@@ -1,7 +1,7 @@
 ---
 title: "Suviti Chari"
 description: "Suviti Chari is a Mid-career General CDR researcher. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.464100
+date: 2026-07-10T01:07:48.451920
 url: "/cdr-researcher-census/researchers/suviti-chari-a5080229/"
 layout: "researcher"
 hiddenInHomeList: true

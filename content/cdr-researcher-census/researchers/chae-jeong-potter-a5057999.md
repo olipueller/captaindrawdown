@@ -1,7 +1,7 @@
 ---
 title: "Chae Jeong-Potter"
 description: "Chae Jeong-Potter is a Mid-career Unknown researcher at National Laboratory of the Rockies in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.381310
+date: 2026-07-10T01:07:47.462918
 url: "/cdr-researcher-census/researchers/chae-jeong-potter-a5057999/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tanmoy Dey"
 description: "Tanmoy Dey is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.114508
+date: 2026-07-10T01:07:48.139496
 url: "/cdr-researcher-census/researchers/tanmoy-dey-a5053618/"
 layout: "researcher"
 hiddenInHomeList: true

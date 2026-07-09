@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Badrelzaman"
 description: "Mohamed Badrelzaman is a Mid-career Biochar researcher at American University of Sharjah in AE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.184554
+date: 2026-07-10T01:07:47.273491
 url: "/cdr-researcher-census/researchers/mohamed-badrelzaman-a5029462/"
 layout: "researcher"
 hiddenInHomeList: true

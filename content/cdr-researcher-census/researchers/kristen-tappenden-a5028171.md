@@ -1,7 +1,7 @@
 ---
 title: "Kristen Tappenden"
 description: "Kristen Tappenden is a Senior Unknown researcher at United States Department of Transportation in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.068670
+date: 2026-07-10T01:07:48.979921
 url: "/cdr-researcher-census/researchers/kristen-tappenden-a5028171/"
 layout: "researcher"
 hiddenInHomeList: true

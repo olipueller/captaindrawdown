@@ -1,7 +1,7 @@
 ---
 title: "Zeyang Lu"
 description: "Zeyang Lu is a Mid-career Unknown researcher at Xiamen University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.091081
+date: 2026-07-10T01:07:48.091209
 url: "/cdr-researcher-census/researchers/zeyang-lu-a5042216/"
 layout: "researcher"
 hiddenInHomeList: true

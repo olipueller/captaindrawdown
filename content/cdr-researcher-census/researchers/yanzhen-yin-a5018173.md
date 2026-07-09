@@ -1,7 +1,7 @@
 ---
 title: "Yanzhen Yin"
 description: "Yanzhen Yin is a Senior Biochar researcher at Qinzhou University in CN. With 82 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.248320
+date: 2026-07-10T01:07:47.333292
 url: "/cdr-researcher-census/researchers/yanzhen-yin-a5018173/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "M Sander"
 description: "M Sander is a Senior Unknown researcher at Technical University of Denmark in DK. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.785337
+date: 2026-07-10T01:07:48.727281
 url: "/cdr-researcher-census/researchers/m-sander-a5112201/"
 layout: "researcher"
 hiddenInHomeList: true

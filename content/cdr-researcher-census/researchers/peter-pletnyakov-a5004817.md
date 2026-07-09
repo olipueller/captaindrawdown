@@ -1,7 +1,7 @@
 ---
 title: "Peter Pletnyakov"
 description: "Peter Pletnyakov is a Mid-career Unknown researcher at AgResearch in NZ. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.573211
+date: 2026-07-10T01:07:47.636851
 url: "/cdr-researcher-census/researchers/peter-pletnyakov-a5004817/"
 layout: "researcher"
 hiddenInHomeList: true

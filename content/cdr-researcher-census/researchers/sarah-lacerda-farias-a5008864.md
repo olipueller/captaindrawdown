@@ -1,7 +1,7 @@
 ---
 title: "Sarah Lacerda Farias"
 description: "Sarah Lacerda Farias is a Mid-career Unknown researcher at Universidade Federal de Mato Grosso do Sul in BR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.084872
+date: 2026-07-10T01:07:48.995063
 url: "/cdr-researcher-census/researchers/sarah-lacerda-farias-a5008864/"
 layout: "researcher"
 hiddenInHomeList: true

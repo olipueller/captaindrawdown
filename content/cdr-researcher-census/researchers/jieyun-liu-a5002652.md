@@ -1,7 +1,7 @@
 ---
 title: "Jieyun Liu"
 description: "Jieyun Liu is a Mid-career Soil Carbon researcher. With 60 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.212777
+date: 2026-07-10T01:07:47.300032
 url: "/cdr-researcher-census/researchers/jieyun-liu-a5002652/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Szklo"
 description: "Alexandre Szklo is an Eminent General CDR researcher at Federal University of Rio de Janeiro in BR. With 293 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.919183
+date: 2026-07-10T01:07:46.926243
 url: "/cdr-researcher-census/researchers/alexandre-szklo-a5043645/"
 layout: "researcher"
 hiddenInHomeList: true

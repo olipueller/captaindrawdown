@@ -1,7 +1,7 @@
 ---
 title: "Huiwei Zhao"
 description: "Huiwei Zhao is a Mid-career Soil Carbon researcher at Hebei Science and Technology Department in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.297621
+date: 2026-07-10T01:07:48.300640
 url: "/cdr-researcher-census/researchers/huiwei-zhao-a5101184/"
 layout: "researcher"
 hiddenInHomeList: true

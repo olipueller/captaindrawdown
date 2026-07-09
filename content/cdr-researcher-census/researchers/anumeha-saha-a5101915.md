@@ -1,7 +1,7 @@
 ---
 title: "Anumeha Saha"
 description: "Anumeha Saha is a Mid-career Unknown researcher at Indian Institute of Technology Kharagpur in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.767517
+date: 2026-07-10T01:07:47.817799
 url: "/cdr-researcher-census/researchers/anumeha-saha-a5101915/"
 layout: "researcher"
 hiddenInHomeList: true

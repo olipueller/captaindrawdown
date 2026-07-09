@@ -1,7 +1,7 @@
 ---
 title: "Guofeng Zhu"
 description: "Guofeng Zhu is a Senior Soil Carbon researcher at Soochow University in CN. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.632143
+date: 2026-07-10T01:07:48.591678
 url: "/cdr-researcher-census/researchers/guofeng-zhu-a5102004/"
 layout: "researcher"
 hiddenInHomeList: true

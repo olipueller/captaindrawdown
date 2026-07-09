@@ -1,7 +1,7 @@
 ---
 title: "Xuewen Ma"
 description: "Xuewen Ma is a Senior Biochar researcher at Karamay Central Hospital of Xinjiang in CN. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.734323
+date: 2026-07-10T01:07:47.786357
 url: "/cdr-researcher-census/researchers/xuewen-ma-a5081711/"
 layout: "researcher"
 hiddenInHomeList: true

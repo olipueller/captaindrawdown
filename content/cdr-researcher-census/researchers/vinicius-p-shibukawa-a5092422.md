@@ -1,7 +1,7 @@
 ---
 title: "Vinícius P. Shibukawa"
 description: "Vinícius P. Shibukawa is a Mid-career Biochar researcher at Universidade de São Paulo in BR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.835864
+date: 2026-07-10T01:07:48.768901
 url: "/cdr-researcher-census/researchers/vinicius-p-shibukawa-a5092422/"
 layout: "researcher"
 hiddenInHomeList: true

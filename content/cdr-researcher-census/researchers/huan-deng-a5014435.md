@@ -1,7 +1,7 @@
 ---
 title: "Huan Deng"
 description: "Huan Deng is a Senior Biochar researcher at Nanjing Normal University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.605410
+date: 2026-07-10T01:07:48.568234
 url: "/cdr-researcher-census/researchers/huan-deng-a5014435/"
 layout: "researcher"
 hiddenInHomeList: true

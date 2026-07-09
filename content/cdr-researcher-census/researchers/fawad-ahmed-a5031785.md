@@ -1,7 +1,7 @@
 ---
 title: "Fawad Ahmed"
 description: "Fawad Ahmed is a Mid-career Unknown researcher at Peking University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.419779
+date: 2026-07-10T01:07:48.410526
 url: "/cdr-researcher-census/researchers/fawad-ahmed-a5031785/"
 layout: "researcher"
 hiddenInHomeList: true

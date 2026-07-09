@@ -1,7 +1,7 @@
 ---
 title: "Alberto Canarini"
 description: "Alberto Canarini is a Senior Soil Carbon researcher at University of Bologna in IT. With 100 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.993963
+date: 2026-07-10T01:07:47.051566
 url: "/cdr-researcher-census/researchers/alberto-canarini-a5039935/"
 layout: "researcher"
 hiddenInHomeList: true

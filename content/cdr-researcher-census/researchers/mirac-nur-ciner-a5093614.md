@@ -1,7 +1,7 @@
 ---
 title: "Miraç Nur Ciner"
 description: "Miraç Nur Ciner is a Mid-career Biochar researcher at Istanbul University-Cerrahpaşa in TR. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.184714
+date: 2026-07-10T01:07:49.099103
 url: "/cdr-researcher-census/researchers/mirac-nur-ciner-a5093614/"
 layout: "researcher"
 hiddenInHomeList: true

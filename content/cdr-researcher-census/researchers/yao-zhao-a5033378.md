@@ -1,7 +1,7 @@
 ---
 title: "Yao Zhao"
 description: "Yao Zhao is a Senior Biochar researcher at Chinese Research Academy of Environmental Sciences in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.716455
+date: 2026-07-10T01:07:47.770165
 url: "/cdr-researcher-census/researchers/yao-zhao-a5033378/"
 layout: "researcher"
 hiddenInHomeList: true

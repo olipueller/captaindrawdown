@@ -1,7 +1,7 @@
 ---
 title: "Meitao Tan"
 description: "Meitao Tan is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.737950
+date: 2026-07-10T01:07:48.685737
 url: "/cdr-researcher-census/researchers/meitao-tan-a5058892/"
 layout: "researcher"
 hiddenInHomeList: true

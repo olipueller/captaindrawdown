@@ -1,7 +1,7 @@
 ---
 title: "Stuart Dolling"
 description: "Stuart Dolling is a Senior Unknown researcher at Salford Royal NHS Foundation Trust in GB. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.010435
+date: 2026-07-10T01:07:48.927569
 url: "/cdr-researcher-census/researchers/stuart-dolling-a5052026/"
 layout: "researcher"
 hiddenInHomeList: true

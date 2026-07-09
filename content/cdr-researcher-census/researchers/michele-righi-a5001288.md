@@ -1,7 +1,7 @@
 ---
 title: "Michele Righi"
 description: "Michele Righi is a Senior Unknown researcher at Scuola Superiore Sant'Anna in IT. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.723834
+date: 2026-07-10T01:07:47.776476
 url: "/cdr-researcher-census/researchers/michele-righi-a5001288/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "René Sanjuan‐Galindo"
 description: "René Sanjuan‐Galindo is a Senior Unknown researcher at Instituto Tecnológico de León in MX. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.104383
+date: 2026-07-10T01:07:49.012401
 url: "/cdr-researcher-census/researchers/rene-sanjuangalindo-a5088666/"
 layout: "researcher"
 hiddenInHomeList: true

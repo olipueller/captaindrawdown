@@ -1,7 +1,7 @@
 ---
 title: "Nabil Tabaja"
 description: "Nabil Tabaja is a Mid-career Unknown researcher at Centre National de la Recherche Scientifique in FR. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.173634
+date: 2026-07-10T01:07:49.063419
 url: "/cdr-researcher-census/researchers/nabil-tabaja-a5071987/"
 layout: "researcher"
 hiddenInHomeList: true

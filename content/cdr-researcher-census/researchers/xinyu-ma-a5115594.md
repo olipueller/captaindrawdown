@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Ma"
 description: "Xinyu Ma is a Senior Soil Carbon researcher at Dalian University of Technology in CN. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.653972
+date: 2026-07-10T01:07:47.711538
 url: "/cdr-researcher-census/researchers/xinyu-ma-a5115594/"
 layout: "researcher"
 hiddenInHomeList: true

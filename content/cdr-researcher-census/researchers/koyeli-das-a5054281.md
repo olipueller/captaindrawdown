@@ -1,7 +1,7 @@
 ---
 title: "Koyeli Das"
 description: "Koyeli Das is a Mid-career Biochar researcher at North Bengal University in IN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.704704
+date: 2026-07-10T01:07:47.758989
 url: "/cdr-researcher-census/researchers/koyeli-das-a5054281/"
 layout: "researcher"
 hiddenInHomeList: true

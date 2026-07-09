@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Haris Ali"
 description: "Muhammad Haris Ali is a Senior General CDR researcher at Wageningen University & Research in NL. With 33 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.656288
+date: 2026-07-10T01:07:48.614081
 url: "/cdr-researcher-census/researchers/muhammad-haris-ali-a5101626/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Saqr Munassar"
 description: "Saqr Munassar is a Mid-career General CDR researcher at Max Planck Institute for Biogeochemistry in DE. With 46 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.938866
+date: 2026-07-10T01:07:47.951298
 url: "/cdr-researcher-census/researchers/saqr-munassar-a5021692/"
 layout: "researcher"
 hiddenInHomeList: true

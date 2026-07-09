@@ -1,7 +1,7 @@
 ---
 title: "Homa Bagherian"
 description: "Homa Bagherian is a Mid-career Unknown researcher at Ferdowsi University of Mashhad in IR. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.669407
+date: 2026-07-10T01:07:47.726628
 url: "/cdr-researcher-census/researchers/homa-bagherian-a5079286/"
 layout: "researcher"
 hiddenInHomeList: true

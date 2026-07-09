@@ -1,7 +1,7 @@
 ---
 title: "Yohanna Haile Fseha"
 description: "Yohanna Haile Fseha is a Mid-career Biochar researcher at Khalifa University of Science and Technology in AE. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.362493
+date: 2026-07-10T01:07:47.444428
 url: "/cdr-researcher-census/researchers/yohanna-haile-fseha-a5061480/"
 layout: "researcher"
 hiddenInHomeList: true

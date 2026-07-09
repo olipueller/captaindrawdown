@@ -1,7 +1,7 @@
 ---
 title: "Scott Dowd"
 description: "Scott Dowd is a Mid-career Unknown researcher at Boston Biomedical Research Institute in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.073601
+date: 2026-07-10T01:07:48.984670
 url: "/cdr-researcher-census/researchers/scott-dowd-a5029896/"
 layout: "researcher"
 hiddenInHomeList: true

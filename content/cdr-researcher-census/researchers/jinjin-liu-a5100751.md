@@ -1,7 +1,7 @@
 ---
 title: "Jinjin Liu"
 description: "Jinjin Liu is a Mid-career Unknown researcher at Wenzhou Medical University in CN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.346655
+date: 2026-07-10T01:07:48.345359
 url: "/cdr-researcher-census/researchers/jinjin-liu-a5100751/"
 layout: "researcher"
 hiddenInHomeList: true

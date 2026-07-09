@@ -1,7 +1,7 @@
 ---
 title: "Norman Julius Steinert"
 description: "Norman Julius Steinert is a Mid-career General CDR researcher at CICERO Center for International Climate Research in NO. With 129 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.380287
+date: 2026-07-10T01:07:47.461959
 url: "/cdr-researcher-census/researchers/norman-julius-steinert-a5029222/"
 layout: "researcher"
 hiddenInHomeList: true

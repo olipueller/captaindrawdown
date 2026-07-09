@@ -1,7 +1,7 @@
 ---
 title: "Najib El Goumi"
 description: "Najib El Goumi is a Senior Unknown researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.211157
+date: 2026-07-10T01:07:49.123270
 url: "/cdr-researcher-census/researchers/najib-el-goumi-a5009358/"
 layout: "researcher"
 hiddenInHomeList: true

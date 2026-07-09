@@ -1,7 +1,7 @@
 ---
 title: "Nandana Chakinala"
 description: "Nandana Chakinala is a Mid-career Biochar researcher at University of Leeds in GB. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.663544
+date: 2026-07-10T01:07:47.720893
 url: "/cdr-researcher-census/researchers/nandana-chakinala-a5003719/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hong‐Tu Zhang"
 description: "Hong‐Tu Zhang is a Senior Soil Carbon researcher at Peking University in CN. With 72 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.203913
+date: 2026-07-10T01:07:47.292379
 url: "/cdr-researcher-census/researchers/hongtu-zhang-a5001912/"
 layout: "researcher"
 hiddenInHomeList: true

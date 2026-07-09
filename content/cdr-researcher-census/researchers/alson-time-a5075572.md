@@ -1,7 +1,7 @@
 ---
 title: "Alson Time"
 description: "Alson Time is a Mid-career Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.155074
+date: 2026-07-10T01:07:48.174374
 url: "/cdr-researcher-census/researchers/alson-time-a5075572/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maqsood Ul Hussan"
 description: "Maqsood Ul Hussan is a Mid-career Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.046685
+date: 2026-07-10T01:07:48.960151
 url: "/cdr-researcher-census/researchers/maqsood-ul-hussan-a5082605/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zunaithur Rahman"
 description: "Zunaithur Rahman is a Mid-career Unknown researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.245096
+date: 2026-07-10T01:07:48.253570
 url: "/cdr-researcher-census/researchers/zunaithur-rahman-a5026260/"
 layout: "researcher"
 hiddenInHomeList: true

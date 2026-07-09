@@ -1,7 +1,7 @@
 ---
 title: "Innocent Muchingami"
 description: "Innocent Muchingami is a Mid-career Unknown researcher at University of Namibia in NA. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.609809
+date: 2026-07-10T01:07:48.571750
 url: "/cdr-researcher-census/researchers/innocent-muchingami-a5014383/"
 layout: "researcher"
 hiddenInHomeList: true

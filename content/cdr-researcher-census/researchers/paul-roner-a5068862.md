@@ -1,7 +1,7 @@
 ---
 title: "Paul Rößner"
 description: "Paul Rößner is a Mid-career General CDR researcher at University of Stuttgart in DE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.905791
+date: 2026-07-10T01:07:48.831281
 url: "/cdr-researcher-census/researchers/paul-roner-a5068862/"
 layout: "researcher"
 hiddenInHomeList: true

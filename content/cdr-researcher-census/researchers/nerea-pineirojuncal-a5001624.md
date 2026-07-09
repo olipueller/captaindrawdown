@@ -1,7 +1,7 @@
 ---
 title: "Nerea Piñeiro‐Juncal"
 description: "Nerea Piñeiro‐Juncal is a Mid-career Soil Carbon researcher at Centre d'Estudis Avançats de Blanes in ES. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.923732
+date: 2026-07-10T01:07:47.937260
 url: "/cdr-researcher-census/researchers/nerea-pineirojuncal-a5001624/"
 layout: "researcher"
 hiddenInHomeList: true

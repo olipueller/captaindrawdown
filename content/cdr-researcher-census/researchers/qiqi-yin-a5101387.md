@@ -1,7 +1,7 @@
 ---
 title: "Qiqi Yin"
 description: "Qiqi Yin is a Mid-career Soil Carbon researcher at Minzu University of China in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.727005
+date: 2026-07-10T01:07:48.676501
 url: "/cdr-researcher-census/researchers/qiqi-yin-a5101387/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zineb Bencheqroun"
 description: "Zineb Bencheqroun is a Mid-career Unknown researcher at Sidi Mohamed Ben Abdellah University in MA. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.882762
+date: 2026-07-10T01:07:48.810116
 url: "/cdr-researcher-census/researchers/zineb-bencheqroun-a5023479/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Francesca Gallo"
 description: "Francesca Gallo is a Mid-career Unknown researcher at Langley Research Center in US. With 80 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.448328
+date: 2026-07-10T01:07:47.524306
 url: "/cdr-researcher-census/researchers/francesca-gallo-a5060638/"
 layout: "researcher"
 hiddenInHomeList: true

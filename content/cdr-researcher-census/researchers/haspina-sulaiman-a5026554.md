@@ -1,7 +1,7 @@
 ---
 title: "Haspina Sulaiman"
 description: "Haspina Sulaiman is an Early-career Biochar researcher at National University of Malaysia in MY. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.564744
+date: 2026-07-10T01:07:47.628389
 url: "/cdr-researcher-census/researchers/haspina-sulaiman-a5026554/"
 layout: "researcher"
 hiddenInHomeList: true

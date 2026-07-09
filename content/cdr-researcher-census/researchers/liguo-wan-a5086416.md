@@ -1,7 +1,7 @@
 ---
 title: "Liguo Wan"
 description: "Liguo Wan is a Mid-career Unknown researcher at Tohoku University in JP. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.086373
+date: 2026-07-10T01:07:48.996434
 url: "/cdr-researcher-census/researchers/liguo-wan-a5086416/"
 layout: "researcher"
 hiddenInHomeList: true

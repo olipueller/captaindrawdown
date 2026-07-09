@@ -1,7 +1,7 @@
 ---
 title: "Junseop Oh"
 description: "Junseop Oh is a Mid-career Unknown researcher at Korea University in KR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.279788
+date: 2026-07-10T01:07:48.285367
 url: "/cdr-researcher-census/researchers/junseop-oh-a5048756/"
 layout: "researcher"
 hiddenInHomeList: true

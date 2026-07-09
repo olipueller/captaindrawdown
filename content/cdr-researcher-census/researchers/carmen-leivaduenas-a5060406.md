@@ -1,7 +1,7 @@
 ---
 title: "Carmen Leiva‐Dueñas"
 description: "Carmen Leiva‐Dueñas is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.755834
+date: 2026-07-10T01:07:47.806161
 url: "/cdr-researcher-census/researchers/carmen-leivaduenas-a5060406/"
 layout: "researcher"
 hiddenInHomeList: true

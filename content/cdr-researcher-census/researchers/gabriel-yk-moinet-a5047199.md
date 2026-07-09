@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Y.K. Moinet"
 description: "Gabriel Y.K. Moinet is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.258956
+date: 2026-07-10T01:07:47.342974
 url: "/cdr-researcher-census/researchers/gabriel-yk-moinet-a5047199/"
 layout: "researcher"
 hiddenInHomeList: true

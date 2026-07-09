@@ -1,7 +1,7 @@
 ---
 title: "Ying Han"
 description: "Ying Han is a Senior Biochar researcher at Institute of Vegetables and Flowers in CN. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.716359
+date: 2026-07-10T01:07:47.770077
 url: "/cdr-researcher-census/researchers/ying-han-a5101518/"
 layout: "researcher"
 hiddenInHomeList: true

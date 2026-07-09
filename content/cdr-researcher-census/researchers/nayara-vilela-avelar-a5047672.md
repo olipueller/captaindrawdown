@@ -1,7 +1,7 @@
 ---
 title: "Nayara Vilela Avelar"
 description: "Nayara Vilela Avelar is a Mid-career Unknown researcher at Universidade Federal de Viçosa in BR. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.163364
+date: 2026-07-10T01:07:49.054237
 url: "/cdr-researcher-census/researchers/nayara-vilela-avelar-a5047672/"
 layout: "researcher"
 hiddenInHomeList: true

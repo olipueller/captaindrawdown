@@ -1,7 +1,7 @@
 ---
 title: "Guocui Li"
 description: "Guocui Li is a Senior Soil Carbon researcher at University of Science and Technology Beijing in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.227168
+date: 2026-07-10T01:07:49.136801
 url: "/cdr-researcher-census/researchers/guocui-li-a5050218/"
 layout: "researcher"
 hiddenInHomeList: true

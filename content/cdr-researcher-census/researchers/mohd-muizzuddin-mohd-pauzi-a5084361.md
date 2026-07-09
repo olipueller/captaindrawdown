@@ -1,7 +1,7 @@
 ---
 title: "Mohd Mu’izzuddin Mohd Pauzi"
 description: "Mohd Mu’izzuddin Mohd Pauzi is an Early-career Unknown researcher at Universiti Teknologi Petronas in MY. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.222569
+date: 2026-07-10T01:07:49.132807
 url: "/cdr-researcher-census/researchers/mohd-muizzuddin-mohd-pauzi-a5084361/"
 layout: "researcher"
 hiddenInHomeList: true

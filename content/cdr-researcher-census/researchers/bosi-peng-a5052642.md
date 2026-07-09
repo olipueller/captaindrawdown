@@ -1,7 +1,7 @@
 ---
 title: "Bosi Peng"
 description: "Bosi Peng is a Mid-career General CDR researcher at Northwestern University in US. With 45 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.998461
+date: 2026-07-10T01:07:47.058414
 url: "/cdr-researcher-census/researchers/bosi-peng-a5052642/"
 layout: "researcher"
 hiddenInHomeList: true

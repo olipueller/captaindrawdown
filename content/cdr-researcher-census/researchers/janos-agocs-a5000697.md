@@ -1,7 +1,7 @@
 ---
 title: "Janos Agocs"
 description: "Janos Agocs is a Senior Unknown researcher. With 118 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.946368
+date: 2026-07-10T01:07:47.958302
 url: "/cdr-researcher-census/researchers/janos-agocs-a5000697/"
 layout: "researcher"
 hiddenInHomeList: true

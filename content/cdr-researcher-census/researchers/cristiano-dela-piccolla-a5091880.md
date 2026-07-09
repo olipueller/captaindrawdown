@@ -1,7 +1,7 @@
 ---
 title: "Cristiano Dela Piccolla"
 description: "Cristiano Dela Piccolla is a Senior Soil Carbon researcher at Universidade de São Paulo in BR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.814184
+date: 2026-07-10T01:07:48.751026
 url: "/cdr-researcher-census/researchers/cristiano-dela-piccolla-a5091880/"
 layout: "researcher"
 hiddenInHomeList: true

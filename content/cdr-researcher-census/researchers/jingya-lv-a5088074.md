@@ -1,7 +1,7 @@
 ---
 title: "Jingya Lv"
 description: "Jingya Lv is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.120742
+date: 2026-07-10T01:07:49.026419
 url: "/cdr-researcher-census/researchers/jingya-lv-a5088074/"
 layout: "researcher"
 hiddenInHomeList: true

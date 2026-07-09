@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Wen"
 description: "Jiahui Wen is a Mid-career Soil Carbon researcher at Shenyang Medical College in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.049839
+date: 2026-07-10T01:07:48.055062
 url: "/cdr-researcher-census/researchers/jiahui-wen-a5031034/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marja Salo"
 description: "Marja Salo is a Mid-career Unknown researcher at VTT Technical Research Centre of Finland in FI. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.895916
+date: 2026-07-10T01:07:47.910961
 url: "/cdr-researcher-census/researchers/marja-salo-a5021900/"
 layout: "researcher"
 hiddenInHomeList: true

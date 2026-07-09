@@ -1,7 +1,7 @@
 ---
 title: "Jindong Kang"
 description: "Jindong Kang is a Mid-career Unknown researcher at Stony Brook School in US. With 15 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.042998
+date: 2026-07-10T01:07:48.048589
 url: "/cdr-researcher-census/researchers/jindong-kang-a5076281/"
 layout: "researcher"
 hiddenInHomeList: true

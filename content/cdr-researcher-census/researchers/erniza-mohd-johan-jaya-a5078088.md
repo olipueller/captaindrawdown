@@ -1,7 +1,7 @@
 ---
 title: "Erniza Mohd Johan Jaya"
 description: "Erniza Mohd Johan Jaya is an Early-career Biochar researcher at Universiti Sains Malaysia in MY. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.845880
+date: 2026-07-10T01:07:48.777288
 url: "/cdr-researcher-census/researchers/erniza-mohd-johan-jaya-a5078088/"
 layout: "researcher"
 hiddenInHomeList: true

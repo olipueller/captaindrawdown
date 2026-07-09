@@ -1,7 +1,7 @@
 ---
 title: "Matthew M. Yung"
 description: "Matthew M. Yung is a Senior General CDR researcher at National Renewable Energy Laboratory in US. With 84 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.002702
+date: 2026-07-10T01:07:47.063075
 url: "/cdr-researcher-census/researchers/matthew-m-yung-a5009505/"
 layout: "researcher"
 hiddenInHomeList: true

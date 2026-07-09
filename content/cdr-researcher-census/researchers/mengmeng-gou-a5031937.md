@@ -1,7 +1,7 @@
 ---
 title: "Mengmeng Gou"
 description: "Mengmeng Gou is a Mid-career Soil Carbon researcher at Harbin University of Science and Technology in CN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.294707
+date: 2026-07-10T01:07:47.376926
 url: "/cdr-researcher-census/researchers/mengmeng-gou-a5031937/"
 layout: "researcher"
 hiddenInHomeList: true

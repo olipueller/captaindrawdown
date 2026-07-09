@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Abdelwahab Fathy"
 description: "Mahmoud Abdelwahab Fathy is a Mid-career Unknown researcher at Ain Shams University in EG. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.968703
+date: 2026-07-10T01:07:47.979297
 url: "/cdr-researcher-census/researchers/mahmoud-abdelwahab-fathy-a5109738/"
 layout: "researcher"
 hiddenInHomeList: true

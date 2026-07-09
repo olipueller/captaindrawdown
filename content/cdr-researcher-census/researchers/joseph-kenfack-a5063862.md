@@ -1,7 +1,7 @@
 ---
 title: "Joseph Kenfack"
 description: "Joseph Kenfack is a Senior General CDR researcher at University of Yaounde I, Polytechnic in CM. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.430440
+date: 2026-07-10T01:07:47.508244
 url: "/cdr-researcher-census/researchers/joseph-kenfack-a5063862/"
 layout: "researcher"
 hiddenInHomeList: true

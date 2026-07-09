@@ -1,7 +1,7 @@
 ---
 title: "Jong Hyeak Choe"
 description: "Jong Hyeak Choe is a Senior General CDR researcher at Seoul Women's University in KR. With 46 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.144087
+date: 2026-07-10T01:07:47.232969
 url: "/cdr-researcher-census/researchers/jong-hyeak-choe-a5047736/"
 layout: "researcher"
 hiddenInHomeList: true

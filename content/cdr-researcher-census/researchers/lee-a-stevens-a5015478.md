@@ -1,7 +1,7 @@
 ---
 title: "Lee A. Stevens"
 description: "Lee A. Stevens is a Senior Biochar researcher at University of Nottingham in GB. With 95 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.993670
+date: 2026-07-10T01:07:47.051115
 url: "/cdr-researcher-census/researchers/lee-a-stevens-a5015478/"
 layout: "researcher"
 hiddenInHomeList: true

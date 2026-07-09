@@ -1,7 +1,7 @@
 ---
 title: "Jaroslav Moško"
 description: "Jaroslav Moško is a Mid-career Biochar researcher at University of Chemistry and Technology, Prague in CZ. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.462639
+date: 2026-07-10T01:07:47.536665
 url: "/cdr-researcher-census/researchers/jaroslav-mosko-a5032070/"
 layout: "researcher"
 hiddenInHomeList: true

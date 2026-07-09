@@ -1,7 +1,7 @@
 ---
 title: "J. Alcántara"
 description: "J. Alcántara is a Senior Biochar researcher at CENIM/CSIC in ES. With 23 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.182741
+date: 2026-07-10T01:07:47.271516
 url: "/cdr-researcher-census/researchers/j-alcantara-a5025243/"
 layout: "researcher"
 hiddenInHomeList: true

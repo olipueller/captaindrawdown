@@ -1,7 +1,7 @@
 ---
 title: "Matelele Lehlogonolo Abner"
 description: "Matelele Lehlogonolo Abner is a Senior Soil Carbon researcher at Food & Nutrition in NL. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.960768
+date: 2026-07-10T01:07:48.881975
 url: "/cdr-researcher-census/researchers/matelele-lehlogonolo-abner-a5072097/"
 layout: "researcher"
 hiddenInHomeList: true

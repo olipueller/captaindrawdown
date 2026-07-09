@@ -1,7 +1,7 @@
 ---
 title: "Bilal Rashid"
 description: "Bilal Rashid is a Senior Biochar researcher at BP (United Kingdom) in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.174947
+date: 2026-07-10T01:07:48.191225
 url: "/cdr-researcher-census/researchers/bilal-rashid-a5072662/"
 layout: "researcher"
 hiddenInHomeList: true

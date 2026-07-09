@@ -1,7 +1,7 @@
 ---
 title: "Kaleem Mehmood"
 description: "Kaleem Mehmood is a Senior General CDR researcher at University of Swat in PK. With 47 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.243032
+date: 2026-07-10T01:07:47.329075
 url: "/cdr-researcher-census/researchers/kaleem-mehmood-a5008655/"
 layout: "researcher"
 hiddenInHomeList: true

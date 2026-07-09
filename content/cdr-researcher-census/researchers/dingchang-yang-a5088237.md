@@ -1,7 +1,7 @@
 ---
 title: "Dingchang Yang"
 description: "Dingchang Yang is a Mid-career Unknown researcher at Imperial College London in GB. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.020692
+date: 2026-07-10T01:07:48.936628
 url: "/cdr-researcher-census/researchers/dingchang-yang-a5088237/"
 layout: "researcher"
 hiddenInHomeList: true

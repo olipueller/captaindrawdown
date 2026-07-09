@@ -1,7 +1,7 @@
 ---
 title: "John McGowen"
 description: "John McGowen is a Senior General CDR researcher at Arizona State University in US. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.428485
+date: 2026-07-10T01:07:47.506518
 url: "/cdr-researcher-census/researchers/john-mcgowen-a5089794/"
 layout: "researcher"
 hiddenInHomeList: true

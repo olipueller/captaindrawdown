@@ -1,7 +1,7 @@
 ---
 title: "Andrés Acosta Chaparro"
 description: "Andrés Acosta Chaparro is a Mid-career Ocean CDR researcher at José Benito Vives de Andréis Marine and Coastal Research Institute in CO. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.375301
+date: 2026-07-10T01:07:48.371610
 url: "/cdr-researcher-census/researchers/andres-acosta-chaparro-a5004319/"
 layout: "researcher"
 hiddenInHomeList: true

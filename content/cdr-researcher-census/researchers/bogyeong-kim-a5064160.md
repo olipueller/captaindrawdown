@@ -1,7 +1,7 @@
 ---
 title: "Bogyeong Kim"
 description: "Bogyeong Kim is an Early-career Unknown researcher at Pusan National University in KR. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.254588
+date: 2026-07-10T01:07:49.161500
 url: "/cdr-researcher-census/researchers/bogyeong-kim-a5064160/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xinming Ding"
 description: "Xinming Ding is a Mid-career Soil Carbon researcher at Jilin University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.461039
+date: 2026-07-10T01:07:48.449136
 url: "/cdr-researcher-census/researchers/xinming-ding-a5102487/"
 layout: "researcher"
 hiddenInHomeList: true

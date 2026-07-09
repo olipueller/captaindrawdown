@@ -1,7 +1,7 @@
 ---
 title: "Emily T. Kostas"
 description: "Emily T. Kostas is a Senior Biochar researcher at University College London in GB. With 35 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.097926
+date: 2026-07-10T01:07:47.181300
 url: "/cdr-researcher-census/researchers/emily-t-kostas-a5063279/"
 layout: "researcher"
 hiddenInHomeList: true

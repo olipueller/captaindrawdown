@@ -1,7 +1,7 @@
 ---
 title: "Nicola Snook"
 description: "Nicola Snook is a Senior Unknown researcher at St James's University Hospital in GB. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.180006
+date: 2026-07-10T01:07:48.196053
 url: "/cdr-researcher-census/researchers/nicola-snook-a5031249/"
 layout: "researcher"
 hiddenInHomeList: true

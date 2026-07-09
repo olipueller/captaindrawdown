@@ -1,7 +1,7 @@
 ---
 title: "Issam T. Amr"
 description: "Issam T. Amr is a Mid-career General CDR researcher at Saudi Aramco (United States) in US. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.035411
+date: 2026-07-10T01:07:48.041676
 url: "/cdr-researcher-census/researchers/issam-t-amr-a5029471/"
 layout: "researcher"
 hiddenInHomeList: true

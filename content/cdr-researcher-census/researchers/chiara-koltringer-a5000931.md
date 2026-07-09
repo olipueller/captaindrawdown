@@ -1,7 +1,7 @@
 ---
 title: "Chiara Költringer"
 description: "Chiara Költringer is a Mid-career Unknown researcher at Uppsala University in SE. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.431534
+date: 2026-07-10T01:07:48.421728
 url: "/cdr-researcher-census/researchers/chiara-koltringer-a5000931/"
 layout: "researcher"
 hiddenInHomeList: true

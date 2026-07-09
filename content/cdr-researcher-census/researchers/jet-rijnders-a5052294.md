@@ -1,7 +1,7 @@
 ---
 title: "Jet Rijnders"
 description: "Jet Rijnders is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.959337
+date: 2026-07-10T01:07:47.970175
 url: "/cdr-researcher-census/researchers/jet-rijnders-a5052294/"
 layout: "researcher"
 hiddenInHomeList: true

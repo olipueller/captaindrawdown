@@ -1,7 +1,7 @@
 ---
 title: "Arlete S. Barneze"
 description: "Arlete S. Barneze is a Mid-career Enhanced Weathering researcher at UK Centre for Ecology & Hydrology in GB. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.754721
+date: 2026-07-10T01:07:47.805166
 url: "/cdr-researcher-census/researchers/arlete-s-barneze-a5075523/"
 layout: "researcher"
 hiddenInHomeList: true

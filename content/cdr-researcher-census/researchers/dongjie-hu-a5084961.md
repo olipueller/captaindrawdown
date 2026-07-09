@@ -1,7 +1,7 @@
 ---
 title: "Dongjie Hu"
 description: "Dongjie Hu is a Mid-career Soil Carbon researcher at Liaoning Technical University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.292945
+date: 2026-07-10T01:07:48.296723
 url: "/cdr-researcher-census/researchers/dongjie-hu-a5084961/"
 layout: "researcher"
 hiddenInHomeList: true

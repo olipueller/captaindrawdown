@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo Chiriboga"
 description: "Gonzalo Chiriboga is a Mid-career Unknown researcher at Central University of Ecuador in EC. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.923098
+date: 2026-07-10T01:07:48.846739
 url: "/cdr-researcher-census/researchers/gonzalo-chiriboga-a5011034/"
 layout: "researcher"
 hiddenInHomeList: true

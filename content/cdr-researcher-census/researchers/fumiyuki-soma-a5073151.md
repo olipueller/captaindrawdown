@@ -1,7 +1,7 @@
 ---
 title: "Fumiyuki Soma"
 description: "Fumiyuki Soma is a Mid-career Soil Carbon researcher at Institute of Crop Science in JP. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.379366
+date: 2026-07-10T01:07:47.461097
 url: "/cdr-researcher-census/researchers/fumiyuki-soma-a5073151/"
 layout: "researcher"
 hiddenInHomeList: true

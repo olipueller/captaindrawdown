@@ -1,7 +1,7 @@
 ---
 title: "Judit Carrillo"
 description: "Judit Carrillo is a Senior Unknown researcher at University of the Sciences in US. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.654630
+date: 2026-07-10T01:07:47.712131
 url: "/cdr-researcher-census/researchers/judit-carrillo-a5103272/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kunwu Fan"
 description: "Kunwu Fan is a Senior Unknown researcher at Shenzhen Second People's Hospital in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.495508
+date: 2026-07-10T01:07:48.481006
 url: "/cdr-researcher-census/researchers/kunwu-fan-a5104197/"
 layout: "researcher"
 hiddenInHomeList: true

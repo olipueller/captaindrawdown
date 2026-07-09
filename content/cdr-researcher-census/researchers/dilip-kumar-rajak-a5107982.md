@@ -1,7 +1,7 @@
 ---
 title: "Dilip Kumar Rajak"
 description: "Dilip Kumar Rajak is a Mid-career Unknown researcher at Kathmandu University in NP. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.082121
+date: 2026-07-10T01:07:48.992597
 url: "/cdr-researcher-census/researchers/dilip-kumar-rajak-a5107982/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ruiqiu Lai"
 description: "Ruiqiu Lai is a Mid-career Unknown researcher at China University of Petroleum, Beijing in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.355421
+date: 2026-07-10T01:07:48.353771
 url: "/cdr-researcher-census/researchers/ruiqiu-lai-a5052401/"
 layout: "researcher"
 hiddenInHomeList: true

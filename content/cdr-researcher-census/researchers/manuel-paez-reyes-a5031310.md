@@ -1,7 +1,7 @@
 ---
 title: "Manuel Páez-Reyes"
 description: "Manuel Páez-Reyes is a Mid-career Unknown researcher at Colombian Geological Survey in CO. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.007997
+date: 2026-07-10T01:07:48.016519
 url: "/cdr-researcher-census/researchers/manuel-paez-reyes-a5031310/"
 layout: "researcher"
 hiddenInHomeList: true

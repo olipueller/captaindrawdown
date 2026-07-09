@@ -1,7 +1,7 @@
 ---
 title: "Adedibu Sunny Akingboye"
 description: "Adedibu Sunny Akingboye is a Mid-career Unknown researcher at Universiti Sains Malaysia in MY. With 73 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.369348
+date: 2026-07-10T01:07:47.451731
 url: "/cdr-researcher-census/researchers/adedibu-sunny-akingboye-a5084299/"
 layout: "researcher"
 hiddenInHomeList: true

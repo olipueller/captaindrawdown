@@ -1,7 +1,7 @@
 ---
 title: "Mengyang Fan"
 description: "Mengyang Fan is a Senior General CDR researcher at University of Toronto in CA. With 63 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.018411
+date: 2026-07-10T01:07:47.084273
 url: "/cdr-researcher-census/researchers/mengyang-fan-a5024301/"
 layout: "researcher"
 hiddenInHomeList: true

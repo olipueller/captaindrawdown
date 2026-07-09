@@ -1,7 +1,7 @@
 ---
 title: "Iris Aalto"
 description: "Iris Aalto is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.696703
+date: 2026-07-10T01:07:48.650008
 url: "/cdr-researcher-census/researchers/iris-aalto-a5005709/"
 layout: "researcher"
 hiddenInHomeList: true

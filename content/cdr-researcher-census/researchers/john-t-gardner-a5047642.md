@@ -1,7 +1,7 @@
 ---
 title: "John T. Gardner"
 description: "John T. Gardner is a Senior General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.157051
+date: 2026-07-10T01:07:47.245849
 url: "/cdr-researcher-census/researchers/john-t-gardner-a5047642/"
 layout: "researcher"
 hiddenInHomeList: true

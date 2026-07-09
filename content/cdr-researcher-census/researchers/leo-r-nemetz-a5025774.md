@@ -1,7 +1,7 @@
 ---
 title: "Leo R. Nemetz"
 description: "Leo R. Nemetz is an Early-career Unknown researcher at University of Toledo in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.193721
+date: 2026-07-10T01:07:49.107264
 url: "/cdr-researcher-census/researchers/leo-r-nemetz-a5025774/"
 layout: "researcher"
 hiddenInHomeList: true

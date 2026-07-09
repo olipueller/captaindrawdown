@@ -1,7 +1,7 @@
 ---
 title: "Taslima Akter"
 description: "Taslima Akter is a Senior Unknown researcher at Police Department in LT. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.971127
+date: 2026-07-10T01:07:47.981434
 url: "/cdr-researcher-census/researchers/taslima-akter-a5101766/"
 layout: "researcher"
 hiddenInHomeList: true

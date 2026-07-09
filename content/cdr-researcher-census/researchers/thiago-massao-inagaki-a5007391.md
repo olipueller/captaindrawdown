@@ -1,7 +1,7 @@
 ---
 title: "Thiago Massao Inagaki"
 description: "Thiago Massao Inagaki is a Senior Soil Carbon researcher at Norsk Institutt for Bioøkonomi in NO. With 80 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.184967
+date: 2026-07-10T01:07:47.274028
 url: "/cdr-researcher-census/researchers/thiago-massao-inagaki-a5007391/"
 layout: "researcher"
 hiddenInHomeList: true

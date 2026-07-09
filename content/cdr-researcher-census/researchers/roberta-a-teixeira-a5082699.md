@@ -1,7 +1,7 @@
 ---
 title: "Roberta A. Teixeira"
 description: "Roberta A. Teixeira is a Mid-career Biochar researcher at Universidade Federal do Rio Grande do Sul in BR. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.144380
+date: 2026-07-10T01:07:48.164610
 url: "/cdr-researcher-census/researchers/roberta-a-teixeira-a5082699/"
 layout: "researcher"
 hiddenInHomeList: true

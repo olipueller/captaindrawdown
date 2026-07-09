@@ -1,7 +1,7 @@
 ---
 title: "Peidong He"
 description: "Peidong He is an Early-career Biochar researcher at University of Science and Technology Beijing in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.921098
+date: 2026-07-10T01:07:48.844907
 url: "/cdr-researcher-census/researchers/peidong-he-a5035107/"
 layout: "researcher"
 hiddenInHomeList: true

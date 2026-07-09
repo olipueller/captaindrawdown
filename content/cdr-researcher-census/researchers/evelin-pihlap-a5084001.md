@@ -1,7 +1,7 @@
 ---
 title: "Evelin Pihlap"
 description: "Evelin Pihlap is a Mid-career Enhanced Weathering researcher at Estonian University of Life Sciences in EE. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.277829
+date: 2026-07-10T01:07:48.283550
 url: "/cdr-researcher-census/researchers/evelin-pihlap-a5084001/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ruan Carnier"
 description: "Ruan Carnier is a Mid-career Soil Carbon researcher at Brazilian Agricultural Research Corporation in BR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.965608
+date: 2026-07-10T01:07:48.886480
 url: "/cdr-researcher-census/researchers/ruan-carnier-a5088709/"
 layout: "researcher"
 hiddenInHomeList: true

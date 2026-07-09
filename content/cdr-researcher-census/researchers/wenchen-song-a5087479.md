@@ -1,7 +1,7 @@
 ---
 title: "Wenchen Song"
 description: "Wenchen Song is a Mid-career General CDR researcher at Minzu University of China in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.184634
+date: 2026-07-10T01:07:48.199993
 url: "/cdr-researcher-census/researchers/wenchen-song-a5087479/"
 layout: "researcher"
 hiddenInHomeList: true

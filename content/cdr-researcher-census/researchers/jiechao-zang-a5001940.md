@@ -1,7 +1,7 @@
 ---
 title: "Jiechao Zang"
 description: "Jiechao Zang is a Mid-career Unknown researcher at Qiannan Normal College For Nationalities in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.603683
+date: 2026-07-10T01:07:48.566762
 url: "/cdr-researcher-census/researchers/jiechao-zang-a5001940/"
 layout: "researcher"
 hiddenInHomeList: true

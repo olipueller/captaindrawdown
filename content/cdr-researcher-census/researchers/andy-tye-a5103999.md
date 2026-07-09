@@ -1,7 +1,7 @@
 ---
 title: "Andy Tye"
 description: "Andy Tye is a Senior Unknown researcher at British Geological Survey in GB. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.259253
+date: 2026-07-10T01:07:48.266884
 url: "/cdr-researcher-census/researchers/andy-tye-a5103999/"
 layout: "researcher"
 hiddenInHomeList: true

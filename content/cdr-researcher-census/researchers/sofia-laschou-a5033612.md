@@ -1,7 +1,7 @@
 ---
 title: "Sofia Laschou"
 description: "Sofia Laschou is a Senior Unknown researcher at Hellenic Centre for Marine Research in GR. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.623375
+date: 2026-07-10T01:07:47.683719
 url: "/cdr-researcher-census/researchers/sofia-laschou-a5033612/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lalji Kumar"
 description: "Lalji Kumar is a Mid-career Unknown researcher at Central University of Rajasthan in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.648364
+date: 2026-07-10T01:07:48.607158
 url: "/cdr-researcher-census/researchers/lalji-kumar-a5062929/"
 layout: "researcher"
 hiddenInHomeList: true

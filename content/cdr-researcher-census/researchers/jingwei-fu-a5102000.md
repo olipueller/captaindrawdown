@@ -1,7 +1,7 @@
 ---
 title: "Jingwei Fu"
 description: "Jingwei Fu is a Senior Unknown researcher at Guangdong Ocean University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.498791
+date: 2026-07-10T01:07:47.568501
 url: "/cdr-researcher-census/researchers/jingwei-fu-a5102000/"
 layout: "researcher"
 hiddenInHomeList: true

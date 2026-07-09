@@ -1,7 +1,7 @@
 ---
 title: "Prerna Diwan"
 description: "Prerna Diwan is a Mid-career Enhanced Weathering researcher at University of Delhi in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.301971
+date: 2026-07-10T01:07:48.304703
 url: "/cdr-researcher-census/researchers/prerna-diwan-a5047826/"
 layout: "researcher"
 hiddenInHomeList: true

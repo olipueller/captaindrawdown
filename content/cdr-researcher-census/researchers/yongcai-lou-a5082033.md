@@ -1,7 +1,7 @@
 ---
 title: "Yongcai Lou"
 description: "Yongcai Lou is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.823932
+date: 2026-07-10T01:07:48.758582
 url: "/cdr-researcher-census/researchers/yongcai-lou-a5082033/"
 layout: "researcher"
 hiddenInHomeList: true

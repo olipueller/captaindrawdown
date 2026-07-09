@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Elgazzar"
 description: "Ahmad Elgazzar is a Mid-career Unknown researcher at Rice University in US. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.241088
+date: 2026-07-10T01:07:47.327371
 url: "/cdr-researcher-census/researchers/ahmad-elgazzar-a5073975/"
 layout: "researcher"
 hiddenInHomeList: true

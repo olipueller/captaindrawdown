@@ -1,7 +1,7 @@
 ---
 title: "Ellen M. Moon"
 description: "Ellen M. Moon is a Senior Biochar researcher at Deakin University in AU. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.129572
+date: 2026-07-10T01:07:47.218427
 url: "/cdr-researcher-census/researchers/ellen-m-moon-a5082353/"
 layout: "researcher"
 hiddenInHomeList: true

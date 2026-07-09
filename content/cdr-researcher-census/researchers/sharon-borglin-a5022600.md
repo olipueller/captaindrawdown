@@ -1,7 +1,7 @@
 ---
 title: "Sharon Borglin"
 description: "Sharon Borglin is a Senior Unknown researcher at Lawrence Berkeley National Laboratory in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.546053
+date: 2026-07-10T01:07:48.526627
 url: "/cdr-researcher-census/researchers/sharon-borglin-a5022600/"
 layout: "researcher"
 hiddenInHomeList: true

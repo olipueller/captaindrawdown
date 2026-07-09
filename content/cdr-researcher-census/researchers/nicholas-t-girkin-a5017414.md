@@ -1,7 +1,7 @@
 ---
 title: "Nicholas T. Girkin"
 description: "Nicholas T. Girkin is a Senior Soil Carbon researcher at University of Nottingham in GB. With 65 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.117755
+date: 2026-07-10T01:07:47.204688
 url: "/cdr-researcher-census/researchers/nicholas-t-girkin-a5017414/"
 layout: "researcher"
 hiddenInHomeList: true

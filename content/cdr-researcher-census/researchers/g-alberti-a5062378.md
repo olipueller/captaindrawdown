@@ -1,7 +1,7 @@
 ---
 title: "G Alberti"
 description: "G Alberti is a Senior Soil Carbon researcher at University of Siena in IT. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.614415
+date: 2026-07-10T01:07:48.575669
 url: "/cdr-researcher-census/researchers/g-alberti-a5062378/"
 layout: "researcher"
 hiddenInHomeList: true

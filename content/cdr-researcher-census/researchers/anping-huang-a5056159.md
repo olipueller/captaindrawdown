@@ -1,7 +1,7 @@
 ---
 title: "Anping Huang"
 description: "Anping Huang is a Mid-career Unknown researcher at Nanchang Hangkong University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.142335
+date: 2026-07-10T01:07:49.045139
 url: "/cdr-researcher-census/researchers/anping-huang-a5056159/"
 layout: "researcher"
 hiddenInHomeList: true

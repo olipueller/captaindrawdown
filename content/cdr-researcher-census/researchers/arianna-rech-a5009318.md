@@ -1,7 +1,7 @@
 ---
 title: "Arianna Rech"
 description: "Arianna Rech is a Mid-career Unknown researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.850902
+date: 2026-07-10T01:07:47.886650
 url: "/cdr-researcher-census/researchers/arianna-rech-a5009318/"
 layout: "researcher"
 hiddenInHomeList: true

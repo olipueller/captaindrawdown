@@ -1,7 +1,7 @@
 ---
 title: "Gatien Romuald Kenfack Nguemo"
 description: "Gatien Romuald Kenfack Nguemo is a Mid-career Unknown researcher at Université de Dschang in CM. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.238373
+date: 2026-07-10T01:07:49.147265
 url: "/cdr-researcher-census/researchers/gatien-romuald-kenfack-nguemo-a5037967/"
 layout: "researcher"
 hiddenInHomeList: true

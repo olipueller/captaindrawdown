@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Liu"
 description: "Jingjing Liu is a Senior Soil Carbon researcher at Henan University in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.090162
+date: 2026-07-10T01:07:48.090470
 url: "/cdr-researcher-census/researchers/jingjing-liu-a5100442/"
 layout: "researcher"
 hiddenInHomeList: true

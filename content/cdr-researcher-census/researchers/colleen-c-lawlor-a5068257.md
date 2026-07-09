@@ -1,7 +1,7 @@
 ---
 title: "Colleen C. Lawlor"
 description: "Colleen C. Lawlor is a Mid-career Unknown researcher at Rochester Institute of Technology in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.171300
+date: 2026-07-10T01:07:49.061375
 url: "/cdr-researcher-census/researchers/colleen-c-lawlor-a5068257/"
 layout: "researcher"
 hiddenInHomeList: true

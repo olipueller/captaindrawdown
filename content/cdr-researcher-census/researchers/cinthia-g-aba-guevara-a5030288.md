@@ -1,7 +1,7 @@
 ---
 title: "Cinthia G. Aba Guevara"
 description: "Cinthia G. Aba Guevara is a Mid-career Unknown researcher at Tecnológico Nacional de México in MX. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.038642
+date: 2026-07-10T01:07:48.952985
 url: "/cdr-researcher-census/researchers/cinthia-g-aba-guevara-a5030288/"
 layout: "researcher"
 hiddenInHomeList: true

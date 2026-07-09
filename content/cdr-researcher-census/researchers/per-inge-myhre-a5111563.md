@@ -1,7 +1,7 @@
 ---
 title: "Per Inge Myhre"
 description: "Per Inge Myhre is a Senior Unknown researcher at Norwegian Polar Institute in NO. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.737450
+date: 2026-07-10T01:07:47.789900
 url: "/cdr-researcher-census/researchers/per-inge-myhre-a5111563/"
 layout: "researcher"
 hiddenInHomeList: true

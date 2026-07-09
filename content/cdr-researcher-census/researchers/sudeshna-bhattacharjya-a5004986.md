@@ -1,7 +1,7 @@
 ---
 title: "Sudeshna Bhattacharjya"
 description: "Sudeshna Bhattacharjya is a Mid-career Soil Carbon researcher at Indian Institute of Soil Science in IN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.389712
+date: 2026-07-10T01:07:47.470573
 url: "/cdr-researcher-census/researchers/sudeshna-bhattacharjya-a5004986/"
 layout: "researcher"
 hiddenInHomeList: true

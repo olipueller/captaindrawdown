@@ -1,7 +1,7 @@
 ---
 title: "Priya Arunkumar"
 description: "Priya Arunkumar is a Mid-career Unknown researcher at Karunya University in IN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.750674
+date: 2026-07-10T01:07:47.801990
 url: "/cdr-researcher-census/researchers/priya-arunkumar-a5027817/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Paul Boone"
 description: "Paul Boone is a Senior Unknown researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.069956
+date: 2026-07-10T01:07:48.072640
 url: "/cdr-researcher-census/researchers/paul-boone-a5014508/"
 layout: "researcher"
 hiddenInHomeList: true

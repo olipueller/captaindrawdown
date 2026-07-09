@@ -1,7 +1,7 @@
 ---
 title: "Muntasir Mahmud"
 description: "Muntasir Mahmud is a Mid-career Unknown researcher at University of Maryland, Baltimore County in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.838928
+date: 2026-07-10T01:07:48.771453
 url: "/cdr-researcher-census/researchers/muntasir-mahmud-a5020457/"
 layout: "researcher"
 hiddenInHomeList: true

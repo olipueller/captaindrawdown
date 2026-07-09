@@ -1,7 +1,7 @@
 ---
 title: "Jian Gao"
 description: "Jian Gao is an Early-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.145027
+date: 2026-07-10T01:07:49.047435
 url: "/cdr-researcher-census/researchers/jian-gao-a5035012/"
 layout: "researcher"
 hiddenInHomeList: true

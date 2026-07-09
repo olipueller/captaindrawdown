@@ -1,7 +1,7 @@
 ---
 title: "Ali Alinezhad"
 description: "Ali Alinezhad is a Senior Biochar researcher at Brunswick (United States) in US. With 34 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.167408
+date: 2026-07-10T01:07:47.256981
 url: "/cdr-researcher-census/researchers/ali-alinezhad-a5113686/"
 layout: "researcher"
 hiddenInHomeList: true

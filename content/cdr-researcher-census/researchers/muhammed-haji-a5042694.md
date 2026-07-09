@@ -1,7 +1,7 @@
 ---
 title: "Muhammed Haji"
 description: "Muhammed Haji is a Mid-career Unknown researcher at Adama Science and Technology University in ET. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.929353
+date: 2026-07-10T01:07:47.942501
 url: "/cdr-researcher-census/researchers/muhammed-haji-a5042694/"
 layout: "researcher"
 hiddenInHomeList: true

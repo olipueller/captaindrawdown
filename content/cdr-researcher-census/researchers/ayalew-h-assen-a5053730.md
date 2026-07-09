@@ -1,7 +1,7 @@
 ---
 title: "Ayalew H. Assen"
 description: "Ayalew H. Assen is a Senior General CDR researcher at Wollo University in ET. With 63 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.982395
+date: 2026-07-10T01:07:47.032635
 url: "/cdr-researcher-census/researchers/ayalew-h-assen-a5053730/"
 layout: "researcher"
 hiddenInHomeList: true

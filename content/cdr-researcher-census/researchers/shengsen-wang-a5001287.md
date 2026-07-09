@@ -1,7 +1,7 @@
 ---
 title: "Shengsen Wang"
 description: "Shengsen Wang is an Eminent Biochar researcher at Yangzhou University in CN. With 162 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.905265
+date: 2026-07-10T01:07:46.898815
 url: "/cdr-researcher-census/researchers/shengsen-wang-a5001287/"
 layout: "researcher"
 hiddenInHomeList: true

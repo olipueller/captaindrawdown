@@ -1,7 +1,7 @@
 ---
 title: "Sumit Kanti Sarker"
 description: "Sumit Kanti Sarker is an Early-career Unknown researcher at American International University-Bangladesh in BD. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.033129
+date: 2026-07-10T01:07:48.948152
 url: "/cdr-researcher-census/researchers/sumit-kanti-sarker-a5112987/"
 layout: "researcher"
 hiddenInHomeList: true

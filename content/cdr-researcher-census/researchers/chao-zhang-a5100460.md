@@ -1,7 +1,7 @@
 ---
 title: "Chao Zhang"
 description: "Chao Zhang is a Mid-career Unknown researcher at Jiangnan University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.290986
+date: 2026-07-10T01:07:47.373359
 url: "/cdr-researcher-census/researchers/chao-zhang-a5100460/"
 layout: "researcher"
 hiddenInHomeList: true

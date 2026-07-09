@@ -1,7 +1,7 @@
 ---
 title: "Hasan Jubaer"
 description: "Hasan Jubaer is a Mid-career Unknown researcher at Virginia Commonwealth University in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.311291
+date: 2026-07-10T01:07:47.393548
 url: "/cdr-researcher-census/researchers/hasan-jubaer-a5055088/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Wu"
 description: "Xiaolong Wu is a Mid-career Unknown researcher at University of Guelph in CA. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.554701
+date: 2026-07-10T01:07:47.618983
 url: "/cdr-researcher-census/researchers/xiaolong-wu-a5101685/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Szymon Mądraszewski"
 description: "Szymon Mądraszewski is a Mid-career General CDR researcher at Technische Universität Berlin in DE. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.386147
+date: 2026-07-10T01:07:48.380640
 url: "/cdr-researcher-census/researchers/szymon-madraszewski-a5044533/"
 layout: "researcher"
 hiddenInHomeList: true

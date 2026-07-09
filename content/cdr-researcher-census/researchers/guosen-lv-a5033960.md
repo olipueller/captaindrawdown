@@ -1,7 +1,7 @@
 ---
 title: "Guosen Lv"
 description: "Guosen Lv is a Mid-career Unknown researcher at Hainan University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.983362
+date: 2026-07-10T01:07:48.903031
 url: "/cdr-researcher-census/researchers/guosen-lv-a5033960/"
 layout: "researcher"
 hiddenInHomeList: true

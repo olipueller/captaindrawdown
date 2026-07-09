@@ -1,7 +1,7 @@
 ---
 title: "Shaymaa H. Khazaal"
 description: "Shaymaa H. Khazaal is a Mid-career Biochar researcher at University of Technology - Iraq in IQ. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.075353
+date: 2026-07-10T01:07:48.077859
 url: "/cdr-researcher-census/researchers/shaymaa-h-khazaal-a5041199/"
 layout: "researcher"
 hiddenInHomeList: true

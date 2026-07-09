@@ -1,7 +1,7 @@
 ---
 title: "Sayan Das"
 description: "Sayan Das is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.082725
+date: 2026-07-10T01:07:48.083996
 url: "/cdr-researcher-census/researchers/sayan-das-a5074312/"
 layout: "researcher"
 hiddenInHomeList: true

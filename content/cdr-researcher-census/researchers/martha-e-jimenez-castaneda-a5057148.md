@@ -1,7 +1,7 @@
 ---
 title: "Martha E. Jiménez-Castañeda"
 description: "Martha E. Jiménez-Castañeda is a Mid-career Soil Carbon researcher at University of Oklahoma in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.117534
+date: 2026-07-10T01:07:48.141877
 url: "/cdr-researcher-census/researchers/martha-e-jimenez-castaneda-a5057148/"
 layout: "researcher"
 hiddenInHomeList: true

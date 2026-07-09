@@ -1,7 +1,7 @@
 ---
 title: "Eunice Oppon"
 description: "Eunice Oppon is a Mid-career General CDR researcher at University of Exeter in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.553101
+date: 2026-07-10T01:07:48.533285
 url: "/cdr-researcher-census/researchers/eunice-oppon-a5010245/"
 layout: "researcher"
 hiddenInHomeList: true

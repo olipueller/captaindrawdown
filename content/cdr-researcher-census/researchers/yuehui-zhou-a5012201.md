@@ -1,7 +1,7 @@
 ---
 title: "Yuehui Zhou"
 description: "Yuehui Zhou is a Senior Unknown researcher at University of Science and Technology of China in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.897987
+date: 2026-07-10T01:07:48.823669
 url: "/cdr-researcher-census/researchers/yuehui-zhou-a5012201/"
 layout: "researcher"
 hiddenInHomeList: true

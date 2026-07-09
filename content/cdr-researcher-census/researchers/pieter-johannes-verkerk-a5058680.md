@@ -1,7 +1,7 @@
 ---
 title: "Pieter Johannes Verkerk"
 description: "Pieter Johannes Verkerk is an Eminent Soil Carbon researcher at European Forest Institute in FI. With 119 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.918339
+date: 2026-07-10T01:07:46.924725
 url: "/cdr-researcher-census/researchers/pieter-johannes-verkerk-a5058680/"
 layout: "researcher"
 hiddenInHomeList: true

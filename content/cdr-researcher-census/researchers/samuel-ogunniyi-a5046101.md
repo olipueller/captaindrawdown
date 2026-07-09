@@ -1,7 +1,7 @@
 ---
 title: "Samuel Ogunniyi"
 description: "Samuel Ogunniyi is a Senior Biochar researcher at McMaster University in CA. With 33 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.084856
+date: 2026-07-10T01:07:47.166532
 url: "/cdr-researcher-census/researchers/samuel-ogunniyi-a5046101/"
 layout: "researcher"
 hiddenInHomeList: true

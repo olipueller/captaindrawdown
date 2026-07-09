@@ -1,7 +1,7 @@
 ---
 title: "Robert Wolski"
 description: "Robert Wolski is a Mid-career Biochar researcher at Adam Mickiewicz University in Poznań in PL. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.812597
+date: 2026-07-10T01:07:47.859289
 url: "/cdr-researcher-census/researchers/robert-wolski-a5007829/"
 layout: "researcher"
 hiddenInHomeList: true

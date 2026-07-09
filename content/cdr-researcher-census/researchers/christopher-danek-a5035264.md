@@ -1,7 +1,7 @@
 ---
 title: "Christopher Danek"
 description: "Christopher Danek is a Mid-career Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 48 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.774708
+date: 2026-07-10T01:07:47.824302
 url: "/cdr-researcher-census/researchers/christopher-danek-a5035264/"
 layout: "researcher"
 hiddenInHomeList: true

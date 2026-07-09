@@ -1,7 +1,7 @@
 ---
 title: "Nalukui Matakala"
 description: "Nalukui Matakala is a Mid-career General CDR researcher at Copperbelt University in ZM. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.858472
+date: 2026-07-10T01:07:48.788742
 url: "/cdr-researcher-census/researchers/nalukui-matakala-a5007929/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuangjun Li"
 description: "Shuangjun Li is a Senior General CDR researcher at Korea University in KR. With 130 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.984797
+date: 2026-07-10T01:07:47.037125
 url: "/cdr-researcher-census/researchers/shuangjun-li-a5000532/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Huihang Sun"
 description: "Huihang Sun is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.008613
+date: 2026-07-10T01:07:48.925881
 url: "/cdr-researcher-census/researchers/huihang-sun-a5064132/"
 layout: "researcher"
 hiddenInHomeList: true

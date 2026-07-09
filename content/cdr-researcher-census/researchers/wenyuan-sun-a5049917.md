@@ -1,7 +1,7 @@
 ---
 title: "Wenyuan Sun"
 description: "Wenyuan Sun is a Mid-career Unknown researcher at China University of Petroleum, Beijing in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.151027
+date: 2026-07-10T01:07:48.170869
 url: "/cdr-researcher-census/researchers/wenyuan-sun-a5049917/"
 layout: "researcher"
 hiddenInHomeList: true

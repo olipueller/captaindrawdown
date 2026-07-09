@@ -1,7 +1,7 @@
 ---
 title: "Hongwei Xu"
 description: "Hongwei Xu is a Senior Soil Carbon researcher at Hetao College in CN. With 150 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.012479
+date: 2026-07-10T01:07:47.076730
 url: "/cdr-researcher-census/researchers/hongwei-xu-a5038496/"
 layout: "researcher"
 hiddenInHomeList: true

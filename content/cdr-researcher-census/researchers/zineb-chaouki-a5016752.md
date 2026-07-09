@@ -1,7 +1,7 @@
 ---
 title: "Zineb Chaouki"
 description: "Zineb Chaouki is a Mid-career Unknown researcher at Université Ibn Zohr in MA. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.751910
+date: 2026-07-10T01:07:48.698573
 url: "/cdr-researcher-census/researchers/zineb-chaouki-a5016752/"
 layout: "researcher"
 hiddenInHomeList: true

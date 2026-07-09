@@ -1,7 +1,7 @@
 ---
 title: "Baicang Liu"
 description: "Baicang Liu is an Eminent Unknown researcher at Sichuan University in CN. With 144 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.947286
+date: 2026-07-10T01:07:46.978560
 url: "/cdr-researcher-census/researchers/baicang-liu-a5080700/"
 layout: "researcher"
 hiddenInHomeList: true

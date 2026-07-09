@@ -1,7 +1,7 @@
 ---
 title: "Yufeng Zhou"
 description: "Yufeng Zhou is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 109 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.095087
+date: 2026-07-10T01:07:47.177825
 url: "/cdr-researcher-census/researchers/yufeng-zhou-a5101560/"
 layout: "researcher"
 hiddenInHomeList: true

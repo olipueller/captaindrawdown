@@ -1,7 +1,7 @@
 ---
 title: "R.T. Jerozal"
 description: "R.T. Jerozal is a Mid-career General CDR researcher at Cornell University in US. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.228762
+date: 2026-07-10T01:07:48.238979
 url: "/cdr-researcher-census/researchers/rt-jerozal-a5077050/"
 layout: "researcher"
 hiddenInHomeList: true

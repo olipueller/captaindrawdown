@@ -1,7 +1,7 @@
 ---
 title: "Rudong Zhao"
 description: "Rudong Zhao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.509464
+date: 2026-07-10T01:07:47.578228
 url: "/cdr-researcher-census/researchers/rudong-zhao-a5028804/"
 layout: "researcher"
 hiddenInHomeList: true

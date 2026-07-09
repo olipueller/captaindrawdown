@@ -1,7 +1,7 @@
 ---
 title: "Luke Higgins"
 description: "Luke Higgins is a Mid-career DAC researcher at Diamond Light Source in GB. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.203765
+date: 2026-07-10T01:07:48.217228
 url: "/cdr-researcher-census/researchers/luke-higgins-a5032237/"
 layout: "researcher"
 hiddenInHomeList: true

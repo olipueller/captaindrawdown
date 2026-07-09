@@ -1,7 +1,7 @@
 ---
 title: "Pengpeng Duan"
 description: "Pengpeng Duan is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 85 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.102825
+date: 2026-07-10T01:07:47.187238
 url: "/cdr-researcher-census/researchers/pengpeng-duan-a5073985/"
 layout: "researcher"
 hiddenInHomeList: true

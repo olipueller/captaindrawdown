@@ -1,7 +1,7 @@
 ---
 title: "Xinliang Dong"
 description: "Xinliang Dong is a Mid-career Soil Carbon researcher at Griffith University in AU. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.312702
+date: 2026-07-10T01:07:47.394879
 url: "/cdr-researcher-census/researchers/xinliang-dong-a5043034/"
 layout: "researcher"
 hiddenInHomeList: true

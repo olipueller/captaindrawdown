@@ -1,7 +1,7 @@
 ---
 title: "Haonan He"
 description: "Haonan He is an Early-career Unknown researcher at China West Normal University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.104282
+date: 2026-07-10T01:07:49.012317
 url: "/cdr-researcher-census/researchers/haonan-he-a5081880/"
 layout: "researcher"
 hiddenInHomeList: true

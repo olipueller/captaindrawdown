@@ -1,7 +1,7 @@
 ---
 title: "Kwon Rausis"
 description: "Kwon Rausis is a Mid-career General CDR researcher at Trent University in CA. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.908990
+date: 2026-07-10T01:07:47.922656
 url: "/cdr-researcher-census/researchers/kwon-rausis-a5026373/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Adeniyi Kehinde Adeleke"
 description: "Adeniyi Kehinde Adeleke is a Mid-career Biochar researcher at Micron (United States) in US. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.930213
+date: 2026-07-10T01:07:47.943236
 url: "/cdr-researcher-census/researchers/adeniyi-kehinde-adeleke-a5104255/"
 layout: "researcher"
 hiddenInHomeList: true

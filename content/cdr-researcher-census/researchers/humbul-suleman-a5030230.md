@@ -1,7 +1,7 @@
 ---
 title: "Humbul Suleman"
 description: "Humbul Suleman is a Mid-career Unknown researcher at Teesside University in GB. With 76 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.193126
+date: 2026-07-10T01:07:47.282276
 url: "/cdr-researcher-census/researchers/humbul-suleman-a5030230/"
 layout: "researcher"
 hiddenInHomeList: true

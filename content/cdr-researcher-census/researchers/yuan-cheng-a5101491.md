@@ -1,7 +1,7 @@
 ---
 title: "Yuan Cheng"
 description: "Yuan Cheng is a Senior Unknown researcher at Research Center for Eco-Environmental Sciences in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.624904
+date: 2026-07-10T01:07:47.684983
 url: "/cdr-researcher-census/researchers/yuan-cheng-a5101491/"
 layout: "researcher"
 hiddenInHomeList: true

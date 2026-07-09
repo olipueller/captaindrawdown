@@ -1,7 +1,7 @@
 ---
 title: "Claire Soligot"
 description: "Claire Soligot is a Senior Biochar researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.051580
+date: 2026-07-10T01:07:48.056605
 url: "/cdr-researcher-census/researchers/claire-soligot-a5011952/"
 layout: "researcher"
 hiddenInHomeList: true

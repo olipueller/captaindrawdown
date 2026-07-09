@@ -1,7 +1,7 @@
 ---
 title: "Nursyahirah Mohd Shatar"
 description: "Nursyahirah Mohd Shatar is a Mid-career Unknown researcher at University of Malaya in MY. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.445241
+date: 2026-07-10T01:07:48.434870
 url: "/cdr-researcher-census/researchers/nursyahirah-mohd-shatar-a5063974/"
 layout: "researcher"
 hiddenInHomeList: true

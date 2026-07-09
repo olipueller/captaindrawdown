@@ -1,7 +1,7 @@
 ---
 title: "Allison Hogikyan"
 description: "Allison Hogikyan is a Mid-career Ocean CDR researcher at Princeton University in US. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.849441
+date: 2026-07-10T01:07:48.780292
 url: "/cdr-researcher-census/researchers/allison-hogikyan-a5024942/"
 layout: "researcher"
 hiddenInHomeList: true

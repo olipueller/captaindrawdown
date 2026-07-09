@@ -1,7 +1,7 @@
 ---
 title: "Chenxu Yan"
 description: "Chenxu Yan is a Mid-career Unknown researcher at United States Army Corps of Engineers in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.144282
+date: 2026-07-10T01:07:48.164522
 url: "/cdr-researcher-census/researchers/chenxu-yan-a5052755/"
 layout: "researcher"
 hiddenInHomeList: true

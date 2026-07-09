@@ -1,7 +1,7 @@
 ---
 title: "Lei Cheng"
 description: "Lei Cheng is a Mid-career Biochar researcher at Shenzhen University in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.892672
+date: 2026-07-10T01:07:47.907656
 url: "/cdr-researcher-census/researchers/lei-cheng-a5081643/"
 layout: "researcher"
 hiddenInHomeList: true

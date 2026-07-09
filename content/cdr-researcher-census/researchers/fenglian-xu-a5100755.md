@@ -1,7 +1,7 @@
 ---
 title: "Fenglian Xu"
 description: "Fenglian Xu is a Senior Biochar researcher at Royal North Shore Hospital in AU. With 65 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.249944
+date: 2026-07-10T01:07:47.334787
 url: "/cdr-researcher-census/researchers/fenglian-xu-a5100755/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Feijie Li"
 description: "Feijie Li is a Mid-career Soil Carbon researcher at Rural Resources in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.940914
+date: 2026-07-10T01:07:48.863593
 url: "/cdr-researcher-census/researchers/feijie-li-a5071421/"
 layout: "researcher"
 hiddenInHomeList: true

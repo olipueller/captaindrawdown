@@ -1,7 +1,7 @@
 ---
 title: "Mary C. Ngoma"
 description: "Mary C. Ngoma is a Mid-career Unknown researcher at New Jersey Institute of Technology in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.907910
+date: 2026-07-10T01:07:48.833183
 url: "/cdr-researcher-census/researchers/mary-c-ngoma-a5037440/"
 layout: "researcher"
 hiddenInHomeList: true

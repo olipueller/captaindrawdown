@@ -1,7 +1,7 @@
 ---
 title: "Jiankun Zhou"
 description: "Jiankun Zhou is a Senior Unknown researcher at Shenyang University of Technology in CN. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.809564
+date: 2026-07-10T01:07:47.855951
 url: "/cdr-researcher-census/researchers/jiankun-zhou-a5007629/"
 layout: "researcher"
 hiddenInHomeList: true

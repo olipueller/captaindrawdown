@@ -1,7 +1,7 @@
 ---
 title: "Farhad Ahmadnejad"
 description: "Farhad Ahmadnejad is a Mid-career Unknown researcher at Tabriz Islamic Arts University in IR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.317704
+date: 2026-07-10T01:07:48.319266
 url: "/cdr-researcher-census/researchers/farhad-ahmadnejad-a5020069/"
 layout: "researcher"
 hiddenInHomeList: true

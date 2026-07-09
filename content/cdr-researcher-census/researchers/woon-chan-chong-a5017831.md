@@ -1,7 +1,7 @@
 ---
 title: "Woon Chan Chong"
 description: "Woon Chan Chong is a Senior Biochar researcher at Universiti Tunku Abdul Rahman (UTAR) in MY. With 86 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.002441
+date: 2026-07-10T01:07:47.062768
 url: "/cdr-researcher-census/researchers/woon-chan-chong-a5017831/"
 layout: "researcher"
 hiddenInHomeList: true

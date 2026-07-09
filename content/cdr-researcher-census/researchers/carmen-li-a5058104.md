@@ -1,7 +1,7 @@
 ---
 title: "Carmen Li"
 description: "Carmen Li is a Mid-career Unknown researcher at University of Cambridge in GB. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.766515
+date: 2026-07-10T01:07:48.711044
 url: "/cdr-researcher-census/researchers/carmen-li-a5058104/"
 layout: "researcher"
 hiddenInHomeList: true

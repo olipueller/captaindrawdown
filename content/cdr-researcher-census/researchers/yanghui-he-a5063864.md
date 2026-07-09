@@ -1,7 +1,7 @@
 ---
 title: "Yanghui He"
 description: "Yanghui He is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 52 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.040180
+date: 2026-07-10T01:07:47.112537
 url: "/cdr-researcher-census/researchers/yanghui-he-a5063864/"
 layout: "researcher"
 hiddenInHomeList: true

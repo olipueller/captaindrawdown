@@ -1,7 +1,7 @@
 ---
 title: "José Antonio Mayoral Chavando"
 description: "José Antonio Mayoral Chavando is a Mid-career Unknown researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.614512
+date: 2026-07-10T01:07:48.575763
 url: "/cdr-researcher-census/researchers/jose-antonio-mayoral-chavando-a5000336/"
 layout: "researcher"
 hiddenInHomeList: true

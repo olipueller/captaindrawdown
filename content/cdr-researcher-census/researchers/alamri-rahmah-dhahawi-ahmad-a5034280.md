@@ -1,7 +1,7 @@
 ---
 title: "Alamri Rahmah Dhahawi Ahmad"
 description: "Alamri Rahmah Dhahawi Ahmad is a Mid-career Unknown researcher at Ministry of Health in KW. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.946412
+date: 2026-07-10T01:07:48.868383
 url: "/cdr-researcher-census/researchers/alamri-rahmah-dhahawi-ahmad-a5034280/"
 layout: "researcher"
 hiddenInHomeList: true

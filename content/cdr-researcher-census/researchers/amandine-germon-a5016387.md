@@ -1,7 +1,7 @@
 ---
 title: "Amandine Germon"
 description: "Amandine Germon is a Mid-career Soil Carbon researcher. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.496816
+date: 2026-07-10T01:07:47.566695
 url: "/cdr-researcher-census/researchers/amandine-germon-a5016387/"
 layout: "researcher"
 hiddenInHomeList: true

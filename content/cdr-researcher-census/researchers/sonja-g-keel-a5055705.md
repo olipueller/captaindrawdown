@@ -1,7 +1,7 @@
 ---
 title: "Sonja G. Keel"
 description: "Sonja G. Keel is a Senior General CDR researcher at Agroscope in CH. With 65 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.990315
+date: 2026-07-10T01:07:47.046057
 url: "/cdr-researcher-census/researchers/sonja-g-keel-a5055705/"
 layout: "researcher"
 hiddenInHomeList: true

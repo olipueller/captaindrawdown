@@ -1,7 +1,7 @@
 ---
 title: "Viktor Ivakhov"
 description: "Viktor Ivakhov is a Mid-career Soil Carbon researcher at Voeikov Main Geophysical Observatory in RU. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.542337
+date: 2026-07-10T01:07:47.607416
 url: "/cdr-researcher-census/researchers/viktor-ivakhov-a5047845/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Michelle C. Lallawmkimi"
 description: "Michelle C. Lallawmkimi is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.899515
+date: 2026-07-10T01:07:48.825097
 url: "/cdr-researcher-census/researchers/michelle-c-lallawmkimi-a5057404/"
 layout: "researcher"
 hiddenInHomeList: true

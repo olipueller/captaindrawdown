@@ -1,7 +1,7 @@
 ---
 title: "Mehdi Taib"
 description: "Mehdi Taib is a Mid-career Biochar researcher at Université Hassan 1er in MA. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.258853
+date: 2026-07-10T01:07:48.266523
 url: "/cdr-researcher-census/researchers/mehdi-taib-a5032672/"
 layout: "researcher"
 hiddenInHomeList: true

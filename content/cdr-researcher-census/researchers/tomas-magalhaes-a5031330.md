@@ -1,7 +1,7 @@
 ---
 title: "Tomás Magalhães"
 description: "Tomás Magalhães is a Mid-career Unknown researcher at Fundação para a Ciência e a Tecnologia in PT. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.210964
+date: 2026-07-10T01:07:48.223731
 url: "/cdr-researcher-census/researchers/tomas-magalhaes-a5031330/"
 layout: "researcher"
 hiddenInHomeList: true

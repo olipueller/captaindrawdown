@@ -1,7 +1,7 @@
 ---
 title: "Shang-Yu Ou"
 description: "Shang-Yu Ou is a Senior Unknown researcher at Beijing University of Chemical Technology in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.020222
+date: 2026-07-10T01:07:48.936166
 url: "/cdr-researcher-census/researchers/shang-yu-ou-a5103505/"
 layout: "researcher"
 hiddenInHomeList: true

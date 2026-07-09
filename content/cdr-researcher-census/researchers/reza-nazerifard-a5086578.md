@@ -1,7 +1,7 @@
 ---
 title: "Reza Nazerifard"
 description: "Reza Nazerifard is a Mid-career Unknown researcher at University of Tabriz in IR. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.838523
+date: 2026-07-10T01:07:48.771092
 url: "/cdr-researcher-census/researchers/reza-nazerifard-a5086578/"
 layout: "researcher"
 hiddenInHomeList: true

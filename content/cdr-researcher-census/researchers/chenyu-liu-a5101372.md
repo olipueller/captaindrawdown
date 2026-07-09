@@ -1,7 +1,7 @@
 ---
 title: "Chenyu Liu"
 description: "Chenyu Liu is an Early-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.139188
+date: 2026-07-10T01:07:49.042359
 url: "/cdr-researcher-census/researchers/chenyu-liu-a5101372/"
 layout: "researcher"
 hiddenInHomeList: true

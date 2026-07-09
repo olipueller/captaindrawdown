@@ -1,7 +1,7 @@
 ---
 title: "A. Barbaresi"
 description: "A. Barbaresi is a Senior Unknown researcher at University of Parma in IT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.225160
+date: 2026-07-10T01:07:49.135069
 url: "/cdr-researcher-census/researchers/a-barbaresi-a5023562/"
 layout: "researcher"
 hiddenInHomeList: true

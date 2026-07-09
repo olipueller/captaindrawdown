@@ -1,7 +1,7 @@
 ---
 title: "Qibo Huang"
 description: "Qibo Huang is a Senior Unknown researcher at Guangxi Minzu University in CN. With 56 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.983862
+date: 2026-07-10T01:07:47.992961
 url: "/cdr-researcher-census/researchers/qibo-huang-a5072979/"
 layout: "researcher"
 hiddenInHomeList: true

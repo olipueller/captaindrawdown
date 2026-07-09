@@ -1,7 +1,7 @@
 ---
 title: "Narcisa Smječanin Omerbegović"
 description: "Narcisa Smječanin Omerbegović is an Early-career General CDR researcher at University of Sarajevo in BA. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.766411
+date: 2026-07-10T01:07:48.710954
 url: "/cdr-researcher-census/researchers/narcisa-smjecanin-omerbegovic-a5114542/"
 layout: "researcher"
 hiddenInHomeList: true

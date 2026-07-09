@@ -1,7 +1,7 @@
 ---
 title: "Roy Vera-Vélez"
 description: "Roy Vera-Vélez is a Mid-career Unknown researcher at University of Saskatchewan in CA. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.083065
+date: 2026-07-10T01:07:48.993445
 url: "/cdr-researcher-census/researchers/roy-vera-velez-a5076685/"
 layout: "researcher"
 hiddenInHomeList: true

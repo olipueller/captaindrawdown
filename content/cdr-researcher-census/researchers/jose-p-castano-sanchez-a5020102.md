@@ -1,7 +1,7 @@
 ---
 title: "José P. Castaño-Sánchez"
 description: "José P. Castaño-Sánchez is a Mid-career Unknown researcher at University of Vermont in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.199330
+date: 2026-07-10T01:07:49.112243
 url: "/cdr-researcher-census/researchers/jose-p-castano-sanchez-a5020102/"
 layout: "researcher"
 hiddenInHomeList: true

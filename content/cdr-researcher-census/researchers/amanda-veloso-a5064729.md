@@ -1,7 +1,7 @@
 ---
 title: "Amanda Veloso"
 description: "Amanda Veloso is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.300253
+date: 2026-07-10T01:07:47.382545
 url: "/cdr-researcher-census/researchers/amanda-veloso-a5064729/"
 layout: "researcher"
 hiddenInHomeList: true

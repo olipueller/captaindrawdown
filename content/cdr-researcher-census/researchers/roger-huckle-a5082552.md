@@ -1,7 +1,7 @@
 ---
 title: "Roger Huckle"
 description: "Roger Huckle is a Senior Unknown researcher at European Organisation for the Exploitation of Meteorological Satellites in DE. With 19 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.784328
+date: 2026-07-10T01:07:47.832897
 url: "/cdr-researcher-census/researchers/roger-huckle-a5082552/"
 layout: "researcher"
 hiddenInHomeList: true

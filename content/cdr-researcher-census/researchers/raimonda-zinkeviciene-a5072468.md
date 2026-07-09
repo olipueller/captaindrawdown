@@ -1,7 +1,7 @@
 ---
 title: "Raimonda Zinkevičienė"
 description: "Raimonda Zinkevičienė is a Mid-career Biochar researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.222869
+date: 2026-07-10T01:07:49.133076
 url: "/cdr-researcher-census/researchers/raimonda-zinkeviciene-a5072468/"
 layout: "researcher"
 hiddenInHomeList: true

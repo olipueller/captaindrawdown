@@ -1,7 +1,7 @@
 ---
 title: "Yuxia Yang"
 description: "Yuxia Yang is a Mid-career Unknown researcher at Tangshan People's Hospital in CN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.112507
+date: 2026-07-10T01:07:49.019237
 url: "/cdr-researcher-census/researchers/yuxia-yang-a5101135/"
 layout: "researcher"
 hiddenInHomeList: true

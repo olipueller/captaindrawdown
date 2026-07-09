@@ -1,7 +1,7 @@
 ---
 title: "Maryam Rabiee Abyaneh"
 description: "Maryam Rabiee Abyaneh is a Mid-career Biochar researcher at University of Tehran in IR. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.758653
+date: 2026-07-10T01:07:47.808862
 url: "/cdr-researcher-census/researchers/maryam-rabiee-abyaneh-a5069369/"
 layout: "researcher"
 hiddenInHomeList: true

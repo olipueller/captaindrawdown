@@ -1,7 +1,7 @@
 ---
 title: "Kaiping Zhu"
 description: "Kaiping Zhu is a Senior General CDR researcher at National University of Singapore in SG. With 40 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.117627
+date: 2026-07-10T01:07:47.204577
 url: "/cdr-researcher-census/researchers/kaiping-zhu-a5005236/"
 layout: "researcher"
 hiddenInHomeList: true

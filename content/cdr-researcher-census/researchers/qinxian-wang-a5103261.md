@@ -1,7 +1,7 @@
 ---
 title: "Qinxian Wang"
 description: "Qinxian Wang is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.939008
+date: 2026-07-10T01:07:48.861840
 url: "/cdr-researcher-census/researchers/qinxian-wang-a5103261/"
 layout: "researcher"
 hiddenInHomeList: true

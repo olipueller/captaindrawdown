@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna Wasak-Sęk"
 description: "Katarzyna Wasak-Sęk is a Mid-career Unknown researcher at Polish Acadamy of Sciences in PL. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.240003
+date: 2026-07-10T01:07:48.249125
 url: "/cdr-researcher-census/researchers/katarzyna-wasak-sek-a5075279/"
 layout: "researcher"
 hiddenInHomeList: true

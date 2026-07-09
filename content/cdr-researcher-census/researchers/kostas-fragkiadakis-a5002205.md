@@ -1,7 +1,7 @@
 ---
 title: "Kostas Fragkiadakis"
 description: "Kostas Fragkiadakis is a Senior General CDR researcher at University of Crete in GR. With 66 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.050967
+date: 2026-07-10T01:07:47.125789
 url: "/cdr-researcher-census/researchers/kostas-fragkiadakis-a5002205/"
 layout: "researcher"
 hiddenInHomeList: true

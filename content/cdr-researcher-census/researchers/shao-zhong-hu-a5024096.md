@@ -1,7 +1,7 @@
 ---
 title: "Shao-zhong Hu"
 description: "Shao-zhong Hu is a Senior Unknown researcher at Southwest Jiaotong University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.765104
+date: 2026-07-10T01:07:47.815576
 url: "/cdr-researcher-census/researchers/shao-zhong-hu-a5024096/"
 layout: "researcher"
 hiddenInHomeList: true

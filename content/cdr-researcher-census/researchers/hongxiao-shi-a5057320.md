@@ -1,7 +1,7 @@
 ---
 title: "Hongxiao Shi"
 description: "Hongxiao Shi is a Mid-career Unknown researcher at Chinese Academy of Agricultural Sciences in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.143264
+date: 2026-07-10T01:07:47.232061
 url: "/cdr-researcher-census/researchers/hongxiao-shi-a5057320/"
 layout: "researcher"
 hiddenInHomeList: true

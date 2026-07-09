@@ -1,7 +1,7 @@
 ---
 title: "Sebin Choi"
 description: "Sebin Choi is a Mid-career General CDR researcher at Sungkyunkwan University in KR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.507340
+date: 2026-07-10T01:07:48.492576
 url: "/cdr-researcher-census/researchers/sebin-choi-a5065537/"
 layout: "researcher"
 hiddenInHomeList: true

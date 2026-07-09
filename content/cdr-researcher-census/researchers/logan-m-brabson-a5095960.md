@@ -1,7 +1,7 @@
 ---
 title: "Logan M. Brabson"
 description: "Logan M. Brabson is an Early-career DAC researcher at Georgia Institute of Technology in US. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.665582
+date: 2026-07-10T01:07:48.622007
 url: "/cdr-researcher-census/researchers/logan-m-brabson-a5095960/"
 layout: "researcher"
 hiddenInHomeList: true

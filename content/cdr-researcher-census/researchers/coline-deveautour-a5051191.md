@@ -1,7 +1,7 @@
 ---
 title: "Coline Deveautour"
 description: "Coline Deveautour is a Mid-career Soil Carbon researcher at Universidade La Salle in BR. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.893984
+date: 2026-07-10T01:07:47.908971
 url: "/cdr-researcher-census/researchers/coline-deveautour-a5051191/"
 layout: "researcher"
 hiddenInHomeList: true

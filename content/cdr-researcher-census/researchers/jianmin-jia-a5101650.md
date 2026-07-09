@@ -1,7 +1,7 @@
 ---
 title: "Jianmin Jia"
 description: "Jianmin Jia is a Mid-career Unknown researcher at Shenzhen Academy of Robotics in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.244475
+date: 2026-07-10T01:07:47.330107
 url: "/cdr-researcher-census/researchers/jianmin-jia-a5101650/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hanamant M. Halli"
 description: "Hanamant M. Halli is a Mid-career Soil Carbon researcher at National Institute of Abiotic Stress Management in IN. With 78 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.329247
+date: 2026-07-10T01:07:47.411090
 url: "/cdr-researcher-census/researchers/hanamant-m-halli-a5061189/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fujian Liu"
 description: "Fujian Liu is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.717942
+date: 2026-07-10T01:07:48.667975
 url: "/cdr-researcher-census/researchers/fujian-liu-a5101470/"
 layout: "researcher"
 hiddenInHomeList: true

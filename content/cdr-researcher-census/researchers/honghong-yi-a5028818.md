@@ -1,7 +1,7 @@
 ---
 title: "HongHong Yi"
 description: "HongHong Yi is an Early-career Unknown researcher at Beijing University of Technology in CN. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.096409
+date: 2026-07-10T01:07:49.004927
 url: "/cdr-researcher-census/researchers/honghong-yi-a5028818/"
 layout: "researcher"
 hiddenInHomeList: true

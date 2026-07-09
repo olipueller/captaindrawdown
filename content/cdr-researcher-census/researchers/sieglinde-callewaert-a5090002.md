@@ -1,7 +1,7 @@
 ---
 title: "Sieglinde Callewaert"
 description: "Sieglinde Callewaert is a Mid-career Unknown researcher at University of Liège in BE. With 27 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.950181
+date: 2026-07-10T01:07:48.871975
 url: "/cdr-researcher-census/researchers/sieglinde-callewaert-a5090002/"
 layout: "researcher"
 hiddenInHomeList: true

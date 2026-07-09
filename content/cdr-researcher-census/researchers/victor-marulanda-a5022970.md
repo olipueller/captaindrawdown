@@ -1,7 +1,7 @@
 ---
 title: "Víctor Marulanda"
 description: "Víctor Marulanda is a Senior Biochar researcher at Universidad del Valle in CO. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.586567
+date: 2026-07-10T01:07:47.649914
 url: "/cdr-researcher-census/researchers/victor-marulanda-a5022970/"
 layout: "researcher"
 hiddenInHomeList: true

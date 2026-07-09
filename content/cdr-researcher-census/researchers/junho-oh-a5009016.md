@@ -1,7 +1,7 @@
 ---
 title: "Junho Oh"
 description: "Junho Oh is a Senior Unknown researcher at Jeonbuk National University in KR. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.084944
+date: 2026-07-10T01:07:48.085946
 url: "/cdr-researcher-census/researchers/junho-oh-a5009016/"
 layout: "researcher"
 hiddenInHomeList: true

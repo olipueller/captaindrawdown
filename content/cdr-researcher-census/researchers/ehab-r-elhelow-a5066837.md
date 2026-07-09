@@ -1,7 +1,7 @@
 ---
 title: "Ehab R. El‐Helow"
 description: "Ehab R. El‐Helow is a Senior Biochar researcher at National Research Centre in EG. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.425674
+date: 2026-07-10T01:07:47.504036
 url: "/cdr-researcher-census/researchers/ehab-r-elhelow-a5066837/"
 layout: "researcher"
 hiddenInHomeList: true

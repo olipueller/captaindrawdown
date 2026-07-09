@@ -1,7 +1,7 @@
 ---
 title: "Vijaysinha Kakade"
 description: "Vijaysinha Kakade is a Mid-career Soil Carbon researcher at National Institute of Abiotic Stress Management in IN. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.284148
+date: 2026-07-10T01:07:47.366524
 url: "/cdr-researcher-census/researchers/vijaysinha-kakade-a5113030/"
 layout: "researcher"
 hiddenInHomeList: true

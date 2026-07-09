@@ -1,7 +1,7 @@
 ---
 title: "Shuyue Lai"
 description: "Shuyue Lai is a Mid-career Unknown researcher at Shanghai Jiao Tong University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.011010
+date: 2026-07-10T01:07:48.928105
 url: "/cdr-researcher-census/researchers/shuyue-lai-a5063798/"
 layout: "researcher"
 hiddenInHomeList: true

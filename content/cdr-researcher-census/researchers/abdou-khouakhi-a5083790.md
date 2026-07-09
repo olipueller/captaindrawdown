@@ -1,7 +1,7 @@
 ---
 title: "Abdou Khouakhi"
 description: "Abdou Khouakhi is a Senior Soil Carbon researcher at Cranfield University in GB. With 65 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.171193
+date: 2026-07-10T01:07:47.261005
 url: "/cdr-researcher-census/researchers/abdou-khouakhi-a5083790/"
 layout: "researcher"
 hiddenInHomeList: true

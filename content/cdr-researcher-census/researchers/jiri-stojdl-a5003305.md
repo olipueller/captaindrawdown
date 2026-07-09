@@ -1,7 +1,7 @@
 ---
 title: "Jiří Štojdl"
 description: "Jiří Štojdl is a Mid-career Soil Carbon researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.110414
+date: 2026-07-10T01:07:48.136097
 url: "/cdr-researcher-census/researchers/jiri-stojdl-a5003305/"
 layout: "researcher"
 hiddenInHomeList: true

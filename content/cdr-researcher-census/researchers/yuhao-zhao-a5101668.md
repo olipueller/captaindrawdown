@@ -1,7 +1,7 @@
 ---
 title: "Yuhao Zhao"
 description: "Yuhao Zhao is a Mid-career Ocean CDR researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.610297
+date: 2026-07-10T01:07:48.572137
 url: "/cdr-researcher-census/researchers/yuhao-zhao-a5101668/"
 layout: "researcher"
 hiddenInHomeList: true

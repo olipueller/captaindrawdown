@@ -1,7 +1,7 @@
 ---
 title: "Zihan Zhang"
 description: "Zihan Zhang is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.054403
+date: 2026-07-10T01:07:48.967697
 url: "/cdr-researcher-census/researchers/zihan-zhang-a5100410/"
 layout: "researcher"
 hiddenInHomeList: true

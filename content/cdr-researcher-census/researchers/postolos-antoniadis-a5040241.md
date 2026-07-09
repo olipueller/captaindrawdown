@@ -1,7 +1,7 @@
 ---
 title: "Αpostolos Antoniadis"
 description: "Αpostolos Antoniadis is a Senior Unknown researcher at Public Power Corporation (Greece) in GR. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.620264
+date: 2026-07-10T01:07:47.681016
 url: "/cdr-researcher-census/researchers/postolos-antoniadis-a5040241/"
 layout: "researcher"
 hiddenInHomeList: true

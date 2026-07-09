@@ -1,7 +1,7 @@
 ---
 title: "Yue Meng"
 description: "Yue Meng is a Senior Soil Carbon researcher at First Affiliated Hospital of Jiamusi University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.730119
+date: 2026-07-10T01:07:48.678991
 url: "/cdr-researcher-census/researchers/yue-meng-a5110262/"
 layout: "researcher"
 hiddenInHomeList: true

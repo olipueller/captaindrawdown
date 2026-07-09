@@ -1,7 +1,7 @@
 ---
 title: "Justin R. Bevere"
 description: "Justin R. Bevere is a Mid-career Unknown researcher at West Virginia University in US. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.524772
+date: 2026-07-10T01:07:47.591383
 url: "/cdr-researcher-census/researchers/justin-r-bevere-a5055936/"
 layout: "researcher"
 hiddenInHomeList: true

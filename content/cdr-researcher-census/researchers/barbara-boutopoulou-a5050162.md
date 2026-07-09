@@ -1,7 +1,7 @@
 ---
 title: "Barbara Boutopoulou"
 description: "Barbara Boutopoulou is a Senior Unknown researcher at Andreas Sygros Hospital in GR. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.017420
+date: 2026-07-10T01:07:48.025022
 url: "/cdr-researcher-census/researchers/barbara-boutopoulou-a5050162/"
 layout: "researcher"
 hiddenInHomeList: true

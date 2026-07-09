@@ -1,7 +1,7 @@
 ---
 title: "Teuntje P. Hollaar"
 description: "Teuntje P. Hollaar is a Mid-career General CDR researcher at China University of Geosciences in CN. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.648262
+date: 2026-07-10T01:07:48.607065
 url: "/cdr-researcher-census/researchers/teuntje-p-hollaar-a5013023/"
 layout: "researcher"
 hiddenInHomeList: true

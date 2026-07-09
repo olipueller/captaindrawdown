@@ -1,7 +1,7 @@
 ---
 title: "Mingli Cui"
 description: "Mingli Cui is a Mid-career Unknown researcher at China University of Geosciences (Beijing) in CN. With 44 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.192708
+date: 2026-07-10T01:07:47.281910
 url: "/cdr-researcher-census/researchers/mingli-cui-a5060733/"
 layout: "researcher"
 hiddenInHomeList: true

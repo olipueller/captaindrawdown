@@ -1,7 +1,7 @@
 ---
 title: "Shem Kuyah"
 description: "Shem Kuyah is a Senior Soil Carbon researcher at Jomo Kenyatta University of Agriculture and Technology in KE. With 81 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.951406
+date: 2026-07-10T01:07:46.985153
 url: "/cdr-researcher-census/researchers/shem-kuyah-a5051348/"
 layout: "researcher"
 hiddenInHomeList: true

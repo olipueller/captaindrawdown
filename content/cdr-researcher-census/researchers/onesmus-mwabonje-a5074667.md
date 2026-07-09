@@ -1,7 +1,7 @@
 ---
 title: "Onesmus Mwabonje"
 description: "Onesmus Mwabonje is a Senior General CDR researcher at Imperial College London in GB. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.765003
+date: 2026-07-10T01:07:47.815484
 url: "/cdr-researcher-census/researchers/onesmus-mwabonje-a5074667/"
 layout: "researcher"
 hiddenInHomeList: true

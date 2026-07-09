@@ -1,7 +1,7 @@
 ---
 title: "Lei Zeng"
 description: "Lei Zeng is a Mid-career Unknown researcher at Qinghai University Affiliated Hospital in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.745134
+date: 2026-07-10T01:07:48.691796
 url: "/cdr-researcher-census/researchers/lei-zeng-a5113165/"
 layout: "researcher"
 hiddenInHomeList: true

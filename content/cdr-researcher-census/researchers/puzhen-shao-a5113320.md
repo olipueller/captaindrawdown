@@ -1,7 +1,7 @@
 ---
 title: "Puzhen Shao"
 description: "Puzhen Shao is a Mid-career Unknown researcher at Harbin Institute of Technology in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.320142
+date: 2026-07-10T01:07:47.402477
 url: "/cdr-researcher-census/researchers/puzhen-shao-a5113320/"
 layout: "researcher"
 hiddenInHomeList: true

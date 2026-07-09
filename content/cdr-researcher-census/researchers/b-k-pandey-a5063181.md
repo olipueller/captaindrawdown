@@ -1,7 +1,7 @@
 ---
 title: "B. K. Pandey"
 description: "B. K. Pandey is a Mid-career Unknown researcher at University of Idaho in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.679571
+date: 2026-07-10T01:07:48.634935
 url: "/cdr-researcher-census/researchers/b-k-pandey-a5063181/"
 layout: "researcher"
 hiddenInHomeList: true

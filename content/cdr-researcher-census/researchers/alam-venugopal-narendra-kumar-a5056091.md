@@ -1,7 +1,7 @@
 ---
 title: "Alam Venugopal Narendra Kumar"
 description: "Alam Venugopal Narendra Kumar is a Mid-career Biochar researcher at SRM University in IN. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.523639
+date: 2026-07-10T01:07:47.590393
 url: "/cdr-researcher-census/researchers/alam-venugopal-narendra-kumar-a5056091/"
 layout: "researcher"
 hiddenInHomeList: true

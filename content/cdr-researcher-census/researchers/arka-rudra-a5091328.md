@@ -1,7 +1,7 @@
 ---
 title: "Arka Rudra"
 description: "Arka Rudra is a Mid-career Biochar researcher at Aarhus University in DK. With 66 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.374299
+date: 2026-07-10T01:07:47.456562
 url: "/cdr-researcher-census/researchers/arka-rudra-a5091328/"
 layout: "researcher"
 hiddenInHomeList: true

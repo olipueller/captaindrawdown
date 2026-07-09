@@ -1,7 +1,7 @@
 ---
 title: "Yi-Ming Wei"
 description: "Yi-Ming Wei is a Mid-career General CDR researcher at Beijing Institute of Technology in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.019773
+date: 2026-07-10T01:07:47.085954
 url: "/cdr-researcher-census/researchers/yi-ming-wei-a5113741/"
 layout: "researcher"
 hiddenInHomeList: true

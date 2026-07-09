@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Amine Ifticene"
 description: "Mohamed Amine Ifticene is a Mid-career Unknown researcher at Texas Tech University in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.228971
+date: 2026-07-10T01:07:48.239162
 url: "/cdr-researcher-census/researchers/mohamed-amine-ifticene-a5048310/"
 layout: "researcher"
 hiddenInHomeList: true

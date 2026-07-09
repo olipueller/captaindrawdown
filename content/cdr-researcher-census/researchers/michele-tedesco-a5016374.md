@@ -1,7 +1,7 @@
 ---
 title: "Michele Tedesco"
 description: "Michele Tedesco is a Senior General CDR researcher at TNO in NL. With 59 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.958272
+date: 2026-07-10T01:07:46.995247
 url: "/cdr-researcher-census/researchers/michele-tedesco-a5016374/"
 layout: "researcher"
 hiddenInHomeList: true

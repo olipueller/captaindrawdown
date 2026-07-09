@@ -1,7 +1,7 @@
 ---
 title: "Michele Mattioni"
 description: "Michele Mattioni is a Mid-career Unknown researcher at National Academies of Sciences, Engineering, and Medicine in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.756495
+date: 2026-07-10T01:07:48.702336
 url: "/cdr-researcher-census/researchers/michele-mattioni-a5076069/"
 layout: "researcher"
 hiddenInHomeList: true

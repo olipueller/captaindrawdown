@@ -1,7 +1,7 @@
 ---
 title: "Roman Selyanchyn"
 description: "Roman Selyanchyn is a Senior General CDR researcher at Kyushu University in JP. With 74 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.074135
+date: 2026-07-10T01:07:47.153569
 url: "/cdr-researcher-census/researchers/roman-selyanchyn-a5041469/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tianyu Hao"
 description: "Tianyu Hao is a Mid-career Unknown researcher at Guangzhou University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.564218
+date: 2026-07-10T01:07:48.543368
 url: "/cdr-researcher-census/researchers/tianyu-hao-a5048029/"
 layout: "researcher"
 hiddenInHomeList: true

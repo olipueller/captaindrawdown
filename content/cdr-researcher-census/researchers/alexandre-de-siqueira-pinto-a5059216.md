@@ -1,7 +1,7 @@
 ---
 title: "Alexandre de Siqueira Pinto"
 description: "Alexandre de Siqueira Pinto is a Senior Soil Carbon researcher at Universidade Federal de Sergipe in BR. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.047908
+date: 2026-07-10T01:07:47.122339
 url: "/cdr-researcher-census/researchers/alexandre-de-siqueira-pinto-a5059216/"
 layout: "researcher"
 hiddenInHomeList: true

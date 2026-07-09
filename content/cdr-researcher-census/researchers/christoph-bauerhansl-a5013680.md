@@ -1,7 +1,7 @@
 ---
 title: "Christoph Bauerhansl"
 description: "Christoph Bauerhansl is an Early-career Unknown researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.121775
+date: 2026-07-10T01:07:49.027263
 url: "/cdr-researcher-census/researchers/christoph-bauerhansl-a5013680/"
 layout: "researcher"
 hiddenInHomeList: true

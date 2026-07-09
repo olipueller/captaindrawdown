@@ -1,7 +1,7 @@
 ---
 title: "Biyensa Gurmessa"
 description: "Biyensa Gurmessa is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.628385
+date: 2026-07-10T01:07:47.688076
 url: "/cdr-researcher-census/researchers/biyensa-gurmessa-a5114038/"
 layout: "researcher"
 hiddenInHomeList: true

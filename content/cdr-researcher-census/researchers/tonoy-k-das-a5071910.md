@@ -1,7 +1,7 @@
 ---
 title: "Tonoy K. Das"
 description: "Tonoy K. Das is a Mid-career Unknown researcher at Texas A&M University – Kingsville in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.529345
+date: 2026-07-10T01:07:47.595976
 url: "/cdr-researcher-census/researchers/tonoy-k-das-a5071910/"
 layout: "researcher"
 hiddenInHomeList: true

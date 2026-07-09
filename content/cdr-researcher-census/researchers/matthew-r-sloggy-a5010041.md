@@ -1,7 +1,7 @@
 ---
 title: "Matthew R. Sloggy"
 description: "Matthew R. Sloggy is a Mid-career Unknown researcher at US Forest Service in US. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.940459
+date: 2026-07-10T01:07:47.952849
 url: "/cdr-researcher-census/researchers/matthew-r-sloggy-a5010041/"
 layout: "researcher"
 hiddenInHomeList: true

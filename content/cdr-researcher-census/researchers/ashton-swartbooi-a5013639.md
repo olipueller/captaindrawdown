@@ -1,7 +1,7 @@
 ---
 title: "Ashton Swartbooi"
 description: "Ashton Swartbooi is a Senior Unknown researcher at Council for Scientific and Industrial Research in ZA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.059844
+date: 2026-07-10T01:07:48.063584
 url: "/cdr-researcher-census/researchers/ashton-swartbooi-a5013639/"
 layout: "researcher"
 hiddenInHomeList: true

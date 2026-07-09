@@ -1,7 +1,7 @@
 ---
 title: "Hannah Daly"
 description: "Hannah Daly is a Senior General CDR researcher at University College Cork in IE. With 82 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.098960
+date: 2026-07-10T01:07:47.182603
 url: "/cdr-researcher-census/researchers/hannah-daly-a5061585/"
 layout: "researcher"
 hiddenInHomeList: true

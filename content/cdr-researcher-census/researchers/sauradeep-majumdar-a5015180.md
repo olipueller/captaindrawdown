@@ -1,7 +1,7 @@
 ---
 title: "Sauradeep Majumdar"
 description: "Sauradeep Majumdar is a Mid-career Unknown researcher at Massachusetts Institute of Technology in US. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.584109
+date: 2026-07-10T01:07:47.647705
 url: "/cdr-researcher-census/researchers/sauradeep-majumdar-a5015180/"
 layout: "researcher"
 hiddenInHomeList: true

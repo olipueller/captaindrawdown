@@ -1,7 +1,7 @@
 ---
 title: "Uttam K. Roy"
 description: "Uttam K. Roy is a Senior General CDR researcher at Loughborough University in GB. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.313392
+date: 2026-07-10T01:07:48.315649
 url: "/cdr-researcher-census/researchers/uttam-k-roy-a5081994/"
 layout: "researcher"
 hiddenInHomeList: true

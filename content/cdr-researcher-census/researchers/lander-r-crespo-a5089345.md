@@ -1,7 +1,7 @@
 ---
 title: "Lander R. Crespo"
 description: "Lander R. Crespo is a Mid-career Unknown researcher at Bjerknes Centre for Climate Research in NO. With 21 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.823445
+date: 2026-07-10T01:07:48.758209
 url: "/cdr-researcher-census/researchers/lander-r-crespo-a5089345/"
 layout: "researcher"
 hiddenInHomeList: true

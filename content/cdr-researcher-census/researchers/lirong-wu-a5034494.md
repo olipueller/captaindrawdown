@@ -1,7 +1,7 @@
 ---
 title: "Lirong Wu"
 description: "Lirong Wu is a Mid-career Unknown researcher at China University of Mining and Technology in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.317410
+date: 2026-07-10T01:07:47.399672
 url: "/cdr-researcher-census/researchers/lirong-wu-a5034494/"
 layout: "researcher"
 hiddenInHomeList: true

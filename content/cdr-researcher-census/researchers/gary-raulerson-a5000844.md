@@ -1,7 +1,7 @@
 ---
 title: "Gary Raulerson"
 description: "Gary Raulerson is a Senior Soil Carbon researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.859624
+date: 2026-07-10T01:07:47.894998
 url: "/cdr-researcher-census/researchers/gary-raulerson-a5000844/"
 layout: "researcher"
 hiddenInHomeList: true

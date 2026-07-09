@@ -1,7 +1,7 @@
 ---
 title: "Ayman N. Saber"
 description: "Ayman N. Saber is a Senior Unknown researcher at Central Agricultural Pesticide Laboratory in EG. With 50 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.313762
+date: 2026-07-10T01:07:47.395851
 url: "/cdr-researcher-census/researchers/ayman-n-saber-a5080229/"
 layout: "researcher"
 hiddenInHomeList: true

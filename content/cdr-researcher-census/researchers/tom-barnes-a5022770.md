@@ -1,7 +1,7 @@
 ---
 title: "Tom Barnes"
 description: "Tom Barnes is a Mid-career Unknown researcher at University of Greenwich in GB. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.740018
+date: 2026-07-10T01:07:47.792227
 url: "/cdr-researcher-census/researchers/tom-barnes-a5022770/"
 layout: "researcher"
 hiddenInHomeList: true

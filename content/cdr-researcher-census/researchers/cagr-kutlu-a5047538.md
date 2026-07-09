@@ -1,7 +1,7 @@
 ---
 title: "Çağrı Kutlu"
 description: "Çağrı Kutlu is a Mid-career General CDR researcher at Necmettin Erbakan University in TR. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.430670
+date: 2026-07-10T01:07:47.508454
 url: "/cdr-researcher-census/researchers/cagr-kutlu-a5047538/"
 layout: "researcher"
 hiddenInHomeList: true

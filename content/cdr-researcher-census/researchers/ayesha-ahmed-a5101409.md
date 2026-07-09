@@ -1,7 +1,7 @@
 ---
 title: "Ayesha Ahmed"
 description: "Ayesha Ahmed is a Senior General CDR researcher at Fauji Foundation Hospital in PK. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.240221
+date: 2026-07-10T01:07:47.326614
 url: "/cdr-researcher-census/researchers/ayesha-ahmed-a5101409/"
 layout: "researcher"
 hiddenInHomeList: true

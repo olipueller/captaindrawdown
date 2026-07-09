@@ -1,7 +1,7 @@
 ---
 title: "Khatab Abdalla"
 description: "Khatab Abdalla is a Mid-career Soil Carbon researcher at National Centre for Research in SD. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.530602
+date: 2026-07-10T01:07:47.597203
 url: "/cdr-researcher-census/researchers/khatab-abdalla-a5079796/"
 layout: "researcher"
 hiddenInHomeList: true

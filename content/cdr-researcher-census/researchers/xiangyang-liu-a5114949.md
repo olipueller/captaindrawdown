@@ -1,7 +1,7 @@
 ---
 title: "Xiangyang Liu"
 description: "Xiangyang Liu is a Senior Unknown researcher at Institute of Agricultural Resources and Regional Planning in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.056448
+date: 2026-07-10T01:07:48.969370
 url: "/cdr-researcher-census/researchers/xiangyang-liu-a5114949/"
 layout: "researcher"
 hiddenInHomeList: true

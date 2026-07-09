@@ -1,7 +1,7 @@
 ---
 title: "Imran Ahmad"
 description: "Imran Ahmad is a Senior Soil Carbon researcher at Ministry of Agriculture Khyber Pakhtunkhwa in PK. With 155 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.042585
+date: 2026-07-10T01:07:47.115576
 url: "/cdr-researcher-census/researchers/imran-ahmad-a5100710/"
 layout: "researcher"
 hiddenInHomeList: true

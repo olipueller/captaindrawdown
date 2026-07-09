@@ -1,7 +1,7 @@
 ---
 title: "Zhenfeng Xu"
 description: "Zhenfeng Xu is a Senior Soil Carbon researcher at Shijiazhuang University in CN. With 159 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.985868
+date: 2026-07-10T01:07:47.038516
 url: "/cdr-researcher-census/researchers/zhenfeng-xu-a5012669/"
 layout: "researcher"
 hiddenInHomeList: true

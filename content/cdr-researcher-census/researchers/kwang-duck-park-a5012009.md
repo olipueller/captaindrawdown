@@ -1,7 +1,7 @@
 ---
 title: "Kwang-Duck Park"
 description: "Kwang-Duck Park is a Mid-career Unknown researcher at Korea Institute of Civil Engineering and Building Technology in KR. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.463998
+date: 2026-07-10T01:07:47.537793
 url: "/cdr-researcher-census/researchers/kwang-duck-park-a5012009/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Elidaa K. Daku"
 description: "Elidaa K. Daku is a Mid-career Unknown researcher at University of Lomé in TG. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.258639
+date: 2026-07-10T01:07:49.165298
 url: "/cdr-researcher-census/researchers/elidaa-k-daku-a5037278/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fakhra Sharif"
 description: "Fakhra Sharif is a Mid-career Biochar researcher at Government College University, Faisalabad in PK. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.752946
+date: 2026-07-10T01:07:48.699499
 url: "/cdr-researcher-census/researchers/fakhra-sharif-a5027441/"
 layout: "researcher"
 hiddenInHomeList: true

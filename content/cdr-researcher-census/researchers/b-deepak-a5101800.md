@@ -1,7 +1,7 @@
 ---
 title: "B. Deepak"
 description: "B. Deepak is a Mid-career Biochar researcher at Almas Hospital in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.656976
+date: 2026-07-10T01:07:47.714441
 url: "/cdr-researcher-census/researchers/b-deepak-a5101800/"
 layout: "researcher"
 hiddenInHomeList: true

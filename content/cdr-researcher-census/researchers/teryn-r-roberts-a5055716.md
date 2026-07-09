@@ -1,7 +1,7 @@
 ---
 title: "Teryn R. Roberts"
 description: "Teryn R. Roberts is a Senior General CDR researcher at The Geneva Foundation in US. With 53 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.843839
+date: 2026-07-10T01:07:47.879312
 url: "/cdr-researcher-census/researchers/teryn-r-roberts-a5055716/"
 layout: "researcher"
 hiddenInHomeList: true

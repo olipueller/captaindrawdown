@@ -1,7 +1,7 @@
 ---
 title: "Subhajit Sen"
 description: "Subhajit Sen is a Mid-career Unknown researcher at King Fahd University of Petroleum and Minerals in SA. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.136295
+date: 2026-07-10T01:07:49.040027
 url: "/cdr-researcher-census/researchers/subhajit-sen-a5026735/"
 layout: "researcher"
 hiddenInHomeList: true

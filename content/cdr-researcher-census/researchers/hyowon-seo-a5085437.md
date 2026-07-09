@@ -1,7 +1,7 @@
 ---
 title: "Hyowon Seo"
 description: "Hyowon Seo is a Senior General CDR researcher at Stony Brook University in US. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.098613
+date: 2026-07-10T01:07:47.182234
 url: "/cdr-researcher-census/researchers/hyowon-seo-a5085437/"
 layout: "researcher"
 hiddenInHomeList: true

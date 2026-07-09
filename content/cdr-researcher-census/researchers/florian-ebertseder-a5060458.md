@@ -1,7 +1,7 @@
 ---
 title: "Florian Ebertseder"
 description: "Florian Ebertseder is a Mid-career Unknown researcher at Bavarian State Research Center for Agriculture in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.272534
+date: 2026-07-10T01:07:47.355456
 url: "/cdr-researcher-census/researchers/florian-ebertseder-a5060458/"
 layout: "researcher"
 hiddenInHomeList: true

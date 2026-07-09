@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyun Song"
 description: "Xiaoyun Song is a Mid-career Unknown researcher at China Geological Survey in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.821378
+date: 2026-07-10T01:07:47.867453
 url: "/cdr-researcher-census/researchers/xiaoyun-song-a5026912/"
 layout: "researcher"
 hiddenInHomeList: true

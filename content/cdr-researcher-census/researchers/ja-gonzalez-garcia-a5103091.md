@@ -1,7 +1,7 @@
 ---
 title: "J.A. González García"
 description: "J.A. González García is a Senior General CDR researcher at Prodeval GmbH in DE. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.580130
+date: 2026-07-10T01:07:47.643344
 url: "/cdr-researcher-census/researchers/ja-gonzalez-garcia-a5103091/"
 layout: "researcher"
 hiddenInHomeList: true

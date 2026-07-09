@@ -1,7 +1,7 @@
 ---
 title: "Yunsung Lim"
 description: "Yunsung Lim is a Mid-career Unknown researcher at Seoul National University in KR. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.705815
+date: 2026-07-10T01:07:47.759968
 url: "/cdr-researcher-census/researchers/yunsung-lim-a5065614/"
 layout: "researcher"
 hiddenInHomeList: true

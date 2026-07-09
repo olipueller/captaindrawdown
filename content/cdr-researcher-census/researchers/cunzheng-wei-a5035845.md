@@ -1,7 +1,7 @@
 ---
 title: "Cunzheng Wei"
 description: "Cunzheng Wei is a Senior Soil Carbon researcher at Institute of Botany, Chinese Academy of Sciences in CN. With 47 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.154834
+date: 2026-07-10T01:07:47.243410
 url: "/cdr-researcher-census/researchers/cunzheng-wei-a5035845/"
 layout: "researcher"
 hiddenInHomeList: true

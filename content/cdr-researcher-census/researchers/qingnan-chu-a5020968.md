@@ -1,7 +1,7 @@
 ---
 title: "Qingnan Chu"
 description: "Qingnan Chu is a Senior Soil Carbon researcher at Universidad Politécnica de Madrid in ES. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.244212
+date: 2026-07-10T01:07:47.329922
 url: "/cdr-researcher-census/researchers/qingnan-chu-a5020968/"
 layout: "researcher"
 hiddenInHomeList: true

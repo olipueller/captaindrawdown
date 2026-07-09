@@ -1,7 +1,7 @@
 ---
 title: "Cuiling Lu"
 description: "Cuiling Lu is a Senior Soil Carbon researcher at Tianjin Medical University Cancer Institute and Hospital in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.841284
+date: 2026-07-10T01:07:47.876974
 url: "/cdr-researcher-census/researchers/cuiling-lu-a5104041/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Farooq Azhar"
 description: "Muhammad Farooq Azhar is a Mid-career Soil Carbon researcher at Bahauddin Zakariya University in PK. With 60 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.677688
+date: 2026-07-10T01:07:47.734013
 url: "/cdr-researcher-census/researchers/muhammad-farooq-azhar-a5033202/"
 layout: "researcher"
 hiddenInHomeList: true

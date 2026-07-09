@@ -1,7 +1,7 @@
 ---
 title: "Kaikai Min"
 description: "Kaikai Min is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.951481
+date: 2026-07-10T01:07:48.873275
 url: "/cdr-researcher-census/researchers/kaikai-min-a5020506/"
 layout: "researcher"
 hiddenInHomeList: true

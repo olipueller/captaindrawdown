@@ -1,7 +1,7 @@
 ---
 title: "Liangchao Jiang"
 description: "Liangchao Jiang is a Mid-career Soil Carbon researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.688609
+date: 2026-07-10T01:07:48.642672
 url: "/cdr-researcher-census/researchers/liangchao-jiang-a5081695/"
 layout: "researcher"
 hiddenInHomeList: true

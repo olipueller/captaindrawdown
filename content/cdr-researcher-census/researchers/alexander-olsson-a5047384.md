@@ -1,7 +1,7 @@
 ---
 title: "Alexander Olsson"
 description: "Alexander Olsson is a Mid-career General CDR researcher at Södertörn University in SE. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.190696
+date: 2026-07-10T01:07:48.205180
 url: "/cdr-researcher-census/researchers/alexander-olsson-a5047384/"
 layout: "researcher"
 hiddenInHomeList: true

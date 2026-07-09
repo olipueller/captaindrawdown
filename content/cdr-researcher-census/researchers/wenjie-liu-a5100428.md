@@ -1,7 +1,7 @@
 ---
 title: "Wenjie Liu"
 description: "Wenjie Liu is a Mid-career Soil Carbon researcher at Tianjin University of Sport in CN. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.938971
+date: 2026-07-10T01:07:47.951397
 url: "/cdr-researcher-census/researchers/wenjie-liu-a5100428/"
 layout: "researcher"
 hiddenInHomeList: true

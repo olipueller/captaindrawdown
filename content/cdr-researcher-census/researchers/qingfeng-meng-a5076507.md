@@ -1,7 +1,7 @@
 ---
 title: "Qingfeng Meng"
 description: "Qingfeng Meng is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.551690
+date: 2026-07-10T01:07:47.615764
 url: "/cdr-researcher-census/researchers/qingfeng-meng-a5076507/"
 layout: "researcher"
 hiddenInHomeList: true

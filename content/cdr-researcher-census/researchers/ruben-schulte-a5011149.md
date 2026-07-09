@@ -1,7 +1,7 @@
 ---
 title: "Ruben Schulte"
 description: "Ruben Schulte is a Mid-career Unknown researcher at Wageningen University & Research in NL. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.694307
+date: 2026-07-10T01:07:48.647538
 url: "/cdr-researcher-census/researchers/ruben-schulte-a5011149/"
 layout: "researcher"
 hiddenInHomeList: true

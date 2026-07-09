@@ -1,7 +1,7 @@
 ---
 title: "Fang Shen"
 description: "Fang Shen is a Mid-career Ocean CDR researcher at Yunnan Agricultural University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.751059
+date: 2026-07-10T01:07:48.697821
 url: "/cdr-researcher-census/researchers/fang-shen-a5062332/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Md. Sohel Parvez"
 description: "Md. Sohel Parvez is a Mid-career Unknown researcher at University of Debrecen in HU. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.872690
+date: 2026-07-10T01:07:48.800721
 url: "/cdr-researcher-census/researchers/md-sohel-parvez-a5041528/"
 layout: "researcher"
 hiddenInHomeList: true

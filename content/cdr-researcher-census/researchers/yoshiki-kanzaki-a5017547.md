@@ -1,7 +1,7 @@
 ---
 title: "Yoshiki Kanzaki"
 description: "Yoshiki Kanzaki is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 88 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.459376
+date: 2026-07-10T01:07:47.533719
 url: "/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/"
 layout: "researcher"
 hiddenInHomeList: true

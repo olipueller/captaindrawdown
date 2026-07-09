@@ -1,7 +1,7 @@
 ---
 title: "Andrea Vojs Staňová"
 description: "Andrea Vojs Staňová is a Senior Biochar researcher at Comenius University in SK. With 88 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.154589
+date: 2026-07-10T01:07:47.243198
 url: "/cdr-researcher-census/researchers/andrea-vojs-stanova-a5063847/"
 layout: "researcher"
 hiddenInHomeList: true

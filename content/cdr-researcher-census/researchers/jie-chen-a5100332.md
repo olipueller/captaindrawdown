@@ -1,7 +1,7 @@
 ---
 title: "Jie Chen"
 description: "Jie Chen is a Senior Soil Carbon researcher at Huanggang Normal University in CN. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.163675
+date: 2026-07-10T01:07:47.252983
 url: "/cdr-researcher-census/researchers/jie-chen-a5100332/"
 layout: "researcher"
 hiddenInHomeList: true

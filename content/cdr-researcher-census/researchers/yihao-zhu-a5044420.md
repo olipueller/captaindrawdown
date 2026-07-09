@@ -1,7 +1,7 @@
 ---
 title: "Yihao Zhu"
 description: "Yihao Zhu is a Senior Unknown researcher at University of North Texas in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.409217
+date: 2026-07-10T01:07:48.400702
 url: "/cdr-researcher-census/researchers/yihao-zhu-a5044420/"
 layout: "researcher"
 hiddenInHomeList: true

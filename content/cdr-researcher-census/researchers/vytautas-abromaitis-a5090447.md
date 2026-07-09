@@ -1,7 +1,7 @@
 ---
 title: "Vytautas Abromaitis"
 description: "Vytautas Abromaitis is a Mid-career Unknown researcher at Kaunas University of Technology in LT. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.482554
+date: 2026-07-10T01:07:48.469280
 url: "/cdr-researcher-census/researchers/vytautas-abromaitis-a5090447/"
 layout: "researcher"
 hiddenInHomeList: true

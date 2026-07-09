@@ -1,7 +1,7 @@
 ---
 title: "ML Ribeiro"
 description: "ML Ribeiro is a Senior Unknown researcher at Universidad de Buenos Aires in AR. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.686189
+date: 2026-07-10T01:07:48.640698
 url: "/cdr-researcher-census/researchers/ml-ribeiro-a5111915/"
 layout: "researcher"
 hiddenInHomeList: true

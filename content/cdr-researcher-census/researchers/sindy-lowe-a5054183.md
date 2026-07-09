@@ -1,7 +1,7 @@
 ---
 title: "Sindy Löwe"
 description: "Sindy Löwe is a Mid-career DAC researcher. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.290697
+date: 2026-07-10T01:07:47.373000
 url: "/cdr-researcher-census/researchers/sindy-lowe-a5054183/"
 layout: "researcher"
 hiddenInHomeList: true

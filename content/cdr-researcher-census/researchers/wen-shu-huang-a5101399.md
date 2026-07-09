@@ -1,7 +1,7 @@
 ---
 title: "Wen-Shu Huang"
 description: "Wen-Shu Huang is a Senior Soil Carbon researcher at East China Jiaotong University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.476191
+date: 2026-07-10T01:07:48.463342
 url: "/cdr-researcher-census/researchers/wen-shu-huang-a5101399/"
 layout: "researcher"
 hiddenInHomeList: true

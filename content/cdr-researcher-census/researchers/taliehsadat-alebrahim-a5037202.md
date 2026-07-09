@@ -1,7 +1,7 @@
 ---
 title: "Taliehsadat Alebrahim"
 description: "Taliehsadat Alebrahim is a Mid-career DAC researcher at University at Buffalo, State University of New York in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.515868
+date: 2026-07-10T01:07:48.499568
 url: "/cdr-researcher-census/researchers/taliehsadat-alebrahim-a5037202/"
 layout: "researcher"
 hiddenInHomeList: true

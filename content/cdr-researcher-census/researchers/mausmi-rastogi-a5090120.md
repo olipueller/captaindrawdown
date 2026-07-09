@@ -1,7 +1,7 @@
 ---
 title: "Mausmi Rastogi"
 description: "Mausmi Rastogi is a Mid-career Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.781532
+date: 2026-07-10T01:07:48.724361
 url: "/cdr-researcher-census/researchers/mausmi-rastogi-a5090120/"
 layout: "researcher"
 hiddenInHomeList: true

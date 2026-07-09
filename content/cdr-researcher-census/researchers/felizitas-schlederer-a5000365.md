@@ -1,7 +1,7 @@
 ---
 title: "Felizitas Schlederer"
 description: "Felizitas Schlederer is a Mid-career Biochar researcher at Université Laval in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.672758
+date: 2026-07-10T01:07:48.628642
 url: "/cdr-researcher-census/researchers/felizitas-schlederer-a5000365/"
 layout: "researcher"
 hiddenInHomeList: true

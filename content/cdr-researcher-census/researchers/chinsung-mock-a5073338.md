@@ -1,7 +1,7 @@
 ---
 title: "Chinsung Mock"
 description: "Chinsung Mock is a Mid-career Unknown researcher at Samsung (South Korea) in KR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.669976
+date: 2026-07-10T01:07:48.625876
 url: "/cdr-researcher-census/researchers/chinsung-mock-a5073338/"
 layout: "researcher"
 hiddenInHomeList: true

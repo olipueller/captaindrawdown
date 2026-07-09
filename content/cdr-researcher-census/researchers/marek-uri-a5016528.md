@@ -1,7 +1,7 @@
 ---
 title: "Marek Uri"
 description: "Marek Uri is a Mid-career Unknown researcher at Estonian University of Life Sciences in EE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.649918
+date: 2026-07-10T01:07:48.608480
 url: "/cdr-researcher-census/researchers/marek-uri-a5016528/"
 layout: "researcher"
 hiddenInHomeList: true

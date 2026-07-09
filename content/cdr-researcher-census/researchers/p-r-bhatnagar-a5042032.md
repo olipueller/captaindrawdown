@@ -1,7 +1,7 @@
 ---
 title: "P. R. Bhatnagar"
 description: "P. R. Bhatnagar is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.912096
+date: 2026-07-10T01:07:47.925382
 url: "/cdr-researcher-census/researchers/p-r-bhatnagar-a5042032/"
 layout: "researcher"
 hiddenInHomeList: true

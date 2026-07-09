@@ -1,7 +1,7 @@
 ---
 title: "Rahul Gupta"
 description: "Rahul Gupta is a Mid-career Biochar researcher at Indian Institute of Technology Kanpur in IN. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.417210
+date: 2026-07-10T01:07:48.407917
 url: "/cdr-researcher-census/researchers/rahul-gupta-a5011854/"
 layout: "researcher"
 hiddenInHomeList: true

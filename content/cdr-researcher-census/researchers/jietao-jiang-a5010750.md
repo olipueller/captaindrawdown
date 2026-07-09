@@ -1,7 +1,7 @@
 ---
 title: "Jietao Jiang"
 description: "Jietao Jiang is a Mid-career Unknown researcher at Jiangxi University of Science and Technology in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.665129
+date: 2026-07-10T01:07:47.722425
 url: "/cdr-researcher-census/researchers/jietao-jiang-a5010750/"
 layout: "researcher"
 hiddenInHomeList: true

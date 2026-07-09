@@ -1,7 +1,7 @@
 ---
 title: "Jingye Cui"
 description: "Jingye Cui is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.122316
+date: 2026-07-10T01:07:49.027673
 url: "/cdr-researcher-census/researchers/jingye-cui-a5033777/"
 layout: "researcher"
 hiddenInHomeList: true

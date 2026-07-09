@@ -1,7 +1,7 @@
 ---
 title: "Ann-Joelle Minor"
 description: "Ann-Joelle Minor is an Early-career Unknown researcher at Max Planck Institute for Dynamics of Complex Technical Systems in DE. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.027208
+date: 2026-07-10T01:07:48.943182
 url: "/cdr-researcher-census/researchers/ann-joelle-minor-a5016933/"
 layout: "researcher"
 hiddenInHomeList: true

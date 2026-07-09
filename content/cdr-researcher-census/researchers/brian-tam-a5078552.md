@@ -1,7 +1,7 @@
 ---
 title: "Brian Tam"
 description: "Brian Tam is a Senior Unknown researcher at Imperial College London in GB. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.994975
+date: 2026-07-10T01:07:48.004410
 url: "/cdr-researcher-census/researchers/brian-tam-a5078552/"
 layout: "researcher"
 hiddenInHomeList: true

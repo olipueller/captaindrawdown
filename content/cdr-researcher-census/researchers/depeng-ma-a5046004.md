@@ -1,7 +1,7 @@
 ---
 title: "Depeng Ma"
 description: "Depeng Ma is a Mid-career Unknown researcher at Ministry of Ecology and Environment in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.729339
+date: 2026-07-10T01:07:47.781330
 url: "/cdr-researcher-census/researchers/depeng-ma-a5046004/"
 layout: "researcher"
 hiddenInHomeList: true

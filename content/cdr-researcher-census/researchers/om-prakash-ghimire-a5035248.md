@@ -1,7 +1,7 @@
 ---
 title: "Om Prakash Ghimire"
 description: "Om Prakash Ghimire is a Mid-career Soil Carbon researcher at Nepal Red Cross Society in NP. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.939206
+date: 2026-07-10T01:07:48.862040
 url: "/cdr-researcher-census/researchers/om-prakash-ghimire-a5035248/"
 layout: "researcher"
 hiddenInHomeList: true

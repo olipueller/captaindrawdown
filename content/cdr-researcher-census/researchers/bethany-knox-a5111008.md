@@ -1,7 +1,7 @@
 ---
 title: "Bethany Knox"
 description: "Bethany Knox is a Mid-career Unknown researcher at Universitat Pompeu Fabra in ES. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.190823
+date: 2026-07-10T01:07:49.104644
 url: "/cdr-researcher-census/researchers/bethany-knox-a5111008/"
 layout: "researcher"
 hiddenInHomeList: true

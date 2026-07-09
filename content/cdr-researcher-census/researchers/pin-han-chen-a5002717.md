@@ -1,7 +1,7 @@
 ---
 title: "Pin-Han Chen"
 description: "Pin-Han Chen is a Mid-career Soil Carbon researcher at Providence University in TW. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.751493
+date: 2026-07-10T01:07:48.698206
 url: "/cdr-researcher-census/researchers/pin-han-chen-a5002717/"
 layout: "researcher"
 hiddenInHomeList: true

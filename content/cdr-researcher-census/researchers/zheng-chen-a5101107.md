@@ -1,7 +1,7 @@
 ---
 title: "Zheng Chen"
 description: "Zheng Chen is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.257743
+date: 2026-07-10T01:07:49.164363
 url: "/cdr-researcher-census/researchers/zheng-chen-a5101107/"
 layout: "researcher"
 hiddenInHomeList: true

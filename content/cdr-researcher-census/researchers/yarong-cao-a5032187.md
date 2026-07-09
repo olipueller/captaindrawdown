@@ -1,7 +1,7 @@
 ---
 title: "Yarong Cao"
 description: "Yarong Cao is an Early-career Unknown researcher at Sichuan University in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.388871
+date: 2026-07-10T01:07:48.382446
 url: "/cdr-researcher-census/researchers/yarong-cao-a5032187/"
 layout: "researcher"
 hiddenInHomeList: true

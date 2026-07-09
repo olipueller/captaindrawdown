@@ -1,7 +1,7 @@
 ---
 title: "Lucette Tidahy"
 description: "Lucette Tidahy is a Senior Unknown researcher at Centre National de la Recherche Scientifique in FR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.031361
+date: 2026-07-10T01:07:48.038273
 url: "/cdr-researcher-census/researchers/lucette-tidahy-a5017086/"
 layout: "researcher"
 hiddenInHomeList: true

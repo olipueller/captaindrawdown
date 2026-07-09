@@ -1,7 +1,7 @@
 ---
 title: "Josephine Chang Hui Lai"
 description: "Josephine Chang Hui Lai is a Mid-career BECCS researcher. With 13 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.065800
+date: 2026-07-10T01:07:48.977603
 url: "/cdr-researcher-census/researchers/josephine-chang-hui-lai-a5102722/"
 layout: "researcher"
 hiddenInHomeList: true

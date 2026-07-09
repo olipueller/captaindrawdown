@@ -1,7 +1,7 @@
 ---
 title: "Jing Wang"
 description: "Jing Wang is a Senior Unknown researcher at Liupanshui Normal University in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.110763
+date: 2026-07-10T01:07:48.136383
 url: "/cdr-researcher-census/researchers/jing-wang-a5100633/"
 layout: "researcher"
 hiddenInHomeList: true

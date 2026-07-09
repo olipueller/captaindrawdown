@@ -1,7 +1,7 @@
 ---
 title: "Rafael Órpez"
 description: "Rafael Órpez is a Senior Ocean CDR researcher at Universidad de Jaén in ES. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.176876
+date: 2026-07-10T01:07:48.193136
 url: "/cdr-researcher-census/researchers/rafael-orpez-a5045057/"
 layout: "researcher"
 hiddenInHomeList: true

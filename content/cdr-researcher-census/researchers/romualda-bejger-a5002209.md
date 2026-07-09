@@ -1,7 +1,7 @@
 ---
 title: "Romualda Bejger"
 description: "Romualda Bejger is a Mid-career Soil Carbon researcher at West Pomeranian University of Technology in Szczecin in PL. With 46 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.813337
+date: 2026-07-10T01:07:47.859988
 url: "/cdr-researcher-census/researchers/romualda-bejger-a5002209/"
 layout: "researcher"
 hiddenInHomeList: true

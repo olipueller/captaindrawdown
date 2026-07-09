@@ -1,7 +1,7 @@
 ---
 title: "Hao Sheng"
 description: "Hao Sheng is a Senior Soil Carbon researcher at Tongji University in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.364848
+date: 2026-07-10T01:07:47.446841
 url: "/cdr-researcher-census/researchers/hao-sheng-a5102203/"
 layout: "researcher"
 hiddenInHomeList: true

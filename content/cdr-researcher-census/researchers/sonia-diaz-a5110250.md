@@ -1,7 +1,7 @@
 ---
 title: "Sonia Díaz"
 description: "Sonia Díaz is a Senior General CDR researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.233321
+date: 2026-07-10T01:07:48.243117
 url: "/cdr-researcher-census/researchers/sonia-diaz-a5110250/"
 layout: "researcher"
 hiddenInHomeList: true

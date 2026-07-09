@@ -1,7 +1,7 @@
 ---
 title: "Martin Kay"
 description: "Martin Kay is a Senior Unknown researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.645169
+date: 2026-07-10T01:07:48.603844
 url: "/cdr-researcher-census/researchers/martin-kay-a5015523/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Isobel Birkinshaw"
 description: "Isobel Birkinshaw is a Mid-career Unknown researcher. With 14 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.020412
+date: 2026-07-10T01:07:47.086718
 url: "/cdr-researcher-census/researchers/isobel-birkinshaw-a5112664/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "MohammadSina HajiHashemi"
 description: "MohammadSina HajiHashemi is an Early-career Unknown researcher at Norwegian University of Science and Technology in NO. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.257136
+date: 2026-07-10T01:07:49.163751
 url: "/cdr-researcher-census/researchers/mohammadsina-hajihashemi-a5010193/"
 layout: "researcher"
 hiddenInHomeList: true

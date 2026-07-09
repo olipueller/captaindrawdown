@@ -1,7 +1,7 @@
 ---
 title: "Zhenhong Huang"
 description: "Zhenhong Huang is a Mid-career Biochar researcher at Hunan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.484858
+date: 2026-07-10T01:07:48.471357
 url: "/cdr-researcher-census/researchers/zhenhong-huang-a5102021/"
 layout: "researcher"
 hiddenInHomeList: true

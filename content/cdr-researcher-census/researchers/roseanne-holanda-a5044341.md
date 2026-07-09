@@ -1,7 +1,7 @@
 ---
 title: "Roseanne Holanda"
 description: "Roseanne Holanda is a Mid-career Unknown researcher at Universidade Federal de Alagoas in BR. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.766715
+date: 2026-07-10T01:07:48.711226
 url: "/cdr-researcher-census/researchers/roseanne-holanda-a5044341/"
 layout: "researcher"
 hiddenInHomeList: true

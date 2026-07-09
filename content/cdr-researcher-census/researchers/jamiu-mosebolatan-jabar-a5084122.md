@@ -1,7 +1,7 @@
 ---
 title: "Jamiu Mosebolatan Jabar"
 description: "Jamiu Mosebolatan Jabar is a Mid-career Biochar researcher at Federal University of Technology Akure School of Sciences in NG. With 44 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.229117
+date: 2026-07-10T01:07:47.315773
 url: "/cdr-researcher-census/researchers/jamiu-mosebolatan-jabar-a5084122/"
 layout: "researcher"
 hiddenInHomeList: true

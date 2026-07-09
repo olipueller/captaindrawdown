@@ -1,7 +1,7 @@
 ---
 title: "Camilla Diesen Hosfeld"
 description: "Camilla Diesen Hosfeld is a Senior Unknown researcher at Western Norway University of Applied Sciences in NO. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.753427
+date: 2026-07-10T01:07:47.804134
 url: "/cdr-researcher-census/researchers/camilla-diesen-hosfeld-a5052229/"
 layout: "researcher"
 hiddenInHomeList: true

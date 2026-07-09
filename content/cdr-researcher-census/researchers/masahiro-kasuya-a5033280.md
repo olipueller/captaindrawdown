@@ -1,7 +1,7 @@
 ---
 title: "Masahiro Kasuya"
 description: "Masahiro Kasuya is a Senior Soil Carbon researcher. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.975163
+date: 2026-07-10T01:07:47.985145
 url: "/cdr-researcher-census/researchers/masahiro-kasuya-a5033280/"
 layout: "researcher"
 hiddenInHomeList: true

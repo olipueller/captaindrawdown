@@ -1,7 +1,7 @@
 ---
 title: "Laura Geulig"
 description: "Laura Geulig is an Early-career Unknown researcher at Lawrence Berkeley National Laboratory in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.183849
+date: 2026-07-10T01:07:49.098159
 url: "/cdr-researcher-census/researchers/laura-geulig-a5007955/"
 layout: "researcher"
 hiddenInHomeList: true

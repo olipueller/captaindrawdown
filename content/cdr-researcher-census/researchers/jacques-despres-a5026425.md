@@ -1,7 +1,7 @@
 ---
 title: "Jacques Després"
 description: "Jacques Després is a Mid-career General CDR researcher at Enerdata (France) in FR. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.015498
+date: 2026-07-10T01:07:47.081113
 url: "/cdr-researcher-census/researchers/jacques-despres-a5026425/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Matthew J. Needham"
 description: "Matthew J. Needham is a Mid-career Unknown researcher at Sheffield Teaching Hospitals NHS Foundation Trust in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.756809
+date: 2026-07-10T01:07:47.807030
 url: "/cdr-researcher-census/researchers/matthew-j-needham-a5006959/"
 layout: "researcher"
 hiddenInHomeList: true

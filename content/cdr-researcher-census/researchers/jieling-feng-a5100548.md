@@ -1,7 +1,7 @@
 ---
 title: "Jie‐Ling Feng"
 description: "Jie‐Ling Feng is a Mid-career Unknown researcher at Sun Yat-sen University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.707232
+date: 2026-07-10T01:07:48.659367
 url: "/cdr-researcher-census/researchers/jieling-feng-a5100548/"
 layout: "researcher"
 hiddenInHomeList: true

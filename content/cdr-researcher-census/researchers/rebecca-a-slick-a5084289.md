@@ -1,7 +1,7 @@
 ---
 title: "Rebecca A. Slick"
 description: "Rebecca A. Slick is a Mid-career Unknown researcher at Medical College of Wisconsin in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.744834
+date: 2026-07-10T01:07:48.691530
 url: "/cdr-researcher-census/researchers/rebecca-a-slick-a5084289/"
 layout: "researcher"
 hiddenInHomeList: true

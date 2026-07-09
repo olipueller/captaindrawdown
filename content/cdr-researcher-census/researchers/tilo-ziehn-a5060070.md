@@ -1,7 +1,7 @@
 ---
 title: "Tilo Ziehn"
 description: "Tilo Ziehn is a Senior General CDR researcher at CSIRO in AU. With 172 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.929861
+date: 2026-07-10T01:07:46.946632
 url: "/cdr-researcher-census/researchers/tilo-ziehn-a5060070/"
 layout: "researcher"
 hiddenInHomeList: true

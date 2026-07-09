@@ -1,7 +1,7 @@
 ---
 title: "Jorge Díaz-Rullo"
 description: "Jorge Díaz-Rullo is an Early-career Unknown researcher at Centro de Astrobiología in ES. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.783537
+date: 2026-07-10T01:07:48.725888
 url: "/cdr-researcher-census/researchers/jorge-diaz-rullo-a5018741/"
 layout: "researcher"
 hiddenInHomeList: true

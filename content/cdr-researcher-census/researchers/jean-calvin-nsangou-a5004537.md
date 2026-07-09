@@ -1,7 +1,7 @@
 ---
 title: "Jean Calvin Nsangou"
 description: "Jean Calvin Nsangou is a Mid-career Unknown researcher at Université de Yaoundé I in CM. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.837391
+date: 2026-07-10T01:07:48.770137
 url: "/cdr-researcher-census/researchers/jean-calvin-nsangou-a5004537/"
 layout: "researcher"
 hiddenInHomeList: true

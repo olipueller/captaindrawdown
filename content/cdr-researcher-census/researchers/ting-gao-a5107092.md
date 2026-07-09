@@ -1,7 +1,7 @@
 ---
 title: "Ting Gao"
 description: "Ting Gao is a Mid-career Unknown researcher at Animal Science Research Institute in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.140164
+date: 2026-07-10T01:07:48.161395
 url: "/cdr-researcher-census/researchers/ting-gao-a5107092/"
 layout: "researcher"
 hiddenInHomeList: true

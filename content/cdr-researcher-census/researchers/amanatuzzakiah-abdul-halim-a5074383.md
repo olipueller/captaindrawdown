@@ -1,7 +1,7 @@
 ---
 title: "Amanatuzzakiah Abdul Halim"
 description: "Amanatuzzakiah Abdul Halim is a Mid-career Unknown researcher at International Islamic University Malaysia in MY. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.691685
+date: 2026-07-10T01:07:48.645276
 url: "/cdr-researcher-census/researchers/amanatuzzakiah-abdul-halim-a5074383/"
 layout: "researcher"
 hiddenInHomeList: true

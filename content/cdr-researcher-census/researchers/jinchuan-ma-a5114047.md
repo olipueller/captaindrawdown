@@ -1,7 +1,7 @@
 ---
 title: "Jinchuan Ma"
 description: "Jinchuan Ma is a Senior Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.408455
+date: 2026-07-10T01:07:47.488160
 url: "/cdr-researcher-census/researchers/jinchuan-ma-a5114047/"
 layout: "researcher"
 hiddenInHomeList: true

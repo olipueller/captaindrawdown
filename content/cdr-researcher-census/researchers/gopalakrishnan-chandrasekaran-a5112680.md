@@ -1,7 +1,7 @@
 ---
 title: "Gopalakrishnan Chandrasekaran"
 description: "Gopalakrishnan Chandrasekaran is a Mid-career Unknown researcher at SRM Institute of Science and Technology in IN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.604641
+date: 2026-07-10T01:07:48.567588
 url: "/cdr-researcher-census/researchers/gopalakrishnan-chandrasekaran-a5112680/"
 layout: "researcher"
 hiddenInHomeList: true

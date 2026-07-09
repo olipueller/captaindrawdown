@@ -1,7 +1,7 @@
 ---
 title: "Nathan Callaghan"
 description: "Nathan Callaghan is a Mid-career Unknown researcher at UK Centre for Ecology & Hydrology in GB. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.322263
+date: 2026-07-10T01:07:47.404505
 url: "/cdr-researcher-census/researchers/nathan-callaghan-a5091738/"
 layout: "researcher"
 hiddenInHomeList: true

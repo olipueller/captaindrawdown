@@ -1,7 +1,7 @@
 ---
 title: "Simian Huang"
 description: "Simian Huang is a Mid-career Unknown researcher at Wuhan Textile University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.787367
+date: 2026-07-10T01:07:47.836198
 url: "/cdr-researcher-census/researchers/simian-huang-a5112686/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Charline Fouchier"
 description: "Charline Fouchier is a Mid-career Unknown researcher at California Institute of Technology in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.232298
+date: 2026-07-10T01:07:49.141278
 url: "/cdr-researcher-census/researchers/charline-fouchier-a5039867/"
 layout: "researcher"
 hiddenInHomeList: true

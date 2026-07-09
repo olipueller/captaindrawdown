@@ -1,7 +1,7 @@
 ---
 title: "Jirong Cao"
 description: "Jirong Cao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.924893
+date: 2026-07-10T01:07:48.848413
 url: "/cdr-researcher-census/researchers/jirong-cao-a5004914/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Obey Gotore"
 description: "Obey Gotore is a Mid-career Biochar researcher at Nagasaki University in JP. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.762537
+date: 2026-07-10T01:07:47.813171
 url: "/cdr-researcher-census/researchers/obey-gotore-a5059089/"
 layout: "researcher"
 hiddenInHomeList: true

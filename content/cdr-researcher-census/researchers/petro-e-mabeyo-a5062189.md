@@ -1,7 +1,7 @@
 ---
 title: "Petro E. Mabeyo"
 description: "Petro E. Mabeyo is a Mid-career Unknown researcher at University of Dar es Salaam in TZ. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.064734
+date: 2026-07-10T01:07:48.976719
 url: "/cdr-researcher-census/researchers/petro-e-mabeyo-a5062189/"
 layout: "researcher"
 hiddenInHomeList: true

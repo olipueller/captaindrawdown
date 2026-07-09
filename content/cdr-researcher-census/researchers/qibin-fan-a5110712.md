@@ -1,7 +1,7 @@
 ---
 title: "Qibin Fan"
 description: "Qibin Fan is a Mid-career General CDR researcher at Tianjin University of Technology in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.112876
+date: 2026-07-10T01:07:48.138237
 url: "/cdr-researcher-census/researchers/qibin-fan-a5110712/"
 layout: "researcher"
 hiddenInHomeList: true

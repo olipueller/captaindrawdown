@@ -1,7 +1,7 @@
 ---
 title: "Ruipeng Yu"
 description: "Ruipeng Yu is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.952446
+date: 2026-07-10T01:07:47.964052
 url: "/cdr-researcher-census/researchers/ruipeng-yu-a5101148/"
 layout: "researcher"
 hiddenInHomeList: true

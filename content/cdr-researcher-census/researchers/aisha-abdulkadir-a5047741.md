@@ -1,7 +1,7 @@
 ---
 title: "Aisha Abdulkadir"
 description: "Aisha Abdulkadir is a Senior Soil Carbon researcher. With 46 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.299329
+date: 2026-07-10T01:07:47.381758
 url: "/cdr-researcher-census/researchers/aisha-abdulkadir-a5047741/"
 layout: "researcher"
 hiddenInHomeList: true

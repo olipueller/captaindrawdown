@@ -1,7 +1,7 @@
 ---
 title: "Ricardo R. Wanderley"
 description: "Ricardo R. Wanderley is a Mid-career Unknown researcher at Cambridge Carbon Capture (United Kingdom) in GB. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.678363
+date: 2026-07-10T01:07:47.734560
 url: "/cdr-researcher-census/researchers/ricardo-r-wanderley-a5075109/"
 layout: "researcher"
 hiddenInHomeList: true

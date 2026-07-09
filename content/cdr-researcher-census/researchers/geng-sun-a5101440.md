@@ -1,7 +1,7 @@
 ---
 title: "Geng Sun"
 description: "Geng Sun is a Senior Soil Carbon researcher at Chengdu Institute of Biology in CN. With 61 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.213843
+date: 2026-07-10T01:07:47.300900
 url: "/cdr-researcher-census/researchers/geng-sun-a5101440/"
 layout: "researcher"
 hiddenInHomeList: true

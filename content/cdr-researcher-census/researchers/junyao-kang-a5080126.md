@@ -1,7 +1,7 @@
 ---
 title: "Junyao Kang"
 description: "Junyao Kang is a Mid-career Enhanced Weathering researcher at Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute in DE. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.980357
+date: 2026-07-10T01:07:48.900273
 url: "/cdr-researcher-census/researchers/junyao-kang-a5080126/"
 layout: "researcher"
 hiddenInHomeList: true

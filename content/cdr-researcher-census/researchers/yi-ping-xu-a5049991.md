@@ -1,7 +1,7 @@
 ---
 title: "Yi-Ping Xu"
 description: "Yi-Ping Xu is an Early-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.104872
+date: 2026-07-10T01:07:48.131507
 url: "/cdr-researcher-census/researchers/yi-ping-xu-a5049991/"
 layout: "researcher"
 hiddenInHomeList: true

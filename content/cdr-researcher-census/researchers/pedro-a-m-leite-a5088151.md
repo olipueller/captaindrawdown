@@ -1,7 +1,7 @@
 ---
 title: "Pedro A. M. Leite"
 description: "Pedro A. M. Leite is a Mid-career Soil Carbon researcher at Texas A&M University in US. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.641026
+date: 2026-07-10T01:07:47.700237
 url: "/cdr-researcher-census/researchers/pedro-a-m-leite-a5088151/"
 layout: "researcher"
 hiddenInHomeList: true

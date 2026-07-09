@@ -1,7 +1,7 @@
 ---
 title: "Daniel Mahringer"
 description: "Daniel Mahringer is a Mid-career Unknown researcher at Umweltbundesamt in DE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.770876
+date: 2026-07-10T01:07:48.714752
 url: "/cdr-researcher-census/researchers/daniel-mahringer-a5036212/"
 layout: "researcher"
 hiddenInHomeList: true

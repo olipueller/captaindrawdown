@@ -1,7 +1,7 @@
 ---
 title: "Laura M. Nevatalo"
 description: "Laura M. Nevatalo is a Senior Unknown researcher at Aalto University in FI. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.431917
+date: 2026-07-10T01:07:48.422180
 url: "/cdr-researcher-census/researchers/laura-m-nevatalo-a5057037/"
 layout: "researcher"
 hiddenInHomeList: true

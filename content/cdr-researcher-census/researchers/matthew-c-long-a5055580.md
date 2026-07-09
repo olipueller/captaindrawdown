@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Long"
 description: "Matthew C. Long is an Eminent Ocean CDR researcher at [C]Worthy, LLC in US. With 233 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.895712
+date: 2026-07-10T01:07:46.877367
 url: "/cdr-researcher-census/researchers/matthew-c-long-a5055580/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Karen Perronnet"
 description: "Karen Perronnet is a Senior Unknown researcher at Institut national de l'environnement industriel et des risques in FR. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.722667
+date: 2026-07-10T01:07:48.672338
 url: "/cdr-researcher-census/researchers/karen-perronnet-a5053191/"
 layout: "researcher"
 hiddenInHomeList: true

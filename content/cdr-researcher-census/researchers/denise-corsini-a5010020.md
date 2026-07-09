@@ -1,7 +1,7 @@
 ---
 title: "Denise Corsini"
 description: "Denise Corsini is a Mid-career Unknown researcher at University of Milan in IT. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.235659
+date: 2026-07-10T01:07:49.144810
 url: "/cdr-researcher-census/researchers/denise-corsini-a5010020/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shaofeng Qin"
 description: "Shaofeng Qin is a Mid-career Biochar researcher at Shenzhen University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.686037
+date: 2026-07-10T01:07:47.742338
 url: "/cdr-researcher-census/researchers/shaofeng-qin-a5046851/"
 layout: "researcher"
 hiddenInHomeList: true

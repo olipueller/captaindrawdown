@@ -1,7 +1,7 @@
 ---
 title: "Pernilla Tidåker"
 description: "Pernilla Tidåker is a Senior Soil Carbon researcher at Energy Technology Centre in GB. With 54 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.126933
+date: 2026-07-10T01:07:47.214358
 url: "/cdr-researcher-census/researchers/pernilla-tidaker-a5019058/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Menghan Cao"
 description: "Menghan Cao is a Mid-career Biochar researcher at Qingdao Agricultural University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.022317
+date: 2026-07-10T01:07:48.030020
 url: "/cdr-researcher-census/researchers/menghan-cao-a5043839/"
 layout: "researcher"
 hiddenInHomeList: true

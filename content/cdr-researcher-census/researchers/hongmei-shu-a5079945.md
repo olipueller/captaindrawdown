@@ -1,7 +1,7 @@
 ---
 title: "Hongmei Shu"
 description: "Hongmei Shu is a Mid-career Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.024960
+date: 2026-07-10T01:07:48.032722
 url: "/cdr-researcher-census/researchers/hongmei-shu-a5079945/"
 layout: "researcher"
 hiddenInHomeList: true

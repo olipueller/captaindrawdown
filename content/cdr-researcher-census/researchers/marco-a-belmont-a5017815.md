@@ -1,7 +1,7 @@
 ---
 title: "Marco A. Belmont"
 description: "Marco A. Belmont is a Senior Unknown researcher at Toronto Public Health in CA. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.368501
+date: 2026-07-10T01:07:47.450791
 url: "/cdr-researcher-census/researchers/marco-a-belmont-a5017815/"
 layout: "researcher"
 hiddenInHomeList: true

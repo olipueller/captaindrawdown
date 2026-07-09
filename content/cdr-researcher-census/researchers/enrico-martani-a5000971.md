@@ -1,7 +1,7 @@
 ---
 title: "Enrico Martani"
 description: "Enrico Martani is a Mid-career Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.086155
+date: 2026-07-10T01:07:48.087125
 url: "/cdr-researcher-census/researchers/enrico-martani-a5000971/"
 layout: "researcher"
 hiddenInHomeList: true

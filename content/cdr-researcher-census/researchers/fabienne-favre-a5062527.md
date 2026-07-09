@@ -1,7 +1,7 @@
 ---
 title: "Fabienne Favre"
 description: "Fabienne Favre is a Senior Biochar researcher at University of Applied Sciences and Arts Western Switzerland in CH. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.496042
+date: 2026-07-10T01:07:47.566048
 url: "/cdr-researcher-census/researchers/fabienne-favre-a5062527/"
 layout: "researcher"
 hiddenInHomeList: true

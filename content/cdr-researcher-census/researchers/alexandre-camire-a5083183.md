@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Camiré"
 description: "Alexandre Camiré is a Mid-career Unknown researcher at Université de Sherbrooke in CA. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.982085
+date: 2026-07-10T01:07:48.901963
 url: "/cdr-researcher-census/researchers/alexandre-camire-a5083183/"
 layout: "researcher"
 hiddenInHomeList: true

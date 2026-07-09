@@ -1,7 +1,7 @@
 ---
 title: "Tian Zhao"
 description: "Tian Zhao is a Mid-career Unknown researcher at Beijing Normal University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.262873
+date: 2026-07-10T01:07:49.169220
 url: "/cdr-researcher-census/researchers/tian-zhao-a5102826/"
 layout: "researcher"
 hiddenInHomeList: true

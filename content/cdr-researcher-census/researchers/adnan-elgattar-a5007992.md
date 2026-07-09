@@ -1,7 +1,7 @@
 ---
 title: "Adnan Elgattar"
 description: "Adnan Elgattar is a Mid-career Unknown researcher at Florida Institute of Technology in US. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.973804
+date: 2026-07-10T01:07:48.893754
 url: "/cdr-researcher-census/researchers/adnan-elgattar-a5007992/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mosaad R. Sharaby"
 description: "Mosaad R. Sharaby is a Mid-career Unknown researcher at Kafrelsheikh University in EG. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.438986
+date: 2026-07-10T01:07:48.428878
 url: "/cdr-researcher-census/researchers/mosaad-r-sharaby-a5096293/"
 layout: "researcher"
 hiddenInHomeList: true

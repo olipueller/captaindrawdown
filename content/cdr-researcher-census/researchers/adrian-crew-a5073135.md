@@ -1,7 +1,7 @@
 ---
 title: "Adrian Crew"
 description: "Adrian Crew is a Senior Soil Carbon researcher at University of the West of England in GB. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.380046
+date: 2026-07-10T01:07:47.461723
 url: "/cdr-researcher-census/researchers/adrian-crew-a5073135/"
 layout: "researcher"
 hiddenInHomeList: true

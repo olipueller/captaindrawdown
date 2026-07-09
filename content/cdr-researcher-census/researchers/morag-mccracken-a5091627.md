@@ -1,7 +1,7 @@
 ---
 title: "Morag McCracken"
 description: "Morag McCracken is a Mid-career Soil Carbon researcher at UK Centre for Ecology & Hydrology in GB. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.486817
+date: 2026-07-10T01:07:47.558484
 url: "/cdr-researcher-census/researchers/morag-mccracken-a5091627/"
 layout: "researcher"
 hiddenInHomeList: true

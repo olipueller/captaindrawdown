@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Nabeel Haider"
 description: "Muhammad Nabeel Haider is a Mid-career Ocean CDR researcher at University College Cork in IE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.174436
+date: 2026-07-10T01:07:48.190649
 url: "/cdr-researcher-census/researchers/muhammad-nabeel-haider-a5016305/"
 layout: "researcher"
 hiddenInHomeList: true

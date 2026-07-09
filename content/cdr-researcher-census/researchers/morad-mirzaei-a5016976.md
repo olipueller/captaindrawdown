@@ -1,7 +1,7 @@
 ---
 title: "Morad Mirzaei"
 description: "Morad Mirzaei is a Mid-career Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.124673
+date: 2026-07-10T01:07:48.148568
 url: "/cdr-researcher-census/researchers/morad-mirzaei-a5016976/"
 layout: "researcher"
 hiddenInHomeList: true

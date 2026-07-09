@@ -1,7 +1,7 @@
 ---
 title: "Chung‐Yu Guan"
 description: "Chung‐Yu Guan is a Senior Biochar researcher at National Ilan University College of Engineering in TW. With 56 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.167305
+date: 2026-07-10T01:07:47.256877
 url: "/cdr-researcher-census/researchers/chungyu-guan-a5031432/"
 layout: "researcher"
 hiddenInHomeList: true

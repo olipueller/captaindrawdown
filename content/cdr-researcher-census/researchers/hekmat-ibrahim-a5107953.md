@@ -1,7 +1,7 @@
 ---
 title: "Hekmat Ibrahim"
 description: "Hekmat Ibrahim is a Mid-career Unknown researcher at Menoufia University in EG. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.478970
+date: 2026-07-10T01:07:47.551129
 url: "/cdr-researcher-census/researchers/hekmat-ibrahim-a5107953/"
 layout: "researcher"
 hiddenInHomeList: true

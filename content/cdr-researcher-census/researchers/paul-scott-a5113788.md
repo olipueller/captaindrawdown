@@ -1,7 +1,7 @@
 ---
 title: "Paul Scott"
 description: "Paul Scott is a Senior Unknown researcher at The University of Queensland in AU. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.190591
+date: 2026-07-10T01:07:48.205088
 url: "/cdr-researcher-census/researchers/paul-scott-a5113788/"
 layout: "researcher"
 hiddenInHomeList: true

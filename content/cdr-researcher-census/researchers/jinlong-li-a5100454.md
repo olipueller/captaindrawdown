@@ -1,7 +1,7 @@
 ---
 title: "Jinlong Li"
 description: "Jinlong Li is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.179115
+date: 2026-07-10T01:07:48.195294
 url: "/cdr-researcher-census/researchers/jinlong-li-a5100454/"
 layout: "researcher"
 hiddenInHomeList: true

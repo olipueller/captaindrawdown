@@ -1,7 +1,7 @@
 ---
 title: "R. Swathy"
 description: "R. Swathy is a Senior Unknown researcher at SRM Institute of Science and Technology in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.185004
+date: 2026-07-10T01:07:48.200303
 url: "/cdr-researcher-census/researchers/r-swathy-a5027239/"
 layout: "researcher"
 hiddenInHomeList: true

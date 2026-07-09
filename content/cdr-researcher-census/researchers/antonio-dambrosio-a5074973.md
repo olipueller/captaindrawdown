@@ -1,7 +1,7 @@
 ---
 title: "Antonio D’Ambrosio"
 description: "Antonio D’Ambrosio is a Senior General CDR researcher at Università Campus Bio-Medico in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.964494
+date: 2026-07-10T01:07:47.974984
 url: "/cdr-researcher-census/researchers/antonio-dambrosio-a5074973/"
 layout: "researcher"
 hiddenInHomeList: true

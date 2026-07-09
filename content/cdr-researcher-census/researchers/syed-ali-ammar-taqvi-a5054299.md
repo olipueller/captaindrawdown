@@ -1,7 +1,7 @@
 ---
 title: "Syed Ali Ammar Taqvi"
 description: "Syed Ali Ammar Taqvi is a Senior General CDR researcher at NED University of Engineering and Technology in PK. With 141 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.981285
+date: 2026-07-10T01:07:47.031170
 url: "/cdr-researcher-census/researchers/syed-ali-ammar-taqvi-a5054299/"
 layout: "researcher"
 hiddenInHomeList: true

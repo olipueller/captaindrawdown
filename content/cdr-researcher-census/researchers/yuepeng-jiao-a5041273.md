@@ -1,7 +1,7 @@
 ---
 title: "Yuepeng Jiao"
 description: "Yuepeng Jiao is a Mid-career Unknown researcher at Shandong Transportation Research Institute in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.630917
+date: 2026-07-10T01:07:48.590577
 url: "/cdr-researcher-census/researchers/yuepeng-jiao-a5041273/"
 layout: "researcher"
 hiddenInHomeList: true

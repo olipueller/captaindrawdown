@@ -1,7 +1,7 @@
 ---
 title: "Alexander García‐Mariaca"
 description: "Alexander García‐Mariaca is a Mid-career General CDR researcher at Universidad de Zaragoza in ES. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.724775
+date: 2026-07-10T01:07:48.674301
 url: "/cdr-researcher-census/researchers/alexander-garciamariaca-a5005419/"
 layout: "researcher"
 hiddenInHomeList: true

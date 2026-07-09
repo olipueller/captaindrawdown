@@ -1,7 +1,7 @@
 ---
 title: "Xiaojing Zhou"
 description: "Xiaojing Zhou is a Senior Unknown researcher at Dalian Ocean University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.976637
+date: 2026-07-10T01:07:48.896645
 url: "/cdr-researcher-census/researchers/xiaojing-zhou-a5108398/"
 layout: "researcher"
 hiddenInHomeList: true

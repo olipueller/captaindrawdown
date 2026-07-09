@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Orozco"
 description: "Stephanie Orozco is a Mid-career Unknown researcher at University of California, Merced in US. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.002411
+date: 2026-07-10T01:07:48.011669
 url: "/cdr-researcher-census/researchers/stephanie-orozco-a5074944/"
 layout: "researcher"
 hiddenInHomeList: true

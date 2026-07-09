@@ -1,7 +1,7 @@
 ---
 title: "Colin P. R. McCarter"
 description: "Colin P. R. McCarter is a Mid-career Soil Carbon researcher at Nipissing University in CA. With 70 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.255647
+date: 2026-07-10T01:07:47.339981
 url: "/cdr-researcher-census/researchers/colin-p-r-mccarter-a5057374/"
 layout: "researcher"
 hiddenInHomeList: true

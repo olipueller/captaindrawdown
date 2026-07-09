@@ -1,7 +1,7 @@
 ---
 title: "Yucheng Dong"
 description: "Yucheng Dong is a Senior BECCS researcher at Sichuan University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.509249
+date: 2026-07-10T01:07:48.494146
 url: "/cdr-researcher-census/researchers/yucheng-dong-a5112628/"
 layout: "researcher"
 hiddenInHomeList: true

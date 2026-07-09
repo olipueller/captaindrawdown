@@ -1,7 +1,7 @@
 ---
 title: "Kunting Xie"
 description: "Kunting Xie is a Mid-career Unknown researcher at Hunan University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.342538
+date: 2026-07-10T01:07:48.341977
 url: "/cdr-researcher-census/researchers/kunting-xie-a5047329/"
 layout: "researcher"
 hiddenInHomeList: true

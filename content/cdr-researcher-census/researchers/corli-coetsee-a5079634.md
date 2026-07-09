@@ -1,7 +1,7 @@
 ---
 title: "Corli Coetsee"
 description: "Corli Coetsee is a Senior Soil Carbon researcher at South African National Parks in ZA. With 100 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.089430
+date: 2026-07-10T01:07:47.172073
 url: "/cdr-researcher-census/researchers/corli-coetsee-a5079634/"
 layout: "researcher"
 hiddenInHomeList: true

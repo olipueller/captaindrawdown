@@ -1,7 +1,7 @@
 ---
 title: "Insha Wani"
 description: "Insha Wani is a Mid-career Biochar researcher at Indian Institute of Technology Jammu in IN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.784100
+date: 2026-07-10T01:07:47.832662
 url: "/cdr-researcher-census/researchers/insha-wani-a5077357/"
 layout: "researcher"
 hiddenInHomeList: true

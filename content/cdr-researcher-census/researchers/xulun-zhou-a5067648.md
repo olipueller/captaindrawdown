@@ -1,7 +1,7 @@
 ---
 title: "Xulun Zhou"
 description: "Xulun Zhou is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.655331
+date: 2026-07-10T01:07:48.613259
 url: "/cdr-researcher-census/researchers/xulun-zhou-a5067648/"
 layout: "researcher"
 hiddenInHomeList: true

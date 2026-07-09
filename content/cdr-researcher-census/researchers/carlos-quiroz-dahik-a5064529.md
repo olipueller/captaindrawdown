@@ -1,7 +1,7 @@
 ---
 title: "Carlos Quiroz Dahik"
 description: "Carlos Quiroz Dahik is a Mid-career Unknown researcher at University of Cuenca in EC. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.028324
+date: 2026-07-10T01:07:48.944268
 url: "/cdr-researcher-census/researchers/carlos-quiroz-dahik-a5064529/"
 layout: "researcher"
 hiddenInHomeList: true

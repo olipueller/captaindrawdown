@@ -1,7 +1,7 @@
 ---
 title: "Huijia Jin"
 description: "Huijia Jin is a Mid-career Unknown researcher at Xi'an University of Architecture and Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.621369
+date: 2026-07-10T01:07:48.582316
 url: "/cdr-researcher-census/researchers/huijia-jin-a5101692/"
 layout: "researcher"
 hiddenInHomeList: true

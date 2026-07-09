@@ -1,7 +1,7 @@
 ---
 title: "Oluwaseun S. Ogungbemi"
 description: "Oluwaseun S. Ogungbemi is a Mid-career Unknown researcher at Afe Babalola University in NG. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.003582
+date: 2026-07-10T01:07:48.921557
 url: "/cdr-researcher-census/researchers/oluwaseun-s-ogungbemi-a5047711/"
 layout: "researcher"
 hiddenInHomeList: true

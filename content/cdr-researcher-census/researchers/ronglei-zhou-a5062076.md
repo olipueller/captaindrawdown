@@ -1,7 +1,7 @@
 ---
 title: "Ronglei Zhou"
 description: "Ronglei Zhou is a Mid-career Soil Carbon researcher. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.885447
+date: 2026-07-10T01:07:47.900431
 url: "/cdr-researcher-census/researchers/ronglei-zhou-a5062076/"
 layout: "researcher"
 hiddenInHomeList: true

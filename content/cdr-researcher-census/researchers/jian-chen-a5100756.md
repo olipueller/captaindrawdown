@@ -1,7 +1,7 @@
 ---
 title: "Jian Chen"
 description: "Jian Chen is a Senior Unknown researcher at Shanghai Ocean University in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.792040
+date: 2026-07-10T01:07:48.732372
 url: "/cdr-researcher-census/researchers/jian-chen-a5100756/"
 layout: "researcher"
 hiddenInHomeList: true

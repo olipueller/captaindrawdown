@@ -1,7 +1,7 @@
 ---
 title: "Dongliang Han"
 description: "Dongliang Han is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.565180
+date: 2026-07-10T01:07:47.628928
 url: "/cdr-researcher-census/researchers/dongliang-han-a5100617/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anelise Catelan-Zborowski"
 description: "Anelise Catelan-Zborowski is an Early-career Unknown researcher. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.429646
+date: 2026-07-10T01:07:48.419734
 url: "/cdr-researcher-census/researchers/anelise-catelan-zborowski-a5078694/"
 layout: "researcher"
 hiddenInHomeList: true

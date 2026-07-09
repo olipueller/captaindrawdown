@@ -1,7 +1,7 @@
 ---
 title: "Netra Prasad Ghimire"
 description: "Netra Prasad Ghimire is a Mid-career Soil Carbon researcher at Purbanchal University in NP. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.748897
+date: 2026-07-10T01:07:47.800430
 url: "/cdr-researcher-census/researchers/netra-prasad-ghimire-a5056781/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Josimayra Almeida Medeiros"
 description: "Josimayra Almeida Medeiros is a Mid-career Unknown researcher at Universidade Federal de Alagoas in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.286637
+date: 2026-07-10T01:07:48.291560
 url: "/cdr-researcher-census/researchers/josimayra-almeida-medeiros-a5019014/"
 layout: "researcher"
 hiddenInHomeList: true

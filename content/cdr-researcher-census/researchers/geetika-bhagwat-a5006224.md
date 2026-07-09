@@ -1,7 +1,7 @@
 ---
 title: "Geetika Bhagwat"
 description: "Geetika Bhagwat is a Mid-career Unknown researcher at The University of Newcastle in AU. With 16 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.032539
+date: 2026-07-10T01:07:47.102012
 url: "/cdr-researcher-census/researchers/geetika-bhagwat-a5006224/"
 layout: "researcher"
 hiddenInHomeList: true

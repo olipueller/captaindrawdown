@@ -1,7 +1,7 @@
 ---
 title: "Lukasz Lasek"
 description: "Lukasz Lasek is an Early-career Unknown researcher at Jan Długosz University in PL. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.622878
+date: 2026-07-10T01:07:48.583701
 url: "/cdr-researcher-census/researchers/lukasz-lasek-a5093504/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yanglu Mei"
 description: "Yanglu Mei is a Mid-career Unknown researcher at Anhui Agricultural University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.541177
+date: 2026-07-10T01:07:47.606376
 url: "/cdr-researcher-census/researchers/yanglu-mei-a5000986/"
 layout: "researcher"
 hiddenInHomeList: true

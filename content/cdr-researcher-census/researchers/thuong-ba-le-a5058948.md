@@ -1,7 +1,7 @@
 ---
 title: "Thuong Ba Le"
 description: "Thuong Ba Le is a Mid-career Unknown researcher at Memorial University of Newfoundland in CA. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.596176
+date: 2026-07-10T01:07:48.560272
 url: "/cdr-researcher-census/researchers/thuong-ba-le-a5058948/"
 layout: "researcher"
 hiddenInHomeList: true

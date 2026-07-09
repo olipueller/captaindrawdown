@@ -1,7 +1,7 @@
 ---
 title: "Tanumoy Bera"
 description: "Tanumoy Bera is a Mid-career Soil Carbon researcher at University of Wyoming in US. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.419647
+date: 2026-07-10T01:07:47.498804
 url: "/cdr-researcher-census/researchers/tanumoy-bera-a5012527/"
 layout: "researcher"
 hiddenInHomeList: true

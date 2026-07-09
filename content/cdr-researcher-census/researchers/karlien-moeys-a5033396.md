@@ -1,7 +1,7 @@
 ---
 title: "Karlien Moeys"
 description: "Karlien Moeys is an Early-career Unknown researcher. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.683246
+date: 2026-07-10T01:07:48.638280
 url: "/cdr-researcher-census/researchers/karlien-moeys-a5033396/"
 layout: "researcher"
 hiddenInHomeList: true

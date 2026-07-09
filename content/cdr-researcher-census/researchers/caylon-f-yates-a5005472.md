@@ -1,7 +1,7 @@
 ---
 title: "Caylon F. Yates"
 description: "Caylon F. Yates is a Mid-career Unknown researcher at Pennsylvania State University in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.080959
+date: 2026-07-10T01:07:48.991529
 url: "/cdr-researcher-census/researchers/caylon-f-yates-a5005472/"
 layout: "researcher"
 hiddenInHomeList: true

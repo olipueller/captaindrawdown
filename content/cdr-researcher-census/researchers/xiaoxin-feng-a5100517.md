@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxin Feng"
 description: "Xiaoxin Feng is a Senior Unknown researcher at Huaibei Normal University in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.048865
+date: 2026-07-10T01:07:48.962329
 url: "/cdr-researcher-census/researchers/xiaoxin-feng-a5100517/"
 layout: "researcher"
 hiddenInHomeList: true

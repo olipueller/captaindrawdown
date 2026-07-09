@@ -1,7 +1,7 @@
 ---
 title: "Bharti Thakur"
 description: "Bharti Thakur is a Mid-career Unknown researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.368123
+date: 2026-07-10T01:07:47.450421
 url: "/cdr-researcher-census/researchers/bharti-thakur-a5104034/"
 layout: "researcher"
 hiddenInHomeList: true

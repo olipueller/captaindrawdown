@@ -1,7 +1,7 @@
 ---
 title: "Dominik Hennhoefer"
 description: "Dominik Hennhoefer is a Mid-career Unknown researcher at Hessisches Landesmuseum Darmstadt in DE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.922904
+date: 2026-07-10T01:07:48.846568
 url: "/cdr-researcher-census/researchers/dominik-hennhoefer-a5051936/"
 layout: "researcher"
 hiddenInHomeList: true

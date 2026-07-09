@@ -1,7 +1,7 @@
 ---
 title: "Veerendra Sahu"
 description: "Veerendra Sahu is a Mid-career General CDR researcher at Indian Institute of Technology Roorkee in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.953178
+date: 2026-07-10T01:07:47.964704
 url: "/cdr-researcher-census/researchers/veerendra-sahu-a5016769/"
 layout: "researcher"
 hiddenInHomeList: true

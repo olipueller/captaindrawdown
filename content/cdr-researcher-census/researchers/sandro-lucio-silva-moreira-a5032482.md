@@ -1,7 +1,7 @@
 ---
 title: "Sandro Lúcio Silva Moreira"
 description: "Sandro Lúcio Silva Moreira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 25 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.673846
+date: 2026-07-10T01:07:48.629714
 url: "/cdr-researcher-census/researchers/sandro-lucio-silva-moreira-a5032482/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dietmar Barkusky"
 description: "Dietmar Barkusky is a Senior Soil Carbon researcher at Leibniz Centre for Agricultural Landscape Research in DE. With 48 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.277961
+date: 2026-07-10T01:07:47.360331
 url: "/cdr-researcher-census/researchers/dietmar-barkusky-a5061502/"
 layout: "researcher"
 hiddenInHomeList: true

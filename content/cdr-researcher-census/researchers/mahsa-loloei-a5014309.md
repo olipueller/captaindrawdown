@@ -1,7 +1,7 @@
 ---
 title: "Mahsa Loloei"
 description: "Mahsa Loloei is a Mid-career Unknown researcher at Institute of Indigenous Peoples' Health in CA. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.017952
+date: 2026-07-10T01:07:48.025595
 url: "/cdr-researcher-census/researchers/mahsa-loloei-a5014309/"
 layout: "researcher"
 hiddenInHomeList: true

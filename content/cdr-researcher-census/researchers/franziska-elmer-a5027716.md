@@ -1,7 +1,7 @@
 ---
 title: "Franziska Elmer"
 description: "Franziska Elmer is a Mid-career Ocean CDR researcher at Seafield Hospital in GB. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.261701
+date: 2026-07-10T01:07:48.269035
 url: "/cdr-researcher-census/researchers/franziska-elmer-a5027716/"
 layout: "researcher"
 hiddenInHomeList: true

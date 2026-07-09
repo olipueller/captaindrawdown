@@ -1,7 +1,7 @@
 ---
 title: "Hana Barak"
 description: "Hana Barak is a Mid-career Unknown researcher at Ben-Gurion University of the Negev in IL. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.147091
+date: 2026-07-10T01:07:49.049281
 url: "/cdr-researcher-census/researchers/hana-barak-a5058739/"
 layout: "researcher"
 hiddenInHomeList: true

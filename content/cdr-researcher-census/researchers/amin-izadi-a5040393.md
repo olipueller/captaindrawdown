@@ -1,7 +1,7 @@
 ---
 title: "Amin Izadi"
 description: "Amin Izadi is a Mid-career Unknown researcher at European Thermodynamics (United Kingdom) in GB. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.234585
+date: 2026-07-10T01:07:49.143871
 url: "/cdr-researcher-census/researchers/amin-izadi-a5040393/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Abhijit Cholkar"
 description: "Abhijit Cholkar is a Mid-career Unknown researcher. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.981470
+date: 2026-07-10T01:07:48.901191
 url: "/cdr-researcher-census/researchers/abhijit-cholkar-a5035647/"
 layout: "researcher"
 hiddenInHomeList: true

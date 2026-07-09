@@ -1,7 +1,7 @@
 ---
 title: "Khakhanang Ratananikom"
 description: "Khakhanang Ratananikom is a Senior Unknown researcher at Kalasin University in TH. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.754940
+date: 2026-07-10T01:07:47.805359
 url: "/cdr-researcher-census/researchers/khakhanang-ratananikom-a5063477/"
 layout: "researcher"
 hiddenInHomeList: true

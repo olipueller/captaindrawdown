@@ -1,7 +1,7 @@
 ---
 title: "Sergio Palermi"
 description: "Sergio Palermi is a Mid-career Unknown researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.869752
+date: 2026-07-10T01:07:48.798181
 url: "/cdr-researcher-census/researchers/sergio-palermi-a5091723/"
 layout: "researcher"
 hiddenInHomeList: true

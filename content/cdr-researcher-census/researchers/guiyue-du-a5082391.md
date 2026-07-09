@@ -1,7 +1,7 @@
 ---
 title: "Guiyue Du"
 description: "Guiyue Du is a Mid-career Biochar researcher at Tianjin University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.312773
+date: 2026-07-10T01:07:48.315153
 url: "/cdr-researcher-census/researchers/guiyue-du-a5082391/"
 layout: "researcher"
 hiddenInHomeList: true

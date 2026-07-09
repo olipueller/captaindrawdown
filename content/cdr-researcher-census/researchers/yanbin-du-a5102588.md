@@ -1,7 +1,7 @@
 ---
 title: "Yanbin Du"
 description: "Yanbin Du is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.501174
+date: 2026-07-10T01:07:48.486657
 url: "/cdr-researcher-census/researchers/yanbin-du-a5102588/"
 layout: "researcher"
 hiddenInHomeList: true

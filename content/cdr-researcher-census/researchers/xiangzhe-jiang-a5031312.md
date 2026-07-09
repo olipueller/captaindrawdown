@@ -1,7 +1,7 @@
 ---
 title: "Xiangzhe Jiang"
 description: "Xiangzhe Jiang is a Mid-career Biochar researcher at Nankai University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.781455
+date: 2026-07-10T01:07:47.830077
 url: "/cdr-researcher-census/researchers/xiangzhe-jiang-a5031312/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ismail Masalha"
 description: "Ismail Masalha is a Mid-career Unknown researcher at Al-Balqa Applied University in JO. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.258749
+date: 2026-07-10T01:07:49.165399
 url: "/cdr-researcher-census/researchers/ismail-masalha-a5064405/"
 layout: "researcher"
 hiddenInHomeList: true

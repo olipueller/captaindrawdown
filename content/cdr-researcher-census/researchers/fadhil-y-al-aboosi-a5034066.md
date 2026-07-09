@@ -1,7 +1,7 @@
 ---
 title: "Fadhil Y. Al-Aboosi"
 description: "Fadhil Y. Al-Aboosi is a Mid-career Unknown researcher at American Institute of Chemical Engineers in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.859871
+date: 2026-07-10T01:07:47.895176
 url: "/cdr-researcher-census/researchers/fadhil-y-al-aboosi-a5034066/"
 layout: "researcher"
 hiddenInHomeList: true

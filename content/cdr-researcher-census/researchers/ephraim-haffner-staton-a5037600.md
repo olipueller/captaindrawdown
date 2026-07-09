@@ -1,7 +1,7 @@
 ---
 title: "Ephraim Haffner-Staton"
 description: "Ephraim Haffner-Staton is a Mid-career Unknown researcher at University of Nottingham in GB. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.274509
+date: 2026-07-10T01:07:48.280267
 url: "/cdr-researcher-census/researchers/ephraim-haffner-staton-a5037600/"
 layout: "researcher"
 hiddenInHomeList: true

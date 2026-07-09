@@ -1,7 +1,7 @@
 ---
 title: "Delu Cao"
 description: "Delu Cao is a Mid-career Unknown researcher at Chinese Academy of Geological Sciences in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.734128
+date: 2026-07-10T01:07:47.786146
 url: "/cdr-researcher-census/researchers/delu-cao-a5065060/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jafar Qajar"
 description: "Jafar Qajar is a Senior Unknown researcher at Utrecht University in NL. With 58 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.539898
+date: 2026-07-10T01:07:47.605124
 url: "/cdr-researcher-census/researchers/jafar-qajar-a5009881/"
 layout: "researcher"
 hiddenInHomeList: true

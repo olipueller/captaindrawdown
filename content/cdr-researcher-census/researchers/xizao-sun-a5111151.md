@@ -1,7 +1,7 @@
 ---
 title: "Xizao Sun"
 description: "Xizao Sun is a Mid-career Soil Carbon researcher at Southwest University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.147792
+date: 2026-07-10T01:07:49.050016
 url: "/cdr-researcher-census/researchers/xizao-sun-a5111151/"
 layout: "researcher"
 hiddenInHomeList: true

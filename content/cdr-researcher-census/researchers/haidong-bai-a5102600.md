@@ -1,7 +1,7 @@
 ---
 title: "Haidong Bai"
 description: "Haidong Bai is a Mid-career Soil Carbon researcher at Dongshin University in KR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.055012
+date: 2026-07-10T01:07:48.968182
 url: "/cdr-researcher-census/researchers/haidong-bai-a5102600/"
 layout: "researcher"
 hiddenInHomeList: true

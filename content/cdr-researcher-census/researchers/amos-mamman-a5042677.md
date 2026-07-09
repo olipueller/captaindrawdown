@@ -1,7 +1,7 @@
 ---
 title: "Amos Mamman"
 description: "Amos Mamman is an Early-career Biochar researcher at Ibrahim Badamasi Babangida University in NG. With 58 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.173756
+date: 2026-07-10T01:07:49.063516
 url: "/cdr-researcher-census/researchers/amos-mamman-a5042677/"
 layout: "researcher"
 hiddenInHomeList: true

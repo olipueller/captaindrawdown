@@ -1,7 +1,7 @@
 ---
 title: "Guillermo S. Marcillo"
 description: "Guillermo S. Marcillo is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.727958
+date: 2026-07-10T01:07:47.780195
 url: "/cdr-researcher-census/researchers/guillermo-s-marcillo-a5008481/"
 layout: "researcher"
 hiddenInHomeList: true

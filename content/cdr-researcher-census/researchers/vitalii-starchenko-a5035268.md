@@ -1,7 +1,7 @@
 ---
 title: "Vitalii Starchenko"
 description: "Vitalii Starchenko is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 55 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.290238
+date: 2026-07-10T01:07:47.372469
 url: "/cdr-researcher-census/researchers/vitalii-starchenko-a5035268/"
 layout: "researcher"
 hiddenInHomeList: true

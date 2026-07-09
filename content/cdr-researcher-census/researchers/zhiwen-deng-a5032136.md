@@ -1,7 +1,7 @@
 ---
 title: "Zhiwen Deng"
 description: "Zhiwen Deng is a Senior Biochar researcher at Chongqing University in CN. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.185325
+date: 2026-07-10T01:07:47.274316
 url: "/cdr-researcher-census/researchers/zhiwen-deng-a5032136/"
 layout: "researcher"
 hiddenInHomeList: true

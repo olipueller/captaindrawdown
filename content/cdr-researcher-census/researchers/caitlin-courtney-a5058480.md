@@ -1,7 +1,7 @@
 ---
 title: "Caitlin Courtney"
 description: "Caitlin Courtney is a Mid-career Unknown researcher at Stellenbosch University in ZA. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.390807
+date: 2026-07-10T01:07:48.383896
 url: "/cdr-researcher-census/researchers/caitlin-courtney-a5058480/"
 layout: "researcher"
 hiddenInHomeList: true

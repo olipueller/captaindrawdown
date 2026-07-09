@@ -1,7 +1,7 @@
 ---
 title: "Per-Anders Hansson"
 description: "Per-Anders Hansson is a Mid-career General CDR researcher at Swedish University of Agricultural Sciences in SE. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.707078
+date: 2026-07-10T01:07:47.761335
 url: "/cdr-researcher-census/researchers/per-anders-hansson-a5110526/"
 layout: "researcher"
 hiddenInHomeList: true

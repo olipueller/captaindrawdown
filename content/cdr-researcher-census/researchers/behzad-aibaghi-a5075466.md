@@ -1,7 +1,7 @@
 ---
 title: "Behzad Aibaghi"
 description: "Behzad Aibaghi is a Senior Unknown researcher at Damghan University in IR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.812423
+date: 2026-07-10T01:07:48.749619
 url: "/cdr-researcher-census/researchers/behzad-aibaghi-a5075466/"
 layout: "researcher"
 hiddenInHomeList: true

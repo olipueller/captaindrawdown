@@ -1,7 +1,7 @@
 ---
 title: "Jingyi Ding"
 description: "Jingyi Ding is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 123 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.039090
+date: 2026-07-10T01:07:47.111131
 url: "/cdr-researcher-census/researchers/jingyi-ding-a5065383/"
 layout: "researcher"
 hiddenInHomeList: true

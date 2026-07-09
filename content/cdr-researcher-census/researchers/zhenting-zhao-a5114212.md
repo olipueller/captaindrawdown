@@ -1,7 +1,7 @@
 ---
 title: "Zhenting Zhao"
 description: "Zhenting Zhao is an Early-career Unknown researcher at Xinyang Normal University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.376601
+date: 2026-07-10T01:07:48.372827
 url: "/cdr-researcher-census/researchers/zhenting-zhao-a5114212/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shreekant Champanerkar"
 description: "Shreekant Champanerkar is a Mid-career Unknown researcher at Llanfrechfa Grange Hospital in GB. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.150323
+date: 2026-07-10T01:07:47.238690
 url: "/cdr-researcher-census/researchers/shreekant-champanerkar-a5060179/"
 layout: "researcher"
 hiddenInHomeList: true

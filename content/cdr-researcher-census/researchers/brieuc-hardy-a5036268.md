@@ -1,7 +1,7 @@
 ---
 title: "Brieuc Hardy"
 description: "Brieuc Hardy is a Mid-career General CDR researcher at Université Catholique de Louvain in BE. With 106 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.294500
+date: 2026-07-10T01:07:47.376731
 url: "/cdr-researcher-census/researchers/brieuc-hardy-a5036268/"
 layout: "researcher"
 hiddenInHomeList: true

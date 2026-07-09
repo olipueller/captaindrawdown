@@ -1,7 +1,7 @@
 ---
 title: "Zhaojie Guo"
 description: "Zhaojie Guo is a Mid-career Unknown researcher at Peking University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.401882
+date: 2026-07-10T01:07:48.393589
 url: "/cdr-researcher-census/researchers/zhaojie-guo-a5101513/"
 layout: "researcher"
 hiddenInHomeList: true

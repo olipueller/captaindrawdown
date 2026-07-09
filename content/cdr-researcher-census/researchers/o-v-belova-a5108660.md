@@ -1,7 +1,7 @@
 ---
 title: "O. V. Belova"
 description: "O. V. Belova is a Senior Unknown researcher at G. K. Skryabin Institute of Biochemistry and Physiology of Microorganisms in RU. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.521147
+date: 2026-07-10T01:07:48.504127
 url: "/cdr-researcher-census/researchers/o-v-belova-a5108660/"
 layout: "researcher"
 hiddenInHomeList: true

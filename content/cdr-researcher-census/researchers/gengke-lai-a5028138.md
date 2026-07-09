@@ -1,7 +1,7 @@
 ---
 title: "Gengke Lai"
 description: "Gengke Lai is a Mid-career Unknown researcher at Jiangsu Center for Collaborative Innovation in Geographical Information Resource Development and Application in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.347771
+date: 2026-07-10T01:07:48.346314
 url: "/cdr-researcher-census/researchers/gengke-lai-a5028138/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhouli Liu"
 description: "Zhouli Liu is a Mid-career Unknown researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.088795
+date: 2026-07-10T01:07:48.998523
 url: "/cdr-researcher-census/researchers/zhouli-liu-a5110104/"
 layout: "researcher"
 hiddenInHomeList: true

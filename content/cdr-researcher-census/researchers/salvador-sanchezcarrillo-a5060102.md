@@ -1,7 +1,7 @@
 ---
 title: "Salvador Sánchez‐Carrillo"
 description: "Salvador Sánchez‐Carrillo is a Senior General CDR researcher at Consejo Superior de Investigaciones Científicas, Museo Nacional de Ciencias Naturales (MNCN-CSIC) in ES. With 112 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.068878
+date: 2026-07-10T01:07:47.147424
 url: "/cdr-researcher-census/researchers/salvador-sanchezcarrillo-a5060102/"
 layout: "researcher"
 hiddenInHomeList: true

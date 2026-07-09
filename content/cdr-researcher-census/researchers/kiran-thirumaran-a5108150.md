@@ -1,7 +1,7 @@
 ---
 title: "Kiran Thirumaran"
 description: "Kiran Thirumaran is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 37 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.641091
+date: 2026-07-10T01:07:48.599760
 url: "/cdr-researcher-census/researchers/kiran-thirumaran-a5108150/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Héctor Hiram Torres-Ventura"
 description: "Héctor Hiram Torres-Ventura is a Mid-career Biochar researcher at Universidad Autónoma de Chiapas in MX. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.249005
+date: 2026-07-10T01:07:49.156414
 url: "/cdr-researcher-census/researchers/hector-hiram-torres-ventura-a5055017/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mark A. Snethlage"
 description: "Mark A. Snethlage is a Mid-career General CDR researcher at University of Bern in CH. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.801408
+date: 2026-07-10T01:07:47.848877
 url: "/cdr-researcher-census/researchers/mark-a-snethlage-a5066220/"
 layout: "researcher"
 hiddenInHomeList: true

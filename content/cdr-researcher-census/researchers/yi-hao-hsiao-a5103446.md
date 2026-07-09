@@ -1,7 +1,7 @@
 ---
 title: "Yi-Hao Hsiao"
 description: "Yi-Hao Hsiao is a Mid-career Unknown researcher at National Center for High-Performance Computing in TW. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.943169
+date: 2026-07-10T01:07:48.865445
 url: "/cdr-researcher-census/researchers/yi-hao-hsiao-a5103446/"
 layout: "researcher"
 hiddenInHomeList: true

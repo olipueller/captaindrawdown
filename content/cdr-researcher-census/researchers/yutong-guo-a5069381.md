@@ -1,7 +1,7 @@
 ---
 title: "Yutong Guo"
 description: "Yutong Guo is an Early-career Unknown researcher at Jiangsu University of Science and Technology in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.468356
+date: 2026-07-10T01:07:48.456267
 url: "/cdr-researcher-census/researchers/yutong-guo-a5069381/"
 layout: "researcher"
 hiddenInHomeList: true

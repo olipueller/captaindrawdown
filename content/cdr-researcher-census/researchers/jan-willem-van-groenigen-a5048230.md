@@ -1,7 +1,7 @@
 ---
 title: "Jan Willem van Groenigen"
 description: "Jan Willem van Groenigen is an Eminent General CDR researcher at Wageningen University & Research in NL. With 260 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.890757
+date: 2026-07-10T01:07:46.865318
 url: "/cdr-researcher-census/researchers/jan-willem-van-groenigen-a5048230/"
 layout: "researcher"
 hiddenInHomeList: true

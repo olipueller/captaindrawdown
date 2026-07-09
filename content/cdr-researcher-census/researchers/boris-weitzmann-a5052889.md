@@ -1,7 +1,7 @@
 ---
 title: "Boris Weitzmann"
 description: "Boris Weitzmann is a Mid-career Unknown researcher at Parc de Salut in ES. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.679025
+date: 2026-07-10T01:07:48.634469
 url: "/cdr-researcher-census/researchers/boris-weitzmann-a5052889/"
 layout: "researcher"
 hiddenInHomeList: true

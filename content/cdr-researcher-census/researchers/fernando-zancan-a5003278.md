@@ -1,7 +1,7 @@
 ---
 title: "Fernando Zancan"
 description: "Fernando Zancan is a Senior General CDR researcher. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.679364
+date: 2026-07-10T01:07:48.634747
 url: "/cdr-researcher-census/researchers/fernando-zancan-a5003278/"
 layout: "researcher"
 hiddenInHomeList: true

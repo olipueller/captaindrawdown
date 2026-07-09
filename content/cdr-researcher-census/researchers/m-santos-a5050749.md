@@ -1,7 +1,7 @@
 ---
 title: "M. Santos"
 description: "M. Santos is a Senior Unknown researcher at Universidade do Estado da Bahia in BR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.144113
+date: 2026-07-10T01:07:49.046655
 url: "/cdr-researcher-census/researchers/m-santos-a5050749/"
 layout: "researcher"
 hiddenInHomeList: true

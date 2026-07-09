@@ -1,7 +1,7 @@
 ---
 title: "Jawad Gul"
 description: "Jawad Gul is an Early-career Biochar researcher at National University of Modern Languages in PK. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.596423
+date: 2026-07-10T01:07:48.560457
 url: "/cdr-researcher-census/researchers/jawad-gul-a5070824/"
 layout: "researcher"
 hiddenInHomeList: true

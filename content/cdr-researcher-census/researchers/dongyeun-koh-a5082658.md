@@ -1,7 +1,7 @@
 ---
 title: "Dong‐Yeun Koh"
 description: "Dong‐Yeun Koh is a Senior Enhanced Weathering researcher at Korea Advanced Institute of Science and Technology in KR. With 141 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.995171
+date: 2026-07-10T01:07:47.053656
 url: "/cdr-researcher-census/researchers/dongyeun-koh-a5082658/"
 layout: "researcher"
 hiddenInHomeList: true

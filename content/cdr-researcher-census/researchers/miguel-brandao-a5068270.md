@@ -1,7 +1,7 @@
 ---
 title: "Miguel Brandão"
 description: "Miguel Brandão is an Eminent General CDR researcher at KTH Royal Institute of Technology in SE. With 119 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.936211
+date: 2026-07-10T01:07:46.958453
 url: "/cdr-researcher-census/researchers/miguel-brandao-a5068270/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christi Ann Scott"
 description: "Christi Ann Scott is a Senior Unknown researcher at University of California, Riverside in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.066362
+date: 2026-07-10T01:07:48.978058
 url: "/cdr-researcher-census/researchers/christi-ann-scott-a5007311/"
 layout: "researcher"
 hiddenInHomeList: true

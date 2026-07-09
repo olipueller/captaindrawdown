@@ -1,7 +1,7 @@
 ---
 title: "Jerome Wright"
 description: "Jerome Wright is a Senior Soil Carbon researcher at National Society of Professional Engineers in US. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.493667
+date: 2026-07-10T01:07:47.564090
 url: "/cdr-researcher-census/researchers/jerome-wright-a5077382/"
 layout: "researcher"
 hiddenInHomeList: true

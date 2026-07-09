@@ -1,7 +1,7 @@
 ---
 title: "Hongxian Zhao"
 description: "Hongxian Zhao is a Mid-career Unknown researcher at Beijing Forestry University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.072699
+date: 2026-07-10T01:07:48.983705
 url: "/cdr-researcher-census/researchers/hongxian-zhao-a5051341/"
 layout: "researcher"
 hiddenInHomeList: true

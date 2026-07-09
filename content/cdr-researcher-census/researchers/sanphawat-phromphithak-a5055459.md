@@ -1,7 +1,7 @@
 ---
 title: "Sanphawat Phromphithak"
 description: "Sanphawat Phromphithak is a Mid-career Biochar researcher at University of South Carolina in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.797155
+date: 2026-07-10T01:07:47.845166
 url: "/cdr-researcher-census/researchers/sanphawat-phromphithak-a5055459/"
 layout: "researcher"
 hiddenInHomeList: true

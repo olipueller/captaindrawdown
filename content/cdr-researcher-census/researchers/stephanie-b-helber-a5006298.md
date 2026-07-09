@@ -1,7 +1,7 @@
 ---
 title: "Stephanie B. Helber"
 description: "Stephanie B. Helber is a Mid-career Soil Carbon researcher at Northumbria University in GB. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.965944
+date: 2026-07-10T01:07:47.976548
 url: "/cdr-researcher-census/researchers/stephanie-b-helber-a5006298/"
 layout: "researcher"
 hiddenInHomeList: true

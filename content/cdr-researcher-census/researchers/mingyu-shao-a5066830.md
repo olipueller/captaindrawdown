@@ -1,7 +1,7 @@
 ---
 title: "Mingyu Shao"
 description: "Mingyu Shao is a Senior Ocean CDR researcher at Xiamen University in CN. With 139 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.139268
+date: 2026-07-10T01:07:47.227899
 url: "/cdr-researcher-census/researchers/mingyu-shao-a5066830/"
 layout: "researcher"
 hiddenInHomeList: true

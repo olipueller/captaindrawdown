@@ -1,7 +1,7 @@
 ---
 title: "Mustapha Omenesa Idris"
 description: "Mustapha Omenesa Idris is a Mid-career Biochar researcher at Kogi State University in NG. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.580983
+date: 2026-07-10T01:07:47.644304
 url: "/cdr-researcher-census/researchers/mustapha-omenesa-idris-a5086850/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Paransa Alimard"
 description: "Paransa Alimard is a Mid-career Unknown researcher at London Biofoundry in GB. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.705294
+date: 2026-07-10T01:07:48.657663
 url: "/cdr-researcher-census/researchers/paransa-alimard-a5023814/"
 layout: "researcher"
 hiddenInHomeList: true

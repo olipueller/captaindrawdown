@@ -1,7 +1,7 @@
 ---
 title: "Jing Zhang"
 description: "Jing Zhang is a Senior Soil Carbon researcher at South China Botanical Garden, Chinese Academy of Sciences in CN. With 117 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.026092
+date: 2026-07-10T01:07:47.094003
 url: "/cdr-researcher-census/researchers/jing-zhang-a5100603/"
 layout: "researcher"
 hiddenInHomeList: true

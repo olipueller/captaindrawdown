@@ -1,7 +1,7 @@
 ---
 title: "Inés Durán"
 description: "Inés Durán is a Mid-career BECCS researcher at Karlsruhe Institute of Technology (KIT) in DE. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.457915
+date: 2026-07-10T01:07:47.532520
 url: "/cdr-researcher-census/researchers/ines-duran-a5068858/"
 layout: "researcher"
 hiddenInHomeList: true

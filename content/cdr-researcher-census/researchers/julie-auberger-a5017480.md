@@ -1,7 +1,7 @@
 ---
 title: "Julie Auberger"
 description: "Julie Auberger is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 35 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.099610
+date: 2026-07-10T01:07:49.008174
 url: "/cdr-researcher-census/researchers/julie-auberger-a5017480/"
 layout: "researcher"
 hiddenInHomeList: true

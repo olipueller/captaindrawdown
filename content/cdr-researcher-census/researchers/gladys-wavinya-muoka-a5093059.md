@@ -1,7 +1,7 @@
 ---
 title: "Gladys Wavinya Muoka"
 description: "Gladys Wavinya Muoka is an Early-career Unknown researcher at University of Electronic Science and Technology of China in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.826584
+date: 2026-07-10T01:07:48.760727
 url: "/cdr-researcher-census/researchers/gladys-wavinya-muoka-a5093059/"
 layout: "researcher"
 hiddenInHomeList: true

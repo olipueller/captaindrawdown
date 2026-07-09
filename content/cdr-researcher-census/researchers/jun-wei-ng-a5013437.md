@@ -1,7 +1,7 @@
 ---
 title: "Jun Wei Ng"
 description: "Jun Wei Ng is a Mid-career Unknown researcher at Agency for Science, Technology and Research in SG. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.435170
+date: 2026-07-10T01:07:48.425358
 url: "/cdr-researcher-census/researchers/jun-wei-ng-a5013437/"
 layout: "researcher"
 hiddenInHomeList: true

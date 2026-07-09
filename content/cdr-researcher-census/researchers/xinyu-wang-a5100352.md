@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Wang"
 description: "Xinyu Wang is a Mid-career Biochar researcher at North China Electric Power University in CN. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.079644
+date: 2026-07-10T01:07:48.081461
 url: "/cdr-researcher-census/researchers/xinyu-wang-a5100352/"
 layout: "researcher"
 hiddenInHomeList: true

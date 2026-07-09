@@ -1,7 +1,7 @@
 ---
 title: "Amy I. Hsieh"
 description: "Amy I. Hsieh is a Mid-career General CDR researcher at University of Lausanne in CH. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.226761
+date: 2026-07-10T01:07:48.237131
 url: "/cdr-researcher-census/researchers/amy-i-hsieh-a5003902/"
 layout: "researcher"
 hiddenInHomeList: true

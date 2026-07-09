@@ -1,7 +1,7 @@
 ---
 title: "Anastasia Tsiola"
 description: "Anastasia Tsiola is a Senior Ocean CDR researcher at Hellenic Centre for Marine Research in GR. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.322666
+date: 2026-07-10T01:07:47.404859
 url: "/cdr-researcher-census/researchers/anastasia-tsiola-a5008450/"
 layout: "researcher"
 hiddenInHomeList: true

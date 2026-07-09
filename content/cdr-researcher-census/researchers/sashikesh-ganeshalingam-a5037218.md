@@ -1,7 +1,7 @@
 ---
 title: "Sashikesh Ganeshalingam"
 description: "Sashikesh Ganeshalingam is a Senior Biochar researcher at University of Jaffna in LK. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.928152
+date: 2026-07-10T01:07:48.851651
 url: "/cdr-researcher-census/researchers/sashikesh-ganeshalingam-a5037218/"
 layout: "researcher"
 hiddenInHomeList: true

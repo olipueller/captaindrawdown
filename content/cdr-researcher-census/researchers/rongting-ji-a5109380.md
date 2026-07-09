@@ -1,7 +1,7 @@
 ---
 title: "Rongting Ji"
 description: "Rongting Ji is a Senior Biochar researcher at Ministry of Ecology and Environment in CN. With 51 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.210061
+date: 2026-07-10T01:07:47.297796
 url: "/cdr-researcher-census/researchers/rongting-ji-a5109380/"
 layout: "researcher"
 hiddenInHomeList: true

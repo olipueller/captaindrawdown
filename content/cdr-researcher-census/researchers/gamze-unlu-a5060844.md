@@ -1,7 +1,7 @@
 ---
 title: "Gamze Ünlü"
 description: "Gamze Ünlü is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.713554
+date: 2026-07-10T01:07:47.767765
 url: "/cdr-researcher-census/researchers/gamze-unlu-a5060844/"
 layout: "researcher"
 hiddenInHomeList: true

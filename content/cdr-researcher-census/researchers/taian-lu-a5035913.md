@@ -1,7 +1,7 @@
 ---
 title: "Taian Lu"
 description: "Taian Lu is a Mid-career Unknown researcher at Woods Hole Oceanographic Institution in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.239796
+date: 2026-07-10T01:07:48.248951
 url: "/cdr-researcher-census/researchers/taian-lu-a5035913/"
 layout: "researcher"
 hiddenInHomeList: true

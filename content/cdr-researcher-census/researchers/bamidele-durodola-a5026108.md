@@ -1,7 +1,7 @@
 ---
 title: "Bamidele Durodola"
 description: "Bamidele Durodola is a Mid-career Biochar researcher at Covenant University in NG. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.209092
+date: 2026-07-10T01:07:48.222128
 url: "/cdr-researcher-census/researchers/bamidele-durodola-a5026108/"
 layout: "researcher"
 hiddenInHomeList: true

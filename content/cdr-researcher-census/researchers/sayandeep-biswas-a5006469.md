@@ -1,7 +1,7 @@
 ---
 title: "Sayandeep Biswas"
 description: "Sayandeep Biswas is a Mid-career Unknown researcher at Moscow Institute of Thermal Technology in RU. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.646738
+date: 2026-07-10T01:07:48.605515
 url: "/cdr-researcher-census/researchers/sayandeep-biswas-a5006469/"
 layout: "researcher"
 hiddenInHomeList: true

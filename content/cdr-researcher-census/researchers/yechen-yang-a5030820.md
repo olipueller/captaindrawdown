@@ -1,7 +1,7 @@
 ---
 title: "Yechen Yang"
 description: "Yechen Yang is an Early-career General CDR researcher at Rutgers, The State University of New Jersey in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.020968
+date: 2026-07-10T01:07:48.936893
 url: "/cdr-researcher-census/researchers/yechen-yang-a5030820/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shurui Miao"
 description: "Shurui Miao is a Mid-career DAC researcher at University of Oxford in GB. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.239504
+date: 2026-07-10T01:07:48.248692
 url: "/cdr-researcher-census/researchers/shurui-miao-a5084933/"
 layout: "researcher"
 hiddenInHomeList: true

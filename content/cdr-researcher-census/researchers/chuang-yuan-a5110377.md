@@ -1,7 +1,7 @@
 ---
 title: "Chuang Yuan"
 description: "Chuang Yuan is a Senior Soil Carbon researcher at Universiti Putra Malaysia in MY. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.135851
+date: 2026-07-10T01:07:48.157713
 url: "/cdr-researcher-census/researchers/chuang-yuan-a5110377/"
 layout: "researcher"
 hiddenInHomeList: true

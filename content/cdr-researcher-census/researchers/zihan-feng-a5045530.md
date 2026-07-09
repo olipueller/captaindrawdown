@@ -1,7 +1,7 @@
 ---
 title: "Zihan Feng"
 description: "Zihan Feng is an Early-career Biochar researcher at Northeast Agricultural University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.883955
+date: 2026-07-10T01:07:48.811187
 url: "/cdr-researcher-census/researchers/zihan-feng-a5045530/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Quanlin Ma"
 description: "Quanlin Ma is a Senior Soil Carbon researcher at Gansu Research Academy of Forestry Science and Technology in CN. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.129281
+date: 2026-07-10T01:07:48.152356
 url: "/cdr-researcher-census/researchers/quanlin-ma-a5102283/"
 layout: "researcher"
 hiddenInHomeList: true

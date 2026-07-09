@@ -1,7 +1,7 @@
 ---
 title: "Hongkai Zhao"
 description: "Hongkai Zhao is a Senior Soil Carbon researcher at North China Electric Power University in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.088333
+date: 2026-07-10T01:07:47.170572
 url: "/cdr-researcher-census/researchers/hongkai-zhao-a5101876/"
 layout: "researcher"
 hiddenInHomeList: true

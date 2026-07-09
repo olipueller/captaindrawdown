@@ -1,7 +1,7 @@
 ---
 title: "Long‐Fei Gou"
 description: "Long‐Fei Gou is a Mid-career Enhanced Weathering researcher at Chang'an University in CN. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.419753
+date: 2026-07-10T01:07:47.498916
 url: "/cdr-researcher-census/researchers/longfei-gou-a5110672/"
 layout: "researcher"
 hiddenInHomeList: true

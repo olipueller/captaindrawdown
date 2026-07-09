@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Usama Younas"
 description: "Muhammad Usama Younas is a Mid-career Biochar researcher at Yangzhou University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.621400
+date: 2026-07-10T01:07:47.682074
 url: "/cdr-researcher-census/researchers/muhammad-usama-younas-a5084412/"
 layout: "researcher"
 hiddenInHomeList: true

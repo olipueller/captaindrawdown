@@ -1,7 +1,7 @@
 ---
 title: "Nagarajan Siddharthan"
 description: "Nagarajan Siddharthan is a Mid-career Unknown researcher at National Institute of Technology Tiruchirappalli in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.691579
+date: 2026-07-10T01:07:48.645189
 url: "/cdr-researcher-census/researchers/nagarajan-siddharthan-a5101382/"
 layout: "researcher"
 hiddenInHomeList: true

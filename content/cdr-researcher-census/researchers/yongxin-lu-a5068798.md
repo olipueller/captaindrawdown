@@ -1,7 +1,7 @@
 ---
 title: "Yongxin Lu"
 description: "Yongxin Lu is a Mid-career Unknown researcher at Northeastern University in US. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.681489
+date: 2026-07-10T01:07:47.737861
 url: "/cdr-researcher-census/researchers/yongxin-lu-a5068798/"
 layout: "researcher"
 hiddenInHomeList: true

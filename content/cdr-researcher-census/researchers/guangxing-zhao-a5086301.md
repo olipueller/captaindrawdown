@@ -1,7 +1,7 @@
 ---
 title: "Guangxing Zhao"
 description: "Guangxing Zhao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.908697
+date: 2026-07-10T01:07:48.833871
 url: "/cdr-researcher-census/researchers/guangxing-zhao-a5086301/"
 layout: "researcher"
 hiddenInHomeList: true

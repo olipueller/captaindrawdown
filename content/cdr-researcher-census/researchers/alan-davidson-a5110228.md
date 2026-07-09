@@ -1,7 +1,7 @@
 ---
 title: "Alan Davidson"
 description: "Alan Davidson is a Senior Unknown researcher at Glasgow Royal Infirmary in GB. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.142751
+date: 2026-07-10T01:07:47.231551
 url: "/cdr-researcher-census/researchers/alan-davidson-a5110228/"
 layout: "researcher"
 hiddenInHomeList: true

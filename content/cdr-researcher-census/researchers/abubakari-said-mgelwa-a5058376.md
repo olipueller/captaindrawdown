@@ -1,7 +1,7 @@
 ---
 title: "Abubakari Said Mgelwa"
 description: "Abubakari Said Mgelwa is a Mid-career Soil Carbon researcher at Shenyang University of Technology in CN. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.666835
+date: 2026-07-10T01:07:47.723960
 url: "/cdr-researcher-census/researchers/abubakari-said-mgelwa-a5058376/"
 layout: "researcher"
 hiddenInHomeList: true

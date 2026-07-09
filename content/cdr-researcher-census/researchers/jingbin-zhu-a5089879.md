@@ -1,7 +1,7 @@
 ---
 title: "Jingbin Zhu"
 description: "Jingbin Zhu is a Senior Soil Carbon researcher at Zaozhuang University in CN. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.888887
+date: 2026-07-10T01:07:47.903669
 url: "/cdr-researcher-census/researchers/jingbin-zhu-a5089879/"
 layout: "researcher"
 hiddenInHomeList: true

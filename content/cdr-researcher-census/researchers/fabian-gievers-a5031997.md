@@ -1,7 +1,7 @@
 ---
 title: "Fabian Gievers"
 description: "Fabian Gievers is a Mid-career General CDR researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.184519
+date: 2026-07-10T01:07:48.199900
 url: "/cdr-researcher-census/researchers/fabian-gievers-a5031997/"
 layout: "researcher"
 hiddenInHomeList: true

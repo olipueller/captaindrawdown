@@ -1,7 +1,7 @@
 ---
 title: "Miguel Charcos Llorens"
 description: "Miguel Charcos Llorens is a Senior Unknown researcher at Balearic Islands Coastal Observing and Forecasting System in ES. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.715595
+date: 2026-07-10T01:07:48.666187
 url: "/cdr-researcher-census/researchers/miguel-charcos-llorens-a5064416/"
 layout: "researcher"
 hiddenInHomeList: true

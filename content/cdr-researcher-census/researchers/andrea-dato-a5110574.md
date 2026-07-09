@@ -1,7 +1,7 @@
 ---
 title: "Andrea Dato"
 description: "Andrea Dato is a Mid-career Unknown researcher at Istituto Giannina Gaslini in IT. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.685717
+date: 2026-07-10T01:07:48.640316
 url: "/cdr-researcher-census/researchers/andrea-dato-a5110574/"
 layout: "researcher"
 hiddenInHomeList: true

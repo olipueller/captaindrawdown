@@ -1,7 +1,7 @@
 ---
 title: "Alexander Barke"
 description: "Alexander Barke is a Senior Unknown researcher at Technische Universität Braunschweig in DE. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.548719
+date: 2026-07-10T01:07:47.613042
 url: "/cdr-researcher-census/researchers/alexander-barke-a5088732/"
 layout: "researcher"
 hiddenInHomeList: true

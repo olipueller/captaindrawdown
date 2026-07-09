@@ -1,7 +1,7 @@
 ---
 title: "Holly J. Stover"
 description: "Holly J. Stover is a Mid-career Soil Carbon researcher at University of California, Berkeley in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.429155
+date: 2026-07-10T01:07:48.419310
 url: "/cdr-researcher-census/researchers/holly-j-stover-a5000307/"
 layout: "researcher"
 hiddenInHomeList: true

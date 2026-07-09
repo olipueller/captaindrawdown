@@ -1,7 +1,7 @@
 ---
 title: "Fangyuan Tang"
 description: "Fangyuan Tang is a Senior Unknown researcher at Guangxi University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.039127
+date: 2026-07-10T01:07:48.044675
 url: "/cdr-researcher-census/researchers/fangyuan-tang-a5047164/"
 layout: "researcher"
 hiddenInHomeList: true

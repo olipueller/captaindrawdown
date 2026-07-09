@@ -1,7 +1,7 @@
 ---
 title: "Simone Casadio"
 description: "Simone Casadio is a Mid-career Unknown researcher at Institute of Science and Technology for Ceramics in IT. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.724436
+date: 2026-07-10T01:07:48.674009
 url: "/cdr-researcher-census/researchers/simone-casadio-a5043787/"
 layout: "researcher"
 hiddenInHomeList: true

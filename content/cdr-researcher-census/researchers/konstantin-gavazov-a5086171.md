@@ -1,7 +1,7 @@
 ---
 title: "Konstantin Gavazov"
 description: "Konstantin Gavazov is a Senior Soil Carbon researcher at Swiss Federal Institute for Forest, Snow and Landscape Research in CH. With 72 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.088025
+date: 2026-07-10T01:07:47.170127
 url: "/cdr-researcher-census/researchers/konstantin-gavazov-a5086171/"
 layout: "researcher"
 hiddenInHomeList: true

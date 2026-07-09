@@ -1,7 +1,7 @@
 ---
 title: "Ryan E. Champiny"
 description: "Ryan E. Champiny is an Early-career Soil Carbon researcher at University of Florida in US. With 12 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.107732
+date: 2026-07-10T01:07:49.015137
 url: "/cdr-researcher-census/researchers/ryan-e-champiny-a5092952/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "C.M. van 't Land"
 description: "C.M. van 't Land is a Senior Unknown researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.927241
+date: 2026-07-10T01:07:48.850708
 url: "/cdr-researcher-census/researchers/cm-van-t-land-a5016967/"
 layout: "researcher"
 hiddenInHomeList: true

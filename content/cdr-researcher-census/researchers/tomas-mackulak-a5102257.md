@@ -1,7 +1,7 @@
 ---
 title: "Tomáš Mackuľak"
 description: "Tomáš Mackuľak is a Senior Biochar researcher at Slovak University of Technology in Bratislava in SK. With 110 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.027371
+date: 2026-07-10T01:07:47.095521
 url: "/cdr-researcher-census/researchers/tomas-mackulak-a5102257/"
 layout: "researcher"
 hiddenInHomeList: true

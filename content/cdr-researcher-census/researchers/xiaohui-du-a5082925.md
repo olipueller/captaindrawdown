@@ -1,7 +1,7 @@
 ---
 title: "Xiaohui Du"
 description: "Xiaohui Du is a Mid-career Unknown researcher at Wuhan University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.096596
+date: 2026-07-10T01:07:49.005113
 url: "/cdr-researcher-census/researchers/xiaohui-du-a5082925/"
 layout: "researcher"
 hiddenInHomeList: true

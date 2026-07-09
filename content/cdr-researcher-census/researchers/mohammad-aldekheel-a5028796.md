@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Aldekheel"
 description: "Mohammad Aldekheel is a Mid-career Unknown researcher at University of Southern California in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.812309
+date: 2026-07-10T01:07:48.749525
 url: "/cdr-researcher-census/researchers/mohammad-aldekheel-a5028796/"
 layout: "researcher"
 hiddenInHomeList: true

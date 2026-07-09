@@ -1,7 +1,7 @@
 ---
 title: "William Daniel Loty Richardson"
 description: "William Daniel Loty Richardson is a Senior Unknown researcher at University of Calgary in CA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.640955
+date: 2026-07-10T01:07:48.599631
 url: "/cdr-researcher-census/researchers/william-daniel-loty-richardson-a5008297/"
 layout: "researcher"
 hiddenInHomeList: true

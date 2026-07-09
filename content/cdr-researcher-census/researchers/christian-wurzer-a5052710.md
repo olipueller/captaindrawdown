@@ -1,7 +1,7 @@
 ---
 title: "Christian Wurzer"
 description: "Christian Wurzer is a Mid-career Biochar researcher at University Of Edinburgh in GB. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.426252
+date: 2026-07-10T01:07:47.504514
 url: "/cdr-researcher-census/researchers/christian-wurzer-a5052710/"
 layout: "researcher"
 hiddenInHomeList: true

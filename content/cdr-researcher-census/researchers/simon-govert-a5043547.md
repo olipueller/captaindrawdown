@@ -1,7 +1,7 @@
 ---
 title: "Simon Gövert"
 description: "Simon Gövert is a Mid-career Unknown researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.490484
+date: 2026-07-10T01:07:48.476535
 url: "/cdr-researcher-census/researchers/simon-govert-a5043547/"
 layout: "researcher"
 hiddenInHomeList: true

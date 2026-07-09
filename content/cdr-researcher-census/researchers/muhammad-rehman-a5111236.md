@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Rehman"
 description: "Muhammad Rehman is a Senior Unknown researcher at King Edward Medical University in PK. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.997111
+date: 2026-07-10T01:07:48.006419
 url: "/cdr-researcher-census/researchers/muhammad-rehman-a5111236/"
 layout: "researcher"
 hiddenInHomeList: true

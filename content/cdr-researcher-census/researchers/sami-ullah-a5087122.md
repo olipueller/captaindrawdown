@@ -1,7 +1,7 @@
 ---
 title: "Sami Ullah"
 description: "Sami Ullah is a Senior Soil Carbon researcher at University of Birmingham in GB. With 208 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.984665
+date: 2026-07-10T01:07:47.036921
 url: "/cdr-researcher-census/researchers/sami-ullah-a5087122/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alex C. Maisey"
 description: "Alex C. Maisey is a Mid-career General CDR researcher at La Trobe University in AU. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.905959
+date: 2026-07-10T01:07:47.919879
 url: "/cdr-researcher-census/researchers/alex-c-maisey-a5017374/"
 layout: "researcher"
 hiddenInHomeList: true

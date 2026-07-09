@@ -1,7 +1,7 @@
 ---
 title: "Maja Holbak"
 description: "Maja Holbak is a Mid-career Unknown researcher at Københavns Universitet in DK. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.803438
+date: 2026-07-10T01:07:48.742232
 url: "/cdr-researcher-census/researchers/maja-holbak-a5102863/"
 layout: "researcher"
 hiddenInHomeList: true

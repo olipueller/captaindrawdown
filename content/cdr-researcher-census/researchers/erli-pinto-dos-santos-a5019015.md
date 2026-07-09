@@ -1,7 +1,7 @@
 ---
 title: "Erli Pinto dos Santos"
 description: "Erli Pinto dos Santos is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.445786
+date: 2026-07-10T01:07:48.435347
 url: "/cdr-researcher-census/researchers/erli-pinto-dos-santos-a5019015/"
 layout: "researcher"
 hiddenInHomeList: true

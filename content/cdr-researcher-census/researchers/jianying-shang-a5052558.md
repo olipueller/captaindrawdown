@@ -1,7 +1,7 @@
 ---
 title: "Jianying Shang"
 description: "Jianying Shang is an Eminent Biochar researcher at China Agricultural University in CN. With 166 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.944217
+date: 2026-07-10T01:07:46.973695
 url: "/cdr-researcher-census/researchers/jianying-shang-a5052558/"
 layout: "researcher"
 hiddenInHomeList: true

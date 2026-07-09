@@ -1,7 +1,7 @@
 ---
 title: "Jun’ya Takakura"
 description: "Jun’ya Takakura is a Mid-career General CDR researcher at National Institute for Environmental Studies in JP. With 72 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.121249
+date: 2026-07-10T01:07:47.208005
 url: "/cdr-researcher-census/researchers/junya-takakura-a5008662/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Syed Musab Ahmed"
 description: "Syed Musab Ahmed is a Senior Unknown researcher at University of Science and Technology of China in PK. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.621083
+date: 2026-07-10T01:07:47.681792
 url: "/cdr-researcher-census/researchers/syed-musab-ahmed-a5048495/"
 layout: "researcher"
 hiddenInHomeList: true

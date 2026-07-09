@@ -1,7 +1,7 @@
 ---
 title: "Zijie Kong"
 description: "Zijie Kong is a Mid-career Unknown researcher at Tianjin University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.036516
+date: 2026-07-10T01:07:48.951114
 url: "/cdr-researcher-census/researchers/zijie-kong-a5070875/"
 layout: "researcher"
 hiddenInHomeList: true

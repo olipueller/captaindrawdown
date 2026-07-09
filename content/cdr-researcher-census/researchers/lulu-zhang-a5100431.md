@@ -1,7 +1,7 @@
 ---
 title: "Lulu Zhang"
 description: "Lulu Zhang is a Mid-career Soil Carbon researcher at Shandong Normal University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.693820
+date: 2026-07-10T01:07:47.749730
 url: "/cdr-researcher-census/researchers/lulu-zhang-a5100431/"
 layout: "researcher"
 hiddenInHomeList: true

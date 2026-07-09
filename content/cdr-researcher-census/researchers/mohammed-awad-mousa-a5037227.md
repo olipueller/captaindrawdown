@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Awad Mousa"
 description: "Mohammed Awad Mousa is a Senior Soil Carbon researcher at University of Waterloo in CA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.027125
+date: 2026-07-10T01:07:48.034765
 url: "/cdr-researcher-census/researchers/mohammed-awad-mousa-a5037227/"
 layout: "researcher"
 hiddenInHomeList: true

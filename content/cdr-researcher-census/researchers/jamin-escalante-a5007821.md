@@ -1,7 +1,7 @@
 ---
 title: "Jamin Escalante"
 description: "Jamin Escalante is a Mid-career Biochar researcher at Energy International (United States) in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.727738
+date: 2026-07-10T01:07:47.780014
 url: "/cdr-researcher-census/researchers/jamin-escalante-a5007821/"
 layout: "researcher"
 hiddenInHomeList: true

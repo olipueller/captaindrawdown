@@ -1,7 +1,7 @@
 ---
 title: "Govind Sharma Shyam Sunder"
 description: "Govind Sharma Shyam Sunder is a Mid-career Unknown researcher at University of Toledo in US. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.286414
+date: 2026-07-10T01:07:48.291383
 url: "/cdr-researcher-census/researchers/govind-sharma-shyam-sunder-a5036081/"
 layout: "researcher"
 hiddenInHomeList: true

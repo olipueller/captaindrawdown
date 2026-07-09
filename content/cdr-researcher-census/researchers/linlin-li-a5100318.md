@@ -1,7 +1,7 @@
 ---
 title: "Linlin Li"
 description: "Linlin Li is a Mid-career Unknown researcher at Ministry of Ecology and Environment in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.082830
+date: 2026-07-10T01:07:48.084087
 url: "/cdr-researcher-census/researchers/linlin-li-a5100318/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sharan Kumar Nagendran"
 description: "Sharan Kumar Nagendran is a Mid-career Unknown researcher at Technical University of Malaysia Malacca in MY. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.593915
+date: 2026-07-10T01:07:48.558078
 url: "/cdr-researcher-census/researchers/sharan-kumar-nagendran-a5051758/"
 layout: "researcher"
 hiddenInHomeList: true

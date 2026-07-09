@@ -1,7 +1,7 @@
 ---
 title: "Suyue Luo"
 description: "Suyue Luo is a Mid-career Biochar researcher at Northeast Forestry University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.902453
+date: 2026-07-10T01:07:47.916908
 url: "/cdr-researcher-census/researchers/suyue-luo-a5000505/"
 layout: "researcher"
 hiddenInHomeList: true

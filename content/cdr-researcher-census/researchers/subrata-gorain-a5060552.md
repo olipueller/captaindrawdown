@@ -1,7 +1,7 @@
 ---
 title: "Subrata Gorain"
 description: "Subrata Gorain is a Mid-career Soil Carbon researcher at Visva-Bharati University in IN. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.941203
+date: 2026-07-10T01:07:48.863824
 url: "/cdr-researcher-census/researchers/subrata-gorain-a5060552/"
 layout: "researcher"
 hiddenInHomeList: true

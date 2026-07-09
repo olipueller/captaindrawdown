@@ -1,7 +1,7 @@
 ---
 title: "Mohamad Abdulwhhab"
 description: "Mohamad Abdulwhhab is a Mid-career Unknown researcher at University of Leicester in GB. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.170123
+date: 2026-07-10T01:07:48.186764
 url: "/cdr-researcher-census/researchers/mohamad-abdulwhhab-a5011349/"
 layout: "researcher"
 hiddenInHomeList: true

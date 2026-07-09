@@ -1,7 +1,7 @@
 ---
 title: "Bingzhang Zou"
 description: "Bingzhang Zou is a Mid-career Unknown researcher at Fujian Agriculture and Forestry University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.720804
+date: 2026-07-10T01:07:48.670636
 url: "/cdr-researcher-census/researchers/bingzhang-zou-a5031798/"
 layout: "researcher"
 hiddenInHomeList: true

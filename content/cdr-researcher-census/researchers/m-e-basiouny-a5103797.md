@@ -1,7 +1,7 @@
 ---
 title: "M. E. Basiouny"
 description: "M. E. Basiouny is a Mid-career Biochar researcher at Sinai University in EG. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.001308
+date: 2026-07-10T01:07:48.010565
 url: "/cdr-researcher-census/researchers/m-e-basiouny-a5103797/"
 layout: "researcher"
 hiddenInHomeList: true

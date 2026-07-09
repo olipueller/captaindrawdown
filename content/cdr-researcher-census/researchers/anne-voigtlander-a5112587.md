@@ -1,7 +1,7 @@
 ---
 title: "Anne Voigtländer"
 description: "Anne Voigtländer is a Mid-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 41 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.772828
+date: 2026-07-10T01:07:48.716721
 url: "/cdr-researcher-census/researchers/anne-voigtlander-a5112587/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaomeng Wei"
 description: "Xiaomeng Wei is a Senior Soil Carbon researcher at Union Hospital in CN. With 91 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.989709
+date: 2026-07-10T01:07:47.045177
 url: "/cdr-researcher-census/researchers/xiaomeng-wei-a5108697/"
 layout: "researcher"
 hiddenInHomeList: true

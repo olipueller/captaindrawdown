@@ -1,7 +1,7 @@
 ---
 title: "Emre Gençer"
 description: "Emre Gençer is a Senior General CDR researcher at Massachusetts Institute of Technology in US. With 77 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.029764
+date: 2026-07-10T01:07:47.098973
 url: "/cdr-researcher-census/researchers/emre-gencer-a5017585/"
 layout: "researcher"
 hiddenInHomeList: true

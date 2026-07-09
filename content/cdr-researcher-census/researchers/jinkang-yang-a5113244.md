@@ -1,7 +1,7 @@
 ---
 title: "Jinkang Yang"
 description: "Jinkang Yang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.086564
+date: 2026-07-10T01:07:48.996618
 url: "/cdr-researcher-census/researchers/jinkang-yang-a5113244/"
 layout: "researcher"
 hiddenInHomeList: true

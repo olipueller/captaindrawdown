@@ -1,7 +1,7 @@
 ---
 title: "Viktória Baranyi"
 description: "Viktória Baranyi is a Mid-career Unknown researcher at Croatian Geological Survey in HR. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.399377
+date: 2026-07-10T01:07:47.480149
 url: "/cdr-researcher-census/researchers/viktoria-baranyi-a5051691/"
 layout: "researcher"
 hiddenInHomeList: true

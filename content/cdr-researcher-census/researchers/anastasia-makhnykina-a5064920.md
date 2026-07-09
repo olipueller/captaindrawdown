@@ -1,7 +1,7 @@
 ---
 title: "Anastasia Makhnykina"
 description: "Anastasia Makhnykina is a Mid-career Soil Carbon researcher at Siberian Branch of the Russian Academy of Sciences in RU. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.230520
+date: 2026-07-10T01:07:49.139690
 url: "/cdr-researcher-census/researchers/anastasia-makhnykina-a5064920/"
 layout: "researcher"
 hiddenInHomeList: true

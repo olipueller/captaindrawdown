@@ -1,7 +1,7 @@
 ---
 title: "Dejin Dong"
 description: "Dejin Dong is a Mid-career Unknown researcher at Kyushu University in JP. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.712773
+date: 2026-07-10T01:07:48.663922
 url: "/cdr-researcher-census/researchers/dejin-dong-a5067180/"
 layout: "researcher"
 hiddenInHomeList: true

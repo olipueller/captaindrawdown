@@ -1,7 +1,7 @@
 ---
 title: "Rongxin Yang"
 description: "Rongxin Yang is a Senior Soil Carbon researcher at Shanxi University of Finance and Economics in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.455410
+date: 2026-07-10T01:07:47.530309
 url: "/cdr-researcher-census/researchers/rongxin-yang-a5100536/"
 layout: "researcher"
 hiddenInHomeList: true

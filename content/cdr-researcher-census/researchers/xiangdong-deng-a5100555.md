@@ -1,7 +1,7 @@
 ---
 title: "Xiangdong Deng"
 description: "Xiangdong Deng is a Senior Unknown researcher at Xuzhou Medical College in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.255518
+date: 2026-07-10T01:07:48.263580
 url: "/cdr-researcher-census/researchers/xiangdong-deng-a5100555/"
 layout: "researcher"
 hiddenInHomeList: true

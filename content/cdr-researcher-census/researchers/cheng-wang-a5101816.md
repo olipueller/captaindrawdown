@@ -1,7 +1,7 @@
 ---
 title: "Cheng Wang"
 description: "Cheng Wang is a Senior Soil Carbon researcher at Shandong University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.606713
+date: 2026-07-10T01:07:47.668274
 url: "/cdr-researcher-census/researchers/cheng-wang-a5101816/"
 layout: "researcher"
 hiddenInHomeList: true

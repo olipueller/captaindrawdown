@@ -1,7 +1,7 @@
 ---
 title: "Michael Sswat"
 description: "Michael Sswat is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel in DE. With 65 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.246598
+date: 2026-07-10T01:07:47.332168
 url: "/cdr-researcher-census/researchers/michael-sswat-a5041904/"
 layout: "researcher"
 hiddenInHomeList: true

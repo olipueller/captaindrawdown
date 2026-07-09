@@ -1,7 +1,7 @@
 ---
 title: "Zhiming Guo"
 description: "Zhiming Guo is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 26 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.418709
+date: 2026-07-10T01:07:47.497817
 url: "/cdr-researcher-census/researchers/zhiming-guo-a5016307/"
 layout: "researcher"
 hiddenInHomeList: true

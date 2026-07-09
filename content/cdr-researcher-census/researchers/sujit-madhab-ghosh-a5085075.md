@@ -1,7 +1,7 @@
 ---
 title: "Sujit Madhab Ghosh"
 description: "Sujit Madhab Ghosh is a Mid-career Soil Carbon researcher at Indian Institute of Technology Kharagpur in IN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.518816
+date: 2026-07-10T01:07:47.586327
 url: "/cdr-researcher-census/researchers/sujit-madhab-ghosh-a5085075/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiaozhuo Wan"
 description: "Qiaozhuo Wan is a Mid-career Soil Carbon researcher at Northwest Normal University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.496713
+date: 2026-07-10T01:07:47.566603
 url: "/cdr-researcher-census/researchers/qiaozhuo-wan-a5113958/"
 layout: "researcher"
 hiddenInHomeList: true

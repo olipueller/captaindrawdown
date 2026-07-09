@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Jourdan"
 description: "Nicolas Jourdan is a Mid-career Unknown researcher at IMEC in BE. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.955794
+date: 2026-07-10T01:07:48.877755
 url: "/cdr-researcher-census/researchers/nicolas-jourdan-a5084913/"
 layout: "researcher"
 hiddenInHomeList: true

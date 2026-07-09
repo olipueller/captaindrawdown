@@ -1,7 +1,7 @@
 ---
 title: "Joanna I. House"
 description: "Joanna I. House is an Eminent General CDR researcher at The University of Bristol in GB. With 162 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.876295
+date: 2026-07-10T01:07:46.823583
 url: "/cdr-researcher-census/researchers/joanna-i-house-a5036206/"
 layout: "researcher"
 hiddenInHomeList: true

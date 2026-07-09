@@ -1,7 +1,7 @@
 ---
 title: "Guangling Yu"
 description: "Guangling Yu is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.071112
+date: 2026-07-10T01:07:48.073831
 url: "/cdr-researcher-census/researchers/guangling-yu-a5072199/"
 layout: "researcher"
 hiddenInHomeList: true

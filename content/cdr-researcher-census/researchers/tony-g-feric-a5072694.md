@@ -1,7 +1,7 @@
 ---
 title: "Tony G. Feric"
 description: "Tony G. Feric is a Mid-career Unknown researcher at Earth Island Institute in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.733934
+date: 2026-07-10T01:07:47.785939
 url: "/cdr-researcher-census/researchers/tony-g-feric-a5072694/"
 layout: "researcher"
 hiddenInHomeList: true

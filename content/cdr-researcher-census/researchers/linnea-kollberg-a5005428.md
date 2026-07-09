@@ -1,7 +1,7 @@
 ---
 title: "Linnéa Kollberg"
 description: "Linnéa Kollberg is a Mid-career Unknown researcher at Lund University in SE. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.740260
+date: 2026-07-10T01:07:47.792433
 url: "/cdr-researcher-census/researchers/linnea-kollberg-a5005428/"
 layout: "researcher"
 hiddenInHomeList: true

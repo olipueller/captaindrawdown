@@ -1,7 +1,7 @@
 ---
 title: "Patarajarin Akarapipad"
 description: "Patarajarin Akarapipad is a Mid-career Unknown researcher at Johns Hopkins University in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.821583
+date: 2026-07-10T01:07:47.867642
 url: "/cdr-researcher-census/researchers/patarajarin-akarapipad-a5069276/"
 layout: "researcher"
 hiddenInHomeList: true

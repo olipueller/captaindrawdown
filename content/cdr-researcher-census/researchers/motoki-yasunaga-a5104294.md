@@ -1,7 +1,7 @@
 ---
 title: "Motoki Yasunaga"
 description: "Motoki Yasunaga is a Mid-career Unknown researcher at Osaka Police Hospital in JP. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.131588
+date: 2026-07-10T01:07:49.035898
 url: "/cdr-researcher-census/researchers/motoki-yasunaga-a5104294/"
 layout: "researcher"
 hiddenInHomeList: true

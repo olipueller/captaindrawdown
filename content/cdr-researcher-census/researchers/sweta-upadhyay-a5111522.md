@@ -1,7 +1,7 @@
 ---
 title: "Sweta Upadhyay"
 description: "Sweta Upadhyay is a Senior Unknown researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.806739
+date: 2026-07-10T01:07:48.745027
 url: "/cdr-researcher-census/researchers/sweta-upadhyay-a5111522/"
 layout: "researcher"
 hiddenInHomeList: true

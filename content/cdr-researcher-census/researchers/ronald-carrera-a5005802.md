@@ -1,7 +1,7 @@
 ---
 title: "Ronald Carrera"
 description: "Ronald Carrera is a Mid-career Unknown researcher. With 17 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.095542
+date: 2026-07-10T01:07:47.178430
 url: "/cdr-researcher-census/researchers/ronald-carrera-a5005802/"
 layout: "researcher"
 hiddenInHomeList: true

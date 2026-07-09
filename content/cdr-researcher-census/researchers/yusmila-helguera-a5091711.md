@@ -1,7 +1,7 @@
 ---
 title: "Yusmila Helguera"
 description: "Yusmila Helguera is a Senior Soil Carbon researcher at University of Cienfuegos in CU. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.689308
+date: 2026-07-10T01:07:48.643295
 url: "/cdr-researcher-census/researchers/yusmila-helguera-a5091711/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ângela Aparecida Vieira"
 description: "Ângela Aparecida Vieira is a Mid-career Unknown researcher at Universidade do Vale do Paraíba in BR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.958910
+date: 2026-07-10T01:07:48.880335
 url: "/cdr-researcher-census/researchers/angela-aparecida-vieira-a5028588/"
 layout: "researcher"
 hiddenInHomeList: true

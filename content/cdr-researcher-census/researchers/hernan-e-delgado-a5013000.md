@@ -1,7 +1,7 @@
 ---
 title: "Hernan E. Delgado"
 description: "Hernan E. Delgado is a Mid-career General CDR researcher at Argonne National Laboratory in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.040670
+date: 2026-07-10T01:07:48.046068
 url: "/cdr-researcher-census/researchers/hernan-e-delgado-a5013000/"
 layout: "researcher"
 hiddenInHomeList: true

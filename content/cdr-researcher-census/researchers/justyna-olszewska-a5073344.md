@@ -1,7 +1,7 @@
 ---
 title: "Justyna Olszewska"
 description: "Justyna Olszewska is a Senior Unknown researcher at UK Centre for Ecology & Hydrology in GB. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.716670
+date: 2026-07-10T01:07:47.770353
 url: "/cdr-researcher-census/researchers/justyna-olszewska-a5073344/"
 layout: "researcher"
 hiddenInHomeList: true

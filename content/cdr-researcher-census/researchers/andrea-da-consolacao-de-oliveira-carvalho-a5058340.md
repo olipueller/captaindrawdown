@@ -1,7 +1,7 @@
 ---
 title: "Andréa da Consolação de Oliveira Carvalho"
 description: "Andréa da Consolação de Oliveira Carvalho is a Mid-career Ocean CDR researcher at Instituto de Geociencias in ES. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.750862
+date: 2026-07-10T01:07:48.697636
 url: "/cdr-researcher-census/researchers/andrea-da-consolacao-de-oliveira-carvalho-a5058340/"
 layout: "researcher"
 hiddenInHomeList: true

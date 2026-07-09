@@ -1,7 +1,7 @@
 ---
 title: "Yilmaz Kara"
 description: "Yilmaz Kara is a Senior Biochar researcher at Engie (France) in FR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.993424
+date: 2026-07-10T01:07:48.002950
 url: "/cdr-researcher-census/researchers/yilmaz-kara-a5010977/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mengqiu He"
 description: "Mengqiu He is a Mid-career Unknown researcher at Ministry of Natural Resources in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.694041
+date: 2026-07-10T01:07:47.749935
 url: "/cdr-researcher-census/researchers/mengqiu-he-a5029851/"
 layout: "researcher"
 hiddenInHomeList: true

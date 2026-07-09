@@ -1,7 +1,7 @@
 ---
 title: "Tristan A Barley"
 description: "Tristan A Barley is an Early-career Unknown researcher at University of Illinois Urbana-Champaign in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.251090
+date: 2026-07-10T01:07:49.158345
 url: "/cdr-researcher-census/researchers/tristan-a-barley-a5032948/"
 layout: "researcher"
 hiddenInHomeList: true

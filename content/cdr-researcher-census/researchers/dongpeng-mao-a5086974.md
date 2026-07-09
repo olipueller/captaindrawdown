@@ -1,7 +1,7 @@
 ---
 title: "Dongpeng Mao"
 description: "Dongpeng Mao is a Mid-career Biochar researcher at Jilin University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.040962
+date: 2026-07-10T01:07:48.954811
 url: "/cdr-researcher-census/researchers/dongpeng-mao-a5086974/"
 layout: "researcher"
 hiddenInHomeList: true

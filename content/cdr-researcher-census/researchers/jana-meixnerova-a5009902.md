@@ -1,7 +1,7 @@
 ---
 title: "Jana Meixnerová"
 description: "Jana Meixnerová is a Mid-career Unknown researcher at NASA Exoplanet Science Institute in US. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.852606
+date: 2026-07-10T01:07:48.783321
 url: "/cdr-researcher-census/researchers/jana-meixnerova-a5009902/"
 layout: "researcher"
 hiddenInHomeList: true

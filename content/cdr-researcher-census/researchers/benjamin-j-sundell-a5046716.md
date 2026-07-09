@@ -1,7 +1,7 @@
 ---
 title: "Benjamin J. Sundell"
 description: "Benjamin J. Sundell is a Mid-career Unknown researcher at Aramco Services Company in US. With 23 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.381664
+date: 2026-07-10T01:07:47.463216
 url: "/cdr-researcher-census/researchers/benjamin-j-sundell-a5046716/"
 layout: "researcher"
 hiddenInHomeList: true

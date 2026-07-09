@@ -1,7 +1,7 @@
 ---
 title: "Luis Cifuentes"
 description: "Luis Cifuentes is a Mid-career Unknown researcher at University of Duisburg-Essen in DE. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.797274
+date: 2026-07-10T01:07:47.845254
 url: "/cdr-researcher-census/researchers/luis-cifuentes-a5066008/"
 layout: "researcher"
 hiddenInHomeList: true

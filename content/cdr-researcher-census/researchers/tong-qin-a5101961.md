@@ -1,7 +1,7 @@
 ---
 title: "Tong Qin"
 description: "Tong Qin is a Senior Unknown researcher at Beijing Institute of Technology in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.047096
+date: 2026-07-10T01:07:48.052400
 url: "/cdr-researcher-census/researchers/tong-qin-a5101961/"
 layout: "researcher"
 hiddenInHomeList: true

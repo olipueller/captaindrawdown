@@ -1,7 +1,7 @@
 ---
 title: "Prosper Opute"
 description: "Prosper Opute is a Senior Soil Carbon researcher at University of the Witwatersrand in ZA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.034483
+date: 2026-07-10T01:07:48.949372
 url: "/cdr-researcher-census/researchers/prosper-opute-a5048738/"
 layout: "researcher"
 hiddenInHomeList: true

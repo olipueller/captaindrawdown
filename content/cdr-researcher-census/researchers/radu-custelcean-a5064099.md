@@ -1,7 +1,7 @@
 ---
 title: "Radu Custelcean"
 description: "Radu Custelcean is an Eminent General CDR researcher at Oak Ridge National Laboratory in US. With 435 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.912177
+date: 2026-07-10T01:07:46.912233
 url: "/cdr-researcher-census/researchers/radu-custelcean-a5064099/"
 layout: "researcher"
 hiddenInHomeList: true

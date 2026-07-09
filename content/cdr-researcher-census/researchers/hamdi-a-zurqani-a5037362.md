@@ -1,7 +1,7 @@
 ---
 title: "Hamdi A. Zurqani"
 description: "Hamdi A. Zurqani is a Mid-career Soil Carbon researcher at University of Arkansas at Monticello in US. With 102 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.350387
+date: 2026-07-10T01:07:47.432774
 url: "/cdr-researcher-census/researchers/hamdi-a-zurqani-a5037362/"
 layout: "researcher"
 hiddenInHomeList: true

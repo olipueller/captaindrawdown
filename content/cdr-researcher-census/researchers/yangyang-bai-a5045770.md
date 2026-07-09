@@ -1,7 +1,7 @@
 ---
 title: "Yangyang Bai"
 description: "Yangyang Bai is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.981093
+date: 2026-07-10T01:07:47.990340
 url: "/cdr-researcher-census/researchers/yangyang-bai-a5045770/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hadi Eshraghi"
 description: "Hadi Eshraghi is a Mid-career General CDR researcher at North Carolina State University in US. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.180351
+date: 2026-07-10T01:07:48.196333
 url: "/cdr-researcher-census/researchers/hadi-eshraghi-a5086379/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andrew Langendam"
 description: "Andrew Langendam is a Mid-career General CDR researcher at Australian Nuclear Science and Technology Organisation in AU. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.093473
+date: 2026-07-10T01:07:48.093272
 url: "/cdr-researcher-census/researchers/andrew-langendam-a5001848/"
 layout: "researcher"
 hiddenInHomeList: true

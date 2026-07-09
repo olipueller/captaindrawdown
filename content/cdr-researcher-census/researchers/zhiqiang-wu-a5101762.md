@@ -1,7 +1,7 @@
 ---
 title: "Zhiqiang Wu"
 description: "Zhiqiang Wu is a Senior Unknown researcher at Xi'an University of Science and Technology in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.807707
+date: 2026-07-10T01:07:48.745797
 url: "/cdr-researcher-census/researchers/zhiqiang-wu-a5101762/"
 layout: "researcher"
 hiddenInHomeList: true

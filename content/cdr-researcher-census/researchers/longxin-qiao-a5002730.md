@@ -1,7 +1,7 @@
 ---
 title: "Longxin Qiao"
 description: "Longxin Qiao is a Mid-career Unknown researcher at Institute for Biodiversity in DE. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.023381
+date: 2026-07-10T01:07:48.939166
 url: "/cdr-researcher-census/researchers/longxin-qiao-a5002730/"
 layout: "researcher"
 hiddenInHomeList: true

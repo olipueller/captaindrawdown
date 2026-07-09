@@ -1,7 +1,7 @@
 ---
 title: "Yuanxin Qu"
 description: "Yuanxin Qu is a Mid-career Unknown researcher at Institute of Earth Environment in CN. With 3 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.674063
+date: 2026-07-10T01:07:48.629900
 url: "/cdr-researcher-census/researchers/yuanxin-qu-a5063627/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud M. Abdelnaby"
 description: "Mahmoud M. Abdelnaby is a Senior General CDR researcher at King Fahd University of Petroleum and Minerals (KFUPM) in SA. With 61 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.239319
+date: 2026-07-10T01:07:47.325526
 url: "/cdr-researcher-census/researchers/mahmoud-m-abdelnaby-a5090712/"
 layout: "researcher"
 hiddenInHomeList: true

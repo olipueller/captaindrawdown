@@ -1,7 +1,7 @@
 ---
 title: "Perla Piña-Varas"
 description: "Perla Piña-Varas is a Mid-career Unknown researcher at Universitat de Barcelona in ES. With 53 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.852425
+date: 2026-07-10T01:07:47.888011
 url: "/cdr-researcher-census/researchers/perla-pina-varas-a5041556/"
 layout: "researcher"
 hiddenInHomeList: true

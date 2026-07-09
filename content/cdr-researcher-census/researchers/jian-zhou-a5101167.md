@@ -1,7 +1,7 @@
 ---
 title: "Jian Zhou"
 description: "Jian Zhou is a Senior Unknown researcher at NARI Group (China) in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.487004
+date: 2026-07-10T01:07:48.473198
 url: "/cdr-researcher-census/researchers/jian-zhou-a5101167/"
 layout: "researcher"
 hiddenInHomeList: true

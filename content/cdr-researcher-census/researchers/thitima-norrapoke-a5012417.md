@@ -1,7 +1,7 @@
 ---
 title: "Thitima Norrapoke"
 description: "Thitima Norrapoke is a Mid-career Unknown researcher at Kalasin University in TH. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.233632
+date: 2026-07-10T01:07:48.243389
 url: "/cdr-researcher-census/researchers/thitima-norrapoke-a5012417/"
 layout: "researcher"
 hiddenInHomeList: true

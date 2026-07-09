@@ -1,7 +1,7 @@
 ---
 title: "Zhurui Shao"
 description: "Zhurui Shao is a Mid-career Unknown researcher at Shandong First Medical University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.173427
+date: 2026-07-10T01:07:49.063173
 url: "/cdr-researcher-census/researchers/zhurui-shao-a5045281/"
 layout: "researcher"
 hiddenInHomeList: true

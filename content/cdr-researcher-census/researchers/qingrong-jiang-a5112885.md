@@ -1,7 +1,7 @@
 ---
 title: "Qingrong Jiang"
 description: "Qingrong Jiang is a Mid-career Biochar researcher at Wuhan Polytechnic University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.097606
+date: 2026-07-10T01:07:49.006111
 url: "/cdr-researcher-census/researchers/qingrong-jiang-a5112885/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sabrina Völz"
 description: "Sabrina Völz is a Senior Unknown researcher. With 18 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.976419
+date: 2026-07-10T01:07:47.986328
 url: "/cdr-researcher-census/researchers/sabrina-volz-a5075784/"
 layout: "researcher"
 hiddenInHomeList: true

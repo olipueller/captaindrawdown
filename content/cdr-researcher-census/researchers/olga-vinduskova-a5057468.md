@@ -1,7 +1,7 @@
 ---
 title: "Olga Vindušková"
 description: "Olga Vindušková is a Senior Soil Carbon researcher at Charles University in CZ. With 66 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.155128
+date: 2026-07-10T01:07:47.243644
 url: "/cdr-researcher-census/researchers/olga-vinduskova-a5057468/"
 layout: "researcher"
 hiddenInHomeList: true

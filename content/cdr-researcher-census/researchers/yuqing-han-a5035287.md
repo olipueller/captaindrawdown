@@ -1,7 +1,7 @@
 ---
 title: "Yuqing Han"
 description: "Yuqing Han is a Mid-career Unknown researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.740473
+date: 2026-07-10T01:07:47.792615
 url: "/cdr-researcher-census/researchers/yuqing-han-a5035287/"
 layout: "researcher"
 hiddenInHomeList: true

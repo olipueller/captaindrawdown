@@ -1,7 +1,7 @@
 ---
 title: "Patrick Neuberger"
 description: "Patrick Neuberger is a Mid-career Unknown researcher at Olgahospital in DE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.959911
+date: 2026-07-10T01:07:48.881257
 url: "/cdr-researcher-census/researchers/patrick-neuberger-a5065847/"
 layout: "researcher"
 hiddenInHomeList: true

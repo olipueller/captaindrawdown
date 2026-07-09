@@ -1,7 +1,7 @@
 ---
 title: "Damin Liu"
 description: "Damin Liu is a Senior Biochar researcher at Jiangsu University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.761093
+date: 2026-07-10T01:07:47.811680
 url: "/cdr-researcher-census/researchers/damin-liu-a5077134/"
 layout: "researcher"
 hiddenInHomeList: true

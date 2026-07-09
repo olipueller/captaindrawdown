@@ -1,7 +1,7 @@
 ---
 title: "Zhiwei Liu"
 description: "Zhiwei Liu is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 111 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.085476
+date: 2026-07-10T01:07:47.167116
 url: "/cdr-researcher-census/researchers/zhiwei-liu-a5100321/"
 layout: "researcher"
 hiddenInHomeList: true

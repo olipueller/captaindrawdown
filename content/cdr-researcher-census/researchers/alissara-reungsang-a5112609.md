@@ -1,7 +1,7 @@
 ---
 title: "Alissara Reungsang"
 description: "Alissara Reungsang is a Mid-career Biochar researcher at Royal Society in GB. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.616932
+date: 2026-07-10T01:07:47.677882
 url: "/cdr-researcher-census/researchers/alissara-reungsang-a5112609/"
 layout: "researcher"
 hiddenInHomeList: true

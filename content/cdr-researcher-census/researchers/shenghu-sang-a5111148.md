@@ -1,7 +1,7 @@
 ---
 title: "Shenghu Sang"
 description: "Shenghu Sang is an Early-career General CDR researcher at Hefei University of Technology in CN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.661076
+date: 2026-07-10T01:07:48.618054
 url: "/cdr-researcher-census/researchers/shenghu-sang-a5111148/"
 layout: "researcher"
 hiddenInHomeList: true

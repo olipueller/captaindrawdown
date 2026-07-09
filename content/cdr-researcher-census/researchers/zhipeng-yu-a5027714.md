@@ -1,7 +1,7 @@
 ---
 title: "Zhipeng Yu"
 description: "Zhipeng Yu is a Senior General CDR researcher at Hefei University of Technology in CN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.633903
+date: 2026-07-10T01:07:47.693597
 url: "/cdr-researcher-census/researchers/zhipeng-yu-a5027714/"
 layout: "researcher"
 hiddenInHomeList: true

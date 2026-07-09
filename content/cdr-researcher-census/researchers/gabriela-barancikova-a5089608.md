@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Barančíková"
 description: "Gabriela Barančíková is a Senior Soil Carbon researcher at National Agricultural and Food Centre in SK. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.308290
+date: 2026-07-10T01:07:47.390455
 url: "/cdr-researcher-census/researchers/gabriela-barancikova-a5089608/"
 layout: "researcher"
 hiddenInHomeList: true

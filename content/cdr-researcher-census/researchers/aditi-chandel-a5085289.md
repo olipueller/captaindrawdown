@@ -1,7 +1,7 @@
 ---
 title: "Aditi Chandel"
 description: "Aditi Chandel is an Early-career Unknown researcher at Bihar Agricultural University in IN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.710812
+date: 2026-07-10T01:07:47.765179
 url: "/cdr-researcher-census/researchers/aditi-chandel-a5085289/"
 layout: "researcher"
 hiddenInHomeList: true

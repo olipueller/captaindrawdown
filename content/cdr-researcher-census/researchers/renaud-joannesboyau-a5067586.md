@@ -1,7 +1,7 @@
 ---
 title: "Renaud Joannes‐Boyau"
 description: "Renaud Joannes‐Boyau is a Senior Ocean CDR researcher at Southern Cross University in AU. With 159 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.970841
+date: 2026-07-10T01:07:47.014278
 url: "/cdr-researcher-census/researchers/renaud-joannesboyau-a5067586/"
 layout: "researcher"
 hiddenInHomeList: true

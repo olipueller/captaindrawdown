@@ -1,7 +1,7 @@
 ---
 title: "Antoine Benoit"
 description: "Antoine Benoit is an Early-career General CDR researcher at Kopoos Consulting (France) in FR. With 5 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.341207
+date: 2026-07-10T01:07:48.340766
 url: "/cdr-researcher-census/researchers/antoine-benoit-a5013527/"
 layout: "researcher"
 hiddenInHomeList: true

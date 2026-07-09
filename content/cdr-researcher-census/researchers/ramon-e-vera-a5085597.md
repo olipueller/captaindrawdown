@@ -1,7 +1,7 @@
 ---
 title: "Ramón E. Vera"
 description: "Ramón E. Vera is a Senior Soil Carbon researcher at North Carolina State University in US. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.516873
+date: 2026-07-10T01:07:47.584725
 url: "/cdr-researcher-census/researchers/ramon-e-vera-a5085597/"
 layout: "researcher"
 hiddenInHomeList: true

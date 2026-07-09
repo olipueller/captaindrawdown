@@ -1,7 +1,7 @@
 ---
 title: "Chin-Chun Chung"
 description: "Chin-Chun Chung is a Senior Unknown researcher at R.O.C Military Academy in TW. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.296820
+date: 2026-07-10T01:07:48.299984
 url: "/cdr-researcher-census/researchers/chin-chun-chung-a5075941/"
 layout: "researcher"
 hiddenInHomeList: true

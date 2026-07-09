@@ -1,7 +1,7 @@
 ---
 title: "Katia Monzillo"
 description: "Katia Monzillo is a Mid-career Unknown researcher at University of Salerno in IT. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.074797
+date: 2026-07-10T01:07:48.985905
 url: "/cdr-researcher-census/researchers/katia-monzillo-a5096741/"
 layout: "researcher"
 hiddenInHomeList: true

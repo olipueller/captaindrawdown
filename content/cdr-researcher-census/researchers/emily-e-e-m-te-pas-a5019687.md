@@ -1,7 +1,7 @@
 ---
 title: "Emily E. E. M. te Pas"
 description: "Emily E. E. M. te Pas is an Early-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.223616
+date: 2026-07-10T01:07:49.133722
 url: "/cdr-researcher-census/researchers/emily-e-e-m-te-pas-a5019687/"
 layout: "researcher"
 hiddenInHomeList: true

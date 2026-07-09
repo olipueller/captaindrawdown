@@ -1,7 +1,7 @@
 ---
 title: "Leroy J. Walston"
 description: "Leroy J. Walston is a Senior Unknown researcher at Argonne National Laboratory in US. With 49 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.376682
+date: 2026-07-10T01:07:47.458653
 url: "/cdr-researcher-census/researchers/leroy-j-walston-a5050993/"
 layout: "researcher"
 hiddenInHomeList: true

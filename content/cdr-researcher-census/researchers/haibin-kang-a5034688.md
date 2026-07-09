@@ -1,7 +1,7 @@
 ---
 title: "Haibin Kang"
 description: "Haibin Kang is a Mid-career Soil Carbon researcher at State Forestry and Grassland Administration in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.165574
+date: 2026-07-10T01:07:48.183052
 url: "/cdr-researcher-census/researchers/haibin-kang-a5034688/"
 layout: "researcher"
 hiddenInHomeList: true

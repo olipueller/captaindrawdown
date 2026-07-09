@@ -1,7 +1,7 @@
 ---
 title: "Hui Huang"
 description: "Hui Huang is a Mid-career Unknown researcher at Beijing University of Technology in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.976533
+date: 2026-07-10T01:07:48.896536
 url: "/cdr-researcher-census/researchers/hui-huang-a5041158/"
 layout: "researcher"
 hiddenInHomeList: true

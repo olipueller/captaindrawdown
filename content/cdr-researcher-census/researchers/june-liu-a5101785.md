@@ -1,7 +1,7 @@
 ---
 title: "Jun’e Liu"
 description: "Jun’e Liu is a Mid-career Soil Carbon researcher at Shaanxi Institute of Zoology in CN. With 53 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.252627
+date: 2026-07-10T01:07:47.337335
 url: "/cdr-researcher-census/researchers/june-liu-a5101785/"
 layout: "researcher"
 hiddenInHomeList: true

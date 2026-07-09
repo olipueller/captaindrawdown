@@ -1,7 +1,7 @@
 ---
 title: "Shenglan Ma"
 description: "Shenglan Ma is a Senior Soil Carbon researcher at Fujian University of Technology in CN. With 59 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.457519
+date: 2026-07-10T01:07:47.532162
 url: "/cdr-researcher-census/researchers/shenglan-ma-a5007672/"
 layout: "researcher"
 hiddenInHomeList: true

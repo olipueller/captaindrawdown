@@ -1,7 +1,7 @@
 ---
 title: "Yadira Vargas"
 description: "Yadira Vargas is a Senior Soil Carbon researcher at Instituto Nacional de Investigaciones Agropecuarias in EC. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.872823
+date: 2026-07-10T01:07:48.800822
 url: "/cdr-researcher-census/researchers/yadira-vargas-a5006694/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vinisa Saynes"
 description: "Vinisa Saynes is a Senior Unknown researcher at Food and Agriculture Organization of the United Nations in IT. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.290790
+date: 2026-07-10T01:07:47.373091
 url: "/cdr-researcher-census/researchers/vinisa-saynes-a5004262/"
 layout: "researcher"
 hiddenInHomeList: true

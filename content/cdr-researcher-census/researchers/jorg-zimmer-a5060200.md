@@ -1,7 +1,7 @@
 ---
 title: "Jörg Zimmer"
 description: "Jörg Zimmer is a Senior Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.643392
+date: 2026-07-10T01:07:48.601985
 url: "/cdr-researcher-census/researchers/jorg-zimmer-a5060200/"
 layout: "researcher"
 hiddenInHomeList: true

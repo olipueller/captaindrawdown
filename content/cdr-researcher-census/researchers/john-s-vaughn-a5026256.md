@@ -1,7 +1,7 @@
 ---
 title: "John S. Vaughn"
 description: "John S. Vaughn is a Mid-career Unknown researcher at Lawrence Livermore National Laboratory in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.036235
+date: 2026-07-10T01:07:48.042310
 url: "/cdr-researcher-census/researchers/john-s-vaughn-a5026256/"
 layout: "researcher"
 hiddenInHomeList: true

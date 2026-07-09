@@ -1,7 +1,7 @@
 ---
 title: "Shruthi Srinivasan"
 description: "Shruthi Srinivasan is a Mid-career Unknown researcher at US Forest Service in US. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.412395
+date: 2026-07-10T01:07:47.491599
 url: "/cdr-researcher-census/researchers/shruthi-srinivasan-a5080537/"
 layout: "researcher"
 hiddenInHomeList: true

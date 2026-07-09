@@ -1,7 +1,7 @@
 ---
 title: "Masniroszaime Md Zain"
 description: "Masniroszaime Md Zain is a Mid-career Unknown researcher at Petronas (Malaysia) in MY. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.213680
+date: 2026-07-10T01:07:49.125266
 url: "/cdr-researcher-census/researchers/masniroszaime-md-zain-a5068586/"
 layout: "researcher"
 hiddenInHomeList: true

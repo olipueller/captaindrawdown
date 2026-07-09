@@ -1,7 +1,7 @@
 ---
 title: "Zexian Gu"
 description: "Zexian Gu is a Mid-career General CDR researcher at Yunnan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.257432
+date: 2026-07-10T01:07:48.265249
 url: "/cdr-researcher-census/researchers/zexian-gu-a5101014/"
 layout: "researcher"
 hiddenInHomeList: true

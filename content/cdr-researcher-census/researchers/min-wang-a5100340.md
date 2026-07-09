@@ -1,7 +1,7 @@
 ---
 title: "Min Wang"
 description: "Min Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.256996
+date: 2026-07-10T01:07:48.264870
 url: "/cdr-researcher-census/researchers/min-wang-a5100340/"
 layout: "researcher"
 hiddenInHomeList: true

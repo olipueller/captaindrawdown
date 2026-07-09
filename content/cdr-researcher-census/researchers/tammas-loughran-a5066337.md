@@ -1,7 +1,7 @@
 ---
 title: "Tammas Loughran"
 description: "Tammas Loughran is a Mid-career General CDR researcher. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.244347
+date: 2026-07-10T01:07:47.330019
 url: "/cdr-researcher-census/researchers/tammas-loughran-a5066337/"
 layout: "researcher"
 hiddenInHomeList: true

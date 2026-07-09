@@ -1,7 +1,7 @@
 ---
 title: "Bart Driessen"
 description: "Bart Driessen is a Senior Soil Carbon researcher at Netherlands Organisation for Applied Scientific Research in NL. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.405926
+date: 2026-07-10T01:07:47.485786
 url: "/cdr-researcher-census/researchers/bart-driessen-a5102725/"
 layout: "researcher"
 hiddenInHomeList: true

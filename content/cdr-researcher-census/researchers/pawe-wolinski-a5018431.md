@@ -1,7 +1,7 @@
 ---
 title: "Paweł Woliński"
 description: "Paweł Woliński is a Mid-career General CDR researcher. With 23 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.660405
+date: 2026-07-10T01:07:48.617507
 url: "/cdr-researcher-census/researchers/pawe-wolinski-a5018431/"
 layout: "researcher"
 hiddenInHomeList: true

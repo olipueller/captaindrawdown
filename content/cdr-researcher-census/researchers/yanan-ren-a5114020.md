@@ -1,7 +1,7 @@
 ---
 title: "Yanan Ren"
 description: "Yanan Ren is a Mid-career Soil Carbon researcher at Hefei University of Technology in CN. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.147310
+date: 2026-07-10T01:07:49.049509
 url: "/cdr-researcher-census/researchers/yanan-ren-a5114020/"
 layout: "researcher"
 hiddenInHomeList: true

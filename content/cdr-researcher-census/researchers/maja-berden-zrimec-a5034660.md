@@ -1,7 +1,7 @@
 ---
 title: "Maja Berden Zrimec"
 description: "Maja Berden Zrimec is a Senior General CDR researcher at Community Health Centre Ljubljana in SI. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.689630
+date: 2026-07-10T01:07:47.745811
 url: "/cdr-researcher-census/researchers/maja-berden-zrimec-a5034660/"
 layout: "researcher"
 hiddenInHomeList: true

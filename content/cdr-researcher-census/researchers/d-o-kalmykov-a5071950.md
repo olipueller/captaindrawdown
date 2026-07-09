@@ -1,7 +1,7 @@
 ---
 title: "D. O. Kalmykov"
 description: "D. O. Kalmykov is a Mid-career Unknown researcher at Russian Academy of Sciences in RU. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.891858
+date: 2026-07-10T01:07:48.818282
 url: "/cdr-researcher-census/researchers/d-o-kalmykov-a5071950/"
 layout: "researcher"
 hiddenInHomeList: true

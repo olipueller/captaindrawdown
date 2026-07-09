@@ -1,7 +1,7 @@
 ---
 title: "Jiaao Zhang"
 description: "Jiaao Zhang is a Mid-career Unknown researcher at University of California, Santa Barbara in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.221691
+date: 2026-07-10T01:07:47.308833
 url: "/cdr-researcher-census/researchers/jiaao-zhang-a5063129/"
 layout: "researcher"
 hiddenInHomeList: true

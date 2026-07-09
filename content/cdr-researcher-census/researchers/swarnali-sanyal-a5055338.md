@@ -1,7 +1,7 @@
 ---
 title: "Swarnali Sanyal"
 description: "Swarnali Sanyal is a Mid-career Unknown researcher at University of Illinois Urbana-Champaign in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.123947
+date: 2026-07-10T01:07:49.029279
 url: "/cdr-researcher-census/researchers/swarnali-sanyal-a5055338/"
 layout: "researcher"
 hiddenInHomeList: true

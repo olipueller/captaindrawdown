@@ -1,7 +1,7 @@
 ---
 title: "Xianwen Long"
 description: "Xianwen Long is a Mid-career Soil Carbon researcher at Nankai University in CN. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.662634
+date: 2026-07-10T01:07:47.720061
 url: "/cdr-researcher-census/researchers/xianwen-long-a5010279/"
 layout: "researcher"
 hiddenInHomeList: true

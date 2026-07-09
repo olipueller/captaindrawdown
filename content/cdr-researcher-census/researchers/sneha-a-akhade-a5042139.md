@@ -1,7 +1,7 @@
 ---
 title: "Sneha A. Akhade"
 description: "Sneha A. Akhade is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 95 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.029494
+date: 2026-07-10T01:07:47.098541
 url: "/cdr-researcher-census/researchers/sneha-a-akhade-a5042139/"
 layout: "researcher"
 hiddenInHomeList: true

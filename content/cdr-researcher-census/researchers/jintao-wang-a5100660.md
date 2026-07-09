@@ -1,7 +1,7 @@
 ---
 title: "Jintao Wang"
 description: "Jintao Wang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.539112
+date: 2026-07-10T01:07:47.604492
 url: "/cdr-researcher-census/researchers/jintao-wang-a5100660/"
 layout: "researcher"
 hiddenInHomeList: true

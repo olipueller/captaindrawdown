@@ -1,7 +1,7 @@
 ---
 title: "Durga Prasad Panday"
 description: "Durga Prasad Panday is a Mid-career Enhanced Weathering researcher at Tecnológico de Monterrey in MX. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.711436
+date: 2026-07-10T01:07:47.765845
 url: "/cdr-researcher-census/researchers/durga-prasad-panday-a5017377/"
 layout: "researcher"
 hiddenInHomeList: true

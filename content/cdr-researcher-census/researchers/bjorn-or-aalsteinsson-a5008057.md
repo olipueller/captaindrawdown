@@ -1,7 +1,7 @@
 ---
 title: "Björn Þór Aðalsteinsson"
 description: "Björn Þór Aðalsteinsson is a Mid-career Unknown researcher at University of Iceland in IS. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.594807
+date: 2026-07-10T01:07:47.657917
 url: "/cdr-researcher-census/researchers/bjorn-or-aalsteinsson-a5008057/"
 layout: "researcher"
 hiddenInHomeList: true

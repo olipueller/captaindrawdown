@@ -1,7 +1,7 @@
 ---
 title: "Marluce Scarabello"
 description: "Marluce Scarabello is a Mid-career General CDR researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.015669
+date: 2026-07-10T01:07:48.023276
 url: "/cdr-researcher-census/researchers/marluce-scarabello-a5008638/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haodong Zhao"
 description: "Haodong Zhao is a Mid-career Unknown researcher at Zhongnan University of Economics and Law in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.718707
+date: 2026-07-10T01:07:48.668631
 url: "/cdr-researcher-census/researchers/haodong-zhao-a5102554/"
 layout: "researcher"
 hiddenInHomeList: true

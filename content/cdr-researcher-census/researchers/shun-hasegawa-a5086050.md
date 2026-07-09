@@ -1,7 +1,7 @@
 ---
 title: "Shun Hasegawa"
 description: "Shun Hasegawa is a Mid-career Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 44 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.247320
+date: 2026-07-10T01:07:47.332670
 url: "/cdr-researcher-census/researchers/shun-hasegawa-a5086050/"
 layout: "researcher"
 hiddenInHomeList: true

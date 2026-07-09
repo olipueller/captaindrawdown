@@ -1,7 +1,7 @@
 ---
 title: "Zhen Yang"
 description: "Zhen Yang is a Senior Unknown researcher at Beijing University of Civil Engineering and Architecture in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.959020
+date: 2026-07-10T01:07:48.880432
 url: "/cdr-researcher-census/researchers/zhen-yang-a5100876/"
 layout: "researcher"
 hiddenInHomeList: true

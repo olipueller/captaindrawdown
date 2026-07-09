@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Chandra"
 description: "Priyanka Chandra is a Senior Soil Carbon researcher at Birla Institute of Technology in IN. With 90 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.145832
+date: 2026-07-10T01:07:47.234720
 url: "/cdr-researcher-census/researchers/priyanka-chandra-a5102812/"
 layout: "researcher"
 hiddenInHomeList: true

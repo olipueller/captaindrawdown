@@ -1,7 +1,7 @@
 ---
 title: "Miguel Moreira"
 description: "Miguel Moreira is a Mid-career Unknown researcher at Universidade de Coimbra Centre for Functional Ecology - Science for People & the Planet in PT. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.643206
+date: 2026-07-10T01:07:47.702176
 url: "/cdr-researcher-census/researchers/miguel-moreira-a5072875/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yun‐Ya Yang"
 description: "Yun‐Ya Yang is a Senior General CDR researcher. With 41 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.081819
+date: 2026-07-10T01:07:47.162836
 url: "/cdr-researcher-census/researchers/yunya-yang-a5059875/"
 layout: "researcher"
 hiddenInHomeList: true

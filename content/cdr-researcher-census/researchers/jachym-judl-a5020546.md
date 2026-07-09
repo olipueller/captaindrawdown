@@ -1,7 +1,7 @@
 ---
 title: "Jáchym Judl"
 description: "Jáchym Judl is a Mid-career Ocean CDR researcher at Finnish Environment Institute in FI. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.574740
+date: 2026-07-10T01:07:47.638268
 url: "/cdr-researcher-census/researchers/jachym-judl-a5020546/"
 layout: "researcher"
 hiddenInHomeList: true

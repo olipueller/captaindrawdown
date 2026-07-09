@@ -1,7 +1,7 @@
 ---
 title: "Luodan Hu"
 description: "Luodan Hu is a Mid-career Unknown researcher at Guangzhou University of Chinese Medicine in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.846225
+date: 2026-07-10T01:07:48.777571
 url: "/cdr-researcher-census/researchers/luodan-hu-a5014898/"
 layout: "researcher"
 hiddenInHomeList: true

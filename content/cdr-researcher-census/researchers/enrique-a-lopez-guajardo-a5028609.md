@@ -1,7 +1,7 @@
 ---
 title: "Enrique A. López-Guajardo"
 description: "Enrique A. López-Guajardo is a Mid-career General CDR researcher at Tecnológico de Monterrey in MX. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.902231
+date: 2026-07-10T01:07:47.916693
 url: "/cdr-researcher-census/researchers/enrique-a-lopez-guajardo-a5028609/"
 layout: "researcher"
 hiddenInHomeList: true

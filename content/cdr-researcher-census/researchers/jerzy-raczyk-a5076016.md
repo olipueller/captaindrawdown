@@ -1,7 +1,7 @@
 ---
 title: "Jerzy Raczyk"
 description: "Jerzy Raczyk is a Mid-career Unknown researcher at University of Wrocław in PL. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.595832
+date: 2026-07-10T01:07:47.658809
 url: "/cdr-researcher-census/researchers/jerzy-raczyk-a5076016/"
 layout: "researcher"
 hiddenInHomeList: true

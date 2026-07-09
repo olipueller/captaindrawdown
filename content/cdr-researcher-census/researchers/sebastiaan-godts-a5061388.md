@@ -1,7 +1,7 @@
 ---
 title: "Sebastiaan Godts"
 description: "Sebastiaan Godts is a Mid-career Unknown researcher at HOGENT University of Applied Sciences and Arts in BE. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.164887
+date: 2026-07-10T01:07:48.182492
 url: "/cdr-researcher-census/researchers/sebastiaan-godts-a5061388/"
 layout: "researcher"
 hiddenInHomeList: true

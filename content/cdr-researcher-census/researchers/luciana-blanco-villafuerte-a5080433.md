@@ -1,7 +1,7 @@
 ---
 title: "Luciana Blanco-Villafuerte"
 description: "Luciana Blanco-Villafuerte is a Mid-career General CDR researcher at Universidad Peruana Cayetano Heredia in PE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.337560
+date: 2026-07-10T01:07:47.420428
 url: "/cdr-researcher-census/researchers/luciana-blanco-villafuerte-a5080433/"
 layout: "researcher"
 hiddenInHomeList: true

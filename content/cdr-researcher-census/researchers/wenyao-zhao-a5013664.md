@@ -1,7 +1,7 @@
 ---
 title: "Wenyao Zhao"
 description: "Wenyao Zhao is a Mid-career Unknown researcher at Jiangsu University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.897800
+date: 2026-07-10T01:07:48.823485
 url: "/cdr-researcher-census/researchers/wenyao-zhao-a5013664/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tiina Paloniitty"
 description: "Tiina Paloniitty is a Senior General CDR researcher at University of Vaasa in FI. With 40 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.057739
+date: 2026-07-10T01:07:48.970501
 url: "/cdr-researcher-census/researchers/tiina-paloniitty-a5048763/"
 layout: "researcher"
 hiddenInHomeList: true

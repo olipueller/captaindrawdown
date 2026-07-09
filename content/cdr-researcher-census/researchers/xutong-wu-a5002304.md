@@ -1,7 +1,7 @@
 ---
 title: "Xutong Wu"
 description: "Xutong Wu is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 88 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.023806
+date: 2026-07-10T01:07:47.091403
 url: "/cdr-researcher-census/researchers/xutong-wu-a5002304/"
 layout: "researcher"
 hiddenInHomeList: true

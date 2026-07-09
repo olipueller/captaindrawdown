@@ -1,7 +1,7 @@
 ---
 title: "Jianjun Qin"
 description: "Jianjun Qin is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.177782
+date: 2026-07-10T01:07:48.194033
 url: "/cdr-researcher-census/researchers/jianjun-qin-a5077085/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuehan Zhao"
 description: "Xuehan Zhao is a Mid-career Soil Carbon researcher at Northeast Forestry University in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.327779
+date: 2026-07-10T01:07:48.328193
 url: "/cdr-researcher-census/researchers/xuehan-zhao-a5055225/"
 layout: "researcher"
 hiddenInHomeList: true

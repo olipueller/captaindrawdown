@@ -1,7 +1,7 @@
 ---
 title: "Reza Jahanshahi"
 description: "Reza Jahanshahi is a Senior Unknown researcher at University of Tehran in IR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.059049
+date: 2026-07-10T01:07:48.062873
 url: "/cdr-researcher-census/researchers/reza-jahanshahi-a5065178/"
 layout: "researcher"
 hiddenInHomeList: true

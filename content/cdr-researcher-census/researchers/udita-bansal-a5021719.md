@@ -1,7 +1,7 @@
 ---
 title: "Udita Bansal"
 description: "Udita Bansal is a Mid-career Unknown researcher at IIT (ISM) Dhanbad in IN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.577224
+date: 2026-07-10T01:07:47.640347
 url: "/cdr-researcher-census/researchers/udita-bansal-a5021719/"
 layout: "researcher"
 hiddenInHomeList: true

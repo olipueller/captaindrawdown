@@ -1,7 +1,7 @@
 ---
 title: "Subhajit Sen"
 description: "Subhajit Sen is a Mid-career Unknown researcher at Fortis Hospital in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.262794
+date: 2026-07-10T01:07:48.269872
 url: "/cdr-researcher-census/researchers/subhajit-sen-a5101604/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "T. Glauch"
 description: "T. Glauch is an Early-career Unknown researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.691256
+date: 2026-07-10T01:07:47.747276
 url: "/cdr-researcher-census/researchers/t-glauch-a5106487/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiangnan Hu"
 description: "Xiangnan Hu is a Mid-career Unknown researcher. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.778939
+date: 2026-07-10T01:07:48.722462
 url: "/cdr-researcher-census/researchers/xiangnan-hu-a5030716/"
 layout: "researcher"
 hiddenInHomeList: true

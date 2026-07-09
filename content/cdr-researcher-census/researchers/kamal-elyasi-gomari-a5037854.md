@@ -1,7 +1,7 @@
 ---
 title: "Kamal Elyasi Gomari"
 description: "Kamal Elyasi Gomari is a Mid-career Enhanced Weathering researcher at Teesside University in GB. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.731054
+date: 2026-07-10T01:07:48.679809
 url: "/cdr-researcher-census/researchers/kamal-elyasi-gomari-a5037854/"
 layout: "researcher"
 hiddenInHomeList: true

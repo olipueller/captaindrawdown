@@ -1,7 +1,7 @@
 ---
 title: "Subin Kalu"
 description: "Subin Kalu is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.610127
+date: 2026-07-10T01:07:47.671898
 url: "/cdr-researcher-census/researchers/subin-kalu-a5053800/"
 layout: "researcher"
 hiddenInHomeList: true

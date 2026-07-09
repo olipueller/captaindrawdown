@@ -1,7 +1,7 @@
 ---
 title: "Guoyu Xu"
 description: "Guoyu Xu is a Mid-career General CDR researcher at Ocean University of China in CN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.653670
+date: 2026-07-10T01:07:47.711268
 url: "/cdr-researcher-census/researchers/guoyu-xu-a5049815/"
 layout: "researcher"
 hiddenInHomeList: true

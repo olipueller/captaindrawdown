@@ -1,7 +1,7 @@
 ---
 title: "Shahid Bilal"
 description: "Shahid Bilal is a Mid-career Soil Carbon researcher at University of Sargodha in PK. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.391888
+date: 2026-07-10T01:07:48.384818
 url: "/cdr-researcher-census/researchers/shahid-bilal-a5104093/"
 layout: "researcher"
 hiddenInHomeList: true

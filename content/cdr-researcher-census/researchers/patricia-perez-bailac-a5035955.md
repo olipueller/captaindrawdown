@@ -1,7 +1,7 @@
 ---
 title: "Patricia Pérez-Bailac"
 description: "Patricia Pérez-Bailac is a Mid-career Unknown researcher at Instituto de Catálisis y Petroleoquímica in ES. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.163126
+date: 2026-07-10T01:07:49.054021
 url: "/cdr-researcher-census/researchers/patricia-perez-bailac-a5035955/"
 layout: "researcher"
 hiddenInHomeList: true

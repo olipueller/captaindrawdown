@@ -1,7 +1,7 @@
 ---
 title: "Sheau‐Yun Dora Chiang"
 description: "Sheau‐Yun Dora Chiang is a Senior Unknown researcher at Royal Society for the Prevention of Cruelty to Animals in GB. With 21 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.259296
+date: 2026-07-10T01:07:47.343407
 url: "/cdr-researcher-census/researchers/sheauyun-dora-chiang-a5005563/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vismaya Uday"
 description: "Vismaya Uday is an Early-career General CDR researcher at University of Petroleum and Energy Studies in IN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.040291
+date: 2026-07-10T01:07:48.954283
 url: "/cdr-researcher-census/researchers/vismaya-uday-a5067105/"
 layout: "researcher"
 hiddenInHomeList: true

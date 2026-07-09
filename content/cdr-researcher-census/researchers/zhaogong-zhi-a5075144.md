@@ -1,7 +1,7 @@
 ---
 title: "Zhaogong Zhi"
 description: "Zhaogong Zhi is a Mid-career Unknown researcher at University of Birmingham in GB. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.274156
+date: 2026-07-10T01:07:48.279760
 url: "/cdr-researcher-census/researchers/zhaogong-zhi-a5075144/"
 layout: "researcher"
 hiddenInHomeList: true

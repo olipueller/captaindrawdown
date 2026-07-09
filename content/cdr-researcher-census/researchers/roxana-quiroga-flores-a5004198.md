@@ -1,7 +1,7 @@
 ---
 title: "Roxana Quiroga-Flores"
 description: "Roxana Quiroga-Flores is a Mid-career Unknown researcher at Lund University in SE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.778405
+date: 2026-07-10T01:07:48.722080
 url: "/cdr-researcher-census/researchers/roxana-quiroga-flores-a5004198/"
 layout: "researcher"
 hiddenInHomeList: true

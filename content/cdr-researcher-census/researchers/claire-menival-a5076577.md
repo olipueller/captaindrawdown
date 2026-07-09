@@ -1,7 +1,7 @@
 ---
 title: "Claire Ménival"
 description: "Claire Ménival is an Early-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.608048
+date: 2026-07-10T01:07:48.570363
 url: "/cdr-researcher-census/researchers/claire-menival-a5076577/"
 layout: "researcher"
 hiddenInHomeList: true

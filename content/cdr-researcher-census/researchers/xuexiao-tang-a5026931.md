@@ -1,7 +1,7 @@
 ---
 title: "Xuexiao Tang"
 description: "Xuexiao Tang is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.239691
+date: 2026-07-10T01:07:49.148449
 url: "/cdr-researcher-census/researchers/xuexiao-tang-a5026931/"
 layout: "researcher"
 hiddenInHomeList: true

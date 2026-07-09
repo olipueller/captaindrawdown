@@ -1,7 +1,7 @@
 ---
 title: "Tom Breugelmans"
 description: "Tom Breugelmans is a Mid-career Unknown researcher at University of Antwerp in BE. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.105307
+date: 2026-07-10T01:07:48.131883
 url: "/cdr-researcher-census/researchers/tom-breugelmans-a5022488/"
 layout: "researcher"
 hiddenInHomeList: true

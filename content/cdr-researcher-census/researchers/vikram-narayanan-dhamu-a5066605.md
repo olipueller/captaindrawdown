@@ -1,7 +1,7 @@
 ---
 title: "Vikram Narayanan Dhamu"
 description: "Vikram Narayanan Dhamu is a Mid-career Soil Carbon researcher at The University of Texas at Dallas in US. With 72 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.472102
+date: 2026-07-10T01:07:47.544570
 url: "/cdr-researcher-census/researchers/vikram-narayanan-dhamu-a5066605/"
 layout: "researcher"
 hiddenInHomeList: true

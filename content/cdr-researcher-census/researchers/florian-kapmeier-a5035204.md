@@ -1,7 +1,7 @@
 ---
 title: "Florian Kapmeier"
 description: "Florian Kapmeier is a Senior General CDR researcher at Reutlingen University in DE. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.789091
+date: 2026-07-10T01:07:47.838015
 url: "/cdr-researcher-census/researchers/florian-kapmeier-a5035204/"
 layout: "researcher"
 hiddenInHomeList: true

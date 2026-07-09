@@ -1,7 +1,7 @@
 ---
 title: "Huma Balouch"
 description: "Huma Balouch is a Mid-career Unknown researcher at Commission on Science and Technology for Sustainable Development in the South in PK. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.159872
+date: 2026-07-10T01:07:48.178264
 url: "/cdr-researcher-census/researchers/huma-balouch-a5052501/"
 layout: "researcher"
 hiddenInHomeList: true

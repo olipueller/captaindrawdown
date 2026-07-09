@@ -1,7 +1,7 @@
 ---
 title: "Christine M. Gabardo"
 description: "Christine M. Gabardo is a Senior General CDR researcher at CERT Systems Inc. in CA. With 76 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.896077
+date: 2026-07-10T01:07:46.878065
 url: "/cdr-researcher-census/researchers/christine-m-gabardo-a5004030/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhuoting Li"
 description: "Zhuoting Li is a Senior Soil Carbon researcher at Guangxi Academy of Agricultural Science in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.063140
+date: 2026-07-10T01:07:48.066209
 url: "/cdr-researcher-census/researchers/zhuoting-li-a5048298/"
 layout: "researcher"
 hiddenInHomeList: true

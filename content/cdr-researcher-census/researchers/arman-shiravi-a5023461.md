@@ -1,7 +1,7 @@
 ---
 title: "Arman Shiravi"
 description: "Arman Shiravi is a Mid-career Unknown researcher at Amirkabir University of Technology in IR. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.978820
+date: 2026-07-10T01:07:48.898918
 url: "/cdr-researcher-census/researchers/arman-shiravi-a5023461/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Biao Sui"
 description: "Biao Sui is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.612327
+date: 2026-07-10T01:07:47.673753
 url: "/cdr-researcher-census/researchers/biao-sui-a5046541/"
 layout: "researcher"
 hiddenInHomeList: true

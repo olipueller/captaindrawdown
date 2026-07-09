@@ -1,7 +1,7 @@
 ---
 title: "Elias Moubarak"
 description: "Elias Moubarak is a Mid-career DAC researcher at École Polytechnique Fédérale de Lausanne in CH. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.502006
+date: 2026-07-10T01:07:47.571485
 url: "/cdr-researcher-census/researchers/elias-moubarak-a5087448/"
 layout: "researcher"
 hiddenInHomeList: true

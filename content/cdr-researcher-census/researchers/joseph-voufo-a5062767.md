@@ -1,7 +1,7 @@
 ---
 title: "Joseph Voufo"
 description: "Joseph Voufo is a Senior General CDR researcher at Université de Yaoundé I in CM. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.350160
+date: 2026-07-10T01:07:48.348562
 url: "/cdr-researcher-census/researchers/joseph-voufo-a5062767/"
 layout: "researcher"
 hiddenInHomeList: true

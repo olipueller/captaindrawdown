@@ -1,7 +1,7 @@
 ---
 title: "Bicheng Lin"
 description: "Bicheng Lin is a Mid-career Unknown researcher at University of Science and Technology of China in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.797767
+date: 2026-07-10T01:07:47.845696
 url: "/cdr-researcher-census/researchers/bicheng-lin-a5101323/"
 layout: "researcher"
 hiddenInHomeList: true

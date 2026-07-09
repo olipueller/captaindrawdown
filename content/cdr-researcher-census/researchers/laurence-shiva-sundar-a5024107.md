@@ -1,7 +1,7 @@
 ---
 title: "Laurence Shiva Sundar"
 description: "Laurence Shiva Sundar is a Mid-career Unknown researcher at Fiji National University in FJ. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.990684
+date: 2026-07-10T01:07:48.909526
 url: "/cdr-researcher-census/researchers/laurence-shiva-sundar-a5024107/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Peiran Liu"
 description: "Peiran Liu is a Mid-career Unknown researcher. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.346719
+date: 2026-07-10T01:07:47.429437
 url: "/cdr-researcher-census/researchers/peiran-liu-a5103189/"
 layout: "researcher"
 hiddenInHomeList: true

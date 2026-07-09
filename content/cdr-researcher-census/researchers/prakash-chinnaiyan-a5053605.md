@@ -1,7 +1,7 @@
 ---
 title: "Prakash Chinnaiyan"
 description: "Prakash Chinnaiyan is a Mid-career Biochar researcher at Amrita Vishwa Vidyapeetham in IN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.746202
+date: 2026-07-10T01:07:47.798141
 url: "/cdr-researcher-census/researchers/prakash-chinnaiyan-a5053605/"
 layout: "researcher"
 hiddenInHomeList: true

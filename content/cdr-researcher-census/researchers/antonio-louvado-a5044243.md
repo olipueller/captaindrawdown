@@ -1,7 +1,7 @@
 ---
 title: "António Louvado"
 description: "António Louvado is a Mid-career Ocean CDR researcher at University of Aveiro in PT. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.702104
+date: 2026-07-10T01:07:47.756872
 url: "/cdr-researcher-census/researchers/antonio-louvado-a5044243/"
 layout: "researcher"
 hiddenInHomeList: true

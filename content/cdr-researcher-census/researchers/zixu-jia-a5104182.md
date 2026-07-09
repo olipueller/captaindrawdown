@@ -1,7 +1,7 @@
 ---
 title: "Zixu Jia"
 description: "Zixu Jia is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.601335
+date: 2026-07-10T01:07:48.564551
 url: "/cdr-researcher-census/researchers/zixu-jia-a5104182/"
 layout: "researcher"
 hiddenInHomeList: true

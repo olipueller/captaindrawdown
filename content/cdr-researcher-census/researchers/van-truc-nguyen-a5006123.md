@@ -1,7 +1,7 @@
 ---
 title: "Van-Truc Nguyen"
 description: "Van-Truc Nguyen is a Senior Biochar researcher at Saigon Technology University in VN. With 50 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.108327
+date: 2026-07-10T01:07:47.193606
 url: "/cdr-researcher-census/researchers/van-truc-nguyen-a5006123/"
 layout: "researcher"
 hiddenInHomeList: true

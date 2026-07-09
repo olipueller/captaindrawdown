@@ -1,7 +1,7 @@
 ---
 title: "Stephen Okoth Aluoch"
 description: "Stephen Okoth Aluoch is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.260028
+date: 2026-07-10T01:07:49.166641
 url: "/cdr-researcher-census/researchers/stephen-okoth-aluoch-a5010269/"
 layout: "researcher"
 hiddenInHomeList: true

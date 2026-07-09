@@ -1,7 +1,7 @@
 ---
 title: "Morgan L. Thomas"
 description: "Morgan L. Thomas is a Mid-career Unknown researcher at Bucknell University in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.358785
+date: 2026-07-10T01:07:48.357195
 url: "/cdr-researcher-census/researchers/morgan-l-thomas-a5103241/"
 layout: "researcher"
 hiddenInHomeList: true

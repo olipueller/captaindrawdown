@@ -1,7 +1,7 @@
 ---
 title: "D. R. Palsaniya"
 description: "D. R. Palsaniya is a Mid-career Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 52 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.033145
+date: 2026-07-10T01:07:48.039847
 url: "/cdr-researcher-census/researchers/d-r-palsaniya-a5036835/"
 layout: "researcher"
 hiddenInHomeList: true

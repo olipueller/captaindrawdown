@@ -1,7 +1,7 @@
 ---
 title: "Beijing Fang"
 description: "Beijing Fang is a Mid-career Unknown researcher at Helmholtz Centre for Environmental Research in DE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.811083
+date: 2026-07-10T01:07:47.857585
 url: "/cdr-researcher-census/researchers/beijing-fang-a5087600/"
 layout: "researcher"
 hiddenInHomeList: true

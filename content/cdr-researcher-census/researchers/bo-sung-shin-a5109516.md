@@ -1,7 +1,7 @@
 ---
 title: "Bo-Sung Shin"
 description: "Bo-Sung Shin is a Senior Unknown researcher at Pusan National University in KR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.674834
+date: 2026-07-10T01:07:48.630540
 url: "/cdr-researcher-census/researchers/bo-sung-shin-a5109516/"
 layout: "researcher"
 hiddenInHomeList: true

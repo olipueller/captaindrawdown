@@ -1,7 +1,7 @@
 ---
 title: "Braden Crowe"
 description: "Braden Crowe is a Mid-career Ocean CDR researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.431210
+date: 2026-07-10T01:07:47.508933
 url: "/cdr-researcher-census/researchers/braden-crowe-a5069310/"
 layout: "researcher"
 hiddenInHomeList: true

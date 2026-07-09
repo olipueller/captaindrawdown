@@ -1,7 +1,7 @@
 ---
 title: "Gayatri Shirodkar"
 description: "Gayatri Shirodkar is a Mid-career Unknown researcher at National Institute of Oceanography in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.624573
+date: 2026-07-10T01:07:48.585192
 url: "/cdr-researcher-census/researchers/gayatri-shirodkar-a5073852/"
 layout: "researcher"
 hiddenInHomeList: true

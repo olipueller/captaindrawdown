@@ -1,7 +1,7 @@
 ---
 title: "Scott Wilde"
 description: "Scott Wilde is a Senior Unknown researcher at Texas A&M University in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.602339
+date: 2026-07-10T01:07:48.565555
 url: "/cdr-researcher-census/researchers/scott-wilde-a5022878/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Arthur Gohole"
 description: "Arthur Gohole is a Mid-career Unknown researcher at Kenya Medical Research Institute in KE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.263390
+date: 2026-07-10T01:07:48.270373
 url: "/cdr-researcher-census/researchers/arthur-gohole-a5017882/"
 layout: "researcher"
 hiddenInHomeList: true

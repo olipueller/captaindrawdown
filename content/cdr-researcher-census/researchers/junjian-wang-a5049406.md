@@ -1,7 +1,7 @@
 ---
 title: "Junjian Wang"
 description: "Junjian Wang is an Eminent Soil Carbon researcher at Southern University of Science and Technology in CN. With 202 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.945214
+date: 2026-07-10T01:07:46.975262
 url: "/cdr-researcher-census/researchers/junjian-wang-a5049406/"
 layout: "researcher"
 hiddenInHomeList: true

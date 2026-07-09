@@ -1,7 +1,7 @@
 ---
 title: "Qusai Soud"
 description: "Qusai Soud is a Mid-career Unknown researcher at Binghamton University in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.913669
+date: 2026-07-10T01:07:48.838240
 url: "/cdr-researcher-census/researchers/qusai-soud-a5092458/"
 layout: "researcher"
 hiddenInHomeList: true

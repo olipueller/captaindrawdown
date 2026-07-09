@@ -1,7 +1,7 @@
 ---
 title: "Elisa Romanelli"
 description: "Elisa Romanelli is a Mid-career Ocean CDR researcher at ETH Zurich in CH. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.967517
+date: 2026-07-10T01:07:48.888064
 url: "/cdr-researcher-census/researchers/elisa-romanelli-a5007785/"
 layout: "researcher"
 hiddenInHomeList: true

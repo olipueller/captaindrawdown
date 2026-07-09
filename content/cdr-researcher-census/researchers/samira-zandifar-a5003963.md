@@ -1,7 +1,7 @@
 ---
 title: "Samira Zandifar"
 description: "Samira Zandifar is a Mid-career Unknown researcher at Agricultural Research & Education Organization in IR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.217979
+date: 2026-07-10T01:07:49.129038
 url: "/cdr-researcher-census/researchers/samira-zandifar-a5003963/"
 layout: "researcher"
 hiddenInHomeList: true

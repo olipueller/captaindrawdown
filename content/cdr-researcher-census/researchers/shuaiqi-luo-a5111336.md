@@ -1,7 +1,7 @@
 ---
 title: "Shuaiqi Luo"
 description: "Shuaiqi Luo is a Mid-career Biochar researcher at Guangdong University of Technology in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.774074
+date: 2026-07-10T01:07:48.718001
 url: "/cdr-researcher-census/researchers/shuaiqi-luo-a5111336/"
 layout: "researcher"
 hiddenInHomeList: true

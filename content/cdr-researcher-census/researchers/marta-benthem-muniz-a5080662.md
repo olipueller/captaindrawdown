@@ -1,7 +1,7 @@
 ---
 title: "Marta Benthem Muñiz"
 description: "Marta Benthem Muñiz is a Mid-career Unknown researcher at SINTEF in NO. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.074504
+date: 2026-07-10T01:07:48.985586
 url: "/cdr-researcher-census/researchers/marta-benthem-muniz-a5080662/"
 layout: "researcher"
 hiddenInHomeList: true

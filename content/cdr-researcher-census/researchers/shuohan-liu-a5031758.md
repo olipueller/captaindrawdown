@@ -1,7 +1,7 @@
 ---
 title: "Shuohan Liu"
 description: "Shuohan Liu is a Mid-career General CDR researcher at Qilu University of Technology in CN. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.374723
+date: 2026-07-10T01:07:47.456935
 url: "/cdr-researcher-census/researchers/shuohan-liu-a5031758/"
 layout: "researcher"
 hiddenInHomeList: true

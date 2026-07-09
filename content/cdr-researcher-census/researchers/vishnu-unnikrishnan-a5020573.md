@@ -1,7 +1,7 @@
 ---
 title: "Vishnu Unnikrishnan"
 description: "Vishnu Unnikrishnan is a Mid-career Unknown researcher at Centre National de la Recherche Scientifique in FR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.436916
+date: 2026-07-10T01:07:48.426949
 url: "/cdr-researcher-census/researchers/vishnu-unnikrishnan-a5020573/"
 layout: "researcher"
 hiddenInHomeList: true

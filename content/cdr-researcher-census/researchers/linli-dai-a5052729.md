@@ -1,7 +1,7 @@
 ---
 title: "Linli Dai"
 description: "Linli Dai is a Senior Biochar researcher at East China University of Science and Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.205224
+date: 2026-07-10T01:07:48.218521
 url: "/cdr-researcher-census/researchers/linli-dai-a5052729/"
 layout: "researcher"
 hiddenInHomeList: true

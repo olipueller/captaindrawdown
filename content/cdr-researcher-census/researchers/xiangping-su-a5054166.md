@@ -1,7 +1,7 @@
 ---
 title: "Xiangping Su"
 description: "Xiangping Su is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.094737
+date: 2026-07-10T01:07:48.094508
 url: "/cdr-researcher-census/researchers/xiangping-su-a5054166/"
 layout: "researcher"
 hiddenInHomeList: true

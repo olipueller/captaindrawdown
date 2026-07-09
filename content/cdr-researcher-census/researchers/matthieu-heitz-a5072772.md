@@ -1,7 +1,7 @@
 ---
 title: "Matthieu Heitz"
 description: "Matthieu Heitz is a Mid-career General CDR researcher at University of British Columbia in CA. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.435268
+date: 2026-07-10T01:07:48.425457
 url: "/cdr-researcher-census/researchers/matthieu-heitz-a5072772/"
 layout: "researcher"
 hiddenInHomeList: true

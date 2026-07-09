@@ -1,7 +1,7 @@
 ---
 title: "Santhosh R. Gundlapally"
 description: "Santhosh R. Gundlapally is a Senior Unknown researcher at Westmont College in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.744570
+date: 2026-07-10T01:07:48.691321
 url: "/cdr-researcher-census/researchers/santhosh-r-gundlapally-a5000064/"
 layout: "researcher"
 hiddenInHomeList: true

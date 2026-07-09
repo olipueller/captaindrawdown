@@ -1,7 +1,7 @@
 ---
 title: "Ryutaro Honda"
 description: "Ryutaro Honda is a Mid-career Unknown researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.113652
+date: 2026-07-10T01:07:49.020167
 url: "/cdr-researcher-census/researchers/ryutaro-honda-a5080963/"
 layout: "researcher"
 hiddenInHomeList: true

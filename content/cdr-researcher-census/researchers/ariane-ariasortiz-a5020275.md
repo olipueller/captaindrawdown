@@ -1,7 +1,7 @@
 ---
 title: "Ariane Arias‐Ortiz"
 description: "Ariane Arias‐Ortiz is a Senior Soil Carbon researcher at Universitat Autònoma de Barcelona in ES. With 70 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.968843
+date: 2026-07-10T01:07:47.011932
 url: "/cdr-researcher-census/researchers/ariane-ariasortiz-a5020275/"
 layout: "researcher"
 hiddenInHomeList: true

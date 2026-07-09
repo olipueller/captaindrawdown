@@ -1,7 +1,7 @@
 ---
 title: "Pavel Krystyník"
 description: "Pavel Krystyník is a Mid-career Unknown researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.092071
+date: 2026-07-10T01:07:48.092039
 url: "/cdr-researcher-census/researchers/pavel-krystynik-a5063701/"
 layout: "researcher"
 hiddenInHomeList: true

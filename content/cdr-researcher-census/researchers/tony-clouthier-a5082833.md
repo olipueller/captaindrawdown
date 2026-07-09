@@ -1,7 +1,7 @@
 ---
 title: "Tony Clouthier"
 description: "Tony Clouthier is a Mid-career Unknown researcher at Canadian Nuclear Laboratories in CA. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.175298
+date: 2026-07-10T01:07:49.064865
 url: "/cdr-researcher-census/researchers/tony-clouthier-a5082833/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Miao Shi"
 description: "Miao Shi is a Mid-career General CDR researcher at Anhui University of Science and Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.086533
+date: 2026-07-10T01:07:48.087412
 url: "/cdr-researcher-census/researchers/miao-shi-a5102013/"
 layout: "researcher"
 hiddenInHomeList: true

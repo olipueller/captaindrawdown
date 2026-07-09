@@ -1,7 +1,7 @@
 ---
 title: "Maja Poznanović Spahić"
 description: "Maja Poznanović Spahić is a Mid-career Unknown researcher at University of Belgrade in RS. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.380561
+date: 2026-07-10T01:07:48.376633
 url: "/cdr-researcher-census/researchers/maja-poznanovic-spahic-a5022727/"
 layout: "researcher"
 hiddenInHomeList: true

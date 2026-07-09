@@ -1,7 +1,7 @@
 ---
 title: "Gustavo Aedo"
 description: "Gustavo Aedo is a Senior Unknown researcher at Patagonian Ecosystems Investigation Research Center in CL. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.210894
+date: 2026-07-10T01:07:49.123088
 url: "/cdr-researcher-census/researchers/gustavo-aedo-a5032657/"
 layout: "researcher"
 hiddenInHomeList: true

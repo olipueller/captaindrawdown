@@ -1,7 +1,7 @@
 ---
 title: "He Guoyu"
 description: "He Guoyu is a Senior Soil Carbon researcher at Peking University in CN. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.924211
+date: 2026-07-10T01:07:48.847770
 url: "/cdr-researcher-census/researchers/he-guoyu-a5101831/"
 layout: "researcher"
 hiddenInHomeList: true

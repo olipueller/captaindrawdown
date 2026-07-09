@@ -1,7 +1,7 @@
 ---
 title: "Jinwei Guo"
 description: "Jinwei Guo is a Mid-career Soil Carbon researcher at Changzhi Medical College in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.119682
+date: 2026-07-10T01:07:49.025456
 url: "/cdr-researcher-census/researchers/jinwei-guo-a5017487/"
 layout: "researcher"
 hiddenInHomeList: true

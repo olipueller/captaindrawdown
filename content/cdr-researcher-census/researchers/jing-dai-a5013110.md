@@ -1,7 +1,7 @@
 ---
 title: "Jing Dai"
 description: "Jing Dai is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.640532
+date: 2026-07-10T01:07:47.699764
 url: "/cdr-researcher-census/researchers/jing-dai-a5013110/"
 layout: "researcher"
 hiddenInHomeList: true

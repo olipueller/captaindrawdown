@@ -1,7 +1,7 @@
 ---
 title: "Ghulam Yasin"
 description: "Ghulam Yasin is a Senior Soil Carbon researcher at University of Sargodha in PK. With 106 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.071039
+date: 2026-07-10T01:07:47.149944
 url: "/cdr-researcher-census/researchers/ghulam-yasin-a5065692/"
 layout: "researcher"
 hiddenInHomeList: true

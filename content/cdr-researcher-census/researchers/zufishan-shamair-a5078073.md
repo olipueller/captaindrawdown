@@ -1,7 +1,7 @@
 ---
 title: "Zufishan Shamair"
 description: "Zufishan Shamair is a Mid-career Unknown researcher at Teesside University in GB. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.282546
+date: 2026-07-10T01:07:47.364759
 url: "/cdr-researcher-census/researchers/zufishan-shamair-a5078073/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xavier Dupla"
 description: "Xavier Dupla is a Mid-career Enhanced Weathering researcher at Planetary Science Institute in US. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.244082
+date: 2026-07-10T01:07:48.252723
 url: "/cdr-researcher-census/researchers/xavier-dupla-a5010537/"
 layout: "researcher"
 hiddenInHomeList: true

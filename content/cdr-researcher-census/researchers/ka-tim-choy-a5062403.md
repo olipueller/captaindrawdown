@@ -1,7 +1,7 @@
 ---
 title: "Ka-Tim Choy"
 description: "Ka-Tim Choy is a Senior Unknown researcher at University of Hong Kong in HK. With 20 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.994573
+date: 2026-07-10T01:07:47.052501
 url: "/cdr-researcher-census/researchers/ka-tim-choy-a5062403/"
 layout: "researcher"
 hiddenInHomeList: true

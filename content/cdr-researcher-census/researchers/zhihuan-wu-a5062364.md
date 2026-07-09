@@ -1,7 +1,7 @@
 ---
 title: "Zhihuan Wu"
 description: "Zhihuan Wu is a Mid-career Biochar researcher at Northeast Agricultural University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.787271
+date: 2026-07-10T01:07:47.836097
 url: "/cdr-researcher-census/researchers/zhihuan-wu-a5062364/"
 layout: "researcher"
 hiddenInHomeList: true

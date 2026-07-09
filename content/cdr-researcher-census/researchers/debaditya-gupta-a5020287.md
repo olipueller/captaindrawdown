@@ -1,7 +1,7 @@
 ---
 title: "Debaditya Gupta"
 description: "Debaditya Gupta is a Mid-career Biochar researcher at Indian Institute of Technology Guwahati in IN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.971958
+date: 2026-07-10T01:07:47.982183
 url: "/cdr-researcher-census/researchers/debaditya-gupta-a5020287/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Aram Kalhori"
 description: "Aram Kalhori is a Mid-career General CDR researcher at GFZ Helmholtz Centre for Geosciences in DE. With 70 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.161307
+date: 2026-07-10T01:07:47.250405
 url: "/cdr-researcher-census/researchers/aram-kalhori-a5051369/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Francisco Ruíz"
 description: "Francisco Ruíz is a Senior Soil Carbon researcher at ESALQ - University of São Paulo in BR. With 95 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.192860
+date: 2026-07-10T01:07:47.282039
 url: "/cdr-researcher-census/researchers/francisco-ruiz-a5086701/"
 layout: "researcher"
 hiddenInHomeList: true

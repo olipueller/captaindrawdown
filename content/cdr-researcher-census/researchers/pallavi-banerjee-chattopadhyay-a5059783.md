@@ -1,7 +1,7 @@
 ---
 title: "Pallavi Banerjee Chattopadhyay"
 description: "Pallavi Banerjee Chattopadhyay is a Mid-career Unknown researcher at Indian Institute of Technology Roorkee in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.799236
+date: 2026-07-10T01:07:48.738289
 url: "/cdr-researcher-census/researchers/pallavi-banerjee-chattopadhyay-a5059783/"
 layout: "researcher"
 hiddenInHomeList: true

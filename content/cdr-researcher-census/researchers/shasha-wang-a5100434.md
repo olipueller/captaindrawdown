@@ -1,7 +1,7 @@
 ---
 title: "Shasha Wang"
 description: "Shasha Wang is a Mid-career Soil Carbon researcher at Fujian Academy of Agricultural Sciences in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.126789
+date: 2026-07-10T01:07:48.150315
 url: "/cdr-researcher-census/researchers/shasha-wang-a5100434/"
 layout: "researcher"
 hiddenInHomeList: true

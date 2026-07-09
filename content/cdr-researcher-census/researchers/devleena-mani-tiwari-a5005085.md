@@ -1,7 +1,7 @@
 ---
 title: "Devleena Mani Tiwari"
 description: "Devleena Mani Tiwari is a Mid-career Unknown researcher at University of Hyderabad in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.985163
+date: 2026-07-10T01:07:48.904680
 url: "/cdr-researcher-census/researchers/devleena-mani-tiwari-a5005085/"
 layout: "researcher"
 hiddenInHomeList: true

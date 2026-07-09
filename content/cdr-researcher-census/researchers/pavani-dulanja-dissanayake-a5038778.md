@@ -1,7 +1,7 @@
 ---
 title: "Pavani Dulanja Dissanayake"
 description: "Pavani Dulanja Dissanayake is a Senior Biochar researcher at University of Peradeniya in LK. With 38 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.958076
+date: 2026-07-10T01:07:46.995071
 url: "/cdr-researcher-census/researchers/pavani-dulanja-dissanayake-a5038778/"
 layout: "researcher"
 hiddenInHomeList: true

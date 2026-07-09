@@ -1,7 +1,7 @@
 ---
 title: "D. Saravanan"
 description: "D. Saravanan is a Senior Biochar researcher at National College in IN. With 56 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.224729
+date: 2026-07-10T01:07:47.311724
 url: "/cdr-researcher-census/researchers/d-saravanan-a5101626/"
 layout: "researcher"
 hiddenInHomeList: true

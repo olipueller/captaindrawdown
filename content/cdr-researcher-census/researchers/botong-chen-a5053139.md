@@ -1,7 +1,7 @@
 ---
 title: "Botong Chen"
 description: "Botong Chen is a Mid-career Unknown researcher at Qingdao University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.115613
+date: 2026-07-10T01:07:49.021743
 url: "/cdr-researcher-census/researchers/botong-chen-a5053139/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cihao Wang"
 description: "Cihao Wang is a Mid-career Unknown researcher at Donghua University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.254847
+date: 2026-07-10T01:07:48.262956
 url: "/cdr-researcher-census/researchers/cihao-wang-a5000127/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Venkata Ramana Kasi"
 description: "Venkata Ramana Kasi is a Mid-career Unknown researcher at Vellore Institute of Technology University in IN. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.768463
+date: 2026-07-10T01:07:48.712657
 url: "/cdr-researcher-census/researchers/venkata-ramana-kasi-a5087353/"
 layout: "researcher"
 hiddenInHomeList: true

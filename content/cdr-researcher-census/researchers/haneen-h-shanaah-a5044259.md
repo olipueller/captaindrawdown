@@ -1,7 +1,7 @@
 ---
 title: "Haneen H. Shanaah"
 description: "Haneen H. Shanaah is a Mid-career Unknown researcher at University of Bahrain in BH. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.528279
+date: 2026-07-10T01:07:48.511080
 url: "/cdr-researcher-census/researchers/haneen-h-shanaah-a5044259/"
 layout: "researcher"
 hiddenInHomeList: true

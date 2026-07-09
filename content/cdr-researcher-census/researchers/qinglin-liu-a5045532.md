@@ -1,7 +1,7 @@
 ---
 title: "Qinglin Liu"
 description: "Qinglin Liu is a Mid-career Soil Carbon researcher at Tianjin University of Science and Technology in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.997425
+date: 2026-07-10T01:07:48.915548
 url: "/cdr-researcher-census/researchers/qinglin-liu-a5045532/"
 layout: "researcher"
 hiddenInHomeList: true

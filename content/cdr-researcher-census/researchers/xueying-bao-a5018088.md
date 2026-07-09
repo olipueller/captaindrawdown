@@ -1,7 +1,7 @@
 ---
 title: "Xueying Bao"
 description: "Xueying Bao is a Senior Unknown researcher at Lanzhou Jiaotong University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.109555
+date: 2026-07-10T01:07:49.016707
 url: "/cdr-researcher-census/researchers/xueying-bao-a5018088/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Slobodan Trifunović"
 description: "Slobodan Trifunović is a Senior Soil Carbon researcher at Bayer (United States) in US. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.990407
+date: 2026-07-10T01:07:47.999238
 url: "/cdr-researcher-census/researchers/slobodan-trifunovic-a5054783/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sukaran S. Arora"
 description: "Sukaran S. Arora is a Mid-career General CDR researcher at Dow Chemical (United States) in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.738795
+date: 2026-07-10T01:07:47.791123
 url: "/cdr-researcher-census/researchers/sukaran-s-arora-a5069023/"
 layout: "researcher"
 hiddenInHomeList: true

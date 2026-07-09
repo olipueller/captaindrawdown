@@ -1,7 +1,7 @@
 ---
 title: "Ahmed M. Abodif"
 description: "Ahmed M. Abodif is a Mid-career Unknown researcher at Higher Institute of Engineering in EG. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.855365
+date: 2026-07-10T01:07:48.785967
 url: "/cdr-researcher-census/researchers/ahmed-m-abodif-a5025842/"
 layout: "researcher"
 hiddenInHomeList: true

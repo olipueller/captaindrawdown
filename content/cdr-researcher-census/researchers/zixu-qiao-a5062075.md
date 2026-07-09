@@ -1,7 +1,7 @@
 ---
 title: "Zixu Qiao"
 description: "Zixu Qiao is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.986977
+date: 2026-07-10T01:07:48.906313
 url: "/cdr-researcher-census/researchers/zixu-qiao-a5062075/"
 layout: "researcher"
 hiddenInHomeList: true

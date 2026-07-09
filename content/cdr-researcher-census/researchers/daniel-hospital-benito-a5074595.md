@@ -1,7 +1,7 @@
 ---
 title: "Daniel Hospital-Benito"
 description: "Daniel Hospital-Benito is a Mid-career General CDR researcher at Universidad Autonoma de Madrid Facultad de Ciencias in ES. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.170457
+date: 2026-07-10T01:07:48.187024
 url: "/cdr-researcher-census/researchers/daniel-hospital-benito-a5074595/"
 layout: "researcher"
 hiddenInHomeList: true

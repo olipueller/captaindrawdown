@@ -1,7 +1,7 @@
 ---
 title: "Adedapo O. Adeola"
 description: "Adedapo O. Adeola is a Senior Biochar researcher at York University in CA. With 70 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.047346
+date: 2026-07-10T01:07:47.121381
 url: "/cdr-researcher-census/researchers/adedapo-o-adeola-a5009954/"
 layout: "researcher"
 hiddenInHomeList: true

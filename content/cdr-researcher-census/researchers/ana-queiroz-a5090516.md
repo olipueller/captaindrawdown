@@ -1,7 +1,7 @@
 ---
 title: "Ana Queiroz"
 description: "Ana Queiroz is a Senior Unknown researcher at Instituto Politécnico de Bragança in PT. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.924650
+date: 2026-07-10T01:07:47.938178
 url: "/cdr-researcher-census/researchers/ana-queiroz-a5090516/"
 layout: "researcher"
 hiddenInHomeList: true

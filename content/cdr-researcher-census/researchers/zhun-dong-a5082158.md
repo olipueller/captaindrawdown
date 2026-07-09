@@ -1,7 +1,7 @@
 ---
 title: "Zhun Dong"
 description: "Zhun Dong is a Mid-career Unknown researcher. With 27 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.498555
+date: 2026-07-10T01:07:47.568273
 url: "/cdr-researcher-census/researchers/zhun-dong-a5082158/"
 layout: "researcher"
 hiddenInHomeList: true

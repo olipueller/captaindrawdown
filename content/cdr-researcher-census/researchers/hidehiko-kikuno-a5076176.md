@@ -1,7 +1,7 @@
 ---
 title: "Hidehiko Kikuno"
 description: "Hidehiko Kikuno is a Senior Enhanced Weathering researcher at Tokyo University of Agriculture in JP. With 54 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.895815
+date: 2026-07-10T01:07:47.910870
 url: "/cdr-researcher-census/researchers/hidehiko-kikuno-a5076176/"
 layout: "researcher"
 hiddenInHomeList: true

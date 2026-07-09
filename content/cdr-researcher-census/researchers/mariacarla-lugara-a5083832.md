@@ -1,7 +1,7 @@
 ---
 title: "Mariacarla Lugarà"
 description: "Mariacarla Lugarà is a Mid-career Unknown researcher at University of Reggio Calabria in IT. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.913821
+date: 2026-07-10T01:07:48.838377
 url: "/cdr-researcher-census/researchers/mariacarla-lugara-a5083832/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuyan Xie"
 description: "Yuyan Xie is a Mid-career Biochar researcher at Harbin Medical University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.177668
+date: 2026-07-10T01:07:48.193921
 url: "/cdr-researcher-census/researchers/yuyan-xie-a5029053/"
 layout: "researcher"
 hiddenInHomeList: true

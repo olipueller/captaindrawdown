@@ -1,7 +1,7 @@
 ---
 title: "Rongsheng Xu"
 description: "Rongsheng Xu is an Early-career Biochar researcher at State Ethnic Affairs Commission in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.017923
+date: 2026-07-10T01:07:48.934055
 url: "/cdr-researcher-census/researchers/rongsheng-xu-a5049674/"
 layout: "researcher"
 hiddenInHomeList: true

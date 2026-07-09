@@ -1,7 +1,7 @@
 ---
 title: "Hiral Jariwala"
 description: "Hiral Jariwala is an Early-career Soil Carbon researcher at University of Guelph in CA. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.215006
+date: 2026-07-10T01:07:48.227075
 url: "/cdr-researcher-census/researchers/hiral-jariwala-a5035746/"
 layout: "researcher"
 hiddenInHomeList: true

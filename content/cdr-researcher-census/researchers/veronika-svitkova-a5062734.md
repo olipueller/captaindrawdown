@@ -1,7 +1,7 @@
 ---
 title: "Veronika Svitková"
 description: "Veronika Svitková is a Mid-career General CDR researcher at Slovak University of Technology in Bratislava in SK. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.946736
+date: 2026-07-10T01:07:47.958649
 url: "/cdr-researcher-census/researchers/veronika-svitkova-a5062734/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chuyin Shao"
 description: "Chuyin Shao is an Early-career Unknown researcher at South China University of Technology in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.211625
+date: 2026-07-10T01:07:49.123611
 url: "/cdr-researcher-census/researchers/chuyin-shao-a5108976/"
 layout: "researcher"
 hiddenInHomeList: true

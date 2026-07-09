@@ -1,7 +1,7 @@
 ---
 title: "Upoma Mahmud"
 description: "Upoma Mahmud is a Mid-career Unknown researcher at University of Agriculture in Krakow in PL. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.188918
+date: 2026-07-10T01:07:49.102986
 url: "/cdr-researcher-census/researchers/upoma-mahmud-a5084705/"
 layout: "researcher"
 hiddenInHomeList: true

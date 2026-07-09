@@ -1,7 +1,7 @@
 ---
 title: "Arijit Mondal"
 description: "Arijit Mondal is an Early-career Biochar researcher at Indian Institute of Science Education and Research Kolkata in IN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.109209
+date: 2026-07-10T01:07:48.134854
 url: "/cdr-researcher-census/researchers/arijit-mondal-a5022406/"
 layout: "researcher"
 hiddenInHomeList: true

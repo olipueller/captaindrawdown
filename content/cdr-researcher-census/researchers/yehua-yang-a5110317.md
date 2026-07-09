@@ -1,7 +1,7 @@
 ---
 title: "Yehua Yang"
 description: "Yehua Yang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.314854
+date: 2026-07-10T01:07:48.316808
 url: "/cdr-researcher-census/researchers/yehua-yang-a5110317/"
 layout: "researcher"
 hiddenInHomeList: true

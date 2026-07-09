@@ -1,7 +1,7 @@
 ---
 title: "Sara Khan"
 description: "Sara Khan is a Mid-career General CDR researcher at Western University in CA. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.468064
+date: 2026-07-10T01:07:48.455972
 url: "/cdr-researcher-census/researchers/sara-khan-a5016956/"
 layout: "researcher"
 hiddenInHomeList: true

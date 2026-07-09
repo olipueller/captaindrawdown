@@ -1,7 +1,7 @@
 ---
 title: "Ana Cristina De la Parra-Guerra"
 description: "Ana Cristina De la Parra-Guerra is a Mid-career Soil Carbon researcher at University of Atlántico in CO. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.632243
+date: 2026-07-10T01:07:48.591769
 url: "/cdr-researcher-census/researchers/ana-cristina-de-la-parra-guerra-a5101777/"
 layout: "researcher"
 hiddenInHomeList: true

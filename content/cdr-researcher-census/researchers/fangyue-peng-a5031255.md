@@ -1,7 +1,7 @@
 ---
 title: "Fangyue Peng"
 description: "Fangyue Peng is a Mid-career Unknown researcher at Harbin Institute of Technology in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.165076
+date: 2026-07-10T01:07:49.055747
 url: "/cdr-researcher-census/researchers/fangyue-peng-a5031255/"
 layout: "researcher"
 hiddenInHomeList: true

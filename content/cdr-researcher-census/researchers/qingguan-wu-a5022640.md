@@ -1,7 +1,7 @@
 ---
 title: "Qingguan Wu"
 description: "Qingguan Wu is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.254269
+date: 2026-07-10T01:07:48.262340
 url: "/cdr-researcher-census/researchers/qingguan-wu-a5022640/"
 layout: "researcher"
 hiddenInHomeList: true

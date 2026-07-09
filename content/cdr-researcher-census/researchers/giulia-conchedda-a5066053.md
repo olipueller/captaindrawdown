@@ -1,7 +1,7 @@
 ---
 title: "Giulia Conchedda"
 description: "Giulia Conchedda is a Senior General CDR researcher at Economical and Social Research Centre in IT. With 132 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.960932
+date: 2026-07-10T01:07:46.998540
 url: "/cdr-researcher-census/researchers/giulia-conchedda-a5066053/"
 layout: "researcher"
 hiddenInHomeList: true

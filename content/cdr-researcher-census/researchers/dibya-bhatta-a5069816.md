@@ -1,7 +1,7 @@
 ---
 title: "Dibya Bhatta"
 description: "Dibya Bhatta is a Mid-career Soil Carbon researcher at Kyungpook National University in KR. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.492315
+date: 2026-07-10T01:07:47.562877
 url: "/cdr-researcher-census/researchers/dibya-bhatta-a5069816/"
 layout: "researcher"
 hiddenInHomeList: true

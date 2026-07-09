@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Sadovnik"
 description: "Nicolas Sadovnik is an Early-career Unknown researcher at Centre National de la Recherche Scientifique in FR. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.860994
+date: 2026-07-10T01:07:48.790705
 url: "/cdr-researcher-census/researchers/nicolas-sadovnik-a5073638/"
 layout: "researcher"
 hiddenInHomeList: true

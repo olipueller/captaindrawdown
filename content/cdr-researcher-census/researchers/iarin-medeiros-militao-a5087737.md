@@ -1,7 +1,7 @@
 ---
 title: "Iarin Medeiros Militao"
 description: "Iarin Medeiros Militao is an Early-career Biochar researcher at RMIT University in AU. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.187507
+date: 2026-07-10T01:07:48.202380
 url: "/cdr-researcher-census/researchers/iarin-medeiros-militao-a5087737/"
 layout: "researcher"
 hiddenInHomeList: true

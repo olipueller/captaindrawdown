@@ -1,7 +1,7 @@
 ---
 title: "G. Uday Kiran"
 description: "G. Uday Kiran is a Mid-career General CDR researcher. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.097701
+date: 2026-07-10T01:07:49.006213
 url: "/cdr-researcher-census/researchers/g-uday-kiran-a5111357/"
 layout: "researcher"
 hiddenInHomeList: true

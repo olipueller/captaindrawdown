@@ -1,7 +1,7 @@
 ---
 title: "Zhiming Qi"
 description: "Zhiming Qi is a Senior Soil Carbon researcher at McGill University in CA. With 244 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.954224
+date: 2026-07-10T01:07:46.989468
 url: "/cdr-researcher-census/researchers/zhiming-qi-a5034746/"
 layout: "researcher"
 hiddenInHomeList: true

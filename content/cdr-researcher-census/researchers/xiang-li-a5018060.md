@@ -1,7 +1,7 @@
 ---
 title: "Xiang Li"
 description: "Xiang Li is a Mid-career Unknown researcher at University of Bristol in GB. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.021355
+date: 2026-07-10T01:07:48.029145
 url: "/cdr-researcher-census/researchers/xiang-li-a5018060/"
 layout: "researcher"
 hiddenInHomeList: true

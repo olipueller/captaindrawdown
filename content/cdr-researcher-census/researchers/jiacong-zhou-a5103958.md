@@ -1,7 +1,7 @@
 ---
 title: "Jiacong Zhou"
 description: "Jiacong Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.936109
+date: 2026-07-10T01:07:47.948684
 url: "/cdr-researcher-census/researchers/jiacong-zhou-a5103958/"
 layout: "researcher"
 hiddenInHomeList: true

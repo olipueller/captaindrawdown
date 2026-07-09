@@ -1,7 +1,7 @@
 ---
 title: "Miralem Salihović"
 description: "Miralem Salihović is a Mid-career Unknown researcher at University of Salzburg in AT. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.627801
+date: 2026-07-10T01:07:48.588046
 url: "/cdr-researcher-census/researchers/miralem-salihovic-a5019961/"
 layout: "researcher"
 hiddenInHomeList: true

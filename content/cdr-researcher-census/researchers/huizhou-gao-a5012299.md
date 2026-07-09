@@ -1,7 +1,7 @@
 ---
 title: "Huizhou Gao"
 description: "Huizhou Gao is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.280618
+date: 2026-07-10T01:07:48.286235
 url: "/cdr-researcher-census/researchers/huizhou-gao-a5012299/"
 layout: "researcher"
 hiddenInHomeList: true

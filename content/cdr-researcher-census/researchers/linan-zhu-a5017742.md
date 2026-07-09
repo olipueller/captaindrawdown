@@ -1,7 +1,7 @@
 ---
 title: "Linan Zhu"
 description: "Linan Zhu is a Senior Unknown researcher at Harbin Engineering University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.932946
+date: 2026-07-10T01:07:47.945630
 url: "/cdr-researcher-census/researchers/linan-zhu-a5017742/"
 layout: "researcher"
 hiddenInHomeList: true

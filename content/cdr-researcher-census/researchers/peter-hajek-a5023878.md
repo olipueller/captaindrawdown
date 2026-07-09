@@ -1,7 +1,7 @@
 ---
 title: "Peter Hajek"
 description: "Peter Hajek is a Mid-career Soil Carbon researcher at Albert-Ludwigs-Universität Freiburg in DE. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.066902
+date: 2026-07-10T01:07:47.144544
 url: "/cdr-researcher-census/researchers/peter-hajek-a5023878/"
 layout: "researcher"
 hiddenInHomeList: true

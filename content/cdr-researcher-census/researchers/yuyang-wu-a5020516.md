@@ -1,7 +1,7 @@
 ---
 title: "Yuyang Wu"
 description: "Yuyang Wu is a Mid-career Unknown researcher at Shenzhen University in CN. With 59 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.251497
+date: 2026-07-10T01:07:47.336317
 url: "/cdr-researcher-census/researchers/yuyang-wu-a5020516/"
 layout: "researcher"
 hiddenInHomeList: true

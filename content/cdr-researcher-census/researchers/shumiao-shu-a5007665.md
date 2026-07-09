@@ -1,7 +1,7 @@
 ---
 title: "Shumiao Shu"
 description: "Shumiao Shu is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.728779
+date: 2026-07-10T01:07:48.677942
 url: "/cdr-researcher-census/researchers/shumiao-shu-a5007665/"
 layout: "researcher"
 hiddenInHomeList: true

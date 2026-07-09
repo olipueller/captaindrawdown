@@ -1,7 +1,7 @@
 ---
 title: "Shumin Guo"
 description: "Shumin Guo is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.423395
+date: 2026-07-10T01:07:47.502115
 url: "/cdr-researcher-census/researchers/shumin-guo-a5000483/"
 layout: "researcher"
 hiddenInHomeList: true

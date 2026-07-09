@@ -1,7 +1,7 @@
 ---
 title: "Sara Ahmed"
 description: "Sara Ahmed is a Senior Unknown researcher at New York University Abu Dhabi in AE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.883604
+date: 2026-07-10T01:07:48.810866
 url: "/cdr-researcher-census/researchers/sara-ahmed-a5056657/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shihang Zhang"
 description: "Shihang Zhang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.965845
+date: 2026-07-10T01:07:47.976446
 url: "/cdr-researcher-census/researchers/shihang-zhang-a5061616/"
 layout: "researcher"
 hiddenInHomeList: true

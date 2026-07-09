@@ -1,7 +1,7 @@
 ---
 title: "Soujatya Mukherjee"
 description: "Soujatya Mukherjee is a Mid-career Unknown researcher at Winterthur Museum Garden and Library in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.524440
+date: 2026-07-10T01:07:48.507347
 url: "/cdr-researcher-census/researchers/soujatya-mukherjee-a5004457/"
 layout: "researcher"
 hiddenInHomeList: true

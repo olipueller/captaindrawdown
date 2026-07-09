@@ -1,7 +1,7 @@
 ---
 title: "Takanori Itoh"
 description: "Takanori Itoh is a Mid-career Biochar researcher at Hokkaido University in JP. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.983754
+date: 2026-07-10T01:07:47.992854
 url: "/cdr-researcher-census/researchers/takanori-itoh-a5068623/"
 layout: "researcher"
 hiddenInHomeList: true

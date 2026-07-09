@@ -1,7 +1,7 @@
 ---
 title: "Jean‐David Moore"
 description: "Jean‐David Moore is a Senior Soil Carbon researcher at Ministère des Ressources naturelles et des Forêts (Québec) in CA. With 65 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.204821
+date: 2026-07-10T01:07:47.293100
 url: "/cdr-researcher-census/researchers/jeandavid-moore-a5070845/"
 layout: "researcher"
 hiddenInHomeList: true

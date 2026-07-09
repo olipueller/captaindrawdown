@@ -1,7 +1,7 @@
 ---
 title: "Pentile Thong"
 description: "Pentile Thong is a Mid-career Unknown researcher at Landesforschungsanstalt für Landwirtschaft und Fischerei in DE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.381891
+date: 2026-07-10T01:07:48.377676
 url: "/cdr-researcher-census/researchers/pentile-thong-a5012194/"
 layout: "researcher"
 hiddenInHomeList: true

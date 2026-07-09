@@ -1,7 +1,7 @@
 ---
 title: "Abdul Zahir"
 description: "Abdul Zahir is a Senior Unknown researcher at National Textile University in PK. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.419348
+date: 2026-07-10T01:07:47.498495
 url: "/cdr-researcher-census/researchers/abdul-zahir-a5042324/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pablo Martínez-Rodríguez"
 description: "Pablo Martínez-Rodríguez is a Mid-career Unknown researcher at Centro de Astrobiología in ES. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.418042
+date: 2026-07-10T01:07:47.497144
 url: "/cdr-researcher-census/researchers/pablo-martinez-rodriguez-a5018498/"
 layout: "researcher"
 hiddenInHomeList: true

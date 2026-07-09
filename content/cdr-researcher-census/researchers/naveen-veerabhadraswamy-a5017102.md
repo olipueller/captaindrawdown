@@ -1,7 +1,7 @@
 ---
 title: "Naveen Veerabhadraswamy"
 description: "Naveen Veerabhadraswamy is an Early-career Soil Carbon researcher at University of Agricultural and Horticultural Sciences in IN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.034805
+date: 2026-07-10T01:07:48.949636
 url: "/cdr-researcher-census/researchers/naveen-veerabhadraswamy-a5017102/"
 layout: "researcher"
 hiddenInHomeList: true

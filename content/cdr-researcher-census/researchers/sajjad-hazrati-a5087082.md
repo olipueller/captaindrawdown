@@ -1,7 +1,7 @@
 ---
 title: "Sajjad Hazrati"
 description: "Sajjad Hazrati is a Mid-career Unknown researcher at Luleå University of Technology in SE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.632038
+date: 2026-07-10T01:07:48.591585
 url: "/cdr-researcher-census/researchers/sajjad-hazrati-a5087082/"
 layout: "researcher"
 hiddenInHomeList: true

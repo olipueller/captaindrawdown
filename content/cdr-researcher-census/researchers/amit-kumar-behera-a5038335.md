@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar Behera"
 description: "Amit Kumar Behera is a Mid-career Biochar researcher at Veer Surendra Sai University of Technology in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.550475
+date: 2026-07-10T01:07:48.530571
 url: "/cdr-researcher-census/researchers/amit-kumar-behera-a5038335/"
 layout: "researcher"
 hiddenInHomeList: true

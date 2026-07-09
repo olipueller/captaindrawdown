@@ -1,7 +1,7 @@
 ---
 title: "Kenny C. Mok"
 description: "Kenny C. Mok is a Senior Soil Carbon researcher at University of California Berkeley in US. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.050609
+date: 2026-07-10T01:07:47.125499
 url: "/cdr-researcher-census/researchers/kenny-c-mok-a5077950/"
 layout: "researcher"
 hiddenInHomeList: true

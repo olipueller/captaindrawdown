@@ -1,7 +1,7 @@
 ---
 title: "Tamara J. H. M. van Bergen"
 description: "Tamara J. H. M. van Bergen is a Mid-career Unknown researcher at Radboud University Nijmegen in NL. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.034211
+date: 2026-07-10T01:07:48.040809
 url: "/cdr-researcher-census/researchers/tamara-j-h-m-van-bergen-a5014026/"
 layout: "researcher"
 hiddenInHomeList: true

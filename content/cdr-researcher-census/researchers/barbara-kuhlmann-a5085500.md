@@ -1,7 +1,7 @@
 ---
 title: "Barbara Kuhlmann"
 description: "Barbara Kuhlmann is a Senior Soil Carbon researcher at Klinik und Poliklinik für Psychiatrie und Psychotherapie in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.591355
+date: 2026-07-10T01:07:47.654572
 url: "/cdr-researcher-census/researchers/barbara-kuhlmann-a5085500/"
 layout: "researcher"
 hiddenInHomeList: true

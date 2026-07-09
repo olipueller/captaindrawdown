@@ -1,7 +1,7 @@
 ---
 title: "Teagan Goolmeer"
 description: "Teagan Goolmeer is a Mid-career Unknown researcher at The University of Melbourne in AU. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.709260
+date: 2026-07-10T01:07:48.661085
 url: "/cdr-researcher-census/researchers/teagan-goolmeer-a5024403/"
 layout: "researcher"
 hiddenInHomeList: true

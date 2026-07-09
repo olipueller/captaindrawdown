@@ -1,7 +1,7 @@
 ---
 title: "Xiaoning Zhao"
 description: "Xiaoning Zhao is a Senior Soil Carbon researcher at Shaanxi University of Technology in CN. With 82 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.153356
+date: 2026-07-10T01:07:47.241435
 url: "/cdr-researcher-census/researchers/xiaoning-zhao-a5086242/"
 layout: "researcher"
 hiddenInHomeList: true

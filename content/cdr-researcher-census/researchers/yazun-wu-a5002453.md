@@ -1,7 +1,7 @@
 ---
 title: "Yazun Wu"
 description: "Yazun Wu is a Senior Unknown researcher at Henan Polytechnic University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.166494
+date: 2026-07-10T01:07:49.056981
 url: "/cdr-researcher-census/researchers/yazun-wu-a5002453/"
 layout: "researcher"
 hiddenInHomeList: true

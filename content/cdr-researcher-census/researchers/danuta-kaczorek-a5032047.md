@@ -1,7 +1,7 @@
 ---
 title: "Danuta Kaczorek"
 description: "Danuta Kaczorek is a Senior Soil Carbon researcher at Warsaw University of Life Sciences in PL. With 54 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.062965
+date: 2026-07-10T01:07:47.139865
 url: "/cdr-researcher-census/researchers/danuta-kaczorek-a5032047/"
 layout: "researcher"
 hiddenInHomeList: true

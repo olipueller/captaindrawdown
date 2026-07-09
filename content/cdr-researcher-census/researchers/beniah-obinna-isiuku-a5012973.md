@@ -1,7 +1,7 @@
 ---
 title: "Beniah Obinna Isiuku"
 description: "Beniah Obinna Isiuku is a Mid-career Biochar researcher at Imo State University in NG. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.643314
+date: 2026-07-10T01:07:47.702265
 url: "/cdr-researcher-census/researchers/beniah-obinna-isiuku-a5012973/"
 layout: "researcher"
 hiddenInHomeList: true

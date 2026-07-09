@@ -1,7 +1,7 @@
 ---
 title: "Marguérite Marie Abada Mbolo"
 description: "Marguérite Marie Abada Mbolo is a Mid-career Soil Carbon researcher at Université de Yaoundé I in CM. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.896246
+date: 2026-07-10T01:07:48.822068
 url: "/cdr-researcher-census/researchers/marguerite-marie-abada-mbolo-a5038890/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Newton Paulo de Souza Falção"
 description: "Newton Paulo de Souza Falção is a Senior Biochar researcher at National Institute for Amazonian Research in BR. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.201936
+date: 2026-07-10T01:07:47.290650
 url: "/cdr-researcher-census/researchers/newton-paulo-de-souza-falcao-a5065578/"
 layout: "researcher"
 hiddenInHomeList: true

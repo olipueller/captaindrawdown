@@ -1,7 +1,7 @@
 ---
 title: "Yanjiang Cai"
 description: "Yanjiang Cai is an Eminent Soil Carbon researcher at Zhejiang A&F University in CN. With 169 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.948790
+date: 2026-07-10T01:07:46.980878
 url: "/cdr-researcher-census/researchers/yanjiang-cai-a5112048/"
 layout: "researcher"
 hiddenInHomeList: true

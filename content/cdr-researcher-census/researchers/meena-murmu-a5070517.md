@@ -1,7 +1,7 @@
 ---
 title: "Meena Murmu"
 description: "Meena Murmu is a Mid-career Unknown researcher at National Institute of Technology Raipur in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.449215
+date: 2026-07-10T01:07:48.438169
 url: "/cdr-researcher-census/researchers/meena-murmu-a5070517/"
 layout: "researcher"
 hiddenInHomeList: true

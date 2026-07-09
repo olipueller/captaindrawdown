@@ -1,7 +1,7 @@
 ---
 title: "Tongsa Yang"
 description: "Tongsa Yang is an Early-career Biochar researcher at Hebei University of Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.431243
+date: 2026-07-10T01:07:48.421151
 url: "/cdr-researcher-census/researchers/tongsa-yang-a5023242/"
 layout: "researcher"
 hiddenInHomeList: true

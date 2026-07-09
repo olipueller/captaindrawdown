@@ -1,7 +1,7 @@
 ---
 title: "Kamila Marques Pedrosa"
 description: "Kamila Marques Pedrosa is a Mid-career Unknown researcher at Universidade Estadual da Paraíba in BR. With 65 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.829793
+date: 2026-07-10T01:07:48.763947
 url: "/cdr-researcher-census/researchers/kamila-marques-pedrosa-a5006029/"
 layout: "researcher"
 hiddenInHomeList: true

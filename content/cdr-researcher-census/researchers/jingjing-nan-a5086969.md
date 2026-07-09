@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Nan"
 description: "Jingjing Nan is a Mid-career Unknown researcher at Xi'an University of Science and Technology in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.696268
+date: 2026-07-10T01:07:48.649564
 url: "/cdr-researcher-census/researchers/jingjing-nan-a5086969/"
 layout: "researcher"
 hiddenInHomeList: true

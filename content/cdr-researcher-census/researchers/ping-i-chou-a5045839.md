@@ -1,7 +1,7 @@
 ---
 title: "Ping-I Chou"
 description: "Ping-I Chou is a Mid-career Unknown researcher at Washington University in St. Louis in US. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.030140
+date: 2026-07-10T01:07:48.037280
 url: "/cdr-researcher-census/researchers/ping-i-chou-a5045839/"
 layout: "researcher"
 hiddenInHomeList: true

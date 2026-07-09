@@ -1,7 +1,7 @@
 ---
 title: "Jude O. Asibor"
 description: "Jude O. Asibor is a Mid-career General CDR researcher at Cranfield University in GB. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.937190
+date: 2026-07-10T01:07:47.949646
 url: "/cdr-researcher-census/researchers/jude-o-asibor-a5085225/"
 layout: "researcher"
 hiddenInHomeList: true

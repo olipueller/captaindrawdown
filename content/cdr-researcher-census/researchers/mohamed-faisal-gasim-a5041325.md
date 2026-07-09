@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Faisal Gasim"
 description: "Mohamed Faisal Gasim is a Mid-career Unknown researcher at Hefei Institutes of Physical Science in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.590847
+date: 2026-07-10T01:07:47.654001
 url: "/cdr-researcher-census/researchers/mohamed-faisal-gasim-a5041325/"
 layout: "researcher"
 hiddenInHomeList: true

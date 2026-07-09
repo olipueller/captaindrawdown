@@ -1,7 +1,7 @@
 ---
 title: "Qinggui Wang"
 description: "Qinggui Wang is a Senior Soil Carbon researcher at Qufu Normal University in CN. With 112 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.037724
+date: 2026-07-10T01:07:47.109353
 url: "/cdr-researcher-census/researchers/qinggui-wang-a5064902/"
 layout: "researcher"
 hiddenInHomeList: true

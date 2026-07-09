@@ -1,7 +1,7 @@
 ---
 title: "Yolandi Ernst"
 description: "Yolandi Ernst is a Mid-career Unknown researcher at University of the Witwatersrand in ZA. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.133253
+date: 2026-07-10T01:07:49.037316
 url: "/cdr-researcher-census/researchers/yolandi-ernst-a5070179/"
 layout: "researcher"
 hiddenInHomeList: true

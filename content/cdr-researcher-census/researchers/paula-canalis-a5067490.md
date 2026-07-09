@@ -1,7 +1,7 @@
 ---
 title: "Paula Canalís"
 description: "Paula Canalís is a Senior General CDR researcher at Universidad de Zaragoza in ES. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.230323
+date: 2026-07-10T01:07:47.317085
 url: "/cdr-researcher-census/researchers/paula-canalis-a5067490/"
 layout: "researcher"
 hiddenInHomeList: true

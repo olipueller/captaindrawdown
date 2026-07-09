@@ -1,7 +1,7 @@
 ---
 title: "Hongda Xu"
 description: "Hongda Xu is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.896604
+date: 2026-07-10T01:07:47.911595
 url: "/cdr-researcher-census/researchers/hongda-xu-a5108781/"
 layout: "researcher"
 hiddenInHomeList: true

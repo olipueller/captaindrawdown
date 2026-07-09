@@ -1,7 +1,7 @@
 ---
 title: "Isaac Gura"
 description: "Isaac Gura is a Mid-career Soil Carbon researcher at University of the Free State in ZA. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.085506
+date: 2026-07-10T01:07:48.995647
 url: "/cdr-researcher-census/researchers/isaac-gura-a5086409/"
 layout: "researcher"
 hiddenInHomeList: true

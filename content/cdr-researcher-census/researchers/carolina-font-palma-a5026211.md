@@ -1,7 +1,7 @@
 ---
 title: "Carolina Font-Palma"
 description: "Carolina Font-Palma is a Senior General CDR researcher at University of Hull in GB. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.081311
+date: 2026-07-10T01:07:47.162111
 url: "/cdr-researcher-census/researchers/carolina-font-palma-a5026211/"
 layout: "researcher"
 hiddenInHomeList: true

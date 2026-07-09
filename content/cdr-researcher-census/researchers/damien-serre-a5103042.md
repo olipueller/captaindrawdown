@@ -1,7 +1,7 @@
 ---
 title: "Damien Serre"
 description: "Damien Serre is a Mid-career Unknown researcher at Université de Versailles Saint-Quentin-en-Yvelines in FR. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.733097
+date: 2026-07-10T01:07:48.681687
 url: "/cdr-researcher-census/researchers/damien-serre-a5103042/"
 layout: "researcher"
 hiddenInHomeList: true

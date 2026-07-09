@@ -1,7 +1,7 @@
 ---
 title: "Stuart Bradley"
 description: "Stuart Bradley is a Mid-career Unknown researcher at University of Warwick in GB. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.020122
+date: 2026-07-10T01:07:48.936078
 url: "/cdr-researcher-census/researchers/stuart-bradley-a5103096/"
 layout: "researcher"
 hiddenInHomeList: true

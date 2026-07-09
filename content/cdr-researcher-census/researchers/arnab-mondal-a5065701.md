@@ -1,7 +1,7 @@
 ---
 title: "Arnab Mondal"
 description: "Arnab Mondal is a Mid-career General CDR researcher at Odisha University of Agriculture and Technology in IN. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.626863
+date: 2026-07-10T01:07:47.686753
 url: "/cdr-researcher-census/researchers/arnab-mondal-a5065701/"
 layout: "researcher"
 hiddenInHomeList: true

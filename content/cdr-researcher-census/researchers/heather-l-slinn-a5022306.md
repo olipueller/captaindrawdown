@@ -1,7 +1,7 @@
 ---
 title: "Heather L. Slinn"
 description: "Heather L. Slinn is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.756711
+date: 2026-07-10T01:07:47.806943
 url: "/cdr-researcher-census/researchers/heather-l-slinn-a5022306/"
 layout: "researcher"
 hiddenInHomeList: true

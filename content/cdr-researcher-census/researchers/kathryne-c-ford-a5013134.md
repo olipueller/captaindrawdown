@@ -1,7 +1,7 @@
 ---
 title: "Kathryne C. Ford"
 description: "Kathryne C. Ford is a Mid-career Unknown researcher at North Carolina State University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.973095
+date: 2026-07-10T01:07:48.893077
 url: "/cdr-researcher-census/researchers/kathryne-c-ford-a5013134/"
 layout: "researcher"
 hiddenInHomeList: true

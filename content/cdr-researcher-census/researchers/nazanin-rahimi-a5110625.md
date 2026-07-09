@@ -1,7 +1,7 @@
 ---
 title: "Nazanin Rahimi"
 description: "Nazanin Rahimi is a Mid-career General CDR researcher at Shell (United States) in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.308944
+date: 2026-07-10T01:07:47.391013
 url: "/cdr-researcher-census/researchers/nazanin-rahimi-a5110625/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chang You"
 description: "Chang You is a Mid-career Soil Carbon researcher at Minzu University of China in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.267537
+date: 2026-07-10T01:07:48.273867
 url: "/cdr-researcher-census/researchers/chang-you-a5020419/"
 layout: "researcher"
 hiddenInHomeList: true

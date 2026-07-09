@@ -1,7 +1,7 @@
 ---
 title: "Sibylle K. Haßler"
 description: "Sibylle K. Haßler is a Senior Soil Carbon researcher at Karlsruhe Institute of Technology in DE. With 94 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.462399
+date: 2026-07-10T01:07:47.536395
 url: "/cdr-researcher-census/researchers/sibylle-k-haler-a5009661/"
 layout: "researcher"
 hiddenInHomeList: true

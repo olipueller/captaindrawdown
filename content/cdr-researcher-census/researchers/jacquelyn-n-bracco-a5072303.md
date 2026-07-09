@@ -1,7 +1,7 @@
 ---
 title: "Jacquelyn N. Bracco"
 description: "Jacquelyn N. Bracco is a Mid-career Unknown researcher at Queens College, CUNY in US. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.680947
+date: 2026-07-10T01:07:47.737286
 url: "/cdr-researcher-census/researchers/jacquelyn-n-bracco-a5072303/"
 layout: "researcher"
 hiddenInHomeList: true

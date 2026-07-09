@@ -1,7 +1,7 @@
 ---
 title: "Jakob Rønning"
 description: "Jakob Rønning is an Early-career Ocean CDR researcher at University of Southern Denmark in DK. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.933963
+date: 2026-07-10T01:07:48.856892
 url: "/cdr-researcher-census/researchers/jakob-rnning-a5011278/"
 layout: "researcher"
 hiddenInHomeList: true

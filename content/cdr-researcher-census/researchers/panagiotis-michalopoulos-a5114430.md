@@ -1,7 +1,7 @@
 ---
 title: "Panagiotis Michalopoulos"
 description: "Panagiotis Michalopoulos is a Senior Unknown researcher at Hellenic Centre for Marine Research in GR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.281553
+date: 2026-07-10T01:07:47.363800
 url: "/cdr-researcher-census/researchers/panagiotis-michalopoulos-a5114430/"
 layout: "researcher"
 hiddenInHomeList: true

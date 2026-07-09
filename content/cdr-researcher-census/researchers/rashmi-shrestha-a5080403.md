@@ -1,7 +1,7 @@
 ---
 title: "Rashmi Shrestha"
 description: "Rashmi Shrestha is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.202372
+date: 2026-07-10T01:07:48.215846
 url: "/cdr-researcher-census/researchers/rashmi-shrestha-a5080403/"
 layout: "researcher"
 hiddenInHomeList: true

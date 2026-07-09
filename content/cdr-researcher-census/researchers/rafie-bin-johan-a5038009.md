@@ -1,7 +1,7 @@
 ---
 title: "Rafie Bin Johan"
 description: "Rafie Bin Johan is a Mid-career Biochar researcher at University of Malaya in MY. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.744984
+date: 2026-07-10T01:07:47.797059
 url: "/cdr-researcher-census/researchers/rafie-bin-johan-a5038009/"
 layout: "researcher"
 hiddenInHomeList: true

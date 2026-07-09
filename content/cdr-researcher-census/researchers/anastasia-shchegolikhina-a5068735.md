@@ -1,7 +1,7 @@
 ---
 title: "Anastasia Shchegolikhina"
 description: "Anastasia Shchegolikhina is a Mid-career Soil Carbon researcher at Cereal Research Centre in IT. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.978618
+date: 2026-07-10T01:07:48.898737
 url: "/cdr-researcher-census/researchers/anastasia-shchegolikhina-a5068735/"
 layout: "researcher"
 hiddenInHomeList: true

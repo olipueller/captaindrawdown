@@ -1,7 +1,7 @@
 ---
 title: "Melek Yιlgιn"
 description: "Melek Yιlgιn is a Senior Biochar researcher at Fırat University in TR. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.126424
+date: 2026-07-10T01:07:49.031671
 url: "/cdr-researcher-census/researchers/melek-ylgn-a5078328/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Grant Faber"
 description: "Grant Faber is a Mid-career General CDR researcher at University of Michigan–Ann Arbor in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.286078
+date: 2026-07-10T01:07:48.291043
 url: "/cdr-researcher-census/researchers/grant-faber-a5051201/"
 layout: "researcher"
 hiddenInHomeList: true

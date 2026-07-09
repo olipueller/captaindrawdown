@@ -1,7 +1,7 @@
 ---
 title: "Tai-Jen George Chen"
 description: "Tai-Jen George Chen is a Senior General CDR researcher at National Taiwan University in TW. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.564630
+date: 2026-07-10T01:07:48.543726
 url: "/cdr-researcher-census/researchers/tai-jen-george-chen-a5000074/"
 layout: "researcher"
 hiddenInHomeList: true

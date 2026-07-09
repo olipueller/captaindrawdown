@@ -1,7 +1,7 @@
 ---
 title: "Safe ELdeen M.E. Mahmoud"
 description: "Safe ELdeen M.E. Mahmoud is a Mid-career Biochar researcher at Universidad de Oviedo in ES. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.263948
+date: 2026-07-10T01:07:48.270828
 url: "/cdr-researcher-census/researchers/safe-eldeen-me-mahmoud-a5064429/"
 layout: "researcher"
 hiddenInHomeList: true

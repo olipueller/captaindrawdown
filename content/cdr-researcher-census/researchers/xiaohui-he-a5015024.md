@@ -1,7 +1,7 @@
 ---
 title: "Xiaohui He"
 description: "Xiaohui He is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.367200
+date: 2026-07-10T01:07:48.364543
 url: "/cdr-researcher-census/researchers/xiaohui-he-a5015024/"
 layout: "researcher"
 hiddenInHomeList: true

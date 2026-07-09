@@ -1,7 +1,7 @@
 ---
 title: "Ming Jiang"
 description: "Ming Jiang is a Mid-career Soil Carbon researcher at Yanan University Affiliated Hospital in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.561085
+date: 2026-07-10T01:07:48.540852
 url: "/cdr-researcher-census/researchers/ming-jiang-a5102546/"
 layout: "researcher"
 hiddenInHomeList: true

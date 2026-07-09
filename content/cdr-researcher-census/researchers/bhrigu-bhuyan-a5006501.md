@@ -1,7 +1,7 @@
 ---
 title: "Bhrigu Bhuyan"
 description: "Bhrigu Bhuyan is a Mid-career Unknown researcher at Assam Down Town University in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.663768
+date: 2026-07-10T01:07:48.620346
 url: "/cdr-researcher-census/researchers/bhrigu-bhuyan-a5006501/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yang Guo"
 description: "Yang Guo is a Senior Biochar researcher at Xi'an Jiaotong University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.975268
+date: 2026-07-10T01:07:48.895217
 url: "/cdr-researcher-census/researchers/yang-guo-a5101278/"
 layout: "researcher"
 hiddenInHomeList: true

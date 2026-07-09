@@ -1,7 +1,7 @@
 ---
 title: "Sathaiah Gunaseelan"
 description: "Sathaiah Gunaseelan is a Mid-career Ocean CDR researcher at University of Minnesota in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.953511
+date: 2026-07-10T01:07:47.965000
 url: "/cdr-researcher-census/researchers/sathaiah-gunaseelan-a5036512/"
 layout: "researcher"
 hiddenInHomeList: true

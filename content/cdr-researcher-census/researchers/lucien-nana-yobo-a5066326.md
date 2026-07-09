@@ -1,7 +1,7 @@
 ---
 title: "Lucien Nana Yobo"
 description: "Lucien Nana Yobo is a Mid-career Ocean CDR researcher at University of Houston in US. With 48 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.840534
+date: 2026-07-10T01:07:48.772849
 url: "/cdr-researcher-census/researchers/lucien-nana-yobo-a5066326/"
 layout: "researcher"
 hiddenInHomeList: true

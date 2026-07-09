@@ -1,7 +1,7 @@
 ---
 title: "Fei Fei Chen"
 description: "Fei Fei Chen is a Senior General CDR researcher at Jeonju University in KR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.076720
+date: 2026-07-10T01:07:48.079003
 url: "/cdr-researcher-census/researchers/fei-fei-chen-a5112724/"
 layout: "researcher"
 hiddenInHomeList: true

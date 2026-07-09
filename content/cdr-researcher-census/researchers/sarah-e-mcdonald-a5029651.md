@@ -1,7 +1,7 @@
 ---
 title: "Sarah E. McDonald"
 description: "Sarah E. McDonald is a Mid-career Soil Carbon researcher at United States Naval Research Laboratory in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.049440
+date: 2026-07-10T01:07:48.054701
 url: "/cdr-researcher-census/researchers/sarah-e-mcdonald-a5029651/"
 layout: "researcher"
 hiddenInHomeList: true

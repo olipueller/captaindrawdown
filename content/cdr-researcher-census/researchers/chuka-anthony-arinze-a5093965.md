@@ -1,7 +1,7 @@
 ---
 title: "Chuka Anthony Arinze"
 description: "Chuka Anthony Arinze is a Mid-career Unknown researcher. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.275826
+date: 2026-07-10T01:07:48.281529
 url: "/cdr-researcher-census/researchers/chuka-anthony-arinze-a5093965/"
 layout: "researcher"
 hiddenInHomeList: true

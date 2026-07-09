@@ -1,7 +1,7 @@
 ---
 title: "Jiajie Cen"
 description: "Jiajie Cen is a Mid-career Unknown researcher at Stony Brook University in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.205970
+date: 2026-07-10T01:07:48.219212
 url: "/cdr-researcher-census/researchers/jiajie-cen-a5103262/"
 layout: "researcher"
 hiddenInHomeList: true

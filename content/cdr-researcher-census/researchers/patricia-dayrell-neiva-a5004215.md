@@ -1,7 +1,7 @@
 ---
 title: "Patrícia Dayrell Neiva"
 description: "Patrícia Dayrell Neiva is a Senior Unknown researcher. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.131737
+date: 2026-07-10T01:07:49.036012
 url: "/cdr-researcher-census/researchers/patricia-dayrell-neiva-a5004215/"
 layout: "researcher"
 hiddenInHomeList: true

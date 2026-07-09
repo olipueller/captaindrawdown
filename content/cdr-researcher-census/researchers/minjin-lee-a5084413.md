@@ -1,7 +1,7 @@
 ---
 title: "Minjin Lee"
 description: "Minjin Lee is a Mid-career Ocean CDR researcher at Inha University in KR. With 50 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.652008
+date: 2026-07-10T01:07:47.709985
 url: "/cdr-researcher-census/researchers/minjin-lee-a5084413/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jing Sun"
 description: "Jing Sun is a Senior Soil Carbon researcher at Southwest Forestry University in CN. With 65 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.187987
+date: 2026-07-10T01:07:48.202834
 url: "/cdr-researcher-census/researchers/jing-sun-a5100429/"
 layout: "researcher"
 hiddenInHomeList: true

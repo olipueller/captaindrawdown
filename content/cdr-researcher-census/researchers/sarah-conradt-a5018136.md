@@ -1,7 +1,7 @@
 ---
 title: "Sarah Conradt"
 description: "Sarah Conradt is a Senior Unknown researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.535657
+date: 2026-07-10T01:07:47.601571
 url: "/cdr-researcher-census/researchers/sarah-conradt-a5018136/"
 layout: "researcher"
 hiddenInHomeList: true

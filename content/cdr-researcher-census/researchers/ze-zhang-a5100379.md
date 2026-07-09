@@ -1,7 +1,7 @@
 ---
 title: "Ze Zhang"
 description: "Ze Zhang is a Senior Soil Carbon researcher at Melnikov Permafrost Institute of the Siberian Branch of the Russian Academy of Science in RU. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.155399
+date: 2026-07-10T01:07:48.174642
 url: "/cdr-researcher-census/researchers/ze-zhang-a5100379/"
 layout: "researcher"
 hiddenInHomeList: true

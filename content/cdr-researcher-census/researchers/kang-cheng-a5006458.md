@@ -1,7 +1,7 @@
 ---
 title: "Kang Cheng"
 description: "Kang Cheng is a Senior Unknown researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.547964
+date: 2026-07-10T01:07:47.612376
 url: "/cdr-researcher-census/researchers/kang-cheng-a5006458/"
 layout: "researcher"
 hiddenInHomeList: true

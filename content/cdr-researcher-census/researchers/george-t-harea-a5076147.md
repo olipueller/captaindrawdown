@@ -1,7 +1,7 @@
 ---
 title: "George T. Harea"
 description: "George T. Harea is a Mid-career General CDR researcher at The Geneva Foundation in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.494287
+date: 2026-07-10T01:07:48.479971
 url: "/cdr-researcher-census/researchers/george-t-harea-a5076147/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiqiang Zhou"
 description: "Jiqiang Zhou is a Mid-career Soil Carbon researcher at Henan Nonferrous Metals Geological Exploration Institute in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.240877
+date: 2026-07-10T01:07:49.149428
 url: "/cdr-researcher-census/researchers/jiqiang-zhou-a5004515/"
 layout: "researcher"
 hiddenInHomeList: true

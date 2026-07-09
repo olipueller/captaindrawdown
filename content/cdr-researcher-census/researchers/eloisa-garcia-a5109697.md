@@ -1,7 +1,7 @@
 ---
 title: "Eloisa García"
 description: "Eloisa García is a Senior Soil Carbon researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.595109
+date: 2026-07-10T01:07:48.559314
 url: "/cdr-researcher-census/researchers/eloisa-garcia-a5109697/"
 layout: "researcher"
 hiddenInHomeList: true

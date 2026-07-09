@@ -1,7 +1,7 @@
 ---
 title: "Mengke Tang"
 description: "Mengke Tang is a Mid-career Unknown researcher at Beijing University of Posts and Telecommunications in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.900351
+date: 2026-07-10T01:07:47.914947
 url: "/cdr-researcher-census/researchers/mengke-tang-a5070491/"
 layout: "researcher"
 hiddenInHomeList: true

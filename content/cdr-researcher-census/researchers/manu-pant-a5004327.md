@@ -1,7 +1,7 @@
 ---
 title: "Manu Pant"
 description: "Manu Pant is an Early-career Biochar researcher at Graphic Era University in IN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.932839
+date: 2026-07-10T01:07:47.945543
 url: "/cdr-researcher-census/researchers/manu-pant-a5004327/"
 layout: "researcher"
 hiddenInHomeList: true

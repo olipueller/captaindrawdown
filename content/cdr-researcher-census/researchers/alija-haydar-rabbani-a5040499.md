@@ -1,7 +1,7 @@
 ---
 title: "Alija Haydar Rabbani"
 description: "Alija Haydar Rabbani is an Early-career Unknown researcher at IHE Delft Institute for Water Education in NL. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.336712
+date: 2026-07-10T01:07:48.336762
 url: "/cdr-researcher-census/researchers/alija-haydar-rabbani-a5040499/"
 layout: "researcher"
 hiddenInHomeList: true

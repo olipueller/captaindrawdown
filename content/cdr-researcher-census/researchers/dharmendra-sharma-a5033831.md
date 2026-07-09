@@ -1,7 +1,7 @@
 ---
 title: "Dharmendra Sharma"
 description: "Dharmendra Sharma is an Early-career Unknown researcher at Narsee Monjee Institute of Management Studies in IN. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.943260
+date: 2026-07-10T01:07:48.865535
 url: "/cdr-researcher-census/researchers/dharmendra-sharma-a5033831/"
 layout: "researcher"
 hiddenInHomeList: true

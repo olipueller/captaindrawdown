@@ -1,7 +1,7 @@
 ---
 title: "Qiang Wang"
 description: "Qiang Wang is a Mid-career Unknown researcher at Aviation Industry Corporation of China (China) in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.265444
+date: 2026-07-10T01:07:48.272052
 url: "/cdr-researcher-census/researchers/qiang-wang-a5100367/"
 layout: "researcher"
 hiddenInHomeList: true

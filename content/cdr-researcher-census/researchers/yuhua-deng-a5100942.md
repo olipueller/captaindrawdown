@@ -1,7 +1,7 @@
 ---
 title: "Yuhua Deng"
 description: "Yuhua Deng is a Mid-career Unknown researcher at Sichuan University in CN. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.461555
+date: 2026-07-10T01:07:47.535698
 url: "/cdr-researcher-census/researchers/yuhua-deng-a5100942/"
 layout: "researcher"
 hiddenInHomeList: true

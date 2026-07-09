@@ -1,7 +1,7 @@
 ---
 title: "Mingwan Chen"
 description: "Mingwan Chen is a Senior Soil Carbon researcher at Hainan University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.313632
+date: 2026-07-10T01:07:48.315842
 url: "/cdr-researcher-census/researchers/mingwan-chen-a5113530/"
 layout: "researcher"
 hiddenInHomeList: true

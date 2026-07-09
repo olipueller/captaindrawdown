@@ -1,7 +1,7 @@
 ---
 title: "Jialuo Yu"
 description: "Jialuo Yu is a Senior Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 49 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.071156
+date: 2026-07-10T01:07:47.150132
 url: "/cdr-researcher-census/researchers/jialuo-yu-a5013412/"
 layout: "researcher"
 hiddenInHomeList: true

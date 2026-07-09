@@ -1,7 +1,7 @@
 ---
 title: "Nimrat Khehra"
 description: "Nimrat Khehra is a Mid-career Unknown researcher at Trinity School of Medicine in VC. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.597476
+date: 2026-07-10T01:07:48.561363
 url: "/cdr-researcher-census/researchers/nimrat-khehra-a5037317/"
 layout: "researcher"
 hiddenInHomeList: true

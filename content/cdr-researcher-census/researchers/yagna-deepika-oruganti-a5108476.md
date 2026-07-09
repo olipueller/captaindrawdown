@@ -1,7 +1,7 @@
 ---
 title: "Yagna Deepika Oruganti"
 description: "Yagna Deepika Oruganti is a Mid-career General CDR researcher at Microsoft Research (United Kingdom) in GB. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.183949
+date: 2026-07-10T01:07:49.098266
 url: "/cdr-researcher-census/researchers/yagna-deepika-oruganti-a5108476/"
 layout: "researcher"
 hiddenInHomeList: true

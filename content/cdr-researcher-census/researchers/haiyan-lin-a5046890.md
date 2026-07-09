@@ -1,7 +1,7 @@
 ---
 title: "Haiyan Lin"
 description: "Haiyan Lin is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.718163
+date: 2026-07-10T01:07:47.771712
 url: "/cdr-researcher-census/researchers/haiyan-lin-a5046890/"
 layout: "researcher"
 hiddenInHomeList: true

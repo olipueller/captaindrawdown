@@ -1,7 +1,7 @@
 ---
 title: "Aneta H. Baczewska-Dąbrowska"
 description: "Aneta H. Baczewska-Dąbrowska is a Mid-career General CDR researcher at Polish Academy of Sciences Botanical Garden – Center for Biological Diversity Conservation in Powsin in PL. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.270060
+date: 2026-07-10T01:07:47.353250
 url: "/cdr-researcher-census/researchers/aneta-h-baczewska-dabrowska-a5033633/"
 layout: "researcher"
 hiddenInHomeList: true

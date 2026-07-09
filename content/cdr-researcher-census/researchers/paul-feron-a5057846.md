@@ -1,7 +1,7 @@
 ---
 title: "Paul Feron"
 description: "Paul Feron is an Eminent DAC researcher at CSIRO in AU. With 217 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.903732
+date: 2026-07-10T01:07:46.894999
 url: "/cdr-researcher-census/researchers/paul-feron-a5057846/"
 layout: "researcher"
 hiddenInHomeList: true

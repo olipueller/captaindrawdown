@@ -1,7 +1,7 @@
 ---
 title: "Hannah E. Holmes"
 description: "Hannah E. Holmes is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.630418
+date: 2026-07-10T01:07:47.689862
 url: "/cdr-researcher-census/researchers/hannah-e-holmes-a5030635/"
 layout: "researcher"
 hiddenInHomeList: true

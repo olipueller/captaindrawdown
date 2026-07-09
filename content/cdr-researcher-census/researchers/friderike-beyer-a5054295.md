@@ -1,7 +1,7 @@
 ---
 title: "Friderike Beyer"
 description: "Friderike Beyer is a Mid-career Soil Carbon researcher at University of Freiburg in DE. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.405376
+date: 2026-07-10T01:07:47.485324
 url: "/cdr-researcher-census/researchers/friderike-beyer-a5054295/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiangbi Chen"
 description: "Xiangbi Chen is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 107 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.011096
+date: 2026-07-10T01:07:47.074896
 url: "/cdr-researcher-census/researchers/xiangbi-chen-a5036068/"
 layout: "researcher"
 hiddenInHomeList: true

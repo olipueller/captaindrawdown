@@ -1,7 +1,7 @@
 ---
 title: "Peiqing Jing"
 description: "Peiqing Jing is a Mid-career Soil Carbon researcher at Wuhan University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.675473
+date: 2026-07-10T01:07:48.631124
 url: "/cdr-researcher-census/researchers/peiqing-jing-a5068320/"
 layout: "researcher"
 hiddenInHomeList: true

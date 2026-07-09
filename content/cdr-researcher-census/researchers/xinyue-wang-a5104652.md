@@ -1,7 +1,7 @@
 ---
 title: "Xinyue Wang"
 description: "Xinyue Wang is a Mid-career Unknown researcher at Yangtze University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.674926
+date: 2026-07-10T01:07:48.630626
 url: "/cdr-researcher-census/researchers/xinyue-wang-a5104652/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Camilla Di Marcantonio"
 description: "Camilla Di Marcantonio is a Mid-career Biochar researcher at Sapienza University of Rome in IT. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.504971
+date: 2026-07-10T01:07:47.573990
 url: "/cdr-researcher-census/researchers/camilla-di-marcantonio-a5007513/"
 layout: "researcher"
 hiddenInHomeList: true

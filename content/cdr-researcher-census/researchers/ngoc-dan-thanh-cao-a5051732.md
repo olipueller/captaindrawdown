@@ -1,7 +1,7 @@
 ---
 title: "Ngoc Dan Thanh Cao"
 description: "Ngoc Dan Thanh Cao is a Mid-career Unknown researcher at University of Nebraska–Lincoln in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.263723
+date: 2026-07-10T01:07:48.270634
 url: "/cdr-researcher-census/researchers/ngoc-dan-thanh-cao-a5051732/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ashwin Singh"
 description: "Ashwin Singh is a Mid-career Soil Carbon researcher at University of Science and Technology Bannu in PK. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.591261
+date: 2026-07-10T01:07:47.654481
 url: "/cdr-researcher-census/researchers/ashwin-singh-a5027460/"
 layout: "researcher"
 hiddenInHomeList: true

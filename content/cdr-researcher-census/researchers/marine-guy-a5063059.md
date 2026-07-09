@@ -1,7 +1,7 @@
 ---
 title: "Marine Guy"
 description: "Marine Guy is an Early-career Biochar researcher at Chimie ParisTech in FR. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.468167
+date: 2026-07-10T01:07:48.456076
 url: "/cdr-researcher-census/researchers/marine-guy-a5063059/"
 layout: "researcher"
 hiddenInHomeList: true

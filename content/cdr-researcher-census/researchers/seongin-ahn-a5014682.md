@@ -1,7 +1,7 @@
 ---
 title: "Seongin Ahn"
 description: "Seongin Ahn is a Mid-career Unknown researcher at Korea Institute of Geoscience and Mineral Resources in KR. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.078877
+date: 2026-07-10T01:07:48.989787
 url: "/cdr-researcher-census/researchers/seongin-ahn-a5014682/"
 layout: "researcher"
 hiddenInHomeList: true

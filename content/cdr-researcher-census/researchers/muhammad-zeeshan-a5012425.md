@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Zeeshan"
 description: "Muhammad Zeeshan is a Senior General CDR researcher at Massachusetts Institute of Technology in US. With 55 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.141391
+date: 2026-07-10T01:07:47.230284
 url: "/cdr-researcher-census/researchers/muhammad-zeeshan-a5012425/"
 layout: "researcher"
 hiddenInHomeList: true

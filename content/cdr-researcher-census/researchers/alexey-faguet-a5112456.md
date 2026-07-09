@@ -1,7 +1,7 @@
 ---
 title: "Alexey Faguet"
 description: "Alexey Faguet is a Mid-career Unknown researcher at Institute of Petroleum Geology and Geophysics in RU. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.360340
+date: 2026-07-10T01:07:48.358593
 url: "/cdr-researcher-census/researchers/alexey-faguet-a5112456/"
 layout: "researcher"
 hiddenInHomeList: true

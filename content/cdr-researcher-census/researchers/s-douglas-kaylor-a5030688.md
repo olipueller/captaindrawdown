@@ -1,7 +1,7 @@
 ---
 title: "S. Douglas Kaylor"
 description: "S. Douglas Kaylor is a Senior Unknown researcher at Environmental Protection Agency in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.883376
+date: 2026-07-10T01:07:48.810662
 url: "/cdr-researcher-census/researchers/s-douglas-kaylor-a5030688/"
 layout: "researcher"
 hiddenInHomeList: true

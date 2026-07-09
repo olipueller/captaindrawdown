@@ -1,7 +1,7 @@
 ---
 title: "Marion Huguet"
 description: "Marion Huguet is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.975810
+date: 2026-07-10T01:07:48.895772
 url: "/cdr-researcher-census/researchers/marion-huguet-a5052234/"
 layout: "researcher"
 hiddenInHomeList: true

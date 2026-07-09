@@ -1,7 +1,7 @@
 ---
 title: "Bandana Kurmi"
 description: "Bandana Kurmi is a Mid-career Unknown researcher at Tezpur University in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.270009
+date: 2026-07-10T01:07:48.276159
 url: "/cdr-researcher-census/researchers/bandana-kurmi-a5068814/"
 layout: "researcher"
 hiddenInHomeList: true

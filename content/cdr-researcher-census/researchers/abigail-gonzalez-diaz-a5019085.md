@@ -1,7 +1,7 @@
 ---
 title: "Abigail González-Díaz"
 description: "Abigail González-Díaz is a Mid-career General CDR researcher at Instituto de Investigaciones Eléctricas in MX. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.242758
+date: 2026-07-10T01:07:47.328760
 url: "/cdr-researcher-census/researchers/abigail-gonzalez-diaz-a5019085/"
 layout: "researcher"
 hiddenInHomeList: true

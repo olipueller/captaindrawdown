@@ -1,7 +1,7 @@
 ---
 title: "Seung-Hee Gwak"
 description: "Seung-Hee Gwak is a Mid-career General CDR researcher at Pohang University of Science and Technology in KR. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.908635
+date: 2026-07-10T01:07:47.922336
 url: "/cdr-researcher-census/researchers/seung-hee-gwak-a5054298/"
 layout: "researcher"
 hiddenInHomeList: true

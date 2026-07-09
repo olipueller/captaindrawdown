@@ -1,7 +1,7 @@
 ---
 title: "Adane Sirage Ali"
 description: "Adane Sirage Ali is a Mid-career Unknown researcher at Kotebe University of Education in ET. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.102091
+date: 2026-07-10T01:07:49.010612
 url: "/cdr-researcher-census/researchers/adane-sirage-ali-a5078000/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haiyan Jiang"
 description: "Haiyan Jiang is a Mid-career Soil Carbon researcher at Nanjing Tech University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.459727
+date: 2026-07-10T01:07:48.447946
 url: "/cdr-researcher-census/researchers/haiyan-jiang-a5102445/"
 layout: "researcher"
 hiddenInHomeList: true

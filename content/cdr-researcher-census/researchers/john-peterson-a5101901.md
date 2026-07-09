@@ -1,7 +1,7 @@
 ---
 title: "John Peterson"
 description: "John Peterson is a Senior Unknown researcher at Institute for New Economic Thinking in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.869422
+date: 2026-07-10T01:07:48.797919
 url: "/cdr-researcher-census/researchers/john-peterson-a5101901/"
 layout: "researcher"
 hiddenInHomeList: true

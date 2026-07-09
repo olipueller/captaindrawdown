@@ -1,7 +1,7 @@
 ---
 title: "Shiba Shankar Acharya"
 description: "Shiba Shankar Acharya is a Mid-career Unknown researcher at Presidency University in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.234223
+date: 2026-07-10T01:07:48.243928
 url: "/cdr-researcher-census/researchers/shiba-shankar-acharya-a5017602/"
 layout: "researcher"
 hiddenInHomeList: true

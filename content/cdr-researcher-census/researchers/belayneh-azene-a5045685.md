@@ -1,7 +1,7 @@
 ---
 title: "Belayneh Azene"
 description: "Belayneh Azene is a Mid-career Unknown researcher at Xishuangbanna Tropical Botanical Garden in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.919370
+date: 2026-07-10T01:07:48.843267
 url: "/cdr-researcher-census/researchers/belayneh-azene-a5045685/"
 layout: "researcher"
 hiddenInHomeList: true

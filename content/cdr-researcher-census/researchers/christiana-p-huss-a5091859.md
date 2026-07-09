@@ -1,7 +1,7 @@
 ---
 title: "Christiana P. Huss"
 description: "Christiana P. Huss is an Early-career Soil Carbon researcher at University of Georgia in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.256344
+date: 2026-07-10T01:07:48.264330
 url: "/cdr-researcher-census/researchers/christiana-p-huss-a5091859/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gert-Jan Wilbers"
 description: "Gert-Jan Wilbers is a Senior Unknown researcher at Wageningen University & Research in NL. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.016962
+date: 2026-07-10T01:07:48.024552
 url: "/cdr-researcher-census/researchers/gert-jan-wilbers-a5003009/"
 layout: "researcher"
 hiddenInHomeList: true

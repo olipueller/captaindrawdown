@@ -1,7 +1,7 @@
 ---
 title: "Liqun Cai"
 description: "Liqun Cai is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 105 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.127742
+date: 2026-07-10T01:07:47.215427
 url: "/cdr-researcher-census/researchers/liqun-cai-a5110749/"
 layout: "researcher"
 hiddenInHomeList: true

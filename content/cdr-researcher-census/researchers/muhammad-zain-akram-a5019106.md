@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Zain Akram"
 description: "Muhammad Zain Akram is a Senior Unknown researcher at University of Engineering and Technology Lahore in PK. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.280618
+date: 2026-07-10T01:07:47.362697
 url: "/cdr-researcher-census/researchers/muhammad-zain-akram-a5019106/"
 layout: "researcher"
 hiddenInHomeList: true

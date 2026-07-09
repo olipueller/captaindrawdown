@@ -1,7 +1,7 @@
 ---
 title: "Helen M Beddow"
 description: "Helen M Beddow is a Senior Unknown researcher at Utrecht University in NL. With 58 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.631235
+date: 2026-07-10T01:07:47.690720
 url: "/cdr-researcher-census/researchers/helen-m-beddow-a5046687/"
 layout: "researcher"
 hiddenInHomeList: true

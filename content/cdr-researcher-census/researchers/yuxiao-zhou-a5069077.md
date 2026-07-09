@@ -1,7 +1,7 @@
 ---
 title: "Yuxiao Zhou"
 description: "Yuxiao Zhou is a Mid-career Unknown researcher at China Geological Survey in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.918155
+date: 2026-07-10T01:07:48.842241
 url: "/cdr-researcher-census/researchers/yuxiao-zhou-a5069077/"
 layout: "researcher"
 hiddenInHomeList: true

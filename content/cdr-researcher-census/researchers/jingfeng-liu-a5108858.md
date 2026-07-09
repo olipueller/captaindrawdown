@@ -1,7 +1,7 @@
 ---
 title: "Jingfeng Liu"
 description: "Jingfeng Liu is a Senior Unknown researcher at Northwest Normal University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.273871
+date: 2026-07-10T01:07:48.279493
 url: "/cdr-researcher-census/researchers/jingfeng-liu-a5108858/"
 layout: "researcher"
 hiddenInHomeList: true

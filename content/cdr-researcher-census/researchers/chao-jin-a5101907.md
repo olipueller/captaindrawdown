@@ -1,7 +1,7 @@
 ---
 title: "Chao Jin"
 description: "Chao Jin is a Mid-career General CDR researcher at Sun Yat-sen University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.765192
+date: 2026-07-10T01:07:47.815666
 url: "/cdr-researcher-census/researchers/chao-jin-a5101907/"
 layout: "researcher"
 hiddenInHomeList: true

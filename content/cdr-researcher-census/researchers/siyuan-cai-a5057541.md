@@ -1,7 +1,7 @@
 ---
 title: "Siyuan Cai"
 description: "Siyuan Cai is a Mid-career Unknown researcher at Soochow University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.717822
+date: 2026-07-10T01:07:48.667885
 url: "/cdr-researcher-census/researchers/siyuan-cai-a5057541/"
 layout: "researcher"
 hiddenInHomeList: true

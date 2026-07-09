@@ -1,7 +1,7 @@
 ---
 title: "Danwyn J. Aranha"
 description: "Danwyn J. Aranha is an Early-career Biochar researcher at The Ohio State University in US. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.867248
+date: 2026-07-10T01:07:48.796159
 url: "/cdr-researcher-census/researchers/danwyn-j-aranha-a5027557/"
 layout: "researcher"
 hiddenInHomeList: true

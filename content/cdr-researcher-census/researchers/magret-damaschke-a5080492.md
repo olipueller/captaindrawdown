@@ -1,7 +1,7 @@
 ---
 title: "Magret Damaschke"
 description: "Magret Damaschke is a Mid-career Unknown researcher at British Geological Survey in GB. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.721198
+date: 2026-07-10T01:07:47.774481
 url: "/cdr-researcher-census/researchers/magret-damaschke-a5080492/"
 layout: "researcher"
 hiddenInHomeList: true

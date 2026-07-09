@@ -1,7 +1,7 @@
 ---
 title: "Sukeewan Detyothin"
 description: "Sukeewan Detyothin is a Senior Unknown researcher at Naresuan University in TH. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.495263
+date: 2026-07-10T01:07:48.480788
 url: "/cdr-researcher-census/researchers/sukeewan-detyothin-a5047108/"
 layout: "researcher"
 hiddenInHomeList: true

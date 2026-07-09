@@ -1,7 +1,7 @@
 ---
 title: "Sumin Yu"
 description: "Sumin Yu is a Mid-career General CDR researcher at Yangzhou University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.132849
+date: 2026-07-10T01:07:49.036961
 url: "/cdr-researcher-census/researchers/sumin-yu-a5111101/"
 layout: "researcher"
 hiddenInHomeList: true

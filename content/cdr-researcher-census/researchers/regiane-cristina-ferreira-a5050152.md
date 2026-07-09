@@ -1,7 +1,7 @@
 ---
 title: "Regiane Cristina Ferreira"
 description: "Regiane Cristina Ferreira is a Mid-career Biochar researcher at Centro Universitario de Maringa Curso de Medicina in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.214696
+date: 2026-07-10T01:07:48.226797
 url: "/cdr-researcher-census/researchers/regiane-cristina-ferreira-a5050152/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Friedemann Mörs"
 description: "Friedemann Mörs is a Senior General CDR researcher. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.011587
+date: 2026-07-10T01:07:47.075571
 url: "/cdr-researcher-census/researchers/friedemann-mors-a5060781/"
 layout: "researcher"
 hiddenInHomeList: true

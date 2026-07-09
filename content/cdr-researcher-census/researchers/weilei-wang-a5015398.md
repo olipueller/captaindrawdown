@@ -1,7 +1,7 @@
 ---
 title: "Wei‐Lei Wang"
 description: "Wei‐Lei Wang is a Senior Ocean CDR researcher at Xiamen University in CN. With 88 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.197642
+date: 2026-07-10T01:07:47.286843
 url: "/cdr-researcher-census/researchers/weilei-wang-a5015398/"
 layout: "researcher"
 hiddenInHomeList: true

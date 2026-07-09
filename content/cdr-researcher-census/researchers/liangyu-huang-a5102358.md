@@ -1,7 +1,7 @@
 ---
 title: "Liangyu Huang"
 description: "Liangyu Huang is a Mid-career Unknown researcher at Ministry of Education in BD. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.544811
+date: 2026-07-10T01:07:48.525668
 url: "/cdr-researcher-census/researchers/liangyu-huang-a5102358/"
 layout: "researcher"
 hiddenInHomeList: true

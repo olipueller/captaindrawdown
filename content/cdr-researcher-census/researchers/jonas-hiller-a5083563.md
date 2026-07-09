@@ -1,7 +1,7 @@
 ---
 title: "Jonas Hiller"
 description: "Jonas Hiller is a Mid-career General CDR researcher at University of Tübingen in DE. With 32 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.202575
+date: 2026-07-10T01:07:49.115348
 url: "/cdr-researcher-census/researchers/jonas-hiller-a5083563/"
 layout: "researcher"
 hiddenInHomeList: true

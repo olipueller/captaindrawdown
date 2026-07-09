@@ -1,7 +1,7 @@
 ---
 title: "Heang Kuan Joel Tan"
 description: "Heang Kuan Joel Tan is a Mid-career General CDR researcher at Nanyang Technological University in SG. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.117517
+date: 2026-07-10T01:07:47.204483
 url: "/cdr-researcher-census/researchers/heang-kuan-joel-tan-a5044472/"
 layout: "researcher"
 hiddenInHomeList: true

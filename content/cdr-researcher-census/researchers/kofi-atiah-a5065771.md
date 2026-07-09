@@ -1,7 +1,7 @@
 ---
 title: "Kofi Atiah"
 description: "Kofi Atiah is a Mid-career Soil Carbon researcher at University of Cape Coast in GH. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.761932
+date: 2026-07-10T01:07:47.812538
 url: "/cdr-researcher-census/researchers/kofi-atiah-a5065771/"
 layout: "researcher"
 hiddenInHomeList: true

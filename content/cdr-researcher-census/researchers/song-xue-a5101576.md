@@ -1,7 +1,7 @@
 ---
 title: "Song Xue"
 description: "Song Xue is a Senior Soil Carbon researcher at Henan University of Technology in CN. With 40 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.248632
+date: 2026-07-10T01:07:47.333525
 url: "/cdr-researcher-census/researchers/song-xue-a5101576/"
 layout: "researcher"
 hiddenInHomeList: true

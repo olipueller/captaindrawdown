@@ -1,7 +1,7 @@
 ---
 title: "Wenes Ramos da Silva"
 description: "Wenes Ramos da Silva is a Mid-career Biochar researcher at Universidade Federal de Sergipe in BR. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.459021
+date: 2026-07-10T01:07:48.447284
 url: "/cdr-researcher-census/researchers/wenes-ramos-da-silva-a5022775/"
 layout: "researcher"
 hiddenInHomeList: true

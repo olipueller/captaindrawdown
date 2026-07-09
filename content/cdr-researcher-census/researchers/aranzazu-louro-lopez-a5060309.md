@@ -1,7 +1,7 @@
 ---
 title: "Aranzazu Louro-Lopez"
 description: "Aranzazu Louro-Lopez is a Mid-career Unknown researcher at Rothamsted Research in GB. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.628027
+date: 2026-07-10T01:07:48.588220
 url: "/cdr-researcher-census/researchers/aranzazu-louro-lopez-a5060309/"
 layout: "researcher"
 hiddenInHomeList: true

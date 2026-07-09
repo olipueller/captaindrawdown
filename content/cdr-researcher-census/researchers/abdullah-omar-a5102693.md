@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Omar"
 description: "Abdullah Omar is a Mid-career Unknown researcher at Qatar University in QA. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.383376
+date: 2026-07-10T01:07:48.378589
 url: "/cdr-researcher-census/researchers/abdullah-omar-a5102693/"
 layout: "researcher"
 hiddenInHomeList: true

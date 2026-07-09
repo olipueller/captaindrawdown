@@ -1,7 +1,7 @@
 ---
 title: "Katsuhiro Yoshizawa"
 description: "Katsuhiro Yoshizawa is a Senior General CDR researcher at Kawasaki Heavy Industries (Japan) in JP. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.156891
+date: 2026-07-10T01:07:48.175892
 url: "/cdr-researcher-census/researchers/katsuhiro-yoshizawa-a5110166/"
 layout: "researcher"
 hiddenInHomeList: true

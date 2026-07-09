@@ -1,7 +1,7 @@
 ---
 title: "Carlos Arnaiz del Pozo"
 description: "Carlos Arnaiz del Pozo is a Mid-career General CDR researcher at Universidad Politécnica de Madrid in ES. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.358735
+date: 2026-07-10T01:07:47.440614
 url: "/cdr-researcher-census/researchers/carlos-arnaiz-del-pozo-a5057648/"
 layout: "researcher"
 hiddenInHomeList: true

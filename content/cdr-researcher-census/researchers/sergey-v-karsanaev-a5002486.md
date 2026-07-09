@@ -1,7 +1,7 @@
 ---
 title: "Sergey V. Karsanaev"
 description: "Sergey V. Karsanaev is a Senior Soil Carbon researcher at Russian Academy of Sciences in RU. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.393802
+date: 2026-07-10T01:07:47.474883
 url: "/cdr-researcher-census/researchers/sergey-v-karsanaev-a5002486/"
 layout: "researcher"
 hiddenInHomeList: true

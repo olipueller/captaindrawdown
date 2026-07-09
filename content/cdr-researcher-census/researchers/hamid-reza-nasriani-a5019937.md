@@ -1,7 +1,7 @@
 ---
 title: "Hamid Reza Nasriani"
 description: "Hamid Reza Nasriani is a Mid-career DAC researcher at University of Central Lancashire in GB. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.488412
+date: 2026-07-10T01:07:47.559677
 url: "/cdr-researcher-census/researchers/hamid-reza-nasriani-a5019937/"
 layout: "researcher"
 hiddenInHomeList: true

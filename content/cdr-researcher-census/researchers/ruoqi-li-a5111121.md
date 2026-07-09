@@ -1,7 +1,7 @@
 ---
 title: "Ruoqi Li"
 description: "Ruoqi Li is a Mid-career Unknown researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.009116
+date: 2026-07-10T01:07:48.926357
 url: "/cdr-researcher-census/researchers/ruoqi-li-a5111121/"
 layout: "researcher"
 hiddenInHomeList: true

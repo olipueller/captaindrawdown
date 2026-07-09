@@ -1,7 +1,7 @@
 ---
 title: "George P. Lithoxoos"
 description: "George P. Lithoxoos is a Senior DAC researcher at Innovation Research Center in US. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.444150
+date: 2026-07-10T01:07:47.520096
 url: "/cdr-researcher-census/researchers/george-p-lithoxoos-a5057115/"
 layout: "researcher"
 hiddenInHomeList: true

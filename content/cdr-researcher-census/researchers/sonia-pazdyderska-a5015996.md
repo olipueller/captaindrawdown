@@ -1,7 +1,7 @@
 ---
 title: "Sonia Paź‐Dyderska"
 description: "Sonia Paź‐Dyderska is a Mid-career Unknown researcher at Institute of Dendrology in PL. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.187219
+date: 2026-07-10T01:07:47.276153
 url: "/cdr-researcher-census/researchers/sonia-pazdyderska-a5015996/"
 layout: "researcher"
 hiddenInHomeList: true

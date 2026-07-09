@@ -1,7 +1,7 @@
 ---
 title: "Clara Bachorz"
 description: "Clara Bachorz is a Mid-career General CDR researcher at Leibniz Association in DE. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.103671
+date: 2026-07-10T01:07:49.011859
 url: "/cdr-researcher-census/researchers/clara-bachorz-a5025472/"
 layout: "researcher"
 hiddenInHomeList: true

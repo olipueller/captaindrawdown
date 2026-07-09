@@ -1,7 +1,7 @@
 ---
 title: "Jiexia Li"
 description: "Jiexia Li is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.655671
+date: 2026-07-10T01:07:48.613536
 url: "/cdr-researcher-census/researchers/jiexia-li-a5025542/"
 layout: "researcher"
 hiddenInHomeList: true

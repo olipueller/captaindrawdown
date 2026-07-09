@@ -1,7 +1,7 @@
 ---
 title: "Qingqing Cao"
 description: "Qingqing Cao is a Senior Soil Carbon researcher at Education and Early Childhood Development in CA. With 63 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.022392
+date: 2026-07-10T01:07:47.089403
 url: "/cdr-researcher-census/researchers/qingqing-cao-a5003096/"
 layout: "researcher"
 hiddenInHomeList: true

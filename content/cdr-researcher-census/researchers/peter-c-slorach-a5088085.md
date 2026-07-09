@@ -1,7 +1,7 @@
 ---
 title: "Peter C. Slorach"
 description: "Peter C. Slorach is a Mid-career Unknown researcher at University of Manchester in GB. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.317811
+date: 2026-07-10T01:07:47.400060
 url: "/cdr-researcher-census/researchers/peter-c-slorach-a5088085/"
 layout: "researcher"
 hiddenInHomeList: true

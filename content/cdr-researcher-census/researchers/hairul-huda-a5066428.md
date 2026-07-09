@@ -1,7 +1,7 @@
 ---
 title: "Hairul Huda"
 description: "Hairul Huda is a Mid-career Unknown researcher at Mulawarman University in ID. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.010028
+date: 2026-07-10T01:07:48.927196
 url: "/cdr-researcher-census/researchers/hairul-huda-a5066428/"
 layout: "researcher"
 hiddenInHomeList: true

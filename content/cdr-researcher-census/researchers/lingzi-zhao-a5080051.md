@@ -1,7 +1,7 @@
 ---
 title: "Lingzi Zhao"
 description: "Lingzi Zhao is a Senior Unknown researcher at Vaughn College of Aeronautics and Technology in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.399325
+date: 2026-07-10T01:07:48.391341
 url: "/cdr-researcher-census/researchers/lingzi-zhao-a5080051/"
 layout: "researcher"
 hiddenInHomeList: true

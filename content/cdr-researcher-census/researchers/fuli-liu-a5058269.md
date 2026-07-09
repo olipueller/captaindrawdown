@@ -1,7 +1,7 @@
 ---
 title: "Fu‐Li Liu"
 description: "Fu‐Li Liu is an Early-career Ocean CDR researcher at Ocean University of China in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.421701
+date: 2026-07-10T01:07:48.412234
 url: "/cdr-researcher-census/researchers/fuli-liu-a5058269/"
 layout: "researcher"
 hiddenInHomeList: true

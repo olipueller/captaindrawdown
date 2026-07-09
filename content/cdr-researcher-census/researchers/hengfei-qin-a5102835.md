@@ -1,7 +1,7 @@
 ---
 title: "Hengfei Qin"
 description: "Hengfei Qin is a Mid-career Biochar researcher at Jiangsu University of Technology in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.357704
+date: 2026-07-10T01:07:47.439821
 url: "/cdr-researcher-census/researchers/hengfei-qin-a5102835/"
 layout: "researcher"
 hiddenInHomeList: true

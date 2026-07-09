@@ -1,7 +1,7 @@
 ---
 title: "Abhas Kumar Sinha"
 description: "Abhas Kumar Sinha is a Senior Soil Carbon researcher at Uttar Banga Krishi Viswavidyalaya in IN. With 65 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.508646
+date: 2026-07-10T01:07:47.577512
 url: "/cdr-researcher-census/researchers/abhas-kumar-sinha-a5103078/"
 layout: "researcher"
 hiddenInHomeList: true

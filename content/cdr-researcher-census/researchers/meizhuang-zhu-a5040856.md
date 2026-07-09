@@ -1,7 +1,7 @@
 ---
 title: "Meizhuang Zhu"
 description: "Meizhuang Zhu is a Mid-career Unknown researcher at Southern University of Science and Technology in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.624466
+date: 2026-07-10T01:07:48.585100
 url: "/cdr-researcher-census/researchers/meizhuang-zhu-a5040856/"
 layout: "researcher"
 hiddenInHomeList: true

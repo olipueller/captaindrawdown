@@ -1,7 +1,7 @@
 ---
 title: "Neil V. Ress"
 description: "Neil V. Ress is an Early-career General CDR researcher at University of Birmingham in GB. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.385047
+date: 2026-07-10T01:07:48.379914
 url: "/cdr-researcher-census/researchers/neil-v-ress-a5067247/"
 layout: "researcher"
 hiddenInHomeList: true

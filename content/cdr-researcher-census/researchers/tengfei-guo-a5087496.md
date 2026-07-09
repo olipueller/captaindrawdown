@@ -1,7 +1,7 @@
 ---
 title: "Tengfei Guo"
 description: "Tengfei Guo is a Mid-career Soil Carbon researcher at Henan Academy of Agricultural Sciences in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.601401
+date: 2026-07-10T01:07:47.663363
 url: "/cdr-researcher-census/researchers/tengfei-guo-a5087496/"
 layout: "researcher"
 hiddenInHomeList: true

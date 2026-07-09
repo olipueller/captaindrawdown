@@ -1,7 +1,7 @@
 ---
 title: "Zongyu Li"
 description: "Zongyu Li is a Mid-career Unknown researcher at Wuhan University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.134376
+date: 2026-07-10T01:07:49.038319
 url: "/cdr-researcher-census/researchers/zongyu-li-a5079682/"
 layout: "researcher"
 hiddenInHomeList: true

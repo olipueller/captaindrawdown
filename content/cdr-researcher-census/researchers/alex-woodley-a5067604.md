@@ -1,7 +1,7 @@
 ---
 title: "Alex Woodley"
 description: "Alex Woodley is a Mid-career Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 51 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.472799
+date: 2026-07-10T01:07:47.545185
 url: "/cdr-researcher-census/researchers/alex-woodley-a5067604/"
 layout: "researcher"
 hiddenInHomeList: true

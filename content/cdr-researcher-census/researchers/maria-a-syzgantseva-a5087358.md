@@ -1,7 +1,7 @@
 ---
 title: "Maria A. Syzgantseva"
 description: "Maria A. Syzgantseva is a Senior Unknown researcher at Mendeleev University of Chemical Technology in RU. With 37 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.095303
+date: 2026-07-10T01:07:47.178122
 url: "/cdr-researcher-census/researchers/maria-a-syzgantseva-a5087358/"
 layout: "researcher"
 hiddenInHomeList: true

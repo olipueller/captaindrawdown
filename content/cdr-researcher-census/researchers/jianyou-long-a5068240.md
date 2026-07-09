@@ -1,7 +1,7 @@
 ---
 title: "Jianyou Long"
 description: "Jianyou Long is a Senior Biochar researcher at Guangzhou University in CN. With 92 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.984158
+date: 2026-07-10T01:07:47.035977
 url: "/cdr-researcher-census/researchers/jianyou-long-a5068240/"
 layout: "researcher"
 hiddenInHomeList: true

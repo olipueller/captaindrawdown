@@ -1,7 +1,7 @@
 ---
 title: "Shanlong Tao"
 description: "Shanlong Tao is a Mid-career Unknown researcher at Shanghai Jiao Tong University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.411396
+date: 2026-07-10T01:07:48.402713
 url: "/cdr-researcher-census/researchers/shanlong-tao-a5035150/"
 layout: "researcher"
 hiddenInHomeList: true

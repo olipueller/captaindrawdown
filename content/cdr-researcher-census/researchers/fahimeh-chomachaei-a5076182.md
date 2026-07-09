@@ -1,7 +1,7 @@
 ---
 title: "Fahimeh Chomachaei"
 description: "Fahimeh Chomachaei is a Mid-career Unknown researcher at University of Massachusetts Boston in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.966521
+date: 2026-07-10T01:07:48.887240
 url: "/cdr-researcher-census/researchers/fahimeh-chomachaei-a5076182/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yilin Yang"
 description: "Yilin Yang is a Mid-career Enhanced Weathering researcher at Xinjiang Normal University in CN. With 44 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.719408
+date: 2026-07-10T01:07:47.772897
 url: "/cdr-researcher-census/researchers/yilin-yang-a5115594/"
 layout: "researcher"
 hiddenInHomeList: true

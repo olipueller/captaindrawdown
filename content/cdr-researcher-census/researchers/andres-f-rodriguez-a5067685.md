@@ -1,7 +1,7 @@
 ---
 title: "Andres F. Rodriguez"
 description: "Andres F. Rodriguez is a Senior Soil Carbon researcher at Aarhus University in DK. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.037040
+date: 2026-07-10T01:07:48.951576
 url: "/cdr-researcher-census/researchers/andres-f-rodriguez-a5067685/"
 layout: "researcher"
 hiddenInHomeList: true

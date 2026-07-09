@@ -1,7 +1,7 @@
 ---
 title: "David Baah"
 description: "David Baah is a Senior General CDR researcher at Tuskegee University in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.635203
+date: 2026-07-10T01:07:47.694763
 url: "/cdr-researcher-census/researchers/david-baah-a5084521/"
 layout: "researcher"
 hiddenInHomeList: true

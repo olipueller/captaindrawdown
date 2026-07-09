@@ -1,7 +1,7 @@
 ---
 title: "Marwa Darweesh"
 description: "Marwa Darweesh is a Senior Unknown researcher at Al-Azhar University in EG. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.949080
+date: 2026-07-10T01:07:48.870934
 url: "/cdr-researcher-census/researchers/marwa-darweesh-a5040493/"
 layout: "researcher"
 hiddenInHomeList: true

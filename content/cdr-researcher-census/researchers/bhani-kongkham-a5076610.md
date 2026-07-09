@@ -1,7 +1,7 @@
 ---
 title: "Bhani Kongkham"
 description: "Bhani Kongkham is a Mid-career Soil Carbon researcher at Galgotias University in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.228229
+date: 2026-07-10T01:07:48.238533
 url: "/cdr-researcher-census/researchers/bhani-kongkham-a5076610/"
 layout: "researcher"
 hiddenInHomeList: true

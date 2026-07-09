@@ -1,7 +1,7 @@
 ---
 title: "Ayushman Malakar"
 description: "Ayushman Malakar is a Mid-career General CDR researcher at Indian Council of Forestry Research and Education in IN. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.951682
+date: 2026-07-10T01:07:48.873498
 url: "/cdr-researcher-census/researchers/ayushman-malakar-a5039118/"
 layout: "researcher"
 hiddenInHomeList: true

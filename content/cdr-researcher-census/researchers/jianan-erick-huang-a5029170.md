@@ -1,7 +1,7 @@
 ---
 title: "Jianan Erick Huang"
 description: "Jianan Erick Huang is a Senior General CDR researcher at Northwestern University in US. With 72 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.911716
+date: 2026-07-10T01:07:46.911294
 url: "/cdr-researcher-census/researchers/jianan-erick-huang-a5029170/"
 layout: "researcher"
 hiddenInHomeList: true

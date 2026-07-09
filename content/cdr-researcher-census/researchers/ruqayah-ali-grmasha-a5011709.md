@@ -1,7 +1,7 @@
 ---
 title: "Ruqayah Ali Grmasha"
 description: "Ruqayah Ali Grmasha is a Mid-career Soil Carbon researcher at University of Pannonia in HU. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.388130
+date: 2026-07-10T01:07:47.468975
 url: "/cdr-researcher-census/researchers/ruqayah-ali-grmasha-a5011709/"
 layout: "researcher"
 hiddenInHomeList: true

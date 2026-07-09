@@ -1,7 +1,7 @@
 ---
 title: "Hsing‐Jung Ho"
 description: "Hsing‐Jung Ho is a Mid-career General CDR researcher at Tohoku University in JP. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.109924
+date: 2026-07-10T01:07:47.195510
 url: "/cdr-researcher-census/researchers/hsingjung-ho-a5053870/"
 layout: "researcher"
 hiddenInHomeList: true

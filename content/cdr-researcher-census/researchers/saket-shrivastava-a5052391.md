@@ -1,7 +1,7 @@
 ---
 title: "Saket Shrivastava"
 description: "Saket Shrivastava is an Early-career General CDR researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.976697
+date: 2026-07-10T01:07:47.986602
 url: "/cdr-researcher-census/researchers/saket-shrivastava-a5052391/"
 layout: "researcher"
 hiddenInHomeList: true

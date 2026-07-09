@@ -1,7 +1,7 @@
 ---
 title: "Francisco F.C. Mello"
 description: "Francisco F.C. Mello is a Mid-career Soil Carbon researcher at Inter-American Institute in UY. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.608512
+date: 2026-07-10T01:07:47.670170
 url: "/cdr-researcher-census/researchers/francisco-fc-mello-a5004623/"
 layout: "researcher"
 hiddenInHomeList: true

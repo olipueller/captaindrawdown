@@ -1,7 +1,7 @@
 ---
 title: "Marko Šolić"
 description: "Marko Šolić is a Mid-career General CDR researcher at University of Novi Sad in RS. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.034113
+date: 2026-07-10T01:07:48.040721
 url: "/cdr-researcher-census/researchers/marko-solic-a5068676/"
 layout: "researcher"
 hiddenInHomeList: true

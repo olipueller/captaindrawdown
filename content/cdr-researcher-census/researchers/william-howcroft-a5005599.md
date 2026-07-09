@@ -1,7 +1,7 @@
 ---
 title: "William Howcroft"
 description: "William Howcroft is a Senior Unknown researcher at Charles Darwin University in AU. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.977325
+date: 2026-07-10T01:07:48.897386
 url: "/cdr-researcher-census/researchers/william-howcroft-a5005599/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gopal Anand Iyer"
 description: "Gopal Anand Iyer is an Early-career Unknown researcher. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.429557
+date: 2026-07-10T01:07:48.419653
 url: "/cdr-researcher-census/researchers/gopal-anand-iyer-a5031137/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sotiris Papadelis"
 description: "Sotiris Papadelis is a Mid-career General CDR researcher at Hippocration General Hospital in GR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.173116
+date: 2026-07-10T01:07:47.262493
 url: "/cdr-researcher-census/researchers/sotiris-papadelis-a5014043/"
 layout: "researcher"
 hiddenInHomeList: true

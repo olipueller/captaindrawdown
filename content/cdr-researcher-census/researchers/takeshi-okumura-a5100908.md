@@ -1,7 +1,7 @@
 ---
 title: "Takeshi Okumura"
 description: "Takeshi Okumura is a Senior General CDR researcher at Kawasaki Heavy Industries (Japan) in JP. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.662260
+date: 2026-07-10T01:07:47.719712
 url: "/cdr-researcher-census/researchers/takeshi-okumura-a5100908/"
 layout: "researcher"
 hiddenInHomeList: true

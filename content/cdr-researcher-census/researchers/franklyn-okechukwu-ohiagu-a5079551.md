@@ -1,7 +1,7 @@
 ---
 title: "Franklyn Okechukwu Ohiagu"
 description: "Franklyn Okechukwu Ohiagu is a Mid-career Unknown researcher at Federal University of Technology Owerri in NG. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.660587
+date: 2026-07-10T01:07:47.718143
 url: "/cdr-researcher-census/researchers/franklyn-okechukwu-ohiagu-a5079551/"
 layout: "researcher"
 hiddenInHomeList: true

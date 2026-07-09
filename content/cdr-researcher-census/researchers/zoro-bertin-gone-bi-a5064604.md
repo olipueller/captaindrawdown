@@ -1,7 +1,7 @@
 ---
 title: "Zoro Bertin Goné Bi"
 description: "Zoro Bertin Goné Bi is a Senior Unknown researcher at Swiss Centre for Scientific Research in CI. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.108466
+date: 2026-07-10T01:07:48.134289
 url: "/cdr-researcher-census/researchers/zoro-bertin-gone-bi-a5064604/"
 layout: "researcher"
 hiddenInHomeList: true

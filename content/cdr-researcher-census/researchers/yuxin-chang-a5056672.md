@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Chang"
 description: "Yuxin Chang is an Early-career Unknown researcher at University of Toronto in CA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.420163
+date: 2026-07-10T01:07:47.499335
 url: "/cdr-researcher-census/researchers/yuxin-chang-a5056672/"
 layout: "researcher"
 hiddenInHomeList: true

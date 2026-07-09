@@ -1,7 +1,7 @@
 ---
 title: "Yooseob Won"
 description: "Yooseob Won is a Mid-career DAC researcher at Konkuk University in KR. With 46 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.554175
+date: 2026-07-10T01:07:47.618440
 url: "/cdr-researcher-census/researchers/yooseob-won-a5018986/"
 layout: "researcher"
 hiddenInHomeList: true

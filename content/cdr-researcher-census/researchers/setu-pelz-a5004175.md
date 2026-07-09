@@ -1,7 +1,7 @@
 ---
 title: "Setu Pelz"
 description: "Setu Pelz is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 93 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.424485
+date: 2026-07-10T01:07:47.503018
 url: "/cdr-researcher-census/researchers/setu-pelz-a5004175/"
 layout: "researcher"
 hiddenInHomeList: true

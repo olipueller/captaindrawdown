@@ -1,7 +1,7 @@
 ---
 title: "Zheng Gang Guo"
 description: "Zheng Gang Guo is a Senior Soil Carbon researcher at Ministry of Agriculture in CN. With 109 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.119645
+date: 2026-07-10T01:07:47.206502
 url: "/cdr-researcher-census/researchers/zheng-gang-guo-a5043788/"
 layout: "researcher"
 hiddenInHomeList: true

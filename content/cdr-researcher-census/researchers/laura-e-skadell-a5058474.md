@@ -1,7 +1,7 @@
 ---
 title: "Laura E. Skadell"
 description: "Laura E. Skadell is a Mid-career Unknown researcher at Johann Heinrich von Thünen-Institut in DE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.530621
+date: 2026-07-10T01:07:48.513472
 url: "/cdr-researcher-census/researchers/laura-e-skadell-a5058474/"
 layout: "researcher"
 hiddenInHomeList: true

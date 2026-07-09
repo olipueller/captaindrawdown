@@ -1,7 +1,7 @@
 ---
 title: "Elena Magenau"
 description: "Elena Magenau is a Mid-career BECCS researcher at University of Hohenheim in DE. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.000757
+date: 2026-07-10T01:07:48.010055
 url: "/cdr-researcher-census/researchers/elena-magenau-a5032837/"
 layout: "researcher"
 hiddenInHomeList: true

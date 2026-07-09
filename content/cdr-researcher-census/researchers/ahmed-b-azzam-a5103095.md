@@ -1,7 +1,7 @@
 ---
 title: "Ahmed B. Azzam"
 description: "Ahmed B. Azzam is a Senior Biochar researcher at Helwan University in EG. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.858647
+date: 2026-07-10T01:07:47.894062
 url: "/cdr-researcher-census/researchers/ahmed-b-azzam-a5103095/"
 layout: "researcher"
 hiddenInHomeList: true

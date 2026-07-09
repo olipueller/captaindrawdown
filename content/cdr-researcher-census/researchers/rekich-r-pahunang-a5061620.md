@@ -1,7 +1,7 @@
 ---
 title: "Rekich R. Pahunang"
 description: "Rekich R. Pahunang is a Mid-career General CDR researcher at Caraga State University in PH. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.704787
+date: 2026-07-10T01:07:48.657220
 url: "/cdr-researcher-census/researchers/rekich-r-pahunang-a5061620/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Salma Aziz"
 description: "Salma Aziz is a Mid-career Unknown researcher at Mirpur University of Science and Technology in PK. With 8 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.484652
+date: 2026-07-10T01:07:48.471179
 url: "/cdr-researcher-census/researchers/salma-aziz-a5016572/"
 layout: "researcher"
 hiddenInHomeList: true

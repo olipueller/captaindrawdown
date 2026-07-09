@@ -1,7 +1,7 @@
 ---
 title: "Jack Shepherd"
 description: "Jack Shepherd is an Early-career General CDR researcher at UNSW Sydney in AU. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.049061
+date: 2026-07-10T01:07:48.962542
 url: "/cdr-researcher-census/researchers/jack-shepherd-a5083856/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Roisin O’Riordan"
 description: "Roisin O’Riordan is a Mid-career Unknown researcher at Lancaster University in GB. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.210845
+date: 2026-07-10T01:07:48.223637
 url: "/cdr-researcher-census/researchers/roisin-oriordan-a5014760/"
 layout: "researcher"
 hiddenInHomeList: true

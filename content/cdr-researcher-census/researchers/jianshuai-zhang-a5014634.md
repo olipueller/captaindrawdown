@@ -1,7 +1,7 @@
 ---
 title: "Jianshuai Zhang"
 description: "Jianshuai Zhang is a Mid-career Unknown researcher at Southern University of Science and Technology in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.938918
+date: 2026-07-10T01:07:48.861749
 url: "/cdr-researcher-census/researchers/jianshuai-zhang-a5014634/"
 layout: "researcher"
 hiddenInHomeList: true

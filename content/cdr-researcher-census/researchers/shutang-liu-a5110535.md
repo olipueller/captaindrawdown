@@ -1,7 +1,7 @@
 ---
 title: "Shutang Liu"
 description: "Shutang Liu is a Senior Soil Carbon researcher at Qingdao University in CN. With 45 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.401477
+date: 2026-07-10T01:07:47.481971
 url: "/cdr-researcher-census/researchers/shutang-liu-a5110535/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Huangwei Chen"
 description: "Huangwei Chen is a Mid-career Unknown researcher at Jiangsu University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.550280
+date: 2026-07-10T01:07:48.530394
 url: "/cdr-researcher-census/researchers/huangwei-chen-a5043782/"
 layout: "researcher"
 hiddenInHomeList: true

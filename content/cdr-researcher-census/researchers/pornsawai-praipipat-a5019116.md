@@ -1,7 +1,7 @@
 ---
 title: "Pornsawai Praipipat"
 description: "Pornsawai Praipipat is a Senior Unknown researcher at Khon Kaen University in TH. With 36 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.316829
+date: 2026-07-10T01:07:47.399140
 url: "/cdr-researcher-census/researchers/pornsawai-praipipat-a5019116/"
 layout: "researcher"
 hiddenInHomeList: true

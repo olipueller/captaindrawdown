@@ -1,7 +1,7 @@
 ---
 title: "Pauline Austin"
 description: "Pauline Austin is a Mid-career Unknown researcher at NHS Tayside in GB. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.014533
+date: 2026-07-10T01:07:47.079662
 url: "/cdr-researcher-census/researchers/pauline-austin-a5030301/"
 layout: "researcher"
 hiddenInHomeList: true

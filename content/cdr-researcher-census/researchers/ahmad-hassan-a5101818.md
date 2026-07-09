@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Hassan"
 description: "Ahmad Hassan is a Mid-career Ocean CDR researcher at University of Houston in US. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.963707
+date: 2026-07-10T01:07:48.884762
 url: "/cdr-researcher-census/researchers/ahmad-hassan-a5101818/"
 layout: "researcher"
 hiddenInHomeList: true

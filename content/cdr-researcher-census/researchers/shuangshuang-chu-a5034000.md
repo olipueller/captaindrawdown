@@ -1,7 +1,7 @@
 ---
 title: "Shuangshuang Chu"
 description: "Shuangshuang Chu is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.888460
+date: 2026-07-10T01:07:47.903304
 url: "/cdr-researcher-census/researchers/shuangshuang-chu-a5034000/"
 layout: "researcher"
 hiddenInHomeList: true

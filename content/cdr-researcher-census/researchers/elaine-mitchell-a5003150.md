@@ -1,7 +1,7 @@
 ---
 title: "Elaine Mitchell"
 description: "Elaine Mitchell is a Senior Soil Carbon researcher at Queensland University of Technology in AU. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.070998
+date: 2026-07-10T01:07:48.073716
 url: "/cdr-researcher-census/researchers/elaine-mitchell-a5003150/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Chen"
 description: "Yuxin Chen is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.946475
+date: 2026-07-10T01:07:47.958404
 url: "/cdr-researcher-census/researchers/yuxin-chen-a5042176/"
 layout: "researcher"
 hiddenInHomeList: true

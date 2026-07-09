@@ -1,7 +1,7 @@
 ---
 title: "Yue Miao"
 description: "Yue Miao is a Senior Soil Carbon researcher at Jilin Agricultural University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.348271
+date: 2026-07-10T01:07:48.346859
 url: "/cdr-researcher-census/researchers/yue-miao-a5028196/"
 layout: "researcher"
 hiddenInHomeList: true

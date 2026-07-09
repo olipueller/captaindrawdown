@@ -1,7 +1,7 @@
 ---
 title: "Mijndert van der Spek"
 description: "Mijndert van der Spek is a Senior General CDR researcher at ETH Zürich in CH. With 124 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.997903
+date: 2026-07-10T01:07:47.057696
 url: "/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/"
 layout: "researcher"
 hiddenInHomeList: true

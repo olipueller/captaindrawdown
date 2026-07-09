@@ -1,7 +1,7 @@
 ---
 title: "Donald T. Monteith"
 description: "Donald T. Monteith is a Senior Unknown researcher at UK Centre for Ecology & Hydrology in GB. With 24 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.022718
+date: 2026-07-10T01:07:47.089900
 url: "/cdr-researcher-census/researchers/donald-t-monteith-a5109182/"
 layout: "researcher"
 hiddenInHomeList: true

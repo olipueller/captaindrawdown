@@ -1,7 +1,7 @@
 ---
 title: "Linfang Xu"
 description: "Linfang Xu is a Mid-career Unknown researcher at Nanjing Tech University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.051303
+date: 2026-07-10T01:07:48.964930
 url: "/cdr-researcher-census/researchers/linfang-xu-a5100970/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Suryateja Pottipati"
 description: "Suryateja Pottipati is a Mid-career Unknown researcher at Indian Institute of Technology Guwahati in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.464197
+date: 2026-07-10T01:07:48.452006
 url: "/cdr-researcher-census/researchers/suryateja-pottipati-a5046979/"
 layout: "researcher"
 hiddenInHomeList: true

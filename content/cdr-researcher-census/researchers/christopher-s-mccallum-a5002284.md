@@ -1,7 +1,7 @@
 ---
 title: "Christopher S. McCallum"
 description: "Christopher S. McCallum is a Mid-career Unknown researcher at Queen's University Belfast in GB. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.400470
+date: 2026-07-10T01:07:48.392336
 url: "/cdr-researcher-census/researchers/christopher-s-mccallum-a5002284/"
 layout: "researcher"
 hiddenInHomeList: true

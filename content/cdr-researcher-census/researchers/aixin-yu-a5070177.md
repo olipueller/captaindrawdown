@@ -1,7 +1,7 @@
 ---
 title: "Aixin Yu"
 description: "Aixin Yu is a Mid-career Biochar researcher at Donghua University in CN. With 4 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.021368
+date: 2026-07-10T01:07:48.937284
 url: "/cdr-researcher-census/researchers/aixin-yu-a5070177/"
 layout: "researcher"
 hiddenInHomeList: true

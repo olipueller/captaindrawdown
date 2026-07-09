@@ -1,7 +1,7 @@
 ---
 title: "A. S. Meyer"
 description: "A. S. Meyer is a Senior General CDR researcher at United States Army Institute of Surgical Research in US. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.685637
+date: 2026-07-10T01:07:47.741976
 url: "/cdr-researcher-census/researchers/a-s-meyer-a5109714/"
 layout: "researcher"
 hiddenInHomeList: true

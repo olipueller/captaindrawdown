@@ -1,7 +1,7 @@
 ---
 title: "Lisa Richburg"
 description: "Lisa Richburg is a Mid-career Unknown researcher at University of Kentucky in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.193830
+date: 2026-07-10T01:07:49.107349
 url: "/cdr-researcher-census/researchers/lisa-richburg-a5042371/"
 layout: "researcher"
 hiddenInHomeList: true

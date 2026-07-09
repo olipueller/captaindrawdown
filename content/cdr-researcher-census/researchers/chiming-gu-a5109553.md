@@ -1,7 +1,7 @@
 ---
 title: "Chiming Gu"
 description: "Chiming Gu is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.619970
+date: 2026-07-10T01:07:47.680670
 url: "/cdr-researcher-census/researchers/chiming-gu-a5109553/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anran Zhang"
 description: "Anran Zhang is a Mid-career Unknown researcher at Wuhan University of Technology in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.977592
+date: 2026-07-10T01:07:47.987439
 url: "/cdr-researcher-census/researchers/anran-zhang-a5109720/"
 layout: "researcher"
 hiddenInHomeList: true

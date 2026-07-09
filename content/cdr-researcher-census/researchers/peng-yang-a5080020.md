@@ -1,7 +1,7 @@
 ---
 title: "Peng Yang"
 description: "Peng Yang is a Mid-career Soil Carbon researcher at Advanced Semiconductor Engineering (Taiwan) in TW. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.129173
+date: 2026-07-10T01:07:49.033951
 url: "/cdr-researcher-census/researchers/peng-yang-a5080020/"
 layout: "researcher"
 hiddenInHomeList: true

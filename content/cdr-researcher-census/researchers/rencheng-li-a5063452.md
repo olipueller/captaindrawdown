@@ -1,7 +1,7 @@
 ---
 title: "Rencheng Li"
 description: "Rencheng Li is a Senior Soil Carbon researcher at Sichuan University in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.664156
+date: 2026-07-10T01:07:47.721547
 url: "/cdr-researcher-census/researchers/rencheng-li-a5063452/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Luying Wang"
 description: "Luying Wang is a Mid-career Unknown researcher at Guangxi University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.189466
+date: 2026-07-10T01:07:49.103437
 url: "/cdr-researcher-census/researchers/luying-wang-a5035073/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Tajuddin"
 description: "Ahmad Tajuddin is a Mid-career Unknown researcher at Universiti Teknologi MARA System in MY. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.073702
+date: 2026-07-10T01:07:48.984769
 url: "/cdr-researcher-census/researchers/ahmad-tajuddin-a5103586/"
 layout: "researcher"
 hiddenInHomeList: true

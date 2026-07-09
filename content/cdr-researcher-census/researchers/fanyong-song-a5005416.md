@@ -1,7 +1,7 @@
 ---
 title: "Fanyong Song"
 description: "Fanyong Song is a Senior Biochar researcher at Qilu University of Technology in CN. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.592193
+date: 2026-07-10T01:07:47.655466
 url: "/cdr-researcher-census/researchers/fanyong-song-a5005416/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lihua Tian"
 description: "Lihua Tian is a Mid-career Soil Carbon researcher at Southwest Minzu University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.560534
+date: 2026-07-10T01:07:47.624573
 url: "/cdr-researcher-census/researchers/lihua-tian-a5102597/"
 layout: "researcher"
 hiddenInHomeList: true

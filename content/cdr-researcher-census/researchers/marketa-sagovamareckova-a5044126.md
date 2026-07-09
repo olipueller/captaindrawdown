@@ -1,7 +1,7 @@
 ---
 title: "Markéta Ságová‐Marečková"
 description: "Markéta Ságová‐Marečková is a Senior Soil Carbon researcher at Czech Agrifood Research Center in CZ. With 81 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.013968
+date: 2026-07-10T01:07:47.078992
 url: "/cdr-researcher-census/researchers/marketa-sagovamareckova-a5044126/"
 layout: "researcher"
 hiddenInHomeList: true

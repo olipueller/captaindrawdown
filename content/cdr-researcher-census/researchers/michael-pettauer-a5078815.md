@@ -1,7 +1,7 @@
 ---
 title: "Michael Pettauer"
 description: "Michael Pettauer is a Mid-career Unknown researcher at Graz University of Technology in AT. With 23 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.013052
+date: 2026-07-10T01:07:48.930021
 url: "/cdr-researcher-census/researchers/michael-pettauer-a5078815/"
 layout: "researcher"
 hiddenInHomeList: true

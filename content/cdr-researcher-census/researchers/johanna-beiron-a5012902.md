@@ -1,7 +1,7 @@
 ---
 title: "Johanna Beiron"
 description: "Johanna Beiron is a Mid-career General CDR researcher at Chalmers University of Technology in SE. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.023592
+date: 2026-07-10T01:07:48.031473
 url: "/cdr-researcher-census/researchers/johanna-beiron-a5012902/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sara Cerasoli"
 description: "Sara Cerasoli is a Mid-career General CDR researcher at Massachusetts Institute of Technology in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.553237
+date: 2026-07-10T01:07:48.533419
 url: "/cdr-researcher-census/researchers/sara-cerasoli-a5024176/"
 layout: "researcher"
 hiddenInHomeList: true

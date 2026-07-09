@@ -1,7 +1,7 @@
 ---
 title: "Ramesh Potnuri"
 description: "Ramesh Potnuri is a Mid-career Ocean CDR researcher at National Institute of Technology Karnataka in IN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.494058
+date: 2026-07-10T01:07:47.564405
 url: "/cdr-researcher-census/researchers/ramesh-potnuri-a5025131/"
 layout: "researcher"
 hiddenInHomeList: true

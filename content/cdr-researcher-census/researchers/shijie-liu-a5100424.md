@@ -1,7 +1,7 @@
 ---
 title: "Shijie Liu"
 description: "Shijie Liu is a Senior DAC researcher at University of Toronto in CA. With 47 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.952302
+date: 2026-07-10T01:07:46.986500
 url: "/cdr-researcher-census/researchers/shijie-liu-a5100424/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Linlin Cui"
 description: "Linlin Cui is a Mid-career Soil Carbon researcher at Lynn University in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.302365
+date: 2026-07-10T01:07:48.305114
 url: "/cdr-researcher-census/researchers/linlin-cui-a5070056/"
 layout: "researcher"
 hiddenInHomeList: true

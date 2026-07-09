@@ -1,7 +1,7 @@
 ---
 title: "Jürgen Knauer"
 description: "Jürgen Knauer is a Senior General CDR researcher at University of Technology Sydney in AU. With 142 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.903339
+date: 2026-07-10T01:07:46.894371
 url: "/cdr-researcher-census/researchers/jurgen-knauer-a5049397/"
 layout: "researcher"
 hiddenInHomeList: true

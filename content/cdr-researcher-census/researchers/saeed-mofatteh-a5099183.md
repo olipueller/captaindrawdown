@@ -1,7 +1,7 @@
 ---
 title: "Saeed Mofatteh"
 description: "Saeed Mofatteh is an Early-career General CDR researcher at University of Tehran in IR. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.501366
+date: 2026-07-10T01:07:48.486853
 url: "/cdr-researcher-census/researchers/saeed-mofatteh-a5099183/"
 layout: "researcher"
 hiddenInHomeList: true

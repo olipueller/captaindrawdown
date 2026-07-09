@@ -1,7 +1,7 @@
 ---
 title: "Divyanshi Mangla"
 description: "Divyanshi Mangla is a Mid-career Unknown researcher at KR Mangalam University in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.412642
+date: 2026-07-10T01:07:47.491782
 url: "/cdr-researcher-census/researchers/divyanshi-mangla-a5089065/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vadakkeveedu Narayan Amrish"
 description: "Vadakkeveedu Narayan Amrish is a Mid-career Ocean CDR researcher at Manipal Academy of Higher Education in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.618492
+date: 2026-07-10T01:07:48.579606
 url: "/cdr-researcher-census/researchers/vadakkeveedu-narayan-amrish-a5082825/"
 layout: "researcher"
 hiddenInHomeList: true

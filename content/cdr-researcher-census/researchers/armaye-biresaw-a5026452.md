@@ -1,7 +1,7 @@
 ---
 title: "Armaye Biresaw"
 description: "Armaye Biresaw is an Early-career Soil Carbon researcher at Jimma University in ET. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.119964
+date: 2026-07-10T01:07:49.025717
 url: "/cdr-researcher-census/researchers/armaye-biresaw-a5026452/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Filip J. R. Meysman"
 description: "Filip J. R. Meysman is an Eminent Ocean CDR researcher at University of Antwerp in BE. With 343 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.898188
+date: 2026-07-10T01:07:46.882744
 url: "/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/"
 layout: "researcher"
 hiddenInHomeList: true

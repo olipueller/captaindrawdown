@@ -1,7 +1,7 @@
 ---
 title: "M. Signorelli"
 description: "M. Signorelli is a Mid-career General CDR researcher at TAE Technologies, Inc (United States) in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.472102
+date: 2026-07-10T01:07:48.459542
 url: "/cdr-researcher-census/researchers/m-signorelli-a5042016/"
 layout: "researcher"
 hiddenInHomeList: true

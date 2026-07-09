@@ -1,7 +1,7 @@
 ---
 title: "Sanket Dey Chowdhury"
 description: "Sanket Dey Chowdhury is a Mid-career Unknown researcher at Indian Institute of Technology Bhubaneswar in IN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.894725
+date: 2026-07-10T01:07:47.909887
 url: "/cdr-researcher-census/researchers/sanket-dey-chowdhury-a5073808/"
 layout: "researcher"
 hiddenInHomeList: true

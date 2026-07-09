@@ -1,7 +1,7 @@
 ---
 title: "Mushtaq A. Al-Furaiji"
 description: "Mushtaq A. Al-Furaiji is a Mid-career Unknown researcher at University of Misan in IQ. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.089293
+date: 2026-07-10T01:07:48.998860
 url: "/cdr-researcher-census/researchers/mushtaq-a-al-furaiji-a5074113/"
 layout: "researcher"
 hiddenInHomeList: true

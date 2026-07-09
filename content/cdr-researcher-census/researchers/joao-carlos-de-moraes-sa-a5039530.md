@@ -1,7 +1,7 @@
 ---
 title: "João Carlos de Moraes Sá"
 description: "João Carlos de Moraes Sá is a Senior Soil Carbon researcher at College of Food, Agricultural, and Environmental Sciences, Ohio State University in US. With 78 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.967011
+date: 2026-07-10T01:07:47.009507
 url: "/cdr-researcher-census/researchers/joao-carlos-de-moraes-sa-a5039530/"
 layout: "researcher"
 hiddenInHomeList: true

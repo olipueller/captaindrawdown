@@ -1,7 +1,7 @@
 ---
 title: "Robin Peeters"
 description: "Robin Peeters is a Senior Unknown researcher at KU Leuven in BE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.511941
+date: 2026-07-10T01:07:48.496272
 url: "/cdr-researcher-census/researchers/robin-peeters-a5041413/"
 layout: "researcher"
 hiddenInHomeList: true

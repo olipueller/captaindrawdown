@@ -1,7 +1,7 @@
 ---
 title: "Ruiqiang Liu"
 description: "Ruiqiang Liu is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 86 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.966187
+date: 2026-07-10T01:07:47.008421
 url: "/cdr-researcher-census/researchers/ruiqiang-liu-a5102766/"
 layout: "researcher"
 hiddenInHomeList: true

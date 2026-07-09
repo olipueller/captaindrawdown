@@ -1,7 +1,7 @@
 ---
 title: "Jonathan E. Peters"
 description: "Jonathan E. Peters is a Senior Unknown researcher at Susteon Inc. in US. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.469506
+date: 2026-07-10T01:07:47.542236
 url: "/cdr-researcher-census/researchers/jonathan-e-peters-a5085401/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiuyuan Wang"
 description: "Jiuyuan Wang is a Mid-career Enhanced Weathering researcher at Peking University in CN. With 63 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.580035
+date: 2026-07-10T01:07:47.643233
 url: "/cdr-researcher-census/researchers/jiuyuan-wang-a5059752/"
 layout: "researcher"
 hiddenInHomeList: true

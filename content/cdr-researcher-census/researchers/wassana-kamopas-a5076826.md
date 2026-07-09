@@ -1,7 +1,7 @@
 ---
 title: "Wassana Kamopas"
 description: "Wassana Kamopas is a Mid-career Biochar researcher at Chiang Mai University in TH. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.022671
+date: 2026-07-10T01:07:48.938473
 url: "/cdr-researcher-census/researchers/wassana-kamopas-a5076826/"
 layout: "researcher"
 hiddenInHomeList: true

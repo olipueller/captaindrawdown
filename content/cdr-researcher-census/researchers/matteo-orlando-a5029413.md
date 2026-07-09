@@ -1,7 +1,7 @@
 ---
 title: "Matteo Orlando"
 description: "Matteo Orlando is a Mid-career Unknown researcher at Free University of Bozen-Bolzano in IT. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.324146
+date: 2026-07-10T01:07:48.324741
 url: "/cdr-researcher-census/researchers/matteo-orlando-a5029413/"
 layout: "researcher"
 hiddenInHomeList: true

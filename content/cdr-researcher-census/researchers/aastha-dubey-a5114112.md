@@ -1,7 +1,7 @@
 ---
 title: "Aastha Dubey"
 description: "Aastha Dubey is an Early-career Soil Carbon researcher at Galgotias University in IN. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.258540
+date: 2026-07-10T01:07:49.165194
 url: "/cdr-researcher-census/researchers/aastha-dubey-a5114112/"
 layout: "researcher"
 hiddenInHomeList: true

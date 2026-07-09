@@ -1,7 +1,7 @@
 ---
 title: "George Em. Romanos"
 description: "George Em. Romanos is a Senior Unknown researcher at National Centre of Scientific Research \"Demokritos\" in GR. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.666201
+date: 2026-07-10T01:07:47.723370
 url: "/cdr-researcher-census/researchers/george-em-romanos-a5103043/"
 layout: "researcher"
 hiddenInHomeList: true

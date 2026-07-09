@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Zhao"
 description: "Xinyu Zhao is a Mid-career Unknown researcher at Shanghai Industrial Technology Institute in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.394109
+date: 2026-07-10T01:07:48.386693
 url: "/cdr-researcher-census/researchers/xinyu-zhao-a5101426/"
 layout: "researcher"
 hiddenInHomeList: true

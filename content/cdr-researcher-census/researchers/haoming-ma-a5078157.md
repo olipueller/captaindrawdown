@@ -1,7 +1,7 @@
 ---
 title: "Haoming Ma"
 description: "Haoming Ma is a Mid-career Unknown researcher at University of Wyoming in US. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.648516
+date: 2026-07-10T01:07:47.707207
 url: "/cdr-researcher-census/researchers/haoming-ma-a5078157/"
 layout: "researcher"
 hiddenInHomeList: true

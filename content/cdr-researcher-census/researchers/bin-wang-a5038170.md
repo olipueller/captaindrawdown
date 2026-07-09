@@ -1,7 +1,7 @@
 ---
 title: "Bin Wang"
 description: "Bin Wang is a Senior Ocean CDR researcher at Second Institute of Oceanography in CN. With 83 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.351562
+date: 2026-07-10T01:07:47.433861
 url: "/cdr-researcher-census/researchers/bin-wang-a5038170/"
 layout: "researcher"
 hiddenInHomeList: true

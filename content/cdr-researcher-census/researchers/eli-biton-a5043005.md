@@ -1,7 +1,7 @@
 ---
 title: "Eli Biton"
 description: "Eli Biton is a Mid-career Ocean CDR researcher at Israel Oceanographic and Limnological Research in IL. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.997640
+date: 2026-07-10T01:07:48.006914
 url: "/cdr-researcher-census/researchers/eli-biton-a5043005/"
 layout: "researcher"
 hiddenInHomeList: true

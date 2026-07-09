@@ -1,7 +1,7 @@
 ---
 title: "Niccolò Storni"
 description: "Niccolò Storni is a Mid-career Ocean CDR researcher at Institute of Materials, Minerals and Mining in GB. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.739447
+date: 2026-07-10T01:07:48.686955
 url: "/cdr-researcher-census/researchers/niccolo-storni-a5086255/"
 layout: "researcher"
 hiddenInHomeList: true

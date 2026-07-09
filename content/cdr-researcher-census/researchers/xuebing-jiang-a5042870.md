@@ -1,7 +1,7 @@
 ---
 title: "Xuebing Jiang"
 description: "Xuebing Jiang is a Mid-career Unknown researcher at Guangxi University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.403396
+date: 2026-07-10T01:07:48.395009
 url: "/cdr-researcher-census/researchers/xuebing-jiang-a5042870/"
 layout: "researcher"
 hiddenInHomeList: true

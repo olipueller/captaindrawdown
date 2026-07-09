@@ -1,7 +1,7 @@
 ---
 title: "Hailong Song"
 description: "Hailong Song is a Mid-career General CDR researcher at Monash University in AU. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.634243
+date: 2026-07-10T01:07:48.593563
 url: "/cdr-researcher-census/researchers/hailong-song-a5001546/"
 layout: "researcher"
 hiddenInHomeList: true

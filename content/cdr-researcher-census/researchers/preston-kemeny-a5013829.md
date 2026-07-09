@@ -1,7 +1,7 @@
 ---
 title: "Preston Kemeny"
 description: "Preston Kemeny is a Mid-career Enhanced Weathering researcher at University of Chicago in US. With 71 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.322903
+date: 2026-07-10T01:07:47.405077
 url: "/cdr-researcher-census/researchers/preston-kemeny-a5013829/"
 layout: "researcher"
 hiddenInHomeList: true

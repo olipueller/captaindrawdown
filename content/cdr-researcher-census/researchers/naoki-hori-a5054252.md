@@ -1,7 +1,7 @@
 ---
 title: "Naoki Hori"
 description: "Naoki Hori is a Mid-career Unknown researcher at Chan Heart Rhythm Institute in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.237019
+date: 2026-07-10T01:07:48.246658
 url: "/cdr-researcher-census/researchers/naoki-hori-a5054252/"
 layout: "researcher"
 hiddenInHomeList: true

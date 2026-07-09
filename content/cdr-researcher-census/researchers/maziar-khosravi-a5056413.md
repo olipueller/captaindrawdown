@@ -1,7 +1,7 @@
 ---
 title: "Maziar Khosravi"
 description: "Maziar Khosravi is a Mid-career Unknown researcher at Ford (Germany) in DE. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.354469
+date: 2026-07-10T01:07:48.352804
 url: "/cdr-researcher-census/researchers/maziar-khosravi-a5056413/"
 layout: "researcher"
 hiddenInHomeList: true

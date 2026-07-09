@@ -1,7 +1,7 @@
 ---
 title: "Qingquan Hong"
 description: "Qingquan Hong is a Senior Ocean CDR researcher at Xiamen University in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.501650
+date: 2026-07-10T01:07:47.571211
 url: "/cdr-researcher-census/researchers/qingquan-hong-a5049460/"
 layout: "researcher"
 hiddenInHomeList: true

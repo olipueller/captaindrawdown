@@ -1,7 +1,7 @@
 ---
 title: "Shujing Zhao"
 description: "Shujing Zhao is a Senior Unknown researcher at Chongqing University in CN. With 48 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.297672
+date: 2026-07-10T01:07:47.380302
 url: "/cdr-researcher-census/researchers/shujing-zhao-a5107699/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christopher P. McNary"
 description: "Christopher P. McNary is a Mid-career General CDR researcher at National Energy Technology Laboratory in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.182776
+date: 2026-07-10T01:07:48.198368
 url: "/cdr-researcher-census/researchers/christopher-p-mcnary-a5053177/"
 layout: "researcher"
 hiddenInHomeList: true

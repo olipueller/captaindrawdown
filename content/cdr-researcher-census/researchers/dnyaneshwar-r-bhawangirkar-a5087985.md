@@ -1,7 +1,7 @@
 ---
 title: "Dnyaneshwar R. Bhawangirkar"
 description: "Dnyaneshwar R. Bhawangirkar is a Mid-career Unknown researcher at Tsinghua–Berkeley Shenzhen Institute in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.128950
+date: 2026-07-10T01:07:48.152075
 url: "/cdr-researcher-census/researchers/dnyaneshwar-r-bhawangirkar-a5087985/"
 layout: "researcher"
 hiddenInHomeList: true

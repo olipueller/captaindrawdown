@@ -1,7 +1,7 @@
 ---
 title: "Zhongnan Ran"
 description: "Zhongnan Ran is a Mid-career Unknown researcher at Zhejiang Sci-Tech University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.432105
+date: 2026-07-10T01:07:48.422370
 url: "/cdr-researcher-census/researchers/zhongnan-ran-a5059125/"
 layout: "researcher"
 hiddenInHomeList: true

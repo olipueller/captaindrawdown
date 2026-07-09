@@ -1,7 +1,7 @@
 ---
 title: "Jennifer A Tinklenberg"
 description: "Jennifer A Tinklenberg is a Mid-career Unknown researcher at University of Minnesota Medical Center in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.920889
+date: 2026-07-10T01:07:48.844709
 url: "/cdr-researcher-census/researchers/jennifer-a-tinklenberg-a5053565/"
 layout: "researcher"
 hiddenInHomeList: true

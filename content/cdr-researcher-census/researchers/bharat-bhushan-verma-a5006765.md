@@ -1,7 +1,7 @@
 ---
 title: "Bharat Bhushan Verma"
 description: "Bharat Bhushan Verma is a Senior Unknown researcher at University of New Brunswick Fredericton in CA. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.859898
+date: 2026-07-10T01:07:48.789870
 url: "/cdr-researcher-census/researchers/bharat-bhushan-verma-a5006765/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Samy"
 description: "Mahmoud Samy is a Senior Biochar researcher at Mansoura University in EG. With 82 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.067687
+date: 2026-07-10T01:07:47.145388
 url: "/cdr-researcher-census/researchers/mahmoud-samy-a5019780/"
 layout: "researcher"
 hiddenInHomeList: true

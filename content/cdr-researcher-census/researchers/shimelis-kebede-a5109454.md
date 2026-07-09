@@ -1,7 +1,7 @@
 ---
 title: "Shimelis Kebede"
 description: "Shimelis Kebede is an Early-career Unknown researcher at Jimma University in ET. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.944783
+date: 2026-07-10T01:07:48.866881
 url: "/cdr-researcher-census/researchers/shimelis-kebede-a5109454/"
 layout: "researcher"
 hiddenInHomeList: true

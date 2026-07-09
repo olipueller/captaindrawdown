@@ -1,7 +1,7 @@
 ---
 title: "Xiao Zhang"
 description: "Xiao Zhang is a Mid-career Unknown researcher at Northwest A&F University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.905489
+date: 2026-07-10T01:07:47.919503
 url: "/cdr-researcher-census/researchers/xiao-zhang-a5100320/"
 layout: "researcher"
 hiddenInHomeList: true

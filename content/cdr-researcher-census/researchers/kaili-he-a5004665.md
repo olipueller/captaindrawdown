@@ -1,7 +1,7 @@
 ---
 title: "Kaili He"
 description: "Kaili He is a Mid-career Biochar researcher at Hainan University in CN. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.682559
+date: 2026-07-10T01:07:47.738976
 url: "/cdr-researcher-census/researchers/kaili-he-a5004665/"
 layout: "researcher"
 hiddenInHomeList: true

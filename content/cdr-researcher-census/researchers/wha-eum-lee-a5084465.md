@@ -1,7 +1,7 @@
 ---
 title: "Wha-Eum Lee"
 description: "Wha-Eum Lee is an Early-career Unknown researcher at Princeton University in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.256433
+date: 2026-07-10T01:07:49.163139
 url: "/cdr-researcher-census/researchers/wha-eum-lee-a5084465/"
 layout: "researcher"
 hiddenInHomeList: true

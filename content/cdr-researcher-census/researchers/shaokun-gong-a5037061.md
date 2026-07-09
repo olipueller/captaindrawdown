@@ -1,7 +1,7 @@
 ---
 title: "Shaokun Gong"
 description: "Shaokun Gong is a Mid-career Unknown researcher at Chongqing University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.457317
+date: 2026-07-10T01:07:48.445708
 url: "/cdr-researcher-census/researchers/shaokun-gong-a5037061/"
 layout: "researcher"
 hiddenInHomeList: true

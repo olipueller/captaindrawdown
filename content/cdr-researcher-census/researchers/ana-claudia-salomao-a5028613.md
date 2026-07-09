@@ -1,7 +1,7 @@
 ---
 title: "Ana Cláudia Salomão"
 description: "Ana Cláudia Salomão is an Early-career Unknown researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.334581
+date: 2026-07-10T01:07:48.334946
 url: "/cdr-researcher-census/researchers/ana-claudia-salomao-a5028613/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuping Ge"
 description: "Shuping Ge is a Senior Unknown researcher at Chongqing University of Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.216140
+date: 2026-07-10T01:07:49.127367
 url: "/cdr-researcher-census/researchers/shuping-ge-a5101820/"
 layout: "researcher"
 hiddenInHomeList: true

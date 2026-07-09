@@ -1,7 +1,7 @@
 ---
 title: "Haomeng Yang"
 description: "Haomeng Yang is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.656887
+date: 2026-07-10T01:07:47.714344
 url: "/cdr-researcher-census/researchers/haomeng-yang-a5056996/"
 layout: "researcher"
 hiddenInHomeList: true

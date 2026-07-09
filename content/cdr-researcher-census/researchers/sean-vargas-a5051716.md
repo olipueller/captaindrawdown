@@ -1,7 +1,7 @@
 ---
 title: "Sean Vargas"
 description: "Sean Vargas is a Mid-career Unknown researcher at The University of Texas at San Antonio in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.518641
+date: 2026-07-10T01:07:48.502073
 url: "/cdr-researcher-census/researchers/sean-vargas-a5051716/"
 layout: "researcher"
 hiddenInHomeList: true

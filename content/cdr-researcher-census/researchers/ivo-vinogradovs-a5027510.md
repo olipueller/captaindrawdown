@@ -1,7 +1,7 @@
 ---
 title: "Ivo Vinogradovs"
 description: "Ivo Vinogradovs is a Mid-career Soil Carbon researcher at Latvia University of Life Sciences and Technologies in LV. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.911795
+date: 2026-07-10T01:07:48.836581
 url: "/cdr-researcher-census/researchers/ivo-vinogradovs-a5027510/"
 layout: "researcher"
 hiddenInHomeList: true

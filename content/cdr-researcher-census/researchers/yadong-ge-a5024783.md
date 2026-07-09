@@ -1,7 +1,7 @@
 ---
 title: "Yadong Ge"
 description: "Yadong Ge is a Mid-career Biochar researcher at Tianjin University of Science and Technology in CN. With 56 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.741177
+date: 2026-07-10T01:07:47.793262
 url: "/cdr-researcher-census/researchers/yadong-ge-a5024783/"
 layout: "researcher"
 hiddenInHomeList: true

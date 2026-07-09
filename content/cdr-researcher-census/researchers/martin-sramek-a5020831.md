@@ -1,7 +1,7 @@
 ---
 title: "Martin Šrámek"
 description: "Martin Šrámek is a Mid-career Unknown researcher at Mendel University in Brno in CZ. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.271496
+date: 2026-07-10T01:07:48.277361
 url: "/cdr-researcher-census/researchers/martin-sramek-a5020831/"
 layout: "researcher"
 hiddenInHomeList: true

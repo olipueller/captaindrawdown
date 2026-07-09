@@ -1,7 +1,7 @@
 ---
 title: "Luana Carvalho da Silva"
 description: "Luana Carvalho da Silva is a Mid-career Unknown researcher at Universidade Estadual do Ceará in BR. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.943479
+date: 2026-07-10T01:07:48.865729
 url: "/cdr-researcher-census/researchers/luana-carvalho-da-silva-a5053565/"
 layout: "researcher"
 hiddenInHomeList: true

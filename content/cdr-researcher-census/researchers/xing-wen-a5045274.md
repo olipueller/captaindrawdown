@@ -1,7 +1,7 @@
 ---
 title: "Xing Wen"
 description: "Xing Wen is a Senior Soil Carbon researcher at Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences in CN. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.343970
+date: 2026-07-10T01:07:47.426583
 url: "/cdr-researcher-census/researchers/xing-wen-a5045274/"
 layout: "researcher"
 hiddenInHomeList: true

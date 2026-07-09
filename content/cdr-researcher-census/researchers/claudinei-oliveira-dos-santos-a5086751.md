@@ -1,7 +1,7 @@
 ---
 title: "Claudinei Oliveira dos Santos"
 description: "Claudinei Oliveira dos Santos is a Mid-career General CDR researcher at Renova Life (United States) in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.930484
+date: 2026-07-10T01:07:48.853937
 url: "/cdr-researcher-census/researchers/claudinei-oliveira-dos-santos-a5086751/"
 layout: "researcher"
 hiddenInHomeList: true

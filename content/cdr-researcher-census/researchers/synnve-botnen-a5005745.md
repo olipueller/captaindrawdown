@@ -1,7 +1,7 @@
 ---
 title: "Synnøve Botnen"
 description: "Synnøve Botnen is a Mid-career Soil Carbon researcher at Metropolitan University in BD. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.715226
+date: 2026-07-10T01:07:47.769121
 url: "/cdr-researcher-census/researchers/synnve-botnen-a5005745/"
 layout: "researcher"
 hiddenInHomeList: true

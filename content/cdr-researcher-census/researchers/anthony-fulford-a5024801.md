@@ -1,7 +1,7 @@
 ---
 title: "Anthony Fulford"
 description: "Anthony Fulford is a Senior Soil Carbon researcher. With 46 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.737358
+date: 2026-07-10T01:07:47.789804
 url: "/cdr-researcher-census/researchers/anthony-fulford-a5024801/"
 layout: "researcher"
 hiddenInHomeList: true

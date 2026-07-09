@@ -1,7 +1,7 @@
 ---
 title: "Muchen Yin"
 description: "Muchen Yin is a Mid-career Unknown researcher at Beijing University of Technology in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.856724
+date: 2026-07-10T01:07:47.892141
 url: "/cdr-researcher-census/researchers/muchen-yin-a5070830/"
 layout: "researcher"
 hiddenInHomeList: true

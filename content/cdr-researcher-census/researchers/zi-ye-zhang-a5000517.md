@@ -1,7 +1,7 @@
 ---
 title: "Zi-Ye Zhang"
 description: "Zi-Ye Zhang is an Early-career Unknown researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.192440
+date: 2026-07-10T01:07:49.106151
 url: "/cdr-researcher-census/researchers/zi-ye-zhang-a5000517/"
 layout: "researcher"
 hiddenInHomeList: true

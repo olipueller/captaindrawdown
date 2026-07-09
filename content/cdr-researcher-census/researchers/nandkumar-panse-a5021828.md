@@ -1,7 +1,7 @@
 ---
 title: "Nandkumar Panse"
 description: "Nandkumar Panse is a Senior Unknown researcher at Nargis Dutt Memorial Cancer Hospital in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.169795
+date: 2026-07-10T01:07:47.259653
 url: "/cdr-researcher-census/researchers/nandkumar-panse-a5021828/"
 layout: "researcher"
 hiddenInHomeList: true

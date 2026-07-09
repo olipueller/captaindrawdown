@@ -1,7 +1,7 @@
 ---
 title: "Nicholas Roden"
 description: "Nicholas Roden is a Mid-career Ocean CDR researcher at Norwegian Institute for Water Research in NO. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.873604
+date: 2026-07-10T01:07:47.897893
 url: "/cdr-researcher-census/researchers/nicholas-roden-a5003493/"
 layout: "researcher"
 hiddenInHomeList: true

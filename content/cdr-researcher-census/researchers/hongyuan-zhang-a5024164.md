@@ -1,7 +1,7 @@
 ---
 title: "Hongyuan Zhang"
 description: "Hongyuan Zhang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 80 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.137990
+date: 2026-07-10T01:07:47.226811
 url: "/cdr-researcher-census/researchers/hongyuan-zhang-a5024164/"
 layout: "researcher"
 hiddenInHomeList: true

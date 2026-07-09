@@ -1,7 +1,7 @@
 ---
 title: "Eric P. S. Sager"
 description: "Eric P. S. Sager is a Senior Soil Carbon researcher at Trent University in CA. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.570768
+date: 2026-07-10T01:07:47.634505
 url: "/cdr-researcher-census/researchers/eric-p-s-sager-a5075816/"
 layout: "researcher"
 hiddenInHomeList: true

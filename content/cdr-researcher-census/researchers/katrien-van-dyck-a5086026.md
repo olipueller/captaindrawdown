@@ -1,7 +1,7 @@
 ---
 title: "Katrien Van Dyck"
 description: "Katrien Van Dyck is a Mid-career Unknown researcher at Rega Institute for Medical Research in BE. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.858111
+date: 2026-07-10T01:07:47.893607
 url: "/cdr-researcher-census/researchers/katrien-van-dyck-a5086026/"
 layout: "researcher"
 hiddenInHomeList: true

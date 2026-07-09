@@ -1,7 +1,7 @@
 ---
 title: "Lizandra López Belon"
 description: "Lizandra López Belon is a Senior Unknown researcher at Universidad Católica San Pablo in PE. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.017729
+date: 2026-07-10T01:07:48.933876
 url: "/cdr-researcher-census/researchers/lizandra-lopez-belon-a5009175/"
 layout: "researcher"
 hiddenInHomeList: true

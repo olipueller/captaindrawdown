@@ -1,7 +1,7 @@
 ---
 title: "Yuanhuan Xie"
 description: "Yuanhuan Xie is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.333668
+date: 2026-07-10T01:07:48.333829
 url: "/cdr-researcher-census/researchers/yuanhuan-xie-a5057709/"
 layout: "researcher"
 hiddenInHomeList: true

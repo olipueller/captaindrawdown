@@ -1,7 +1,7 @@
 ---
 title: "Seung-Hun Chae"
 description: "Seung-Hun Chae is a Mid-career Biochar researcher at Chungnam National University in KR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.523502
+date: 2026-07-10T01:07:48.506477
 url: "/cdr-researcher-census/researchers/seung-hun-chae-a5109537/"
 layout: "researcher"
 hiddenInHomeList: true

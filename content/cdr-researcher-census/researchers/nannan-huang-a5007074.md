@@ -1,7 +1,7 @@
 ---
 title: "Nannan Huang"
 description: "Nannan Huang is a Mid-career Biochar researcher at Qingdao University of Science and Technology in CN. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.711137
+date: 2026-07-10T01:07:47.765524
 url: "/cdr-researcher-census/researchers/nannan-huang-a5007074/"
 layout: "researcher"
 hiddenInHomeList: true

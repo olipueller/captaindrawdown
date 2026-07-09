@@ -1,7 +1,7 @@
 ---
 title: "Hongxia He"
 description: "Hongxia He is a Mid-career Soil Carbon researcher at Ministry of Agriculture in BW. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.335659
+date: 2026-07-10T01:07:48.335891
 url: "/cdr-researcher-census/researchers/hongxia-he-a5070057/"
 layout: "researcher"
 hiddenInHomeList: true

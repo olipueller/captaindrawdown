@@ -1,7 +1,7 @@
 ---
 title: "Nannan An"
 description: "Nannan An is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 49 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.002122
+date: 2026-07-10T01:07:48.011321
 url: "/cdr-researcher-census/researchers/nannan-an-a5080369/"
 layout: "researcher"
 hiddenInHomeList: true

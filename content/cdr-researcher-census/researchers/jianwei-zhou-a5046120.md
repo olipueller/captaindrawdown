@@ -1,7 +1,7 @@
 ---
 title: "Jianwei Zhou"
 description: "Jianwei Zhou is a Mid-career Unknown researcher at Institute of Grassland Research in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.794631
+date: 2026-07-10T01:07:47.843066
 url: "/cdr-researcher-census/researchers/jianwei-zhou-a5046120/"
 layout: "researcher"
 hiddenInHomeList: true

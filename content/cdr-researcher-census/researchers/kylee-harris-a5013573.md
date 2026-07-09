@@ -1,7 +1,7 @@
 ---
 title: "Kylee Harris"
 description: "Kylee Harris is a Mid-career General CDR researcher at National Laboratory of the Rockies in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.988553
+date: 2026-07-10T01:07:47.997497
 url: "/cdr-researcher-census/researchers/kylee-harris-a5013573/"
 layout: "researcher"
 hiddenInHomeList: true

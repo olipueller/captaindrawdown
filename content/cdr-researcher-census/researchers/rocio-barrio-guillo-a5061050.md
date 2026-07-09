@@ -1,7 +1,7 @@
 ---
 title: "Rocío Barrio Guilló"
 description: "Rocío Barrio Guilló is a Mid-career Unknown researcher at University of Leicester in GB. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.226872
+date: 2026-07-10T01:07:48.237241
 url: "/cdr-researcher-census/researchers/rocio-barrio-guillo-a5061050/"
 layout: "researcher"
 hiddenInHomeList: true

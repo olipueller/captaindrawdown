@@ -1,7 +1,7 @@
 ---
 title: "Mustapha Soukri"
 description: "Mustapha Soukri is a Senior DAC researcher at RTI International in US. With 67 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.297127
+date: 2026-07-10T01:07:47.379499
 url: "/cdr-researcher-census/researchers/mustapha-soukri-a5051215/"
 layout: "researcher"
 hiddenInHomeList: true

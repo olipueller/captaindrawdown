@@ -1,7 +1,7 @@
 ---
 title: "Abdul Amir H. Kadum"
 description: "Abdul Amir H. Kadum is a Senior Unknown researcher at Tambov State Technical University in RU. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.190274
+date: 2026-07-10T01:07:48.204824
 url: "/cdr-researcher-census/researchers/abdul-amir-h-kadum-a5012952/"
 layout: "researcher"
 hiddenInHomeList: true

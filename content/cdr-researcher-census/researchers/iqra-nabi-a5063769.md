@@ -1,7 +1,7 @@
 ---
 title: "Iqra Nabi"
 description: "Iqra Nabi is a Mid-career Biochar researcher at Harbin Institute of Technology (Shenzhen), China in CN. With 33 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.051610
+date: 2026-07-10T01:07:47.126504
 url: "/cdr-researcher-census/researchers/iqra-nabi-a5063769/"
 layout: "researcher"
 hiddenInHomeList: true

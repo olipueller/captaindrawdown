@@ -1,7 +1,7 @@
 ---
 title: "Fangbin Hou"
 description: "Fangbin Hou is a Mid-career Unknown researcher at Peking University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.763660
+date: 2026-07-10T01:07:48.708425
 url: "/cdr-researcher-census/researchers/fangbin-hou-a5103929/"
 layout: "researcher"
 hiddenInHomeList: true

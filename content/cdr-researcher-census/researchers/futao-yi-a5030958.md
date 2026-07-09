@@ -1,7 +1,7 @@
 ---
 title: "Futao Yi"
 description: "Futao Yi is a Mid-career Unknown researcher at Tongji University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.506816
+date: 2026-07-10T01:07:47.575855
 url: "/cdr-researcher-census/researchers/futao-yi-a5030958/"
 layout: "researcher"
 hiddenInHomeList: true

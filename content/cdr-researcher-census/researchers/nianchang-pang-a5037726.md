@@ -1,7 +1,7 @@
 ---
 title: "Nianchang Pang"
 description: "Nianchang Pang is a Mid-career Unknown researcher at Chinese Academy of Agricultural Sciences in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.550866
+date: 2026-07-10T01:07:47.614874
 url: "/cdr-researcher-census/researchers/nianchang-pang-a5037726/"
 layout: "researcher"
 hiddenInHomeList: true

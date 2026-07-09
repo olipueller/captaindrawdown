@@ -1,7 +1,7 @@
 ---
 title: "Budi Mulyana"
 description: "Budi Mulyana is a Mid-career Soil Carbon researcher at Universitas Gadjah Mada in ID. With 53 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.435380
+date: 2026-07-10T01:07:48.425566
 url: "/cdr-researcher-census/researchers/budi-mulyana-a5070027/"
 layout: "researcher"
 hiddenInHomeList: true

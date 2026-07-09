@@ -1,7 +1,7 @@
 ---
 title: "Zhongzheng Yan"
 description: "Zhongzheng Yan is a Senior Soil Carbon researcher at State Key Laboratory of Estuarine and Coastal Research in CN. With 64 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.118138
+date: 2026-07-10T01:07:47.205016
 url: "/cdr-researcher-census/researchers/zhongzheng-yan-a5009985/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Simon Geerlofs"
 description: "Simon Geerlofs is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.467326
+date: 2026-07-10T01:07:48.455268
 url: "/cdr-researcher-census/researchers/simon-geerlofs-a5085384/"
 layout: "researcher"
 hiddenInHomeList: true

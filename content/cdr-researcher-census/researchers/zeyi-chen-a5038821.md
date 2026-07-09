@@ -1,7 +1,7 @@
 ---
 title: "Zeyi Chen"
 description: "Zeyi Chen is a Mid-career Unknown researcher at Central South University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.209558
+date: 2026-07-10T01:07:48.222530
 url: "/cdr-researcher-census/researchers/zeyi-chen-a5038821/"
 layout: "researcher"
 hiddenInHomeList: true

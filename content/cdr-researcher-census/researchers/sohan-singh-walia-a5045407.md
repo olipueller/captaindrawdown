@@ -1,7 +1,7 @@
 ---
 title: "Sohan Singh Walia"
 description: "Sohan Singh Walia is a Senior Soil Carbon researcher at Punjab Agricultural University in IN. With 195 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.238148
+date: 2026-07-10T01:07:47.324531
 url: "/cdr-researcher-census/researchers/sohan-singh-walia-a5045407/"
 layout: "researcher"
 hiddenInHomeList: true

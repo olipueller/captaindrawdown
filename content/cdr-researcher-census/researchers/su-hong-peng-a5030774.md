@@ -1,7 +1,7 @@
 ---
 title: "Su-Hong Peng"
 description: "Su-Hong Peng is a Mid-career Unknown researcher at Yichun University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.120548
+date: 2026-07-10T01:07:49.026238
 url: "/cdr-researcher-census/researchers/su-hong-peng-a5030774/"
 layout: "researcher"
 hiddenInHomeList: true

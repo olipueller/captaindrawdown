@@ -1,7 +1,7 @@
 ---
 title: "Zheng‐Rong Kan"
 description: "Zheng‐Rong Kan is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 66 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.065761
+date: 2026-07-10T01:07:47.143115
 url: "/cdr-researcher-census/researchers/zhengrong-kan-a5032120/"
 layout: "researcher"
 hiddenInHomeList: true

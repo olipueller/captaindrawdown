@@ -1,7 +1,7 @@
 ---
 title: "Anda Iosip"
 description: "Anda Iosip is a Mid-career Unknown researcher at Babeș-Bolyai University in RO. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.137398
+date: 2026-07-10T01:07:48.159245
 url: "/cdr-researcher-census/researchers/anda-iosip-a5077692/"
 layout: "researcher"
 hiddenInHomeList: true

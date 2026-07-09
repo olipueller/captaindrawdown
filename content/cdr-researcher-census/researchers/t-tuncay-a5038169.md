@@ -1,7 +1,7 @@
 ---
 title: "T. Tunçay"
 description: "T. Tunçay is a Mid-career Unknown researcher at Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü in TR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.643623
+date: 2026-07-10T01:07:48.602221
 url: "/cdr-researcher-census/researchers/t-tuncay-a5038169/"
 layout: "researcher"
 hiddenInHomeList: true

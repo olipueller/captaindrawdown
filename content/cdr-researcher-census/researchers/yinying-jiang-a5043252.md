@@ -1,7 +1,7 @@
 ---
 title: "Yinying Jiang"
 description: "Yinying Jiang is a Mid-career Biochar researcher at Southwest Petroleum University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.400977
+date: 2026-07-10T01:07:48.392792
 url: "/cdr-researcher-census/researchers/yinying-jiang-a5043252/"
 layout: "researcher"
 hiddenInHomeList: true

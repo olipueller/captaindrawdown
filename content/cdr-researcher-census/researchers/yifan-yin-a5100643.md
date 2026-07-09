@@ -1,7 +1,7 @@
 ---
 title: "Yifan Yin"
 description: "Yifan Yin is a Mid-career Biochar researcher at University of Manchester in GB. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.896805
+date: 2026-07-10T01:07:48.822565
 url: "/cdr-researcher-census/researchers/yifan-yin-a5100643/"
 layout: "researcher"
 hiddenInHomeList: true

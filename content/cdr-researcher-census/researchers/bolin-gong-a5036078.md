@@ -1,7 +1,7 @@
 ---
 title: "Bolin Gong"
 description: "Bolin Gong is an Early-career Unknown researcher at State Ethnic Affairs Commission in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.715946
+date: 2026-07-10T01:07:47.769713
 url: "/cdr-researcher-census/researchers/bolin-gong-a5036078/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jimena Alvarez"
 description: "Jimena Alvarez is a Senior Ocean CDR researcher at University of Oxford in GB. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.882198
+date: 2026-07-10T01:07:48.809638
 url: "/cdr-researcher-census/researchers/jimena-alvarez-a5064979/"
 layout: "researcher"
 hiddenInHomeList: true

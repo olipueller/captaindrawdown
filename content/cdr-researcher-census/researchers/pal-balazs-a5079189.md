@@ -1,7 +1,7 @@
 ---
 title: "Pál Balázs"
 description: "Pál Balázs is a Mid-career Soil Carbon researcher at University of Sopron in HU. With 50 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.151356
+date: 2026-07-10T01:07:48.171203
 url: "/cdr-researcher-census/researchers/pal-balazs-a5079189/"
 layout: "researcher"
 hiddenInHomeList: true

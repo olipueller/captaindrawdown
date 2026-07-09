@@ -1,7 +1,7 @@
 ---
 title: "Stéphanie Birnstiel"
 description: "Stéphanie Birnstiel is a Mid-career Unknown researcher at Universitat Autònoma de Barcelona in ES. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.995660
+date: 2026-07-10T01:07:48.005049
 url: "/cdr-researcher-census/researchers/stephanie-birnstiel-a5038974/"
 layout: "researcher"
 hiddenInHomeList: true

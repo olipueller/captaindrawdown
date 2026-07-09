@@ -1,7 +1,7 @@
 ---
 title: "Yanmei Ren"
 description: "Yanmei Ren is a Senior Biochar researcher at Energy Storage Systems (United States) in US. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.886766
+date: 2026-07-10T01:07:47.901745
 url: "/cdr-researcher-census/researchers/yanmei-ren-a5063796/"
 layout: "researcher"
 hiddenInHomeList: true

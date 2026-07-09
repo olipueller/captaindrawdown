@@ -1,7 +1,7 @@
 ---
 title: "Tom Broeg"
 description: "Tom Broeg is an Early-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.190209
+date: 2026-07-10T01:07:49.104070
 url: "/cdr-researcher-census/researchers/tom-broeg-a5089128/"
 layout: "researcher"
 hiddenInHomeList: true

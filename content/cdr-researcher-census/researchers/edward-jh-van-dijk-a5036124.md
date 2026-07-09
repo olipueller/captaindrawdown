@@ -1,7 +1,7 @@
 ---
 title: "Edward J.H. van Dijk"
 description: "Edward J.H. van Dijk is a Mid-career Unknown researcher at Royal HaskoningDHV (Netherlands) in NL. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.889351
+date: 2026-07-10T01:07:47.904076
 url: "/cdr-researcher-census/researchers/edward-jh-van-dijk-a5036124/"
 layout: "researcher"
 hiddenInHomeList: true

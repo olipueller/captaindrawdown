@@ -1,7 +1,7 @@
 ---
 title: "Xujun Liu"
 description: "Xujun Liu is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.453436
+date: 2026-07-10T01:07:48.442153
 url: "/cdr-researcher-census/researchers/xujun-liu-a5031356/"
 layout: "researcher"
 hiddenInHomeList: true

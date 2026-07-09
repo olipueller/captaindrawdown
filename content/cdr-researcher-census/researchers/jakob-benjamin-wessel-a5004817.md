@@ -1,7 +1,7 @@
 ---
 title: "Jakob Benjamin Wessel"
 description: "Jakob Benjamin Wessel is a Mid-career Unknown researcher at University of Exeter in GB. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.020255
+date: 2026-07-10T01:07:48.028025
 url: "/cdr-researcher-census/researchers/jakob-benjamin-wessel-a5004817/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eleanor R. Tew"
 description: "Eleanor R. Tew is a Mid-career Unknown researcher at Forestry Commission England in GB. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.644364
+date: 2026-07-10T01:07:47.703340
 url: "/cdr-researcher-census/researchers/eleanor-r-tew-a5080634/"
 layout: "researcher"
 hiddenInHomeList: true

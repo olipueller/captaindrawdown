@@ -1,7 +1,7 @@
 ---
 title: "Ellie Beaudry"
 description: "Ellie Beaudry is a Mid-career Unknown researcher at Harvard University Press in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.020596
+date: 2026-07-10T01:07:48.936532
 url: "/cdr-researcher-census/researchers/ellie-beaudry-a5053376/"
 layout: "researcher"
 hiddenInHomeList: true

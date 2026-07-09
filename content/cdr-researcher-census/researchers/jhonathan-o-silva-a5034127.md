@@ -1,7 +1,7 @@
 ---
 title: "Jhonathan O. Silva"
 description: "Jhonathan O. Silva is a Senior Soil Carbon researcher at Universidade Estadual de Feira de Santana in BR. With 66 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.237198
+date: 2026-07-10T01:07:47.323720
 url: "/cdr-researcher-census/researchers/jhonathan-o-silva-a5034127/"
 layout: "researcher"
 hiddenInHomeList: true

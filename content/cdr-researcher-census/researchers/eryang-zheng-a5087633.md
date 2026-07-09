@@ -1,7 +1,7 @@
 ---
 title: "Eryang Zheng"
 description: "Eryang Zheng is an Early-career Biochar researcher at Hunan Communications Research Institute in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.680882
+date: 2026-07-10T01:07:48.636087
 url: "/cdr-researcher-census/researchers/eryang-zheng-a5087633/"
 layout: "researcher"
 hiddenInHomeList: true

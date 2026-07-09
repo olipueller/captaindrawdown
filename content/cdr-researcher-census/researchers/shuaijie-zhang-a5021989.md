@@ -1,7 +1,7 @@
 ---
 title: "Shuaijie Zhang"
 description: "Shuaijie Zhang is a Mid-career Unknown researcher at Shandong University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.006991
+date: 2026-07-10T01:07:48.015583
 url: "/cdr-researcher-census/researchers/shuaijie-zhang-a5021989/"
 layout: "researcher"
 hiddenInHomeList: true

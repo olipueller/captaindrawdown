@@ -1,7 +1,7 @@
 ---
 title: "Max Holloway"
 description: "Max Holloway is a Mid-career Ocean CDR researcher at The Scottish Association for Marine Science in GB. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.321079
+date: 2026-07-10T01:07:47.403394
 url: "/cdr-researcher-census/researchers/max-holloway-a5012443/"
 layout: "researcher"
 hiddenInHomeList: true

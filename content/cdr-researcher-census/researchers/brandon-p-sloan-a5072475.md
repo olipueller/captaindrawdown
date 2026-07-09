@@ -1,7 +1,7 @@
 ---
 title: "Brandon P. Sloan"
 description: "Brandon P. Sloan is a Mid-career Soil Carbon researcher at Oak Ridge National Laboratory in US. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.692437
+date: 2026-07-10T01:07:48.645933
 url: "/cdr-researcher-census/researchers/brandon-p-sloan-a5072475/"
 layout: "researcher"
 hiddenInHomeList: true

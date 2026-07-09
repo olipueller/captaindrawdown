@@ -1,7 +1,7 @@
 ---
 title: "Minghui Xiang"
 description: "Minghui Xiang is a Mid-career Unknown researcher at Wuhan University of Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.177563
+date: 2026-07-10T01:07:48.193807
 url: "/cdr-researcher-census/researchers/minghui-xiang-a5102989/"
 layout: "researcher"
 hiddenInHomeList: true

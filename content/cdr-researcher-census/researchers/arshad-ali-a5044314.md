@@ -1,7 +1,7 @@
 ---
 title: "Arshad Ali"
 description: "Arshad Ali is a Senior Enhanced Weathering researcher at Sultan Qaboos University in OM. With 54 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.374613
+date: 2026-07-10T01:07:48.371023
 url: "/cdr-researcher-census/researchers/arshad-ali-a5044314/"
 layout: "researcher"
 hiddenInHomeList: true

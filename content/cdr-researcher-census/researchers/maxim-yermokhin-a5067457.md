@@ -1,7 +1,7 @@
 ---
 title: "Maxim Yermokhin"
 description: "Maxim Yermokhin is a Mid-career General CDR researcher at University of Bern in CH. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.048191
+date: 2026-07-10T01:07:48.053584
 url: "/cdr-researcher-census/researchers/maxim-yermokhin-a5067457/"
 layout: "researcher"
 hiddenInHomeList: true

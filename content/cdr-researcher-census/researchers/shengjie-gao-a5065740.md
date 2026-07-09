@@ -1,7 +1,7 @@
 ---
 title: "Shengjie Gao"
 description: "Shengjie Gao is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.908956
+date: 2026-07-10T01:07:46.905594
 url: "/cdr-researcher-census/researchers/shengjie-gao-a5065740/"
 layout: "researcher"
 hiddenInHomeList: true

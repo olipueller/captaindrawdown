@@ -1,7 +1,7 @@
 ---
 title: "Montale Tuen"
 description: "Montale Tuen is a Mid-career Ocean CDR researcher at University of Miami in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.042778
+date: 2026-07-10T01:07:48.956426
 url: "/cdr-researcher-census/researchers/montale-tuen-a5010789/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Geng Sun"
 description: "Geng Sun is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.492654
+date: 2026-07-10T01:07:48.478567
 url: "/cdr-researcher-census/researchers/geng-sun-a5035621/"
 layout: "researcher"
 hiddenInHomeList: true

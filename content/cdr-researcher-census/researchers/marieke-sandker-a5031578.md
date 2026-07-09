@@ -1,7 +1,7 @@
 ---
 title: "Marieke Sandker"
 description: "Marieke Sandker is a Senior General CDR researcher. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.395676
+date: 2026-07-10T01:07:47.476585
 url: "/cdr-researcher-census/researchers/marieke-sandker-a5031578/"
 layout: "researcher"
 hiddenInHomeList: true

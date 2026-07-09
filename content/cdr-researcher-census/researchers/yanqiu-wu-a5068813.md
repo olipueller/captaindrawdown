@@ -1,7 +1,7 @@
 ---
 title: "Yanqiu Wu"
 description: "Yanqiu Wu is a Mid-career Unknown researcher at China University of Geosciences (Beijing) in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.501738
+date: 2026-07-10T01:07:48.487285
 url: "/cdr-researcher-census/researchers/yanqiu-wu-a5068813/"
 layout: "researcher"
 hiddenInHomeList: true

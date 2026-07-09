@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Safdar"
 description: "Muhammad Safdar is a Mid-career Soil Carbon researcher at Jinnah Postgraduate Medical Center in PK. With 45 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.160683
+date: 2026-07-10T01:07:48.178855
 url: "/cdr-researcher-census/researchers/muhammad-safdar-a5071098/"
 layout: "researcher"
 hiddenInHomeList: true

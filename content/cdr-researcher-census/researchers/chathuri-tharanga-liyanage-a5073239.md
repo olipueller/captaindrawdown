@@ -1,7 +1,7 @@
 ---
 title: "Chathuri Tharanga Liyanage"
 description: "Chathuri Tharanga Liyanage is an Early-career Unknown researcher at University of Sri Jayewardenepura in LK. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.015083
+date: 2026-07-10T01:07:48.931609
 url: "/cdr-researcher-census/researchers/chathuri-tharanga-liyanage-a5073239/"
 layout: "researcher"
 hiddenInHomeList: true

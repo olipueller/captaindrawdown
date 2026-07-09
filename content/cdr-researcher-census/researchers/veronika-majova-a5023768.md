@@ -1,7 +1,7 @@
 ---
 title: "Veronika Majová"
 description: "Veronika Majová is a Mid-career Biochar researcher at Slovak University of Technology in Bratislava in SK. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.551596
+date: 2026-07-10T01:07:47.615674
 url: "/cdr-researcher-census/researchers/veronika-majova-a5023768/"
 layout: "researcher"
 hiddenInHomeList: true

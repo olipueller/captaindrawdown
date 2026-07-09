@@ -1,7 +1,7 @@
 ---
 title: "Bezaye Tessema"
 description: "Bezaye Tessema is a Mid-career Soil Carbon researcher at Planetary Science Institute in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.402982
+date: 2026-07-10T01:07:48.394588
 url: "/cdr-researcher-census/researchers/bezaye-tessema-a5084565/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nirmalendu Basak"
 description: "Nirmalendu Basak is a Senior Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 91 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.101711
+date: 2026-07-10T01:07:47.186097
 url: "/cdr-researcher-census/researchers/nirmalendu-basak-a5077030/"
 layout: "researcher"
 hiddenInHomeList: true

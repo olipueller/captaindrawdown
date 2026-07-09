@@ -1,7 +1,7 @@
 ---
 title: "Pratahdeep Gogoi"
 description: "Pratahdeep Gogoi is a Mid-career Unknown researcher at University at Buffalo, State University of New York in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.011140
+date: 2026-07-10T01:07:48.928224
 url: "/cdr-researcher-census/researchers/pratahdeep-gogoi-a5026525/"
 layout: "researcher"
 hiddenInHomeList: true

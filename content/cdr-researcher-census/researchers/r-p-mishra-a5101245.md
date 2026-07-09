@@ -1,7 +1,7 @@
 ---
 title: "R. P. Mishra"
 description: "R. P. Mishra is a Senior Soil Carbon researcher at Central Institute for Research on Cattle in IN. With 60 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.409022
+date: 2026-07-10T01:07:47.488750
 url: "/cdr-researcher-census/researchers/r-p-mishra-a5101245/"
 layout: "researcher"
 hiddenInHomeList: true

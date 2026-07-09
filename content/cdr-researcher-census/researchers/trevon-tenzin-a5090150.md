@@ -1,7 +1,7 @@
 ---
 title: "Trevon Tenzin"
 description: "Trevon Tenzin is an Early-career Unknown researcher at Jilin University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.004217
+date: 2026-07-10T01:07:48.922081
 url: "/cdr-researcher-census/researchers/trevon-tenzin-a5090150/"
 layout: "researcher"
 hiddenInHomeList: true

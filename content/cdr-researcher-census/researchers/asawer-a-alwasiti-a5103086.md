@@ -1,7 +1,7 @@
 ---
 title: "Asawer A. Alwasiti"
 description: "Asawer A. Alwasiti is a Mid-career Unknown researcher at University of Technology - Iraq in IQ. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.630521
+date: 2026-07-10T01:07:47.689968
 url: "/cdr-researcher-census/researchers/asawer-a-alwasiti-a5103086/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Álvaro Ramírez"
 description: "Álvaro Ramírez is a Mid-career Unknown researcher at Universidad de Castilla-La Mancha in ES. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.756724
+date: 2026-07-10T01:07:48.702527
 url: "/cdr-researcher-census/researchers/alvaro-ramirez-a5018955/"
 layout: "researcher"
 hiddenInHomeList: true

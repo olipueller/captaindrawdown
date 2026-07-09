@@ -1,7 +1,7 @@
 ---
 title: "Geoffrey Dagod"
 description: "Geoffrey Dagod is a Mid-career Unknown researcher at Université de Montpellier in FR. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.517729
+date: 2026-07-10T01:07:48.501249
 url: "/cdr-researcher-census/researchers/geoffrey-dagod-a5050061/"
 layout: "researcher"
 hiddenInHomeList: true

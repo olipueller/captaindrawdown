@@ -1,7 +1,7 @@
 ---
 title: "Hannah Pauling"
 description: "Hannah Pauling is a Mid-career Unknown researcher at National Laboratory of the Rockies in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.495695
+date: 2026-07-10T01:07:48.481193
 url: "/cdr-researcher-census/researchers/hannah-pauling-a5005588/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Erika Swanson"
 description: "Erika Swanson is a Senior Unknown researcher at Los Alamos National Laboratory in US. With 58 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.125876
+date: 2026-07-10T01:07:48.149581
 url: "/cdr-researcher-census/researchers/erika-swanson-a5040522/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Abhijit Bijanu"
 description: "Abhijit Bijanu is a Mid-career Unknown researcher at Presidency University in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.010653
+date: 2026-07-10T01:07:48.018653
 url: "/cdr-researcher-census/researchers/abhijit-bijanu-a5036374/"
 layout: "researcher"
 hiddenInHomeList: true

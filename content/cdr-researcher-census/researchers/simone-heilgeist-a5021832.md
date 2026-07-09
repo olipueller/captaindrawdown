@@ -1,7 +1,7 @@
 ---
 title: "Simone Heilgeist"
 description: "Simone Heilgeist is a Mid-career Unknown researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.358978
+date: 2026-07-10T01:07:48.357366
 url: "/cdr-researcher-census/researchers/simone-heilgeist-a5021832/"
 layout: "researcher"
 hiddenInHomeList: true

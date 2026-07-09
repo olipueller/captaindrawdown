@@ -1,7 +1,7 @@
 ---
 title: "Songbo Tang"
 description: "Songbo Tang is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.519781
+date: 2026-07-10T01:07:47.587010
 url: "/cdr-researcher-census/researchers/songbo-tang-a5047690/"
 layout: "researcher"
 hiddenInHomeList: true

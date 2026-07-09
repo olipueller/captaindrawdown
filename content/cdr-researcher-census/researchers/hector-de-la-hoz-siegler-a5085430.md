@@ -1,7 +1,7 @@
 ---
 title: "Hector De la Hoz Siegler"
 description: "Hector De la Hoz Siegler is a Senior General CDR researcher at University of Calgary in CA. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.331875
+date: 2026-07-10T01:07:47.413675
 url: "/cdr-researcher-census/researchers/hector-de-la-hoz-siegler-a5085430/"
 layout: "researcher"
 hiddenInHomeList: true

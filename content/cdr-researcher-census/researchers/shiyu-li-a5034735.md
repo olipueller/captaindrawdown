@@ -1,7 +1,7 @@
 ---
 title: "Shiyu Li"
 description: "Shiyu Li is a Mid-career Soil Carbon researcher at Yunnan Institute of Environmental Sciences in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.145923
+date: 2026-07-10T01:07:49.048222
 url: "/cdr-researcher-census/researchers/shiyu-li-a5034735/"
 layout: "researcher"
 hiddenInHomeList: true

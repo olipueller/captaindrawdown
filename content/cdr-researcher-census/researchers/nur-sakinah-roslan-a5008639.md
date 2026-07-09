@@ -1,7 +1,7 @@
 ---
 title: "Nur Sakinah Roslan"
 description: "Nur Sakinah Roslan is a Mid-career Unknown researcher at Universiti Malaysia Terengganu in MY. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.192214
+date: 2026-07-10T01:07:48.206469
 url: "/cdr-researcher-census/researchers/nur-sakinah-roslan-a5008639/"
 layout: "researcher"
 hiddenInHomeList: true

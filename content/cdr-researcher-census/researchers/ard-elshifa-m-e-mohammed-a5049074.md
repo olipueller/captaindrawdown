@@ -1,7 +1,7 @@
 ---
 title: "Ard elshifa M. E. Mohammed"
 description: "Ard elshifa M. E. Mohammed is a Mid-career General CDR researcher at Qassim University in SA. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.216532
+date: 2026-07-10T01:07:49.127719
 url: "/cdr-researcher-census/researchers/ard-elshifa-m-e-mohammed-a5049074/"
 layout: "researcher"
 hiddenInHomeList: true

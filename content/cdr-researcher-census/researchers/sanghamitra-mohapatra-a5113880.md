@@ -1,7 +1,7 @@
 ---
 title: "Sanghamitra Mohapatra"
 description: "Sanghamitra Mohapatra is a Mid-career General CDR researcher at GITAM University in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.404943
+date: 2026-07-10T01:07:48.396685
 url: "/cdr-researcher-census/researchers/sanghamitra-mohapatra-a5113880/"
 layout: "researcher"
 hiddenInHomeList: true

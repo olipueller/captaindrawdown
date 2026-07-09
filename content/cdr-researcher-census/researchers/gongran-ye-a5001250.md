@@ -1,7 +1,7 @@
 ---
 title: "Gongran Ye"
 description: "Gongran Ye is a Mid-career Unknown researcher at University of Shanghai for Science and Technology in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.765653
+date: 2026-07-10T01:07:48.710211
 url: "/cdr-researcher-census/researchers/gongran-ye-a5001250/"
 layout: "researcher"
 hiddenInHomeList: true

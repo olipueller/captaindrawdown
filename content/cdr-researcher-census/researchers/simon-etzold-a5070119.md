@@ -1,7 +1,7 @@
 ---
 title: "Simon Etzold"
 description: "Simon Etzold is a Mid-career Enhanced Weathering researcher at RWTH Aachen University in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.507245
+date: 2026-07-10T01:07:48.492486
 url: "/cdr-researcher-census/researchers/simon-etzold-a5070119/"
 layout: "researcher"
 hiddenInHomeList: true

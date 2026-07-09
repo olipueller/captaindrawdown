@@ -1,7 +1,7 @@
 ---
 title: "Celyn L. L. Khoo"
 description: "Celyn L. L. Khoo is an Early-career Unknown researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.775176
+date: 2026-07-10T01:07:48.719131
 url: "/cdr-researcher-census/researchers/celyn-l-l-khoo-a5015043/"
 layout: "researcher"
 hiddenInHomeList: true

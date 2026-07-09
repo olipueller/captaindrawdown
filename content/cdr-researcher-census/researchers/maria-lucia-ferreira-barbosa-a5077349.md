@@ -1,7 +1,7 @@
 ---
 title: "Maria Lucia Ferreira Barbosa"
 description: "Maria Lucia Ferreira Barbosa is a Mid-career Unknown researcher at Universidade Federal de São Carlos in BR. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.636797
+date: 2026-07-10T01:07:47.696180
 url: "/cdr-researcher-census/researchers/maria-lucia-ferreira-barbosa-a5077349/"
 layout: "researcher"
 hiddenInHomeList: true

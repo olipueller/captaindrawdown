@@ -1,7 +1,7 @@
 ---
 title: "Zhiyong Qiao"
 description: "Zhiyong Qiao is a Senior Unknown researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.181163
+date: 2026-07-10T01:07:49.095086
 url: "/cdr-researcher-census/researchers/zhiyong-qiao-a5054745/"
 layout: "researcher"
 hiddenInHomeList: true

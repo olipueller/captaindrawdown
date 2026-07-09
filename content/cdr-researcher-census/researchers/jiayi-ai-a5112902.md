@@ -1,7 +1,7 @@
 ---
 title: "Jiayi Ai"
 description: "Jiayi Ai is a Mid-career Unknown researcher at China University of Petroleum, Beijing in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.003411
+date: 2026-07-10T01:07:48.012515
 url: "/cdr-researcher-census/researchers/jiayi-ai-a5112902/"
 layout: "researcher"
 hiddenInHomeList: true

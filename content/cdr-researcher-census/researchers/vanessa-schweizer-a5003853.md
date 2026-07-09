@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Schweizer"
 description: "Vanessa Schweizer is a Senior General CDR researcher at University of Waterloo in CA. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.140539
+date: 2026-07-10T01:07:47.229369
 url: "/cdr-researcher-census/researchers/vanessa-schweizer-a5003853/"
 layout: "researcher"
 hiddenInHomeList: true

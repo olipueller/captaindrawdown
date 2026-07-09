@@ -1,7 +1,7 @@
 ---
 title: "Bowen Yang"
 description: "Bowen Yang is a Mid-career Biochar researcher at University of Alberta in CA. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.281447
+date: 2026-07-10T01:07:47.363693
 url: "/cdr-researcher-census/researchers/bowen-yang-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true

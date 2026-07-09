@@ -1,7 +1,7 @@
 ---
 title: "Zhengqing Huang"
 description: "Zhengqing Huang is an Early-career Unknown researcher at China Geological Survey in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.136630
+date: 2026-07-10T01:07:49.040317
 url: "/cdr-researcher-census/researchers/zhengqing-huang-a5103951/"
 layout: "researcher"
 hiddenInHomeList: true

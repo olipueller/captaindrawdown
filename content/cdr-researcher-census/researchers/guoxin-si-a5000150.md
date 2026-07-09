@@ -1,7 +1,7 @@
 ---
 title: "Guoxin Si"
 description: "Guoxin Si is an Early-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.253882
+date: 2026-07-10T01:07:48.261921
 url: "/cdr-researcher-census/researchers/guoxin-si-a5000150/"
 layout: "researcher"
 hiddenInHomeList: true

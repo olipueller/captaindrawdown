@@ -1,7 +1,7 @@
 ---
 title: "Alexandra Tiefenbacher"
 description: "Alexandra Tiefenbacher is a Mid-career Soil Carbon researcher. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.634575
+date: 2026-07-10T01:07:47.694204
 url: "/cdr-researcher-census/researchers/alexandra-tiefenbacher-a5023015/"
 layout: "researcher"
 hiddenInHomeList: true

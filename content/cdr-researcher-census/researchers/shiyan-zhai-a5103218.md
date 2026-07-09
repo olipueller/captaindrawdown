@@ -1,7 +1,7 @@
 ---
 title: "Shiyan Zhai"
 description: "Shiyan Zhai is a Mid-career Unknown researcher at Henan University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.175044
+date: 2026-07-10T01:07:48.191329
 url: "/cdr-researcher-census/researchers/shiyan-zhai-a5103218/"
 layout: "researcher"
 hiddenInHomeList: true

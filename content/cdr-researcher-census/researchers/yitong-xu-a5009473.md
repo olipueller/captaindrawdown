@@ -1,7 +1,7 @@
 ---
 title: "Yitong Xu"
 description: "Yitong Xu is a Mid-career Unknown researcher at Harbin Institute of Technology in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.908124
+date: 2026-07-10T01:07:48.833369
 url: "/cdr-researcher-census/researchers/yitong-xu-a5009473/"
 layout: "researcher"
 hiddenInHomeList: true

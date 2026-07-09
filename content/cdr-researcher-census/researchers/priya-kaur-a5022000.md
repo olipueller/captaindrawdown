@@ -1,7 +1,7 @@
 ---
 title: "Priya Kaur"
 description: "Priya Kaur is an Early-career Soil Carbon researcher at Motilal Nehru National Institute of Technology in IN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.196996
+date: 2026-07-10T01:07:49.110256
 url: "/cdr-researcher-census/researchers/priya-kaur-a5022000/"
 layout: "researcher"
 hiddenInHomeList: true

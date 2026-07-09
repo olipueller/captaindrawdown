@@ -1,7 +1,7 @@
 ---
 title: "Elie Courvalin"
 description: "Elie Courvalin is an Early-career Unknown researcher at Université de Montpellier in FR. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.765342
+date: 2026-07-10T01:07:48.709933
 url: "/cdr-researcher-census/researchers/elie-courvalin-a5071800/"
 layout: "researcher"
 hiddenInHomeList: true

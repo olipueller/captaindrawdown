@@ -1,7 +1,7 @@
 ---
 title: "Charu Kalra"
 description: "Charu Kalra is a Mid-career General CDR researcher at University of Delhi in IN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.330190
+date: 2026-07-10T01:07:48.330631
 url: "/cdr-researcher-census/researchers/charu-kalra-a5086493/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "June A. Sekera"
 description: "June A. Sekera is a Senior General CDR researcher at Center for Autism and Related Disorders in US. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.223482
+date: 2026-07-10T01:07:49.133614
 url: "/cdr-researcher-census/researchers/june-a-sekera-a5077927/"
 layout: "researcher"
 hiddenInHomeList: true

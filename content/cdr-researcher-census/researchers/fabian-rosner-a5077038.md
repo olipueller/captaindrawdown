@@ -1,7 +1,7 @@
 ---
 title: "Fabian Rosner"
 description: "Fabian Rosner is a Mid-career General CDR researcher at University of California, Los Angeles in US. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.528751
+date: 2026-07-10T01:07:47.595328
 url: "/cdr-researcher-census/researchers/fabian-rosner-a5077038/"
 layout: "researcher"
 hiddenInHomeList: true

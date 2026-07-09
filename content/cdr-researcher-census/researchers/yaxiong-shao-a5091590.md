@@ -1,7 +1,7 @@
 ---
 title: "Yaxiong Shao"
 description: "Yaxiong Shao is an Early-career Unknown researcher at Northern Illinois University in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.687580
+date: 2026-07-10T01:07:48.641798
 url: "/cdr-researcher-census/researchers/yaxiong-shao-a5091590/"
 layout: "researcher"
 hiddenInHomeList: true

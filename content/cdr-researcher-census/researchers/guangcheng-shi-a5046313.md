@@ -1,7 +1,7 @@
 ---
 title: "Guangcheng Shi"
 description: "Guangcheng Shi is a Mid-career Unknown researcher at Beijing Electronic Science and Technology Institute in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.226463
+date: 2026-07-10T01:07:48.236838
 url: "/cdr-researcher-census/researchers/guangcheng-shi-a5046313/"
 layout: "researcher"
 hiddenInHomeList: true

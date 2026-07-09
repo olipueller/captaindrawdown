@@ -1,7 +1,7 @@
 ---
 title: "H.E. Fawaz"
 description: "H.E. Fawaz is a Mid-career Unknown researcher at Cairo University in EG. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.483954
+date: 2026-07-10T01:07:48.470536
 url: "/cdr-researcher-census/researchers/he-fawaz-a5041575/"
 layout: "researcher"
 hiddenInHomeList: true

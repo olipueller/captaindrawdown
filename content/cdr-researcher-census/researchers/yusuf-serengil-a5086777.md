@@ -1,7 +1,7 @@
 ---
 title: "Yusuf Serengil"
 description: "Yusuf Serengil is a Senior General CDR researcher at Istanbul University-Cerrahpaşa in TR. With 88 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.236565
+date: 2026-07-10T01:07:47.323073
 url: "/cdr-researcher-census/researchers/yusuf-serengil-a5086777/"
 layout: "researcher"
 hiddenInHomeList: true

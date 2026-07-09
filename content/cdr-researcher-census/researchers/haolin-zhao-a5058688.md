@@ -1,7 +1,7 @@
 ---
 title: "Haolin Zhao"
 description: "Haolin Zhao is a Mid-career Soil Carbon researcher at University of Aberdeen in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.963139
+date: 2026-07-10T01:07:47.973478
 url: "/cdr-researcher-census/researchers/haolin-zhao-a5058688/"
 layout: "researcher"
 hiddenInHomeList: true

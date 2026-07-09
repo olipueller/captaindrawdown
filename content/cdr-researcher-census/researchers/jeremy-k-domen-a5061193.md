@@ -1,7 +1,7 @@
 ---
 title: "Jeremy K. Domen"
 description: "Jeremy K. Domen is a Mid-career General CDR researcher at Healthy Start in US. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.309904
+date: 2026-07-10T01:07:47.392117
 url: "/cdr-researcher-census/researchers/jeremy-k-domen-a5061193/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hyeongseok Song"
 description: "Hyeongseok Song is a Mid-career Enhanced Weathering researcher at Chungnam National University in KR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.168812
+date: 2026-07-10T01:07:48.185669
 url: "/cdr-researcher-census/researchers/hyeongseok-song-a5025242/"
 layout: "researcher"
 hiddenInHomeList: true

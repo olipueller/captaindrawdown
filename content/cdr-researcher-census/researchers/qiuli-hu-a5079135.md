@@ -1,7 +1,7 @@
 ---
 title: "Qiuli Hu"
 description: "Qiuli Hu is a Mid-career Soil Carbon researcher at Ludong University in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.379595
+date: 2026-07-10T01:07:47.461313
 url: "/cdr-researcher-census/researchers/qiuli-hu-a5079135/"
 layout: "researcher"
 hiddenInHomeList: true

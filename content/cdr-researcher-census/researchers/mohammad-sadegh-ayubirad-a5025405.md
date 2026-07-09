@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Sadegh Ayubirad"
 description: "Mohammad Sadegh Ayubirad is a Mid-career Unknown researcher at Western Sydney University in AU. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.177145
+date: 2026-07-10T01:07:49.066572
 url: "/cdr-researcher-census/researchers/mohammad-sadegh-ayubirad-a5025405/"
 layout: "researcher"
 hiddenInHomeList: true

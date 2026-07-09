@@ -1,7 +1,7 @@
 ---
 title: "Stephen F. Gonski"
 description: "Stephen F. Gonski is a Mid-career Unknown researcher at University of Calgary in CA. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.600486
+date: 2026-07-10T01:07:48.563862
 url: "/cdr-researcher-census/researchers/stephen-f-gonski-a5021106/"
 layout: "researcher"
 hiddenInHomeList: true

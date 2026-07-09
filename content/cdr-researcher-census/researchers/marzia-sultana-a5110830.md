@@ -1,7 +1,7 @@
 ---
 title: "Marzia Sultana"
 description: "Marzia Sultana is a Mid-career Unknown researcher at Jerash University in JO. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.369874
+date: 2026-07-10T01:07:47.452207
 url: "/cdr-researcher-census/researchers/marzia-sultana-a5110830/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ajay Chauhan"
 description: "Ajay Chauhan is a Mid-career General CDR researcher at Institute of Mental Health and Hospital in IN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.926399
+date: 2026-07-10T01:07:47.939792
 url: "/cdr-researcher-census/researchers/ajay-chauhan-a5110763/"
 layout: "researcher"
 hiddenInHomeList: true

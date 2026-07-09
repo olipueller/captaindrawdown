@@ -1,7 +1,7 @@
 ---
 title: "Yunchao Zhou"
 description: "Yunchao Zhou is a Senior Soil Carbon researcher at Guizhou University in CN. With 104 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.250696
+date: 2026-07-10T01:07:47.335504
 url: "/cdr-researcher-census/researchers/yunchao-zhou-a5038430/"
 layout: "researcher"
 hiddenInHomeList: true

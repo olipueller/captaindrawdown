@@ -1,7 +1,7 @@
 ---
 title: "Syed Nizam Uddin Shah Bukhari"
 description: "Syed Nizam Uddin Shah Bukhari is a Mid-career Unknown researcher at Dawood University of Engineering and Technology in PK. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.478229
+date: 2026-07-10T01:07:48.465407
 url: "/cdr-researcher-census/researchers/syed-nizam-uddin-shah-bukhari-a5017537/"
 layout: "researcher"
 hiddenInHomeList: true

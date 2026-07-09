@@ -1,7 +1,7 @@
 ---
 title: "Vafa Ahmadi"
 description: "Vafa Ahmadi is a Mid-career Unknown researcher at University of South-Eastern Norway in NO. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.932093
+date: 2026-07-10T01:07:47.944884
 url: "/cdr-researcher-census/researchers/vafa-ahmadi-a5066607/"
 layout: "researcher"
 hiddenInHomeList: true

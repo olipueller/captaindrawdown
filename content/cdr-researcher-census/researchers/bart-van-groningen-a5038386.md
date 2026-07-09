@@ -1,7 +1,7 @@
 ---
 title: "Bart van Groningen"
 description: "Bart van Groningen is a Mid-career Unknown researcher at Radboud University Nijmegen in NL. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.640753
+date: 2026-07-10T01:07:48.599446
 url: "/cdr-researcher-census/researchers/bart-van-groningen-a5038386/"
 layout: "researcher"
 hiddenInHomeList: true

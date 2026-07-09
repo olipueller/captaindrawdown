@@ -1,7 +1,7 @@
 ---
 title: "Qianhang Zhai"
 description: "Qianhang Zhai is a Mid-career Unknown researcher at Jilin Agricultural University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.867476
+date: 2026-07-10T01:07:48.796340
 url: "/cdr-researcher-census/researchers/qianhang-zhai-a5051156/"
 layout: "researcher"
 hiddenInHomeList: true

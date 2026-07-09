@@ -1,7 +1,7 @@
 ---
 title: "Marie Luise Luttkus"
 description: "Marie Luise Luttkus is a Mid-career Unknown researcher at Leibniz Institute for Tropospheric Research in DE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.705730
+date: 2026-07-10T01:07:48.658057
 url: "/cdr-researcher-census/researchers/marie-luise-luttkus-a5068180/"
 layout: "researcher"
 hiddenInHomeList: true

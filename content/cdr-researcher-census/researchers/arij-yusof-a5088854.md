@@ -1,7 +1,7 @@
 ---
 title: "Arij Yusof"
 description: "Arij Yusof is a Senior Unknown researcher at National University of Malaysia in MY. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.182610
+date: 2026-07-10T01:07:49.096788
 url: "/cdr-researcher-census/researchers/arij-yusof-a5088854/"
 layout: "researcher"
 hiddenInHomeList: true

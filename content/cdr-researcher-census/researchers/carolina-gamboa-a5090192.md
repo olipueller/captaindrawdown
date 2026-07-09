@@ -1,7 +1,7 @@
 ---
 title: "Carolina Gamboa"
 description: "Carolina Gamboa is a Mid-career Unknown researcher at Universidad Bernardo O'Higgins in CL. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.787674
+date: 2026-07-10T01:07:47.836510
 url: "/cdr-researcher-census/researchers/carolina-gamboa-a5090192/"
 layout: "researcher"
 hiddenInHomeList: true

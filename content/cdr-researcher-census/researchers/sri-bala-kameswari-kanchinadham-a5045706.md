@@ -1,7 +1,7 @@
 ---
 title: "Sri Bala Kameswari Kanchinadham"
 description: "Sri Bala Kameswari Kanchinadham is a Mid-career Unknown researcher at Central Leather Research Institute in IN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.258661
+date: 2026-07-10T01:07:48.266348
 url: "/cdr-researcher-census/researchers/sri-bala-kameswari-kanchinadham-a5045706/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhengwu Cui"
 description: "Zhengwu Cui is a Mid-career Soil Carbon researcher at Changchun Institute of Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.465505
+date: 2026-07-10T01:07:48.453265
 url: "/cdr-researcher-census/researchers/zhengwu-cui-a5048746/"
 layout: "researcher"
 hiddenInHomeList: true

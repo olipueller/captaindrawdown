@@ -1,7 +1,7 @@
 ---
 title: "Matheus Quintão Braga"
 description: "Matheus Quintão Braga is a Mid-career Unknown researcher at Universidade Federal de Viçosa in BR. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.228868
+date: 2026-07-10T01:07:48.239073
 url: "/cdr-researcher-census/researchers/matheus-quintao-braga-a5008294/"
 layout: "researcher"
 hiddenInHomeList: true

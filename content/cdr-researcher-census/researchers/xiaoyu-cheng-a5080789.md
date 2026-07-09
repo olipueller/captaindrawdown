@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyu Cheng"
 description: "Xiaoyu Cheng is a Mid-career Unknown researcher at China University of Geosciences in CN. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.450059
+date: 2026-07-10T01:07:47.525878
 url: "/cdr-researcher-census/researchers/xiaoyu-cheng-a5080789/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Silke Beck"
 description: "Silke Beck is a Senior General CDR researcher at Technical University of Munich in DE. With 75 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.982722
+date: 2026-07-10T01:07:47.033236
 url: "/cdr-researcher-census/researchers/silke-beck-a5054399/"
 layout: "researcher"
 hiddenInHomeList: true

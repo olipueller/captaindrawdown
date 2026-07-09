@@ -1,7 +1,7 @@
 ---
 title: "Alina Brad"
 description: "Alina Brad is a Mid-career General CDR researcher. With 41 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.738298
+date: 2026-07-10T01:07:47.790693
 url: "/cdr-researcher-census/researchers/alina-brad-a5048506/"
 layout: "researcher"
 hiddenInHomeList: true

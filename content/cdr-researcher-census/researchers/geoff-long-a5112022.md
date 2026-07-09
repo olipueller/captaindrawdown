@@ -1,7 +1,7 @@
 ---
 title: "Geoff Long"
 description: "Geoff Long is a Senior Unknown researcher at University of Portsmouth in GB. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.943064
+date: 2026-07-10T01:07:48.865355
 url: "/cdr-researcher-census/researchers/geoff-long-a5112022/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christos Chondrogiannis"
 description: "Christos Chondrogiannis is a Mid-career General CDR researcher at University of Patras in GR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.491268
+date: 2026-07-10T01:07:48.477264
 url: "/cdr-researcher-census/researchers/christos-chondrogiannis-a5058216/"
 layout: "researcher"
 hiddenInHomeList: true

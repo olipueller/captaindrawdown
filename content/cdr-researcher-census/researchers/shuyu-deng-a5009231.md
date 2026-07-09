@@ -1,7 +1,7 @@
 ---
 title: "Shuyu Deng"
 description: "Shuyu Deng is a Mid-career Unknown researcher at Aarhus University in DK. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.102965
+date: 2026-07-10T01:07:49.011298
 url: "/cdr-researcher-census/researchers/shuyu-deng-a5009231/"
 layout: "researcher"
 hiddenInHomeList: true

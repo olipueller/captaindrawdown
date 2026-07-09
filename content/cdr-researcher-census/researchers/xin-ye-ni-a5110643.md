@@ -1,7 +1,7 @@
 ---
 title: "Xin-Ye Ni"
 description: "Xin-Ye Ni is a Mid-career Unknown researcher at Changzhou No.2 People's Hospital in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.672561
+date: 2026-07-10T01:07:47.729529
 url: "/cdr-researcher-census/researchers/xin-ye-ni-a5110643/"
 layout: "researcher"
 hiddenInHomeList: true

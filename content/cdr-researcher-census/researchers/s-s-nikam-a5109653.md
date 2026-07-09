@@ -1,7 +1,7 @@
 ---
 title: "S. S. Nikam"
 description: "S. S. Nikam is a Mid-career Unknown researcher at Government Medical College in IN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.085042
+date: 2026-07-10T01:07:48.086033
 url: "/cdr-researcher-census/researchers/s-s-nikam-a5109653/"
 layout: "researcher"
 hiddenInHomeList: true

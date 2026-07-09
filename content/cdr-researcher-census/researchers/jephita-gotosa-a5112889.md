@@ -1,7 +1,7 @@
 ---
 title: "Jephita Gotosa"
 description: "Jephita Gotosa is a Senior Soil Carbon researcher at Chinhoyi University of Technology in ZW. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.388751
+date: 2026-07-10T01:07:48.382364
 url: "/cdr-researcher-census/researchers/jephita-gotosa-a5112889/"
 layout: "researcher"
 hiddenInHomeList: true

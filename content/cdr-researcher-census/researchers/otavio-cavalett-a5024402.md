@@ -1,7 +1,7 @@
 ---
 title: "Otávio Cavalett"
 description: "Otávio Cavalett is an Eminent General CDR researcher at Global Services (Slovakia) in SK. With 113 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.933679
+date: 2026-07-10T01:07:46.953207
 url: "/cdr-researcher-census/researchers/otavio-cavalett-a5024402/"
 layout: "researcher"
 hiddenInHomeList: true

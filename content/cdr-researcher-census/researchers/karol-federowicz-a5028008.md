@@ -1,7 +1,7 @@
 ---
 title: "Karol Federowicz"
 description: "Karol Federowicz is a Mid-career General CDR researcher at West Pomeranian University of Technology in Szczecin in PL. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.583072
+date: 2026-07-10T01:07:47.646584
 url: "/cdr-researcher-census/researchers/karol-federowicz-a5028008/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuexia Zhou"
 description: "Xuexia Zhou is an Early-career Unknown researcher at Guizhou University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.917150
+date: 2026-07-10T01:07:48.841415
 url: "/cdr-researcher-census/researchers/xuexia-zhou-a5010452/"
 layout: "researcher"
 hiddenInHomeList: true

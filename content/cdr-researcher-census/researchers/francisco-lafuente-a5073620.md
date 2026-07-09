@@ -1,7 +1,7 @@
 ---
 title: "Francisco Lafuente"
 description: "Francisco Lafuente is a Senior Unknown researcher at Universidad de Valladolid in ES. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.471140
+date: 2026-07-10T01:07:48.458644
 url: "/cdr-researcher-census/researchers/francisco-lafuente-a5073620/"
 layout: "researcher"
 hiddenInHomeList: true

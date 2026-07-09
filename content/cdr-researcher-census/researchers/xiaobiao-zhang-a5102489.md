@@ -1,7 +1,7 @@
 ---
 title: "Xiaobiao Zhang"
 description: "Xiaobiao Zhang is an Early-career Unknown researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.128496
+date: 2026-07-10T01:07:49.033410
 url: "/cdr-researcher-census/researchers/xiaobiao-zhang-a5102489/"
 layout: "researcher"
 hiddenInHomeList: true

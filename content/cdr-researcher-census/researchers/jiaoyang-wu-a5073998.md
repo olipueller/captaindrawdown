@@ -1,7 +1,7 @@
 ---
 title: "Jiaoyang Wu"
 description: "Jiaoyang Wu is a Mid-career Unknown researcher at University of Science and Technology of China in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.236010
+date: 2026-07-10T01:07:49.145120
 url: "/cdr-researcher-census/researchers/jiaoyang-wu-a5073998/"
 layout: "researcher"
 hiddenInHomeList: true

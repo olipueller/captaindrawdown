@@ -1,7 +1,7 @@
 ---
 title: "Xuemei Zhang"
 description: "Xuemei Zhang is a Senior General CDR researcher at Tongji University in CN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.277393
+date: 2026-07-10T01:07:48.283123
 url: "/cdr-researcher-census/researchers/xuemei-zhang-a5065215/"
 layout: "researcher"
 hiddenInHomeList: true

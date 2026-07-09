@@ -1,7 +1,7 @@
 ---
 title: "Swasti Mudgal"
 description: "Swasti Mudgal is a Mid-career Unknown researcher at University of Trans-Disciplinary Health Sciences and Technology in IN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.254018
+date: 2026-07-10T01:07:49.160995
 url: "/cdr-researcher-census/researchers/swasti-mudgal-a5044050/"
 layout: "researcher"
 hiddenInHomeList: true

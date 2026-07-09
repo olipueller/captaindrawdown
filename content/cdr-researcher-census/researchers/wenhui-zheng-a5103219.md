@@ -1,7 +1,7 @@
 ---
 title: "Wenhui Zheng"
 description: "Wenhui Zheng is a Mid-career Unknown researcher at Fujian Normal University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.276988
+date: 2026-07-10T01:07:48.282713
 url: "/cdr-researcher-census/researchers/wenhui-zheng-a5103219/"
 layout: "researcher"
 hiddenInHomeList: true

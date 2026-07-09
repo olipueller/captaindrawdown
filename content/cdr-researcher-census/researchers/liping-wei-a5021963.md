@@ -1,7 +1,7 @@
 ---
 title: "Liping Wei"
 description: "Liping Wei is a Senior Unknown researcher at Sichuan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.475542
+date: 2026-07-10T01:07:47.547657
 url: "/cdr-researcher-census/researchers/liping-wei-a5021963/"
 layout: "researcher"
 hiddenInHomeList: true

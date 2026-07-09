@@ -1,7 +1,7 @@
 ---
 title: "Mara Gabbrielli"
 description: "Mara Gabbrielli is a Mid-career Soil Carbon researcher at University of Milan in IT. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.235092
+date: 2026-07-10T01:07:49.144274
 url: "/cdr-researcher-census/researchers/mara-gabbrielli-a5015834/"
 layout: "researcher"
 hiddenInHomeList: true

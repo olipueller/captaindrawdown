@@ -1,7 +1,7 @@
 ---
 title: "Hamed Bashiri"
 description: "Hamed Bashiri is a Senior General CDR researcher at Natural Resources Canada in CA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.023976
+date: 2026-07-10T01:07:48.031841
 url: "/cdr-researcher-census/researchers/hamed-bashiri-a5012212/"
 layout: "researcher"
 hiddenInHomeList: true

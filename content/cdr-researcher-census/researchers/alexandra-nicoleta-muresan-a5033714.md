@@ -1,7 +1,7 @@
 ---
 title: "Alexandra Nicoleta Muresan"
 description: "Alexandra Nicoleta Muresan is a Mid-career Unknown researcher at National Research Council in IT. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.449732
+date: 2026-07-10T01:07:48.438663
 url: "/cdr-researcher-census/researchers/alexandra-nicoleta-muresan-a5033714/"
 layout: "researcher"
 hiddenInHomeList: true

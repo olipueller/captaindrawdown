@@ -1,7 +1,7 @@
 ---
 title: "Damian Ratano"
 description: "Damian Ratano is a Mid-career General CDR researcher at University of Lausanne in CH. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.481701
+date: 2026-07-10T01:07:48.468524
 url: "/cdr-researcher-census/researchers/damian-ratano-a5082649/"
 layout: "researcher"
 hiddenInHomeList: true

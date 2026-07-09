@@ -1,7 +1,7 @@
 ---
 title: "Sushanth Ashokkumar"
 description: "Sushanth Ashokkumar is an Early-career Unknown researcher at Rice University in US. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.467758
+date: 2026-07-10T01:07:48.455685
 url: "/cdr-researcher-census/researchers/sushanth-ashokkumar-a5106490/"
 layout: "researcher"
 hiddenInHomeList: true

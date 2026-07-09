@@ -1,7 +1,7 @@
 ---
 title: "Charitomeni M. Veziri"
 description: "Charitomeni M. Veziri is a Senior Unknown researcher at National Centre of Scientific Research \"Demokritos\" in GR. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.070258
+date: 2026-07-10T01:07:48.072955
 url: "/cdr-researcher-census/researchers/charitomeni-m-veziri-a5064208/"
 layout: "researcher"
 hiddenInHomeList: true

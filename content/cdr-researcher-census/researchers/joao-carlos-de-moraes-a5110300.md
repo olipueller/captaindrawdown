@@ -1,7 +1,7 @@
 ---
 title: "Joao Carlos De Moraes"
 description: "Joao Carlos De Moraes is an Early-career Soil Carbon researcher at Universidade Estadual de Ponta Grossa in BR. With 16 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.167513
+date: 2026-07-10T01:07:47.257072
 url: "/cdr-researcher-census/researchers/joao-carlos-de-moraes-a5110300/"
 layout: "researcher"
 hiddenInHomeList: true

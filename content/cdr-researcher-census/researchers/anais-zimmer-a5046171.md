@@ -1,7 +1,7 @@
 ---
 title: "Anaïs Zimmer"
 description: "Anaïs Zimmer is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.686173
+date: 2026-07-10T01:07:47.742467
 url: "/cdr-researcher-census/researchers/anais-zimmer-a5046171/"
 layout: "researcher"
 hiddenInHomeList: true

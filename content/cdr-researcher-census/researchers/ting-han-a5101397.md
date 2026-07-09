@@ -1,7 +1,7 @@
 ---
 title: "Ting Han"
 description: "Ting Han is a Mid-career Biochar researcher at Guangdong Province Environmental Monitoring Center in CN. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.013231
+date: 2026-07-10T01:07:48.021055
 url: "/cdr-researcher-census/researchers/ting-han-a5101397/"
 layout: "researcher"
 hiddenInHomeList: true

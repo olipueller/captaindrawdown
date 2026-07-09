@@ -1,7 +1,7 @@
 ---
 title: "Robin Beatty"
 description: "Robin Beatty is a Mid-career General CDR researcher at Human Growth Foundation in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.919329
+date: 2026-07-10T01:07:47.933001
 url: "/cdr-researcher-census/researchers/robin-beatty-a5000366/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anwar Hamdan Al Assaf"
 description: "Anwar Hamdan Al Assaf is a Mid-career Unknown researcher at Amman Arab University in JO. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.854405
+date: 2026-07-10T01:07:48.785046
 url: "/cdr-researcher-census/researchers/anwar-hamdan-al-assaf-a5112878/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sneha Bandyopadhyay"
 description: "Sneha Bandyopadhyay is a Mid-career General CDR researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.016501
+date: 2026-07-10T01:07:48.024112
 url: "/cdr-researcher-census/researchers/sneha-bandyopadhyay-a5014873/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jining Zhang"
 description: "Jining Zhang is a Senior Soil Carbon researcher at Shanghai Academy of Agricultural Sciences in CN. With 100 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.040913
+date: 2026-07-10T01:07:47.113586
 url: "/cdr-researcher-census/researchers/jining-zhang-a5051152/"
 layout: "researcher"
 hiddenInHomeList: true

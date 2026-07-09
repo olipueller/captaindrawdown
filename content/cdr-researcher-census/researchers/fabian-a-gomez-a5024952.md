@@ -1,7 +1,7 @@
 ---
 title: "Fabian A. Gomez"
 description: "Fabian A. Gomez is a Senior Ocean CDR researcher at Mississippi State University  in US. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.346351
+date: 2026-07-10T01:07:47.429125
 url: "/cdr-researcher-census/researchers/fabian-a-gomez-a5024952/"
 layout: "researcher"
 hiddenInHomeList: true

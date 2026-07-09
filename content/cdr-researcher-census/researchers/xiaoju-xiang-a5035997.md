@@ -1,7 +1,7 @@
 ---
 title: "Xiaoju Xiang"
 description: "Xiaoju Xiang is a Mid-career Unknown researcher at Ningxia University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.174622
+date: 2026-07-10T01:07:49.064227
 url: "/cdr-researcher-census/researchers/xiaoju-xiang-a5035997/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shiqi Han"
 description: "Shiqi Han is a Senior Unknown researcher at Zhengzhou University in CN. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.347500
+date: 2026-07-10T01:07:47.430128
 url: "/cdr-researcher-census/researchers/shiqi-han-a5018214/"
 layout: "researcher"
 hiddenInHomeList: true

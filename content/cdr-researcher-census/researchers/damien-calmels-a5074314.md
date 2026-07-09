@@ -1,7 +1,7 @@
 ---
 title: "Damien Calmels"
 description: "Damien Calmels is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 22 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.947501
+date: 2026-07-10T01:07:47.959358
 url: "/cdr-researcher-census/researchers/damien-calmels-a5074314/"
 layout: "researcher"
 hiddenInHomeList: true

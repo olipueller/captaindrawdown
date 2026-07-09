@@ -1,7 +1,7 @@
 ---
 title: "Congmou Zhu"
 description: "Congmou Zhu is a Mid-career Soil Carbon researcher at Zhejiang Gongshang University in CN. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.313002
+date: 2026-07-10T01:07:47.395158
 url: "/cdr-researcher-census/researchers/congmou-zhu-a5107934/"
 layout: "researcher"
 hiddenInHomeList: true

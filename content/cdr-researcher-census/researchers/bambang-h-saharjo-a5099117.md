@@ -1,7 +1,7 @@
 ---
 title: "Bambang H. Saharjo"
 description: "Bambang H. Saharjo is an Early-career Unknown researcher at IPB University in ID. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.374832
+date: 2026-07-10T01:07:48.371214
 url: "/cdr-researcher-census/researchers/bambang-h-saharjo-a5099117/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ke Zhang"
 description: "Ke Zhang is a Mid-career Unknown researcher at Beijing Forestry University in CN. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.683338
+date: 2026-07-10T01:07:48.638365
 url: "/cdr-researcher-census/researchers/ke-zhang-a5100954/"
 layout: "researcher"
 hiddenInHomeList: true

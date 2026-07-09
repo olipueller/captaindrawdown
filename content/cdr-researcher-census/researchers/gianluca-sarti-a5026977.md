@@ -1,7 +1,7 @@
 ---
 title: "Gianluca Sarti"
 description: "Gianluca Sarti is a Senior Unknown researcher at Piaggio (Italy) in IT. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.885483
+date: 2026-07-10T01:07:48.812467
 url: "/cdr-researcher-census/researchers/gianluca-sarti-a5026977/"
 layout: "researcher"
 hiddenInHomeList: true

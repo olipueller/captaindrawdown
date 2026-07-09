@@ -1,7 +1,7 @@
 ---
 title: "Erika Gömöryová"
 description: "Erika Gömöryová is a Senior Soil Carbon researcher at Technická univerzita vo Zvolene in SK. With 76 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.258174
+date: 2026-07-10T01:07:47.342358
 url: "/cdr-researcher-census/researchers/erika-gomoryova-a5008493/"
 layout: "researcher"
 hiddenInHomeList: true

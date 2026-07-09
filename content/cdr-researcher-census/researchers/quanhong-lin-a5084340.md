@@ -1,7 +1,7 @@
 ---
 title: "Quanhong Lin"
 description: "Quanhong Lin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.720905
+date: 2026-07-10T01:07:48.670736
 url: "/cdr-researcher-census/researchers/quanhong-lin-a5084340/"
 layout: "researcher"
 hiddenInHomeList: true

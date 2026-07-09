@@ -1,7 +1,7 @@
 ---
 title: "Kenton Phillips"
 description: "Kenton Phillips is a Senior Unknown researcher at University of Warwick in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.194256
+date: 2026-07-10T01:07:49.107703
 url: "/cdr-researcher-census/researchers/kenton-phillips-a5084153/"
 layout: "researcher"
 hiddenInHomeList: true

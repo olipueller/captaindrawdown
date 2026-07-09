@@ -1,7 +1,7 @@
 ---
 title: "Christoph Beuttler"
 description: "Christoph Beuttler is an Early-career General CDR researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.076164
+date: 2026-07-10T01:07:48.078568
 url: "/cdr-researcher-census/researchers/christoph-beuttler-a5063518/"
 layout: "researcher"
 hiddenInHomeList: true

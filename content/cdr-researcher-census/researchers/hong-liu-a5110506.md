@@ -1,7 +1,7 @@
 ---
 title: "Hong Liu"
 description: "Hong Liu is a Senior Unknown researcher at Chongqing University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.248883
+date: 2026-07-10T01:07:48.256811
 url: "/cdr-researcher-census/researchers/hong-liu-a5110506/"
 layout: "researcher"
 hiddenInHomeList: true

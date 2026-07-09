@@ -1,7 +1,7 @@
 ---
 title: "Zichao Zhao"
 description: "Zichao Zhao is a Mid-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.014403
+date: 2026-07-10T01:07:48.022177
 url: "/cdr-researcher-census/researchers/zichao-zhao-a5102679/"
 layout: "researcher"
 hiddenInHomeList: true

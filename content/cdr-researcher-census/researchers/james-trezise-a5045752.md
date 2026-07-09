@@ -1,7 +1,7 @@
 ---
 title: "James Trezise"
 description: "James Trezise is a Mid-career Unknown researcher. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.214499
+date: 2026-07-10T01:07:48.226619
 url: "/cdr-researcher-census/researchers/james-trezise-a5045752/"
 layout: "researcher"
 hiddenInHomeList: true

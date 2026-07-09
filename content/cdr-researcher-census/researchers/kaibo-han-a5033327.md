@@ -1,7 +1,7 @@
 ---
 title: "Kaibo Han"
 description: "Kaibo Han is a Mid-career Unknown researcher at Ministry of Natural Resources in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.108104
+date: 2026-07-10T01:07:49.015433
 url: "/cdr-researcher-census/researchers/kaibo-han-a5033327/"
 layout: "researcher"
 hiddenInHomeList: true

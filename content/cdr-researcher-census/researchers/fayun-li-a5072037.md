@@ -1,7 +1,7 @@
 ---
 title: "Fayun Li"
 description: "Fayun Li is an Early-career Soil Carbon researcher at Shanghai Institute of Technology in CN. With 4 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.791277
+date: 2026-07-10T01:07:48.731830
 url: "/cdr-researcher-census/researchers/fayun-li-a5072037/"
 layout: "researcher"
 hiddenInHomeList: true

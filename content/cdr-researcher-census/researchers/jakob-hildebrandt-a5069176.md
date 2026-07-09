@@ -1,7 +1,7 @@
 ---
 title: "Jakob Hildebrandt"
 description: "Jakob Hildebrandt is a Mid-career Soil Carbon researcher at Zittau/Görlitz University of Applied Sciences in DE. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.502113
+date: 2026-07-10T01:07:47.571580
 url: "/cdr-researcher-census/researchers/jakob-hildebrandt-a5069176/"
 layout: "researcher"
 hiddenInHomeList: true

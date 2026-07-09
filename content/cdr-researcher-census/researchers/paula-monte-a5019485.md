@@ -1,7 +1,7 @@
 ---
 title: "Paula Monte"
 description: "Paula Monte is a Senior Unknown researcher at Ecologie Microbienne Lyon in FR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.969014
+date: 2026-07-10T01:07:48.889319
 url: "/cdr-researcher-census/researchers/paula-monte-a5019485/"
 layout: "researcher"
 hiddenInHomeList: true

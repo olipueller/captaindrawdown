@@ -1,7 +1,7 @@
 ---
 title: "Athanasios Varoutoglou"
 description: "Athanasios Varoutoglou is a Mid-career Unknown researcher at Democritus University of Thrace in GR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.069698
+date: 2026-07-10T01:07:48.072386
 url: "/cdr-researcher-census/researchers/athanasios-varoutoglou-a5023716/"
 layout: "researcher"
 hiddenInHomeList: true

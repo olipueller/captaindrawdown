@@ -1,7 +1,7 @@
 ---
 title: "Amanda Bidwell"
 description: "Amanda Bidwell is a Mid-career Unknown researcher at Google (United States) in US. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.564554
+date: 2026-07-10T01:07:47.628197
 url: "/cdr-researcher-census/researchers/amanda-bidwell-a5048769/"
 layout: "researcher"
 hiddenInHomeList: true

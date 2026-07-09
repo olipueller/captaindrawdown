@@ -1,7 +1,7 @@
 ---
 title: "Leon Merfort"
 description: "Leon Merfort is a Mid-career General CDR researcher at Leibniz Association in DE. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.302770
+date: 2026-07-10T01:07:47.384989
 url: "/cdr-researcher-census/researchers/leon-merfort-a5010129/"
 layout: "researcher"
 hiddenInHomeList: true

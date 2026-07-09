@@ -1,7 +1,7 @@
 ---
 title: "Apostolia-Lemonia Skoura"
 description: "Apostolia-Lemonia Skoura is a Mid-career Unknown researcher at University Hospital of Larissa in GR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.047663
+date: 2026-07-10T01:07:48.961048
 url: "/cdr-researcher-census/researchers/apostolia-lemonia-skoura-a5028380/"
 layout: "researcher"
 hiddenInHomeList: true

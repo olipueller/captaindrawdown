@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Barléon"
 description: "Nicolas Barléon is a Mid-career Unknown researcher at CERFACS in FR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.664085
+date: 2026-07-10T01:07:48.620614
 url: "/cdr-researcher-census/researchers/nicolas-barleon-a5070703/"
 layout: "researcher"
 hiddenInHomeList: true

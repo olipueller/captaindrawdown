@@ -1,7 +1,7 @@
 ---
 title: "Guilan Gao"
 description: "Guilan Gao is a Senior Biochar researcher at Shanghai Polytechnic University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.495063
+date: 2026-07-10T01:07:47.565173
 url: "/cdr-researcher-census/researchers/guilan-gao-a5057833/"
 layout: "researcher"
 hiddenInHomeList: true

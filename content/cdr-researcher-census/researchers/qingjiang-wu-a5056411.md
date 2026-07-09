@@ -1,7 +1,7 @@
 ---
 title: "Qingjiang Wu"
 description: "Qingjiang Wu is a Senior Unknown researcher at Jiangxi Academy of Agricultural Sciences in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.979898
+date: 2026-07-10T01:07:48.899892
 url: "/cdr-researcher-census/researchers/qingjiang-wu-a5056411/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cécile Olive Mbesse"
 description: "Cécile Olive Mbesse is a Mid-career Unknown researcher at Université de Yaoundé I in CM. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.436701
+date: 2026-07-10T01:07:48.426759
 url: "/cdr-researcher-census/researchers/cecile-olive-mbesse-a5081018/"
 layout: "researcher"
 hiddenInHomeList: true

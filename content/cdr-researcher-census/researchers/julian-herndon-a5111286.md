@@ -1,7 +1,7 @@
 ---
 title: "Julian Herndon"
 description: "Julian Herndon is a Senior Ocean CDR researcher at National Oceanic and Atmospheric Administration in US. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.273169
+date: 2026-07-10T01:07:47.356055
 url: "/cdr-researcher-census/researchers/julian-herndon-a5111286/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Weitian Zhang"
 description: "Weitian Zhang is a Mid-career General CDR researcher at Shanghai Jiao Tong University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.922592
+date: 2026-07-10T01:07:48.846284
 url: "/cdr-researcher-census/researchers/weitian-zhang-a5115598/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alex Ryan"
 description: "Alex Ryan is a Mid-career Unknown researcher at Rensselaer Polytechnic Institute in US. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.224918
+date: 2026-07-10T01:07:48.235184
 url: "/cdr-researcher-census/researchers/alex-ryan-a5113462/"
 layout: "researcher"
 hiddenInHomeList: true

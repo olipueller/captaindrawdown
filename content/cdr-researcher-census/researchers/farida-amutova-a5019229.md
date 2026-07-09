@@ -1,7 +1,7 @@
 ---
 title: "Farida Amutova"
 description: "Farida Amutova is a Mid-career Biochar researcher at Agenus (United States) in US. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.405154
+date: 2026-07-10T01:07:48.396868
 url: "/cdr-researcher-census/researchers/farida-amutova-a5019229/"
 layout: "researcher"
 hiddenInHomeList: true

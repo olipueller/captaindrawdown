@@ -1,7 +1,7 @@
 ---
 title: "Meredith Rose Barr"
 description: "Meredith Rose Barr is a Mid-career Biochar researcher at London South Bank University in GB. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.962826
+date: 2026-07-10T01:07:47.973191
 url: "/cdr-researcher-census/researchers/meredith-rose-barr-a5044529/"
 layout: "researcher"
 hiddenInHomeList: true

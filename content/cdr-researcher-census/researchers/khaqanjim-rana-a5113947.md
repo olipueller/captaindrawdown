@@ -1,7 +1,7 @@
 ---
 title: "Khaqan‐Jim Rana"
 description: "Khaqan‐Jim Rana is an Early-career Unknown researcher at University of Bedfordshire in GB. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.766105
+date: 2026-07-10T01:07:48.710603
 url: "/cdr-researcher-census/researchers/khaqanjim-rana-a5113947/"
 layout: "researcher"
 hiddenInHomeList: true

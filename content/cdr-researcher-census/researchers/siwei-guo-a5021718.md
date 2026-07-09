@@ -1,7 +1,7 @@
 ---
 title: "Siwei Guo"
 description: "Siwei Guo is a Mid-career Unknown researcher at Soochow University in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.319158
+date: 2026-07-10T01:07:47.401496
 url: "/cdr-researcher-census/researchers/siwei-guo-a5021718/"
 layout: "researcher"
 hiddenInHomeList: true

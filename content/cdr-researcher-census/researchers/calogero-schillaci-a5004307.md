@@ -1,7 +1,7 @@
 ---
 title: "Calogero Schillaci"
 description: "Calogero Schillaci is a Senior Soil Carbon researcher at European Commission in BE. With 125 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.009034
+date: 2026-07-10T01:07:47.071649
 url: "/cdr-researcher-census/researchers/calogero-schillaci-a5004307/"
 layout: "researcher"
 hiddenInHomeList: true

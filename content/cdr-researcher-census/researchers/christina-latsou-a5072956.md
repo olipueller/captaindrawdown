@@ -1,7 +1,7 @@
 ---
 title: "Christina Latsou"
 description: "Christina Latsou is a Mid-career Unknown researcher at Cranfield University in GB. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.500053
+date: 2026-07-10T01:07:48.485525
 url: "/cdr-researcher-census/researchers/christina-latsou-a5072956/"
 layout: "researcher"
 hiddenInHomeList: true

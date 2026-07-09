@@ -1,7 +1,7 @@
 ---
 title: "Tanagorn Kwamman"
 description: "Tanagorn Kwamman is a Mid-career Biochar researcher at Charoenkrung Pracharak Hospital in TH. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.847760
+date: 2026-07-10T01:07:47.883553
 url: "/cdr-researcher-census/researchers/tanagorn-kwamman-a5011326/"
 layout: "researcher"
 hiddenInHomeList: true

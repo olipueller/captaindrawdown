@@ -1,7 +1,7 @@
 ---
 title: "Zhonghua Zhang"
 description: "Zhonghua Zhang is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.162339
+date: 2026-07-10T01:07:47.251583
 url: "/cdr-researcher-census/researchers/zhonghua-zhang-a5100786/"
 layout: "researcher"
 hiddenInHomeList: true

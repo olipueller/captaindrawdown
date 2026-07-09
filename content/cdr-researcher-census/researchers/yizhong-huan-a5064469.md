@@ -1,7 +1,7 @@
 ---
 title: "Yizhong Huan"
 description: "Yizhong Huan is a Mid-career General CDR researcher at China Tourism Academy in CN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.375890
+date: 2026-07-10T01:07:47.457866
 url: "/cdr-researcher-census/researchers/yizhong-huan-a5064469/"
 layout: "researcher"
 hiddenInHomeList: true

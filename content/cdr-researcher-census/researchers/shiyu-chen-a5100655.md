@@ -1,7 +1,7 @@
 ---
 title: "Shiyu Chen"
 description: "Shiyu Chen is a Mid-career Soil Carbon researcher at Xinyang Normal University in CN. With 78 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.187587
+date: 2026-07-10T01:07:47.276586
 url: "/cdr-researcher-census/researchers/shiyu-chen-a5100655/"
 layout: "researcher"
 hiddenInHomeList: true

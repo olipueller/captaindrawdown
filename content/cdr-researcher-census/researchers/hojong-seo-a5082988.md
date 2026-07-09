@@ -1,7 +1,7 @@
 ---
 title: "Hojong Seo"
 description: "Hojong Seo is a Mid-career Ocean CDR researcher at Seoul National University in KR. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.600612
+date: 2026-07-10T01:07:48.563967
 url: "/cdr-researcher-census/researchers/hojong-seo-a5082988/"
 layout: "researcher"
 hiddenInHomeList: true

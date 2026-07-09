@@ -1,7 +1,7 @@
 ---
 title: "Stefania Moioli"
 description: "Stefania Moioli is a Senior General CDR researcher at Politecnico di Milano in IT. With 110 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.076908
+date: 2026-07-10T01:07:47.156743
 url: "/cdr-researcher-census/researchers/stefania-moioli-a5037466/"
 layout: "researcher"
 hiddenInHomeList: true

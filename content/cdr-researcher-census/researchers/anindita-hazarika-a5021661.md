@@ -1,7 +1,7 @@
 ---
 title: "Anindita Hazarika"
 description: "Anindita Hazarika is a Mid-career Unknown researcher at North Eastern Regional Institute of Science and Technology in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.391094
+date: 2026-07-10T01:07:48.384068
 url: "/cdr-researcher-census/researchers/anindita-hazarika-a5021661/"
 layout: "researcher"
 hiddenInHomeList: true

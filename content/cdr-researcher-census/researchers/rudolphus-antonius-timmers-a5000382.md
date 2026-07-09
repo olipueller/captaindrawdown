@@ -1,7 +1,7 @@
 ---
 title: "Rudolphus Antonius Timmers"
 description: "Rudolphus Antonius Timmers is a Mid-career Unknown researcher at CARTIF in ES. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.509147
+date: 2026-07-10T01:07:48.494055
 url: "/cdr-researcher-census/researchers/rudolphus-antonius-timmers-a5000382/"
 layout: "researcher"
 hiddenInHomeList: true

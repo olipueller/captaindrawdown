@@ -1,7 +1,7 @@
 ---
 title: "Ariffin Bin Mohamad Annuar"
 description: "Ariffin Bin Mohamad Annuar is a Mid-career General CDR researcher at University of Cambridge in GB. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.840450
+date: 2026-07-10T01:07:47.876285
 url: "/cdr-researcher-census/researchers/ariffin-bin-mohamad-annuar-a5093252/"
 layout: "researcher"
 hiddenInHomeList: true

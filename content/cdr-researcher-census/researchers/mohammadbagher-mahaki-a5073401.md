@@ -1,7 +1,7 @@
 ---
 title: "Mohammadbagher Mahaki"
 description: "Mohammadbagher Mahaki is a Mid-career Unknown researcher at Shahid Bahonar University of Kerman in IR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.454523
+date: 2026-07-10T01:07:48.443182
 url: "/cdr-researcher-census/researchers/mohammadbagher-mahaki-a5073401/"
 layout: "researcher"
 hiddenInHomeList: true

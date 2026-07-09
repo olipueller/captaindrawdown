@@ -1,7 +1,7 @@
 ---
 title: "Adebola R. Bamigboye"
 description: "Adebola R. Bamigboye is a Mid-career Soil Carbon researcher at Ekiti State University in NG. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.246457
+date: 2026-07-10T01:07:47.332062
 url: "/cdr-researcher-census/researchers/adebola-r-bamigboye-a5018412/"
 layout: "researcher"
 hiddenInHomeList: true

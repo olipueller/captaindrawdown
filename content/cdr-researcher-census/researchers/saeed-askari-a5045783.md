@@ -1,7 +1,7 @@
 ---
 title: "Saeed Askari"
 description: "Saeed Askari is a Mid-career General CDR researcher at The University of Melbourne in AU. With 24 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.306943
+date: 2026-07-10T01:07:47.388955
 url: "/cdr-researcher-census/researchers/saeed-askari-a5045783/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gowri Mohandass"
 description: "Gowri Mohandass is a Mid-career General CDR researcher at National University of Singapore in SG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.113297
+date: 2026-07-10T01:07:49.019874
 url: "/cdr-researcher-census/researchers/gowri-mohandass-a5076969/"
 layout: "researcher"
 hiddenInHomeList: true

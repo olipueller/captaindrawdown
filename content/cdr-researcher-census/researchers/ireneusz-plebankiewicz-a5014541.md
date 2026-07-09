@@ -1,7 +1,7 @@
 ---
 title: "Ireneusz Plebankiewicz"
 description: "Ireneusz Plebankiewicz is a Mid-career Unknown researcher at Military Institute of Engineer Technology in PL. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.863551
+date: 2026-07-10T01:07:48.792830
 url: "/cdr-researcher-census/researchers/ireneusz-plebankiewicz-a5014541/"
 layout: "researcher"
 hiddenInHomeList: true

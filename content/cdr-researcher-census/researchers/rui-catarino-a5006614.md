@@ -1,7 +1,7 @@
 ---
 title: "Rui Catarino"
 description: "Rui Catarino is a Mid-career Soil Carbon researcher at European Commission in IT. With 53 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.206397
+date: 2026-07-10T01:07:47.294415
 url: "/cdr-researcher-census/researchers/rui-catarino-a5006614/"
 layout: "researcher"
 hiddenInHomeList: true

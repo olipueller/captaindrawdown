@@ -1,7 +1,7 @@
 ---
 title: "Mary Anne S. Melo"
 description: "Mary Anne S. Melo is a Mid-career Unknown researcher at University of Maryland, Baltimore in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.085798
+date: 2026-07-10T01:07:48.995906
 url: "/cdr-researcher-census/researchers/mary-anne-s-melo-a5108820/"
 layout: "researcher"
 hiddenInHomeList: true

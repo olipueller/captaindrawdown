@@ -1,7 +1,7 @@
 ---
 title: "Boitumelo Makgabutlane"
 description: "Boitumelo Makgabutlane is a Mid-career General CDR researcher at Mintek in ZA. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.234317
+date: 2026-07-10T01:07:48.244022
 url: "/cdr-researcher-census/researchers/boitumelo-makgabutlane-a5000073/"
 layout: "researcher"
 hiddenInHomeList: true

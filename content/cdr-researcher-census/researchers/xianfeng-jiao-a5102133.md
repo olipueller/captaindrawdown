@@ -1,7 +1,7 @@
 ---
 title: "Xianfeng Jiao"
 description: "Xianfeng Jiao is a Senior Soil Carbon researcher at Shenzhen Metro (China) in CN. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.096875
+date: 2026-07-10T01:07:47.179692
 url: "/cdr-researcher-census/researchers/xianfeng-jiao-a5102133/"
 layout: "researcher"
 hiddenInHomeList: true

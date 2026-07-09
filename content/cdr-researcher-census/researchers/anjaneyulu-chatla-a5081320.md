@@ -1,7 +1,7 @@
 ---
 title: "Anjaneyulu Chatla"
 description: "Anjaneyulu Chatla is an Early-career Biochar researcher at Indian Institute of Chemical Technology in IN. With 22 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.551396
+date: 2026-07-10T01:07:47.615484
 url: "/cdr-researcher-census/researchers/anjaneyulu-chatla-a5081320/"
 layout: "researcher"
 hiddenInHomeList: true

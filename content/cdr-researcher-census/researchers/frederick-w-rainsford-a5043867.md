@@ -1,7 +1,7 @@
 ---
 title: "Frederick W. Rainsford"
 description: "Frederick W. Rainsford is a Mid-career General CDR researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.091555
+date: 2026-07-10T01:07:48.091604
 url: "/cdr-researcher-census/researchers/frederick-w-rainsford-a5043867/"
 layout: "researcher"
 hiddenInHomeList: true

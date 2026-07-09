@@ -1,7 +1,7 @@
 ---
 title: "Dinesh Panday"
 description: "Dinesh Panday is a Mid-career Soil Carbon researcher at Rodale Institute in US. With 81 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.068195
+date: 2026-07-10T01:07:47.146317
 url: "/cdr-researcher-census/researchers/dinesh-panday-a5074597/"
 layout: "researcher"
 hiddenInHomeList: true

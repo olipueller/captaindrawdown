@@ -1,7 +1,7 @@
 ---
 title: "Jianhua Zhou"
 description: "Jianhua Zhou is a Senior Unknown researcher at Guangzhou Municipal Engineering Design and Research Institute in CN. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.197362
+date: 2026-07-10T01:07:48.210608
 url: "/cdr-researcher-census/researchers/jianhua-zhou-a5100933/"
 layout: "researcher"
 hiddenInHomeList: true

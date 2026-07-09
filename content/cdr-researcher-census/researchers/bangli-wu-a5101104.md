@@ -1,7 +1,7 @@
 ---
 title: "Bangli Wu"
 description: "Bangli Wu is a Mid-career Soil Carbon researcher at Guiyang Medical University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.275528
+date: 2026-07-10T01:07:48.281204
 url: "/cdr-researcher-census/researchers/bangli-wu-a5101104/"
 layout: "researcher"
 hiddenInHomeList: true

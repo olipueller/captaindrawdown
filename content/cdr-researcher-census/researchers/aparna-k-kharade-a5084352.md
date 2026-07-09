@@ -1,7 +1,7 @@
 ---
 title: "Aparna K. Kharade"
 description: "Aparna K. Kharade is a Mid-career Unknown researcher at National Yang Ming Chiao Tung University in TW. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.987642
+date: 2026-07-10T01:07:47.996639
 url: "/cdr-researcher-census/researchers/aparna-k-kharade-a5084352/"
 layout: "researcher"
 hiddenInHomeList: true

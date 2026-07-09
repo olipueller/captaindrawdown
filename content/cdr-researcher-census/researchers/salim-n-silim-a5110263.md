@@ -1,7 +1,7 @@
 ---
 title: "Salim N. Silim"
 description: "Salim N. Silim is a Senior Unknown researcher at Agriculture and Agri-Food Canada in CA. With 34 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.088235
+date: 2026-07-10T01:07:47.170469
 url: "/cdr-researcher-census/researchers/salim-n-silim-a5110263/"
 layout: "researcher"
 hiddenInHomeList: true

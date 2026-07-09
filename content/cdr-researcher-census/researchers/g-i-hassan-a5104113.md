@@ -1,7 +1,7 @@
 ---
 title: "G. I. Hassan"
 description: "G. I. Hassan is a Mid-career Unknown researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.737664
+date: 2026-07-10T01:07:47.790090
 url: "/cdr-researcher-census/researchers/g-i-hassan-a5104113/"
 layout: "researcher"
 hiddenInHomeList: true

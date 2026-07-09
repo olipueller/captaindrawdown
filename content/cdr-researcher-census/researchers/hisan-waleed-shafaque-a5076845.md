@@ -1,7 +1,7 @@
 ---
 title: "Hisan Waleed Shafaque"
 description: "Hisan Waleed Shafaque is a Mid-career Unknown researcher at University of Toronto in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.590518
+date: 2026-07-10T01:07:48.554631
 url: "/cdr-researcher-census/researchers/hisan-waleed-shafaque-a5076845/"
 layout: "researcher"
 hiddenInHomeList: true

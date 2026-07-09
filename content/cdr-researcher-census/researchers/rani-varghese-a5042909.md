@@ -1,7 +1,7 @@
 ---
 title: "Rani Varghese"
 description: "Rani Varghese is a Mid-career Soil Carbon researcher at University of Kerala in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.158586
+date: 2026-07-10T01:07:48.177282
 url: "/cdr-researcher-census/researchers/rani-varghese-a5042909/"
 layout: "researcher"
 hiddenInHomeList: true

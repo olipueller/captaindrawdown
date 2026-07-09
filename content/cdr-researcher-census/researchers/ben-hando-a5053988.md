@@ -1,7 +1,7 @@
 ---
 title: "Ben Hando"
 description: "Ben Hando is a Senior Unknown researcher at Baylor University in US. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.329356
+date: 2026-07-10T01:07:47.411296
 url: "/cdr-researcher-census/researchers/ben-hando-a5053988/"
 layout: "researcher"
 hiddenInHomeList: true

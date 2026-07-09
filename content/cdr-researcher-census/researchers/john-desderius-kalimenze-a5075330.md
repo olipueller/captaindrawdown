@@ -1,7 +1,7 @@
 ---
 title: "John Desderius Kalimenze"
 description: "John Desderius Kalimenze is a Mid-career Unknown researcher at University of Turku in FI. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.238160
+date: 2026-07-10T01:07:49.147090
 url: "/cdr-researcher-census/researchers/john-desderius-kalimenze-a5075330/"
 layout: "researcher"
 hiddenInHomeList: true

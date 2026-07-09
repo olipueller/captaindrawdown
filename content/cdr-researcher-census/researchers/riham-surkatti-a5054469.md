@@ -1,7 +1,7 @@
 ---
 title: "Riham Surkatti"
 description: "Riham Surkatti is a Senior Unknown researcher at Hamad bin Khalifa University in QA. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.471191
+date: 2026-07-10T01:07:47.543699
 url: "/cdr-researcher-census/researchers/riham-surkatti-a5054469/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sara M. Leavitt"
 description: "Sara M. Leavitt is a Mid-career Soil Carbon researcher at The Nature Conservancy in US. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.940427
+date: 2026-07-10T01:07:46.965855
 url: "/cdr-researcher-census/researchers/sara-m-leavitt-a5077695/"
 layout: "researcher"
 hiddenInHomeList: true

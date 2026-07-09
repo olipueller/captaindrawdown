@@ -1,7 +1,7 @@
 ---
 title: "V.C.F. Carvalho"
 description: "V.C.F. Carvalho is a Mid-career Unknown researcher at Unidade em Ciências Biomoleculares Aplicadas. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.443721
+date: 2026-07-10T01:07:48.433494
 url: "/cdr-researcher-census/researchers/vcf-carvalho-a5033209/"
 layout: "researcher"
 hiddenInHomeList: true

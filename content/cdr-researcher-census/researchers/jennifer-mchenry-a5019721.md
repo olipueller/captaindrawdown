@@ -1,7 +1,7 @@
 ---
 title: "Jennifer McHenry"
 description: "Jennifer McHenry is a Mid-career General CDR researcher at University of Victoria in CA. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.738076
+date: 2026-07-10T01:07:47.790477
 url: "/cdr-researcher-census/researchers/jennifer-mchenry-a5019721/"
 layout: "researcher"
 hiddenInHomeList: true

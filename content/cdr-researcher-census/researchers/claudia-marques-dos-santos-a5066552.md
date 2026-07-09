@@ -1,7 +1,7 @@
 ---
 title: "Cláudia Marques-dos-Santos"
 description: "Cláudia Marques-dos-Santos is an Early-career Soil Carbon researcher at University of Lisbon in PT. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.243004
+date: 2026-07-10T01:07:49.151258
 url: "/cdr-researcher-census/researchers/claudia-marques-dos-santos-a5066552/"
 layout: "researcher"
 hiddenInHomeList: true

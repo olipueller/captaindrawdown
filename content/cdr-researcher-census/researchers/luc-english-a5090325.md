@@ -1,7 +1,7 @@
 ---
 title: "Luc English"
 description: "Luc English is a Senior Unknown researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.098217
+date: 2026-07-10T01:07:49.006759
 url: "/cdr-researcher-census/researchers/luc-english-a5090325/"
 layout: "researcher"
 hiddenInHomeList: true

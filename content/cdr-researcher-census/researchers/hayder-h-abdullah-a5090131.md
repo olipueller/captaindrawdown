@@ -1,7 +1,7 @@
 ---
 title: "Hayder H. Abdullah"
 description: "Hayder H. Abdullah is a Mid-career Biochar researcher at Curtin University in AU. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.619172
+date: 2026-07-10T01:07:47.679936
 url: "/cdr-researcher-census/researchers/hayder-h-abdullah-a5090131/"
 layout: "researcher"
 hiddenInHomeList: true

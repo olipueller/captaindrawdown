@@ -1,7 +1,7 @@
 ---
 title: "Theophilus Nii Odai Mensah"
 description: "Theophilus Nii Odai Mensah is a Mid-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.356670
+date: 2026-07-10T01:07:47.438621
 url: "/cdr-researcher-census/researchers/theophilus-nii-odai-mensah-a5023009/"
 layout: "researcher"
 hiddenInHomeList: true

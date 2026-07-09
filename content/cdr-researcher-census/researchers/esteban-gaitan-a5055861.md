@@ -1,7 +1,7 @@
 ---
 title: "Esteban Gaitán"
 description: "Esteban Gaitán is a Senior Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.036016
+date: 2026-07-10T01:07:48.042138
 url: "/cdr-researcher-census/researchers/esteban-gaitan-a5055861/"
 layout: "researcher"
 hiddenInHomeList: true

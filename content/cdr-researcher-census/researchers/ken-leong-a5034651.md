@@ -1,7 +1,7 @@
 ---
 title: "Ken Leong"
 description: "Ken Leong is a Senior Biochar researcher at National Defence University of Malaysia in MY. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.935871
+date: 2026-07-10T01:07:47.948471
 url: "/cdr-researcher-census/researchers/ken-leong-a5034651/"
 layout: "researcher"
 hiddenInHomeList: true

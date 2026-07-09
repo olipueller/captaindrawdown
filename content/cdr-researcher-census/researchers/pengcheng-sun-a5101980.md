@@ -1,7 +1,7 @@
 ---
 title: "Pengcheng Sun"
 description: "Pengcheng Sun is a Mid-career Soil Carbon researcher at Yellow River Institute of Hydraulic Research in CN. With 30 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.281897
+date: 2026-07-10T01:07:47.364124
 url: "/cdr-researcher-census/researchers/pengcheng-sun-a5101980/"
 layout: "researcher"
 hiddenInHomeList: true

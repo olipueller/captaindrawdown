@@ -1,7 +1,7 @@
 ---
 title: "N. Akhtar"
 description: "N. Akhtar is a Senior General CDR researcher at Lahore College for Women University in PK. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.374398
+date: 2026-07-10T01:07:47.456652
 url: "/cdr-researcher-census/researchers/n-akhtar-a5081948/"
 layout: "researcher"
 hiddenInHomeList: true

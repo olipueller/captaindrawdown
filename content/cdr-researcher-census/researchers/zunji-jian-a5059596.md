@@ -1,7 +1,7 @@
 ---
 title: "Zunji Jian"
 description: "Zunji Jian is a Mid-career Soil Carbon researcher at China Three Gorges University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.403825
+date: 2026-07-10T01:07:47.484065
 url: "/cdr-researcher-census/researchers/zunji-jian-a5059596/"
 layout: "researcher"
 hiddenInHomeList: true

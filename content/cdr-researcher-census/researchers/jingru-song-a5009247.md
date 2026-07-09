@@ -1,7 +1,7 @@
 ---
 title: "Jingru Song"
 description: "Jingru Song is an Early-career Soil Carbon researcher at North China University of Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.250860
+date: 2026-07-10T01:07:49.158139
 url: "/cdr-researcher-census/researchers/jingru-song-a5009247/"
 layout: "researcher"
 hiddenInHomeList: true

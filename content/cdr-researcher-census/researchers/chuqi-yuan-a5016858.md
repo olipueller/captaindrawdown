@@ -1,7 +1,7 @@
 ---
 title: "Chuqi Yuan"
 description: "Chuqi Yuan is a Mid-career Biochar researcher at Hong Kong Polytechnic University in HK. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.215065
+date: 2026-07-10T01:07:49.126438
 url: "/cdr-researcher-census/researchers/chuqi-yuan-a5016858/"
 layout: "researcher"
 hiddenInHomeList: true

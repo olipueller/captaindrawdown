@@ -1,7 +1,7 @@
 ---
 title: "T. Nash Skipper"
 description: "T. Nash Skipper is a Mid-career Unknown researcher at Environmental Protection Agency in US. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.610737
+date: 2026-07-10T01:07:48.572499
 url: "/cdr-researcher-census/researchers/t-nash-skipper-a5043920/"
 layout: "researcher"
 hiddenInHomeList: true

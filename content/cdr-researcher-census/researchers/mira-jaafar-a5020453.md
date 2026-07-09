@@ -1,7 +1,7 @@
 ---
 title: "Mira Jaafar"
 description: "Mira Jaafar is a Senior Unknown researcher at Lebanese University in LB. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.757713
+date: 2026-07-10T01:07:48.703414
 url: "/cdr-researcher-census/researchers/mira-jaafar-a5020453/"
 layout: "researcher"
 hiddenInHomeList: true

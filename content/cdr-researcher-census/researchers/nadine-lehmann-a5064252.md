@@ -1,7 +1,7 @@
 ---
 title: "Nadine Lehmann"
 description: "Nadine Lehmann is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.823326
+date: 2026-07-10T01:07:48.758109
 url: "/cdr-researcher-census/researchers/nadine-lehmann-a5064252/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Morgan Pugh-Toole"
 description: "Morgan Pugh-Toole is a Mid-career Unknown researcher at Dalhousie University in CA. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.415725
+date: 2026-07-10T01:07:48.406533
 url: "/cdr-researcher-census/researchers/morgan-pugh-toole-a5050103/"
 layout: "researcher"
 hiddenInHomeList: true

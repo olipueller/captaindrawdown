@@ -1,7 +1,7 @@
 ---
 title: "Julia Le Noë"
 description: "Julia Le Noë is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 91 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.136452
+date: 2026-07-10T01:07:47.225292
 url: "/cdr-researcher-census/researchers/julia-le-noe-a5006676/"
 layout: "researcher"
 hiddenInHomeList: true

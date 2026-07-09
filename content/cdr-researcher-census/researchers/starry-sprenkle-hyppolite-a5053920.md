@@ -1,7 +1,7 @@
 ---
 title: "Starry Sprenkle-Hyppolite"
 description: "Starry Sprenkle-Hyppolite is a Mid-career General CDR researcher at Conservation International in US. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.127166
+date: 2026-07-10T01:07:48.150630
 url: "/cdr-researcher-census/researchers/starry-sprenkle-hyppolite-a5053920/"
 layout: "researcher"
 hiddenInHomeList: true

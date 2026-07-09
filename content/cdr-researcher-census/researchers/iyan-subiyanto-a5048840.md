@@ -1,7 +1,7 @@
 ---
 title: "Iyan Subiyanto"
 description: "Iyan Subiyanto is a Mid-career Unknown researcher at Korea Institute of Energy Research in KR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.820287
+date: 2026-07-10T01:07:48.755608
 url: "/cdr-researcher-census/researchers/iyan-subiyanto-a5048840/"
 layout: "researcher"
 hiddenInHomeList: true

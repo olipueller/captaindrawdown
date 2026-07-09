@@ -1,7 +1,7 @@
 ---
 title: "Wenceslaus C. Madu"
 description: "Wenceslaus C. Madu is a Senior Unknown researcher at Imo State University in NG. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.873376
+date: 2026-07-10T01:07:48.801302
 url: "/cdr-researcher-census/researchers/wenceslaus-c-madu-a5036331/"
 layout: "researcher"
 hiddenInHomeList: true

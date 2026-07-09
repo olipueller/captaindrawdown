@@ -1,7 +1,7 @@
 ---
 title: "Osamah J. Al-sareji"
 description: "Osamah J. Al-sareji is a Mid-career Soil Carbon researcher at University of Pannonia in HU. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.342731
+date: 2026-07-10T01:07:47.425502
 url: "/cdr-researcher-census/researchers/osamah-j-al-sareji-a5071105/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emilia Jankowska"
 description: "Emilia Jankowska is a Senior Ocean CDR researcher at Climate Central in US. With 44 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.020041
+date: 2026-07-10T01:07:47.086277
 url: "/cdr-researcher-census/researchers/emilia-jankowska-a5055160/"
 layout: "researcher"
 hiddenInHomeList: true

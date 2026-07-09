@@ -1,7 +1,7 @@
 ---
 title: "Cory Sanderson"
 description: "Cory Sanderson is an Early-career Unknown researcher. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.255411
+date: 2026-07-10T01:07:49.162219
 url: "/cdr-researcher-census/researchers/cory-sanderson-a5061964/"
 layout: "researcher"
 hiddenInHomeList: true

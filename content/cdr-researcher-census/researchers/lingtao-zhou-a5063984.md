@@ -1,7 +1,7 @@
 ---
 title: "Lingtao Zhou"
 description: "Lingtao Zhou is a Mid-career Unknown researcher at State Key Laboratory of Clean Energy Utilization. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.870744
+date: 2026-07-10T01:07:48.799023
 url: "/cdr-researcher-census/researchers/lingtao-zhou-a5063984/"
 layout: "researcher"
 hiddenInHomeList: true

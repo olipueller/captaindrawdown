@@ -1,7 +1,7 @@
 ---
 title: "Taiba Naseem"
 description: "Taiba Naseem is a Mid-career Unknown researcher at University of Azad Jammu and Kashmir in PK. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.356026
+date: 2026-07-10T01:07:47.438021
 url: "/cdr-researcher-census/researchers/taiba-naseem-a5005992/"
 layout: "researcher"
 hiddenInHomeList: true

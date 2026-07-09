@@ -1,7 +1,7 @@
 ---
 title: "Ju‐Hyoung Kim"
 description: "Ju‐Hyoung Kim is a Senior Ocean CDR researcher at Kunsan National University in KR. With 118 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.152361
+date: 2026-07-10T01:07:47.240525
 url: "/cdr-researcher-census/researchers/juhyoung-kim-a5058302/"
 layout: "researcher"
 hiddenInHomeList: true

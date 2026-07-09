@@ -1,7 +1,7 @@
 ---
 title: "Simon Roussanaly"
 description: "Simon Roussanaly is a Senior General CDR researcher at SINTEF in NO. With 153 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.953716
+date: 2026-07-10T01:07:46.988570
 url: "/cdr-researcher-census/researchers/simon-roussanaly-a5006945/"
 layout: "researcher"
 hiddenInHomeList: true

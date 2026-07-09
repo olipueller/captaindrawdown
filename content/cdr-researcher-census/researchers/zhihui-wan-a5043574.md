@@ -1,7 +1,7 @@
 ---
 title: "Zhihui Wan"
 description: "Zhihui Wan is a Senior Unknown researcher at Nanjing Tech University in CN. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.328636
+date: 2026-07-10T01:07:47.410468
 url: "/cdr-researcher-census/researchers/zhihui-wan-a5043574/"
 layout: "researcher"
 hiddenInHomeList: true

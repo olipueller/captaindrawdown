@@ -1,7 +1,7 @@
 ---
 title: "Frankie Kiew"
 description: "Frankie Kiew is a Mid-career Unknown researcher. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.141348
+date: 2026-07-10T01:07:48.162246
 url: "/cdr-researcher-census/researchers/frankie-kiew-a5037426/"
 layout: "researcher"
 hiddenInHomeList: true

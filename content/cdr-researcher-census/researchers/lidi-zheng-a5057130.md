@@ -1,7 +1,7 @@
 ---
 title: "Lidi Zheng"
 description: "Lidi Zheng is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.839900
+date: 2026-07-10T01:07:48.772299
 url: "/cdr-researcher-census/researchers/lidi-zheng-a5057130/"
 layout: "researcher"
 hiddenInHomeList: true

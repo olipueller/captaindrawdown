@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Atwood"
 description: "Matthew C. Atwood is a Senior Unknown researcher at Berkeley Air Monitoring Group (United States) in US. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.616352
+date: 2026-07-10T01:07:48.577427
 url: "/cdr-researcher-census/researchers/matthew-c-atwood-a5056416/"
 layout: "researcher"
 hiddenInHomeList: true

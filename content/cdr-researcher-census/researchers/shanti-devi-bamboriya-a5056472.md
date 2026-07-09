@@ -1,7 +1,7 @@
 ---
 title: "Shanti Devi Bamboriya"
 description: "Shanti Devi Bamboriya is a Mid-career Soil Carbon researcher at ICAR-Indian Institute of Maize Research in IN. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.659093
+date: 2026-07-10T01:07:47.716630
 url: "/cdr-researcher-census/researchers/shanti-devi-bamboriya-a5056472/"
 layout: "researcher"
 hiddenInHomeList: true

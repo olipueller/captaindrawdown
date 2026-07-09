@@ -1,7 +1,7 @@
 ---
 title: "Reza Omidipour"
 description: "Reza Omidipour is a Mid-career Soil Carbon researcher at Ilam University in IR. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.472227
+date: 2026-07-10T01:07:47.544679
 url: "/cdr-researcher-census/researchers/reza-omidipour-a5045450/"
 layout: "researcher"
 hiddenInHomeList: true

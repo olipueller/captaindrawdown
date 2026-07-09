@@ -1,7 +1,7 @@
 ---
 title: "Chuan Xu"
 description: "Chuan Xu is a Mid-career Soil Carbon researcher at Zhejiang Chinese Medical University in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.969600
+date: 2026-07-10T01:07:47.980129
 url: "/cdr-researcher-census/researchers/chuan-xu-a5039827/"
 layout: "researcher"
 hiddenInHomeList: true

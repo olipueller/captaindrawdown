@@ -1,7 +1,7 @@
 ---
 title: "C. Eckhardt"
 description: "C. Eckhardt is a Senior Soil Carbon researcher at Justus-Liebig-Universität Gießen in DE. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.321552
+date: 2026-07-10T01:07:48.322563
 url: "/cdr-researcher-census/researchers/c-eckhardt-a5044715/"
 layout: "researcher"
 hiddenInHomeList: true

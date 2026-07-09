@@ -1,7 +1,7 @@
 ---
 title: "Pravin R. Kshirsagar"
 description: "Pravin R. Kshirsagar is a Mid-career Unknown researcher at University of Engineering & Management in IN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.474253
+date: 2026-07-10T01:07:48.461558
 url: "/cdr-researcher-census/researchers/pravin-r-kshirsagar-a5002347/"
 layout: "researcher"
 hiddenInHomeList: true

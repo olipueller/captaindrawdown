@@ -1,7 +1,7 @@
 ---
 title: "Nixon Sunny"
 description: "Nixon Sunny is a Mid-career General CDR researcher at Imperial College London in GB. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.096504
+date: 2026-07-10T01:07:47.179329
 url: "/cdr-researcher-census/researchers/nixon-sunny-a5071849/"
 layout: "researcher"
 hiddenInHomeList: true

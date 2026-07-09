@@ -1,7 +1,7 @@
 ---
 title: "José Ramón Copa Rey"
 description: "José Ramón Copa Rey is a Mid-career General CDR researcher at Polytechnic Institute of Portalegre in PT. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.840896
+date: 2026-07-10T01:07:47.876650
 url: "/cdr-researcher-census/researchers/jose-ramon-copa-rey-a5089239/"
 layout: "researcher"
 hiddenInHomeList: true

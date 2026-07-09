@@ -1,7 +1,7 @@
 ---
 title: "Jun Meng"
 description: "Jun Meng is a Mid-career Soil Carbon researcher at Ningbo Product Quality Supervision and Inspection Institute in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.171981
+date: 2026-07-10T01:07:48.188226
 url: "/cdr-researcher-census/researchers/jun-meng-a5089856/"
 layout: "researcher"
 hiddenInHomeList: true

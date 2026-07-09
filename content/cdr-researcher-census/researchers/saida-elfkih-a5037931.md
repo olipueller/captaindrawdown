@@ -1,7 +1,7 @@
 ---
 title: "Saida Elfkih"
 description: "Saida Elfkih is a Senior Unknown researcher at University of Sfax in TN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.543978
+date: 2026-07-10T01:07:48.525041
 url: "/cdr-researcher-census/researchers/saida-elfkih-a5037931/"
 layout: "researcher"
 hiddenInHomeList: true

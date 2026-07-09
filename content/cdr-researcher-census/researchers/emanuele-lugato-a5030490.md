@@ -1,7 +1,7 @@
 ---
 title: "Emanuele Lugato"
 description: "Emanuele Lugato is an Eminent Soil Carbon researcher at European Commission Joint Research Centre Ispra Sector in IT. With 187 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.889191
+date: 2026-07-10T01:07:46.860519
 url: "/cdr-researcher-census/researchers/emanuele-lugato-a5030490/"
 layout: "researcher"
 hiddenInHomeList: true

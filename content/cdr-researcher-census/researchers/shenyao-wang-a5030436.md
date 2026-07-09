@@ -1,7 +1,7 @@
 ---
 title: "Shenyao Wang"
 description: "Shenyao Wang is a Mid-career Unknown researcher at Zhejiang University of Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.193500
+date: 2026-07-10T01:07:49.107089
 url: "/cdr-researcher-census/researchers/shenyao-wang-a5030436/"
 layout: "researcher"
 hiddenInHomeList: true

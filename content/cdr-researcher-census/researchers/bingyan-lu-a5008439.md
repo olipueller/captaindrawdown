@@ -1,7 +1,7 @@
 ---
 title: "Bingyan Lu"
 description: "Bingyan Lu is a Mid-career Biochar researcher at Donghua University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.673200
+date: 2026-07-10T01:07:48.629064
 url: "/cdr-researcher-census/researchers/bingyan-lu-a5008439/"
 layout: "researcher"
 hiddenInHomeList: true

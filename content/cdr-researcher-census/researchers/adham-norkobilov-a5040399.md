@@ -1,7 +1,7 @@
 ---
 title: "Adham Norkobilov"
 description: "Adham Norkobilov is a Mid-career Unknown researcher at Karshi State University in UZ. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.121705
+date: 2026-07-10T01:07:48.145679
 url: "/cdr-researcher-census/researchers/adham-norkobilov-a5040399/"
 layout: "researcher"
 hiddenInHomeList: true

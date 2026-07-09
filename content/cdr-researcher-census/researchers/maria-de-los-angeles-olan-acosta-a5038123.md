@@ -1,7 +1,7 @@
 ---
 title: "María de los Ángeles Olán-Acosta"
 description: "María de los Ángeles Olán-Acosta is a Mid-career Unknown researcher at Universidad Juárez Autónoma de Tabasco in MX. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.453236
+date: 2026-07-10T01:07:48.441959
 url: "/cdr-researcher-census/researchers/maria-de-los-angeles-olan-acosta-a5038123/"
 layout: "researcher"
 hiddenInHomeList: true

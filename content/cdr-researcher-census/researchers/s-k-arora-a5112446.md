@@ -1,7 +1,7 @@
 ---
 title: "S. K. Arora"
 description: "S. K. Arora is a Senior Unknown researcher at Babasaheb Bhimrao Ambedkar Bihar University in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.385909
+date: 2026-07-10T01:07:48.380451
 url: "/cdr-researcher-census/researchers/s-k-arora-a5112446/"
 layout: "researcher"
 hiddenInHomeList: true

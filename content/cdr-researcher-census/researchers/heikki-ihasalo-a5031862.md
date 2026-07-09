@@ -1,7 +1,7 @@
 ---
 title: "Heikki Ihasalo"
 description: "Heikki Ihasalo is a Mid-career Unknown researcher at Aalto University in FI. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.247416
+date: 2026-07-10T01:07:49.155063
 url: "/cdr-researcher-census/researchers/heikki-ihasalo-a5031862/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sarah K. Wilke"
 description: "Sarah K. Wilke is a Senior Unknown researcher at E Ink (South Korea) in KR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.532835
+date: 2026-07-10T01:07:47.599022
 url: "/cdr-researcher-census/researchers/sarah-k-wilke-a5033919/"
 layout: "researcher"
 hiddenInHomeList: true

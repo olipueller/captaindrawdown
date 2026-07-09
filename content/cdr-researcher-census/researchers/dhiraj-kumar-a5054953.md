@@ -1,7 +1,7 @@
 ---
 title: "Dhiraj Kumar"
 description: "Dhiraj Kumar is a Senior Soil Carbon researcher at Indian Institute of Soil Science in IN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.968173
+date: 2026-07-10T01:07:47.978832
 url: "/cdr-researcher-census/researchers/dhiraj-kumar-a5054953/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiang Lu"
 description: "Xiang Lu is an Early-career Unknown researcher at University of Oslo in NO. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.094043
+date: 2026-07-10T01:07:49.002773
 url: "/cdr-researcher-census/researchers/xiang-lu-a5084855/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuman Deng"
 description: "Shuman Deng is a Mid-career Biochar researcher at Chongqing University in CN. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.353486
+date: 2026-07-10T01:07:47.435685
 url: "/cdr-researcher-census/researchers/shuman-deng-a5091217/"
 layout: "researcher"
 hiddenInHomeList: true

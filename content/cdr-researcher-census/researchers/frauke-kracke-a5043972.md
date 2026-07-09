@@ -1,7 +1,7 @@
 ---
 title: "Frauke Kracke"
 description: "Frauke Kracke is a Mid-career Ocean CDR researcher at Climate Central in US. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.106050
+date: 2026-07-10T01:07:47.191192
 url: "/cdr-researcher-census/researchers/frauke-kracke-a5043972/"
 layout: "researcher"
 hiddenInHomeList: true

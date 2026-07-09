@@ -1,7 +1,7 @@
 ---
 title: "Anbin Wu"
 description: "Anbin Wu is a Mid-career Unknown researcher at Nanjing University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.908442
+date: 2026-07-10T01:07:48.833640
 url: "/cdr-researcher-census/researchers/anbin-wu-a5027241/"
 layout: "researcher"
 hiddenInHomeList: true

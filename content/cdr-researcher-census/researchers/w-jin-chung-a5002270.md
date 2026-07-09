@@ -1,7 +1,7 @@
 ---
 title: "W. Jin Chung"
 description: "W. Jin Chung is a Mid-career Unknown researcher at Kyonggi University in KR. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.166334
+date: 2026-07-10T01:07:48.183718
 url: "/cdr-researcher-census/researchers/w-jin-chung-a5002270/"
 layout: "researcher"
 hiddenInHomeList: true

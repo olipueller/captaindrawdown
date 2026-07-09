@@ -1,7 +1,7 @@
 ---
 title: "Haiwang Liu"
 description: "Haiwang Liu is an Early-career Unknown researcher at HEC Pharm (China) in CN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.684362
+date: 2026-07-10T01:07:48.639275
 url: "/cdr-researcher-census/researchers/haiwang-liu-a5101844/"
 layout: "researcher"
 hiddenInHomeList: true

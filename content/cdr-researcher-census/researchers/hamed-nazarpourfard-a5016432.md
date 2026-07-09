@@ -1,7 +1,7 @@
 ---
 title: "Hamed Nazarpour‐Fard"
 description: "Hamed Nazarpour‐Fard is a Mid-career Unknown researcher at Lorestan University in IR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.009712
+date: 2026-07-10T01:07:48.926900
 url: "/cdr-researcher-census/researchers/hamed-nazarpourfard-a5016432/"
 layout: "researcher"
 hiddenInHomeList: true

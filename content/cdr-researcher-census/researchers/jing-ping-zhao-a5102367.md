@@ -1,7 +1,7 @@
 ---
 title: "Jing-Ping Zhao"
 description: "Jing-Ping Zhao is a Senior General CDR researcher at China University of Mining and Technology in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.714516
+date: 2026-07-10T01:07:47.768499
 url: "/cdr-researcher-census/researchers/jing-ping-zhao-a5102367/"
 layout: "researcher"
 hiddenInHomeList: true

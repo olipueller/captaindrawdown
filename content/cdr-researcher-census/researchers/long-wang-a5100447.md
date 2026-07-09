@@ -1,7 +1,7 @@
 ---
 title: "Long Wang"
 description: "Long Wang is a Mid-career Soil Carbon researcher at Wenzhou University in CN. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.780565
+date: 2026-07-10T01:07:47.829289
 url: "/cdr-researcher-census/researchers/long-wang-a5100447/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Siqi Yang"
 description: "Siqi Yang is a Senior Soil Carbon researcher at China University of Geosciences (Beijing) in CN. With 78 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.164135
+date: 2026-07-10T01:07:47.253620
 url: "/cdr-researcher-census/researchers/siqi-yang-a5063584/"
 layout: "researcher"
 hiddenInHomeList: true

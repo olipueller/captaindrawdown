@@ -1,7 +1,7 @@
 ---
 title: "Shameer Syed"
 description: "Shameer Syed is a Mid-career Unknown researcher at Northwest Institute of Eco-Environment and Resources in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.366571
+date: 2026-07-10T01:07:47.448659
 url: "/cdr-researcher-census/researchers/shameer-syed-a5101549/"
 layout: "researcher"
 hiddenInHomeList: true

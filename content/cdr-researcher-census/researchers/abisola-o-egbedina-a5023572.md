@@ -1,7 +1,7 @@
 ---
 title: "Abisola O. Egbedina"
 description: "Abisola O. Egbedina is a Mid-career Unknown researcher at University of Ibadan, Nigeria in NG. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.979530
+date: 2026-07-10T01:07:47.989108
 url: "/cdr-researcher-census/researchers/abisola-o-egbedina-a5023572/"
 layout: "researcher"
 hiddenInHomeList: true

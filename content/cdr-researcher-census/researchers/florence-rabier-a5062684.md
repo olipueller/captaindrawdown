@@ -1,7 +1,7 @@
 ---
 title: "Florence Rabier"
 description: "Florence Rabier is an Eminent General CDR researcher at ECMWF in GB. With 135 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.932020
+date: 2026-07-10T01:07:46.950449
 url: "/cdr-researcher-census/researchers/florence-rabier-a5062684/"
 layout: "researcher"
 hiddenInHomeList: true

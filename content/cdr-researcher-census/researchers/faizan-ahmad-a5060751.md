@@ -1,7 +1,7 @@
 ---
 title: "Faizan Ahmad"
 description: "Faizan Ahmad is a Mid-career Biochar researcher at Teesside University in GB. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.349169
+date: 2026-07-10T01:07:47.431595
 url: "/cdr-researcher-census/researchers/faizan-ahmad-a5060751/"
 layout: "researcher"
 hiddenInHomeList: true

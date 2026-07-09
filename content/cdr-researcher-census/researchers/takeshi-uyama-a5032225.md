@@ -1,7 +1,7 @@
 ---
 title: "Takeshi Uyama"
 description: "Takeshi Uyama is a Senior Unknown researcher at Toyota Central Research and Development Laboratories (Japan) in JP. With 72 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.439818
+date: 2026-07-10T01:07:47.516236
 url: "/cdr-researcher-census/researchers/takeshi-uyama-a5032225/"
 layout: "researcher"
 hiddenInHomeList: true

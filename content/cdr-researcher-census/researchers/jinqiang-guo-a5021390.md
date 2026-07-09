@@ -1,7 +1,7 @@
 ---
 title: "Jinqiang Guo"
 description: "Jinqiang Guo is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.106842
+date: 2026-07-10T01:07:48.133077
 url: "/cdr-researcher-census/researchers/jinqiang-guo-a5021390/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Junxiao Pan"
 description: "Junxiao Pan is a Senior Soil Carbon researcher at Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Science in CN. With 75 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.218649
+date: 2026-07-10T01:07:47.305485
 url: "/cdr-researcher-census/researchers/junxiao-pan-a5057096/"
 layout: "researcher"
 hiddenInHomeList: true

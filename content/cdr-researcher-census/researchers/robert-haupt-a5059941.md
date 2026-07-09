@@ -1,7 +1,7 @@
 ---
 title: "Robert Haupt"
 description: "Robert Haupt is a Senior Unknown researcher at United States Army in US. With 32 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.941796
+date: 2026-07-10T01:07:46.968743
 url: "/cdr-researcher-census/researchers/robert-haupt-a5059941/"
 layout: "researcher"
 hiddenInHomeList: true

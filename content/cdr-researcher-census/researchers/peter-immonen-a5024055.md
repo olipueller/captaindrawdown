@@ -1,7 +1,7 @@
 ---
 title: "Peter Immonen"
 description: "Peter Immonen is an Early-career Unknown researcher. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.811733
+date: 2026-07-10T01:07:48.749036
 url: "/cdr-researcher-census/researchers/peter-immonen-a5024055/"
 layout: "researcher"
 hiddenInHomeList: true

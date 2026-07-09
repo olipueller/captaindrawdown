@@ -1,7 +1,7 @@
 ---
 title: "Susan E. Ziegler"
 description: "Susan E. Ziegler is a Senior Soil Carbon researcher at Memorial University of Newfoundland in CA. With 171 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.030619
+date: 2026-07-10T01:07:47.099855
 url: "/cdr-researcher-census/researchers/susan-e-ziegler-a5003630/"
 layout: "researcher"
 hiddenInHomeList: true

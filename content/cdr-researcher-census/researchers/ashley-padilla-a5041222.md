@@ -1,7 +1,7 @@
 ---
 title: "Ashley Padilla"
 description: "Ashley Padilla is a Mid-career Unknown researcher at Icahn School of Medicine at Mount Sinai in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.594539
+date: 2026-07-10T01:07:47.657664
 url: "/cdr-researcher-census/researchers/ashley-padilla-a5041222/"
 layout: "researcher"
 hiddenInHomeList: true

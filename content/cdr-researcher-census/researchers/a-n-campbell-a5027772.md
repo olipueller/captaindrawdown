@@ -1,7 +1,7 @@
 ---
 title: "A N Campbell"
 description: "A N Campbell is a Senior Unknown researcher at University of Toronto in CA. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.701779
+date: 2026-07-10T01:07:47.756621
 url: "/cdr-researcher-census/researchers/a-n-campbell-a5027772/"
 layout: "researcher"
 hiddenInHomeList: true

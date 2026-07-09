@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Angelilli"
 description: "Lorenzo Angelilli is a Mid-career Unknown researcher at University of Michigan in US. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.086079
+date: 2026-07-10T01:07:48.996176
 url: "/cdr-researcher-census/researchers/lorenzo-angelilli-a5020605/"
 layout: "researcher"
 hiddenInHomeList: true

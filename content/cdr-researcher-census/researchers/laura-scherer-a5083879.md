@@ -1,7 +1,7 @@
 ---
 title: "Laura Scherer"
 description: "Laura Scherer is a Senior General CDR researcher at Leiden University in NL. With 135 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.967289
+date: 2026-07-10T01:07:47.009746
 url: "/cdr-researcher-census/researchers/laura-scherer-a5083879/"
 layout: "researcher"
 hiddenInHomeList: true

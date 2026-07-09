@@ -1,7 +1,7 @@
 ---
 title: "Nikolas Hagemann"
 description: "Nikolas Hagemann is a Senior Biochar researcher at Ithaka Institute for Carbon Strategies in DE. With 86 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.974289
+date: 2026-07-10T01:07:47.020063
 url: "/cdr-researcher-census/researchers/nikolas-hagemann-a5062868/"
 layout: "researcher"
 hiddenInHomeList: true

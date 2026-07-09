@@ -1,7 +1,7 @@
 ---
 title: "Yingyu Tan"
 description: "Yingyu Tan is a Mid-career Biochar researcher at Zhejiang Province Institute of Architectural Design and Research in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.975070
+date: 2026-07-10T01:07:48.895008
 url: "/cdr-researcher-census/researchers/yingyu-tan-a5109608/"
 layout: "researcher"
 hiddenInHomeList: true

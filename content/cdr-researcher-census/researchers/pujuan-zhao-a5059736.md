@@ -1,7 +1,7 @@
 ---
 title: "Pujuan Zhao"
 description: "Pujuan Zhao is an Early-career Unknown researcher at Zhengzhou University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.934644
+date: 2026-07-10T01:07:48.857450
 url: "/cdr-researcher-census/researchers/pujuan-zhao-a5059736/"
 layout: "researcher"
 hiddenInHomeList: true

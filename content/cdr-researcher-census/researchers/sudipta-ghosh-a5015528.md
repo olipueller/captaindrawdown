@@ -1,7 +1,7 @@
 ---
 title: "Sudipta Ghosh"
 description: "Sudipta Ghosh is a Senior Unknown researcher at Indian Institute of Technology Delhi in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.113977
+date: 2026-07-10T01:07:49.020426
 url: "/cdr-researcher-census/researchers/sudipta-ghosh-a5015528/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alemu Nega"
 description: "Alemu Nega is a Mid-career Unknown researcher at Wolaita Sodo University in ET. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.822793
+date: 2026-07-10T01:07:48.757643
 url: "/cdr-researcher-census/researchers/alemu-nega-a5084558/"
 layout: "researcher"
 hiddenInHomeList: true

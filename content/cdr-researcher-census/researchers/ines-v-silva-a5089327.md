@@ -1,7 +1,7 @@
 ---
 title: "Inês V. Silva"
 description: "Inês V. Silva is a Mid-career Unknown researcher at Universidade Católica Portuguesa in PT. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.691362
+date: 2026-07-10T01:07:48.645006
 url: "/cdr-researcher-census/researchers/ines-v-silva-a5089327/"
 layout: "researcher"
 hiddenInHomeList: true

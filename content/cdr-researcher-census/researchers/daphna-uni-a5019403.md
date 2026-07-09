@@ -1,7 +1,7 @@
 ---
 title: "Daphna Uni"
 description: "Daphna Uni is a Mid-career Unknown researcher at University of Arizona in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.261885
+date: 2026-07-10T01:07:49.168289
 url: "/cdr-researcher-census/researchers/daphna-uni-a5019403/"
 layout: "researcher"
 hiddenInHomeList: true

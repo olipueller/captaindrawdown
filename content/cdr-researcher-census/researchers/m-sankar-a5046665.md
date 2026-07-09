@@ -1,7 +1,7 @@
 ---
 title: "M. Sankar"
 description: "M. Sankar is a Senior Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.918790
+date: 2026-07-10T01:07:47.932460
 url: "/cdr-researcher-census/researchers/m-sankar-a5046665/"
 layout: "researcher"
 hiddenInHomeList: true

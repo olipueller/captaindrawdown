@@ -1,7 +1,7 @@
 ---
 title: "Kim Carmichael"
 description: "Kim Carmichael is a Mid-career Unknown researcher at Croda (United Kingdom) in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.182523
+date: 2026-07-10T01:07:49.096682
 url: "/cdr-researcher-census/researchers/kim-carmichael-a5036523/"
 layout: "researcher"
 hiddenInHomeList: true

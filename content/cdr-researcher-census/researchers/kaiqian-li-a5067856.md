@@ -1,7 +1,7 @@
 ---
 title: "Kaiqian Li"
 description: "Kaiqian Li is a Mid-career Unknown researcher at Southwest Forestry University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.124335
+date: 2026-07-10T01:07:49.029683
 url: "/cdr-researcher-census/researchers/kaiqian-li-a5067856/"
 layout: "researcher"
 hiddenInHomeList: true

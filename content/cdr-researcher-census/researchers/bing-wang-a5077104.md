@@ -1,7 +1,7 @@
 ---
 title: "Bing Wang"
 description: "Bing Wang is a Mid-career Soil Carbon researcher at China Three Gorges Corporation (China) in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.961303
+date: 2026-07-10T01:07:48.882496
 url: "/cdr-researcher-census/researchers/bing-wang-a5077104/"
 layout: "researcher"
 hiddenInHomeList: true

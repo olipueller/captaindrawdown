@@ -1,7 +1,7 @@
 ---
 title: "Yen Adams Sokama‐Neuyam"
 description: "Yen Adams Sokama‐Neuyam is a Mid-career Soil Carbon researcher at Kwame Nkrumah University of Science and Technology College of Engineering in GH. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.372096
+date: 2026-07-10T01:07:47.454280
 url: "/cdr-researcher-census/researchers/yen-adams-sokamaneuyam-a5055670/"
 layout: "researcher"
 hiddenInHomeList: true

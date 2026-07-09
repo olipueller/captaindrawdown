@@ -1,7 +1,7 @@
 ---
 title: "J.J.M. Geurts"
 description: "J.J.M. Geurts is a Senior Soil Carbon researcher at Radboud University Nijmegen in NL. With 31 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.218881
+date: 2026-07-10T01:07:47.305720
 url: "/cdr-researcher-census/researchers/jjm-geurts-a5072061/"
 layout: "researcher"
 hiddenInHomeList: true

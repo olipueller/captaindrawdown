@@ -1,7 +1,7 @@
 ---
 title: "Frantz Ossa Ossa"
 description: "Frantz Ossa Ossa is a Senior Unknown researcher at Khalifa University of Science and Technology in AE. With 46 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.096228
+date: 2026-07-10T01:07:47.179017
 url: "/cdr-researcher-census/researchers/frantz-ossa-ossa-a5054543/"
 layout: "researcher"
 hiddenInHomeList: true

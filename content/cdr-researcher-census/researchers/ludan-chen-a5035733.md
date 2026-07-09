@@ -1,7 +1,7 @@
 ---
 title: "Ludan Chen"
 description: "Ludan Chen is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.094735
+date: 2026-07-10T01:07:49.003405
 url: "/cdr-researcher-census/researchers/ludan-chen-a5035733/"
 layout: "researcher"
 hiddenInHomeList: true

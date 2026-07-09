@@ -1,7 +1,7 @@
 ---
 title: "Lihong Song"
 description: "Lihong Song is a Mid-career Soil Carbon researcher at Guizhou Normal University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.326117
+date: 2026-07-10T01:07:48.326489
 url: "/cdr-researcher-census/researchers/lihong-song-a5102195/"
 layout: "researcher"
 hiddenInHomeList: true

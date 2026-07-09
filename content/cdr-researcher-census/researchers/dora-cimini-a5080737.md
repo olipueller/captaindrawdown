@@ -1,7 +1,7 @@
 ---
 title: "Dora Cimini"
 description: "Dora Cimini is a Mid-career Unknown researcher at Presidenza Del Consiglio Dei Ministri in IT. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.811038
+date: 2026-07-10T01:07:48.748487
 url: "/cdr-researcher-census/researchers/dora-cimini-a5080737/"
 layout: "researcher"
 hiddenInHomeList: true

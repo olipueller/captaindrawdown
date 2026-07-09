@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Salah"
 description: "Cecilia Salah is an Early-career Unknown researcher at ETH Zurich in CH. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.797686
+date: 2026-07-10T01:07:48.736934
 url: "/cdr-researcher-census/researchers/cecilia-salah-a5085585/"
 layout: "researcher"
 hiddenInHomeList: true

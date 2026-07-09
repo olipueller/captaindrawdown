@@ -1,7 +1,7 @@
 ---
 title: "Atsu Kludze"
 description: "Atsu Kludze is a Mid-career Ocean CDR researcher at Yale University in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.685441
+date: 2026-07-10T01:07:47.741792
 url: "/cdr-researcher-census/researchers/atsu-kludze-a5069330/"
 layout: "researcher"
 hiddenInHomeList: true

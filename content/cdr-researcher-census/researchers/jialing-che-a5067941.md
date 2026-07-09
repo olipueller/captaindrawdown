@@ -1,7 +1,7 @@
 ---
 title: "Jialing Che"
 description: "Jialing Che is a Senior Biochar researcher at Ningxia University in CN. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.848092
+date: 2026-07-10T01:07:47.883882
 url: "/cdr-researcher-census/researchers/jialing-che-a5067941/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shujing Zhu"
 description: "Shujing Zhu is a Senior Soil Carbon researcher at Fujian Medical University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.319838
+date: 2026-07-10T01:07:47.402096
 url: "/cdr-researcher-census/researchers/shujing-zhu-a5100533/"
 layout: "researcher"
 hiddenInHomeList: true

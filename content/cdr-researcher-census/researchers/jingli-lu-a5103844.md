@@ -1,7 +1,7 @@
 ---
 title: "Jingli Lu"
 description: "Jingli Lu is a Mid-career Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.190734
+date: 2026-07-10T01:07:47.279973
 url: "/cdr-researcher-census/researchers/jingli-lu-a5103844/"
 layout: "researcher"
 hiddenInHomeList: true

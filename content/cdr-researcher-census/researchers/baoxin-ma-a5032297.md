@@ -1,7 +1,7 @@
 ---
 title: "Baoxin Ma"
 description: "Baoxin Ma is a Mid-career Unknown researcher at Heilongjiang Provincial Academy of Agricultural Sciences in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.019301
+date: 2026-07-10T01:07:48.027036
 url: "/cdr-researcher-census/researchers/baoxin-ma-a5032297/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rahma Dahmani"
 description: "Rahma Dahmani is a Mid-career Unknown researcher at Centre National de la Recherche Scientifique in FR. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.217839
+date: 2026-07-10T01:07:48.229461
 url: "/cdr-researcher-census/researchers/rahma-dahmani-a5017592/"
 layout: "researcher"
 hiddenInHomeList: true

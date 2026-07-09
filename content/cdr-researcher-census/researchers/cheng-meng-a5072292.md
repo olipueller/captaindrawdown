@@ -1,7 +1,7 @@
 ---
 title: "Cheng Meng"
 description: "Cheng Meng is a Mid-career Unknown researcher at University of Oklahoma in US. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.257655
+date: 2026-07-10T01:07:47.341933
 url: "/cdr-researcher-census/researchers/cheng-meng-a5072292/"
 layout: "researcher"
 hiddenInHomeList: true

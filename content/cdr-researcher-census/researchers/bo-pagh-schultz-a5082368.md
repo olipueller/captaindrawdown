@@ -1,7 +1,7 @@
 ---
 title: "Bo Pagh Schultz"
 description: "Bo Pagh Schultz is a Senior Unknown researcher at Skive Kommune in DK. With 45 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.279924
+date: 2026-07-10T01:07:47.362028
 url: "/cdr-researcher-census/researchers/bo-pagh-schultz-a5082368/"
 layout: "researcher"
 hiddenInHomeList: true

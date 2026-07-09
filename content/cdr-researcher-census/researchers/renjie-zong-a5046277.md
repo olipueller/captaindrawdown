@@ -1,7 +1,7 @@
 ---
 title: "Renjie Zong"
 description: "Renjie Zong is a Mid-career Unknown researcher at Institute of Soil and Water Conservation in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.924596
+date: 2026-07-10T01:07:48.848135
 url: "/cdr-researcher-census/researchers/renjie-zong-a5046277/"
 layout: "researcher"
 hiddenInHomeList: true

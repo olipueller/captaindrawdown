@@ -1,7 +1,7 @@
 ---
 title: "Hengyu Lyu"
 description: "Hengyu Lyu is an Early-career General CDR researcher. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.136490
+date: 2026-07-10T01:07:49.040200
 url: "/cdr-researcher-census/researchers/hengyu-lyu-a5066142/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ven Chian Quek"
 description: "Ven Chian Quek is a Mid-career Unknown researcher at Petronas (Malaysia) in MY. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.000349
+date: 2026-07-10T01:07:48.918427
 url: "/cdr-researcher-census/researchers/ven-chian-quek-a5046250/"
 layout: "researcher"
 hiddenInHomeList: true

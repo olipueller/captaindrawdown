@@ -1,7 +1,7 @@
 ---
 title: "Zeng Wei Heng"
 description: "Zeng Wei Heng is a Mid-career Unknown researcher at Universiti Tunku Abdul Rahman in MY. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.649841
+date: 2026-07-10T01:07:47.708269
 url: "/cdr-researcher-census/researchers/zeng-wei-heng-a5113923/"
 layout: "researcher"
 hiddenInHomeList: true

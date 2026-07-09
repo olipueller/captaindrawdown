@@ -1,7 +1,7 @@
 ---
 title: "Ulrich Ramach"
 description: "Ulrich Ramach is a Mid-career Unknown researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.876548
+date: 2026-07-10T01:07:48.804075
 url: "/cdr-researcher-census/researchers/ulrich-ramach-a5009256/"
 layout: "researcher"
 hiddenInHomeList: true

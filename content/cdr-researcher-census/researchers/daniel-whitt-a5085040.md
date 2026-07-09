@@ -1,7 +1,7 @@
 ---
 title: "Daniel Whitt"
 description: "Daniel Whitt is a Mid-career Ocean CDR researcher at NASA Ames in US. With 89 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.310981
+date: 2026-07-10T01:07:47.393232
 url: "/cdr-researcher-census/researchers/daniel-whitt-a5085040/"
 layout: "researcher"
 hiddenInHomeList: true

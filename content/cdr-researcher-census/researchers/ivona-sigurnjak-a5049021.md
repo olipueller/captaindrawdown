@@ -1,7 +1,7 @@
 ---
 title: "Ivona Sigurnjak"
 description: "Ivona Sigurnjak is a Mid-career Soil Carbon researcher at Ghent University in BE. With 100 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.327687
+date: 2026-07-10T01:07:47.409526
 url: "/cdr-researcher-census/researchers/ivona-sigurnjak-a5049021/"
 layout: "researcher"
 hiddenInHomeList: true

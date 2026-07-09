@@ -1,7 +1,7 @@
 ---
 title: "Yuanyuan Tang"
 description: "Yuanyuan Tang is a Mid-career Soil Carbon researcher at Chengdu University of Traditional Chinese Medicine in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.879677
+date: 2026-07-10T01:07:48.807379
 url: "/cdr-researcher-census/researchers/yuanyuan-tang-a5012811/"
 layout: "researcher"
 hiddenInHomeList: true

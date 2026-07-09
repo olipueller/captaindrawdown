@@ -1,7 +1,7 @@
 ---
 title: "Jianjian Zhou"
 description: "Jianjian Zhou is a Mid-career Unknown researcher at University of Shanghai for Science and Technology in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.449312
+date: 2026-07-10T01:07:47.525222
 url: "/cdr-researcher-census/researchers/jianjian-zhou-a5039531/"
 layout: "researcher"
 hiddenInHomeList: true

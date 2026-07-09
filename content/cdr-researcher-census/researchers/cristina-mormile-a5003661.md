@@ -1,7 +1,7 @@
 ---
 title: "Cristina Mormile"
 description: "Cristina Mormile is a Mid-career Biochar researcher at CSI Piemonte in IT. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.681067
+date: 2026-07-10T01:07:48.636263
 url: "/cdr-researcher-census/researchers/cristina-mormile-a5003661/"
 layout: "researcher"
 hiddenInHomeList: true

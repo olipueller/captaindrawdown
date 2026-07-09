@@ -1,7 +1,7 @@
 ---
 title: "Gijs K. A. van Wermeskerken"
 description: "Gijs K. A. van Wermeskerken is a Senior Unknown researcher at Amphia Ziekenhuis in NL. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.498516
+date: 2026-07-10T01:07:48.483879
 url: "/cdr-researcher-census/researchers/gijs-k-a-van-wermeskerken-a5003199/"
 layout: "researcher"
 hiddenInHomeList: true

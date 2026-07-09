@@ -1,7 +1,7 @@
 ---
 title: "E. A. Belyaeva"
 description: "E. A. Belyaeva is a Senior Soil Carbon researcher at Chelyabinsk State University in RU. With 62 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.773184
+date: 2026-07-10T01:07:47.822850
 url: "/cdr-researcher-census/researchers/e-a-belyaeva-a5004907/"
 layout: "researcher"
 hiddenInHomeList: true

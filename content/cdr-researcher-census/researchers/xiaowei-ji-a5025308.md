@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Ji"
 description: "Xiaowei Ji is a Mid-career Unknown researcher at Fujian Normal University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.349373
+date: 2026-07-10T01:07:48.347877
 url: "/cdr-researcher-census/researchers/xiaowei-ji-a5025308/"
 layout: "researcher"
 hiddenInHomeList: true

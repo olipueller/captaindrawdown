@@ -1,7 +1,7 @@
 ---
 title: "Yihan Shi"
 description: "Yihan Shi is a Mid-career Unknown researcher at University of Technology Sydney in AU. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.980004
+date: 2026-07-10T01:07:47.989462
 url: "/cdr-researcher-census/researchers/yihan-shi-a5057333/"
 layout: "researcher"
 hiddenInHomeList: true

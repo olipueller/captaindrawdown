@@ -1,7 +1,7 @@
 ---
 title: "Cao Feng"
 description: "Cao Feng is a Senior Soil Carbon researcher at Virginia University of Lynchburg in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.017425
+date: 2026-07-10T01:07:48.933586
 url: "/cdr-researcher-census/researchers/cao-feng-a5046406/"
 layout: "researcher"
 hiddenInHomeList: true

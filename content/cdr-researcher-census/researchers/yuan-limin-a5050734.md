@@ -1,7 +1,7 @@
 ---
 title: "Yuan Limin"
 description: "Yuan Limin is a Senior Unknown researcher at Mongolian Academy of Sciences in MN. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.127791
+date: 2026-07-10T01:07:49.032875
 url: "/cdr-researcher-census/researchers/yuan-limin-a5050734/"
 layout: "researcher"
 hiddenInHomeList: true

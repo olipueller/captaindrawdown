@@ -1,7 +1,7 @@
 ---
 title: "Amar Yasser Jassim"
 description: "Amar Yasser Jassim is a Mid-career Biochar researcher at University of Basrah in IQ. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.787576
+date: 2026-07-10T01:07:47.836408
 url: "/cdr-researcher-census/researchers/amar-yasser-jassim-a5058689/"
 layout: "researcher"
 hiddenInHomeList: true

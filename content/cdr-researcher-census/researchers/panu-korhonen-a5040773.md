@@ -1,7 +1,7 @@
 ---
 title: "Panu Korhonen"
 description: "Panu Korhonen is a Senior Soil Carbon researcher. With 60 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.758146
+date: 2026-07-10T01:07:47.808334
 url: "/cdr-researcher-census/researchers/panu-korhonen-a5040773/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Paul C. Hedman"
 description: "Paul C. Hedman is a Mid-career Unknown researcher at Princess Margaret Hospital in HK. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.907219
+date: 2026-07-10T01:07:48.832565
 url: "/cdr-researcher-census/researchers/paul-c-hedman-a5087543/"
 layout: "researcher"
 hiddenInHomeList: true

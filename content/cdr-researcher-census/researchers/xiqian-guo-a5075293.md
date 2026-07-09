@@ -1,7 +1,7 @@
 ---
 title: "Xiqian Guo"
 description: "Xiqian Guo is a Mid-career Biochar researcher at Shanghai Polytechnic University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.948118
+date: 2026-07-10T01:07:47.959844
 url: "/cdr-researcher-census/researchers/xiqian-guo-a5075293/"
 layout: "researcher"
 hiddenInHomeList: true

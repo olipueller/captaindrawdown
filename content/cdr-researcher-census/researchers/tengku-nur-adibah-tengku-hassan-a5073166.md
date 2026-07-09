@@ -1,7 +1,7 @@
 ---
 title: "Tengku Nur Adibah Tengku Hassan"
 description: "Tengku Nur Adibah Tengku Hassan is a Mid-career Unknown researcher at Universiti Teknologi Petronas in MY. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.817127
+date: 2026-07-10T01:07:48.753261
 url: "/cdr-researcher-census/researchers/tengku-nur-adibah-tengku-hassan-a5073166/"
 layout: "researcher"
 hiddenInHomeList: true

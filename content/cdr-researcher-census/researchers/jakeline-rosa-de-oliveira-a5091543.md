@@ -1,7 +1,7 @@
 ---
 title: "Jakeline Rosa de Oliveira"
 description: "Jakeline Rosa de Oliveira is a Mid-career Unknown researcher at Universidade Federal de Pelotas in BR. With 49 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.363656
+date: 2026-07-10T01:07:48.361363
 url: "/cdr-researcher-census/researchers/jakeline-rosa-de-oliveira-a5091543/"
 layout: "researcher"
 hiddenInHomeList: true

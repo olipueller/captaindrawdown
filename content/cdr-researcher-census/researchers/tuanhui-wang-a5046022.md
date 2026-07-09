@@ -1,7 +1,7 @@
 ---
 title: "Tuanhui Wang"
 description: "Tuanhui Wang is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.857347
+date: 2026-07-10T01:07:47.892692
 url: "/cdr-researcher-census/researchers/tuanhui-wang-a5046022/"
 layout: "researcher"
 hiddenInHomeList: true

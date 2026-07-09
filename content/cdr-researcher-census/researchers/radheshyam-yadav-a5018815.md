@@ -1,7 +1,7 @@
 ---
 title: "Radheshyam Yadav"
 description: "Radheshyam Yadav is a Mid-career Soil Carbon researcher at University of Georgia in US. With 24 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.151001
+date: 2026-07-10T01:07:47.239223
 url: "/cdr-researcher-census/researchers/radheshyam-yadav-a5018815/"
 layout: "researcher"
 hiddenInHomeList: true

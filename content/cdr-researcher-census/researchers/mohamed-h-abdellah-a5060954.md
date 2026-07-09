@@ -1,7 +1,7 @@
 ---
 title: "Mohamed H. Abdellah"
 description: "Mohamed H. Abdellah is a Mid-career Unknown researcher at Mayne Pharma (Australia) in AU. With 24 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.438805
+date: 2026-07-10T01:07:47.515462
 url: "/cdr-researcher-census/researchers/mohamed-h-abdellah-a5060954/"
 layout: "researcher"
 hiddenInHomeList: true

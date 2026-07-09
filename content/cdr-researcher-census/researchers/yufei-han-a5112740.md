@@ -1,7 +1,7 @@
 ---
 title: "Yufei Han"
 description: "Yufei Han is a Mid-career Unknown researcher at Shandong University in CN. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.795989
+date: 2026-07-10T01:07:47.844217
 url: "/cdr-researcher-census/researchers/yufei-han-a5112740/"
 layout: "researcher"
 hiddenInHomeList: true

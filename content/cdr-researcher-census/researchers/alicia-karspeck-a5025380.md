@@ -1,7 +1,7 @@
 ---
 title: "Alicia Karspeck"
 description: "Alicia Karspeck is a Senior Ocean CDR researcher. With 73 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.981670
+date: 2026-07-10T01:07:47.031757
 url: "/cdr-researcher-census/researchers/alicia-karspeck-a5025380/"
 layout: "researcher"
 hiddenInHomeList: true

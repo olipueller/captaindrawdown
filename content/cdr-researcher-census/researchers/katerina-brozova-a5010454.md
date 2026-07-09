@@ -1,7 +1,7 @@
 ---
 title: "Kateřina Brožová"
 description: "Kateřina Brožová is a Mid-career Biochar researcher at VSB - Technical University of Ostrava in CZ. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.670189
+date: 2026-07-10T01:07:48.626088
 url: "/cdr-researcher-census/researchers/katerina-brozova-a5010454/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuming Li"
 description: "Yuming Li is a Senior Soil Carbon researcher at Alion Science and Technology (United States) in US. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.147294
+date: 2026-07-10T01:07:48.167311
 url: "/cdr-researcher-census/researchers/yuming-li-a5100526/"
 layout: "researcher"
 hiddenInHomeList: true

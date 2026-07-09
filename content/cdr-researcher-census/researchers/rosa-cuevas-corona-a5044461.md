@@ -1,7 +1,7 @@
 ---
 title: "Rosa Cuevas-Corona"
 description: "Rosa Cuevas-Corona is a Mid-career Unknown researcher at Food and Agriculture Organization of the United Nations in IT. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.354153
+date: 2026-07-10T01:07:47.436227
 url: "/cdr-researcher-census/researchers/rosa-cuevas-corona-a5044461/"
 layout: "researcher"
 hiddenInHomeList: true

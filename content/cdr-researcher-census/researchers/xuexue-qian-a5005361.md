@@ -1,7 +1,7 @@
 ---
 title: "Xuexue Qian"
 description: "Xuexue Qian is a Mid-career General CDR researcher at Shanghai Normal University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.425729
+date: 2026-07-10T01:07:48.415998
 url: "/cdr-researcher-census/researchers/xuexue-qian-a5005361/"
 layout: "researcher"
 hiddenInHomeList: true

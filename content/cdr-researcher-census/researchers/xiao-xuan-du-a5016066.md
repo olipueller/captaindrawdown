@@ -1,7 +1,7 @@
 ---
 title: "Xiao-Xuan Du"
 description: "Xiao-Xuan Du is a Mid-career Soil Carbon researcher at Kyungpook National University in KR. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.334900
+date: 2026-07-10T01:07:48.335225
 url: "/cdr-researcher-census/researchers/xiao-xuan-du-a5016066/"
 layout: "researcher"
 hiddenInHomeList: true

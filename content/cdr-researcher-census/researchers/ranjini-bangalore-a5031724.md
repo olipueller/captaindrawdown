@@ -1,7 +1,7 @@
 ---
 title: "Ranjini Bangalore"
 description: "Ranjini Bangalore is an Early-career Unknown researcher at IBM Research - India in IN. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.239492
+date: 2026-07-10T01:07:49.148276
 url: "/cdr-researcher-census/researchers/ranjini-bangalore-a5031724/"
 layout: "researcher"
 hiddenInHomeList: true

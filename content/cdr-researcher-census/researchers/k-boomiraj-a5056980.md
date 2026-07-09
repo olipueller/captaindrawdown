@@ -1,7 +1,7 @@
 ---
 title: "K. Boomiraj"
 description: "K. Boomiraj is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 95 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.696259
+date: 2026-07-10T01:07:47.751879
 url: "/cdr-researcher-census/researchers/k-boomiraj-a5056980/"
 layout: "researcher"
 hiddenInHomeList: true

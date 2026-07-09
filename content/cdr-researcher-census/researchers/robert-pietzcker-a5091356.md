@@ -1,7 +1,7 @@
 ---
 title: "Robert Pietzcker"
 description: "Robert Pietzcker is an Eminent General CDR researcher at Potsdam-Institut für Klimafolgenforschung in DE. With 139 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.906145
+date: 2026-07-10T01:07:46.900382
 url: "/cdr-researcher-census/researchers/robert-pietzcker-a5091356/"
 layout: "researcher"
 hiddenInHomeList: true

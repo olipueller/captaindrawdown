@@ -1,7 +1,7 @@
 ---
 title: "Luhua Wu"
 description: "Luhua Wu is a Senior General CDR researcher at Tongren University in CN. With 78 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.003068
+date: 2026-07-10T01:07:47.063553
 url: "/cdr-researcher-census/researchers/luhua-wu-a5112485/"
 layout: "researcher"
 hiddenInHomeList: true

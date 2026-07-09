@@ -1,7 +1,7 @@
 ---
 title: "Heather E. Murton"
 description: "Heather E. Murton is a Senior Unknown researcher at QuantuMDx (United Kingdom) in GB. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.979098
+date: 2026-07-10T01:07:48.899196
 url: "/cdr-researcher-census/researchers/heather-e-murton-a5089579/"
 layout: "researcher"
 hiddenInHomeList: true

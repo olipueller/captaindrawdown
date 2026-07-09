@@ -1,7 +1,7 @@
 ---
 title: "Wenjie Zhai"
 description: "Wenjie Zhai is a Mid-career Unknown researcher at Hebei University of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.892385
+date: 2026-07-10T01:07:48.818732
 url: "/cdr-researcher-census/researchers/wenjie-zhai-a5102546/"
 layout: "researcher"
 hiddenInHomeList: true

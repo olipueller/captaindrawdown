@@ -1,7 +1,7 @@
 ---
 title: "E. A. Golovatskaya"
 description: "E. A. Golovatskaya is a Senior Soil Carbon researcher at Institute of Monitoring of Climatic and Ecological Systems in RU. With 52 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.928143
+date: 2026-07-10T01:07:47.941441
 url: "/cdr-researcher-census/researchers/e-a-golovatskaya-a5084228/"
 layout: "researcher"
 hiddenInHomeList: true

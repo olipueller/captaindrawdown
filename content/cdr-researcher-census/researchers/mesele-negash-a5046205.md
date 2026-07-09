@@ -1,7 +1,7 @@
 ---
 title: "Mesele Negash"
 description: "Mesele Negash is a Senior Soil Carbon researcher at Hawassa University in ET. With 72 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.110190
+date: 2026-07-10T01:07:47.195747
 url: "/cdr-researcher-census/researchers/mesele-negash-a5046205/"
 layout: "researcher"
 hiddenInHomeList: true

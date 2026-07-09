@@ -1,7 +1,7 @@
 ---
 title: "Yi‐Meng Sun"
 description: "Yi‐Meng Sun is a Senior Unknown researcher at National Central University in TW. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.407277
+date: 2026-07-10T01:07:47.487002
 url: "/cdr-researcher-census/researchers/yimeng-sun-a5101673/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shirun Ding"
 description: "Shirun Ding is a Mid-career Unknown researcher at National University of Singapore in SG. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.744680
+date: 2026-07-10T01:07:47.796764
 url: "/cdr-researcher-census/researchers/shirun-ding-a5013008/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Benjamin T. Saenz"
 description: "Benjamin T. Saenz is a Mid-career Ocean CDR researcher at Earth Island Institute in US. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.581883
+date: 2026-07-10T01:07:47.645335
 url: "/cdr-researcher-census/researchers/benjamin-t-saenz-a5040608/"
 layout: "researcher"
 hiddenInHomeList: true

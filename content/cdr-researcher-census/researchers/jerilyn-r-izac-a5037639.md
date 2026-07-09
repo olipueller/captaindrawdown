@@ -1,7 +1,7 @@
 ---
 title: "Jerilyn R. Izac"
 description: "Jerilyn R. Izac is a Mid-career Unknown researcher at Virginia Commonwealth University in US. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.865596
+date: 2026-07-10T01:07:47.897618
 url: "/cdr-researcher-census/researchers/jerilyn-r-izac-a5037639/"
 layout: "researcher"
 hiddenInHomeList: true

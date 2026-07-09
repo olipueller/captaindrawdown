@@ -1,7 +1,7 @@
 ---
 title: "Mike Martin"
 description: "Mike Martin is a Mid-career BECCS researcher at Hampton Roads Sanitation District in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.861882
+date: 2026-07-10T01:07:48.791427
 url: "/cdr-researcher-census/researchers/mike-martin-a5083735/"
 layout: "researcher"
 hiddenInHomeList: true

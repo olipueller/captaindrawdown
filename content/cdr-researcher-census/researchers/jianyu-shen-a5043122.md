@@ -1,7 +1,7 @@
 ---
 title: "Jianyu Shen"
 description: "Jianyu Shen is a Mid-career General CDR researcher at Tongji University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.084171
+date: 2026-07-10T01:07:48.085237
 url: "/cdr-researcher-census/researchers/jianyu-shen-a5043122/"
 layout: "researcher"
 hiddenInHomeList: true

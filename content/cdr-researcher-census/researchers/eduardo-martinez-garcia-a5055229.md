@@ -1,7 +1,7 @@
 ---
 title: "Eduardo Martínez García"
 description: "Eduardo Martínez García is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 63 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.442521
+date: 2026-07-10T01:07:47.518361
 url: "/cdr-researcher-census/researchers/eduardo-martinez-garcia-a5055229/"
 layout: "researcher"
 hiddenInHomeList: true

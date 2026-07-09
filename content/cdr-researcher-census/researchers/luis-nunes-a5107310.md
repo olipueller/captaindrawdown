@@ -1,7 +1,7 @@
 ---
 title: "Luís Nunes"
 description: "Luís Nunes is a Senior Unknown researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.962180
+date: 2026-07-10T01:07:48.883320
 url: "/cdr-researcher-census/researchers/luis-nunes-a5107310/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Beula Isabel John"
 description: "Beula Isabel John is an Early-career Unknown researcher at National Institute of Technology Tiruchirappalli in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.672975
+date: 2026-07-10T01:07:48.628850
 url: "/cdr-researcher-census/researchers/beula-isabel-john-a5076937/"
 layout: "researcher"
 hiddenInHomeList: true

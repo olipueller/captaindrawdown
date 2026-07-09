@@ -1,7 +1,7 @@
 ---
 title: "Minghao Xu"
 description: "Minghao Xu is a Mid-career Unknown researcher at Qinghai University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.395315
+date: 2026-07-10T01:07:48.387670
 url: "/cdr-researcher-census/researchers/minghao-xu-a5057988/"
 layout: "researcher"
 hiddenInHomeList: true

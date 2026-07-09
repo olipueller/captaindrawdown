@@ -1,7 +1,7 @@
 ---
 title: "Michael Filippi"
 description: "Michael Filippi is a Mid-career General CDR researcher at Technische Universität Berlin in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.137281
+date: 2026-07-10T01:07:48.159156
 url: "/cdr-researcher-census/researchers/michael-filippi-a5076504/"
 layout: "researcher"
 hiddenInHomeList: true

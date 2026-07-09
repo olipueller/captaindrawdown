@@ -1,7 +1,7 @@
 ---
 title: "Luan Minh Nguyen"
 description: "Luan Minh Nguyen is a Mid-career Biochar researcher at Vietnam Academy of Science and Technology in VN. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.307967
+date: 2026-07-10T01:07:47.390002
 url: "/cdr-researcher-census/researchers/luan-minh-nguyen-a5103042/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nicholas S. Niazi"
 description: "Nicholas S. Niazi is a Mid-career Unknown researcher at David Grant USAF Medical Center in US. With 5 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.192869
+date: 2026-07-10T01:07:49.106545
 url: "/cdr-researcher-census/researchers/nicholas-s-niazi-a5066430/"
 layout: "researcher"
 hiddenInHomeList: true

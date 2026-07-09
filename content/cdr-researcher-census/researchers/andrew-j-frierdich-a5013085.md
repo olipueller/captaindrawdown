@@ -1,7 +1,7 @@
 ---
 title: "Andrew J. Frierdich"
 description: "Andrew J. Frierdich is a Senior General CDR researcher at MONASH UNIVERSITY in AU. With 57 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.096626
+date: 2026-07-10T01:07:47.179453
 url: "/cdr-researcher-census/researchers/andrew-j-frierdich-a5013085/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kristin I. Jinks"
 description: "Kristin I. Jinks is a Mid-career Unknown researcher at Griffith University in AU. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.944415
+date: 2026-07-10T01:07:47.956564
 url: "/cdr-researcher-census/researchers/kristin-i-jinks-a5021604/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Francisco Robledano"
 description: "Francisco Robledano is a Senior Soil Carbon researcher at Universidad de Murcia in ES. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.508862
+date: 2026-07-10T01:07:47.577698
 url: "/cdr-researcher-census/researchers/francisco-robledano-a5009654/"
 layout: "researcher"
 hiddenInHomeList: true

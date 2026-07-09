@@ -1,7 +1,7 @@
 ---
 title: "Alaa M. Munshi"
 description: "Alaa M. Munshi is a Mid-career Unknown researcher at Umm al-Qura University in SA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.345301
+date: 2026-07-10T01:07:48.344324
 url: "/cdr-researcher-census/researchers/alaa-m-munshi-a5087991/"
 layout: "researcher"
 hiddenInHomeList: true

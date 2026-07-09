@@ -1,7 +1,7 @@
 ---
 title: "Gunnhild Søgaard"
 description: "Gunnhild Søgaard is a Senior Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 50 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.956784
+date: 2026-07-10T01:07:47.967840
 url: "/cdr-researcher-census/researchers/gunnhild-sgaard-a5087827/"
 layout: "researcher"
 hiddenInHomeList: true

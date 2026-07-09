@@ -1,7 +1,7 @@
 ---
 title: "Süheyla Tongur"
 description: "Süheyla Tongur is a Mid-career Unknown researcher at Konya Technical University in TR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.010124
+date: 2026-07-10T01:07:48.927283
 url: "/cdr-researcher-census/researchers/suheyla-tongur-a5024652/"
 layout: "researcher"
 hiddenInHomeList: true

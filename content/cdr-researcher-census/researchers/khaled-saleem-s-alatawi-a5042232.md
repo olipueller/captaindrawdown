@@ -1,7 +1,7 @@
 ---
 title: "Khaled Saleem S. Alatawi"
 description: "Khaled Saleem S. Alatawi is a Mid-career Unknown researcher at University of Tabuk in SA. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.013518
+date: 2026-07-10T01:07:48.021343
 url: "/cdr-researcher-census/researchers/khaled-saleem-s-alatawi-a5042232/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Athanasios D. Porfyris"
 description: "Athanasios D. Porfyris is a Mid-career Unknown researcher at National Technical University of Athens in GR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.007088
+date: 2026-07-10T01:07:48.015676
 url: "/cdr-researcher-census/researchers/athanasios-d-porfyris-a5047768/"
 layout: "researcher"
 hiddenInHomeList: true

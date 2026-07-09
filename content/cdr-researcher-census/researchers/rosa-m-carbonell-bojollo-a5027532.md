@@ -1,7 +1,7 @@
 ---
 title: "Rosa M. Carbonell-Bojollo"
 description: "Rosa M. Carbonell-Bojollo is a Senior Soil Carbon researcher at Instituto Andaluz de Investigación y Formación Agraria Pesquera Alimentaria y de la Producción Ecológica. Centro Alameda del Obispo. in ES. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.282908
+date: 2026-07-10T01:07:47.365209
 url: "/cdr-researcher-census/researchers/rosa-m-carbonell-bojollo-a5027532/"
 layout: "researcher"
 hiddenInHomeList: true

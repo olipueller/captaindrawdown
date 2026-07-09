@@ -1,7 +1,7 @@
 ---
 title: "Khatereh Nobaharan"
 description: "Khatereh Nobaharan is a Mid-career Biochar researcher. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.694818
+date: 2026-07-10T01:07:47.750606
 url: "/cdr-researcher-census/researchers/khatereh-nobaharan-a5047508/"
 layout: "researcher"
 hiddenInHomeList: true

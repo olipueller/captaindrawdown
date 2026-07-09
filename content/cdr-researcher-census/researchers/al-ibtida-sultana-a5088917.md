@@ -1,7 +1,7 @@
 ---
 title: "Al Ibtida Sultana"
 description: "Al Ibtida Sultana is a Mid-career Biochar researcher at Florida Institute of Technology in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.059638
+date: 2026-07-10T01:07:48.063403
 url: "/cdr-researcher-census/researchers/al-ibtida-sultana-a5088917/"
 layout: "researcher"
 hiddenInHomeList: true

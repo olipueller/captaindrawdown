@@ -1,7 +1,7 @@
 ---
 title: "Wenxuan Ji"
 description: "Wenxuan Ji is a Mid-career Soil Carbon researcher at Qingdao University in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.413124
+date: 2026-07-10T01:07:48.404212
 url: "/cdr-researcher-census/researchers/wenxuan-ji-a5074274/"
 layout: "researcher"
 hiddenInHomeList: true

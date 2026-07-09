@@ -1,7 +1,7 @@
 ---
 title: "Pushpa Kumari"
 description: "Pushpa Kumari is a Senior Unknown researcher at Botanical Survey of India in IN. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.774359
+date: 2026-07-10T01:07:47.824006
 url: "/cdr-researcher-census/researchers/pushpa-kumari-a5100997/"
 layout: "researcher"
 hiddenInHomeList: true

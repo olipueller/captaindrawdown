@@ -1,7 +1,7 @@
 ---
 title: "Brian J. Vinci"
 description: "Brian J. Vinci is a Senior Unknown researcher at The Conservation Fund in US. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.419223
+date: 2026-07-10T01:07:47.498359
 url: "/cdr-researcher-census/researchers/brian-j-vinci-a5053218/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Irene Karijadi"
 description: "Irene Karijadi is a Mid-career Unknown researcher at Universitas Katolik Widya Mandala Surabaya in ID. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.054125
+date: 2026-07-10T01:07:48.058658
 url: "/cdr-researcher-census/researchers/irene-karijadi-a5014395/"
 layout: "researcher"
 hiddenInHomeList: true

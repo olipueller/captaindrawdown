@@ -1,7 +1,7 @@
 ---
 title: "Fábio da Silva"
 description: "Fábio da Silva is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.383561
+date: 2026-07-10T01:07:48.378720
 url: "/cdr-researcher-census/researchers/fabio-da-silva-a5103220/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "François Rineau"
 description: "François Rineau is a Senior General CDR researcher at Universiteit Hasselt in BE. With 103 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.975380
+date: 2026-07-10T01:07:47.021636
 url: "/cdr-researcher-census/researchers/francois-rineau-a5045686/"
 layout: "researcher"
 hiddenInHomeList: true

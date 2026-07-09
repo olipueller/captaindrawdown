@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Pan"
 description: "Jiahui Pan is a Senior Unknown researcher at Zhejiang Gongshang University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.891677
+date: 2026-07-10T01:07:47.906617
 url: "/cdr-researcher-census/researchers/jiahui-pan-a5111830/"
 layout: "researcher"
 hiddenInHomeList: true

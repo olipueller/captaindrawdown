@@ -1,7 +1,7 @@
 ---
 title: "Klára Pokovai"
 description: "Klára Pokovai is a Senior Soil Carbon researcher at Institute for Soil Sciences in HU. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.223279
+date: 2026-07-10T01:07:48.233759
 url: "/cdr-researcher-census/researchers/klara-pokovai-a5003596/"
 layout: "researcher"
 hiddenInHomeList: true

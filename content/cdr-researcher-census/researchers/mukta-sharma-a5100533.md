@@ -1,7 +1,7 @@
 ---
 title: "Mukta Sharma"
 description: "Mukta Sharma is a Senior Soil Carbon researcher at Shobhit University in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.276232
+date: 2026-07-10T01:07:48.281954
 url: "/cdr-researcher-census/researchers/mukta-sharma-a5100533/"
 layout: "researcher"
 hiddenInHomeList: true

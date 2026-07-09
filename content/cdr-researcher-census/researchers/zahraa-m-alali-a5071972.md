@@ -1,7 +1,7 @@
 ---
 title: "Zahraa M. Al‐Ali"
 description: "Zahraa M. Al‐Ali is a Mid-career Unknown researcher at Texas A&M University in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.289195
+date: 2026-07-10T01:07:48.293615
 url: "/cdr-researcher-census/researchers/zahraa-m-alali-a5071972/"
 layout: "researcher"
 hiddenInHomeList: true

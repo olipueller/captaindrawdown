@@ -1,7 +1,7 @@
 ---
 title: "Anna Kulis-Kapuscinska"
 description: "Anna Kulis-Kapuscinska is a Mid-career Unknown researcher at Silesian University of Technology in PL. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.349794
+date: 2026-07-10T01:07:48.348268
 url: "/cdr-researcher-census/researchers/anna-kulis-kapuscinska-a5065663/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tiecheng Li"
 description: "Tiecheng Li is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 45 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.524331
+date: 2026-07-10T01:07:47.590994
 url: "/cdr-researcher-census/researchers/tiecheng-li-a5101593/"
 layout: "researcher"
 hiddenInHomeList: true

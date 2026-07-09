@@ -1,7 +1,7 @@
 ---
 title: "Yujie Huang"
 description: "Yujie Huang is a Senior Biochar researcher at China University of Mining and Technology in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.638226
+date: 2026-07-10T01:07:47.697488
 url: "/cdr-researcher-census/researchers/yujie-huang-a5103230/"
 layout: "researcher"
 hiddenInHomeList: true

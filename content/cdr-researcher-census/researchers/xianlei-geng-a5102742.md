@@ -1,7 +1,7 @@
 ---
 title: "Xianlei Geng"
 description: "Xianlei Geng is a Mid-career Unknown researcher at East China University of Technology in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.507317
+date: 2026-07-10T01:07:47.576389
 url: "/cdr-researcher-census/researchers/xianlei-geng-a5102742/"
 layout: "researcher"
 hiddenInHomeList: true

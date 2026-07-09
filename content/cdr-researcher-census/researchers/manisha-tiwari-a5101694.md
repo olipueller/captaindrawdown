@@ -1,7 +1,7 @@
 ---
 title: "Manisha Tiwari"
 description: "Manisha Tiwari is a Mid-career Unknown researcher at University of California San Diego in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.012935
+date: 2026-07-10T01:07:48.020777
 url: "/cdr-researcher-census/researchers/manisha-tiwari-a5101694/"
 layout: "researcher"
 hiddenInHomeList: true

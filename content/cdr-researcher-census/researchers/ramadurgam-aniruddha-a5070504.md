@@ -1,7 +1,7 @@
 ---
 title: "Ramadurgam Aniruddha"
 description: "Ramadurgam Aniruddha is a Mid-career Unknown researcher at Birla Institute of Technology and Science - Hyderabad Campus in IN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.088883
+date: 2026-07-10T01:07:48.089432
 url: "/cdr-researcher-census/researchers/ramadurgam-aniruddha-a5070504/"
 layout: "researcher"
 hiddenInHomeList: true

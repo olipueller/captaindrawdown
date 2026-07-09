@@ -1,7 +1,7 @@
 ---
 title: "Kuan Lin Yeh"
 description: "Kuan Lin Yeh is a Mid-career Unknown researcher at National Central University in TW. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.522534
+date: 2026-07-10T01:07:48.505357
 url: "/cdr-researcher-census/researchers/kuan-lin-yeh-a5113943/"
 layout: "researcher"
 hiddenInHomeList: true

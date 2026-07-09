@@ -1,7 +1,7 @@
 ---
 title: "Lucy Jones"
 description: "Lucy Jones is a Senior General CDR researcher at Nano Carbon (Poland) in PL. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.978918
+date: 2026-07-10T01:07:48.899019
 url: "/cdr-researcher-census/researchers/lucy-jones-a5074575/"
 layout: "researcher"
 hiddenInHomeList: true

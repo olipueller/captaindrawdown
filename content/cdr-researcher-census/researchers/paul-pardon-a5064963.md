@@ -1,7 +1,7 @@
 ---
 title: "Paul Pardon"
 description: "Paul Pardon is a Mid-career Soil Carbon researcher at Instituut voor Landbouw en Visserijonderzoek in BE. With 56 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.507578
+date: 2026-07-10T01:07:47.576583
 url: "/cdr-researcher-census/researchers/paul-pardon-a5064963/"
 layout: "researcher"
 hiddenInHomeList: true

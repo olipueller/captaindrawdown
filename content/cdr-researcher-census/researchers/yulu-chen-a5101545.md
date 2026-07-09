@@ -1,7 +1,7 @@
 ---
 title: "Yulu Chen"
 description: "Yulu Chen is a Mid-career Soil Carbon researcher at Anhui Jianzhu University in CN. With 50 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.661663
+date: 2026-07-10T01:07:47.719169
 url: "/cdr-researcher-census/researchers/yulu-chen-a5101545/"
 layout: "researcher"
 hiddenInHomeList: true

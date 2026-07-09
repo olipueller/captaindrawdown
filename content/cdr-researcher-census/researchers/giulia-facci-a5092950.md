@@ -1,7 +1,7 @@
 ---
 title: "Giulia Facci"
 description: "Giulia Facci is a Mid-career Unknown researcher at Università degli Studi del Piemonte Orientale “Amedeo Avogadro” in IT. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.943367
+date: 2026-07-10T01:07:48.865634
 url: "/cdr-researcher-census/researchers/giulia-facci-a5092950/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiaozhi Zhang"
 description: "Qiaozhi Zhang is a Mid-career Biochar researcher at National University of Singapore in SG. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.629989
+date: 2026-07-10T01:07:47.689461
 url: "/cdr-researcher-census/researchers/qiaozhi-zhang-a5046328/"
 layout: "researcher"
 hiddenInHomeList: true

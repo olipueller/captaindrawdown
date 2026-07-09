@@ -1,7 +1,7 @@
 ---
 title: "Louis‐Pierre Comeau"
 description: "Louis‐Pierre Comeau is a Mid-career Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.442739
+date: 2026-07-10T01:07:47.518632
 url: "/cdr-researcher-census/researchers/louispierre-comeau-a5020805/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bronson W. Griscom"
 description: "Bronson W. Griscom is an Eminent Soil Carbon researcher at Conservation International in US. With 84 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.901729
+date: 2026-07-10T01:07:46.890890
 url: "/cdr-researcher-census/researchers/bronson-w-griscom-a5055531/"
 layout: "researcher"
 hiddenInHomeList: true

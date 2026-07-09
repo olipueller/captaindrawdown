@@ -1,7 +1,7 @@
 ---
 title: "Bharty Kumar"
 description: "Bharty Kumar is an Early-career Unknown researcher at Barkatullah University in IN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.132358
+date: 2026-07-10T01:07:49.036536
 url: "/cdr-researcher-census/researchers/bharty-kumar-a5050668/"
 layout: "researcher"
 hiddenInHomeList: true

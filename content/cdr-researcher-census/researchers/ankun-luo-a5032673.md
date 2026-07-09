@@ -1,7 +1,7 @@
 ---
 title: "Ankun Luo"
 description: "Ankun Luo is a Mid-career Unknown researcher at China University of Geosciences (Beijing) in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.678555
+date: 2026-07-10T01:07:48.634115
 url: "/cdr-researcher-census/researchers/ankun-luo-a5032673/"
 layout: "researcher"
 hiddenInHomeList: true

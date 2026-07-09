@@ -1,7 +1,7 @@
 ---
 title: "Olivier Torres"
 description: "Olivier Torres is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 53 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.239062
+date: 2026-07-10T01:07:47.325301
 url: "/cdr-researcher-census/researchers/olivier-torres-a5040372/"
 layout: "researcher"
 hiddenInHomeList: true

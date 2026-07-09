@@ -1,7 +1,7 @@
 ---
 title: "Kenea Feyisa"
 description: "Kenea Feyisa is a Mid-career Soil Carbon researcher at Hawassa University in ET. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.054528
+date: 2026-07-10T01:07:48.967794
 url: "/cdr-researcher-census/researchers/kenea-feyisa-a5005149/"
 layout: "researcher"
 hiddenInHomeList: true

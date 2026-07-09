@@ -1,7 +1,7 @@
 ---
 title: "Tim D. Smith"
 description: "Tim D. Smith is a Senior Unknown researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.043939
+date: 2026-07-10T01:07:48.049560
 url: "/cdr-researcher-census/researchers/tim-d-smith-a5103443/"
 layout: "researcher"
 hiddenInHomeList: true

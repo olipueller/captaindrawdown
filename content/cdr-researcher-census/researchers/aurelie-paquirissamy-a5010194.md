@@ -1,7 +1,7 @@
 ---
 title: "Aurélie Paquirissamy"
 description: "Aurélie Paquirissamy is a Mid-career General CDR researcher at Centre National de la Recherche Scientifique in FR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.009926
+date: 2026-07-10T01:07:48.927102
 url: "/cdr-researcher-census/researchers/aurelie-paquirissamy-a5010194/"
 layout: "researcher"
 hiddenInHomeList: true

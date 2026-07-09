@@ -1,7 +1,7 @@
 ---
 title: "Qi Zhang"
 description: "Qi Zhang is a Senior General CDR researcher at Zhongyuan University of Technology in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.988941
+date: 2026-07-10T01:07:47.997856
 url: "/cdr-researcher-census/researchers/qi-zhang-a5100360/"
 layout: "researcher"
 hiddenInHomeList: true

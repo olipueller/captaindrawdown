@@ -1,7 +1,7 @@
 ---
 title: "Zachary F. Hallberg"
 description: "Zachary F. Hallberg is a Mid-career Soil Carbon researcher at University of California, Berkeley in US. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.469209
+date: 2026-07-10T01:07:47.541976
 url: "/cdr-researcher-census/researchers/zachary-f-hallberg-a5062321/"
 layout: "researcher"
 hiddenInHomeList: true

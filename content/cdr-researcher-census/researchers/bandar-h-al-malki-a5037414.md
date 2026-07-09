@@ -1,7 +1,7 @@
 ---
 title: "Bandar H. Al-Malki"
 description: "Bandar H. Al-Malki is a Senior Unknown researcher at King Abdulaziz University in SA. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.183164
+date: 2026-07-10T01:07:49.097412
 url: "/cdr-researcher-census/researchers/bandar-h-al-malki-a5037414/"
 layout: "researcher"
 hiddenInHomeList: true

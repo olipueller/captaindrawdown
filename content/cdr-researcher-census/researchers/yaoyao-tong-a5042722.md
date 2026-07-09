@@ -1,7 +1,7 @@
 ---
 title: "Yaoyao Tong"
 description: "Yaoyao Tong is a Mid-career Unknown researcher at Institute of Plant Protection in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.190484
+date: 2026-07-10T01:07:48.205000
 url: "/cdr-researcher-census/researchers/yaoyao-tong-a5042722/"
 layout: "researcher"
 hiddenInHomeList: true

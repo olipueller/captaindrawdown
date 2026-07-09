@@ -1,7 +1,7 @@
 ---
 title: "Maoyin Sheng"
 description: "Maoyin Sheng is a Senior Soil Carbon researcher at Guizhou Normal University in CN. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.398241
+date: 2026-07-10T01:07:47.479063
 url: "/cdr-researcher-census/researchers/maoyin-sheng-a5012478/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christian Wilhelm Mohr"
 description: "Christian Wilhelm Mohr is a Senior Soil Carbon researcher at Nofima in NO. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.919446
+date: 2026-07-10T01:07:47.933107
 url: "/cdr-researcher-census/researchers/christian-wilhelm-mohr-a5002322/"
 layout: "researcher"
 hiddenInHomeList: true

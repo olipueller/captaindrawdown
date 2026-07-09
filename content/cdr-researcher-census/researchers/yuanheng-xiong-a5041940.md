@@ -1,7 +1,7 @@
 ---
 title: "Yuanheng Xiong"
 description: "Yuanheng Xiong is a Mid-career Unknown researcher at Stennis Space Center in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.264899
+date: 2026-07-10T01:07:48.271591
 url: "/cdr-researcher-census/researchers/yuanheng-xiong-a5041940/"
 layout: "researcher"
 hiddenInHomeList: true

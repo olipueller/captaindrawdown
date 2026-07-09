@@ -1,7 +1,7 @@
 ---
 title: "Xuebo Cao"
 description: "Xuebo Cao is a Mid-career General CDR researcher at Soochow University in CN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.753788
+date: 2026-07-10T01:07:47.804409
 url: "/cdr-researcher-census/researchers/xuebo-cao-a5029883/"
 layout: "researcher"
 hiddenInHomeList: true

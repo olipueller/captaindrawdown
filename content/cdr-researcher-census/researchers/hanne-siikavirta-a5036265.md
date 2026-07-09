@@ -1,7 +1,7 @@
 ---
 title: "Hanne Siikavirta"
 description: "Hanne Siikavirta is a Senior General CDR researcher at Ministry of the Environment in FI. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.427384
+date: 2026-07-10T01:07:47.505498
 url: "/cdr-researcher-census/researchers/hanne-siikavirta-a5036265/"
 layout: "researcher"
 hiddenInHomeList: true

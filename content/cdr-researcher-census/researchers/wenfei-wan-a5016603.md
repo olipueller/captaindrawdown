@@ -1,7 +1,7 @@
 ---
 title: "Wenfei Wan"
 description: "Wenfei Wan is a Mid-career General CDR researcher at China Electronic Product Reliability and Environmental Test Institute in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.677402
+date: 2026-07-10T01:07:48.633179
 url: "/cdr-researcher-census/researchers/wenfei-wan-a5016603/"
 layout: "researcher"
 hiddenInHomeList: true

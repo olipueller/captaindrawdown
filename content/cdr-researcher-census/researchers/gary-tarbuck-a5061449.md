@@ -1,7 +1,7 @@
 ---
 title: "Gary Tarbuck"
 description: "Gary Tarbuck is a Senior Enhanced Weathering researcher at University College London in GB. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.203787
+date: 2026-07-10T01:07:47.292273
 url: "/cdr-researcher-census/researchers/gary-tarbuck-a5061449/"
 layout: "researcher"
 hiddenInHomeList: true

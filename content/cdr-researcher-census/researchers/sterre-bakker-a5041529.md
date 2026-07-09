@@ -1,7 +1,7 @@
 ---
 title: "Sterre Bakker"
 description: "Sterre Bakker is a Mid-career Unknown researcher at Eindhoven University of Technology in NL. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.730437
+date: 2026-07-10T01:07:48.679262
 url: "/cdr-researcher-census/researchers/sterre-bakker-a5041529/"
 layout: "researcher"
 hiddenInHomeList: true

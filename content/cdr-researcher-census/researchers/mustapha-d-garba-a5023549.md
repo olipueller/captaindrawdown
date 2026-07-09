@@ -1,7 +1,7 @@
 ---
 title: "Mustapha D. Garba"
 description: "Mustapha D. Garba is a Mid-career Unknown researcher at University of Glasgow in GB. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.462862
+date: 2026-07-10T01:07:47.536840
 url: "/cdr-researcher-census/researchers/mustapha-d-garba-a5023549/"
 layout: "researcher"
 hiddenInHomeList: true

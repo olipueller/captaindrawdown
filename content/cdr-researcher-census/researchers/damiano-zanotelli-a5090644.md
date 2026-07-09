@@ -1,7 +1,7 @@
 ---
 title: "Damiano Zanotelli"
 description: "Damiano Zanotelli is a Senior Soil Carbon researcher at Free University of Bozen-Bolzano in IT. With 101 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.279428
+date: 2026-07-10T01:07:47.361562
 url: "/cdr-researcher-census/researchers/damiano-zanotelli-a5090644/"
 layout: "researcher"
 hiddenInHomeList: true

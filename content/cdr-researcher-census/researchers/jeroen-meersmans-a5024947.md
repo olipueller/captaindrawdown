@@ -1,7 +1,7 @@
 ---
 title: "Jeroen Meersmans"
 description: "Jeroen Meersmans is an Eminent Soil Carbon researcher at University of Liège in BE. With 172 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.913267
+date: 2026-07-10T01:07:46.914490
 url: "/cdr-researcher-census/researchers/jeroen-meersmans-a5024947/"
 layout: "researcher"
 hiddenInHomeList: true

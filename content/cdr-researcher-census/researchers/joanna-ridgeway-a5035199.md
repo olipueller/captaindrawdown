@@ -1,7 +1,7 @@
 ---
 title: "Joanna Ridgeway"
 description: "Joanna Ridgeway is a Mid-career Soil Carbon researcher at Dartmouth College in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.337626
+date: 2026-07-10T01:07:48.337484
 url: "/cdr-researcher-census/researchers/joanna-ridgeway-a5035199/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Todd L. Longbottom"
 description: "Todd L. Longbottom is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.720355
+date: 2026-07-10T01:07:48.670182
 url: "/cdr-researcher-census/researchers/todd-l-longbottom-a5015539/"
 layout: "researcher"
 hiddenInHomeList: true

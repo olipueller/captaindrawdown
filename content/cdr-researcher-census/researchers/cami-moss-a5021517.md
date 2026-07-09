@@ -1,7 +1,7 @@
 ---
 title: "Cami Moss"
 description: "Cami Moss is a Mid-career Unknown researcher at University of London in GB. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.736437
+date: 2026-07-10T01:07:47.788594
 url: "/cdr-researcher-census/researchers/cami-moss-a5021517/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "J. C. Dagar"
 description: "J. C. Dagar is a Senior Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 119 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.042822
+date: 2026-07-10T01:07:47.115901
 url: "/cdr-researcher-census/researchers/j-c-dagar-a5090742/"
 layout: "researcher"
 hiddenInHomeList: true

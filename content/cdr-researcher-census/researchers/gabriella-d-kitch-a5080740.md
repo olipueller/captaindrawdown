@@ -1,7 +1,7 @@
 ---
 title: "Gabriella D. Kitch"
 description: "Gabriella D. Kitch is a Mid-career Ocean CDR researcher at Cambridge Carbon Capture (United Kingdom) in GB. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.233001
+date: 2026-07-10T01:07:49.142229
 url: "/cdr-researcher-census/researchers/gabriella-d-kitch-a5080740/"
 layout: "researcher"
 hiddenInHomeList: true

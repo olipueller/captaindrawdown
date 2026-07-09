@@ -1,7 +1,7 @@
 ---
 title: "Lingze Yang"
 description: "Lingze Yang is a Mid-career Unknown researcher at Jiangsu University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.564346
+date: 2026-07-10T01:07:47.627999
 url: "/cdr-researcher-census/researchers/lingze-yang-a5049724/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jorge A. Villa"
 description: "Jorge A. Villa is a Mid-career Soil Carbon researcher at University of Louisiana at Lafayette in US. With 69 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.240001
+date: 2026-07-10T01:07:47.326315
 url: "/cdr-researcher-census/researchers/jorge-a-villa-a5088313/"
 layout: "researcher"
 hiddenInHomeList: true

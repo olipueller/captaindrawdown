@@ -1,7 +1,7 @@
 ---
 title: "Sandra Díaz‐Troya"
 description: "Sandra Díaz‐Troya is a Senior General CDR researcher at Consejo Superior de Investigaciones Científicas in ES. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.360742
+date: 2026-07-10T01:07:47.442660
 url: "/cdr-researcher-census/researchers/sandra-diaztroya-a5048186/"
 layout: "researcher"
 hiddenInHomeList: true

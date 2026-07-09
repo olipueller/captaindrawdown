@@ -1,7 +1,7 @@
 ---
 title: "Zheli Xing"
 description: "Zheli Xing is a Mid-career Unknown researcher at United States Department of Defense in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.789771
+date: 2026-07-10T01:07:47.838609
 url: "/cdr-researcher-census/researchers/zheli-xing-a5002165/"
 layout: "researcher"
 hiddenInHomeList: true

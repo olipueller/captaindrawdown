@@ -1,7 +1,7 @@
 ---
 title: "Yanpeng Li"
 description: "Yanpeng Li is a Senior Soil Carbon researcher at Research Institute of Tropical Forestry in CN. With 100 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.287492
+date: 2026-07-10T01:07:47.369739
 url: "/cdr-researcher-census/researchers/yanpeng-li-a5084732/"
 layout: "researcher"
 hiddenInHomeList: true

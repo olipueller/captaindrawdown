@@ -1,7 +1,7 @@
 ---
 title: "Sumathi C. Samiappan"
 description: "Sumathi C. Samiappan is a Mid-career Unknown researcher at SASTRA University in IN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.673311
+date: 2026-07-10T01:07:48.629173
 url: "/cdr-researcher-census/researchers/sumathi-c-samiappan-a5031103/"
 layout: "researcher"
 hiddenInHomeList: true

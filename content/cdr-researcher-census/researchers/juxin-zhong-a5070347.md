@@ -1,7 +1,7 @@
 ---
 title: "Juxin Zhong"
 description: "Juxin Zhong is an Early-career Unknown researcher at Chinese Academy of Geological Sciences in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.434337
+date: 2026-07-10T01:07:48.424542
 url: "/cdr-researcher-census/researchers/juxin-zhong-a5070347/"
 layout: "researcher"
 hiddenInHomeList: true

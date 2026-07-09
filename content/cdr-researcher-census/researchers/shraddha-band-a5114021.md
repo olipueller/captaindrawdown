@@ -1,7 +1,7 @@
 ---
 title: "Shraddha Band"
 description: "Shraddha Band is a Mid-career General CDR researcher at Biodiversity Research Center, Academia Sinica in TW. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.132344
+date: 2026-07-10T01:07:48.154828
 url: "/cdr-researcher-census/researchers/shraddha-band-a5114021/"
 layout: "researcher"
 hiddenInHomeList: true

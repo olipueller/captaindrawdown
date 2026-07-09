@@ -1,7 +1,7 @@
 ---
 title: "Joanna Urbaniec"
 description: "Joanna Urbaniec is a Mid-career Unknown researcher at University of Liverpool in GB. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.936486
+date: 2026-07-10T01:07:48.859162
 url: "/cdr-researcher-census/researchers/joanna-urbaniec-a5054734/"
 layout: "researcher"
 hiddenInHomeList: true

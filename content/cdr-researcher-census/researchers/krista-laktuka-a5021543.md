@@ -1,7 +1,7 @@
 ---
 title: "Krista Laktuka"
 description: "Krista Laktuka is a Mid-career Soil Carbon researcher at Riga Technical University in LV. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.843576
+date: 2026-07-10T01:07:48.775431
 url: "/cdr-researcher-census/researchers/krista-laktuka-a5021543/"
 layout: "researcher"
 hiddenInHomeList: true

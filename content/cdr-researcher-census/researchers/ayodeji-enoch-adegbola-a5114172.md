@@ -1,7 +1,7 @@
 ---
 title: "Ayodeji Enoch Adegbola"
 description: "Ayodeji Enoch Adegbola is a Mid-career Unknown researcher. With 15 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.894832
+date: 2026-07-10T01:07:47.909984
 url: "/cdr-researcher-census/researchers/ayodeji-enoch-adegbola-a5114172/"
 layout: "researcher"
 hiddenInHomeList: true

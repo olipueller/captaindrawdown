@@ -1,7 +1,7 @@
 ---
 title: "Yingxiao Sun"
 description: "Yingxiao Sun is a Mid-career General CDR researcher at China Meteorological Administration in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.954253
+date: 2026-07-10T01:07:47.965656
 url: "/cdr-researcher-census/researchers/yingxiao-sun-a5075902/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tibertius Agus Prayitno"
 description: "Tibertius Agus Prayitno is a Senior Unknown researcher at Universitas Gadjah Mada in ID. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.792549
+date: 2026-07-10T01:07:47.841084
 url: "/cdr-researcher-census/researchers/tibertius-agus-prayitno-a5112489/"
 layout: "researcher"
 hiddenInHomeList: true

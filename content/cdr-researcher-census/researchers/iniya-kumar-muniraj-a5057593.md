@@ -1,7 +1,7 @@
 ---
 title: "Iniya Kumar Muniraj"
 description: "Iniya Kumar Muniraj is a Mid-career Unknown researcher at AMRITA VISWA VIDYAPEETHAM  in IN. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.363532
+date: 2026-07-10T01:07:47.445456
 url: "/cdr-researcher-census/researchers/iniya-kumar-muniraj-a5057593/"
 layout: "researcher"
 hiddenInHomeList: true

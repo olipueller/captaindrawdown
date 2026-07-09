@@ -1,7 +1,7 @@
 ---
 title: "Yongpeng Gao"
 description: "Yongpeng Gao is a Mid-career Unknown researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.238674
+date: 2026-07-10T01:07:49.147529
 url: "/cdr-researcher-census/researchers/yongpeng-gao-a5042611/"
 layout: "researcher"
 hiddenInHomeList: true

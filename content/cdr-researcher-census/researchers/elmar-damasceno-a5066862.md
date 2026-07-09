@@ -1,7 +1,7 @@
 ---
 title: "Elmar Damasceno"
 description: "Elmar Damasceno is a Mid-career Unknown researcher at Universidade Federal do Rio Grande do Norte in BR. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.981247
+date: 2026-07-10T01:07:48.901007
 url: "/cdr-researcher-census/researchers/elmar-damasceno-a5066862/"
 layout: "researcher"
 hiddenInHomeList: true

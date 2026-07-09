@@ -1,7 +1,7 @@
 ---
 title: "Sachin Tripathi"
 description: "Sachin Tripathi is a Senior Unknown researcher at University of Petroleum and Energy Studies in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.496744
+date: 2026-07-10T01:07:48.482202
 url: "/cdr-researcher-census/researchers/sachin-tripathi-a5103271/"
 layout: "researcher"
 hiddenInHomeList: true

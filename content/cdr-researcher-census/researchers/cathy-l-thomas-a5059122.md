@@ -1,7 +1,7 @@
 ---
 title: "Cathy L. Thomas"
 description: "Cathy L. Thomas is a Senior Soil Carbon researcher at Rothamsted Research in GB. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.389594
+date: 2026-07-10T01:07:47.470460
 url: "/cdr-researcher-census/researchers/cathy-l-thomas-a5059122/"
 layout: "researcher"
 hiddenInHomeList: true

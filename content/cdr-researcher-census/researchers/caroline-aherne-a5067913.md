@@ -1,7 +1,7 @@
 ---
 title: "Caroline Aherne"
 description: "Caroline Aherne is an Early-career Unknown researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.193876
+date: 2026-07-10T01:07:48.207817
 url: "/cdr-researcher-census/researchers/caroline-aherne-a5067913/"
 layout: "researcher"
 hiddenInHomeList: true

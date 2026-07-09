@@ -1,7 +1,7 @@
 ---
 title: "Heeyeop Chae"
 description: "Heeyeop Chae is a Senior Unknown researcher at Sungkyunkwan University in KR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.133561
+date: 2026-07-10T01:07:49.037588
 url: "/cdr-researcher-census/researchers/heeyeop-chae-a5101516/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sicheng Wu"
 description: "Sicheng Wu is a Mid-career Unknown researcher at University of Illinois Urbana-Champaign in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.471402
+date: 2026-07-10T01:07:47.543908
 url: "/cdr-researcher-census/researchers/sicheng-wu-a5023254/"
 layout: "researcher"
 hiddenInHomeList: true

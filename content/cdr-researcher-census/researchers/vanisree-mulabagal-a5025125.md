@@ -1,7 +1,7 @@
 ---
 title: "Vanisree Mulabagal"
 description: "Vanisree Mulabagal is a Senior General CDR researcher at Auburn University in US. With 66 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.005188
+date: 2026-07-10T01:07:47.066394
 url: "/cdr-researcher-census/researchers/vanisree-mulabagal-a5025125/"
 layout: "researcher"
 hiddenInHomeList: true

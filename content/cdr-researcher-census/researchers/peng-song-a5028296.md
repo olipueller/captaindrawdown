@@ -1,7 +1,7 @@
 ---
 title: "Peng Song"
 description: "Peng Song is a Senior Unknown researcher at Robert Wood Johnson Foundation in US. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.171563
+date: 2026-07-10T01:07:48.187897
 url: "/cdr-researcher-census/researchers/peng-song-a5028296/"
 layout: "researcher"
 hiddenInHomeList: true

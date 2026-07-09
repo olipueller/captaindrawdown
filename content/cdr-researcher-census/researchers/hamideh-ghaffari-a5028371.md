@@ -1,7 +1,7 @@
 ---
 title: "Hamideh Ghaffari"
 description: "Hamideh Ghaffari is a Mid-career Unknown researcher at Shandong Agricultural University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.788574
+date: 2026-07-10T01:07:47.837552
 url: "/cdr-researcher-census/researchers/hamideh-ghaffari-a5028371/"
 layout: "researcher"
 hiddenInHomeList: true

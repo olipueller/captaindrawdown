@@ -1,7 +1,7 @@
 ---
 title: "Huiqin Gao"
 description: "Huiqin Gao is a Mid-career Unknown researcher at Ministry of Education in IR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.752117
+date: 2026-07-10T01:07:47.803086
 url: "/cdr-researcher-census/researchers/huiqin-gao-a5000313/"
 layout: "researcher"
 hiddenInHomeList: true

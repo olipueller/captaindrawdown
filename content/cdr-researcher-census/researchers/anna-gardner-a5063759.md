@@ -1,7 +1,7 @@
 ---
 title: "Anna Gardner"
 description: "Anna Gardner is a Senior Soil Carbon researcher at University of Birmingham in GB. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.258126
+date: 2026-07-10T01:07:48.265872
 url: "/cdr-researcher-census/researchers/anna-gardner-a5063759/"
 layout: "researcher"
 hiddenInHomeList: true

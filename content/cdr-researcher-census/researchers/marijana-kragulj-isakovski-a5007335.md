@@ -1,7 +1,7 @@
 ---
 title: "Marijana Kragulj Isakovski"
 description: "Marijana Kragulj Isakovski is a Mid-career Biochar researcher at University of Novi Sad in RS. With 84 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.315248
+date: 2026-07-10T01:07:47.397359
 url: "/cdr-researcher-census/researchers/marijana-kragulj-isakovski-a5007335/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Longtian Huang"
 description: "Longtian Huang is a Mid-career Soil Carbon researcher at Fudan University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.824031
+date: 2026-07-10T01:07:48.758668
 url: "/cdr-researcher-census/researchers/longtian-huang-a5018232/"
 layout: "researcher"
 hiddenInHomeList: true

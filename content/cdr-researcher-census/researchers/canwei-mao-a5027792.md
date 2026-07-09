@@ -1,7 +1,7 @@
 ---
 title: "Canwei Mao"
 description: "Canwei Mao is a Mid-career Unknown researcher at Nanyang Technological University in SG. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.513331
+date: 2026-07-10T01:07:48.497325
 url: "/cdr-researcher-census/researchers/canwei-mao-a5027792/"
 layout: "researcher"
 hiddenInHomeList: true

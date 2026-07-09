@@ -1,7 +1,7 @@
 ---
 title: "Zhengsong Lin"
 description: "Zhengsong Lin is a Mid-career General CDR researcher at Nanjing Forestry University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.967183
+date: 2026-07-10T01:07:48.887786
 url: "/cdr-researcher-census/researchers/zhengsong-lin-a5063384/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shani Gulaiya"
 description: "Shani Gulaiya is a Mid-career General CDR researcher at Galgotias University in IN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.681364
+date: 2026-07-10T01:07:48.636536
 url: "/cdr-researcher-census/researchers/shani-gulaiya-a5092849/"
 layout: "researcher"
 hiddenInHomeList: true

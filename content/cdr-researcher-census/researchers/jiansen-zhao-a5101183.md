@@ -1,7 +1,7 @@
 ---
 title: "Jiansen Zhao"
 description: "Jiansen Zhao is a Mid-career General CDR researcher at Rongcheng City People's Hospital in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.513936
+date: 2026-07-10T01:07:48.497789
 url: "/cdr-researcher-census/researchers/jiansen-zhao-a5101183/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Meng‐Ying Li"
 description: "Meng‐Ying Li is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.645030
+date: 2026-07-10T01:07:47.703954
 url: "/cdr-researcher-census/researchers/mengying-li-a5101871/"
 layout: "researcher"
 hiddenInHomeList: true

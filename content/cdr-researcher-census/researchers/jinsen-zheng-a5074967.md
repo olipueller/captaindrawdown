@@ -1,7 +1,7 @@
 ---
 title: "Jinsen Zheng"
 description: "Jinsen Zheng is a Mid-career Soil Carbon researcher at Japan International Research Center for Agricultural Sciences in JP. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.113772
+date: 2026-07-10T01:07:48.138921
 url: "/cdr-researcher-census/researchers/jinsen-zheng-a5074967/"
 layout: "researcher"
 hiddenInHomeList: true

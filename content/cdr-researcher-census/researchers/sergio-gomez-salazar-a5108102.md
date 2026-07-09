@@ -1,7 +1,7 @@
 ---
 title: "Sergio Gómez-Salazar"
 description: "Sergio Gómez-Salazar is a Senior Biochar researcher at Universidad de Guadalajara in MX. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.267828
+date: 2026-07-10T01:07:48.274141
 url: "/cdr-researcher-census/researchers/sergio-gomez-salazar-a5108102/"
 layout: "researcher"
 hiddenInHomeList: true

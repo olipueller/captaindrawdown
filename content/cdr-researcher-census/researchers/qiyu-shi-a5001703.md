@@ -1,7 +1,7 @@
 ---
 title: "Qiyu Shi"
 description: "Qiyu Shi is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.625865
+date: 2026-07-10T01:07:47.685736
 url: "/cdr-researcher-census/researchers/qiyu-shi-a5001703/"
 layout: "researcher"
 hiddenInHomeList: true

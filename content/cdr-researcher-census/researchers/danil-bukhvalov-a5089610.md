@@ -1,7 +1,7 @@
 ---
 title: "Danil Bukhvalov"
 description: "Danil Bukhvalov is a Mid-career Unknown researcher at Nanjing Forestry University in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.208635
+date: 2026-07-10T01:07:47.296688
 url: "/cdr-researcher-census/researchers/danil-bukhvalov-a5089610/"
 layout: "researcher"
 hiddenInHomeList: true

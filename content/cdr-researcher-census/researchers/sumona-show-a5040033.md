@@ -1,7 +1,7 @@
 ---
 title: "Sumona Show"
 description: "Sumona Show is a Mid-career Unknown researcher at National Institute of Technology Durgapur in IN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.702571
+date: 2026-07-10T01:07:47.757233
 url: "/cdr-researcher-census/researchers/sumona-show-a5040033/"
 layout: "researcher"
 hiddenInHomeList: true

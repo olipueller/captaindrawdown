@@ -1,7 +1,7 @@
 ---
 title: "Morshad Ahmed"
 description: "Morshad Ahmed is a Senior Unknown researcher at Institute of Atmospheric Sciences and Climate in IT. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.853468
+date: 2026-07-10T01:07:48.784188
 url: "/cdr-researcher-census/researchers/morshad-ahmed-a5033410/"
 layout: "researcher"
 hiddenInHomeList: true

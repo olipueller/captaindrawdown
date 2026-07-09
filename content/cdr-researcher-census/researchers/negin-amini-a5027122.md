@@ -1,7 +1,7 @@
 ---
 title: "Negin Amini"
 description: "Negin Amini is a Mid-career Biochar researcher at Deakin University in AU. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.309956
+date: 2026-07-10T01:07:48.312653
 url: "/cdr-researcher-census/researchers/negin-amini-a5027122/"
 layout: "researcher"
 hiddenInHomeList: true

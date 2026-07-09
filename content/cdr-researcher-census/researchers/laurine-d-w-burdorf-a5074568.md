@@ -1,7 +1,7 @@
 ---
 title: "Laurine D. W. Burdorf"
 description: "Laurine D. W. Burdorf is a Mid-career Ocean CDR researcher at University of Antwerp in BE. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.298150
+date: 2026-07-10T01:07:47.380701
 url: "/cdr-researcher-census/researchers/laurine-d-w-burdorf-a5074568/"
 layout: "researcher"
 hiddenInHomeList: true

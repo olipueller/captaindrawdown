@@ -1,7 +1,7 @@
 ---
 title: "Batkhuu Nyam‐Osor"
 description: "Batkhuu Nyam‐Osor is a Senior Soil Carbon researcher at National University of Mongolia in MN. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.126217
+date: 2026-07-10T01:07:48.149863
 url: "/cdr-researcher-census/researchers/batkhuu-nyamosor-a5033973/"
 layout: "researcher"
 hiddenInHomeList: true

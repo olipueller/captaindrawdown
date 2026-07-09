@@ -1,7 +1,7 @@
 ---
 title: "Charlotte Decock"
 description: "Charlotte Decock is a Senior Soil Carbon researcher at ETH Zurich in CH. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.095807
+date: 2026-07-10T01:07:47.178646
 url: "/cdr-researcher-census/researchers/charlotte-decock-a5067864/"
 layout: "researcher"
 hiddenInHomeList: true

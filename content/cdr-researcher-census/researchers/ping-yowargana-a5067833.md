@@ -1,7 +1,7 @@
 ---
 title: "Ping Yowargana"
 description: "Ping Yowargana is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 64 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.425433
+date: 2026-07-10T01:07:47.503840
 url: "/cdr-researcher-census/researchers/ping-yowargana-a5067833/"
 layout: "researcher"
 hiddenInHomeList: true

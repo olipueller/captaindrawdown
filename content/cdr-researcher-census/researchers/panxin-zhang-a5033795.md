@@ -1,7 +1,7 @@
 ---
 title: "Panxin Zhang"
 description: "Panxin Zhang is a Senior Soil Carbon researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.748200
+date: 2026-07-10T01:07:48.694958
 url: "/cdr-researcher-census/researchers/panxin-zhang-a5033795/"
 layout: "researcher"
 hiddenInHomeList: true

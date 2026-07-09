@@ -1,7 +1,7 @@
 ---
 title: "Bas Lerink"
 description: "Bas Lerink is a Mid-career General CDR researcher. With 43 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.248007
+date: 2026-07-10T01:07:47.333074
 url: "/cdr-researcher-census/researchers/bas-lerink-a5082264/"
 layout: "researcher"
 hiddenInHomeList: true

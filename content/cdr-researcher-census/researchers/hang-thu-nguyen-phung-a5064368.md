@@ -1,7 +1,7 @@
 ---
 title: "Hang Thu Nguyen-Phung"
 description: "Hang Thu Nguyen-Phung is a Mid-career Unknown researcher at National Economics University in VN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.985559
+date: 2026-07-10T01:07:48.905040
 url: "/cdr-researcher-census/researchers/hang-thu-nguyen-phung-a5064368/"
 layout: "researcher"
 hiddenInHomeList: true

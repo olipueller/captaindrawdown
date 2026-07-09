@@ -1,7 +1,7 @@
 ---
 title: "Johannes Pretorius"
 description: "Johannes Pretorius is a Senior General CDR researcher at Stellenbosch University in ZA. With 76 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.253781
+date: 2026-07-10T01:07:47.338501
 url: "/cdr-researcher-census/researchers/johannes-pretorius-a5090813/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Evangelos Delikonstantis"
 description: "Evangelos Delikonstantis is a Senior General CDR researcher at AristEng Sarl in LU. With 37 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.192231
+date: 2026-07-10T01:07:47.281401
 url: "/cdr-researcher-census/researchers/evangelos-delikonstantis-a5072771/"
 layout: "researcher"
 hiddenInHomeList: true

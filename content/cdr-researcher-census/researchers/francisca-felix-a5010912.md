@@ -1,7 +1,7 @@
 ---
 title: "Francisca Félix"
 description: "Francisca Félix is a Mid-career Ocean CDR researcher at University of Algarve in PT. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.134697
+date: 2026-07-10T01:07:49.038592
 url: "/cdr-researcher-census/researchers/francisca-felix-a5010912/"
 layout: "researcher"
 hiddenInHomeList: true

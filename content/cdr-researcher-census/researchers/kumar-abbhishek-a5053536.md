@@ -1,7 +1,7 @@
 ---
 title: "Kumar Abbhishek"
 description: "Kumar Abbhishek is a Mid-career Soil Carbon researcher at Dr. Reddy's Foundation in IN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.767324
+date: 2026-07-10T01:07:47.817626
 url: "/cdr-researcher-census/researchers/kumar-abbhishek-a5053536/"
 layout: "researcher"
 hiddenInHomeList: true

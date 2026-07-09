@@ -1,7 +1,7 @@
 ---
 title: "Kazuki Okuno"
 description: "Kazuki Okuno is a Senior Unknown researcher at Sumitomo Electric Industries (Japan) in JP. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.850701
+date: 2026-07-10T01:07:47.886467
 url: "/cdr-researcher-census/researchers/kazuki-okuno-a5074573/"
 layout: "researcher"
 hiddenInHomeList: true

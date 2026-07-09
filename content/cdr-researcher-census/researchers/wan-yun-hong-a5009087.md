@@ -1,7 +1,7 @@
 ---
 title: "Wan Yun Hong"
 description: "Wan Yun Hong is a Mid-career General CDR researcher at Universiti Brunei Darussalam in BN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.490432
+date: 2026-07-10T01:07:47.561338
 url: "/cdr-researcher-census/researchers/wan-yun-hong-a5009087/"
 layout: "researcher"
 hiddenInHomeList: true

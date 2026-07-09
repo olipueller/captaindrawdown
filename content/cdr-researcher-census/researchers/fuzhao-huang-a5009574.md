@@ -1,7 +1,7 @@
 ---
 title: "Fuzhao Huang"
 description: "Fuzhao Huang is a Mid-career Soil Carbon researcher at Guangxi Institute of Botany in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.979322
+date: 2026-07-10T01:07:47.988919
 url: "/cdr-researcher-census/researchers/fuzhao-huang-a5009574/"
 layout: "researcher"
 hiddenInHomeList: true

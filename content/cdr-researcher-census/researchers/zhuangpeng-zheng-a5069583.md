@@ -1,7 +1,7 @@
 ---
 title: "Zhuangpeng Zheng"
 description: "Zhuangpeng Zheng is a Mid-career Unknown researcher at Zhaoqing University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.912414
+date: 2026-07-10T01:07:48.837130
 url: "/cdr-researcher-census/researchers/zhuangpeng-zheng-a5069583/"
 layout: "researcher"
 hiddenInHomeList: true

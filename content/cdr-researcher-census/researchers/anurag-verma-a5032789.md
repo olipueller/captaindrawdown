@@ -1,7 +1,7 @@
 ---
 title: "Anurag Verma"
 description: "Anurag Verma is a Mid-career Biochar researcher at Energy and Resources Institute in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.080087
+date: 2026-07-10T01:07:47.160757
 url: "/cdr-researcher-census/researchers/anurag-verma-a5032789/"
 layout: "researcher"
 hiddenInHomeList: true

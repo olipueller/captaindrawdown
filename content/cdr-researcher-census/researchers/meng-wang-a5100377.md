@@ -1,7 +1,7 @@
 ---
 title: "Meng Wang"
 description: "Meng Wang is a Mid-career Unknown researcher at Chengdu University of Information Technology in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.279275
+date: 2026-07-10T01:07:47.361435
 url: "/cdr-researcher-census/researchers/meng-wang-a5100377/"
 layout: "researcher"
 hiddenInHomeList: true

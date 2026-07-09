@@ -1,7 +1,7 @@
 ---
 title: "Wentao Zhou"
 description: "Wentao Zhou is a Mid-career Biochar researcher at Nanjing Institute of Technology in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.546268
+date: 2026-07-10T01:07:47.610884
 url: "/cdr-researcher-census/researchers/wentao-zhou-a5025345/"
 layout: "researcher"
 hiddenInHomeList: true

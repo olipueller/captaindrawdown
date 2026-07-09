@@ -1,7 +1,7 @@
 ---
 title: "Christopher Van Arsdale"
 description: "Christopher Van Arsdale is a Mid-career General CDR researcher at Google (United States) in US. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.758599
+date: 2026-07-10T01:07:48.704189
 url: "/cdr-researcher-census/researchers/christopher-van-arsdale-a5003515/"
 layout: "researcher"
 hiddenInHomeList: true

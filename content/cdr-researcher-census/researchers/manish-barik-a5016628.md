@@ -1,7 +1,7 @@
 ---
 title: "Manish Barik"
 description: "Manish Barik is a Mid-career Unknown researcher at George Institute for Global Health in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.735756
+date: 2026-07-10T01:07:48.683979
 url: "/cdr-researcher-census/researchers/manish-barik-a5016628/"
 layout: "researcher"
 hiddenInHomeList: true

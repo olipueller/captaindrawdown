@@ -1,7 +1,7 @@
 ---
 title: "Mitchell Dickau"
 description: "Mitchell Dickau is a Mid-career General CDR researcher at Concordia University Wisconsin in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.698223
+date: 2026-07-10T01:07:48.651534
 url: "/cdr-researcher-census/researchers/mitchell-dickau-a5046536/"
 layout: "researcher"
 hiddenInHomeList: true

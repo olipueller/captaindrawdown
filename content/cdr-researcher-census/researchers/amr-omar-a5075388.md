@@ -1,7 +1,7 @@
 ---
 title: "Amr Omar"
 description: "Amr Omar is a Senior General CDR researcher at University of New South Wales in AU. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.533087
+date: 2026-07-10T01:07:47.599249
 url: "/cdr-researcher-census/researchers/amr-omar-a5075388/"
 layout: "researcher"
 hiddenInHomeList: true

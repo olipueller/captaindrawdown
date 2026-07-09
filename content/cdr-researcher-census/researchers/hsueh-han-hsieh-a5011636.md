@@ -1,7 +1,7 @@
 ---
 title: "Hsueh-Han Hsieh"
 description: "Hsueh-Han Hsieh is a Mid-career Soil Carbon researcher at National Sun Yat-sen University in TW. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.764500
+date: 2026-07-10T01:07:48.709193
 url: "/cdr-researcher-census/researchers/hsueh-han-hsieh-a5011636/"
 layout: "researcher"
 hiddenInHomeList: true

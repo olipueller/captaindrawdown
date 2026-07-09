@@ -1,7 +1,7 @@
 ---
 title: "Jordano Vaz Ambus"
 description: "Jordano Vaz Ambus is a Mid-career Soil Carbon researcher at Universidade Federal de Santa Maria in BR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.673629
+date: 2026-07-10T01:07:48.629497
 url: "/cdr-researcher-census/researchers/jordano-vaz-ambus-a5002255/"
 layout: "researcher"
 hiddenInHomeList: true

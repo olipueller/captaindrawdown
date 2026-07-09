@@ -1,7 +1,7 @@
 ---
 title: "Mazin Tahir"
 description: "Mazin Tahir is a Mid-career Unknown researcher at King Fahd University of Petroleum and Minerals in SA. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.107528
+date: 2026-07-10T01:07:49.014950
 url: "/cdr-researcher-census/researchers/mazin-tahir-a5021135/"
 layout: "researcher"
 hiddenInHomeList: true

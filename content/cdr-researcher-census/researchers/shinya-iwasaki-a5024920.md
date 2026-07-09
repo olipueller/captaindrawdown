@@ -1,7 +1,7 @@
 ---
 title: "Shinya Iwasaki"
 description: "Shinya Iwasaki is a Senior Soil Carbon researcher at Hokkaido University in JP. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.154452
+date: 2026-07-10T01:07:47.243083
 url: "/cdr-researcher-census/researchers/shinya-iwasaki-a5024920/"
 layout: "researcher"
 hiddenInHomeList: true

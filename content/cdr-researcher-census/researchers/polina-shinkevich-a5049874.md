@@ -1,7 +1,7 @@
 ---
 title: "Polina Shinkevich"
 description: "Polina Shinkevich is a Mid-career BECCS researcher at Peter the Great St. Petersburg Polytechnic University in RU. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.029661
+date: 2026-07-10T01:07:48.945322
 url: "/cdr-researcher-census/researchers/polina-shinkevich-a5049874/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ryan Hanna"
 description: "Ryan Hanna is a Senior General CDR researcher at University of California, San Diego in US. With 46 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.236183
+date: 2026-07-10T01:07:47.322747
 url: "/cdr-researcher-census/researchers/ryan-hanna-a5027987/"
 layout: "researcher"
 hiddenInHomeList: true

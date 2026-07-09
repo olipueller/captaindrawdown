@@ -1,7 +1,7 @@
 ---
 title: "Zitong Huang"
 description: "Zitong Huang is a Mid-career Unknown researcher at Chinese Research Academy of Environmental Sciences in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.462511
+date: 2026-07-10T01:07:48.450457
 url: "/cdr-researcher-census/researchers/zitong-huang-a5101853/"
 layout: "researcher"
 hiddenInHomeList: true

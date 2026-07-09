@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Vikas Ashraf"
 description: "Mohammad Vikas Ashraf is a Mid-career Unknown researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.493537
+date: 2026-07-10T01:07:48.479330
 url: "/cdr-researcher-census/researchers/mohammad-vikas-ashraf-a5113133/"
 layout: "researcher"
 hiddenInHomeList: true

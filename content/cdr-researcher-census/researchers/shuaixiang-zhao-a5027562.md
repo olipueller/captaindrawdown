@@ -1,7 +1,7 @@
 ---
 title: "Shuaixiang Zhao"
 description: "Shuaixiang Zhao is a Mid-career Soil Carbon researcher at Peking University in CN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.968411
+date: 2026-07-10T01:07:47.979027
 url: "/cdr-researcher-census/researchers/shuaixiang-zhao-a5027562/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fatimatou Coulibaly"
 description: "Fatimatou Coulibaly is a Mid-career Unknown researcher at ARGANS in FR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.081632
+date: 2026-07-10T01:07:48.083059
 url: "/cdr-researcher-census/researchers/fatimatou-coulibaly-a5035863/"
 layout: "researcher"
 hiddenInHomeList: true

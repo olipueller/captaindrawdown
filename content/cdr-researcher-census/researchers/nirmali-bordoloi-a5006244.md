@@ -1,7 +1,7 @@
 ---
 title: "Nirmali Bordoloi"
 description: "Nirmali Bordoloi is a Mid-career Soil Carbon researcher at Central University of Jharkhand in IN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.482301
+date: 2026-07-10T01:07:47.554290
 url: "/cdr-researcher-census/researchers/nirmali-bordoloi-a5006244/"
 layout: "researcher"
 hiddenInHomeList: true

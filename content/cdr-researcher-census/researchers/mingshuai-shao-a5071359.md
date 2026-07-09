@@ -1,7 +1,7 @@
 ---
 title: "Mingshuai Shao"
 description: "Mingshuai Shao is a Mid-career Biochar researcher at Shenzhen University in CN. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.566194
+date: 2026-07-10T01:07:47.630117
 url: "/cdr-researcher-census/researchers/mingshuai-shao-a5071359/"
 layout: "researcher"
 hiddenInHomeList: true

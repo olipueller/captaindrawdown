@@ -1,7 +1,7 @@
 ---
 title: "Lyudmila Galaktionova"
 description: "Lyudmila Galaktionova is a Mid-career Soil Carbon researcher at Orenburg State University in RU. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.996232
+date: 2026-07-10T01:07:48.914475
 url: "/cdr-researcher-census/researchers/lyudmila-galaktionova-a5108282/"
 layout: "researcher"
 hiddenInHomeList: true

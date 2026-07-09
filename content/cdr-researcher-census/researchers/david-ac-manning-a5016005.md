@@ -1,7 +1,7 @@
 ---
 title: "David A.C. Manning"
 description: "David A.C. Manning is an Eminent Enhanced Weathering researcher at Newcastle University in GB. With 273 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.886577
+date: 2026-07-10T01:07:46.852069
 url: "/cdr-researcher-census/researchers/david-ac-manning-a5016005/"
 layout: "researcher"
 hiddenInHomeList: true

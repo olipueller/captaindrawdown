@@ -1,7 +1,7 @@
 ---
 title: "S. Arthur"
 description: "S. Arthur is a Senior Unknown researcher at University of Nevada, Reno in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.622105
+date: 2026-07-10T01:07:48.583040
 url: "/cdr-researcher-census/researchers/s-arthur-a5103011/"
 layout: "researcher"
 hiddenInHomeList: true

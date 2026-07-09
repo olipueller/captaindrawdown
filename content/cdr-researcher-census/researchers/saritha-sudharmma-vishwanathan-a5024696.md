@@ -1,7 +1,7 @@
 ---
 title: "Saritha Sudharmma Vishwanathan"
 description: "Saritha Sudharmma Vishwanathan is a Senior General CDR researcher at Indian Institute of Management Ahmedabad in IN. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.092272
+date: 2026-07-10T01:07:47.175288
 url: "/cdr-researcher-census/researchers/saritha-sudharmma-vishwanathan-a5024696/"
 layout: "researcher"
 hiddenInHomeList: true

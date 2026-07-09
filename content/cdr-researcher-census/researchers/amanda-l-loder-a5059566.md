@@ -1,7 +1,7 @@
 ---
 title: "Amanda L. Loder"
 description: "Amanda L. Loder is a Mid-career Soil Carbon researcher at University of Toronto in CA. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.601571
+date: 2026-07-10T01:07:48.564737
 url: "/cdr-researcher-census/researchers/amanda-l-loder-a5059566/"
 layout: "researcher"
 hiddenInHomeList: true

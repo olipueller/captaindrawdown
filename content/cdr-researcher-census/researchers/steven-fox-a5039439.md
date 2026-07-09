@@ -1,7 +1,7 @@
 ---
 title: "Steven Fox"
 description: "Steven Fox is a Senior Unknown researcher at University of Alabama at Birmingham in US. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.692972
+date: 2026-07-10T01:07:47.748957
 url: "/cdr-researcher-census/researchers/steven-fox-a5039439/"
 layout: "researcher"
 hiddenInHomeList: true

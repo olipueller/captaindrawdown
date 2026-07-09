@@ -1,7 +1,7 @@
 ---
 title: "Ali M. Abou‐Elanwar"
 description: "Ali M. Abou‐Elanwar is a Mid-career Unknown researcher at Advanced Materials and Devices (United States) in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.988247
+date: 2026-07-10T01:07:47.997208
 url: "/cdr-researcher-census/researchers/ali-m-abouelanwar-a5108058/"
 layout: "researcher"
 hiddenInHomeList: true

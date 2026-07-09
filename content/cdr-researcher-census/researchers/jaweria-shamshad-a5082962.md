@@ -1,7 +1,7 @@
 ---
 title: "Jaweria Shamshad"
 description: "Jaweria Shamshad is a Mid-career Unknown researcher at University of the Punjab in PK. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.936675
+date: 2026-07-10T01:07:47.949189
 url: "/cdr-researcher-census/researchers/jaweria-shamshad-a5082962/"
 layout: "researcher"
 hiddenInHomeList: true

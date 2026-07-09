@@ -1,7 +1,7 @@
 ---
 title: "Sura Hasan Al-Zubaidi"
 description: "Sura Hasan Al-Zubaidi is a Mid-career Unknown researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.732605
+date: 2026-07-10T01:07:47.784527
 url: "/cdr-researcher-census/researchers/sura-hasan-al-zubaidi-a5044603/"
 layout: "researcher"
 hiddenInHomeList: true

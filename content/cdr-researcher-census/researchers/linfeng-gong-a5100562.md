@@ -1,7 +1,7 @@
 ---
 title: "Linfeng Gong"
 description: "Linfeng Gong is a Senior Unknown researcher at Ministry of Natural Resources in CN. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.265364
+date: 2026-07-10T01:07:47.349000
 url: "/cdr-researcher-census/researchers/linfeng-gong-a5100562/"
 layout: "researcher"
 hiddenInHomeList: true

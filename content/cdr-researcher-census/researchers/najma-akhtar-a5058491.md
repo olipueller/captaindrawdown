@@ -1,7 +1,7 @@
 ---
 title: "Najma Akhtar"
 description: "Najma Akhtar is a Senior General CDR researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.490069
+date: 2026-07-10T01:07:48.476120
 url: "/cdr-researcher-census/researchers/najma-akhtar-a5058491/"
 layout: "researcher"
 hiddenInHomeList: true

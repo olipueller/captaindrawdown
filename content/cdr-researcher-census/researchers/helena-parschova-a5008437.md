@@ -1,7 +1,7 @@
 ---
 title: "Helena Parschová"
 description: "Helena Parschová is a Senior Unknown researcher at University of Central Thailand in TH. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.664378
+date: 2026-07-10T01:07:48.620972
 url: "/cdr-researcher-census/researchers/helena-parschova-a5008437/"
 layout: "researcher"
 hiddenInHomeList: true

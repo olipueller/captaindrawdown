@@ -1,7 +1,7 @@
 ---
 title: "Jianghuan Qin"
 description: "Jianghuan Qin is a Mid-career Soil Carbon researcher at Institute of Forest Resource Information Techniques in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.602201
+date: 2026-07-10T01:07:48.565458
 url: "/cdr-researcher-census/researchers/jianghuan-qin-a5057956/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Songge Deng"
 description: "Songge Deng is a Mid-career Unknown researcher at Zhejiang University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.182333
+date: 2026-07-10T01:07:48.198002
 url: "/cdr-researcher-census/researchers/songge-deng-a5035771/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tao Zhou"
 description: "Tao Zhou is a Senior Soil Carbon researcher at Chengdu University of Technology in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.633391
+date: 2026-07-10T01:07:47.693075
 url: "/cdr-researcher-census/researchers/tao-zhou-a5062718/"
 layout: "researcher"
 hiddenInHomeList: true

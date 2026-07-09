@@ -1,7 +1,7 @@
 ---
 title: "Colette E. Jackson"
 description: "Colette E. Jackson is a Senior Unknown researcher at Queen Elizabeth University Hospital in GB. With 79 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.123578
+date: 2026-07-10T01:07:47.210420
 url: "/cdr-researcher-census/researchers/colette-e-jackson-a5034402/"
 layout: "researcher"
 hiddenInHomeList: true

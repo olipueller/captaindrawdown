@@ -1,7 +1,7 @@
 ---
 title: "Chunpeng Chen"
 description: "Chunpeng Chen is a Mid-career Unknown researcher at East China Normal University in CN. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.644467
+date: 2026-07-10T01:07:47.703433
 url: "/cdr-researcher-census/researchers/chunpeng-chen-a5064668/"
 layout: "researcher"
 hiddenInHomeList: true

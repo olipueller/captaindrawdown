@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Kepfer‐Rojas"
 description: "Sebastian Kepfer‐Rojas is a Senior Soil Carbon researcher at Københavns Universitet in DK. With 100 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.024247
+date: 2026-07-10T01:07:47.091983
 url: "/cdr-researcher-census/researchers/sebastian-kepferrojas-a5073602/"
 layout: "researcher"
 hiddenInHomeList: true

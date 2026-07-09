@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Böhnke"
 description: "Stefanie Böhnke is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.010887
+date: 2026-07-10T01:07:48.018833
 url: "/cdr-researcher-census/researchers/stefanie-bohnke-a5007055/"
 layout: "researcher"
 hiddenInHomeList: true

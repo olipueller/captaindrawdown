@@ -1,7 +1,7 @@
 ---
 title: "Qiuxia Liu"
 description: "Qiuxia Liu is a Senior Soil Carbon researcher at Shandong Provincial Hospital in CN. With 63 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.111656
+date: 2026-07-10T01:07:47.197545
 url: "/cdr-researcher-census/researchers/qiuxia-liu-a5101723/"
 layout: "researcher"
 hiddenInHomeList: true

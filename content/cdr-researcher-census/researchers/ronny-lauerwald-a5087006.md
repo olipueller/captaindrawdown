@@ -1,7 +1,7 @@
 ---
 title: "Ronny Lauerwald"
 description: "Ronny Lauerwald is an Eminent General CDR researcher at Université Paris-Saclay in FR. With 234 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.899544
+date: 2026-07-10T01:07:46.885793
 url: "/cdr-researcher-census/researchers/ronny-lauerwald-a5087006/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Robert M. Dedio"
 description: "Robert M. Dedio is a Senior Unknown researcher at Lehigh Valley Hospital-Pocono in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.243489
+date: 2026-07-10T01:07:48.252183
 url: "/cdr-researcher-census/researchers/robert-m-dedio-a5078675/"
 layout: "researcher"
 hiddenInHomeList: true

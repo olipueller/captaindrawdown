@@ -1,7 +1,7 @@
 ---
 title: "Akihiko Anzai"
 description: "Akihiko Anzai is a Mid-career General CDR researcher at Hokkaido University in JP. With 44 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.551987
+date: 2026-07-10T01:07:47.616065
 url: "/cdr-researcher-census/researchers/akihiko-anzai-a5082586/"
 layout: "researcher"
 hiddenInHomeList: true

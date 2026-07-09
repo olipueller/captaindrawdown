@@ -1,7 +1,7 @@
 ---
 title: "Yannis De Luna"
 description: "Yannis De Luna is a Mid-career Unknown researcher at Qatar University in QA. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.941159
+date: 2026-07-10T01:07:47.953654
 url: "/cdr-researcher-census/researchers/yannis-de-luna-a5030956/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yating Wei"
 description: "Yating Wei is a Mid-career Unknown researcher at Northwest Normal University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.251797
+date: 2026-07-10T01:07:49.158977
 url: "/cdr-researcher-census/researchers/yating-wei-a5036315/"
 layout: "researcher"
 hiddenInHomeList: true

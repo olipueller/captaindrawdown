@@ -1,7 +1,7 @@
 ---
 title: "Danyang Su"
 description: "Danyang Su is a Senior Enhanced Weathering researcher at University of British Columbia in CA. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.319939
+date: 2026-07-10T01:07:47.402201
 url: "/cdr-researcher-census/researchers/danyang-su-a5057845/"
 layout: "researcher"
 hiddenInHomeList: true

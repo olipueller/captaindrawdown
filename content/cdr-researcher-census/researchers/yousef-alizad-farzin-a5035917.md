@@ -1,7 +1,7 @@
 ---
 title: "Yousef Alizad Farzin"
 description: "Yousef Alizad Farzin is a Mid-career Unknown researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.511504
+date: 2026-07-10T01:07:48.495912
 url: "/cdr-researcher-census/researchers/yousef-alizad-farzin-a5035917/"
 layout: "researcher"
 hiddenInHomeList: true

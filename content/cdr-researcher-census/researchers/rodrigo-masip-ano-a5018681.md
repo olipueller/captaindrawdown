@@ -1,7 +1,7 @@
 ---
 title: "Rodrigo Masip Añó"
 description: "Rodrigo Masip Añó is a Mid-career Unknown researcher at Pennsylvania State University in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.184050
+date: 2026-07-10T01:07:49.098371
 url: "/cdr-researcher-census/researchers/rodrigo-masip-ano-a5018681/"
 layout: "researcher"
 hiddenInHomeList: true

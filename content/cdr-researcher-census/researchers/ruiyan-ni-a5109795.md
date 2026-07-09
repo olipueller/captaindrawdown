@@ -1,7 +1,7 @@
 ---
 title: "Ruiyan Ni"
 description: "Ruiyan Ni is a Mid-career Unknown researcher at Donghua University in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.017862
+date: 2026-07-10T01:07:48.025492
 url: "/cdr-researcher-census/researchers/ruiyan-ni-a5109795/"
 layout: "researcher"
 hiddenInHomeList: true

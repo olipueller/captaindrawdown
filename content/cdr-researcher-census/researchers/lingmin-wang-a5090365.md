@@ -1,7 +1,7 @@
 ---
 title: "Lingmin Wang"
 description: "Lingmin Wang is a Mid-career Unknown researcher at Nanchang University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.345862
+date: 2026-07-10T01:07:48.344751
 url: "/cdr-researcher-census/researchers/lingmin-wang-a5090365/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jure Zrim"
 description: "Jure Zrim is an Early-career Soil Carbon researcher at University of Helsinki in FI. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.237375
+date: 2026-07-10T01:07:49.146436
 url: "/cdr-researcher-census/researchers/jure-zrim-a5070994/"
 layout: "researcher"
 hiddenInHomeList: true

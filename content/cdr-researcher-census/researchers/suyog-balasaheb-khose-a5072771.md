@@ -1,7 +1,7 @@
 ---
 title: "Suyog Balasaheb Khose"
 description: "Suyog Balasaheb Khose is a Mid-career Soil Carbon researcher at Narayana Health in IN. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.079747
+date: 2026-07-10T01:07:48.990506
 url: "/cdr-researcher-census/researchers/suyog-balasaheb-khose-a5072771/"
 layout: "researcher"
 hiddenInHomeList: true

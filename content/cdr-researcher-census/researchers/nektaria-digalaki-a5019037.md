@@ -1,7 +1,7 @@
 ---
 title: "Nektaria Digalaki"
 description: "Nektaria Digalaki is a Senior Soil Carbon researcher at Mediterranean Agronomic Institute of Chania in GR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.361869
+date: 2026-07-10T01:07:48.359894
 url: "/cdr-researcher-census/researchers/nektaria-digalaki-a5019037/"
 layout: "researcher"
 hiddenInHomeList: true

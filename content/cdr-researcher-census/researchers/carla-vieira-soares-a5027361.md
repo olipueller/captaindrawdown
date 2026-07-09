@@ -1,7 +1,7 @@
 ---
 title: "Carla Vieira Soares"
 description: "Carla Vieira Soares is a Senior Unknown researcher in BR. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.962405
+date: 2026-07-10T01:07:47.972794
 url: "/cdr-researcher-census/researchers/carla-vieira-soares-a5027361/"
 layout: "researcher"
 hiddenInHomeList: true

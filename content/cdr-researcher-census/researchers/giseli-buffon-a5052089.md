@@ -1,7 +1,7 @@
 ---
 title: "Giseli Buffon"
 description: "Giseli Buffon is a Mid-career Unknown researcher at Univates in BR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.711009
+date: 2026-07-10T01:07:48.662513
 url: "/cdr-researcher-census/researchers/giseli-buffon-a5052089/"
 layout: "researcher"
 hiddenInHomeList: true

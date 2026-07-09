@@ -1,7 +1,7 @@
 ---
 title: "George Lartey‐Young"
 description: "George Lartey‐Young is a Mid-career Soil Carbon researcher at Tongji University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.004483
+date: 2026-07-10T01:07:48.013374
 url: "/cdr-researcher-census/researchers/george-larteyyoung-a5072586/"
 layout: "researcher"
 hiddenInHomeList: true

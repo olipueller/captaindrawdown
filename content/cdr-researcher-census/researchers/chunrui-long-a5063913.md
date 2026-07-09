@@ -1,7 +1,7 @@
 ---
 title: "Chunrui Long"
 description: "Chunrui Long is a Mid-career Unknown researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.214795
+date: 2026-07-10T01:07:48.226881
 url: "/cdr-researcher-census/researchers/chunrui-long-a5063913/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dan Pagendam"
 description: "Dan Pagendam is a Senior Soil Carbon researcher at CSIRO in AU. With 107 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.128694
+date: 2026-07-10T01:07:47.216885
 url: "/cdr-researcher-census/researchers/dan-pagendam-a5028328/"
 layout: "researcher"
 hiddenInHomeList: true

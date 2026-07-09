@@ -1,7 +1,7 @@
 ---
 title: "Haider Rajput"
 description: "Haider Rajput is a Mid-career Unknown researcher at Sindh Madressatul Islam University in PK. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.011246
+date: 2026-07-10T01:07:48.928402
 url: "/cdr-researcher-census/researchers/haider-rajput-a5119667/"
 layout: "researcher"
 hiddenInHomeList: true

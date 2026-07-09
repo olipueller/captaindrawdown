@@ -1,7 +1,7 @@
 ---
 title: "Vinod Kumar Wasnik"
 description: "Vinod Kumar Wasnik is a Mid-career Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.035033
+date: 2026-07-10T01:07:48.949817
 url: "/cdr-researcher-census/researchers/vinod-kumar-wasnik-a5108681/"
 layout: "researcher"
 hiddenInHomeList: true

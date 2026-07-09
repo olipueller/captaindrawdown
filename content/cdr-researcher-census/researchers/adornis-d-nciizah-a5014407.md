@@ -1,7 +1,7 @@
 ---
 title: "Adornis D. Nciizah"
 description: "Adornis D. Nciizah is a Mid-career Soil Carbon researcher at Agricultural Research Council in ZA. With 79 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.361508
+date: 2026-07-10T01:07:47.443428
 url: "/cdr-researcher-census/researchers/adornis-d-nciizah-a5014407/"
 layout: "researcher"
 hiddenInHomeList: true

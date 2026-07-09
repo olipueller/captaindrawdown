@@ -1,7 +1,7 @@
 ---
 title: "Johan A. Eckdahl"
 description: "Johan A. Eckdahl is a Mid-career Soil Carbon researcher at Santa Barbara City College in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.886018
+date: 2026-07-10T01:07:48.812932
 url: "/cdr-researcher-census/researchers/johan-a-eckdahl-a5043262/"
 layout: "researcher"
 hiddenInHomeList: true

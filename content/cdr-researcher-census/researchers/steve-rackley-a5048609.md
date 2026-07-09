@@ -1,7 +1,7 @@
 ---
 title: "Steve Rackley"
 description: "Steve Rackley is a Mid-career Ocean CDR researcher at Planetary Science Institute in US. With 45 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.945422
+date: 2026-07-10T01:07:48.867480
 url: "/cdr-researcher-census/researchers/steve-rackley-a5048609/"
 layout: "researcher"
 hiddenInHomeList: true

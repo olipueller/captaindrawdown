@@ -1,7 +1,7 @@
 ---
 title: "Thomas Shahady"
 description: "Thomas Shahady is a Senior Unknown researcher at University of Lynchburg in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.189247
+date: 2026-07-10T01:07:49.103248
 url: "/cdr-researcher-census/researchers/thomas-shahady-a5080559/"
 layout: "researcher"
 hiddenInHomeList: true

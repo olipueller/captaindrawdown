@@ -1,7 +1,7 @@
 ---
 title: "David Bille Byriel"
 description: "David Bille Byriel is a Mid-career Soil Carbon researcher at Copenhagen Business School in DK. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.714866
+date: 2026-07-10T01:07:48.665593
 url: "/cdr-researcher-census/researchers/david-bille-byriel-a5048152/"
 layout: "researcher"
 hiddenInHomeList: true

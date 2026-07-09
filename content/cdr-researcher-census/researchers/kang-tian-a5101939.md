@@ -1,7 +1,7 @@
 ---
 title: "Kang Tian"
 description: "Kang Tian is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 54 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.999683
+date: 2026-07-10T01:07:47.060156
 url: "/cdr-researcher-census/researchers/kang-tian-a5101939/"
 layout: "researcher"
 hiddenInHomeList: true

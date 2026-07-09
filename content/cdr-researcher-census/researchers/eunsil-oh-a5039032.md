@@ -1,7 +1,7 @@
 ---
 title: "Eunsil Oh"
 description: "Eunsil Oh is a Mid-career Unknown researcher at Seoul National University in KR. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.712998
+date: 2026-07-10T01:07:48.664103
 url: "/cdr-researcher-census/researchers/eunsil-oh-a5039032/"
 layout: "researcher"
 hiddenInHomeList: true

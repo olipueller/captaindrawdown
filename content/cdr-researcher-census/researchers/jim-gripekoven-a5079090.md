@@ -1,7 +1,7 @@
 ---
 title: "Jim Gripekoven"
 description: "Jim Gripekoven is a Mid-career General CDR researcher at Engie (Belgium) in BE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.368492
+date: 2026-07-10T01:07:48.365728
 url: "/cdr-researcher-census/researchers/jim-gripekoven-a5079090/"
 layout: "researcher"
 hiddenInHomeList: true

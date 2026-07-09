@@ -1,7 +1,7 @@
 ---
 title: "Maria da Conceição Freitas"
 description: "Maria da Conceição Freitas is a Senior Unknown researcher at University of Lisbon in PT. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.012305
+date: 2026-07-10T01:07:48.020201
 url: "/cdr-researcher-census/researchers/maria-da-conceicao-freitas-a5113587/"
 layout: "researcher"
 hiddenInHomeList: true

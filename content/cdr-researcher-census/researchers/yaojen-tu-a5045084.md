@@ -1,7 +1,7 @@
 ---
 title: "YaoJen Tu"
 description: "YaoJen Tu is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.222968
+date: 2026-07-10T01:07:49.133163
 url: "/cdr-researcher-census/researchers/yaojen-tu-a5045084/"
 layout: "researcher"
 hiddenInHomeList: true

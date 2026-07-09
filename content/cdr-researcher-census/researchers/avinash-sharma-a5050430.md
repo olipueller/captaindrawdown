@@ -1,7 +1,7 @@
 ---
 title: "Avinash Sharma"
 description: "Avinash Sharma is a Mid-career Soil Carbon researcher at DAV University in IN. With 61 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.693941
+date: 2026-07-10T01:07:47.749839
 url: "/cdr-researcher-census/researchers/avinash-sharma-a5050430/"
 layout: "researcher"
 hiddenInHomeList: true

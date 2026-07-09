@@ -1,7 +1,7 @@
 ---
 title: "Hana Vespalcová"
 description: "Hana Vespalcová is a Mid-career Unknown researcher at Universitat Pompeu Fabra in ES. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.251471
+date: 2026-07-10T01:07:48.259480
 url: "/cdr-researcher-census/researchers/hana-vespalcova-a5046390/"
 layout: "researcher"
 hiddenInHomeList: true

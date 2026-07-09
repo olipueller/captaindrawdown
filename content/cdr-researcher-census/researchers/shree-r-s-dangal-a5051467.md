@@ -1,7 +1,7 @@
 ---
 title: "Shree R. S. Dangal"
 description: "Shree R. S. Dangal is a Senior Soil Carbon researcher at University of Nebraska-Lincoln in US. With 57 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.960790
+date: 2026-07-10T01:07:46.998329
 url: "/cdr-researcher-census/researchers/shree-r-s-dangal-a5051467/"
 layout: "researcher"
 hiddenInHomeList: true

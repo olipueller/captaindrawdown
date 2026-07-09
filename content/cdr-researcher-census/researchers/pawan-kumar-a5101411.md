@@ -1,7 +1,7 @@
 ---
 title: "Pawan Kumar"
 description: "Pawan Kumar is a Mid-career Unknown researcher at Translational Health Science and Technology Institute in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.224613
+date: 2026-07-10T01:07:47.311623
 url: "/cdr-researcher-census/researchers/pawan-kumar-a5101411/"
 layout: "researcher"
 hiddenInHomeList: true

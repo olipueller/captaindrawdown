@@ -1,7 +1,7 @@
 ---
 title: "Milton M. M’Arimi"
 description: "Milton M. M’Arimi is a Senior Unknown researcher at Moi University in KE. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.603151
+date: 2026-07-10T01:07:47.664844
 url: "/cdr-researcher-census/researchers/milton-m-marimi-a5072804/"
 layout: "researcher"
 hiddenInHomeList: true

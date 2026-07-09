@@ -1,7 +1,7 @@
 ---
 title: "Tiancai Zhou"
 description: "Tiancai Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 35 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.466189
+date: 2026-07-10T01:07:47.539566
 url: "/cdr-researcher-census/researchers/tiancai-zhou-a5053771/"
 layout: "researcher"
 hiddenInHomeList: true

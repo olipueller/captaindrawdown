@@ -1,7 +1,7 @@
 ---
 title: "Hongryeol Yun"
 description: "Hongryeol Yun is a Mid-career General CDR researcher at Korea University in KR. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.311788
+date: 2026-07-10T01:07:47.394060
 url: "/cdr-researcher-census/researchers/hongryeol-yun-a5101712/"
 layout: "researcher"
 hiddenInHomeList: true

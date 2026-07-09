@@ -1,7 +1,7 @@
 ---
 title: "Sudipto Mandal"
 description: "Sudipto Mandal is a Senior Soil Carbon researcher at The University of Burdwan in IN. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.398911
+date: 2026-07-10T01:07:47.479757
 url: "/cdr-researcher-census/researchers/sudipto-mandal-a5074443/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bingqi Dong"
 description: "Bingqi Dong is a Mid-career Unknown researcher at Wuhan University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.133462
+date: 2026-07-10T01:07:49.037501
 url: "/cdr-researcher-census/researchers/bingqi-dong-a5041838/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Bayram"
 description: "Abdullah Bayram is a Mid-career Unknown researcher at Purdue University West Lafayette in US. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.556727
+date: 2026-07-10T01:07:47.620851
 url: "/cdr-researcher-census/researchers/abdullah-bayram-a5018532/"
 layout: "researcher"
 hiddenInHomeList: true

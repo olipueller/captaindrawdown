@@ -1,7 +1,7 @@
 ---
 title: "Jingwei Liu"
 description: "Jingwei Liu is a Mid-career Unknown researcher at Chongqing University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.507042
+date: 2026-07-10T01:07:48.492303
 url: "/cdr-researcher-census/researchers/jingwei-liu-a5087720/"
 layout: "researcher"
 hiddenInHomeList: true

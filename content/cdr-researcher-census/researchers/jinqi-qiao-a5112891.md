@@ -1,7 +1,7 @@
 ---
 title: "Jinqi Qiao"
 description: "Jinqi Qiao is a Mid-career Unknown researcher at China University of Petroleum, Beijing in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.128605
+date: 2026-07-10T01:07:48.151798
 url: "/cdr-researcher-census/researchers/jinqi-qiao-a5112891/"
 layout: "researcher"
 hiddenInHomeList: true

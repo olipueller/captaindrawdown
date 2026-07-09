@@ -1,7 +1,7 @@
 ---
 title: "Tom Guhra"
 description: "Tom Guhra is a Mid-career Unknown researcher at Friedrich Schiller University Jena in DE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.820444
+date: 2026-07-10T01:07:47.866579
 url: "/cdr-researcher-census/researchers/tom-guhra-a5043673/"
 layout: "researcher"
 hiddenInHomeList: true

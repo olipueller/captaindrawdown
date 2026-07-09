@@ -1,7 +1,7 @@
 ---
 title: "Tochukwu Ozulumba"
 description: "Tochukwu Ozulumba is a Mid-career Unknown researcher at McCormick (United States) in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.932302
+date: 2026-07-10T01:07:47.945073
 url: "/cdr-researcher-census/researchers/tochukwu-ozulumba-a5025649/"
 layout: "researcher"
 hiddenInHomeList: true

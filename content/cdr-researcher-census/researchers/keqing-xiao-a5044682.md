@@ -1,7 +1,7 @@
 ---
 title: "Ke‐Qing Xiao"
 description: "Ke‐Qing Xiao is a Senior Soil Carbon researcher at University of Leeds Faculty of Environment in GB. With 84 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.995401
+date: 2026-07-10T01:07:47.053954
 url: "/cdr-researcher-census/researchers/keqing-xiao-a5044682/"
 layout: "researcher"
 hiddenInHomeList: true

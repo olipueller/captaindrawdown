@@ -1,7 +1,7 @@
 ---
 title: "Malcolm B. Lowry"
 description: "Malcolm B. Lowry is a Senior Unknown researcher at Oregon State University in US. With 19 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.272817
+date: 2026-07-10T01:07:47.355676
 url: "/cdr-researcher-census/researchers/malcolm-b-lowry-a5045899/"
 layout: "researcher"
 hiddenInHomeList: true

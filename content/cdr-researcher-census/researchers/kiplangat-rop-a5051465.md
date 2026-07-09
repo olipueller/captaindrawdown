@@ -1,7 +1,7 @@
 ---
 title: "Kiplangat Rop"
 description: "Kiplangat Rop is a Mid-career Unknown researcher. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.998916
+date: 2026-07-10T01:07:48.008110
 url: "/cdr-researcher-census/researchers/kiplangat-rop-a5051465/"
 layout: "researcher"
 hiddenInHomeList: true

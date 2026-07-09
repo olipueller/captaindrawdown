@@ -1,7 +1,7 @@
 ---
 title: "Keivan Khaleghi"
 description: "Keivan Khaleghi is a Mid-career General CDR researcher at The University of Texas at Austin in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.838283
+date: 2026-07-10T01:07:48.770897
 url: "/cdr-researcher-census/researchers/keivan-khaleghi-a5089993/"
 layout: "researcher"
 hiddenInHomeList: true

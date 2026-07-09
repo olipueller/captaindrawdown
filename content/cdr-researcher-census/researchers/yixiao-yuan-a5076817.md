@@ -1,7 +1,7 @@
 ---
 title: "Yixiao Yuan"
 description: "Yixiao Yuan is an Early-career Soil Carbon researcher at Beijing Normal University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.044682
+date: 2026-07-10T01:07:48.958269
 url: "/cdr-researcher-census/researchers/yixiao-yuan-a5076817/"
 layout: "researcher"
 hiddenInHomeList: true

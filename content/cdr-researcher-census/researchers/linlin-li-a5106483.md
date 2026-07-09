@@ -1,7 +1,7 @@
 ---
 title: "Linlin Li"
 description: "Linlin Li is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.458928
+date: 2026-07-10T01:07:47.533333
 url: "/cdr-researcher-census/researchers/linlin-li-a5106483/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuki Tomimatsu"
 description: "Yuki Tomimatsu is a Mid-career Unknown researcher at Fukuoka University in JP. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.138730
+date: 2026-07-10T01:07:48.160292
 url: "/cdr-researcher-census/researchers/yuki-tomimatsu-a5044946/"
 layout: "researcher"
 hiddenInHomeList: true

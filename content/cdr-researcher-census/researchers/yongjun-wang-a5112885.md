@@ -1,7 +1,7 @@
 ---
 title: "Yongjun Wang"
 description: "Yongjun Wang is a Mid-career Unknown researcher at Harvard Medical School in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.590337
+date: 2026-07-10T01:07:47.653524
 url: "/cdr-researcher-census/researchers/yongjun-wang-a5112885/"
 layout: "researcher"
 hiddenInHomeList: true

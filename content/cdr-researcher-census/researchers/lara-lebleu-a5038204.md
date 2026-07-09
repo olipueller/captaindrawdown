@@ -1,7 +1,7 @@
 ---
 title: "Lara Lebleu"
 description: "Lara Lebleu is an Early-career Ocean CDR researcher at Scientific Centre of Monaco in MC. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.203980
+date: 2026-07-10T01:07:48.217411
 url: "/cdr-researcher-census/researchers/lara-lebleu-a5038204/"
 layout: "researcher"
 hiddenInHomeList: true

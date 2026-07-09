@@ -1,7 +1,7 @@
 ---
 title: "Avinash Kumar"
 description: "Avinash Kumar is a Mid-career Unknown researcher at Uttar Pradesh Pandit Deen Dayal Upadhyaya Pashu Chikitsa Vigyan Vishwavidyalaya Evam Go-Anusandhan Sansthan in IN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.428862
+date: 2026-07-10T01:07:48.419049
 url: "/cdr-researcher-census/researchers/avinash-kumar-a5077158/"
 layout: "researcher"
 hiddenInHomeList: true

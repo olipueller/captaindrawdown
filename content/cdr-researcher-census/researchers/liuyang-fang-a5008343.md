@@ -1,7 +1,7 @@
 ---
 title: "Liuyang Fang"
 description: "Liuyang Fang is a Mid-career Unknown researcher at Kunming University of Science and Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.014137
+date: 2026-07-10T01:07:48.930868
 url: "/cdr-researcher-census/researchers/liuyang-fang-a5008343/"
 layout: "researcher"
 hiddenInHomeList: true

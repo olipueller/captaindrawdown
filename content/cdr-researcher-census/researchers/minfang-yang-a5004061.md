@@ -1,7 +1,7 @@
 ---
 title: "Minfang Yang"
 description: "Minfang Yang is a Senior Enhanced Weathering researcher at Research Institute of Petroleum Exploration and Development in CN. With 65 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.411400
+date: 2026-07-10T01:07:47.490819
 url: "/cdr-researcher-census/researchers/minfang-yang-a5004061/"
 layout: "researcher"
 hiddenInHomeList: true

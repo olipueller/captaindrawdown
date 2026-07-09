@@ -1,7 +1,7 @@
 ---
 title: "Morgane M. G. Perron"
 description: "Morgane M. G. Perron is a Mid-career Unknown researcher at Laboratoire des Sciences de l'Environnement Marin in FR. With 47 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.145708
+date: 2026-07-10T01:07:47.234611
 url: "/cdr-researcher-census/researchers/morgane-m-g-perron-a5016731/"
 layout: "researcher"
 hiddenInHomeList: true

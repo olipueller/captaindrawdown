@@ -1,7 +1,7 @@
 ---
 title: "S. R. Walker"
 description: "S. R. Walker is a Senior Unknown researcher at University of Copenhagen in DK. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.069365
+date: 2026-07-10T01:07:48.980558
 url: "/cdr-researcher-census/researchers/s-r-walker-a5102747/"
 layout: "researcher"
 hiddenInHomeList: true

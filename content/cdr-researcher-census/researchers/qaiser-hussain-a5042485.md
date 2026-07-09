@@ -1,7 +1,7 @@
 ---
 title: "Qaiser Hussain"
 description: "Qaiser Hussain is an Eminent Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 152 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.926612
+date: 2026-07-10T01:07:46.941047
 url: "/cdr-researcher-census/researchers/qaiser-hussain-a5042485/"
 layout: "researcher"
 hiddenInHomeList: true

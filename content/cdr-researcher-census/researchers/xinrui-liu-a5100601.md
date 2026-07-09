@@ -1,7 +1,7 @@
 ---
 title: "Xinrui Liu"
 description: "Xinrui Liu is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 54 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.707417
+date: 2026-07-10T01:07:47.761685
 url: "/cdr-researcher-census/researchers/xinrui-liu-a5100601/"
 layout: "researcher"
 hiddenInHomeList: true

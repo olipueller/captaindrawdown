@@ -1,7 +1,7 @@
 ---
 title: "Gurtej Singh"
 description: "Gurtej Singh is a Senior Unknown researcher at Stony Brook University in US. With 73 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.292585
+date: 2026-07-10T01:07:47.374898
 url: "/cdr-researcher-census/researchers/gurtej-singh-a5065803/"
 layout: "researcher"
 hiddenInHomeList: true

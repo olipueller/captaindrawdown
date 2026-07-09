@@ -1,7 +1,7 @@
 ---
 title: "Valeria Cafaro"
 description: "Valeria Cafaro is a Mid-career Soil Carbon researcher at National Research Council in IT. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.871197
+date: 2026-07-10T01:07:48.799428
 url: "/cdr-researcher-census/researchers/valeria-cafaro-a5092661/"
 layout: "researcher"
 hiddenInHomeList: true

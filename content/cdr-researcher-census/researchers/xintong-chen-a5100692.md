@@ -1,7 +1,7 @@
 ---
 title: "Xintong Chen"
 description: "Xintong Chen is a Mid-career Unknown researcher at Qinghai Normal University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.780668
+date: 2026-07-10T01:07:47.829381
 url: "/cdr-researcher-census/researchers/xintong-chen-a5100692/"
 layout: "researcher"
 hiddenInHomeList: true

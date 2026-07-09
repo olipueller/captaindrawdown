@@ -1,7 +1,7 @@
 ---
 title: "Arkadeb Mukhopadhyay"
 description: "Arkadeb Mukhopadhyay is a Mid-career General CDR researcher at Bharat Heavy Electricals (India) in IN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.541339
+date: 2026-07-10T01:07:48.522814
 url: "/cdr-researcher-census/researchers/arkadeb-mukhopadhyay-a5070214/"
 layout: "researcher"
 hiddenInHomeList: true

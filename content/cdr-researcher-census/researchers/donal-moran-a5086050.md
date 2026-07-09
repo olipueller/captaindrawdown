@@ -1,7 +1,7 @@
 ---
 title: "Donal Moran"
 description: "Donal Moran is a Mid-career General CDR researcher at University of Limerick in IE. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.054585
+date: 2026-07-10T01:07:48.059009
 url: "/cdr-researcher-census/researchers/donal-moran-a5086050/"
 layout: "researcher"
 hiddenInHomeList: true

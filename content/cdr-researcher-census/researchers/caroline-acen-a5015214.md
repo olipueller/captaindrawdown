@@ -1,7 +1,7 @@
 ---
 title: "Caroline Acen"
 description: "Caroline Acen is a Mid-career General CDR researcher at Chengdu University of Information Technology in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.809224
+date: 2026-07-10T01:07:47.855606
 url: "/cdr-researcher-census/researchers/caroline-acen-a5015214/"
 layout: "researcher"
 hiddenInHomeList: true

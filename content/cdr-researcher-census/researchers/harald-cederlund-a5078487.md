@@ -1,7 +1,7 @@
 ---
 title: "Harald Cederlund"
 description: "Harald Cederlund is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.158568
+date: 2026-07-10T01:07:47.247742
 url: "/cdr-researcher-census/researchers/harald-cederlund-a5078487/"
 layout: "researcher"
 hiddenInHomeList: true

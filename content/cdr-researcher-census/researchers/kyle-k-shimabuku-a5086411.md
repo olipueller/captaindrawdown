@@ -1,7 +1,7 @@
 ---
 title: "Kyle K. Shimabuku"
 description: "Kyle K. Shimabuku is a Mid-career Unknown researcher at Gonzaga University in US. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.174230
+date: 2026-07-10T01:07:47.263453
 url: "/cdr-researcher-census/researchers/kyle-k-shimabuku-a5086411/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Janis E. Baeten"
 description: "Janis E. Baeten is a Mid-career Unknown researcher at Ghent University in BE. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.862437
+date: 2026-07-10T01:07:47.897260
 url: "/cdr-researcher-census/researchers/janis-e-baeten-a5062523/"
 layout: "researcher"
 hiddenInHomeList: true

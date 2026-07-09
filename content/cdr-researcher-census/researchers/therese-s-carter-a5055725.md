@@ -1,7 +1,7 @@
 ---
 title: "Therese S. Carter"
 description: "Therese S. Carter is a Mid-career Unknown researcher at George Washington University in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.497022
+date: 2026-07-10T01:07:47.566866
 url: "/cdr-researcher-census/researchers/therese-s-carter-a5055725/"
 layout: "researcher"
 hiddenInHomeList: true

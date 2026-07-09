@@ -1,7 +1,7 @@
 ---
 title: "Xitao Chen"
 description: "Xitao Chen is a Senior Unknown researcher at Northwestern Polytechnical University in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.244095
+date: 2026-07-10T01:07:49.152233
 url: "/cdr-researcher-census/researchers/xitao-chen-a5108221/"
 layout: "researcher"
 hiddenInHomeList: true

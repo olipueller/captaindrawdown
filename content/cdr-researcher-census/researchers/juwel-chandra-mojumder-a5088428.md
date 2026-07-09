@@ -1,7 +1,7 @@
 ---
 title: "Juwel Chandra Mojumder"
 description: "Juwel Chandra Mojumder is a Mid-career Unknown researcher at The University of Queensland in AU. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.595220
+date: 2026-07-10T01:07:47.658309
 url: "/cdr-researcher-census/researchers/juwel-chandra-mojumder-a5088428/"
 layout: "researcher"
 hiddenInHomeList: true

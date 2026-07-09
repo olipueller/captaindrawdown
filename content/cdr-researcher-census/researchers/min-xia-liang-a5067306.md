@@ -1,7 +1,7 @@
 ---
 title: "Min-Xia Liang"
 description: "Min-Xia Liang is a Mid-career Unknown researcher at Center for Orthopaedics in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.781549
+date: 2026-07-10T01:07:47.830161
 url: "/cdr-researcher-census/researchers/min-xia-liang-a5067306/"
 layout: "researcher"
 hiddenInHomeList: true

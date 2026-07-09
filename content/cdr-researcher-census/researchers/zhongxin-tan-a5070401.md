@@ -1,7 +1,7 @@
 ---
 title: "Zhongxin Tan"
 description: "Zhongxin Tan is a Senior Biochar researcher at Huazhong Agriculture University in CN. With 77 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.006392
+date: 2026-07-10T01:07:47.068087
 url: "/cdr-researcher-census/researchers/zhongxin-tan-a5070401/"
 layout: "researcher"
 hiddenInHomeList: true

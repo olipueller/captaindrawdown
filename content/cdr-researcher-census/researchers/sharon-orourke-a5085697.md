@@ -1,7 +1,7 @@
 ---
 title: "Sharon O’Rourke"
 description: "Sharon O’Rourke is a Senior Soil Carbon researcher at University College Dublin in IE. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.993441
+date: 2026-07-10T01:07:47.050784
 url: "/cdr-researcher-census/researchers/sharon-orourke-a5085697/"
 layout: "researcher"
 hiddenInHomeList: true

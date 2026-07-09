@@ -1,7 +1,7 @@
 ---
 title: "Hauwa A. Rasheed"
 description: "Hauwa A. Rasheed is an Early-career Unknown researcher at Nile University of Nigeria in NG. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.106756
+date: 2026-07-10T01:07:49.014341
 url: "/cdr-researcher-census/researchers/hauwa-a-rasheed-a5092891/"
 layout: "researcher"
 hiddenInHomeList: true

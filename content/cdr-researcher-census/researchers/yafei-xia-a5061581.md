@@ -1,7 +1,7 @@
 ---
 title: "Yafei Xia"
 description: "Yafei Xia is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.547671
+date: 2026-07-10T01:07:47.612101
 url: "/cdr-researcher-census/researchers/yafei-xia-a5061581/"
 layout: "researcher"
 hiddenInHomeList: true

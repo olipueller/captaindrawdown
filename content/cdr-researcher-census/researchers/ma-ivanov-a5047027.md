@@ -1,7 +1,7 @@
 ---
 title: "M.A. Ivanov"
 description: "M.A. Ivanov is a Mid-career Unknown researcher at Kazan Federal University in RU. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.103331
+date: 2026-07-10T01:07:49.011586
 url: "/cdr-researcher-census/researchers/ma-ivanov-a5047027/"
 layout: "researcher"
 hiddenInHomeList: true

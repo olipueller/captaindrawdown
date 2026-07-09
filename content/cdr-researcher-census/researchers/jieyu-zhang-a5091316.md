@@ -1,7 +1,7 @@
 ---
 title: "Jieyu Zhang"
 description: "Jieyu Zhang is a Senior Unknown researcher at China Academy of Railway Sciences in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.554979
+date: 2026-07-10T01:07:48.535165
 url: "/cdr-researcher-census/researchers/jieyu-zhang-a5091316/"
 layout: "researcher"
 hiddenInHomeList: true

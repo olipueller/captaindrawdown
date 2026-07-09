@@ -1,7 +1,7 @@
 ---
 title: "Kemal Aktaş"
 description: "Kemal Aktaş is an Early-career Biochar researcher at University of British Columbia in CA. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.125579
+date: 2026-07-10T01:07:49.030924
 url: "/cdr-researcher-census/researchers/kemal-aktas-a5087668/"
 layout: "researcher"
 hiddenInHomeList: true

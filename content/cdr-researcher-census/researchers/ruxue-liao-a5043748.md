@@ -1,7 +1,7 @@
 ---
 title: "Ruxue Liao"
 description: "Ruxue Liao is a Mid-career Unknown researcher at State Administration of Cultural Heritage in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.958326
+date: 2026-07-10T01:07:48.879855
 url: "/cdr-researcher-census/researchers/ruxue-liao-a5043748/"
 layout: "researcher"
 hiddenInHomeList: true

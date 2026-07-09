@@ -1,7 +1,7 @@
 ---
 title: "Barbara Alberghini"
 description: "Barbara Alberghini is a Mid-career Soil Carbon researcher at University of Bologna in IT. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.169896
+date: 2026-07-10T01:07:48.186581
 url: "/cdr-researcher-census/researchers/barbara-alberghini-a5066718/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zezheng Li"
 description: "Zezheng Li is a Mid-career Unknown researcher at Peking University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.484117
+date: 2026-07-10T01:07:47.555850
 url: "/cdr-researcher-census/researchers/zezheng-li-a5101964/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fernando Visconti"
 description: "Fernando Visconti is a Senior Soil Carbon researcher at Instituto Valenciano de Investigaciones Agrarias in ES. With 105 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.224006
+date: 2026-07-10T01:07:47.311096
 url: "/cdr-researcher-census/researchers/fernando-visconti-a5023389/"
 layout: "researcher"
 hiddenInHomeList: true

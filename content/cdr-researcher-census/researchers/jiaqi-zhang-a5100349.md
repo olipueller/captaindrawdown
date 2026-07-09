@@ -1,7 +1,7 @@
 ---
 title: "Jiaqi Zhang"
 description: "Jiaqi Zhang is a Senior Unknown researcher at Georgia Institute of Technology in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.883173
+date: 2026-07-10T01:07:48.810474
 url: "/cdr-researcher-census/researchers/jiaqi-zhang-a5100349/"
 layout: "researcher"
 hiddenInHomeList: true

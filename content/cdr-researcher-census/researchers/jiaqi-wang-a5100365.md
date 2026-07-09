@@ -1,7 +1,7 @@
 ---
 title: "Jiaqi Wang"
 description: "Jiaqi Wang is a Mid-career Unknown researcher at Zhejiang Province Institute of Architectural Design and Research in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.080224
+date: 2026-07-10T01:07:48.081924
 url: "/cdr-researcher-census/researchers/jiaqi-wang-a5100365/"
 layout: "researcher"
 hiddenInHomeList: true

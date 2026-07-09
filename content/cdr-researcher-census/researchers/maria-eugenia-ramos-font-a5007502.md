@@ -1,7 +1,7 @@
 ---
 title: "María Eugenia Ramos-Font"
 description: "María Eugenia Ramos-Font is a Mid-career Unknown researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.171496
+date: 2026-07-10T01:07:49.061557
 url: "/cdr-researcher-census/researchers/maria-eugenia-ramos-font-a5007502/"
 layout: "researcher"
 hiddenInHomeList: true

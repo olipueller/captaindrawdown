@@ -1,7 +1,7 @@
 ---
 title: "Enrique Mata"
 description: "Enrique Mata is an Early-career Unknown researcher at Agencia de Medio Ambiente y Agua de Andalucía in ES. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.927575
+date: 2026-07-10T01:07:48.851033
 url: "/cdr-researcher-census/researchers/enrique-mata-a5063797/"
 layout: "researcher"
 hiddenInHomeList: true

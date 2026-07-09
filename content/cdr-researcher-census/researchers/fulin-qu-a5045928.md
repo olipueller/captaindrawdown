@@ -1,7 +1,7 @@
 ---
 title: "Fulin Qu"
 description: "Fulin Qu is a Senior Biochar researcher at University of Technology Sydney in AU. With 88 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.016725
+date: 2026-07-10T01:07:47.082578
 url: "/cdr-researcher-census/researchers/fulin-qu-a5045928/"
 layout: "researcher"
 hiddenInHomeList: true

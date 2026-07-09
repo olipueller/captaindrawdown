@@ -1,7 +1,7 @@
 ---
 title: "Andrés Maurício Rico Gómez"
 description: "Andrés Maurício Rico Gómez is a Senior Unknown researcher at Universidade de São Paulo in BR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.700191
+date: 2026-07-10T01:07:48.653274
 url: "/cdr-researcher-census/researchers/andres-mauricio-rico-gomez-a5039059/"
 layout: "researcher"
 hiddenInHomeList: true

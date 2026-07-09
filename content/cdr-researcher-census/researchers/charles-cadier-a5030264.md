@@ -1,7 +1,7 @@
 ---
 title: "Charles Cadier"
 description: "Charles Cadier is a Mid-career Soil Carbon researcher at Griffith University in AU. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.151807
+date: 2026-07-10T01:07:48.171602
 url: "/cdr-researcher-census/researchers/charles-cadier-a5030264/"
 layout: "researcher"
 hiddenInHomeList: true

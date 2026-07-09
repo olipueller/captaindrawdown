@@ -1,7 +1,7 @@
 ---
 title: "Xingwu Lin"
 description: "Xingwu Lin is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 45 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.054511
+date: 2026-07-10T01:07:47.130113
 url: "/cdr-researcher-census/researchers/xingwu-lin-a5103233/"
 layout: "researcher"
 hiddenInHomeList: true

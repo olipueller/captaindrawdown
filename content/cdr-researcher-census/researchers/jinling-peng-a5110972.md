@@ -1,7 +1,7 @@
 ---
 title: "Jinling Peng"
 description: "Jinling Peng is a Senior Unknown researcher at Shenzhen Center for Disease Control and Prevention in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.660145
+date: 2026-07-10T01:07:48.617327
 url: "/cdr-researcher-census/researchers/jinling-peng-a5110972/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Minhuang Wang"
 description: "Minhuang Wang is a Senior Soil Carbon researcher at Institute of Eco-environmental and Soil Sciences, Guangdong Academy of Sciences in CN. With 70 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.054407
+date: 2026-07-10T01:07:47.130016
 url: "/cdr-researcher-census/researchers/minhuang-wang-a5089804/"
 layout: "researcher"
 hiddenInHomeList: true

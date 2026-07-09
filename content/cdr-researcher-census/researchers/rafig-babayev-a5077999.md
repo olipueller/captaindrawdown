@@ -1,7 +1,7 @@
 ---
 title: "Rafig Babayev"
 description: "Rafig Babayev is a Mid-career Unknown researcher at Volvo (Sweden) in SE. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.768079
+date: 2026-07-10T01:07:47.818332
 url: "/cdr-researcher-census/researchers/rafig-babayev-a5077999/"
 layout: "researcher"
 hiddenInHomeList: true

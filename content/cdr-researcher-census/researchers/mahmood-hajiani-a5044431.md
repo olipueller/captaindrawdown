@@ -1,7 +1,7 @@
 ---
 title: "Mahmood Hajiani"
 description: "Mahmood Hajiani is a Mid-career Unknown researcher at University of Birjand in IR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.614039
+date: 2026-07-10T01:07:47.675273
 url: "/cdr-researcher-census/researchers/mahmood-hajiani-a5044431/"
 layout: "researcher"
 hiddenInHomeList: true

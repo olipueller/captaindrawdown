@@ -1,7 +1,7 @@
 ---
 title: "Tongning Li"
 description: "Tongning Li is a Mid-career Unknown researcher at Nanchang University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.910336
+date: 2026-07-10T01:07:48.835250
 url: "/cdr-researcher-census/researchers/tongning-li-a5015008/"
 layout: "researcher"
 hiddenInHomeList: true

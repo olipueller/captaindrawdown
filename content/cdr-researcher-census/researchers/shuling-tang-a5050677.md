@@ -1,7 +1,7 @@
 ---
 title: "Shuling Tang"
 description: "Shuling Tang is a Mid-career Soil Carbon researcher at China University of Geosciences (Beijing) in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.340333
+date: 2026-07-10T01:07:47.423255
 url: "/cdr-researcher-census/researchers/shuling-tang-a5050677/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jinzhu Xu"
 description: "Jinzhu Xu is a Mid-career Unknown researcher at Xichang University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.046389
+date: 2026-07-10T01:07:48.959876
 url: "/cdr-researcher-census/researchers/jinzhu-xu-a5101101/"
 layout: "researcher"
 hiddenInHomeList: true

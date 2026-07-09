@@ -1,7 +1,7 @@
 ---
 title: "Shanglian Hu"
 description: "Shanglian Hu is a Mid-career Soil Carbon researcher at Southwest University of Science and Technology in CN. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.795142
+date: 2026-07-10T01:07:48.734890
 url: "/cdr-researcher-census/researchers/shanglian-hu-a5112891/"
 layout: "researcher"
 hiddenInHomeList: true

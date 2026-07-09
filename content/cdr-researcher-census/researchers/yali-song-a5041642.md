@@ -1,7 +1,7 @@
 ---
 title: "Yali Song"
 description: "Yali Song is a Mid-career Unknown researcher at Zhengzhou University of Light Industry in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.461453
+date: 2026-07-10T01:07:48.449518
 url: "/cdr-researcher-census/researchers/yali-song-a5041642/"
 layout: "researcher"
 hiddenInHomeList: true

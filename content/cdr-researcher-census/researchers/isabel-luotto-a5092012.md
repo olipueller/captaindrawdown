@@ -1,7 +1,7 @@
 ---
 title: "Isabel Luotto"
 description: "Isabel Luotto is an Early-career Unknown researcher at Food and Agriculture Organization of the United Nations in IT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.347957
+date: 2026-07-10T01:07:47.430538
 url: "/cdr-researcher-census/researchers/isabel-luotto-a5092012/"
 layout: "researcher"
 hiddenInHomeList: true

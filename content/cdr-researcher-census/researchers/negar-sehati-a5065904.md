@@ -1,7 +1,7 @@
 ---
 title: "Negar Sehati"
 description: "Negar Sehati is a Senior Unknown researcher at Tabriz University of Medical Sciences in IR. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.622000
+date: 2026-07-10T01:07:48.582936
 url: "/cdr-researcher-census/researchers/negar-sehati-a5065904/"
 layout: "researcher"
 hiddenInHomeList: true

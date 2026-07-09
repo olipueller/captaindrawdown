@@ -1,7 +1,7 @@
 ---
 title: "Nikhil R. Chari"
 description: "Nikhil R. Chari is a Mid-career Soil Carbon researcher at Harvard University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.057752
+date: 2026-07-10T01:07:48.061646
 url: "/cdr-researcher-census/researchers/nikhil-r-chari-a5058756/"
 layout: "researcher"
 hiddenInHomeList: true

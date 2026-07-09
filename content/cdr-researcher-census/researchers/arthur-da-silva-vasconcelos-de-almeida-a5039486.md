@@ -1,7 +1,7 @@
 ---
 title: "Arthur da Silva Vasconcelos de Almeida"
 description: "Arthur da Silva Vasconcelos de Almeida is a Mid-career Unknown researcher at Universidade Federal de Alagoas in BR. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.617016
+date: 2026-07-10T01:07:48.578073
 url: "/cdr-researcher-census/researchers/arthur-da-silva-vasconcelos-de-almeida-a5039486/"
 layout: "researcher"
 hiddenInHomeList: true

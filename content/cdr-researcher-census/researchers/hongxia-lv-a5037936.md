@@ -1,7 +1,7 @@
 ---
 title: "Hongxia Lv"
 description: "Hongxia Lv is a Mid-career DAC researcher at Beijing University of Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.037239
+date: 2026-07-10T01:07:48.951762
 url: "/cdr-researcher-census/researchers/hongxia-lv-a5037936/"
 layout: "researcher"
 hiddenInHomeList: true

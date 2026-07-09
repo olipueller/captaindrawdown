@@ -1,7 +1,7 @@
 ---
 title: "Nur Aqilah Mohd Razali"
 description: "Nur Aqilah Mohd Razali is a Mid-career Unknown researcher at University of Technology Malaysia in MY. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.483231
+date: 2026-07-10T01:07:48.469883
 url: "/cdr-researcher-census/researchers/nur-aqilah-mohd-razali-a5102700/"
 layout: "researcher"
 hiddenInHomeList: true

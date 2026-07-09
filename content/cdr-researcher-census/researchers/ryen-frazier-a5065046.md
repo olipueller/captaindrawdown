@@ -1,7 +1,7 @@
 ---
 title: "Ryen Frazier"
 description: "Ryen Frazier is a Mid-career General CDR researcher at North Carolina State University in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.565924
+date: 2026-07-10T01:07:48.544844
 url: "/cdr-researcher-census/researchers/ryen-frazier-a5065046/"
 layout: "researcher"
 hiddenInHomeList: true

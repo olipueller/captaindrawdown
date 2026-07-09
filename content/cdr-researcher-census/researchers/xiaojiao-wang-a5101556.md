@@ -1,7 +1,7 @@
 ---
 title: "Xiaojiao Wang"
 description: "Xiaojiao Wang is a Senior Soil Carbon researcher at Wuhan University in CN. With 121 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.941423
+date: 2026-07-10T01:07:46.967942
 url: "/cdr-researcher-census/researchers/xiaojiao-wang-a5101556/"
 layout: "researcher"
 hiddenInHomeList: true

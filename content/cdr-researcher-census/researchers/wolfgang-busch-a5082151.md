@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang Busch"
 description: "Wolfgang Busch is an Eminent Soil Carbon researcher at Salk Institute for Biological Studies in US. With 200 publications and an h-index of 54, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.901103
+date: 2026-07-10T01:07:46.889203
 url: "/cdr-researcher-census/researchers/wolfgang-busch-a5082151/"
 layout: "researcher"
 hiddenInHomeList: true

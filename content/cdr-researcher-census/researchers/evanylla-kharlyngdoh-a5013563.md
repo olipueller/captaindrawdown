@@ -1,7 +1,7 @@
 ---
 title: "Evanylla Kharlyngdoh"
 description: "Evanylla Kharlyngdoh is a Mid-career Unknown researcher at Institute of Bio-Resources and Sustainable Development in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.565821
+date: 2026-07-10T01:07:48.544754
 url: "/cdr-researcher-census/researchers/evanylla-kharlyngdoh-a5013563/"
 layout: "researcher"
 hiddenInHomeList: true

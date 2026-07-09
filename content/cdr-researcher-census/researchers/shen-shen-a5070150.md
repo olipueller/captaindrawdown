@@ -1,7 +1,7 @@
 ---
 title: "Shen Shen"
 description: "Shen Shen is a Senior Unknown researcher at First Affiliated Hospital of Zhengzhou University in CN. With 99 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.186761
+date: 2026-07-10T01:07:47.275736
 url: "/cdr-researcher-census/researchers/shen-shen-a5070150/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shaohui Jin"
 description: "Shaohui Jin is a Mid-career Unknown researcher at Huazhong University of Science and Technology in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.194153
+date: 2026-07-10T01:07:49.107613
 url: "/cdr-researcher-census/researchers/shaohui-jin-a5025423/"
 layout: "researcher"
 hiddenInHomeList: true

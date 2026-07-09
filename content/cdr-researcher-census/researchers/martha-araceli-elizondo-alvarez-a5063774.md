@@ -1,7 +1,7 @@
 ---
 title: "Martha Araceli Elizondo-Álvarez"
 description: "Martha Araceli Elizondo-Álvarez is a Mid-career Unknown researcher at Universidad Autónoma de Zacatecas \"Francisco García Salinas\" in MX. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.176760
+date: 2026-07-10T01:07:48.193031
 url: "/cdr-researcher-census/researchers/martha-araceli-elizondo-alvarez-a5063774/"
 layout: "researcher"
 hiddenInHomeList: true

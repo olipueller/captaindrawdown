@@ -1,7 +1,7 @@
 ---
 title: "Leila Shafea"
 description: "Leila Shafea is a Mid-career Unknown researcher at Leibniz University Hannover in DE. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.694706
+date: 2026-07-10T01:07:47.750509
 url: "/cdr-researcher-census/researchers/leila-shafea-a5027436/"
 layout: "researcher"
 hiddenInHomeList: true

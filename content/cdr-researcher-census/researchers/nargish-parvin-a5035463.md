@@ -1,7 +1,7 @@
 ---
 title: "Nargish Parvin"
 description: "Nargish Parvin is a Mid-career Soil Carbon researcher at RISE Research Institutes of Sweden in SE. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.839330
+date: 2026-07-10T01:07:47.875233
 url: "/cdr-researcher-census/researchers/nargish-parvin-a5035463/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Robin Hasse"
 description: "Robin Hasse is a Mid-career General CDR researcher at Technische Universität Berlin in DE. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.443059
+date: 2026-07-10T01:07:48.432839
 url: "/cdr-researcher-census/researchers/robin-hasse-a5045218/"
 layout: "researcher"
 hiddenInHomeList: true

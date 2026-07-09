@@ -1,7 +1,7 @@
 ---
 title: "Yongxing Li"
 description: "Yongxing Li is a Senior Soil Carbon researcher at Wuhan University in CN. With 65 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.110895
+date: 2026-07-10T01:07:47.196369
 url: "/cdr-researcher-census/researchers/yongxing-li-a5010496/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Khaoula Qamouche"
 description: "Khaoula Qamouche is a Mid-career Biochar researcher at Université Mohammed VI Polytechnique in MA. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.903610
+date: 2026-07-10T01:07:48.829072
 url: "/cdr-researcher-census/researchers/khaoula-qamouche-a5023265/"
 layout: "researcher"
 hiddenInHomeList: true

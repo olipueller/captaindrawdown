@@ -1,7 +1,7 @@
 ---
 title: "Guifang Pan"
 description: "Guifang Pan is a Mid-career Biochar researcher at Beijing University of Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.281745
+date: 2026-07-10T01:07:48.287263
 url: "/cdr-researcher-census/researchers/guifang-pan-a5055558/"
 layout: "researcher"
 hiddenInHomeList: true

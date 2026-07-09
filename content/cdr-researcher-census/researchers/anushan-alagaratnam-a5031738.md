@@ -1,7 +1,7 @@
 ---
 title: "Anushan Alagaratnam"
 description: "Anushan Alagaratnam is a Mid-career DAC researcher at University of Southern California in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.932610
+date: 2026-07-10T01:07:48.855759
 url: "/cdr-researcher-census/researchers/anushan-alagaratnam-a5031738/"
 layout: "researcher"
 hiddenInHomeList: true

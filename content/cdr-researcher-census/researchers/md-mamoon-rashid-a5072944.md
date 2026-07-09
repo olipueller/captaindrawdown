@@ -1,7 +1,7 @@
 ---
 title: "Md. Mamoon Rashid"
 description: "Md. Mamoon Rashid is a Mid-career Unknown researcher at Jamia Millia Islamia in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.971388
+date: 2026-07-10T01:07:48.891527
 url: "/cdr-researcher-census/researchers/md-mamoon-rashid-a5072944/"
 layout: "researcher"
 hiddenInHomeList: true

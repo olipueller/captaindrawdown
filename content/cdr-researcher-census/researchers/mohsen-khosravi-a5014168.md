@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Khosravi"
 description: "Mohsen Khosravi is a Senior Unknown researcher at University of Isfahan in IR. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.382521
+date: 2026-07-10T01:07:47.463929
 url: "/cdr-researcher-census/researchers/mohsen-khosravi-a5014168/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zubair Hashmi"
 description: "Zubair Hashmi is a Mid-career General CDR researcher at Dawood University of Engineering & Technology Department of Chemical Engineering in PK. With 57 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.307548
+date: 2026-07-10T01:07:47.389569
 url: "/cdr-researcher-census/researchers/zubair-hashmi-a5046643/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Francesco Minunno"
 description: "Francesco Minunno is a Senior Soil Carbon researcher at University of Helsinki in FI. With 73 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.077837
+date: 2026-07-10T01:07:47.158066
 url: "/cdr-researcher-census/researchers/francesco-minunno-a5033119/"
 layout: "researcher"
 hiddenInHomeList: true

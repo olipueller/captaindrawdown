@@ -1,7 +1,7 @@
 ---
 title: "Pierre Maffre"
 description: "Pierre Maffre is a Mid-career Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 74 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.714991
+date: 2026-07-10T01:07:47.768924
 url: "/cdr-researcher-census/researchers/pierre-maffre-a5053980/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hasan Muslemani"
 description: "Hasan Muslemani is a Mid-career General CDR researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.218862
+date: 2026-07-10T01:07:48.230215
 url: "/cdr-researcher-census/researchers/hasan-muslemani-a5100602/"
 layout: "researcher"
 hiddenInHomeList: true

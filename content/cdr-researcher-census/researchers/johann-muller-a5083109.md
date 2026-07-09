@@ -1,7 +1,7 @@
 ---
 title: "Johann Müller"
 description: "Johann Müller is a Senior Unknown researcher at Tallinn University of Technology in EE. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.369331
+date: 2026-07-10T01:07:48.366444
 url: "/cdr-researcher-census/researchers/johann-muller-a5083109/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Changwen Jia"
 description: "Changwen Jia is a Senior Unknown researcher at Zhejiang Sci-Tech University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.952956
+date: 2026-07-10T01:07:48.874866
 url: "/cdr-researcher-census/researchers/changwen-jia-a5111833/"
 layout: "researcher"
 hiddenInHomeList: true

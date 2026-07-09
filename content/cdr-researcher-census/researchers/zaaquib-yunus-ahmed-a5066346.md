@@ -1,7 +1,7 @@
 ---
 title: "Zaaquib Yunus Ahmed"
 description: "Zaaquib Yunus Ahmed is a Mid-career Unknown researcher at Ghent University Hospital in BE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.435790
+date: 2026-07-10T01:07:48.425963
 url: "/cdr-researcher-census/researchers/zaaquib-yunus-ahmed-a5066346/"
 layout: "researcher"
 hiddenInHomeList: true

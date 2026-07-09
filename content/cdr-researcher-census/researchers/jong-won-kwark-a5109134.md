@@ -1,7 +1,7 @@
 ---
 title: "Jong Won Kwark"
 description: "Jong Won Kwark is a Senior Unknown researcher at Korea Institute of Civil Engineering and Building Technology in KR. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.868749
+date: 2026-07-10T01:07:48.797375
 url: "/cdr-researcher-census/researchers/jong-won-kwark-a5109134/"
 layout: "researcher"
 hiddenInHomeList: true

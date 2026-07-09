@@ -1,7 +1,7 @@
 ---
 title: "Akram A. Al-Absi"
 description: "Akram A. Al-Absi is a Mid-career General CDR researcher at University of Calgary in CA. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.546015
+date: 2026-07-10T01:07:47.610692
 url: "/cdr-researcher-census/researchers/akram-a-al-absi-a5012451/"
 layout: "researcher"
 hiddenInHomeList: true

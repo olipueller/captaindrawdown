@@ -1,7 +1,7 @@
 ---
 title: "Jackson Nkoh Nkoh"
 description: "Jackson Nkoh Nkoh is a Senior Biochar researcher at Shenzhen University in CN. With 78 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.102950
+date: 2026-07-10T01:07:47.187356
 url: "/cdr-researcher-census/researchers/jackson-nkoh-nkoh-a5066227/"
 layout: "researcher"
 hiddenInHomeList: true

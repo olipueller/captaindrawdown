@@ -1,7 +1,7 @@
 ---
 title: "Ehsan Karkon"
 description: "Ehsan Karkon is a Mid-career Unknown researcher at Norwegian University of Science and Technology in NO. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.224629
+date: 2026-07-10T01:07:49.134620
 url: "/cdr-researcher-census/researchers/ehsan-karkon-a5097632/"
 layout: "researcher"
 hiddenInHomeList: true

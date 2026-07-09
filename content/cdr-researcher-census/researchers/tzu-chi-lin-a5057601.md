@@ -1,7 +1,7 @@
 ---
 title: "Tzu-Chi Lin"
 description: "Tzu-Chi Lin is a Senior Unknown researcher at National Taiwan University in TW. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.078376
+date: 2026-07-10T01:07:48.080446
 url: "/cdr-researcher-census/researchers/tzu-chi-lin-a5057601/"
 layout: "researcher"
 hiddenInHomeList: true

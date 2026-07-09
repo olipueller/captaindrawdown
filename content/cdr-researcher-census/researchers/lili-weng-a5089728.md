@@ -1,7 +1,7 @@
 ---
 title: "Lili Weng"
 description: "Lili Weng is a Mid-career Soil Carbon researcher at Changchun University of Chinese Medicine in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.895580
+date: 2026-07-10T01:07:48.821446
 url: "/cdr-researcher-census/researchers/lili-weng-a5089728/"
 layout: "researcher"
 hiddenInHomeList: true

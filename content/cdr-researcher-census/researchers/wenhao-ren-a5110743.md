@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Ren"
 description: "Wenhao Ren is a Mid-career Biochar researcher at Inner Mongolia Agricultural University in CN. With 41 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.160357
+date: 2026-07-10T01:07:47.249497
 url: "/cdr-researcher-census/researchers/wenhao-ren-a5110743/"
 layout: "researcher"
 hiddenInHomeList: true

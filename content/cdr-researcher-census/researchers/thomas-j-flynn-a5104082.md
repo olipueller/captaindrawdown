@@ -1,7 +1,7 @@
 ---
 title: "Thomas J. Flynn"
 description: "Thomas J. Flynn is a Senior Unknown researcher at University of Kansas in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.437279
+date: 2026-07-10T01:07:47.514246
 url: "/cdr-researcher-census/researchers/thomas-j-flynn-a5104082/"
 layout: "researcher"
 hiddenInHomeList: true

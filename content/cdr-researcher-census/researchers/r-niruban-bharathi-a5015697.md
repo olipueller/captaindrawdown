@@ -1,7 +1,7 @@
 ---
 title: "R. Niruban Bharathi"
 description: "R. Niruban Bharathi is a Mid-career BECCS researcher at Madurai Medical College in IN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.790195
+date: 2026-07-10T01:07:47.838976
 url: "/cdr-researcher-census/researchers/r-niruban-bharathi-a5015697/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dimitrios Floudas"
 description: "Dimitrios Floudas is a Senior Soil Carbon researcher at Lund University in SE. With 44 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.923890
+date: 2026-07-10T01:07:46.935073
 url: "/cdr-researcher-census/researchers/dimitrios-floudas-a5059720/"
 layout: "researcher"
 hiddenInHomeList: true

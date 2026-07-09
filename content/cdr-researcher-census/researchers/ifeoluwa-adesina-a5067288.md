@@ -1,7 +1,7 @@
 ---
 title: "Ifeoluwa Adesina"
 description: "Ifeoluwa Adesina is a Mid-career Soil Carbon researcher at Adekunle Ajasin University in NG. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.957857
+date: 2026-07-10T01:07:47.968808
 url: "/cdr-researcher-census/researchers/ifeoluwa-adesina-a5067288/"
 layout: "researcher"
 hiddenInHomeList: true

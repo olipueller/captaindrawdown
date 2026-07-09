@@ -1,7 +1,7 @@
 ---
 title: "Saier Wang"
 description: "Saier Wang is a Mid-career Unknown researcher at Ministry of Ecology and Environment in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.468788
+date: 2026-07-10T01:07:47.541608
 url: "/cdr-researcher-census/researchers/saier-wang-a5034480/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fan Yang"
 description: "Fan Yang is a Senior General CDR researcher at Center for Environmental Health in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.588148
+date: 2026-07-10T01:07:47.651353
 url: "/cdr-researcher-census/researchers/fan-yang-a5114833/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jessica Hetzer"
 description: "Jessica Hetzer is a Mid-career General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.499962
+date: 2026-07-10T01:07:48.485434
 url: "/cdr-researcher-census/researchers/jessica-hetzer-a5066980/"
 layout: "researcher"
 hiddenInHomeList: true

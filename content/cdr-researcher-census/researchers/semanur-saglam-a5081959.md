@@ -1,7 +1,7 @@
 ---
 title: "Semanur Sağlam"
 description: "Semanur Sağlam is an Early-career Unknown researcher at Yalova University in TR. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.989306
+date: 2026-07-10T01:07:47.998145
 url: "/cdr-researcher-census/researchers/semanur-saglam-a5081959/"
 layout: "researcher"
 hiddenInHomeList: true

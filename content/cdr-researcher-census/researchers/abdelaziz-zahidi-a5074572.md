@@ -1,7 +1,7 @@
 ---
 title: "Abdelaziz Zahidi"
 description: "Abdelaziz Zahidi is a Senior Soil Carbon researcher at Université Ibn Zohr in MA. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.595851
+date: 2026-07-10T01:07:48.559999
 url: "/cdr-researcher-census/researchers/abdelaziz-zahidi-a5074572/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tiago Silva"
 description: "Tiago Silva is a Mid-career Unknown researcher at University of Lisbon in PT. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.096788
+date: 2026-07-10T01:07:49.005289
 url: "/cdr-researcher-census/researchers/tiago-silva-a5004616/"
 layout: "researcher"
 hiddenInHomeList: true

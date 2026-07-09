@@ -1,7 +1,7 @@
 ---
 title: "Hanna Lee"
 description: "Hanna Lee is a Senior General CDR researcher at Norwegian University of Science and Technology in NO. With 186 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.925104
+date: 2026-07-10T01:07:46.937758
 url: "/cdr-researcher-census/researchers/hanna-lee-a5044293/"
 layout: "researcher"
 hiddenInHomeList: true

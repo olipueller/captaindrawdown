@@ -1,7 +1,7 @@
 ---
 title: "Zhihong Liao"
 description: "Zhihong Liao is a Mid-career Unknown researcher at Guangxi University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.816455
+date: 2026-07-10T01:07:48.752760
 url: "/cdr-researcher-census/researchers/zhihong-liao-a5070648/"
 layout: "researcher"
 hiddenInHomeList: true

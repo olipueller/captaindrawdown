@@ -1,7 +1,7 @@
 ---
 title: "Liang Wei"
 description: "Liang Wei is a Senior Soil Carbon researcher at Ningbo University in CN. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.206276
+date: 2026-07-10T01:07:47.294320
 url: "/cdr-researcher-census/researchers/liang-wei-a5103137/"
 layout: "researcher"
 hiddenInHomeList: true

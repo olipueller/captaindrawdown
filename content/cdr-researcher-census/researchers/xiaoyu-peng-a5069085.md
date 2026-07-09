@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyu Peng"
 description: "Xiaoyu Peng is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.052944
+date: 2026-07-10T01:07:48.966531
 url: "/cdr-researcher-census/researchers/xiaoyu-peng-a5069085/"
 layout: "researcher"
 hiddenInHomeList: true

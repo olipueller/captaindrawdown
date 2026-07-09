@@ -1,7 +1,7 @@
 ---
 title: "Lening Hu"
 description: "Lening Hu is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.889919
+date: 2026-07-10T01:07:47.904779
 url: "/cdr-researcher-census/researchers/lening-hu-a5025163/"
 layout: "researcher"
 hiddenInHomeList: true

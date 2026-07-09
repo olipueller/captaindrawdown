@@ -1,7 +1,7 @@
 ---
 title: "Julius Garbe"
 description: "Julius Garbe is a Mid-career General CDR researcher at University of Potsdam in DE. With 54 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.684335
+date: 2026-07-10T01:07:47.740791
 url: "/cdr-researcher-census/researchers/julius-garbe-a5060985/"
 layout: "researcher"
 hiddenInHomeList: true

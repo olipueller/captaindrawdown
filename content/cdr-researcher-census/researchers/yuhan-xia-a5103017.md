@@ -1,7 +1,7 @@
 ---
 title: "Yuhan Xia"
 description: "Yuhan Xia is a Mid-career Soil Carbon researcher at North Sichuan Medical University in CN. With 53 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.127513
+date: 2026-07-10T01:07:47.215177
 url: "/cdr-researcher-census/researchers/yuhan-xia-a5103017/"
 layout: "researcher"
 hiddenInHomeList: true

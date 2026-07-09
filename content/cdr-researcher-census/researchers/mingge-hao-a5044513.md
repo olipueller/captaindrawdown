@@ -1,7 +1,7 @@
 ---
 title: "Mingge Hao"
 description: "Mingge Hao is an Early-career Biochar researcher at Chang'an University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.921330
+date: 2026-07-10T01:07:48.845114
 url: "/cdr-researcher-census/researchers/mingge-hao-a5044513/"
 layout: "researcher"
 hiddenInHomeList: true

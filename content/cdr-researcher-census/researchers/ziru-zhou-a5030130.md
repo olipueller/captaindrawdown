@@ -1,7 +1,7 @@
 ---
 title: "Ziru Zhou"
 description: "Ziru Zhou is a Mid-career Soil Carbon researcher at North Sichuan Medical University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.445139
+date: 2026-07-10T01:07:48.434771
 url: "/cdr-researcher-census/researchers/ziru-zhou-a5030130/"
 layout: "researcher"
 hiddenInHomeList: true

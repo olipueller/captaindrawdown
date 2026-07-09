@@ -1,7 +1,7 @@
 ---
 title: "Shijuan Wu"
 description: "Shijuan Wu is a Mid-career Unknown researcher at Hubei University of Chinese Medicine in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.497667
+date: 2026-07-10T01:07:47.567451
 url: "/cdr-researcher-census/researchers/shijuan-wu-a5112309/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mahendra S. Kadu"
 description: "Mahendra S. Kadu is a Senior Unknown researcher at Government Ayurved College, Nanded in IN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.903482
+date: 2026-07-10T01:07:47.917890
 url: "/cdr-researcher-census/researchers/mahendra-s-kadu-a5038222/"
 layout: "researcher"
 hiddenInHomeList: true

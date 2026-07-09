@@ -1,7 +1,7 @@
 ---
 title: "Haili Huang"
 description: "Haili Huang is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.926010
+date: 2026-07-10T01:07:47.939430
 url: "/cdr-researcher-census/researchers/haili-huang-a5053816/"
 layout: "researcher"
 hiddenInHomeList: true

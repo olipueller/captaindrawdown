@@ -1,7 +1,7 @@
 ---
 title: "James S. Baker"
 description: "James S. Baker is a Senior Unknown researcher at Leidos (United States) in US. With 53 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.717580
+date: 2026-07-10T01:07:47.771189
 url: "/cdr-researcher-census/researchers/james-s-baker-a5090034/"
 layout: "researcher"
 hiddenInHomeList: true

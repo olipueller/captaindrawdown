@@ -1,7 +1,7 @@
 ---
 title: "Fanhe Kong"
 description: "Fanhe Kong is a Mid-career General CDR researcher at Shandong University in CN. With 26 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.318182
+date: 2026-07-10T01:07:47.400505
 url: "/cdr-researcher-census/researchers/fanhe-kong-a5068059/"
 layout: "researcher"
 hiddenInHomeList: true

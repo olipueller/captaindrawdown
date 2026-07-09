@@ -1,7 +1,7 @@
 ---
 title: "Markus Krüger"
 description: "Markus Krüger is a Mid-career Unknown researcher at Friedrich Schiller University Jena in DE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.501934
+date: 2026-07-10T01:07:48.487493
 url: "/cdr-researcher-census/researchers/markus-kruger-a5101637/"
 layout: "researcher"
 hiddenInHomeList: true

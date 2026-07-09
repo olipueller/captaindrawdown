@@ -1,7 +1,7 @@
 ---
 title: "Lucien Meva’a"
 description: "Lucien Meva’a is a Senior General CDR researcher at Université de Yaoundé I in CM. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.716157
+date: 2026-07-10T01:07:47.769894
 url: "/cdr-researcher-census/researchers/lucien-mevaa-a5112017/"
 layout: "researcher"
 hiddenInHomeList: true

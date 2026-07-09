@@ -1,7 +1,7 @@
 ---
 title: "Alan Ismach"
 description: "Alan Ismach is an Early-career Unknown researcher at University of Washington in US. With 13 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.211733
+date: 2026-07-10T01:07:49.123698
 url: "/cdr-researcher-census/researchers/alan-ismach-a5082526/"
 layout: "researcher"
 hiddenInHomeList: true

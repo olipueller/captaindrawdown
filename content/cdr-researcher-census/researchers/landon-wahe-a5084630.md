@@ -1,7 +1,7 @@
 ---
 title: "Landon Wahe"
 description: "Landon Wahe is a Mid-career Unknown researcher at Iowa State University in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.847512
+date: 2026-07-10T01:07:48.778673
 url: "/cdr-researcher-census/researchers/landon-wahe-a5084630/"
 layout: "researcher"
 hiddenInHomeList: true

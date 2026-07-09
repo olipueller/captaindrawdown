@@ -1,7 +1,7 @@
 ---
 title: "Lal Singh"
 description: "Lal Singh is a Senior Soil Carbon researcher at CSIR- National Environmental Engineering Research Institute in IN. With 96 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.931775
+date: 2026-07-10T01:07:46.950104
 url: "/cdr-researcher-census/researchers/lal-singh-a5070389/"
 layout: "researcher"
 hiddenInHomeList: true

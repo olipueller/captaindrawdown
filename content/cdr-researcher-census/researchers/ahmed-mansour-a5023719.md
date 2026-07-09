@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Mansour"
 description: "Ahmed Mansour is a Senior Soil Carbon researcher at Minia University Faculty of Science in EG. With 100 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.238927
+date: 2026-07-10T01:07:47.325195
 url: "/cdr-researcher-census/researchers/ahmed-mansour-a5023719/"
 layout: "researcher"
 hiddenInHomeList: true

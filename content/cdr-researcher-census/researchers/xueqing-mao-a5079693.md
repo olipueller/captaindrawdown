@@ -1,7 +1,7 @@
 ---
 title: "Xueqing Mao"
 description: "Xueqing Mao is a Senior Unknown researcher at China University of Geosciences in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.902039
+date: 2026-07-10T01:07:48.827470
 url: "/cdr-researcher-census/researchers/xueqing-mao-a5079693/"
 layout: "researcher"
 hiddenInHomeList: true

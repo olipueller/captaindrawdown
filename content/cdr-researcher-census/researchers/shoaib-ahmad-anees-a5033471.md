@@ -1,7 +1,7 @@
 ---
 title: "Shoaib Ahmad Anees"
 description: "Shoaib Ahmad Anees is a Senior Soil Carbon researcher at The University of Agriculture, Peshawar in PK. With 49 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.183291
+date: 2026-07-10T01:07:47.272145
 url: "/cdr-researcher-census/researchers/shoaib-ahmad-anees-a5033471/"
 layout: "researcher"
 hiddenInHomeList: true

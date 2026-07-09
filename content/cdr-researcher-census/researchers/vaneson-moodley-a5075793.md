@@ -1,7 +1,7 @@
 ---
 title: "Vaneson Moodley"
 description: "Vaneson Moodley is a Mid-career Soil Carbon researcher at University of KwaZulu-Natal in ZA. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.748917
+date: 2026-07-10T01:07:48.695707
 url: "/cdr-researcher-census/researchers/vaneson-moodley-a5075793/"
 layout: "researcher"
 hiddenInHomeList: true

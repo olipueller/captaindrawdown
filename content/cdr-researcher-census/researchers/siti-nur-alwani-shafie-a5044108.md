@@ -1,7 +1,7 @@
 ---
 title: "Siti Nur Alwani Shafie"
 description: "Siti Nur Alwani Shafie is a Mid-career Unknown researcher at Universiti Teknologi Petronas in MY. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.253918
+date: 2026-07-10T01:07:49.160907
 url: "/cdr-researcher-census/researchers/siti-nur-alwani-shafie-a5044108/"
 layout: "researcher"
 hiddenInHomeList: true

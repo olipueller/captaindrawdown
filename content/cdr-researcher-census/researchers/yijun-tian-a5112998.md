@@ -1,7 +1,7 @@
 ---
 title: "Yijun Tian"
 description: "Yijun Tian is a Mid-career Biochar researcher at University of Notre Dame in US. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.534829
+date: 2026-07-10T01:07:47.600870
 url: "/cdr-researcher-census/researchers/yijun-tian-a5112998/"
 layout: "researcher"
 hiddenInHomeList: true

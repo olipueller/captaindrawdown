@@ -1,7 +1,7 @@
 ---
 title: "Jing Yi Chin"
 description: "Jing Yi Chin is a Mid-career Unknown researcher at Universiti Sains Malaysia in MY. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.622597
+date: 2026-07-10T01:07:47.683076
 url: "/cdr-researcher-census/researchers/jing-yi-chin-a5081073/"
 layout: "researcher"
 hiddenInHomeList: true

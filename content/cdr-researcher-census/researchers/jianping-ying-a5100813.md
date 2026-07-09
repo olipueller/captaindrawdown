@@ -1,7 +1,7 @@
 ---
 title: "Jianping Ying"
 description: "Jianping Ying is a Senior Soil Carbon researcher at Hainan Marine Monitoring and Forecasting Center in CN. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.482412
+date: 2026-07-10T01:07:47.554381
 url: "/cdr-researcher-census/researchers/jianping-ying-a5100813/"
 layout: "researcher"
 hiddenInHomeList: true

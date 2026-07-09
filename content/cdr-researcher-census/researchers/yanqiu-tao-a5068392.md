@@ -1,7 +1,7 @@
 ---
 title: "Yanqiu Tao"
 description: "Yanqiu Tao is a Mid-career Unknown researcher at Cornell University in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.082394
+date: 2026-07-10T01:07:47.163463
 url: "/cdr-researcher-census/researchers/yanqiu-tao-a5068392/"
 layout: "researcher"
 hiddenInHomeList: true

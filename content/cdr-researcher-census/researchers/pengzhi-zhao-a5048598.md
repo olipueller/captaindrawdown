@@ -1,7 +1,7 @@
 ---
 title: "Pengzhi Zhao"
 description: "Pengzhi Zhao is a Mid-career Soil Carbon researcher at Université Libre de Bruxelles in BE. With 43 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.726260
+date: 2026-07-10T01:07:47.778752
 url: "/cdr-researcher-census/researchers/pengzhi-zhao-a5048598/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yanan Li"
 description: "Yanan Li is a Mid-career Biochar researcher at Tangshan College in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.758982
+date: 2026-07-10T01:07:48.704466
 url: "/cdr-researcher-census/researchers/yanan-li-a5056234/"
 layout: "researcher"
 hiddenInHomeList: true

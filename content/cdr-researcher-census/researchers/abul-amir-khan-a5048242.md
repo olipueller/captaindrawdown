@@ -1,7 +1,7 @@
 ---
 title: "Abul Amir Khan"
 description: "Abul Amir Khan is a Mid-career Unknown researcher at Amity University - Haryana Campus in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.663988
+date: 2026-07-10T01:07:48.620523
 url: "/cdr-researcher-census/researchers/abul-amir-khan-a5048242/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jóhann Þórsson"
 description: "Jóhann Þórsson is a Senior Soil Carbon researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.996194
+date: 2026-07-10T01:07:48.005555
 url: "/cdr-researcher-census/researchers/johann-orsson-a5032503/"
 layout: "researcher"
 hiddenInHomeList: true

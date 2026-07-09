@@ -1,7 +1,7 @@
 ---
 title: "Jorge Freddy Milián Gómez"
 description: "Jorge Freddy Milián Gómez is a Mid-career Soil Carbon researcher at Vrije Universiteit Brussel in BE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.911283
+date: 2026-07-10T01:07:48.836115
 url: "/cdr-researcher-census/researchers/jorge-freddy-milian-gomez-a5004174/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hyunsoo Park"
 description: "Hyunsoo Park is a Senior Unknown researcher at Korea Advanced Institute of Science and Technology in KR. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.324071
+date: 2026-07-10T01:07:47.406165
 url: "/cdr-researcher-census/researchers/hyunsoo-park-a5078836/"
 layout: "researcher"
 hiddenInHomeList: true

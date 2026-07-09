@@ -1,7 +1,7 @@
 ---
 title: "Qingteng Gong"
 description: "Qingteng Gong is a Mid-career Biochar researcher at Beijing University of Technology in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.618877
+date: 2026-07-10T01:07:47.679664
 url: "/cdr-researcher-census/researchers/qingteng-gong-a5111082/"
 layout: "researcher"
 hiddenInHomeList: true

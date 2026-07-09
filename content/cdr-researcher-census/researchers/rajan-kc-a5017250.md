@@ -1,7 +1,7 @@
 ---
 title: "Rajan KC"
 description: "Rajan KC is a Mid-career Unknown researcher at Universal Engineering College in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.871749
+date: 2026-07-10T01:07:48.799890
 url: "/cdr-researcher-census/researchers/rajan-kc-a5017250/"
 layout: "researcher"
 hiddenInHomeList: true

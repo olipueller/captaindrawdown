@@ -1,7 +1,7 @@
 ---
 title: "Qiucheng Zhou"
 description: "Qiucheng Zhou is a Mid-career Unknown researcher at Northwest University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.911758
+date: 2026-07-10T01:07:47.925096
 url: "/cdr-researcher-census/researchers/qiucheng-zhou-a5103780/"
 layout: "researcher"
 hiddenInHomeList: true

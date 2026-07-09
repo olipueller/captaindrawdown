@@ -1,7 +1,7 @@
 ---
 title: "Suryansh Suryansh"
 description: "Suryansh Suryansh is a Mid-career Unknown researcher at University of Iowa in US. With 19 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.285312
+date: 2026-07-10T01:07:48.290399
 url: "/cdr-researcher-census/researchers/suryansh-suryansh-a5021462/"
 layout: "researcher"
 hiddenInHomeList: true

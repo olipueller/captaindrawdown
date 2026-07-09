@@ -1,7 +1,7 @@
 ---
 title: "Jing Tian"
 description: "Jing Tian is a Senior Biochar researcher at Shanxi Normal University in CN. With 65 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.088677
+date: 2026-07-10T01:07:47.171101
 url: "/cdr-researcher-census/researchers/jing-tian-a5031141/"
 layout: "researcher"
 hiddenInHomeList: true

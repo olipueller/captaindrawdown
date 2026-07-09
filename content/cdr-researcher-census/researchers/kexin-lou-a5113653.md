@@ -1,7 +1,7 @@
 ---
 title: "Kexin Lou"
 description: "Kexin Lou is a Senior Unknown researcher at Xuzhou Central Hospital in CN. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.429510
+date: 2026-07-10T01:07:47.507414
 url: "/cdr-researcher-census/researchers/kexin-lou-a5113653/"
 layout: "researcher"
 hiddenInHomeList: true

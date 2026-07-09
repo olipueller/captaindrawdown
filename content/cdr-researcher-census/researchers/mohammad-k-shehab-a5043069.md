@@ -1,7 +1,7 @@
 ---
 title: "Mohammad K. Shehab"
 description: "Mohammad K. Shehab is a Senior Unknown researcher at Northwestern University in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.790412
+date: 2026-07-10T01:07:47.839165
 url: "/cdr-researcher-census/researchers/mohammad-k-shehab-a5043069/"
 layout: "researcher"
 hiddenInHomeList: true

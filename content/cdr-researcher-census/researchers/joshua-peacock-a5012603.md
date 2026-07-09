@@ -1,7 +1,7 @@
 ---
 title: "Joshua Peacock"
 description: "Joshua Peacock is a Mid-career General CDR researcher at Emory University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.869194
+date: 2026-07-10T01:07:48.797740
 url: "/cdr-researcher-census/researchers/joshua-peacock-a5012603/"
 layout: "researcher"
 hiddenInHomeList: true

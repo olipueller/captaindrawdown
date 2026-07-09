@@ -1,7 +1,7 @@
 ---
 title: "Yerim Byun"
 description: "Yerim Byun is a Senior Biochar researcher at Dong-A University in KR. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.205903
+date: 2026-07-10T01:07:49.118410
 url: "/cdr-researcher-census/researchers/yerim-byun-a5113820/"
 layout: "researcher"
 hiddenInHomeList: true

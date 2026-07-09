@@ -1,7 +1,7 @@
 ---
 title: "Songchao Chen"
 description: "Songchao Chen is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 274 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.906418
+date: 2026-07-10T01:07:46.900989
 url: "/cdr-researcher-census/researchers/songchao-chen-a5080056/"
 layout: "researcher"
 hiddenInHomeList: true

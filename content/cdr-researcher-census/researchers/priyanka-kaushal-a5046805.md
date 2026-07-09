@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Kaushal"
 description: "Priyanka Kaushal is a Senior Biochar researcher at Chandigarh University in IN. With 126 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.031581
+date: 2026-07-10T01:07:47.100776
 url: "/cdr-researcher-census/researchers/priyanka-kaushal-a5046805/"
 layout: "researcher"
 hiddenInHomeList: true

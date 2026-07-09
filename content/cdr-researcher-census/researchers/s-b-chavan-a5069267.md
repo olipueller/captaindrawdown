@@ -1,7 +1,7 @@
 ---
 title: "S. B. Chavan"
 description: "S. B. Chavan is a Senior Soil Carbon researcher at National Research Centre for Agroforestry in IN. With 86 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.142109
+date: 2026-07-10T01:07:47.230932
 url: "/cdr-researcher-census/researchers/s-b-chavan-a5069267/"
 layout: "researcher"
 hiddenInHomeList: true

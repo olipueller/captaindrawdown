@@ -1,7 +1,7 @@
 ---
 title: "Bang-Cheng Lyu"
 description: "Bang-Cheng Lyu is a Mid-career Unknown researcher at Southeast University in BD. With 16 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.342052
+date: 2026-07-10T01:07:47.425031
 url: "/cdr-researcher-census/researchers/bang-cheng-lyu-a5003654/"
 layout: "researcher"
 hiddenInHomeList: true

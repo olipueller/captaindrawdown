@@ -1,7 +1,7 @@
 ---
 title: "Cassendra P. C. Bong"
 description: "Cassendra P. C. Bong is a Mid-career General CDR researcher at University of Technology Malaysia in MY. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.835507
+date: 2026-07-10T01:07:47.871731
 url: "/cdr-researcher-census/researchers/cassendra-p-c-bong-a5110655/"
 layout: "researcher"
 hiddenInHomeList: true

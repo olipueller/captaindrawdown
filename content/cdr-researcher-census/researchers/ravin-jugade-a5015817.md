@@ -1,7 +1,7 @@
 ---
 title: "Ravin Jugade"
 description: "Ravin Jugade is a Senior Biochar researcher at Rashtrasant Tukadoji Maharaj Nagpur University in IN. With 113 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.046270
+date: 2026-07-10T01:07:47.120017
 url: "/cdr-researcher-census/researchers/ravin-jugade-a5015817/"
 layout: "researcher"
 hiddenInHomeList: true

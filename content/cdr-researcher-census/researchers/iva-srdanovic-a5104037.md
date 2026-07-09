@@ -1,7 +1,7 @@
 ---
 title: "Iva Srdanovic"
 description: "Iva Srdanovic is a Mid-career Unknown researcher at Icahn School of Medicine at Mount Sinai in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.585356
+date: 2026-07-10T01:07:47.648815
 url: "/cdr-researcher-census/researchers/iva-srdanovic-a5104037/"
 layout: "researcher"
 hiddenInHomeList: true

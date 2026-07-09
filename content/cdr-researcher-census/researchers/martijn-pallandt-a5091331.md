@@ -1,7 +1,7 @@
 ---
 title: "Martijn Pallandt"
 description: "Martijn Pallandt is a Mid-career Soil Carbon researcher at Bolin Centre for Climate Research in SE. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.209200
+date: 2026-07-10T01:07:47.297135
 url: "/cdr-researcher-census/researchers/martijn-pallandt-a5091331/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jia Kong"
 description: "Jia Kong is a Mid-career Ocean CDR researcher at Hebei University of Technology in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.651285
+date: 2026-07-10T01:07:47.709417
 url: "/cdr-researcher-census/researchers/jia-kong-a5020885/"
 layout: "researcher"
 hiddenInHomeList: true

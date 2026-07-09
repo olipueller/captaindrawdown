@@ -1,7 +1,7 @@
 ---
 title: "Jinyan Pang"
 description: "Jinyan Pang is an Early-career Unknown researcher at Capital Medical University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.777704
+date: 2026-07-10T01:07:48.721539
 url: "/cdr-researcher-census/researchers/jinyan-pang-a5057498/"
 layout: "researcher"
 hiddenInHomeList: true

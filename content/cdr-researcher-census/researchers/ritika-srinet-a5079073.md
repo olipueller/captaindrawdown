@@ -1,7 +1,7 @@
 ---
 title: "Ritika Srinet"
 description: "Ritika Srinet is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.360042
+date: 2026-07-10T01:07:47.441783
 url: "/cdr-researcher-census/researchers/ritika-srinet-a5079073/"
 layout: "researcher"
 hiddenInHomeList: true

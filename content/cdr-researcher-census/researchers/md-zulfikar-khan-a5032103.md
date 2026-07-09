@@ -1,7 +1,7 @@
 ---
 title: "Md. Zulfikar Khan"
 description: "Md. Zulfikar Khan is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in BD. With 47 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.524558
+date: 2026-07-10T01:07:47.591187
 url: "/cdr-researcher-census/researchers/md-zulfikar-khan-a5032103/"
 layout: "researcher"
 hiddenInHomeList: true

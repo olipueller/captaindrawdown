@@ -1,7 +1,7 @@
 ---
 title: "Nele Janssen"
 description: "Nele Janssen is a Mid-career Unknown researcher at KU Leuven in BE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.739143
+date: 2026-07-10T01:07:48.686743
 url: "/cdr-researcher-census/researchers/nele-janssen-a5086413/"
 layout: "researcher"
 hiddenInHomeList: true

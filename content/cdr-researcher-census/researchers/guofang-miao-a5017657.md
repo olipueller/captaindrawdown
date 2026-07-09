@@ -1,7 +1,7 @@
 ---
 title: "Guofang Miao"
 description: "Guofang Miao is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 75 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.041984
+date: 2026-07-10T01:07:47.114958
 url: "/cdr-researcher-census/researchers/guofang-miao-a5017657/"
 layout: "researcher"
 hiddenInHomeList: true

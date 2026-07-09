@@ -1,7 +1,7 @@
 ---
 title: "Donald A Masquelier"
 description: "Donald A Masquelier is a Senior Unknown researcher at John Tracy Clinic in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.901613
+date: 2026-07-10T01:07:46.890439
 url: "/cdr-researcher-census/researchers/donald-a-masquelier-a5026079/"
 layout: "researcher"
 hiddenInHomeList: true

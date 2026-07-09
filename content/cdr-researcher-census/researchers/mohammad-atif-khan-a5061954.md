@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Atif Khan"
 description: "Mohammad Atif Khan is a Mid-career Unknown researcher at Physical Research Laboratory in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.033718
+date: 2026-07-10T01:07:48.948682
 url: "/cdr-researcher-census/researchers/mohammad-atif-khan-a5061954/"
 layout: "researcher"
 hiddenInHomeList: true

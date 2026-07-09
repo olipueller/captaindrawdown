@@ -1,7 +1,7 @@
 ---
 title: "Xingfa Li"
 description: "Xingfa Li is a Senior Biochar researcher at Shanxi University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.700701
+date: 2026-07-10T01:07:47.755685
 url: "/cdr-researcher-census/researchers/xingfa-li-a5045311/"
 layout: "researcher"
 hiddenInHomeList: true

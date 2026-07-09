@@ -1,7 +1,7 @@
 ---
 title: "Yueshi Li"
 description: "Yueshi Li is an Early-career Soil Carbon researcher at Zhaoqing University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.062910
+date: 2026-07-10T01:07:48.975273
 url: "/cdr-researcher-census/researchers/yueshi-li-a5024987/"
 layout: "researcher"
 hiddenInHomeList: true

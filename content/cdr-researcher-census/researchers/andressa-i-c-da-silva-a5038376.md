@@ -1,7 +1,7 @@
 ---
 title: "Andressa I. C. da Silva"
 description: "Andressa I. C. da Silva is a Mid-career Biochar researcher at Universidade do Estado do Rio de Janeiro in BR. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.629988
+date: 2026-07-10T01:07:48.589812
 url: "/cdr-researcher-census/researchers/andressa-i-c-da-silva-a5038376/"
 layout: "researcher"
 hiddenInHomeList: true

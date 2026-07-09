@@ -1,7 +1,7 @@
 ---
 title: "Emel Hasan Yusuf"
 description: "Emel Hasan Yusuf is a Mid-career Unknown researcher at University College Dublin in IE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.852506
+date: 2026-07-10T01:07:48.783220
 url: "/cdr-researcher-census/researchers/emel-hasan-yusuf-a5077217/"
 layout: "researcher"
 hiddenInHomeList: true

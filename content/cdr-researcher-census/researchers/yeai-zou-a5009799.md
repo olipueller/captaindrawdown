@@ -1,7 +1,7 @@
 ---
 title: "Yeai Zou"
 description: "Yeai Zou is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 56 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.169250
+date: 2026-07-10T01:07:47.258877
 url: "/cdr-researcher-census/researchers/yeai-zou-a5009799/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jenna Greene"
 description: "Jenna Greene is a Mid-career General CDR researcher at University of Wisconsin–Madison in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.657967
+date: 2026-07-10T01:07:48.615536
 url: "/cdr-researcher-census/researchers/jenna-greene-a5085705/"
 layout: "researcher"
 hiddenInHomeList: true

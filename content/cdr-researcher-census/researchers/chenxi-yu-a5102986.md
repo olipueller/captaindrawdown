@@ -1,7 +1,7 @@
 ---
 title: "Chenxi Yu"
 description: "Chenxi Yu is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.355812
+date: 2026-07-10T01:07:47.437840
 url: "/cdr-researcher-census/researchers/chenxi-yu-a5102986/"
 layout: "researcher"
 hiddenInHomeList: true

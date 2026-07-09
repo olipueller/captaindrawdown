@@ -1,7 +1,7 @@
 ---
 title: "Fogelina Cuperus"
 description: "Fogelina Cuperus is a Mid-career Soil Carbon researcher at Field Crops Research Institute in VN. With 41 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.334682
+date: 2026-07-10T01:07:48.335042
 url: "/cdr-researcher-census/researchers/fogelina-cuperus-a5018750/"
 layout: "researcher"
 hiddenInHomeList: true

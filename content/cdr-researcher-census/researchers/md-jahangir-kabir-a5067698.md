@@ -1,7 +1,7 @@
 ---
 title: "Md Jahangir Kabir"
 description: "Md Jahangir Kabir is a Senior Soil Carbon researcher at University of Southern Queensland in AU. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.799657
+date: 2026-07-10T01:07:48.738627
 url: "/cdr-researcher-census/researchers/md-jahangir-kabir-a5067698/"
 layout: "researcher"
 hiddenInHomeList: true

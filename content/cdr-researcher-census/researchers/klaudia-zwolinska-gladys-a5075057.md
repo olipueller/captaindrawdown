@@ -1,7 +1,7 @@
 ---
 title: "Klaudia Zwolińska-Glądys"
 description: "Klaudia Zwolińska-Glądys is a Mid-career Unknown researcher at Jagiellonian University in PL. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.400572
+date: 2026-07-10T01:07:48.392437
 url: "/cdr-researcher-census/researchers/klaudia-zwolinska-gladys-a5075057/"
 layout: "researcher"
 hiddenInHomeList: true

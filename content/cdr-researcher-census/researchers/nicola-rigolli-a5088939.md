@@ -1,7 +1,7 @@
 ---
 title: "Nicola Rigolli"
 description: "Nicola Rigolli is a Mid-career Unknown researcher at Centre National de la Recherche Scientifique in FR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.067147
+date: 2026-07-10T01:07:48.978710
 url: "/cdr-researcher-census/researchers/nicola-rigolli-a5088939/"
 layout: "researcher"
 hiddenInHomeList: true

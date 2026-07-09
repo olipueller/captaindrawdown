@@ -1,7 +1,7 @@
 ---
 title: "Jianing Liang"
 description: "Jianing Liang is a Mid-career Soil Carbon researcher at Dalian University of Technology in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.120157
+date: 2026-07-10T01:07:49.025889
 url: "/cdr-researcher-census/researchers/jianing-liang-a5111945/"
 layout: "researcher"
 hiddenInHomeList: true

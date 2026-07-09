@@ -1,7 +1,7 @@
 ---
 title: "Neeldip Barman"
 description: "Neeldip Barman is a Mid-career Unknown researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.258339
+date: 2026-07-10T01:07:49.164987
 url: "/cdr-researcher-census/researchers/neeldip-barman-a5056555/"
 layout: "researcher"
 hiddenInHomeList: true

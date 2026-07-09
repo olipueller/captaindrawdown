@@ -1,7 +1,7 @@
 ---
 title: "Francis X. Johnson"
 description: "Francis X. Johnson is a Senior General CDR researcher at Stockholm Environment Institute in SE. With 125 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.934159
+date: 2026-07-10T01:07:46.954164
 url: "/cdr-researcher-census/researchers/francis-x-johnson-a5019735/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "D. R. K. Saikanth"
 description: "D. R. K. Saikanth is a Mid-career Soil Carbon researcher at Immunotherapy Centre for Prevention of Repeated Miscarriages in IN. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.523436
+date: 2026-07-10T01:07:47.590194
 url: "/cdr-researcher-census/researchers/d-r-k-saikanth-a5058973/"
 layout: "researcher"
 hiddenInHomeList: true

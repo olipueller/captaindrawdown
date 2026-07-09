@@ -1,7 +1,7 @@
 ---
 title: "Ramanathan Raju"
 description: "Ramanathan Raju is a Senior Unknown researcher at Indian Institute of Technology Kharagpur in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.673413
+date: 2026-07-10T01:07:48.629279
 url: "/cdr-researcher-census/researchers/ramanathan-raju-a5109426/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sudeep Mudhulu"
 description: "Sudeep Mudhulu is a Mid-career Unknown researcher at Institut Teknologi dan Sains Mandala. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.774470
+date: 2026-07-10T01:07:48.718410
 url: "/cdr-researcher-census/researchers/sudeep-mudhulu-a5039037/"
 layout: "researcher"
 hiddenInHomeList: true

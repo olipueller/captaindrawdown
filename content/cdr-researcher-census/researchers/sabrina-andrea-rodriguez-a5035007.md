@@ -1,7 +1,7 @@
 ---
 title: "Sabrina Andrea Rodríguez"
 description: "Sabrina Andrea Rodríguez is a Mid-career Soil Carbon researcher at Universidad Nacional de La Plata in AR. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.934105
+date: 2026-07-10T01:07:47.947004
 url: "/cdr-researcher-census/researchers/sabrina-andrea-rodriguez-a5035007/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Siti Salwa Mohammad Shirajuddin"
 description: "Siti Salwa Mohammad Shirajuddin is a Mid-career Unknown researcher at Malaysian Nuclear Agency in MY. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.097407
+date: 2026-07-10T01:07:49.005906
 url: "/cdr-researcher-census/researchers/siti-salwa-mohammad-shirajuddin-a5065483/"
 layout: "researcher"
 hiddenInHomeList: true

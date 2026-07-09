@@ -1,7 +1,7 @@
 ---
 title: "Giulia Simonetti"
 description: "Giulia Simonetti is a Mid-career Biochar researcher at Universita` degli Studi di ROMA \"La Sapienza\" in IT. With 62 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.222827
+date: 2026-07-10T01:07:47.309977
 url: "/cdr-researcher-census/researchers/giulia-simonetti-a5004641/"
 layout: "researcher"
 hiddenInHomeList: true

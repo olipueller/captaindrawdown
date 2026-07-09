@@ -1,7 +1,7 @@
 ---
 title: "Shihao Jia"
 description: "Shihao Jia is a Mid-career Unknown researcher at Hainan Normal University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.215703
+date: 2026-07-10T01:07:49.126986
 url: "/cdr-researcher-census/researchers/shihao-jia-a5030514/"
 layout: "researcher"
 hiddenInHomeList: true

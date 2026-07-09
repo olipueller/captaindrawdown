@@ -1,7 +1,7 @@
 ---
 title: "Jamie Bowyer"
 description: "Jamie Bowyer is an Early-career Soil Carbon researcher at Government of Western Australia in AU. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.961254
+date: 2026-07-10T01:07:47.971752
 url: "/cdr-researcher-census/researchers/jamie-bowyer-a5088259/"
 layout: "researcher"
 hiddenInHomeList: true

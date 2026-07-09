@@ -1,7 +1,7 @@
 ---
 title: "Cecilie Halling"
 description: "Cecilie Halling is a Mid-career Unknown researcher at Nationwide Children's Hospital in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.378520
+date: 2026-07-10T01:07:48.374761
 url: "/cdr-researcher-census/researchers/cecilie-halling-a5064668/"
 layout: "researcher"
 hiddenInHomeList: true

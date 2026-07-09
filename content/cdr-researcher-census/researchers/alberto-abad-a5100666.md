@@ -1,7 +1,7 @@
 ---
 title: "Alberto Abad"
 description: "Alberto Abad is an Eminent BECCS researcher at Instituto de Carboquímica in ES. With 283 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.883626
+date: 2026-07-10T01:07:46.844951
 url: "/cdr-researcher-census/researchers/alberto-abad-a5100666/"
 layout: "researcher"
 hiddenInHomeList: true

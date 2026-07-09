@@ -1,7 +1,7 @@
 ---
 title: "Brad M. Isaacson"
 description: "Brad M. Isaacson is a Senior Unknown researcher at Intermountain Healthcare in US. With 64 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.402920
+date: 2026-07-10T01:07:47.483198
 url: "/cdr-researcher-census/researchers/brad-m-isaacson-a5069516/"
 layout: "researcher"
 hiddenInHomeList: true

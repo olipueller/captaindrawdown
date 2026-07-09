@@ -1,7 +1,7 @@
 ---
 title: "Anne‐Lise Santoni"
 description: "Anne‐Lise Santoni is a Senior General CDR researcher at Centre National de la Recherche Scientifique in FR. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.782848
+date: 2026-07-10T01:07:47.831454
 url: "/cdr-researcher-census/researchers/annelise-santoni-a5014936/"
 layout: "researcher"
 hiddenInHomeList: true

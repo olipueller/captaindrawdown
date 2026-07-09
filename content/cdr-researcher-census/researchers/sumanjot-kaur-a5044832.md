@@ -1,7 +1,7 @@
 ---
 title: "Sumanjot Kaur"
 description: "Sumanjot Kaur is a Mid-career Unknown researcher at University of Arkansas at Fayetteville in US. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.096104
+date: 2026-07-10T01:07:49.004643
 url: "/cdr-researcher-census/researchers/sumanjot-kaur-a5044832/"
 layout: "researcher"
 hiddenInHomeList: true

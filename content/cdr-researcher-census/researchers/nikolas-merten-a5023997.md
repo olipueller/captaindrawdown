@@ -1,7 +1,7 @@
 ---
 title: "Nikolas Merten"
 description: "Nikolas Merten is an Early-career Unknown researcher at Chicago Metropolitan Agency for Planning in US. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.657600
+date: 2026-07-10T01:07:48.615207
 url: "/cdr-researcher-census/researchers/nikolas-merten-a5023997/"
 layout: "researcher"
 hiddenInHomeList: true

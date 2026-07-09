@@ -1,7 +1,7 @@
 ---
 title: "Kathleen B. Aviso"
 description: "Kathleen B. Aviso is an Eminent General CDR researcher at De La Salle University in PH. With 322 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.940330
+date: 2026-07-10T01:07:46.965644
 url: "/cdr-researcher-census/researchers/kathleen-b-aviso-a5009843/"
 layout: "researcher"
 hiddenInHomeList: true

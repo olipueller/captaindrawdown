@@ -1,7 +1,7 @@
 ---
 title: "Muriel Ferrer"
 description: "Muriel Ferrer is a Senior Unknown researcher at Universitat Pompeu Fabra in ES. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.152272
+date: 2026-07-10T01:07:48.171977
 url: "/cdr-researcher-census/researchers/muriel-ferrer-a5064969/"
 layout: "researcher"
 hiddenInHomeList: true

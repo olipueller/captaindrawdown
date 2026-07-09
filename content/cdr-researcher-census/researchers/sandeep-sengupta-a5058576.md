@@ -1,7 +1,7 @@
 ---
 title: "Sandeep Sengupta"
 description: "Sandeep Sengupta is a Mid-career Ocean CDR researcher at International Union for Conservation of Nature (United States) in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.946238
+date: 2026-07-10T01:07:47.958187
 url: "/cdr-researcher-census/researchers/sandeep-sengupta-a5058576/"
 layout: "researcher"
 hiddenInHomeList: true

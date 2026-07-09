@@ -1,7 +1,7 @@
 ---
 title: "Lê Thanh Hải"
 description: "Lê Thanh Hải is a Mid-career Soil Carbon researcher at Vietnam National University Ho Chi Minh City in VN. With 44 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.134581
+date: 2026-07-10T01:07:48.156584
 url: "/cdr-researcher-census/researchers/le-thanh-hai-a5000975/"
 layout: "researcher"
 hiddenInHomeList: true

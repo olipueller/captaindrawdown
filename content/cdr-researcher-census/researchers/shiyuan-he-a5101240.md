@@ -1,7 +1,7 @@
 ---
 title: "Shiyuan He"
 description: "Shiyuan He is a Mid-career Biochar researcher at Guangxi University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.780847
+date: 2026-07-10T01:07:48.723803
 url: "/cdr-researcher-census/researchers/shiyuan-he-a5101240/"
 layout: "researcher"
 hiddenInHomeList: true

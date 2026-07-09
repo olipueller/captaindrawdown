@@ -1,7 +1,7 @@
 ---
 title: "Ameen Shahid"
 description: "Ameen Shahid is a Mid-career Unknown researcher at New Uzbekistan University in UZ. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.642270
+date: 2026-07-10T01:07:47.701360
 url: "/cdr-researcher-census/researchers/ameen-shahid-a5032526/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chengming You"
 description: "Chengming You is a Senior Soil Carbon researcher at 四川农业大学 in CN. With 115 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.091594
+date: 2026-07-10T01:07:47.174424
 url: "/cdr-researcher-census/researchers/chengming-you-a5013958/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zixuan Xu"
 description: "Zixuan Xu is a Mid-career Unknown researcher at Qingdao Agricultural University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.443528
+date: 2026-07-10T01:07:48.433307
 url: "/cdr-researcher-census/researchers/zixuan-xu-a5005015/"
 layout: "researcher"
 hiddenInHomeList: true

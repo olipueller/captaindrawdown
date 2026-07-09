@@ -1,7 +1,7 @@
 ---
 title: "Monique Patzner"
 description: "Monique Patzner is a Mid-career Soil Carbon researcher at University of Tübingen in DE. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.488839
+date: 2026-07-10T01:07:47.560057
 url: "/cdr-researcher-census/researchers/monique-patzner-a5084037/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Konstantinos Theologou"
 description: "Konstantinos Theologou is a Mid-career Unknown researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.104719
+date: 2026-07-10T01:07:49.012676
 url: "/cdr-researcher-census/researchers/konstantinos-theologou-a5073036/"
 layout: "researcher"
 hiddenInHomeList: true

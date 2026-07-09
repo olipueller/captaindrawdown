@@ -1,7 +1,7 @@
 ---
 title: "Joel S. Hayworth"
 description: "Joel S. Hayworth is a Senior General CDR researcher at Auburn University in US. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.243654
+date: 2026-07-10T01:07:47.329520
 url: "/cdr-researcher-census/researchers/joel-s-hayworth-a5037788/"
 layout: "researcher"
 hiddenInHomeList: true

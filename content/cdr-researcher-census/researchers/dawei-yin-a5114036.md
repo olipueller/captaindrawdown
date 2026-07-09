@@ -1,7 +1,7 @@
 ---
 title: "Dawei Yin"
 description: "Dawei Yin is a Mid-career Soil Carbon researcher at Heilongjiang Bayi Agricultural University in CN. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.842172
+date: 2026-07-10T01:07:47.877731
 url: "/cdr-researcher-census/researchers/dawei-yin-a5114036/"
 layout: "researcher"
 hiddenInHomeList: true

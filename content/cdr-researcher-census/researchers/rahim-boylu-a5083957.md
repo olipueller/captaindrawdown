@@ -1,7 +1,7 @@
 ---
 title: "Rahim Boylu"
 description: "Rahim Boylu is a Mid-career General CDR researcher at University of Alabama in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.045739
+date: 2026-07-10T01:07:48.051247
 url: "/cdr-researcher-census/researchers/rahim-boylu-a5083957/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kimiya Yousefi"
 description: "Kimiya Yousefi is an Early-career Unknown researcher at East Carolina University in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.736550
+date: 2026-07-10T01:07:48.684618
 url: "/cdr-researcher-census/researchers/kimiya-yousefi-a5007327/"
 layout: "researcher"
 hiddenInHomeList: true

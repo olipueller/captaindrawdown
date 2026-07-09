@@ -1,7 +1,7 @@
 ---
 title: "Bharat Sharma Acharya"
 description: "Bharat Sharma Acharya is a Senior Soil Carbon researcher at Rodale Institute-Southeast Organic Center in US. With 70 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.035648
+date: 2026-07-10T01:07:47.106279
 url: "/cdr-researcher-census/researchers/bharat-sharma-acharya-a5054143/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Liyan Tao"
 description: "Liyan Tao is a Mid-career Unknown researcher at Imperial College London in GB. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.335749
+date: 2026-07-10T01:07:48.335975
 url: "/cdr-researcher-census/researchers/liyan-tao-a5037112/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hangqian Li"
 description: "Hangqian Li is an Early-career Ocean CDR researcher at Xiamen University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.018984
+date: 2026-07-10T01:07:48.935013
 url: "/cdr-researcher-census/researchers/hangqian-li-a5032047/"
 layout: "researcher"
 hiddenInHomeList: true

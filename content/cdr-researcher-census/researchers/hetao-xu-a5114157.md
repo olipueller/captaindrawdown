@@ -1,7 +1,7 @@
 ---
 title: "Hetao Xu"
 description: "Hetao Xu is a Mid-career Unknown researcher at Fuzhou University in CN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.904887
+date: 2026-07-10T01:07:47.919017
 url: "/cdr-researcher-census/researchers/hetao-xu-a5114157/"
 layout: "researcher"
 hiddenInHomeList: true

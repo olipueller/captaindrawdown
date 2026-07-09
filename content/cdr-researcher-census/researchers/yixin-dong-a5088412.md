@@ -1,7 +1,7 @@
 ---
 title: "Yixin Dong"
 description: "Yixin Dong is a Senior Enhanced Weathering researcher at Jimei University in CN. With 105 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.047794
+date: 2026-07-10T01:07:47.122236
 url: "/cdr-researcher-census/researchers/yixin-dong-a5088412/"
 layout: "researcher"
 hiddenInHomeList: true

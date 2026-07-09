@@ -1,7 +1,7 @@
 ---
 title: "Erik S. Yando"
 description: "Erik S. Yando is a Mid-career Soil Carbon researcher at Old Dominion University in US. With 34 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.234301
+date: 2026-07-10T01:07:47.321157
 url: "/cdr-researcher-census/researchers/erik-s-yando-a5086043/"
 layout: "researcher"
 hiddenInHomeList: true

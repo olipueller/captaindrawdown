@@ -1,7 +1,7 @@
 ---
 title: "Cunbao Huo"
 description: "Cunbao Huo is a Mid-career Unknown researcher at Xi'an Jiaotong University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.167812
+date: 2026-07-10T01:07:48.184872
 url: "/cdr-researcher-census/researchers/cunbao-huo-a5111144/"
 layout: "researcher"
 hiddenInHomeList: true

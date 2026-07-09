@@ -1,7 +1,7 @@
 ---
 title: "Bryan Hughes"
 description: "Bryan Hughes is a Senior Unknown researcher at National Energy Technology Laboratory in US. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.235156
+date: 2026-07-10T01:07:47.321812
 url: "/cdr-researcher-census/researchers/bryan-hughes-a5037765/"
 layout: "researcher"
 hiddenInHomeList: true

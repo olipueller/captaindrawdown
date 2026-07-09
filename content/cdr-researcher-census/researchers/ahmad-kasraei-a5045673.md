@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Kasraei"
 description: "Ahmad Kasraei is a Mid-career Unknown researcher at Luleå University of Technology in SE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.547734
+date: 2026-07-10T01:07:48.527960
 url: "/cdr-researcher-census/researchers/ahmad-kasraei-a5045673/"
 layout: "researcher"
 hiddenInHomeList: true

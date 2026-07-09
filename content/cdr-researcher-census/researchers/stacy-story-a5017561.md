@@ -1,7 +1,7 @@
 ---
 title: "Stacy Story"
 description: "Stacy Story is a Senior Unknown researcher at Columbia College in CA. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.046994
+date: 2026-07-10T01:07:48.052312
 url: "/cdr-researcher-census/researchers/stacy-story-a5017561/"
 layout: "researcher"
 hiddenInHomeList: true

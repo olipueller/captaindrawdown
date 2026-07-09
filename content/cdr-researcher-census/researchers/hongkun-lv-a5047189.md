@@ -1,7 +1,7 @@
 ---
 title: "Hongkun Lv"
 description: "Hongkun Lv is a Mid-career Unknown researcher at State Grid Corporation of China (China) in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.920426
+date: 2026-07-10T01:07:48.844259
 url: "/cdr-researcher-census/researchers/hongkun-lv-a5047189/"
 layout: "researcher"
 hiddenInHomeList: true

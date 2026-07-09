@@ -1,7 +1,7 @@
 ---
 title: "Junchao Jia"
 description: "Junchao Jia is a Mid-career Biochar researcher at Shaanxi Science and Technology Department in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.379884
+date: 2026-07-10T01:07:48.375954
 url: "/cdr-researcher-census/researchers/junchao-jia-a5091304/"
 layout: "researcher"
 hiddenInHomeList: true

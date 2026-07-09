@@ -1,7 +1,7 @@
 ---
 title: "Anne Brisset"
 description: "Anne Brisset is a Mid-career Unknown researcher at Total (France) in FR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.870089
+date: 2026-07-10T01:07:48.798456
 url: "/cdr-researcher-census/researchers/anne-brisset-a5078189/"
 layout: "researcher"
 hiddenInHomeList: true

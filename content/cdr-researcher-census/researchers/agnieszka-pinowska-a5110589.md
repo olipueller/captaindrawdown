@@ -1,7 +1,7 @@
 ---
 title: "Agnieszka Pinowska"
 description: "Agnieszka Pinowska is a Senior Unknown researcher at Global Algae Innovations (United States) in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.632558
+date: 2026-07-10T01:07:48.592045
 url: "/cdr-researcher-census/researchers/agnieszka-pinowska-a5110589/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Blessing Onyinye Okafor"
 description: "Blessing Onyinye Okafor is a Mid-career Unknown researcher at Chukwuemeka Odumegwu Ojukwu University in NG. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.187860
+date: 2026-07-10T01:07:48.202723
 url: "/cdr-researcher-census/researchers/blessing-onyinye-okafor-a5029257/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Douglas Goodwin"
 description: "Douglas Goodwin is a Mid-career Soil Carbon researcher at Texas A&M University System in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.714397
+date: 2026-07-10T01:07:48.665224
 url: "/cdr-researcher-census/researchers/douglas-goodwin-a5011574/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kyle Hofstetter"
 description: "Kyle Hofstetter is a Mid-career General CDR researcher at BP (Canada) in CA. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.354426
+date: 2026-07-10T01:07:47.436416
 url: "/cdr-researcher-census/researchers/kyle-hofstetter-a5065822/"
 layout: "researcher"
 hiddenInHomeList: true

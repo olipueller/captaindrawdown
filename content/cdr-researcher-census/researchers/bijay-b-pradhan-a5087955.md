@@ -1,7 +1,7 @@
 ---
 title: "Bijay B. Pradhan"
 description: "Bijay B. Pradhan is a Mid-career General CDR researcher at Thammasat University in TH. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.985426
+date: 2026-07-10T01:07:47.994590
 url: "/cdr-researcher-census/researchers/bijay-b-pradhan-a5087955/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "H. Schultz"
 description: "H. Schultz is a Senior Unknown researcher at Potsdam Institute for Climate Impact Research in DE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.903379
+date: 2026-07-10T01:07:47.917800
 url: "/cdr-researcher-census/researchers/h-schultz-a5024829/"
 layout: "researcher"
 hiddenInHomeList: true

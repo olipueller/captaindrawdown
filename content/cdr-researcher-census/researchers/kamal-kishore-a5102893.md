@@ -1,7 +1,7 @@
 ---
 title: "Kamal Kishore"
 description: "Kamal Kishore is a Senior Soil Carbon researcher at PepsiCo (United Kingdom) in GB. With 41 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.694110
+date: 2026-07-10T01:07:48.647331
 url: "/cdr-researcher-census/researchers/kamal-kishore-a5102893/"
 layout: "researcher"
 hiddenInHomeList: true

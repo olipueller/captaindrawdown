@@ -1,7 +1,7 @@
 ---
 title: "Minna Ho"
 description: "Minna Ho is a Mid-career Ocean CDR researcher at Southern California Coastal Water Research Project in US. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.333873
+date: 2026-07-10T01:07:48.334015
 url: "/cdr-researcher-census/researchers/minna-ho-a5071290/"
 layout: "researcher"
 hiddenInHomeList: true

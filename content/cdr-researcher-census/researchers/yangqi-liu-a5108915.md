@@ -1,7 +1,7 @@
 ---
 title: "Yangqi Liu"
 description: "Yangqi Liu is an Early-career Unknown researcher at East China Normal University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.901641
+date: 2026-07-10T01:07:48.827099
 url: "/cdr-researcher-census/researchers/yangqi-liu-a5108915/"
 layout: "researcher"
 hiddenInHomeList: true

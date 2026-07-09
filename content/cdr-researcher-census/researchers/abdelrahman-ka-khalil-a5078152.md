@@ -1,7 +1,7 @@
 ---
 title: "Abdelrahman K.A. Khalil"
 description: "Abdelrahman K.A. Khalil is a Senior Unknown researcher at University of Sharjah in AE. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.612523
+date: 2026-07-10T01:07:47.673932
 url: "/cdr-researcher-census/researchers/abdelrahman-ka-khalil-a5078152/"
 layout: "researcher"
 hiddenInHomeList: true

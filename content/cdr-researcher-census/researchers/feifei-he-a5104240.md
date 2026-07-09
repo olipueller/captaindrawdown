@@ -1,7 +1,7 @@
 ---
 title: "Feifei He"
 description: "Feifei He is a Mid-career Biochar researcher at North China University of Water Resources and Electric Power in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.770544
+date: 2026-07-10T01:07:47.820571
 url: "/cdr-researcher-census/researchers/feifei-he-a5104240/"
 layout: "researcher"
 hiddenInHomeList: true

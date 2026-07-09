@@ -1,7 +1,7 @@
 ---
 title: "Borrelli Pasquale"
 description: "Borrelli Pasquale is a Mid-career Unknown researcher at Roma Tre University in IT. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.798424
+date: 2026-07-10T01:07:47.846389
 url: "/cdr-researcher-census/researchers/borrelli-pasquale-a5103091/"
 layout: "researcher"
 hiddenInHomeList: true

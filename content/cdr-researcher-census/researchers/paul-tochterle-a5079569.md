@@ -1,7 +1,7 @@
 ---
 title: "Paul Töchterle"
 description: "Paul Töchterle is a Mid-career Unknown researcher at Tirol Kliniken in AT. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.360664
+date: 2026-07-10T01:07:48.358884
 url: "/cdr-researcher-census/researchers/paul-tochterle-a5079569/"
 layout: "researcher"
 hiddenInHomeList: true

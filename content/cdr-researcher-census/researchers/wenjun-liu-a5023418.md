@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Liu"
 description: "Wenjun Liu is a Senior Biochar researcher at University of Tsukuba in JP. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.527308
+date: 2026-07-10T01:07:47.593905
 url: "/cdr-researcher-census/researchers/wenjun-liu-a5023418/"
 layout: "researcher"
 hiddenInHomeList: true

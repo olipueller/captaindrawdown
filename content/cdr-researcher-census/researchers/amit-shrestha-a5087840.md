@@ -1,7 +1,7 @@
 ---
 title: "Amit Shrestha"
 description: "Amit Shrestha is a Mid-career Unknown researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.105348
+date: 2026-07-10T01:07:49.013205
 url: "/cdr-researcher-census/researchers/amit-shrestha-a5087840/"
 layout: "researcher"
 hiddenInHomeList: true

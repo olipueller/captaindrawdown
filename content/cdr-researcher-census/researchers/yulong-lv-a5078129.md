@@ -1,7 +1,7 @@
 ---
 title: "Yulong Lv"
 description: "Yulong Lv is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.960549
+date: 2026-07-10T01:07:48.881794
 url: "/cdr-researcher-census/researchers/yulong-lv-a5078129/"
 layout: "researcher"
 hiddenInHomeList: true

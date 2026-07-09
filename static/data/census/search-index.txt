@@ -41997,7 +41997,7 @@ Katerina Theodoridou|https://openalex.org/A5043166813|GB|Unknown|20|verified
 Mingye Zhang|https://openalex.org/A5037707029|CN|Unknown|20|estimated
 Weiyang Zhao|https://openalex.org/A5101044264|JP|General CDR|20|estimated
 Solomon Tadesse|https://openalex.org/A5091364440|ET|Soil Carbon|20|incomplete
-Pedro Ãlvarez-Ãlvarez|https://openalex.org/A5032985147|ES|Soil Carbon|20|verified
+Pedro Álvarez-Álvarez|https://openalex.org/A5032985147|ES|Soil Carbon|20|verified
 Peng Luo|https://openalex.org/A5100619690|CN|General CDR|20|confirmed
 S. P. Nissanka|https://openalex.org/A5066599297|LK|Soil Carbon|20|verified
 Choonsig Kim|https://openalex.org/A5008367018|KR|Soil Carbon|20|verified
@@ -124757,7 +124757,7 @@ Miyano Nishida|https://openalex.org/A5128928956|US|Ocean CDR|0|estimated
 Ayako Abe-Ouchi|https://openalex.org/A5127935865|US|Ocean CDR|0|estimated
 BjÃ¶rn Fiedler|https://openalex.org/A5104162502|DE|Ocean CDR|0|estimated
 Arne KÃ¶rtzinger|https://openalex.org/A5099450917|DE|Ocean CDR|0|estimated
-SÃ lveig R. ÃlafsdÃ ttir|https://openalex.org/A5114078299|IS|Ocean CDR|0|estimated
+SÃ lveig R. ÃlafsdÃ ttir|https://openalex.org/A5114078299|IS|Ocean CDR|0|estimated
 Min Ju Seo|https://openalex.org/A5114256921|KR|Unknown|0|estimated
 Hannah Craft|https://openalex.org/A5119185829|US|Ocean CDR|0|estimated
 Alf Norkko|https://openalex.org/A5129155504|FI|Unknown|0|estimated
@@ -126061,7 +126061,7 @@ Maha Hattab|https://openalex.org/A5128859232|TN|Soil Carbon|0|estimated
 Haithem Bahri|https://openalex.org/A5128893282|PG|Soil Carbon|0|estimated
 Najla Sadfi|https://openalex.org/A5128877339|TN|Soil Carbon|0|estimated
 Abebaw Shemelis|https://openalex.org/A5116833398|ET|Soil Carbon|0|incomplete
-Mareike LieÃ|https://openalex.org/A5099195492|DE|Soil Carbon|0|estimated
+Mareike Ließ|https://openalex.org/A5099195492|DE|Soil Carbon|0|estimated
 Isabella V. García-Zuleta|https://openalex.org/A5115798865|MX|Soil Carbon|0|estimated
 Chika Kawanaka|https://openalex.org/A5120388529|JP|Enhanced Weathering|0|estimated
 Yu Zhang|https://openalex.org/A5123316243|BE|Soil Carbon|0|estimated
@@ -126696,7 +126696,7 @@ Martín Martin De Luis|https://openalex.org/A5047289327|ES|Soil Carbon|0|estimat
 Yi Zhao|https://openalex.org/A5129083929|CN|Unknown|0|estimated
 OLUSESAN OMOLARA COMFORT|https://openalex.org/A5119718930|NG|Soil Carbon|0|estimated
 CONFIDENCE ADIMCHI CHIONYEREM|https://openalex.org/A5119718931|NG|Soil Carbon|0|estimated
-Christof KluÃ|https://openalex.org/A5104395285|DE|Soil Carbon|0|estimated
+Christof Kluß|https://openalex.org/A5104395285|DE|Soil Carbon|0|estimated
 Omkar Nagawade|https://openalex.org/A5120563739|IN|Soil Carbon|0|incomplete
 Kai Cheng|https://openalex.org/A5093496265|CN|Unknown|0|estimated
 Mingyang Ding|https://openalex.org/A5125199260|CN|Soil Carbon|0|estimated

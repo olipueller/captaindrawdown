@@ -1,7 +1,7 @@
 ---
 title: "Laura E. Abramiuc"
 description: "Laura E. Abramiuc is a Mid-career Biochar researcher at National Institute of Materials Physics in RO. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.492801
+date: 2026-07-10T01:07:47.563291
 url: "/cdr-researcher-census/researchers/laura-e-abramiuc-a5053872/"
 layout: "researcher"
 hiddenInHomeList: true

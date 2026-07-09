@@ -1,7 +1,7 @@
 ---
 title: "Ana Carla Medeiros Morato de Aquino"
 description: "Ana Carla Medeiros Morato de Aquino is a Senior Soil Carbon researcher at Fundação Carlos Chagas in BR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.502553
+date: 2026-07-10T01:07:47.571965
 url: "/cdr-researcher-census/researchers/ana-carla-medeiros-morato-de-aquino-a5070546/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Syed Muhammad Wajahat ul Hasnain"
 description: "Syed Muhammad Wajahat ul Hasnain is a Mid-career Unknown researcher at Australian Regenerative Medicine Institute in AU. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.710239
+date: 2026-07-10T01:07:48.661919
 url: "/cdr-researcher-census/researchers/syed-muhammad-wajahat-ul-hasnain-a5053661/"
 layout: "researcher"
 hiddenInHomeList: true

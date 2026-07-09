@@ -1,7 +1,7 @@
 ---
 title: "Seyyed Ebrahim Mousavi"
 description: "Seyyed Ebrahim Mousavi is a Senior Unknown researcher at Tarbiat Modares University in IR. With 30 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.305175
+date: 2026-07-10T01:07:47.387292
 url: "/cdr-researcher-census/researchers/seyyed-ebrahim-mousavi-a5103260/"
 layout: "researcher"
 hiddenInHomeList: true

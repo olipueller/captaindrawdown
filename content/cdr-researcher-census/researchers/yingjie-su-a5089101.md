@@ -1,7 +1,7 @@
 ---
 title: "Yingjie Su"
 description: "Yingjie Su is a Senior Biochar researcher at Jilin University in CN. With 68 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.234166
+date: 2026-07-10T01:07:47.321057
 url: "/cdr-researcher-census/researchers/yingjie-su-a5089101/"
 layout: "researcher"
 hiddenInHomeList: true

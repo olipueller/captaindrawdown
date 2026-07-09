@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Al Alaween"
 description: "Mohammad Al Alaween is an Early-career Unknown researcher at Zayed University in AE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.417995
+date: 2026-07-10T01:07:48.408961
 url: "/cdr-researcher-census/researchers/mohammad-al-alaween-a5069165/"
 layout: "researcher"
 hiddenInHomeList: true

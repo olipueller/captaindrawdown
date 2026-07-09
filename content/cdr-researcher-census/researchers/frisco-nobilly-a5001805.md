@@ -1,7 +1,7 @@
 ---
 title: "Frisco Nobilly"
 description: "Frisco Nobilly is a Mid-career Soil Carbon researcher at Universiti Putra Malaysia in MY. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.592591
+date: 2026-07-10T01:07:47.655847
 url: "/cdr-researcher-census/researchers/frisco-nobilly-a5001805/"
 layout: "researcher"
 hiddenInHomeList: true

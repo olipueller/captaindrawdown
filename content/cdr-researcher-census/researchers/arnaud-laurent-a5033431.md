@@ -1,7 +1,7 @@
 ---
 title: "﻿Arnaud Laurent"
 description: "﻿Arnaud Laurent is a Senior Ocean CDR researcher at Dalhousie University in CA. With 82 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.169679
+date: 2026-07-10T01:07:47.259474
 url: "/cdr-researcher-census/researchers/arnaud-laurent-a5033431/"
 layout: "researcher"
 hiddenInHomeList: true

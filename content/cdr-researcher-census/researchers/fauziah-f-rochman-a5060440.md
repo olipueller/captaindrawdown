@@ -1,7 +1,7 @@
 ---
 title: "Fauziah F. Rochman"
 description: "Fauziah F. Rochman is a Mid-career General CDR researcher at National Nuclear Energy Agency of Indonesia in ID. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.631701
+date: 2026-07-10T01:07:47.691229
 url: "/cdr-researcher-census/researchers/fauziah-f-rochman-a5060440/"
 layout: "researcher"
 hiddenInHomeList: true

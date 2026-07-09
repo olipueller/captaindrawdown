@@ -1,7 +1,7 @@
 ---
 title: "Wipawee Dechapanya"
 description: "Wipawee Dechapanya is a Senior Unknown researcher at Ubon Ratchathani University in TH. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.127283
+date: 2026-07-10T01:07:48.150726
 url: "/cdr-researcher-census/researchers/wipawee-dechapanya-a5030909/"
 layout: "researcher"
 hiddenInHomeList: true

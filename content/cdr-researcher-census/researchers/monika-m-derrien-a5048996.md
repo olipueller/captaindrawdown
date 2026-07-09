@@ -1,7 +1,7 @@
 ---
 title: "Monika M. Derrien"
 description: "Monika M. Derrien is a Mid-career Unknown researcher. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.812701
+date: 2026-07-10T01:07:47.859401
 url: "/cdr-researcher-census/researchers/monika-m-derrien-a5048996/"
 layout: "researcher"
 hiddenInHomeList: true

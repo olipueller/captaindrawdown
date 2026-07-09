@@ -1,7 +1,7 @@
 ---
 title: "Lingjun Tan"
 description: "Lingjun Tan is a Mid-career DAC researcher at Shenzhen Metro (China) in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.677987
+date: 2026-07-10T01:07:48.633662
 url: "/cdr-researcher-census/researchers/lingjun-tan-a5030570/"
 layout: "researcher"
 hiddenInHomeList: true

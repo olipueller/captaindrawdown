@@ -1,7 +1,7 @@
 ---
 title: "Aixing Deng"
 description: "Aixing Deng is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 97 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.977431
+date: 2026-07-10T01:07:47.025137
 url: "/cdr-researcher-census/researchers/aixing-deng-a5111765/"
 layout: "researcher"
 hiddenInHomeList: true

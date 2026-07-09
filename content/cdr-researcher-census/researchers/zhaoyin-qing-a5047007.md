@@ -1,7 +1,7 @@
 ---
 title: "Zhaoyin Qing"
 description: "Zhaoyin Qing is an Early-career Unknown researcher at Chongqing Normal University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.013680
+date: 2026-07-10T01:07:48.930507
 url: "/cdr-researcher-census/researchers/zhaoyin-qing-a5047007/"
 layout: "researcher"
 hiddenInHomeList: true

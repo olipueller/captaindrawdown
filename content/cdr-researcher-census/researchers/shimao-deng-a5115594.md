@@ -1,7 +1,7 @@
 ---
 title: "Shimao Deng"
 description: "Shimao Deng is a Mid-career Unknown researcher at The University of Texas at Austin in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.943464
+date: 2026-07-10T01:07:47.955772
 url: "/cdr-researcher-census/researchers/shimao-deng-a5115594/"
 layout: "researcher"
 hiddenInHomeList: true

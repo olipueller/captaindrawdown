@@ -1,7 +1,7 @@
 ---
 title: "Marco Davoli"
 description: "Marco Davoli is a Senior Unknown researcher. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.231647
+date: 2026-07-10T01:07:48.241645
 url: "/cdr-researcher-census/researchers/marco-davoli-a5041061/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tulasi Korra"
 description: "Tulasi Korra is an Early-career Unknown researcher at ITM University in IN. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.846603
+date: 2026-07-10T01:07:47.882341
 url: "/cdr-researcher-census/researchers/tulasi-korra-a5014743/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hamed A. Keykha"
 description: "Hamed A. Keykha is a Mid-career Soil Carbon researcher at London South Bank University in GB. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.819570
+date: 2026-07-10T01:07:47.865788
 url: "/cdr-researcher-census/researchers/hamed-a-keykha-a5071501/"
 layout: "researcher"
 hiddenInHomeList: true

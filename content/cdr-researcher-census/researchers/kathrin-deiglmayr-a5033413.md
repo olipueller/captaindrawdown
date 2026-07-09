@@ -1,7 +1,7 @@
 ---
 title: "Kathrin Deiglmayr"
 description: "Kathrin Deiglmayr is a Senior Soil Carbon researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.390649
+date: 2026-07-10T01:07:47.471692
 url: "/cdr-researcher-census/researchers/kathrin-deiglmayr-a5033413/"
 layout: "researcher"
 hiddenInHomeList: true

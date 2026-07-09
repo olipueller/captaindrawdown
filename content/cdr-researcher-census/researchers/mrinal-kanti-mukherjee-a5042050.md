@@ -1,7 +1,7 @@
 ---
 title: "Mrinal Kanti Mukherjee"
 description: "Mrinal Kanti Mukherjee is a Senior Unknown researcher at Indian Institute of Technology Dhanbad in IN. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.970745
+date: 2026-07-10T01:07:47.981110
 url: "/cdr-researcher-census/researchers/mrinal-kanti-mukherjee-a5042050/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gedion Tsegay"
 description: "Gedion Tsegay is a Mid-career Soil Carbon researcher at Tongji University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.200936
+date: 2026-07-10T01:07:49.113761
 url: "/cdr-researcher-census/researchers/gedion-tsegay-a5020945/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Aysegul Petek Gursel"
 description: "Aysegul Petek Gursel is a Senior General CDR researcher at University of California, Berkeley in US. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.141654
+date: 2026-07-10T01:07:47.230532
 url: "/cdr-researcher-census/researchers/aysegul-petek-gursel-a5001686/"
 layout: "researcher"
 hiddenInHomeList: true

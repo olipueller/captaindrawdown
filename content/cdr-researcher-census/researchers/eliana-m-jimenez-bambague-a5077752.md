@@ -1,7 +1,7 @@
 ---
 title: "Eliana M. Jiménez-Bambague"
 description: "Eliana M. Jiménez-Bambague is a Mid-career Unknown researcher at Universidad del Valle in CO. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.545565
+date: 2026-07-10T01:07:48.526252
 url: "/cdr-researcher-census/researchers/eliana-m-jimenez-bambague-a5077752/"
 layout: "researcher"
 hiddenInHomeList: true

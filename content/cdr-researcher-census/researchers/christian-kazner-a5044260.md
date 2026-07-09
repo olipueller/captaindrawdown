@@ -1,7 +1,7 @@
 ---
 title: "Christian Kazner"
 description: "Christian Kazner is a Senior Biochar researcher at Bochum University of Applied Sciences in DE. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.309266
+date: 2026-07-10T01:07:47.391356
 url: "/cdr-researcher-census/researchers/christian-kazner-a5044260/"
 layout: "researcher"
 hiddenInHomeList: true

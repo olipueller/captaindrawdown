@@ -1,7 +1,7 @@
 ---
 title: "Yining Lu"
 description: "Yining Lu is an Early-career Unknown researcher at University of Electronic Science and Technology of China in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.075025
+date: 2026-07-10T01:07:48.986145
 url: "/cdr-researcher-census/researchers/yining-lu-a5071971/"
 layout: "researcher"
 hiddenInHomeList: true

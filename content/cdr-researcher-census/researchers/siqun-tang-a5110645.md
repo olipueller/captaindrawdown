@@ -1,7 +1,7 @@
 ---
 title: "Siqun Tang"
 description: "Siqun Tang is a Mid-career Biochar researcher at Hunan University in CN. With 33 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.391334
+date: 2026-07-10T01:07:47.472383
 url: "/cdr-researcher-census/researchers/siqun-tang-a5110645/"
 layout: "researcher"
 hiddenInHomeList: true

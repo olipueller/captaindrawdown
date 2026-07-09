@@ -1,7 +1,7 @@
 ---
 title: "Michael P. Nitzsche"
 description: "Michael P. Nitzsche is a Mid-career Ocean CDR researcher at Massachusetts Institute of Technology in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.927388
+date: 2026-07-10T01:07:47.940766
 url: "/cdr-researcher-census/researchers/michael-p-nitzsche-a5045323/"
 layout: "researcher"
 hiddenInHomeList: true

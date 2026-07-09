@@ -1,7 +1,7 @@
 ---
 title: "Ya-Ru Shao"
 description: "Ya-Ru Shao is a Mid-career Unknown researcher at Nankai University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.988751
+date: 2026-07-10T01:07:47.997680
 url: "/cdr-researcher-census/researchers/ya-ru-shao-a5038946/"
 layout: "researcher"
 hiddenInHomeList: true

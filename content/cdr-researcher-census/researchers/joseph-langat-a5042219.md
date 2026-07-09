@@ -1,7 +1,7 @@
 ---
 title: "Joseph Langat"
 description: "Joseph Langat is a Senior Unknown researcher at Association for Coastal Ecosystem Services in GB. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.454905
+date: 2026-07-10T01:07:47.529920
 url: "/cdr-researcher-census/researchers/joseph-langat-a5042219/"
 layout: "researcher"
 hiddenInHomeList: true

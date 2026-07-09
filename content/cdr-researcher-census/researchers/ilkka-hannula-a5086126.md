@@ -1,7 +1,7 @@
 ---
 title: "Ilkka Hannula"
 description: "Ilkka Hannula is a Senior General CDR researcher at University of Cambridge in GB. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.289345
+date: 2026-07-10T01:07:47.371551
 url: "/cdr-researcher-census/researchers/ilkka-hannula-a5086126/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Devu Pengadeth"
 description: "Devu Pengadeth is an Early-career Unknown researcher at KLE Technological University in IN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.021055
+date: 2026-07-10T01:07:48.936979
 url: "/cdr-researcher-census/researchers/devu-pengadeth-a5093646/"
 layout: "researcher"
 hiddenInHomeList: true

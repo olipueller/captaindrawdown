@@ -1,7 +1,7 @@
 ---
 title: "Zineb Boutamine"
 description: "Zineb Boutamine is a Mid-career Unknown researcher at Polytechnic School of Algiers in DZ. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.301080
+date: 2026-07-10T01:07:48.303801
 url: "/cdr-researcher-census/researchers/zineb-boutamine-a5073817/"
 layout: "researcher"
 hiddenInHomeList: true

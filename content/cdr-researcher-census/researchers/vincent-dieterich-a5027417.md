@@ -1,7 +1,7 @@
 ---
 title: "Vincent Dieterich"
 description: "Vincent Dieterich is a Mid-career General CDR researcher at Technical University of Munich in DE. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.265830
+date: 2026-07-10T01:07:47.349594
 url: "/cdr-researcher-census/researchers/vincent-dieterich-a5027417/"
 layout: "researcher"
 hiddenInHomeList: true

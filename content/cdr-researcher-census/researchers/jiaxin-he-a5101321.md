@@ -1,7 +1,7 @@
 ---
 title: "Jiaxin He"
 description: "Jiaxin He is a Mid-career Soil Carbon researcher at Tianjin University of Science and Technology in CN. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.492340
+date: 2026-07-10T01:07:48.478278
 url: "/cdr-researcher-census/researchers/jiaxin-he-a5101321/"
 layout: "researcher"
 hiddenInHomeList: true

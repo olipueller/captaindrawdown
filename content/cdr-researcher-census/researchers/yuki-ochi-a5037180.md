@@ -1,7 +1,7 @@
 ---
 title: "Yuki Ochi"
 description: "Yuki Ochi is a Senior General CDR researcher at E-Konzal Co. Ltd. in JP. With 75 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.143650
+date: 2026-07-10T01:07:47.232557
 url: "/cdr-researcher-census/researchers/yuki-ochi-a5037180/"
 layout: "researcher"
 hiddenInHomeList: true

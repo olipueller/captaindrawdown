@@ -1,7 +1,7 @@
 ---
 title: "Jinxin Liu"
 description: "Jinxin Liu is a Mid-career Unknown researcher at Fudan University in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.128955
+date: 2026-07-10T01:07:47.217449
 url: "/cdr-researcher-census/researchers/jinxin-liu-a5100386/"
 layout: "researcher"
 hiddenInHomeList: true

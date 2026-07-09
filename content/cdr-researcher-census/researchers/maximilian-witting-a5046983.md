@@ -1,7 +1,7 @@
 ---
 title: "Maximilian Witting"
 description: "Maximilian Witting is a Mid-career General CDR researcher at Institute of Geography in KZ. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.953828
+date: 2026-07-10T01:07:46.988673
 url: "/cdr-researcher-census/researchers/maximilian-witting-a5046983/"
 layout: "researcher"
 hiddenInHomeList: true

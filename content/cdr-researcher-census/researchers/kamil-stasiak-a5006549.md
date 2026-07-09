@@ -1,7 +1,7 @@
 ---
 title: "Kamil Stasiak"
 description: "Kamil Stasiak is a Mid-career BECCS researcher at Gdańsk University of Technology in PL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.450076
+date: 2026-07-10T01:07:48.438958
 url: "/cdr-researcher-census/researchers/kamil-stasiak-a5006549/"
 layout: "researcher"
 hiddenInHomeList: true

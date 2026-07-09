@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Gusmán‐Montalván"
 description: "Elizabeth Gusmán‐Montalván is a Mid-career Soil Carbon researcher at Universidad Técnica Particular de Loja in EC. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.485111
+date: 2026-07-10T01:07:47.556896
 url: "/cdr-researcher-census/researchers/elizabeth-gusmanmontalvan-a5057734/"
 layout: "researcher"
 hiddenInHomeList: true

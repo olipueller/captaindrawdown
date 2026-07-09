@@ -1,7 +1,7 @@
 ---
 title: "Asher P. Mouat"
 description: "Asher P. Mouat is a Mid-career Unknown researcher at Georgia Institute of Technology in US. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.616558
+date: 2026-07-10T01:07:48.577610
 url: "/cdr-researcher-census/researchers/asher-p-mouat-a5044772/"
 layout: "researcher"
 hiddenInHomeList: true

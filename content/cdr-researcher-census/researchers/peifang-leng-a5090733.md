@@ -1,7 +1,7 @@
 ---
 title: "Peifang Leng"
 description: "Peifang Leng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.327552
+date: 2026-07-10T01:07:47.409422
 url: "/cdr-researcher-census/researchers/peifang-leng-a5090733/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Liu"
 description: "Xiaojun Liu is a Mid-career Soil Carbon researcher at Jiangsu Changjiang Electronics Technology (China) in CN. With 43 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.461383
+date: 2026-07-10T01:07:47.535604
 url: "/cdr-researcher-census/researchers/xiaojun-liu-a5100412/"
 layout: "researcher"
 hiddenInHomeList: true

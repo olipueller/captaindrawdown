@@ -1,7 +1,7 @@
 ---
 title: "Shuaishuai Peng"
 description: "Shuaishuai Peng is a Mid-career Unknown researcher at Shenyang University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.173860
+date: 2026-07-10T01:07:49.063603
 url: "/cdr-researcher-census/researchers/shuaishuai-peng-a5032485/"
 layout: "researcher"
 hiddenInHomeList: true

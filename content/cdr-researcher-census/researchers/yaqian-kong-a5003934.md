@@ -1,7 +1,7 @@
 ---
 title: "Yaqian Kong"
 description: "Yaqian Kong is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.458815
+date: 2026-07-10T01:07:48.447096
 url: "/cdr-researcher-census/researchers/yaqian-kong-a5003934/"
 layout: "researcher"
 hiddenInHomeList: true

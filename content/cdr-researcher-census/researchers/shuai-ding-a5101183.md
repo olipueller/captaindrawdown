@@ -1,7 +1,7 @@
 ---
 title: "Shuai Ding"
 description: "Shuai Ding is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.618345
+date: 2026-07-10T01:07:47.679169
 url: "/cdr-researcher-census/researchers/shuai-ding-a5101183/"
 layout: "researcher"
 hiddenInHomeList: true

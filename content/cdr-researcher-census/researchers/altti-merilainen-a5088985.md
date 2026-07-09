@@ -1,7 +1,7 @@
 ---
 title: "Altti Meriläinen"
 description: "Altti Meriläinen is a Mid-career DAC researcher at Lappeenranta-Lahti University of Technology in FI. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.735435
+date: 2026-07-10T01:07:48.683714
 url: "/cdr-researcher-census/researchers/altti-merilainen-a5088985/"
 layout: "researcher"
 hiddenInHomeList: true

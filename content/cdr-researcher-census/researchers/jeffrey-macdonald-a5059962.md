@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey MacDonald"
 description: "Jeffrey MacDonald is a Senior Biochar researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.596524
+date: 2026-07-10T01:07:48.560542
 url: "/cdr-researcher-census/researchers/jeffrey-macdonald-a5059962/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kiran Kumar"
 description: "Kiran Kumar is a Senior Unknown researcher at Directorate of Groundnut Research in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.970949
+date: 2026-07-10T01:07:48.891119
 url: "/cdr-researcher-census/researchers/kiran-kumar-a5071801/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Penglin Zhu"
 description: "Penglin Zhu is a Mid-career Unknown researcher at Central South University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.208533
+date: 2026-07-10T01:07:48.221639
 url: "/cdr-researcher-census/researchers/penglin-zhu-a5069636/"
 layout: "researcher"
 hiddenInHomeList: true

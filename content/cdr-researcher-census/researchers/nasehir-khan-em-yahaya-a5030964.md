@@ -1,7 +1,7 @@
 ---
 title: "Nasehir Khan E.M. Yahaya"
 description: "Nasehir Khan E.M. Yahaya is a Mid-career Biochar researcher at National Institutes of Biotechnology Malaysia in MY. With 63 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.456004
+date: 2026-07-10T01:07:47.530935
 url: "/cdr-researcher-census/researchers/nasehir-khan-em-yahaya-a5030964/"
 layout: "researcher"
 hiddenInHomeList: true

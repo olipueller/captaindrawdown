@@ -1,7 +1,7 @@
 ---
 title: "Fengfei Sun"
 description: "Fengfei Sun is a Mid-career Unknown researcher at Qufu Normal University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.577323
+date: 2026-07-10T01:07:47.640443
 url: "/cdr-researcher-census/researchers/fengfei-sun-a5060598/"
 layout: "researcher"
 hiddenInHomeList: true

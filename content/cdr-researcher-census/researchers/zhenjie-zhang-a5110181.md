@@ -1,7 +1,7 @@
 ---
 title: "Zhenjie Zhang"
 description: "Zhenjie Zhang is a Mid-career General CDR researcher at Xinjiang Institute of Engineering in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.018624
+date: 2026-07-10T01:07:48.026334
 url: "/cdr-researcher-census/researchers/zhenjie-zhang-a5110181/"
 layout: "researcher"
 hiddenInHomeList: true

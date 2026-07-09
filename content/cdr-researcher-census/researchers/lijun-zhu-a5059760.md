@@ -1,7 +1,7 @@
 ---
 title: "Lijun Zhu"
 description: "Lijun Zhu is a Senior General CDR researcher at Nanfang Hospital in CN. With 54 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.210966
+date: 2026-07-10T01:07:47.298472
 url: "/cdr-researcher-census/researchers/lijun-zhu-a5059760/"
 layout: "researcher"
 hiddenInHomeList: true

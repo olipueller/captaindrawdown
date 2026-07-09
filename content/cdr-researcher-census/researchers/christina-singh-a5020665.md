@@ -1,7 +1,7 @@
 ---
 title: "Christina Singh"
 description: "Christina Singh is an Early-career General CDR researcher at University of Copenhagen in DK. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.950477
+date: 2026-07-10T01:07:48.872253
 url: "/cdr-researcher-census/researchers/christina-singh-a5020665/"
 layout: "researcher"
 hiddenInHomeList: true

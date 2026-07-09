@@ -1,7 +1,7 @@
 ---
 title: "Rachael Murphy"
 description: "Rachael Murphy is a Senior Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.690135
+date: 2026-07-10T01:07:48.643958
 url: "/cdr-researcher-census/researchers/rachael-murphy-a5056242/"
 layout: "researcher"
 hiddenInHomeList: true

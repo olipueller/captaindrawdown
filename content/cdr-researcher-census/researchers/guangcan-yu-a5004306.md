@@ -1,7 +1,7 @@
 ---
 title: "Guangcan Yu"
 description: "Guangcan Yu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.636597
+date: 2026-07-10T01:07:48.595637
 url: "/cdr-researcher-census/researchers/guangcan-yu-a5004306/"
 layout: "researcher"
 hiddenInHomeList: true

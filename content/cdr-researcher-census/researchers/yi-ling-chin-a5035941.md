@@ -1,7 +1,7 @@
 ---
 title: "Yi Ling Chin"
 description: "Yi Ling Chin is a Mid-career Unknown researcher at Wageningen University & Research in NL. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.123884
+date: 2026-07-10T01:07:48.147725
 url: "/cdr-researcher-census/researchers/yi-ling-chin-a5035941/"
 layout: "researcher"
 hiddenInHomeList: true

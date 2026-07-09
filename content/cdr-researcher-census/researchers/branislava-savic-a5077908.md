@@ -1,7 +1,7 @@
 ---
 title: "Branislava Savić"
 description: "Branislava Savić is a Mid-career Unknown researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.962874
+date: 2026-07-10T01:07:48.883974
 url: "/cdr-researcher-census/researchers/branislava-savic-a5077908/"
 layout: "researcher"
 hiddenInHomeList: true

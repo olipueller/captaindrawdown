@@ -1,7 +1,7 @@
 ---
 title: "Wenquan Xie"
 description: "Wenquan Xie is a Mid-career Unknown researcher at Hunan University of Science and Technology in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.459953
+date: 2026-07-10T01:07:48.448135
 url: "/cdr-researcher-census/researchers/wenquan-xie-a5108304/"
 layout: "researcher"
 hiddenInHomeList: true

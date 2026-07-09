@@ -1,7 +1,7 @@
 ---
 title: "Véronique Pugnet"
 description: "Véronique Pugnet is a Senior Unknown researcher at Total (France) in FR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.248784
+date: 2026-07-10T01:07:48.256721
 url: "/cdr-researcher-census/researchers/veronique-pugnet-a5044288/"
 layout: "researcher"
 hiddenInHomeList: true

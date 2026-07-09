@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Fate Ali"
 description: "Ahmed Fate Ali is a Mid-career Biochar researcher at Al-Azhar University in EG. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.436142
+date: 2026-07-10T01:07:48.426275
 url: "/cdr-researcher-census/researchers/ahmed-fate-ali-a5110350/"
 layout: "researcher"
 hiddenInHomeList: true

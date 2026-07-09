@@ -1,7 +1,7 @@
 ---
 title: "Biswabara Sahu"
 description: "Biswabara Sahu is a Mid-career Soil Carbon researcher at Siksha O Anusandhan University in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.129405
+date: 2026-07-10T01:07:49.034135
 url: "/cdr-researcher-census/researchers/biswabara-sahu-a5075526/"
 layout: "researcher"
 hiddenInHomeList: true

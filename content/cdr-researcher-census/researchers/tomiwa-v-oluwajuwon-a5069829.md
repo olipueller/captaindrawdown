@@ -1,7 +1,7 @@
 ---
 title: "Tomiwa V. Oluwajuwon"
 description: "Tomiwa V. Oluwajuwon is a Mid-career Soil Carbon researcher at University of the Sunshine Coast in AU. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.734898
+date: 2026-07-10T01:07:48.683257
 url: "/cdr-researcher-census/researchers/tomiwa-v-oluwajuwon-a5069829/"
 layout: "researcher"
 hiddenInHomeList: true

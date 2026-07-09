@@ -1,7 +1,7 @@
 ---
 title: "Xunlong Chen"
 description: "Xunlong Chen is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.250262
+date: 2026-07-10T01:07:48.258248
 url: "/cdr-researcher-census/researchers/xunlong-chen-a5017541/"
 layout: "researcher"
 hiddenInHomeList: true

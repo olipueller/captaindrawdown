@@ -1,7 +1,7 @@
 ---
 title: "Zhuxian Gao"
 description: "Zhuxian Gao is a Mid-career Unknown researcher at Ningxia University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.891869
+date: 2026-07-10T01:07:47.906834
 url: "/cdr-researcher-census/researchers/zhuxian-gao-a5077663/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Philipp Widmann"
 description: "Philipp Widmann is a Senior Unknown researcher at University of Geneva in CH. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.250079
+date: 2026-07-10T01:07:48.258039
 url: "/cdr-researcher-census/researchers/philipp-widmann-a5057523/"
 layout: "researcher"
 hiddenInHomeList: true

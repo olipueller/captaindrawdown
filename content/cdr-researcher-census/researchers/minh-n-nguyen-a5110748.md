@@ -1,7 +1,7 @@
 ---
 title: "Minh N. Nguyen"
 description: "Minh N. Nguyen is a Mid-career Unknown researcher at FPT University in VN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.148103
+date: 2026-07-10T01:07:49.050340
 url: "/cdr-researcher-census/researchers/minh-n-nguyen-a5110748/"
 layout: "researcher"
 hiddenInHomeList: true

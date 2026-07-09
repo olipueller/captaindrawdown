@@ -1,7 +1,7 @@
 ---
 title: "Milad Mirshahi"
 description: "Milad Mirshahi is an Early-career Unknown researcher at University of London in GB. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.045532
+date: 2026-07-10T01:07:47.119164
 url: "/cdr-researcher-census/researchers/milad-mirshahi-a5062812/"
 layout: "researcher"
 hiddenInHomeList: true

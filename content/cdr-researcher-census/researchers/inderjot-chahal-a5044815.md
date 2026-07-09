@@ -1,7 +1,7 @@
 ---
 title: "Inderjot Chahal"
 description: "Inderjot Chahal is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.438478
+date: 2026-07-10T01:07:47.515194
 url: "/cdr-researcher-census/researchers/inderjot-chahal-a5044815/"
 layout: "researcher"
 hiddenInHomeList: true

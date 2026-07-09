@@ -1,7 +1,7 @@
 ---
 title: "Aïcha Sebti"
 description: "Aïcha Sebti is a Mid-career Unknown researcher at Centre de Développement des Technologies Avancées in DZ. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.874293
+date: 2026-07-10T01:07:48.802110
 url: "/cdr-researcher-census/researchers/aicha-sebti-a5104020/"
 layout: "researcher"
 hiddenInHomeList: true

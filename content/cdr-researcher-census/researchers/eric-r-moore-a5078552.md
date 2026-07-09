@@ -1,7 +1,7 @@
 ---
 title: "Eric R. Moore"
 description: "Eric R. Moore is a Senior Unknown researcher at Los Alamos National Laboratory in US. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.014633
+date: 2026-07-10T01:07:48.022387
 url: "/cdr-researcher-census/researchers/eric-r-moore-a5078552/"
 layout: "researcher"
 hiddenInHomeList: true

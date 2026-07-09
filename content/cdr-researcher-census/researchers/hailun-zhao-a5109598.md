@@ -1,7 +1,7 @@
 ---
 title: "Hailun Zhao"
 description: "Hailun Zhao is a Mid-career Biochar researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.534698
+date: 2026-07-10T01:07:48.517021
 url: "/cdr-researcher-census/researchers/hailun-zhao-a5109598/"
 layout: "researcher"
 hiddenInHomeList: true

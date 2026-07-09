@@ -1,7 +1,7 @@
 ---
 title: "Cong Wang"
 description: "Cong Wang is a Mid-career Unknown researcher at Tianjin University of Traditional Chinese Medicine in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.417494
+date: 2026-07-10T01:07:48.408474
 url: "/cdr-researcher-census/researchers/cong-wang-a5120343/"
 layout: "researcher"
 hiddenInHomeList: true

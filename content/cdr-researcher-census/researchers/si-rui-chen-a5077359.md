@@ -1,7 +1,7 @@
 ---
 title: "Si-Rui Chen"
 description: "Si-Rui Chen is a Senior Unknown researcher at Guizhou University in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.568988
+date: 2026-07-10T01:07:47.632740
 url: "/cdr-researcher-census/researchers/si-rui-chen-a5077359/"
 layout: "researcher"
 hiddenInHomeList: true

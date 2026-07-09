@@ -1,7 +1,7 @@
 ---
 title: "Abdoulaye Kane"
 description: "Abdoulaye Kane is a Senior Biochar researcher at UniLaSalle-EME - Campus de Rennes in FR. With 47 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.222951
+date: 2026-07-10T01:07:47.310079
 url: "/cdr-researcher-census/researchers/abdoulaye-kane-a5038489/"
 layout: "researcher"
 hiddenInHomeList: true

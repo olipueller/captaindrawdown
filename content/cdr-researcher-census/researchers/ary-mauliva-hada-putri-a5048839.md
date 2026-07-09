@@ -1,7 +1,7 @@
 ---
 title: "Ary Mauliva Hada Putri"
 description: "Ary Mauliva Hada Putri is a Mid-career Ocean CDR researcher at University of Indonesia in ID. With 37 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.845553
+date: 2026-07-10T01:07:48.777003
 url: "/cdr-researcher-census/researchers/ary-mauliva-hada-putri-a5048839/"
 layout: "researcher"
 hiddenInHomeList: true

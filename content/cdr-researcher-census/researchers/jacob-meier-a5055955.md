@@ -1,7 +1,7 @@
 ---
 title: "Jacob Meier"
 description: "Jacob Meier is a Mid-career Unknown researcher at USGS in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.269892
+date: 2026-07-10T01:07:48.276064
 url: "/cdr-researcher-census/researchers/jacob-meier-a5055955/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Richard Jayson Varela"
 description: "Richard Jayson Varela is a Senior Unknown researcher at University of Science and Technology of Southern Philippines in PH. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.499854
+date: 2026-07-10T01:07:48.485327
 url: "/cdr-researcher-census/researchers/richard-jayson-varela-a5003253/"
 layout: "researcher"
 hiddenInHomeList: true

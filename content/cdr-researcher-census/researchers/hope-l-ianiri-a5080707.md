@@ -1,7 +1,7 @@
 ---
 title: "Hope L. Ianiri"
 description: "Hope L. Ianiri is a Mid-career Unknown researcher at United States Geological Survey in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.356075
+date: 2026-07-10T01:07:48.354494
 url: "/cdr-researcher-census/researchers/hope-l-ianiri-a5080707/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Piero Bareschino"
 description: "Piero Bareschino is a Senior General CDR researcher at University of Sannio in IT. With 81 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.187463
+date: 2026-07-10T01:07:47.276384
 url: "/cdr-researcher-census/researchers/piero-bareschino-a5009992/"
 layout: "researcher"
 hiddenInHomeList: true

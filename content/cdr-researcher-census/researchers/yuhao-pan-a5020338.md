@@ -1,7 +1,7 @@
 ---
 title: "Yuhao Pan"
 description: "Yuhao Pan is a Mid-career Unknown researcher at University of Hong Kong in HK. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.261594
+date: 2026-07-10T01:07:48.268945
 url: "/cdr-researcher-census/researchers/yuhao-pan-a5020338/"
 layout: "researcher"
 hiddenInHomeList: true

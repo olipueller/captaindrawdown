@@ -1,7 +1,7 @@
 ---
 title: "Aziz Mujtaba Aezum"
 description: "Aziz Mujtaba Aezum is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.208012
+date: 2026-07-10T01:07:49.120553
 url: "/cdr-researcher-census/researchers/aziz-mujtaba-aezum-a5075541/"
 layout: "researcher"
 hiddenInHomeList: true

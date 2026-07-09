@@ -1,7 +1,7 @@
 ---
 title: "Xincong Liu"
 description: "Xincong Liu is a Mid-career General CDR researcher at Chengdu University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.936478
+date: 2026-07-10T01:07:47.949009
 url: "/cdr-researcher-census/researchers/xincong-liu-a5085126/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna Chyl-Surdacka"
 description: "Katarzyna Chyl-Surdacka is a Mid-career Unknown researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.122809
+date: 2026-07-10T01:07:49.028183
 url: "/cdr-researcher-census/researchers/katarzyna-chyl-surdacka-a5088161/"
 layout: "researcher"
 hiddenInHomeList: true

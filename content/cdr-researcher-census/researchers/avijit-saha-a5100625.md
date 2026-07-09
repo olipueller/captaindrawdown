@@ -1,7 +1,7 @@
 ---
 title: "Avijit Saha"
 description: "Avijit Saha is a Senior Unknown researcher at The University of Texas at Austin in US. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.950943
+date: 2026-07-10T01:07:47.962570
 url: "/cdr-researcher-census/researchers/avijit-saha-a5100625/"
 layout: "researcher"
 hiddenInHomeList: true

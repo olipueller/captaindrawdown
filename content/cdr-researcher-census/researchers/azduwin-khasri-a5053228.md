@@ -1,7 +1,7 @@
 ---
 title: "Azduwin Khasri"
 description: "Azduwin Khasri is a Mid-career Unknown researcher at Universiti Malaysia Perlis in MY. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.255515
+date: 2026-07-10T01:07:47.339877
 url: "/cdr-researcher-census/researchers/azduwin-khasri-a5053228/"
 layout: "researcher"
 hiddenInHomeList: true

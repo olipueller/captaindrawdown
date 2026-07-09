@@ -1,7 +1,7 @@
 ---
 title: "Filippo Sevi"
 description: "Filippo Sevi is a Mid-career Unknown researcher at National Agency for New Technologies Energy and Sustainable Economic Development in GB. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.348855
+date: 2026-07-10T01:07:48.347400
 url: "/cdr-researcher-census/researchers/filippo-sevi-a5002897/"
 layout: "researcher"
 hiddenInHomeList: true

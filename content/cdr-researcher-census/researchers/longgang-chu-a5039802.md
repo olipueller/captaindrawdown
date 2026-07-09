@@ -1,7 +1,7 @@
 ---
 title: "Longgang Chu"
 description: "Longgang Chu is a Mid-career Unknown researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.516224
+date: 2026-07-10T01:07:47.584168
 url: "/cdr-researcher-census/researchers/longgang-chu-a5039802/"
 layout: "researcher"
 hiddenInHomeList: true

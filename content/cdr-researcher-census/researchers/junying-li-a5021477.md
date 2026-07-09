@@ -1,7 +1,7 @@
 ---
 title: "Junying Li"
 description: "Junying Li is an Early-career Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.761326
+date: 2026-07-10T01:07:48.706455
 url: "/cdr-researcher-census/researchers/junying-li-a5021477/"
 layout: "researcher"
 hiddenInHomeList: true

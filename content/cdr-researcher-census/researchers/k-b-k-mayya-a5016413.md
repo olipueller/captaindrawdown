@@ -1,7 +1,7 @@
 ---
 title: "K. B. K. Mayya"
 description: "K. B. K. Mayya is a Senior Unknown researcher at Indian Institute of Technology Gandhinagar in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.193602
+date: 2026-07-10T01:07:49.107175
 url: "/cdr-researcher-census/researchers/k-b-k-mayya-a5016413/"
 layout: "researcher"
 hiddenInHomeList: true

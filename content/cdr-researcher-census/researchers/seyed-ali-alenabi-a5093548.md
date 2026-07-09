@@ -1,7 +1,7 @@
 ---
 title: "Seyed Ali Alenabi"
 description: "Seyed Ali Alenabi is an Early-career Unknown researcher at Shahid Beheshti University in IR. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.726649
+date: 2026-07-10T01:07:48.676210
 url: "/cdr-researcher-census/researchers/seyed-ali-alenabi-a5093548/"
 layout: "researcher"
 hiddenInHomeList: true

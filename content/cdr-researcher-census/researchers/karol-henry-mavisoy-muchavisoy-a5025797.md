@@ -1,7 +1,7 @@
 ---
 title: "Karol Henry Mavisoy Muchavisoy"
 description: "Karol Henry Mavisoy Muchavisoy is a Mid-career Soil Carbon researcher at University of Lisbon in PT. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.833637
+date: 2026-07-10T01:07:47.869914
 url: "/cdr-researcher-census/researchers/karol-henry-mavisoy-muchavisoy-a5025797/"
 layout: "researcher"
 hiddenInHomeList: true

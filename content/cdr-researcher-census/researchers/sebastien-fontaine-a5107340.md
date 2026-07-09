@@ -1,7 +1,7 @@
 ---
 title: "Sébastien Fontaine"
 description: "Sébastien Fontaine is a Senior Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.102282
+date: 2026-07-10T01:07:47.186623
 url: "/cdr-researcher-census/researchers/sebastien-fontaine-a5107340/"
 layout: "researcher"
 hiddenInHomeList: true

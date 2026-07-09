@@ -1,7 +1,7 @@
 ---
 title: "Thomas V. Wagner"
 description: "Thomas V. Wagner is a Mid-career Biochar researcher at Wageningen University and Research in NL. With 21 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.623951
+date: 2026-07-10T01:07:47.684207
 url: "/cdr-researcher-census/researchers/thomas-v-wagner-a5041895/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Santo Fedele Colosimo"
 description: "Santo Fedele Colosimo is a Mid-career Unknown researcher at NOAA Oceanic and Atmospheric Research in US. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.236814
+date: 2026-07-10T01:07:48.246484
 url: "/cdr-researcher-census/researchers/santo-fedele-colosimo-a5019183/"
 layout: "researcher"
 hiddenInHomeList: true

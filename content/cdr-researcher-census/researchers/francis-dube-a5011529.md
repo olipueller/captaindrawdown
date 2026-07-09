@@ -1,7 +1,7 @@
 ---
 title: "Francis Dubé"
 description: "Francis Dubé is a Senior Soil Carbon researcher at University of Concepción in CL. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.348908
+date: 2026-07-10T01:07:47.431355
 url: "/cdr-researcher-census/researchers/francis-dube-a5011529/"
 layout: "researcher"
 hiddenInHomeList: true

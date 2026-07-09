@@ -1,7 +1,7 @@
 ---
 title: "Minqi Liang"
 description: "Minqi Liang is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.944711
+date: 2026-07-10T01:07:47.956848
 url: "/cdr-researcher-census/researchers/minqi-liang-a5113980/"
 layout: "researcher"
 hiddenInHomeList: true

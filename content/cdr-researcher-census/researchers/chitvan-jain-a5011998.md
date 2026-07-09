@@ -1,7 +1,7 @@
 ---
 title: "Chitvan Jain"
 description: "Chitvan Jain is an Early-career Unknown researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.109097
+date: 2026-07-10T01:07:48.134767
 url: "/cdr-researcher-census/researchers/chitvan-jain-a5011998/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jordan P. Goodrich"
 description: "Jordan P. Goodrich is a Senior Soil Carbon researcher at Manaaki Whenua - Landcare Research in NZ. With 93 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.033853
+date: 2026-07-10T01:07:47.104078
 url: "/cdr-researcher-census/researchers/jordan-p-goodrich-a5029969/"
 layout: "researcher"
 hiddenInHomeList: true

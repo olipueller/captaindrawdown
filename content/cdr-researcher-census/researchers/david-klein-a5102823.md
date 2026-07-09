@@ -1,7 +1,7 @@
 ---
 title: "David Klein"
 description: "David Klein is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 64 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.943193
+date: 2026-07-10T01:07:46.971362
 url: "/cdr-researcher-census/researchers/david-klein-a5102823/"
 layout: "researcher"
 hiddenInHomeList: true

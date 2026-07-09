@@ -1,7 +1,7 @@
 ---
 title: "Sebastian A. Pfau"
 description: "Sebastian A. Pfau is a Mid-career Unknown researcher at University of Nottingham in GB. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.796912
+date: 2026-07-10T01:07:48.736276
 url: "/cdr-researcher-census/researchers/sebastian-a-pfau-a5058273/"
 layout: "researcher"
 hiddenInHomeList: true

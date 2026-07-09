@@ -1,7 +1,7 @@
 ---
 title: "Márcia Matias"
 description: "Márcia Matias is a Mid-career Unknown researcher at University of Lisbon in PT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.484052
+date: 2026-07-10T01:07:48.470627
 url: "/cdr-researcher-census/researchers/marcia-matias-a5035242/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zongyu Gu"
 description: "Zongyu Gu is a Mid-career Unknown researcher at Massachusetts Institute of Technology in US. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.407391
+date: 2026-07-10T01:07:48.398961
 url: "/cdr-researcher-census/researchers/zongyu-gu-a5039537/"
 layout: "researcher"
 hiddenInHomeList: true

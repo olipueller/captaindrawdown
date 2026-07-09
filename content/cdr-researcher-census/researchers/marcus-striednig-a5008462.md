@@ -1,7 +1,7 @@
 ---
 title: "Marcus Striednig"
 description: "Marcus Striednig is a Mid-career Unknown researcher at Universität Innsbruck in AT. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.534720
+date: 2026-07-10T01:07:47.600775
 url: "/cdr-researcher-census/researchers/marcus-striednig-a5008462/"
 layout: "researcher"
 hiddenInHomeList: true

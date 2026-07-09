@@ -1,7 +1,7 @@
 ---
 title: "Kongcan Mei"
 description: "Kongcan Mei is a Mid-career Unknown researcher at Fujian Normal University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.480998
+date: 2026-07-10T01:07:48.467882
 url: "/cdr-researcher-census/researchers/kongcan-mei-a5067056/"
 layout: "researcher"
 hiddenInHomeList: true

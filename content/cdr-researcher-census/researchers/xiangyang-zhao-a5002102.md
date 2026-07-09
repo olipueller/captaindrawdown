@@ -1,7 +1,7 @@
 ---
 title: "Xiangyang Zhao"
 description: "Xiangyang Zhao is a Mid-career Unknown researcher at Sinopec (China) in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.040275
+date: 2026-07-10T01:07:48.045706
 url: "/cdr-researcher-census/researchers/xiangyang-zhao-a5002102/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sihe Wang"
 description: "Sihe Wang is a Senior Unknown researcher at Shandong University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.838727
+date: 2026-07-10T01:07:48.771268
 url: "/cdr-researcher-census/researchers/sihe-wang-a5079455/"
 layout: "researcher"
 hiddenInHomeList: true

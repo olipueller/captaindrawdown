@@ -1,7 +1,7 @@
 ---
 title: "Filippo Del Zozzo"
 description: "Filippo Del Zozzo is a Mid-career Unknown researcher at Università Cattolica del Sacro Cuore in IT. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.084084
+date: 2026-07-10T01:07:48.994339
 url: "/cdr-researcher-census/researchers/filippo-del-zozzo-a5014301/"
 layout: "researcher"
 hiddenInHomeList: true

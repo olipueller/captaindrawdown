@@ -1,7 +1,7 @@
 ---
 title: "Prasenjit Chakrabortty"
 description: "Prasenjit Chakrabortty is an Early-career Unknown researcher at University of Burdwan in IN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.737821
+date: 2026-07-10T01:07:48.685646
 url: "/cdr-researcher-census/researchers/prasenjit-chakrabortty-a5092200/"
 layout: "researcher"
 hiddenInHomeList: true

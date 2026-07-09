@@ -1,7 +1,7 @@
 ---
 title: "Xianglan Li"
 description: "Xianglan Li is a Mid-career General CDR researcher at Nanjing Agricultural University in CN. With 51 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.150214
+date: 2026-07-10T01:07:47.238600
 url: "/cdr-researcher-census/researchers/xianglan-li-a5028332/"
 layout: "researcher"
 hiddenInHomeList: true

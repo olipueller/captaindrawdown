@@ -1,7 +1,7 @@
 ---
 title: "Jenny Lieu"
 description: "Jenny Lieu is a Senior General CDR researcher at Technische Universiteit Delft in NL. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.321540
+date: 2026-07-10T01:07:47.403802
 url: "/cdr-researcher-census/researchers/jenny-lieu-a5038420/"
 layout: "researcher"
 hiddenInHomeList: true

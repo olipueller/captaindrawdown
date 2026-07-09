@@ -1,7 +1,7 @@
 ---
 title: "Milad Torabfam"
 description: "Milad Torabfam is a Mid-career Unknown researcher at New Jersey Institute of Technology in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.654736
+date: 2026-07-10T01:07:47.712224
 url: "/cdr-researcher-census/researchers/milad-torabfam-a5065635/"
 layout: "researcher"
 hiddenInHomeList: true

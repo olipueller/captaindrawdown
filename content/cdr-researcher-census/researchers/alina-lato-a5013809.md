@@ -1,7 +1,7 @@
 ---
 title: "Alina Laţo"
 description: "Alina Laţo is a Mid-career Soil Carbon researcher at West University of Timişoara in RO. With 40 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.188137
+date: 2026-07-10T01:07:49.102356
 url: "/cdr-researcher-census/researchers/alina-lato-a5013809/"
 layout: "researcher"
 hiddenInHomeList: true

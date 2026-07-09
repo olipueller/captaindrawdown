@@ -1,7 +1,7 @@
 ---
 title: "G. Rob Lee"
 description: "G. Rob Lee is a Senior General CDR researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.183661
+date: 2026-07-10T01:07:49.097948
 url: "/cdr-researcher-census/researchers/g-rob-lee-a5021595/"
 layout: "researcher"
 hiddenInHomeList: true

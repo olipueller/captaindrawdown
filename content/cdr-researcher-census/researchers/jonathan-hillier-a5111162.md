@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Hillier"
 description: "Jonathan Hillier is a Senior Soil Carbon researcher at University of Wyoming in US. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.128177
+date: 2026-07-10T01:07:47.216003
 url: "/cdr-researcher-census/researchers/jonathan-hillier-a5111162/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Michalakis Christoforou"
 description: "Michalakis Christoforou is a Mid-career Soil Carbon researcher at Cyprus University of Technology in CY. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.965720
+date: 2026-07-10T01:07:48.886582
 url: "/cdr-researcher-census/researchers/michalakis-christoforou-a5029619/"
 layout: "researcher"
 hiddenInHomeList: true

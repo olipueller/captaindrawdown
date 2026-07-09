@@ -1,7 +1,7 @@
 ---
 title: "Festus O. Amadu"
 description: "Festus O. Amadu is a Mid-career Soil Carbon researcher at University of Notre Dame in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.587201
+date: 2026-07-10T01:07:47.650500
 url: "/cdr-researcher-census/researchers/festus-o-amadu-a5037263/"
 layout: "researcher"
 hiddenInHomeList: true

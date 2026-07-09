@@ -1,7 +1,7 @@
 ---
 title: "Florence Tomasetig"
 description: "Florence Tomasetig is a Senior Unknown researcher at UNSW Sydney in AU. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.740660
+date: 2026-07-10T01:07:47.792785
 url: "/cdr-researcher-census/researchers/florence-tomasetig-a5036700/"
 layout: "researcher"
 hiddenInHomeList: true

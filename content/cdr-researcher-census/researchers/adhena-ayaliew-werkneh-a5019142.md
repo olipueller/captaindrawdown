@@ -1,7 +1,7 @@
 ---
 title: "Adhena Ayaliew Werkneh"
 description: "Adhena Ayaliew Werkneh is a Senior Unknown researcher at Mekelle University College of Health Sciences in ET. With 32 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.892952
+date: 2026-07-10T01:07:46.871092
 url: "/cdr-researcher-census/researchers/adhena-ayaliew-werkneh-a5019142/"
 layout: "researcher"
 hiddenInHomeList: true

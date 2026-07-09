@@ -1,7 +1,7 @@
 ---
 title: "Jerzy Lesiński"
 description: "Jerzy Lesiński is a Senior General CDR researcher at University of Agriculture in Krakow in PL. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.583360
+date: 2026-07-10T01:07:47.646905
 url: "/cdr-researcher-census/researchers/jerzy-lesinski-a5075653/"
 layout: "researcher"
 hiddenInHomeList: true

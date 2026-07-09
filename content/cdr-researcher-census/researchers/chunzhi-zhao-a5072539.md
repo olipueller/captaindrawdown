@@ -1,7 +1,7 @@
 ---
 title: "Chunzhi Zhao"
 description: "Chunzhi Zhao is a Mid-career Unknown researcher at Hangzhou Normal University in CN. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.458682
+date: 2026-07-10T01:07:47.533112
 url: "/cdr-researcher-census/researchers/chunzhi-zhao-a5072539/"
 layout: "researcher"
 hiddenInHomeList: true

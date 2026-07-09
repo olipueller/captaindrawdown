@@ -1,7 +1,7 @@
 ---
 title: "Gabrielle A. Kliegle"
 description: "Gabrielle A. Kliegle is a Mid-career Unknown researcher at Catalytic Materials (United States) in US. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.839120
+date: 2026-07-10T01:07:48.771627
 url: "/cdr-researcher-census/researchers/gabrielle-a-kliegle-a5057693/"
 layout: "researcher"
 hiddenInHomeList: true

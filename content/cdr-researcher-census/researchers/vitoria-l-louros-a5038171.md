@@ -1,7 +1,7 @@
 ---
 title: "Vitória L. Louros"
 description: "Vitória L. Louros is a Mid-career Unknown researcher at University of Aveiro in PT. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.179681
+date: 2026-07-10T01:07:48.195784
 url: "/cdr-researcher-census/researchers/vitoria-l-louros-a5038171/"
 layout: "researcher"
 hiddenInHomeList: true

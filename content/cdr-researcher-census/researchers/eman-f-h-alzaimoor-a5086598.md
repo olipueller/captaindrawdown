@@ -1,7 +1,7 @@
 ---
 title: "Eman F. H. Alzaimoor"
 description: "Eman F. H. Alzaimoor is an Early-career Unknown researcher at University of Bahrain in BH. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.752278
+date: 2026-07-10T01:07:48.698918
 url: "/cdr-researcher-census/researchers/eman-f-h-alzaimoor-a5086598/"
 layout: "researcher"
 hiddenInHomeList: true

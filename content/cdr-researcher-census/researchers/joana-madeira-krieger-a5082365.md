@@ -1,7 +1,7 @@
 ---
 title: "Joana Madeira Krieger"
 description: "Joana Madeira Krieger is a Mid-career Soil Carbon researcher at Conservation International in US. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.068342
+date: 2026-07-10T01:07:48.979660
 url: "/cdr-researcher-census/researchers/joana-madeira-krieger-a5082365/"
 layout: "researcher"
 hiddenInHomeList: true

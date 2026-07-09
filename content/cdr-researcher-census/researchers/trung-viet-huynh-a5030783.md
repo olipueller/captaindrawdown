@@ -1,7 +1,7 @@
 ---
 title: "Trung Viet Huynh"
 description: "Trung Viet Huynh is a Mid-career Unknown researcher at National Tsing Hua University in TW. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.788481
+date: 2026-07-10T01:07:47.837458
 url: "/cdr-researcher-census/researchers/trung-viet-huynh-a5030783/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jens Rubner"
 description: "Jens Rubner is a Mid-career Unknown researcher at RWTH Aachen University in DE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.704990
+date: 2026-07-10T01:07:48.657394
 url: "/cdr-researcher-census/researchers/jens-rubner-a5079208/"
 layout: "researcher"
 hiddenInHomeList: true

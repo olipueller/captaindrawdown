@@ -1,7 +1,7 @@
 ---
 title: "Chunhua Xia"
 description: "Chunhua Xia is a Mid-career Unknown researcher at Nanjing Normal University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.910445
+date: 2026-07-10T01:07:48.835349
 url: "/cdr-researcher-census/researchers/chunhua-xia-a5064173/"
 layout: "researcher"
 hiddenInHomeList: true

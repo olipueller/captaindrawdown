@@ -1,7 +1,7 @@
 ---
 title: "Chunyang Lu"
 description: "Chunyang Lu is a Senior Soil Carbon researcher at Shanghai University in CN. With 71 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.376342
+date: 2026-07-10T01:07:47.458246
 url: "/cdr-researcher-census/researchers/chunyang-lu-a5111195/"
 layout: "researcher"
 hiddenInHomeList: true

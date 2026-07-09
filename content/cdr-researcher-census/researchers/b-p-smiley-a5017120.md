@@ -1,7 +1,7 @@
 ---
 title: "B. P. Smiley"
 description: "B. P. Smiley is a Mid-career Soil Carbon researcher at Canadian Forest Service in CA. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.362771
+date: 2026-07-10T01:07:48.360641
 url: "/cdr-researcher-census/researchers/b-p-smiley-a5017120/"
 layout: "researcher"
 hiddenInHomeList: true

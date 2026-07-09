@@ -1,7 +1,7 @@
 ---
 title: "Christian Lopes"
 description: "Christian Lopes is a Mid-career Ocean CDR researcher at University of Toronto in CA. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.657290
+date: 2026-07-10T01:07:47.714746
 url: "/cdr-researcher-census/researchers/christian-lopes-a5036380/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Aihong Yang"
 description: "Aihong Yang is a Senior Soil Carbon researcher at Jiangxi Academy of Sciences in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.818831
+date: 2026-07-10T01:07:47.865108
 url: "/cdr-researcher-census/researchers/aihong-yang-a5018170/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Veran Weerathunga"
 description: "Veran Weerathunga is a Mid-career Unknown researcher at National Sun Yat-sen University in TW. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.326310
+date: 2026-07-10T01:07:48.326690
 url: "/cdr-researcher-census/researchers/veran-weerathunga-a5028886/"
 layout: "researcher"
 hiddenInHomeList: true

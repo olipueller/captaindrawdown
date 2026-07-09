@@ -1,7 +1,7 @@
 ---
 title: "Devon B. Cole"
 description: "Devon B. Cole is a Senior General CDR researcher at Climate Central in US. With 58 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.043414
+date: 2026-07-10T01:07:47.116506
 url: "/cdr-researcher-census/researchers/devon-b-cole-a5006623/"
 layout: "researcher"
 hiddenInHomeList: true

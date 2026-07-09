@@ -1,7 +1,7 @@
 ---
 title: "Tansu Galimova"
 description: "Tansu Galimova is a Mid-career DAC researcher at LUT University in FI. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.326027
+date: 2026-07-10T01:07:47.408026
 url: "/cdr-researcher-census/researchers/tansu-galimova-a5075741/"
 layout: "researcher"
 hiddenInHomeList: true

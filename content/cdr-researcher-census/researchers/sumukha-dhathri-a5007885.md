@@ -1,7 +1,7 @@
 ---
 title: "Sumukha Dhathri"
 description: "Sumukha Dhathri is an Early-career General CDR researcher at University of Freiburg in DE. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.291247
+date: 2026-07-10T01:07:48.295342
 url: "/cdr-researcher-census/researchers/sumukha-dhathri-a5007885/"
 layout: "researcher"
 hiddenInHomeList: true

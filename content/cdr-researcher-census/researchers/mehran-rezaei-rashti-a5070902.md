@@ -1,7 +1,7 @@
 ---
 title: "Mehran Rezaei Rashti"
 description: "Mehran Rezaei Rashti is a Senior Soil Carbon researcher at Griffith University Griffith Sciences in AU. With 74 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.107132
+date: 2026-07-10T01:07:47.192272
 url: "/cdr-researcher-census/researchers/mehran-rezaei-rashti-a5070902/"
 layout: "researcher"
 hiddenInHomeList: true

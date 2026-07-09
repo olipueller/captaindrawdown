@@ -1,7 +1,7 @@
 ---
 title: "Tiina Kurvits"
 description: "Tiina Kurvits is a Mid-career Unknown researcher. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.549053
+date: 2026-07-10T01:07:47.613338
 url: "/cdr-researcher-census/researchers/tiina-kurvits-a5028798/"
 layout: "researcher"
 hiddenInHomeList: true

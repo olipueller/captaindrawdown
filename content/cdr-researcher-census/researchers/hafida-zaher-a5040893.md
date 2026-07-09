@@ -1,7 +1,7 @@
 ---
 title: "Hafida Zaher"
 description: "Hafida Zaher is a Senior Soil Carbon researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.438407
+date: 2026-07-10T01:07:48.428330
 url: "/cdr-researcher-census/researchers/hafida-zaher-a5040893/"
 layout: "researcher"
 hiddenInHomeList: true

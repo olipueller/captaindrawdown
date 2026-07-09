@@ -1,7 +1,7 @@
 ---
 title: "Marília R. Oliveira"
 description: "Marília R. Oliveira is a Mid-career Unknown researcher at Universidade do Porto in PT. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.149413
+date: 2026-07-10T01:07:48.169304
 url: "/cdr-researcher-census/researchers/marilia-r-oliveira-a5040454/"
 layout: "researcher"
 hiddenInHomeList: true

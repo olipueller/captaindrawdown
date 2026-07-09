@@ -1,7 +1,7 @@
 ---
 title: "Javaid M. Dad"
 description: "Javaid M. Dad is a Senior Soil Carbon researcher at University of Kashmir in IN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.065024
+date: 2026-07-10T01:07:48.067726
 url: "/cdr-researcher-census/researchers/javaid-m-dad-a5049971/"
 layout: "researcher"
 hiddenInHomeList: true

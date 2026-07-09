@@ -1,7 +1,7 @@
 ---
 title: "Jinhua Wu"
 description: "Jinhua Wu is a Senior Biochar researcher at South China University of Technology in CN. With 60 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.013569
+date: 2026-07-10T01:07:47.078507
 url: "/cdr-researcher-census/researchers/jinhua-wu-a5107841/"
 layout: "researcher"
 hiddenInHomeList: true

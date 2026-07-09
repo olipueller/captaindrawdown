@@ -1,7 +1,7 @@
 ---
 title: "Yuzuo Liu"
 description: "Yuzuo Liu is a Mid-career Unknown researcher at China University of Petroleum, Beijing in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.250226
+date: 2026-07-10T01:07:49.157557
 url: "/cdr-researcher-census/researchers/yuzuo-liu-a5022767/"
 layout: "researcher"
 hiddenInHomeList: true

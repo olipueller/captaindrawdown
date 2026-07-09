@@ -1,7 +1,7 @@
 ---
 title: "Yael Ebert"
 description: "Yael Ebert is a Senior General CDR researcher at Hebrew University of Jerusalem in IL. With 49 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.508099
+date: 2026-07-10T01:07:47.577042
 url: "/cdr-researcher-census/researchers/yael-ebert-a5018266/"
 layout: "researcher"
 hiddenInHomeList: true

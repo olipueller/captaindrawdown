@@ -1,7 +1,7 @@
 ---
 title: "Haireti Alifu"
 description: "Haireti Alifu is a Mid-career Soil Carbon researcher at Center For Remote Sensing (United States) in US. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.410130
+date: 2026-07-10T01:07:47.489647
 url: "/cdr-researcher-census/researchers/haireti-alifu-a5058525/"
 layout: "researcher"
 hiddenInHomeList: true

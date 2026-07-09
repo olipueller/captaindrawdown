@@ -1,7 +1,7 @@
 ---
 title: "E. O’Dwyer"
 description: "E. O’Dwyer is a Mid-career Unknown researcher at Queen's University in CA. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.538110
+date: 2026-07-10T01:07:47.603638
 url: "/cdr-researcher-census/researchers/e-odwyer-a5045443/"
 layout: "researcher"
 hiddenInHomeList: true

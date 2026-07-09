@@ -1,7 +1,7 @@
 ---
 title: "Emily A. Ury"
 description: "Emily A. Ury is a Mid-career Soil Carbon researcher at Colgate University in US. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.403679
+date: 2026-07-10T01:07:47.483966
 url: "/cdr-researcher-census/researchers/emily-a-ury-a5042648/"
 layout: "researcher"
 hiddenInHomeList: true

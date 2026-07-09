@@ -1,7 +1,7 @@
 ---
 title: "Pia Ramos"
 description: "Pia Ramos is a Senior Biochar researcher at U.S. Salinity Laboratory in US. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.803242
+date: 2026-07-10T01:07:47.850575
 url: "/cdr-researcher-census/researchers/pia-ramos-a5026157/"
 layout: "researcher"
 hiddenInHomeList: true

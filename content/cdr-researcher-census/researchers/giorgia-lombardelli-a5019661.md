@@ -1,7 +1,7 @@
 ---
 title: "Giorgia Lombardelli"
 description: "Giorgia Lombardelli is a Mid-career General CDR researcher at Ospedaliera di Piacenza in IT. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.259547
+date: 2026-07-10T01:07:48.267164
 url: "/cdr-researcher-census/researchers/giorgia-lombardelli-a5019661/"
 layout: "researcher"
 hiddenInHomeList: true

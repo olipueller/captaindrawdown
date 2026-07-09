@@ -1,7 +1,7 @@
 ---
 title: "Jo Hong Kang"
 description: "Jo Hong Kang is a Mid-career Unknown researcher at Yonsei University in KR. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.644612
+date: 2026-07-10T01:07:47.703561
 url: "/cdr-researcher-census/researchers/jo-hong-kang-a5023535/"
 layout: "researcher"
 hiddenInHomeList: true

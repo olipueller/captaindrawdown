@@ -1,7 +1,7 @@
 ---
 title: "Nilda Braga de Lacerda"
 description: "Nilda Braga de Lacerda is a Senior Soil Carbon researcher at Universidade Federal do Ceará in BR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.748603
+date: 2026-07-10T01:07:48.695394
 url: "/cdr-researcher-census/researchers/nilda-braga-de-lacerda-a5110250/"
 layout: "researcher"
 hiddenInHomeList: true

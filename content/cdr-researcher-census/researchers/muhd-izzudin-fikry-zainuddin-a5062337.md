@@ -1,7 +1,7 @@
 ---
 title: "Muhd Izzudin Fikry Zainuddin"
 description: "Muhd Izzudin Fikry Zainuddin is a Mid-career Unknown researcher at University of Malaya in MY. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.095148
+date: 2026-07-10T01:07:49.003768
 url: "/cdr-researcher-census/researchers/muhd-izzudin-fikry-zainuddin-a5062337/"
 layout: "researcher"
 hiddenInHomeList: true

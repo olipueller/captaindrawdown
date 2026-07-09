@@ -1,7 +1,7 @@
 ---
 title: "Hanyi Li"
 description: "Hanyi Li is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.737875
+date: 2026-07-10T01:07:47.790282
 url: "/cdr-researcher-census/researchers/hanyi-li-a5075354/"
 layout: "researcher"
 hiddenInHomeList: true

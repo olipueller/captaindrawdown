@@ -1,7 +1,7 @@
 ---
 title: "Wassim Moussa"
 description: "Wassim Moussa is a Senior Unknown researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.956690
+date: 2026-07-10T01:07:48.878491
 url: "/cdr-researcher-census/researchers/wassim-moussa-a5020205/"
 layout: "researcher"
 hiddenInHomeList: true

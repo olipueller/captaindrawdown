@@ -1,7 +1,7 @@
 ---
 title: "Haowei Yue"
 description: "Haowei Yue is a Mid-career Unknown researcher. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.185198
+date: 2026-07-10T01:07:47.274220
 url: "/cdr-researcher-census/researchers/haowei-yue-a5007406/"
 layout: "researcher"
 hiddenInHomeList: true

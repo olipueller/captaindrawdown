@@ -1,7 +1,7 @@
 ---
 title: "Sanna Söderlund"
 description: "Sanna Söderlund is an Early-career Soil Carbon researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.916403
+date: 2026-07-10T01:07:48.840774
 url: "/cdr-researcher-census/researchers/sanna-soderlund-a5002023/"
 layout: "researcher"
 hiddenInHomeList: true

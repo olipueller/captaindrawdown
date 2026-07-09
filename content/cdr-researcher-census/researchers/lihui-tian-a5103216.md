@@ -1,7 +1,7 @@
 ---
 title: "Lihui Tian"
 description: "Lihui Tian is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.644981
+date: 2026-07-10T01:07:48.603629
 url: "/cdr-researcher-census/researchers/lihui-tian-a5103216/"
 layout: "researcher"
 hiddenInHomeList: true

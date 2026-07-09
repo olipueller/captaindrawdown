@@ -1,7 +1,7 @@
 ---
 title: "Bruno Takeshi Tanaka Portela"
 description: "Bruno Takeshi Tanaka Portela is a Senior Unknown researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.131554
+date: 2026-07-10T01:07:47.220503
 url: "/cdr-researcher-census/researchers/bruno-takeshi-tanaka-portela-a5059453/"
 layout: "researcher"
 hiddenInHomeList: true

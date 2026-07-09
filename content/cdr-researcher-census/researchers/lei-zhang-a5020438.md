@@ -1,7 +1,7 @@
 ---
 title: "Lei Zhang"
 description: "Lei Zhang is a Senior Soil Carbon researcher at University of Michigan in US. With 112 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.031309
+date: 2026-07-10T01:07:47.100547
 url: "/cdr-researcher-census/researchers/lei-zhang-a5020438/"
 layout: "researcher"
 hiddenInHomeList: true

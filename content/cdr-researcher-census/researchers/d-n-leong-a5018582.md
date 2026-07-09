@@ -1,7 +1,7 @@
 ---
 title: "D. N. Leong"
 description: "D. N. Leong is a Mid-career Unknown researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.869085
+date: 2026-07-10T01:07:48.797648
 url: "/cdr-researcher-census/researchers/d-n-leong-a5018582/"
 layout: "researcher"
 hiddenInHomeList: true

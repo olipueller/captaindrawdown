@@ -1,7 +1,7 @@
 ---
 title: "Thirawit Prasert"
 description: "Thirawit Prasert is a Mid-career Biochar researcher at Khon Kaen University in TH. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.891061
+date: 2026-07-10T01:07:48.817587
 url: "/cdr-researcher-census/researchers/thirawit-prasert-a5061315/"
 layout: "researcher"
 hiddenInHomeList: true

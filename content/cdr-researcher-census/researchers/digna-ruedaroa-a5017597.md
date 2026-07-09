@@ -1,7 +1,7 @@
 ---
 title: "Digna Rueda‐Roa"
 description: "Digna Rueda‐Roa is a Senior Ocean CDR researcher at University of South Florida in US. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.288106
+date: 2026-07-10T01:07:47.370266
 url: "/cdr-researcher-census/researchers/digna-ruedaroa-a5017597/"
 layout: "researcher"
 hiddenInHomeList: true

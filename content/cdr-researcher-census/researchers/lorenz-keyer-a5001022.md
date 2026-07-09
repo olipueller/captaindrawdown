@@ -1,7 +1,7 @@
 ---
 title: "Lorenz Keyßer"
 description: "Lorenz Keyßer is a Mid-career General CDR researcher at University of Lausanne in CH. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.110310
+date: 2026-07-10T01:07:47.195844
 url: "/cdr-researcher-census/researchers/lorenz-keyer-a5001022/"
 layout: "researcher"
 hiddenInHomeList: true

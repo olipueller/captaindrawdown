@@ -1,7 +1,7 @@
 ---
 title: "Yaofeng Chang"
 description: "Yaofeng Chang is a Mid-career Biochar researcher at Suzhou University of Science and Technology in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.400021
+date: 2026-07-10T01:07:47.480717
 url: "/cdr-researcher-census/researchers/yaofeng-chang-a5090205/"
 layout: "researcher"
 hiddenInHomeList: true

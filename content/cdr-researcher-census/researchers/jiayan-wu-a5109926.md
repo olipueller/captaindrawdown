@@ -1,7 +1,7 @@
 ---
 title: "Jiayan Wu"
 description: "Jiayan Wu is a Mid-career Unknown researcher at Sinovac Biotech in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.906584
+date: 2026-07-10T01:07:47.920411
 url: "/cdr-researcher-census/researchers/jiayan-wu-a5109926/"
 layout: "researcher"
 hiddenInHomeList: true

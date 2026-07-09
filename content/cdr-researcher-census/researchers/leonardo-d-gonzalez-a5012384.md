@@ -1,7 +1,7 @@
 ---
 title: "Leonardo D. González"
 description: "Leonardo D. González is a Mid-career Unknown researcher at University of Wisconsin–Madison in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.773031
+date: 2026-07-10T01:07:48.716925
 url: "/cdr-researcher-census/researchers/leonardo-d-gonzalez-a5012384/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Johanna Jensen"
 description: "Johanna Jensen is a Mid-career Unknown researcher at Berkeley College in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.140902
+date: 2026-07-10T01:07:49.043863
 url: "/cdr-researcher-census/researchers/johanna-jensen-a5008868/"
 layout: "researcher"
 hiddenInHomeList: true

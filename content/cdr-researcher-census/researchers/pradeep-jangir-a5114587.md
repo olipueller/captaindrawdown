@@ -1,7 +1,7 @@
 ---
 title: "Pradeep Jangir"
 description: "Pradeep Jangir is an Early-career Unknown researcher at Jadara University in JO. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.929879
+date: 2026-07-10T01:07:48.853387
 url: "/cdr-researcher-census/researchers/pradeep-jangir-a5114587/"
 layout: "researcher"
 hiddenInHomeList: true

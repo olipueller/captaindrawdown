@@ -1,7 +1,7 @@
 ---
 title: "Samuel Roberts"
 description: "Samuel Roberts is a Senior Unknown researcher at Mansfield University in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.545223
+date: 2026-07-10T01:07:47.610028
 url: "/cdr-researcher-census/researchers/samuel-roberts-a5012734/"
 layout: "researcher"
 hiddenInHomeList: true

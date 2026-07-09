@@ -1,7 +1,7 @@
 ---
 title: "Arup Mahapatra"
 description: "Arup Mahapatra is a Mid-career Unknown researcher at Central University of Jharkhand in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.195661
+date: 2026-07-10T01:07:48.209159
 url: "/cdr-researcher-census/researchers/arup-mahapatra-a5114041/"
 layout: "researcher"
 hiddenInHomeList: true

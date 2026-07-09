@@ -1,7 +1,7 @@
 ---
 title: "Sundaram Vickram"
 description: "Sundaram Vickram is a Mid-career Unknown researcher at Saveetha University in IN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.325381
+date: 2026-07-10T01:07:47.407422
 url: "/cdr-researcher-census/researchers/sundaram-vickram-a5034850/"
 layout: "researcher"
 hiddenInHomeList: true

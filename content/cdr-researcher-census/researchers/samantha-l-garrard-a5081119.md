@@ -1,7 +1,7 @@
 ---
 title: "Samantha L. Garrard"
 description: "Samantha L. Garrard is a Senior Unknown researcher at Plymouth Marine Laboratory in GB. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.407753
+date: 2026-07-10T01:07:47.487455
 url: "/cdr-researcher-census/researchers/samantha-l-garrard-a5081119/"
 layout: "researcher"
 hiddenInHomeList: true

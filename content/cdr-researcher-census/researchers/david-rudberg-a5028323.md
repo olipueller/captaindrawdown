@@ -1,7 +1,7 @@
 ---
 title: "David Rudberg"
 description: "David Rudberg is a Mid-career Unknown researcher at Linköping University in SE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.204720
+date: 2026-07-10T01:07:48.218063
 url: "/cdr-researcher-census/researchers/david-rudberg-a5028323/"
 layout: "researcher"
 hiddenInHomeList: true

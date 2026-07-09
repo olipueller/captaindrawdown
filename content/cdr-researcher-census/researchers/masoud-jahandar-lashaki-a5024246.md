@@ -1,7 +1,7 @@
 ---
 title: "Masoud Jahandar Lashaki"
 description: "Masoud Jahandar Lashaki is a Senior Unknown researcher at Florida Atlantic University in US. With 31 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.091097
+date: 2026-07-10T01:07:47.173906
 url: "/cdr-researcher-census/researchers/masoud-jahandar-lashaki-a5024246/"
 layout: "researcher"
 hiddenInHomeList: true

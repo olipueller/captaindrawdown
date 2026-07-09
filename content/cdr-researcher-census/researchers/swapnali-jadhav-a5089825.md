@@ -1,7 +1,7 @@
 ---
 title: "Swapnali Jadhav"
 description: "Swapnali Jadhav is a Mid-career Unknown researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.461071
+date: 2026-07-10T01:07:47.535371
 url: "/cdr-researcher-census/researchers/swapnali-jadhav-a5089825/"
 layout: "researcher"
 hiddenInHomeList: true

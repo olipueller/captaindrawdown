@@ -1,7 +1,7 @@
 ---
 title: "Alejo Ruiz"
 description: "Alejo Ruiz is a Mid-career Soil Carbon researcher at Iowa State University in US. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.362254
+date: 2026-07-10T01:07:48.360201
 url: "/cdr-researcher-census/researchers/alejo-ruiz-a5080006/"
 layout: "researcher"
 hiddenInHomeList: true

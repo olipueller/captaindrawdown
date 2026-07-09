@@ -1,7 +1,7 @@
 ---
 title: "Sara Sechi"
 description: "Sara Sechi is a Senior Unknown researcher at University of Sassari in IT. With 5 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.931440
+date: 2026-07-10T01:07:48.854800
 url: "/cdr-researcher-census/researchers/sara-sechi-a5005813/"
 layout: "researcher"
 hiddenInHomeList: true

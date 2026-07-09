@@ -1,7 +1,7 @@
 ---
 title: "Shiv Kumar Gupta"
 description: "Shiv Kumar Gupta is a Senior Unknown researcher at Hemwati Nandan Bahuguna Garhwal University in IN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.320858
+date: 2026-07-10T01:07:48.321994
 url: "/cdr-researcher-census/researchers/shiv-kumar-gupta-a5042578/"
 layout: "researcher"
 hiddenInHomeList: true

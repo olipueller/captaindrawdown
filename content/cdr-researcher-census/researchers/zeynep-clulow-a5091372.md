@@ -1,7 +1,7 @@
 ---
 title: "Zeynep Clulow"
 description: "Zeynep Clulow is a Mid-career General CDR researcher at University of Cambridge in GB. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.371992
+date: 2026-07-10T01:07:47.454177
 url: "/cdr-researcher-census/researchers/zeynep-clulow-a5091372/"
 layout: "researcher"
 hiddenInHomeList: true

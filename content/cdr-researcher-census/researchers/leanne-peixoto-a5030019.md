@@ -1,7 +1,7 @@
 ---
 title: "Leanne Peixoto"
 description: "Leanne Peixoto is a Senior Soil Carbon researcher at Aarhus University in DK. With 70 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.174619
+date: 2026-07-10T01:07:47.263771
 url: "/cdr-researcher-census/researchers/leanne-peixoto-a5030019/"
 layout: "researcher"
 hiddenInHomeList: true

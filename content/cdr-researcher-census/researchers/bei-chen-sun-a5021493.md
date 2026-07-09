@@ -1,7 +1,7 @@
 ---
 title: "Bei Chen Sun"
 description: "Bei Chen Sun is a Mid-career Unknown researcher at Beijing University of Technology in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.142429
+date: 2026-07-10T01:07:49.045225
 url: "/cdr-researcher-census/researchers/bei-chen-sun-a5021493/"
 layout: "researcher"
 hiddenInHomeList: true

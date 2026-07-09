@@ -1,7 +1,7 @@
 ---
 title: "Wan Aizuddin Wan Razali"
 description: "Wan Aizuddin Wan Razali is a Mid-career Unknown researcher at Universiti Malaysia Terengganu in MY. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.336308
+date: 2026-07-10T01:07:48.336441
 url: "/cdr-researcher-census/researchers/wan-aizuddin-wan-razali-a5103021/"
 layout: "researcher"
 hiddenInHomeList: true

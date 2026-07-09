@@ -1,7 +1,7 @@
 ---
 title: "Yiyan Chu"
 description: "Yiyan Chu is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.103399
+date: 2026-07-10T01:07:48.129618
 url: "/cdr-researcher-census/researchers/yiyan-chu-a5032277/"
 layout: "researcher"
 hiddenInHomeList: true

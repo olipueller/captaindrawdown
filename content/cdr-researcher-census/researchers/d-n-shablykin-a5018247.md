@@ -1,7 +1,7 @@
 ---
 title: "D. N. Shablykin"
 description: "D. N. Shablykin is a Mid-career Unknown researcher at N. I. Lobachevsky State University of Nizhny Novgorod in RU. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.331861
+date: 2026-07-10T01:07:48.332238
 url: "/cdr-researcher-census/researchers/d-n-shablykin-a5018247/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gaozhi Bai"
 description: "Gaozhi Bai is a Mid-career Unknown researcher at Nanjing Tech University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.224841
+date: 2026-07-10T01:07:49.134797
 url: "/cdr-researcher-census/researchers/gaozhi-bai-a5091462/"
 layout: "researcher"
 hiddenInHomeList: true

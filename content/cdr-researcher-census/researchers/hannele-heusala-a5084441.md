@@ -1,7 +1,7 @@
 ---
 title: "Hannele Heusala"
 description: "Hannele Heusala is a Mid-career Unknown researcher at Natural Resources Institute Finland in FI. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.042527
+date: 2026-07-10T01:07:48.047982
 url: "/cdr-researcher-census/researchers/hannele-heusala-a5084441/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gunnar Luderer"
 description: "Gunnar Luderer is an Eminent General CDR researcher at Technische Universität Berlin in DE. With 301 publications and an h-index of 82, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.874252
+date: 2026-07-10T01:07:46.817092
 url: "/cdr-researcher-census/researchers/gunnar-luderer-a5003171/"
 layout: "researcher"
 hiddenInHomeList: true

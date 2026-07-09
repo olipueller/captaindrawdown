@@ -1,7 +1,7 @@
 ---
 title: "Zhongxiang Li"
 description: "Zhongxiang Li is a Senior Unknown researcher at Beijing Institute of Technology in CN. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.859254
+date: 2026-07-10T01:07:47.894713
 url: "/cdr-researcher-census/researchers/zhongxiang-li-a5101747/"
 layout: "researcher"
 hiddenInHomeList: true

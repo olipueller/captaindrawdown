@@ -1,7 +1,7 @@
 ---
 title: "Hussain Shendy"
 description: "Hussain Shendy is a Mid-career Unknown researcher at Beni-Suef University in EG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.441000
+date: 2026-07-10T01:07:48.430781
 url: "/cdr-researcher-census/researchers/hussain-shendy-a5011622/"
 layout: "researcher"
 hiddenInHomeList: true

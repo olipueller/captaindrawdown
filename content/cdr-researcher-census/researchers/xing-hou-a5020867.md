@@ -1,7 +1,7 @@
 ---
 title: "Xing Hou"
 description: "Xing Hou is a Mid-career Biochar researcher at Hohai University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.365533
+date: 2026-07-10T01:07:48.363001
 url: "/cdr-researcher-census/researchers/xing-hou-a5020867/"
 layout: "researcher"
 hiddenInHomeList: true

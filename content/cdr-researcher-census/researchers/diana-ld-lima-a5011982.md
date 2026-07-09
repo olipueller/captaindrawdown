@@ -1,7 +1,7 @@
 ---
 title: "Diana L.D. Lima"
 description: "Diana L.D. Lima is a Senior Unknown researcher at Escola Superior de Tecnologia da Saúde de Coimbra in PT. With 68 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.100517
+date: 2026-07-10T01:07:47.184588
 url: "/cdr-researcher-census/researchers/diana-ld-lima-a5011982/"
 layout: "researcher"
 hiddenInHomeList: true

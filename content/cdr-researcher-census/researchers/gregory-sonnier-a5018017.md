@@ -1,7 +1,7 @@
 ---
 title: "Gregory Sonniér"
 description: "Gregory Sonniér is a Senior Soil Carbon researcher at Archbold Biological Station in US. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.186629
+date: 2026-07-10T01:07:47.275619
 url: "/cdr-researcher-census/researchers/gregory-sonnier-a5018017/"
 layout: "researcher"
 hiddenInHomeList: true

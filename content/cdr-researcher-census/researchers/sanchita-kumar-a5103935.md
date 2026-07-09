@@ -1,7 +1,7 @@
 ---
 title: "Sanchita Kumar"
 description: "Sanchita Kumar is a Mid-career Unknown researcher at Sidho-Kanho-Birsha University in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.244314
+date: 2026-07-10T01:07:49.152445
 url: "/cdr-researcher-census/researchers/sanchita-kumar-a5103935/"
 layout: "researcher"
 hiddenInHomeList: true

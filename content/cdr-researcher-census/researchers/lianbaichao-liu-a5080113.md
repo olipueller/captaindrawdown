@@ -1,7 +1,7 @@
 ---
 title: "Lianbaichao Liu"
 description: "Lianbaichao Liu is a Mid-career Unknown researcher at Xi'an University of Architecture and Technology in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.227363
+date: 2026-07-10T01:07:49.136977
 url: "/cdr-researcher-census/researchers/lianbaichao-liu-a5080113/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kari Williams"
 description: "Kari Williams is a Senior Unknown researcher at Minneapolis Heart Institute Foundation in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.245431
+date: 2026-07-10T01:07:47.331090
 url: "/cdr-researcher-census/researchers/kari-williams-a5047937/"
 layout: "researcher"
 hiddenInHomeList: true

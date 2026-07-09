@@ -1,7 +1,7 @@
 ---
 title: "Victor E. Ojukwu"
 description: "Victor E. Ojukwu is a Mid-career Unknown researcher at Nnamdi Azikiwe University in NG. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.624222
+date: 2026-07-10T01:07:47.684424
 url: "/cdr-researcher-census/researchers/victor-e-ojukwu-a5028916/"
 layout: "researcher"
 hiddenInHomeList: true

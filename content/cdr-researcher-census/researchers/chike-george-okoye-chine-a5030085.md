@@ -1,7 +1,7 @@
 ---
 title: "Chike George Okoye-Chine"
 description: "Chike George Okoye-Chine is a Mid-career Unknown researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.811489
+date: 2026-07-10T01:07:47.858023
 url: "/cdr-researcher-census/researchers/chike-george-okoye-chine-a5030085/"
 layout: "researcher"
 hiddenInHomeList: true

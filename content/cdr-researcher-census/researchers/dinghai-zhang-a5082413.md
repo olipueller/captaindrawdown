@@ -1,7 +1,7 @@
 ---
 title: "Dinghai Zhang"
 description: "Dinghai Zhang is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.703710
+date: 2026-07-10T01:07:48.656281
 url: "/cdr-researcher-census/researchers/dinghai-zhang-a5082413/"
 layout: "researcher"
 hiddenInHomeList: true

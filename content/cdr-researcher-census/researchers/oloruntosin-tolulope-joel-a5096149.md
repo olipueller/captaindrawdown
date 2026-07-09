@@ -1,7 +1,7 @@
 ---
 title: "Oloruntosin Tolulope Joel"
 description: "Oloruntosin Tolulope Joel is a Mid-career Unknown researcher at Henan Energy & Chemical Industry Group (China) in CN. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.812405
+date: 2026-07-10T01:07:47.859085
 url: "/cdr-researcher-census/researchers/oloruntosin-tolulope-joel-a5096149/"
 layout: "researcher"
 hiddenInHomeList: true

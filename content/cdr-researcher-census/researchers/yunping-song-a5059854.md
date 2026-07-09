@@ -1,7 +1,7 @@
 ---
 title: "Yunping Song"
 description: "Yunping Song is a Mid-career Unknown researcher at Tiangong University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.322007
+date: 2026-07-10T01:07:48.322920
 url: "/cdr-researcher-census/researchers/yunping-song-a5059854/"
 layout: "researcher"
 hiddenInHomeList: true

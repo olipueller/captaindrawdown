@@ -1,7 +1,7 @@
 ---
 title: "Musaddaq Azeem"
 description: "Musaddaq Azeem is a Mid-career Unknown researcher at Green Energy and EPC Services in GB. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.771507
+date: 2026-07-10T01:07:48.715337
 url: "/cdr-researcher-census/researchers/musaddaq-azeem-a5088828/"
 layout: "researcher"
 hiddenInHomeList: true

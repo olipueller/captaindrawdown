@@ -1,7 +1,7 @@
 ---
 title: "Diep Ngoc Pham"
 description: "Diep Ngoc Pham is a Senior Unknown researcher at Kyung Hee University in KR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.349168
+date: 2026-07-10T01:07:48.347700
 url: "/cdr-researcher-census/researchers/diep-ngoc-pham-a5020740/"
 layout: "researcher"
 hiddenInHomeList: true

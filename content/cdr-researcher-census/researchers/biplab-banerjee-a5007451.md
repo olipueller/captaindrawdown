@@ -1,7 +1,7 @@
 ---
 title: "Biplab Banerjee"
 description: "Biplab Banerjee is a Senior Soil Carbon researcher at Maharaja Sayajirao University of Baroda in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.231550
+date: 2026-07-10T01:07:48.241549
 url: "/cdr-researcher-census/researchers/biplab-banerjee-a5007451/"
 layout: "researcher"
 hiddenInHomeList: true

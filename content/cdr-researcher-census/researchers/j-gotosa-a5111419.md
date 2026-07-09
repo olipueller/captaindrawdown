@@ -1,7 +1,7 @@
 ---
 title: "J. Gotosa"
 description: "J. Gotosa is a Mid-career Soil Carbon researcher at University of Zimbabwe in ZW. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.999842
+date: 2026-07-10T01:07:48.009096
 url: "/cdr-researcher-census/researchers/j-gotosa-a5111419/"
 layout: "researcher"
 hiddenInHomeList: true

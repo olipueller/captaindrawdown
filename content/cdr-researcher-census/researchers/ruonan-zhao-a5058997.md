@@ -1,7 +1,7 @@
 ---
 title: "Ruonan Zhao"
 description: "Ruonan Zhao is a Mid-career Soil Carbon researcher at Shandong University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.276427
+date: 2026-07-10T01:07:48.282155
 url: "/cdr-researcher-census/researchers/ruonan-zhao-a5058997/"
 layout: "researcher"
 hiddenInHomeList: true

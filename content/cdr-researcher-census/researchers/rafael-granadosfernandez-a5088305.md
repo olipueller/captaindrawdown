@@ -1,7 +1,7 @@
 ---
 title: "Rafael Granados‐Fernández"
 description: "Rafael Granados‐Fernández is a Mid-career Unknown researcher at University of Castilla-La Mancha in ES. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.679778
+date: 2026-07-10T01:07:48.635116
 url: "/cdr-researcher-census/researchers/rafael-granadosfernandez-a5088305/"
 layout: "researcher"
 hiddenInHomeList: true

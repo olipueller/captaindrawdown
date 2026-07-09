@@ -1,7 +1,7 @@
 ---
 title: "Ana Fernández‐Ríos"
 description: "Ana Fernández‐Ríos is a Mid-career General CDR researcher at Universidad de Cantabria in ES. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.438113
+date: 2026-07-10T01:07:47.514911
 url: "/cdr-researcher-census/researchers/ana-fernandezrios-a5059457/"
 layout: "researcher"
 hiddenInHomeList: true

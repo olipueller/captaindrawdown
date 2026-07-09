@@ -1,7 +1,7 @@
 ---
 title: "Aqsa Waqar"
 description: "Aqsa Waqar is an Early-career Biochar researcher at University of Wah in PK. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.999072
+date: 2026-07-10T01:07:48.917136
 url: "/cdr-researcher-census/researchers/aqsa-waqar-a5018835/"
 layout: "researcher"
 hiddenInHomeList: true

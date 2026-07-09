@@ -1,7 +1,7 @@
 ---
 title: "Shang-Cyuan Chen"
 description: "Shang-Cyuan Chen is a Mid-career Unknown researcher at National Sun Yat-sen University in TW. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.637536
+date: 2026-07-10T01:07:47.696813
 url: "/cdr-researcher-census/researchers/shang-cyuan-chen-a5086516/"
 layout: "researcher"
 hiddenInHomeList: true

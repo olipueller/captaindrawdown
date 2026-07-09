@@ -1,7 +1,7 @@
 ---
 title: "Phyu Phyu Mon"
 description: "Phyu Phyu Mon is a Mid-career Unknown researcher at Indian Institute of Technology Hyderabad in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.647547
+date: 2026-07-10T01:07:48.606375
 url: "/cdr-researcher-census/researchers/phyu-phyu-mon-a5019149/"
 layout: "researcher"
 hiddenInHomeList: true

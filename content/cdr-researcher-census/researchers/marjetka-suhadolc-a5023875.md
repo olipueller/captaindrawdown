@@ -1,7 +1,7 @@
 ---
 title: "Marjetka Suhadolc"
 description: "Marjetka Suhadolc is a Senior Soil Carbon researcher at University of Ljubljana in SI. With 77 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.295247
+date: 2026-07-10T01:07:47.377531
 url: "/cdr-researcher-census/researchers/marjetka-suhadolc-a5023875/"
 layout: "researcher"
 hiddenInHomeList: true

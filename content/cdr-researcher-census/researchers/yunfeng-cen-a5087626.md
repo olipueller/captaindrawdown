@@ -1,7 +1,7 @@
 ---
 title: "Yunfeng Cen"
 description: "Yunfeng Cen is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.607202
+date: 2026-07-10T01:07:48.569717
 url: "/cdr-researcher-census/researchers/yunfeng-cen-a5087626/"
 layout: "researcher"
 hiddenInHomeList: true

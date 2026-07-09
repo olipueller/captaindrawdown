@@ -1,7 +1,7 @@
 ---
 title: "Jinhuan Hu"
 description: "Jinhuan Hu is a Mid-career Unknown researcher at South China University of Technology in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.993322
+date: 2026-07-10T01:07:48.002855
 url: "/cdr-researcher-census/researchers/jinhuan-hu-a5067753/"
 layout: "researcher"
 hiddenInHomeList: true

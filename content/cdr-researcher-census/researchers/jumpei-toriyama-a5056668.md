@@ -1,7 +1,7 @@
 ---
 title: "Jumpei Toriyama"
 description: "Jumpei Toriyama is a Senior Soil Carbon researcher at Forestry and Forest Products Research Institute in JP. With 77 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.382404
+date: 2026-07-10T01:07:47.463827
 url: "/cdr-researcher-census/researchers/jumpei-toriyama-a5056668/"
 layout: "researcher"
 hiddenInHomeList: true

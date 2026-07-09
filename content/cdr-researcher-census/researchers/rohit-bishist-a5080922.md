@@ -1,7 +1,7 @@
 ---
 title: "Rohit Bishist"
 description: "Rohit Bishist is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 56 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.243296
+date: 2026-07-10T01:07:48.252006
 url: "/cdr-researcher-census/researchers/rohit-bishist-a5080922/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "P.S. Kamath"
 description: "P.S. Kamath is a Senior Unknown researcher. With 31 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.820620
+date: 2026-07-10T01:07:48.755876
 url: "/cdr-researcher-census/researchers/ps-kamath-a5111487/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Henri Honkanen"
 description: "Henri Honkanen is a Mid-career Soil Carbon researcher at Natural Resources Institute Finland in FI. With 23 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.036138
+date: 2026-07-10T01:07:48.950747
 url: "/cdr-researcher-census/researchers/henri-honkanen-a5072192/"
 layout: "researcher"
 hiddenInHomeList: true

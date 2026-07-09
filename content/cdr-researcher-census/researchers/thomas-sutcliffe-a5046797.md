@@ -1,7 +1,7 @@
 ---
 title: "Thomas Sutcliffe"
 description: "Thomas Sutcliffe is a Mid-career Soil Carbon researcher at Norwegian Institute for Nature Research in NO. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.989262
+date: 2026-07-10T01:07:48.908352
 url: "/cdr-researcher-census/researchers/thomas-sutcliffe-a5046797/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ksenia Velmozhina"
 description: "Ksenia Velmozhina is a Mid-career BECCS researcher at Peter the Great St. Petersburg Polytechnic University in RU. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.029553
+date: 2026-07-10T01:07:48.945239
 url: "/cdr-researcher-census/researchers/ksenia-velmozhina-a5070005/"
 layout: "researcher"
 hiddenInHomeList: true

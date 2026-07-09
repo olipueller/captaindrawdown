@@ -1,7 +1,7 @@
 ---
 title: "Sara Deambrozi Coelho"
 description: "Sara Deambrozi Coelho is a Mid-career Unknown researcher at Universidade Estadual de Campinas (UNICAMP) in BR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.676216
+date: 2026-07-10T01:07:47.732821
 url: "/cdr-researcher-census/researchers/sara-deambrozi-coelho-a5041297/"
 layout: "researcher"
 hiddenInHomeList: true

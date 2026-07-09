@@ -1,7 +1,7 @@
 ---
 title: "Zaineb Bakari"
 description: "Zaineb Bakari is a Mid-career Biochar researcher at University of Sfax in TN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.629411
+date: 2026-07-10T01:07:48.589337
 url: "/cdr-researcher-census/researchers/zaineb-bakari-a5056998/"
 layout: "researcher"
 hiddenInHomeList: true

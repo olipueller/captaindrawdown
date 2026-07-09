@@ -1,7 +1,7 @@
 ---
 title: "Fenghua Tang"
 description: "Fenghua Tang is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.755077
+date: 2026-07-10T01:07:48.701197
 url: "/cdr-researcher-census/researchers/fenghua-tang-a5074313/"
 layout: "researcher"
 hiddenInHomeList: true

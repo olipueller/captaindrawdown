@@ -1,7 +1,7 @@
 ---
 title: "Weiwei Meng"
 description: "Weiwei Meng is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.558074
+date: 2026-07-10T01:07:48.538103
 url: "/cdr-researcher-census/researchers/weiwei-meng-a5100962/"
 layout: "researcher"
 hiddenInHomeList: true

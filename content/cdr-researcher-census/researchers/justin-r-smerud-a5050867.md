@@ -1,7 +1,7 @@
 ---
 title: "Justin R. Smerud"
 description: "Justin R. Smerud is a Mid-career Unknown researcher at United States Geological Survey in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.466547
+date: 2026-07-10T01:07:48.454472
 url: "/cdr-researcher-census/researchers/justin-r-smerud-a5050867/"
 layout: "researcher"
 hiddenInHomeList: true

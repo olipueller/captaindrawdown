@@ -1,7 +1,7 @@
 ---
 title: "Leonie G.M. Wijermars"
 description: "Leonie G.M. Wijermars is a Mid-career Unknown researcher at UNSW Sydney in AU. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.788290
+date: 2026-07-10T01:07:47.837161
 url: "/cdr-researcher-census/researchers/leonie-gm-wijermars-a5008204/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Viviane Dib"
 description: "Viviane Dib is a Mid-career Soil Carbon researcher. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.562064
+date: 2026-07-10T01:07:47.625992
 url: "/cdr-researcher-census/researchers/viviane-dib-a5088716/"
 layout: "researcher"
 hiddenInHomeList: true

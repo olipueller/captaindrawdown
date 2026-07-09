@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Nsenga Kumwimba"
 description: "Mathieu Nsenga Kumwimba is a Senior Biochar researcher at Institute of Mountain Hazards and Environment in CN. With 44 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.190979
+date: 2026-07-10T01:07:47.280190
 url: "/cdr-researcher-census/researchers/mathieu-nsenga-kumwimba-a5040371/"
 layout: "researcher"
 hiddenInHomeList: true

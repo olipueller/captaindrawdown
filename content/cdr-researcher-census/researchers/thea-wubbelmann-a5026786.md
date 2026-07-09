@@ -1,7 +1,7 @@
 ---
 title: "Thea Wübbelmann"
 description: "Thea Wübbelmann is a Mid-career General CDR researcher at Leibniz University Hannover in DE. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.860252
+date: 2026-07-10T01:07:48.790129
 url: "/cdr-researcher-census/researchers/thea-wubbelmann-a5026786/"
 layout: "researcher"
 hiddenInHomeList: true

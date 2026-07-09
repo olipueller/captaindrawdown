@@ -1,7 +1,7 @@
 ---
 title: "Édgar Eduardo Yáñez Angarita"
 description: "Édgar Eduardo Yáñez Angarita is a Senior General CDR researcher at Ecopetrol (Colombia) in CO. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.303093
+date: 2026-07-10T01:07:47.385296
 url: "/cdr-researcher-census/researchers/edgar-eduardo-yanez-angarita-a5001131/"
 layout: "researcher"
 hiddenInHomeList: true

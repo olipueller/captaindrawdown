@@ -1,7 +1,7 @@
 ---
 title: "Alessandro Buscaroli"
 description: "Alessandro Buscaroli is a Senior Soil Carbon researcher at University of Bologna in IT. With 79 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.352359
+date: 2026-07-10T01:07:47.434604
 url: "/cdr-researcher-census/researchers/alessandro-buscaroli-a5046723/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Matteo Vizzarri"
 description: "Matteo Vizzarri is a Senior General CDR researcher at Università degli Studi di Milano in IT. With 77 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.034486
+date: 2026-07-10T01:07:47.104801
 url: "/cdr-researcher-census/researchers/matteo-vizzarri-a5050652/"
 layout: "researcher"
 hiddenInHomeList: true

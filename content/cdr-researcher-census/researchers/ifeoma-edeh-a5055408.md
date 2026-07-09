@@ -1,7 +1,7 @@
 ---
 title: "Ifeoma Edeh"
 description: "Ifeoma Edeh is a Mid-career Enhanced Weathering researcher at University of Nigeria in NG. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.547038
+date: 2026-07-10T01:07:47.611507
 url: "/cdr-researcher-census/researchers/ifeoma-edeh-a5055408/"
 layout: "researcher"
 hiddenInHomeList: true

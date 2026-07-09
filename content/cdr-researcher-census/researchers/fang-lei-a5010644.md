@@ -1,7 +1,7 @@
 ---
 title: "Fang Lei"
 description: "Fang Lei is a Mid-career Unknown researcher at Huaqiao University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.797863
+date: 2026-07-10T01:07:47.845786
 url: "/cdr-researcher-census/researchers/fang-lei-a5010644/"
 layout: "researcher"
 hiddenInHomeList: true

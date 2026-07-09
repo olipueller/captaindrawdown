@@ -1,7 +1,7 @@
 ---
 title: "Yunhao Pan"
 description: "Yunhao Pan is a Mid-career Unknown researcher at Harbin Institute of Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.257355
+date: 2026-07-10T01:07:49.163959
 url: "/cdr-researcher-census/researchers/yunhao-pan-a5054311/"
 layout: "researcher"
 hiddenInHomeList: true

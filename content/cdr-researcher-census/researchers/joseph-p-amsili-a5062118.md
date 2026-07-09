@@ -1,7 +1,7 @@
 ---
 title: "Joseph P. Amsili"
 description: "Joseph P. Amsili is a Mid-career Soil Carbon researcher at Cornell University in US. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.328847
+date: 2026-07-10T01:07:47.410655
 url: "/cdr-researcher-census/researchers/joseph-p-amsili-a5062118/"
 layout: "researcher"
 hiddenInHomeList: true

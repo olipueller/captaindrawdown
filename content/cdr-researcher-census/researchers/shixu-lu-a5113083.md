@@ -1,7 +1,7 @@
 ---
 title: "Shixu Lu"
 description: "Shixu Lu is an Early-career Unknown researcher at Qingdao Agricultural University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.912020
+date: 2026-07-10T01:07:48.836762
 url: "/cdr-researcher-census/researchers/shixu-lu-a5113083/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Daniel Wendorff"
 description: "Daniel Wendorff is a Senior Unknown researcher at The Geneva Foundation in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.448588
+date: 2026-07-10T01:07:48.437613
 url: "/cdr-researcher-census/researchers/daniel-wendorff-a5024530/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Tahsin Karimi Nezhad"
 description: "Mohammad Tahsin Karimi Nezhad is a Mid-career Soil Carbon researcher. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.706767
+date: 2026-07-10T01:07:47.761016
 url: "/cdr-researcher-census/researchers/mohammad-tahsin-karimi-nezhad-a5038367/"
 layout: "researcher"
 hiddenInHomeList: true

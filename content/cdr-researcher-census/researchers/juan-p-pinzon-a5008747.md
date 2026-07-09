@@ -1,7 +1,7 @@
 ---
 title: "Juan P. Pinzón"
 description: "Juan P. Pinzón is a Mid-career Unknown researcher at Autonomous University of Yucatán in MX. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.844240
+date: 2026-07-10T01:07:47.879688
 url: "/cdr-researcher-census/researchers/juan-p-pinzon-a5008747/"
 layout: "researcher"
 hiddenInHomeList: true

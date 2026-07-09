@@ -1,7 +1,7 @@
 ---
 title: "Chootrakul Siripaiboon"
 description: "Chootrakul Siripaiboon is a Mid-career General CDR researcher at Kasetsart University in TH. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.692135
+date: 2026-07-10T01:07:48.645659
 url: "/cdr-researcher-census/researchers/chootrakul-siripaiboon-a5068278/"
 layout: "researcher"
 hiddenInHomeList: true

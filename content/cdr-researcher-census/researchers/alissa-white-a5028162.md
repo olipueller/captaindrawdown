@@ -1,7 +1,7 @@
 ---
 title: "Alissa White"
 description: "Alissa White is a Mid-career Soil Carbon researcher at University of Vermont in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.004129
+date: 2026-07-10T01:07:48.013103
 url: "/cdr-researcher-census/researchers/alissa-white-a5028162/"
 layout: "researcher"
 hiddenInHomeList: true

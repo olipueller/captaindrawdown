@@ -1,7 +1,7 @@
 ---
 title: "Lixia Yi"
 description: "Lixia Yi is a Senior Soil Carbon researcher at University of Pittsburgh in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.949695
+date: 2026-07-10T01:07:47.961368
 url: "/cdr-researcher-census/researchers/lixia-yi-a5001248/"
 layout: "researcher"
 hiddenInHomeList: true

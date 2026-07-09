@@ -1,7 +1,7 @@
 ---
 title: "M. Balasubramanian"
 description: "M. Balasubramanian is a Senior Soil Carbon researcher at Institute for Social and Economic Change in IN. With 75 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.107816
+date: 2026-07-10T01:07:48.133793
 url: "/cdr-researcher-census/researchers/m-balasubramanian-a5047882/"
 layout: "researcher"
 hiddenInHomeList: true

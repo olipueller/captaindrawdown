@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth H. Boughton"
 description: "Elizabeth H. Boughton is a Senior Soil Carbon researcher at Archbold Biological Station in US. With 138 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.964540
+date: 2026-07-10T01:07:47.004884
 url: "/cdr-researcher-census/researchers/elizabeth-h-boughton-a5035361/"
 layout: "researcher"
 hiddenInHomeList: true

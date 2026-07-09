@@ -1,7 +1,7 @@
 ---
 title: "Salah Eddine Sbai"
 description: "Salah Eddine Sbai is a Mid-career Ocean CDR researcher at Mohammed V University in MA. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.780068
+date: 2026-07-10T01:07:48.723258
 url: "/cdr-researcher-census/researchers/salah-eddine-sbai-a5024065/"
 layout: "researcher"
 hiddenInHomeList: true

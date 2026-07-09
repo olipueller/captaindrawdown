@@ -1,7 +1,7 @@
 ---
 title: "Navid Balazadeh"
 description: "Navid Balazadeh is a Mid-career Unknown researcher at Simon Fraser University in CA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.679674
+date: 2026-07-10T01:07:48.635027
 url: "/cdr-researcher-census/researchers/navid-balazadeh-a5081094/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laura Summerauer"
 description: "Laura Summerauer is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.123557
+date: 2026-07-10T01:07:48.147402
 url: "/cdr-researcher-census/researchers/laura-summerauer-a5009450/"
 layout: "researcher"
 hiddenInHomeList: true

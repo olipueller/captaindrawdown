@@ -1,7 +1,7 @@
 ---
 title: "Fanny Lhardy"
 description: "Fanny Lhardy is a Mid-career Ocean CDR researcher at Laboratoire de Sciences de la Terre in FR. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.641236
+date: 2026-07-10T01:07:47.700427
 url: "/cdr-researcher-census/researchers/fanny-lhardy-a5041540/"
 layout: "researcher"
 hiddenInHomeList: true

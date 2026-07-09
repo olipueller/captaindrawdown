@@ -1,7 +1,7 @@
 ---
 title: "Anca Ostace"
 description: "Anca Ostace is a Mid-career Unknown researcher at National Energy Technology Laboratory in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.439468
+date: 2026-07-10T01:07:48.429330
 url: "/cdr-researcher-census/researchers/anca-ostace-a5016290/"
 layout: "researcher"
 hiddenInHomeList: true

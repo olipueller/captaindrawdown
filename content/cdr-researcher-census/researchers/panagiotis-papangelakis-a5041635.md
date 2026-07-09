@@ -1,7 +1,7 @@
 ---
 title: "Panagiotis Papangelakis"
 description: "Panagiotis Papangelakis is a Mid-career DAC researcher at University of Toronto in CA. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.449426
+date: 2026-07-10T01:07:47.525326
 url: "/cdr-researcher-census/researchers/panagiotis-papangelakis-a5041635/"
 layout: "researcher"
 hiddenInHomeList: true

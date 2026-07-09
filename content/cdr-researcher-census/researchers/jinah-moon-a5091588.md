@@ -1,7 +1,7 @@
 ---
 title: "Jinah Moon"
 description: "Jinah Moon is a Mid-career General CDR researcher at Kangwon National University in KR. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.045883
+date: 2026-07-10T01:07:48.959411
 url: "/cdr-researcher-census/researchers/jinah-moon-a5091588/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haoran Yang"
 description: "Haoran Yang is a Mid-career General CDR researcher at Southwest University of Political Science & Law in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.976334
+date: 2026-07-10T01:07:48.896327
 url: "/cdr-researcher-census/researchers/haoran-yang-a5103251/"
 layout: "researcher"
 hiddenInHomeList: true

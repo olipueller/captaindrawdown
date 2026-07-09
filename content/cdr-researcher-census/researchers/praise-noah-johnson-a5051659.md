@@ -1,7 +1,7 @@
 ---
 title: "Praise Noah Johnson"
 description: "Praise Noah Johnson is a Mid-career Unknown researcher at University of Minnesota in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.449953
+date: 2026-07-10T01:07:48.438848
 url: "/cdr-researcher-census/researchers/praise-noah-johnson-a5051659/"
 layout: "researcher"
 hiddenInHomeList: true

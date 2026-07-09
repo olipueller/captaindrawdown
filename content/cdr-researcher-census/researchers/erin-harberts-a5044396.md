@@ -1,7 +1,7 @@
 ---
 title: "Erin Harberts"
 description: "Erin Harberts is a Senior BECCS researcher at Towson University in US. With 59 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.229830
+date: 2026-07-10T01:07:47.316499
 url: "/cdr-researcher-census/researchers/erin-harberts-a5044396/"
 layout: "researcher"
 hiddenInHomeList: true

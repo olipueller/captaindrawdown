@@ -1,7 +1,7 @@
 ---
 title: "Yichen Wu"
 description: "Yichen Wu is a Mid-career Unknown researcher at Tsinghua University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.251777
+date: 2026-07-10T01:07:48.259790
 url: "/cdr-researcher-census/researchers/yichen-wu-a5050755/"
 layout: "researcher"
 hiddenInHomeList: true

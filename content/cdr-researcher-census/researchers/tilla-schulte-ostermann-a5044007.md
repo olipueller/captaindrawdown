@@ -1,7 +1,7 @@
 ---
 title: "Tilla Schulte Ostermann"
 description: "Tilla Schulte Ostermann is a Mid-career Unknown researcher at Carl von Ossietzky Universität Oldenburg in DE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.083976
+date: 2026-07-10T01:07:48.994251
 url: "/cdr-researcher-census/researchers/tilla-schulte-ostermann-a5044007/"
 layout: "researcher"
 hiddenInHomeList: true

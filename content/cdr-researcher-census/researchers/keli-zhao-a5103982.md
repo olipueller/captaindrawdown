@@ -1,7 +1,7 @@
 ---
 title: "Keli Zhao"
 description: "Keli Zhao is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.767509
+date: 2026-07-10T01:07:48.711843
 url: "/cdr-researcher-census/researchers/keli-zhao-a5103982/"
 layout: "researcher"
 hiddenInHomeList: true

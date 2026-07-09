@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Haider Ali Khan"
 description: "Muhammad Haider Ali Khan is a Mid-career General CDR researcher at The University of New South Wales in AU. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.222151
+date: 2026-07-10T01:07:47.309301
 url: "/cdr-researcher-census/researchers/muhammad-haider-ali-khan-a5033412/"
 layout: "researcher"
 hiddenInHomeList: true

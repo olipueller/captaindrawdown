@@ -1,7 +1,7 @@
 ---
 title: "Guillaume Monteil"
 description: "Guillaume Monteil is a Senior General CDR researcher at Lund University in SE. With 83 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.219258
+date: 2026-07-10T01:07:47.306177
 url: "/cdr-researcher-census/researchers/guillaume-monteil-a5046701/"
 layout: "researcher"
 hiddenInHomeList: true

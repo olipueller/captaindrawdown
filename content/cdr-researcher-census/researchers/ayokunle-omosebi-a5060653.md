@@ -1,7 +1,7 @@
 ---
 title: "Ayokunle Omosebi"
 description: "Ayokunle Omosebi is a Senior General CDR researcher at University of Kentucky in US. With 83 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.071378
+date: 2026-07-10T01:07:47.150337
 url: "/cdr-researcher-census/researchers/ayokunle-omosebi-a5060653/"
 layout: "researcher"
 hiddenInHomeList: true

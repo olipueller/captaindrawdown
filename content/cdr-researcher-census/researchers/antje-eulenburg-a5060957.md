@@ -1,7 +1,7 @@
 ---
 title: "Antje Eulenburg"
 description: "Antje Eulenburg is a Mid-career Enhanced Weathering researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 58 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.474061
+date: 2026-07-10T01:07:48.461378
 url: "/cdr-researcher-census/researchers/antje-eulenburg-a5060957/"
 layout: "researcher"
 hiddenInHomeList: true

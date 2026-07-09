@@ -1,7 +1,7 @@
 ---
 title: "Jianyang Song"
 description: "Jianyang Song is a Senior Biochar researcher at Nanyang Institute of Technology in CN. With 36 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.050724
+date: 2026-07-10T01:07:47.125590
 url: "/cdr-researcher-census/researchers/jianyang-song-a5068596/"
 layout: "researcher"
 hiddenInHomeList: true

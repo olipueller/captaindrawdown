@@ -1,7 +1,7 @@
 ---
 title: "Tian Ren"
 description: "Tian Ren is an Early-career Unknown researcher at Huazhong Agricultural University in CN. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.892484
+date: 2026-07-10T01:07:48.818817
 url: "/cdr-researcher-census/researchers/tian-ren-a5111240/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gangbin Yan"
 description: "Gangbin Yan is a Mid-career General CDR researcher at Stanford University in US. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.145947
+date: 2026-07-10T01:07:47.234818
 url: "/cdr-researcher-census/researchers/gangbin-yan-a5009159/"
 layout: "researcher"
 hiddenInHomeList: true

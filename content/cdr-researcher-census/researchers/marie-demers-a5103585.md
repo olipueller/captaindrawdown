@@ -1,7 +1,7 @@
 ---
 title: "Marie Demers"
 description: "Marie Demers is a Senior Soil Carbon researcher at Université Laval in CA. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.921335
+date: 2026-07-10T01:07:47.934881
 url: "/cdr-researcher-census/researchers/marie-demers-a5103585/"
 layout: "researcher"
 hiddenInHomeList: true

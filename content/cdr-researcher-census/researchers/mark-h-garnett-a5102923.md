@@ -1,7 +1,7 @@
 ---
 title: "Mark H. Garnett"
 description: "Mark H. Garnett is a Mid-career Soil Carbon researcher at Scottish Universities Environmental Research Centre in GB. With 5 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.169748
+date: 2026-07-10T01:07:49.059935
 url: "/cdr-researcher-census/researchers/mark-h-garnett-a5102923/"
 layout: "researcher"
 hiddenInHomeList: true

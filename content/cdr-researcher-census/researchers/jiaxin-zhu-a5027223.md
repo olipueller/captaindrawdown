@@ -1,7 +1,7 @@
 ---
 title: "Jiaxin Zhu"
 description: "Jiaxin Zhu is a Mid-career Biochar researcher at State Key Joint Laboratory of Environment Simulation and Pollution Control in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.385352
+date: 2026-07-10T01:07:47.466538
 url: "/cdr-researcher-census/researchers/jiaxin-zhu-a5027223/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Renaldas Žydelis"
 description: "Renaldas Žydelis is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.123029
+date: 2026-07-10T01:07:48.146885
 url: "/cdr-researcher-census/researchers/renaldas-zydelis-a5048041/"
 layout: "researcher"
 hiddenInHomeList: true

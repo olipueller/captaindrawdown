@@ -1,7 +1,7 @@
 ---
 title: "Zhenshan Ma"
 description: "Zhenshan Ma is a Mid-career Biochar researcher at Hefei University of Technology in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.659583
+date: 2026-07-10T01:07:48.616880
 url: "/cdr-researcher-census/researchers/zhenshan-ma-a5071812/"
 layout: "researcher"
 hiddenInHomeList: true

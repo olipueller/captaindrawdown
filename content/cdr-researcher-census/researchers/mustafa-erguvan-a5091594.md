@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Erguvan"
 description: "Mustafa Erguvan is a Mid-career General CDR researcher at University of Alabama in US. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.240872
+date: 2026-07-10T01:07:48.249855
 url: "/cdr-researcher-census/researchers/mustafa-erguvan-a5091594/"
 layout: "researcher"
 hiddenInHomeList: true

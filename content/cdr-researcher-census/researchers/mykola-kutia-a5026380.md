@@ -1,7 +1,7 @@
 ---
 title: "Mykola Kutia"
 description: "Mykola Kutia is a Mid-career Unknown researcher at Bangor University in GB. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.160797
+date: 2026-07-10T01:07:48.178943
 url: "/cdr-researcher-census/researchers/mykola-kutia-a5026380/"
 layout: "researcher"
 hiddenInHomeList: true

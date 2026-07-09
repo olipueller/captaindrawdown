@@ -1,7 +1,7 @@
 ---
 title: "Randi K. Ramstad"
 description: "Randi K. Ramstad is a Senior Unknown researcher at Norwegian University of Science and Technology in NO. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.948217
+date: 2026-07-10T01:07:47.960044
 url: "/cdr-researcher-census/researchers/randi-k-ramstad-a5002517/"
 layout: "researcher"
 hiddenInHomeList: true

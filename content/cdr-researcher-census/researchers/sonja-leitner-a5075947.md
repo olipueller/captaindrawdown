@@ -1,7 +1,7 @@
 ---
 title: "Sonja Leitner"
 description: "Sonja Leitner is a Senior Soil Carbon researcher at University of Kassel in DE. With 119 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.113972
+date: 2026-07-10T01:07:47.200409
 url: "/cdr-researcher-census/researchers/sonja-leitner-a5075947/"
 layout: "researcher"
 hiddenInHomeList: true

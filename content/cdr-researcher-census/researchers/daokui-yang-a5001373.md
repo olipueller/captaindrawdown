@@ -1,7 +1,7 @@
 ---
 title: "Daokui Yang"
 description: "Daokui Yang is a Mid-career Biochar researcher at University of Nottingham Ningbo China in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.885163
+date: 2026-07-10T01:07:48.812197
 url: "/cdr-researcher-census/researchers/daokui-yang-a5001373/"
 layout: "researcher"
 hiddenInHomeList: true

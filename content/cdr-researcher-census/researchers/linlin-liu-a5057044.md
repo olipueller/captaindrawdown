@@ -1,7 +1,7 @@
 ---
 title: "Linlin Liu"
 description: "Linlin Liu is a Mid-career Unknown researcher at Harbin University of Commerce in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.761129
+date: 2026-07-10T01:07:48.706279
 url: "/cdr-researcher-census/researchers/linlin-liu-a5057044/"
 layout: "researcher"
 hiddenInHomeList: true

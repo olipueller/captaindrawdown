@@ -1,7 +1,7 @@
 ---
 title: "Saima Sohni"
 description: "Saima Sohni is a Mid-career Biochar researcher at University of Peshawar in PK. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.275903
+date: 2026-07-10T01:07:47.358502
 url: "/cdr-researcher-census/researchers/saima-sohni-a5002029/"
 layout: "researcher"
 hiddenInHomeList: true

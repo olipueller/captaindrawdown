@@ -1,7 +1,7 @@
 ---
 title: "Kelly Wiseman"
 description: "Kelly Wiseman is a Mid-career Unknown researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.788307
+date: 2026-07-10T01:07:48.729644
 url: "/cdr-researcher-census/researchers/kelly-wiseman-a5089001/"
 layout: "researcher"
 hiddenInHomeList: true

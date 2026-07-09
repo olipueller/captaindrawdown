@@ -1,7 +1,7 @@
 ---
 title: "Hanjing Fu"
 description: "Hanjing Fu is a Mid-career Enhanced Weathering researcher at Beijing Institute of Technology in CN. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.624567
+date: 2026-07-10T01:07:47.684696
 url: "/cdr-researcher-census/researchers/hanjing-fu-a5007835/"
 layout: "researcher"
 hiddenInHomeList: true

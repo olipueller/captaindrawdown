@@ -1,7 +1,7 @@
 ---
 title: "Ying‐Zhong Ma"
 description: "Ying‐Zhong Ma is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 132 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.974632
+date: 2026-07-10T01:07:47.020466
 url: "/cdr-researcher-census/researchers/yingzhong-ma-a5012116/"
 layout: "researcher"
 hiddenInHomeList: true

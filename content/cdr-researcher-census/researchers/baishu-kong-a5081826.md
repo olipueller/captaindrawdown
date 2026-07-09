@@ -1,7 +1,7 @@
 ---
 title: "Baishu Kong"
 description: "Baishu Kong is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.997963
+date: 2026-07-10T01:07:48.916022
 url: "/cdr-researcher-census/researchers/baishu-kong-a5081826/"
 layout: "researcher"
 hiddenInHomeList: true

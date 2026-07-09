@@ -1,7 +1,7 @@
 ---
 title: "Elena Stoll"
 description: "Elena Stoll is a Mid-career Unknown researcher at Universität Innsbruck in AT. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.553433
+date: 2026-07-10T01:07:48.533629
 url: "/cdr-researcher-census/researchers/elena-stoll-a5000687/"
 layout: "researcher"
 hiddenInHomeList: true

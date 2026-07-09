@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Molina-Obando"
 description: "Sebastian Molina-Obando is a Mid-career Unknown researcher at Johannes Gutenberg University Mainz in DE. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.076314
+date: 2026-07-10T01:07:48.987507
 url: "/cdr-researcher-census/researchers/sebastian-molina-obando-a5074501/"
 layout: "researcher"
 hiddenInHomeList: true

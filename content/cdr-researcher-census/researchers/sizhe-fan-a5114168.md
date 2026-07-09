@@ -1,7 +1,7 @@
 ---
 title: "Sizhe Fan"
 description: "Sizhe Fan is a Mid-career Unknown researcher at Ningbo University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.950080
+date: 2026-07-10T01:07:48.871881
 url: "/cdr-researcher-census/researchers/sizhe-fan-a5114168/"
 layout: "researcher"
 hiddenInHomeList: true

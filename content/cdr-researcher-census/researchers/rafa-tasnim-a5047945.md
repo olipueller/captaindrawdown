@@ -1,7 +1,7 @@
 ---
 title: "Rafa Tasnim"
 description: "Rafa Tasnim is a Mid-career Soil Carbon researcher at University of Maine in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.608966
+date: 2026-07-10T01:07:48.571097
 url: "/cdr-researcher-census/researchers/rafa-tasnim-a5047945/"
 layout: "researcher"
 hiddenInHomeList: true

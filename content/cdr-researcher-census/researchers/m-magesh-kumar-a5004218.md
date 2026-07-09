@@ -1,7 +1,7 @@
 ---
 title: "M. Magesh Kumar"
 description: "M. Magesh Kumar is a Mid-career Unknown researcher at SRM Institute of Science and Technology in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.831571
+date: 2026-07-10T01:07:48.765540
 url: "/cdr-researcher-census/researchers/m-magesh-kumar-a5004218/"
 layout: "researcher"
 hiddenInHomeList: true

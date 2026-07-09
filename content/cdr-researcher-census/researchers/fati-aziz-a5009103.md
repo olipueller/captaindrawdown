@@ -1,7 +1,7 @@
 ---
 title: "Fati Aziz"
 description: "Fati Aziz is a Mid-career Unknown researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.201973
+date: 2026-07-10T01:07:49.114748
 url: "/cdr-researcher-census/researchers/fati-aziz-a5009103/"
 layout: "researcher"
 hiddenInHomeList: true

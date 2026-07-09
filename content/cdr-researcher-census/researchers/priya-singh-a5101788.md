@@ -1,7 +1,7 @@
 ---
 title: "Priya Singh"
 description: "Priya Singh is a Mid-career Unknown researcher at National Centre for Medium Range Weather Forecasting in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.207124
+date: 2026-07-10T01:07:49.119615
 url: "/cdr-researcher-census/researchers/priya-singh-a5101788/"
 layout: "researcher"
 hiddenInHomeList: true

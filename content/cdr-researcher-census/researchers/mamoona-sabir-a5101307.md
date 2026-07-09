@@ -1,7 +1,7 @@
 ---
 title: "Mamoona Sabir"
 description: "Mamoona Sabir is an Early-career Unknown researcher at Islamia University of Bahawalpur in PK. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.083372
+date: 2026-07-10T01:07:48.993716
 url: "/cdr-researcher-census/researchers/mamoona-sabir-a5101307/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "K. Yamamoto"
 description: "K. Yamamoto is a Senior Ocean CDR researcher. With 46 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.349072
+date: 2026-07-10T01:07:48.347611
 url: "/cdr-researcher-census/researchers/k-yamamoto-a5080484/"
 layout: "researcher"
 hiddenInHomeList: true

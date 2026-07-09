@@ -1,7 +1,7 @@
 ---
 title: "Zezhou Guo"
 description: "Zezhou Guo is a Mid-career General CDR researcher at China University of Mining and Technology in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.003319
+date: 2026-07-10T01:07:48.921333
 url: "/cdr-researcher-census/researchers/zezhou-guo-a5108773/"
 layout: "researcher"
 hiddenInHomeList: true

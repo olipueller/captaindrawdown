@@ -1,7 +1,7 @@
 ---
 title: "Marcus B. Wallin"
 description: "Marcus B. Wallin is a Senior Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 138 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.971936
+date: 2026-07-10T01:07:47.016643
 url: "/cdr-researcher-census/researchers/marcus-b-wallin-a5013774/"
 layout: "researcher"
 hiddenInHomeList: true

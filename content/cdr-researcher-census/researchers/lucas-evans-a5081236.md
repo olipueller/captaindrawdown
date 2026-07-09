@@ -1,7 +1,7 @@
 ---
 title: "Lucas Evans"
 description: "Lucas Evans is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.514581
+date: 2026-07-10T01:07:48.498365
 url: "/cdr-researcher-census/researchers/lucas-evans-a5081236/"
 layout: "researcher"
 hiddenInHomeList: true

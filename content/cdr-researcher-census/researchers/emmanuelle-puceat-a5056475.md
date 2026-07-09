@@ -1,7 +1,7 @@
 ---
 title: "Emmanuelle Pucéat"
 description: "Emmanuelle Pucéat is a Senior Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 108 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.994929
+date: 2026-07-10T01:07:47.053035
 url: "/cdr-researcher-census/researchers/emmanuelle-puceat-a5056475/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Abby P. Shaum"
 description: "Abby P. Shaum is a Mid-career Ocean CDR researcher at California Institute of Technology in US. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.827273
+date: 2026-07-10T01:07:48.761350
 url: "/cdr-researcher-census/researchers/abby-p-shaum-a5016085/"
 layout: "researcher"
 hiddenInHomeList: true

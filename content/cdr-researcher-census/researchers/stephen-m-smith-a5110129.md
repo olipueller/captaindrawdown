@@ -1,7 +1,7 @@
 ---
 title: "Stephen M. Smith"
 description: "Stephen M. Smith is a Senior General CDR researcher at National Park Service in US. With 116 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.946245
+date: 2026-07-10T01:07:46.976995
 url: "/cdr-researcher-census/researchers/stephen-m-smith-a5110129/"
 layout: "researcher"
 hiddenInHomeList: true

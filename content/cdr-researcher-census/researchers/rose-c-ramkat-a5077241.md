@@ -1,7 +1,7 @@
 ---
 title: "Rose C. Ramkat"
 description: "Rose C. Ramkat is a Senior Unknown researcher at Moi University in KE. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.352115
+date: 2026-07-10T01:07:47.434377
 url: "/cdr-researcher-census/researchers/rose-c-ramkat-a5077241/"
 layout: "researcher"
 hiddenInHomeList: true

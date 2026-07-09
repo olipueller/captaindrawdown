@@ -1,7 +1,7 @@
 ---
 title: "Marten in ‘t Veld"
 description: "Marten in ‘t Veld is a Mid-career Unknown researcher at Institute of Environmental Assessment and Water Research in ES. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.603546
+date: 2026-07-10T01:07:48.566643
 url: "/cdr-researcher-census/researchers/marten-in-t-veld-a5050794/"
 layout: "researcher"
 hiddenInHomeList: true

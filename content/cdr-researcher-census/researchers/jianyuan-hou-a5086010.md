@@ -1,7 +1,7 @@
 ---
 title: "Jianyuan Hou"
 description: "Jianyuan Hou is a Mid-career Unknown researcher at Fudan University in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.415319
+date: 2026-07-10T01:07:48.406170
 url: "/cdr-researcher-census/researchers/jianyuan-hou-a5086010/"
 layout: "researcher"
 hiddenInHomeList: true

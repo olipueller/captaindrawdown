@@ -1,7 +1,7 @@
 ---
 title: "Carlos Gabriel Moreira de Almeida"
 description: "Carlos Gabriel Moreira de Almeida is a Mid-career Unknown researcher at Instituto do Cérebro in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.693173
+date: 2026-07-10T01:07:48.646509
 url: "/cdr-researcher-census/researchers/carlos-gabriel-moreira-de-almeida-a5077845/"
 layout: "researcher"
 hiddenInHomeList: true

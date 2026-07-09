@@ -1,7 +1,7 @@
 ---
 title: "David Roa Alonso"
 description: "David Roa Alonso is an Early-career Unknown researcher at Hospital Universitario Severo Ochoa in ES. With 9 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.981569
+date: 2026-07-10T01:07:48.901278
 url: "/cdr-researcher-census/researchers/david-roa-alonso-a5008147/"
 layout: "researcher"
 hiddenInHomeList: true

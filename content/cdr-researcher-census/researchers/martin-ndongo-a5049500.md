@@ -1,7 +1,7 @@
 ---
 title: "Martin Ndongo"
 description: "Martin Ndongo is a Senior Soil Carbon researcher at University of Kinshasa in CD. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.219662
+date: 2026-07-10T01:07:49.130431
 url: "/cdr-researcher-census/researchers/martin-ndongo-a5049500/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhongxue Zhang"
 description: "Zhongxue Zhang is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 131 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.149960
+date: 2026-07-10T01:07:47.238398
 url: "/cdr-researcher-census/researchers/zhongxue-zhang-a5090360/"
 layout: "researcher"
 hiddenInHomeList: true

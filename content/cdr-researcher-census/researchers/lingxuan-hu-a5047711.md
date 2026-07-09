@@ -1,7 +1,7 @@
 ---
 title: "Lingxuan Hu"
 description: "Lingxuan Hu is a Mid-career Unknown researcher at Zhejiang Normal University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.416633
+date: 2026-07-10T01:07:48.407365
 url: "/cdr-researcher-census/researchers/lingxuan-hu-a5047711/"
 layout: "researcher"
 hiddenInHomeList: true

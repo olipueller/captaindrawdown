@@ -1,7 +1,7 @@
 ---
 title: "Alisa Pattarapisitporn"
 description: "Alisa Pattarapisitporn is a Mid-career Unknown researcher at Kagoshima University in JP. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.085892
+date: 2026-07-10T01:07:48.995999
 url: "/cdr-researcher-census/researchers/alisa-pattarapisitporn-a5058517/"
 layout: "researcher"
 hiddenInHomeList: true

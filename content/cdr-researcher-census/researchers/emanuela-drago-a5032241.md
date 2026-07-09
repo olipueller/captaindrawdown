@@ -1,7 +1,7 @@
 ---
 title: "Emanuela Drago"
 description: "Emanuela Drago is a Mid-career Unknown researcher at University of Genoa in IT. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.563019
+date: 2026-07-10T01:07:47.626733
 url: "/cdr-researcher-census/researchers/emanuela-drago-a5032241/"
 layout: "researcher"
 hiddenInHomeList: true

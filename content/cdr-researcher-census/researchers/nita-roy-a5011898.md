@@ -1,7 +1,7 @@
 ---
 title: "Nita Roy"
 description: "Nita Roy is a Senior Unknown researcher at Géosciences Rennes in FR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.027321
+date: 2026-07-10T01:07:48.034939
 url: "/cdr-researcher-census/researchers/nita-roy-a5011898/"
 layout: "researcher"
 hiddenInHomeList: true

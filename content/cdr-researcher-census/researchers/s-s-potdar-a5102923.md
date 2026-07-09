@@ -1,7 +1,7 @@
 ---
 title: "S. S. Potdar"
 description: "S. S. Potdar is a Mid-career Unknown researcher at KLE Technological University in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.737142
+date: 2026-07-10T01:07:48.685100
 url: "/cdr-researcher-census/researchers/s-s-potdar-a5102923/"
 layout: "researcher"
 hiddenInHomeList: true

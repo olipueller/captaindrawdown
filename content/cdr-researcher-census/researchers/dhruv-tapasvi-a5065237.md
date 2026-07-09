@@ -1,7 +1,7 @@
 ---
 title: "Dhruv Tapasvi"
 description: "Dhruv Tapasvi is a Mid-career General CDR researcher at Lindum (Norway) in NO. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.983017
+date: 2026-07-10T01:07:47.992160
 url: "/cdr-researcher-census/researchers/dhruv-tapasvi-a5065237/"
 layout: "researcher"
 hiddenInHomeList: true

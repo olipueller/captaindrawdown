@@ -1,7 +1,7 @@
 ---
 title: "Chenchen Qu"
 description: "Chenchen Qu is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 63 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.144479
+date: 2026-07-10T01:07:47.233322
 url: "/cdr-researcher-census/researchers/chenchen-qu-a5114038/"
 layout: "researcher"
 hiddenInHomeList: true

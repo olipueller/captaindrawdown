@@ -1,7 +1,7 @@
 ---
 title: "Keying Liu"
 description: "Keying Liu is a Senior Biochar researcher at Nanyang Normal University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.027892
+date: 2026-07-10T01:07:48.943895
 url: "/cdr-researcher-census/researchers/keying-liu-a5101475/"
 layout: "researcher"
 hiddenInHomeList: true

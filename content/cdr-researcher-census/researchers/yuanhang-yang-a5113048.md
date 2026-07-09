@@ -1,7 +1,7 @@
 ---
 title: "Yuanhang Yang"
 description: "Yuanhang Yang is a Mid-career Unknown researcher at Nanyang Technological University in SG. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.933340
+date: 2026-07-10T01:07:47.945997
 url: "/cdr-researcher-census/researchers/yuanhang-yang-a5113048/"
 layout: "researcher"
 hiddenInHomeList: true

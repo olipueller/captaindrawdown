@@ -1,7 +1,7 @@
 ---
 title: "Tianjiao Feng"
 description: "Tianjiao Feng is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.318938
+date: 2026-07-10T01:07:47.401304
 url: "/cdr-researcher-census/researchers/tianjiao-feng-a5100323/"
 layout: "researcher"
 hiddenInHomeList: true

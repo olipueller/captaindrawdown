@@ -1,7 +1,7 @@
 ---
 title: "Md. Mohsin Ali"
 description: "Md. Mohsin Ali is a Senior Unknown researcher at United States Geological Survey in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.402283
+date: 2026-07-10T01:07:48.393933
 url: "/cdr-researcher-census/researchers/md-mohsin-ali-a5103478/"
 layout: "researcher"
 hiddenInHomeList: true

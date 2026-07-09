@@ -1,7 +1,7 @@
 ---
 title: "Manuela Gertrudis García-Márquez"
 description: "Manuela Gertrudis García-Márquez is a Mid-career Ocean CDR researcher at Universitat de les Illes Balears in ES. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.197430
+date: 2026-07-10T01:07:49.110626
 url: "/cdr-researcher-census/researchers/manuela-gertrudis-garcia-marquez-a5019742/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jason Loiland"
 description: "Jason Loiland is a Mid-career Unknown researcher at Saudi Arabia Basic Industries (United States) in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.777691
+date: 2026-07-10T01:07:47.826947
 url: "/cdr-researcher-census/researchers/jason-loiland-a5075968/"
 layout: "researcher"
 hiddenInHomeList: true

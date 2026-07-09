@@ -1,7 +1,7 @@
 ---
 title: "Devon Powers"
 description: "Devon Powers is a Mid-career Unknown researcher at Argonne National Laboratory in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.567893
+date: 2026-07-10T01:07:48.546555
 url: "/cdr-researcher-census/researchers/devon-powers-a5078979/"
 layout: "researcher"
 hiddenInHomeList: true

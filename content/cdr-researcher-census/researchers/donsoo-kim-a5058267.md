@@ -1,7 +1,7 @@
 ---
 title: "Don‐Soo Kim"
 description: "Don‐Soo Kim is a Mid-career Unknown researcher at Boston Children's Hospital in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.426631
+date: 2026-07-10T01:07:48.416840
 url: "/cdr-researcher-census/researchers/donsoo-kim-a5058267/"
 layout: "researcher"
 hiddenInHomeList: true

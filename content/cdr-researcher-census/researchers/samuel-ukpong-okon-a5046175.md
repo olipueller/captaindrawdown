@@ -1,7 +1,7 @@
 ---
 title: "Samuel Ukpong Okon"
 description: "Samuel Ukpong Okon is a Mid-career Biochar researcher at Ocean University of China in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.918025
+date: 2026-07-10T01:07:47.931548
 url: "/cdr-researcher-census/researchers/samuel-ukpong-okon-a5046175/"
 layout: "researcher"
 hiddenInHomeList: true

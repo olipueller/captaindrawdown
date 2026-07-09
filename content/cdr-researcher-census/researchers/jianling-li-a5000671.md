@@ -1,7 +1,7 @@
 ---
 title: "Jianling Li"
 description: "Jianling Li is an Early-career Unknown researcher at Chinese Academy of Sciences in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.942508
+date: 2026-07-10T01:07:48.864912
 url: "/cdr-researcher-census/researchers/jianling-li-a5000671/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Do-Gyun Park"
 description: "Do-Gyun Park is a Mid-career Soil Carbon researcher at Chungnam National University in KR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.519348
+date: 2026-07-10T01:07:48.502664
 url: "/cdr-researcher-census/researchers/do-gyun-park-a5024433/"
 layout: "researcher"
 hiddenInHomeList: true

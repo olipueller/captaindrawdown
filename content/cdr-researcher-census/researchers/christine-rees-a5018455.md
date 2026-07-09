@@ -1,7 +1,7 @@
 ---
 title: "Christine Rees"
 description: "Christine Rees is a Senior Unknown researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.138611
+date: 2026-07-10T01:07:48.160195
 url: "/cdr-researcher-census/researchers/christine-rees-a5018455/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rongzhang Yin"
 description: "Rongzhang Yin is a Mid-career Unknown researcher at Peking University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.491563
+date: 2026-07-10T01:07:48.477539
 url: "/cdr-researcher-census/researchers/rongzhang-yin-a5074201/"
 layout: "researcher"
 hiddenInHomeList: true

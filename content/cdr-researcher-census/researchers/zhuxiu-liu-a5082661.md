@@ -1,7 +1,7 @@
 ---
 title: "Zhuxiu Liu"
 description: "Zhuxiu Liu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.432940
+date: 2026-07-10T01:07:47.510427
 url: "/cdr-researcher-census/researchers/zhuxiu-liu-a5082661/"
 layout: "researcher"
 hiddenInHomeList: true

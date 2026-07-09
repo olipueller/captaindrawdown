@@ -1,7 +1,7 @@
 ---
 title: "Ruolin Meng"
 description: "Ruolin Meng is a Senior Unknown researcher at Huazhong University of Science and Technology in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.833969
+date: 2026-07-10T01:07:48.767470
 url: "/cdr-researcher-census/researchers/ruolin-meng-a5009584/"
 layout: "researcher"
 hiddenInHomeList: true

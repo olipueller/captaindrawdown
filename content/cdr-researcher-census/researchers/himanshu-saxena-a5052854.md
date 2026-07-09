@@ -1,7 +1,7 @@
 ---
 title: "Himanshu Saxena"
 description: "Himanshu Saxena is a Mid-career Ocean CDR researcher at Indian Institute of Tropical Meteorology in IN. With 44 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.511207
+date: 2026-07-10T01:07:48.495727
 url: "/cdr-researcher-census/researchers/himanshu-saxena-a5052854/"
 layout: "researcher"
 hiddenInHomeList: true

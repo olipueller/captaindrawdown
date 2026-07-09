@@ -1,7 +1,7 @@
 ---
 title: "Yogesh Kumar"
 description: "Yogesh Kumar is a Mid-career Biochar researcher at Ganpat University in IN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.759885
+date: 2026-07-10T01:07:47.810311
 url: "/cdr-researcher-census/researchers/yogesh-kumar-a5017095/"
 layout: "researcher"
 hiddenInHomeList: true

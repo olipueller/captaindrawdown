@@ -1,7 +1,7 @@
 ---
 title: "Lavinia Pastore"
 description: "Lavinia Pastore is a Mid-career Soil Carbon researcher at Open Evidence in ES. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.465602
+date: 2026-07-10T01:07:48.453357
 url: "/cdr-researcher-census/researchers/lavinia-pastore-a5071122/"
 layout: "researcher"
 hiddenInHomeList: true

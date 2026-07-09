@@ -1,7 +1,7 @@
 ---
 title: "David Fabijan"
 description: "David Fabijan is a Mid-career Unknown researcher at Jožef Stefan Institute in SI. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.058535
+date: 2026-07-10T01:07:48.971219
 url: "/cdr-researcher-census/researchers/david-fabijan-a5081152/"
 layout: "researcher"
 hiddenInHomeList: true

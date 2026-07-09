@@ -1,7 +1,7 @@
 ---
 title: "Shuhan Liu"
 description: "Shuhan Liu is a Senior Soil Carbon researcher at Northeastern University in CN. With 131 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.990439
+date: 2026-07-10T01:07:47.046255
 url: "/cdr-researcher-census/researchers/shuhan-liu-a5101976/"
 layout: "researcher"
 hiddenInHomeList: true

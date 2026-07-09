@@ -1,7 +1,7 @@
 ---
 title: "Seung Tak Jeong"
 description: "Seung Tak Jeong is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.323181
+date: 2026-07-10T01:07:47.405342
 url: "/cdr-researcher-census/researchers/seung-tak-jeong-a5001430/"
 layout: "researcher"
 hiddenInHomeList: true

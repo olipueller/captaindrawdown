@@ -1,7 +1,7 @@
 ---
 title: "Christopher Taylor"
 description: "Christopher Taylor is a Senior Soil Carbon researcher at University of Manchester in GB. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.424353
+date: 2026-07-10T01:07:48.414700
 url: "/cdr-researcher-census/researchers/christopher-taylor-a5011396/"
 layout: "researcher"
 hiddenInHomeList: true

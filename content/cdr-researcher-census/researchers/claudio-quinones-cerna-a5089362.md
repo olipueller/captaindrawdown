@@ -1,7 +1,7 @@
 ---
 title: "Claudio Quiñones-Cerna"
 description: "Claudio Quiñones-Cerna is a Mid-career Unknown researcher at Universidad César Vallejo in PE. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.201218
+date: 2026-07-10T01:07:49.114026
 url: "/cdr-researcher-census/researchers/claudio-quinones-cerna-a5089362/"
 layout: "researcher"
 hiddenInHomeList: true

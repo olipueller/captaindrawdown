@@ -1,7 +1,7 @@
 ---
 title: "Raji Mary Mathew"
 description: "Raji Mary Mathew is a Senior Unknown researcher at University of Kerala in IN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.891472
+date: 2026-07-10T01:07:47.906397
 url: "/cdr-researcher-census/researchers/raji-mary-mathew-a5105842/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cody J. Sanderson"
 description: "Cody J. Sanderson is a Senior Unknown researcher at University of Florida in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.897893
+date: 2026-07-10T01:07:48.823577
 url: "/cdr-researcher-census/researchers/cody-j-sanderson-a5075228/"
 layout: "researcher"
 hiddenInHomeList: true

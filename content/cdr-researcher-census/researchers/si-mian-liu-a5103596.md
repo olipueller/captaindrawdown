@@ -1,7 +1,7 @@
 ---
 title: "Si-mian Liu"
 description: "Si-mian Liu is a Mid-career Unknown researcher at Yan'an University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.170789
+date: 2026-07-10T01:07:47.260653
 url: "/cdr-researcher-census/researchers/si-mian-liu-a5103596/"
 layout: "researcher"
 hiddenInHomeList: true

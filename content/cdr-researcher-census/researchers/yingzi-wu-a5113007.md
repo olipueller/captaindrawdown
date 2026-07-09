@@ -1,7 +1,7 @@
 ---
 title: "Yingzi Wu"
 description: "Yingzi Wu is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.140614
+date: 2026-07-10T01:07:49.043614
 url: "/cdr-researcher-census/researchers/yingzi-wu-a5113007/"
 layout: "researcher"
 hiddenInHomeList: true

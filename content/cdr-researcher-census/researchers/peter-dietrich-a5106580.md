@@ -1,7 +1,7 @@
 ---
 title: "Peter Dietrich"
 description: "Peter Dietrich is a Mid-career Soil Carbon researcher at German Centre for Integrative Biodiversity Research in DE. With 51 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.483236
+date: 2026-07-10T01:07:47.555041
 url: "/cdr-researcher-census/researchers/peter-dietrich-a5106580/"
 layout: "researcher"
 hiddenInHomeList: true

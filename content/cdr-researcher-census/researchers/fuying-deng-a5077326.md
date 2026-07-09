@@ -1,7 +1,7 @@
 ---
 title: "Fuying Deng"
 description: "Fuying Deng is a Senior Unknown researcher at Yunnan University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.836201
+date: 2026-07-10T01:07:48.769180
 url: "/cdr-researcher-census/researchers/fuying-deng-a5077326/"
 layout: "researcher"
 hiddenInHomeList: true

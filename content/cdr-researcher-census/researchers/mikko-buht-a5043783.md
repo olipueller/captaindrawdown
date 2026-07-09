@@ -1,7 +1,7 @@
 ---
 title: "Mikko Buht"
 description: "Mikko Buht is a Mid-career Unknown researcher at Estonian University of Life Sciences in EE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.650023
+date: 2026-07-10T01:07:48.608567
 url: "/cdr-researcher-census/researchers/mikko-buht-a5043783/"
 layout: "researcher"
 hiddenInHomeList: true

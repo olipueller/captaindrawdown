@@ -1,7 +1,7 @@
 ---
 title: "Yutian Ke"
 description: "Yutian Ke is a Mid-career Ocean CDR researcher at California Institute of Technology in US. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.260569
+date: 2026-07-10T01:07:47.344622
 url: "/cdr-researcher-census/researchers/yutian-ke-a5069108/"
 layout: "researcher"
 hiddenInHomeList: true

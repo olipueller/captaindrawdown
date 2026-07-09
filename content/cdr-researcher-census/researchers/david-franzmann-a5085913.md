@@ -1,7 +1,7 @@
 ---
 title: "David Franzmann"
 description: "David Franzmann is a Mid-career General CDR researcher at Forschungszentrum Jülich in DE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.236697
+date: 2026-07-10T01:07:48.246136
 url: "/cdr-researcher-census/researchers/david-franzmann-a5085913/"
 layout: "researcher"
 hiddenInHomeList: true

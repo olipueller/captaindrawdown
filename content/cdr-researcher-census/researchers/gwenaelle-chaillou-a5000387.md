@@ -1,7 +1,7 @@
 ---
 title: "Gwénaëlle Chaillou"
 description: "Gwénaëlle Chaillou is a Senior Ocean CDR researcher at Université du Québec à Rimouski in CA. With 94 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.026217
+date: 2026-07-10T01:07:47.094117
 url: "/cdr-researcher-census/researchers/gwenaelle-chaillou-a5000387/"
 layout: "researcher"
 hiddenInHomeList: true

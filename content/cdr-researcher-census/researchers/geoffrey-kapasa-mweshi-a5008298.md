@@ -1,7 +1,7 @@
 ---
 title: "Geoffrey Kapasa Mweshi"
 description: "Geoffrey Kapasa Mweshi is a Mid-career Unknown researcher at Zambia Centre for Accountancy Studies in ZM. With 16 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.357638
+date: 2026-07-10T01:07:48.355944
 url: "/cdr-researcher-census/researchers/geoffrey-kapasa-mweshi-a5008298/"
 layout: "researcher"
 hiddenInHomeList: true

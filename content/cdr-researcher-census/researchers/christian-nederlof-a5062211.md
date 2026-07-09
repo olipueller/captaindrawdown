@@ -1,7 +1,7 @@
 ---
 title: "Christian Nederlof"
 description: "Christian Nederlof is a Senior Unknown researcher at DAF Trucks (Netherlands) in NL. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.917551
+date: 2026-07-10T01:07:47.931006
 url: "/cdr-researcher-census/researchers/christian-nederlof-a5062211/"
 layout: "researcher"
 hiddenInHomeList: true

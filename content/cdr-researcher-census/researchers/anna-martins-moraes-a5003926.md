@@ -1,7 +1,7 @@
 ---
 title: "Anna Martins Moraes"
 description: "Anna Martins Moraes is an Early-career Unknown researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.334301
+date: 2026-07-10T01:07:48.334412
 url: "/cdr-researcher-census/researchers/anna-martins-moraes-a5003926/"
 layout: "researcher"
 hiddenInHomeList: true

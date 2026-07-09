@@ -1,7 +1,7 @@
 ---
 title: "Megan R. Sullivan"
 description: "Megan R. Sullivan is a Senior Ocean CDR researcher at University of Rhode Island in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.516738
+date: 2026-07-10T01:07:47.584621
 url: "/cdr-researcher-census/researchers/megan-r-sullivan-a5066808/"
 layout: "researcher"
 hiddenInHomeList: true

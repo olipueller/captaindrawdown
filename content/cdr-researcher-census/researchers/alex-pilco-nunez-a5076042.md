@@ -1,7 +1,7 @@
 ---
 title: "Alex Pilco-Nuñez"
 description: "Alex Pilco-Nuñez is a Mid-career General CDR researcher at National University of Engineering in PE. With 33 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.214843
+date: 2026-07-10T01:07:49.126256
 url: "/cdr-researcher-census/researchers/alex-pilco-nunez-a5076042/"
 layout: "researcher"
 hiddenInHomeList: true

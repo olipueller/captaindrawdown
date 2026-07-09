@@ -1,7 +1,7 @@
 ---
 title: "Alivia Mukherjee"
 description: "Alivia Mukherjee is a Mid-career Biochar researcher at University of Michigan in US. With 50 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.087291
+date: 2026-07-10T01:07:47.169180
 url: "/cdr-researcher-census/researchers/alivia-mukherjee-a5059728/"
 layout: "researcher"
 hiddenInHomeList: true

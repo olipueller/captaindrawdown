@@ -1,7 +1,7 @@
 ---
 title: "Huosheng Li"
 description: "Huosheng Li is a Senior Biochar researcher at Guangzhou University in CN. With 96 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.025957
+date: 2026-07-10T01:07:47.093790
 url: "/cdr-researcher-census/researchers/huosheng-li-a5044751/"
 layout: "researcher"
 hiddenInHomeList: true

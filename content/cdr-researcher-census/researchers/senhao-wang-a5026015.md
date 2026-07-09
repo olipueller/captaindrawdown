@@ -1,7 +1,7 @@
 ---
 title: "Senhao Wang"
 description: "Senhao Wang is a Mid-career Soil Carbon researcher at North China Electric Power University in CN. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.536389
+date: 2026-07-10T01:07:47.602191
 url: "/cdr-researcher-census/researchers/senhao-wang-a5026015/"
 layout: "researcher"
 hiddenInHomeList: true

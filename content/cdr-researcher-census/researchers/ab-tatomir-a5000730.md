@@ -1,7 +1,7 @@
 ---
 title: "A.B. Tatomir"
 description: "A.B. Tatomir is a Mid-career Unknown researcher at Bundesinstitut für Öffentliche Gesundheit in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.896353
+date: 2026-07-10T01:07:48.822160
 url: "/cdr-researcher-census/researchers/ab-tatomir-a5000730/"
 layout: "researcher"
 hiddenInHomeList: true

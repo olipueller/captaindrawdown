@@ -1,7 +1,7 @@
 ---
 title: "Andrea K. Kaiser-Weiss"
 description: "Andrea K. Kaiser-Weiss is a Senior Unknown researcher at Deutscher Wetterdienst in DE. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.535425
+date: 2026-07-10T01:07:47.601368
 url: "/cdr-researcher-census/researchers/andrea-k-kaiser-weiss-a5040769/"
 layout: "researcher"
 hiddenInHomeList: true

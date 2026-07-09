@@ -1,7 +1,7 @@
 ---
 title: "Caidi Yang"
 description: "Caidi Yang is a Mid-career Soil Carbon researcher at Northwest University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.474670
+date: 2026-07-10T01:07:47.546910
 url: "/cdr-researcher-census/researchers/caidi-yang-a5101961/"
 layout: "researcher"
 hiddenInHomeList: true

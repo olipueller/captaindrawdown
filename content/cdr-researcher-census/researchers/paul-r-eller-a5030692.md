@@ -1,7 +1,7 @@
 ---
 title: "Paul R. Eller"
 description: "Paul R. Eller is a Senior Unknown researcher at Oak Ridge National Laboratory in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.008335
+date: 2026-07-10T01:07:48.925615
 url: "/cdr-researcher-census/researchers/paul-r-eller-a5030692/"
 layout: "researcher"
 hiddenInHomeList: true

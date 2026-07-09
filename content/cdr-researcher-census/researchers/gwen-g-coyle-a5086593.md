@@ -1,7 +1,7 @@
 ---
 title: "Gwen G. Coyle"
 description: "Gwen G. Coyle is a Senior Unknown researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.247421
+date: 2026-07-10T01:07:48.255497
 url: "/cdr-researcher-census/researchers/gwen-g-coyle-a5086593/"
 layout: "researcher"
 hiddenInHomeList: true

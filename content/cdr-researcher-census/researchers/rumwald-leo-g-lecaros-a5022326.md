@@ -1,7 +1,7 @@
 ---
 title: "Rumwald Leo G. Lecaros"
 description: "Rumwald Leo G. Lecaros is a Mid-career Unknown researcher at University at Buffalo, State University of New York in US. With 20 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.377625
+date: 2026-07-10T01:07:47.459441
 url: "/cdr-researcher-census/researchers/rumwald-leo-g-lecaros-a5022326/"
 layout: "researcher"
 hiddenInHomeList: true

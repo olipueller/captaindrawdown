@@ -1,7 +1,7 @@
 ---
 title: "Kesinee Iamsaard"
 description: "Kesinee Iamsaard is a Mid-career Biochar researcher at National Chung Hsing University in TW. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.161303
+date: 2026-07-10T01:07:48.179304
 url: "/cdr-researcher-census/researchers/kesinee-iamsaard-a5081973/"
 layout: "researcher"
 hiddenInHomeList: true

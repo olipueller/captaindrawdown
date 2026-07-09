@@ -1,7 +1,7 @@
 ---
 title: "Bowen Fan"
 description: "Bowen Fan is a Mid-career Unknown researcher at Heilongjiang Bayi Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.199534
+date: 2026-07-10T01:07:49.112424
 url: "/cdr-researcher-census/researchers/bowen-fan-a5088178/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Joel Segarra"
 description: "Joel Segarra is a Mid-career Soil Carbon researcher at Universitat de Lleida in ES. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.369779
+date: 2026-07-10T01:07:47.452113
 url: "/cdr-researcher-census/researchers/joel-segarra-a5050116/"
 layout: "researcher"
 hiddenInHomeList: true

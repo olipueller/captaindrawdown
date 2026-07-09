@@ -1,7 +1,7 @@
 ---
 title: "Huaiguang Li"
 description: "Huaiguang Li is an Early-career Unknown researcher at Chinese University of Hong Kong in HK. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.420357
+date: 2026-07-10T01:07:48.411116
 url: "/cdr-researcher-census/researchers/huaiguang-li-a5023559/"
 layout: "researcher"
 hiddenInHomeList: true

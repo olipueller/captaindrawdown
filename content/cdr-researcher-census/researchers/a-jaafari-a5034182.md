@@ -1,7 +1,7 @@
 ---
 title: "A. Jaafari"
 description: "A. Jaafari is a Senior Unknown researcher at Centre National de la Recherche Scientifique in FR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.384232
+date: 2026-07-10T01:07:48.379297
 url: "/cdr-researcher-census/researchers/a-jaafari-a5034182/"
 layout: "researcher"
 hiddenInHomeList: true

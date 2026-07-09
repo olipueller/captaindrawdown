@@ -1,7 +1,7 @@
 ---
 title: "Yiru Zhang"
 description: "Yiru Zhang is a Mid-career Soil Carbon researcher at Korea Meteorological Administration in KR. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.098508
+date: 2026-07-10T01:07:49.007069
 url: "/cdr-researcher-census/researchers/yiru-zhang-a5101716/"
 layout: "researcher"
 hiddenInHomeList: true

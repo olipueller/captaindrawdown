@@ -1,7 +1,7 @@
 ---
 title: "Mourad Boumaza"
 description: "Mourad Boumaza is a Senior Unknown researcher at crnb in DZ. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.368230
+date: 2026-07-10T01:07:47.450594
 url: "/cdr-researcher-census/researchers/mourad-boumaza-a5021987/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kazumichi Fujii"
 description: "Kazumichi Fujii is a Senior Soil Carbon researcher at Forestry and Forest Products Research Institute in JP. With 122 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.080353
+date: 2026-07-10T01:07:47.161022
 url: "/cdr-researcher-census/researchers/kazumichi-fujii-a5044253/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kumuduni Palansuriya"
 description: "Kumuduni Palansuriya is an Early-career Biochar researcher at Korea University in KR. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.764198
+date: 2026-07-10T01:07:48.708935
 url: "/cdr-researcher-census/researchers/kumuduni-palansuriya-a5044012/"
 layout: "researcher"
 hiddenInHomeList: true

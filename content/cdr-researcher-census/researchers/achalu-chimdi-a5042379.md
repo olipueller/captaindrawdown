@@ -1,7 +1,7 @@
 ---
 title: "Achalu Chimdi"
 description: "Achalu Chimdi is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.780917
+date: 2026-07-10T01:07:47.829591
 url: "/cdr-researcher-census/researchers/achalu-chimdi-a5042379/"
 layout: "researcher"
 hiddenInHomeList: true

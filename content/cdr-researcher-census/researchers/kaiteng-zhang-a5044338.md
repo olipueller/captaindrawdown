@@ -1,7 +1,7 @@
 ---
 title: "Kaiteng Zhang"
 description: "Kaiteng Zhang is a Mid-career Unknown researcher at Ludong University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.041636
+date: 2026-07-10T01:07:48.047021
 url: "/cdr-researcher-census/researchers/kaiteng-zhang-a5044338/"
 layout: "researcher"
 hiddenInHomeList: true

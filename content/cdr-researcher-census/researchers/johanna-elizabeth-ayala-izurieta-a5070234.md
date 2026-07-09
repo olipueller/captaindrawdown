@@ -1,7 +1,7 @@
 ---
 title: "Johanna Elizabeth Ayala Izurieta"
 description: "Johanna Elizabeth Ayala Izurieta is a Mid-career Unknown researcher at Parc Científic de la Universitat de València in ES. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.803333
+date: 2026-07-10T01:07:48.742138
 url: "/cdr-researcher-census/researchers/johanna-elizabeth-ayala-izurieta-a5070234/"
 layout: "researcher"
 hiddenInHomeList: true

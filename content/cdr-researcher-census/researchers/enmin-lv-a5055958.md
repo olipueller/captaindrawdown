@@ -1,7 +1,7 @@
 ---
 title: "Enmin Lv"
 description: "Enmin Lv is a Mid-career Unknown researcher at Dalian University of Technology in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.263493
+date: 2026-07-10T01:07:48.270459
 url: "/cdr-researcher-census/researchers/enmin-lv-a5055958/"
 layout: "researcher"
 hiddenInHomeList: true

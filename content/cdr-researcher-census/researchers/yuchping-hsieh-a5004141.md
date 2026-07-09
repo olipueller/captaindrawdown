@@ -1,7 +1,7 @@
 ---
 title: "Yuch‐Ping Hsieh"
 description: "Yuch‐Ping Hsieh is a Senior Biochar researcher at Florida Agricultural and Mechanical University in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.995468
+date: 2026-07-10T01:07:48.004864
 url: "/cdr-researcher-census/researchers/yuchping-hsieh-a5004141/"
 layout: "researcher"
 hiddenInHomeList: true

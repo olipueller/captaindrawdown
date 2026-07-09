@@ -1,7 +1,7 @@
 ---
 title: "Ming Weng"
 description: "Ming Weng is a Mid-career Unknown researcher at Jiangnan University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.196672
+date: 2026-07-10T01:07:49.109993
 url: "/cdr-researcher-census/researchers/ming-weng-a5085827/"
 layout: "researcher"
 hiddenInHomeList: true

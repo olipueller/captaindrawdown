@@ -1,7 +1,7 @@
 ---
 title: "Yingtao Guo"
 description: "Yingtao Guo is a Mid-career Biochar researcher at Guangxi University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.014843
+date: 2026-07-10T01:07:48.022568
 url: "/cdr-researcher-census/researchers/yingtao-guo-a5030324/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mabruk Adams"
 description: "Mabruk Adams is a Mid-career Biochar researcher at Ghana Ministry of Food and Agriculture in GH. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.285683
+date: 2026-07-10T01:07:47.368042
 url: "/cdr-researcher-census/researchers/mabruk-adams-a5053620/"
 layout: "researcher"
 hiddenInHomeList: true

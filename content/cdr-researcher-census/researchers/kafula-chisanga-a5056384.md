@@ -1,7 +1,7 @@
 ---
 title: "Kafula Chisanga"
 description: "Kafula Chisanga is a Mid-career Soil Carbon researcher at University of Zambia in ZM. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.081726
+date: 2026-07-10T01:07:48.992237
 url: "/cdr-researcher-census/researchers/kafula-chisanga-a5056384/"
 layout: "researcher"
 hiddenInHomeList: true

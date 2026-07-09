@@ -1,7 +1,7 @@
 ---
 title: "Sheila Trierveiler de Souza"
 description: "Sheila Trierveiler de Souza is a Mid-career Unknown researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.549272
+date: 2026-07-10T01:07:47.613520
 url: "/cdr-researcher-census/researchers/sheila-trierveiler-de-souza-a5113867/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shixian Xu"
 description: "Shixian Xu is a Mid-career Unknown researcher at Xinjiang Agricultural University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.335249
+date: 2026-07-10T01:07:48.335532
 url: "/cdr-researcher-census/researchers/shixian-xu-a5025332/"
 layout: "researcher"
 hiddenInHomeList: true

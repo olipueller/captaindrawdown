@@ -1,7 +1,7 @@
 ---
 title: "Shuchi Talati"
 description: "Shuchi Talati is a Mid-career General CDR researcher at Digital Research Alliance of Canada. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.490323
+date: 2026-07-10T01:07:47.561248
 url: "/cdr-researcher-census/researchers/shuchi-talati-a5021217/"
 layout: "researcher"
 hiddenInHomeList: true

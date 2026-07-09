@@ -1,7 +1,7 @@
 ---
 title: "Ana Arteaga"
 description: "Ana Arteaga is a Senior Unknown researcher at Battelle in US. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.332059
+date: 2026-07-10T01:07:48.332412
 url: "/cdr-researcher-census/researchers/ana-arteaga-a5047480/"
 layout: "researcher"
 hiddenInHomeList: true

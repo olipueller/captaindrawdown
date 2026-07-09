@@ -1,7 +1,7 @@
 ---
 title: "Rebecca B. Neumann"
 description: "Rebecca B. Neumann is a Senior General CDR researcher at Frontier Climate in US. With 138 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.968720
+date: 2026-07-10T01:07:47.011728
 url: "/cdr-researcher-census/researchers/rebecca-b-neumann-a5018422/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rasha H. Salman"
 description: "Rasha H. Salman is a Senior Biochar researcher at University of Baghdad in IQ. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.911417
+date: 2026-07-10T01:07:47.924821
 url: "/cdr-researcher-census/researchers/rasha-h-salman-a5027667/"
 layout: "researcher"
 hiddenInHomeList: true

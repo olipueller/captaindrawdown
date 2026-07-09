@@ -1,7 +1,7 @@
 ---
 title: "Mohd Ahmed"
 description: "Mohd Ahmed is a Mid-career General CDR researcher at King Khalid University in SA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.138171
+date: 2026-07-10T01:07:48.159852
 url: "/cdr-researcher-census/researchers/mohd-ahmed-a5011436/"
 layout: "researcher"
 hiddenInHomeList: true

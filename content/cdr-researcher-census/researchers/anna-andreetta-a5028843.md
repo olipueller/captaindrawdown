@@ -1,7 +1,7 @@
 ---
 title: "Anna Andreetta"
 description: "Anna Andreetta is a Senior Soil Carbon researcher at University of Cagliari in IT. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.389827
+date: 2026-07-10T01:07:47.470689
 url: "/cdr-researcher-census/researchers/anna-andreetta-a5028843/"
 layout: "researcher"
 hiddenInHomeList: true

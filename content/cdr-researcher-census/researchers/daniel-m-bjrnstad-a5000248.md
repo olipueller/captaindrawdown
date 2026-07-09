@@ -1,7 +1,7 @@
 ---
 title: "Daniel M. Bjørnstad"
 description: "Daniel M. Bjørnstad is a Mid-career Unknown researcher at University of Oslo in NO. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.629887
+date: 2026-07-10T01:07:47.689374
 url: "/cdr-researcher-census/researchers/daniel-m-bjrnstad-a5000248/"
 layout: "researcher"
 hiddenInHomeList: true

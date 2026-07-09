@@ -1,7 +1,7 @@
 ---
 title: "Aneesh Vasudev"
 description: "Aneesh Vasudev is a Mid-career Unknown researcher at University of Vaasa in FI. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.731281
+date: 2026-07-10T01:07:48.679995
 url: "/cdr-researcher-census/researchers/aneesh-vasudev-a5002286/"
 layout: "researcher"
 hiddenInHomeList: true

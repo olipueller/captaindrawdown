@@ -1,7 +1,7 @@
 ---
 title: "Guohong Yang"
 description: "Guohong Yang is a Senior Biochar researcher at Henan Academy of Agricultural Sciences in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.656792
+date: 2026-07-10T01:07:47.714243
 url: "/cdr-researcher-census/researchers/guohong-yang-a5114143/"
 layout: "researcher"
 hiddenInHomeList: true

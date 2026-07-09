@@ -1,7 +1,7 @@
 ---
 title: "Paulina B. Ramírez"
 description: "Paulina B. Ramírez is a Mid-career Soil Carbon researcher at Oregon State University in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.939456
+date: 2026-07-10T01:07:47.951853
 url: "/cdr-researcher-census/researchers/paulina-b-ramirez-a5036064/"
 layout: "researcher"
 hiddenInHomeList: true

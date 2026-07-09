@@ -1,7 +1,7 @@
 ---
 title: "Mengru Zhang"
 description: "Mengru Zhang is a Mid-career Unknown researcher at Shandong University in CN. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.390978
+date: 2026-07-10T01:07:47.472013
 url: "/cdr-researcher-census/researchers/mengru-zhang-a5041832/"
 layout: "researcher"
 hiddenInHomeList: true

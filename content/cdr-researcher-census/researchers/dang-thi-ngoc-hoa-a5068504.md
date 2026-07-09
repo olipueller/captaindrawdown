@@ -1,7 +1,7 @@
 ---
 title: "Dang Thi Ngoc Hoa"
 description: "Dang Thi Ngoc Hoa is a Mid-career Unknown researcher at Hue University in VN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.954667
+date: 2026-07-10T01:07:48.876700
 url: "/cdr-researcher-census/researchers/dang-thi-ngoc-hoa-a5068504/"
 layout: "researcher"
 hiddenInHomeList: true

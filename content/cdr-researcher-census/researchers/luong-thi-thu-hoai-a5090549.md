@@ -1,7 +1,7 @@
 ---
 title: "Luong Thi Thu Hoai"
 description: "Luong Thi Thu Hoai is a Mid-career Unknown researcher at Vietnam National University, Hanoi in VN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.929782
+date: 2026-07-10T01:07:48.853302
 url: "/cdr-researcher-census/researchers/luong-thi-thu-hoai-a5090549/"
 layout: "researcher"
 hiddenInHomeList: true

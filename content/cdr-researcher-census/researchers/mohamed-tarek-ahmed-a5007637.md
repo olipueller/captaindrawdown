@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Tarek Ahmed"
 description: "Mohamed Tarek Ahmed is a Mid-career Unknown researcher at National Taipei University of Technology in TW. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.203883
+date: 2026-07-10T01:07:49.116544
 url: "/cdr-researcher-census/researchers/mohamed-tarek-ahmed-a5007637/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ramwant Gupta"
 description: "Ramwant Gupta is a Senior Unknown researcher at Deen Dayal Upadhyaya Gorakhpur University in IN. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.202584
+date: 2026-07-10T01:07:48.216080
 url: "/cdr-researcher-census/researchers/ramwant-gupta-a5107974/"
 layout: "researcher"
 hiddenInHomeList: true

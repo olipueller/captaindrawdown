@@ -1,7 +1,7 @@
 ---
 title: "Zouheir Nasr"
 description: "Zouheir Nasr is a Mid-career Soil Carbon researcher at National Research Institute of Rural Engineering, Water and Forests in TN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.221546
+date: 2026-07-10T01:07:49.131994
 url: "/cdr-researcher-census/researchers/zouheir-nasr-a5108744/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Krittiya Pornmai"
 description: "Krittiya Pornmai is a Senior Unknown researcher at Chulalongkorn University in TH. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.955361
+date: 2026-07-10T01:07:48.877388
 url: "/cdr-researcher-census/researchers/krittiya-pornmai-a5083020/"
 layout: "researcher"
 hiddenInHomeList: true

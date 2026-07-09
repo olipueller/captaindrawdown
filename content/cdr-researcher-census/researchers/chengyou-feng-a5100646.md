@@ -1,7 +1,7 @@
 ---
 title: "Chengyou Feng"
 description: "Chengyou Feng is a Senior Unknown researcher at Chinese Academy of Geological Sciences in CN. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.230481
+date: 2026-07-10T01:07:47.317211
 url: "/cdr-researcher-census/researchers/chengyou-feng-a5100646/"
 layout: "researcher"
 hiddenInHomeList: true

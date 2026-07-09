@@ -1,7 +1,7 @@
 ---
 title: "Pushp Lata"
 description: "Pushp Lata is a Senior Unknown researcher at University of Delhi in IN. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.656001
+date: 2026-07-10T01:07:47.713394
 url: "/cdr-researcher-census/researchers/pushp-lata-a5042759/"
 layout: "researcher"
 hiddenInHomeList: true

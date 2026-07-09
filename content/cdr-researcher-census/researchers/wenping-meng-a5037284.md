@@ -1,7 +1,7 @@
 ---
 title: "Wenping Meng"
 description: "Wenping Meng is a Mid-career Soil Carbon researcher at Guizhou Botanical Garden in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.198930
+date: 2026-07-10T01:07:49.111883
 url: "/cdr-researcher-census/researchers/wenping-meng-a5037284/"
 layout: "researcher"
 hiddenInHomeList: true

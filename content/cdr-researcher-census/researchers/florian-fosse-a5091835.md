@@ -1,7 +1,7 @@
 ---
 title: "Florian Fosse"
 description: "Florian Fosse is a Mid-career General CDR researcher at Joint Research Center in ES. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.472912
+date: 2026-07-10T01:07:47.545285
 url: "/cdr-researcher-census/researchers/florian-fosse-a5091835/"
 layout: "researcher"
 hiddenInHomeList: true

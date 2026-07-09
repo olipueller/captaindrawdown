@@ -1,7 +1,7 @@
 ---
 title: "Qing-Yu Zhai"
 description: "Qing-Yu Zhai is a Mid-career Unknown researcher at Beihang University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.797037
+date: 2026-07-10T01:07:47.845072
 url: "/cdr-researcher-census/researchers/qing-yu-zhai-a5011364/"
 layout: "researcher"
 hiddenInHomeList: true

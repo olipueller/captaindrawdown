@@ -1,7 +1,7 @@
 ---
 title: "Katarina Elofsson"
 description: "Katarina Elofsson is a Senior Soil Carbon researcher at Aarhus University in DK. With 116 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.184816
+date: 2026-07-10T01:07:47.273908
 url: "/cdr-researcher-census/researchers/katarina-elofsson-a5045434/"
 layout: "researcher"
 hiddenInHomeList: true

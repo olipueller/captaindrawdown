@@ -1,7 +1,7 @@
 ---
 title: "Marzban Faramarzi"
 description: "Marzban Faramarzi is a Senior Unknown researcher at Ilam University in IR. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.210492
+date: 2026-07-10T01:07:49.122820
 url: "/cdr-researcher-census/researchers/marzban-faramarzi-a5021926/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Birhanu Gizaw"
 description: "Birhanu Gizaw is a Mid-career Unknown researcher at Ethiopian Biodiversity Institute in ET. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.299782
+date: 2026-07-10T01:07:47.382162
 url: "/cdr-researcher-census/researchers/birhanu-gizaw-a5007888/"
 layout: "researcher"
 hiddenInHomeList: true

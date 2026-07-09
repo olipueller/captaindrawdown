@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Pino"
 description: "Vanessa Pino is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.673685
+date: 2026-07-10T01:07:47.730506
 url: "/cdr-researcher-census/researchers/vanessa-pino-a5022294/"
 layout: "researcher"
 hiddenInHomeList: true

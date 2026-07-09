@@ -1,7 +1,7 @@
 ---
 title: "Sunshine A. De Caires"
 description: "Sunshine A. De Caires is a Mid-career Soil Carbon researcher at University of the West Indies in TT. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.879154
+date: 2026-07-10T01:07:48.806900
 url: "/cdr-researcher-census/researchers/sunshine-a-de-caires-a5039920/"
 layout: "researcher"
 hiddenInHomeList: true

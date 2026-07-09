@@ -1,7 +1,7 @@
 ---
 title: "Sara Benelli"
 description: "Sara Benelli is a Mid-career Unknown researcher at Università degli Studi di Parma in IT. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.771805
+date: 2026-07-10T01:07:47.821667
 url: "/cdr-researcher-census/researchers/sara-benelli-a5062016/"
 layout: "researcher"
 hiddenInHomeList: true

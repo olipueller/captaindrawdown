@@ -1,7 +1,7 @@
 ---
 title: "Annesh Borthakur"
 description: "Annesh Borthakur is a Mid-career Biochar researcher at Saint Louis University in US. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.440138
+date: 2026-07-10T01:07:47.516468
 url: "/cdr-researcher-census/researchers/annesh-borthakur-a5072927/"
 layout: "researcher"
 hiddenInHomeList: true

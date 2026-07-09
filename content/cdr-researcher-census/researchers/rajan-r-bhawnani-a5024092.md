@@ -1,7 +1,7 @@
 ---
 title: "Rajan R. Bhawnani"
 description: "Rajan R. Bhawnani is a Mid-career General CDR researcher at University of Illinois Chicago in US. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.085895
+date: 2026-07-10T01:07:48.086921
 url: "/cdr-researcher-census/researchers/rajan-r-bhawnani-a5024092/"
 layout: "researcher"
 hiddenInHomeList: true

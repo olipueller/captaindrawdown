@@ -1,7 +1,7 @@
 ---
 title: "X.J. Zhang"
 description: "X.J. Zhang is a Mid-career General CDR researcher at Shandong University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.946526
+date: 2026-07-10T01:07:48.868482
 url: "/cdr-researcher-census/researchers/xj-zhang-a5078524/"
 layout: "researcher"
 hiddenInHomeList: true

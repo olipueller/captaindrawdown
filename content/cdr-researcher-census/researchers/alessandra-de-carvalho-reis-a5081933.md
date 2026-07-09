@@ -1,7 +1,7 @@
 ---
 title: "Alessandra de Carvalho Reis"
 description: "Alessandra de Carvalho Reis is a Mid-career Unknown researcher at Universidade Federal do Rio de Janeiro in BR. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.030902
+date: 2026-07-10T01:07:48.946299
 url: "/cdr-researcher-census/researchers/alessandra-de-carvalho-reis-a5081933/"
 layout: "researcher"
 hiddenInHomeList: true

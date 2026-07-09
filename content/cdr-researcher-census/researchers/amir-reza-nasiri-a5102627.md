@@ -1,7 +1,7 @@
 ---
 title: "Amir Reza Nasiri"
 description: "Amir Reza Nasiri is an Early-career Unknown researcher at University of Tehran in IR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.209073
+date: 2026-07-10T01:07:49.121735
 url: "/cdr-researcher-census/researchers/amir-reza-nasiri-a5102627/"
 layout: "researcher"
 hiddenInHomeList: true

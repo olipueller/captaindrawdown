@@ -1,7 +1,7 @@
 ---
 title: "Brynhildur Bjarnadóttir"
 description: "Brynhildur Bjarnadóttir is a Senior Soil Carbon researcher at University of Akureyri in IS. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.745189
+date: 2026-07-10T01:07:47.797251
 url: "/cdr-researcher-census/researchers/brynhildur-bjarnadottir-a5030106/"
 layout: "researcher"
 hiddenInHomeList: true

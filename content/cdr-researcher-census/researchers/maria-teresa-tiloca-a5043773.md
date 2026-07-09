@@ -1,7 +1,7 @@
 ---
 title: "Maria Teresa Tiloca"
 description: "Maria Teresa Tiloca is a Mid-career Soil Carbon researcher at University of Sassari in IT. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.011350
+date: 2026-07-10T01:07:48.019230
 url: "/cdr-researcher-census/researchers/maria-teresa-tiloca-a5043773/"
 layout: "researcher"
 hiddenInHomeList: true

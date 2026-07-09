@@ -1,7 +1,7 @@
 ---
 title: "Sohum Sen"
 description: "Sohum Sen is an Early-career General CDR researcher at University College London in GB. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.124939
+date: 2026-07-10T01:07:49.030285
 url: "/cdr-researcher-census/researchers/sohum-sen-a5056484/"
 layout: "researcher"
 hiddenInHomeList: true

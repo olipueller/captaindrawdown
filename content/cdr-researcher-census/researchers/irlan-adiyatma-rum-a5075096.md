@@ -1,7 +1,7 @@
 ---
 title: "Irlan Adiyatma Rum"
 description: "Irlan Adiyatma Rum is a Mid-career Unknown researcher at Leiden University in NL. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.223693
+date: 2026-07-10T01:07:48.234117
 url: "/cdr-researcher-census/researchers/irlan-adiyatma-rum-a5075096/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kaleb Friedman"
 description: "Kaleb Friedman is a Mid-career Unknown researcher at University at Buffalo, State University of New York in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.778639
+date: 2026-07-10T01:07:48.722256
 url: "/cdr-researcher-census/researchers/kaleb-friedman-a5038773/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Abdelrahman Alahmad"
 description: "Abdelrahman Alahmad is a Mid-career Soil Carbon researcher at UniLaSalle in FR. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.679583
+date: 2026-07-10T01:07:47.735915
 url: "/cdr-researcher-census/researchers/abdelrahman-alahmad-a5069827/"
 layout: "researcher"
 hiddenInHomeList: true

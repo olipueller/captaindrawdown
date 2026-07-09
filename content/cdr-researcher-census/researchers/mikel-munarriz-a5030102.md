@@ -1,7 +1,7 @@
 ---
 title: "Mikel Munárriz"
 description: "Mikel Munárriz is a Mid-career Biochar researcher at Universidad Publica de Navarra in ES. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.753965
+date: 2026-07-10T01:07:48.700286
 url: "/cdr-researcher-census/researchers/mikel-munarriz-a5030102/"
 layout: "researcher"
 hiddenInHomeList: true

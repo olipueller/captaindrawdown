@@ -1,7 +1,7 @@
 ---
 title: "Halimeh Rashidi"
 description: "Halimeh Rashidi is a Mid-career Unknown researcher at University of Tehran in IR. With 9 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.455766
+date: 2026-07-10T01:07:48.444330
 url: "/cdr-researcher-census/researchers/halimeh-rashidi-a5073676/"
 layout: "researcher"
 hiddenInHomeList: true

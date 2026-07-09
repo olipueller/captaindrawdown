@@ -1,7 +1,7 @@
 ---
 title: "Karl Kübler"
 description: "Karl Kübler is a Mid-career Unknown researcher at Max Planck Institute for Biogeochemistry in DE. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.028001
+date: 2026-07-10T01:07:48.943994
 url: "/cdr-researcher-census/researchers/karl-kubler-a5074133/"
 layout: "researcher"
 hiddenInHomeList: true

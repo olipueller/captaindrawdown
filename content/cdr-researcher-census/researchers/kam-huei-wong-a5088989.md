@@ -1,7 +1,7 @@
 ---
 title: "Kam Huei Wong"
 description: "Kam Huei Wong is a Mid-career Unknown researcher at Universiti Tunku Abdul Rahman in MY. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.561682
+date: 2026-07-10T01:07:48.541334
 url: "/cdr-researcher-census/researchers/kam-huei-wong-a5088989/"
 layout: "researcher"
 hiddenInHomeList: true

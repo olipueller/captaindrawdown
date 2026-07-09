@@ -1,7 +1,7 @@
 ---
 title: "Jaime B. Palter"
 description: "Jaime B. Palter is a Senior General CDR researcher at University of Rhode Island in US. With 110 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.997385
+date: 2026-07-10T01:07:47.056898
 url: "/cdr-researcher-census/researchers/jaime-b-palter-a5056289/"
 layout: "researcher"
 hiddenInHomeList: true

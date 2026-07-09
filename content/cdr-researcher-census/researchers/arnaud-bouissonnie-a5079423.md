@@ -1,7 +1,7 @@
 ---
 title: "Arnaud Bouissonnié"
 description: "Arnaud Bouissonnié is a Mid-career Ocean CDR researcher at University of California, Los Angeles in US. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.363776
+date: 2026-07-10T01:07:48.361459
 url: "/cdr-researcher-census/researchers/arnaud-bouissonnie-a5079423/"
 layout: "researcher"
 hiddenInHomeList: true

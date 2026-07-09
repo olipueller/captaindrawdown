@@ -1,7 +1,7 @@
 ---
 title: "Linpeng Yu"
 description: "Linpeng Yu is a Mid-career Unknown researcher at International Bamboo and Rattan Organization in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.031462
+date: 2026-07-10T01:07:48.946772
 url: "/cdr-researcher-census/researchers/linpeng-yu-a5101141/"
 layout: "researcher"
 hiddenInHomeList: true

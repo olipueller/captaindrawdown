@@ -1,7 +1,7 @@
 ---
 title: "Sergio Lassola"
 description: "Sergio Lassola is a Mid-career General CDR researcher at University of Trento in IT. With 52 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.489057
+date: 2026-07-10T01:07:48.475194
 url: "/cdr-researcher-census/researchers/sergio-lassola-a5076761/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kyle Shank"
 description: "Kyle Shank is a Mid-career Enhanced Weathering researcher at The Ohio State University in US. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.017309
+date: 2026-07-10T01:07:48.024909
 url: "/cdr-researcher-census/researchers/kyle-shank-a5011944/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Manoel Alves de Almeida Neto"
 description: "Manoel Alves de Almeida Neto is a Mid-career Unknown researcher at Instituto Tecnológico de Aeronáutica in BR. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.125046
+date: 2026-07-10T01:07:49.030385
 url: "/cdr-researcher-census/researchers/manoel-alves-de-almeida-neto-a5027676/"
 layout: "researcher"
 hiddenInHomeList: true

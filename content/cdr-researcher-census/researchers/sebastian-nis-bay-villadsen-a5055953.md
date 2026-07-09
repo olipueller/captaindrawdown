@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Nis Bay Villadsen"
 description: "Sebastian Nis Bay Villadsen is a Mid-career Unknown researcher at Technical University of Denmark in DK. With 47 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.805678
+date: 2026-07-10T01:07:47.852577
 url: "/cdr-researcher-census/researchers/sebastian-nis-bay-villadsen-a5055953/"
 layout: "researcher"
 hiddenInHomeList: true

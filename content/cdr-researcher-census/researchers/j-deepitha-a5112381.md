@@ -1,7 +1,7 @@
 ---
 title: "J. Deepitha"
 description: "J. Deepitha is a Mid-career Unknown researcher at Homi Bhabha National Institute in IN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.233232
+date: 2026-07-10T01:07:49.142439
 url: "/cdr-researcher-census/researchers/j-deepitha-a5112381/"
 layout: "researcher"
 hiddenInHomeList: true

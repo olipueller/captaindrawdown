@@ -1,7 +1,7 @@
 ---
 title: "Casper Brady"
 description: "Casper Brady is a Mid-career DAC researcher. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.395881
+date: 2026-07-10T01:07:47.476776
 url: "/cdr-researcher-census/researchers/casper-brady-a5109949/"
 layout: "researcher"
 hiddenInHomeList: true

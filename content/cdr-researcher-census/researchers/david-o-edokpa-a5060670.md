@@ -1,7 +1,7 @@
 ---
 title: "David O. Edokpa"
 description: "David O. Edokpa is a Mid-career Soil Carbon researcher at Rivers State University in NG. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.589149
+date: 2026-07-10T01:07:48.553420
 url: "/cdr-researcher-census/researchers/david-o-edokpa-a5060670/"
 layout: "researcher"
 hiddenInHomeList: true

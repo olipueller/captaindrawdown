@@ -1,7 +1,7 @@
 ---
 title: "Noor Sharina Mohd Rosli"
 description: "Noor Sharina Mohd Rosli is a Mid-career Biochar researcher at University of Malaya in MY. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:22.176749
+date: 2026-07-10T01:07:49.066216
 url: "/cdr-researcher-census/researchers/noor-sharina-mohd-rosli-a5077480/"
 layout: "researcher"
 hiddenInHomeList: true

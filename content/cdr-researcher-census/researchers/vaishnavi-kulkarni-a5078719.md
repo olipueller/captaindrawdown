@@ -1,7 +1,7 @@
 ---
 title: "Vaishnavi Kulkarni"
 description: "Vaishnavi Kulkarni is an Early-career Unknown researcher at Narsee Monjee Institute of Management Studies in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.517846
+date: 2026-07-10T01:07:48.501358
 url: "/cdr-researcher-census/researchers/vaishnavi-kulkarni-a5078719/"
 layout: "researcher"
 hiddenInHomeList: true

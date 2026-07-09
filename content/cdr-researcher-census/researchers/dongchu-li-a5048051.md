@@ -1,7 +1,7 @@
 ---
 title: "Dongchu Li"
 description: "Dongchu Li is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences in CN. With 73 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.007762
+date: 2026-07-10T01:07:47.069897
 url: "/cdr-researcher-census/researchers/dongchu-li-a5048051/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bingzi Zhao"
 description: "Bingzi Zhao is a Senior Soil Carbon researcher at ???????????? in CN. With 37 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.378058
+date: 2026-07-10T01:07:47.459829
 url: "/cdr-researcher-census/researchers/bingzi-zhao-a5103063/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Danish Toor"
 description: "Muhammad Danish Toor is a Mid-career Unknown researcher at University of Tartu in EE. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.635591
+date: 2026-07-10T01:07:47.695111
 url: "/cdr-researcher-census/researchers/muhammad-danish-toor-a5052946/"
 layout: "researcher"
 hiddenInHomeList: true

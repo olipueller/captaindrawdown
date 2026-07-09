@@ -1,7 +1,7 @@
 ---
 title: "Sulamita Santos Correa"
 description: "Sulamita Santos Correa is an Early-career Unknown researcher at CNPq in BR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.572577
+date: 2026-07-10T01:07:48.550459
 url: "/cdr-researcher-census/researchers/sulamita-santos-correa-a5052442/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Azeem Asghar"
 description: "Azeem Asghar is a Mid-career BECCS researcher at Government College University, Faisalabad in PK. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.458722
+date: 2026-07-10T01:07:48.447007
 url: "/cdr-researcher-census/researchers/azeem-asghar-a5085156/"
 layout: "researcher"
 hiddenInHomeList: true

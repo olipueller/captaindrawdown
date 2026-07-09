@@ -1,7 +1,7 @@
 ---
 title: "Jean V. Wilkening"
 description: "Jean V. Wilkening is a Mid-career Unknown researcher at University of Minnesota in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:21.133497
+date: 2026-07-10T01:07:48.155735
 url: "/cdr-researcher-census/researchers/jean-v-wilkening-a5065120/"
 layout: "researcher"
 hiddenInHomeList: true

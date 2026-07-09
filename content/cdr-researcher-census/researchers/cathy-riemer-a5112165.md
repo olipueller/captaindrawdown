@@ -1,7 +1,7 @@
 ---
 title: "Cathy Riemer"
 description: "Cathy Riemer is a Senior Unknown researcher at Pennsylvania State University in US. With 32 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:19.909978
+date: 2026-07-10T01:07:46.907752
 url: "/cdr-researcher-census/researchers/cathy-riemer-a5112165/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emma J. Nicholson"
 description: "Emma J. Nicholson is a Senior Unknown researcher at University College London in GB. With 12 publications and an h-index of -1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.631912
+date: 2026-07-10T01:07:47.691466
 url: "/cdr-researcher-census/researchers/emma-j-nicholson-a5022233/"
 layout: "researcher"
 hiddenInHomeList: true

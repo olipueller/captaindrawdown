@@ -1,7 +1,7 @@
 ---
 title: "Chuene Victor Mashamaite"
 description: "Chuene Victor Mashamaite is a Mid-career Soil Carbon researcher at University of Fort Hare in ZA. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T00:49:20.924335
+date: 2026-07-10T01:07:47.937823
 url: "/cdr-researcher-census/researchers/chuene-victor-mashamaite-a5087999/"
 layout: "researcher"
 hiddenInHomeList: true
