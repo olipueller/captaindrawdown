@@ -4,7 +4,7 @@ hiddenInHomeList: true
 title: "CDR Collaboration Atlas"
 date: 2026-03-22T13:00:00+00:00
 url: "/cdr-researcher-census/collaboration/"
-description: "Interactive map of collaboration networks across 147,377+ CDR researchers — who works with whom, which institutions connect, and how CDR methods cross-pollinate."
+description: "Interactive map of collaboration networks across 88,691+ CDR researchers — who works with whom, which institutions connect, and how CDR methods cross-pollinate."
 type: "page"
 build:
   render: always
@@ -16,7 +16,7 @@ sitemap:
 
 ## What This Page Shows
 
-This **Collaboration Atlas** maps the research networks of **147,377 CDR scientists** using co-authorship data from OpenAlex. The 335,701 co-authored papers reveal how researchers collaborate across disciplines, institutions, and countries — and which scientific communities are bridging the gap between different carbon dioxide removal methods.
+This **Collaboration Atlas** maps the research networks of **88,691 CDR scientists** using co-authorship data from OpenAlex. The 335,701 co-authored papers reveal how researchers collaborate across disciplines, institutions, and countries — and which scientific communities are bridging the gap between different carbon dioxide removal methods.
 
 ### How It Was Built
 
