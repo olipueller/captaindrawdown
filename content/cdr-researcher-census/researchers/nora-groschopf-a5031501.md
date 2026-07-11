@@ -1,7 +1,7 @@
 ---
 title: "Nora Groschopf"
 description: "Nora Groschopf is a Senior Enhanced Weathering researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.966475
+date: 2026-07-11T12:53:40.184997
 url: "/cdr-researcher-census/researchers/nora-groschopf-a5031501/"
 layout: "researcher"
 hiddenInHomeList: true

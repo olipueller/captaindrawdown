@@ -1,7 +1,7 @@
 ---
 title: "Xiaobo Luo"
 description: "Xiaobo Luo is a Senior Soil Carbon researcher at Qinghai University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.305017
+date: 2026-07-11T12:53:41.534139
 url: "/cdr-researcher-census/researchers/xiaobo-luo-a5114164/"
 layout: "researcher"
 hiddenInHomeList: true

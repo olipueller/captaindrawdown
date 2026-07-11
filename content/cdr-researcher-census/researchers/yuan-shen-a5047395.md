@@ -1,7 +1,7 @@
 ---
 title: "Yuan Shen"
 description: "Yuan Shen is a Senior Soil Carbon researcher at University of California Santa Cruz in US. With 70 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.865699
+date: 2026-07-11T12:53:40.073931
 url: "/cdr-researcher-census/researchers/yuan-shen-a5047395/"
 layout: "researcher"
 hiddenInHomeList: true

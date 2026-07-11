@@ -1,7 +1,7 @@
 ---
 title: "Zhiyi Chen"
 description: "Zhiyi Chen is a Senior Soil Carbon researcher at Zhejiang University of Water Resources and Electric Power in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.217709
+date: 2026-07-11T12:53:40.418818
 url: "/cdr-researcher-census/researchers/zhiyi-chen-a5100767/"
 layout: "researcher"
 hiddenInHomeList: true

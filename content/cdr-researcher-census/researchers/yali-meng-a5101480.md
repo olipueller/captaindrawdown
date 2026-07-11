@@ -1,7 +1,7 @@
 ---
 title: "Yali Meng"
 description: "Yali Meng is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 121 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.819826
+date: 2026-07-11T12:53:40.018549
 url: "/cdr-researcher-census/researchers/yali-meng-a5101480/"
 layout: "researcher"
 hiddenInHomeList: true

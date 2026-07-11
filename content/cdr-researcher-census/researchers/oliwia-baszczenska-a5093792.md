@@ -1,7 +1,7 @@
 ---
 title: "Oliwia Baszczeńska"
 description: "Oliwia Baszczeńska is a Mid-career General CDR researcher at Silesian University of Technology in PL. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.434979
+date: 2026-07-11T12:53:41.640851
 url: "/cdr-researcher-census/researchers/oliwia-baszczenska-a5093792/"
 layout: "researcher"
 hiddenInHomeList: true

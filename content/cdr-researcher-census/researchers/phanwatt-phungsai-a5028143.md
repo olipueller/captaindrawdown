@@ -1,7 +1,7 @@
 ---
 title: "Phanwatt Phungsai"
 description: "Phanwatt Phungsai is a Mid-career Biochar researcher at Khon Kaen University in TH. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.044546
+date: 2026-07-11T12:53:40.266829
 url: "/cdr-researcher-census/researchers/phanwatt-phungsai-a5028143/"
 layout: "researcher"
 hiddenInHomeList: true

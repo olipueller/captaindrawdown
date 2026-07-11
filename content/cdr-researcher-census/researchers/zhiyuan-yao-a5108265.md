@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Yao"
 description: "Zhiyuan Yao is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.436895
+date: 2026-07-11T12:53:40.645245
 url: "/cdr-researcher-census/researchers/zhiyuan-yao-a5108265/"
 layout: "researcher"
 hiddenInHomeList: true

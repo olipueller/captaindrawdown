@@ -1,7 +1,7 @@
 ---
 title: "Eliana Cárdenas-Aguiar"
 description: "Eliana Cárdenas-Aguiar is a Mid-career Biochar researcher at Universidade da Coruña in ES. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.490448
+date: 2026-07-11T12:53:40.704135
 url: "/cdr-researcher-census/researchers/eliana-cardenas-aguiar-a5048664/"
 layout: "researcher"
 hiddenInHomeList: true

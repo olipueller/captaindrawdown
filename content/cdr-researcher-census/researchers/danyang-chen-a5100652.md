@@ -1,7 +1,7 @@
 ---
 title: "Danyang Chen"
 description: "Danyang Chen is a Mid-career Biochar researcher at Wuhan University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.466681
+date: 2026-07-11T12:53:40.678614
 url: "/cdr-researcher-census/researchers/danyang-chen-a5100652/"
 layout: "researcher"
 hiddenInHomeList: true

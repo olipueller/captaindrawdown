@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Li"
 description: "Xiaowei Li is a Mid-career Soil Carbon researcher at Jiaozuo University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.535113
+date: 2026-07-11T12:53:40.751338
 url: "/cdr-researcher-census/researchers/xiaowei-li-a5100368/"
 layout: "researcher"
 hiddenInHomeList: true

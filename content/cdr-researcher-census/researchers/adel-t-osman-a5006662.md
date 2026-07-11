@@ -1,7 +1,7 @@
 ---
 title: "Adel T. Osman"
 description: "Adel T. Osman is a Mid-career Soil Carbon researcher at Al-Azhar University in EG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.283997
+date: 2026-07-11T12:53:41.516161
 url: "/cdr-researcher-census/researchers/adel-t-osman-a5006662/"
 layout: "researcher"
 hiddenInHomeList: true

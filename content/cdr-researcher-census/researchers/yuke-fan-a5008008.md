@@ -1,7 +1,7 @@
 ---
 title: "Yuke Fan"
 description: "Yuke Fan is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.930590
+date: 2026-07-11T12:53:41.258094
 url: "/cdr-researcher-census/researchers/yuke-fan-a5008008/"
 layout: "researcher"
 hiddenInHomeList: true

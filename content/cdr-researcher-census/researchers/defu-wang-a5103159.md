@@ -1,7 +1,7 @@
 ---
 title: "Defu Wang"
 description: "Defu Wang is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 57 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.924745
+date: 2026-07-11T12:53:40.140827
 url: "/cdr-researcher-census/researchers/defu-wang-a5103159/"
 layout: "researcher"
 hiddenInHomeList: true

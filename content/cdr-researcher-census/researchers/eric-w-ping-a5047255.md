@@ -1,7 +1,7 @@
 ---
 title: "Eric W. Ping"
 description: "Eric W. Ping is a Senior DAC researcher at Brighton Hospital in US. With 17 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.994607
+date: 2026-07-11T12:53:40.214663
 url: "/cdr-researcher-census/researchers/eric-w-ping-a5047255/"
 layout: "researcher"
 hiddenInHomeList: true

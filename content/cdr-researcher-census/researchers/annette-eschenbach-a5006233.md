@@ -1,7 +1,7 @@
 ---
 title: "Annette Eschenbach"
 description: "Annette Eschenbach is a Senior Biochar researcher at Universität Hamburg in DE. With 127 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.969138
+date: 2026-07-11T12:53:40.187830
 url: "/cdr-researcher-census/researchers/annette-eschenbach-a5006233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 19 |
 | Citations | 1,264 |
 | Publications | 127 |
-| CDR Focus | 8.7% |
+| CDR Focus | 9.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -59,25 +59,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Long-term carbon dioxide removal potential from the application of wood biochar and basanite rock powder in sandy soil using the LiDELSv2 process-based modeling approach** (2025)
    2 citations · Biochar
 
-4. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions—LiDELS model overview** (2025)
+4. **Biochar dominated the combined effect of silicate rock powder and biochar application on extracellular enzyme kinetics and nutrient dynamics in a sandy soil** (2026)
    1 citations · Biochar
 
-5. **Rock-enhanced biochar exhibits similar priming effect as pure biochar application while improving short-term carbon stabilization in agricultural soils** (2026)
+5. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions—LiDELS model overview** (2025)
+   1 citations · Biochar
+
+6. **Rock-enhanced biochar exhibits similar priming effect as pure biochar application while improving short-term carbon stabilization in agricultural soils** (2026)
    0 citations · Biochar
 
-6. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
+7. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
    0 citations · Biochar
 
-7. **Influence of co-applied biochar and enhanced basanite weathering on soil enzyme kinetics in an agricultural soil** (2025)
+8. **Influence of co-applied biochar and enhanced basanite weathering on soil enzyme kinetics in an agricultural soil** (2025)
    0 citations · Biochar
 
-8. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions &amp;#8211; LiDELS model overview** (2025)
+9. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions &amp;#8211; LiDELS model overview** (2025)
    0 citations · Biochar
 
-9. **Synergistic effects of co-application and co-pyrolysis of biochar and enhanced weathering materials for CO2 removal in an Oxisol** (2025)
-   0 citations · Biochar
-
-10. **Impact of combined application of biochar and basanite powder on soil-borne greenhouse gas emissions and nitrate leaching** (2025)
+10. **Synergistic effects of co-application and co-pyrolysis of biochar and enhanced weathering materials for CO2 removal in an Oxisol** (2025)
    0 citations · Biochar
 
 ## External Profiles

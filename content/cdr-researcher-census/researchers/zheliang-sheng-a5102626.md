@@ -1,7 +1,7 @@
 ---
 title: "Zheliang Sheng"
 description: "Zheliang Sheng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.620824
+date: 2026-07-11T12:53:40.839977
 url: "/cdr-researcher-census/researchers/zheliang-sheng-a5102626/"
 layout: "researcher"
 hiddenInHomeList: true

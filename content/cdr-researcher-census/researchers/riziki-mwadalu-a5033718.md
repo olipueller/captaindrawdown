@@ -1,7 +1,7 @@
 ---
 title: "Riziki Mwadalu"
 description: "Riziki Mwadalu is a Mid-career Soil Carbon researcher at Kenya Forestry Research Institute in KE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.808521
+date: 2026-07-11T12:53:41.187620
 url: "/cdr-researcher-census/researchers/riziki-mwadalu-a5033718/"
 layout: "researcher"
 hiddenInHomeList: true

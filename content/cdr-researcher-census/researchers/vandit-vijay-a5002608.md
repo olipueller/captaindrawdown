@@ -1,7 +1,7 @@
 ---
 title: "Vandit Vijay"
 description: "Vandit Vijay is a Senior Biochar researcher at Indian Institute of Technology Delhi in IN. With 52 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.858406
+date: 2026-07-11T12:53:40.064856
 url: "/cdr-researcher-census/researchers/vandit-vijay-a5002608/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Deping Zhou"
 description: "Deping Zhou is a Mid-career Soil Carbon researcher at Shanghai Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.547386
+date: 2026-07-11T12:53:40.763705
 url: "/cdr-researcher-census/researchers/deping-zhou-a5078119/"
 layout: "researcher"
 hiddenInHomeList: true

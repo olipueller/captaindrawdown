@@ -1,7 +1,7 @@
 ---
 title: "Bingchao Zhao"
 description: "Bingchao Zhao is a Mid-career Biochar researcher at North China University of Water Resources and Electric Power in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.704892
+date: 2026-07-11T12:53:40.965835
 url: "/cdr-researcher-census/researchers/bingchao-zhao-a5108383/"
 layout: "researcher"
 hiddenInHomeList: true

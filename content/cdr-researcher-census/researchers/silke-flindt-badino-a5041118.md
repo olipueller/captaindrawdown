@@ -1,7 +1,7 @@
 ---
 title: "Silke Flindt Badino"
 description: "Silke Flindt Badino is a Mid-career General CDR researcher at Technical University of Denmark in DK. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.103961
+date: 2026-07-11T12:53:40.327652
 url: "/cdr-researcher-census/researchers/silke-flindt-badino-a5041118/"
 layout: "researcher"
 hiddenInHomeList: true

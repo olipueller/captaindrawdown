@@ -1,7 +1,7 @@
 ---
 title: "Yuwen Xue"
 description: "Yuwen Xue is a Mid-career Biochar researcher at Southwest Forestry University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.317083
+date: 2026-07-11T12:53:41.544873
 url: "/cdr-researcher-census/researchers/yuwen-xue-a5100549/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Xiao"
 description: "Yuxin Xiao is a Mid-career Biochar researcher at Tianjin University of Science and Technology in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.628251
+date: 2026-07-11T12:53:40.847808
 url: "/cdr-researcher-census/researchers/yuxin-xiao-a5067515/"
 layout: "researcher"
 hiddenInHomeList: true

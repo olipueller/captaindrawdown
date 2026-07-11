@@ -1,7 +1,7 @@
 ---
 title: "Liza Goldberg"
 description: "Liza Goldberg is a Mid-career Soil Carbon researcher at Stanford Medicine in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.911453
+date: 2026-07-11T12:53:40.125398
 url: "/cdr-researcher-census/researchers/liza-goldberg-a5051759/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sharmita Bera"
 description: "Sharmita Bera is a Mid-career General CDR researcher at Indian Institute of Technology Kharagpur in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.305259
+date: 2026-07-11T12:53:41.534345
 url: "/cdr-researcher-census/researchers/sharmita-bera-a5027035/"
 layout: "researcher"
 hiddenInHomeList: true

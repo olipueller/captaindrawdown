@@ -1,7 +1,7 @@
 ---
 title: "Zhenke Zhu"
 description: "Zhenke Zhu is an Eminent Soil Carbon researcher at Ningbo University in CN. With 121 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.802712
+date: 2026-07-11T12:53:39.997813
 url: "/cdr-researcher-census/researchers/zhenke-zhu-a5089120/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 42 |
 | Citations | 5,530 |
 | Publications | 121 |
-| CDR Focus | 14.0% |
+| CDR Focus | 14.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

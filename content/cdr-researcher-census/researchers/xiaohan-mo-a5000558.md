@@ -1,7 +1,7 @@
 ---
 title: "Xiaohan Mo"
 description: "Xiaohan Mo is a Mid-career Soil Carbon researcher at Chinese University of Hong Kong in HK. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.720190
+date: 2026-07-11T12:53:40.994523
 url: "/cdr-researcher-census/researchers/xiaohan-mo-a5000558/"
 layout: "researcher"
 hiddenInHomeList: true

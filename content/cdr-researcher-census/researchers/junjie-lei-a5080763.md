@@ -1,7 +1,7 @@
 ---
 title: "Junjie Lei"
 description: "Junjie Lei is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.111817
+date: 2026-07-11T12:53:40.335629
 url: "/cdr-researcher-census/researchers/junjie-lei-a5080763/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 739 |
 | Publications | 30 |
-| CDR Focus | 13.3% |
+| CDR Focus | 16.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,7 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Contribution of microbial necromass to soil organic carbon and its influencing factors during plantation recovery in a subtropical rocky desertification region** (2025)
    5 citations · Soil Carbon
 
-4. **Effects of Litter Removal and Biochar Application on Soil Properties in Urban Forests of Southern China** (2024)
+4. **Accumulation of soil microbial necromass carbon and its contribution to soil organic carbon after vegetation restoration in the Tibetan Plateau** (2024)
+   2 citations · Soil Carbon
+
+5. **Effects of Litter Removal and Biochar Application on Soil Properties in Urban Forests of Southern China** (2024)
    2 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Zongliang Huang"
 description: "Zongliang Huang is a Mid-career Biochar researcher at National Chi Nan University in TW. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.617823
+date: 2026-07-11T12:53:40.836535
 url: "/cdr-researcher-census/researchers/zongliang-huang-a5110552/"
 layout: "researcher"
 hiddenInHomeList: true

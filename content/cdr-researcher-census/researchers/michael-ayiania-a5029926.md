@@ -1,7 +1,7 @@
 ---
 title: "Michael Ayiania"
 description: "Michael Ayiania is a Mid-career Biochar researcher at Washington State University in US. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.959626
+date: 2026-07-11T12:53:40.177808
 url: "/cdr-researcher-census/researchers/michael-ayiania-a5029926/"
 layout: "researcher"
 hiddenInHomeList: true

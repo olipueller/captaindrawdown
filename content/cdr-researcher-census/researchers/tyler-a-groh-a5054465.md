@@ -1,7 +1,7 @@
 ---
 title: "Tyler A. Groh"
 description: "Tyler A. Groh is a Mid-career Soil Carbon researcher at Pennsylvania State University in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.675527
+date: 2026-07-11T12:53:40.923620
 url: "/cdr-researcher-census/researchers/tyler-a-groh-a5054465/"
 layout: "researcher"
 hiddenInHomeList: true

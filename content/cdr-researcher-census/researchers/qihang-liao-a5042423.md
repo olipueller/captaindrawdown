@@ -1,7 +1,7 @@
 ---
 title: "Qihang Liao"
 description: "Qihang Liao is a Mid-career Soil Carbon researcher at Zhejiang Normal University in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.162038
+date: 2026-07-11T12:53:40.385143
 url: "/cdr-researcher-census/researchers/qihang-liao-a5042423/"
 layout: "researcher"
 hiddenInHomeList: true

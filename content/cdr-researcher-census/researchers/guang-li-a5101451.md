@@ -1,7 +1,7 @@
 ---
 title: "Guang Li"
 description: "Guang Li is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.600313
+date: 2026-07-11T12:53:40.817786
 url: "/cdr-researcher-census/researchers/guang-li-a5101451/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "David Lefebvre"
 description: "David Lefebvre is a Mid-career General CDR researcher at University of British Columbia in CA. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.155481
+date: 2026-07-11T12:53:40.378829
 url: "/cdr-researcher-census/researchers/david-lefebvre-a5079413/"
 layout: "researcher"
 hiddenInHomeList: true

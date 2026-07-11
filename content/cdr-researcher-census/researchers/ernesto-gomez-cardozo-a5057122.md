@@ -1,7 +1,7 @@
 ---
 title: "Ernesto Gómez Cardozo"
 description: "Ernesto Gómez Cardozo is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.044581
+date: 2026-07-11T12:53:41.303313
 url: "/cdr-researcher-census/researchers/ernesto-gomez-cardozo-a5057122/"
 layout: "researcher"
 hiddenInHomeList: true

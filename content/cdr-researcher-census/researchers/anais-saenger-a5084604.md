@@ -1,7 +1,7 @@
 ---
 title: "Anaïs Saenger"
 description: "Anaïs Saenger is a Mid-career Soil Carbon researcher at UCLouvain in BE. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.596827
+date: 2026-07-11T12:53:40.813539
 url: "/cdr-researcher-census/researchers/anais-saenger-a5084604/"
 layout: "researcher"
 hiddenInHomeList: true

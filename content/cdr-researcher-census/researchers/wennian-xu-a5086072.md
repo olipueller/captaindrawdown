@@ -1,7 +1,7 @@
 ---
 title: "Wennian Xu"
 description: "Wennian Xu is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.304511
+date: 2026-07-11T12:53:40.507000
 url: "/cdr-researcher-census/researchers/wennian-xu-a5086072/"
 layout: "researcher"
 hiddenInHomeList: true

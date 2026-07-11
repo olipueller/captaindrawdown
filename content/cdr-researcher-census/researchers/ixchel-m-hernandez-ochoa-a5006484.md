@@ -1,7 +1,7 @@
 ---
 title: "Ixchel M. Hernández-Ochoa"
 description: "Ixchel M. Hernández-Ochoa is a Mid-career Soil Carbon researcher at University of Bonn in DE. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.019763
+date: 2026-07-11T12:53:40.240717
 url: "/cdr-researcher-census/researchers/ixchel-m-hernandez-ochoa-a5006484/"
 layout: "researcher"
 hiddenInHomeList: true

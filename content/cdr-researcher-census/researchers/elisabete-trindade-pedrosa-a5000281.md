@@ -1,7 +1,7 @@
 ---
 title: "Elisabete Trindade Pedrosa"
 description: "Elisabete Trindade Pedrosa is a Mid-career Soil Carbon researcher at University of Bremen in DE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.552176
+date: 2026-07-11T12:53:40.768829
 url: "/cdr-researcher-census/researchers/elisabete-trindade-pedrosa-a5000281/"
 layout: "researcher"
 hiddenInHomeList: true

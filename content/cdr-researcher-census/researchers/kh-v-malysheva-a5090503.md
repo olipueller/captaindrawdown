@@ -1,7 +1,7 @@
 ---
 title: "Kh. V. Malysheva"
 description: "Kh. V. Malysheva is a Mid-career General CDR researcher at Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv in UA. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.440685
+date: 2026-07-11T12:53:41.646567
 url: "/cdr-researcher-census/researchers/kh-v-malysheva-a5090503/"
 layout: "researcher"
 hiddenInHomeList: true

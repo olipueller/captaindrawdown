@@ -1,7 +1,7 @@
 ---
 title: "K. Vasantharaj"
 description: "K. Vasantharaj is a Mid-career Biochar researcher at Sri Venkateswara University in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.309894
+date: 2026-07-11T12:53:40.512461
 url: "/cdr-researcher-census/researchers/k-vasantharaj-a5074948/"
 layout: "researcher"
 hiddenInHomeList: true

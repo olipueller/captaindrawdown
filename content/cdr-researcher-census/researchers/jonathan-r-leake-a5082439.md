@@ -1,7 +1,7 @@
 ---
 title: "Jonathan R. Leake"
 description: "Jonathan R. Leake is an Eminent Soil Carbon researcher at University of Sheffield in GB. With 202 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.773994
+date: 2026-07-11T12:53:39.955934
 url: "/cdr-researcher-census/researchers/jonathan-r-leake-a5082439/"
 layout: "researcher"
 hiddenInHomeList: true

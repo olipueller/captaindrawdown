@@ -1,7 +1,7 @@
 ---
 title: "Wanzeng Liu"
 description: "Wanzeng Liu is a Senior Soil Carbon researcher at National Administration of Surveying, Mapping and Geoinformation of China in CN. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.563104
+date: 2026-07-11T12:53:40.779609
 url: "/cdr-researcher-census/researchers/wanzeng-liu-a5016727/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuaibo Wang"
 description: "Shuaibo Wang is a Mid-career General CDR researcher at Beijing University of Posts and Telecommunications in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.657808
+date: 2026-07-11T12:53:40.878205
 url: "/cdr-researcher-census/researchers/shuaibo-wang-a5003524/"
 layout: "researcher"
 hiddenInHomeList: true

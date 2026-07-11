@@ -1,7 +1,7 @@
 ---
 title: "Jean‐Olivier Goyette"
 description: "Jean‐Olivier Goyette is a Mid-career Soil Carbon researcher at Bureau de Coopération Interuniversitaire in CA. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.181566
+date: 2026-07-11T12:53:40.397249
 url: "/cdr-researcher-census/researchers/jeanolivier-goyette-a5029060/"
 layout: "researcher"
 hiddenInHomeList: true

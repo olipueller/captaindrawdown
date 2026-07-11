@@ -1,7 +1,7 @@
 ---
 title: "Michele Anatone"
 description: "Michele Anatone is a Senior General CDR researcher at University of L'Aquila in IT. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.589410
+date: 2026-07-11T12:53:40.806418
 url: "/cdr-researcher-census/researchers/michele-anatone-a5008234/"
 layout: "researcher"
 hiddenInHomeList: true

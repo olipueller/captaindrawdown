@@ -1,7 +1,7 @@
 ---
 title: "Erxiong Zhu"
 description: "Erxiong Zhu is a Senior Soil Carbon researcher at Beijing Botanical Garden in CN. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.994492
+date: 2026-07-11T12:53:40.214556
 url: "/cdr-researcher-census/researchers/erxiong-zhu-a5054840/"
 layout: "researcher"
 hiddenInHomeList: true

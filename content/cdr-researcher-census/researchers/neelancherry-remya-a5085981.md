@@ -1,7 +1,7 @@
 ---
 title: "Neelancherry Remya"
 description: "Neelancherry Remya is a Senior Biochar researcher at Indian Institute of Technology Bhubaneswar in IN. With 94 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.891921
+date: 2026-07-11T12:53:40.104218
 url: "/cdr-researcher-census/researchers/neelancherry-remya-a5085981/"
 layout: "researcher"
 hiddenInHomeList: true

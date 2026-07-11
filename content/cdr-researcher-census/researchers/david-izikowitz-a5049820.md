@@ -1,7 +1,7 @@
 ---
 title: "David Izikowitz"
 description: "David Izikowitz is a Mid-career General CDR researcher at Shanghai Jiao Tong University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.518654
+date: 2026-07-11T12:53:40.733835
 url: "/cdr-researcher-census/researchers/david-izikowitz-a5049820/"
 layout: "researcher"
 hiddenInHomeList: true

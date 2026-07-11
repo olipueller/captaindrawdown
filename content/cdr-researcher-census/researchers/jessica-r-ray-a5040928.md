@@ -1,7 +1,7 @@
 ---
 title: "Jessica R. Ray"
 description: "Jessica R. Ray is a Senior Biochar researcher at University of Washington in US. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.018040
+date: 2026-07-11T12:53:40.238946
 url: "/cdr-researcher-census/researchers/jessica-r-ray-a5040928/"
 layout: "researcher"
 hiddenInHomeList: true

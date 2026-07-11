@@ -1,7 +1,7 @@
 ---
 title: "Thi-An-Sa Do"
 description: "Thi-An-Sa Do is a Senior Biochar researcher at Vietnam National University Ho Chi Minh City in VN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.083878
+date: 2026-07-11T12:53:41.332256
 url: "/cdr-researcher-census/researchers/thi-an-sa-do-a5037963/"
 layout: "researcher"
 hiddenInHomeList: true

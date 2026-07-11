@@ -1,7 +1,7 @@
 ---
 title: "Darbaz Khasraw"
 description: "Darbaz Khasraw is a Mid-career Biochar researcher at Coventry University in GB. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.244512
+date: 2026-07-11T12:53:41.480553
 url: "/cdr-researcher-census/researchers/darbaz-khasraw-a5085846/"
 layout: "researcher"
 hiddenInHomeList: true

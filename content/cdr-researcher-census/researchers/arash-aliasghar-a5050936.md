@@ -1,7 +1,7 @@
 ---
 title: "Arash Aliasghar"
 description: "Arash Aliasghar is a Mid-career Biochar researcher at Stevens Institute of Technology in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.193537
+date: 2026-07-11T12:53:41.433459
 url: "/cdr-researcher-census/researchers/arash-aliasghar-a5050936/"
 layout: "researcher"
 hiddenInHomeList: true

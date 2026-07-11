@@ -1,7 +1,7 @@
 ---
 title: "Zubin Xie"
 description: "Zubin Xie is a Senior Soil Carbon researcher at Institute of Soil Science Chinese Academy of Sciences in CN. With 78 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.809176
+date: 2026-07-11T12:53:40.005215
 url: "/cdr-researcher-census/researchers/zubin-xie-a5047916/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anil Kumar Singh"
 description: "Anil Kumar Singh is a Mid-career Soil Carbon researcher at Bihar Agricultural University in IN. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.784217
+date: 2026-07-11T12:53:41.141107
 url: "/cdr-researcher-census/researchers/anil-kumar-singh-a5100707/"
 layout: "researcher"
 hiddenInHomeList: true

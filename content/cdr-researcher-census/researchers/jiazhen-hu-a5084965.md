@@ -1,7 +1,7 @@
 ---
 title: "Jiazhen Hu"
 description: "Jiazhen Hu is a Mid-career Soil Carbon researcher at Hohai University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.285019
+date: 2026-07-11T12:53:41.516784
 url: "/cdr-researcher-census/researchers/jiazhen-hu-a5084965/"
 layout: "researcher"
 hiddenInHomeList: true

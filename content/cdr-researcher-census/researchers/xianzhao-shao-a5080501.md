@@ -1,7 +1,7 @@
 ---
 title: "Xianzhao Shao"
 description: "Xianzhao Shao is a Senior Biochar researcher at Shaanxi University of Technology in CN. With 79 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.922782
+date: 2026-07-11T12:53:40.138626
 url: "/cdr-researcher-census/researchers/xianzhao-shao-a5080501/"
 layout: "researcher"
 hiddenInHomeList: true

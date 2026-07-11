@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Ajmal Khan"
 description: "Muhammad Ajmal Khan is a Senior General CDR researcher at Aston University in GB. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.502418
+date: 2026-07-11T12:53:40.717080
 url: "/cdr-researcher-census/researchers/muhammad-ajmal-khan-a5101983/"
 layout: "researcher"
 hiddenInHomeList: true

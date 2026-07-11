@@ -1,7 +1,7 @@
 ---
 title: "A.L. Villanueva Perales"
 description: "A.L. Villanueva Perales is a Senior General CDR researcher at Universidad de Sevilla in ES. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.043890
+date: 2026-07-11T12:53:40.265939
 url: "/cdr-researcher-census/researchers/al-villanueva-perales-a5047884/"
 layout: "researcher"
 hiddenInHomeList: true

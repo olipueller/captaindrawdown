@@ -1,7 +1,7 @@
 ---
 title: "Abdisa Jabesa"
 description: "Abdisa Jabesa is a Mid-career Biochar researcher at Haramaya University in ET. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.327600
+date: 2026-07-11T12:53:40.530519
 url: "/cdr-researcher-census/researchers/abdisa-jabesa-a5082882/"
 layout: "researcher"
 hiddenInHomeList: true

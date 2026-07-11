@@ -1,7 +1,7 @@
 ---
 title: "Linjing Ren"
 description: "Linjing Ren is a Mid-career Soil Carbon researcher at East China Normal University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.468830
+date: 2026-07-11T12:53:40.680903
 url: "/cdr-researcher-census/researchers/linjing-ren-a5036659/"
 layout: "researcher"
 hiddenInHomeList: true

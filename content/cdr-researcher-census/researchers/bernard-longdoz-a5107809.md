@@ -1,7 +1,7 @@
 ---
 title: "Bernard Longdoz"
 description: "Bernard Longdoz is a Senior Soil Carbon researcher at University of Liège in BE. With 107 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.783840
+date: 2026-07-11T12:53:39.971839
 url: "/cdr-researcher-census/researchers/bernard-longdoz-a5107809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 33 |
 | Citations | 8,409 |
 | Publications | 107 |
-| CDR Focus | 7.5% |
+| CDR Focus | 8.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -65,16 +65,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Both yields of maize and soybean and soil carbon sequestration in typical Mollisols cropland decrease under future climate change: SPACSYS simulation** (2024)
    1 citations · General CDR
 
-6. **Assessing SOC Stability Along a Toposequence as a Function of Water and Tillage Erosion, a Case-Study for a Belgian Silt-Loam Cropland** (2025)
+6. **Assessing soil organic carbon stability along a toposequence as a function of water and tillage erosion by in‐situ soil respiration measurements: A case study for a Belgian silt‐loam cropland** (2026)
    0 citations · Soil Carbon
 
-7. **Assessing Soil Organic Carbon Dynamics Across Croplands and Grasslands: A RothC Model Analysis with Varied Carbon Inputs** (2025)
+7. **Assessing SOC Stability Along a Toposequence as a Function of Water and Tillage Erosion, a Case-Study for a Belgian Silt-Loam Cropland** (2025)
    0 citations · Soil Carbon
 
-8. **Climate change impacts on crop production and soil carbon stock in a continuous wheat cropping system in southeast England** (2023)
+8. **Assessing Soil Organic Carbon Dynamics Across Croplands and Grasslands: A RothC Model Analysis with Varied Carbon Inputs** (2025)
    0 citations · Soil Carbon
 
-9. **Is shifting from conventional to reduced tillage worth the change in terms of greenhouse gas emissions: feedback from a long-term case study on a cultivated loamy soil in Belgium** (2022)
+9. **Climate change impacts on crop production and soil carbon stock in a continuous wheat cropping system in southeast England** (2023)
+   0 citations · Soil Carbon
+
+10. **Is shifting from conventional to reduced tillage worth the change in terms of greenhouse gas emissions: feedback from a long-term case study on a cultivated loamy soil in Belgium** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

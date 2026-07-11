@@ -1,7 +1,7 @@
 ---
 title: "Andrea Söllinger"
 description: "Andrea Söllinger is a Mid-career Soil Carbon researcher at Arctic Nutrition (Norway) in NO. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.029179
+date: 2026-07-11T12:53:40.250723
 url: "/cdr-researcher-census/researchers/andrea-sollinger-a5018333/"
 layout: "researcher"
 hiddenInHomeList: true

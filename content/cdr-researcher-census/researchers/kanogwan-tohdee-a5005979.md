@@ -1,7 +1,7 @@
 ---
 title: "Kanogwan Tohdee"
 description: "Kanogwan Tohdee is a Mid-career Biochar researcher at Chulalongkorn University in TH. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.573462
+date: 2026-07-11T12:53:40.790032
 url: "/cdr-researcher-census/researchers/kanogwan-tohdee-a5005979/"
 layout: "researcher"
 hiddenInHomeList: true

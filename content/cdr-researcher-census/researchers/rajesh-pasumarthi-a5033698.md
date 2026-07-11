@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Pasumarthi"
 description: "Rajesh Pasumarthi is a Mid-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.628711
+date: 2026-07-11T12:53:40.848240
 url: "/cdr-researcher-census/researchers/rajesh-pasumarthi-a5033698/"
 layout: "researcher"
 hiddenInHomeList: true

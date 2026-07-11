@@ -1,7 +1,7 @@
 ---
 title: "Carolyn‐Monika Görres"
 description: "Carolyn‐Monika Görres is a Mid-career Soil Carbon researcher at Hochschule Geisenheim University in DE. With 44 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.265537
+date: 2026-07-11T12:53:40.467352
 url: "/cdr-researcher-census/researchers/carolynmonika-gorres-a5073000/"
 layout: "researcher"
 hiddenInHomeList: true

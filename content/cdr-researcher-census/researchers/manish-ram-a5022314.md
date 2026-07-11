@@ -1,7 +1,7 @@
 ---
 title: "Manish Ram"
 description: "Manish Ram is a Mid-career General CDR researcher at Lappeenranta University of Technology in FI. With 34 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.829066
+date: 2026-07-11T12:53:40.030035
 url: "/cdr-researcher-census/researchers/manish-ram-a5022314/"
 layout: "researcher"
 hiddenInHomeList: true

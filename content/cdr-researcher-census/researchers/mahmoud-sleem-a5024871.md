@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Sleem"
 description: "Mahmoud Sleem is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.407126
+date: 2026-07-11T12:53:41.613422
 url: "/cdr-researcher-census/researchers/mahmoud-sleem-a5024871/"
 layout: "researcher"
 hiddenInHomeList: true

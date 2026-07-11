@@ -1,7 +1,7 @@
 ---
 title: "Ammar Alahmed"
 description: "Ammar Alahmed is a Mid-career General CDR researcher at Saudi Aramco (Saudi Arabia) in SA. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.370742
+date: 2026-07-11T12:53:40.575967
 url: "/cdr-researcher-census/researchers/ammar-alahmed-a5003635/"
 layout: "researcher"
 hiddenInHomeList: true

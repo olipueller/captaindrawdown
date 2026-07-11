@@ -1,7 +1,7 @@
 ---
 title: "Meng Zhang"
 description: "Meng Zhang is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.684209
+date: 2026-07-11T12:53:40.933366
 url: "/cdr-researcher-census/researchers/meng-zhang-a5100437/"
 layout: "researcher"
 hiddenInHomeList: true

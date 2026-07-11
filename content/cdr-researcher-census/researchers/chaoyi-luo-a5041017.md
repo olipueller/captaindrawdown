@@ -1,7 +1,7 @@
 ---
 title: "Chaoyi Luo"
 description: "Chaoyi Luo is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.156753
+date: 2026-07-11T12:53:41.398698
 url: "/cdr-researcher-census/researchers/chaoyi-luo-a5041017/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ryosuke Kikuchi"
 description: "Ryosuke Kikuchi is a Senior Enhanced Weathering researcher at Hokkaido University of Science in JP. With 89 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.340982
+date: 2026-07-11T12:53:40.544420
 url: "/cdr-researcher-census/researchers/ryosuke-kikuchi-a5072708/"
 layout: "researcher"
 hiddenInHomeList: true

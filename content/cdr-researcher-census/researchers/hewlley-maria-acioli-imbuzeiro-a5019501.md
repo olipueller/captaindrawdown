@@ -1,7 +1,7 @@
 ---
 title: "Hewlley Maria Acioli Imbuzeiro"
 description: "Hewlley Maria Acioli Imbuzeiro is a Senior Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.965980
+date: 2026-07-11T12:53:40.184294
 url: "/cdr-researcher-census/researchers/hewlley-maria-acioli-imbuzeiro-a5019501/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "J. J. Jiménez-Osornio"
 description: "J. J. Jiménez-Osornio is a Senior Enhanced Weathering researcher at Universidad Autónoma de Yucatán Facultad de Medicina Veterinaria y Zootecnia in MX. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.019650
+date: 2026-07-11T12:53:40.240596
 url: "/cdr-researcher-census/researchers/j-j-jimenez-osornio-a5102811/"
 layout: "researcher"
 hiddenInHomeList: true

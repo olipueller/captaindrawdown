@@ -1,7 +1,7 @@
 ---
 title: "Valentina Pidlisnyuk"
 description: "Valentina Pidlisnyuk is a Senior Soil Carbon researcher at Jan Evangelista Purkyně Military Medical Academy in CZ. With 88 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.966866
+date: 2026-07-11T12:53:40.185381
 url: "/cdr-researcher-census/researchers/valentina-pidlisnyuk-a5110428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,279 |
 | Publications | 88 |
-| CDR Focus | 6.8% |
+| CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -65,10 +65,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Economics of Phytoremediation with Biomass Production** (2021)
    2 citations · General CDR
 
-6. **Bioenergetic, ecological, and agronomic value of Miscanthus × giganteus Greef et Deu in sustainable land use** (2025)
+6. **Effect of biochar application on soil properties, crop yield, and soil carbon sequestration** (2026)
+   1 citations · Biochar
+
+7. **Bioenergetic, ecological, and agronomic value of Miscanthus × giganteus Greef et Deu in sustainable land use** (2025)
    1 citations · General CDR
 
-7. **Soil nematodes as a monitoring tool of bioenergy crop production management: The case of Miscanthus giganteus cultivation on different soil types** (2024)
+8. **Soil nematodes as a monitoring tool of bioenergy crop production management: The case of Miscanthus giganteus cultivation on different soil types** (2024)
    1 citations · BECCS
 
 ## External Profiles

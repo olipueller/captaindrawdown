@@ -1,7 +1,7 @@
 ---
 title: "Bisworanjita Biswal"
 description: "Bisworanjita Biswal is a Mid-career Soil Carbon researcher at National Dairy Research Institute in IN. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.764986
+date: 2026-07-11T12:53:41.098536
 url: "/cdr-researcher-census/researchers/bisworanjita-biswal-a5051751/"
 layout: "researcher"
 hiddenInHomeList: true

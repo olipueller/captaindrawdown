@@ -1,7 +1,7 @@
 ---
 title: "Miranda Boettcher"
 description: "Miranda Boettcher is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik Deutsches Institut für Internationale Politik und Sicherheit in DE. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.122501
+date: 2026-07-11T12:53:40.346704
 url: "/cdr-researcher-census/researchers/miranda-boettcher-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 15 |
 | Citations | 716 |
 | Publications | 50 |
-| CDR Focus | 36.0% |
+| CDR Focus | 42.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,23 +62,23 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **The formative phase of German carbon dioxide removal policy: Positioning between precaution, pragmatism and innovation** (2023)
    32 citations · General CDR
 
-5. **Social considerations and best practices to apply to engaging publics on ocean alkalinity enhancement** (2023)
+5. **Novel carbon dioxide removals techniques must be integrated into the European Union’s climate policies** (2023)
+   23 citations · General CDR
+
+6. **Social considerations and best practices to apply to engaging publics on ocean alkalinity enhancement** (2023)
    18 citations · General CDR
 
-6. **An earth system governance research agenda for carbon removal** (2024)
+7. **An earth system governance research agenda for carbon removal** (2024)
    12 citations · General CDR
 
-7. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
+8. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
    11 citations · General CDR
 
-8. **Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”** (2023)
+9. **Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”** (2023)
    6 citations · General CDR
 
-9. **Social Considerations and Best Practices for Engaging Publics on Ocean Alkalinity Enhancement** (2023)
+10. **Social Considerations and Best Practices for Engaging Publics on Ocean Alkalinity Enhancement** (2023)
    5 citations · General CDR
-
-10. **The potential of the BBNJ clearing house mechanism to enhance knowledge pluralism in marine carbon dioxide removal assessment** (2024)
-   4 citations · General CDR
 
 ## External Profiles
 

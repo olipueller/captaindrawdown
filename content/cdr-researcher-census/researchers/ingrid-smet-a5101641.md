@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Smet"
 description: "Ingrid Smet is a Senior General CDR researcher at Carbon Drawdown Initiative in BE. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.245214
+date: 2026-07-11T12:53:40.447286
 url: "/cdr-researcher-census/researchers/ingrid-smet-a5101641/"
 layout: "researcher"
 hiddenInHomeList: true

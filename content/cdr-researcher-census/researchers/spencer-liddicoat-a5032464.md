@@ -1,7 +1,7 @@
 ---
 title: "Spencer Liddicoat"
 description: "Spencer Liddicoat is a Senior General CDR researcher at Met Office in GB. With 61 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.784704
+date: 2026-07-11T12:53:39.973469
 url: "/cdr-researcher-census/researchers/spencer-liddicoat-a5032464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 19 |
 | Citations | 8,273 |
 | Publications | 61 |
-| CDR Focus | 8.2% |
-| Trajectory | Declining |
+| CDR Focus | 9.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -62,10 +62,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Carbon cycle feedbacks in an idealized and a scenario simulation of negative emissions in CMIP6 Earth system models** (2023)
    2 citations · General CDR
 
-5. **Limited mitigation potential of forestation under a high emissions scenario: results from multi-model and single model ensembles** (2023)
+5. **Land carbon response to positive, zero, and negative CO <sub>2</sub> emissions across Earth system models** (2026)
+   0 citations · General CDR
+
+6. **Limited mitigation potential of forestation under a high emissions scenario: results from multi-model and single model ensembles** (2023)
    0 citations
 
-6. **Carbon cycle feedbacks in an idealized and a scenario simulation of carbon dioxide removal in CMIP6 Earth system models** (2022)
+7. **Carbon cycle feedbacks in an idealized and a scenario simulation of carbon dioxide removal in CMIP6 Earth system models** (2022)
    0 citations · General CDR
 
 ## External Profiles

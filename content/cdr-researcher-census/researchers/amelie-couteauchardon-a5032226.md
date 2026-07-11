@@ -1,7 +1,7 @@
 ---
 title: "Amélie Couteau‐Chardon"
 description: "Amélie Couteau‐Chardon is a Mid-career General CDR researcher at Assistance Publique – Hôpitaux de Paris in FR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.744313
+date: 2026-07-11T12:53:41.060788
 url: "/cdr-researcher-census/researchers/amelie-couteauchardon-a5032226/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Antoine David Mvondo Ze"
 description: "Antoine David Mvondo Ze is a Mid-career Soil Carbon researcher at Université de Dschang in CM. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.420084
+date: 2026-07-11T12:53:41.625747
 url: "/cdr-researcher-census/researchers/antoine-david-mvondo-ze-a5111881/"
 layout: "researcher"
 hiddenInHomeList: true

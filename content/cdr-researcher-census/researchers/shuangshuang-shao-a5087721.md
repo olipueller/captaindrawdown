@@ -1,7 +1,7 @@
 ---
 title: "Shuangshuang Shao"
 description: "Shuangshuang Shao is a Senior Soil Carbon researcher at Suzhou Institute of Nano-tech and Nano-bionics in CN. With 54 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.944542
+date: 2026-07-11T12:53:40.161883
 url: "/cdr-researcher-census/researchers/shuangshuang-shao-a5087721/"
 layout: "researcher"
 hiddenInHomeList: true

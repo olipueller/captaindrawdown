@@ -1,7 +1,7 @@
 ---
 title: "Munaza Naseem"
 description: "Munaza Naseem is an Early-career Soil Carbon researcher at University of Agriculture Faisalabad in PK. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.201517
+date: 2026-07-11T12:53:40.402262
 url: "/cdr-researcher-census/researchers/munaza-naseem-a5110806/"
 layout: "researcher"
 hiddenInHomeList: true

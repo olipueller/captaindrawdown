@@ -1,7 +1,7 @@
 ---
 title: "Yue Zhao"
 description: "Yue Zhao is a Mid-career Biochar researcher at Shenyang Medical College in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.924397
+date: 2026-07-11T12:53:41.253193
 url: "/cdr-researcher-census/researchers/yue-zhao-a5114022/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiongduo Liu"
 description: "Xiongduo Liu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.211179
+date: 2026-07-11T12:53:41.449343
 url: "/cdr-researcher-census/researchers/xiongduo-liu-a5012860/"
 layout: "researcher"
 hiddenInHomeList: true

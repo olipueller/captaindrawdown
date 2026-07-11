@@ -1,7 +1,7 @@
 ---
 title: "Gaoyang Qiu"
 description: "Gaoyang Qiu is a Mid-career Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.167746
+date: 2026-07-11T12:53:40.390913
 url: "/cdr-researcher-census/researchers/gaoyang-qiu-a5004371/"
 layout: "researcher"
 hiddenInHomeList: true

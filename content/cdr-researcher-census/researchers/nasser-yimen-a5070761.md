@@ -1,7 +1,7 @@
 ---
 title: "Nasser Yimen"
 description: "Nasser Yimen is a Mid-career General CDR researcher at Université de Yaoundé I in CM. With 26 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.022314
+date: 2026-07-11T12:53:40.243346
 url: "/cdr-researcher-census/researchers/nasser-yimen-a5070761/"
 layout: "researcher"
 hiddenInHomeList: true

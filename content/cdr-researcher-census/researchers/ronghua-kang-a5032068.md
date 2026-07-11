@@ -1,7 +1,7 @@
 ---
 title: "Ronghua Kang"
 description: "Ronghua Kang is a Mid-career Enhanced Weathering researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 64 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.213535
+date: 2026-07-11T12:53:40.414296
 url: "/cdr-researcher-census/researchers/ronghua-kang-a5032068/"
 layout: "researcher"
 hiddenInHomeList: true

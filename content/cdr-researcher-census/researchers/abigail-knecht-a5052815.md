@@ -1,7 +1,7 @@
 ---
 title: "Abigail Knecht"
 description: "Abigail Knecht is a Senior Enhanced Weathering researcher. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.282346
+date: 2026-07-11T12:53:40.484469
 url: "/cdr-researcher-census/researchers/abigail-knecht-a5052815/"
 layout: "researcher"
 hiddenInHomeList: true

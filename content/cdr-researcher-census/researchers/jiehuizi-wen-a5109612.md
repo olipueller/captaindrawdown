@@ -1,7 +1,7 @@
 ---
 title: "Jiehuizi Wen"
 description: "Jiehuizi Wen is an Early-career General CDR researcher at Sichuan University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.444194
+date: 2026-07-11T12:53:41.650151
 url: "/cdr-researcher-census/researchers/jiehuizi-wen-a5109612/"
 layout: "researcher"
 hiddenInHomeList: true

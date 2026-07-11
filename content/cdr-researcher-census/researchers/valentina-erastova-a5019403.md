@@ -1,7 +1,7 @@
 ---
 title: "Valentina Erastova"
 description: "Valentina Erastova is a Senior Biochar researcher at University of Edinburgh in GB. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.983679
+date: 2026-07-11T12:53:40.202917
 url: "/cdr-researcher-census/researchers/valentina-erastova-a5019403/"
 layout: "researcher"
 hiddenInHomeList: true

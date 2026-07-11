@@ -1,7 +1,7 @@
 ---
 title: "Zhijing Yu"
 description: "Zhijing Yu is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.028950
+date: 2026-07-11T12:53:41.294948
 url: "/cdr-researcher-census/researchers/zhijing-yu-a5082641/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Changxun Yu"
 description: "Changxun Yu is a Senior Soil Carbon researcher at Linnaeus University in SE. With 94 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.873340
+date: 2026-07-11T12:53:40.082487
 url: "/cdr-researcher-census/researchers/changxun-yu-a5043106/"
 layout: "researcher"
 hiddenInHomeList: true

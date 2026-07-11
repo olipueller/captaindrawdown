@@ -1,7 +1,7 @@
 ---
 title: "Kevin Cail"
 description: "Kevin Cail is a Mid-career General CDR researcher at University of Illinois Urbana-Champaign in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.425530
+date: 2026-07-11T12:53:40.633402
 url: "/cdr-researcher-census/researchers/kevin-cail-a5089064/"
 layout: "researcher"
 hiddenInHomeList: true

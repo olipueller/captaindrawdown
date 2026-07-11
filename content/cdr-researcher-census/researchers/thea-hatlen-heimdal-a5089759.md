@@ -1,7 +1,7 @@
 ---
 title: "Thea Hatlen Heimdal"
 description: "Thea Hatlen Heimdal is a Mid-career Ocean CDR researcher at Lamont-Doherty Earth Observatory in US. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.333964
+date: 2026-07-11T12:53:40.537439
 url: "/cdr-researcher-census/researchers/thea-hatlen-heimdal-a5089759/"
 layout: "researcher"
 hiddenInHomeList: true

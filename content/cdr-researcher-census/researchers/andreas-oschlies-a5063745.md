@@ -1,7 +1,7 @@
 ---
 title: "Andreas Oschlies"
 description: "Andreas Oschlies is an Eminent Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 738 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.768744
+date: 2026-07-11T12:53:39.939697
 url: "/cdr-researcher-census/researchers/andreas-oschlies-a5063745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 75 |
 | Citations | 26,159 |
 | Publications | 738 |
-| CDR Focus | 6.6% |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

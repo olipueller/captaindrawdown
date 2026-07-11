@@ -1,7 +1,7 @@
 ---
 title: "Loraine ten Damme"
 description: "Loraine ten Damme is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.815273
+date: 2026-07-11T12:53:41.198254
 url: "/cdr-researcher-census/researchers/loraine-ten-damme-a5035539/"
 layout: "researcher"
 hiddenInHomeList: true

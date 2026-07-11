@@ -1,7 +1,7 @@
 ---
 title: "Quantao Cui"
 description: "Quantao Cui is a Mid-career Biochar researcher at Zhengzhou University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.471612
+date: 2026-07-11T12:53:40.683939
 url: "/cdr-researcher-census/researchers/quantao-cui-a5088373/"
 layout: "researcher"
 hiddenInHomeList: true

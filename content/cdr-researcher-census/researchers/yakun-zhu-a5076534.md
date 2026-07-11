@@ -1,7 +1,7 @@
 ---
 title: "Yakun Zhu"
 description: "Yakun Zhu is a Senior Soil Carbon researcher at Ohio State University in US. With 76 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.876757
+date: 2026-07-11T12:53:40.085764
 url: "/cdr-researcher-census/researchers/yakun-zhu-a5076534/"
 layout: "researcher"
 hiddenInHomeList: true

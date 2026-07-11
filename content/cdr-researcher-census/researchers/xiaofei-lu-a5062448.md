@@ -1,7 +1,7 @@
 ---
 title: "Xiaofei Lu"
 description: "Xiaofei Lu is a Mid-career Soil Carbon researcher at Shanghai University of Sport in CN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.209345
+date: 2026-07-11T12:53:40.409847
 url: "/cdr-researcher-census/researchers/xiaofei-lu-a5062448/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Buqing Wang"
 description: "Buqing Wang is a Senior Soil Carbon researcher at China Geological Survey in CN. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.488446
+date: 2026-07-11T12:53:40.702026
 url: "/cdr-researcher-census/researchers/buqing-wang-a5038174/"
 layout: "researcher"
 hiddenInHomeList: true

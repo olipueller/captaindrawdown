@@ -1,7 +1,7 @@
 ---
 title: "Roopali Roychowdhury"
 description: "Roopali Roychowdhury is a Mid-career Soil Carbon researcher at Techno India University in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.995642
+date: 2026-07-11T12:53:41.279662
 url: "/cdr-researcher-census/researchers/roopali-roychowdhury-a5023085/"
 layout: "researcher"
 hiddenInHomeList: true

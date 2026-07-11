@@ -1,7 +1,7 @@
 ---
 title: "Richardson M. Abraham-A"
 description: "Richardson M. Abraham-A is a Mid-career General CDR researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.807654
+date: 2026-07-11T12:53:41.186620
 url: "/cdr-researcher-census/researchers/richardson-m-abraham-a-a5035245/"
 layout: "researcher"
 hiddenInHomeList: true

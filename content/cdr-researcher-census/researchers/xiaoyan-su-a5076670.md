@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyan Su"
 description: "Xiaoyan Su is an Early-career Soil Carbon researcher at Zhejiang Ocean University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.397455
+date: 2026-07-11T12:53:41.603771
 url: "/cdr-researcher-census/researchers/xiaoyan-su-a5076670/"
 layout: "researcher"
 hiddenInHomeList: true

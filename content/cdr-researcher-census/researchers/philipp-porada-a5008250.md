@@ -1,7 +1,7 @@
 ---
 title: "Philipp Porada"
 description: "Philipp Porada is a Senior Soil Carbon researcher at Universität Hamburg in DE. With 115 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.880862
+date: 2026-07-11T12:53:40.090947
 url: "/cdr-researcher-census/researchers/philipp-porada-a5008250/"
 layout: "researcher"
 hiddenInHomeList: true

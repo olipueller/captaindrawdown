@@ -1,7 +1,7 @@
 ---
 title: "Tinku Goswami"
 description: "Tinku Goswami is an Early-career Soil Carbon researcher at Central Research Institute for Jute and Allied Fibres in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.433969
+date: 2026-07-11T12:53:41.640011
 url: "/cdr-researcher-census/researchers/tinku-goswami-a5041191/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shengxian Chen"
 description: "Shengxian Chen is a Mid-career Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.739993
+date: 2026-07-11T12:53:41.055674
 url: "/cdr-researcher-census/researchers/shengxian-chen-a5032151/"
 layout: "researcher"
 hiddenInHomeList: true

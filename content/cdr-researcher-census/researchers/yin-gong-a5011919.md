@@ -1,7 +1,7 @@
 ---
 title: "Yin Gong"
 description: "Yin Gong is a Mid-career General CDR researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.836867
+date: 2026-07-11T12:53:41.211842
 url: "/cdr-researcher-census/researchers/yin-gong-a5011919/"
 layout: "researcher"
 hiddenInHomeList: true

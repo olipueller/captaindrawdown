@@ -1,7 +1,7 @@
 ---
 title: "Carol S. Lenox"
 description: "Carol S. Lenox is a Mid-career General CDR researcher at Environmental Protection Agency in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.141253
+date: 2026-07-11T12:53:41.385442
 url: "/cdr-researcher-census/researchers/carol-s-lenox-a5060825/"
 layout: "researcher"
 hiddenInHomeList: true

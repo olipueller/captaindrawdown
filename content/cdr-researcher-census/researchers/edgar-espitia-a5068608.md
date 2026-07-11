@@ -1,7 +1,7 @@
 ---
 title: "Edgar Espitia"
 description: "Edgar Espitia is a Senior General CDR researcher at Justus-Liebig-Universität Gießen in DE. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.802165
+date: 2026-07-11T12:53:41.181020
 url: "/cdr-researcher-census/researchers/edgar-espitia-a5068608/"
 layout: "researcher"
 hiddenInHomeList: true

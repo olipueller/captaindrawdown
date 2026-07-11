@@ -1,7 +1,7 @@
 ---
 title: "V. I. Kiryushin"
 description: "V. I. Kiryushin is a Senior Soil Carbon researcher at V.V. Dokuchaev Soil Science Institute in RU. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.844996
+date: 2026-07-11T12:53:41.217253
 url: "/cdr-researcher-census/researchers/v-i-kiryushin-a5084383/"
 layout: "researcher"
 hiddenInHomeList: true

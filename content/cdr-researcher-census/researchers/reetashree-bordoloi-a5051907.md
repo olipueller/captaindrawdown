@@ -1,7 +1,7 @@
 ---
 title: "Reetashree Bordoloi"
 description: "Reetashree Bordoloi is a Mid-career Soil Carbon researcher at Gauhati University in IN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.508693
+date: 2026-07-11T12:53:40.723706
 url: "/cdr-researcher-census/researchers/reetashree-bordoloi-a5051907/"
 layout: "researcher"
 hiddenInHomeList: true

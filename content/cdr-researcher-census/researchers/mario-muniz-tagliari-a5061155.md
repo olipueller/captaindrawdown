@@ -1,7 +1,7 @@
 ---
 title: "Mário Muniz Tagliari"
 description: "Mário Muniz Tagliari is a Mid-career General CDR researcher at Universidade Tecnológica Federal do Paraná in BR. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.234436
+date: 2026-07-11T12:53:41.471182
 url: "/cdr-researcher-census/researchers/mario-muniz-tagliari-a5061155/"
 layout: "researcher"
 hiddenInHomeList: true

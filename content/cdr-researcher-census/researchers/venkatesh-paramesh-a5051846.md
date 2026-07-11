@@ -1,7 +1,7 @@
 ---
 title: "Venkatesh Paramesh"
 description: "Venkatesh Paramesh is a Senior Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 121 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.883778
+date: 2026-07-11T12:53:40.094628
 url: "/cdr-researcher-census/researchers/venkatesh-paramesh-a5051846/"
 layout: "researcher"
 hiddenInHomeList: true

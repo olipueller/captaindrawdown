@@ -1,7 +1,7 @@
 ---
 title: "Sourena Sami"
 description: "Sourena Sami is a Mid-career General CDR researcher at Hakim Sabzevari University in IR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.895049
+date: 2026-07-11T12:53:41.233910
 url: "/cdr-researcher-census/researchers/sourena-sami-a5083250/"
 layout: "researcher"
 hiddenInHomeList: true

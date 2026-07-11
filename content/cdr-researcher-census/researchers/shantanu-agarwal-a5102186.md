@@ -1,7 +1,7 @@
 ---
 title: "Shantanu Agarwal"
 description: "Shantanu Agarwal is a Senior General CDR researcher at Nano Carbon (Poland) in PL. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.442093
+date: 2026-07-11T12:53:40.650773
 url: "/cdr-researcher-census/researchers/shantanu-agarwal-a5102186/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 361 |
 | Publications | 41 |
-| CDR Focus | 7.3% |
+| CDR Focus | 9.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,10 +56,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Increased yields for smallholder farmers from enhanced rock weathering** (2026)
    0 citations · Enhanced Weathering
 
-4. **Enhanced rock weathering for improved smallholder farmer welfare: An at-scale case study for rice agriculture in India** (2026)
+4. **Increased yields for smallholder farmers from enhanced rock weathering** (2026)
    0 citations · Enhanced Weathering
 
-5. **Enhanced rock weathering for improved farmer welfare in the Global South: An at-scale case study for rice agriculture in India** (2025)
+5. **Enhanced rock weathering for improved smallholder farmer welfare: An at-scale case study for rice agriculture in India** (2026)
+   0 citations · Enhanced Weathering
+
+6. **Enhanced rock weathering for improved farmer welfare in the Global South: An at-scale case study for rice agriculture in India** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

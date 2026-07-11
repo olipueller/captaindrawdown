@@ -1,7 +1,7 @@
 ---
 title: "Puu-Tai Yang"
 description: "Puu-Tai Yang is a Mid-career Soil Carbon researcher at National Agriculture and Food Research Organization in JP. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.335957
+date: 2026-07-11T12:53:40.539292
 url: "/cdr-researcher-census/researchers/puu-tai-yang-a5101230/"
 layout: "researcher"
 hiddenInHomeList: true

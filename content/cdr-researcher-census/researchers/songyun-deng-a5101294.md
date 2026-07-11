@@ -1,7 +1,7 @@
 ---
 title: "Songyun Deng"
 description: "Songyun Deng is a Mid-career Biochar researcher at Hunan University of Science and Technology in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.071691
+date: 2026-07-11T12:53:41.321293
 url: "/cdr-researcher-census/researchers/songyun-deng-a5101294/"
 layout: "researcher"
 hiddenInHomeList: true

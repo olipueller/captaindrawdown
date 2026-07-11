@@ -1,7 +1,7 @@
 ---
 title: "Lisa Castel"
 description: "Lisa Castel is a Mid-career Soil Carbon researcher. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.169548
+date: 2026-07-11T12:53:41.410761
 url: "/cdr-researcher-census/researchers/lisa-castel-a5014194/"
 layout: "researcher"
 hiddenInHomeList: true

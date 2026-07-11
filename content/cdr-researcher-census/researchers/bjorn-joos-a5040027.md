@@ -1,7 +1,7 @@
 ---
 title: "Bjorn Joos"
 description: "Bjorn Joos is a Mid-career Biochar researcher at Imec the Netherlands in NL. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.290851
+date: 2026-07-11T12:53:40.493314
 url: "/cdr-researcher-census/researchers/bjorn-joos-a5040027/"
 layout: "researcher"
 hiddenInHomeList: true

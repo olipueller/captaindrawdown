@@ -1,7 +1,7 @@
 ---
 title: "Qiumeng Yuan"
 description: "Qiumeng Yuan is a Mid-career General CDR researcher at Chongqing Jiaotong University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.063391
+date: 2026-07-11T12:53:41.314880
 url: "/cdr-researcher-census/researchers/qiumeng-yuan-a5018433/"
 layout: "researcher"
 hiddenInHomeList: true

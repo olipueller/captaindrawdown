@@ -1,7 +1,7 @@
 ---
 title: "Willem Vercruysse"
 description: "Willem Vercruysse is a Mid-career Biochar researcher at Hasselt University in BE. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.305506
+date: 2026-07-11T12:53:41.534551
 url: "/cdr-researcher-census/researchers/willem-vercruysse-a5058716/"
 layout: "researcher"
 hiddenInHomeList: true

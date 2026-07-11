@@ -1,7 +1,7 @@
 ---
 title: "James Price"
 description: "James Price is a Senior General CDR researcher at University College London in GB. With 68 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.856384
+date: 2026-07-11T12:53:40.061367
 url: "/cdr-researcher-census/researchers/james-price-a5021739/"
 layout: "researcher"
 hiddenInHomeList: true

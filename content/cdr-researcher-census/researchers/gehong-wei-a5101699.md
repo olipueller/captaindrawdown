@@ -1,7 +1,7 @@
 ---
 title: "Gehong Wei"
 description: "Gehong Wei is a Senior Soil Carbon researcher. With 66 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.836142
+date: 2026-07-11T12:53:40.038975
 url: "/cdr-researcher-census/researchers/gehong-wei-a5101699/"
 layout: "researcher"
 hiddenInHomeList: true

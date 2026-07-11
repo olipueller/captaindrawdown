@@ -1,7 +1,7 @@
 ---
 title: "Selene Cobo"
 description: "Selene Cobo is a Mid-career General CDR researcher at Universidad de Cantabria in ES. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.112411
+date: 2026-07-11T12:53:40.336185
 url: "/cdr-researcher-census/researchers/selene-cobo-a5082806/"
 layout: "researcher"
 hiddenInHomeList: true

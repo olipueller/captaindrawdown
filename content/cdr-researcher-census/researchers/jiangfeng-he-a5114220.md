@@ -1,7 +1,7 @@
 ---
 title: "Jiangfeng He"
 description: "Jiangfeng He is an Early-career Soil Carbon researcher at Sun Yat-sen University in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.266526
+date: 2026-07-11T12:53:41.500888
 url: "/cdr-researcher-census/researchers/jiangfeng-he-a5114220/"
 layout: "researcher"
 hiddenInHomeList: true

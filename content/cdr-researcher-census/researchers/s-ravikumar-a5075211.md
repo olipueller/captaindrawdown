@@ -1,7 +1,7 @@
 ---
 title: "S. Ravikumar"
 description: "S. Ravikumar is a Mid-career General CDR researcher at Kuvempu University in IN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.292200
+date: 2026-07-11T12:53:40.494719
 url: "/cdr-researcher-census/researchers/s-ravikumar-a5075211/"
 layout: "researcher"
 hiddenInHomeList: true

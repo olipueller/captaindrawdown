@@ -1,7 +1,7 @@
 ---
 title: "José Balena Gabriel Filho"
 description: "José Balena Gabriel Filho is a Mid-career Biochar researcher at Universidade Federal de Minas Gerais in BR. With 51 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.136306
+date: 2026-07-11T12:53:40.359952
 url: "/cdr-researcher-census/researchers/jose-balena-gabriel-filho-a5058107/"
 layout: "researcher"
 hiddenInHomeList: true

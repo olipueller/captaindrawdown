@@ -1,7 +1,7 @@
 ---
 title: "Nima Tshering Lepcha"
 description: "Nima Tshering Lepcha is a Mid-career Soil Carbon researcher at Sikkim University in IN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.750914
+date: 2026-07-11T12:53:41.076870
 url: "/cdr-researcher-census/researchers/nima-tshering-lepcha-a5087798/"
 layout: "researcher"
 hiddenInHomeList: true

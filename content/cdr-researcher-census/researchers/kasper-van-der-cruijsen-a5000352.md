@@ -1,7 +1,7 @@
 ---
 title: "Kasper van der Cruijsen"
 description: "Kasper van der Cruijsen is a Mid-career BECCS researcher at Graduate School Experimental Plant Sciences in NL. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.316477
+date: 2026-07-11T12:53:41.544374
 url: "/cdr-researcher-census/researchers/kasper-van-der-cruijsen-a5000352/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sen Zhou"
 description: "Sen Zhou is a Mid-career Biochar researcher at China University of Geosciences in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.099691
+date: 2026-07-11T12:53:41.347073
 url: "/cdr-researcher-census/researchers/sen-zhou-a5102949/"
 layout: "researcher"
 hiddenInHomeList: true

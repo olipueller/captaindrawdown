@@ -1,7 +1,7 @@
 ---
 title: "Pramod Tiwary"
 description: "Pramod Tiwary is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.015780
+date: 2026-07-11T12:53:40.236697
 url: "/cdr-researcher-census/researchers/pramod-tiwary-a5113893/"
 layout: "researcher"
 hiddenInHomeList: true

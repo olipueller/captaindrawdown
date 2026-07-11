@@ -1,7 +1,7 @@
 ---
 title: "M. Häkkinen"
 description: "M. Häkkinen is a Senior Soil Carbon researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.116307
+date: 2026-07-11T12:53:41.362817
 url: "/cdr-researcher-census/researchers/m-hakkinen-a5070496/"
 layout: "researcher"
 hiddenInHomeList: true

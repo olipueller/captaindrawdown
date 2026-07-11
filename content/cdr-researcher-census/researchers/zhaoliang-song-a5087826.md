@@ -1,7 +1,7 @@
 ---
 title: "Zhaoliang Song"
 description: "Zhaoliang Song is an Eminent Soil Carbon researcher at Tianjin University in CN. With 223 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.781318
+date: 2026-07-11T12:53:39.968259
 url: "/cdr-researcher-census/researchers/zhaoliang-song-a5087826/"
 layout: "researcher"
 hiddenInHomeList: true

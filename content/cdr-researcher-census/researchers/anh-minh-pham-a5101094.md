@@ -1,7 +1,7 @@
 ---
 title: "Anh Minh Pham"
 description: "Anh Minh Pham is a Senior Soil Carbon researcher at Hanoi National University of Education in VN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.399751
+date: 2026-07-11T12:53:41.606230
 url: "/cdr-researcher-census/researchers/anh-minh-pham-a5101094/"
 layout: "researcher"
 hiddenInHomeList: true

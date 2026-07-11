@@ -1,7 +1,7 @@
 ---
 title: "Alfred Lochner"
 description: "Alfred Lochner is a Senior Soil Carbon researcher at German Centre for Integrative Biodiversity Research in DE. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.097573
+date: 2026-07-11T12:53:40.320813
 url: "/cdr-researcher-census/researchers/alfred-lochner-a5055655/"
 layout: "researcher"
 hiddenInHomeList: true

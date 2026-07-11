@@ -1,7 +1,7 @@
 ---
 title: "Pedro Rochedo"
 description: "Pedro Rochedo is a Senior General CDR researcher at Khalifa University of Science and Technology in AE. With 127 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.825409
+date: 2026-07-11T12:53:40.025286
 url: "/cdr-researcher-census/researchers/pedro-rochedo-a5013873/"
 layout: "researcher"
 hiddenInHomeList: true

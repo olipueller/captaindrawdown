@@ -1,7 +1,7 @@
 ---
 title: "Qiwang Ran"
 description: "Qiwang Ran is an Early-career Soil Carbon researcher at Guangdong Academy of Sciences in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.886767
+date: 2026-07-11T12:53:41.227946
 url: "/cdr-researcher-census/researchers/qiwang-ran-a5030752/"
 layout: "researcher"
 hiddenInHomeList: true

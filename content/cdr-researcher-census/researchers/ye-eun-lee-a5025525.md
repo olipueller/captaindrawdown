@@ -1,7 +1,7 @@
 ---
 title: "Ye-Eun Lee"
 description: "Ye-Eun Lee is a Mid-career Biochar researcher. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.242963
+date: 2026-07-11T12:53:40.445137
 url: "/cdr-researcher-census/researchers/ye-eun-lee-a5025525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 16 |
 | Citations | 552 |
 | Publications | 54 |
-| CDR Focus | 5.6% |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -52,6 +52,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    5 citations · Biochar
 
 3. **Enhancing Food Waste Biochar Properties as a Sustainable Bio-Solid Fuel: Post-Treatment and Combustion Behavior Analysis** (2023)
+   0 citations · Biochar
+
+4. **Dewatering Characteristics of Food Waste Biochar through Centrifugation** (2022)
    0 citations · Biochar
 
 ## External Profiles

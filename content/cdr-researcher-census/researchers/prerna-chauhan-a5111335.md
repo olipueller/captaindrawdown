@@ -1,7 +1,7 @@
 ---
 title: "Prerna Chauhan"
 description: "Prerna Chauhan is an Early-career Soil Carbon researcher at M.J.P. Rohilkhand University in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.403508
+date: 2026-07-11T12:53:41.609846
 url: "/cdr-researcher-census/researchers/prerna-chauhan-a5111335/"
 layout: "researcher"
 hiddenInHomeList: true

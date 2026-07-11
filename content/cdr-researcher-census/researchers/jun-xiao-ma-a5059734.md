@@ -1,7 +1,7 @@
 ---
 title: "Jun-Xiao Ma"
 description: "Jun-Xiao Ma is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.453794
+date: 2026-07-11T12:53:40.663694
 url: "/cdr-researcher-census/researchers/jun-xiao-ma-a5059734/"
 layout: "researcher"
 hiddenInHomeList: true

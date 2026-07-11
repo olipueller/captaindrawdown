@@ -1,7 +1,7 @@
 ---
 title: "Andrew G. Star"
 description: "Andrew G. Star is a Senior General CDR researcher at Argonne National Laboratory in US. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.312726
+date: 2026-07-11T12:53:40.515426
 url: "/cdr-researcher-census/researchers/andrew-g-star-a5072502/"
 layout: "researcher"
 hiddenInHomeList: true

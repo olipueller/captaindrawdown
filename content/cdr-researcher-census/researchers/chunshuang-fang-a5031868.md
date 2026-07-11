@@ -1,7 +1,7 @@
 ---
 title: "Chunshuang Fang"
 description: "Chunshuang Fang is a Mid-career Soil Carbon researcher at Shaanxi Normal University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.286943
+date: 2026-07-11T12:53:41.518343
 url: "/cdr-researcher-census/researchers/chunshuang-fang-a5031868/"
 layout: "researcher"
 hiddenInHomeList: true

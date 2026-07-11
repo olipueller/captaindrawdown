@@ -1,7 +1,7 @@
 ---
 title: "Lorie Hamelin"
 description: "Lorie Hamelin is a Senior General CDR researcher at INSA Toulouse in FR. With 153 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.826744
+date: 2026-07-11T12:53:40.026859
 url: "/cdr-researcher-census/researchers/lorie-hamelin-a5085714/"
 layout: "researcher"
 hiddenInHomeList: true

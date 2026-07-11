@@ -1,7 +1,7 @@
 ---
 title: "Yejia Di"
 description: "Yejia Di is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.684442
+date: 2026-07-11T12:53:40.933554
 url: "/cdr-researcher-census/researchers/yejia-di-a5033302/"
 layout: "researcher"
 hiddenInHomeList: true

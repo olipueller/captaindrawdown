@@ -1,7 +1,7 @@
 ---
 title: "Vaishnavi Gomase"
 description: "Vaishnavi Gomase is a Mid-career Biochar researcher at Rashtrasant Tukadoji Maharaj Nagpur University in IN. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.225354
+date: 2026-07-11T12:53:40.427164
 url: "/cdr-researcher-census/researchers/vaishnavi-gomase-a5045374/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Yang"
 description: "Zhiyuan Yang is a Mid-career General CDR researcher at Tsinghua University in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.147404
+date: 2026-07-11T12:53:40.370765
 url: "/cdr-researcher-census/researchers/zhiyuan-yang-a5100619/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eryang Li"
 description: "Eryang Li is a Mid-career Soil Carbon researcher at Xinjiang University in CN. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.908041
+date: 2026-07-11T12:53:40.121878
 url: "/cdr-researcher-census/researchers/eryang-li-a5004310/"
 layout: "researcher"
 hiddenInHomeList: true

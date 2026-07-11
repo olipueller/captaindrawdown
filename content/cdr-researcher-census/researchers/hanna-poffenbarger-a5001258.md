@@ -1,7 +1,7 @@
 ---
 title: "Hanna Poffenbarger"
 description: "Hanna Poffenbarger is a Senior Soil Carbon researcher at University of Kentucky in US. With 80 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.831463
+date: 2026-07-11T12:53:40.032630
 url: "/cdr-researcher-census/researchers/hanna-poffenbarger-a5001258/"
 layout: "researcher"
 hiddenInHomeList: true

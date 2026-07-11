@@ -1,7 +1,7 @@
 ---
 title: "Matthias Kreuzburg"
 description: "Matthias Kreuzburg is a Mid-career General CDR researcher at University of Antwerp in BE. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.811357
+date: 2026-07-11T12:53:41.194861
 url: "/cdr-researcher-census/researchers/matthias-kreuzburg-a5073765/"
 layout: "researcher"
 hiddenInHomeList: true

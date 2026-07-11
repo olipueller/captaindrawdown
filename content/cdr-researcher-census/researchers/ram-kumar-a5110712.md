@@ -1,7 +1,7 @@
 ---
 title: "Ram Kumar"
 description: "Ram Kumar is a Senior General CDR researcher at Indian Grassland and Fodder Research Institute in IN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.740641
+date: 2026-07-11T12:53:41.056237
 url: "/cdr-researcher-census/researchers/ram-kumar-a5110712/"
 layout: "researcher"
 hiddenInHomeList: true

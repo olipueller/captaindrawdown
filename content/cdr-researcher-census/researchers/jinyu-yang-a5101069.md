@@ -1,7 +1,7 @@
 ---
 title: "Jinyu Yang"
 description: "Jinyu Yang is a Senior Soil Carbon researcher at Shenyang University of Chemical Technology in CN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.441529
+date: 2026-07-11T12:53:41.647467
 url: "/cdr-researcher-census/researchers/jinyu-yang-a5101069/"
 layout: "researcher"
 hiddenInHomeList: true

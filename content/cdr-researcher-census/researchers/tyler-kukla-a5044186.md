@@ -1,7 +1,7 @@
 ---
 title: "Tyler Kukla"
 description: "Tyler Kukla is a Mid-career Enhanced Weathering researcher at Colorado State University in US. With 67 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.257913
+date: 2026-07-11T12:53:40.459855
 url: "/cdr-researcher-census/researchers/tyler-kukla-a5044186/"
 layout: "researcher"
 hiddenInHomeList: true

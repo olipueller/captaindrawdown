@@ -1,7 +1,7 @@
 ---
 title: "Kevin Z. Mganga"
 description: "Kevin Z. Mganga is a Mid-career Soil Carbon researcher at Universiteit Utrecht in NL. With 86 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.967444
+date: 2026-07-11T12:53:40.185921
 url: "/cdr-researcher-census/researchers/kevin-z-mganga-a5046755/"
 layout: "researcher"
 hiddenInHomeList: true

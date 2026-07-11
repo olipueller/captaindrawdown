@@ -1,7 +1,7 @@
 ---
 title: "Kay Khine Soe"
 description: "Kay Khine Soe is a Mid-career Soil Carbon researcher at College of Micronesia-FSM in FM. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.162758
+date: 2026-07-11T12:53:41.404185
 url: "/cdr-researcher-census/researchers/kay-khine-soe-a5061974/"
 layout: "researcher"
 hiddenInHomeList: true

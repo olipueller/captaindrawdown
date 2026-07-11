@@ -1,7 +1,7 @@
 ---
 title: "Elias Azzi"
 description: "Elias Azzi is a Mid-career Biochar researcher at Swedish University of Agricultural Sciences in SE. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.118288
+date: 2026-07-11T12:53:40.342195
 url: "/cdr-researcher-census/researchers/elias-azzi-a5039260/"
 layout: "researcher"
 hiddenInHomeList: true

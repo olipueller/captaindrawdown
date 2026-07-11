@@ -1,7 +1,7 @@
 ---
 title: "Ming Zhou"
 description: "Ming Zhou is an Early-career Soil Carbon researcher at Fudan University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.209675
+date: 2026-07-11T12:53:41.447959
 url: "/cdr-researcher-census/researchers/ming-zhou-a5065640/"
 layout: "researcher"
 hiddenInHomeList: true

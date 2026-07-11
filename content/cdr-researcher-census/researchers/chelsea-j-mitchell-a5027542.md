@@ -1,7 +1,7 @@
 ---
 title: "Chelsea J. Mitchell"
 description: "Chelsea J. Mitchell is a Mid-career Biochar researcher at Pioneer (United States) in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.728788
+date: 2026-07-11T12:53:41.022389
 url: "/cdr-researcher-census/researchers/chelsea-j-mitchell-a5027542/"
 layout: "researcher"
 hiddenInHomeList: true

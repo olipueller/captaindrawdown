@@ -1,7 +1,7 @@
 ---
 title: "Vesa-Pekka Parkatti"
 description: "Vesa-Pekka Parkatti is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.204416
+date: 2026-07-11T12:53:41.442928
 url: "/cdr-researcher-census/researchers/vesa-pekka-parkatti-a5066672/"
 layout: "researcher"
 hiddenInHomeList: true

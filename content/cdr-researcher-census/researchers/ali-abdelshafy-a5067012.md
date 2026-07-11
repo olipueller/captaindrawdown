@@ -1,7 +1,7 @@
 ---
 title: "Ali Abdelshafy"
 description: "Ali Abdelshafy is a Mid-career General CDR researcher at Delft University of Technology in NL. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.182671
+date: 2026-07-11T12:53:41.422625
 url: "/cdr-researcher-census/researchers/ali-abdelshafy-a5067012/"
 layout: "researcher"
 hiddenInHomeList: true

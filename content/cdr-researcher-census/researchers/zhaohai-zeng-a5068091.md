@@ -1,7 +1,7 @@
 ---
 title: "Zhaohai Zeng"
 description: "Zhaohai Zeng is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 111 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.825541
+date: 2026-07-11T12:53:40.025427
 url: "/cdr-researcher-census/researchers/zhaohai-zeng-a5068091/"
 layout: "researcher"
 hiddenInHomeList: true

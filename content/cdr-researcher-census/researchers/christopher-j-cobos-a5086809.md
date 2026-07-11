@@ -1,7 +1,7 @@
 ---
 title: "Christopher J. Cobos"
 description: "Christopher J. Cobos is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.771236
+date: 2026-07-11T12:53:41.112578
 url: "/cdr-researcher-census/researchers/christopher-j-cobos-a5086809/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Merkebu Getachew"
 description: "Merkebu Getachew is a Mid-career Soil Carbon researcher at Jimma University in ET. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.065083
+date: 2026-07-11T12:53:41.316348
 url: "/cdr-researcher-census/researchers/merkebu-getachew-a5050617/"
 layout: "researcher"
 hiddenInHomeList: true

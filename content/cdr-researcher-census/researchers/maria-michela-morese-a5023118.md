@@ -1,7 +1,7 @@
 ---
 title: "Maria Michela Morese"
 description: "Maria Michela Morese is a Mid-career General CDR researcher at Food and Agriculture Organization of the United Nations in IT. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.807543
+date: 2026-07-11T12:53:41.186492
 url: "/cdr-researcher-census/researchers/maria-michela-morese-a5023118/"
 layout: "researcher"
 hiddenInHomeList: true

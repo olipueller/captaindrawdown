@@ -1,7 +1,7 @@
 ---
 title: "Shiwei Yuan"
 description: "Shiwei Yuan is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.220097
+date: 2026-07-11T12:53:40.421353
 url: "/cdr-researcher-census/researchers/shiwei-yuan-a5083715/"
 layout: "researcher"
 hiddenInHomeList: true

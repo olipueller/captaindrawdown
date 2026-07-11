@@ -1,7 +1,7 @@
 ---
 title: "Zheyuan Xiao"
 description: "Zheyuan Xiao is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.096337
+date: 2026-07-11T12:53:41.344151
 url: "/cdr-researcher-census/researchers/zheyuan-xiao-a5029071/"
 layout: "researcher"
 hiddenInHomeList: true

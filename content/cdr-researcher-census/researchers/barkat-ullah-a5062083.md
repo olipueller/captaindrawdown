@@ -1,7 +1,7 @@
 ---
 title: "Barkat Ullah"
 description: "Barkat Ullah is a Mid-career Soil Carbon researcher at University of Peshawar in PK. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.769709
+date: 2026-07-11T12:53:41.103647
 url: "/cdr-researcher-census/researchers/barkat-ullah-a5062083/"
 layout: "researcher"
 hiddenInHomeList: true

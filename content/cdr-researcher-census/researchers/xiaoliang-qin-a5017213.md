@@ -1,7 +1,7 @@
 ---
 title: "Xiaoliang Qin"
 description: "Xiaoliang Qin is a Senior Soil Carbon researcher at Northwest University in CN. With 78 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.850557
+date: 2026-07-11T12:53:40.054869
 url: "/cdr-researcher-census/researchers/xiaoliang-qin-a5017213/"
 layout: "researcher"
 hiddenInHomeList: true

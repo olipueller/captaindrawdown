@@ -1,7 +1,7 @@
 ---
 title: "Hardeep Singh Sheoran"
 description: "Hardeep Singh Sheoran is a Mid-career Soil Carbon researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.180108
+date: 2026-07-11T12:53:41.420304
 url: "/cdr-researcher-census/researchers/hardeep-singh-sheoran-a5000402/"
 layout: "researcher"
 hiddenInHomeList: true

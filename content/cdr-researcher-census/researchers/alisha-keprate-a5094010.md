@@ -1,7 +1,7 @@
 ---
 title: "Alisha Keprate"
 description: "Alisha Keprate is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.096146
+date: 2026-07-11T12:53:41.343913
 url: "/cdr-researcher-census/researchers/alisha-keprate-a5094010/"
 layout: "researcher"
 hiddenInHomeList: true

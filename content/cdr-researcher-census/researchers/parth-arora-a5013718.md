@@ -1,7 +1,7 @@
 ---
 title: "Parth Arora"
 description: "Parth Arora is an Early-career Ocean CDR researcher at Georgia Institute of Technology in US. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.582731
+date: 2026-07-11T12:53:40.799600
 url: "/cdr-researcher-census/researchers/parth-arora-a5013718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,12 +45,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 282 |
 | Publications | 16 |
-| CDR Focus | 6.2% |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
+   0 citations · General CDR
+
+2. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
    0 citations · General CDR
 
 ## External Profiles

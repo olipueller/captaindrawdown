@@ -1,7 +1,7 @@
 ---
 title: "Emily S. Hope"
 description: "Emily S. Hope is a Senior General CDR researcher at Canadian Forest Service in CA. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.414380
+date: 2026-07-11T12:53:40.621274
 url: "/cdr-researcher-census/researchers/emily-s-hope-a5023039/"
 layout: "researcher"
 hiddenInHomeList: true

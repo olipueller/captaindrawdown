@@ -1,7 +1,7 @@
 ---
 title: "Xuanming Wang"
 description: "Xuanming Wang is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.448523
+date: 2026-07-11T12:53:40.657766
 url: "/cdr-researcher-census/researchers/xuanming-wang-a5040792/"
 layout: "researcher"
 hiddenInHomeList: true

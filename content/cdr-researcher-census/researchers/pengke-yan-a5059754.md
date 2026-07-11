@@ -1,7 +1,7 @@
 ---
 title: "Pengke Yan"
 description: "Pengke Yan is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.234896
+date: 2026-07-11T12:53:40.436912
 url: "/cdr-researcher-census/researchers/pengke-yan-a5059754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 564 |
 | Publications | 24 |
-| CDR Focus | 8.3% |
-| Trajectory | Stable |
+| CDR Focus | 12.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Biochar application increased soil carbon sequestration by altering organic carbon components in aggregates** (2025)
    8 citations · Biochar
+
+3. **Topography and land management influence soil carbon heterogeneity by altering the physicochemical properties of saline–alkaline soil in Northeast China** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

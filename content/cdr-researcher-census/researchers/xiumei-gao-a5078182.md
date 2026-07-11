@@ -1,7 +1,7 @@
 ---
 title: "Xiumei Gao"
 description: "Xiumei Gao is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.780699
+date: 2026-07-11T12:53:41.137204
 url: "/cdr-researcher-census/researchers/xiumei-gao-a5078182/"
 layout: "researcher"
 hiddenInHomeList: true

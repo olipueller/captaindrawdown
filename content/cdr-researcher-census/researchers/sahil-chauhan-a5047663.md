@@ -1,7 +1,7 @@
 ---
 title: "Sahil Chauhan"
 description: "Sahil Chauhan is a Mid-career Soil Carbon researcher at Central Pollution Control Board in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.104148
+date: 2026-07-11T12:53:41.351093
 url: "/cdr-researcher-census/researchers/sahil-chauhan-a5047663/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Milena Sergeeva"
 description: "Milena Sergeeva is a Mid-career General CDR researcher at Universidad Peruana Cayetano Heredia in PE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.478772
+date: 2026-07-11T12:53:40.691608
 url: "/cdr-researcher-census/researchers/milena-sergeeva-a5062590/"
 layout: "researcher"
 hiddenInHomeList: true

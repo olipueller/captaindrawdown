@@ -1,7 +1,7 @@
 ---
 title: "Qin Liao"
 description: "Qin Liao is a Senior Biochar researcher at Sichuan Agricultural University in CN. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.087397
+date: 2026-07-11T12:53:41.335707
 url: "/cdr-researcher-census/researchers/qin-liao-a5103125/"
 layout: "researcher"
 hiddenInHomeList: true

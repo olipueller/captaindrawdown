@@ -1,7 +1,7 @@
 ---
 title: "Subina Tripathi"
 description: "Subina Tripathi is a Mid-career Soil Carbon researcher at Texas A&M in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.778853
+date: 2026-07-11T12:53:41.135178
 url: "/cdr-researcher-census/researchers/subina-tripathi-a5101854/"
 layout: "researcher"
 hiddenInHomeList: true

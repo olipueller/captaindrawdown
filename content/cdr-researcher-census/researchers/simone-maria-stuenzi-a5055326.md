@@ -1,7 +1,7 @@
 ---
 title: "Simone Maria Stuenzi"
 description: "Simone Maria Stuenzi is a Mid-career Soil Carbon researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.433539
+date: 2026-07-11T12:53:40.641985
 url: "/cdr-researcher-census/researchers/simone-maria-stuenzi-a5055326/"
 layout: "researcher"
 hiddenInHomeList: true

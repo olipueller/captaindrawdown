@@ -1,7 +1,7 @@
 ---
 title: "Ivan Dozier"
 description: "Ivan Dozier is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.478450
+date: 2026-07-11T12:53:40.691308
 url: "/cdr-researcher-census/researchers/ivan-dozier-a5090970/"
 layout: "researcher"
 hiddenInHomeList: true

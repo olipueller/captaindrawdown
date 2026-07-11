@@ -1,7 +1,7 @@
 ---
 title: "Mingming Zheng"
 description: "Mingming Zheng is a Mid-career Biochar researcher at Zhejiang University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.116217
+date: 2026-07-11T12:53:41.362714
 url: "/cdr-researcher-census/researchers/mingming-zheng-a5038174/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lingyan Zhou"
 description: "Lingyan Zhou is a Senior Soil Carbon researcher at East China Normal University in CN. With 141 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.809308
+date: 2026-07-11T12:53:40.005429
 url: "/cdr-researcher-census/researchers/lingyan-zhou-a5060978/"
 layout: "researcher"
 hiddenInHomeList: true

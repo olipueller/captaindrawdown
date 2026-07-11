@@ -1,7 +1,7 @@
 ---
 title: "Suping Ji"
 description: "Suping Ji is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.180655
+date: 2026-07-11T12:53:40.396459
 url: "/cdr-researcher-census/researchers/suping-ji-a5074090/"
 layout: "researcher"
 hiddenInHomeList: true

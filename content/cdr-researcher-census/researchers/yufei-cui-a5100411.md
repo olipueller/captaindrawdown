@@ -1,7 +1,7 @@
 ---
 title: "Yufei Cui"
 description: "Yufei Cui is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.598653
+date: 2026-07-11T12:53:40.815673
 url: "/cdr-researcher-census/researchers/yufei-cui-a5100411/"
 layout: "researcher"
 hiddenInHomeList: true

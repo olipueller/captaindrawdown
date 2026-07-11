@@ -1,7 +1,7 @@
 ---
 title: "João Barreira"
 description: "João Barreira is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.371538
+date: 2026-07-11T12:53:41.579179
 url: "/cdr-researcher-census/researchers/joao-barreira-a5018169/"
 layout: "researcher"
 hiddenInHomeList: true

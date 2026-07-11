@@ -1,7 +1,7 @@
 ---
 title: "So-Eun Park"
 description: "So-Eun Park is a Mid-career General CDR researcher at Seoul National University in KR. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.374056
+date: 2026-07-11T12:53:41.581540
 url: "/cdr-researcher-census/researchers/so-eun-park-a5110162/"
 layout: "researcher"
 hiddenInHomeList: true

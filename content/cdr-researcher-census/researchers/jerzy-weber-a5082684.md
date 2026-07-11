@@ -1,7 +1,7 @@
 ---
 title: "Jerzy Weber"
 description: "Jerzy Weber is a Senior Soil Carbon researcher at Wroclaw University of Environmental and Life Sciences in PL. With 73 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.966254
+date: 2026-07-11T12:53:40.184546
 url: "/cdr-researcher-census/researchers/jerzy-weber-a5082684/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Huajing Zhou"
 description: "Huajing Zhou is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.242096
+date: 2026-07-11T12:53:40.444221
 url: "/cdr-researcher-census/researchers/huajing-zhou-a5065742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 12 |
 | Citations | 553 |
 | Publications | 56 |
-| CDR Focus | 8.9% |
-| Trajectory | Stable |
+| CDR Focus | 10.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -64,6 +64,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 5. **Mn-Embedded Porous Rubber Seed Shell Biochar for Enhanced Removal of Copper Ions and its Ingeniously Re-Functionalizing** (2022)
    3 citations · Biochar
+
+6. **Endogenous Fe-Al self-doped biochar derived from rubber sludge for effective peroxymonosulfate activation: Dominant role of 1O2 and electron transfer** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

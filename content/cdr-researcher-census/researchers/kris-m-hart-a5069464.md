@@ -1,7 +1,7 @@
 ---
 title: "Kris M. Hart"
 description: "Kris M. Hart is a Senior Soil Carbon researcher at Forest Research in GB. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.166660
+date: 2026-07-11T12:53:40.389886
 url: "/cdr-researcher-census/researchers/kris-m-hart-a5069464/"
 layout: "researcher"
 hiddenInHomeList: true

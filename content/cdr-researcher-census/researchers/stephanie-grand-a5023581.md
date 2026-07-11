@@ -1,7 +1,7 @@
 ---
 title: "Stéphanie Grand"
 description: "Stéphanie Grand is a Mid-career Enhanced Weathering researcher at University of Lausanne in CH. With 54 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.863237
+date: 2026-07-11T12:53:40.070422
 url: "/cdr-researcher-census/researchers/stephanie-grand-a5023581/"
 layout: "researcher"
 hiddenInHomeList: true

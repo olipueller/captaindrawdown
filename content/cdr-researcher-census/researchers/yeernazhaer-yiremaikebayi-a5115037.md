@@ -1,7 +1,7 @@
 ---
 title: "Yeernazhaer Yiremaikebayi"
 description: "Yeernazhaer Yiremaikebayi is an Early-career Soil Carbon researcher at Shihezi University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.390174
+date: 2026-07-11T12:53:41.596220
 url: "/cdr-researcher-census/researchers/yeernazhaer-yiremaikebayi-a5115037/"
 layout: "researcher"
 hiddenInHomeList: true

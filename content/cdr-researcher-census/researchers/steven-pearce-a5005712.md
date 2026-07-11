@@ -1,7 +1,7 @@
 ---
 title: "Steven Pearce"
 description: "Steven Pearce is a Senior General CDR researcher. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.437338
+date: 2026-07-11T12:53:41.643138
 url: "/cdr-researcher-census/researchers/steven-pearce-a5005712/"
 layout: "researcher"
 hiddenInHomeList: true

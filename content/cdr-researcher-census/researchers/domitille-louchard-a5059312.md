@@ -1,7 +1,7 @@
 ---
 title: "Domitille Louchard"
 description: "Domitille Louchard is a Mid-career Ocean CDR researcher at École Polytechnique Fédérale de Lausanne in CH. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.361471
+date: 2026-07-11T12:53:41.571128
 url: "/cdr-researcher-census/researchers/domitille-louchard-a5059312/"
 layout: "researcher"
 hiddenInHomeList: true

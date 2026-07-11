@@ -1,7 +1,7 @@
 ---
 title: "Hamed A. Al-Swadi"
 description: "Hamed A. Al-Swadi is a Mid-career Soil Carbon researcher at Sana'a University in YE. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.466786
+date: 2026-07-11T12:53:40.678719
 url: "/cdr-researcher-census/researchers/hamed-a-al-swadi-a5081259/"
 layout: "researcher"
 hiddenInHomeList: true

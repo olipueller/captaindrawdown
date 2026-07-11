@@ -1,7 +1,7 @@
 ---
 title: "J. E. Rheuban"
 description: "J. E. Rheuban is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.323359
+date: 2026-07-11T12:53:41.550791
 url: "/cdr-researcher-census/researchers/j-e-rheuban-a5030677/"
 layout: "researcher"
 hiddenInHomeList: true

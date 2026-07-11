@@ -1,7 +1,7 @@
 ---
 title: "Shujing Ye"
 description: "Shujing Ye is an Eminent Biochar researcher at Guangxi University in CN. With 75 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.777112
+date: 2026-07-11T12:53:39.962131
 url: "/cdr-researcher-census/researchers/shujing-ye-a5047602/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ayoub Amahrous"
 description: "Ayoub Amahrous is a Mid-career Biochar researcher at Université Hassan 1er in MA. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.452779
+date: 2026-07-11T12:53:41.658557
 url: "/cdr-researcher-census/researchers/ayoub-amahrous-a5094107/"
 layout: "researcher"
 hiddenInHomeList: true

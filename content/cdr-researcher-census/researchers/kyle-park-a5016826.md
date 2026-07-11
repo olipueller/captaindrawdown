@@ -1,7 +1,7 @@
 ---
 title: "Kyle Park"
 description: "Kyle Park is a Mid-career Ocean CDR researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.380365
+date: 2026-07-11T12:53:41.587774
 url: "/cdr-researcher-census/researchers/kyle-park-a5016826/"
 layout: "researcher"
 hiddenInHomeList: true

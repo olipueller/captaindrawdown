@@ -1,7 +1,7 @@
 ---
 title: "Johannes Lund Jensen"
 description: "Johannes Lund Jensen is a Senior Soil Carbon researcher at Aarhus University in DK. With 111 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.960144
+date: 2026-07-11T12:53:40.178285
 url: "/cdr-researcher-census/researchers/johannes-lund-jensen-a5053239/"
 layout: "researcher"
 hiddenInHomeList: true

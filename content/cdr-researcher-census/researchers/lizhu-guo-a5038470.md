@@ -1,7 +1,7 @@
 ---
 title: "Lizhu Guo"
 description: "Lizhu Guo is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.463788
+date: 2026-07-11T12:53:40.675441
 url: "/cdr-researcher-census/researchers/lizhu-guo-a5038470/"
 layout: "researcher"
 hiddenInHomeList: true

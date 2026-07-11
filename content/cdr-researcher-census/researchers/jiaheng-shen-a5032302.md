@@ -1,7 +1,7 @@
 ---
 title: "Jiaheng Shen"
 description: "Jiaheng Shen is a Mid-career Soil Carbon researcher at Peking University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.271411
+date: 2026-07-11T12:53:41.505613
 url: "/cdr-researcher-census/researchers/jiaheng-shen-a5032302/"
 layout: "researcher"
 hiddenInHomeList: true

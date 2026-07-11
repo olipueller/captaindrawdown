@@ -1,7 +1,7 @@
 ---
 title: "Diāna Stamberga"
 description: "Diāna Stamberga is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.559157
+date: 2026-07-11T12:53:40.775661
 url: "/cdr-researcher-census/researchers/diana-stamberga-a5070443/"
 layout: "researcher"
 hiddenInHomeList: true

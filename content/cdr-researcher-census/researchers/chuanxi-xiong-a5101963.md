@@ -1,7 +1,7 @@
 ---
 title: "Chuanxi Xiong"
 description: "Chuanxi Xiong is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.383501
+date: 2026-07-11T12:53:41.590279
 url: "/cdr-researcher-census/researchers/chuanxi-xiong-a5101963/"
 layout: "researcher"
 hiddenInHomeList: true

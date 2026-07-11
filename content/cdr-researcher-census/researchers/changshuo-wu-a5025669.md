@@ -1,7 +1,7 @@
 ---
 title: "Changshuo Wu"
 description: "Changshuo Wu is an Early-career Biochar researcher at Southeast University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.141941
+date: 2026-07-11T12:53:41.386144
 url: "/cdr-researcher-census/researchers/changshuo-wu-a5025669/"
 layout: "researcher"
 hiddenInHomeList: true

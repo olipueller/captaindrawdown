@@ -1,7 +1,7 @@
 ---
 title: "Emily Polk"
 description: "Emily Polk is a Mid-career General CDR researcher at Stanford University in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.697176
+date: 2026-07-11T12:53:40.955373
 url: "/cdr-researcher-census/researchers/emily-polk-a5082048/"
 layout: "researcher"
 hiddenInHomeList: true

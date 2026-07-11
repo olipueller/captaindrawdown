@@ -1,7 +1,7 @@
 ---
 title: "Zhiwei Mao"
 description: "Zhiwei Mao is a Mid-career General CDR researcher at Oregon State University in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.415024
+date: 2026-07-11T12:53:41.621314
 url: "/cdr-researcher-census/researchers/zhiwei-mao-a5101606/"
 layout: "researcher"
 hiddenInHomeList: true

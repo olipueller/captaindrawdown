@@ -1,7 +1,7 @@
 ---
 title: "Shuaishuai Chang"
 description: "Shuaishuai Chang is a Mid-career Biochar researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.000429
+date: 2026-07-11T12:53:41.281884
 url: "/cdr-researcher-census/researchers/shuaishuai-chang-a5070303/"
 layout: "researcher"
 hiddenInHomeList: true

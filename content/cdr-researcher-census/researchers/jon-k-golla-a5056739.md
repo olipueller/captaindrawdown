@@ -1,7 +1,7 @@
 ---
 title: "Jon K. Golla"
 description: "Jon K. Golla is a Mid-career Enhanced Weathering researcher at University of Illinois Urbana-Champaign in US. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.444510
+date: 2026-07-11T12:53:41.650491
 url: "/cdr-researcher-census/researchers/jon-k-golla-a5056739/"
 layout: "researcher"
 hiddenInHomeList: true

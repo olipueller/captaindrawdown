@@ -1,7 +1,7 @@
 ---
 title: "Terry T. Isson"
 description: "Terry T. Isson is a Senior Enhanced Weathering researcher at University of Waikato in NZ. With 59 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.911801
+date: 2026-07-11T12:53:40.125758
 url: "/cdr-researcher-census/researchers/terry-t-isson-a5005970/"
 layout: "researcher"
 hiddenInHomeList: true

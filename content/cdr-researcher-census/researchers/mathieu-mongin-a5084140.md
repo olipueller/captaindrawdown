@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Mongin"
 description: "Mathieu Mongin is a Senior Ocean CDR researcher at CSIRO in AU. With 72 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.928408
+date: 2026-07-11T12:53:40.144671
 url: "/cdr-researcher-census/researchers/mathieu-mongin-a5084140/"
 layout: "researcher"
 hiddenInHomeList: true

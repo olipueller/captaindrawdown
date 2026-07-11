@@ -1,7 +1,7 @@
 ---
 title: "Wai Nyein Aye"
 description: "Wai Nyein Aye is a Mid-career Soil Carbon researcher at Ministry of Natural Resources and Environmental Conservation in MM. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.696348
+date: 2026-07-11T12:53:40.954382
 url: "/cdr-researcher-census/researchers/wai-nyein-aye-a5000423/"
 layout: "researcher"
 hiddenInHomeList: true

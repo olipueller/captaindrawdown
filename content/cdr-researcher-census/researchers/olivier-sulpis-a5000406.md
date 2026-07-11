@@ -1,7 +1,7 @@
 ---
 title: "Olivier Sulpis"
 description: "Olivier Sulpis is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 66 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.121815
+date: 2026-07-11T12:53:40.345821
 url: "/cdr-researcher-census/researchers/olivier-sulpis-a5000406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,24 +45,27 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 11 |
 | Citations | 717 |
 | Publications | 66 |
-| CDR Focus | 6.1% |
+| CDR Focus | 7.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Advancing Monitoring Reporting and Verification for marine Carbon Dioxide Removal** (2026)
+1. **EMB Future Science Brief: Monitoring, Reporting and Verification for marine Carbon Dioxide Removal** (2025)
    0 citations · General CDR
 
-2. **RADIv2: an adaptable and versatile diagenetic model for coastal and open-ocean sediments** (2026)
-   0 citations · Ocean CDR
-
-3. **RADIv2, an Adaptable and Versatile Diagenetic Model for Coastal and Open-Ocean Sediments** (2025)
-   0 citations · Ocean CDR
-
-4. **Comment on bg-2022-126** (2022)
+2. **Advancing Monitoring Reporting and Verification for marine Carbon Dioxide Removal** (2026)
    0 citations · General CDR
 
-5. **Progress towards small-scale field trials of coastal enhanced weathering of olivine** (2021)
+3. **RADIv2: an adaptable and versatile diagenetic model for coastal and open-ocean sediments** (2026)
+   0 citations · Ocean CDR
+
+4. **RADIv2, an Adaptable and Versatile Diagenetic Model for Coastal and Open-Ocean Sediments** (2025)
+   0 citations · Ocean CDR
+
+5. **Comment on bg-2022-126** (2022)
+   0 citations · General CDR
+
+6. **Progress towards small-scale field trials of coastal enhanced weathering of olivine** (2021)
    0 citations · Enhanced Weathering
 
 ## External Profiles

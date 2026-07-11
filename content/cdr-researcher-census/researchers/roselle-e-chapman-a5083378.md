@@ -1,7 +1,7 @@
 ---
 title: "Roselle E. Chapman"
 description: "Roselle E. Chapman is a Senior Soil Carbon researcher at Earth Trust in GB. With 12 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.869454
+date: 2026-07-11T12:53:40.077779
 url: "/cdr-researcher-census/researchers/roselle-e-chapman-a5083378/"
 layout: "researcher"
 hiddenInHomeList: true

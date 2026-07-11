@@ -1,7 +1,7 @@
 ---
 title: "Haftom Weldekidan"
 description: "Haftom Weldekidan is a Senior General CDR researcher at CSIRO in AU. With 33 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.875625
+date: 2026-07-11T12:53:40.084743
 url: "/cdr-researcher-census/researchers/haftom-weldekidan-a5073770/"
 layout: "researcher"
 hiddenInHomeList: true

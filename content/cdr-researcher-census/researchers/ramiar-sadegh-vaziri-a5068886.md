@@ -1,7 +1,7 @@
 ---
 title: "Ramiar Sadegh-Vaziri"
 description: "Ramiar Sadegh-Vaziri is a Mid-career General CDR researcher at KTH Royal Institute of Technology in SE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.076354
+date: 2026-07-11T12:53:41.324566
 url: "/cdr-researcher-census/researchers/ramiar-sadegh-vaziri-a5068886/"
 layout: "researcher"
 hiddenInHomeList: true

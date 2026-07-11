@@ -1,7 +1,7 @@
 ---
 title: "Behrouz Gholamahmadi"
 description: "Behrouz Gholamahmadi is a Mid-career Biochar researcher at Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa in PT. With 34 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.388965
+date: 2026-07-11T12:53:41.595065
 url: "/cdr-researcher-census/researchers/behrouz-gholamahmadi-a5079131/"
 layout: "researcher"
 hiddenInHomeList: true

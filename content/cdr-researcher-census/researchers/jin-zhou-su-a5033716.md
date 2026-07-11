@@ -1,7 +1,7 @@
 ---
 title: "Jin-Zhou Su"
 description: "Jin-Zhou Su is a Mid-career Soil Carbon researcher at Southwest Forestry University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.173216
+date: 2026-07-11T12:53:41.414273
 url: "/cdr-researcher-census/researchers/jin-zhou-su-a5033716/"
 layout: "researcher"
 hiddenInHomeList: true

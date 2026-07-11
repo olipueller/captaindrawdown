@@ -1,7 +1,7 @@
 ---
 title: "Shraboni Mukherjee"
 description: "Shraboni Mukherjee is a Mid-career Biochar researcher at National Institute of Technology Durgapur in IN. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.147948
+date: 2026-07-11T12:53:40.371282
 url: "/cdr-researcher-census/researchers/shraboni-mukherjee-a5110321/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hussnain Mukhtar"
 description: "Hussnain Mukhtar is a Mid-career Soil Carbon researcher at National Taiwan University in TW. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.976811
+date: 2026-07-11T12:53:40.196071
 url: "/cdr-researcher-census/researchers/hussnain-mukhtar-a5062578/"
 layout: "researcher"
 hiddenInHomeList: true

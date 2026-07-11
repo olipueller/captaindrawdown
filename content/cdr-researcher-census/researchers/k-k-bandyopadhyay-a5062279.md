@@ -1,7 +1,7 @@
 ---
 title: "K. K. Bandyopadhyay"
 description: "K. K. Bandyopadhyay is a Senior Soil Carbon researcher at Bidhan Chandra Krishi Viswa Vidyalaya in IN. With 112 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.810406
+date: 2026-07-11T12:53:40.007043
 url: "/cdr-researcher-census/researchers/k-k-bandyopadhyay-a5062279/"
 layout: "researcher"
 hiddenInHomeList: true

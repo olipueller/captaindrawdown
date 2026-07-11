@@ -1,7 +1,7 @@
 ---
 title: "Maria Heiling"
 description: "Maria Heiling is a Senior Soil Carbon researcher at International Atomic Energy Agency in AT. With 79 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.264907
+date: 2026-07-11T12:53:40.466696
 url: "/cdr-researcher-census/researchers/maria-heiling-a5051558/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Johannes Förster"
 description: "Johannes Förster is a Senior General CDR researcher at Helmholtz-Zentrum für Umweltforschung UFZ in DE. With 47 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.991068
+date: 2026-07-11T12:53:40.210946
 url: "/cdr-researcher-census/researchers/johannes-forster-a5008458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 16 |
 | Citations | 1,148 |
 | Publications | 47 |
-| CDR Focus | 10.6% |
+| CDR Focus | 14.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,13 +62,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
    1 citations
 
-5. **Bisher mehr Hürden als Chancen für bio-CDR: Berichte aus Stakeholder-Workshops zu biomassebasiertem Carbon Dioxide Removal (CDR)** (2025)
-   0 citations · BECCS
-
-6. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+5. **Hurdles still outweigh opportunities for bioCDR: Reports from stakeholder workshops on biomass-based carbon dioxide removal (CDR)** (2025)
    0 citations · General CDR
 
-7. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
+6. **Berichte aus Stakeholder-Workshops zu biomassebasiertem Carbon Dioxide Removal (CDR)** (2025)
+   0 citations · General CDR
+
+7. **Bisher mehr Hürden als Chancen für bio-CDR: Berichte aus Stakeholder-Workshops zu biomassebasiertem Carbon Dioxide Removal (CDR)** (2025)
+   0 citations · BECCS
+
+8. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+   0 citations · General CDR
+
+9. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
    0 citations
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Xiaozeng Miao"
 description: "Xiaozeng Miao is a Mid-career Biochar researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.486569
+date: 2026-07-11T12:53:40.699904
 url: "/cdr-researcher-census/researchers/xiaozeng-miao-a5101098/"
 layout: "researcher"
 hiddenInHomeList: true

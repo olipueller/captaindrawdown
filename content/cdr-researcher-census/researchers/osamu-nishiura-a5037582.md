@@ -1,7 +1,7 @@
 ---
 title: "Osamu Nishiura"
 description: "Osamu Nishiura is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.282412
+date: 2026-07-11T12:53:41.514910
 url: "/cdr-researcher-census/researchers/osamu-nishiura-a5037582/"
 layout: "researcher"
 hiddenInHomeList: true

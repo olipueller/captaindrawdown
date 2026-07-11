@@ -1,7 +1,7 @@
 ---
 title: "Huaiting Liu"
 description: "Huaiting Liu is a Mid-career Biochar researcher at Chengdu Research Base of Giant Panda Breeding in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.711779
+date: 2026-07-11T12:53:40.975283
 url: "/cdr-researcher-census/researchers/huaiting-liu-a5030963/"
 layout: "researcher"
 hiddenInHomeList: true

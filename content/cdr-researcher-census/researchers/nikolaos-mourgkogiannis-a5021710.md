@@ -1,7 +1,7 @@
 ---
 title: "Nikolaos Mourgkogiannis"
 description: "Nikolaos Mourgkogiannis is a Mid-career Biochar researcher at University of Patras in GR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.243102
+date: 2026-07-11T12:53:41.479486
 url: "/cdr-researcher-census/researchers/nikolaos-mourgkogiannis-a5021710/"
 layout: "researcher"
 hiddenInHomeList: true

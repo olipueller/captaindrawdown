@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Wei"
 description: "Yuxin Wei is a Mid-career General CDR researcher at Xinjiang Agricultural University in CN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.214439
+date: 2026-07-11T12:53:41.452785
 url: "/cdr-researcher-census/researchers/yuxin-wei-a5101306/"
 layout: "researcher"
 hiddenInHomeList: true

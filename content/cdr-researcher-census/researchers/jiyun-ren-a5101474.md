@@ -1,7 +1,7 @@
 ---
 title: "Jiyun Ren"
 description: "Jiyun Ren is a Mid-career Biochar researcher at Northwestern Polytechnical University in CN. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.764192
+date: 2026-07-11T12:53:41.097572
 url: "/cdr-researcher-census/researchers/jiyun-ren-a5101474/"
 layout: "researcher"
 hiddenInHomeList: true

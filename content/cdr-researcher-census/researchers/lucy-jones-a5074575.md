@@ -1,7 +1,7 @@
 ---
 title: "Lucy Jones"
 description: "Lucy Jones is a Senior General CDR researcher at Nano Carbon (Poland) in PL. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.248808
+date: 2026-07-11T12:53:41.484508
 url: "/cdr-researcher-census/researchers/lucy-jones-a5074575/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,15 +45,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 128 |
 | Publications | 25 |
-| CDR Focus | 8.0% |
+| CDR Focus | 24.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **A novel soil porewater extraction technique for enhanced rock weathering products: SATuration–Centrifugation** (2026)
+1. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
+   2 citations · Enhanced Weathering
+
+2. **Evaluating Total Cation Accounting (TCA) as an MRV Approach for Enhanced Rock Weathering - Insights from a trial in Ontario, Canada** (2025)
+   1 citations · Enhanced Weathering
+
+3. **A novel soil porewater extraction technique for enhanced rock weathering products: SATuration–Centrifugation** (2026)
    0 citations · Enhanced Weathering
 
-2. **A Novel Soil Porewater Extraction Technique for Enhanced Rock Weathering Products: SATuration - Centrifugation** (2026)
+4. **A Novel Soil Porewater Extraction Technique for Enhanced Rock Weathering Products: SATuration - Centrifugation** (2026)
+   0 citations · Enhanced Weathering
+
+5. **Evaluating Total Cation Accounting (TCA) as an MRV Approach for Enhanced Rock Weathering - Insights from a trial in Ontario, Canada** (2025)
+   0 citations · Enhanced Weathering
+
+6. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
+   0 citations
+
+7. **Application of an Innovative Centrifuge-Based Soil Pore Water Sampling Method in Basalt Enhanced Weathering Field Trials.** (2024)
    0 citations · Enhanced Weathering
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Yuntao Wu"
 description: "Yuntao Wu is a Mid-career Soil Carbon researcher at Lishui University in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.157365
+date: 2026-07-11T12:53:40.381059
 url: "/cdr-researcher-census/researchers/yuntao-wu-a5101760/"
 layout: "researcher"
 hiddenInHomeList: true

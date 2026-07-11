@@ -1,7 +1,7 @@
 ---
 title: "Souradeep Gupta"
 description: "Souradeep Gupta is a Senior Biochar researcher at Indian Institute of Science in IN. With 36 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.803811
+date: 2026-07-11T12:53:39.998709
 url: "/cdr-researcher-census/researchers/souradeep-gupta-a5061473/"
 layout: "researcher"
 hiddenInHomeList: true

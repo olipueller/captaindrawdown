@@ -1,7 +1,7 @@
 ---
 title: "Martin Wiesmeier"
 description: "Martin Wiesmeier is an Eminent Soil Carbon researcher at Technical University of Munich in DE. With 180 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.779891
+date: 2026-07-11T12:53:39.966731
 url: "/cdr-researcher-census/researchers/martin-wiesmeier-a5059745/"
 layout: "researcher"
 hiddenInHomeList: true

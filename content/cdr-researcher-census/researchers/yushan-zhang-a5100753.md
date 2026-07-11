@@ -1,7 +1,7 @@
 ---
 title: "Yushan Zhang"
 description: "Yushan Zhang is a Mid-career Biochar researcher at China Earthquake Disaster Prevention Centre in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.768953
+date: 2026-07-11T12:53:41.102786
 url: "/cdr-researcher-census/researchers/yushan-zhang-a5100753/"
 layout: "researcher"
 hiddenInHomeList: true

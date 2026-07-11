@@ -1,7 +1,7 @@
 ---
 title: "Suting Qi"
 description: "Suting Qi is a Mid-career Soil Carbon researcher at Hohai University in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.353261
+date: 2026-07-11T12:53:40.557668
 url: "/cdr-researcher-census/researchers/suting-qi-a5112679/"
 layout: "researcher"
 hiddenInHomeList: true

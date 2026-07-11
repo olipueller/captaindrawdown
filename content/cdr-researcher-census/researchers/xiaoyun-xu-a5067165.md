@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyun Xu"
 description: "Xiaoyun Xu is an Eminent Biochar researcher at Shanghai Jiao Tong University in CN. With 161 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.777681
+date: 2026-07-11T12:53:39.962827
 url: "/cdr-researcher-census/researchers/xiaoyun-xu-a5067165/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 56 |
 | Citations | 12,003 |
 | Publications | 161 |
-| CDR Focus | 6.2% |
-| Trajectory | Declining |
+| CDR Focus | 6.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -77,8 +77,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 9. **Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material** (2023)
    18 citations · Biochar
 
-10. **Converting Coastal Silt into Subgrade Soil with Biochar as Reinforcing Agent, Co2 Adsorbent, and Carbon Sequestrating Material** (2023)
-   0 citations · Biochar
+10. **Beyond universal application: dissecting the differential amelioration and carbon sequestration performance of biochar in chloride-, sulfate-, and soda saline-alkali soils** (2026)
+   1 citations · Biochar
 
 ## External Profiles
 

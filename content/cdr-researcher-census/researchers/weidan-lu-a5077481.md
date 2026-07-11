@@ -1,7 +1,7 @@
 ---
 title: "Weidan Lu"
 description: "Weidan Lu is an Early-career Soil Carbon researcher at Xinjiang Academy of Agricultural Sciences in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.559937
+date: 2026-07-11T12:53:40.776364
 url: "/cdr-researcher-census/researchers/weidan-lu-a5077481/"
 layout: "researcher"
 hiddenInHomeList: true

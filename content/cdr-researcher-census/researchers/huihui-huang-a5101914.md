@@ -1,7 +1,7 @@
 ---
 title: "Huihui Huang"
 description: "Huihui Huang is a Senior General CDR researcher at Harvard University in US. With 38 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.993131
+date: 2026-07-11T12:53:40.213172
 url: "/cdr-researcher-census/researchers/huihui-huang-a5101914/"
 layout: "researcher"
 hiddenInHomeList: true

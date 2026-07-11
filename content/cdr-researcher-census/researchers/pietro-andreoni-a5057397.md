@@ -1,7 +1,7 @@
 ---
 title: "Pietro Andreoni"
 description: "Pietro Andreoni is a Mid-career DAC researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.153391
+date: 2026-07-11T12:53:41.395371
 url: "/cdr-researcher-census/researchers/pietro-andreoni-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haotian Wu"
 description: "Haotian Wu is a Mid-career Soil Carbon researcher at Shanghai Ocean University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.386263
+date: 2026-07-11T12:53:40.591519
 url: "/cdr-researcher-census/researchers/haotian-wu-a5060227/"
 layout: "researcher"
 hiddenInHomeList: true

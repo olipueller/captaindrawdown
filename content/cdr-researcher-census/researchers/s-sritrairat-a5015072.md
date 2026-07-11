@@ -1,7 +1,7 @@
 ---
 title: "S. Sritrairat"
 description: "S. Sritrairat is a Senior Soil Carbon researcher at New School in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.886967
+date: 2026-07-11T12:53:41.228130
 url: "/cdr-researcher-census/researchers/s-sritrairat-a5015072/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kylie Maguire"
 description: "Kylie Maguire is a Mid-career Ocean CDR researcher at CSIRO Oceans and Atmosphere in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.719815
+date: 2026-07-11T12:53:40.994019
 url: "/cdr-researcher-census/researchers/kylie-maguire-a5038378/"
 layout: "researcher"
 hiddenInHomeList: true

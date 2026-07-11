@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Eleryan"
 description: "Ahmed Eleryan is a Mid-career Biochar researcher at National Institute of Oceanography and Fisheries in EG. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.305337
+date: 2026-07-11T12:53:40.507809
 url: "/cdr-researcher-census/researchers/ahmed-eleryan-a5027288/"
 layout: "researcher"
 hiddenInHomeList: true

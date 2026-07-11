@@ -1,7 +1,7 @@
 ---
 title: "Rashmita Das"
 description: "Rashmita Das is a Mid-career Biochar researcher at Bhabha Atomic Research Centre in IN. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.199316
+date: 2026-07-11T12:53:41.438753
 url: "/cdr-researcher-census/researchers/rashmita-das-a5102371/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hussien A. El Sayed"
 description: "Hussien A. El Sayed is a Mid-career General CDR researcher at Egyptian Petroleum Research Institute in EG. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.579469
+date: 2026-07-11T12:53:40.796216
 url: "/cdr-researcher-census/researchers/hussien-a-el-sayed-a5067613/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xinjing Qu"
 description: "Xinjing Qu is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.445866
+date: 2026-07-11T12:53:40.654879
 url: "/cdr-researcher-census/researchers/xinjing-qu-a5112482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 359 |
 | Publications | 14 |
-| CDR Focus | 7.1% |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Positive effects of species mixing on biodiversity of understory plant communities and soil health in forest plantations** (2025)
    41 citations · Soil Carbon
+
+2. **Positive effects of species mixing on soil carbon sequestration and water retention in global forest plantations** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sophia A. Zamaria"
 description: "Sophia A. Zamaria is a Mid-career Soil Carbon researcher at University of Toronto in CA. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.223384
+date: 2026-07-11T12:53:41.461131
 url: "/cdr-researcher-census/researchers/sophia-a-zamaria-a5088113/"
 layout: "researcher"
 hiddenInHomeList: true

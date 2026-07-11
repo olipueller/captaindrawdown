@@ -1,7 +1,7 @@
 ---
 title: "Baoliang Niu"
 description: "Baoliang Niu is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.253952
+date: 2026-07-11T12:53:41.489159
 url: "/cdr-researcher-census/researchers/baoliang-niu-a5036987/"
 layout: "researcher"
 hiddenInHomeList: true

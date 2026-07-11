@@ -1,7 +1,7 @@
 ---
 title: "Harekrishna Das"
 description: "Harekrishna Das is a Mid-career Soil Carbon researcher at Directorate of Health in IS. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.408575
+date: 2026-07-11T12:53:41.614651
 url: "/cdr-researcher-census/researchers/harekrishna-das-a5036937/"
 layout: "researcher"
 hiddenInHomeList: true

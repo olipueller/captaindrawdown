@@ -1,7 +1,7 @@
 ---
 title: "Slipa Kanungo"
 description: "Slipa Kanungo is a Senior General CDR researcher at University of Bern in CH. With 12 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.451895
+date: 2026-07-11T12:53:41.657800
 url: "/cdr-researcher-census/researchers/slipa-kanungo-a5022917/"
 layout: "researcher"
 hiddenInHomeList: true

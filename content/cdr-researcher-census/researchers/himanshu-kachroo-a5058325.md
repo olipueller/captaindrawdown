@@ -1,7 +1,7 @@
 ---
 title: "Himanshu Kachroo"
 description: "Himanshu Kachroo is an Early-career General CDR researcher at Helmholtz-Zentrum Dresden-Rossendorf in DE. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.270230
+date: 2026-07-11T12:53:41.504502
 url: "/cdr-researcher-census/researchers/himanshu-kachroo-a5058325/"
 layout: "researcher"
 hiddenInHomeList: true

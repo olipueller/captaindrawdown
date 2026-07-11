@@ -1,7 +1,7 @@
 ---
 title: "Thiago Cândido dos Santos"
 description: "Thiago Cândido dos Santos is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.760015
+date: 2026-07-11T12:53:41.092737
 url: "/cdr-researcher-census/researchers/thiago-candido-dos-santos-a5051219/"
 layout: "researcher"
 hiddenInHomeList: true

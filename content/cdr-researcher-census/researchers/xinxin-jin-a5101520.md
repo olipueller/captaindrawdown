@@ -1,7 +1,7 @@
 ---
 title: "Xinxin Jin"
 description: "Xinxin Jin is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 98 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.852654
+date: 2026-07-11T12:53:40.057160
 url: "/cdr-researcher-census/researchers/xinxin-jin-a5101520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 27 |
 | Citations | 2,784 |
 | Publications | 98 |
-| CDR Focus | 10.2% |
+| CDR Focus | 11.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -77,7 +77,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Quantifying Soil Organic Carbon Sequestration Potentials in Cultivated Land Ecosystems in Northeast China** (2022)
    1 citations · Soil Carbon
 
-10. **Long-term fertilization and PFM changed the accumulation of stalk-derived POM in soil aggregates under field conditions** (2023)
+10. **Assessing soil organic carbon sequestration capacity and its multi-ecosystem driving mechanisms in Northeast China** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

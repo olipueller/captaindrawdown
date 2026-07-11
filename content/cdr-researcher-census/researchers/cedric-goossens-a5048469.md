@@ -1,7 +1,7 @@
 ---
 title: "Cedric Goossens"
 description: "Cedric Goossens is a Mid-career Ocean CDR researcher at University of Liège in BE. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.369972
+date: 2026-07-11T12:53:41.577807
 url: "/cdr-researcher-census/researchers/cedric-goossens-a5048469/"
 layout: "researcher"
 hiddenInHomeList: true

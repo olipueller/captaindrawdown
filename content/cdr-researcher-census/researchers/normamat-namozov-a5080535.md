@@ -1,7 +1,7 @@
 ---
 title: "Normamat Namozov"
 description: "Normamat Namozov is a Mid-career Soil Carbon researcher at Tashkent State Agrarian University in UZ. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.769911
+date: 2026-07-11T12:53:41.103918
 url: "/cdr-researcher-census/researchers/normamat-namozov-a5080535/"
 layout: "researcher"
 hiddenInHomeList: true

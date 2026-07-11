@@ -1,7 +1,7 @@
 ---
 title: "Soumen Mandal"
 description: "Soumen Mandal is a Senior Biochar researcher at Hanyang University in KR. With 45 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.984991
+date: 2026-07-11T12:53:40.204370
 url: "/cdr-researcher-census/researchers/soumen-mandal-a5066774/"
 layout: "researcher"
 hiddenInHomeList: true

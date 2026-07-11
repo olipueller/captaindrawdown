@@ -1,7 +1,7 @@
 ---
 title: "Hongtao Jia"
 description: "Hongtao Jia is a Senior Soil Carbon researcher at College of Grassland and Environment Science, Xinjiang Agricultural University in CN. With 81 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.899500
+date: 2026-07-11T12:53:40.112599
 url: "/cdr-researcher-census/researchers/hongtao-jia-a5063286/"
 layout: "researcher"
 hiddenInHomeList: true

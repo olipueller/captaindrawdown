@@ -1,7 +1,7 @@
 ---
 title: "Mojtaba Fakhraee"
 description: "Mojtaba Fakhraee is a Senior Ocean CDR researcher at University of Connecticut in US. With 70 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.949992
+date: 2026-07-11T12:53:40.167347
 url: "/cdr-researcher-census/researchers/mojtaba-fakhraee-a5051417/"
 layout: "researcher"
 hiddenInHomeList: true

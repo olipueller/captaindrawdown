@@ -1,7 +1,7 @@
 ---
 title: "Christoph Lindenberger"
 description: "Christoph Lindenberger is a Mid-career General CDR researcher. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.317176
+date: 2026-07-11T12:53:40.519829
 url: "/cdr-researcher-census/researchers/christoph-lindenberger-a5016104/"
 layout: "researcher"
 hiddenInHomeList: true

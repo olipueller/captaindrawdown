@@ -1,7 +1,7 @@
 ---
 title: "Sumit Sow"
 description: "Sumit Sow is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 83 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.264133
+date: 2026-07-11T12:53:40.465941
 url: "/cdr-researcher-census/researchers/sumit-sow-a5020936/"
 layout: "researcher"
 hiddenInHomeList: true

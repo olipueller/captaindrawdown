@@ -1,7 +1,7 @@
 ---
 title: "Yasmeen Saleem"
 description: "Yasmeen Saleem is a Mid-career General CDR researcher at Florida Department of Citrus in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.259683
+date: 2026-07-11T12:53:40.461453
 url: "/cdr-researcher-census/researchers/yasmeen-saleem-a5058643/"
 layout: "researcher"
 hiddenInHomeList: true

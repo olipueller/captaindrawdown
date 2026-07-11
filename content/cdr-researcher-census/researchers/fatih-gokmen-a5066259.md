@@ -1,7 +1,7 @@
 ---
 title: "Fatih Gökmen"
 description: "Fatih Gökmen is a Mid-career Biochar researcher at Iğdır Üniversitesi in TR. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.214239
+date: 2026-07-11T12:53:41.452538
 url: "/cdr-researcher-census/researchers/fatih-gokmen-a5066259/"
 layout: "researcher"
 hiddenInHomeList: true

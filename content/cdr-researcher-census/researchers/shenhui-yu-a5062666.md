@@ -1,7 +1,7 @@
 ---
 title: "Shenhui Yu"
 description: "Shenhui Yu is a Senior Soil Carbon researcher at State Key Laboratory of Chemical Engineering in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.712957
+date: 2026-07-11T12:53:40.980497
 url: "/cdr-researcher-census/researchers/shenhui-yu-a5062666/"
 layout: "researcher"
 hiddenInHomeList: true

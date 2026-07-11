@@ -1,7 +1,7 @@
 ---
 title: "Yubin Hu"
 description: "Yubin Hu is a Mid-career Ocean CDR researcher at Shandong University in CN. With 68 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.091746
+date: 2026-07-11T12:53:40.314934
 url: "/cdr-researcher-census/researchers/yubin-hu-a5040781/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lanjia Pan"
 description: "Lanjia Pan is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.887528
+date: 2026-07-11T12:53:40.099324
 url: "/cdr-researcher-census/researchers/lanjia-pan-a5010121/"
 layout: "researcher"
 hiddenInHomeList: true

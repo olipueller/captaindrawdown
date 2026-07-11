@@ -1,7 +1,7 @@
 ---
 title: "João Augusto Coblinski"
 description: "João Augusto Coblinski is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.400471
+date: 2026-07-11T12:53:40.606498
 url: "/cdr-researcher-census/researchers/joao-augusto-coblinski-a5021530/"
 layout: "researcher"
 hiddenInHomeList: true

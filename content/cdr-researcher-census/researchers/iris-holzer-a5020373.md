@@ -1,7 +1,7 @@
 ---
 title: "Iris Holzer"
 description: "Iris Holzer is a Mid-career Soil Carbon researcher at University of California, Santa Barbara in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.890417
+date: 2026-07-11T12:53:41.230262
 url: "/cdr-researcher-census/researchers/iris-holzer-a5020373/"
 layout: "researcher"
 hiddenInHomeList: true

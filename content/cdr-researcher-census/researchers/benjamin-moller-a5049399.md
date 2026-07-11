@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Möller"
 description: "Benjamin Möller is a Mid-career General CDR researcher at Fraunhofer Institute for Structural Durability and System Reliability in DE. With 47 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.038626
+date: 2026-07-11T12:53:40.260816
 url: "/cdr-researcher-census/researchers/benjamin-moller-a5049399/"
 layout: "researcher"
 hiddenInHomeList: true

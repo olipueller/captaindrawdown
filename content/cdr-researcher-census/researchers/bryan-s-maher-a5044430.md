@@ -1,7 +1,7 @@
 ---
 title: "Bryan S. Maher"
 description: "Bryan S. Maher is a Senior General CDR researcher at Carnegie Mellon University in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.167339
+date: 2026-07-11T12:53:41.408728
 url: "/cdr-researcher-census/researchers/bryan-s-maher-a5044430/"
 layout: "researcher"
 hiddenInHomeList: true

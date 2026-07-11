@@ -1,7 +1,7 @@
 ---
 title: "Hongxiang Zhao"
 description: "Hongxiang Zhao is a Senior Soil Carbon researcher at Jiaxing University in CN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.412054
+date: 2026-07-11T12:53:40.618674
 url: "/cdr-researcher-census/researchers/hongxiang-zhao-a5049724/"
 layout: "researcher"
 hiddenInHomeList: true

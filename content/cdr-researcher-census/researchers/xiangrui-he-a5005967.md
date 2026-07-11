@@ -1,7 +1,7 @@
 ---
 title: "Xiangrui He"
 description: "Xiangrui He is a Mid-career General CDR researcher at Huazhong University of Science and Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.335442
+date: 2026-07-11T12:53:40.538795
 url: "/cdr-researcher-census/researchers/xiangrui-he-a5005967/"
 layout: "researcher"
 hiddenInHomeList: true

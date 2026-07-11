@@ -1,7 +1,7 @@
 ---
 title: "Duy Anh Khuong"
 description: "Duy Anh Khuong is a Mid-career Biochar researcher at Kyushu Institute of Technology in JP. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.293169
+date: 2026-07-11T12:53:40.495633
 url: "/cdr-researcher-census/researchers/duy-anh-khuong-a5069441/"
 layout: "researcher"
 hiddenInHomeList: true

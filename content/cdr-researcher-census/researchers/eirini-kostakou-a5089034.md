@@ -1,7 +1,7 @@
 ---
 title: "Eirini Kostakou"
 description: "Eirini Kostakou is a Mid-career General CDR researcher at Sotiria General Hospital in GR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.411009
+date: 2026-07-11T12:53:40.617666
 url: "/cdr-researcher-census/researchers/eirini-kostakou-a5089034/"
 layout: "researcher"
 hiddenInHomeList: true

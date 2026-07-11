@@ -1,7 +1,7 @@
 ---
 title: "Elisa López‐Capél"
 description: "Elisa López‐Capél is a Senior Soil Carbon researcher at Newcastle University in GB. With 62 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.800850
+date: 2026-07-11T12:53:39.995407
 url: "/cdr-researcher-census/researchers/elisa-lopezcapel-a5015924/"
 layout: "researcher"
 hiddenInHomeList: true

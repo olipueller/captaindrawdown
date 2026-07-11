@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqian Song"
 description: "Xiaoqian Song is a Mid-career Soil Carbon researcher at Northeast Forestry University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.388318
+date: 2026-07-11T12:53:40.593654
 url: "/cdr-researcher-census/researchers/xiaoqian-song-a5050448/"
 layout: "researcher"
 hiddenInHomeList: true

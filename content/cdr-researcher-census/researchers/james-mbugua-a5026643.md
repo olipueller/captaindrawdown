@@ -1,7 +1,7 @@
 ---
 title: "James Mbugua"
 description: "James Mbugua is a Mid-career Biochar researcher at Tsuru University in JP. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.628480
+date: 2026-07-11T12:53:40.848043
 url: "/cdr-researcher-census/researchers/james-mbugua-a5026643/"
 layout: "researcher"
 hiddenInHomeList: true

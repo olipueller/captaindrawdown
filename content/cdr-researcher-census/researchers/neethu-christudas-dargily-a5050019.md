@@ -1,7 +1,7 @@
 ---
 title: "Neethu Christudas Dargily"
 description: "Neethu Christudas Dargily is a Mid-career General CDR researcher at Indian Institute of Science Education and Research Pune in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.795280
+date: 2026-07-11T12:53:41.166122
 url: "/cdr-researcher-census/researchers/neethu-christudas-dargily-a5050019/"
 layout: "researcher"
 hiddenInHomeList: true

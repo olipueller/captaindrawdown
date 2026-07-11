@@ -1,7 +1,7 @@
 ---
 title: "Beatriz E. Marín-Castro"
 description: "Beatriz E. Marín-Castro is a Mid-career Soil Carbon researcher at Universidad Autónoma de la Ciudad de México in MX. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.707882
+date: 2026-07-11T12:53:40.971202
 url: "/cdr-researcher-census/researchers/beatriz-e-marin-castro-a5060780/"
 layout: "researcher"
 hiddenInHomeList: true

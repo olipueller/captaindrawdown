@@ -1,7 +1,7 @@
 ---
 title: "Hongbo Yang"
 description: "Hongbo Yang is a Senior Soil Carbon researcher at Smithsonian Conservation Biology Institute in US. With 116 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.845227
+date: 2026-07-11T12:53:40.049365
 url: "/cdr-researcher-census/researchers/hongbo-yang-a5086334/"
 layout: "researcher"
 hiddenInHomeList: true

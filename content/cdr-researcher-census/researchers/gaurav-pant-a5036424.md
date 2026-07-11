@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Pant"
 description: "Gaurav Pant is a Mid-career General CDR researcher at Gurukul Kangri Vishwavidyalaya in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.043862
+date: 2026-07-11T12:53:41.302519
 url: "/cdr-researcher-census/researchers/gaurav-pant-a5036424/"
 layout: "researcher"
 hiddenInHomeList: true

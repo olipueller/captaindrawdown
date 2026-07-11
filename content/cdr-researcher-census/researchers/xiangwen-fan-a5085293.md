@@ -1,7 +1,7 @@
 ---
 title: "Xiangwen Fan"
 description: "Xiangwen Fan is a Mid-career General CDR researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.494966
+date: 2026-07-11T12:53:40.708848
 url: "/cdr-researcher-census/researchers/xiangwen-fan-a5085293/"
 layout: "researcher"
 hiddenInHomeList: true

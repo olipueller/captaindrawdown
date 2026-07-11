@@ -1,7 +1,7 @@
 ---
 title: "Tong Qiu"
 description: "Tong Qiu is a Mid-career Biochar researcher at Northeastern University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.151122
+date: 2026-07-11T12:53:40.374618
 url: "/cdr-researcher-census/researchers/tong-qiu-a5037697/"
 layout: "researcher"
 hiddenInHomeList: true

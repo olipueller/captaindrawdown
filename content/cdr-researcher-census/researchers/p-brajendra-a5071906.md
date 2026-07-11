@@ -1,7 +1,7 @@
 ---
 title: "P. Brajendra"
 description: "P. Brajendra is a Mid-career Soil Carbon researcher at Indian Institute of Rice Research in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.766199
+date: 2026-07-11T12:53:41.099856
 url: "/cdr-researcher-census/researchers/p-brajendra-a5071906/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Valentina Stampi-Bombelli"
 description: "Valentina Stampi-Bombelli is a Mid-career General CDR researcher at ETH Zurich in CH. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.606465
+date: 2026-07-11T12:53:40.825089
 url: "/cdr-researcher-census/researchers/valentina-stampi-bombelli-a5074823/"
 layout: "researcher"
 hiddenInHomeList: true

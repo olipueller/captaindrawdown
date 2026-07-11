@@ -1,7 +1,7 @@
 ---
 title: "Pestheruwe Liyanaralalage Iroshaka Gregory Marcelus Cooray"
 description: "Pestheruwe Liyanaralalage Iroshaka Gregory Marcelus Cooray is a Mid-career Soil Carbon researcher at University of the Sunshine Coast in AU. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.252442
+date: 2026-07-11T12:53:41.487892
 url: "/cdr-researcher-census/researchers/pestheruwe-liyanaralalage-iroshaka-gregory-marcelu-a5001359/"
 layout: "researcher"
 hiddenInHomeList: true

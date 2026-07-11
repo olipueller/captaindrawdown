@@ -1,7 +1,7 @@
 ---
 title: "Juan Luis Martín-Ortega"
 description: "Juan Luis Martín-Ortega is an Early-career General CDR researcher at University of Sousse in TN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.256662
+date: 2026-07-11T12:53:41.491538
 url: "/cdr-researcher-census/researchers/juan-luis-martin-ortega-a5035926/"
 layout: "researcher"
 hiddenInHomeList: true

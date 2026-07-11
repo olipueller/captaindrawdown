@@ -1,7 +1,7 @@
 ---
 title: "Yuning He"
 description: "Yuning He is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.889424
+date: 2026-07-11T12:53:41.229574
 url: "/cdr-researcher-census/researchers/yuning-he-a5037452/"
 layout: "researcher"
 hiddenInHomeList: true

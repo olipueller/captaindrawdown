@@ -1,7 +1,7 @@
 ---
 title: "Yuguo Shen"
 description: "Yuguo Shen is a Senior Soil Carbon researcher at Guangzhou Institute of Geochemistry in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.438329
+date: 2026-07-11T12:53:41.644020
 url: "/cdr-researcher-census/researchers/yuguo-shen-a5031689/"
 layout: "researcher"
 hiddenInHomeList: true

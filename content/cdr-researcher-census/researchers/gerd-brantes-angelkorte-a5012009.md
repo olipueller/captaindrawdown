@@ -1,7 +1,7 @@
 ---
 title: "Gerd Brantes Angelkorte"
 description: "Gerd Brantes Angelkorte is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.512545
+date: 2026-07-11T12:53:40.727644
 url: "/cdr-researcher-census/researchers/gerd-brantes-angelkorte-a5012009/"
 layout: "researcher"
 hiddenInHomeList: true

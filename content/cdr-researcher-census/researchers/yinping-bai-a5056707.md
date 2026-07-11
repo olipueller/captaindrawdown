@@ -1,7 +1,7 @@
 ---
 title: "Yinping Bai"
 description: "Yinping Bai is a Mid-career Soil Carbon researcher at Shaanxi University of Science and Technology in CN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.131157
+date: 2026-07-11T12:53:41.375455
 url: "/cdr-researcher-census/researchers/yinping-bai-a5056707/"
 layout: "researcher"
 hiddenInHomeList: true

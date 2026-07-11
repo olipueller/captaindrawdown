@@ -1,7 +1,7 @@
 ---
 title: "Ziye Wei"
 description: "Ziye Wei is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.745111
+date: 2026-07-11T12:53:41.061750
 url: "/cdr-researcher-census/researchers/ziye-wei-a5008043/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tianwei Long"
 description: "Tianwei Long is a Mid-career Biochar researcher at Tianjin Chengjian University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.415386
+date: 2026-07-11T12:53:40.622344
 url: "/cdr-researcher-census/researchers/tianwei-long-a5087977/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pallabi Borah"
 description: "Pallabi Borah is a Mid-career BECCS researcher at Global University in LB. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.638150
+date: 2026-07-11T12:53:40.857439
 url: "/cdr-researcher-census/researchers/pallabi-borah-a5109387/"
 layout: "researcher"
 hiddenInHomeList: true

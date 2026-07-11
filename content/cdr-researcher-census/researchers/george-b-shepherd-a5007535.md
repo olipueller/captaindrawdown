@@ -1,7 +1,7 @@
 ---
 title: "George B. Shepherd"
 description: "George B. Shepherd is a Senior Soil Carbon researcher at Emory University in US. With 44 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.161056
+date: 2026-07-11T12:53:40.384308
 url: "/cdr-researcher-census/researchers/george-b-shepherd-a5007535/"
 layout: "researcher"
 hiddenInHomeList: true

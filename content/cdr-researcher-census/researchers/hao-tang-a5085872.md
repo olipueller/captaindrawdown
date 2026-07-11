@@ -1,7 +1,7 @@
 ---
 title: "Hao Tang"
 description: "Hao Tang is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.978816
+date: 2026-07-11T12:53:41.271909
 url: "/cdr-researcher-census/researchers/hao-tang-a5085872/"
 layout: "researcher"
 hiddenInHomeList: true

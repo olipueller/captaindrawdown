@@ -1,7 +1,7 @@
 ---
 title: "Freia Harzendorf"
 description: "Freia Harzendorf is a Mid-career General CDR researcher at Forschungszentrum Jülich in DE. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.102616
+date: 2026-07-11T12:53:41.349703
 url: "/cdr-researcher-census/researchers/freia-harzendorf-a5028836/"
 layout: "researcher"
 hiddenInHomeList: true

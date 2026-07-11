@@ -1,7 +1,7 @@
 ---
 title: "Andrés Quincke"
 description: "Andrés Quincke is a Senior Soil Carbon researcher at Instituto Nacional de Investigación Agropecuaria in UY. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.353592
+date: 2026-07-11T12:53:40.558013
 url: "/cdr-researcher-census/researchers/andres-quincke-a5005913/"
 layout: "researcher"
 hiddenInHomeList: true

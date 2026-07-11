@@ -1,7 +1,7 @@
 ---
 title: "Lilian Ding"
 description: "Lilian Ding is a Mid-career Soil Carbon researcher at Zhejiang Provincial Institute of Communications Planning,Design & Research in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.279861
+date: 2026-07-11T12:53:41.513108
 url: "/cdr-researcher-census/researchers/lilian-ding-a5112632/"
 layout: "researcher"
 hiddenInHomeList: true

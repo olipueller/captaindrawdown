@@ -1,7 +1,7 @@
 ---
 title: "Zhuangzhuang Qian"
 description: "Zhuangzhuang Qian is a Mid-career Soil Carbon researcher at University of Southern California in US. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.475960
+date: 2026-07-11T12:53:40.688513
 url: "/cdr-researcher-census/researchers/zhuangzhuang-qian-a5021766/"
 layout: "researcher"
 hiddenInHomeList: true

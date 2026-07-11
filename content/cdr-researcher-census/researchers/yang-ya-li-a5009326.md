@@ -1,7 +1,7 @@
 ---
 title: "Yang Ya-li"
 description: "Yang Ya-li is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 71 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.405254
+date: 2026-07-11T12:53:40.611193
 url: "/cdr-researcher-census/researchers/yang-ya-li-a5009326/"
 layout: "researcher"
 hiddenInHomeList: true

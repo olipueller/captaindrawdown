@@ -1,7 +1,7 @@
 ---
 title: "Xiangyue Liu"
 description: "Xiangyue Liu is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.782968
+date: 2026-07-11T12:53:41.139607
 url: "/cdr-researcher-census/researchers/xiangyue-liu-a5103111/"
 layout: "researcher"
 hiddenInHomeList: true

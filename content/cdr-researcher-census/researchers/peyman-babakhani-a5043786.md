@@ -1,7 +1,7 @@
 ---
 title: "Peyman Babakhani"
 description: "Peyman Babakhani is a Mid-career Ocean CDR researcher at University of Leeds in GB. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.025377
+date: 2026-07-11T12:53:40.246738
 url: "/cdr-researcher-census/researchers/peyman-babakhani-a5043786/"
 layout: "researcher"
 hiddenInHomeList: true

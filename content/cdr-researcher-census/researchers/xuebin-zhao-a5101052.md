@@ -1,7 +1,7 @@
 ---
 title: "Xuebin Zhao"
 description: "Xuebin Zhao is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.363904
+date: 2026-07-11T12:53:41.573286
 url: "/cdr-researcher-census/researchers/xuebin-zhao-a5101052/"
 layout: "researcher"
 hiddenInHomeList: true

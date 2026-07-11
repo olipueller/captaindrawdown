@@ -1,7 +1,7 @@
 ---
 title: "Zhiheng Zhao"
 description: "Zhiheng Zhao is a Mid-career Soil Carbon researcher at Beijing Anzhen Hospital in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.685440
+date: 2026-07-11T12:53:40.934469
 url: "/cdr-researcher-census/researchers/zhiheng-zhao-a5104255/"
 layout: "researcher"
 hiddenInHomeList: true

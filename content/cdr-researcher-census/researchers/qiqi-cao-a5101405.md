@@ -1,7 +1,7 @@
 ---
 title: "Qiqi Cao"
 description: "Qiqi Cao is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.145017
+date: 2026-07-11T12:53:41.388555
 url: "/cdr-researcher-census/researchers/qiqi-cao-a5101405/"
 layout: "researcher"
 hiddenInHomeList: true

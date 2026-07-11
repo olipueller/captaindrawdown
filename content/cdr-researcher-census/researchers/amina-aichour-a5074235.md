@@ -1,7 +1,7 @@
 ---
 title: "Amina Aichour"
 description: "Amina Aichour is a Mid-career Biochar researcher at University of Bouira in DZ. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.133476
+date: 2026-07-11T12:53:40.357537
 url: "/cdr-researcher-census/researchers/amina-aichour-a5074235/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Arifur Rahman"
 description: "Mohammad Arifur Rahman is a Senior Soil Carbon researcher at Center for Environmental and Geographic Information Services in BD. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.422347
+date: 2026-07-11T12:53:40.629902
 url: "/cdr-researcher-census/researchers/mohammad-arifur-rahman-a5072456/"
 layout: "researcher"
 hiddenInHomeList: true

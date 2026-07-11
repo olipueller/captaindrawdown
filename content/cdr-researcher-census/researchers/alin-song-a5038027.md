@@ -1,7 +1,7 @@
 ---
 title: "Alin Song"
 description: "Alin Song is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 85 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.817856
+date: 2026-07-11T12:53:40.016004
 url: "/cdr-researcher-census/researchers/alin-song-a5038027/"
 layout: "researcher"
 hiddenInHomeList: true

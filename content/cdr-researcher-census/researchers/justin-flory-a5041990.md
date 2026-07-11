@@ -1,7 +1,7 @@
 ---
 title: "Justin Flory"
 description: "Justin Flory is a Mid-career General CDR researcher at Arizona State University in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.123123
+date: 2026-07-11T12:53:41.368424
 url: "/cdr-researcher-census/researchers/justin-flory-a5041990/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Camila Aquije"
 description: "Camila Aquije is an Early-career General CDR researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.335435
+date: 2026-07-11T12:53:41.562049
 url: "/cdr-researcher-census/researchers/camila-aquije-a5030909/"
 layout: "researcher"
 hiddenInHomeList: true

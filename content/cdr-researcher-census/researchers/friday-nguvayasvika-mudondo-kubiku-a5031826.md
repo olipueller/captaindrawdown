@@ -1,7 +1,7 @@
 ---
 title: "Friday Nguvayasvika Mudondo Kubiku"
 description: "Friday Nguvayasvika Mudondo Kubiku is a Mid-career Soil Carbon researcher at Andrews University in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.274037
+date: 2026-07-11T12:53:41.508036
 url: "/cdr-researcher-census/researchers/friday-nguvayasvika-mudondo-kubiku-a5031826/"
 layout: "researcher"
 hiddenInHomeList: true

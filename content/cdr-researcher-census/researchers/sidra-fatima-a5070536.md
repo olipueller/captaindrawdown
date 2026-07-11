@@ -1,7 +1,7 @@
 ---
 title: "Sidra Fatima"
 description: "Sidra Fatima is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.411099
+date: 2026-07-11T12:53:41.617082
 url: "/cdr-researcher-census/researchers/sidra-fatima-a5070536/"
 layout: "researcher"
 hiddenInHomeList: true

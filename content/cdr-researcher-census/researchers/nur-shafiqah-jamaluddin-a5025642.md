@@ -1,7 +1,7 @@
 ---
 title: "Nur Shafiqah Jamaluddin"
 description: "Nur Shafiqah Jamaluddin is an Early-career Biochar researcher at Hospital Pulau Pinang in MY. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.041974
+date: 2026-07-11T12:53:41.301530
 url: "/cdr-researcher-census/researchers/nur-shafiqah-jamaluddin-a5025642/"
 layout: "researcher"
 hiddenInHomeList: true

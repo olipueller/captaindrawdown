@@ -1,7 +1,7 @@
 ---
 title: "Charithea Charalambous"
 description: "Charithea Charalambous is a Mid-career General CDR researcher at Rocky Mountain Institute in US. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.018493
+date: 2026-07-11T12:53:40.239361
 url: "/cdr-researcher-census/researchers/charithea-charalambous-a5040855/"
 layout: "researcher"
 hiddenInHomeList: true

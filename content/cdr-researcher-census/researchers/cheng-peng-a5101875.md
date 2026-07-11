@@ -1,7 +1,7 @@
 ---
 title: "Cheng Peng"
 description: "Cheng Peng is a Senior Biochar researcher at Second Military Medical University in CN. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.904285
+date: 2026-07-11T12:53:40.117550
 url: "/cdr-researcher-census/researchers/cheng-peng-a5101875/"
 layout: "researcher"
 hiddenInHomeList: true

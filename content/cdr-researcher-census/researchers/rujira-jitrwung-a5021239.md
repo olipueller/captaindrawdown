@@ -1,7 +1,7 @@
 ---
 title: "Rujira Jitrwung"
 description: "Rujira Jitrwung is a Mid-career General CDR researcher at Thailand Institute of Scientific and Technological Research in TH. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.275328
+date: 2026-07-11T12:53:41.509361
 url: "/cdr-researcher-census/researchers/rujira-jitrwung-a5021239/"
 layout: "researcher"
 hiddenInHomeList: true

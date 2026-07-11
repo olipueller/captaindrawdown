@@ -1,7 +1,7 @@
 ---
 title: "Christel Cederberg"
 description: "Christel Cederberg is a Senior General CDR researcher at Chalmers tekniska hogskola in SE. With 118 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.784337
+date: 2026-07-11T12:53:39.973046
 url: "/cdr-researcher-census/researchers/christel-cederberg-a5000027/"
 layout: "researcher"
 hiddenInHomeList: true

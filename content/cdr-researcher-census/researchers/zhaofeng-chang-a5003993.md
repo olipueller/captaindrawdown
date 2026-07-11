@@ -1,7 +1,7 @@
 ---
 title: "Zhaofeng Chang"
 description: "Zhaofeng Chang is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.996485
+date: 2026-07-11T12:53:40.216829
 url: "/cdr-researcher-census/researchers/zhaofeng-chang-a5003993/"
 layout: "researcher"
 hiddenInHomeList: true

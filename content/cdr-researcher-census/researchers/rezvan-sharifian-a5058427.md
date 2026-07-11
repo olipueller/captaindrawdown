@@ -1,7 +1,7 @@
 ---
 title: "Rezvan Sharifian"
 description: "Rezvan Sharifian is a Mid-career Ocean CDR researcher at Delft University of Technology in NL. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.059584
+date: 2026-07-11T12:53:40.282233
 url: "/cdr-researcher-census/researchers/rezvan-sharifian-a5058427/"
 layout: "researcher"
 hiddenInHomeList: true

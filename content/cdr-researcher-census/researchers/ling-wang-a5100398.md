@@ -1,7 +1,7 @@
 ---
 title: "Ling Wang"
 description: "Ling Wang is a Senior Soil Carbon researcher at Hainan Normal University in CN. With 129 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.823273
+date: 2026-07-11T12:53:40.022952
 url: "/cdr-researcher-census/researchers/ling-wang-a5100398/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fenghui Qin"
 description: "Fenghui Qin is an Early-career Biochar researcher at Lanzhou University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.257576
+date: 2026-07-11T12:53:41.492419
 url: "/cdr-researcher-census/researchers/fenghui-qin-a5056590/"
 layout: "researcher"
 hiddenInHomeList: true

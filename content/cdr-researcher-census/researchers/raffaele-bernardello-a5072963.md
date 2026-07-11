@@ -1,7 +1,7 @@
 ---
 title: "Raffaele Bernardello"
 description: "Raffaele Bernardello is a Mid-career Ocean CDR researcher at Barcelona Supercomputing Center in ES. With 101 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.881209
+date: 2026-07-11T12:53:40.091460
 url: "/cdr-researcher-census/researchers/raffaele-bernardello-a5072963/"
 layout: "researcher"
 hiddenInHomeList: true

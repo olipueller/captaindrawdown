@@ -1,7 +1,7 @@
 ---
 title: "Pengyuan Deng"
 description: "Pengyuan Deng is a Mid-career Biochar researcher at Nankai University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.764087
+date: 2026-07-11T12:53:41.097474
 url: "/cdr-researcher-census/researchers/pengyuan-deng-a5008900/"
 layout: "researcher"
 hiddenInHomeList: true

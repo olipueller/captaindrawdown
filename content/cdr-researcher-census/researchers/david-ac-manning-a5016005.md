@@ -1,7 +1,7 @@
 ---
 title: "David A.C. Manning"
 description: "David A.C. Manning is an Eminent Enhanced Weathering researcher at Newcastle University in GB. With 273 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.771068
+date: 2026-07-11T12:53:39.948190
 url: "/cdr-researcher-census/researchers/david-ac-manning-a5016005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 57 |
 | Citations | 19,189 |
 | Publications | 273 |
-| CDR Focus | 5.1% |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "X. Y. Zhang"
 description: "X. Y. Zhang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.537267
+date: 2026-07-11T12:53:40.753629
 url: "/cdr-researcher-census/researchers/x-y-zhang-a5001020/"
 layout: "researcher"
 hiddenInHomeList: true

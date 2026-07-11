@@ -1,7 +1,7 @@
 ---
 title: "S. R. Gupta"
 description: "S. R. Gupta is a Senior Soil Carbon researcher at Kurukshetra University in IN. With 75 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.873215
+date: 2026-07-11T12:53:40.082366
 url: "/cdr-researcher-census/researchers/s-r-gupta-a5079948/"
 layout: "researcher"
 hiddenInHomeList: true

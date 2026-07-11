@@ -1,7 +1,7 @@
 ---
 title: "Jintao Cui"
 description: "Jintao Cui is a Mid-career Biochar researcher at Xi'an Jiaotong University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.233341
+date: 2026-07-11T12:53:41.469914
 url: "/cdr-researcher-census/researchers/jintao-cui-a5060837/"
 layout: "researcher"
 hiddenInHomeList: true

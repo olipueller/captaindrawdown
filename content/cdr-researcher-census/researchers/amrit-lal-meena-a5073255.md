@@ -1,7 +1,7 @@
 ---
 title: "Amrit Lal Meena"
 description: "Amrit Lal Meena is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.227774
+date: 2026-07-11T12:53:40.429534
 url: "/cdr-researcher-census/researchers/amrit-lal-meena-a5073255/"
 layout: "researcher"
 hiddenInHomeList: true

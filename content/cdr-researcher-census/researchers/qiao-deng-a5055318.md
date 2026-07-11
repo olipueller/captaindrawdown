@@ -1,7 +1,7 @@
 ---
 title: "Qiao Deng"
 description: "Qiao Deng is a Mid-career Biochar researcher at Hangzhou Medical College in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.041148
+date: 2026-07-11T12:53:41.301340
 url: "/cdr-researcher-census/researchers/qiao-deng-a5055318/"
 layout: "researcher"
 hiddenInHomeList: true

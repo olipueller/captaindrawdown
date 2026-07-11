@@ -1,7 +1,7 @@
 ---
 title: "Youfei Tang"
 description: "Youfei Tang is a Mid-career General CDR researcher at Southeast University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.172798
+date: 2026-07-11T12:53:41.413875
 url: "/cdr-researcher-census/researchers/youfei-tang-a5040100/"
 layout: "researcher"
 hiddenInHomeList: true

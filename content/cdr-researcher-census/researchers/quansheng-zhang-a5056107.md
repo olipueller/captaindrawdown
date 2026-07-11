@@ -1,7 +1,7 @@
 ---
 title: "Quan‐Sheng Zhang"
 description: "Quan‐Sheng Zhang is an Early-career Ocean CDR researcher at Yantai University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.582935
+date: 2026-07-11T12:53:40.799829
 url: "/cdr-researcher-census/researchers/quansheng-zhang-a5056107/"
 layout: "researcher"
 hiddenInHomeList: true

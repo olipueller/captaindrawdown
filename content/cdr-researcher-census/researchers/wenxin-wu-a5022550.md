@@ -1,7 +1,7 @@
 ---
 title: "Wenxin Wu"
 description: "Wenxin Wu is a Mid-career General CDR researcher at University of Waterloo in CA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.122363
+date: 2026-07-11T12:53:41.367742
 url: "/cdr-researcher-census/researchers/wenxin-wu-a5022550/"
 layout: "researcher"
 hiddenInHomeList: true

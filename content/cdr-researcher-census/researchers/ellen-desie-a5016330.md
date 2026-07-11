@@ -1,7 +1,7 @@
 ---
 title: "Ellen Desie"
 description: "Ellen Desie is a Mid-career Soil Carbon researcher at Research Institute for Nature and Forest in BE. With 51 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.305691
+date: 2026-07-11T12:53:40.508159
 url: "/cdr-researcher-census/researchers/ellen-desie-a5016330/"
 layout: "researcher"
 hiddenInHomeList: true

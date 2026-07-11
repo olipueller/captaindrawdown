@@ -1,7 +1,7 @@
 ---
 title: "Zeyang Xie"
 description: "Zeyang Xie is a Senior Soil Carbon researcher at Nanchang University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.407929
+date: 2026-07-11T12:53:40.614424
 url: "/cdr-researcher-census/researchers/zeyang-xie-a5102684/"
 layout: "researcher"
 hiddenInHomeList: true

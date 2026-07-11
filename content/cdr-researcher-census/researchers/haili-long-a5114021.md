@@ -1,7 +1,7 @@
 ---
 title: "Haili Long"
 description: "Haili Long is a Senior Soil Carbon researcher at Beibu Gulf University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.893052
+date: 2026-07-11T12:53:41.232310
 url: "/cdr-researcher-census/researchers/haili-long-a5114021/"
 layout: "researcher"
 hiddenInHomeList: true

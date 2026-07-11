@@ -1,7 +1,7 @@
 ---
 title: "K. Umamaheswari"
 description: "K. Umamaheswari is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.373371
+date: 2026-07-11T12:53:41.580926
 url: "/cdr-researcher-census/researchers/k-umamaheswari-a5101566/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ximeng Xu"
 description: "Ximeng Xu is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 13 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.965631
+date: 2026-07-11T12:53:40.183835
 url: "/cdr-researcher-census/researchers/ximeng-xu-a5101402/"
 layout: "researcher"
 hiddenInHomeList: true

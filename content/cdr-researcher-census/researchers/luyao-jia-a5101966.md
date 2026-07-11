@@ -1,7 +1,7 @@
 ---
 title: "Luyao Jia"
 description: "Luyao Jia is a Senior Soil Carbon researcher at Beijing Institute of Nanoenergy and Nanosystems in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.066842
+date: 2026-07-11T12:53:40.290296
 url: "/cdr-researcher-census/researchers/luyao-jia-a5101966/"
 layout: "researcher"
 hiddenInHomeList: true

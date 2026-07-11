@@ -1,7 +1,7 @@
 ---
 title: "Ruiqi Zhai"
 description: "Ruiqi Zhai is a Mid-career Biochar researcher at Dali University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.251184
+date: 2026-07-11T12:53:41.486805
 url: "/cdr-researcher-census/researchers/ruiqi-zhai-a5076573/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anna Emanuelsson"
 description: "Anna Emanuelsson is a Senior General CDR researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.820453
+date: 2026-07-11T12:53:41.203036
 url: "/cdr-researcher-census/researchers/anna-emanuelsson-a5045778/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoshuai Zhang"
 description: "Xiaoshuai Zhang is a Senior Soil Carbon researcher at University of Glasgow in GB. With 65 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.906470
+date: 2026-07-11T12:53:40.119882
 url: "/cdr-researcher-census/researchers/xiaoshuai-zhang-a5115593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 1,775 |
 | Publications | 65 |
-| CDR Focus | 7.7% |
+| CDR Focus | 9.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -59,10 +59,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Restoration age enhances soil organic carbon sequestration primarily through plant-derived carbon in a coastal wetland** (2025)
    3 citations · Soil Carbon
 
-4. **Soil CO2 not CH4 flux determines soil carbon emission response to seasonal precipitation variation in a brackish wetland** (2025)
+4. **Seasonal Drought Reduces Carbon Sequestration in Coastal Wetlands** (2026)
    0 citations · Soil Carbon
 
-5. **Restoration Age Enhances Soil Organic Carbon Sequestration Primarily Through Plant-derived Carbon in a Coastal Wetland** (2025)
+5. **Soil CO2 not CH4 flux determines soil carbon emission response to seasonal precipitation variation in a brackish wetland** (2025)
+   0 citations · Soil Carbon
+
+6. **Restoration Age Enhances Soil Organic Carbon Sequestration Primarily Through Plant-derived Carbon in a Coastal Wetland** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

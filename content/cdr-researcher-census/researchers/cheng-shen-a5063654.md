@@ -1,7 +1,7 @@
 ---
 title: "Cheng Shen"
 description: "Cheng Shen is a Mid-career General CDR researcher at University of Gothenburg in SE. With 60 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.103224
+date: 2026-07-11T12:53:40.326802
 url: "/cdr-researcher-census/researchers/cheng-shen-a5063654/"
 layout: "researcher"
 hiddenInHomeList: true

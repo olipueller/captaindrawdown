@@ -1,7 +1,7 @@
 ---
 title: "Yuhan Liu"
 description: "Yuhan Liu is a Senior General CDR researcher at North China University of Science and Technology in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.733681
+date: 2026-07-11T12:53:41.036117
 url: "/cdr-researcher-census/researchers/yuhan-liu-a5020340/"
 layout: "researcher"
 hiddenInHomeList: true

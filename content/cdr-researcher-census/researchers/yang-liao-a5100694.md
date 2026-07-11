@@ -1,7 +1,7 @@
 ---
 title: "Yang Liao"
 description: "Yang Liao is a Senior Soil Carbon researcher at China University of Geosciences in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.262779
+date: 2026-07-11T12:53:40.464555
 url: "/cdr-researcher-census/researchers/yang-liao-a5100694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 526 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 13.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -61,6 +61,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Microbial regulation mechanisms of soil organic carbon sequestration by biochar application** (2026)
    3 citations
+
+5. **Microbial-mediated soil organic carbon sequestration under biochar application in Chinese agricultural soils** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

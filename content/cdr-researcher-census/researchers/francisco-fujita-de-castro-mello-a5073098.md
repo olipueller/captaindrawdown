@@ -1,7 +1,7 @@
 ---
 title: "Francisco Fujita de Castro Mello"
 description: "Francisco Fujita de Castro Mello is a Senior Soil Carbon researcher at Inter-American Institute in UY. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.391681
+date: 2026-07-11T12:53:41.597797
 url: "/cdr-researcher-census/researchers/francisco-fujita-de-castro-mello-a5073098/"
 layout: "researcher"
 hiddenInHomeList: true

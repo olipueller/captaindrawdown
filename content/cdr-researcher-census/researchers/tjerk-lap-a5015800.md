@@ -1,7 +1,7 @@
 ---
 title: "Tjerk Lap"
 description: "Tjerk Lap is a Mid-career General CDR researcher at University of Groningen in NL. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.374599
+date: 2026-07-11T12:53:41.582385
 url: "/cdr-researcher-census/researchers/tjerk-lap-a5015800/"
 layout: "researcher"
 hiddenInHomeList: true

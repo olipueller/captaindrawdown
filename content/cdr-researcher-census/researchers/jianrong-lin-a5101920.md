@@ -1,7 +1,7 @@
 ---
 title: "Jianrong Lin"
 description: "Jianrong Lin is a Senior Soil Carbon researcher at Xiamen University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.592795
+date: 2026-07-11T12:53:40.809876
 url: "/cdr-researcher-census/researchers/jianrong-lin-a5101920/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Olorunshogo Benjamin Ogundipe"
 description: "Olorunshogo Benjamin Ogundipe is a Mid-career General CDR researcher at Redeemer's University in NG. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.250573
+date: 2026-07-11T12:53:41.486388
 url: "/cdr-researcher-census/researchers/olorunshogo-benjamin-ogundipe-a5113307/"
 layout: "researcher"
 hiddenInHomeList: true

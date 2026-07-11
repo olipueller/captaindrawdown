@@ -1,7 +1,7 @@
 ---
 title: "Jianyu Yuan"
 description: "Jianyu Yuan is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.629383
+date: 2026-07-11T12:53:40.848866
 url: "/cdr-researcher-census/researchers/jianyu-yuan-a5005740/"
 layout: "researcher"
 hiddenInHomeList: true

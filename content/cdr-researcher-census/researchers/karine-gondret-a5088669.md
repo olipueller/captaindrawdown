@@ -1,7 +1,7 @@
 ---
 title: "Karine Gondret"
 description: "Karine Gondret is a Mid-career Soil Carbon researcher at HES-SO University of Applied Sciences and Arts Western Switzerland in CH. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.286844
+date: 2026-07-11T12:53:41.518237
 url: "/cdr-researcher-census/researchers/karine-gondret-a5088669/"
 layout: "researcher"
 hiddenInHomeList: true

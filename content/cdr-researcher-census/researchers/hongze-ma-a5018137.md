@@ -1,7 +1,7 @@
 ---
 title: "Hongze Ma"
 description: "Hongze Ma is a Mid-career Soil Carbon researcher at Memorial University of Newfoundland in CA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.062930
+date: 2026-07-11T12:53:41.314439
 url: "/cdr-researcher-census/researchers/hongze-ma-a5018137/"
 layout: "researcher"
 hiddenInHomeList: true

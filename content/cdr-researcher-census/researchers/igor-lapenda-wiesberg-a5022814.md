@@ -1,7 +1,7 @@
 ---
 title: "Igor Lapenda Wiesberg"
 description: "Igor Lapenda Wiesberg is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.580649
+date: 2026-07-11T12:53:40.797371
 url: "/cdr-researcher-census/researchers/igor-lapenda-wiesberg-a5022814/"
 layout: "researcher"
 hiddenInHomeList: true

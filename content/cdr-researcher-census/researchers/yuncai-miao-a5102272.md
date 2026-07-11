@@ -1,7 +1,7 @@
 ---
 title: "Yuncai Miao"
 description: "Yuncai Miao is a Mid-career Soil Carbon researcher at Institute of Soil Science in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.443685
+date: 2026-07-11T12:53:40.652448
 url: "/cdr-researcher-census/researchers/yuncai-miao-a5102272/"
 layout: "researcher"
 hiddenInHomeList: true

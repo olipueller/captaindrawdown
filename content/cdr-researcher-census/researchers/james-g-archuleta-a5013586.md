@@ -1,7 +1,7 @@
 ---
 title: "James G. Archuleta"
 description: "James G. Archuleta is a Mid-career General CDR researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.383831
+date: 2026-07-11T12:53:41.590486
 url: "/cdr-researcher-census/researchers/james-g-archuleta-a5013586/"
 layout: "researcher"
 hiddenInHomeList: true

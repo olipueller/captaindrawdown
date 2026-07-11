@@ -1,7 +1,7 @@
 ---
 title: "Jiachang Li"
 description: "Jiachang Li is an Early-career General CDR researcher at Beihang University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.296673
+date: 2026-07-11T12:53:41.526759
 url: "/cdr-researcher-census/researchers/jiachang-li-a5055054/"
 layout: "researcher"
 hiddenInHomeList: true

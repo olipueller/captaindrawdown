@@ -1,7 +1,7 @@
 ---
 title: "Steven Mortier"
 description: "Steven Mortier is a Mid-career General CDR researcher at University of Antwerp in BE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.189067
+date: 2026-07-11T12:53:41.428821
 url: "/cdr-researcher-census/researchers/steven-mortier-a5082936/"
 layout: "researcher"
 hiddenInHomeList: true

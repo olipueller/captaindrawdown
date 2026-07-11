@@ -1,7 +1,7 @@
 ---
 title: "Markus Meier"
 description: "Markus Meier is a Mid-career Ocean CDR researcher at Air Liquide (France) in FR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.790266
+date: 2026-07-11T12:53:41.150901
 url: "/cdr-researcher-census/researchers/markus-meier-a5101718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 201 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 22.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon Dioxide Sequestration and Carbon Crediting Using CO <sub>2</sub> -Neutralized Alkaline Wastewaters** (2026)
    1 citations · General CDR
+
+2. **Carbon Dioxide Sequestration and Carbon Crediting Using CO2 -Neutralized Alkaline Wastewaters** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

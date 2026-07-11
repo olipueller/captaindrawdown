@@ -1,7 +1,7 @@
 ---
 title: "Shiyu Xie"
 description: "Shiyu Xie is a Senior Biochar researcher at Nanjing University of Chinese Medicine in CN. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.696882
+date: 2026-07-11T12:53:40.954967
 url: "/cdr-researcher-census/researchers/shiyu-xie-a5101104/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Karima Ennaciri"
 description: "Karima Ennaciri is a Mid-career Biochar researcher at Cadi Ayyad University in MA. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.705780
+date: 2026-07-11T12:53:40.966804
 url: "/cdr-researcher-census/researchers/karima-ennaciri-a5003039/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiajia Duan"
 description: "Jiajia Duan is a Mid-career General CDR researcher at North West Agriculture and Forestry University in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.150838
+date: 2026-07-11T12:53:41.393474
 url: "/cdr-researcher-census/researchers/jiajia-duan-a5077703/"
 layout: "researcher"
 hiddenInHomeList: true

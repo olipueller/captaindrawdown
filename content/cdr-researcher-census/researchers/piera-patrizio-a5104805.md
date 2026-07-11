@@ -1,7 +1,7 @@
 ---
 title: "Piera Patrizio"
 description: "Piera Patrizio is a Mid-career General CDR researcher at Imperial College London in GB. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.945222
+date: 2026-07-11T12:53:40.162590
 url: "/cdr-researcher-census/researchers/piera-patrizio-a5104805/"
 layout: "researcher"
 hiddenInHomeList: true

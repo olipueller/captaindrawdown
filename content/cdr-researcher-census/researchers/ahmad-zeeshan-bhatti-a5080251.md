@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Zeeshan Bhatti"
 description: "Ahmad Zeeshan Bhatti is a Mid-career Soil Carbon researcher at University of Prince Edward Island in CA. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.400072
+date: 2026-07-11T12:53:41.606576
 url: "/cdr-researcher-census/researchers/ahmad-zeeshan-bhatti-a5080251/"
 layout: "researcher"
 hiddenInHomeList: true

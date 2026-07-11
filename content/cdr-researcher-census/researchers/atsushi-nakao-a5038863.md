@@ -1,7 +1,7 @@
 ---
 title: "Atsushi Nakao"
 description: "Atsushi Nakao is a Senior Soil Carbon researcher at Kyoto Prefectural University in JP. With 140 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.949270
+date: 2026-07-11T12:53:40.166526
 url: "/cdr-researcher-census/researchers/atsushi-nakao-a5038863/"
 layout: "researcher"
 hiddenInHomeList: true

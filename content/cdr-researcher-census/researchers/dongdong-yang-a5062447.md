@@ -1,7 +1,7 @@
 ---
 title: "Dongdong Yang"
 description: "Dongdong Yang is a Mid-career Biochar researcher at Harbin University of Science and Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.430071
+date: 2026-07-11T12:53:41.636263
 url: "/cdr-researcher-census/researchers/dongdong-yang-a5062447/"
 layout: "researcher"
 hiddenInHomeList: true

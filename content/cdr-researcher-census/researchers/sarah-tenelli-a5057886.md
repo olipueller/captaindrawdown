@@ -1,7 +1,7 @@
 ---
 title: "Sarah Tenelli"
 description: "Sarah Tenelli is a Mid-career Soil Carbon researcher at Brazilian Center for Research in Energy and Materials in BR. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.247668
+date: 2026-07-11T12:53:40.449603
 url: "/cdr-researcher-census/researchers/sarah-tenelli-a5057886/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ignacio Sevillano"
 description: "Ignacio Sevillano is a Senior Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.828256
+date: 2026-07-11T12:53:41.206955
 url: "/cdr-researcher-census/researchers/ignacio-sevillano-a5034353/"
 layout: "researcher"
 hiddenInHomeList: true

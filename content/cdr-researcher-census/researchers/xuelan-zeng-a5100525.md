@@ -1,7 +1,7 @@
 ---
 title: "Xuelan Zeng"
 description: "Xuelan Zeng is a Mid-career General CDR researcher at Guangdong University of Technology in CN. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.078918
+date: 2026-07-11T12:53:40.301234
 url: "/cdr-researcher-census/researchers/xuelan-zeng-a5100525/"
 layout: "researcher"
 hiddenInHomeList: true

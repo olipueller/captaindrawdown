@@ -1,7 +1,7 @@
 ---
 title: "Nargiz Aliyeva"
 description: "Nargiz Aliyeva is a Mid-career General CDR researcher at Sabancı Üniversitesi in TR. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.323702
+date: 2026-07-11T12:53:41.550898
 url: "/cdr-researcher-census/researchers/nargiz-aliyeva-a5071455/"
 layout: "researcher"
 hiddenInHomeList: true

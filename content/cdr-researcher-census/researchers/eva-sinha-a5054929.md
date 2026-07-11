@@ -1,7 +1,7 @@
 ---
 title: "Eva Sinha"
 description: "Eva Sinha is a Senior BECCS researcher at Pacific Northwest National Laboratory in US. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.903832
+date: 2026-07-11T12:53:40.117132
 url: "/cdr-researcher-census/researchers/eva-sinha-a5054929/"
 layout: "researcher"
 hiddenInHomeList: true

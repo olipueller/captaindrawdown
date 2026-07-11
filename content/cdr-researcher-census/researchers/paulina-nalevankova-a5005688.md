@@ -1,7 +1,7 @@
 ---
 title: "Paulína Nalevanková"
 description: "Paulína Nalevanková is a Mid-career Soil Carbon researcher at Technická univerzita vo Zvolene in SK. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.806435
+date: 2026-07-11T12:53:41.185197
 url: "/cdr-researcher-census/researchers/paulina-nalevankova-a5005688/"
 layout: "researcher"
 hiddenInHomeList: true

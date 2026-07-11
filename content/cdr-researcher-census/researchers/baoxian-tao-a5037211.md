@@ -1,7 +1,7 @@
 ---
 title: "Baoxian Tao"
 description: "Baoxian Tao is a Senior Soil Carbon researcher. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.481574
+date: 2026-07-11T12:53:40.694703
 url: "/cdr-researcher-census/researchers/baoxian-tao-a5037211/"
 layout: "researcher"
 hiddenInHomeList: true

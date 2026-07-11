@@ -1,7 +1,7 @@
 ---
 title: "Vera Porwollik"
 description: "Vera Porwollik is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.730419
+date: 2026-07-11T12:53:41.027452
 url: "/cdr-researcher-census/researchers/vera-porwollik-a5032056/"
 layout: "researcher"
 hiddenInHomeList: true

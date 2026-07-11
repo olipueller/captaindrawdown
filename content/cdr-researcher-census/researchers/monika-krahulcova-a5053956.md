@@ -1,7 +1,7 @@
 ---
 title: "Monika Krahulcová"
 description: "Monika Krahulcová is a Mid-career Biochar researcher at Slovak University of Technology in Bratislava in SK. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.138241
+date: 2026-07-11T12:53:41.382256
 url: "/cdr-researcher-census/researchers/monika-krahulcova-a5053956/"
 layout: "researcher"
 hiddenInHomeList: true

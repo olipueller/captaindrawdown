@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Tille"
 description: "Stefanie Tille is a Senior Soil Carbon researcher at Deutsches Elektronen-Synchrotron DESY in DE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.258602
+date: 2026-07-11T12:53:40.460474
 url: "/cdr-researcher-census/researchers/stefanie-tille-a5055381/"
 layout: "researcher"
 hiddenInHomeList: true

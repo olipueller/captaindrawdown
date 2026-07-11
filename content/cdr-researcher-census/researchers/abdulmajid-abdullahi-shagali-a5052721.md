@@ -1,7 +1,7 @@
 ---
 title: "Abdulmajid Abdullahi Shagali"
 description: "Abdulmajid Abdullahi Shagali is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.665262
+date: 2026-07-11T12:53:40.885517
 url: "/cdr-researcher-census/researchers/abdulmajid-abdullahi-shagali-a5052721/"
 layout: "researcher"
 hiddenInHomeList: true

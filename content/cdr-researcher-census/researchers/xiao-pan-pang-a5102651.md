@@ -1,7 +1,7 @@
 ---
 title: "Xiao Pan Pang"
 description: "Xiao Pan Pang is a Mid-career Soil Carbon researcher at Hebei Medical University in CN. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.024887
+date: 2026-07-11T12:53:40.245923
 url: "/cdr-researcher-census/researchers/xiao-pan-pang-a5102651/"
 layout: "researcher"
 hiddenInHomeList: true

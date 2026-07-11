@@ -1,7 +1,7 @@
 ---
 title: "Daniela Cozza"
 description: "Daniela Cozza is a Mid-career Biochar researcher at University of Calabria in IT. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.628356
+date: 2026-07-11T12:53:40.847936
 url: "/cdr-researcher-census/researchers/daniela-cozza-a5076547/"
 layout: "researcher"
 hiddenInHomeList: true

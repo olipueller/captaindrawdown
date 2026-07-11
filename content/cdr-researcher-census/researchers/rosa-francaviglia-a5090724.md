@@ -1,7 +1,7 @@
 ---
 title: "Rosa Francaviglia"
 description: "Rosa Francaviglia is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria (CREA) in IT. With 181 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.834681
+date: 2026-07-11T12:53:40.037358
 url: "/cdr-researcher-census/researchers/rosa-francaviglia-a5090724/"
 layout: "researcher"
 hiddenInHomeList: true

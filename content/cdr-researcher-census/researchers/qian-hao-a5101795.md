@@ -1,7 +1,7 @@
 ---
 title: "Qian Hao"
 description: "Qian Hao is a Senior Soil Carbon researcher at Tianjin University of Technology in CN. With 68 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.978796
+date: 2026-07-11T12:53:40.198034
 url: "/cdr-researcher-census/researchers/qian-hao-a5101795/"
 layout: "researcher"
 hiddenInHomeList: true

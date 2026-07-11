@@ -1,7 +1,7 @@
 ---
 title: "Anne Oxley"
 description: "Anne Oxley is a Mid-career General CDR researcher at Natural History Museum in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.593435
+date: 2026-07-11T12:53:40.810542
 url: "/cdr-researcher-census/researchers/anne-oxley-a5056529/"
 layout: "researcher"
 hiddenInHomeList: true

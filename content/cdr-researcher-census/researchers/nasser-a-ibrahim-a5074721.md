@@ -1,7 +1,7 @@
 ---
 title: "Nasser A. Ibrahim"
 description: "Nasser A. Ibrahim is a Senior Soil Carbon researcher at Central Laboratory for Agricultural Climate in EG. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.293176
+date: 2026-07-11T12:53:41.523138
 url: "/cdr-researcher-census/researchers/nasser-a-ibrahim-a5074721/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhenxiao Shang"
 description: "Zhenxiao Shang is a Senior Soil Carbon researcher at China University of Petroleum, East China in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.420843
+date: 2026-07-11T12:53:40.628358
 url: "/cdr-researcher-census/researchers/zhenxiao-shang-a5033178/"
 layout: "researcher"
 hiddenInHomeList: true

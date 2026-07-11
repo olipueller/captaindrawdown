@@ -1,7 +1,7 @@
 ---
 title: "Zoltàn Kun"
 description: "Zoltàn Kun is a Mid-career General CDR researcher at University of Leeds in GB. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.329569
+date: 2026-07-11T12:53:40.532417
 url: "/cdr-researcher-census/researchers/zoltan-kun-a5033546/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ahmed I. Yunus"
 description: "Ahmed I. Yunus is a Mid-career Biochar researcher at Georgia Institute of Technology in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.298343
+date: 2026-07-11T12:53:41.528132
 url: "/cdr-researcher-census/researchers/ahmed-i-yunus-a5063759/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Isha Medha"
 description: "Isha Medha is a Mid-career Biochar researcher at Indian Institute of Technology Dhanbad in IN. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.288222
+date: 2026-07-11T12:53:40.490485
 url: "/cdr-researcher-census/researchers/isha-medha-a5042541/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dandan Huang"
 description: "Dandan Huang is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 80 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.925255
+date: 2026-07-11T12:53:40.141488
 url: "/cdr-researcher-census/researchers/dandan-huang-a5032376/"
 layout: "researcher"
 hiddenInHomeList: true

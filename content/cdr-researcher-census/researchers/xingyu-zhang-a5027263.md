@@ -1,7 +1,7 @@
 ---
 title: "Xingyu Zhang"
 description: "Xingyu Zhang is a Mid-career Soil Carbon researcher at Nanjing University of Aeronautics and Astronautics in CN. With 53 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.082136
+date: 2026-07-11T12:53:40.304797
 url: "/cdr-researcher-census/researchers/xingyu-zhang-a5027263/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Phan Khanh Thinh Nguyen"
 description: "Phan Khanh Thinh Nguyen is a Mid-career Biochar researcher at Gachon University in KR. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.096442
+date: 2026-07-11T12:53:40.319654
 url: "/cdr-researcher-census/researchers/phan-khanh-thinh-nguyen-a5032740/"
 layout: "researcher"
 hiddenInHomeList: true

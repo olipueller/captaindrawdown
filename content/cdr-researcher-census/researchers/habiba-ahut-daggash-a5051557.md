@@ -1,7 +1,7 @@
 ---
 title: "Habiba Ahut Daggash"
 description: "Habiba Ahut Daggash is a Mid-career General CDR researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.427368
+date: 2026-07-11T12:53:40.635223
 url: "/cdr-researcher-census/researchers/habiba-ahut-daggash-a5051557/"
 layout: "researcher"
 hiddenInHomeList: true

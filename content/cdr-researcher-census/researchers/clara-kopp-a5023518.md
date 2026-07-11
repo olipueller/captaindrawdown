@@ -1,7 +1,7 @@
 ---
 title: "Clara Kopp"
 description: "Clara Kopp is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.203489
+date: 2026-07-11T12:53:41.442100
 url: "/cdr-researcher-census/researchers/clara-kopp-a5023518/"
 layout: "researcher"
 hiddenInHomeList: true

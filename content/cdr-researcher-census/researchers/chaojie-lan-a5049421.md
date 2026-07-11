@@ -1,7 +1,7 @@
 ---
 title: "Chaojie Lan"
 description: "Chaojie Lan is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.170133
+date: 2026-07-11T12:53:41.411327
 url: "/cdr-researcher-census/researchers/chaojie-lan-a5049421/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shaoru Tang"
 description: "Shaoru Tang is a Mid-career Biochar researcher at University of Hong Kong in HK. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.648535
+date: 2026-07-11T12:53:40.868527
 url: "/cdr-researcher-census/researchers/shaoru-tang-a5044546/"
 layout: "researcher"
 hiddenInHomeList: true

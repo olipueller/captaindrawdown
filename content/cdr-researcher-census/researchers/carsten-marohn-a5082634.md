@@ -1,7 +1,7 @@
 ---
 title: "Carsten Marohn"
 description: "Carsten Marohn is a Senior Soil Carbon researcher at Julius Kühn-Institut in DE. With 59 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.179828
+date: 2026-07-11T12:53:40.395740
 url: "/cdr-researcher-census/researchers/carsten-marohn-a5082634/"
 layout: "researcher"
 hiddenInHomeList: true

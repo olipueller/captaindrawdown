@@ -1,7 +1,7 @@
 ---
 title: "Chao Liu"
 description: "Chao Liu is an Early-career Biochar researcher at Xuzhou University of Technology in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.305134
+date: 2026-07-11T12:53:41.534242
 url: "/cdr-researcher-census/researchers/chao-liu-a5101719/"
 layout: "researcher"
 hiddenInHomeList: true

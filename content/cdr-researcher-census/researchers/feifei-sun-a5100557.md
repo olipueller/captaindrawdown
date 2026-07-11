@@ -1,7 +1,7 @@
 ---
 title: "Feifei Sun"
 description: "Feifei Sun is a Senior Soil Carbon researcher at Harbin University of Science and Technology in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.218602
+date: 2026-07-11T12:53:40.419748
 url: "/cdr-researcher-census/researchers/feifei-sun-a5100557/"
 layout: "researcher"
 hiddenInHomeList: true

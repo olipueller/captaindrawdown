@@ -1,7 +1,7 @@
 ---
 title: "Xinya Huang"
 description: "Xinya Huang is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.365894
+date: 2026-07-11T12:53:40.571022
 url: "/cdr-researcher-census/researchers/xinya-huang-a5020392/"
 layout: "researcher"
 hiddenInHomeList: true

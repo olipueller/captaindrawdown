@@ -1,7 +1,7 @@
 ---
 title: "Jakob O. Nalley"
 description: "Jakob O. Nalley is a Mid-career Ocean CDR researcher at Imperial Valley College in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.576864
+date: 2026-07-11T12:53:40.793726
 url: "/cdr-researcher-census/researchers/jakob-o-nalley-a5030675/"
 layout: "researcher"
 hiddenInHomeList: true

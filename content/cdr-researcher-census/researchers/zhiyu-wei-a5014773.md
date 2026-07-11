@@ -1,7 +1,7 @@
 ---
 title: "Zhiyu Wei"
 description: "Zhiyu Wei is a Mid-career General CDR researcher at Huazhong University of Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.318969
+date: 2026-07-11T12:53:40.521545
 url: "/cdr-researcher-census/researchers/zhiyu-wei-a5014773/"
 layout: "researcher"
 hiddenInHomeList: true

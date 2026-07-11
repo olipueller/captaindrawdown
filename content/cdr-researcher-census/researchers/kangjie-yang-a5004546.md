@@ -1,7 +1,7 @@
 ---
 title: "Kangjie Yang"
 description: "Kangjie Yang is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.371247
+date: 2026-07-11T12:53:40.576519
 url: "/cdr-researcher-census/researchers/kangjie-yang-a5004546/"
 layout: "researcher"
 hiddenInHomeList: true

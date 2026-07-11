@@ -1,7 +1,7 @@
 ---
 title: "Robert McTaggart"
 description: "Robert McTaggart is a Senior Soil Carbon researcher at South Dakota State University in US. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.065334
+date: 2026-07-11T12:53:40.288782
 url: "/cdr-researcher-census/researchers/robert-mctaggart-a5014894/"
 layout: "researcher"
 hiddenInHomeList: true

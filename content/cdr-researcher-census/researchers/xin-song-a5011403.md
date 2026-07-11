@@ -1,7 +1,7 @@
 ---
 title: "Xin Song"
 description: "Xin Song is a Senior Soil Carbon researcher at Dalian Ocean University in CN. With 80 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.982053
+date: 2026-07-11T12:53:40.201313
 url: "/cdr-researcher-census/researchers/xin-song-a5011403/"
 layout: "researcher"
 hiddenInHomeList: true

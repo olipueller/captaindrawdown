@@ -1,7 +1,7 @@
 ---
 title: "Dipak Kumar Sahoo"
 description: "Dipak Kumar Sahoo is a Senior Biochar researcher at Iowa State University in US. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.764388
+date: 2026-07-11T12:53:41.097800
 url: "/cdr-researcher-census/researchers/dipak-kumar-sahoo-a5069599/"
 layout: "researcher"
 hiddenInHomeList: true

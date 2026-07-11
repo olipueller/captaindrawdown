@@ -1,7 +1,7 @@
 ---
 title: "Mohammednur Abdu"
 description: "Mohammednur Abdu is a Mid-career Biochar researcher at Addis Ababa Science and Technology University in ET. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.416420
+date: 2026-07-11T12:53:41.622438
 url: "/cdr-researcher-census/researchers/mohammednur-abdu-a5025501/"
 layout: "researcher"
 hiddenInHomeList: true

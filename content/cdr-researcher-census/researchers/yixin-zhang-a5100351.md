@@ -1,7 +1,7 @@
 ---
 title: "Yixin Zhang"
 description: "Yixin Zhang is a Mid-career Soil Carbon researcher at Hefei University of Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.379677
+date: 2026-07-11T12:53:40.584839
 url: "/cdr-researcher-census/researchers/yixin-zhang-a5100351/"
 layout: "researcher"
 hiddenInHomeList: true

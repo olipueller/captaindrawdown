@@ -1,7 +1,7 @@
 ---
 title: "Sandeep K. Malyan"
 description: "Sandeep K. Malyan is a Senior Soil Carbon researcher at National Institute of Hydrology in IN. With 93 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.805493
+date: 2026-07-11T12:53:40.001092
 url: "/cdr-researcher-census/researchers/sandeep-k-malyan-a5030032/"
 layout: "researcher"
 hiddenInHomeList: true

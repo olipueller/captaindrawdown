@@ -1,7 +1,7 @@
 ---
 title: "Gautam Priyadarshi"
 description: "Gautam Priyadarshi is a Mid-career Biochar researcher at Hemchandracharya North Gujarat University in IN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.085210
+date: 2026-07-11T12:53:41.333511
 url: "/cdr-researcher-census/researchers/gautam-priyadarshi-a5073725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 159 |
 | Publications | 24 |
-| CDR Focus | 8.3% |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,7 +53,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Green synthesis of carbon nanospheres from Vachellia nilotica for pendimethalin removal** (2025)
    5 citations · Biochar
 
-2. **Development of novel biochar derived from <i>Bacopa monnieri</i> leaves for adsorptive removal of pendimethalin herbicide from binary and ternary pesticide mixture** (2026)
+2. **Bacopa monnieri biochar derived carbon nanospheres for pendimethalin remediation from water** (2026)
+   0 citations · Biochar
+
+3. **Development of novel biochar derived from <i>Bacopa monnieri</i> leaves for adsorptive removal of pendimethalin herbicide from binary and ternary pesticide mixture** (2026)
    0 citations · Biochar
 
 ## External Profiles

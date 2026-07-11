@@ -1,7 +1,7 @@
 ---
 title: "Yapeng Jiao"
 description: "Yapeng Jiao is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.471968
+date: 2026-07-11T12:53:40.684357
 url: "/cdr-researcher-census/researchers/yapeng-jiao-a5026722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 342 |
 | Publications | 9 |
-| CDR Focus | 66.7% |
-| Trajectory | Stable |
+| CDR Focus | 88.9% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -62,7 +62,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Microbial life-history strategies drive soil carbon stabilization under balanced organic substitution: Trade-offs between yield- and acquisition-oriented metabolisms** (2025)
    1 citations · Soil Carbon
 
-6. **Changes in soil particulate and mineral-associated organic carbon contents under nitrogen addition** (2022)
+6. **Nitrogen Fertilizer Builds Up Soil Organic Carbon Under Straw Return Via Microbial Necromass Formation** (2023)
+   1 citations · Soil Carbon
+
+7. **Nitrogen Fertilizers Prime Bacterial Necromass Formation and Carbon Sequestration in Soil** (2022)
+   1 citations · Soil Carbon
+
+8. **Changes in soil particulate and mineral-associated organic carbon contents under nitrogen addition** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

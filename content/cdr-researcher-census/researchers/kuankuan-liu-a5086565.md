@@ -1,7 +1,7 @@
 ---
 title: "Kuankuan Liu"
 description: "Kuankuan Liu is a Mid-career Biochar researcher at Xi'an Jiaotong University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.027631
+date: 2026-07-11T12:53:40.249163
 url: "/cdr-researcher-census/researchers/kuankuan-liu-a5086565/"
 layout: "researcher"
 hiddenInHomeList: true

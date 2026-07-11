@@ -1,7 +1,7 @@
 ---
 title: "José Romão Franca"
 description: "José Romão Franca is a Mid-career Soil Carbon researcher at Universidade Federal de Lavras in BR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.200069
+date: 2026-07-11T12:53:41.439485
 url: "/cdr-researcher-census/researchers/jose-romao-franca-a5085711/"
 layout: "researcher"
 hiddenInHomeList: true

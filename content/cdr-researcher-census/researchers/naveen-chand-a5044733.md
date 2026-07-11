@@ -1,7 +1,7 @@
 ---
 title: "Naveen Chand"
 description: "Naveen Chand is a Mid-career Biochar researcher at All India Institute of Medical Sciences Raipur in IN. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.294717
+date: 2026-07-11T12:53:40.497294
 url: "/cdr-researcher-census/researchers/naveen-chand-a5044733/"
 layout: "researcher"
 hiddenInHomeList: true

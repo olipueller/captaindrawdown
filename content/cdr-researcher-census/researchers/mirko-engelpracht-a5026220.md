@@ -1,7 +1,7 @@
 ---
 title: "Mirko Engelpracht"
 description: "Mirko Engelpracht is a Mid-career DAC researcher at RWTH Aachen University in DE. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.112374
+date: 2026-07-11T12:53:41.358753
 url: "/cdr-researcher-census/researchers/mirko-engelpracht-a5026220/"
 layout: "researcher"
 hiddenInHomeList: true

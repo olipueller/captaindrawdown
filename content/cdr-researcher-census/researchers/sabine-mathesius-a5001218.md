@@ -1,7 +1,7 @@
 ---
 title: "Sabine Mathesius"
 description: "Sabine Mathesius is a Mid-career General CDR researcher at Leibniz Association in DE. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.360505
+date: 2026-07-11T12:53:40.565372
 url: "/cdr-researcher-census/researchers/sabine-mathesius-a5001218/"
 layout: "researcher"
 hiddenInHomeList: true

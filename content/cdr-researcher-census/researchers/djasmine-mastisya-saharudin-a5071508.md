@@ -1,7 +1,7 @@
 ---
 title: "Djasmine Mastisya Saharudin"
 description: "Djasmine Mastisya Saharudin is an Early-career General CDR researcher at University of Manchester in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.775952
+date: 2026-07-11T12:53:41.131546
 url: "/cdr-researcher-census/researchers/djasmine-mastisya-saharudin-a5071508/"
 layout: "researcher"
 hiddenInHomeList: true

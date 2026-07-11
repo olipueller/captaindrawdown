@@ -1,7 +1,7 @@
 ---
 title: "Xiao Chen"
 description: "Xiao Chen is a Senior Soil Carbon researcher at Donghua University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.674600
+date: 2026-07-11T12:53:40.922539
 url: "/cdr-researcher-census/researchers/xiao-chen-a5100617/"
 layout: "researcher"
 hiddenInHomeList: true

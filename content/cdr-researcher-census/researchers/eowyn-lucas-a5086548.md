@@ -1,7 +1,7 @@
 ---
 title: "Éowyn Lucas"
 description: "Éowyn Lucas is a Mid-career General CDR researcher at California Institute of Technology in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.841470
+date: 2026-07-11T12:53:41.215001
 url: "/cdr-researcher-census/researchers/eowyn-lucas-a5086548/"
 layout: "researcher"
 hiddenInHomeList: true

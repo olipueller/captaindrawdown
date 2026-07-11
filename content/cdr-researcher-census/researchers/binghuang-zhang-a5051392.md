@@ -1,7 +1,7 @@
 ---
 title: "Binghuang Zhang"
 description: "Binghuang Zhang is an Early-career Soil Carbon researcher at Xiamen University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.299927
+date: 2026-07-11T12:53:41.529775
 url: "/cdr-researcher-census/researchers/binghuang-zhang-a5051392/"
 layout: "researcher"
 hiddenInHomeList: true

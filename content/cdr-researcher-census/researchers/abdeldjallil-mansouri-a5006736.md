@@ -1,7 +1,7 @@
 ---
 title: "Abdeldjallil Mansouri"
 description: "Abdeldjallil Mansouri is a Mid-career Biochar researcher at Université de Saida Dr.Moulay Tahar in DZ. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.395892
+date: 2026-07-11T12:53:41.602225
 url: "/cdr-researcher-census/researchers/abdeldjallil-mansouri-a5006736/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vandana Sreedharan"
 description: "Vandana Sreedharan is a Senior Soil Carbon researcher at Kannur University in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.098840
+date: 2026-07-11T12:53:40.322079
 url: "/cdr-researcher-census/researchers/vandana-sreedharan-a5055510/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Robert F. Strzepek"
 description: "Robert F. Strzepek is a Senior Ocean CDR researcher at University of Tasmania in AU. With 88 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.791136
+date: 2026-07-11T12:53:39.983209
 url: "/cdr-researcher-census/researchers/robert-f-strzepek-a5087477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 34 |
 | Citations | 6,935 |
 | Publications | 88 |
-| CDR Focus | 9.1% |
+| CDR Focus | 10.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -74,11 +74,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 8. **Identifying the most (cost-)efficient regions for CO2 removal with Iron Fertilization in the Southern Ocean** (2023)
    1 citations · General CDR
 
-9. **Effects of ocean alkalinity enhancement on Southern Ocean phytoplankton growth and community composition** (2026)
-   0 citations · Ocean CDR
+9. **Metal bioaccumulation from diatoms to Antarctic krill under ocean alkalinity enhancement with steel slag** (2026)
+   0 citations · General CDR
 
-10. **Comment on egusphere-2023-2120** (2023)
-   0 citations
+10. **Effects of ocean alkalinity enhancement on Southern Ocean phytoplankton growth and community composition** (2026)
+   0 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shujian Yang"
 description: "Shujian Yang is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.671590
+date: 2026-07-11T12:53:40.891996
 url: "/cdr-researcher-census/researchers/shujian-yang-a5085287/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Margarita de Las Obras Loscertales"
 description: "Margarita de Las Obras Loscertales is a Mid-career General CDR researcher at Instituto de Carboquímica in ES. With 50 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.422017
+date: 2026-07-11T12:53:40.629586
 url: "/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true

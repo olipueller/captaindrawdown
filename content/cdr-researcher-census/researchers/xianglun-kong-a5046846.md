@@ -1,7 +1,7 @@
 ---
 title: "Xianglun Kong"
 description: "Xianglun Kong is a Mid-career Soil Carbon researcher at Shandong Normal University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.206924
+date: 2026-07-11T12:53:40.407515
 url: "/cdr-researcher-census/researchers/xianglun-kong-a5046846/"
 layout: "researcher"
 hiddenInHomeList: true

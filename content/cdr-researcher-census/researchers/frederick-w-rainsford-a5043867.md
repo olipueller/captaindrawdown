@@ -1,7 +1,7 @@
 ---
 title: "Frederick W. Rainsford"
 description: "Frederick W. Rainsford is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.551976
+date: 2026-07-11T12:53:40.768615
 url: "/cdr-researcher-census/researchers/frederick-w-rainsford-a5043867/"
 layout: "researcher"
 hiddenInHomeList: true

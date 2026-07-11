@@ -1,7 +1,7 @@
 ---
 title: "Changfu Liu"
 description: "Changfu Liu is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 75 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.954708
+date: 2026-07-11T12:53:40.172465
 url: "/cdr-researcher-census/researchers/changfu-liu-a5101536/"
 layout: "researcher"
 hiddenInHomeList: true

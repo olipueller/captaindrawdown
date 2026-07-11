@@ -1,7 +1,7 @@
 ---
 title: "Lúcia H. Vieira"
 description: "Lúcia H. Vieira is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.780409
+date: 2026-07-11T12:53:41.136864
 url: "/cdr-researcher-census/researchers/lucia-h-vieira-a5044190/"
 layout: "researcher"
 hiddenInHomeList: true

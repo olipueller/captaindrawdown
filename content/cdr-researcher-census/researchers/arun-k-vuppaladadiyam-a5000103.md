@@ -1,7 +1,7 @@
 ---
 title: "Arun K. Vuppaladadiyam"
 description: "Arun K. Vuppaladadiyam is a Senior Biochar researcher at Curtin University in AU. With 36 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.870416
+date: 2026-07-11T12:53:40.078901
 url: "/cdr-researcher-census/researchers/arun-k-vuppaladadiyam-a5000103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 24 |
 | Citations | 2,326 |
 | Publications | 36 |
-| CDR Focus | 5.6% |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,8 +53,14 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Thermal plasma gasification of organic waste stream coupled with CO<sub>2</sub>-sorption enhanced reforming employing different sorbents for enhanced hydrogen production** (2022)
    66 citations · BECCS
 
-2. **The pyrolysis of biosolids in a novel fluidized bed heat exchanger reactor: Pilot plant trials, biochar properties, gas emissions testing, and fate of PFAS** (2025)
+2. **Enhancing energy efficiency and by-product quality of anaerobic co-digestion of food and garden waste: hybridisation with thermochemical conversion to create a sustainable circular economy** (2026)
+   2 citations · Biochar
+
+3. **The pyrolysis of biosolids in a novel fluidized bed heat exchanger reactor: Pilot plant trials, biochar properties, gas emissions testing, and fate of PFAS** (2025)
    1 citations · Biochar
+
+4. **Gas-Environment-Dependent H₂S Removal over Biosolid-Derived Carbon Materials: Mechanistic Divergence between Biochar and Hydrochar** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

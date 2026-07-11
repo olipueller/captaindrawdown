@@ -1,7 +1,7 @@
 ---
 title: "Jiamu Xiao"
 description: "Jiamu Xiao is a Mid-career Biochar researcher at Shanghai Normal University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.298594
+date: 2026-07-11T12:53:40.501088
 url: "/cdr-researcher-census/researchers/jiamu-xiao-a5104330/"
 layout: "researcher"
 hiddenInHomeList: true

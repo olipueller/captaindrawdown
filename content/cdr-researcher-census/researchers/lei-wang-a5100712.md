@@ -1,7 +1,7 @@
 ---
 title: "Lei Wang"
 description: "Lei Wang is a Senior Soil Carbon researcher at Tongji University in CN. With 67 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.944317
+date: 2026-07-11T12:53:40.161640
 url: "/cdr-researcher-census/researchers/lei-wang-a5100712/"
 layout: "researcher"
 hiddenInHomeList: true

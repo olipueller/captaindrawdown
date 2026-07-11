@@ -1,7 +1,7 @@
 ---
 title: "Amelia R. Nelson"
 description: "Amelia R. Nelson is a Senior Soil Carbon researcher at Colorado State University in US. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.223258
+date: 2026-07-11T12:53:40.424925
 url: "/cdr-researcher-census/researchers/amelia-r-nelson-a5069205/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zongliang Kou"
 description: "Zongliang Kou is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.182047
+date: 2026-07-11T12:53:41.422137
 url: "/cdr-researcher-census/researchers/zongliang-kou-a5015467/"
 layout: "researcher"
 hiddenInHomeList: true

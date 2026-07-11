@@ -1,7 +1,7 @@
 ---
 title: "Yongzhong Feng"
 description: "Yongzhong Feng is a Senior Soil Carbon researcher at Yangon Technological University in MM. With 100 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.796096
+date: 2026-07-11T12:53:39.989816
 url: "/cdr-researcher-census/researchers/yongzhong-feng-a5050009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 33 |
 | Citations | 6,158 |
 | Publications | 100 |
-| CDR Focus | 6.0% |
-| Trajectory | Declining |
+| CDR Focus | 8.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -65,14 +65,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Assessment and Multiscenario Simulation of Land Use and Ecosystem Services Interactions in Inner Mongolia** (2024)
    12 citations · General CDR
 
-6. **Potential relationships between greenhouse gas emissions and soil physicochemical properties in summer maize field with straw-biochar amendment** (2025)
+6. **Toward Low-Emission Agriculture: Synergistic Contribution of Inorganic Nitrogen and Organic Fertilizers to GHG Emissions and Strategies for Mitigation** (2025)
+   11 citations
+
+7. **Divergent mechanisms of rhizosphere and non-rhizosphere soil organic carbon sequestration under precipitation variability: Evidence from microbial life-history strategies** (2025)
+   9 citations · Soil Carbon
+
+8. **Potential relationships between greenhouse gas emissions and soil physicochemical properties in summer maize field with straw-biochar amendment** (2025)
    6 citations · Biochar
 
-7. **[Mineralization Characteristics of Soil Organic Carbon and Its Relationship with Organic Carbon Components in Artificial <i>Robinia pseudoacacia</i> Forest in Loess Hilly Region].** (2023)
-   0 citations · Soil Carbon
+9. **Effects of Long-Term Mulching on Soil Aggregation and Organic Carbon Sequestration in Sloping Croplands of the Loess Plateau** (2026)
+   1 citations · Soil Carbon
 
-8. **[Changes in Soil Microbial Carbon-Degrading Enzymes and Their Relationships with Carbon Pool Components During the Restoration Process of <i>Robinia pseudoacacia</i>].** (2022)
-   0 citations
+10. **[Mineralization Characteristics of Soil Organic Carbon and Its Relationship with Organic Carbon Components in Artificial <i>Robinia pseudoacacia</i> Forest in Loess Hilly Region].** (2023)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

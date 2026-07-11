@@ -1,7 +1,7 @@
 ---
 title: "Fazhu Zhao"
 description: "Fazhu Zhao is a Senior Soil Carbon researcher at Northwest University in CN. With 103 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.804965
+date: 2026-07-11T12:53:40.000459
 url: "/cdr-researcher-census/researchers/fazhu-zhao-a5031907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 39 |
 | Citations | 5,184 |
 | Publications | 103 |
-| CDR Focus | 6.8% |
-| Trajectory | Stable |
+| CDR Focus | 8.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -65,14 +65,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Effects of long-term diversified crop rotations on soil carbon dynamics mediated by microbial carbon degradation genes in the Loess Plateau** (2026)
    2 citations · Soil Carbon
 
-7. **[Effects of Green Manure and Nitrogen Application on Soil Carbon Fractions in a Dryland Winter Wheat Field].** (2025)
+7. **Regulation of Microbial Necromass Carbon in Restoring Alpine Meadows: Key Roles of Soil Properties and Fungal Network Stability** (2026)
    0 citations · Soil Carbon
 
-8. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
+8. **Divergent Microbial and Enzymatic Drivers Regulate Particulate and Mineral-Associated Organic Carbon During Alpine Meadow Restoration** (2026)
+   0 citations · Soil Carbon
+
+9. **[Effects of Green Manure and Nitrogen Application on Soil Carbon Fractions in a Dryland Winter Wheat Field].** (2025)
+   0 citations · Soil Carbon
+
+10. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
    0 citations
-
-9. **Regulation of Soil Carbon Fractions by Microbial C Degradation Genes Under Long-Term Crop Rotation on the Loess Plateau** (2024)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

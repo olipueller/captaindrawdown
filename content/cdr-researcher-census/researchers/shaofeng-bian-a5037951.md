@@ -1,7 +1,7 @@
 ---
 title: "Shaofeng Bian"
 description: "Shaofeng Bian is a Senior Soil Carbon researcher at China University of Geosciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.411208
+date: 2026-07-11T12:53:40.617867
 url: "/cdr-researcher-census/researchers/shaofeng-bian-a5037951/"
 layout: "researcher"
 hiddenInHomeList: true

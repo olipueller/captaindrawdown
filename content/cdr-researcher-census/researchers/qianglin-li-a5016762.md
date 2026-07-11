@@ -1,7 +1,7 @@
 ---
 title: "Qianglin Li"
 description: "Qianglin Li is a Mid-career Biochar researcher at Chengdu Technological University. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.209223
+date: 2026-07-11T12:53:41.447434
 url: "/cdr-researcher-census/researchers/qianglin-li-a5016762/"
 layout: "researcher"
 hiddenInHomeList: true

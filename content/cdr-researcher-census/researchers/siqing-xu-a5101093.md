@@ -1,7 +1,7 @@
 ---
 title: "Siqing Xu"
 description: "Siqing Xu is a Mid-career General CDR researcher at Dubai Pharmacy College in AE. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.704462
+date: 2026-07-11T12:53:40.965325
 url: "/cdr-researcher-census/researchers/siqing-xu-a5101093/"
 layout: "researcher"
 hiddenInHomeList: true

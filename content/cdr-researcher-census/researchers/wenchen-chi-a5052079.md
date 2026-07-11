@@ -1,7 +1,7 @@
 ---
 title: "Wenchen Chi"
 description: "Wenchen Chi is a Senior Soil Carbon researcher at Zhejiang University of Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.583578
+date: 2026-07-11T12:53:40.800515
 url: "/cdr-researcher-census/researchers/wenchen-chi-a5052079/"
 layout: "researcher"
 hiddenInHomeList: true

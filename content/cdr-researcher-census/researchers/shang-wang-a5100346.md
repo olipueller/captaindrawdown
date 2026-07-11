@@ -1,7 +1,7 @@
 ---
 title: "Shang Wang"
 description: "Shang Wang is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.423986
+date: 2026-07-11T12:53:40.631635
 url: "/cdr-researcher-census/researchers/shang-wang-a5100346/"
 layout: "researcher"
 hiddenInHomeList: true

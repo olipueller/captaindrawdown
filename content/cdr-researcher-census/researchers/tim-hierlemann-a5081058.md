@@ -1,7 +1,7 @@
 ---
 title: "Tim Hierlemann"
 description: "Tim Hierlemann is a Mid-career Ocean CDR researcher at Universität Hamburg in DE. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.270991
+date: 2026-07-11T12:53:41.505206
 url: "/cdr-researcher-census/researchers/tim-hierlemann-a5081058/"
 layout: "researcher"
 hiddenInHomeList: true

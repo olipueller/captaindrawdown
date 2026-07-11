@@ -1,7 +1,7 @@
 ---
 title: "Kate O’Sullivan"
 description: "Kate O’Sullivan is a Mid-career General CDR researcher at Cardiff University in GB. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.459715
+date: 2026-07-11T12:53:40.670785
 url: "/cdr-researcher-census/researchers/kate-osullivan-a5061472/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cathy Wimart-Rousseau"
 description: "Cathy Wimart-Rousseau is a Mid-career Ocean CDR researcher at National Oceanography Centre in GB. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.925674
+date: 2026-07-11T12:53:40.142035
 url: "/cdr-researcher-census/researchers/cathy-wimart-rousseau-a5056433/"
 layout: "researcher"
 hiddenInHomeList: true

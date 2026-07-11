@@ -1,7 +1,7 @@
 ---
 title: "Fengxiang Wang"
 description: "Fengxiang Wang is a Senior General CDR researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.574975
+date: 2026-07-11T12:53:40.791728
 url: "/cdr-researcher-census/researchers/fengxiang-wang-a5115597/"
 layout: "researcher"
 hiddenInHomeList: true

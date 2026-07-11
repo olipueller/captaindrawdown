@@ -1,7 +1,7 @@
 ---
 title: "Gabin Piton"
 description: "Gabin Piton is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.263572
+date: 2026-07-11T12:53:40.465387
 url: "/cdr-researcher-census/researchers/gabin-piton-a5043179/"
 layout: "researcher"
 hiddenInHomeList: true

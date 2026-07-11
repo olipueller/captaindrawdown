@@ -1,7 +1,7 @@
 ---
 title: "Christoph Pucher"
 description: "Christoph Pucher is a Mid-career Soil Carbon researcher at BOKU University in AT. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.391213
+date: 2026-07-11T12:53:41.597341
 url: "/cdr-researcher-census/researchers/christoph-pucher-a5024844/"
 layout: "researcher"
 hiddenInHomeList: true

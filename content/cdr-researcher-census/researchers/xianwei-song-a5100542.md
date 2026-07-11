@@ -1,7 +1,7 @@
 ---
 title: "Xianwei Song"
 description: "Xianwei Song is a Mid-career Soil Carbon researcher. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.074488
+date: 2026-07-11T12:53:40.297041
 url: "/cdr-researcher-census/researchers/xianwei-song-a5100542/"
 layout: "researcher"
 hiddenInHomeList: true

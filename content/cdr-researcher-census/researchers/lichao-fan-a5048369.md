@@ -1,7 +1,7 @@
 ---
 title: "Lichao Fan"
 description: "Lichao Fan is a Senior Soil Carbon researcher at University of Goettingen in DE. With 55 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.901744
+date: 2026-07-11T12:53:40.114909
 url: "/cdr-researcher-census/researchers/lichao-fan-a5048369/"
 layout: "researcher"
 hiddenInHomeList: true

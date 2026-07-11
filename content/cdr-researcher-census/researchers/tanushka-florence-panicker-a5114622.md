@@ -1,7 +1,7 @@
 ---
 title: "Tanushka Florence Panicker"
 description: "Tanushka Florence Panicker is a Mid-career General CDR researcher at Manipal Academy of Higher Education in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.992780
+date: 2026-07-11T12:53:41.278383
 url: "/cdr-researcher-census/researchers/tanushka-florence-panicker-a5114622/"
 layout: "researcher"
 hiddenInHomeList: true

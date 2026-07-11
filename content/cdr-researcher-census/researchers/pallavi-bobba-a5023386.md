@@ -1,7 +1,7 @@
 ---
 title: "Pallavi Bobba"
 description: "Pallavi Bobba is a Mid-career General CDR researcher at Argonne National Laboratory in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.662743
+date: 2026-07-11T12:53:40.882926
 url: "/cdr-researcher-census/researchers/pallavi-bobba-a5023386/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lárus Heiðarsson"
 description: "Lárus Heiðarsson is an Early-career Soil Carbon researcher. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.420986
+date: 2026-07-11T12:53:41.626780
 url: "/cdr-researcher-census/researchers/larus-heiarsson-a5012123/"
 layout: "researcher"
 hiddenInHomeList: true

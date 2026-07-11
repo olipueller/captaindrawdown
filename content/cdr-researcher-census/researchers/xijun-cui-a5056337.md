@@ -1,7 +1,7 @@
 ---
 title: "Xijun Cui"
 description: "Xijun Cui is a Mid-career Soil Carbon researcher at Shenyang Environmental Protection Bureau in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.035809
+date: 2026-07-11T12:53:41.297450
 url: "/cdr-researcher-census/researchers/xijun-cui-a5056337/"
 layout: "researcher"
 hiddenInHomeList: true

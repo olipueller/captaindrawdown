@@ -1,7 +1,7 @@
 ---
 title: "Xavier Le Den"
 description: "Xavier Le Den is a Mid-career General CDR researcher at Ramboll (United Kingdom) in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.269326
+date: 2026-07-11T12:53:41.503549
 url: "/cdr-researcher-census/researchers/xavier-le-den-a5075960/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Danbo Pang"
 description: "Danbo Pang is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 53 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.153365
+date: 2026-07-11T12:53:40.376829
 url: "/cdr-researcher-census/researchers/danbo-pang-a5056053/"
 layout: "researcher"
 hiddenInHomeList: true

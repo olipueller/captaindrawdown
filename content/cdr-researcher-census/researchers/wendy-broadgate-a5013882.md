@@ -1,7 +1,7 @@
 ---
 title: "Wendy Broadgate"
 description: "Wendy Broadgate is a Senior General CDR researcher at Future Earth Secretariat in SE. With 44 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.785821
+date: 2026-07-11T12:53:39.974888
 url: "/cdr-researcher-census/researchers/wendy-broadgate-a5013882/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mostafa A. Abdellatif"
 description: "Mostafa A. Abdellatif is a Mid-career Soil Carbon researcher at Egyptian Russian University in EG. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.639978
+date: 2026-07-11T12:53:40.859447
 url: "/cdr-researcher-census/researchers/mostafa-a-abdellatif-a5035234/"
 layout: "researcher"
 hiddenInHomeList: true

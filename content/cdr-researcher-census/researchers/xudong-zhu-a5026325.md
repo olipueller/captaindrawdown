@@ -1,7 +1,7 @@
 ---
 title: "Xudong Zhu"
 description: "Xudong Zhu is a Senior Soil Carbon researcher at Xiamen University in CN. With 78 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.892521
+date: 2026-07-11T12:53:40.104800
 url: "/cdr-researcher-census/researchers/xudong-zhu-a5026325/"
 layout: "researcher"
 hiddenInHomeList: true

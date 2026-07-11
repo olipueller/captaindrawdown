@@ -1,7 +1,7 @@
 ---
 title: "Thomas G. Sim"
 description: "Thomas G. Sim is a Mid-career Soil Carbon researcher at Forest Research in GB. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.206185
+date: 2026-07-11T12:53:40.406807
 url: "/cdr-researcher-census/researchers/thomas-g-sim-a5049433/"
 layout: "researcher"
 hiddenInHomeList: true

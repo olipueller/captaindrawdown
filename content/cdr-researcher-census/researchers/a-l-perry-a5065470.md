@@ -1,7 +1,7 @@
 ---
 title: "A. L. Perry"
 description: "A. L. Perry is a Mid-career Soil Carbon researcher at University of New Hampshire in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.185192
+date: 2026-07-11T12:53:41.424872
 url: "/cdr-researcher-census/researchers/a-l-perry-a5065470/"
 layout: "researcher"
 hiddenInHomeList: true

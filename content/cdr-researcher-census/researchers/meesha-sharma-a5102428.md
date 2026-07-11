@@ -1,7 +1,7 @@
 ---
 title: "Meesha Sharma"
 description: "Meesha Sharma is a Mid-career Soil Carbon researcher at University of Delhi in IN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.896669
+date: 2026-07-11T12:53:41.235086
 url: "/cdr-researcher-census/researchers/meesha-sharma-a5102428/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zahid Ur Rahman"
 description: "Zahid Ur Rahman is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.348812
+date: 2026-07-11T12:53:41.566451
 url: "/cdr-researcher-census/researchers/zahid-ur-rahman-a5103025/"
 layout: "researcher"
 hiddenInHomeList: true

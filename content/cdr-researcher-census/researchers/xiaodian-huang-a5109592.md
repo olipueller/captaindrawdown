@@ -1,7 +1,7 @@
 ---
 title: "Xiaodian Huang"
 description: "Xiaodian Huang is a Mid-career Biochar researcher at PowerChina (China) in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.902170
+date: 2026-07-11T12:53:41.238656
 url: "/cdr-researcher-census/researchers/xiaodian-huang-a5109592/"
 layout: "researcher"
 hiddenInHomeList: true

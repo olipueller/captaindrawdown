@@ -1,7 +1,7 @@
 ---
 title: "Arati Ray"
 description: "Arati Ray is an Early-career Soil Carbon researcher at Institute of Minerals and Materials Technology in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.077510
+date: 2026-07-11T12:53:41.325679
 url: "/cdr-researcher-census/researchers/arati-ray-a5078573/"
 layout: "researcher"
 hiddenInHomeList: true

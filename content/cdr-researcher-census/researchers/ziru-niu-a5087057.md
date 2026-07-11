@@ -1,7 +1,7 @@
 ---
 title: "Ziru Niu"
 description: "Ziru Niu is a Mid-career Soil Carbon researcher at Changchun University of Science and Technology in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.560289
+date: 2026-07-11T12:53:40.776705
 url: "/cdr-researcher-census/researchers/ziru-niu-a5087057/"
 layout: "researcher"
 hiddenInHomeList: true

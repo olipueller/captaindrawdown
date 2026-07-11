@@ -1,7 +1,7 @@
 ---
 title: "Anjelo Francis Denis"
 description: "Anjelo Francis Denis is a Mid-career Biochar researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.106724
+date: 2026-07-11T12:53:41.353577
 url: "/cdr-researcher-census/researchers/anjelo-francis-denis-a5046103/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "B. R. Singh"
 description: "B. R. Singh is an Early-career Soil Carbon researcher at Chitwan Medical College in NP. With 12 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.155815
+date: 2026-07-11T12:53:41.397664
 url: "/cdr-researcher-census/researchers/b-r-singh-a5024697/"
 layout: "researcher"
 hiddenInHomeList: true

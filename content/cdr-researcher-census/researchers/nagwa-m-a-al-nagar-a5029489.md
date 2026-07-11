@@ -1,7 +1,7 @@
 ---
 title: "Nagwa M. A. Al-Nagar"
 description: "Nagwa M. A. Al-Nagar is a Mid-career Biochar researcher at Environment and Plant Protection Research Institute in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.421178
+date: 2026-07-11T12:53:41.627004
 url: "/cdr-researcher-census/researchers/nagwa-m-a-al-nagar-a5029489/"
 layout: "researcher"
 hiddenInHomeList: true

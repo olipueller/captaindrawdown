@@ -1,7 +1,7 @@
 ---
 title: "Zhenghu Zhou"
 description: "Zhenghu Zhou is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 73 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.811995
+date: 2026-07-11T12:53:40.008811
 url: "/cdr-researcher-census/researchers/zhenghu-zhou-a5019471/"
 layout: "researcher"
 hiddenInHomeList: true

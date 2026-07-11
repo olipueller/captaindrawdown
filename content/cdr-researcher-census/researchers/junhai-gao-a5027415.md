@@ -1,7 +1,7 @@
 ---
 title: "Junhai Gao"
 description: "Junhai Gao is a Senior Soil Carbon researcher at Tangshan College in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.419086
+date: 2026-07-11T12:53:41.624660
 url: "/cdr-researcher-census/researchers/junhai-gao-a5027415/"
 layout: "researcher"
 hiddenInHomeList: true

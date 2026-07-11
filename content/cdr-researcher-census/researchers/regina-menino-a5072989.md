@@ -1,7 +1,7 @@
 ---
 title: "Regina Menino"
 description: "Regina Menino is a Senior Soil Carbon researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.595845
+date: 2026-07-11T12:53:40.812598
 url: "/cdr-researcher-census/researchers/regina-menino-a5072989/"
 layout: "researcher"
 hiddenInHomeList: true

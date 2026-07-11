@@ -1,7 +1,7 @@
 ---
 title: "Camila Fernanda de Oliveira Junkes"
 description: "Camila Fernanda de Oliveira Junkes is a Mid-career Soil Carbon researcher at Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso in BR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.784107
+date: 2026-07-11T12:53:41.140959
 url: "/cdr-researcher-census/researchers/camila-fernanda-de-oliveira-junkes-a5086874/"
 layout: "researcher"
 hiddenInHomeList: true

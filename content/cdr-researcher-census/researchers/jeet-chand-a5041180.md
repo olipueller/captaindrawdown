@@ -1,7 +1,7 @@
 ---
 title: "Jeet Chand"
 description: "Jeet Chand is a Mid-career Soil Carbon researcher at Government of Nepal in NP. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.232508
+date: 2026-07-11T12:53:41.469183
 url: "/cdr-researcher-census/researchers/jeet-chand-a5041180/"
 layout: "researcher"
 hiddenInHomeList: true

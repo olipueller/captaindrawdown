@@ -1,7 +1,7 @@
 ---
 title: "Asha Paudel"
 description: "Asha Paudel is a Mid-career General CDR researcher at Florida Atlantic University in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.891658
+date: 2026-07-11T12:53:41.231333
 url: "/cdr-researcher-census/researchers/asha-paudel-a5050098/"
 layout: "researcher"
 hiddenInHomeList: true

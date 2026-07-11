@@ -1,7 +1,7 @@
 ---
 title: "J.L.B. Walker"
 description: "J.L.B. Walker is a Senior General CDR researcher. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.429336
+date: 2026-07-11T12:53:41.635496
 url: "/cdr-researcher-census/researchers/jlb-walker-a5019115/"
 layout: "researcher"
 hiddenInHomeList: true

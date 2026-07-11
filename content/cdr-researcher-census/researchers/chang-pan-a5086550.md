@@ -1,7 +1,7 @@
 ---
 title: "Chang Pan"
 description: "Chang Pan is a Senior Soil Carbon researcher at China Agricultural University in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.104306
+date: 2026-07-11T12:53:40.328022
 url: "/cdr-researcher-census/researchers/chang-pan-a5086550/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 757 |
 | Publications | 29 |
-| CDR Focus | 6.9% |
+| CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Positive effects of species mixing on biodiversity of understory plant communities and soil health in forest plantations** (2025)
    41 citations · Soil Carbon
+
+3. **Positive effects of species mixing on soil carbon sequestration and water retention in global forest plantations** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

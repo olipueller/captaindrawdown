@@ -1,7 +1,7 @@
 ---
 title: "Qiulai Song"
 description: "Qiulai Song is a Mid-career Soil Carbon researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.281136
+date: 2026-07-11T12:53:41.514002
 url: "/cdr-researcher-census/researchers/qiulai-song-a5038903/"
 layout: "researcher"
 hiddenInHomeList: true

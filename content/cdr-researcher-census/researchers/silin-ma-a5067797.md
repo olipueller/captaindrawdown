@@ -1,7 +1,7 @@
 ---
 title: "Silin Ma"
 description: "Silin Ma is a Mid-career Soil Carbon researcher at Oklahoma State Department of Health in US. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.486680
+date: 2026-07-11T12:53:40.700124
 url: "/cdr-researcher-census/researchers/silin-ma-a5067797/"
 layout: "researcher"
 hiddenInHomeList: true

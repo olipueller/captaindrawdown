@@ -1,7 +1,7 @@
 ---
 title: "Tullia Calogiuri"
 description: "Tullia Calogiuri is an Early-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.401408
+date: 2026-07-11T12:53:41.607827
 url: "/cdr-researcher-census/researchers/tullia-calogiuri-a5091603/"
 layout: "researcher"
 hiddenInHomeList: true

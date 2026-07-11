@@ -1,7 +1,7 @@
 ---
 title: "José Ángel Moreno-Cabezuelo"
 description: "José Ángel Moreno-Cabezuelo is a Mid-career General CDR researcher at Delaware State University in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.669761
+date: 2026-07-11T12:53:40.889990
 url: "/cdr-researcher-census/researchers/jose-angel-moreno-cabezuelo-a5009816/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Melinda Martinez"
 description: "Melinda Martinez is a Mid-career Soil Carbon researcher at United States Geological Survey in US. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.170857
+date: 2026-07-11T12:53:41.411960
 url: "/cdr-researcher-census/researchers/melinda-martinez-a5021739/"
 layout: "researcher"
 hiddenInHomeList: true

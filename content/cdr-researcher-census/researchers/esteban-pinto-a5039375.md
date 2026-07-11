@@ -1,7 +1,7 @@
 ---
 title: "Esteban Pinto"
 description: "Esteban Pinto is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.181436
+date: 2026-07-11T12:53:40.397157
 url: "/cdr-researcher-census/researchers/esteban-pinto-a5039375/"
 layout: "researcher"
 hiddenInHomeList: true

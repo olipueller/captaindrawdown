@@ -1,7 +1,7 @@
 ---
 title: "Raktim Sen"
 description: "Raktim Sen is a Mid-career DAC researcher at ExxonMobil (United States) in US. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.954329
+date: 2026-07-11T12:53:40.172085
 url: "/cdr-researcher-census/researchers/raktim-sen-a5001915/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chao Jin"
 description: "Chao Jin is a Senior General CDR researcher at Tianjin University in CN. With 170 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.803136
+date: 2026-07-11T12:53:39.998095
 url: "/cdr-researcher-census/researchers/chao-jin-a5101961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 39 |
 | Citations | 5,436 |
 | Publications | 170 |
-| CDR Focus | 5.3% |
+| CDR Focus | 5.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -68,13 +68,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Scaling carbon removal without delaying emission reductions** (2025)
    5 citations · General CDR
 
-7. **Separate sectoral decarbonization policies accelerate climate action but could jeopardize key sustainability targets** (2025)
+7. **Ambitious Co-scaling of Carbon Dioxide Removal and Decarbonization Delivers Better Climate Outcomes Than Strategies That Prioritize Efforts in One Domain** (2026)
    0 citations · General CDR
 
-8. **Sector-specific and carbon removal targets could limit adverse impacts of climate change and promote sustainability** (2024)
+8. **Separate sectoral decarbonization policies accelerate climate action but could jeopardize key sustainability targets** (2025)
    0 citations · General CDR
 
-9. **Deployment expectations of multi-gigaton scale of carbon dioxide removal could have adverse impacts on global climate system** (2023)
+9. **Sector-specific and carbon removal targets could limit adverse impacts of climate change and promote sustainability** (2024)
+   0 citations · General CDR
+
+10. **Deployment expectations of multi-gigaton scale of carbon dioxide removal could have adverse impacts on global climate system** (2023)
    0 citations · General CDR
 
 ## External Profiles

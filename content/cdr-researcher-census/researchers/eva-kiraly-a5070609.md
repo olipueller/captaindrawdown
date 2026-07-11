@@ -1,7 +1,7 @@
 ---
 title: "Éva Király"
 description: "Éva Király is a Mid-career General CDR researcher at University of Sopron in HU. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.295556
+date: 2026-07-11T12:53:41.525654
 url: "/cdr-researcher-census/researchers/eva-kiraly-a5070609/"
 layout: "researcher"
 hiddenInHomeList: true

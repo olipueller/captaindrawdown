@@ -1,7 +1,7 @@
 ---
 title: "Johannes Svensson"
 description: "Johannes Svensson is a Mid-career General CDR researcher at Institut du Développement Durable et des Relations Internationales in FR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.790060
+date: 2026-07-11T12:53:41.150654
 url: "/cdr-researcher-census/researchers/johannes-svensson-a5018218/"
 layout: "researcher"
 hiddenInHomeList: true

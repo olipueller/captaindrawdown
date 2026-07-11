@@ -1,7 +1,7 @@
 ---
 title: "Sze Yu Lau"
 description: "Sze Yu Lau is a Mid-career Soil Carbon researcher at Biographics (United States) in US. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.880671
+date: 2026-07-11T12:53:41.224331
 url: "/cdr-researcher-census/researchers/sze-yu-lau-a5058369/"
 layout: "researcher"
 hiddenInHomeList: true

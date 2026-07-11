@@ -1,7 +1,7 @@
 ---
 title: "Rinaldi Rachman"
 description: "Rinaldi Rachman is a Mid-career General CDR researcher at Pertamina (Indonesia) in ID. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.535816
+date: 2026-07-11T12:53:40.752167
 url: "/cdr-researcher-census/researchers/rinaldi-rachman-a5028605/"
 layout: "researcher"
 hiddenInHomeList: true

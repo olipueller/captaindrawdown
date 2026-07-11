@@ -1,7 +1,7 @@
 ---
 title: "Trisha Roy"
 description: "Trisha Roy is a Senior Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 69 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.031712
+date: 2026-07-11T12:53:40.253380
 url: "/cdr-researcher-census/researchers/trisha-roy-a5029444/"
 layout: "researcher"
 hiddenInHomeList: true

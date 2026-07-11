@@ -1,7 +1,7 @@
 ---
 title: "Xiangrui Xu"
 description: "Xiangrui Xu is a Mid-career Soil Carbon researcher at Changzhou City Planning and Design Institute in CN. With 34 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.990932
+date: 2026-07-11T12:53:40.210798
 url: "/cdr-researcher-census/researchers/xiangrui-xu-a5004366/"
 layout: "researcher"
 hiddenInHomeList: true

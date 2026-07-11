@@ -1,7 +1,7 @@
 ---
 title: "Zena Smith"
 description: "Zena Smith is a Senior Enhanced Weathering researcher at Jackson State University in US. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.368364
+date: 2026-07-11T12:53:40.573513
 url: "/cdr-researcher-census/researchers/zena-smith-a5038737/"
 layout: "researcher"
 hiddenInHomeList: true

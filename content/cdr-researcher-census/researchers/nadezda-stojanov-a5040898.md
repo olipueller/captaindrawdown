@@ -1,7 +1,7 @@
 ---
 title: "Nadežda Stojanov"
 description: "Nadežda Stojanov is a Mid-career Soil Carbon researcher at Institute of Field and Vegetable Crops in RS. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.148798
+date: 2026-07-11T12:53:41.391843
 url: "/cdr-researcher-census/researchers/nadezda-stojanov-a5040898/"
 layout: "researcher"
 hiddenInHomeList: true

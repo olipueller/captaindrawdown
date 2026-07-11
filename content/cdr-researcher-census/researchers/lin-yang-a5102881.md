@@ -1,7 +1,7 @@
 ---
 title: "Lin Yang"
 description: "Lin Yang is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.920147
+date: 2026-07-11T12:53:41.250427
 url: "/cdr-researcher-census/researchers/lin-yang-a5102881/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ayumi Koishi"
 description: "Ayumi Koishi is a Mid-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.278531
+date: 2026-07-11T12:53:40.480289
 url: "/cdr-researcher-census/researchers/ayumi-koishi-a5029515/"
 layout: "researcher"
 hiddenInHomeList: true

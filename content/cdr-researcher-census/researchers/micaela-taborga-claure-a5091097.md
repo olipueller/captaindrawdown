@@ -1,7 +1,7 @@
 ---
 title: "Micaela Taborga Claure"
 description: "Micaela Taborga Claure is a Mid-career General CDR researcher at Repsol (Spain) in ES. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.560716
+date: 2026-07-11T12:53:40.777129
 url: "/cdr-researcher-census/researchers/micaela-taborga-claure-a5091097/"
 layout: "researcher"
 hiddenInHomeList: true

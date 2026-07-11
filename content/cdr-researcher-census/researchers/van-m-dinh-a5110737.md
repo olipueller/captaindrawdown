@@ -1,7 +1,7 @@
 ---
 title: "Van M. Dinh"
 description: "Van M. Dinh is a Mid-career Soil Carbon researcher at Vietnam National University, Hanoi in VN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.040129
+date: 2026-07-11T12:53:41.300586
 url: "/cdr-researcher-census/researchers/van-m-dinh-a5110737/"
 layout: "researcher"
 hiddenInHomeList: true

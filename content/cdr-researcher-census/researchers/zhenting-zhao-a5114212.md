@@ -1,7 +1,7 @@
 ---
 title: "Zhenting Zhao"
 description: "Zhenting Zhao is an Early-career Soil Carbon researcher at Xinyang Normal University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.731123
+date: 2026-07-11T12:53:41.029106
 url: "/cdr-researcher-census/researchers/zhenting-zhao-a5114212/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Terese Thoni"
 description: "Terese Thoni is a Mid-career General CDR researcher at Lund University in SE. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.514439
+date: 2026-07-11T12:53:40.729515
 url: "/cdr-researcher-census/researchers/terese-thoni-a5067213/"
 layout: "researcher"
 hiddenInHomeList: true

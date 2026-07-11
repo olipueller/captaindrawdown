@@ -1,7 +1,7 @@
 ---
 title: "Barbara Maco"
 description: "Barbara Maco is a Mid-career Soil Carbon researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.194051
+date: 2026-07-11T12:53:41.434024
 url: "/cdr-researcher-census/researchers/barbara-maco-a5017432/"
 layout: "researcher"
 hiddenInHomeList: true

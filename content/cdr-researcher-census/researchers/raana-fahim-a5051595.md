@@ -1,7 +1,7 @@
 ---
 title: "Raana Fahim"
 description: "Raana Fahim is a Mid-career Soil Carbon researcher at Hohai University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.662435
+date: 2026-07-11T12:53:40.882604
 url: "/cdr-researcher-census/researchers/raana-fahim-a5051595/"
 layout: "researcher"
 hiddenInHomeList: true

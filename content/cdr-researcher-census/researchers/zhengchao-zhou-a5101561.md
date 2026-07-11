@@ -1,7 +1,7 @@
 ---
 title: "Zhengchao Zhou"
 description: "Zhengchao Zhou is a Senior Soil Carbon researcher at Shaanxi Normal University in CN. With 85 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.910409
+date: 2026-07-11T12:53:40.124369
 url: "/cdr-researcher-census/researchers/zhengchao-zhou-a5101561/"
 layout: "researcher"
 hiddenInHomeList: true

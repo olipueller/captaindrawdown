@@ -1,7 +1,7 @@
 ---
 title: "Zhaoming Qu"
 description: "Zhaoming Qu is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.326691
+date: 2026-07-11T12:53:40.529652
 url: "/cdr-researcher-census/researchers/zhaoming-qu-a5024476/"
 layout: "researcher"
 hiddenInHomeList: true

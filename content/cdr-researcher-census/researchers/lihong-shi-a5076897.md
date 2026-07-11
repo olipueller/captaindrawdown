@@ -1,7 +1,7 @@
 ---
 title: "Lihong Shi"
 description: "Lihong Shi is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.295538
+date: 2026-07-11T12:53:40.498036
 url: "/cdr-researcher-census/researchers/lihong-shi-a5076897/"
 layout: "researcher"
 hiddenInHomeList: true

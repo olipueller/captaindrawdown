@@ -1,7 +1,7 @@
 ---
 title: "Huyen Thuong Bui"
 description: "Huyen Thuong Bui is a Mid-career Biochar researcher at Vietnam Academy of Science and Technology in VN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.797911
+date: 2026-07-11T12:53:41.169332
 url: "/cdr-researcher-census/researchers/huyen-thuong-bui-a5045159/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ramesh Chhetri"
 description: "Ramesh Chhetri is a Mid-career Soil Carbon researcher at Uttarakhand Open University in IN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.737072
+date: 2026-07-11T12:53:41.042657
 url: "/cdr-researcher-census/researchers/ramesh-chhetri-a5075642/"
 layout: "researcher"
 hiddenInHomeList: true

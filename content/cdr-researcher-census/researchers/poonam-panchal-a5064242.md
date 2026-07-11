@@ -1,7 +1,7 @@
 ---
 title: "Poonam Panchal"
 description: "Poonam Panchal is a Mid-career Soil Carbon researcher at International Centre for Genetic Engineering and Biotechnology in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.036856
+date: 2026-07-11T12:53:40.259002
 url: "/cdr-researcher-census/researchers/poonam-panchal-a5064242/"
 layout: "researcher"
 hiddenInHomeList: true

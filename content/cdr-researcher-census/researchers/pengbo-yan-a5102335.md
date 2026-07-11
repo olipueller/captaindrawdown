@@ -1,7 +1,7 @@
 ---
 title: "Pengbo Yan"
 description: "Pengbo Yan is a Mid-career General CDR researcher at Guilin University of Technology in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.280216
+date: 2026-07-11T12:53:40.482061
 url: "/cdr-researcher-census/researchers/pengbo-yan-a5102335/"
 layout: "researcher"
 hiddenInHomeList: true

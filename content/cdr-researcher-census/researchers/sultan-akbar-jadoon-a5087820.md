@@ -1,7 +1,7 @@
 ---
 title: "Sultan Akbar Jadoon"
 description: "Sultan Akbar Jadoon is a Mid-career Soil Carbon researcher at The University of Agriculture, Peshawar in PK. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.697827
+date: 2026-07-11T12:53:40.956044
 url: "/cdr-researcher-census/researchers/sultan-akbar-jadoon-a5087820/"
 layout: "researcher"
 hiddenInHomeList: true

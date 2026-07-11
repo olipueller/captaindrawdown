@@ -1,7 +1,7 @@
 ---
 title: "Diego C. de Oliveira"
 description: "Diego C. de Oliveira is a Mid-career Biochar researcher at São Paulo State University - UNESP in BR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.309850
+date: 2026-07-11T12:53:41.538270
 url: "/cdr-researcher-census/researchers/diego-c-de-oliveira-a5079444/"
 layout: "researcher"
 hiddenInHomeList: true

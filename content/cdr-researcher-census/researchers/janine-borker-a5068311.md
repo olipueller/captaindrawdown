@@ -1,7 +1,7 @@
 ---
 title: "Janine Börker"
 description: "Janine Börker is a Mid-career Ocean CDR researcher at Universität Hamburg in DE. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.218923
+date: 2026-07-11T12:53:40.420097
 url: "/cdr-researcher-census/researchers/janine-borker-a5068311/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sulekha Toraskar"
 description: "Sulekha Toraskar is an Early-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.106819
+date: 2026-07-11T12:53:41.353677
 url: "/cdr-researcher-census/researchers/sulekha-toraskar-a5045753/"
 layout: "researcher"
 hiddenInHomeList: true

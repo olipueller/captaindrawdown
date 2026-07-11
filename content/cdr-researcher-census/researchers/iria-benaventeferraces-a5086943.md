@@ -1,7 +1,7 @@
 ---
 title: "Iria Benavente‐Ferraces"
 description: "Iria Benavente‐Ferraces is a Mid-career Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.261109
+date: 2026-07-11T12:53:40.462955
 url: "/cdr-researcher-census/researchers/iria-benaventeferraces-a5086943/"
 layout: "researcher"
 hiddenInHomeList: true

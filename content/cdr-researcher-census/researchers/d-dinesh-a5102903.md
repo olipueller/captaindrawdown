@@ -1,7 +1,7 @@
 ---
 title: "D. Dinesh"
 description: "D. Dinesh is a Mid-career Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.272012
+date: 2026-07-11T12:53:40.473823
 url: "/cdr-researcher-census/researchers/d-dinesh-a5102903/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Olusola David Ogundele"
 description: "Olusola David Ogundele is a Mid-career General CDR researcher. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.093034
+date: 2026-07-11T12:53:41.341191
 url: "/cdr-researcher-census/researchers/olusola-david-ogundele-a5045299/"
 layout: "researcher"
 hiddenInHomeList: true

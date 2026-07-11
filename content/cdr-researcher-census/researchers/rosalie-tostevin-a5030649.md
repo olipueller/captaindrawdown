@@ -1,7 +1,7 @@
 ---
 title: "Rosalie Tostevin"
 description: "Rosalie Tostevin is a Mid-career General CDR researcher at University of Oxford in GB. With 75 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.877377
+date: 2026-07-11T12:53:40.086380
 url: "/cdr-researcher-census/researchers/rosalie-tostevin-a5030649/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yongqiang Xia"
 description: "Yongqiang Xia is a Mid-career General CDR researcher at Shaanxi Normal University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.768675
+date: 2026-07-11T12:53:41.102457
 url: "/cdr-researcher-census/researchers/yongqiang-xia-a5034247/"
 layout: "researcher"
 hiddenInHomeList: true

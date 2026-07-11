@@ -1,7 +1,7 @@
 ---
 title: "Jonah Prout"
 description: "Jonah Prout is a Mid-career Soil Carbon researcher at Rothamsted Research in GB. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.577729
+date: 2026-07-11T12:53:40.794666
 url: "/cdr-researcher-census/researchers/jonah-prout-a5015779/"
 layout: "researcher"
 hiddenInHomeList: true

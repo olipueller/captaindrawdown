@@ -1,7 +1,7 @@
 ---
 title: "Matthias Honegger"
 description: "Matthias Honegger is a Mid-career General CDR researcher at Perspectives Climate Research gGmbH in DE. With 55 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.044164
+date: 2026-07-11T12:53:40.266452
 url: "/cdr-researcher-census/researchers/matthias-honegger-a5079084/"
 layout: "researcher"
 hiddenInHomeList: true

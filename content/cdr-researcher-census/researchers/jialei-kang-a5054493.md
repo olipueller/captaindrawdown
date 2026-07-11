@@ -1,7 +1,7 @@
 ---
 title: "Jialei Kang"
 description: "Jialei Kang is a Senior Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.449359
+date: 2026-07-11T12:53:41.655085
 url: "/cdr-researcher-census/researchers/jialei-kang-a5054493/"
 layout: "researcher"
 hiddenInHomeList: true

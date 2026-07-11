@@ -1,7 +1,7 @@
 ---
 title: "Xiawei Peng"
 description: "Xiawei Peng is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.976691
+date: 2026-07-11T12:53:40.195961
 url: "/cdr-researcher-census/researchers/xiawei-peng-a5055627/"
 layout: "researcher"
 hiddenInHomeList: true

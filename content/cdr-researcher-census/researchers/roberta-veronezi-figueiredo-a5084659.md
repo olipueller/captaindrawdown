@@ -1,7 +1,7 @@
 ---
 title: "Roberta Veronezi Figueiredo"
 description: "Roberta Veronezi Figueiredo is a Mid-career General CDR researcher at Netherlands Organisation for Applied Scientific Research in NL. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.975952
+date: 2026-07-11T12:53:41.270246
 url: "/cdr-researcher-census/researchers/roberta-veronezi-figueiredo-a5084659/"
 layout: "researcher"
 hiddenInHomeList: true

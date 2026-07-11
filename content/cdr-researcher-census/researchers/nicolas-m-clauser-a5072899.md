@@ -1,7 +1,7 @@
 ---
 title: "Nicolás M. Clauser"
 description: "Nicolás M. Clauser is a Mid-career General CDR researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.057567
+date: 2026-07-11T12:53:40.280006
 url: "/cdr-researcher-census/researchers/nicolas-m-clauser-a5072899/"
 layout: "researcher"
 hiddenInHomeList: true

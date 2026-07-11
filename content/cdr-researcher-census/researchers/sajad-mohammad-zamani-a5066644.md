@@ -1,7 +1,7 @@
 ---
 title: "Sajad Mohammad Zamani"
 description: "Sajad Mohammad Zamani is a Mid-career Biochar researcher at National Iranian Oil Company in IR. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.217530
+date: 2026-07-11T12:53:41.455673
 url: "/cdr-researcher-census/researchers/sajad-mohammad-zamani-a5066644/"
 layout: "researcher"
 hiddenInHomeList: true

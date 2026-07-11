@@ -1,7 +1,7 @@
 ---
 title: "Rasesh Pokharel"
 description: "Rasesh Pokharel is a Mid-career Enhanced Weathering researcher at Utrecht University in NL. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.619171
+date: 2026-07-11T12:53:40.838048
 url: "/cdr-researcher-census/researchers/rasesh-pokharel-a5007022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,24 +45,27 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 8 |
 | Citations | 265 |
 | Publications | 17 |
-| CDR Focus | 29.4% |
-| Trajectory | Stable |
+| CDR Focus | 35.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Urban Green Roofs for CO2 Removal via Enhanced Rock Weathering in Europe** (2026)
+1. **Assessing urban green roofs for CO2 removal via enhanced rock weathering in Europe** (2026)
    0 citations · Enhanced Weathering
 
-2. **Viability of commercial olivine mixtures for enhanced weathering in seawater: Dissolution kinetics, CO2 sequestration, and metal release assessment** (2025)
+2. **Urban Green Roofs for CO2 Removal via Enhanced Rock Weathering in Europe** (2026)
    0 citations · Enhanced Weathering
 
-3. **Harnessing green roofs for urban-based carbon dioxide removal via enhanced rock weathering in Europe** (2025)
+3. **Viability of commercial olivine mixtures for enhanced weathering in seawater: Dissolution kinetics, CO2 sequestration, and metal release assessment** (2025)
    0 citations · Enhanced Weathering
 
-4. **Viability of Commercial Olivine Mixtures for Enhanced Weathering in Seawater: Dissolution Kinetics, Co2 Sequestration, and Metal Release Assessment** (2024)
+4. **Harnessing green roofs for urban-based carbon dioxide removal via enhanced rock weathering in Europe** (2025)
    0 citations · Enhanced Weathering
 
-5. **Two Birds With One Stone: Artificially Enhanced Olivine Weathering for Sediment Management and CO2 Sequestration in the Port of Rotterdam** (2023)
+5. **Viability of Commercial Olivine Mixtures for Enhanced Weathering in Seawater: Dissolution Kinetics, Co2 Sequestration, and Metal Release Assessment** (2024)
+   0 citations · Enhanced Weathering
+
+6. **Two Birds With One Stone: Artificially Enhanced Olivine Weathering for Sediment Management and CO2 Sequestration in the Port of Rotterdam** (2023)
    0 citations · Enhanced Weathering
 
 ## External Profiles

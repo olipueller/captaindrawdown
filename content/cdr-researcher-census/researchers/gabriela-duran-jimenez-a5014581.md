@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Durán-Jiménez"
 description: "Gabriela Durán-Jiménez is a Mid-career Biochar researcher at University of Nottingham in GB. With 23 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.073147
+date: 2026-07-11T12:53:40.295552
 url: "/cdr-researcher-census/researchers/gabriela-duran-jimenez-a5014581/"
 layout: "researcher"
 hiddenInHomeList: true

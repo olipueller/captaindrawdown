@@ -1,7 +1,7 @@
 ---
 title: "Leila Kittu"
 description: "Leila Kittu is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 23 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.907303
+date: 2026-07-11T12:53:41.241771
 url: "/cdr-researcher-census/researchers/leila-kittu-a5085342/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ren Huang"
 description: "Ren Huang is a Senior General CDR researcher at North China Electric Power University in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.502528
+date: 2026-07-11T12:53:40.717192
 url: "/cdr-researcher-census/researchers/ren-huang-a5048603/"
 layout: "researcher"
 hiddenInHomeList: true

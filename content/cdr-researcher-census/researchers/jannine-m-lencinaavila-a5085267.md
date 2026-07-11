@@ -1,7 +1,7 @@
 ---
 title: "Jannine M. Lencina‐Avila"
 description: "Jannine M. Lencina‐Avila is a Mid-career Ocean CDR researcher at Universidade Federal do Rio Grande in BR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.619043
+date: 2026-07-11T12:53:40.837827
 url: "/cdr-researcher-census/researchers/jannine-m-lencinaavila-a5085267/"
 layout: "researcher"
 hiddenInHomeList: true

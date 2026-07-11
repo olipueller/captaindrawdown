@@ -1,7 +1,7 @@
 ---
 title: "Jialong Wu"
 description: "Jialong Wu is a Senior Soil Carbon researcher at Shandong University in CN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.364394
+date: 2026-07-11T12:53:40.569290
 url: "/cdr-researcher-census/researchers/jialong-wu-a5100560/"
 layout: "researcher"
 hiddenInHomeList: true

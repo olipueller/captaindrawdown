@@ -1,7 +1,7 @@
 ---
 title: "Téresa G. Bárcena"
 description: "Téresa G. Bárcena is a Senior Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.124130
+date: 2026-07-11T12:53:40.348163
 url: "/cdr-researcher-census/researchers/teresa-g-barcena-a5066449/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chayanoot Sangwichien"
 description: "Chayanoot Sangwichien is a Senior Biochar researcher at Prince of Songkla University in TH. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.095355
+date: 2026-07-11T12:53:40.318574
 url: "/cdr-researcher-census/researchers/chayanoot-sangwichien-a5079629/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ruiling Ma"
-description: "Ruiling Ma is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.436299
+description: "Ruiling Ma is a Senior Biochar researcher at Nanjing Agricultural University in CN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T12:53:41.642229
 url: "/cdr-researcher-census/researchers/ruiling-ma-a5064604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nanjing Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 102 |
 | Publications | 21 |
-| CDR Focus | 23.8% |
+| CDR Focus | 33.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -62,7 +62,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Developing diversity indicators from organic matter and microbe to depict their changes across different soil-landscapes in a subtropical hilly area** (2025)
    1 citations · Soil Carbon
 
-5. **Depth-dependent microbial necromass carbon accumulation responses to long-term biochar amendment in croplands** (2026)
+5. **Biochar amendment increases microbial necromass carbon accumulation by regulating microbial life strategies in a coastal saline soil** (2026)
+   0 citations · Biochar
+
+6. **Biochar enhances rice rhizodeposited carbon stabilization through distinct pathways of iron association and aggregate occlusion in two contrasting paddy soils** (2026)
+   0 citations · Biochar
+
+7. **Depth-dependent microbial necromass carbon accumulation responses to long-term biochar amendment in croplands** (2026)
    0 citations · Biochar
 
 ## External Profiles

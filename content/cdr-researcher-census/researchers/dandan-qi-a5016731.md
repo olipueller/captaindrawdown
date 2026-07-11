@@ -1,7 +1,7 @@
 ---
 title: "Dandan Qi"
 description: "Dandan Qi is a Mid-career Soil Carbon researcher at Heilongjiang University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.320395
+date: 2026-07-11T12:53:41.547625
 url: "/cdr-researcher-census/researchers/dandan-qi-a5016731/"
 layout: "researcher"
 hiddenInHomeList: true

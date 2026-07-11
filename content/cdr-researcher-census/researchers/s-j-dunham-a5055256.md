@@ -1,7 +1,7 @@
 ---
 title: "S. J. Dunham"
 description: "S. J. Dunham is a Senior General CDR researcher at Rothamsted Research in GB. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.818933
+date: 2026-07-11T12:53:40.017234
 url: "/cdr-researcher-census/researchers/s-j-dunham-a5055256/"
 layout: "researcher"
 hiddenInHomeList: true

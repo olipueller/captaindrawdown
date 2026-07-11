@@ -1,7 +1,7 @@
 ---
 title: "Nils Matzner"
 description: "Nils Matzner is a Mid-career General CDR researcher at Technical University of Munich in DE. With 38 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.243413
+date: 2026-07-11T12:53:41.479722
 url: "/cdr-researcher-census/researchers/nils-matzner-a5063403/"
 layout: "researcher"
 hiddenInHomeList: true

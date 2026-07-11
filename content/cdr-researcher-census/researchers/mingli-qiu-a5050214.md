@@ -1,7 +1,7 @@
 ---
 title: "Mingli Qiu"
 description: "Mingli Qiu is a Mid-career Soil Carbon researcher at Wuhan University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.327162
+date: 2026-07-11T12:53:41.554444
 url: "/cdr-researcher-census/researchers/mingli-qiu-a5050214/"
 layout: "researcher"
 hiddenInHomeList: true

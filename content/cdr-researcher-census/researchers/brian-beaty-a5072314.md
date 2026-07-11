@@ -1,7 +1,7 @@
 ---
 title: "Brian Beaty"
 description: "Brian Beaty is a Mid-career Enhanced Weathering researcher at Planetary Science Institute in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.229263
+date: 2026-07-11T12:53:41.466209
 url: "/cdr-researcher-census/researchers/brian-beaty-a5072314/"
 layout: "researcher"
 hiddenInHomeList: true

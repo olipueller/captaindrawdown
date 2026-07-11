@@ -1,7 +1,7 @@
 ---
 title: "Manjeet Singh"
 description: "Manjeet Singh is a Mid-career General CDR researcher at Dr. B. R. Ambedkar National Institute of Technology Jalandhar in IN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.460993
+date: 2026-07-11T12:53:40.672240
 url: "/cdr-researcher-census/researchers/manjeet-singh-a5103328/"
 layout: "researcher"
 hiddenInHomeList: true

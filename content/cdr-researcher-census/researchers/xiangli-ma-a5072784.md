@@ -1,7 +1,7 @@
 ---
 title: "Xiangli Ma"
 description: "Xiangli Ma is an Early-career Soil Carbon researcher at Qinghai Tibetan Hospital in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.327156
+date: 2026-07-11T12:53:40.530079
 url: "/cdr-researcher-census/researchers/xiangli-ma-a5072784/"
 layout: "researcher"
 hiddenInHomeList: true

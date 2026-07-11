@@ -1,7 +1,7 @@
 ---
 title: "Monalisha Pramanik"
 description: "Monalisha Pramanik is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.714660
+date: 2026-07-11T12:53:40.987286
 url: "/cdr-researcher-census/researchers/monalisha-pramanik-a5003962/"
 layout: "researcher"
 hiddenInHomeList: true

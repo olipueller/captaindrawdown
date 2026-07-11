@@ -1,7 +1,7 @@
 ---
 title: "Lucrezia Nava"
 description: "Lucrezia Nava is a Mid-career General CDR researcher at University of Exeter in GB. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.393621
+date: 2026-07-11T12:53:41.599811
 url: "/cdr-researcher-census/researchers/lucrezia-nava-a5022180/"
 layout: "researcher"
 hiddenInHomeList: true

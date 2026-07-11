@@ -1,7 +1,7 @@
 ---
 title: "Sarah J. Thorne"
 description: "Sarah J. Thorne is a Mid-career Soil Carbon researcher at University of Sheffield in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.291971
+date: 2026-07-11T12:53:40.494496
 url: "/cdr-researcher-census/researchers/sarah-j-thorne-a5076381/"
 layout: "researcher"
 hiddenInHomeList: true

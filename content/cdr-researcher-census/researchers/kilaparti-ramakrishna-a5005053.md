@@ -1,7 +1,7 @@
 ---
 title: "Kilaparti Ramakrishna"
 description: "Kilaparti Ramakrishna is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 49 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.894486
+date: 2026-07-11T12:53:41.233508
 url: "/cdr-researcher-census/researchers/kilaparti-ramakrishna-a5005053/"
 layout: "researcher"
 hiddenInHomeList: true

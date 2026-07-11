@@ -1,7 +1,7 @@
 ---
 title: "Suchanya Wongrod"
 description: "Suchanya Wongrod is a Mid-career Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.492192
+date: 2026-07-11T12:53:40.706011
 url: "/cdr-researcher-census/researchers/suchanya-wongrod-a5047431/"
 layout: "researcher"
 hiddenInHomeList: true

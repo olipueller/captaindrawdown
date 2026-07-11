@@ -1,7 +1,7 @@
 ---
 title: "Ziming Xin"
 description: "Ziming Xin is an Early-career Biochar researcher at Zhejiang University of Science and Technology in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.127107
+date: 2026-07-11T12:53:41.371924
 url: "/cdr-researcher-census/researchers/ziming-xin-a5070650/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Annick St‐Denis"
 description: "Annick St‐Denis is a Senior General CDR researcher at Université du Québec à Montréal in CA. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.747922
+date: 2026-07-11T12:53:41.065216
 url: "/cdr-researcher-census/researchers/annick-stdenis-a5048314/"
 layout: "researcher"
 hiddenInHomeList: true

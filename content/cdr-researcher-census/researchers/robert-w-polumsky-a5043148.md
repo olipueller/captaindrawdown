@@ -1,7 +1,7 @@
 ---
 title: "Robert W. Polumsky"
 description: "Robert W. Polumsky is a Mid-career Soil Carbon researcher at Agricultural Research Service in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.439991
+date: 2026-07-11T12:53:41.645834
 url: "/cdr-researcher-census/researchers/robert-w-polumsky-a5043148/"
 layout: "researcher"
 hiddenInHomeList: true

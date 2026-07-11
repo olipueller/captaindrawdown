@@ -1,7 +1,7 @@
 ---
 title: "Roberta Farina"
 description: "Roberta Farina is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l’analisi dell’economia agraria (CREA) in IT. With 111 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.880189
+date: 2026-07-11T12:53:40.090187
 url: "/cdr-researcher-census/researchers/roberta-farina-a5067921/"
 layout: "researcher"
 hiddenInHomeList: true

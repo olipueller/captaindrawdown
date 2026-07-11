@@ -1,7 +1,7 @@
 ---
 title: "Thomas C. Heller"
 description: "Thomas C. Heller is a Senior General CDR researcher at Stanford Medicine in US. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.162661
+date: 2026-07-11T12:53:40.385744
 url: "/cdr-researcher-census/researchers/thomas-c-heller-a5103946/"
 layout: "researcher"
 hiddenInHomeList: true

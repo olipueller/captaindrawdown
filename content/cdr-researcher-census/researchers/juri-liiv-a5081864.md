@@ -1,7 +1,7 @@
 ---
 title: "Jüri Liiv"
 description: "Jüri Liiv is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.413773
+date: 2026-07-11T12:53:41.619944
 url: "/cdr-researcher-census/researchers/juri-liiv-a5081864/"
 layout: "researcher"
 hiddenInHomeList: true

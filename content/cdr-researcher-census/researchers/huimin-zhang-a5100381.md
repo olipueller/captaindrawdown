@@ -1,7 +1,7 @@
 ---
 title: "Huimin Zhang"
 description: "Huimin Zhang is a Mid-career General CDR researcher at National Institute of Clean and Low-Carbon Energy in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.928337
+date: 2026-07-11T12:53:41.256288
 url: "/cdr-researcher-census/researchers/huimin-zhang-a5100381/"
 layout: "researcher"
 hiddenInHomeList: true

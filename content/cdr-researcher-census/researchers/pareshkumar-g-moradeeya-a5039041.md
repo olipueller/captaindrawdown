@@ -1,7 +1,7 @@
 ---
 title: "Pareshkumar G. Moradeeya"
 description: "Pareshkumar G. Moradeeya is a Mid-career Biochar researcher at National Environmental Engineering Research Institute in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.567725
+date: 2026-07-11T12:53:40.784417
 url: "/cdr-researcher-census/researchers/pareshkumar-g-moradeeya-a5039041/"
 layout: "researcher"
 hiddenInHomeList: true

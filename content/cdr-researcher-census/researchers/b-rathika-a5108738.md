@@ -1,7 +1,7 @@
 ---
 title: "B. Rathika"
 description: "B. Rathika is an Early-career Biochar researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.843019
+date: 2026-07-11T12:53:41.216085
 url: "/cdr-researcher-census/researchers/b-rathika-a5108738/"
 layout: "researcher"
 hiddenInHomeList: true

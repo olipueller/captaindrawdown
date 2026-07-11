@@ -1,7 +1,7 @@
 ---
 title: "Linqiao Jia"
 description: "Linqiao Jia is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.095436
+date: 2026-07-11T12:53:41.343296
 url: "/cdr-researcher-census/researchers/linqiao-jia-a5081615/"
 layout: "researcher"
 hiddenInHomeList: true

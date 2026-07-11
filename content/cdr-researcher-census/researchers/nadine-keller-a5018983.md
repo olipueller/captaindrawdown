@@ -1,7 +1,7 @@
 ---
 title: "Nadine Keller"
 description: "Nadine Keller is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.321858
+date: 2026-07-11T12:53:41.549294
 url: "/cdr-researcher-census/researchers/nadine-keller-a5018983/"
 layout: "researcher"
 hiddenInHomeList: true

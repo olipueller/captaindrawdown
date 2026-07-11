@@ -1,7 +1,7 @@
 ---
 title: "Weiwen Zhou"
 description: "Weiwen Zhou is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.893563
+date: 2026-07-11T12:53:41.232718
 url: "/cdr-researcher-census/researchers/weiwen-zhou-a5013301/"
 layout: "researcher"
 hiddenInHomeList: true

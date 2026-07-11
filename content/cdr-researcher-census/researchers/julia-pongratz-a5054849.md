@@ -1,7 +1,7 @@
 ---
 title: "Julia Pongratz"
 description: "Julia Pongratz is an Eminent General CDR researcher at Ludwig-Maximilians-Universität München in DE. With 494 publications and an h-index of 85, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.766413
+date: 2026-07-11T12:53:39.929095
 url: "/cdr-researcher-census/researchers/julia-pongratz-a5054849/"
 layout: "researcher"
 hiddenInHomeList: true

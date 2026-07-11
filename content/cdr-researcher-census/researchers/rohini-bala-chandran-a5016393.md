@@ -1,7 +1,7 @@
 ---
 title: "Rohini Bala Chandran"
 description: "Rohini Bala Chandran is a Mid-career Ocean CDR researcher at University of Michigan in US. With 102 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.106197
+date: 2026-07-11T12:53:40.330064
 url: "/cdr-researcher-census/researchers/rohini-bala-chandran-a5016393/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vrutang Shah"
 description: "Vrutang Shah is a Mid-career General CDR researcher at Pandit Deendayal Petroleum University in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.311860
+date: 2026-07-11T12:53:41.540138
 url: "/cdr-researcher-census/researchers/vrutang-shah-a5017788/"
 layout: "researcher"
 hiddenInHomeList: true

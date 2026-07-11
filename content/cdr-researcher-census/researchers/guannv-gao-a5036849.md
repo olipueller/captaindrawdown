@@ -1,7 +1,7 @@
 ---
 title: "Guannv Gao"
 description: "Guannv Gao is an Early-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.404781
+date: 2026-07-11T12:53:41.611100
 url: "/cdr-researcher-census/researchers/guannv-gao-a5036849/"
 layout: "researcher"
 hiddenInHomeList: true

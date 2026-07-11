@@ -1,7 +1,7 @@
 ---
 title: "Hang Shi"
 description: "Hang Shi is a Senior Soil Carbon researcher at Nanjing University of Chinese Medicine in CN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.403683
+date: 2026-07-11T12:53:40.609601
 url: "/cdr-researcher-census/researchers/hang-shi-a5042228/"
 layout: "researcher"
 hiddenInHomeList: true

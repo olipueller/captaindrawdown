@@ -1,7 +1,7 @@
 ---
 title: "Dianjun Lu"
 description: "Dianjun Lu is a Senior General CDR researcher at Institute of Soil Science in CN. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.885599
+date: 2026-07-11T12:53:40.096674
 url: "/cdr-researcher-census/researchers/dianjun-lu-a5020536/"
 layout: "researcher"
 hiddenInHomeList: true

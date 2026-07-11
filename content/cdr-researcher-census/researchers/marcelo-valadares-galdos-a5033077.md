@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Valadares Galdos"
 description: "Marcelo Valadares Galdos is a Senior Soil Carbon researcher at Earth Rover Program in GB. With 106 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.827889
+date: 2026-07-11T12:53:40.028521
 url: "/cdr-researcher-census/researchers/marcelo-valadares-galdos-a5033077/"
 layout: "researcher"
 hiddenInHomeList: true

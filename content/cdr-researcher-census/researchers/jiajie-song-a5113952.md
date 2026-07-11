@@ -1,7 +1,7 @@
 ---
 title: "Jiajie Song"
 description: "Jiajie Song is a Mid-career Soil Carbon researcher at Beijing Institute of Technology in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.343353
+date: 2026-07-11T12:53:40.547291
 url: "/cdr-researcher-census/researchers/jiajie-song-a5113952/"
 layout: "researcher"
 hiddenInHomeList: true

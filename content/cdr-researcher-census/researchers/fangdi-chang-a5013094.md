@@ -1,7 +1,7 @@
 ---
 title: "Fangdi Chang"
 description: "Fangdi Chang is a Mid-career Soil Carbon researcher at Ningxia University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.361996
+date: 2026-07-11T12:53:40.566878
 url: "/cdr-researcher-census/researchers/fangdi-chang-a5013094/"
 layout: "researcher"
 hiddenInHomeList: true

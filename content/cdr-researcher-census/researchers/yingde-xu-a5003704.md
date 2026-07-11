@@ -1,7 +1,7 @@
 ---
 title: "Yingde Xu"
 description: "Yingde Xu is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.064440
+date: 2026-07-11T12:53:40.287266
 url: "/cdr-researcher-census/researchers/yingde-xu-a5003704/"
 layout: "researcher"
 hiddenInHomeList: true

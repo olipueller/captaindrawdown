@@ -1,7 +1,7 @@
 ---
 title: "Usman Arshad"
-description: "Usman Arshad is a Mid-career Soil Carbon researcher at Tobacco Research Institute in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.103957
+description: "Usman Arshad is a Mid-career Biochar researcher at Tobacco Research Institute in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T12:53:41.350907
 url: "/cdr-researcher-census/researchers/usman-arshad-a5027357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Tobacco Research Institute · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,12 +42,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 155 |
 | Publications | 16 |
-| CDR Focus | 6.2% |
-| Trajectory | Exiting |
+| CDR Focus | 12.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Biochar: Black Gold for Sustainable Agriculture and Fortification Against Plant Pathogens—A Review** (2023)
+1. **Beyond one-size-fits-all: tailoring engineered biochar for purpose-specific rhizosphere engineering in crop production, protection, and soil remediation** (2026)
+   19 citations · Biochar
+
+2. **Biochar: Black Gold for Sustainable Agriculture and Fortification Against Plant Pathogens—A Review** (2023)
    17 citations · Biochar
 
 ## External Profiles

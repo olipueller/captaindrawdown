@@ -1,7 +1,7 @@
 ---
 title: "Zhurong Wu"
 description: "Zhurong Wu is a Mid-career Soil Carbon researcher at Dongguan University of Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.621042
+date: 2026-07-11T12:53:40.840210
 url: "/cdr-researcher-census/researchers/zhurong-wu-a5089157/"
 layout: "researcher"
 hiddenInHomeList: true

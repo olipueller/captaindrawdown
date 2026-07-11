@@ -1,7 +1,7 @@
 ---
 title: "André Mundstock Xavier de Carvalho"
 description: "André Mundstock Xavier de Carvalho is a Senior Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.066742
+date: 2026-07-11T12:53:40.290192
 url: "/cdr-researcher-census/researchers/andre-mundstock-xavier-de-carvalho-a5065884/"
 layout: "researcher"
 hiddenInHomeList: true

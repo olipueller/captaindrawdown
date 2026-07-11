@@ -1,7 +1,7 @@
 ---
 title: "Naira Meky"
 description: "Naira Meky is a Mid-career General CDR researcher at University of Tabuk in SA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.056315
+date: 2026-07-11T12:53:41.310239
 url: "/cdr-researcher-census/researchers/naira-meky-a5040546/"
 layout: "researcher"
 hiddenInHomeList: true

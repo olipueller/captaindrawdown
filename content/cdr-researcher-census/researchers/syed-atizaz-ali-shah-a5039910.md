@@ -1,7 +1,7 @@
 ---
 title: "Syed Atizaz Ali Shah"
 description: "Syed Atizaz Ali Shah is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.039313
+date: 2026-07-11T12:53:40.261487
 url: "/cdr-researcher-census/researchers/syed-atizaz-ali-shah-a5039910/"
 layout: "researcher"
 hiddenInHomeList: true

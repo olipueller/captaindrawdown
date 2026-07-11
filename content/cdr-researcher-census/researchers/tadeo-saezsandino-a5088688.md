@@ -1,7 +1,7 @@
 ---
 title: "Tadeo Sáez‐Sandino"
 description: "Tadeo Sáez‐Sandino is a Mid-career Soil Carbon researcher at Western Sydney University in AU. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.056561
+date: 2026-07-11T12:53:40.278998
 url: "/cdr-researcher-census/researchers/tadeo-saezsandino-a5088688/"
 layout: "researcher"
 hiddenInHomeList: true

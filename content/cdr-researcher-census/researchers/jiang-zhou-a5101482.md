@@ -1,7 +1,7 @@
 ---
 title: "Jiang Zhou"
 description: "Jiang Zhou is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.327038
+date: 2026-07-11T12:53:40.529987
 url: "/cdr-researcher-census/researchers/jiang-zhou-a5101482/"
 layout: "researcher"
 hiddenInHomeList: true

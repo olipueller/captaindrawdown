@@ -1,7 +1,7 @@
 ---
 title: "Florian Schneider"
 description: "Florian Schneider is a Senior Soil Carbon researcher at Thünen Institute of Climate-Smart Agriculture in DE. With 61 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.985929
+date: 2026-07-11T12:53:40.205413
 url: "/cdr-researcher-census/researchers/florian-schneider-a5030537/"
 layout: "researcher"
 hiddenInHomeList: true

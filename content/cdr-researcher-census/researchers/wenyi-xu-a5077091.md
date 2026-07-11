@@ -1,7 +1,7 @@
 ---
 title: "Wenyi Xu"
 description: "Wenyi Xu is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.721619
+date: 2026-07-11T12:53:41.003802
 url: "/cdr-researcher-census/researchers/wenyi-xu-a5077091/"
 layout: "researcher"
 hiddenInHomeList: true

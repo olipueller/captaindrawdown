@@ -1,7 +1,7 @@
 ---
 title: "Jun Meng"
 description: "Jun Meng is a Mid-career Biochar researcher at Ningbo Product Quality Supervision and Inspection Institute in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.602372
+date: 2026-07-11T12:53:40.820521
 url: "/cdr-researcher-census/researchers/jun-meng-a5089856/"
 layout: "researcher"
 hiddenInHomeList: true

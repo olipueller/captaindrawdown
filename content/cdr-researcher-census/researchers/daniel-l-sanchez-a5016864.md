@@ -1,7 +1,7 @@
 ---
 title: "Daniel L. Sanchez"
 description: "Daniel L. Sanchez is a Senior General CDR researcher at Carbon180 in US. With 94 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.807416
+date: 2026-07-11T12:53:40.003175
 url: "/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/"
 layout: "researcher"
 hiddenInHomeList: true

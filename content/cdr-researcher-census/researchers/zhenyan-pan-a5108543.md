@@ -1,7 +1,7 @@
 ---
 title: "Zhenyan Pan"
 description: "Zhenyan Pan is a Senior Biochar researcher at Yantai Academy of Agricultural Sciences in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.713984
+date: 2026-07-11T12:53:40.985151
 url: "/cdr-researcher-census/researchers/zhenyan-pan-a5108543/"
 layout: "researcher"
 hiddenInHomeList: true

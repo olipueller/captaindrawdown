@@ -1,7 +1,7 @@
 ---
 title: "Chance J. English"
 description: "Chance J. English is a Mid-career Ocean CDR researcher at University of California, Santa Barbara in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.243991
+date: 2026-07-11T12:53:41.480084
 url: "/cdr-researcher-census/researchers/chance-j-english-a5080178/"
 layout: "researcher"
 hiddenInHomeList: true

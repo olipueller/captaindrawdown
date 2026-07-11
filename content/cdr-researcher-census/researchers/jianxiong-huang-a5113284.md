@@ -1,7 +1,7 @@
 ---
 title: "Jianxiong Huang"
 description: "Jianxiong Huang is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.332240
+date: 2026-07-11T12:53:40.535585
 url: "/cdr-researcher-census/researchers/jianxiong-huang-a5113284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 450 |
 | Publications | 16 |
-| CDR Focus | 6.2% |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Rubber plant root-derived organic carbon influences aggregate stability through soil internal forces in tropical region** (2025)
    1 citations · Soil Carbon
+
+2. **Productivity and net greenhouse gas emissions of rubber-Ficus hirta Vahl. agroforestry vs. monoculture under nitrogen substitution** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

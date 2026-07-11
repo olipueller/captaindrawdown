@@ -1,7 +1,7 @@
 ---
 title: "Wencheng Wu"
 description: "Wencheng Wu is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.074820
+date: 2026-07-11T12:53:40.297362
 url: "/cdr-researcher-census/researchers/wencheng-wu-a5026345/"
 layout: "researcher"
 hiddenInHomeList: true

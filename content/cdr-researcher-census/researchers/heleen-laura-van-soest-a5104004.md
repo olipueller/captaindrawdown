@@ -1,7 +1,7 @@
 ---
 title: "Heleen Laura van Soest"
 description: "Heleen Laura van Soest is a Mid-career General CDR researcher. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.369390
+date: 2026-07-11T12:53:40.574667
 url: "/cdr-researcher-census/researchers/heleen-laura-van-soest-a5104004/"
 layout: "researcher"
 hiddenInHomeList: true

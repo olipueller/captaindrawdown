@@ -1,7 +1,7 @@
 ---
 title: "Deo Narayan Singh"
 description: "Deo Narayan Singh is an Early-career Soil Carbon researcher at Maharana Pratap University of Agriculture and Technology in IN. With 19 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.327928
+date: 2026-07-11T12:53:41.555146
 url: "/cdr-researcher-census/researchers/deo-narayan-singh-a5001535/"
 layout: "researcher"
 hiddenInHomeList: true

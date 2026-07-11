@@ -1,7 +1,7 @@
 ---
 title: "Hugues Clivot"
 description: "Hugues Clivot is a Senior Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 91 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.970425
+date: 2026-07-11T12:53:40.189150
 url: "/cdr-researcher-census/researchers/hugues-clivot-a5006232/"
 layout: "researcher"
 hiddenInHomeList: true

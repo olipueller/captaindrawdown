@@ -1,7 +1,7 @@
 ---
 title: "Junta Yanai"
 description: "Junta Yanai is a Senior Soil Carbon researcher at Kyoto Prefectural University in JP. With 133 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.833565
+date: 2026-07-11T12:53:40.035705
 url: "/cdr-researcher-census/researchers/junta-yanai-a5072198/"
 layout: "researcher"
 hiddenInHomeList: true

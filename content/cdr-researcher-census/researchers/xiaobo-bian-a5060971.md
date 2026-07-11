@@ -1,7 +1,7 @@
 ---
 title: "Xiaobo Bian"
 description: "Xiaobo Bian is a Mid-career Soil Carbon researcher at Jinhua Academy of Agricultural Sciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.883397
+date: 2026-07-11T12:53:41.226108
 url: "/cdr-researcher-census/researchers/xiaobo-bian-a5060971/"
 layout: "researcher"
 hiddenInHomeList: true

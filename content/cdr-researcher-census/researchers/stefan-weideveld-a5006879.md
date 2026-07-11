@@ -1,7 +1,7 @@
 ---
 title: "Stefan Weideveld"
 description: "Stefan Weideveld is a Mid-career Soil Carbon researcher at Radboud University Nijmegen in NL. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.604099
+date: 2026-07-11T12:53:40.822726
 url: "/cdr-researcher-census/researchers/stefan-weideveld-a5006879/"
 layout: "researcher"
 hiddenInHomeList: true

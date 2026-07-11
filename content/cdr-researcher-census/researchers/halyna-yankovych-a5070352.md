@@ -1,7 +1,7 @@
 ---
 title: "Halyna Yankovych"
 description: "Halyna Yankovych is a Mid-career Biochar researcher at Slovak Academy of Sciences in SK. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.128963
+date: 2026-07-11T12:53:41.373636
 url: "/cdr-researcher-census/researchers/halyna-yankovych-a5070352/"
 layout: "researcher"
 hiddenInHomeList: true

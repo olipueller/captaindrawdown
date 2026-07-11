@@ -1,7 +1,7 @@
 ---
 title: "Yerim Oh"
 description: "Yerim Oh is a Senior Soil Carbon researcher at Dankook University in KR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.672397
+date: 2026-07-11T12:53:40.892818
 url: "/cdr-researcher-census/researchers/yerim-oh-a5102848/"
 layout: "researcher"
 hiddenInHomeList: true

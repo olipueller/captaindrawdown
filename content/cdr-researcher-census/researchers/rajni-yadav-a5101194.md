@@ -1,7 +1,7 @@
 ---
 title: "Rajni Yadav"
 description: "Rajni Yadav is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.150741
+date: 2026-07-11T12:53:41.393374
 url: "/cdr-researcher-census/researchers/rajni-yadav-a5101194/"
 layout: "researcher"
 hiddenInHomeList: true

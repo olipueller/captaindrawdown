@@ -1,7 +1,7 @@
 ---
 title: "Yongqiang Ma"
 description: "Yongqiang Ma is a Mid-career General CDR researcher at Fujian Agriculture and Forestry University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.412996
+date: 2026-07-11T12:53:41.619098
 url: "/cdr-researcher-census/researchers/yongqiang-ma-a5070014/"
 layout: "researcher"
 hiddenInHomeList: true

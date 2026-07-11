@@ -1,7 +1,7 @@
 ---
 title: "Lekh Chand"
 description: "Lekh Chand is a Mid-career Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.441344
+date: 2026-07-11T12:53:41.647269
 url: "/cdr-researcher-census/researchers/lekh-chand-a5032099/"
 layout: "researcher"
 hiddenInHomeList: true

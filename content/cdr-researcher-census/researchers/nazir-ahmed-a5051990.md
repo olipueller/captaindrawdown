@@ -1,7 +1,7 @@
 ---
 title: "Nazir Ahmed"
 description: "Nazir Ahmed is a Mid-career Soil Carbon researcher at Zhongkai University of Agriculture and Engineering in CN. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.974814
+date: 2026-07-11T12:53:40.193951
 url: "/cdr-researcher-census/researchers/nazir-ahmed-a5051990/"
 layout: "researcher"
 hiddenInHomeList: true

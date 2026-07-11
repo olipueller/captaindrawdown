@@ -1,7 +1,7 @@
 ---
 title: "Alexandra Locher"
 description: "Alexandra Locher is a Mid-career Soil Carbon researcher at Grand Valley State University in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.399081
+date: 2026-07-11T12:53:41.605546
 url: "/cdr-researcher-census/researchers/alexandra-locher-a5008334/"
 layout: "researcher"
 hiddenInHomeList: true

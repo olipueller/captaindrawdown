@@ -1,7 +1,7 @@
 ---
 title: "Yehya El Sayed"
 description: "Yehya El Sayed is a Mid-career Biochar researcher at American University of Sharjah in AE. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.736497
+date: 2026-07-11T12:53:41.041795
 url: "/cdr-researcher-census/researchers/yehya-el-sayed-a5109870/"
 layout: "researcher"
 hiddenInHomeList: true

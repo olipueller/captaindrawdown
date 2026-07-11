@@ -1,7 +1,7 @@
 ---
 title: "Màrius Mumbrú"
 description: "Màrius Mumbrú is a Mid-career Soil Carbon researcher at Universitat de Barcelona in ES. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.359857
+date: 2026-07-11T12:53:41.570340
 url: "/cdr-researcher-census/researchers/marius-mumbru-a5058291/"
 layout: "researcher"
 hiddenInHomeList: true

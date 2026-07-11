@@ -1,7 +1,7 @@
 ---
 title: "Shima Masoumi"
 description: "Shima Masoumi is a Mid-career General CDR researcher at Université du Québec à Montréal in CA. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.064110
+date: 2026-07-11T12:53:40.286933
 url: "/cdr-researcher-census/researchers/shima-masoumi-a5025812/"
 layout: "researcher"
 hiddenInHomeList: true

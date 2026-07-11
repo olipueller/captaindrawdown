@@ -1,7 +1,7 @@
 ---
 title: "Yadav Sapkota"
 description: "Yadav Sapkota is a Mid-career Soil Carbon researcher at MS Technology (United States) in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.394857
+date: 2026-07-11T12:53:40.600283
 url: "/cdr-researcher-census/researchers/yadav-sapkota-a5102988/"
 layout: "researcher"
 hiddenInHomeList: true

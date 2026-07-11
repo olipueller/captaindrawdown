@@ -1,7 +1,7 @@
 ---
 title: "Jung-Eun Park"
 description: "Jung-Eun Park is a Senior Biochar researcher at Institute for Advanced Engineering in KR. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.219917
+date: 2026-07-11T12:53:41.457847
 url: "/cdr-researcher-census/researchers/jung-eun-park-a5077852/"
 layout: "researcher"
 hiddenInHomeList: true

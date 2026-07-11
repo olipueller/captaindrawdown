@@ -1,7 +1,7 @@
 ---
 title: "Mahpara Qamar"
 description: "Mahpara Qamar is a Mid-career Biochar researcher at University of Agriculture Faisalabad in PK. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.257145
+date: 2026-07-11T12:53:40.459035
 url: "/cdr-researcher-census/researchers/mahpara-qamar-a5063030/"
 layout: "researcher"
 hiddenInHomeList: true

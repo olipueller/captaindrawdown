@@ -1,7 +1,7 @@
 ---
 title: "Carolina Gil Posse"
 description: "Carolina Gil Posse is an Early-career General CDR researcher at Universidad Nacional de San Martín in PE. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.890975
+date: 2026-07-11T12:53:41.230703
 url: "/cdr-researcher-census/researchers/carolina-gil-posse-a5051026/"
 layout: "researcher"
 hiddenInHomeList: true

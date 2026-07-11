@@ -1,7 +1,7 @@
 ---
 title: "Sandra Lucía Cobos Mora"
 description: "Sandra Lucía Cobos Mora is a Mid-career General CDR researcher at Universidad Católica de Cuenca in EC. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.338052
+date: 2026-07-11T12:53:41.564262
 url: "/cdr-researcher-census/researchers/sandra-lucia-cobos-mora-a5077965/"
 layout: "researcher"
 hiddenInHomeList: true

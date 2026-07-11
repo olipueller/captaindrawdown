@@ -1,7 +1,7 @@
 ---
 title: "Zhi Quan"
 description: "Zhi Quan is a Senior Enhanced Weathering researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 61 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.983311
+date: 2026-07-11T12:53:40.202564
 url: "/cdr-researcher-census/researchers/zhi-quan-a5070287/"
 layout: "researcher"
 hiddenInHomeList: true

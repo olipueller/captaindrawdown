@@ -1,7 +1,7 @@
 ---
 title: "Manoj Chaudhary"
 description: "Manoj Chaudhary is a Mid-career Soil Carbon researcher at Vinoba Bhave University in IN. With 41 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.385580
+date: 2026-07-11T12:53:40.590885
 url: "/cdr-researcher-census/researchers/manoj-chaudhary-a5108257/"
 layout: "researcher"
 hiddenInHomeList: true

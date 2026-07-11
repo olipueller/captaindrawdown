@@ -1,7 +1,7 @@
 ---
 title: "Ning Chai"
 description: "Ning Chai is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.806307
+date: 2026-07-11T12:53:41.185057
 url: "/cdr-researcher-census/researchers/ning-chai-a5028493/"
 layout: "researcher"
 hiddenInHomeList: true

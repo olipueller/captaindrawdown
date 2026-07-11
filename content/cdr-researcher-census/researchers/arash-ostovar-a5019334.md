@@ -1,7 +1,7 @@
 ---
 title: "Arash Ostovar"
 description: "Arash Ostovar is a Mid-career General CDR researcher at Malek Ashtar University of Technology in IR. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.487399
+date: 2026-07-11T12:53:40.700815
 url: "/cdr-researcher-census/researchers/arash-ostovar-a5019334/"
 layout: "researcher"
 hiddenInHomeList: true

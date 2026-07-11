@@ -1,7 +1,7 @@
 ---
 title: "Marine Herrmann"
 description: "Marine Herrmann is an Early-career Biochar researcher at Centre National de la Recherche Scientifique in FR. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.400369
+date: 2026-07-11T12:53:41.606879
 url: "/cdr-researcher-census/researchers/marine-herrmann-a5062698/"
 layout: "researcher"
 hiddenInHomeList: true

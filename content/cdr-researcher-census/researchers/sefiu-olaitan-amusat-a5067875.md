@@ -1,7 +1,7 @@
 ---
 title: "Sefiu Olaitan Amusat"
 description: "Sefiu Olaitan Amusat is a Mid-career Biochar researcher at Pioneer (United States) in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.299718
+date: 2026-07-11T12:53:40.502320
 url: "/cdr-researcher-census/researchers/sefiu-olaitan-amusat-a5067875/"
 layout: "researcher"
 hiddenInHomeList: true

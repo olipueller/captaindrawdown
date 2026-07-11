@@ -1,7 +1,7 @@
 ---
 title: "Chenghui Ju"
 description: "Chenghui Ju is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.090272
+date: 2026-07-11T12:53:40.313307
 url: "/cdr-researcher-census/researchers/chenghui-ju-a5075495/"
 layout: "researcher"
 hiddenInHomeList: true

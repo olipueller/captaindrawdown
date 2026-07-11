@@ -1,7 +1,7 @@
 ---
 title: "Jiu Jiang"
 description: "Jiu Jiang is a Senior General CDR researcher at Xinjiang University in CN. With 50 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.894713
+date: 2026-07-11T12:53:40.107024
 url: "/cdr-researcher-census/researchers/jiu-jiang-a5025515/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qingpeng Yang"
 description: "Qingpeng Yang is a Mid-career Soil Carbon researcher at Guiyang Medical University in CN. With 64 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.014302
+date: 2026-07-11T12:53:40.235384
 url: "/cdr-researcher-census/researchers/qingpeng-yang-a5040483/"
 layout: "researcher"
 hiddenInHomeList: true

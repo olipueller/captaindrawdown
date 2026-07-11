@@ -1,7 +1,7 @@
 ---
 title: "Dariia Atamanchuk"
 description: "Dariia Atamanchuk is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 70 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.153621
+date: 2026-07-11T12:53:40.377099
 url: "/cdr-researcher-census/researchers/dariia-atamanchuk-a5022141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 13 |
 | Citations | 655 |
 | Publications | 70 |
-| CDR Focus | 14.3% |
-| Trajectory | Stable |
+| CDR Focus | 15.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -68,17 +68,17 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 6. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
    0 citations · General CDR
 
-7. **Tracer release experiments in Halifax Harbour and implications for coastal ocean alkalinity enhancement** (2026)
-   0 citations · Ocean CDR
-
-8. **Physical controls on alkalinity variability in Halifax Harbour: The roles of wind and tides** (2026)
-   0 citations · Ocean CDR
-
-9. **Wave Glider‐Based Measurements and Corrections of Near‐Surface <i>p</i> CO <sub>2</sub> Gradients in the Coastal Ocean** (2025)
+7. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
    0 citations · General CDR
 
-10. **Wave Glider-based Measurements and Corrections of Near-surface pCO2 Gradients in the Coastal Ocean** (2024)
-   0 citations
+8. **Tracer release experiments in Halifax Harbour and implications for coastal ocean alkalinity enhancement** (2026)
+   0 citations · Ocean CDR
+
+9. **Physical controls on alkalinity variability in Halifax Harbour: The roles of wind and tides** (2026)
+   0 citations · Ocean CDR
+
+10. **Wave Glider‐Based Measurements and Corrections of Near‐Surface <i>p</i> CO <sub>2</sub> Gradients in the Coastal Ocean** (2025)
+   0 citations · General CDR
 
 ## External Profiles
 

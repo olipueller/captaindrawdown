@@ -1,7 +1,7 @@
 ---
 title: "Tianlong Hu"
 description: "Tianlong Hu is a Senior Soil Carbon researcher at Hohai University in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.113719
+date: 2026-07-11T12:53:40.337506
 url: "/cdr-researcher-census/researchers/tianlong-hu-a5113094/"
 layout: "researcher"
 hiddenInHomeList: true

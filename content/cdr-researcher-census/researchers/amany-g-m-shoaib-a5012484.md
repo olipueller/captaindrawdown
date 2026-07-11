@@ -1,7 +1,7 @@
 ---
 title: "Amany G. M. Shoaib"
 description: "Amany G. M. Shoaib is a Senior Biochar researcher at National Institute of Oceanography and Fisheries in EG. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.439453
+date: 2026-07-11T12:53:40.648013
 url: "/cdr-researcher-census/researchers/amany-g-m-shoaib-a5012484/"
 layout: "researcher"
 hiddenInHomeList: true

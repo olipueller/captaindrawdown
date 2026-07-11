@@ -1,7 +1,7 @@
 ---
 title: "Renu Singh"
 description: "Renu Singh is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.049612
+date: 2026-07-11T12:53:41.306246
 url: "/cdr-researcher-census/researchers/renu-singh-a5109180/"
 layout: "researcher"
 hiddenInHomeList: true

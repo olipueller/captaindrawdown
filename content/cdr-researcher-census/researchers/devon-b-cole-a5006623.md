@@ -1,7 +1,7 @@
 ---
 title: "Devon B. Cole"
 description: "Devon B. Cole is a Senior General CDR researcher at Climate Central in US. With 58 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.866187
+date: 2026-07-11T12:53:40.074436
 url: "/cdr-researcher-census/researchers/devon-b-cole-a5006623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 23 |
 | Citations | 2,400 |
 | Publications | 58 |
-| CDR Focus | 8.6% |
+| CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -65,16 +65,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 5. **Impact on oysters in first-of-its-kind field trial of marine Enhanced Rock Weathering (mERW) with olivine as carbon dioxide removal (CDR) strategy** (2026)
    0 citations · Enhanced Weathering
 
-6. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
+6. **Olivine-based marine carbon dioxide removal field trial shows no adverse effects on the benthic community** (2026)
    0 citations · Enhanced Weathering
 
-7. **Comment on egusphere-2025-988** (2025)
+7. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
+   0 citations · Enhanced Weathering
+
+8. **Comment on egusphere-2025-988** (2025)
    0 citations · General CDR
 
-8. **Comment on egusphere-2024-2150** (2024)
+9. **Comment on egusphere-2024-2150** (2024)
    0 citations
 
-9. **Hawaiian beaches as natural analogues for long-term rates and impacts of Coastal Enhanced Silicate Weathering** (2023)
+10. **Hawaiian beaches as natural analogues for long-term rates and impacts of Coastal Enhanced Silicate Weathering** (2023)
    0 citations · Enhanced Weathering
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Faiz Almansour"
 description: "Faiz Almansour is a Mid-career DAC researcher at Innovation Research Center in US. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.679649
+date: 2026-07-11T12:53:40.928878
 url: "/cdr-researcher-census/researchers/faiz-almansour-a5027781/"
 layout: "researcher"
 hiddenInHomeList: true

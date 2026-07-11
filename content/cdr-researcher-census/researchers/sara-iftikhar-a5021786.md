@@ -1,7 +1,7 @@
 ---
 title: "Sara Iftikhar"
 description: "Sara Iftikhar is an Early-career Biochar researcher at King Abdullah University of Science and Technology in SA. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.337224
+date: 2026-07-11T12:53:41.563460
 url: "/cdr-researcher-census/researchers/sara-iftikhar-a5021786/"
 layout: "researcher"
 hiddenInHomeList: true

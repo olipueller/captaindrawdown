@@ -1,7 +1,7 @@
 ---
 title: "Anna P. M. Michel"
 description: "Anna P. M. Michel is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 116 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.907590
+date: 2026-07-11T12:53:40.121396
 url: "/cdr-researcher-census/researchers/anna-p-m-michel-a5024026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 22 |
 | Citations | 1,760 |
 | Publications | 116 |
-| CDR Focus | 5.2% |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -74,11 +74,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 8. **Data for "The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement"** (2026)
    0 citations · Ocean CDR
 
-9. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
-   0 citations · Ocean CDR
-
-10. **Supplementary material to "A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement"** (2025)
+9. **Field notes on public communication and engagement for the LOC-NESS Ocean Alkalinity Enhancement field trial** (2026)
    0 citations · General CDR
+
+10. **Seawater carbonate chemistry and survival, escape performance, and oxygen consumption for the copepod Calanus finmarchicus** (2026)
+   0 citations · Ocean CDR
 
 ## External Profiles
 

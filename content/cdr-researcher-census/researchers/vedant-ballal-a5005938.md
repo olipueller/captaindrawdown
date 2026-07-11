@@ -1,7 +1,7 @@
 ---
 title: "Vedant Ballal"
 description: "Vedant Ballal is a Mid-career General CDR researcher at Norwegian University of Science and Technology in NO. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.218963
+date: 2026-07-11T12:53:41.456956
 url: "/cdr-researcher-census/researchers/vedant-ballal-a5005938/"
 layout: "researcher"
 hiddenInHomeList: true

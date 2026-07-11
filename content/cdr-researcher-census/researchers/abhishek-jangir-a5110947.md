@@ -1,7 +1,7 @@
 ---
 title: "Abhishek Jangir"
 description: "Abhishek Jangir is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 46 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.436691
+date: 2026-07-11T12:53:40.645036
 url: "/cdr-researcher-census/researchers/abhishek-jangir-a5110947/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Richard Heap"
 description: "Richard Heap is a Senior General CDR researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.281988
+date: 2026-07-11T12:53:41.514677
 url: "/cdr-researcher-census/researchers/richard-heap-a5014499/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Roozbeh Abidnejad"
 description: "Roozbeh Abidnejad is a Mid-career Biochar researcher at Aalto University in FI. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.098057
+date: 2026-07-11T12:53:40.321284
 url: "/cdr-researcher-census/researchers/roozbeh-abidnejad-a5007882/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "DU Minghui"
 description: "DU Minghui is a Mid-career Soil Carbon researcher at East China Normal University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.385987
+date: 2026-07-11T12:53:41.592371
 url: "/cdr-researcher-census/researchers/du-minghui-a5100529/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kushal Sachan"
 description: "Kushal Sachan is a Mid-career Soil Carbon researcher at Chandra Shekhar Azad University of Agriculture and Technology in IN. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.905159
+date: 2026-07-11T12:53:41.240218
 url: "/cdr-researcher-census/researchers/kushal-sachan-a5019767/"
 layout: "researcher"
 hiddenInHomeList: true

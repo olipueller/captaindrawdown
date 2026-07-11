@@ -1,7 +1,7 @@
 ---
 title: "Huong Thu Thi Tran"
 description: "Huong Thu Thi Tran is a Mid-career Biochar researcher. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.303724
+date: 2026-07-11T12:53:41.532961
 url: "/cdr-researcher-census/researchers/huong-thu-thi-tran-a5101966/"
 layout: "researcher"
 hiddenInHomeList: true

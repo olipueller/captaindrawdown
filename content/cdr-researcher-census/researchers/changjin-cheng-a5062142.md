@@ -1,7 +1,7 @@
 ---
 title: "Changjin Cheng"
 description: "Changjin Cheng is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.191931
+date: 2026-07-11T12:53:41.431714
 url: "/cdr-researcher-census/researchers/changjin-cheng-a5062142/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Paul Chapron"
 description: "Paul Chapron is a Senior Soil Carbon researcher at Université Gustave Eiffel in FR. With 40 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.203393
+date: 2026-07-11T12:53:41.442010
 url: "/cdr-researcher-census/researchers/paul-chapron-a5029131/"
 layout: "researcher"
 hiddenInHomeList: true

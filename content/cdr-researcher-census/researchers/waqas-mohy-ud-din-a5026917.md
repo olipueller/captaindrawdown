@@ -1,7 +1,7 @@
 ---
 title: "Waqas Mohy-Ud-Din"
 description: "Waqas Mohy-Ud-Din is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.115954
+date: 2026-07-11T12:53:40.339666
 url: "/cdr-researcher-census/researchers/waqas-mohy-ud-din-a5026917/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Małgorzata Budzeń"
 description: "Małgorzata Budzeń is a Mid-career Soil Carbon researcher at Institute of Agrophysics, Polish Academy of Sciences in PL. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.083680
+date: 2026-07-11T12:53:41.332075
 url: "/cdr-researcher-census/researchers/magorzata-budzen-a5084077/"
 layout: "researcher"
 hiddenInHomeList: true

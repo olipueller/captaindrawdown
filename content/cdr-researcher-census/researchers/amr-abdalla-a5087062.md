@@ -1,7 +1,7 @@
 ---
 title: "Amr Abdalla"
 description: "Amr Abdalla is a Senior General CDR researcher at University of Calgary in CA. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.716177
+date: 2026-07-11T12:53:40.989383
 url: "/cdr-researcher-census/researchers/amr-abdalla-a5087062/"
 layout: "researcher"
 hiddenInHomeList: true

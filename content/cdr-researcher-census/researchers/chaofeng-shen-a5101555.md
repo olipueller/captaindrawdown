@@ -1,7 +1,7 @@
 ---
 title: "Chaofeng Shen"
 description: "Chaofeng Shen is a Senior Biochar researcher at Inner Mongolia Agricultural University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.353164
+date: 2026-07-11T12:53:40.557567
 url: "/cdr-researcher-census/researchers/chaofeng-shen-a5101555/"
 layout: "researcher"
 hiddenInHomeList: true

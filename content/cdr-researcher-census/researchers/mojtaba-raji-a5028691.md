@@ -1,7 +1,7 @@
 ---
 title: "Mojtaba Raji"
 description: "Mojtaba Raji is a Mid-career Biochar researcher at University of Kashan in IR. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.153872
+date: 2026-07-11T12:53:40.377313
 url: "/cdr-researcher-census/researchers/mojtaba-raji-a5028691/"
 layout: "researcher"
 hiddenInHomeList: true

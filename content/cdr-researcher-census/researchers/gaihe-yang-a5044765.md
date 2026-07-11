@@ -1,7 +1,7 @@
 ---
 title: "Gaihe Yang"
 description: "Gaihe Yang is an Eminent Soil Carbon researcher at Yangon Technological University in MM. With 248 publications and an h-index of 60, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.778870
+date: 2026-07-11T12:53:39.964764
 url: "/cdr-researcher-census/researchers/gaihe-yang-a5044765/"
 layout: "researcher"
 hiddenInHomeList: true

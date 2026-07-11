@@ -1,7 +1,7 @@
 ---
 title: "Michał Dudek"
 description: "Michał Dudek is a Mid-career Soil Carbon researcher at Geological Institute in RU. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.641674
+date: 2026-07-11T12:53:40.861256
 url: "/cdr-researcher-census/researchers/micha-dudek-a5063915/"
 layout: "researcher"
 hiddenInHomeList: true

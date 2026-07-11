@@ -1,7 +1,7 @@
 ---
 title: "D.B. Watts"
 description: "D.B. Watts is an Early-career Soil Carbon researcher at National Soil Dynamics Research Laboratory in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.386213
+date: 2026-07-11T12:53:41.592582
 url: "/cdr-researcher-census/researchers/db-watts-a5073142/"
 layout: "researcher"
 hiddenInHomeList: true

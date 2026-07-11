@@ -1,7 +1,7 @@
 ---
 title: "Karolina Petela"
 description: "Karolina Petela is a Mid-career General CDR researcher at Silesian University of Technology in PL. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.880356
+date: 2026-07-11T12:53:41.224098
 url: "/cdr-researcher-census/researchers/karolina-petela-a5018426/"
 layout: "researcher"
 hiddenInHomeList: true

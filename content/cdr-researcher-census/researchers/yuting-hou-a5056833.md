@@ -1,7 +1,7 @@
 ---
 title: "Yuting Hou"
 description: "Yuting Hou is a Senior Soil Carbon researcher at Xinjiang Academy of Agricultural Sciences in CN. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.140498
+date: 2026-07-11T12:53:40.364148
 url: "/cdr-researcher-census/researchers/yuting-hou-a5056833/"
 layout: "researcher"
 hiddenInHomeList: true

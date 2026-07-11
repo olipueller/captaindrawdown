@@ -1,7 +1,7 @@
 ---
 title: "Haobo Feng"
 description: "Haobo Feng is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.181762
+date: 2026-07-11T12:53:41.421847
 url: "/cdr-researcher-census/researchers/haobo-feng-a5014510/"
 layout: "researcher"
 hiddenInHomeList: true

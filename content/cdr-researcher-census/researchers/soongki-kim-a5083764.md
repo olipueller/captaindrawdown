@@ -1,7 +1,7 @@
 ---
 title: "Soong‐Ki Kim"
 description: "Soong‐Ki Kim is a Mid-career General CDR researcher at Yale University in US. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.280543
+date: 2026-07-11T12:53:40.482405
 url: "/cdr-researcher-census/researchers/soongki-kim-a5083764/"
 layout: "researcher"
 hiddenInHomeList: true

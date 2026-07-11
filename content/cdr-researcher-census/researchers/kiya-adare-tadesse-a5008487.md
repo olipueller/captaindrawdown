@@ -1,7 +1,7 @@
 ---
 title: "Kiya Adare Tadesse"
 description: "Kiya Adare Tadesse is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.844556
+date: 2026-07-11T12:53:41.216776
 url: "/cdr-researcher-census/researchers/kiya-adare-tadesse-a5008487/"
 layout: "researcher"
 hiddenInHomeList: true

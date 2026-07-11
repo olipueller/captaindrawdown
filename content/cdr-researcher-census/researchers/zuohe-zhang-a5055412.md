@@ -1,7 +1,7 @@
 ---
 title: "Zuohe Zhang"
 description: "Zuohe Zhang is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.184545
+date: 2026-07-11T12:53:41.424225
 url: "/cdr-researcher-census/researchers/zuohe-zhang-a5055412/"
 layout: "researcher"
 hiddenInHomeList: true

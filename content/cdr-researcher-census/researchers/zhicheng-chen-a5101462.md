@@ -1,7 +1,7 @@
 ---
 title: "Zhicheng Chen"
 description: "Zhicheng Chen is a Senior Soil Carbon researcher at Guigang City People's Hospital in CN. With 80 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.995721
+date: 2026-07-11T12:53:40.215976
 url: "/cdr-researcher-census/researchers/zhicheng-chen-a5101462/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zahra Eshaghi Gorji"
 description: "Zahra Eshaghi Gorji is a Mid-career General CDR researcher at University of Helsinki in FI. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.092716
+date: 2026-07-11T12:53:41.340860
 url: "/cdr-researcher-census/researchers/zahra-eshaghi-gorji-a5073778/"
 layout: "researcher"
 hiddenInHomeList: true

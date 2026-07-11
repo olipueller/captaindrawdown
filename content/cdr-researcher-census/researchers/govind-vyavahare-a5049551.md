@@ -1,7 +1,7 @@
 ---
 title: "Govind Vyavahare"
 description: "Govind Vyavahare is a Mid-career Soil Carbon researcher at Chungbuk National University in KR. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.115848
+date: 2026-07-11T12:53:40.339571
 url: "/cdr-researcher-census/researchers/govind-vyavahare-a5049551/"
 layout: "researcher"
 hiddenInHomeList: true

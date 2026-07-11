@@ -1,7 +1,7 @@
 ---
 title: "Jiayi Miao"
 description: "Jiayi Miao is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.070585
+date: 2026-07-11T12:53:41.320778
 url: "/cdr-researcher-census/researchers/jiayi-miao-a5054814/"
 layout: "researcher"
 hiddenInHomeList: true

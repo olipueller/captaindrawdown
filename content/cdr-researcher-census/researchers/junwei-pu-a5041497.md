@@ -1,7 +1,7 @@
 ---
 title: "Junwei Pu"
 description: "Junwei Pu is a Mid-career General CDR researcher at Yunnan University in CN. With 49 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.119611
+date: 2026-07-11T12:53:40.343640
 url: "/cdr-researcher-census/researchers/junwei-pu-a5041497/"
 layout: "researcher"
 hiddenInHomeList: true

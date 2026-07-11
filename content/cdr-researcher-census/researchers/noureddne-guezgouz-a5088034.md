@@ -1,7 +1,7 @@
 ---
 title: "Noureddıne Guezgouz"
 description: "Noureddıne Guezgouz is a Mid-career Soil Carbon researcher at Mohamed-Cherif Messaadia University in DZ. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.379547
+date: 2026-07-11T12:53:41.587071
 url: "/cdr-researcher-census/researchers/noureddne-guezgouz-a5088034/"
 layout: "researcher"
 hiddenInHomeList: true

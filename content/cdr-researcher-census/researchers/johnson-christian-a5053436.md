@@ -1,7 +1,7 @@
 ---
 title: "Johnson Christian"
 description: "Johnson Christian is an Early-career Ocean CDR researcher at Marwadi University in IN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.296924
+date: 2026-07-11T12:53:41.527025
 url: "/cdr-researcher-census/researchers/johnson-christian-a5053436/"
 layout: "researcher"
 hiddenInHomeList: true

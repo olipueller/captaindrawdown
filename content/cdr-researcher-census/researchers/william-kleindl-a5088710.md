@@ -1,7 +1,7 @@
 ---
 title: "William Kleindl"
 description: "William Kleindl is a Senior General CDR researcher at Montana State University in US. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.839207
+date: 2026-07-11T12:53:41.213684
 url: "/cdr-researcher-census/researchers/william-kleindl-a5088710/"
 layout: "researcher"
 hiddenInHomeList: true

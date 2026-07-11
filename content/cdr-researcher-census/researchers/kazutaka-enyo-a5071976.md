@@ -1,7 +1,7 @@
 ---
 title: "Kazutaka Enyo"
 description: "Kazutaka Enyo is a Senior Ocean CDR researcher at Japan Meteorological Agency in JP. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.871422
+date: 2026-07-11T12:53:40.079983
 url: "/cdr-researcher-census/researchers/kazutaka-enyo-a5071976/"
 layout: "researcher"
 hiddenInHomeList: true

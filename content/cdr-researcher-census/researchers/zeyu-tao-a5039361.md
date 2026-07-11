@@ -1,7 +1,7 @@
 ---
 title: "Zeyu Tao"
-description: "Zeyu Tao is a Mid-career General CDR researcher at City University of Hong Kong in HK. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.202979
+description: "Zeyu Tao is a Mid-career DAC researcher at City University of Hong Kong in HK. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T12:53:40.403529
 url: "/cdr-researcher-census/researchers/zeyu-tao-a5039361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ City University of Hong Kong · 🇭🇰 HK
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 612 |
 | Publications | 25 |
-| CDR Focus | 8.0% |
+| CDR Focus | 12.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,7 +56,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Elucidating the Si/Al Ratio Dependence of N <sub>2</sub> , CO <sub>2</sub> , and NO <sub>2</sub> Adsorption in LTA Zeolites via a Synergistic Guest–Cation Gating Effect** (2026)
    0 citations · DAC
 
-3. **Linking Macroscopic Material Chemistry to Industrial Carbon Capture: A Process-Based Screening Framework for Multi-Scenario CO2 Adsorption** (2026)
+3. **Linking adsorbent development to industrial carbon capture: A process-based screening framework for multi-scenario CO2 adsorption** (2026)
+   0 citations · DAC
+
+4. **Linking Macroscopic Material Chemistry to Industrial Carbon Capture: A Process-Based Screening Framework for Multi-Scenario CO2 Adsorption** (2026)
    0 citations · General CDR
 
 ## External Profiles

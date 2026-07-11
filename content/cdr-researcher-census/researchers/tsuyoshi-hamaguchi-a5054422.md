@@ -1,7 +1,7 @@
 ---
 title: "Tsuyoshi Hamaguchi"
 description: "Tsuyoshi Hamaguchi is a Senior General CDR researcher at 豊田中央研究所 in JP. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.164178
+date: 2026-07-11T12:53:40.387376
 url: "/cdr-researcher-census/researchers/tsuyoshi-hamaguchi-a5054422/"
 layout: "researcher"
 hiddenInHomeList: true

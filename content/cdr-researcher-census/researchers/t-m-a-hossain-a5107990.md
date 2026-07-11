@@ -1,7 +1,7 @@
 ---
 title: "T. M. A. Hossain"
 description: "T. M. A. Hossain is a Senior BECCS researcher at North Carolina State University in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.143815
+date: 2026-07-11T12:53:41.387589
 url: "/cdr-researcher-census/researchers/t-m-a-hossain-a5107990/"
 layout: "researcher"
 hiddenInHomeList: true

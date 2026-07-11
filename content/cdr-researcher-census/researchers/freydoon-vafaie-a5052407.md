@@ -1,7 +1,7 @@
 ---
 title: "Freydoon Vafaie"
 description: "Freydoon Vafaie is a Mid-career General CDR researcher at K.N.Toosi University of Technology in IR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.437792
+date: 2026-07-11T12:53:40.646203
 url: "/cdr-researcher-census/researchers/freydoon-vafaie-a5052407/"
 layout: "researcher"
 hiddenInHomeList: true

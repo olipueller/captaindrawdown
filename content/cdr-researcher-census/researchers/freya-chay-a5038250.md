@@ -1,7 +1,7 @@
 ---
 title: "Freya Chay"
 description: "Freya Chay is an Early-career General CDR researcher at Carbon180 in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.132432
+date: 2026-07-11T12:53:41.376610
 url: "/cdr-researcher-census/researchers/freya-chay-a5038250/"
 layout: "researcher"
 hiddenInHomeList: true

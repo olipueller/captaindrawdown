@@ -1,7 +1,7 @@
 ---
 title: "Yongxing Li"
 description: "Yongxing Li is an Early-career Soil Carbon researcher at Guangdong Polytechnic Normal University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.501246
+date: 2026-07-11T12:53:40.715668
 url: "/cdr-researcher-census/researchers/yongxing-li-a5067983/"
 layout: "researcher"
 hiddenInHomeList: true

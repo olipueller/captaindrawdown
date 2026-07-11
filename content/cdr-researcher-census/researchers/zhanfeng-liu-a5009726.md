@@ -1,7 +1,7 @@
 ---
 title: "Zhanfeng Liu"
 description: "Zhanfeng Liu is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 254 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.807590
+date: 2026-07-11T12:53:40.003359
 url: "/cdr-researcher-census/researchers/zhanfeng-liu-a5009726/"
 layout: "researcher"
 hiddenInHomeList: true

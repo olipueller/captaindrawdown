@@ -1,7 +1,7 @@
 ---
 title: "Yennam Rajesh"
 description: "Yennam Rajesh is a Mid-career Biochar researcher at Sandip Foundation in IN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.670151
+date: 2026-07-11T12:53:40.890377
 url: "/cdr-researcher-census/researchers/yennam-rajesh-a5037704/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nathielly Martins"
 description: "Nathielly Martins is a Mid-career Soil Carbon researcher at Technical University of Munich in DE. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.594324
+date: 2026-07-11T12:53:40.811309
 url: "/cdr-researcher-census/researchers/nathielly-martins-a5007869/"
 layout: "researcher"
 hiddenInHomeList: true

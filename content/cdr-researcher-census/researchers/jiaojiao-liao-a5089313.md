@@ -1,7 +1,7 @@
 ---
 title: "Jiaojiao Liao"
 description: "Jiaojiao Liao is a Mid-career Soil Carbon researcher at Peking University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.483736
+date: 2026-07-11T12:53:40.697072
 url: "/cdr-researcher-census/researchers/jiaojiao-liao-a5089313/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yexin Zhao"
 description: "Yexin Zhao is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.279523
+date: 2026-07-11T12:53:40.481191
 url: "/cdr-researcher-census/researchers/yexin-zhao-a5047700/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kiah Eng Lim"
 description: "Kiah Eng Lim is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.348479
+date: 2026-07-11T12:53:41.566241
 url: "/cdr-researcher-census/researchers/kiah-eng-lim-a5006677/"
 layout: "researcher"
 hiddenInHomeList: true

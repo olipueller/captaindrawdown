@@ -1,7 +1,7 @@
 ---
 title: "M. Pedraza"
 description: "M. Pedraza is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.977349
+date: 2026-07-11T12:53:40.196605
 url: "/cdr-researcher-census/researchers/m-pedraza-a5014114/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hope McLaughlin"
 description: "Hope McLaughlin is an Early-career General CDR researcher at Colorado School of Mines in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.355623
+date: 2026-07-11T12:53:40.559903
 url: "/cdr-researcher-census/researchers/hope-mclaughlin-a5051591/"
 layout: "researcher"
 hiddenInHomeList: true

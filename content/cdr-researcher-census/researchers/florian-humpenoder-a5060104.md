@@ -1,7 +1,7 @@
 ---
 title: "Florian Humpenöder"
 description: "Florian Humpenöder is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 168 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.769916
+date: 2026-07-11T12:53:39.944377
 url: "/cdr-researcher-census/researchers/florian-humpenoder-a5060104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 51 |
 | Citations | 21,735 |
 | Publications | 168 |
-| CDR Focus | 6.5% |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

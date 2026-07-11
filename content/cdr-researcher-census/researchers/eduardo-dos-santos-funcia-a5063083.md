@@ -1,7 +1,7 @@
 ---
 title: "Eduardo dos Santos Funcia"
 description: "Eduardo dos Santos Funcia is a Mid-career BECCS researcher at Universidade de São Paulo in BR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.398636
+date: 2026-07-11T12:53:40.604463
 url: "/cdr-researcher-census/researchers/eduardo-dos-santos-funcia-a5063083/"
 layout: "researcher"
 hiddenInHomeList: true

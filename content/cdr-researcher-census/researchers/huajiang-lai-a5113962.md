@@ -1,7 +1,7 @@
 ---
 title: "Huajiang Lai"
 description: "Huajiang Lai is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.125081
+date: 2026-07-11T12:53:41.369978
 url: "/cdr-researcher-census/researchers/huajiang-lai-a5113962/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shaoshan An"
 description: "Shaoshan An is an Eminent Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 121 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.796919
+date: 2026-07-11T12:53:39.990510
 url: "/cdr-researcher-census/researchers/shaoshan-an-a5109476/"
 layout: "researcher"
 hiddenInHomeList: true

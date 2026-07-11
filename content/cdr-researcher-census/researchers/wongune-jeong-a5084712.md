@@ -1,7 +1,7 @@
 ---
 title: "Won‐Gune Jeong"
 description: "Won‐Gune Jeong is a Senior General CDR researcher at Jeonbuk National University in KR. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.654444
+date: 2026-07-11T12:53:40.874814
 url: "/cdr-researcher-census/researchers/wongune-jeong-a5084712/"
 layout: "researcher"
 hiddenInHomeList: true

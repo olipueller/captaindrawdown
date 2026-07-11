@@ -1,7 +1,7 @@
 ---
 title: "Jinsai Chen"
 description: "Jinsai Chen is a Mid-career Soil Carbon researcher at Beijing Academy of Agricultural and Forestry Sciences in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.238811
+date: 2026-07-11T12:53:40.440789
 url: "/cdr-researcher-census/researchers/jinsai-chen-a5049849/"
 layout: "researcher"
 hiddenInHomeList: true

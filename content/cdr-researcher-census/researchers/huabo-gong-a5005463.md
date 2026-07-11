@@ -1,7 +1,7 @@
 ---
 title: "Huabo Gong"
 description: "Huabo Gong is a Mid-career Biochar researcher at Anhui University in CN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.978562
+date: 2026-07-11T12:53:40.197809
 url: "/cdr-researcher-census/researchers/huabo-gong-a5005463/"
 layout: "researcher"
 hiddenInHomeList: true

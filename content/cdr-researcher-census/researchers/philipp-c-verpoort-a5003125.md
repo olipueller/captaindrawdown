@@ -1,7 +1,7 @@
 ---
 title: "Philipp C. Verpoort"
 description: "Philipp C. Verpoort is a Mid-career General CDR researcher at Pioneer (United States) in US. With 44 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.275574
+date: 2026-07-11T12:53:40.477446
 url: "/cdr-researcher-census/researchers/philipp-c-verpoort-a5003125/"
 layout: "researcher"
 hiddenInHomeList: true

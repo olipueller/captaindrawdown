@@ -1,7 +1,7 @@
 ---
 title: "Jian Wang"
 description: "Jian Wang is a Senior Soil Carbon researcher at Qinghai University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.063521
+date: 2026-07-11T12:53:41.314986
 url: "/cdr-researcher-census/researchers/jian-wang-a5112629/"
 layout: "researcher"
 hiddenInHomeList: true

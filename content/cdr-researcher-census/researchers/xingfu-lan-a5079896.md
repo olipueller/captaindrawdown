@@ -1,7 +1,7 @@
 ---
 title: "Xingfu Lan"
 description: "Xingfu Lan is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.305689
+date: 2026-07-11T12:53:41.534662
 url: "/cdr-researcher-census/researchers/xingfu-lan-a5079896/"
 layout: "researcher"
 hiddenInHomeList: true

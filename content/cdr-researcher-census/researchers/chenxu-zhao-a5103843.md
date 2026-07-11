@@ -1,7 +1,7 @@
 ---
 title: "Chenxu Zhao"
 description: "Chenxu Zhao is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.515733
+date: 2026-07-11T12:53:40.730834
 url: "/cdr-researcher-census/researchers/chenxu-zhao-a5103843/"
 layout: "researcher"
 hiddenInHomeList: true

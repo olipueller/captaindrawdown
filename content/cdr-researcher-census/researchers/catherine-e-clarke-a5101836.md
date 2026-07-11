@@ -1,7 +1,7 @@
 ---
 title: "Catherine E. Clarke"
 description: "Catherine E. Clarke is a Senior Soil Carbon researcher at Stellenbosch University in ZA. With 67 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.144043
+date: 2026-07-11T12:53:40.367428
 url: "/cdr-researcher-census/researchers/catherine-e-clarke-a5101836/"
 layout: "researcher"
 hiddenInHomeList: true

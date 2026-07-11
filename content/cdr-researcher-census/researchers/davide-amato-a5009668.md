@@ -1,7 +1,7 @@
 ---
 title: "Davide Amato"
 description: "Davide Amato is an Early-career Soil Carbon researcher at Istituto Centrale per la Ricerca Scientifica e Tecnologica Applicata al Mare in IT. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.311764
+date: 2026-07-11T12:53:41.540039
 url: "/cdr-researcher-census/researchers/davide-amato-a5009668/"
 layout: "researcher"
 hiddenInHomeList: true

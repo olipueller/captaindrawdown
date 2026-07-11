@@ -1,7 +1,7 @@
 ---
 title: "Po‐Jen Yang"
 description: "Po‐Jen Yang is a Senior General CDR researcher at National Central University in TW. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.431406
+date: 2026-07-11T12:53:41.637680
 url: "/cdr-researcher-census/researchers/pojen-yang-a5101908/"
 layout: "researcher"
 hiddenInHomeList: true

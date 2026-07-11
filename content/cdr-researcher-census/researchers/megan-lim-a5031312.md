@@ -1,7 +1,7 @@
 ---
 title: "Megan Lim"
 description: "Megan Lim is a Mid-career DAC researcher at Adelaide University in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.157650
+date: 2026-07-11T12:53:41.399610
 url: "/cdr-researcher-census/researchers/megan-lim-a5031312/"
 layout: "researcher"
 hiddenInHomeList: true

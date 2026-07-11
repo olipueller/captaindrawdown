@@ -1,7 +1,7 @@
 ---
 title: "Kristine Karstens"
 description: "Kristine Karstens is a Mid-career General CDR researcher at Leibniz Association in DE. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.213774
+date: 2026-07-11T12:53:40.414552
 url: "/cdr-researcher-census/researchers/kristine-karstens-a5086008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 595 |
 | Publications | 49 |
-| CDR Focus | 12.2% |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,19 +59,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time** (2023)
    1 citations · General CDR
 
-4. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
+4. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
+   0 citations · BECCS
+
+5. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
    0 citations · Biochar
 
-5. **Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario** (2025)
+6. **Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario** (2025)
    0 citations · General CDR
 
-6. **Exploring risks and benefits of overshooting a 1.5 &amp;#9702;C carbon budget over space and time** (2024)
+7. **Exploring risks and benefits of overshooting a 1.5 &amp;#9702;C carbon budget over space and time** (2024)
    0 citations · General CDR
 
-7. **Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time** (2023)
+8. **Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time** (2023)
    0 citations
 
-8. **Full reply on RC1** (2021)
+9. **Full reply on RC1** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

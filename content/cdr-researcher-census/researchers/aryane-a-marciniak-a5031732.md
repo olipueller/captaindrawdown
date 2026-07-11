@@ -1,7 +1,7 @@
 ---
 title: "Aryane A. Marciniak"
 description: "Aryane A. Marciniak is a Mid-career General CDR researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.405799
+date: 2026-07-11T12:53:40.611770
 url: "/cdr-researcher-census/researchers/aryane-a-marciniak-a5031732/"
 layout: "researcher"
 hiddenInHomeList: true

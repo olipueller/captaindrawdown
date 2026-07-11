@@ -1,7 +1,7 @@
 ---
 title: "Christina‐Luise Roß"
 description: "Christina‐Luise Roß is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.550747
+date: 2026-07-11T12:53:40.767245
 url: "/cdr-researcher-census/researchers/christinaluise-ro-a5087857/"
 layout: "researcher"
 hiddenInHomeList: true

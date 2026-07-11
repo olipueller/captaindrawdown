@@ -1,7 +1,7 @@
 ---
 title: "Dawei Zhen"
 description: "Dawei Zhen is a Mid-career Biochar researcher at Beijing University of Chinese Medicine in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.402508
+date: 2026-07-11T12:53:40.608397
 url: "/cdr-researcher-census/researchers/dawei-zhen-a5000951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 391 |
 | Publications | 19 |
-| CDR Focus | 5.3% |
+| CDR Focus | 10.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **An achieved strategy for magnetic biochar for removal of tetracyclines and fluoroquinolones: Adsorption and mechanism studies** (2022)
    144 citations · Biochar
+
+2. **An Achieved Strategy for Magnetic Biochar for Removal of Tetracyclines and Fluoroquinolones: Adsorption and Mechanistic Studies** (2022)
+   0 citations · Biochar
 
 ## External Profiles
 

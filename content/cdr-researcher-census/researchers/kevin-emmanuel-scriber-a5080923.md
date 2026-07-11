@@ -1,7 +1,7 @@
 ---
 title: "Kevin Emmanuel Scriber"
 description: "Kevin Emmanuel Scriber is a Mid-career Soil Carbon researcher at University of Arizona in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.078791
+date: 2026-07-11T12:53:41.326879
 url: "/cdr-researcher-census/researchers/kevin-emmanuel-scriber-a5080923/"
 layout: "researcher"
 hiddenInHomeList: true

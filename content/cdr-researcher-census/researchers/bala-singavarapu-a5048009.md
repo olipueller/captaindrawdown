@@ -1,7 +1,7 @@
 ---
 title: "Bala Singavarapu"
 description: "Bala Singavarapu is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.343974
+date: 2026-07-11T12:53:40.547895
 url: "/cdr-researcher-census/researchers/bala-singavarapu-a5048009/"
 layout: "researcher"
 hiddenInHomeList: true

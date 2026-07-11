@@ -1,7 +1,7 @@
 ---
 title: "Taciana G.S. Guimarães"
 description: "Taciana G.S. Guimarães is a Mid-career Biochar researcher at Integrated Oncology (United States) in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.288945
+date: 2026-07-11T12:53:40.491242
 url: "/cdr-researcher-census/researchers/taciana-gs-guimaraes-a5002765/"
 layout: "researcher"
 hiddenInHomeList: true

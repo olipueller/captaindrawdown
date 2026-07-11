@@ -1,7 +1,7 @@
 ---
 title: "Liang He"
 description: "Liang He is a Mid-career Soil Carbon researcher at Chongqing Normal University in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.653350
+date: 2026-07-11T12:53:40.873687
 url: "/cdr-researcher-census/researchers/liang-he-a5083265/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xinzhe Zhu"
 description: "Xinzhe Zhu is a Senior Biochar researcher at Sun Yat-sen University in CN. With 33 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.859297
+date: 2026-07-11T12:53:40.065863
 url: "/cdr-researcher-census/researchers/xinzhe-zhu-a5016030/"
 layout: "researcher"
 hiddenInHomeList: true

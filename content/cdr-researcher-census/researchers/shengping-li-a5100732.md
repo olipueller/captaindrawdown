@@ -1,7 +1,7 @@
 ---
 title: "Shengping Li"
 description: "Shengping Li is a Senior Soil Carbon researcher at University of Electronic Science and Technology of China in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.130633
+date: 2026-07-11T12:53:41.374900
 url: "/cdr-researcher-census/researchers/shengping-li-a5100732/"
 layout: "researcher"
 hiddenInHomeList: true

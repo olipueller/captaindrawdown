@@ -1,7 +1,7 @@
 ---
 title: "Bing Jia"
 description: "Bing Jia is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.260805
+date: 2026-07-11T12:53:40.462645
 url: "/cdr-researcher-census/researchers/bing-jia-a5102495/"
 layout: "researcher"
 hiddenInHomeList: true

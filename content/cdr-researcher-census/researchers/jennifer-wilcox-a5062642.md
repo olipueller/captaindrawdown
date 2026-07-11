@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Wilcox"
 description: "Jennifer Wilcox is an Eminent General CDR researcher at University of Pennsylvania in US. With 219 publications and an h-index of 63, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.770206
+date: 2026-07-11T12:53:39.945228
 url: "/cdr-researcher-census/researchers/jennifer-wilcox-a5062642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 63 |
 | Citations | 21,284 |
 | Publications | 219 |
-| CDR Focus | 5.0% |
+| CDR Focus | 5.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

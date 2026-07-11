@@ -1,7 +1,7 @@
 ---
 title: "Xinrui Lu"
 description: "Xinrui Lu is a Senior Soil Carbon researcher at Donghua University in CN. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.259828
+date: 2026-07-11T12:53:40.461580
 url: "/cdr-researcher-census/researchers/xinrui-lu-a5103176/"
 layout: "researcher"
 hiddenInHomeList: true

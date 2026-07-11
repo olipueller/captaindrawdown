@@ -1,7 +1,7 @@
 ---
 title: "Xueping Wu"
 description: "Xueping Wu is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 143 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.868350
+date: 2026-07-11T12:53:40.076577
 url: "/cdr-researcher-census/researchers/xueping-wu-a5035428/"
 layout: "researcher"
 hiddenInHomeList: true

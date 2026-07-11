@@ -1,7 +1,7 @@
 ---
 title: "Yushi Ai"
 description: "Yushi Ai is a Mid-career Biochar researcher at University of Electronic Science and Technology of China in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.702587
+date: 2026-07-11T12:53:40.963220
 url: "/cdr-researcher-census/researchers/yushi-ai-a5064814/"
 layout: "researcher"
 hiddenInHomeList: true

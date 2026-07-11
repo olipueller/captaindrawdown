@@ -1,7 +1,7 @@
 ---
 title: "Zhongrui Ren"
 description: "Zhongrui Ren is a Mid-career General CDR researcher at North China Electric Power University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.239841
+date: 2026-07-11T12:53:41.476392
 url: "/cdr-researcher-census/researchers/zhongrui-ren-a5100784/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Martha Lucia Palacios Peñaranda"
 description: "Martha Lucia Palacios Peñaranda is a Mid-career General CDR researcher at Universidad Autónoma de Occidente in CO. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.744218
+date: 2026-07-11T12:53:41.060673
 url: "/cdr-researcher-census/researchers/martha-lucia-palacios-penaranda-a5051445/"
 layout: "researcher"
 hiddenInHomeList: true

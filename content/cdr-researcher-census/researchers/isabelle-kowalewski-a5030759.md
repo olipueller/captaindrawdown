@@ -1,7 +1,7 @@
 ---
 title: "Isabelle Kowalewski"
 description: "Isabelle Kowalewski is a Senior Soil Carbon researcher at IFP Énergies nouvelles in FR. With 56 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.304728
+date: 2026-07-11T12:53:40.507199
 url: "/cdr-researcher-census/researchers/isabelle-kowalewski-a5030759/"
 layout: "researcher"
 hiddenInHomeList: true

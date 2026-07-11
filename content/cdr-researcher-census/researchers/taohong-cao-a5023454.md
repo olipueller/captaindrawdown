@@ -1,7 +1,7 @@
 ---
 title: "Taohong Cao"
 description: "Taohong Cao is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.333050
+date: 2026-07-11T12:53:41.559741
 url: "/cdr-researcher-census/researchers/taohong-cao-a5023454/"
 layout: "researcher"
 hiddenInHomeList: true

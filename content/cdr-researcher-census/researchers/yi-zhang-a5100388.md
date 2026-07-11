@@ -1,7 +1,7 @@
 ---
 title: "Yi Zhang"
 description: "Yi Zhang is a Mid-career Biochar researcher. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.330907
+date: 2026-07-11T12:53:40.533987
 url: "/cdr-researcher-census/researchers/yi-zhang-a5100388/"
 layout: "researcher"
 hiddenInHomeList: true

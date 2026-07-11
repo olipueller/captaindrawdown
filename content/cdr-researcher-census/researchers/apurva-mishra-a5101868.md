@@ -1,7 +1,7 @@
 ---
 title: "Apurva Mishra"
 description: "Apurva Mishra is a Mid-career Soil Carbon researcher at National Environmental Engineering Research Institute in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.393579
+date: 2026-07-11T12:53:40.599032
 url: "/cdr-researcher-census/researchers/apurva-mishra-a5101868/"
 layout: "researcher"
 hiddenInHomeList: true

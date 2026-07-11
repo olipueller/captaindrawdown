@@ -1,7 +1,7 @@
 ---
 title: "Santosh Kale"
 description: "Santosh Kale is a Senior Soil Carbon researcher at Lowell General Hospital in US. With 49 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.707639
+date: 2026-07-11T12:53:40.970916
 url: "/cdr-researcher-census/researchers/santosh-kale-a5079313/"
 layout: "researcher"
 hiddenInHomeList: true

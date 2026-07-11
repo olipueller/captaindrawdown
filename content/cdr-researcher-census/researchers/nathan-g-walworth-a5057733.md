@@ -1,7 +1,7 @@
 ---
 title: "Nathan G. Walworth"
 description: "Nathan G. Walworth is a Mid-career General CDR researcher at University of Southern California in US. With 50 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.976453
+date: 2026-07-11T12:53:40.195647
 url: "/cdr-researcher-census/researchers/nathan-g-walworth-a5057733/"
 layout: "researcher"
 hiddenInHomeList: true

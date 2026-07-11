@@ -1,7 +1,7 @@
 ---
 title: "Ranran Zhou"
 description: "Ranran Zhou is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.298109
+date: 2026-07-11T12:53:40.500565
 url: "/cdr-researcher-census/researchers/ranran-zhou-a5051791/"
 layout: "researcher"
 hiddenInHomeList: true

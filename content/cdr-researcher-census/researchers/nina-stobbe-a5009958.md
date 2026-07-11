@@ -1,7 +1,7 @@
 ---
 title: "Nina Stobbe"
 description: "Nina Stobbe is a Senior Soil Carbon researcher. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.218108
+date: 2026-07-11T12:53:40.419258
 url: "/cdr-researcher-census/researchers/nina-stobbe-a5009958/"
 layout: "researcher"
 hiddenInHomeList: true

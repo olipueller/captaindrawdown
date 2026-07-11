@@ -1,7 +1,7 @@
 ---
 title: "Chunmei Wang"
 description: "Chunmei Wang is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.214927
+date: 2026-07-11T12:53:40.415723
 url: "/cdr-researcher-census/researchers/chunmei-wang-a5100754/"
 layout: "researcher"
 hiddenInHomeList: true

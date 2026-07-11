@@ -1,7 +1,7 @@
 ---
 title: "Reem Zeitoun"
 description: "Reem Zeitoun is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.203070
+date: 2026-07-11T12:53:41.441715
 url: "/cdr-researcher-census/researchers/reem-zeitoun-a5045216/"
 layout: "researcher"
 hiddenInHomeList: true

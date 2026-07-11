@@ -1,7 +1,7 @@
 ---
 title: "Abdul-Wahab M. Imoro"
 description: "Abdul-Wahab M. Imoro is an Early-career Soil Carbon researcher at University for Development Studies in GH. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.407436
+date: 2026-07-11T12:53:41.613725
 url: "/cdr-researcher-census/researchers/abdul-wahab-m-imoro-a5059383/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laura Aguglia"
 description: "Laura Aguglia is a Mid-career Soil Carbon researcher at European Commission in BE. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.737369
+date: 2026-07-11T12:53:41.044169
 url: "/cdr-researcher-census/researchers/laura-aguglia-a5056604/"
 layout: "researcher"
 hiddenInHomeList: true

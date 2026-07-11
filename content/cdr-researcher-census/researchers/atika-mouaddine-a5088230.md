@@ -1,7 +1,7 @@
 ---
 title: "Atika Mouaddine"
 description: "Atika Mouaddine is a Mid-career Soil Carbon researcher at Université Sultan Moulay Slimane in MA. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.900702
+date: 2026-07-11T12:53:41.237634
 url: "/cdr-researcher-census/researchers/atika-mouaddine-a5088230/"
 layout: "researcher"
 hiddenInHomeList: true

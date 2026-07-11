@@ -1,7 +1,7 @@
 ---
 title: "Alexia Cooper"
 description: "Alexia Cooper is an Early-career Soil Carbon researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.746515
+date: 2026-07-11T12:53:41.063507
 url: "/cdr-researcher-census/researchers/alexia-cooper-a5081378/"
 layout: "researcher"
 hiddenInHomeList: true

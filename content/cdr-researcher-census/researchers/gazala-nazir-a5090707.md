@@ -1,7 +1,7 @@
 ---
 title: "Gazala Nazir"
 description: "Gazala Nazir is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 55 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.836292
+date: 2026-07-11T12:53:41.211501
 url: "/cdr-researcher-census/researchers/gazala-nazir-a5090707/"
 layout: "researcher"
 hiddenInHomeList: true

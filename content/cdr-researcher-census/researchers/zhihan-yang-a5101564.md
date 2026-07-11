@@ -1,7 +1,7 @@
 ---
 title: "Zhihan Yang"
 description: "Zhihan Yang is a Mid-career Soil Carbon researcher at Chengdu University of Technology in CN. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.893267
+date: 2026-07-11T12:53:41.232517
 url: "/cdr-researcher-census/researchers/zhihan-yang-a5101564/"
 layout: "researcher"
 hiddenInHomeList: true

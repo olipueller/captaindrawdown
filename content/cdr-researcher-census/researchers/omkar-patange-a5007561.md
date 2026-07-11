@@ -1,7 +1,7 @@
 ---
 title: "Omkar Patange"
 description: "Omkar Patange is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.205971
+date: 2026-07-11T12:53:40.406490
 url: "/cdr-researcher-census/researchers/omkar-patange-a5007561/"
 layout: "researcher"
 hiddenInHomeList: true

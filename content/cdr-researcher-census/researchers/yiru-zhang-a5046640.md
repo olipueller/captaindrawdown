@@ -1,7 +1,7 @@
 ---
 title: "Yiru Zhang"
 description: "Yiru Zhang is a Mid-career Biochar researcher at CY Cergy Paris University in FR. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.499063
+date: 2026-07-11T12:53:40.713194
 url: "/cdr-researcher-census/researchers/yiru-zhang-a5046640/"
 layout: "researcher"
 hiddenInHomeList: true

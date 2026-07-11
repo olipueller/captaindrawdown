@@ -1,7 +1,7 @@
 ---
 title: "Carol Huang"
 description: "Carol Huang is an Early-career Biochar researcher at University of British Columbia in CA. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.758595
+date: 2026-07-11T12:53:41.091048
 url: "/cdr-researcher-census/researchers/carol-huang-a5028642/"
 layout: "researcher"
 hiddenInHomeList: true

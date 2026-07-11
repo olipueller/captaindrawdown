@@ -1,7 +1,7 @@
 ---
 title: "Zhongye Yu"
 description: "Zhongye Yu is a Mid-career Biochar researcher at Nanchang University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.517468
+date: 2026-07-11T12:53:40.732606
 url: "/cdr-researcher-census/researchers/zhongye-yu-a5030485/"
 layout: "researcher"
 hiddenInHomeList: true

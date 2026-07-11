@@ -1,7 +1,7 @@
 ---
 title: "Natalia Rodríguez-Berbel"
 description: "Natalia Rodríguez-Berbel is a Mid-career Soil Carbon researcher at Helmholtz Zentrum München in DE. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.673621
+date: 2026-07-11T12:53:40.921336
 url: "/cdr-researcher-census/researchers/natalia-rodriguez-berbel-a5051287/"
 layout: "researcher"
 hiddenInHomeList: true

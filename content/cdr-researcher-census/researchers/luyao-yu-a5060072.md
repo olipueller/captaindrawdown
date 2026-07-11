@@ -1,7 +1,7 @@
 ---
 title: "Luyao Yu"
 description: "Luyao Yu is a Mid-career Biochar researcher at Dalian University of Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.430181
+date: 2026-07-11T12:53:40.638061
 url: "/cdr-researcher-census/researchers/luyao-yu-a5060072/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bingqian Su"
 description: "Bingqian Su is a Mid-career Soil Carbon researcher at Environment and Plant Protection Research Institute in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.482152
+date: 2026-07-11T12:53:40.695326
 url: "/cdr-researcher-census/researchers/bingqian-su-a5058877/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Martin R. Sers"
 description: "Martin R. Sers is a Mid-career General CDR researcher at University of Victoria in CA. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.237976
+date: 2026-07-11T12:53:41.474611
 url: "/cdr-researcher-census/researchers/martin-r-sers-a5026195/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuanxu Dong"
 description: "Yuanxu Dong is a Mid-career Ocean CDR researcher at Heidelberg University in DE. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.573084
+date: 2026-07-11T12:53:40.789692
 url: "/cdr-researcher-census/researchers/yuanxu-dong-a5031134/"
 layout: "researcher"
 hiddenInHomeList: true

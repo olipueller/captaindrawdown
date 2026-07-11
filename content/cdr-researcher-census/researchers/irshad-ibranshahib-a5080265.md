@@ -1,7 +1,7 @@
 ---
 title: "Irshad Ibranshahib"
 description: "Irshad Ibranshahib is an Early-career Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.923487
+date: 2026-07-11T12:53:41.252622
 url: "/cdr-researcher-census/researchers/irshad-ibranshahib-a5080265/"
 layout: "researcher"
 hiddenInHomeList: true

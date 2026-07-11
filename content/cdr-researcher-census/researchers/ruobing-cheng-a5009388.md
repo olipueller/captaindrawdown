@@ -1,7 +1,7 @@
 ---
 title: "Ruobing Cheng"
 description: "Ruobing Cheng is a Mid-career General CDR researcher at Jiaxing University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.208559
+date: 2026-07-11T12:53:41.446836
 url: "/cdr-researcher-census/researchers/ruobing-cheng-a5009388/"
 layout: "researcher"
 hiddenInHomeList: true

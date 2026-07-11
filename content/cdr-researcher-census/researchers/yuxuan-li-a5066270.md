@@ -1,7 +1,7 @@
 ---
 title: "Yuxuan Li"
 description: "Yuxuan Li is a Mid-career Soil Carbon researcher at Guangxi Normal University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.646819
+date: 2026-07-11T12:53:40.866503
 url: "/cdr-researcher-census/researchers/yuxuan-li-a5066270/"
 layout: "researcher"
 hiddenInHomeList: true

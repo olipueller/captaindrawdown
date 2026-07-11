@@ -1,7 +1,7 @@
 ---
 title: "Simon Angombe"
 description: "Simon Angombe is a Mid-career Soil Carbon researcher at University of Namibia in NA. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.021446
+date: 2026-07-11T12:53:41.290806
 url: "/cdr-researcher-census/researchers/simon-angombe-a5040809/"
 layout: "researcher"
 hiddenInHomeList: true

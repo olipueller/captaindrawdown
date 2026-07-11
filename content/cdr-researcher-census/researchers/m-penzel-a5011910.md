@@ -1,7 +1,7 @@
 ---
 title: "M. Penzel"
 description: "M. Penzel is a Mid-career Soil Carbon researcher at Landesanstalt für Landwirtschaft und Gartenbau in DE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.431062
+date: 2026-07-11T12:53:41.637321
 url: "/cdr-researcher-census/researchers/m-penzel-a5011910/"
 layout: "researcher"
 hiddenInHomeList: true

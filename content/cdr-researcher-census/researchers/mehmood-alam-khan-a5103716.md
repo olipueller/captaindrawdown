@@ -1,7 +1,7 @@
 ---
 title: "Mehmood Alam Khan"
 description: "Mehmood Alam Khan is a Mid-career Soil Carbon researcher at Electrolux (Sweden) in SE. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.987805
+date: 2026-07-11T12:53:41.276202
 url: "/cdr-researcher-census/researchers/mehmood-alam-khan-a5103716/"
 layout: "researcher"
 hiddenInHomeList: true

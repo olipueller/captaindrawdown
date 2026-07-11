@@ -1,7 +1,7 @@
 ---
 title: "Piumali Suraweera"
 description: "Piumali Suraweera is an Early-career Soil Carbon researcher at University of Peradeniya in LK. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.235529
+date: 2026-07-11T12:53:40.437556
 url: "/cdr-researcher-census/researchers/piumali-suraweera-a5048160/"
 layout: "researcher"
 hiddenInHomeList: true

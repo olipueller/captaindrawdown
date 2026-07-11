@@ -1,7 +1,7 @@
 ---
 title: "Sifan Bao"
 description: "Sifan Bao is a Mid-career General CDR researcher at Changzhou University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.781965
+date: 2026-07-11T12:53:41.138497
 url: "/cdr-researcher-census/researchers/sifan-bao-a5104202/"
 layout: "researcher"
 hiddenInHomeList: true

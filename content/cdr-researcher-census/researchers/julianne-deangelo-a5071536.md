@@ -1,7 +1,7 @@
 ---
 title: "Julianne DeAngelo"
 description: "Julianne DeAngelo is a Mid-career Ocean CDR researcher at University of California, Irvine in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.361458
+date: 2026-07-11T12:53:40.566327
 url: "/cdr-researcher-census/researchers/julianne-deangelo-a5071536/"
 layout: "researcher"
 hiddenInHomeList: true

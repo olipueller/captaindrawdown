@@ -1,7 +1,7 @@
 ---
 title: "Marcos Djun Barbosa Watanabe"
 description: "Marcos Djun Barbosa Watanabe is a Senior General CDR researcher at Norwegian University of Science and Technology in NO. With 59 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.882866
+date: 2026-07-11T12:53:40.093536
 url: "/cdr-researcher-census/researchers/marcos-djun-barbosa-watanabe-a5067736/"
 layout: "researcher"
 hiddenInHomeList: true

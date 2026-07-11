@@ -1,7 +1,7 @@
 ---
 title: "Mahmuda Sharmin"
 description: "Mahmuda Sharmin is a Mid-career General CDR researcher at Shahjalal University of Science and Technology in BD. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.930155
+date: 2026-07-11T12:53:41.257696
 url: "/cdr-researcher-census/researchers/mahmuda-sharmin-a5074111/"
 layout: "researcher"
 hiddenInHomeList: true

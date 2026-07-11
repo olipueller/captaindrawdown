@@ -1,7 +1,7 @@
 ---
 title: "Ranjan Bhattacharyya"
 description: "Ranjan Bhattacharyya is a Senior Soil Carbon researcher at Vinoba Bhave University in IN. With 82 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.913043
+date: 2026-07-11T12:53:40.127290
 url: "/cdr-researcher-census/researchers/ranjan-bhattacharyya-a5070607/"
 layout: "researcher"
 hiddenInHomeList: true

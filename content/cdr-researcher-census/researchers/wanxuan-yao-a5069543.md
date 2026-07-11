@@ -1,7 +1,7 @@
 ---
 title: "Wanxuan Yao"
 description: "Wanxuan Yao is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.225097
+date: 2026-07-11T12:53:41.462600
 url: "/cdr-researcher-census/researchers/wanxuan-yao-a5069543/"
 layout: "researcher"
 hiddenInHomeList: true

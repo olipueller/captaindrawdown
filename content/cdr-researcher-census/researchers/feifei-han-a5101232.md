@@ -1,7 +1,7 @@
 ---
 title: "Feifei Han"
 description: "Feifei Han is a Mid-career Biochar researcher at Beijing Normal University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.470740
+date: 2026-07-11T12:53:40.683058
 url: "/cdr-researcher-census/researchers/feifei-han-a5101232/"
 layout: "researcher"
 hiddenInHomeList: true

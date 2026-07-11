@@ -1,7 +1,7 @@
 ---
 title: "Antoine Rogeau"
 description: "Antoine Rogeau is a Mid-career General CDR researcher at Université Paris Sciences et Lettres in FR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.493614
+date: 2026-07-11T12:53:40.707434
 url: "/cdr-researcher-census/researchers/antoine-rogeau-a5084209/"
 layout: "researcher"
 hiddenInHomeList: true

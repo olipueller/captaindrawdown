@@ -1,7 +1,7 @@
 ---
 title: "Xiaofei Gong"
 description: "Xiaofei Gong is a Senior Biochar researcher at Soochow University in CN. With 61 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.917313
+date: 2026-07-11T12:53:40.132549
 url: "/cdr-researcher-census/researchers/xiaofei-gong-a5112538/"
 layout: "researcher"
 hiddenInHomeList: true

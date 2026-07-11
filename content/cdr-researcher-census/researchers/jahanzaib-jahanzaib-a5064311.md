@@ -1,7 +1,7 @@
 ---
 title: "Jahanzaib Jahanzaib"
 description: "Jahanzaib Jahanzaib is a Mid-career Soil Carbon researcher at University of Alberta in CA. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.348701
+date: 2026-07-11T12:53:40.552793
 url: "/cdr-researcher-census/researchers/jahanzaib-jahanzaib-a5064311/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yadvinder Singh"
 description: "Yadvinder Singh is a Mid-career Soil Carbon researcher at Punjab Agricultural University in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.778010
+date: 2026-07-11T12:53:41.133956
 url: "/cdr-researcher-census/researchers/yadvinder-singh-a5101988/"
 layout: "researcher"
 hiddenInHomeList: true

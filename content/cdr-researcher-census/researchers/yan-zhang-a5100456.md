@@ -1,7 +1,7 @@
 ---
 title: "Yan Zhang"
 description: "Yan Zhang is a Mid-career Soil Carbon researcher at Westlake University in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.333077
+date: 2026-07-11T12:53:40.536559
 url: "/cdr-researcher-census/researchers/yan-zhang-a5100456/"
 layout: "researcher"
 hiddenInHomeList: true

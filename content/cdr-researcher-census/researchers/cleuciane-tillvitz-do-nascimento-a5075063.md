@@ -1,7 +1,7 @@
 ---
 title: "Cleuciane Tillvitz do Nascimento"
 description: "Cleuciane Tillvitz do Nascimento is an Early-career BECCS researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.102721
+date: 2026-07-11T12:53:41.349799
 url: "/cdr-researcher-census/researchers/cleuciane-tillvitz-do-nascimento-a5075063/"
 layout: "researcher"
 hiddenInHomeList: true

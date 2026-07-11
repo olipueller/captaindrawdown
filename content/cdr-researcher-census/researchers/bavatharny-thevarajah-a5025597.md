@@ -1,7 +1,7 @@
 ---
 title: "Bavatharny Thevarajah"
 description: "Bavatharny Thevarajah is a Mid-career Biochar researcher at University of Moratuwa in LK. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.358683
+date: 2026-07-11T12:53:40.563554
 url: "/cdr-researcher-census/researchers/bavatharny-thevarajah-a5025597/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zijian Huang"
 description: "Zijian Huang is an Early-career Biochar researcher at Anhui Agricultural University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.290782
+date: 2026-07-11T12:53:41.521318
 url: "/cdr-researcher-census/researchers/zijian-huang-a5075317/"
 layout: "researcher"
 hiddenInHomeList: true

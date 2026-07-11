@@ -1,7 +1,7 @@
 ---
 title: "H.P. Nguyen"
 description: "H.P. Nguyen is a Mid-career Biochar researcher at The University of Queensland in AU. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.203342
+date: 2026-07-11T12:53:40.403849
 url: "/cdr-researcher-census/researchers/hp-nguyen-a5036260/"
 layout: "researcher"
 hiddenInHomeList: true

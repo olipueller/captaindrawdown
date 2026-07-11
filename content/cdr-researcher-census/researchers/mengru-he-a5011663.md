@@ -1,7 +1,7 @@
 ---
 title: "Mengru He"
 description: "Mengru He is a Mid-career Soil Carbon researcher at Ministry of Agriculture in CZ. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.880868
+date: 2026-07-11T12:53:41.224529
 url: "/cdr-researcher-census/researchers/mengru-he-a5011663/"
 layout: "researcher"
 hiddenInHomeList: true

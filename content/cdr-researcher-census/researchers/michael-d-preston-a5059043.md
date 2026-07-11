@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Preston"
 description: "Michael D. Preston is a Senior Soil Carbon researcher at University of Northern British Columbia in CA. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.290569
+date: 2026-07-11T12:53:40.493040
 url: "/cdr-researcher-census/researchers/michael-d-preston-a5059043/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xing Liu"
 description: "Xing Liu is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 99 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.005624
+date: 2026-07-11T12:53:40.226677
 url: "/cdr-researcher-census/researchers/xing-liu-a5101921/"
 layout: "researcher"
 hiddenInHomeList: true

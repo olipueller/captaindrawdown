@@ -1,7 +1,7 @@
 ---
 title: "Sinuo Lin"
 description: "Sinuo Lin is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.136170
+date: 2026-07-11T12:53:41.380243
 url: "/cdr-researcher-census/researchers/sinuo-lin-a5082888/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Brian Baer"
 description: "Brian Baer is a Senior Soil Carbon researcher at Michigan State University in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.406795
+date: 2026-07-11T12:53:41.613052
 url: "/cdr-researcher-census/researchers/brian-baer-a5063517/"
 layout: "researcher"
 hiddenInHomeList: true

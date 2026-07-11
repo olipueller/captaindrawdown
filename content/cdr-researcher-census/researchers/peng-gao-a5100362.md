@@ -1,7 +1,7 @@
 ---
 title: "Peng Gao"
 description: "Peng Gao is a Senior Biochar researcher. With 76 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.182406
+date: 2026-07-11T12:53:40.398062
 url: "/cdr-researcher-census/researchers/peng-gao-a5100362/"
 layout: "researcher"
 hiddenInHomeList: true

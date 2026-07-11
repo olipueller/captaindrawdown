@@ -1,7 +1,7 @@
 ---
 title: "Lingxia Wang"
 description: "Lingxia Wang is a Senior Soil Carbon researcher at Ningxia University in CN. With 71 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.935164
+date: 2026-07-11T12:53:40.151845
 url: "/cdr-researcher-census/researchers/lingxia-wang-a5101817/"
 layout: "researcher"
 hiddenInHomeList: true

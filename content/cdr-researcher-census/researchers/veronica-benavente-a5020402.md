@@ -1,7 +1,7 @@
 ---
 title: "Verónica Benavente"
 description: "Verónica Benavente is a Mid-career Biochar researcher at RISE Processum AB in SE. With 20 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.992630
+date: 2026-07-11T12:53:40.212637
 url: "/cdr-researcher-census/researchers/veronica-benavente-a5020402/"
 layout: "researcher"
 hiddenInHomeList: true

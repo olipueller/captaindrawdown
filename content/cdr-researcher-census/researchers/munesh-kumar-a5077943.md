@@ -1,7 +1,7 @@
 ---
 title: "Munesh Kumar"
 description: "Munesh Kumar is a Senior Soil Carbon researcher at Hemvati Nandan Bahuguna Garhwal University in IN. With 153 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.810115
+date: 2026-07-11T12:53:40.006599
 url: "/cdr-researcher-census/researchers/munesh-kumar-a5077943/"
 layout: "researcher"
 hiddenInHomeList: true

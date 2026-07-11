@@ -1,7 +1,7 @@
 ---
 title: "Kouakou Adjoumani Rodrigue"
 description: "Kouakou Adjoumani Rodrigue is a Mid-career Biochar researcher at Université Nangui Abrogoua in CI. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.239246
+date: 2026-07-11T12:53:41.475737
 url: "/cdr-researcher-census/researchers/kouakou-adjoumani-rodrigue-a5058970/"
 layout: "researcher"
 hiddenInHomeList: true

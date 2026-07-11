@@ -1,7 +1,7 @@
 ---
 title: "Hao Zhao"
 description: "Hao Zhao is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.027917
+date: 2026-07-11T12:53:40.249464
 url: "/cdr-researcher-census/researchers/hao-zhao-a5101453/"
 layout: "researcher"
 hiddenInHomeList: true

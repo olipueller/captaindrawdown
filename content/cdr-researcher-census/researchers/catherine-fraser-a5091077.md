@@ -1,7 +1,7 @@
 ---
 title: "Catherine Fraser"
 description: "Catherine Fraser is a Senior General CDR researcher at New South Wales Department of Primary Industries in AU. With 56 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.877249
+date: 2026-07-11T12:53:40.086260
 url: "/cdr-researcher-census/researchers/catherine-fraser-a5091077/"
 layout: "researcher"
 hiddenInHomeList: true

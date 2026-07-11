@@ -1,7 +1,7 @@
 ---
 title: "David Rowlings"
 description: "David Rowlings is a Senior Soil Carbon researcher at Queensland University of Technology in AU. With 170 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.827370
+date: 2026-07-11T12:53:40.027811
 url: "/cdr-researcher-census/researchers/david-rowlings-a5022340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 34 |
 | Citations | 3,690 |
 | Publications | 170 |
-| CDR Focus | 5.3% |
-| Trajectory | Stable |
+| CDR Focus | 5.9% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -74,7 +74,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Grounding Soil Carbon Sequestration Claims: The Role of Long‐Term <scp>EC</scp> Flux Data** (2025)
    1 citations · General CDR
 
-9. **Measure, Model and Verify (MMV) for soil carbon sequestration strategies under climate change in Australian pasture systems by combining DayCent and Eddy Covariance flux towers** (2024)
+9. **Soil carbon sequestration under the tropical perennial legume Desmanthus in northern Australian grasslands** (2026)
+   0 citations · Soil Carbon
+
+10. **Measure, Model and Verify (MMV) for soil carbon sequestration strategies under climate change in Australian pasture systems by combining DayCent and Eddy Covariance flux towers** (2024)
    0 citations · General CDR
 
 ## External Profiles

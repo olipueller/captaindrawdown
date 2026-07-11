@@ -1,7 +1,7 @@
 ---
 title: "Wenzhi Zhou"
 description: "Wenzhi Zhou is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.261595
+date: 2026-07-11T12:53:41.496007
 url: "/cdr-researcher-census/researchers/wenzhi-zhou-a5104103/"
 layout: "researcher"
 hiddenInHomeList: true

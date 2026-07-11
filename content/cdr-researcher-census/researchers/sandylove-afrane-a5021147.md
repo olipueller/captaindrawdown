@@ -1,7 +1,7 @@
 ---
 title: "Sandylove Afrane"
 description: "Sandylove Afrane is a Senior General CDR researcher at Tianjin University in CN. With 52 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.882651
+date: 2026-07-11T12:53:40.093302
 url: "/cdr-researcher-census/researchers/sandylove-afrane-a5021147/"
 layout: "researcher"
 hiddenInHomeList: true

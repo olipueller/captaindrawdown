@@ -1,7 +1,7 @@
 ---
 title: "Kesi Liu"
 description: "Kesi Liu is a Senior Soil Carbon researcher at China Agricultural University in CN. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.912791
+date: 2026-07-11T12:53:40.126934
 url: "/cdr-researcher-census/researchers/kesi-liu-a5003660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 1,706 |
 | Publications | 70 |
-| CDR Focus | 8.6% |
-| Trajectory | Stable |
+| CDR Focus | 10.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -62,10 +62,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Effects of Long-Term Cotton Straw Return on Soil Carbon and Bacterial Community in Topsoil and Deep Soil** (2025)
    2 citations · Soil Carbon
 
-5. **Grassland Using Patterns Modulate Organic Carbon Distribution in Soil Aggregates Over Varying Soil Depths** (2025)
+5. **Grazing regimes modulate organic carbon distribution in soil aggregates over varying soil depths in steppe grasslands** (2026)
+   0 citations
+
+6. **Species richness increases vegetation carbon sequestration but decreases soil carbon storage in temperate grasslands of China** (2026)
    0 citations · Soil Carbon
 
-6. **Effects of Cotton Straw Return Time on Carbon Stocks at Subsoil in Saline-Alkaline Soil** (2022)
+7. **Grassland Using Patterns Modulate Organic Carbon Distribution in Soil Aggregates Over Varying Soil Depths** (2025)
+   0 citations · Soil Carbon
+
+8. **Effects of Cotton Straw Return Time on Carbon Stocks at Subsoil in Saline-Alkaline Soil** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

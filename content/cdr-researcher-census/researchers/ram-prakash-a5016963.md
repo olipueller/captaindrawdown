@@ -1,7 +1,7 @@
 ---
 title: "Ram Prakash"
 description: "Ram Prakash is a Senior Soil Carbon researcher at Uttarakhand Technical University in IN. With 71 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.231953
+date: 2026-07-11T12:53:40.434067
 url: "/cdr-researcher-census/researchers/ram-prakash-a5016963/"
 layout: "researcher"
 hiddenInHomeList: true

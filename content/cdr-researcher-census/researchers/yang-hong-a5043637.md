@@ -1,7 +1,7 @@
 ---
 title: "Yang Hong"
 description: "Yang Hong is a Senior Soil Carbon researcher. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.350028
+date: 2026-07-11T12:53:40.554272
 url: "/cdr-researcher-census/researchers/yang-hong-a5043637/"
 layout: "researcher"
 hiddenInHomeList: true

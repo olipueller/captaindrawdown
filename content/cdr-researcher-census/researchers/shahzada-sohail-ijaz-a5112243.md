@@ -1,7 +1,7 @@
 ---
 title: "Shahzada Sohail Ijaz"
 description: "Shahzada Sohail Ijaz is a Mid-career Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.124944
+date: 2026-07-11T12:53:40.348947
 url: "/cdr-researcher-census/researchers/shahzada-sohail-ijaz-a5112243/"
 layout: "researcher"
 hiddenInHomeList: true

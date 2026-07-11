@@ -1,7 +1,7 @@
 ---
 title: "S. Raghavendra"
 description: "S. Raghavendra is a Senior Soil Carbon researcher at University of Agricultural and Horticultural Sciences in IN. With 60 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.313834
+date: 2026-07-11T12:53:41.542085
 url: "/cdr-researcher-census/researchers/s-raghavendra-a5110754/"
 layout: "researcher"
 hiddenInHomeList: true

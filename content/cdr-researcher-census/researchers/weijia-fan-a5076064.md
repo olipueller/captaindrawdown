@@ -1,7 +1,7 @@
 ---
 title: "Weijia Fan"
 description: "Weijia Fan is a Mid-career Ocean CDR researcher at Second Institute of Oceanography in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.085964
+date: 2026-07-11T12:53:41.334311
 url: "/cdr-researcher-census/researchers/weijia-fan-a5076064/"
 layout: "researcher"
 hiddenInHomeList: true

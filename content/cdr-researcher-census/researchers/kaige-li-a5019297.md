@@ -1,7 +1,7 @@
 ---
 title: "Kaige Li"
 description: "Kaige Li is a Senior Biochar researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.589623
+date: 2026-07-11T12:53:40.806630
 url: "/cdr-researcher-census/researchers/kaige-li-a5019297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,13 +40,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 279 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
-| Trajectory | Exiting |
+| CDR Focus | 20.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Superefficient non-radical degradation of benzo[a]pyrene in soil by Fe-biochar composites activating persulfate** (2024)
    80 citations · Biochar
+
+2. **Hydroxylamine-regulated reactive oxygen species generation in an iron-biochar composite activated peracetic acid system for ultra-rapid degradation of atrazine** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

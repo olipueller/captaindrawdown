@@ -1,7 +1,7 @@
 ---
 title: "Tianchen He"
 description: "Tianchen He is a Senior Enhanced Weathering researcher at Hohai University in GB. With 68 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.891679
+date: 2026-07-11T12:53:40.103936
 url: "/cdr-researcher-census/researchers/tianchen-he-a5066873/"
 layout: "researcher"
 hiddenInHomeList: true

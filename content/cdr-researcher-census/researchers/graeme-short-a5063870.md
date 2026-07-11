@@ -1,7 +1,7 @@
 ---
 title: "Graeme Short"
 description: "Graeme Short is a Mid-career Biochar researcher. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.227518
+date: 2026-07-11T12:53:41.464669
 url: "/cdr-researcher-census/researchers/graeme-short-a5063870/"
 layout: "researcher"
 hiddenInHomeList: true

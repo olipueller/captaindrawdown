@@ -1,7 +1,7 @@
 ---
 title: "C. Heath Stanfield"
 description: "C. Heath Stanfield is a Mid-career General CDR researcher at Pacific Northwest National Laboratory in US. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.394563
+date: 2026-07-11T12:53:41.600816
 url: "/cdr-researcher-census/researchers/c-heath-stanfield-a5094005/"
 layout: "researcher"
 hiddenInHomeList: true

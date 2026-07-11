@@ -1,7 +1,7 @@
 ---
 title: "Katherine S. Rocci"
 description: "Katherine S. Rocci is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.968031
+date: 2026-07-11T12:53:40.186474
 url: "/cdr-researcher-census/researchers/katherine-s-rocci-a5020564/"
 layout: "researcher"
 hiddenInHomeList: true

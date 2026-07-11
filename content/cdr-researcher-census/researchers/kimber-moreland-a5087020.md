@@ -1,7 +1,7 @@
 ---
 title: "Kimber Moreland"
 description: "Kimber Moreland is a Mid-career Soil Carbon researcher at Lawrence Livermore National Laboratory in US. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.571617
+date: 2026-07-11T12:53:40.788228
 url: "/cdr-researcher-census/researchers/kimber-moreland-a5087020/"
 layout: "researcher"
 hiddenInHomeList: true

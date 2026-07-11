@@ -1,7 +1,7 @@
 ---
 title: "Robyn White"
 description: "Robyn White is a Mid-career Soil Carbon researcher at Human Growth Foundation in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.326944
+date: 2026-07-11T12:53:41.554205
 url: "/cdr-researcher-census/researchers/robyn-white-a5091204/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaohu Dang"
 description: "Xiaohu Dang is a Mid-career Soil Carbon researcher at Xi'an University of Science and Technology in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.342331
+date: 2026-07-11T12:53:40.546195
 url: "/cdr-researcher-census/researchers/xiaohu-dang-a5074926/"
 layout: "researcher"
 hiddenInHomeList: true

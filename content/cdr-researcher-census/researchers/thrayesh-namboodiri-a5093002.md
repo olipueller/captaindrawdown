@@ -1,7 +1,7 @@
 ---
 title: "Thrayesh Namboodiri"
 description: "Thrayesh Namboodiri is an Early-career General CDR researcher at University of California, Riverside in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.233631
+date: 2026-07-11T12:53:41.470203
 url: "/cdr-researcher-census/researchers/thrayesh-namboodiri-a5093002/"
 layout: "researcher"
 hiddenInHomeList: true

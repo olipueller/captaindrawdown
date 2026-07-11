@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Nuruddin"
 description: "Mohammad Nuruddin is an Early-career General CDR researcher at National Institute of Technology Warangal in IN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.390289
+date: 2026-07-11T12:53:41.596331
 url: "/cdr-researcher-census/researchers/mohammad-nuruddin-a5049958/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sunanda Batabyal"
 description: "Sunanda Batabyal is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.398756
+date: 2026-07-11T12:53:41.605194
 url: "/cdr-researcher-census/researchers/sunanda-batabyal-a5013616/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sudhanya Banerjee"
 description: "Sudhanya Banerjee is a Mid-career General CDR researcher at Argonne National Laboratory in US. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.208645
+date: 2026-07-11T12:53:40.409208
 url: "/cdr-researcher-census/researchers/sudhanya-banerjee-a5041313/"
 layout: "researcher"
 hiddenInHomeList: true

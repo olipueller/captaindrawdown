@@ -1,7 +1,7 @@
 ---
 title: "Lixiang Xue"
 description: "Lixiang Xue is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.376097
+date: 2026-07-11T12:53:40.581508
 url: "/cdr-researcher-census/researchers/lixiang-xue-a5101178/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hector M Menendez"
 description: "Hector M Menendez is a Mid-career Soil Carbon researcher at South Dakota State University in US. With 67 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.284367
+date: 2026-07-11T12:53:40.486616
 url: "/cdr-researcher-census/researchers/hector-m-menendez-a5053347/"
 layout: "researcher"
 hiddenInHomeList: true

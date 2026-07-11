@@ -1,7 +1,7 @@
 ---
 title: "Kelsey Brandt"
 description: "Kelsey Brandt is a Mid-career Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.768277
+date: 2026-07-11T12:53:41.101984
 url: "/cdr-researcher-census/researchers/kelsey-brandt-a5103493/"
 layout: "researcher"
 hiddenInHomeList: true

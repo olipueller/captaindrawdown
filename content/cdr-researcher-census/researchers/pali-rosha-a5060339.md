@@ -1,7 +1,7 @@
 ---
 title: "Pali Rosha"
 description: "Pali Rosha is a Senior BECCS researcher at University of Alberta in CA. With 40 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.948321
+date: 2026-07-11T12:53:40.165592
 url: "/cdr-researcher-census/researchers/pali-rosha-a5060339/"
 layout: "researcher"
 hiddenInHomeList: true

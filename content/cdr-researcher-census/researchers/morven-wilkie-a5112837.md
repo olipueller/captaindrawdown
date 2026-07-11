@@ -1,7 +1,7 @@
 ---
 title: "Morven Wilkie"
 description: "Morven Wilkie is a Senior General CDR researcher at Nano Carbon (Poland) in PL. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.095688
+date: 2026-07-11T12:53:40.318895
 url: "/cdr-researcher-census/researchers/morven-wilkie-a5112837/"
 layout: "researcher"
 hiddenInHomeList: true

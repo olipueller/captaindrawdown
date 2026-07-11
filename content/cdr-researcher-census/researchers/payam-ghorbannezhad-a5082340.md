@@ -1,7 +1,7 @@
 ---
 title: "Payam Ghorbannezhad"
 description: "Payam Ghorbannezhad is a Senior Biochar researcher at Karlsruhe Institute of Technology in DE. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.134315
+date: 2026-07-11T12:53:40.358361
 url: "/cdr-researcher-census/researchers/payam-ghorbannezhad-a5082340/"
 layout: "researcher"
 hiddenInHomeList: true

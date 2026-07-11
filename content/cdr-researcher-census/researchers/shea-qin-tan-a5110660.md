@@ -1,7 +1,7 @@
 ---
 title: "Shea Qin Tan"
 description: "Shea Qin Tan is a Senior General CDR researcher at Momentive (United States) in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.563939
+date: 2026-07-11T12:53:40.780477
 url: "/cdr-researcher-census/researchers/shea-qin-tan-a5110660/"
 layout: "researcher"
 hiddenInHomeList: true

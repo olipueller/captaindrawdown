@@ -1,7 +1,7 @@
 ---
 title: "Zixin He"
 description: "Zixin He is a Senior Biochar researcher at Academy of Military Medical Sciences in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.511920
+date: 2026-07-11T12:53:40.726962
 url: "/cdr-researcher-census/researchers/zixin-he-a5103732/"
 layout: "researcher"
 hiddenInHomeList: true

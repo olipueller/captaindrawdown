@@ -1,7 +1,7 @@
 ---
 title: "Yi Liang"
 description: "Yi Liang is a Senior Biochar researcher at Shandong University in CN. With 50 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.286888
+date: 2026-07-11T12:53:40.489184
 url: "/cdr-researcher-census/researchers/yi-liang-a5108103/"
 layout: "researcher"
 hiddenInHomeList: true

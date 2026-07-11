@@ -1,7 +1,7 @@
 ---
 title: "Wenhan Chen"
 description: "Wenhan Chen is a Mid-career Enhanced Weathering researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.154873
+date: 2026-07-11T12:53:41.396813
 url: "/cdr-researcher-census/researchers/wenhan-chen-a5100727/"
 layout: "researcher"
 hiddenInHomeList: true

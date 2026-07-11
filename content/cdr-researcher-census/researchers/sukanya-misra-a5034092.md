@@ -1,7 +1,7 @@
 ---
 title: "Sukanya Misra"
 description: "Sukanya Misra is a Senior Soil Carbon researcher at Central Agricultural University in IN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.426152
+date: 2026-07-11T12:53:40.634040
 url: "/cdr-researcher-census/researchers/sukanya-misra-a5034092/"
 layout: "researcher"
 hiddenInHomeList: true

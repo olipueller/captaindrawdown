@@ -1,7 +1,7 @@
 ---
 title: "G.M. Rennie"
 description: "G.M. Rennie is a Senior Biochar researcher at AgResearch in NZ. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.268540
+date: 2026-07-11T12:53:41.502717
 url: "/cdr-researcher-census/researchers/gm-rennie-a5110662/"
 layout: "researcher"
 hiddenInHomeList: true

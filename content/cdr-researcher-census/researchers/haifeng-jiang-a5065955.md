@@ -1,7 +1,7 @@
 ---
 title: "Haifeng Jiang"
 description: "Haifeng Jiang is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.137234
+date: 2026-07-11T12:53:41.381317
 url: "/cdr-researcher-census/researchers/haifeng-jiang-a5065955/"
 layout: "researcher"
 hiddenInHomeList: true

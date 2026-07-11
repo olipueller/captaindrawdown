@@ -1,7 +1,7 @@
 ---
 title: "R. Camilla Thomson"
 description: "R. Camilla Thomson is a Senior General CDR researcher at University of Edinburgh in GB. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.288745
+date: 2026-07-11T12:53:40.491043
 url: "/cdr-researcher-census/researchers/r-camilla-thomson-a5054358/"
 layout: "researcher"
 hiddenInHomeList: true

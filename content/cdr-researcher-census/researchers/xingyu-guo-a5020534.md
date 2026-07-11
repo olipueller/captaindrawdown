@@ -1,7 +1,7 @@
 ---
 title: "Xingyu Guo"
 description: "Xingyu Guo is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.170550
+date: 2026-07-11T12:53:41.411638
 url: "/cdr-researcher-census/researchers/xingyu-guo-a5020534/"
 layout: "researcher"
 hiddenInHomeList: true

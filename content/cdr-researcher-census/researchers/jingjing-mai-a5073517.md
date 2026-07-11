@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Mai"
 description: "Jingjing Mai is a Mid-career Biochar researcher at Fujian Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.836772
+date: 2026-07-11T12:53:41.211730
 url: "/cdr-researcher-census/researchers/jingjing-mai-a5073517/"
 layout: "researcher"
 hiddenInHomeList: true

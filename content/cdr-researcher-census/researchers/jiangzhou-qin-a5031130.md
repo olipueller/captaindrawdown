@@ -1,7 +1,7 @@
 ---
 title: "Jiangzhou Qin"
 description: "Jiangzhou Qin is a Mid-career Biochar researcher at Guizhou University in CN. With 47 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.970827
+date: 2026-07-11T12:53:40.189561
 url: "/cdr-researcher-census/researchers/jiangzhou-qin-a5031130/"
 layout: "researcher"
 hiddenInHomeList: true

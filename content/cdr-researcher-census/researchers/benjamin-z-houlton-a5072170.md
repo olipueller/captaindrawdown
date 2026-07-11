@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Z. Houlton"
 description: "Benjamin Z. Houlton is an Eminent General CDR researcher at Cornell University in US. With 209 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.776414
+date: 2026-07-11T12:53:39.961274
 url: "/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/"
 layout: "researcher"
 hiddenInHomeList: true

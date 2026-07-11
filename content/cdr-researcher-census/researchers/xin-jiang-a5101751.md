@@ -1,7 +1,7 @@
 ---
 title: "Xin Jiang"
 description: "Xin Jiang is a Senior Soil Carbon researcher at Chongqing Technology and Business University in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.568943
+date: 2026-07-11T12:53:40.785641
 url: "/cdr-researcher-census/researchers/xin-jiang-a5101751/"
 layout: "researcher"
 hiddenInHomeList: true

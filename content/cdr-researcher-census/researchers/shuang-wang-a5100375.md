@@ -1,7 +1,7 @@
 ---
 title: "Shuang Wang"
 description: "Shuang Wang is a Senior Soil Carbon researcher at Ningbo University in CN. With 85 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.874785
+date: 2026-07-11T12:53:40.083907
 url: "/cdr-researcher-census/researchers/shuang-wang-a5100375/"
 layout: "researcher"
 hiddenInHomeList: true

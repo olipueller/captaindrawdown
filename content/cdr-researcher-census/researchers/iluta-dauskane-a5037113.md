@@ -1,7 +1,7 @@
 ---
 title: "Iluta Dauškane"
 description: "Iluta Dauškane is a Senior Soil Carbon researcher at Latvia University of Life Sciences and Technologies in LV. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.135884
+date: 2026-07-11T12:53:41.379953
 url: "/cdr-researcher-census/researchers/iluta-dauskane-a5037113/"
 layout: "researcher"
 hiddenInHomeList: true

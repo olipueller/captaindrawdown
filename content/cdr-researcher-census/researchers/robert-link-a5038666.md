@@ -1,7 +1,7 @@
 ---
 title: "Robert Link"
 description: "Robert Link is a Senior General CDR researcher at Wake Forest University in US. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.429068
+date: 2026-07-11T12:53:41.635280
 url: "/cdr-researcher-census/researchers/robert-link-a5038666/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sarah Hinshaw"
 description: "Sarah Hinshaw is a Mid-career Soil Carbon researcher at GEI Consultants in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.411706
+date: 2026-07-11T12:53:41.617724
 url: "/cdr-researcher-census/researchers/sarah-hinshaw-a5062899/"
 layout: "researcher"
 hiddenInHomeList: true

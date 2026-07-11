@@ -1,7 +1,7 @@
 ---
 title: "Juan-Ying Li"
 description: "Juan-Ying Li is a Mid-career Soil Carbon researcher at Shanghai Ocean University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.129939
+date: 2026-07-11T12:53:41.374275
 url: "/cdr-researcher-census/researchers/juan-ying-li-a5057518/"
 layout: "researcher"
 hiddenInHomeList: true

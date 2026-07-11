@@ -1,7 +1,7 @@
 ---
 title: "Marija Koprivica"
 description: "Marija Koprivica is a Mid-career Biochar researcher at Institute for Technology of Nuclear and other Mineral Raw Materials in RS. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.346100
+date: 2026-07-11T12:53:40.550056
 url: "/cdr-researcher-census/researchers/marija-koprivica-a5021351/"
 layout: "researcher"
 hiddenInHomeList: true

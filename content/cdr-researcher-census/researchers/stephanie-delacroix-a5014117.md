@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Delacroix"
 description: "Stephanie Delacroix is a Mid-career Ocean CDR researcher at Norwegian Institute for Water Research in NO. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.834580
+date: 2026-07-11T12:53:41.210420
 url: "/cdr-researcher-census/researchers/stephanie-delacroix-a5014117/"
 layout: "researcher"
 hiddenInHomeList: true

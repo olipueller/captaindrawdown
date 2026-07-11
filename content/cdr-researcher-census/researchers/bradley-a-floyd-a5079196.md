@@ -1,7 +1,7 @@
 ---
 title: "Bradley A. Floyd"
 description: "Bradley A. Floyd is a Mid-career Soil Carbon researcher at Center for Agricultural Resources Research in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.446078
+date: 2026-07-11T12:53:41.651931
 url: "/cdr-researcher-census/researchers/bradley-a-floyd-a5079196/"
 layout: "researcher"
 hiddenInHomeList: true

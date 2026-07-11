@@ -1,7 +1,7 @@
 ---
 title: "Yanhua Zeng"
 description: "Yanhua Zeng is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.152546
+date: 2026-07-11T12:53:40.375946
 url: "/cdr-researcher-census/researchers/yanhua-zeng-a5109481/"
 layout: "researcher"
 hiddenInHomeList: true

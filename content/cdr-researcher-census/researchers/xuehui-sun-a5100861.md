@@ -1,7 +1,7 @@
 ---
 title: "Xuehui Sun"
 description: "Xuehui Sun is a Senior Soil Carbon researcher at Shandong University in CN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.918143
+date: 2026-07-11T12:53:40.133423
 url: "/cdr-researcher-census/researchers/xuehui-sun-a5100861/"
 layout: "researcher"
 hiddenInHomeList: true

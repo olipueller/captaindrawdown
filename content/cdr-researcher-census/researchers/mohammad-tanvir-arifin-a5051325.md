@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Tanvir Arifin"
 description: "Mohammad Tanvir Arifin is an Early-career Biochar researcher at Bangladesh University of Engineering and Technology in BD. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.337745
+date: 2026-07-11T12:53:41.563967
 url: "/cdr-researcher-census/researchers/mohammad-tanvir-arifin-a5051325/"
 layout: "researcher"
 hiddenInHomeList: true

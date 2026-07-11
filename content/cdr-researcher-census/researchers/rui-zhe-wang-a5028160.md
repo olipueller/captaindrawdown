@@ -1,7 +1,7 @@
 ---
 title: "Rui-Zhe Wang"
 description: "Rui-Zhe Wang is a Senior Soil Carbon researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.432105
+date: 2026-07-11T12:53:41.638333
 url: "/cdr-researcher-census/researchers/rui-zhe-wang-a5028160/"
 layout: "researcher"
 hiddenInHomeList: true

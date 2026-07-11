@@ -1,7 +1,7 @@
 ---
 title: "Urbain Nzotcha"
 description: "Urbain Nzotcha is a Mid-career General CDR researcher at Forschungszentrum Jülich in DE. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.418220
+date: 2026-07-11T12:53:40.625630
 url: "/cdr-researcher-census/researchers/urbain-nzotcha-a5034791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 377 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 18.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,13 +56,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Carbon capture from controlled degassing of deep meromictic lakes: Insights to techno-economic and environmental feasibility, from the “killer lakes” in Cameroon** (2025)
    1 citations · General CDR
 
-3. **CO <sub>2</sub> Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products** (2025)
+3. **CO2 Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products** (2025)
    0 citations · DAC
 
-4. **Carbon Capture from Controlled Degassing of Deep Meromictic Lakes: Insights to Techno-Economic and Environmental Feasibility, from the “Killer Lakes” in Cameroon** (2024)
-   0 citations · General CDR
+4. **CO <sub>2</sub> Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products** (2025)
+   0 citations · DAC
 
 5. **Carbon Capture from Controlled Degassing of Deep Meromictic Lakes: Insights to Techno-Economic and Environmental Feasibility, from the “Killer Lakes” in Cameroon** (2024)
+   0 citations · General CDR
+
+6. **Carbon Capture from Controlled Degassing of Deep Meromictic Lakes: Insights to Techno-Economic and Environmental Feasibility, from the “Killer Lakes” in Cameroon** (2024)
    0 citations
 
 ## External Profiles

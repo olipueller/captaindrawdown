@@ -1,7 +1,7 @@
 ---
 title: "Chengzhi Zhou"
 description: "Chengzhi Zhou is a Mid-career Biochar researcher at Qingdao Agricultural University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.264493
+date: 2026-07-11T12:53:41.498778
 url: "/cdr-researcher-census/researchers/chengzhi-zhou-a5102314/"
 layout: "researcher"
 hiddenInHomeList: true

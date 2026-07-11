@@ -1,7 +1,7 @@
 ---
 title: "N. Christodoulou"
 description: "N. Christodoulou is a Senior General CDR researcher at Cyprus Institute in CY. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.319213
+date: 2026-07-11T12:53:41.546501
 url: "/cdr-researcher-census/researchers/n-christodoulou-a5056182/"
 layout: "researcher"
 hiddenInHomeList: true

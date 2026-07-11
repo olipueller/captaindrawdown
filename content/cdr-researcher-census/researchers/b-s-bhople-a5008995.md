@@ -1,7 +1,7 @@
 ---
 title: "B. S. Bhople"
 description: "B. S. Bhople is a Mid-career Soil Carbon researcher at Punjab Agricultural University in IN. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.203600
+date: 2026-07-11T12:53:41.442204
 url: "/cdr-researcher-census/researchers/b-s-bhople-a5008995/"
 layout: "researcher"
 hiddenInHomeList: true

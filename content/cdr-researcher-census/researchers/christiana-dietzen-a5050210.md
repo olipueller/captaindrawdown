@@ -1,7 +1,7 @@
 ---
 title: "Christiana Dietzen"
 description: "Christiana Dietzen is a Mid-career Enhanced Weathering researcher at University of Copenhagen in DK. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.601764
+date: 2026-07-11T12:53:40.819742
 url: "/cdr-researcher-census/researchers/christiana-dietzen-a5050210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 273 |
 | Publications | 25 |
-| CDR Focus | 36.0% |
+| CDR Focus | 40.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -65,16 +65,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 5. **Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana** (2025)
    1 citations · Enhanced Weathering
 
-6. **Short-term effects of Greenlandic glacial rock flour on soil physical properties and maize yield** (2026)
+6. **Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon sequestration in a five-year field experiment** (2026)
    0 citations · Enhanced Weathering
 
-7. **Correction: Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana** (2025)
+7. **Five year field trial of enhanced rock weathering of glacial rock flour in Vojens, DK: Data and analytical tools** (2026)
    0 citations · Enhanced Weathering
 
-8. **The relative importance of grain size and mineral weatherability for enhanced rock weathering rates: a comparison of glacial rock flour and basaltic feedstocks** (2025)
+8. **Short-term effects of Greenlandic glacial rock flour on soil physical properties and maize yield** (2026)
    0 citations · Enhanced Weathering
 
-9. **Positive mitigation effects of glacial rock flour (GRF) addition on ecosystem CO2, CH4 and N2O fluxes &amp;#8211; first results from a gradient experiment** (2024)
+9. **Correction: Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana** (2025)
+   0 citations · Enhanced Weathering
+
+10. **The relative importance of grain size and mineral weatherability for enhanced rock weathering rates: a comparison of glacial rock flour and basaltic feedstocks** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

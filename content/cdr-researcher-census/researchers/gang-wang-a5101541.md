@@ -1,7 +1,7 @@
 ---
 title: "Gang Wang"
 description: "Gang Wang is a Senior Biochar researcher at Zhejiang Cancer Hospital in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.703114
+date: 2026-07-11T12:53:40.963825
 url: "/cdr-researcher-census/researchers/gang-wang-a5101541/"
 layout: "researcher"
 hiddenInHomeList: true

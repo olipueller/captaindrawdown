@@ -1,7 +1,7 @@
 ---
 title: "Tadele Measho Haile"
 description: "Tadele Measho Haile is a Senior Biochar researcher at University of Minnesota System in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.709180
+date: 2026-07-11T12:53:40.972638
 url: "/cdr-researcher-census/researchers/tadele-measho-haile-a5025750/"
 layout: "researcher"
 hiddenInHomeList: true

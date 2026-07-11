@@ -1,7 +1,7 @@
 ---
 title: "Tahir Fazal"
 description: "Tahir Fazal is a Senior Ocean CDR researcher at South University of Science and Technology of China in CN. With 42 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.870754
+date: 2026-07-11T12:53:40.079305
 url: "/cdr-researcher-census/researchers/tahir-fazal-a5045533/"
 layout: "researcher"
 hiddenInHomeList: true

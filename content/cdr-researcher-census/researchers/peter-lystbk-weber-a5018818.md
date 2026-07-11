@@ -1,7 +1,7 @@
 ---
 title: "Peter Lystbæk Weber"
 description: "Peter Lystbæk Weber is a Mid-career Soil Carbon researcher at Agroscope in CH. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.438023
+date: 2026-07-11T12:53:40.646429
 url: "/cdr-researcher-census/researchers/peter-lystbk-weber-a5018818/"
 layout: "researcher"
 hiddenInHomeList: true

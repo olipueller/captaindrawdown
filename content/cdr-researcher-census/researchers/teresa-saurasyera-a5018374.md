@@ -1,7 +1,7 @@
 ---
 title: "Teresa Sauras‐Yera"
 description: "Teresa Sauras‐Yera is a Senior Soil Carbon researcher at Universitat de Barcelona Facultat de Biologia in ES. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.279083
+date: 2026-07-11T12:53:40.480794
 url: "/cdr-researcher-census/researchers/teresa-saurasyera-a5018374/"
 layout: "researcher"
 hiddenInHomeList: true

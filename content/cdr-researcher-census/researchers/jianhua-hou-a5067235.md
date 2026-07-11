@@ -1,7 +1,7 @@
 ---
 title: "Jianhua Hou"
 description: "Jianhua Hou is a Mid-career Soil Carbon researcher at Yangzhou University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.205470
+date: 2026-07-11T12:53:41.443999
 url: "/cdr-researcher-census/researchers/jianhua-hou-a5067235/"
 layout: "researcher"
 hiddenInHomeList: true

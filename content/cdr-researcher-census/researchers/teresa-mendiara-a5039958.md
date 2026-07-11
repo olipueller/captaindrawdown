@@ -1,7 +1,7 @@
 ---
 title: "Teresa Mendiara"
 description: "Teresa Mendiara is a Senior BECCS researcher at Instituto de Carboquímica in ES. With 96 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.823576
+date: 2026-07-11T12:53:40.023199
 url: "/cdr-researcher-census/researchers/teresa-mendiara-a5039958/"
 layout: "researcher"
 hiddenInHomeList: true

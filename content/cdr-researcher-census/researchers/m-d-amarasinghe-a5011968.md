@@ -1,7 +1,7 @@
 ---
 title: "M. D. Amarasinghe"
 description: "M. D. Amarasinghe is a Senior Soil Carbon researcher at University of Kelaniya in LK. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.929339
+date: 2026-07-11T12:53:40.145610
 url: "/cdr-researcher-census/researchers/m-d-amarasinghe-a5011968/"
 layout: "researcher"
 hiddenInHomeList: true

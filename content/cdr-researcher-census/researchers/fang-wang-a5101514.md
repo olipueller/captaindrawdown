@@ -1,7 +1,7 @@
 ---
 title: "Fang Wang"
 description: "Fang Wang is a Mid-career Soil Carbon researcher at Xuzhou Medical College in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.095762
+date: 2026-07-11T12:53:41.343605
 url: "/cdr-researcher-census/researchers/fang-wang-a5101514/"
 layout: "researcher"
 hiddenInHomeList: true

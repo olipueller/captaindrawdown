@@ -1,7 +1,7 @@
 ---
 title: "Thanh Ngoc-Dan Cao"
 description: "Thanh Ngoc-Dan Cao is a Mid-career Soil Carbon researcher at National Taiwan University in TW. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.272476
+date: 2026-07-11T12:53:40.474264
 url: "/cdr-researcher-census/researchers/thanh-ngoc-dan-cao-a5109600/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kailash Singh"
 description: "Kailash Singh is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.130955
+date: 2026-07-11T12:53:41.375243
 url: "/cdr-researcher-census/researchers/kailash-singh-a5103732/"
 layout: "researcher"
 hiddenInHomeList: true

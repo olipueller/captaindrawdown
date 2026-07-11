@@ -1,7 +1,7 @@
 ---
 title: "Shota Imai"
 description: "Shota Imai is a Senior General CDR researcher at Kanazawa University in JP. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.167544
+date: 2026-07-11T12:53:41.408948
 url: "/cdr-researcher-census/researchers/shota-imai-a5103136/"
 layout: "researcher"
 hiddenInHomeList: true

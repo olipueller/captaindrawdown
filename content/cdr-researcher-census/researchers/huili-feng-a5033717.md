@@ -1,7 +1,7 @@
 ---
 title: "Huili Feng"
 description: "Huili Feng is a Mid-career Soil Carbon researcher at Tropical Crops Genetic Resources Institute in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.048693
+date: 2026-07-11T12:53:40.271031
 url: "/cdr-researcher-census/researchers/huili-feng-a5033717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 902 |
 | Publications | 31 |
-| CDR Focus | 6.5% |
+| CDR Focus | 9.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Positive effects of species mixing on biodiversity of understory plant communities and soil health in forest plantations** (2025)
    41 citations · Soil Carbon
+
+3. **Positive effects of species mixing on soil carbon sequestration and water retention in global forest plantations** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

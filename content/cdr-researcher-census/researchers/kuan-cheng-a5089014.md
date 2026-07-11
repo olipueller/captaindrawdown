@@ -1,7 +1,7 @@
 ---
 title: "Kuan Cheng"
 description: "Kuan Cheng is a Mid-career Soil Carbon researcher at Guangdong Academy of Sciences in CN. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.142270
+date: 2026-07-11T12:53:40.365717
 url: "/cdr-researcher-census/researchers/kuan-cheng-a5089014/"
 layout: "researcher"
 hiddenInHomeList: true

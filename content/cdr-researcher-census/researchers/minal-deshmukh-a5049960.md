@@ -1,7 +1,7 @@
 ---
 title: "Minal Deshmukh"
 description: "Minal Deshmukh is a Mid-career Ocean CDR researcher at MIT World Peace University in IN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.084915
+date: 2026-07-11T12:53:41.333173
 url: "/cdr-researcher-census/researchers/minal-deshmukh-a5049960/"
 layout: "researcher"
 hiddenInHomeList: true

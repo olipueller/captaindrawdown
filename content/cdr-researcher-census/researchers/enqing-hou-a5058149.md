@@ -1,7 +1,7 @@
 ---
 title: "Enqing Hou"
 description: "Enqing Hou is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 164 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.785327
+date: 2026-07-11T12:53:39.974550
 url: "/cdr-researcher-census/researchers/enqing-hou-a5058149/"
 layout: "researcher"
 hiddenInHomeList: true

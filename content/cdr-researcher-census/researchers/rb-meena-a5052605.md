@@ -1,7 +1,7 @@
 ---
 title: "R.B. Meena"
 description: "R.B. Meena is a Senior Soil Carbon researcher. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.140273
+date: 2026-07-11T12:53:41.384435
 url: "/cdr-researcher-census/researchers/rb-meena-a5052605/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Mayr"
 description: "Sebastian Mayr is a Senior General CDR researcher at University of Freiburg in DE. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.388323
+date: 2026-07-11T12:53:41.594573
 url: "/cdr-researcher-census/researchers/sebastian-mayr-a5077227/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Junjun Ni"
 description: "Junjun Ni is an Early-career Soil Carbon researcher at Southeast University in BD. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.337950
+date: 2026-07-11T12:53:41.564164
 url: "/cdr-researcher-census/researchers/junjun-ni-a5013788/"
 layout: "researcher"
 hiddenInHomeList: true

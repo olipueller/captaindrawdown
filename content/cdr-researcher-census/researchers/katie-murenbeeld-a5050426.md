@@ -1,7 +1,7 @@
 ---
 title: "Katie Murenbeeld"
 description: "Katie Murenbeeld is an Early-career Soil Carbon researcher at Boise State University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.789081
+date: 2026-07-11T12:53:41.149563
 url: "/cdr-researcher-census/researchers/katie-murenbeeld-a5050426/"
 layout: "researcher"
 hiddenInHomeList: true

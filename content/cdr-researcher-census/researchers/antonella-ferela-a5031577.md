@@ -1,7 +1,7 @@
 ---
 title: "Antonella Ferela"
 description: "Antonella Ferela is a Mid-career Soil Carbon researcher at Iowa State University in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.352870
+date: 2026-07-11T12:53:40.557242
 url: "/cdr-researcher-census/researchers/antonella-ferela-a5031577/"
 layout: "researcher"
 hiddenInHomeList: true

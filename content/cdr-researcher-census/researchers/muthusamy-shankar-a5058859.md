@@ -1,7 +1,7 @@
 ---
 title: "Muthusamy Shankar"
 description: "Muthusamy Shankar is a Mid-career Soil Carbon researcher at ICAR-National Bureau Of Plant Genetic Resources in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.187291
+date: 2026-07-11T12:53:41.426886
 url: "/cdr-researcher-census/researchers/muthusamy-shankar-a5058859/"
 layout: "researcher"
 hiddenInHomeList: true

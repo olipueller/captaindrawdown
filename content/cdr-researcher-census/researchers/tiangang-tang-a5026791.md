@@ -1,7 +1,7 @@
 ---
 title: "Tiangang Tang"
 description: "Tiangang Tang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.661727
+date: 2026-07-11T12:53:40.881884
 url: "/cdr-researcher-census/researchers/tiangang-tang-a5026791/"
 layout: "researcher"
 hiddenInHomeList: true

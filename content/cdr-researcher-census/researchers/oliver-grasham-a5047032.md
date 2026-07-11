@@ -1,7 +1,7 @@
 ---
 title: "Oliver Grasham"
 description: "Oliver Grasham is a Mid-career General CDR researcher at University of Leeds in GB. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.540040
+date: 2026-07-11T12:53:40.756419
 url: "/cdr-researcher-census/researchers/oliver-grasham-a5047032/"
 layout: "researcher"
 hiddenInHomeList: true

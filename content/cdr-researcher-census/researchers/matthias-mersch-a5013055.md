@@ -1,7 +1,7 @@
 ---
 title: "Matthias Mersch"
 description: "Matthias Mersch is a Mid-career General CDR researcher at Clean Energy (United States) in US. With 49 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.506387
+date: 2026-07-11T12:53:40.720983
 url: "/cdr-researcher-census/researchers/matthias-mersch-a5013055/"
 layout: "researcher"
 hiddenInHomeList: true

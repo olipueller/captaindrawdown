@@ -1,7 +1,7 @@
 ---
 title: "Changyu Qiu"
 description: "Changyu Qiu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.333424
+date: 2026-07-11T12:53:40.536940
 url: "/cdr-researcher-census/researchers/changyu-qiu-a5034011/"
 layout: "researcher"
 hiddenInHomeList: true

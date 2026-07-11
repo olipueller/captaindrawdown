@@ -1,7 +1,7 @@
 ---
 title: "Noah McQueen"
 description: "Noah McQueen is a Mid-career General CDR researcher at Carbon Carbon Advanced Technologies (United States) in US. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.867764
+date: 2026-07-11T12:53:40.075972
 url: "/cdr-researcher-census/researchers/noah-mcqueen-a5036880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 2,374 |
 | Publications | 25 |
-| CDR Focus | 36.0% |
+| CDR Focus | 40.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

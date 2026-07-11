@@ -1,7 +1,7 @@
 ---
 title: "Sadikshya Sharma"
 description: "Sadikshya Sharma is a Mid-career Soil Carbon researcher at Landscape Institute in GB. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.413133
+date: 2026-07-11T12:53:40.620014
 url: "/cdr-researcher-census/researchers/sadikshya-sharma-a5101453/"
 layout: "researcher"
 hiddenInHomeList: true

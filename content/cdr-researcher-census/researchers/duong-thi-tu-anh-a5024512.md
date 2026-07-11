@@ -1,7 +1,7 @@
 ---
 title: "Dương Thị Tú Anh"
 description: "Dương Thị Tú Anh is a Mid-career Biochar researcher at Thai Nguyen University in VN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.127005
+date: 2026-07-11T12:53:41.371835
 url: "/cdr-researcher-census/researchers/duong-thi-tu-anh-a5024512/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shanshan Sun"
 description: "Shanshan Sun is a Senior Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.266102
+date: 2026-07-11T12:53:40.467916
 url: "/cdr-researcher-census/researchers/shanshan-sun-a5013788/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chenglong Ye"
 description: "Chenglong Ye is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 80 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.908704
+date: 2026-07-11T12:53:40.122553
 url: "/cdr-researcher-census/researchers/chenglong-ye-a5013314/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Joachim Katchinoff"
 description: "Joachim Katchinoff is a Mid-career General CDR researcher at Yale University in US. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.292084
+date: 2026-07-11T12:53:40.494608
 url: "/cdr-researcher-census/researchers/joachim-katchinoff-a5011411/"
 layout: "researcher"
 hiddenInHomeList: true

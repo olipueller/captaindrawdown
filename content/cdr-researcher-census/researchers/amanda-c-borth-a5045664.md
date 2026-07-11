@@ -1,7 +1,7 @@
 ---
 title: "Amanda C. Borth"
 description: "Amanda C. Borth is a Mid-career General CDR researcher at Outcomes Research Consortium in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.408762
+date: 2026-07-11T12:53:41.614771
 url: "/cdr-researcher-census/researchers/amanda-c-borth-a5045664/"
 layout: "researcher"
 hiddenInHomeList: true

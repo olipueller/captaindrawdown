@@ -1,7 +1,7 @@
 ---
 title: "Shaozhuang Guo"
 description: "Shaozhuang Guo is a Mid-career Soil Carbon researcher at Anqing Normal University in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.368159
+date: 2026-07-11T12:53:40.573312
 url: "/cdr-researcher-census/researchers/shaozhuang-guo-a5058453/"
 layout: "researcher"
 hiddenInHomeList: true

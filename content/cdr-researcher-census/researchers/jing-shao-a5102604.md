@@ -1,7 +1,7 @@
 ---
 title: "Jing Shao"
 description: "Jing Shao is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.179240
+date: 2026-07-11T12:53:41.419422
 url: "/cdr-researcher-census/researchers/jing-shao-a5102604/"
 layout: "researcher"
 hiddenInHomeList: true

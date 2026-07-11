@@ -1,7 +1,7 @@
 ---
 title: "Zhuangzhuang Wang"
 description: "Zhuangzhuang Wang is a Senior Soil Carbon researcher at Shaanxi Normal University in CN. With 64 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.949619
+date: 2026-07-11T12:53:40.166886
 url: "/cdr-researcher-census/researchers/zhuangzhuang-wang-a5100700/"
 layout: "researcher"
 hiddenInHomeList: true

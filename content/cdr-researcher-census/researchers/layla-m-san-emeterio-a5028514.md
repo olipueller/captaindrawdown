@@ -1,7 +1,7 @@
 ---
 title: "Layla M. San Emeterio"
 description: "Layla M. San Emeterio is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 51 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.626803
+date: 2026-07-11T12:53:40.846459
 url: "/cdr-researcher-census/researchers/layla-m-san-emeterio-a5028514/"
 layout: "researcher"
 hiddenInHomeList: true

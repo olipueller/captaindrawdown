@@ -1,7 +1,7 @@
 ---
 title: "Haibin Chen"
 description: "Haibin Chen is a Mid-career Soil Carbon researcher at Minnan Normal University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.492983
+date: 2026-07-11T12:53:40.706765
 url: "/cdr-researcher-census/researchers/haibin-chen-a5100757/"
 layout: "researcher"
 hiddenInHomeList: true

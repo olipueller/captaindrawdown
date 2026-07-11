@@ -1,7 +1,7 @@
 ---
 title: "Shangpeng Zhang"
 description: "Shangpeng Zhang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.410256
+date: 2026-07-11T12:53:40.616898
 url: "/cdr-researcher-census/researchers/shangpeng-zhang-a5068866/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "De Shorn E. Bramble"
 description: "De Shorn E. Bramble is a Mid-career Soil Carbon researcher at Max Planck Institute for Biogeochemistry in DE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.050188
+date: 2026-07-11T12:53:41.306716
 url: "/cdr-researcher-census/researchers/de-shorn-e-bramble-a5068812/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jan Sandstad Næss"
 description: "Jan Sandstad Næss is a Mid-career BECCS researcher at Norwegian University of Science and Technology in NO. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.128820
+date: 2026-07-11T12:53:40.352509
 url: "/cdr-researcher-census/researchers/jan-sandstad-nss-a5009427/"
 layout: "researcher"
 hiddenInHomeList: true

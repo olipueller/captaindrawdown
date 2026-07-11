@@ -1,7 +1,7 @@
 ---
 title: "Xianxia Zhang"
 description: "Xianxia Zhang is a Mid-career Biochar researcher at Ministry of Agriculture in CZ. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.404902
+date: 2026-07-11T12:53:40.610799
 url: "/cdr-researcher-census/researchers/xianxia-zhang-a5102907/"
 layout: "researcher"
 hiddenInHomeList: true

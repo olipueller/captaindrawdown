@@ -1,7 +1,7 @@
 ---
 title: "Wenmin Huang"
 description: "Wenmin Huang is a Senior Biochar researcher at Sun Yat-sen University in CN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.259576
+date: 2026-07-11T12:53:40.461357
 url: "/cdr-researcher-census/researchers/wenmin-huang-a5073767/"
 layout: "researcher"
 hiddenInHomeList: true

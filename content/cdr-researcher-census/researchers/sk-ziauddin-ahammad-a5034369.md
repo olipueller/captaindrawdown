@@ -1,7 +1,7 @@
 ---
 title: "Sk. Ziauddin Ahammad"
 description: "Sk. Ziauddin Ahammad is a Senior General CDR researcher at Indian Institute of Technology Delhi in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.244847
+date: 2026-07-11T12:53:40.446948
 url: "/cdr-researcher-census/researchers/sk-ziauddin-ahammad-a5034369/"
 layout: "researcher"
 hiddenInHomeList: true

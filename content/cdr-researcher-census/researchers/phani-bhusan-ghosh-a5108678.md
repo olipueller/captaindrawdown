@@ -1,7 +1,7 @@
 ---
 title: "Phani Bhusan Ghosh"
 description: "Phani Bhusan Ghosh is a Senior Soil Carbon researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.545306
+date: 2026-07-11T12:53:40.761626
 url: "/cdr-researcher-census/researchers/phani-bhusan-ghosh-a5108678/"
 layout: "researcher"
 hiddenInHomeList: true

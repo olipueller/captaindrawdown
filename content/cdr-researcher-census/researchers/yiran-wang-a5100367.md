@@ -1,7 +1,7 @@
 ---
 title: "Yiran Wang"
 description: "Yiran Wang is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.419382
+date: 2026-07-11T12:53:41.624971
 url: "/cdr-researcher-census/researchers/yiran-wang-a5100367/"
 layout: "researcher"
 hiddenInHomeList: true

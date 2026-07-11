@@ -1,7 +1,7 @@
 ---
 title: "Chuanjin Lin"
 description: "Chuanjin Lin is a Mid-career Soil Carbon researcher at Tongji University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.666487
+date: 2026-07-11T12:53:40.886719
 url: "/cdr-researcher-census/researchers/chuanjin-lin-a5013206/"
 layout: "researcher"
 hiddenInHomeList: true

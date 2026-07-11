@@ -1,7 +1,7 @@
 ---
 title: "Yanying He"
 description: "Yanying He is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.247254
+date: 2026-07-11T12:53:40.449201
 url: "/cdr-researcher-census/researchers/yanying-he-a5087207/"
 layout: "researcher"
 hiddenInHomeList: true

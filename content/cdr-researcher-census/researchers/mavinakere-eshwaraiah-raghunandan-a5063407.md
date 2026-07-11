@@ -1,7 +1,7 @@
 ---
 title: "Mavinakere Eshwaraiah Raghunandan"
 description: "Mavinakere Eshwaraiah Raghunandan is a Senior Biochar researcher at Monash University Malaysia in MY. With 75 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.934036
+date: 2026-07-11T12:53:40.150698
 url: "/cdr-researcher-census/researchers/mavinakere-eshwaraiah-raghunandan-a5063407/"
 layout: "researcher"
 hiddenInHomeList: true

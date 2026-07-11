@@ -1,7 +1,7 @@
 ---
 title: "Donghai Wu"
 description: "Donghai Wu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 83 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.793027
+date: 2026-07-11T12:53:39.986062
 url: "/cdr-researcher-census/researchers/donghai-wu-a5080838/"
 layout: "researcher"
 hiddenInHomeList: true

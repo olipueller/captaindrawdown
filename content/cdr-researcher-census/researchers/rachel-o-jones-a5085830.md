@@ -1,7 +1,7 @@
 ---
 title: "Rachel O. Jones"
 description: "Rachel O. Jones is a Mid-career Soil Carbon researcher at Oregon State University in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.300916
+date: 2026-07-11T12:53:41.530678
 url: "/cdr-researcher-census/researchers/rachel-o-jones-a5085830/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Feifei Zhu"
 description: "Feifei Zhu is a Senior Enhanced Weathering researcher at Rice Research Institute in CN. With 59 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.929116
+date: 2026-07-11T12:53:40.145396
 url: "/cdr-researcher-census/researchers/feifei-zhu-a5055232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 24 |
 | Citations | 1,545 |
 | Publications | 59 |
-| CDR Focus | 10.2% |
-| Trajectory | Growing |
+| CDR Focus | 11.9% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -69,6 +69,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    1 citations · Soil Carbon
 
 7. **Wollastonite enhances microbial diversity and ecological network stability** (2026)
+   0 citations · Enhanced Weathering
+
+8. **[Effect of enhanced silicate minerals weathering on carbon sequestration by plant-soil systems in rice fields].** (2024)
    0 citations · Enhanced Weathering
 
 ## External Profiles

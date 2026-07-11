@@ -1,7 +1,7 @@
 ---
 title: "María Almagro"
 description: "María Almagro is a Senior Soil Carbon researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 89 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.836783
+date: 2026-07-11T12:53:40.039866
 url: "/cdr-researcher-census/researchers/maria-almagro-a5034631/"
 layout: "researcher"
 hiddenInHomeList: true

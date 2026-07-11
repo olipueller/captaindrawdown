@@ -1,7 +1,7 @@
 ---
 title: "Madhu Madegowda"
 description: "Madhu Madegowda is an Early-career Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.144113
+date: 2026-07-11T12:53:41.387924
 url: "/cdr-researcher-census/researchers/madhu-madegowda-a5064043/"
 layout: "researcher"
 hiddenInHomeList: true

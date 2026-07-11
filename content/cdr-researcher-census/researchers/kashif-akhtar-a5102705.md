@@ -1,7 +1,7 @@
 ---
 title: "Kashif Akhtar"
 description: "Kashif Akhtar is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.388220
+date: 2026-07-11T12:53:40.593557
 url: "/cdr-researcher-census/researchers/kashif-akhtar-a5102705/"
 layout: "researcher"
 hiddenInHomeList: true

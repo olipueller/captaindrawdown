@@ -1,7 +1,7 @@
 ---
 title: "Edward Benjamin Sabi"
 description: "Edward Benjamin Sabi is a Mid-career Soil Carbon researcher at University of Ghana in GH. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.266792
+date: 2026-07-11T12:53:40.468601
 url: "/cdr-researcher-census/researchers/edward-benjamin-sabi-a5027230/"
 layout: "researcher"
 hiddenInHomeList: true

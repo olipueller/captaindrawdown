@@ -1,7 +1,7 @@
 ---
 title: "Chieh‐Jhen Chen"
 description: "Chieh‐Jhen Chen is a Mid-career General CDR researcher at National Taiwan Ocean University in TW. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.802913
+date: 2026-07-11T12:53:41.181926
 url: "/cdr-researcher-census/researchers/chiehjhen-chen-a5062300/"
 layout: "researcher"
 hiddenInHomeList: true

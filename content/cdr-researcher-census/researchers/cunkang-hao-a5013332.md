@@ -1,7 +1,7 @@
 ---
 title: "Cunkang Hao"
 description: "Cunkang Hao is an Early-career Soil Carbon researcher at China Agricultural University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.516049
+date: 2026-07-11T12:53:40.731142
 url: "/cdr-researcher-census/researchers/cunkang-hao-a5013332/"
 layout: "researcher"
 hiddenInHomeList: true

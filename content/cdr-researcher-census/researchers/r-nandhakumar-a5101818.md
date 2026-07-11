@@ -1,7 +1,7 @@
 ---
 title: "R. Nandhakumar"
 description: "R. Nandhakumar is a Senior General CDR researcher at Tamil Nadu Agricultural University in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.441825
+date: 2026-07-11T12:53:41.647759
 url: "/cdr-researcher-census/researchers/r-nandhakumar-a5101818/"
 layout: "researcher"
 hiddenInHomeList: true

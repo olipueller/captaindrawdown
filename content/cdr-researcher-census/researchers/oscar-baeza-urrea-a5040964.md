@@ -1,7 +1,7 @@
 ---
 title: "Oscar Baeza Urrea"
 description: "Oscar Baeza Urrea is a Mid-career Enhanced Weathering researcher at Universität Trier in DE. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.265308
+date: 2026-07-11T12:53:41.499464
 url: "/cdr-researcher-census/researchers/oscar-baeza-urrea-a5040964/"
 layout: "researcher"
 hiddenInHomeList: true

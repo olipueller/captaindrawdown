@@ -1,7 +1,7 @@
 ---
 title: "Korbinian Kaetzl"
 description: "Korbinian Kaetzl is a Mid-career General CDR researcher at University of Kassel in DE. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.279975
+date: 2026-07-11T12:53:40.481828
 url: "/cdr-researcher-census/researchers/korbinian-kaetzl-a5010499/"
 layout: "researcher"
 hiddenInHomeList: true

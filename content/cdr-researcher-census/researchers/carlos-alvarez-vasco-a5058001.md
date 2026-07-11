@@ -1,7 +1,7 @@
 ---
 title: "Carlos Álvarez-Vasco"
 description: "Carlos Álvarez-Vasco is a Mid-career General CDR researcher at Icesi University in CO. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.020521
+date: 2026-07-11T12:53:40.241520
 url: "/cdr-researcher-census/researchers/carlos-alvarez-vasco-a5058001/"
 layout: "researcher"
 hiddenInHomeList: true

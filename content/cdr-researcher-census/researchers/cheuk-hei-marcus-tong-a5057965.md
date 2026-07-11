@@ -1,7 +1,7 @@
 ---
 title: "Cheuk Hei Marcus Tong"
 description: "Cheuk Hei Marcus Tong is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.713585
+date: 2026-07-11T12:53:40.982319
 url: "/cdr-researcher-census/researchers/cheuk-hei-marcus-tong-a5057965/"
 layout: "researcher"
 hiddenInHomeList: true

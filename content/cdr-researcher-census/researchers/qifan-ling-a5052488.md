@@ -1,7 +1,7 @@
 ---
 title: "Qifan Ling"
 description: "Qifan Ling is a Mid-career Biochar researcher at Jiangsu University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.589522
+date: 2026-07-11T12:53:40.806527
 url: "/cdr-researcher-census/researchers/qifan-ling-a5052488/"
 layout: "researcher"
 hiddenInHomeList: true

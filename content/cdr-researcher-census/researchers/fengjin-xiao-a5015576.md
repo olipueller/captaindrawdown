@@ -1,7 +1,7 @@
 ---
 title: "Fengjin Xiao"
 description: "Fengjin Xiao is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.898093
+date: 2026-07-11T12:53:40.110932
 url: "/cdr-researcher-census/researchers/fengjin-xiao-a5015576/"
 layout: "researcher"
 hiddenInHomeList: true

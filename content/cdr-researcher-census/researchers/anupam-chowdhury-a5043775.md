@@ -1,7 +1,7 @@
 ---
 title: "Anupam Chowdhury"
 description: "Anupam Chowdhury is a Mid-career Soil Carbon researcher at Jadavpur University in IN. With 47 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.421870
+date: 2026-07-11T12:53:40.629429
 url: "/cdr-researcher-census/researchers/anupam-chowdhury-a5043775/"
 layout: "researcher"
 hiddenInHomeList: true

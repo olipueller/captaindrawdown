@@ -1,7 +1,7 @@
 ---
 title: "Jianxing Li"
 description: "Jianxing Li is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.386875
+date: 2026-07-11T12:53:41.593132
 url: "/cdr-researcher-census/researchers/jianxing-li-a5078956/"
 layout: "researcher"
 hiddenInHomeList: true

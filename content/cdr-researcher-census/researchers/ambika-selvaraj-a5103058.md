@@ -1,7 +1,7 @@
 ---
 title: "Ambika Selvaraj"
 description: "Ambika Selvaraj is a Senior Biochar researcher at Committee on Climate Change in GB. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.942056
+date: 2026-07-11T12:53:40.159025
 url: "/cdr-researcher-census/researchers/ambika-selvaraj-a5103058/"
 layout: "researcher"
 hiddenInHomeList: true

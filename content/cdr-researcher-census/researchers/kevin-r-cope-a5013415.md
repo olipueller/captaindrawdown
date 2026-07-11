@@ -1,7 +1,7 @@
 ---
 title: "Kevin R. Cope"
 description: "Kevin R. Cope is a Mid-career Soil Carbon researcher at Oak Ridge National Laboratory in US. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.969005
+date: 2026-07-11T12:53:40.187680
 url: "/cdr-researcher-census/researchers/kevin-r-cope-a5013415/"
 layout: "researcher"
 hiddenInHomeList: true

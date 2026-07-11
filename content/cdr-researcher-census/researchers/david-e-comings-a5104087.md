@@ -1,7 +1,7 @@
 ---
 title: "David E. Comings"
 description: "David E. Comings is a Senior General CDR researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.119503
+date: 2026-07-11T12:53:40.343495
 url: "/cdr-researcher-census/researchers/david-e-comings-a5104087/"
 layout: "researcher"
 hiddenInHomeList: true

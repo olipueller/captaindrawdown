@@ -1,7 +1,7 @@
 ---
 title: "Hoda Shokrollahzadeh Behbahani"
 description: "Hoda Shokrollahzadeh Behbahani is a Mid-career General CDR researcher at California University of Pennsylvania in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.133391
+date: 2026-07-11T12:53:41.377287
 url: "/cdr-researcher-census/researchers/hoda-shokrollahzadeh-behbahani-a5042632/"
 layout: "researcher"
 hiddenInHomeList: true

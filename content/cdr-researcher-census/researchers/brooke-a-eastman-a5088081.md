@@ -1,7 +1,7 @@
 ---
 title: "Brooke A. Eastman"
 description: "Brooke A. Eastman is a Mid-career Soil Carbon researcher at West Virginia University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.631949
+date: 2026-07-11T12:53:40.851432
 url: "/cdr-researcher-census/researchers/brooke-a-eastman-a5088081/"
 layout: "researcher"
 hiddenInHomeList: true

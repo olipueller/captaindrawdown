@@ -1,7 +1,7 @@
 ---
 title: "Jinchunzi Li"
 description: "Jinchunzi Li is a Mid-career Biochar researcher at Wuzhou University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.646387
+date: 2026-07-11T12:53:40.866102
 url: "/cdr-researcher-census/researchers/jinchunzi-li-a5080719/"
 layout: "researcher"
 hiddenInHomeList: true

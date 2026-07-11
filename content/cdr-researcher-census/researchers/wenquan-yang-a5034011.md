@@ -1,7 +1,7 @@
 ---
 title: "Wenquan Yang"
 description: "Wenquan Yang is a Senior Soil Carbon researcher at Agriculture and Forestry University in NP. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.832321
+date: 2026-07-11T12:53:41.209197
 url: "/cdr-researcher-census/researchers/wenquan-yang-a5034011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 192 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Enhancements of soil priming effect and carbon sequestration in degraded alpine meadows via supplementation: a comparative study of Tibetan sheep (Ovis aries) and plateau pika (Ochotona curzoniae) excrements** (2025)
    1 citations · Soil Carbon
+
+3. **Key microbial phylum influencing the priming effects of variously degraded alpine meadow soils enriched with animal excrements** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

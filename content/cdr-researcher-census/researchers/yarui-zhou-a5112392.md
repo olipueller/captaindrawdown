@@ -1,7 +1,7 @@
 ---
 title: "Yarui Zhou"
 description: "Yarui Zhou is a Mid-career Biochar researcher at Theranostics (New Zealand) in NZ. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.618027
+date: 2026-07-11T12:53:40.836744
 url: "/cdr-researcher-census/researchers/yarui-zhou-a5112392/"
 layout: "researcher"
 hiddenInHomeList: true

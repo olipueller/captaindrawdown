@@ -1,7 +1,7 @@
 ---
 title: "Qinggang Meng"
 description: "Qinggang Meng is a Mid-career Soil Carbon researcher at Hebei Research Institute of Microbiology in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.772799
+date: 2026-07-11T12:53:41.116533
 url: "/cdr-researcher-census/researchers/qinggang-meng-a5040784/"
 layout: "researcher"
 hiddenInHomeList: true

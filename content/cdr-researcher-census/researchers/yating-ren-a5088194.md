@@ -1,7 +1,7 @@
 ---
 title: "Yating Ren"
 description: "Yating Ren is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.719377
+date: 2026-07-11T12:53:40.993504
 url: "/cdr-researcher-census/researchers/yating-ren-a5088194/"
 layout: "researcher"
 hiddenInHomeList: true

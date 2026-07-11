@@ -1,7 +1,7 @@
 ---
 title: "Fatemeh Gholipour"
 description: "Fatemeh Gholipour is a Mid-career General CDR researcher at Amirkabir University of Technology in IR. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.452501
+date: 2026-07-11T12:53:40.662504
 url: "/cdr-researcher-census/researchers/fatemeh-gholipour-a5061126/"
 layout: "researcher"
 hiddenInHomeList: true

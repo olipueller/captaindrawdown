@@ -1,7 +1,7 @@
 ---
 title: "Hongxia Qiao"
 description: "Hongxia Qiao is a Senior Soil Carbon researcher at Lanzhou University of Technology in CN. With 73 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.986622
+date: 2026-07-11T12:53:40.206149
 url: "/cdr-researcher-census/researchers/hongxia-qiao-a5101809/"
 layout: "researcher"
 hiddenInHomeList: true

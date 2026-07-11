@@ -1,7 +1,7 @@
 ---
 title: "Colton J. Vessey"
 description: "Colton J. Vessey is a Mid-career General CDR researcher at University of Alberta in CA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.798480
+date: 2026-07-11T12:53:41.170093
 url: "/cdr-researcher-census/researchers/colton-j-vessey-a5007148/"
 layout: "researcher"
 hiddenInHomeList: true

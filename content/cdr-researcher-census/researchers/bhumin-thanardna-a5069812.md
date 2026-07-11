@@ -1,7 +1,7 @@
 ---
 title: "Bhumin Than‐ardna"
 description: "Bhumin Than‐ardna is a Mid-career General CDR researcher at Chulalongkorn University in TH. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.922661
+date: 2026-07-11T12:53:41.251958
 url: "/cdr-researcher-census/researchers/bhumin-thanardna-a5069812/"
 layout: "researcher"
 hiddenInHomeList: true

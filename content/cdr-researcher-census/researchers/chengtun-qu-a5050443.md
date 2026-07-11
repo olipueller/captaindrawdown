@@ -1,7 +1,7 @@
 ---
 title: "Chengtun Qu"
 description: "Chengtun Qu is a Mid-career Soil Carbon researcher at Xi'an Shiyou University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.739765
+date: 2026-07-11T12:53:41.055359
 url: "/cdr-researcher-census/researchers/chengtun-qu-a5050443/"
 layout: "researcher"
 hiddenInHomeList: true

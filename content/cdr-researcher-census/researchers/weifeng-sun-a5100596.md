@@ -1,7 +1,7 @@
 ---
 title: "Weifeng Sun"
 description: "Weifeng Sun is a Senior Soil Carbon researcher at Yuncheng University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.053595
+date: 2026-07-11T12:53:40.276185
 url: "/cdr-researcher-census/researchers/weifeng-sun-a5100596/"
 layout: "researcher"
 hiddenInHomeList: true

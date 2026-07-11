@@ -1,7 +1,7 @@
 ---
 title: "Zuyong Chen"
 description: "Zuyong Chen is a Senior Soil Carbon researcher at Guizhou University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.154573
+date: 2026-07-11T12:53:41.396499
 url: "/cdr-researcher-census/researchers/zuyong-chen-a5002370/"
 layout: "researcher"
 hiddenInHomeList: true

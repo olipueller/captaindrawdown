@@ -1,7 +1,7 @@
 ---
 title: "Nan Jiang"
 description: "Nan Jiang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 119 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.895170
+date: 2026-07-11T12:53:40.107562
 url: "/cdr-researcher-census/researchers/nan-jiang-a5101850/"
 layout: "researcher"
 hiddenInHomeList: true

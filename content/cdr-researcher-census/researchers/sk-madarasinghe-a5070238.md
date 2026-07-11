@@ -1,7 +1,7 @@
 ---
 title: "S.K. Madarasinghe"
 description: "S.K. Madarasinghe is a Mid-career Soil Carbon researcher at University of Ruhuna in LK. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.110447
+date: 2026-07-11T12:53:41.356802
 url: "/cdr-researcher-census/researchers/sk-madarasinghe-a5070238/"
 layout: "researcher"
 hiddenInHomeList: true

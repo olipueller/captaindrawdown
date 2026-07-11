@@ -1,7 +1,7 @@
 ---
 title: "Katie L. Lewis"
 description: "Katie L. Lewis is a Senior Soil Carbon researcher at Texas A&M AgriLife Research in US. With 64 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.963866
+date: 2026-07-11T12:53:40.182084
 url: "/cdr-researcher-census/researchers/katie-l-lewis-a5075813/"
 layout: "researcher"
 hiddenInHomeList: true

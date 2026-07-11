@@ -1,7 +1,7 @@
 ---
 title: "Luka Seamus Wright"
 description: "Luka Seamus Wright is a Mid-career Ocean CDR researcher at The University of Western Australia in AU. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.281476
+date: 2026-07-11T12:53:40.483507
 url: "/cdr-researcher-census/researchers/luka-seamus-wright-a5006758/"
 layout: "researcher"
 hiddenInHomeList: true

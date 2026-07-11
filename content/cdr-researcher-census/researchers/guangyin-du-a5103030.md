@@ -1,7 +1,7 @@
 ---
 title: "Guangyin Du"
 description: "Guangyin Du is a Mid-career General CDR researcher at Southeast University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.966897
+date: 2026-07-11T12:53:41.266157
 url: "/cdr-researcher-census/researchers/guangyin-du-a5103030/"
 layout: "researcher"
 hiddenInHomeList: true

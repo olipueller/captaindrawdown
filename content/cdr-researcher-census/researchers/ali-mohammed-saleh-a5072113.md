@@ -1,7 +1,7 @@
 ---
 title: "Ali Mohammed Saleh"
 description: "Ali Mohammed Saleh is a Senior Biochar researcher at Northern Technical University in IQ. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.444807
+date: 2026-07-11T12:53:40.653779
 url: "/cdr-researcher-census/researchers/ali-mohammed-saleh-a5072113/"
 layout: "researcher"
 hiddenInHomeList: true

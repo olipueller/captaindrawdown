@@ -1,7 +1,7 @@
 ---
 title: "Yulin Liao"
 description: "Yulin Liao is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 92 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.856515
+date: 2026-07-11T12:53:40.061498
 url: "/cdr-researcher-census/researchers/yulin-liao-a5103151/"
 layout: "researcher"
 hiddenInHomeList: true

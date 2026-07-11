@@ -1,7 +1,7 @@
 ---
 title: "Jinyao Zhu"
 description: "Jinyao Zhu is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.238484
+date: 2026-07-11T12:53:40.440442
 url: "/cdr-researcher-census/researchers/jinyao-zhu-a5018791/"
 layout: "researcher"
 hiddenInHomeList: true

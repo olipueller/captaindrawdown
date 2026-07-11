@@ -1,7 +1,7 @@
 ---
 title: "Hailiang Xu"
 description: "Hailiang Xu is a Senior Soil Carbon researcher at Xinjiang Agricultural University in CN. With 75 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.900976
+date: 2026-07-11T12:53:40.114144
 url: "/cdr-researcher-census/researchers/hailiang-xu-a5101752/"
 layout: "researcher"
 hiddenInHomeList: true

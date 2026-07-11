@@ -1,7 +1,7 @@
 ---
 title: "Mihajlo Ćirić"
 description: "Mihajlo Ćirić is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.119525
+date: 2026-07-11T12:53:41.365638
 url: "/cdr-researcher-census/researchers/mihajlo-ciric-a5046631/"
 layout: "researcher"
 hiddenInHomeList: true

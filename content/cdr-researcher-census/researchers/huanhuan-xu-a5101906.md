@@ -1,7 +1,7 @@
 ---
 title: "Huanhuan Xu"
 description: "Huanhuan Xu is a Senior Soil Carbon researcher at Innovation Team (China) in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.088577
+date: 2026-07-11T12:53:40.311539
 url: "/cdr-researcher-census/researchers/huanhuan-xu-a5101906/"
 layout: "researcher"
 hiddenInHomeList: true

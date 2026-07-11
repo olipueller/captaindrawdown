@@ -1,7 +1,7 @@
 ---
 title: "Xin Chen"
 description: "Xin Chen is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.286726
+date: 2026-07-11T12:53:41.518132
 url: "/cdr-researcher-census/researchers/xin-chen-a5101803/"
 layout: "researcher"
 hiddenInHomeList: true

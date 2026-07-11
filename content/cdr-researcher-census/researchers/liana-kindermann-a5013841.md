@@ -1,7 +1,7 @@
 ---
 title: "Liana Kindermann"
 description: "Liana Kindermann is a Mid-career Soil Carbon researcher at University of Potsdam in DE. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.528871
+date: 2026-07-11T12:53:40.744641
 url: "/cdr-researcher-census/researchers/liana-kindermann-a5013841/"
 layout: "researcher"
 hiddenInHomeList: true

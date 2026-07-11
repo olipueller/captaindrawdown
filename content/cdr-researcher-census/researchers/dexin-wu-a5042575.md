@@ -1,7 +1,7 @@
 ---
 title: "Dexin Wu"
 description: "Dexin Wu is a Mid-career General CDR researcher at Hangzhou Dianzi University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.785498
+date: 2026-07-11T12:53:41.142650
 url: "/cdr-researcher-census/researchers/dexin-wu-a5042575/"
 layout: "researcher"
 hiddenInHomeList: true

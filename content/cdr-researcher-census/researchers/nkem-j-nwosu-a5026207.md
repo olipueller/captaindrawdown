@@ -1,7 +1,7 @@
 ---
 title: "Nkem J. Nwosu"
 description: "Nkem J. Nwosu is a Mid-career Soil Carbon researcher at University of Florida in US. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.871438
+date: 2026-07-11T12:53:41.220812
 url: "/cdr-researcher-census/researchers/nkem-j-nwosu-a5026207/"
 layout: "researcher"
 hiddenInHomeList: true

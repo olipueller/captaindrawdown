@@ -1,7 +1,7 @@
 ---
 title: "A.R.G. Mason"
 description: "A.R.G. Mason is an Early-career Soil Carbon researcher at The University of Adelaide in AU. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.129596
+date: 2026-07-11T12:53:41.373987
 url: "/cdr-researcher-census/researchers/arg-mason-a5036915/"
 layout: "researcher"
 hiddenInHomeList: true

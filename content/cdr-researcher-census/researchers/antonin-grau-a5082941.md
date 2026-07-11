@@ -1,7 +1,7 @@
 ---
 title: "Antonin Grau"
 description: "Antonin Grau is a Mid-career General CDR researcher at Université de Montpellier in FR. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.316144
+date: 2026-07-11T12:53:41.544165
 url: "/cdr-researcher-census/researchers/antonin-grau-a5082941/"
 layout: "researcher"
 hiddenInHomeList: true

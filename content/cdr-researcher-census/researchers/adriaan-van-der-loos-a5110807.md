@@ -1,7 +1,7 @@
 ---
 title: "Adriaan van der Loos"
 description: "Adriaan van der Loos is a Mid-career General CDR researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.188419
+date: 2026-07-11T12:53:41.428211
 url: "/cdr-researcher-census/researchers/adriaan-van-der-loos-a5110807/"
 layout: "researcher"
 hiddenInHomeList: true

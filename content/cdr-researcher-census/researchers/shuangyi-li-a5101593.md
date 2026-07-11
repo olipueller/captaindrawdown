@@ -1,7 +1,7 @@
 ---
 title: "Shuangyi Li"
 description: "Shuangyi Li is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 79 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.890180
+date: 2026-07-11T12:53:40.102378
 url: "/cdr-researcher-census/researchers/shuangyi-li-a5101593/"
 layout: "researcher"
 hiddenInHomeList: true

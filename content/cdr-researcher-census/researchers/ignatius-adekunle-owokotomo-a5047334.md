@@ -1,7 +1,7 @@
 ---
 title: "Ignatius Adekunle Owokotomo"
 description: "Ignatius Adekunle Owokotomo is a Mid-career Biochar researcher at Federal University of Technology in NG. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.419069
+date: 2026-07-11T12:53:40.626538
 url: "/cdr-researcher-census/researchers/ignatius-adekunle-owokotomo-a5047334/"
 layout: "researcher"
 hiddenInHomeList: true

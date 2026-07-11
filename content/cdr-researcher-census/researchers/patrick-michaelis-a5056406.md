@@ -1,7 +1,7 @@
 ---
 title: "Patrick Michaelis"
 description: "Patrick Michaelis is a Senior Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.585107
+date: 2026-07-11T12:53:40.802048
 url: "/cdr-researcher-census/researchers/patrick-michaelis-a5056406/"
 layout: "researcher"
 hiddenInHomeList: true

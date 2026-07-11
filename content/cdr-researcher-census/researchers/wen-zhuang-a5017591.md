@@ -1,7 +1,7 @@
 ---
 title: "Wen Zhuang"
 description: "Wen Zhuang is a Senior Ocean CDR researcher at Shandong University in CN. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.898878
+date: 2026-07-11T12:53:40.111784
 url: "/cdr-researcher-census/researchers/wen-zhuang-a5017591/"
 layout: "researcher"
 hiddenInHomeList: true

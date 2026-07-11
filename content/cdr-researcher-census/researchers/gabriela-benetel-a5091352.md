@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Benetel"
 description: "Gabriela Benetel is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.674326
+date: 2026-07-11T12:53:40.922224
 url: "/cdr-researcher-census/researchers/gabriela-benetel-a5091352/"
 layout: "researcher"
 hiddenInHomeList: true

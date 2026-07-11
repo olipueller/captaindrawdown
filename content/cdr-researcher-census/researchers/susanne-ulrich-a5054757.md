@@ -1,7 +1,7 @@
 ---
 title: "Susanne Ulrich"
 description: "Susanne Ulrich is an Early-career Soil Carbon researcher at Martin Luther University Halle-Wittenberg in DE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.370617
+date: 2026-07-11T12:53:41.578496
 url: "/cdr-researcher-census/researchers/susanne-ulrich-a5054757/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Venkat Durvasulu"
 description: "Venkat Durvasulu is a Mid-career General CDR researcher at Idaho National Laboratory in US. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.123438
+date: 2026-07-11T12:53:41.368645
 url: "/cdr-researcher-census/researchers/venkat-durvasulu-a5040055/"
 layout: "researcher"
 hiddenInHomeList: true

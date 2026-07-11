@@ -1,7 +1,7 @@
 ---
 title: "Vincent Poirier"
 description: "Vincent Poirier is a Senior Soil Carbon researcher at Université du Québec en Abitibi-Témiscamingue in CA. With 80 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.947280
+date: 2026-07-11T12:53:40.164680
 url: "/cdr-researcher-census/researchers/vincent-poirier-a5050959/"
 layout: "researcher"
 hiddenInHomeList: true

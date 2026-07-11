@@ -1,7 +1,7 @@
 ---
 title: "Sarah H. Watts"
 description: "Sarah H. Watts is a Mid-career General CDR researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.419677
+date: 2026-07-11T12:53:41.625300
 url: "/cdr-researcher-census/researchers/sarah-h-watts-a5074805/"
 layout: "researcher"
 hiddenInHomeList: true

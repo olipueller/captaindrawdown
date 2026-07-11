@@ -1,7 +1,7 @@
 ---
 title: "Mouxiao Song"
 description: "Mouxiao Song is a Mid-career Biochar researcher at Kementerian Pendidikan Malaysia in MY. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.661628
+date: 2026-07-11T12:53:40.881745
 url: "/cdr-researcher-census/researchers/mouxiao-song-a5007033/"
 layout: "researcher"
 hiddenInHomeList: true

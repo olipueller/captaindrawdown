@@ -1,7 +1,7 @@
 ---
 title: "Shuhai Wen"
 description: "Shuhai Wen is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.642256
+date: 2026-07-11T12:53:40.861880
 url: "/cdr-researcher-census/researchers/shuhai-wen-a5024930/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,15 +45,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 255 |
 | Publications | 24 |
-| CDR Focus | 8.3% |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Negative Impacts of Global Change Stressors Permeate Into Deep Soils** (2025)
+1. **Local temperature increases reduce soil microbial residues and carbon stocks** (2022)
+   98 citations · Soil Carbon
+
+2. **Negative Impacts of Global Change Stressors Permeate Into Deep Soils** (2025)
    6 citations · Soil Carbon
 
-2. **Reduced ligninase‐cellulase ratio enhances soil carbon sequestration following afforestation of agricultural land** (2024)
+3. **Reduced ligninase‐cellulase ratio enhances soil carbon sequestration following afforestation of agricultural land** (2024)
    1 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Hewen Zhou"
 description: "Hewen Zhou is a Mid-career BECCS researcher at Harvard University in US. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.971406
+date: 2026-07-11T12:53:40.190158
 url: "/cdr-researcher-census/researchers/hewen-zhou-a5064117/"
 layout: "researcher"
 hiddenInHomeList: true

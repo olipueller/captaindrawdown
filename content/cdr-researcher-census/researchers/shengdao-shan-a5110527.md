@@ -1,7 +1,7 @@
 ---
 title: "Shengdao Shan"
 description: "Shengdao Shan is an Eminent Biochar researcher at Zhejiang University of Science and Technology in CN. With 192 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.793182
+date: 2026-07-11T12:53:39.986220
 url: "/cdr-researcher-census/researchers/shengdao-shan-a5110527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 47 |
 | Citations | 6,621 |
 | Publications | 192 |
-| CDR Focus | 5.2% |
+| CDR Focus | 5.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -74,7 +74,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 9. **"Active carbon" is more advantageous to the bacterial community in the rice rhizosphere than "stable carbon"** (2024)
    7 citations · Biochar
 
-10. **Priming indigenous microbial manganese oxidation with aged biochar for cadmium immobilization in acidic soils** (2026)
+10. **Warming increases CO2 emissions in biochar-amended cropland soil** (2026)
    0 citations · Biochar
 
 ## External Profiles

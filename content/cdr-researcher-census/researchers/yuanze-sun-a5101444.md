@@ -1,7 +1,7 @@
 ---
 title: "Yuanze Sun"
 description: "Yuanze Sun is a Senior Soil Carbon researcher at China Agricultural University in CN. With 53 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.853733
+date: 2026-07-11T12:53:40.058522
 url: "/cdr-researcher-census/researchers/yuanze-sun-a5101444/"
 layout: "researcher"
 hiddenInHomeList: true

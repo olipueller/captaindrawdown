@@ -1,7 +1,7 @@
 ---
 title: "Abdelrahman Refaie"
 description: "Abdelrahman Refaie is a Senior Ocean CDR researcher at University of Houston in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.533427
+date: 2026-07-11T12:53:40.749706
 url: "/cdr-researcher-census/researchers/abdelrahman-refaie-a5015287/"
 layout: "researcher"
 hiddenInHomeList: true

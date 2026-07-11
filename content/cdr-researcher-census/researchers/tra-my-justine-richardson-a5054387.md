@@ -1,7 +1,7 @@
 ---
 title: "Tra-My Justine Richardson"
 description: "Tra-My Justine Richardson is a Senior General CDR researcher. With 65 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.521805
+date: 2026-07-11T12:53:40.737048
 url: "/cdr-researcher-census/researchers/tra-my-justine-richardson-a5054387/"
 layout: "researcher"
 hiddenInHomeList: true

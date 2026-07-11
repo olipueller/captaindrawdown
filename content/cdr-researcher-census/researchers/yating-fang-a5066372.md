@@ -1,7 +1,7 @@
 ---
 title: "Yating Fang"
 description: "Yating Fang is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.695853
+date: 2026-07-11T12:53:40.953781
 url: "/cdr-researcher-census/researchers/yating-fang-a5066372/"
 layout: "researcher"
 hiddenInHomeList: true

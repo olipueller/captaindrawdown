@@ -1,7 +1,7 @@
 ---
 title: "Katy M. Christiansen"
 description: "Katy M. Christiansen is a Senior General CDR researcher at Lawrence Berkeley National Laboratory in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.126119
+date: 2026-07-11T12:53:40.350059
 url: "/cdr-researcher-census/researchers/katy-m-christiansen-a5075195/"
 layout: "researcher"
 hiddenInHomeList: true

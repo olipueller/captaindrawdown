@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Matheus Barros Ozório"
 description: "Jefferson Matheus Barros Ozório is a Mid-career Soil Carbon researcher at Universidade Estadual de Mato Grosso do Sul in BR. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.926324
+date: 2026-07-11T12:53:41.254984
 url: "/cdr-researcher-census/researchers/jefferson-matheus-barros-ozorio-a5077760/"
 layout: "researcher"
 hiddenInHomeList: true

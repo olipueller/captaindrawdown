@@ -1,7 +1,7 @@
 ---
 title: "Bozhi Wang"
 description: "Bozhi Wang is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.488547
+date: 2026-07-11T12:53:40.702142
 url: "/cdr-researcher-census/researchers/bozhi-wang-a5076279/"
 layout: "researcher"
 hiddenInHomeList: true

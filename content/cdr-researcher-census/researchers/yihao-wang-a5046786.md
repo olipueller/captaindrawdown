@@ -1,7 +1,7 @@
 ---
 title: "Yihao Wang"
 description: "Yihao Wang is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.692631
+date: 2026-07-11T12:53:40.949945
 url: "/cdr-researcher-census/researchers/yihao-wang-a5046786/"
 layout: "researcher"
 hiddenInHomeList: true

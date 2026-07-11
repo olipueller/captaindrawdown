@@ -1,7 +1,7 @@
 ---
 title: "Jiayi Xie"
 description: "Jiayi Xie is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.121144
+date: 2026-07-11T12:53:41.366748
 url: "/cdr-researcher-census/researchers/jiayi-xie-a5108145/"
 layout: "researcher"
 hiddenInHomeList: true

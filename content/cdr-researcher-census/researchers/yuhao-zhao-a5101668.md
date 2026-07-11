@@ -1,7 +1,7 @@
 ---
 title: "Yuhao Zhao"
 description: "Yuhao Zhao is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.933087
+date: 2026-07-11T12:53:41.259884
 url: "/cdr-researcher-census/researchers/yuhao-zhao-a5101668/"
 layout: "researcher"
 hiddenInHomeList: true

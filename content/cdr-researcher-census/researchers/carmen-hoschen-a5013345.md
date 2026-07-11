@@ -1,7 +1,7 @@
 ---
 title: "Carmen Höschen"
 description: "Carmen Höschen is a Senior Soil Carbon researcher at Technical University of Munich in DE. With 99 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.842300
+date: 2026-07-11T12:53:40.045721
 url: "/cdr-researcher-census/researchers/carmen-hoschen-a5013345/"
 layout: "researcher"
 hiddenInHomeList: true

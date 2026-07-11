@@ -1,7 +1,7 @@
 ---
 title: "Anju Poudel"
 description: "Anju Poudel is a Mid-career Soil Carbon researcher at Pennsylvania State University in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.129484
+date: 2026-07-11T12:53:40.353126
 url: "/cdr-researcher-census/researchers/anju-poudel-a5101527/"
 layout: "researcher"
 hiddenInHomeList: true

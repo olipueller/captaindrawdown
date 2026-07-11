@@ -1,7 +1,7 @@
 ---
 title: "Nadia Malinverno"
 description: "Nadia Malinverno is a Mid-career General CDR researcher at Swiss Federal Laboratories for Materials Science and Technology in CH. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.861104
+date: 2026-07-11T12:53:41.219911
 url: "/cdr-researcher-census/researchers/nadia-malinverno-a5027781/"
 layout: "researcher"
 hiddenInHomeList: true

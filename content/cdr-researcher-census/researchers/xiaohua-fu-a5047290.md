@@ -1,7 +1,7 @@
 ---
 title: "Xiaohua Fu"
 description: "Xiaohua Fu is a Senior Soil Carbon researcher at Zhejiang Provincial People's Hospital in CN. With 123 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.887903
+date: 2026-07-11T12:53:40.099819
 url: "/cdr-researcher-census/researchers/xiaohua-fu-a5047290/"
 layout: "researcher"
 hiddenInHomeList: true

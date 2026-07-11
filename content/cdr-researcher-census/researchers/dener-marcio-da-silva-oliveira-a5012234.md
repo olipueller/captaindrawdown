@@ -1,7 +1,7 @@
 ---
 title: "Dener Márcio da Silva Oliveira"
 description: "Dener Márcio da Silva Oliveira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 66 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.961995
+date: 2026-07-11T12:53:40.180214
 url: "/cdr-researcher-census/researchers/dener-marcio-da-silva-oliveira-a5012234/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rémy Beugnon"
 description: "Rémy Beugnon is a Mid-career Soil Carbon researcher at Universität Leipzig in DE. With 57 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.984628
+date: 2026-07-11T12:53:40.204020
 url: "/cdr-researcher-census/researchers/remy-beugnon-a5022206/"
 layout: "researcher"
 hiddenInHomeList: true

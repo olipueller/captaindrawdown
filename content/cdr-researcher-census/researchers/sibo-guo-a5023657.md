@@ -1,7 +1,7 @@
 ---
 title: "Sibo Guo"
 description: "Sibo Guo is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.647117
+date: 2026-07-11T12:53:40.866813
 url: "/cdr-researcher-census/researchers/sibo-guo-a5023657/"
 layout: "researcher"
 hiddenInHomeList: true

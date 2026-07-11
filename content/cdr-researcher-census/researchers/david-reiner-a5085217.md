@@ -1,7 +1,7 @@
 ---
 title: "David Reiner"
 description: "David Reiner is an Eminent General CDR researcher at University of Cambridge in GB. With 225 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.779174
+date: 2026-07-11T12:53:39.965419
 url: "/cdr-researcher-census/researchers/david-reiner-a5085217/"
 layout: "researcher"
 hiddenInHomeList: true

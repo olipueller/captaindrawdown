@@ -1,7 +1,7 @@
 ---
 title: "Chaowei Hou"
 description: "Chaowei Hou is a Mid-career Ocean CDR researcher at Wuhan University of Technology in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.385358
+date: 2026-07-11T12:53:40.590680
 url: "/cdr-researcher-census/researchers/chaowei-hou-a5075973/"
 layout: "researcher"
 hiddenInHomeList: true

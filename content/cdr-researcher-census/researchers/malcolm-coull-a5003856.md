@@ -1,7 +1,7 @@
 ---
 title: "Malcolm Coull"
 description: "Malcolm Coull is a Senior General CDR researcher at James Hutton Institute in GB. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.967710
+date: 2026-07-11T12:53:40.186129
 url: "/cdr-researcher-census/researchers/malcolm-coull-a5003856/"
 layout: "researcher"
 hiddenInHomeList: true

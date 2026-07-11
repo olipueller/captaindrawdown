@@ -1,7 +1,7 @@
 ---
 title: "Yoshiki Kanzaki"
 description: "Yoshiki Kanzaki is a Mid-career Enhanced Weathering researcher at Georgia Institute of Technology in US. With 88 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.136185
+date: 2026-07-11T12:53:40.359834
 url: "/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/"
 layout: "researcher"
 hiddenInHomeList: true

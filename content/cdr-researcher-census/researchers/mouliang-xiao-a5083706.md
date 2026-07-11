@@ -1,7 +1,7 @@
 ---
 title: "Mouliang Xiao"
 description: "Mouliang Xiao is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.887384
+date: 2026-07-11T12:53:40.099200
 url: "/cdr-researcher-census/researchers/mouliang-xiao-a5083706/"
 layout: "researcher"
 hiddenInHomeList: true

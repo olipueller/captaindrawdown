@@ -1,7 +1,7 @@
 ---
 title: "Xinyao Hao"
 description: "Xinyao Hao is a Mid-career Soil Carbon researcher at Southwest Medical University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.549627
+date: 2026-07-11T12:53:40.766013
 url: "/cdr-researcher-census/researchers/xinyao-hao-a5042130/"
 layout: "researcher"
 hiddenInHomeList: true

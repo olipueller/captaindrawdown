@@ -1,7 +1,7 @@
 ---
 title: "Inês de Castro"
 description: "Inês de Castro is a Mid-career Ocean CDR researcher at Universidade dos Açores in PT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.350765
+date: 2026-07-11T12:53:41.567904
 url: "/cdr-researcher-census/researchers/ines-de-castro-a5080435/"
 layout: "researcher"
 hiddenInHomeList: true

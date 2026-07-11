@@ -1,7 +1,7 @@
 ---
 title: "Gihoon Kwon"
 description: "Gihoon Kwon is a Mid-career Biochar researcher at Hanyang University in KR. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.998872
+date: 2026-07-11T12:53:40.219572
 url: "/cdr-researcher-census/researchers/gihoon-kwon-a5068976/"
 layout: "researcher"
 hiddenInHomeList: true

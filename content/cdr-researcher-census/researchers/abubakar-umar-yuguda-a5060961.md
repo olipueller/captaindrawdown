@@ -1,7 +1,7 @@
 ---
 title: "Abubakar Umar Yuguda"
 description: "Abubakar Umar Yuguda is an Early-career Biochar researcher at Abubakar Tafawa Balewa University in NG. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.829579
+date: 2026-07-11T12:53:41.207630
 url: "/cdr-researcher-census/researchers/abubakar-umar-yuguda-a5060961/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lenka Pavlů"
 description: "Lenka Pavlů is a Senior Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 78 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.989496
+date: 2026-07-11T12:53:40.209531
 url: "/cdr-researcher-census/researchers/lenka-pavlu-a5018752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 1,155 |
 | Publications | 78 |
-| CDR Focus | 5.1% |
+| CDR Focus | 6.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,13 +53,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Changes in the Composition of Soil Organic Matter after the Transformation of Natural Beech Stands into Spruce Monoculture** (2024)
    4 citations · Soil Carbon
 
-2. **Tree species influence carbon quality but not total storage across soil horizons: a comparison of European beech and Norway spruce** (2025)
+2. **Tree species influence soil carbon quality but not total storage across horizons: European beech on Dystric Cambisol and Norway spruce on Entic Podzol** (2026)
    0 citations · Soil Carbon
 
-3. **The main causes of the variation in the soil aggregate proportion and stability along gradient of natural forests in the outer Western Carpathians, Czech Republic** (2025)
+3. **Tree species influence carbon quality but not total storage across soil horizons: a comparison of European beech and Norway spruce** (2025)
    0 citations · Soil Carbon
 
-4. **Tree Species Influence Carbon Quality But Not Total Storage Across Soil Horizons: A Comparison of European Beech and Norway Spruce** (2025)
+4. **The main causes of the variation in the soil aggregate proportion and stability along gradient of natural forests in the outer Western Carpathians, Czech Republic** (2025)
+   0 citations · Soil Carbon
+
+5. **Tree Species Influence Carbon Quality But Not Total Storage Across Soil Horizons: A Comparison of European Beech and Norway Spruce** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

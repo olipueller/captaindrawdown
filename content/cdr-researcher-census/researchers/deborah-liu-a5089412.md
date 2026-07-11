@@ -1,7 +1,7 @@
 ---
 title: "Deborah Liu"
 description: "Deborah Liu is a Mid-career General CDR researcher at University of Illinois Urbana-Champaign in US. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.079927
+date: 2026-07-11T12:53:41.328001
 url: "/cdr-researcher-census/researchers/deborah-liu-a5089412/"
 layout: "researcher"
 hiddenInHomeList: true

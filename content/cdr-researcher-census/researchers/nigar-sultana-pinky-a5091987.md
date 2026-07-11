@@ -1,7 +1,7 @@
 ---
 title: "Nigar Sultana Pinky"
 description: "Nigar Sultana Pinky is a Mid-career Biochar researcher at University of Nebraska–Lincoln in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.599906
+date: 2026-07-11T12:53:40.817246
 url: "/cdr-researcher-census/researchers/nigar-sultana-pinky-a5091987/"
 layout: "researcher"
 hiddenInHomeList: true

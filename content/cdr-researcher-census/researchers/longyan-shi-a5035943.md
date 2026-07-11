@@ -1,7 +1,7 @@
 ---
 title: "Longyan Shi"
 description: "Longyan Shi is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.176158
+date: 2026-07-11T12:53:41.416683
 url: "/cdr-researcher-census/researchers/longyan-shi-a5035943/"
 layout: "researcher"
 hiddenInHomeList: true

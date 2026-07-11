@@ -1,7 +1,7 @@
 ---
 title: "Yan Zhao"
 description: "Yan Zhao is a Mid-career Soil Carbon researcher at Tianjin Chengjian University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.653200
+date: 2026-07-11T12:53:40.873579
 url: "/cdr-researcher-census/researchers/yan-zhao-a5021812/"
 layout: "researcher"
 hiddenInHomeList: true

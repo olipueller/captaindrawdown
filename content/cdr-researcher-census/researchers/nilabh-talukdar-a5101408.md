@@ -1,7 +1,7 @@
 ---
 title: "Nilabh Talukdar"
 description: "Nilabh Talukdar is a Senior Soil Carbon researcher at ICAR Research Complex for NEH Region in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.369428
+date: 2026-07-11T12:53:41.577189
 url: "/cdr-researcher-census/researchers/nilabh-talukdar-a5101408/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yeon Kyu Lee"
 description: "Yeon Kyu Lee is a Mid-career Soil Carbon researcher at University of Seoul in KR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.113911
+date: 2026-07-11T12:53:41.360343
 url: "/cdr-researcher-census/researchers/yeon-kyu-lee-a5090983/"
 layout: "researcher"
 hiddenInHomeList: true

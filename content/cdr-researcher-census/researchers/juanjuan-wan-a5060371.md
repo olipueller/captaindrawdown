@@ -1,7 +1,7 @@
 ---
 title: "Juanjuan Wan"
 description: "Juanjuan Wan is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.439984
+date: 2026-07-11T12:53:40.648565
 url: "/cdr-researcher-census/researchers/juanjuan-wan-a5060371/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Baobao Pan"
 description: "Baobao Pan is a Mid-career Soil Carbon researcher at The University of Melbourne in AU. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.994380
+date: 2026-07-11T12:53:40.214447
 url: "/cdr-researcher-census/researchers/baobao-pan-a5082931/"
 layout: "researcher"
 hiddenInHomeList: true

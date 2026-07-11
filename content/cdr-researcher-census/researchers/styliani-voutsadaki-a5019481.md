@@ -1,7 +1,7 @@
 ---
 title: "Styliani Voutsadaki"
 description: "Styliani Voutsadaki is a Senior Biochar researcher at Technical University of Crete in GR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.792156
+date: 2026-07-11T12:53:41.152983
 url: "/cdr-researcher-census/researchers/styliani-voutsadaki-a5019481/"
 layout: "researcher"
 hiddenInHomeList: true

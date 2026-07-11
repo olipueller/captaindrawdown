@@ -1,7 +1,7 @@
 ---
 title: "Vincent E. Nwazelibe"
 description: "Vincent E. Nwazelibe is a Mid-career General CDR researcher at University of Freiburg in DE. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.397768
+date: 2026-07-11T12:53:40.603475
 url: "/cdr-researcher-census/researchers/vincent-e-nwazelibe-a5028301/"
 layout: "researcher"
 hiddenInHomeList: true

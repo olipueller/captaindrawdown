@@ -1,7 +1,7 @@
 ---
 title: "Amjad Ali"
 description: "Amjad Ali is a Senior Biochar researcher at Khyber Medical College in PK. With 101 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.828156
+date: 2026-07-11T12:53:40.028819
 url: "/cdr-researcher-census/researchers/amjad-ali-a5089384/"
 layout: "researcher"
 hiddenInHomeList: true

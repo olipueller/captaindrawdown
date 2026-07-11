@@ -1,7 +1,7 @@
 ---
 title: "Kun Zhao"
 description: "Kun Zhao is a Senior Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 43 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.957935
+date: 2026-07-11T12:53:40.176033
 url: "/cdr-researcher-census/researchers/kun-zhao-a5111204/"
 layout: "researcher"
 hiddenInHomeList: true

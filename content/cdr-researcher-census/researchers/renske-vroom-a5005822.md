@@ -1,7 +1,7 @@
 ---
 title: "Renske Vroom"
 description: "Renske Vroom is a Mid-career Soil Carbon researcher at University of Greifswald in DE. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.017926
+date: 2026-07-11T12:53:40.238802
 url: "/cdr-researcher-census/researchers/renske-vroom-a5005822/"
 layout: "researcher"
 hiddenInHomeList: true

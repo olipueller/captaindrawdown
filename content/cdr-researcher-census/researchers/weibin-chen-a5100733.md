@@ -1,7 +1,7 @@
 ---
 title: "Weibin Chen"
 description: "Weibin Chen is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.116990
+date: 2026-07-11T12:53:40.340725
 url: "/cdr-researcher-census/researchers/weibin-chen-a5100733/"
 layout: "researcher"
 hiddenInHomeList: true

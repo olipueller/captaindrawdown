@@ -1,7 +1,7 @@
 ---
 title: "RK Naresh"
 description: "RK Naresh is a Mid-career Soil Carbon researcher. With 55 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.030394
+date: 2026-07-11T12:53:41.295885
 url: "/cdr-researcher-census/researchers/rk-naresh-a5109443/"
 layout: "researcher"
 hiddenInHomeList: true

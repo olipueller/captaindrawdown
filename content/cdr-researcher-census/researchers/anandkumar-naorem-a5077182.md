@@ -1,7 +1,7 @@
 ---
 title: "Anandkumar Naorem"
 description: "Anandkumar Naorem is a Mid-career Soil Carbon researcher at Central Arid Zone Research Institute in IN. With 70 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.939133
+date: 2026-07-11T12:53:40.156040
 url: "/cdr-researcher-census/researchers/anandkumar-naorem-a5077182/"
 layout: "researcher"
 hiddenInHomeList: true

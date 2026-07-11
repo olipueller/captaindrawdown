@@ -1,7 +1,7 @@
 ---
 title: "Aiwen Li"
 description: "Aiwen Li is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.774088
+date: 2026-07-11T12:53:41.124726
 url: "/cdr-researcher-census/researchers/aiwen-li-a5050087/"
 layout: "researcher"
 hiddenInHomeList: true

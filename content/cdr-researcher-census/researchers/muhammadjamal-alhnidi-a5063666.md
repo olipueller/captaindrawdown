@@ -1,7 +1,7 @@
 ---
 title: "Muhammad‐Jamal Alhnidi"
 description: "Muhammad‐Jamal Alhnidi is a Mid-career Biochar researcher at University of Hohenheim in DE. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.638249
+date: 2026-07-11T12:53:40.857552
 url: "/cdr-researcher-census/researchers/muhammadjamal-alhnidi-a5063666/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shujie Hu"
 description: "Shujie Hu is a Senior General CDR researcher at Chongqing University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.244704
+date: 2026-07-11T12:53:41.480754
 url: "/cdr-researcher-census/researchers/shujie-hu-a5102102/"
 layout: "researcher"
 hiddenInHomeList: true

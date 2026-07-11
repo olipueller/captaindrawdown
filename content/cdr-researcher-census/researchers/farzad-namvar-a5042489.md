@@ -1,7 +1,7 @@
 ---
 title: "Farzad Namvar"
 description: "Farzad Namvar is a Mid-career General CDR researcher at Taibah University in SA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.529929
+date: 2026-07-11T12:53:40.745612
 url: "/cdr-researcher-census/researchers/farzad-namvar-a5042489/"
 layout: "researcher"
 hiddenInHomeList: true

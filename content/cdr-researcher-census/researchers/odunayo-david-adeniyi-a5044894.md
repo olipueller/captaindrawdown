@@ -1,7 +1,7 @@
 ---
 title: "Odunayo David Adeniyi"
 description: "Odunayo David Adeniyi is a Mid-career Soil Carbon researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.756510
+date: 2026-07-11T12:53:41.088678
 url: "/cdr-researcher-census/researchers/odunayo-david-adeniyi-a5044894/"
 layout: "researcher"
 hiddenInHomeList: true

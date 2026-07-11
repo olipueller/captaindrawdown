@@ -1,7 +1,7 @@
 ---
 title: "Kiana Niazmand"
 description: "Kiana Niazmand is an Early-career General CDR researcher at Lutheran University of Applied Sciences Nuremberg in DE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.225207
+date: 2026-07-11T12:53:41.462709
 url: "/cdr-researcher-census/researchers/kiana-niazmand-a5066438/"
 layout: "researcher"
 hiddenInHomeList: true

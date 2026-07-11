@@ -1,7 +1,7 @@
 ---
 title: "Masatake Fukuda"
 description: "Masatake Fukuda is a Senior Soil Carbon researcher at Ibaraki University in JP. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.246857
+date: 2026-07-11T12:53:41.482650
 url: "/cdr-researcher-census/researchers/masatake-fukuda-a5110768/"
 layout: "researcher"
 hiddenInHomeList: true

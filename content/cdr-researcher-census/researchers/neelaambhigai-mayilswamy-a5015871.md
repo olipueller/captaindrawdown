@@ -1,7 +1,7 @@
 ---
 title: "Neelaambhigai Mayilswamy"
 description: "Neelaambhigai Mayilswamy is a Mid-career Biochar researcher at COEP Technological University in IN. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.152085
+date: 2026-07-11T12:53:40.375479
 url: "/cdr-researcher-census/researchers/neelaambhigai-mayilswamy-a5015871/"
 layout: "researcher"
 hiddenInHomeList: true

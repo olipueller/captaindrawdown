@@ -1,7 +1,7 @@
 ---
 title: "Henrike Heinemann"
 description: "Henrike Heinemann is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.405574
+date: 2026-07-11T12:53:41.611796
 url: "/cdr-researcher-census/researchers/henrike-heinemann-a5066650/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "S. Vijaya Krishna"
 description: "S. Vijaya Krishna is a Mid-career General CDR researcher at Acharya Nagarjuna University in IN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.334174
+date: 2026-07-11T12:53:40.537634
 url: "/cdr-researcher-census/researchers/s-vijaya-krishna-a5112922/"
 layout: "researcher"
 hiddenInHomeList: true

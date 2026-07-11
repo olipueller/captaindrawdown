@@ -1,7 +1,7 @@
 ---
 title: "Chenglin Ma"
 description: "Chenglin Ma is a Senior Soil Carbon researcher at Weifang University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.824075
+date: 2026-07-11T12:53:41.205488
 url: "/cdr-researcher-census/researchers/chenglin-ma-a5100872/"
 layout: "researcher"
 hiddenInHomeList: true

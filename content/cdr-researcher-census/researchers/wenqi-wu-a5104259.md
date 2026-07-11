@@ -1,7 +1,7 @@
 ---
 title: "Wenqi Wu"
 description: "Wenqi Wu is a Senior Soil Carbon researcher at Qinghai University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.814986
+date: 2026-07-11T12:53:41.197907
 url: "/cdr-researcher-census/researchers/wenqi-wu-a5104259/"
 layout: "researcher"
 hiddenInHomeList: true

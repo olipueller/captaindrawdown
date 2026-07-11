@@ -1,7 +1,7 @@
 ---
 title: "Jennie E. Rheuban"
 description: "Jennie E. Rheuban is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.026620
+date: 2026-07-11T12:53:40.247955
 url: "/cdr-researcher-census/researchers/jennie-e-rheuban-a5040595/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiuying Yu"
 description: "Xiuying Yu is a Senior Soil Carbon researcher at Inner Mongolia University for Nationalities in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.201893
+date: 2026-07-11T12:53:41.441055
 url: "/cdr-researcher-census/researchers/xiuying-yu-a5102217/"
 layout: "researcher"
 hiddenInHomeList: true

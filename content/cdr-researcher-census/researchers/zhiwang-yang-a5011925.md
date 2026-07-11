@@ -1,7 +1,7 @@
 ---
 title: "Zhiwang Yang"
 description: "Zhiwang Yang is a Mid-career Biochar researcher at Ingenierie des Materiaux polymeres in FR. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.413228
+date: 2026-07-11T12:53:40.620115
 url: "/cdr-researcher-census/researchers/zhiwang-yang-a5011925/"
 layout: "researcher"
 hiddenInHomeList: true

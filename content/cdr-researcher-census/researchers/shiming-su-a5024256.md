@@ -1,7 +1,7 @@
 ---
 title: "Shiming Su"
 description: "Shiming Su is a Senior Soil Carbon researcher at Hebei Agricultural University in CN. With 108 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.853212
+date: 2026-07-11T12:53:40.057955
 url: "/cdr-researcher-census/researchers/shiming-su-a5024256/"
 layout: "researcher"
 hiddenInHomeList: true

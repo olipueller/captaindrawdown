@@ -1,7 +1,7 @@
 ---
 title: "Daniel Großegger"
 description: "Daniel Großegger is a Mid-career Biochar researcher at Empa in CH. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.073690
+date: 2026-07-11T12:53:40.296257
 url: "/cdr-researcher-census/researchers/daniel-groegger-a5036593/"
 layout: "researcher"
 hiddenInHomeList: true

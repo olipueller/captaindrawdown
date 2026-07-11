@@ -1,7 +1,7 @@
 ---
 title: "Juferi Idris"
 description: "Juferi Idris is a Senior Biochar researcher at Universiti Teknologi MARA - Kampus Sarawak in MY. With 70 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.002634
+date: 2026-07-11T12:53:40.223590
 url: "/cdr-researcher-census/researchers/juferi-idris-a5020703/"
 layout: "researcher"
 hiddenInHomeList: true

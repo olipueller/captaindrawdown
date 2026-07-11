@@ -1,7 +1,7 @@
 ---
 title: "Heather A. Enloe"
 description: "Heather A. Enloe is a Senior Soil Carbon researcher at University of Florida in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.636231
+date: 2026-07-11T12:53:40.855433
 url: "/cdr-researcher-census/researchers/heather-a-enloe-a5069109/"
 layout: "researcher"
 hiddenInHomeList: true

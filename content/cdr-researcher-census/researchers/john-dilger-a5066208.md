@@ -1,7 +1,7 @@
 ---
 title: "John Dilger"
 description: "John Dilger is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.726335
+date: 2026-07-11T12:53:41.019380
 url: "/cdr-researcher-census/researchers/john-dilger-a5066208/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chuandong Zhao"
 description: "Chuandong Zhao is a Senior Soil Carbon researcher at China Geological Survey in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.085204
+date: 2026-07-11T12:53:40.307995
 url: "/cdr-researcher-census/researchers/chuandong-zhao-a5100929/"
 layout: "researcher"
 hiddenInHomeList: true

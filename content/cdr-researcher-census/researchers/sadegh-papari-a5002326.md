@@ -1,7 +1,7 @@
 ---
 title: "Sadegh Papari"
 description: "Sadegh Papari is a Senior Biochar researcher at Western University in CA. With 28 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.951296
+date: 2026-07-11T12:53:40.168708
 url: "/cdr-researcher-census/researchers/sadegh-papari-a5002326/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Baogang Zhang"
 description: "Baogang Zhang is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.236377
+date: 2026-07-11T12:53:40.438422
 url: "/cdr-researcher-census/researchers/baogang-zhang-a5101760/"
 layout: "researcher"
 hiddenInHomeList: true

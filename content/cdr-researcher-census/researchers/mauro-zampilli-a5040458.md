@@ -1,7 +1,7 @@
 ---
 title: "Mauro Zampilli"
 description: "Mauro Zampilli is a Mid-career General CDR researcher at University of Perugia in IT. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.308819
+date: 2026-07-11T12:53:40.511479
 url: "/cdr-researcher-census/researchers/mauro-zampilli-a5040458/"
 layout: "researcher"
 hiddenInHomeList: true

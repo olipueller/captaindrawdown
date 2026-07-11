@@ -1,7 +1,7 @@
 ---
 title: "Seyed Ali Nabavi"
 description: "Seyed Ali Nabavi is a Senior General CDR researcher at Cranfield University in GB. With 102 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.829185
+date: 2026-07-11T12:53:40.030147
 url: "/cdr-researcher-census/researchers/seyed-ali-nabavi-a5024329/"
 layout: "researcher"
 hiddenInHomeList: true

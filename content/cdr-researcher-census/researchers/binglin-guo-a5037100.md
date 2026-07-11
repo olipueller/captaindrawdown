@@ -1,7 +1,7 @@
 ---
 title: "Binglin Guo"
 description: "Binglin Guo is a Senior Biochar researcher at Kyushu University in JP. With 116 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.841190
+date: 2026-07-11T12:53:40.044558
 url: "/cdr-researcher-census/researchers/binglin-guo-a5037100/"
 layout: "researcher"
 hiddenInHomeList: true

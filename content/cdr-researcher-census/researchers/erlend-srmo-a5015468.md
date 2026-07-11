@@ -1,7 +1,7 @@
 ---
 title: "Erlend Sørmo"
 description: "Erlend Sørmo is a Mid-career Biochar researcher at Norwegian University of Life Sciences in NO. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.014183
+date: 2026-07-11T12:53:40.235264
 url: "/cdr-researcher-census/researchers/erlend-srmo-a5015468/"
 layout: "researcher"
 hiddenInHomeList: true

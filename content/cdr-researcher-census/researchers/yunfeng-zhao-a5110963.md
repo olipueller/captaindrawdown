@@ -1,7 +1,7 @@
 ---
 title: "Yunfeng Zhao"
 description: "Yunfeng Zhao is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.404045
+date: 2026-07-11T12:53:40.609914
 url: "/cdr-researcher-census/researchers/yunfeng-zhao-a5110963/"
 layout: "researcher"
 hiddenInHomeList: true

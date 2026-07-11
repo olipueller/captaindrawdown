@@ -1,7 +1,7 @@
 ---
 title: "Zhijun Su"
 description: "Zhijun Su is an Early-career Soil Carbon researcher at South China Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.293771
+date: 2026-07-11T12:53:41.523771
 url: "/cdr-researcher-census/researchers/zhijun-su-a5033018/"
 layout: "researcher"
 hiddenInHomeList: true

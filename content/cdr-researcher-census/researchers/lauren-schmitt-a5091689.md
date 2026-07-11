@@ -1,7 +1,7 @@
 ---
 title: "Lauren Schmitt"
 description: "Lauren Schmitt is a Mid-career Soil Carbon researcher at Kenyon College in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.363622
+date: 2026-07-11T12:53:41.573071
 url: "/cdr-researcher-census/researchers/lauren-schmitt-a5091689/"
 layout: "researcher"
 hiddenInHomeList: true

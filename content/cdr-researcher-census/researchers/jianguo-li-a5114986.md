@@ -1,7 +1,7 @@
 ---
 title: "Jianguo Li"
 description: "Jianguo Li is a Senior General CDR researcher at Chang'an University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.931041
+date: 2026-07-11T12:53:41.258476
 url: "/cdr-researcher-census/researchers/jianguo-li-a5114986/"
 layout: "researcher"
 hiddenInHomeList: true

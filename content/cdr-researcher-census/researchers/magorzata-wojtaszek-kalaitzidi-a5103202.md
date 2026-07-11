@@ -1,7 +1,7 @@
 ---
 title: "Małgorzata Wojtaszek-Kalaitzidi"
 description: "Małgorzata Wojtaszek-Kalaitzidi is a Mid-career Biochar researcher at Plasma Technology (United States) in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.316019
+date: 2026-07-11T12:53:41.544059
 url: "/cdr-researcher-census/researchers/magorzata-wojtaszek-kalaitzidi-a5103202/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Janne Rämö"
 description: "Janne Rämö is a Mid-career Soil Carbon researcher at Natural Resources Institute Finland in FI. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.213205
+date: 2026-07-11T12:53:40.413940
 url: "/cdr-researcher-census/researchers/janne-ramo-a5065625/"
 layout: "researcher"
 hiddenInHomeList: true

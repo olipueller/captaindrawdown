@@ -1,7 +1,7 @@
 ---
 title: "Fredrick Kayusi"
 description: "Fredrick Kayusi is a Mid-career General CDR researcher at Maasai Mara University in KE. With 68 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.002836
+date: 2026-07-11T12:53:41.283157
 url: "/cdr-researcher-census/researchers/fredrick-kayusi-a5094172/"
 layout: "researcher"
 hiddenInHomeList: true

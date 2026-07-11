@@ -1,7 +1,7 @@
 ---
 title: "Shuchai Gan"
 description: "Shuchai Gan is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 61 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.972208
+date: 2026-07-11T12:53:40.191031
 url: "/cdr-researcher-census/researchers/shuchai-gan-a5101948/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Se‐Wook Hwang"
 description: "Se‐Wook Hwang is a Mid-career Biochar researcher at Gyeongsang National University in KR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.093551
+date: 2026-07-11T12:53:41.341746
 url: "/cdr-researcher-census/researchers/sewook-hwang-a5033644/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sumit Ray"
 description: "Sumit Ray is a Mid-career Soil Carbon researcher at Centurion University of Technology and Management in IN. With 39 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.300389
+date: 2026-07-11T12:53:41.530197
 url: "/cdr-researcher-census/researchers/sumit-ray-a5090504/"
 layout: "researcher"
 hiddenInHomeList: true

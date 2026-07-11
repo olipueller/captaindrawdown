@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Liang"
 description: "Xiaolong Liang is a Senior Soil Carbon researcher at Washington University in Saint Louis in US. With 78 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.964086
+date: 2026-07-11T12:53:40.182340
 url: "/cdr-researcher-census/researchers/xiaolong-liang-a5061895/"
 layout: "researcher"
 hiddenInHomeList: true

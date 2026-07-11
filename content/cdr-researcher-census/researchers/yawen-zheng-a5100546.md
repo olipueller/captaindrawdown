@@ -1,7 +1,7 @@
 ---
 title: "Yawen Zheng"
 description: "Yawen Zheng is a Mid-career General CDR researcher at Guangdong University of Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.204328
+date: 2026-07-11T12:53:41.442827
 url: "/cdr-researcher-census/researchers/yawen-zheng-a5100546/"
 layout: "researcher"
 hiddenInHomeList: true

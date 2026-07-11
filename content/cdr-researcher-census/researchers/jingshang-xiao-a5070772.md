@@ -1,7 +1,7 @@
 ---
 title: "Jingshang Xiao"
 description: "Jingshang Xiao is a Mid-career Soil Carbon researcher at Jiangxi Institute of Red Soil in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.327676
+date: 2026-07-11T12:53:41.554958
 url: "/cdr-researcher-census/researchers/jingshang-xiao-a5070772/"
 layout: "researcher"
 hiddenInHomeList: true

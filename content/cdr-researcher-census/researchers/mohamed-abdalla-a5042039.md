@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Abdalla"
 description: "Mohamed Abdalla is a Senior Soil Carbon researcher at University of Aberdeen in GB. With 124 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.820787
+date: 2026-07-11T12:53:40.019949
 url: "/cdr-researcher-census/researchers/mohamed-abdalla-a5042039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 27 |
 | Citations | 4,068 |
 | Publications | 124 |
-| CDR Focus | 8.1% |
+| CDR Focus | 9.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)** (2025)
    2 citations
 
-10. **Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)** (2025)
-   1 citations · BECCS
+10. **A review of mechanisms underlying soil carbon sequestration and enhancement strategies via diversified planting and green manure integration** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

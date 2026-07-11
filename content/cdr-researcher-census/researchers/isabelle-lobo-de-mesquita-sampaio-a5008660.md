@@ -1,7 +1,7 @@
 ---
 title: "Isabelle Lobo de Mesquita Sampaio"
 description: "Isabelle Lobo de Mesquita Sampaio is a Mid-career General CDR researcher at Brazilian Center for Research in Energy and Materials in BR. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.336149
+date: 2026-07-11T12:53:40.539483
 url: "/cdr-researcher-census/researchers/isabelle-lobo-de-mesquita-sampaio-a5008660/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Manoj Kumar Jhariya"
 description: "Manoj Kumar Jhariya is an Eminent Soil Carbon researcher at Sarguja University in IN. With 210 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.802964
+date: 2026-07-11T12:53:39.997972
 url: "/cdr-researcher-census/researchers/manoj-kumar-jhariya-a5068044/"
 layout: "researcher"
 hiddenInHomeList: true

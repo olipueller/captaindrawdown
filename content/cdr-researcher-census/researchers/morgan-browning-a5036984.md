@@ -1,7 +1,7 @@
 ---
 title: "Morgan Browning"
 description: "Morgan Browning is a Mid-career General CDR researcher at Bradley Hospital in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.647994
+date: 2026-07-11T12:53:40.867730
 url: "/cdr-researcher-census/researchers/morgan-browning-a5036984/"
 layout: "researcher"
 hiddenInHomeList: true

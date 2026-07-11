@@ -1,7 +1,7 @@
 ---
 title: "Christopher P. Webber"
 description: "Christopher P. Webber is a Mid-career Soil Carbon researcher at University of Reading in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.162758
+date: 2026-07-11T12:53:40.385837
 url: "/cdr-researcher-census/researchers/christopher-p-webber-a5088232/"
 layout: "researcher"
 hiddenInHomeList: true

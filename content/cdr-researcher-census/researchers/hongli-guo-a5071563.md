@@ -1,7 +1,7 @@
 ---
 title: "Hongli Guo"
 description: "Hongli Guo is a Mid-career Biochar researcher at Shandong Jianzhu University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.932293
+date: 2026-07-11T12:53:41.259509
 url: "/cdr-researcher-census/researchers/hongli-guo-a5071563/"
 layout: "researcher"
 hiddenInHomeList: true

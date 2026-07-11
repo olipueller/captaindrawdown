@@ -1,7 +1,7 @@
 ---
 title: "Aram Gorooei"
 description: "Aram Gorooei is a Mid-career Soil Carbon researcher at Forschungszentrum Jülich in DE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.247799
+date: 2026-07-11T12:53:41.483485
 url: "/cdr-researcher-census/researchers/aram-gorooei-a5079352/"
 layout: "researcher"
 hiddenInHomeList: true

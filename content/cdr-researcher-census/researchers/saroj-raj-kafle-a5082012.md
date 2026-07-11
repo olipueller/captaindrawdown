@@ -1,7 +1,7 @@
 ---
 title: "Saroj Raj Kafle"
 description: "Saroj Raj Kafle is a Mid-career General CDR researcher at Chungbuk National University in KR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.552278
+date: 2026-07-11T12:53:40.768935
 url: "/cdr-researcher-census/researchers/saroj-raj-kafle-a5082012/"
 layout: "researcher"
 hiddenInHomeList: true

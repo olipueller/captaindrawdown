@@ -1,7 +1,7 @@
 ---
 title: "Bassel A. Abdelkader"
 description: "Bassel A. Abdelkader is a Mid-career Ocean CDR researcher at McMaster University in CA. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.673404
+date: 2026-07-11T12:53:40.921077
 url: "/cdr-researcher-census/researchers/bassel-a-abdelkader-a5072880/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pengyao Qin"
 description: "Pengyao Qin is a Mid-career General CDR researcher at HBIS (China) in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.006092
+date: 2026-07-11T12:53:41.284591
 url: "/cdr-researcher-census/researchers/pengyao-qin-a5086941/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dave Dunn"
 description: "Dave Dunn is a Mid-career Soil Carbon researcher at Natural Resources Canada in CA. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.404571
+date: 2026-07-11T12:53:41.610887
 url: "/cdr-researcher-census/researchers/dave-dunn-a5052845/"
 layout: "researcher"
 hiddenInHomeList: true

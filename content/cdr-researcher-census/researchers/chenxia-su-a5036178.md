@@ -1,7 +1,7 @@
 ---
 title: "Chenxia Su"
 description: "Chenxia Su is a Mid-career Enhanced Weathering researcher at Shenyang University of Technology in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.425012
+date: 2026-07-11T12:53:41.630962
 url: "/cdr-researcher-census/researchers/chenxia-su-a5036178/"
 layout: "researcher"
 hiddenInHomeList: true

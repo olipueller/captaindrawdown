@@ -1,7 +1,7 @@
 ---
 title: "Xiuxia Yang"
 description: "Xiuxia Yang is a Senior Soil Carbon researcher at Kunming University of Science and Technology in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.961166
+date: 2026-07-11T12:53:40.179397
 url: "/cdr-researcher-census/researchers/xiuxia-yang-a5101108/"
 layout: "researcher"
 hiddenInHomeList: true

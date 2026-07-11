@@ -1,7 +1,7 @@
 ---
 title: "Zhanbo Wei"
 description: "Zhanbo Wei is a Senior Soil Carbon researcher. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.208978
+date: 2026-07-11T12:53:40.409511
 url: "/cdr-researcher-census/researchers/zhanbo-wei-a5108409/"
 layout: "researcher"
 hiddenInHomeList: true

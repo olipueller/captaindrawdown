@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Rondón Berrio"
 description: "Vanessa Rondón Berrio is a Mid-career General CDR researcher at North Carolina State University in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.297050
+date: 2026-07-11T12:53:41.527127
 url: "/cdr-researcher-census/researchers/vanessa-rondon-berrio-a5042796/"
 layout: "researcher"
 hiddenInHomeList: true

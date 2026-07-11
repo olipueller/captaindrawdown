@@ -1,7 +1,7 @@
 ---
 title: "Cherukumalli Srinivasa Rao"
 description: "Cherukumalli Srinivasa Rao is a Senior Soil Carbon researcher at National Academy of Agricultural Research Management in IN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.971160
+date: 2026-07-11T12:53:40.189911
 url: "/cdr-researcher-census/researchers/cherukumalli-srinivasa-rao-a5108827/"
 layout: "researcher"
 hiddenInHomeList: true

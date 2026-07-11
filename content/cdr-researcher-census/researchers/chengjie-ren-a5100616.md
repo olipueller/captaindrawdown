@@ -1,7 +1,7 @@
 ---
 title: "Chengjie Ren"
 description: "Chengjie Ren is an Eminent Soil Carbon researcher at Northwest A&F University in CN. With 174 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.790843
+date: 2026-07-11T12:53:39.982214
 url: "/cdr-researcher-census/researchers/chengjie-ren-a5100616/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yongmeng Jiang"
 description: "Yongmeng Jiang is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.134812
+date: 2026-07-11T12:53:41.378831
 url: "/cdr-researcher-census/researchers/yongmeng-jiang-a5080282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 149 |
 | Publications | 14 |
-| CDR Focus | 35.7% |
+| CDR Focus | 42.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -59,13 +59,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Promoting effect of tree mixture on litter quality and microbial diversity governs microbial necromass accrual in previously degraded soils** (2025)
    6 citations · Soil Carbon
 
-5. **Introducing tree species of Schima superba and Liquidambar formosana enhances soil carbon sequestration by alleviating microbial phosphorus limitation and modulating microbial metabolism in degraded pine forests** (2026)
+5. **Functional complementarity of abundant and rare taxa mediates soil carbon sequestration during subtropical forest restoration** (2026)
    1 citations · Soil Carbon
 
-6. **Mycorrhizal associations influence the origin and stability of topsoil organic carbon fractions: implications for subtropical forest restoration** (2026)
+6. **Introducing tree species of Schima superba and Liquidambar formosana enhances soil carbon sequestration by alleviating microbial phosphorus limitation and modulating microbial metabolism in degraded pine forests** (2026)
+   1 citations · Soil Carbon
+
+7. **Mycorrhizal associations influence the origin and stability of topsoil organic carbon fractions: implications for subtropical forest restoration** (2026)
    0 citations
 
-7. **Lithology-driven microbial succession and functional divergence during subtropical forest restoration** (2026)
+8. **Lithology-driven microbial succession and functional divergence during subtropical forest restoration** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Lan Yang"
 description: "Lan Yang is a Senior Soil Carbon researcher at Southwest University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.330593
+date: 2026-07-11T12:53:40.533479
 url: "/cdr-researcher-census/researchers/lan-yang-a5109396/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Silvia Escudero-Curiel"
 description: "Silvia Escudero-Curiel is a Mid-career Biochar researcher at International Iberian Nanotechnology Laboratory in PT. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.650889
+date: 2026-07-11T12:53:40.871230
 url: "/cdr-researcher-census/researchers/silvia-escudero-curiel-a5033671/"
 layout: "researcher"
 hiddenInHomeList: true

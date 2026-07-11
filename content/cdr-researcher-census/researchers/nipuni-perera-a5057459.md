@@ -1,7 +1,7 @@
 ---
 title: "Nipuni Perera"
 description: "Nipuni Perera is an Early-career General CDR researcher at Deakin University in AU. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.207894
+date: 2026-07-11T12:53:41.446243
 url: "/cdr-researcher-census/researchers/nipuni-perera-a5057459/"
 layout: "researcher"
 hiddenInHomeList: true

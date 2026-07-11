@@ -1,7 +1,7 @@
 ---
 title: "Carter M. Powis"
 description: "Carter M. Powis is a Mid-career General CDR researcher at University of Oxford in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.924640
+date: 2026-07-11T12:53:40.140721
 url: "/cdr-researcher-census/researchers/carter-m-powis-a5038337/"
 layout: "researcher"
 hiddenInHomeList: true

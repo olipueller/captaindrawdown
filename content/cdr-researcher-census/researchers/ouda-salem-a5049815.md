@@ -1,7 +1,7 @@
 ---
 title: "Ouda Salem"
 description: "Ouda Salem is a Mid-career General CDR researcher at Fraunhofer Institute for Solar Energy Systems in DE. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.664778
+date: 2026-07-11T12:53:40.885018
 url: "/cdr-researcher-census/researchers/ouda-salem-a5049815/"
 layout: "researcher"
 hiddenInHomeList: true

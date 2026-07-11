@@ -1,7 +1,7 @@
 ---
 title: "Mai ElSayed"
 description: "Mai ElSayed is a Mid-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.249328
+date: 2026-07-11T12:53:41.485016
 url: "/cdr-researcher-census/researchers/mai-elsayed-a5042188/"
 layout: "researcher"
 hiddenInHomeList: true

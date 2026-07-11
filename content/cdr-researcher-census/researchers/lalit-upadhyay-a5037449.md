@@ -1,7 +1,7 @@
 ---
 title: "Lalit Upadhyay"
 description: "Lalit Upadhyay is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu in IN. With 45 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.264975
+date: 2026-07-11T12:53:41.499145
 url: "/cdr-researcher-census/researchers/lalit-upadhyay-a5037449/"
 layout: "researcher"
 hiddenInHomeList: true

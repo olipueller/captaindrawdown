@@ -1,7 +1,7 @@
 ---
 title: "Sai Peng"
 description: "Sai Peng is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.743831
+date: 2026-07-11T12:53:41.060166
 url: "/cdr-researcher-census/researchers/sai-peng-a5070721/"
 layout: "researcher"
 hiddenInHomeList: true

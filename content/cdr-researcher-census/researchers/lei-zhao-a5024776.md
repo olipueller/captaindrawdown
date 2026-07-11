@@ -1,7 +1,7 @@
 ---
 title: "Lei Zhao"
 description: "Lei Zhao is a Mid-career Biochar researcher at Wenzhou University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.173763
+date: 2026-07-11T12:53:41.414732
 url: "/cdr-researcher-census/researchers/lei-zhao-a5024776/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "P.V. Bhaskar"
 description: "P.V. Bhaskar is a Senior Soil Carbon researcher at National Centre for Polar and Ocean Research, Ministry of Earth Sciences in IN. With 49 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.977568
+date: 2026-07-11T12:53:40.196818
 url: "/cdr-researcher-census/researchers/pv-bhaskar-a5013140/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Joungho Park"
 description: "Joungho Park is a Senior General CDR researcher at University of Southern California in US. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.251647
+date: 2026-07-11T12:53:40.453230
 url: "/cdr-researcher-census/researchers/joungho-park-a5006550/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ana Obradović"
 description: "Ana Obradović is a Mid-career General CDR researcher at Singidunum University in RS. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.595961
+date: 2026-07-11T12:53:40.812700
 url: "/cdr-researcher-census/researchers/ana-obradovic-a5059730/"
 layout: "researcher"
 hiddenInHomeList: true

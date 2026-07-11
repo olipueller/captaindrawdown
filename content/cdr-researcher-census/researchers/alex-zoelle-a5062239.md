@@ -1,7 +1,7 @@
 ---
 title: "Alex Zoelle"
 description: "Alex Zoelle is a Mid-career General CDR researcher at National Energy Technology Laboratory in US. With 21 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.401773
+date: 2026-07-11T12:53:41.608213
 url: "/cdr-researcher-census/researchers/alex-zoelle-a5062239/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Guanfang Sun"
 description: "Guanfang Sun is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.703665
+date: 2026-07-11T12:53:40.964489
 url: "/cdr-researcher-census/researchers/guanfang-sun-a5039360/"
 layout: "researcher"
 hiddenInHomeList: true

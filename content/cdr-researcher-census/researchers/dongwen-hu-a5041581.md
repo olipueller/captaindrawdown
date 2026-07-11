@@ -1,7 +1,7 @@
 ---
 title: "Dongwen Hu"
 description: "Dongwen Hu is a Mid-career Biochar researcher at Yunnan University in CN. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.212186
+date: 2026-07-11T12:53:40.412767
 url: "/cdr-researcher-census/researchers/dongwen-hu-a5041581/"
 layout: "researcher"
 hiddenInHomeList: true

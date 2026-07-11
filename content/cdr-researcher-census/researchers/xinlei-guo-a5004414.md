@@ -1,7 +1,7 @@
 ---
 title: "Xinlei Guo"
 description: "Xinlei Guo is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.431237
+date: 2026-07-11T12:53:40.639227
 url: "/cdr-researcher-census/researchers/xinlei-guo-a5004414/"
 layout: "researcher"
 hiddenInHomeList: true

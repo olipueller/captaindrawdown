@@ -1,7 +1,7 @@
 ---
 title: "Maria Maigaard Paulsen"
 description: "Maria Maigaard Paulsen is an Early-career General CDR researcher at Yale University in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.243885
+date: 2026-07-11T12:53:41.479964
 url: "/cdr-researcher-census/researchers/maria-maigaard-paulsen-a5088081/"
 layout: "researcher"
 hiddenInHomeList: true

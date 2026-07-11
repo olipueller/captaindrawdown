@@ -1,7 +1,7 @@
 ---
 title: "Matt Aitkenhead"
 description: "Matt Aitkenhead is a Senior Soil Carbon researcher at James Hutton Institute in GB. With 125 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.823867
+date: 2026-07-11T12:53:40.023548
 url: "/cdr-researcher-census/researchers/matt-aitkenhead-a5029381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 30 |
 | Citations | 3,903 |
 | Publications | 125 |
-| CDR Focus | 5.6% |
-| Trajectory | Exiting |
+| CDR Focus | 7.2% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -65,10 +65,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **A deep learning approach for high‐resolution mapping of Scottish peatland degradation** (2024)
    8 citations · General CDR
 
-6. **Using Deep Learning and High-Resolution Imagery to Map the Condition of Scotland&amp;#8217;s Peatland Resource.** (2024)
+6. **A novel soil porewater extraction technique for enhanced rock weathering products: SATuration–Centrifugation** (2026)
+   0 citations · Enhanced Weathering
+
+7. **A Novel Soil Porewater Extraction Technique for Enhanced Rock Weathering Products: SATuration - Centrifugation** (2026)
+   0 citations · Enhanced Weathering
+
+8. **Using Deep Learning and High-Resolution Imagery to Map the Condition of Scotland&amp;#8217;s Peatland Resource.** (2024)
    0 citations · Soil Carbon
 
-7. **Optimal Sampling Using Conditioned Latin Hypercube for Digital Soil Mapping: An Approach Using Bhattacharya Distance** (2023)
+9. **Optimal Sampling Using Conditioned Latin Hypercube for Digital Soil Mapping: An Approach Using Bhattacharya Distance** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

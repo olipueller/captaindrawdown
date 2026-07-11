@@ -1,7 +1,7 @@
 ---
 title: "Daniel Fischer"
 description: "Daniel Fischer is a Senior Soil Carbon researcher at National Institute of Standards and Technology in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.067048
+date: 2026-07-11T12:53:40.290532
 url: "/cdr-researcher-census/researchers/daniel-fischer-a5101741/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yaowen Xu"
 description: "Yaowen Xu is a Mid-career Soil Carbon researcher at Zhejiang Lab in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.173492
+date: 2026-07-11T12:53:41.414515
 url: "/cdr-researcher-census/researchers/yaowen-xu-a5051721/"
 layout: "researcher"
 hiddenInHomeList: true

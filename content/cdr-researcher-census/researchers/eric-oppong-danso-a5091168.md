@@ -1,7 +1,7 @@
 ---
 title: "Eric Oppong Danso"
 description: "Eric Oppong Danso is a Mid-career Soil Carbon researcher at University of Ghana in GH. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.571741
+date: 2026-07-11T12:53:40.788352
 url: "/cdr-researcher-census/researchers/eric-oppong-danso-a5091168/"
 layout: "researcher"
 hiddenInHomeList: true

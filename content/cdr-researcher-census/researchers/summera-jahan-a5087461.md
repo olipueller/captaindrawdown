@@ -1,7 +1,7 @@
 ---
 title: "Summera Jahan"
 description: "Summera Jahan is a Mid-career Soil Carbon researcher at University of the Punjab in PK. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.020849
+date: 2026-07-11T12:53:41.290125
 url: "/cdr-researcher-census/researchers/summera-jahan-a5087461/"
 layout: "researcher"
 hiddenInHomeList: true

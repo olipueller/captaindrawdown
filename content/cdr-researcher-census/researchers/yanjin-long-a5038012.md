@@ -1,7 +1,7 @@
 ---
 title: "Yanjin Long"
 description: "Yanjin Long is a Senior Biochar researcher at Yunnan Agricultural University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.357919
+date: 2026-07-11T12:53:40.562477
 url: "/cdr-researcher-census/researchers/yanjin-long-a5038012/"
 layout: "researcher"
 hiddenInHomeList: true

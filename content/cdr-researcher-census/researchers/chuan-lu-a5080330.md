@@ -1,7 +1,7 @@
 ---
 title: "Chuan Lu"
 description: "Chuan Lu is a Mid-career Soil Carbon researcher at University of Science and Technology of China in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.985696
+date: 2026-07-11T12:53:41.274962
 url: "/cdr-researcher-census/researchers/chuan-lu-a5080330/"
 layout: "researcher"
 hiddenInHomeList: true

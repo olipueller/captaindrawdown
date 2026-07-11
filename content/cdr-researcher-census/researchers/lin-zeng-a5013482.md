@@ -1,7 +1,7 @@
 ---
 title: "Lin Zeng"
 description: "Lin Zeng is a Senior Soil Carbon researcher at Kunming Institute of Zoology in CN. With 60 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.856926
+date: 2026-07-11T12:53:40.061958
 url: "/cdr-researcher-census/researchers/lin-zeng-a5013482/"
 layout: "researcher"
 hiddenInHomeList: true

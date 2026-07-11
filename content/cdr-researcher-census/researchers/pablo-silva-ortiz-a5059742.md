@@ -1,7 +1,7 @@
 ---
 title: "Pablo Silva Ortiz"
 description: "Pablo Silva Ortiz is a Mid-career Biochar researcher at Industrial University of Santander in CO. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.725054
+date: 2026-07-11T12:53:41.016059
 url: "/cdr-researcher-census/researchers/pablo-silva-ortiz-a5059742/"
 layout: "researcher"
 hiddenInHomeList: true

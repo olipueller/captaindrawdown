@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Nuto Nóbrega"
 description: "Gabriel Nuto Nóbrega is a Senior Soil Carbon researcher at Universidade Federal do Ceará in BR. With 108 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.858053
+date: 2026-07-11T12:53:40.064477
 url: "/cdr-researcher-census/researchers/gabriel-nuto-nobrega-a5032388/"
 layout: "researcher"
 hiddenInHomeList: true

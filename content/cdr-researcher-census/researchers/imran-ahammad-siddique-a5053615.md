@@ -1,7 +1,7 @@
 ---
 title: "Imran Ahammad Siddique"
 description: "Imran Ahammad Siddique is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.265808
+date: 2026-07-11T12:53:41.499924
 url: "/cdr-researcher-census/researchers/imran-ahammad-siddique-a5053615/"
 layout: "researcher"
 hiddenInHomeList: true

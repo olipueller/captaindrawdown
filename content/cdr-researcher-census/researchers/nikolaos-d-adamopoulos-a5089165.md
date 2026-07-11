@@ -1,7 +1,7 @@
 ---
 title: "Nikolaos D. Adamopoulos"
 description: "Nikolaos D. Adamopoulos is a Mid-career General CDR researcher at National Technical University of Athens in GR. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.232406
+date: 2026-07-11T12:53:41.469075
 url: "/cdr-researcher-census/researchers/nikolaos-d-adamopoulos-a5089165/"
 layout: "researcher"
 hiddenInHomeList: true

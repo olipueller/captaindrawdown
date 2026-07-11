@@ -1,7 +1,7 @@
 ---
 title: "Chengpeng Yuan"
 description: "Chengpeng Yuan is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.290130
+date: 2026-07-11T12:53:40.492529
 url: "/cdr-researcher-census/researchers/chengpeng-yuan-a5036679/"
 layout: "researcher"
 hiddenInHomeList: true

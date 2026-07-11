@@ -1,7 +1,7 @@
 ---
 title: "Badr A. Mohamed"
 description: "Badr A. Mohamed is a Senior Biochar researcher at Cairo University in EG. With 72 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.834927
+date: 2026-07-11T12:53:40.037614
 url: "/cdr-researcher-census/researchers/badr-a-mohamed-a5009215/"
 layout: "researcher"
 hiddenInHomeList: true

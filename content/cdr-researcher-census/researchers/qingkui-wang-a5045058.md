@@ -1,7 +1,7 @@
 ---
 title: "Qingkui Wang"
 description: "Qingkui Wang is a Senior Soil Carbon researcher at Anhui Agricultural University in CN. With 149 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.801265
+date: 2026-07-11T12:53:39.995910
 url: "/cdr-researcher-census/researchers/qingkui-wang-a5045058/"
 layout: "researcher"
 hiddenInHomeList: true

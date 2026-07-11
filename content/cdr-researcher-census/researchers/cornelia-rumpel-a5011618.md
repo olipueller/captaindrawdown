@@ -1,7 +1,7 @@
 ---
 title: "Cornélia Rumpel"
 description: "Cornélia Rumpel is an Eminent Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 465 publications and an h-index of 78, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.768284
+date: 2026-07-11T12:53:39.938044
 url: "/cdr-researcher-census/researchers/cornelia-rumpel-a5011618/"
 layout: "researcher"
 hiddenInHomeList: true

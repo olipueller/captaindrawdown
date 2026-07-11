@@ -1,7 +1,7 @@
 ---
 title: "Yingbo Gao"
 description: "Yingbo Gao is a Mid-career Soil Carbon researcher at Hebei Medical University in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.141612
+date: 2026-07-11T12:53:40.365146
 url: "/cdr-researcher-census/researchers/yingbo-gao-a5112216/"
 layout: "researcher"
 hiddenInHomeList: true

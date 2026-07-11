@@ -1,7 +1,7 @@
 ---
 title: "Shuling Pan"
 description: "Shuling Pan is a Senior Soil Carbon researcher at China Agricultural University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.320714
+date: 2026-07-11T12:53:41.547967
 url: "/cdr-researcher-census/researchers/shuling-pan-a5060250/"
 layout: "researcher"
 hiddenInHomeList: true

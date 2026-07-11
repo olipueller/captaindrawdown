@@ -1,7 +1,7 @@
 ---
 title: "Jingyi Shao"
 description: "Jingyi Shao is a Senior Soil Carbon researcher at University of Canberra in AU. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.438243
+date: 2026-07-11T12:53:40.646673
 url: "/cdr-researcher-census/researchers/jingyi-shao-a5070777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 364 |
 | Publications | 46 |
-| CDR Focus | 6.5% |
+| CDR Focus | 10.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -50,10 +50,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Enhancing the coupling coordination of soil–crop systems by optimising soil properties and crop production via subsoiling** (2024)
    11 citations · Soil Carbon
 
-2. **Carbon Sequestration Promoted by Subsoiling: Tracing the Fate of Exogenous Glucose and Priming Effect in Soil Aggregates** (2025)
+2. **Potential carbon sequestration promoted by subsoiling: Tracing the fate of exogenous glucose and priming effect in soil aggregates** (2026)
    0 citations · Soil Carbon
 
-3. **Optimized Subsoiling Increased Maize Yield and Carbon Sequestration by Improving Soil Pore Structure** (2023)
+3. **Long-term subsoiling enhanced soil organic carbon sequestration via macropore optimization and iron-aluminum oxides enrichment** (2026)
+   0 citations · Soil Carbon
+
+4. **Carbon Sequestration Promoted by Subsoiling: Tracing the Fate of Exogenous Glucose and Priming Effect in Soil Aggregates** (2025)
+   0 citations · Soil Carbon
+
+5. **Optimized Subsoiling Increased Maize Yield and Carbon Sequestration by Improving Soil Pore Structure** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

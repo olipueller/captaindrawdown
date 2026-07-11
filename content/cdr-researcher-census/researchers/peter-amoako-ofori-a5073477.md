@@ -1,7 +1,7 @@
 ---
 title: "Peter Amoako Ofori"
 description: "Peter Amoako Ofori is a Mid-career Soil Carbon researcher at Dalhousie University in CA. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.565835
+date: 2026-07-11T12:53:40.782414
 url: "/cdr-researcher-census/researchers/peter-amoako-ofori-a5073477/"
 layout: "researcher"
 hiddenInHomeList: true

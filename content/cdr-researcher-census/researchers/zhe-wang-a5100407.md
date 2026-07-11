@@ -1,7 +1,7 @@
 ---
 title: "Zhe Wang"
 description: "Zhe Wang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.265643
+date: 2026-07-11T12:53:40.467458
 url: "/cdr-researcher-census/researchers/zhe-wang-a5100407/"
 layout: "researcher"
 hiddenInHomeList: true

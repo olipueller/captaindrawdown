@@ -1,7 +1,7 @@
 ---
 title: "Brian Y. Chang"
 description: "Brian Y. Chang is a Senior General CDR researcher at University of California, Irvine Medical Center in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.040738
+date: 2026-07-11T12:53:41.300971
 url: "/cdr-researcher-census/researchers/brian-y-chang-a5069990/"
 layout: "researcher"
 hiddenInHomeList: true

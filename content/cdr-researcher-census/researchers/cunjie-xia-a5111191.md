@@ -1,7 +1,7 @@
 ---
 title: "Cunjie Xia"
 description: "Cunjie Xia is a Mid-career Biochar researcher at Zhejiang University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.140565
+date: 2026-07-11T12:53:41.384749
 url: "/cdr-researcher-census/researchers/cunjie-xia-a5111191/"
 layout: "researcher"
 hiddenInHomeList: true

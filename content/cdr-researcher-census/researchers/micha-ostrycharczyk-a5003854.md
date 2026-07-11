@@ -1,7 +1,7 @@
 ---
 title: "Michał Ostrycharczyk"
 description: "Michał Ostrycharczyk is a Mid-career BECCS researcher at Institute of Power Engineering in PL. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.574876
+date: 2026-07-11T12:53:40.791619
 url: "/cdr-researcher-census/researchers/micha-ostrycharczyk-a5003854/"
 layout: "researcher"
 hiddenInHomeList: true

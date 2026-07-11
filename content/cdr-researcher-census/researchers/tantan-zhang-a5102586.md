@@ -1,7 +1,7 @@
 ---
 title: "Tantan Zhang"
 description: "Tantan Zhang is a Mid-career Soil Carbon researcher at Huawei Technologies (China) in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.986563
+date: 2026-07-11T12:53:41.275394
 url: "/cdr-researcher-census/researchers/tantan-zhang-a5102586/"
 layout: "researcher"
 hiddenInHomeList: true

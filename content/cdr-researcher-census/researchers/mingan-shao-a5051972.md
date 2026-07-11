@@ -1,7 +1,7 @@
 ---
 title: "Mingan Shao"
 description: "Mingan Shao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.701143
+date: 2026-07-11T12:53:40.961550
 url: "/cdr-researcher-census/researchers/mingan-shao-a5051972/"
 layout: "researcher"
 hiddenInHomeList: true

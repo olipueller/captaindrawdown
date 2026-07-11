@@ -1,7 +1,7 @@
 ---
 title: "Nishu Goyal"
 description: "Nishu Goyal is an Early-career Biochar researcher at University of Petroleum and Energy Studies in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.822680
+date: 2026-07-11T12:53:41.204428
 url: "/cdr-researcher-census/researchers/nishu-goyal-a5083664/"
 layout: "researcher"
 hiddenInHomeList: true

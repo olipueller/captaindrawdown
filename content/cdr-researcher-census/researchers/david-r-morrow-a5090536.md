@@ -1,7 +1,7 @@
 ---
 title: "David R. Morrow"
 description: "David R. Morrow is a Senior General CDR researcher at American University in US. With 61 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.964934
+date: 2026-07-11T12:53:40.183167
 url: "/cdr-researcher-census/researchers/david-r-morrow-a5090536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 22 |
 | Citations | 1,294 |
 | Publications | 61 |
-| CDR Focus | 16.4% |
+| CDR Focus | 18.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -77,7 +77,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 9. **GCAM-CDR v1.0: Enhancing the Representation of Carbon Dioxide Removal Technologies and Policies in an Integrated Assessment Model** (2022)
    4 citations
 
-10. **Carbon removal trading can promote economic growth in the Global South but could undermine food and energy security** (2025)
+10. **Ambitious Co-scaling of Carbon Dioxide Removal and Decarbonization Delivers Better Climate Outcomes Than Strategies That Prioritize Efforts in One Domain** (2026)
    0 citations · General CDR
 
 ## External Profiles

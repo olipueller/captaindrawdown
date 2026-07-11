@@ -1,7 +1,7 @@
 ---
 title: "Lei Qiao"
 description: "Lei Qiao is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.979103
+date: 2026-07-11T12:53:40.198286
 url: "/cdr-researcher-census/researchers/lei-qiao-a5044943/"
 layout: "researcher"
 hiddenInHomeList: true

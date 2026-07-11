@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Roe"
 description: "Stephanie Roe is a Mid-career General CDR researcher at WWF Tanzania in TZ. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.872853
+date: 2026-07-11T12:53:40.081908
 url: "/cdr-researcher-census/researchers/stephanie-roe-a5084164/"
 layout: "researcher"
 hiddenInHomeList: true

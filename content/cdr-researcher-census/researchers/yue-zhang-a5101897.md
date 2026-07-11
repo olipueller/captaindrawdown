@@ -1,7 +1,7 @@
 ---
 title: "Yue Zhang"
 description: "Yue Zhang is a Senior Soil Carbon researcher at Xinjiang Normal University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.339083
+date: 2026-07-11T12:53:40.542393
 url: "/cdr-researcher-census/researchers/yue-zhang-a5101897/"
 layout: "researcher"
 hiddenInHomeList: true

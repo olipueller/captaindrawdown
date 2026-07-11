@@ -1,7 +1,7 @@
 ---
 title: "Siyuan Zhai"
 description: "Siyuan Zhai is a Senior Biochar researcher at Yanshan University in CN. With 42 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.891548
+date: 2026-07-11T12:53:40.103803
 url: "/cdr-researcher-census/researchers/siyuan-zhai-a5028763/"
 layout: "researcher"
 hiddenInHomeList: true

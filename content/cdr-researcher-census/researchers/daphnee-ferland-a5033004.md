@@ -1,7 +1,7 @@
 ---
 title: "Daphnée Ferland"
 description: "Daphnée Ferland is an Early-career Soil Carbon researcher at University of Saskatchewan in CA. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.340070
+date: 2026-07-11T12:53:40.543464
 url: "/cdr-researcher-census/researchers/daphnee-ferland-a5033004/"
 layout: "researcher"
 hiddenInHomeList: true

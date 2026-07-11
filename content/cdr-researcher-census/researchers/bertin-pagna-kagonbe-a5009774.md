@@ -1,7 +1,7 @@
 ---
 title: "Bertin Pagna Kagonbé"
 description: "Bertin Pagna Kagonbé is a Mid-career Soil Carbon researcher at Ministry of Higher Education and Scientific Research in EG. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.346978
+date: 2026-07-11T12:53:41.565805
 url: "/cdr-researcher-census/researchers/bertin-pagna-kagonbe-a5009774/"
 layout: "researcher"
 hiddenInHomeList: true

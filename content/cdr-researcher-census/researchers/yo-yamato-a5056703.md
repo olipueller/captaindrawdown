@@ -1,7 +1,7 @@
 ---
 title: "Yo Yamato"
 description: "Yo Yamato is a Senior General CDR researcher at Daicel (Japan) in JP. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.443292
+date: 2026-07-11T12:53:41.649139
 url: "/cdr-researcher-census/researchers/yo-yamato-a5056703/"
 layout: "researcher"
 hiddenInHomeList: true

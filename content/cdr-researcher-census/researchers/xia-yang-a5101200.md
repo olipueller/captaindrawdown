@@ -1,7 +1,7 @@
 ---
 title: "Xia Yang"
 description: "Xia Yang is a Senior Biochar researcher at Zunyi Medical University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.099144
+date: 2026-07-11T12:53:40.322431
 url: "/cdr-researcher-census/researchers/xia-yang-a5101200/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xueyan Lyu"
 description: "Xueyan Lyu is a Mid-career Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.121395
+date: 2026-07-11T12:53:40.345426
 url: "/cdr-researcher-census/researchers/xueyan-lyu-a5114031/"
 layout: "researcher"
 hiddenInHomeList: true

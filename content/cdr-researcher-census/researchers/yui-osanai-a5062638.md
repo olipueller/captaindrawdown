@@ -1,7 +1,7 @@
 ---
 title: "Yui Osanai"
 description: "Yui Osanai is a Senior Soil Carbon researcher at University of New England in AU. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.997852
+date: 2026-07-11T12:53:40.218446
 url: "/cdr-researcher-census/researchers/yui-osanai-a5062638/"
 layout: "researcher"
 hiddenInHomeList: true

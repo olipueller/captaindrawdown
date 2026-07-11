@@ -1,7 +1,7 @@
 ---
 title: "Eunsung Kan"
 description: "Eunsung Kan is a Senior Biochar researcher at Texas A&M University in US. With 99 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.812374
+date: 2026-07-11T12:53:40.009282
 url: "/cdr-researcher-census/researchers/eunsung-kan-a5067567/"
 layout: "researcher"
 hiddenInHomeList: true

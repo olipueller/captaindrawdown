@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Ganti"
 description: "Gaurav Ganti is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 47 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.167156
+date: 2026-07-11T12:53:40.390388
 url: "/cdr-researcher-census/researchers/gaurav-ganti-a5002533/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiguang Dong"
 description: "Qiguang Dong is a Mid-career Soil Carbon researcher at Shaanxi Coal Chemical Industry Technology Research Institute in CN. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.820166
+date: 2026-07-11T12:53:41.202666
 url: "/cdr-researcher-census/researchers/qiguang-dong-a5021331/"
 layout: "researcher"
 hiddenInHomeList: true

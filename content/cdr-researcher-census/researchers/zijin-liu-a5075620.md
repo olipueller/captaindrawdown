@@ -1,7 +1,7 @@
 ---
 title: "Zijin Liu"
 description: "Zijin Liu is a Mid-career Biochar researcher at Soochow University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.902375
+date: 2026-07-11T12:53:41.238843
 url: "/cdr-researcher-census/researchers/zijin-liu-a5075620/"
 layout: "researcher"
 hiddenInHomeList: true

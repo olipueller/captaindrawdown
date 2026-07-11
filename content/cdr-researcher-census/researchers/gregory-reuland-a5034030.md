@@ -1,7 +1,7 @@
 ---
 title: "Gregory Reuland"
 description: "Gregory Reuland is a Mid-career Soil Carbon researcher at Ghent University in BE. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.397586
+date: 2026-07-11T12:53:41.603902
 url: "/cdr-researcher-census/researchers/gregory-reuland-a5034030/"
 layout: "researcher"
 hiddenInHomeList: true

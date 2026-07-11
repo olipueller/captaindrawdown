@@ -1,7 +1,7 @@
 ---
 title: "Pushpita Kumkum"
 description: "Pushpita Kumkum is a Mid-career Biochar researcher at Old Dominion University in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.263491
+date: 2026-07-11T12:53:41.497858
 url: "/cdr-researcher-census/researchers/pushpita-kumkum-a5042081/"
 layout: "researcher"
 hiddenInHomeList: true

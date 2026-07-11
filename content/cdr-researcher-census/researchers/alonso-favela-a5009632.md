@@ -1,7 +1,7 @@
 ---
 title: "Alonso Favela"
 description: "Alonso Favela is a Mid-career Soil Carbon researcher at University of Arizona in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.707064
+date: 2026-07-11T12:53:40.970202
 url: "/cdr-researcher-census/researchers/alonso-favela-a5009632/"
 layout: "researcher"
 hiddenInHomeList: true

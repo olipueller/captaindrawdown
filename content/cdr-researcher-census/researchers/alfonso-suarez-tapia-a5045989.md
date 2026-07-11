@@ -1,7 +1,7 @@
 ---
 title: "Alfonso Suárez-Tapia"
 description: "Alfonso Suárez-Tapia is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.348659
+date: 2026-07-11T12:53:41.566344
 url: "/cdr-researcher-census/researchers/alfonso-suarez-tapia-a5045989/"
 layout: "researcher"
 hiddenInHomeList: true

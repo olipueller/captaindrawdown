@@ -1,7 +1,7 @@
 ---
 title: "Candelaria Bergero"
 description: "Candelaria Bergero is a Mid-career General CDR researcher at University of Wisconsin–Madison in US. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.114186
+date: 2026-07-11T12:53:40.337959
 url: "/cdr-researcher-census/researchers/candelaria-bergero-a5081360/"
 layout: "researcher"
 hiddenInHomeList: true

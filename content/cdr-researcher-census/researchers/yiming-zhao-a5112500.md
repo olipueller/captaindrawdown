@@ -1,7 +1,7 @@
 ---
 title: "Yiming Zhao"
 description: "Yiming Zhao is a Mid-career Soil Carbon researcher at Inner Mongolia University in CN. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.031072
+date: 2026-07-11T12:53:40.252608
 url: "/cdr-researcher-census/researchers/yiming-zhao-a5112500/"
 layout: "researcher"
 hiddenInHomeList: true

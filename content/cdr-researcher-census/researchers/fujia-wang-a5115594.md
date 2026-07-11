@@ -1,7 +1,7 @@
 ---
 title: "Fujia Wang"
 description: "Fujia Wang is a Mid-career Soil Carbon researcher at Ludong University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.430497
+date: 2026-07-11T12:53:40.638396
 url: "/cdr-researcher-census/researchers/fujia-wang-a5115594/"
 layout: "researcher"
 hiddenInHomeList: true

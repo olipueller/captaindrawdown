@@ -1,7 +1,7 @@
 ---
 title: "Bernardo Strassburg"
 description: "Bernardo Strassburg is a Mid-career Soil Carbon researcher at Pontifícia Universidade Católica do Rio de Janeiro in BR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.141877
+date: 2026-07-11T12:53:40.365385
 url: "/cdr-researcher-census/researchers/bernardo-strassburg-a5087144/"
 layout: "researcher"
 hiddenInHomeList: true

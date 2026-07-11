@@ -1,7 +1,7 @@
 ---
 title: "Felicia Bucura"
 description: "Felicia Bucura is a Mid-career Biochar researcher at National Institute for Research and Development of Isotopic and Molecular Technologies in RO. With 46 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.581836
+date: 2026-07-11T12:53:40.798577
 url: "/cdr-researcher-census/researchers/felicia-bucura-a5064043/"
 layout: "researcher"
 hiddenInHomeList: true

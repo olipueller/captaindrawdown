@@ -1,7 +1,7 @@
 ---
 title: "Roger L. Viticoski"
 description: "Roger L. Viticoski is a Mid-career General CDR researcher at Auburn University in US. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.421388
+date: 2026-07-11T12:53:41.627258
 url: "/cdr-researcher-census/researchers/roger-l-viticoski-a5032636/"
 layout: "researcher"
 hiddenInHomeList: true

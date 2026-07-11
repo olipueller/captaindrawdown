@@ -1,7 +1,7 @@
 ---
 title: "Irmina Ćwieląg‐Piasecka"
 description: "Irmina Ćwieląg‐Piasecka is a Senior Soil Carbon researcher at Wroclaw University of Environmental and Life Sciences in PL. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.163483
+date: 2026-07-11T12:53:40.386635
 url: "/cdr-researcher-census/researchers/irmina-cwielagpiasecka-a5042130/"
 layout: "researcher"
 hiddenInHomeList: true

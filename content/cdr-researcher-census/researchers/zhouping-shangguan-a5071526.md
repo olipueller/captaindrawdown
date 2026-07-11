@@ -1,7 +1,7 @@
 ---
 title: "Zhouping Shangguan"
 description: "Zhouping Shangguan is an Eminent Soil Carbon researcher at 中国科学院水利部水土保持研究所 in CN. With 391 publications and an h-index of 74, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.772472
+date: 2026-07-11T12:53:39.952116
 url: "/cdr-researcher-census/researchers/zhouping-shangguan-a5071526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 74 |
 | Citations | 18,246 |
 | Publications | 391 |
-| CDR Focus | 7.2% |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shivangi Jha"
 description: "Shivangi Jha is a Mid-career Biochar researcher at University of Saskatchewan in CA. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.345994
+date: 2026-07-11T12:53:40.549952
 url: "/cdr-researcher-census/researchers/shivangi-jha-a5023134/"
 layout: "researcher"
 hiddenInHomeList: true

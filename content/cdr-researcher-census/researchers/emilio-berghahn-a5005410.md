@@ -1,7 +1,7 @@
 ---
 title: "Emílio Berghahn"
 description: "Emílio Berghahn is a Mid-career Soil Carbon researcher at Univates in BR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.423947
+date: 2026-07-11T12:53:41.630030
 url: "/cdr-researcher-census/researchers/emilio-berghahn-a5005410/"
 layout: "researcher"
 hiddenInHomeList: true

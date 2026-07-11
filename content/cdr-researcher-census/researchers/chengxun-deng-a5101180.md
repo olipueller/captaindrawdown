@@ -1,7 +1,7 @@
 ---
 title: "Chengxun Deng"
 description: "Chengxun Deng is a Senior Biochar researcher at Hefei University in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.112023
+date: 2026-07-11T12:53:40.335835
 url: "/cdr-researcher-census/researchers/chengxun-deng-a5101180/"
 layout: "researcher"
 hiddenInHomeList: true

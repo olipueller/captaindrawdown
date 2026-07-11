@@ -1,7 +1,7 @@
 ---
 title: "Tianyuan Liu"
 description: "Tianyuan Liu is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.282784
+date: 2026-07-11T12:53:40.484919
 url: "/cdr-researcher-census/researchers/tianyuan-liu-a5101545/"
 layout: "researcher"
 hiddenInHomeList: true

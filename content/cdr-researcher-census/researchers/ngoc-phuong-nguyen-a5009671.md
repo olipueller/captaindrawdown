@@ -1,7 +1,7 @@
 ---
 title: "Ngoc Phuong Nguyen"
 description: "Ngoc Phuong Nguyen is a Mid-career Biochar researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.667629
+date: 2026-07-11T12:53:40.887901
 url: "/cdr-researcher-census/researchers/ngoc-phuong-nguyen-a5009671/"
 layout: "researcher"
 hiddenInHomeList: true

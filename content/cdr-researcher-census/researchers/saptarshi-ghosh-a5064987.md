@@ -1,7 +1,7 @@
 ---
 title: "Saptarshi Ghosh"
 description: "Saptarshi Ghosh is a Mid-career Biochar researcher at Southern Illinois University Carbondale in US. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.060894
+date: 2026-07-11T12:53:40.283546
 url: "/cdr-researcher-census/researchers/saptarshi-ghosh-a5064987/"
 layout: "researcher"
 hiddenInHomeList: true

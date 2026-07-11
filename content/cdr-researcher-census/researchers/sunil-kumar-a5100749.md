@@ -1,7 +1,7 @@
 ---
 title: "Sunil Kumar"
 description: "Sunil Kumar is a Mid-career Soil Carbon researcher at Teerthanker Mahaveer University in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.319439
+date: 2026-07-11T12:53:41.546704
 url: "/cdr-researcher-census/researchers/sunil-kumar-a5100749/"
 layout: "researcher"
 hiddenInHomeList: true

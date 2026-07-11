@@ -1,7 +1,7 @@
 ---
 title: "Zhuofeng Ye"
 description: "Zhuofeng Ye is an Early-career Biochar researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.443799
+date: 2026-07-11T12:53:41.649701
 url: "/cdr-researcher-census/researchers/zhuofeng-ye-a5054828/"
 layout: "researcher"
 hiddenInHomeList: true

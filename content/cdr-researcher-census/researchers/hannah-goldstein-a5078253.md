@@ -1,7 +1,7 @@
 ---
 title: "Hannah Goldstein"
 description: "Hannah Goldstein is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.518525
+date: 2026-07-11T12:53:40.733712
 url: "/cdr-researcher-census/researchers/hannah-goldstein-a5078253/"
 layout: "researcher"
 hiddenInHomeList: true

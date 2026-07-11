@@ -1,7 +1,7 @@
 ---
 title: "Aakanksha Pundir"
 description: "Aakanksha Pundir is a Mid-career General CDR researcher at Indian Institute of Technology Roorkee in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.590712
+date: 2026-07-11T12:53:40.807730
 url: "/cdr-researcher-census/researchers/aakanksha-pundir-a5059474/"
 layout: "researcher"
 hiddenInHomeList: true

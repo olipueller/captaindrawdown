@@ -1,7 +1,7 @@
 ---
 title: "Yuanchen Zhu"
 description: "Yuanchen Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.162996
+date: 2026-07-11T12:53:40.386063
 url: "/cdr-researcher-census/researchers/yuanchen-zhu-a5009773/"
 layout: "researcher"
 hiddenInHomeList: true

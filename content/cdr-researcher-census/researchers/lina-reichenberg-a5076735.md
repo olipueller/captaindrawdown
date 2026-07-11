@@ -1,7 +1,7 @@
 ---
 title: "Lina Reichenberg"
 description: "Lina Reichenberg is a Mid-career General CDR researcher at Chalmers Tekniska Högskola in SE. With 50 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.051891
+date: 2026-07-11T12:53:40.274446
 url: "/cdr-researcher-census/researchers/lina-reichenberg-a5076735/"
 layout: "researcher"
 hiddenInHomeList: true

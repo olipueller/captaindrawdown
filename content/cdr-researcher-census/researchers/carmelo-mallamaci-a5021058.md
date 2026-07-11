@@ -1,7 +1,7 @@
 ---
 title: "Carmelo Mallamaci"
 description: "Carmelo Mallamaci is a Senior Soil Carbon researcher at University of Reggio Calabria in IT. With 67 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.008424
+date: 2026-07-11T12:53:40.229514
 url: "/cdr-researcher-census/researchers/carmelo-mallamaci-a5021058/"
 layout: "researcher"
 hiddenInHomeList: true

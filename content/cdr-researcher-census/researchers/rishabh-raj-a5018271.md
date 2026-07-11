@@ -1,7 +1,7 @@
 ---
 title: "Rishabh Raj"
 description: "Rishabh Raj is a Mid-career Biochar researcher at Luleå tekniska universitet in SE. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.239011
+date: 2026-07-11T12:53:40.440995
 url: "/cdr-researcher-census/researchers/rishabh-raj-a5018271/"
 layout: "researcher"
 hiddenInHomeList: true

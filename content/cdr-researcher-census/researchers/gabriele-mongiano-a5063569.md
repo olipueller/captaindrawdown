@@ -1,7 +1,7 @@
 ---
 title: "Gabriele Mongiano"
 description: "Gabriele Mongiano is a Mid-career Soil Carbon researcher at Cereal Research Centre in IT. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.555635
+date: 2026-07-11T12:53:40.772016
 url: "/cdr-researcher-census/researchers/gabriele-mongiano-a5063569/"
 layout: "researcher"
 hiddenInHomeList: true

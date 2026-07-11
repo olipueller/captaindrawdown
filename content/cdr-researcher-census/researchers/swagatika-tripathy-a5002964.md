@@ -1,7 +1,7 @@
 ---
 title: "Swagatika Tripathy"
 description: "Swagatika Tripathy is a Mid-career Biochar researcher at Veer Surendra Sai University of Technology in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.759142
+date: 2026-07-11T12:53:41.091633
 url: "/cdr-researcher-census/researchers/swagatika-tripathy-a5002964/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maximus L. L. Beaumont"
 description: "Maximus L. L. Beaumont is a Senior General CDR researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.204228
+date: 2026-07-11T12:53:41.442702
 url: "/cdr-researcher-census/researchers/maximus-l-l-beaumont-a5028365/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xianwei Cai"
 description: "Xianwei Cai is a Senior Biochar researcher at University of Jinan in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.232978
+date: 2026-07-11T12:53:40.435036
 url: "/cdr-researcher-census/researchers/xianwei-cai-a5020516/"
 layout: "researcher"
 hiddenInHomeList: true

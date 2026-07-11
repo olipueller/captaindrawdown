@@ -1,7 +1,7 @@
 ---
 title: "Auston D. Chhor"
 description: "Auston D. Chhor is a Mid-career General CDR researcher at Raincoast Conservation Foundation in CA. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.996811
+date: 2026-07-11T12:53:41.280247
 url: "/cdr-researcher-census/researchers/auston-d-chhor-a5030820/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Carolina Pérez Brandán"
 description: "Carolina Pérez Brandán is a Mid-career Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.055099
+date: 2026-07-11T12:53:40.277586
 url: "/cdr-researcher-census/researchers/carolina-perez-brandan-a5069507/"
 layout: "researcher"
 hiddenInHomeList: true

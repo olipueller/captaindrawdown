@@ -1,7 +1,7 @@
 ---
 title: "Ling Zhao"
 description: "Ling Zhao is an Eminent Biochar researcher at Shanghai Jiao Tong University in CN. With 174 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.778325
+date: 2026-07-11T12:53:39.963818
 url: "/cdr-researcher-census/researchers/ling-zhao-a5084662/"
 layout: "researcher"
 hiddenInHomeList: true

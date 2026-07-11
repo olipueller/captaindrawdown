@@ -1,7 +1,7 @@
 ---
 title: "Aaron Eveleigh"
 description: "Aaron Eveleigh is a Mid-career Soil Carbon researcher at University College London in GB. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.363689
+date: 2026-07-11T12:53:40.568587
 url: "/cdr-researcher-census/researchers/aaron-eveleigh-a5076853/"
 layout: "researcher"
 hiddenInHomeList: true

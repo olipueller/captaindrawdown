@@ -1,7 +1,7 @@
 ---
 title: "Jitao Lv"
 description: "Jitao Lv is a Senior Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 87 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.802062
+date: 2026-07-11T12:53:39.997090
 url: "/cdr-researcher-census/researchers/jitao-lv-a5110294/"
 layout: "researcher"
 hiddenInHomeList: true

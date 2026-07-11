@@ -1,7 +1,7 @@
 ---
 title: "Bhesh Kumar Karki"
 description: "Bhesh Kumar Karki is a Mid-career Biochar researcher at Tribhuvan University in NP. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.983926
+date: 2026-07-11T12:53:41.274139
 url: "/cdr-researcher-census/researchers/bhesh-kumar-karki-a5008251/"
 layout: "researcher"
 hiddenInHomeList: true

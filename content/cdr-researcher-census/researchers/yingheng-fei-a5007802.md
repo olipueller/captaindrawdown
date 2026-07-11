@@ -1,7 +1,7 @@
 ---
 title: "Ying‐heng Fei"
 description: "Ying‐heng Fei is a Senior Biochar researcher at Guangzhou University in CN. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.919373
+date: 2026-07-11T12:53:40.134949
 url: "/cdr-researcher-census/researchers/yingheng-fei-a5007802/"
 layout: "researcher"
 hiddenInHomeList: true

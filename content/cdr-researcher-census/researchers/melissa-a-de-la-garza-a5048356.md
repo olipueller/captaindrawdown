@@ -1,7 +1,7 @@
 ---
 title: "Melissa A. de la Garza"
 description: "Melissa A. de la Garza is a Senior General CDR researcher at The University of Texas MD Anderson Cancer Center in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.322068
+date: 2026-07-11T12:53:41.549519
 url: "/cdr-researcher-census/researchers/melissa-a-de-la-garza-a5048356/"
 layout: "researcher"
 hiddenInHomeList: true

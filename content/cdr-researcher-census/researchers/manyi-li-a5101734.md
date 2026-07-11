@@ -1,7 +1,7 @@
 ---
 title: "Manyi Li"
 description: "Manyi Li is a Senior Soil Carbon researcher at Shandong University in CN. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.123046
+date: 2026-07-11T12:53:40.347187
 url: "/cdr-researcher-census/researchers/manyi-li-a5101734/"
 layout: "researcher"
 hiddenInHomeList: true

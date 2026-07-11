@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Wang"
 description: "Yuxin Wang is a Mid-career Biochar researcher at Jiangsu University of Science and Technology in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.826026
+date: 2026-07-11T12:53:41.206422
 url: "/cdr-researcher-census/researchers/yuxin-wang-a5038916/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qing Wang"
 description: "Qing Wang is a Senior Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.498388
+date: 2026-07-11T12:53:40.712426
 url: "/cdr-researcher-census/researchers/qing-wang-a5100434/"
 layout: "researcher"
 hiddenInHomeList: true

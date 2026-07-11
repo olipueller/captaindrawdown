@@ -1,7 +1,7 @@
 ---
 title: "Siri Veland"
 description: "Siri Veland is a Senior Ocean CDR researcher at San Jose State University in US. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.022065
+date: 2026-07-11T12:53:40.243108
 url: "/cdr-researcher-census/researchers/siri-veland-a5080140/"
 layout: "researcher"
 hiddenInHomeList: true

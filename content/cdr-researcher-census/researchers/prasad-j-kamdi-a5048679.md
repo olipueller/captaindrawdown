@@ -1,7 +1,7 @@
 ---
 title: "Prasad J. Kamdi"
 description: "Prasad J. Kamdi is a Mid-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.239355
+date: 2026-07-11T12:53:41.475856
 url: "/cdr-researcher-census/researchers/prasad-j-kamdi-a5048679/"
 layout: "researcher"
 hiddenInHomeList: true

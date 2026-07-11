@@ -1,7 +1,7 @@
 ---
 title: "Yingxue Xuan"
 description: "Yingxue Xuan is a Mid-career Soil Carbon researcher at Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.335210
+date: 2026-07-11T12:53:40.538587
 url: "/cdr-researcher-census/researchers/yingxue-xuan-a5004454/"
 layout: "researcher"
 hiddenInHomeList: true

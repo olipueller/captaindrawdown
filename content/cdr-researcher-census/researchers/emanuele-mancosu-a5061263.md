@@ -1,7 +1,7 @@
 ---
 title: "Emanuele Mancosu"
 description: "Emanuele Mancosu is a Mid-career Soil Carbon researcher at Universidad de Málaga in ES. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.240256
+date: 2026-07-11T12:53:41.476682
 url: "/cdr-researcher-census/researchers/emanuele-mancosu-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nardi Nardi"
 description: "Nardi Nardi is a Mid-career Soil Carbon researcher at APLA Health in US. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.193154
+date: 2026-07-11T12:53:41.433055
 url: "/cdr-researcher-census/researchers/nardi-nardi-a5012813/"
 layout: "researcher"
 hiddenInHomeList: true

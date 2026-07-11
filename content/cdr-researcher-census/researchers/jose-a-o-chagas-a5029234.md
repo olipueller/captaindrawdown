@@ -1,7 +1,7 @@
 ---
 title: "José A. O. Chagas"
 description: "José A. O. Chagas is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.189565
+date: 2026-07-11T12:53:41.429343
 url: "/cdr-researcher-census/researchers/jose-a-o-chagas-a5029234/"
 layout: "researcher"
 hiddenInHomeList: true

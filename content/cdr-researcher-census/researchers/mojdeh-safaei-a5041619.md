@@ -1,7 +1,7 @@
 ---
 title: "Mojdeh Safaei"
 description: "Mojdeh Safaei is a Mid-career Soil Carbon researcher at Justus-Liebig-Universität Gießen in DE. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.145122
+date: 2026-07-11T12:53:41.388656
 url: "/cdr-researcher-census/researchers/mojdeh-safaei-a5041619/"
 layout: "researcher"
 hiddenInHomeList: true

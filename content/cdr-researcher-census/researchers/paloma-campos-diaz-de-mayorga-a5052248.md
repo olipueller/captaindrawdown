@@ -1,7 +1,7 @@
 ---
 title: "Paloma Campos Díaz de Mayorga"
 description: "Paloma Campos Díaz de Mayorga is a Senior Soil Carbon researcher. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.124423
+date: 2026-07-11T12:53:41.369397
 url: "/cdr-researcher-census/researchers/paloma-campos-diaz-de-mayorga-a5052248/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marta Petrillo"
 description: "Marta Petrillo is a Mid-career Soil Carbon researcher at Free University of Bozen-Bolzano in IT. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.680323
+date: 2026-07-11T12:53:40.929674
 url: "/cdr-researcher-census/researchers/marta-petrillo-a5075994/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Peng Chen"
 description: "Peng Chen is a Mid-career Biochar researcher at Kansas State University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.188232
+date: 2026-07-11T12:53:41.427996
 url: "/cdr-researcher-census/researchers/peng-chen-a5100693/"
 layout: "researcher"
 hiddenInHomeList: true

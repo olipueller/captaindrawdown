@@ -1,7 +1,7 @@
 ---
 title: "Qicheng Xu"
 description: "Qicheng Xu is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.942911
+date: 2026-07-11T12:53:40.160042
 url: "/cdr-researcher-census/researchers/qicheng-xu-a5052454/"
 layout: "researcher"
 hiddenInHomeList: true

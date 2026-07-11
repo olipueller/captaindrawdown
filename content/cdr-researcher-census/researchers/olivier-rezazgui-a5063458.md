@@ -1,7 +1,7 @@
 ---
 title: "Olivier Rezazgui"
 description: "Olivier Rezazgui is a Mid-career Biochar researcher at Cegep de Trois-Rivieres in CA. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.081669
+date: 2026-07-11T12:53:41.329972
 url: "/cdr-researcher-census/researchers/olivier-rezazgui-a5063458/"
 layout: "researcher"
 hiddenInHomeList: true

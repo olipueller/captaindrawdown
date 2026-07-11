@@ -1,7 +1,7 @@
 ---
 title: "Santosh Kumar Verma"
 description: "Santosh Kumar Verma is a Senior General CDR researcher at State Forensic Science Laboratory in IN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.246786
+date: 2026-07-11T12:53:40.448747
 url: "/cdr-researcher-census/researchers/santosh-kumar-verma-a5103014/"
 layout: "researcher"
 hiddenInHomeList: true

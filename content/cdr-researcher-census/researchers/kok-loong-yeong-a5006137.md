@@ -1,7 +1,7 @@
 ---
 title: "Kok Loong Yeong"
 description: "Kok Loong Yeong is a Mid-career General CDR researcher at University of Sheffield in GB. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.250225
+date: 2026-07-11T12:53:40.451923
 url: "/cdr-researcher-census/researchers/kok-loong-yeong-a5006137/"
 layout: "researcher"
 hiddenInHomeList: true

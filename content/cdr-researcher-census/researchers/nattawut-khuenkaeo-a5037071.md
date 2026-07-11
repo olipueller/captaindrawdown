@@ -1,7 +1,7 @@
 ---
 title: "Nattawut Khuenkaeo"
 description: "Nattawut Khuenkaeo is a Mid-career Biochar researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.578783
+date: 2026-07-11T12:53:40.795555
 url: "/cdr-researcher-census/researchers/nattawut-khuenkaeo-a5037071/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jožica Gričar"
 description: "Jožica Gričar is a Senior Soil Carbon researcher at Slovenian Forestry Institute in SI. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.060465
+date: 2026-07-11T12:53:40.283054
 url: "/cdr-researcher-census/researchers/jozica-gricar-a5107908/"
 layout: "researcher"
 hiddenInHomeList: true

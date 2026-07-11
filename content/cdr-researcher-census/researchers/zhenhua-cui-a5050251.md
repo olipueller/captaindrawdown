@@ -1,7 +1,7 @@
 ---
 title: "Zhenhua Cui"
 description: "Zhenhua Cui is an Early-career Biochar researcher at Institute of New Materials in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.183425
+date: 2026-07-11T12:53:41.423250
 url: "/cdr-researcher-census/researchers/zhenhua-cui-a5050251/"
 layout: "researcher"
 hiddenInHomeList: true

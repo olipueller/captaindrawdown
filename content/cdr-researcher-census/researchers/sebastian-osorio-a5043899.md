@@ -1,7 +1,7 @@
 ---
 title: "Sebastián Osorio"
 description: "Sebastián Osorio is a Mid-career General CDR researcher at Potsdam-Institut für Klimafolgenforschung  eV in DE. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.069550
+date: 2026-07-11T12:53:40.291986
 url: "/cdr-researcher-census/researchers/sebastian-osorio-a5043899/"
 layout: "researcher"
 hiddenInHomeList: true

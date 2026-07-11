@@ -1,7 +1,7 @@
 ---
 title: "Amanda Silva Parra"
 description: "Amanda Silva Parra is a Senior Soil Carbon researcher at Universidad de los Llanos in CO. With 54 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.770833
+date: 2026-07-11T12:53:41.111376
 url: "/cdr-researcher-census/researchers/amanda-silva-parra-a5087297/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Erica Erlanger"
 description: "Erica Erlanger is a Mid-career Enhanced Weathering researcher at Geological Institute in RU. With 37 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.624448
+date: 2026-07-11T12:53:40.843928
 url: "/cdr-researcher-census/researchers/erica-erlanger-a5079785/"
 layout: "researcher"
 hiddenInHomeList: true

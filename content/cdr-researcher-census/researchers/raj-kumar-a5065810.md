@@ -1,7 +1,7 @@
 ---
 title: "Raj Kumar"
 description: "Raj Kumar is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 153 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.105600
+date: 2026-07-11T12:53:40.329416
 url: "/cdr-researcher-census/researchers/raj-kumar-a5065810/"
 layout: "researcher"
 hiddenInHomeList: true

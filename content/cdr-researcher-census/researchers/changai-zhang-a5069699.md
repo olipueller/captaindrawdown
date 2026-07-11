@@ -1,7 +1,7 @@
 ---
 title: "Changai Zhang"
 description: "Changai Zhang is a Senior Biochar researcher at Zhejiang University of Science and Technology in CN. With 44 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.006610
+date: 2026-07-11T12:53:40.227754
 url: "/cdr-researcher-census/researchers/changai-zhang-a5069699/"
 layout: "researcher"
 hiddenInHomeList: true

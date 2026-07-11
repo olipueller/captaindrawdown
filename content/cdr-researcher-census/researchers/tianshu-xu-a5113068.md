@@ -1,7 +1,7 @@
 ---
 title: "Tianshu Xu"
 description: "Tianshu Xu is a Mid-career General CDR researcher at Target (United States) in US. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.282528
+date: 2026-07-11T12:53:41.515019
 url: "/cdr-researcher-census/researchers/tianshu-xu-a5113068/"
 layout: "researcher"
 hiddenInHomeList: true

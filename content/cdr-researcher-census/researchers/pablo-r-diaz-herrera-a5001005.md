@@ -1,7 +1,7 @@
 ---
 title: "Pablo R. Díaz-Herrera"
 description: "Pablo R. Díaz-Herrera is a Mid-career General CDR researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.435587
+date: 2026-07-11T12:53:41.641437
 url: "/cdr-researcher-census/researchers/pablo-r-diaz-herrera-a5001005/"
 layout: "researcher"
 hiddenInHomeList: true

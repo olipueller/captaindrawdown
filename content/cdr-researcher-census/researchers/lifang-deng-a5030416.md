@@ -1,7 +1,7 @@
 ---
 title: "Lifang Deng"
 description: "Lifang Deng is a Senior Soil Carbon researcher at South China Agricultural University College of Agriculture in CN. With 47 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.907710
+date: 2026-07-11T12:53:40.121522
 url: "/cdr-researcher-census/researchers/lifang-deng-a5030416/"
 layout: "researcher"
 hiddenInHomeList: true

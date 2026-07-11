@@ -1,7 +1,7 @@
 ---
 title: "Xiumei Zhan"
 description: "Xiumei Zhan is an Early-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.311555
+date: 2026-07-11T12:53:41.539835
 url: "/cdr-researcher-census/researchers/xiumei-zhan-a5084151/"
 layout: "researcher"
 hiddenInHomeList: true

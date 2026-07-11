@@ -1,7 +1,7 @@
 ---
 title: "Zengbing Liu"
 description: "Zengbing Liu is a Senior Soil Carbon researcher at Improvement Service in GB. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.999881
+date: 2026-07-11T12:53:40.220638
 url: "/cdr-researcher-census/researchers/zengbing-liu-a5090784/"
 layout: "researcher"
 hiddenInHomeList: true

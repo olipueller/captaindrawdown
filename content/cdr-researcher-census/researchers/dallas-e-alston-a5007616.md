@@ -1,7 +1,7 @@
 ---
 title: "Dallas E. Alston"
 description: "Dallas E. Alston is a Senior Soil Carbon researcher at University of Puerto Rico-Mayaguez in PR. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.299263
+date: 2026-07-11T12:53:41.529126
 url: "/cdr-researcher-census/researchers/dallas-e-alston-a5007616/"
 layout: "researcher"
 hiddenInHomeList: true

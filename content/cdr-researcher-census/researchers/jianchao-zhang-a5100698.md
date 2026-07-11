@@ -1,7 +1,7 @@
 ---
 title: "Jianchao Zhang"
 description: "Jianchao Zhang is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 27 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.973745
+date: 2026-07-11T12:53:40.192747
 url: "/cdr-researcher-census/researchers/jianchao-zhang-a5100698/"
 layout: "researcher"
 hiddenInHomeList: true

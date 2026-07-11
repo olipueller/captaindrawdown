@@ -1,7 +1,7 @@
 ---
 title: "Keneth Reátegui"
 description: "Keneth Reátegui is a Senior Soil Carbon researcher at Universidad Nacional Intercultural de la Amazonía in PE. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.731339
+date: 2026-07-11T12:53:41.029727
 url: "/cdr-researcher-census/researchers/keneth-reategui-a5086691/"
 layout: "researcher"
 hiddenInHomeList: true

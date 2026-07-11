@@ -1,7 +1,7 @@
 ---
 title: "Philip J. Swoboda"
 description: "Philip J. Swoboda is a Senior General CDR researcher at Serviceplan (Germany) in DE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.652182
+date: 2026-07-11T12:53:40.872594
 url: "/cdr-researcher-census/researchers/philip-j-swoboda-a5069482/"
 layout: "researcher"
 hiddenInHomeList: true

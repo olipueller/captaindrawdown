@@ -1,7 +1,7 @@
 ---
 title: "Kalidas Mainali"
 description: "Kalidas Mainali is a Mid-career Biochar researcher at Eastern Regional Research Center in US. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.505363
+date: 2026-07-11T12:53:40.719917
 url: "/cdr-researcher-census/researchers/kalidas-mainali-a5095381/"
 layout: "researcher"
 hiddenInHomeList: true

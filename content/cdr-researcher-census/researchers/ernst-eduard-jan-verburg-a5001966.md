@@ -1,7 +1,7 @@
 ---
 title: "Ernst Eduard Jan Verburg"
 description: "Ernst Eduard Jan Verburg is a Mid-career Soil Carbon researcher at University of Saskatchewan in CA. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.909492
+date: 2026-07-11T12:53:41.243489
 url: "/cdr-researcher-census/researchers/ernst-eduard-jan-verburg-a5001966/"
 layout: "researcher"
 hiddenInHomeList: true

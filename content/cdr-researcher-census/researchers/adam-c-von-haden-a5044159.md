@@ -1,7 +1,7 @@
 ---
 title: "Adam C. von Haden"
 description: "Adam C. von Haden is a Mid-career Soil Carbon researcher at University of Wisconsin System in US. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.204351
+date: 2026-07-11T12:53:40.404875
 url: "/cdr-researcher-census/researchers/adam-c-von-haden-a5044159/"
 layout: "researcher"
 hiddenInHomeList: true

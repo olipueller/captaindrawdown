@@ -1,7 +1,7 @@
 ---
 title: "Marie Waschka"
 description: "Marie Waschka is a Senior General CDR researcher at Australian National University in AU. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.816309
+date: 2026-07-11T12:53:41.199127
 url: "/cdr-researcher-census/researchers/marie-waschka-a5025685/"
 layout: "researcher"
 hiddenInHomeList: true

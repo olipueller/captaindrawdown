@@ -1,7 +1,7 @@
 ---
 title: "Hamid Reza Akbari"
 description: "Hamid Reza Akbari is a Mid-career Enhanced Weathering researcher at Razi University in IR. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.258374
+date: 2026-07-11T12:53:41.493259
 url: "/cdr-researcher-census/researchers/hamid-reza-akbari-a5103991/"
 layout: "researcher"
 hiddenInHomeList: true

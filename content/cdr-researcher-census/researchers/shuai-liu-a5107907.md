@@ -1,7 +1,7 @@
 ---
 title: "Shuai Liu"
 description: "Shuai Liu is a Mid-career Soil Carbon researcher at Institute of Soil Science in CN. With 24 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.024416
+date: 2026-07-11T12:53:40.245437
 url: "/cdr-researcher-census/researchers/shuai-liu-a5107907/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Priya Bhattacharya"
 description: "Priya Bhattacharya is a Mid-career Soil Carbon researcher at Indian Institute of Technology Kharagpur in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.393406
+date: 2026-07-11T12:53:41.599573
 url: "/cdr-researcher-census/researchers/priya-bhattacharya-a5026539/"
 layout: "researcher"
 hiddenInHomeList: true

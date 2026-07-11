@@ -1,7 +1,7 @@
 ---
 title: "Beatrice Malchiodi"
 description: "Beatrice Malchiodi is a Mid-career General CDR researcher at École Polytechnique Fédérale de Lausanne in CH. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.988533
+date: 2026-07-11T12:53:41.276729
 url: "/cdr-researcher-census/researchers/beatrice-malchiodi-a5060534/"
 layout: "researcher"
 hiddenInHomeList: true

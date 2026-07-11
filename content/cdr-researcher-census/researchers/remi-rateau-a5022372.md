@@ -1,7 +1,7 @@
 ---
 title: "Rémi Rateau"
 description: "Rémi Rateau is a Mid-career General CDR researcher at Trinity College Dublin in IE. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.615403
+date: 2026-07-11T12:53:40.834106
 url: "/cdr-researcher-census/researchers/remi-rateau-a5022372/"
 layout: "researcher"
 hiddenInHomeList: true

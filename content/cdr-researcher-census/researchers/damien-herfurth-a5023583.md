@@ -1,7 +1,7 @@
 ---
 title: "Damien Herfurth"
 description: "Damien Herfurth is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.989779
+date: 2026-07-11T12:53:41.276916
 url: "/cdr-researcher-census/researchers/damien-herfurth-a5023583/"
 layout: "researcher"
 hiddenInHomeList: true

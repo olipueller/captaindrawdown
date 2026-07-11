@@ -1,7 +1,7 @@
 ---
 title: "Andrew Dopheide"
 description: "Andrew Dopheide is a Senior Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.997499
+date: 2026-07-11T12:53:40.218080
 url: "/cdr-researcher-census/researchers/andrew-dopheide-a5019615/"
 layout: "researcher"
 hiddenInHomeList: true

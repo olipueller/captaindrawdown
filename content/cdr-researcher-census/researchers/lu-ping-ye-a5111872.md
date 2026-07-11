@@ -1,7 +1,7 @@
 ---
 title: "Lu-Ping Ye"
 description: "Lu-Ping Ye is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.013897
+date: 2026-07-11T12:53:41.288271
 url: "/cdr-researcher-census/researchers/lu-ping-ye-a5111872/"
 layout: "researcher"
 hiddenInHomeList: true

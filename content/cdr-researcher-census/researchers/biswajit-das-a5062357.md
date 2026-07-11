@@ -1,7 +1,7 @@
 ---
 title: "Biswajit Das"
 description: "Biswajit Das is a Senior Soil Carbon researcher at National Institute of Technology Patna in IN. With 61 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.218011
+date: 2026-07-11T12:53:40.419111
 url: "/cdr-researcher-census/researchers/biswajit-das-a5062357/"
 layout: "researcher"
 hiddenInHomeList: true

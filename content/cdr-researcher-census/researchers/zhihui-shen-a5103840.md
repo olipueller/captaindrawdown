@@ -1,7 +1,7 @@
 ---
 title: "Zhihui Shen"
 description: "Zhihui Shen is a Senior Soil Carbon researcher at Guizhou University in CN. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.546386
+date: 2026-07-11T12:53:40.762710
 url: "/cdr-researcher-census/researchers/zhihui-shen-a5103840/"
 layout: "researcher"
 hiddenInHomeList: true

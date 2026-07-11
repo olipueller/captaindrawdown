@@ -1,7 +1,7 @@
 ---
 title: "Malika Oubohssaine"
 description: "Malika Oubohssaine is a Mid-career General CDR researcher at Mohammed V University in MA. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.348886
+date: 2026-07-11T12:53:40.553007
 url: "/cdr-researcher-census/researchers/malika-oubohssaine-a5026558/"
 layout: "researcher"
 hiddenInHomeList: true

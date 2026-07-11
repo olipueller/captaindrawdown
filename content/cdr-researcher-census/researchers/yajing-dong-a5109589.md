@@ -1,7 +1,7 @@
 ---
 title: "Yajing Dong"
 description: "Yajing Dong is a Mid-career Soil Carbon researcher at Hospital of Hebei Province in CN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.378020
+date: 2026-07-11T12:53:41.585636
 url: "/cdr-researcher-census/researchers/yajing-dong-a5109589/"
 layout: "researcher"
 hiddenInHomeList: true

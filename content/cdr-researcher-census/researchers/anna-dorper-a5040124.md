@@ -1,7 +1,7 @@
 ---
 title: "Anna Dörper"
 description: "Anna Dörper is a Mid-career General CDR researcher at Wageningen University & Research in NL. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.841789
+date: 2026-07-11T12:53:41.215280
 url: "/cdr-researcher-census/researchers/anna-dorper-a5040124/"
 layout: "researcher"
 hiddenInHomeList: true

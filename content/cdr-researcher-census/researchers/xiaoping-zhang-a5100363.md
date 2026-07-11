@@ -1,7 +1,7 @@
 ---
 title: "Xiaoping Zhang"
 description: "Xiaoping Zhang is a Senior Soil Carbon researcher at China National Bamboo Research Center in CN. With 167 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.824518
+date: 2026-07-11T12:53:40.024510
 url: "/cdr-researcher-census/researchers/xiaoping-zhang-a5100363/"
 layout: "researcher"
 hiddenInHomeList: true

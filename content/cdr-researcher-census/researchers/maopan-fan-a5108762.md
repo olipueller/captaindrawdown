@@ -1,7 +1,7 @@
 ---
 title: "Maopan Fan"
 description: "Maopan Fan is a Mid-career Enhanced Weathering researcher at Yunnan Agricultural University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.747727
+date: 2026-07-11T12:53:41.064971
 url: "/cdr-researcher-census/researchers/maopan-fan-a5108762/"
 layout: "researcher"
 hiddenInHomeList: true

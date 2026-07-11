@@ -1,7 +1,7 @@
 ---
 title: "Jinzhi Ni"
 description: "Jinzhi Ni is a Senior Biochar researcher at Fujian Normal University in CN. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.014614
+date: 2026-07-11T12:53:40.235699
 url: "/cdr-researcher-census/researchers/jinzhi-ni-a5017823/"
 layout: "researcher"
 hiddenInHomeList: true

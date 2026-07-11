@@ -1,7 +1,7 @@
 ---
 title: "Thirasant Boonupara"
 description: "Thirasant Boonupara is a Mid-career Soil Carbon researcher at Chiang Mai University in TH. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.611371
+date: 2026-07-11T12:53:40.830019
 url: "/cdr-researcher-census/researchers/thirasant-boonupara-a5070916/"
 layout: "researcher"
 hiddenInHomeList: true

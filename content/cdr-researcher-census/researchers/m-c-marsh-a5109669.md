@@ -1,7 +1,7 @@
 ---
 title: "M. C. Marsh"
 description: "M. C. Marsh is a Senior General CDR researcher at Trimeric (United States) in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.429949
+date: 2026-07-11T12:53:40.637835
 url: "/cdr-researcher-census/researchers/m-c-marsh-a5109669/"
 layout: "researcher"
 hiddenInHomeList: true

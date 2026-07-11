@@ -1,7 +1,7 @@
 ---
 title: "Rémi Cardinael"
 description: "Rémi Cardinael is a Senior Soil Carbon researcher at CIRAD in FR. With 152 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.814998
+date: 2026-07-11T12:53:40.012933
 url: "/cdr-researcher-census/researchers/remi-cardinael-a5048041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 33 |
 | Citations | 4,390 |
 | Publications | 152 |
-| CDR Focus | 11.8% |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

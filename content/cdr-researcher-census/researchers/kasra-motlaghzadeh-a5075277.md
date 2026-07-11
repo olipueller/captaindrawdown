@@ -1,7 +1,7 @@
 ---
 title: "Kasra Motlaghzadeh"
 description: "Kasra Motlaghzadeh is a Mid-career General CDR researcher at University of Waterloo in CA. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.659345
+date: 2026-07-11T12:53:40.879530
 url: "/cdr-researcher-census/researchers/kasra-motlaghzadeh-a5075277/"
 layout: "researcher"
 hiddenInHomeList: true

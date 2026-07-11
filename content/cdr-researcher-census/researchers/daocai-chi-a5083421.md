@@ -1,7 +1,7 @@
 ---
 title: "Daocai Chi"
 description: "Daocai Chi is a Senior Biochar researcher at Shenyang Agricultural University in CN. With 107 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.913434
+date: 2026-07-11T12:53:40.127709
 url: "/cdr-researcher-census/researchers/daocai-chi-a5083421/"
 layout: "researcher"
 hiddenInHomeList: true

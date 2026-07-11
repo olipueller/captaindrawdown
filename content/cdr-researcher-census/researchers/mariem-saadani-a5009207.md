@@ -1,7 +1,7 @@
 ---
 title: "Mariem Saadani"
 description: "Mariem Saadani is a Mid-career Soil Carbon researcher at Martin Luther University Halle-Wittenberg in DE. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.195445
+date: 2026-07-11T12:53:41.435329
 url: "/cdr-researcher-census/researchers/mariem-saadani-a5009207/"
 layout: "researcher"
 hiddenInHomeList: true

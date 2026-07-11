@@ -1,7 +1,7 @@
 ---
 title: "Longhao Wu"
 description: "Longhao Wu is a Mid-career General CDR researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.674417
+date: 2026-07-11T12:53:40.922325
 url: "/cdr-researcher-census/researchers/longhao-wu-a5019682/"
 layout: "researcher"
 hiddenInHomeList: true

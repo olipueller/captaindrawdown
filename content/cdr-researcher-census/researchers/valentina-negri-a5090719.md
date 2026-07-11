@@ -1,7 +1,7 @@
 ---
 title: "Valentina Negri"
 description: "Valentina Negri is a Mid-career General CDR researcher at ETH Zurich in CH. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.787753
+date: 2026-07-11T12:53:41.147415
 url: "/cdr-researcher-census/researchers/valentina-negri-a5090719/"
 layout: "researcher"
 hiddenInHomeList: true

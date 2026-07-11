@@ -1,7 +1,7 @@
 ---
 title: "Urs Hofmann Elizondo"
 description: "Urs Hofmann Elizondo is a Mid-career Ocean CDR researcher at University of Bern in CH. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.525499
+date: 2026-07-11T12:53:40.741050
 url: "/cdr-researcher-census/researchers/urs-hofmann-elizondo-a5090356/"
 layout: "researcher"
 hiddenInHomeList: true

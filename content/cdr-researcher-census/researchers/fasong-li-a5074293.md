@@ -1,7 +1,7 @@
 ---
 title: "Fasong Li"
 description: "Fasong Li is a Senior General CDR researcher at Guangdong Academy of Sciences in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.205171
+date: 2026-07-11T12:53:40.405625
 url: "/cdr-researcher-census/researchers/fasong-li-a5074293/"
 layout: "researcher"
 hiddenInHomeList: true

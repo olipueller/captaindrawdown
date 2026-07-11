@@ -1,7 +1,7 @@
 ---
 title: "Hilaire Sorébou Sanni Worogo"
 description: "Hilaire Sorébou Sanni Worogo is a Mid-career Soil Carbon researcher. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.086173
+date: 2026-07-11T12:53:41.334529
 url: "/cdr-researcher-census/researchers/hilaire-sorebou-sanni-worogo-a5080529/"
 layout: "researcher"
 hiddenInHomeList: true

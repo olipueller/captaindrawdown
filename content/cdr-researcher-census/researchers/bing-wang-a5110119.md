@@ -1,7 +1,7 @@
 ---
 title: "Bing Wang"
 description: "Bing Wang is a Senior General CDR researcher at Cornell University in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.040853
+date: 2026-07-11T12:53:41.301065
 url: "/cdr-researcher-census/researchers/bing-wang-a5110119/"
 layout: "researcher"
 hiddenInHomeList: true

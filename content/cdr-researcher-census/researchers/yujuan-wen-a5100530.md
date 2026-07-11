@@ -1,7 +1,7 @@
 ---
 title: "Yujuan Wen"
 description: "Yujuan Wen is a Mid-career Biochar researcher at Shenyang University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.447011
+date: 2026-07-11T12:53:41.652872
 url: "/cdr-researcher-census/researchers/yujuan-wen-a5100530/"
 layout: "researcher"
 hiddenInHomeList: true

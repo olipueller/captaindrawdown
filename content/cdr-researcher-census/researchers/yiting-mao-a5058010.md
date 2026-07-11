@@ -1,7 +1,7 @@
 ---
 title: "Yiting Mao"
 description: "Yiting Mao is a Mid-career Biochar researcher at Zhejiang A & F University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.274252
+date: 2026-07-11T12:53:41.508258
 url: "/cdr-researcher-census/researchers/yiting-mao-a5058010/"
 layout: "researcher"
 hiddenInHomeList: true

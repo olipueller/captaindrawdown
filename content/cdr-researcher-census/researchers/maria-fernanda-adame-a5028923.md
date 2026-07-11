@@ -1,7 +1,7 @@
 ---
 title: "María Fernanda Adame"
 description: "María Fernanda Adame is an Eminent Soil Carbon researcher at Griffith University in AU. With 160 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.791633
+date: 2026-07-11T12:53:39.983947
 url: "/cdr-researcher-census/researchers/maria-fernanda-adame-a5028923/"
 layout: "researcher"
 hiddenInHomeList: true

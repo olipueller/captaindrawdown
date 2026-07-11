@@ -1,7 +1,7 @@
 ---
 title: "Prajakta P. Kamble"
 description: "Prajakta P. Kamble is a Mid-career Biochar researcher at Dr. D. Y. Patil Medical College, Hospital and Research Centre in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.109010
+date: 2026-07-11T12:53:41.355373
 url: "/cdr-researcher-census/researchers/prajakta-p-kamble-a5113963/"
 layout: "researcher"
 hiddenInHomeList: true

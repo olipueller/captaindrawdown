@@ -1,7 +1,7 @@
 ---
 title: "Ron Chance"
 description: "Ron Chance is a Senior General CDR researcher at Brighton Hospital in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.803305
+date: 2026-07-11T12:53:41.182212
 url: "/cdr-researcher-census/researchers/ron-chance-a5104652/"
 layout: "researcher"
 hiddenInHomeList: true

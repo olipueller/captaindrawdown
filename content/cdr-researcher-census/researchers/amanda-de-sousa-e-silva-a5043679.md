@@ -1,7 +1,7 @@
 ---
 title: "Amanda de Sousa e Silva"
 description: "Amanda de Sousa e Silva is a Mid-career Biochar researcher at Universidade Federal do Ceará in BR. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.558569
+date: 2026-07-11T12:53:40.775067
 url: "/cdr-researcher-census/researchers/amanda-de-sousa-e-silva-a5043679/"
 layout: "researcher"
 hiddenInHomeList: true

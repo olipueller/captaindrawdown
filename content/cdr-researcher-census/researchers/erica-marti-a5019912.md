@@ -1,7 +1,7 @@
 ---
 title: "Erica Marti"
 description: "Erica Marti is a Mid-career Biochar researcher at University of Nevada, Las Vegas in US. With 58 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.109081
+date: 2026-07-11T12:53:40.333026
 url: "/cdr-researcher-census/researchers/erica-marti-a5019912/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 14 |
 | Citations | 747 |
 | Publications | 58 |
-| CDR Focus | 5.2% |
+| CDR Focus | 13.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -56,7 +56,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 2. **Metal-Organic-Framework and Walnut Shell Biochar Composites for Lead and Hexavalent Chromium Removal from Aqueous Environments** (2024)
    0 citations · Biochar
 
-3. **A Study on Modified Biochars for the Removal of Trichloroethylene (TCE)** (2021)
+3. **Low-cost adsorbent for disinfection byproduct removal from drinking water** (2022)
+   0 citations · Biochar
+
+4. **Low-cost adsorbent for disinfection byproduct removal from drinking water** (2022)
+   0 citations · Biochar
+
+5. **Low-cost adsorbent for disinfection byproduct removal from drinking water** (2022)
+   0 citations · Biochar
+
+6. **Low-cost adsorbent for disinfection byproduct removal from drinking water** (2022)
+   0 citations · Biochar
+
+7. **Low-cost adsorbent for disinfection byproduct removal from drinking water** (2022)
+   0 citations · Biochar
+
+8. **A Study on Modified Biochars for the Removal of Trichloroethylene (TCE)** (2021)
    0 citations · Biochar
 
 ## External Profiles

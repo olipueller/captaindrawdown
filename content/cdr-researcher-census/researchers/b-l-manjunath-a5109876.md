@@ -1,7 +1,7 @@
 ---
 title: "B. L. Manjunath"
 description: "B. L. Manjunath is a Senior Soil Carbon researcher at Indian Institute of Horticultural Research in IN. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.388028
+date: 2026-07-11T12:53:40.593366
 url: "/cdr-researcher-census/researchers/b-l-manjunath-a5109876/"
 layout: "researcher"
 hiddenInHomeList: true

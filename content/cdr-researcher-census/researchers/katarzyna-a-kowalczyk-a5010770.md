@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna A. Kowalczyk"
 description: "Katarzyna A. Kowalczyk is a Senior Ocean CDR researcher at Uniwersytet Jagielloński w Krakowie in PL. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.910986
+date: 2026-07-11T12:53:41.244622
 url: "/cdr-researcher-census/researchers/katarzyna-a-kowalczyk-a5010770/"
 layout: "researcher"
 hiddenInHomeList: true

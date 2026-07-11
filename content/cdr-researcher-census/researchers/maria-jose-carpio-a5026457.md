@@ -1,7 +1,7 @@
 ---
 title: "María José Carpio"
 description: "María José Carpio is a Mid-career Soil Carbon researcher at Instituto de Ciencias Agrarias in ES. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.513376
+date: 2026-07-11T12:53:40.728524
 url: "/cdr-researcher-census/researchers/maria-jose-carpio-a5026457/"
 layout: "researcher"
 hiddenInHomeList: true

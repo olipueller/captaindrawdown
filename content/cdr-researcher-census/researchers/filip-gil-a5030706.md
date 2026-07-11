@@ -1,7 +1,7 @@
 ---
 title: "Filip Gil"
 description: "Filip Gil is a Mid-career Soil Carbon researcher at Wrocław University of Science and Technology in PL. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.816657
+date: 2026-07-11T12:53:41.199488
 url: "/cdr-researcher-census/researchers/filip-gil-a5030706/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hari Mohan Meena"
 description: "Hari Mohan Meena is a Mid-career Biochar researcher at University of Delhi in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.827497
+date: 2026-07-11T12:53:41.206748
 url: "/cdr-researcher-census/researchers/hari-mohan-meena-a5092734/"
 layout: "researcher"
 hiddenInHomeList: true

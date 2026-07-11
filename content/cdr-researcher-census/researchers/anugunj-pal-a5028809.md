@@ -1,7 +1,7 @@
 ---
 title: "Anugunj Pal"
 description: "Anugunj Pal is an Early-career Biochar researcher at National Kaohsiung Marine University in TW. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.359554
+date: 2026-07-11T12:53:40.564519
 url: "/cdr-researcher-census/researchers/anugunj-pal-a5028809/"
 layout: "researcher"
 hiddenInHomeList: true

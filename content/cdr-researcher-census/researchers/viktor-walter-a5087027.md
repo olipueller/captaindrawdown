@@ -1,7 +1,7 @@
 ---
 title: "Viktor Walter"
 description: "Viktor Walter is a Senior General CDR researcher at Region Västra Götaland in SE. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.345769
+date: 2026-07-11T12:53:40.549739
 url: "/cdr-researcher-census/researchers/viktor-walter-a5087027/"
 layout: "researcher"
 hiddenInHomeList: true

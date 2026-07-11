@@ -1,7 +1,7 @@
 ---
 title: "Katharina Meurer"
 description: "Katharina Meurer is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 91 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.992371
+date: 2026-07-11T12:53:40.212366
 url: "/cdr-researcher-census/researchers/katharina-meurer-a5067405/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaotian Mi"
 description: "Xiaotian Mi is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.185636
+date: 2026-07-11T12:53:41.425177
 url: "/cdr-researcher-census/researchers/xiaotian-mi-a5053905/"
 layout: "researcher"
 hiddenInHomeList: true

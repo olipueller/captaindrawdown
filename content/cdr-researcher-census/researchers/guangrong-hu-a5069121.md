@@ -1,7 +1,7 @@
 ---
 title: "Guangrong Hu"
 description: "Guangrong Hu is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.714568
+date: 2026-07-11T12:53:40.987028
 url: "/cdr-researcher-census/researchers/guangrong-hu-a5069121/"
 layout: "researcher"
 hiddenInHomeList: true

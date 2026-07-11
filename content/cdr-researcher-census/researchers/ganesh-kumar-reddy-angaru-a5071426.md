@@ -1,7 +1,7 @@
 ---
 title: "Ganesh Kumar Reddy Angaru"
 description: "Ganesh Kumar Reddy Angaru is a Mid-career Biochar researcher at Huaqiao University in CN. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.159318
+date: 2026-07-11T12:53:40.382827
 url: "/cdr-researcher-census/researchers/ganesh-kumar-reddy-angaru-a5071426/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yanlin Jiao"
 description: "Yanlin Jiao is a Mid-career Soil Carbon researcher at North China Electric Power University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.405143
+date: 2026-07-11T12:53:41.611445
 url: "/cdr-researcher-census/researchers/yanlin-jiao-a5068275/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Caroline Siqueira Gomide"
 description: "Caroline Siqueira Gomide is a Senior Soil Carbon researcher at Conselho Nacional de Desenvolvimento Científico e Tecnológico in BR. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.371858
+date: 2026-07-11T12:53:41.579509
 url: "/cdr-researcher-census/researchers/caroline-siqueira-gomide-a5083610/"
 layout: "researcher"
 hiddenInHomeList: true

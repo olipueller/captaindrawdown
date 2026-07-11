@@ -1,7 +1,7 @@
 ---
 title: "Jieyun Xiao"
 description: "Jieyun Xiao is an Early-career Soil Carbon researcher at Southwest University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.333792
+date: 2026-07-11T12:53:41.560414
 url: "/cdr-researcher-census/researchers/jieyun-xiao-a5005411/"
 layout: "researcher"
 hiddenInHomeList: true

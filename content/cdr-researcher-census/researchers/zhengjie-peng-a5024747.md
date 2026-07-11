@@ -1,7 +1,7 @@
 ---
 title: "Zhengjie Peng"
 description: "Zhengjie Peng is a Mid-career Biochar researcher at Hunan University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.298250
+date: 2026-07-11T12:53:41.528030
 url: "/cdr-researcher-census/researchers/zhengjie-peng-a5024747/"
 layout: "researcher"
 hiddenInHomeList: true

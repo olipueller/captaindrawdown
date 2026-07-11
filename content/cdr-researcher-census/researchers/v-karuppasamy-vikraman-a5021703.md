@@ -1,7 +1,7 @@
 ---
 title: "V. Karuppasamy Vikraman"
 description: "V. Karuppasamy Vikraman is a Mid-career Biochar researcher at Amrita Vishwa Vidyapeetham in IN. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.984466
+date: 2026-07-11T12:53:41.274442
 url: "/cdr-researcher-census/researchers/v-karuppasamy-vikraman-a5021703/"
 layout: "researcher"
 hiddenInHomeList: true

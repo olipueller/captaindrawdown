@@ -1,7 +1,7 @@
 ---
 title: "John Dees"
 description: "John Dees is a Mid-career General CDR researcher at University of California, Berkeley in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.188518
+date: 2026-07-11T12:53:41.428334
 url: "/cdr-researcher-census/researchers/john-dees-a5035642/"
 layout: "researcher"
 hiddenInHomeList: true

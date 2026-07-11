@@ -1,7 +1,7 @@
 ---
 title: "Alla Yurova"
 description: "Alla Yurova is a Senior Soil Carbon researcher at NIEER in CN. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.003609
+date: 2026-07-11T12:53:40.224545
 url: "/cdr-researcher-census/researchers/alla-yurova-a5056790/"
 layout: "researcher"
 hiddenInHomeList: true

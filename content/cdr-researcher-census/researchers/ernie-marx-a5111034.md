@@ -1,7 +1,7 @@
 ---
 title: "Ernie Marx"
 description: "Ernie Marx is a Mid-career Soil Carbon researcher at Colorado State University in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.133241
+date: 2026-07-11T12:53:40.357339
 url: "/cdr-researcher-census/researchers/ernie-marx-a5111034/"
 layout: "researcher"
 hiddenInHomeList: true

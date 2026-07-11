@@ -1,7 +1,7 @@
 ---
 title: "Kulbir Kaur Ghuman"
 description: "Kulbir Kaur Ghuman is a Senior General CDR researcher at Institut national de la recherche scientifique in CA. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.876864
+date: 2026-07-11T12:53:40.085871
 url: "/cdr-researcher-census/researchers/kulbir-kaur-ghuman-a5026580/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sunny Kumar"
 description: "Sunny Kumar is a Mid-career General CDR researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.079747
+date: 2026-07-11T12:53:41.327784
 url: "/cdr-researcher-census/researchers/sunny-kumar-a5007530/"
 layout: "researcher"
 hiddenInHomeList: true

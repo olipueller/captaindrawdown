@@ -1,7 +1,7 @@
 ---
 title: "Mardin Abdalqadir"
 description: "Mardin Abdalqadir is a Mid-career Enhanced Weathering researcher at Newcastle University in GB. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.694368
+date: 2026-07-11T12:53:40.951900
 url: "/cdr-researcher-census/researchers/mardin-abdalqadir-a5034890/"
 layout: "researcher"
 hiddenInHomeList: true

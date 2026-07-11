@@ -1,7 +1,7 @@
 ---
 title: "Mahnaz Roohi"
 description: "Mahnaz Roohi is a Mid-career Soil Carbon researcher at Government College University, Faisalabad in PK. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.448716
+date: 2026-07-11T12:53:40.658024
 url: "/cdr-researcher-census/researchers/mahnaz-roohi-a5079893/"
 layout: "researcher"
 hiddenInHomeList: true

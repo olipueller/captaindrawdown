@@ -1,7 +1,7 @@
 ---
 title: "Jelena Horvatinec"
 description: "Jelena Horvatinec is a Mid-career Soil Carbon researcher at University of Zagreb in HR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.433650
+date: 2026-07-11T12:53:40.642104
 url: "/cdr-researcher-census/researchers/jelena-horvatinec-a5023112/"
 layout: "researcher"
 hiddenInHomeList: true

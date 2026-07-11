@@ -1,7 +1,7 @@
 ---
 title: "Fanjiang Zeng"
 description: "Fanjiang Zeng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 158 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.841040
+date: 2026-07-11T12:53:40.044419
 url: "/cdr-researcher-census/researchers/fanjiang-zeng-a5101834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 32 |
 | Citations | 3,188 |
 | Publications | 158 |
-| CDR Focus | 7.0% |
+| CDR Focus | 7.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Long‐term fate of photosynthetic carbon in desert plants: microbial necromass‐driven pathways for soil carbon stabilization** (2025)
    2 citations · Soil Carbon
 
-10. **Microbial carbon-cycling processes drives soil organic carbon accumulation during afforestation in hyper-arid regions** (2026)
-   0 citations · Soil Carbon
+10. **Shifts in microbial life-history strategies drive soil organic carbon accumulation during arid-land afforestation** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

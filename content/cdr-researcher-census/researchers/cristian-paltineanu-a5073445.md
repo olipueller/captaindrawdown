@@ -1,7 +1,7 @@
 ---
 title: "Cristian Paltineanu"
 description: "Cristian Paltineanu is a Senior Soil Carbon researcher at Institute for Soil Science and Agrochemistry Research in UA. With 66 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.105071
+date: 2026-07-11T12:53:40.328864
 url: "/cdr-researcher-census/researchers/cristian-paltineanu-a5073445/"
 layout: "researcher"
 hiddenInHomeList: true

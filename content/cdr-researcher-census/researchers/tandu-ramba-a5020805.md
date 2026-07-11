@@ -1,7 +1,7 @@
 ---
 title: "Tandu Ramba"
 description: "Tandu Ramba is an Early-career Soil Carbon researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.390492
+date: 2026-07-11T12:53:41.596555
 url: "/cdr-researcher-census/researchers/tandu-ramba-a5020805/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jakub Brichta"
 description: "Jakub Brichta is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.693076
+date: 2026-07-11T12:53:40.950434
 url: "/cdr-researcher-census/researchers/jakub-brichta-a5008058/"
 layout: "researcher"
 hiddenInHomeList: true

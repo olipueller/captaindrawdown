@@ -1,7 +1,7 @@
 ---
 title: "Dungang Wang"
 description: "Dungang Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.987169
+date: 2026-07-11T12:53:41.275893
 url: "/cdr-researcher-census/researchers/dungang-wang-a5104245/"
 layout: "researcher"
 hiddenInHomeList: true

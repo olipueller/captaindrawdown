@@ -1,7 +1,7 @@
 ---
 title: "Devin Todd"
 description: "Devin Todd is a Mid-career General CDR researcher at University of Victoria in CA. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.076245
+date: 2026-07-11T12:53:41.324464
 url: "/cdr-researcher-census/researchers/devin-todd-a5001197/"
 layout: "researcher"
 hiddenInHomeList: true

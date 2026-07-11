@@ -1,7 +1,7 @@
 ---
 title: "Zhanjun Wang"
 description: "Zhanjun Wang is a Mid-career Soil Carbon researcher at Zhejiang Normal University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.343873
+date: 2026-07-11T12:53:40.547798
 url: "/cdr-researcher-census/researchers/zhanjun-wang-a5115592/"
 layout: "researcher"
 hiddenInHomeList: true

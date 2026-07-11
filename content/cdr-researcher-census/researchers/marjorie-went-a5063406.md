@@ -1,7 +1,7 @@
 ---
 title: "Marjorie Went"
 description: "Marjorie Went is a Senior General CDR researcher at University of California, Berkeley in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.088871
+date: 2026-07-11T12:53:41.337088
 url: "/cdr-researcher-census/researchers/marjorie-went-a5063406/"
 layout: "researcher"
 hiddenInHomeList: true

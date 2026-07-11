@@ -1,7 +1,7 @@
 ---
 title: "Amanda Simson"
 description: "Amanda Simson is a Senior General CDR researcher at Cornell University in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.662648
+date: 2026-07-11T12:53:40.882831
 url: "/cdr-researcher-census/researchers/amanda-simson-a5085352/"
 layout: "researcher"
 hiddenInHomeList: true

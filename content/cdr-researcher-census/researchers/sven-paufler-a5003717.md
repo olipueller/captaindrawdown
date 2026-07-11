@@ -1,7 +1,7 @@
 ---
 title: "Sven Paufler"
 description: "Sven Paufler is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.314952
+date: 2026-07-11T12:53:41.543063
 url: "/cdr-researcher-census/researchers/sven-paufler-a5003717/"
 layout: "researcher"
 hiddenInHomeList: true

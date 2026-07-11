@@ -1,7 +1,7 @@
 ---
 title: "Paul Rößner"
-description: "Paul Rößner is a Mid-career General CDR researcher at University of Stuttgart in DE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.198773
+description: "Paul Rößner is a Mid-career DAC researcher at University of Stuttgart in DE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T12:53:41.438209
 url: "/cdr-researcher-census/researchers/paul-roner-a5068862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Stuttgart · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 136 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 15.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,7 +56,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Closing the Carbon Cycle in Plasma‐Based CO<sub>2</sub> Splitting – A Techno‐Economic Perspective** (2025)
    1 citations · DAC
 
-3. **Integrating Direct Air Capture Technology and Plasma Based Calcination for Sustainable Syngas and Concrete – An Experimental Investigation** (2026)
+3. **Integrating direct air capture technology and plasma based calcination for sustainable syngas and concrete : an experimental investigation** (2026)
+   0 citations · DAC
+
+4. **Integrating Direct Air Capture Technology and Plasma Based Calcination for Sustainable Syngas and Concrete – An Experimental Investigation** (2026)
    0 citations · DAC
 
 ## External Profiles

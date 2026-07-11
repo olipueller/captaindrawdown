@@ -1,7 +1,7 @@
 ---
 title: "Ho Jun Jang"
 description: "Ho Jun Jang is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.247202
+date: 2026-07-11T12:53:41.482865
 url: "/cdr-researcher-census/researchers/ho-jun-jang-a5067670/"
 layout: "researcher"
 hiddenInHomeList: true

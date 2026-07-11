@@ -1,7 +1,7 @@
 ---
 title: "Alexandra Tavasoli"
 description: "Alexandra Tavasoli is a Mid-career General CDR researcher at University of British Columbia in CA. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.907815
+date: 2026-07-11T12:53:40.121645
 url: "/cdr-researcher-census/researchers/alexandra-tavasoli-a5027031/"
 layout: "researcher"
 hiddenInHomeList: true

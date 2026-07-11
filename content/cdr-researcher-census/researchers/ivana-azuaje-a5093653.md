@@ -1,7 +1,7 @@
 ---
 title: "Ivana Azuaje"
 description: "Ivana Azuaje is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.104831
+date: 2026-07-11T12:53:41.351904
 url: "/cdr-researcher-census/researchers/ivana-azuaje-a5093653/"
 layout: "researcher"
 hiddenInHomeList: true

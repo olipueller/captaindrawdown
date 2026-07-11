@@ -1,7 +1,7 @@
 ---
 title: "Kees Jan van Groenigen"
 description: "Kees Jan van Groenigen is an Eminent Soil Carbon researcher at University of Exeter in GB. With 156 publications and an h-index of 59, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.772039
+date: 2026-07-11T12:53:39.951291
 url: "/cdr-researcher-census/researchers/kees-jan-van-groenigen-a5048463/"
 layout: "researcher"
 hiddenInHomeList: true

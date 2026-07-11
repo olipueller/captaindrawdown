@@ -1,7 +1,7 @@
 ---
 title: "Éric Macé"
 description: "Éric Macé is a Mid-career Ocean CDR researcher at Adaptation et Diversité en Milieu Marin in FR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.626914
+date: 2026-07-11T12:53:40.846561
 url: "/cdr-researcher-census/researchers/eric-mace-a5022395/"
 layout: "researcher"
 hiddenInHomeList: true

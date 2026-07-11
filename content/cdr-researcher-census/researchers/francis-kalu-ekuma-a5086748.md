@@ -1,7 +1,7 @@
 ---
 title: "Francis Kalu Ekuma"
 description: "Francis Kalu Ekuma is an Early-career Biochar researcher at Michael Okpara University of Agriculture in NG. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.212330
+date: 2026-07-11T12:53:41.450580
 url: "/cdr-researcher-census/researchers/francis-kalu-ekuma-a5086748/"
 layout: "researcher"
 hiddenInHomeList: true

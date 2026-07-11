@@ -1,7 +1,7 @@
 ---
 title: "Xiapu Gai"
 description: "Xiapu Gai is a Mid-career Soil Carbon researcher at Guizhou Academy of Agricultural Sciences in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.869363
+date: 2026-07-11T12:53:40.077687
 url: "/cdr-researcher-census/researchers/xiapu-gai-a5056604/"
 layout: "researcher"
 hiddenInHomeList: true

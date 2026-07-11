@@ -1,7 +1,7 @@
 ---
 title: "Huijie Xiao"
 description: "Huijie Xiao is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.213109
+date: 2026-07-11T12:53:40.413807
 url: "/cdr-researcher-census/researchers/huijie-xiao-a5103062/"
 layout: "researcher"
 hiddenInHomeList: true

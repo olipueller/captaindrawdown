@@ -1,7 +1,7 @@
 ---
 title: "William A. González"
 description: "William A. González is a Mid-career General CDR researcher at Universidad de Sevilla in ES. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.100558
+date: 2026-07-11T12:53:41.347830
 url: "/cdr-researcher-census/researchers/william-a-gonzalez-a5012524/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Liming Yin"
 description: "Liming Yin is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 43 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.998178
+date: 2026-07-11T12:53:40.218799
 url: "/cdr-researcher-census/researchers/liming-yin-a5039625/"
 layout: "researcher"
 hiddenInHomeList: true

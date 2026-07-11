@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Kaushal"
 description: "Rajesh Kaushal is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 163 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.894212
+date: 2026-07-11T12:53:40.106553
 url: "/cdr-researcher-census/researchers/rajesh-kaushal-a5040191/"
 layout: "researcher"
 hiddenInHomeList: true

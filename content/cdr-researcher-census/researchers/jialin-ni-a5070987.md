@@ -1,7 +1,7 @@
 ---
 title: "Jialin Ni"
 description: "Jialin Ni is a Senior Ocean CDR researcher at Jiangnan University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.418790
+date: 2026-07-11T12:53:41.624366
 url: "/cdr-researcher-census/researchers/jialin-ni-a5070987/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Md Mahabub Ul Anwar"
 description: "Md Mahabub Ul Anwar is a Mid-career Soil Carbon researcher at West Virginia University in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.495156
+date: 2026-07-11T12:53:40.709052
 url: "/cdr-researcher-census/researchers/md-mahabub-ul-anwar-a5078540/"
 layout: "researcher"
 hiddenInHomeList: true

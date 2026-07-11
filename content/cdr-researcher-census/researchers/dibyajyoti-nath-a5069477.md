@@ -1,7 +1,7 @@
 ---
 title: "Dibyajyoti Nath"
 description: "Dibyajyoti Nath is a Mid-career Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.546587
+date: 2026-07-11T12:53:40.762908
 url: "/cdr-researcher-census/researchers/dibyajyoti-nath-a5069477/"
 layout: "researcher"
 hiddenInHomeList: true

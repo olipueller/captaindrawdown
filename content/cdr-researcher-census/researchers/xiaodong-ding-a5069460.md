@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Ding"
 description: "Xiaodong Ding is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 96 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.834813
+date: 2026-07-11T12:53:40.037500
 url: "/cdr-researcher-census/researchers/xiaodong-ding-a5069460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 34 |
 | Citations | 3,401 |
 | Publications | 96 |
-| CDR Focus | 9.4% |
-| Trajectory | Stable |
+| CDR Focus | 11.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -74,8 +74,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Potential effects of laccase on the formation and accumulation of Fe-OM complexes in coastal saline paddy soil under straw and nitrogen fertilization** (2022)
    2 citations · Soil Carbon
 
-9. **Mineral‑fungal interactions in response to biochar amendment: implications for carbon storage in saline-alkali soil** (2025)
+9. **Long-term application of different organic materials enhance soil organic carbon stability and sequestration in saline-alkali paddy soils** (2026)
    0 citations · Biochar
+
+10. **Straw and nitrogen fertilization driving iron oxide transformation and soil carbon sequestration in saline paddy soils** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

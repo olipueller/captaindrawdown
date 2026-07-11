@@ -1,7 +1,7 @@
 ---
 title: "Pengfei Wen"
 description: "Pengfei Wen is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.764876
+date: 2026-07-11T12:53:41.098408
 url: "/cdr-researcher-census/researchers/pengfei-wen-a5048167/"
 layout: "researcher"
 hiddenInHomeList: true

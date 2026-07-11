@@ -1,7 +1,7 @@
 ---
 title: "Michael S. Shafer"
 description: "Michael S. Shafer is a Senior General CDR researcher at Heart Foundation in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.418971
+date: 2026-07-11T12:53:40.626429
 url: "/cdr-researcher-census/researchers/michael-s-shafer-a5101963/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Farghali"
 description: "Mohamed Farghali is an Eminent General CDR researcher at Kobe University in JP. With 75 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.780020
+date: 2026-07-11T12:53:39.966913
 url: "/cdr-researcher-census/researchers/mohamed-farghali-a5073724/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pranjali Priyadarshini"
 description: "Pranjali Priyadarshini is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 15 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.015114
+date: 2026-07-11T12:53:40.236084
 url: "/cdr-researcher-census/researchers/pranjali-priyadarshini-a5047724/"
 layout: "researcher"
 hiddenInHomeList: true

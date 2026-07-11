@@ -1,7 +1,7 @@
 ---
 title: "Shumaila Zubair"
 description: "Shumaila Zubair is a Mid-career Biochar researcher at Pakistan Institute of Nuclear Science and Technology in PK. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.572759
+date: 2026-07-11T12:53:40.789384
 url: "/cdr-researcher-census/researchers/shumaila-zubair-a5051721/"
 layout: "researcher"
 hiddenInHomeList: true

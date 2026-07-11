@@ -1,7 +1,7 @@
 ---
 title: "Riying Qi"
 description: "Riying Qi is a Mid-career Biochar researcher at Shenzhen University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.077310
+date: 2026-07-11T12:53:41.325475
 url: "/cdr-researcher-census/researchers/riying-qi-a5004801/"
 layout: "researcher"
 hiddenInHomeList: true

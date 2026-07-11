@@ -1,7 +1,7 @@
 ---
 title: "Shaopan Xia"
 description: "Shaopan Xia is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 47 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.902649
+date: 2026-07-11T12:53:40.115935
 url: "/cdr-researcher-census/researchers/shaopan-xia-a5049488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,815 |
 | Publications | 47 |
-| CDR Focus | 36.2% |
-| Trajectory | Stable |
+| CDR Focus | 44.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

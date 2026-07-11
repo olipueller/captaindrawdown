@@ -1,7 +1,7 @@
 ---
 title: "J. Kroeger"
 description: "J. Kroeger is a Senior General CDR researcher at Yale University in US. With 32 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.849731
+date: 2026-07-11T12:53:40.053922
 url: "/cdr-researcher-census/researchers/j-kroeger-a5070340/"
 layout: "researcher"
 hiddenInHomeList: true

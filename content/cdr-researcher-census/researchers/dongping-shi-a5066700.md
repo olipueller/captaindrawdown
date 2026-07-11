@@ -1,7 +1,7 @@
 ---
 title: "Dongping Shi"
 description: "Dongping Shi is a Mid-career Enhanced Weathering researcher at Zhejiang A & F University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.706837
+date: 2026-07-11T12:53:40.969929
 url: "/cdr-researcher-census/researchers/dongping-shi-a5066700/"
 layout: "researcher"
 hiddenInHomeList: true

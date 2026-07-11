@@ -1,7 +1,7 @@
 ---
 title: "Injun Park"
-description: "Injun Park is a Senior DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.391696
+description: "Injun Park is a Senior Enhanced Weathering researcher at Korea Advanced Institute of Science and Technology in KR. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T12:53:40.597074
 url: "/cdr-researcher-census/researchers/injun-park-a5065407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Korea Advanced Institute of Science and Technology · 🇰🇷 KR
 
 ## CDR Specialization
 
-**DAC**
+**Enhanced Weathering**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,25 +45,34 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 398 |
 | Publications | 34 |
-| CDR Focus | 5.9% |
+| CDR Focus | 8.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Solvent-Free Manufacturing of Electrified Structured Sorbents for Scalable Direct Air Capture** (2026)
+1. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption** (2025)
+   4 citations
+
+2. **Solvent-Free Manufacturing of Electrified Structured Sorbents for Scalable Direct Air Capture** (2026)
    1 citations
 
-2. **Sub-hour Rapid Cycling of Direct Air Capture Enabled by Engineered Hollow Fiber Sorbents** (2026)
+3. **Sub-hour Rapid Cycling of Direct Air Capture Enabled by Engineered Hollow Fiber Sorbents** (2026)
    1 citations
 
-3. **Scale-bridging solid adsorbents for direct air capture: integrating material chemistry, structured contactors, and advanced regeneration processes** (2026)
+4. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption (Adv. Mater. 45/2025)** (2025)
+   1 citations
+
+5. **Scale-bridging solid adsorbents for direct air capture: integrating material chemistry, structured contactors, and advanced regeneration processes** (2026)
    0 citations · DAC
 
-4. **Scale-Bridging Solid Adsorbents for Direct Air Capture: Integrating Material Chemistry, Structured Contactors, and Advanced Regeneration Processes** (2026)
+6. **Scale-Bridging Solid Adsorbents for Direct Air Capture: Integrating Material Chemistry, Structured Contactors, and Advanced Regeneration Processes** (2026)
    0 citations
 
-5. **Additive manufacturing of architected Ca(OH)2 monoliths for accelerated CO2 mineralization** (2026)
+7. **Additive manufacturing of architected Ca(OH)2 monoliths for accelerated CO2 mineralization** (2026)
    0 citations · DAC
+
+8. **Additive Manufacturing of Architected Ca(OH)2 Monoliths for Accelerated CO2 Mineralization** (2025)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

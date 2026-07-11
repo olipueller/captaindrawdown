@@ -1,7 +1,7 @@
 ---
 title: "Lakshitha Premathilake"
 description: "Lakshitha Premathilake is a Mid-career Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.884171
+date: 2026-07-11T12:53:41.226658
 url: "/cdr-researcher-census/researchers/lakshitha-premathilake-a5056545/"
 layout: "researcher"
 hiddenInHomeList: true

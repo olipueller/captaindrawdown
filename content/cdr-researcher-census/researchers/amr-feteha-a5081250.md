@@ -1,7 +1,7 @@
 ---
 title: "Amr Feteha"
 description: "Amr Feteha is a Mid-career Biochar researcher at Benha University in EG. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.528645
+date: 2026-07-11T12:53:40.744412
 url: "/cdr-researcher-census/researchers/amr-feteha-a5081250/"
 layout: "researcher"
 hiddenInHomeList: true

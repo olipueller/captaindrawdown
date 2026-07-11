@@ -1,7 +1,7 @@
 ---
 title: "Hend Elsawey"
 description: "Hend Elsawey is a Mid-career General CDR researcher at Heliopolis University in EG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.731646
+date: 2026-07-11T12:53:41.030551
 url: "/cdr-researcher-census/researchers/hend-elsawey-a5057053/"
 layout: "researcher"
 hiddenInHomeList: true

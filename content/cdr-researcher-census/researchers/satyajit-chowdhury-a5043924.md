@@ -1,7 +1,7 @@
 ---
 title: "Satyajit Chowdhury"
 description: "Satyajit Chowdhury is a Mid-career General CDR researcher at Energy Institute in GB. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.165264
+date: 2026-07-11T12:53:40.388542
 url: "/cdr-researcher-census/researchers/satyajit-chowdhury-a5043924/"
 layout: "researcher"
 hiddenInHomeList: true

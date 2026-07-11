@@ -1,7 +1,7 @@
 ---
 title: "Nazia Tahir"
 description: "Nazia Tahir is a Mid-career Soil Carbon researcher at Abdul Wali Khan University Mardan in PK. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.398255
+date: 2026-07-11T12:53:40.604017
 url: "/cdr-researcher-census/researchers/nazia-tahir-a5004600/"
 layout: "researcher"
 hiddenInHomeList: true

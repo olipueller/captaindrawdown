@@ -1,7 +1,7 @@
 ---
 title: "Sanket Sabnis"
 description: "Sanket Sabnis is a Mid-career General CDR researcher at University of Massachusetts Amherst in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.779704
+date: 2026-07-11T12:53:41.136087
 url: "/cdr-researcher-census/researchers/sanket-sabnis-a5082397/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Namra Mir"
 description: "Namra Mir is a Mid-career General CDR researcher at Hamad bin Khalifa University in QA. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.281172
+date: 2026-07-11T12:53:40.483167
 url: "/cdr-researcher-census/researchers/namra-mir-a5042055/"
 layout: "researcher"
 hiddenInHomeList: true

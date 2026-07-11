@@ -1,7 +1,7 @@
 ---
 title: "Quincy D. Law"
 description: "Quincy D. Law is a Mid-career Soil Carbon researcher at Iowa State University in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.662342
+date: 2026-07-11T12:53:40.882507
 url: "/cdr-researcher-census/researchers/quincy-d-law-a5041986/"
 layout: "researcher"
 hiddenInHomeList: true

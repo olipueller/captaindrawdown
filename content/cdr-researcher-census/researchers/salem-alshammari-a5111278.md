@@ -1,7 +1,7 @@
 ---
 title: "Salem Alshammari"
 description: "Salem Alshammari is a Mid-career General CDR researcher at Saudi Aramco (Saudi Arabia) in SA. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.213095
+date: 2026-07-11T12:53:41.451339
 url: "/cdr-researcher-census/researchers/salem-alshammari-a5111278/"
 layout: "researcher"
 hiddenInHomeList: true

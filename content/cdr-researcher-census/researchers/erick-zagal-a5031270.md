@@ -1,7 +1,7 @@
 ---
 title: "Erick Zagal"
 description: "Erick Zagal is a Senior Soil Carbon researcher at Universidad de Concepción in CL. With 138 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.840191
+date: 2026-07-11T12:53:40.043995
 url: "/cdr-researcher-census/researchers/erick-zagal-a5031270/"
 layout: "researcher"
 hiddenInHomeList: true

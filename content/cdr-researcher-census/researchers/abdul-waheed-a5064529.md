@@ -1,7 +1,7 @@
 ---
 title: "Abdul Waheed"
 description: "Abdul Waheed is a Mid-career Soil Carbon researcher. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.023960
+date: 2026-07-11T12:53:40.244959
 url: "/cdr-researcher-census/researchers/abdul-waheed-a5064529/"
 layout: "researcher"
 hiddenInHomeList: true

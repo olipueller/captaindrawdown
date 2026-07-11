@@ -1,7 +1,7 @@
 ---
 title: "Lina Teckentrup"
 description: "Lina Teckentrup is a Mid-career General CDR researcher at Barcelona Supercomputing Center in ES. With 52 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.138988
+date: 2026-07-11T12:53:40.362662
 url: "/cdr-researcher-census/researchers/lina-teckentrup-a5063006/"
 layout: "researcher"
 hiddenInHomeList: true

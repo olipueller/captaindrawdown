@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqiang Cui"
 description: "Xiaoqiang Cui is a Senior Biochar researcher at Tianjin University in CN. With 76 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.828435
+date: 2026-07-11T12:53:40.029296
 url: "/cdr-researcher-census/researchers/xiaoqiang-cui-a5103272/"
 layout: "researcher"
 hiddenInHomeList: true

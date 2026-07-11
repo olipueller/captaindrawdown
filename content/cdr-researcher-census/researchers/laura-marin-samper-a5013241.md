@@ -1,7 +1,7 @@
 ---
 title: "Laura Marín-Samper"
 description: "Laura Marín-Samper is an Early-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.781719
+date: 2026-07-11T12:53:41.138233
 url: "/cdr-researcher-census/researchers/laura-marin-samper-a5013241/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bing Wang"
 description: "Bing Wang is a Mid-career Biochar researcher at Shanxi Medical University in CN. With 63 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.051326
+date: 2026-07-11T12:53:40.273791
 url: "/cdr-researcher-census/researchers/bing-wang-a5100382/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuefeng Zhu"
 description: "Xuefeng Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.001042
+date: 2026-07-11T12:53:40.222007
 url: "/cdr-researcher-census/researchers/xuefeng-zhu-a5101958/"
 layout: "researcher"
 hiddenInHomeList: true

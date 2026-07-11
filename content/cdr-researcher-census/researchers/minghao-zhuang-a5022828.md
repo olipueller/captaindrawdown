@@ -1,7 +1,7 @@
 ---
 title: "Minghao Zhuang"
 description: "Minghao Zhuang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 99 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.854618
+date: 2026-07-11T12:53:40.059416
 url: "/cdr-researcher-census/researchers/minghao-zhuang-a5022828/"
 layout: "researcher"
 hiddenInHomeList: true

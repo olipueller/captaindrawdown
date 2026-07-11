@@ -1,7 +1,7 @@
 ---
 title: "Newton Paulo de Souza Falção"
-description: "Newton Paulo de Souza Falção is a Senior Biochar researcher at National Institute for Amazonian Research in BR. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.968549
+description: "Newton Paulo de Souza Falção is a Senior Soil Carbon researcher at National Institute for Amazonian Research in BR. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T12:53:40.187190
 url: "/cdr-researcher-census/researchers/newton-paulo-de-souza-falcao-a5065578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Institute for Amazonian Research · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 19 |
 | Citations | 1,268 |
 | Publications | 71 |
-| CDR Focus | 5.6% |
+| CDR Focus | 7.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -59,7 +59,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Açaí-Derived Biochar Improves Soil Fertility, Microbial Activity, and Cowpea Yield in an Acidic Amazonian Ferralsol** (2026)
    0 citations · Biochar
 
-4. **Do the Agricultural Practices of Smallholders Alter the Physical Health and the Carbon and Nitrogen Stocks of Anthropogenic Soils of the Central Brazilian Amazon?** (2024)
+4. **Degradation and Restoration of Anthrosols in the Amazonia Under Contrasting Agricultural Practices: Evidence From the Assessment of Soil Physical Quality and Carbon and Nitrogen Stocks** (2026)
+   0 citations · Soil Carbon
+
+5. **Do the Agricultural Practices of Smallholders Alter the Physical Health and the Carbon and Nitrogen Stocks of Anthropogenic Soils of the Central Brazilian Amazon?** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

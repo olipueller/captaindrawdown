@@ -1,7 +1,7 @@
 ---
 title: "Zijun Wu"
 description: "Zijun Wu is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.240866
+date: 2026-07-11T12:53:40.442970
 url: "/cdr-researcher-census/researchers/zijun-wu-a5006445/"
 layout: "researcher"
 hiddenInHomeList: true

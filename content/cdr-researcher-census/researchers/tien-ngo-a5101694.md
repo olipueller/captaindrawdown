@@ -1,7 +1,7 @@
 ---
 title: "Tien Ngo"
 description: "Tien Ngo is a Mid-career Biochar researcher at Institute of Mathematics in VN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.723051
+date: 2026-07-11T12:53:41.007652
 url: "/cdr-researcher-census/researchers/tien-ngo-a5101694/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hoang Long Ngo"
 description: "Hoang Long Ngo is a Mid-career Biochar researcher at Hanoi National University of Education in VN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.209493
+date: 2026-07-11T12:53:41.447761
 url: "/cdr-researcher-census/researchers/hoang-long-ngo-a5104303/"
 layout: "researcher"
 hiddenInHomeList: true

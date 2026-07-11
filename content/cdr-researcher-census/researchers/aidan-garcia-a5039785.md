@@ -1,7 +1,7 @@
 ---
 title: "Aidan Garcia"
 description: "Aidan Garcia is a Mid-career Biochar researcher at Washington State University in US. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.227318
+date: 2026-07-11T12:53:41.464480
 url: "/cdr-researcher-census/researchers/aidan-garcia-a5039785/"
 layout: "researcher"
 hiddenInHomeList: true

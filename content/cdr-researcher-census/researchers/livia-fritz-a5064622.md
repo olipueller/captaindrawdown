@@ -1,7 +1,7 @@
 ---
 title: "Livia Fritz"
 description: "Livia Fritz is a Mid-career General CDR researcher at University of Geneva in CH. With 83 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.066312
+date: 2026-07-11T12:53:40.289760
 url: "/cdr-researcher-census/researchers/livia-fritz-a5064622/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 16 |
 | Citations | 853 |
 | Publications | 83 |
-| CDR Focus | 16.9% |
+| CDR Focus | 18.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

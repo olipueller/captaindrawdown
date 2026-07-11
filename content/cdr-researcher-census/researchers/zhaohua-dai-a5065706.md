@@ -1,7 +1,7 @@
 ---
 title: "Zhaohua Dai"
 description: "Zhaohua Dai is a Senior Soil Carbon researcher at Michigan Technological University in US. With 59 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.997625
+date: 2026-07-11T12:53:40.218209
 url: "/cdr-researcher-census/researchers/zhaohua-dai-a5065706/"
 layout: "researcher"
 hiddenInHomeList: true

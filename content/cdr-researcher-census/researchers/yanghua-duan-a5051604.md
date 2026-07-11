@@ -1,7 +1,7 @@
 ---
 title: "Yanghua Duan"
 description: "Yanghua Duan is a Mid-career General CDR researcher at Colorado State University in US. With 27 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.115434
+date: 2026-07-11T12:53:40.339152
 url: "/cdr-researcher-census/researchers/yanghua-duan-a5051604/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andrew Mullen"
 description: "Andrew Mullen is a Mid-career Soil Carbon researcher at Woodwell Climate Research Center in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.445661
+date: 2026-07-11T12:53:41.651680
 url: "/cdr-researcher-census/researchers/andrew-mullen-a5079528/"
 layout: "researcher"
 hiddenInHomeList: true

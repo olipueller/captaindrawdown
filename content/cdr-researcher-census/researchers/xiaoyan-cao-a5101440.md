@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyan Cao"
 description: "Xiaoyan Cao is a Senior Biochar researcher at Suzhou University of Science and Technology in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.782866
+date: 2026-07-11T12:53:41.139455
 url: "/cdr-researcher-census/researchers/xiaoyan-cao-a5101440/"
 layout: "researcher"
 hiddenInHomeList: true

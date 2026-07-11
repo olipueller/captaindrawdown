@@ -1,7 +1,7 @@
 ---
 title: "Shihab Ezzuldin M. Saber"
 description: "Shihab Ezzuldin M. Saber is a Mid-career Biochar researcher. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.383590
+date: 2026-07-11T12:53:40.589044
 url: "/cdr-researcher-census/researchers/shihab-ezzuldin-m-saber-a5064635/"
 layout: "researcher"
 hiddenInHomeList: true

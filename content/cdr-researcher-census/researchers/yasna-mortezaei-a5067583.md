@@ -1,7 +1,7 @@
 ---
 title: "Yasna Mortezaei"
 description: "Yasna Mortezaei is a Mid-career General CDR researcher at Central Michigan University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.061790
+date: 2026-07-11T12:53:41.313697
 url: "/cdr-researcher-census/researchers/yasna-mortezaei-a5067583/"
 layout: "researcher"
 hiddenInHomeList: true

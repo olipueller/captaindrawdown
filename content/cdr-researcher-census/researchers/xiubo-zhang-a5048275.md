@@ -1,7 +1,7 @@
 ---
 title: "Xiubo Zhang"
 description: "Xiubo Zhang is a Senior Biochar researcher at University of Macau in MO. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.033550
+date: 2026-07-11T12:53:40.255486
 url: "/cdr-researcher-census/researchers/xiubo-zhang-a5048275/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "C. C. Chien"
 description: "C. C. Chien is a Senior Biochar researcher at Industrial Technology Research Institute in TW. With 44 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.289635
+date: 2026-07-11T12:53:40.492025
 url: "/cdr-researcher-census/researchers/c-c-chien-a5001516/"
 layout: "researcher"
 hiddenInHomeList: true

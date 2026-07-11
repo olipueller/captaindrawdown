@@ -1,7 +1,7 @@
 ---
 title: "Mulugeta Habte"
 description: "Mulugeta Habte is a Mid-career Soil Carbon researcher at Hawassa University in ET. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.087598
+date: 2026-07-11T12:53:41.335914
 url: "/cdr-researcher-census/researchers/mulugeta-habte-a5045891/"
 layout: "researcher"
 hiddenInHomeList: true

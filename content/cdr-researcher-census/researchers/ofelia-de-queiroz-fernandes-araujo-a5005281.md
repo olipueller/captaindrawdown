@@ -1,7 +1,7 @@
 ---
 title: "Ofélia de Queiroz Fernandes Araújo"
 description: "Ofélia de Queiroz Fernandes Araújo is a Senior General CDR researcher at Federal University of Rio de Janeiro in BR. With 205 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.830415
+date: 2026-07-11T12:53:40.031482
 url: "/cdr-researcher-census/researchers/ofelia-de-queiroz-fernandes-araujo-a5005281/"
 layout: "researcher"
 hiddenInHomeList: true

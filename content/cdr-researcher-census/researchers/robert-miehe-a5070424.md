@@ -1,7 +1,7 @@
 ---
 title: "Robert Miehe"
 description: "Robert Miehe is a Senior General CDR researcher at University of Stuttgart in DE. With 107 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.926071
+date: 2026-07-11T12:53:40.142483
 url: "/cdr-researcher-census/researchers/robert-miehe-a5070424/"
 layout: "researcher"
 hiddenInHomeList: true

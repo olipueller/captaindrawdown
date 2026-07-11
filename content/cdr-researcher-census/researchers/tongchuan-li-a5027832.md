@@ -1,7 +1,7 @@
 ---
 title: "Tongchuan Li"
 description: "Tongchuan Li is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.994255
+date: 2026-07-11T12:53:40.214324
 url: "/cdr-researcher-census/researchers/tongchuan-li-a5027832/"
 layout: "researcher"
 hiddenInHomeList: true

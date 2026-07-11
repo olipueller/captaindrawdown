@@ -1,7 +1,7 @@
 ---
 title: "Veronica Nonhlanhla Gundu-Jakarasi"
 description: "Veronica Nonhlanhla Gundu-Jakarasi is an Early-career General CDR researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.271097
+date: 2026-07-11T12:53:41.505309
 url: "/cdr-researcher-census/researchers/veronica-nonhlanhla-gundu-jakarasi-a5045375/"
 layout: "researcher"
 hiddenInHomeList: true

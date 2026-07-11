@@ -1,7 +1,7 @@
 ---
 title: "Javier Ordoñez-Loza"
 description: "Javier Ordoñez-Loza is a Mid-career General CDR researcher at Western University in CA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.178644
+date: 2026-07-11T12:53:41.419021
 url: "/cdr-researcher-census/researchers/javier-ordonez-loza-a5000547/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiawei Tao"
 description: "Jiawei Tao is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.220213
+date: 2026-07-11T12:53:40.421458
 url: "/cdr-researcher-census/researchers/jiawei-tao-a5041698/"
 layout: "researcher"
 hiddenInHomeList: true

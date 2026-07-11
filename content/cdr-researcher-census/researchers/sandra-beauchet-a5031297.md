@@ -1,7 +1,7 @@
 ---
 title: "Sandra Beauchet"
 description: "Sandra Beauchet is a Mid-career General CDR researcher at IFP Énergies nouvelles in FR. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.579011
+date: 2026-07-11T12:53:40.795793
 url: "/cdr-researcher-census/researchers/sandra-beauchet-a5031297/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Das"
 description: "Priyanka Das is a Mid-career Biochar researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.089614
+date: 2026-07-11T12:53:41.337768
 url: "/cdr-researcher-census/researchers/priyanka-das-a5019386/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Arturo Cabello"
 description: "Arturo Cabello is a Senior General CDR researcher at Instituto de Carboquímica in ES. With 73 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.956024
+date: 2026-07-11T12:53:40.173950
 url: "/cdr-researcher-census/researchers/arturo-cabello-a5044156/"
 layout: "researcher"
 hiddenInHomeList: true

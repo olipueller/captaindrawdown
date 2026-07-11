@@ -1,7 +1,7 @@
 ---
 title: "Derek Stuart Bell"
 description: "Derek Stuart Bell is a Senior Enhanced Weathering researcher at Zero Emissions Resource Organisation in NO. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.098546
+date: 2026-07-11T12:53:41.346054
 url: "/cdr-researcher-census/researchers/derek-stuart-bell-a5101547/"
 layout: "researcher"
 hiddenInHomeList: true

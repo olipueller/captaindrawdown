@@ -1,7 +1,7 @@
 ---
 title: "Shanshan Yang"
 description: "Shanshan Yang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.489634
+date: 2026-07-11T12:53:40.703311
 url: "/cdr-researcher-census/researchers/shanshan-yang-a5066522/"
 layout: "researcher"
 hiddenInHomeList: true

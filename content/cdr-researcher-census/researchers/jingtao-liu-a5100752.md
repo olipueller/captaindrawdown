@@ -1,7 +1,7 @@
 ---
 title: "Jingtao Liu"
 description: "Jingtao Liu is a Mid-career Soil Carbon researcher at Binzhou University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.925654
+date: 2026-07-11T12:53:41.254299
 url: "/cdr-researcher-census/researchers/jingtao-liu-a5100752/"
 layout: "researcher"
 hiddenInHomeList: true

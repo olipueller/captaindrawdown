@@ -1,7 +1,7 @@
 ---
 title: "Yucong Duan"
 description: "Yucong Duan is a Mid-career Soil Carbon researcher at Jilin University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.673728
+date: 2026-07-11T12:53:40.921464
 url: "/cdr-researcher-census/researchers/yucong-duan-a5048638/"
 layout: "researcher"
 hiddenInHomeList: true

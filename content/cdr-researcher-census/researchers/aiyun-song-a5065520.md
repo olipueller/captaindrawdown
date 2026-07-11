@@ -1,7 +1,7 @@
 ---
 title: "Aiyun Song"
 description: "Aiyun Song is a Senior Soil Carbon researcher. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.815848
+date: 2026-07-11T12:53:41.198608
 url: "/cdr-researcher-census/researchers/aiyun-song-a5065520/"
 layout: "researcher"
 hiddenInHomeList: true

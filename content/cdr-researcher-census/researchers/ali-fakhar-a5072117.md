@@ -1,7 +1,7 @@
 ---
 title: "Ali Fakhar"
 description: "Ali Fakhar is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.978268
+date: 2026-07-11T12:53:40.197499
 url: "/cdr-researcher-census/researchers/ali-fakhar-a5072117/"
 layout: "researcher"
 hiddenInHomeList: true

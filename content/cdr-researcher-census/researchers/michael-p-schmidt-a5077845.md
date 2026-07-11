@@ -1,7 +1,7 @@
 ---
 title: "Michael P. Schmidt"
 description: "Michael P. Schmidt is a Senior Biochar researcher at USDA-ARS Salinity Laboratory in US. With 39 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.972409
+date: 2026-07-11T12:53:40.191338
 url: "/cdr-researcher-census/researchers/michael-p-schmidt-a5077845/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyong Bai"
 description: "Xiaoyong Bai is an Eminent Soil Carbon researcher at Guizhou University in CN. With 134 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.811872
+date: 2026-07-11T12:53:40.008683
 url: "/cdr-researcher-census/researchers/xiaoyong-bai-a5083113/"
 layout: "researcher"
 hiddenInHomeList: true

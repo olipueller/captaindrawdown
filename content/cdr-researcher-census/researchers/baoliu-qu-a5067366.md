@@ -1,7 +1,7 @@
 ---
 title: "Baoliu Qu"
 description: "Baoliu Qu is a Mid-career Biochar researcher at Wuyi University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.885699
+date: 2026-07-11T12:53:41.227311
 url: "/cdr-researcher-census/researchers/baoliu-qu-a5067366/"
 layout: "researcher"
 hiddenInHomeList: true

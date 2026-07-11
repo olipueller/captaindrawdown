@@ -1,7 +1,7 @@
 ---
 title: "Tahani A. Y. Asseri"
 description: "Tahani A. Y. Asseri is a Mid-career Soil Carbon researcher at King Khalid University in SA. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.792361
+date: 2026-07-11T12:53:41.153243
 url: "/cdr-researcher-census/researchers/tahani-a-y-asseri-a5084551/"
 layout: "researcher"
 hiddenInHomeList: true

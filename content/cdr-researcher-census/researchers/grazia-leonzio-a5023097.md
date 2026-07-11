@@ -1,7 +1,7 @@
 ---
 title: "Grazia Leonzio"
-description: "Grazia Leonzio is a Senior General CDR researcher at University of Cagliari in IT. With 83 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.878085
+description: "Grazia Leonzio is a Senior DAC researcher at University of Cagliari in IT. With 83 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T12:53:40.087276
 url: "/cdr-researcher-census/researchers/grazia-leonzio-a5023097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Cagliari · 🇮🇹 IT
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 27 |
 | Citations | 2,178 |
 | Publications | 83 |
-| CDR Focus | 8.4% |
+| CDR Focus | 9.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -74,10 +74,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **A global sensitivity analysis for a bipolar membrane electrodialysis capturing carbon dioxide from the air** (2025)
    2 citations
 
-9. **Analysis of new strategies integrating bipolar membrane electrodialysis and absorption systems in DAC applications** (2026)
+9. **Analysis and comparison of technologies for the regeneration of a capture solution in DAC absorption systems** (2026)
    0 citations · DAC
 
-10. **Corrigendum to “Environmental performance of different sorbents used for direct air capture” [Sustain. Prod. Consum. 32 (2022) 101–111]** (2023)
+10. **Analysis of new strategies integrating bipolar membrane electrodialysis and absorption systems in DAC applications** (2026)
    0 citations · DAC
 
 ## External Profiles

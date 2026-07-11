@@ -1,7 +1,7 @@
 ---
 title: "Zhirui An"
 description: "Zhirui An is a Mid-career Soil Carbon researcher at Nantong University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.355302
+date: 2026-07-11T12:53:40.559566
 url: "/cdr-researcher-census/researchers/zhirui-an-a5024265/"
 layout: "researcher"
 hiddenInHomeList: true

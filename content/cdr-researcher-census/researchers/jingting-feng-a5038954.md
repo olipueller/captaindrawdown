@@ -1,7 +1,7 @@
 ---
 title: "Jingting Feng"
 description: "Jingting Feng is a Senior Biochar researcher at Xi'an University of Architecture and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.213775
+date: 2026-07-11T12:53:41.452014
 url: "/cdr-researcher-census/researchers/jingting-feng-a5038954/"
 layout: "researcher"
 hiddenInHomeList: true

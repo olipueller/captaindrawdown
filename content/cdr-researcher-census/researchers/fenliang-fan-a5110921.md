@@ -1,7 +1,7 @@
 ---
 title: "Fenliang Fan"
 description: "Fenliang Fan is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 78 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.807739
+date: 2026-07-11T12:53:40.003477
 url: "/cdr-researcher-census/researchers/fenliang-fan-a5110921/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Noah W. Sokol"
 description: "Noah W. Sokol is a Senior Soil Carbon researcher. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.794346
+date: 2026-07-11T12:53:39.987454
 url: "/cdr-researcher-census/researchers/noah-w-sokol-a5011737/"
 layout: "researcher"
 hiddenInHomeList: true

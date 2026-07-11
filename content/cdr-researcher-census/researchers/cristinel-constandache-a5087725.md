@@ -1,7 +1,7 @@
 ---
 title: "Cristinel Constandache"
 description: "Cristinel Constandache is a Mid-career Soil Carbon researcher at National Institute for Research and Development in Forestry \"Marin Drăcea\" in RO. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.845344
+date: 2026-07-11T12:53:41.217374
 url: "/cdr-researcher-census/researchers/cristinel-constandache-a5087725/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rafidah Husen"
 description: "Rafidah Husen is a Senior General CDR researcher at Universiti Malaysia Sarawak in MY. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.328451
+date: 2026-07-11T12:53:40.531351
 url: "/cdr-researcher-census/researchers/rafidah-husen-a5008541/"
 layout: "researcher"
 hiddenInHomeList: true

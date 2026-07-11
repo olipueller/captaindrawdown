@@ -1,7 +1,7 @@
 ---
 title: "Fuminori Sano"
 description: "Fuminori Sano is a Senior General CDR researcher at Research Institute of Innovative Technology for the Earth in JP. With 150 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.828324
+date: 2026-07-11T12:53:40.029066
 url: "/cdr-researcher-census/researchers/fuminori-sano-a5016865/"
 layout: "researcher"
 hiddenInHomeList: true

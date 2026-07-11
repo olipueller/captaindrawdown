@@ -1,7 +1,7 @@
 ---
 title: "Tim M.J. Nijssen"
-description: "Tim M.J. Nijssen is a Mid-career General CDR researcher at Delft University of Technology in NL. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.532028
+description: "Tim M.J. Nijssen is a Mid-career DAC researcher at Delft University of Technology in NL. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T12:53:40.747928
 url: "/cdr-researcher-census/researchers/tim-mj-nijssen-a5020920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Delft University of Technology · 🇳🇱 NL
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 306 |
 | Publications | 23 |
-| CDR Focus | 8.7% |
+| CDR Focus | 13.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,19 +53,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Direct Air Capture with Integrated Electrochemical Conversion through Combined Solid and Liquid Sorbents** (2026)
    1 citations · DAC
 
-2. **Review for "Direct air capture with thermal energy storage: process design and electricity system impacts"** (2025)
-   0 citations
+2. **Model-free control of direct air capture: Optimal rule-based policies tuned via Bayesian optimization** (2026)
+   0 citations · DAC
 
 3. **Review for "Direct air capture with thermal energy storage: process design and electricity system impacts"** (2025)
    0 citations
 
-4. **Data-driven Performance Optimization for Direct Air Capture Process** (2025)
+4. **Review for "Direct air capture with thermal energy storage: process design and electricity system impacts"** (2025)
+   0 citations
+
+5. **Data-driven Performance Optimization for Direct Air Capture Process** (2025)
    0 citations · DAC
 
-5. **Review for "Integrating direct air capture with small modular nuclear reactors: understanding performance, cost, and potential"** (2023)
+6. **Review for "Integrating direct air capture with small modular nuclear reactors: understanding performance, cost, and potential"** (2023)
    0 citations · DAC
 
-6. **Review for "Integrating direct air capture with small modular nuclear reactors: understanding performance, cost, and potential"** (2024)
+7. **Review for "Integrating direct air capture with small modular nuclear reactors: understanding performance, cost, and potential"** (2024)
    0 citations · DAC
 
 ## External Profiles

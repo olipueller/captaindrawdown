@@ -1,7 +1,7 @@
 ---
 title: "Isabela Schmidt Tagomori"
 description: "Isabela Schmidt Tagomori is a Mid-career General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.282102
+date: 2026-07-11T12:53:40.484196
 url: "/cdr-researcher-census/researchers/isabela-schmidt-tagomori-a5004479/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chuanbao Yang"
 description: "Chuanbao Yang is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.138882
+date: 2026-07-11T12:53:40.362561
 url: "/cdr-researcher-census/researchers/chuanbao-yang-a5115591/"
 layout: "researcher"
 hiddenInHomeList: true

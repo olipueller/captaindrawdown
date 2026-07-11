@@ -1,7 +1,7 @@
 ---
 title: "Lianbao Zhang"
 description: "Lianbao Zhang is a Senior Ocean CDR researcher at Marine Biomedical Research Institute of Qingdao in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.767642
+date: 2026-07-11T12:53:41.101420
 url: "/cdr-researcher-census/researchers/lianbao-zhang-a5005258/"
 layout: "researcher"
 hiddenInHomeList: true

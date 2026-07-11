@@ -1,7 +1,7 @@
 ---
 title: "Zhiguang Liu"
 description: "Zhiguang Liu is a Mid-career Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.509126
+date: 2026-07-11T12:53:40.724140
 url: "/cdr-researcher-census/researchers/zhiguang-liu-a5110687/"
 layout: "researcher"
 hiddenInHomeList: true

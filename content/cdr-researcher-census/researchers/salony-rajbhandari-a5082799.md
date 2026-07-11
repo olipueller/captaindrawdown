@@ -1,7 +1,7 @@
 ---
 title: "Salony Rajbhandari"
 description: "Salony Rajbhandari is a Senior General CDR researcher at Hodges University in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.576962
+date: 2026-07-11T12:53:40.793960
 url: "/cdr-researcher-census/researchers/salony-rajbhandari-a5082799/"
 layout: "researcher"
 hiddenInHomeList: true

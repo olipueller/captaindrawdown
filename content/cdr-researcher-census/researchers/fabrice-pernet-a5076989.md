@@ -1,7 +1,7 @@
 ---
 title: "Fabrice Pernet"
 description: "Fabrice Pernet is an Eminent Ocean CDR researcher at Ifremer Centre de Bretagne in FR. With 153 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.811594
+date: 2026-07-11T12:53:40.008398
 url: "/cdr-researcher-census/researchers/fabrice-pernet-a5076989/"
 layout: "researcher"
 hiddenInHomeList: true

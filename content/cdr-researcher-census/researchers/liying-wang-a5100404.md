@@ -1,7 +1,7 @@
 ---
 title: "Liying Wang"
 description: "Liying Wang is a Senior Soil Carbon researcher at Institute of Special Animal and Plant Sciences,   Chinese Academy of Agricultural Sciences in CN. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.062607
+date: 2026-07-11T12:53:40.285371
 url: "/cdr-researcher-census/researchers/liying-wang-a5100404/"
 layout: "researcher"
 hiddenInHomeList: true

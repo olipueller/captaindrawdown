@@ -1,7 +1,7 @@
 ---
 title: "Xiaofang Ma"
 description: "Xiaofang Ma is a Senior Soil Carbon researcher at Fuzhou University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.994955
+date: 2026-07-11T12:53:41.279415
 url: "/cdr-researcher-census/researchers/xiaofang-ma-a5066215/"
 layout: "researcher"
 hiddenInHomeList: true

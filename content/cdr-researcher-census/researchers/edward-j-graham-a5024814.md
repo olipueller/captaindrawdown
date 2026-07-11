@@ -1,7 +1,7 @@
 ---
 title: "Edward J. Graham"
 description: "Edward J. Graham is a Senior General CDR researcher at Massachusetts Institute of Technology in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.556770
+date: 2026-07-11T12:53:40.773175
 url: "/cdr-researcher-census/researchers/edward-j-graham-a5024814/"
 layout: "researcher"
 hiddenInHomeList: true

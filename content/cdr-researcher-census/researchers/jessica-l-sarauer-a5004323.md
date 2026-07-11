@@ -1,7 +1,7 @@
 ---
 title: "Jessica L. Sarauer"
 description: "Jessica L. Sarauer is a Mid-career Soil Carbon researcher at University of Idaho in US. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.369539
+date: 2026-07-11T12:53:41.577300
 url: "/cdr-researcher-census/researchers/jessica-l-sarauer-a5004323/"
 layout: "researcher"
 hiddenInHomeList: true

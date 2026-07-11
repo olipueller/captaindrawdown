@@ -1,7 +1,7 @@
 ---
 title: "Paul Newell Price"
 description: "Paul Newell Price is a Mid-career Soil Carbon researcher at Mansfield University in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.302794
+date: 2026-07-11T12:53:41.532286
 url: "/cdr-researcher-census/researchers/paul-newell-price-a5112898/"
 layout: "researcher"
 hiddenInHomeList: true

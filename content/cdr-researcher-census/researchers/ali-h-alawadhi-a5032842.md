@@ -1,7 +1,7 @@
 ---
 title: "Ali H. Alawadhi"
 description: "Ali H. Alawadhi is a Mid-career General CDR researcher at King Abdulaziz City for Science and Technology in SA. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.957350
+date: 2026-07-11T12:53:40.175458
 url: "/cdr-researcher-census/researchers/ali-h-alawadhi-a5032842/"
 layout: "researcher"
 hiddenInHomeList: true

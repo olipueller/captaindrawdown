@@ -1,7 +1,7 @@
 ---
 title: "Dana Ram Palsaniya"
 description: "Dana Ram Palsaniya is a Mid-career Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.048923
+date: 2026-07-11T12:53:41.305717
 url: "/cdr-researcher-census/researchers/dana-ram-palsaniya-a5104085/"
 layout: "researcher"
 hiddenInHomeList: true

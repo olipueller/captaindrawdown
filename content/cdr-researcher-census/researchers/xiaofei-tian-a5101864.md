@@ -1,7 +1,7 @@
 ---
 title: "Xiaofei Tian"
 description: "Xiaofei Tian is a Senior Soil Carbon researcher at Liaocheng University in CN. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.170811
+date: 2026-07-11T12:53:40.393615
 url: "/cdr-researcher-census/researchers/xiaofei-tian-a5101864/"
 layout: "researcher"
 hiddenInHomeList: true

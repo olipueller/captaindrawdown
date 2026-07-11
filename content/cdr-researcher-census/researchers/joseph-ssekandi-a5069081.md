@@ -1,7 +1,7 @@
 ---
 title: "Joseph Ssekandi"
 description: "Joseph Ssekandi is an Early-career Soil Carbon researcher at Kabale University in UG. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.536796
+date: 2026-07-11T12:53:40.753119
 url: "/cdr-researcher-census/researchers/joseph-ssekandi-a5069081/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yunzhu Qin"
 description: "Yunzhu Qin is a Mid-career General CDR researcher at Hong Kong Polytechnic University in HK. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.912735
+date: 2026-07-11T12:53:41.245537
 url: "/cdr-researcher-census/researchers/yunzhu-qin-a5048726/"
 layout: "researcher"
 hiddenInHomeList: true

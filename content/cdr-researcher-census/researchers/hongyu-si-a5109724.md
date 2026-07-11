@@ -1,7 +1,7 @@
 ---
 title: "Hongyu Si"
 description: "Hongyu Si is a Senior Biochar researcher at Qilu University of Technology in CN. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.000925
+date: 2026-07-11T12:53:40.221889
 url: "/cdr-researcher-census/researchers/hongyu-si-a5109724/"
 layout: "researcher"
 hiddenInHomeList: true

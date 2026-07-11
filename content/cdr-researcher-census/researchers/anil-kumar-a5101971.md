@@ -1,7 +1,7 @@
 ---
 title: "Anil Kumar"
 description: "Anil Kumar is a Mid-career Soil Carbon researcher at Chandra Shekhar Azad University of Agriculture and Technology in IN. With 48 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.248000
+date: 2026-07-11T12:53:41.483696
 url: "/cdr-researcher-census/researchers/anil-kumar-a5101971/"
 layout: "researcher"
 hiddenInHomeList: true

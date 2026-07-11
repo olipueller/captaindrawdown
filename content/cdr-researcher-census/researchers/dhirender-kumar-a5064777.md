@@ -1,7 +1,7 @@
 ---
 title: "Dhirender Kumar"
 description: "Dhirender Kumar is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.160942
+date: 2026-07-11T12:53:40.384195
 url: "/cdr-researcher-census/researchers/dhirender-kumar-a5064777/"
 layout: "researcher"
 hiddenInHomeList: true

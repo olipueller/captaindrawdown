@@ -1,7 +1,7 @@
 ---
 title: "Jiabao Zhang"
 description: "Jiabao Zhang is a Mid-career Soil Carbon researcher at Shandong University of Traditional Chinese Medicine in CN. With 53 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.079150
+date: 2026-07-11T12:53:40.301583
 url: "/cdr-researcher-census/researchers/jiabao-zhang-a5030822/"
 layout: "researcher"
 hiddenInHomeList: true

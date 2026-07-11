@@ -1,7 +1,7 @@
 ---
 title: "Ariane Albers"
 description: "Ariane Albers is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.626578
+date: 2026-07-11T12:53:40.846246
 url: "/cdr-researcher-census/researchers/ariane-albers-a5091899/"
 layout: "researcher"
 hiddenInHomeList: true

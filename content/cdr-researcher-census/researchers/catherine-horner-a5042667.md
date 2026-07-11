@@ -1,7 +1,7 @@
 ---
 title: "Catherine Horner"
 description: "Catherine Horner is a Senior Soil Carbon researcher at University of Vermont in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.196621
+date: 2026-07-11T12:53:41.436221
 url: "/cdr-researcher-census/researchers/catherine-horner-a5042667/"
 layout: "researcher"
 hiddenInHomeList: true

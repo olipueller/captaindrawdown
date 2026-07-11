@@ -1,7 +1,7 @@
 ---
 title: "Pramod Ghimire"
 description: "Pramod Ghimire is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.680544
+date: 2026-07-11T12:53:40.929896
 url: "/cdr-researcher-census/researchers/pramod-ghimire-a5050843/"
 layout: "researcher"
 hiddenInHomeList: true

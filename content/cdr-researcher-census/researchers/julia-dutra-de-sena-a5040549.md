@@ -1,7 +1,7 @@
 ---
 title: "Julia Dutra de Sena"
 description: "Julia Dutra de Sena is an Early-career Biochar researcher at Universidade Federal de Santa Catarina in BR. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.546776
+date: 2026-07-11T12:53:40.763099
 url: "/cdr-researcher-census/researchers/julia-dutra-de-sena-a5040549/"
 layout: "researcher"
 hiddenInHomeList: true

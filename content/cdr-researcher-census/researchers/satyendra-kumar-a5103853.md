@@ -1,7 +1,7 @@
 ---
 title: "Satyendra Kumar"
 description: "Satyendra Kumar is a Senior Soil Carbon researcher at BNMV College Sahugarh Madhepura in IN. With 72 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.943483
+date: 2026-07-11T12:53:40.160737
 url: "/cdr-researcher-census/researchers/satyendra-kumar-a5103853/"
 layout: "researcher"
 hiddenInHomeList: true

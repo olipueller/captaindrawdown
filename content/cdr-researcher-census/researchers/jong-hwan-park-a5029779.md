@@ -1,7 +1,7 @@
 ---
 title: "Jong-Hwan Park"
 description: "Jong-Hwan Park is a Mid-career Soil Carbon researcher at Dong-A University in KR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.417590
+date: 2026-07-11T12:53:41.623589
 url: "/cdr-researcher-census/researchers/jong-hwan-park-a5029779/"
 layout: "researcher"
 hiddenInHomeList: true

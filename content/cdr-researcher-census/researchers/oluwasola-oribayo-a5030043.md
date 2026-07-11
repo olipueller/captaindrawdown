@@ -1,7 +1,7 @@
 ---
 title: "Oluwasola Oribayo"
 description: "Oluwasola Oribayo is a Mid-career General CDR researcher at University of Lagos in NG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.307886
+date: 2026-07-11T12:53:40.510572
 url: "/cdr-researcher-census/researchers/oluwasola-oribayo-a5030043/"
 layout: "researcher"
 hiddenInHomeList: true

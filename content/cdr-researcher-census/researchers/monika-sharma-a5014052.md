@@ -1,7 +1,7 @@
 ---
 title: "Monika Sharma"
 description: "Monika Sharma is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.144489
+date: 2026-07-11T12:53:40.367885
 url: "/cdr-researcher-census/researchers/monika-sharma-a5014052/"
 layout: "researcher"
 hiddenInHomeList: true

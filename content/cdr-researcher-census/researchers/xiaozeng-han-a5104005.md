@@ -1,7 +1,7 @@
 ---
 title: "Xiaozeng Han"
 description: "Xiaozeng Han is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 94 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.838256
+date: 2026-07-11T12:53:40.041631
 url: "/cdr-researcher-census/researchers/xiaozeng-han-a5104005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 32 |
 | Citations | 3,282 |
 | Publications | 94 |
-| CDR Focus | 8.5% |
+| CDR Focus | 11.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,23 +59,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Temporal dynamics of density separated soil organic carbon pools as revealed by δ13C changes under 17 years of straw return** (2023)
    18 citations · Biochar
 
-5. **Effects of Organic Materials and Their Incorporation Depths on Humus Substances Structure and Soil Microbial Communities’ Characteristics in a Chinese Mollisol** (2023)
+5. **Restoration of Chemical Structure of Soil Organic Matter Under Different Agricultural Practices from a Severely Degraded Mollisol** (2021)
+   12 citations · Soil Carbon
+
+6. **Long‐term grassland restoration exerts stronger impacts on the vertical distribution of labile over recalcitrant organic carbon fractions in Mollisols** (2022)
+   8 citations · Soil Carbon
+
+7. **Effects of Organic Materials and Their Incorporation Depths on Humus Substances Structure and Soil Microbial Communities’ Characteristics in a Chinese Mollisol** (2023)
    5 citations · Soil Carbon
 
-6. **Effects of the construction of fertile and cultivated soil layer on soil fertility and maize yield in Albic soil.** (2023)
+8. **Effects of the construction of fertile and cultivated soil layer on soil fertility and maize yield in Albic soil.** (2023)
    5 citations
 
-7. **Evaluation of the Soil Aggregate Stability Under Long Term Manure and Chemical Fertilizer Applications: Insights from Organic Carbon and Humic Acid Structure in Aggregates** (2024)
+9. **Mechanism of biochar decomposition mediated by bacteria shifts the molecular structure of soil organic matter to high molecular aromatic components** (2024)
+   4 citations · Biochar
+
+10. **Evaluation of the Soil Aggregate Stability Under Long Term Manure and Chemical Fertilizer Applications: Insights from Organic Carbon and Humic Acid Structure in Aggregates** (2024)
    2 citations · Soil Carbon
-
-8. **The Effect of Deep Tillage Combined with Organic Amendments on Soil Organic Carbon and Nitrogen Stocks in Northeast China** (2025)
-   0 citations · Soil Carbon
-
-9. **Effects of chicken manure application methods on soil organic carbon content and its fractions.** (2025)
-   0 citations · Soil Carbon
-
-10. **Temporal Dynamics of Pools of Soil Organic Carbon Separated by Density Identified by Changes to Δ13c Under 17 Years of Straw Return** (2023)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

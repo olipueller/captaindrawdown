@@ -1,7 +1,7 @@
 ---
 title: "Xusheng Xu"
 description: "Xusheng Xu is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.213962
+date: 2026-07-11T12:53:41.452226
 url: "/cdr-researcher-census/researchers/xusheng-xu-a5093418/"
 layout: "researcher"
 hiddenInHomeList: true

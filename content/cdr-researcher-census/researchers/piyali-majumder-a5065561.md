@@ -1,7 +1,7 @@
 ---
 title: "Piyali Majumder"
 description: "Piyali Majumder is a Mid-career General CDR researcher at University of Illinois at Chicago in US. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.277813
+date: 2026-07-11T12:53:40.479553
 url: "/cdr-researcher-census/researchers/piyali-majumder-a5065561/"
 layout: "researcher"
 hiddenInHomeList: true

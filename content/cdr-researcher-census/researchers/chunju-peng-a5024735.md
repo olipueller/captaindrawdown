@@ -1,7 +1,7 @@
 ---
 title: "Chunju Peng"
 description: "Chunju Peng is a Mid-career Soil Carbon researcher at Wenzhou University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.180678
+date: 2026-07-11T12:53:41.420852
 url: "/cdr-researcher-census/researchers/chunju-peng-a5024735/"
 layout: "researcher"
 hiddenInHomeList: true

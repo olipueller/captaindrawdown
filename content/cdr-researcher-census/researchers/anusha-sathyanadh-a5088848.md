@@ -1,7 +1,7 @@
 ---
 title: "Anusha Sathyanadh"
 description: "Anusha Sathyanadh is a Mid-career Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.878494
+date: 2026-07-11T12:53:41.223037
 url: "/cdr-researcher-census/researchers/anusha-sathyanadh-a5088848/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Michel Ruiz Rosquete"
 description: "Michel Ruiz Rosquete is a Senior Soil Carbon researcher at Salk Institute for Biological Studies in US. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.984369
+date: 2026-07-11T12:53:40.203754
 url: "/cdr-researcher-census/researchers/michel-ruiz-rosquete-a5086474/"
 layout: "researcher"
 hiddenInHomeList: true

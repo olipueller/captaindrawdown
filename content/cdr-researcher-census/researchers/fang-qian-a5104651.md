@@ -1,7 +1,7 @@
 ---
 title: "Fang Qian"
 description: "Fang Qian is a Mid-career Soil Carbon researcher at Capital Normal University in CN. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.328262
+date: 2026-07-11T12:53:41.555464
 url: "/cdr-researcher-census/researchers/fang-qian-a5104651/"
 layout: "researcher"
 hiddenInHomeList: true

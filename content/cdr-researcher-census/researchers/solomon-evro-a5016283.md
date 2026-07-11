@@ -1,7 +1,7 @@
 ---
 title: "Solomon Evro"
 description: "Solomon Evro is a Mid-career General CDR researcher at University of North Dakota in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.094660
+date: 2026-07-11T12:53:40.317935
 url: "/cdr-researcher-census/researchers/solomon-evro-a5016283/"
 layout: "researcher"
 hiddenInHomeList: true

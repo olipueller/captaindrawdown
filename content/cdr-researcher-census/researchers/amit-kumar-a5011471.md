@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
 description: "Amit Kumar is a Senior Soil Carbon researcher at United Arab Emirates University in AE. With 82 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.892396
+date: 2026-07-11T12:53:40.104681
 url: "/cdr-researcher-census/researchers/amit-kumar-a5011471/"
 layout: "researcher"
 hiddenInHomeList: true

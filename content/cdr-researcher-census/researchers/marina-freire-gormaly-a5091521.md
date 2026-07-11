@@ -1,7 +1,7 @@
 ---
 title: "Marina Freire-Gormaly"
 description: "Marina Freire-Gormaly is a Mid-career General CDR researcher at York University in CA. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.349486
+date: 2026-07-11T12:53:40.553708
 url: "/cdr-researcher-census/researchers/marina-freire-gormaly-a5091521/"
 layout: "researcher"
 hiddenInHomeList: true

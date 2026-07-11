@@ -1,7 +1,7 @@
 ---
 title: "Yuyang He"
 description: "Yuyang He is a Senior Soil Carbon researcher at Yunnan University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.920942
+date: 2026-07-11T12:53:41.251078
 url: "/cdr-researcher-census/researchers/yuyang-he-a5062353/"
 layout: "researcher"
 hiddenInHomeList: true

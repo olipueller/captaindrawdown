@@ -1,7 +1,7 @@
 ---
 title: "Rupert Stuart-Smith"
 description: "Rupert Stuart-Smith is a Mid-career General CDR researcher at University of Oxford in GB. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.959868
+date: 2026-07-11T12:53:40.178042
 url: "/cdr-researcher-census/researchers/rupert-stuart-smith-a5045187/"
 layout: "researcher"
 hiddenInHomeList: true

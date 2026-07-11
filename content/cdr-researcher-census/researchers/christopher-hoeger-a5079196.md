@@ -1,7 +1,7 @@
 ---
 title: "Christopher Hoeger"
 description: "Christopher Hoeger is a Mid-career General CDR researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.182778
+date: 2026-07-11T12:53:41.422726
 url: "/cdr-researcher-census/researchers/christopher-hoeger-a5079196/"
 layout: "researcher"
 hiddenInHomeList: true

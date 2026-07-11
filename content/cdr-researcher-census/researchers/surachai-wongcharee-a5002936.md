@@ -1,7 +1,7 @@
 ---
 title: "Surachai Wongcharee"
 description: "Surachai Wongcharee is a Mid-career Biochar researcher at Mahasarakham University in TH. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.246891
+date: 2026-07-11T12:53:40.448854
 url: "/cdr-researcher-census/researchers/surachai-wongcharee-a5002936/"
 layout: "researcher"
 hiddenInHomeList: true

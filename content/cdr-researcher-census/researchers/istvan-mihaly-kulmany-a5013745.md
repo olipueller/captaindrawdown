@@ -1,7 +1,7 @@
 ---
 title: "István Mihály Kulmány"
 description: "István Mihály Kulmány is a Mid-career Soil Carbon researcher at Széchenyi István University in HU. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.801298
+date: 2026-07-11T12:53:41.176829
 url: "/cdr-researcher-census/researchers/istvan-mihaly-kulmany-a5013745/"
 layout: "researcher"
 hiddenInHomeList: true

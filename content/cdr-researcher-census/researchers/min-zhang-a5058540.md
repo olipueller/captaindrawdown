@@ -1,7 +1,7 @@
 ---
 title: "Min Zhang"
 description: "Min Zhang is a Senior Soil Carbon researcher at China Tobacco in CN. With 58 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.966993
+date: 2026-07-11T12:53:40.185495
 url: "/cdr-researcher-census/researchers/min-zhang-a5058540/"
 layout: "researcher"
 hiddenInHomeList: true

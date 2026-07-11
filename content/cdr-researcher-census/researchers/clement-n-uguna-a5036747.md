@@ -1,7 +1,7 @@
 ---
 title: "Clement N. Uguna"
 description: "Clement N. Uguna is a Senior General CDR researcher at University of Nottingham in GB. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.031494
+date: 2026-07-11T12:53:40.253042
 url: "/cdr-researcher-census/researchers/clement-n-uguna-a5036747/"
 layout: "researcher"
 hiddenInHomeList: true

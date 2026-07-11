@@ -1,7 +1,7 @@
 ---
 title: "Vladimir L. Meca"
 description: "Vladimir L. Meca is an Early-career General CDR researcher at Universidad Politécnica de Madrid in ES. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.982459
+date: 2026-07-11T12:53:41.273507
 url: "/cdr-researcher-census/researchers/vladimir-l-meca-a5002602/"
 layout: "researcher"
 hiddenInHomeList: true

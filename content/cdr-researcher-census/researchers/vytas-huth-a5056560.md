@@ -1,7 +1,7 @@
 ---
 title: "Vytas Huth"
 description: "Vytas Huth is a Senior Soil Carbon researcher at Universitätsmedizin Greifswald in DE. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.017262
+date: 2026-07-11T12:53:40.238212
 url: "/cdr-researcher-census/researchers/vytas-huth-a5056560/"
 layout: "researcher"
 hiddenInHomeList: true

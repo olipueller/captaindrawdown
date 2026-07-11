@@ -1,7 +1,7 @@
 ---
 title: "Zhi-Nian Deng"
 description: "Zhi-Nian Deng is a Senior Soil Carbon researcher at Guangxi Academy of Agricultural Science in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.148402
+date: 2026-07-11T12:53:41.391553
 url: "/cdr-researcher-census/researchers/zhi-nian-deng-a5102029/"
 layout: "researcher"
 hiddenInHomeList: true

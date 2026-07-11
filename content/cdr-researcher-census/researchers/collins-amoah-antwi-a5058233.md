@@ -1,7 +1,7 @@
 ---
 title: "Collins Amoah-Antwi"
 description: "Collins Amoah-Antwi is a Mid-career Soil Carbon researcher at Warsaw University of Technology in PL. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.479684
+date: 2026-07-11T12:53:40.692501
 url: "/cdr-researcher-census/researchers/collins-amoah-antwi-a5058233/"
 layout: "researcher"
 hiddenInHomeList: true

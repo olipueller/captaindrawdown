@@ -1,7 +1,7 @@
 ---
 title: "Fanzhu Qu"
 description: "Fanzhu Qu is a Mid-career Soil Carbon researcher at Ludong University in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.144247
+date: 2026-07-11T12:53:40.367630
 url: "/cdr-researcher-census/researchers/fanzhu-qu-a5035545/"
 layout: "researcher"
 hiddenInHomeList: true

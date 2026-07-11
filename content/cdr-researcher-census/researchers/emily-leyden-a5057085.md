@@ -1,7 +1,7 @@
 ---
 title: "Emily Leyden"
 description: "Emily Leyden is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.416272
+date: 2026-07-11T12:53:40.623299
 url: "/cdr-researcher-census/researchers/emily-leyden-a5057085/"
 layout: "researcher"
 hiddenInHomeList: true

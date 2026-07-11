@@ -1,7 +1,7 @@
 ---
 title: "Prince Ngobeni"
 description: "Prince Ngobeni is a Senior Biochar researcher at University of the Free State in ZA. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.172075
+date: 2026-07-11T12:53:41.413149
 url: "/cdr-researcher-census/researchers/prince-ngobeni-a5108394/"
 layout: "researcher"
 hiddenInHomeList: true

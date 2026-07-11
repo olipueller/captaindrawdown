@@ -1,7 +1,7 @@
 ---
 title: "Jaya Prasanth Rajakal"
 description: "Jaya Prasanth Rajakal is a Mid-career Soil Carbon researcher at Sunway University in MY. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.262469
+date: 2026-07-11T12:53:41.496861
 url: "/cdr-researcher-census/researchers/jaya-prasanth-rajakal-a5089827/"
 layout: "researcher"
 hiddenInHomeList: true

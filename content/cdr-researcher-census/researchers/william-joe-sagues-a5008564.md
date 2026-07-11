@@ -1,7 +1,7 @@
 ---
 title: "William Joe Sagues"
 description: "William Joe Sagues is a Mid-career General CDR researcher at North Carolina State University in US. With 60 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.980747
+date: 2026-07-11T12:53:40.200036
 url: "/cdr-researcher-census/researchers/william-joe-sagues-a5008564/"
 layout: "researcher"
 hiddenInHomeList: true

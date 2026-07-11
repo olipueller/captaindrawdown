@@ -1,7 +1,7 @@
 ---
 title: "Zhaoyang Liu"
 description: "Zhaoyang Liu is a Senior General CDR researcher at Jilin University in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.171368
+date: 2026-07-11T12:53:40.394143
 url: "/cdr-researcher-census/researchers/zhaoyang-liu-a5100603/"
 layout: "researcher"
 hiddenInHomeList: true

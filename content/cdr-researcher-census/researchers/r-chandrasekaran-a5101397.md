@@ -1,7 +1,7 @@
 ---
 title: "R Chandrasekaran"
 description: "R Chandrasekaran is a Senior General CDR researcher at National Institute of Technology Karnataka in IN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.089797
+date: 2026-07-11T12:53:41.337951
 url: "/cdr-researcher-census/researchers/r-chandrasekaran-a5101397/"
 layout: "researcher"
 hiddenInHomeList: true

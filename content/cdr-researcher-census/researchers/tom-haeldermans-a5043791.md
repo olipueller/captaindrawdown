@@ -1,7 +1,7 @@
 ---
 title: "Tom Haeldermans"
 description: "Tom Haeldermans is a Mid-career Biochar researcher at Hasselt University in BE. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.293890
+date: 2026-07-11T12:53:40.496483
 url: "/cdr-researcher-census/researchers/tom-haeldermans-a5043791/"
 layout: "researcher"
 hiddenInHomeList: true

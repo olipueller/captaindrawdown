@@ -1,7 +1,7 @@
 ---
 title: "Semra Bakkaloglu"
 description: "Semra Bakkaloglu is a Mid-career General CDR researcher at Imperial College London in GB. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.003399
+date: 2026-07-11T12:53:40.224325
 url: "/cdr-researcher-census/researchers/semra-bakkaloglu-a5036609/"
 layout: "researcher"
 hiddenInHomeList: true

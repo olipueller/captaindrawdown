@@ -1,7 +1,7 @@
 ---
 title: "Tianyi An"
 description: "Tianyi An is an Early-career Biochar researcher at Suzhou University of Science and Technology in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.204796
+date: 2026-07-11T12:53:41.443340
 url: "/cdr-researcher-census/researchers/tianyi-an-a5002939/"
 layout: "researcher"
 hiddenInHomeList: true

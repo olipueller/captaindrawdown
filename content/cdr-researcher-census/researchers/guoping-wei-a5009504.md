@@ -1,7 +1,7 @@
 ---
 title: "Guoping Wei"
 description: "Guoping Wei is a Mid-career Biochar researcher at Zhejiang Institute of Modern Textile Industry in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.923389
+date: 2026-07-11T12:53:41.252534
 url: "/cdr-researcher-census/researchers/guoping-wei-a5009504/"
 layout: "researcher"
 hiddenInHomeList: true

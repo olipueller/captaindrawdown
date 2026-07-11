@@ -1,7 +1,7 @@
 ---
 title: "Jianyang Gao"
 description: "Jianyang Gao is a Mid-career Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.234549
+date: 2026-07-11T12:53:40.436592
 url: "/cdr-researcher-census/researchers/jianyang-gao-a5036318/"
 layout: "researcher"
 hiddenInHomeList: true

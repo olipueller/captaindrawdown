@@ -1,7 +1,7 @@
 ---
 title: "Xiande Ji"
 description: "Xiande Ji is a Mid-career Soil Carbon researcher at University of Groningen in NL. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.810125
+date: 2026-07-11T12:53:41.192556
 url: "/cdr-researcher-census/researchers/xiande-ji-a5057152/"
 layout: "researcher"
 hiddenInHomeList: true

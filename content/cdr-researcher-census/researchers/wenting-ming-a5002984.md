@@ -1,7 +1,7 @@
 ---
 title: "Wenting Ming"
 description: "Wenting Ming is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.609303
+date: 2026-07-11T12:53:40.828055
 url: "/cdr-researcher-census/researchers/wenting-ming-a5002984/"
 layout: "researcher"
 hiddenInHomeList: true

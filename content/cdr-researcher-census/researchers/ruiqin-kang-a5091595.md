@@ -1,7 +1,7 @@
 ---
 title: "Ruiqin Kang"
 description: "Ruiqin Kang is a Mid-career Biochar researcher at Anyang Institute of Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.146109
+date: 2026-07-11T12:53:41.389289
 url: "/cdr-researcher-census/researchers/ruiqin-kang-a5091595/"
 layout: "researcher"
 hiddenInHomeList: true

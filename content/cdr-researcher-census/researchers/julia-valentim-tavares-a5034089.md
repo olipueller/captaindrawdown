@@ -1,7 +1,7 @@
 ---
 title: "Julia Valentim Tavares"
 description: "Julia Valentim Tavares is a Mid-career Soil Carbon researcher at Uppsala University in SE. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.001276
+date: 2026-07-11T12:53:40.222225
 url: "/cdr-researcher-census/researchers/julia-valentim-tavares-a5034089/"
 layout: "researcher"
 hiddenInHomeList: true

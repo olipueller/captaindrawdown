@@ -1,7 +1,7 @@
 ---
 title: "Laura Helene Rasmussen"
 description: "Laura Helene Rasmussen is a Mid-career Soil Carbon researcher at Department of Mathematical Sciences in RU. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.050877
+date: 2026-07-11T12:53:41.307298
 url: "/cdr-researcher-census/researchers/laura-helene-rasmussen-a5067457/"
 layout: "researcher"
 hiddenInHomeList: true

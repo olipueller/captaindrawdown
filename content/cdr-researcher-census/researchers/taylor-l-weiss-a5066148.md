@@ -1,7 +1,7 @@
 ---
 title: "Taylor L. Weiss"
 description: "Taylor L. Weiss is a Senior General CDR researcher at Arizona State University - Polytechnic Campus in US. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.950473
+date: 2026-07-11T12:53:40.167779
 url: "/cdr-researcher-census/researchers/taylor-l-weiss-a5066148/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Peduruhewa H. Jeewani"
 description: "Peduruhewa H. Jeewani is a Mid-career Soil Carbon researcher at Bangor University in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.169949
+date: 2026-07-11T12:53:40.392806
 url: "/cdr-researcher-census/researchers/peduruhewa-h-jeewani-a5016466/"
 layout: "researcher"
 hiddenInHomeList: true

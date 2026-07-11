@@ -1,7 +1,7 @@
 ---
 title: "Amlan Ghosh"
 description: "Amlan Ghosh is a Mid-career Soil Carbon researcher at Instituto de Ciencias Agrarias in ES. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.419283
+date: 2026-07-11T12:53:41.624868
 url: "/cdr-researcher-census/researchers/amlan-ghosh-a5014727/"
 layout: "researcher"
 hiddenInHomeList: true

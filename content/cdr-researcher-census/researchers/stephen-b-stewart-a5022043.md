@@ -1,7 +1,7 @@
 ---
 title: "Stephen B. Stewart"
 description: "Stephen B. Stewart is a Mid-career Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.382333
+date: 2026-07-11T12:53:40.587617
 url: "/cdr-researcher-census/researchers/stephen-b-stewart-a5022043/"
 layout: "researcher"
 hiddenInHomeList: true

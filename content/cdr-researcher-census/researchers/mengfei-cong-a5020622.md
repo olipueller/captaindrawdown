@@ -1,7 +1,7 @@
 ---
 title: "Mengfei Cong"
 description: "Mengfei Cong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.406031
+date: 2026-07-11T12:53:40.612144
 url: "/cdr-researcher-census/researchers/mengfei-cong-a5020622/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 387 |
 | Publications | 27 |
-| CDR Focus | 33.3% |
+| CDR Focus | 37.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -68,13 +68,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Long‐term fate of photosynthetic carbon in desert plants: microbial necromass‐driven pathways for soil carbon stabilization** (2025)
    2 citations · Soil Carbon
 
-8. **Plant to carbonate: A microbial bridge for atmospheric CO2 sequestration into soil inorganic carbon revealed by in-situ 13CO2 labeling** (2026)
+8. **Shifts in microbial life-history strategies drive soil organic carbon accumulation during arid-land afforestation** (2026)
+   1 citations · Soil Carbon
+
+9. **Plant to carbonate: A microbial bridge for atmospheric CO2 sequestration into soil inorganic carbon revealed by in-situ 13CO2 labeling** (2026)
    0 citations
 
-9. **Microbial-derived carbon is key to mineral-associated organic carbon accumulation in arid cropland soils** (2026)
-   0 citations · Soil Carbon
-
-10. **Microbial carbon-cycling processes drives soil organic carbon accumulation during afforestation in hyper-arid regions** (2026)
+10. **Microbial-derived carbon is key to mineral-associated organic carbon accumulation in arid cropland soils** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

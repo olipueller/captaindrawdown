@@ -1,7 +1,7 @@
 ---
 title: "Nicola A. Wiseman"
 description: "Nicola A. Wiseman is a Mid-career Ocean CDR researcher at University of Bristol in GB. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.219700
+date: 2026-07-11T12:53:40.420938
 url: "/cdr-researcher-census/researchers/nicola-a-wiseman-a5048607/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Naijiang Wang"
 description: "Naijiang Wang is a Mid-career Soil Carbon researcher at Shangdong Agriculture and Engineering University in CN. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.141347
+date: 2026-07-11T12:53:40.364963
 url: "/cdr-researcher-census/researchers/naijiang-wang-a5027760/"
 layout: "researcher"
 hiddenInHomeList: true

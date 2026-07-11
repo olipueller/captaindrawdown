@@ -1,7 +1,7 @@
 ---
 title: "Aline F. Rodrigues"
 description: "Aline F. Rodrigues is a Senior Soil Carbon researcher at Pontifícia Universidade Católica do Rio de Janeiro in BR. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.321655
+date: 2026-07-11T12:53:40.524297
 url: "/cdr-researcher-census/researchers/aline-f-rodrigues-a5082146/"
 layout: "researcher"
 hiddenInHomeList: true

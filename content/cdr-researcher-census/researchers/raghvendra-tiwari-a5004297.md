@@ -1,7 +1,7 @@
 ---
 title: "Raghvendra Tiwari"
 description: "Raghvendra Tiwari is a Mid-career Soil Carbon researcher at University of Lucknow in IN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.139220
+date: 2026-07-11T12:53:41.383353
 url: "/cdr-researcher-census/researchers/raghvendra-tiwari-a5004297/"
 layout: "researcher"
 hiddenInHomeList: true

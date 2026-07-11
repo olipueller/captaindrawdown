@@ -1,7 +1,7 @@
 ---
 title: "Yanhong Lu"
 description: "Yanhong Lu is a Senior Soil Carbon researcher at Google (United States) in US. With 111 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.812761
+date: 2026-07-11T12:53:40.009752
 url: "/cdr-researcher-census/researchers/yanhong-lu-a5040504/"
 layout: "researcher"
 hiddenInHomeList: true

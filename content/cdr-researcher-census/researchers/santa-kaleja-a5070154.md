@@ -1,7 +1,7 @@
 ---
 title: "Santa Kalēja"
 description: "Santa Kalēja is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 34 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.399964
+date: 2026-07-11T12:53:41.606458
 url: "/cdr-researcher-census/researchers/santa-kaleja-a5070154/"
 layout: "researcher"
 hiddenInHomeList: true

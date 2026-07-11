@@ -1,7 +1,7 @@
 ---
 title: "Fanlong Kong"
 description: "Fanlong Kong is a Senior Soil Carbon researcher at Qingdao University in CN. With 95 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.854212
+date: 2026-07-11T12:53:40.059073
 url: "/cdr-researcher-census/researchers/fanlong-kong-a5101777/"
 layout: "researcher"
 hiddenInHomeList: true

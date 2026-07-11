@@ -1,7 +1,7 @@
 ---
 title: "Kai Radtke"
 description: "Kai Radtke is a Mid-career General CDR researcher. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.842687
+date: 2026-07-11T12:53:40.046097
 url: "/cdr-researcher-census/researchers/kai-radtke-a5004463/"
 layout: "researcher"
 hiddenInHomeList: true

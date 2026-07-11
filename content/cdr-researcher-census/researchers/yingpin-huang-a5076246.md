@@ -1,7 +1,7 @@
 ---
 title: "Ying‐Pin Huang"
 description: "Ying‐Pin Huang is a Senior Soil Carbon researcher at Industrial Technology Research Institute in TW. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.237823
+date: 2026-07-11T12:53:40.439798
 url: "/cdr-researcher-census/researchers/yingpin-huang-a5076246/"
 layout: "researcher"
 hiddenInHomeList: true

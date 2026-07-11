@@ -1,7 +1,7 @@
 ---
 title: "Peter Johnston"
 description: "Peter Johnston is a Senior General CDR researcher at Environment and Climate Change Canada in CA. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.092820
+date: 2026-07-11T12:53:41.340972
 url: "/cdr-researcher-census/researchers/peter-johnston-a5032483/"
 layout: "researcher"
 hiddenInHomeList: true

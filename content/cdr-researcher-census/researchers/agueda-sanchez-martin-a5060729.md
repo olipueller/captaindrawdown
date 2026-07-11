@@ -1,7 +1,7 @@
 ---
 title: "Águeda Sánchez-Martín"
 description: "Águeda Sánchez-Martín is a Mid-career Soil Carbon researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 27 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.174557
+date: 2026-07-11T12:53:41.415341
 url: "/cdr-researcher-census/researchers/agueda-sanchez-martin-a5060729/"
 layout: "researcher"
 hiddenInHomeList: true

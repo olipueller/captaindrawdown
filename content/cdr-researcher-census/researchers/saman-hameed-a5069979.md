@@ -1,7 +1,7 @@
 ---
 title: "Saman Hameed"
 description: "Saman Hameed is a Mid-career General CDR researcher at University of Leeds in GB. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.297674
+date: 2026-07-11T12:53:40.500182
 url: "/cdr-researcher-census/researchers/saman-hameed-a5069979/"
 layout: "researcher"
 hiddenInHomeList: true

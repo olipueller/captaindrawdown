@@ -1,7 +1,7 @@
 ---
 title: "Quanfeng Yao"
 description: "Quanfeng Yao is a Mid-career Biochar researcher at Fiberhome Technology Group (China) in CN. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.402409
+date: 2026-07-11T12:53:41.608714
 url: "/cdr-researcher-census/researchers/quanfeng-yao-a5032658/"
 layout: "researcher"
 hiddenInHomeList: true

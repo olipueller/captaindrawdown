@@ -1,7 +1,7 @@
 ---
 title: "Fengyou Gu"
 description: "Fengyou Gu is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.186634
+date: 2026-07-11T12:53:41.426240
 url: "/cdr-researcher-census/researchers/fengyou-gu-a5050131/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wenxuan Wang"
 description: "Wenxuan Wang is a Mid-career Soil Carbon researcher at Universiti Sains Malaysia in MY. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.101261
+date: 2026-07-11T12:53:41.348422
 url: "/cdr-researcher-census/researchers/wenxuan-wang-a5100755/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yichuan Mei"
 description: "Yichuan Mei is a Mid-career Biochar researcher at Renmin University of China in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.799716
+date: 2026-07-11T12:53:41.171169
 url: "/cdr-researcher-census/researchers/yichuan-mei-a5104197/"
 layout: "researcher"
 hiddenInHomeList: true

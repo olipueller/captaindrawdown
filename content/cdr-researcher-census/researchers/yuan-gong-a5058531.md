@@ -1,7 +1,7 @@
 ---
 title: "Yuan Gong"
 description: "Yuan Gong is a Senior Soil Carbon researcher at Chuzhou University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.143091
+date: 2026-07-11T12:53:41.386907
 url: "/cdr-researcher-census/researchers/yuan-gong-a5058531/"
 layout: "researcher"
 hiddenInHomeList: true

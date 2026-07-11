@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Han"
 description: "Bingbing Han is a Senior Soil Carbon researcher at Shandong University of Traditional Chinese Medicine in CN. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.349726
+date: 2026-07-11T12:53:40.553939
 url: "/cdr-researcher-census/researchers/bingbing-han-a5101542/"
 layout: "researcher"
 hiddenInHomeList: true

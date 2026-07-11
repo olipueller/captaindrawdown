@@ -1,7 +1,7 @@
 ---
 title: "Saïd Elfouki"
 description: "Saïd Elfouki is a Mid-career Soil Carbon researcher at Agroscope in CH. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.278407
+date: 2026-07-11T12:53:41.511874
 url: "/cdr-researcher-census/researchers/said-elfouki-a5011955/"
 layout: "researcher"
 hiddenInHomeList: true

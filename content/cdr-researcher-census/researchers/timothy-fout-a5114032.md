@@ -1,7 +1,7 @@
 ---
 title: "Timothy Fout"
 description: "Timothy Fout is a Senior General CDR researcher at United States Department of Energy in US. With 57 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.857178
+date: 2026-07-11T12:53:40.063407
 url: "/cdr-researcher-census/researchers/timothy-fout-a5114032/"
 layout: "researcher"
 hiddenInHomeList: true

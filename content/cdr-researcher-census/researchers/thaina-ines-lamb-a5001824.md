@@ -1,7 +1,7 @@
 ---
 title: "Thainá Inês Lamb"
 description: "Thainá Inês Lamb is a Mid-career Soil Carbon researcher at Univates in BR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.836674
+date: 2026-07-11T12:53:41.211616
 url: "/cdr-researcher-census/researchers/thaina-ines-lamb-a5001824/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rusha Begna Wakweya"
 description: "Rusha Begna Wakweya is an Early-career Soil Carbon researcher at Ethiopian Institute of Agricultural Research in ET. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.844771
+date: 2026-07-11T12:53:41.217004
 url: "/cdr-researcher-census/researchers/rusha-begna-wakweya-a5014603/"
 layout: "researcher"
 hiddenInHomeList: true

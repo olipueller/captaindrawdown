@@ -1,7 +1,7 @@
 ---
 title: "Weiming Yan"
 description: "Weiming Yan is a Senior Soil Carbon researcher at Shenzhen University in CN. With 68 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.834529
+date: 2026-07-11T12:53:40.037105
 url: "/cdr-researcher-census/researchers/weiming-yan-a5021282/"
 layout: "researcher"
 hiddenInHomeList: true

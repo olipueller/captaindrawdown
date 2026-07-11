@@ -1,7 +1,7 @@
 ---
 title: "Fuxing Liu"
 description: "Fuxing Liu is a Senior Soil Carbon researcher at Shanghai Academy of Agricultural Sciences in CN. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.991622
+date: 2026-07-11T12:53:40.211594
 url: "/cdr-researcher-census/researchers/fuxing-liu-a5022222/"
 layout: "researcher"
 hiddenInHomeList: true

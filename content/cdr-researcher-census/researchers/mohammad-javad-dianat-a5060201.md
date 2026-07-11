@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Javad Dianat"
 description: "Mohammad Javad Dianat is a Mid-career General CDR researcher at Persian Gulf University in IR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.860142
+date: 2026-07-11T12:53:41.219440
 url: "/cdr-researcher-census/researchers/mohammad-javad-dianat-a5060201/"
 layout: "researcher"
 hiddenInHomeList: true

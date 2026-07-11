@@ -1,7 +1,7 @@
 ---
 title: "Spencer Roth"
 description: "Spencer Roth is a Mid-career Soil Carbon researcher at Oak Ridge National Laboratory in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.119210
+date: 2026-07-11T12:53:41.365303
 url: "/cdr-researcher-census/researchers/spencer-roth-a5014720/"
 layout: "researcher"
 hiddenInHomeList: true

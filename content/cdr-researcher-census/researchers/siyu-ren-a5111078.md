@@ -1,7 +1,7 @@
 ---
 title: "Siyu Ren"
 description: "Siyu Ren is a Mid-career Soil Carbon researcher at Tongji University in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.150269
+date: 2026-07-11T12:53:41.392918
 url: "/cdr-researcher-census/researchers/siyu-ren-a5111078/"
 layout: "researcher"
 hiddenInHomeList: true

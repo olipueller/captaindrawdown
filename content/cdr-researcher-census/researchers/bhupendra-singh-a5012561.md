@@ -1,7 +1,7 @@
 ---
 title: "Bhupendra Singh"
 description: "Bhupendra Singh is a Senior Soil Carbon researcher at Hemwati Nandan Bahuguna Garhwal University in IN. With 83 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.142897
+date: 2026-07-11T12:53:40.366251
 url: "/cdr-researcher-census/researchers/bhupendra-singh-a5012561/"
 layout: "researcher"
 hiddenInHomeList: true

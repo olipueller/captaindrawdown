@@ -1,7 +1,7 @@
 ---
 title: "Emily F. Creegan"
 description: "Emily F. Creegan is a Senior Soil Carbon researcher at New Mexico State University in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.882740
+date: 2026-07-11T12:53:41.225630
 url: "/cdr-researcher-census/researchers/emily-f-creegan-a5036388/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ivonne Pena Cabra"
 description: "Ivonne Pena Cabra is a Mid-career General CDR researcher at National Energy Technology Laboratory in US. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.487512
+date: 2026-07-11T12:53:40.700931
 url: "/cdr-researcher-census/researchers/ivonne-pena-cabra-a5071541/"
 layout: "researcher"
 hiddenInHomeList: true

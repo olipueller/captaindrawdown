@@ -1,7 +1,7 @@
 ---
 title: "Xianlei Fan"
 description: "Xianlei Fan is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.253084
+date: 2026-07-11T12:53:40.454729
 url: "/cdr-researcher-census/researchers/xianlei-fan-a5043015/"
 layout: "researcher"
 hiddenInHomeList: true

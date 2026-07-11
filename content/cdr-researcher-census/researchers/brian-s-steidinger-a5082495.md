@@ -1,7 +1,7 @@
 ---
 title: "Brian S. Steidinger"
-description: "Brian S. Steidinger is a Mid-career Soil Carbon researcher at University of Edinburgh in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.998520
+description: "Brian S. Steidinger is a Mid-career Enhanced Weathering researcher at University of Edinburgh in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T12:53:40.219145
 url: "/cdr-researcher-census/researchers/brian-s-steidinger-a5082495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Edinburgh · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 1,108 |
 | Publications | 20 |
-| CDR Focus | 5.0% |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microbiome manipulation and enhanced weathering stimulate CO2 removal in reforestation** (2025)
    1 citations · Enhanced Weathering
+
+2. **Microbiome manipulation and enhanced weathering influence tree growth in reforestation** (2026)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

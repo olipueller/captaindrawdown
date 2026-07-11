@@ -1,7 +1,7 @@
 ---
 title: "Maitha Alshamsi"
 description: "Maitha Alshamsi is a Mid-career Ocean CDR researcher at University of Sharjah in AE. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.732371
+date: 2026-07-11T12:53:41.032013
 url: "/cdr-researcher-census/researchers/maitha-alshamsi-a5056233/"
 layout: "researcher"
 hiddenInHomeList: true

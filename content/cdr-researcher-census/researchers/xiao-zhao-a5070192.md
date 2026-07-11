@@ -1,7 +1,7 @@
 ---
 title: "Xiao Zhao"
 description: "Xiao Zhao is a Senior Biochar researcher at North China University of Water Resources and Electric Power in CN. With 60 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.228977
+date: 2026-07-11T12:53:40.430771
 url: "/cdr-researcher-census/researchers/xiao-zhao-a5070192/"
 layout: "researcher"
 hiddenInHomeList: true

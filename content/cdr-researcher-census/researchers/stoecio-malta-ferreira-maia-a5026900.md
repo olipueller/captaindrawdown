@@ -1,7 +1,7 @@
 ---
 title: "Stoécio Malta Ferreira Maia"
 description: "Stoécio Malta Ferreira Maia is a Senior Soil Carbon researcher at Instituto Federal de Educação, Ciência e Tecnologia de Alagoas in BR. With 81 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:42.878342
+date: 2026-07-11T12:53:40.087674
 url: "/cdr-researcher-census/researchers/stoecio-malta-ferreira-maia-a5026900/"
 layout: "researcher"
 hiddenInHomeList: true

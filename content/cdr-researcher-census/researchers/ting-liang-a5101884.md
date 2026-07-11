@@ -1,7 +1,7 @@
 ---
 title: "Ting Liang"
 description: "Ting Liang is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.169400
+date: 2026-07-11T12:53:40.392333
 url: "/cdr-researcher-census/researchers/ting-liang-a5101884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 631 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
-| Trajectory | Declining |
+| CDR Focus | 13.9% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -59,10 +59,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Long-term organic fertilization decreases soil carbon biodegradability by mediating molecular transformation of dissolved organic matter** (2025)
    6 citations · Soil Carbon
 
-4. **Using ethylene combined with green manuring to enhance rice productivity, economic benefit, and energy efficiency in double-rice paddy field** (2026)
+4. **Green manuring outperforms cattle manure in soil carbon sequestration by reshaping dissolved organic matter composition and fungal life strategies** (2026)
+   2 citations · Soil Carbon
+
+5. **Using ethylene combined with green manuring to enhance rice productivity, economic benefit, and energy efficiency in double-rice paddy field** (2026)
    0 citations
 
-5. **Co-Incorporating Dom from Chinese Milk Vetch and Rice Straw with Rape Straw Biochar Mitigates Cd Uptake by Rice: The Physiology and Passivation Mechanism** (2024)
+6. **Co-Incorporating Dom from Chinese Milk Vetch and Rice Straw with Rape Straw Biochar Mitigates Cd Uptake by Rice: The Physiology and Passivation Mechanism** (2024)
    0 citations · Biochar
 
 ## External Profiles

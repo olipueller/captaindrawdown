@@ -1,7 +1,7 @@
 ---
 title: "Libing Gao"
 description: "Libing Gao is a Mid-career Soil Carbon researcher at Taiyuan University of Science and Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.176730
+date: 2026-07-11T12:53:41.417061
 url: "/cdr-researcher-census/researchers/libing-gao-a5008629/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqiang Feng"
 description: "Xiaoqiang Feng is a Senior Biochar researcher at Hainan University in CN. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.096122
+date: 2026-07-11T12:53:40.319325
 url: "/cdr-researcher-census/researchers/xiaoqiang-feng-a5109543/"
 layout: "researcher"
 hiddenInHomeList: true

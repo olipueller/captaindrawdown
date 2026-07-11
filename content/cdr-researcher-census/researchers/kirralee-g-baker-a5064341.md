@@ -1,7 +1,7 @@
 ---
 title: "Kirralee G. Baker"
 description: "Kirralee G. Baker is a Mid-career Ocean CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.308684
+date: 2026-07-11T12:53:40.511356
 url: "/cdr-researcher-census/researchers/kirralee-g-baker-a5064341/"
 layout: "researcher"
 hiddenInHomeList: true

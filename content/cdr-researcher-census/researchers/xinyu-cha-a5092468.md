@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Cha"
 description: "Xinyu Cha is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.111897
+date: 2026-07-11T12:53:41.358388
 url: "/cdr-researcher-census/researchers/xinyu-cha-a5092468/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zeki Karaca"
 description: "Zeki Karaca is a Mid-career General CDR researcher at University of Maine System in US. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.365118
+date: 2026-07-11T12:53:41.574266
 url: "/cdr-researcher-census/researchers/zeki-karaca-a5054768/"
 layout: "researcher"
 hiddenInHomeList: true

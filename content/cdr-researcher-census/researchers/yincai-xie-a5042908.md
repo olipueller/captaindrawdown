@@ -1,7 +1,7 @@
 ---
 title: "Yincai Xie"
 description: "Yincai Xie is an Early-career Soil Carbon researcher at RS Dynamics (Czechia) in CZ. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.437122
+date: 2026-07-11T12:53:41.643038
 url: "/cdr-researcher-census/researchers/yincai-xie-a5042908/"
 layout: "researcher"
 hiddenInHomeList: true

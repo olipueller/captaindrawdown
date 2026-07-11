@@ -1,7 +1,7 @@
 ---
 title: "Fuquan He"
 description: "Fuquan He is a Mid-career Soil Carbon researcher at Guangdong University of Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.181637
+date: 2026-07-11T12:53:41.421753
 url: "/cdr-researcher-census/researchers/fuquan-he-a5114013/"
 layout: "researcher"
 hiddenInHomeList: true

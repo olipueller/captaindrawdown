@@ -1,7 +1,7 @@
 ---
 title: "Suzanne M. Peyer"
 description: "Suzanne M. Peyer is a Senior Soil Carbon researcher at University of Wisconsin–Madison in US. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.109184
+date: 2026-07-11T12:53:40.333123
 url: "/cdr-researcher-census/researchers/suzanne-m-peyer-a5042267/"
 layout: "researcher"
 hiddenInHomeList: true

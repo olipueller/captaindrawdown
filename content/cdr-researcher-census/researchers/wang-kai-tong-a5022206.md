@@ -1,7 +1,7 @@
 ---
 title: "Wang Kai Tong"
 description: "Wang Kai Tong is a Mid-career Biochar researcher at Shanghai University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.000895
+date: 2026-07-11T12:53:41.282334
 url: "/cdr-researcher-census/researchers/wang-kai-tong-a5022206/"
 layout: "researcher"
 hiddenInHomeList: true

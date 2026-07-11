@@ -1,7 +1,7 @@
 ---
 title: "Pengpeng Luan"
 description: "Pengpeng Luan is a Mid-career Biochar researcher at Tianjin University in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.435930
+date: 2026-07-11T12:53:40.644297
 url: "/cdr-researcher-census/researchers/pengpeng-luan-a5040826/"
 layout: "researcher"
 hiddenInHomeList: true

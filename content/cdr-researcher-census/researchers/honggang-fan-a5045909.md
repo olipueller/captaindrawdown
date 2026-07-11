@@ -1,7 +1,7 @@
 ---
 title: "Honggang Fan"
 description: "Honggang Fan is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.275042
+date: 2026-07-11T12:53:40.476835
 url: "/cdr-researcher-census/researchers/honggang-fan-a5045909/"
 layout: "researcher"
 hiddenInHomeList: true

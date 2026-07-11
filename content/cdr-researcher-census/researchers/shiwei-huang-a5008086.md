@@ -1,7 +1,7 @@
 ---
 title: "Shiwei Huang"
 description: "Shiwei Huang is a Mid-career Soil Carbon researcher at Central South University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:44.021663
+date: 2026-07-11T12:53:41.291022
 url: "/cdr-researcher-census/researchers/shiwei-huang-a5008086/"
 layout: "researcher"
 hiddenInHomeList: true

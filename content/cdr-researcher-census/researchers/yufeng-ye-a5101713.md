@@ -1,7 +1,7 @@
 ---
 title: "Yufeng Ye"
 description: "Yufeng Ye is a Senior Soil Carbon researcher at University of Electronic Science and Technology of China in CN. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T11:05:43.649700
+date: 2026-07-11T12:53:40.869923
 url: "/cdr-researcher-census/researchers/yufeng-ye-a5101713/"
 layout: "researcher"
 hiddenInHomeList: true
